@@ -157,6 +157,8 @@ Premium precedents available on the Contractology website include [non disclosur
 * [Twitter](http://twitter.com/play0ad)
 * [YouTube](http://youtube.com/play0ad)
 * [Itch.io](https://play0ad.itch.io/)
+* [PeerTube](https://videos.pair2jeux.tube/c/playzeroad_channel/videos)
+* [LinkTree](https://linktr.ee/wildfire_games)
 
 * [Wildfire Games](http://wildfiregames.com/)
 * [Contact Us](https://play0ad.com/about/contact-us/)
