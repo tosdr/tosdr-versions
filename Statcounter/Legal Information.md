@@ -188,14 +188,12 @@ Your email address
 * [Statcounter on Facebook](https://www.facebook.com/StatCounter-276618292699885/)
 * [Statcounter on Twitter](https://twitter.com/statcounter)
 
-webf002
+webf001
 
-17.555952072144
+16.091108322144
 
 [![Web
 Analytics Made Easy - StatCounter](//c.statcounter.com/11601825/0/9b281417/1/)](https://statcounter.com/ "Web Analytics
 Made Easy - StatCounter")
 
 [![blogger visitor counter](https://c.statcounter.com/10011918/0/458f783c/1/)](https://statcounter.com/blogger/ "blogger visitor counter")
-
-[![Web Analytics](https://c.statcounter.com/13007006/0/953939b4/1/)](https://statcounter.com/ "Web Analytics")
