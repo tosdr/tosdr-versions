@@ -53,7 +53,7 @@ HealthAllergy TrackerAir Quality IndexCold & Flu TrackerSkin Health
 
 Lifestyle
 
-Atmosphere Product GuidesGrilling SeasonHome & GardenTravel & OutdoorsPets & AnimalsGamesExternal Link
+Grilling SeasonHome & GardenTravel & OutdoorsPets & AnimalsGamesExternal Link
 
 Radar & Maps
 
@@ -71,7 +71,7 @@ Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/health/video/listeria-outbreak-deli-meats)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/science/nature/video/texas-houston-flood-hammerhead-flatworm-toxic-regenerate)
 
 More ForecastsMoreArrow down
 
