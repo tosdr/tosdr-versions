@@ -9,7 +9,7 @@ Effective date: 04 December 2020
 
 Wilson Page Ltd. (“Songwhip”, “we”, “us” and “our”) is highly committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regards to your personal information, please contact us at [\[email protected\]](https://songwhip.com/cdn-cgi/l/email-protection).
 
-When you visit our website https://songwhip.com (the "Website"), and more generally, use any of our services (the "Services", which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this Privacy Policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately.
+When you visit our website https://songwhip.com (the “Website“), and more generally, use any of our services (the “Services“, which include the Website), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this Privacy Policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of our Services immediately.
 
 This Privacy Policy applies to all information collected through our Services (which, as described above, includes our Website), as well as, any related services, sales, marketing or events.
 
@@ -18,7 +18,7 @@ Please read this Privacy Policy (“Policy”) carefully as it will help you und
 **1\. What Information Do We Collect?**
 ---------------------------------------
 
-In Short:  We collect personal information that you provide to us.
+In Short: We collect personal information that you provide to us.
 
 We collect personal information that you voluntarily provide to us when you register on the Website, express an interest in obtaining information about us or our products and Services when you participate in activities on the Website or otherwise when you contact us.
 
@@ -35,7 +35,7 @@ All personal information that you provide to us must be true, complete and accur
 
 ### **Information automatically collected**
 
-In Short:  Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Website.
+In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Website.
 
 We automatically collect certain information when you visit, use or navigate Songwhip. Such type of information does not reveal your specific identity (like your name or contact information) but may include
 
@@ -63,12 +63,12 @@ In order to enhance our ability to provide relevant marketing, offers and servic
 * Custom profiles
 * Social media URLs
 
-If you interact with us on a social media platform using your social media account (e.g. Facebook or Twitter), we receive personal information about you such as your name, email address, and gender. Any personal information that we collect from your social media account depends on your social media account's privacy settings.
+If you interact with us on a social media platform using your social media account (e.g. Facebook or Twitter), we receive personal information about you such as your name, email address, and gender. Any personal information that we collect from your social media account depends on your social media account‘s privacy settings.
 
 **2\. How Do We Use Your Information?**
 ---------------------------------------
 
-In Short:  We process your information for purposes based on legitimate business interests, the fulfilment of our contract with you, compliance with our legal obligations, and/or your consent.
+In Short: We process your information for purposes based on legitimate business interests, the fulfilment of our contract with you, compliance with our legal obligations, and/or your consent.
 
 We use personal information collected via our Website for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
@@ -85,7 +85,7 @@ We use personal information collected via our Website for a variety of business 
 **3\. Will Your Personal Information Be Shared With Anyone?**
 -------------------------------------------------------------
 
-In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfil business obligations.
+In Short: We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfil business obligations.
 
 We may process or share your personal information that we hold based on the following basis:
 
@@ -120,7 +120,7 @@ Where we have entered into a contract with you, we may process your personal inf
 **4\. Who Else Can Access Your Information?**
 ---------------------------------------------
 
-In Short:  We only share information with the following third parties.
+In Short: We only share information with the following third parties.
 
 We only share and disclose your information with the following third parties. We have categorized each party so that you may easily understand the purpose of our information collection and processing practices. If we have processed your personal information based on your consent and you wish to revoke your consent, please contact us using the contact details provided below in section 13.
 
@@ -187,7 +187,7 @@ Songwhip uses YouTube API Services to find and link to related video content. By
 
 In Short: We keep your information for as long as necessary to fulfil the purposes outlined in this Policy unless otherwise required by law.
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this Policy unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this Policy will require us keeping your personal information for longer than one (1) months past the termination of the user's account.
+We will only keep your personal information for as long as it is necessary for the purposes set out in this Policy unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this Policy will require us keeping your personal information for longer than one (1) months past the termination of the user‘s account.
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
@@ -238,8 +238,8 @@ Most Web browsers are set to accept cookies by default. If you prefer, you can u
 
 You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list — however, we may still communicate with you, for example, to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may: Contact us using the contact information provided below in section 13.
 
-**11\. How Can You Review, Update, Or Delete The Data We Collect From You?**  
-------------------------------------------------------------------------------
+**11\. How Can You Review, Update, Or Delete The Data We Collect From You?**
+----------------------------------------------------------------------------
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please see section 13 below. We will respond to your request within 30 days.
 
@@ -248,7 +248,7 @@ Based on the applicable laws of your country, you may have the right to request 
 
 In Short: Yes, we will update this Policy as necessary to stay compliant with relevant laws.
 
-We may update this Policy from time to time. The updated version will be indicated by an updated "Effective" date and the updated version will be effective as soon as it is accessible. If we make material changes to this Policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Policy frequently to be informed of how we are protecting your information.
+We may update this Policy from time to time. The updated version will be indicated by an updated “Effective“ date and the updated version will be effective as soon as it is accessible. If we make material changes to this Policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Policy frequently to be informed of how we are protecting your information.
 
 **13\. How Can You Contact Us About This Policy?**
 --------------------------------------------------
@@ -261,30 +261,11 @@ Telecom House,
 Brighton, United Kingdom, BN1 6AF  
 Attention: Songwhip Legal
 
-* [Home](https://songwhip.com/)
-* [Make a link](https://songwhip.com/create)
-* [About Songwhip](https://songwhip.com/about)
-* [Contact](https://songwhip.com/contact)
-* [FAQs](https://songwhip.com/faq)
+[](https://songwhip.com/ "Home")
 
-Top searches
-
-* [Smart music links for indie artists](https://songwhip.com/ "Smart music links for indie artists")
-* [Linkfire alternative](https://songwhip.com/linkfire-alternative "Linkfire alternative")
-* [Free smart music links](https://songwhip.com/music-link-app "Free smart music links")
-
-Featured artists
-
-* [Ali Hosseinzadeh](https://songwhip.com/ali-hosseinzadeh "Ali Hosseinzadeh")
-* [M3NSA](https://songwhip.com/m3nsa "M3NSA")
-* [The Mouse Outfit](https://songwhip.com/themouseoutfit "The Mouse Outfit")
-* [Jackie Venson](https://songwhip.com/jackievenson "Jackie Venson")
-
-© 2024 Songwhip · [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
+© 2024 Songwhip [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
 
 [](https://songwhip.com/ "Go to Homepage")
-
-Login
 
 * [Home](https://songwhip.com/)
 * [Make a page](https://songwhip.com/create)
