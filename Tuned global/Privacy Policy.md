@@ -101,13 +101,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
-    [![](https://www.tunedglobal.com/hubfs/TUnedGlobal-Spafax-music-inflight-entertainment.jpeg)](https://blog.tunedglobal.com/news/gabb-music-plus-tuned-global-on-demand-music-streaming-service-for-kids?hsLang=en)
+    [![](https://www.tunedglobal.com/hubfs/AutomixIQ-TunedGlobal-man-1.jpeg)](https://blog.tunedglobal.com/news/tuned-globals-automixiq-mixed-tracks-like-a-dj-in-music-apps?hsLang=en)
+    
+    [Tuned Global’s AutomixIQ Lets Any Music App Supercharge Engagement](https://blog.tunedglobal.com/news/tuned-globals-automixiq-mixed-tracks-like-a-dj-in-music-apps?hsLang=en)
+    
+    [![](https://www.tunedglobal.com/hubfs/Gabb-Music-Plus-Product-Hero%E2%80%932-1-1.png)](https://blog.tunedglobal.com/news/gabb-music-plus-tuned-global-on-demand-music-streaming-service-for-kids?hsLang=en)
     
     [Gabb and Tuned Global launch Gabb Music+, a premium safe music streaming service for kids](https://blog.tunedglobal.com/news/gabb-music-plus-tuned-global-on-demand-music-streaming-service-for-kids?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/TunedGlobal-Spafax-CrunchDigital-Music-IFE-Airlines.jpg)](https://blog.tunedglobal.com/news/tuned-global-and-spafax-inflight-entertainment-music-backend?hsLang=en)
-    
-    [Tuned Global partners with Spafax to provide inflight music](https://blog.tunedglobal.com/news/tuned-global-and-spafax-inflight-entertainment-music-backend?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
