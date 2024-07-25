@@ -370,7 +370,7 @@ Subscribe To Updates
 * [Blog](https://www.trulybeauty.com/pages/blog)
 * [Truly Beauty Rewards](https://www.trulybeauty.com/pages/rewards)
 * [Press And Media](https://www.trulybeauty.com/pages/press-and-media)
-* [Affiliate Program](https://www.trulybeauty.com/pages/affiliate)
+* [Brand Ambassador](https://www.trulybeauty.com/pages/brand-ambassador)
 * [Save 10%](https://www.trulybeauty.com/pages/truly-subscribe-page)
 
 ### Help
