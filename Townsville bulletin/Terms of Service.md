@@ -58,7 +58,6 @@
     * ### [Education](https://www.townsvillebulletin.com.au/townsville-education)
         
         * [Schools Hub](https://www.townsvillebulletin.com.au/townsville-education/schools-hub)
-        * [Best in Class](https://www.townsvillebulletin.com.au/topics/best-in-class)
         * [Tertiary](https://www.townsvillebulletin.com.au/townsville-education/tertiary)
         * [Early Education](https://www.townsvillebulletin.com.au/townsville-education/early-education)
         * [Advice](https://www.townsvillebulletin.com.au/townsville-education/advice)
@@ -70,10 +69,6 @@
     
 * [National](https://www.townsvillebulletin.com.au/news/national)
     
-    * ### [The Voice](https://www.townsvillebulletin.com.au/news/national/the-voice)
-        
-    * ### [Coronavirus](https://www.townsvillebulletin.com.au/coronavirus)
-        
     * ### [New South Wales](https://www.townsvillebulletin.com.au/news/nsw)
         
     * ### [Northern Territory](https://www.townsvillebulletin.com.au/news/northern-territory)
@@ -163,7 +158,6 @@
     * ### [TV & Radio](https://www.townsvillebulletin.com.au/entertainment/television)
         
         * [Reality](https://www.townsvillebulletin.com.au/entertainment/television/reality)
-        * [Shark Quiz](https://www.townsvillebulletin.com.au/entertainment/shark-quiz)
     * ### [Competitions](https://www.townsvillebulletin.com.au/entertainment/competitions)
         
     
@@ -207,9 +201,10 @@
         
     * ### [Games](https://www.townsvillebulletin.com.au/lifestyle/games)
         
+        * [Shark Quiz](https://www.townsvillebulletin.com.au/entertainment/shark-quiz)
+        * [Sudoku](https://www.townsvillebulletin.com.au/lifestyle/games/sudoku)
         * [Crossword](https://www.townsvillebulletin.com.au/lifestyle/games/crossword)
         * [Cryptic Crossword](https://www.townsvillebulletin.com.au/lifestyle/games/cryptic-crossword)
-        * [Sudoku](https://www.townsvillebulletin.com.au/lifestyle/games/sudoku)
     * ### [Horoscopes](https://www.townsvillebulletin.com.au/lifestyle/horoscopes)
         
     
