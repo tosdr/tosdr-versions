@@ -1,4 +1,4 @@
-[Skip to content](#target-skip-to-content)This page is in English
+[Skip to content](#target-skip-to-content)
 
 [](https://www.understood.org/en)
 
@@ -8,17 +8,12 @@
 
 [](https://www.understood.org/en)
 
-* * [EN](https://www.understood.org/en/terms-of-use)|
-    * [ES](https://www.understood.org/es-mx/terms-of-use)
-    
-
 * Explore our resources
     * [Browse by topic](https://www.understood.org/en/topics)
     * [Content library](https://www.understood.org/en/hub)
     * [How to spot signs in kids](https://www.understood.org/en/take-note)
     * [Podcasts](https://www.understood.org/en/podcasts)
     * [Workplace resources](https://www.understood.org/en/workplace)
-    * [Wunder app for parents](https://www.understood.org/en/wunder?sidemenu)
 * About us
     * [Our mission](https://www.understood.org/en/mission)
     * [Our leadership](https://www.understood.org/en/our-team)
@@ -281,7 +276,7 @@ Subscribe
 * [Join our team](https://www.understood.org/en/join-our-team)
 
 * [Donation and giving](https://www.understood.org/en/donate)
-* [Contact us](https://www.understood.org/en/articles/contact-us)
+* [Contact us](https://www.understood.org/en/contact-us)
 * [Privacy policy](https://www.understood.org/en/privacy-policy)
 * [Terms of use](https://www.understood.org/en/terms-of-use)
 * [Fundraising disclosure](https://www.understood.org/en/fundraising-disclosure)
@@ -307,5 +302,3 @@ Use of this website is subject to our [Terms of Use](https://www.understood.org/
 New York, New York 10014
 
 Media inquiries: [media@understood.org](mailto:media@understood.org) (preferred) or [646-757-3100](tel:+16467573100)
-
-Copyright © 2014-2024 Understood For All Inc.
