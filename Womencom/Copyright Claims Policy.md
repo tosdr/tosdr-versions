@@ -41,70 +41,118 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Selena Gomez smiling](https://www.women.com/img/gallery/5-times-selena-gomez-took-body-shamers-to-task/intro-1721231448.jpg)](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
+*  [![Blake Lively smiling](https://www.women.com/img/gallery/6-times-blake-lively-nailed-trends-on-the-red-carpet-while-staying-true-to-her-style/intro-1721858740.jpg)](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
     
-    [5 Times Selena Gomez Took Body-Shamers To Task](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
-    =============================================================================================================================
+    [6 Times Blake Lively Nailed Trends On The Red Carpet While Staying True To Her Style](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
+    =========================================================================================================================================================================================
     
-    Heartbreakingly, Selena Gomez admitted that after being body shamed, she heard a voice in her head that told her she wasn't good enough.
+    Blake Lively is the queen of red carpet fashion, but if you've ever wondered why her looks standout so much, it's because they're always authentically her.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
+    By Emily Hutchinson [Read More](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
     
-* *  [![Jennifer Lopez posing](https://www.women.com/img/gallery/jennifer-lopezs-sexiest-red-carpet-looks-ranked/intro-1721234964.jpg)](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+* *  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Living](https://www.women.com/category/living/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
         
-        ### [Jennifer Lopez's Sexiest Red Carpet Looks, Ranked](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+        ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
         
-        When J.Lo isn't rocking denim trends, she's killing it in some of the sexiest red carpet dresses you've ever seen. And we've ranked them.
+        Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+        By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
         
-    *  [![Asleep wearing face mask](https://www.women.com/img/gallery/tiktoks-morning-shed-trend-promises-to-cut-your-beauty-routine-time-in-half/intro-1721241090.jpg)](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    *  [![Woman reviewing bills](https://www.women.com/img/gallery/underconsumption-core-is-the-ultimate-clapback-to-your-boomer-parents/intro-1721928842.jpg)](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Living](https://www.women.com/category/living/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Living](https://www.women.com/category/living/) By Emily Hutchinson
         
-        ### [TikTok's Morning Shed Trend Promises To Cut Your Beauty Routine Time In Half](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+        ### ['Underconsumption Core' Is The Ultimate Clapback To Your Boomer Parents](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
         
-        We've become obsessed with perfection. But is piling on as many products as possible before bed really the way to obtain it? We asked an expert to weigh in.
+        By embracing underconsumption core, young people are taking a stand and turning their backs on the idea that consumerism is the route to happiness.
         
-        By Amanda Chatel [Read More](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+        By Emily Hutchinson [Read More](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
         
 
 More Stories
 ------------
 
-*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/jennifer-lopezs-sexiest-red-carpet-looks-ranked/intro-1721234964.jpg)](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+*  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
     
-    ### [Jennifer Lopez's Sexiest Red Carpet Looks, Ranked](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
     
-    When J.Lo isn't rocking denim trends, she's killing it in some of the sexiest red carpet dresses you've ever seen. And we've ranked them.
+    Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
     
-*  [![Asleep wearing face mask](https://www.women.com/img/gallery/tiktoks-morning-shed-trend-promises-to-cut-your-beauty-routine-time-in-half/intro-1721241090.jpg)](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+*  [![Woman reviewing bills](https://www.women.com/img/gallery/underconsumption-core-is-the-ultimate-clapback-to-your-boomer-parents/intro-1721928842.jpg)](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### ['Underconsumption Core' Is The Ultimate Clapback To Your Boomer Parents](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+    
+    By embracing underconsumption core, young people are taking a stand and turning their backs on the idea that consumerism is the route to happiness.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+    
+*  [![Zendaya at Wimbeldon ](https://www.women.com/img/gallery/zendayas-mob-wife-manicure-hits-all-the-right-trends-for-summer-2024/intro-1721321182.jpg)](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    ### [TikTok's Morning Shed Trend Promises To Cut Your Beauty Routine Time In Half](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    ### [Zendaya's Mob Wife Manicure Hits All The Right Trends For Summer 2024](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
     
-    We've become obsessed with perfection. But is piling on as many products as possible before bed really the way to obtain it? We asked an expert to weigh in.
+    As the clean girl aesthetic become a distant memory, we welcome big looks, bold colors, and loud nails. In other words, the mob wife aesthetic.
     
-    By Amanda Chatel [Read More](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    By Amanda Chatel [Read More](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
+    
+*  [![Miley Cyrus calico hair](https://www.women.com/img/gallery/the-latest-animal-inspired-look-for-your-hair-is-calico-cat-coloring/intro-1721401966.jpg)](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [The Latest Animal-Inspired Look For Your Hair Is Calico Cat Coloring](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
+    
+    Sometimes all it takes is quickly glancing at your pet, perhaps your calico cat, to realize they're the one who will inspire your next look.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1626205/calico-cat-coloring-hair-trend/)
+    
+*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/the-leo-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1721703628.jpg)](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Leo Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
+    
+    There are so many famous Leos, so it wasn't hard to pinpoint celebrities who are perfectly in tune with the zodiac's distinctive personality traits.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1627288/leo-celebrities-perfectly-embody-zodiac-sign/)
+    
+*  [![Carey Mulligan](https://www.women.com/img/gallery/the-best-bob-hairstyles-of-2024/intro-1721317925.jpg)](https://www.women.com/1625371/best-bob-hairstyles-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [The Best Bob Hairstyles Of 2024](https://www.women.com/1625371/best-bob-hairstyles-2024/)
+    
+    If you want to change up your look or give short hair a try, bobs are the best way to do that. You need a little bit of inspiration.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1625371/best-bob-hairstyles-2024/)
     
 *  [![Jackie Onasis in pearls](https://www.women.com/img/gallery/pearl-jewelry-is-the-summer-trend-for-a-subtle-mermaidcore-vibe/intro-1721071903.jpg)](https://www.women.com/1622870/pearl-jewelry-summer-trend-subtle-mermaidcore-vibe/)
     
@@ -118,6 +166,30 @@ More Stories
     
     By Amanda Chatel [Read More](https://www.women.com/1622870/pearl-jewelry-summer-trend-subtle-mermaidcore-vibe/)
     
+*  [![Asleep wearing face mask](https://www.women.com/img/gallery/tiktoks-morning-shed-trend-promises-to-cut-your-beauty-routine-time-in-half/intro-1721241090.jpg)](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [TikTok's Morning Shed Trend Promises To Cut Your Beauty Routine Time In Half](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    
+    We've become obsessed with perfection. But is piling on as many products as possible before bed really the way to obtain it? We asked an expert to weigh in.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1624702/tiktok-morning-shed-trend-go-to-bed-ugly/)
+    
+*  [![Jennifer Lopez posing](https://www.women.com/img/gallery/jennifer-lopezs-sexiest-red-carpet-looks-ranked/intro-1721234964.jpg)](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Jennifer Lopez's Sexiest Red Carpet Looks, Ranked](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    
+    When J.Lo isn't rocking denim trends, she's killing it in some of the sexiest red carpet dresses you've ever seen. And we've ranked them.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
+    
 *  [![Woman on YouTube with peach lip gloss ](https://www.women.com/img/gallery/glazed-peach-lips-are-the-beauty-trend-making-your-summer-makeup-sweeter/intro-1721255024.jpg)](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -126,9 +198,21 @@ More Stories
     
     ### [Glazed Peach Lips Are The Beauty Trend Making Your Summer Makeup Sweeter](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
     
-    Glossy lips are getting a fruity upgrade for the summer with peach glaze lips. We've got all the tips for achieving the perfect fruity pout.
+    Your favorite gloss look is getting a fruity upgrade for the summer with peach glaze lips. We've got all the tips for achieving the perfect pout.
     
     By Bernadette Roe [Read More](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
+    
+*  [![Selena Gomez smiling](https://www.women.com/img/gallery/5-times-selena-gomez-took-body-shamers-to-task/intro-1721231448.jpg)](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    
+    ### [5 Times Selena Gomez Took Body-Shamers To Task](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
+    
+    Heartbreakingly, Selena Gomez admitted that after being body shamed, she heard a voice in her head that told her she wasn't good enough.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
     
 *  [![Hailey Bieber on Instagram ](https://www.women.com/img/gallery/hailey-biebers-bouffant-bob-is-the-high-volume-short-hair-look-of-the-summer/intro-1721072182.jpg)](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
     
@@ -138,7 +222,7 @@ More Stories
     
     ### [Hailey Bieber's Bouffant Bob Is The High-Volume Short Hair Look Of The Summer](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
     
-    If you need proof vintage hair is back, look no further than Hailey Bieber. Her bouffant bob has us ready to break out the hot rollers and teasing comb.
+    If you need proof vintage hair is back, look no further than Hailey Bieber. Her bouffant bob has us ready to break out the hot rollers and a teasing comb.
     
     By Bernadette Roe [Read More](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
     
@@ -345,90 +429,6 @@ More Stories
     Taylor Swift has been "dressing for revenge," and not just against her exes. Some of Swift's most iconic looks were aimed at Kanye and others.
     
     By Emily Hutchinson [Read More](https://www.women.com/1615532/times-taylor-swift-proved-she-was-revenge-dress-queen/)
-    
-*  [![Kim Kardashian holding books](https://www.women.com/img/gallery/the-best-books-the-kardashians-have-recommended/intro-1720641367.jpg)](https://www.women.com/1619876/best-books-kardashians-recommended/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [The Best Books The Kardashians Have Recommended](https://www.women.com/1619876/best-books-kardashians-recommended/)
-    
-    Over the years, the Kardashians have been vocal about their love of memoirs and self-help books. Here are some of the best books they've suggested.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1619876/best-books-kardashians-recommended/)
-    
-*  [![Woman wearing Aperol Spritz makeup](https://www.women.com/img/gallery/transport-to-italy-this-summer-with-the-bronzy-aperol-spritz-makeup-trend/intro-1720637919.jpg)](https://www.women.com/1619780/aperol-spritz-makeup-trend-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Transport To Italy This Summer With The Bronzy Aperol Spritz Makeup Trend](https://www.women.com/1619780/aperol-spritz-makeup-trend-summer-2024/)
-    
-    Italy's Aperol Spritz cocktail is the inspiration for Hailey Bieber's summer 2024 makeup trend, with a look that uses the drink's signature warm orange tones.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1619780/aperol-spritz-makeup-trend-summer-2024/)
-    
-*  [![Bunnie Xo on the red carpet](https://www.women.com/img/gallery/6-times-bunnie-xo-nailed-trends-while-staying-true-to-her-style/intro-1720714733.jpg)](https://www.women.com/1620523/times-bunnie-xo-nailed-trends-staying-true-her-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [6 Times Bunnie Xo Nailed Trends While Staying True To Her Style](https://www.women.com/1620523/times-bunnie-xo-nailed-trends-staying-true-her-style/)
-    
-    Bunnie Xo is well known for her fearless, edgy fashion that draws upon her Southern roots, but that hasn't stopped her from rocking the latest trends.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1620523/times-bunnie-xo-nailed-trends-staying-true-her-style/)
-    
-*  [![Reverse French manicure](https://www.women.com/img/gallery/6-reverse-french-manicure-ideas-for-ultimate-nail-inspo/intro-1720624607.jpg)](https://www.women.com/1619469/reverse-french-manicure-ideas-nail-inspo/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [6 Reverse French Manicure Ideas For Ultimate Nail Inspo](https://www.women.com/1619469/reverse-french-manicure-ideas-nail-inspo/)
-    
-    There's nothing quite like a French manicure, especially when it comes to versatility. For those new to the look, meet the reverse french mani.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619469/reverse-french-manicure-ideas-nail-inspo/)
-    
-*  [![Jennifer Lopez](https://www.women.com/img/gallery/jennifer-lopezs-realest-quotes-about-love-relationships/intro-1720559678.jpg)](https://www.women.com/1619038/jennifer-lopez-realest-quotes-about-love-relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
-    
-    ### [Jennifer Lopez's Realest Quotes About Love & Relationships](https://www.women.com/1619038/jennifer-lopez-realest-quotes-about-love-relationships/)
-    
-    If Jennifer Lopez stays true to herself and her beliefs about love, she'll come out the other side of her current situation stronger than ever.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619038/jennifer-lopez-realest-quotes-about-love-relationships/)
-    
-*  [![Short rounded manicure](https://www.women.com/img/gallery/the-nail-health-benefit-of-having-short-rounded-nails/intro-1720563315.jpg)](https://www.women.com/1619081/health-benefit-short-rounded-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Nail Health Benefit Of Having Short, Rounded Nails](https://www.women.com/1619081/health-benefit-short-rounded-nails/)
-    
-    Giving your nails and nail beds a break from time to time in exchange for short nails with rounded edges might be the best thing for you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619081/health-benefit-short-rounded-nails/)
-    
-*  [![Zendaya with bob](https://www.women.com/img/gallery/the-dad-bob-is-the-perfect-beginner-short-hair-look-to-try-in-2024/intro-1720561516.jpg)](https://www.women.com/1619052/dad-bob-beginner-short-hair-look-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The 'Dad Bob' Is The Perfect Beginner Short Hair Look To Try In 2024](https://www.women.com/1619052/dad-bob-beginner-short-hair-look-2024/)
-    
-    If you always wanted to try short hair but feared taking the leap, the dad bob is for you. You just need to figure out how you want to rock it.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619052/dad-bob-beginner-short-hair-look-2024/)
     
 
 Back
