@@ -101,11 +101,11 @@ Yubico protects you
 
 * terms and conditions](https://www.yubico.com/products/how-the-yubikey-works/)[![See YubiKeys as a Service](https://www.yubico.com/wp-content/uploads/2023/03/img-YubiEnterprise-nav-3-1.jpg)
 
-YubiEnterprise Subscription delivers scale and savings
+YubiKey as a Service delivers scale and savings
 
 Gain a future-proofed solution and faster MFA rollouts
 
-YubiKeys as a Service
+YubiKey as a Service
 
 * terms and conditions](https://www.yubico.com/yubienterprise-subscription-calculator/)
 
