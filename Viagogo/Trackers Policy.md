@@ -37,20 +37,15 @@ Types of cookies used on our Website
 
 There are different types of cookies that serve different purposes. We’ve set out below the categories of cookies we use on our Website. To the extent any personal information is collected through cookies, our Privacy Policy applies and complements this Cookie Policy. Please visit [here](https://www.viagogo.com/help/cookies-list) for more information about the individual cookies we use, the purposes for which we use them and the duration of the cookies.  
   
-**Strictly necessary cookies.** These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website, add items to your basket or to make payments via our Website. We do not require your consent in order to place these cookies since they provide essential Website functionality and without them, you would be unable to use our Website and services.  
+**Strictly necessary cookies.** These are cookies that are required for the operation of our Website. They include, for example, the “auths” cookie that enables you to log into secure areas of our Website, the “forterToken” cookie used for website security and fraud prevention, and the “rskxRunCookie” cookie that enables you to make secure payments via our Website. We do not require your consent in order to place these cookies since they provide essential Website functionality and without them, you would be unable to use our Website and services.  
   
-**Preference cookies.** These are used to collect information about you and your choices to allow us to recognize you when you return to our Website. This enables us to enhance and personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region and your log-in information).  
+**Preference cookies.** These are used to collect information about you and your choices to allow us to recognize you when you return to our Website. Cookies such as “so”, “wsso”, “soc” enable us to enhance and personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region and your log-in information). When you first access our Website, we ask for your consent to place preference cookies on your device.  
   
-**Analytical/performance cookies.** These cookies collect information about your use of our Website. For example, analytical/performance cookies allow us to recognise and count the number of visitors and show us how visitors use and interact with our Website, the items that have been clicked on and the individual pages that have been viewed. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily. Any information collected is only used by us for purposes related to improving our Website. When you first access our Website, we ask for your consent to place analytical/performance cookies on your device.  
+**Analytical/performance cookies.** These cookies collect information about your use of our Website. For example, analytical/performance cookies such as “ai\_user” and “sentryReplaySession” allow us to recognise and count the number of visitors and show us how visitors use and interact with our Website, the items that have been clicked on and the individual pages that have been viewed. We also use the Google Analytics service (as provided by Google, Inc. ("Google"), which uses cookies and similar technologies to collect and analyze information about use of the Website and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://www.viagogo.com/help/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).  
+Analytical/performance cookies help us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily. Any information collected is only used by us for purposes related to improving our Website. When you first access our Website, we ask for your consent to place analytical/performance cookies on your device.  
   
-
-**Google Analytics.** We use Google Analytics service (as provided by Google, Inc. (**"Google"**), which uses cookies and similar technologies to collect and analyze information about use of the Website and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](https://www.viagogo.com/help/www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
-
-  
-  
-**Advertising cookies.** These cookies are set to display targeted promotions or advertisements based upon your interest on our Website or to manage our advertising. These cookies collect information about your activities on our Website and other websites to provide you with targeted advertising.  
-  
-You may encounter cookies from our third-party service providers, including but not limited to (1) Facebook to provide advertising services through Facebook’s advertising and marketing platforms (e.g., Audience Network, Website Custom Audiences) and other social networking plug-ins or marketing tools, and (2) Google to provide advertising services through Google’s advertising and marketing platforms (e.g., DoubleClick for Publishers, Google DoubleClick AdX Service, Adwords). Facebook and Google may use the personal information that they have collected about you on our Website pursuant to their own privacy policies (Facebook Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) and Google Privacy Policy: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)).  
+**Advertising cookies.** These cookies are set to display targeted promotions or advertisements based upon your interest on our Website or to manage our advertising. These cookies collect information about your activities on our Website and other websites to provide you with targeted advertising. When you first access our Website, we ask for your consent to place advertising cookies on your device.  
+You may encounter cookies from our third-party service providers, including but not limited to (1) Facebook, which uses cookies such as "\_fbp" to provide advertising services through Facebook’s advertising and marketing platforms (e.g., Audience Network, Website Custom Audiences) and other social networking plug-ins or marketing tools, and (2) Google, which uses cookies such as "\_gcl\_au" to provide advertising services through Google’s advertising and marketing platforms (e.g., DoubleClick for Publishers, Google DoubleClick AdX Service, Adwords). Facebook and Google may use the personal information that they have collected about you on our Website pursuant to their own privacy policies (Facebook Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) and Google Privacy Policy: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)).  
   
 Further information about Google’s and Doubleclick’s use of cookies to deliver advertising content can be found on Google’s website [here](https://policies.google.com/technologies/ads), and to opt-out of Google’s and Doubleclick’s use of cookies, you can control your Google advertising settings [here](http://www.google.com/settings/ads).  
   
@@ -125,10 +120,6 @@ Contact Information
 
 If you have any queries in relation to this notice or our use of cookies, please contact us at VGL Support Services Ireland Limited via [privacyrequest@orders.viagogo.com](mailto:privacyrequest@orders.viagogo.com).
 
-Table of cookies
-
-Click [here](https://www.viagogo.com/help/cookies-list) for a list of cookies.
-
 Regional Settings
 
 * Country: United States
@@ -153,35 +144,35 @@ Stay Up to Date
 Popular Events
 
 * [Adele Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Adele-Tickets "Adele Tickets")
-* [Real Madrid CF Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Real Madrid CF Ticket")
-* [AC Milan Tickets](https://www.viagogo.com/Sports-Tickets/Football/European-Premier-Leagues/Italian-Premier-League/AC-Milan-Tickets "AC Milan Tickets")
+* [Tickets for Real Madrid CF](https://www.viagogo.com/Sports-Tickets/Soccer/Real-Madrid-CF-Tickets "Tickets for Real Madrid CF")
+* [Tickets for AC Milan](https://www.viagogo.com/Sports-Tickets/Football/European-Premier-Leagues/Italian-Premier-League/AC-Milan-Tickets "Tickets for AC Milan")
 * [FC Barcelona Ticket](https://www.viagogo.com/Sports-Tickets/Soccer/FC-Barcelona-Tickets "FC Barcelona Ticket")
-* [Michael Buble UK Tour](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble UK Tour")
-* [Elton John Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Tickets")
+* [Michael Buble Tour Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Michael-Buble-Tickets "Michael Buble Tour Tickets")
+* [Elton John Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Elton-John-Tickets "Elton John Concert Tickets")
 * [Taylor Swift Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Taylor-Swift-Tickets "Taylor Swift Concert Tickets")
 * [Zach Bryan Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Zach-Bryan-Tickets "Zach Bryan Tickets")
+* [Morgan Wallen Tour 2024](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Morgan-Wallen-Tickets "Morgan Wallen Tour 2024")
 * [New York Yankees Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Yankees-Tickets "New York Yankees Tickets")
-* [Tickets for Chicago Cubs](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Regular-Season/Chicago-Cubs-Tickets "Tickets for Chicago Cubs")
 * [Los Angeles Dodgers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Los-Angeles-Dodgers-Tickets "Los Angeles Dodgers Ticket")
-* [Anyma Tickets](https://www.viagogo.com/Concert-Tickets/Dance-and-Electronic-Music/Anyma-Tickets "Anyma Tickets")
-* [Morgan Wallen Tickets](https://www.viagogo.com/Concert-Tickets/Country-and-Folk-Music/Morgan-Wallen-Tickets "Morgan Wallen Tickets")
-* [Olivia Rodrigo Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Olivia-Rodrigo-Tickets "Olivia Rodrigo Tickets")
+* [Philadelphia Phillies Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Philadelphia Phillies Tickets")
+* [Olivia Rodrigo Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Olivia-Rodrigo-Tickets "Olivia Rodrigo Concert Tickets")
+* [Chicago Cubs Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Regular-Season/Chicago-Cubs-Tickets "Chicago Cubs Ticket")
+* [Tickets for Boston Red Sox](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Postseason/Boston-Red-Sox-Tickets "Tickets for Boston Red Sox")
 * [Eagles Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Eagles-Tickets "Eagles Tickets")
-* [Atlanta Braves Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Atlanta-Braves-Tickets "Atlanta Braves Tickets")
-* [Boston Red Sox Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/MLB-Postseason/Boston-Red-Sox-Tickets "Boston Red Sox Tickets")
-* [Philadelphia Phillies Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Philadelphia-Phillies-Tickets "Philadelphia Phillies Ticket")
-* [Dallas Cowboys Tickets](https://www.viagogo.com/Sports-Tickets/Football/NFL/NFL-Parking-Pass/Dallas-Cowboys-Tickets "Dallas Cowboys Tickets")
-* [Dead & Company Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Dead-Company-Tickets "Dead & Company Tickets")
-* [Texas Rangers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Texas-Rangers-Tickets "Texas Rangers Ticket")
+* [Billy Joel Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Billy-Joel-Tickets "Billy Joel Tickets")
 * [US Open Tennis Tickets](https://www.viagogo.com/Sports-Tickets/Sports-Parking/US-Open-Tennis-Parking-Passes/US-Open-Tennis-Tickets "US Open Tennis Tickets")
-* [Houston Astros Tickets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Houston-Astros-Tickets "Houston Astros Tickets")
-* [Luke Combs Concert Tickets](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Luke-Combs-Tickets "Luke Combs Concert Tickets")
-* [Kenny Chesney Tickets](https://www.viagogo.com/Concert-Tickets/Country/Contemporary-Country/Neo-Traditionalist-Country/Kenny-Chesney-Tickets "Kenny Chesney Tickets")
+* [Tickets for New York Mets](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/New-York-Mets-Tickets "Tickets for New York Mets")
+* [Dead & Company Concert Tickets](https://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Dead-Company-Tickets "Dead & Company Concert Tickets")
+* [Texas Rangers Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Texas-Rangers-Tickets "Texas Rangers Ticket")
+* [Houston Astros Ticket](https://www.viagogo.com/Sports-Tickets/Other-Sports/Baseball/MLB/Houston-Astros-Tickets "Houston Astros Ticket")
+* [Kenny Chesney Concert Tickets](https://www.viagogo.com/Concert-Tickets/Country/Contemporary-Country/Neo-Traditionalist-Country/Kenny-Chesney-Tickets "Kenny Chesney Concert Tickets")
+* [Luke Combs Tour 2024](https://www.viagogo.com/Concert-Tickets/Other-Concerts/Luke-Combs-Tickets "Luke Combs Tour 2024")
+* [Imagine Dragons Tickets](https://www.viagogo.com/Concert-Tickets/Alternative-Music/Imagine-Dragons-Tickets "Imagine Dragons Tickets")
 
 Copyright © viagogo Entertainment Inc 2024 [Company Details](https://www.viagogo.com/secure/about/company)  
 Use of this web site constitutes acceptance of the [Terms and Conditions](https://www.viagogo.com/secure/help/termsandconditions) and [Privacy Policy](https://www.viagogo.com/secure/help/privacy) and [Cookies Policy](https://www.viagogo.com/help/cookies) and [Mobile Privacy Policy](https://www.viagogo.com/help/privacy/mobile)
 
-\- : ecpuse1-webb01 : -
+\- : ecpuse1-webb06 : -
 
 * English (US)
 * £
