@@ -876,7 +876,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-4 Alerts
+6 Alerts
 
 Back
 
@@ -884,6 +884,12 @@ Unread
 
 All
 
+* [Trend Experts Weigh in on Global IT Outage Caused by CrowdStrike](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)close
+    
+    [Learn more >](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)
+* [Imagine with AI, Secure with Trend.](https://resources.trendmicro.com/BlackHat2024.html)close
+    
+    [Connect and engage with us at Black Hat >](https://resources.trendmicro.com/BlackHat2024.html)
 * [Noodle RAT: Analyzing the malware empowering Chinese threat actors](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)close
     
     [Learn more >](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)
@@ -899,11 +905,9 @@ All
 
 Support
 
-* [Business Support Portal](https://success.trendmicro.com/dcx/s/?language=en_US)
-* [Business Community](https://success.trendmicro.com/community/s)
-* [Virus and Threat Help](https://success.trendmicro.com/dcx/s/threat?language=en_US)
+* [Business Support Portal](https://success.trendmicro.com/en-US/)
 * [Education and Certification](https://www.trendmicro.com/en_us/business/services/support-services/education.html)
-* [Contact Support](https://success.trendmicro.com/dcx/s/contactus)
+* [Contact Support](https://success.trendmicro.com/en-US/contactus/)
 * [Find a Support Partner](https://trendmicro.my.site.com/Gpartner/s/partner-locator?language=en_US)
 
 Resources
@@ -922,7 +926,7 @@ Resources
 Log In
 
 * [Vision One](https://signin.v1.trendmicro.com/)
-* [Support](https://success.trendmicro.com/dcx/s/?language=en_US)
+* [Support](https://success.trendmicro.com/en-US/)
 * [Partner Portal](https://community-trendmicro.force.com/Gpartner/s/login/?language=en_US&ec=302&startURL=%2FGpartner%2Fs%2F)
 * [Cloud One](https://cloudone.trendmicro.com/)
 * [Product Activation and Management](https://tm.login.trendmicro.com/simplesaml/saml2/idp/SSOService.php)
@@ -1289,7 +1293,7 @@ Try our services free for 30 days
 
 ### Support
 
-* [Business Support Portal](https://success.trendmicro.com/dcx/s/?language=en_US)
+* [Business Support Portal](https://success.trendmicro.com/en-US/)
 * [Contact Us](https://www.trendmicro.com/en_us/business/get-info-form.html)
 * [Downloads](https://www.trendmicro.com/en_us/business/products/downloads.html)
 * [Free Trials](https://www.trendmicro.com/en_us/business/products/trials.html)
