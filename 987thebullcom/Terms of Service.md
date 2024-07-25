@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Rock And A Hard PlaceBailey Zimmerman<br><br>5:55pm |
-| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>5:51pm |
-| Angel EyesLove And Theft<br><br>5:48pm |
-| Where The Wild Things AreLuke Combs<br><br>5:44pm |
-| AustinDasha<br><br>5:41pm |
+| Watching YouRodney Atkins<br><br>3:47pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>3:43pm |
+| The PainterCody Johnson<br><br>3:40pm |
+| Need A FavorJelly Roll<br><br>3:36pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>3:33pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,10 +358,6 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -373,6 +369,10 @@ Top 40 • Pacific NW
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
