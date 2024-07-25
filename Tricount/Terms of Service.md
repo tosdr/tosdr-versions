@@ -39,7 +39,7 @@ The website and the application are owned and operated by Tricount S.A., whose r
 Acceptance of our Terms of Use
 ------------------------------
 
-Access to the services offered by Tricount will only be subject to acceptance of the terms described below which Tricount is free to modify at any time and without prior notice. The use of our services involves the processing of your information as described in our [privacy policy](https://www.tricount.com/en/privacy). We encourage you to read them. The user is invited to refer regularly to the latest version of these terms permanently available at the following address: https://www.tricount.com/en/terms
+Access to the services offered by Tricount will only be subject to acceptance of the terms described below which Tricount is free to modify at any time and without prior notice. The use of our services involves the processing of your information as described in our [privacy policy](https://www.tricount.com/privacy). We encourage you to read them. The user is invited to refer regularly to the latest version of these terms permanently available at the following address: https://www.tricount.com/en/terms
 
 This version of the Terms of Use dates from 27 July 2023
 
@@ -137,7 +137,7 @@ When a tricount is not present in any user profile and has not been accessed for
 Respect for privacy
 -------------------
 
-In order to provide you with our services, Tricount and bunq B.V. (hereinafter "bunq") collect some of your personal information. A desription of this collection and the use of personal information can be found in our [privacy policy](https://www.tricount.com/en/privacy). Please refer to this policy before using Tricount. You must be 16 years of age or older to use this service.
+In order to provide you with our services, Tricount and bunq B.V. (hereinafter "bunq") collect some of your personal information. A desription of this collection and the use of personal information can be found in our [privacy policy](https://www.tricount.com/privacy). Please refer to this policy before using Tricount. You must be 16 years of age or older to use this service.
 
 Advertising
 -----------
@@ -211,7 +211,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
+[Privacy](https://www.tricount.com/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
@@ -235,7 +235,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
+[Privacy](https://www.tricount.com/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
@@ -259,6 +259,6 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
+[Privacy](https://www.tricount.com/privacy)[Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
