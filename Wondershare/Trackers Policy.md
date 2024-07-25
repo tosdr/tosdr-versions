@@ -47,7 +47,11 @@
     
     **EdrawProj**
     
-    A professional Gantt chart tool.](https://www.wondershare.com/edraw-project/)[![wondershare edrawproj logo](https://neveragain.allstatics.com/2019/assets/icon/logo/mockitt-square.svg)
+    A professional Gantt chart tool.](https://www.wondershare.com/edraw-project/)[![wondershare decoritt logo](https://neveragain.allstatics.com/2019/assets/icon/logo/decoritt-square.svg)
+    
+    **Decoritt**
+    
+    AI-powered online home design.](https://decoritt.wondershare.com/)[![wondershare edrawproj logo](https://neveragain.allstatics.com/2019/assets/icon/logo/mockitt-square.svg)
     
     **Mockitt**
     
