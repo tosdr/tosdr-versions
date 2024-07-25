@@ -13,7 +13,7 @@
 
 SOLUTION
 
-[Product](https://www.tidyhq.com/features)[Pricing](https://www.tidyhq.com/pricing)[Connect Enterprise Coming Soon](#)[User Reviews](https://www.capterra.com/p/128190/TidyHQ/)[Resources Center](https://support.tidyhq.com/)
+[Product](https://www.tidyhq.com/features)[Pricing](https://www.tidyhq.com/pricing)[Tidy Connect](https://tidyconnect.io/)[User Reviews](https://www.capterra.com/p/128190/TidyHQ/)[Resources Center](https://support.tidyhq.com/)
 
 ABOUT
 
