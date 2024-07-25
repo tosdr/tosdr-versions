@@ -241,7 +241,7 @@ Toggle Language menu
     * [Sophos Home](https://my.sophos.com/en-us/login/)
     
 
-Toggle Search Toggle Language menu Toggle Mobile menu [Get Started](https://www.sophos.com/en-us/products/contact-request)
+Toggle Search Toggle Language menu Toggle Mobile menu [Get started](https://www.sophos.com/en-us/products/contact-request)
 
 Toggle Section menu
 
