@@ -218,6 +218,10 @@ Provision
 
 OK
 
+**We value your privacy at Toomics Global.** Close
+
+Toomics Global uses cookies to personalize your experience, to show you ads based on your interests, and for measurements and analytics purposes. By using our website and services, you agree to our use of cookies as described in our [Privacy Policy](https://toomics.com/en/help/private_terms)
+
 * [Terms of Use](https://toomics.com/en/help/access_terms)
 * [Privacy Policy](https://toomics.com/en/help/private_terms)
 * [Notifications](https://toomics.com/en/help/notice_list)
