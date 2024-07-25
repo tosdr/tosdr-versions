@@ -1,6 +1,6 @@
-[![Think Academy UK](//download-pa-s3.thethinkacademy.com/static-pa/project/thinkacademy-website-web/prod/images/ae91df9.png)](https://www.thinkacademy.uk/ "Think Academy UK")
-
 Sign in
+
+[![Think Academy UK](//download-pa-s3.thethinkacademy.com/static-pa/project/thinkacademy-website-web/prod/images/ae91df9.png)](https://www.thinkacademy.uk/ "Think Academy UK")
 
 [Home](https://www.thinkacademy.uk/)
 
