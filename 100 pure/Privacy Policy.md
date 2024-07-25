@@ -21,9 +21,9 @@ My Tote
 
 5702 reviews (5702)
 
-£13.00 £23.00
+£13.00 £24.00
 
-1 oz - £23 0.3 oz - £13
+1 oz - £24 0.3 oz - £13
 
 1 oz
 
@@ -39,7 +39,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-87 reviews (87)
+88 reviews (88)
 
 £58.00
 
@@ -55,7 +55,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5265 reviews (5265)
+5267 reviews (5267)
 
 £16.00 £23.00
 
@@ -105,7 +105,7 @@ CHOOSE Color
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-highly_5740347f-5398-4b6d-a922-1a68a16e37da.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/grow-more-shampoo)
 
-[29% off
+[32% off
 
 ![glossy-locks-grow-more-shampoo](https://www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_239x254.jpg?v=1695865361)](https://www.100percentpure.com/products/grow-more-shampoo)
 
@@ -146,28 +146,6 @@ CHOOSE Size
 8 oz
 
 1.7 oz
-
-ADD TO TOTE
-
-CHOOSE Size
-
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-green-beauty-awards-highly_08c009e8-1e2b-416b-a8f2-94ecc2cccee7.png?crop=center&height=85&v=1697822128&width=85)](https://www.100percentpure.com/products/bright-eyes-masks)
-
-[![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1695873942)](https://www.100percentpure.com/products/bright-eyes-masks)
-
-![ 1FEMBE_Primary](//www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_220x.jpg?v=1695873942)
-
-### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
-
-967 reviews (967)
-
-£6.00 £24.00
-
-Single - £6 5 Pack - £24
-
-Single
-
-5 Pack
 
 ADD TO TOTE
 
@@ -229,7 +207,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-1993 reviews (1993)
+1994 reviews (1994)
 
 £11.00 £22.00
 
@@ -269,7 +247,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-353 reviews (353)
+354 reviews (354)
 
 £6.00 £26.00
 
@@ -307,9 +285,9 @@ ADD TO TOTE
 
 185 reviews (185)
 
-£46.00
+£47.00
 
-Default Title - £46
+Default Title - £47
 
 ADD TO TOTE
 
@@ -321,7 +299,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-501 reviews (501)
+502 reviews (502)
 
 £3.00 £7.00
 
@@ -379,7 +357,7 @@ ADD TO TOTE
 
 ### [Cucumber Cloud Foam Cleanser](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
-111 reviews (111)
+116 reviews (116)
 
 £12.00 £24.00
 
@@ -471,9 +449,9 @@ CHOOSE Color
 
 1416 reviews (1416)
 
-£46.00
+£47.00
 
-Default Title - £46
+Default Title - £47
 
 ADD TO TOTE
 
@@ -483,11 +461,25 @@ ADD TO TOTE
 
 ### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
 
-503 reviews (504)
+506 reviews (506)
 
 £39.00
 
 Default Title - £39
+
+ADD TO TOTE
+
+[![mattifying-primer](https://www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_239x254.jpg?v=1627034480)](https://www.100percentpure.com/products/mattifying-primer)
+
+![ Mattifying Primer](//www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_220x.jpg?v=1627034480)
+
+### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
+
+1021 reviews (1021)
+
+£36.00
+
+Default Title - £36
 
 ADD TO TOTE
 
