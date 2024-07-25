@@ -201,24 +201,18 @@ Hootsuite collects information to provide you with our Services and to improve o
 | --- | --- |
 | **Type of Information** | **Purpose** |
 | **Account Information** |     |
-| Contact and profile information<br><br>_E.g., Name and email address, organization name, address, language preferences, time zone, image (if you choose to provide this), preferred types of communications_ | Creating an account and user authentication of the Services.<br><br>Communicating with you about the Services, surveys, contests, and events. |
-| Social Network profile information <br><br>_E.g., Facebook username_ | Creating an account or user authentication of the Services if you choose to use a social login. |
-| Billing, plan, and business information<br><br>_E.g., Credit card number, organization name_ | Provisioning and payment of the Services.<br><br>Personalizing communications. |
-
-|     |     |
-| --- | --- |
+| Contact and profile information  <br>_E.g., Name and email address, organization name, address, language preferences, time zone, image (if you choose to provide this), preferred types of communications_ | Creating an account and user authentication of the Services.<br><br>Communicating with you about the Services, surveys, contests, and events. |
+| Social Network profile information   <br>_E.g., Facebook username_ | Creating an account or user authentication of the Services if you choose to use a social login. |
+| Billing, plan, and business information  <br>_E.g., Credit card number, organization name_ | Provisioning and payment of the Services.<br><br>Personalizing communications. |
 | **Content** |     |
-| Content uploaded to, downloaded from, and visible on the Services.<br><br>  <br><br>This includes materials curated and uploaded by users to the Services, including, messages, posts, comments, images, advertising information; messages, posts, comments, prompts and outputs from AI-Powered Services; and mentions (such as, likes) from Social Network users.<br><br>_E.g., Instagram posts from an organization’s account, social media posts from a LinkedIn user_ | Providing the Services. |
-| Chat and conversational data from our chatbot services<br><br>_E.g., Chat messages involving an individual asking about the delivery date for an order_ | Providing the Services. |
-| Social media and messaging metadata<br><br>_E.g., Number of social media followers, number of posts_ | Providing the Services.<br><br>Compiling and providing social media user analytics, insights and measurement reports. |
-
-|     |     |
-| --- | --- |
+| Content uploaded to, downloaded from, and visible on the Services.  <br>  <br>This includes materials curated and uploaded by users to the Services, including, messages, posts, comments, images, advertising information; messages, posts, comments, prompts and outputs from AI-Powered Services; and mentions (such as, likes) from Social Network users.  <br>_E.g., Instagram posts from an organization’s account, social media posts from a LinkedIn user_ | Providing the Services. |
+| Chat and conversational data from our chatbot services  <br>_E.g., Chat messages involving an individual asking about the delivery date for an order_ | Providing the Services. |
+| Social media and messaging metadata  <br>_E.g., Number of social media followers, number of posts_ | Providing the Services.<br><br>Compiling and providing social media user analytics, insights and measurement reports. |
 | **Logs, usage, and support data** |     |
-| Log data and general location<br><br>_E.g., IP address, browser type and settings, device information (such as make, model, and OS), date and time of login, and_ [_cookies_](https://www.hootsuite.com/legal/cookies) | Managing the performance, security and compliance of the Services. |
-| User settings<br><br>_E.g., Location and language_ | Enabling location-based features (if you choose to share your location on your posts). <br><br>Personalizing the Services. |
-| Usage, session, and analytics data<br><br>_E.g., Frequency of login and access to different areas of the Services_ | Helping identify issues and to better understand how the Services are used to improve our Services. |
-| Customer support data <br><br>_E.g., Questions, issues, and general feedback_ | Resolving issues and helping us improve our  Services. |
+| Log data and general location  <br>_E.g., IP address, browser type and settings, device information (such as make, model, and OS), date and time of login, and_ [_cookies_](https://www.hootsuite.com/legal/cookies) | Managing the performance, security and compliance of the Services. |
+| User settings  <br>_E.g., Location and language_ | Enabling location-based features (if you choose to share your location on your posts). <br><br>Personalizing the Services. |
+| Usage, session, and analytics data  <br>_E.g., Frequency of login and access to different areas of the Services_ | Helping identify issues and to better understand how the Services are used to improve our Services. |
+| Customer support data   <br>_E.g., Questions, issues, and general feedback_ | Resolving issues and helping us improve our  Services. |
 
 ###   
 Surveys, events, marketing and other activities
