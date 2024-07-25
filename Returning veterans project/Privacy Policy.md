@@ -102,8 +102,10 @@ Search Search Search
     
     * [Events](https://returningveterans.org/events)
     * [Continuing Education Trainings](https://returningveterans.org/events/continuing-education-training)
+    * [Community](https://returningveterans.org/events/community-events)
     * [Archive](https://returningveterans.org/events/archive)
-* [Calendar](https://returningveterans.org/events/calendar)
+        * [Past Community Events](https://returningveterans.org/events/past-community-events)
+    * [Calendar](https://returningveterans.org/events/calendar)
 
 Privacy Statement
 =================
@@ -187,11 +189,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Samuel Kligfeld](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Retired Lt. Col. Jack Greene](https://cdn.returningveterans.org/images/honor/Jack_Greene.jpg)  
 
-**In Memory of Samuel Kligfeld**  
-United States Army  
-Submitted by Marnin Kligfeld](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Retired Lt. Col. Jack Greene**  
+United States Marine Corps  
+Submitted by Cliff and Dolly Mastrangelo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -238,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 7/21/24 - 11:53:20  
+Printed 7/24/24 - 5:20:16  
 © 2024 Returning Veterans Project
