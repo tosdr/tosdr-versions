@@ -5,7 +5,7 @@ We have organised this Privacy Notice based on the different ways you might inte
 
 Please use the contents list below to navigate to the section of the Privacy Notice which you are interested in. At the end of each section if you want to return to the contents list please click the link: ‘Click here to go back to ‘Contents’’
 
-Last update: 24 April 2024
+Last update: 19 July 2024
 
 CONTENTS
 --------
@@ -18,7 +18,7 @@ CONTENTS
 6. **[When you opt to receive newsletters or marketing communications](#whenopt)**
 7. **[When you enter a competition or prize draw](#whenenter)**
 8. **[When you complete a survey](#whensurvey)**
-9. **[When you subscribe to our print or “e-publishing” titles, or place a classified ad](#whenyousubprintdgi)**
+9. **[When you subscribe to our print, online or “e-publishing” titles, or place a classified ad](#whenyousubprintdgi)**
 10. **[When you visit or interact with us on social media](#whenyousocial)**
 11. **[When you apply for a job with us or work at other organisations we do business with](#whenapplyjob)**
 12. **[Further ways we may receive, use and share your data](#furtherways)**
@@ -32,7 +32,7 @@ CONTENTS
 
 We are the Reach group, which is made up of Reach plc and its subsidiaries. Reach plc is the largest national and regional news publisher in the UK with a portfolio in Ireland and the United States. We aim to create engaging, relevant content which is distributed through various channels and media including newspapers, magazines, and digital platforms – playing a central role in our audiences’ daily lives.
 
-We are the name behind some of the UK’s most influential, iconic, and trusted news brands, such as the Daily Mirror, Daily Express, Daily Star, Daily Record and Sunday People as well as leading celebrity and entertainment magazine OK! and the online shopping site Yimbly.com. We also publish leading regional titles including the Manchester Evening News, Liverpool Echo, and Birmingham Mail, plus the Mirror US and Express US. You can see the list of websites and brands we publish [**here**](https://www.reachsolutions.co.uk/brands/category/national-newspapers).
+We are the name behind some of the UK’s most influential, iconic, and trusted news brands, such as the Daily Mirror, Daily Express, Daily Star, Daily Record and Sunday People as well as leading celebrity and entertainment magazine OK! and the online shopping site Yimbly.com. We also publish leading regional titles including the Manchester Evening News, Liverpool Echo, and Birmingham Mail, plus the Mirror US and Express US. You can see the list of websites and brands we publish [**here**](https://www.reachplc.com/about-us/our-brands).
 
 Depending on who you are and how you interact with us, the legal “controller” of your personal data will be one or more of our group companies, like MGN Limited, Local World Limited, Express Newspapers or Reach Publishing Services Limited (all at the address above).
 
@@ -190,9 +190,9 @@ Generally this will be conducted at an aggregate audience level to provide insig
 
 Alternatively, we may allow advertising partners to build target audiences based on predefined attributes. These ‘lookalike’ audiences may be similar to our partners’ existing audiences. For example, a sports brand may want to reach ‘football enthusiasts’. They could select audiences who have been identified as having an interest in these areas. To do this, we segment our audiences into groups depending on what we think they like or other behaviours. This helps them find the right audiences and we are able to show you more relevant advertising.
 
-The way we match your data could also involve working with partners such as LiveRamp Inc and Tradedesk and their group companies, acting as joint controllers. These partners use this information to create a secure online identification code for the purpose of recognising you for cross-channel advertising. This code is placed in our cookie, does not contain any of your identifiable personal data, and will not be used by them to identify you. It may be shared with our advertising partners and other third-party advertisers globally for the purpose of enabling interest-based content or targeted advertising through Reach sites. These third parties may in turn use this code to link demographic or interest-based information you have provided in your interactions with them to the pseudonymised code. Detailed information on LiveRamp’s data processing activities is available in LiveRamp’s privacy notice and opt-out here [LiveRamp](https://liveramp.uk/privacy/service-privacy-policy/). Information on the Trade Desk’s use and how they work with partners can be found here [EUID Privacy Notice](https://www.transparentadvertising.eu/privacy). Alternatively to withdraw consent and object to targeted advertising based on the Trade Desk EUID activity click [here](https://www.transparentadvertising.eu/).
+The way we match your data could also involve working with partners such as LiveRamp Inc and Tradedesk and their group companies, acting as joint controllers. These partners use this information to create a secure online identification code for the purpose of recognising you for cross-channel advertising. This code is placed in our cookie, does not contain any of your identifiable personal data, and will not be used by them to identify you. With your consent it may be shared with our advertising partners and other third-party advertisers globally for the purpose of enabling interest-based content or targeted advertising through Reach sites. These third parties may in turn use this code to link demographic or interest-based information you have provided in your interactions with them to the pseudonymised code. Detailed information on LiveRamp’s data processing activities is available in [LiveRamp’s Privacy Notice](https://liveramp.uk/privacy/service-privacy-policy/) and opt-out [here](https://optout.liveramp.com/opt_out). Information on the Trade Desk’s use and how they work with partners can be found here [EUID Privacy Notice](https://www.transparentadvertising.eu/privacy). Alternatively to withdraw consent and object to targeted advertising based on the Trade Desk EUID activity click [here](https://www.transparentadvertising.eu/).
 
-If you accept the use of cookies in our Consent Management Platform, when you submit your email address to create an account or sign-up to a newsletter or marketing we may share your email address in a hashed form with Amazon Publisher Services (APS). APS then links the hashed email to a profile which they may already hold related to that address. The hashed email will be used in a secure, pseudonymised form within a cookie to flag to APS whenever you visit an APS enabled Reach website again. APS will use this to determine, in real-time, if any of their business customers want to market to a profile similar to yours. If this is the case they may initiate an advert which will appear to you on the Reach website concerned. The APS Privacy Notice can be found at [APS PN](https://aps.amazon.com/aps/privacy-policy/).
+If you accept the use of cookies in our Consent Management Platform, when you submit your email address to create an account or sign-up to a newsletter or marketing we may share your email address in a hashed form with Amazon Publisher Services (APS). APS then links the hashed email to a profile which they may already hold related to that address. The hashed email will be used in a secure, pseudonymised form within a cookie to flag to APS whenever you visit an APS enabled Reach website again. APS will use this to determine, in real-time, if any of their business customers want to market to a profile similar to yours. If this is the case they may initiate an advert which will appear to you on the Reach website concerned. The APS Privacy Notice can be found at [APS PN](https://aps.amazon.com/aps/privacy-policy/). Alternatively to withdraw consent and object to targeted advertising based on APS activity click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN). You can also visit [www.youradchoices.org](https://www.youradchoices.org/) to have more information about how to manage your ad preferences.
 
 **Withdrawing consent**
 
@@ -234,9 +234,9 @@ We gather data for this purpose in three ways.
 
 Firstly, our servers record certain information provided by your devices when they request content, consisting mostly of technical information about your device such as language, screen size and the features and functions it supports, but also including the internet or “IP” address from which it is connecting, and the page or data requested. The data is used for system performance, content delivery and security purposes. It is saved together with the dates and times the requests occurred into files stored on our servers called “logs” or “log files”.
 
-Secondly, on your first visit to one of our sites or apps (and every so often again after your first visit), you will be presented with a ’cookie banner’ asking you if you consent to the use of cookies and related technologies for our use of analytics. If you do, then several “cookies” (small text files) will be stored on your device containing identification numbers. Those numbers can then be read on your subsequent visits to recognise your device, and our analytics providers will use that information to provide us with various reports and metrics on how our sites are used. Google also uses the data that it gathers as a result for other purposes, which you can read about in the [Google Privacy Policy](https://policies.google.com/privacy). If you wish to opt-out of the use of Google Analytics you can access and download the Opt-out browser add-on from here: [GA Opt-Out](https://tools.google.com/dlpage/gaoptout)
+Secondly, on your first visit to one of our sites or apps (and every so often again after your first visit), you will be presented with a ’cookie banner’ asking you if you consent to the use of cookies and related technologies for our use of analytics. If you do, then several “cookies” (small text files) will be stored on your device containing identification numbers. Those numbers can then be read on your subsequent visits to recognise your device, and our analytics providers will use that information to provide us with various reports and metrics on how our sites are used. We also work with the analytics provider Amplitude, who collect measurement data on our behalf, as our processor. They collect this data for us, using their cookie, and only process your personal data with your consent. If you do not consent they will only provide us with anonymised data.
 
-Thirdly, we also work with the analytics provider Amplitude, who collect measurement data on our behalf, as our processor. They collect this data for us, using their cookie, and only process your data with your consent. If you do not consent they will only provide us with anonymised data.
+Thirdly, Google also uses the data that it gathers as a result for other purposes, which you can read about in the [Google Privacy Policy](https://policies.google.com/privacy). If you wish to opt-out of the use of Google Analytics you can access and download the Opt-out browser add-on from here: [GA Opt-Out](https://tools.google.com/dlpage/gaoptout).
 
 To withdraw your consent for how we are using your information, please see [15.4 Your right to withdraw consent.](#righttowithdraw)
 
@@ -258,7 +258,7 @@ Our analytics providers will keep the information they gather from our sites and
 
 We use AWS and CloudFront to help us to analyse our server log files. They act at our direction, as our “processor”.
 
-The information gathered using Google Analytics is held by Google and is made accessible to us by Google through various dashboards and reporting tools.
+The information gathered using Amplitude or Google Analytics is held by Amplitude or Google and is made accessible to us through various dashboards and reporting tools.
 
 The following providers are key to providing additional website analytics or diagnostic capability:
 
@@ -267,6 +267,7 @@ The following providers are key to providing additional website analytics or dia
 * Hotjar ([https://www.hotjar.com/privacy/](https://www.hotjar.com/privacy/))
 * Viafoura ([https://viafoura.com/privacy-policy/](https://viafoura.com/privacy-policy/))
 * Amplitude ([https://amplitude.com/privacy)](https://amplitude.com/privacy)
+* Google Analytics ([https://policies.google.com/privacy)](https://policies.google.com/privacy)
 
 **3.3.5 Whether we send it outside the country of collection**
 
@@ -302,9 +303,9 @@ We use your email address and the other information that you give to us as part 
 
 When you create an account we may collect your name and email address.
 
-For services that provide local information (like InYourArea) we will also collect your postcode and any associated areas of local interest that you want to be updated about. If you subscribe to a paid version of our sites such as [Express Premium](https://www.express.co.uk/premium-subscription) we will collect your payment details, in order for us to fulfil your subscription. For more information on subscriptions see [9\. When you subscribe to our print or “Digital Edition” titles.](#whenyousubprintdgi)
+For services that provide local information (like InYourArea) we will also collect your postcode and any associated areas of local interest that you want to be updated about. If you subscribe to a paid version of our sites such as **Premium** or **Privacy Plus** (without personalised advertising and tracking) we will collect your payment details, in order for us to fulfil your subscription. For more information on subscriptions see [9\. When you subscribe to our print or “Digital Edition” titles.](#whenyousubprintdgi)
 
-Some services may let you upload your own content to our sites, such as comments or pictures. Those things will, by the nature of the service, be generally visible on the site. Your comments may be used in print, online or on the social pages for brands owned and published by Reach plc. We may also record what types of content you have commented on, and associate this with our profile of you. Please do not provide any personal data which you do not want to be published. Comments will be subject to moderation checks before publication.
+Some services may let you upload your own content to our sites, such as comments or pictures. Those things will, by the nature of the service, be generally visible on the site and may be attributed to user names. Your comments may be used in print, online or on the social pages for brands owned and published by Reach plc. We may also record what types of content you have commented on, and associate this with our profile of you. Please do not provide any personal data which you do not want to be published. Comments will be subject to moderation checks before publication.
 
 We use this information to operate your account and to enable you to log in and use our services; for example, on InYourArea we use your postcode to identify the correct local information to display to you.
 
@@ -459,6 +460,8 @@ Your ad itself will be retained indefinitely, on the basis of our legitimate int
 ---------------------------------------------
 
 At Reach, we manage two main online e-commerce platforms: [Yimbly.com](https://www.yimbly.com/) and [OK! Beauty Box](https://www.okbeautybox.co.uk/). In addition we run a number of ecommerce sites associated with our newspaper brands such as [Reach Sport Shop](https://reachsportshop.com/) or our [Regional Newspaper Shop](https://shop.regionalnewspapers.co.uk/).
+
+For information on how we process your data on these sites see below. For information on discount codes, vouchers, cashback accounts and affiliate sites see [12\. Further ways we may receive, use and share your data](#furtherways)
 
 When you place an order for a product or service with us, it is necessary to share specific personal details to ensure the seamless fulfilment of your order. This information may be gathered during the registration process or by placing an order via our checkout. In certain situations, we share with a third party that will collect and process this information on our behalf to fulfil your order.
 
@@ -654,7 +657,7 @@ We do this on the basis that it is necessary to fulfil the contract formed with 
 
 **7.3 How long we keep it for**
 
-We will keep your competition entry for the duration of the competition and for up to 90 days after the closing date. Data utilised for profiling will be retained for up to 3 years.
+We will keep your competition entry for the duration of the competition and for up to 12 months after the closing date. Data utilised for profiling will be retained for up to 3 years.
 
 **7.4 Who we share it with and why**
 
@@ -719,16 +722,36 @@ Our online form technology providers may process your personal data outside of t
 
 **[\*\*\* Click here to go back to ‘Contents’ \*\*\*](#contents)**
 
-9\. When you subscribe to our print or “Digital Edition” titles or place a Classified Ad
-----------------------------------------------------------------------------------------
+9\. When you subscribe to our print, online or “e-publishing” titles, or place a Classified Ad
+----------------------------------------------------------------------------------------------
 
-**9.1 When you subscribe to our print or “Digital Edition” titles**.
+**9.1 When you subscribe to our print, online or “Digital Edition” titles**.
 
 We will collect your name, address other contact details, and payment information. We will use that information to administer your subscription. We do this on the basis that it is necessary in order to provide the subscription to you with the support of our provider. We will retain this information for as long as you maintain your subscription, and for a period thereafter, in case of disputes or problems.
 
 When you subscribe to our digital edition titles your subscription is also processed via our provider and this information is retained for as long as you maintain your subscription, and for a period thereafter, in case of disputes or problems.
 
 As part of the subscription process you may be asked if you want to receive other products or services from Reach. Where this is the case you will be asked to consent to each product or service type. Such activities are managed in accordance with the relevant sections elsewhere in this Privacy Notice.
+
+**Privacy Plus Subscription**
+
+On some of our websites we offer you a **Privacy Plus** subscription service for tracking-free access. This **Privacy Plus** subscription provides a reading option free of personalised advertising, where we completely forego advertising tracking and only serve basic advertising. For a monthly fee, a Privacy Plus subscription enables you to access the same content, without sharing your personal data for advertising purposes.
+
+This means:
+
+* We will not run tracking technologies.
+* An interest profile will not be generated based on your browsing.
+* You will not receive personalised advertising.
+* You will not receive personalised content, unless you specifically opt in to do so.
+
+The Privacy Plus "anti-tracking" subscription:
+
+* Does not include the possibility of reading premium content.
+* Is not exempt from continuing to receive advertising (it will just be non-personalised advertising).
+
+If you subscribe to this service, you can still choose to subsequently consent, for example to personalised editorial content recommendations, however without this express consent we will only analyse your usage exclusively for our own essential site operation purposes (such as fraud prevention and to assess our editorial content e.g. to determine which articles are particularly popular). Selecting this option means we do not pass your data to advertising providers and do not pass on any personalised usage data to third parties.
+
+In order to be able to offer you this service on our website, we will collect online identifiers such as device type, IP address, language settings, approximate location at the time of browsing, and your logged in user id. This will be used to enable us to verify you as a Privacy Plus subscriber, to technically run the service and for security and anti-fraud purposes. We won't process information to identify or track you.
 
 **9.2 When you place a classified ad**
 
@@ -749,7 +772,7 @@ The social media platform also provides us with anonymous usage statistics, whic
 
 The operator of the social media platform also processes your data, regardless of whether you yourself have a profile on the platform. In addition, some social media platforms, such as Facebook, use cookies that are stored on your terminal device when you visit our social media account, even if you do not have your own profile in the network or are not logged in. These cookies enable the social media platform to create user profiles based on your preferences and interests and to show you advertising tailored to these.
 
-For information on the cookies we use, and the social media operators and their privacy policies please see our [Cookie Notice](https://www.somersetlive.co.uk/cookie-policy/). For further information on how we may we may receive, use and share your data see [12.4 Social media platforms](#socialmediaplat).
+For information on the cookies we use, and the social media operators and their privacy policies please see our [Cookie Notice](https://www.somersetlive.co.uk/cookie-policy/). For further information on how we may receive, use and share your data see [12.4 Social media platforms](#socialmediaplat).
 
 **[\*\*\* Click here to go back to ‘Contents’ \*\*\*](#contents)**
 
@@ -863,9 +886,13 @@ Where our chatbots leverage third party generative AI platforms, the information
 
 Some of our sites offer discount codes. When you use one of our discount codes we will collect information about how you use our site. For example, when you redeem a voucher we’ll record details of the offer, the date and time and the device you’ve redeemed it on. Although we do not share your data with the code providers, when you claim your code your personal data may be collected.
 
+The legal “controller” of your personal data is Reach plc, and we rely on the performance of a contract for the application of discount codes. However, our discount websites are managed on our behalf by Widilo who also act as a data controller should you create an account or sign up to their newsletters.
+
 Reach is not responsible for the content or use of personal data on third party websites linked to from our sites which offer Discount Codes. When you navigate to and use these sites, for example to redeem a discount code, we would recommend that you check the Privacy Notice associated with that site for more information on how those sites process your information.
 
-Similarly if you create a Cashback account, as part of the registration your data will be shared directly by you with our cashback partner in line with their terms and conditions which are provided to you at the point of registration. For more information on how they use your data see their Privacy Notice we recommend you check their Privacy Notice for more information on how those sites process your information.
+Similarly if you create a Cashback account, as part of the registration your data will be shared directly by you with our cashback partner in line with their terms and conditions which are provided to you at the point of registration. The legal “controller” of your personal data is Reach plc, and we rely on the performance of a contract for the management of Cashback accounts. They are administered by Widilo, also as a data controller, and are subject to their terms and conditions which are provided at the point of registration. For more information on how cashback partners use your data we recommend you check their Privacy Notice for more information.
+
+For anything to do with how Widilo uses your personal data, please see their privacy notice [here](https://www.widilo.co.uk/privacy-policy).
 
 **12.8 Affiliate Sites, such as Mirror Bingo**
 
@@ -1054,13 +1081,13 @@ This section covers the following:
 
 **[16.1 California Residents](#california)** data collection, use and sharing, and privacy rights
 
-**[16.2 Virginia, Colorado, Connecticut, and Utah Residents](#vccu)** specific information and privacy rights
+**[16.2 Residents of US states with applicable privacy legislation](#vccu)** specific information and privacy rights
 
-**[16.3 Other state residents with applicable legislation](#otherstates)**
+**[16.3 Residents of other states and territories with applicable legislation](#otherstates)**
 
 **16.1 California Residents**
 
-This section applies only to California residents. It describes how we collect, use and share Personal Information of California residents in operating our business, and their rights with respect to that Personal Information. This section should be read in conjunction with the rest of this Privacy Notice which provides further details on the nature of our data processing.
+This section applies to California residents. It describes how we collect, use and share Personal Information of California residents when operating our business, and their rights with respect to that Personal Information. This section should be read in conjunction with the rest of this Privacy Notice which provides further details on the nature of our data processing.
 
 For purposes of this section, “**Personal Information**” has the meaning given in the California Consumer Privacy Act of 2018 (“**CCPA**”) and amended by the California Privacy Rights Act of 2020 (”**CPRA**”). It does not include: (i) information that is lawfully made available from federal, state or local government records; (ii) de-identified or aggregated data; or (iii) information excluded from the scope of the CCPA/CPRA.
 
@@ -1198,13 +1225,99 @@ California residents may request and obtain a list of any third parties that we 
 
 **[\*\*\* Click here to go back to ‘Contents’ \*\*\*](#contents)**
 
-**16.2 Residents of Virginia, Colorado, Connecticut, and Utah**
+**16.2 Residents of US states with applicable privacy legislation**
 
-This section applies solely to individual residents of the States of Virginia, Colorado, Connecticut, and Utah.
+This section applies solely to individual residents of States with applicable privacy legislation including, but not limited to Virginia, Colorado, Connecticut, Utah, Oregon and Texas. It describes how we collect, use and share Personal Information of residents when operating our business, and their rights with respect to that Personal Information. This section should be read in conjunction with the rest of this Privacy Notice which provides further details on the nature of our data processing.
 
-**16.2.1 Residents Rights**
+**16.2.1 Personal Information We Collect**
 
-Privacy laws in these states, namely the Virginia Consumer Data Protection Act (VCDPA), Colorado Privacy Act (CPA), Connecticut Data Privacy Act (CTDPA) and Utah Consumer Privacy Act (UCPA), give residents certain rights with respect to their personal data.
+We may collect the following types of Personal Information about you as described below:
+
+**A. Personal Information You Provide to Us**
+
+In using our Products, you may provide us with Personal Information, which may include (the examples provided are illustrative and not intended to be exhaustive):
+
+* Contact information such as name, email address, postal address and telephone number(s);
+* Account information and log in credentials, including unique identifiers such as username and password;
+* Payment and transaction information including credit or bank card information;
+* Preferences for communications;
+* Communications and opinions in chat rooms, message boards, forums, surveys, polls, and online forms;
+* Access to your geo-location (including through our mobile app) or to other data held on social media platforms and other software (for example, access to your contacts, calendar or photos);
+* Photos and/or videos; and
+* Any additional information that we describe to you, when we collect your data with your consent.
+
+You agree that you will provide to us only your own Personal Information, or the Personal Information of those whom you have the legal right to provide (such as in your capacity as a legal guardian). You agree to provide us with accurate Personal Information.
+
+**B. Personal Information We May Automatically Collect About You**
+
+Our Products may automatically collect certain Personal Information about you. This Personal Information may include the following (the examples provided are illustrative and not intended to be exhaustive). Any of this information may be combined with other Personal Information we may have or obtain about you from your use of our Products or from third parties as described below in “Personal Information We May Receive from Third Parties.”
+
+* IP address, which is the number associated with the service through which you access the Internet, such as through your ISP (Internet service provider);
+* Date and time of your visit, registration, login or use of our Products;
+* Domain server from which you are using our Products;
+* Type of computer, web browsers, search engine used, operating system, or platform you use;
+* Data identifying the web pages you visited prior to and after visiting or using our Products;
+* Data identifying the videos that you view while using our Products;
+* Your location data
+* Your behaviour, movement and activity on or within the Product;
+* Your profile information
+* Account login in combination with any required security questions or password collected if you create an account with us.
+* Mobile application identification and behaviour, use, and aggregated usage, performance data, and where the application was downloaded from.
+* If you sign up for text messaging, cookies or other tracking devices may be used to personalise your experience (for example, to send you personalised text message offers).
+
+**C. Personal Information We May Receive from Third Parties**
+
+We may collect or receive additional Personal Information about you from third-party websites and apps, social media platforms and video viewing platforms, such as, but not limited, to Facebook, Twitter, TikTok, Instagram, SnapChat and YouTube (“Social Media Platforms”), third party data providers, and sources providing publicly-available Personal information (e.g., from the U.S. postal service) for the purposes described in “How We Use Personal Information” section below.
+
+Personal Information we may access from Social Media Platforms may include, but is not limited to:
+
+* Your Social Media Platform login information
+* Your location data
+* Your profile information
+* Your list of contacts, friends or followers
+* Certain information about your activities on the Social Media Platform such as without limitation the content you view, and products or services you purchase there
+
+Please keep in mind that when you provide Personal Information to us via a third-party website or platform (for example, via our applications on a mobile device or by logging into any of our Products via a social media account), the Personal Information you provide to us may be separately collected by the third-party website or platform or the Social Media Platform. Please review the privacy policies of the applicable third-party or Social Media Platform for their privacy practices. Also, please be aware that if you are logged into your social media account when you are visiting our Products, the Social Media Platform you are logged into may track your activities on our Products.
+
+**16.2.2 How we Use Personal Information**
+
+**A. Use and Purpose of Processing Your Personal Information**
+
+We use and process your Personal Information for the following types of purposes (the examples provided are illustrative and not intended to be exhaustive).
+
+* To provide you with the Products, and other promotions, newsletters and information we think you may be interested in
+* To respond to your inquiries and provide you with requested information and to provide other communications, including by email, chat or text messages, and including alerts, notification of promotions, contests, and events
+* For marketing and advertising purposes, including sending you promotional material or special offers, provided that you have not already opted-out of receiving such communications
+* For billing and payment processing
+* To deliver personalised advertising and content, including textual and audio-visual ads and content
+* To fulfil contracts we have with you
+* To manage, improve and support our relationships with third-parties that we contract with in connection with our business, Products and services, including vendors, suppliers, and parents, affiliates, subsidiaries, and business partners
+* To maintain, improve, customise, or administer the Products, perform business analysis, or other internal purposes to improve the quality of our business, Products and services, resolve technical problems, or improve security or develop other products and services
+* To comply with our Terms of Service and Terms of Use for various Products
+* To perform analytics for business purposes and business intelligence, such as monitoring traffic to our Products, counting ad impressions, and auditing legal and regulatory compliance
+* To maintain the safety, security, and integrity of our Products, databases and other technology assets and our business, including preventing fraud, detecting security breaches and prosecuting violators
+* To identify and repair errors in our Products’ functionality
+* To evaluate or conduct a merger, divestiture, restructuring, reorganisation, dissolution, or other sale or transfer of some or all of our assets, in which Personal Information we hold is among the assets transferred
+* To comply with any applicable laws and regulations and respond to lawful requests; and/or
+* For any other purposes disclosed to you at the time we collect your Personal Information and/or pursuant to your consent.
+
+**B. Disclosing Your Personal Information to Other Parties**
+
+We may disclose your Personal Information to other parties, including:
+
+* Our affiliates
+* Service providers
+* Advertisers, advertising technology companies, Social Media Platforms, analytics companies and other third parties with whom we have business relationships.
+* Government regulators
+* Our legal advisors and parties involved in a legal process.
+* To an entity involved in the sale of our business
+* Third parties to whom you or your agents authorise us to disclose your Personal Information in connection with products or Services we provide to you.
+
+In order to provide advertisements and content that are more relevant to you, we and our advertising and content providers may collect certain types of Personal Information when you use our Products (such as, by way of example, your email, the IP address of your device, the identifier on your mobile device, or cookies stored on your device). We may combine this information with other information we have, or that we collect through other sources, and may share the information we collect with third parties to provide interest based or targeted advertising and content, including textual and/or audio-visual ads or content. In addition, our advertising partners and Social Media Platforms may use information received from us to combine it with other information they may have obtained about you through other sources or through your relationship with them. If you would like to opt out from this use, or for more information, please see our Cookie Policy for more information. **We do not sell your sensitive personal data.**
+
+**16.2.3 Residents Rights**
+
+Privacy laws in some US states give residents certain rights with respect to their personal data.
 
 These rights include:
 
@@ -1218,7 +1331,7 @@ These rights include:
 * We DO NOT sell your personal information in exchange for monetary consideration;
 * We DO NOT engage in profiling decisions based on your personal information that produce legal or similarly significant effects concerning you.
 
-**16.2.2 Exercising these Rights**
+**16.2.4 Exercising these Rights**
 
 **How to exercise your right to information, access, and deletion**
 
@@ -1230,11 +1343,11 @@ You may exercise your privacy rights by submitting the [rights request form](htt
 
 * **For other offline users eg account holders:** You may also submit a request directly by submitting the [rights request form](https://docs.google.com/forms/d/e/1FAIpQLSe_S4UU9agFYuaYgp0IJr_OmXICpKF8oS8N2AaP-ybt29L-rw/viewform) or by emailing privacyofficer@reachplc.com quoting ‘US Privacy Rights-(insert name of Reach Group brand)’ in the subject header and state ‘opt-out of third-party sale or share’. We reserve the right to ask for evidence of your residency before processing your request.
 
-**16.2.3 Our Response Time to Your Request**
+**16.2.5 Our Response Time to Your Request**
 
 We will make every effort to respond to your request within forty-five (45) days from when you contacted us. If you have a complex request, the legislation allows us up to ninety (90) days to respond. We will still contact you within forty-five (45) days from when you contacted us to let you know we need more time to respond and the reason for the extension.
 
-Residents of Virginia, Colorado, and Connecticut may appeal a refusal to take action on a request by contacting us by emailing privacyofficer@reachplc.com.
+Residents of certain states, including Virginia, Colorado, Connecticut, Oregon and Texas may appeal a refusal to take action on a request by contacting us by emailing privacyofficer@reachplc.com.
 
 **[\*\*\* Click here to go back to ‘Contents’ \*\*\*](#contents)**
 
