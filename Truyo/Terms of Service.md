@@ -207,7 +207,7 @@ Truyo is an Intel® Market Ready Solution.
 
 #### [Navigating AI Governance: Insights from Peloton’s Privacy Lawsuit](https://truyo.com/blog/navigating-ai-governance-insights-from-pelotons-privacy-lawsuit/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-17T14:55:08-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-19T12:20:56-07:00
 
 #### [Understanding Minnesota’s New Data Privacy Law: A Guide for Businesses](https://truyo.com/blog/understanding-minnesotas-new-data-privacy-law-a-guide-for-businesses-mcdpa/)
 
