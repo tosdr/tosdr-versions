@@ -266,7 +266,7 @@ We may ask for this help code:
     * [FreePBX](https://www.voipsupply.com/manufacturer/freepbx)
     * [Grandstream](https://www.voipsupply.com/manufacturer/grandstream)
     * [HP](https://www.voipsupply.com/manufacturer/hp)
-    * [Incom](https://www.voipsupply.com/manufacturer/incom-old)
+    * [Incom](https://www.voipsupply.com/catalog/category/view/s/incom/id/9951/)
     * [Ingate](https://www.voipsupply.com/manufacturer/ingate)
     * [Jabra](https://www.voipsupply.com/manufacturer/jabra)
     * [BlueParrott Headsets](https://www.voipsupply.com/manufacturer/jabra/blueparrot-headsets)
