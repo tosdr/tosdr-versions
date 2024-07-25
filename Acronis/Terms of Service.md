@@ -399,6 +399,8 @@ Legal Information
 
 * [U.S. State Privacy Rights Notice](#rights-notice)
 
+* [Data Privacy Framework Privacy Policy](#dpf-privacy)
+
 * [Recruitment data protection declaration](#recruitment_data_protection)
 
 * [Subprocessors](#subprocessors)
@@ -478,6 +480,11 @@ U.S. State Privacy Rights Notice
 --------------------------------
 
 Acronis provides U.S. State Privacy Rights Notice as a supplement to the [Acronis Privacy Statement](https://www.acronis.com/en-us/company/privacy/). Our current U.S. State Privacy Rights Notice can be found [here](https://www.acronis.com/en-us/company/privacy-rights-notice/).
+
+Data Privacy Framework Privacy Policy
+-------------------------------------
+
+Acronis complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Our current DPF Privacy Policy may be found [here](https://www.acronis.com/en-us/company/privacy-dpf/).
 
 Recruitment data protection declaration
 ---------------------------------------
