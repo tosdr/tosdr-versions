@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
+* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
+* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
+* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
+* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 #### S'informer
 
@@ -131,7 +131,6 @@ TV & Streaming
 
 [](https://www.rts.ch/play)
 
-* [Accueil](https://www.rts.ch/play)
 * [En direct](https://www.rts.ch/play/tv/direct)
 * [Replay émissions](https://www.rts.ch/play/tv/emissions)
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
@@ -148,7 +147,6 @@ Audio
 
 ### [Portail audio](https://www.rts.ch/audio-podcast/)
 
-* [Accueil](https://www.rts.ch/audio/)
 * [Émissions radio](https://www.rts.ch/audio/emissions/)
 * [Podcasts](https://www.rts.ch/audio-podcast/emissions/podcasts-originaux/)
 
