@@ -23,7 +23,7 @@ Site Navigation
 * [Visit](https://www.si.edu/visit)
     * [Hours and Locations](https://www.si.edu/visit/hours)
     * [Entry and Guidelines](https://www.si.edu/visit/tips)
-    * [Maps and Floor Plans](https://www.si.edu/visit/maps)
+    * [Maps and Brochures](https://www.si.edu/visit/maps)
     * [Dining and Shopping](https://www.si.edu/dining)
     * [Accessibility](https://www.si.edu/visit/accessibility)
     * [Visiting with Kids](https://www.si.edu/visit/kids)
