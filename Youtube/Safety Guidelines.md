@@ -205,6 +205,13 @@ YesNo
 
 Submit
 
+Need more help?
+---------------
+
+### Try these next steps:
+
+[Post to the help community Get answers from community members](https://support.google.com/youtube/community?hl=en&help_center_link=[2801999,%22Child%20safety%20policy%22])
+
 true
 
 [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
@@ -248,7 +255,7 @@ Google apps
 
 Main menu
 
-11348351361888327427
+3055310117201417522
 
 true
 
