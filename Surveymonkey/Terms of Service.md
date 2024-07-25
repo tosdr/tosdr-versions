@@ -6,11 +6,11 @@ Products
 
 SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
 
-##### [SurveyMonkey](https://www.surveymonkey.com/mp/take-a-tour/create-surveys-and-forms/)
+##### [SurveyMonkey](https://www.surveymonkey.com/product/features/create/)
 
 Get data-driven insights from a global leader in online surveys.
 
-##### [Integrations](https://www.surveymonkey.com/mp/data-api-integrations/)
+##### [Integrations](https://www.surveymonkey.com/product/integrations/)
 
 Integrate with 100+ apps and plug-ins to get more done.
 
@@ -18,7 +18,7 @@ Integrate with 100+ apps and plug-ins to get more done.
 
 Build and customize online forms to collect info and payments.
 
-##### [SurveyMonkey Genius](https://www.surveymonkey.com/mp/surveymonkey-genius/)
+##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
 
 Create better surveys and spot insights quickly with built-in AI.
 
@@ -126,7 +126,7 @@ Find out what your customers think about your new product ideas.
 
 [Pricing](https://www.surveymonkey.com/pricing/?ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
 
-[Enterprise](https://www.surveymonkey.com/mp/enterprise/)
+[Enterprise](https://www.surveymonkey.com/product/enterprise/)
 
 Resources
 
@@ -199,11 +199,11 @@ How top brands drive growth with SurveyMonkey.
     
     SurveyMonkey is built to handle every use case and need. Explore our product to learn how SurveyMonkey can work for you.
     
-    ##### [SurveyMonkey](https://www.surveymonkey.com/mp/take-a-tour/create-surveys-and-forms/)
+    ##### [SurveyMonkey](https://www.surveymonkey.com/product/features/create/)
     
     Get data-driven insights from a global leader in online surveys.
     
-    ##### [Integrations](https://www.surveymonkey.com/mp/data-api-integrations/)
+    ##### [Integrations](https://www.surveymonkey.com/product/integrations/)
     
     Integrate with 100+ apps and plug-ins to get more done.
     
@@ -211,7 +211,7 @@ How top brands drive growth with SurveyMonkey.
     
     Build and customize online forms to collect info and payments.
     
-    ##### [SurveyMonkey Genius](https://www.surveymonkey.com/mp/surveymonkey-genius/)
+    ##### [SurveyMonkey Genius](https://www.surveymonkey.com/product/features/surveymonkey-genius/)
     
     Create better surveys and spot insights quickly with built-in AI.
     
@@ -319,7 +319,7 @@ How top brands drive growth with SurveyMonkey.
     
 * [Pricing](https://www.surveymonkey.com/pricing/?ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
     
-* [Enterprise](https://www.surveymonkey.com/mp/enterprise/)
+* [Enterprise](https://www.surveymonkey.com/product/enterprise/)
     
 * **
     
@@ -383,11 +383,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![Logotipo de SurveyMonkey](https://prod.smassets.net/assets/website/2.271.0/images/legal_sidebar__badge.png)
+![SurveyMonkey logo](https://prod.smassets.net/assets/website/2.272.0/images/legal_sidebar__badge.png)
 
-* [Descripción general](https://www.surveymonkey.com/mp/legal/)
+* [Overview](https://www.surveymonkey.com/mp/legal/)
     
-* [Términos de Uso](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -425,32 +425,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Contrato maestro de servicios](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Términos específicos del servicio](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Service-Specific Terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Aspectos básicos de la privacidad](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Aviso de privacidad](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)
     
 * [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies usadas en las páginas de las encuestas](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookies Used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Política de uso aceptable](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Seguridad](https://www.surveymonkey.com/mp/legal/security/)
+* [Security](https://www.surveymonkey.com/mp/legal/security/)
     
 * [General](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-¿Lo sabías?
+Did you know?
 
-El 63 % de las personas analiza el historial de seguridad y privacidad de una empresa antes de usar sus productos o servicios.
+63% of people consider a company's privacy and security history before using their products or services.
 
-![Estadísticas barra lateral de asuntos legales](https://prod.smassets.net/assets/website/2.271.0/images/legal_sidebar__stats-image.png)
+![Legal sidebar stats](https://prod.smassets.net/assets/website/2.272.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
@@ -472,7 +472,7 @@ Introduction
 
 _These are terms that will apply to your use of our Services.  You should read these terms thoroughly, but for your convenience, we provide annotations in boxes like this one throughout.  Please note that these annotations have no legal effect and are not part of our official terms._
 
-These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/mp/enterprise/) channel.
+These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/product/enterprise/) channel.
 
 Additional [service-specific terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) apply to some Services (“**Service-Specific Terms**”). Certain [country-specific terms](https://www.surveymonkey.com/mp/legal/country-specific-terms/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) may also apply to you if you are located outside the United States (“**Country-Specific Terms**”). We refer to the Service-Specific Terms and Country-Specific Terms collectively as “**Additional Terms**” and the combination of these TOU and any applicable Additional Terms collectively as these “**Terms**.” To the extent any conflict exists, the Additional Terms prevail over these TOU with respect to the Services for which the Additional Terms apply.
 
@@ -935,7 +935,7 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [Security Statement](https://www.surveymonkey.com/mp/legal/security/)
 
-[GDPR Compliance](https://www.surveymonkey.com/mp/privacy/)
+[GDPR Compliance](https://www.surveymonkey.com/product/features/privacy/)
 
 [Email Opt-In](https://www.surveymonkey.com/user/email-opt-in/?ut_source=legal&ut_source2=terms-of-use)
 
@@ -953,7 +953,7 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [Scheduling Polls](https://www.surveymonkey.com/mp/online-schedule-poll/)
 
-[Google Forms vs. SurveyMonkey](https://www.surveymonkey.com/mp/surveymonkey-better-than-google-forms/)
+[Google Forms vs. SurveyMonkey](https://www.surveymonkey.com/compare/surveymonkey-vs-google-forms/)
 
 [Employee Satisfaction Surveys](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/)
 
@@ -1013,7 +1013,7 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [Training Survey](https://www.surveymonkey.com/mp/training-survey/)
 
-[Offline Survey](https://www.surveymonkey.com/mp/offline-surveys/)
+[Offline Survey](https://www.surveymonkey.com/product/features/offline-surveys/)
 
 [360 Review Template](https://www.surveymonkey.com/templates/360-degree-employee-evaluation-survey-template/)
 
