@@ -13,7 +13,7 @@ Search Menu
 
 Secondary Menu Search
 
-
+Go
 
 ALL CATEGORIES
 
@@ -162,10 +162,10 @@ We use a third party to provide monetization technologies for our site. You can 
 
 #### Recent Articles
 
-* [![](https://www.switchingtomac.com/wp-content/uploads/2020/07/What-Is-Apple-Keychain-How-To-Use-It-130x85.png)](https://www.switchingtomac.com/what-is-apple-keychain-how-to-use-it/ "What Is Apple Keychain & How To Use It")[What Is Apple Keychain & How To Use It](https://www.switchingtomac.com/what-is-apple-keychain-how-to-use-it/ "What Is Apple Keychain & How To Use It")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2021/08/Apple-Music-sleep-timer-130x85.png)](https://www.switchingtomac.com/how-to-set-a-sleep-timer-for-apple-music-on-iphone/ "How to Set a Sleep Timer for Apple Music on iPhone")[How to Set a Sleep Timer for Apple Music on iPhone](https://www.switchingtomac.com/how-to-set-a-sleep-timer-for-apple-music-on-iphone/ "How to Set a Sleep Timer for Apple Music on iPhone")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2023/06/zpptv-130x85.jpg)](https://www.switchingtomac.com/how-to-use-a-web-browser-on-your-apple-tv/ "How to Use a Web Browser on Your Apple TV")[How to Use a Web Browser on Your Apple TV](https://www.switchingtomac.com/how-to-use-a-web-browser-on-your-apple-tv/ "How to Use a Web Browser on Your Apple TV")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2018/08/Image-1-IFTT-home-page-1-130x85.png)](https://www.switchingtomac.com/automate-your-mac-and-ios-devices-with-ifttt/ "Automate Your Mac and iOS Devices with IFTTT")[Automate Your Mac and iOS Devices with IFTTT](https://www.switchingtomac.com/automate-your-mac-and-ios-devices-with-ifttt/ "Automate Your Mac and iOS Devices with IFTTT")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2022/06/iphone-1-130x85.jpg)](https://www.switchingtomac.com/how-to-add-or-change-the-photo-widget-on-iphone/ "How to Add or Change the Photo Widget on iPhone")[How to Add or Change the Photo Widget on iPhone](https://www.switchingtomac.com/how-to-add-or-change-the-photo-widget-on-iphone/ "How to Add or Change the Photo Widget on iPhone")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2020/05/iphone-battery-yellow-featured-130x85.png)](https://www.switchingtomac.com/why-is-my-iphone-battery-yellow-an-explanation-how-to-fix-it/ "Why Is My iPhone Battery Yellow – An Explanation & How To Fix It")[Why Is My iPhone Battery Yellow – An Explanation & How To Fix It](https://www.switchingtomac.com/why-is-my-iphone-battery-yellow-an-explanation-how-to-fix-it/ "Why Is My iPhone Battery Yellow – An Explanation & How To Fix It")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2022/04/icloud-keychain-130x85.jpeg)](https://www.switchingtomac.com/how-to-export-and-backup-keychain-passwords-on-mac/ "How to Export and Backup Keychain Passwords on Mac")[How to Export and Backup Keychain Passwords on Mac](https://www.switchingtomac.com/how-to-export-and-backup-keychain-passwords-on-mac/ "How to Export and Backup Keychain Passwords on Mac")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2023/02/preview-media-01-Title-Image-130x85.jpeg)](https://www.switchingtomac.com/live-wallpaper-not-working-on-iphone-try-these-7-fixes/ "Live Wallpaper Not Working On iPhone? Try These 7 Fixes")[Live Wallpaper Not Working On iPhone? Try These 7 Fixes](https://www.switchingtomac.com/live-wallpaper-not-working-on-iphone-try-these-7-fixes/ "Live Wallpaper Not Working On iPhone? Try These 7 Fixes")
 
 #### Our Publishing Family
 
