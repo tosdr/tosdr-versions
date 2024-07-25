@@ -115,7 +115,7 @@ Community
 Recorded  
 on Riverside
 
-![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/64e794e684439475f5a2f89e_etm-arrow.svg)](https://riverside.fm/recorded-on-riverside)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/652699244a5a38a579594097_nav-masterclass.png)
+![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/64e794e684439475f5a2f89e_etm-arrow.svg)](https://riverside.fm/recorded-on-riverside)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/652699244a5a38a579594097_nav-masterclass.webp)
 
 Master the Art  
 of Podcasting
