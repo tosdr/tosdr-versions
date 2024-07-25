@@ -13,11 +13,11 @@ All purchases sold by 2DollarWave is sold as is without any guarantee. By making
 
   
 
-[![](http://spillovermatrix.com/images/oes468.jpg)](https://www.2dollarwave.com/trr.php?id=15)
+[![](https://www.ptcshare.com/promo/0_3_1.gif)](https://www.2dollarwave.com/trr.php?id=5)
 
   
 
-[![](https://www.25centsclub.com/images/468.gif)](https://www.2dollarwave.com/trr.php?id=7)
+[![](https://showyourlinks.com/images/cointi468.jpg)](https://www.2dollarwave.com/trr.php?id=8)
 
   
   
