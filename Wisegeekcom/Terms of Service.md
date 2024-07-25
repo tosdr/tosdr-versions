@@ -41,6 +41,8 @@ Advertisement - scroll for more content
 WiseGeek's Terms and Conditions
 ===============================
 
+Updated: May 21, 2024
+
 Thank you for visiting WiseGeek. WiseGeek is wholly owned and operated by Conjecture Corporation.
 
 By using information collected at the WiseGeek website, you agree to be bound by the following Terms and Conditions, including our [Privacy Policy](https://www.wise-geek.com/what-is-the-privacy-policy.htm). If you do not want to be bound by our Terms and Conditions or our Privacy Policy your only option is to not use WiseGeek information.
@@ -94,9 +96,9 @@ U.S.A.
 
 _This page was last updated on May 21, 2024._
 
-Contents
+On this page
 
-On This Page
+On this page
 
 ╳
 
@@ -111,6 +113,13 @@ Prev Next
 On this page
 
 Jump to
+
+Share
+
+* [](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-are-terms-and-conditions.htm)
+* [](https://www.linkedin.com/shareArticle/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-are-terms-and-conditions.htm)
+* [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-are-terms-and-conditions.htm)
+* [](http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-are-terms-and-conditions.htm)
 
 WiseGeek, in your inbox
 
