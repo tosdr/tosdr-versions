@@ -31,6 +31,10 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
+[×](#)
+
+On July 26, Base Camp (including Speechcraft access) will be unavailable due to scheduled maintenance from 6 p.m. Mountain Time (UTC -6) to 11:59 p.m. Mountain Time.
+
 Privacy Policy
 ==============
 
