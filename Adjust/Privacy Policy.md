@@ -56,9 +56,9 @@ Learn
 
 Hot Topics
 
- [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80)
+ [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
 
-![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80)
+![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
 
 Ebook
 
@@ -124,9 +124,9 @@ Learn
 
 Hot Topics
 
- [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80)
+ [![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
 
-![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80)
+![](https://a.storyblok.com/f/47007/320x320/30e5e43281/240304_mobileapptrends2024_thumb-320x320.png/m/80x80/filters:quality(95))
 
 Ebook
 
