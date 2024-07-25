@@ -38,7 +38,7 @@ Le site Internet [https://www.worldcleanupday.fr/](https://www.worldcleanupday.f
 
 **Directeur de la publication**
 
-Julien Pilette
+Virginie Delugeard 
 
 **Hébergeur du site Internet**
 
@@ -98,12 +98,12 @@ World Cleanup Day – France collecte et traite vos données personnelles pour l
 |     |     |
 | --- | --- |
 | **Finalité de traitement des données** | **Fondement juridique** |
-| Gestion des demandes de participation à un événement de Cleanup | Intérêt légitime de World Cleanup Day France de gérer les demandes de participations aux événements |
-| Envoi de la newsletter World Cleanup Day France | Intérêt légitime de World Cleanup Day France d’assurer la communication relative à son organisation interne |
-| Gestion des demandes de contact | Intérêt légitime de World Cleanup Day France de répondre aux demandes de contact |
-| Gestion des dons en ligne | Intérêt légitime de World Cleanup Day France de se financer grâce aux dons |
-| Gestion des adhésions à World Cleanup Day France | Exécution du contrat d’adhésion à World Cleanup Day France |
-| Gestion des demandes d’exercice de droits en matière de données personnelles (tels que décrits à l’article 8 ci-dessous) | Obligation légale de World Cleanup Day France de répondre aux demandes d’exercice de droits des personnes dont World Cleanup Day France traite les données personnelles. |
+| Gestion des demandes de participation à un événement de cleanup | Intérêt légitime de World Cleanup Day – France de gérer les demandes de participations aux événements |
+| Envoi de la newsletter World Cleanup Day – France | Intérêt légitime de World Cleanup Day – France d’assurer la communication relative à son organisation interne |
+| Gestion des demandes de contact | Intérêt légitime de World Cleanup Day – France de répondre aux demandes de contact |
+| Gestion des dons en ligne | Intérêt légitime de World Cleanup Day – France de se financer grâce aux dons |
+| Gestion des adhésions à World Cleanup Day – France | Exécution du contrat d’adhésion à World Cleanup Day – France |
+| Gestion des demandes d’exercice de droits en matière de données personnelles (tels que décrits à l’article 8 ci-dessous) | Obligation légale de World Cleanup Day – France de répondre aux demandes d’exercice de droits des personnes dont World Cleanup Day France traite les données personnelles. |
 
  
 
@@ -113,17 +113,17 @@ En outre, World Cleanup Day – France collecte et traite vos données personnel
 
 |     |     |
 | --- | --- |
-| Suivi et gestion des candidatures de bénévoles et orientation en cas de besoin au plus proche du terrain | Intérêt légitime de World Cleanup Day France à recruter des bénévoles |
+| Suivi et gestion des candidatures de bénévoles et orientation en cas de besoin au plus proche du terrain | Intérêt légitime de World Cleanup Day – France à recruter des bénévoles |
 
 * **Lorsque vous êtes ambassadeur de World Cleanup Day – France**
 
 |     |     |
 | --- | --- |
-| Création d’une adresse de messagerie World Cleanup Day France | Intérêt légitime de World Cleanup Day France de faciliter la communication au sein de l’association |
-| Référencement dans l’annuaire ambassadeur de World Cleanup Day France | Intérêt légitime de World Cleanup Day France de faciliter la communication entre les différents membres de l’association |
-| Gestion de la communication avec les ambassadeurs (information sur les événements à venir, échanges, conseils et retours d’expérience sur les missions des ambassadeurs, etc.) | Intérêt légitime de World Cleanup Day France d’encadrer et de conseiller ses ambassadeurs |
+| Création d’une adresse de messagerie World Cleanup Day – France | Intérêt légitime de World Cleanup Day – France de faciliter la communication au sein de l’association |
+| Référencement dans l’annuaire ambassadeur de World Cleanup Day – France | Intérêt légitime de World Cleanup Day – France de faciliter la communication entre les différents membres de l’association |
+| Gestion de la communication avec les ambassadeurs (information sur les événements à venir, échanges, conseils et retours d’expérience sur les missions des ambassadeurs, etc.) | Intérêt légitime de World Cleanup Day – France d’encadrer et de conseiller ses ambassadeurs |
 
-* **Lorsque vous êtes organisateur d’un événement de Cleanup**
+* **Lorsque vous êtes organisateur d’un événement de cleanup**
 
 |     |     |
 | --- | --- |
@@ -153,11 +153,11 @@ Vos données personnelles non pseudonymisées ne font pas l’objet d’un trans
 | Envoi de la newsletter World Cleanup Day France | Tant que la personne ne se désinscrit pas (via le lien de désinscription intégré aux newsletters) |
 | Gestion des demandes de contact | Durée nécessaire pour traiter et répondre aux demandes de contact |
 | Gestion des dons en ligne | 6 ans à compter de la réalisation du don |
-| Gestion des adhésions à World Cleanup Day France | Durée de l’adhésion à World Cleanup Day France |
+| Gestion des adhésions à World Cleanup Day – France | Durée de l’adhésion à World Cleanup Day – France |
 | Gestion des demandes d’exercice de droits en matière de données personnelles (tels que décrits à l’article 8 ci-dessous) | Jusqu’à la clôture des demandes d’exercice de droits |
 | Suivi et gestion des candidatures de bénévoles | Sauf opposition des candidats, 2 ans à compter du dernier contact avec les candidats |
-| Création d’une adresse de messagerie World Cleanup Day France | Jusqu’à ce que la personne ne soit plus ambassadeur |
-| Référencement dans l’annuaire ambassadeur de World Cleanup Day France | Jusqu’à ce que la personne ne soit plus ambassadeur |
+| Création d’une adresse de messagerie World Cleanup Day – France | Jusqu’à ce que la personne ne soit plus ambassadeur |
+| Référencement dans l’annuaire ambassadeur de World Cleanup Day – France | Jusqu’à ce que la personne ne soit plus ambassadeur |
 | Gestion de la communication avec les ambassadeurs et organisateurs | Jusqu’à ce que la personne ne soit plus ambassadeur / organisateur |
 | Référencement sur la carte des opérations de ramassage du World Cleanup Day ouvertes au public | Jusqu’à ce que la personne ne soit plus organisateur |
 
