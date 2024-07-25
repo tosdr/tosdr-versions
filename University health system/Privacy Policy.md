@@ -161,6 +161,7 @@ Pages in this Section
     * [Patient Notification of Data Collection](https://www.universityhealth.com/-/media/Files/PDF/Patient-Notification-of-Data-Collection.ashx)
     * [Privacy and Security Tips](https://www.universityhealth.com/patient-visitor-resources/privacy-policies-notices/privacy-and-security-tips-for-patients)
     * [Rights and Responsibilities](https://www.universityhealth.com/patient-visitor-resources/privacy-policies-notices/rights-and-responsibilities)
+    * [Terms and Conditions](https://www.universityhealth.com/patient-visitor-resources/privacy-policies-notices/terms-and-conditions)
     * [Website Privacy Policy](https://www.universityhealth.com/patient-visitor-resources/privacy-policies-notices/website-privacy-policy)
         
 
