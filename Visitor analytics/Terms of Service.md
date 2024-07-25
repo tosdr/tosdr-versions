@@ -53,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [Website Intelligence News Roundup July 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-july-2024 "Website Intelligence News Roundup July 2024")
     * [Data Anonymization vs Pseudonymization](https://www.visitor-analytics.io/en/blog/data-anonymization-vs-pseudonymization "Data Anonymization vs Pseudonymization")
     * [How to Write a Privacy Policy](https://www.visitor-analytics.io/en/blog/how-to-write-a-privacy-policy "How to Write a Privacy Policy")
     * [Website Intelligence News Roundup June 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-june-2024 "Website Intelligence News Roundup June 2024")
     * [Safari Browser Blocks Adobe Tracking Pixels](https://www.visitor-analytics.io/en/blog/safari-browser-blocks-adobe-tracking-pixels "Safari Browser Blocks Adobe Tracking Pixels")
-    * [Sleep Tight, Data Safe: Secure Data Storage Guide](https://www.visitor-analytics.io/en/blog/secure-data-storage "Sleep Tight, Data Safe: Secure Data Storage Guide")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
@@ -146,6 +146,7 @@ Quick Navigation
 * [User Guides](https://www.visitor-analytics.io/en/support/user-guides)
     * [When to Use Dashboards](https://www.visitor-analytics.io/en/support/user-guides/when-to-use-dashboards)
     * [How to Get Started](https://www.visitor-analytics.io/en/support/user-guides/how-to-get-started)
+    * [How to Set Up eCommerce Statistics](https://www.visitor-analytics.io/en/support/how-to-set-up-ecommerce-statistics)
 * [Integrating With Other Platforms](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms)
     * [Any HTML Website](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms/any-html-website)
     * [Wix](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms/wix)
@@ -216,6 +217,7 @@ Terms of Use
 * [User Guides](https://www.visitor-analytics.io/en/support/user-guides) ![](/fileadmin/twipla/typo3-website-theme/template/images/down-quick-arrow.svg)
     * [When to Use Dashboards](https://www.visitor-analytics.io/en/support/user-guides/when-to-use-dashboards)
     * [How to Get Started](https://www.visitor-analytics.io/en/support/user-guides/how-to-get-started)
+    * [How to Set Up eCommerce Statistics](https://www.visitor-analytics.io/en/support/how-to-set-up-ecommerce-statistics)
 * [Integrating With Other Platforms](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms) ![](/fileadmin/twipla/typo3-website-theme/template/images/down-quick-arrow.svg)
     * [Any HTML Website](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms/any-html-website)
     * [Wix](https://www.visitor-analytics.io/en/support/integrating-with-other-platforms/wix)
