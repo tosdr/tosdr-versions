@@ -62,7 +62,9 @@ Regional and local delegates](https://www.volteuropa.org/people/regional-local-d
 
 [All people](https://volteuropa.org/people)
 
-Back[![](/img/containers/assets/gq_djniwkaa2qu8.jpeg/41de6d03021cad5f423665738c01147a.jpeg)
+Back[![](/img/containers/assets/images/news_images/eu_parliament_plenary.jpg/f47e34fc7cd4af4b5f6e9824fc6f5046.jpg)
+
+Nela Riehl elected as Chair of the European Parliament Committee on Education and Culture and Damian Boeselager as Vice-Chair of the Committee on Economic and Monetary Affairs 24 Jul 2024](https://volteuropa.org/news/nela-riehl-damian-boeselager-committee-positions)[![](/img/containers/assets/gq_djniwkaa2qu8.jpeg/41de6d03021cad5f423665738c01147a.jpeg)
 
 MEP Markéta Gregorová announces close cooperation with the 5 Member Volt delegation in the European Parliament 27 Jun 2024](https://volteuropa.org/news/mep-marketa-gregorova-announces-close-cooperation-with-the-5-member-volt-delegation-in-the-european-parliament)[![](/img/containers/assets/%28c%29.jpg/a00f0c74c64affd8d5a4961975e21c06.jpg)
 
@@ -72,9 +74,7 @@ Volt joins Greens/EFA in the European Parliament 24 Jun 2024](https://volteuropa
 
 Volt gets 5 pan-European MEPs elected 10 Jun 2024](https://volteuropa.org/news/volt-gets-5-pan-european-meps-elected)[![Young woman viewing screen and typing on mobile phone](/img/containers/assets/images/news_images/woman-with-mobile-phone-daria-nepriakhina-unsplash.jpg/4810787e388ca51db1986510622f4496.jpg)
 
-Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://volteuropa.org/news/chat-control-wont-protect-children)[![](/img/containers/assets/images/news_images/girl-with-armenian-flag.png/23a71bdb26591edefc0681a7e1b3a661.png)
-
-Armenia: a country Europe should take seriously for what it promises 2 Jun 2024](https://volteuropa.org/news/armenia-a-country-europe-should-take-seriously-for-what-it-promises)
+Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://volteuropa.org/news/chat-control-wont-protect-children)
 
 [View more news](https://volteuropa.org/news)
 
