@@ -140,4 +140,8 @@ Verticals & Popular Categories
 * Happily hosted on [Hetzner](https://hetzner.cloud/?ref=CzwY2gdF2bvU)
 * Accelerated by [Bunny.net](https://bunny.net/?ref=9sa3wl8vst)
 
+Please confirm?
+
+Confirm Cancel
+
 Loading...
