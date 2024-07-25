@@ -53,7 +53,7 @@ Privacy Policy
 
 The FLORIDA Channel will never disclose any personally identifiable information about our online audience to any third party. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis.
 
-Visitors to The FLORIDA Channel web site may voluntarily supply personally identifiable information in connection with registration for services which require subscription (such as schedule updates) and requests for DVDs.
+Visitors to The FLORIDA Channel web site may voluntarily supply personally identifiable information in connection with registration for services which require subscription (such as schedule updates) and requests for videos.
 
 The FLORIDA Channel may use such information only for conducting the activities stated above.
 
