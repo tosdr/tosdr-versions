@@ -1,4 +1,4 @@
-[![Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20288%20288'%3E%3C/svg%3E)](https://speechandlanguage.link/)
+[![Logo](https://speechandlanguage.link/wp-content/themes/speechandlanguage/assets/img/logo.svg)](https://speechandlanguage.link/)
 
 * [](https://www.facebook.com/SpeechLinkandLanguageLink)
 * [](https://twitter.com/SpeechLink)
@@ -107,14 +107,15 @@ Improving speech and language outcomes
 
 [Learn more about Speech & Language Link](https://speechandlanguage.info/whole-school-approach/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20419'%3E%3C/svg%3E)
+![](https://speechandlanguage.link/wp-content/uploads/2021/12/InTheNews_partnership_FeaturedImage-600x419.jpg)
 
 Speech & Language Link
 ----------------------
 
-We are a leading provider of speech and language assessment and intervention for students with speech, language and communication needs (SLCN) throughout the UK and abroad. We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
+We help schools to support children with speech, language and communication needs (SLCN). We do this by providing evidence based interventions, standardised screening assessments and training in the use of these tools. Everything we offer is designed by our speech and language therapy team and backed up by our specialist help desk.  
+We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
 
-**![Teddy holding a help sign](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. Would your school like to take part? (You can get Infant Language Link free for a year!)**
+**![Teddy holding a help sign](/wp-content/uploads/2024/04/Teddy-with-help-sign-3.jpg)We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. Would your school like to take part? (You can get Infant Language Link free for a year!)**
 
 [Find out more about our research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/)
 
@@ -158,7 +159,7 @@ Suffolk Delivering Better Value (DBV) funding for Speech & Language Link. Suffol
 
 Join us for our next online speech and language event to listen to engaging expert speakers. Recent presenters have included former communication champion, Jean Gross, and broadcaster Michael Rosen. The Link Live is free for [Link Community](https://speechandlanguage.info/the-link-community/)  members.
 
-![corner image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20405%20339'%3E%3C/svg%3E) [Find out more](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
+![corner image](https://speechandlanguage.link/wp-content/uploads/2023/11/TLM11_P18_Image4_TeacherLaptop.png) [Find out more](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
 
 [](https://speechandlanguage.info/research-opportunities-for-schools/)
 
@@ -168,7 +169,7 @@ We are recruiting schools and nurseries to join our latest national trials. If y
   
   
 
-![corner image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20340'%3E%3C/svg%3E) [Find out more](https://speechandlanguage.info/research-opportunities-for-schools/)
+![corner image](https://speechandlanguage.link/wp-content/uploads/2024/05/Bens-party-500.png) [Find out more](https://speechandlanguage.info/research-opportunities-for-schools/)
 
 ### FREE RESOURCES - The Link Community
 
@@ -214,7 +215,7 @@ Speech Link Multimedia Ltd is registered in England and Wales, registration no. 
 
 VAT registration No. 875 8101 05
 
-![Whole School Approach](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E) ![Cyber Essentials](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20140%20140'%3E%3C/svg%3E)
+![Whole School Approach](https://speechandlanguage.link/wp-content/themes/speechandlanguage/assets/img/whole-school-approach.svg) ![Cyber Essentials](https://speechandlanguage.link/wp-content/themes/speechandlanguage/assets/img/cyber-essentials.svg)
 
 * * *
 
@@ -250,7 +251,7 @@ Accept Deny View preferences Save preferences [View preferences](#)
 
 Manage consent
 
-             
+                
 
 ##### Confirm Account Deletion
 
