@@ -79,6 +79,7 @@ Menu Close
     
     * [Events](https://www.unibocconi.eu/en/news-and-events-hub/events)
     
+* [Agreements and Discounts](https://www.unibocconi.eu/en/agreements-and-discounts)
 
 * * *
 
