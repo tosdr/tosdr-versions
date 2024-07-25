@@ -1,4 +1,4 @@
-Monday, July 22 2024
+Thursday, July 25 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -170,11 +170,27 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2020/04/luckin.jpg)](https://fifthperson.com/luckin-coffee-turnaround/)
+    
+    [The recipe for Luckin Coffee’s remarkable turnaround](https://fifthperson.com/luckin-coffee-turnaround/) 
+    
+    9 hours ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2021/06/nestle-220x150.jpg)](https://fifthperson.com/2024-nestle-malaysia-agm/)
+    
+    [8 things I learned from the 2024 Nestlé Malaysia AGM](https://fifthperson.com/2024-nestle-malaysia-agm/)
+    
+    2 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/07/electoral-college-220x150.jpg)](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
     
     [How U.S. presidential elections influence stock market trends](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
     
-    5 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -182,7 +198,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Dutch Lady Milk Industries AGM](https://fifthperson.com/2024-dutch-lady-milk-industries-agm/)
     
-    7 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -222,7 +238,7 @@ Quick Guides
     
     [Investing in developed vs emerging markets: Which is better?](https://fifthperson.com/developed-vs-emerging-markets-which-is-better/)
     
-    4 weeks ago
+    June 25, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -231,22 +247,6 @@ Quick Guides
     [12 things I learned from the 2024 Public Bank AGM](https://fifthperson.com/2024-public-bank-agm/)
     
     June 21, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/06/lululemon-220x150.jpg)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/)
-    
-    [Lululemon’s stock has crashed by 40%. Is there an undervalued opportunity?](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/) 
-    
-    June 18, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/06/federal-reserve-220x150.jpg)](https://fifthperson.com/fed-maintains-rates-impacts-on-singapore-and-malaysia/)
-    
-    [Fed maintains rates amid easing inflation: Future impacts on Singapore and Malaysia](https://fifthperson.com/fed-maintains-rates-impacts-on-singapore-and-malaysia/)
-    
-    June 14, 2024
     
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
