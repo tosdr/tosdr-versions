@@ -17,7 +17,7 @@
     * [Twitter 🇯🇵](https://www.twitter.com/SudomemoJP)
     * [Instagram](https://www.instagram.com/Sudomemo)
     * [Facebook](https://www.facebook.com/Sudomemo)
-    * [Email](mailto:support@sudomemo.net)
+    * [\[email protected\]](https://support.sudomemo.net/cdn-cgi/l/email-protection)
     * Other
     * [Credits](https://support.sudomemo.net/credits)
 * [Search](https://www.sudomemo.net/search/)
@@ -207,7 +207,7 @@ Advertising
 We may use Service providers to show advertisements to You to help support and maintain Our Service.
 
 * **Google AdSense & DoubleClick Cookie**
-    * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+    * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 Email Marketing
 ---------------
@@ -343,7 +343,7 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-* By email: support@sudomemo.net
+* By email: [\[email protected\]](https://support.sudomemo.net/cdn-cgi/l/email-protection)
 
 * * *
 
