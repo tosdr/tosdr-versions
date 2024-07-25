@@ -31,6 +31,9 @@
         * [Turborepo
             
             Speed with Enterprise scale](https://vercel.com/solutions/turborepo)
+        * [AI SDK
+            
+            The AI Toolkit for TypeScript](https://sdk.vercel.ai/)
     
 * Solutions
     
