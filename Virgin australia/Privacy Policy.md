@@ -13,6 +13,7 @@ disabled Mode
     * [Hire a car](https://www.virginaustralia.com/au/car-hire/)
     * [Travel insurance](https://covermore.virginaustralia.com/)
     * [Pride Flight](https://www.virginaustralia.com/au/en/book/pride-flight/)
+    * [Middle Seat Lottery](https://www.virginaustralia.com/au/en/book/middle-seat-lottery/)
     * [Activities](https://www.virginaustralia.com/au/en/experiences/en?&icmpid=va:aem:aem_nav:exp_lnk:ao:na)
     
     Flight specials
@@ -23,13 +24,13 @@ disabled Mode
     
     Manage booking
     
+    * [Retrieve your Travel Bank details](https://www.virginaustralia.com/au/en/forms/retrieve-travel-bank-details/)
     * [Change or cancel](https://www.virginaustralia.com/au/en/#/mytrips?bookingType=flights)
     * [Upgrade options](https://www.virginaustralia.com/au/en/book/manage-booking/upgrade-options/)
     * [Check-in](https://check-in.virginaustralia.com/checkin/#/login)
     * [Redeem travel credits](https://www.virginaustralia.com/au/en/book/manage-booking/redeem-travel-credits/)
     * [Disruption information](https://www.virginaustralia.com/au/en/book/manage-booking/disruption-info/)
-    * [Retrieve your Travel Bank details](https://www.virginaustralia.com/au/en/book/manage-booking/retrieve-travel-bank-details/)
-    * [Rapid Rebook](https://www.virginaustralia.com/au/en/book/manage-booking/rapid-rebook/)
+    * [Rapid rebook](https://www.virginaustralia.com/au/en/book/manage-booking/rapid-rebook/)
     
     Business Class flights
     
@@ -45,7 +46,7 @@ disabled Mode
     
     International flights
     
-    * [Flights to Bali](https://www.virginaustralia.com/en-au/flights-to-bali-denpasar)
+    * [Flights to Bali](https://www.virginaustralia.com/en-au/flights-to-bali-dps)
     * [Flights to Fiji](https://www.virginaustralia.com/en-au/flights-to-fiji)
     * [Flights to Queenstown](https://www.virginaustralia.com/en-au/flights-to-queenstown)
     * [Flights to Tokyo](https://www.virginaustralia.com/en-au/flights-to-tokyo)
@@ -69,9 +70,9 @@ disabled Mode
     
     Popular international routes
     
-    * [Sydney to Bali flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-bali-denpasar)
-    * [Melbourne to Bali flights](https://www.virginaustralia.com/en-au/flights-from-melbourne-to-bali-denpasar)
-    * [Brisbane to Bali flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-bali-denpasar)
+    * [Sydney to Bali flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-bali-dps)
+    * [Melbourne to Bali flights](https://www.virginaustralia.com/en-au/flights-from-melbourne-to-bali-dps)
+    * [Brisbane to Bali flights](https://www.virginaustralia.com/en-au/flights-from-brisbane-to-bali-dps)
     * [Sydney to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
     * [Melbourne to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-melbourne-to-fiji)
     * [Brisbane to Fiji flights](https://www.virginaustralia.com/en-au/flights-from-sydney-to-fiji)
