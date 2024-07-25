@@ -138,21 +138,23 @@ Save settings
 
 ### Featured Articles
 
-[![What to Say when Someone Passes Away](https://www.wikihow.com/images/thumb/8/82/What-to-Say-when-Someone-Passes-Away-Step-17.jpg/-crop-126-120-126px-What-to-Say-when-Someone-Passes-Away-Step-17.jpg)
+[![What Vibe Do I Give Off](https://www.wikihow.com/images/thumb/1/17/Chill-vibes.png/-crop-126-120-126px-Chill-vibes.png)
 
-17 Comforting Things to Say When Someone Passes Away](https://www.wikihow.com/What-to-Say-when-Someone-Passes-Away)
+What Vibe Do I Give Off Quiz](https://www.wikihow.com/What-Vibe-Do-I-Give-Off)
 
-[![Become Heartless](https://www.wikihow.com/images/thumb/c/cc/Become-Heartless-Step-14-Version-2.jpg/-crop-126-120-126px-Become-Heartless-Step-14-Version-2.jpg)
+[![Read Body Language](https://www.wikihow.com/images/thumb/f/f2/Read-Body-Language-Step-13-Version-5.jpg/-crop-126-120-126px-Read-Body-Language-Step-13-Version-5.jpg)
 
-Learn to Be Emotionless & Cope with Whatever Life Throws at You](https://www.wikihow.com/Become-Heartless)
+How to  
+Read Body Language](https://www.wikihow.com/Read-Body-Language)
 
-[![Be Emo](https://www.wikihow.com/images/thumb/6/66/Be-Emo-Step-14-Version-2.jpg/-crop-126-120-126px-Be-Emo-Step-14-Version-2.jpg)
+[![Get Glowing Skin in Just One Week](https://www.wikihow.com/images/thumb/8/8c/Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg/-crop-126-120-126px-Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg)
 
-How to Be Emo: A Guide to Emo Culture](https://www.wikihow.com/Be-Emo)
+How to  
+Get Glowing Skin in Just One Week](https://www.wikihow.com/Get-Glowing-Skin-in-Just-One-Week)
 
-[![Be Romantic with Your Boyfriend](https://www.wikihow.com/images/thumb/2/29/Be-Romantic-with-Your-Boyfriend-Step-23-Version-5.jpg/-crop-126-120-126px-Be-Romantic-with-Your-Boyfriend-Step-23-Version-5.jpg)
+[![Start a Text Conversation](https://www.wikihow.com/images/thumb/0/02/Start-a-Text-Conversation-Step-12-Version-2.jpg/-crop-126-120-126px-Start-a-Text-Conversation-Step-12-Version-2.jpg)
 
-How to Romance Your Boyfriend](https://www.wikihow.com/Be-Romantic-with-Your-Boyfriend)
+How to Start and Keep a Text Conversation Going](https://www.wikihow.com/Start-a-Text-Conversation)
 
   
 
@@ -193,4 +195,4 @@ Follow Us
 
 \-
 
-132
+130
