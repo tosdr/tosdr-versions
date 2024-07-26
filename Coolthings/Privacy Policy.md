@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
+    
+    [Hisense CanvasTV Offers a Cheaper Alternative to Samsung’s Frame TV](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
+    
+    [ThermoWorks RFX Meat Lets You Monitor Your Meat on the Grill Wherever You Are](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-sdr-transmission-long-range-video-transmission-camera-control-affordable-price/)
     
     [DJI SDR Transmission Brings Long-Range Video Transmission and Camera Control at an Affordable Price](https://www.coolthings.com/dji-sdr-transmission-long-range-video-transmission-camera-control-affordable-price/)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/tinypod-case-turns-apple-watch-into-vintage-ipod/)
-    
-    [TinyPod Lets You Turn the Apple Watch into a Vintage iPod](https://www.coolthings.com/tinypod-case-turns-apple-watch-into-vintage-ipod/)
-    -----------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mobile-pixels-tetra-keyboard-split-design-8-inch-touchscreen/)
-    
-    [Mobile Pixels Tetra Keyboard Adds an 8-Inch Touchscreen to Classic Split Keyboards](https://www.coolthings.com/mobile-pixels-tetra-keyboard-split-design-8-inch-touchscreen/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/esr-geo-wallet-with-apple-find-my-tech-slim-profile/)
+    
+    [ESR Geo Wallet Maintains Slim Profile By Integrating Apple’s Find My Tech, No AirTags Needed](https://www.coolthings.com/esr-geo-wallet-with-apple-find-my-tech-slim-profile/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
     
     [The Best Stuff Sacks to Help You Pack for Your Next Adventure](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
@@ -52,11 +57,6 @@
     
     [The Best Beach Totes for Hauling Your Summer Gear Around](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
     ------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-travel-cameras-to-preserve-all-your-memorable-adventures/)
-    
-    [The Best Travel Cameras to Preserve All Your Memorable Adventures](https://www.coolthings.com/the-best-travel-cameras-to-preserve-all-your-memorable-adventures/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,20 +95,20 @@
     
     [See All](https://www.coolthings.com/house/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-popcorn-makers-for-faster-easier-movie-night-snacks/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
     
-    [The Best Popcorn Makers for Faster, Easier Movie Night Snacks](https://www.coolthings.com/the-best-popcorn-makers-for-faster-easier-movie-night-snacks/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Hisense CanvasTV Offers a Cheaper Alternative to Samsung’s Frame TV](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-vacuum-sealers-to-keep-your-food-fresher-for-much-longer/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
     
-    [The Best Vacuum Sealers to Keep Your Food Fresher for Much Longer](https://www.coolthings.com/the-best-vacuum-sealers-to-keep-your-food-fresher-for-much-longer/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [ThermoWorks RFX Meat Lets You Monitor Your Meat on the Grill Wherever You Are](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/oilvent-portable-range-hood-and-oil-splatter-guard/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-nightstands-to-keep-your-bedside-tidy/)
     
-    [Oilvent Portable Range Hood Doubles as a Mesh Guard Against Oil Splatter](https://www.coolthings.com/oilvent-portable-range-hood-and-oil-splatter-guard/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Nightstands to Keep Your Bedside Tidy](https://www.coolthings.com/the-best-nightstands-to-keep-your-bedside-tidy/)
+    ----------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
