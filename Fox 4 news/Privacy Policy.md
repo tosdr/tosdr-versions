@@ -94,6 +94,10 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[River Flood Warning
+
+until MON 7:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
+
 Privacy Policy
 ==============
 
@@ -405,35 +409,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Here's who Texans want to be Kamala Harris' running mate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162549268.jpg?ve=1&tl=1)
+ [![2024 Olympics opening ceremony: How to watch, other things to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2162832408-1.jpg?ve=1&tl=1)
 
- ![Here's who Texans want to be Kamala Harris' running mate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162549268.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-texas-running-mate)
+ ![2024 Olympics opening ceremony: How to watch, other things to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162832408-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/olympics-opening-ceremony-how-to-stream-july-26-2024)
 
-### [Here's who Texans want to be Kamala Harris' running mate](https://www.fox4news.com/news/kamala-harris-texas-running-mate)
+### [2024 Olympics opening ceremony: How to watch, other things to know](https://www.fox4news.com/news/olympics-opening-ceremony-how-to-stream-july-26-2024)
 
- [![First Baptist Dallas hopeful it can save portion of historic sanctuary](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/DAMAGE-1.jpg?ve=1&tl=1)
+ [![Video game actors go on strike: Here’s why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/sag-aftra-strike.jpg?ve=1&tl=1)
 
- ![First Baptist Dallas hopeful it can save portion of historic sanctuary](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/DAMAGE-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-baptist-dallas-historic-sanctuary-update-july-23)
+ ![Video game actors go on strike: Here’s why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/sag-aftra-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-game-actors-strike-why)
 
-### [First Baptist Dallas hopeful it can save portion of historic sanctuary](https://www.fox4news.com/news/first-baptist-dallas-historic-sanctuary-update-july-23)
+### [Video game actors go on strike: Here’s why](https://www.fox4news.com/news/video-game-actors-strike-why)
 
- [![Shots fired on campus: UTPD asking public for help identifying suspect](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/07/32/18/ut-suspect.jpg?ve=1&tl=1)
+ [![Suspect arrested after Dallas police shooting was wanted for March double murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/ois-deantae-moore.jpg?ve=1&tl=1)
 
- ![Shots fired on campus: UTPD asking public for help identifying suspect](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/07/32/18/592/333/ut-suspect.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shooting-campus-texas-utpd-identify-suspect)
+ ![Suspect arrested after Dallas police shooting was wanted for March double murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/ois-deantae-moore.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deantae-moore-murder-suspect-dixon-avenue)
 
-### [Shots fired on campus: UTPD asking public for help identifying suspect](https://www.fox4news.com/news/shooting-campus-texas-utpd-identify-suspect)
+### [Suspect arrested after Dallas police shooting was wanted for March double murder](https://www.fox4news.com/news/deantae-moore-murder-suspect-dixon-avenue)
 
- [![These top Democrats are endorsing Harris in presidential race](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161823525-a.jpg?ve=1&tl=1)
+ [![Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/Trump-and-Netanyahu-meet.jpg?ve=1&tl=1)
 
- ![These top Democrats are endorsing Harris in presidential race](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161823525-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-endorsements)
+ ![Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/Trump-and-Netanyahu-meet.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/netanyahu-trump-meeting-mar-a-lago)
 
-### [These top Democrats are endorsing Harris in presidential race](https://www.fox4news.com/news/kamala-harris-endorsements)
+### [Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://www.fox4news.com/news/netanyahu-trump-meeting-mar-a-lago)
 
- [![Uber driver arrested for sexually assaulting 12-year-old rider](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/Robert-Johnson-III-mug-e1721751974708.png?ve=1&tl=1)
+ [![Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/6P-190-TZ-COWBOYS-PRACTICE_00.00.14.56.jpg?ve=1&tl=1)
 
- ![Uber driver arrested for sexually assaulting 12-year-old rider](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/Robert-Johnson-III-mug-e1721751974708.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/uber-driver-arrested-sexually-assaulting-12-year-old-rider)
+ ![Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/6P-190-TZ-COWBOYS-PRACTICE_00.00.14.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-training-camp-first-practice-2024)
 
-### [Uber driver arrested for sexually assaulting 12-year-old rider](https://www.fox4news.com/news/uber-driver-arrested-sexually-assaulting-12-year-old-rider)
+### [Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://www.fox4news.com/sports/dallas-cowboys-training-camp-first-practice-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
