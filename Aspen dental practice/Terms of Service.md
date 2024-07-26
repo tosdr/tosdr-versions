@@ -6,8 +6,6 @@
 
 [Find an office](https://www.aspendental.com/search/)
 
-We are aware of a worldwide IT outage. Most of our offices are up and running, but if you need to confirm your appointment, please reach out to your local [Aspen Dental office](https://www.aspendental.com/dentist/) directly. We're here to help and appreciate your understanding.
-
 **Terms of Use**
 ================
 
@@ -100,7 +98,7 @@ Chat with us
 
 Follow us
 
-[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/72c552b10bbb07754d8ddba48165abef/Facebook_Logo_white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/7ebb0e5034ac42ee93642da3c673622c/youtube_logo_white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories/)[![Twitter (X) logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/87397f2feb38a58062afeafb6fddccb6/x_logo-white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental/)
+[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/16dc4411b72903d487b877f0054a9776/Facebook_Logo_white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/7ebb0e5034ac42ee93642da3c673622c/youtube_logo_white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories/)[![Twitter (X) logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/87397f2feb38a58062afeafb6fddccb6/x_logo-white.png?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental/)
 
 [(800) 277-3633](tel:(800) 277-3633)© 2024 Aspen Dental Management, Inc. All rights reserved.
 
