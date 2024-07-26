@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A3TEC2XMDTZJRD:133-5492406-2185515:A68G82DWKT2CD7ZAP2VX$uedata=s:%2Fuedata%2Fuedata%3Fstaticb%26id%3DA68G82DWKT2CD7ZAP2VX:0)  
+![](//fls-na.amazon.com/1/batch/1/OP/A3TEC2XMDTZJRD:140-0611863-2044858:Z2HVFBG9X1SW9PWTM081$uedata=s:%2Fuedata%2Fuedata%3Fstaticb%26id%3DZ2HVFBG9X1SW9PWTM081:0)  
 
 [](https://www.boxofficemojo.com/?ref_=bo_nb_cou_mojologo)
 
@@ -21,10 +21,10 @@ Welcome to [boxofficemojo.com](https://www.boxofficemojo.com/). Please note that
 
 Latest Updates: [News](https://www.boxofficemojo.com/news/?ref_=bo_ft_cou_news) | [Daily](https://www.boxofficemojo.com/daily/?ref_=bo_ft_cou_daily) | [Weekend](https://www.boxofficemojo.com/weekend/?ref_=bo_ft_cou_weekend) | [All Time](https://www.boxofficemojo.com/charts/?ref_=bo_ft_cou_charts) | [International](https://www.boxofficemojo.com/intl/?ref_=bo_ft_cou_intl) | [Showdowns](https://www.boxofficemojo.com/showdown/?ref_=bo_ft_cou_showdown)
 
-[Glossary](https://help.imdb.com/article/imdbpro/industry-research/box-office-by-imdbpro-glossary/GN8HA87MT4597FSW?ref_=mojo_ftr_glossary) | [User Guide](https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-user-guide/GUHKUZRL7MQ5T5AZ?ref_=mojo_ftr_guide) | [Help](https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP?ref_=mojo_ftr_help)
+[Glossary](https://help.imdb.com/article/imdbpro/industry-research/box-office-by-imdbpro-glossary/GN8HA87MT4597FSW?ref_=mojo_ftr_glossary) | [User Guide](https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-user-guide/GUHKUZRL7MQ5T5AZ?ref_=mojo_ftr_guide) | [License IMDb Data](https://developer.imdb.com/?ref_=mojo_ftr_developer) | [Help](https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP?ref_=mojo_ftr_help)
 
 BoxOfficeMojo.com by IMDbPro - an [IMDb](http://www.imdb.com/) company.
 
 © IMDb.com, Inc. or its affiliates. All rights reserved. Box Office Mojo and IMDb are trademarks or registered trademarks of IMDb.com, Inc. or its affiliates. [Conditions of Use](https://www.boxofficemojo.com/conditions/?ref_=bo_ft_cou_conditions) and [Privacy Policy](https://www.boxofficemojo.com/privacy/?ref_=bo_ft_cou_privacy) under which this service is provided to you.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A3TEC2XMDTZJRD:133-5492406-2185515:A68G82DWKT2CD7ZAP2VX$uedata=s:%2Fuedata%2Fuedata%3Fnoscript%26id%3DA68G82DWKT2CD7ZAP2VX:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A3TEC2XMDTZJRD:140-0611863-2044858:Z2HVFBG9X1SW9PWTM081$uedata=s:%2Fuedata%2Fuedata%3Fnoscript%26id%3DZ2HVFBG9X1SW9PWTM081:0)
