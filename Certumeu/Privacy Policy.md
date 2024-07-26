@@ -191,7 +191,7 @@ About us
 * [](https://twitter.com/assecods "Asseco Data Systems Twitter")
 * [](https://www.youtube.com/channel/UCoIDrL4qRSGKTKdqowdxwLg "Asseco Data Systems Youtube")
 
-* [Find a reseller](https://en.sklep.certum.pl/partnersmap/)
+* [Find a reseller](https://shop.certum.eu/certum-reseller-points-map)
 * [Contact us](https://support.certum.eu/en/contact/)
 
 All rights reserved to Asseco Data Systems S.A. - 2022
