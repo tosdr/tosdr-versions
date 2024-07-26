@@ -210,17 +210,15 @@ Email address  Subscribe
 
 Select one or more newsletters to continue.
 
-**Drugs.com Mobile Apps**
+**Drugs.com Mobile App**
 
-The easiest way to lookup drug information, identify pills, check interactions and set up your own personal medication records. Available for Android and iOS devices.
+Access drug & treatment information, identify pills, check interactions and set up personal medication records.
 
-[Explore Apps](https://www.drugs.com/apps/)
+[Download the Medication Guide app on iTunes ![](/img/v-20240725/apps/apple-store.png)](https://apps.apple.com/us/app/drugs-com-medication-guide/id599471042?platform=iphone)  [Download the Medication Guide app on the Google Play store ![](/img/v-20240725/apps/google-play.png)](https://play.google.com/store/apps/details?id=com.drugscom.app) 
 
-**Support**
+ ![Drugs.com mobile app](/img/v-20240725/apps/promo-uberapp.png)
 
-* [Help center](https://www.drugs.com/support/)
-* [Sitemap](https://www.drugs.com/sitemap.html)
-* [Contact us](https://www.drugs.com/support/contact.html)
+[Drugs.com ![](/img/logo/drugscom-logo-mark.svg)](https://www.drugs.com/) 
 
 **About**
 
@@ -230,23 +228,27 @@ The easiest way to lookup drug information, identify pills, check interactions a
 
 **Terms & privacy**
 
+* [Terms of use](https://www.drugs.com/support/terms.html)
 * [Editorial policy](https://www.drugs.com/support/editorial_policy.html)
 * [Privacy policy](https://www.drugs.com/support/privacy.html)
-* [Terms of use](https://www.drugs.com/support/terms.html)
 
+**Support**
+
+* [Help center](https://www.drugs.com/support/)
+* [Sitemap](https://www.drugs.com/sitemap.html)
+* [Contact us](https://www.drugs.com/support/contact.html)
+
+* [Subscribe to Drugs.com newsletters](https://www.drugs.com/newsletters/)
 * [Follow Drugs.com on Facebook](https://www.facebook.com/Drugscom)
 * [Follow Drugs.com on Twitter](https://twitter.com/drugscom)
 * [Follow Drugs.com on Instagram](https://www.instagram.com/drugs.com_official/)
-* [Follow Drugs.com on Pinterest](https://www.pinterest.com/drugscom/)
 * [Follow Drugs.com on YouTube](https://www.youtube.com/user/drugscom)
-* [Subscribe to Drugs.com newsletters](https://www.drugs.com/newsletters/)
+* [Follow Drugs.com on Pinterest](https://www.pinterest.com/drugscom/)
 
-[Subscribe](https://www.drugs.com/newsletters/) to Drugs.com newsletters for the latest medication news, new drug approvals, alerts and updates.
+[Subscribe to our newsletter](https://www.drugs.com/newsletters/) for the latest medication news, new drug approvals and FDA alerts.
 
 **Drugs.com** provides accurate and independent information on more than 24,000 prescription drugs, over-the-counter medicines and natural products. This material is provided for educational purposes only and is not intended for medical advice, diagnosis or treatment. Data sources include Micromedex (updated 7 Jul 2024), Cerner Multum™ (updated 14 Jul 2024), ASHP (updated 10 Jul 2024) and others.
 
-* [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=d18cba4a-afc4-4863-af81-8262bb120271)](https://privacy.truste.com/privacy-seal/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271)
-* ![Verified by TAG](/img/logo/vendor/tag-verified.png)
-* [![This website is certified by AACI. Click to verify.](/img/logo/vendor/trust-mark-logo.png)](https://aacihealthcare.com/certificates/c173-2022-trust-usa/)
-*  [![AdChoices](/img/logo/vendor/adchoices-logomark.png) **Ad Choices**](https://www.drugs.com/support/privacy/advertising.html)
-* Copyright © 2000-2024 Drugs.com. All rights reserved.
+ [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=d18cba4a-afc4-4863-af81-8262bb120271)](https://privacy.truste.com/privacy-seal/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271)![Verified by TAG](/img/v-20240725/logo/vendor/tag-verified.png) [![This website is certified by AACI. Click to verify.](/img/v-20240725/logo/vendor/trust-mark-logo.png)](https://aacihealthcare.com/certificates/c173-2022-trust-usa/)[![AdChoices](/img/v-20240725/logo/vendor/adchoices-logomark.png)](https://www.drugs.com/support/privacy/advertising.html)
+
+Copyright © 2000-2024 Drugs.com. All rights reserved.
