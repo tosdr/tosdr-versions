@@ -1,4 +1,4 @@
-[![clipr logo](https://uploads-ssl.webflow.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)](https://www.clipr.co/)
+[![clipr logo](https://cdn.prod.website-files.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)](https://www.clipr.co/)
 
 [Login](https://app.clipr.co/)
 
@@ -141,7 +141,7 @@ _Last update : July 27, 2023._
 
   
 
-![](https://uploads-ssl.webflow.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)
+![](https://cdn.prod.website-files.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)
 
 [](#)[](#)
 
