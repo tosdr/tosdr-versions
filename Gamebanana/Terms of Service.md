@@ -12,6 +12,7 @@ Terms of Service \- A Wiki.
     * [Ownership Requests](https://gamebanana.com/wikis/admin/ownershipreqs/334)
     * [Permits](https://gamebanana.com/wikis/admin/permits/334)
     * [Withhold](https://gamebanana.com/wikis/admin/withhold/334)
+    * [Tickets](https://gamebanana.com/wikis/admin/tickets/334)
 * [Todos](https://gamebanana.com/wikis/todos/334)
 * [15
     
@@ -26,7 +27,7 @@ Terms of Service \- A Wiki.
     
     Thankers](https://gamebanana.com/wikis/thankers/334)
 * [Flags](https://gamebanana.com/wikis/admin/flags/334)
-* [Report](https://gamebanana.com/support/add?source=https%3A%2F%2Fgamebanana.com%2Fwikis%2F334)
+* [Report](https://gamebanana.com/support/add?s=Wiki.334)
 
 This site requires JavaScript
 
