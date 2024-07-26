@@ -4,43 +4,20 @@
 
 [Capture and share your creativity by registering an .ART domain for only $2.49 until 7/31/2024!](https://www.dynadot.com/domain/art?utm_source=Promobar&utm_campaign=ART%20Flash%20Promobar%20July%202024&utm_medium=art%20flash&drefid=4557)
 
-EN
-
-* [Español](https://www.dynadot.com/es/terminos-de-uso)
-* [中文](https://www.dynadot.com/zh/terms-of-use)
-* [العربية](https://www.dynadot.com/ar/terms-of-use)
-* [Deutsch](https://www.dynadot.com/de/terms-of-use)
-* [Português](https://www.dynadot.com/pt/terms-of-use)
-* [Français](https://www.dynadot.com/fr/terms-of-use)
-* [Русский](https://www.dynadot.com/ru/terms-of-use)
-* [हिन्दी](https://www.dynadot.com/hi/terms-of-use)
-* [Italiano](https://www.dynadot.com/it/terms-of-use)
-* [日本語](https://www.dynadot.com/ja/terms-of-use)
-* [한국어](https://www.dynadot.com/ko/terms-of-use)
-* [Indonesia](https://www.dynadot.com/id/terms-of-use)
-* [Српски](https://www.dynadot.com/sr/terms-of-use)
-
-GBP (£)
-
-* [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
-* [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
-* [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
-* [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
-* [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
-* [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
-* [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
-* [Australian Dollar AUD (AU$)](https://www.dynadot.com/change_currency.html?chg_currency=AUD&pg=%2Fterms-of-use)
-
 [](https://www.dynadot.com/)
 
 * Domains  
 * Aftermarket  
 * Support  
 
-* [](https://www.dynadot.com/order/cart)
+* [EN - GBP (£)](javascript:;)  
+    
+    EN Español 中文 العربية Deutsch Português Français Русский हिन्दी Italiano 日本語 한국어 Indonesia Српски
+    
+    GBP (£) US Dollar USD ($) Euro EUR (€) 人民币 CNY (¥) Canadian Dollar CAD (C$) Pesos Mexicanos MXN (MX$) British Pound GBP (£) Real Brasileiro BRL (R$) Indian Rupee INR (Rs.) Indonesian Rupiah IDR (Rp) Australian Dollar AUD (AU$)
+    
 * [Login](https://www.dynadot.com/account/sign-in)
+* [](https://www.dynadot.com/order/cart)
 
 Domain
 
