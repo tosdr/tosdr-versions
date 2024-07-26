@@ -93,7 +93,7 @@ Resources
 * [**Customer Stories** They succeeded. We helped!](https://fastspring.com/customers/)
 * [**Blog** SaaS trends and best practices](https://fastspring.com/blog/)
 * [**Documentation** Learn how to use FastSpring](https://fastspring.com/docs/)
-* [**Events** Hang out with the FastSpring team](https://fastspring.com/blog/tag/events/)
+* [**Events** Hang out with the FastSpring team](https://fastspring.com/blog/category/news/events/)
 
 [![[Customer Story] Why TestDome Considers FastSpring a Real Partner](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/promotional/2023/FastSpring-TestDome-blog-thumbnail.jpg)
 
