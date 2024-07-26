@@ -66,7 +66,7 @@ Quick Access
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436259/ui-library/nav/rebrand-2022/partners-blue.svg)Partners](https://partners.algolia.com/)
 * [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1721643717/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
@@ -89,7 +89,7 @@ Learn more](https://www.algolia.com/lp/gartner-mq-2024/)
 * [Partners](https://partners.algolia.com/)
 * [Support](https://support.algolia.com/)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1715156912/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
+* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1721643717/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
     
     Eng
     
