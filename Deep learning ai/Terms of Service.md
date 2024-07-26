@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Pretraining LLMs](https://bit.ly/3S94kOq)
+🌟 New Course! Enroll in [Federated Learning](https://bit.ly/3zWoyoj)
 
 [](https://www.deeplearning.ai/)
 
