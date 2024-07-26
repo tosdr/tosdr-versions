@@ -18,10 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 Secondary Menu
 --------------
@@ -151,11 +149,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [Behind the FTC’s Inquiry into Surveillance Pricing Practices](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/behind-ftcs-inquiry-surveillance-pricing-practices)
+    ### [No, hashing still doesn't make your data anonymous](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/no-hashing-still-doesnt-make-your-data-anonymous)
     
-    FTC Staff
+    Staff in the Office of Technology
     
-    July 23, 2024
+    July 24, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -226,20 +224,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, DOJ, and International Enforcers Issue Joint Statement on AI Competition Issues](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-doj-international-enforcers-issue-joint-statement-ai-competition-issues)
+    ### [FTC and Justice Department to Host First Public Strike Force on Unfair and Illegal Pricing Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-justice-department-host-first-public-strike-force-unfair-illegal-pricing-meeting)
     
-    July 23, 2024
+    July 26, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul23
+    Jul31
     
-    ### [Chair Lina M. Khan keynote speaker at the American Federation of Teachers Conference](https://www.ftc.gov/news-events/events/2024/07/chair-lina-m-khan-keynote-speaker-american-federation-teachers-conference)
+    ### [Hearing In the Matter of The Kroger Company and Albertsons Companies, Inc. - July 31, 2024](https://www.ftc.gov/news-events/events/2024/07/hearing-matter-kroger-company-albertsons-companies-inc-july-31-2024)
     
-    Tuesday, July 23, 2024 | 12:00PM
+    Wednesday, July 31, 2024 | 10:00AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -328,10 +326,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 Secondary Menu
 --------------
