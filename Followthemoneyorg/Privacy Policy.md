@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Coalition Contributions](/assets/logos/Coalition-contributions.png)](https://www.followthemoney.org/research/institute-research/industries-storm-states-over-climate-change)
+[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
 
-Who weighs in on climate change debates?
+CA Health Industry Giving 2002-2012
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
