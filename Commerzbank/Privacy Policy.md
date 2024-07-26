@@ -44,6 +44,23 @@ Rechtliche Hinweise
 
 Hier finden Sie allgemeine Hinweise zu den Themen Datenschutz, Disclaimer, Schlichtung & Ombudsmann, Verträge und Leistungsbeschreibung.
 
+* Datenschutz
+    
+* Disclaimer
+    
+* Schlichtung & Ombudsmann
+    
+* Europäische Online-Streitbeilegungsplattform
+    
+* Verträge
+    
+* Leistungsbeschreibung
+    
+* Zahlungskontengesetz
+    
+* PSD2 für Drittdienstleister
+    
+
 Datenschutz
 -----------
 
@@ -360,12 +377,12 @@ Bei grenzüberschreitenden Überweisungen und bei Eilüberweisungen im Inland k�
 
 Auf Nachfrage des Kunden stellt die Commerzbank die Informationen zu SWIFT diesem schriftlich zur Verfügung.
 
-Hinweise zur Commerzbank IDENT-App
+Hinweise zu IDnow Online-IDENT-App
 ----------------------------------
 
-Die IDENT-App der Commerzbank AG dient der Durchführung von Legitimationsprüfungen im Zusammenhang mit einer bestehenden oder beantragten Kundenverbindung mit der Commerzbank AG.
+Die IDnow Online-IDENT-App dient der Durchführung von Legitimationsprüfungen im Zusammenhang mit einer bestehenden oder beantragten Kundenverbindung mit der Commerzbank AG.
 
-Die IDENT-App steht aktuell für die Betriebssysteme iOS (Apple) und Android zur Verfügung. Die App kann gegebenenfalls mit älteren Versionen der Betriebssysteme nicht genutzt werden.
+IDnow steht aktuell für die Betriebssysteme iOS (Apple) und Android zur Verfügung. Die App kann gegebenenfalls mit älteren Versionen der Betriebssysteme nicht genutzt werden.
 
 #### Hinweise zum videoIDENT
 
@@ -566,7 +583,7 @@ Im Rahmen der Umsetzung des Zahlungskontengesetz (ZKG) stellen wir Ihnen nachfol
     
 * [Entgeltinformation - StartKonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_zgk_start.pdf)
     
-* [Entgeltinformation - BasisKonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_zkg_basis.pdf)
+* [Entgeltinformation - Basiskonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_zkg_basis.pdf)
     
 * [Entgeltinformationen - KlassikKonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/ent_zkg_klassik.pdf)
     
@@ -598,15 +615,13 @@ Zurück
 
 Mit der IDnow Online-Ident-App können sowohl Bestands- als auch Neukunden ganz einfach ihre Identität bestätigen und ihre digitale Unterschrift für den Produktabschluss abgeben. Die App ist erhältlich für iOS und Android.
 
-Hinweis: Das videoIDENT-Verfahren für Neukunden ist von 8-24 Uhr verfügbar.
-
 [Zum Apple App Store](https://apps.apple.com/de/app/idnow-online-ident/id918081242)
 
 [Zum Google Play Store](https://play.google.com/store/apps/details?id=de.idnow)
 
-![QR Code IDENT App](/ms/media/generated/2AOINvyWvWde020eCa1AA-1895d68b45470b952b1e0564116bc3ea-QR_Codes_1280x593px-png_1280by593_300.png)
+![QR Code IDnow App](/ms/media/generated/2AOINvyWvWde020eCa1AA-1895d68b45470b952b1e0564116bc3ea-QR_Codes_1280x593px-png_1280by593_300.png)
 
-24 Stunden für Sie da – Beratung & Terminvereinbarung
+24 Stunden für Sie da.
 
 [Filiale](https://filialsuche.commerzbank.de/)
 
