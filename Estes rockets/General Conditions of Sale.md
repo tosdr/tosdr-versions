@@ -31,7 +31,7 @@ Check Out
 
           
 
-* [New](https://estesrockets.com/collections/new)
+* [New Arrivals](https://estesrockets.com/collections/new)
 * Rockets
     
     Rockets
@@ -70,15 +70,9 @@ Check Out
         * [Space Corps](https://estesrockets.com/collections/space-corps)
         * [STEM](https://estesrockets.com/collections/stem-products)
         
-    * Favorites
-        
-        Favorites
-        
-        * [New](https://estesrockets.com/collections/new)
-        * [Starter Sets](https://estesrockets.com/collections/starter-sets)
-        * [Launch Sets](https://estesrockets.com/collections/launch-sets)
-        * [Bulk Packs](https://estesrockets.com/collections/educator-bulk-packs)
-        
+    * [Bulk Packs](https://estesrockets.com/collections/educator-bulk-packs)
+    * [Launch Sets](https://estesrockets.com/collections/launch-sets)
+    * [Starter Sets](https://estesrockets.com/collections/starter-sets)
     
 * Engines
     
@@ -148,9 +142,9 @@ Check Out
     * [Dealer Locator](https://estesrockets.com/pages/dealer-locator)
     * [Education](https://edu.estesrockets.com/)
     * [FAQ's](https://help.estesrockets.com/hc/en-us/categories/8440305567501-General-Rocketry-Knowledge)
-    * [Help Center](https://help.estesrockets.com/hc/en-us)
     * [Policies](https://estesrockets.com/pages/policies)
     
+* [Help Center](https://help.estesrockets.com/hc/en-us)
 
 [Log in](https://estesrockets.com/customer_identity/redirect?locale=en)
 
@@ -162,7 +156,7 @@ Check Out
 
 [![Estes Rockets Logo White Blue ](//estesrockets.com/cdn/shop/files/Estes_ReverseLogo2023.png?v=1684265103&width=600)](https://estesrockets.com/)
 
-* [New](https://estesrockets.com/collections/new)
+* [New Arrivals](https://estesrockets.com/collections/new)
 * Rockets
     
     * [All Rockets](https://estesrockets.com/collections/rockets)
@@ -193,13 +187,9 @@ Check Out
         * [Space Corps](https://estesrockets.com/collections/space-corps)
         * [STEM](https://estesrockets.com/collections/stem-products)
         
-    * Favorites
-        
-        * [New](https://estesrockets.com/collections/new)
-        * [Starter Sets](https://estesrockets.com/collections/starter-sets)
-        * [Launch Sets](https://estesrockets.com/collections/launch-sets)
-        * [Bulk Packs](https://estesrockets.com/collections/educator-bulk-packs)
-        
+    * [Bulk Packs](https://estesrockets.com/collections/educator-bulk-packs)
+    * [Launch Sets](https://estesrockets.com/collections/launch-sets)
+    * [Starter Sets](https://estesrockets.com/collections/starter-sets)
     
 * Engines
     
@@ -255,9 +245,9 @@ Check Out
     * [Dealer Locator](https://estesrockets.com/pages/dealer-locator)
     * [Education](https://edu.estesrockets.com/)
     * [FAQ's](https://help.estesrockets.com/hc/en-us/categories/8440305567501-General-Rocketry-Knowledge)
-    * [Help Center](https://help.estesrockets.com/hc/en-us)
     * [Policies](https://estesrockets.com/pages/policies)
     
+* [Help Center](https://help.estesrockets.com/hc/en-us)
 
  Search [Log in](https://estesrockets.com/customer_identity/redirect?locale=en) [Cart](https://estesrockets.com/cart)
 
