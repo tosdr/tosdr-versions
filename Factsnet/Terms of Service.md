@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![15 Facts About Aspirin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-aspirin/)
+[![13 Facts About Vietnam Draft ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/13-facts-about-vietnam-draft/)
 
-Health Science
+Historical Events
 
-23 Jul 2024
+25 Jul 2024
 
-[15 Facts About Aspirin](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-aspirin/)
+[13 Facts About Vietnam Draft](https://facts.net/history/historical-events/13-facts-about-vietnam-draft/)
 
-[![13 Facts About Italy Government ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/13-facts-about-italy-government/)
+[![12 Facts About Balkan Countries ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/12-facts-about-balkan-countries/)
 
-Society & Social Sciences
+Countries
 
-23 Jul 2024
+25 Jul 2024
 
-[13 Facts About Italy Government](https://facts.net/society-and-social-sciences/13-facts-about-italy-government/)
+[12 Facts About Balkan Countries](https://facts.net/world/countries/12-facts-about-balkan-countries/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
@@ -366,5 +366,6 @@ The Terms constitute the entire agreement between you and Facts.net relating t
 * [Privacy Policy](https://facts.net/privacy-policy/)
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
+* [Shop Facts.net Merchandise](https://shop.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
