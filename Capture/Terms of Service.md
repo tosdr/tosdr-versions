@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Costco Members get exclusive deals and services through Costco Next - Shop Now](https://www.capture.com/costco?utm_source=website&utm_medium=costco&utm_campaign=banner)
+[Costco Members Save More Today! Additional 25% Off through Costco Next - Shop Now](https://www.capture.com/costco?utm_source=website&utm_medium=costco&utm_campaign=banner)
 
      
 
