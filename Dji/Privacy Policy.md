@@ -38,7 +38,9 @@
     * [Login](https://www-api.dji.com/uk/redirect/member/login)
     * [Register](https://www-api.dji.com/uk/redirect/member/register?autologin=y)
     
-* [Store](https://store.dji.com/?site=brandsite&from=nav)[DJI Holiday Deals](https://store.dji.com/?site=brandsite&from=nav) [Store](https://store.dji.com/?site=brandsite&from=nav)
+* [Store](https://store.dji.com/?site=brandsite&from=nav)
+    
+    Loading...
     
     [Proceed to Checkout](https://store.dji.com/cart?site=brandsite&from=nav)
     
@@ -654,8 +656,6 @@ Subscribe
 Get the latest news from DJI
 
 Subscribe to get exclusive offer, then login or register at [Store.dji.com](https://store.dji.com/?utm_source=official&utm_medium=subscribe&utm_campaign=subscribe_description) with your subscription email to check it.
-
-Have questions? Get help from a DJI expert.
 
 [](https://www.dji.com/uk)
 
