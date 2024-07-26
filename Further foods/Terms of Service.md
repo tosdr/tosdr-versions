@@ -4,7 +4,7 @@
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
 * [LEARN](https://www.furtherfood.com/pages/our-story)
 
-* [**PROTEIN FLASH SALE: Save 25% with code TAKE25. Save 30% on 2+ with code TAKE30**](https://www.furtherfood.com/products/unflavored-plant-based-protein) 
+* [**PROTEIN SALE EXTENDED: Save 25% with code TAKE25 & 30% on 2+ with code TAKE30**](https://www.furtherfood.com/products/unflavored-plant-based-protein)
 
 [![](//www.furtherfood.com/cdn/shop/files/FurtherFood_Logo_Digital_White_290x88.png?v=1703188360)
 
