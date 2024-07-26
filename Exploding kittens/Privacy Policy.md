@@ -422,7 +422,7 @@ Our Company
 
 * [About Us](https://www.explodingkittens.com/pages/about-exploding-kittens)
 * [Our Blog](https://www.explodingkittens.com/pages/blog)
-* [Kitty Convict Project](https://ek.explodingkittens.com/kittyconvict)
+* [Kitty Convict Project](https://kittyconvict.com/)
 * [The Oatmeal](https://theoatmeal.com/?utm_source=ek&utm_content=footernav)
 * [Careers](https://www.explodingkittens.com/pages/careers-our-story)
 * [Events](https://www.explodingkittens.com/pages/events-page)
