@@ -1,20 +1,22 @@
 [Skip to main content](#main-content) [Skip to search](#edit-keys)
 
-![U.S. flag](/themes/custom/fcc/assets/images/icons/us_flag_small.png)
+![](/themes/custom/fcc/assets/images/icons/us_flag_small.png)
 
 An official website of the United States government
 
 Here’s how you know
 
-![Dot gov](/themes/custom/fcc/assets/images/icons/icon-usa-gov.svg)
+Here’s how you know
+
+![](/themes/custom/fcc/assets/images/icons/icon-usa-gov.svg)
 
 **Official websites use .gov**  
 A **.gov** website belongs to an official government organization in the United States.
 
-![SSL](/themes/custom/fcc/assets/images/icons/icon-usa-http.svg)
+![](/themes/custom/fcc/assets/images/icons/icon-usa-http.svg)
 
 **Secure .gov websites use HTTPS**  
-A **lock** ( LockA locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+A **lock** ( Lock Locked padlock icon ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 [![Federal Communications Commission logo](/themes/custom/fcc/logo.svg)](https://www.fcc.gov/)
 
