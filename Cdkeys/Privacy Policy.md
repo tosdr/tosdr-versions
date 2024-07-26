@@ -8,6 +8,8 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
+[Summer Olympics Sale! Use code GOLD10 to get an extra 10% off sports games! 💰 Shop Now](https://www.cdkeys.com/sports-week)
+
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -39,9 +41,9 @@ Search
     * [POL](#)
     * [PRT](#)
     
-* [My Wish List ![](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
+* [My Wish List ![](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
 * 
-* [My Cart ![](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
+* [My Cart ![](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
     
 
 Menu
@@ -112,7 +114,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -540,7 +541,7 @@ For EU Promo Entrants, the above choices are in addition to the preferences you 
 
 ### We accept
 
-![Visa](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1720518121/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
+![Visa](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1721808276/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
 
 894K likes
 
@@ -560,93 +561,113 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Elden Ring Xbox One & Xbox Series X|S (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_xbox_one_xbox_series_x_s_uk_1_.jpg)   No 1. \-42%](https://www.cdkeys.com/xbox-live/elden-ring-xbox-one-xbox-series-x-s-uk)
+1.    [![The Sims 4 - Get Famous Expansion Pack PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4gf.jpg)   No 1. \-69%](https://www.cdkeys.com/pc/the-sims-4-get-famous-pc-cd-key-origin)
     
-    **[Elden Ring Xbox One & Xbox Series X|S (UK)](https://www.cdkeys.com/xbox-live/elden-ring-xbox-one-xbox-series-x-s-uk "Elden Ring Xbox One & Xbox Series X|S (UK)")**
+    **[The Sims 4 - Get Famous Expansion Pack PC](https://www.cdkeys.com/pc/the-sims-4-get-famous-pc-cd-key-origin "The Sims 4 - Get Famous Expansion Pack PC")**
     
-    Special Price £28.99 RRP £49.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-12t171950.016.jpg)   No 2. \-51%](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam)
-    
-    **[Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam "Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC")**
-    
-    Special Price £35.99 RRP £73.99
+    Special Price £10.99 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Abiotic Factor PC](https://cdn.cdkeys.com/245x340/media/catalog/product/a/b/abioticfactor-steam.jpg)   No 3. \-27%](https://www.cdkeys.com/pc/abiotic-factor-pc-steam)
+2.    [![The Sims 4 - Eco Lifestyle PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4els.jpg)   No 2. \-69%](https://www.cdkeys.com/pc/the-sims-4-eco-lifestyle-origin-pc)
     
-    **[Abiotic Factor PC](https://www.cdkeys.com/pc/abiotic-factor-pc-steam "Abiotic Factor PC")**
+    **[The Sims 4 - Eco Lifestyle PC](https://www.cdkeys.com/pc/the-sims-4-eco-lifestyle-origin-pc "The Sims 4 - Eco Lifestyle PC")**
     
-    Special Price £12.49 RRP £17.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![KAKU: Ancient Seal PC](https://cdn.cdkeys.com/245x340/media/catalog/product/k/a/kaku.jpg)   No 4. \-55%](https://www.cdkeys.com/pc/kaku-ancient-seal-pc-steam)
-    
-    **[KAKU: Ancient Seal PC](https://www.cdkeys.com/pc/kaku-ancient-seal-pc-steam "KAKU: Ancient Seal PC")**
-    
-    Special Price £8.49 RRP £18.99
+    Special Price £10.99 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![EA SPORTS College Football 25 Xbox Series X|S (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/a/eascf25-xbox_3.jpg)   No 5. \-24%](https://www.cdkeys.com/xbox-live/ea-sports-college-football-25-xbox-series-xs-uk)
+3.    [![The Sims 4 Seasons PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4sneo.jpg)   No 3. \-69%](https://www.cdkeys.com/pc/the-sims-4-seasons-expansion-pack-pc-origin-cd-key)
     
-    **[EA SPORTS College Football 25 Xbox Series X|S (UK)](https://www.cdkeys.com/xbox-live/ea-sports-college-football-25-xbox-series-xs-uk "EA SPORTS College Football 25 Xbox Series X|S (UK)")**
+    **[The Sims 4 - Seasons Expansion Pack PC](https://www.cdkeys.com/pc/the-sims-4-seasons-expansion-pack-pc-origin-cd-key "The Sims 4 - Seasons Expansion Pack PC")**
     
-    Special Price £52.99 RRP £69.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Nobody Wants to Die PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/o/nobody_wants_to_die.jpg)   No 6. \-10%](https://www.cdkeys.com/pc/nobody-wants-to-die-pc-steam)
-    
-    **[Nobody Wants to Die PC](https://www.cdkeys.com/pc/nobody-wants-to-die-pc-steam "Nobody Wants to Die PC")**
-    
-    Special Price £17.99 RRP £19.99
+    Special Price £10.99 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![Norland PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/o/norland-steam.jpg)   No 7. \-36%](https://www.cdkeys.com/pc/norland-pc-steam)
+4.    [![The Sims 4 - High School Years Expansion Pack PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4hsy.jpg)   No 4. \-68%
     
-    **[Norland PC](https://www.cdkeys.com/pc/norland-pc-steam "Norland PC")**
+    DLC](https://www.cdkeys.com/pc/the-sims-4-high-school-pack-pc-dlc-origin)
     
-    Special Price £13.99 RRP £21.99
+    **[The Sims 4 - High School Years Expansion Pack PC - DLC](https://www.cdkeys.com/pc/the-sims-4-high-school-pack-pc-dlc-origin "The Sims 4 - High School Years Expansion Pack PC - DLC")**
+    
+    Special Price £10.99 RRP £33.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-8.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 8. \-31%
+5.    [![The Sims 4 - Cottage Living PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4cl.jpg)   No 5. \-69%](https://www.cdkeys.com/pc/the-sims-4-cottage-living-pc-origin)
     
-    Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
+    **[The Sims 4 - Cottage Living PC](https://www.cdkeys.com/pc/the-sims-4-cottage-living-pc-origin "The Sims 4 - Cottage Living PC")**
+    
+    Special Price £10.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![The Sims 4 Growing Together Expansion Pack PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4gt.jpg)   No 6. \-69%
+    
+    DLC](https://www.cdkeys.com/pc/the-sims-4-growing-together-expansion-pack-pc-dlc-origin)
+    
+    **[The Sims 4 Growing Together Expansion Pack PC - DLC](https://www.cdkeys.com/pc/the-sims-4-growing-together-expansion-pack-pc-dlc-origin "The Sims 4 Growing Together Expansion Pack PC - DLC")**
+    
+    Special Price £10.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![The Sims 4 : Horse Ranch Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4hr.jpg)   No 7. \-57%
+    
+    DLC](https://www.cdkeys.com/pc/the-sims-4-horse-ranch-expansion-pc-dlc-ea-app)
+    
+    **[The Sims 4 : Horse Ranch Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-horse-ranch-expansion-pc-dlc-ea-app "The Sims 4 : Horse Ranch Expansion PC/Mac")**
+    
+    Special Price £14.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![The Sims 4 : For Rent Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-05t140150.888.jpg)   No 8. \-57%
+    
+    DLC](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app)
+    
+    **[The Sims 4 : For Rent Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app "The Sims 4 : For Rent Expansion PC/Mac")**
+    
+    Special Price £14.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck_expansion_pack_1_1.jpg)   No 9. \-20%
+    
+    DLC](https://www.cdkeys.com/xbox-live/the-sims-4-lovestruck-expansion-pack-xbox-eu)
+    
+    **[The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/the-sims-4-lovestruck-expansion-pack-xbox-eu "The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)")**
+    
+    Special Price £26.99 RRP £33.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+10.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 10. \-32%
+    
+    DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
     
     **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
     
-    Special Price £23.39 RRP £33.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-9.    [![Hogwarts Legacy Deluxe Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/capsule_616x353_1__1_3_1_1.jpg)   No 9. \-70%](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww)
-    
-    **[Hogwarts Legacy Deluxe Edition PC (WW)](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww "Hogwarts Legacy Deluxe Edition PC (WW)")**
-    
-    Special Price £17.99 RRP £59.99
+    Special Price £22.99 RRP £33.99
     
     [Add to Wish List](# "Add to Wish List")
     
