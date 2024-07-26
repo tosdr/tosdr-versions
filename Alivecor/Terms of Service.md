@@ -1,5 +1,3 @@
-[PRIME EXTENDED: Save Up to $30 on KardiaMobile 6L | SHOP NOW](https://store.kardia.com/products/kardiamobile6l)
-
 [](https://kardia.com/)
 
 * [Products](javascript:void(0);)
