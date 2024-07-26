@@ -69,6 +69,14 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Blog](https://www.exoclick.com/blog/)
 --------------------------------------
 
+* [![Advertiser Keyword Targeting feature](https://www.exoclick.com/wp-content/uploads/2024/07/keyword-targeting-320x180.png)](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+    
+    ### [ExoClick’s Advertiser Keyword Targeting feature](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+    
+    Learn how to use ExoClick’s Advertiser Keyword Targeting feature to reach your preferred audiences through simple keyword associations.
+    
+    [Read More](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+    
 * [![When should i bid or buy a traffic share](https://www.exoclick.com/wp-content/uploads/2024/07/biddint-vs-TS-1-320x180.png)](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
     
     ### [Bidding Vs Traffic Share: When should I bid or buy a Traffic Share deal?](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
@@ -84,14 +92,6 @@ Target double opt-in users with our high converting Email Clicks ad format.
     In this article, we answer the question ‘how to optimize Video ad campaigns with AI editors?’ and show some of the best software available!
     
     [Read More](https://www.exoclick.com/how-to-optimize-video-ad-campaigns-with-ai-editors/)
-    
-* [![benefits of monetizing Social traffic through ExoClick highest social media traffic times how to monetize Social Media traffic how to monetize social media audience monetize your social media audience create a social media channel for monetization how to monetize facebook page with ExoClick How to place Direct Links on a WhatsApp channel](https://www.exoclick.com/wp-content/uploads/2024/07/tips-320x180.png)](https://www.exoclick.com/account-manager-tips-on-how-to-monetize-social-media-traffic/)
-    
-    ### [Account Manager tips on how to monetize Social Media traffic](https://www.exoclick.com/account-manager-tips-on-how-to-monetize-social-media-traffic/)
-    
-    Wondering how to monetize Social Media traffic? Read our account manager tips on how to create a social media channel for monetization!
-    
-    [Read More](https://www.exoclick.com/account-manager-tips-on-how-to-monetize-social-media-traffic/)
     
 
 [Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
