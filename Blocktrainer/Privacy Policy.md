@@ -58,6 +58,7 @@
 * [Shop](https://www.blocktrainer.de/shop/alle-produkte)
     * [Bücher](https://www.blocktrainer.de/shop/buecher)
     * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
+    * [Cooles Zeug](https://www.blocktrainer.de/shop/cooles-zeug)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
 * [Bitcoin - sachlich und fundiert erklärt.](https://www.blocktrainer.de/ "Bitcoin - sachlich und fundiert erklärt.")
@@ -589,4 +590,4 @@ Kopieren
 
 [](#)
 
-[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
