@@ -1,8 +1,8 @@
 [Skip to content](#fl-main-content)
 
-[TAP TO CALL](tel:732-458-2288)
+[TAP TO CALL](tel:732-458-2288 "Click Here")
 
-[CONTACT US](https://familydentistryofnewjersey.com/contact-us)
+[CONTACT US](https://familydentistryofnewjersey.com/contact-us "Click Here")
 
 [![logo](https://familydentistryofnewjersey.com/wp-content/uploads/2017/12/logo.jpg "logo")](https://familydentistryofnewjersey.com/)
 
@@ -35,7 +35,7 @@ Menu
     * [Cosmetic Dentistry](https://familydentistryofnewjersey.com/services/cosmetic-dentistry)
         
         * [Teeth Whitening](https://familydentistryofnewjersey.com/services/cosmetic-dentistry/teeth-whitening)
-        * [Porcelain Veneers](https://familydentistryofnewjersey.com/services/porcelain-veneers)
+        * [Porcelain Veneer Services](https://familydentistryofnewjersey.com/services/porcelain-veneers)
         * [Gum Recontouring](https://familydentistryofnewjersey.com/services/gum-recontouring)
         * [Dental Bonding](https://familydentistryofnewjersey.com/services/cosmetic-dentistry/dental-bonding)
     * [Tooth Replacement](#)
@@ -139,7 +139,7 @@ SUBMIT
 SCHEDULE YOUR APPOINTMENT
 -------------------------
 
-[CONTACT US](https://familydentistryofnewjersey.com/request-appointment)
+[CONTACT US](https://familydentistryofnewjersey.com/request-appointment "Click Here")
 
 ![njda](https://familydentistryofnewjersey.com/wp-content/uploads/2017/12/njda-150x80.png "njda")
 
