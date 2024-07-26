@@ -1301,6 +1301,30 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Entry-Level Full Stack Developer](https://cvcompiler.com/entry-level-full-stack-developer-resume-examples)
 
+[Entry-Level Customer Success Manager](https://cvcompiler.com/entry-level-customer-success-manager-resume-examples)
+
+[Entry-Level Product Manager](https://cvcompiler.com/entry-level-product-manager-resume-examples)
+
+[Entry-Level Public Relations](https://cvcompiler.com/entry-level-public-relations-resume-examples)
+
+[Music Teacher](https://cvcompiler.com/music-teacher-resume-examples)
+
+[Customer Support Specialist](https://cvcompiler.com/customer-support-specialist-resume-examples)
+
+[Entry-Level Game Developer](https://cvcompiler.com/entry-level-game-developer-resume-examples)
+
+[Database Administrator](https://cvcompiler.com/database-administrator-resume-examples)
+
+[Communications Specialist](https://cvcompiler.com/communications-specialist-resume-examples)
+
+[WordPress Developer](https://cvcompiler.com/wordpress-developer-resume-examples)
+
+[Game Artist Animator](https://cvcompiler.com/game-artist-animator-resume-examples)
+
+[Systems Engineer](https://cvcompiler.com/systems-engineer-resume-examples)
+
+[Regional Property Manager](https://cvcompiler.com/regional-property-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
