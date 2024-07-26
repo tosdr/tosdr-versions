@@ -27,7 +27,7 @@ EnglishLight UI Dark UI Help
 Privacy Policy
 ==============
 
-Last updated: January 17, 2024
+Last updated: July 22, 2024
 
 Welcome to Chess.com!
 
@@ -138,6 +138,8 @@ As more fully set forth below, we and our third-party service providers collect 
 
 To register an Account, Users are asked to provide a username, an email address, and/or telephone number (which is optional if you choose to register with an email).
 
+We also allow Users to register an Account by connecting with an external third-party service such as Google, Apple, or Facebook. If you choose this way of registration, we may receive your PI from these third parties including but not limited to your name, email address, and contacts.
+
 Users are also able to complete their profile with additional information which is optional such as: first and last name, location, country, language, content language, timezone, OTB rating, status, profile picture and any other information the User chooses to share in the “About me“ section of the profile. The flag of the country you choose will appear on your profile.
 
 Keep in mind that certain information from your profile is public and therefore can be accessed by any User, and even by people outside Chess.com. By including information in your profile, you understand that the information that is public can be used by any person or entity for their own purposes.
@@ -151,6 +153,12 @@ In addition, Users can provide us with information through separate sections of 
 If you submit any information relating to other people in connection with the Services, you represent that you have the authority to do so and permit us to use the information in accordance with this Policy.
 
 When you contact us directly by any means we will collect your email address, name and any information you provide.
+
+When we embed or display content from YouTube on our Services, we are using YouTube API Services. In these cases, we collect, store, and use User information related to YouTube API services. By accessing YouTube content on our Services, you agree to be bound by YouTube terms of service, found at [https://www.youtube.com/static?template=terms](https://www.youtube.com/static?template=terms).
+
+If you want to revoke this access to your data, you can do so via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions).
+
+YouTube is a service provided by Google. For more information about how Google collects and uses data, please refer to the Google Privacy Policy at [http://www.google.com/policies/privacy](http://www.google.com/policies/privacy).
 
 B. Information We Collect from Users
 ------------------------------------
@@ -167,12 +175,12 @@ We collect several different types of information for various purposes to provid
 
 **1\. PI**
 
-While using our Service, we may collect certain PI. PI may include but is not limited to:
+While using our Service, we may collect certain PI which may include but is not limited to:
 
 * Required Information (username, email address, or telephone number, as applicable)
 * Optional Information (first and last name, location, country, language, content language, timezone, OTB rating, status, profile picture and any other information the User chooses to share in the “About me“ section of the profile)
 * Public available chess records from FIDE (Fédération Internationale des Échecs)
-* We may use your PI to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you, we will ask for your previous consent, if that is required by the applicable legislation. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send, by changing your notification settings in your profile or by contacting us.
+* We may use your PI to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you, we will ask for your previous consent, if that is required by the applicable legislation. You may opt-out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send, by changing your notification settings in your profile or by contacting us.
 * If you use our App for the Apple or Android platform, we may ask, with your permission, to collect your contact list information (including email addresses and phone numbers) to share with Apple or Google for the exclusive purpose of finding your friends and connections.
 * If you participate in one of our chess competitions with prizes, you may be required to install software that monitors your activity on your computer or device. This software may log your device processes and tabs, record your device screen, access your webcam(s) and video, record your input and output audio, and track your mouse or cursor movement. This PI will be collected and disclosed to a third-party to conduct the competition, to prevent, detect and investigate violations of the competition's rules and our Fair Play Policy as further described in Section 5 (When We Disclose Information to Third Parties).
 * We also collect Usage Data and Cookies Data, as described below in separate sections.
@@ -205,17 +213,15 @@ _Social Media Cookies_
 
 These Cookies are used when you share information using a social media sharing button or “like“ button on our Services or engage with our content on or through a social networking website such as Facebook, Twitter, or Google+ and also if you choose to sign up using your social media account. These cookies are also placed on your browser if you access to a section of our Services that provides you with embedded videos from Youtube, Twitch or other third-party websites. Some of these cookies may be considered essential if you log in using your social media account.
 
-_Marketing Cookies_
+_Targeting Cookies_
 
-Marketing Cookies are used to serve you with advertisements that may be relevant to you and your interests.Third parties might use information gathered by cookies and/or web beacons for the purpose of online behavioral advertising. The types of information that is gathered by third party cookies and/or web beacons as well as the purpose(s) for which this information is used, are set out in the privacy policy of said third parties which we encourage you to review. Chess.com declines all and any liability for any third party cookies or web beacons deployed by third parties for whatever purpose.
+Targeting Cookies are used to serve you with advertisements that may be relevant to you and your interests. Third parties might use information gathered by cookies and/or web beacons for the purpose of online behavioral advertising. The types of information that is gathered by third party cookies and/or web beacons as well as the purpose(s) for which this information is used, are set out in the privacy policy of said third parties which we encourage you to review. Chess.com declines all and any liability for any third party cookies or web beacons deployed by third parties for whatever purpose.
 
-Google, as a third-party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences](http://www.google.com/ads/preferences/).
+Google, as a third-party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. You may opt-out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences](http://www.google.com/ads/preferences/).
 
 Depending on your country of residence, you may allow or reject the use of non-essential Cookies when using our Services by changing your Cookie preferences [here](https://www.chess.com/legal/privacy#cookie_preferences). However, please note that if you reject or block certain categories of Cookies from the Services, the Services may not function as intended. For example, you will not be able to remain logged into your Account, and therefore you would have to log in during each page transition.
 
-You may also opt out of the use of cookies by visiting the Google ad and content network privacy policy at [http://www.privacychoice.org/companies](http://www.privacychoice.org/companies) or [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+You may also opt-out of the use of your PI for interest based advertising by visiting [Your ad choices](http://optout.aboutads.info/), [Your online choices](https://youronlinechoices.eu/), [Transparent advertising](https://www.transparentadvertising.com/), [LiveRamp opt out](https://liveramp.com/opt_out) or [NAI Consumer opt out](https://optout.networkadvertising.org/).
 
 4\. How We Use Information
 ==========================
@@ -253,6 +259,7 @@ Information collected from Users will not be disclosed except for the following 
 * With government bodies and law enforcement or where we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements. If required or permitted to do so under the law, and if deemed necessary or warranted, we may provide notice to Users prior to the disclosure.
 * Subject to confidentiality agreements, the terms of this Policy, and applicable law, information may be disclosed to service providers, advisers, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction in which we or any of our affiliates are acquired by or merged with another company, or we sell, liquidate, transfer, or license all or a portion of our assets in bankruptcy or otherwise. This means that if some or all our assets are acquired or otherwise transferred or licensed, including in bankruptcy, that such acquirer shall be subject to the same commitments stated under this Policy.
 * We may use third-party advertising networks and other affiliates in association with cookies, pixel tags, IFrames or similar technologies to: (1) deliver interest-based advertising to those Users, including our advertising, when those Users visit third-party websites; and (2) provide us with statistics about the effectiveness of our advertising on third-party websites. These third-party advertising networks may use this cookie information in accordance with their own privacy policies.
+* To provide you with relevant content and personalized advertisements, we may share information that we collect from you, such as your phone number, email address (in hashed form), IP address or information about your browser or operating system, with advertising service providers and its affiliates, which may in turn link demographic or interest-based information to you. If you are in the EU and wish to opt-out of this use, you can go [here](https://www.chess.com/legal/privacy#cookie_preferences) and reject the cookies categorized under advertising. If you are outside the EU, you can opt-out by visiting [https://go.chess.com/opt-out](https://go.chess.com/opt-out).
 * To a third-party that uses or supports referral links to our Services only if you click on a referral link.
 * Any third-party where such disclosure is required in order to enforce or apply our Terms of Service or other relevant agreements.
 * Any third-party if necessary to protect the rights, property, integrity or security of our company, our customers, or others (including, without limitation, you).
@@ -262,22 +269,22 @@ For service efficiency purposes, some of these affiliates and third parties are 
 6\. How to Exercise your Right to Access, Change or Correct your Information
 ============================================================================
 
-Any User can review or change the information they provided when they registered for the Services by updating the information on their Account profile or by contacting us at [support@chess.com](mailto:Support@chess.com). You also can exercise your right of access by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services. In addition, Users may contact us at any time as described in Section “Contact Us“ below, to request that we provide for their review any PI they have provided, or to cease collecting PI from the User.
+Any User can review or change the information they provided when they registered for the Services by updating the information on their Account profile or by contacting [Support](https://www.chess.com/support). You also can exercise your right of access by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services. In addition, Users may contact us at any time as described in Section “Contact Us“ below, to request that we provide for their review any PI they have provided, or to cease collecting PI from the User.
 
 When we change any PI at your request, we will make reasonable efforts to make the changes in our then-active databases as soon as reasonably practicable and always within the applicable legal term. Changing setting options may not result in immediate changes to the settings, which are subject to our operations and maintenance schedules.
 
 7\. How to Exercise your Rights to Cancel and Delete your Account and How to Request Reactivation
 =================================================================================================
 
-Users may cancel their Accounts at any time by using the “[Manage Account](https://www.chess.com/settings/manage-account)“ section in the settings or by contacting support@chess.com.
+Users may cancel their Accounts at any time by using the “[Manage Account](https://www.chess.com/settings/manage-account)“ section in the settings or by contacting [Support](https://chess.com/support).
 
 Please bear in mind that after an Account is canceled, the PI and other Account information is not deleted permanently. We store the User information to allow the User to reopen their Account at any time. However, we provide no guarantee, and shall have no liability or obligation to ensure, that all Account Information and Services-related progress will be available or accessible or all learning or personalization features will be able to be recovered or resumed.
 
 Upon Account cancellation or execution of a deletion request (as explained below), anonymized User information may nonetheless persist internally in our backup, archive files or similar databases, and may still be used anonymized, for our internal support, administrative, and record-keeping purposes including, but not limited to, allowing us to improve the Services and other services we provide through research, evaluation, and analytics as permissible by applicable law and for other purposes specifically outlined in this Policy. We may also keep certain information in backup or archive records if required by law or if it is relevant to preventing fraud or future violations of our policies or for legitimate business purposes when permitted by applicable law. All retained data will continue to be subject to our Policy in effect at that time
 
-Following cancellation of an Account, to reactivate your Account and potentially recover previous information and resume where the relevant User left off you will need to request it to [support@chess.com](mailto:Support@chess.com) using the email address associated with your Account.
+Following cancellation of an Account, to reactivate your Account and potentially recover previous information and resume where the relevant User left off you will need to request it to [Support](https://chess.com/support) using the email address associated with your Account.
 
-If you want to permanently delete your PI you can request it manually by clicking on “Delete“ on the “[My Data](https://www.chess.com/my-data)“ section of the Services or by requesting deletion to [support@chess.com](mailto:Support@chess.com). In this case, we will delete your PI, anonymize the information that will remain public such as games statistics, posts and comments, and block your email address and social media accounts from being used on Chess.com in the future.
+If you want to permanently delete your PI you can request it manually by clicking on “Delete“ on the “[My Data](https://www.chess.com/my-data)“ section of the Services or by requesting deletion to [Support](https://chess.com/support). In this case, we will delete your PI, anonymize the information that will remain public such as games statistics, posts and comments, and block your email address and social media accounts from being used on Chess.com in the future.
 
 If you want your posts and public comments to be removed, you must delete them separately before requesting deletion. After you delete your personal data, Chess.com Support Staff will have no means to verify your identity and will not remove these posts for you.
 
@@ -292,6 +299,8 @@ This Section supplements the information contained in our Policy and applies sol
 
 The CCPA provides California residents with specific rights regarding their PI. This section describes your CCPA rights and explains how to exercise those rights. In this section “you“ or “your“ refers to California residents. Under the CCPA, we are required to disclose the categories of sources from whom we collect PI, and the third parties with whom we share it -- which we already have explained above in Section “Information Collection“, Section “How We Use Information“, and Section “When We Disclose Information to Third Parties“.
 
+We do not have actual knowledge that we “sell” or “share” (as those terms are defined under the CCPA and used throughout this section) personal information of residents under 16 years of age. However, we have, in the preceding 12 months, sold and/or shared the phone numbers, email addresses (in hashed form), IP addresses or browser or operating system information of California residents to advertising service providers and their affiliates for the business purpose of providing personalized content and advertising.
+
 Only you as a California resident or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your PI.
 
 The verifiable consumer request must:
@@ -300,20 +309,14 @@ The verifiable consumer request must:
 * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 * We cannot respond to your request or provide you with PI if we cannot verify your identity or authority to make the request and confirm the PI relates to you. Making a verifiable consumer request does not require you to create an Account with us. We will only use PI provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
 
-To exercise your rights you can always request it to us by sending an email to [support@chess.com](mailto:Support@chess.com) or by following the steps described below:
+To exercise your rights please follow the steps described below, or request it to us by contacting [Support](https://chess.com/support) or by following the steps described below:
 
 * **Right to access PI**. You may be entitled to receive information regarding the categories of PI we collected, the sources from which we collected PI, the purposes for which we collected and shared PI, the categories of PI that we share and the categories of third parties to whom the PI was shared with, and the categories of PI that we disclosed for a business purpose in the last 12 months. You can exercise this right by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services.
 * **Right to data portability**. You may be entitled to receive a copy of your electronic PI in a readily usable format so you can transmit this data to another organization. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. You can exercise this right by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services.
 * **Right to Correct**. You have the right to request that we correct inaccurate PI that we maintain about you. You are also able to correct any inaccurate PI manually by accessing your profile on the [Settings](https://www.chess.com/settings) sections of the Services.
 * **Right to deletion**. You may be entitled to request that we delete the PI that we have collected from you. We will use commercially reasonable efforts to honor your request, in compliance with applicable laws. Please note, however, that we may need or be required to keep such information for our legitimate business purposes or to comply with applicable law. To know how to exercise your right to deletion, please refer to the section titled: “Account Cancellation and Reactivation; Data Deletion“ from this Policy.
-* **Right to opt-out of certain sharing with third parties**. We do not sell your personal information to third-parties. We only disclose certain information to our service providers when it is necessary to fulfill our business purposes and in accordance with this Policy.
-
-Do Not Sell or Share My Personal Information.
----------------------------------------------
-
-Even though we do not share your information in exchange for compensation, if you are a California resident, you have the right to request us to not disclose your PI to third parties for monetary or other valuable consideration.
-
-You can exercise such right to opt-out by submitting the following [form](https://go.chess.com/opt-out).
+* **Right to opt-out of certain sharing with third parties**. If you are a California resident, you have the right to request us to not disclose your PI to third parties for monetary or other valuable consideration or also known as the right to “**Not Sell or Share My Personal Information**”  
+    You can exercise such right to opt-out by submitting the following [form](https://go.chess.com/opt-out).
 
 “Do Not Track“ Signals
 ----------------------
@@ -393,7 +396,7 @@ We will retain your Personal Data only for as long as necessary for the purposes
 b. Transfer Of Data
 -------------------
 
-Your information, including Personal Data, may be transferred to --- and maintained on --- computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Your information, including Personal Data, may be transferred to --- and maintained on --- servers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
 If you are located outside the United States and choose to provide information to us, please note that we are a United States based provider. Therefore, we operate our Services, collect and process your Personal Data from the United States.
 
@@ -404,7 +407,7 @@ c. Your Data Protection Rights Under the GDPR
 
 If you are located in the EEA or the UK, then you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
-If you wish to be informed on what Personal Data we hold about you, if you want it to be removed from our systems, please contact us at the contact information provided in Section “Contact Us“, below.
+If you wish to be informed on what Personal Data we hold about you or if you want it to be removed from our systems, please contact us at the contact information provided in Section “Contact Us“, below.
 
 You can edit your Account information at any time. In certain circumstances, you have the following data protection rights:
 
@@ -412,7 +415,7 @@ You can edit your Account information at any time. In certain circumstances, you
 * **The right to update, correct and rectify your personal data**. You are also able to update, correct or rectify any inaccurate Personal Data manually by accessing your profile on the [Settings](https://www.chess.com/settings) sections of the Services.
 * **The right to delete the information we have on you**. To know how to exercise your right to deletion, please refer to the section titled: “Account Cancellation and Reactivation; Data Deletion“ from this Policy.
 * **The right to object**. You have the right to object to our processing of your Personal Data. You can do it by contacting us via the contact information provided in Section “Contact Us“.
-* **The right to object to marketin**g. You can object to marketing at any time by opting-out using the unsubscribe/ opt-out function displayed in our communications to you or by managing your preferences on the [Notifications](https://www.chess.com/settings/notifications) section from the Settings.
+* **The right to object to marketing**. You can object to marketing at any time by opting-out using the unsubscribe/ opt-out function displayed in our communications to you or by managing your preferences on the [Notifications](https://www.chess.com/settings/notifications) section from the Settings.
 * **The right of restriction**. You have the right to request that we restrict the processing of your Personal Data if this is applicable by contacting us via the contact information provided in Section “Contact Us“.
 * **The right to withdraw consent**. You also have the right to withdraw your consent at any time where we relied on your consent to process your Personal Data by contacting us via the contact information provided in Section “Contact Us“.
 * **Manage your cookie consent**. Depending on your country of residence, you may allow or reject the use of non-essential Cookies when using our Services by changing your Cookie preferences [here](https://www.chess.com/legal/privacy#cookie_preferences).
@@ -426,7 +429,7 @@ You also have the right to complain to a Data Protection Authority about our col
 d. Appointment of the Data Protection Officer
 ---------------------------------------------
 
-Josh Levine is our GDPR Data Protection Officer (the “Protection Officer“). The Data Protection Officer may be contacted at dpo@chess.com
+Josh Levine is our GDPR Data Protection Officer. The Data Protection Officer may be contacted at dpo@chess.com.
 
 10\. Other Region and State-Specific Terms
 ==========================================
@@ -444,7 +447,7 @@ a. United States
 * **Correction**. You can edit and correct your Personal Data at any time by by accessing your profile on the [Settings](https://www.chess.com/settings) sections of the Services.
 * **Deletion**. You may have the right, under certain circumstances, to request that we delete the Personal Data you have provided to us. To know how to exercise your right to deletion, please refer to the section titled: “Account Cancellation and Reactivation; Data Deletion“ from this Policy or contact us at the contact information provided in Section “Contact Us“, below.
 * **Data portability**. You may be entitled to receive a copy of your electronic Personal Data in a readily usable format. You can exercise this right by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services.
-* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://www.chess.com/legal/privacy#cookie_preferences). We do not otherwise “sell“ your Personal Data to third parties for monetary consideration.
+* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://go.chess.com/opt-out).
 * **Opt-out of profiling**. You have the right to opt-out of the automated processing of your Personal Data to evaluate, analyze, or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location, or movements, to the extent this results in decisions that produce legal or similarly significant effects. However, we do not perform this type of profiling.
 * **Sensitive Personal Data**. We will not process your sensitive Personal Data without your consent.
 * **Non-discrimination**. You have the right to be free from discrimination related to your exercise of any of your Colorado privacy rights.
@@ -461,7 +464,7 @@ Your Connecticut privacy rights. As a Connecticut resident, you have the rights 
 * **Correction**. You can edit and correct your Personal Data at any time by by accessing your profile on the [Settings](https://www.chess.com/settings) sections of the Services.
 * **Deletion**. You may have the right, under certain circumstances, to request that we delete the Personal Data you have provided to us. To know how to exercise your right to deletion, please refer to the section titled: “Account Cancellation and Reactivation; Data Deletion“ from this Policy or contact us at the contact information provided in Section “Contact Us“, below..
 * **Data portability**. You may be entitled to receive a copy of your electronic Personal Data in a readily usable format. You can exercise this right by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services
-* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://www.chess.com/legal/privacy#cookie_preferences). We do not otherwise “sell“ your Personal Data to third parties for monetary consideration.
+* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://go.chess.com/opt-out).
 * **Opt-out of profiling**. You have the right to opt-out of the automated processing of your Personal Data to evaluate, analyze, or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location, or movements, to the extent this results in decisions that produce legal or similarly significant effects. However, we do not perform this type of profiling.
 * **Sensitive Personal Data**. We will not process your sensitive Personal Data without your consent.
 * **Non-discrimination**. You have the right to be free from discrimination related to your exercise of any of your Connecticut privacy rights.
@@ -478,7 +481,7 @@ Your Connecticut privacy rights. As a Connecticut resident, you have the rights 
 * **Access**. You may request a copy of the Personal Data by requesting it on the “[My data](https://www.chess.com/my-data)“ Section of our Services.
 * **Correction**. You can edit and correct your Personal Data at any time by by accessing your profile on the [Settings](https://www.chess.com/settings) sections of the Services.
 * **Deletion**. You may have the right, under certain circumstances, to request that we delete the Personal Data you have provided to us. To know how to exercise your right to deletion, please refer to the section titled: “Account Cancellation and Reactivation; Data Deletion“ from this Policy or contact us at the contact information provided in Section “Contact Us“, below.
-* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://www.chess.com/legal/privacy#cookie_preferences). We do not otherwise “sell“ your Personal Data to third parties for monetary consideration.
+* **Opt-out of tracking for targeted advertising purposes**. If available in your residence or if mandated by law, you may be able to submit requests to opt-out of tracking for targeted advertising purposes by clicking on the following [link](https://go.chess.com/opt-out).
 * **Opt-out of profiling**. You have the right to opt-out of the automated processing of your Personal Data to evaluate, analyze, or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location, or movements, to the extent this results in decisions that produce legal or similarly significant effects. However, we do not perform this type of profiling.
 * **Sensitive Personal Data**. We will not process your sensitive Personal Data without your consent.
 * **Non-discrimination**. You have the right to be free from discrimination related to your exercise of any of your Virginia privacy rights.
@@ -490,7 +493,7 @@ b. Australia
 
 **If you are a resident of Australia, you may have the following rights and choices:**
 
-**Update your privacy settings**. You may update your privacy settings by visiting your account settings and, if available in your country or mandated by law, manage your cookies using the following [link](https://www.chess.com/legal/privacy#cookie_preferences).
+<strong>Update your privacy settings</strong>. You may update your privacy settings by visiting your account settings
 
 **Manage marketing communications from us**. To update your marketing communication preferences, you can contact us at the contact information provided in Section “Contact Us“, below.
 
@@ -515,7 +518,7 @@ Inapplicable.
 
 **If you are a resident of Brazil, you may have the following rights and choices:**
 
-**Update your privacy settings**. You may update your privacy settings by visiting your account settings and, if available in your country or mandated by law, manage your cookies using the following [link](https://www.chess.com/legal/privacy#cookie_preferences).
+<strong>Update your privacy settings</strong>. You may update your privacy settings by visiting your account settings
 
 **Manage marketing communications from us**. To update your marketing communication preferences, you can change your notification preferences by going to the “Settings“ section on your account.
 
@@ -557,7 +560,7 @@ Where data of Indian individuals is involved, you agree that the “reasonable s
 
 You have choices when it comes to managing the privacy of your PI.
 
-**Update your privacy settings**. You may update your privacy settings by visiting your account settings and, if available in your country or mandated by law, manage your cookies using the following [link](https://www.chess.com/legal/privacy#cookie_preferences)
+<strong>Update your privacy settings</strong>. You may update your privacy settings by visiting your account settings
 
 **Manage marketing communications from us**. To update your marketing communication preferences, you can contact us at the contact information provided in Section “Contact Us“, below.
 
@@ -647,17 +650,15 @@ We constantly try to provide the best services, and accordingly our Policy will 
 15\. Contact Us
 ===============
 
-Chess.com LLC is in the United States of America and we are the operator for all our Services. You may contact [support@chess.com](mailto:Support@chess.com) if you have any questions, complaints, or other issues related to this Policy and issues related to your information.
+Chess.com LLC is in the United States of America and we are the operator for all our Services. You may contact [Support](https://chess.com/support) if you have any questions, complaints, or other issues related to this Policy and issues related to your information.
 
 For all Accounts
 
 Mailing address:  
 Chess.com LLC  
-Data Protection Officer  
-Josh Levine  
 877 E 1200 S #970397  
 Orem, UT 84097  
-Email: support@chess.com
+Contact Support [here](https://chess.com/support)
 
 16\. Chess Play & Learn (Arcade Version)
 ========================================
