@@ -267,7 +267,7 @@ Solargraf Terms of Use
 
 [United States, Canada, Puerto Rico](https://enphase.com/legal/united-states-canada-puerto-rico)
 
-[Brazil](https://enphase.com/legal/brazil)
+[Brazil](https://enphase.com/legal/solargraf-terms-brazil)
 
 [Netherlands](https://enphase.com/legal/solargraf-terms-netherlands)
 
