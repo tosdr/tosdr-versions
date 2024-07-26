@@ -135,5 +135,4 @@ Questa informativa privacy riguarda esclusivamente Altervista.
 
 Ultima modifica: 30 settembre 2023
 
-Questo documento è stato creato con il [Generatore di Privacy e Cookie Policy](https://www.iubenda.com/it/generatore-di-privacy-e-cookie-policy) di iubenda. Scopri anche il [Generatore di Termini e Condizioni](https://www.iubenda.com/it/generatore-termini-e-condizioni). [iubenda](https://www.iubenda.com/it/) ospita questo contenuto e raccoglie solo [i Dati Personali strettamente necessari](https://www.iubenda.com/privacy-policy/19418041) alla sua fornitura.  
-(EN) This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator).
+[iubenda](https://www.iubenda.com/it/generatore-di-privacy-e-cookie-policy "iubenda - generatore di Privacy Policy") ospita questo contenuto e raccoglie solo [i Dati Personali strettamente necessari](https://www.iubenda.com/privacy-policy/19418041) alla sua fornitura.
