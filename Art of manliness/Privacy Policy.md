@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
+
+[The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
+
 [![Man squatting and pointing to his tattooed arm in a wooden-paneled room, embodying the essence of an Agile Human Being.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
 
 [Podcast #885: The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A person wearing a yellow shirt and white shorts enjoys a morning walk, barefoot along a suburban street, near the curb and a grassy area.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
 
 [I Started Taking a Walk Every Morning. Here’s What Happened to My Health](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
-
-[![A person in a gym using a cable machine for strength training, performing a chest exercise with focused expression, showcasing the efficacy of cable machine workouts.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
-
-[How to Get a Full-Body Workout on a Cable Machine/Functional Trainer](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
 
 [![a man with a mustache wearing sunglasses](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/career/podcast-1008-how-to-know-when-its-time-to-break-up-with-your-job/)
+
+[Podcast #1,008
+
+###### How to Know When It’s Time to Break Up With Your Job](https://www.artofmanliness.com/career-wealth/career/podcast-1008-how-to-know-when-its-time-to-break-up-with-your-job/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
 
 [Podcast #885
@@ -664,12 +670,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,007
 
 ###### The 5 Mountains of Personal Development](https://www.artofmanliness.com/character/advice/podcast-1007-the-5-mountains-of-personal-development/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/lifestyle/homeownership/podcast-1006-stop-drowning-in-tedious-tasks-by-taming-your-life-admin/)
-
-[Podcast #1,006
-
-###### Stop Drowning in Tedious Tasks by Taming Your Life Admin](https://www.artofmanliness.com/lifestyle/homeownership/podcast-1006-stop-drowning-in-tedious-tasks-by-taming-your-life-admin/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
