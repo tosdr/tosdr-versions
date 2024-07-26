@@ -1,5 +1,3 @@
-[**Ready to boost your holiday strategy? Discover the key tactics to help you thrive this holiday season.** Register now!](https://resources.bazaarvoice.com/FY25-Q1-GL-GL-SAAS-WB-GE-EcommerceTuneUp07-24-24_RegistrationPage.html)
-
 [](https://www.bazaarvoice.com/)
 
 * [Platform](https://www.bazaarvoice.com/products/)
@@ -162,10 +160,10 @@
     * [Resources Hub
         
         Get cutting-edge insights to accelerate your success.](https://www.bazaarvoice.com/resources/)
-        * [Shopper Experience Index](https://www.bazaarvoice.com/resources/shopper-experience-index-volume-17/)
-        * [Brand manager guide to UGC](https://www.bazaarvoice.com/resources/the-brand-managers-guide-to-user-generated-content-best-practices/)
+        * [Shopper Preference Report](https://www.bazaarvoice.com/resources/shopper-preferences/)
+        * [Brand manager guide to UGC](https://www.bazaarvoice.com/brand-builders-series/)
+        * [E-commerce manager guide to UGC](https://www.bazaarvoice.com/growth-gurus-series/)
         * [Social media manager guide to UGC](https://www.bazaarvoice.com/resources/a-practical-guide-for-social-media-professionals-to-drive-engagement-and-commerce/)
-        * [E-commerce manager guide to UGC](https://www.bazaarvoice.com/resources/the-e-commerce-managers-guide-to-user-generated-content/)
     * [Blog
         
         Strategies, research, and industry trends – your pulse on the marketplace.](https://www.bazaarvoice.com/blog/)
