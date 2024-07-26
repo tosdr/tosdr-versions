@@ -31,12 +31,11 @@
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
-        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
         * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
         * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
         * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
         * [Security Compliance](https://www.currentware.com/solutions/compliance/)
-        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+        * [Workforce Optimization](https://www.currentware.com/solutions/workforce-optimization-software/)
     * [By Industry](https://www.currentware.com/solutions/#industry)
         * [Financial Services](https://www.currentware.com/industries/financial-services/)
         * [Government](https://www.currentware.com/industries/government/)
@@ -110,12 +109,11 @@
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
-        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
         * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
         * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
         * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
         * [Security Compliance](https://www.currentware.com/solutions/compliance/)
-        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+        * [Workforce Optimization](https://www.currentware.com/solutions/workforce-optimization-software/)
     * [By Industry](https://www.currentware.com/solutions/#industry)
         * [Financial Services](https://www.currentware.com/industries/financial-services/)
         * [Government](https://www.currentware.com/industries/government/)
@@ -173,7 +171,7 @@ NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR OR LICENSEE�
 
 1. **Definitions**. For purposes of this Agreement, the following terms have the following meanings:
 
-1.1 “**Authorized Users**” means the following individual persons authorized to use the Software pursuant to the licence granted under this Agreement: in the case of a Corporate Licensee, any employee, contractor, director, affiliate, or shareholder of the Licensee who is provided access to the Software by the Licensee, or in the case of a personal individual Licensee, any party who the individual licensee provides access to the Software.
+1.1 “**Authorized Users**” means the following individual persons authorized to use the Software pursuant to the licence granted under this Agreement: in the case of a Corporate Licensee, any employee, contractor, director, affiliate, physical device, or shareholder of the Licensee who is provided access to the Software by the Licensee, or in the case of a personal individual Licensee, any party who the individual licensee provides access to the Software. The number of Authorized Users is the number of licenses purchased by the Licensee.
 
 1.2 “**Confidential Information**” has the meaning set forth in 9.1.
 
@@ -207,7 +205,7 @@ NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR OR LICENSEE�
 
 2\. **Licence Grant and Scope**. Subject to and conditional on Licensee’s payment of the Licence Fees and Licensee’s strict compliance with all terms and conditions set forth in this Agreement, and the Currentware Inc. Terms of Service which can be found at [https://www.currentware.com/terms-of-service/](https://www.currentware.com/terms-of-service/) (the “**Terms of Service**”) , Licensor hereby grants to Licensee a non-exclusive, non-transferable, non-sublicensable limited licence during the Term to use, solely by and through its Authorized Users, the Software and Documentation, solely as set forth in this 2 and subject to all conditions and limitations set forth in 3 or elsewhere in this Agreement or the Terms of Service. This licence grants Licensee the right, exercisable solely by and through Licensee’s Authorized Users, to:
 
-1. 1. 2.1 Download, and install in accordance with the Documentation one (1) copy of the Software on one (1) computer, or on each of the computers set forth on the Order Form owned or leased, and controlled by, Licensee. Each such computer shall be for a single Authorized User, unless the Licensee discloses, and the Licensor agrees that such computer will be used by multiple parties.. 
+1. 1. 2.1 Download, and install in accordance with the Documentation one (1) copy of the Software  for the Authorized Users set forth on the Order Form owned or leased, and controlled by, Licensee.  The Licensee understands that they must procure licenses for the greater of the number of users or computers that the Software is being used to manage.
     2. 2.2 Use and run the Software as properly installed in accordance with this Agreement and the Documentation, solely as set forth in the Documentation and solely for Licensee’s internal business purposes. 
     3. 2.3 Download or otherwise make one (1) copy of the Documentation and use such Documentation solely in support of its licensed use of the Software in accordance herewith. All copies of the Documentation made by Licensee:  
         
@@ -216,10 +214,10 @@ NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR OR LICENSEE�
 (b) will be subject to the terms and conditions of this Agreement; and  
 (c) must include all trademark, copyright, patent, and other Intellectual Property Rights notices contained in the original.
 
-* 2.4 Transfer any copy of the Software from one computer to another, provided that:
+* 2.4 Transfer any copy of the Software from one device to another, provided that:
     
-    (a) the number of computers on which the Software is installed at any one time does not exceed the number permitted under 1.1; and  
-    (b) Licensee notifies Licensor in writing of each such transfer, including in such notice the information required under this EULA for each computer on which the Software is installed.
+    (a) the number of computers or users on which the Software is managing at any one time does not exceed the number permitted under 1.1; and  
+    (b) Licensee notifies Licensor in writing of each such transfer, including in such notice the information required under this EULA for each computer on which the Software is installed or user that is being managed.
     
 * 3\. **Use Restrictions**.
     1. 3.1 Licensee shall not, and shall require its Authorized Users not to, directly or indirectly:
@@ -379,7 +377,7 @@ Licensor’s remedies set forth in this 5.3 are cumulative and are in addition t
 
 **AUTHORIZED USER TERMS OF USE**
 
-These Software Terms of Use (“**Terms of Use**“) govern your use of the CurrentWare Suite, BrowseReporter, BrowseControl, AccessPatrol, or EnPowerManager software (the “**Software**“), including all user manuals, technical manuals, and any other materials provided by Licensor, in printed, electronic, or other form, that describe the Software or its use or specifications (the “**Documentation**“) provided to you (“**you**” or “**your**“) for use pursuant to and subject to a software licence agreement (the “**Software Licence Agreement**“) between Currentware Inc. (“**Licensor**“) and your employer or other person or entity who owns or otherwise lawfully controls the computer on which the Software is installed (“**Licensee**“).
+These Software Terms of Use (“**Terms of Use**“) govern your use of the CurrentWare Suite, BrowseReporter, BrowseControl, AccessPatrol, or enPowerManager software (the “**Software**“), including all user manuals, technical manuals, and any other materials provided by Licensor, in printed, electronic, or other form, that describe the Software or its use or specifications (the “**Documentation**“) provided to you (“**you**” or “**your**“) for use pursuant to and subject to a software licence agreement (the “**Software Licence Agreement**“) between Currentware Inc. (“**Licensor**“) and your employer or other person or entity who owns or otherwise lawfully controls the computer or User on which the software is managing (“**Licensee**“).
 
 BY CHECKING THE “ACCEPT” BOX YOU: (i) REPRESENT THAT YOU ARE DULY AUTHORIZED BY LICENSEE TO ACCESS AND USE THE SOFTWARE; AND (ii) ACCEPT THESE AUTHORIZED USER TERMS AND AGREE THAT YOU ARE LEGALLY BOUND BY THEM. IF YOU DO NOT AGREE TO THESE TERMS OF USE, DO NOT CHECKING THE “ACCEPT” BOX AND YOU WILL HAVE NO LICENCE TO, AND MUST NOT ACCESS OR USE, THE SOFTWARE.
 
@@ -576,7 +574,7 @@ Original SSLeay License
 \* \[including the GNU Public Licence.\]  
 \*/
 
-![](data:image/gif;nitro-empty-id=NzEwOjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;nitro-empty-id=NzA4OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 CurrentWare's data loss prevention, productivity, and security software gives you advanced control and visibility over technology use in your organization
 
@@ -598,7 +596,6 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
     * [Security Compliance](https://www.currentware.com/solutions/compliance/)
     * [Staff Investigations](https://www.currentware.com/solutions/employee-investigation/)
     * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
-    * [Web Filtering](https://www.currentware.com/web-filter/)
     * [Web Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
     * [More Solutions](https://www.currentware.com/solutions/)
 * Learn
@@ -647,9 +644,9 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
 
 [Terms of Service](https://www.currentware.com/terms-of-service/)
 
- [![](data:image/gif;nitro-empty-id=ODAwOjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=ODAxOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=ODAyOjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=ODAzOjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
+ [![](data:image/gif;nitro-empty-id=Nzk3OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=Nzk4OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=Nzk5OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=ODAwOjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
 
-![CurrentWare Software End User Licence Agreement (EULA)](data:image/svg+xml;nitro-empty-id=ODIwOjI2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Software End User Licence Agreement (EULA)](data:image/svg+xml;nitro-empty-id=ODE3OjI2Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 
