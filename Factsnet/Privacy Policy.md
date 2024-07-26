@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![20 Facts About Valhalla Golf Club ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/20-facts-about-valhalla-golf-club/)
+[![23 Facts About HandsFree Dog Leashes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/23-facts-about-hands-free-dog-leashes/)
 
-Sports
+Animals
 
-22 Jul 2024
+24 Jul 2024
 
-[20 Facts About Valhalla Golf Club](https://facts.net/lifestyle/sports/20-facts-about-valhalla-golf-club/)
+[23 Facts About HandsFree Dog Leashes](https://facts.net/nature/animals/23-facts-about-hands-free-dog-leashes/)
 
-[![15 Facts About Port Adelaide Football Club ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/15-facts-about-port-adelaide-football-club/)
+[![19 Facts About Tom Gleeson ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/19-facts-about-tom-gleeson/)
 
-Sports
+Celebrity
 
-22 Jul 2024
+24 Jul 2024
 
-[15 Facts About Port Adelaide Football Club](https://facts.net/lifestyle/sports/15-facts-about-port-adelaide-football-club/)
+[19 Facts About Tom Gleeson](https://facts.net/celebrity/19-facts-about-tom-gleeson/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
@@ -478,5 +478,6 @@ If you have questions or comments about this policy, email us at **contact@facts
 * [Privacy Policy](https://facts.net/privacy-policy/)
 * [Submit Facts](https://facts.net/fact-submission-page/)
 * [More Facts](https://facts.net/more-category/)
+* [Shop Facts.net Merchandise](https://shop.facts.net/)
 
 Follow us [Subscribe to our channel](https://www.youtube.com/channel/UCkEWgtngMrn9AcsRTmDgPIQ)
