@@ -12,6 +12,7 @@ Privacy Policy \- A Wiki.
     * [Ownership Requests](https://gamebanana.com/wikis/admin/ownershipreqs/1873)
     * [Permits](https://gamebanana.com/wikis/admin/permits/1873)
     * [Withhold](https://gamebanana.com/wikis/admin/withhold/1873)
+    * [Tickets](https://gamebanana.com/wikis/admin/tickets/1873)
 * [Todos](https://gamebanana.com/wikis/todos/1873)
 * [10
     
@@ -24,7 +25,7 @@ Privacy Policy \- A Wiki.
     Collections](https://gamebanana.com/wikis/collections/1873)
 * [Thankers](https://gamebanana.com/wikis/thankers/1873)
 * [Flags](https://gamebanana.com/wikis/admin/flags/1873)
-* [Report](https://gamebanana.com/support/add?source=https%3A%2F%2Fgamebanana.com%2Fwikis%2F1873)
+* [Report](https://gamebanana.com/support/add?s=Wiki.1873)
 
 This site requires JavaScript
 
