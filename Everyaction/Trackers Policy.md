@@ -494,6 +494,26 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Staff of Mid-Shore Council on Family Violence](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/midshore-midshore-header-image.png.webp?itok=PD948rEE)
+
+**Empowering victims to self-sufficiency**
+
+For over 40 years, Mid-Shore Council on Family Violence (MSCFV) has been a safe haven for domestic violence victims in rural Maryland.
+
+[Read their story onEmpowering victims to self-sufficiency](https://www.everyaction.com/case-studies/empowering-victims-self-sufficiency)
+
+Impact Powered by:
+
+![Deaconess Nurse Ministry worker checking up on a patient](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/bonterra-deaconess-nurse-ministry_header-photo_0.jpg.webp?itok=syf9A3dl)
+
+**Enabling increased funding for Deaconess Nurse Ministry**
+
+Learn how Deaconess Nurse Ministry improved data management and reporting to enhance programming and secure 31% more funding annually through Bonterra Impact Management.
+
+[Read their story onEnabling increased funding for Deaconess Nurse Ministry](https://www.everyaction.com/case-studies/enabling-increased-funding-deaconess-nurse-ministry)
+
+Impact Powered by:
+
 ![Photo of a woman visiting her doctor](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/mmhn-istock-1495378388-color-bg.png.webp?itok=TVnv54vq)
 
 **Championing perinatal mental health for all**
@@ -540,26 +560,6 @@ Read how A New Leaf addresses the needs of Arizonans with the help of Bonterra
 
 Impact Powered by:
 
-![Two people participating in a Pride celebration](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/bonterra-hudson-pride_header-photo.jpg.webp?itok=JwWZ5Ree)
-
-**Expanding support to the LGBTQ+ community**
-
-Hudson Pride Center continues to address the many needs of the greater Hudson County LGBTQ+ community.
-
-[Read their story onExpanding support to the LGBTQ+ community](https://www.everyaction.com/case-studies/expanding-support-lgbtq-community)
-
-Impact Powered by:
-
-![Sun rising over the blue ridge mountains](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/roanoke-istock-1443619685-noise.jpg.webp?itok=Uz35W-fd)
-
-**Championing mental health in the Blue Ridge Mountains**
-
-How Family Service of Roanoke Valley upleveled donor outreach and community support
-
-[Read their story onChampioning mental health in the Blue Ridge Mountains](https://www.everyaction.com/case-studies/championing-mental-health-blue-ridge-mountains)
-
-Impact Powered by:
-
 Previous Next
 
 [See all](https://www.everyaction.com/case-studies)
@@ -567,30 +567,32 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![A nonprofit employee in an office smiles, confident in the fundraising goal her organization has set.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1394347360.jpg?h=4d18bf5b&itok=bfr2s0Ry)
+* ![Two nonprofit professionals plan how to collect and use donor testimonials.](/sites/default/files/styles/card_image_short/public/2023-05/bonterra_how-to-collect-and-use-donor-testimonials-for-your-nonprofit_feature-min_0.jpg?h=9855f42d&itok=y2eU0UZo)
     
-    ### [Create actionable fundraising goals for nonprofits: 4 steps](https://www.everyaction.com/blog/actionable-fundraising-goal)
-    
-    * Fundraising ideas
-    * Nonprofits
-    * Guided Fundraising
-    
-* ![These nonprofit employees are using a bulletin board to plan their accessible fundraising appeal.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1432497677_0.jpg?h=2992ba0a&itok=3b2mNRQX)
-    
-    ### [How to write universal and accessible fundraising appeals](https://www.everyaction.com/blog/accessible-fundraising-appeals)
+    ### [How to collect and use donor testimonials for your nonprofit](https://www.everyaction.com/blog/collect-and-use-nonprofit-testimonials)
     
     * Digital communications & marketing
-    * Fundraising ideas
     * Nonprofits
     * Donor Engagement
     
-* ![This image shows a diverse group of nonprofit professionals gathered in a circle discussing questions their fundraising plan must answer.](/sites/default/files/styles/card_image_short/public/2023-05/questions-fundraising-plan_feature.jpg?h=2992ba0a&itok=pFg39muj)
+* ![A young doctor shares closed-loop referral information from his tablet with an older patient. ](/sites/default/files/styles/card_image_short/public/2023-05/istock-1373659740.jpg?h=644b3b1a&itok=-xypDATr)
     
-    ### [4 questions to answer in a comprehensive fundraising plan](https://www.everyaction.com/blog/questions-your-fundraising-plan-must-answer)
+    ### [How closed-loop referrals help retain program participants](https://www.everyaction.com/blog/closed-loop-referrals-retain-program-participants)
     
-    * Fundraising ideas
+    * Coordinating social services
     * Nonprofits
-    * Guided Fundraising
+    * Public agencies
+    * Case Management
+    * Healthcare
+    * Human services
+    
+* ![Four nonprofit staff members sit around an office table and discuss how to increase transparency with charity watchdogs.](/sites/default/files/styles/card_image_short/public/2023-05/charity-watchdogs_feature.jpg?h=9dd951d5&itok=VajBaUBw)
+    
+    ### [Charity watchdogs: Increase your nonprofit’s transparency](https://www.everyaction.com/blog/charity-watchdogs)
+    
+    * Digital communications & marketing
+    * Nonprofits
+    * Donor Engagement
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
