@@ -178,9 +178,7 @@ We generally retain personal data for so long as it may be relevant to the purpo
 
 Built In, Inc.
 
-203 N LaSalle St Suite 2200
-
-Chicago, Illinois 60601
+222 W Merchandise Mart Plaza, Ste. 2010, Chicago, IL 60654
 
 Email: [\[email protected\]](https://builtin.com/cdn-cgi/l/email-protection)
 
