@@ -4,6 +4,8 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
+Support availability is limited due to extreme weather conditions in areas where representatives are located. We appreciate your understanding and patience.
+
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
@@ -341,7 +343,7 @@ However, if you register for an event as a Consumer, we will process your Person
 
 17\. RESIDENTS OF CERTAIN STATES
 
-If you are a resident of a state that has implemented a law that provides you with additional rights regarding your personal data including California, Virginia, Colorado, Connecticut, Utah or Nevada, we provide additional information about our information practices and you may have certain rights with respect to your information. For more information, please see the State-Specific Supplemental Privacy Notices [here](https://www.eventbrite.com/help/en-us/articles/212596/supplemental-privacy-notice-for-california-residents/supplemental-privacy-notice-for-california-residents/).
+If you are a resident of a state that has implemented a law that provides you with additional rights regarding your personal data including California, Virginia, Colorado, Connecticut, Utah or Nevada, we provide additional information about our information practices and you may have certain rights with respect to your information. For more information, please see the State-Specific Supplemental Privacy Notices [here](https://www.eventbrite.com/help/en-us/articles/212596/supplemental-privacy-notice-for-california-residents/).
 
 18\. BRAZIL ONLY.
 
