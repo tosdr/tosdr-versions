@@ -192,11 +192,19 @@ It's Not News, It's Fark
 > 
 > We permit third-party entities to gather and utilize information acquired during your browsing sessions to present you with personalized ads.
 > 
-> We may supply our Targeted Advertising partners, including ID5, with a distinct user ID or data that could be employed to generate one. This enables them to gather or obtain information about your browser and device, such as browser type, language, settings, cookie data, device type, operating system, IP address, and ISP details. This allows partners to maintain the relevance of advertising and site/app content for users even if browser cookies are removed, for instance by recreating deleted cookies (provided you have not opted out).
+> We may supply our Targeted Advertising partners with a distinct user ID or data that could be employed to generate one. This enables them to gather or obtain information about your browser and device, such as browser type, language, settings, cookie data, device type, operating system, IP address, and ISP details. This allows partners to maintain the relevance of advertising and site/app content for users even if browser cookies are removed, for instance by recreating deleted cookies (provided you have not opted out).
 > 
-> Be aware that ID5 may also utilize your user ID and/or online activity data (such as observed browsing history) to offer, maintain, and enhance their services and products. This encompasses research and development efforts (e.g., implementing machine learning to optimize the effectiveness of their products and services) and examining, safeguarding against, and discouraging malicious behavior (such as fraudulent traffic). For additional information, kindly refer to ID5's privacy notice here: [https://id5.io/platform-privacy-policy/#how-do-we-use-the-information-we-collect](https://id5.io/platform-privacy-policy/#how-do-we-use-the-information-we-collect)
+> Be aware that these companies may also utilize your user ID and/or online activity data (such as observed browsing history) to offer, maintain, and enhance their services and products. This encompasses research and development efforts (e.g., implementing machine learning to optimize the effectiveness of their products and services) and examining, safeguarding against, and discouraging malicious behavior (such as fraudulent traffic).
 > 
-> To revoke your consent for these cookies or to opt out of their services directly, please visit [https://id5-sync.com/privacy/optout](https://id5-sync.com/privacy/optout).
+> For additional information on ID5, kindly refer to ID5's privacy notice here: [https://id5.io/platform-privacy-policy/#how-do-we-use-the-information-we-collect](https://id5.io/platform-privacy-policy/#how-do-we-use-the-information-we-collect)
+> 
+> To revoke your consent for ID5 cookies or to opt out of their services directly, please visit [https://id5-sync.com/privacy/optout](https://id5-sync.com/privacy/optout).
+> 
+> For additional information in UID2, kindly refer to [https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0).
+> 
+> To revoke your consent for UID2, please visit [https://www.transparentadvertising.com](https://www.transparentadvertising.com/).
+> 
+>   
 > 
 > **Audience Analytics**
 > 
@@ -220,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-$10 a month since 19 aught diddly.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -324,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Flaming Gorge a gorge aflame](https://www.fark.com/goto/13331490) ( [ksltv.com](https://www.fark.com/goto/13331490) ) » [(6 comments)](https://www.fark.com/comments/13331490/Flaming-Gorge-a-gorge-aflame) |
-| [Discussion](https://www.fark.com/discussion/) | [Six best strategies for coping with jet lag. Apparently, there are more strategies than just drinking coffee](https://www.fark.com/goto/13331220) ( [time.com](https://www.fark.com/goto/13331220) ) » [(8 comments)](https://www.fark.com/comments/13331220/Six-best-strategies-for-coping-with-jet-lag-Apparently-there-are-more-strategies-than-just-drinking-coffee) |
-| [Sports](https://www.fark.com/sports/) | [Dan Campbell's face is now a work of art. Unlikely tag shrugs](https://www.fark.com/goto/13331186) ( [detroitnews.com](https://www.fark.com/goto/13331186) ) » [(0 comments)](https://www.fark.com/comments/13331186/Dan-Campbells-face-is-now-a-work-of-art-Unlikely-tag-shrugs) |
-| [Business](https://www.fark.com/business/) | [Spotify CEO says consumers are asking them for a more expensive premium tier. They didn't even think of it. Consumers are just begging them to take their money](https://www.fark.com/goto/13331424) ( [finance.yahoo.com](https://www.fark.com/goto/13331424) ) » [(7 comments)](https://www.fark.com/comments/13331424/Spotify-CEO-says-consumers-are-asking-them-for-a-more-expensive-premium-tier-They-didnt-even-think-of-it-Consumers-are-just-begging-them-to-take-their-money) |
-| [STEM](https://www.fark.com/stem/) | [Carbon fiber to asbestos "hold my beer"](https://www.fark.com/goto/13331584) ( [hackaday.com](https://www.fark.com/goto/13331584) ) » [(3 comments)](https://www.fark.com/comments/13331584/Carbon-fiber-to-asbestos-hold-my-beer) |
-| [Entertainment](https://www.fark.com/entertainment/) | [All those waffle parties make Severance one of the most expensive shows ever made](https://www.fark.com/goto/13331454) ( [uproxx.com](https://www.fark.com/goto/13331454) ) » [(6 comments)](https://www.fark.com/comments/13331454/All-those-waffle-parties-make-Severance-one-of-most-expensive-shows-ever-made) |
-| [Fandom](https://www.fark.com/fandom/) | [Monty Python and the Magic Grail](https://www.fark.com/goto/13331428) ( [ign.com](https://www.fark.com/goto/13331428) ) » [(2 comments)](https://www.fark.com/comments/13331428/Monty-Python-the-Magic-Grail) |
-| [D'awww](https://www.fark.com/dawww/) | [A STEM / D'awww crossover - a 3d-printed puzzle for cats](https://www.fark.com/goto/13331206) ( [youtube.com](https://www.fark.com/goto/13331206) ) » [(5 comments)](https://www.fark.com/comments/13331206/A-STEM-Dawww-crossover-a-3d-printed-puzzle-for-cats) |
-| [Food](https://www.fark.com/food/) | [Four restaurant critics discuss balancing dream job with nightmare of becoming unhealthy blob a la Pete Wells](https://www.fark.com/goto/13331364) ( [theguardian.com](https://www.fark.com/goto/13331364) ) » [(0 comments)](https://www.fark.com/comments/13331364/Four-restaurant-critics-discuss-balancing-dream-job-with-nightmare-of-becoming-unhealthy-blob-a-la-Pete-Wells) |
-| [Politics](https://www.fark.com/politics/) | [It would simply be hateful and divisive if the Left mentioned all the times back in 2016 that JV Dunce said he believed Trump was guilty of sexual assault](https://www.fark.com/goto/13331294) ( [cnn.com](https://www.fark.com/goto/13331294) ) » [(12 comments)](https://www.fark.com/comments/13331294/It-would-simply-be-hateful-divisive-if-Left-mentioned-all-times-back-in-2016-that-JV-Dunce-said-he-believed-Trump-was-guilty-of-sexual-assault) |
+| [Main](https://www.fark.com/) | [Young couple drown after being swept out to sea. Fark: while taking a selfie at a place called "death rocks"](https://www.fark.com/goto/13335412) ( [nypost.com](https://www.fark.com/goto/13335412) ) » [(13 comments)](https://www.fark.com/comments/13335412/Young-couple-drown-after-being-swept-out-to-sea-Fark-while-taking-a-selfie-at-a-place-called-death-rocks) |
+| [Discussion](https://www.fark.com/discussion/) | ["My roommate is sleeping with my ex. I don't like that. What can I do to break them up?" (possible nsfw content on page)](https://www.fark.com/goto/13335546) ( [thesun.co.uk](https://www.fark.com/goto/13335546) ) » [(7 comments)](https://www.fark.com/comments/13335546/My-roommate-is-sleeping-with-my-ex-I-dont-like-that-What-can-I-do-to-break-them-up-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [30 greatest one-time sports in Summer Olympics history. Seems like the organizers of the 1900 Paris Olympics just said, "f\*ck it, let's include all the sports"](https://www.fark.com/goto/13335372) ( [fansided.com](https://www.fark.com/goto/13335372) ) » [(1 comment)](https://www.fark.com/comments/13335372/-30-greatest-one-time-sports-in-Summer-Olympics-history-Seems-like-organizers-of-1900-Paris-Olympics-just-said-fck-it-lets-include-all-sports) |
+| [Business](https://www.fark.com/business/) | [Tiny violin time again: World's 10 richest lose $100 billion in a day](https://www.fark.com/goto/13335088) ( [9news.com.au](https://www.fark.com/goto/13335088) ) » [(2 comments)](https://www.fark.com/comments/13335088/Tiny-violin-time-again-Worlds-10-richest-lose-$100-billion-in-a-day) |
+| [STEM](https://www.fark.com/stem/) | [Evidence mounts that shingles vaccines protect against dementia, and also, dementia](https://www.fark.com/goto/13335276) ( [newscientist.com](https://www.fark.com/goto/13335276) ) » [(9 comments)](https://www.fark.com/comments/13335276/Evidence-mounts-that-shingles-vaccines-protect-against-dementia-also-dementia) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Subdued whoo hoo](https://www.fark.com/goto/13335466) ( [nme.com](https://www.fark.com/goto/13335466) ) » [(0 comments)](https://www.fark.com/comments/13335466/Subdued-whoo-hoo) |
+| [Fandom](https://www.fark.com/fandom/) | [Hey, we found someone who hates Deadpool](https://www.fark.com/goto/13335532) ( [theguardian.com](https://www.fark.com/goto/13335532) ) » [(6 comments)](https://www.fark.com/comments/13335532/Hey-we-found-someone-who-hates-Deadpool) |
+| [D'awww](https://www.fark.com/dawww/) | [In remembrance of the "Titanic of the Pacific", a new Juneau statue of the mythical sole survivor sits watch](https://www.fark.com/goto/13335294) ( [alaskapublic.org](https://www.fark.com/goto/13335294) ) » [(4 comments)](https://www.fark.com/comments/13335294/In-remembrance-of-Titanic-of-Pacific-a-new-Juneau-statue-of-mythical-sole-survivor-sits-watch) |
+| [Food](https://www.fark.com/food/) | [Chipotle: We're listening...and by listening, we mean panicking](https://www.fark.com/goto/13335470) ( [retailwire.com](https://www.fark.com/goto/13335470) ) » [(7 comments)](https://www.fark.com/comments/13335470/Chipotle-Were-listeningand-by-listening-we-mean-panicking) |
+| [Politics](https://www.fark.com/politics/) | [That time JD Vance searched for interspecies dolphin sex, and then admitted it on Twitter](https://www.fark.com/goto/13335512) ( [rawstory.com](https://www.fark.com/goto/13335512) ) » [(20 comments)](https://www.fark.com/comments/13335512/That-time-JD-Vance-searched-for-interspecies-dolphin-sex-then-admitted-it-on-Twitter) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -343,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 23 2024 14:42:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 26 2024 13:42:11  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
