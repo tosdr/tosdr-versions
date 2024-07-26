@@ -1,4 +1,4 @@
-[![clipr logo](https://uploads-ssl.webflow.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)](https://www.clipr.co/)
+[![clipr logo](https://cdn.prod.website-files.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)](https://www.clipr.co/)
 
 [Login](https://app.clipr.co/)
 
@@ -220,7 +220,7 @@ The foregoing limitation of liability shall apply to the fullest extent permitte
 
 18.10 Contact: Please contact us at contact@clipr.co with any questions regarding this Agreement or the Terms.  
 
-![](https://uploads-ssl.webflow.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)
+![](https://cdn.prod.website-files.com/5efa5c411553a178e49b14a5/5efa5fc875331b574d3c5b53_logo-clipr%403x.png)
 
 [](#)[](#)
 
