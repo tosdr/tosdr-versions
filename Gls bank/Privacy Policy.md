@@ -13,7 +13,7 @@
         * [Zurück zu Nachhaltig](#)
         * [Wirkung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ "Wirkung")
         * [Bildung und Kultur](https://www.gls.de/privatkunden/nachhaltig/wirkung/bildung-und-kultur/)
-        * [Ernaehrung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ernaehrung/)
+        * [Ernährung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ernaehrung/)
         * [Erneuerbare Energien](https://www.gls.de/privatkunden/nachhaltig/wirkung/erneuerbare-energien/)
         * [Nachhaltige Wirtschaft](https://www.gls.de/privatkunden/nachhaltig/wirkung/nachhaltige-wirtschaft/)
         * [Soziales und Gesundheit](https://www.gls.de/privatkunden/nachhaltig/wirkung/soziales-und-gesundheit/)
@@ -223,7 +223,7 @@ Beste Ergebnisse Angebote Fragen & Antworten Formulare & Infocenter Aktuelles Te
 Die Datenschutzerklärung der GLS Gemeinschaftsbank eG
 =====================================================
 
-Die GLS Bank erbringt  für Sie Dienstleistungen im Bankbereich, bei denen Sie die Gewissheit haben, dass Ihr Geld positiv und nachhaltig wirkt. Unsere zukunftsweisende Bankarbeit nützt den Menschen, der Umwelt und hat auch ökonomischen Gewinn zur Folge. Dafür arbeiten wir mit Ihren Daten: um Ihre Aufträge zu erledigen, um Ihre Bedürfnisse kennenzulernen und einschätzen zu können und um die uns zur Verfügung gestellten Mittel möglichst effizient einzusetzen. Zudem möchten wir im Netz besser gefunden werden, um dem nachhaltigen Bankgeschäft mehr gesellschaftliche Wirkung zu verschaffen.
+Die GLS Bank erbringt für Sie Dienstleistungen im Bankbereich, bei denen Sie die Gewissheit haben, dass Ihr Geld positiv und nachhaltig wirkt. Unsere zukunftsweisende Bankarbeit nützt den Menschen, der Umwelt und hat auch ökonomischen Gewinn zur Folge. Dafür arbeiten wir mit Ihren Daten: um Ihre Aufträge zu erledigen, um Ihre Bedürfnisse kennenzulernen und einschätzen zu können und um die uns zur Verfügung gestellten Mittel möglichst effizient einzusetzen. Zudem möchten wir im Netz besser gefunden werden, um dem nachhaltigen Bankgeschäft mehr gesellschaftliche Wirkung zu verschaffen.
 
 Wir sind so transparent wie möglich – auch im bewussten und vertraulichen Umgang mit Ihren Daten. Ihre personenbezogenen Informationen geben wir nicht unberechtigt an Dritte weiter, selbstverständlich werden wir diese auch nicht verkaufen. Im Folgenden erfahren Sie, wie wir die Daten, die wir von Ihnen als Besucher\*in unserer Onlinemedien erheben, verarbeiten und welche Rechte Sie aus dem Datenschutzrecht haben.  
   
@@ -297,7 +297,7 @@ Unter Kampagnendaten wird zusammengefasst, mit welchem Werbemittel (z. B. ein On
 **Re-Targeting/Re-Marketing**  
 Wir wollen viele Menschen von der Idee und den Angeboten der GLS Bank berichten und ihnen vermitteln, wie wir gesellschaftlich wirken. Unser Ansatz ist es, mit möglichst effizient eingeschalteten Werbemedien auf uns aufmerksam zu machen.
 
-Um dies zu erreichen, nutzen wir die Re-Targeting-Technologien. Das Setzen eines Cookies ermöglicht es uns, unser Onlineangebot für Kund\*innen und Menschen, die Interesse an der GLS Bank haben, interessanter zu gestalten. Anhand der Daten werden auf diversen Medienseiten interessenbezogene Werbeeinblendungen zu unserem Angebot gezeigt.  
+Um dies zu erreichen, nutzen wir die Re-Targeting-Technologien. Das Setzen eines Cookies ermöglicht es uns, unser Onlineangebot für Kund\*innen und Menschen, die Interesse an der GLS Bank haben, interessanter zu gestalten. Anhand der Daten werden auf diversen Medienseiten interessenbezogene Werbeeinblendungen zu unserem Angebot gezeigt. 
 
 Es werden keine unmittelbar personenbezogenen Daten gespeichert. Es werden auch keine Nutzungsprofile mit personenbezogenen Daten zu Ihnen zusammengeführt. Dies geschieht vollkommen anonym.
 
@@ -339,7 +339,7 @@ Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, n
 **Beschwerde bei Aufsichtsbehörde (nach** **Art. 77 DSGVO**)  
 Entsprechend den gesetzlichen Vorgaben und unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs, haben Sie ferner das Recht, bei einer Datenschutzaufsichtsbehörde, insbesondere einer Aufsichtsbehörde im Mitgliedstaat, in dem Sie sich gewöhnlich aufhalten, der Aufsichtsbehörde Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, eine Beschwerde einzulegen, wenn Sie der Ansicht sei sollten, dass die Verarbeitung der Ihre Person betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
 
-Zuständige Datenschutzaufsichtsbehörde für die GLS BAnk ist die Landesbeauftragte für Datenschutz und Informationsfreiheit, Düsseldorf.
+Zuständige Datenschutzaufsichtsbehörde für die GLS Bank ist die Landesbeauftragte für Datenschutz und Informationsfreiheit, Düsseldorf.
 
 **Widerrufsrecht bei Einwilligungen (nach Artikel 7 DSGVO)**  
 Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
@@ -443,7 +443,11 @@ IP-Masking (Pseudonymisierung der IP-Adresse)
 Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO)
 
 **Widerspruchsmöglichkeit (Opt-Out)**  
-Wir verweisen auf die Datenschutzhinweise der jeweiligen Anbieter und die zu den Anbietern angegebenen Widerspruchsmöglichkeiten (sog. "Opt-Out"). Sofern keine explizite Opt-Out-Möglichkeit angegeben wurde, besteht zum einen die Möglichkeit, dass Sie Cookies in den Einstellungen Ihres Browsers abschalten. Hierdurch können jedoch Funktionen unseres Onlineangebotes eingeschränkt werden. Wir empfehlen daher zusätzlich die folgenden Opt-Out-Möglichkeiten, die zusammenfassend auf jeweilige Gebiete gerichtet angeboten werden: a) Europa: [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)  b) Kanada: [https://www.youradchoices.ca/choices](https://www.youradchoices.ca/choices)  c)USA: [https://www.aboutads.info/choices](https://www.aboutads.info/choices) d) Gebietsübergreifend: [https://optout.aboutads.info](https://optout.aboutads.info/) 
+Wir verweisen auf die Datenschutzhinweise der jeweiligen Anbieter und die zu den Anbietern angegebenen Widerspruchsmöglichkeiten (sog. "Opt-Out"). Sofern keine explizite Opt-Out-Möglichkeit angegeben wurde, besteht zum einen die Möglichkeit, dass Sie Cookies in den Einstellungen Ihres Browsers abschalten. Hierdurch können jedoch Funktionen unseres Onlineangebotes eingeschränkt werden. Wir empfehlen daher zusätzlich die folgenden Opt-Out-Möglichkeiten, die zusammenfassend auf jeweilige Gebiete gerichtet angeboten werden:  
+a) Europa: [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)  
+b) Kanada: [https://www.youradchoices.ca/choices](https://www.youradchoices.ca/choices)  
+c) USA: [https://www.aboutads.info/choices](https://www.aboutads.info/choices)   
+d) Gebietsübergreifend: [https://optout.aboutads.info](https://optout.aboutads.info/) 
 
 **Google Ads**  
 Wir verwenden Google Ads. Google Ads ist ein Online-Werbeprogramm der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.  
@@ -501,7 +505,7 @@ Verarbeitungsprozessen auf.
 [Welche Cookies werden eingesetzt?](#q4054040537)
 
 **Cookies zur Auswertung**  
-Für die statistischen Auswertungen – u. a. Browser, Betriebssystem, Uhrzeit, Herkunftsseite – nutzen wir die Web-Analyse Software Matomo (vormals Piwik).    
+Für die statistischen Auswertungen – u. a. Browser, Betriebssystem, Uhrzeit, Herkunftsseite – nutzen wir die Web-Analyse Software Matomo.    
 Cookies werden außerdem eingesetzt, um pseudonymisierte Nutzerprofile von Ihnen als Besucher\*in zu erstellen. Die Cookies ermöglichen die Wiedererkennung eines Internet-Browsers.
 
 Bei Aktivierung des Cookies wird diesem eine Identifikationsnummer zugewiesen, eine Zuordnung Ihrer personenbezogenen Daten zu dieser Identifikationsnummer wird nicht vorgenommen. Ihr Name, Ihre IP-Adresse oder ähnliche Daten, die eine Zuordnung des Cookies zu Ihnen ermöglichen würde, sind nicht in den Cookie enthalten.
@@ -779,10 +783,10 @@ Newsletter, eBankspiegel, Veranstaltungen, Kontoeröffnung etc
 
 Abonnieren Sie unseren Newsletter, speichern wir Ihre E-Mail-Adresse und weitere Angaben wie z. B. Themenschwerpunkte, die Sie uns für die Bearbeitung Ihrer Newsletter-Bestellung gegeben haben.
 
-Wenn Sie sich bei uns mit dem **Double opt-in** Verfahren zum Newsletter anmelden, wird die IP-Adresse gespeichert. Das dient als Nachweis dafür, dass genau von dieser Adresse aus die Anmeldung erfolgt ist. Senden Sie die Bestätigung Ihrer Newsletter-Bestellung an uns zurück, wird die IP-Adresse abgeglichen. So ist sicher gestellt, dass niemand in Ihrem Namen den Newsletter für Sie bestellen kann.
+Wenn Sie sich bei uns mit dem **Double opt-in** Verfahren zum Newsletter anmelden, wird die IP-Adresse gespeichert. Das dient als Nachweis dafür, dass genau von dieser Adresse aus die Anmeldung erfolgt ist. Senden Sie die Bestätigung Ihrer Newsletter-Bestellung an uns zurück, wird die IP-Adresse abgeglichen. So ist sichergestellt, dass niemand in Ihrem Namen den Newsletter für Sie bestellen kann.
 
 **Messung von Öffnungs- und Klickraten**  
-Die Newsletter enthalten einen sogenannte "web-beacon“, d.h., eine pixelgroße Datei, die beim Öffnen des Newsletters von unserem Server, bzw., sofern wir einen Versanddienstleister einsetzen, von dessen Server abgerufen wird. Im Rahmen dieses Abrufs werden zunächst technische Informationen, wie Informationen zum Browser und Ihrem System, als auch Ihre IP-Adresse und der Zeitpunkt des Abrufs, erhoben. Diese Informationen werden zur technischen Verbesserung unseres Newsletters anhand der technischen Daten oder der Zielgruppen und ihres Leseverhaltens auf Basis ihrer Abruforte (die mit Hilfe der IP-Adresse bestimmbar sind) oder der Zugriffszeiten genutzt. Diese Analyse beinhaltet ebenfalls die  Feststellung, ob die Newsletter geöffnet werden, wann sie geöffnet werden und welche Links geklickt werden. Diese Informationen werden den einzelnen Newsletterempfängern zugeordnet und in deren Profilen bis zu deren Löschung gespeichert. Die Auswertungen dienen uns dazu, die Lesegewohnheiten unserer Nutzer zu erkennen und unsere Inhalte an sie anzupassen oder unterschiedliche Inhalte entsprechend den Interessen unserer Nutzer zu versenden. Die Messung der Öffnungsraten und der Klickraten sowie Speicherung der Messergebnisse in den Profilen der Nutzer sowie deren weitere Verarbeitung erfolgen auf Grundlage einer Einwilligung der Nutzer. Ein getrennter Widerruf der Erfolgsmessung ist leider nicht möglich, in diesem Fall muss das gesamte Newsletterabonnement gekündigt, bzw. muss ihm widersprochen werden. In diesem Fall werden die gespeicherten Profilinformationen gelöscht.
+Die Newsletter enthalten einen sogenannte "web-beacon“, d.h., eine pixelgroße Datei, die beim Öffnen des Newsletters von unserem Server, bzw., sofern wir einen Versanddienstleister einsetzen, von dessen Server abgerufen wird. Im Rahmen dieses Abrufs werden zunächst technische Informationen, wie Informationen zum Browser und Ihrem System, als auch Ihre IP-Adresse und der Zeitpunkt des Abrufs, erhoben. Diese Informationen werden zur technischen Verbesserung unseres Newsletters anhand der technischen Daten oder der Zielgruppen und ihres Leseverhaltens auf Basis ihrer Abruforte (die mit Hilfe der IP-Adresse bestimmbar sind) oder der Zugriffszeiten genutzt. Diese Analyse beinhaltet ebenfalls die  Feststellung, ob die Newsletter geöffnet werden, wann sie geöffnet werden und welche Links geklickt werden. Diese Informationen werden den einzelnen Newsletterempfängern zugeordnet und in deren Profilen bis zu deren Löschung gespeichert. Die Auswertungen dienen uns dazu, die Lesegewohnheiten unserer Nutzer zu erkennen und unsere Inhalte an sie anzupassen oder unterschiedliche Inhalte entsprechend den Interessen unserer Nutzer\*innen zu versenden. Die Messung der Öffnungsraten und der Klickraten sowie Speicherung der Messergebnisse in den Profilen der Nutzer\*innen sowie deren weitere Verarbeitung erfolgen auf Grundlage einer Einwilligung der Nutzer\*innen. Ein getrennter Widerruf der Erfolgsmessung ist leider nicht möglich, in diesem Fall muss das gesamte Newsletterabonnement gekündigt, bzw. muss ihm widersprochen werden. In diesem Fall werden die gespeicherten Profilinformationen gelöscht.
 
 **Widerspruchsmöglichkeit (Opt-Out)**  
 Sie können den Empfang unseres Newsletters jederzeit kündigen, d.h. Ihre Einwilligungen widerrufen, bzw. dem weiteren Empfang widersprechen. Einen Link zur Kündigung des Newsletters finden Sie am Ende eines jeden Newsletters.
@@ -790,7 +794,7 @@ Sie können den Empfang unseres Newsletters jederzeit kündigen, d.h. Ihre Einw
 **CleverReach**  
 Der Versand des GLS Bank Newsletter erfolgt mittels des Versanddienstleisters CleverReach GmbH & Co. KG, //CRASH Building, Schafjückenweg 2, 26180 Rastede, Deutschland. Die Datenschutzerklärung des Versanddienstleisters können Sie hier einsehen: [https://www.cleverreach.com/de/datenschutz/](https://www.cleverreach.com/de/datenschutz/). Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO und eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 S. 1 DSGVO eingesetzt.
 
-Der Versanddienstleister kann die Daten der Empfänger\*innen nur in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.
+Der Versanddienstleister kann die Daten der Empfänger\*innen nur in pseudonymer Form, d.h. ohne Zuordnung zu einzelnen Personen, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.
 
 [GLS eBankspiegel](#q4051540506)
 
@@ -932,7 +936,7 @@ Weitere Informationen finden Sie in der IONOS-Datenschutzerklärung:
 
 [Angebote Dritter](#q4051540514)
 
-Das Internetangebot entspricht den in Deutschland gesetzlich geregelten Datenschutzvorgaben.
+Unser Internetangebot entspricht den in Deutschland gesetzlich geregelten Datenschutzvorgaben.
 
 Sollten aus unserem Angebot über Verweise (Hyperlinks) Angebote Dritter erreichbar sein, so betrifft dieser Hinweis diese verlinkten Angebote nicht.
 
@@ -947,7 +951,7 @@ Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke, um mit unseren K
 
 In diesem Rahmen verarbeiten wir Daten der Nutzer\*innen, um mit den dort aktiven Nutzer\*innen zu kommunizieren oder um Informationen über uns anzubieten. Wir weisen darauf hin, dass dabei Daten der Nutzer\*innen außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer\*innen Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer\*innen erschwert werden könnte.
 
-Ferner werden die Daten der Nutzer\*innen innerhalb sozialer Netzwerke im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können z.B. anhand des Nutzungsverhaltens und sich daraus ergebender Interessen der Nutzer\*innen Nutzungsprofile erstellt werden. Die Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Netzwerke zu schalten, die mutmaßlich den Interessen der Nutzer entsprechen. Zu diesen Zwecken werden im Regelfall Cookies auf den Rechnern der Nutzer\*innen gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer\*innen gespeichert werden. Ferner können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzer\*innen verwendeten Geräte gespeichert werden (insbesondere, wenn die Nutzer\*innen Mitglieder der jeweiligen Plattformen sind und bei diesen eingeloggt sind).
+Ferner werden die Daten der Nutzer\*innen innerhalb sozialer Netzwerke im Regelfall für Marktforschungs- und Werbezwecke verarbeitet. So können z.B. anhand des Nutzungsverhaltens und sich daraus ergebender Interessen der Nutzer\*innen Nutzungsprofile erstellt werden. Die Nutzungsprofile können wiederum verwendet werden, um z.B. Werbeanzeigen innerhalb und außerhalb der Netzwerke zu schalten, die mutmaßlich den Interessen der Nutzer\*innen entsprechen. Zu diesen Zwecken werden im Regelfall Cookies auf den Rechnern der Nutzer\*innen gespeichert, in denen das Nutzungsverhalten und die Interessen der Nutzer\*innen gespeichert werden. Ferner können in den Nutzungsprofilen auch Daten unabhängig der von den Nutzer\*innen verwendeten Geräte gespeichert werden (insbesondere, wenn die Nutzer\*innen Mitglieder der jeweiligen Plattformen sind und bei diesen eingeloggt sind).
 
 Für eine detaillierte Darstellung der jeweiligen Verarbeitungsformen und der Widerspruchsmöglichkeiten (Opt-Out) verweisen wir auf die Datenschutzerklärungen und Angaben der Betreiber der jeweiligen Netzwerke. 
 
