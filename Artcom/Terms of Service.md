@@ -291,7 +291,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/527/static/img/logo.svg)
+![Logo](/mobify/bundle/539/static/img/logo.svg)
 
 World's largest selection of art
 
