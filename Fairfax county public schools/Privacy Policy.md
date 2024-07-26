@@ -1010,7 +1010,7 @@ Full Menu
 
 ![](https://openweathermap.org/img/wn/04d.png)
 
-86°F
+81°F
 
 Broken clouds
 
