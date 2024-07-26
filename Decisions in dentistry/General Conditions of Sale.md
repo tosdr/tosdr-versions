@@ -137,6 +137,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art welcomes dental attorney Jason Wood to discuss crucial legal considerations for practices thinking about selling to a Dental Service Organization (DSO). They cover who should (and shouldn’t) consider selling, common mistakes and how to avoid them, and essential pre-sale factors to ensure a smooth and profitable transition. Tune in for helpful advice on navigating the DSO partnership process and making informed decisions for your practice. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C92ZQW6TGtt/) 
+
 [Explore how short dental implants can address sign ![Explore how short dental implants can address significant anatomical challenges, reduce the need for complex surgeries, and improve long-term outcomes for patients. Link in bio.⁠
 ⁠
 ⁠
@@ -174,13 +181,6 @@ Strategies for evaluating current trends in periodontal therapy to ensure patien
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9cpVgCtQuM/) 
-
-[A dentist’s adherence to safety protocols sparks ![A dentist’s adherence to safety protocols sparks a legal challenge from an indignant teen. Despite the young man’s claims, the dentist prioritizes public health and infection control. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9aEfngT_OL/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
