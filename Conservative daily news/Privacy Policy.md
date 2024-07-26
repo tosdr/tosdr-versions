@@ -1,15 +1,15 @@
-Tuesday, July 23 2024
+Friday, July 26 2024
 
 Breaking News
 
-* [A Great Convention — With One Big Mistake](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
-* [California Is Awash In Misleading Data — And The Consequences Have Been Devastating](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
-* [Elon Musk Opens Up About Eldest Son Coming Out As Trans](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
-* [If You Thought Things Were Bad Under Biden, Just Wait](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
-* [MSNBC Legal Analyst Urges Media To Attack Trump And Take It Easy On Harris](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
-* [Biden Pentagon To Give Troops ‘Economic Hardship’ Bonus Of Only $20 Per Month](https://www.conservativedailynews.com/2024/07/biden-pentagon-to-give-troops-economic-hardship-bonus-of-only-20-per-month/)
-* [The “Best Biden ever” Forced Out Because He has Cognitive Dementia](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
-* [President Joe Biden’s Schedule for Monday, July 22, 2024](https://www.conservativedailynews.com/2024/07/president-joe-bidens-schedule-for-monday-july-22-2024/)
+* [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/)
+* [Broadband Companies Say Biden’s Massive Internet Program May Be Headed For Failure](https://www.conservativedailynews.com/2024/07/broadband-companies-say-bidens-massive-internet-program-may-be-headed-for-failure/)
+* [Russian And Chinese Bombers Jointly Intercepted Near US In A Rare First |](https://www.conservativedailynews.com/2024/07/russian-and-chinese-bombers-jointly-intercepted-near-us-in-a-rare-first/)
+* [Ex-CNN Analyst Says Dems Must Be Breathing ‘Gigantic Sigh Of Relief’ Biden Is Out After Watching Oval Office Address](https://www.conservativedailynews.com/2024/07/ex-cnn-analyst-says-dems-must-be-breathing-gigantic-sigh-of-relief-biden-is-out-after-watching-oval-office-address/)
+* [White House Press Briefing with Karine Jean-Pierre – 7/25/24](https://www.conservativedailynews.com/2024/07/white-house-press-briefing-with-karine-jean-pierre-7-25-24/)
+* [Kamala Begins Her Campaign And It Will Be Ugly](https://www.conservativedailynews.com/2024/07/kamala-begins-her-campaign-and-it-will-be-ugly/)
+* [CNN Reporter Asks KJP Why She Appeared On ‘The View’ Before Addressing The Press After Biden Exited Race](https://www.conservativedailynews.com/2024/07/cnn-reporter-asks-kjp-why-she-appeared-on-the-view-before-addressing-the-press-after-biden-exited-race/)
+* [CNN’s Harry Enten Dumps Cold Water On Kamala Harris Winning Back Young Voters](https://www.conservativedailynews.com/2024/07/cnns-harry-enten-dumps-cold-water-on-kamala-harris-winning-back-young-voters/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -105,82 +105,80 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/Kamala-Harris-cover-up-of-Biden-mental-decline-ad-220x150.jpg)](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/mrz081323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/)
     
-    [The “Best Biden ever” Forced Out Because He has Cognitive Dementia](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
+    [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/)
     
-    July 22, 2024
+    July 25, 2024
     
-* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/biden-drops-out-kamala-gets-top-billing-prepare-for-unity/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/07/kamala-harris-may-only-be-one-election-away-from-president-but-she-has-an-achilles-heel/)
     
-    [Biden Drops Out, Kamala Gets Top Billing – Prepare for Unity?](https://www.conservativedailynews.com/2024/07/biden-drops-out-kamala-gets-top-billing-prepare-for-unity/)
+    [Kamala Harris May Only Be One Election Away From President, But She Has An Achilles Heel](https://www.conservativedailynews.com/2024/07/kamala-harris-may-only-be-one-election-away-from-president-but-she-has-an-achilles-heel/)
     
-    July 21, 2024
+    July 24, 2024
     
 
 Recent Posts
 
-* [![2024 Election Democrats saving democracy](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/saviors-of-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/mrz081323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/)
     
-    [Saviors of Democracy…](https://www.conservativedailynews.com/2024/07/saviors-of-democracy/)
+    [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/)
     
-    July 23, 2024
+    July 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Opioids.jpg)](https://www.conservativedailynews.com/2024/07/a-quick-easy-legit-way-to-cut-prescription-drug-costs/)
+* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/07/broadband-companies-say-bidens-massive-internet-program-may-be-headed-for-failure/)
     
-    [A Quick, Easy, Legit Way to Cut Prescription Drug Costs](https://www.conservativedailynews.com/2024/07/a-quick-easy-legit-way-to-cut-prescription-drug-costs/)
+    [Broadband Companies Say Biden’s Massive Internet Program May Be Headed For Failure](https://www.conservativedailynews.com/2024/07/broadband-companies-say-bidens-massive-internet-program-may-be-headed-for-failure/)
     
-    July 23, 2024
+    July 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
+* [![US Canadian fighters intercept Russian and Chinese bombers Alaska](https://www.conservativedailynews.com/wp-content/uploads/2024/07/US-Canadian-fighters-intercept-Russian-and-Chinese-bombers-Alaska-220x150.jpg)](https://www.conservativedailynews.com/2024/07/russian-and-chinese-bombers-jointly-intercepted-near-us-in-a-rare-first/)
     
-    [A Great Convention — With One Big Mistake](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
+    [Russian And Chinese Bombers Jointly Intercepted Near US In A Rare First |](https://www.conservativedailynews.com/2024/07/russian-and-chinese-bombers-jointly-intercepted-near-us-in-a-rare-first/)
     
-    July 23, 2024
+    July 25, 2024
     
-* [![Election 2024 Joe Biden drops out Democrats](https://www.conservativedailynews.com/wp-content/uploads/2024/07/mrz072324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/frozen/)
+* [![Joe Biden Kamala Harris 2024 election bailing out](https://www.conservativedailynews.com/wp-content/uploads/2024/07/gv072224dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/07/ex-cnn-analyst-says-dems-must-be-breathing-gigantic-sigh-of-relief-biden-is-out-after-watching-oval-office-address/)
     
-    [Frozen](https://www.conservativedailynews.com/2024/07/frozen/)
+    [Ex-CNN Analyst Says Dems Must Be Breathing ‘Gigantic Sigh Of Relief’ Biden Is Out After Watching Oval Office Address](https://www.conservativedailynews.com/2024/07/ex-cnn-analyst-says-dems-must-be-breathing-gigantic-sigh-of-relief-biden-is-out-after-watching-oval-office-address/)
     
-    July 23, 2024
+    July 25, 2024
     
-* [![California bear leaving](https://www.conservativedailynews.com/wp-content/uploads/2024/01/mrz010624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
+* [White House Press Briefing with Karine Jean-Pierre – 7/25/24](https://www.conservativedailynews.com/2024/07/white-house-press-briefing-with-karine-jean-pierre-7-25-24/)
     
-    [California Is Awash In Misleading Data — And The Consequences Have Been Devastating](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
+    July 25, 2024
     
-    July 23, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5259-220x150.jpeg)](https://www.conservativedailynews.com/2024/07/kamala-begins-her-campaign-and-it-will-be-ugly/)
     
-* [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
+    [Kamala Begins Her Campaign And It Will Be Ugly](https://www.conservativedailynews.com/2024/07/kamala-begins-her-campaign-and-it-will-be-ugly/)
     
-    [Elon Musk Opens Up About Eldest Son Coming Out As Trans](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
+    July 25, 2024
     
-    July 22, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/07/cnn-reporter-asks-kjp-why-she-appeared-on-the-view-before-addressing-the-press-after-biden-exited-race/)
     
-* [![Kamala Harris blunder woman gaffes](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
+    [CNN Reporter Asks KJP Why She Appeared On ‘The View’ Before Addressing The Press After Biden Exited Race](https://www.conservativedailynews.com/2024/07/cnn-reporter-asks-kjp-why-she-appeared-on-the-view-before-addressing-the-press-after-biden-exited-race/)
     
-    [If You Thought Things Were Bad Under Biden, Just Wait](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
+    July 25, 2024
     
-    July 22, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/07/cnns-harry-enten-dumps-cold-water-on-kamala-harris-winning-back-young-voters/)
     
-* [![Joe Biden Kamala Harris 2024 election bailing out](https://www.conservativedailynews.com/wp-content/uploads/2024/07/gv072224dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
+    [CNN’s Harry Enten Dumps Cold Water On Kamala Harris Winning Back Young Voters](https://www.conservativedailynews.com/2024/07/cnns-harry-enten-dumps-cold-water-on-kamala-harris-winning-back-young-voters/)
     
-    [MSNBC Legal Analyst Urges Media To Attack Trump And Take It Easy On Harris](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
-    
-    July 22, 2024
+    July 25, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Match Ammo Bargain: 4140 Armory 5.56 mm NATO 75-Grain Hornady Match](https://www.thegunpage.com/match-ammo-bargain-4140-armory-5-56-mm-nato-75-grain-hornady-match/10609357)
-* [POTD: U.S. Marines With The FAMAS In Action](https://www.thegunpage.com/potd-u-s-marines-with-the-famas-in-action/10609355)
-* [The Rimfire Report: Plain Ole CCI Standard Velocity 40 Grain](https://www.thegunpage.com/the-rimfire-report-plain-ole-cci-standard-velocity-40-grain/10609356)
-* [Opening Ceremony Kicks Off 2024 NRA National Matches At Camp Atterbury](https://www.thegunpage.com/opening-ceremony-kicks-off-2024-nra-national-matches-at-camp-atterbury/10609354)
-* [National Rifle Association Files Lawsuit Challenging ATF’s “Engaged in the Business” Final Rule](https://www.thegunpage.com/national-rifle-association-files-lawsuit-challenging-atfs-engaged-in-the-business-final-rule/10609351)
-* [TFB Weekly Web Deals 98: Deals for July 22nd, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-98-deals-for-july-22nd-2024/10609349) 
-* [A Competitor’s Story: Sam Adkins](https://www.thegunpage.com/a-competitors-story-sam-adkins/10609348)
-* [U.S. Shotgun Team Captures Four Medals At ISSF Porpetto Junior World Cup](https://www.thegunpage.com/u-s-shotgun-team-captures-four-medals-at-issf-porpetto-junior-world-cup/10609345)
-* [SILENCER SATURDAY #338: Range Time With The HUXWRX FLOW 556 TI](https://www.thegunpage.com/silencer-saturday-338-range-time-with-the-huxwrx-flow-556-ti/10609334)
-* [POTD: The LMT M203 in Danish International Sniper Competition](https://www.thegunpage.com/potd-the-lmt-m203-in-danish-international-sniper-competition/10609327)
+* [A Young Eagle’s Perspective On South Africa](https://www.thegunpage.com/a-young-eagles-perspective-on-south-africa/10609468)
+* [POTD: Zenith Firearms – Suppressed ZF5](https://www.thegunpage.com/potd-zenith-firearms-suppressed-zf5/10609465)
+* [Concealed Carry Corner: How To Choose A Carry Gun](https://www.thegunpage.com/concealed-carry-corner-how-to-choose-a-carry-gun/10609466)
+* [GROWING AMERICA’S GUN CULTURE: An 8-Year-Old’s First Shots](https://www.thegunpage.com/growing-americas-gun-culture-an-8-year-olds-first-shots/10609459)
+* [Gun Review – Cimarron 1887 Terminator](https://www.thegunpage.com/gun-review-cimarron-1887-terminator/10609457)
+* [New Small-Bore Semi: Volquartsen Mini Scorpion-X Pistol](https://www.thegunpage.com/new-small-bore-semi-volquartsen-mini-scorpion-x-pistol/10609462)
+* [Canadian Gov't Will Require License To Buy Mags And Gun Barrels](https://www.thegunpage.com/canadian-govt-will-require-license-to-buy-mags-and-gun-barrels/10609461)
+* [Care About Your Gun Rights? Make Sure You Vote](https://www.thegunpage.com/care-about-your-gun-rights-make-sure-you-vote/10609454)
+* [Chicago Plans To Expand Its Legal Battle With Glock](https://www.thegunpage.com/chicago-plans-to-expand-its-legal-battle-with-glock/10609450)
+* [Upcoming U.S. Rifles Need “Big Iron” Computing To Back Them, But American Supercomputing Is Falling Behind](https://www.thegunpage.com/upcoming-u-s-rifles-need-big-iron-computing-to-back-them-but-american-supercomputing-is-falling-behind/10609449)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -222,6 +220,8 @@ Contact Us
 
 Recent Comments
 
+* Stan on [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/#comment-777626)
+* Stan on [Here Are Some Of Kamala Harris’ Greatest Legislative Hits](https://www.conservativedailynews.com/2024/07/here-are-some-of-kamala-harris-greatest-legislative-hits/#comment-777622)
 * KayCee on [Biden is Officially a Lame Duck President](https://www.conservativedailynews.com/2024/07/biden-is-officially-a-lame-duck-president/#comment-777497)
 * KayCee on [See Ya’: Bureaucrats Worry Behind Closed Doors They’ll Be Sent Packing Under Trump](https://www.conservativedailynews.com/2024/07/see-ya-bureaucrats-worry-behind-closed-doors-theyll-be-sent-packing-under-trump/#comment-777426)
 * [clm](http://conservativedailynews.com/) on [Republicans Backing Away From Most Important Issue Of Our Day](https://www.conservativedailynews.com/2024/07/republicans-backing-away-from-most-important-issue-of-our-day/#comment-777357)
@@ -229,8 +229,6 @@ Recent Comments
 * KayCee on [Here’s To Missing You](https://www.conservativedailynews.com/2024/07/heres-to-missing-you/#comment-777331)
 * KayCee on [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/#comment-777330)
 * [clm](http://conservativedailynews.com/) on [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/#comment-777284)
-* [clm](http://conservativedailynews.com/) on [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/#comment-777283)
-* Jeff L. on [The Democrat “News”-media Storyline that Trump is a Liar](https://www.conservativedailynews.com/2024/07/the-democrat-news-media-storyline-that-trump-is-a-liar/#comment-777157)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
