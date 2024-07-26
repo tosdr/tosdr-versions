@@ -1,6 +1,4 @@
-[![ApplyBoard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2020/09/ApplyBoard_Logo_Horizontal_Blue.svg)](https://www.applyboard.com/)
+[![ApplyBoard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2020/09/ApplyBoard_Logo_Horizontal_Blue.svg)](https://www.applyboard.com/)
 
 * [Students](https://www.applyboard.com/studyabroad)
 * [Recruitment Partners](https://www.applyboard.com/services/recruiters)
@@ -9,7 +7,7 @@
     * [Our Solutions](https://www.applyboard.com/our-solutions)
     * [Events](https://www.applyboard.com/resources/events)
     * [Knowledge Hub](https://www.applyboard.com/blog)
-    * [ApplyInsights](https://www.applyboard.com/category/applyinsights-article)
+    * [ApplyInsights](https://www.applyboard.com/applyinsights)
     * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
 * [Login](https://accounts.applyboard.com/)
 * [Register](https://www.applyboard.com/register)
@@ -23,7 +21,7 @@ Menu
     * [Our Solutions](https://www.applyboard.com/our-solutions)
     * [Events](https://www.applyboard.com/resources/events)
     * [Knowledge Hub](https://www.applyboard.com/blog)
-    * [ApplyInsights](https://www.applyboard.com/category/applyinsights-article)
+    * [ApplyInsights](https://www.applyboard.com/applyinsights)
     * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
 * [Login](https://accounts.applyboard.com/)
 * [Register](https://www.applyboard.com/register)
@@ -350,8 +348,6 @@ N2H 6R3
 
 P: +1 519 900 6001
 
-![Applyboard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201253%20192'%3E%3C/svg%3E)
-
 ![Applyboard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/Logo_Horizontal_White-2.png)
 
 101 Frederick St,  
@@ -427,9 +423,7 @@ Legal
 
 © 2024 ApplyBoard Inc
 
-[![Applyboard Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201253%20192'%3E%3C/svg%3E)
-
-![Applyboard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/Logo_Horizontal_White-2.png)](https://www.applyboard.com/)
+[![Applyboard Logo](https://didmdw8v48h5q.cloudfront.net/wp-content/uploads/2021/12/Logo_Horizontal_White-2.png)](https://www.applyboard.com/)
 
 [101 Frederick St,  
 Kitchener, ON N2H 6R3](https://goo.gl/maps/DeLXVUrCTVtXzKM57)
