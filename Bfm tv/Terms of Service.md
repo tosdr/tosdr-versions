@@ -582,15 +582,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![L'accès aux hôpitaux de Paris est difficile avec les périmètres de sécurité mis en place avant les JO.](https://images.bfmtv.com/EXOtv8ArlDaD9S5x4PJuJPhW2io=/0x0:1920x1080/300x0/images/L-acces-aux-hopitaux-de-Paris-est-difficile-avec-les-perimetres-de-securite-mis-en-place-avant-les-JO-1908242.jpg)
+1. [![Emmanuel Macron, le 24 juillet 2024](https://images.bfmtv.com/-k3uODp0QrMibT1-g_6o2j_OkUc=/0x0:1008x567/300x0/images/Emmanuel-Macron-1909514.jpg)
     
-    ![L'accès aux hôpitaux de Paris est difficile avec les périmètres de sécurité mis en place avant les JO.](https://images.bfmtv.com/EXOtv8ArlDaD9S5x4PJuJPhW2io=/0x0:1920x1080/300x0/images/L-acces-aux-hopitaux-de-Paris-est-difficile-avec-les-perimetres-de-securite-mis-en-place-avant-les-JO-1908242.jpg)
+    ![Emmanuel Macron, le 24 juillet 2024](https://images.bfmtv.com/-k3uODp0QrMibT1-g_6o2j_OkUc=/0x0:1008x567/300x0/images/Emmanuel-Macron-1909514.jpg)
     
-    ### "Il attend depuis 2h30": la galère des patients pour accéder aux hôpitaux parisiens en raison des JO](https://www.bfmtv.com/paris/il-attend-depuis-2h30-la-galere-des-patients-pour-acceder-aux-hopitaux-parisiens-en-raison-des-jo_AV-202407230134.html ""Il attend depuis 2h30": la galère des patients pour accéder aux hôpitaux parisiens en raison des JO")
-2. [### Kamala Harris face à Donald Trump: ce que dit le premier sondage réalisé après le retrait de Joe Biden](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/kamala-harris-face-a-donald-trump-ce-que-dit-le-premier-sondage-realise-apres-le-retrait-de-joe-biden_AN-202407230039.html "Kamala Harris face à Donald Trump: ce que dit le premier sondage réalisé après le retrait de Joe Biden")
-3. [### Après le retrait de Joe Biden, les démocrates peuvent-il encore gagner l'élection présidentielle américaine?](https://www.bfmtv.com/podcasts/washington-briefing/apres-le-retrait-de-joe-biden-les-democrates-peuvent-il-encore-gagner-l-election-presidentielle-americaine_EN-202407220687.html "Après le retrait de Joe Biden, les démocrates peuvent-il encore gagner l'élection présidentielle américaine?")
-4. [### 100% de voitures électriques en 2035: pourquoi les constructeurs automobiles tirent la sonnette d'alarme](https://www.bfmtv.com/auto/100-de-voitures-electriques-en-2035-pourquoi-les-constructeurs-automobiles-tirent-la-sonnette-d-alarme_AV-202407220523.html "100% de voitures électriques en 2035: pourquoi les constructeurs automobiles tirent la sonnette d'alarme")
-5. [### Le prix des fruits et légumes a baissé cette année](https://www.bfmtv.com/economie/le-prix-des-fruits-et-legumes-a-baisse-cette-annee_AD-202407230069.html "Le prix des fruits et légumes a baissé cette année")
+    ### SONDAGE BFMTV. Six Français sur 10 favorables à "une trêve politique" pendant les JO](https://rmcsport.bfmtv.com/jeux-olympiques/sondage-bfmtv-six-francais-sur-10-favorables-a-une-treve-politique-pendant-les-jo_AN-202407250073.html "SONDAGE BFMTV. Six Français sur 10 favorables à "une trêve politique" pendant les JO")
+2. [### JO 2024: Aya Nakamura, Philippe Katerine, Juliette Armanet... le casting des stars se précise pour la cérémonie d'ouverture](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-le-casting-des-stars-se-precise-pour-la-ceremonie-d-ouverture_AP-202407240775.html "JO 2024: Aya Nakamura, Philippe Katerine, Juliette Armanet... le casting des stars se précise pour la cérémonie d'ouverture")
+3. [### Airbnb: les propriétaires parisiens ont-ils réussi à louer leur appartement à prix d'or pour les JO?](https://rmcsport.bfmtv.com/jeux-olympiques/business/airbnb-les-proprietaires-parisiens-ont-ils-reussi-a-louer-leur-appartement-a-prix-d-or-pour-les-jo_AV-202407250055.html "Airbnb: les propriétaires parisiens ont-ils réussi à louer leur appartement à prix d'or pour les JO?")
+4. [### Fin de C8: l'émission "TPMP" va-t-elle changer de chaîne?](https://www.bfmtv.com/people/tv/fin-de-c8-l-emission-tpmp-va-t-elle-changer-de-chaine_AN-202407240486.html "Fin de C8: l'émission "TPMP" va-t-elle changer de chaîne?")
+5. [### Les ministres démissionnaires sont-ils encore payés?](https://www.bfmtv.com/economie/les-ministres-demissionnaires-sont-ils-encore-payes_AV-202407240598.html "Les ministres démissionnaires sont-ils encore payés?")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
