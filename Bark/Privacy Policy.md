@@ -5,8 +5,7 @@
     Products
     
     * [Bark Phone](https://www.bark.us/bark-phone/)
-    * [Bark Premium](https://bark.us/bark-premium)
-    * [Bark Jr](https://bark.us/bark-jr)
+    * [Bark App](https://bark.us/bark-app)
     * [Bark Home](https://www.bark.us/learn/bark-home/)
     
 * [Parental Controls](#)
@@ -156,8 +155,7 @@ Sign up for our newsletter:
 Products
 
 * [Bark Phone](https://www.bark.us/bark-phone/)
-* [Bark Premium](https://www.bark.us/bark-premium/)
-* [Bark Jr](https://www.bark.us/bark-jr/)
+* [Bark App](https://www.bark.us/bark-app/)
 * [Bark Home](https://www.bark.us/learn/bark-home/)
 
 About
