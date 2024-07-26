@@ -149,11 +149,30 @@ Data helps us connect your world by creating dependable services and experiences
 #### HTML Editor Component  
 \*Contents may not have visible height
 
+Effective July 25, 2024, we clarified our disclosures related to Your Privacy Choices and our use of de-identified data. And we noted that we may share audio recordings with analytics companies to provide better insights on how we serve our customers.
+
+**Previous Updates**
+
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
+* [December 11, 2023](#)
+* [June 2, 2023](#)
+* [January 1, 2023](#)
+* [June 6, 2022](#)
+* [April 8, 2022](#)
+* [November 1, 2021](#)
+* [October 1, 2021](#)
+* [August 26, 2021](#)
+* [June 16, 2021](#)
+
+×
+
 Effective July 17th, we updated the contact information for questions regarding our privacy notices.
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -170,7 +189,8 @@ This updated [Privacy Notice](http://about.att.com/privacy/privacy-notice.html) 
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -189,7 +209,8 @@ We are committed to providing you transparency by letting you know when we've ma
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -250,7 +271,8 @@ We are committed to transparency, so we want you to know we’re updating the AT
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -269,7 +291,8 @@ We are committed to providing you transparency by letting you know when we’ve 
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -288,7 +311,8 @@ We are committed to providing you transparency by letting you know when we’ve 
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -309,7 +333,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -330,7 +355,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -349,7 +375,8 @@ On October 1, 2021, the [Nevada Privacy law](https://legiscan.com/NV/text/SB260/
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
@@ -376,7 +403,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [July 17, 2024 \[current\]](#)
+* [July 25, 2024 \[current\]](#)
+* [July 17, 2024](#)
 * [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
