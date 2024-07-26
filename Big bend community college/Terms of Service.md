@@ -310,7 +310,3 @@ Additional Resources
 * [Live Chat](javascript:void(Tawk_API.toggle()))
 * [Daily Health Check](javascript:void(window.open('https://forms.office.com/Pages/ResponsePage.aspx?id=LVzaSA1S2UuMTzvCd5V5R0fK-1-8hqxOqgsVsCjjZxdUMUc0VDhaMllWU1Q3VDU3VFkyQ1BaWVBSRC4u','_blank')))
 * [ctcLink Support](javascript:void(window.open('https://www.bigbend.edu/about-us/ctclink-for-students/','_blank')))
-
-Covid-19 Information[Read More On Covid](https://www.bigbend.edu/about-us/covid-19/)
-
-[+](#)
