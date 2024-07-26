@@ -874,7 +874,7 @@ Let us know how can we improve this article! \*
 
   Missing/broken link
 
-Select atleast one of the reasons
+Select at least one of the reasons
 
 Please give your comments
 
