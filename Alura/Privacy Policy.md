@@ -279,5 +279,3 @@ Alura
     *  [![logo Hipsters ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/hipsterstech.1720710817.svg) Hipsters ponto Tech](https://hipsters.tech/)
     *  [![logo Dev sem fronteiras](https://www.alura.com.br/assets/img/caelumFooter/devsemfronteiras.1720710817.svg) Dev sem Fronteiras](https://www.devsemfronteiras.tech/)
     *  [![logo Layers ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/layerstech.1720710817.svg) Layers ponto Tech](https://layerspontotech.com.br/)
-
-![](https://dc.ads.linkedin.com/collect/?pid=465017&fmt=gif)
