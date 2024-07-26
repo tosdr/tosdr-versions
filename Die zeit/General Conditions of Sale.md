@@ -67,13 +67,14 @@ Verlagsangebote
 
 Anzeigen
 
+* [Aufbruch ins eigene Leben](https://zett.cmk.zeit.de/cms/articles/17636/anzeige/techniker-krankenkasse/aufbruch-ins-eigene-leben)
+* [Alltagsheldin: Ein Portrait](https://campus.cmk.zeit.de/cms/articles/17660/anzeige/dm-drogerie-markt-gmbh-co-kg/man-wird-nicht-um-uns-herumkommen-ob-man-will-oder-nicht)
 * [Internationaler Master in Madrid](https://www.zeit.de/campus/angebote/management-im-ausland-studieren-iese/index)
-* [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/biel/index)
+* [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/gstaad/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
-* [Buch-Entdeckungen](https://www.zeit.de/angebote/buchtipp/index)
 * [Deutsches Schulportal](https://deutsches-schulportal.de/)
 * [ZEIT für Forschung](https://zeitfuerx.de/forschung/)
 * [ZEIT für X](https://zeitfuerx.de/)
@@ -86,7 +87,7 @@ Anzeigen
     
     Melden Sie sich jetzt mit Ihrem bestehenden Account an oder testen Sie unser digitales Abo mit Zugang zu allen Artikeln.
     
-    [Abo testen](https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Fadministratives%2Fagb-kommentare-artikel&entry_service=sonstige)
+    [Abo testen](https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps%26entry_service=navi-accountmenu-button?url=https%3A%2F%2Fwww.zeit.de%2Fadministratives%2Fagb-kommentare-artikel&entry_service=sonstige)
     
 * [Anmelden](https://meine.zeit.de/anmelden?url=https%3A%2F%2Fwww.zeit.de%2Fadministratives%2Fagb-kommentare-artikel&entry_service=sonstige)
 
