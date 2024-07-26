@@ -55,6 +55,7 @@
     
     * [Help Center](https://bitwarden.com/help/)
     * [Resource Center](https://bitwarden.com/resources/)
+    * [Security and Compliance](https://bitwarden.com/compliance/)
     * [Learning Center](https://bitwarden.com/learning/)
     * [Success Stories](https://bitwarden.com/bitwarden-reviews/)
     * [Blog](https://bitwarden.com/blog/)
