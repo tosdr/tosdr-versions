@@ -78,7 +78,6 @@
     Connect
     
     * [Community](https://community.cloudinary.com/)
-    * [Roadmap](https://cloudinary.com/roadmap)
     
     Support
     
@@ -210,7 +209,6 @@ Last updated: May 1, 2023.
 * [DAM](https://cloudinary.com/products/digital_asset_management)
 * [Demos](https://cloudinary.com/demos)
 * [Pricing](https://cloudinary.com/pricing)
-* [Roadmap](https://cloudinary.com/roadmap)
 * [FAQ](https://cloudinary.com/faq)
 
 **Solutions**
