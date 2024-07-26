@@ -20,20 +20,20 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
-* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
-* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
-* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
-* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
+* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
-* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
-* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
-* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
 * [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
+* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
+* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
+* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
+* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
+* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
+* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
+* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
 
 [Apps on Fly.io](https://fly.io/docs/apps/) Toggle Apps on Fly.io section
 
