@@ -395,11 +395,11 @@ A human neural network trained on Anime subtitles was used to generate this arti
 
 ##### Latest
 
-1. [5 Best Free Raspberry Pi Courses for Beginners in 2024](https://www.classcentral.com/report/best-raspberry-pi-courses/)
-2. [Learn Something New: 75 Most Popular Courses For August](https://www.classcentral.com/report/most-popular-august-2024/)
-3. [30 Hours of MATLAB Courses with Free Certificate](https://www.classcentral.com/report/matlab-free-certificates/)
-4. [9 Best Go (Golang) Courses for 2024](https://www.classcentral.com/report/best-go-courses/)
-5. [70+ FutureLearn Courses with Free Certificates](https://www.classcentral.com/report/futurelearn-free-certificates/)
+1. [150+ Universities Just Launched 700+ Free Online Courses. Here’s the Full List.](https://www.classcentral.com/report/new-online-courses/)
+2. [1000+ Courses from Top Med Schools with Free Certificate & CME Credit](https://www.classcentral.com/report/free-medical-certificate-courses/)
+3. [10 Best TypeScript Courses for 2024](https://www.classcentral.com/report/best-typescript-courses/)
+4. [5 Best Free Raspberry Pi Courses for Beginners in 2024](https://www.classcentral.com/report/best-raspberry-pi-courses/)
+5. [Learn Something New: 75 Most Popular Courses For August](https://www.classcentral.com/report/most-popular-august-2024/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -410,38 +410,38 @@ A human neural network trained on Anime subtitles was used to generate this arti
 Most common
 -----------
 
-1. marketing
+1. python
     
-2. c
+2. java
     
-3. web development
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Artificial Intelligence
     
-    9,935 courses](https://www.classcentral.com/subject/web-development)
-2. [Software Development
+    6,021 courses](https://www.classcentral.com/subject/ai)
+2. [Marketing
     
-    5,624 courses](https://www.classcentral.com/subject/software-development)
-3. [Python
+    7,105 courses](https://www.classcentral.com/subject/marketing)
+3. [Computer Science
     
-    7,253 courses](https://www.classcentral.com/subject/python)
+    20,779 courses](https://www.classcentral.com/subject/cs)
 
 Popular courses
 ---------------
 
-1. [Aprender
+1. [Greek and Roman Mythology
     
-    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
-2. [EU policy and implementation: making Europe work!
+    University of Pennsylvania](https://www.classcentral.com/course/mythology-353)
+2. [Bases Matemáticas: Números y terminología
     
-    Leiden University](https://www.classcentral.com/course/eu-making-europe-work-7408)
-3. [Transforming Digital Learning: Learning Design Meets Service Design
+    Universitat Politècnica de València](https://www.classcentral.com/course/math-universitat-politecnica-de-valencia-bases-ma-2955)
+3. [Crisis Resource Management
     
-    Deakin University](https://www.classcentral.com/course/digital-learning-12213)
+    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
