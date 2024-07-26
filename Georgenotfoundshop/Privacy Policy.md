@@ -2,7 +2,7 @@
 
   
 
-[Out with the old, IN WITH THE BOLD! We're making room for new things. Enjoy up to 50% off!](https://georgenotfound.shop/collections/summer-blowout)
+[Last week of the Summer Blowout Sale - enjoy savings up to 70% off!](https://georgenotfound.shop/collections/summer-blowout)
 
     
 
