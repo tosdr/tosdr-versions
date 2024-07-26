@@ -13,7 +13,7 @@
         * [Zurück zu Nachhaltig](#)
         * [Wirkung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ "Wirkung")
         * [Bildung und Kultur](https://www.gls.de/privatkunden/nachhaltig/wirkung/bildung-und-kultur/)
-        * [Ernaehrung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ernaehrung/)
+        * [Ernährung](https://www.gls.de/privatkunden/nachhaltig/wirkung/ernaehrung/)
         * [Erneuerbare Energien](https://www.gls.de/privatkunden/nachhaltig/wirkung/erneuerbare-energien/)
         * [Nachhaltige Wirtschaft](https://www.gls.de/privatkunden/nachhaltig/wirkung/nachhaltige-wirtschaft/)
         * [Soziales und Gesundheit](https://www.gls.de/privatkunden/nachhaltig/wirkung/soziales-und-gesundheit/)
