@@ -4,7 +4,7 @@
 
 1. [Who We Are](https://cdt.org/who-we-are/)
     * [About](https://cdt.org/who-we-are/)
-    * [Europe Office](https://cdt.org/eu/)
+    * [CDT Europe](https://cdt.org/eu/)
     * [CDT AI Governance Lab](https://cdt.org/cdt-ai-governance-lab/)
     * [CDT Research](https://cdt.org/cdtresearch/)
     * [Staff](https://cdt.org/staff/)
@@ -184,7 +184,7 @@ The content throughout this website that originates with CDT can be freely copie
 People
 ------
 
-* [Europe Office](https://cdt.org/eu/)
+* [CDT Europe](https://cdt.org/eu/)
 * [CDT AI Governance Lab](https://cdt.org/cdt-ai-governance-lab/)
 * [CDT Research](https://cdt.org/cdtresearch/)
 * [Staff](https://cdt.org/staff/)
