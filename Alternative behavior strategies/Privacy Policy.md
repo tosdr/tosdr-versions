@@ -134,7 +134,7 @@ provide: 1) when you visit the websites: [https://abskids.com](https://abskids.c
 
 * On this Website. 
 * In email, text, and other electronic messages between you and this Website. 
-* Information we collect from on our website from our following webpages: 
+* Information we collect from on our website from our following webpages:
     * “Get Started”
     * “Insurance Information”
 
@@ -157,7 +157,7 @@ information from children under 13. If you are under 13, do not use or provide a
 We collect several types of information from and about users of our Website, including   
 information: 
 
-* by which you may be personally identified, such as your name, the patient’s name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (“personal information”); 
+* Information by which you may be personally identified, such as your name, the patient’s name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (“personal information”); 
 * that is about you but individually does not identify you; and/or 
 * name of your insurance company; 
 
@@ -178,6 +178,7 @@ The information we collect on or through our Website may include:
 
 * Information that you provide by filling in forms on our Website. This includes information provided at the time of requesting further services. We may also ask you for information when you report a problem with our Website. 
 * Records and copies of your correspondence (including email addresses), if you contact us. 
+* Information provided by you in the intake packet, which may include your address, phone number, email, and other contact information.
 
 You also may provide information to be published or displayed (hereinafter, “**posted**“) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “**User Contributions**“). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
 
@@ -242,7 +243,9 @@ identify any individual, without restriction.
 We may disclose personal information that we collect or you provide as described in this  
 privacy policy:
 
-* To our affiliates, including ABS Psychology Services California, P.C.,  ABS Utah, P.C., and ABS Kids P.C. 
+* We do not sell, rent, lease, or otherwise transfer your phone number to any third parties without your consent, or as otherwise permitted by law.
+* Your phone number, including SMS consent, may be shared with our affiliates, subsidiaries, or partner companies for related services but not for marketing purposes.
+* Within our organization, access to your phone number is restricted to employees who need it to provide you with our SMS service**.** 
 
 * To contractors, service providers, and other third parties we use to support our business. 
 * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Company about our Website users is among the assets transferred. 
