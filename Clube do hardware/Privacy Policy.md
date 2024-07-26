@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Victor Azevedo_734451](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-770805.jpg)](https://www.clubedohardware.com.br/profile/770805-victor-azevedo_734451/ "Ir ao perfil de Victor Azevedo_734451")
+    * [![LARodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250426.thumb.jpeg.676b1dc019264733ddf311141e5ae8b8.jpeg)](https://www.clubedohardware.com.br/profile/1250426-larodrigues/ "Ir ao perfil de LARodrigues")
         
         0
         
-        [Dual channel memórias diferentes HX426C16FB3/8](https://www.clubedohardware.com.br/forums/topic/1692878-dual-channel-mem%C3%B3rias-diferentes-hx426c16fb38/?do=getNewComment "Dual channel memórias diferentes HX426C16FB3/8")
+        [MSI X370 gaming pro- compatibilidade](https://www.clubedohardware.com.br/forums/topic/1693211-msi-x370-gaming-pro-compatibilidade/?do=getNewComment "MSI X370 gaming pro- compatibilidade")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Victor Azevedo\_734451](https://www.clubedohardware.com.br/profile/770805-victor-azevedo_734451/ "Ir ao perfil de Victor Azevedo_734451")  
-        30 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [LARodrigues](https://www.clubedohardware.com.br/profile/1250426-larodrigues/ "Ir ao perfil de LARodrigues")  
+        9 minutos atrás
         
-    * [![Guerra](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4629c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250226-guerra/ "Ir ao perfil de Guerra")
+    * [![Ton1149](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/588ae16399021d819930991914c69717.thumb.jpg.62e495d9389eb4a63917890144fc4b01.jpg)](https://www.clubedohardware.com.br/profile/1250421-ton1149/ "Ir ao perfil de Ton1149")
         
         0
         
-        [Repetidor de Sinal/Saidas Cabo](https://www.clubedohardware.com.br/forums/topic/1692877-repetidor-de-sinalsaidas-cabo/?do=getNewComment "Repetidor de Sinal/Saidas Cabo")
+        [As 7 principais TV Boxes para comprar em 2024 (STV, HTV, etc.)](https://www.clubedohardware.com.br/forums/topic/1693210-as-7-principais-tv-boxes-para-comprar-em-2024-stv-htv-etc/?do=getNewComment "As 7 principais TV Boxes para comprar em 2024 (STV, HTV, etc.)")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Guerra](https://www.clubedohardware.com.br/profile/1250226-guerra/ "Ir ao perfil de Guerra")  
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [Ton1149](https://www.clubedohardware.com.br/profile/1250421-ton1149/ "Ir ao perfil de Ton1149")  
         1 hora atrás
         
-    * [![Juio_D](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/35e36.thumb.jpg.2f5becaf4eb746bd0947c4fb6cff74bd.jpg)](https://www.clubedohardware.com.br/profile/1250223-juio_d/ "Ir ao perfil de Juio_D")
+    * [![SkyFernandes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1129607.thumb.jpeg.2b26ed671129e1be0ada2c2dc12e0256.jpeg)](https://www.clubedohardware.com.br/profile/1129607-skyfernandes/ "Ir ao perfil de SkyFernandes")
         
         0
         
-        [Essas configurações estão boas?](https://www.clubedohardware.com.br/forums/topic/1692876-essas-configura%C3%A7%C3%B5es-est%C3%A3o-boas/?do=getNewComment "Essas configurações estão boas?")
+        [RX 580 2048SP usando 100%](https://www.clubedohardware.com.br/forums/topic/1693209-rx-580-2048sp-usando-100/?do=getNewComment "RX 580 2048SP usando 100%")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [SkyFernandes](https://www.clubedohardware.com.br/profile/1129607-skyfernandes/ "Ir ao perfil de SkyFernandes")  
+        2 horas atrás
+        
+    * [![ROBSONjoven](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249637.thumb.png.59250bc2bd2880d92ad755cee4857908.png)](https://www.clubedohardware.com.br/profile/1249637-robsonjoven/ "Ir ao perfil de ROBSONjoven")
+        
+        0
+        
+        [energia GPU EM 0W](https://www.clubedohardware.com.br/forums/topic/1693208-energia-gpu-em-0w/?do=getNewComment "energia GPU EM 0W")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [ROBSONjoven](https://www.clubedohardware.com.br/profile/1249637-robsonjoven/ "Ir ao perfil de ROBSONjoven")  
+        3 horas atrás
+        
+    * [![ThiagoA98](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250422.thumb.png.61bf2fb693890c4c9222787750dbf1ea.png)](https://www.clubedohardware.com.br/profile/1250422-thiagoa98/ "Ir ao perfil de ThiagoA98")
+        
+        0
+        
+        [PC para jogos beirando os R$5.500](https://www.clubedohardware.com.br/forums/topic/1693207-pc-para-jogos-beirando-os-r5500/?do=getNewComment "PC para jogos beirando os R$5.500")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Juio\_D](https://www.clubedohardware.com.br/profile/1250223-juio_d/ "Ir ao perfil de Juio_D")  
+        Por [ThiagoA98](https://www.clubedohardware.com.br/profile/1250422-thiagoa98/ "Ir ao perfil de ThiagoA98")  
         4 horas atrás
         
-    * [![Caua Kleber](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250222.thumb.jpeg.141521914e72abba81adaa1621402f54.jpeg)](https://www.clubedohardware.com.br/profile/1250222-caua-kleber/ "Ir ao perfil de Caua Kleber")
+    * [![Robson Galvão](https://www.clubedohardware.com.br/uploads/members/monthly_2019_01/imported-photo-956793.thumb.jpeg.f136ad76cdc1f1286fdb3136e1457db8.jpeg)](https://www.clubedohardware.com.br/profile/956793-robson-galv%C3%A3o/ "Ir ao perfil de Robson Galvão")
         
         0
         
-        [usar mais de um monitor faz a placa de vídeo aquecer mais?](https://www.clubedohardware.com.br/forums/topic/1692875-usar-mais-de-um-monitor-faz-a-placa-de-v%C3%ADdeo-aquecer-mais/?do=getNewComment "usar mais de um monitor faz a placa de vídeo aquecer mais?")
+        [Tv sony 29 kv-fs105 com imagem preto e branco](https://www.clubedohardware.com.br/forums/topic/1693206-tv-sony-29-kv-fs105-com-imagem-preto-e-branco/?do=getNewComment "Tv sony 29 kv-fs105 com imagem preto e branco")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Caua Kleber](https://www.clubedohardware.com.br/profile/1250222-caua-kleber/ "Ir ao perfil de Caua Kleber")  
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Robson Galvão](https://www.clubedohardware.com.br/profile/956793-robson-galv%C3%A3o/ "Ir ao perfil de Robson Galvão")  
+        4 horas atrás
+        
+    * [![UMARIZAL](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/2021-200x200.thumb.jpg.52a208353eb4523391150926b9efe534.jpg)](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")
+        
+        0
+        
+        [Ao energizar, PC liga sozinho por segundos e depois desliga](https://www.clubedohardware.com.br/forums/topic/1693205-ao-energizar-pc-liga-sozinho-por-segundos-e-depois-desliga/?do=getNewComment "Ao energizar, PC liga sozinho por segundos e depois desliga")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [UMARIZAL](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")  
         5 horas atrás
         
-    * [![Alyson aquino](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250218.thumb.jpeg.f942d8ea4c07692f6937c98214bf6785.jpeg)](https://www.clubedohardware.com.br/profile/1250218-alyson-aquino/ "Ir ao perfil de Alyson aquino")
+    * [![Vgznxx71](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250420.thumb.png.a11a0e0cd1eba757e644ef255e3c65be.png)](https://www.clubedohardware.com.br/profile/1250420-vgznxx71/ "Ir ao perfil de Vgznxx71")
         
-        0
+        2
         
-        [Upgrade na minha GT 1030](https://www.clubedohardware.com.br/forums/topic/1692874-upgrade-na-minha-gt-1030/?do=getNewComment "Upgrade na minha GT 1030")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Alyson aquino](https://www.clubedohardware.com.br/profile/1250218-alyson-aquino/ "Ir ao perfil de Alyson aquino")  
-        6 horas atrás
-        
-    * [![lxc4sz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1244836.thumb.jpeg.65b992fc065b591738ee656835eeb4a6.jpeg)](https://www.clubedohardware.com.br/profile/1244836-lxc4sz/ "Ir ao perfil de lxc4sz")
-        
-        1
-        
-        [não consigo ativar o xmp da minhas memórias](https://www.clubedohardware.com.br/forums/topic/1692873-n%C3%A3o-consigo-ativar-o-xmp-da-minhas-mem%C3%B3rias/?do=getNewComment "não consigo ativar o xmp da minhas memórias")
+        [Dual channel não ativa por nada](https://www.clubedohardware.com.br/forums/topic/1693204-dual-channel-n%C3%A3o-ativa-por-nada/?do=getNewComment "Dual channel não ativa por nada")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [lxc4sz](https://www.clubedohardware.com.br/profile/1244836-lxc4sz/ "Ir ao perfil de lxc4sz")  
-        7 horas atrás
+        Por [Vgznxx71](https://www.clubedohardware.com.br/profile/1250420-vgznxx71/ "Ir ao perfil de Vgznxx71")  
+        5 horas atrás
         
-    * [![C.R.E.A.M.](https://www.clubedohardware.com.br/uploads/members/monthly_2016_04/5700a2dfb245f_015348425-EX00.jpg.551b4e78e56d33b6755a6461bff8b398.thumb.jpg.f79f46551a949fb31603053858ea5eb1.jpg)](https://www.clubedohardware.com.br/profile/683332-cream/ "Ir ao perfil de C.R.E.A.M.")
-        
-        0
-        
-        [Como espelhar os smartphones LG K50S e o Galaxy A14 5G em uma TV?](https://www.clubedohardware.com.br/forums/topic/1692872-como-espelhar-os-smartphones-lg-k50s-e-o-galaxy-a14-5g-em-uma-tv/?do=getNewComment "Como espelhar os smartphones LG K50S e o Galaxy A14 5G em uma TV?")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [C.R.E.A.M.](https://www.clubedohardware.com.br/profile/683332-cream/ "Ir ao perfil de C.R.E.A.M.")  
-        7 horas atrás
-        
-    * [![Laerte Heredia](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250217.thumb.png.922ab903805d27215003a35276b8b476.png)](https://www.clubedohardware.com.br/profile/1250217-laerte-heredia/ "Ir ao perfil de Laerte Heredia")
+    * [![thiago baptsita](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ETB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250417-thiago-baptsita/ "Ir ao perfil de thiago baptsita")
         
         0
         
-        [Grandiente S-95. Ligar um mesmo canal de duas saídas em um Subwoofer paioneer?](https://www.clubedohardware.com.br/forums/topic/1692871-grandiente-s-95-ligar-um-mesmo-canal-de-duas-sa%C3%ADdas-em-um-subwoofer-paioneer/?do=getNewComment "Grandiente S-95. Ligar um mesmo canal de duas saídas em um Subwoofer paioneer?")
+        [Ryzen 7800x3d 6.6GHz estraga rápido?](https://www.clubedohardware.com.br/forums/topic/1693203-ryzen-7800x3d-66ghz-estraga-r%C3%A1pido/?do=getNewComment "Ryzen 7800x3d 6.6GHz estraga rápido?")
         
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Laerte Heredia](https://www.clubedohardware.com.br/profile/1250217-laerte-heredia/ "Ir ao perfil de Laerte Heredia")  
-        7 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [thiago baptsita](https://www.clubedohardware.com.br/profile/1250417-thiago-baptsita/ "Ir ao perfil de thiago baptsita")  
+        5 horas atrás
         
-    * [![joaoluc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250216.thumb.jpeg.e369a237281f82a252969c0fe74d59c1.jpeg)](https://www.clubedohardware.com.br/profile/1250216-joaoluc/ "Ir ao perfil de joaoluc")
-        
-        0
-        
-        [Pichau Centauri Pulse 27 com defeito?](https://www.clubedohardware.com.br/forums/topic/1692870-pichau-centauri-pulse-27-com-defeito/?do=getNewComment "Pichau Centauri Pulse 27 com defeito?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [joaoluc](https://www.clubedohardware.com.br/profile/1250216-joaoluc/ "Ir ao perfil de joaoluc")  
-        7 horas atrás
-        
-    * [![viniciusplata](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1230104.thumb.png.ca9b85e428b74310a7710b8c3d34b632.png)](https://www.clubedohardware.com.br/profile/1230104-viniciusplata/ "Ir ao perfil de viniciusplata")
+    * [![Luisgte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250418.thumb.jpeg.75de87b11dea44a965cc436ed1417106.jpeg)](https://www.clubedohardware.com.br/profile/1250418-luisgte/ "Ir ao perfil de Luisgte")
         
         0
         
-        [Placa de vídeo não funciona ao ligar PC pela primeira vez no dia](https://www.clubedohardware.com.br/forums/topic/1692869-placa-de-v%C3%ADdeo-n%C3%A3o-funciona-ao-ligar-pc-pela-primeira-vez-no-dia/?do=getNewComment "Placa de vídeo não funciona ao ligar PC pela primeira vez no dia")
+        [Antena wifi não reconhece](https://www.clubedohardware.com.br/forums/topic/1693202-antena-wifi-n%C3%A3o-reconhece/?do=getNewComment "Antena wifi não reconhece")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [viniciusplata](https://www.clubedohardware.com.br/profile/1230104-viniciusplata/ "Ir ao perfil de viniciusplata")  
-        7 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Luisgte](https://www.clubedohardware.com.br/profile/1250418-luisgte/ "Ir ao perfil de Luisgte")  
+        5 horas atrás
         
     
 
@@ -390,8 +390,8 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
