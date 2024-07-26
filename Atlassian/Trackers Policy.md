@@ -360,7 +360,7 @@ Back
 
 [Try now](https://www.atlassian.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2037)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2072)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
 
 * [Legal information](https://www.atlassian.com/legal)
 * [Cookies](https://www.atlassian.com/legal/cookies)
@@ -370,7 +370,7 @@ Back
 Atlassian Cookies & Tracking Notice
 ===================================
 
-_Effective starting: July 1, 2023_
+_Effective starting: July 23, 2024_
 
 ### Cookies and Other Tracking Technologies:
 
@@ -389,13 +389,15 @@ _How do we use them?_
 * **Targeting Cookies or Advertising Cookies.**  These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertising technology service providers and advertisers.
 * **Social media cookies.** These cookies are used when you share information using a social media sharing button or “like” button on our websites or you link your account or engage with our content on or through a social media site. The social network will record that you have done this. This information may be linked to targeting/advertising activities.
 
-_How can you opt-out?_
+_How can you opt out?_
 
-To opt-out of our use of cookies, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services. Atlassian and our third party partners also collect information using web beacons (also known as "tracking pixels").
+To opt out of our use of cookies on our website, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you don't accept cookies, you may be unable to use all aspects of our Services. Atlassian and our third-party partners also collect information using web beacons (also known as “tracking pixels”).
 
-Many browsers include their own management tools for removing HTML5 local storage objects. To manage "flash cookies" please click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Depending where you live, you may also have the right to opt out of targeted advertising and/or certain third-party cookies, as described in the [Privacy Policy](https://www.atlassian.com/legal/privacy-policy-may-25th) under "Your Choices."
+To opt out of our use of cookies in-product, go to **Atlassian Account > Privacy** and select **Open cookie preferences**. Read the available options carefully, and make your selection. Note that cookie preferences for **Jira Align** can be managed by using your browser options.
 
-You will not be able to opt-out of any cookies or other technologies that are “strictly necessary” for the Services.
+You won’t be able to opt out of any cookies or other technologies (on our website or in-product) that are “strictly necessary” for the Services.
+
+Many browsers include their own management tools for removing HTML5 local storage objects. To manage "flash cookies" you will have to follow a [separate set of instructions](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Depending on where you live, you may also have the right to opt out of targeted advertising and certain third-party cookies, as described in the [Privacy Policy](https://www.atlassian.com/legal/privacy-policy) under "Your Choices."
 
 _Updates to this Notice_ 
 
@@ -429,7 +431,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2037)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2072)
 
 [Company](https://www.atlassian.com/company)
 
