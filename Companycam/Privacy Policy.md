@@ -222,13 +222,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_July_Craft.jpg?auto=format&w=280)
+        
+        [Everything We've Launched (So Far) in 2024](https://companycam.com/classes/new-companycam-features-2024)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
         [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/June-Spanish-Class-Craft.jpg?auto=format&w=280)
-        
-        [CompanyCam en la Aplicación Móvil en Español](https://companycam.com/classes/companycam-en-la-aplicaci%C3%B3n-m%C3%B3vil-en-espa%C3%B1ol)
         
     
     ### Contact Support
@@ -518,13 +518,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_July_Craft.jpg?auto=format&w=280)
+        
+        [Everything We've Launched (So Far) in 2024](https://companycam.com/classes/new-companycam-features-2024)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
         [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/June-Spanish-Class-Craft.jpg?auto=format&w=280)
-        
-        [CompanyCam en la Aplicación Móvil en Español](https://companycam.com/classes/companycam-en-la-aplicaci%C3%B3n-m%C3%B3vil-en-espa%C3%B1ol)
         
     
     ### Contact Support
