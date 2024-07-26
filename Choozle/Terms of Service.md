@@ -447,6 +447,7 @@ Solution
 * [Media Solutions](https://choozle.com/media-solutions)
 * [Managed + Self Service](https://choozle.com/managed-self-service)
 * [Retail Media](https://choozle.com/retail-media)
+* [Omnichannel](https://choozle.com/omnichannel/)
 
 Channels
 
