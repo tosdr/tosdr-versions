@@ -55,7 +55,6 @@ Initializing search
         
         Submit an Article
         
-        * [None](https://info.arxiv.org/help/submit/index.html)
         * [Submission Overview](https://info.arxiv.org/help/submit/index.html)
         * [Submit TeX/LaTeX](https://info.arxiv.org/help/submit_tex.html)
         * [Submit a PDF](https://info.arxiv.org/help/submit_pdf.html)
