@@ -45,7 +45,7 @@ Open/close search
     * [Dropbox Backup](https://help.dropbox.com/backup)
     * [Dropbox Capture](https://help.dropbox.com/capture)
     * [Dropbox Sign](https://help.dropbox.com/sign)
-    * [Dropbox Dash](https://dash.dropbox.com/help-center.html)
+    * [Dropbox Dash](https://help.dropbox.com/dash)
     
     * [Dropbox Passwords](https://help.dropbox.com/passwords)
     * [Dropbox Replay](https://help.dropbox.com/replay)
