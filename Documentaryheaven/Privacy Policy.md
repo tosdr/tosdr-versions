@@ -113,6 +113,11 @@ Advertisement
     Extraordinary People: The Boy Who Lived Before
     
     Ever since he could talk, Cameron has been telling stories of his life on Barra, a remote island in the Outer Hebrides, some 220 miles from his current home in Glasgow. He describes in detail his chil...](https://documentaryheaven.com/extraordinary-people-the-boy-who-lived-before/ "Extraordinary People: The Boy Who Lived Before")
+* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
+    
+    Hillsborough Disaster
+    
+    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
 * [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
     
     Canada’s woke nightmare: A warning to the West
@@ -128,39 +133,34 @@ Advertisement
     The Dark Side of Porn: Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
-* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
-    
-    Hillsborough Disaster
-    
-    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
 
 ###### Throwback Documentaries
 
-* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
+* [![Where The Wild Coffee Grows](/wp-content/thumbnails/7525-100x70.jpg?x53432)
     
-    Who Gets the Best Jobs?
+    Where The Wild Coffee Grows
     
-    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
-* [![Bone Diggers](/wp-content/thumbnails/6628-100x70.png?x53432)
+    Starbucks and coffee drinkers globally love the green beans which grow in the wild remote altitudes of East Timor.Since it was a Portuguese colony – organic coffee have been cultivated for centuri](https://documentaryheaven.com/where-wild-coffee-grows/ "Where The Wild Coffee Grows")
+* [![The War You Don’t See](/wp-content/thumbnails/4596-100x70.jpg?x53432)
     
-    Bone Diggers
+    The War You Don’t See
     
-    Broadcast (2007) NOVA takes viewers to the stark Australian outback in search of the elusive bones of one of the world’s most bizarre prehistoric creatures—a giant predatory marsupial called Thylacole](https://documentaryheaven.com/bone-diggers/ "Bone Diggers")
-* [![My Penis and I](/wp-content/thumbnails/5048-100x70.jpg?x53432)
+    A powerful and timely investigation into the media's role in war, tracing the history of 'embedded' and independent reporting from the carnage of World War One to the destruction of Hiroshima, and fro](https://documentaryheaven.com/the-war-you-dont-see/ "The War You Don’t See")
+* [![The Clash: New Year’s Day ’77](/wp-content/thumbnails/12207-100x70.jpg?x53432)
     
-    My Penis and I
+    The Clash: New Year’s Day ’77
     
-    This is a film I made (The Author) in 2005 for the BBC. “I guess this thing is about having a small dick, and it’s horrible saying that because it’s true…. And why is it such a problem? This is what](https://documentaryheaven.com/my-penis-and-i/ "My Penis and I")
-* [![Cry of the Snow Lion](/wp-content/thumbnails/1604-100x70.jpg?x53432)
+    On January 1st 1977 the British band The Clash played the opening show for the infamous Roxy club in a dilapidated Convent Garden. This film takes us right back on a time-travelling journey to that mo](https://documentaryheaven.com/clash-new-years-day-77/ "The Clash: New Year’s Day ’77")
+* [![The Midas Formula: Trillion Dollar Bet](/wp-content/thumbnails/6113-100x70.jpg?x53432)
     
-    Cry of the Snow Lion
+    The Midas Formula: Trillion Dollar Bet
     
-    Ten years in the making, this award-winning feature-length documentary was filmed during nine journeys throughout Tibet, India and Nepal. Cry of the Snow Lion brings audiences to the long-forbidden "r](https://documentaryheaven.com/cry-of-the-snow-lion/ "Cry of the Snow Lion")
-* [![Among the Sex Offenders](/wp-content/thumbnails/8917-100x70.jpg?x53432)
+    The history behind perhaps the greatest formula ever created in finance: the Black-Scholes-Merton options pricing model. Two of its creators were awarded the Nobel Prize in Economics in 1997. A year l](https://documentaryheaven.com/the-midas-formula-trillion-dollar-bet/ "The Midas Formula: Trillion Dollar Bet")
+* [![America’s Most Hated Family in Crisis](/wp-content/thumbnails/5629-100x70.jpg?x53432)
     
-    Among the Sex Offenders
+    America’s Most Hated Family in Crisis
     
-    Louis Theroux has spent the last few months filming a series of documentaries titled "LA Stories", this particular film "Among The Sex Offenders" is the final episode to air. Louis takes a look a](https://documentaryheaven.com/among-sex-offenders/ "Among the Sex Offenders")
+    Following up on his 2006 documentary, The Most Hated Family in America, Louis Theroux returns to Topeka, Kansas, for a week-long visit with the Westboro Baptist Church.He again joins the Phelps fami](https://documentaryheaven.com/americas-most-hated-family-in-crisis/ "America’s Most Hated Family in Crisis")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
