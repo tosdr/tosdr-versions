@@ -1,4 +1,4 @@
-[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2674/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
+[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2679/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
 
 * [Product](https://use.expensify.com/product)
     * [Expense Management](https://use.expensify.com/expense-management)
@@ -563,4 +563,4 @@ The Expensify Visa® Commercial Card is issued by The Bancorp Bank, N.A. pursuan
 
 Money transmission is provided by Expensify Payments LLC (NMLS ID:2017010) pursuant to its [licenses](https://use.expensify.com/licenses).
 
-![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2675/assets/img/expensify-footer-logo--green.svg)
+![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2679/assets/img/expensify-footer-logo--green.svg)
