@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-10.003 Tb/s
+9.902 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-873](https://www.ams-ix.net/ams/connected-networks)
+872](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
@@ -69,7 +69,7 @@ Powered by AMS-IX
 * [Muscat](https://om-ix.com/)
 
 Cookie policy
-=============
+-------------
 
 At AMS-IX, we believe in being clear and open about how we collect and use data. In the spirit of transparency, this cookie policy provides information about our use of cookies. This policy explains what cookies are, and how and why we use them for our websites. You should read this policy so you understand what types of cookies we use, the information we collect using the cookies and how that information is used. By visiting our websites you agree that we can use cookies in accordance with this policy.
 
