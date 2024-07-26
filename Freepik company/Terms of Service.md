@@ -76,7 +76,7 @@ Toggle menu
     
 * Mockupsnew
     
-    [Apparel](https://www.freepikcompany.com/mockups/category/apparel)[T-shirt](https://www.freepikcompany.com/search?format=search&type=mockup&query=t-shirt)[Devices](https://www.freepikcompany.com/mockups/category/devices)[iPhone](https://www.freepikcompany.com/search?format=search&query=iphone&type=mockup)[Print](https://www.freepikcompany.com/mockups/category/print)[Books](https://www.freepikcompany.com/search?format=search&type=mockup&query=book)[Packaging](https://www.freepikcompany.com/mockups/category/packaging)[Business card](https://www.freepikcompany.com/search?format=search&type=mockup&query=business+card)
+    [Apparel](https://www.freepikcompany.com/mockups/category/apparel)[T-shirt](https://www.freepikcompany.com/mockups/t-shirt)[Devices](https://www.freepikcompany.com/mockups/category/devices)[iPhone](https://www.freepikcompany.com/mockups/iphone)[Print](https://www.freepikcompany.com/mockups/category/print)[Books](https://www.freepikcompany.com/mockups/book)[Packaging](https://www.freepikcompany.com/mockups/category/packaging)[Business card](https://www.freepikcompany.com/mockups/business-card)
     
     [Explore all mockups](https://www.freepikcompany.com/mockups)
     
@@ -84,11 +84,11 @@ Toggle menu
     
 * More
     
-    Sister companies
+    Projects
     
     [FlaticonFree customizable icons](https://www.flaticon.com/)
     
-    [WepikEdit your Freepik templates](https://wepik.com/)
+    [WepikEdit templates online easily](https://wepik.com/)
     
     [SlidesgoFree presentation templates](https://slidesgo.com/)
     
@@ -112,9 +112,9 @@ Toggle menu
     
     [Calendar of festivitiesFind here all the important dates and festivities](https://www.freepikcompany.com/calendar)
     
-    [CollectionsDiscover incredible collections curated by our authors](https://www.freepikcompany.com/collections)
+    [CollectionsContent collections curated by professionals](https://www.freepikcompany.com/collections)
     
-    Apps and plugins
+    Plugins
     
     [Freepik for FigmaImages for your Figma projects](https://www.figma.com/community/plugin/893426972424060133/freepik)
     
@@ -1102,7 +1102,6 @@ Information
 
 * [Pricing](https://www.freepikcompany.com/pricing?origin=freepik_web)
 * [About us](https://www.freepikcompany.com/company/about-us)
-* [Press room](https://www.freepikcompany.com/newsroom/category/latest-news)
 * [API](https://freepik.com/api)
 * [Jobs](https://jobs.freepik.com/)
 * [Sell content](https://contributor.freepik.com/)
@@ -1139,7 +1138,7 @@ Get exclusive assets sent straight to your inbox
 
 English
 
-[](https://www.freepikcompany.com/)
+[](https://www.freepik.com/)
 
 Copyright © 2010-2024 Freepik Company S.L. All rights reserved.
 
