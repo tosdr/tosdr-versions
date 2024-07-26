@@ -287,7 +287,7 @@ Main
         * Events
             * [Upcoming Events](https://info.badgr.com/events)
             * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://info.badgr.com/events/instructurecon)
+            * [InstructureCon 2024](https://info.badgr.com/resources/instructurecon-2024)
             * [Webinars](https://info.badgr.com/resources/webinars)
         * News
             * [Latest News](https://info.badgr.com/news)
@@ -549,7 +549,7 @@ Main
         * Events
             * [Upcoming Events](https://info.badgr.com/events)
             * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://info.badgr.com/events/instructurecon)
+            * [InstructureCon 2024](https://info.badgr.com/resources/instructurecon-2024)
             * [Webinars](https://info.badgr.com/resources/webinars)
         * News
             * [Latest News](https://info.badgr.com/news)
