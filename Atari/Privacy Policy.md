@@ -28,7 +28,6 @@
         
         * [Spring & Summer Apparel](https://www.atari.com/collections/s-s-2024-collection)
         * [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
-        * [1972 Limited Collection](https://www.atari.com/collections/1972-limited-collection)
         * [Pong Collection](https://www.atari.com/collections/pong-collection)
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
@@ -107,7 +106,6 @@
         
         * [Spring & Summer Apparel](https://www.atari.com/collections/s-s-2024-collection)
         * [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
-        * [1972 Limited Collection](https://www.atari.com/collections/1972-limited-collection)
         * [Pong Collection](https://www.atari.com/collections/pong-collection)
         * [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
         * [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
@@ -323,6 +321,24 @@ Continue shopping
 
  
 
+ASTEROIDS RECHARGED: ARCADE
+===========================
+
+This 2-player arcade is available exclusively on Atari.com and includes FREE SHIPPING on pre-orders only!
+
+[Pre-Order Today](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
+
+ 
+
+Yars Rising
+===========
+
+New Metroidvania from Atari and WayForward
+
+[Coming Soon](https://www.atari.com/products/yars-rising)
+
+ 
+
 NeoSprint
 =========
 
@@ -338,15 +354,6 @@ Lunar: Lander Beyond
 A Luxurious Sci-Fi Landscape
 
 [Available Now](https://www.atari.com/products/lunar-lander-beyond)
-
- 
-
-Yars Rising
-===========
-
-New Metroidvania from Atari and WayForward
-
-[Coming Soon](https://www.atari.com/products/yars-rising)
 
 [![](files/Atari_VCS.jpg)
 
