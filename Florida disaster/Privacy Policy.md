@@ -205,9 +205,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, July 23, 2024**
+**Friday, July 26, 2024**
 
-**...High Pressure Over Western Atlantic Dominating Weather Pattern for Sunshine State...Tropcial Wave Near Bahamas Bringing Late Morning Showers and Thunderstorms...Daily Showers and Thunderstorms Along the Sea Breeze Throughout Afternoon and Evening...Locally Strong to Severe Thunderstorms Possible; Frequent Lightning, Gusty Wins and Heavy Downpours...Heavy Rainfall or Slow-Moving Thunderstorms Could Bring Localized Flooding At Times...Warm and Muggy Conditions With Heat Index Values in Triple Digits...Moderate Risk for Rip Currents Persists Along Numerous Panhandle and all East Coast Beaches...**
+**...Scattered To Numerous Showers and Thunderstorms Nearly Statewide With the Sea Breezes This Afternoon and Evening...Marginal Risk for Flash Flooding Across North and Central Florida; Localized Flooding Possible With Heavy Downpours In Slow-Moving Showers and Thunderstorms...Drier Conditions Across Southeast Coast and Keys...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Cannot Be Ruled Out...Heat Indices In the Upper 90s and Triple Digits (100-105) Nearly Statewide...Moderate Risk For Rip Currents Along Panhandle and East Coast...Areas of Patchy to Locally Dense Fog Cannot Be Ruled Out Overnight Into Early Saturday Morning...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
