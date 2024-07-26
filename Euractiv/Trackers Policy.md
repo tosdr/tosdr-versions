@@ -36,11 +36,11 @@ Toggle navigation
 * [The Capitals](https://www.euractiv.com/sections/the-capitals)
 * [The Capitals](https://www.euractiv.com/sections/the-capitals)
 * [The Brief](https://www.euractiv.com/topics/the-brief/)
-* [EU Elections 2024](https://www.euractiv.com/european-elections-2024/)
+* [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)
 * [Ukraine](https://www.euractiv.com/sections/ukraine/)
 * [Intelligence](https://www.euractiv.com/intelligence/?utm_source=euractiv&utm_medium=header&utm_campaign=eilaunch2209&utm_id=eilaunch2209&utm_content=headerbutton)
 * [The Brief](https://www.euractiv.com/topics/the-brief/)
-* [EU Elections 2024](https://www.euractiv.com/european-elections-2024/)
+* [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)
 * [Ukraine](https://www.euractiv.com/sections/ukraine/)
 * [Intelligence](https://www.euractiv.com/intelligence/?utm_source=euractiv&utm_medium=header&utm_campaign=eilaunch2209&utm_id=eilaunch2209&utm_content=headerbutton)
 
@@ -207,13 +207,13 @@ Toggle navigation
     ##### Events
     
     * 10 September - [Media Partnership: Win-wind solutions in the Baltic Sea region](https://events.euractiv.com/event/info/media-partnership-win-wind-solutions-in-the-baltic-sea-region)
-    * 24 September - [Media Partnership - Ensuring Resilience in the European Energy Transition](https://events.euractiv.com/event/info/media-partnership-ensuring-resilience-in-the-european-energy-transition)
+    * 24 September - [Media Partnership - Smart siting: Unlocking Europe's Solar and Wind Potential](https://events.euractiv.com/event/info/media-partnership-smart-siting-unlocking-europes-solar-and-wind-potential)
     
     ##### Promoted Content
     
+    * [A call for the EU to take its role seriously in climate change and biodiversity policies of fisheries management](https://www.euractiv.com/section/energy-environment/opinion/a-call-for-the-eu-to-take-its-role-seriously-in-climate-change-and-biodiversity-policies-of-fisheries-management/)
     * [Reshaping recycling: The complex quest for circular plastics](https://www.euractiv.com/section/energy-environment/opinion/reshaping-recycling-the-complex-quest-for-circular-plastics/)
     * [The EU Moves to Regulate Sports Shooters](https://www.euractiv.com/section/energy-environment/opinion/the-eu-moves-to-regulate-sports-shooters/)
-    * [Political will and collaboration can revise plastics system](https://www.euractiv.com/section/energy-environment/opinion/political-will-and-collaboration-can-revise-plastics-system/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -256,9 +256,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [A Bridge to Peace: Lessons from Mostar for a Fragile World](https://www.euractiv.com/section/global-europe/opinion/a-bridge-to-peace-lessons-from-mostar-for-a-fragile-world/)
     * [Keynote Speech by Minister Peng Gang at the CCCEU 2024 Europe-China Business Summit](https://www.euractiv.com/section/eu-china/opinion/keynote-speech-by-minister-peng-gang-at-the-ccceu-2024-europe-china-business-summit/)
     * [Resilience, reliance, readjustment: How Ukrainians are coping with the war](https://www.euractiv.com/section/global-europe/opinion/resilience-reliance-readjustment-how-ukrainians-are-coping-with-the-war/)
-    * [This World Press Freedom Day, everyone must commit to preserving and strengthening media freedom](https://www.euractiv.com/section/global-europe/opinion/this-world-press-freedom-day-everyone-must-commit-to-preserving-and-strengthening-media-freedom/)
     
 * [Health](https://www.euractiv.com/sections/health-consumers/)
     
@@ -470,16 +470,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ### Most read articles
 
-* 1[Chinese wind turbine-makers move into Europe as trade tensions flare](http://en.euractiv.eu/section/economy-jobs/news/chinese-wind-turbine-makers-move-into-europe-as-trade-tensions-flare/?utm_source=website&utm_campaign=popular)
-* 2[Meloni's vote against von der Leyen risks backfiring](http://en.euractiv.eu/section/politics/news/melonis-vote-against-von-der-leyen-risks-backfiring/?utm_source=website&utm_campaign=popular)
-* 3[EU foreign ministers to meet in Brussels, not Budapest, over Ukraine diplomacy spat](http://en.euractiv.eu/section/europe-s-east/news/eu-foreign-ministers-to-meet-in-brussels-not-budapest-over-ukraine-diplomacy-spat/?utm_source=website&utm_campaign=popular)
-* 4[Eight EU member states call for Syria policy reset](http://en.euractiv.eu/section/global-europe/news/eight-eu-member-states-call-for-syria-policy-reset/?utm_source=website&utm_campaign=popular)
-* 5[EU backs ICJ ruling on 'illegal' Israeli occupation](http://en.euractiv.eu/section/global-europe/news/eu-backs-icj-ruling-on-illegal-israeli-occupation/?utm_source=website&utm_campaign=popular)
-* 6[Confusion on France’s renewable commitments in national energy, climate plan](http://en.euractiv.eu/section/energy-environment/news/confusion-on-frances-renewable-commitments-in-national-energy-climate-plan/?utm_source=website&utm_campaign=popular)
-* 7[Pilots launch bathroom campaign against one-pilot-only flights](http://en.euractiv.eu/section/aviation/news/plots-launch-bathroom-campaign-against-one-pilot-only-flights/?utm_source=website&utm_campaign=popular)
-* 8[Slovak PM blasts Ukraine's Lukoil sanctions as oil flow stops](http://en.euractiv.eu/section/europe-s-east/news/slovak-pm-blasts-ukraines-lukoil-sanctions-as-oil-flow-stops/?utm_source=website&utm_campaign=popular)
-* 9[EPP feud with German Liberals escalates after vote against von der Leyen](http://en.euractiv.eu/section/politics/news/epp-feud-with-german-liberals-escalates-after-vote-against-von-der-leyen-2/?utm_source=website&utm_campaign=popular)
-* 10[EPP feud with German Liberals escalates after vote against von der Leyen](http://en.euractiv.eu/section/politics/news/epp-feud-with-german-liberals-escalates-after-vote-against-von-der-leyen/?utm_source=website&utm_campaign=popular)
+* 1[Hungary to block EU funds for member states until Ukraine allows Lukoil transit](http://en.euractiv.eu/section/global-europe/news/hungary-to-block-eu-funds-for-member-states-until-ukraine-allows-lukoil-transit/?utm_source=website&utm_campaign=popular)
+* 2[Von der Leyen gives nod to €100 billion 'CERN for AI' proposal](http://en.euractiv.eu/section/digital/news/von-der-leyen-gives-nod-to-e100-billion-cern-for-ai-proposal/?utm_source=website&utm_campaign=popular)
+* 3[Eight EU member states call for Syria policy reset](http://en.euractiv.eu/section/global-europe/news/eight-eu-member-states-call-for-syria-policy-reset/?utm_source=website&utm_campaign=popular)
+* 4[EU agriculture chief slams the idea of reform-linked funds for farmers](http://en.euractiv.eu/section/agriculture-food/news/eu-agriculture-chief-slams-the-idea-of-reform-linked-funds-for-farmers/?utm_source=website&utm_campaign=popular)
+* 5[EU foreign ministers to meet in Brussels, not Budapest, over Ukraine diplomacy spat](http://en.euractiv.eu/section/europe-s-east/news/eu-foreign-ministers-to-meet-in-brussels-not-budapest-over-ukraine-diplomacy-spat/?utm_source=website&utm_campaign=popular)
+* 6[Italy to present hydrogen corridor plan in autumn, may involve Switzerland](http://en.euractiv.eu/section/energy-environment/news/italy-to-present-hydrogen-corridor-plan-in-autumn-may-involve-switzerland/?utm_source=website&utm_campaign=popular)
+* 7[Confusion on France’s renewable commitments in national energy, climate plan](http://en.euractiv.eu/section/energy-environment/news/confusion-on-frances-renewable-commitments-in-national-energy-climate-plan/?utm_source=website&utm_campaign=popular)
+* 8[Ex US trade official: Trump tariffs on Chinese goods could offer 'top cover’ for EU measures](http://en.euractiv.eu/section/economy-jobs/news/ex-us-trade-official-trump-tariffs-on-chinese-goods-could-offer-top-cover-for-eu-measures/?utm_source=website&utm_campaign=popular)
+* 9[Pilots launch bathroom campaign against one-pilot-only flights](http://en.euractiv.eu/section/aviation/news/plots-launch-bathroom-campaign-against-one-pilot-only-flights/?utm_source=website&utm_campaign=popular)
+* 10[Hungary and Slovakia ask EU to mediate with Ukraine over Lukoil](http://en.euractiv.eu/section/energy-environment/news/hungary-and-slovakia-ask-eu-to-mediate-with-ukraine-over-lukoil/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
