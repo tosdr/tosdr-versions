@@ -426,7 +426,7 @@ Please enter a valid ZIP code
 * [About Fidelity](https://www.fidelity.com/about-fidelity/our-company)
 * [International](https://www.fidelityinternational.com/)
 
-Copyright 1998-2024 FMR LLC. All Rights Reserved.
+Copyright 1998-2024 FMR LLC. All Rights Reserved.
 
 * [Terms of Use](https://www.fidelity.com/terms-of-use)
 * [Privacy](https://www.fidelity.com/privacy-policy)
