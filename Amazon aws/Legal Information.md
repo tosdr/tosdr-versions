@@ -2,12 +2,13 @@
 
 [Click here to return to Amazon Web Services homepage](https://aws.amazon.com/?nc2=h_lg)
 
-[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)  [English](#)  [My Account](#) 
+[About AWS](https://aws.amazon.com/about-aws/?nc2=h_header) [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_header) [Support](#)  [English](#)   [My Account](#)  
 
 [Sign In](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin)
 
 [Create an AWS Account](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup)
 
+* [Amazon Q](https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q)
 * [Products](https://aws.amazon.com/products/?nc2=h_ql_prod)
 * [Solutions](https://aws.amazon.com/solutions/?nc2=h_ql_sol)
 * [Pricing](https://aws.amazon.com/pricing/?nc2=h_ql_pr)
