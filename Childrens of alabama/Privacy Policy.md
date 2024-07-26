@@ -265,10 +265,10 @@ Health and Safety Tips
 
 [![](/sites/default/files/pictures/2022-03/alabama-votes-logo_web.png)](http://sos.alabama.gov/alabama-votes)
 
+[Employee Intranet](https://home.chsys.org/)![](/sites/default/files/inline-images/blue_river_intranet_200x200_web_icon.png)
+
 [![](/sites/default/files/hg-brands/childrens-of-alabama-logo_0.png)](https://www.childrensal.org/footer "footer")
 
 © 2023 Children's of Alabama | 1600 7th Ave. S. | Birmingham AL 35233 | [205-638-9100](tel: 205-638-9100)
-
-[Employee Intranet](https://home.chsys.org/)![](/sites/default/files/2022-05/icon_intranet.png)[](https://home.chsys.org/)
 
 [Translate this page](#)
