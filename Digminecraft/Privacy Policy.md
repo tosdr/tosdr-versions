@@ -1,6 +1,6 @@
 [](https://www.digminecraft.com/hpot.php)
 
-Advertisements
+Advertisement
 
 DigMinecraft
 
@@ -44,7 +44,7 @@ JavaScript is required for this website to work properly. Please re-enable JavaS
 * [Spawn Eggs](https://www.digminecraft.com/spawn_eggs/index.php)
 * [Chemistry](https://www.digminecraft.com/chemistry_elements/index.php)
 
-Advertisements
+Advertisement
 
 Privacy Policy
 ==============
@@ -134,7 +134,7 @@ Share on:
 
 [](https://x.com/share?url=https%3A%2F%2Fwww.digminecraft.com%2Fprivacy.php&via=dig_minecraft&text=Currently+reading+-+Privacy+Policy+at&hashtags=minecraft "Tweet this")[](https://fb.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digminecraft.com%2Fprivacy.php "Add to Facebook")
 
-Advertisements
+Advertisement
 
 [Home](https://www.digminecraft.com/index.php) | [About Us](https://www.digminecraft.com/about_us.php) | [Contact Us](https://www.digminecraft.com/feedback.php) | [Donate](https://www.digminecraft.com/donate.php)
 
