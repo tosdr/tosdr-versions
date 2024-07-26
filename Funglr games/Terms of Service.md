@@ -90,21 +90,21 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 ###  New entry
 
+* [_![[EVO 2024] Photo Report from Las Vegas!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/evo-2024-booth-photo-report-00-150x150.jpg "[EVO 2024] Photo Report from Las Vegas!")_
+    
+    **\[EVO 2024\] Photo Report from Las Vegas!**2024.07.21(Sun)](https://saiganak.com/event/evo-2024-booth-photo-report/ "[EVO 2024] Photo Report from Las Vegas!")
+* [_![The esports exclusive brand Victrix has launched an official X account in Japan!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/victorix-opens-official-japan-x-00-150x150.jpg "The esports exclusive brand Victrix has launched an official X account in Japan!")_
+    
+    **The esports exclusive brand Victrix has launched an official X account in Japan!**2024.07.11(Thu)](https://saiganak.com/news/victorix-opens-official-japan-x/ "The esports exclusive brand Victrix has launched an official X account in Japan!")
+* [_![GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/gendagigo-vietnam-00-150x150.jpg "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")_
+    
+    **GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast As…**2024.07.04(Thu)](https://saiganak.com/news/gendagigo-vietnam/ "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")
+* [_!["VSPO! "Brave group announces compensation of Information leak](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/bravegroup-personal-data-breach-streaming-resume-00-150x150.jpg ""VSPO! "Brave group announces compensation of Information leak")_
+    
+    **"VSPO! "Brave group announces compensation of Information leak**2024.06.28(Fri)](https://saiganak.com/news/bravegroup-personal-data-breach-streaming-resume/ ""VSPO! "Brave group announces compensation of Information leak")
 * [_![Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/fujii4dan-ynu-june2024-bar-00-150x150.jpg "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")_
     
     **Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!**2024.06.13(Thu)](https://saiganak.com/event/fujii4dan-ynu-june2024-bar/ "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")
-* [_![Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/05/capcomcafe-monsterhunter-20th-collab-may2024-00-150x150.jpg "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")_
-    
-    **Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May…**2024.05.16(Thu)](https://saiganak.com/event/capcomcafe-monsterhunter-20th-collab-may2024/ "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")
-* [_![Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/04/evojapan-2024-goods-00-150x150.jpg "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")_
-    
-    **Is just a week away from EVO Japan 2024! Total Number of Entries, Official Good…**2024.04.20(Sat)](https://saiganak.com/event/evojapan-2024-official-goods/ "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")
-* [_!["Intel inside"MSI's portable gaming PC Claw A1M hands on](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/04/msi-handheld-claw-a1m-00-150x150.jpg ""Intel inside"MSI's portable gaming PC Claw A1M hands on")_
-    
-    **"Intel inside"MSI's portable gaming PC Claw A1M hands on**2024.04.13(Sat)](https://saiganak.com/review/msi-handheld-claw-a1m/ ""Intel inside"MSI's portable gaming PC Claw A1M hands on")
-* [_![Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/03/telecomsquare-wifibox-for-apahotel-00-150x150.jpg "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")_
-    
-    **Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen p…**2024.03.18(Mon)](https://saiganak.com/news/telecomsquare-wifibox-for-apahotel/ "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")
 
 ### Pocket ranking
 
@@ -112,21 +112,21 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 [![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
 
-* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+* [![Coca-Cola energy drinks are here! How is the taste?](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/cocacola-energy-0-150x150.jpg "Coca-Cola energy drinks are here! How is the taste?")
     
-    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
-    
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
-* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
-    
-    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
-    
-    "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
+    Coca-Cola energy drinks are here! How is the taste?](https://saiganak.com/review/cocacola-energy-review/ "Coca-Cola energy drinks are here! How is the taste?")
 * [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
     
     From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
+    
+    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+    
+    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
 
 [](#top)
 
