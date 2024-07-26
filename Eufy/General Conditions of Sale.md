@@ -647,7 +647,7 @@
     
 * Support
     
-    [Smart Help Center](https://support.eufy.com/s/?ref=navimenu_8_1_1_copy) [Warranty Information](https://us.eufy.com/policies/refund-policy?ref=navimenu_8_1_2_copy) [Process a Warranty](https://us.eufy.com/pages/exchange?ref=navimenu_8_1_3_copy) [Order FAQ](https://www.eufy.com/faq?ref=navimenu_8_1_4_copy) [Order Tracker](https://us.eufy.com/apps/aftership?ref=navimenu_8_1_5_copy) [Contact Us](https://www.eufy.com/contact?ref=navimenu_8_1_6_copy) [Security Web Portal](https://mysecurity.eufylife.com/#/login?ref=navimenu_8_1_7_copy) [Exclusive Beta Opportunity](https://passport.eufy.com/login?login_app=xtest&redirect=https%3A%2F%2Fxtest.anker.com%2F%3FredirectUrl%3Dhttps%253A%252F%252Fxtest.anker.com%252F%253Fchannel%253Dus-eufy&ref=navimenu_8_1_8_copy) [Offically Certified Refurbished Products](https://www.eufy.com/refurbished-products?ref=navimenu_8_1_9_copy)
+    [Smart Help Center](https://support.eufy.com/s/?ref=navimenu_8_1_1_copy) [Warranty Information](https://us.eufy.com/policies/refund-policy?ref=navimenu_8_1_2_copy) [Process a Warranty](https://us.eufy.com/pages/exchange?ref=navimenu_8_1_3_copy) [Order FAQ](https://www.eufy.com/faq?ref=navimenu_8_1_4_copy) [Order Tracker](https://us.eufy.com/apps/aftership?ref=navimenu_8_1_5_copy) [Contact Us](https://www.eufy.com/contact?ref=navimenu_8_1_6_copy) [Security Web Portal](https://mysecurity.eufylife.com/#/login?ref=navimenu_8_1_7_copy) [Exclusive Beta Opportunity](https://passport.eufy.com/login?login_app=xtest&redirect=https%3A%2F%2Fxtest.anker.com%2F%3FredirectUrl%3Dhttps%253A%252F%252Fxtest.anker.com%252F%253Fchannel%253Dus-eufy&ref=navimenu_8_1_8_copy) [Officially Certified Refurbished Products](https://www.eufy.com/refurbished-products?ref=navimenu_8_1_9_copy)
     
 
 Search our shop
@@ -1138,7 +1138,7 @@ Contact us
     * [Baby](https://us.eufy.com/collections/baby)
     * [Pet](https://us.eufy.com/collections/pet)
     * [Scales](https://us.eufy.com/collections/smart-scale)
-    * [Offically Certified Refurbished Products](https://us.eufy.com/refurbished-products)
+    * [Officially Certified Refurbished Products](https://us.eufy.com/refurbished-products)
 * Account
     
     * [Order Tracker](https://us.eufy.com/apps/aftership)
