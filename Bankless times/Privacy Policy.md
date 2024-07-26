@@ -507,7 +507,7 @@ Invest in Cryptocurrencies
 
 [When is ETH merge?](https://www.banklesstimes.com/news/2021/10/18/ethereum-merge-set-to-happen-by-june-2022/)
 
-[![](https://cdn.solciety.cc/en-300x250.gif)](https://solciety.io/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimes300)
+[![](https://cdn.poodlana.org/300x250-EN-V1.gif)](https://poodlana.com/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimes300)
 
 ![](/logos/banklesstimes-com-for-light.svg)
 
@@ -545,6 +545,7 @@ More Reviews & Guides
 * [Immediate Momentum Review](https://www.banklesstimes.com/robots/immediate-momentum/)
 * [Cash Nest Review](https://www.banklesstimes.com/robots/cash-nest/)
 * [GPT Definity 2.0](https://www.banklesstimes.com/robots/gpt-definity-2.0)
+* [Bitcoin Vista Review](https://www.banklesstimes.com/robots/bitcoin-vista/)
 
 Follow us
 
@@ -564,4 +565,4 @@ Please be aware that some of the links on this site will direct you to the websi
 
 Copyright © 2024 - All Rights Reserved
 
-   [![](https://cdn.solciety.cc/en-336x60.gif) ![](https://cdn.solciety.cc/en-728x60.gif) ![](https://cdn.solciety.cc/en-970x60.gif) ![](https://cdn.solciety.cc/en-1560x60.gif)](https://solciety.io/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimesfooter)
+   [![](https://cdn.poodlana.org/336x60-EN-V1.gif) ![](https://cdn.poodlana.org/728x60-EN-V1.gif) ![](https://cdn.poodlana.org/970x60-EN-V1.gif) ![](https://cdn.poodlana.org/1560x60-EN-V1.gif)](https://poodlana.com/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimesfooter)
