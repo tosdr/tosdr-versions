@@ -92,8 +92,6 @@
 * NL
     
 
-[Klusweken](https://www.bol.com/nl/nl/cmp/klusweken/1966/?promo=HEAD_907_Mnav_1_CRS_klusweken_1)[Back to school](https://www.bol.com/nl/nl/cmp/backtoschool/1977/?promo=HEAD_907_Mnav_1_CRS_backtoschool_2)[Sale hardlopers](https://www.bol.com/nl/nl/ra/hardlopers/344106/?promo=HEAD_907_Mnav_1_CRS_salehardlopers_3)[Zomerlezen](https://www.bol.com/nl/nl/sf/lees/?promo=HEAD_907_Mnav_1_CRS_zomerlezen_4)[Saleop=op](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?promo=HEAD_907_Mnav_1_CRS_sale_5)
-
 Inhoudsopgave
 
 Privacybeleid
@@ -103,7 +101,7 @@ Als jij iets bestelt, hebben we je gegevens nodig om ervoor te zorgen dat we jou
 
 Dit privacybeleid kan van tijd tot tijd wijzigen als nieuwe ontwikkelingen daartoe aanleiding geven. Het meest actuele privacybeleid vind je op www.bol.com. Wij raden je aan om dit privacybeleid regelmatig te raadplegen, zodat je van deze wijzigingen op de hoogte bent. Je ziet hier altijd de laatste datum van wijziging.
 
-Dit privacybeleid is voor het laatst gewijzigd op 15 februari 2024.
+Dit privacybeleid is voor het laatst gewijzigd op 24 juli 2024.
 
 Inhoudsopgave
 
@@ -133,6 +131,9 @@ In sommige gevallen ontvangen we jouw gegevens van anderen. Zo krijgen we jouw n
 
 Welke gegevens verwerken wij van jou, waarvoor gebruiken wij die en hoelang worden deze bewaard?
 ------------------------------------------------------------------------------------------------
+
+\-> Algemeen
+------------
 
 ### Gegevens voor het verwerken van jouw bestelling
 
@@ -180,11 +181,12 @@ Allereerst zorgen we dat onze website of app goed werkt zodat jij optimaal kunt 
 
 Om je artikelen aan te bevelen, gebruiken we algemeen klantgedrag en statistieken. Als jij ons daarvoor toestemming geeft, kunnen wij bol.com bovendien zo relevant mogelijk voor je maken door onze winkel af te stemmen op jouw persoonlijke voorkeuren (‘je eigen bol.com’). Ook kunnen we je met jouw toestemming relevantere advertenties binnen en buiten bol.com laten zien en je gepersonaliseerde berichten sturen. Hierna leggen we uit welke gegevens we gebruiken voor deze persoonlijke ervaring.
 
-#### Verbeteren van de winkelbeleving gebaseerd op algemene informatie en verkoopstatistieken
+### Verbeteren van de winkelbeleving gebaseerd op algemene informatie en verkoopstatistieken
 
 Wanneer je op bol.com een artikel bekijkt, zie je ook andere artikelen die we aanbevelen (bijvoorbeeld onder het kopje “Verder kijken” of “Anderen bekeken ook”). Deze aanbevelingen zijn gebaseerd op het artikel of de categorie waar je op dat moment naar kijkt. Op basis van statistieken weten we dat klanten die dat artikel kochten, ook geïnteresseerd waren in de andere artikelen. Deze aanbevelingen zijn niet persoonlijk: iedereen die dat artikel bekijkt ziet dezelfde aanbevelingen. Wij laten je daarom ook altijd deze aanbevelingen zien, ook als je niet hebt gekozen voor je eigen bol.com. Als je zoekt naar een bepaald dekbedovertrek, ziet iedereen dezelfde vergelijkbare overtrekken of hoeslakens. Of we laten je op basis van je zoekopdracht zien wat andere gebruikers zochten. Deze vorm van het verbeteren van je winkelervaring zie je ook in een fysieke winkels. Zo staan artikelen van hetzelfde type of die bij elkaar horen meestal bij elkaar. En de verkoper weet ook wat populair is en wat andere klanten kochten toen ze met dezelfde vraag in de winkel kwamen.
 
-#### Je eigen bol.com
+\-> Je eigen bol.com
+--------------------
 
 Als je ons hiervoor toestemming geeft, kunnen we de winkel voor jou nog persoonlijker maken. Net als in je favoriete fysieke winkel. De winkelbediende kent je en kan op basis van je vorige aankopen en interesses goede aanbevelingen doen. Net als die winkelbediende doen ook wij aanbevelingen en passen wij de winkel aan, aan jouw voorkeuren. Deze persoonlijke aanbevelingen zijn gebaseerd op het interesseprofiel dat wij van je samenstellen, op basis van wat je eerder bij ons zocht of kocht, wat er op je verlanglijst staat en welke interesses je toonde door bepaalde artikelen of categorieën te bekijken in onze winkel. Meer informatie over hoe wij het interesseprofiel samenstellen vind je hierna onder het kopje “hoe wij je interesseprofiel bepalen”.
 
@@ -192,9 +194,9 @@ We gebruiken jouw gegevens niet om jou bij je bezoek aan bol.com andere prijzen 
 
 Als je niet (langer) prijs stelt op een eigen bol.com, kun jij je toestemming altijd [wijzigen of intrekken](javascript:void(window.dispatchEvent(new CustomEvent('openOfcDialog')));). Binnen 24 uur hebben we je aangepaste voorkeuren in onze systemen doorgevoerd.
 
-#### Gepersonaliseerde berichten
+### Gepersonaliseerde berichten
 
-Via e-mail en pushnotificatie  
+_Via e-mail en pushnotificatie_  
 We hebben geregeld aanbiedingen, speciale acties en nieuwtjes die we met je willen delen. We delen die graag via e-mail of, als je de bol.com app gebruikt, via pushnotificaties.
 
 Als je bij ons een account hebt en één of meerdere bestellingen hebt geplaatst, e-mailen we je met persoonlijke aanbevelingen. Dit zijn suggesties, informatie over onze artikelen & diensten op basis van je aankopen en reviewverzoeken. Doen we niet als je hebt aangegeven deze berichten niet te willen ontvangen. Voor de personalisatie van deze berichten kijken we naar je orderhistorie en je zoek- en klikgedrag op onze website. Wij hebben daarvoor een gerechtvaardigd belang. Wij willen jou namelijk graag goed adviseren over een relevant product en je aanmoedigen om een review te plaatsen. Wil je dit niet dan kan je je altijd [afmelden](https://www.bol.com/nl/rnwy/account/newsletters) voor ‘persoonlijke aanbevelingen’.
@@ -205,10 +207,11 @@ Wij kunnen je alleen berichten met acties en inspiratie sturen als jij hebt geko
 
 We gebruiken bij onze communicatie via e-mail en pushnotificaties technologie die ons kan vertellen of jij onze berichten leest en op welke hyperlinks jij in die berichten klikt. Dat doen we voor analysedoeleinden om bijvoorbeeld na te gaan of een e-mail veel gelezen wordt of niet. Alleen met jouw toestemming kunnen we deze informatie ook gebruiken om onze communicatie naar jou persoonlijker en dus relevanter maken. Deze toestemming kan je altijd [intrekken](https://www.bol.com/nl/nl/tc/cookiebeleid/).
 
-In onze app: via in-app notificaties  
+_In onze app: via in-app notificaties_  
 Je kan van ons ook notificaties ontvangen in de app zelf. Dit zijn alleen algemene serviceberichten, zoals informatie over nieuwe functionaliteiten in de app.
 
-#### Gepersonaliseerde advertenties buiten bol.com
+\-> Gepersonaliseerde advertenties buiten bol.com
+-------------------------------------------------
 
 Wij, onze advertentienetwerken en mediabureaus (onze ‘mediapartners’) kunnen je persoonlijke advertenties tonen op websites buiten bol.com als je hiervoor toestemming hebt gegeven. De personalisatie gebeurt op basis van de interesseprofielen die we van je hebben. Hoe wij dit interesseprofiel bepalen vind je hierna onder het kopje “hoe wij je interesseprofiel bepalen”. Wie onze mediapartners zijn vind je onderaan deze pagina in bijlage 1.
 
@@ -216,7 +219,8 @@ We kunnen je buiten bol.com herkennen op basis van cookietechnieken en het adver
 
 Als je geen toestemming geeft voor gepersonaliseerde advertenties buiten bol.com, dan zul je nog steeds advertenties zien, ook van bol.com, alleen zijn de advertenties dan niet gebaseerd op de gegevens die wij van jou hebben. Als je in de instellingen van je smartphone tracking hebt afgewezen voor de bol.com app, dan kan je de optie personalisatie op basis van klik- en zoekgedrag pas aanzetten als je eerst de tracking in je smartphone-instellingen weer hebt aangezet.
 
-#### Hoe wij jouw interesseprofiel bepalen
+\-> Hoe wij jouw interesseprofiel bepalen
+-----------------------------------------
 
 Om je eigen bol.com, onze berichten en advertenties binnen en buiten bol.com voor jou persoonlijk te maken, moeten wij jouw interesses kunnen bepalen. Wij doen dat door verschillende dingen die wij van jou weten bij elkaar te voegen en je vervolgens in te delen in een of meerdere interessegebieden (bijvoorbeeld sport). Uiteraard alleen met jouw toestemming!
 
@@ -232,7 +236,8 @@ We kijken bij het personaliseren niet langer dan 3 jaar terug. Indien je geïnte
 
 Je kan altijd zelf beheren welke data wij gebruiken voor jouw interesseprofiel door je [instellingen te wijzigen](javascript:void(window.dispatchEvent(new CustomEvent('openOfcDialog')));).
 
-#### Toestemming voor het delen van jouw bol.com interesses met Albert Heijn, Etos en Gall & Gall voor persoonlijke advertenties
+\-> Toestemming voor het delen van jouw bol.com interesses met Albert Heijn, Etos en Gall & Gall voor persoonlijke advertenties
+-------------------------------------------------------------------------------------------------------------------------------
 
 Als je ook klant bent bij onze zusterbedrijven Albert Heijn, Etos en/of Gall & Gall en je geeft ons toestemming voor het delen van informatie met onze zusterbedrijven, dan kunnen we jouw bol.com interesseprofiel met hen delen. Zij voegen jouw bol.com interesses dan samen met de interesses die ze al van je hebben. Dit is alleen mogelijk als je bij onze zusterbedrijven hetzelfde e-mailadres gebruikt als bij bol.com.
 
@@ -246,7 +251,8 @@ Je kunt je toestemming om data te delen met Albert Heijn, Etos en/of Gall & Gall
 * [Etos](https://www.etos.nl/privacybeleid.html)
 * [Gall & Gall](https://www.gall.nl/over/privacy/)
 
-#### In je brievenbus
+\-> In je brievenbus en de Grote Speelgoedboek-app
+--------------------------------------------------
 
 In sommige gevallen kan je van ons een brief of pakketje ontvangen waarmee we onze waardering voor jou als klant willen laten zien. We gaan terughoudend om met het sturen van post: je ontvangt alleen een brief of pakketje in speciale gevallen. Hierbij kunnen we op basis van je aankopen en bezoekgeschiedenis of je klantcontact met ons of onze verkooppartners beslissen of jij een brief of pakketje krijgt. Als je geen post van ons wil ontvangen, kan je daartegen bezwaar maken. Zie daarvoor ‘Welke rechten kun jij uitoefenen met betrekking tot jouw gegevens?’.
 
@@ -254,9 +260,10 @@ Verder brengen we jaarlijks Het Grote Speelgoedboek uit. Het Grote Speelgoedboek
 
 Voor de verspreiding van Het Grote Speelgoedboek in Nederland en België zijn adresgegevens gebruikt die zijn verkregen via Whooz B.V. Bol.com verwijdert deze adresgegevens binnen twaalf maanden nadat de gegevens van Whooz zijn ontvangen. Meer informatie over de verwerking van persoonsgegevens door Whooz is terug te vinden op [www.whooz.nl](https://www.whooz.nl/). Heb je vragen hierover? Mail deze naar [compliance@whooz.nl](mailto:compliance@whooz.nl).
 
-#### De Grote Speelgoedboek-app
+De Grote Speelgoedboek-app
+--------------------------
 
-Informatie voor kinderen
+### Informatie voor kinderen
 
 Om Het Grote Speelgoedboek nog leuker te maken hebben we een app gemaakt met extra informatie over speelgoed. Het gebruik van de app is anoniem, tenzij een van je ouders inlogt. Anoniem betekent dat wij niet weten dat jij de app gebruikt. Als een van je ouders inlogt op de app dan kunnen we dat wel weten.
 
@@ -270,13 +277,16 @@ Al jouw gegevens die we met de app verzamelen verwijderen we binnen 30 dagen als
 
 Bol is verantwoordelijk voor de Grote Speelgoedboek-app. Voor de app werken wij samen met [DEPT](https://www.deptagency.com/nl-nl/), een marketingbureau. Zij helpen ons de app te maken en hebben ook toegang tot de gegevens in de app. DEPT mag jouw gegevens alleen gebruiken om de app goed te laten werken.
 
-Informatie voor ouders
+### Informatie voor ouders
 
 Het gebruik van de app is anoniem als je niet inlogt. Als je inlogt koppelen wij de gegevens in de app aan jouw accountinformatie. Deze informatie gebruiken wij alleen om jou als ouder een aantal e-mails te sturen met de verlanglijst van het kind en relevante cadeautips, mits je daarmee hebt ingestemd.
 
 Je kunt je voorkeuren op elk moment aanpassen in de app. Ook kun je hier je gegevens verwijderen. In dat geval verwijderen we alle gegevens in de app uiterlijk binnen 30 dagen (inclusief het kindprofiel). Het kind kan de app blijven gebruiken door een nieuw profiel aan te maken. We verwijderen alle gegevens ook als de app 12 maanden niet wordt gebruikt.
 
 Tot slot kunnen we met jouw toestemming push-berichten sturen naar de telefoon met informatie over de app. Toestemming voor notificaties kun je op elk moment wijzigen in de telefooninstellingen.
+
+\-> Overige gegevensverwerkingen
+--------------------------------
 
 ### Gegevens uit NPS- en marktonderzoeken
 
@@ -336,6 +346,14 @@ Als je via het contactformulier op bol.com een vraag stelt aan de verkooppartner
 Wanneer je een vraag stelt aan onze klantenservice over een bestelling geplaatst bij een verkooppartner dan sturen wij jouw contact met de klantenservice door aan de verkooppartner als wij de verkooppartner nodig hebben voor het beantwoorden van jouw vraag. Deze informatie blijft voor de verkooppartner inzichtelijk, zodat de verkooppartner kan nakijken welke afspraken er gemaakt zijn met de klant.
 
 Verkooppartners kunnen tot 2 jaar na aankoop zelf proactief klantcontact starten om een probleem met je bestelde artikel op te lossen. Daarvoor hebben zij tot 2 jaar na aankoop inzicht in het door jou bestelde product, het bestelnummer en je naam.
+
+### Partners die gebruik maken van 'invullen met bol'
+
+Wij maken inloggen via je bol.com account mogelijk op de websites van sommige van onze partners. Indien jij hiervan gebruikmaakt krijg je de keuze om gegevens te delen met de partner waardoor met deze gegevens automatisch jouw account op de website van de partner (gedeeltelijk) wordt ingevuld. Het gaat hierbij om jouw naam, adres, emailadres en mogelijk de gewenste betaalmethode. Wij willen hiermee het inloggen en winkelen via onze partners makkelijker maken.
+
+Voor meer informatie over de wijze waarop onze partners omgaan met jouw gegevens verwijzen wij je naar het privacybeleid van de desbetreffende partner.
+
+Een overzicht van de partners die invullen met bol aanbieden is te vinden op  [http://bol.com/nl/nl/cvb/partner-overview](http://bol.com/nl/nl/cvb/partner-overview).
 
 ### Leverancier digitale boeken Kobo
 
