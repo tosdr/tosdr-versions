@@ -111,11 +111,11 @@ Bridgestone design
 
 [![9B8C926C-C179-4545-B001-A703AAFE3ADA-1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg?width=500&height=352&name=9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg)
 
-I am a parent](https://staging-schoolnow-com.sandbox.hs-sites.com/get-started/schoolnow)
+I am a parent](https://www.schoolnow.com/get-started/schoolnow)
 
 [![staff-member-support](https://www.schoolnow.com/hubfs/staff-member-support.svg)
 
-I am school staff](https://staging-schoolnow-com.sandbox.hs-sites.com/support)
+I am school staff](https://www.schoolnow.com/support)
 
 [![Group (5)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(5).png?width=66&height=64&name=Group%20(5).png)
 
