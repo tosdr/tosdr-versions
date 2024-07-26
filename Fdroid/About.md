@@ -171,42 +171,42 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [The anti-feature you've asked for](https://f-droid.org/en/2024/07/25/twif.html) Jul 25, 2024
+* [Open letter in support of Next Generation Internet](https://f-droid.org/en/2024/07/23/ngi-funding-open-letter.html) Jul 23, 2024
 * [Big cleanup and smaller repo](https://f-droid.org/en/2024/07/18/twif.html) Jul 18, 2024
 * [Maps, emulators, croissants and changed keys](https://f-droid.org/en/2024/07/11/twif.html) Jul 11, 2024
 * [Soon to be modern](https://f-droid.org/en/2024/07/04/twif.html) Jul 04, 2024
-* [225K downloads/week? Those are rookie numbers, lets update Termux!](https://f-droid.org/en/2024/06/27/twif.html) Jun 27, 2024
-* [Additional repos shaping the UI](https://f-droid.org/en/2024/06/20/twif.html) Jun 20, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.openhab.habdroid/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.f006.yxn/en-US/icon_Pgq28HVr00MAT3oVYM_vG2G2vqeVN2CoKMw7klsrkDY=.png)
 
-#### openHAB
+#### VPT#003-GDP
 
-Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
+A simple android app for assisting you in your decisions](https://f-droid.org/en/packages/v4lpt.vpt.f006.yxn/)[![](https://f-droid.org/repo/v4lpt.vpt.f003.gdp/en-US/icon_ga-Izv0Wc1mPyoMPn1K9ozYh5dB2M-y794VmHYVzxZA=.png)
 
-#### openHAB Beta
+#### VPT#003-GDP
 
-Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)[![](https://f-droid.org/repo/io.github.saeeddev94.xray/en-US/icon_Puf76yrqSxZAtK6fywh-nez38YmehIzBcmrg9pxrLgs=.png)
+Simple android app for displaying pictures for a set amount of time.](https://f-droid.org/en/packages/v4lpt.vpt.f003.gdp/)[![](https://f-droid.org/repo/ru.nsu.bobrofon.easysshfs/en-US/icon_kq1Pf3Pki_NY4H4eu2bOC4cHKTzQtAj4xGFtEA3QEqU=.png)
 
-#### Xray
+#### EasySSHFS
 
-Xray GUI Client For Android](https://f-droid.org/en/packages/io.github.saeeddev94.xray/)
+Sshfs with ssh client and interface for Android.](https://f-droid.org/en/packages/ru.nsu.bobrofon.easysshfs/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/com.sjapps.jsonlist/en-US/icon_gotPN7waIhNhcNNl77icMEW7uLSOQUgLQ5AXRyRiXEE=.png)
+[![](https://f-droid.org/repo/v4lpt.vpt.f006.yxn/en-US/icon_Pgq28HVr00MAT3oVYM_vG2G2vqeVN2CoKMw7klsrkDY=.png)
 
-#### Json List
+#### VPT#003-GDP
 
-previewing JSON files in a user-friendly list format](https://f-droid.org/en/packages/com.sjapps.jsonlist/)[![](https://f-droid.org/repo/org.owntracks.android/en-US/icon_F6aZox7GzPIJW2kz8SJIFWk4c6-9qog5gD_JcN9NH3U=.png)
+A simple android app for assisting you in your decisions](https://f-droid.org/en/packages/v4lpt.vpt.f006.yxn/)[![](https://f-droid.org/repo/v4lpt.vpt.f003.gdp/en-US/icon_ga-Izv0Wc1mPyoMPn1K9ozYh5dB2M-y794VmHYVzxZA=.png)
 
-#### OwnTracks
+#### VPT#003-GDP
 
-Your location companion](https://f-droid.org/en/packages/org.owntracks.android/)[![](https://f-droid.org/repo/github.umer0586.sensorserver/en-US/icon_vp3mPlLVlv9KAjMsviuXXx_TkNOOxa5DWTBIZQFjZHg=.png)
+Simple android app for displaying pictures for a set amount of time.](https://f-droid.org/en/packages/v4lpt.vpt.f003.gdp/)[![](https://f-droid.org/repo/net.ygingras.minutemaze/en-US/icon_t8u6ZRswvunNq1DUU_RhT0hI-GQsquLJBXTNIPNr06w=.png)
 
-#### Sensor Server
+#### Minute Maze
 
-Stream phone's sensors to websocket clients](https://f-droid.org/en/packages/github.umer0586.sensorserver/)
+Solve as many mazes as possible in before the time runs out.](https://f-droid.org/en/packages/net.ygingras.minutemaze/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-22, fdroid-website [2.243](https://gitlab.com/fdroid/fdroid-website/tree/2099c1006e)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-07-24, fdroid-website [2.245](https://gitlab.com/fdroid/fdroid-website/tree/c8ec380366)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
