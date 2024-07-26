@@ -1,4 +1,4 @@
-[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/66014fda86a29efd17415288_logo-dendreo-alt.svg)](https://www.dendreo.com/)
+[![Dendreo](https://cdn.prod.website-files.com/5e723ebc919755a129931937/65f80e5bb7a417c4e6c913cf_logo-dendreo.svg)](https://www.dendreo.com/)
 
 Fonctionnalités
 
@@ -38,7 +38,7 @@ Ressources
 
 [API](https://developers.dendreo.com/#introduction)
 
-[Recrutement](https://www.dendreo.com/recrutement)
+[Recrutement](#)
 
 [Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[À propos](https://www.dendreo.com/a-propos-de-dendreo)[Contact](https://www.dendreo.com/contact)
 
@@ -70,7 +70,7 @@ Allez plus loin avec Dendreo](https://www.dendreo.com/formation/fonctionnalites-
 
 Ressources
 
-[Blog](https://www.dendreo.com/blog)[Documentation](https://doc.dendreo.com/)[API](https://developers.dendreo.com/#introduction)[Recrutement](https://www.dendreo.com/recrutement)
+[Blog](https://www.dendreo.com/blog)[Documentation](https://doc.dendreo.com/)[API](https://developers.dendreo.com/#introduction)[Recrutement](#)
 
 [Prix](https://www.dendreo.com/prix)[Clients](https://www.dendreo.com/cas-clients)[À propos](https://www.dendreo.com/a-propos-de-dendreo)[Contact](https://www.dendreo.com/contact)
 
