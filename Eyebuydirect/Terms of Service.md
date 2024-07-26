@@ -24,19 +24,23 @@
     
     [Glasses Under $20](https://www.eyebuydirect.com/campaign/glasses-under-19#gtype=eyeglasses "Glasses Under $20")
     
-    [![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/Top_Nav_320_424_ce94f52b5c.jpg?q=85&seo=best-sellers)
+    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
     
-    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Under $50](https://img.ebdcdn.com/cms/top_nav_under_50_7d83bd90bf.jpg?q=85&seo=under-$50)
+    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
     
-    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![EcoActive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Eco Friendly](https://img.ebdcdn.com/cms/top_nav_csr_f14d042f39.jpg?q=85&seo=eco-friendly)
+    ![EcoActive](https://img.ebdcdn.com/cms/Top_Nav_320_424_a893be740d.jpg?q=85&seo=ecoactive)
     
-    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
+    EcoActive](https://www.eyebuydirect.com/collections/eco-active "EcoActive")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
+    
+    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
     
 * Sunglasses
     
