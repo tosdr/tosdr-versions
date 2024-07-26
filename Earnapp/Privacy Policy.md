@@ -29,7 +29,6 @@ Sorry, your platform is not yet supported by EarnApp
 * [Referral income](https://earnapp.com/)
 * [How it works?](https://earnapp.com/?=#how_it_works)
 * [Passive income](https://earnapp.com/bandwidth)
-* [App owners](https://bright-sdk.com/)
 * [About Us](https://earnapp.com/about-us)
 * [FAQ](https://help.earnapp.com/)
 * [FAQ](https://earnapp.com/developer/faq)
