@@ -5,7 +5,6 @@
 * [Find a Dentist](https://www.aapd.org/publications/find-a-pd/)
 * [Residency Programs](https://www.aapd.org/resources/member/resident-resources/residency-programs/)
 * [Store](http://store.aapd.org/)
-* [Careers](https://www.aapd.org/join-our-team/)
 * [Join AAPD](https://www.aapd.org/about/about-aapd/membership-join/)
 * [Create Account](https://online.aapd.org/aapdssa/censsacustmast.insert_page?p_success_url=https:%2F%2Fonline.aapd.org%2Faapdssa%2Fcenssareqauth%3Fp_vc%3DADAGE%26p_url%3Dhttps:%2F%2Fwww.aapd.org%2Fmy-account%2F%253Fp_aa_token%3D__AUTHTOKEN__)
 * [Login](https://online.aapd.org/aapdssa/censsareqauth?p_vc=ADAGE&p_url=https%3a%2f%2fwww.aapd.org%2fterms-of-use%2f%3Fp_aa_token=__AUTHTOKEN__)
@@ -27,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638572826440192817)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638575336415176514)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -40,7 +39,7 @@
         [Career Center](https://jobs.aapd.org/)
     * ###### Parent Resource
         
-        [Mouth Monster Hub](http://mychildrensteeth.org/)
+        [MyChildrensTeeth.org](http://mychildrensteeth.org/)
     * ###### News Room
         
         [Current & Emerging Issues in Pediatric Dentistry Safety](https://www.aapd.org/about/about-aapd/news-room/aapd-practice-checklist-resources/)
@@ -89,7 +88,7 @@
     
     * ###### Oral Health Policies & Recommendations (The Reference Manual of Pediatric Dentistry)
         
-        [2023-2024 Now Available](https://www.aapd.org/research/oral-health-policies--recommendations/2018-2019-now-available/)
+        [2024-2025 'Official but Unformatted' now available](https://www.aapd.org/research/oral-health-policies--recommendations/2018-2019-now-available/)
     * ###### Journals
         
         [Impact Factors Now Available](https://www.aapd.org/link/a5b24eb5b6e24f55b5a27bca18f1e402.aspx)
@@ -130,7 +129,6 @@ Close Searchbar
 * [Find a Dentist](https://www.aapd.org/publications/find-a-pd/)
 * [Residency Programs](https://www.aapd.org/resources/member/resident-resources/residency-programs/)
 * [Store](http://store.aapd.org/)
-* [Careers](https://www.aapd.org/join-our-team/)
 * [Join AAPD](https://www.aapd.org/about/about-aapd/membership-join/)
 * [Login](https://online.aapd.org/aapdssa/censsareqauth?p_vc=ADAGE&p_url=https%3a%2f%2fwww.aapd.org%2fterms-of-use%2f%3Fp_aa_token=__AUTHTOKEN__)
 
@@ -224,8 +222,6 @@ Chicago, IL 60611
 (312) 337-2169
 
 [Contact Us](https://www.aapd.org/contact-us/)
-
-[Careers](https://www.aapd.org/join-our-team/)
 
 [Advertising](https://www.aapd.org/publications/advertising/)
 
