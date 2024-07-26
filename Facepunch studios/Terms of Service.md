@@ -38,7 +38,9 @@ Open Menu Close Menu
 ---------
 
 All of our legal documents are available on Github with revision history.  
-If you require non-legal, customer support please visit our [support portal](https://rust.facepunch.com/support)
+If you require non-legal customer support including reporting webpages that infringe our terms and conditions and require taking down please visit our [support portal](https://rust.facepunch.com/support)
+
+[Contact Legal](mailto: legal@facepunchstudios.com?)
 
 [View on Github](https://github.com/Facepunch/Legal)
 
