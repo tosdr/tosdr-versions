@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
+* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
+* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
     
-* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
+* [How to protect your data against WannaCry or ...](https://www.backup4all.com/how-to-protect-your-data-against-wannacry-or-other-ransomware-attack-kb.html)  
     
-* [General - FAQ](https://www.backup4all.com/general-faq-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
 
 Choose language:
