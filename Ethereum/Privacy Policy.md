@@ -5,7 +5,7 @@
 Search
 
 1. [Home](https://ethereum.org/en/)/
-2. [Privacy policy](https://ethereum.org/en/privacy-policy/)
+2. Privacy policy
 
 Page last updated: April 18, 2024
 
@@ -247,7 +247,7 @@ YesNo
     
     * [Privacy Policy](#privacy-policy)
 
-Website last updated: July 10, 2024
+Website last updated: July 24, 2024
 
 Go to top
 
