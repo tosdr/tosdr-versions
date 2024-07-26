@@ -1,24 +1,24 @@
 📊 Now LIVE: [**2024 Q2 Crypto Industry Report**](https://bit.ly/2024-q2-crypto-report)
 
-Coins: [14,912](https://www.coingecko.com/)
+Coins: [14,951](https://www.coingecko.com/)
 
-Exchanges: [1,159](https://www.coingecko.com/en/exchanges)
+Exchanges: [1,160](https://www.coingecko.com/en/exchanges)
 
-Market Cap: [$2.549T](https://www.coingecko.com/en/global-charts) 1.0%
+Market Cap: [$2.515T](https://www.coingecko.com/en/global-charts) 3.9%
 
-24h Vol: [$110.291B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$101.765B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 51.6%](https://www.coingecko.com/en/global-charts) [ETH 16.6%](https://www.coingecko.com/en/global-charts)
+[BTC 52.8%](https://www.coingecko.com/en/global-charts) [ETH 15.5%](https://www.coingecko.com/en/global-charts)
 
-Gas: 5 GWEI
+Gas: 4 GWEI
 
 Fast: 6 GWEI
 
-Standard: 5 GWEI
+Standard: 4 GWEI
 
-Safe: 4 GWEI
+Safe: 3 GWEI
 
 Data by Etherscan
 
@@ -50,7 +50,7 @@ Sign Out
 
 Login
 
-Sign Up
+Sign up
 
  [![CoinGecko](https://static.coingecko.com/s/coingecko-logo-8903d34ce19ca4be1c81f0db30e924154750d208683fad7ae6f2ce06c76d0a56.png) ![CoinGecko](https://static.coingecko.com/s/coingecko-logo-white-ea42ded10e4d106e14227d48ea6140dc32214230aa82ef63d0499f9c1e109656.png)](https://www.coingecko.com/)[Use App](https://coingecko.app.link/lTInCXLGz4)
 
@@ -687,7 +687,7 @@ ZH-TW
 
 繁體中文
 
-Login Sign Up
+Login Sign up
 
 Login to track your favorite coin easily 🚀
 
