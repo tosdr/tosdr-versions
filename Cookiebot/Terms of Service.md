@@ -20,7 +20,7 @@ Partners
 
 Resources
 
-[Blog](https://www.cookiebot.com/en/blog/) [Digital Markets Act Hub](https://www.cookiebot.com/en/digital-markets-act-dma-resources/) [Google Consent Mode Hub](https://www.cookiebot.com/en/google-consent-mode-resources/)
+[Blog](https://www.cookiebot.com/en/blog/) [Digital Markets Act Hub](https://www.cookiebot.com/en/digital-markets-act-dma-resources/) [Google Consent Mode Hub](https://www.cookiebot.com/en/google-consent-mode-resources/) [Consent Mode V2 Certification](https://www.cookiebot.com/en/consent-mode-v2/)
 
 [Pricing](https://www.cookiebot.com/en/pricing/)
 
