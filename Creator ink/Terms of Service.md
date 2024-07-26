@@ -69,6 +69,7 @@ icon-X Close menu
         
     
 * [Sale](https://creatorink.com/collections/evergreen-sale-collection)
+* [Work With Us](https://creatorink.com/pages/work-with-us)
 * [Log in](https://creatorink.com/account)
     
 
@@ -174,6 +175,7 @@ icon-X Close menu
     * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
     
 * [Sale](https://creatorink.com/collections/evergreen-sale-collection)
+* [Work With Us](https://creatorink.com/pages/work-with-us)
 
 [account Log in](https://creatorink.com/account) [icon-search Search](https://creatorink.com/search) icon-hamburger Site navigation [icon-bag-minimalCart](https://creatorink.com/cart)
 
@@ -417,11 +419,10 @@ About
 About
 
 * [About Us](https://creatorink.com/pages/about)
-* [News & Blog](https://creatorink.com/blogs/news)
-* [Business Inquiries](https://creatorink.com/pages/contact)
+* [Work With Us](https://creatorink.com/pages/contact)
 * [Ink Studios Animation Services](https://creatorinkstudios.com/)
 * [7 Gates ARG](https://creatorink.com/pages/7-gates-arg)
-* [Earth Day 2023](https://creatorink.com/blogs/news/earth-day-2023-donation)
+* [News & Blog](https://creatorink.com/blogs/news)
 
 Sign up and save
 ----------------
