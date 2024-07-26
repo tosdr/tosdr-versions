@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Signature Series Ryokucha Keyboard
+[SCUF ENVISION PRO Wireless Gaming Controller
 
-Careful—it’s still hot.
+A console-style controller for PCs.
 
-Shop Now
+SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-ryokucha-keyboard)
+_keyboard\_arrow\_right_](https://drop.com/buy/scuf-envision-pro-wireless-gaming-controller-for-pc-refurbished)
 
 Free Standard Shipping in the US on orders over $99
 
