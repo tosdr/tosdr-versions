@@ -281,6 +281,7 @@ Copyright 2024 CobbleStone Software. All rights reserved. [Privacy Policy.](http
         * [Search CobbleStone Partners](https://partners.cobblestonesoftware.com/Find_local_resources_by_location/)
     * [Attestations](https://www.cobblestonesoftware.com/company/attestations)
     * [Careers](https://www.cobblestonesoftware.com/company/careers)
+    * [CSR](https://www.cobblestonesoftware.com/csr)
     * [Investors](https://www.cobblestonesoftware.com/company/investor-relations)
 * [Blog](https://www.cobblestonesoftware.com/blog)
 
