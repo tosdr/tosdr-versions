@@ -228,7 +228,7 @@ Follow Us
 
 © 2024 Cornell University
 
-Cancel ×
+Close ×
 
 Search this website  
 
