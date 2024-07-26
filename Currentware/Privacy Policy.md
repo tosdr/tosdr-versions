@@ -31,12 +31,11 @@
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
-        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
         * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
         * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
         * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
         * [Security Compliance](https://www.currentware.com/solutions/compliance/)
-        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+        * [Workforce Optimization](https://www.currentware.com/solutions/workforce-optimization-software/)
     * [By Industry](https://www.currentware.com/solutions/#industry)
         * [Financial Services](https://www.currentware.com/industries/financial-services/)
         * [Government](https://www.currentware.com/industries/government/)
@@ -110,12 +109,11 @@
         * [Data Loss Prevention](https://www.currentware.com/solutions/data-loss-prevention/)
         * [Employee Investigations](https://www.currentware.com/solutions/employee-investigation/)
         * [Employee Productivity](https://www.currentware.com/solutions/employee-productivity/)
-        * [Endpoint Security](https://www.currentware.com/solutions/endpoint-security/)
         * [Insider Threats](https://www.currentware.com/solutions/insider-threat-detection/)
         * [Internet Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
         * [Remote Workforce](https://www.currentware.com/solutions/remote-workforce/)
         * [Security Compliance](https://www.currentware.com/solutions/compliance/)
-        * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
+        * [Workforce Optimization](https://www.currentware.com/solutions/workforce-optimization-software/)
     * [By Industry](https://www.currentware.com/solutions/#industry)
         * [Financial Services](https://www.currentware.com/industries/financial-services/)
         * [Government](https://www.currentware.com/industries/government/)
@@ -344,7 +342,7 @@ Canada
 
 We have procedures in place to receive and respond to complaints or inquiries about our handling of personal information, our compliance with this policy, and with applicable privacy laws. To discuss our compliance with this policy please contact us using the contact information listed above.
 
-![](data:image/gif;nitro-empty-id=NjQ0OjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;nitro-empty-id=NjQyOjEwOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 CurrentWare's data loss prevention, productivity, and security software gives you advanced control and visibility over technology use in your organization
 
@@ -366,7 +364,6 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
     * [Security Compliance](https://www.currentware.com/solutions/compliance/)
     * [Staff Investigations](https://www.currentware.com/solutions/employee-investigation/)
     * [User Activity Monitoring](https://www.currentware.com/solutions/user-activity-monitoring/)
-    * [Web Filtering](https://www.currentware.com/web-filter/)
     * [Web Management](https://www.currentware.com/solutions/workplace-internet-filtering-monitoring-software/)
     * [More Solutions](https://www.currentware.com/solutions/)
 * Learn
@@ -415,9 +412,9 @@ CurrentWare's data loss prevention, productivity, and security software gives yo
 
 [Terms of Service](https://www.currentware.com/terms-of-service/)
 
- [![](data:image/gif;nitro-empty-id=NzM0OjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzM1OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzM2OjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzM3OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
+ [![](data:image/gif;nitro-empty-id=NzMxOjIzMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/CurrentWareInc/)[![](data:image/gif;nitro-empty-id=NzMyOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/currentware)[![](data:image/gif;nitro-empty-id=NzMzOjIzMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/Currentware)[![](data:image/gif;nitro-empty-id=NzM0OjIyMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/CurrentWare)
 
-![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzU0OjIzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![CurrentWare Privacy Policy](data:image/svg+xml;nitro-empty-id=NzUxOjIzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5IDEyOCIgd2lkdGg9IjEyOSIgaGVpZ2h0PSIxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 This website uses cookies to improve your user experience. By using our website, you consent to all cookies in accordance with our [Privacy Policy](https://www.currentware.com/privacy-policy/)
 
