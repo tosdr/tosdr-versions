@@ -220,7 +220,7 @@ If you visit our website from an external source (such as a link on another webs
 
 ### 2.4. Information from third parties
 
-We collect your personal information from third parties, where you give permission to those third parties to share your information with us, where such information is publicly available online or through your device/browser data. For full details on how third parties share your information with us please check out third parties privacy policy.
+We collect your personal information from third parties, where you give permission to those third parties to share your information with us, where such information is publicly available online or through your device/browser data. forms.app also collects information through authentications when you connect it with other applications. We do not use Google Workplace APIs to develop, improve, or train generalized AI and/or ML models.
 
 3- How we use the information we collect
 ----------------------------------------
@@ -295,7 +295,7 @@ Services are not intended for and may not be used by minors. “Minors” are in
 
 If you have any questions about Policy, you may contact us using this [**form**](https://my.forms.app/forms/your-privacy-rights)**.** You can also contact us via **[\[email protected\]](https://forms.app/cdn-cgi/l/email-protection)**
 
-**Last updated on July 2022**
+**Last updated on July 2024**
 
 #### Power your next form with forms.app
 
