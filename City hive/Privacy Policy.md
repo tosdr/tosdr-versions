@@ -36,7 +36,7 @@
     
     [Login](http://merchants.cityhive.net/)
     
-    [Sign Up](https://onboarding.cityhive.net/signup)
+    [Sign Up](https://merchants.cityhive.net/signup.html?mref=cityhive)
     
     [Get a Demo](https://www.cityhive.net/retailers/get-a-demo)
     
@@ -108,7 +108,7 @@ X
     * [Distributors](https://www.cityhive.net/distributors/get-a-demo)
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
-    * [Merchants](https://merchants.cityhive.net/signup.html)
+    * [Merchants](https://merchants.cityhive.net/signup.html?mref=cityhive)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 * Get A Demo
@@ -116,7 +116,7 @@ X
     * [Distributors](https://www.cityhive.net/distributors/get-a-demo)
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
-    * [Merchants](https://merchants.cityhive.net/signup.html)
+    * [Merchants](https://merchants.cityhive.net/signup.html?mref=cityhive)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 Privacy Policy
