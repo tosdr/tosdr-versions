@@ -34,7 +34,7 @@ Free - Google Play
         * [Accounting
             
             Reports and tools to track money in and out, so you know where you stand](https://www.freshbooks.com/accounting)
-        * [Expenses & Receipts
+        * [Expenses and Receipts
             
             Easily log expenses and receipts to ensure your books are always tax-time ready](https://www.freshbooks.com/expenses-and-receipts-tracking)
         * [Reports
@@ -137,7 +137,7 @@ Free - Google Play
         * [Accounting
             
             Reports and tools to track money in and out, so you know where you stand](https://www.freshbooks.com/accounting)
-        * [Expenses & Receipts
+        * [Expenses and Receipts
             
             Easily log expenses and receipts to ensure your books are always tax-time ready](https://www.freshbooks.com/expenses-and-receipts-tracking)
         * [Reports
@@ -435,7 +435,7 @@ English
     * [About Us](https://www.freshbooks.com/about)
     * [Our Story](https://www.freshbooks.com/about/ourstory)
     * [Careers](https://www.freshbooks.com/careers)
-    * [Diversity & Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
+    * [Diversity and Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
     * [Press Center](https://www.freshbooks.com/press)
     * [Contact](https://www.freshbooks.com/contact)
     * [Blog](https://www.freshbooks.com/blog/)
