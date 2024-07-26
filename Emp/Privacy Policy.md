@@ -156,13 +156,11 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/extra-sale/)
+[](https://www.emp.de/bekleidung/?pmid=SAM-1699_20per_3999_EUR_listing)
 
-Black Deals Reloaded
+Ab auf den Acker!
 
-\-50%\*
-
-[Jetzt sparen!](https://www.emp.de/extra-sale/ "Jetzt sparen!")
+[Jetzt sparen!](https://www.emp.de/bekleidung/?pmid=SAM-1699_20per_3999_EUR_listing "Jetzt sparen!") Code **SAVE20** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
