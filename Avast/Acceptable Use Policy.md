@@ -27,7 +27,7 @@
     
     Blogs
 
-*  ![](/content/dam/avast/flag/en-ww.svg) Worldwide (English)
+*  ![](/content/dam/avast/flag/enww.svg) Worldwide (English)
 
 * Security Security
     
@@ -517,7 +517,7 @@ Europe, Middle East & Africa
 
  [![Europe (English)](/content/dam/avast/flag/en-eu.svg) Europe (English)](https://www.avast.com/en-eu/acceptable-use-policy)
 
- [![Worldwide (English)](/content/dam/avast/flag/en-ww.svg) Worldwide (English)](https://www.avast.com/acceptable-use-policy)
+ [![Worldwide (English)](/content/dam/avast/flag/enww.svg) Worldwide (English)](https://www.avast.com/acceptable-use-policy)
 
 Asia & Pacific
 
@@ -529,7 +529,7 @@ Asia & Pacific
 
  [![Europe (English)](/content/dam/avast/flag/en-eu.svg) Europe (English)](https://www.avast.com/en-eu/acceptable-use-policy)
 
- [![Worldwide (English)](/content/dam/avast/flag/en-ww.svg) Worldwide (English)](https://www.avast.com/acceptable-use-policy)
+ [![Worldwide (English)](/content/dam/avast/flag/enww.svg) Worldwide (English)](https://www.avast.com/acceptable-use-policy)
 
 Acceptable Use Policy For Our Solutions
 =======================================
@@ -566,17 +566,9 @@ This Acceptable Use Policy (this “_Policy_”) describes prohibited uses of so
 
 [Please click here to view other Acceptable Use Policy (including archived versions)](https://www.avast.com/acceptable-use-policy-legacy)
 
-![](/content/dam/avast/logo/Chrome.svg)
-
-#### Avast recommends using the FREE Chrome™ internet browser.
-
-[Download Chrome](https://www.google.com/chrome/)
-
- [![Button Store](/content/dam/avast/features/en/Google-Play.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome)[![Button Store](/content/dam/avast/features/en/App-Store.svg)](https://apps.apple.com/us/app/google-chrome/id535886823)
-
 ![avast.](/content/dam/avast/logo/avast-logo-inverse.svg)
 
- ![](/content/dam/avast/flag/en-ww.svg) Worldwide (English)
+ ![](/content/dam/avast/flag/enww.svg) Worldwide (English)
 
  [![Facebook](/content/dam/avast/icon/Facebook.svg)](https://www.facebook.com/avast)[![Instagram](/content/dam/avast/icon/Instagram.svg)](https://www.instagram.com/avast)[![Twitter](/content/dam/avast/icon/32/Twitter.svg)](https://twitter.com/Avast)[![YouTube](/content/dam/avast/icon/32/YouTube.svg)](https://www.youtube.com/avast)
 
