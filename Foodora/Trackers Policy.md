@@ -198,6 +198,8 @@ SuomiSwedish
     
 * [foodora app](https://www.foodora.fi/en/contents/app)
     
+* [All cities in Finland](https://www.foodora.fi/en/city)
+    
 
 [](https://www.instagram.com/foodora.fi)
 
