@@ -54,11 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Biden Out](https://www.breitbart.com/tag/joe-biden/)
-* [Global IT Outage](https://www.breitbart.com/news/8-5-million-computers-running-windows-affected-by-faulty-update-from-crowdstrike/)
-* [Trump Assassination Attempt](https://www.breitbart.com/tag/secret-service/)
+* [Kamala Coronation](https://www.breitbart.com/tag/kamala-harris/)
+* [Cheatle Resigns](https://www.breitbart.com/tag/secret-service/)
 * [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
-* [Israel Strikes Yemen](https://www.breitbart.com/middle-east/)
+* [Netanyahu in D.C.](https://www.breitbart.com/tag/benjamin-netanyahu/)
+* [Global IT Outage Fallout](https://www.breitbart.com/tag/crowdstrike/)
 
 Terms of Use
 ============
