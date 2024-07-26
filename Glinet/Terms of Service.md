@@ -234,7 +234,7 @@ Software updates for any security vulnerabilities will still be supported for tw
     
     **GL Tech (HK) Ltd**: [#601, 5W, Hong Kong Science Park, N.T. Hong Kong](https://maps.app.goo.gl/HjZEPZUG62zDWhnG7)
     
-    **GL Intelligence, Inc.**: [Suite 215, 10400 Eaton Place, Fairfax, VA 22030](https://maps.app.goo.gl/zznGmHmaxw54QfhH7)
+    **GL Intelligence, Inc.**: [10400 Eaton Place, Suite 215, Fairfax, VA 22030](https://maps.app.goo.gl/zznGmHmaxw54QfhH7)
     
 
 [![glinet biz logo](https://static.gl-inet.com/www/images/home/logo/biz-group_logo.png)](https://www.glinet.biz/)
