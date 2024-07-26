@@ -1,6 +1,6 @@
 [](https://www.digminecraft.com/hpot.php)
 
-Advertisements
+Advertisement
 
 DigMinecraft
 
@@ -86,7 +86,7 @@ Share on:
 
 [](https://x.com/share?url=https%3A%2F%2Fwww.digminecraft.com%2Fterms_of_service.php&via=dig_minecraft&text=Currently+reading+-+Terms+of+Service+at&hashtags=minecraft "Tweet this")[](https://fb.com/sharer/sharer.php?u=https%3A%2F%2Fwww.digminecraft.com%2Fterms_of_service.php "Add to Facebook")
 
-Advertisements
+Advertisement
 
 [Home](https://www.digminecraft.com/index.php) | [About Us](https://www.digminecraft.com/about_us.php) | [Contact Us](https://www.digminecraft.com/feedback.php) | [Donate](https://www.digminecraft.com/donate.php)
 
