@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=484230559344334&ev=PageView&noscript=1)               [Skip to content](#content)
+![](https://www.facebook.com/tr?id=484230559344334&ev=PageView&noscript=1)                [Skip to content](#content)
 
 [Want to learn about the Crowdmark advantage in your classroom? **Click here for training, tool tips and more!**](https://crowdmark.com/help/training-webinars/)
 
