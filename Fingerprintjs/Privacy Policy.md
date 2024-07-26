@@ -22,7 +22,7 @@ GETTING STArted
 ---------------
 
 * [Quick Start Guide](https://dev.fingerprintjs.com/docs/quick-start-guide)
-* [Playground](https://demo.fingerprint.com/)
+* [Playground](https://demo.fingerprint.com/playground)
 * [Use cases](https://demo.fingerprint.com/)
 
 Understanding Fingerprint
@@ -47,7 +47,7 @@ Identify browsers
     * [JavaScript agent placement](https://dev.fingerprintjs.com/docs/js-agent-placement)
     * [Preloading the JavaScript agent](https://dev.fingerprintjs.com/docs/js-agent-preloading)
     * [API preconnect](https://dev.fingerprintjs.com/docs/api-preconnect)
-    * [Content Security Policy (CSP)](https://dev.fingerprintjs.com/docs/js-agent-csp)
+    * [Configure Content Security Policy (CSP)](https://dev.fingerprintjs.com/docs/js-agent-csp)
 * [Frontend libraries](https://dev.fingerprintjs.com/docs/frontend-libraries)
     * [Angular SDK](https://dev.fingerprintjs.com/docs/angular)
     * [Google Chrome Extension](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-and-chrome-extension)
@@ -75,7 +75,7 @@ Identify mobile devices
 Protect your implementation
 ---------------------------
 
-* [Protecting the JavaScript agent from ad blockers](https://dev.fingerprintjs.com/docs/protecting-the-javascript-agent-from-adblockers)
+* [Evading ad blockers (Proxy integrations)](https://dev.fingerprintjs.com/docs/protecting-the-javascript-agent-from-adblockers)
     * [Custom subdomain setup](https://dev.fingerprintjs.com/docs/custom-subdomain-setup)
     * [Cloudflare Proxy Integration](https://dev.fingerprintjs.com/docs/cloudflare-integration)
         * [Cloudflare Proxy Integration — Blocking Origins and IPs](https://dev.fingerprintjs.com/docs/cloudflare-integration-blocking-ips-and-origins)
@@ -84,9 +84,8 @@ Protect your implementation
     * [Fastly VCL Proxy Integration](https://dev.fingerprintjs.com/docs/fastly-vcl-proxy-integration)
     * [Akamai Proxy Integration](https://dev.fingerprintjs.com/docs/akamai-proxy-integration)
     * [Azure Proxy Integration](https://dev.fingerprintjs.com/docs/azure-proxy-integration)
-* [Request filtering for browsers](https://dev.fingerprintjs.com/docs/request-filtering)
-    * [Search Bots Filtering](https://dev.fingerprintjs.com/docs/search-bots-filtering)
-* [Request Filtering for mobile apps](https://dev.fingerprintjs.com/docs/mobile-app-filtering)
+* [Protecting from client-side tampering and replay attacks](https://dev.fingerprintjs.com/docs/protecting-from-client-side-tampering)
+* [Request filtering](https://dev.fingerprintjs.com/docs/request-filtering)
 
 Integrate with your server
 --------------------------
@@ -117,7 +116,6 @@ Integrate Smart Signals
 * [Smart Signals Cheat Sheet](https://dev.fingerprintjs.com/docs/smart-signals-cheat-sheet)
 * [Suspect Score](https://dev.fingerprintjs.com/docs/suspect-score)
 * [Browser Bot Detection](https://dev.fingerprintjs.com/docs/bot-detection-quick-start-guide)
-* [Incognito / private mode detection](https://dev.fingerprintjs.com/docs/incognito-private-mode-detection)
 
 Tips & Advanced Guides
 ----------------------
@@ -137,10 +135,8 @@ resources
 * [Glossary](https://dev.fingerprintjs.com/docs/glossary)
 * [Updating from previous JS agent versions](https://dev.fingerprintjs.com/docs/migrating-from-previous-versions)
     * [Determine the Fingerprint Agent version](https://dev.fingerprintjs.com/docs/determine-the-fingerprint-pro-version)
-    * [Identify your version of FingerprintJS](https://dev.fingerprintjs.com/docs/determine-the-open-source-fingerprintjs-version)
     * [From Fingerprint v3](https://dev.fingerprintjs.com/docs/migrating-from-pro-v3)
-    * [From (source-available) FingerprintJS v4](https://dev.fingerprintjs.com/docs/migrating-from-source-available-v4)
-    * [From FingerprintJS Open-Source v3](https://dev.fingerprintjs.com/docs/migrating-from-open-source-v3)
+* [Migrating from FingerprintJS to Fingerprint Pro](https://dev.fingerprintjs.com/docs/migrating-from-fingerprintjs-to-fingerprint-pro)
 
 Legal
 -----
@@ -657,7 +653,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated 15 days ago
+Updated 18 days ago
 
 * * *
 
