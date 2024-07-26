@@ -45,7 +45,7 @@ Open/close search
     * [Dropbox Backup](https://help.dropbox.com/backup)
     * [Dropbox Capture](https://help.dropbox.com/capture)
     * [Dropbox Sign](https://help.dropbox.com/sign)
-    * [Dropbox Dash](https://dash.dropbox.com/help-center.html)
+    * [Dropbox Dash](https://help.dropbox.com/dash)
     
     * [Dropbox Passwords](https://help.dropbox.com/passwords)
     * [Dropbox Replay](https://help.dropbox.com/replay)
@@ -148,9 +148,9 @@ Thanks for your feedback!
 
 * [When I try to upload content using the website, nothing happens.](https://www.dropboxforum.com/t5/Create-upload-and-share/When-I-try-to-upload-content-using-the-website-nothing-happens/td-p/782184)
     
-    Posted by: rbkeep 13 days ago
+    Posted by: rbkeep 15 days ago
     
-    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 3632
+    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 4263
     
     ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-chat.svg) 8
     
