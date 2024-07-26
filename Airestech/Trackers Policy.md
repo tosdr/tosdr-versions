@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
+[BACK TO SCHOOL W/ 20% OFF GO & FLEX Use code: BTS20 BACK TO SCHOOL W/ 20% OFF GO & FLEX Use code: BTS20](https://www.airestech.com/pages/store)
 
     
 
