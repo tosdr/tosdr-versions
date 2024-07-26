@@ -17,8 +17,8 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ticket and a Tee pack!** Get a ticket and a Team USA Minions T-Shirt!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $5 on The X Trilogy Bundle** When you buy a ticket to MaXXXine
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
@@ -210,14 +210,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/29bffed0-4840-11ef-8321-2b978811c524--fan-globalofferunit-homepage-applepay-week3-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
-    
-    ### APPLE PAY WEDNESDAY
-    
-    Get $5 off your ticket purchase on 7/24, with Apple Pay to any movie. Limited quantity. Terms Apply.
-    
-    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
-    
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
     ### GET DEADPOOL'S PREMIUM PACKAGE
@@ -226,13 +218,13 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [NBC'S PARIS OLYMPICS OPENING CEREMONY image link ![NBC'S PARIS OLYMPICS OPENING CEREMONY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/25eae180-34e5-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-imaxolympicsoc-292x118.png)](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer) 
+* [RYAN'S WORLD THE MOVIE: HERO BUNDLE image link ![RYAN'S WORLD THE MOVIE: HERO BUNDLE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5adbc0-4ab3-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-ryansworld-292x118.png)](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer) 
     
-    ### NBC'S PARIS OLYMPICS OPENING CEREMONY
+    ### RYAN'S WORLD THE MOVIE: HERO BUNDLE
     
-    Get tickets now to watch in IMAX Theatres!
+    Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
     
-    [BUY NOW](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer)
+    [BUY NOW](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer)
     
 * [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
     
@@ -242,31 +234,39 @@ Offers
     
     [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
     
+* [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/7452f0a0-4544-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-amcminions-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer) 
+    
+    ### TICKET AND A TEE PACK!
+    
+    Get a ticket to see the Paris Olympics NBCU Watch Party at AMC Theatres, plus a Team USA Minions T-Shirt.
+    
+    [BUY NOW](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer)
+    
 
 New & Coming soon
 -----------------
 
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234517/DM4_Adv1Sheet3_MegaJerry_RGB_4.jpg)
-    
-    Despicable Me 4 (2024)](https://www.fandango.com/despicable-me-4-2024-234517/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234525/TWS_Adv1Sheet9_RGB_3.jpg)
-    
-    Twisters (2024)](https://www.fandango.com/twisters-2024-234525/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234516/DeapoolAndWolverine_2024.jpg)
     
     Deadpool & Wolverine (2024)](https://www.fandango.com/deadpool-and-wolverine-2024-234516/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235049/LONGLEGS_Official_Poster_Full.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235201/FND_poster_Borderlands-Presale.jpg)
     
-    Longlegs (2024)](https://www.fandango.com/longlegs-2024-235049/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234178/insideout2-posterart.jpg)
+    Borderlands (2024)](https://www.fandango.com/borderlands-2024-235201/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234525/TWS_Adv1Sheet9_RGB_3.jpg)
     
-    Inside Out 2 (2024)](https://www.fandango.com/inside-out-2-2024-234178/movie-overview)
+    Twisters (2024)](https://www.fandango.com/twisters-2024-234525/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234517/DM4_Adv1Sheet3_MegaJerry_RGB_4.jpg)
+    
+    Despicable Me 4 (2024)](https://www.fandango.com/despicable-me-4-2024-234517/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236076/FND_poster_ItEndsWithUs-Presale.jpg)
+    
+    It Ends With Us (2024)](https://www.fandango.com/it-ends-with-us-2024-236076/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236332/FND_poster_Trap-Presale.jpg)
     
     Trap (2024)](https://www.fandango.com/trap-2024-236332/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234520/AQPD1_DOM_Online_Payoff_1-Sheet_05_FIN8A.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235049/LONGLEGS_Official_Poster_Full.jpg)
     
-    A Quiet Place: Day One (2024)](https://www.fandango.com/a-quiet-place-day-one-2024-234520/movie-overview)
+    Longlegs (2024)](https://www.fandango.com/longlegs-2024-235049/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234532/FND_poster_AlienRomulus-Presale.jpg)
     
     Alien: Romulus (2024)](https://www.fandango.com/alien-romulus-2024-234532/movie-overview)
@@ -340,16 +340,6 @@ New & Coming soon
 
 © 2024 Fandango
 
-### Special Event
-
-Close
-
-![NBC's Paris Olympics Opening Ceremony](https://images.fandango.com/cms/assets/d46e0530-3313-11ef-a07e-5b03d6159fe4--fan-globalnavbar-imaxolympicsoc-343x362.jpg)
-
-#### Get tickets to see the 2024 Olympics Opening Ceremony in IMAX Theaters!
-
-[Buy Tickets](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_GlobalNav)
-
 ### Get Deadpool's Premium Package Today!
 
 Close
@@ -359,6 +349,16 @@ Close
 #### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
+
+### Special Offer
+
+Close
+
+![Ryan's World the Movie: Hero Bundle](https://images.fandango.com/cms/assets/bb2ecd30-4ab4-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-ryansworld-343x362.jpg)
+
+#### Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
+
+Ryan's World the Movie: Hero Bundle and movie tickets are non-refundable and non-exchangeable. Limited time offer. While supplies last. Must be 18 or older to purchase. See Offer Terms for full details. Offer terms can link to: https://ryansworldthemovie.fandango.egifter.com/offer-terms Legal Line: © 2024 Sunlight Entertainment, LLC. Ryan's World and all related titles, logos and characters are trademarks of RTR Production, LLC, RFR Entertainment, Inc., and Remka, Inc. All rights reserved. The pocket.watch logo and all associated intellectual property are trademarks of PocketWatch, Inc. All Rights Reserved. Legal Line Abbreviated: TM & ©2024 Sunlight Entertainment, LLC, RTR Production, LLC, RFR Entertainment, Inc., REMKA, Inc. and PocketWatch, Inc. All Rights Reserved. [Buy Now](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_promomodule)
 
 ### Ticket and a Tee Pack!
 
