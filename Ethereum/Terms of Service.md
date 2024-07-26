@@ -5,7 +5,7 @@
 Search
 
 1. [Home](https://ethereum.org/en/)/
-2. [Terms of use](https://ethereum.org/en/terms-of-use/)
+2. Terms of use
 
 Page last updated: August 15, 2023
 
@@ -160,7 +160,7 @@ YesNo
     
     * [Terms of Use](#terms-of-use)
 
-Website last updated: July 10, 2024
+Website last updated: July 24, 2024
 
 Go to top
 
