@@ -145,11 +145,11 @@ Enter your email address to receive our monthly newsletter, the
 
 [News](https://www.fsf.org/news)
 
+ [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Let's not celebrate CrowdStrike -- let's point to a better way Jul 24, 2024](https://www.fsf.org/news/lets-not-celebrate-crowdstrike-lets-point-to-a-better-way)
+
  [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three highly qualified board members Jun 26, 2024](https://www.fsf.org/news/fsf-adds-3-highly-qualified-board-members)
 
  [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three provisional board members Jun 03, 2024](https://www.fsf.org/news/fsf-adds-three-provisional-board-members)
-
- [![News Item object code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Awards winners announced: Bruno Haible, code.gouv.fr, Nick Logozzo May 05, 2024](https://www.fsf.org/news/free-software-awards-winners-announced-bruno-haible-french-free-software-unit-nick-logozzo)
 
 [More news…](https://www.fsf.org/news)
 
@@ -157,13 +157,13 @@ Enter your email address to receive our monthly newsletter, the
 
 [Recent blogs](https://www.fsf.org/blogs/recent-blog-posts)
 
+[A world where software freedom has a fighting chance and hope exists](https://www.fsf.org/blogs/community/a-world-where-software-freedom-has-a-fighting-chance-and-hope-exists)
+
+[Help us meet our goal of thirty-three new associate members by July 26](https://www.fsf.org/blogs/community/help-us-meet-our-goal-of-thirty-three-new-associate-members-by-july-26)
+
 [Make a pledge to share free software with a friend](https://www.fsf.org/blogs/community/make-a-pledge-to-share-free-software-with-a-friend)
 
 [Spring Bulletin Issue 44 now online! Read and share it with your community](https://www.fsf.org/blogs/community/spring-bulletin-issue-44-now-online-read-and-share-it-with-your-community)
-
-[Share free software with your friends and colleagues](https://www.fsf.org/blogs/community/share-free-software-with-your-friends-and-colleagues)
-
-[The Licensing & Compliance Team, running at full steam for your freedom](https://www.fsf.org/blogs/community/the-licensing-compliance-team-running-at-full-steam-for-your-freedom)
 
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
