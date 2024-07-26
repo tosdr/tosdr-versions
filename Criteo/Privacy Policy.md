@@ -468,8 +468,8 @@ Popular topics
 * [Retail Media](https://www.criteo.com/ultimate-guide-to-retail-media/)
 * [Retargeting](https://www.criteo.com/digital-advertising-glossary/retargeting/)
 * [Customer Acquisition](https://www.criteo.com/digital-advertising-glossary/customer-acquisition/)
+* [Display Advertising](https://www.criteo.com/digital-advertising-glossary/display-advertising/)
 * [Customer Targeting](https://www.criteo.com/digital-advertising-glossary/customer-targeting/)
-* [App Advertising](https://www.criteo.com/digital-advertising-glossary/app-advertising/)
 
 [Contact Sales](https://www.criteo.com/talk-to-an-expert/)
 
