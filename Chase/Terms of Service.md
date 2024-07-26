@@ -203,7 +203,7 @@ With Chase for Business you’ll receive guidance from a team of business profes
 
 ### Investing by J.P. Morgan
 
-Whether you choose to work with a [financial advisor](https://www.chase.com/personal/investments/advisor-services) and develop a financial strategy or [invest online](https://www.chase.com/personal/investments/online-investing), J.P. Morgan offers [investment education](https://www.chase.com/personal/investments/learning-and-insights), expertise and a range of tools to help you reach your goals. Visit a J.P. Morgan [Wealth Management Branch](https://jpmorganwealthmanagement.chase.com/advisor) or check out our latest online investing [offers, promotions, and coupons](https://account.chase.com/consumer/investing/self-directedoffer).
+Partner with a global leader who puts your financial needs first. [Invest on your](https://account.chase.com/investing/sdifracshare) own or work with an [advisor](https://www.chase.com/personal/investments/advisor-services) — we have the [products](https://www.chase.com/personal/investments/product-overview), [technology](https://www.chase.com/personal/investments/digital-capabilities) and [investment education](https://www.chase.com/personal/investments/learning-and-insights), to help you grow your wealth. Visit a J.P. Morgan [Wealth Management Branch](https://jpmorganwealthmanagement.chase.com/advisor) or check out our latest online investing [offers, promotions, and coupons](https://account.chase.com/investing/sdifracshare).
 
 **INVESTMENT AND INSURANCE PRODUCTS ARE:**
 
