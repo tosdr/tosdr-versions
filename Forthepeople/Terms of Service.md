@@ -555,10 +555,6 @@ Results may vary depending on your particular facts and legal circumstances. ©2
 
 [![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
 
-### Subscribe to our newsletter
-
-       
-
 20 North Orange Ave, Suite 1600, Orlando, FL 32801  
 For a full list of locations in your area please visit our [Office Locations](https://www.forthepeople.com/office-locations/) page.
 
