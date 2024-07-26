@@ -99,20 +99,6 @@ Advertisement
 
 #### Trending
 
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/Screenshot-2024-05-13-at-11.03.24 PM-100x100.png)](https://www.gearedtoyou.com/unveiling-the-all-new-ferrari-296-challenge-on-track/)
-
-### Super Cars
-
-[Unveiling The All New Ferrari 296 Challenge On Track
-----------------------------------------------------](https://www.gearedtoyou.com/unveiling-the-all-new-ferrari-296-challenge-on-track/)
-
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/06/shutterstock_2424239551-100x100.jpg)](https://www.gearedtoyou.com/maserati-launched-mc20-icona-and-mc20-leggenda-special-editions/)
-
-### Super Cars
-
-[Maserati Launch MC20 Icona And MC20 Leggenda Special Editions
--------------------------------------------------------------](https://www.gearedtoyou.com/maserati-launched-mc20-icona-and-mc20-leggenda-special-editions/)
-
 [![](https://www.gearedtoyou.com/wp-content/uploads/2024/02/shutterstock_1893204925-100x100.jpg)](https://www.gearedtoyou.com/the-iconic-bmw-m5-enters-the-hybrid-arena/)
 
 ### Super Cars
@@ -133,6 +119,20 @@ Advertisement
 
 [Experience The Thrill Of The McLaren P1
 ---------------------------------------](https://www.gearedtoyou.com/experience-the-thrill-of-the-mclaren-p1/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/07/shutterstock_1858383070-100x100.jpg)](https://www.gearedtoyou.com/1991-porsche-911-carrera-2-targa-by-singer-is-up-for-auction/)
+
+### Super Cars
+
+[1991 Porsche 911 Carrera 2 Targa By Singer Is Up For Auction
+------------------------------------------------------------](https://www.gearedtoyou.com/1991-porsche-911-carrera-2-targa-by-singer-is-up-for-auction/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/06/shutterstock_716751211-100x100.jpg)](https://www.gearedtoyou.com/2011-ferrari-599-sa-aperta-to-be-sold-at-bonhams-auction/)
+
+### Super Cars
+
+[2011 Ferrari 599 SA Aperta To Be Sold At Bonhams Auction
+--------------------------------------------------------](https://www.gearedtoyou.com/2011-ferrari-599-sa-aperta-to-be-sold-at-bonhams-auction/)
 
 Advertisement
 
