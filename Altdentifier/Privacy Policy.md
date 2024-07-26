@@ -1,137 +1,192 @@
-[![](../static/cop.png)](https://altdentifier.com/?lang=en)
+   [![Double Counter - Discord Verification Bot | Alt Detector & VPN Blocker](https://doublecounter.gg/wp-content/uploads/2024/05/DCLOGOSQUARE7.png) ![Double Counter - Discord Verification Bot | Alt Detector & VPN Blocker](https://doublecounter.gg/wp-content/uploads/2024/05/DCLOGOSQUARE7.png) ![Double Counter - Discord Verification Bot | Alt Detector & VPN Blocker](https://doublecounter.gg/wp-content/uploads/2024/05/DCLOGOSQUARE7.png) ![Double Counter - Discord Verification Bot | Alt Detector & VPN Blocker](https://doublecounter.gg/wp-content/uploads/2024/05/DCLOGOSQUARE7.png)](https://doublecounter.gg/)
 
-[Invite](https://altdentifier.com/invite?ref=web) [Dashboard](https://altdentifier.com/dashboard?lang=en) [Blog](https://altdentifier.com/blog?lang=en) [FAQ](https://altdentifier.com/faq?lang=en) [Commands](https://altdentifier.com/commands?lang=en) [Status](https://altdentifier.com/status?lang=en) [Premium](https://altdentifier.com/premium?lang=en) [About](https://altdentifier.com/about?lang=en)
+* [Dashboard](https://dashboard.doublecounter.gg/)
+* [Invite Double Counter](https://discord.com/oauth2/authorize?client_id=703886990948565003&scope=bot&permissions=8)
+* [Double Counter Pro](https://doublecounter.gg/double-counter-pro/)
+* [Features and settings](https://doublecounter.gg/features-and-settings/)
+* [Documentation](https://docs.doublecounter.gg/)
+* [Articles](https://doublecounter.gg/category/uncategorized/)
+* [Support](https://discord.gg/doublecounter)
 
-[Get Support](https://altdentifier.com/support) Dark Theme
+[Get Started](https://invite.dcounter.space/)
 
-🇬🇧 English
+Supercharged data-powered Discord server protection.
+====================================================
 
-[🇩🇪 Deutsch](https://altdentifier.com/tos?lang=de) [🇪🇸 Español](https://altdentifier.com/tos?lang=es) [🇳🇱 Nederlands](https://altdentifier.com/tos?lang=nl) [🇵🇱 Polski](https://altdentifier.com/tos?lang=pl) [🇧🇷 Português (BR)](https://altdentifier.com/tos?lang=pt-br) [🇮🇹 Italiano](https://altdentifier.com/tos?lang=it) [🇹🇷 Türkçe](https://altdentifier.com/tos?lang=tr)
+We use millions of data points to effectively flag alt accounts, block raids and VPNs. Thanks to our privacy-respecting data-powered verification system, your Discord server is constantly protected against all kinds of threats. Since 2020.
 
-[Login](https://altdentifier.com/dlogin)
+[Invite Double Counter](https://discord.com/oauth2/authorize?client_id=703886990948565003&permissions=8&scope=bot&response_type=code&redirect_uri=https%3A%2F%2Fintegrations.tellter.com%2Forigin)
 
-AltDentifier TOS & Privacy Policy
-=================================
+[Support server](https://discord.gg/doublecounter)
 
-AltDentifier is a subsidiary of Tellter SAS. Tellter SAS is a company registered with the Paris company registry (SIREN Identification Number 899 727 606, Paris RCS), with a capital of 5,000 euros, located at 9 rue des Colonnes, 75002 Paris, France. The President, CEO and Publication Director is Nathan Lourenço, he can be contacted at this e-mail address: [\[email protected\]](https://altdentifier.com/cdn-cgi/l/email-protection).<br/>Please be aware that only our TOS in English is legally binding. While translations of these documents may be provided for your convenience, they are translated by the community and are thus not legal documents.
-=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+![Illustration of the Double Counter dashboard, providing detailed analytics on verifications, alts and VPN](https://doublecounter.gg/wp-content/uploads/2023/04/Screenshot-2023-04-30-at-21.53.33.png)
 
-Privacy Policy
-==============
+##### Trusted by over **350,000 communities** across discord, including large businesses
 
-Your privacy is very important to AltDentifier, and we will ensure protecting your privacy when using our services.  
-  
-We ask for your personal information to ensure the smooth operation of AltDentifier services. AltDentifier is a social media verification platform, and as such will request and share information about your profile on these platforms with others.  
-  
-When verifying your account with AltDentifier, some information may be shared with staff members of chat-groups using AltDentifier services. This includes, but is not limited to the following information:  
-\* The total numbers of servers you are in  
-\* A username corresponding to the service you used to verify your account  
-\* Metrics about the account on the service you used to verify your account, these can include but are not limited to, the amount of tweets you have posted, or your Steam level.  
-\* Your browser status, indicating whether you have used a VPN when verifying with AltDentifier.  
-AltDentifier stores anonymized information about the services you connect with. While this data is linked to your AltDentifier account, the identifiers of the connection are irreversibly anonymized before storage with the SHA-512 hashing algorithm.Your IP Address is processed by IPHub.info, who ensure to periodically delete the data sent by us.  
-AltDentifier never stores your IP Address for later use.  
-  
-Furthermore, we collect analytical data for statistical and error reporting purposes, and the storing of configuration data neccesary for the operation of AltDentifier.In addition, we may employ third party integrations such as Google AdSense and Google Analytics for personalized advertisements, which uses cookie technology to provide targeted advertisements.Our automatic ad inventory is managed by https://venatusmedia.com. By using our services you agree that Venatus and their partners may place tracking cookies after your explicit consent has been given.We attempt to store your data outside of public access, in as safe a manner as we can realistically guarantee. However, due to the very nature of online data storage and transfer, we may not be able to meet this expectation, due to the fact that complete security is unobtainable.AltDentifier may be used by people not directly affiliated to us, and thus, we have no control over how they use AltDentifier, provided it is within reasonable terms.  
-  
-Verification of your account with AltDentifier constitutes agreement to our policies on data collection.If you do not accept this agreement, you are to leave any chat-group using AltDentifier services, and to never verify your account with AltDentifier. Not doing so will be regarded as accepting our policies.For more information on our privacy policy, inquiries on our data usage and requesting the removal or insight of your data, including any requests made under the GDPR or DMCA, contact us at [\[email protected\]](https://altdentifier.com/cdn-cgi/l/email-protection)
+![](https://doublecounter.gg/wp-content/uploads/2023/04/fallguys-logo-gray.png)
 
-  
+![](https://doublecounter.gg/wp-content/uploads/2023/04/microsoft-logo-gray-2.png)
 
-Terms of Service
-================
+![](https://doublecounter.gg/wp-content/uploads/2023/04/PewDiePie_logo_blue.png)
 
-Please read these Terms of Service completely using https://altdentifier.com, owned and operated by Tellter SAS. This agreement documents the legally binding terms and conditions attached to the use of the Site at altdentifier.com. By accessing and using this service, you accept and agree to be bound by the terms and provision of this agreement. In addition, when using these particular services, you shall be subject to any posted guidelines or rules applicable to such services. The AltDentifier service is not accessible to those under 13 years of age, and AltDentifier does not knowingly store personal information from children under the age of 13. Any participation in this service will constitute acceptance of this agreement. If you do not agree to abide by the above, please do not use this service.
+![](https://doublecounter.gg/wp-content/uploads/2023/04/IOTA_Logo.png)
 
-  
+![](https://doublecounter.gg/wp-content/uploads/2023/04/ubisoft_london-hero-logo-white-v2.png)
 
-### 1\. Liability
+![](https://doublecounter.gg/wp-content/uploads/2023/06/Elearning-Dot-Ornament.webp)
 
-This site and it's components are offered for informational purposes only; this site shall not be responsible or liable for the accuracy, usefulness or availability of any information transmitted or made available via the site, and shall not be responsible or liable for any error or omissions in that information.
+A word from the 3rd largest Discord server
+------------------------------------------
 
-  
+![Obscured (LimeWire AI - 1.8 million members)](https://doublecounter.gg/wp-content/uploads/2023/06/fiche-bluewillow.webp)
 
-### 2\. Intellectual Property
+### Obscured (LimeWire AI - 1.8 million members)
 
-The Site and its original content, features, and functionality are owned by Tellter SAS and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. All data generated and shared by AltDentifier in the past, present or future is property of AltDentifier and it's sole owners and must be transferred, removed or changed on request.
+### “Double Counter has earned the unwavering trust of BlueWillow AI. As a community driven by excellence, we rely on the bot to ensure the utmost security and reliability for our members. Its advanced features and robust alt detection system have consistently exceeded our expectations. \[...\] Experience the confidence and peace of mind that comes from choosing Double Counter for your Discord server.’
 
-  
+We eliminate any kind of threat.
+--------------------------------
 
-### 3\. Termination
+Using 20+ risk factors, 3 years of curated data and detailed threat modelling
 
-We may terminate your access to the Site, without cause or notice, which may result in the forfeiture and destruction of all information associated with your account. All provisions of this Agreement that, by their nature, should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability. You may also request to terminate your account yourself, to do this, submit a deletion request on our web panel. Using AltDentifier after termination will result in a new account being opened for you.
+![Raid & Automated Accounts](https://doublecounter.gg/wp-content/uploads/2024/05/raid.png)
 
-  
+#### Raid & Automated Accounts
 
-### 4\. Changes to the agreement
+Double Counter verifies all joining members by scanning their device information and adding an invisible housemade captcha.
 
-AltDentifier reserves the right to change these conditions from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms.
+![Alternate Accounts](https://doublecounter.gg/wp-content/uploads/2024/05/user.png)
 
-  
+#### Alternate Accounts
 
-### 5\. Warranty
+We developed an expertise in detecting alt accounts better than anyone else: we compare dozens of datapoints to make sure no alt account can escape.
 
-AltDentifier is provided "as is" with no warranty or liability for any outcomes of using AltDentifier and/or any content you may or may not interact with on AltDentifier, and you agree that AltDentifier is not liable for any events in the past, in current times or in the future. You agree to hold harmless against AltDentifier for every possible situation except for those we accept full responsibility off. AltDentifier is not responsible and will not take responsibility for the behaviour of other parties using AltDentifier.
+![VPN, Virtual Machines, Tor Nodes](https://doublecounter.gg/wp-content/uploads/2024/05/vpn.png)
 
-  
+#### VPN, Virtual Machines, Tor Nodes
 
-### 6\. Disputes
+Additionally, we work with top-notch data providers to cross check our own databases and flag VPN, proxies, Tor relays, virtual machines, and more.
 
-While using AltDentifier, certain situations may or may not develop which may cause you to file a dispute with us.  
-If you find yourself banned from our services, you must e-mail our contact mail to file an official appeals, or to request the reason for your ban. Appeals must be formally written and should include your Discord ID, proof of account ownership and a reason why your ban should be overturned.  
-If you wish to be forgotten by AltDentifier, you can submit a request at our web panel.  
-If you wish to submit a personal data request, you can submit a request at our web panel once per 24 hours.  
+Granular customization.
+-----------------------
 
-  
+Dozens of settings. Millions of possible configurations. Make Double Counter yours and tailor it to the needs of your business.
 
-### 7\. Other Links
+* Dozens of free settings
+* Auto-ban of alts, ping roles, database selection, and more
 
-Our Site does contain a number of links to other websites and online resources that are not owned or controlled by AltDentifier. AltDentifier has no control over, and therefore cannot assume responsibility for, the content or general practices of any of these third party sites and/or services. Therefore, we strongly advise you to read the entire terms and conditions and privacy policy of any site that you visit as a result of following a link that is posted on our site.
+* Fully-fledged dashboard
+* Different modes for different periods
 
-  
+![](https://doublecounter.gg/wp-content/uploads/2023/05/Screenshot-2023-05-01-at-02.40.42-e1682901767607.png)
 
-### 8\. Governing Law
+##### super fast process - keep your retention high
 
-This Agreement is governed in accordance with the laws of The Kingdom of The Netherlands.
+Three seconds.
+--------------
 
-  
+###### **That's all it takes to verify.**
 
-### 9\. Acknowledgement
+At Double Counter, we believe verification of Discord accounts should not take ages, require Discord login, or anything else.
 
-By using AltDentifier, you acknowledge all above Terms. You acknowledge that, even if you did not read the Terms in full, you will comply with our Terms.
+With Double Counter, you click a link and… well, that’s all. You’re now verified without any other button click or action.
 
-  
+Using Double Counter is a guarantee that your server security is as high as your retention rate, so you don’t have to worry about Discord Partner requirements and can focus on building what matters.
 
-### 10\. Contact
+[Invite Double Counter](https://invite.dcounter.space/)
 
-If you have any questions, requests or complaints about AltDentifier, please forward this to our staff using [\[email protected\]](https://altdentifier.com/cdn-cgi/l/email-protection). We will respond to these inquiries within 28 days. AltDentifier fully complies with GDPR Data Releasements and Data Deletion.
+![](https://doublecounter.gg/wp-content/uploads/2023/05/Screenshot-2023-05-01-at-18.02.59.png)
 
-  
+1.3 million users every month.
+------------------------------
 
-AltDentifier ChatGuard Terms of Service & Privacy Policy
-========================================================
+That’s how many we verify, with thousands of data points per user, to map the typical behaviors of alt accounts across the platform.
 
-The AltDentifier ChatGuard System, hereafter identified simply as ChatGuard, is a system that is developed by using KSoft.SI’s ChatWatch system for processing of text messages to determine toxicity and other harmful meanings conveyed. As such, your usage of the ChatGuard system is governed by it’s own separate Terms of Service and Privacy Policy, as well as [KSoft.SI’s Terms and Conditions and Privacy Policy](https://api.ksoft.si/terms-and-privacy/). By joining and conversing in any server using ChatGuard, you agree that AltDentifier processes your messages and forwards them to KSoft.SI’s ChatWatch system for analysis, thereby binding you to KSoft.SI’s Terms of Service and Privacy Policy in all manners that relate to the ChatWatch system and it’s employment by AltDentifier.
+[Invite Double Counter](https://invite.dcounter.space/)
 
-  
+#### Our 4 Principles To Guarantee Your Server Safety
 
-### Privacy Policy
+[Principle 01
 
-By employing or interacting with the ChatGuard system in a server using the ChatGuard system, AltDentifier and KSoft.SI may collect information that is sent to them as a result of using our services. AltDentifier and KSoft.SI will collect information from users in servers using the ChatGuard system. Information we may collect may include, but is not limited to user identifiers, channel identifiers, server identifiers and message content. You agree that AltDentifier and KSoft.SI may use information provided by you to improve their services. AltDentifier and KSoft.SI make use of the following obligations on the legal basis of honouring our obligations to you and for our legitimate interests, which includes providing the service to you, protecting our users and property, improving our business and for our legal obligations. AltDentifier reserves the right to update or modify this Privacy Policy at any time without prior notice. Please review our policies periodically, and before engaging with our services. Continuing to use our services after any changes to this Policy indicates your agreements to the revised Policy. Please feel free to contact us if you have any questions about our Policies. You may reach us at: [\[email protected\]](https://altdentifier.com/cdn-cgi/l/email-protection) or KSoft.SI at [\[email protected\]](https://altdentifier.com/cdn-cgi/l/email-protection)
+We document everything](#)
 
-  
+[Principle 02
 
-### Terms of Usage
+We are a fiduciary to you](#)
 
-By employing the ChatGuard system in your server, you shall make notice in your server of the usage of this system and provide an electronic link to this resource. In order to gain access to ChatGuard, you must allow AltDentifier to post a message in your server. By using this feature, you will fulfil your obligation of making notice in your server. AltDentifier will enforce the visibility, readability and availability of this message automatically. If your server fails to fulfil this obligation, your access to ChatGuard may be (permanently) suspended. You agree that both AltDentifier and KSoft.SI may revoke your access to ChatGuard at any time, and that neither AltDentifier, nor KSoft.SI, take any responsibility for the usage of the ChatGuard system in your server.
+[Principle 03
 
-  
+We build long-term relationships](#)
 
-### Your Content
+[Principle 04
 
-By employing the ChatGuard system in your server, you grant AltDentifier and KSoft.SI a perpetual, nonexclusive, transferable, royalty-free, sub licensable and worldwide license to use, host, reproduce, adapt, distribute and display any message content that is processed by us in connection to providing and operating the ChatGuard and ChatWatch services.
+We are careful and prudent](#)
 
-  
+We provide video and written tutorials to setup the bot properly and give good practices in terms of server security, so you get better at identifying alt accounts and blocking raids on Discord.
 
-### Warranty
+We take support very seriously. Our support team members are trained for months and regularly tested on their abilities, so that we can provide you with the best assistance, at all times. Your members can’t verify? The bot is down? We have access to dozens of tools to help you properly.
 
-CHATGUARD IS PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, AT THE MAXIMUM EXTENT OF APPLICABLE LAW. YOUR USE OF THE CHATGUARD SERVICES IS AT YOUR OWN RISK.
+We believe that the path to successful bots is being here for our communities. You suggest features, we code them. You have an urgent problem at 4:00 AM, you call us on an emergency phone line and we’re here within 5 minutes. That’s what we give to our most important communities.
+
+All code is thoroughly tested before deployment. We have thousands of monitoring processes running to make sure verification works at all times. We have fallback processes in place, backups, to guarantee 99.9% uptime.
+
+[](#)
+
+Double Counter is Free.
+-----------------------
+
+Yes, it’s free. Only 3 minor settings are part of the paid plan.
+
+Go for it.
+
+[Invite it it it it it it it it!](https://invite.dcounter.space/)
+
+![](https://doublecounter.gg/wp-content/uploads/2023/04/Black-White-Minimal-Bold-AV-Co-Company-Service-Logo4-1.png)
+
+##### About
+
+* [Tellter, our mother company](https://tellter.com/)
+* [Apply for staff](http://apply.dcounter.space/)
+
+##### Tools
+
+* [Status](https://status.dcounter.space/)
+
+##### Our product
+
+* [Dashboard](https://dashboard.dcounter.space/)
+
+##### Support
+
+* [Getting started](https://docs.dcounter.space/)
+* [Support server](https://discord.gg/doublecounter)
+* [Terms of Service](https://docs.dcounter.space/legal)
+
+Copyright: © 2024 [Tellter SAS](https://tellter.com/). All Rights Reserved.
+
+Tellter is a development and investment company based in Paris, France. We run solutions that empower communities and guarantee their safety.
+
+Double our follower counts, don’t counter them
+
+* [](https://discord.gg/doublecounter)
+* [](https://www.linkedin.com/company/tellter/)
+* [](https://instagram.com/dbcounter)
+* [](https://twitter.com/dbcounter)
+
+[![Double Counter - Discord Verification Bot | Alt Detector & VPN Blocker](https://doublecounter.gg/wp-content/uploads/2024/05/DCLOGOSQUARE7.png)](https://doublecounter.gg/)
+
+* [Dashboard](https://dashboard.doublecounter.gg/)
+* [Invite Double Counter](https://discord.com/oauth2/authorize?client_id=703886990948565003&scope=bot&permissions=8)
+* [Double Counter Pro](https://doublecounter.gg/double-counter-pro/)
+* [Features and settings](https://doublecounter.gg/features-and-settings/)
+* [Documentation](https://docs.doublecounter.gg/)
+* [Articles](https://doublecounter.gg/category/uncategorized/)
+* [Support](https://discord.gg/doublecounter)
+
+[Get Started](https://invite.dcounter.space/)
+
+This is a staging enviroment
+
+                                       
+
+![pixel](https://doublecounter.gg/wp-content/plugins/ad-inserter/images/ads.png)
