@@ -4,6 +4,8 @@
 
 Help Center](https://www.eventbrite.com/help/en-us/)
 
+Support availability is limited due to extreme weather conditions in areas where representatives are located. We appreciate your understanding and patience.
+
 [Terms and policies](https://www.eventbrite.com/help/en-us/topics/terms-and-policies/)
 
 [Help Center](https://www.eventbrite.com/help/en-us/)
