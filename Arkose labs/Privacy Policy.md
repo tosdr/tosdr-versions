@@ -549,7 +549,3 @@ X
 Learn How to Leverage Active Bot Defense to Detect and Counter Today’s Cybercrime-as-a-Service Threats
 
 [Here](https://www.arkoselabs.com/course/disrupting-cybercrime-as-a-service/)
-
-                                              
-
-https://www.adsimple.at
