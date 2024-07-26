@@ -69,8 +69,6 @@ Toggle navigation
     
     * [AI](https://github.com/resources/articles/ai)
     * [DevOps](https://github.com/resources/articles/devops)
-    * [Innersource](https://github.com/resources/articles/innersource)
-    * [Open Source](https://github.com/resources/articles/open-source)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
     
@@ -166,7 +164,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Code](https://github.com/spesmilo/electrum)
 * [Issues 1.1k](https://github.com/spesmilo/electrum/issues)
-* [Pull requests 60](https://github.com/spesmilo/electrum/pulls)
+* [Pull requests 61](https://github.com/spesmilo/electrum/pulls)
 * [Security](https://github.com/spesmilo/electrum/security)
 * [Insights](https://github.com/spesmilo/electrum/pulse)
 
