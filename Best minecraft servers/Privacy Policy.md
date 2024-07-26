@@ -6,6 +6,10 @@
 • We are registered in United States under registration number 802731435. • The hosting facility for our website is located in US. • The mailing database is located in US • You can contact us:  
 by email, using this email address [\[email protected\]](https://best-minecraft-servers.co/cdn-cgi/l/email-protection)
 
+**Advertising**  
+This Site is affiliated with CMI Marketing, Inc., d/b/a Raptive (“Raptive”) for the purposes of placing advertising on the Site, and Raptive will collect and use certain data for advertising purposes. To learn more about Raptive’s data usage, [click here](https://www.raptive.com/publisher-advertising-privacy-policy).  
+This site uses Google Analytics. For more information on Google's privacy policy please [read here](https://policies.google.com/privacy).
+
 **Credit**  
 2.1 This document was created using a template from Docular (https://docular.net).  
 3\. How we use your personal data  
