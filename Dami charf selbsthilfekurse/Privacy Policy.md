@@ -154,7 +154,7 @@ Für bestimmte Verarbeitungen deiner Daten setzen wir externe Dienstleister ein
 
 Wenn wir darüber hinaus bestimmte Leistungen gemeinsam mit Partnern anbieten, dann können wir deine personenbezogenen Daten an diese Partner weitergeben, sofern du eingewilligt hast oder wir aufgrund gesetzlicher Bestimmungen zu einer Datenweitergabe berechtigt sind. Je nach Leistung können deine Daten auch in eigener Verantwortung von unseren Partnern erhoben werden. Nähere Informationen erhältst du bei Angabe deiner Daten oder untenstehend in der Beschreibung der jeweiligen Angebote.
 
-Soweit unsere Dienstleister oder Partner ihren Sitz in einem Staat außerhalb des Europäischen Wirtschaftsraums (EWR) haben, informieren wir dich über die Folgen dieses Umstands in der jeweiligen Beschreibung unseres Angebotes. Einige der von uns genutzten Dienstleister (z.B. Youtube / Google, Vimeo, siehe hierzu nachfolgende Ziff. 8. und 9. mit weiteren Erläuterungen) haben ihren Sitz in den USA, einem datenschutzrechtlich nicht sicheren Drittstaat. Wenn die Tools dieser Dienstleister aktiv sind, können deine personenbezogene Daten in die USA übertragen und dort verarbeitet werden. Wir weisen darauf hin, dass die USA kein mit der EU vergleichbares Datenschutzniveau garantiert. So sind US-Unternehmen verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass du als Betroffener hiergegen gerichtlich vorgehen kannst. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) deine auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Leider haben wir auf diese Verarbeitungstätigkeiten keinen Einfluss.
+Soweit unsere Dienstleister oder Partner ihren Sitz in einem Staat außerhalb des Europäischen Wirtschaftsraums (EWR) haben, informieren wir dich über die Folgen dieses Umstands in der jeweiligen Beschreibung unseres Angebotes. Einige der von uns genutzten Dienstleister (z.B. Youtube / Google, Vimeo, Memberspot, siehe hierzu nachfolgende Ziff. 8. und 9. mit weiteren Erläuterungen) haben ihren Sitz in den USA, einem datenschutzrechtlich nicht sicheren Drittstaat. Wenn die Tools dieser Dienstleister aktiv sind, können deine personenbezogene Daten in die USA übertragen und dort verarbeitet werden. Wir weisen darauf hin, dass die USA kein mit der EU vergleichbares Datenschutzniveau garantiert. So sind US-Unternehmen verpflichtet, personenbezogene Daten an Sicherheitsbehörden herauszugeben, ohne dass du als Betroffener hiergegen gerichtlich vorgehen kannst. Es kann daher nicht ausgeschlossen werden, dass US-Behörden (z. B. Geheimdienste) deine auf US-Servern befindlichen Daten zu Überwachungszwecken verarbeiten, auswerten und dauerhaft speichern. Leider haben wir auf diese Verarbeitungstätigkeiten keinen Einfluss.
 
 * Recht auf Beschwerde bei der Aufsichtsbehörde
 -----------------------------------------------
@@ -342,7 +342,7 @@ Alle Informationen, die du an uns übermittelst, werden auf Servern innerhalb d
 
 Wir behalten uns das Recht vor, diese Datenschutzbestimmungen jederzeit mit Wirkung für die Zukunft zu ändern. Eine jeweils aktuelle Version ist auf der Webseite verfügbar. Bitte besuche regelmäßig unsere Webseite und informiere dich über die geltenden Datenschutzbestimmungen.
 
-Stand März 2023
+Stand Juni 2024
 
 * [Folgen](https://www.facebook.com/dami.charf "Folge auf Facebook")
 * [Folgen](https://www.instagram.com/damicharf "Folge auf Instagram")
