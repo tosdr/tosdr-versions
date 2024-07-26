@@ -142,16 +142,16 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Rundown](https://www.barstoolsports.com/video/3520148/lebron-crowns-himself-free-throw-king-july-22nd-2024-barstool-rundown)
-* [Aaron Rodgers](https://www.barstoolsports.com/blog/3520073/aaron-rodgers-clears-the-air-on-missing-two-ota-days-for-a-trip-to-egypt)
-* [Open Championship Recap](https://www.barstoolsports.com/podcast/3520049/the-open-championship-is-awesome-fore-play-episode-683)
+* [Lasertag Extravaganza](https://www.barstoolsports.com/video/3520292/barstool-sports-lasertag-extravaganza)
+* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+* [Barstool Golf Time](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
 * [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 
 Privacy Policy
 ==============
 
-_Last updated: July 18, 2024_
+_Last updated: July 23, 2024_
 
 At Barstool, the privacy and security of your information is a top priority. We want you to understand how we handle your data. We also want you to know your rights and choices.
 
@@ -350,7 +350,7 @@ As noted above, we may exchange, link or pool user information among Affiliates,
 
 3. Direct marketing
 
-Only if you opt-in, and only until you opt-out, we may share Account Data about you with third party sponsors or partners, including for their marketing communications.
+Only if you opt-in, and only until you opt-out, we may share Account Data about you with third party sponsors or partners, including for their marketing communications. In any event, text messaging originator opt-in data and consent will not be shared with any third parties besides our SMS messaging service provider, Klaviyo.
 
 5. Functional sharing
 
@@ -366,7 +366,7 @@ We may share information about you, as well as Usage Data and Device Information
   
 * Delivery and fulfillment providers, namely Shopify, to fulfill your orders placed on the Barstool Sports Store and other Platforms. These providers receive information about you that is relevant and necessary to fulfill your order, such as delivery information.
   
-* SMS messaging platform and delivery providers, such as Klaviyo and the phone companies who assist us in the delivery of text messages, to deliver text messages to you in connection with Platform marketing campaigns that you have opted in to receive.
+* SMS messaging platform and delivery providers, such as Klaviyo and the phone companies who assist us in the delivery of text messages, to deliver text messages to you in connection with Platform marketing campaigns that you have opted in to receive. For additional info regarding SMS data, please see our [Messaging Terms](https://www.barstoolsports.com/messaging-terms).
 
   
 10. With your consent or at your request
