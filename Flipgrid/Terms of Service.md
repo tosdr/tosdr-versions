@@ -259,10 +259,6 @@ For Section 13, “we,” “our,” and “us” includes Flipgrid, Inc., Micro
 
 #### [About](https://legal.flipgrid.com/en-us/about.html)
 
-* [Getting Started](https://legal.flipgrid.com/en-us/getting-started.html)
-    
-* [Educator Toolkit](https://legal.flipgrid.com/en-us/about/educator-toolkit.html)
-    
 * [Careers](https://careers.microsoft.com/us/en/search-results?rt=professional&keywords=flip)
     
 * [Math Solver](https://math.microsoft.com/en)
@@ -287,6 +283,6 @@ For Section 13, “we,” “our,” and “us” includes Flipgrid, Inc., Micro
 * [Consumer Health Privacy](https://go.microsoft.com/fwlink/?linkid=2259814)
     
 
-![Microsoft](/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col2/_jcr_content/root/container_1768149434/image_copy.coreimg.svg/1719846860119/msft-logo.svg)
+![Microsoft](/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col2/_jcr_content/root/container_1768149434/image_copy.coreimg.svg/1721915510788/msft-logo.svg)
 
 © Microsoft {YEAR}
