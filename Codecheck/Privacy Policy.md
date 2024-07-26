@@ -234,15 +234,7 @@ In addition, Google LLC and all Google US subsidiaries are certified under the E
 
 You can prevent the processing of personal data either by deactivating the corresponding function in the app or, in the case of Android devices, in the control panel.
 
-#### 4.2.2 CleverTap
-
-We also use CleverTap in our app. CleverTap is a service of WizRocket Inc. It has its headquarters in SV Road, Gorageon West, Mumbai 400062, India. CleverTap provides important and essential functions for our app, in particular the ability to display content in the app and send push messages to your end device. CleverTap also accesses information stored on your end device or stores information on it, in particular any user IDs. With your express consent, this is IDFA for iOS devices. If you do not agree, a provider-specific identification code is generated. In the case of Android devices, the advertising ID available there will be used with the appropriate consent. The processing of personal data for this purpose is based on Art. 6 (1) lit. b) GDPR, as these are functions required for operating the app.
-
-We also use the data collected by CleverTap to analyse user behaviour in the app. This processing is based on Art. 6 (1) lit. f) GDPR. The analysis of use is in our legitimate interest to learn more about the use of our app and therefore to be able to improve and optimise it.
-
-CleverTap processes data outside the EU, especially in India. We have therefore made appropriate safeguards with CleverTap in the form of standard contractual clauses from the European Commission to ensure an adequate level of protection in the processing of data.
-
-#### 4.2.3 Purchasely
+#### 4.2.2 Purchasely
 
 We use Purchasely, 59 promenade du Verger, 92130 Issy-les-Moulineaux to provide CodeCheck PLUS. In this context, we also carry out statistical analyses and target group measurements in order to gain insights into the use of our app and to optimise the ordering process. In doing so, we use the actions you take in the app, which are recorded by us. The legal basis for this is our legitimate interest in pursuing the purposes described (Art. 6 para. 1 lit. f) DSGVO). We process your data for this purpose for a period of 3 years and then delete it.
 
