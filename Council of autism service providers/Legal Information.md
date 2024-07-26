@@ -58,6 +58,7 @@
         * [Standards & Guidelines](https://www.casproviders.org/standards-and-guidelines)
         * [Appeals Guide](https://www.casproviders.org/appealsguide)
         * [ABA Coding Coalition](https://www.casproviders.org/aba-coding-coalition)
+    * [Apply for a Committee](https://www.casproviders.org/casp-committee-applications)
     * [Store](https://www.casproviders.org/products/)
 * [Affiliates](https://www.casproviders.org/affiliate-program-descriptions)
     * [Become an Affiliate](javascript:void(0);)
