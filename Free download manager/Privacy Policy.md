@@ -191,15 +191,15 @@ Popular tutorials
 
 [Featured
 
-How to block applications from accessing the Internet in Windows 10](https://en.freedownloadmanager.org/tutorials/how-to-block-applications-from-accessing-the-internet.html)
-
-[Featured
-
-How to Protect your Email Account from Being Hacked](https://en.freedownloadmanager.org/tutorials/how-to-protect-your-email-account-from-being-hacked.html)
+How to Backup and Restore the Windows Registry](https://en.freedownloadmanager.org/tutorials/how-to-backup-and-restore-the-windows-registry.html)
 
 [Featured
 
 How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean-registry.html)
+
+[Featured
+
+How to block applications from accessing the Internet in Windows 10](https://en.freedownloadmanager.org/tutorials/how-to-block-applications-from-accessing-the-internet.html)
 
 [Terms & Privacy](https://www.freedownloadmanager.org/privacy.htm) • [Contact us](https://www.freedownloadmanager.org/contactus.htm) • [Donate](https://www.freedownloadmanager.org/donate.htm)
 
