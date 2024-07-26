@@ -20,8 +20,8 @@
     * Online Complaints Review
         
         * [Terms of Reference](https://www.channel4.com/4viewers/terms-reference)
-        * [Complaints Code](https://www.channel4.com/4viewers/complaints-code)
-        * [Procedural Rules](https://www.channel4.com/4viewers/procedural-rules)
+        * [Complaints Code](https://www.channel4.com/4viewers/online-complaints-review/complaints-code)
+        * [Procedural Rules](https://www.channel4.com/4viewers/online-complaints-review/procedural-rules)
         
     
 * [Our Policies](#)
@@ -130,7 +130,8 @@ Channel 4 Privacy Policy
 
 This policy applies on and from 18 June 2024
 
-**Keeping your data safe**  
+#### **Keeping your data safe**
+
 At Channel 4 we are committed to keeping your personal data safe and secure, and handling it in accordance with our legal obligations. This Privacy Policy sets out in detail the purposes for which we process your personal data, who we share it with, what rights you have in relation to that data and everything else we think it's important for you to know.
 
 Please see below for full information about how your personal data is processed when you use the digital products and services within Channel 4 and our microsites.
@@ -139,7 +140,8 @@ This Privacy Policy also applies to business users who access the 4Sales Agency 
 
 The Contributor and Feedback Privacy Policy (available [here](https://www.channel4.com/4viewers/contributor-policy)) applies to people who submit feedback, queries, praise, complaints and/or comments to Channel 4 via Viewer Enquiries or any other route of contact.
 
-**Who are we?**  
+#### **Who are we?**
+
 Channel 4 is a publicly-owned and commercially-funded UK public service broadcaster. We reinvest all of our profit back into programmes to ensure that we can continue to deliver high-quality, innovative, alternative content at no cost to the taxpayer.
 
 As we don't receive any public funding, we pay for our programming by selling advertisements, like the advertisements you see when you watch our programmes and when you use Channel 4. This means that when you use Channel 4, we ask you to share some of your personal data with us, and we collect information about how you use Channel 4, so that we can personalise the service for you and show you more of what you like. We combine this data with information we collect from other companies and brands so that we can show you more relevant advertising.
