@@ -49,7 +49,7 @@ Its contact details are as follows:
 We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this Privacy Policy. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, please contact the DPO at the following email address:  
 \* [dpo@famileo.com](mailto:dpo@famileo.com)  
   
-If you are based in the European Union, you also have the right to make a complaint at any time to the Commission Nationale de l’Informatique et des Libertés (CNIL), the French supervisory authority in charge of data protection issues (https://www.cnil.fr). We would, however, appreciate the chance to deal with your concerns before you approach the CNIL so please contact us in the first instance.
+If you are based in the European Union, you also have the right to make a complaint at any time to the Commission Nationale de l’Informatique et des Libertés (CNIL), the French supervisory authority in charge of data protection issues ([https://www.cnil.fr](https://www.cnil.fr/)). We would, however, appreciate the chance to deal with your concerns before you approach the CNIL so please contact us in the first instance.
 
 c. Data transfer
 
@@ -128,7 +128,7 @@ ENTOURAGE SOLUTIONS may collect browsing information through the use of cookies.
 
 h. Security and protection of personal data
 
-We chose Amazon Web Services (AWS) to host and secure data for our services. The data centre dedicated to our services is located in Ireland ([https://www.datacenters.com/amazon-aws-clonshaugh](https://www.datacenters.com/amazon-aws-clonshaugh))  
+We chose Amazon Web Services (AWS) to host and secure data for our services. The data centre dedicated to our services is located in Ireland ([https://www.datacenters.com/amazon-aws-dub4-and-dub7](https://www.datacenters.com/amazon-aws-dub4-and-dub7))  
   
 The assurance and warranty programs in terms of security and personal data protection we have selected in AWS services have been subjected to strict SOC1, SOC2 and SOC3 compliance checks by independent international inspection organizations.  
 [Learn more](http://aws.amazon.com/fr/compliance/soc-faqs/?nc1=h_ls)  
@@ -158,7 +158,7 @@ We call upon service providers in Europe for provision and execution of certain 
   
 For example, we use the services of various third parties to facilitate provision of our services, such as hosting and printing gazettes (non-exhaustive list):  
   
-\* We chose AWS to host and secure our data; its data centre that is dedicated to our services is in Ireland ([https://www.datacenters.com/amazon-aws-clonshaugh](https://www.datacenters.com/amazon-aws-clonshaugh)).  
+\* We chose AWS to host and secure our data; its data centre that is dedicated to our services is in Ireland ([https://www.datacenters.com/amazon-aws-dub4-and-dub7](https://www.datacenters.com/amazon-aws-dub4-and-dub7)).  
   
 \* We have chosen Handirect as a service provider to print and manage shipping the gazettes [https://www.handirect.com/](https://www.handirect.com/).  
   
