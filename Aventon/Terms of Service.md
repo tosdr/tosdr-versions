@@ -205,7 +205,6 @@ YOUR OFFERS
     * [Shop All](https://www.aventon.com/collections/all-equipment)
     * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
     * [Shop All Components](https://www.aventon.com/collections/components)
-    * [Sale](https://www.aventon.com/collections/sale)
     
     ![1k+ Bike Shops](//www.aventon.com/cdn/shop/files/key-diff-1k-bike_1024x1024.png?v=1695249841)
     
@@ -303,9 +302,13 @@ YOUR OFFERS
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
-    * [Liquid error (snippets/anatta-mobile-menu line 427): invalid url input
+    * [![](//www.aventon.com/cdn/shop/files/cancelation_icon_7d169289-eb67-4a98-8c27-dde241dadf15.png?v=1721856116&width=128)
         
-        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
+        Order Cancelation
+        
+        Cancel your order here
+        
+        Learn How >](https://www.aventon.com/pages/terms-of-service#cancelations)
     
     Send us a message
     
@@ -458,7 +461,6 @@ Open menu
     * [Shop All](https://www.aventon.com/collections/all-equipment)
     * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
     * [Shop All Components](https://www.aventon.com/collections/components)
-    * [Sale](https://www.aventon.com/collections/sale)
     
     * Accessories
     * Components
@@ -557,9 +559,13 @@ Open menu
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
-    * [Liquid error (snippets/anatta-header-nav line 181): invalid url input
+    * [![](//www.aventon.com/cdn/shop/files/cancelation_icon_7d169289-eb67-4a98-8c27-dde241dadf15.png?v=1721856116&width=128)
         
-        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
+        Order Cancelation
+        
+        Cancel your order here
+        
+        Learn How >](https://www.aventon.com/pages/terms-of-service#cancelations)
     
 * [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
