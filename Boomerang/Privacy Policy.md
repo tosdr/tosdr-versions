@@ -74,8 +74,8 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=PS5&certificate=18)
     
     * * [![](/images/library/homeimages/StarWarsOutlawsHDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=star+wars+outlaws)
+        * [![](/images/library/homeimages/MaddenNFL25HDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=madden+NFL+25)
         * [![](/images/library/homeimages/FinalFantasyVIIRebirthBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-final-fantasy-vii-rebirth-ps5/g638ps5)
-        * [![](/images/library/homeimages/AloneIntheDarkWebsiteBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=alone+in+the+dark)
     
 * [Xbox Series X](#)
     
@@ -113,7 +113,7 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=XBOXSERIESX&certificate=18)
     
     * * [![](/images/library/homeimages/StarWarsOutlawsHDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=star+wars+outlaws)
-        * [![](/images/library/homeimages/SkullandBonesBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=skull+and+bones)
+        * [![](/images/library/homeimages/MaddenNFL25HDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=madden+NFL+25)
         * [![](/images/library/homeimages/AloneIntheDarkWebsiteBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=alone+in+the+dark)
     
 * [Xbox One](#)
@@ -153,8 +153,8 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=XBOXONE&certificate=18)
     
     * * [![](/images/library/homeimages/CallofDutyModernWarfareIIIDropdownBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=call+of+duty+modern+warfare+III)
+        * [![](/images/library/homeimages/MaddenNFL25HDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=madden+NFL+25)
         * [![](/images/library/homeimages/AssassinsCreedMirageBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=Assassins+Creed+Mirage)
-        * [![](/images/library/homeimages/WWE2K24Banner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=wwe+2k24)
     
 * [PS4](#)
     
@@ -193,8 +193,8 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=PS4&certificate=18)
     
     * * [![](/images/library/homeimages/CallofDutyModernWarfareIIIDropdownBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=call+of+duty+modern+warfare+III)
+        * [![](/images/library/homeimages/MaddenNFL25HDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=madden+NFL+25)
         * [![](/images/library/homeimages/AssassinsCreedMirageBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=Assassins+Creed+Mirage)
-        * [![](/images/library/homeimages/RedDeadRedemptionDropdownBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=red+dead+redemption)
     
 * [SWITCH](#)
     
