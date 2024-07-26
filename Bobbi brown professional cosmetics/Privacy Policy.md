@@ -32,8 +32,6 @@ BESTSELLERS
 
 [Vitamin Enriched Face Base](https://www.bobbibrowncosmetics.com/product/14007/7485/skincare/moisturizer/vitamin-enriched-face-base/VEFB%29 "Vitamin Enriched Face Base")
 
-[Skin Long-Wear Weightless Foundation SPF 15](https://www.bobbibrowncosmetics.com/product/14017/55680/makeup/face/foundation/skin-long-wear-weightless-foundation-spf-15/16-hour-breathable-natural-matte-coverage/Skin-Long-Wear-Weightless-Foundation-SPF-15#/shade/Golden_Beige_%28W- "Skin Long-Wear Weightless Foundation SPF 15")
-
 [Extra Lip Tint](https://www.bobbibrowncosmetics.com/product/2341/110333/makeup/lips/lip-care/extra-lip-tint/ss23#/shade/Bare_Punch "Extra Lip Tint")
 
 [Long-Wear Cream Shadow Stick](https://www.bobbibrowncosmetics.com/product/2326/24845/makeup/eyes/long-wear-cream-shadow-stick#/shade/Bone "Long-Wear Cream Shadow Stick")
@@ -90,7 +88,7 @@ Face
 
 [Foundation](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation "Foundation") Foundation
 
-  [![](/media/export/cms/GNAV/Redesign_2022/Navigation-Foundation.jpg)](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation)
+  [![](/media/export/cms/GNAV/FY25_WSF_GNAV_Product_Texture_03.jpg)](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation)
 
 [Shop Foundation](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation "Shop Foundation")
 
@@ -236,7 +234,7 @@ SPECIAL OFFERS
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
-[Up to 50% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 50% off Last Chance")
+[Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
