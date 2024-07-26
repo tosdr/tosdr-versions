@@ -844,8 +844,7 @@ About us expand menu
 [Contact us](https://www.gsa.gov/about-us/contact-us?topnav=about-us)
 
 1. [Home](https://www.gsa.gov/)
-2. [Website Information](https://www.gsa.gov/website-information)
-3. Website policies
+2. [Using the GSA.gov Website](https://www.gsa.gov/website-information)
 
 Website policies
 ================
