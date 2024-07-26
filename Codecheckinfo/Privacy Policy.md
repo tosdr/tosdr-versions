@@ -154,10 +154,10 @@ Soweit Sie ein nicht registrierter Nutzer sind, analysieren wir Ihre Nutzung nur
 
 Die Rechtsgrundlage für die Erfassung dieser Information und deren Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f) DSGVO. Unser berechtigtes Interesse folgt aus den genannten Zwecken. Ihre Daten verarbeiten wir, bis Sie Ihr Konto kündigen. Danach werden die Daten gelöscht.
 
-2.5 CodeCheck Premium
----------------------
+2.5 CodeCheck PLUS
+------------------
 
-Sie können in unserer App CodeCheck Premium kostenpflichtig als In-App-Kauf erwerben. Wir verwenden zur Bereitstellung von CodeCheck Premium Purchasely, 59 promenade du Verger, 92130 Issy-les-Moulineaux. Wir verarbeiten hierbei Ihre bei der Registrierung angegeben Daten, um Ihnen das Abonnement zur Verfügung zu stellen. Zudem verarbeiten wir in diesem Zusammenhang Ihre Gerätekennung samt einiger weiterer technischer Informationen, wie dem Gerätemodell, und -namen, dem verwendeten Betriebssystem, der Sprache, der App-Version und dem im App Store gewählten Land. Daneben verarbeiten wir einen Identifier, den wir mit dem App Store Betreiber austauschen. Vom App Store Betreiber erhalten wir zudem die Information, ob Sie gezahlt haben. Wir verarbeiten ebenso Informationen über ihr gewähltes Abonnement wie die Dauer, den Start, das Ende und die Erneuerung des Abonnements, den Status, den Zahlungsstatus ggf. ein das Kündigungsdatum, Ihre Rechnungen und Transaktionen, sowie Ihren Bestellverlauf. Wir verarbeiten diese Daten, um Ihr Abonnement und Ihre Zahlung zu verwalten und den mit Ihnen geschlossenen Vertrag anzubahnen, zu schließen und zu erfüllen (Art. 6 Abs. 1 lit. b) DSGVO). Die Daten werden dabei für die Dauer des Abonnements zu dem genannten Zweck verarbeitet und danach aufbewahrt, solange Sie ein Nutzungskonto bei uns haben. Bitte beachten Sie, dass Ihr App Store Anbieter ggf. weitere Verarbeitungen durchführt. Sie finden dazu nähere Informationen in der Datenschutzerklärung Ihres App Store Anbieters.
+Sie können in unserer App CodeCheck PLUS kostenpflichtig als In-App-Kauf erwerben. Wir verwenden zur Bereitstellung von CodeCheck PLUS Purchasely, 59 promenade du Verger, 92130 Issy-les-Moulineaux. Wir verarbeiten hierbei Ihre bei der Registrierung angegeben Daten, um Ihnen das Abonnement zur Verfügung zu stellen. Zudem verarbeiten wir in diesem Zusammenhang Ihre Gerätekennung samt einiger weiterer technischer Informationen, wie dem Gerätemodell, und -namen, dem verwendeten Betriebssystem, der Sprache, der App-Version und dem im App Store gewählten Land. Daneben verarbeiten wir einen Identifier, den wir mit dem App Store Betreiber austauschen. Vom App Store Betreiber erhalten wir zudem die Information, ob Sie gezahlt haben. Wir verarbeiten ebenso Informationen über ihr gewähltes Abonnement wie die Dauer, den Start, das Ende und die Erneuerung des Abonnements, den Status, den Zahlungsstatus ggf. ein das Kündigungsdatum, Ihre Rechnungen und Transaktionen, sowie Ihren Bestellverlauf. Wir verarbeiten diese Daten, um Ihr Abonnement und Ihre Zahlung zu verwalten und den mit Ihnen geschlossenen Vertrag anzubahnen, zu schließen und zu erfüllen (Art. 6 Abs. 1 lit. b) DSGVO). Die Daten werden dabei für die Dauer des Abonnements zu dem genannten Zweck verarbeitet und danach aufbewahrt, solange Sie ein Nutzungskonto bei uns haben. Bitte beachten Sie, dass Ihr App Store Anbieter ggf. weitere Verarbeitungen durchführt. Sie finden dazu nähere Informationen in der Datenschutzerklärung Ihres App Store Anbieters.
 
 2.6 Bei Anmeldung zu unserem Newsletter
 ---------------------------------------
@@ -289,17 +289,9 @@ Google bzw. deren Unterauftragnehmer verarbeiten personenbezogene Daten dabei m�
 
 Sie können die Verarbeitung der personenbezogenen Daten verhindern, indem Sie entweder in der App oder im Falle von Android-Geräten in der Systemsteuerung die entsprechende Funktion deaktivieren.
 
-#### 4.2.2 Clevertap
+#### 4.2.2 Purchasely
 
-In unserer App setzen wir zudem Clevertap ein. Clevertap ist ein Dienst der WizRocket Inc. Mit Ihrem Hauptsitz in SV Road, Gorageon West, Mumbai 400062, Indien. CleverTap stellt wesentliche und essentielle Funktionen für unsere App bereit, insbesondere die Möglichkeit, Content in der App anzuzeigen und Push-Nachrichten an Ihr Endgerät zu senden. Clevertap greift dazu auch auf Informationen zu, die auf Ihrem Endgerät gespeichert sind, bzw. speichert darauf Informationen, insbesondere auch etwaige Nutzerkennungen. Mit Ihrer ausdrücklichen Zustimmung ist dies bei iOS Geräten die IDFA. Soweit Sie nicht zustimmen, wird eine Anbieterspezifische Identifikationskennung erzeugt. Im Falle von Android Geräten, wird mit entsprechender Zustimmung die dort verfügbare Werbe-ID verwendet. Die Verarbeitung der personenbezogenen Daten zu diesem Zweck beruht auf Art. 6 Abs. 1 lit. b) DSGVO, da es sich insoweit um für den Betrieb der App erforderliche Funktionen handelt.
-
-Wir nutzen die von Clevertap erhobenen Daten zudem zur Analyse des Nutzungsverhaltens in der App. Diese Verarbeitung beruht auf Art. 6 Abs. 1 lit. f) DSGVO. Die Analyse der Nutzung liegt in unserem berechtigten Interesse mehr über die Nutzung unserer App zu erfahren und sie so zu verbessern und optimieren zu können.
-
-Clevertap verarbeitet Daten außerhalb der EU, insbesondere in Indien. Wir haben mit Clevertap daher geeignete Garantien in Form von Standardvertragsklauseln der europäischen Kommission abgeschlossen, um ein angemessenes Schutzniveau bei der Verarbeitung der Daten sicherzustellen.
-
-#### 4.2.3 Purchasely
-
-Wir verwenden zur Bereitstellung von CodeCheck Premium Purchasely, 59 promenade du Verger, 92130 Issy-les-Moulineaux. In diesem Zusammenhang führen wir auch statistische Analysen und Zielgruppenmessungen durch, um Erkenntnisse über die Nutzung unserer App zu gewinnen und den Bestellprozess zu optimieren. Wir nutzen hierbei die von Ihnen in der App vorgenommenen Handlungen, welche von uns erfasst werden. Die Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der Verfolgung der beschriebenen Zwecke (Art. 6 Abs. 1 lit. f) DSGVO). Wir verarbeiten Ihre Daten zu diesem Zweck für einen Zeitraum von 3 Jahren und löschen sie anschließend.
+Wir verwenden zur Bereitstellung von CodeCheck PLUS Purchasely, 59 promenade du Verger, 92130 Issy-les-Moulineaux. In diesem Zusammenhang führen wir auch statistische Analysen und Zielgruppenmessungen durch, um Erkenntnisse über die Nutzung unserer App zu gewinnen und den Bestellprozess zu optimieren. Wir nutzen hierbei die von Ihnen in der App vorgenommenen Handlungen, welche von uns erfasst werden. Die Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der Verfolgung der beschriebenen Zwecke (Art. 6 Abs. 1 lit. f) DSGVO). Wir verarbeiten Ihre Daten zu diesem Zweck für einen Zeitraum von 3 Jahren und löschen sie anschließend.
 
 Schließlich verarbeiten wir personenbezogene Daten, um Ihnen zielgruppenspezifisch bestimmte Angebote in unserer App unterbreiten zu können. Die Rechtsgrundlage hierfür ist unser berechtigtes Interesse an der Verfolgung der beschriebenen Zwecke (Art. 6 Abs. 1 lit. f) DSGVO). Wir verarbeiten Ihre Daten zu diesem Zweck für einen Zeitraum von 3 Jahren und löschen sie anschließend.
 
@@ -412,7 +404,7 @@ Berlin, Juli 2023
 
 [](https://www.instagram.com/codecheck_app)[](https://twitter.com/codecheck_info?lang=de)
 
-v0.0.104
+v0.0.107
 
 Jetzt erhältlich
 
