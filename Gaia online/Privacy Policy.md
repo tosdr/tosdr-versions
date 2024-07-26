@@ -3,7 +3,7 @@ Welcome to Gaia! :: Gaia Online PRIVACY POLICY – Effective April 5, 2016
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/3ce34595c4a1.gif)](https://www.gaiaonline.com/forum/t.114086349/ "Shining Through") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-88c084f9978cbb870814491d75d78ccb3b63fa0a54200a520c1b089526f6357888c084f9978cbb870814491d75d78ccb
+7476cbf3911b17e4c39f5315caa827c82dd56e9ec1f1dc4fd590ac095e334ce27476cbf3911b17e4c39f5315caa827c8
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -347,7 +347,7 @@ More Items
 
 * [Deals & New Items](https://www.gaiaonline.com/deals?m=newitems)
     
-    New item released!
+    2 new items released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -541,4 +541,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1721772894)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1722032774)
