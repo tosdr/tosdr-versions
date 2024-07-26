@@ -12,7 +12,7 @@
 
 [Store](https://store.bambulab.com/?skr=yes)
 
-Sign In
+Log In
 
 [Privacy Policy](https://bambulab.com/en/policies/privacy)
 
