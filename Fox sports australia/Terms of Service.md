@@ -18,46 +18,46 @@ FOX SCORES
     
 * [NRL Women's
     
-    25/7 19:45 AEST
+    27/7 11:00 AEST
     
     |     |     |
     | --- | --- |
-    | NEW | –   |
-    | SYD | –   |
+    | CRO | –   |
+    | NQL | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240101)
+    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240102)
 * [NRL
     
-    26/7 18:00 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | WAR | –   |
-    | WST | –   |
+    | PAR | 14  |
+    | MEL | 32  |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242101)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242102/match-report)
 * [NRL
     
-    26/7 20:00 AEST
+    27/7 15:00 AEST
     
     |     |     |
     | --- | --- |
-    | PAR | –   |
-    | MEL | –   |
+    | BRI | –   |
+    | CBY | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242102)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242103)
 * AFL
     
 * [AFL
     
-    26/7 19:40 AEST
+    27/7 13:45 AEST
     
     |     |     |
     | --- | --- |
-    | CAR | –   |
-    | POR | –   |
+    | NM  | –   |
+    | GEE | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242001)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242002)
 * Netball
     
 * [Super Netball
@@ -82,6 +82,28 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=588)
+* Cricket
+    
+* [Men's Test
+    
+    Day 1
+    
+    |     |     |
+    | --- | --- |
+    | ENG | 3 /38 |
+    | WI  | 282 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240103)
+* [Women's T20I
+    
+    IND won by 10 wkts
+    
+    |     |     |
+    | --- | --- |
+    | IND | 0 /83 |
+    | BAN | 8 /80 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I20241013)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -800,6 +822,7 @@ FOX SCORES
 [UFC](https://www.foxsports.com.au/video/ufc)
 
 * [UFC](https://www.foxsports.com.au/video/ufc/ufc)
+* [Fight Week](https://www.foxsports.com.au/video/ufc/fight-week)
 * [Press Conferences](https://www.foxsports.com.au/video/ufc/press-conferences)
 
 [Sponsored](https://www.foxsports.com.au/video/sponsored)
@@ -833,7 +856,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
