@@ -2,7 +2,7 @@
 
 [BILD Logo](https://www.bild.de/)
 
-* [KI-Helfer](https://bild.de/hey-ki-helfer)
+* [Bild-KI](https://bild.de/hey-ki-helfer)
 * [BILDplus IconInfos zu BILDplus](https://angebot.bild.de/info)
 * [Wetter IconWetter](https://wetter.bild.de/)
 * [Video IconVideo & Audio](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
@@ -550,7 +550,7 @@ Mobile Ansicht Zum Seitenanfang
 * [Über BILD.de](https://www.bild.de/corporate-site/ueber-bild-de/bild-de/artikel-ueber-bild-de-17520982.bild.html)
 * [Hilfe](https://angebot.bild.de/hilfe)
 * [Kontakt](https://www.bild.de/corporate-site/kontakt/bildchannel-home/kontakt-43829628.bild.html)
-* [BILD & BamS nach Hause](https://www.bild.de/bildplus/aboseite/bild-de/bildplus-abo-30442024.bild.html)
+* [BILD & BamS nach Hause](https://www.bild.de/bildplus/aboseite/bild-abonnement/bildplus-abo-seite-81057138.bild.html)
 * [Media](https://www.mediaimpact.de/de/portfolio/bild-digital)
 * [Jobs](https://career.axelspringer.com/de/jobangebote?tx_kesearch_pi1%5Bsword%5D=&id=65&tx_kesearch_pi1%5Bpage%5D=1&tx_kesearch_pi1%5BresetFilters%5D=0&tx_kesearch_pi1%5BsortByField%5D=&tx_kesearch_pi1%5BsortByDir%5D=&tx_kesearch_pi1%5Bfilter_4_3141%5D=company_bild-gmbh&tx_kesearch_pi1%5Bfilter_4_3147%5D=company_bild-hilft-e-v-)
 * [Presse](https://www.axelspringer.com/de/presse)
