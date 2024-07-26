@@ -9,8 +9,7 @@
 * Resources
     
 * [Dojo Islands](https://www.classdojo.com/dojo-islands/)
-* [Dojo Tutor](https://tutor.classdojo.com/?utm_source=webnav)
-* [Teacher login](https://teach.classdojo.com/)
+[Dojo Tutor](https://tutor.classdojo.com/?utm_source=webnav)* [Teacher login](https://teach.classdojo.com/)
 * [Parent login](https://home.classdojo.com/)
 
 Information Transparency
