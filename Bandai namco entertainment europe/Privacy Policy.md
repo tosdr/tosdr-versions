@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Season Pass 4 and a new mode in beta test coming for Guilty Gear -Strive-](https://en.bandainamcoent.eu/guilty-gear/news/season-pass-4-and-new-mode-beta-test-coming-guilty-gear-strive)
-* [The king of iron fist returns to TEKKEN 8 in first-ever free story expansion for the series announced at EVO](https://en.bandainamcoent.eu/tekken/news/the-king-of-iron-fist-returns-tekken-8-first-ever-free-story-expansion-the-series)
+* [A new character comes to JUJUTSU KAISEN CURSED CLASH in a free update](https://en.bandainamcoent.eu/jujutsu-kaisen/news/new-character-comes-jujutsu-kaisen-cursed-clash-free-update)
+* [Discover more about BLEACH Rebirth of Souls' gameplay in a new trailer](https://en.bandainamcoent.eu/bleach/news/discover-more-about-bleach-rebirth-of-souls-gameplay-new-trailer)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
