@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/Timothy-Harvey-326x245.jpg)](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/July-23-326x245.jpg)](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
 
-Loop
+Lakeview
 
-### [Man charged with making $3,000 Zelle transfer during Millennium Park robbery](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
+### [5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
 
-[July 21, 2024 9:22 AM](https://cwbchicago.com/2024/07)
+[July 24, 2024 4:19 AM](https://cwbchicago.com/2024/07)
 
-It’s the hottest scam going, one that everyone would be well-advised to keep in mind as they wander the streets of Chicago: fake charity solicitors and “homeless” people commandeer phones and transfer large sums of money to themselves using the victims’ electronic banking apps.[](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2023/04/CPD-Generic-2-cars-edited-326x245.jpg)](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
-
-Uptown
-
-### [Boys armed with machine gun robbed 14-year-old in Uptown, police say.](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
-
-[July 21, 2024 8:07 AM](https://cwbchicago.com/2024/07)
-
-In a shocking announcement, Chicago police said on Sunday that two teenage boys have been charged with using a machine gun to rob a 14-year-old in Uptown.[](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
+Police are investigating five robberies, some of which turned violent, that were reported early Tuesday morning in the Loop, Lincoln Park, and Lakeview.[](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/Juan-Salgado-326x245.jpg)](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/Full-Auto-Experience-326x245.jpg)](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
 
 Citywide
 
-### [Man attacked and carjacked Uber driver, prosecutors say](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
+### [Chicago sues Glock (again) and adds gun stores as defendants](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
 
-[July 20, 2024 8:13 PM](https://cwbchicago.com/2024/07)
+[July 23, 2024 7:37 PM](https://cwbchicago.com/2024/07)
 
-Chicago police detectives were able to identify the man who attacked and carjacked an Uber driver because he ordered the rideshare on an account linked to his driver’s license, officials said.[](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
+The city of Chicago has filed a new lawsuit against firearm manufacturing company Glock, Inc., alleging that its pistols “are easy and inexpensive to modify into illegal machine guns.”[](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2023/08/Tony-Davis-326x245.jpg)](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
+
+Chinatown
+
+### [Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
+
+[July 23, 2024 11:43 AM](https://cwbchicago.com/2024/07)
+
+A Chicago man has been handed a 13-year sentence after pleading guilty to committing six robberies and a carjacking in a single night.[](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Email
+Message
 
 Submit
 
