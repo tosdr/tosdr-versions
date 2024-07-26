@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
-* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
+* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
     
-* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
+* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
     
-* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
+* [How to backup your data to NiftyClouds](https://www.backup4all.com/how-to-backup-your-data-to-niftyclouds-kb.html)  
     
-* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
+* [Using Backup4all - FAQ 6](https://www.backup4all.com/using-backup4all-faq-6-kb.html)  
     
 
 Choose language:
