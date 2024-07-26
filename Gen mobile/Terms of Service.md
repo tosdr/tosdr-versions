@@ -278,114 +278,89 @@ Other features applicable to the plans:
 
 [\[1\]](#_ftnref1) Standard terms and conditions apply to service.
 
-### **GEN MOBILE CALIFORNIA LIFELINE TERMS & CONDITIONS**
+### **GEN MOBILE CALIFORNIA LIFELINE TERMS & CONDITIONS** 
 
-Version July 2023
+Version June 2024
 
-Please carefully read these California LifeLine terms and conditions (“CA LL Terms & Conditions”) and Our (a) California LifeLine Wireless Service Plans, (b) Terms & Conditions, (c) Consumer Policies & Privacy Notice, (d) MyGenMobile App End User License Agreement; (e) the Auto Pay Authorization, (f) ILD Consumer Agreement, (g) Global Unlimited Text Messaging, (h) Rate Plan, and (i) any rules and policies as made available to You from time to time, which may apply to You when purchasing or using Our Gen Mobile-branded California LifeLine products and/or services.  These CA LL Terms & Conditions may be amended or updated at any time and from time to time in Our sole and absolute discretion (effective immediately upon posting).  For more information on California LifeLine please go [here](https://www.californialifeline.com/).
+Please carefully read these California LifeLine terms and conditions (“CA LL Terms & Conditions”) and Our (a) California LifeLine Wireless Service Plans, (b) Terms &amp; Conditions, (c) Consumer Policies & Privacy Notice, (d) MyGenMobile App End User License Agreement; (e) the Auto Pay Authorization, (f) ILD Consumer Agreement, (g) Global Unlimited Text Messaging, (h) Rate Plan, and (i) any rules and policies as made available to You from time to time, which may apply to You when purchasing or using Our Gen Mobile-branded California  
+LifeLine products and/or services. These CA LL Terms & Conditions may be amended or updated at any time and from time to time in Our sole and absolute discretion (effective immediately upon posting). For more information on California LifeLine please go here.
 
 When we say “We”, “Us”, “Our” or “Gen Mobile”, we mean DISH Wireless L.L.C. and when we say “You”, “Your”, and “User”, we mean a Gen Mobile-branded account holder or someone who uses our devices or services.
 
-1. **California LifeLine Program**. The California LifeLine Program (“CA LifeLine”) is a state program administered by the California Public Utilities Commission (“CPUC”) that provides discounted telephone services to eligible households.  A household means adults and children who are living together at the same address as one economic unit. An economic unit includes all adults (persons at least 18 years old unless emancipated) contributing to and sharing the household’s income and expenses. Only one discount per eligible household is permitted (except for teletypewriter users and for Deaf and Disabled Telecommunications Program participants) and is nontransferable to another person.  The discount is tied to a single, primary residential address.  Each household may have one discounted wireline service (e.g., home phone) or wireless service (e.g., cell phone), but not both.  You may transfer your California LifeLine discount from one carrier to another, but You cannot have this discount from multiple carriers.  Any household that violates the one discount per household rule or knowingly or willingly provides false information to obtain the California LifeLine discount will lose its discount or will be banned from California LifeLine and may be prosecuted by the State of California or the U.S. government. 
-
-2. **Applying for California LifeLine**. If You think You qualify for the California LifeLine discount and would like to apply, please contact Gen Mobile Customer Care at 1-833-528-1380.  A representative will review the program rules with You, and We will inform the California Administrator at the CPUC to start Your application process.  Within three (3) weeks, You should receive an application form with an Enrollment Code and/or Personal Identification Number (“PIN”) in a PINK envelope.  You must complete this form, sign it, and return it to the California Administrator and provide any required documents to determine Your eligibility by the due date.  You can also apply online [here](https://www.californialifeline.com/en/login).  If You do not complete the application by the indicated due date, you will not receive the California LifeLine discount and will be subject to Our regular rates for services sold under the Gen Mobile brand name.
-3. **Eligibility**. There are two ways to qualify for the California LifeLine discount: Program-Based or Income-Based.  Program-Based qualification requires You or someone in Your household to be enrolled in a public assistance program such as Medicaid/Medi-Cal, CalFresh/SNAP, WIC, or other government programs.  Income-Based qualification requires Your household’s total annual gross income is less than the California LifeLine income limits.  You must show proof of participation in the program(s) or income.
-
+1. **California LifeLine Program**. The California LifeLine Program (“CA LifeLine”) is a state program administered by the California Public Utilities Commission (“CPUC”) that provides discounted telephone services to eligible households.  A household means adults and children who are living together at the same address as one economic unit. An economic unit includes all adults (persons at least 18 years old unless emancipated) contributing to and sharing the household’s income and expenses. Only one discount per eligible household is permitted (except for teletypewriter users and for Deaf and Disabled Telecommunications Program participants) and is nontransferable to another person.  The discount is tied to a single, primary residential address.  Each household may have one discounted wireline service (e.g., home phone) or wireless service (e.g., cell phone), but not both.  You may transfer your California LifeLine discount from one carrier to another, but You cannot have this discount from multiple carriers.  Any household that violates the one discount per household rule or knowingly or willingly provides false information to obtain the California LifeLine discount will lose its discount or will be banned from California LifeLine and may be prosecuted by the State of California or the U.S. government.  
+      
+    
+2. **Applying for California LifeLine**. If You think You qualify for the California LifeLine discount and would like to apply, please contact Gen Mobile Customer Care at 1-833-528-1380.  A representative will review the program rules with You, and We will inform the California Administrator at the CPUC to start Your application process.  Within three (3) weeks, You should receive an application form with an Enrollment Code and/or Personal Identification Number (“PIN”) in a PINK envelope.  You must complete this form, sign it, and return it to the California Administrator and provide any required documents to determine Your eligibility by the due date.  You can also apply online [here](https://www.californialifeline.com/en/login).  If You do not complete the application by the indicated due date, you will not receive the California LifeLine discount and will be subject to Our regular rates for services sold under the Gen Mobile brand name.  
+      
+    
+3. **Eligibility**. There are two ways to qualify for the California LifeLine discount: Program-Based or Income-Based.  Program-Based qualification requires You or someone in Your household to be enrolled in a public assistance program such as Medicaid/Medi-Cal, CalFresh/SNAP, WIC, or other government programs.  Income-Based qualification requires Your household’s total annual gross income is less than the California LifeLine income limits.  You must show proof of participation in the program(s) or income.  
+      
+    
 4. **California LifeLine Discounts**. All California LifeLine plans will have at least 1,000 voice minutes, a service connection discount of up to $39, no obligation to pay the public purpose program surcharges, CPUC’s user fee, federal excise tax, local franchise taxes, and State 911 tax associated with your phone service.  No termination fee will be assessed if you discontinue Your LifeLine services.  We will refund in full any applicable service connection fees paid by You if discontinued within three days of activation.  If You believe You no longer qualify for California LifeLine or are receiving more than one discount, please contact Gen Mobile Customer Care or the California Administrator within thirty (30) days of such event.  You will be subject to penalties if You fail to notify us or the California Administrator.
+5. **California LifeLine Services**. We offer California LifeLine plans on a prepaid basis with a thirty (30) day cycle, on a non-discriminatory basis and only to households that are approved for California LifeLine.  We may, in Our sole discretion, add features and/or enhancements to Our California LifeLine offerings in addition to the minimum service standards.  Unlimited talk and text does not mean unreasonable or commercial.  See below Our California LifeLine wireless service plans.  
+      
+    
+6. **Customer Care**. You will have access to customer service in the language in which California LifeLine was originally marketed and sold to You.  You will have access to information about California LifeLine in the language in which You applied.  
+      
+    
+7. **Activation Fees**. The California LifeLine will pay up to two $39 activation fees per household per calendar year.  If We determine that more than two activation fees were applied, We may require Your payment of the activation fee.  
+      
+    
+8. **California LifeLine Devices**. Devices offered may be new or refurbished. Restocking fees will not be assessed if You return Your California LifeLine device within three (3) days of activation.   
+      
+    
+9. **Annual Renewal**. In order to keep Your California LifeLine discount, You may need to renew Your participation annually.  You will receive from the California Administrator a renewal form in a PINK envelope with a PIN, if renewal is required.  You may also renew online [here](https://www.californialifeline.com/en/login) or call the California Administrator at 1-877-858-7463 or 1-888-858-7889 (TTY) from 7 AM to 7 PM Monday through Friday.  You must complete the renewal form by the due date otherwise You will lose Your discount and may be subject to regular retail rates.   
+      
+    
+10. **De-Enrollment**. You or Your household may lose Your California LifeLine discount for any of the following reasons: You or Your household no longer qualifies; You or Your household are receiving more than one discount (except for TTY); You do not use your California LifeLine discounted services for thirty (30) consecutive days; You violate any of the California Lifeline rules; or You do not timely renew.  
+      
+    
+11. **Thirty (30) Day Enrollment Freeze**. When You submit an enrollment request to receive the California LifeLine discounts for cell phone service, You have to wait up to 30 days to submit another enrollment request. You CANNOT have multiple enrollment requests for the California LifeLine discounts for cell phone service pending at the same time. The 30-day waiting period ends when either 1) the California LifeLine Administrator sends the final eligibility decision, 2) the enrollment request is cancelled, or 3) the 30 days have passed since the enrollment request, whichever occurs first. After the 30-day clock stops, You may then submit another enrollment request for the California LifeLine discounts for cell phone service, as applicable. You can independently cancel an enrollment request by contacting the California LifeLine Administrator by phone or going to [Check Your Status](https://www.californialifeline.com/en/account/check). We can also cancel an enrollment request.   
+      
+    
+12. ****Gen Mobile California LifeLine Wireless Service Plan  
+      
+    ****
+    
+    |     |     |     |     |     |     |
+    | --- | --- | --- | --- | --- | --- |
+    | **Gen Mobile California LifeLine Wireless Service Plans** | **Unlimited Talk & Text plus 4.5 GB** | **Unlimited Talk & Text plus 7 GB** | **Unlimited Talk & Text plus 16 GB** | **Unlimited Talk, Text & Data (35 GB of 5G/4G, 10 GB hotspot)** | **Unlimited Talk, Text & Data (35 GB of 5G/4G, 20 GB hotspot)** |
+    | Regular Rate | $25 | $30 | $40 | $50 | $50 |
+    | Cost to California LifeLine Customer | $0  | $0  | $10 | $20 | $20 |
+    | Minutes Included | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+    | Texts Included | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+    | Data Included | 4.5 GB | 7 GB | 16 GB | Unlimited (35 GB 5G/4G, 10 GB hotspot) | Unlimited (35 GB 5G/4G, 10 GB hotspot) |
+    | Applicable taxes/fees | None | None | None | None | None |
+    | California LifeLine taxes, fees, and surcharges exemption | Exempt | Exempt | Exempt | Exempt | Exempt |
+    | Cost of excess data | $10 for 1 GB | $10 for 1 GB | $10 for 1 GB | Unlimited (35 GB 5G/4G, 10 GB hotspot) | Unlimited (35 GB 5G/4G, 10 GB hotspot) |
+    | Cost of excess minutes | N/A as plan is unlimited | N/A as plan is unlimited | N/A as plan is unlimited | N/A as plan is unlimited | N/A as plan is unlimited |
+    | Fee for calling 411 | No added charges. | No added charges. | No added charges. | No added charges. | No added charges. |
+    | Fee for calling directory assistance | No added charges. | No added charges. | No added charges. | No added charges. | No added charges. |
+    | Activation Fee | $39 | $39 | $39 | $39 | $39 |
+    | Discounted Activation Fee[\[1\]](#_ftn1) | $0  | $0  | $0  | $0  | $0  |
+    | Cell Phone Fee[\[2\]](#_ftn2) | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. |
+    | Restocking Fee | None | None | None | None | None |
+    | Deposit | None | None | None | None | None |
+    | Early Termination Fee | None | None | None | None | None |
+    | Nationwide Domestic Long Distance | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | Caller ID | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | Call Waiting | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | Call Forwarding | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | Voicemail | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | 3-Way Calling | No added charge. | No added charge. | No added charge. | No added charge. | No added charge. |
+    | Rollover Unused Minutes/Text Option | N/A | N/A | N/A | N/A | N/A |
+    | Contract Needed[\[3\]](#_ftn3) | No minimum term. | No minimum term. | No minimum term. | No minimum term. | No minimum term. |
+    | Credit Check Needed | No  | No  | No  | No  | No  |
+    | Fee for calling 911 | None | None | None | None | None |
+    | Fee for calling 611 (customer care) | None | None | None | None | None |
+    | Fee for calling N11 special service numbers (211, 311, 511, 711, and 811) | None | None | None | None | None |
+    
 
-5. **California LifeLine Services**. We offer California LifeLine plans on a prepaid basis with a thirty (30) day cycle, on a non-discriminatory basis and only to households that are approved for California LifeLine.  We may, in Our sole discretion, add features and/or enhancements to Our California LifeLine offerings in addition to the minimum service standards.  Unlimited talk and text does not mean unreasonable or commercial.  See below Our California LifeLine wireless service plans.
+[\[1\]](#_ftnref1)The California LifeLine fund will pay for no more than two (2) connection/activation fees per household per year (whether with the Company or any other provider). DISH Wireless d/b/a Gen Mobile may require the consumer to pay for subsequent California LifeLine activation fee.
 
-6. **Customer Care**. You will have access to customer service in the language in which California LifeLine was originally marketed and sold to You.  You will have access to information about California LifeLine in the language in which You applied.
+[\[2\]](#_ftnref2) Consumers will receive a free, data-enabled phone or a SIM card, if the consumer brings their own compatible device. If the consumer wants to upgrade to a different smart phone, there will be an upcharge, with a fee based on the phone selected.
 
-7. **Activation Fees**. The California LifeLine will pay up to two $39 activation fees per household per calendar year.  If We determine that more than two activation fees were applied, We may require Your payment of the activation fee.
-
-8. **California LifeLine Devices**. Devices offered may be new or refurbished. Restocking fees will not be assessed if You return Your California LifeLine device within three (3) days of activation. 
-
-9. **Annual Renewal**. In order to keep Your California LifeLine discount, You may need to renew Your participation annually.  You will receive from the California Administrator a renewal form in a PINK envelope with a PIN, if renewal is required.  You may also renew online [here](https://www.californialifeline.com/en/login) or call the California Administrator at 1-877-858-7463 or 1-888-858-7889 (TTY) from 7 AM to 7 PM Monday through Friday.  You must complete the renewal form by the due date otherwise You will lose Your discount and may be subject to regular retail rates. 
-
-10. **De-Enrollment**. You or Your household may lose Your California LifeLine discount for any of the following reasons: You or Your household no longer qualifies; You or Your household are receiving more than one discount (except for TTY); You do not use your California LifeLine discounted services for thirty (30) consecutive days; You violate any of the California Lifeline rules; or You do not timely renew.
-
-11. **Thirty (30) Day Enrollment Freeze**. When You submit an enrollment request to receive the California LifeLine discounts for cell phone service, You have to wait up to 30 days to submit another enrollment request. You CANNOT have multiple enrollment requests for the California LifeLine discounts for cell phone service pending at the same time. The 30-day waiting period ends when either 1) the California LifeLine Administrator sends the final eligibility decision, 2) the enrollment request is cancelled, or 3) the 30 days have passed since the enrollment request, whichever occurs first. After the 30-day clock stops, You may then submit another enrollment request for the California LifeLine discounts for cell phone service, as applicable. You can independently cancel an enrollment request by contacting the California LifeLine Administrator by phone or going to [Check Your Status](https://www.californialifeline.com/en/account/check). We can also cancel an enrollment request. 
-
-12. **Gen Mobile California LifeLine Wireless Service Plans**.
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| **Gen Mobile California LifeLine Wireless Service Plans** | **Unlimited Talk & Text plus 4.5 GB** | **Unlimited Talk & Text plus 7 GB** | **Unlimited Talk & Text plus 16 GB** | **Unlimited Talk, Text & Unlimited (35 GB of 4G LTE, 10 GB hotspot)** |
-| Regular Rate | $27.50 | $30 | $50 | $60 |
-| Cost to California LifeLine Customer | $0  | $0  | $10 | $20 |
-| Minutes Included | Unlimited | Unlimited | Unlimited | Unlimited |
-| Texts Included | Unlimited | Unlimited | Unlimited | Unlimited |
-| Data Included | 4.5 GB | 7 GB | 16 GB | Unlimited (35 GB 4G LTE, 10 GB hotspot) |
-| Applicable taxes/fees | None | None | None | None |
-| California LifeLine taxes, fees, and surcharges exemption | Exempt | Exempt | Exempt | Exempt |
-| Cost of excess data | $10 for 1 GB | $10 for 1 GB | $10 for 1 GB | Unlimited (35 GB 4G LTE, 10 GB hotspot) |
-| Cost of excess minutes | N/A as plan is unlimited | N/A as plan is unlimited | N/A as plan is unlimited | N/A as plan is unlimited |
-| Fee for calling 411 | No added charges. | No added charges. | No added charges. | No added charges. |
-| Fee for calling directory assistance | No added charges. | No added charges. | No added charges. | No added charges. |
-| Activation Fee | $39 | $39 | $39 | $39 |
-| Discounted Activation Fee[\[1\]](https://www.genmobile.com/pages/terms#_ftn1) | $0  | $0  | $0  | $0  |
-| Cell Phone Fee[\[2\]](https://www.genmobile.com/pages/terms#_ftn2) | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. | None. Free handsets provided by Gen Mobile may be new or refurbished. |
-| Restocking Fee | None | None | None | None |
-| Deposit | None | None | None | None |
-| Early Termination Fee | None | None | None | None |
-| Nationwide Domestic Long Distance | No added charge. | No added charge. | No added charge. | No added charge. |
-| Caller ID | No added charge. | No added charge. | No added charge. | No added charge. |
-| Call Waiting | No added charge. | No added charge. | No added charge. | No added charge. |
-| Call Forwarding | No added charge. | No added charge. | No added charge. | No added charge. |
-| Voicemail | No added charge. | No added charge. | No added charge. | No added charge. |
-| 3-Way Calling | No added charge. | No added charge. | No added charge. | No added charge. |
-| Rollover Unused Minutes/Text Option | N/A | N/A | N/A | N/A |
-| Contract Needed[\[3\]](https://www.genmobile.com/pages/terms#_ftn3) | No minimum term. | No minimum term. | No minimum term. | No minimum term. |
-| Credit Check Needed | No  | No  | No  | No  |
-| Fee for calling 911 | None | None | None | None |
-| Fee for calling 611 (customer care) | None | None | None | None |
-| Fee for calling N11 special service numbers (211, 311, 511, 711, and 811) | None | None | None | None |
-
-|     |     |
-| --- | --- |
-| **Gen Mobile California Tribal LifeLine Wireless Service Plans** | **Unlimited Talk, Text & Data (35 GB 4G LTE, 20 GB hotspot)** |
-| Regular Rate | $60.00 |
-| Cost to California LifeLine Customer | $0  |
-| Minutes Included | Unlimited |
-| Texts Included | Unlimited |
-| Data Included | Unlimited Data (35 GB 4G LTE, 20 GB hotspot) |
-| Applicable taxes/fees | None |
-| California LifeLine taxes, fees, and surcharges exemption | Exempt |
-| Cost of excess data | Unlimited Data (35 GB 4G LTE, 20 GB hotspot) |
-| Cost of excess minutes | N/A as plan is unlimited |
-| Fee for calling 411 | No added charges. |
-| Fee for calling directory assistance | No added charges. |
-| Activation Fee | $39 |
-| Discounted Activation Fee[\[4\]](https://www.genmobile.com/pages/terms#_ftn4) | $0  |
-| Cell Phone Fee[\[5\]](https://www.genmobile.com/pages/terms#_ftn5) | None. Free handsets provided by Gen Mobile may be new or refurbished. |
-| Restocking Fee | None |
-| Deposit | None |
-| Early Termination Fee | None |
-| Nationwide Domestic Long Distance | No added charge. |
-| Caller ID | No added charge. |
-| Call Waiting | No added charge. |
-| Call Forwarding | No added charge. |
-| Voicemail | No added charge. |
-| 3-Way Calling | No added charge. |
-| Rollover Unused Minutes/Text Option | N/A |
-| Contract Needed[\[6\]](https://www.genmobile.com/pages/terms#_ftn6) | No minimum term. |
-| Credit Check Needed | No  |
-| Fee for calling 911 | None |
-| Fee for calling 611 (customer care) | None |
-| Fee for calling N11 special service numbers (211, 311, 511, 711, and 811) | None |
-
-[\[1\]](https://www.genmobile.com/pages/terms#_ftnref1)The California LifeLine fund will pay for no more than two (2) connection/activation fees per household per year (whether with the Company or any other provider). DISH Wireless d/b/a Gen Mobile may require the consumer to pay for subsequent California LifeLine activation fee.
-
-[\[2\]](https://www.genmobile.com/pages/terms#_ftnref2) Consumers will receive a free, data-enabled phone or a SIM card, if the consumer brings their own compatible device. If the consumer wants to upgrade to a different smart phone, there will be an upcharge, with a fee based on the phone selected.
-
-[\[3\]](https://www.genmobile.com/pages/terms#_ftnref3) Standard terms and conditions apply to service.
-
-[\[4\]](https://www.genmobile.com/pages/terms#_ftnref4)The California LifeLine fund will pay for no more than two (2) connection/activation fees per household per year (whether with the Company or any other provider). DISH Wireless d/b/a Gen Mobile may require the consumer to pay for subsequent California LifeLine activation fee.
-
-[\[5\]](https://www.genmobile.com/pages/terms#_ftnref5) Consumers will receive a free, data-enabled phone or a SIM card, if the consumer brings their own compatible device. If the consumer wants to upgrade to a different smart phone, there will be an upcharge, with a fee based on the phone selected.
-
-[\[6\]](https://www.genmobile.com/pages/terms#_ftnref6) Standard terms and conditions apply to service.
+[\[3\]](#_ftnref3) Standard terms and conditions apply to service.
 
 ![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
 
