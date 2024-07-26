@@ -84,10 +84,10 @@ By using our site, you consent to the collection and use of your information by 
 
 #### [![RSS](https://www.capitalismmagazine.com/wp-includes/images/rss.png)](https://review.capitalismmagazine.com/feed/) [CAPITALISM REVIEW](https://review.capitalismmagazine.com/)
 
+* [Mossoff: Anti-IP “Advancing America’s Interests Act” is Anti-American](https://review.capitalismmagazine.com/2024/07/mossoff-anti-ip-advancing-americas-interests-act-is-anti-american/)
 * [Trump Assasination Attempt Fails](https://review.capitalismmagazine.com/2024/07/trump-assasination-attempt-fails/)
 * [One Should Not Have “Faith” in Any Legal System](https://review.capitalismmagazine.com/2024/06/one-should-not-have-faith-in-any-legal-system/)
 * [CNN Senior Legal Analyst: Trump Conviction Was A Political Hit Job](https://review.capitalismmagazine.com/2024/06/cnn-senior-legal-analyst-trump-conviction-was-a-political-hit-job/)
-* [Gupta: Masking Children is Illogical and Irrational](https://review.capitalismmagazine.com/2024/06/gupta-masking-children-is-illogical-and-irrational/)
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
 
