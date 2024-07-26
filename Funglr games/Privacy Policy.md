@@ -90,40 +90,40 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 ###  New entry
 
+* [_![[EVO 2024] Photo Report from Las Vegas!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/evo-2024-booth-photo-report-00-150x150.jpg "[EVO 2024] Photo Report from Las Vegas!")_
+    
+    **\[EVO 2024\] Photo Report from Las Vegas!**2024.07.21(Sun)](https://saiganak.com/event/evo-2024-booth-photo-report/ "[EVO 2024] Photo Report from Las Vegas!")
+* [_![The esports exclusive brand Victrix has launched an official X account in Japan!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/victorix-opens-official-japan-x-00-150x150.jpg "The esports exclusive brand Victrix has launched an official X account in Japan!")_
+    
+    **The esports exclusive brand Victrix has launched an official X account in Japan!**2024.07.11(Thu)](https://saiganak.com/news/victorix-opens-official-japan-x/ "The esports exclusive brand Victrix has launched an official X account in Japan!")
+* [_![GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/gendagigo-vietnam-00-150x150.jpg "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")_
+    
+    **GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast As…**2024.07.04(Thu)](https://saiganak.com/news/gendagigo-vietnam/ "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")
+* [_!["VSPO! "Brave group announces compensation of Information leak](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/bravegroup-personal-data-breach-streaming-resume-00-150x150.jpg ""VSPO! "Brave group announces compensation of Information leak")_
+    
+    **"VSPO! "Brave group announces compensation of Information leak**2024.06.28(Fri)](https://saiganak.com/news/bravegroup-personal-data-breach-streaming-resume/ ""VSPO! "Brave group announces compensation of Information leak")
 * [_![Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/fujii4dan-ynu-june2024-bar-00-150x150.jpg "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")_
     
     **Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!**2024.06.13(Thu)](https://saiganak.com/event/fujii4dan-ynu-june2024-bar/ "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")
-* [_![Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/05/capcomcafe-monsterhunter-20th-collab-may2024-00-150x150.jpg "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")_
-    
-    **Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May…**2024.05.16(Thu)](https://saiganak.com/event/capcomcafe-monsterhunter-20th-collab-may2024/ "Capcom Cafe's Monster Hunter 20th Anniversary Collaboration, Available from May 24")
-* [_![Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/04/evojapan-2024-goods-00-150x150.jpg "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")_
-    
-    **Is just a week away from EVO Japan 2024! Total Number of Entries, Official Good…**2024.04.20(Sat)](https://saiganak.com/event/evojapan-2024-official-goods/ "Is just a week away from EVO Japan 2024! Total Number of Entries, Official Goods announced")
-* [_!["Intel inside"MSI's portable gaming PC Claw A1M hands on](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/04/msi-handheld-claw-a1m-00-150x150.jpg ""Intel inside"MSI's portable gaming PC Claw A1M hands on")_
-    
-    **"Intel inside"MSI's portable gaming PC Claw A1M hands on**2024.04.13(Sat)](https://saiganak.com/review/msi-handheld-claw-a1m/ ""Intel inside"MSI's portable gaming PC Claw A1M hands on")
-* [_![Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/03/telecomsquare-wifibox-for-apahotel-00-150x150.jpg "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")_
-    
-    **Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen p…**2024.03.18(Mon)](https://saiganak.com/news/telecomsquare-wifibox-for-apahotel/ "Unlimited data Wi-Fi Router "WiFiBOX" now available in Apa Hotels for 840 Yen per Day")
 
 ### Pocket ranking
 
 * No article
 
-[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280c.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
     
-    Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
+    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
 * [![Red Bull's new flavor,  lychee flavored ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/07/redbull-blue-edition-00-150x150.jpg "Red Bull's new flavor,  lychee flavored ")
     
     Red Bull's new flavor, lychee flavored "Red Bull Blue Edition"!](https://saiganak.com/review/redbull-blue-edition/ "Red Bull's new flavor,  lychee flavored ")
+* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
+    
+    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
 * [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
     
     From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
     
     "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
