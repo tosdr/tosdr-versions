@@ -272,7 +272,8 @@ Closets By Design
 * [San Antonio TX](https://sanantonio.closetsbydesign.com/)
 * [Seattle North WA](https://seattlenorth.closetsbydesign.com/)
 * [SE Pennsylvania](https://philadelphia.closetsbydesign.com/)
-* [South Central Michigan](https://southcentralmichigan.closetsbydesign.com/)
+* [Ann Arbor Michigan](https://annarbor.closetsbydesign.com/)
+* [Lansing Michigan](https://lansing.closetsbydesign.com/)
 * [Southeast Florida](https://southeastflorida.closetsbydesign.com/)
 * [Southern CA](https://southerncalifornia.closetsbydesign.com/)
 * [Spartanburg SC](https://spartanburg.closetsbydesign.com/)
@@ -290,3 +291,7 @@ Closets By Design
 [](https://www.softlinesolutions.com/ "softline solutions")
 
 Thank you for your interest in a career opportunity with Closets by Design. To find open position in your area. please enter your ZIP or Postal Code
+
+ 
+
+![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=21294775242599609ff7d61-1b0b-41a3-a41f-4925153a2ce3&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
