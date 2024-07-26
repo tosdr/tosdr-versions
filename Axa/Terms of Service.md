@@ -259,7 +259,7 @@ Menu Close
         * [Glazier insurance](https://www.axa.co.uk/business-insurance/glazier-insurance/)
         * [Handyman insurance](https://www.axa.co.uk/business-insurance/handyman-insurance/)
         * [Kitchen and bathroom fitter insurance](https://www.axa.co.uk/business-insurance/kitchen-fitter-insurance/)
-        * [Landscaping and gardening insurance](https://www.axa.co.uk/business-insurance/landscaping-and-gardening-insurance/)
+        * [Gardeners insurance](https://www.axa.co.uk/business-insurance/landscaping-and-gardening-insurance/)
         * [Locksmiths insurance](https://www.axa.co.uk/business-insurance/locksmiths-insurance/)
         * [Painter & decorator insurance](https://www.axa.co.uk/business-insurance/painter-and-decorator-insurance/)
         * [Plasterers’ insurance](https://www.axa.co.uk/business-insurance/plasterers-insurance/)
