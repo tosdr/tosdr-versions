@@ -166,6 +166,10 @@ Search    Submit
 
 * [About Us](https://www.floridahealth.gov/about/index.html) | [Contact Us](https://wa-oit-contactus-prd.azurewebsites.net/) | [Newsroom](https://www.floridahealth.gov/newsroom/index.html)
 
+[FILE COMPLAINT  
+Vaccine/Testing/Mask  
+Requirements](https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/COVID-19/file-a-complaint.html)
+
 It's a New Day in Public Health.
 
 The Florida Department of Health works to protect, promote, and improve the health of all people in Florida through integrated state, county, and community efforts.
