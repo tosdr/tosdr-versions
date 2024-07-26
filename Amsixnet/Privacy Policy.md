@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-10.003 Tb/s
+5.789 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-873](https://www.ams-ix.net/ams/connected-networks)
+872](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
@@ -69,7 +69,7 @@ Powered by AMS-IX
 * [Muscat](https://om-ix.com/)
 
 Privacy Policy
-==============
+--------------
 
 * [AMS-IX Privacy Statement](#section-18106016)
     
@@ -93,14 +93,14 @@ Privacy Policy
     
 
 AMS-IX Privacy Statement
-========================
+------------------------
 
 This privacy statement was last updated on 16th May 2024 (version: 1.0)
 
 When you visit our [Website](https://www.ams-ix.net/), your privacy and the protection of your personal data is of great importance to Amsterdam Internet Exchange B.V. (hereinafter: “AMS-IX”). We therefore adhere to the General Data Protection Regulation (GDPR).
 
 A brief summary of our privacy and cookie statement
-===================================================
+---------------------------------------------------
 
 During the processing of your personal data, we conform to the requirements of the applicable data protection legislation. This means we:
 
@@ -111,7 +111,7 @@ During the processing of your personal data, we conform to the requirements of t
 * **Respect** your right to inspect, correct or delete your personal data held by us.
 
 For which purpose do we process your personal data?
-===================================================
+---------------------------------------------------
 
 **Contact**
 
@@ -129,7 +129,7 @@ Newsletter**
 If you want to stay informed about new services, you can subscribe to the AMS-IX newsletter, which we will mail monthly at most. In the newsletter you can read news, tips, and information about our products and services. We only register your e-mail address and only send the newsletter with your permission. We will keep your e-mail address until you unsubscribe from the AMS-IX [Website](https://www.ams-ix.net/) newsletter. In every newsletter you receive, it is possible to unsubscribe via a link in the mail.  
 
 When can we share your personal data with third parties?
-========================================================
+--------------------------------------------------------
 
 The AMS-IX [Website](https://www.ams-ix.net/) will only share your information with third parties if this is permitted on the basis of current legislation. Specifically for the purpose of the sale of the products via the AMS-IX [Website](https://www.ams-ix.net/), we will share your information with our Partner. We may provide your personal data to third parties, including but not limited to our partner, because:
 
@@ -150,12 +150,12 @@ The parties that process personal data on our or your behalf are:
 The AMS-IX [Website](https://www.ams-ix.net/) can transfer your personal data to countries outside the European Economic Area (EEA). This transfer takes place when handling your booking or taking care of your trip or because our group companies, partners or service providers provide their services from those countries. The AMS-IX [Website](https://www.ams-ix.net/) provides for appropriate safeguards to protect your privacy if necessary. This means, for example, that the AMS-IX [Website](https://www.ams-ix.net/) uses model contract provisions approved by the European Commission to make agreements about how to handle your personal data.
 
 Is your personal data secured?
-==============================
+------------------------------
 
 AMS-IX [Website](https://www.ams-ix.net/) takes appropriate technical and organizational measures with regard to the processing of personal data, against loss or against any form of unlawful processing (such as unauthorized access, encroachment, alteration or provision of personal data).
 
 Cookies
-=======
+-------
 
 We use third party cookies and our own cookies on our websites. Cookies are information files that can be automatically stored on or read from the visitor's device when he visits a website (such as a PC, tablet or smartphone). This is done through the web browser on the device:
 
@@ -189,7 +189,7 @@ You can set your browser to only accept cookies if you agree. For more informati
 Most cookies have an expiration date. This means that they will automatically expire after a certain period and no longer register any data concerning your visit of the website. Another option is to remove the cookies manually before the expiration data. In order to do this, consult the instruction manual of your browser.
 
 What are your privacy rights?
-=============================
+-----------------------------
 
 You can always contact us if you have any questions regarding your personal data. Besides that, you have to the following rights regarding your personal data:
 
@@ -208,17 +208,17 @@ We will usually comply with your request within 30 days. However, this period ma
 If you want to exercise one of your rights, you can make this known by emailing us at [info@ams-ix.net](mailto:info@ams-ix.net). You can also contact us via the contact details at the bottom of this page.
 
 Changes to this privacy and cookie statement
-============================================
+--------------------------------------------
 
 If our services change, we adjust our privacy and cookie statement. Therefore, we advise you to consult this privacy and cookie statement regularly for the most up-to-date information.
 
 Complaints
-==========
+----------
 
 If you think that we are not helping you in the right way or if you are unhappy about the way in which we process your personal data, you have the right to lodge a complaint at the authority. For the Netherlands, this is the [Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/contact).
 
 Contact details
-===============
+---------------
 
 If you have any questions about our privacy and cookie statement or about your rights, you can always contact us via the details below:**  
   
