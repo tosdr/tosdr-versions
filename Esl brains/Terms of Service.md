@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1)   
-
 [Skip to content](#primary)
 
 [SIGN UP](https://eslbrains.com/pricing/) [LOG IN](#)
@@ -307,10 +305,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Fighting crime with tech](https://eslbrains.com/fighting-crime-with-tech/ "Fighting crime with tech")
 * [Workplace safety](https://eslbrains.com/workplace-safety/ "Workplace safety")
 * [The power of breathing](https://eslbrains.com/the-power-of-breathing/ "The power of breathing")
 * [Talking about experiences using Present Perfect and Past Simple](https://eslbrains.com/lesson-set/talking-about-experiences-using-present-perfect-and-past-simple/ "Talking about experiences using Present Perfect and Past Simple")
-* [Therapy speak](https://eslbrains.com/therapy-speak/ "Therapy speak")
 
 © ESL Brains 2023
 
