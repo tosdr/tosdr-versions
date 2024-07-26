@@ -12,6 +12,7 @@ DMCA Policy \- A Wiki.
     * [Ownership Requests](https://gamebanana.com/wikis/admin/ownershipreqs/677)
     * [Permits](https://gamebanana.com/wikis/admin/permits/677)
     * [Withhold](https://gamebanana.com/wikis/admin/withhold/677)
+    * [Tickets](https://gamebanana.com/wikis/admin/tickets/677)
 * [Todos](https://gamebanana.com/wikis/todos/677)
 * [9
     
@@ -24,7 +25,7 @@ DMCA Policy \- A Wiki.
     Collections](https://gamebanana.com/wikis/collections/677)
 * [Thankers](https://gamebanana.com/wikis/thankers/677)
 * [Flags](https://gamebanana.com/wikis/admin/flags/677)
-* [Report](https://gamebanana.com/support/add?source=https%3A%2F%2Fgamebanana.com%2Fwikis%2F677)
+* [Report](https://gamebanana.com/support/add?s=Wiki.677)
 
 This site requires JavaScript
 
