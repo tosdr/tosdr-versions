@@ -61,7 +61,7 @@ Staff
 * [Employee Search](https://www.clark.edu/directories/employee-search.php)
 * [IT Services](https://www.clark.edu/its)
 * [Governance](https://www.clark.edu/about/governance/)
-* [Jobs @ Clark](https://www.clark.edu/about/jobs-and-employment/)
+* [Employment @ Clark](https://www.clark.edu/about/jobs-and-employment/)
 * [A-Z Directory](https://www.clark.edu/directories)
 
 Close
