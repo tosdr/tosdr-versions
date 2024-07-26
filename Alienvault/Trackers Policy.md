@@ -111,9 +111,9 @@
             
             Product Brief
             
-            ##### LevelBlue Email Security with Check Point
+            ##### Stop DDoS Attacks in Their Tracks
             
-            [Learn more](https://cyber.levelblue.com/m/6e87ba5057e8a5f4/original/PB-Email-Security-Check-Point.pdf)
+            [Learn more](https://cyber.levelblue.com/m/22a716cd6ceca7ac/original/PB-Stop-DDoS-Attacks-Public-Sector.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### 4 “Low-Priority” Online Threats That Can Inflict Serious Brand Damage
+            ##### Navigating the Minefield: Cybersecurity for Non-Profit Organizations
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/4-low-priority-online-threats-that-can-inflict-serious-brand-damage)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/navigating-the-minefield-cybersecurity-for-non-profit-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -468,13 +468,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### David Balaban
+#### Sam Bocetta
 
-Jul 22, 2024
+Jul 24, 2024
 
-### [4 “Low-Priority” Online Threats That Can Inflict Serious Brand Damage](https://cybersecurity.att.com/blogs/security-essentials/4-low-priority-online-threats-that-can-inflict-serious-brand-damage)
+### [Navigating the Minefield: Cybersecurity for Non-Profit Organizations](https://cybersecurity.att.com/blogs/security-essentials/navigating-the-minefield-cybersecurity-for-non-profit-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
