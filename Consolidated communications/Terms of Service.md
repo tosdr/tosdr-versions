@@ -387,7 +387,7 @@
         * [Domain Registration Agreement](https://www.consolidated.com/Support/Terms-Policies/Internet-Terms-Policies/Domain-Registration-Agreement)
         * [ICANN - Uniform Domain Name Dispute Resolution Policy](https://www.consolidated.com/Support/Terms-Policies/Internet-Terms-Policies/ICANN-Uniform-Domain-Name-Dispute-Resolution-Policy)
         * [BGP Routing Policy](https://www.consolidated.com/Support/Terms-Policies/Internet-Terms-Policies/BGP-Routing-Policy)
-    * [TV Terms & Policies](https://www.consolidated.com/Support/Terms-Policies/TV-Terms-Policies)
+    * [TV Terms & Policies](https://www.consolidated.com/Residential/Streaming-TV)
         * [Digital TV Terms & Conditions](https://www.consolidated.com/Support/Terms-Policies/TV-Terms-Policies/Digital-TV-Terms-Conditions)
         * [Digital TV Subscriber Notification](https://www.consolidated.com/Support/Terms-Policies/TV-Terms-Policies/Digital-TV-Subscriber-Notification)
     * [Phone and Long Distance Terms & Policies](https://www.consolidated.com/Support/Terms-Policies/Phone-and-Long-Distance-Terms-Policies)
