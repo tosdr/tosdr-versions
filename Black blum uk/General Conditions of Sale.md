@@ -204,7 +204,7 @@ Help
 ----
 
 * [REPLACEMENT PARTS](https://black-blum.com/collections/replacement-parts)
-* [WARRANTY](https://black-blum.com/pages/warranty)
+* [OUR LIFETIME GUARANTEE](https://black-blum.com/pages/lifetime-guarantee)
 * [RETURNS + EXCHANGES](https://black-blum.com/pages/delivery-returns)
 * [TERMS, CONDITIONS + PRIVACY POLICY](https://black-blum.com/pages/t-c-privacy-policy)
 * [COMPETITION RULES](https://black-blum.com/pages/competition-rules)
