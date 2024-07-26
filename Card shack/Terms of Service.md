@@ -31,15 +31,9 @@ Menu [Contact](https://www.cardshack.co.uk/s/contact) Account [Basket \- £0.00 
     
     [You Got This](https://www.cardshack.co.uk/c/occasion/you-got-this)
     
-* [Just Because](https://www.cardshack.co.uk/c/just-because)
+* [Art Cards](https://www.cardshack.co.uk/c/art-cards)
     
-    Back [View all](https://www.cardshack.co.uk/c/just-because) [Just Because](https://www.cardshack.co.uk/c/just-because/just-because) [Blank Art Cards](https://www.cardshack.co.uk/c/just-because/blank-art-cards)
-    
-    [Bristol Cards](https://www.cardshack.co.uk/c/just-because/bristol-cards)
-    
-    Back [View all](https://www.cardshack.co.uk/c/just-because/bristol-cards) [Postcards](https://www.cardshack.co.uk/c/just-because/bristol-cards/postcards)
-    
-    [Packs and Notelets](https://www.cardshack.co.uk/c/just-because/packs-and-notelets)
+    Back [View all](https://www.cardshack.co.uk/c/art-cards) [Blank Cards](https://www.cardshack.co.uk/c/art-cards/blank-cards) [Bristol Cards](https://www.cardshack.co.uk/c/art-cards/bristol-cards) [Postcards](https://www.cardshack.co.uk/c/art-cards/postcards)
     
 * [Premium Cards](https://www.cardshack.co.uk/c/premium-cards)
     
