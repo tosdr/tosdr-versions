@@ -1,6 +1,6 @@
 [skip to content](#main)
 
-![](https://mk-block-color-genomics.pantheonsite.io/wp-content/uploads/2024/07/Visual@2x.svg)
+![](https://www.color.com/wp-content/uploads/2024/07/OpenAI.svg)
 
 Color is designing new AI use cases to equip providers with specialized cancer knowledge that helps inform care plans and reduce time to treatment. [Read More](https://www.color.com/blog/colors-copilot-and-partnership-with-openai)
 
@@ -8,7 +8,7 @@ Color is designing new AI use cases to equip providers with specialized cancer k
 
 * [Solutions](#)
     * [Employers](https://www.color.com/employers)
-    * [Brokers](https://www.color.com/brokers)
+    * [Consultants](https://www.color.com/consultants)
     * [Health Plans](https://www.color.com/health-plans)
     * [Unions](https://www.color.com/unions)
     * [Clinicians](https://www.color.com/clinicians-tests)
@@ -408,7 +408,7 @@ Email: [support@color.com](mailto:support@color.com)
 ### Solutions
 
 * [Employers](https://www.color.com/employers)
-* [Brokers](https://www.color.com/brokers)
+* [Consultants](https://www.color.com/consultants)
 * [Health Plans](https://www.color.com/health-plans)
 * [Unions](https://www.color.com/unions)
 * [Clinicians](https://www.color.com/clinicians-tests)
