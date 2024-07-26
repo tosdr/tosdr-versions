@@ -10,42 +10,6 @@ You may like
 
 [](#)[](#)
 
-[![](//coromega.com/cdn/shop/files/811rAC8CCwL._AC_SL1500_1024x1024.jpg?v=1698798213)](https://coromega.com/products/coromega-omega-3-vitamin-d-wholesale)[](#)[](#)
-
-[Omega 3 + Vitamin D (Wholesale)
-
-From $227.88](https://coromega.com/products/coromega-omega-3-vitamin-d-wholesale)
-
-[![](//coromega.com/cdn/shop/products/Addaheading_6_1024x1024.png?v=1650576110)](https://coromega.com/products/kids-good-eyes)[](#)[](#)
-
-[Good Eyes
-
-$24.99 Sold Out](https://coromega.com/products/kids-good-eyes)
-
-[![Kids Omega-3 + Vitamin D Main Image](//coromega.com/cdn/shop/files/KidsOmega-MainImage_1024x1024.png?v=1698800467)](https://coromega.com/products/kids-omega-3)[](#)[](#)
-
-[Kids Omega-3
-
-From $21.99](https://coromega.com/products/kids-omega-3)
-
-[![Omega-3 Main Image Front of Pack](//coromega.com/cdn/shop/files/81O0HSiygML._AC_SL1500_5f9cb753-b91d-4fce-8cdc-c9789fa538b9_1024x1024.jpg?v=1698799460)](https://coromega.com/products/omega-3)[](#)[](#)
-
-[Omega-3
-
-From $21.99](https://coromega.com/products/omega-3)
-
-[![Max Omega 3 Packing Image, Plus Vitamin D3](//coromega.com/cdn/shop/files/81Wx2_WFaIL._AC_SL1500_c81aa0c4-4115-4ef5-ae30-785cdc8be948_1024x1024.jpg?v=1698799332)](https://coromega.com/products/max-omega-3)[](#)[](#)
-
-[Omega-3 MAX
-
-From $24.99](https://coromega.com/products/max-omega-3)
-
-[![Turmeric Front of Pack Image](//coromega.com/cdn/shop/products/DigitalShelf_5_1024x1024.png?v=1660080032)](https://coromega.com/products/turmeric-max)[](#)[](#)
-
-[Turmeric MAX
-
-$34.95 Sold Out](https://coromega.com/products/turmeric-max)
-
 [![vegan omega main image - DHA formula](//coromega.com/cdn/shop/files/DigitalShelf_6_1024x1024.png?v=1699904641)](https://coromega.com/products/vegan-dha-max)[](#)[](#)
 
 [Vegan DHA MAX
