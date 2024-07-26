@@ -205,12 +205,12 @@ Get in touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Star. 
+Please prove you are human by selecting the Cup. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
 * [About us](https://galaxy4games.com/about-us/)
-* [Gallery](https://galaxy4games.com/gallery/)
+* [Gallery](https://galaxy4games.com/our-work/gallery/)
 * [Our Projects](https://galaxy4games.com/our-work/projects/)
 * [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
 * [Sitemaps](https://galaxy4games.com/sitemap/)
@@ -231,4 +231,4 @@ Get In Touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Flag.
+Please prove you are human by selecting the Car.
