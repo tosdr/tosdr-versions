@@ -1,11 +1,3 @@
-**July 26th, 12 PM ET**
-
-[**Free Workshop:** Unblocking your teams with Launchpad in the GitKraken DevEx platform](https://event.sessions.us/gitkraken/coordinating-a-team-effort-using-launchpad-within-the-gitkraken-devex-platform?utm_source=gitkrakenwebsite&utm_campaign=julyworkshop&utm_id=workshop)
-
-**[Register now](https://event.sessions.us/gitkraken/coordinating-a-team-effort-using-launchpad-within-the-gitkraken-devex-platform?utm_source=gitkrakenwebsite&utm_campaign=julyworkshop&utm_id=workshop)**
-
-X
-
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
@@ -58,7 +50,8 @@ X
         * [Too Many Meetings   😂](https://www.gitkraken.com/developer-problems/meeting-hell)
         
 * [Git Resources](# "Git Resources")
-    * * [Learn Git Library](https://www.gitkraken.com/learn/git)
+    * * [Workshops](https://www.gitkraken.com/workshops)
+        * [Learn Git Library](https://www.gitkraken.com/learn/git)
         * [Git Course & Certification](https://learn.gitkraken.com/)
         * [Git Blog](https://www.gitkraken.com/blog)
         * [GitKon ’23](https://gitkon.com/)
