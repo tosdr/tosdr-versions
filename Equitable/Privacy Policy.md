@@ -452,9 +452,8 @@ If you have additional privacy questions, please contact your Financial Professi
 ![Equitable](/publicassets/images/EQ-logo-circle-white.svg)
 
 Welcome to Equitable
-====================
 
-Effective immediately, please use www.equitable.com  
+Please use www.equitable.com  
 to access our website.  
   
 
