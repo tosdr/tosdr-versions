@@ -106,13 +106,13 @@ Categories
 
 Recent Articles
 
+* [Nginx's "listen ... http2" directive is deprecated message](https://aruljohn.com/blog/nginx-listen-http2-directive-deprecated/)
+* [How to Find SSL Certificate Expiration Date With OpenSSL](https://aruljohn.com/blog/find-ssl-certificate-expiration-date/)
+* [How to Generate Self-Signed SSL certificate using OpenSSL](https://aruljohn.com/blog/self-signed-certificate/)
 * [How to Run or Execute Remote Linux Commands over SSH](https://aruljohn.com/blog/run-linux-commands-over-ssh/)
 * [How to find MD5, SHA1, SHA256 and SHA512 Checksums Of String](https://aruljohn.com/blog/find-md5-checksum/)
 * [How to Remove File Attribute 'Where From' After Downloading on Mac](https://aruljohn.com/blog/remove-file-attribute-where-from-mac/)
 * [How to encrypt and decrypt text files using Vim editor](https://aruljohn.com/blog/vim-encrypt-decrypt-file/)
-* [How to Install Python 3.12.3 on the Raspberry Pi](https://aruljohn.com/blog/python-raspberrypi/)
-* [How to Make the Fastest Awana Grand Prix Pinewood Derby Car](https://aruljohn.com/blog/fastest-pinewood-derby-car/)
-* [Comprehensive List of 50 Job Interview Questions](https://aruljohn.com/blog/job-interview-questions/)
 
 Popular Articles
 
