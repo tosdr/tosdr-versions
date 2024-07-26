@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Plan ahead for the next school year. [Schedule your class today](https://artofproblemsolving.com/school/schedule)!
+Congratulations Team USA, all of whom are AoPS WOOT alumni, for their 1st Place win at the 65th International Mathematical Olympiad! [Discover WOOT](https://artofproblemsolving.com/woot).
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
