@@ -289,11 +289,13 @@ This website is operated by Widgix, LLC dba Alchemer, 168 Centennial Parkway Uni
 
 ![](https://www.alchemer.com/wp-content/uploads/2023/01/alchemer_logo_100.webp)](https://www.alchemer.com/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201520%20473'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201630%20562'%3E%3C/svg%3E)
 
-![](https://www.alchemer.com/wp-content/uploads/2024/05/G2-Spring-2024-Badges-Repeated.webp)
+![](https://www.alchemer.com/wp-content/uploads/2024/05/G2-Summer-2024-Badges.png)
 
 Company
+
+[800-609-6480](tel:8006096480)
 
 [About](https://www.alchemer.com/company/about/)
 
@@ -335,8 +337,6 @@ Resources
 
 Support
 
-[800-609-6480](tel:8006096480)
-
 [Help Center](https://help.alchemer.com/help/)
 
 [Mobile Developer Guides](https://help.alchemer.com/help/developer-guides/)
@@ -344,6 +344,10 @@ Support
 [Support](https://help.alchemer.com/help/alchemer-support-hours/)
 
 [Billing](mailto:billing@alchemer.com)
+
+[Sales](https://www.alchemer.com/contact/)
+
+[Contact Us](https://www.alchemer.com/contact/)
 
 * [LinkedIn](https://www.linkedin.com/company/alchemer)
 * [Twitter](https://twitter.com/AlchemerHQ)
