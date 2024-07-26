@@ -22,7 +22,7 @@ Terms of Service
 
 All articles
 
-Terms of ServiceUpdated 3 days ago
+Terms of ServiceUpdated 9 days ago
 ==================================
 
 Last updated: July 16, 2024
