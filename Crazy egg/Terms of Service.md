@@ -26,7 +26,7 @@
 
 Close modal
 
-![G2 Leader Mid-Market Summer 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-leader-summer-d2e4820dd07f2468051ea73228fecb2a.svg?vsn=d) ![G2 Fastest Implementation for Small Business Summer 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-fi-smallbusiness-summer-446040ad556001f7656a4420a03486d5.svg?vsn=d) ![G2 High Performer Summer 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-hp-summer-7092cb11a8b8a1763ea6e2a1e8009cda.svg?vsn=d) ![G2 Easiest To Use Mid-Market Summer 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-eou-midmarket-summer-5239951a9ebe43d6a7f46e65b0ac9367.svg?vsn=d)
+![G2 Best Estimate ROI Mid-Market 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-roi-midmarket-e1e2c7aa8403ee04a35fef9c3b4f593c.svg?vsn=d) ![G2 Fastest Implementation for Small Business 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-fi-smallbusiness-1b1c98e5d28073806fba4a26586f5031.svg?vsn=d) ![G2 High Performer Winter 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-hp-winter-216655471f3bb70a1d7f0eab9060289a.svg?vsn=d) ![G2 Easiest To Use Mid-Market Winter 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-eou-midmarket-57088d578a50dc09936b85551f2f177a.svg?vsn=d)
 
 ### Request a personalized  
 demo of Crazy Egg
