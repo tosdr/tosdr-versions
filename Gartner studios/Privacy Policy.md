@@ -82,6 +82,7 @@ Search
 Desktop
 
 * [Desk Essentials](https://www.gartnerstudios.com/collections/desk-essentials)
+* [Back to School](https://www.gartnerstudios.com/collections/back-to-school)
 
 [Planning](https://www.gartnerstudios.com/collections/planning)
 
