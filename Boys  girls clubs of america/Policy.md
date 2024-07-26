@@ -10,7 +10,7 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
 
 * [About Us](https://www.bgca.org/about-us/)
     
-    ![Menu image](https://www.bgca.org/wp-content/uploads/2024/01/BGCA-NavDrop-Img-AboutUs.jpg)
+    ![Menu image](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/BGCA-NavDrop-Img-AboutUs.jpg)
     
     * [Overview](https://www.bgca.org/about-us/)
     * [Our Mission & Story](https://www.bgca.org/about-us/our-mission-story/)
@@ -29,13 +29,13 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     
 * [Empowering Kids](https://www.bgca.org/empowering-kids/)
     
-    ![Menu image](https://www.bgca.org/wp-content/uploads/2024/01/BGCA-NavDrop-Img-GetInvolved.jpg)
+    ![Menu image](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/BGCA-NavDrop-Img-GetInvolved.jpg)
     
     * [Overview](https://www.bgca.org/empowering-kids/)
     * [Safe Places](https://www.bgca.org/empowering-kids/safe-places/)
     * [Workforce Readiness](https://www.bgca.org/empowering-kids/workforce-readiness/)
-    * [Diversity, Equity & Inclusion](https://www.bgca.org/empowering-kids/diversity-equity-and-inclusion/)
     * [Mentorship](https://www.bgca.org/empowering-kids/mentorship/)
+    * [Diversity, Equity & Inclusion](https://www.bgca.org/empowering-kids/diversity-equity-and-inclusion/)
     * [Youth Advocacy](https://www.bgca.org/empowering-kids/youth-advocacy/)
     * [Kids & Mental Health](https://www.bgca.org/empowering-kids/kids-and-mental-health/)
     * [Academic Success](https://www.bgca.org/empowering-kids/academic-success/)
@@ -44,7 +44,7 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     
 * [Programs](https://www.bgca.org/programs/)
     
-    ![Menu image](https://www.bgca.org/wp-content/uploads/2024/01/BGCA-NavDrop-Img-Programs.jpg)
+    ![Menu image](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/BGCA-NavDrop-Img-Programs.jpg)
     
     * [Overview](https://www.bgca.org/programs/)
     * [Sports & Recreation](https://www.bgca.org/programs/sports-recreation/)
@@ -62,7 +62,7 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     
 * [Get Involved](https://www.bgca.org/get-involved/)
     
-    ![Menu image](https://www.bgca.org/wp-content/uploads/2024/01/BGCA-NavDrop-Img-KidsInNeed.jpg)
+    ![Menu image](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/BGCA-NavDrop-Img-KidsInNeed.jpg)
     
     * [Overview](https://www.bgca.org/get-involved/)
     * [Ways to Give](https://www.bgca.org/ways-to-give/)
@@ -213,15 +213,15 @@ STAY INFORMED WITH NEWS & UPDATES
 * [![X](https://www.bgca.org/wp-content/themes/bgca/images/icons/social/x.svg)](https://twitter.com/bgca_clubs)
 * [![YouTube](https://www.bgca.org/wp-content/themes/bgca/images/icons/social/youtube.svg)](https://www.youtube.com/bgca)
 
-[![BBB Accredited Charity](https://www.bgca.org/wp-content/uploads/2024/01/Logo_BBBCharity.png)](https://give.org/charity-reviews/national/Children-and-Youth/Boys-and-Girls-Clubs-of-America-in-Atlanta-ga-440)
+[![BBB Accredited Charity](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/Logo_BBBCharity.png)](https://give.org/charity-reviews/national/Children-and-Youth/Boys-and-Girls-Clubs-of-America-in-Atlanta-ga-440)
 
-[![Charity Navigator Four Star Charity](https://www.bgca.org/wp-content/uploads/2024/01/Logo_CharityNav.png)](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3380)
+[![Charity Navigator Four Star Charity](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/Logo_CharityNav.png)](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3380)
 
-[![Candid Platinum Transparency 2023](https://www.bgca.org/wp-content/uploads/2024/01/GuideStar_logo_90x48.jpg)](https://www.guidestar.org/profile/shared/a048adba-83a8-4982-b584-a60a9f2f1414)
+[![Candid Platinum Transparency 2023](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/GuideStar_logo_90x48.jpg)](https://www.guidestar.org/profile/shared/a048adba-83a8-4982-b584-a60a9f2f1414)
 
-[![MLB](https://www.bgca.org/wp-content/uploads/2024/01/MLB_SponsorsLogo_75x40_largerFrame.png)](https://www.mlb.com/)
+[![MLB](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/MLB_SponsorsLogo_75x40_largerFrame.png)](https://www.mlb.com/)
 
-[![Microsoft](https://www.bgca.org/wp-content/uploads/2024/01/Logo_Microsoft.png)](http://www.microsoft.com/)
+[![Microsoft](https://150506300.v2.pressablecdn.com/wp-content/uploads/2024/01/Logo_Microsoft.png)](http://www.microsoft.com/)
 
 [![Boys & Girls Clubs of America](https://www.bgca.org/wp-content/uploads/2024/01/bgca_logo_GFSH_80.svg)](https://www.bgca.org/ "Visit the home page")
 
