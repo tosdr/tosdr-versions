@@ -187,7 +187,7 @@ In the preceding twelve (12) months, the company has not sold any personal infor
 
 Community [Discord](https://discadia.com/support/) [Blog](https://medium.com/discord-street)
 
-Links [Discord Servers](https://discadia.com/) [Discord Emojis](https://discadia.com/emojis/) [About Discadia](https://discadia.com/about/)
+Links [Discord Servers](https://discadia.com/) [Discord Emojis](https://discadia.com/emojis/) [About Discadia](https://discadia.com/about/) [Discadia Bot](https://discord.com/oauth2/authorize?client_id=1222548162741538938)
 
 Resources [Guidelines](https://discadia.com/guidelines/) [Privacy](https://discadia.com/privacy/) [Terms](https://discadia.com/terms/)
 
