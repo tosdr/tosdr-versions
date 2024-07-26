@@ -31,6 +31,7 @@ account
     * [Devotionals](https://www.biblegateway.com/devotionals/)
     * [Bible Gateway App](https://www.biblegateway.com/app/)
     * [Bible Audio App](https://www.biblegateway.com/bible-audio-app/)
+    * [Bible Gateway Blog](https://biblegateway.com/blog/)
 * store
     
     Store
@@ -38,11 +39,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[BibleGateway+ is less than $5/mo. 50+ premium resources (now ~$2,600~$3,100+ value!).](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_5permonth_valuestrike_053024)
+[BEST VALUE in digital Bible study. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_value1010)
 
 close
 
-[Get an EVEN BETTER VALUE for the SAME PRICE. Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_evenbettervalue053024)
+[Less than $5/mo. to access to $3,100 worth of PREMIUM resources to enhance your UNDERSTANDING of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100for5_071624)
 
 close
 
