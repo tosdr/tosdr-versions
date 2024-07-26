@@ -84,11 +84,11 @@
     
     ### New Categories
     
+    * [Big Radials Nieuport 17](https://flightsim.to/liveries/big-radials-nieuport-17/)
+    * [Piper J-3 Cub](https://flightsim.to/liveries/piper-j-3-cub/)
     * [CowanSim R22](https://flightsim.to/liveries/cowansim-r22/)
     * [BravoAirspace Boeing 787](https://flightsim.to/liveries/bravoairspace-boeing-787/)
     * [PMDG Boeing 777-300ER](https://flightsim.to/liveries/pmdg-boeing-777-300er/)
-    * [Aeroplane Heaven C-47D Skytrain](https://flightsim.to/liveries/aeroplane-heaven-c47d-skytrain/)
-    * [Hawk T.2 / MK.127](https://flightsim.to/liveries/hawk-t2-mk-127/)
     
     ### Popular Categories
     
