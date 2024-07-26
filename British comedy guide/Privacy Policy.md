@@ -20,8 +20,6 @@
 
 × Close menu
 
-Please consider donating to help British Comedy Guide produce quality comedy coverage. Thank you. [Find out more](https://www.comedy.co.uk/donate/)
-
 * [BCG](https://www.comedy.co.uk/)
 * [Info](https://www.comedy.co.uk/info/)
 * Privacy Policy
@@ -142,21 +140,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[![My Name Is Harry Worth. Harry Worth (Harry Worth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/my_name_is_harry_worth.jpg "My Name Is Harry Worth. Harry Worth (Harry Worth). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/my-name-is-harry-worth/) Features
+[![Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/nothing_but_the_best.jpg "Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated")](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/) Competitions
 
-[Comedy Rewind: A touch of confusion as My Name Is Harry Worth](https://www.comedy.co.uk/features/comedy-rewind/my-name-is-harry-worth/)
+[Win Nothing But The Best on Blu-ray](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/)
 
-[![Sharon Wanjohi](https://cdn.comedy.co.uk/images/library/people/300x200/s/sharon_wanjohi.jpg "Sharon Wanjohi")](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/) Live
+[![The Fosters. Image shows left to right: Sonny Foster (Lenny Henry), Benjamin Foster (Lawrie Mark), Shirley Foster (Sharon Rosita). Credit: London Weekend Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_fosters.jpg "The Fosters. Image shows left to right: Sonny Foster (Lenny Henry), Benjamin Foster (Lawrie Mark), Shirley Foster (Sharon Rosita). Credit: London Weekend Television")](https://www.comedy.co.uk/quiz/316/) Quiz
 
-[First Gig, Worst Gig: Sharon Wanjohi](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/)
+[British Comedy Quiz #316](https://www.comedy.co.uk/quiz/316/)
 
-[![Ed Gamble](https://cdn.comedy.co.uk/images/library/people/300x200/e/ed_gamble_hot_dog.jpg "Ed Gamble")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/) Live
+[![Geoff Norcott](https://cdn.comedy.co.uk/images/library/people/300x200/g/geoff_norcott_2017.jpg "Geoff Norcott")](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/) Radio
 
-[Ed Gamble, Glastonbury + Kaleidoscope festivals, Jazz Emu - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/)
+[Geoff Norcott chats to BCG](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/)
 
-[![A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)](https://cdn.comedy.co.uk/images/library/comedies/300x200/p/private_function.jpg "A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)")](https://www.comedy.co.uk/quiz/315/) Quiz
+[![Steffan Alun](https://cdn.comedy.co.uk/images/library/people/300x200/s/steffan_alun.jpg "Steffan Alun")](https://www.comedy.co.uk/live/random8/steffan-alun/) Live
 
-[British Comedy Quiz #315](https://www.comedy.co.uk/quiz/315/)
+[Random 8: Steffan Alun](https://www.comedy.co.uk/live/random8/steffan-alun/)
 
 #### Subscribe to our newsletters
 
