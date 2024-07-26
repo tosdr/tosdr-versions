@@ -16,7 +16,7 @@
 G2 Privacy Policy
 =================
 
-_Last updated on January 2, 2024._
+_Last updated on July 26, 2024._
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through the G2 website ([www.g2.com](http://www.g2.com/) and any subdomains) (“Site”) and communications (e.g., emails, phone calls, and texts) (collectively, “Service”). The terms “we”, “us”, “our” and “G2” refer to: (i) G2.com, Inc., a Delaware corporation with its headquarters in Chicago, Illinois. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy, our [Terms of Use](https://www.g2.com/terms-of-use) and our [Community Guidelines](https://www.g2.com/static/community_guidelines).
 
@@ -48,6 +48,7 @@ We collect, transmit and store various categories of your personal information i
 | Professional or employment information | Current or past employment, job title, employer name |
 | Inferences | Activity on the Site to infer interest in certain products and categories |
 | Sensitive personal information | Account login and password information |
+| Browser | IP address, screen resolution, browser version/identity, browser language, local timezone |
 
 G2 has not collected and does not plan to collect characteristics of protected classifications under applicable laws, biometric information, education information; and sensitive personal information other than account logins and encrypted passwords. Although neither required nor recommended, it is your choice to provide any of the foregoing information in connection with the Service and to make that information public.
 
@@ -62,7 +63,7 @@ Please do not post on the Site or add to your account any personal data that you
 We receive your personal information from any one or more of the following sources:
 
 * _Directly from you._ When you visit the Site, log-in as a registered user, or provide your information in a form on the Site, we will collect and store that information.
-* _Indirectly from you._ When you navigate and interact with the Site, some information is automatically collected by cookies and similar technologies. Not all information collected may be personal information, and some cookies are necessary to use different functionalities of the Site. The personal information collected may include information about your computer and internet connection, like IP address, operating system, and browser type. For more information about the cookies we use, see our [Cookie Policy](https://www.g2.com/cookie-policy).
+* _Indirectly from you._ When you navigate and interact with the Site, some information is automatically collected by cookies and similar technologies. Not all information collected may be personal information, and some cookies are necessary to operationalize or maintain the Site or use different functionalities of the Site. The personal information collected may include information about your computer and internet connection, like IP address, operating system, and browser type. For more information about the cookies we use, see our [Cookie Policy](https://www.g2.com/cookie-policy).
 * _From Social Media Networks._ When you use a social network login to access the Site, you will share certain personal information from your social media account with us. For example, if you connect to the Site through your LinkedIn account, we will receive and store your LinkedIn profile information and LinkedIn connections.
 * _From Other Sources._ We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners, and other independent third-party sources and add it to other information about you. For example, if you visit the Site by “clicking-through” from a site operated by one of our business partners and you have registered with that partner, then information about you that you have provided to that partner may be shared with us.
 
@@ -78,9 +79,9 @@ We may use personal information as permitted by law, for the following business 
     * _For this business purpose, we may use these categories of information:_ identifiers, professional or employment information.
 
 * _To engage in research and analysis related to the Site._ We store and use information to identify and fix errors, understand how visitors use the Site, research and test different features, and analyze how visitors arrive at and use the Site.
-    * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information, inferences.
+    * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information, inferences, browser.
 * _To personalize your experience._ We store and use information provided by you, such as the software products and services you use or have used, or are researching on the Site, to personalize and make recommendations to you based on your provided information.
-    * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data.
+    * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, browser.
 * _To improve and understand usage of the Site._ We store and use information about your use of the Site, such as your search activity, pages viewed, and the date, time and duration of your visits, to understand and improve usage of the Site.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information.
 * _To provide feedback to third party businesses that are listed on the Site._ We store and use information about you or provided by you to assist our business partners in understanding their potential customers or current users.
@@ -90,7 +91,7 @@ We may use personal information as permitted by law, for the following business 
 * _To send you emails about G2's products and services._ We use your email address to send informational and marketing emails to you about new products and services, or updates to existing products or services. We may also contact you regarding feedback you provide us, or to learn more about your experience using the Site. Where appropriate, G2 will only do this with your consent.
     * _For this business purpose, we may use these categories of information_: identifiers, internet or other electronic network or device activity information, geolocation data.
 * _To serve you offsite advertisements, including targeted advertising._ We may serve advertisements for G2 products and services to you through our advertising partners, based on information you provide during your site visit. Where appropriate, G2 will only do this with your consent. To check your settings, please review your [cookie preferences](#).
-    * _For this business purpose, we may use these categories of information_: identifiers, commercial information, professional or employment information, internet or other electronic network or device activity information.
+    * _For this business purpose, we may use these categories of information_: identifiers, commercial information, professional or employment information, internet or other electronic network or device activity information, browser.
 * _To comply with legal obligations._ We use and share your personal information as necessary to respond to subpoenas, court orders, or other legal process; we also may use and share your personal information to establish or exercise our legal rights, to defend against legal claims, or as otherwise required by law. We may use and share your personal information when we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of G2, the Site visitors and registered users, our licensees, and others.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
 * _In connection with a corporate transaction._ We may use and share your personal information in connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
