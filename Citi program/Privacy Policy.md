@@ -9,6 +9,8 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
     * [CE/CME Help](https://support.citiprogram.org/s/contactsupport)
     * [Billing Help](https://support.citiprogram.org/s/contactsupport)
     * [Sales Inquiries](https://about.citiprogram.org/sales-help/)
+* [About](https://about.citiprogram.org/get-to-know-citi-program/)
+* [Job Board](https://about.citiprogram.org/employment-center/)
 
  [![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
 
@@ -16,9 +18,9 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
 
 * [Solutions](https://about.citiprogram.org/solutions/)
 * [Catalog](#)
-    * [Courses](https://about.citiprogram.org/courses/)
-    * [Webinars](https://about.citiprogram.org/webinars/)
-    * [All Content](https://about.citiprogram.org/course-catalog/)
+    * [Courses](https://about.citiprogram.org/courses/?reset=true)
+    * [Webinars](https://about.citiprogram.org/webinars/?reset=true)
+    * [All Content](https://about.citiprogram.org/course-catalog/?reset=true)
 * [Organizations](#)
     * [Benefits](https://about.citiprogram.org/advantages-for-organizations/)
     * [New Subscribers](https://about.citiprogram.org/solutions/)
@@ -283,7 +285,7 @@ Other Legal
 * [Setting Up CITI Program](https://about.citiprogram.org/setting-up-citi-program-3/)
 * [Benefits for Organizations](https://about.citiprogram.org/advantages-for-organizations/)
 * [Resources](https://about.citiprogram.org/tools/)
-* [Courses](https://about.citiprogram.org/courses/)
+* [Explore Our Courses](https://about.citiprogram.org/courses/)
 
 ### Learners
 
@@ -291,8 +293,8 @@ Other Legal
 * [Organizational Learners](https://about.citiprogram.org/organizational-learners/)
 * [Benefits for Learners](https://about.citiprogram.org/advantages-for-learners/)
 * [Subscribing Organizations](https://about.citiprogram.org/subscribing-organizations/)
-* [Courses](https://about.citiprogram.org/courses/)
-* [CE Certified Courses](https://about.citiprogram.org/courses/?reset=true&fwp_cme_type=nurses%2Cother%2Cpharmacists%2Cphysicians%2Cpsychologists%2Csocial-workers)
+* [Explore Our Courses](https://about.citiprogram.org/courses/)
+* [CE Certified Courses](https://about.citiprogram.org/courses/?fwp_cme_type=athletic-trainers%2Cdentists%2Cdietitians%2Cnurses%2Coptometrists%2Cother%2Cpharmacists%2Cphysicians%2Cpsychologists%2Csocial-workers&fwp_sort_courses=popularity)
 * [Resources](https://about.citiprogram.org/tools/)
 
 ### Support
