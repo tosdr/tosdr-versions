@@ -12,7 +12,7 @@ Privacy Policy
 ==============
 
   
-This Privacy Policy was last updated on July 17, 2024.
+This Privacy Policy was last updated on July 24, 2024.
 
 Welcome to the home of Frost Giant Studios!   We’re on a mission to bring you the best in real time strategy games.
 
@@ -33,7 +33,7 @@ Frost Giant Studios. Inc.
 Attn. Department of Legal & Business Affairs.  
 Email: [legal@frostgiant.com](mailto:legal@frostgiant.com)
 
-Please read this entire policy to make sure you understand it. You should also read our [End User License Agreement](https://playstormgate.com/legal/EULA) (“EULA”) carefully, and make sure you understand and agree to its terms before using Frost Giant Services.
+Please read this entire policy to make sure you understand it. You should also read our [End User License Agreement](https://playstormgate.com/legal/eula) (“EULA”) carefully, and make sure you understand and agree to its terms before using Frost Giant Services.
 
 By using the Sites and Services, you acknowledge that you have read and understand this Privacy Policy and accept our collection and use of your personal information as described below.
 
