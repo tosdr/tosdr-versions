@@ -6,6 +6,7 @@
 
 [![DriveSure](https://drivesure.wpenginepowered.com/wp-content/uploads/2018/12/Drive-Sure-logo.png)](https://drivesure.com/)
 
+* [Podcast](https://drivesure.com/podcast/)
 * [Dealerships](https://drivesure.com/dealership-solutions/)
     * [Overview](https://drivesure.com/dealership-solutions/)
     * [Renewable Benefits](https://drivesure.com/renewable-benefits/)
