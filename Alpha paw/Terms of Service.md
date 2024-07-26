@@ -329,7 +329,7 @@ Apply
     
     [Regular price
     
-    $34.99
+    $29.99
     
     Regular price
     
@@ -337,7 +337,7 @@ Apply
     
     Sale price
     
-    $34.99 Save $5.00 (12%)
+    $29.99 Save $10.00 (25%)
     
     Unit price
     
@@ -351,7 +351,7 @@ Apply
     
     Regular price
     
-    $34.99
+    $29.99
     
     Regular price
     
@@ -359,7 +359,7 @@ Apply
     
     Sale price
     
-    $34.99 Save $5.00 (12%)
+    $29.99 Save $10.00 (25%)
     
     Unit price
     
@@ -370,6 +370,114 @@ Apply
     in your cart
     
     1 total reviews
+    
+* On sale
+    
+    [![Custom Pet Fleece Blanket | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-fleece-blanket-alpha-paw-1_533x.jpg?v=1676264908)
+    
+    ![Custom Pet Fleece Blanket](//www.alphapaw.com/cdn/shop/files/CustomFleece_533x.png?v=1714754993)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
+    
+    [Regular price
+    
+    From $89.00
+    
+    Regular price
+    
+    ~$149.95~
+    
+    Sale price
+    
+    From $89.00 Save $60.95 (40%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Pet Fleece Blanket
+    
+    in your cart
+    
+    2 sizes
+    
+    7795 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
+    
+    Regular price
+    
+    From $89.00
+    
+    Regular price
+    
+    ~$149.95~
+    
+    Sale price
+    
+    From $89.00 Save $60.95 (40%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Pet Fleece Blanket
+    
+    in your cart
+    
+    2 sizes
+    
+    7795 total reviews
+    
+* On sale
+    
+    [![Magic Pee Pads XL | Alpha Paw](//www.alphapaw.com/cdn/shop/products/magic-pee-pads-xl-alpha-paw-1_533x.png?v=1676264566)
+    
+    ![Magic Pee Pads XL](//www.alphapaw.com/cdn/shop/files/peepads-layers_1e513611-87a4-4e79-bacf-c02d6a7ea92b_533x.jpg?v=1698173316)](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    
+    [Regular price
+    
+    From $32.00
+    
+    Regular price
+    
+    ~$44.00~
+    
+    Sale price
+    
+    From $32.00 Save $12.00 (27%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Magic Pee Pads XL
+    
+    in your cart
+    
+    3 sizes
+    
+    3328 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    
+    Regular price
+    
+    From $32.00
+    
+    Regular price
+    
+    ~$44.00~
+    
+    Sale price
+    
+    From $32.00 Save $12.00 (27%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Magic Pee Pads XL
+    
+    in your cart
+    
+    3 sizes
+    
+    3328 total reviews
     
 * [![PupChill™ Cooling Bolster Dog Bed](//www.alphapaw.com/cdn/shop/files/4_e25cc220-b083-41a7-97f3-1f547587dbf9_533x.png?v=1714158089)
     
@@ -421,53 +529,107 @@ Apply
     
 * On sale
     
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/5_e37bd5b0-7c5c-4e34-aa94-7e9b1a797d8e-178230_533x.png?v=1712597251)
+    [![Magic Mouthwash™ For Dogs](//www.alphapaw.com/cdn/shop/files/Magic-Mouthwash_533x.jpg?v=1698095973)
     
-    ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/284ACBB3-8A5F-4B2E-A19C-CE153811CC52-A886F66F-8DE7-4C41-A324-55AE65E9A8E6_2_088cd333-cf2d-46f2-b1b2-648e383a040b_533x.jpg?v=1712597262)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-white-with-brown-accents)
+    ![Magic Mouthwash™ For Dogs | Alpha Paw](//www.alphapaw.com/cdn/shop/products/3_533x.jpg?v=1698095973)](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     [Regular price
     
-    From $129.00
+    From $24.00
     
     Regular price
     
-    ~$229.00~
+    ~$48.00~
     
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $24.00 Save $24.00 (50%)
     
     Unit price
     
     /  per 
     
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents
+    ### Magic Mouthwash™ For Dogs
     
     in your cart
     
-    4 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-white-with-brown-accents)
+    1309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     Regular price
     
-    From $129.00
+    From $24.00
     
     Regular price
     
-    ~$229.00~
+    ~$48.00~
     
     Sale price
     
-    From $129.00 Save $100.00 (43%)
+    From $24.00 Save $24.00 (50%)
     
     Unit price
     
     /  per 
     
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve White with Brown Accents
+    ### Magic Mouthwash™ For Dogs
     
     in your cart
     
-    4 sizes
+    1309 total reviews
+    
+* On sale
+    
+    [![Custom Pet Socks | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-socks-alpha-paw-1_533x.jpg?v=1676264983)
+    
+    ![Custom Pet Socks | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-socks-alpha-paw-2_533x.jpg?v=1676264985)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-socks)
+    
+    [Regular price
+    
+    $34.00
+    
+    Regular price
+    
+    ~$54.95~
+    
+    Sale price
+    
+    $34.00 Save $20.95 (38%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Pet Socks
+    
+    in your cart
+    
+    3 sizes
+    
+    264 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-socks)
+    
+    Regular price
+    
+    $34.00
+    
+    Regular price
+    
+    ~$54.95~
+    
+    Sale price
+    
+    $34.00 Save $20.95 (38%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Pet Socks
+    
+    in your cart
+    
+    3 sizes
+    
+    264 total reviews
     
 * On sale
     
@@ -497,7 +659,7 @@ Apply
     
     3 sizes
     
-    3327 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3328 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -521,165 +683,7 @@ Apply
     
     3 sizes
     
-    3327 total reviews
-    
-* Sold out
-    
-    [![PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/11_ae532a7a-6486-4bf7-8f90-43472cc1f631_533x.jpg?v=1712597248)
-    
-    ![PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/10_5716f3ad-4a95-484f-b80f-6ef3097bed92-842449_533x.png?v=1712597247)](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-runner-faux-fur-memory-foam-dog-bed-curve-white-with-brown-accents)
-    
-    [Regular price
-    
-    $229.00
-    
-    Regular price
-    
-    ~$369.00~
-    
-    Sale price
-    
-    $229.00 Save $140.00 (37%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents
-    
-    in your cart
-    
-    1 size
-    
-    2 total reviews](https://www.alphapaw.com/collections/bestsellers/products/puprug%E2%84%A2-runner-faux-fur-memory-foam-dog-bed-curve-white-with-brown-accents)
-    
-    Regular price
-    
-    $229.00
-    
-    Regular price
-    
-    ~$369.00~
-    
-    Sale price
-    
-    $229.00 Save $140.00 (37%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents
-    
-    in your cart
-    
-    1 size
-    
-    2 total reviews
-    
-* On sale
-    
-    [![Magic Pee Pads XL | Alpha Paw](//www.alphapaw.com/cdn/shop/products/magic-pee-pads-xl-alpha-paw-1_533x.png?v=1676264566)
-    
-    ![Magic Pee Pads XL](//www.alphapaw.com/cdn/shop/files/peepads-layers_1e513611-87a4-4e79-bacf-c02d6a7ea92b_533x.jpg?v=1698173316)](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
-    
-    [Regular price
-    
-    From $32.00
-    
-    Regular price
-    
-    ~$44.00~
-    
-    Sale price
-    
-    From $32.00 Save $12.00 (27%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Magic Pee Pads XL
-    
-    in your cart
-    
-    3 sizes
-    
-    3327 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
-    
-    Regular price
-    
-    From $32.00
-    
-    Regular price
-    
-    ~$44.00~
-    
-    Sale price
-    
-    From $32.00 Save $12.00 (27%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Magic Pee Pads XL
-    
-    in your cart
-    
-    3 sizes
-    
-    3327 total reviews
-    
-* On sale
-    
-    [![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/goldenretrieverlargebed-593447_533x.png?v=1712597242)
-    
-    ![PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black](//www.alphapaw.com/cdn/shop/files/whitegermanshepherdgiant-648160_533x.png?v=1712597241)](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
-    
-    [Regular price
-    
-    From $149.00
-    
-    Regular price
-    
-    ~$199.00~
-    
-    Sale price
-    
-    From $149.00 Save $50.00 (25%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
-    
-    in your cart
-    
-    3 sizes](https://www.alphapaw.com/collections/bestsellers/products/puprug-faux-fur-orthopedic-dog-bed-curve-midnight-black)
-    
-    Regular price
-    
-    From $149.00
-    
-    Regular price
-    
-    ~$199.00~
-    
-    Sale price
-    
-    From $149.00 Save $50.00 (25%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### PupRug™ Faux Fur Orthopedic Dog Bed - Curve Midnight Black
-    
-    in your cart
-    
-    3 sizes
+    3328 total reviews
     
 * On sale
     
@@ -730,56 +734,6 @@ Apply
     in your cart
     
     3 sizes
-    
-* On sale
-    
-    [![Magic Mouthwash™ For Dogs](//www.alphapaw.com/cdn/shop/files/Magic-Mouthwash_533x.jpg?v=1698095973)
-    
-    ![Magic Mouthwash™ For Dogs | Alpha Paw](//www.alphapaw.com/cdn/shop/products/3_533x.jpg?v=1698095973)](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
-    
-    [Regular price
-    
-    From $24.00
-    
-    Regular price
-    
-    ~$48.00~
-    
-    Sale price
-    
-    From $24.00 Save $24.00 (50%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Magic Mouthwash™ For Dogs
-    
-    in your cart
-    
-    1309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
-    
-    Regular price
-    
-    From $24.00
-    
-    Regular price
-    
-    ~$48.00~
-    
-    Sale price
-    
-    From $24.00 Save $24.00 (50%)
-    
-    Unit price
-    
-    /  per 
-    
-    ### Magic Mouthwash™ For Dogs
-    
-    in your cart
-    
-    1309 total reviews
     
 * On sale
     
@@ -883,111 +837,165 @@ Apply
     
 * On sale
     
-    [![Custom Pet Fleece Blanket | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-fleece-blanket-alpha-paw-1_533x.jpg?v=1676264908)
+    [![Custom Pet Coffee Mug | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-coffee-mug-alpha-paw-1_533x.jpg?v=1676264909)
     
-    ![Custom Pet Fleece Blanket](//www.alphapaw.com/cdn/shop/files/CustomFleece_533x.png?v=1714754993)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
+    ![Custom Pet Coffee Mug | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-coffee-mug-alpha-paw-2_533x.png?v=1676264912)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-coffee-mug)
     
     [Regular price
     
-    From $89.00
+    $39.00
     
     Regular price
     
-    ~$149.95~
+    ~$64.95~
     
     Sale price
     
-    From $89.00 Save $60.95 (40%)
+    $39.00 Save $25.95 (39%)
     
     Unit price
     
     /  per 
     
-    ### Custom Pet Fleece Blanket
+    ### Custom Pet Coffee Mug
     
     in your cart
     
-    2 sizes
-    
-    7795 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-fleece-blanket)
+    593 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-coffee-mug)
     
     Regular price
     
-    From $89.00
+    $39.00
     
     Regular price
     
-    ~$149.95~
+    ~$64.95~
     
     Sale price
     
-    From $89.00 Save $60.95 (40%)
+    $39.00 Save $25.95 (39%)
     
     Unit price
     
     /  per 
     
-    ### Custom Pet Fleece Blanket
+    ### Custom Pet Coffee Mug
     
     in your cart
     
-    2 sizes
-    
-    7795 total reviews
+    593 total reviews
     
 * On sale
     
-    [![Custom Pet Socks | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-socks-alpha-paw-1_533x.jpg?v=1676264983)
+    [![Custom Wrapped Canvas | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-wrapped-canvas-alpha-paw-1_533x.jpg?v=1676264909)
     
-    ![Custom Pet Socks | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-pet-socks-alpha-paw-2_533x.jpg?v=1676264985)](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-socks)
+    ![Custom Wrapped Canvas | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-wrapped-canvas-alpha-paw-2_533x.jpg?v=1676264913)](https://www.alphapaw.com/collections/bestsellers/products/custom-wrapped-pet-canvas)
     
     [Regular price
     
-    $34.00
+    From $64.00
     
     Regular price
     
-    ~$54.95~
+    ~$114.95~
     
     Sale price
     
-    $34.00 Save $20.95 (38%)
+    From $64.00 Save $50.95 (44%)
     
     Unit price
     
     /  per 
     
-    ### Custom Pet Socks
+    ### Custom Wrapped Canvas
     
     in your cart
     
-    3 sizes
+    4 sizes
     
-    264 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-pet-socks)
-    
-    Regular price
-    
-    $34.00
+    825 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-wrapped-pet-canvas)
     
     Regular price
     
-    ~$54.95~
+    From $64.00
+    
+    Regular price
+    
+    ~$114.95~
     
     Sale price
     
-    $34.00 Save $20.95 (38%)
+    From $64.00 Save $50.95 (44%)
     
     Unit price
     
     /  per 
     
-    ### Custom Pet Socks
+    ### Custom Wrapped Canvas
     
     in your cart
     
-    3 sizes
+    4 sizes
     
-    264 total reviews
+    825 total reviews
+    
+* On sale
+    
+    [![Custom Modern Pet Portrait](//www.alphapaw.com/cdn/shop/files/ModernPetPortraitLittleLocke_533x.jpg?v=1700328715)
+    
+    ![Custom Modern Pet Portrait | Alpha Paw](//www.alphapaw.com/cdn/shop/products/custom-modern-pet-portrait-alpha-paw-1_533x.jpg?v=1700328715)](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
+    
+    [Regular price
+    
+    From $79.00
+    
+    Regular price
+    
+    ~$119.95~
+    
+    Sale price
+    
+    From $79.00 Save $40.95 (34%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Modern Pet Portrait
+    
+    in your cart
+    
+    4 sizes
+    
+    2 colors
+    
+    392 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
+    
+    Regular price
+    
+    From $79.00
+    
+    Regular price
+    
+    ~$119.95~
+    
+    Sale price
+    
+    From $79.00 Save $40.95 (34%)
+    
+    Unit price
+    
+    /  per 
+    
+    ### Custom Modern Pet Portrait
+    
+    in your cart
+    
+    4 sizes
+    
+    2 colors
+    
+    392 total reviews
     
 
 * $00 Product Title 3 colors
@@ -1001,7 +1009,6 @@ Apply
 
 * 1
 * [2](https://www.alphapaw.com/collections/bestsellers?page=2)
-* [3](https://www.alphapaw.com/collections/bestsellers?page=3)
 * [](https://www.alphapaw.com/collections/bestsellers?page=2)
 
  
