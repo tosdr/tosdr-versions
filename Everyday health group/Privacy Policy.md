@@ -18,7 +18,7 @@ NewslettersSearch
 
 [About Us](https://www.everydayhealth.com/about-us/)
 
-![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/site-images/01-health-conditions-a-z.png?sfvrsn=909a1558_1)
 
@@ -32,7 +32,7 @@ Find helpful content on common health and medical conditions.
 
 [Menopause](https://www.everydayhealth.com/menopause/)[Migraine](https://www.everydayhealth.com/migraine/)[Multiple Sclerosis](https://www.everydayhealth.com/multiple-sclerosis/)[Prostate Cancer](https://www.everydayhealth.com/prostate-cancer/)[Psoriasis](https://www.everydayhealth.com/psoriasis/)[Rheumatoid Arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/)[Type 2 Diabetes](https://www.everydayhealth.com/type-2-diabetes/)
 
-![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/site-images/02-wellness-and-self-care.png?sfvrsn=7d17ab8c_1)
 
@@ -54,21 +54,21 @@ Stay updated with the latest health and medical news.
 
 Featured stories
 
-[![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/rsv-vax-cdc-changes-guidelines-1440x810.jpg)
 
-Who Should Get an RSV Vaccine? The Guidelines Are Changing](https://www.everydayhealth.com/lung-respiratory/who-should-get-an-rsv-vaccine-guidelines-changing/)[![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Who Should Get an RSV Vaccine? The Guidelines Are Changing](https://www.everydayhealth.com/lung-respiratory/who-should-get-an-rsv-vaccine-guidelines-changing/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/exercise-prevents-nerve-pain-during-cancer-treatment-alt-1440x810.jpg)
 
-These Simple Exercises May Prevent Chemo-Induced Neuropathy](https://www.everydayhealth.com/cancer-treatment/simple-exercises-may-help-prevent-chemo-induced-neuropathy/)[![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+These Simple Exercises May Prevent Chemo-Induced Neuropathy](https://www.everydayhealth.com/cancer-treatment/simple-exercises-may-help-prevent-chemo-induced-neuropathy/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/ensifentrine-for-copd-treatment-gets-fda-approval-alt-1440x810.jpg)
 
 New COPD Treatment Widens Airways and Fights Inflammation](https://www.everydayhealth.com/copd/new-copd-treatment-both-widens-airways-and-fights-inflammation/)
 
-![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/site-images/05-product-reviews.png?sfvrsn=757fb46a_1)
 
@@ -82,7 +82,7 @@ Learn about the best products to support your health and wellness.
 
 [Best Online Therapy Services](https://www.everydayhealth.com/emotional-health/best-online-therapy/)[Best Online Therapy That Takes Insurance](https://www.everydayhealth.com/emotional-health/best-online-therapy-that-takes-insurance/)[Best Shoes for Standing All Day](https://www.everydayhealth.com/foot-health/best-shoes-for-standing-all-day-according-to-experts/)[Best Cold Plunge Tubs](https://www.everydayhealth.com/healthy-living/best-cold-plunge-tubs/)[Best Costco Hearing Aids](https://www.everydayhealth.com/healthy-living/costco-hearing-aids/)
 
-![](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/site-images/06-find-a-doctor.png?sfvrsn=ff47e990_1)
 
@@ -948,6 +948,12 @@ Wellness inspired. Wellness enabled.
 
 FacebookTwitterInstagramPinterestYoutubeTikTok
 
+A PROPERTY OF[![Everyday Health Group](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
+![Everyday Health Group](https://images.everydayhealth.com/react-component-images/everydayhealthgrouplogo-long-white.png?w=120)
+
+EHGLogo](https://www.everydayhealthgroup.com/ "Everyday Health Group")
+
 * [About Us](https://www.everydayhealth.com/about-us/)
 * [Privacy Policy](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy)
 * [Editorial Policy](https://www.everydayhealth.com/editorial-policies/)
@@ -976,14 +982,6 @@ Enter your email
 Subscribe
 
 By subscribing you agree to the [Terms of Use](https://www.everydayhealth.com/privacyterms/#everyday-health-terms-of-use) and [Privacy Policy](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy).
-
-A PROPERTY OF[![Everyday Health Group](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![Everyday Health Group](https://images.everydayhealth.com/react-component-images/everydayhealthgrouplogo-long-white.png?w=120)
-
-EHGLogo](https://www.everydayhealthgroup.com/ "Everyday Health Group")
-
-More From Everyday Health: [Castle Connolly Top Doctors](https://www.castleconnolly.com/)[DailyOM](https://www.dailyom.com/)[Diabetes Daily](https://www.diabetesdaily.com/)[Everyday Health Care](https://care.everydayhealth.com/)[Migraine Again](https://www.migraineagain.com/)
 
 [![Group Black](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
