@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Netizens Up in Arms Over BMW Adaptive Headlight Subscription](https://s1.cdn.autoevolution.com/images/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335-5.jpg "Netizens Up in Arms Over BMW Adaptive Headlight Subscription")
+[![The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia](https://s1.cdn.autoevolution.com/images/news/the-automotive-industry-lost-its-passion-and-it-now-lives-of-nostalgia-237407-5.jpg "The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia")
 
-#### Netizens Up in Arms Over BMW Adaptive Headlight Subscription](https://www.autoevolution.com/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335.html "Netizens Up in Arms Over BMW Adaptive Headlight Subscription")
+#### The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia](https://www.autoevolution.com/news/the-automotive-industry-lost-its-passion-and-it-now-lives-of-nostalgia-237407.html "The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia")
 
 coverstory \_
 
-[![This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living](https://s1.cdn.autoevolution.com/images/news/this-luxurious-outdoor-haven-reveals-a-sophisticated-take-on-tiny-living-237370-5.jpg "This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living")
+[![Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update](https://s1.cdn.autoevolution.com/images/news/here-s-why-you-should-be-really-excited-for-helldivers-2-s-escalation-of-freedom-update-237490-5.jpg "Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update")
 
-This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living](https://www.autoevolution.com/news/this-luxurious-outdoor-haven-reveals-a-sophisticated-take-on-tiny-living-237370.html)
+Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update](https://www.autoevolution.com/news/here-s-why-you-should-be-really-excited-for-helldivers-2-s-escalation-of-freedom-update-237490.html)
 
 how-to \_
 
