@@ -67,7 +67,7 @@ Menu
         
     * [Election 2024](https://apnews.com/hub/election-2024)
         
-        * [Election Results](https://apnews.com/projects/election-results-2024/)
+        * Election Results
         * [Delegate Tracker](https://apnews.com/hub/ap-election-2024-delegate-tracker)
         * [AP & Elections](https://apnews.com/ap-elections-explained)
         * [Global elections](https://apnews.com/hub/global-elections/)
@@ -80,6 +80,7 @@ Menu
         
     * [Sports](https://apnews.com/sports)
         
+        * [2024 Paris Olympic Games](https://apnews.com/hub/2024-paris-olympic-games)
         * [MLB](https://apnews.com/hub/mlb)
         * [NBA](https://apnews.com/hub/nba)
         * [NHL](https://apnews.com/hub/nhl)
@@ -88,7 +89,6 @@ Menu
         * [Golf](https://apnews.com/hub/golf)
         * [Tennis](https://apnews.com/hub/tennis)
         * [Auto Racing](https://apnews.com/hub/auto-racing)
-        * [2024 Paris Olympic Games](https://apnews.com/hub/2024-paris-olympic-games)
         
     * [Entertainment](https://apnews.com/entertainment)
         
@@ -161,7 +161,7 @@ Show Search
     
 * [Election 2024](https://apnews.com/hub/election-2024)
     
-    * [Election Results](https://apnews.com/projects/election-results-2024/)
+    * Election Results
     * [Delegate Tracker](https://apnews.com/hub/ap-election-2024-delegate-tracker)
     * [AP & Elections](https://apnews.com/ap-elections-explained)
     * [Global elections](https://apnews.com/hub/global-elections/)
@@ -174,6 +174,7 @@ Show Search
     
 * [Sports](https://apnews.com/sports)
     
+    * [2024 Paris Olympic Games](https://apnews.com/hub/2024-paris-olympic-games)
     * [MLB](https://apnews.com/hub/mlb)
     * [NBA](https://apnews.com/hub/nba)
     * [NHL](https://apnews.com/hub/nhl)
@@ -182,7 +183,6 @@ Show Search
     * [Golf](https://apnews.com/hub/golf)
     * [Tennis](https://apnews.com/hub/tennis)
     * [Auto Racing](https://apnews.com/hub/auto-racing)
-    * [2024 Paris Olympic Games](https://apnews.com/hub/2024-paris-olympic-games)
     
 * [Entertainment](https://apnews.com/entertainment)
     
@@ -271,15 +271,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: Election 2024](https://apnews.com/live/biden-trump-election-campaign-updates)
+[Live: Election 2024](https://apnews.com/live/harris-biden-trump-election-campaign-updates)
 
-[Abdul ‘Duke’ Fakir dies](https://apnews.com/article/duke-fakir-dead-four-tops-e99f0d29e9db40cd01670cf383838a94)
-
-[Miss Kansas](https://apnews.com/article/miss-kansas-alexis-smith-domestic-violence-4ea520487500bc82c415fb4b6a317513)
-
-[Stock market](https://apnews.com/article/stock-markets-rates-outage-biden-69813d651e9f20f087c3c456705d6ce3)
+[Biden prison oversight bill](https://apnews.com/article/federal-prisons-congress-oversight-abuse-transparency-biden-397d95d00d507a95c58dc0f78ada0407)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
+
+[US wildfires](https://apnews.com/article/wildfires-evacuations-oregon-california-canada-1809c690e8902a4578c9f4286949550d)
+
+[How to watch the 2024 Olympics](https://apnews.com/hub/2024-paris-olympic-games)
 
 The Associated Press
 ====================
