@@ -3,7 +3,7 @@
 1\. Brilliant.org Privacy Statement
 ===================================
 
-Brilliant Worldwide, Inc. ("Brilliant") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you are a resident of the European Union ("EU"), United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Information, as [outlined below](#gdpr).
+Brilliant Worldwide, Inc. ("Brilliant") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Statement. If you are a resident of the European Union ("EU"), United Kingdom, Liechtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Information, as [outlined below](#gdpr).
 
 2\. What Does This Privacy Statement Cover?
 -------------------------------------------
@@ -24,7 +24,7 @@ _Do Not Track Policy._ Through cookies we place on your browser or device, we ma
 4\. What about children?
 ------------------------
 
-The safety and privacy of children is extremely important to us. If you are a resident of the EU, United Kingdom, Lichtenstein, Norway, or Iceland, then you must be 16 years old or older to use the Services in any way. Otherwise, every user of the Service must be 13 years of age or older. Any person that does not meet the foregoing age requirements is a "Minor". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us at [privacy@brilliant.org](mailto: mailto:privacy@brilliant.org). We reserve the right to require any user to verify that the user is not a Minor, and if a user does not provide such verification in a timely manner, we will terminate the user's account and delete all personally identifiable information displaying on the site and collected from such user.
+The safety and privacy of children is extremely important to us. If you are a resident of the EU, United Kingdom, Liechtenstein, Norway, or Iceland, then you must be 16 years old or older to use the Services in any way. Otherwise, every user of the Service must be 13 years of age or older. Any person that does not meet the foregoing age requirements is a "Minor". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us at [privacy@brilliant.org](mailto: mailto:privacy@brilliant.org). We reserve the right to require any user to verify that the user is not a Minor, and if a user does not provide such verification in a timely manner, we will terminate the user's account and delete all personally identifiable information displaying on the site and collected from such user.
 
 5\. How does Brilliant use the information it collects?
 -------------------------------------------------------
@@ -116,7 +116,7 @@ Information we automatically collect when you use our Sites: Some Personal Data 
 * Location inferred from your IP address
 * Log data (e.g. access times, hardware and software information)
 
-**How Do We Use Your Personal Data?**We process Persona Data to operate, improve, understand and personalize our Sites. For example, we use Personal Data to:
+**How Do We Use Your Personal Data?** We process Persona Data to operate, improve, understand and personalize our Sites. For example, we use Personal Data to:
 
 * Create and manage user profiles
 * Communicate with you about the Sites
