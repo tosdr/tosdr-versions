@@ -423,8 +423,9 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 * [About Ducks Unlimited](https://www.ducks.org/about-ducks-unlimited "About Ducks Unlimited")
 * [Contact DU](https://www.ducks.org/about-ducks-unlimited/contact-us "Contact DU")
 * [Regional Offices](https://www.ducks.org/about-ducks-unlimited/regional-offices "Regional Offices")
+* [Careers at DU](https://www.ducks.org/about-ducks-unlimited#careers "Careers at DU")
+* [Jobs - Apply Now](https://www.ducks.org/jobs "Jobs - Apply Now")
 * [Annual Report](https://www.ducks.org/conservation/national/ducks-unlimiteds-2023-annual-report "Annual Report")
-* [Jobs](https://www.ducks.org/about-ducks-unlimited#careers "Jobs")
 * [Financials](https://www.ducks.org/about-ducks-unlimited/financials "Financials")
 * [Privacy Policy](https://www.ducks.org/about-ducks-unlimited/privacy-policy "Privacy Policy")
 
@@ -482,6 +483,8 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 [+1 800-45-DUCKS](tel:+18004538257 "+1 800-453-8257")
 
 [Contact Us](https://www.ducks.org/about-ducks-unlimited/contact-us "Contact Us")
+
+[Jobs - Apply Now](https://www.ducks.org/jobs "Jobs - Apply Now")
 
 [Privacy Policy](https://www.ducks.org/about-ducks-unlimited/privacy-policy "Privacy Policy")
 
