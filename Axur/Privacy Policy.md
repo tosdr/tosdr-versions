@@ -1,6 +1,6 @@
-[**Talents**](https://start.axur.com/pt-br/talentos)[Login](https://one.axur.com/)
+[Blog](https://blog.axur.com/en)[My account](https://one.axur.com/)
 
-[![Três barras de cor laranja e escrito axur em preto](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/61fa945e6618694b924c6eb1_logo.svg)](https://axur.com/en-us/home)
+[![Três barras de cor laranja e escrito axur em preto](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/63c00228e38261658895398f_logo-white.svg)](https://axur.com/en-us/home)
 
 View dashboard
 
@@ -61,6 +61,34 @@ View dashboard
     
     [Know more](https://axur.com/en-us/outsourced-takedown)
     
+* Content
+    
+    * * [Blog
+            
+            Read our articles about the most important external threats](https://blog.axur.com/en)
+        * [Resources
+            
+            Stay updated with our ebooks, reports and datasheets](https://axur.com/en-us/resources)
+        * [remover item de todos os idiomas
+            
+            ele voltará quando o Discover Axur estiver no ar](#)
+    
+    ![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/667443a96b6a09070831454b_ebook_destaque.jpg)
+    
+    **Download now to read the full report**
+    
+    [READ NOW](https://axur.com/en-us/report-axur-2023)
+    
+    * [Blog](https://blog.axur.com/en)
+    * [Resources](https://axur.com/en-us/resources)
+    * [Documentação](#)
+    * ![](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/667443a96b6a09070831454b_ebook_destaque.jpg)
+        
+        **Download now to read the full report**
+        
+        [READ NOW](https://axur.com/en-us/report-axur-2023)
+        
+    
 * Tools
     
     * [Watchdog
@@ -101,11 +129,19 @@ View dashboard
     * [Spanish](#)
     * [Portuguese](#)
     
+* * [English](#)
+    * [Spanish](#)
+    * [Portuguese](#)
+    
+    * [English](#)
+    * [Spanish](#)
+    * [Portuguese](#)
+    
 * [Talents](https://start.axur.com/en-us/talents)
 
 [Start today](https://start.axur.com/en-us/)
 
-[Start today](https://start.axur.com/en-us/)
+[Get a demo](https://start.axur.com/en-us/)
 
 **Privacy Policy / Personal Data Processing**
 =============================================
