@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-90-day risk-free trial | Free shipping for orders of $49 or more
+Save an extra 20% on [Certified Refurbished](https://www.bose.com/c/refurbished) products with code SUMMER20.
 
 New QuietComfort Headphones in limited-edition Chilled Lilac. [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html)
 
@@ -24,8 +24,6 @@ Back
     * [Accessories](https://www.bose.com/c/accessories)
     
     Back
-    
-    [View all products](https://www.bose.com/c/all-products)
     
     [![](https://assets.bosecreative.com/m/7f282209b7c5ee31/webimage-SF_QCH_M-NAV_EXPRESSIVE_CHILLED-LILAC.png)
     
