@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        22 July 2024
+        24 July 2024
         
-        Atos successfully delivered key IT services and applications for UEFA EURO 2024™, to connect football fans globally
-        -------------------------------------------------------------------------------------------------------------------
+        Market Update - July 24, 2024
+        -----------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
