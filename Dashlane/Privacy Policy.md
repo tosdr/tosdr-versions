@@ -1,266 +1,315 @@
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='14' width='14' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQ4y6XTwQ7BQBAG4OVId0tExBEHiQOH7vTQzKQX3kjcXcXVI4jXcCCIeAgSibcgLRWRlt3pHtvsl5ns/wshREECTV2NbcE8tSCQSuO86XklITWNFdBdAp05aIwBbmND41JUvaErAQ9PFC/KCzqmWKM/KiugdXRXabw5PvbiHxw0E0uODfoXs0GNMRPUGvuFsrHkuIOwIjUdk0gpTbsYA7pKHXRZgf2clD1Z5gMwcprSANq81wQ8vRvlU4s/2WvNaH0FtLee9NdrWqMm0TBGbXL2t1Gc0GaieRqQijo+TvI04KtRq+hbUQHO2HVKUKBFvRc6Dy8buyYd50QkAAAAAElFTkSuQmCC)
-
-![Close](https://d38muu3h4xeqr1.cloudfront.net/website/static/DG-10002/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg)
-
-**Please note:** We use cookies on our site to give you the best experience. Please accept these cookies, or change your settings here:
-
-Cookie preferences.
-
-I acceptI refuse
-
 [Skip to main content](#main-content)
 
-[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
+[Dashlane Logo](https://www.dashlane.com/)
 
-Icon of a computer, with a checkmark on the screen[Request Demo](https://www.dashlane.com/business-password-manager/request-demo)
-
-[](https://www.dashlane.com/ "Dashlane Password Manager")
-
-[](https://www.dashlane.com/ "Dashlane Password Manager")
-
-* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
-* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
+* Product
+    
+* Why Dashlane
+    
+* [Pricing](https://www.dashlane.com/pricing)
 * Resources
     
-    [Resource library](https://www.dashlane.com/resources)[Help center](https://support.dashlane.com/)[Blog](https://www.dashlane.com/blog)[Success Stories](https://www.dashlane.com/resources#SuccessStories)[Passkeys](https://www.dashlane.com/passkeys)
+* Blog
     
-* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
+* [Log in](https://app.dashlane.com/)
 
-[Log In](https://app.dashlane.com/)[Get Dashlane](https://www.dashlane.com/pricing)
+[Request a demo](https://www.dashlane.com/business-password-manager/request-demo)[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
 
-* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
-* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
-* Resources
-    
-    * [Resource library](https://www.dashlane.com/resources)
-    * [Help center](https://support.dashlane.com/)
-    * [Blog](https://www.dashlane.com/blog)
-    * [Success Stories](https://www.dashlane.com/resources#SuccessStories)
-    * [Passkeys](https://www.dashlane.com/passkeys)
-* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
-* [Log In](https://app.dashlane.com/ "Log In")
-* [Contact Sales](https://www.dashlane.com/business-password-manager/enterprise "Contact Sales")
-* [Icon of a computer, with a checkmark on the screenRequest Demo](https://www.dashlane.com/business-password-manager/request-demo "Request Demo")
-* [Get Dashlane](https://www.dashlane.com/pricing)
-
-Hamburger Menu Icon
+Open menu
 
 Privacy Policy
 ==============
 
 Welcome to Dashlane, where our mission is to make your digital life simpler, safer, and more secure. We believe that your identity should be just that—yours—and are dedicated to creating software that lets you control your information online.  
+
+Dashlane's current Privacy Policy is available for you to read below. We include plain-language summaries to make the legalese easier to understand, but if you still have questions, please visit our [Help Center](https://support.dashlane.com/hc/en-us/requests/new).
+
+**Dashlane Privacy Policy** 
+
+Our Privacy Policy is below. You have to accept it to use our software, but we know it can be hard to follow. To help you understand what you are agreeing to, each section starts with a short “non-legal” summary. The summaries are  not technically part of the Policy.  
+
+LAST UPDATED: March 15, 2024 
+
+**1\. INTRODUCTION** 
+
+**_Summary:_**  _This Policy describes how we obtain and use personal data (which can be used to identify a specific individual) and  anonymous data (which can’t) about our users. Certain parts of the Policy apply only to specific users, like people who use Dashlane on an employer provided plan). We may change this Policy at any time by posting the revised  Policy here. We will also notify current users of major changes through email or in-app messaging. While we need  certain personal data to provide the Services, we try to collect only what we need. We will remove personal data  about children who are not authorized users (e.g., not part of a Family Plan) when requested._ **_Because of our [zero knowledge architecture](https://www.dashlane.com/security/white-paper), we do not and cannot know what information you store on the Services._** 
+
+a. _General_. This Privacy Policy (the “**Policy**”) describes how Dashlane, Inc. and its affiliates (“**Dashlane**” or “**we**”)  collects, uses and shares information about visitors to our website at [www.dashlane.com](https://www.dashlane.com/) (together with its  subdomains, such as the Dashlane blog, the “**Site**”) and users of our web extensions and mobile and web  applications (each an “**App**” and, collectively, the “**Apps**”). The Apps and the Site together are the “**Services**.” 
+
+“**You**” or “**user**” refers to anyone who uses the Services or visits the Site. Capitalized words used but not  defined in this Policy have the meanings provided in our [Terms of Service](https://www.dashlane.com/terms) (the “**Terms**”). 
+
+b. _Personal and Anonymous Data_. “**Personal Data**” means information that, either alone or when combined with  other information in the holder’s possession, identifies an individual, such as name, mailing address, email  address, IP address, or telephone number. “**Anonymous Data**” means data that cannot be used to identify individuals. We collect and use both Personal and Anonymous Data as described below.  
+
+c. _Privacy Laws_. An increasing number of laws like the California Privacy Rights Act (“**CPRA**”) and the European  Union’s General Data Protection Legislation (“**GDPR**”) govern how entities collect, store, and use Personal  Data (collectively, “**Privacy Laws**”). Privacy Laws grant individuals defined rights to know and control how  companies use their Personal Data. As much as possible, we design our policies to comply with the most  protective Privacy Laws, and we apply these policies to all users. Section 8 of this Policy specifically addresses  rights users may have over their Personal Data that are at the heart of most Privacy Laws.  
+
+d. _Business Users._ Certain clearly labelled sections of the Policy only apply to users who access the Services under  an account provided by their employer or similar entity (each, a “**Business User**” and such accounts, a “B2B  Account”).  
+
+e. _Changes_. We may change this Policy at any time. When we do so, we will post the updated Policy on this page  and, if the changes are material, inform users through email or in-App messaging.  
+
+f. _Children_. The Services are not directed to children, but children can use the Services as members of a Family  Plan. If you become aware that a child (based on the jurisdiction where the child lives, which in the United  States means someone under 13) has provided Personal Data without parental consent, please contact  [legal@dashlane.com](mailto:legal@dashlane.com) and we will promptly remove the information from our systems. 
+
+g. _Why Do We Need Your Personal Data_? We need certain Personal Data to provide the Services. You will be  asked to provide this information to download and use the Apps. This consent, which you may withdraw at  any time, provides the legal basis we need to process the Personal Data of non-Business Users. You are not  required to provide Personal Data, but we may not be able to provide the Services or respond to inquiries if  you don’t.
+
+h. _Secured Data_. This Policy primarily addresses data that Dashlane uses to process payments, troubleshoot  issues, administer accounts, etc. This is distinct from the information our users store on our Services (“**Secured  Data**”). Dashlane cannot access Secured Data; it is encrypted with keys that are unique to each user, that we  do not have, and there is no “backdoor” or equivalent mechanism that lets us access Secured Data. See our  [Security Whitepaper](https://www.dashlane.com/download/whitepaper-en.pdf) for detailed information.  
+
+**2\. WHAT PERSONAL DATA DOES (AND DOESN’T) DASHLANE COLLECT?** 
+
+**_Summary:_**  _California’s Privacy Laws require that we disclose the types of Personal Data we collect. We do not collect all of it  for every user – we don’t need Billing Data for Dashlane “Free” users or Business Users, for example – and the  following sections provide more detail on what we collect and how we use it._ 
+
+California requires that we disclose whether we collect Personal Data in each of the categories below. This is a  general overview of the types of Personal Data we collect; _we do not collect all data for every user._ See the following  sections of the Policy for details about how we obtain and use this information.  
+
+• _Identifiers_ include name, email address, and mailing address, as well as government-issued identifiers like  a driver’s license or social security number. We need an email address from every user to create an  Account. Except in very rare circumstances (when we need to verify your identity in connection with  account restoration) we never ask for government IDs or similar information from users. When we do so,  we use a third party to validate such information, and the provider only informs us whether the user  passed or failed the identity check.  
+
+• _Customer records_ overlap with Identifiers (name, address, IDs) but also include things like payment,  medical, and insurance information. Obviously, we process payment information (e.g., credit card) as  directed for paid accounts (but we do not keep it following processing). Internally, we assign each user a unique ID that is used only within Dashlane systems.  
+
+• _Characteristics of protected classifications_ such as race, ancestry, sexual orientation, marital status, etc.  **We do not collect this information**.  
+
+• _Commercial information_ such as records of personal property, products or services purchased, or  purchasing or consuming histories. We collect information about payment history (where applicable) and what Dashlane plan is associated with a user or account.  
+
+• _Biometric information_. **We do not collect this information.** If you use biometrics to login onto the Service,  this information is only used on the device.  
+
+• _Internet or other electronic network activity information_ such as browsing history, search history, or  information regarding a consumer’s interaction with a website, application, or advertisement. We collect  IP addresses as noted below. We collect information about which pages on the Site a visitor interacts  with, as well as which of our advertisements (if any) they saw prior to visiting the Site. Apps must be able  to recognize sites or services you visit in order to correctly autofill fields, but this occurs locally, on the  user device, and this information is only available to Dashlane on an aggregated ,anonymous basis. Depending on account configuration, administrators of Dashlane B2B Accounts can view certain  information (e.g., whether credentials are compromised) about sites accessed by Business Users on their  account.  
+
+• _Geolocation data_. We collect the originating IP for all user and what IP addresses the user accesses the  Services from. We retain the most recent 45 days of IP activity for consumer users, and up to one year of  IP activity for B2B users.  
+
+• _Audio, electronic, visual, thermal, olfactory, or similar information_. We record sales, support, and user  research calls, which may be audio only or audio and video, with affirmative consent. We may retain this  information for up to 2 years. 
+
+• _Professional or employment-related information_. We may collect this information for administrators of  B2B Accounts and prospective B2B customers. 
+
+• _Education information not considered publicly available_. **We do not collect this information**.  
+
+• Inferences that can create a profile about a consumer reflecting the consumer’s preferences,  characteristics, psychological trends, preferences, predispositions, behavior, attitudes, intelligence,  abilities, or aptitudes. **We do not collect this information for B2C users**.  
+
+• _Sensitive personal information_. This includes many items covered in the above categories, such as  financial or medical account information, government ID information, racial and other “protected”  demographic information, and biometric information. Except for payment information and when required  to restore access to an Account as noted above, **we do not collect this information**.  
+
+**3\. HOW DOES DASHLANE OBTAIN DATA?** 
+
+**_Summary:_**  _We get data from you (e.g., when you create an Account or pay for a Subscription), from others (e.g., when you are  invited to use Dashlane by your employer), automatically from the Apps or through cookies (e.g., the region you are  accessing the Apps from), and from third parties (such as tools that analyze performance of the Services). Personal  Data we collect includes your email and (for Subscriptions) billing information, although complete payment  information is only stored by our payment processors. We use technology, including cookies, to collect usage data.  Additional information is available in our [Cookie Policy](https://www.dashlane.com/privacy/cookiepolicy)._ 
+
+We collect information in the following ways: 
+
+a. _Information You Provide._ 
+
+• Registration Data. You must create an Account to use an App, and to do so you must provide a valid email  address that will be used as your login to the Services (unless you are a B2B User logging in via single sign  on “**SSO**”). You may also provide a phone number (to set up two-factor authentication) and / or an  additional email (for example, if you lose access to the email used to login to your Account). _The only  Personal Data required to open a Dashlane Free account is your email_. For paid Accounts, users must  provide billing data as specified below. For B2B Accounts, registration data includes the business name, mailing address (if paying by invoice), and administrator contact information. **It is critical to keep  registration data current**. We must be able to verify the Account owner to respond to user support requests. If you lose access to the contact email or phone number associated with your Account (if  applicable), you may be locked out of your Account, and we may be unable to help you. We store  registration data for up to 30 days after Account deletion. 
+
+• Billing Data. We use third-parties to process payments made through the Site. We may store partial  payment information (such as the expiration date and last four digits of a credit card) for tax compliance  and user support purposes. We may be able to access the name, address, and phone number associated  with a payment method on a payment processor’s service, but this information is only stored by the  processor. We never have complete payment information for Accounts, nor do we receive or store billing  data if you pay for a Subscription through the Google Play or Apple App Stores (“**_App Stores_**”). Billing data  is retained for up to 30 days after Account deletion. 
+
+• Master Password. Except for users of B2B Accounts configured for SSO login and those who have configured  their accounts for passwordless login, each user must create a “**Master Password**,” which is used to access  their Account and generate the encryption keys that protect their Secured Data. The more secure a Master  Password is, the safer Secured Data will be. Apps do not store Master Passwords locally unless directed to  by the user. If you do so and your device is stolen or compromised, your Secured Data may be exposed.  Dashlane never has access to Master Passwords. 
+
+• Secured Data. Our Apps let you manage digital identity data, including sensitive information such as credit  card numbers and site or application credentials. This, and everything else you store on the Apps, is Secured  Data. Secured Data is always encrypted when transmitted and stored and may only be decrypted locally on an authorized device. **Dashlane cannot access Secured Data on our servers because we do not have the  encryption keys as noted above**. See our [Security Whitepaper](https://www.dashlane.com/download/Dashlane_SecurityWhitePaper_September2019.pdf) for details.
+
+• Support and Correspondence. You may provide Personal Data in connection with customer support requests and inquiries from our Site. Customer support histories are maintained for up to 30 days after  Account deletion. 
+
+• Feedback. If you provide Feedback, including reviews posted on social channels, App Stores, or sites like Trustpilot, or suggestions made in connection with market research, we may use Personal Data provided  with the Feedback to respond to you. We may use Feedback without limitation as described in the Terms.  
+
+• Requests for Product Information. Certain information intended to inform potential customers of  Dashlane’s commercial offerings (“**Business Prospects**”) is available from our Site only after providing a  verified email. 
+
+• Other Data. We may also collect other types of information in the manner disclosed by us when the  information is collected. 
+
+b. _Data You Provide About Others._ The Services let you invite others to try the Apps or join your Account. If you  do this (or are invited this way), Dashlane will store the invitee’s email address and the message sent to them to follow up (and, if applicable, credit the referrer with a referral bonus). We will let the invitee know who  referred them, and let them request that their information be deleted from our systems. The referrer or  invitee may contact the [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370) to request removal of this information. 
+
+c. _Data Collected by Technology._  
+
+• IP Address. We collect the IP address used to create a new Account, and the IP addresses from which users  access the Services as described above. This data is used to deliver and improve the services and for  compliance purposes (e.g., using the region associated with an IP address to display local regulatory  notices). The originating IP is kept for up to 30 days after Account deletion. Access IPs are kept for 45 days  for B2C accounts, and for up to one year for B2B Accounts.  
+
+• Device and Browser Data. We automatically log the following information (as applicable) when you access  the Services or visit the Site: operating system name and version, device identifier, browser type, and  browser or device language. Some of this data is collected using cookies, as explained in the [Cookie Policy](https://www.dashlane.com/privacy/cookiepolicy). This data is used to secure your Account, ensure the Site and Services are presented in the correct language  and optimized for your device, and facilitate customer support. This data is not deleted, but is anonymized  within 30 days of Account deletion. 
+
+• Usage Data. We use logs to collect data about the use of the Services (“**Usage Data**”). We maintain two  types of Usage Data:  
+
+o “**Event Data**” records the Apps’ internal functions (e.g., what features are enabled, how many  credentials are stored in Secured Data), and is used to provide relevant information and support  to the user and to deliver, analyze, and improve the Services. Event Data does not include  information about how the Services interact with third parties (e.g., while we know how many  passwords a user has, we do not know which sites or services those passwords are for). After an  Account is deleted, Event Data is retained, but is fully anonymized (even if the same user created  a new Account, Event Data from the old Account could not be associated with the new one).  Retention of anonymized Event Data is necessary to maintain accurate historical records of the use  of the Services.  
+
+o “**Behavioral Data**” is information about what users do outside of the Services (e.g., sites where  autofill is used to sign in; what sites or apps a user has credentials for in their Secured Data).  Behavioral Data is critical to the Services’ proper operation – Apps must recognize the site a user  is logging into to populate the credentials, for example. Certain Behavioral Data is available to  authorized administrators of B2B Accounts (each, a “**B2B Admin**”) on an individual basis to enable  Client Admins to improve Client security (e.g., B2B Admins can see whether an individual user has  compromised credentials), but is only available to Dashlane on a fully anonymized basis (e.g.  Dashlane can see what percentage of all users have credentials for a specific site, but not whether  any individual user has credentials for that site). 
+
+Certain Dashlane personnel can access Event Data to analyze the use of the Services and provide user and  technical support. Both Event Data and Behavioral Data are used by the Services to automatically generate  context-appropriate alerts (e.g., account set-up notices), and to generate aggregated data. 
+
+• Aggregated Data. We derive additional information about the use of the Services by aggregating Usage Data  (e.g., number of users within a particular jurisdiction, most popular features). Aggregated data is  Anonymous Data, is owned by Dashlane, and is primarily used to help analyze and improve the Services. 
+
+• Cookies. As described in our [Cookie Policy](https://www.dashlane.com/privacy/cookiepolicy), we use cookies and similar technologies to recognize you and/or  your device(s) and provide a more personal and seamless experience when interacting with the Site and Services. Cookies that are not essential to the operation of the Services can be disabled at any time [here](https://www.dashlane.com/privacy/cookiepreferences).  
+
+d. _Data obtained from Third Parties._  
+
+• Business Users. If you are a B2B User, your B2B Admin may provide your email or SSO information as part  of Account creation. 
+
+• Service Providers. We receive information about users from our service providers (such as when validating  an Account with a payment processor or when monitoring App performance with analytics services). We  may also obtain user information from publicly available sources like social media accounts, review sites,  and forums. We obtain information about Business Prospects from data enrichment services. We carefully  review the legal terms and business and security practices of all service providers from which we receive  this information to ensure that they comply with applicable laws and this Policy. 
+
+**4\. HOW DOES DASHLANE USE PERSONAL DATA?** 
+
+**_Summary:_**  _We use Personal Data to validate your Account, provide the Services and support, communicate with you, and  coordinate marketing efforts. We do not perform any automated decision making or profiling using Personal Data._ 
+
+a. _General._ Dashlane uses Personal Data to provide and promote the Services and respond to your requests,  including to: 
+
+• Establish, maintain, and secure your Account. 
+
+• Identify you as a user and provide the Services you request. 
+
+• Perform fraud detection and authentication. 
+
+• Measure Usage Data to improve the Services and your interactions with them.  
+
+• Send you administrative notifications, such as payment reminders or support and maintenance  advisories. You will receive these notices even if you opt out of marketing communications.  
+
+• Provide you with interfaces and options you request or as required by the jurisdiction from which you  access the Services.  
+
+• Provide personalized information by identifying whether you have used specific features within the  Services, visited pages on our Site, or seen one of our advertisements. 
+
+• Respond to support inquiries and other requests.  
+
+• Send Dashlane marketing information, including announcements about offerings from selected  Dashlane partners. Where required by local laws, users must opt-in to receive marketing  communications. Otherwise, marketing communications are activated by default, but users may  always opt out of them at any time. Note that opting out of marketing communications will not affect  delivery of administrative notifications described above. 
+
+• Manage advertising efforts on third-party sites and platforms as described below.  
+
+b. _Automated Decision Making and Profiling._ We do not use Personal Data for automated decision-making.   
   
-Dashlane's current Privacy Policy is available for you to download or read below. We include plain-language summaries to make the legalese easier to understand, but if you still have questions, please visit our [Help Center](https://support.dashlane.com/hc/en-us/requests/new).
+**5\. HOW DOES DASHLANE SHARE PERSONAL DATA?**
 
-[Download our Privacy Policy](https://www.dashlane.com/documents/privacy-policy/en/UyLZxb1XQj2iyDbad3zO.pdf)
+**_Summary:_**  _We never sell our users’ Personal Data. We share Personal Data with service providers who are contractually obliged  to comply with Privacy Laws and who only have access to the data they need to provide the relevant services. The  Services allow you to share Secured Data (which may include Personal Data) with others as you direct. We share  hashed user emails and device ids with advertisers to refine advertising efforts (e.g., so active users are not shown_ _Dashlane ads). We may share Personal Data with our affiliates, all of whom are bound by this Policy, or with an  acquirer if Dashlane is sold or merged. Dashlane B2B Admins have access to certain Usage Data of users on their Account. Finally, we may disclose Personal Data where required by law or where we believe it is necessary to protect  our rights or the Services._ 
 
-Loading PDF…
+Dashlane will never sell your Personal Data (as “sell” is normally defined – see Section 8 for information about “sales”  as defined in California) or use it except as stated in this Policy. We share your Personal Data in the following  circumstances:  
 
-### Business
+• Third Parties You Designate. You may use the Services’ “sharing” feature to make certain Secured Data  available to others. While this data is transferred through our servers, we do not have access to it, as  noted elsewhere in this Policy. 
 
-* [Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
-* [Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-* [Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
-* [Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
+• Service Providers. We share Personal Data with service providers solely as required to provide the  Services, including to create Accounts, provide support, process payments, or enable communication  between you and Dashlane (for example, Personal Data related to customer support requests is  available to our support agents on Zendesk). We review the security and data privacy practices of all service providers to ensure that they comply with applicable laws and this Policy. Secured Data stored  by our data hosting provider (AWS) is always encrypted as described above. The [Subprocessors List](https://www.dashlane.com/privacy/subprocessors) discloses what service providers have access to Personal Data in connection with our delivery of the  Services.  
 
-### Personal
+• Marketing. We provide hashed emails and/or device IDs to service providersto optimize our advertising  efforts (e.g., ensuring that current users are not shown Dashlane ads on other sites). These providers are prohibited from using this information for any other purpose, including augmenting profiles they  maintain. We provide hashed emails of Business Prospects to data enrichment providers to improve  marketing efforts.  
 
-* [How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-* [Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
-* [Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
-* [Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
+• Affiliates. This Policy applies to all entities that are owned by, or under common control with, Dashlane,  Inc. (“**Affiliates**”). We share Personal Data among Affiliates as required to provide the Services and  respond to requests. Certain Affiliates are in the United States, where privacy and related laws are not  deemed adequate by European regulators to hold and protect Personal Data. To offer the levels of  protection required, we have GDPR-compliant Data Processing Addenda in place among our EU and US  Affiliates, in addition to the other measures indicated below. 
 
-### Plans
+• Dashlane B2B Admins. Certain B2B Users have access to two “spaces” in their Apps: a “business space”  to store Secured Data related to their work, and a “personal space” for anything else they want to store  on the Services. The Services allow B2B Admins to view information about the use of Services by the  B2B Users associated with their Account, including Event Data, as well as certain Behavioral Data on an  individual basis. For example, a B2B Admin can see the Password Health scores of Business Users associated with their Account, which sites or services an individual Business User has stored credentials  for in their business space, and whether those credentials have been compromised. 
 
-* [Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-* [Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-* [Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
+• Corporate Restructuring. If Dashlane or its business or assets are acquired by, or merged into, another  company, that company will then possess the Personal Data we hold, and will assume our rights and  obligations under this Policy. Accordingly, we may share Personal Data in connection with any such  transaction. Personal Data and other information may also be transferred as a business asset in the  event of Dashlane’s insolvency, bankruptcy, or receivership. 
 
-### Resources
+• Other Disclosures. We will inform you of any other disclosures of your Personal Data and obtain your  consent prior to such disclosure. However, regardless of your choices regarding Personal Data,  Dashlane may disclose your Personal Data (a) where required to comply with law enforcement 
 
-* [Resource Library](https://www.dashlane.com/resources "Password Management Resources")
-* [Help Center](https://support.dashlane.com/ "Dashlane Help Center")
-* [White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
-* [Blog](https://www.dashlane.com/blog "Dashlane Blog")
-* [Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
-* [System Status](https://status.dashlane.com/)
-* [Security](https://www.dashlane.com/security "Secure Password Manager")
+directives, applicable laws or governmental orders; or (b) if we believe in good faith that doing so is  necessary to protect our rights, those of other users, or the Services. However, because of our zero knowledge architecture, we are unable to provide Secured Data, even if we are subject to a valid order.  To the extent permitted by law, we will inform affected users of legally-mandated disclosures of  Personal Data. 
 
-### Company
+**6\. DATA SECURITY AND INTERNATIONAL TRANSFER** 
 
-* [About Us](https://www.dashlane.com/about "About Dashlane")
-* [Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
-* [Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
-* [Partners](https://www.partners.dashlane.com/English/)
+**_Summary:_**  _We strive to protect all data in our possession, including Personal Data, through a variety of means, and we  continually work to improve and update these practices. However, we cannot and do not guarantee the security of  Personal Data we process. Personal Data may be transferred to jurisdictions with less strict privacy laws than those  in your home country, including the U.S., but we use technical and other measures that comply with applicable Privacy  Laws to protect Personal Data when processed in the U.S._ 
 
-### Features
+a. We use robust physical, organizational, technical, and administrative measures to safeguard all data we hold  or process, and we regularly reassess and revise our policies and practices to improve security. While we go to great lengths to protect your data, no method of data transmission or storage is totally secure; therefore,  we cannot guarantee the security of data in our control. If you believe your data may have been compromised  by us or the use of the Services, please contact our [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370) immediately. 
 
-* [Passkeys](https://www.dashlane.com/passkeys)
-* [Autofill](https://www.dashlane.com/personal-password-manager/autofill)
-* [Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
-* [Passwordless](https://www.dashlane.com/passwordless)
-* [Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
-* [SSO](https://www.dashlane.com/sso)
-* [VPN](https://www.dashlane.com/marketing/vpn)
+b. Your information, including Personal Data that we collect from you, may be transferred to, stored by, and  processed by us, our Affiliates, and service providers outside your home country, including in the United  States, where data protection and privacy regulations may not offer the same protections as in other parts of  the world. When we do so, we take all legally mandated steps designed to ensure that all Personal Data we  or our service providers process (regardless of where it originates) is properly protected. By using the Services,  you agree to the transfer, storing, or processing of your data in accordance with this Policy. 
 
-### Try Dashlane
+**7\. HOW CAN YOU CONTROL YOUR DATA?**  
 
-* [Business](https://www.dashlane.com/business-password-manager/try)
-* [Personal](https://www.dashlane.com/download)
-* [iOS App](https://app.adjust.com/jq0xdf)
-* [Android App](https://app.adjust.com/8n9sd4)
+**_Summary:_**  _You can edit your Personal Data and adjust your privacy and data preferences via the “Account” or “Settings” sections  of the Apps. If you currently receive marketing emails but no longer want to, you may unsubscribe in any such email.  Even if you do so, we will still send you operational and transactional emails (e.g., renewal notices). Uninstalling Apps  from your devices will remove all data associated with the Apps from that device. Removing your Apps does not  delete your Account. To do that, see the instructions [here](https://support.dashlane.com/hc/en-us/articles/202907531-How-do-I-delete-my-account-). Even if you are not subject to any Privacy Laws, you may  also use the processes described in Section 8 to control your Personal Data._
 
-### Buy Dashlane
+a. _Changing Your Information and Privacy Settings_. You can access and modify Personal Data associated with  your Account, and modify your privacy and data preferences, through the “My Account” or “Settings” sections  of the Apps. Contact our [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370) if you need assistance. 
 
-* [For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
-* [For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
-* [Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
+b. _Email Communications_. With your consent, we will periodically send you emails promoting the use of the Services, including tips on using the Apps, or highlighting offerings from select Dashlane partners. You can opt out of these emails by following the unsubscribe instructions included in each email, or by changing your  privacy and data settings in the Services. You may also request removal through our [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370).  Unsubscribing from marketing communications will not affect operational and transactional communications,  including breach notices and other alerts in the Apps, renewal emails, etc.  
 
-### Log In
+c. _Applications_. You can stop all collection of information by an App by uninstalling that App. You may use the  standard uninstall process for the relevant device or platform. Uninstalling an App does not delete your  Account. To do that, see the instructions [here](https://support.dashlane.com/hc/en-us/articles/202907531-How-do-I-delete-my-account-). 
 
-* [Personal App](https://app.dashlane.com/)
-* [Admin Console](https://console.dashlane.com/)
+**8\. PRIVACY LAW RIGHTS** 
 
-### Stay In Touch
+**_Summary:_** 
 
-* [![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTE4LjkwMzQgMjZMMTguOTAzNCAxOC45MzYzSDIxLjE4OTFMMjEuNTUgMTYuMDQ5MUgxOC45MDM0VjE0LjM2NDlDMTguOTAzNCAxMy41MjI4IDE5LjE0NCAxMy4wNDE2IDIwLjIyNjcgMTMuMDQxNkgyMS42NzAzVjEwLjM5NUMyMS40Mjk3IDEwLjM5NSAyMC41ODc2IDEwLjI3NDcgMTkuNjI1MiAxMC4yNzQ3QzE3LjU4MDEgMTAuMjc0NyAxNi4xMzY1IDExLjU5OCAxNi4xMzY1IDE0LjAwNFYxNi4wNDkxSDEzLjczMDVWMTguOTM2M0gxNi4xMzY1TDE2LjEzNjUgMjZIMTguOTAzNFoiIGZpbGw9IiNGNUY3RjciLz4KPC9zdmc+Cg==)](https://www.facebook.com/GetDashlane "Facebook page")
-* [![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzExOTJfMTc4MykiPgo8cGF0aCBkPSJNMzUuNSAxOEMzNS41IDI3LjY2NSAyNy42NjUgMzUuNSAxOCAzNS41QzguMzM1MDIgMzUuNSAwLjUgMjcuNjY1IDAuNSAxOEMwLjUgOC4zMzUwMiA4LjMzNTAyIDAuNSAxOCAwLjVDMjcuNjY1IDAuNSAzNS41IDguMzM1MDIgMzUuNSAxOFoiIHN0cm9rZT0iIzlGQUVCMSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2LjA0MiAxOC40NDhMMTAuMTg3NSAxMUgxNC44MjQ3TDE4LjQzODYgMTUuNjAzNEwyMi4yOTk1IDExLjAyMDdIMjQuODUzNEwxOS42NzM0IDE3LjE3NjNMMjUuODE1NCAyNUgyMS4xOTIxTDE3LjI3OSAyMC4wMjE3TDEzLjEwMTMgMjQuOTg2MkgxMC41MzM2TDE2LjA0MiAxOC40NDhaTTIxLjg2NiAyMy42MkwxMy4wMzA4IDEyLjM4SDE0LjE1MDNMMjIuOTc0MyAyMy42MkgyMS44NjZaIiBmaWxsPSIjRjVGN0Y3Ii8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTE5Ml8xNzgzIj4KPHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo=)](https://www.x.com/dashlane "Twitter page")
-* [![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy41NTg5IDEyLjM1NzRDMTUuNjU5IDEyLjIxNDUgMjAuMzQzMiAxMi4yMTM5IDIyLjQ0NjMgMTIuMzU3NEMyNC43MjI3IDEyLjUxMzMgMjQuOTg4MiAxMy44OTI4IDI1LjAwNTEgMTcuNTAyQzI0Ljk4ODIgMjEuMTE3NiAyNC43MjAzIDIyLjQ5MTMgMjIuNDQ2MyAyMi42NDY1QzIwLjM0MzIgMjIuNzkwMSAxNS42NTk2IDIyLjc4OTUgMTMuNTU4OSAyMi42NDY1QzExLjI4MjQgMjIuNDkwNyAxMS4wMTY5IDIxLjExMTIgMTEgMTcuNTAyQzExLjAxNjkgMTMuODg2MyAxMS4yODQ4IDEyLjUxMjcgMTMuNTU4OSAxMi4zNTc0Wk0xNi4yNTE5IDE1LjE2NzhWMTkuODM2MkwyMC45MjAzIDE3LjQ5NzlMMTYuMjUxOSAxNS4xNjc4WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")
-* [![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNCAxOEMxNCAxNS43OTE0IDE1Ljc5MTcgMTQgMTggMTRDMjAuMjA4MyAxNCAyMiAxNS43OTE0IDIyIDE4QzIyIDIwLjIwODYgMjAuMjA4MyAyMiAxOCAyMkMxNS43OTE3IDIyIDE0IDIwLjIwODYgMTQgMThaTTE4IDIwLjdDMTYuNTA5NCAyMC43IDE1LjMgMTkuNDkwOSAxNS4zIDE4QzE1LjMgMTYuNTA5MSAxNi41MDk0IDE1LjMgMTggMTUuM0MxOS40OTA5IDE1LjMgMjAuNyAxNi41MDkxIDIwLjcgMThDMjAuNyAxOS40OTA5IDE5LjQ5MDkgMjAuNyAxOCAyMC43WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMjIuNjMxNSAxNC4yMTA1QzIyLjYzMTUgMTQuNjc1NCAyMi4yNTQ1IDE1LjA1MjYgMjEuNzg5NCAxNS4wNTI2QzIxLjMyNDUgMTUuMDUyNiAyMC45NDczIDE0LjY3NTcgMjAuOTQ3MyAxNC4yMTA1QzIwLjk0NzMgMTMuNzQ1NCAyMS4zMjQyIDEzLjM2ODQgMjEuNzg5NCAxMy4zNjg0QzIyLjI1NDUgMTMuMzY4NyAyMi42MzE1IDEzLjc0NTQgMjIuNjMxNSAxNC4yMTA1WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTI1LjU4NzIgMTIuNzYzMkMyNS43ODQyIDEzLjI2OTUgMjUuOTIxNyAxMy44NTQxIDI1Ljk1OTMgMTQuNzA0MkMyNS45OTY5IDE1LjU1NzQgMjYgMTUuODI5NSAyNiAxOC4wMDE2QzI2IDIwLjE3MzYgMjUuOTkwNiAyMC40NDU3IDI1Ljk1MyAyMS4yOTg5QzI1LjkxNTQgMjIuMTQ5IDI1Ljc3OCAyMi43MzA1IDI1LjU4MSAyMy4yMzk5QzI1LjE2NTEgMjQuMzE1MSAyNC4zMTQ4IDI1LjE2NTIgMjMuMjM5NCAyNS41ODExQzIyLjczMyAyNS43NzggMjIuMTQ4MyAyNS45MTU1IDIxLjI5OCAyNS45NTNDMjAuNDQ0NiAyNS45OTA2IDIwLjE3MjUgMjYgMTggMjZDMTUuODI3NSAyNiAxNS41NTU0IDI1Ljk5MDYgMTQuNzAyIDI1Ljk1M0MxMy44NTE3IDI1LjkxNTUgMTMuMjcwMiAyNS43NzggMTIuNzYwNiAyNS41ODExQzEyLjIyOTIgMjUuMzgxIDExLjc0NDcgMjUuMDY1NCAxMS4zNDQ1IDI0LjY1ODlDMTAuOTM4IDI0LjI1ODggMTAuNjIyMyAyMy43Nzc1IDEwLjQxOSAyMy4yMzk5QzEwLjIyMiAyMi43MzM2IDEwLjA4NDYgMjIuMTQ5IDEwLjA0NyAyMS4yOTg5QzEwLjAwOTQgMjAuNDQ1NyAxMCAyMC4xNzM5IDEwIDE4LjAwMTZDMTAgMTUuODI5MiAxMC4wMDk0IDE1LjU1NzQgMTAuMDUwMSAxNC43MDA3QzEwLjA4NzcgMTMuODUwNiAxMC4yMjUyIDEzLjI2OTUgMTAuNDIyMiAxMi43NjAxQzEwLjYyMjMgMTIuMjI4NyAxMC45MzggMTEuNzQ0IDExLjM0NDEgMTEuMzQzOUMxMS43NDQ0IDEwLjkzNDYgMTIuMjI1NyAxMC42MjE4IDEyLjc2MzggMTAuNDE4OUMxMy4yNzAyIDEwLjIyMiAxMy44NTQ4IDEwLjA4NDUgMTQuNzA1MSAxMC4wNDdDMTUuNTU4NSAxMC4wMDk0IDE1LjgzMDMgMTAgMTguMDAzMSAxMEMyMC4xNzU5IDEwIDIwLjQ0NzggMTAuMDA5NCAyMS4zMDQ2IDEwLjA1MDFDMjIuMTU0OSAxMC4wODc3IDIyLjczNjQgMTAuMjI1MSAyMy4yNDU2IDEwLjQyMjFDMjMuNzc3MSAxMC42MjIyIDI0LjI2MTYgMTAuOTM3OCAyNC42NjE4IDExLjM0NDJDMjUuMDcxNCAxMS43NDQzIDI1LjM4NCAxMi4yMjU2IDI1LjU4NzIgMTIuNzYzMlpNMjQuNjUyIDIxLjMwMDRDMjQuNjE2OCAyMi4wOTkyIDI0LjQ4MjcgMjIuNTMwNCAyNC4zNzA4IDIyLjgxODFDMjQuMDk1OSAyMy41MzA1IDIzLjUzMDggMjQuMDk2MSAyMi44MTgzIDI0LjM3MUMyMi41MzA5IDI0LjQ4MjcgMjIuMDk2NCAyNC42MTcxIDIxLjMwMSAyNC42NTJDMjAuNDM4NiAyNC42OTA0IDIwLjE3OTggMjQuNyAxNy45OTgyIDI0LjdDMTUuODE2NyAyNC43IDE1LjU1NDYgMjQuNjkwNCAxNC42OTU1IDI0LjY1MkMxMy44OTY5IDI0LjYxNjggMTMuNDY1OSAyNC40ODI3IDEzLjE3ODIgMjQuMzcxQzEyLjgyMzcgMjQuMjQwMSAxMi41MDEyIDI0LjAzMjQgMTIuMjM5MSAyMy43NjA2QzExLjk2NzUgMjMuNDk1MyAxMS43NjAxIDIzLjE3NTkgMTEuNjI4OSAyMi44MjEzQzExLjUxNzMgMjIuNTMzOSAxMS4zODI5IDIyLjA5OTIgMTEuMzQ4IDIxLjMwMzZDMTEuMzA5NiAyMC40NDExIDExLjMgMjAuMTgyMSAxMS4zIDE4QzExLjMgMTUuODE3OSAxMS4zMDk2IDE1LjU1NTggMTEuMzQ4IDE0LjY5NjRDMTEuMzgzMiAxMy44OTc2IDExLjUxNzMgMTMuNDY2NCAxMS42Mjg5IDEzLjE3ODdDMTEuNzU5OCAxMi44MjQxIDExLjk2NzUgMTIuNTAxNSAxMi4yNDIzIDEyLjIzOTRDMTIuNTA3MiAxMS45Njc2IDEyLjgyNjYgMTEuNzYwMiAxMy4xODE0IDExLjYyOTNDMTMuNDY4OCAxMS41MTc2IDEzLjkwMzMgMTEuMzgzMiAxNC42OTg3IDExLjM0OEMxNS41NjEgMTEuMzA5NiAxNS44MTk5IDExLjMgMTguMDAxNCAxMS4zQzIwLjE4NjIgMTEuMyAyMC40NDUgMTEuMzA5NiAyMS4zMDQyIDExLjM0OEMyMi4xMDI4IDExLjM4MzIgMjIuNTMzOCAxMS41MTczIDIyLjgyMTUgMTEuNjI5M0MyMy4xNzYgMTEuNzYwMiAyMy40OTg1IDExLjk2OCAyMy43NjA2IDEyLjIzOTRDMjQuMDMyMiAxMi41MDQ3IDI0LjIzOTYgMTIuODI0MSAyNC4zNzA4IDEzLjE3ODdDMjQuNDgyNCAxMy40NjYxIDI0LjYxNjggMTMuOTAwOCAyNC42NTIgMTQuNjk2NEMyNC42OTA0IDE1LjU1OSAyNC43IDE1LjgxNzkgMjQuNyAxOEMyNC43IDIwLjE4MjEgMjQuNjkwMSAyMC40Mzc5IDI0LjY1MiAyMS4zMDA0WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")
-* [![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNyAxOEMyNyAyMi45NzA2IDIyLjk3MDYgMjcgMTggMjdDMTMuMDI5NCAyNyA5IDIyLjk3MDYgOSAxOEM5IDEzLjAyOTQgMTMuMDI5NCA5IDE4IDlDMjIuOTcwNiA5IDI3IDEzLjAyOTQgMjcgMThaTTIyLjY4NDIgMTYuNjg0MkMyMy40MTA1IDE2LjY4NDIgMjQgMTcuMjczNyAyNCAxOEMyNCAxOC41MzY4IDIzLjY3MzYgMTkgMjMuMjQyMSAxOS4yMTA1QzIzLjI2MzEgMTkuMzM2OCAyMy4yNzM2IDE5LjQ2MzIgMjMuMjczNiAxOS42QzIzLjI3MzYgMjEuNjIxMSAyMC45MjYzIDIzLjI1MjYgMTguMDIxIDIzLjI1MjZDMTUuMTE1NyAyMy4yNTI2IDEyLjc2ODQgMjEuNjIxMSAxMi43Njg0IDE5LjZDMTIuNzY4NCAxOS40NjMyIDEyLjc3ODkgMTkuMzI2MyAxMi44IDE5LjJDMTIuMzM2OCAxOC45ODk1IDEyLjAyMSAxOC41MzY4IDEyLjAyMSAxOEMxMi4wMjEgMTcuMjczNyAxMi42MTA1IDE2LjY4NDIgMTMuMzM2OCAxNi42ODQyQzEzLjY4NDIgMTYuNjg0MiAxNC4wMTA1IDE2LjgzMTYgMTQuMjQyMSAxNy4wNTI2QzE1LjE0NzMgMTYuMzg5NSAxNi40IDE1Ljk3ODkgMTcuOCAxNS45MzY4TDE4LjQ2MzEgMTIuOEMxOC40ODQyIDEyLjczNjggMTguNTE1NyAxMi42ODQyIDE4LjU2ODQgMTIuNjUyNkMxOC42MjEgMTIuNjIxMSAxOC42ODQyIDEyLjYxMDUgMTguNzQ3MyAxMi42MjExTDIwLjkyNjMgMTMuMDg0MkMyMS4wNzM2IDEyLjc2ODQgMjEuMzg5NCAxMi41NTc5IDIxLjc1NzkgMTIuNTU3OUMyMi4yNzM2IDEyLjU1NzkgMjIuNjk0NyAxMi45Nzg5IDIyLjY5NDcgMTMuNDk0N0MyMi42OTQ3IDE0LjAxMDUgMjIuMjczNiAxNC40MzE2IDIxLjc1NzkgMTQuNDMxNkMyMS4yNTI2IDE0LjQzMTYgMjAuODQyMSAxNC4wMzE2IDIwLjgyMSAxMy41MzY4TDE4Ljg3MzYgMTMuMTI2M0wxOC4yNzM2IDE1LjkzNjhDMTkuNjQyMSAxNS45ODk1IDIwLjg4NDIgMTYuNDEwNSAyMS43Nzg5IDE3LjA1MjZDMjIuMDEwNSAxNi44MjExIDIyLjMyNjMgMTYuNjg0MiAyMi42ODQyIDE2LjY4NDJaTTE1LjkzNjggMThDMTUuNDIxIDE4IDE1IDE4LjQyMTEgMTUgMTguOTM2OEMxNSAxOS40NTI2IDE1LjQyMSAxOS44NzM3IDE1LjkzNjggMTkuODczN0MxNi40NTI2IDE5Ljg3MzcgMTYuODczNiAxOS40NTI2IDE2Ljg3MzYgMTguOTM2OEMxNi44NzM2IDE4LjQyMTEgMTYuNDUyNiAxOCAxNS45MzY4IDE4Wk0xOC4wMTA1IDIyLjA5NDdDMTguMzY4NCAyMi4wOTQ3IDE5LjU4OTQgMjIuMDUyNiAyMC4yMzE1IDIxLjQxMDVDMjAuMzI2MyAyMS4zMTU4IDIwLjMyNjMgMjEuMTY4NCAyMC4yNTI2IDIxLjA2MzJDMjAuMTU3OSAyMC45Njg0IDIwIDIwLjk2ODQgMTkuOTA1MiAyMS4wNjMyQzE5LjQ5NDcgMjEuNDYzMiAxOC42NDIxIDIxLjYxMDUgMTguMDIxIDIxLjYxMDVDMTcuNCAyMS42MTA1IDE2LjUzNjggMjEuNDYzMiAxNi4xMzY4IDIxLjA2MzJDMTYuMDQyMSAyMC45Njg0IDE1Ljg4NDIgMjAuOTY4NCAxNS43ODk0IDIxLjA2MzJDMTUuNjk0NyAyMS4xNTc5IDE1LjY5NDcgMjEuMzE1OCAxNS43ODk0IDIxLjQxMDVDMTYuNDIxIDIyLjA0MjEgMTcuNjUyNiAyMi4wOTQ3IDE4LjAxMDUgMjIuMDk0N1pNMTkuMTI2MyAxOC45MzY4QzE5LjEyNjMgMTkuNDUyNiAxOS41NDczIDE5Ljg3MzcgMjAuMDYzMSAxOS44NzM3QzIwLjU3ODkgMTkuODczNyAyMSAxOS40NTI2IDIxIDE4LjkzNjhDMjEgMTguNDIxMSAyMC41Nzg5IDE4IDIwLjA2MzEgMThDMTkuNTQ3MyAxOCAxOS4xMjYzIDE4LjQyMTEgMTkuMTI2MyAxOC45MzY4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")
-* [![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTEzLjUgMTMuNUgxMFYyNUgxMy41VjEzLjVaIiBmaWxsPSIjRjVGN0Y3Ii8+CjxwYXRoIGQ9Ik0yMi4wMDE1IDEzLjVDMjAgMTMuNSAxOS40NDUgMTQuMTU2IDE5IDE1VjEzLjVIMTUuNVYyNUgxOVYxOC41QzE5IDE3LjUgMTkgMTYuNSAyMC43NSAxNi41QzIyLjUgMTYuNSAyMi41IDE3LjUgMjIuNSAxOC41VjI1SDI2VjE4LjVDMjYgMTUuNSAyNS41IDEzLjUgMjIuMDAxNSAxMy41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMTEuNzUgMTIuNUMxMi43MTY1IDEyLjUgMTMuNSAxMS43MTY1IDEzLjUgMTAuNzVDMTMuNSA5Ljc4MzUgMTIuNzE2NSA5IDExLjc1IDlDMTAuNzgzNSA5IDEwIDkuNzgzNSAxMCAxMC43NUMxMCAxMS43MTY1IDEwLjc4MzUgMTIuNSAxMS43NSAxMi41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
+_Users subject to Privacy Laws have certain rights regarding their Personal Data, including the right to access and  modify Personal Data held by providers (like us), and to have providers “forget” Personal Data that is no longer  relevant. Most of these rights must be accessed from the privacy and data preferences in the Services, but you may  always contact us for assistance. We will_ **_never_** _provide worse services to, or in any way punish anyone who chooses  to exercise these rights. We strongly support the intent behind these laws and will do our best to honor requests to  exercise these rights even if they do not technically apply to you._  
+
+a. _Data Controller_. For the purposes of the GDPR, where we are acting as a controller, the controller is Dashlane  SAS of 21 Rue Pierre Picard, 75018 Paris, France. Inquiries regarding the processing of data subject to the  GDPR may be sent to our data protection officer at [dpo@dashlane.com](mailto:dpo@dashlane.com).  
+
+b. _Sale and Sharing of Personal Data_. We never exchange Personal Data for money or any other consideration  (e.g., trade it for free services). However, when you click on an ad that sends you to the Site, we send a unique  identifier to the referring site so they can receive credit for the referral. This is deemed ”sharing” as under  California’s Privacy Laws, and you can turn this off by visiting the [Do Not Share or Sell My Personal Information](https://www.dashlane.com/privacy/donotsell) page. 
+
+c. Individuals subject to Privacy Laws have some or all the following rights with respect to their Personal Data that we process. As noted elsewhere, we will honor these requests when made my any user, subject to the  requirements of the relevant Privacy Laws (if applicable). For example, a B2B User subject to the GDPR may  request that we delete their information, but in that situation the company whose Account the user is  associated with is the “Controller” of that Personal Data, and we must inform the relevant B2B Admin and  follow their instructions.  
+
+• Withdraw Consent: You may withdraw your consent to our processing of your Personal Data, in whole  or in part (i.e., for marketing purposes). Certain Services may be ineffective upon opt out. 
+
+• Access / Request Information: You may access the Personal Data we hold about you at any time via  your Account or by contacting us directly. 
+
+• Modification: You may modify incorrect or outdated Personal Data we hold about you at any time via  your Account or by contacting us directly. 
+
+• Erase and Forget. In certain situations, for example when Registration Data we hold about you is no  longer relevant or accurate, you can request that we erase it. If you delete your Account, all Personal  Data will automatically be erased within 30 days of the date of deletion. **Because of the sensitive  nature of Secured Data, we will never delete a user’s Account ourselves: Accounts MUST be deleted  by the user or the “controller” or equivalent entity.**  
+
+• Portability: You may request a copy of your Personal Data and may always move it to other entities as  you choose. The Services allow you to export Secured Data at any time.  
+
+d. If you want to exercise any of these rights, please submit the request via the “Privacy and Data Settings” page  accessible from the “Account” or “Settings” sections of the Apps (if you cannot do so directly from within  these sections). If you need assistance, please visit our [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370) or write us at the address below. In  your request, please make clear: (i) **what** Personal Data is concerned; and (ii) **which rights** you want to  enforce. For your protection, we may only fulfill requests with respect to the Personal Data associated with  the email address you send your request from, and we may need to verify your identity before doing so. We  will comply with your request promptly, but in any event within the legally mandated timeframes (e.g., thirty  (30) days for the GDPR and forty-five (45) days for the CPRA). If you are not subject to Privacy Laws, we  nonetheless try to fulfil all requests within 45 days. We will retain limited Personal Data for recordkeeping  purposes or to complete transactions that you began prior to requesting certain requests. 
+
+**e. We do not and will not discriminate against any user (such as by providing worse service or charging more  for them) who exercises any of the above rights.** 
+
+**9\. CONTACT INFORMATION; COMPLAINTS**
+
+If you have questions, concerns, or complaints about this Policy or our data collection or processing practices, or if  you want to report any security violations, please contact our our [Support Center](https://support.dashlane.com/hc/en-us/articles/4516905332370) email [legal@dashlane.com](mailto:legal@dashlane.com) or [dpo@dashlane.com](mailto:dpo@dashlane.com), or write the address below: 
+
+Dashlane, Inc. 
+
+_Attn:_ Legal  
+
+44 West 18th Street., 4th Fl.  
+
+New York, NY 10011  
+
+Swiss, EU and UK Users Only. We hope to promptly resolve any complaint brought to our attention, however if you  feel that your complaint has not been adequately resolved, you may always contact your local data protection  supervisory authority, a list of which is available [here](https://edpb.europa.eu/about-edpb/board/members_en).
+
+* * BUSINESS![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business Password Manager](https://www.dashlane.com/business-password-manager)
+        * [Pricing](https://www.dashlane.com/pricing)
+        * [Contact Us](https://www.dashlane.com/business-password-manager/enterprise)
+        * [Request a Demo](https://www.dashlane.com/business-password-manager/request-demo)
+    * PERSONAL![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [How it Works](https://www.dashlane.com/personal-password-manager)
+        * [Pricing](https://www.dashlane.com/pricing)
+        * [Password Generator](https://www.dashlane.com/features/password-generator)
+        * [Username Generator](https://www.dashlane.com/features/username-generator)
+        * [Dark Web Monitoring](https://www.dashlane.com/darkwebinsights)
+* * PLANS![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business](https://www.dashlane.com/pricing)
+        * [Enterprise](https://www.dashlane.com/business-password-manager/enterprise-password-manager)
+        * [Higher Education](https://www.dashlane.com/business-password-manager/password-manager-for-higher-education)
+        * [Individual](https://www.dashlane.com/pricing)
+        * [Family](https://www.dashlane.com/personal-password-manager/family-password-manager)
+    * RESOURCES![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Resource Library](https://www.dashlane.com/resources)
+        * [Help Center](https://support.dashlane.com/hc/en-us)
+        * [For Developers](https://www.dashlane.com/developers)
+        * [White Papers](https://www.dashlane.com/download/whitepaper-en.pdf)
+        * [Blog](https://www.dashlane.com/blog)
+        * [Brand Kit](https://brandfolder.com/dashlane/brand-kit)
+        * [System Status](https://status.dashlane.com/)
+        * [Security](https://www.dashlane.com/security)
+* * COMPANY![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [About Us](https://www.dashlane.com/about)
+        * [Leadership](https://www.dashlane.com/about/leadership)
+        * [Careers](https://www.dashlane.com/about/careers)
+        * [Partners](https://dashlane.partner-experience.com/)
+    * FEATURES![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Password Manager](https://www.dashlane.com/)
+        * [Passkeys](https://www.dashlane.com/passkeys)
+        * [Autofill](https://www.dashlane.com/personal-password-manager/autofill)
+        * [Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
+        * [Passwordless](https://www.dashlane.com/passwordless)
+        * [Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
+        * [SSO](https://www.dashlane.com/sso)
+        * [VPN](https://www.dashlane.com/marketing/vpn)
+* * TRY DASHLANE![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business](https://www.dashlane.com/business-password-manager/try)
+        * [Personal](https://www.dashlane.com/download)
+        * [iOS App](https://app.adjust.com/jq0xdf)
+        * [Android App](https://app.adjust.com/8n9sd4)
+    * BUY DASHLANE![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [For Your Business](https://www.dashlane.com/business-password-manager/buy)
+        * [For You](https://www.dashlane.com/getpremium)
+        * [Buy for a Friend](https://www.dashlane.com/business-password-manager/buy)
+* * LOG IN![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Personal App](https://app.dashlane.com/)
+        * [Admin Console](https://console.dashlane.com/)
+    * STAY IN TOUCH
+        
+        [Facebook](https://www.facebook.com/GetDashlane)[X](https://www.x.com/dashlane)[YoutubeYouTube](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg)[Instagram](https://www.instagram.com/dashlane)[RedditReddit](https://www.reddit.com/r/dashlane)[LinkedIn](https://www.linkedin.com/company/dashlane)
+        
 
 © 2024 Dashlane Inc. All rights reserved.
 
 Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
 
-[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
+[Level Access](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane)
 
-English
+* [Terms](https://www.dashlane.com/terms)
+* [Privacy](https://www.dashlane.com/privacy/overview)
+* [Legal](https://www.dashlane.com/legal)
+* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences)
+* [Do not sell or share my personal information](https://www.dashlane.com/privacy/donotsell)
+* [Accessibility Statement](https://www.dashlane.com/accessibility-statement)
 
-* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
-* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
-* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
-* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
-* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
-* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
+**Please note:** We use cookies on our site to give you the best experience. Please accept these cookies, or change your settings here: [Cookie preferences.](https://www.dashlane.com/privacy/cookiepreferences)
 
-Business
-
-[Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
-
-[Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-
-[Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
-
-[Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
-
-Personal
-
-[How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-
-[Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-
-[Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
-
-[Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
-
-[Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
-
-Plans
-
-[Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-
-[Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-
-[Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
-
-Resources
-
-[Resource Library](https://www.dashlane.com/resources "Password Management Resources")
-
-[Help Center](https://support.dashlane.com/ "Dashlane Help Center")
-
-[White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
-
-[Blog](https://www.dashlane.com/blog "Dashlane Blog")
-
-[Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
-
-[System Status](https://status.dashlane.com/)
-
-[Security](https://www.dashlane.com/security "Secure Password Manager")
-
-Company
-
-[About Us](https://www.dashlane.com/about "About Dashlane")
-
-[Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
-
-[Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
-
-[Partners](https://www.partners.dashlane.com/English/)
-
-Features
-
-[Passkeys](https://www.dashlane.com/passkeys)
-
-[Autofill](https://www.dashlane.com/personal-password-manager/autofill)
-
-[Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
-
-[Passwordless](https://www.dashlane.com/passwordless)
-
-[Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
-
-[SSO](https://www.dashlane.com/sso)
-
-[VPN](https://www.dashlane.com/marketing/vpn)
-
-Try Dashlane
-
-[Business](https://www.dashlane.com/business-password-manager/try)
-
-[Personal](https://www.dashlane.com/download)
-
-[iOS App](https://app.adjust.com/jq0xdf)
-
-[Android App](https://app.adjust.com/8n9sd4)
-
-Buy Dashlane
-
-[For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
-
-[For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
-
-[Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
-
-Log In
-
-[Personal App](https://app.dashlane.com/)
-
-[Admin Console](https://console.dashlane.com/)
-
-Stay In Touch
-
-[![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjkwMzQgMTkuNzI1NEwxMi45MDM0IDEyLjY2MTdIMTUuMTg5MUwxNS41NSA5Ljc3NDQ0SDEyLjkwMzRWOC4wOTAyM0MxMi45MDM0IDcuMjQ4MTIgMTMuMTQ0IDYuNzY2OTIgMTQuMjI2NyA2Ljc2NjkySDE1LjY3MDNWNC4xMjAzQzE1LjQyOTcgNC4xMjAzIDE0LjU4NzYgNCAxMy42MjUyIDRDMTEuNTgwMSA0IDEwLjEzNjUgNS4zMjMzMSAxMC4xMzY1IDcuNzI5MzJWOS43NzQ0NEg3LjczMDQ3VjEyLjY2MTdIMTAuMTM2NUwxMC4xMzY1IDE5LjcyNTRIMTIuOTAzNFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.facebook.com/GetDashlane "Facebook page")[![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjMiIHZpZXdCb3g9IjAgMCAyNCAyMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04Ljk5MDggMTIuMzEzMUwwIDAuODc1SDcuMTIxMzNMMTIuNjcxMyA3Ljk0NDUzTDE4LjYwMDUgMC45MDY4MzNIMjIuNTIyNkwxNC41Njc2IDEwLjM2MDFMMjQgMjIuMzc1SDE2Ljg5OTlMMTAuODkwNSAxNC43Mjk4TDQuNDc0NzUgMjIuMzUzOEgwLjUzMTQ0NEw4Ljk5MDggMTIuMzEzMVpNMTcuOTM0OCAyMC4yNTU3TDQuMzY2NTcgMi45OTQyN0g2LjA4NTY1TDE5LjYzNjggMjAuMjU1N0gxNy45MzQ4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.x.com/dashlane "Twitter page")[![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02LjkyNTE2IDYuMzcyODNDOS4zMjU5OSA2LjIwOTM5IDE0LjY4MDcgNi4yMDg3MiAxNy4wODQ4IDYuMzcyODNDMTkuNjg3MSA2LjU1MDk0IDE5Ljk5MDcgOC4xMjc5MiAyMC4wMSAxMi4yNTM4QzE5Ljk5MDcgMTYuMzg3MSAxOS42ODQ1IDE3Ljk1NzQgMTcuMDg0OCAxOC4xMzQ4QzE0LjY4MDcgMTguMjk4OSA5LjMyNjY2IDE4LjI5ODMgNi45MjUxNiAxOC4xMzQ4QzQuMzIyODcgMTcuOTU2NyA0LjAxOTM1IDE2LjM3OTcgNCAxMi4yNTM4QzQuMDE5MzUgOC4xMjA1OSA0LjMyNTU0IDYuNTUwMjcgNi45MjUxNiA2LjM3MjgzWk0xMC4wMDM4IDkuNTg1NVYxNC45MjIyTDE1LjM0MDQgMTIuMjQ5MkwxMC4wMDM4IDkuNTg1NVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")[![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDEyQzggOS43OTE0MiA5Ljc5MTczIDggMTIgOEMxNC4yMDgzIDggMTYgOS43OTE0MiAxNiAxMkMxNiAxNC4yMDg2IDE0LjIwODMgMTYgMTIgMTZDOS43OTE3MyAxNiA4IDE0LjIwODYgOCAxMlpNMTIgMTQuN0MxMC41MDk0IDE0LjcgOS4zIDEzLjQ5MDkgOS4zIDEyQzkuMyAxMC41MDkxIDEwLjUwOTQgOS4zIDEyIDkuM0MxMy40OTA5IDkuMyAxNC43IDEwLjUwOTEgMTQuNyAxMkMxNC43IDEzLjQ5MDkgMTMuNDkwOSAxNC43IDEyIDE0LjdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTYuNjMxNSA4LjIxMDUxQzE2LjYzMTUgOC42NzUzOSAxNi4yNTQ1IDkuMDUyNjIgMTUuNzg5NCA5LjA1MjYyQzE1LjMyNDUgOS4wNTI2MiAxNC45NDczIDguNjc1NjYgMTQuOTQ3MyA4LjIxMDUxQzE0Ljk0NzMgNy43NDUzNiAxNS4zMjQyIDcuMzY4NDEgMTUuNzg5NCA3LjM2ODQxQzE2LjI1NDUgNy4zNjg2OCAxNi42MzE1IDcuNzQ1MzYgMTYuNjMxNSA4LjIxMDUxWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS41ODcyIDYuNzYzMjFDMTkuNzg0MiA3LjI2OTUxIDE5LjkyMTcgNy44NTQwOSAxOS45NTkzIDguNzA0MTlDMTkuOTk2OSA5LjU1NzQyIDIwIDkuODI5NTEgMjAgMTIuMDAxNkMyMCAxNC4xNzM2IDE5Ljk5MDYgMTQuNDQ1NyAxOS45NTMgMTUuMjk4OUMxOS45MTU0IDE2LjE0OSAxOS43NzggMTYuNzMwNSAxOS41ODEgMTcuMjM5OUMxOS4xNjUxIDE4LjMxNTEgMTguMzE0OCAxOS4xNjUyIDE3LjIzOTQgMTkuNTgxMUMxNi43MzMgMTkuNzc4IDE2LjE0ODMgMTkuOTE1NSAxNS4yOTggMTkuOTUzQzE0LjQ0NDYgMTkuOTkwNiAxNC4xNzI1IDIwIDEyIDIwQzkuODI3NTIgMjAgOS41NTUzNyAxOS45OTA2IDguNzAxOTggMTkuOTUzQzcuODUxNzEgMTkuOTE1NSA3LjI3MDE1IDE5Ljc3OCA2Ljc2MDYyIDE5LjU4MTFDNi4yMjkxNiAxOS4zODEgNS43NDQ2OSAxOS4wNjU0IDUuMzQ0NDUgMTguNjU4OUM0LjkzNzk1IDE4LjI1ODggNC42MjIyNyAxNy43Nzc1IDQuNDE5MDMgMTcuMjM5OUM0LjIyMjA0IDE2LjczMzYgNC4wODQ1NiAxNi4xNDkgNC4wNDY5OCAxNS4yOTg5QzQuMDA5NCAxNC40NDU3IDQgMTQuMTczOSA0IDEyLjAwMTZDNCA5LjgyOTIgNC4wMDk0IDkuNTU3NDIgNC4wNTAxMSA4LjcwMDc0QzQuMDg3NjkgNy44NTA2NSA0LjIyNTE3IDcuMjY5NTEgNC40MjIxNiA2Ljc2MDA4QzQuNjIyMjcgNi4yMjg3MyA0LjkzNzk1IDUuNzQ0MDMgNS4zNDQxNCA1LjM0Mzg3QzUuNzQ0MzcgNC45MzQ2NCA2LjIyNTcyIDQuNjIxODQgNi43NjM3NSA0LjQxODk0QzcuMjcwMTUgNC4yMjIgNy44NTQ4NCA0LjA4NDU0IDguNzA1MTEgNC4wNDY5N0M5LjU1ODUxIDQuMDA5MzkgOS44MzAzNCA0IDEyLjAwMzEgNEMxNC4xNzU5IDQgMTQuNDQ3OCA0LjAwOTM5IDE1LjMwNDYgNC4wNTAxQzE2LjE1NDkgNC4wODc2NyAxNi43MzY0IDQuMjI1MTMgMTcuMjQ1NiA0LjQyMjA3QzE3Ljc3NzEgNC42MjIxNSAxOC4yNjE2IDQuOTM3NzcgMTguNjYxOCA1LjM0NDE5QzE5LjA3MTQgNS43NDQzNCAxOS4zODQgNi4yMjU2IDE5LjU4NzIgNi43NjMyMVpNMTguNjUyIDE1LjMwMDRDMTguNjE2OCAxNi4wOTkyIDE4LjQ4MjcgMTYuNTMwNCAxOC4zNzA4IDE2LjgxODFDMTguMDk1OSAxNy41MzA1IDE3LjUzMDggMTguMDk2MSAxNi44MTgzIDE4LjM3MUMxNi41MzA5IDE4LjQ4MjcgMTYuMDk2NCAxOC42MTcxIDE1LjMwMSAxOC42NTJDMTQuNDM4NiAxOC42OTA0IDE0LjE3OTggMTguNyAxMS45OTgyIDE4LjdDOS44MTY2OSAxOC43IDkuNTU0NjMgMTguNjkwNCA4LjY5NTUyIDE4LjY1MkM3Ljg5Njg3IDE4LjYxNjggNy40NjU4NyAxOC40ODI3IDcuMTc4MjIgMTguMzcxQzYuODIzNjkgMTguMjQwMSA2LjUwMTE3IDE4LjAzMjQgNi4yMzkxMSAxNy43NjA2QzUuOTY3NDYgMTcuNDk1MyA1Ljc2MDEyIDE3LjE3NTkgNS42Mjg5MyAxNi44MjEzQzUuNTE3MjYgMTYuNTMzOSA1LjM4Mjg3IDE2LjA5OTIgNS4zNDggMTUuMzAzNkM1LjMwOTYgMTQuNDQxMSA1LjMgMTQuMTgyMSA1LjMgMTJDNS4zIDkuODE3ODggNS4zMDk2IDkuNTU1NzUgNS4zNDggOC42OTY0MUM1LjM4MzE5IDcuODk3NTYgNS41MTcyNiA3LjQ2NjQ1IDUuNjI4OTMgNy4xNzg3MkM1Ljc1OTggNi44MjQxIDUuOTY3NDYgNi41MDE0OCA2LjI0MjMxIDYuMjM5MzZDNi41MDcyNCA1Ljk2NzYzIDYuODI2NTcgNS43NjAyNCA3LjE4MTQyIDUuNjI5MzRDNy40Njg3NSA1LjUxNzY0IDcuOTAzMjcgNS4zODMyMiA4LjY5ODcyIDUuMzQ4MDFDOS41NjEwMyA1LjMwOTYgOS44MTk4OSA1LjMgMTIuMDAxNCA1LjNDMTQuMTg2MiA1LjMgMTQuNDQ1IDUuMzA5NiAxNS4zMDQyIDUuMzQ4MDFDMTYuMTAyOCA1LjM4MzIyIDE2LjUzMzggNS41MTczMiAxNi44MjE1IDUuNjI5MzRDMTcuMTc2IDUuNzYwMjQgMTcuNDk4NSA1Ljk2Nzk1IDE3Ljc2MDYgNi4yMzkzNkMxOC4wMzIyIDYuNTA0NjggMTguMjM5NiA2LjgyNDEgMTguMzcwOCA3LjE3ODcyQzE4LjQ4MjQgNy40NjYxMyAxOC42MTY4IDcuOTAwNzYgMTguNjUyIDguNjk2NDFDMTguNjkwNCA5LjU1ODk2IDE4LjcgOS44MTc4OCAxOC43IDEyQzE4LjcgMTQuMTgyMSAxOC42OTAxIDE0LjQzNzkgMTguNjUyIDE1LjMwMDRaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")[![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOC4yNDU2IDEwLjI0NTZDMTkuMjE0IDEwLjI0NTYgMjAgMTEuMDMxNiAyMCAxMkMyMCAxMi43MTU3IDE5LjU2NDggMTMuMzMzMyAxOC45ODk1IDEzLjYxNEMxOS4wMTc1IDEzLjc4MjQgMTkuMDMxNSAxMy45NTA5IDE5LjAzMTUgMTQuMTMzM0MxOS4wMzE1IDE2LjgyODEgMTUuOTAxNyAxOS4wMDM1IDEyLjAyOCAxOS4wMDM1QzguMTU0MjcgMTkuMDAzNSA1LjAyNDUzIDE2LjgyODEgNS4wMjQ1MyAxNC4xMzMzQzUuMDI0NTMgMTMuOTUwOSA1LjAzODUzIDEzLjc2ODQgNS4wNjY2NyAxMy42QzQuNDQ5MDcgMTMuMzE5MyA0LjAyOCAxMi43MTU3IDQuMDI4IDEyQzQuMDI4IDExLjAzMTYgNC44MTQgMTAuMjQ1NiA1Ljc4MjQgMTAuMjQ1NkM2LjI0NTYgMTAuMjQ1NiA2LjY4MDY3IDEwLjQ0MjEgNi45ODk0NyAxMC43MzY4QzguMTk2NCA5Ljg1MjY3IDkuODY2NjcgOS4zMDUyIDExLjczMzMgOS4yNDkwN0wxMi42MTc1IDUuMDY2NjdDMTIuNjQ1NiA0Ljk4MjQgMTIuNjg3NiA0LjkxMjI3IDEyLjc1NzkgNC44NzAxM0MxMi44MjggNC44MjgxMyAxMi45MTIzIDQuODE0IDEyLjk5NjQgNC44MjgxM0wxNS45MDE3IDUuNDQ1NkMxNi4wOTgxIDUuMDI0NTMgMTYuNTE5MiA0Ljc0Mzg3IDE3LjAxMDUgNC43NDM4N0MxNy42OTgxIDQuNzQzODcgMTguMjU5NiA1LjMwNTIgMTguMjU5NiA1Ljk5MjkzQzE4LjI1OTYgNi42ODA2NyAxNy42OTgxIDcuMjQyMTMgMTcuMDEwNSA3LjI0MjEzQzE2LjMzNjggNy4yNDIxMyAxNS43ODk1IDYuNzA4OCAxNS43NjEzIDYuMDQ5MDdMMTMuMTY0OCA1LjUwMTczTDEyLjM2NDggOS4yNDkwN0MxNC4xODk1IDkuMzE5MzMgMTUuODQ1NiA5Ljg4MDY3IDE3LjAzODUgMTAuNzM2OEMxNy4zNDczIDEwLjQyODEgMTcuNzY4NCAxMC4yNDU2IDE4LjI0NTYgMTAuMjQ1NlpNOCAxMy4yNDkxQzggMTIuNTYxNSA4LjU2MTMzIDEyIDkuMjQ5MDcgMTJDOS45MzY4IDEyIDEwLjQ5ODEgMTIuNTYxNSAxMC40OTgxIDEzLjI0OTFDMTAuNDk4MSAxMy45MzY4IDkuOTM2OCAxNC40OTgzIDkuMjQ5MDcgMTQuNDk4M0M4LjU2MTMzIDE0LjQ5ODMgOCAxMy45MzY4IDggMTMuMjQ5MVpNMTQuOTc1MyAxNi41NDczQzE0LjExOTIgMTcuNDAzNSAxMi40OTEyIDE3LjQ1OTYgMTIuMDE0IDE3LjQ1OTZDMTEuNTM2OCAxNy40NTk2IDkuODk0NjcgMTcuMzg5NSA5LjA1MjUzIDE2LjU0NzNDOC45MjYyNyAxNi40MjExIDguOTI2MjcgMTYuMjEwNSA5LjA1MjUzIDE2LjA4NDNDOS4xNzg5MyAxNS45NTc5IDkuMzg5NDcgMTUuOTU3OSA5LjUxNTczIDE2LjA4NDNDMTAuMDQ5MSAxNi42MTc2IDExLjIgMTYuODE0IDEyLjAyOCAxNi44MTRDMTIuODU2MSAxNi44MTQgMTMuOTkyOSAxNi42MTc2IDE0LjU0MDMgMTYuMDg0M0MxNC42NjY3IDE1Ljk1NzkgMTQuODc3MiAxNS45NTc5IDE1LjAwMzUgMTYuMDg0M0MxNS4xMDE3IDE2LjIyNDUgMTUuMTAxNyAxNi40MjExIDE0Ljk3NTMgMTYuNTQ3M1pNMTQuNzUwOCAxNC40OTgzQzE0LjA2MzEgMTQuNDk4MyAxMy41MDE3IDEzLjkzNjggMTMuNTAxNyAxMy4yNDkxQzEzLjUwMTcgMTIuNTYxNSAxNC4wNjMxIDEyIDE0Ljc1MDggMTJDMTUuNDM4NSAxMiAxNiAxMi41NjE1IDE2IDEzLjI0OTFDMTYgMTMuOTM2OCAxNS40Mzg1IDE0LjQ5ODMgMTQuNzUwOCAxNC40OTgzWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")[![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuOTM3NSA4LjA2MjVIM1YyMUg2LjkzNzVWOC4wNjI1WiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPHBhdGggZD0iTTE2LjUwMTcgOC4wNjI1QzE0LjI1IDguMDYyNSAxMy42MjU2IDguODAwNSAxMy4xMjUgOS43NVY4LjA2MjVIOS4xODc1VjIxSDEzLjEyNVYxMy42ODc1QzEzLjEyNSAxMi41NjI1IDEzLjEyNSAxMS40Mzc1IDE1LjA5MzggMTEuNDM3NUMxNy4wNjI1IDExLjQzNzUgMTcuMDYyNSAxMi41NjI1IDE3LjA2MjUgMTMuNjg3NVYyMUgyMVYxMy42ODc1QzIxIDEwLjMxMjUgMjAuNDM3NSA4LjA2MjUgMTYuNTAxNyA4LjA2MjVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8cGF0aCBkPSJNNC45Njg3NSA2LjkzNzVDNi4wNTYwNiA2LjkzNzUgNi45Mzc1IDYuMDU2MDYgNi45Mzc1IDQuOTY4NzVDNi45Mzc1IDMuODgxNDQgNi4wNTYwNiAzIDQuOTY4NzUgM0MzLjg4MTQ0IDMgMyAzLjg4MTQ0IDMgNC45Njg3NUMzIDYuMDU2MDYgMy44ODE0NCA2LjkzNzUgNC45Njg3NSA2LjkzNzVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
-
-English
-
-© 2024 Dashlane Inc. All rights reserved.
-
-Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
-
-[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
-
-* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
-* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
-* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
-* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
-* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
-* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
+I acceptI refuse
