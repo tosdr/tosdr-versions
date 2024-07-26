@@ -1,4 +1,4 @@
-AI is no longer a tool, it's a teammate. Meet Asana's new AI teammates.[Join our beta](https://asana.com/product/ai?utm_medium=web&utm_source=top-banner&utm_campaign=ai25-waitlist#form)
+Introducing Asana’s Summer 2024 Release. Discover what's new.[Explore now](https://asana.com/whats-new?utm_medium=web&utm_source=top-banner)
 
 x icon
 
@@ -26,6 +26,7 @@ Featureschevron-down icon
 
 * [Product overview](https://asana.com/product)
 * [All features](https://asana.com/features)
+* [Latest feature release](https://asana.com/whats-new)
 * [App integrations](https://asana.com/apps)
 
 ### CAPABILITIES
@@ -54,9 +55,9 @@ Featureschevron-down icon
 
 ### ALL PLANS
 
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
+* [list iconStarter](https://asana.com/plan/starter)
+* [premium iconAdvanced](https://asana.com/plan/advanced)
+* [briefcase iconEnterprise](https://asana.com/enterprise)
 
 Solutionschevron-down icon
 
@@ -96,9 +97,6 @@ Resourceschevron-down icon
 * [Work management resources
     
     Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [What's new
-    
-    Learn about the latest and greatest from Asana](https://asana.com/whats-new)
 * [Customer stories
     
     See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
@@ -138,9 +136,9 @@ Resourceschevron-down icon
 * [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
     
     DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
+* [![](https://assets.asana.biz/m/c0f90a11ed114d5/original/RM25_resources_featuredreadthumbnail.png)
     
-    ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
+    Latest releaseIntroducing Asana’s Summer 2024 Release. Discover what's newExplore nowarrow-right icon](https://asana.com/whats-new)
 * [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
     
     ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
@@ -159,6 +157,7 @@ PLATFORM
 
 * [Product overview](https://asana.com/product)
 * [All features](https://asana.com/features)
+* [Latest feature release](https://asana.com/whats-new)
 * [App integrations](https://asana.com/apps)
 
 CAPABILITIES
@@ -188,9 +187,9 @@ CAPABILITIES
 
 ALL PLANS
 
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
+* [list iconStarter](https://asana.com/plan/starter)
+* [premium iconAdvanced](https://asana.com/plan/advanced)
+* [briefcase iconEnterprise](https://asana.com/enterprise)
 
 Teams
 
@@ -227,9 +226,6 @@ Explore
 * [Work management resources
     
     Discover best practices, watch webinars, get insights](https://asana.com/resources)
-* [What's new
-    
-    Learn about the latest and greatest from Asana](https://asana.com/whats-new)
 * [Customer stories
     
     See how the world's best organizations drive work innovation with Asana](https://asana.com/customers)
@@ -269,9 +265,9 @@ Featured Reads
 * [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
     
     DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
+* [![](https://assets.asana.biz/m/c0f90a11ed114d5/original/RM25_resources_featuredreadthumbnail.png)
     
-    ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
+    Latest releaseIntroducing Asana’s Summer 2024 Release. Discover what's newExplore nowarrow-right icon](https://asana.com/whats-new)
 * [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
     
     ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
