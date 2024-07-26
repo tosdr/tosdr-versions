@@ -1,10 +1,10 @@
-[![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f1e3ac49b46c7a39b1c38d_Cloud%20Tax%20Symbol.svg)![CloudTax logo](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/6608ff4bb7bf709095745bf3_lgo.svg)](https://cloudtax.ca/)
+[![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f1e3ac49b46c7a39b1c38d_Cloud%20Tax%20Symbol.svg)![CloudTax logo](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/6608ff4bb7bf709095745bf3_lgo.svg)](https://cloudtax.ca/)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f1c1b17d7541e1bab15992_prod.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f1c1b17d7541e1bab15992_prod.svg)
 
 Products
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63fe3ba7ddeb9b3e320f444d_menu-icon1.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63fe3ba7ddeb9b3e320f444d_menu-icon1.svg)
 
 Do it yourself
 
@@ -16,7 +16,7 @@ Recommended
 
 Unlimited tax support](https://cloudtax.ca/plus)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63fe3ba7121e85c2a2dc599c_menu-icon2.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63fe3ba7121e85c2a2dc599c_menu-icon2.svg)
 
 File with an expert
 
@@ -28,46 +28,46 @@ Business owners & freelancers](https://cloudtax.ca/self-employment-tax)[Emigrant
 
 T2 tax returns](https://cloudtax.ca/corporate-tax)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f1e3ac49b46c7a39b1c38d_Cloud%20Tax%20Symbol.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f1e3ac49b46c7a39b1c38d_Cloud%20Tax%20Symbol.svg)
 
 Cloud Receipts
 
 Store tax related documents easily
 
 [![appstore badge
-](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f25f89dd42ad763e648be7_App%20Store%20badge.svg)](https://apps.apple.com/ca/app/cloudreceipts/id1611449724?platform=iphone)
+](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f25f89dd42ad763e648be7_App%20Store%20badge.svg)](https://apps.apple.com/ca/app/cloudreceipts/id1611449724?platform=iphone)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f7684d337163eae163cb80_nav_phone.webp)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63f1c1b17d754107abb15993_Triangle.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63f1c1b17d754107abb15993_Triangle.svg)
 
 [Calculator](https://cloudtax.ca/calculator)[Compare](https://cloudtax.ca/compare)[Pricing](https://cloudtax.ca/pricing)
 
 [Login](#)[Get Started](https://app.cloudtax.ca/2023/auth/register)
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6406cc799e8f42b9f517_close.svg)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6406cc799e8f42b9f517_close.svg)
 
 Start or continue your tax return
 
 [2023
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://app.cloudtax.ca/2023/auth/login)[2022
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://app.cloudtax.ca/2023/auth/login)[2022
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2022/auth/login)[2021
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2022/auth/login)[2021
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2021/auth/login)[2020
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2021/auth/login)[2020
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2020/auth/login)[2019
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2020/auth/login)[2019
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2019/auth/login)[2018
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2019/auth/login)[2018
 
-![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2018/)
+![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/63ff6296cd6bdef459db5ed4_Union.svg)](https://www.app.cloudtax.ca/2018/)
 
 [Home /](https://cloudtax.ca/old-home) [Privacy Policy](https://cloudtax.ca/privacy-policy)
 
@@ -173,7 +173,7 @@ Believe In Better
 
 Follow us
 
-[![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/6608e4b6b7bf7090955f7671_in.svg)](https://www.linkedin.com/company/cloudtax/)[![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/6608e4b6ddcc6311b39e308f_fb.svg)](https://www.facebook.com/cloudtaxapp)[![](https://assets-global.website-files.com/63f1b5267a954c84488fd4b9/6608e4b62a64b123bedd6f39_yt.svg)](https://www.youtube.com/@cloud-tax)
+[![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/6608e4b6b7bf7090955f7671_in.svg)](https://www.linkedin.com/company/cloudtax/)[![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/6608e4b6ddcc6311b39e308f_fb.svg)](https://www.facebook.com/cloudtaxapp)[![](https://cdn.prod.website-files.com/63f1b5267a954c84488fd4b9/6608e4b62a64b123bedd6f39_yt.svg)](https://www.youtube.com/@cloud-tax)
 
 Products
 
