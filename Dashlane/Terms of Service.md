@@ -1,266 +1,375 @@
-![](data:image/svg+xml;charset=utf-8,%3Csvg height='14' width='14' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA9klEQVQ4y6XTwQ7BQBAG4OVId0tExBEHiQOH7vTQzKQX3kjcXcXVI4jXcCCIeAgSibcgLRWRlt3pHtvsl5ns/wshREECTV2NbcE8tSCQSuO86XklITWNFdBdAp05aIwBbmND41JUvaErAQ9PFC/KCzqmWKM/KiugdXRXabw5PvbiHxw0E0uODfoXs0GNMRPUGvuFsrHkuIOwIjUdk0gpTbsYA7pKHXRZgf2clD1Z5gMwcprSANq81wQ8vRvlU4s/2WvNaH0FtLee9NdrWqMm0TBGbXL2t1Gc0GaieRqQijo+TvI04KtRq+hbUQHO2HVKUKBFvRc6Dy8buyYd50QkAAAAAElFTkSuQmCC)
-
-![Close](https://d38muu3h4xeqr1.cloudfront.net/website/static/DG-10002/static/46c0bf42877f5e5b204d022d2830429d/00715/cross-new.svg)
-
-**Please note:** We use cookies on our site to give you the best experience. Please accept these cookies, or change your settings here:
-
-Cookie preferences.
-
-I acceptI refuse
-
 [Skip to main content](#main-content)
 
-[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
+[Dashlane Logo](https://www.dashlane.com/)
 
-Icon of a computer, with a checkmark on the screen[Request Demo](https://www.dashlane.com/business-password-manager/request-demo)
-
-[](https://www.dashlane.com/ "Dashlane Password Manager")
-
-[](https://www.dashlane.com/ "Dashlane Password Manager")
-
-* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
-* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
+* Product
+    
+* Why Dashlane
+    
+* [Pricing](https://www.dashlane.com/pricing)
 * Resources
     
-    [Resource library](https://www.dashlane.com/resources)[Help center](https://support.dashlane.com/)[Blog](https://www.dashlane.com/blog)[Success Stories](https://www.dashlane.com/resources#SuccessStories)[Passkeys](https://www.dashlane.com/passkeys)
+* Blog
     
-* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
+* [Log in](https://app.dashlane.com/)
 
-[Log In](https://app.dashlane.com/)[Get Dashlane](https://www.dashlane.com/pricing)
+[Request a demo](https://www.dashlane.com/business-password-manager/request-demo)[Contact Sales](https://www.dashlane.com/business-password-manager/enterprise)
 
-* [Business](https://www.dashlane.com/business-password-manager "Business Password Manager")
-* [Personal](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing "Password Manager Prices")
-* Resources
-    
-    * [Resource library](https://www.dashlane.com/resources)
-    * [Help center](https://support.dashlane.com/)
-    * [Blog](https://www.dashlane.com/blog)
-    * [Success Stories](https://www.dashlane.com/resources#SuccessStories)
-    * [Passkeys](https://www.dashlane.com/passkeys)
-* [Start a Trial](https://www.dashlane.com/business-password-manager/try "Start a Trial")
-* [Log In](https://app.dashlane.com/ "Log In")
-* [Contact Sales](https://www.dashlane.com/business-password-manager/enterprise "Contact Sales")
-* [Icon of a computer, with a checkmark on the screenRequest Demo](https://www.dashlane.com/business-password-manager/request-demo "Request Demo")
-* [Get Dashlane](https://www.dashlane.com/pricing)
-
-Hamburger Menu Icon
+Open menu
 
 Terms of Service
 ================
 
-Welcome to Dashlane, where our mission is to make your digital life simpler, safer, and more secure. We believe that your identity should be just that—yours—and are dedicated to creating software that lets you control your information online.  
-  
-Dashlane's current Terms of Service are available for you to download or read below. We include plain-language summaries to make the legalese easier to understand, but if you still have questions, please visit our [Help Center](https://support.dashlane.com/hc/en-us/requests/new).
+Welcome to Dashlane, where our mission is to make your digital life simpler, safer, and more secure. We believe that your identity should be just that—yours—and are dedicated to creating software that lets you control your information online.
 
-[Download our Terms of Service](https://www.dashlane.com/documents/terms/en/9YZcNUMdS5iTvs3ssWiZ.pdf)
+Dashlane's current Terms of Service are available for you to read below. We include plain-language summaries to make the legalese easier to understand, but if you still have questions, please visit our [Help Center](https://support.dashlane.com/hc/en-us/requests/new).
 
-Loading PDF…
+**Dashlane Terms of Service** 
 
-### Business
+Our “Terms of Service” are below. You must accept them if you want to use our software, but we know that they can be hard to follow. To help you understand them, each section starts with a short “non-legal”  summary (in italics). The summaries are not part of the Terms, but are provided as an aid to understanding them.  
 
-* [Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
-* [Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-* [Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
-* [Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
+LAST UPDATED: March 15, 2024 
 
-### Personal
+**1\. INTRODUCTION** 
 
-* [How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-* [Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-* [Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
-* [Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
-* [Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
+**_Summary:_**  _These Terms, along with our Privacy Policy, form a legal contract between Dashlane and each individual  user of our Services (if you are accessing our services with an account provided by your employer, your use  is governed by a contract between your employer and Dashlane). You must be old enough to agree to the  Terms to use our Services. The Terms don’t apply to sites and services operated by other companies that  you may access through the services. If you sign up for a paid subscription, it will automatically renew until  you cancel it. Except when prohibited by law, any legal claim about the Services will be settled by  arbitration, not a trial. These Terms are governed by New York State law and may be changed at any time  (but changes will not take effect for thirty days for existing users)._ 
 
-### Plans
+a. Dashlane, Inc. and its affiliates (“**Dashlane**”, or “**we**” and its derivatives) operate [www.dashlane.com](https://www.dashlane.com/) (together with any subdomains, the “**Site**”) and provide our users (each user,  “**you**”) with mobile and web applications and web extesnions (each an “**App**” and, collectively,  the “**Apps**”). These Terms of Service (the “**Terms**”) are a binding agreement between you and  Dashlane SAS (if you are a resident of France) or Dashlane USA, Inc. (for everyone else) regarding  your use of the Site, the Apps, and any related services we may offer (the Site, Apps and services  together, the “**Services**”). As used in these Terms, a “**device**” means any computer, phone, tablet,  or other hardware on which Apps run.  
 
-* [Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-* [Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-* [Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
+b. By using the Services, you represent that you (i) may legally do so, (ii) are the age of majority in  the jurisdiction where you reside (unless you have been invited to join a Family Plan by someone  who is), and (iii) have the power to enter a binding contract with us. You must affirmatively accept  these Terms and the [Privacy Policy](https://www.dashlane.com/privacy) when initially downloading or accessing an App.  
 
-### Resources
+c. These Terms do not apply to third-party websites, services, and applications (“**Third-Party**  **Services**”) you may access through the Services (such as when you use an App to automatically  fill in information on an e-commerce site). Unless required by applicable law, we are not  responsible for the content or practices of Third-Party Services and provide links to them only for  your convenience. We recommend you review the terms and policies of any Third-Party Service  you access through the Services. 
 
-* [Resource Library](https://www.dashlane.com/resources "Password Management Resources")
-* [Help Center](https://support.dashlane.com/ "Dashlane Help Center")
-* [White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
-* [Blog](https://www.dashlane.com/blog "Dashlane Blog")
-* [Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
-* [System Status](https://status.dashlane.com/)
-* [Security](https://www.dashlane.com/security "Secure Password Manager")
+d. WHEN YOU PAY FOR A SUBSCRIPTION TO THE SERVICES, YOUR SUBSCRIPTION WILL  AUTOMATICALLY RENEW FOR ADDITIONAL PERIODS OF THE SAME DURATION AS THE INITIAL  SUBSCRIPTION AT THE THEN-CURRENT RATE FOR SUCH SERVICES, UNLESS YOU CANCEL OR  CHANGE YOUR SUBSCRIPTION AS SET FORTH IN SECTION 7(c). 
 
-### Company
+e. Your use of certain Services may be subject to additional terms (“**Supplemental Terms**”). If any  provision of the Supplemental Terms conflicts with these Terms, the Supplemental Terms will  control. Certain Supplemental Terms are in Section 12. 
 
-* [About Us](https://www.dashlane.com/about "About Dashlane")
-* [Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
-* [Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
-* [Partners](https://www.partners.dashlane.com/English/)
+f. If you are accessing the Services under an account provided by your employer or similar entity (a  “**B2B Account**”), the [Dashlane Business Terms](https://www.dashlane.com/terms/business), and not these Terms, will govern the use of the  Services by your organization and any users accessing the Services on its behalf.  
 
-### Features
+g. EXCEPT WHERE PROHIBITED BY LAW, THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN  INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS, AND  LIMIT THE REMEDIES AVAILABLE IF THERE IS A DISPUTE ABOUT THESE TERMS OR YOUR USE OF  THE SERVICES. By accepting these Terms, you are waiving certain rights to legal remedies you may  otherwise have. Arbitration is not permitted in certain jurisdictions. Please see Sections 10 and  13 for more information.  
 
-* [Passkeys](https://www.dashlane.com/passkeys)
-* [Autofill](https://www.dashlane.com/personal-password-manager/autofill)
-* [Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
-* [Passwordless](https://www.dashlane.com/passwordless)
-* [Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
-* [SSO](https://www.dashlane.com/sso)
-* [VPN](https://www.dashlane.com/marketing/vpn)
+h. Any dispute or claim arising under these Terms or related to the Services will be governed by and  interpreted according to the laws of the State of New York, consistent with the Federal Arbitration  Act, without giving effect to any conflicts of law provisions that would require a different result.  The United Nations Convention on Contracts for the Sale of Goods will not apply to these Terms. 
 
-### Try Dashlane
+i. We may change these Terms at any time. When we do so, we will post the updated Terms on this  page and, if the changes are material, inform you via email or in-App messaging, as applicable.  Amended Terms will be effective immediately for new users and thirty (30) days after we post  them for existing users.  
 
-* [Business](https://www.dashlane.com/business-password-manager/try)
-* [Personal](https://www.dashlane.com/download)
-* [iOS App](https://app.adjust.com/jq0xdf)
-* [Android App](https://app.adjust.com/8n9sd4)
+j. Please visit our [support center](https://support.dashlane.com/hc/articles/4516905332370) or write us at Dashlane, Inc. 44 West 18th Street, 4th Floor, New  York, NY 10011, with any questions about these Terms or the Services.  
 
-### Buy Dashlane
+**2\. REGISTRATION** 
 
-* [For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
-* [For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
-* [Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
+**_Summary:_**  _To use our Apps, you must create an account. You must also create a Master Password (or set up  passwordless authentication), which is used to generate the encryption keys that protect the information  you store on the Services. DASHLANE DOES NOT STORE OR HAVE ACCESS TO YOUR MASTER PASSWORD,  AND IF THE MASTER PASSWORD OR OTHER MEANS USED TO ACCESS YOUR ACCOUNT IS LOST, DASHLANE  CANNOT UNLOCK YOUR ACCOUNT OR RETRIEVE YOUR INFORMATION. Do not share your account  credentials with anyone, as you are responsible for all activity associated with your account._
 
-### Log In
+a. _Accounts_. To use the Services, you must download an App and create an account (an “**Account**”).  You must provide your email address (the “**Account Email**”) and create either a “**Master  Password**” or set up “**[Passwordless Login](https://www.dashlane.com/passwordless#time-to-go)**” (which uses biometric identification on your devices  to validate your identity) to create an Account As used on these Terms, "**Login Details**" means  either the Passwordless Login or the Account Email and Master Password combination. Keep your  Login Details secure and do not share them with anyone. You are responsible for all activities on the Services associated with your Account. You represent that any information you provide in  connection with your Account (e.g., billing information when you pay for a Subscription) will be  accurate, and that you will keep it updated for so long as you have an Account.  
 
-* [Personal App](https://app.dashlane.com/)
-* [Admin Console](https://console.dashlane.com/)
+b. _Master Password._ Your Master Password is critical to the security of your Account. It is used to  generate the encryption keys used to protect Secured Data (as defined in Section 4(b)) and to  transfer Secured Data among your authorized devices. DASHLANE DOES NOT STORE, HAVE  ACCESS TO, OR HAVE ANY MEANS OF RECREATING OR RETREIVING YOUR MASTER PASSWORD,  NOR CAN WE ACCESS SECURED DATA IF YOU LOSE YOUR MASTER PASSWORD. This is an essential  security feature intended to protect your Secured Data should our systems be compromised. We  are not responsible for any inability to access your Account or Secured Data caused by loss of your  Master Password.
 
-### Stay In Touch
+c. _Passwordless Login._ If you use Passwordless Login to secure your Account, you can create and  save Account Recovery codes to regain access to your Account if you lose access to all devices  associated with your Account. As with a lost Master Password, DASHLANE WILL NOT BE ABLE TO  RESTORE ACCESS TO YOUR ACCOUNT IF YOU DO NOT HAVE RECOVERY CODES AND LOSE ACCESS  TO ALL YOUR VERIFIED DEVICES. We are not responsible for any inability to access your Account  or Secured Data caused in such situations. 
 
-* [![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTE4LjkwMzQgMjZMMTguOTAzNCAxOC45MzYzSDIxLjE4OTFMMjEuNTUgMTYuMDQ5MUgxOC45MDM0VjE0LjM2NDlDMTguOTAzNCAxMy41MjI4IDE5LjE0NCAxMy4wNDE2IDIwLjIyNjcgMTMuMDQxNkgyMS42NzAzVjEwLjM5NUMyMS40Mjk3IDEwLjM5NSAyMC41ODc2IDEwLjI3NDcgMTkuNjI1MiAxMC4yNzQ3QzE3LjU4MDEgMTAuMjc0NyAxNi4xMzY1IDExLjU5OCAxNi4xMzY1IDE0LjAwNFYxNi4wNDkxSDEzLjczMDVWMTguOTM2M0gxNi4xMzY1TDE2LjEzNjUgMjZIMTguOTAzNFoiIGZpbGw9IiNGNUY3RjciLz4KPC9zdmc+Cg==)](https://www.facebook.com/GetDashlane "Facebook page")
-* [![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzExOTJfMTc4MykiPgo8cGF0aCBkPSJNMzUuNSAxOEMzNS41IDI3LjY2NSAyNy42NjUgMzUuNSAxOCAzNS41QzguMzM1MDIgMzUuNSAwLjUgMjcuNjY1IDAuNSAxOEMwLjUgOC4zMzUwMiA4LjMzNTAyIDAuNSAxOCAwLjVDMjcuNjY1IDAuNSAzNS41IDguMzM1MDIgMzUuNSAxOFoiIHN0cm9rZT0iIzlGQUVCMSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2LjA0MiAxOC40NDhMMTAuMTg3NSAxMUgxNC44MjQ3TDE4LjQzODYgMTUuNjAzNEwyMi4yOTk1IDExLjAyMDdIMjQuODUzNEwxOS42NzM0IDE3LjE3NjNMMjUuODE1NCAyNUgyMS4xOTIxTDE3LjI3OSAyMC4wMjE3TDEzLjEwMTMgMjQuOTg2MkgxMC41MzM2TDE2LjA0MiAxOC40NDhaTTIxLjg2NiAyMy42MkwxMy4wMzA4IDEyLjM4SDE0LjE1MDNMMjIuOTc0MyAyMy42MkgyMS44NjZaIiBmaWxsPSIjRjVGN0Y3Ii8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTE5Ml8xNzgzIj4KPHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiBmaWxsPSJ3aGl0ZSIvPgo8L2NsaXBQYXRoPgo8L2RlZnM+Cjwvc3ZnPgo=)](https://www.x.com/dashlane "Twitter page")
-* [![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMy41NTg5IDEyLjM1NzRDMTUuNjU5IDEyLjIxNDUgMjAuMzQzMiAxMi4yMTM5IDIyLjQ0NjMgMTIuMzU3NEMyNC43MjI3IDEyLjUxMzMgMjQuOTg4MiAxMy44OTI4IDI1LjAwNTEgMTcuNTAyQzI0Ljk4ODIgMjEuMTE3NiAyNC43MjAzIDIyLjQ5MTMgMjIuNDQ2MyAyMi42NDY1QzIwLjM0MzIgMjIuNzkwMSAxNS42NTk2IDIyLjc4OTUgMTMuNTU4OSAyMi42NDY1QzExLjI4MjQgMjIuNDkwNyAxMS4wMTY5IDIxLjExMTIgMTEgMTcuNTAyQzExLjAxNjkgMTMuODg2MyAxMS4yODQ4IDEyLjUxMjcgMTMuNTU4OSAxMi4zNTc0Wk0xNi4yNTE5IDE1LjE2NzhWMTkuODM2MkwyMC45MjAzIDE3LjQ5NzlMMTYuMjUxOSAxNS4xNjc4WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")
-* [![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNCAxOEMxNCAxNS43OTE0IDE1Ljc5MTcgMTQgMTggMTRDMjAuMjA4MyAxNCAyMiAxNS43OTE0IDIyIDE4QzIyIDIwLjIwODYgMjAuMjA4MyAyMiAxOCAyMkMxNS43OTE3IDIyIDE0IDIwLjIwODYgMTQgMThaTTE4IDIwLjdDMTYuNTA5NCAyMC43IDE1LjMgMTkuNDkwOSAxNS4zIDE4QzE1LjMgMTYuNTA5MSAxNi41MDk0IDE1LjMgMTggMTUuM0MxOS40OTA5IDE1LjMgMjAuNyAxNi41MDkxIDIwLjcgMThDMjAuNyAxOS40OTA5IDE5LjQ5MDkgMjAuNyAxOCAyMC43WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMjIuNjMxNSAxNC4yMTA1QzIyLjYzMTUgMTQuNjc1NCAyMi4yNTQ1IDE1LjA1MjYgMjEuNzg5NCAxNS4wNTI2QzIxLjMyNDUgMTUuMDUyNiAyMC45NDczIDE0LjY3NTcgMjAuOTQ3MyAxNC4yMTA1QzIwLjk0NzMgMTMuNzQ1NCAyMS4zMjQyIDEzLjM2ODQgMjEuNzg5NCAxMy4zNjg0QzIyLjI1NDUgMTMuMzY4NyAyMi42MzE1IDEzLjc0NTQgMjIuNjMxNSAxNC4yMTA1WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTI1LjU4NzIgMTIuNzYzMkMyNS43ODQyIDEzLjI2OTUgMjUuOTIxNyAxMy44NTQxIDI1Ljk1OTMgMTQuNzA0MkMyNS45OTY5IDE1LjU1NzQgMjYgMTUuODI5NSAyNiAxOC4wMDE2QzI2IDIwLjE3MzYgMjUuOTkwNiAyMC40NDU3IDI1Ljk1MyAyMS4yOTg5QzI1LjkxNTQgMjIuMTQ5IDI1Ljc3OCAyMi43MzA1IDI1LjU4MSAyMy4yMzk5QzI1LjE2NTEgMjQuMzE1MSAyNC4zMTQ4IDI1LjE2NTIgMjMuMjM5NCAyNS41ODExQzIyLjczMyAyNS43NzggMjIuMTQ4MyAyNS45MTU1IDIxLjI5OCAyNS45NTNDMjAuNDQ0NiAyNS45OTA2IDIwLjE3MjUgMjYgMTggMjZDMTUuODI3NSAyNiAxNS41NTU0IDI1Ljk5MDYgMTQuNzAyIDI1Ljk1M0MxMy44NTE3IDI1LjkxNTUgMTMuMjcwMiAyNS43NzggMTIuNzYwNiAyNS41ODExQzEyLjIyOTIgMjUuMzgxIDExLjc0NDcgMjUuMDY1NCAxMS4zNDQ1IDI0LjY1ODlDMTAuOTM4IDI0LjI1ODggMTAuNjIyMyAyMy43Nzc1IDEwLjQxOSAyMy4yMzk5QzEwLjIyMiAyMi43MzM2IDEwLjA4NDYgMjIuMTQ5IDEwLjA0NyAyMS4yOTg5QzEwLjAwOTQgMjAuNDQ1NyAxMCAyMC4xNzM5IDEwIDE4LjAwMTZDMTAgMTUuODI5MiAxMC4wMDk0IDE1LjU1NzQgMTAuMDUwMSAxNC43MDA3QzEwLjA4NzcgMTMuODUwNiAxMC4yMjUyIDEzLjI2OTUgMTAuNDIyMiAxMi43NjAxQzEwLjYyMjMgMTIuMjI4NyAxMC45MzggMTEuNzQ0IDExLjM0NDEgMTEuMzQzOUMxMS43NDQ0IDEwLjkzNDYgMTIuMjI1NyAxMC42MjE4IDEyLjc2MzggMTAuNDE4OUMxMy4yNzAyIDEwLjIyMiAxMy44NTQ4IDEwLjA4NDUgMTQuNzA1MSAxMC4wNDdDMTUuNTU4NSAxMC4wMDk0IDE1LjgzMDMgMTAgMTguMDAzMSAxMEMyMC4xNzU5IDEwIDIwLjQ0NzggMTAuMDA5NCAyMS4zMDQ2IDEwLjA1MDFDMjIuMTU0OSAxMC4wODc3IDIyLjczNjQgMTAuMjI1MSAyMy4yNDU2IDEwLjQyMjFDMjMuNzc3MSAxMC42MjIyIDI0LjI2MTYgMTAuOTM3OCAyNC42NjE4IDExLjM0NDJDMjUuMDcxNCAxMS43NDQzIDI1LjM4NCAxMi4yMjU2IDI1LjU4NzIgMTIuNzYzMlpNMjQuNjUyIDIxLjMwMDRDMjQuNjE2OCAyMi4wOTkyIDI0LjQ4MjcgMjIuNTMwNCAyNC4zNzA4IDIyLjgxODFDMjQuMDk1OSAyMy41MzA1IDIzLjUzMDggMjQuMDk2MSAyMi44MTgzIDI0LjM3MUMyMi41MzA5IDI0LjQ4MjcgMjIuMDk2NCAyNC42MTcxIDIxLjMwMSAyNC42NTJDMjAuNDM4NiAyNC42OTA0IDIwLjE3OTggMjQuNyAxNy45OTgyIDI0LjdDMTUuODE2NyAyNC43IDE1LjU1NDYgMjQuNjkwNCAxNC42OTU1IDI0LjY1MkMxMy44OTY5IDI0LjYxNjggMTMuNDY1OSAyNC40ODI3IDEzLjE3ODIgMjQuMzcxQzEyLjgyMzcgMjQuMjQwMSAxMi41MDEyIDI0LjAzMjQgMTIuMjM5MSAyMy43NjA2QzExLjk2NzUgMjMuNDk1MyAxMS43NjAxIDIzLjE3NTkgMTEuNjI4OSAyMi44MjEzQzExLjUxNzMgMjIuNTMzOSAxMS4zODI5IDIyLjA5OTIgMTEuMzQ4IDIxLjMwMzZDMTEuMzA5NiAyMC40NDExIDExLjMgMjAuMTgyMSAxMS4zIDE4QzExLjMgMTUuODE3OSAxMS4zMDk2IDE1LjU1NTggMTEuMzQ4IDE0LjY5NjRDMTEuMzgzMiAxMy44OTc2IDExLjUxNzMgMTMuNDY2NCAxMS42Mjg5IDEzLjE3ODdDMTEuNzU5OCAxMi44MjQxIDExLjk2NzUgMTIuNTAxNSAxMi4yNDIzIDEyLjIzOTRDMTIuNTA3MiAxMS45Njc2IDEyLjgyNjYgMTEuNzYwMiAxMy4xODE0IDExLjYyOTNDMTMuNDY4OCAxMS41MTc2IDEzLjkwMzMgMTEuMzgzMiAxNC42OTg3IDExLjM0OEMxNS41NjEgMTEuMzA5NiAxNS44MTk5IDExLjMgMTguMDAxNCAxMS4zQzIwLjE4NjIgMTEuMyAyMC40NDUgMTEuMzA5NiAyMS4zMDQyIDExLjM0OEMyMi4xMDI4IDExLjM4MzIgMjIuNTMzOCAxMS41MTczIDIyLjgyMTUgMTEuNjI5M0MyMy4xNzYgMTEuNzYwMiAyMy40OTg1IDExLjk2OCAyMy43NjA2IDEyLjIzOTRDMjQuMDMyMiAxMi41MDQ3IDI0LjIzOTYgMTIuODI0MSAyNC4zNzA4IDEzLjE3ODdDMjQuNDgyNCAxMy40NjYxIDI0LjYxNjggMTMuOTAwOCAyNC42NTIgMTQuNjk2NEMyNC42OTA0IDE1LjU1OSAyNC43IDE1LjgxNzkgMjQuNyAxOEMyNC43IDIwLjE4MjEgMjQuNjkwMSAyMC40Mzc5IDI0LjY1MiAyMS4zMDA0WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")
-* [![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNyAxOEMyNyAyMi45NzA2IDIyLjk3MDYgMjcgMTggMjdDMTMuMDI5NCAyNyA5IDIyLjk3MDYgOSAxOEM5IDEzLjAyOTQgMTMuMDI5NCA5IDE4IDlDMjIuOTcwNiA5IDI3IDEzLjAyOTQgMjcgMThaTTIyLjY4NDIgMTYuNjg0MkMyMy40MTA1IDE2LjY4NDIgMjQgMTcuMjczNyAyNCAxOEMyNCAxOC41MzY4IDIzLjY3MzYgMTkgMjMuMjQyMSAxOS4yMTA1QzIzLjI2MzEgMTkuMzM2OCAyMy4yNzM2IDE5LjQ2MzIgMjMuMjczNiAxOS42QzIzLjI3MzYgMjEuNjIxMSAyMC45MjYzIDIzLjI1MjYgMTguMDIxIDIzLjI1MjZDMTUuMTE1NyAyMy4yNTI2IDEyLjc2ODQgMjEuNjIxMSAxMi43Njg0IDE5LjZDMTIuNzY4NCAxOS40NjMyIDEyLjc3ODkgMTkuMzI2MyAxMi44IDE5LjJDMTIuMzM2OCAxOC45ODk1IDEyLjAyMSAxOC41MzY4IDEyLjAyMSAxOEMxMi4wMjEgMTcuMjczNyAxMi42MTA1IDE2LjY4NDIgMTMuMzM2OCAxNi42ODQyQzEzLjY4NDIgMTYuNjg0MiAxNC4wMTA1IDE2LjgzMTYgMTQuMjQyMSAxNy4wNTI2QzE1LjE0NzMgMTYuMzg5NSAxNi40IDE1Ljk3ODkgMTcuOCAxNS45MzY4TDE4LjQ2MzEgMTIuOEMxOC40ODQyIDEyLjczNjggMTguNTE1NyAxMi42ODQyIDE4LjU2ODQgMTIuNjUyNkMxOC42MjEgMTIuNjIxMSAxOC42ODQyIDEyLjYxMDUgMTguNzQ3MyAxMi42MjExTDIwLjkyNjMgMTMuMDg0MkMyMS4wNzM2IDEyLjc2ODQgMjEuMzg5NCAxMi41NTc5IDIxLjc1NzkgMTIuNTU3OUMyMi4yNzM2IDEyLjU1NzkgMjIuNjk0NyAxMi45Nzg5IDIyLjY5NDcgMTMuNDk0N0MyMi42OTQ3IDE0LjAxMDUgMjIuMjczNiAxNC40MzE2IDIxLjc1NzkgMTQuNDMxNkMyMS4yNTI2IDE0LjQzMTYgMjAuODQyMSAxNC4wMzE2IDIwLjgyMSAxMy41MzY4TDE4Ljg3MzYgMTMuMTI2M0wxOC4yNzM2IDE1LjkzNjhDMTkuNjQyMSAxNS45ODk1IDIwLjg4NDIgMTYuNDEwNSAyMS43Nzg5IDE3LjA1MjZDMjIuMDEwNSAxNi44MjExIDIyLjMyNjMgMTYuNjg0MiAyMi42ODQyIDE2LjY4NDJaTTE1LjkzNjggMThDMTUuNDIxIDE4IDE1IDE4LjQyMTEgMTUgMTguOTM2OEMxNSAxOS40NTI2IDE1LjQyMSAxOS44NzM3IDE1LjkzNjggMTkuODczN0MxNi40NTI2IDE5Ljg3MzcgMTYuODczNiAxOS40NTI2IDE2Ljg3MzYgMTguOTM2OEMxNi44NzM2IDE4LjQyMTEgMTYuNDUyNiAxOCAxNS45MzY4IDE4Wk0xOC4wMTA1IDIyLjA5NDdDMTguMzY4NCAyMi4wOTQ3IDE5LjU4OTQgMjIuMDUyNiAyMC4yMzE1IDIxLjQxMDVDMjAuMzI2MyAyMS4zMTU4IDIwLjMyNjMgMjEuMTY4NCAyMC4yNTI2IDIxLjA2MzJDMjAuMTU3OSAyMC45Njg0IDIwIDIwLjk2ODQgMTkuOTA1MiAyMS4wNjMyQzE5LjQ5NDcgMjEuNDYzMiAxOC42NDIxIDIxLjYxMDUgMTguMDIxIDIxLjYxMDVDMTcuNCAyMS42MTA1IDE2LjUzNjggMjEuNDYzMiAxNi4xMzY4IDIxLjA2MzJDMTYuMDQyMSAyMC45Njg0IDE1Ljg4NDIgMjAuOTY4NCAxNS43ODk0IDIxLjA2MzJDMTUuNjk0NyAyMS4xNTc5IDE1LjY5NDcgMjEuMzE1OCAxNS43ODk0IDIxLjQxMDVDMTYuNDIxIDIyLjA0MjEgMTcuNjUyNiAyMi4wOTQ3IDE4LjAxMDUgMjIuMDk0N1pNMTkuMTI2MyAxOC45MzY4QzE5LjEyNjMgMTkuNDUyNiAxOS41NDczIDE5Ljg3MzcgMjAuMDYzMSAxOS44NzM3QzIwLjU3ODkgMTkuODczNyAyMSAxOS40NTI2IDIxIDE4LjkzNjhDMjEgMTguNDIxMSAyMC41Nzg5IDE4IDIwLjA2MzEgMThDMTkuNTQ3MyAxOCAxOS4xMjYzIDE4LjQyMTEgMTkuMTI2MyAxOC45MzY4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")
-* [![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAzNiAzNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTM1LjUgMThDMzUuNSAyNy42NjUgMjcuNjY1IDM1LjUgMTggMzUuNUM4LjMzNTAyIDM1LjUgMC41IDI3LjY2NSAwLjUgMThDMC41IDguMzM1MDIgOC4zMzUwMiAwLjUgMTggMC41QzI3LjY2NSAwLjUgMzUuNSA4LjMzNTAyIDM1LjUgMThaIiBzdHJva2U9IiM5RkFFQjEiLz4KPHBhdGggZD0iTTEzLjUgMTMuNUgxMFYyNUgxMy41VjEzLjVaIiBmaWxsPSIjRjVGN0Y3Ii8+CjxwYXRoIGQ9Ik0yMi4wMDE1IDEzLjVDMjAgMTMuNSAxOS40NDUgMTQuMTU2IDE5IDE1VjEzLjVIMTUuNVYyNUgxOVYxOC41QzE5IDE3LjUgMTkgMTYuNSAyMC43NSAxNi41QzIyLjUgMTYuNSAyMi41IDE3LjUgMjIuNSAxOC41VjI1SDI2VjE4LjVDMjYgMTUuNSAyNS41IDEzLjUgMjIuMDAxNSAxMy41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8cGF0aCBkPSJNMTEuNzUgMTIuNUMxMi43MTY1IDEyLjUgMTMuNSAxMS43MTY1IDEzLjUgMTAuNzVDMTMuNSA5Ljc4MzUgMTIuNzE2NSA5IDExLjc1IDlDMTAuNzgzNSA5IDEwIDkuNzgzNSAxMCAxMC43NUMxMCAxMS43MTY1IDEwLjc4MzUgMTIuNSAxMS43NSAxMi41WiIgZmlsbD0iI0Y1RjdGNyIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
+**3\. LICENSE** 
+
+**_Summary:_**  _You have a limited license to use our Apps and any related documentation for your personal use. You may  not hack, reverse-engineer, break the law using, or otherwise do “bad” things with or to the Services. We  are not required to support the Apps (but we do via_ our [support center](https://support.dashlane.com/hc/articles/4516905332370)_). Your use of mobile Apps is subject  to additional terms imposed by the “App Store” from which you downloaded the App. Keeping our Apps  compatible with the rest of the digital world takes a lot of work, and sometimes Apps may not work with  a particular site or service, even if they did before. You may be required to update App versions that are  more than one year old._ 
+
+a. _License_. Dashlane grants you a personal, non-exclusive, revocable, non-sublicensable, and non transferable license to download and install the Apps in object code format on one or more  devices (as permitted by your subscription type), for your personal use. The license includes the  right to (i) access, use, and make a reasonable number of copies of any published descriptions of  the functionality, technical requirements, or use of the Services (collectively, “**Documentation**”),  and (ii) use any changes to the Apps made available to all users of such Apps at no additional cost  (each an “**Update**”) when each Update is made generally available. Updates may be installed  automatically or require installation or approval by you. Failure to install an Update may result in  an App or the Services not functioning correctly.  
+
+b. _Restrictions._ Except as explicitly permitted in these Terms, you may not, directly or indirectly:  i. modify or create derivative works of the Services or elements thereof;  
+
+ii. decompile, reverse engineer, or translate any portion of an App into human-readable form  (except to the extent expressly allowed by applicable law);  
+
+iii. rent, lease, share, distribute, or sell any aspect of the Services to any third party, including  on a service bureau or similar basis. Note that this restriction specifically prevents any  exchange of funds for access to a Family Plan (or any similar offering) via third party sites  such as Sharesub, Spliiit, or Diivii;  
+
+iv. remove, alter, or deface proprietary notices or marks in an App or the Documentation;  v. circumvent or disable security, copyright protection, or license management mechanisms of  an App or the Services,  
+
+vi. interfere with the Services’ operation;  
+
+vii. use the Services to violate the law or the rights of any third party;  
+
+viii. use the Services to store or distribute content that is harmful to minors; 
+
+ix. upload or transmit any virus, worm, Trojan horse, or other malicious code to or via the  Services; 
+
+x. use any automatic or manual process to harvest information from the Site or Services, except that commercial search engines may use spiders to copy materials from the Site solely as necessary to create publicly available searchable indices;
+
+xi. impersonate or otherwise misrepresent your affiliation with any person or entity; or 
+
+xii. mirror or frame the Site or any content, place pop-up windows over its pages, or otherwise  affect the display of its pages. 
+
+Dashlane may take any actions it deems reasonable, including terminating your Account, for any  breach of these restrictions.  
+
+c. _Support_. The license granted in Section 3(a) does not entitle you to receive any support for the  Apps or Services, though we may choose to (and do) provide it. Please visit our [support center](https://support.dashlane.com/hc/articles/4516905332370) if you need assistance. Not all support channels are available to all users. While Dashlane strives to  constantly improve the Services, we are not required to fix any specific error, bug, or issue except  as set forth in Section 9(a). We generally support only the current major version of the platform  or operating system on which the Services run (e.g., iOS, Chrome). You may be required to install  an Update if you are using an App version that is more than one (1) year old. 
+
+d. _App Store Restrictions_.  
+
+i. The availability of mobile Apps is dependent on the entity from whom you obtained the App  (each an “**App Store**”). The relevant App Store is not a party to these Terms, and Dashlane,  not the App Store, is solely responsible for the Services and any related claims (e.g., legal  compliance or intellectual property infringement). You are responsible for connectivity fees  associated with your use of any Apps or App Store and any fees charged by an App Store in  connection with the Services. You will comply with all applicable App Store terms and policies  when using any mobile App. The App Store (and its subsidiaries) are third-party beneficiaries  of these Terms and may enforce them. 
+
+ii. You will only use Apps accessed through or downloaded from the Apple App Store (A) on an  Apple-branded device that runs iOS (Apple’s proprietary operating system), and (B) as  permitted by the “Usage Rules” in the Apple App Store Terms of Service.  
+
+e. _Third-Party Services_. The Services are designed to work with many Third-Party Services, however,  their continued compatibility with any specific application, site, or service is partially dependent  on such services. To maintain compatibility with a particular service, you may need to update an App or a third-party application from time to time. We cannot guarantee that any currently  supported Third-Party Services will remain compatible with the Services.  
+
+**4\. FEATURES AND FUNCTIONS** 
+
+**_Summary:_**  _We provide the Services, but you are responsible for how you use them—both in making sure the data you  store in the Apps is correct and for how you use that data (including when you use the Services to share  data with others). Like most providers of consumer applications, while we make every effort to ensure that  the Services work correctly, we cannot and do not guarantee that they will always do so._
+
+a. _General_. Current information about features can be found at [www.dashlane.com/plans](https://www.dashlane.com/pricing). We may  remove features from the Services or certain Apps at any time, and not all features are available  with all plans and in all jurisdictions.  
+
+b. _Security_. We develop and deploy advanced [security features](https://www.dashlane.com/security) to protect the Services and the  information that you store on it, such as usernames and passwords, IDs and payment information  (collectively, “**Secured Data**”). However, we cannot and do not guarantee that Secured Data will  be 100% protected. In addition, while passwords and other credentials generated by the Services  are designed to be as secure as possible, we cannot guarantee their security, and we explicitly do  not claim that they are immune to attack. 
+
+c. _Partner Features_. Certain features available through the Services, such as Dark Web Monitoring  and VPN, are provided by third party partners. You may be required to validate or provide certain  information (such as your email) and/or agree to certain Supplemental Terms before accessing  these features. We are not responsible for Supplemental Terms made available by partners. 
+
+d. _Your Responsibilities_. You are solely responsible for (i) the accuracy of Secured Data you store on  the Services, and (ii) using your Secured Data in compliance with applicable laws and relevant  agreements with third parties (for example, when using a credit card stored on the Services to  complete an online payment, you are bound by the terms of your agreement with the card  provider). If you allow others to access your Secured Data, such as when using the Services’  “sharing” feature, you acknowledge that Dashlane has no responsibility for what the recipient  does with the data you share with them.  
+
+e. _No Guarantee_. While we strive to ensure the proper operation of the Services, including those  provided by partners, **we explicitly do not warrant or guarantee that the Services will work**  **properly at all times, be error-free, or be available on an uninterrupted basis.** The only warranty  provided in connection with the Services is stated in Section 9(a).  
+
+**5\. OWNERSHIP**  
+
+**_Summary:_**  _The Services are owned by Dashlane and its licensors. You own your Secured Data and Login Details. The  only right you have in the Services is the limited license granted above. The only right we have to your  Secured Data is to use it to provide the Services. We own all anonymized information about the use of our  Services. If you suggest product features or provide other feedback about the Services, we can use it  without any obligation to you._ 
+
+a. _Services._ Except for your Login Details and Secured Data (and, as applicable, Shared Data you  receive from others), Dashlane and its licensors retain all right, title, and interest to the Services and all content and materials available within and through the Services. Your Account is licensed  to you solely so you may use the Services, and, except for your Secured Data and Login Details,  you have no property interest in your Account.  
+
+b. _Your Data._ Except for the limited licenses granted to Dashlane below and elsewhere in these  Terms, you retain all right, title, and interest to your Secured Data. So long as you have an Account,  you grant us a non-exclusive, royalty-free, fully-paid, sublicensable, transferable, worldwide right  to process your Secured Data solely as required to provide the Services in compliance with  applicable laws. 
+
+c. _Usage Information_. Dashlane owns all data regarding installation, registration, and the use and  performance of the Services, including usage statistics and activity logs, (collectively, “**Usage  Information**”). See the [Privacy Policy](https://www.dashlane.com/privacy) for additional information.  
+
+d. _Feedback._ Any feedback, comments, or suggestions you may provide to us or on any public forum  regarding Dashlane or the Services (“**Feedback**”) is voluntary, and you hereby grant Dashlane a  perpetual, irrevocable, unrestricted, royalty-free right and license to use Feedback in any lawful  manner. 
+
+**6\. THIRD PARTY MATERIAL** 
+
+**_Summary:_**  
+
+_We may provide links to, or make data from, Third-Party Services available on the Site or through the Services. We are not responsible for these services or data. Like most software developers, we use open source components in our Services. Such components do not affect your ability to use the Services or limit_ _the rights you have under these Terms, but each component issubject to its own license, and not the license granted above._ 
+
+a. _Third-Party Services and Data._ You are responsible for complying with the terms of use of all Third Party Services you access through the Services (i.e., sites where you use the Services for sign-in or  autofill). Dashlane is not responsible for the performance of Third-Party Services, or the accuracy  and completeness of data available on such services, and recommends you review the terms of  use and privacy policies of all such services.  
+
+b. _Open-Source Software_. “**Open-Source Software**” means certain elements of the Services that are  subject to “open source” or “free” software licenses controlled by third parties. Open-Source  Software is licensed under the terms of the end-user license that accompanies such software, and  not under Section 3. Nothing in these Terms limits or expands the rights of the end-user license  for any Open-Source Software, nor does any Open-Source Software license limit the rights we  grant you in these Terms. If required by the applicable license, Dashlane will make Open-Source  Software available by written request to the address in Section 1(j).  
+
+**7\. FEES AND PAYMENT** 
+
+**_Summary:_**  _When you sign up for paid access to the Services (a “_**_Subscription_**_”) through the Site, you must provide payment account information (e.g., a credit card). Subscriptions are paid for in advance, and will automatically renew (and you will be charged) for the same duration as your initial Subscription unless cancelled or changed. Fees for annual Subscriptions will be refunded if you cancel your Subscription within thirty (30) days of when payment is due; monthly Subscriptions (where available) are not eligible for refund. We will inform you at least thirty (30) days prior to your Subscription renewing. We charge sales tax where required. Payment practices of App Stores may differ according to their terms._
+
+a. _Subscription_. Certain features of the Services are only available with a paid access plan (a  “**Subscription**”). Subscription levels, features, duration, and pricing are available at [www.dashlane.com/plans](https://www.dashlane.com/pricing), and may be changed at any time. Fees for Subscriptions (“**Subscription  Fees**”) are due in advance for each billing period, with the initial payment due when you add a  Subscription to your Account. Except as expressly stated in these Terms, Subscription Fees are  non-refundable and are based on our standard charges and billing terms in effect when payment  is due. You must provide a valid credit card or other payment method (“**Payment Provider**”) prior  to starting a Subscription and promptly update your Account if there is any change to your  payment information. Your Payment Provider agreement, not these Terms, governs your use of  your Payment Provider. We may change our fees and billing practices at any time, but any such  change will not apply to you until the next Subscription period or if you change your Subscription  type. If you upgrade your Subscription, you will pay for the full duration of the new Subscription  level but receive a pro-rata credit for the remaining value of your prior Subscription. 
+
+b. _Automatic Renewal_. SUBSCRIPTIONS WILL AUTOMATICALLY RENEW AT THE RATES THEN IN  EFFECT FOR THE SAME PERIOD AS THE EXPIRING SUBSCRIPTION (UNLESS WE HAVE PROVIDED AT  LEAST 30-DAY ADVANCE WRITTEN NOTICE OF A NEW SUBECRIPTION PERIOD), AND YOUR  PAYMENT PROVIDER WILL BE CHARGED UPON RENEWAL UNLESS YOU CANCEL YOUR  SUBSCRIPTION AS SET FORTH IN SECTION 7(c). We will inform you at least thirty (30) days before  your Subscription renewal date. By subscribing, you authorize us to charge the Subscription Fees  to your Payment Provider at the beginning of any Subscription period. If we cannot process payment, we will reach out to you to update your Payment Provider information. If we do not receive payment within fifteen (15) days of the renewal, we may convert your Subscription to a  “Free” plan without further notice. 
+
+c. _Cancellation_. Subscriptions may be cancelled at any time by logging into the web App at [app.dashlane.com](https://app.dashlane.com/) and going to the “My Account” section. You will be able to use a canceled  Subscription until its scheduled expiration, but you will not receive any pro-rata refund of the  current term. However, we will refund the full Subscription Fee for annual Subscriptions if you  request a refund within thirty (30) days of the Subscription start or renewal. Additional information about refunds can be found [here](https://support.dashlane.com/hc/en-us/articles/202699341-How-to-get-an-invoice-edit-or-cancel-your-Premium-subscription) and information about cancellation is available [here](https://support.dashlane.com/hc/en-us/articles/202907531-How-do-I-delete-my-account-).  
+
+d. _Taxes_. Any sales, use, value-added, or other tax based on Subscription Fees that we are required  to pass through to customersis automatically calculated and added to all orders where applicable.  To the extent applicable, all payments for the Services will be made free and clear of, and without  reduction for, any withholding taxes. Sales tax is the sole responsibility of the customer.  
+
+e. _Payment Services_. We use Stripe, PayPal and Checkout.com (each, a “**Payment Processor**”) for  payment services (e.g., card acceptance and merchant settlement). By paying for a Subscription,  you agree to be bound by the applicable Payment Processor’s terms and policies, and authorize  us and the Payment Processor to share any information and payment instructions you provide  with your Payment Provider and any other Third-Party Service provider(s) solely as required to  complete your transactions.  
+
+**8\. TERMINATION**  
+
+**_Summary:_**  _These Terms will remain in effect for as long as you have an Account (or when you visit the Site). We may terminate your Account for any breach of these Terms or where required by law (in almost all cases, we will reach out to you before doing so). You may cancel a Subscription or close your Account at any time. If you cancel a Subscription, it will remain active until the end of the Subscription period. If we terminate your Account for breach of the Terms, your Subscription will end immediately. You must delete any Apps from your devices following termination to remove Secured Data from your device._
+
+a. _Term_. These Terms take effect when you accept them as set forth in Section 1(b) and will remain  in force as long as you have an Account (or visit the Site). 
+
+b. _Termination by Dashlane_. If you materially breach these Terms, or if required to do so by law (e.g.,  where the provision of the Services becomes unlawful), we may suspend or terminate your  Subscription and/or Account, with or without notice. We will make commercially reasonable  efforts to notify you prior to taking any such action. Termination under this Section 8(b) is at  Dashlane’s sole discretion, and we will not be liable to you or any third party for any such  termination. 
+
+c. _Termination by You._ You may terminate a Subscription at any time as set forth in Section 7(c). To  delete your Account, follow the steps [here](https://support.dashlane.com/hc/en-us/articles/202907531-How-do-I-delete-my-account-), If you need assistance, please contact our [support center](https://support.dashlane.com/), but note that for security purposes only the validated Account owner can delete the  account (we can’t do it for you). Except as specifically described above, we will not provide any  refunds for terminated Subscriptions. If you close your Account, these Terms will no longer apply  to you except to the extent you visit the Site and for any provisions that survive termination  specified below.  
+
+d. _Effect of Termination_.  
+
+i. When a Subscription expires or is terminated by Dashlane pursuant to Section 8(b), you will  no longer have access to the Service features associated with the Subscription. If Dashlane is unable to charge your Payment Provider for a Subscription, your Account will automatically  be converted to a Dashlane Free Plan. Unless you delete your Account, terminating a  Subscription will automatically convert your Account to a Dashlane Free Plan.  
+
+ii. If you delete your Account, all licenses granted in these Terms will immediately terminate and you must stop all use of the Apps. We will delete all Personal Data associated with your  Account from our servers, including Secured Data, without liability or obligation to you. Note  that, even if you delete your Account, you must delete the Apps to remove Secured Data from your devices. Even if you do not delete the Apps, you will not be able to access Secured  Data after you delete your Account (though such access may continue for a short period depending on App settings).  
+
+iii. Sections 1(g) and (h), 3(b), 5, 7, 8(d), 9(b), (c), and (d), 10, 11 and 13 will survive termination  or expiration of these Terms for any reason.  
+
+iv. If we terminate your Account for violating these Terms, you may not attempt to create a new  Account.  
+
+**9\. WARRANTY AND DISCLAIMER; LIMITATION OF LIABILITY; INDEMNIFICATION** 
+
+**_Summary:_**  _The Services will do what the Documentation says, and if they don’t, we will correct it. As much as the law allows, we do not make any other warranties about the Services. Unless we intentionally do something wrong or are truly incompetent, our maximum liability for any damages caused by the Services or related to these Terms will be the amount of your most recent Subscription payment. You will defend us from any claim brought against Dashlane alleging that your use of the Services violated these Terms or applicable  law._
+
+a. _Warranty_. Dashlane warrants that the Services will perform materially in accordance with the  Documentation. Dashlane’s sole obligation, and your sole remedy, for any violation of this  warranty is for Dashlane to use commercially reasonable efforts to correct the Services so that  they conform to the Documentation.  
+
+b. _DISCLAIMER_. EXCEPT AS SET FORTH IN SECTION 9(a), DASHLANE EXPLICITLY DISCLAIMS ANY REPRESENTATIONS OR WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE,  REGARDING THE SERVICES, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY,  NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE. DASHLANE DOES NOT  WARRANT THAT THE SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED. 
+
+c. _LIMITATION OF LIABILITY_. EXCEPT IN CASES OF GROSS NEGLIGENCE, WILLFUL MISCONDUCT, OR  FRAUD, IN NO EVENT WILL (i) DASHLANE’S LIABILITY ARISING OUT OF OR RELATED TO THESE  TERMS OR THE SERVICES EXCEED THE MOST RECENT SUBSCRIPTION FEE YOU PAID, OR (ii)  DASHLANE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES 
+
+ARISING OUT OF OR RELATED TO THESE TERMS OR THE SERVICES, HOWEVER CAUSED AND  REGARDLESS OF THE THEORY OF LIABILITY ON WHICH THEY ARE ASSERTED, AND EVEN IF  DASHLANE IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS WILL APPLY  NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. THESE  LIMITATIONS WILL NOT APPLY TO THE EXTENT PREVENTED BY LAW, BUT IN SUCH CASE,  DASHLANE’S LIABILITY WILL BE LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW. 
+
+d. _Indemnification_. You will indemnify, defend, and hold Dashlane harmless from any claim, action,  suit, or proceeding made or brought against Dashlane arising out of or related to your breach of  any provision of these Terms or use of the Services in violation of applicable law. 
+
+e. _Exceptions_. The provisions of this Section 9 will not apply where barred by applicable law. In  particular, Section 9(c) and the prohibition on punitive damages will not apply to residents of the  State of New Jersey.  
+
+**10\. DISPUTE RESOLUTION** 
+
+**_Summary:_**  _Unless you live in a jurisdiction that does not allow it, any legal claim related to the Services or these Terms will be settled by binding arbitration, not a trial, and will be administered on an individual basis. You can opt out of arbitration by writing us within 30 days of when you accept these Terms. This Section does not prevent actions in small claims court and certain claims for immediate relief._
+
+PLEASE READ THIS SECTION 10 (for purposes of this Section only, the “**Arbitration Agreement**”)  CAREFULLY. IT IS PART OF YOUR CONTRACT WITH DASHLANE AND LIMITS THE WAYS YOU CAN SEEK RELIEF  FROM US. THIS ARBITRATION AGREEMENT DOES NOT APPLY TO INDIVIDUALS WHO ARE SUBJECT TO THE  LAWS OF JURISDICTIONS WHERE SUCH AGREEMENTS ARE PROHIBITED BY LAW. 
+
+a. _Arbitration_. Subject to Section 10(f_),_ any dispute arising out of these Terms, the [Privacy Policy](https://www.dashlane.com/privacy), or  the Services will be resolved exclusively on an individual basis by binding and confidential arbitration conducted in the English language, in New York, New York, before a single commercial  arbitrator from JAMS, Inc. (“**JAMS**”) applying the then-current version of the Streamlined  Arbitration Rules and procedures available [here](https://www.jamsadr.com/rules-streamlined-arbitration) or, if the amount of damages claimed or sought  exceeds $250,000, the most current version of the Comprehensive Arbitration Rules and  Procedures, available [here](https://www.jamsadr.com/rules-comprehensive-arbitration). To start the dispute resolution process, you must send a letter via  overnight courier or registered mail to Dashlane, Inc., 44 West 18th St., Forth Fl. New York, NY  10011, attn: Legal, requesting arbitration and describing your claim. Arbitration will be subject to  the Federal Arbitration Act and not any state arbitration law. You and Dashlane will attempt to  resolve any dispute informally prior to initiating arbitration. If the issue has not been resolved  within thirty (30) days of receipt of the notice, either party may commence the arbitration  process. 
+
+b. _Authority of Arbitrator_. The arbitrator will have exclusive authority to resolve any dispute related  to these Terms, including their formation and any claim that some or all of it is void or  unenforceable. The arbitrator will decide the rights and liabilities, if any, of you and Dashlane. The  arbitration proceeding will not be consolidated with any other matters or joined with any other  proceedings or parties. The arbitrator may (i) grant motions dispositive of all or part of any claim  or dispute, (ii) award monetary damages and grant any non-monetary remedy or relief available  to an individual party under applicable law, the arbitral forum’s rules, and these Terms (including  the Arbitration Agreement). The arbitrator will issue a written award and statement describing  the essential findings and conclusions on which any award (or decision not to render an award) is  based, including the calculation of any damages awarded. The arbitrator will follow the applicable  law. The award of the arbitrator will be final and binding upon the parties. Each party will bear its  own costs of arbitration.  
+
+c. _Waiver of Jury Trial_. YOU ARE GIVING UP YOUR CONSTITUTIONAL AND STATUTORY RIGHTS TO  SUE IN COURT (OTHER THAN AS NOTED IN SECTION 10(F) AND HAVE A TRIAL IN FRONT OF A  JUDGE OR A JURY. Your rights will be determined by a neutral arbiter and not a judge or jury.  Arbitration procedures are simpler and more limited than rules applicable in court. Arbitrator  decisions are as enforceable as any court order, and subject to very limited judicial review.  
+
+d. _Waiver of Class Action_. ANY CLAIMS WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST  BE BROUGHT IN THE RESPECTIVE PARTY’S INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND THE ARBITRATOR  MAY NOT (i) CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS, (ii) OTHERWISE PRESIDE OVER  ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING, OR (iii) AWARD CLASS-WIDE RELIEF. If  a court determines that applicable law precludes enforcement of any of this Section 10(d)’s  limitations as to a given claim for relief, then the applicable claim, and only that claim, must be  severed from the arbitration and brought into the state or federal courts located in New York,  New York in accordance with Section 1(h). All other claims will be arbitrated. 
+
+e. _Opt Out_. You may opt out of the provisions of this Arbitration Agreement requiring and governing  arbitration by sending written notice to [legal@dashlane.com](mailto:legal@dashlane.com) or via mail to Dashlane, Inc., 44 West  18th Street, 4th Fl., New York, NY 10011, within thirty (30) days after accepting these Terms. Your  notice must include your name and address, your Account Email, and an unequivocal statement  that you are opting out of this Arbitration Agreement. Opting out will not affect any other  provisions of these Terms.  
+
+f. _Exceptions_. Notwithstanding the foregoing, (i) either party may bring an individual action in small  claims court, and (ii) claims of (A) defamation, (B) violation of the Computer Fraud and Abuse Act,  or (C) infringement or misappropriation of the other party’s intellectual property rights may be  exclusively brought in the state or federal courts located in New York County, New York. The  parties consent to the exclusive personal jurisdiction of such courts for such purposes. A request  for equitable relief will not waive the right to arbitrate. 
+
+g. _Fees_. If you initiate an arbitration in which you seek less than $500 in damages and comply with  the Arbitration Agreement, including the notice requirement, Dashlane will reimburse you for  your JAMS filing fee, and will pay all administration and arbitrator fees up to a total amount of  $500. If the arbitrator grants you an award, Dashlane will reimburse your reasonable attorneys’  fees.  
+
+h. _Severability_. Except as provided in Section 10(d), if any part or parts of this Arbitration Agreement  are found to be invalid or unenforceable by a court of competent jurisdiction, then such specific  part or parts will be of no force and effect, but the remainder of the Arbitration Agreement will  continue in full force and effect.  
+
+**11\. MISCELLANEOUS** 
+
+**_Summary:_**  _This section includes provisions required by certain jurisdictions (notably California), rules for interpreting  the Terms, mandated references to specific laws, and consent for all communications between us to be  electronic._ 
+
+a. _Cooperation._ Nothing in these Terms limits our obligation to cooperate with valid orders from  regulatory authorities. 
+
+b. _Assignment_. These Terms are personal to you and may not be assigned. Dashlane may freely  assign these Terms or its obligations, subject to applicable law.  
+
+c. _Export Regulations_. You represent that you are not named on any U.S. government denied-party  list. You will not use the Services in a U.S.-embargoed country or in violation of any U.S. export  law or regulation. 
+
+d. _U.S. Government Restricted Rights_. Any license of the Services by an agency or division of the  federal government will be subject to the [Dashlane Business Terms](https://www.dashlane.com/terms/business), and not these Terms, as set  forth in Section 1(f). 
+
+e. _Severability; Waiver_. If any provision of these Terms is held by a court of competent jurisdiction  to be invalid, the remaining provisions will remain in full force and effect. The waiver of a breach  of any provision of these Terms will not waive any future breach of the same or any other  provision.  
+
+f. _Entire Agreement._ These Terms are the parties’ entire understanding with respect to their subject  matter and supersede any previous or contemporaneous communications, whether oral or  written. These Terms may be modified as set forth in Section 1(i).  
+
+g. _Release._ You release Dashlane and our successors from all losses, damages, rights, and demands  and actions of any kind, including personal injuries, death, and property damage, that are directly  or indirectly related to or arise from your use of the Services (collectively, “**Claims**”). If you are a  California resident, you hereby waive California Civil Code Section 1542, which states, “A general  release does not extend to claims that the creditor or releasing party does not know or suspect  to exist in his favor at the time of executing the release, which, if known by him would have  materially affected his settlement with the debtor.” This release does not apply to any Claims for  unconscionable commercial practice by Dashlane or our fraud, deception, false promise,  misrepresentation or concealment, or suppression or omission of any material fact in connection  with the Services. 
+
+h. _Force Majeure_. Dashlane will not be liable for any failure or delay in performing its obligations  under these Terms or with respect to the Services caused by natural disaster, government  mandate, civil disobedience, or other factors beyond Dashlane’s reasonable control. 
+
+i. _Electronic Communications; Notice_. You consent to the use of electronic communications  regarding these Terms and the Services, and agree that such communications, whether received  via email or through the Services, satisfy any requirements that would be met if they were in hard  copy. This provision does not affect your statutory rights. We may give notice to you by email, in app notifications, a posting on the Site, or other reasonable means. You must give notice to us in  writing via [legal@dashlane.com](mailto:legal@dashlane.com) or via mail to Dashlane, Inc., 44 West 18th Street, 4th Fl., New York,  NY 10011,.  
+
+j. _Consumer Complaints._ In accordance with California Civil Code §1789.3, California residents may  report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the  California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by calling (800) 952-5210. 
+
+k. _Headings and Interpretation_. Headings and the summary explanations at the beginning of each  Section of these Terms are for reference only and do not affect the parties’ rights and obligations.  As used herein, “may” means “has the right, but not the obligation, to”; “includes” and its  variations means “including, but not limited to”; and “days” means calendar days, provided that  obligations that would be due on a weekend or holiday will be due on the next business day  following such weekend or holiday. 
+
+l. _Language_. These Terms are drafted in English, and where Dashlane has provided you with a  translated version of the Terms we do so for your convenience. The English language version of  the Terms will govern in the event of a perceived conflict with the translated version. 
+
+**12\. Supplemental Terms**  
+
+**_Summary:_**  _This section includes terms applicable to users of our Family Plans, Beta versions of the Apps, and SMS  (used for two-factor authentication). Other Supplemental Terms will be presented for acceptance when  and where relevant._ 
+
+a. _Friends & Family Plans_ 
+
+_i._ Definitions 
+
+• **“F&F Plan”** means a Friends & Family Plan**. “Manager”** means the Dashlane user who  pays for and invites others to join a F&F Plan.  
+
+• **“Member”** means an individual who accepts an invitation to join a F&F Plan.
+
+_ii._ Eligibility 
+
+Each F&F Plan has one Manager and up to ten (10) Members. You may only be a Member or  Manager of one F&F Plan at a time. You may not join any F&F Plan more than twice.  Managers may not accept any compensation from Members as a condition for inviting  Members to their, including fees paid through subscription sharing sites such as Sharesub,  Spliit, or Diivii. 
+
+To become a Member, you must receive and redeem an invitation from the Manager.  Members may use F&F Plan features as soon as they create their Account (or associate their  current Account with the F&F Plan).  
+
+Managers must be the age of majority in the jurisdiction where they reside. Age verification  is performed in connection with payment. Members may be any age, subject to the following  section.  
+
+_iii._ Children 
+
+Children may be Members. By inviting a child (as defined by the jurisdiction where the child  lives) to be a Member, the Manager represents that they (a) consent to Dashlane’s  processing of information about the child as described in the [Privacy Policy](https://www.dashlane.com/privacy), (b) will be  responsible for the child’s compliance with the Terms, and (c) have the legal right to do (a)  and (b).  
+
+iv. Leaving a Family Plan 
+
+(1) _Cancellation_. The Manager may cancel a F&F Plan as described in Section 7(c). A canceled  F&F Plan will remain active until the end of the then-current Subscription period. When  the Subscription period ends, all Members will revert to the Dashlane Plan type they had  prior to joining the F&F Plan (or a Dashlane Free Plan if they were not previously a  Dashlane user).  
+
+(2) _Departure_. Members may leave a F&F Plan from the “My Account” section of any  Dashlane App. When a Member leaves a F&F Plan, their Account will revert to the type  they had prior to joining the F&F Plan (or a Dashlane Free Plan if they were not previously  a Dashlane user).  
+
+b. _Beta Versions._ We may occasionally offer users the opportunity to use certain experimental  features or App versions that are made available on a trial basis (“**Beta Releases**”). ALL BETA  RELEASES ARE PROVIDED “AS IS,” WITHOUT ANY REPRESENTATIONS, WARRANTIES, COVENANTS  OR OBLIGATIONS OF ANY KIND. Any use of Beta Releases is solely at your risk. Dashlane may  modify or remove Beta Releases at any time. Beta Releases are also subject to the terms available [here](https://www.dashlane.com/beta).
+
+c. _SMS Terms._ Users who enable Two Factor Authentication (2FA) for their Account will be asked to  provide a mobile phone number. Dashlane uses this number to text OTP backup codes when  requested by the User. Messages are sent only when you request a code. Text HELP to (+1) 928  238 8658 for help. Reply STOP to cancel. Message and data rates may apply. Carriers are not liable  for any delays or undelivered messages. 
+
+**13\. Country-Specific Provisions** 
+
+**_Summary:_**  _Certain additional provisions, or modifications to the Terms, apply for residents of particular jurisdictions._  **_Most importantly, residents of Europe are not required to arbitrate disputes._** 
+
+a. _EEA_. If you reside in the European Economic Area (“**EEA**”), these Terms are modified as follows:
+
+i. Sections 1(g), 1(h), and 10 do not apply to you.  
+
+ii. These Terms, including their formation, will be governed by and interpreted in accordance  with the laws of the nation in which you are resident, provided that, to the greatest extent  permitted under such law, all proceedings arising under these Terms or related to the  Services will be conducted on an individual basis in such nation’s courts.  
+
+iii. To inform Dashlane of a legal action, you must send a letter via overnight courier or  registered mail to Dashlane, Inc., 44 West 18th Street, 4th Floor, New York, NY 10011, attn:  Legal.  
+
+iv. Section 11(j) does not apply to you. Complaints about the Services should be sent to [legal@dashlane.com](mailto:legal@dashlane.com).  
+
+b. _France_. If you are a resident of France, the Terms, including Section 13(a), are modified as follows:  
+
+i. To inform Dashlane of a legal action, you must send a letter via overnight courier or  registered mail to Dashlane SAS, Département Juridique, 21 rue Pierre Picard, 1er étage,  Paris 75018, France. 
+
+c. _United Kingdom_. If you are a resident of the United Kingdom, the Terms, including Section 13(a),  are modified as follows:  
+
+i. Third parties have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce  any provision of the Terms, but this does not affect any right or remedy of such third party  which exists or is available apart from that Act. 
+
+ii. These Terms are drafted in the English language, and no translation of the Terms has any  force and effect.  
+
+d. _Germany_. If you are a resident of Germany, the Terms, including Section 13f(a), are modified as  follows:  i. Notwithstanding anything to the contrary in Section 9(c), Company is also not liable for acts  of simple negligence (unless they cause injuries to or the death of any person), except when  they are caused by a breach of any substantial contractual obligations (_vertragswesentliche_  _Pflichten)_.
+
+* * BUSINESS![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business Password Manager](https://www.dashlane.com/business-password-manager)
+        * [Pricing](https://www.dashlane.com/pricing)
+        * [Contact Us](https://www.dashlane.com/business-password-manager/enterprise)
+        * [Request a Demo](https://www.dashlane.com/business-password-manager/request-demo)
+    * PERSONAL![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [How it Works](https://www.dashlane.com/personal-password-manager)
+        * [Pricing](https://www.dashlane.com/pricing)
+        * [Password Generator](https://www.dashlane.com/features/password-generator)
+        * [Username Generator](https://www.dashlane.com/features/username-generator)
+        * [Dark Web Monitoring](https://www.dashlane.com/darkwebinsights)
+* * PLANS![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business](https://www.dashlane.com/pricing)
+        * [Enterprise](https://www.dashlane.com/business-password-manager/enterprise-password-manager)
+        * [Higher Education](https://www.dashlane.com/business-password-manager/password-manager-for-higher-education)
+        * [Individual](https://www.dashlane.com/pricing)
+        * [Family](https://www.dashlane.com/personal-password-manager/family-password-manager)
+    * RESOURCES![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Resource Library](https://www.dashlane.com/resources)
+        * [Help Center](https://support.dashlane.com/hc/en-us)
+        * [For Developers](https://www.dashlane.com/developers)
+        * [White Papers](https://www.dashlane.com/download/whitepaper-en.pdf)
+        * [Blog](https://www.dashlane.com/blog)
+        * [Brand Kit](https://brandfolder.com/dashlane/brand-kit)
+        * [System Status](https://status.dashlane.com/)
+        * [Security](https://www.dashlane.com/security)
+* * COMPANY![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [About Us](https://www.dashlane.com/about)
+        * [Leadership](https://www.dashlane.com/about/leadership)
+        * [Careers](https://www.dashlane.com/about/careers)
+        * [Partners](https://dashlane.partner-experience.com/)
+    * FEATURES![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Password Manager](https://www.dashlane.com/)
+        * [Passkeys](https://www.dashlane.com/passkeys)
+        * [Autofill](https://www.dashlane.com/personal-password-manager/autofill)
+        * [Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
+        * [Passwordless](https://www.dashlane.com/passwordless)
+        * [Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
+        * [SSO](https://www.dashlane.com/sso)
+        * [VPN](https://www.dashlane.com/marketing/vpn)
+* * TRY DASHLANE![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Business](https://www.dashlane.com/business-password-manager/try)
+        * [Personal](https://www.dashlane.com/download)
+        * [iOS App](https://app.adjust.com/jq0xdf)
+        * [Android App](https://app.adjust.com/8n9sd4)
+    * BUY DASHLANE![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [For Your Business](https://www.dashlane.com/business-password-manager/buy)
+        * [For You](https://www.dashlane.com/getpremium)
+        * [Buy for a Friend](https://www.dashlane.com/business-password-manager/buy)
+* * LOG IN![open](data:image/svg+xml;utf8,%3Csvg%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20clip-path%3D%22url(%23clip0_643_4102)%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M12%2014.0157L5.55319%207L4%208.29409L12%2017L20%208.29409L18.4468%207L12%2014.0157Z%22%2F%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%22clip0_643_4102%22%3E%3Crect%20width%3D%2224%22%20height%3D%2224%22%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E)
+        * [Personal App](https://app.dashlane.com/)
+        * [Admin Console](https://console.dashlane.com/)
+    * STAY IN TOUCH
+        
+        [Facebook](https://www.facebook.com/GetDashlane)[X](https://www.x.com/dashlane)[YoutubeYouTube](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg)[Instagram](https://www.instagram.com/dashlane)[RedditReddit](https://www.reddit.com/r/dashlane)[LinkedIn](https://www.linkedin.com/company/dashlane)
+        
 
 © 2024 Dashlane Inc. All rights reserved.
 
 Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
 
-[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
+[Level Access](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane)
 
-English
+* [Terms](https://www.dashlane.com/terms)
+* [Privacy](https://www.dashlane.com/privacy/overview)
+* [Legal](https://www.dashlane.com/legal)
+* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences)
+* [Do not sell or share my personal information](https://www.dashlane.com/privacy/donotsell)
+* [Accessibility Statement](https://www.dashlane.com/accessibility-statement)
 
-* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
-* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
-* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
-* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
-* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
-* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
+**Please note:** We use cookies on our site to give you the best experience. Please accept these cookies, or change your settings here: [Cookie preferences.](https://www.dashlane.com/privacy/cookiepreferences)
 
-Business
-
-[Features](https://www.dashlane.com/business-password-manager "Enterprise Password Manager for Business")
-
-[Pricing](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-
-[Contact Us](https://www.dashlane.com/business-password-manager/enterprise "Contact Dashlane")
-
-[Request a Demo](https://www.dashlane.com/business-password-manager/request-demo "Request a Demo")
-
-Personal
-
-[How it works](https://www.dashlane.com/personal-password-manager "Personal Password Manager")
-
-[Pricing](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-
-[Password Generator](https://www.dashlane.com/features/password-generator "Password Generator")
-
-[Username Generator](https://www.dashlane.com/features/username-generator "Create unique usernames with our Username Generator")
-
-[Dark Web Monitoring](https://www.dashlane.com/darkwebinsights "Dark Web Monitoring")
-
-Plans
-
-[Business](https://www.dashlane.com/pricing?page=business "Password Manager Pricing")
-
-[Individual](https://www.dashlane.com/pricing?page=personal "Password Manager Pricing")
-
-[Family](https://www.dashlane.com/family-password-manager "Family Password Manager")
-
-Resources
-
-[Resource Library](https://www.dashlane.com/resources "Password Management Resources")
-
-[Help Center](https://support.dashlane.com/ "Dashlane Help Center")
-
-[White Papers](https://www.dashlane.com/download/whitepaper-en.pdf "Password Manager Solutions")
-
-[Blog](https://www.dashlane.com/blog "Dashlane Blog")
-
-[Brand Kit](https://brandfolder.com/dashlane/brand-kit "Dashlane Brand Kit")
-
-[System Status](https://status.dashlane.com/)
-
-[Security](https://www.dashlane.com/security "Secure Password Manager")
-
-Company
-
-[About Us](https://www.dashlane.com/about "About Dashlane")
-
-[Leadership](https://www.dashlane.com/about/leadership "Dashlane Executive Leaders")
-
-[Careers](https://www.dashlane.com/about/careers "Dashlane Jobs")
-
-[Partners](https://www.partners.dashlane.com/English/)
-
-Features
-
-[Passkeys](https://www.dashlane.com/passkeys)
-
-[Autofill](https://www.dashlane.com/personal-password-manager/autofill)
-
-[Digital Wallet](https://www.dashlane.com/personal-password-manager/digital-wallet)
-
-[Passwordless](https://www.dashlane.com/passwordless)
-
-[Security Alerts](https://www.dashlane.com/personal-password-manager/security-alerts)
-
-[SSO](https://www.dashlane.com/sso)
-
-[VPN](https://www.dashlane.com/marketing/vpn)
-
-Try Dashlane
-
-[Business](https://www.dashlane.com/business-password-manager/try)
-
-[Personal](https://www.dashlane.com/download)
-
-[iOS App](https://app.adjust.com/jq0xdf)
-
-[Android App](https://app.adjust.com/8n9sd4)
-
-Buy Dashlane
-
-[For your Business](https://www.dashlane.com/business-password-manager/buy "Business Password Manager Free Trial")
-
-[For You](https://www.dashlane.com/getpremium "Personal Password Manager Free Trial")
-
-[Buy for a Friend](https://www.dashlane.com/getpremium/for-a-friend "Give Password Manager as a Gift")
-
-Log In
-
-[Personal App](https://app.dashlane.com/)
-
-[Admin Console](https://console.dashlane.com/)
-
-Stay In Touch
-
-[![Facebook Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyLjkwMzQgMTkuNzI1NEwxMi45MDM0IDEyLjY2MTdIMTUuMTg5MUwxNS41NSA5Ljc3NDQ0SDEyLjkwMzRWOC4wOTAyM0MxMi45MDM0IDcuMjQ4MTIgMTMuMTQ0IDYuNzY2OTIgMTQuMjI2NyA2Ljc2NjkySDE1LjY3MDNWNC4xMjAzQzE1LjQyOTcgNC4xMjAzIDE0LjU4NzYgNCAxMy42MjUyIDRDMTEuNTgwMSA0IDEwLjEzNjUgNS4zMjMzMSAxMC4xMzY1IDcuNzI5MzJWOS43NzQ0NEg3LjczMDQ3VjEyLjY2MTdIMTAuMTM2NUwxMC4xMzY1IDE5LjcyNTRIMTIuOTAzNFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.facebook.com/GetDashlane "Facebook page")[![Twitter Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjMiIHZpZXdCb3g9IjAgMCAyNCAyMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04Ljk5MDggMTIuMzEzMUwwIDAuODc1SDcuMTIxMzNMMTIuNjcxMyA3Ljk0NDUzTDE4LjYwMDUgMC45MDY4MzNIMjIuNTIyNkwxNC41Njc2IDEwLjM2MDFMMjQgMjIuMzc1SDE2Ljg5OTlMMTAuODkwNSAxNC43Mjk4TDQuNDc0NzUgMjIuMzUzOEgwLjUzMTQ0NEw4Ljk5MDggMTIuMzEzMVpNMTcuOTM0OCAyMC4yNTU3TDQuMzY2NTcgMi45OTQyN0g2LjA4NTY1TDE5LjYzNjggMjAuMjU1N0gxNy45MzQ4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.x.com/dashlane "Twitter page")[![Youtube logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik02LjkyNTE2IDYuMzcyODNDOS4zMjU5OSA2LjIwOTM5IDE0LjY4MDcgNi4yMDg3MiAxNy4wODQ4IDYuMzcyODNDMTkuNjg3MSA2LjU1MDk0IDE5Ljk5MDcgOC4xMjc5MiAyMC4wMSAxMi4yNTM4QzE5Ljk5MDcgMTYuMzg3MSAxOS42ODQ1IDE3Ljk1NzQgMTcuMDg0OCAxOC4xMzQ4QzE0LjY4MDcgMTguMjk4OSA5LjMyNjY2IDE4LjI5ODMgNi45MjUxNiAxOC4xMzQ4QzQuMzIyODcgMTcuOTU2NyA0LjAxOTM1IDE2LjM3OTcgNCAxMi4yNTM4QzQuMDE5MzUgOC4xMjA1OSA0LjMyNTU0IDYuNTUwMjcgNi45MjUxNiA2LjM3MjgzWk0xMC4wMDM4IDkuNTg1NVYxNC45MjIyTDE1LjM0MDQgMTIuMjQ5MkwxMC4wMDM4IDkuNTg1NVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.youtube.com/channel/UC29QiP0ZFzBVTnCeLytXXCg "Youtube page")[![Instagram Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDEyQzggOS43OTE0MiA5Ljc5MTczIDggMTIgOEMxNC4yMDgzIDggMTYgOS43OTE0MiAxNiAxMkMxNiAxNC4yMDg2IDE0LjIwODMgMTYgMTIgMTZDOS43OTE3MyAxNiA4IDE0LjIwODYgOCAxMlpNMTIgMTQuN0MxMC41MDk0IDE0LjcgOS4zIDEzLjQ5MDkgOS4zIDEyQzkuMyAxMC41MDkxIDEwLjUwOTQgOS4zIDEyIDkuM0MxMy40OTA5IDkuMyAxNC43IDEwLjUwOTEgMTQuNyAxMkMxNC43IDEzLjQ5MDkgMTMuNDkwOSAxNC43IDEyIDE0LjdaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTYuNjMxNSA4LjIxMDUxQzE2LjYzMTUgOC42NzUzOSAxNi4yNTQ1IDkuMDUyNjIgMTUuNzg5NCA5LjA1MjYyQzE1LjMyNDUgOS4wNTI2MiAxNC45NDczIDguNjc1NjYgMTQuOTQ3MyA4LjIxMDUxQzE0Ljk0NzMgNy43NDUzNiAxNS4zMjQyIDcuMzY4NDEgMTUuNzg5NCA3LjM2ODQxQzE2LjI1NDUgNy4zNjg2OCAxNi42MzE1IDcuNzQ1MzYgMTYuNjMxNSA4LjIxMDUxWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOS41ODcyIDYuNzYzMjFDMTkuNzg0MiA3LjI2OTUxIDE5LjkyMTcgNy44NTQwOSAxOS45NTkzIDguNzA0MTlDMTkuOTk2OSA5LjU1NzQyIDIwIDkuODI5NTEgMjAgMTIuMDAxNkMyMCAxNC4xNzM2IDE5Ljk5MDYgMTQuNDQ1NyAxOS45NTMgMTUuMjk4OUMxOS45MTU0IDE2LjE0OSAxOS43NzggMTYuNzMwNSAxOS41ODEgMTcuMjM5OUMxOS4xNjUxIDE4LjMxNTEgMTguMzE0OCAxOS4xNjUyIDE3LjIzOTQgMTkuNTgxMUMxNi43MzMgMTkuNzc4IDE2LjE0ODMgMTkuOTE1NSAxNS4yOTggMTkuOTUzQzE0LjQ0NDYgMTkuOTkwNiAxNC4xNzI1IDIwIDEyIDIwQzkuODI3NTIgMjAgOS41NTUzNyAxOS45OTA2IDguNzAxOTggMTkuOTUzQzcuODUxNzEgMTkuOTE1NSA3LjI3MDE1IDE5Ljc3OCA2Ljc2MDYyIDE5LjU4MTFDNi4yMjkxNiAxOS4zODEgNS43NDQ2OSAxOS4wNjU0IDUuMzQ0NDUgMTguNjU4OUM0LjkzNzk1IDE4LjI1ODggNC42MjIyNyAxNy43Nzc1IDQuNDE5MDMgMTcuMjM5OUM0LjIyMjA0IDE2LjczMzYgNC4wODQ1NiAxNi4xNDkgNC4wNDY5OCAxNS4yOTg5QzQuMDA5NCAxNC40NDU3IDQgMTQuMTczOSA0IDEyLjAwMTZDNCA5LjgyOTIgNC4wMDk0IDkuNTU3NDIgNC4wNTAxMSA4LjcwMDc0QzQuMDg3NjkgNy44NTA2NSA0LjIyNTE3IDcuMjY5NTEgNC40MjIxNiA2Ljc2MDA4QzQuNjIyMjcgNi4yMjg3MyA0LjkzNzk1IDUuNzQ0MDMgNS4zNDQxNCA1LjM0Mzg3QzUuNzQ0MzcgNC45MzQ2NCA2LjIyNTcyIDQuNjIxODQgNi43NjM3NSA0LjQxODk0QzcuMjcwMTUgNC4yMjIgNy44NTQ4NCA0LjA4NDU0IDguNzA1MTEgNC4wNDY5N0M5LjU1ODUxIDQuMDA5MzkgOS44MzAzNCA0IDEyLjAwMzEgNEMxNC4xNzU5IDQgMTQuNDQ3OCA0LjAwOTM5IDE1LjMwNDYgNC4wNTAxQzE2LjE1NDkgNC4wODc2NyAxNi43MzY0IDQuMjI1MTMgMTcuMjQ1NiA0LjQyMjA3QzE3Ljc3NzEgNC42MjIxNSAxOC4yNjE2IDQuOTM3NzcgMTguNjYxOCA1LjM0NDE5QzE5LjA3MTQgNS43NDQzNCAxOS4zODQgNi4yMjU2IDE5LjU4NzIgNi43NjMyMVpNMTguNjUyIDE1LjMwMDRDMTguNjE2OCAxNi4wOTkyIDE4LjQ4MjcgMTYuNTMwNCAxOC4zNzA4IDE2LjgxODFDMTguMDk1OSAxNy41MzA1IDE3LjUzMDggMTguMDk2MSAxNi44MTgzIDE4LjM3MUMxNi41MzA5IDE4LjQ4MjcgMTYuMDk2NCAxOC42MTcxIDE1LjMwMSAxOC42NTJDMTQuNDM4NiAxOC42OTA0IDE0LjE3OTggMTguNyAxMS45OTgyIDE4LjdDOS44MTY2OSAxOC43IDkuNTU0NjMgMTguNjkwNCA4LjY5NTUyIDE4LjY1MkM3Ljg5Njg3IDE4LjYxNjggNy40NjU4NyAxOC40ODI3IDcuMTc4MjIgMTguMzcxQzYuODIzNjkgMTguMjQwMSA2LjUwMTE3IDE4LjAzMjQgNi4yMzkxMSAxNy43NjA2QzUuOTY3NDYgMTcuNDk1MyA1Ljc2MDEyIDE3LjE3NTkgNS42Mjg5MyAxNi44MjEzQzUuNTE3MjYgMTYuNTMzOSA1LjM4Mjg3IDE2LjA5OTIgNS4zNDggMTUuMzAzNkM1LjMwOTYgMTQuNDQxMSA1LjMgMTQuMTgyMSA1LjMgMTJDNS4zIDkuODE3ODggNS4zMDk2IDkuNTU1NzUgNS4zNDggOC42OTY0MUM1LjM4MzE5IDcuODk3NTYgNS41MTcyNiA3LjQ2NjQ1IDUuNjI4OTMgNy4xNzg3MkM1Ljc1OTggNi44MjQxIDUuOTY3NDYgNi41MDE0OCA2LjI0MjMxIDYuMjM5MzZDNi41MDcyNCA1Ljk2NzYzIDYuODI2NTcgNS43NjAyNCA3LjE4MTQyIDUuNjI5MzRDNy40Njg3NSA1LjUxNzY0IDcuOTAzMjcgNS4zODMyMiA4LjY5ODcyIDUuMzQ4MDFDOS41NjEwMyA1LjMwOTYgOS44MTk4OSA1LjMgMTIuMDAxNCA1LjNDMTQuMTg2MiA1LjMgMTQuNDQ1IDUuMzA5NiAxNS4zMDQyIDUuMzQ4MDFDMTYuMTAyOCA1LjM4MzIyIDE2LjUzMzggNS41MTczMiAxNi44MjE1IDUuNjI5MzRDMTcuMTc2IDUuNzYwMjQgMTcuNDk4NSA1Ljk2Nzk1IDE3Ljc2MDYgNi4yMzkzNkMxOC4wMzIyIDYuNTA0NjggMTguMjM5NiA2LjgyNDEgMTguMzcwOCA3LjE3ODcyQzE4LjQ4MjQgNy40NjYxMyAxOC42MTY4IDcuOTAwNzYgMTguNjUyIDguNjk2NDFDMTguNjkwNCA5LjU1ODk2IDE4LjcgOS44MTc4OCAxOC43IDEyQzE4LjcgMTQuMTgyMSAxOC42OTAxIDE0LjQzNzkgMTguNjUyIDE1LjMwMDRaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)](https://www.instagram.com/dashlane "Instagram page")[![Reddit Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xOC4yNDU2IDEwLjI0NTZDMTkuMjE0IDEwLjI0NTYgMjAgMTEuMDMxNiAyMCAxMkMyMCAxMi43MTU3IDE5LjU2NDggMTMuMzMzMyAxOC45ODk1IDEzLjYxNEMxOS4wMTc1IDEzLjc4MjQgMTkuMDMxNSAxMy45NTA5IDE5LjAzMTUgMTQuMTMzM0MxOS4wMzE1IDE2LjgyODEgMTUuOTAxNyAxOS4wMDM1IDEyLjAyOCAxOS4wMDM1QzguMTU0MjcgMTkuMDAzNSA1LjAyNDUzIDE2LjgyODEgNS4wMjQ1MyAxNC4xMzMzQzUuMDI0NTMgMTMuOTUwOSA1LjAzODUzIDEzLjc2ODQgNS4wNjY2NyAxMy42QzQuNDQ5MDcgMTMuMzE5MyA0LjAyOCAxMi43MTU3IDQuMDI4IDEyQzQuMDI4IDExLjAzMTYgNC44MTQgMTAuMjQ1NiA1Ljc4MjQgMTAuMjQ1NkM2LjI0NTYgMTAuMjQ1NiA2LjY4MDY3IDEwLjQ0MjEgNi45ODk0NyAxMC43MzY4QzguMTk2NCA5Ljg1MjY3IDkuODY2NjcgOS4zMDUyIDExLjczMzMgOS4yNDkwN0wxMi42MTc1IDUuMDY2NjdDMTIuNjQ1NiA0Ljk4MjQgMTIuNjg3NiA0LjkxMjI3IDEyLjc1NzkgNC44NzAxM0MxMi44MjggNC44MjgxMyAxMi45MTIzIDQuODE0IDEyLjk5NjQgNC44MjgxM0wxNS45MDE3IDUuNDQ1NkMxNi4wOTgxIDUuMDI0NTMgMTYuNTE5MiA0Ljc0Mzg3IDE3LjAxMDUgNC43NDM4N0MxNy42OTgxIDQuNzQzODcgMTguMjU5NiA1LjMwNTIgMTguMjU5NiA1Ljk5MjkzQzE4LjI1OTYgNi42ODA2NyAxNy42OTgxIDcuMjQyMTMgMTcuMDEwNSA3LjI0MjEzQzE2LjMzNjggNy4yNDIxMyAxNS43ODk1IDYuNzA4OCAxNS43NjEzIDYuMDQ5MDdMMTMuMTY0OCA1LjUwMTczTDEyLjM2NDggOS4yNDkwN0MxNC4xODk1IDkuMzE5MzMgMTUuODQ1NiA5Ljg4MDY3IDE3LjAzODUgMTAuNzM2OEMxNy4zNDczIDEwLjQyODEgMTcuNzY4NCAxMC4yNDU2IDE4LjI0NTYgMTAuMjQ1NlpNOCAxMy4yNDkxQzggMTIuNTYxNSA4LjU2MTMzIDEyIDkuMjQ5MDcgMTJDOS45MzY4IDEyIDEwLjQ5ODEgMTIuNTYxNSAxMC40OTgxIDEzLjI0OTFDMTAuNDk4MSAxMy45MzY4IDkuOTM2OCAxNC40OTgzIDkuMjQ5MDcgMTQuNDk4M0M4LjU2MTMzIDE0LjQ5ODMgOCAxMy45MzY4IDggMTMuMjQ5MVpNMTQuOTc1MyAxNi41NDczQzE0LjExOTIgMTcuNDAzNSAxMi40OTEyIDE3LjQ1OTYgMTIuMDE0IDE3LjQ1OTZDMTEuNTM2OCAxNy40NTk2IDkuODk0NjcgMTcuMzg5NSA5LjA1MjUzIDE2LjU0NzNDOC45MjYyNyAxNi40MjExIDguOTI2MjcgMTYuMjEwNSA5LjA1MjUzIDE2LjA4NDNDOS4xNzg5MyAxNS45NTc5IDkuMzg5NDcgMTUuOTU3OSA5LjUxNTczIDE2LjA4NDNDMTAuMDQ5MSAxNi42MTc2IDExLjIgMTYuODE0IDEyLjAyOCAxNi44MTRDMTIuODU2MSAxNi44MTQgMTMuOTkyOSAxNi42MTc2IDE0LjU0MDMgMTYuMDg0M0MxNC42NjY3IDE1Ljk1NzkgMTQuODc3MiAxNS45NTc5IDE1LjAwMzUgMTYuMDg0M0MxNS4xMDE3IDE2LjIyNDUgMTUuMTAxNyAxNi40MjExIDE0Ljk3NTMgMTYuNTQ3M1pNMTQuNzUwOCAxNC40OTgzQzE0LjA2MzEgMTQuNDk4MyAxMy41MDE3IDEzLjkzNjggMTMuNTAxNyAxMy4yNDkxQzEzLjUwMTcgMTIuNTYxNSAxNC4wNjMxIDEyIDE0Ljc1MDggMTJDMTUuNDM4NSAxMiAxNiAxMi41NjE1IDE2IDEzLjI0OTFDMTYgMTMuOTM2OCAxNS40Mzg1IDE0LjQ5ODMgMTQuNzUwOCAxNC40OTgzWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==)](https://www.reddit.com/r/Dashlane/ "Reddit page")[![Linkedin Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYuOTM3NSA4LjA2MjVIM1YyMUg2LjkzNzVWOC4wNjI1WiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1vcGFjaXR5PSIwLjkiLz4KPHBhdGggZD0iTTE2LjUwMTcgOC4wNjI1QzE0LjI1IDguMDYyNSAxMy42MjU2IDguODAwNSAxMy4xMjUgOS43NVY4LjA2MjVIOS4xODc1VjIxSDEzLjEyNVYxMy42ODc1QzEzLjEyNSAxMi41NjI1IDEzLjEyNSAxMS40Mzc1IDE1LjA5MzggMTEuNDM3NUMxNy4wNjI1IDExLjQzNzUgMTcuMDYyNSAxMi41NjI1IDE3LjA2MjUgMTMuNjg3NVYyMUgyMVYxMy42ODc1QzIxIDEwLjMxMjUgMjAuNDM3NSA4LjA2MjUgMTYuNTAxNyA4LjA2MjVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8cGF0aCBkPSJNNC45Njg3NSA2LjkzNzVDNi4wNTYwNiA2LjkzNzUgNi45Mzc1IDYuMDU2MDYgNi45Mzc1IDQuOTY4NzVDNi45Mzc1IDMuODgxNDQgNi4wNTYwNiAzIDQuOTY4NzUgM0MzLjg4MTQ0IDMgMyAzLjg4MTQ0IDMgNC45Njg3NUMzIDYuMDU2MDYgMy44ODE0NCA2LjkzNzUgNC45Njg3NSA2LjkzNzVaIiBmaWxsPSIjRkZGRkZGIiBmaWxsLW9wYWNpdHk9IjAuOSIvPgo8L3N2Zz4K)](https://www.linkedin.com/company/dashlane "Linkedin page")
-
-English
-
-© 2024 Dashlane Inc. All rights reserved.
-
-Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
-
-[Essential Accessibility Icon](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane "Essential Accessibility website")
-
-* [Terms](https://www.dashlane.com/terms "Dashlane Terms & Conditions")
-* [Privacy](https://www.dashlane.com/privacy/overview "Privacy")
-* [Legal](https://www.dashlane.com/legal "Dashlane Legal Contact Information")
-* [Cookie Preferences](https://www.dashlane.com/privacy/cookiepreferences "Website Cookie Information")
-* [Do Not Sell or Share My Personal Information](https://www.dashlane.com/privacy/donotsell "Do Not Sell or Share My Personal Information Page")
-* [Accessibility Statement](https://www.dashlane.com/accessibility-statement "Accessibility Statement")
+I acceptI refuse
