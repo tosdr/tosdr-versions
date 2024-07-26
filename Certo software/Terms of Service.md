@@ -6,6 +6,7 @@
 * Company
     * [About](https://www.certosoftware.com/about/)
     * [Insights](https://www.certosoftware.com/insights/)
+    * [Resources](https://www.certosoftware.com/resources/)
     * [Affiliates](https://www.certosoftware.com/affiliates/)
 
 [Sign in](https://www.certosoftware.com/my-account/ "My Account")
@@ -15,6 +16,7 @@
 * [Help](https://www.certosoftware.com/support/)
 * [About](https://www.certosoftware.com/about/)
 * [Insights](https://www.certosoftware.com/insights/)
+* [Resources](https://www.certosoftware.com/resources/)
 * [Affiliates](https://www.certosoftware.com/affiliates/)
 * [Sign in](https://www.certosoftware.com/my-account/ "My Account")
 
@@ -268,6 +270,7 @@ Certo
 * [Help](https://www.certosoftware.com/support/)
 * [About](https://www.certosoftware.com/about/)
 * [Insights](https://www.certosoftware.com/insights/)
+* [Resources](https://www.certosoftware.com/resources/)
 * [Affiliates](https://www.certosoftware.com/affiliates/)
 
 Sign up to our newsletter
