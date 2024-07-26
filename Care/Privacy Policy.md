@@ -466,7 +466,7 @@ Care.com does not employ any caregiver and is not responsible for the conduct of
 
 Care.com® HomePay℠ is a service provided by Breedlove and Associates, LLC, a Care.com company.
 
-Care.com is a registered service mark of Care.com, Inc. ©2007-2023 Care.com, Inc. All rights reserved.
+Care.com is a registered service mark of Care.com, Inc. ©2007-2024 Care.com, Inc. All rights reserved.
 
 * [Terms of Use](https://www.care.com/about/terms-of-use/)
 * [Privacy Policy](https://www.care.com/about/privacy-policy/)
