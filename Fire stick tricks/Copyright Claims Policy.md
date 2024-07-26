@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Install Fox Sports Kodi Addon on FireStick](https://www.firesticktricks.com/fox-sports-kodi-addon.html)
-* [How to Install DramaCool Kodi Addon on FireStick](https://www.firesticktricks.com/dramacool-kodi-addon.html)
-* [How to Install Fido K19 Kodi Addon for Unlimited Movies & Shows](https://www.firesticktricks.com/fido-k19-kodi-addon.html)
-* [5 Best BBC iPlayer VPNs to Watch iPlayer Abroad (2024)](https://www.firesticktricks.com/best-bbc-iplayer-vpn.html)
-* [FireStick Keeps Restarting — Fixing the Reboot Loop](https://www.firesticktricks.com/firestick-keeps-restarting.html)
+* [How to Watch Claressa Shields vs. Vanessa Lepage-Joanisse on FireStick](https://www.firesticktricks.com/watch-claressa-shields-vs-vanessa-lepage-joanisse-on-firestick.html)
+* [TiviMate IPTV Player—Install & Set up on FireStick & Android TV](https://www.firesticktricks.com/tivimate-iptv-player.html)
+* [How to Install OnStream APK on FireStick in Easy Steps](https://www.firesticktricks.com/onstream-firestick.html)
+* [How to Install Diggz Chef Wizard Kodi Builds on Any Device](https://www.firesticktricks.com/diggz-chef-wizard-kodi-builds.html)
+* [How to Install Weyd APK on FireStick & Android TV Box](https://www.firesticktricks.com/weyd-apk-firestick.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
