@@ -1,4 +1,4 @@
-How can AI avatars be used for good? Find out on July 24th >> [Register now](https://www.d-id.com/resources/webinars/d-id-academy-webinar-leveraging-avatars-for-good/)
+Introducing Agents: Unlock your 200 Free sessions! [Sign up to get started](https://studio.d-id.com/agents)
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2053'%3E%3C/svg%3E)
 
@@ -284,6 +284,8 @@ We use commercially reasonable efforts to retain non-customer Personal Data and 
 
 If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at support@d-id.com. De-Identification Ltd. 84 Hahashmonaim St., Tel Aviv, Israel.  
   
+
+* [Download PDF File](https://www.d-id.com/wp-content/uploads/2024/07/D-ID-Privacy-Policy-20240624-Clean.pdf)
 
 * Products
     * [AI Agents](https://www.d-id.com/agents/)
