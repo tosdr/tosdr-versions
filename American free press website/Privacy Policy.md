@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ July 25, 2024 \] Issue 29/30 2024 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-29-30-2024-news-you-may-have-missed/ "Issue 29/30 2024 News You May Have Missed")
+* [\[ July 25, 2024 \] So, This Is What ‘Unity’ Looks Like … Subscriber Only](https://americanfreepress.net/so-this-is-what-unity-looks-like/ "So, This Is What ‘Unity’ Looks Like …")
+* [\[ July 25, 2024 \] Grand Ole Populists National News](https://americanfreepress.net/grand-ole-populists/ "Grand Ole Populists")
 * [\[ June 29, 2024 \] Economic Collapse Only Way to Prevent World War III National News](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/ "Economic Collapse Only Way to Prevent World War III")
 * [\[ June 29, 2024 \] Anti-WHO Declaration, Legislation Passed Subscriber Only](https://americanfreepress.net/anti-who-declaration-legislation-passed/ "Anti-WHO Declaration, Legislation Passed")
-* [\[ June 28, 2024 \] Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim National News](https://americanfreepress.net/biden-says-violent-crime-rate-dropping-but-honest-statistics-counter-the-claim/ "Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim")
-* [\[ June 28, 2024 \] Small Business Owners Scared They Won’t Survive Biden’s Economic Policies Subscriber Only](https://americanfreepress.net/small-business-owners-scared-they-wont-survive-bidens-economic-policies/ "Small Business Owners Scared They Won’t Survive Biden’s Economic Policies")
-* [\[ June 27, 2024 \] Issue 25/26 2024 News You May Have Missed National News](https://americanfreepress.net/issue-25-26-2024-news-you-may-have-missed/ "Issue 25/26 2024 News You May Have Missed")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,18 +268,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Issue 29/30 2024 News You May Have Missed](https://americanfreepress.net/issue-29-30-2024-news-you-may-have-missed/)
+* [So, This Is What ‘Unity’ Looks Like …](https://americanfreepress.net/so-this-is-what-unity-looks-like/)
+* [Grand Ole Populists](https://americanfreepress.net/grand-ole-populists/)
 * [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/)
 * [Anti-WHO Declaration, Legislation Passed](https://americanfreepress.net/anti-who-declaration-legislation-passed/)
-* [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/)
-* [What About the Biden Family’s Other Crimes?](https://americanfreepress.net/what-about-the-biden-familys-other-crimes/)
-* [Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim](https://americanfreepress.net/biden-says-violent-crime-rate-dropping-but-honest-statistics-counter-the-claim/)
 
 ###### Recent Comments
 
+* [L.C.](https://www.youtube.com/watch?v=Om4NmC0ldPM) on [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/#comment-54226)
 * John on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54191)
 * JeffLocke on [Doing the Right Thing for Schools, and the Education of Our Children](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/#comment-54101)
 * JeffLocke on [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/#comment-54100)
-* JeffLocke on [U.S. Public Schools Collapsing](https://americanfreepress.net/u-s-public-schools-collapsing/#comment-54099)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1327065020)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1141490265)
