@@ -94,6 +94,12 @@ To
 * [##### Youth concession fares are changing 29 July. Top up your Bee Card, tag on and tag off the bus, don't get caught short!
     
     Mon 29 Jul 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/youth-concession-fares-are-changing-29-july-top-up-your-bee-card-tag-on-and-tag-off-the-bus-dont-get-caught-short/)
+* [##### Temporary Bus Stop Closure - Route 1
+    
+    Tue 30 Jul 06:00 am - Thu 01 Aug 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closure-route-1/)
+* [##### Temporary Bus Stop Closure, Papamoa Beach Road - Routes 2 and 22
+    
+    Mon 29 Jul 09:00 am - Fri 16 Aug 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closure-papamoa-beach-road-routes-2-and-22/)
 * [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
 * [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road
     
@@ -101,6 +107,9 @@ To
 * [##### Temporary Bus Stop Closures, Routes 1 & 105 - Fraser Street
     
     Now until Sun 15 Sept 11:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closures-routes-1-105-fraser-street/)
+* [##### Detour, Bus Stop Closure Routes 122 & 135 - Closure of Kakahoroa Drive Carpark & Service Lane
+    
+    Until 08:00 pm Today](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closure-routes-122-135-closure-of-kakahoroa-drive-carpark-service-lane/)
 * [##### Detour Route 40 - Temporary Traffic Lights on Welcome Bay Road](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-40-temporary-traffic-lights-on-welcome-bay-road/)
 * [##### Detour, Bus Stop Closures Route 60 - Long-term Closure of St Andrews Drive Roundabout
     
