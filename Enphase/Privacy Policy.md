@@ -72,31 +72,18 @@ English is the governing version of this Privacy Policy. Any localized or transl
 **Information you provide to us.** Personal information you provide to us through the Service or otherwise may include:
 
 * **Business and personal contact information,** such as your first and last name, email and physical addresses, phone number, professional title, and company name.
-    
 * **Content you choose to upload to the service,** such as text, images, audio, video, and digital signatures, along with the metadata associated with the files you upload.
-    
 * **Profile information,** such as your username and password that you may set to establish an online account with us, your account name, account number, Enphase system identification number, photograph, interests, and preferences.
-    
 * **Registration information,** such as information that may be related to a service, an account or an event for which you register.
-    
 * **Feedback or correspondence,** such as information you provide when you contact us with questions, feedback, or otherwise correspond with us online.
-    
 * **Demographic information,** such as your street address, city, state, country of residence, and postal code.
-    
 * **Energy information,** such as your energy production, electric bill, solar installation contract, energy consumption, battery settings and usage history, other load consumption or production, and other information relating to any of your energy resources.
-    
 * **Site information,** such as information related to your solar installation including roof type, house size, device configuration settings, appliance usage, microinverter details, system configuration settings, electrical circuit breaker and panel details, permit information, and photographs.
-    
 * **Financial information,** such as your electric bill. Information provided to make a purchase such as payment card information, financial account number, and billing information is never collected or stored by Enphase, but is provided directly to third-party payment processors such as Stripe, Authorize.net, and Paypal (depending on the site). Information provided for a financing application on our websites such as social security number, income information, and other financial and personal information is similarly not collected or stored by Enphase, but is provided directly to third-party lending partners. Enphase may receive an indication of the results of such application from the lending partners (e.g., amount of loan and identity of financial institution).
-    
 * **Transaction information,** such as information about your billing address, payments to and from you, customer number, and other details of products or services you have purchased from us.
-    
 * **Usage information,** such as information about how you use the Service and interact with us, including information associated with any meter identifier (make, model and serial number) or augmented revenue grade meter data (such as cumulative counter ending values as of the end of the month), output information, efficiency and other technical variables, content you upload to the websites or otherwise submit to us, and information you provide when you use any interactive features of the Service.
-    
 * **Marketing information,** such as your preferences for receiving communications about our activities, events, and publications, and details about how you engage with our communications. We also may conduct user surveys, and research and analysis about your use of, or interest in, our products and services.
-    
 * **Other information** that we may collect which is not specifically listed here but which we will use in accordance with this Privacy Policy or as otherwise disclosed at the time of collection.
-    
 
 **Information we collect through our products.** The IQ Gateway (either as a stand-alone product or part of an IQ Combiner) is the networking hub that connects Enphase hardware (such as microinverters, IQ Batteries, and IQ System Controllers) of an Enphase Energy System suite to our monitoring and management software. Once the IQ Gateway is connected to the internet, it begins reporting your energy production, consumption, and site information to us and will continue to do so as long as it is online.
 
@@ -119,25 +106,15 @@ We may use your personal information for the following purposes and as otherwise
 **To operate our business.** We may use your personal information to:
 
 * provide, operate and improve our business, including to provide the services that you request (including the Service);
-    
 * provide information about our products and services;
-    
 * establish and maintain your user profile on the Service;
-    
 * enable security features of the Service, such as by sending you security codes via email or text, and remembering devices from which you have previously logged into the Service;
-    
 * facilitate social features of the Service, such as providing chat or messaging functionality;
-    
 * communicate with you about the Service, including by sending you notices about your system’s energy consumption and production, announcements, updates, security alerts, support, service-related matters, and administrative messages;
-    
 * communicate with you about events, programs or contests in which you participate;
-    
 * understand your needs and interests, and personalize your experience with the Service and our communications;
-    
 * provide customer support and maintenance for the Service; and
-    
 * respond to your requests, questions and feedback.
-    
 
 **For research and development.** We analyze your use of the Service (including your personal information such as demographics) to improve the Service, to develop new products and services, and to market and promote our business.
 
@@ -238,17 +215,13 @@ Any modifications to this Privacy Policy will be effective upon our posting the 
 You may direct any questions or comments about this Policy or our privacy practices to our privacy office and your communication will be handled by our privacy team (including what is sometimes referred to as a Grievance Officer, Data Protection Officer, or Privacy Officer). Our privacy office may be contacted by:
 
 * Clicking on the Privacy link, Settings/Do Not Sell My Personal Information link, or SecurePrivacy trust badge at the bottom of any website;
-    
 * Emailing [privacy@enphaseenergy.com;](mailto:privacy@enphaseenergy.com) or
-    
 * Calling us toll free at 1-877-797-4743 and selecting option 3;
-    
 * Sending postal mail to:  
     Enphase Energy, Inc.  
     Attn: Legal – Privacy  
     47281 Bayside Pkwy  
     Fremont, CA 94538
-    
 
 ### Important information for United States residents
 
@@ -257,33 +230,19 @@ This section applies only to United States residents. It describes how we collec
 **Your privacy rights.** Depending on your state of residence, you may have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
 
 * **Information.** You can request the following information about how we have collected and used your Personal Information during the past 12 months:
-    
     * The categories of Personal Information that we have collected.
-        
     * The categories of sources from which we collected Personal Information.
-        
     * The business or commercial purpose for collecting and/or selling Personal Information.
-        
     * The categories of third parties with whom we share Personal Information.
-        
     * Whether we have disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third-party recipient.
-        
     * Whether we’ve sold your Personal Information, and if so, the categories of Personal Information received by each category of third-party recipient.
-        
 * **Access/data portability.** You can request a copy of the Personal Information that we have collected about you during the past 12 months, including in a format that is easily understandable and, to the extent technically feasible, in a structured, commonly used, machine-readable format.
-    
 * **Deletion.** You can ask us to delete the Personal Information that we have collected from you.
-    
 * **Opt-out of sales.** In conducting the Service, we do not “sell” your Personal Information in the traditional sense of transferring Personal Information in return “for monetary or other valuable consideration" without your specific consent or instruction. We may share identifying information and performance data about your system to developers using our API, or to users of the Enphase App, upon your written consent. Because your consent and actions in relation to those developers/users are a deliberate interaction directing us to provide this information to the developer/user we do not consider this sharing a “sale,” but because we are not always privy to the consent that you provide the developer/user or the nature of those interactions, in some cases our transfer of data may be classified as a “sale” under law. We also may provide your personal information to installers or their partners for the purpose of introducing that installer or partner to you, but only when you consent or instruct us to do so. Additionally, in certain circumstances, for example when the installer of your existing system is no longer available, we will pass on your contact information and site information to a follow-on installer to service your system at your direction. You may nonetheless submit a request to opt-out. In addition, if you direct us not to sell your Personal Information, we will consider it a request pursuant to California’s “Shine the Light” law to stop sharing your personal information covered by that law with third parties for their direct marketing purposes.
-    
 * **Opt-out of sharing.** We use certain advertising services that help deliver an improved advertising experience to you, such as providing interest-based ads to you. We allow these services to collect information from our website users (specifically, online identifiers and browsing activity) and they use this data to serve interest-based ads to you. You may submit a request to opt-out of such sharing.
-    
 * **Correction.** You may request that we update or correct inaccuracies in your Personal Information.
-    
 * **Appeal.** If we decline to take action on your data subject request for any reason, we will provide you a written statement of the reasons why; you are entitled to an appeal by contacting us with information relevant to the issue, or by contacting your state Attorney General or other privacy protection agency, which may take up the matter depending on your state of residence.
-    
 * **Nondiscrimination.** You are entitled to exercise the rights described above free from discrimination in the form of legally prohibited increases in the price or decreases in the quality of our Service.
-    
 
 **How to exercise your rights**
 
@@ -295,31 +254,37 @@ We reserve the right to confirm your residence to process your requests and will
 
 The chart below summarizes our relevant data practices during the 12 months preceding the effective date of this Privacy Policy. Categories in the chart refer to the categories described above in the general section of this Privacy Policy.
 
-|     |     |     |     |     |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
 | --- | --- | --- | --- | --- |
-| Category of personal information: [Identifiers](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| --- | --- | --- | --- | --- |
+| **Category of personal information:** [**Identifiers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | * Business and personal contact information<br>* Content<br>* Registration information<br>* Feedback or correspondence<br>* Demographic information<br>* Other information | * You<br>* Social media platforms<br>* Third parties<br>* Referrals | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Third party energy providers<br>* Installers and their partners<br>* Other users of the Service and the public with your consent<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Developers using our API<br>* Advertising partners (to facilitate online advertising)<br>* Installers or their partners |
-| Category of personal information: [Online Identifiers](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Online Identifiers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | * Usage information<br>* Device data | * Automatic data collection | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To display advertisements<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Advertising partners (to facilitate online advertising) |
-| Category of personal information: [Commercial Information](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Commercial Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | * Solar information<br>* Site information<br>* Financial information<br>* Transaction information<br>* Usage information | * You<br>* Third parties<br>* Products | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees<br>* Third party energy providers<br>* Installers and their partners | * Developers using our API<br>* Installers or their partners |
-| Category of personal information: [Financial Information](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Financial Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | * Financial information<br>* Transaction information | * You<br>* Third parties | * To operate the Service<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * None |
-| Category of personal information: [Internet or Network Information](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Internet or Network Information**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | * Usage data<br>* Device data | * Automatic data collection | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de-identified data | * Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * Advertising partners (to facilitate online advertising) |
-| Category of personal information: [Inferences](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Inferences**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | May be derived from your:<br><br>* Content<br>* Profile information<br>* Registration information<br>* Feedback or correspondence<br>* Demographic information<br>* Solar information<br>* Financial information<br>* Transaction information<br>* Usage information<br>* Device data<br>* Online identifiers | * You<br>* Third parties | * To operate the Service<br>* For research and development<br>* To send you marketing and promotional communications<br>* To display advertisements<br>* To comply with law<br>* For protection of rights, fraud prevention and safety | * Affiliates<br>* Service providers<br>* Professional advisors | * None |
-| Category of personal information: [Professional or Employment Information Relating to Installers](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Professional or Employment Information Relating to Installers**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | May be derived from your:<br><br>* Business and personal contact information<br>* Content you choose to upload to the Service<br>* Transaction information | * You<br>* Third Parties | * To operate the Service<br>* To send you marketing and promotional communications<br>* To comply with law<br>* For protection of rights, fraud prevention, and safety<br>* To create anonymous, aggregated or de identified data | * Enphase customers (specifically, home owners)<br>* Affiliates<br>* Service providers<br>* Professional advisors<br>* Governmental authorities / private parties<br>* Business transferees | * None |
-| Category of personal information: [Protected Classification Characteristics](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
-| Personal information we collected | Personal information source | Purpose for personal information collection | Categories of third parties to whom we “Disclose” the personal information for a business purpose | Categories of third parties to whom we “Sell” or “Share” the personal information |
+| **Category of personal information:** [**Protected Classification Characteristics**](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180SB1121&showamends=false) |     |     |     |     |
 | May be derived from your:<br><br>* We do not systematically intentionally collect this information but it may be revealed in identity data or other information we collect | * N/A | * N/A | * N/A | * N/A |
 
 ### Important information for European Economic Area residents
@@ -353,21 +318,13 @@ If you provide us with any sensitive personal information when you use the Servi
 European data protection laws give you certain rights regarding your Personal Data . If you are located within the European Union, you may ask us to take the following actions in relation to your Personal Data that we hold:
 
 * **Access.** Provide you with information about our processing of your Personal Data and give you access to your Personal Data.
-    
 * **Correct.** Update or correct inaccuracies in your Personal Data.
-    
 * **Delete.** Delete your Personal Data.
-    
 * **Transfer.** Transfer a machine-readable copy of your Personal Data to you or a third party of your choice.
-    
 * **Restrict.** Restrict the processing of your Personal Data
-    
 * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your Personal Data that impacts your rights.
-    
 * **Instruction.** Define instructions for the management of your Personal Data after your death.
-    
 * **Withdraw your consent.** You can withdraw your consent at any time. The withdrawal of consent is only effective for the future, i.e., the withdrawal shall not affect the lawfulness of processing on the basis of consent before its withdrawal.
-    
 
 You may exercise your privacy rights by any of the methods listed in the “How to Contact Us” section above. We may request specific information from you to help us confirm your identity and process your request.
 
@@ -380,13 +337,9 @@ If we serve as a processor for a controller in the European Economic Area proces
 If we transfer your personal information out of Europe to a country not deemed by the European Commission to provide an adequate level of Personal Data protection, the transfer will be performed:
 
 * We rely on standard contractual clauses which have been entered into between our European entities as data exporters and other group companies as data importers
-    
 * Rarely, if at all, we rely on Pursuant to GDPR Article 49 derogations, including the consent of the individual to whom the Personal Data pertains, as necessary for the performance of a contract, or for compelling legitimate interests upon confirmation that such legitimate interests are not overridden by your interests or rights and freedoms
-    
 * We may in the future rely on other permitted bases as allowable by applicable European requirements
-    
 * You may contact us if you want further information on the specific mechanism used by us when transferring your Personal Data out of Europe, for identification of data importers and their identity/contact details, or for other information related to our data transfer mechanisms
-    
 
 ### Important information for Australian and New Zealand users
 
@@ -407,13 +360,9 @@ In order to protect your personal information, we take care to work with service
 **Managing personal information.** You may:
 
 * request access to your personal information that we hold, subject to any limitations at law; and
-    
 * request us to correct information about you that you believe is inaccurate, incomplete or out of date,
-    
 * by writing to us at the contact details below.
-    
 * If you are located in New Zealand, you may also contact us by submitting a request through the ‘AboutMe’ tool offered by the Office of the Privacy Commissioner for New Zealand accessible via the following link [https://www.privacy.org.nz/tools/aboutme-request-my-info-tool/](https://www.privacy.org.nz/tools/aboutme-request-my-info-tool/).
-    
 
 We may require you to verify your identity before giving you access to, or correcting, your personal information.
 
@@ -424,9 +373,7 @@ In certain circumstances, we may refuse, or be unable, to correct or provide you
 **Data breach.** Where an unauthorised disclosure of, access to or loss of, personal information has occurred, we will act in accordance with our plan for responding to such an incident. If we determine that a reportable data breach has occurred in accordance with the Privacy Laws, we will report it to (as applicable):
 
 * the Office of the Australian Information Commissioner; and/or
-    
 * the Office of the New Zealand Privacy Commissioner,
-    
 
 and any other entity or person, including affected individual(s), if required under Privacy Laws or other governing rules.
 
@@ -435,9 +382,7 @@ and any other entity or person, including affected individual(s), if required un
 If we cannot resolve a complaint related to your personal information, you may direct your complaint to:
 
 * the Office of the Australian Information Commissioner as detailed on [https://www.oaic.gov.au/privacy/privacy-complaints/](https://www.oaic.gov.au/privacy/privacy-complaints); or
-    
 * to the Office of the Privacy Commissioner for New Zealand as detailed on [https://privacy.org.nz/your-rights/making-a-complaint/](https://privacy.org.nz/your-rights/making-a-complaint).
-    
 
 **Contact details.** We can be contacted and you may exercise your privacy rights by any of the methods listed in the “How to Contact Us” section above.
 
@@ -523,7 +468,7 @@ Solargraf Terms of Use
 
 [United States, Canada, Puerto Rico](https://enphase.com/legal/united-states-canada-puerto-rico)
 
-[Brazil](https://enphase.com/legal/brazil)
+[Brazil](https://enphase.com/legal/solargraf-terms-brazil)
 
 [Netherlands](https://enphase.com/legal/solargraf-terms-netherlands)
 
