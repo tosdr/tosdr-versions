@@ -5,7 +5,7 @@
 Search
 
 1. [Home](https://ethereum.org/en/)/
-2. [Cookie policy](https://ethereum.org/en/cookie-policy/)
+2. Cookie policy
 
 Page last updated: August 15, 2023
 
@@ -46,7 +46,7 @@ YesNo
     
     * [Cookie Policy](#cookie-policy)
 
-Website last updated: July 10, 2024
+Website last updated: July 24, 2024
 
 Go to top
 
