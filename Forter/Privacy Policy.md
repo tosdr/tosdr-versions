@@ -302,7 +302,15 @@ Forter Pte Ltd: 135 Cecil St. #10-01, MYP Plaza, Singapore (069536)
 
 [](https://www.forter.com/ "Forter Logo")
 
- [![Leader Fall 2022](https://www.forter.com/wp-content/themes/blank/img/badge.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/medal.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/l-badge.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/m-badge.svg)](https://www.g2.com/products/forter/reviews)
+[![Leader Fall 2022](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%20104'%3E%3C/svg%3E)
+
+![Leader Fall 2022](https://www.forter.com/wp-content/themes/blank/img/badge.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%20104'%3E%3C/svg%3E)
+
+![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/medal.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%20104'%3E%3C/svg%3E)
+
+![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/l-badge.svg)](https://www.g2.com/products/forter/reviews)[![Leader Winter 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%20104'%3E%3C/svg%3E)
+
+![Leader Winter 2023](https://www.forter.com/wp-content/themes/blank/img/m-badge.svg)](https://www.g2.com/products/forter/reviews)
 
 English
 
