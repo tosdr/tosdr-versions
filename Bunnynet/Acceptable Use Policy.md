@@ -507,6 +507,7 @@ Follow us on social media for special promotions and important news.
 * [bunny.net on Facebook](https://www.facebook.com/bunnycdn)
 * [bunny.net on Twitter](https://twitter.com/BunnyCDN)
 * [bunny.net on Linkedin](https://www.linkedin.com/company/bunnynet/)
+* [bunny.net on Discord](https://discord.gg/bunnynet?ref=bunny.net)
 
 ~ Making the internet hop faster!
 
