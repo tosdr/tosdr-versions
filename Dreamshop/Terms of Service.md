@@ -1,3 +1,5 @@
+Final week of the Summer Blowout Sale - Enjoy up to 70% off!
+
 Menu [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](https://dream.shop/ "DREAM")
 
 [](https://dream.shop/search "Search")
@@ -27,6 +29,8 @@ Menu [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](http
     * [Sapnap](https://sapnap.shop/)
     * [Skeppy](https://skeppyshop.com/)
 * [Login](https://dream.shop/account/login)
+
+Final week of the Summer Blowout Sale - Enjoy up to 70% off!
 
 [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](https://dream.shop/ "DREAM")
 
