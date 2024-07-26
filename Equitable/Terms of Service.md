@@ -330,9 +330,8 @@ Life Insurance products are issued by Equitable Financial Life Insurance Company
 ![Equitable](/publicassets/images/EQ-logo-circle-white.svg)
 
 Welcome to Equitable
-====================
 
-Effective immediately, please use www.equitable.com  
+Please use www.equitable.com  
 to access our website.  
   
 
