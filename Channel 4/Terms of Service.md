@@ -20,8 +20,8 @@
     * Online Complaints Review
         
         * [Terms of Reference](https://www.channel4.com/4viewers/terms-reference)
-        * [Complaints Code](https://www.channel4.com/4viewers/complaints-code)
-        * [Procedural Rules](https://www.channel4.com/4viewers/procedural-rules)
+        * [Complaints Code](https://www.channel4.com/4viewers/online-complaints-review/complaints-code)
+        * [Procedural Rules](https://www.channel4.com/4viewers/online-complaints-review/procedural-rules)
         
     
 * [Our Policies](#)
