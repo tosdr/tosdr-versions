@@ -32,8 +32,6 @@ BESTSELLERS
 
 [Vitamin Enriched Face Base](https://www.bobbibrowncosmetics.com/product/14007/7485/skincare/moisturizer/vitamin-enriched-face-base/VEFB%29 "Vitamin Enriched Face Base")
 
-[Skin Long-Wear Weightless Foundation SPF 15](https://www.bobbibrowncosmetics.com/product/14017/55680/makeup/face/foundation/skin-long-wear-weightless-foundation-spf-15/16-hour-breathable-natural-matte-coverage/Skin-Long-Wear-Weightless-Foundation-SPF-15#/shade/Golden_Beige_%28W- "Skin Long-Wear Weightless Foundation SPF 15")
-
 [Extra Lip Tint](https://www.bobbibrowncosmetics.com/product/2341/110333/makeup/lips/lip-care/extra-lip-tint/ss23#/shade/Bare_Punch "Extra Lip Tint")
 
 [Long-Wear Cream Shadow Stick](https://www.bobbibrowncosmetics.com/product/2326/24845/makeup/eyes/long-wear-cream-shadow-stick#/shade/Bone "Long-Wear Cream Shadow Stick")
@@ -90,7 +88,7 @@ Face
 
 [Foundation](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation "Foundation") Foundation
 
-  [![](/media/export/cms/GNAV/Redesign_2022/Navigation-Foundation.jpg)](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation)
+  [![](/media/export/cms/GNAV/FY25_WSF_GNAV_Product_Texture_03.jpg)](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation)
 
 [Shop Foundation](https://www.bobbibrowncosmetics.com/products/14017/makeup/face/foundation "Shop Foundation")
 
@@ -236,7 +234,7 @@ SPECIAL OFFERS
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
-[Up to 50% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 50% off Last Chance")
+[Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
@@ -502,11 +500,11 @@ Please do not telephone. We cannot respond to these inquiries over the phone.
 
 ### Terms & Conditions
 
-Last updated: 16 April 2024
+Last updated: 23 July 2024
 
 Welcome to the Bobbi Brown website (the “Site”). Bobbi Brown Professional Cosmetics, Inc. provides you the right to access and use the Site, including all Content, products, and services available on the Site (collectively with the Site, the “Offerings”), such as your BBAccess account (“Loyalty Program”), subject to these Terms and Conditions, our Privacy Policy (accessible [here](https://www.bobbibrowncosmetics.com/privacy-policy)), the Loyalty Program [Terms and Conditions](https://www.bobbibrowncosmetics.com/bobbi-brown-club-terms-conditions), and any additional terms referenced herein and/or terms you agree to prior to being granted access to certain areas of the Site (collectively, the “Terms”). These Terms govern your use of our Site and your conduct, irrespective of your means of access, whether from a computer, mobile phone, or other device.
 
-This Site is operated by our affiliate ELC Online Inc. on our behalf (ELC Online Inc. operating in such capacity henceforth and herein as “Bobbi Brown Online”). In addition, Bobbi Brown Online will process the orders placed through this Site and will be the merchant of record for such orders, unless otherwise indicated during the checkout process.
+Bobbi Brown Online will process the orders placed through this Site and will be the merchant of record for such orders, unless otherwise indicated during the checkout process. and Bobbi Brown Online will be referred to collectively as (“Bobbi Brown”, “we”, “us” or “our”).
 
 These Terms apply to any website or document that links to these Terms.
 
@@ -514,53 +512,53 @@ THE TERMS CONSTITUTES A LEGALLY BINDING AGREEMENT BETWEEN YOU AND BOBBI BROWN (C
 
 IF YOU DO NOT AGREE TO THE TERMS, OR DO NOT MEET THE QUALIFICATIONS INCLUDED IN THE TERMS, WE ARE NOT WILLING TO PROVIDE YOU WITH ACCESS TO OR USE OF ANY OFFERINGS AND YOU MUST NOT ACCESS OR USE ANY OFFERINGS.
 
-**IMPORTANT – ARBITRATION AGREEMENT – PLEASE READ:**
+#### **IMPORTANT – ARBITRATION AGREEMENT – PLEASE READ:**
 
-THE TERMS CONTAIN PROVISIONS THAT GOVERN HOW DISPUTES BETWEEN YOU AND BOBBI BROWN AND/OR ITS AFFILIATES ARE RESOLVED. IN PARTICULAR, THE ARBITRATION AGREEMENT IN SECTION 23 WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES TO BE SUBMITTED TO INDIVIDUAL, BINDING, AND FINAL ARBITRATION, UNLESS YOU OPT OUT. IN ADDITION: (1) YOU AND BOBBI BROWN WILL ONLY BE PERMITTED TO PURSUE CLAIMS ON AN INDIVIDUAL BASIS, AND NOT IN ANY CLASS OR REPRESENTATIVE PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN COURT OR TO HAVE A JURY TRIAL FOR ANY CLAIMS.
+THE TERMS CONTAIN PROVISIONS THAT GOVERN HOW DISPUTES BETWEEN YOU AND BOBBI BROWN AND/OR ITS AFFILIATES ARE RESOLVED. IN PARTICULAR, THE ARBITRATION AGREEMENT IN [SECTION 23](#section23) WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES TO BE SUBMITTED TO INDIVIDUAL, BINDING, AND FINAL ARBITRATION. IN ADDITION: (1) YOU AND BOBBI BROWN WILL ONLY BE PERMITTED TO PURSUE CLAIMS ON AN INDIVIDUAL BASIS, AND NOT IN ANY CLASS OR REPRESENTATIVE PROCEEDING; AND (2) YOU ARE WAIVING YOUR RIGHT TO SEEK RELIEF IN COURT OR TO HAVE A JURY TRIAL FOR ANY CLAIMS.
 
-**1\. DEFINITIONS**
+#### **1\. DEFINITIONS**
 
 Capitalized terms used in these Terms have the definitions given in the context in which they are used. All other terms used herein have the plain English (U.S.) meaning.
 
-**2\. ELIGIBILITY**
+#### **2\. ELIGIBILITY**
 
 You may only access and use the Offerings if you are 18 years of age or older and meet the other eligibility requirements specified in the Terms. By accessing or using any Offerings, and by agreeing to these Terms, you acknowledge you meet each of these requirements. If you do not meet any of these requirements, you may not access or use any Offerings. Our Offerings are not available to any users we previously removed from our Offerings.
 
-**3\. MODIFICATIONS**
+#### **3\. MODIFICATIONS**
 
 We reserve the right, at any time in our sole discretion, to modify the Offerings with or without notice to you, by making those modifications available on the Site. We also reserve the right, at any time in our sole discretion, to modify the Terms; provided that any modifications to our Privacy Policy will be pursuant to the terms set forth therein. We will inform you of the presence of any changes to the Terms by posting those changes on the Site. Any modifications will be effective immediately upon posting on the Site. You may terminate your Account or cease using the Offerings if you object to any such modifications. However, you will be deemed to have agreed to any and all modifications through your continued use of the Offerings following such notice period. We will note the effective date of the latest version of these Terms at the top of this page. It is your responsibility to review these Terms periodically.
 
-**4\. PRIVACY**
+#### **4\. PRIVACY**
 
 Please review our privacy policy, available at [www.bobbibrowncosmetics.com/privacy-policy](https://www.bobbibrowncosmetics.com/privacy-policy) (“Privacy Policy”) for details about our personal information practices. The Privacy Policy is incorporated by reference herein, and these Terms and Conditions are incorporated into the Privacy Policy.
 
-**5\. LOYALTY PROGRAM**
+#### **5\. LOYALTY PROGRAM**
 
 For the terms and conditions applicable to the Loyalty Program, please visit [www.bobbibrowncosmetics.com/bobbi-brown-club-terms-conditions](https://www.bobbibrowncosmetics.com/bobbi-brown-club-terms-conditions).
 
-**6\. PURCHASE RELATED POLICIES AND PROCEDURES**
+#### **6\. PURCHASE RELATED POLICIES AND PROCEDURES**
 
 To view terms and conditions related to orders placed through this Site (such as order processing, shipping and handling, returns and exchanges), which are incorporated into these Terms by reference, please visit [returns.narvar.com/bobbibrown/returns](https://returns.narvar.com/bobbibrown/returns).
 
-**7\. PRODUCTS AND SERVICES FOR PERSONAL USE**
+#### **7\. PRODUCTS AND SERVICES FOR PERSONAL USE**
 
 The products and services available on the Site, and any samples we may provide to you, are for your personal and/or professional use only. You may not sell or resell any of the products or services, or any samples, that you purchase or otherwise receive from us or otherwise use the Offerings for any commercial purposes. Please note that we will track the purchases you make through your Account on the Site, at our freestanding stores, and by telephone order. We reserve the right, with or without notice, to cancel or reduce the quantity of any order to be filled or products or services to be provided to you that we believe, in our sole discretion, may result in the violation of our Terms.
 
-**8\. ACCURACY OF INFORMATION**
+#### **8\. ACCURACY OF INFORMATION**
 
 We attempt to be as accurate as possible when describing our products and services on the Site; however, we do not warrant that the descriptions, colors, information, or other Content available on the Site are accurate, complete, reliable, current, or error-free.
 
 This Site may contain typographical errors or inaccuracies and may not be complete or current. We therefore reserve the right to correct any errors, inaccuracies, or omissions (including after an order has been submitted) and to change or update information at any time without prior notice. Please note that such errors, inaccuracies or omissions may relate to pricing and availability, and we reserve the right to cancel or refuse to accept any order placed based on incorrect pricing or availability information. We apologize for any inconvenience.
 
-**9\. TERMINATION**
+#### **9\. TERMINATION**
 
 Except as indicated in this Section, these Terms may be terminated by either party at any time, in that party’s sole discretion, upon notice to the other party as permitted under these Terms. Upon termination or expiration of these Terms for any reason you will immediately cease all use of and access to the Offerings, including, without limitation, all Content you obtained prior to termination. Termination does not relieve you of any payment obligations relating to purchased products or services and these Terms will continue to apply to all products and services purchased prior to termination. Any Section of these Terms which, by its nature, should survive expiration or termination of these Terms shall survive such expiration or termination.
 
-**10\. YOUR OBLIGATIONS AND RESPONSIBILITIES**
+#### **10\. YOUR OBLIGATIONS AND RESPONSIBILITIES**
 
 When accessing or using the Offerings, you will at all times comply with these Terms and the special warnings or instructions for access or use posted on the Site. You shall act always in accordance with the law, custom and in good faith. You may not make any change or alteration to the Offerings, and may not impair the integrity or operation of the Offerings in any way. You further agree not to (1) impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with any person or entity, including without limitation, a Bobbi Brown employee, contractor, forum leader, guide, or host; (2) “stalk” or otherwise harass including advocating harassment of another (including, without limitation, any Bobbi Brown employee, contractor, or host), entrap or harm any third party including harming minors in any way; (3) forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content, including Your Content; (4) intentionally or unintentionally violate any applicable local, state, national or international law; or (5) collect or store personally identifiable data about other users. Without limiting the generality of any other provision of these Terms, if you default on your obligations as set forth in these Terms, you shall be liable for all losses and damages your default may cause us, our parents, subsidiaries, affiliates, partners, or licensors.
 
-**11\. YOUR RIGHTS**
+#### **11\. YOUR RIGHTS**
 
 11.1 To Access the Site
 
@@ -594,41 +592,41 @@ The Offerings may constitute our valuable trade secrets. You will not, and will 
 
 You must retain, without modification, all proprietary notices on the Offerings or affixed to or contained in any Offerings. Your unauthorized use of any Offerings will automatically terminate all rights and licenses granted to you under these Terms, without prejudice to any other remedy provided by applicable law or these Terms.
 
-**12\. YOUR ACCOUNT**
+#### **12\. YOUR ACCOUNT**
 
 Subject to the age restrictions outlined above, you may view and use many features of the Site without registering, including making purchases, but in order to access and use some parts of the Site, you may need to register an account with us (an “Account”). You may only register an Account on the Site if you are over 18 years of age. We may approve your request to establish an Account in our sole discretion. Each Account and the User identification and password for each Account (the “Account ID”) is personal in nature. You are solely responsible for all activities that occur under your Account. You agree to maintain the security and confidentiality of your Account ID and notify us immediately if it is lost, stolen or otherwise compromised. You will keep any Content you submit in connection with your Account, including your Account ID, current, complete, accurate and truthful. You may cancel your Account with us at any time.
 
 We reserve the right to refuse service and/or terminate Accounts, including your BBAccess membership, without prior notice if these Terms are violated or if we decide, in our sole discretion, that it would be in our best interests to do so and without liability for any reason. We will not be liable for any losses caused by any unauthorized use of your Account.
 
-**13\. YOUR CONTENT**
+#### **13\. YOUR CONTENT**
 
 You are solely responsible for all Content you submit, transmit, upload, post, share, distribute, reproduce, e-mail or otherwise make available to or generate through your use of the Site (“Your Content”) in any manner (including, but not limited to, through the “Contact Us” form). As between you and us, you retain ownership of Your Content. In addition to any other rights granted to us under these Terms, by submitting, transmitting, generating, or posting any of Your Content, you hereby grant us a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, assignable right and license to copy, use, reproduce, modify, adapt, translate, publish, sublicense, distribute, and sell Your Content in any way we see fit, including but not limited to copying in whole or in part, creating derivative works from, distributing and displaying Your Content in any form, media, or technology, whether now known or hereafter developed, alone or as part of other works, or using Your Content within or in connection with our products or services. You also acknowledge that Your Content will not be returned, and we may use Your Content, and any ideas, concepts or know how contained therein, without payment of money or any other form of consideration, for any purpose including, without limitation, developing, manufacturing, distributing and marketing products. You represent and warrant that you own or otherwise control all rights to Your Content necessary to grant the rights and licenses herein.
 
 You will not and will not allow others to transmit, upload, post, e-mail, generate, or otherwise make available on the Site any Content, including Your Content, that (a) is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful, or racially, ethnically, or otherwise objectionable; (b) you do not have a right to make available under any law or under contractual or fiduciary relationships; (c) is known by you to be false, inaccurate, or misleading; (d) you were compensated for or granted any consideration by any third party; (e) infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party; (f) is an advertisement or solicitation of any kind; or (g) is false, misleading, or inaccurate. In addition, you agree not to transmit, upload, post, e-mail, or otherwise make available any software viruses, unsolicited or unauthorized advertising, solicitation or promotional material, including chain letters, mass mailings, or any form of “spam.” You acknowledge that we have the right (but not the obligation) in our sole discretion to refuse to post or remove Your Content, and we reserve the right to change, condense, or delete any of Your Content. Without limiting the generality of the foregoing or any other provision of these Terms, we have the right to remove any of Your Content if we believe it these Terms or is otherwise objectionable and we reserve the right to refuse service and/or terminate your Accounts without prior notice if you violate these Terms or infringe the rights of others.
 
-**14\. DELETION OF YOUR CONTENT**
+#### **14\. DELETION OF YOUR CONTENT**
 
 You may request that we delete certain of Your Content posted on public portions of the Site, such as your ratings and reviews, by contacting us by email at [bobbibrowntech@bobbibrown.com](mailto:bobbibrowntech@bobbibrown.com) and including the following information: first name, last name, user name/screen name (if applicable), email address associated with the Site, the reason you are requesting to delete the posting, and date(s) of posting(s) you wish to delete (if applicable). We may not be able to process your deletion request if you are unable to provide such information to us. All deletion requests are subject to our approval, which we may withhold or provide in our sole discretion. Please allow up to 10 business days to process your deletion request.
 
-**15\. SPECIAL FEATURES, PROMOTIONS, FUNCTIONALITY AND EVENTS**
+#### **15\. SPECIAL FEATURES, PROMOTIONS, FUNCTIONALITY AND EVENTS**
 
 The Site may offer certain special features and functionality or events (such as contests, sweepstakes, promotions, or other offerings) which may (a) be subject to terms of use, rules and/or policies in addition to these Terms; and (b) be offered by us or by third parties. If so, we will notify you of this and if you choose to take advantage of these offerings, you agree that your use of those offerings will be subject to such additional or separate terms of use, rules, and/or policies.
 
-**16\. THIRD PARTY LINKS**
+#### **16\. THIRD PARTY LINKS**
 
 We are not responsible for the Content of any off-website pages or any other websites linked to or from the Site. Links appearing on the Site are for convenience only and are not an endorsement by us, our parents, subsidiaries, affiliates, or partners of the referenced Content, product, service, or supplier. Your decision to link to or from any off-website pages or other websites is at your own risk. We are in no way responsible for examining or evaluating, and we do not warrant the offerings of, off-website pages or any other websites linked to or from the Site, nor do we assume any responsibility or liability for the actions, content, products, or services of such pages and websites, including, without limitation, their privacy policies or terms and conditions. You should carefully review the terms and conditions and privacy policies of all off-website pages and other websites that you visit.
 
-**17\. TEXT MESSAGING**
+#### **17\. TEXT MESSAGING**
 
-By opting into receiving SMS and/or MMS messages from Bobbi Brown, you hereby acknowledge and agree that you may receive messages from Bobbi Brown regarding policies, programs, marketing, and promotions. These messages may be sent via an auto-dialer. You are not required to directly or indirectly agree to receive such calls or text messages as a condition of purchasing any property, goods, or services. Message frequency varies. Message and data rates may apply. You may stop receiving SMS and/or MMS messages from Bobbi Brown by texting STOP or by texting HELP to receive help. After texting “STOP” to Bobbi Brown, you may receive one additional text message from Bobbi Brown confirming that you have been unsubscribed. Carriers are not liable for delayed or undelivered messages.
+By opting into receiving SMS and/or MMS messages from Bobbi Brown, you hereby acknowledge and agree that you may receive messages from Bobbi Brown regarding policies, programs, marketing, and promotions. These messages may be sent via an auto-dialer. You are not required to directly or indirectly agree to receive such calls or text messages as a condition of purchasing any property, goods, or services. Message frequency varies. Message and data rates may apply. You may stop receiving SMS and/or MMS messages from Bobbi Brown by texting STOP or by texting HELP to receive help. After texting “STOP” to Bobbi Brown, you may receive one additional text message from Bobbi Brown confirming that you have been unsubscribed. Carriers are not liable for delayed or undelivered messages. Data collected through SMS and/or MMS shall be treated in accordance with our Privacy Policy, accessible [HERE](https://www.bobbibrowncosmetics.com/privacy-policy). For service support or assistance with our SMS or MMS messaging program, please email BobbiBrownTech@BobbiBrown.com.
 
-**18\. INTELLECTUAL PROPERTY**
+#### **18\. INTELLECTUAL PROPERTY**
 
 We retain all right, title and interest, including, without limitation, all Intellectual Property Rights (as defined below), in and to the Offerings and any additions, improvements, updates and modifications thereto. Bobbi Brown’s name, logo and all product and service names associated with the Offerings are trademarks of Bobbi Brown and its licensors and providers and you are granted no right or license to use them. For purposes of these Terms, “Intellectual Property Rights” means all intellectual property rights, proprietary rights, rights of publicity, rights of privacy, and any and all other legal rights protecting data, information, or intangible property throughout the world, including, without limitation, any and all copyrights, trademarks, service marks, trade secrets, patent rights, moral rights, sui generis rights in databases, and contract rights. You receive no ownership interest in or to the Offerings and, except for the limited rights and licenses granted under these Terms, you are not granted any right or license to use, reproduce, duplicate, copy, sell, resell, access, modify, or otherwise exploit, in whole or in part, any Offerings for any purpose without our express, prior written consent.
 
 Any submissions by you to us, such as comments, questions, suggestions, materials (collectively, “Feedback”) through any communication including through the Site, email or over the phone will be treated as both non-confidential and non-proprietary. Except as prohibited by applicable law, you hereby assign all right, title, and interest in, and we are free to use, without any attribution or compensation to you, any ideas, know-how, concepts, techniques, or other intellectual property and proprietary rights contained in the Feedback, whether or not patentable, for any purpose, including but not limited to, developing, manufacturing, having manufactured, licensing, marketing, and selling, directly or indirectly, products and services using such Feedback. Where the foregoing assignment is prohibited by law, you hereby grant us an exclusive, transferable, worldwide, royalty-free, fully paid-up license (including the right to sublicense) to use and exploit all Feedback as we may determine in our sole discretion. Notwithstanding the foregoing, you understand and agree that we are not obligated to use, display, reproduce, or distribute any such ideas, know-how, concepts, or techniques contained in the Feedback, and you have no right to compel such use, display, reproduction, or distribution.
 
-**19\. COPYRIGHT INFRINGEMENT NOTICES**
+#### **19\. COPYRIGHT INFRINGEMENT NOTICES**
 
 We respect the Intellectual Property Rights of others and require that users of the Site do the same. We also maintain a policy that provides for the termination in appropriate circumstances of the Site’s use privileges for users who are repeat infringers of Intellectual Property Rights. Consistent with the Digital Millennium Copyright Act, if you believe that copyrighted materials have been copied in a way that constitutes copyright infringement, please send an e-mail or written notice to our Designated Agent for notices of infringement and provide the following:  
 
@@ -639,37 +637,37 @@ We respect the Intellectual Property Rights of others and require that users of 
 * A statement by you that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
 * A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
-  
-
-**YOU CAN CONTACT OUR DESIGNATED AGENT FOR NOTIFICATIONS OF CLAIMED INFRINGEMENT AT:**
+#### **YOU CAN CONTACT OUR DESIGNATED AGENT FOR NOTIFICATIONS OF CLAIMED INFRINGEMENT AT:**
 
 Copyright Agent c/o Legal Department  
 The Estée Lauder Companies Inc.  
 767 Fifth Avenue  
 New York, NY 10153  
 Phone: 929-226-5049  
+  
 Fax: 212-277-2355  
 Email: COPYRIGHT@ESTEE.COM
 
   
+  
 
 NOTE: THE ABOVE CONTACT INFORMATION IS PROVIDED EXCLUSIVELY FOR NOTIFYING US ONLINE THAT COPYRIGHTED MATERIAL MAY HAVE BEEN INFRINGED. ALL OTHER INQUIRIES, INCLUDING INQUIRIES REGARDING INFRINGEMENT OF OTHER INTELLECTUAL PROPERTY RIGHTS, WILL NOT RECEIVE A RESPONSE THROUGH THIS PROCESS AND SHOULD BE DIRECTED TO OUR CUSTOMER SERVICE GROUP BY EMAIL TO BOBBIBROWNTECH@BOBBIBROWN.COM..
 
-**20\. DISCLAIMER OF WARRANTIES**
+#### **20\. DISCLAIMER OF WARRANTIES**
 
 THE OFFERINGS ARE PRESENTED “AS IS” AND “AS AVAILABLE.” NEITHER WE NOR OUR PARENTS, SUBSIDIARIES, AFFILIATES, PARTNERS, OR LICENSORS MAKE ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, IN CONNECTION WITH THESE TERMS OR ANY OFFERING. WE AND OUR PARENTS, SUBSIDIARIES, AFFILIATES, PARTNERS, AND LICENSORS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THE SITE, WHICH INCLUDES BUT IS NOT LIMITED TO ANY IMPLIED OR STATUTORY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE OR PURPOSE, TITLE, AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.
 
 YOU AGREE THAT NEITHER WE NOR OUR PARENTS, SUBSIDIARIES, AFFILIATES, PARTNERS, OR LICENSORS WILL BE RESPONSIBLE OR LIABLE IN CONTRACT, WARRANTY OR IN TORT (INCLUDING NEGLIGENCE) FOR ANY (1) INTERRUPTION OF BUSINESS; (2) ACCESS DELAYS OR ACCESS INTERRUPTIONS TO THE SITE; (3) DATA NON-DELIVERY, MISDELIVERY, CORRUPTION, DESTRUCTION, LOSS, OR MODIFICATION; (4) LOSS OR DAMAGES OF ANY SORT INCURRED AS A RESULT OF DEALINGS WITH OR THE PRESENCE OF OFF-WEBSITE LINKS ON THE SITE; (5) COMPUTER VIRUSES, SYSTEM FAILURES, OR MALFUNCTIONS WHICH MAY OCCUR IN CONNECTION WITH YOUR USE OF ANY OFFERING, INCLUDING DURING HYPERLINK TO OR FROM THIRD PARTY WEBSITES (6) INACCURACIES OR OMISSIONS IN ANY CONTENT OR (7) EVENTS BEYOND OUR REASONABLE CONTROL.
 
-**21\. LIMITATION OF LIABILITY**
+#### **21\. LIMITATION OF LIABILITY**
 
 NEITHER WE NOR OUR PARENTS, SUBSIDIARIES, AFFILIATES, PARTNERS, OR LICENSORS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, DELAY, OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE), RELATING TO OR ARISING IN CONNECTION WITH OR OUT OF ANY OFFERINGS OR USE OF ANY OFFERINGS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF OPPORTUNITY, REVENUES OR PROFITS, BUSINESS INTERRUPTION, OR PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES. OUR TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THESE TERMS AND ALL SERVICES PROVIDED UNDER THESE TERMS, WHETHER IN CONTRACT OR TORT OR OTHERWISE, WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO US IN THE 3 MONTH PERIOD PRECEDING THE EVENTS GIVING RISE TO ANY LIABILITY OR $100, WHICHEVER IS GREATER. YOU AGREE THAT WE WOULD NOT ENTER INTO THESE TERMS WITHOUT THESE LIMITATIONS ON OUR LIABILITY. IN JURISDICTIONS WHERE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES IS NOT PERMITTED, OUR LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-**22\. INDEMNIFICATION**
+#### **22\. INDEMNIFICATION**
 
 You agree to defend, indemnify and hold us and our officers, directors, shareholders, affiliates, employees, agents, contractors, assigns, users, customers, providers, licensors, and successors in interest (“Indemnified Parties”) harmless from any and all losses, liabilities, damages, fees, expenses, and costs (including reasonable attorneys’ fees, court costs, damages awards, and settlement amounts), resulting from any third party claim, action, or demand relating to: (a) your use of or access to any Offering; (b) Your Content; (c) your breach of any representation, warranty, or other provision of these Terms; (d) your violation of any applicable law, rule or regulation; (e) your willful misconduct; or (f) any other party’s access and use of our Offerings with your unique username, password or other appropriate security code. We will provide you notice of any such claim or allegation, and we reserve the right to participate in the defense of any such claim at our own expense.
 
-**23\. DISPUTES**
+#### **23\. DISPUTES**
 
 **THIS SECTION SETS FORTH THE TERMS AND CONDITIONS PURSUANT TO WHICH DISPUTES BETWEEN YOU AND BOBBI BROWN WILL BE RESOLVED THROUGH INDIVIDUAL ARBITRATION (“ARBITRATION AGREEMENT”). PLEASE READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES YOU AND BOBBI BROWN TO ARBITRATE DISPUTES AND LIMITS THE MANNER IN WHICH WE CAN SEEK RELIEF FROM EACH OTHER.**
 
@@ -695,19 +693,19 @@ Changes to this arbitration agreement shall not apply to any claim that was file
 
 The Terms and Conditions evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this agreement to arbitrate and any arbitration proceedings.
 
-**24\. NOTICE**
+#### **24\. NOTICE**
 
 You consent to receive any agreements, notices, disclosures and other communications (collectively, “Notices”) to which these Terms refer from us electronically including without limitation by e-mail or by posting notices on this Site. You agree that all Notices that we provide to you electronically satisfy any legal requirement that such communications be in writing. To withdraw your consent to receive Notices electronically, you must notify us of your withdrawal of such consent by emailing us at bobbibrowntech@bobbibrown.com and discontinue your use of the Offerings. In such event, all rights granted to you pursuant to these Terms shall automatically terminate. Unfortunately, we cannot provide the Offerings to any user that cannot consent to receipt of Notices electronically. Please note that this consent to receive Notices is entirely separate from any election you may make with respect to receipt of marketing communications. Your options with respect to receipt of marketing communications are set forth in our [Privacy Policy](https://www.bobbibrowncosmetics.com/privacy-policy).
 
-**25\. NOTICE TO CALIFORNIA RESIDENTS**
+#### **25\. NOTICE TO CALIFORNIA RESIDENTS**
 
 For further information or complaints regarding the Services, please contact the provider of the services: The Estée Lauder Companies Inc., 767 Fifth Avenue New York, NY 10153, telephone: 1-877-311-3883 or email: [bobbibrowntech@bobbibrown.com](mailto:bobbibrowntech@bobbibrown.com). If you have purchased anything from the Site, a description of what you have purchased and relevant pricing information are posted as part of the ordering process for this Site (please consult your individual purchase confirmation email for the charges you incurred). For California residents, under Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by contacting them at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254 or for hearing impaired persons at 711, or 1-800-735-2929 (TTY).
 
-**26\. GENERAL**
+#### **26\. GENERAL**
 
 You acknowledge and agree that these Terms constitute the complete and exclusive agreement between us concerning your use of the Offerings, and supersede and govern all prior proposals, agreements, or other communications, whether written or oral. Nothing contained in these Terms shall be construed as creating any agency, partnership, or other form of joint enterprise between us. Our failure to require your performance of any provision hereof shall not affect our full right to require such performance at any time thereafter, nor shall our waiver of a breach of any provision hereof be taken or held to be a waiver of the provision itself. In the event that any provision of these Terms shall be unenforceable or invalid under any applicable law or be so held by any applicable arbitral award or court decision, such unenforceability or invalidity shall not render these Terms unenforceable or invalid as a whole but these Terms shall be modified, to the extent possible, by the adjudicating entity to most fully reflect the original intent of the Parties as reflected in the original provision. The headings in the Terms are for convenience only and shall not be used in its interpretation. All rights conferred under these Terms or by any other instrument or law shall be cumulative and may be exercised singularly or concurrently. Neither these Terms nor any of your rights or obligations hereunder may be assigned or transferred by you without our prior written approval. Any assignment in violation of the foregoing will be null and void. We may assign these Terms to any party that assumes our obligations hereunder.
 
-**27\. CONTACT**
+#### **27\. CONTACT**
 
 If you have any questions regarding these Terms, please email us at [bobbibrowntech@bobbibrown.com](mailto:bobbibrowntech@bobbibrown.com).
 
