@@ -2,7 +2,7 @@
 
 [Business](https://parkmobile.nl/en-nl/business)
 
-[Cities and operators](https://www.easyparkpartners.com/)
+[Cities and operators](https://parkmobile.nl/easyparkpartners.com)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27180%27%20height=%2760%27/%3e)![Easypark-linear-logotype_RGB](https://a.storyblok.com/f/167931/1139x167/747136607e/easypark-linear-logotype_rgb.png/m/384x0/filters:quality(75))](https://parkmobile.nl/en-nl)
 
@@ -36,7 +36,7 @@ English
 
 [Business](https://parkmobile.nl/en-nl/business)
 
-[Cities and operators](https://www.easyparkpartners.com/)
+[Cities and operators](https://parkmobile.nl/easyparkpartners.com)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27180%27%20height=%2760%27/%3e)![Easypark-linear-logotype_RGB](https://a.storyblok.com/f/167931/1139x167/747136607e/easypark-linear-logotype_rgb.png/m/384x0/filters:quality(75))](https://parkmobile.nl/en-nl)
 
@@ -309,7 +309,7 @@ Follow us
 
 Copyright © EasyPark AB 2024
 
-[Terms of Service](https://parkmobile.nl/en-nl/terms-of-service)
+[Terms of Service](https://parkmobile.nl/en-nl/terms-of-service-easypark-global)
 
 [Privacy Policy](https://parkmobile.nl/en-nl/privacy-policy-phonixx)
 
