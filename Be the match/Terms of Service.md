@@ -13,7 +13,7 @@ Our name has changed but our mission has not: We save lives through cell therapy
 
 [](https://bethematch.org/ "Return to the homepage")
 
-[Give](https://bethematch.org/giveb/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
+[Give](https://bethematch.org/givea/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
 
 [Volunteer](https://bethematch.org/support-the-cause/participate/volunteer/) [Advocate](https://bethematch.org/support-the-cause/participate/join-our-legislative-advocacy-efforts/)
 
