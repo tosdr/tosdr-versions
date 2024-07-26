@@ -65,9 +65,9 @@
     #### Powered by Enzuzo
     
     * [Customer Showcase](https://www.enzuzo.com/showcase)
-    * [Case Studies](https://www.enzuzo.com/case-studies-old)
-    * [Become a partner / reseller](https://www.enzuzo.com/partner-reseller)
-    * [Affiliate program](https://www.enzuzo.com/partner-reseller)
+    * [Case Studies](https://www.enzuzo.com/case-studies)
+    * [Become a Partner / Reseller](https://www.enzuzo.com/partner-reseller)
+    * [Affiliate Program](https://www.enzuzo.com/partner-reseller)
     
     #### Become an Expert
     
