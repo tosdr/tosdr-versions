@@ -165,7 +165,7 @@ or contact your travel advisor Call](tel:1-800-268-7252)
 
 Toggle Mobile Search Menu
 
-![Amtrak Vacations](/sites/amtrak/themes/custom/amtrak/assets/img/amtrak-logo-white.png)
+![Amtrak Vacations](/sites/amtrak/themes/custom/amtrak/assets/img/amtrak-logo-white-higer-res.png)
 
 Close
 
