@@ -1,6 +1,6 @@
-[TRY THE FASTEST PROTECTIVE DNS SOLUTION TODAY
+[DON'T MISS AI-POWERED MSP: FUTURE OF SALES, MARKETING, AND OPERATIONS
 
-START FREE TRIAL](https://www.dnsfilter.com/free-trial)
+REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -151,6 +151,16 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
+[![Fool me once, shame on not using DNS protection](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp)
+
+Posted on July 24, 2024 by TK Keanini
+
+ **
+
+Fool me once, shame on not using DNS protection
+
+**](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
+
 [![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp)
 
 Posted on July 22, 2024 by Alina Gordilova
@@ -170,16 +180,6 @@ Posted on July 22, 2024 by Will Strafach
 Lookalike Crowdstrike Domains Discovered by DNSFilter to Date
 
 **](https://www.dnsfilter.com/blog/crowdstrike-lookalike-domains)
-
-[![Traversing the World of AI with Judy Security](https://www.dnsfilter.com/hs-fs/hubfs/blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp?width=500&height=190&name=blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp)
-
-Posted on June 28, 2024 by Anvesha Tiwary
-
- **
-
-Traversing the World of AI with Judy Security
-
-**](https://www.dnsfilter.com/blog/traversing-the-world-of-ai-with-judy-security)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
