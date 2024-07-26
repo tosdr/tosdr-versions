@@ -87,17 +87,17 @@ Schedule an appointment for a beautiful, healthy smile.
 Recent Blog Posts
 -----------------
 
+##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
+
+Jul 23, 2024 19 Comments Off on Common Bite Issues and Their Solutions
+
 ##### [Understanding the Role of Pedodontists](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
 
-Jun 4, 2024 155 Comments Off on Understanding the Role of Pedodontists
+Jun 4, 2024 168 Comments Off on Understanding the Role of Pedodontists
 
 ##### [Should My Teen Get Braces or Invisalign?](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
 
-Mar 13, 2024 523 Comments Off on Should My Teen Get Braces or Invisalign?
-
-##### [Guardians of Grins: Unveiling Common Pediatric Dental Emergencies](https://sandiegokidsdentist.com/common-pediatric-dental-emergencies/)
-
-Dec 28, 2023 686 Comments Off on Guardians of Grins: Unveiling Common Pediatric Dental Emergencies
+Mar 13, 2024 539 Comments Off on Should My Teen Get Braces or Invisalign?
 
 Quick Links
 -----------
@@ -132,6 +132,6 @@ CA 91942.
 * [Yelp](https://www.yelp.com/biz/childrens-braces-and-dentistry-la-mesa-2)
 * [Instagram](https://www.instagram.com/childrensbracesanddentistry/)
 
-© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/common-pediatric-dental-emergencies/)
+© 2017. Children's Braces and Dentistry (San Diego Kids Dentist) | [Privacy Policy](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
 
 [Website Designed & Developed by: Houmanity](https://www.houmanity.com/)
