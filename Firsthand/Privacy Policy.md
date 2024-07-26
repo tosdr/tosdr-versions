@@ -4,8 +4,6 @@
 
 [![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
 
-[](https://firsthand.co/privacy-policy)
-
 [Login](https://firsthand.co/login)
 
 * [Rankings](https://firsthand.co/careers/rankings)
@@ -24,8 +22,6 @@
 * * *
 
 [![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
-
-[](https://firsthand.co/privacy-policy)
 
 Privacy Policy
 ==============
