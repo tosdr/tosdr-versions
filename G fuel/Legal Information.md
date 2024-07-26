@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                 
+Terms of service – G FUEL                                                                                                      
 
 [Skip to content](#MainContent) 
 
@@ -594,7 +594,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/482/assets/app-store-badge.svg?v=123926581890561309811720814881)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/482/assets/google-play-badge.png?v=132395384020293405351720814881)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/492/assets/app-store-badge.svg?v=123926581890561309811722021034)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/492/assets/google-play-badge.png?v=132395384020293405351722021034)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -614,58 +614,58 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.4 out of 5 stars
 
-1,658 Reviews
+1,667 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,412 Reviews
+1,413 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,845 Reviews
+2,850 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,003 Reviews
+2,009 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-2,135 Reviews
+2,138 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,427 Reviews
+2,428 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-4,668 Reviews
+4,671 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
-4,423 Reviews
+4,427 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,870 Reviews
+1,875 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,362 Reviews
+1,364 Reviews
