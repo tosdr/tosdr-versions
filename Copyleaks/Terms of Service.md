@@ -93,47 +93,47 @@
     
     ![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic")
     
-    Arabic](https://copyleaks.com/ar/termsofuse/ "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
+    Arabic](https://copyleaks.com/ar/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
     
     ![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese")
     
-    Chinese](https://copyleaks.com/zh/termsofuse/ "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
+    Chinese](https://copyleaks.com/zh/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
     
     ![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French")
     
-    French](https://copyleaks.com/fr/termsofuse/ "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
+    French](https://copyleaks.com/fr/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
     
     ![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German")
     
-    German](https://copyleaks.com/de/termsofuse/ "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
+    German](https://copyleaks.com/de/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
     
     ![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi")
     
-    Hindi](https://copyleaks.com/hi/termsofuse/ "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
+    Hindi](https://copyleaks.com/hi/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
     
     ![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian")
     
-    Italian](https://copyleaks.com/it/termsofuse/ "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
+    Italian](https://copyleaks.com/it/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
     
     ![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese")
     
-    Japanese](https://copyleaks.com/ja/termsofuse/ "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
+    Japanese](https://copyleaks.com/ja/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
     
     ![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian")
     
-    Russian](https://copyleaks.com/ru/termsofuse/ "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
+    Russian](https://copyleaks.com/ru/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
     
     ![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish")
     
-    Spanish](https://copyleaks.com/es/termsofuse/ "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
+    Spanish](https://copyleaks.com/es/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
     
     ![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish")
     
-    Turkish](https://copyleaks.com/tr/termsofuse/ "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
+    Turkish](https://copyleaks.com/tr/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
     
     ![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese")
     
-    Portuguese](https://copyleaks.com/pt/termsofuse/ "Portuguese")
+    Portuguese](https://copyleaks.com/pt/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Portuguese")
     
 
 [Home](https://copyleaks.com/) 〉 **Terms of Use**
@@ -141,12 +141,13 @@
 Terms of Use
 ============
 
-Last revised July 11, 2023  
+Last revised July 24, 2024  
   
-Welcome to Copyleaks Technologies Ltd. (**“Copyleaks”**, the **“company”**, **“we”** or **“us”**). Your use of this web site (the **“Site”**), the services and content made available on the Site, and the API (the **“Services”**) are subject to these Terms of Use (the **“Terms”**). By using any of our Services or accessing the Site, you agree to be bound by, and use our Services in compliance with these Terms and all order forms and policies incorporated herein by reference (collectively the **“Agreement”**). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICES OR ACCESS THE SITE. We may make changes to these Terms from time to time, without prior notice. When we do, we will revise the “last updated” date given above. It is your responsibility to review these Terms frequently and to remain informed of any changes made. The then-current version of these Terms will supersede all earlier versions. You agree that your continued use of the Services will constitute your acceptance of such revised Terms.  
-  
-We reserve the sole right to either modify or discontinue the Services and the API, as defined below, or any of the Site’s features, at any time with or without notice to you.  
-  
+
+Welcome to Copyleaks Technologies Ltd. (**“Copyleaks”**, the **“company”**, **“we”** or **“us”**). Your use of this web site (the **“Site”**), the services and content made available on the Site, and the API (the **“Services”**) are subject to these Terms of Use (the **“Terms”**). By using any of our Services or accessing the Site, you agree to be bound by, and use our Services in compliance with these Terms and all order forms and policies incorporated herein by reference (collectively the **“Agreement”**). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICES OR ACCESS THE SITE. We may make changes to these Terms from time to time, without prior notice. When we do, we will revise the “last updated” date given above. It is your responsibility to review these Terms frequently and to remain informed of any changes made. The then-current version of these Terms will supersede all earlier versions. You agree that your continued use of the Services will constitute your acceptance of such revised Terms.
+
+We reserve the sole right to either modify or discontinue the Services and the API, as defined below, or any of the Site’s features, at any time with or without notice to you.
+
 The Company itself or through its affiliates (including Copyleaks, Inc.) will provide the Services, and you may access and use the Services, in accordance with these Terms. If you order the Services through an online registration page, purchase order, order form, or similar document bearing any other title (each an **“Order Form”**), the Order Form may contain additional terms and conditions and information regarding the Services you are ordering.
 
 1\. SITE USERS
@@ -266,9 +267,7 @@ IN NO EVENT WILL COPYLEAK’S AGGREGATE LIABILITY FOR ANY AND ALL CLAIMS, LOSSES
 15\. DISCLAIMER OF WARRANTIES
 -----------------------------
 
-SUBJECT TO APPLICABLE LAW, IN NO EVENT WILL COPYLEAKS, ITS OFFICERS, DIRECTORS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU FOR ANY DAMAGES WHATSOEVER, INCLUDING WITHOUT LIMITATION, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SITE, SERVICES, COPYLEAKS CONTENT AND SERVICE CONTENT WHETHER THE DAMAGES ARE FORESEEABLE AND WHETHER OR NOT COPYLEAKS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-  
-IN NO EVENT WILL COPYLEAK’S AGGREGATE LIABILITY FOR ANY AND ALL CLAIMS, LOSSES OR DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY SERVICES (WHETHER IN CONTRACT, EQUITY, NEGLIGENCE, TORT OR OTHERWISE) EXCEED THE AGGREGATE FEES PAID BY YOU TO COPYLEAKS UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE DATE UPON WHICH THE APPLICABLE CAUSE OF ACTION ARISES.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. COPYLEAKS, ITS LICENSORS, SUPPLIERS AND PARTNERS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. COPYLEAKS DOES NOT WARRANT UNINTERRUPTED USE OR OPERATION OF THE SERVICES OR THAT ANY DATA SENT BY YOU WILL BE TRANSMITTED IN UNCORRUPTED FORM OR WITHIN A REASONABLE AMOUNT OF TIME. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DELAY OR LOSS OF ANY KIND THAT RESULTS FROM YOUR ACCESS OR USE OF THE SERVICES, INCLUDING LOSS OF ANY DATA OR ANY LOSS OR HARM TO YOUR DEVICE OR PERSONAL COMPUTER. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COPYLEAKS, THROUGH OR FROM THE SERVICES, OR FROM ANY PARTNER, WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT.
 
 16\. INDEMNIFICATION
 --------------------
@@ -419,44 +418,44 @@ English](# "English") [![ar](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.or
 
 ![ar](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png "Arabic")
 
-Arabic](https://copyleaks.com/ar/termsofuse/ "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
+Arabic](https://copyleaks.com/ar/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Arabic") [![zh_CN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Chinese")
 
 ![zh_CN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/zh_CN.png "Chinese")
 
-Chinese](https://copyleaks.com/zh/termsofuse/ "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
+Chinese](https://copyleaks.com/zh/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Chinese") [![fr_FR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "French")
 
 ![fr_FR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/fr_FR.png "French")
 
-French](https://copyleaks.com/fr/termsofuse/ "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
+French](https://copyleaks.com/fr/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "French") [![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German")
 
 ![de_DE](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/de_DE.png "German")
 
-German](https://copyleaks.com/de/termsofuse/ "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
+German](https://copyleaks.com/de/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "German") [![hi_IN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Hindi")
 
 ![hi_IN](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/hi_IN.png "Hindi")
 
-Hindi](https://copyleaks.com/hi/termsofuse/ "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
+Hindi](https://copyleaks.com/hi/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Hindi") [![it_IT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Italian")
 
 ![it_IT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/it_IT.png "Italian")
 
-Italian](https://copyleaks.com/it/termsofuse/ "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
+Italian](https://copyleaks.com/it/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Italian") [![ja](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Japanese")
 
 ![ja](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ja.png "Japanese")
 
-Japanese](https://copyleaks.com/ja/termsofuse/ "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
+Japanese](https://copyleaks.com/ja/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Japanese") [![ru_RU](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Russian")
 
 ![ru_RU](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/ru_RU.png "Russian")
 
-Russian](https://copyleaks.com/ru/termsofuse/ "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
+Russian](https://copyleaks.com/ru/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Russian") [![es_ES](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Spanish")
 
 ![es_ES](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/es_ES.png "Spanish")
 
-Spanish](https://copyleaks.com/es/termsofuse/ "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
+Spanish](https://copyleaks.com/es/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Spanish") [![tr_TR](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Turkish")
 
 ![tr_TR](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/tr_TR.png "Turkish")
 
-Turkish](https://copyleaks.com/tr/termsofuse/ "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
+Turkish](https://copyleaks.com/tr/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Turkish") [![pt_PT](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "Portuguese")
 
 ![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese")
 
-Portuguese](https://copyleaks.com/pt/termsofuse/ "Portuguese")
+Portuguese](https://copyleaks.com/pt/termsofuse/?_gl=1*19dx5bi*_gcl_au*MTg1MzU3ODYwNS4xNzIxOTA1MDUw*_ga*MTM5MjMwNDA4Ni4xNzIxOTA1MDUw*_ga_MBTGG7KX5Y*MTcyMTkwNTA0Ny4xLjEuMTcyMTkwODI1NC4wLjAuMA.. "Portuguese")
