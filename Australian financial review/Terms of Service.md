@@ -319,57 +319,55 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c162e14b2b5e48bee6e3e3b59855496019634404)](https://www.afr.com/life-and-luxury/food-and-wine/what-michael-kirby-makes-of-the-law-school-building-named-in-his-honour-20240619-p5jn72)
+[![About Time Watch Weekend](https://static.ffx.io/images/$zoom_0.4489%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_126%2C$y_58/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a30c57da0c8337efe050fe593f2a139a34718e75)](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-about-time-you-book-your-spot-at-the-afr-watch-weekend-20240703-p5jqqf)
 
-### [What Michael Kirby makes of the law school building named in his honour](https://www.afr.com/life-and-luxury/food-and-wine/what-michael-kirby-makes-of-the-law-school-building-named-in-his-honour-20240619-p5jn72)
+### [It’s About Time you book your spot at the AFR Watch Weekend](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-about-time-you-book-your-spot-at-the-afr-watch-weekend-20240703-p5jqqf)
 
-* Stephen Todd
-
-* ### [A new wave of Chinese watchmakers is taking on the Swiss giants](https://www.afr.com/life-and-luxury/fashion-and-style/a-new-wave-of-chinese-watchmakers-is-taking-on-the-swiss-giants-20240618-p5jmvq)
+* ### [These are the top Australian designs picked by our design editor](https://www.afr.com/life-and-luxury/design/these-are-the-top-australian-designs-picked-by-our-design-editor-20240626-p5joty)
     
-* ### [This managing director caught a 300kg marlin – and threw it back](https://www.afr.com/wealth/people/this-managing-director-caught-a-300kg-marlin-and-threw-it-back-20240703-p5jqvj)
+* ### [A delicious fuss-free dessert you can make ahead of time](https://www.afr.com/life-and-luxury/food-and-wine/a-delicious-fuss-free-dessert-you-can-make-ahead-of-time-20240603-p5jitn)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Kiria McNamara says one of the hardest things about her job is having to make people redundant. ](https://static.ffx.io/images/$zoom_0.3167%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_764%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1b9b1c9d508f2ec8ed1e58ed5f27aa90e2bf0549)](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
+[![Renee Wootton was unsure if she would be able to complete her degree in aerospace engineering. ](https://static.ffx.io/images/$zoom_0.1991%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2e0e93bb2e188d3d36020bf20a663ffd2e3f3183)](https://www.afr.com/work-and-careers/leaders/this-exec-wants-more-than-a-ceo-role-she-wants-to-be-an-astronaut-20240716-p5ju5t)
 
-### [My sixth form teacher told me to lower my sights](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
+### [This exec wants more than a CEO role. She wants to be an astronaut](https://www.afr.com/work-and-careers/leaders/this-exec-wants-more-than-a-ceo-role-she-wants-to-be-an-astronaut-20240716-p5ju5t)
 
 * Sally Patten
 
-* ### [The secrets to becoming a rich boss](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
+* ### [My sixth form teacher told me to lower my sights](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
     
-* ### [Nation’s richest boss ‘can’t find anything to invest in’ but WiseTech](https://www.afr.com/work-and-careers/leaders/wisetech-ceo-rules-as-rich-bosses-rebound-from-tech-wreck-20240701-p5jq34)
+* ### [The secrets to becoming a rich boss](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Sarah Wilson.](https://static.ffx.io/images/$zoom_0.1935%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9c9479ba0f27d6d5d0aa1773757b558ccb71a71e)](https://www.afr.com/life-and-luxury/travel/paris-is-the-perfect-place-for-older-women-20240702-p5jqb3)
+[![Lexus LC 500 coupe](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7aabfaa1487f92335cb2218b1e3f788cf50fe73e)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
 
-### [‘Paris is the perfect place for older women’](https://www.afr.com/life-and-luxury/travel/paris-is-the-perfect-place-for-older-women-20240702-p5jqb3)
+### [This flagship Lexus sports coupe is a hidden gem](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
 
-* Hans van Leeuwen
+* Tony Davis
 
-* ### [How to nail the 30-plants-a-week meal challenge](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-nail-the-30-plants-a-week-meal-challenge-20240716-p5ju7r)
+* ### [Bulgari’s record-breaking watches come to Australia for first time](https://www.afr.com/life-and-luxury/fashion-and-style/bulgari-s-record-breaking-watches-come-to-australia-for-first-time-20240717-p5jugn)
     
-* ### [Gen Z tells me I’m wearing my socks wrong. Am I?](https://www.afr.com/life-and-luxury/fashion-and-style/gen-z-tells-me-i-m-wearing-my-socks-wrong-am-i-20240716-p5ju4m)
+* ### [Five top examples of a hot new red-wine grape](https://www.afr.com/life-and-luxury/food-and-wine/five-top-examples-of-a-hot-new-red-wine-grape-20240717-p5jug2)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Captain Cook Hotel has changed hands again for $6.6m.](https://static.ffx.io/images/$zoom_0.1794%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/73951815f810f873c00b74b09f7c18abc40a29db)](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
+[![The Warwick brothers’ blockchain-based game Illuvium is launching on Thursday.](https://static.ffx.io/images/$zoom_0.2208%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1ad8fb2da2de58c7e70870e554671b406d791f19)](https://www.afr.com/rich-list/inside-the-26b-journey-of-this-young-rich-lister-s-crypto-game-20240723-p5jvut)
 
-### [Historic pub to close after Rich Lister sells building, keeps pokies](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
+### [Inside the $26b journey of this Young Rich Lister’s crypto game](https://www.afr.com/rich-list/inside-the-26b-journey-of-this-young-rich-lister-s-crypto-game-20240723-p5jvut)
 
-* Larry Schlesinger
+* Yolanda Redrup
 
-* ### [What it’s like to sell your tech start-up for $180m](https://www.afr.com/technology/what-it-s-like-to-sell-your-tech-start-up-for-180m-20240718-p5jupl)
+* ### [Rich Lister-owned home building empire faces $100m class action](https://www.afr.com/property/residential/rich-lister-owned-home-building-empire-faces-100m-class-action-20240725-p5jwl0)
     
-* ### [How exquisite timing and meditating shaped this Rich Lister’s fortune](https://www.afr.com/wealth/people/how-exquisite-timing-and-meditating-shaped-this-rich-lister-s-fortune-20240711-p5jt04)
+* ### [Historic pub to close after Rich Lister sells building, keeps pokies](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
     
 
 [The Australian Financial Review](https://www.afr.com/)
