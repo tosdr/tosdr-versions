@@ -91,6 +91,10 @@ Toggle Nav
         
         * * *
         
+        [Shop By Series](https://www.barefootbooks.com/barefoot-series)
+        
+        * * *
+        
         [On Sale](https://www.barefootbooks.com/on-sale)
         
         * * *
@@ -300,6 +304,10 @@ Toggle Nav
         * * *
         
         [Shop By Category](https://www.barefootbooks.com/shop#by-category)
+        
+        * * *
+        
+        [Shop By Series](https://www.barefootbooks.com/barefoot-series)
         
         * * *
         
