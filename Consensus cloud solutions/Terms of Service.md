@@ -337,7 +337,7 @@ If you elect to use the Company’s Carequality Connection capability, in additi
 * [Careers](https://www.consensus.com/careers/)
 * [Billing FAQs](https://www.consensus.com/faq/#billing-faq)
 * [Investors](https://investor.consensus.com/overview/default.aspx)
-* [Become a Partner](https://www.consensus.com/partners/become-a-partner/)
+* [Become a Partner](https://www.consensus.com/partners-old/become-a-partner/)
 
 [![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
