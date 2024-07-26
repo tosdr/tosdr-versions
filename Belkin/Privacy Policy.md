@@ -8,7 +8,7 @@ Close
 
 Toggle navigation
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw27ce24f9/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dwce044c6e/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Back
 
@@ -211,7 +211,7 @@ Close ×
 * * [Sign Up/Sign In](https://www.belkin.com/login/)
     * [Where to buy](https://www.belkin.com/where-to-buy/?id=online "Where to buy")
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw119f0893/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw3c911a6e/images/globe-white.svg) United States
 
 Change region
 
@@ -290,7 +290,7 @@ Email
 
 Submit
 
-  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dw553b7a99/images/1x1.png "man sitting on stairs using a laptop")
+  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dw05a223d6/images/1x1.png "man sitting on stairs using a laptop")
 
 ![](https://www.belkin.com/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw18cac008/img/logos/belkin-wemo-logo.png)
 
@@ -358,7 +358,7 @@ To encourage a healthy working relationship with the security research community
 * Perform security tests on their own Belkin products.
 * Perform security tests on Belkin products with the consent of the owner of the product.
 
-![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw84296564/images/brand/belkin_logo.svg)
+![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw8d26f733/images/brand/belkin_logo.svg)
 
 Welcome. Would you like to be redirected to the Belkin GB website?
 
@@ -372,7 +372,7 @@ NO
 
  Save Preferences
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw64cd0cf2/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dwda338c86/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Account
 
@@ -466,7 +466,7 @@ Your selection has been submitted.
 
 © Belkin 2024  |  All Rights Reserved | [Legal & Privacy](https://www.belkin.com/legal/) | [Your Privacy Choices](#)
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw119f0893/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw3c911a6e/images/globe-white.svg) United States
 
 Change region
 
