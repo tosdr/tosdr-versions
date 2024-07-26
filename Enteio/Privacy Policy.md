@@ -283,7 +283,7 @@ Ente is a beautiful, private cloud for your memories, with apps for mobile, desk
 
 **Open Source**[Mobile](https://github.com/ente-io/ente/tree/main/mobile#readme)[Web](https://github.com/ente-io/ente/tree/main/web#readme)[Desktop](https://github.com/ente-io/ente/tree/main/desktop#readme)[CLI](https://github.com/ente-io/ente/tree/main/cli#readme)
 
-**Products**[Photos](https://ente.io/download)[Auth](https://ente.io/auth)[LockerComing Soon](https://locker.ente.io/)LegacyComing Soon
+**Products**[Photos](https://ente.io/download)[Auth](https://ente.io/auth)LegacyComing Soon
 
 **Features**[Family plans](https://ente.io/blog/family-plans)[Sharing](https://ente.io/faq/features/share/)[Collaboration](https://ente.io/blog/collaborative-albums)Magic SearchComing Soon
 
