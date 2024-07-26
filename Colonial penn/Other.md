@@ -21,6 +21,8 @@
         
         2. Get started with a free insurance quote
             
+              
+            
             State
             
             Alabama Alaska Arizona Arkansas California Colorado Connecticut D.C. Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin Wyoming
@@ -266,8 +268,6 @@ Life Insurance
 [Life Insurance Basics](https://colonialpenn.com/products/insurance)
 
 [Guaranteed Acceptance Life Insurance](https://colonialpenn.com/products/guaranteedacceptance)
-
-[Download Application](javascript:void(0);)
 
 #### Colonial Penn Life Insurance Company
 
