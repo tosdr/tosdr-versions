@@ -359,7 +359,7 @@ Need assistance about a service or product?
 
 Read](https://www.cira.ca/en/support/)
 
-3,385,239
+3,386,292
 
 Domains registered
 
