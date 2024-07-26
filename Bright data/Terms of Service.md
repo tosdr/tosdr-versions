@@ -1,3 +1,5 @@
+[Accessibility Menu](#) [skip to content](#site-content)
+
 [](https://brightdata.com/)
 
 [en](#lang_popup)
@@ -200,16 +202,16 @@
         
         * [Web Unlocker
             
-            Starts from $1.89/CPM](https://brightdata.com/pricing/web-unlocker)
+            Starts from $1.89/1k req](https://brightdata.com/pricing/web-unlocker)
         * [Scraping Browser
             
             Starts from $5.29/GB](https://brightdata.com/pricing/scraping-browser)
         * [SERP API
             
-            Starts from $1.89/CPM](https://brightdata.com/pricing/serp)
+            Starts from $1.89/1k req](https://brightdata.com/pricing/serp)
         * [Scraping Functions
             
-            Starts from $2.7/CPM](https://brightdata.com/pricing/web-scraper)
+            Starts from $2.7/1k req](https://brightdata.com/pricing/web-scraper)
     * Data
         
         * [Dataset Marketplace
@@ -566,5 +568,7 @@ Bright Data, Inc., 500 7th Ave, 9th Floor Office 9A1234, New York, NY 10018, Uni
         
         Tag
         
+
+Accessibility Menu
 
 © Copyright 2024 Bright Data Ltd. | All rights reserved
