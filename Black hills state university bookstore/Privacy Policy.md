@@ -159,7 +159,7 @@ Spearfish, SD 57799-9001
 
 **Contact** - Please direct all privacy related questions and concerns to the following address:
 
-Michael Jastorff  
+Justin Nauta  
 University Bookstore  
 1200 University Street Unit 9001  
 Spearfish, SD 57799-9001
@@ -188,7 +188,7 @@ If you do not agree with the terms and conditions of this Agreement, you must im
 
 7\. This Agreement represents the entire agreement between you and Bookstore regarding the use of the Site.
 
-Copyright (c) 2006 University Bookstore. All rights reserved.
+Copyright (c) 2025 University Bookstore. All rights reserved.
 
 [back to top](#content)
 
