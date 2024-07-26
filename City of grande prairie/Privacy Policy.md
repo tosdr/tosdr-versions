@@ -2,7 +2,7 @@
 
 Notice | [FIRE BAN IN EFFECT](https://www.cityofgp.com/alerts/fire-ban-effect-0)
 
-Notice | [Complete the 2024 Municipal Census now!](https://www.cityofgp.com/alerts/complete-2024-municipal-census-now)
+Notice | [Jasper Evacuee Information](https://www.cityofgp.com/alerts/jasper-evacuee-information)
 
 Quick Menu
 ----------
