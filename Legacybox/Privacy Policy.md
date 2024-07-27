@@ -4,7 +4,7 @@
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
-FLASH SALE – 50% OFF LEGACYBOX WITH CODE: **HALF** 50% OFF LEGACYBOX WITH CODE: **HALF** Plus, get an extra 10% off with code GETLB10
+GET IT RIGHT. (AS IN RIGHT NOW!) 50% OFF LEGACYBOX FOR A LIMITED TIME Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,9 +14,9 @@ FLASH SALE – 50% OFF LEGACYBOX WITH CODE: **HALF** 50% OFF LEGACYBOX WITH CODE
 
 00 SEC
 
-DIGITIZE TODAY FOR JUST $36 Plus, get an extra 10% off with code GETLB10
+50% OFF LEGACYBOX FOR A LIMITED TIME Plus, get an extra 10% off with code GETLB10
 
-[SHOP SALE >](https://legacybox.com/products/legacybox-digitizing-kit)
+[SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/logo.svg?v=1684795981)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 ===============================================================================================================================================================================================================================================================================================================
@@ -27,13 +27,13 @@ Suggested
 * [My Orders](https://legacybox.com/pages/order-tracking)
 * [FAQs](https://legacybox.com/pages/frequently-asked-questions)
 
-[MY ORDERS](https://legacybox.com/pages/order-tracking)
+[My Orders](https://legacybox.com/pages/order-tracking)
 
 #### Track Your Order
 
 We know how important every home movie and photo is, so we’ve pioneered our very own, industry leading, online tracking system.
 
-Track It [Trouble logging in?](https://my.legacybox.com/activate/)
+Track it [Trouble logging in?](https://my.legacybox.com/activate/)
 
 #### Login to Legacybox Backup
 
@@ -53,7 +53,7 @@ $59.99 ~$66.98~
 
 $59.99 $66.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -63,7 +63,7 @@ $279.99 ~$301.98~
 
 $279.99 $301.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
@@ -73,7 +73,7 @@ $559.99 ~$603.98~
 
 $559.99 $603.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
 Most Popular
 
@@ -111,7 +111,7 @@ You Fill
 
 We Digitize
 
-You Enjoy
+We Digitize
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
@@ -165,7 +165,7 @@ Professionally digitized, future-proof, & ready to relive.™ Choose what you’
 
 We know how important every home movie and photo is, so we’ve pioneered our very own, industry leading, online tracking system.
 
-Track It [Trouble logging in?](https://my.legacybox.com/activate/)
+Track it [Trouble logging in?](https://my.legacybox.com/activate/)
 
 #### Login to Legacybox Backup
 
@@ -186,7 +186,7 @@ $59.99 ~$66.98~
 
 $59.99 $66.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -196,7 +196,7 @@ $279.99 ~$301.98~
 
 $279.99 $301.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
@@ -206,7 +206,7 @@ $559.99 ~$603.98~
 
 $559.99 $603.98
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
+[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
 Most Popular
 
@@ -242,7 +242,7 @@ You Fill
 
 We Digitize
 
-You Enjoy
+We Digitize
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
@@ -431,7 +431,7 @@ By regular mail:             Legacybox
 
                                     Chattanooga, TN 37402
 
-### About Us
+### About us
 
 * [Our Story](https://legacybox.com/pages/our-story)
 * [Jobs](https://legacybox.com/pages/careers)
@@ -446,7 +446,7 @@ By regular mail:             Legacybox
 * [Activate My Order](https://legacybox.com/pages/activate)
 * [Offers & Promotions](https://legacybox.com/pages/offers-promotions)
 
-### Learn More
+### Learn more
 
 * [Pricing](https://legacybox.com/pages/pricing)
 * [How it works](https://legacybox.com/pages/how-it-works)
