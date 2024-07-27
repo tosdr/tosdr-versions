@@ -218,8 +218,7 @@ If you have additional privacy questions or if you are otherwise concerned with 
 
 **hear.com LLC**
 
-**396 Alhambra Circle, Suite 600**
-
+**396 Alhambra Circle, Suite 1200**  
 **Coral Gables, Florida 33134**
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
