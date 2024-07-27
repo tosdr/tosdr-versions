@@ -34,7 +34,7 @@ Para você ficar no controle inclusive da utilização da nossa plataforma e dos
 
 Te aconselhamos também a acessar a versão completa dos Termos de Uso, clicando no botão abaixo:
 
-[Acessar a versão completa](https://drive.google.com/file/d/1VEB6cp9uej3SUs9tzyLMSyf_wNkjgCDN/view?usp=sharing)
+[Acessar a versão completa](https://www.mobills.com.br/blog/wp-content/uploads/2024/07/Termos-de-Uso-Full.pdf)
 
 Como utilizar ou contratar os serviços da Mobills
 -------------------------------------------------
