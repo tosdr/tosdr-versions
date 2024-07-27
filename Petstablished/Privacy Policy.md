@@ -64,14 +64,14 @@ Remember me
         Search pet's microchip](https://petlover.petstablished.com/microchip_search)
     * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip.svg)
         
-        Microchip Registration
-        ======================
+        Register Microchip
+        ==================
         
         Register your pet's microchip](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number)
     * [![smart tag icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Smart Wag Tag.svg)
         
-        Smart Wag Tag
-        =============
+        Register Smart Tag
+        ==================
         
         Protect your pet the smart way](https://petlover.petstablished.com/smart_tag_registrations.confirm_smart_tag_code)
     * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Order.svg)
@@ -122,14 +122,14 @@ Remember me
         Search pet's microchip](https://petlover.petstablished.com/microchip_search)
     * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip.svg)
         
-        Microchip Registration
-        ======================
+        Register Microchip
+        ==================
         
         Register your pet's microchip](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number)
     * [![smart tag icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Smart Wag Tag.svg)
         
-        Smart Wag Tag
-        =============
+        Register Smart Tag
+        ==================
         
         Protect your pet the smart way](https://petlover.petstablished.com/smart_tag_registrations.confirm_smart_tag_code)
     * [![microchip registration icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Order.svg)
