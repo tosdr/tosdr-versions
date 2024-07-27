@@ -1,6 +1,4 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
-
-    
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
 
                     
 
@@ -302,13 +300,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3340 reviews](https://omaxhealth.com/pages/reviews)
+[3347 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3026)
+(3032)
 
 5%
 
@@ -324,36 +322,38 @@ Go to product page
 
 1%
 
-(49)
+(50)
 
-2149
+2156
 
-C
+B
 
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
 
-C B.
+Becky J.
 
-**Helps Relieve the Pain**
+**This stuff is amazing!**
 
-My husband and I use for muscle and joint pain. He uses daily and we have not found another product that helps relieve pain as quickly as this product. We just signed up for the automatic renewal every 6 months. Great product!!
+I purchased this roll on CBD for my neck that gets stiff and sore so often. It helps SO much! It’s not too menthol-y which I like. And it works like magic to help tension and pain go away. I will definitely be a repeat customer!
+
+J
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+J
+
+**Extra Strength 500mg**
+
+I am bone on bone in both my knees. Not ready to commit to knee replacement surgery. I have tried many topical and oral products, all helped minimally. CryoFreeze 500 mg Hemp roll-on is beyond amazing. Normally apply 1-2x daily and am having painless days. Thank you for making such a wonderful product!
 
 V
 
-[O-Shot® CBD Arousal Oil for Women](https://omaxhealth.com/products/o-shot#judgeme_product_reviews)
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
 
-V.P.
+Valencia C.
 
-I never want to be without this!! That is why I signed up for the subscription!
+**Husband loves it!**
 
-Y
-
-[CryoFreeze® X-Strength Roll-On & Cream Duo](https://omaxhealth.com/products/cryofreeze-x-strength-roll-on-cream-duo#judgeme_product_reviews)
-
-Yvonne L.
-
-**This Combo is 5 STAR**
-
-The cream is fantastic. It is a wonderful compliment to the roll on. The menthol cooling effect of the cream is soothing to my 76 yo aches and pains.
+I bought this product for my hubs after seeing an influencer talk about it. He says it's the absolute best and said we must always keep these in stock.
 
 Load More
