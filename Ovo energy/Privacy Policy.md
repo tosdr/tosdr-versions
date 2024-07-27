@@ -26,11 +26,7 @@
     
     * [Our Story](https://www.ovoenergy.com.au/about/)
         
-    * [Plan Zero](https://company.ovo.com/planzero/)
-        
     * [Charity](https://pages.ovoenergy.com.au/charity)
-        
-    * [OVO Foundation](https://www.ovofoundation.org.uk/)
         
     
 * Help
@@ -249,7 +245,7 @@ UPDATED ON: 05.03.2024
 
 [](https://www.ovoenergy.com.au/)
 
-[](https://www.facebook.com/OVO-Energy-Australia-835260970188665/)[](https://twitter.com/ovoenergy_au)[](https://www.linkedin.com/showcase/14801150)
+[](https://www.facebook.com/OVO-Energy-Australia-835260970188665/)[](https://www.instagram.com/ovoenergy_aus)[](https://twitter.com/ovoenergy_au)
 
 ###### Products
 
@@ -275,12 +271,6 @@ UPDATED ON: 05.03.2024
 ###### About Us
 
 * [Our story](https://www.ovoenergy.com.au/about/)
-    
-* [OVO Plan Zero](https://www.ovo.com/planzero)
-    
-* [OVO Group](https://www.ovo.com/)
-    
-* [OVO UK](https://www.ovoenergy.com/)
     
 
 ###### Help & Support
