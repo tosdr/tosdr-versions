@@ -170,9 +170,8 @@ You understand and agree that we are not responsible for any Submissions.  We a
 Our designated agent is:
 
 By Mail: Pew Research Center  
-1615 L Street, NW  
-Suite 800  
-Washington, D.C. 20036  
+901 E Street, NW  
+Washington, D.C. 20004  
 Attn: Director, Legal Affairs
 
 By email: info@pewresearch.org
@@ -222,8 +221,8 @@ Any rights not expressly granted herein are reserved.
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
 
-1615 L St. NW, Suite 800  
-Washington, DC 20036  
+901 E St. NW, Suite 300  
+Washington, DC 20004  
 USA  
 [(+1) 202-419-4300 | Main](tel:+12024194300)  
 [(+1) 202-857-8562 | Fax](tel:+12028578562)  
