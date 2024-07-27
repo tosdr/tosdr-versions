@@ -282,7 +282,6 @@ Floor Plans
 
 * [Select Multiple](#)
     * [ ]  A2 - One Bedroom
-    * [ ]  A2 Plus - One Bedroom
     * [ ]  A3 - One Bedroom
     * [ ]  A4 - One Bedroom + Den
     * [ ]  B1 Plus - Two Bedroom
