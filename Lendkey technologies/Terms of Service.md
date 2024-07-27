@@ -87,7 +87,7 @@ You agree that any information you provide us will be governed by the Terms of U
 
 **Receipt of Communication.** You will be deemed to have received an electronic communication from us when we send it to the email address you provided us. You will be deemed to have received an electronic communication from us when we post this communication on our Website.
 
-**Texting.** You may view our [Texting Terms of Use](https://www.lendkey.com/text-terms-of-use) by following the hyperlink.  By providing us with your mobile number and opting in when you submit your loan application, you give us permission to send you account-related text messages such as payment reminders and notifications in conjunction with the services you have requested.  Please note the following:
+**Texting.** You may view our [Texting Terms of Use](https://www.lendkey.com/text-terms-of-use) by following the hyperlink. By providing us with your mobile number and opting in when you submit your loan application, you give us permission to send you text messages regarding your application and loan, our products and services, and research-related purposes (e.g., customer surveys). Please note the following:
 
 * The number of text messages may vary by account.
 * Text message and data rates may apply.
