@@ -42,6 +42,10 @@
     
     Latest News Releases
     
+    July 26, 2024
+    
+    [Newell Brands Announces Second Quarter 2024 Results](http://ir.newellbrands.com/news-releases/news-release-details/newell-brands-announces-second-quarter-2024-results)
+    
     July 24, 2024
     
     [Sharpie® is Giving Away Half a Million Markers to Inspire the Next Generation of Creativity](http://ir.newellbrands.com/news-releases/news-release-details/sharpier-giving-away-half-million-markers-inspire-next)
@@ -53,10 +57,6 @@
     June 26, 2024
     
     [Paper Mate® Helps Thousands Feel the Joy™ with a Movie Ticket Sweepstakes to Celebrate Disney and Pixar's Inside Out 2](http://ir.newellbrands.com/news-releases/news-release-details/paper-mater-helps-thousands-feel-joytm-movie-ticket-sweepstakes)
-    
-    June 05, 2024
-    
-    [DYMO PARTNERS WITH TAYLOR TO OFFER CUSTOM PRE-PRINTED LABELS FOR DYMO LABELWRITER 5 SERIES PRINTERS](http://ir.newellbrands.com/news-releases/news-release-details/dymo-partners-taylor-offer-custom-pre-printed-labels-dymo)
     
     [View All Press Releases](http://ir.newellbrands.com/news-releases)
     
@@ -218,27 +218,6 @@ NOTE: This information is provided exclusively for providing Service Provider wi
 * [Terms of Use South Korea (English)](https://www.newellbrands.com/terms-of-use/en-kr)
 * [Terms of Use Thailand (English)](https://www.newellbrands.com/terms-of-use/en-th)
 * [Terms of Use Vietnam (English)](https://www.newellbrands.com/terms-of-use/en-vn)
-
-### Trade Terms and Conditions of Sale referenced in standard contracts
-
-* [Terms & Conditions Australia](https://www.newellbrands.com/dA/9d6162275b/asset/tcs-newell-australia-29th-nov-2017.pdf)
-* [Terms & Conditions New Zealand](https://www.newellbrands.com/dA/150a131134/asset/tcs-newell-nz-29th-nov-2017.pdf)
-* [Terms & Conditions Czech](https://www.newellbrands.com/terms-and-conditions/czech)
-* [Terms & Conditions Danish](https://www.newellbrands.com/terms-and-conditions/danish)
-* [Terms & Conditions German](https://www.newellbrands.com/terms-and-conditions/german)
-* [Terms & Conditions English](https://www.newellbrands.com/terms-and-conditions/english)
-* [Terms & Conditions Spanish](https://www.newellbrands.com/terms-and-conditions/spanish)
-* [Terms & Conditions Finnish](https://www.newellbrands.com/terms-and-conditions/finnish)
-* [Terms & Conditions Hungarian](https://www.newellbrands.com/terms-and-conditions/hungarian)
-* [Terms & Conditions Italian](https://www.newellbrands.com/terms-and-conditions/italian)
-* [Terms & Conditions Dutch](https://www.newellbrands.com/terms-and-conditions/dutch)
-* [Terms & Conditions Norwegian](https://www.newellbrands.com/terms-and-conditions/norwegian)
-* [Terms & Conditions Polish](https://www.newellbrands.com/terms-and-conditions/polish)
-* [Terms & Conditions Portuguese](https://www.newellbrands.com/terms-and-conditions/portuguese)
-* [Terms & Conditions Swedish](https://www.newellbrands.com/terms-and-conditions/swedish)
-* [Terms & Conditions France SAS](https://www.newellbrands.com/terms-and-conditions/cgvnwlfrancesas)
-* [Terms & Conditions French](https://www.newellbrands.com/terms-and-conditions/french)
-* [Terms & Conditions English UK Baby Jogger](https://www.newellbrands.com/terms-and-conditions/english-uk-baby-jogger)
 
 ### Follow us on our social channels:
 
