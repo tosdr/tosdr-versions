@@ -2,6 +2,7 @@
 
 [![Fathom Analytics](/assets/src/brand/fathom-analytics.svg)](https://pjrvs.com/ "Fathom Analytics (right click to view brand guidelines)")
 
+* [Pricing](https://pjrvs.com/pricing "See our pricing")
 * [Free trial](https://app.usefathom.com/register "Free trial of Fathom Analytics")
 * [Log in](https://app.usefathom.com/ "Log into Fathom Analytics")
 * [Menu](# "Navigation menu")
