@@ -606,7 +606,7 @@ Browse
         * [Gaming Desks](https://www.maplin.co.uk/collections/gaming-desks)
         * [Computer Desks](https://www.maplin.co.uk/collections/office-desks)
         * [Corner Desks](https://www.maplin.co.uk/collections/corner-desks)
-        * [Storage Desks](https://www.maplin.co.uk/collections/storage)
+        * [Storage Cabinets](https://www.maplin.co.uk/collections/storage)
         * [Desk Accessories](https://www.maplin.co.uk/collections/desk-accessories)
         
     * Chairs
@@ -1383,7 +1383,7 @@ Browse
     * [Gaming Desks](https://www.maplin.co.uk/collections/gaming-desks)
     * [Computer Desks](https://www.maplin.co.uk/collections/office-desks)
     * [Corner Desks](https://www.maplin.co.uk/collections/corner-desks)
-    * [Storage Desks](https://www.maplin.co.uk/collections/storage)
+    * [Storage Cabinets](https://www.maplin.co.uk/collections/storage)
     * [Desk Accessories](https://www.maplin.co.uk/collections/desk-accessories)
     
     [Chairs](https://www.maplin.co.uk/collections/chairs)
