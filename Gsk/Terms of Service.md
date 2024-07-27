@@ -96,7 +96,7 @@ Location
         
     * [R&D locations](https://www.gsk.com/en-gb/innovation/rd-locations/)
     
-    [SPOTLIGHT ON Behind the science magazine ![Scientist in a vaccine manufacturing lab](/media/9932/vaccine-manufacturing-production-line-1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Our leading scientists ![Tony Wood](/media/8313/tony-16x9.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/our-leading-scientists/) 
+    [SPOTLIGHT ON Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Our leading scientists ![Tony Wood](/media/8313/tony-16x9.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/our-leading-scientists/) 
     
     Close menu
     
@@ -245,7 +245,7 @@ Location
     * [Our social media](https://www.gsk.com/en-gb/media/social-media/)
     * [RSS feeds](https://www.gsk.com/en-gb/media/rss-feeds/)
     
-    [FEATURED SECTION Behind the science magazine ![Scientist in a vaccine manufacturing lab](/media/9932/vaccine-manufacturing-production-line-1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [SPOTLIGHT ON Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
+    [FEATURED SECTION Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [SPOTLIGHT ON Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
     
     Close menu
     
