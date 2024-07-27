@@ -903,12 +903,12 @@ Footer
 
 ### Campuses
 
-* [Digital campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/digital?city=online)
-* [Gold Coast campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast)
-* [Logan campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/logan)
-* [Mount Gravatt campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/mt-gravatt)
-* [Nathan campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/nathan)
-* [South Bank campus](https://www.griffith.edu.au/about-griffith/campuses-facilities/south-bank)
+* [Digital](https://www.griffith.edu.au/about-griffith/campuses-facilities/digital?city=online)
+* [Gold Coast](https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast)
+* [Logan](https://www.griffith.edu.au/about-griffith/campuses-facilities/logan)
+* [Mount Gravatt](https://www.griffith.edu.au/about-griffith/campuses-facilities/mt-gravatt)
+* [Nathan](https://www.griffith.edu.au/about-griffith/campuses-facilities/nathan)
+* [South Bank](https://www.griffith.edu.au/about-griffith/campuses-facilities/south-bank)
 
 ### Getting to Griffith
 
