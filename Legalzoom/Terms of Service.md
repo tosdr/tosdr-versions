@@ -203,14 +203,13 @@ Thank you for subscribing to our newsletter!
 * [Speak with an attorney](https://www.legalzoom.com/attorneys/)
 * [Join our attorney network](https://www.legalzoom.com/join-attorney-network.html)
 * [Security](https://www.legalzoom.com/security)
-* [See all services](https://www.legalzoom.com/all-products.html)
 
 [Learn more](#footer-learn-more)
 
 * [Legal help articles](https://www.legalzoom.com/articles/article-center)
 * [Legal Forms](https://www.legalzoom.com/forms)
 * [Legal Form Templates](https://www.legalzoom.com/templates)
-* [LegalZoom vs ZenBusiness](https://www.legalzoom.com/legalzoom-vs-zenbusiness)
+* [LegalZoom vs ZenBusiness](https://www.legalzoom.com/compare/legalzoom-vs-zenbusiness)
 
 [![](/resources/img/lzr/nav/lz-logo-white.svg)](https://www.legalzoom.com/ "LegalZoom")
 
