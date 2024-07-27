@@ -1,7 +1,7 @@
 **Privacy Policy**
 ------------------
 
-At Impact Buyer ("AM Productions, LLC"), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Impact Buyer and how we use it.
+At Impact Buyer ("impactbuyer.com"), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Impact Buyer and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
@@ -54,10 +54,6 @@ Some of advertisers on our site may use cookies and web beacons. Our advertising
 * Yahoo
     
     [https://legal.yahoo.com/us/en/yahoo/privacy/index.html](https://legal.yahoo.com/us/en/yahoo/privacy/index.html)
-    
-* Kelkoo Group
-    
-    [https://www.kelkoogroup.com/privacy-policy](https://www.kelkoogroup.com/privacy-policy/)
     
 * RevContent
     
