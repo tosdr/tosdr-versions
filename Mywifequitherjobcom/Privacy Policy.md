@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [548: Amazon Declares War On Temu And Screws All Amazon FBA Sellers](https://mywifequitherjob.com/episode548/)
 * [Walmart Sells Out To China And Betrays US Sellers To Fight Temu](https://mywifequitherjob.com/walmart-vs-temu/)
 * [Amazon Just Declared War On Temu And Screwed All FBA Sellers](https://mywifequitherjob.com/amazon-vs-temu/)
 * [547: The Formula For Running A Record-Breaking Sale With Email Marketing](https://mywifequitherjob.com/episode547/)
@@ -211,7 +212,6 @@ Related Content
 * [536: US Manufacturing Is NOT Dead! How To Make Textiles Profitably In The USA With Annette DeLancey](https://mywifequitherjob.com/episode536/)
 * [Is Lazada Legit And Safe? Read This Before You Buy](https://mywifequitherjob.com/is-lazada-legit/)
 * [535: The Death of Google Search: Here’s What’s Happening](https://mywifequitherjob.com/episode535/)
-* [534: Listen To This Before You Buy From Alibaba – The Ugly Truth](https://mywifequitherjob.com/episode534/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=698736795)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=2048837536)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
