@@ -183,7 +183,7 @@ Please enter a search term
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
     * [Medtech Express - medtech startup documentation](https://www.pinsentmasons.com/solutions/medtech-express)
-    * [Pensions Services](https://www.pinsentmasons.com/solutions/pensions-services)
+    * [Pensions Solutions](https://www.pinsentmasons.com/solutions/pensions-services)
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
     * [Vario](https://www.pinsentmasons.com/solutions/vario)
