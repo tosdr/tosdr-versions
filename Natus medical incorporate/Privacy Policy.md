@@ -18,7 +18,7 @@
     
     [Management Team](#)
     
-    [Neuro Management](https://natus.com/about-us/management-team/neuro-management-team/)
+    [Neuro Management](https://natus.com/neuro-management-team/)
     
     [Sensory Management](https://natus.com/about-us/management-team/sensory-management-team/)
     
@@ -195,7 +195,7 @@
 
 [Management Team](#)
 
-[Neuro Management](https://natus.com/about-us/management-team/neuro-management-team/)
+[Neuro Management](https://natus.com/neuro-management-team/)
 
 [Sensory Management](https://natus.com/about-us/management-team/sensory-management-team/)
 
