@@ -265,7 +265,7 @@ visit healthygamerfoundation.org
 
 **Community**
 
-[Foundation](https://www.healthygamerfoundation.org/)[Impact Report](https://www.healthygamer.gg/impact-report)[Joining Discord](https://healthygamer.gg/discord)[Patch Notes](https://www.healthygamer.gg/patch-notes/patch-notes-5-27?__hstc=17958374.9aa0328023dacb95a83bfa1a905ef679.1675795271259.1677083630186.1677087387631.14&__hssc=17958374.2.1677087387631&__hsfp=2498674769)
+[Foundation](https://www.healthygamerfoundation.org/)[Impact Report](https://www.healthygamer.gg/impact-report)[Joining Discord](https://healthygamer.gg/discord)[Patch Notes](https://www.healthygamer.gg/patch-notes)
 
 **Legal**
 
