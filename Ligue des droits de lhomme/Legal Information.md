@@ -227,7 +227,7 @@ Suivez-nous sur :
 [](https://www.facebook.com/ldhfrance "Compte Facebook de la LDH")[](https://twitter.com/LDH_Fr "Compte X de la LDH")[](https://piaille.fr/@LDH_Fr "Compte Mastodon de la LDH")
 
 * [](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&t=Mentions%20L%C3%A9gales)
-* [5](http://twitter.com/share?text=Mentions%20L%C3%A9gales&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&via=LDH_Fr)
+* [](http://twitter.com/share?text=Mentions%20L%C3%A9gales&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&via=LDH_Fr)
 * [](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&title=Mentions%20L%C3%A9gales)
 * 4
     
@@ -235,16 +235,12 @@ Suivez-nous sur :
 Share This
 
 * [Facebook](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&t=Mentions%20L%C3%A9gales)
-* [Twitter
-    
-    5](http://twitter.com/share?text=Mentions%20L%C3%A9gales&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&via=LDH_Fr)
+* [Twitter](http://twitter.com/share?text=Mentions%20L%C3%A9gales&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&via=LDH_Fr)
 * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&title=Mentions%20L%C3%A9gales)
 * Like
     
     4
     
-
-[](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
 ###### Soutenez les combats de la LDH
 
