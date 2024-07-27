@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-RAGEQUITTING LIFE FOR ONE ON GTAFORUMS](https://gtaforums.com/)
+ANOTHER SOUL SAVED!](https://gtaforums.com/)
 
 * [](#)
 
@@ -12,7 +12,7 @@ RAGEQUITTING LIFE FOR ONE ON GTAFORUMS](https://gtaforums.com/)
 
 * [Home](https://gtaforums.com/ "Home")
 
-[GTA Online New Bonuses for 18th July 2024 - "Fore!" Madrazo Needs Your Help With Further Bounty Work, Canis Castigator Out on All Platforms, New Community Series, Hotring Bonuses & More!](https://gtaforums.com/topic/998030-weekly-event-18th-july-2024-fore-madrazo-needs-your-help-with-further-bounty-work-canis-castigator-out-on-all-platforms-new-community-series-hotring-bonuses-more/)
+[GTA Online New Bonuses for 25th July 2024 - Pizza This! Pizza Delivery Missions Available, a New Community Challenge, LS Tags are Introduced, the Vapid Dominator FX, Bonuses & More!](https://gtaforums.com/topic/998127-weekly-event-25th-july-2024-pizza-this-pizza-delivery-missions-available-a-new-community-challenge-ls-tags-are-introduced-the-vapid-dominator-fx-bonuses-more/)
 
 Registration Terms
 ==================
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=adbd4471837b07efdf44e23327be36bd)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=ee1ce2950a8d5eab995268686f7ffc19)
