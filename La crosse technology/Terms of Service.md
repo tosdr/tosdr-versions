@@ -250,15 +250,15 @@ Sign Up to Receive Offers or Promotions
 
 Enter your email  Subscribe
 
-![La Crosse Technology](//www.lacrossetechnology.com/cdn/shop/t/47/assets/LCT-Main.svg?v=165054827622579125091697226451)
+![La Crosse Technology](//www.lacrossetechnology.com/cdn/shop/t/51/assets/LCT-Main.svg?v=165054827622579125091720814445)
 
-![La Crosse View](//www.lacrossetechnology.com/cdn/shop/t/47/assets/LCT-View.svg?v=161022907286120480231697226451)
+![La Crosse View](//www.lacrossetechnology.com/cdn/shop/t/51/assets/LCT-View.svg?v=161022907286120480231720814445)
 
-![La Crosse Clock Co](//www.lacrossetechnology.com/cdn/shop/t/47/assets/LCT-Clocks.svg?v=173627223407074681601697226451)
+![La Crosse Clock Co](//www.lacrossetechnology.com/cdn/shop/t/51/assets/LCT-Clocks.svg?v=173627223407074681601720814445)
 
-![La Crosse Alerts](//www.lacrossetechnology.com/cdn/shop/t/47/assets/LCT-Alerts.svg?v=37137617393900174771697226451)
+![La Crosse Alerts](//www.lacrossetechnology.com/cdn/shop/t/51/assets/LCT-Alerts.svg?v=37137617393900174771720814445)
 
-![Equity](//www.lacrossetechnology.com/cdn/shop/t/47/assets/Equity.svg?v=151195825788892313841697226451)
+![Equity](//www.lacrossetechnology.com/cdn/shop/t/51/assets/Equity.svg?v=151195825788892313841720814445)
 
 Account
 
