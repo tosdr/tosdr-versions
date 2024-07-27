@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1215690039347338&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=1215690039347338&ev=PageView&noscript=1)  
 
 [](https://mckl.edu.my/)
 
@@ -20,8 +20,6 @@
 * [Contact Us](https://mckl.edu.my/connect/contact-us/)
 
 ![mckl page-banner](https://mckl.edu.my/wp-content/uploads/2021/06/pagebanner-sky.jpg)
-
-![mckl page-banner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
 Website Terms and Conditions
 ============================
@@ -94,8 +92,6 @@ You are consenting to our processing of your personal data when you choose to sh
 
 ![](https://mckl.edu.my/wp-content/uploads/2024/07/MCKL-KL-horizontal-logo-with-motto-WHITE-01-e1721211491663-300x90.png)
 
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%2090%22%3E%3C/svg%3E)
-
 ##### MCKL Information
 
 * [Vision & Mission](https://mckl.edu.my/about-mckl/vision-mission/)
@@ -123,5 +119,3 @@ You are consenting to our processing of your personal data when you choose to sh
 © 2024 METHODIST COLLEGE KUALA LUMPUR (DK144(W)) ALL RIGHTS RESERVED. | [Legal Policies and Notices](https://mckl.edu.my/legal-policies-and-notices/) | WESLEYAN EDUCATION SERVICES SDN BHD (200101005044 / 540800-U)
 
 ![](https://mckl.edu.my/wp-content/uploads/2023/09/iso-9001-2015-bureau-veritas-certification-300x114.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20128%2085.333333333333%22%3E%3C/svg%3E)
