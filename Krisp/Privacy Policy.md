@@ -13,17 +13,17 @@
     
     * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/noise-cancellation/)
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
-    * [Call Center Transcription Securely transcribes the agent-customer conversations on device and in real time.](https://krisp.ai/call-center-transcription/)
+    * [Speech-to-Text and Recordings Securely converts the agent-customer calls into text for further on-premises processing](https://krisp.ai/speech-to-text-call-center/)
     
 * [Use cases](javascript:void(0))
     
     * [Individuals and Freelancers No distractions: clear calls accompanied by transcriptions and meeting notes.](https://krisp.ai/individuals-freelancers/)
-    * [Sales and Success Focus on selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
     * [Hybrid Work Elevating hybrid teams with clear communication and solid accountability.](https://krisp.ai/hybrid-work/)
-    * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
+    * [Sales and Success Focus on selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
+    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
     * [Call Center (BPO) Elevated CX and AX accompanied with the AI-powered Noise Cancellation, Transcription, etc.](https://krisp.ai/contact-center/)
     * [Call Center (Enterprise) Award-winning Voice AI solutions designed to elevate customer and agent experience.](https://krisp.ai/contact-center/)
-    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
+    * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
     
 * [Pricing](https://krisp.ai/pricing/)
 * [Blog](https://krisp.ai/blog)
@@ -52,19 +52,19 @@ Get Krisp for free
     
     * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/noise-cancellation/)
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
-    * [Call Center Transcription Securely transcribes the agent-customer conversations on device and in real time.](https://krisp.ai/call-center-transcription/)
+    * [Speech-to-Text and Recordings Securely converts the agent-customer calls into text for further on-premises processing](https://krisp.ai/speech-to-text-call-center/)
     
 * [Use cases](javascript:void(0))
     
     Use cases
     
     * [Individuals and Freelancers No distractions: clear calls accompanied by transcriptions and meeting notes.](https://krisp.ai/individuals-freelancers/)
-    * [Sales and Success Focus on Selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
     * [Hybrid Work Elevating Hybrid Teams with clear communication and solid accountability.](https://krisp.ai/hybrid-work/)
-    * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
+    * [Sales and Success Focus on Selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
+    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
     * [Call Center (BPO) Elevated CX and AX accompanied with the AI-powered Noise Cancellation, Transcription, etc.](https://krisp.ai/contact-center/)
     * [Call Center (Enterprise) Award-winning Voice AI solutions designed to elevate customer and agent experience.](https://krisp.ai/contact-center/)
-    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
+    * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
     
 * [Pricing](https://krisp.ai/pricing/)
 * [How it works?](#)
