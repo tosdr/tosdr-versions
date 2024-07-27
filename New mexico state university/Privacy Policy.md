@@ -200,7 +200,7 @@ New Mexico State University uses cookies and server log information to track use
 
 ### Additional Privacy Information
 
-* [NMSU’s Written Information Security Plan and Safeguarding Guidelines](https://arp.nmsu.edu/wp-content/uploads/sites/26/2021/11/NMSU-system-Written-Information-Security-Program.pdf)
+* [NMSU’s Written Information Security Plan and Safeguarding Guidelines](https://inside.nmsu.edu/itpolicies/wp-content/uploads/sites/51/2023/06/NMSU-Written-Info-Security-Plan-and-Guidelines-v4.0.pdf)
 
 ![Logo](../assets/svg/logos/logo-white_w_tagline-footer.svg)
 
