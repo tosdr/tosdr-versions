@@ -80,7 +80,7 @@ GoFundMe Terms of Service
 Questions about our terms? [Contact Us](https://support.gofundme.com/hc)
 ------------------------------------------------------------------------
 
-Our Terms of Service will be updated, and our updated Terms of Service will be effective starting on August 1, 2024. To view the updated Terms of Service, [click here](https://www.gofundme.com/c/gofundme-terms-of-service).
+Our Terms of Service will be updated, and our updated Terms of Service will be effective starting on September 1, 2024. To view the updated Terms of Service, [click here](https://www.gofundme.com/c/gofundme-terms-of-service).
 
 **Date of Last Revision: January 11, 2024**
 
