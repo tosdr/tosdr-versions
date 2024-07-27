@@ -136,7 +136,7 @@ MENUMENU
         * * Other Resources
                 * [Give Feedback](https://info.orcid.org/give-feedback/)
                 * [ORCID Statistics](https://info.orcid.org/resources/orcid-statistics/)
-                * [Outreach Resources](https://info.orcid.org/outreach-resources/)
+                * [ORCID Outreach Resources](https://info.orcid.org/outreach-resources/)
 * [News & Events](https://info.orcid.org/)
     * * * [News](https://info.orcid.org/)
                 * [ORCID News](https://info.orcid.org/category/orcid-news/)
