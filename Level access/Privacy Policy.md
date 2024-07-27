@@ -2,13 +2,13 @@
 
 Live webinar
 
-  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MjMzOjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MjM0OjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
+  ![Arrow Down](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_down.svg) ![Arrow Up](https://www.levelaccess.com/wp-content/themes/newptheme/assets/img/alert_arrow_up.svg) Toggle alert
 
 | Accessibility Outlook: Laws, Lawsuits, and Learnings Shaping Compliance in 2024 |
 
 [Register today](https://www.levelaccess.com/resources/webinar-accessibility-outlook-laws-lawsuits-and-learnings-shaping-compliance-in-2024/)
 
-[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MjU4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
+[![Level Access logo - Go to home page](https://www.levelaccess.com/wp-content/uploads/2023/11/light.svg)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -295,7 +295,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/svg+xml;nitro-empty-id=ODEwOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Level Access logo](https://www.levelaccess.com/wp-content/uploads/2023/11/light.svg)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -306,13 +306,13 @@ Arlington, VA 22201
 Follow us
 ---------
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODI5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](https://www.levelaccess.com/wp-content/uploads/2023/10/Frame-740.svg)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODM4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](https://www.levelaccess.com/wp-content/uploads/2023/10/youtube.svg)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODQ3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](https://www.levelaccess.com/wp-content/uploads/2023/10/linkedin.svg)](https://www.linkedin.com/company/level-access/)
 
-### Solutions
+Solutions
 
 * [Solutions Overview](https://www.levelaccess.com/solutions-overview/)
 * [Get Compliant](https://www.levelaccess.com/get-compliant/)
@@ -324,7 +324,7 @@ Follow us
 * [Accessibility for Retail and Consumer Brands](https://www.levelaccess.com/retail/)
 * [Accessibility for Software Vendors](https://www.levelaccess.com/accessibility-for-software-vendors/)
 
-### Insight & Resources
+nsight & Resources
 
 * [Insight and Resources](https://www.levelaccess.com/resources/)
 * [ADA Title II Compliance Resources](https://www.levelaccess.com/ada-title-ii-compliance-resources/)
@@ -338,7 +338,7 @@ Follow us
 * [Info Sheets](https://www.levelaccess.com/info-sheets/)
 * [Frequently Asked Questions](https://www.levelaccess.com/faq/)
 
-### Platform & Services
+Platform & Services
 
 * [Platform & Services Overview](https://www.levelaccess.com/platform-services-overview/)
 * [Auditing and Testing](https://www.levelaccess.com/auditing-and-testing/)
@@ -353,11 +353,11 @@ Follow us
 * [Integrations and API](https://www.levelaccess.com/integrations-and-api/)
 * [Governance and Program Management](https://www.levelaccess.com/governance-and-program-management/)
 
-### Customers
+Customers
 
 * [Customer Stories](https://www.levelaccess.com/customers/)
 
-### Company
+Company
 
 * [Company Overview](https://www.levelaccess.com/company/)
 * [Careers](https://www.levelaccess.com/careers/)
