@@ -30,7 +30,7 @@ Success Stories
 
 Resources
 
-[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Livestreams & Webinars](https://www.goguardian.com/live)[Federal Funding Resources](https://www.goguardian.com/funding-resource-hub)[Distance Learning Resources](https://www.goguardian.com/distance-learning)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
+[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Livestreams & Webinars](https://www.goguardian.com/training-and-webinars)[Federal Funding Resources](https://www.goguardian.com/funding-resource-hub)[Distance Learning Resources](https://www.goguardian.com/distance-learning)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
 
 Company
 
@@ -340,7 +340,7 @@ Resources
 * [Distance Learning Resources](https://www.goguardian.com/distance-learning)
 * [Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)
 * [Glossary of Technical Terms](https://www.goguardian.com/glossary)
-* [Livestreams & Webinars](https://www.goguardian.com/live)
+* [Livestreams & Webinars](https://www.goguardian.com/training-and-webinars)
 * [Conferences & Events](https://www.goguardian.com/events)
 * [Success Stories](https://www.goguardian.com/success-stories)
 * [Product Updates](https://www.goguardian.com/product-updates)
