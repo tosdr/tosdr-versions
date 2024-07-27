@@ -89,6 +89,7 @@ Manage Cookie Preferences Accept All Cookies
 * [MTN UG Commercial policies for interconnection](https://www.mtn.co.ug/terms-and-conditions/mtn-ug-commercial-policies-for-interconnection/)
 * [MoPesa](https://www.mtn.co.ug/momo/mopesa/)
 * [Smart Family](https://www.mtn.co.ug/terms-and-conditions/smart-family/)
+* [The Terms & Conditions for the MTN Pay Mpola Mpola Product](https://www.mtn.co.ug/terms-and-conditions/mtn-pay-mpola-mpola-product/)
 
 1\. THE AGREEMENT![1. THE AGREEMENT](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/svgs/accordion-icon.svg)
 
