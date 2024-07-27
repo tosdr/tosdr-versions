@@ -120,7 +120,7 @@ Still have doubts? [Check this instructions!](https://mylumma.com/pages/step-by-
 
 **Subtotal:**
 
-£0.00
+$0.00
 
 Click on "CONTINUE SHOPPING"  
 to add your Free Cup or Disc
