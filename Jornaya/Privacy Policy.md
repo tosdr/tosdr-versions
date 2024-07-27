@@ -188,6 +188,14 @@ Discover the data and insights to future-proof omnichannel personalization.
 Additional Resources to Guide You
 ---------------------------------
 
+[](https://marketing.verisk.com/identify-shoppers-earlier-in-the-funnel-with-inmarket-scores/ "Identify Shoppers Earlier in the Funnel with InMarket Scores")![Identify Shoppers Earlier in the Funnel with InMarket Scores](https://marketing.verisk.com/wp-content/uploads/2024/07/woman-online-research-insurance-shopping-2-1024x658.jpg)
+
+#### Identify Shoppers Earlier in the Funnel with InMarket Scores
+
+Enhance your ability to identify and engage those consumers that are most likely in-market for specific products and receptive to \[…\]
+
+[Read more](https://marketing.verisk.com/identify-shoppers-earlier-in-the-funnel-with-inmarket-scores/ "Read more")
+
 [](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Responsibly Enrich First-Party Data Through New Snowflake Native App")![Responsibly Enrich First-Party Data Through New Snowflake Native App](https://marketing.verisk.com/wp-content/uploads/2024/04/snowflake-partner-feature-2-1024x576.png)
 
 #### Responsibly Enrich First-Party Data Through New Snowflake Native App
@@ -203,14 +211,6 @@ Seamlessly infuse marketing workflows and advertising strategies with actionable
 How do you define data accuracy in your customer segmentation strategy? What makes personalization truly work? How do you remain \[…\]
 
 [Read more](https://marketing.verisk.com/how-marketers-can-build-industry-leading-customer-segmentation-strategies/ "Read more")
-
-[](https://marketing.verisk.com/lead-generation-experts-weigh-in-on-fccs-new-explicit-consent-rulings/ "Lead Generation Experts Weigh In on FCC’s New Explicit Consent Rulings")![Lead Generation Experts Weigh In on FCC's New Explicit Consent Rulings](https://marketing.verisk.com/wp-content/uploads/2024/04/px-verisk-webinar-blog-feature-1-1024x576.jpg)
-
-#### Lead Generation Experts Weigh In on FCC’s New Explicit Consent Rulings
-
-You have probably heard by now: The FCC has placed stricter TCPA rules on explicit consent. Marketers must now provide \[…\]
-
-[Read more](https://marketing.verisk.com/lead-generation-experts-weigh-in-on-fccs-new-explicit-consent-rulings/ "Read more")
 
 ### Stay connected on the latest from Verisk Marketing Solutions
 
