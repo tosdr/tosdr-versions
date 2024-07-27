@@ -1,10 +1,10 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop](https://retool-qa.jabraenhance.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
-The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
+Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
 
 Try risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
@@ -24,14 +24,37 @@ Schedule call[(800) 854-2772](tel:8008542772)
 
 Previous
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/summer-24-sale-foreground-desktop.png)
 
-New
+$200 Off
+========
 
-It’s your hearing. Let’s make the most of it.
----------------------------------------------
+this summer!
+============
 
-The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off
+--------
+
+this summer!
+------------
+
+Take $200 off the Select 500 —
+
+while you can!
+
+$200 Off this
+=============
+
+summer!
+=======
+
+Take $200 off the Select 500 —
+
+while you can!
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -42,10 +65,14 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
-sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
-sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $200!
+
+**Shop now**](https://www.listenlively.com/product)[#### Save $200!
+
+**Shop now**](https://www.listenlively.com/product)[Save $200!
+----------
+
+**Shop now**](https://www.listenlively.com/product)
 
 “Best if you're new to hearing aids”
 
@@ -162,10 +189,18 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 As low as 0% APR and $0 down\* with See if you prequalify
 
-Hear your whole SoundScape™
----------------------------
+Our clearest sound comes through SoundScape™ technology
+-------------------------------------------------------
 
-Select 500s employ 3 key features of proprietary speech-clarity technology
+![SoundScape](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/soundscape.3e149c17.jpg)
+
+SoundScape™ technology uses **advanced microphones** to capture all the sounds around you, and a **powerful processing chip** to determine which ones are important to you.
+
+The result is bright, **natural-sounding hearing in noise** — the best we offer!
+
+[Shop now](https://www.listenlively.com/product/enhanceselect500)
+
+### Select 500s employ 3 key features of SoundScape™ technology
 
 Previous
 
