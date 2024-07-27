@@ -12,11 +12,11 @@ Saving
 
 [Movies](https://www.newgrounds.com/movies)[Games](https://www.newgrounds.com/games)[Audio](https://www.newgrounds.com/audio)[Art](https://www.newgrounds.com/art)[Portal](https://www.newgrounds.com/portal)[Community](https://www.newgrounds.com/community)[Your Feed](https://www.newgrounds.com/social)
 
-![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/135542fe1721394594.webp?1721394619)
+![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/39daadb21721858623.webp?1721858695)
 
-[](https://worgenguy.newgrounds.com/)
+[](https://sageisreal.newgrounds.com/)
 
-[worgenguy](https://worgenguy.newgrounds.com/) just joined the crew!
+[SageIsReal](https://sageisreal.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -218,21 +218,21 @@ Submission Guidelines
 
 GamesMoviesAudioArtChannelsUsers
 
-[monarquis **Milking Company V0.10-alpha (Game)**](https://monarquis.newgrounds.com/news/post/1461890)
+[Bojosounds **MOONDIVE OUT NOW**](https://bojosounds.newgrounds.com/news/post/1462617)
 
-[Simoes1000 **NGTV DAMAGE Bash**](https://simoes1000.newgrounds.com/news/post/1461889)
+[Ninnee **Why this account exists**](https://ninnee.newgrounds.com/news/post/1462615)
 
-[dj-evil-1000 **Hello Everyone**](https://dj-evil-1000.newgrounds.com/news/post/1461888)
+[ShookSpinVSO **hey guys. after a long time i have decided.**](https://shookspinvso.newgrounds.com/news/post/1462614)
 
-[RexARock **New project**](https://rexarock.newgrounds.com/news/post/1461887)
+[TheAsterDood02 **A little art something I'm working on 6u6**](https://theasterdood02.newgrounds.com/news/post/1462613)
 
-[Shinari **Hello**](https://shinari.newgrounds.com/news/post/1461886)
+[jthrash **Might Be On a Short Hiatus**](https://jthrash.newgrounds.com/news/post/1462612)
 
-[BroSkullEmoji **Okay I did it**](https://broskullemoji.newgrounds.com/news/post/1461884)
+[SpecterSalmon **Ko-fi Update Going Forward**](https://spectersalmon.newgrounds.com/news/post/1462611)
 
 [**Wall Art by**
 
-**Broly**](https://broly.newgrounds.com/)
+**Ephyse**](https://ephyse.newgrounds.com/)
 
 #### Main Sections
 
