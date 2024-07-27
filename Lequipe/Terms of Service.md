@@ -365,171 +365,171 @@ Les commentaires ont été désactivés.
 
 ![icône bouton suivant](/img/icons/arrow_right.svg)](https://www.lequipe.fr/Chrono)
 
-filtrer : athlétisme
+filtrer : tous les sports
 
-[09:35
-
-JO 2024,
-
-Foot
-
-Notre onze type des joueurs sélectionnés aux Jeux Olympiques](https://www.lequipe.fr/Jo-2024-paris/Football/Article/Notre-onze-type-des-joueurs-selectionnes-aux-jeux-olympiques/1484613 "Notre onze type des joueurs sélectionnés aux Jeux Olympiques")
-
-[09:30
+[10:56
 
 JO 2024,
 
-Foot
+Participez chaque jour à notre jeu olympique](https://www.lequipe.fr/Tous-sports/Actualites/Qui-suis-je/1479636 "Participez chaque jour à notre jeu olympique")
 
-Découvrez les Bleus avant leur entrée en lice](https://www.lequipe.fr/stories/80 "Découvrez les Bleus avant leur entrée en lice")
+[10:53
 
-[09:06
+Tous sports
 
-JO 2024
+Wembanyama, Biles, Lacazette : les immanquables de la semaine](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/ "Wembanyama, Biles, Lacazette : les immanquables de la semaine")
 
-À Paris, le calme avant les trois coups](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Article/Du-village-olympique-aux-bords-de-seine-le-calme-avant-le-lancement-des-jeux-olympiques/1484672 "À Paris, le calme avant les trois coups")
-
-[09:05
+[10:50
 
 JO 2024,
 
-Jeux t'explique
+Skateboard
 
-Pourquoi les JO ont lieu seulement tous les quatre ans ?](https://www.lequipe.fr/Jo-2024-paris/Athletisme/Actualites/Jo-de-paris-2024-pourquoi-les-jeux-ont-lieu-seulement-tous-les-quatre-ans/1484536 "Pourquoi les JO ont lieu seulement tous les quatre ans ?")
+Les détenteurs de billets pour la session annulée pourront les réutiliser](https://www.lequipe.fr/Jo-2024-paris/Skateboard/Actualites/Les-detenteurs-de-billets-pour-l-epreuve-masculine-de-skateboard-annulee-pourront-les-reutiliser/1485694 "Les détenteurs de billets pour la session annulée pourront les réutiliser")
 
-[09:04
+[10:49
 
 JO 2024,
 
-Hand,
+Hand (H),
 
 Bleus
 
-Petite alerte pour Nikola Karabatic](https://www.lequipe.fr/Jo-2024-paris/Handball/Actualites/Petite-alerte-mais-pas-d-inquietude-pour-la-legende-des-bleus-nikola-karabatic/1484657 "Petite alerte pour Nikola Karabatic")
+Les Karabatic, maîtres de la douleur](https://www.lequipe.fr/Jo-2024-paris/Handball/Article/Nikola-et-luka-karabatic-les-handballeurs-qui-maitrisent-la-douleur/1485554 "Les Karabatic, maîtres de la douleur")
 
-[08:43
+[10:48
 
-Foot,
+JO 2024,
 
-Droits TV
+Cérémonie d'ouverture
 
-beIN veut adosser sa participation à des sponsors qatariens](https://www.lequipe.fr/Football/Article/Bein-sports-veut-adosser-sa-participation-a-la-diffusion-de-la-ligue-1-a-des-sponsors-qatariens/1484699 "beIN veut adosser sa participation à des sponsors qatariens")
+Qui est Charles Coste, avant-dernier relayeur ?](https://www.lequipe.fr/Jo-2024-paris/Cyclisme-sur-piste/Actualites/Qui-est-charles-coste-avant-dernier-relayeur-et-doyen-des-porteurs-de-la-flamme-olympique/1485693 "Qui est Charles Coste, avant-dernier relayeur ?")
 
-[08:40
+[10:48
 
 JO 2024
 
-Nos posters collectors avant l'ouverture des Jeux](https://www.lequipe.fr/Medias/Actualites/Qui-figurera-en-une-de-l-equipe-pour-l-ouverture-des-jo-de-paris-2024/1483985 "Nos posters collectors avant l'ouverture des Jeux")
+Le guide du supporter pour vous accompagner aux JO](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Epreuves-transports-bars-et-restaurants-tout-savoir-sur-les-sites-olympiques-grace-a-notre-guide-du-supporter/1485692 "Le guide du supporter pour vous accompagner aux JO")
 
-[08:35
+[10:31
+
+JO 2024,
+
+Natation
+
+Paris La Défense Arena, du rugby à l'eau](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Comment-la-paris-la-defense-arena-a-transforme-son-terrain-de-rugby-en-piscine-olympique/1485568 "Paris La Défense Arena, du rugby à l'eau")
+
+[10:30
+
+JO 2024,
+
+Cyclisme sur route (H)
+
+Kévin Vauquelin, la nouvelle pépite](https://www.lequipe.fr/Cyclisme-sur-route/Fiche-guide/Athlete/Kevin-vauquelin/487 "Kévin Vauquelin, la nouvelle pépite")
+
+[10:27
 
 JO 2024
 
-Les Français à suivre ce mercredi](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Actualites/Antoine-dupont-alexandre-lacazette-les-francais-a-suivre-aux-jo-ce-mercredi-24-juillet/1484682 "Les Français à suivre ce mercredi")
+Beyoncé encourage la Team USA](https://www.lequipe.fr/Medias/Actualites/Beyonce-presente-les-athletes-americains-des-jo-2024-dans-une-video/1485688 "Beyoncé encourage la Team USA")
 
-[08:31
-
-JO 2030,
-
-Alpes françaises
-
-Les conditions d'attribution du CIO en détail](https://www.lequipe.fr/Tous-sports/Actualites/Les-conditions-d-attribution-des-jo-2030-aux-alpes-francaises-edictees-par-le-cio/1484697 "Les conditions d'attribution du CIO en détail")
-
-[08:31
-
-Foot,
-
-Bordeaux
-
-La désillusion des supporters des Girondins](https://www.lequipe.fr/Football/Article/-lopez-joue-au-poker-et-perd-a-chaque-fois-la-desillusion-des-supporters-des-girondins-de-bordeaux/1484679 "La désillusion des supporters des Girondins")
-
-[08:30
+[10:24
 
 JO 2024,
 
-Médias
+Escrime
 
-Le grand show de la cérémonie d'ouverture](https://www.lequipe.fr/Medias/Actualites/-la-plus-grande-couverture-en-direct-jamais-realisee-le-grand-show-inedit-de-la-ceremonie-d-ouverture/1484638 "Le grand show de la cérémonie d'ouverture")
+Les pointes françaises attendues malgré les crises](https://www.lequipe.fr/Jo-2024-paris/Escrime/Article/L-escrime-francaise-secouee-par-les-crises-mais-tres-attendue-aux-jo-2024/1485473 "Les pointes françaises attendues malgré les crises")
 
-[08:11
+[10:23
+
+Tennis,
+
+ATP,
+
+Atlanta
+
+Rinderknech dans le dernier carré](https://www.lequipe.fr/Tennis/Actualites/Arthur-rinderknech-dans-le-dernier-carre-a-atlanta/1485686 "Rinderknech dans le dernier carré")
+
+[10:22
 
 JO 2024,
 
-Foot (F)
+Tir
 
-La Nouvelle-Zélande dénonce l'espionnage par drone du Canada](https://www.lequipe.fr/Jo-2024-paris/Football/Actualites/La-nouvelle-zelande-denonce-le-canada-au-cio-apres-le-survol-d-un-drone-lors-d-un-entrainement/1484696 "La Nouvelle-Zélande dénonce l'espionnage par drone du Canada")
+Pas de finale pour les Bleus à la carabine 10m par équipes mixtes](https://www.lequipe.fr/Jo-2024-paris/Tir/Actualites/Les-bleus-elimines-en-qualifications-de-la-carabine-10-m-par-equipes-mixtes/1485685 "Pas de finale pour les Bleus à la carabine 10m par équipes mixtes")
 
-[08:01
-
-JO 2024,
-
-Bleu(e)s
-
-Les sports co ont la cote](https://www.lequipe.fr/Jo-2024-paris/Basket/Article/Foot-basket-rugby-volley-handball-ces-sports-collectifs-qui-peuvent-rapporter-des-medailles-a-la-france/1484583 "Les sports co ont la cote")
-
-[08:00
+[10:18
 
 JO 2024,
 
 Surf
 
-À Teahupoo, les Bleus «au top» et «sereins»](https://www.lequipe.fr/Jo-2024-paris/Surf/Actualites/A-teahupoo-les-bleus-sont-prets-pour-l-epreuve-de-surf-aux-jo-2024/1484695 "À Teahupoo, les Bleus «au top» et «sereins»")
+Teahupoo, une vague sublime mais terrifiante](https://www.lequipe.fr/Jo-2024-paris/Surf/Article/A-la-decouverte-de-la-sublime-et-terrifiante-vague-de-teahupoo/1485575 "Teahupoo, une vague sublime mais terrifiante")
 
-[08:00
+[10:17
 
-JO 2024,
+Golf,
 
-Le guide
+LPGA
 
-Antoine Dupont, l'une des grandes stars françaises des Jeux](https://www.lequipe.fr/Rugby-a-7/Fiche-guide/Athlete/Antoine-dupont/553 "Antoine Dupont, l'une des grandes stars françaises des Jeux")
+Pas de cut pour Laisné, Coughlin garde la main](https://www.lequipe.fr/Golf/Actualites/Cpkc-women-s-open-agathe-laisne-ne-fait-pas-le-cut-lauren-coughlin-garde-la-main/1485682 "Pas de cut pour Laisné, Coughlin garde la main")
 
-[08:00
-
-Cyclisme,
-
-spécial L'Équipe
-
-Inside le Team TotalEnergies](https://special.lequipe.fr/stories/web-stories/2024-team-totalenergies-3/ "Inside le Team TotalEnergies")
-
-[07:59
+[10:06
 
 JO 2024,
 
-Foot,
+Judo
+
+L'Arena Champ-de-Mars prête à temps](https://www.lequipe.fr/Jo-2024-paris/Judo/Actualites/L-arena-champ-de-mars-prete-a-temps-pour-les-epreuves-de-judo-des-jo/1485681 "L'Arena Champ-de-Mars prête à temps")
+
+[10:01
+
+JO 2024,
+
+Basket,
 
 Bleus
 
-Entre complicité et exigence, les ressorts de la méthode Henry](https://www.lequipe.fr/Jo-2024-paris/Football/Article/-il-a-les-codes-de-cette-generation-mais-est-intransigeant-sur-le-terrain-la-methode-thierry-henry-decrite-par-ceux-qui-la-vivent/1484637 "Entre complicité et exigence, les ressorts de la méthode Henry")
+Le nouvel espoir de l'or olympique](https://www.lequipe.fr/Jo-2024-paris/Basket/Article/Face-au-bresil-les-bleus-du-basket-lancent-leur-quete-vers-l-or-olympique/1485596 "Le nouvel espoir de l'or olympique")
 
-[07:50
-
-JO 2024,
-
-Rugby à 7
-
-Programmation TV des équipes de France](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Actualites/Programme-tv-des-matchs-des-equipes-de-france-de-rugby-a-7-aux-jo-de-paris-2024-date-horaires-chaines/1484437 "Programmation TV des équipes de France")
-
-[07:35
+[10:00
 
 JO 2024,
 
-Rugby à 7,
+Voile
 
-Edito
+Marseille, un plan d'eau complexe et redouté](https://www.lequipe.fr/Voile/Actualites/Jo-2024-un-plan-d-eau-complexe-passe-au-crible-dans-la-rade-sud-de-marseille/1485098 "Marseille, un plan d'eau complexe et redouté")
 
-Mérite olympique](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Article/L-edito-de-jean-philippe-leclaire-sur-le-decalage-entre-le-rugby-et-le-football-aux-jo-merite-olympique/1484616 "Mérite olympique")
-
-[07:30
+[10:00
 
 JO 2024,
 
-Podcast
+Cyclisme sur route (F)
 
-Vincent Milou, une certaine idée du skate](https://www.lequipe.fr/Jo-2024-paris/Skateboard/Actualites/Podcast-medaillables-vincent-milou-une-certaine-idee-du-skate/1484484 "Vincent Milou, une certaine idée du skate")
+Juliette Labous, un potentiel exploit sur le chrono ?](https://www.lequipe.fr/Cyclisme-sur-route/Fiche-guide/Athlete/Juliette-labous/101 "Juliette Labous, un potentiel exploit sur le chrono ?")
+
+[09:52
+
+JO 2024,
+
+Natation,
+
+Bleus
+
+Le 4x100m poursuit son histoire](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/A-paris-le-relais-4x100m-francais-veut-continuer-a-ecrire-son-histoire/1485509 "Le 4x100m poursuit son histoire")
+
+[09:51
+
+Foot,
+
+Transferts
+
+Riera quitte Bordeaux et retourne à Celje](https://www.lequipe.fr/Football/Actualites/Albert-riera-quitte-bordeaux-et-retourne-a-celje/1485678 "Riera quitte Bordeaux et retourne à Celje")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/737/covers/Preview-MEDIUM-35974.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/741/covers/Preview-MEDIUM-36398.jpg?v=4)
 
 lire l'édition
 
@@ -560,6 +560,7 @@ réglages accessibilité
 * [lire les articles abonnés du jour](https://www.lequipe.fr/Payant/)
 
 * résultats et actualités
+* [mes actus](https://www.lequipe.fr/espace-membre/actus)
 * [football](https://www.lequipe.fr/Football/)
     
 * [rugby](https://www.lequipe.fr/Rugby/)
@@ -589,7 +590,6 @@ réglages accessibilité
     
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
-* [coaching](https://www.lequipe.fr/Coaching/)
 * les autres sports de A à Z...
 
 * accès rapide
@@ -654,18 +654,19 @@ Tour de France 2024
 
 Jeux Olympiques
 
+* [à quelle heure suivre la cérémonie d'ouverture des JO ?](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/La-ceremonie-d-ouverture-des-jo-2024-en-trois-questions/1485038)
 * [guide des JO 2024](https://www.lequipe.fr/collection/guide-athletes-france-jo-paris-2024/)
-* [Parcours de la flamme olympique](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Carte-et-parcours-du-relais-de-la-flamme-olympique-2024-decouvrez-la-carte-des-etapes-dans-toute-la-france/1470636)
+* [classement des médailles JO](https://www.lequipe.fr/jeux-olympiques-ete/page-tableau-des-medailles/par-pays)
 * [les dates des JO de Paris 2024](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Jo-de-paris-2024-dates-echeances-et-evenements-pre-olympiques/1434278)
 * [qualifiés français pour les JO de Paris 2024](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Les-qualifies-francais-sport-par-sport-pour-les-jeux-olympiques-de-paris-2024/1420674)
 * [résultats des JO Paris 2024 en direct](https://www.lequipe.fr/Jo-2024-paris/page-resultats-en-direct/)
+* [tableau des médailles JO](https://www.lequipe.fr/jeux-olympiques-ete/page-tableau-des-medailles/par-pays)
 
 [football](https://www.lequipe.fr/Football/)
 
 * [Champions League](https://www.lequipe.fr/Football/ligue-des-champions/page-calendrier-resultats)
 * [Europa League](https://www.lequipe.fr/Football/ligue-europa/page-calendrier-resultats)
 * [Europa Conference League](https://www.lequipe.fr/Football/Ligue-europa-conference/)
-* [Ligue 2](https://www.lequipe.fr/Football/Ligue-2/)
 * [Premier League](https://www.lequipe.fr/Football/championnat-d-angleterre/page-calendrier-resultats)
 * [LaLiga](https://www.lequipe.fr/Football/championnat-d-angleterre/page-calendrier-resultats)
 * [Bundesliga](https://www.lequipe.fr/Football/championnat-d-allemagne/page-calendrier-resultats)
@@ -687,8 +688,6 @@ Jeux Olympiques
 * [classement WTA](https://www.lequipe.fr/Tennis/wta/epreuve-simple-dames/page-classement-individuel/general)
 * [Open d'Australie](https://www.lequipe.fr/Tennis/Open-d-australie/)
 * [Roland-Garros](https://www.lequipe.fr/Tennis/Roland-garros/)
-
-[cyclisme](https://www.lequipe.fr/Cyclisme/)
 
 [basket](https://www.lequipe.fr/Basket/)
 
