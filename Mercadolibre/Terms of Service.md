@@ -1,6 +1,6 @@
 [Saltar al contenido](#root-app)[Comentar sobre accesibilidad](https://www.mercadolibre.com.ar/accesibilidad/feedback)[Mercado Libre Argentina - Donde comprar y vender de todo](https://www.mercadolibre.com.ar/)
 
-[Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991&loginType=explicit#nav-header)[Ayuda](https://www.mercadolibre.com.ar/ayuda#nav-header)
+* [Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fayuda%2Fterminos-y-condiciones-de-uso_991&loginType=explicit#nav-header)[Ayuda](https://www.mercadolibre.com.ar/ayuda#nav-header)
 
 1. [Ayuda](https://www.mercadolibre.com.ar/ayuda)
     
@@ -155,3 +155,15 @@ Copyright © 1999-2024 MercadoLibre S.R.L.
 Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
 
 [Mercado Libre](https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop)
+
+Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro [Centro de Privacidad.](https://www.mercadolibre.com.ar/privacidad#tech-and-cookies)
+
+Aceptar cookiesConfigurar cookies
+
+¡Listo! Guardamos tus preferencias.
+
+Cerrar
+
+Algo salió mal. Por favor, vuelve a intentarlo.
+
+Cerrar
