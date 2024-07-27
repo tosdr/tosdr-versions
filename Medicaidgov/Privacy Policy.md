@@ -122,11 +122,7 @@ MainMenu
     [View all in Medicaid](https://www.medicaid.gov/medicaid/index.html)
     
     * [Medicaid State Plan Amendments](https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments/index.html)
-    * Access to Care
-        
-        [View all in Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
-        
-        * [Access Monitoring Review Plans](https://www.medicaid.gov/medicaid/access-care/access-monitoring-review-plans/index.html)
+    * [Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
     * Program Integrity
         
         [View all in Program Integrity](https://www.medicaid.gov/medicaid/program-integrity/index.html)
@@ -472,11 +468,7 @@ MainMenu Desktop
     [View all in Medicaid](https://www.medicaid.gov/medicaid/index.html)
     
     * [Medicaid State Plan Amendments](https://www.medicaid.gov/medicaid/medicaid-state-plan-amendments/index.html)
-    * Access to Care
-        
-        [View all in Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
-        
-        * [Access Monitoring Review Plans](https://www.medicaid.gov/medicaid/access-care/access-monitoring-review-plans/index.html)
+    * [Access to Care](https://www.medicaid.gov/medicaid/access-care/index.html)
     * Program Integrity
         
         [View all in Program Integrity](https://www.medicaid.gov/medicaid/program-integrity/index.html)
