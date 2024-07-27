@@ -24,7 +24,8 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
     * [Headphones](https://mezeaudio.com/collections?index=1)
     * [Amps & DACs](https://mezeaudio.com/collections?index=2)
     * [Accessories](https://mezeaudio.com/collections?index=3)
-    * [Merchandise](https://mezeaudio.com/collections?index=4)
+    * [Bundles](https://mezeaudio.com/collections?index=4)
+    * [Merchandise](https://mezeaudio.com/collections?index=5)
     
 * COMMUNITY
     
@@ -78,7 +79,8 @@ Country
 * [Headphones](https://mezeaudio.com/collections?index=1)
 * [Amps & DACs](https://mezeaudio.com/collections?index=2)
 * [Accessories](https://mezeaudio.com/collections?index=3)
-* [Merchandise](https://mezeaudio.com/collections?index=4)
+* [Bundles](https://mezeaudio.com/collections?index=4)
+* [Merchandise](https://mezeaudio.com/collections?index=5)
 
 * COMMUNITY
 * [Artists](https://mezeaudio.com/blogs/artists)
