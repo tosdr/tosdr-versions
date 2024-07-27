@@ -301,6 +301,7 @@ Company
 * [About Last.fm](https://www.last.fm/about)
 * [Contact Us](https://www.last.fm/about/contact)
 * [Jobs](https://www.last.fm/about/jobs)
+* [Features](https://www.last.fm/features)
 
 Help
 ----
