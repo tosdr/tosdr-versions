@@ -43,43 +43,23 @@ Terms of Use
 
 #### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
+#### Free shipping on US orders $35+
 
 #### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
+#### Free shipping on US orders $35+
 
 #### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
+#### Free shipping on US orders $35+
 
 #### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
+#### Free shipping on US orders $35+
 
 #### Free shipping on US orders $35+
 
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
-
 #### Free shipping on US orders $35+
-
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
-
-#### Free shipping on US orders $35+
-
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
-
-#### Free shipping on US orders $35+
-
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
-
-#### Free shipping on US orders $35+
-
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
-
-#### Free shipping on US orders $35+
-
-#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
 * ![toggle mobile menu](//www.morphe.com/cdn/shop/t/856/assets/hamburger-icon-black.svg?v=37398962526372985731721320376)
 * ![Search](//www.morphe.com/cdn/shop/t/856/assets/search-icon-black.svg?v=109393770938569529511721320440)
@@ -98,7 +78,7 @@ Terms of Use
     
     Featured
     
-    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
     [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
     
@@ -203,7 +183,7 @@ Terms of Use
     ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
     
 * [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-* [35% Off Meredith Anniversary](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
+* [20% Off Lipstick Day](https://www.morphe.com/collections/lipstick-day)
 
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
@@ -243,7 +223,9 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
     
-    [NEW Hot Shot Drops](https://www.morphe.com/pages/cheeks)
+    [NEW Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond)
+    
+    [Hot Shot Drops](https://www.morphe.com/pages/cheeks)
     
     [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured)
     
@@ -409,7 +391,7 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
 * [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-* [35% Off Meredith Anniversary](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
+* [20% Off Lipstick Day](https://www.morphe.com/collections/lipstick-day)
 
 [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
 
