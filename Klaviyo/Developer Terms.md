@@ -419,6 +419,7 @@ These API Terms and any other Klaviyo terms referenced herein state the complete
         New](https://www.klaviyo.com/product/whats-new)
     * [Marketing automation](https://www.klaviyo.com/marketing-automation)
     * [Klaviyo vs. others](https://www.klaviyo.com/compare)
+    * [Marketing glossary](https://www.klaviyo.com/glossary)
     
 
 English - US
