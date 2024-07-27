@@ -392,10 +392,9 @@ NatWest Group
             2. [Round Ups](https://personal.natwest.com/savings/tools-for-savings/round-ups.html)
             3. [Savings Goal Tool](https://personal.natwest.com/savings/tools-for-savings/savings-goal-tool.html)
             4. [Spending and Budget Tracker](https://personal.natwest.com/banking-with-natwest/natwest-app/features/spending-and-budgets.html)
-            5. [Budget calculator](https://personal.natwest.com/life-moments/managing-your-money/budget-calculator.html)
+            5. [Check your Credit Score](https://personal.natwest.com/banking-with-natwest/natwest-app/features/know-my-credit-score.html)
             6. [Overdraft calculator](https://personal.natwest.com/current-accounts/overdrafts/olb/overdraft-calculator.html)
             7. [Banking My Way](https://personal.natwest.com/accessibility/banking-my-way.html)
-            8. [Housemate](https://personal.natwest.com/life-moments/housemate.html)
         
     * [Life Moments](https://personal.natwest.com/life-moments.html)
         
