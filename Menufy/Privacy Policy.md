@@ -181,7 +181,7 @@ You may have certain choices and rights regarding our processing of your persona
 
 These rights may be limited or denied in some circumstances under applicable local law. If we deny a request, we will explain why in accordance with applicable local law.
 
-To exercise your available rights or if you are an authorized personal representative seeking to exercise rights on behalf of someone else, please contact us at [legal@menufy.com](mailto:legal@menufy.com) or contact us via the contact information listed at the bottom of this page. To opt out of our “sharing” of your personal information, where such opt-out if afforded by local law, please submit a request labeled “Request to Opt Out” to [legal@menufy.com](mailto:legal@menufy.com). 
+To exercise your available rights or if you are an authorized personal representative seeking to exercise rights on behalf of someone else, please contact us at [support@menufy.com](mailto:support@menufy.com?) or contact us via the contact information listed at the bottom of this page. To opt out of our “sharing” of your personal information, where such opt-out if afforded by local law, please submit a request labeled “Request to Opt Out” to [support@menufy.com](mailto:support@menufy.com?). 
 
 Upon receipt of your request, we will ask you to provide certain personal information to verify your identity, such as your name, email address, telephone number, zip code, and/or purchase history, in order for us to determine if your information is in our systems and to verify your identity. We will verify and respond to your request consistent with applicable law. This may require that we request additional information from you to protect against fraudulent rights requests. To the extent we request such information from you, we will not use this information for purposes unrelated to verifying your identity. Please note that, to the extent you are an authorized personal representative seeking to exercise rights on behalf of someone else (where permitted by local law), we may request that you provide us with documentation regarding your authority under such applicable law and we also may seek additional verification directly with the individual whose rights are being exercised.
 
@@ -201,6 +201,8 @@ Retention of Personal Information 
 ----------------------------------
 
 We will retain your personal information for as long as necessary to fulfill the purposes for which we collected it, to satisfy any applicable legal, accounting, or reporting requirements; to establish, exercise, or defend legal claims; or for our legitimate purposes. If we hold your personal information as a processor or service provider, then we retain that information in accordance with our customers’ instructions. Any request to delete your personal information is subject to these obligations and restrictions.
+
+You have the right to request the deletion of your personal information that we have collected. To exercise this right, please contact us at [support@menufy.com](mailto:support@menufy.com?). We will respond to your request within a reasonable timeframe, and in accordance with applicable law.
 
 Children’s Information
 ----------------------
