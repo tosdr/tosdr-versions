@@ -146,10 +146,10 @@ Company
 
 English
 
-* [Deutsch](https://lucid.co/de)
+* [Deutsch](https://lucid.co/de/tos)
 * [English](https://lucid.co/tos)
 * [Español](https://lucid.co/es)
-* [Français](https://lucid.co/fr)
+* [Français](https://lucid.co/fr/tos)
 * [Italiano](https://lucid.co/it)
 * [日本語](https://lucid.co/ja)
 * [한국인](https://lucid.co/ko)
