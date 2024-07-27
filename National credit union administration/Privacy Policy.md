@@ -26,43 +26,23 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [Mission & Values](https://ncua.gov/about/mission-values)
         
-        [Mission & Values](https://ncua.gov/about/mission-values)
-        
     * [Leadership](https://ncua.gov/about/leadership)
-        
-        [Leadership](https://ncua.gov/about/leadership)
         
     * [Speaker Request Form](https://ncua.gov/about/speaker-request-form)
         
-        [Speaker Request Form](https://ncua.gov/about/speaker-request-form)
-        
     * [Historical Timeline](https://ncua.gov/about/historical-timeline)
-        
-        [Historical Timeline](https://ncua.gov/about/historical-timeline)
         
     * [Diversity & Inclusion](https://ncua.gov/about/diversity-inclusion)
         
-        [Diversity & Inclusion](https://ncua.gov/about/diversity-inclusion)
-        
     * [Careers](https://ncua.gov/about/careers)
-        
-        [Careers](https://ncua.gov/about/careers)
         
     * [Business Opportunities](https://ncua.gov/about/business-opportunities)
         
-        [Business Opportunities](https://ncua.gov/about/business-opportunities)
-        
     * [Open Government](https://ncua.gov/about/open-government)
-        
-        [Open Government](https://ncua.gov/about/open-government)
         
     * [Inspector General](https://ncua.gov/about/inspector-general)
         
-        [Inspector General](https://ncua.gov/about/inspector-general)
-        
     * [Budget & Performance](https://ncua.gov/about/budget-performance)
-        
-        [Budget & Performance](https://ncua.gov/about/budget-performance)
         
     
 * [Regulation & Supervision](https://ncua.gov/regulation-supervision)
@@ -73,55 +53,29 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [Letters to Credit Unions & Other Guidance](https://ncua.gov/regulation-supervision/letters-credit-unions-other-guidance)
         
-        [Letters to Credit Unions & Other Guidance](https://ncua.gov/regulation-supervision/letters-credit-unions-other-guidance)
-        
     * [Examination Program](https://ncua.gov/regulation-supervision/examination-program)
-        
-        [Examination Program](https://ncua.gov/regulation-supervision/examination-program)
         
     * [Rulemakings & Proposals for Comment](https://ncua.gov/regulation-supervision/rulemakings-proposals-comment)
         
-        [Rulemakings & Proposals for Comment](https://ncua.gov/regulation-supervision/rulemakings-proposals-comment)
-        
     * [Legal Opinions](https://ncua.gov/regulation-supervision/legal-opinions)
-        
-        [Legal Opinions](https://ncua.gov/regulation-supervision/legal-opinions)
         
     * [Rules & Regulations](https://ncua.gov/regulation-supervision/rules-regulations)
         
-        [Rules & Regulations](https://ncua.gov/regulation-supervision/rules-regulations)
-        
     * [Regulatory & Compliance Resources](https://ncua.gov/regulation-supervision/regulatory-compliance-resources)
-        
-        [Regulatory & Compliance Resources](https://ncua.gov/regulation-supervision/regulatory-compliance-resources)
         
     * [Supervisory Review Committee](https://ncua.gov/regulation-supervision/supervisory-review-committee)
         
-        [Supervisory Review Committee](https://ncua.gov/regulation-supervision/supervisory-review-committee)
-        
     * [Board Appeals](https://ncua.gov/regulation-supervision/board-appeals)
-        
-        [Board Appeals](https://ncua.gov/regulation-supervision/board-appeals)
         
     * [Corporate Credit Unions](https://ncua.gov/regulation-supervision/corporate-credit-unions)
         
-        [Corporate Credit Unions](https://ncua.gov/regulation-supervision/corporate-credit-unions)
-        
     * [Regulatory Reporting](https://ncua.gov/regulation-supervision/regulatory-reporting)
-        
-        [Regulatory Reporting](https://ncua.gov/regulation-supervision/regulatory-reporting)
         
     * [Manuals & Guides](https://ncua.gov/regulation-supervision/manuals-guides)
         
-        [Manuals & Guides](https://ncua.gov/regulation-supervision/manuals-guides)
-        
     * [Examination Modernization Initiatives](https://ncua.gov/regulation-supervision/examination-modernization-initiatives)
         
-        [Examination Modernization Initiatives](https://ncua.gov/regulation-supervision/examination-modernization-initiatives)
-        
     * [CUSO Activities](https://ncua.gov/regulation-supervision/cuso-activities)
-        
-        [CUSO Activities](https://ncua.gov/regulation-supervision/cuso-activities)
         
     
 * [Analysis](https://ncua.gov/analysis)
@@ -132,19 +86,11 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [Credit Union & Corporate Call Report Data](https://ncua.gov/analysis/credit-union-corporate-call-report-data)
         
-        [Credit Union & Corporate Call Report Data](https://ncua.gov/analysis/credit-union-corporate-call-report-data)
-        
     * [Chartering & Mergers](https://ncua.gov/analysis/chartering-mergers)
-        
-        [Chartering & Mergers](https://ncua.gov/analysis/chartering-mergers)
         
     * [CUSO & Economic Data](https://ncua.gov/analysis/cuso-economic-data)
         
-        [CUSO & Economic Data](https://ncua.gov/analysis/cuso-economic-data)
-        
     * [Research a Credit Union](https://mapping.ncua.gov/ResearchCreditUnion)
-        
-        [Research a Credit Union](https://mapping.ncua.gov/ResearchCreditUnion)
         
     
 * [Support Services](https://ncua.gov/support-services)
@@ -155,31 +101,17 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [ACCESS](https://ncua.gov/support-services/access)
         
-        [ACCESS](https://ncua.gov/support-services/access)
-        
     * [Credit Union Resources & Expansion](https://ncua.gov/support-services/credit-union-resources-expansion)
-        
-        [Credit Union Resources & Expansion](https://ncua.gov/support-services/credit-union-resources-expansion)
         
     * [Conservatorships & Liquidations](https://ncua.gov/support-services/conservatorships-liquidations)
         
-        [Conservatorships & Liquidations](https://ncua.gov/support-services/conservatorships-liquidations)
-        
     * [Share Insurance Fund](https://ncua.gov/support-services/share-insurance-fund)
-        
-        [Share Insurance Fund](https://ncua.gov/support-services/share-insurance-fund)
         
     * [Corporate System Resolution](https://ncua.gov/support-services/corporate-system-resolution)
         
-        [Corporate System Resolution](https://ncua.gov/support-services/corporate-system-resolution)
-        
     * [Guaranteed Notes Program](https://ncua.gov/support-services/guaranteed-notes-program)
         
-        [Guaranteed Notes Program](https://ncua.gov/support-services/guaranteed-notes-program)
-        
     * [Central Liquidity Facility](https://ncua.gov/support-services/central-liquidity-facility)
-        
-        [Central Liquidity Facility](https://ncua.gov/support-services/central-liquidity-facility)
         
     
 * [Consumers](https://ncua.gov/consumers)
@@ -190,31 +122,17 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [Consumer Assistance Center](https://www.mycreditunion.gov/consumer-assistance-center)
         
-        [Consumer Assistance Center](https://www.mycreditunion.gov/consumer-assistance-center)
-        
     * [Fraud Prevention Center](https://www.mycreditunion.gov/fraud-prevention-center)
-        
-        [Fraud Prevention Center](https://www.mycreditunion.gov/fraud-prevention-center)
         
     * [Share Insurance Coverage](https://ncua.gov/consumers/share-insurance-coverage)
         
-        [Share Insurance Coverage](https://ncua.gov/consumers/share-insurance-coverage)
-        
     * [MyCreditUnion.gov](https://www.mycreditunion.gov/)
-        
-        [MyCreditUnion.gov](https://www.mycreditunion.gov/)
         
     * [Credit Union Locator](https://mapping.ncua.gov/)
         
-        [Credit Union Locator](https://mapping.ncua.gov/)
-        
     * [Financial Literacy Resources](https://ncua.gov/consumers/financial-literacy-resources)
         
-        [Financial Literacy Resources](https://ncua.gov/consumers/financial-literacy-resources)
-        
     * [Property Appraisal and Valuation Equity (PAVE)](https://ncua.gov/consumers/property-appraisal-and-valuation-equity)
-        
-        [Property Appraisal and Valuation Equity (PAVE)](https://ncua.gov/consumers/property-appraisal-and-valuation-equity)
         
     
 * [News](https://ncua.gov/news)
@@ -225,35 +143,19 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
     
     * [Press Releases](https://ncua.gov/news/press-releases)
         
-        [Press Releases](https://ncua.gov/news/press-releases)
-        
     * [Speeches & Testimonies](https://ncua.gov/news/speeches-testimonies)
-        
-        [Speeches & Testimonies](https://ncua.gov/news/speeches-testimonies)
         
     * [Publications & Reports](https://ncua.gov/news/publications-reports)
         
-        [Publications & Reports](https://ncua.gov/news/publications-reports)
-        
     * [Board Meetings, Agendas, & Results](https://ncua.gov/news/board-meetings-agendas-results)
-        
-        [Board Meetings, Agendas, & Results](https://ncua.gov/news/board-meetings-agendas-results)
         
     * [Events](https://ncua.gov/news/events)
         
-        [Events](https://ncua.gov/news/events)
-        
     * [Enforcement Actions](https://ncua.gov/news/enforcement-actions)
-        
-        [Enforcement Actions](https://ncua.gov/news/enforcement-actions)
         
     * [Budget & Supplementary Materials](https://ncua.gov/news/budget-supplementary-materials)
         
-        [Budget & Supplementary Materials](https://ncua.gov/news/budget-supplementary-materials)
-        
     * [Downloadable Graphics](https://ncua.gov/news/downloadable-graphics)
-        
-        [Downloadable Graphics](https://ncua.gov/news/downloadable-graphics)
         
     
 
