@@ -37,12 +37,10 @@ Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for
 
 [Home](https://www.klevu.com/) Privacy Policy
 
-* [Terms of Service](https://www.klevu.com/terms-of-service/)
-* [Privacy Policy](https://www.klevu.com/privacy-policy/)
-* [Data Processing Addendum](https://www.klevu.com/data-processing-addendum/)
-* [Sub Processors](https://www.klevu.com/sub-processors/)
-* [Technical Support Policy](https://www.klevu.com/technical-support-policy)
-* [Service Credit SLA](https://www.klevu.com/service-credits-sla/)
+* [Magento AI Product Discovery](https://www.klevu.com/integrations/magento-adobe-commerce/)
+* [Magento AI Search](https://www.klevu.com/integrations/magento-adobe-commerce/search/)
+* [Magento AI Recommendations](https://www.klevu.com/integrations/magento-adobe-commerce/recommendations/)
+* [Magento AI Merchandising](https://www.klevu.com/integrations/magento-adobe-commerce/merchandising/)
 
 Privacy Policy
 ==============
@@ -59,36 +57,33 @@ Privacy Policy
 
 [4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
 
-[5\. SHOPPER PERSONAL DATA IN KLEVU DISCOVERY SUITE](#5-shopper-personal-data-in-klevu-discovery-suite)
+[5\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#5-what-is-our-stance-on-third-party-websites)
 
-[6\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#6-what-is-our-stance-on-third-party-websites)
+[6\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#6-do-we-use-cookies-and-other-tracking-technologies)
 
-[7\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#7-do-we-use-cookies-and-other-tracking-technologies)
+[7\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#7-is-your-information-transferred-internationally)
 
-[8\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#8-is-your-information-transferred-internationally)
+[8\. HOW LONG DO WE KEEP YOUR INFORMATION?](#8-how-long-do-we-keep-your-information)
 
-[9\. HOW LONG DO WE KEEP YOUR INFORMATION?](#9-how-long-do-we-keep-your-information)
+[9\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#9-how-do-we-keep-your-information-safe)
 
-[10\. HOW DO WE KEEP YOUR INFORMATION SAFE?](#10-how-do-we-keep-your-information-safe)
+[10\. DO WE COLLECT INFORMATION FROM MINORS?](#10-do-we-collect-information-from-minors)
 
-[11\. DO WE COLLECT INFORMATION FROM MINORS?](#11-do-we-collect-information-from-minors)
+[11\. WHAT ARE YOUR PRIVACY RIGHTS?](#11-what-are-your-privacy-rights)
 
-[12\. WHAT ARE YOUR PRIVACY RIGHTS?](#12-what-are-your-privacy-rights)
+[12\. CONTROLS FOR DO-NOT-TRACK FEATURES](#12-controls-for-do-not-track-features)
 
-[13\. CONTROLS FOR DO-NOT-TRACK FEATURES](#13-controls-for-do-not-track-features)
+[13\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#13-do-california-residents-have-specific-privacy-rights)
 
-[14\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#14-do-california-residents-have-specific-privacy-rights)
+[14\. DO WE MAKE UPDATES TO THIS NOTICE?](#14-do-we-make-updates-to-this-notice)
 
-[15\. DO WE MAKE UPDATES TO THIS NOTICE?](#15-do-we-make-updates-to-this-notice)
-
-[16\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#16-how-can-you-contact-us-about-this-notice)
+[15\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#15-how-can-you-contact-us-about-this-notice)
 
 Updated: 11/06/2024
 
 This privacy notice for Klevu Oy (‘**Company**‘, ‘**we**‘, ‘**us**‘, or ‘**our**‘,), describes how and why we might collect, store, use, and/or share (‘**process**‘) your information when you use our services (‘**Services**‘), such as when you:
 
 * Visit our business website at [https://www.klevu.com](https://www.klevu.com/)/\*, or any website of ours that links to this privacy notice
-
 * Engage with us in other related ways, including any sales, marketing, or events
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at \_\_\_\_\_\_\_\_\_\_.
@@ -121,29 +116,17 @@ We collect personal information that you voluntarily provide to us when you reg
 **Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
 
 * names
-
 * phone numbers
-
 * email addresses
-
 * mailing addresses
-
 * job titles
-
 * usernames
-
 * passwords
-
 * contact preferences
-
 * contact or authentication data
-
 * billing addresses
-
 * website url
-
 * business name
-
 * business address
 
 **Sensitive Information.** We do not process sensitive information.
@@ -163,9 +146,7 @@ Like many businesses, we also collect information through cookies and similar te
 The information we collect includes:
 
 * _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called ‘crash dumps’), and hardware settings).
-
 * _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
-
 * _Location Data._ We collect location data such as information about your device’s location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
 **Information collected from other sources**
@@ -182,39 +163,22 @@ In order to enhance our ability to provide relevant marketing, offers, and servi
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
 * **To facilitate account creation and authentication and otherwise manage user accounts.** We may process your information so you can create and log in to your account, as well as keep your account in working order.
-
 * **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
-
 * **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-
 * **To send administrative information to you.** We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
-
 * **To enable user-to-user communications.** We may process your information if you choose to use any of our offerings that allow for communication with another user.
-
 * **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
-
 * **To send you marketing and promotional communications.** We may process the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt out of our marketing emails at any time. For more information, see ‘[WHAT ARE YOUR PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/e85b4066-ee04-43cd-852f-03ddf753b565/privacy-policy#privacyrights)‘ below).
-
 * **To deliver targeted advertising to you.** We may process your information to develop and display personalised content and advertising tailored to your interests, location, and more.
-
 * **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
-
 * **To identify usage trends.** We may process information about how you use our Services to better understand how they are being used so we can improve them.
-
 * **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
-
 * **To save or protect an individual’s vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
-
 * **To identify a customer in our database and solely for the purpose of communication between KLEVU and the merchant****.** We may process merchant’s first name, last name, contact number, company address and website URL.
-
 * **To be used as an account identifier and be sent merchant configured daily/weekly analytic reports****.** We may process merchant’s and additional user email addresses.
-
 * **To be used for billing and invoicing purposes****.** We may process merchants business name, billing address and their VAT number.
-
 * **To identify shopper’s location (i.e. country and local region) with a view to providing location based search insights to the merchant, calculate transaction based KLEVU-led conversions and provide personalised search experience to the store’s shoppers****.** We may process shoppers’ IP addresses.
-
 * **To calculate KLEVU-led conversions****.** We may process shoppers’ transaction data (optional) including ID of purchased product, price paid and the IP address from where the product was bought.
-
 * **To be used in conjunction with the DotMailer Email marketing tool****.** We may process collected shopper email addresses. These are never exposed to anyone at Klevu as they are MD5 hashed, in the irreversible encrypted form.
 
 3\. **WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
@@ -347,26 +311,21 @@ We also may need to share your personal information in the following situation
 
 * **Other Users.** When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Services, and view your profile.
 
-**5\. SHOPPER PERSONAL DATA IN KLEVU DISCOVERY SUITE**
-------------------------------------------------------
-
-Nothing in this policy contradicts the following statement: Except for the subdomains [klaviyo.klevu.com](https://klaviyo.klevu.com/) and [statsjs.klevu.com](https://statsjs.klevu.com/), Klevu does not collect, retain or share any data regarding a particular user or device (including IP ADDRESSES AND user identifiers) on sites or apps not owned by Klevu.
-
-6\. **WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
+5\. **WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
 ---------------------------------------------------
 
 **_In Short:_** _We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services._
 
 The Services may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-7\. **DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+6\. **DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 ----------------------------------------------------------
 
 **_In Short:_** _We may use cookies and other tracking technologies to collect and store your information._
 
 We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
-8\. **IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**
+7\. **IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**
 --------------------------------------------------------
 
 **_In Short:_** _We may transfer, store, and process your information in countries other than your own._
@@ -379,7 +338,7 @@ European Commission’s Standard Contractual Clauses:
 
 We have implemented measures to protect your personal information, including by using the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Standard Contractual Clauses can be provided upon request. We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
 
-9\. **HOW LONG DO WE KEEP YOUR INFORMATION?**
+8\. **HOW LONG DO WE KEEP YOUR INFORMATION?**
 ---------------------------------------------
 
 **_In Short:_** _We keep your information for as long as necessary to fulfil the purposes outlined in this privacy notice unless otherwise required by law._
@@ -388,21 +347,21 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-10\. **HOW DO WE KEEP YOUR INFORMATION SAFE?**
-----------------------------------------------
+9\. **HOW DO WE KEEP YOUR INFORMATION SAFE?**
+---------------------------------------------
 
 **_In Short:_** _We aim to protect your personal information through a system of organisational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organisational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-11\. **DO WE COLLECT INFORMATION FROM MINORS?**
+10\. **DO WE COLLECT INFORMATION FROM MINORS?**
 -----------------------------------------------
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at dataprotection@klevu.com.
 
-12\. WHAT ARE YOUR PRIVACY RIGHTS?
+11\. WHAT ARE YOUR PRIVACY RIGHTS?
 ----------------------------------
 
 In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
@@ -431,12 +390,12 @@ Cookies and similar technologies: Most Web browsers are set to accept cookies by
 
 If you have questions or comments about your privacy rights, you may email us at dataprotection@klevu.com.
 
-13\. CONTROLS FOR DO-NOT-TRACK FEATURES
+12\. CONTROLS FOR DO-NOT-TRACK FEATURES
 ---------------------------------------
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (‘DNT’) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognising and implementing DNT signals has been finalised. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-14\. **DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+13\. **DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 --------------------------------------------------------------
 
 **_In Short:_** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
@@ -568,14 +527,14 @@ Other privacy rights
 
 To exercise these rights, you can contact us by email at dataprotection@klevu.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
-15\. **DO WE MAKE UPDATES TO THIS NOTICE?**
+14\. **DO WE MAKE UPDATES TO THIS NOTICE?**
 -------------------------------------------
 
 _**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated ‘Revised’ date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-16\. **HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+15\. **HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 --------------------------------------------------
 
 If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Data Protection Officer, by email at dataprotection@klevu.com, or by post to:
