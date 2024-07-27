@@ -50,10 +50,10 @@
     
     * * *
     
-
-* * *
-
-* [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
+    * [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
+    
+    * * *
+    
 
 * * *
 
@@ -255,7 +255,10 @@
     
     * * *
     
-* [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
+    * [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
+    
+    * * *
+    
 * Locations
     
     * * *
