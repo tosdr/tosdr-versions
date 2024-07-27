@@ -321,3 +321,5 @@ Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | 
 Our website uses cookies for essential functions, analytics, and advertising. By clicking 'Accept', you consent to our [cookie policy](https://javapipe.com/terms-of-service) and data use.
 
 Preferences OK
+
+We're brewing up a little change to your billing cycle! Starting now, we'll bill your preferred payment method 3 days before your renewal date. Nothing changes with your price or billing cycle - just a fresh, new billing date!
