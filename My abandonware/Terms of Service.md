@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 29700 old games to download for free!
+More than 29800 old games to download for free!
 
  
 
@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Mary-Kate and Ashley: Crush Course](https://www.myabandonware.com/game/mary-kate-and-ashley-crush-course-rau)
-* [The Golf Pro](https://www.myabandonware.com/game/the-golf-pro-ras)
-* [Marvel Trading Card Game](https://www.myabandonware.com/game/marvel-trading-card-game-rao)
-* [Stacked with Daniel Negreanu](https://www.myabandonware.com/game/stacked-with-daniel-negreanu-ram)
-* [World Series of Poker: Tournament of Champions](https://www.myabandonware.com/game/world-series-of-poker-tournament-of-champions-ral)
+* [Abysma](https://www.myabandonware.com/game/abysma-rbi)
+* [Guilty Bastards](https://www.myabandonware.com/game/guilty-bastards-rbh)
+* [Future Boy](https://www.myabandonware.com/game/future-boy-rbg)
+* [CUBE: Discover Your Cleverness](https://www.myabandonware.com/game/cube-discover-your-cleverness-rbd)
+* [Soccer Champ](https://www.myabandonware.com/game/soccer-champ-rbc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Flyspy](https://www.myabandonware.com/game/flyspy-ho6)
-* [Star Wars: Jedi Reading](https://www.myabandonware.com/game/star-wars-jedi-reading-mtc)
-* [Theatre Wars: Goraku no Dendō](https://www.myabandonware.com/game/theatre-wars-goraku-no-dendo-oty)
+* [Moonbase Io](https://www.myabandonware.com/game/moonbase-io-kvo)
+* [Kingdom of Speldome](https://www.myabandonware.com/game/kingdom-of-speldome-hm9)
+* [Voodoo Rage](https://www.myabandonware.com/game/voodoo-rage-nxt)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
