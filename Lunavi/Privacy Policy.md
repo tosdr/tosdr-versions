@@ -20,7 +20,7 @@
 
 [Expertise](https://www.lunavi.com/expertise)
 
-[Modern Workplace](https://www.lunavi.com/expertise/modern-workplace)[Application Development](https://www.lunavi.com/expertise/application-development)[Infrastructure & Data Center](https://www.lunavi.com/expertise/infrastructure-data-center)[Security](https://www.lunavi.com/expertise/security)[Data & Analytics](https://www.lunavi.com/expertise/data-analytics)
+[Modern Workplace](https://www.lunavi.com/expertise/modern-workplace)[Application Development](https://www.lunavi.com/expertise/application-development)[Infrastructure & Data Center](https://www.lunavi.com/expertise/infrastructure-data-center)[Security](https://www.lunavi.com/expertise/security)[Data & Analytics](https://www.lunavi.com/expertise/data-analytics)[AI Services](https://www.lunavi.com/expertise/ai-services)
 
 [Resources](https://www.lunavi.com/resources)
 
@@ -116,6 +116,8 @@
 
 1. [Azure Data Services](https://www.lunavi.com/expertise/data-analytics)
 2. [Power Platform](https://www.lunavi.com/expertise/data-analytics)
+
+[AI Services](https://www.lunavi.com/expertise/ai-services)
 
 [Resource Library](https://www.lunavi.com/resources)
 
