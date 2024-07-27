@@ -622,6 +622,8 @@ Resources
                     
             * [Registry Operator Change of Control](https://www.icann.org/resources/pages/change-of-control-2015-11-30-en)
                 
+        * [Annual Certification of Compliance](https://www.icann.org/resources/pages/registry-annual-certification-of-compliance-service-2024-07-24-en)
+            
         * [Continued Operations Instrument (COI)](https://www.icann.org/resources/pages/coi-2015-09-28-en)
             
         * [Centralized Zone Data Service (CZDS)](https://www.icann.org/resources/pages/czds-2014-03-03-en)
