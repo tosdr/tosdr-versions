@@ -214,7 +214,7 @@ If you have any questions about our use of cookies or other technologies, please
 
 ###### Last updated March 15, 2024
 
-![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
+![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_123,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
 
 Solutions
 =========
