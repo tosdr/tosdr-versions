@@ -16,7 +16,7 @@ Purchase your next favourite publication](https://issuu.com/store)
 
 [All Categories](https://issuu.com/categories)
 
-![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/ba43964/31d186ba39f38e8c4fac.png)
+![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/6c4220a/31d186ba39f38e8c4fac.png)
 
 Show submenu for "Features" sectionFeatures
 
@@ -48,7 +48,7 @@ Generate QR Codes for your digital content.](https://issuu.com/features/qr-codes
 
 [More Features](https://issuu.com/features)
 
-**Connections**
+**Integrations**
 
 [![](https://static.issuu.com/fe/silkscreen/0.0.3042/icons/gradient/icon-canva-gradient.svg)
 
@@ -78,7 +78,7 @@ Show submenu for "Use Cases" sectionUse Cases
 
 [More Content Types](https://issuu.com/solutions)
 
-![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/ba43964/1e794a8c4ec65e549678.png)
+![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/6c4220a/1e794a8c4ec65e549678.png)
 
 Show submenu for "Learn" sectionLearn
 
