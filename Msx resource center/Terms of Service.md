@@ -140,37 +140,38 @@ MSX Music player
 
 Latest reactions
 
+* [openMSX 19.0 released](https://www.msx.org/news/en/openmsx-190-released "openMSX 19.0 released")
+* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
+* [MSXdev24 #08 Grazers](https://www.msx.org/news/challenges/en/msxdev24-08-grazers "MSXdev24 #08 Grazers")
+* [Beer 202 IDE interface partitioning tool](https://www.msx.org/news/software/en/beer-202-ide-interface-partitioning-tool "Beer 202 IDE interface partitioning tool")
 * [What kind of physical storage do you use?](https://www.msx.org/poll/what-kind-of-physical-storage-do-you-use "What kind of physical storage do you use?")
 * [Do you emulate?](https://www.msx.org/poll/do-you-emulate "Do you emulate?")
 * [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
 * [MRC Mystery Challenge entry 9](https://www.msx.org/photoshoots/bussum-2005/mrc-mystery-challenge-entry-9 "MRC Mystery Challenge entry 9")
 * [Petition for Konami to reissue physical MSX games](https://www.msx.org/news/petition-konami-reissue-physical-msx-games "Petition for Konami to reissue physical MSX games")
-* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MSXdev24 #03 Puzzle Mania - MSXdev24 Edition](https://www.msx.org/news/challenges/en/msxdev24-03-Puzzle%20Mania%20-MSXdev24%20Edition "MSXdev24 #03 Puzzle Mania - MSXdev24 Edition")
-* [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
-* [MSXdev22 #16 Bufonada](https://www.msx.org/news/challenges/en/msxdev22-16-bufonada "MSXdev22 #16 Bufonada")
-* [Lilly's Saga - The Stones of Evergreen OST](https://www.msx.org/news/music/en/lillys-saga-the-stones-of-evergreen-ost "Lilly's Saga - The Stones of Evergreen OST")
 
 Latest forum posts
 
-* [Philips VG-8180 and serial basic](https://www.msx.org/forum/msx-talk/hardware/philips-vg-8180-and-serial-basic "Philips VG-8180 and serial basic")
-* [Was the r800 really a 16-bit ? Seriously ?](https://www.msx.org/forum/msx-talk/general-discussion/was-the-r800-really-a-16-bit-seriously?page=2 "Was the r800 really a 16-bit ? Seriously ?")
-* [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=4 "Candidate games for MSX Conversion. ")
-* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=97 "The Big MegaFlashROM SCC+ SD Topic")
-* [MSX1 Overscan](https://www.msx.org/forum/msx-talk/general-discussion/msx1-overscan?page=2 "MSX1 Overscan")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
-* [Philips VG8235 diskdrive only formats but doesn't read files](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-diskdrive-only-formats-but-doesnt-read-files?page=1 "Philips VG8235 diskdrive only formats but doesn't read files")
-* [Q:But was really a tech issue?](https://www.msx.org/forum/msx-talk/graphics-and-music/qbut-was-really-a-tech-issue "Q:But was really a tech issue?")
-* [Philips VG-8235 unknown ROM modification](https://www.msx.org/forum/msx-talk/hardware/philips-vg-8235-unknown-rom-modification "Philips VG-8235 unknown ROM modification")
-* [Questions about .openmsx/share/software](https://www.msx.org/forum/msx-talk/openmsx/questions-about-openmsxsharesoftware "Questions about .openmsx/share/software")
-* [Carnivore 2 - 2.50 firmware CF card problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-250-firmware-cf-card-problem "Carnivore 2 - 2.50 firmware CF card problem")
-* [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=4 "CVBasic: New BASIC compiler for MSX")
-* ["Shit!" vs "Oh Shit!" releases](https://www.msx.org/forum/msx-talk/general-discussion/shit-vs-oh-shit-releases ""Shit!" vs "Oh Shit!" releases")
+* [Carnivore2+ announcements](https://www.msx.org/forum/msx-talk/hardware/carnivore2-announcements-0 "Carnivore2+ announcements")
+* [MSX FUSION-C, Talking about bugs, errors, mistakes](https://www.msx.org/forum/msx-talk/development/msx-fusion-c-talking-about-bugs-errors-mistakes?page=26 "MSX FUSION-C,  Talking about bugs, errors, mistakes")
+* [MSX.ORG website slow](https://www.msx.org/forum/msx-talk/msx-resource-center/msxorg-website-slow?page=5 "MSX.ORG website slow")
+* [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
+* [Save MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/save-mrc?page=1 "Save MRC ")
+* [Was the r800 really a 16-bit ? Seriously ?](https://www.msx.org/forum/msx-talk/general-discussion/was-the-r800-really-a-16-bit-seriously?page=3 "Was the r800 really a 16-bit ? Seriously ?")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=36 "WonderTANG! Who wants to juice up your MSX?")
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=11 "Full English translation of Illusion City for MSX Turbo-R")
+* [Metal Gear 2 - Megaflashrom SCC+ - How to save? - How to create a empty Savedisk?](https://www.msx.org/forum/msx-talk/software/metal-gear-2-megaflashrom-scc-how-to-save-how-to-create-a-empty-savedisk "Metal Gear 2 - Megaflashrom SCC+ - How to save? - How to create a empty Savedisk?")
+* [simple Universal MegaROM Mapper for Konami/ASC8/ASC16 (Unimapper)](https://www.msx.org/forum/msx-talk/hardware/simple-universal-mapper-rom-for-konamiasc8asc16-unimapper?page=3 "simple Universal MegaROM Mapper for Konami/ASC8/ASC16 (Unimapper)")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=111 "Please help testing upcoming openMSX release!")
+* [Eprom Cartridge Rev 1.5](https://www.msx.org/forum/msx-talk/hardware/eprom-cartridge-rev-15?page=3 "Eprom Cartridge Rev 1.5")
+* ["Jail bars" in RGB output of Philips NMS 8250](https://www.msx.org/forum/msx-talk/hardware/jail-bars-in-rgb-output-of-philips-nms-8250?page=3 ""Jail bars" in RGB output of Philips NMS 8250")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSXdev24 #08 Grazers](https://www.msx.org/news/challenges/en/msxdev24-08-grazers "MSXdev24 #08 Grazers")
 * [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
 * [Lilly's Saga - The Stones of Evergreen OST](https://www.msx.org/news/music/en/lillys-saga-the-stones-of-evergreen-ost "Lilly's Saga - The Stones of Evergreen OST")
 * [MSXdev24 #06 Chimney Man](https://www.msx.org/news/challenges/en/msxdev24-06-chimneyman "MSXdev24 #06 Chimney Man")
@@ -183,7 +184,6 @@ News headlines
 * [Introducing repairbas.com](https://www.msx.org/news/websites/en/introducing-repairbascom "Introducing repairbas.com")
 * [MSXdev24 #02 AlienMSX](https://www.msx.org/news/challenges/en/MSXdev24-2-AlienMSX "MSXdev24 #02 AlienMSX")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
-* [MSXdev24 #01 Princess Paloma's Rescue](https://www.msx.org/news/challenges/en/MSXdev24-01-PrincessPalomasRescue "MSXdev24 #01 Princess Paloma's Rescue")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
