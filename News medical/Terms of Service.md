@@ -350,21 +350,21 @@ Last Updated: May 26, 2022
     
     [Long-term immune changes persist in unvaccinated COVID-19 patients](https://www.news-medical.net/news/20240721/Long-term-immune-changes-persist-in-unvaccinated-COVID-19-patients.aspx)
     
-* [![Unexpected T-cell reactions to adenoviral COVID-19 vaccines discovered](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Unexpected-T-cell-reactions-to-adenoviral-COVID-19-vaccines-discovered-Researchers-From-The-U.aspx)
-    
-    [Unexpected T-cell reactions to adenoviral COVID-19 vaccines discovered](https://www.news-medical.net/news/20240719/Unexpected-T-cell-reactions-to-adenoviral-COVID-19-vaccines-discovered-Researchers-From-The-U.aspx)
-    
-* [![Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
-    
-    [Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
-    
 * [![Understanding the new coronavirus mutant strain KP.3.1.1](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
     
     [Understanding the new coronavirus mutant strain KP.3.1.1](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
     
-* [![Scurvy on the rise in the United States: Pediatric cases triple in five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Scurvy-on-the-rise-in-the-United-States-Pediatric-cases-triple-in-five-years.aspx)
+* [![Texas Heart Institute and BiVACOR achieve milestone with total artificial heart implantation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/Texas-Heart-Institute-and-BiVACOR-achieve-milestone-with-total-artificial-heart-implantation.aspx)
     
-    [Scurvy on the rise in the United States: Pediatric cases triple in five years](https://www.news-medical.net/news/20240719/Scurvy-on-the-rise-in-the-United-States-Pediatric-cases-triple-in-five-years.aspx)
+    [Texas Heart Institute and BiVACOR achieve milestone with total artificial heart implantation](https://www.news-medical.net/news/20240725/Texas-Heart-Institute-and-BiVACOR-achieve-milestone-with-total-artificial-heart-implantation.aspx)
+    
+* [![Can cutting back on extra virgin olive oil make your heart healthier?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
+    
+    [Can cutting back on extra virgin olive oil make your heart healthier?](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
+    
+* [![COVID pandemic accelerated brain aging, especially in males and deprived groups](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/COVID-pandemic-accelerated-brain-aging-especially-in-males-and-deprived-groups.aspx)
+    
+    [COVID pandemic accelerated brain aging, especially in males and deprived groups](https://www.news-medical.net/news/20240725/COVID-pandemic-accelerated-brain-aging-especially-in-males-and-deprived-groups.aspx)
     
 
 [### E-Cigarettes and Ethanol: A forensic Perspective on Vaping
@@ -395,13 +395,13 @@ In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Cr
     
     [Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
     
-* [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
-    
-    [Sudden Dizziness and Loss of Balance: Potential Underlying Issues](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
-    
 * [![The Role of Vitamin D in Hormonal Balance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
     [The Role of Vitamin D in Hormonal Balance](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
+    
+* [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
+    
+    [Sudden Dizziness and Loss of Balance: Potential Underlying Issues](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
     
 * [![Understanding the Glycemic Index](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Understanding-the-Glycemic-Index.aspx)
     
@@ -415,25 +415,25 @@ In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Cr
 Latest News
 -----------
 
-* [![Study reveals skin bacteria's role in chronic bone infections after joint surgery](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Study-reveals-skin-bacterias-role-in-chronic-bone-infections-after-joint-surgery.aspx)
+* [![Scientists explore early life factors contributing to SMA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Scientists-explore-early-life-factors-contributing-to-SMA.aspx)
     
-    [Study reveals skin bacteria's role in chronic bone infections after joint surgery](https://www.news-medical.net/news/20240724/Study-reveals-skin-bacterias-role-in-chronic-bone-infections-after-joint-surgery.aspx)
+    [Scientists explore early life factors contributing to SMA](https://www.news-medical.net/news/20240727/Scientists-explore-early-life-factors-contributing-to-SMA.aspx)
     
-* [![Chronic and new anxiety tied to increased dementia risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Chronic-and-new-anxiety-tied-to-increased-dementia-risk.aspx)
+* [![New study examines educational disruptions for children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/New-study-examines-educational-disruptions-for-children.aspx)
     
-    [Chronic and new anxiety tied to increased dementia risk](https://www.news-medical.net/news/20240724/Chronic-and-new-anxiety-tied-to-increased-dementia-risk.aspx)
+    [New study examines educational disruptions for children](https://www.news-medical.net/news/20240727/New-study-examines-educational-disruptions-for-children.aspx)
     
-* [![Comprehensive dataset from A4 study yields key insights about Alzheimer's disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Comprehensive-dataset-from-A4-study-yields-key-insights-about-Alzheimers-disease.aspx)
+* [![Breakthrough therapy heals spinal cord injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
     
-    [Comprehensive dataset from A4 study yields key insights about Alzheimer's disease](https://www.news-medical.net/news/20240724/Comprehensive-dataset-from-A4-study-yields-key-insights-about-Alzheimers-disease.aspx)
+    [Breakthrough therapy heals spinal cord injuries](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
     
-* [![Challenging antibiotic resistance with dual-action macrolones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Dual-Action-Antibiotic-Could-Make-Bacterial-Resistance-Nearly-Impossible.aspx)
+* [![Innovative dual-drug strategy for colorectal cancer treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Innovative-dual-drug-strategy-for-colorectal-cancer-treatment.aspx)
     
-    [Challenging antibiotic resistance with dual-action macrolones](https://www.news-medical.net/news/20240724/Dual-Action-Antibiotic-Could-Make-Bacterial-Resistance-Nearly-Impossible.aspx)
+    [Innovative dual-drug strategy for colorectal cancer treatment](https://www.news-medical.net/news/20240727/Innovative-dual-drug-strategy-for-colorectal-cancer-treatment.aspx)
     
-* [![Waters new Rapid Screening-DSC enables up to 24x faster thermal stability testing at ultra-low sample volumes for antibody drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Waters-new-Rapid-Screening-DSC-enables-up-to-24x-faster-thermal-stability-testing-at-ultra-low-sample-volumes-for-antibody-drugs.aspx)
+* [![New biomarker helps determine the optimal treatment for colon cancer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/New-biomarker-helps-determine-the-optimal-treatment-for-colon-cancer.aspx)
     
-    [Waters new Rapid Screening-DSC enables up to 24x faster thermal stability testing at ultra-low sample volumes for antibody drugs](https://www.news-medical.net/news/20240724/Waters-new-Rapid-Screening-DSC-enables-up-to-24x-faster-thermal-stability-testing-at-ultra-low-sample-volumes-for-antibody-drugs.aspx)
+    [New biomarker helps determine the optimal treatment for colon cancer](https://www.news-medical.net/news/20240727/New-biomarker-helps-determine-the-optimal-treatment-for-colon-cancer.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Wednesday 24 Jul 2024
+Last Updated: Saturday 27 Jul 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
