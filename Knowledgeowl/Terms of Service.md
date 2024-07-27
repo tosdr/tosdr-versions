@@ -921,6 +921,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Supported cipher suites](https://www.knowledgeowl.com/help/supported-cipher-suites)
         * [Required IP addresses](https://www.knowledgeowl.com/help/required-ip-addresses)
         * [Vulnerability Disclosure Policy](https://www.knowledgeowl.com/help/vulnerability-disclosure-policy)
+        * [Knowledge base backup](https://www.knowledgeowl.com/help/knowledge-base-backup)
 * [Account and billing](javascript:void(0);)
     
     * [Add and remove knowledge bases](https://www.knowledgeowl.com/help/adding-editing-knowledge-bases)
