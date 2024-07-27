@@ -1,7 +1,5 @@
    
 
-IXL will be unavailable due to scheduled maintenance Friday 26 July from 5:00 a.m. to 5:15 a.m. British Summer Time (2024/07/26 04:00–04:15 GMT). We appreciate your patience while we work to keep our site running smoothly.
-
 IXL uses cookies to ensure that you get the best experience on our website. See our [privacy policy](https://www.ixl.com/privacypolicy) to learn more.
 
 [IXL Learning](https://www.ixl.com/)
