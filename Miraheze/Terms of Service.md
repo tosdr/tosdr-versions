@@ -123,7 +123,7 @@ Other languages:
 * [русский](https://meta.miraheze.org/wiki/Terms_of_Use/ru "Условия использования (19% translated)")
 * [українська](https://meta.miraheze.org/wiki/Terms_of_Use/uk "Умови використання (14% translated)")
 * [اردو](https://meta.miraheze.org/wiki/Terms_of_Use/ur "استعمال کی شرائط (29% translated)")
-* [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (29% translated)")
+* [हिन्दी](https://meta.miraheze.org/wiki/Terms_of_Use/hi "उपयोग की शर्तें (50% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Terms_of_Use/bn "ব্যবহারের শর্তাবলী (29% translated)")
 * [中文](https://meta.miraheze.org/wiki/Terms_of_Use/zh "使用条款 (86% translated)")
 * [中文（中国大陆）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-cn "使用条款 (36% translated)")
