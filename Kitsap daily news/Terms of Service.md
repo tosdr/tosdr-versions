@@ -6,9 +6,9 @@
 
 [Skip to content](#content)
 
-Tuesday, July 23, 2024
+Friday, July 26, 2024
 
- [![](https://www.accuweather.com/images/weathericons/34.svg) 60°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+ [![](https://www.accuweather.com/images/weathericons/34.svg) 61°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 [Sign Out](javascript:newzware_doLogout();) [Sign In](javascript:void(0)) [Subscribe](https://www.kitsapdailynews.com/subscribe/) [Newsletter](https://www.kitsapdailynews.com/newsletters/) [Contact Us](https://www.kitsapdailynews.com/contact/)[](https://www.facebook.com/KitsapDailyNews/ "Find Us On Facebook")[](https://twitter.com/KitsapDailyNews/ "Find Us On Twitter")[](https://www.instagram.com/KitsapDailyNews/ "Find Us On Instagam")[](https://www.kitsapdailynews.com/feed/ "Access Our RSS Feed")
 
@@ -89,7 +89,7 @@ Tuesday, July 23, 2024
 
 [![](https://www.accuweather.com/images/weathericons/34.svg)
 
-60°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+61°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 Submit search 
 
