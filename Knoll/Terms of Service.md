@@ -332,7 +332,7 @@
     * [Why Knoll?](https://www.knoll.com/story/design-plan/why-knoll)
     * [The Archive](https://www.knoll.com/the-archive/)
     * [Our Designers](https://www.knoll.com/design-plan/resources/designers)
-    * [World Monuments Prize](https://www.knoll.com/terms-of-use/story/design-plan/world-monuments-fund)
+    * [World Monuments Prize](https://www.knoll.com/story/design-plan/world-monuments-fund)
     
 
 [![](/images/logo.png)](https://www.knoll.com/)
@@ -625,7 +625,7 @@
             * [Why Knoll?](https://www.knoll.com/story/design-plan/why-knoll)
             * [The Archive](https://www.knoll.com/the-archive/)
             * [Our Designers](https://www.knoll.com/design-plan/resources/designers)
-            * [World Monuments Prize](https://www.knoll.com/terms-of-use/story/design-plan/world-monuments-fund)
+            * [World Monuments Prize](https://www.knoll.com/story/design-plan/world-monuments-fund)
 
    [](javascript:;)
 
@@ -850,8 +850,8 @@ East Greenville, PA 18041
 
 ### Company
 
-* [Contact Us](https://knlprdwcsmgt.knoll.com/help/workplace)
-* [Discover Knoll](https://knlprdwcsmgt.knoll.com/design-plan/discover)
+* [Contact Us](https://www.knoll.com/help/workplace)
+* [Discover Knoll](https://www.knoll.com/design-plan/discover)
 * [Careers](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll?Skills=5e5722fb51ba100a6f097075c63a0000)
 * [Investor Relations](https://www.hermanmiller.com/investors/)
 * [Newsroom](https://news.millerknoll.com/knoll)
