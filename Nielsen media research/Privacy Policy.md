@@ -36,6 +36,8 @@
 
 [Video metadata](https://www.nielsen.com/solutions/content-metadata/#video-metadata)
 
+[Contextual video data](https://www.nielsen.com/solutions/content-metadata/contextual-video-data/)
+
 ###### Featured
 
 [Nielsen ONE](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
