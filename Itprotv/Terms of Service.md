@@ -107,59 +107,11 @@ Certified Information Security Manager (CISM)
 
 [View course](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
 
-[](https://www.itpro.tv/catalog/it/developing-solutions-for-microsoft-azure-az-204/)
+[](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
 
-Developing Solutions for Microsoft Azure (AZ-204)
+Certified Ethical Hacker (CEH) v.12
 
-[View course](https://www.itpro.tv/catalog/it/developing-solutions-for-microsoft-azure-az-204/)
-
-[](https://www.itpro.tv/catalog/it/configure-windows-client-storage/)
-
-Configure Windows Client Storage
-
-[View course](https://www.itpro.tv/catalog/it/configure-windows-client-storage/)
-
-[](https://www.itpro.tv/catalog/it/configure-networking-in-windows/)
-
-Configure Networking in Windows
-
-[View course](https://www.itpro.tv/catalog/it/configure-networking-in-windows/)
-
-[](https://www.itpro.tv/catalog/it/designing-microsoft-azure-infrastructure-solutions-az-305/)
-
-Designing Microsoft Azure Infrastructure Solutions (AZ-305)
-
-[View course](https://www.itpro.tv/catalog/it/designing-microsoft-azure-infrastructure-solutions-az-305/)
-
-[](https://www.itpro.tv/catalog/it/manage-installing-the-windows-client/)
-
-Manage Installing the Windows Client
-
-[View course](https://www.itpro.tv/catalog/it/manage-installing-the-windows-client/)
-
-[](https://www.itpro.tv/catalog/it/mastering-microsoft-endpoint-manager-and-intune/)
-
-Mastering Microsoft Endpoint Manager and Intune
-
-[View course](https://www.itpro.tv/catalog/it/mastering-microsoft-endpoint-manager-and-intune/)
-
-[](https://www.itpro.tv/catalog/it/implement-enterprise-splunk-for-your-business/)
-
-Implement Enterprise Splunk for Your Business
-
-[View course](https://www.itpro.tv/catalog/it/implement-enterprise-splunk-for-your-business/)
-
-[](https://www.itpro.tv/catalog/it/getting-your-data-into-splunk-effortlessly/)
-
-Getting Your Data Into Splunk Effortlessly
-
-[View course](https://www.itpro.tv/catalog/it/getting-your-data-into-splunk-effortlessly/)
-
-[](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
-
-Certified Information Security Manager (CISM)
-
-[View course](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
+[View course](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
 
 [](https://www.itpro.tv/catalog/it/developing-solutions-for-microsoft-azure-az-204/)
 
@@ -214,6 +166,72 @@ Getting Your Data Into Splunk Effortlessly
 Certified Information Security Manager (CISM)
 
 [View course](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
+
+[](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
+
+Certified Ethical Hacker (CEH) v.12
+
+[View course](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
+
+[](https://www.itpro.tv/catalog/it/developing-solutions-for-microsoft-azure-az-204/)
+
+Developing Solutions for Microsoft Azure (AZ-204)
+
+[View course](https://www.itpro.tv/catalog/it/developing-solutions-for-microsoft-azure-az-204/)
+
+[](https://www.itpro.tv/catalog/it/configure-windows-client-storage/)
+
+Configure Windows Client Storage
+
+[View course](https://www.itpro.tv/catalog/it/configure-windows-client-storage/)
+
+[](https://www.itpro.tv/catalog/it/configure-networking-in-windows/)
+
+Configure Networking in Windows
+
+[View course](https://www.itpro.tv/catalog/it/configure-networking-in-windows/)
+
+[](https://www.itpro.tv/catalog/it/designing-microsoft-azure-infrastructure-solutions-az-305/)
+
+Designing Microsoft Azure Infrastructure Solutions (AZ-305)
+
+[View course](https://www.itpro.tv/catalog/it/designing-microsoft-azure-infrastructure-solutions-az-305/)
+
+[](https://www.itpro.tv/catalog/it/manage-installing-the-windows-client/)
+
+Manage Installing the Windows Client
+
+[View course](https://www.itpro.tv/catalog/it/manage-installing-the-windows-client/)
+
+[](https://www.itpro.tv/catalog/it/mastering-microsoft-endpoint-manager-and-intune/)
+
+Mastering Microsoft Endpoint Manager and Intune
+
+[View course](https://www.itpro.tv/catalog/it/mastering-microsoft-endpoint-manager-and-intune/)
+
+[](https://www.itpro.tv/catalog/it/implement-enterprise-splunk-for-your-business/)
+
+Implement Enterprise Splunk for Your Business
+
+[View course](https://www.itpro.tv/catalog/it/implement-enterprise-splunk-for-your-business/)
+
+[](https://www.itpro.tv/catalog/it/getting-your-data-into-splunk-effortlessly/)
+
+Getting Your Data Into Splunk Effortlessly
+
+[View course](https://www.itpro.tv/catalog/it/getting-your-data-into-splunk-effortlessly/)
+
+[](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
+
+Certified Information Security Manager (CISM)
+
+[View course](https://www.itpro.tv/catalog/it/certified-information-security-manager-cism/)
+
+[](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
+
+Certified Ethical Hacker (CEH) v.12
+
+[View course](https://www.itpro.tv/catalog/it/certified-ethical-hacker-v12/)
 
 Develop the tech skills needed to succeed
 
