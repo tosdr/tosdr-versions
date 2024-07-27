@@ -45,9 +45,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Avetica Moodle Workplace traffic education](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-4-200x150.png)ANWB Streetwise implemented Moodle Workplace to empower primary schools with traffic education](https://moodle.com/news/anwb-streetwise-uses-moodle-workplace-for-traffic-education/)
-    * [![Lifelong learning with Moodle](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-3-200x150.png)What are the features of Lifelong Learning?](https://moodle.com/news/what-are-the-features-of-lifelong-learning/)
-    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
+    * [![Register](https://moodle.com/wp-content/uploads/2024/06/MootGlobal24_HomepageBanner_Mobile-1-200x150.png)Register for Moodle Moot 2024](https://moodlemoot.org/2024/?utm_campaign=MoodlecomRegister)
+    * [![G2 Summer Badges Blog thumbnail](https://moodle.com/wp-content/uploads/2024/07/G2-Summer-Badges-Blog-thumbnail-200x150.png)Moodle announced Leader in multiple categories of the G2 badges for Summer 2024](https://moodle.com/news/moodle-announced-leader-in-multiple-categories-of-the-g2-badges-for-summer-2024/)
+    * [![ave calvar CxNfaI5zVtk unsplash](https://moodle.com/wp-content/uploads/2024/07/ave-calvar-CxNfaI5zVtk-unsplash-225x150.jpeg)How to assess the effectiveness of soft skills training](https://moodle.com/news/how-to-assess-soft-skills-training/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -217,9 +217,9 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Avetica Moodle Workplace traffic education](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-4-200x150.png)ANWB Streetwise implemented Moodle Workplace to empower primary schools with traffic education](https://moodle.com/news/anwb-streetwise-uses-moodle-workplace-for-traffic-education/)
-    * [![Lifelong learning with Moodle](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-3-200x150.png)What are the features of Lifelong Learning?](https://moodle.com/news/what-are-the-features-of-lifelong-learning/)
-    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
+    * [![Register](https://moodle.com/wp-content/uploads/2024/06/MootGlobal24_HomepageBanner_Mobile-1-200x150.png)Register for Moodle Moot 2024](https://moodlemoot.org/2024/?utm_campaign=MoodlecomRegister)
+    * [![G2 Summer Badges Blog thumbnail](https://moodle.com/wp-content/uploads/2024/07/G2-Summer-Badges-Blog-thumbnail-200x150.png)Moodle announced Leader in multiple categories of the G2 badges for Summer 2024](https://moodle.com/news/moodle-announced-leader-in-multiple-categories-of-the-g2-badges-for-summer-2024/)
+    * [![ave calvar CxNfaI5zVtk unsplash](https://moodle.com/wp-content/uploads/2024/07/ave-calvar-CxNfaI5zVtk-unsplash-225x150.jpeg)How to assess the effectiveness of soft skills training](https://moodle.com/news/how-to-assess-soft-skills-training/)
 
 Empowering educators to improve our world.
 
