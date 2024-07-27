@@ -1,3 +1,5 @@
+[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-july-2024s-meme-of-the-month)
+
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -97,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!["Hey Beter" Memes Are Ironic Hell](https://i.kym-cdn.com/featured_items/icons/wide/000/025/226/Screen_Shot_2017-03-16_at_12.03.00_PM.png "Happy Anniversary To 'Hey Beter' Perhaps The First Sign Memes Were Becoming Brain Rot")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/296/addison-rae-charli-damelio-tiktok-featured-image-2020-billboard-1548-1592430173.jpg "What's Up With The 'Women Don't Understand POV' Discourse? An Incendiary Twitter Controversy Explained")
     
-    Happy Anniversary To 'Hey Beter' Perhaps The First Sign Memes Were Becoming Brain Rot](https://knowyourmeme.com/memes/hey-beter)
+    What's Up With The 'Women Don't Understand POV' Discourse? An Incendiary Twitter Controversy Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-women-dont-understand-pov-discourse-an-incendiary-twitter-controversy-explained)
     
-* [![The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action](https://i.kym-cdn.com/featured_items/icons/wide/000/025/225/cover8.jpg "The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/295/20240723-warren-vance-split-c1main.jpg "As Internet Discovers Truth About The 'J.D. Vance Couch' Rumors, It Discovers Time Vance Appears To Have Looked Up 'Dolphins' And 'Women' On Twitter")
     
-    The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action](https://knowyourmeme.com/memes/i-hate-x-pics-dont-send-me-any)
+    As Internet Discovers Truth About The 'J.D. Vance Couch' Rumors, It Discovers Time Vance Appears To Have Looked Up 'Dolphins' And 'Women' On Twitter](https://knowyourmeme.com/news/as-internet-discovers-truth-about-the-jd-vance-couch-diddler-rumors-it-discovers-time-vance-appears-to-have-looked-up-dolphins-violating-women-on-twitter)
     
-* [![Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/025/224/Dan_Hentschel_cover.jpg "Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/294/let's_go_gambling_explainer_cover.jpg "What's The 'Let's Go Gambling' TikTok Meme? The Viral 'Aw Dangit' Gamblecore Meme Explained")
     
-    Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter](https://knowyourmeme.com/memes/dan-hentschel-drinking-vodka-in-a-car)
+    What's The 'Let's Go Gambling' TikTok Meme? The Viral 'Aw Dangit' Gamblecore Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-lets-go-gambling-tiktok-meme-the-viral-aw-dangit-gamblecore-meme-explained)
     
-* [![If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'](https://i.kym-cdn.com/featured_items/icons/wide/000/025/223/wp.jpg "If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/293/lemmeeypfp.jpg "What Does 'EYP' Mean On TikTok? The Meaning Of The Viral 'Lemme EYP' Memes Explained")
     
-    If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'](https://knowyourmeme.com/memes/what-prompt-did-you-use)
+    What Does 'EYP' Mean On TikTok? The Meaning Of The Viral 'Lemme EYP' Memes Explained](https://knowyourmeme.com/editorials/guides/what-does-the-slang-eyp-mean-on-tiktok-the-meaning-of-the-viral-lemme-eyp-memes-explained)
     
-* [![People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format](https://i.kym-cdn.com/featured_items/icons/wide/000/025/222/if-you-asked-me-on-a-deeper-level.jpg "People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/292/chickens_for_KFC_explainer_cover.jpg "What Does ‘Chickens For KFC’ Mean? The Viral Catchphrase And Meme Explained")
     
-    People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format](https://knowyourmeme.com/memes/if-you-asked-me-on-a-deeper-level-tiktok-trend)
+    What Does ‘Chickens For KFC’ Mean? The Viral Catchphrase And Meme Explained](https://knowyourmeme.com/editorials/guides/what-does-chickens-for-kfc-mean-and-who-was-netanyahu-calling-out-the-viral-catchphrase-and-meme-explained)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Kamala Harris](https://knowyourmeme.com/memes/people/kamala-harris "Kamala Harris") [David Harris Jr. Plane Rage Bait](https://knowyourmeme.com/memes/david-harris-jrs-plane-rage-bait "David Harris Jr. Plane Rage Bait")
 
 Terms of Service and Use
 ========================
@@ -261,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
