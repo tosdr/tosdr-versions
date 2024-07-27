@@ -124,7 +124,7 @@ Other languages:
 * [Ελληνικά](https://meta.miraheze.org/wiki/Privacy_Policy/el "Πολιτική Απορρήτου (2% translated)")
 * [русский](https://meta.miraheze.org/wiki/Privacy_Policy/ru "Политика конфиденциальности (2% translated)")
 * [العربية](https://meta.miraheze.org/wiki/Privacy_Policy/ar "سياسة الخصوصية (2% translated)")
-* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (60% translated)")
+* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (68% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Privacy_Policy/bn "গোপনীয়তার নীতি (2% translated)")
 * [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "隐私政策 (6% translated)")
 * [中文（中国大陆）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-cn "隐私政策 (2% translated)")
