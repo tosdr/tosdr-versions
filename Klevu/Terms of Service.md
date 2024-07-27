@@ -37,12 +37,10 @@ Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for
 
 [Home](https://www.klevu.com/) Terms of Service
 
-* [Terms of Service](https://www.klevu.com/terms-of-service/)
-* [Privacy Policy](https://www.klevu.com/privacy-policy/)
-* [Data Processing Addendum](https://www.klevu.com/data-processing-addendum/)
-* [Sub Processors](https://www.klevu.com/sub-processors/)
-* [Technical Support Policy](https://www.klevu.com/technical-support-policy)
-* [Service Credit SLA](https://www.klevu.com/service-credits-sla/)
+* [Magento AI Product Discovery](https://www.klevu.com/integrations/magento-adobe-commerce/)
+* [Magento AI Search](https://www.klevu.com/integrations/magento-adobe-commerce/search/)
+* [Magento AI Recommendations](https://www.klevu.com/integrations/magento-adobe-commerce/recommendations/)
+* [Magento AI Merchandising](https://www.klevu.com/integrations/magento-adobe-commerce/merchandising/)
 
 Terms of Service
 ================
