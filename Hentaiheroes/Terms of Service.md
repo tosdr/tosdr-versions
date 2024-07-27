@@ -1,10 +1,12 @@
 Loading...
 
-![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/town-v5.jpg)
+![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_path_event.jpg)
 
 [![](https://hh2.hh-content.com/design/ic_arrow-back.svg)](https://www.hentaiheroes.com/home.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
 
-### ToU & Contact](https://www.hentaiheroes.com/contact.html)
+### ToU & Contact](https://www.hentaiheroes.com/contact.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
+
+### Content Removal](https://form.asana.com/?k=jSUXyldrGi4LHRbZRk70LQ&d=27123492483887)
 
 [](# "Fullscreen")
 
@@ -16,6 +18,10 @@ Loading...
 
 For any technical issues, questions or suggestions, please contact our support team. To have access to our support, you must be logged in to create a ticket. In case you can not log in for any reason, please send us an email from the email you used to create your account, detailing your problem, by clicking the button below.  
 [Customer Support](mailto:support@kinkoid.com)
+
+#### Content Removal
+
+If a content is illegal of infringe our terms of use, please report is using the link below. [Report Here](https://form.asana.com/?k=jSUXyldrGi4LHRbZRk70LQ&d=27123492483887)
 
 #### Bank transactions
 
