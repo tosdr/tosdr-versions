@@ -362,7 +362,6 @@ Lose weight and keep it off without crash dieting!
 * [Newsroom](https://www.golo.com/pages/newsroom)
 * [GOLO Reviews](https://www.golo.com/pages/reviews)
 * [Contact GOLO](https://www.golo.com/pages/contacts)
-
 * [About Us](https://www.golo.com/pages/about-us)
 * [About myGOLO](https://www.golo.com/pages/mygolo)
 * [End User License Agreement](https://www.golo.com/pages/end-user-license-agreement)
@@ -372,13 +371,15 @@ Lose weight and keep it off without crash dieting!
 * [Accessibility Statement](https://www.golo.com/pages/accessibility-statement)
 * [Your Privacy Choices](https://www.golo.com/pages/cookie-preferences)
 
+![](//www.golo.com/cdn/shop/files/golo-logo.svg?v=1721253647)
+
 [facebook - Opens external website in a new window.](https://www.facebook.com/goloforlife/) [Instagram - Opens external website in a new window.](https://www.instagram.com/goloforlife/) [Pinterest - Opens external website in a new window.](https://www.pinterest.com/goloforlife/boards/) [Youtube - Opens external website in a new window.](https://www.youtube.com/channel/UCybBL9A7LnpQsOl1CFlthOw)
 
 By clicking subscribe, you agree to our [Privacy Policy.](https://www.golo.com/pages/privacy-policy)
 
 † Unsubscribe at any time
 
-**Have questions and want to talk to GOLO Customer Service?** Call [**1-800-730-GOLO (4656)**](tel:+18007304656). We are available Mon – Fri, 9am – 8:30pm EST
+**Have questions and want to talk to GOLO Customer Service?** Call [**1-800-730-GOLO (4656)**](tel:+18007304656 "tel:+18007304656"). We are available Mon – Fri, 9am – 8:30pm EST
 
 © 2024 GOLO LLC. All Rights Reserved
 
