@@ -1,4 +1,4 @@
- [![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) EPIC GIVEAWAY ON LALAL.AI ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) GET 5000 MINUTES FREE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) CLICK TO PARTICIPATE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg)](https://www.instagram.com/reel/C9vEKa4scJo/?igsh=MWlwMjF2eW41Ymx5dQ==) 
+ [![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) EPIC GIVEAWAY AT LALAL.AI ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) GET 5000 MINUTES FREE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) CLICK TO PARTICIPATE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg)](https://www.instagram.com/reel/C9vEKa4scJo/?igsh=MWlwMjF2eW41Ymx5dQ==) 
 
 [](https://www.lalal.ai/)
 
