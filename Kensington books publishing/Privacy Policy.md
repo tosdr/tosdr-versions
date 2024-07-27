@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
-    
-    How To Read More in 2024
-    
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
-
-* * *
-
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
     
     New Releases
@@ -35,6 +27,14 @@ Audio
     Books Bans Are on the Rise in America
     
     Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * <
     
@@ -206,7 +206,7 @@ Audio
 
 [cart](https://cart.penguinrandomhouse.com/prhcart/prhcart.php)
 
-[![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg)](https://www.penguinrandomhouse.com/)
+[![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2)](https://www.penguinrandomhouse.com/)
 
 [Books](https://www.penguinrandomhouse.com/books/)
 
@@ -366,15 +366,13 @@ Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-ki
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
 
- [![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg) ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/logo-mobile.svg)](https://www.penguinrandomhouse.com/)
+ [![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2) ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2)](https://www.penguinrandomhouse.com/)
 
 ![Sign In](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-account-icon.svg)
 
 [cart](https://cart.penguinrandomhouse.com/prhcart/prhcart.php)
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
-
-![Penguin RandomHouse](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/logo-white.svg)
 
   [![close search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/search-close.svg)](javascript:void(0) "Close search window")
 
