@@ -344,7 +344,7 @@ Terms of Service
 
 SHOP NOW
 
-30% Off with Coupon Code!
+30% Off Courses with Coupon Code!
 
 BACK2SCHOOL
 
