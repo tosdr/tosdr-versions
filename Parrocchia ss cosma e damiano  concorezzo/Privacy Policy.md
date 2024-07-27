@@ -191,7 +191,9 @@ PEC: parrocchia@pec.chiesadiconcorezzo.it
 Codice fiscale 87003310155  
 Partita IVA 00988570966
 
-[Privacy](https://www.chiesadiconcorezzo.it/privacy-policy/) – [Tutela dei minori](https://www.chiesadiconcorezzo.it/tutela-dei-minori/)
+[Privacy Policy](https://www.chiesadiconcorezzo.it/privacy-policy/) – [Cookie Policy](https://www.chiesadiconcorezzo.it/cookie-policy-ue/)
+
+[Tutela dei minori](https://www.chiesadiconcorezzo.it/tutela-dei-minori/)
 
 ### Siti utili
 
