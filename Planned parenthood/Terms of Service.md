@@ -33,7 +33,7 @@
     
     * [Schedule an Appointment](https://www.plannedparenthood.org/health-center)
     * [Get Care Online](https://www.plannedparenthood.org/get-care/get-care-online)
-    * [Planned Parenthood App](https://www.plannedparenthood.org/get-care/ppdirect)
+    * [Planned Parenthood Direct](https://www.plannedparenthood.org/get-care/ppdirect)
     * [Find an Abortion Clinic](https://www.plannedparenthood.org/abortion-access)
     * [Our Services](https://www.plannedparenthood.org/get-care/our-services)
     * [Health Insurance](https://www.plannedparenthood.org/get-care/health-insurance)
@@ -91,7 +91,7 @@
     * [Overview](https://www.plannedparenthood.org/get-care)
     * [Schedule an Appointment](https://www.plannedparenthood.org/health-center)
     * [Get Care Online](https://www.plannedparenthood.org/get-care/get-care-online)
-    * [Planned Parenthood App](https://www.plannedparenthood.org/get-care/ppdirect)
+    * [Planned Parenthood Direct](https://www.plannedparenthood.org/get-care/ppdirect)
     * [Find an Abortion Clinic](https://www.plannedparenthood.org/abortion-access)
     * [Our Services](https://www.plannedparenthood.org/get-care/our-services)
     * [Health Insurance](https://www.plannedparenthood.org/get-care/health-insurance)
