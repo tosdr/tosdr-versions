@@ -141,7 +141,7 @@ Any arbitration award and any judgment confirming shall not have any precedentia
 
 For arbitration claims you assert against hear.com in accordance with this Section (but not for any arbitration claim against you), hear.com will pay your administrative, hearing, and arbitrator’s fees and costs for the arbitration (but not the fees, expenses, and costs of your lawyers, experts, or witnesses) in excess of any filing fee you would have been required to pay to file the claim as a lawsuit in a state or federal court (whichever is greater) in the judicial district in which you reside. Hear.com will pay its, and you will pay your, lawyers’, experts’, and witnesses’ fees, expenses, and costs with respect to all claims.
 
-Before seeking arbitration, you must first send to hear.com a written Notice of Dispute (“Notice”). The Notice must be sent by certified mail to hear.com LLC 396 Alhambra Circle, Suite 600 Coral Gables, FL 33134. The Notice should describe the nature and basis of your claim or dispute and the specific relief you seek. If you and hear.com cannot reach an agreement to resolve the claim within thirty days after the Notice is received, you or hear.com may commence arbitration.
+Before seeking arbitration, you must first send to hear.com a written Notice of Dispute (“Notice”). The Notice must be sent by certified mail to hear.com LLC 396 Alhambra Circle, Suite 1200 Coral Gables, FL 33134. The Notice should describe the nature and basis of your claim or dispute and the specific relief you seek. If you and hear.com cannot reach an agreement to resolve the claim within thirty days after the Notice is received, you or hear.com may commence arbitration.
 
 **I. Disclaimer of warranties**
 
