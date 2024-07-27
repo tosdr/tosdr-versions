@@ -77,6 +77,7 @@ Close Menu Main Menu
 * Agreements
     * [Universal Terms of Service](https://www.inmotionhosting.com/legal/)
     * [Hosting Agreement](https://www.inmotionhosting.com/legal/hosting-agreement/)
+    * [Dedicated Server SLA](https://www.inmotionhosting.com/legal/dedicated-server-sla/)
     * [Backup Manager Agreement](https://www.inmotionhosting.com/legal/backup-manager-agreement/)
     * [Domain Registration Agreement](https://www.inmotionhosting.com/legal/domain-registration-agreement/)
     * [Flex Metal Private Cloud Agreement](https://www.inmotionhosting.com/legal/flex-metal-private-cloud-agreement/)
@@ -102,7 +103,7 @@ Close Menu Main Menu
 Universal Terms of Service
 ==========================
 
-_Last Updated: May 24, 2024_
+_Last Updated: July 25, 2024_
 
 **IMPORTANT:**
 
@@ -188,7 +189,9 @@ These UNIVERSAL TERMS OF SERVICE are an agreement which sets forth the terms and
 12. Term; Termination; Cancellation Policy.
     1. The initial/introductory term of the Agreements shall be as set forth in the Order (the “Initial Term”). The Initial Term shall begin upon commencement of the Products. After the Initial Term, the Agreements shall automatically renew. The Initial Term and all successive renewal periods shall be referred to, collectively, as the “Term.”
     2. AFTER THE INITIAL TERM, CUSTOMER ACKNOWLEDGES, AGREES AND AUTHORIZES COMPANY TO AUTOMATICALLY BILL AND/OR CHARGE ON CUSTOMER’S CREDIT CARD FOR SUCCESSIVE TERMS OF EQUAL LENGTH AS THE INITIAL TERM, UNLESS TERMINATED OR CANCELED BY EITHER PARTY AS PROVIDED HEREIN. REFER TO ” BILLING AND PAYMENT” SECTION FOR ADDITIONAL DETAILS.
-    3. The Agreements may be canceled by Customer upon proper notice to Company, prior to the end of the Initial Term or any Term thereafter. Customer will be subject to a minimum $50.00 charge as an early cancellation fee. If Customer cancels the Agreements, no refund will be provided for unused time remaining on the Customer Account if outside the criteria of the Company’s Money Back Guarantee. Customer shall be obligated to pay for all charges for all Products for each month remaining in the Term. Customer shall be obligated to pay all fees and charges accrued prior to the date of such cancellation. Company may, but is under no obligation to, refund to Customer any pre-paid fees for the Products but only for the full months remaining after effectiveness of cancellation. No partial month fees shall be refunded. Any refund in this manner will not include any setup and/or cancellation fees, regular cost of any “free” services, and any discount(s) applied for prepayment, provided that Customer is not in breach of any terms and conditions of the Agreements.
+    3. Products:  Customer is subject to the payment terms stated in the Order. Customer agrees to pay the fees specified in the Order. Fees are billed as provided in the Order
+        1.  Non-Enterprise Products.  Customer shall pay for any Product in one advanced payment. The Agreements may be canceled by Customer upon proper notice to Company, prior to the end of the Initial Term or any Term thereafter. Customer will be subject to a minimum $50.00 charge as an early cancellation fee. If Customer cancels the Agreements, no refund will be provided for unused time remaining on the Customer Account if outside the criteria of the Company’s [Money Back Guarantee](https://www.inmotionhosting.com/about-us/). Customer shall be obligated to pay for all charges for all Products for each month remaining in the Term. Customer shall be obligated to pay all fees and charges accrued prior to the date of such cancellation. Company may, but is under no obligation to, refund to Customer any pre-paid fees for the Products but only for the full months remaining after the effectiveness of cancellation. No partial month fees shall be refunded. Any refund in this manner will not include any setup and/or cancellation fees, regular cost of any “free” services, and any discount(s) applied for prepayment, provided that Customer is not in breach of any terms and conditions of the Agreements.
+        2. Enterprise Products.  Customer may pay for Products in one advanced payment or monthly installment payments as set forth in the Order. The Agreements may be canceled by Customer upon proper notice to Company, prior to the end of the Initial Term or any Term thereafter, provided however, after termination by Customer or by Company as provided herein, Customer shall be and remain obligated to pay for all fees and charges for all Products for each month remaining in the Initial Term or applicable Term. Company shall retain the right to recover all fees and charges due and owing by Customer to Company as provided herein. Customer agrees that Customer waives any right Customer may have against Company to offset fees payable by Customer to Company for Customer’s cancellation.
     4. Company may terminate the Agreements in the event of nonpayment by Customer.
     5. Company may terminate the Agreements, without penalty, if the Products are prohibited by applicable law, or become impractical or unfeasible for any technical, legal or regulatory reason, or as otherwise provided herein. Company will provide Customer as much prior notice as reasonably practicable.
     6. Company may terminate the Agreements or restrict access to the Customer Account or access to all or any part of the Products at any time, with or without cause, with or without notice, effective immediately.
