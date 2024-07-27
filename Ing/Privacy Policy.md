@@ -10,8 +10,6 @@
 
 ##### If you can't find your answer, contact us:
 
-![](/svgs/helphub-message.svg)
-
 **Message us**
 
 Reach out or reply anytime, anywhere with convenience. Your banking needs, answered in 24 hours by logging into the ING app or your online banking. To find Messages, look in the left hand menu to leave us a message.
