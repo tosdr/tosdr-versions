@@ -136,85 +136,83 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
+[![Maciek Froński](https://lyricstranslate.com/files/styles/micro/public/avatar-default-m.png)](https://lyricstranslate.com/en/translator/maciek-fro%C5%84ski "Maciek Froński")
+
+New comment
+
+Ale w samej piosence ich nie ma, nie wiem, skąd ...  [more](https://lyricstranslate.com/en/comment/1156681#comment-1156681)
+
+[![100wka](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/100wka "100wka")
 
 New song
 
-[Kalyani Menon - அலைபாயுதே](https://lyricstranslate.com/en/kalyani-menon-alaipayuthey-lyrics)
+[Farya Faraji - La Fille au Roy Louis](https://lyricstranslate.com/en/farya-faraji-la-fille-au-roy-louis-lyrics)
 
-Tamil
+French (Middle French)
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
 New song
 
-[Ella Langley - you look like you love me](https://lyricstranslate.com/en/ella-langley-you-look-you-love-me-lyrics)
+[KATSEYE - Touch](https://lyricstranslate.com/en/katseye-touch-lyrics)
 
 English
 
-[![ExterminateTheHumans](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624583-1721696506.jpg)](https://lyricstranslate.com/en/translator/exterminatethehumans "ExterminateTheHumans")
+[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
 
-New transcription request
+New song
 
-[Mr Hyde - On the prowl](https://lyricstranslate.com/en/mr-hyde-prowl)
+[All Promete - بنر](https://lyricstranslate.com/en/all-promete-bnr-lyrics)
 
-English
+Persian
 
-[![ellene](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624509-1721645386.jpg)](https://lyricstranslate.com/en/translator/ellene "ellene")
+[![Aryan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1376812-1713021439.jpg)](https://lyricstranslate.com/en/translator/aryan "Aryan")
 
 New translation
 
-[David Kushner - Daylight](https://lyricstranslate.com/en/david-kushner-daylight-indonesian)
+[Barbra Streisand - Somewhere](https://lyricstranslate.com/en/barbra-streisand-somewhere-kurdish-kurmanji)
+
+English → Kurdish (Kurmanji)
+
+[![Milena Stoyanova](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1450256-1585380276.jpg)](https://lyricstranslate.com/en/translator/milena-stoyanova "Milena Stoyanova")
+
+New translation
+
+[Republica - Ready to Go](https://lyricstranslate.com/en/ready-go-gotova-sm.html)
+
+English → Bulgarian
+
+[![TKaru29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614356-1712484810.jpg)](https://lyricstranslate.com/en/translator/tkaru29 "TKaru29")
+
+New song
+
+[shytaupe - ランデヴー(Rendezvous)](https://lyricstranslate.com/en/shytaupe-rendezvous-lyrics)
+
+Japanese
+
+[![leraluna](https://lyricstranslate.com/files/styles/micro/public/avatar-default-w.png)](https://lyricstranslate.com/en/translator/leraluna "leraluna")
+
+New request
+
+[Mazowsze - Dolina](https://lyricstranslate.com/en/request/dolina)
+
+Polish → English
+
+[![y_n](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1622827-1721653304.png)](https://lyricstranslate.com/en/translator/yn-0 "y_n")
+
+New translation
+
+[The Cardigans - Step On Me](https://lyricstranslate.com/en/cardigans-step-me-indonesian)
 
 English → Indonesian
 
-[![ganchu](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ganchu "ganchu")
+[![Bwoon PakHT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557413-1720055669.jpg)](https://lyricstranslate.com/en/translator/bwoon-pakht "Bwoon PakHT")
 
 New translation
 
-[Saucy Dog - 君がいない (Kimi ga inai)](https://lyricstranslate.com/en/saucy-dog-kimi-ga-inai-italian)
+[Parn Tanaporn - หวง (Huang)](https://lyricstranslate.com/en/parn-tanaphorn-huang-english)
 
-Japanese → Italian
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Babasha - Ia-ma Du-ma](https://lyricstranslate.com/en/babasha-ia-ma-du-ma-lyrics)
-
-Romanian
-
-[![Thế Anh Võ](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1617135-1721712536.jpg)](https://lyricstranslate.com/en/translator/th%E1%BA%BF-anh-v%C3%B5 "Thế Anh Võ")
-
-New translation
-
-[MY FIRST STORY - 夢幻 (Mugen)](https://lyricstranslate.com/en/my-first-story-mugen-transliteration-0)
-
-Japanese → Transliteration
-
-[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
-
-New translation
-
-[Kid - 言葉の宝石箱 (Kotoba no Hōsekibako)](https://lyricstranslate.com/en/kid-kotoba-no-hosekibako-english)
-
-Japanese → English
-
-[![SkreamQueenbitch](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1623964-1721254468.jpg)](https://lyricstranslate.com/en/translator/skreamqueenbitch "SkreamQueenbitch")
-
-New transcription request
-
-[Brabo Gator - Love song](https://lyricstranslate.com/en/brabo-gator-love-song)
-
-English
-
-[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
-
-New translation
-
-[Kid - 言葉の宝石箱 (Kotoba no Hōsekibako)](https://lyricstranslate.com/en/kid-kotoba-no-hosekibako-transliteration)
-
-Japanese → Transliteration
+Thai → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
