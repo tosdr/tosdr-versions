@@ -11,7 +11,7 @@ Multilogin | Privacy Policy
     * [Multi-account managementManage multiple accounts on any website alone or in a team without being detected. All accounts on the same dashboard.](https://multilogin.com/undetectable/multi-account-management/)
     * [Mobile antidetect browserEmulate mobile website visitors with unique identities from a desktop device.](https://multilogin.com/undetectable/mobile-antidetect-browser/)
     * [Residential proxiesHighest quality rotating residential proxies suitable for most business cases. Natively integrated with an antidetect browser.](https://multilogin.com/undetectable/residential-proxies/)
-    * [Web automationCreate complex automation scenarios in an antidetect browser. Automatically manipulate multiple online accounts.](https://multilogin.com/web-scraping-automation/)
+    * [Web automationCreate complex automation scenarios in an antidetect browser. Automatically manipulate multiple online accounts.](https://multilogin.com/undetectable/web-automation/)
     
 * Solutions
     
