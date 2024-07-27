@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei FreeLace Pro 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeLace-Pro-2-400x240.jpg)
+        
+        Huawei optimizes FreeLace Pro 2 with July 2024 software update](https://www.huaweicentral.com/huawei-optimizes-freelace-pro-2-with-july-2024-software-update/)
     * [![Huawei FreeClip July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeClip-400x240.jpg)
         
         Huawei FreeClip gets July 2024 update with new improvements](https://www.huaweicentral.com/huawei-freeclip-gets-july-2024-update-with-new-improvements/)
@@ -59,12 +62,15 @@ Huawei Central
     * [![Huawei FreeBuds 6i first update](https://www.huaweicentral.com/wp-content/uploads/2024/06/FreeBuds-6i-400x240.jpg)
         
         Huawei FreeBuds 6i receives first update with triple tap gesture optimizations](https://www.huaweicentral.com/huawei-freebuds-6i-receives-first-update-with-triple-tap-gesture-optimizations/)
-    * [![Huawei FreeBuds Pro 3 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/05/FreeBuds-Pro-3-400x240.jpg)
-        
-        Huawei FreeBuds Pro 3 receives stable HarmonyOS 4.2 software update](https://www.huaweicentral.com/huawei-freebuds-pro-3-receives-stable-harmonyos-4-2-software-update/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 IMDA certification](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-GT-5-IMDA-400x240.jpg)
+        
+        Huawei Watch GT 5 series passes IMDA certification, launching soon](https://www.huaweicentral.com/huawei-watch-gt-5-series-passes-imda-certification-launching-soon/)
+    * [![Huawei Watch GT 5 Pro SDPPI](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-GT-5-Pro-400x240.jpg)
+        
+        Huawei Watch GT 5 Pro (VLI-B29) visits SDPPI Indonesian database](https://www.huaweicentral.com/huawei-watch-gt-5-pro-vli-b29-visits-sdppi-indonesian-database/)
     * [![Huawei Watch D2 wearable](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-D2-400x240.jpg)
         
         Huawei might unveil Watch D2 wearable this month](https://www.huaweicentral.com/huawei-might-unveil-watch-d2-wearable-this-month/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei VLI-B29 smartwatches 3C](https://www.huaweicentral.com/wp-content/uploads/2024/07/Smartwatches-400x240.jpg)
         
         Huawei VLI-B29 and VLI-B19 smartwatches get 3C certificates with 18W charger](https://www.huaweicentral.com/huawei-vli-b29-and-vli-b19-smartwatches-get-3c-certificates-with-18w-charger/)
-    * [![Huawei smartwatches auto-gesture control](https://www.huaweicentral.com/wp-content/uploads/2024/07/Wearable-400x240.jpg)
-        
-        Future Huawei smartwatches may use auto-gesture control features](https://www.huaweicentral.com/future-huawei-smartwatches-may-use-auto-gesture-control-features/)
-    * [![Huawei Watch Fit 3 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Fit-3-image-400x240.jpg)
-        
-        Huawei Watch Fit 3 grabs a massive July 2024 feature update](https://www.huaweicentral.com/huawei-watch-fit-3-grabs-a-massive-july-2024-feature-update/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
