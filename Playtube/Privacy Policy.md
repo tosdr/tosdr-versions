@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-172 Views
+176 Views
 
 Report
 
@@ -287,237 +287,239 @@ You may also like
 
 HD
 
- [![Grands Enfants](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/grands-enfants/)0
+ [![White Wall](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/white-wall/)3.6
 
-### [Grands Enfants](https://playtube.pk/grands-enfants/)
+### [White Wall](https://playtube.pk/white-wall/)
 
-2023 15 min _Movie_
+2010 91 min _Movie_
 
-Grands Enfants
+White Wall
 
-0 2023 15 min HD
+3.6 2010 91 min HD
 
-Country: [France](https://playtube.pk/country/france/)
-
-Genre: [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/grands-enfants/)
-
-HD
-
- [![A Nutcracker Christmas](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-nutcracker-christmas/)6.7
-
-### [A Nutcracker Christmas](https://playtube.pk/a-nutcracker-christmas/)
-
-2016 86 min _Movie_
-
-A Nutcracker Christmas
-
-6.7 2016 86 min HD
-
-When her niece is cast in The Philadelphia Ballet’s production of the Nutcracker, a jaded ex-ballerina is forced to come to terms with the life and love she left behind.
-
-Country: [Canada](https://playtube.pk/country/canada/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Family](https://playtube.pk/category/family/)
-
-[](#)[Watch Now](https://playtube.pk/a-nutcracker-christmas/)
-
-HD
-
- [![Westgate Tango](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/westgate-tango/)2
-
-### [Westgate Tango](https://playtube.pk/westgate-tango/)
-
-2012 0 min _Movie_
-
-Westgate Tango
-
-2 2012 0 min HD
-
-Feature debut by notable film critic Wang Wei. The film takes Taipei’s trendy Ximending district, best known for its mix of alternative lifestyles, youth fashion and the antimony of ...
-
-Country: [Taiwan](https://playtube.pk/country/taiwan/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/westgate-tango/)
-
-HD
-
- [![Corporate Affairs](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/corporate-affairs/)0
-
-### [Corporate Affairs](https://playtube.pk/corporate-affairs/)
-
-1990 82 min _Movie_
-
-Corporate Affairs
-
-0 1990 82 min HD
-
-An executive discovers that his former lover has given their firm's CEO a fatal heart attack during sex.
+In the near future, everything has changed. Basic human rights have become the rarest of luxuries. No one knows when this started but everyone knows how. The VXII, the deadliest virus ...
 
 Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/)
+Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/corporate-affairs/)
-
-HD
-
- [![The Dogman Triangle: Werewolves in the Lone Star State](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)0
-
-### [The Dogman Triangle: Werewolves in the Lone Star State](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)
-
-2023 74 min _Movie_
-
-The Dogman Triangle: Werewolves in the Lone Star State
-
-0 2023 74 min HD
-
-Witnesses have reported seeing upright-walking canids in Texas.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)
+[](#)[Watch Now](https://playtube.pk/white-wall/)
 
 HD
 
- [![Mister Elephant](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/mister-elephant/)0
+ [![Sexual Assault at a Hotel](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sexual-assault-at-a-hotel/)6.3
 
-### [Mister Elephant](https://playtube.pk/mister-elephant/)
+### [Sexual Assault at a Hotel](https://playtube.pk/sexual-assault-at-a-hotel/)
 
-2024 8 min _Movie_
+1977 71 min _Movie_
 
-Mister Elephant
+Sexual Assault at a Hotel
 
-0 2024 8 min HD
+6.3 1977 71 min HD
 
-After the murder of a baker, a police officer teams up with his partner on the case, Mr. Elephant. As more tracks are discovered, they go through different moments, until a terrible ...
-
-Country: [Brazil](https://playtube.pk/country/brazil/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Crime](https://playtube.pk/category/crime/)
-
-[](#)[Watch Now](https://playtube.pk/mister-elephant/)
-
-HD
-
- [![Sala de espera a una muerte segura](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)0
-
-### [Sala de espera a una muerte segura](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)
-
-2020 0 min _Movie_
-
-Sala de espera a una muerte segura
-
-0 2020 0 min HD
-
-Country: [Mexico](https://playtube.pk/country/mexico/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Western](https://playtube.pk/category/western/)
-
-[](#)[Watch Now](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)
-
-HD
-
- [![Coming Back](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/coming-back/)7
-
-### [Coming Back](https://playtube.pk/coming-back/)
-
-2011 88 min _Movie_
-
-Coming Back
-
-7 2011 88 min HD
-
-A comedic crime drama starring Echoes of the Rainbow actor Simon Yam. In Coming Back, which was shot in Mandarin, Yam plays a painter who restores art to increse its value. He’s also a ...
-
-Country: [China](https://playtube.pk/country/china/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
-
-[](#)[Watch Now](https://playtube.pk/coming-back/)
-
-HD
-
- [![Plan 75](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/plan-75/)7
-
-### [Plan 75](https://playtube.pk/plan-75/)
-
-2022 113 min _Movie_
-
-Plan 75
-
-7 2022 113 min HD
-
-In a Japan of the near future, the government program Plan 75 encourages senior citizens to be voluntarily euthanized to remedy a super-aged society. An elderly woman whose means of ...
-
-Country: [France](https://playtube.pk/country/france/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Science Fiction](https://playtube.pk/category/science-fiction/)
-
-[](#)[Watch Now](https://playtube.pk/plan-75/)
-
-HD
-
- [![Day 13](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/day-13/)6
-
-### [Day 13](https://playtube.pk/day-13/)
-
-2023 0 min _Movie_
-
-Day 13
-
-6 2023 0 min HD
-
-A horror feature that tells the story of Ezz El-Din, who returns from abroad after many years, looking for his family, and while staying at his family's mansion, he discovers an ...
-
-Country: [Egypt](https://playtube.pk/country/egypt/)
-
-Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
-
-[](#)[Watch Now](https://playtube.pk/day-13/)
-
-HD
-
- [![Chocolat Cadabra](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/chocolat-cadabra/)0
-
-### [Chocolat Cadabra](https://playtube.pk/chocolat-cadabra/)
-
-2024 3 min _Movie_
-
-Chocolat Cadabra
-
-0 2024 3 min HD
-
-Music video by Studio Trigger for the 60th anniversary of Lotte's chocolate production.
+The lovely Ryoko is attending a Japanese University on an exchange program. She’s pretty, vulnerable, shy and full of mysterious secrets. Meeting up with her long-time friend Rumiko, ...
 
 Country: [Japan](https://playtube.pk/country/japan/)
 
-Genre: [Animation](https://playtube.pk/category/animation/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Horror](https://playtube.pk/category/horror/)
 
-[](#)[Watch Now](https://playtube.pk/chocolat-cadabra/)
+[](#)[Watch Now](https://playtube.pk/sexual-assault-at-a-hotel/)
 
 HD
 
- [![天网行动](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)0
+ [![Snow White: A Tale of Terror](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/snow-white-a-tale-of-terror/)6
 
-### [天网行动](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)
+### [Snow White: A Tale of Terror](https://playtube.pk/snow-white-a-tale-of-terror/)
 
-1994 0 min _Movie_
+1997 100 min _Movie_
 
-天网行动
+Snow White: A Tale of Terror
 
-0 1994 0 min HD
+6 1997 100 min HD
 
-Country: [China](https://playtube.pk/country/china/)
+When young Lili's mother dies in childbirth, her father remarries Lady Claudia, a woman ruled by an evil mirror with the power to make her queen of all living things. After escaping an ...
 
-Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
+Country: [USA](https://playtube.pk/country/usa/)
 
-[](#)[Watch Now](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)
+Genre: [Fantasy](https://playtube.pk/category/fantasy/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/snow-white-a-tale-of-terror/)
+
+HD
+
+ [![Heavens Will Descend The Dragon](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/heavens-will-descend-the-dragon/)0
+
+### [Heavens Will Descend The Dragon](https://playtube.pk/heavens-will-descend-the-dragon/)
+
+2020 0 min _Movie_
+
+Heavens Will Descend The Dragon
+
+0 2020 0 min HD
+
+Ao You, the ninth son of the Dragon King, is a gifted and intelligent man who has been admonished not to reveal his true form at will since he was a child. Later, when he accidentally ...
+
+Genre:
+
+[](#)[Watch Now](https://playtube.pk/heavens-will-descend-the-dragon/)
+
+HD
+
+ [![Meet Cute](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/meet-cute/)6
+
+### [Meet Cute](https://playtube.pk/meet-cute/)
+
+2016 25 min _Movie_
+
+Meet Cute
+
+6 2016 25 min HD
+
+They meet. It's Cute. Then it's not.
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/meet-cute/)
+
+HD
+
+ [![School Society](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/school-society/)6.2
+
+### [School Society](https://playtube.pk/school-society/)
+
+2022 108 min _Movie_
+
+School Society
+
+6.2 2022 108 min HD
+
+Virginie Thévenot, a somewhat special math teacher, takes advantage of a general strike in a college to try an extraordinary experiment with a small group of students. She takes a bet: ...
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/school-society/)
+
+HD
+
+ [![Jil Jung Juk](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/jil-jung-juk/)6.5
+
+### [Jil Jung Juk](https://playtube.pk/jil-jung-juk/)
+
+2016 133 min _Movie_
+
+Jil Jung Juk
+
+6.5 2016 133 min HD
+
+Three bumbling underlings who are tasked with smuggling cocaine get into problems during their journey.
+
+Country: [India](https://playtube.pk/country/india/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/jil-jung-juk/)
+
+HD
+
+ [![Suicidal Variations](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/suicidal-variations/)0
+
+### [Suicidal Variations](https://playtube.pk/suicidal-variations/)
+
+2007 15 min _Movie_
+
+Suicidal Variations
+
+0 2007 15 min HD
+
+Suicidal Variations shows a woman in a state of total despair after she kills a man. His decapitated head follows her and she decides to escape by committing suicide.
+
+Country: [South Korea](https://playtube.pk/country/south-korea/)
+
+Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/suicidal-variations/)
+
+HD
+
+ [![She Starts the Fire](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/she-starts-the-fire/)6.5
+
+### [She Starts the Fire](https://playtube.pk/she-starts-the-fire/)
+
+1992 87 min _Movie_
+
+She Starts the Fire
+
+6.5 1992 87 min HD
+
+Chingmy Yau stars in She Starts The Fire, a fish-out-of-water comedy where the fish can set people on fire! Wendy (Chingmy Yau) arrives in Hong Kong to stay with her aunt Big Beer ...
+
+Country: [Hong Kong](https://playtube.pk/country/hong-kong/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/she-starts-the-fire/)
+
+HD
+
+ [![The Blue Nile – Flags and Fences](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-blue-nile-flags-and-fences/)0
+
+### [The Blue Nile – Flags and Fences](https://playtube.pk/the-blue-nile-flags-and-fences/)
+
+1990 29 min _Movie_
+
+The Blue Nile – Flags and Fences
+
+0 1990 29 min HD
+
+The "lost" documentary of the Scottish music group The Blue Nile's tour of the US in 1990. In 1990, the film-maker Bernard Rudden made this documentary "Flags and Fences", which ...
+
+Country: [UK](https://playtube.pk/country/uk/)
+
+Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
+
+[](#)[Watch Now](https://playtube.pk/the-blue-nile-flags-and-fences/)
+
+HD
+
+ [![The Secret Room of Pleasure](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-secret-room-of-pleasure/)10
+
+### [The Secret Room of Pleasure](https://playtube.pk/the-secret-room-of-pleasure/)
+
+2018 77 min _Movie_
+
+The Secret Room of Pleasure
+
+10 2018 77 min HD
+
+Revenge comes in a new form in this movie about a very unique room.
+
+Genre: [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/the-secret-room-of-pleasure/)
+
+HD
+
+ [![I Want You Back](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/i-want-you-back/)6.3
+
+### [I Want You Back](https://playtube.pk/i-want-you-back/)
+
+2022 117 min _Movie_
+
+I Want You Back
+
+6.3 2022 117 min HD
+
+Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/i-want-you-back/)
 
 Report Content
 
