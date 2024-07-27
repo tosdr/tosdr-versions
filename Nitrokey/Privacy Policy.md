@@ -19,6 +19,7 @@
     * [News](https://www.nitrokey.com/news)
     * [Blog](https://www.nitrokey.com/blog)
     * [Software Updates](https://www.nitrokey.com/software-updates)
+    * [Software Releases](https://www.nitrokey.com/releases)
 * Products
     * [Nitrokeys](https://www.nitrokey.com/products/nitrokeys)
     * [NitroPhone](https://shop.nitrokey.com/shop?&search=nitrophone)
@@ -42,7 +43,7 @@
     * [Security For Cryptocurrency Exchanges And Bitcoin Startups](https://www.nitrokey.com/solutions/cryptocurrencies)
 * Support
     * [Documentation](https://docs.nitrokey.com/)
-    * [FAQ](https://www.nitrokey.com/faq)
+    * [FAQ](https://www.nitrokey.com/documentation/frequently-asked-questions-faq-0)
     * [Forum](https://support.nitrokey.com/)
     * [Download](https://www.nitrokey.com/download)
 * [Shop](https://shop.nitrokey.com/shop)
@@ -422,7 +423,7 @@ We use secure private keys when accessing servers via SSH.
 
 We log application data (username, user IP and user agent). We keep logs for no longer than 7 days.
 
-This chapter is based on [https://matrix.org/docs/guides/privacy\_notice.html](https://matrix.org/docs/guides/privacy_notice.html)
+This chapter is based on [https://matrix.org/docs/guides/privacy\_notice.html](https://web.archive.org/web/20240000000000*/https://matrix.org/docs/guides/privacy_notice.html)
 
 ### V. Nitrokey Meet
 
