@@ -369,11 +369,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/07/K365-Webinar-Securing-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS_Webinar-VSA-Q3-1200x800-px-300x200.jpg)
     
-    Automate Essential Security and Boost Profits With Kaseya 365
+    VSA Quarterly Product Innovation Update
     
-    July 25
+    July 30
     
     [View All Events](https://www.kaseya.com/events/)
     
