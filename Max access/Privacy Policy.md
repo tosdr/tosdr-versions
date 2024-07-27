@@ -160,6 +160,6 @@ We strive to provide excellent products, along with equally excellent customer s
 Web Accessibility with Max Access  
 Copyright ©2024 Ability, Inc.
 
-                                     
+                                  
 
 ![](https://px.ads.linkedin.com/collect/?pid=2074953&fmt=gif)
