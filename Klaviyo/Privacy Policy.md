@@ -789,6 +789,7 @@ To the extent required by US Data Protection Laws, Klaviyo is prohibited from: 
         New](https://www.klaviyo.com/product/whats-new)
     * [Marketing automation](https://www.klaviyo.com/marketing-automation)
     * [Klaviyo vs. others](https://www.klaviyo.com/compare)
+    * [Marketing glossary](https://www.klaviyo.com/glossary)
     
 
 English - US
