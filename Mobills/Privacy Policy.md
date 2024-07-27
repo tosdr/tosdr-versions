@@ -32,7 +32,7 @@ Aqui na Mobills a gente te ajuda a assumir o controle das suas finanças. E **te
 
 Pensando nisso, apresentamos a seguir informações muito importantes sobre como utilizamos seus dados pessoais para que também neste assunto, você esteja no controle!
 
-Te aconselhamos a acessar a versão completa do Aviso de Privacidade, clicando [aqui](https://drive.google.com/file/d/1hbz6QoJ5PubKzQ9dEpbSH1CVSavIOWqO/view?usp=sharing).
+Te aconselhamos a acessar a versão completa do Aviso de Privacidade, clicando [aqui](https://www.mobills.com.br/blog/wp-content/uploads/2024/07/Aviso-de-Privacidade-Mobills-Full.pdf).
 
 Como a Mobills trata meus dados?
 --------------------------------
@@ -137,7 +137,7 @@ Sobre este Aviso
 
 Aqui você acessou, de forma simplificada e mais acessível, as principais informações do nosso Aviso de Privacidade.
 
-Mas você pode acessar a versão completa, clicando [aqui](https://drive.google.com/file/d/1hbz6QoJ5PubKzQ9dEpbSH1CVSavIOWqO/view?usp=sharing).
+Mas você pode acessar a versão completa, clicando [aqui](https://www.mobills.com.br/blog/wp-content/uploads/2024/07/Aviso-de-Privacidade-Mobills-Full.pdf).
 
 A Mobills Labs Soluções Em Tecnologia LTDA, CNPJ nº 20.256.063/0001-10 é a empresa Controladora dos dados pessoais. Você poderá entrar em contato com nossa encarregada através do seguinte contato: Lívia Campos – privacidade@mobills.com.br.
 
