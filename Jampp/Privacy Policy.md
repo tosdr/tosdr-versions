@@ -1,4 +1,4 @@
-[![Jampp, an Affle company](https://cdn.prod.website-files.com/60ccf8130541d43f4836b8ef/60ccf8130541d49a6936ba22_jampp-an-affle-company-logo-color.svg)](https://jampp.com/)
+[![Jampp, an Affle company](https://cdn.prod.website-files.com/60ccf8130541d43f4836b8ef/66a143e08c558d7ff5455b6e_Jampp%20logo.svg)](https://jampp.com/)
 
 [Product](https://jampp.com/product)
 
@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66a267fd48b621dbbfe43e10_jampp-joins-adjusts-growth-lab-in-buenos-aires.png)
+
+Jampp joins Adjust’s Growth Lab in Buenos Aires](https://jampp.com/blog/jampp-joins-adjusts-growth-lab-in-buenos-aires)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/6697d666f36aef33db93525a_streaming-app-unlocks-5x-more-subscribers-with-ua-and-skan.png)
 
 Streaming app unlocks 5X more subscribers with UA and SKAN](https://jampp.com/blog/streaming-app-unlocks-5x-more-subscribers-with-ua-and-skan)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66846241c83ce5e180c3b71c_5-best-practices-for-a-successful-user-acquisition-strategy.png)
-
-5 best practices for a successful User Acquisition strategy](https://jampp.com/blog/5-best-practices-for-a-successful-user-acquisition-strategy)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
@@ -250,7 +250,7 @@ We can help you grow your mobile business. Get started today.
 
 [Request a demo](https://jampp.com/contact)[Learn more](https://jampp.com/product)
 
-[![Jampp, an Affle company](https://cdn.prod.website-files.com/60ccf8130541d43f4836b8ef/60ccf8130541d49a6936ba22_jampp-an-affle-company-logo-color.svg)](#)
+[![Jampp, an Affle company](https://cdn.prod.website-files.com/60ccf8130541d43f4836b8ef/66a143e08c558d7ff5455b6e_Jampp%20logo.svg)](#)
 
 The programmatic platform to grow your app business
 
