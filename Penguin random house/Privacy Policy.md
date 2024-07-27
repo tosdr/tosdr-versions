@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    Books Bans Are on the Rise in America
+    How To Read More in 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
-* [![Your Summer Reading Guide](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/16153839/PRH_Summer-Site_Social-Share-1200x628-watermelon.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    Your Summer Reading Guide
+    Browse All Our Lists, Essays, and Interviews
     
-    Read More >](https://www.penguinrandomhouse.com/summer-reading/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/06/26144801/PRH_New-Audio_site_1200x626_July2024.jpg)
+* [![Swoon-Worthy YA Romantasy Books To Obsess Over](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/23161906/YA-Romantasy-DMcMurdie-850x607-1.jpg)
     
-    New Stories to Listen to
+    Swoon-Worthy YA Romantasy Books To Obsess Over
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.readbrightly.com/ya-fantasy-romance-books/)
 
 * <
     
