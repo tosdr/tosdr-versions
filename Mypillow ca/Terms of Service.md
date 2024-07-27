@@ -93,8 +93,6 @@ Get Even Lower Prices!
 
 Apply
 
-[](https://www.mypillow.com/tv-mypillow-premium)
-
 [](https://www.mypillow.ca/25-extravaganza-new)
 
 [](https://www.mypillow.com/mymattress-topper)
@@ -155,11 +153,11 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
 
-   [](https://www.mypillow.com/accessory-pillows)
+   [](https://www.mypillow.com/couch-and-recliner-pillows)
 
    [](https://www.mypillow.com/mypillow-sandals)
 
-   [](https://www.mypillow.ca/bath/beach-towels/mytowelstm-beach-towels)
+   [](https://www.mypillow.com/bath/beach-towels)
 
    [](https://www.mypillow.com/mycoffee-options)
 
@@ -181,7 +179,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/mikes-products)
 
-   [](https://www.mypillow.com/accessory-pillows)
+   [](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
 
    [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
