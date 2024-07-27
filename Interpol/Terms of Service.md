@@ -6,7 +6,6 @@
     * * [General Secretariat](https://www.interpol.int/Who-we-are/General-Secretariat "General Secretariat")
         * [Secretary General](https://www.interpol.int/Who-we-are/General-Secretariat/Secretary-General "Secretary General")
         * [Official visitors to the General Secretariat](https://www.interpol.int/Who-we-are/General-Secretariat/Official-visits-2024 "Official visitors to the General Secretariat")
-        * [Jürgen Stock biography](https://www.interpol.int/Who-we-are/General-Secretariat/Secretary-General/Juergen-Stock-biography "Jürgen Stock biography")
         * [Values and ethics](https://www.interpol.int/Who-we-are/General-Secretariat/Values-and-ethics "Values and ethics")
     * * [Governance](https://www.interpol.int/Who-we-are/Governance "Governance")
         * [General Assembly](https://www.interpol.int/Who-we-are/Governance/General-Assembly "General Assembly")
