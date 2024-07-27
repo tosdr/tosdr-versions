@@ -84,6 +84,7 @@ Rechercher sur Le Parisien
     
 * [International](https://www.leparisien.fr/international/)
     
+    * [États-Unis](https://www.leparisien.fr/international/etats-unis/)
     * [Guerre Israël-Hamas](https://www.leparisien.fr/international/israel/)
     * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
     
@@ -97,7 +98,7 @@ Rechercher sur Le Parisien
     * [Basket](https://www.leparisien.fr/sports/basket/)
     * [Tennis](https://www.leparisien.fr/sports/tennis/)
     * [Cyclisme](https://www.leparisien.fr/sports/cyclisme/)
-    * [Tour de France 2024](https://www.leparisien.fr/sports/cyclisme/tour-de-france/)
+    * [Tour de France femmes 2024](https://www.leparisien.fr/sports/cyclisme/tour-de-france-feminin/)
     * [Handball](https://www.leparisien.fr/sports/handball/)
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
     * [Hippisme](https://www.leparisien.fr/sports/hippisme/)
@@ -821,9 +822,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=708)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=715)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=708)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=715)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
