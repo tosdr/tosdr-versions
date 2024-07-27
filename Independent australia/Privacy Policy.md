@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[The Brittany Higgins 'diabolical plot to bring down the House' explained](https://independentaustralia.net/article-display/the-brittany-higgins-diabolical-plot-to-bring-down-the-house-explained,18760)
+[More Lehrmann trials, appeals and assorted legal stouches](https://independentaustralia.net/article-display/more-lehrmann-trials-appeals-and-assorted-legal-stouches,18808)
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
-[Media has normalised Trump's bullying — it's time to take control](https://independentaustralia.net/article-display/media-has-normalised-trumps-bullying--its-time-to-take-control,18799)
+[Trump's immigration policies a potential human rights violation](https://independentaustralia.net/article-display/trumps-immigration-policies-a-potential-human-rights-violation,18809)
 
-[Dutton's nuclear delusion an exercise in stupidity](https://independentaustralia.net/article-display/duttons-nuclear-delusion-an-exercise-in-stupidity,18797)
+[Angus Taylor's 'Watergate' links emerge in secret government deal](https://independentaustralia.net/article-display/angus-taylors-watergate-links-emerge-in-secret-government-deal,18802)
 
-[Media enabling Trump's mission to destroy democracy](https://independentaustralia.net/article-display/media-enabling-trumps-mission-to-destroy-democracy,18795)
+[Intuition key to AI being a tremendous force for good](https://independentaustralia.net/article-display/intuition-key-to-ai-being-a-tremendous-force-for-good-,18798)
 
 Privacy Policy
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Banking Inquiry delivers a win for regional customers](https://independentaustralia.net/article-display/banking-inquiry-delivers-a-win-for-regional-customers,18801 "Permanent Link : Banking Inquiry delivers a win for regional customers")
-* [Mobile networks set to improve with satellite technology](https://independentaustralia.net/article-display/mobile-networks-set-to-improve-with-satellite-technology,18800 "Permanent Link : Mobile networks set to improve with satellite technology")
-* [Media has normalised Trump's bullying — it's time to take control](https://independentaustralia.net/article-display/media-has-normalised-trumps-bullying-its-time-to-take-control,18799 "Permanent Link : Media has normalised Trump's bullying — it's time to take control")
-* [Dutton's nuclear delusion an exercise in stupidity](https://independentaustralia.net/article-display/duttons-nuclear-delusion-an-exercise-in-stupidity,18797 "Permanent Link : Dutton's nuclear delusion an exercise in stupidity")
-* [Kiwis pour into Australian labour market](https://independentaustralia.net/article-display/kiwis-pour-into-australian-labour-market,18796 "Permanent Link : Kiwis pour into Australian labour market")
-* [Media enabling Trump's mission to destroy democracy](https://independentaustralia.net/article-display/media-enabling-trumps-mission-to-destroy-democracy,18795 "Permanent Link : Media enabling Trump's mission to destroy democracy")
-* [CrowdStrike causes global I.T. meltdown after Microsoft update](https://independentaustralia.net/article-display/crowdstrike-causes-global-it-meltdown-after-microsoft-update,18794 "Permanent Link : CrowdStrike causes global I.T. meltdown after Microsoft update")
+* [More Lehrmann trials, appeals and assorted legal stouches](https://independentaustralia.net/article-display/more-lehrmann-trials-appeals-and-assorted-legal-stouches,18808 "Permanent Link : More Lehrmann trials, appeals and assorted legal stouches")
+* [Angus Taylor's 'Watergate' links emerge in secret government deal](https://independentaustralia.net/article-display/angus-taylors-watergate-links-emerge-in-secret-government-deal,18802 "Permanent Link : Angus Taylor's 'Watergate' links emerge in secret government deal")
+* [Aussie opera never looked so grand](https://independentaustralia.net/article-display/aussie-opera-never-looked-so-grand,18806 "Permanent Link : Aussie opera never looked so grand")
+* [America's gathering storm: Spoiler alert! Trump's big advantage](https://independentaustralia.net/article-display/americas-gathering-storm-spoiler-alert-trumps-big-advantage,18812 "Permanent Link : America's gathering storm: Spoiler alert! Trump's big advantage")
+* [7 October horrors won't silence us on genocide](https://independentaustralia.net/article-display/7-october-horrors-wont-silence-us-on-genocide,18810 "Permanent Link : 7 October horrors won't silence us on genocide")
+* [Intuition key to AI being a tremendous force for good](https://independentaustralia.net/article-display/intuition-key-to-ai-being-a-tremendous-force-for-good,18798 "Permanent Link : Intuition key to AI being a tremendous force for good")
+* [CARTOONS: Mark David calls it a day](https://independentaustralia.net/article-display/cartoons-mark-david-calls-it-a-day,18803 "Permanent Link : CARTOONS: Mark David calls it a day")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
