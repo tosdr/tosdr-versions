@@ -4,7 +4,7 @@
 
 ![](https://ct.pinterest.com/v3/?tid=2620017664612&noscript=1)
 
-**TRAVEL ALERT:** Increase in construction work leading up to a nine-day closure of US 101 to finish the new bridge. [Learn More >](https://www.olympicnationalparks.com/alerts/2024/highway-101-closure/ "Highway 101 Closure")
+**Campfire Ban** begins July 26 in Olympic National Park and Olympic National Forest [Learn More >](https://www.olympicnationalparks.com/alerts/2024/campfire-ban/ "Campfire Ban")
 
 * [](https://www.olympicnationalparks.com/photos-videos/)
 [](https://www.olympicnationalparks.com/photos-videos/)* [](https://www.olympicnationalparks.com/photos-videos/)[](https://www.olympicnationalparks.com/email-sign-up/)
