@@ -31,6 +31,9 @@ Desktop
     * [Futures
         
         Invest in futures contracts](https://www.moomoo.com/quote/futures-us/equity-index)
+    * [ETF
+        
+        Diversify with exchange-traded funds](https://www.moomoo.com/quote/etf-us/most-active-etfs)
     * [Forex
         
         Trade global currencies](https://www.moomoo.com/quote/forex/market-map)
@@ -82,6 +85,9 @@ Desktop
     * [Topics
         
         Discuss hot topics with like-minded traders](https://www.moomoo.com/community/nnq/topic-square)
+    * [Featured Content
+        
+        Talk the latest earnings reports and trades](https://www.moomoo.com/featured)
     
 * Learn
     
@@ -160,6 +166,9 @@ Back
     * [Futures
         
         Invest in futures contracts](https://www.moomoo.com/quote/futures-us/equity-index)
+    * [ETF
+        
+        Diversify with exchange-traded funds](https://www.moomoo.com/quote/etf-us/most-active-etfs)
     * [Forex
         
         Trade global currencies](https://www.moomoo.com/quote/forex/market-map)
@@ -205,6 +214,9 @@ Back
     * [Feed
         
         Find inspiration for your next move](https://www.moomoo.com/community/nnq/square)
+    * [Featured Content
+        
+        Talk the latest earnings reports and trades](https://www.moomoo.com/featured)
     
 * Learn
     
