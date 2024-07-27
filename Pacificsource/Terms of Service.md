@@ -665,6 +665,9 @@ In case of an emergency office closure at PacificSource, we will update our oper
 
 [Back to top](#Homeup)
 
-Products provided by PacificSource Health Plans, PacificSource Community Solutions, PacificSource Community Health Plans, or PacificSource Administrators, Inc.
+[Non-discrimination Notice](https://pacificsource.com/media/7826) | [Security](https://pacificsource.com/security) | [Interoperability & Transparency](https://pacificsource.com/resources/interoperability-and-transparency) | [Terms of Service](https://pacificsource.com/terms-of-service) | [Notice of Privacy Practice](https://pacificsource.com/privacy-policy)
 
-© 2024 PacificSource. All rights reserved. [Non-discrimination Notice](https://pacificsource.com/media/7826) | [Security](https://pacificsource.com/security) | [Interoperability & Transparency](https://pacificsource.com/resources/interoperability-and-transparency) | [Terms of Service](https://pacificsource.com/terms-of-service) | [Notice of Privacy Practice](https://pacificsource.com/privacy-policy)
+Products provided by PacificSource Health Plans, PacificSource Community Solutions, PacificSource Community Health Plans, or PacificSource Administrators, Inc.  
+PacificSource Community Health Plans is an HMO, HMO-DSNP, and PPO plan with a Medicare contract and a contract with Oregon Health Plan (Medicaid). Enrollment in PacificSource Medicare depends on contract renewal.
+
+© 2024 PacificSource. All rights reserved.
