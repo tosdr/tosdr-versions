@@ -5,8 +5,8 @@
 2. [Cookies Policy](https://legal.opera.com/cookies/)
     
 
-Cookies Policy
---------------
+Cookie Policy
+=============
 
 _Last updated: June 26, 2024_
 
@@ -64,7 +64,6 @@ Our websites may set cookies from the following partners:
 * [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
 * [Microsoft Clarity](https://privacy.microsoft.com/en-gb/privacystatement)
 * [Piano](https://piano.io/privacy-policy/)
-* [Quora Ads](https://www.quora.com/about/privacy)
 * [Reddit](https://www.redditinc.com/policies/privacy-policy)
 * [RTB House](https://rtbhouse.com/privacy-center)
 * [Sentry](https://sentry.io/trust/privacy/)
@@ -73,7 +72,6 @@ Our websites may set cookies from the following partners:
 * [Vimeo](https://vimeo.com/privacy)
 * [Yahoo](https://legal.yahoo.com/)
 * [Youtube](https://www.google.com/policies/privacy)
-* [1-1ads](https://skenzo.com/sk-privacy.php?sk_ref=w%2BuWdSoNjzOBjU7j%2FCKO4OwgyUNh4ZJY9zpQKCA2f3mzmRaA1Q5rrlVzaV95RgWA)
 
 Remember, you may configure a browser to reject third-party cookies via the settings menu.
 
