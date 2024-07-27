@@ -321,12 +321,11 @@ Or
 
 By post at:  
 Data Protection Officer  
-Logically,  
-C A P House,  
-9-12 Long Lane,  
-Barbican,  
+Logically  
+FORA White Collar Factory  
+1 Old Street Yard  
 London  
-EC1A 9HA
+EC1Y 8AF
 
 #### 13\. Changes to this Policy
 
