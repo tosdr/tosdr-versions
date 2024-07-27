@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20200728_056640000/tab/video/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_16471_2010/16471-2010-metiria-turei-to-the-minister-for-social/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20200728_056640000/tab/video/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_16471_2010/16471-2010-metiria-turei-to-the-minister-for-social/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -100,7 +100,7 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/r
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House next meets on Tuesday, 30 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
@@ -123,7 +123,7 @@ There is no current live audio feed.
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House next meets on Tuesday, 30 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
