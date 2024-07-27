@@ -1,5 +1,3 @@
-[![](https://lrc-cdn.s3.amazonaws.com/assets/2024/06/LR-LQFE-Ad_v3-FINAL-HQ.jpg)](https://lincolnsquestforempire.com/)
-
 [Show Menu](#)
 
 * [Archives](https://www.lewrockwell.com/archives/)
@@ -32,7 +30,7 @@
 Privacy Policy
 ==============
 
-[Donate](https://donate.lewrockwell.com/products/donations)[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.lewrockwell.com%2Fprivacy%2F&type=page&linkname=Privacy+Policy&linknote= "Email")[](# "Print")
+[Donate](https://donate.lewrockwell.com/products/donations) [\[email protected\]](https://www.lewrockwell.com/cdn-cgi/l/email-protection)[](# "Print")
 
 [](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.lewrockwell.com%2Fprivacy%2F&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.lewrockwell.com%2Fprivacy%2F&linkname=Privacy%20Policy "Twitter")[![Share](https://static.addtoany.com/buttons/share_save_120_16.png)](https://www.addtoany.com/share)
 
@@ -66,33 +64,33 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
-* [The Flat Roof Society](https://www.lewrockwell.com/political-theatre/the-flat-roof-society/)
-* [The Priest Who Prayed on Stage Moments Before Trump Shooting](https://www.lewrockwell.com/political-theatre/the-priest-who-prayed-on-stage-moments-before-trump-shooting/)
-* [Globalist Coup Against Americans](https://www.lewrockwell.com/political-theatre/globalist-coup-against-americans/)
-* [How to handle Trump Derangement Syndromers](https://www.lewrockwell.com/political-theatre/how-to-handle-trump-derangement-syndromers/)
-* [TDS Bill Maher Loses It Over Failed Trump Assassination Attempt Boosting TRUMPS Chances](https://www.lewrockwell.com/political-theatre/tds-bill-maher-loses-it-over-failed-trump-assassination-attempt-boosting-trumps-chances/)
-* [Hungary’s Orban Skips NATO Summit for Meeting with Donald Trump](https://www.lewrockwell.com/political-theatre/hungarys-orban-skips-nato-summit-for-meeting-with-donald-trump/)
-* [WHAT?! Trump Shooter Appears to Be Featured in 2023 BlackRock Ad](https://www.lewrockwell.com/political-theatre/what-trump-shooter-appears-to-be-featured-in-2023-blackrock-ad/)
-* [Jimmy Dore, Candace Owens: 0% chance killer could scale building with rifle without detection](https://www.lewrockwell.com/political-theatre/jimmy-dore-candace-owens-0-chance-killer-could-scale-building-with-rifle-without-detection/)
-* [Police encountered killer/would-be assassin, walked away from him](https://www.lewrockwell.com/political-theatre/police-encountered-killer-would-be-assassin-walked-away-from-him/)
-* [Clear Signs This Was A Set Up!](https://www.lewrockwell.com/political-theatre/clear-signs-this-was-a-set-up/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-889489)
+* [Only “fascists” claim Christians are being persecuted](https://www.lewrockwell.com/political-theatre/only-fascists-claim-christians-are-being-persecuted/)
+* [Climate Change™ ‘Butter’, By Bill Gates](https://www.lewrockwell.com/political-theatre/climate-change-butter-by-bill-gates/)
+* [Something Stinks, and Joe Rogan Can Smell It](https://www.lewrockwell.com/political-theatre/something-stinks-and-joe-rogan-can-smell-it/)
+* [The Dukes of MAGA Featuring Trump-Vance](https://www.lewrockwell.com/political-theatre/the-dukes-of-maga-featuring-trump-vance/)
+* [Ambassador Chas Freeman interviewed…](https://www.lewrockwell.com/political-theatre/ambassador-chas-freeman-interviewed/)
+* [I Media Won’t Tell You Corruption Defined Kamala Harris’ Affair](https://www.lewrockwell.com/political-theatre/i-media-wont-tell-you-corruption-defined-kamala-harris-affair/)
+* [Kamala Harris](https://www.lewrockwell.com/political-theatre/kamala-harris/)
+* [Mike Adams: Patsy Crooks Fired No Bullets](https://www.lewrockwell.com/political-theatre/mike-adams-patsy-crooks-fired-no-bullets/)
+* [Naomi Wolf says Biden Speech was Super Weird](https://www.lewrockwell.com/political-theatre/naomi-wolf-says-biden-speech-was-super-weirdly/)
+* [House Oversight Committee Chair Comer calls for FBI chief to resign](https://www.lewrockwell.com/political-theatre/house-oversight-committee-chair-comer-calls-for-fbi-chief-to-resign/)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-890046)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
-* [Revisiting the “Legend” of Lee Harvey Oswald](https://www.lewrockwell.com/lrc-blog/revisiting-the-legend-of-lee-harvey-oswald/)
-* [A Great Recommendation for Vance](https://www.lewrockwell.com/lrc-blog/a-great-recommendation-for-vance/)
-* [Is Increased Consumer Spending Good for the Economy?](https://www.lewrockwell.com/lrc-blog/is-increased-consumer-spending-good-for-the-economy/)
-* [VP Pick Vance: ‘Punch Iran Hard!’](https://www.lewrockwell.com/lrc-blog/vp-pick-vance-punch-iran-hard/)
-* [Editor at ‘Major News Outlet’ Tells Media to Bury Iconic Photo of Trump after Assassination Attempt](https://www.lewrockwell.com/lrc-blog/editor-at-major-news-outlet-tells-media-to-bury-iconic-photo-of-trump-after-assassination-attempt/)
-* [Defiant Strength and Resolution vs Blubbering Cowering Cowardice](https://www.lewrockwell.com/lrc-blog/defiant-strength-and-resolution-vs-blubbering-cowering-cowardice/)
-* [Viva & Barnes LIVE FROM RNC IN MILWAUKEE!](https://www.lewrockwell.com/lrc-blog/viva-barnes-live-from-rnc-in-milwaukee/)
-* [The Flat Roof Society](https://www.lewrockwell.com/lrc-blog/the-flat-roof-society/)
-* [ASSASSINATION ATTEMPT Trump Secret Service Vs JFK Secret Service](https://www.lewrockwell.com/lrc-blog/assassination-attempt-trump-secret-service-vs-jfk-secret-service/)
-* [JD Vance And The Future Of The Republican Party](https://www.lewrockwell.com/lrc-blog/jd-vance-and-the-future-of-the-republican-party/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-889521)
+* [Be Prepared for a Kamala Harris Win](https://www.lewrockwell.com/lrc-blog/be-prepared-for-a-kamala-harris-win/)
+* [Netanyahu’s Speech Was as American as It Gets?](https://www.lewrockwell.com/lrc-blog/netanyahus-speech-was-as-american-as-it-gets/)
+* [“I’m an Irish-American Zionist”](https://www.lewrockwell.com/lrc-blog/im-an-irish-american-zionist/)
+* [War With Iran Should Not Replace War In Ukraine](https://www.lewrockwell.com/lrc-blog/war-with-iran-should-not-replace-war-in-ukraine/)
+* [About the Harris Poll Surge](https://www.lewrockwell.com/lrc-blog/about-the-harris-poll-surge/)
+* [Robert Barnes on the Deep Background of the Deep State Up to the JFK Assassination and Beyond](https://www.lewrockwell.com/lrc-blog/robert-barnes-on-the-deep-background-of-the-deep-state-up-to-the-jfk-assassination-and-beyond/)
+* [Positive Signs for Trump Foreign Policy](https://www.lewrockwell.com/lrc-blog/positive-signs-for-trump-foreign-policy/)
+* [The Duran: Biden Passes “Torch” to Kamala w/ Robert Barnes (Live)](https://www.lewrockwell.com/lrc-blog/the-duran-biden-passes-torch-to-kamala-w-robert-barnes-live/)
+* [Biden Quits…To ‘Save Our Democracy’? With Guest Jeff Deist](https://www.lewrockwell.com/lrc-blog/biden-quits-to-save-our-democracy-with-guest-jeff-deist/)
+* [Robert Barnes Explains WW1 and the Rise of Adolf Hitler](https://www.lewrockwell.com/lrc-blog/robert-barnes-explains-ww1-and-the-rise-of-adolf-hitler/)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-889955)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
