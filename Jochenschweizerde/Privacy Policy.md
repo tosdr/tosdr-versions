@@ -231,7 +231,7 @@ Benutzerkonto
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Datenschutz
 
-[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/Sommerkampagne_SNB_desktop_250x120.jpg)](https://www.jochen-schweizer.de/geschenkgutscheine/rabatte/l/uxteb)
+[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/Sommerkampagne_SNB_desktop_Countdown_250x120.jpg)](https://www.jochen-schweizer.de/geschenkgutscheine/rabatte/l/uxteb)
 
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
