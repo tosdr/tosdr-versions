@@ -118,60 +118,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Johan Botha - Brand Xplosion
+Henry Venter
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=121120162)  
-Tantra Sound and Lightz
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=57618217)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=187590299)  
-Printo
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=38856790)  
+Multi CNC Solutions CC
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=63427430)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=87728592)  
+Norton Medical & Consult - Namibia
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=129455840)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=99638640)  
+Hydroworld T/A Milliqua
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=199957605)  
-SR Travel Services
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=10079950)  
+LEO DEVELOPMENT GROUP
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=115363862)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=175153219)  
+Dr V Naik Consult
 
-![valued client BOHMER TECH (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8479&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=201284261)  
-BOHMER TECH (Pty) Ltd
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=33748211)  
+Desygn
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=155712005)  
-SafeTclip
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=53941457)  
+Salvage Genie
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=163165491)  
-Goju-Ryu Pretoria East
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=97117412)  
+West Coast Horse Trails
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=186951137)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=140064132)  
+Kara Medical (Pty) Ltd
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=92161329)  
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=14637338)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=92887317)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=35825816)  
 Frameless Fanatix (Pty) Ltd.
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=114588400)  
-MOSELA GROUP Pty(ltd)
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=206452487)  
+NIMAWELL
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=150536453)  
-All Trucking Solutions
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=132501914)  
-Chiron Medical Solutions
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=93301657)  
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=158495394)  
 Sportspro Management (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
