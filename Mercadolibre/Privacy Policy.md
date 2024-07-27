@@ -17,7 +17,7 @@ Ingresá lo que quieras encontrar
 * [Vender](https://www.mercadolibre.com.ar/syi/core/list#nav-header)
 * [Ayuda](https://www.mercadolibre.com.ar/ayuda#nav-header)
 
-[Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad&loginType=explicit#nav-header)[Mis compras](https://myaccount.mercadolibre.com.ar/purchases/list#nav-header)
+* [Creá tu cuenta](https://www.mercadolibre.com.ar/registration?confirmation_url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad#nav-header)[Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad&loginType=explicit#nav-header)[Mis compras](https://myaccount.mercadolibre.com.ar/purchases/list#nav-header)
 
 [0 productos en tu carrito](https://www.mercadolibre.com.ar/gz/cart/v2 "Carrito")
 
@@ -136,45 +136,45 @@ Más información
 
 ### Acerca de
 
-* [Mercado Libre](https://www.mercadolibre.com.ar/institucional)
-* [Investor relations](https://investor.mercadolibre.com/)
-* [Tendencias](https://tendencias.mercadolibre.com.ar/)
-* [Sustentabilidad](https://sustentabilidadmercadolibre.com/)
-* [Blog](https://www.mercadolibre.com.ar/blog)
+* [Mercado Libre, Acerca de](https://www.mercadolibre.com.ar/institucional)
+* [Investor relations, Acerca de](https://investor.mercadolibre.com/)
+* [Tendencias, Acerca de](https://tendencias.mercadolibre.com.ar/)
+* [Sustentabilidad, Acerca de](https://sustentabilidadmercadolibre.com/)
+* [Blog, Acerca de](https://www.mercadolibre.com.ar/blog)
 
 ### Otros sitios
 
-* [Developers](https://developers.mercadolibre.com/)
-* [Mercado Pago](https://www.mercadopago.com.ar/)
-* [Mercado Shops](https://www.mercadoshops.com.ar/)
-* [Envíos](https://envios.mercadolibre.com.ar/)
-* [Mercado Ads](https://ads.mercadolibre.com.ar/)
+* [Developers, Otros sitios](https://developers.mercadolibre.com/)
+* [Mercado Pago, Otros sitios](https://www.mercadopago.com.ar/)
+* [Mercado Shops, Otros sitios](https://www.mercadoshops.com.ar/)
+* [Envíos, Otros sitios](https://envios.mercadolibre.com.ar/)
+* [Mercado Ads, Otros sitios](https://ads.mercadolibre.com.ar/)
 
 ### Ayuda
 
-* [Comprar](https://www.mercadolibre.com.ar/ayuda/Compras_638)
-* [Vender](https://www.mercadolibre.com.ar/ayuda/Vendiendo_643)
-* [Resolución de problemas](https://www.mercadolibre.com.ar/ayuda)
-* [Centro de seguridad](https://www.mercadolibre.com.ar/ayuda/Seguridad_663)
+* [Comprar, Ayuda](https://www.mercadolibre.com.ar/ayuda/Compras_638)
+* [Vender, Ayuda](https://www.mercadolibre.com.ar/ayuda/Vendiendo_643)
+* [Resolución de problemas, Ayuda](https://www.mercadolibre.com.ar/ayuda)
+* [Centro de seguridad, Ayuda](https://www.mercadolibre.com.ar/ayuda/Seguridad_663)
 
 ### Redes sociales
 
-* [X](https://x.com/ML_Argentina)
-* [Facebook](https://www.facebook.com/MercadoLibre)
-* [Instagram](https://www.instagram.com/mercadolibre.arg)
-* [YouTube](https://www.youtube.com/user/mercadolibre)
+* [X, Redes sociales](https://x.com/ML_Argentina)
+* [Facebook, Redes sociales](https://www.facebook.com/MercadoLibre)
+* [Instagram, Redes sociales](https://www.instagram.com/mercadolibre.arg)
+* [YouTube, Redes sociales](https://www.youtube.com/user/mercadolibre)
 
 ### Mi cuenta
 
-* [Ingresá](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad&loginType=explicit)
-* [Vender](https://www.mercadolibre.com.ar/syi/core/list)
+* [Ingresá, Mi cuenta](https://www.mercadolibre.com/jms/mla/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad&loginType=explicit)
+* [Vender, Mi cuenta](https://www.mercadolibre.com.ar/syi/core/list)
 
 ### Mercado Puntos
 
-* [Nivel 6](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
-* [Disney+](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
-* [Max](https://www.mercadolibre.com.ar/suscripciones/max#origin=footer_ml)
-* [Paramount+](https://www.mercadolibre.com.ar/suscripciones/paramount#origin=footer_ml)
+* [Nivel 6, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
+* [Disney+, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
+* [Max, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/max#origin=footer_ml)
+* [Paramount+, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/paramount#origin=footer_ml)
 
 Copyright © 1999-2024 MercadoLibre S.R.L.
 
