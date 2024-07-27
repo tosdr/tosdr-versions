@@ -463,10 +463,10 @@ We found suggestions
     
     [View all Gift Wrap](https://www.hallmark.com/gift-wrap/)
     
-    [Holidays](https://www.hallmark.com/search/?cgid=%2Fgift-wrap%2Fbows-and-ribbons%2F)
-    ------------------------------------------------------------------------------------
+    [Holidays](https://www.hallmark.com/gift-wrap/bows-and-ribbons/)
+    ----------------------------------------------------------------
     
-    [View all Holidays](https://www.hallmark.com/search/?cgid=%2Fgift-wrap%2Fbows-and-ribbons%2F)
+    [View all Holidays](https://www.hallmark.com/gift-wrap/bows-and-ribbons/)
     
     [Halloween (10/31/24)](https://www.hallmark.com/halloween/halloween-gift-wrap/)
     
@@ -567,7 +567,7 @@ We found suggestions
     
     [eCards](https://www.hallmark.com/ecards/)
     
-    [Shop All](https://www.hallmark.com/cards/?prefn1=personalizationType&prefv1=Add+a+Message+Inside%7CAdd+Photos%7CAdd+Video#productgrid)
+    [Shop All](https://www.hallmark.com/cards/?prefn1=personalizationType&prefv1=Add+a+Message+Inside%7CAdd+Photos#productgrid)
     
     [Personalized Ornaments](#)
     ---------------------------
@@ -584,11 +584,22 @@ We found suggestions
     
     [Shop All](https://www.hallmark.com/ornaments/personalized-ornaments/)
     
-* Ideas & Inspiration
+* Hallmark+
     
-    [View all Ideas & Inspiration](https://ideas.hallmark.com/)
+    [View all Hallmark+](#)
     
-    [View all Ideas & Inspiration](https://ideas.hallmark.com/)
+    [Hallmark+](#)
+    --------------
+    
+    [View all Hallmark+](#)
+    
+    [Learn more about Hallmark+](https://www.hallmark.com/hallmark-plus/)
+    
+* Blog
+    
+    [View all Blog](https://ideas.hallmark.com/)
+    
+    [View all Blog](https://ideas.hallmark.com/)
     
     [What to Write](#)
     ------------------
@@ -995,7 +1006,7 @@ Consumer Care Consumer Care
 
 * [Contact us](https://care.hallmark.com/s/)
 * [Store locator](https://www.hallmark.com/stores/)
-* [Gift cards](https://www.hallmark.com/gift-cards)
+* [Gift cards](https://www.hallmark.com/gift-cards/)
 
 Memberships Memberships & Services
 ----------------------------------
@@ -1008,7 +1019,7 @@ Order Information Order Information
 
 * [Order status](https://www.hallmark.com/order-history/)
 * [Shipping & delivery](https://www.hallmark.com/shipping-and-delivery/)
-* [Returns](https://www.hallmark.com/return-policy)
+* [Returns](https://www.hallmark.com/return-policy/)
 
 About Hallmark About Hallmark
 -----------------------------
@@ -1017,7 +1028,7 @@ About Hallmark About Hallmark
 * [Careers](https://careers.hallmark.com/?utm_source=careersite)
 * [Hallmark Channel](https://www.hallmarkchannel.com/)
 * [Hallmark Movies Now](https://www.hmnow.com/)
-* [More from Hallmark](https://www.hallmark.com/more-from-hallmark)
+* [More from Hallmark](https://www.hallmark.com/more-from-hallmark/)
 
 Connect with us
 ---------------
@@ -1036,10 +1047,11 @@ Sign up
 
 [![Essential Accessibility](https://www.hallmark.com/on/demandware.static/-/Sites-hmk-onesite-Library/default/dw06d8209e/images/global/footer/essential-accessibility.png "Essential Accessibility")](https://www.levelaccess.com/hallmark)
 
+* [![Your Privacy Choices](https://www.hallmark.com/on/demandware.static/-/Sites-hmk-onesite-Library/default/dw601b8d39/images/global/footer/privacyoptions123x59.png)Your Privacy Choices](https://care.hallmark.com/s/privacy-form "Your Privacy Choices")
 * [CA Privacy Notice](https://www.hallmark.com/privacy-notice/)
 * [Cookie Preferences](#)
-* [Legal](https://www.hallmark.com/legal/)
-* [Privacy & Security](https://www.hallmark.com/privacy/)
+* [Terms of Use](https://www.hallmark.com/terms-of-use/)
+* [Privacy Policy](https://www.hallmark.com/privacy/)
 * [Accessibility](https://www.hallmark.com/accessibility/)
 * [Product Recalls](https://www.hallmark.com/product-recalls/)
 
