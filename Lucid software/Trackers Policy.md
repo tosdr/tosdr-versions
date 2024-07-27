@@ -145,6 +145,7 @@ Cookies
 | anon\_guest | Lucid Software Inc | ESSENTIAL | Used in authentication for guests. | Session |
 | anon:new\_visit | Gainsight Inc | ESSENTIAL | Used to see if a it’s a first time visit of a user to the platform - if so then show the cookie banner and any other first time displays. | 30 minutes |
 | api\_openid\_session | Lucid Software Inc | ESSENTIAL | Stores a user's login identity information provided through an API to provision or login that user. | 30 minutes |
+| ^api\_openid\_state-.\* | Lucid Software Inc | ESSENTIAL | This cookie enhances security by ensuring that only authorized actions are taken during the sign-up process, protecting your information from unauthorized access. | 30 minutes |
 | api\_openid\_state | Lucid Software Inc | ESSENTIAL | This cookie is used to tie an OAuth/OpenID flow to a specific browser session, to prevent cross-site request forgery | 30 minutes |
 | apt.sid | Gainsight Inc | ESSENTIAL | The purpose of this cookie is to allow persistent ID tracking under the top-level domain of the product and is used as a reference ID to the user entity. Ensures team admins using Lucid products receive proper onboarding tutorial placement via Gainsight. | 30 minutes |
 | apt.uid | Gainsight Inc | ESSENTIAL | The purpose of this cookie is to allow persistent ID tracking under the top-level domain of the product and is used as a reference ID to the user entity. Ensures team admins using Lucid products receive proper onboarding tutorial placement via Gainsight. | 1 year |
@@ -476,10 +477,10 @@ Company
 
 English
 
-* [Deutsch](https://lucid.co/de)
+* [Deutsch](https://lucid.co/de/cookies)
 * [English](https://lucid.co/cookies)
 * [Español](https://lucid.co/es)
-* [Français](https://lucid.co/fr)
+* [Français](https://lucid.co/fr/cookies)
 * [Italiano](https://lucid.co/it)
 * [日本語](https://lucid.co/ja)
 * [한국인](https://lucid.co/ko)
