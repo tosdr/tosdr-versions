@@ -110,9 +110,9 @@ Die Verarbeitung deiner Daten zu den vorgenannten Zwecken erfolgt, um dir die Fu
 Shop
 ----
 
-Wenn du in unserem Shop ein Premium-Abo oder einen Geschenkgutschein erwirbst, binden wir für die Abwicklung von Zahlungen Zahlungsdienstleister ein. Bei einer Zahlung mittels Kreditkarte nutzen wir den Zahlungsdienstleister Stripe (Stripe Payments Europe, Ltd., C/O A & L Goodbody, Ifsc, North Wall Quay, Dublin, D01 H104, Irland - „Stripe”). Die Datenschutzhinweise von Stripe findest du unter: https://stripe.com/en-de/privacy.
+Wenn du in unserem Shop ein Premium-Abo oder einen Geschenkgutschein erwirbst, binden wir für die Abwicklung von Zahlungen Zahlungsdienstleister ein. Bei einer Zahlung mittels Kreditkarte nutzen wir den Zahlungsdienstleister Stripe (Stripe Payments Europe, Ltd., C/O A & L Goodbody, Ifsc, North Wall Quay, Dublin, D01 H104, Irland - „Stripe”). Die Datenschutzhinweise von Stripe findest du unter: [https://stripe.com/en-de/privacy](https://stripe.com/en-de/privacy).
 
-Ebenfalls hast du die Möglichkeit, per Paypal zu bezahlen. In diesem Fall wird deine Zahlung durch die PayPal (Europe) S.à r.l. et Cie („PayPal”), S.C.A., 22-24 Boulevard Royal, L-2449 Luxemburg, abgewickelt. Die Datenschutzhinweise von PayPal findest Du unter: https://www.paypal.com/en/webapps/mpp/ua/privacy-full
+Ebenfalls hast du die Möglichkeit, per Paypal zu bezahlen. In diesem Fall wird deine Zahlung durch die PayPal (Europe) S.à r.l. et Cie („PayPal”), S.C.A., 22-24 Boulevard Royal, L-2449 Luxemburg, abgewickelt. Die Datenschutzhinweise von PayPal findest Du unter: [https://www.paypal.com/en/webapps/mpp/ua/privacy-full](https://www.paypal.com/en/webapps/mpp/ua/privacy-full)
 
 Die Übermittlung von Zahlungsinformationen an diese Zahlungsdienstleister durch uns erfolgt zur Abwicklung der Zahlungen für die jeweiligen Leistungen, Art. 6 Abs. 1 lit. b DSGVO. Die weitergehende Verarbeitung von Zahlungsinformationen durch den Zahlungsdienstleister erfolgt ausschließlich in Verantwortlichkeit des jeweiligen Zahlungsdienstleisters. Bitte beachte hierzu die Datenschutzerklärungen der Zahlungsdienstleister. Der jeweilige Zahlungsdienstleister ist für die Verarbeitung deiner Zahlungsdaten allein verantwortlich. Wir haben darauf weder Zugriff noch Einfluss.
 
@@ -187,9 +187,9 @@ Die Erhebung und Verarbeitung deiner personenbezogenen Daten erfolgt in diesem F
 
 Du kannst dem jederzeit – auch gleich bei der Registrierung – widersprechen, indem du die entsprechende Checkbox deaktivierst, bzw. auf den Link zum Abmelden in den jeweiligen E-Mails klickst.
 
-Wir verwenden hierfür auch customer.io, einen Dienst der Peaberry Software Inc., 9450 SW Gemini Dr, Suite 43920, Beaverton, Oregon 97008-7105, USA („customer.io“). Wir setzen customer.io dabei als Auftragsverarbeiter ein.
+Wir verwenden hierfür auch [customer.io](http://customer.io/), einen Dienst der Peaberry Software Inc., 9450 SW Gemini Dr, Suite 43920, Beaverton, Oregon 97008-7105, USA („[customer.io](http://customer.io/)“). Wir setzen [customer.io](http://customer.io/) dabei als Auftragsverarbeiter ein.
 
-Customer.io ermöglicht es uns, dir - je nach deiner eingestellten Präferenzen - per E-Mail bzw. Push-Nachricht nur solche Neuigkeiten zu senden, die für dich auch relevant, von Interesse und von Nutzen sind. Damit wir die Mitteilungen an deine Interessen anpassen und dir ein optimales personalisiertes komoot-Erlebnis bieten können, um dir z.B. ausgesuchte Inspiration und Ideen speziell für dich zukommen zu lassen, verwenden wir Daten auf der Grundlage deiner Nutzung von komoot, deinen Interaktionen mit uns und die in deinem User-Account hinterlegten Angaben. Hierzu gehören:
+[Customer.io](http://customer.io/) ermöglicht es uns, dir - je nach deiner eingestellten Präferenzen - per E-Mail bzw. Push-Nachricht nur solche Neuigkeiten zu senden, die für dich auch relevant, von Interesse und von Nutzen sind. Damit wir die Mitteilungen an deine Interessen anpassen und dir ein optimales personalisiertes komoot-Erlebnis bieten können, um dir z.B. ausgesuchte Inspiration und Ideen speziell für dich zukommen zu lassen, verwenden wir Daten auf der Grundlage deiner Nutzung von komoot, deinen Interaktionen mit uns und die in deinem User-Account hinterlegten Angaben. Hierzu gehören:
 
 Daten, die du uns aktiv zur Verfügung stellst, z.B.:
 
@@ -211,7 +211,7 @@ Nutzungsinformationen (Startzeitpunkt einer Session),
 
 Community-Informationen (Anzahl deiner Follower und Anzahl derer, denen du folgst).
 
-Mit customer.io können wir außerdem erkennen, welche unserer Kommunikation gut funktioniert und welche nicht, z.B. ob du aufgrund unserer Kommunikation eine von uns vorgeschlagene Tour speicherst oder sie erkundest. So können wir unsere Mitteilungen an dich entsprechend verbessern.
+Mit [customer.io](http://customer.io/) können wir außerdem erkennen, welche unserer Kommunikation gut funktioniert und welche nicht, z.B. ob du aufgrund unserer Kommunikation eine von uns vorgeschlagene Tour speicherst oder sie erkundest. So können wir unsere Mitteilungen an dich entsprechend verbessern.
 
 Die Nutzung erfolgt aufgrund unseres berechtigten Interesses daran, dir nur solche Neuigkeiten senden zu können, die auch für dich relevant sowie von Interesse sind, um deine Benutzererfahrung mit unserem Produkt verbessern zu können und damit du komoot erfolgreicher für die Planung von Touren und Erkundungen nutzen kannst, Art. 6 Abs. 1 lit. f DSGVO.
 
@@ -425,7 +425,7 @@ Du findest uns auch auf Facebook unter [https://www.facebook.com/komoot](https:/
 
 Für Nutzer außerhalb der USA und Canada wird Facebook von der Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben. Für Nutzer in den USA und Canada ist die Meta Platforms Inc., 1601 Willow Road Menlo Park, CA 9402, USA., USA, Betreiber von Facebook.
 
-Auch wenn du nicht bei Facebook registriert bist und unsere Facebook Fanpage besuchst, kann Meta Platforms von dir pseudonyme Nutzungsdaten erheben. Weitere Informationen findest du in der Datenrichtlinie von Meta Platforms unter https://de-de.facebook.com/about/privacy/ sowie unter https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data. In der Datenrichtlinie findest du auch Informationen zu den Einstellungsmöglichkeiten für dein Facebook-Konto.
+Auch wenn du nicht bei Facebook registriert bist und unsere Facebook Fanpage besuchst, kann Meta Platforms von dir pseudonyme Nutzungsdaten erheben. Weitere Informationen findest du in der Datenrichtlinie von Meta Platforms unter [https://de-de.facebook.com/about/privacy/](https://de-de.facebook.com/about/privacy/) sowie unter [https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.facebook.com/legal/terms/information_about_page_insights_data). In der Datenrichtlinie findest du auch Informationen zu den Einstellungsmöglichkeiten für dein Facebook-Konto.
 
 Meta Platforms teilt Deine Daten möglicherweise innerhalb der Meta Unternehmensgruppe und mit anderen Dritten. Dabei kann es zu einer Übermittlung von personenbezogenen Daten in die USA und in andere Drittländer, für die kein Angemessenheitsbeschluss der EU-Kommission besteht, kommen. Für Datenübermittlungen in die USA besteht ein Angemessenheitsbeschluss der EU Kommission gemäß Art. 45 Abs. 1 DSGVO für das EU-U.S. Data Privacy Framework, das als Grundlage für Datenübermittlungen an zertifizierte Unternehmen und Organisationen in den USA dient. Im übrigen wird Facebook Ireland die von EU-Kommission genehmigen Standardvertragsklauseln gemäß Art. 46 Abs. 2 lit. c DSGVO nutzen. Weitere Informationen findest Du ebenfalls in der Datenrichtlinie von Meta Platforms.
 
@@ -581,7 +581,7 @@ Du bist weder vertraglich noch gesetzlich dazu verpflichtet deine personenbezoge
 Änderungen dieser Datenschutzerklärung
 --------------------------------------
 
-Die aktuelle Fassung dieser Datenschutzerklärung ist stets unter https://www.komoot.de/privacy abrufbar.
+Die aktuelle Fassung dieser Datenschutzerklärung ist stets unter [https://www.komoot.com/de-de/privacy](https://www.komoot.de/privacy) abrufbar.
 
 Stand: 2024-05-17
 
