@@ -16,7 +16,7 @@ More
 
 Social
 
-[YouTube](https://www.youtube.com/channel/UCfY410QyoHlC4jwUZZOjgOg) [Facebook](https://facebook.com/Musescore) [Twitter](https://twitter.com/musescore) [LinkedIn](https://linkedin.com/company/muse) [TikTok](https://www.tiktok.com/@musescoreofficial) [Instagram](https://www.instagram.com/musescore)
+[YouTube](https://www.youtube.com/channel/UCfY410QyoHlC4jwUZZOjgOg) [Facebook](https://facebook.com/Musescore) [X](https://x.com/musescore) [LinkedIn](https://linkedin.com/company/muse) [TikTok](https://www.tiktok.com/@musescoreofficial) [Instagram](https://www.instagram.com/musescore)
 
 Content
 
