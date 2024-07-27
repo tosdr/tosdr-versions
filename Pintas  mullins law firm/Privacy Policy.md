@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you get malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-how-do-you-get-malignant-mesothelioma-scaled.jpg "How Do You Get Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/ "How Do You Get Malignant Mesothelioma?")
+[![Are all talcum powders dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-all-talcum-powders-dangerous.jpg "Are All Talcum Powders Dangerous?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous "Are All Talcum Powders Dangerous?")
 
-[#### How Do You Get Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/)
+[#### Are All Talcum Powders Dangerous?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous)
 
-[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
+[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
 
-[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
+[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
 
-[![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
+[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
 
-[#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
+[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
