@@ -388,6 +388,7 @@ If you have any questions or requests in connection with this Cookie Notice or o
         New](https://www.klaviyo.com/product/whats-new)
     * [Marketing automation](https://www.klaviyo.com/marketing-automation)
     * [Klaviyo vs. others](https://www.klaviyo.com/compare)
+    * [Marketing glossary](https://www.klaviyo.com/glossary)
     
 
 English - US
