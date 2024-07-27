@@ -267,18 +267,20 @@ Mimecast Trust Center
 Topics covered in this Privacy Statement include:
 -------------------------------------------------
 
-* What type of Personal Data do we collect and how do we use it?
-* How do we share Personal Data?
-* Where is my Personal Data transferred?
-* How secure is my Personal Data?
-* What kind of technical data do we collect?
-* What about cookies?
-* How long will you use my Personal Data?
-* What is your commitment to children’s online privacy?
-* What about external links?
-* What are my data subject rights and how do I exercise them?
-* What about changes to this Privacy Statement?
-* How do I contact you?
+* [What type of Personal Data do we collect and how do we use it?](#what-type-of-personal-data-do-we-collect-and-how-do-we-use-it)
+* [Using Personal Data](#using-personal-data)
+* [How do we share Personal Data?](#how-do-we-share-personal-data)
+* [Where is my Personal Data transferred?](#where-is-my-personal-data-transferred)
+* [How secure is my Personal Data?](#how-secure-is-my-personal-data)
+* [What kind of technical data do we collect?](#what-kind-of-technical-data-do-we-collect)
+* [Technical information collected automatically from the Site](#technical-information-collected-automatically-from-the-site)
+* [What about cookies?](#what-about-cookies)
+* [How long will you use my Personal Data?](#how-long-will-you-use-my-personal-data)
+* [What is your commitment to children’s online privacy?](#what-is-your-commitment-to-children-s-online-privacy)
+* [What about external links?](#what-about-external-links)
+* [What are my data subject rights and how do I exercise them?](#what-are-my-data-subject-rights-and-how-do-i-exercise-them)
+* [What about changes to this Privacy Statement?](#what-about-changes-to-this-privacy-statement)
+* [How do I contact you?](#how-do-i-contact-you)
 
 Welcome to Mimecast! Mimecast Services Limited (“Mimecast”, “we”, “our”, “us) is a global company, with offices and/or affiliates in the United Kingdom (“UK”), Europe, North America, Australia, Israel, Jersey, United Arab Emirates, South Africa, Singapore, and India. We serve companies that have offices in those jurisdictions and across the world. Our website located at www.mimecast.com (the “Site”), provides information about our products and services (the “Services”) and is operated by Mimecast. Mimecast Services Limited has a registered office at 1 Finsbury Ave Floor 4, London, EC2M 2PF, UK (registered in England and Wales, 4901524).
 
@@ -334,7 +336,7 @@ As it is in our legitimate interest to be responsive to you and to ensure the pr
 * At your request to register you for a trial of our Services; and/or
 * At your request to provide you with a quote for our Services.
 
-Where required by applicable law, we obtain your consent to process your Personal Data to send you information we think you will find useful about our Services or, at your request, subscribe you to our newsletters and alerts concerning the Services we provide. You can can opt-out of such communications, or otherwise change your subscription preferences anytime though our Preference Center by clicking .
+Where required by applicable law, we obtain your consent to process your Personal Data to send you information we think you will find useful about our Services or, at your request, subscribe you to our newsletters and alerts concerning the Services we provide. You can can opt-out of such communications, or otherwise change your subscription preferences anytime though our Preference Center by clicking.
 
 We may obtain information (e.g., contact information including email addresses and phone numbers) from third parties (e.g., those offering business-contact-data enrichment services) to combine with the Personal Data we have gathered as described in this Privacy Statement. As it is in our legitimate interests to ensure we can communicate with you and to grow our business, we use this Personal Data, to improve our marketing activities and to ensure the Personal Data we hold are relevant and up-to-date. Also, if we provide a means for you to refer a third party to the Site, we will send the third party an email on your behalf with details about the Site. You can unsubscribe to emails by following the unsubscribe instructions in our Preference Center by clicking [here](https://info.mimecast.com/Subscription-Management.html), through marketing email communications sent to you, or you can raise a request via our dedicated online portal [here](https://app.onetrust.com/app/#/webform/02d91e7f-d064-46d6-8b37-cf0ef670b739) or by post at the address provided below. We provide additional information about your Data Subject Rights and how you may exercise them below.
 
