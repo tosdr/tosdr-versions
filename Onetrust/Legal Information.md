@@ -283,9 +283,9 @@ Your partner in trust transformation
 
 ### Resources
 
-* [Tech risk & compliance masterclass: The anatomy of a framework](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-the-anatomy-of-a-framework-webinar/)
-* [New European cyber laws: What you need to know](https://www.onetrust.com/resources/new-european-cyber-laws-what-you-need-to-know-webinar/)
-* [Enhancing Data Governance: OneTrust and Snowflake strategies for data-driven businesses](https://www.onetrust.com/resources/enhancing-data-governance-onetrust-and-snowflake-strategies-for-data-driven-businesses-webinar/)
+* [Unpacking Google's third-party cookies decision: What marketers need to know](https://www.onetrust.com/resources/unpacking-googles-third-party-cookies-decision-what-marketers-need-to-know-webinar/)
+* [Unlocking marketing ROI: Delivering personalized campaigns with 360-degree profiles](https://www.onetrust.com/resources/unlocking-marketing-roi-delivering-personalized-campaigns-with-360-degree-profiles-webinar/)
+* [Third-Party AI: Procurement and risk management best practices](https://www.onetrust.com/resources/third-party-ai-procurement-and-risk-management-best-practices-webinar/)
 
 ### Platform
 
