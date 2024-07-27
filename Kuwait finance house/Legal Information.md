@@ -342,6 +342,8 @@ Locating a Kuwait Finance House branches or ATMs is now faster and simpler with 
 
 **900-905-440**
 
+Please use a local phone number for the country you wish to communicate through to avoid international calling fees 
+
 ![](/dam/jcr:dde0969a-853f-4eed-84c1-becca19a967d/circle-icn3.png)
 
 ### Write to Us
