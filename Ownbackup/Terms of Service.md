@@ -1,6 +1,58 @@
 [![Own logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.png)](https://www.ownbackup.com/)
 
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+[WHY OWN](https://www.ownbackup.com/why-own)
+
+Solutions
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
+
+Solutions For
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).png)
+
+BUSINESS CONTINUITY
+
+Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).png)
+
+ON-PLATFORM DEVELOPMENT
+
+Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).png)
+
+ENSURING COMPLIANCE
+
+Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).png)
+
+OFF-PLATFORM ANALYTICS
+
+Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).png)
+
+SECURING ACCESS
+
+Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.png)
+
+FEDRAMP™
+
+SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).png)
+
+LIFECYCLE MANAGEMENT
+
+Ensure data integrity through storage, usage, archival and destruction](https://www.ownbackup.com/solutions/life-cycle-management)
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+
+solution overview](https://www.ownbackup.com/overview)
+
+Environments
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)
+
 Products
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
 
 I'm looking for
 
@@ -8,59 +60,29 @@ I'm looking for
 
 BACKUP & RECOVERY
 
-Protect data and metadata with comprehensive, automated backups and rapid, stress-free recovery.](https://www.ownbackup.com/products-backup-recovery-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b326381d5f1cb26c2d8_Group%20225821.svg)
+Protect data with comprehensive, automated backups and rapid, stress-free recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b326381d5f1cb26c2d8_Group%20225821.svg)
 
-DATA SECURITY
+Data Security
 
-Strengthen security posture by identifying data exposure risks and proactively taking action.](https://www.ownbackup.com/products-data-security)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32df31250159d84ea3_Group%20225819.svg)
+Strengthen security posture by identifying data exposure risks and proactively taking action](https://www.ownbackup.com/products-data-security)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32df31250159d84ea3_Group%20225819.svg)
 
-DATA SEEDING
+Data Seeding
 
 Propagate data to sandboxes for faster innovation and ideal training environments with Accelerate.](https://www.ownbackup.com/products-sandbox-seeding)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32d3747c3cb961497e_Group%20225820.svg)
 
-DATA ARCHIVING
+Data Archiving
 
-Preserve data with customizable retention policies and simplified compliance with Own Archive.](https://www.ownbackup.com/products-data-archiving)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b3204e61040626fceb7_Group%20225822.svg)
+Preserve data with customizable retention policies and simplified compliance](https://www.ownbackup.com/products-data-archiving)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b3204e61040626fceb7_Group%20225822.svg)
 
 limited availability
 
-DATA ANALYTICS
+DATA DISCOVERY
 
 Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Full Product Overview](https://www.ownbackup.com/product-overview)
 
-Environments
-
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)
-
-Solutions
-
-Solutions For
-
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf9167baece907a23cfb9_CRM.png)
-
-CRM Platform Owners
-
-Run your org with confidence](https://www.ownbackup.com/crm-platform-owners)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf916dbfefad6a7c23970_compliance.png)
-
-Compliance Leaders
-
-Simplify data compliance  
-and minimize risk](https://www.ownbackup.com/compliance-leaders)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf914336f0fcc2e338217_CISOs.png)
-
-CISOs
-
-Strengthen security posture by understanding data exposure risks](https://www.ownbackup.com/cisos)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf9140726442576e8f1d8_TECH.png)
-
-Technology Leaders
-
-Recover quickly from a data  
-loss or corruption](https://www.ownbackup.com/technology-leaders)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8a7b_FR%20Logo_circle_standard%201.png)
-
-FedRAMP
-
-FedRAMP® authorized SaaS data protection for the U.S. Federal Government](https://www.ownbackup.com/ownbackup-for-the-us-federal-government)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.png)
 
 Partners
 
@@ -70,21 +92,23 @@ Partners
 
 Resources
 
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
+
 Resources
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-Blog](https://www.ownbackup.com/blog)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8887_svgexport-15.svg)
+Blog](https://www.ownbackup.com/blog)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8887_svgexport-15.svg)
 
 Events](https://www.ownbackup.com/events)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-On- demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
@@ -102,19 +126,21 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Archive
+
+Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
+
 [ServiceNow
 
 Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
 
-[Data Seeding
+[Product Updates
 
-Four Ways To Ensure More Error-Free Releases in Salesforce](https://www.ownbackup.com/blog/four-ways-to-ensure-more-error-free-releases-in-salesforce)
-
-[Backup and Recovery
-
-Your Salesforce Org Doesn’t Need to Stop Growing. It Just Needs Some Guardrails.](https://www.ownbackup.com/blog/your-salesforce-org-doesnt-need-to-stop-growing-it-just-needs-some-guardrails)
+What’s New In Own: Release Highlights For Q2 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q2-24)
 
 Company
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
 
 Company
 
@@ -188,7 +214,9 @@ Galaxy by Aurobindo Reality,
 4th Floor, Hitech City,  
 Hyderabad, Telangana 500081
 
-[Get started](#)[Already a Customer? Login](#)
+[Support](https://www.ownbackup.com/support)
+
+[Book a demo](https://www.ownbackup.com/request-demo)[LOG IN](https://auth.owndata.com/)
 
 [](https://www.ownbackup.com/search)[Support](https://www.ownbackup.com/support)[Get a Demo](https://www.ownbackup.com/request-demo)
 
@@ -197,6 +225,52 @@ Hyderabad, Telangana 500081
 Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
+
+[WHY OWN](https://www.ownbackup.com/why-own)
+
+Solutions
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
+
+Solutions For
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0673f43ea3eddf2286b_Group%20226023%20(1).png)
+
+BUSINESS CONTINUITY
+
+Rapidly recover from data breaches, loss or corruption](https://www.ownbackup.com/solutions/ensuring-business-continuity)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea06616792bea67f878e0_Group%20225750%20(1).png)
+
+ON-PLATFORM DEVELOPMENT
+
+Ensure accurate development environments and protect production environments](https://www.ownbackup.com/solutions/on-platform-development)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665f189e5d14f50087_Group%20226021%20(1).png)
+
+ENSURING COMPLIANCE
+
+Comply with regulatory requirements and internal policies while staying audit ready](https://www.ownbackup.com/solutions/compliance)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0665790ca6cbcb03a68_Group%20225743%20(1).png)
+
+OFF-PLATFORM ANALYTICS
+
+Accelerate insights and AI training with time-series data from your backups](https://www.ownbackup.com/solutions/off-platform-analytics)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea0667cb851945770ee3a_Group%20226022%20(1).png)
+
+SECURING ACCESS
+
+Detect, prioritize, and remediate risks, while staying ahead of threats](https://www.ownbackup.com/solutions/securing-acccess)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea39164d9b2ddf6932fb1_FEDRAMP-4C-LOGO%402x%202.png)
+
+FEDRAMP™
+
+SaaS data protection platform for the U.S. Federal Government](https://www.ownbackup.com/own-for-the-us-federal-government)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/668ea066e092998f1c8a55ce_Group%20225749%20(1).png)
+
+LIFECYCLE MANAGEMENT
+
+Ensure data integrity through storage, usage, archival and destruction](https://www.ownbackup.com/solutions/life-cycle-management)
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+
+solution overview](https://www.ownbackup.com/overview)
+
+Environments
+
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)
 
 Products
 
@@ -208,59 +282,27 @@ I'm looking for
 
 BACKUP & RECOVERY
 
-Protect data and metadata with comprehensive, automated backups and rapid, stress-free recovery.](https://www.ownbackup.com/products-backup-recovery-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b326381d5f1cb26c2d8_Group%20225821.svg)
+Protect data with comprehensive, automated backups and rapid, stress-free recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b326381d5f1cb26c2d8_Group%20225821.svg)
 
-DATA SECURITY
+Data Security
 
-Strengthen security posture by identifying data exposure risks and proactively taking action.](https://www.ownbackup.com/products-data-archiving)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32df31250159d84ea3_Group%20225819.svg)
+Strengthen security posture by identifying data exposure risks and proactively taking action](https://www.ownbackup.com/products-data-security)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32df31250159d84ea3_Group%20225819.svg)
 
-DATA SEEDING
+Data Seeding
 
-Propagate data to sandboxes for faster innovation and ideal training environments with Accelerate.](https://www.ownbackup.com/products-data-security)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32d3747c3cb961497e_Group%20225820.svg)
+Propagate data to sandboxes for faster innovation and ideal training environments with Accelerate.](https://www.ownbackup.com/products-sandbox-seeding)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b32d3747c3cb961497e_Group%20225820.svg)
 
-DATA ARCHIVING
+Data Archiving
 
-Preserve data with customizable retention policies and simplified compliance with OwnBackup Archive.](https://www.ownbackup.com/products-sandbox-seeding)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b3204e61040626fceb7_Group%20225822.svg)
+Preserve data with customizable retention policies and simplified compliance](https://www.ownbackup.com/products-data-archiving)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65fc6b3204e61040626fceb7_Group%20225822.svg)
 
 limited availability
 
-DATA ANALYTICS
+DATA DISCOVERY
 
 Use historical SaaS data to fuel powerful trend analysis and AI innovation](https://www.ownbackup.com/products-discover)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 Full Product Overview](https://www.ownbackup.com/product-overview)
-
-Environments
-
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d4e56a7fbb734df8f_servicenow.svg)](https://www.ownbackup.com/solutions-servicenow)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c004d3bded3a42c1914ab_salesforce.svg)](https://www.ownbackup.com/solutions-salesforce)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf76e58eeea28337b6e39_microsoft.svg)](https://www.ownbackup.com/solutions-microsoft-dynamics)
-
-Solutions
-
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651729b16fcde0cc415a9ccf_211607_right_arrow_icon%201.svg)
-
-Solutions For
-
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf9167baece907a23cfb9_CRM.png)
-
-CRM Platform Owners
-
-Run your org with confidence](https://www.ownbackup.com/crm-platform-owners)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf916dbfefad6a7c23970_compliance.png)
-
-Compliance Leaders
-
-Simplify data compliance and minimize risk](https://www.ownbackup.com/compliance-leaders)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf914336f0fcc2e338217_CISOs.png)
-
-CISOs
-
-Strengthen security posture by understanding data exposure risks](https://www.ownbackup.com/cisos)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654bf9140726442576e8f1d8_TECH.png)
-
-Technology Leaders
-
-Recover quickly from a data loss or corruption](https://www.ownbackup.com/technology-leaders)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8a7b_FR%20Logo_circle_standard%201.png)
-
-FedRAMP
-
-FedRAMP® authorized SaaS data protection for the U.S. Federal Government](https://www.ownbackup.com/ownbackup-for-the-us-federal-government)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b9c9b69d5b970c27b85d3_Line%203.png)
 
@@ -286,11 +328,9 @@ Blog](https://www.ownbackup.com/blog)[![](https://cdn.prod.website-files.com/64d
 
 Events](https://www.ownbackup.com/events)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
-
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
-On- demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
@@ -308,19 +348,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Archive
+
+Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
+
 [ServiceNow
 
 Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
 
-[Data Seeding
+[Product Updates
 
-Four Ways To Ensure More Error-Free Releases in Salesforce](https://www.ownbackup.com/blog/four-ways-to-ensure-more-error-free-releases-in-salesforce)
-
-[Backup and Recovery
-
-Your Salesforce Org Doesn’t Need to Stop Growing. It Just Needs Some Guardrails.](https://www.ownbackup.com/blog/your-salesforce-org-doesnt-need-to-stop-growing-it-just-needs-some-guardrails)
-
-[Support](https://www.ownbackup.com/support)
+What’s New In Own: Release Highlights For Q2 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q2-24)
 
 Company
 
@@ -387,8 +425,7 @@ Paris
 
 San Diego
 
-12555 High Bluff Drive  
-Suite 255  
+11455 El Camino Real #300  
 San Diego, CA 92130
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/654c0493860dbcb3a8d782c8_Hyderabad.png)
@@ -399,7 +436,9 @@ Galaxy by Aurobindo Reality,
 4th Floor, Hitech City,  
 Hyderabad, Telangana 500081
 
-[Book a demo](https://www.ownbackup.com/request-demo)[LOG IN](https://auth.ownbackup.com/)
+[Support](https://www.ownbackup.com/support)
+
+[Book a demo](https://www.ownbackup.com/request-demo)[LOG IN](https://auth.owndata.com/)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8738_Group%204.svg)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8508_8666595_x_icon%20(1).svg)
 
@@ -446,17 +485,13 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [Data Protection Platform](https://www.ownbackup.com/pricing)
 
-Products
-
-[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Product Overview](https://www.ownbackup.com/product-overview)
+[why own](https://www.ownbackup.com/why-own)[Solutions](https://www.ownbackup.com/overview)[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)
 
 Cloud Solutions
 
 [Salesforce](https://www.ownbackup.com/solutions-salesforce)[Microsoft](https://www.ownbackup.com/solutions-microsoft-dynamics)[ServiceNow](https://www.ownbackup.com/solutions-servicenow)[AWS](https://www.ownbackup.com/solutions-aws)[Veeva](https://www.ownbackup.com/solutions-veeva)[nCino](https://www.ownbackup.com/solutions-ncino)
 
-**Solutions by Persona**
-
-[CRM Platform Owners](https://www.ownbackup.com/crm-platform-owners)[Compliance Leaders](https://www.ownbackup.com/compliance-leaders)[CISOs](https://www.ownbackup.com/cisos)[Technical Leaders](https://www.ownbackup.com/technology-leaders)
+[Products](https://www.ownbackup.com/product-overview)[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Data Discovery](https://www.ownbackup.com/products-discover)
 
 Resources
 
@@ -479,29 +514,13 @@ Personal Information](#)
 
 © 2024 Own Company. All rights reserved.
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)](https://www.ownbackup.com/old-home-3)
+[why own](https://www.ownbackup.com/why-own)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
-Products
+Solutions
 
-[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Product Overview](https://www.ownbackup.com/product-overview)
-
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
-
-Solutions by Persona
-
-[CRM Platform Owners](https://www.ownbackup.com/crm-platform-owners)[Compliance Leaders](https://www.ownbackup.com/compliance-leaders)[CISOs](https://www.ownbackup.com/cisos)[Technical Leaders](https://www.ownbackup.com/technology-leaders)
-
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
-
-COMPANY
-
-[About Us](https://www.ownbackup.com/company)[Careers](https://www.ownbackup.com/open-positions)[Partners](https://www.ownbackup.com/partners)[News Room](https://www.ownbackup.com/newsroom)
-
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
-
-CUSTOMERS](https://www.ownbackup.com/customer-stories)
+[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Solution Overview](https://www.ownbackup.com/overview)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
@@ -511,9 +530,21 @@ Cloud Solutions
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
+Products
+
+[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Product Overview](https://www.ownbackup.com/product-overview)[Data Discovery](https://www.ownbackup.com/products-discover)
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+
 Resources
 
 [Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebooks)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+
+COMPANY
+
+[About Us](https://www.ownbackup.com/company)[Careers](https://www.ownbackup.com/open-positions)[Partners](https://www.ownbackup.com/partners)[News Room](https://www.ownbackup.com/newsroom)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
@@ -522,6 +553,8 @@ support
 [Knowledge Base](https://www.ownbackup.com/support/knowledge-base)[Call Back Request](https://www.ownbackup.com/support/call-back-request)[Submit a Ticket](https://www.ownbackup.com/support/submit-ticket)[Support Policy](https://www.ownbackup.com/support/customer-support-policy)[Support & Services](https://www.ownbackup.com/services)
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+
+CUSTOMERS](https://www.ownbackup.com/customer-stories)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
 pricing](https://www.ownbackup.com/pricing)
 
