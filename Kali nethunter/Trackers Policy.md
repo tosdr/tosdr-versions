@@ -369,14 +369,12 @@ Resources
 
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
-![](/_astro/cybercore.bGheRKum_25hhDp.svg)
+![](/_astro/blackhat.4sSzId7N_Z1gHtzO.svg)
 
-SEC-100: CyberCore - Security Essentials
-----------------------------------------
+Attending Black Hat USA 2024? Swing by our booth!
+-------------------------------------------------
 
-OffSec's new course and certification helps open doors to an exciting cybersecurity career.
-
-[Learn more](https://www.offensive-security.com/courses/sec-100/)
+[Learn more](https://offs.ec/3S803ee)
 
 Legal
 =====
