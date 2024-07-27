@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![Tiktok-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/tiktok-web.jpg?width=1920&height=1085&quality=80)
+[![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
 
-### TikTok fined £1.875m for providing inaccurate data on safety controls
+### Nowhere to hide for tech firms on online safety: Ofcom publishes draft industry guidance on transparency reporting and information gathering
 
-24 July 2024](https://www.ofcom.org.uk/online-safety/protecting-children/tiktok-fined-1.875m-for-providing-inaccurate-data-on-safety-controls)
+26 July 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/nowhere-to-hide-for-tech-firms-on-online-safety/)
 
-[![Close up of womans face with highlighted data points for deepfake technology.](/siteassets/resources/images/-news-centre/thumbnail-images/misc/abstract/deepfake-web.jpg?width=1920&height=1085&quality=80)
+[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
 
-### A deep dive into deepfakes that demean, defraud and disinform
+### ‘Online safety risks don’t stop at the border, they traverse the world’ – why international online safety regulation matters
 
-23 July 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/deepfakes-demean-defraud-disinform/)
+26 July 2024](https://www.ofcom.org.uk/online-safety/safety-technology/online-safety-risks-dont-stop-at-the-border-they-traverse-the-world--why-international-online-safety-regulation-matters/)
 
-[![BT-999-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/phones/bt-999-web.jpg?width=1920&height=1085&quality=80)
+[![Fibre optic cables](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/fibre-cables-adobestock_719690539.jpg?width=1920&height=1085&quality=80)
 
-### BT fined £17.5m for 999 call-handling failures
+### Natalie Black appointment
 
-22 July 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/bt-fined-17.5m-for-999-call-handling-failures?language=en)
+25 July 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/natalie-black-appointment/)
 
-[![Man on tablet looking at bills](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/man-on-tablet-looking-at-bills.png?width=1920&height=1085&quality=80)
+[![Woman with toddler using calculator on her phone](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/woman-with-toddler-using-calculator-on-phone.jpg?width=1920&height=1085&quality=80)
 
-### Ofcom bans mid-contract price rises linked to inflation
+### Latest telecoms and pay-TV complaints figures revealed
 
-19 July 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ofcom-bans-mid-contract-price-rises-linked-to-inflation/)
+25 July 2024](https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-figures-revealed-Q1-24/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
@@ -169,7 +169,7 @@
 
 [About Ofcom](https://www.ofcom.org.uk/about-ofcom/) [Our website](https://www.ofcom.org.uk/about-ofcom/our-website/)
 
-Published: 22 May 2023
+Published: 10 March 2023
 
 Last updated: 13 June 2024
 
