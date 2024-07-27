@@ -497,39 +497,39 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Bed & Bath Sale Sale](https://www.houzz.com/shop-houzz/bed-and-bath-sale)
+[Outdoor Sale Sale](https://www.houzz.com/shop-houzz/outdoor-sale)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Bed & Bath Sale](https://www.houzz.com/shop-houzz/bed-and-bath-sale)
+[Outdoor Sale](https://www.houzz.com/shop-houzz/outdoor-sale)
 
-[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/a3518cdc069887f3_2308-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 65% OFF
-
-The Ultimate Vanity Sale](https://www.houzz.com/ideabooks/108801176) 
-
-[![The Ultimate Bedroom Sale](https://st.hzcdn.com/fimgs/ba012634069887c5_2262-w150-h150-b0-p0--home-design.jpg)
+[![Outdoor Rugs](https://st.hzcdn.com/fimgs/9201daa706a13da0_3105-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
-The Ultimate Bedroom Sale](https://www.houzz.com/ideabooks/120778100) 
+Outdoor Rugs](https://www.houzz.com/ideabooks/92270652) 
 
-[![Bestselling Bedroom Storage](https://st.hzcdn.com/fimgs/fee19f4c069887f2_2306-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Bestselling Bedroom Storage](https://www.houzz.com/ideabooks/171361306) 
-
-[![Bathroom Renovation Must-Haves](https://st.hzcdn.com/fimgs/54c11614069887f0_2305-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Outdoor Sale](https://st.hzcdn.com/fimgs/5f01479806a13da3_3108-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 70% OFF
 
-Bathroom Renovation Must-Haves](https://www.houzz.com/ideabooks/172837276) 
+The Ultimate Outdoor Sale](https://www.houzz.com/ideabooks/111276527) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/4891dbdf06990bd5_6132-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/bed-and-bath-sale) 
+[![Outdoor Lighting](https://st.hzcdn.com/fimgs/27f1cdd706a13d9b_3100-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 50% OFF
+
+Outdoor Lighting](https://www.houzz.com/ideabooks/139316379) 
+
+[![Refresh Your Summer Curb Appeal](https://st.hzcdn.com/fimgs/ab517ea806a13da2_3106-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 60% OFF
+
+Refresh Your Summer Curb Appeal](https://www.houzz.com/ideabooks/176398241) 
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/da2185c106a2290a_3374-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/outdoor-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -557,7 +557,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28696248/pic/houzz_logo.svg?v=28696248)
+![Houzz Logo Print](//www.houzz.com/res/28698993/pic/houzz_logo.svg?v=28698993)
 
 Houzz Return Policy
 ===================
