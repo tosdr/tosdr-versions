@@ -212,9 +212,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**When should Harvard speak out?** Institutional Voice Working Group provides a roadmap in new report](https://news.harvard.edu/gazette/story/2024/05/when-should-harvard-speak-out/)
-        2. [**Had a bad experience meditating? You’re not alone.** Altered states of consciousness through yoga, mindfulness more common than thought and mostly beneficial, study finds — though clinicians ill-equipped to help those who struggle](https://news.harvard.edu/gazette/story/2024/05/altered-states-through-yoga-meditation-more-common-than-thought/)
-        3. [**College sees strong yield for students accepted to Class of 2028**   Financial aid was a critical factor, dean says](https://news.harvard.edu/gazette/story/2024/06/college-sees-strong-yield-for-students-accepted-to-class-of-2028/)
+        1. [**What the judge was thinking and what’s next in Trump documents case** Obama-era White House counsel says key point in Nixon decision should have ended inquiry](https://news.harvard.edu/gazette/story/2024/07/what-the-judge-was-thinking-and-whats-next-in-trump-documents-case/)
+        2. [**The way forward for Democrats — and the country** Danielle Allen is more worried about identity politics and gaps in civic education than the power of delegates](https://news.harvard.edu/gazette/story/2024/07/the-way-forward-for-democrats-and-the-country/)
+        3. [**Finding right mix on campus speech policies** Legal, political scholars discuss balancing personal safety, constitutional rights, academic freedom amid roiling protests, cultural shifts](https://news.harvard.edu/gazette/story/2023/12/finding-right-mix-on-campus-speech-policies/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
