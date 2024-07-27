@@ -262,7 +262,7 @@ Hello bank! est l'offre digitale de BNP Paribas.
 * Nom commercial : Hello bank!
 * Dénomination sociale : BNP PARIBAS
 * Représentant légal : Jean-Laurent Bonnafé
-* Société anonyme au capital de : €
+* Société anonyme au capital de : 2 261 621 342 €
 * RCS : Paris 662 042 449
 * Identifiant CE TVA : FR 76662042449
 * N° ORIAS : 07 022 735
