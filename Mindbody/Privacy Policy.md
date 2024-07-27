@@ -19,7 +19,7 @@ Menu - Action
 Mindbody Privacy Policy
 =======================
 
-_Last Updated: October 10, 2023_
+_Last Updated: July 26, 2024_
 
 At MINDBODY, Inc. and our Mindbody subsidiaries (**“Mindbody”**), we respect your privacy and are committed to maintaining your trust. This privacy policy (**“Privacy Policy”**) applies to visitors of our Mindbody sites and users of the Mindbody Services.
 
@@ -68,6 +68,8 @@ While the Personal Information we collect varies depending upon the nature of th
 * Images you upload to the Mindbody Services,
 * Online identifiers (e.g. IP address, Device IDs, etc.), and
 * Cookie-related data as described below and as detailed in our [Cookie Policy](https://co.mindbodyonline.com/legal/cookies-and-similar-technologies-policy).
+
+To the extent that we are in possession of de-identified information, we commit to maintaining and using de-identified information without attempting to re-identify the information.
 
 3\. How We Collect Information
 ------------------------------
@@ -124,6 +126,8 @@ We may use your Personal Information for legitimate business purposes, including
     
     We will engage in this activity with your consent, to manage our contractual relationship with you, or where we have a legitimate interest. (Note: Health and fitness tracker data that is obtained via third parties will not be used for this purpose).
     
+    Please note that during phone conversations conducted with Subscribers and other third parties via Zoom, we may ask whether you would like additional information to be sent to you via SMS. If you agree, the phone number and opt-in you provide in response will not be sold to, or shared with, third party providers or affiliates for marketing or promotional purposes.
+    
 * **For reporting and trending.**
     
     * To better understand you and our other users, so that we can tune and personalize our offering.
@@ -146,7 +150,7 @@ To the extent that we process your Personal Information based on your consent, y
 5\. What and How Personal Information May Be Disclosed
 ------------------------------------------------------
 
-Certain privacy laws require that we disclose certain information about the categories of Personal Information (as defined by applicable law) that we have disclosed for a business purpose as well as the categories that we have “sold” as defined under applicable law.
+Certain privacy laws require that we disclose certain information about the categories of Personal Information (as defined under applicable law) that we have disclosed for a business purpose as well as the categories that we have “sold” or "shared" (as defined under applicable law).
 
 **Disclosed for a business purpose.** In general, we may disclose the following categories of Personal Information (as described above in more detail) to our Partners and Service Providers to provide the Mindbody services:
 
@@ -158,8 +162,6 @@ Certain privacy laws require that we disclose certain information about the cate
 * Geolocation data,
 * Online identifiers, and
 * Cookie-related data.
-
-**We do not sell your data.**
 
 We may disclose your Personal Information:
 
@@ -177,13 +179,13 @@ Please note that we may use and disclose Other Information for any purpose, exce
 6\. Privacy Rights regarding your Personal Information
 ------------------------------------------------------
 
-This section provides specific information for California residents, as required under California privacy laws, including the California Consumer Privacy Act (**“CCPA”**) as well as other jurisdictions and regulations that allow for individual privacy rights such as the European Economic Area, the United Kingdom, and the General Data Protection Regulation (**“GDPR”**).
+This section provides specific information for residents of certain states in the United States with comprehensive privacy laws, including but not limited to California, Colorado, Connecticut, Delaware, Iowa, Indiana, Montana, New Jersey, Oregon, Texas, Tennessee, Utah or Virginia, as well as other jurisdictions and regulations that allow for individual privacy rights such as the European Economic Area, the United Kingdom, and the General Data Protection Regulation (**“GDPR”**).
 
 **Explanation of Individual Rights**
 
 **Right to a Copy/Access or Portability:** You may have the right to request, free of charge, a copy of the specific pieces of Personal Information that we have collected about you in a readily useable format that allows you to transmit this information to another entity without hindrance.
 
-**Right to Know:** You may have the right to request, free of charge, that we provide certain information about how we have handled your Personal Information, including the categories of Personal Information collected; categories of sources of Personal Information; business and/or commercial purposes for collecting your Personal Information; categories of third parties/with whom we have shared your Personal Information; and whether we sell any categories of Personal Information to third parties (however, we do not sell your Personal Information).
+**Right to Know:** You may have the right to request, free of charge, that we provide certain information about how we have handled your Personal Information, including the categories of Personal Information collected; categories of sources of Personal Information; business and/or commercial purposes for collecting your Personal Information; categories of third parties/with whom we have shared your Personal Information; and whether we "sell" or "share" any categories of Personal Information to third parties (as defined under applicable law).
 
 **Right to Deletion:** You may have the right to request deletion of your Personal Information that we have collected, subject to certain exemptions. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). We may also retain residual information, such as records to document that your request has been fulfilled.
 
@@ -191,7 +193,9 @@ This section provides specific information for California residents, as required
 
 **Right to Correct/Rectify:** You may have the right to rectify any incorrect Personal Information we may hold about you.
 
-**Right to Object/Restrict:** You may have the right to object to a specific use of your Personal Information as it is laid out in this Privacy Policy subject to our legitimate business interests.  
+**Right to Object/Restrict:** You may have the right to object to a specific use of your Personal Information as it is laid out in this Privacy Policy subject to our legitimate business interests.
+
+**Right to Appeal:** If we reject your request to exercise a privacy right, under certain local privacy laws you may have the right to appeal our rejection by contacting us as explained in the “Submitting a Request” section.  
  
 
 **Submitting a Request**
@@ -289,6 +293,8 @@ Some non- EEA countries are recognized by the European Commission as providing a
 --------------------------
 
 We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, genetic characteristics, trade union membership or criminal background) on or through the Mindbody Services or otherwise to us, except where explicitly requested or consented to.
+
+Certain states in the United States, such as California, provide residents a right to limit the use of their sensitive personal information. However, we do not engage in uses or disclosures of sensitive personal information that would trigger the right to limit under state law.
 
 20\. EU-U.S. Data Privacy Framework and Swiss-U.S. Data Privacy Framework
 -------------------------------------------------------------------------
