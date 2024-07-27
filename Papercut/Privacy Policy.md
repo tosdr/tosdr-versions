@@ -769,18 +769,21 @@ This site is protected by reCAPTCHA and the Google [Privacy Policy](https://poli
 
 Products
 
-* [Product Overview](https://www.papercut.com/products/)
-* [PaperCut NG](https://www.papercut.com/products/ng/)
 * [PaperCut MF](https://www.papercut.com/products/mf/)
-* [PaperCut Pocket](https://www.papercut.com/products/pocket/)
+* [PaperCut NG](https://www.papercut.com/products/ng/)
 * [PaperCut Hive](https://www.papercut.com/products/hive/)
-* [Product comparison](https://www.papercut.com/products/features)
+* [PaperCut Pocket](https://www.papercut.com/products/pocket/)
+* [Product overview](https://www.papercut.com/products/)
+
+Products
+
+* [Product overview](https://www.papercut.com/products/)
 
 Free Tools
 
 * [PaperCut Mobility Print](https://www.papercut.com/products/free-software/mobility-print/)
-* [PaperCut QRDoc](https://qrdoc.io/#/)
 * [PaperCut Views](https://www.papercut.com/products/views/)
+* [PaperCut QRDoc](https://qrdoc.io/#/)
 
 Beta
 
@@ -798,38 +801,73 @@ Solutions for Industries
 * [Large enterprise](https://www.papercut.com/industry/large-enterprise/)
 * [Local government](https://www.papercut.com/industry/local-government/)
 
+Solutions for Industries
+
+* [High school/K-12](https://www.papercut.com/industry/k-12/)
+* [Higher education](https://www.papercut.com/industry/higher-education/)
+* [Healthcare](https://www.papercut.com/industry/healthcare/)
+* [Coworking](https://www.papercut.com/industry/co-working/)
+* [Life sciences](https://www.papercut.com/industry/life-sciences/)
+* [Legal](https://www.papercut.com/industry/legal/)
+* [Small businesses](https://www.papercut.com/industry/smb/)
+* [Large enterprise](https://www.papercut.com/industry/large-enterprise/)
+* [Local government](https://www.papercut.com/industry/local-government/)
+
 What our customers say
 
-* [Customer Stories](https://www.papercut.com/customer-stories/)
+* [Customer stories](https://www.papercut.com/customer-stories/)
 * [Testimonials](https://www.papercut.com/testimonials/)
 
-Discover
+What our customers say
 
-* [Discover overview](https://www.papercut.com/discover/)
-* [Easy printing](https://www.papercut.com/discover/easy-printing/)
-* [Print security](https://www.papercut.com/discover/print-security/)
-* [Cloud and Print](https://www.papercut.com/discover/cloud-and-print/)
-* [Waste control](https://www.papercut.com/discover/waste-control/)
-* [Scanning](https://www.papercut.com/discover/easy-scanning-and-capture/)
-* [Integrations](https://www.papercut.com/discover/integrations-and-customizations/)
-* [Products at a Glance](https://www.papercut.com/discover/products-at-a-glance/)
-* [Best practices](https://www.papercut.com/discover/best-practices/)
-* [Forest Positive](https://www.papercut.com/about/forest-positive/)
+* [Customer stories](https://www.papercut.com/customer-stories/)
+
+Support
+
+* [Support overview](https://www.papercut.com/contact/)
+
+Support
+
+* [Support overview](https://www.papercut.com/contact/)
+
+Learn more
+
+* [Interactive demos](https://www.papercut.com/products/demo/)new!
+* [Blog](https://www.papercut.com/blog/)
+* [Resources](https://www.papercut.com/resources/)
 
 Learn more
 
 * [Blog](https://www.papercut.com/blog/)
-* [Resources](https://www.papercut.com/resources/)
-* [Interactive demos](https://www.papercut.com/products/demo/)new!
 
-Support
+Discover
 
-* [Support Overview](https://www.papercut.com/contact/)
+* [Discover overview](https://www.papercut.com/discover/)
+* [Cloud and print](https://www.papercut.com/discover/cloud-and-print/)
+* [Easy printing](https://www.papercut.com/discover/easy-printing/)
+* [Scanning](https://www.papercut.com/discover/easy-scanning-and-capture/)
+* [Print security](https://www.papercut.com/discover/print-security/)
+* [Integrations](https://www.papercut.com/discover/integrations-and-customizations/)
+* [Waste control](https://www.papercut.com/discover/waste-control/)
+* [Products at a glance](https://www.papercut.com/discover/products-at-a-glance/)
+* [Forest Positive](https://www.papercut.com/about/forest-positive/)
+* [Best practices](https://www.papercut.com/discover/best-practices/)
+
+Discover
+
+* [Discover overview](https://www.papercut.com/discover/)
 
 Get PaperCut
 
 * [Contact Sales](https://www.papercut.com/get/speak-with-sales/)
 * [Book a demo](https://www.papercut.com/book-a-demo/)new!
+* [How to buy](https://www.papercut.com/products/how-to-get/)
+
+Get PaperCut
+
+* [Contact Sales](https://www.papercut.com/get/speak-with-sales/)
+* [Book a demonew!](https://www.papercut.com/book-a-demo/)
+* [How to buy](https://www.papercut.com/products/how-to-get/)
 
 About
 
@@ -837,16 +875,22 @@ About
 * [Careers](https://www.papercut.com/about/life-at-papercut/)
 * [B Corp](https://www.papercut.com/about/b-corp/)
 
+About
+
+* [About us](https://www.papercut.com/about/)
+* [Careers](https://www.papercut.com/about/life-at-papercut/)
+
 Misc
 
-* [Become a Reseller](https://www.papercut.com/resellers/)
-* [Privacy Policy](https://www.papercut.com/privacy-policy/)
-* Cookie Settings
-    
-    Hey there!  **We use cookies**.  Why? They let us personalize content, track usage, and analyze data on our end to improve your experience.  To learn more about the different cookies we’re using, check out [our Privacy Policy.](https://www.papercut.com/privacy-policy/)
-    
-    OK, I understand
-    
+* [Become a PaperCut Reseller](https://www.papercut.com/resellers/)
+* [Privacy policy](https://www.papercut.com/privacy-policy/)
+* Cookie settings
+
+Misc
+
+* [Become a PaperCut Reseller](https://www.papercut.com/resellers/)
+* [Privacy policy](https://www.papercut.com/privacy-policy/)
+* Cookie settings
 
 PaperCut, the P symbol, and PaperCut products are trademarks of the PaperCut group of companies.
 
