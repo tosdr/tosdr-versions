@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Sea Change: Bounty in the Gulf of Maine** | NOVA](https://video.nhpbs.org/video/sea-change-bounty-in-the-gulf-of-maine-cpsxiz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**La Lucha The Social Inequalities** | Doc World](https://video.nhpbs.org/video/doc-world-la-lucha-social-inequalities?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**at the Met: Roméo et Juliette** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-romeo-et-juliette-t8txcq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Two American Families: 1991-2024** | FRONTLINE](https://video.nhpbs.org/video/two-american-families-1991-2024-yoapwh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Critics doubt developers claiming AI can combat loneliness** | PBS News Hour](https://video.nhpbs.org/video/the-future-of-ai-1721772636?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**July 22, 2024** | Amanpour and Company](https://video.nhpbs.org/video/july-22-2024-bycyzq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Alphy and Mrs. C.** | Grantchester](https://video.nhpbs.org/video/alphy-and-mrs-c-n5awxg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**How A Supreme Court Case Redefined Whiteness** | In the Margins](https://video.nhpbs.org/video/how-a-supreme-court-case-redefined-whiteness-ibowtp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Girls in NH** | The State We're In](https://video.nhpbs.org/video/girls-in-nh-ubg7fc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump campaign races for new strategy after Biden steps aside** | Washington Week with The Atlantic](https://video.nhpbs.org/video/trump-campaign-races-for-new-strategy-after-biden-steps-aside-rgwemm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Official Trailer** | Leonardo da Vinci](https://video.nhpbs.org/video/leonardo-da-vinci-ken-burns-official-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Biden Biographer: "I Don't Think He's at Peace With This Decision"** | Amanpour and Company](https://video.nhpbs.org/video/biden-biographer-i-dont-think-hes-at-peace-with-this-decision-ljamkj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Biden's Out, Harris In?** | The State We're In](https://video.nhpbs.org/video/bidens-out-harris-in-1r2jnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Division and Unity in the United Methodist Church** | To The Contrary](https://video.nhpbs.org/video/division-and-unity-in-the-united-methodist-church-qcxsni?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Brooks and Capehart on Harris' appeal and the revamped race** | PBS News Hour](https://video.nhpbs.org/video/brooks-and-capehart-on-harris-appeal-and-the-revamped-race-1722035202?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**James Carville** | Firing Line](https://video.nhpbs.org/video/james-carville-r4wqiw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"Germany's Enemy Within" - Preview** | FRONTLINE](https://video.nhpbs.org/video/germanys-enemy-within-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 2 Preview** | Gods of Tennis](https://video.nhpbs.org/video/preview-xrqmxu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
