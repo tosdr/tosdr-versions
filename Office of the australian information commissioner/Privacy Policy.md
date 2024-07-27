@@ -491,7 +491,7 @@ Did you find this helpful?
 
  [![This is helpful](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsup.svg) Yes](#)[![This is not helpful](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsdown.svg) No](#)
 
- Yes  No   
+ Yes  No     Submit
 
 Share
 
