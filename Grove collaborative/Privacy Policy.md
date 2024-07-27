@@ -278,35 +278,36 @@ NOTICE CONCERNING DO NOT TRACK
 
 Do Not Track (**“DNT”**) is a privacy preference that users can set in certain web browsers. We are committed to providing you with meaningful choices about the information collected on our websites for third-party purposes, and that is why we provide the variety of opt-out mechanisms listed above, and in our Cookies Notice. Some web browsers offer users a “Do Not Track” privacy preference setting in the web browser. We do not currently recognize or respond to browser-initiated Do Not Track signals. Learn more about Do Not Track at [allaboutdnt.com](https://allaboutdnt.com/).
 
-Shop
-----
-
-* [Cleaning Essentials](https://www.grove.co/catalog/?category=cleaning-essentials)
-* [Home & Pantry](https://www.grove.co/catalog/?category=home-pantry)
-* [Personal Care](https://www.grove.co/catalog/?category=personal-care)
-* [Health & Wellness](https://www.grove.co/catalog/?category=health-wellness)
-* [Baby & Kids](https://www.grove.co/catalog/?category=baby-kids-personal-care)
-* [Pet](https://www.grove.co/catalog/?category=pet)
-
-About
+Grove
 -----
 
+* [Our Mission](https://www.grove.co/g/our-mission)
+* [Beyond Plastic](https://www.grove.co/beyondplastic/)
+* [Environmental Impact](https://www.grove.co/g/sustainability/)
+* [A Higher Standard](https://www.grove.co/g/the-grove-standard/)
+* [Free Returns](https://www.grove.co/g/shipping-returns/)
+* [![Certified B Corporation](https://images.grove.co/upload/v1554326506/global/Icons/svg-icons/b-corp.svg)](https://www.bcorporation.net/en-us/find-a-b-corp/company/grove-collaborative)
+
+Support
+-------
+
 * [FAQ](https://community.grove.co/hc/en-us/categories/200113215-FAQ/)
-* [Blog](https://www.grove.co/g/blog/)
-* [Our Story](https://www.grove.co/g/about/)
 * [Careers (We're hiring!)](https://www.grove.co/careers/)
 * [Partner Program](https://www.grove.co/s/partners/)
 * [Investor Relations](https://investors.grove.co/)
+* [Recycling](https://community.grove.co/hc/en-us/articles/360052887091-How-can-I-recycle-my-used-and-empty-products)
+* [Blog](https://www.grove.co/g/blog/)
+* [Contact Us](https://community.grove.co/hc/en-us/requests/new)
 
-Values
-------
+Shop
+----
 
-* [The Grove Standard](https://www.grove.co/g/the-grove-standard/)
-* [Sustainability](https://www.grove.co/g/sustainability/)
-* [Beyond Plastic](https://www.grove.co/beyondplastic/)
-* [Happiness Guarantee](https://www.grove.co/g/shipping-returns/)
-* [Accessibility Policy](https://www.grove.co/policies/#accessibility-policy)
-* [Certified B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/grove-collaborative) [![Certified B Corporation](https://images.grove.co/upload/v1554326506/global/Icons/svg-icons/b-corp.svg)](https://www.bcorporation.net/en-us/find-a-b-corp/company/grove-collaborative)
+* [Health & Wellness](https://www.grove.co/catalog/?category=health-wellness)
+* [Cleaning Essentials](https://www.grove.co/catalog/?category=cleaning-essentials)
+* [Home & Pantry](https://www.grove.co/catalog/?category=home-pantry)
+* [Personal Care](https://www.grove.co/catalog/?category=personal-care)
+* [Pet](https://www.grove.co/catalog/?category=pet)
+* [Deals](https://www.grove.co/catalog/?category=deals)
 
 Follow Grove
 ------------
@@ -315,15 +316,13 @@ Follow Grove
 *  [![Facebook logo](https://images.grove.co/upload/v1715962970/global/Icons/Social/Facebook.svg) Facebook](https://www.facebook.com/GroveCollab/)
 *  [![TikTok logo](https://images.grove.co/upload/v1715962970/global/Icons/Social/TikTok.svg) TikTok](https://www.tiktok.com/@grovecollaborative/)
 *  [![LinkedIn logo](https://images.grove.co/upload/v1715962971/global/Icons/Social/LinkedIn.svg) LinkedIn](https://www.linkedin.com/company/grove-collaborative/)
-*  [![Pinterest logo](https://images.grove.co/upload/v1715962971/global/Icons/Social/Pinterest.svg) Pinterest](https://www.pinterest.com/grovecollab/)
 *  [![YouTube logo](https://images.grove.co/upload/v1715962971/global/Icons/Social/YouTube.svg) YouTube](https://www.youtube.com/channel/UCymHP9mlJIV5yfcuT70e_5w/featured)
-*  [![X logo](https://images.grove.co/upload/v1715962972/global/Icons/Social/X.svg) X](https://www.twitter.com/grovecollab/)
 
 ![Grove Collaborative logo](https://images.grove.co/upload/v1710801411/global/Logos/Grove-Collaborative-wordmark.svg)
 
 ©2024 Grove Collaborative, Inc.
 
-[Carbon Disclosures](https://www.grove.co/g/carbondisclosures)[CA Supply Chain Act](https://www.grove.co/ca-supply-chain-act/)[Privacy Policy](https://www.grove.co/privacy/)[Terms of Use](https://www.grove.co/terms/)[Policies & Disclosures](https://www.grove.co/policies/)[Contact Us](https://community.grove.co/hc/en-us/requests/new)
+[Carbon Disclosures](https://www.grove.co/g/carbondisclosures)[CA Supply Chain Act](https://www.grove.co/ca-supply-chain-act/)[Privacy Policy](https://www.grove.co/privacy/)[Terms of Use](https://www.grove.co/terms/)[Policies & Disclosures](https://www.grove.co/policies/)[Accessibility Policy](https://www.grove.co/policies/#accessibility-policy)
 
 Notice to California Consumers: For your opt-out options, see: [Do Not Sell My Personal Information](https://preferences.grove.co/dont_sell)
 
