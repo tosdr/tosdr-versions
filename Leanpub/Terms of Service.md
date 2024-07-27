@@ -1015,7 +1015,9 @@ Every month, we pay royalties on the outstanding purchases whose Royalty Hold Pe
 
 The Royalty Rate applied at the time of the sale of a Product will be determined according to the Membership associated with the Product.
 
-By default, the Royalty Rate for all purchases is 80%.
+The Royalty Rate for purchases of $7.99 or more is 80%.
+
+The Royalty Rate for purchases between $0.99 and $7.98 or more is 80% minus a 50 cent flat fee.
 
 If a User’s Account is inactive or is terminated and Ruboss is unable to contact a User by using the contact information provided in the User’s Account, it may also, at its discretion, charge a termination fee equal to the amount of the User’s unpaid royalties to cover administrative costs.
 
