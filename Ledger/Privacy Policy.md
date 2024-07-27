@@ -1,6 +1,6 @@
-[New: Wallet recovery made easy with Ledger Recover, provided by Coincover
+[New: Introducing the world's first secure touchscreen hardware wallets
 
-Get started](https://shop.ledger.com/pages/ledger-recover)
+Shop Now](https://shop.ledger.com/pages/hardware-wallets-secure-touchscreen)
 
 Our Website now exists in . Do you want to change languages?
 
@@ -12,6 +12,7 @@ You can revert to English at any time by clicking on the language menu on the to
 
 * [Products](# "Products")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -232,6 +233,7 @@ Payment methods
 
 * Products
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex)
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)
