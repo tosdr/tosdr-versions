@@ -256,11 +256,11 @@ Themenwelten
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=PARIS2024)
 
-[\-50% auf Sierra Bees
+[\-30% auf Anti-Aging
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sierra-bees)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/anti-aging-longevity)
 
       
 
