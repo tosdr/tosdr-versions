@@ -58,6 +58,7 @@ Search for product
         
         * [CA - Tustin](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=101)
         * [CO - Denver](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=181)
+        * [FL - Miami](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=185)
         * [GA - Duluth](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=065)
         * [GA - Marietta](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=041)
         * [IL - Chicago](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeid=151)
