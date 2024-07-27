@@ -363,7 +363,7 @@ Featured travel offers
     
     [Order a brochure](https://www.rssc.com/order-brochure?s=PE_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTM)
     
-    From £5,879pp
+    From £6,119pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.rssc.com%2Fcruises%2FMAR240914%2Fsummary%3Fs%3DDI_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTMULTI&item=traveldeal&item_id=13835ecb-dac1-4d73-b340-ee7911d6f0d1&utm_source=mainsite&utm_campaign=travel_deals)
     
