@@ -1,9 +1,10 @@
-[New: Enjoy wallet recovery made easy with Ledger Recover, provided by Coincover](https://shop.ledger.com/pages/ledger-recover)[Get started](https://shop.ledger.com/pages/ledger-recover)
+[New: Introducing the world's first secure touchscreen hardware wallets](https://shop.ledger.com/en/pages/hardware-wallets-secure-touchscreen)[Shop Now](https://shop.ledger.com/en/pages/hardware-wallets-secure-touchscreen)
 
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Ledger Stax](https://shop.ledger.com/products/ledger-stax "Ledger Stax")
+    * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -48,7 +49,8 @@
     * العربية
 
 * Products
-    * [Ledger Stax](https://shop.ledger.com/products/ledger-stax "Ledger Stax")
+    * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -94,7 +96,8 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Ledger Stax](https://shop.ledger.com/products/ledger-stax "Ledger Stax")
+    * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -139,7 +142,8 @@
     * العربية
 
 * Products
-    * [Ledger Stax](https://shop.ledger.com/products/ledger-stax "Ledger Stax")
+    * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
+    * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
@@ -185,20 +189,20 @@
 LEDGER LIVE TERMS OF USE
 ========================
 
-**_June 15th, 2022_**
+**_July 25 2024_**
 
 You are about to use Ledger Live. We’re excited for you! Before you get on, Ledger needs you to carefully read, understand and accept our Terms of Use (the or these “Terms”). 
 
 1\. Overview
 ------------
 
-This agreement is between you (“you”, “your”, or “User”) and Ledger SAS (“Ledger”, “us”, “we,'' “our”, or the “Company”). Ledger is a simplified joint-stock company with a capital of 1 459 259 € with its registered offices is located at 1, rue du Mail,75002 Paris and registered with the Paris Trade and Companies Register under number 529 991 119 (intra-Community VAT number: FR03529991119).
+This agreement is between you (“you”, “your”, or “User”) and Ledger SAS (“Ledger”, “us”, “we,'' “our”, or the “Company”). Ledger is a simplified joint-stock company with a capital of 1 459 259 € with its registered offices is located at 106 rue du Temple, 75003 Paris and registered with the Paris Trade and Companies Register under number 529 991 119 (intra-Community VAT number: FR03529991119).
 
 By clicking “I agree”, “Get started”, or otherwise using any of the services provided by Ledger or any third party services made available through Ledger Live, you agree that you have carefully read and accepted all of the below terms and conditions. 
 
 Your use of Ledger Live is also subject to Ledger’s Privacy Policy, which is available at [https://shop.ledger.com/pages/privacy-policy](https://shop.ledger.com/pages/privacy-policy). 
 
-BEFORE USING LEDGER LIVE, PLEASE EDUCATE YOURSELF TO MAKE INFORMED DECISIONS. LEDGER DOES NOT PROVIDE FINANCIAL, TAX, OR LEGAL ADVICE. LEDGER DOES NOT EXCHANGE, SEND, OR RECEIVE CRYPTO ASSETS FOR USERS.  LEDGER DOES NOT ADVISE OR MAKE RECOMMENDATIONS ABOUT ENGAGING IN CRYPTO ASSET TRANSACTIONS OR OPERATIONS. DECISIONS TO ENGAGE IN TRANSACTIONS OR PERFORM OPERATIONS INVOLVING CRYPTO ASSETS SHOULD BE TAKEN ON YOUR OWN OR RELY ON OPINIONS OF YOUR OWN RELIABLE AND QUALIFIED EXPERTS.
+BEFORE USING LEDGER LIVE, PLEASE EDUCATE YOURSELF TO MAKE INFORMED DECISIONS. LEDGER DOES NOT PROVIDE FINANCIAL, TAX, OR LEGAL ADVICE. LEDGER DOES NOT EXCHANGE, BUY, SELL, SWAP, TRANSFER, SEND, OR RECEIVE CRYPTO ASSETS FOR USERS OR ON BEHALF OF USERS. LEDGER DOES NOT ADVISE OR MAKE RECOMMENDATIONS ABOUT ENGAGING IN CRYPTO ASSET TRANSACTIONS OR OPERATIONS. DECISIONS TO ENGAGE IN TRANSACTIONS OR PERFORM OPERATIONS INVOLVING CRYPTO ASSETS SHOULD BE TAKEN ON YOUR OWN OR RELY ON OPINIONS OF YOUR OWN RELIABLE AND QUALIFIED EXPERTS.
 
 2\. Definitions
 ---------------
@@ -225,7 +229,7 @@ The following capitalized terms shall have the meanings described below when us
 
 **“Services”**  means one or more of the services available within or through Ledger Live, including without limitation the Third Party Services.
 
-**“Third Party Services”** refers to any services, applications, software or other Materials that are hosted, developed and/or operated by a third party, including, but not limited to: crypto to crypto exchanges (“swap”), staking, buying and selling cryptocurrencies, display of balance in FIAT, display of currency rates, decentralized financial applications allowing the exchange, lending or borrowing of cryptocurrencies, visualization of NFTs, minting, buying and selling of NFTs, etc.
+**“Third Party Services”** refers to any services, applications, software, websites or other Materials that are hosted, developed and/or operated by a third party which offer a wide range of features including but not limited to: buying and selling cryptocurrencies, crypto to crypto exchanges (“swap”), staking, display of balance in FIAT, display of currency rates, decentralized financial applications allowing the exchange, lending or borrowing of cryptocurrencies, visualization of NFTs, minting, buying and selling of NFTs, etc.; or Passkey or multi-factor authentication, hereinafter referred to as the “Security Key App-related Third Party Services”.
 
 **“Wallet”** means a software program which interacts with various blockchain networks to generate and manage sets of private keys and public keys, configure transactions and monitor their balance.
 
@@ -257,11 +261,13 @@ You acknowledge that you are fully aware of all applicable laws and technical co
 
 **4.7 Keep your credentials safe.** When you set your Ledger Device up, you must: (a) create and remember a strong PIN that you do not use for any other service; (b) protect and keep your 24-word Recovery Phrase secure and confidential; (c) protect access to your Ledger Device; To learn more about how to use and secure your 24-word Recovery Phrase, we recommend that you visit ledger.com and in particular, or visit Ledger’s website and in particular, [this page](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase), or the “Learn” section in Ledger Live and our support Website [here](https://support.ledger.com/hc/en-us/articles/360005514233?docs=true).
 
-**4.8 Do not trust. Verify.** Software integrity, especially when connected to the Internet, is very hard to verify. Ledger’s security model relies on trusted display. This is why the verification of the information on your Ledger Device is paramount. Before you approve an operation, you must always double check that the information displayed on your mobile or desktop screen is correct and matches the information displayed on your Ledger Device. Upon sending Crypto Assets, you are solely responsible for verifying that the recipient address, amount and fees are correct and that they are the same on both your computer or mobile and on your Ledger Device’s screen. You also acknowledge that using unverified addresses to receive Crypto Assets comes at your own risk.
+**4.8 Do not trust. Verify.** Software integrity, especially when connected to the Internet, is very hard to verify. Ledger’s security model relies on trusted display. This is why the verification of the information on your Ledger Device is paramount. Before you approve an operation, you must always double check that the information displayed on your mobile or desktop screen is correct and matches the information displayed on your Ledger Device. Upon sending Crypto Assets, you are solely responsible for verifying that the recipient address, amount and fees are correct and that they are the same on both your computer or mobile and on your Ledger Device’s screen. When performing an operation or an authentication using NFC connectivity, you may not have the opportunity to double-check it. Please pay close attention to what is displayed on your computer or mobile. The step of bringing your Ledger Device into close proximity to your computer or mobile serves as an approval action for the Security Key, facilitating both convenience and security. You also acknowledge that using unverified addresses to receive Crypto Assets comes at your own risk.
 
-**4.9 Learn more about crypto and the risks involved.** Before using Ledger Live or any of Ledger Devices, it’s important to learn and understand [how to use your Crypto Assets and the risks involved](https://www.ledger.com/academy). To help you with that, Ledger recommends that you visit the [Ledger Academy](https://www.ledger.com/academy) before starting your crypto journey.
+**4.9 Security Key App.** Successful authentication using the Security Key App relies on proper implementation and integration of the authentication process by the relevant Third Party Service.In the event of loss, theft, or breakdown of your Ledger Device, you may no longer be able to authenticate using Security Key App-related Third Party Services. In order to recover access to your account, please contact the support team of the relevant Third Party Service. 
 
-**4.10 No liability.** There may be additional risks that we have not foreseen or identified in these Terms. Before you use the Services, you are strongly encouraged to carefully assess whether your financial situation and risk tolerance is compatible with such use. For the avoidance of doubt, and notwithstanding the generality of the Limitation of Liability under these Terms, you hereby agree that Ledger shall have no liability for any loss that incurs as a consequence of the risks highlighted in this section and/or your failure to follow the recommendations herein.
+**4.10 Learn more about crypto and the risks involved.** Before using Ledger Live or any of Ledger Devices, it’s important to learn and understand [how to use your Crypto Assets and the risks involved](https://www.ledger.com/academy). To help you with that, Ledger recommends that you visit the [Ledger Academy](https://www.ledger.com/academy) before starting your crypto journey.
+
+**4.11 No liability.** There may be additional risks that we have not foreseen or identified in these Terms. Before you use the Services, you are strongly encouraged to carefully assess whether your financial situation and risk tolerance is compatible with such use. For the avoidance of doubt, and notwithstanding the generality of the Limitation of Liability under these Terms, you hereby agree that Ledger shall have no liability for any loss that incurs as a consequence of the risks highlighted in this section and/or your failure to follow the recommendations herein.
 
 5\. Services and features
 -------------------------
@@ -293,7 +299,7 @@ With Ledger Live, you can (including without limitation)
 
 **5.1.2 Supported Crypto Assets.** Ledger Live and Ledger Devices are only capable of supporting certain Crypto Assets. A non-exhaustive list of supported Crypto Assets and compatible Wallets is available [here](https://support.ledger.com/hc/en-us/articles/10479755500573-Supported-Coins-and-Tokens-in-Ledger-Live?docs=true). This list is subject to change at the discretion of Ledger.
 
-**5.1.3 Services availability.** We may change, update or suspend the Services, temporarily or indefinitely, so as to carry out works including, but not limited to: firmware and software updates, maintenance operations, amendments to the servers, bug fixes, etc. We will make reasonable efforts to give you prior notice of any significant disruption of the Services. Ledger does not guarantee the correct functioning of the Services in the event of the installation or use of programs or applications that do not conform to Service specifications and technical standards. Please note that when a Service is unavailable or suspended, you can always recover your Private Keys using your 24-Recovery Phrase on any compatible Wallet.
+**5.1.3 Services availability.** We may change, update or suspend the Services, temporarily or indefinitely, notably to carry out works including, but not limited to: firmware and software updates, maintenance operations, amendments to the servers, bug fixes, etc. We will make reasonable efforts to give you prior notice of any significant disruption of the Services. Ledger does not guarantee the correct functioning of the Services in the event of the installation or use of programs or applications that do not conform to Service specifications and technical standards. Please note that when a Service is unavailable or suspended, you can always recover your Private Keys using your 24-Recovery Phrase on any compatible Wallet.
 
 **5.1.4 Connect with your Ledger Device.** Certain Services may be used without connecting your Ledger Device (such as access to learning content, monitoring cryptocurrency prices or view the balance of your portfolio) whereas other Services may only be used in connection with your Ledger Device, including without limitation send, buy, sell, swap and stake services.
 
@@ -303,7 +309,7 @@ With Ledger Live, you can (including without limitation)
 
 ### **5.2 Third Party Services**
 
-**5.2.1 Third Party Services terms and conditions.** Ledger Live may incorporate, reference and/or provide access to Third Party Services. For instance, buy, sell and crypto to crypto exchange (“swap”) services are Third Party Services. You agree that your use of Third Party Services is subject to separate terms and conditions between you and the third-party identified in Ledger Live. For ease of reference, a list of links to Third Party Services terms and conditions is available below. Ledger does not guarantee that such a list is comprehensive and it’s your responsibility to review and understand the applicable terms and conditions before using a Third Party Service:
+**5.2.1 Third Party Services terms and conditions.** Ledger Live may incorporate, reference and/or provide access to Third Party Services. For instance, buy, sell and crypto to crypto exchange (“swap”) services are Third Party Services. You agree that your use of Third Party Services is subject to separate terms and conditions between you and the third-party identified in Ledger Live. For ease of reference, a list of links to Third Party Services terms and conditions is available below. Terms and conditions may vary depending on your jurisdiction. It is your responsibility to verify if these terms and conditions apply to you. Ledger does not guarantee that the list provided below is comprehensive or up to date and it’s your responsibility to review and understand the applicable terms and conditions before using a Third Party Service:
 
 * [Coinify Terms and conditions](https://www.coinify.com/legal/)
     
@@ -319,8 +325,6 @@ With Ledger Live, you can (including without limitation)
     
 * [Mercuryo Legal terms](https://mercuryo.io/legal/terms/)
     
-* [Wyre User agreement](https://www.sendwyre.com/user-agreement/)
-    
 * [Simplex Terms of use](https://www.simplex.com/terms-of-use)
     
 * [Zerion Terms](https://zerion.io/terms.pdf)
@@ -329,20 +333,36 @@ With Ledger Live, you can (including without limitation)
     
 * [Changelly Terms of use](https://changelly.com/terms-of-use)
     
-* [FTX Terms of service](https://help.ftx.com/hc/en-us/articles/360024788391-FTX-Terms-of-Service)
-    
 * [Paraswap Terms of service](https://psdocs.fra1.digitaloceanspaces.com/tos_v2.pdf)
     
+* [1inch Terms of Use](https://1inch.io/assets/1inch_network_terms_of_use.pdf)
+    
+* [CIC Terms of use](https://criptointercambio.com/en/terms-of-use)
+    
+* [Juno Terms of Use](https://juno.finance/legal/terms/terms-of-use-updated)
+    
+* [Guardarian Terms of Service](https://guardarian.com/terms-of-service#terms-of-use-of-website)
+    
+* [Kiln Terms and Conditions](https://www.kiln.fi/terms-and-conditions)
+    
+* [Figment Staking Terms of Use](https://figment.io/staking-terms-of-use/)
+    
+* [Staderlabs Terms of Service](https://www.staderlabs.com/terms-of-service/)
+    
+* [Lido Terms of Use](https://lido.fi/terms-of-use)
+    
 
-**5.2.2 No warranty.** Ledger is not responsible for the content, accuracy, security, availability, any performance, or failure to perform of the Third Party Services or any issue in relation with the use of Third Party Services. Ledger does not provide any guarantees that access to Third Party Services will not be interrupted or that there will be no delays, failures, errors, omissions, corruption or loss of transmitted information, data or funds, and Ledger shall not be liable for any such Third Party Services. You agree to use the Third Party Services at your own risk. It is your responsibility to review the third party’s terms and policies before using a Third Party Service. Third Party Services may not be available in all languages and may not be appropriate or available for use in any particular location. To the extent you choose to use such Third Party Services, you are solely responsible for compliance with any applicable laws in relation to such use. In addition, Ledger reserves the right to block access to these Third Party Services through Ledger Live in particular, but not exclusively, in the event of non-compliance with the applicable regulations by the Third Party partner. We retain the exclusive right to suspend, remove, or cancel the availability of any such Third Party Service for any reason and without prior notice.
+**5.2.2 Availability of the Third Party Services.** The availability of each Third Party Service depends on the country from which you are using Ledger Live and may vary depending on which Ledger Live application you are using (desktop or mobile). Country availability is subject to change at Ledger or at the Third Party Services providers’ discretion.
 
-**5.2.3 Personal data.** Some Third Party Services may request or require access to your personal data. The processing of such data will be handled in accordance with the relevant Third Party’s privacy policy and best practices.
+**5.2.3 No warranty.** Ledger is not responsible for the content, accuracy, security, availability, any performance, or failure to perform of the Third Party Services or any issue in relation with the use of Third Party Services. Ledger does not provide any guarantees that access to Third Party Services will not be interrupted or that there will be no delays, failures, errors, omissions, corruption or loss of transmitted information, data or funds, and Ledger shall not be liable for any such Third Party Services. You agree to use the Third Party Services at your own risk. It is your responsibility to review the third party’s terms and policies before using a Third Party Service. Third Party Services may not be available in all languages and may not be appropriate or available for use in any particular location. To the extent you choose to use such Third Party Services, you are solely responsible for compliance with any applicable laws in relation to such use. In addition, Ledger reserves the right to block access to these Third Party Services through Ledger Live in particular, but not exclusively, in the event of non-compliance with the applicable regulations by the Third Party partner. We retain the exclusive right to suspend, remove, or cancel the availability of any such Third Party Service for any reason and without prior notice.
 
-**5.2.4 Issues with Third Party Services.** Third Party Services may not work appropriately with your software or Ledger Device, and we may not be able to provide support for issues caused by Third Party Services as Ledger does not provide nor operate the Third Party Services. If you have questions or concerns about how a Third Party Service operates, or need support, please contact the relevant third party directly.
+**5.2.4 Personal data.** Some Third Party Services may request or require access to your personal data. The processing of such data will be handled in accordance with the relevant Third Party’s privacy policy and best practices.
 
-**5.2.5 Decentralized financial applications.** Certain Third Party Services are not operated by identified entities, but can be accessed directly through an interaction between the User’s wallet (whether or not the User uses the Application DeviceDevice Application or the Ledger Device) and one or several programs that are solely deployed and accessible on a blockchain network (i.e. “smart contracts”). These Third Party Services allow you to benefit from various services (such as the exchange, lending or borrowing of Crypto Assets) without having to provide your personal information to an intermediary. By using these Third Party Services, you agree that their use may not be subject to terms and conditions nor any other kind of contractual relationship with the third party operating such operator of the service. To the extent you choose to use such Third Party Services, you acknowledge that Ledger is not responsible for any issue in relation with the use of such Third Party Services, including any loss of funds.
+**5.2.5 Issues with Third Party Services.** Third Party Services may not work appropriately with your software or Ledger Device, and we may not be able to provide support for issues caused by Third Party Services as Ledger does not provide nor operate the Third Party Services. If you have questions or concerns about how a Third Party Service operates, or need support, please contact the relevant third party directly.
 
-**5.2.6 Fees.** The use of certain Third Party Services may be subject to transaction fees and/or other fees charged by such Third Party Services. On top of such fees, Ledger reserves the right to charge you fees for the secured and facilitated access provided by Ledger to use such Third Party Services through the Ledger Live (“Ledger Fees”). Ledger Fees may be charged directly to the User or indirectly if already included in the Third Party Fees and paid by the Third Party to Ledger on behalf of the User. In such event, Ledger will fully display all applicable fees and any applicable taxes.
+**5.2.6 Decentralized financial applications.** Certain Third Party Services are not operated by identified entities, but can be accessed directly through an interaction between the User’s wallet (whether or not the User uses the Application DeviceDevice Application or the Ledger Device) and one or several programs that are solely deployed and accessible on a blockchain network (i.e. “smart contracts”). These Third Party Services allow you to benefit from various services (such as the exchange, lending or borrowing of Crypto Assets) without having to provide your personal information to an intermediary. By using these Third Party Services, you agree that their use may not be subject to terms and conditions nor any other kind of contractual relationship with the third party operating such operator of the service. To the extent you choose to use such Third Party Services, you acknowledge that Ledger is not responsible for any issue in relation with the use of such Third Party Services, including any loss of funds.
+
+**5.2.7 Fees.** The use of certain Third Party Services may be subject to transaction fees and/or other fees charged by such Third Party Services. On top of such fees, Ledger reserves the right to charge you fees for the secured and facilitated access provided by Ledger to use such Third Party Services through Ledger Live (“Ledger Fees”). Ledger Fees may be charged directly to the User or indirectly if already included in the Third Party Fees and paid by the Third Party to Ledger on behalf of the User.
 
 ### 5.3 Staking
 
@@ -350,9 +370,9 @@ With Ledger Live, you can (including without limitation)
 
 **5.3.2 Staking Rewards.** You explicitly confirm that you are aware that delegation of staking rights to a validator operator listed in Ledger Live does not grant to your benefit any right to request payment of any kind, but merely a potential right to share a reward perceived by the validator. If you stake your assets with a Ledger operated node, Ledger will be acting as a transaction validator on the applicable Proof-of-Stake (POS) network. If Ledger successfully validates a block of transactions in that network, you may receive staking rewards granted by such network and Ledger will receive validator fees (at the rate indicated to you when staking your assets with Ledger’s validator). Your reward will be determined by the protocols of the applicable network. Please be aware that some Proof-of-Stake networks require that a certain amount of staked assets be “locked” (restricted from any use, sale or transfer) for a certain period of time while staking.
 
-**5.3.4 No custody.** Ledger will never take custody over any of your rewards or assets and Ledger has no responsibility or control over any Proof-of-Stake network on which Ledger may exercise validation rights delegated by you. **5.3.5 No guarantee of Rewards.** LEDGER DOES NOT GUARANTEE THAT YOU WILL RECEIVE STAKING REWARDS OR ANY STAKING REWARD RATES. SUCCESSFUL TRANSFER OF THE REWARDS IS SUBJECT TO THE PROOF-OF-STAKE NETWORKS AND IS NOT UNDER LEDGER’S CONTROL.
+**5.3.3 No custody.** Ledger will never take custody over any of your rewards or assets and Ledger has no responsibility or control over any Proof-of-Stake network on which Ledger may exercise validation rights delegated by you. **5.3.4 No guarantee of Rewards.** LEDGER DOES NOT GUARANTEE THAT YOU WILL RECEIVE STAKING REWARDS OR ANY STAKING REWARD RATES. SUCCESSFUL TRANSFER OF THE REWARDS IS SUBJECT TO THE PROOF-OF-STAKE NETWORKS AND IS NOT UNDER LEDGER’S CONTROL.
 
-**5.3.6 Disclaimer.** Staking is provided “as is”. Ledger is not responsible in any way for any failure by any supported Proof-Of-Stake (POS) network to transfer rewards (including any risks of “slashing”) or for the loss, destruction, or transfer of rewards to the incorrect wallet address. Ledger does not guarantee uninterrupted or error-free operation of the staking services or that it will correct all defects or prevent third-party disruptions or unauthorized third party access.
+**5.3.5 Disclaimer.** Staking is provided “as is”. Ledger is not responsible in any way for any failure by any supported Proof-Of-Stake (POS) network to transfer rewards (including any risks of “slashing”) or for the loss, destruction, or transfer of rewards to the incorrect wallet address. Ledger does not guarantee uninterrupted or error-free operation of the staking services or that it will correct all defects or prevent third-party disruptions or unauthorized third party access.
 
 6\. Acceptable Use 
 -------------------
@@ -379,12 +399,12 @@ We welcome feedback, comments, ideas, and suggestions for improvements to the Se
 
 **8.1 No warranty.** Ledger will use reasonable level of skill and care to ensure that the Services can be accessed by you in accordance with the present Terms of Use, but there are no guarantees that access and features will not be interrupted or that there will be no delays, failures, errors, omissions, corruption or loss of transmitted information. The Services are provided “as is” without any warranty of any kind, either express or implied, and in particular without implied warranties of merchantability, reliability, and fitness for a particular purpose. 
 
-**8.2 Limitation of Liability.** YOU EXPRESSLY UNDERSTAND AND AGREE THAT LEDGER AND ITS DIRECTORS AND EMPLOYEES SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (I) THE USE OR INABILITY TO USE THE SERVICES (II) ANY CHANGES MADE TO THE SERVICES OR ANY SUSPENSION OR CESSATION OF THE SERVICES OR ANY PART THEREOF; (III) THE UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE AND/OR SEND OR RECEIVE YOUR TRANSMISSIONS OR DATA ON OR THROUGH THE SERVICES; AND (V) ANY OTHER MATTER RELATING TO THE SERVICES. SAVE FOR THIRD PARTY SERVICES WHICH ARE NOT OPERATED OR PROVIDED BY LEDGER, THE ABOVE LIMITATIONS DO NOT APPLY IN RESPECT OF LOSS RESULTING FROM (A) LEDGER’S FRAUD, WILFUL MISCONDUCT OR GROSS NEGLIGENCE, WILFUL MISCONDUCT OR FRAUD; OR (B) DEATH OR PERSONAL INJURY.
+**8.2 Limitation of Liability.** YOU EXPRESSLY UNDERSTAND AND AGREE THAT LEDGER AND ITS DIRECTORS AND EMPLOYEES SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (I) THE USE OR INABILITY TO USE OR ACCESS THE SERVICES (II) ANY CHANGES MADE TO THE SERVICES OR ANY SUSPENSION OR CESSATION OF THE SERVICES OR ANY PART THEREOF; (III) THE UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (IV) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE AND/OR SEND OR RECEIVE YOUR TRANSMISSIONS OR DATA ON OR THROUGH THE SERVICES; AND (V) ANY OTHER MATTER RELATING TO THE SERVICES. SAVE FOR THIRD PARTY SERVICES WHICH ARE NOT OPERATED OR PROVIDED BY LEDGER, THE ABOVE LIMITATIONS DO NOT APPLY IN RESPECT OF LOSS RESULTING FROM (A) LEDGER’S FRAUD, WILFUL MISCONDUCT OR GROSS NEGLIGENCE, WILFUL MISCONDUCT OR FRAUD; OR (B) DEATH OR PERSONAL INJURY.
 
 9\. Compliance and Export Control
 ---------------------------------
 
-**9.1 Sanctions.** Users shall comply, at their own expense, with all laws that apply to or result from their obligations under these Terms. By accessing and using the Services, you represent and warrant that you are not on any trade or economic sanctions lists, such as (but not limited to) the UN Security Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. Commerce Department’s “Denied Persons List”. 
+**9.1 Sanctions.** Users shall comply, at their own expense, with all laws that apply to or result from their obligations under these Terms. By accessing and using the Services, you represent and warrant that you are not on any trade or economic sanctions lists, such as (but not limited to) the UN Security Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. Commerce Department’s “Denied Persons List” or the consolidated list of persons, groups and entities subject to financial Sanctions maintained by the European Union. Furthermore, Users are prohibited from using Ledger Live and Ledger Devices to engage in transactions prohibited by Sanctions, including Sanctions imposed bythe U.S. Treasury Department or the European Commission.
 
 **9.2 Territories.** Ledger reserves the right to select the markets and jurisdictions where it operates and may restrict or deny access to Services in certain countries, states or territories.
 
@@ -452,7 +472,7 @@ Payment methods
 
 Products
 
-[Ledger Stax](https://shop.ledger.com/products/ledger-stax)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
+[Ledger Stax](https://shop.ledger.com/pages/ledger-stax)[Ledger Flex](https://shop.ledger.com/pages/ledger-flex)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
 
 Crypto Assets
 
@@ -496,7 +516,8 @@ Legal
 
 Products
 
-* [Ledger Stax](https://shop.ledger.com/products/ledger-stax)
+* [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
+* [Ledger Flex](https://shop.ledger.com/pages/ledger-flex)
 * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)
 * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)
 * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)
