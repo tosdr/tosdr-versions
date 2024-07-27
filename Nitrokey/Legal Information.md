@@ -19,6 +19,7 @@
     * [News](https://www.nitrokey.com/news)
     * [Blog](https://www.nitrokey.com/blog)
     * [Software Updates](https://www.nitrokey.com/software-updates)
+    * [Software Releases](https://www.nitrokey.com/releases)
 * Products
     * [Nitrokeys](https://www.nitrokey.com/products/nitrokeys)
     * [NitroPhone](https://shop.nitrokey.com/shop?&search=nitrophone)
@@ -42,7 +43,7 @@
     * [Security For Cryptocurrency Exchanges And Bitcoin Startups](https://www.nitrokey.com/solutions/cryptocurrencies)
 * Support
     * [Documentation](https://docs.nitrokey.com/)
-    * [FAQ](https://www.nitrokey.com/faq)
+    * [FAQ](https://www.nitrokey.com/documentation/frequently-asked-questions-faq-0)
     * [Forum](https://support.nitrokey.com/)
     * [Download](https://www.nitrokey.com/download)
 * [Shop](https://shop.nitrokey.com/shop)
