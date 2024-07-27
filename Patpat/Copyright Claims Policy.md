@@ -123,6 +123,6 @@ Currency
 
 EUR
 
-© 2023 Interfocus, Inc. All Rights Reserved
+© 2024 Interfocus, Inc. All Rights Reserved
 
 [](https://www.instagram.com/patpat_europe/)[](https://twitter.com/patpatshopping)[](https://www.youtube.com/@PatPatclothing)[](https://www.facebook.com/patpat.europe/)[](https://www.pinterest.com/patpatshopping)[](https://www.tiktok.com/@patpatclothing)
