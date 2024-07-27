@@ -338,7 +338,7 @@ Menu
 * [Business](https://myrepublic.net/sg/business/)
     * [Internet & Networking](#)
     * Voice Solutions
-    * Ignite
+    * Business Solutions
     * [Promotions](https://myrepublic.net/sg/business/promotions/)
     * [Blog](https://myrepublic.net/sg/business/blog)
     * Support
@@ -579,11 +579,11 @@ Blog
 
 [Read More](#)
 
-Ignite
-------
+Business Solutions
+------------------
 
-[Ignite](https://myrepublic.net/sg/business/ignite/)
-----------------------------------------------------
+[Business Solutions](https://myrepublic.net/sg/business/ignite/)
+----------------------------------------------------------------
 
 Cybersecurity
 -------------
