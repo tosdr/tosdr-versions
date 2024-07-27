@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/products/?search=ELDEN+RING+Shadow+of+the+Erdtree)
+[](https://www.hrkgame.com/en/games/product/the-sims-4-lovestruck-expansion-pack-origin)
 
 Privacy Policy
 --------------
