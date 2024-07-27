@@ -124,7 +124,8 @@ Customer:
 * [Privacy Policy](https://www.mythic-beasts.com/static/documents/privacy-policy.pdf)
 * [Environment](https://www.mythic-beasts.com/article/environment)
 * [Contact](https://www.mythic-beasts.com/article/contact)
-* [Follow us on Twitter](https://twitter.com/Mythic_Beasts)
+* [Follow us on Mastodon](https://social.mythic-beasts.com/home)
+* [Service status](https://status.mythic-beasts.net.uk/)
 
 #### About Us
 
