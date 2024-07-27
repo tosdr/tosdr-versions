@@ -789,8 +789,8 @@ If you have any questions regarding our use of Cookies, please contact [\[emailÂ
 
 ### Company
 
-* [Contact Us](https://knlprdwcsmgt.knoll.com/help/workplace)
-* [Discover Knoll](https://knlprdwcsmgt.knoll.com/design-plan/discover)
+* [Contact Us](https://www.knoll.com/help/workplace)
+* [Discover Knoll](https://www.knoll.com/design-plan/discover)
 * [Careers](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll?Skills=5e5722fb51ba100a6f097075c63a0000)
 * [Investor Relations](https://www.hermanmiller.com/investors/)
 * [Newsroom](https://news.millerknoll.com/knoll)
