@@ -2,6 +2,8 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
+Take 24% off summer games superstars! Use code GAMES24. Ends 8/11. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+
 [Sign up](#nw-newsletter-subscription-v2) for our mailing list and get 15% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
      
@@ -31,6 +33,7 @@ Nature's Way
         
     * FEATURED
         
+        * [Summer Games Superstars](https://naturesway.com/collections/promotions)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Last Chance](https://naturesway.com/collections/last-chance)
@@ -189,6 +192,7 @@ Nature's Way
     
     FEATURED
     
+    * [Summer Games Superstars](https://naturesway.com/collections/promotions)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Last Chance](https://naturesway.com/collections/last-chance)
@@ -771,6 +775,10 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
 #### Promotions
+
+ 24% off select products. Use code GAMES24 at checkout. 
+
+Offer is to receive 24% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code GAMES24 at checkout.  While Supplies Last. Offer valid from July 26th, 12:30 pm CDT to August 11th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
 10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
 
@@ -1402,6 +1410,10 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
+ 24% off select products. Use code GAMES24 at checkout. 
+
+Offer is to receive 24% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code GAMES24 at checkout.  While Supplies Last. Offer valid from July 26th, 12:30 pm CDT to August 11th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
+
 10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
 
 Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/jemma10](https://naturesway.com/jemma10)\] using the code JEMMA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CDT to June 30th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
@@ -1672,6 +1684,8 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
+
+Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
