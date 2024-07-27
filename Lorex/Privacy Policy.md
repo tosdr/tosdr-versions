@@ -985,6 +985,7 @@ arrow bottom
 * [Product Compatibility](https://www.lorex.com/pages/compatibility)
 * [Lorex Apps & Software](https://www.lorex.com/pages/apps-software)
 * [Refund policy](https://www.lorex.com/policies/refund-policy)
+* [Compliance](https://www.lorex.com/pages/compliance)
 * [Glossary](https://www.lorex.com/pages/glossary)
 * [Sitemap](https://www.lorex.com/pages/sitemap)
 * [Terms of Service](https://www.lorex.com/policies/terms-of-service)
