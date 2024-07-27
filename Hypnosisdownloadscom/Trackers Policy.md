@@ -457,6 +457,6 @@ This privacy policy relates solely to this Application, if not stated otherwise 
 
 Latest update: March 07, 2024
 
-This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/cookie-solution). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+[iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/757400/legal?from_cookie_policy=true)
