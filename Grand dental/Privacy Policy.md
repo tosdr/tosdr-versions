@@ -19,7 +19,6 @@
 
 [916 E. 7th St., Lockport, IL 60441](https://goo.gl/maps/ftvZm96Zyx3T56Tw5) [(815) 836-0001](tel:18158360001)
 
-* [Invisalign Promotion New](https://www.granddentallockport.com/invisalign-promotion-new.html)
 * [Home](https://www.granddentallockport.com/ "Dentist Lockport, IL")
 * [About](https://www.granddentallockport.com/meet-the-dentists.html "About")
     * [Meet The Doctors](https://www.granddentallockport.com/meet-the-dentists.html "Meet Our Dentists")
@@ -32,6 +31,7 @@
         * [Erin Rossini, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#erin)
         * [Kevin Flores, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#kevin)
         * [Jackie Iniguez, Team Leader](https://www.granddentallockport.com/meet-the-team.html#jackie)
+        * [Stephanie Jurica, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#stephanie)
     * [Tour Our Office](https://www.granddentallockport.com/tour-our-office.html "Tour Our Dental Office")
     * [Dental Technology](https://www.granddentallockport.com/advanced-dental-technology.html "Advanced Dental Services & Technology")
     * [Blog](http://www.granddentallockport.com/blog/ "Blog")
@@ -179,4 +179,4 @@ Follow Us
 
 * * *
 
-©2020 Grand Dental - Lockport | [Sitemap](https://www.granddentallockport.com/sitemap.html) _|_ [Privacy Policy](https://www.granddentallockport.com/privacy-policy.html) | Site designed and maintained by [TNT Dental](http://www.tntdental.com/)
+©2020 Grand Dental - Lockport | [Sitemap](https://www.granddentallockport.com/sitemap.html) _|_ [Privacy Policy](https://www.granddentallockport.com/privacy-policy.html) | [Hippa Notice](https://www.granddentallockport.com/assets/docs/HIPAA_2024.pdf) | Site designed and maintained by [TNT Dental](http://www.tntdental.com/)
