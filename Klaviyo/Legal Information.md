@@ -373,6 +373,7 @@ Klaviyo has adopted a policy of terminating, in appropriate circumstances, accou
         New](https://www.klaviyo.com/product/whats-new)
     * [Marketing automation](https://www.klaviyo.com/marketing-automation)
     * [Klaviyo vs. others](https://www.klaviyo.com/compare)
+    * [Marketing glossary](https://www.klaviyo.com/glossary)
     
 
 English - US
