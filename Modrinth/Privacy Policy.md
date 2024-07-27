@@ -229,7 +229,7 @@ You do not need to be a citizen of the United Kingdom to use this method of lodg
 
 Modrinth is [open source](https://github.com/modrinth).
 
-modrinth/knossos prod@[bd49d6b](https://github.com/modrinth/knossos/tree/bd49d6bd89233d56a0fc94e23d5e0457ddc96dc1)
+main@[57ba841](https://github.com/modrinth/code/tree/57ba84107c24168890510e099c6b5ea0cf5f8606)
 
 © Rinth, Inc.
 
