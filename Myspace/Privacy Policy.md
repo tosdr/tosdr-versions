@@ -24,10 +24,8 @@ A part of the People / Entertainment Weekly Network.
 © 2014 Myspace LLC.  
 All rights reserved
 
-NEW
-
 Privacy Policy
-=====================
+==============
 
 _Privacy Policy_
 ================
