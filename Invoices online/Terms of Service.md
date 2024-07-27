@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Shaun Gartshore
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=213757277)  
-Desygn
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=32087186)  
+AMS Ambu Medical Supplies
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=195645003)  
-NGB HOLDINGS PTY LTD
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6504398)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=142998570)  
-MONSTER SECURITY GUARDING
+![valued client Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=155523230)  
+Local Print and Signs
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=29510200)  
-Brilliant Roof Products
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=9776023)  
+Konsortium Operations (PTY) LTD
 
-![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=57282190)  
-IAS Logistics ta Multi transit
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=74576645)  
+Itroniq (Pty) Ltd
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=62342517)  
-TRACKFORCE (Pty) Ltd
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=66697171)  
+Oukraal Merino's
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=186073211)  
-Creative Characters
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=146929991)  
-Safe Train Mokgethwa (PTY) Ltd
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=141297794)  
-Lion Software Develepment
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=146970660)  
-Kaylas Creations
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=163874246)  
-Enhle Oarabile Kea
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=7825417)  
-Iurus Inc
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=31719826)  
-Kara Medical (Pty) Ltd
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=51351974)  
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=101682503)  
 M's Frozen Delights
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=e56582ac99a38c810cfedccab1178121a6276f4d29de975c39728b6db0d42a4b&c=94613920)  
-SA Security Brokerz (Pty) Ltd
+![valued client New Beginnings Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=110551299)  
+New Beginnings Designs
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=159774373)  
+Lion Software Develepment
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=64656630)  
+Henry's Home Renovations
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6184012)  
+Desygn
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=136724954)  
+OrgChart Hosting Pty Ltd
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=4686977)  
+LEONARD
+
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6363764)  
+VA AND M DEBT-AID (PTY) LTD
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=203177480)  
+WIP Digital Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
