@@ -29,8 +29,7 @@ It all starts with a conversation](https://www.openweb.com/)
     * [Media Coverage](https://www.openweb.com/media-coverage/)
     * [Careers](https://www.openweb.com/careers/)
     * [Legal and Privacy](https://www.openweb.com/legal-and-privacy/)
-    * [OpenWeb Publisher Standards](https://www.openweb.com/publisher-standards/)
-    * [OpenWeb Moderation Standards](https://www.openweb.com/moderation-standards/)
+    * [OpenWeb Community Policy](https://www.openweb.com/community-policy/)
 
 [Contact us](https://www.openweb.com/contact/)
 
@@ -241,7 +240,7 @@ Data Protection Officer: OpenWeb has appointed a Data Protection Officer for mo
 * [Media Coverage](https://www.openweb.com/media-coverage/)
 * [Careers](https://www.openweb.com/careers/)
 * [Legal & Privacy](https://www.openweb.com/legal-and-privacy/)
-* [OpenWeb Publisher Standards](https://www.openweb.com/publisher-standards/)
+* [OpenWeb Community Policy](https://www.openweb.com/community-policy/)
 
 * ![Brand Logo One](https://www.openweb.com/uploads/2020/06/ad-concil.png)
 * ![Brand Logo Two](https://www.openweb.com/uploads/2020/06/tag.png)
