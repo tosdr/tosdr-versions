@@ -1,6 +1,6 @@
 [![](/images/flag/english.png)
 
-English](#)[![](/images/logo_top_text.svg)](https://numbuster.com/) [![](/images/logo_top.svg)](https://numbuster.com/)[](#)
+English](#)[![](/images/logo_top_text.svg)](https://numbuster.com/en) [![](/images/logo_top.svg)](https://numbuster.com/en)[](#)
 
 CONSENT TO PERSONAL DATA PROCESSING
 
@@ -32,7 +32,7 @@ For inquiries regarding compliance with GDPR provisions: support@numbuster.com
 
 ### Change language
 
- [![](/images/flag/flag_saudi_arabia.png) العربية](https://numbuster.com/as/cookies)[![](/images/flag/ελληνικά.png) Greek](https://numbuster.com/gr/cookies)[![](/images/flag/english.png) English](https://numbuster.com/en/cookies)[![](/images/flag/español.png) Español](https://numbuster.com/es/cookies)[![](/images/flag/français.png) Français](https://numbuster.com/fr/cookies)[![](/images/flag/italiano.png) Italiano](https://numbuster.com/it/cookies)[![](/images/flag/한국어.png) 한국어](https://numbuster.com/ko/cookies)[![](/images/flag/português.png) Português](https://numbuster.com/pt/cookies)[![](/images/flag/türkçe.png) Türkçe](https://numbuster.com/tr/cookies)[![](/images/flag/россия.png) Россия (Русский)](https://numbuster.com/ru_RU/cookies)[![](/images/flag/flag_belarus.png) Беларусь (Русский)](https://numbuster.com/ru_BY/cookies)[![](/images/flag/flag_kazakhstan.png) Казахстан (Русский)](https://numbuster.com/ru_KZ/cookies)[![](/images/flag/flag_tajikistan.png) Таджикистан (Русский)](https://numbuster.com/ru_TJ/cookies)[![](/images/flag/flag_turkmenistan.png) Туркменистан (Русский)](https://numbuster.com/ru_TM/cookies)[![](/images/flag/ru.png) Другие страны (Русский)](https://numbuster.com/ru/cookies)[![](/images/flag/українська.png) Українська](https://numbuster.com/uk/cookies)[![](/images/flag/flag_india.png) हिन्दी](https://numbuster.com/hi/cookies)[![](/images/flag/漢語.png) 漢語](https://numbuster.com/zh/cookies)
+ [![](/images/flag/flag_saudi_arabia.png) العربية](https://numbuster.com/ar/cookies)[![](/images/flag/ελληνικά.png) Greek](https://numbuster.com/gr/cookies)[![](/images/flag/english.png) English](https://numbuster.com/en/cookies)[![](/images/flag/español.png) Español](https://numbuster.com/es/cookies)[![](/images/flag/français.png) Français](https://numbuster.com/fr/cookies)[![](/images/flag/italiano.png) Italiano](https://numbuster.com/it/cookies)[![](/images/flag/한국어.png) 한국어](https://numbuster.com/ko/cookies)[![](/images/flag/português.png) Português](https://numbuster.com/pt/cookies)[![](/images/flag/türkçe.png) Türkçe](https://numbuster.com/tr/cookies)[![](/images/flag/россия.png) Россия (Русский)](https://numbuster.com/ru_RU/cookies)[![](/images/flag/flag_belarus.png) Беларусь (Русский)](https://numbuster.com/ru_BY/cookies)[![](/images/flag/flag_kazakhstan.png) Казахстан (Русский)](https://numbuster.com/ru_KZ/cookies)[![](/images/flag/flag_tajikistan.png) Таджикистан (Русский)](https://numbuster.com/ru_TJ/cookies)[![](/images/flag/flag_turkmenistan.png) Туркменистан (Русский)](https://numbuster.com/ru_TM/cookies)[![](/images/flag/ru.png) Другие страны (Русский)](https://numbuster.com/ru/cookies)[![](/images/flag/українська.png) Українська](https://numbuster.com/uk/cookies)[![](/images/flag/flag_india.png) हिन्दी](https://numbuster.com/hi/cookies)[![](/images/flag/漢語.png) 漢語](https://numbuster.com/zh/cookies)
 
 ![](/images/icon_close.svg)
 
