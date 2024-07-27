@@ -606,9 +606,75 @@ Mediavine will take any necessary actions in line with our terms and conditions 
 Copyright Policy
 ----------------
 
-Version Version 1.1  (Current) Version 1.0
+Version Version 1.2  (Current) Version 1.1 Version 1.0
 
-##### Effective June 26th 2024
+##### Effective July 24th 2024
+
+[Download](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/versions/66a1061473a4f4313d7d4abb.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Mediavine, Inc. (“Mediavine”) respects the intellectual property rights of others and expects our users to do the same. To that end, in accordance with the Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 512, Mediavine has implemented procedures for reporting instances of copyright infringement.
+
+If you are a copyright holder, or its authorized representative, and believe in good faith that content residing or accessible on or through the Mediavine ad network, any Mediavine website, or any of the Mediavine plug-ins infringes your copyrighted work, you may submit a notice of copyright infringement following the procedure below. If you provide sufficient evidence of potential infringement, we will provide the alleged infringer with information from your claim and will cease providing programmatic advertising to the applicable webpage containing the allegedly infringing materials or, if found on a Mediavine owned website, remove the content. We may resume advertising upon removal of the content by the alleged infringer or if a counter notice is filed and you fail to notify us of legal action as set forth below. Please note we cannot remove or disable any content on a website that is not owned by Mediavine or provide anonymity in this process. You should not file a takedown request if you wish to remain anonymous.
+
+You may send the written notice of copyright infringement to our designated agent, whose contact information is listed below or submit a notice [**here:**](https://airtable.com/appxQJlZrtgjxICxi/shrG5BxlHPVk3r3ln)
+
+**Notice may be sent to:**
+
+By Mail:  
+Mediavine, Inc.  
+Attn: Legal Department  
+159 W 25th St., Suite #427  
+NY, NY 10001
+
+By e-mail: [**legal@mediavine.com**](mailto:legal@mediavine.com)
+
+The notice of copyright infringement should provide the following information:
+
+1. A clear description of the copyrighted work that you claim has been infringed (if multiple copyrighted works are covered by a single notification, you may provide a representative list of such works).
+2. A description of the material that you claim is infringing. (Please be as detailed as possible and provide web addresses (URLs) leading directly to the material).
+3. Information reasonably sufficient to permit us to locate the allegedly infringing material (Please be as detailed as possible and provide web addresses (URLs) leading directly to the material).
+4. Your contact information, including your address, telephone number, and an e-mail address.
+5. A statement that you have a good faith belief that use of the copyrighted materials in the manner asserted is not authorized by the copyright owner, its agent, or the law.
+6. A statement that the information in the notification is accurate, and under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+7. Your physical or electronic signature (typing your full legal name is sufficient).
+
+Please note that we may forward the notice of copyright infringement (or information contained therein), as well as the complainant’s contact information, to the party who posted the allegedly infringing content. Additionally, if we cease advertising on, or remove or disable access to, the content pursuant to a valid DMCA notice, Mediavine may immediately notify the owner of the content that the content has been demonetized, removed or disabled.
+
+**Counter-Notification** If we have ceased providing programmatic advertising on your website or, when applicable, removed content from our website, due to submission of a DMCA request, you may file a counter-notification that contains the following details:
+
+1. Identification of the material that Mediavine has removed or ceased running programmatic advertising on;
+2. A statement, under penalty of perjury, that you have a good faith belief that the material was demonetized or removed as a result of mistake or misidentification of the material in question;
+3. Your name, address and telephone number;
+4. A statement that you consent to the jurisdiction of the Federal District Court: (i) in the judicial district where your address is located, or (ii) of Delaware, if your address is located outside the United States, and that you will accept service of process from the complainant who submitted the notice of infringement or his or her agent.
+5. Your physical or electronic signature (typing your full legal name is sufficient).
+
+**Notice may be sent to:**
+
+_By Mail:_  
+Mediavine, Inc.  
+Attn: Legal Department  
+159 W 25th St., Suite #427  
+NY, NY 10001
+
+_By e-mail:_ [**legal@mediavine.com**](mailto:legal@mediavine.com)
+
+You acknowledge and agree that upon receipt of a notice of a claim of copyright infringement, we may temporarily or permanently cease advertising or remove the identified materials from our website without liability to you or any other party.
+
+Upon receipt of a valid counter-notification, Mediavine will promptly forward the counternotice (or the information contained therein) to the complainant who submitted the notice of infringement. If the complainant does not notify us, within ten (10) business days, that he or she has filed a legal action related to the allegedly infringing material, we may, as applicable, restore the material or resume advertising, within 10–14 business days.
+
+Please note it is also the policy of Mediavine, in appropriate circumstances and in our sole discretion, to suspend or terminate the accounts of publishers who are repeat copyright infringers.
+
+**Confidential Information.** As stated above, all communications sent by you to us will be treated as non-confidential and non-proprietary (subject to our privacy policy). Please do not submit confidential or proprietary information to us (including patentable ideas, new content suggestions or business proposals) unless we have mutually agreed in writing otherwise. Ideas that we receive unsolicited will be treated as property owned by Mediavine and will not be returned to you.
+
+Last updated July 23, 2024
+
+##### Effective June 26th 2024  to  July 24th 2024
 
 [Download](https://vault.pactsafe.io/s/9cf003f8-52ba-4f99-af33-f4edb31f1d1a/versions/668587addba0940e2670efde.pdf)
 
@@ -1159,5 +1225,3 @@ Last updated: February 10, 2010
 [Legal Center powered by Ironclad Clickwrap](https://ironcladapp.com/product/clickwrap/?utm_medium=product&utm_source=legal-center&utm_campaign=lc-footer&utm_content=Mediavine)
 
 Copyright © 2024, [Mediavine](https://www.mediavine.com/)
-
-} catch(e) { console.error(e) }
