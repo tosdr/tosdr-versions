@@ -62,7 +62,7 @@ For the purposes of this Agreement:
 
 * c)   Any change to the domain name owner’s email address.
 
-****1.13.****   "Laws" shall mean the laws, statutes, and regulations then in effect of the United States of America and its various states and dependencies as well as the laws of Your country of residence or the country in which you use or access the IONOS Inc. Services and the laws of any provinces, states or dependencies thereof.
+****1.13.****   "Laws" shall mean the laws, statutes, and regulations then in effect of the United States of America and its various states and dependencies as well as any other country whose laws apply to you, including but not limited to the laws of Your country of residence or the country in which you use or access the IONOS Inc. Services and, in each case, including the laws of any provinces, states or dependencies thereof.
 
 ****1.14.****   "Parties" shall collectively refer to IONOS and you.
 
