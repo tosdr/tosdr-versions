@@ -22,19 +22,19 @@ Audio
 
 * * *
 
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+    
+    Books Bans Are on the Rise in America
+    
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
     
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
-
-* * *
-
-* [![Swoon-Worthy YA Romantasy Books To Obsess Over](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/23161906/YA-Romantasy-DMcMurdie-850x607-1.jpg)
-    
-    Swoon-Worthy YA Romantasy Books To Obsess Over
-    
-    Learn More >](https://www.readbrightly.com/ya-fantasy-romance-books/)
 
 * <
     
