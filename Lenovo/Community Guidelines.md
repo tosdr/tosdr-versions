@@ -123,7 +123,7 @@ Contains Add-ons
 
 Subtotal
 
-Proceed to checkout
+Proceed to Checkout
 
 Yes
 
@@ -468,11 +468,11 @@ Hamburger Menu
     
     * [Lenovo Pro for Business](https://account.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage) [Business Store Benefits](https://www.lenovo.com/us/en/business/benefits/) [Small Business](https://www.lenovo.com/us/en/business/small-business-benefits/) [Medium Business](https://www.lenovo.com/us/en/business/medium-business-benefits/) [Partners](https://www.lenovo.com/us/en/business/reseller-benefits/) [Business Community](https://smbcommunity.lenovo.com/us/)
     
-* [Education](https://www.lenovo.com/us/en/student/)
+* [Student](https://www.lenovo.com/us/en/student/)
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Education Sale](https://www.lenovo.com/us/en/d/deals/student/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Education Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/) [Warranties & Services](https://support.lenovo.com/us/en/warranty-upgrade-and-services/)
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Education Sale](https://www.lenovo.com/us/en/d/deals/student/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Education Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
     * Explore
         
         [Education Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Lenovo EDU Community](https://education.lenovo.com/us) [More in Lenovo Education](https://www.lenovo.com/us/en/education/)
@@ -880,7 +880,7 @@ skip to main content
     * [Smart Office](https://www.lenovo.com/us/en/d/accessories/?sortBy=bestSelling&visibleDatas=1029%3AFor%2520Business) [Conference Cameras](https://www.lenovo.com/us/en/dc/accessories-and-software/webcams-and-video?visibleDatas=706%3ACameras%2CWebcam%2520Bundles%2CWebcams) [Presentation Remote Controllers](https://www.lenovo.com/us/en/dc/accessories-and-software/keyboards-and-mice?visibleDatas=706%3ARemote%2520Controllers) [Printers & Scanners](https://www.lenovo.com/us/en/dc/accessories-and-software/printers-and-scanners) [ThinkSmart Bar](https://www.lenovo.com/us/en/p/smart-devices/smart-office/thinksmart/thinksmart-bar/11sp1tssdbr) [Speakers](https://www.lenovo.com/us/en/dc/accessories-and-software/audio?visibleDatas=706%3ASpeakers) [ThinkReality Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) [Shop All ThinkSmart Office Devices](https://www.lenovo.com/us/en/c/smart-devices/smart-office/thinksmart/)
     * Smart Devices
         
-        [Smart Lighting](https://www.lenovo.com/us/en/d/accessories/philips-hue/) [Smart Glasses](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables?visibleDatas=706%3ABlue%2520Light%2520Glasses%2CBluetooth%2520Sunglasses) [VR headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets) [Smartwatches](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables?visibleDatas=706%3AWearable%20Accessories%2CWearables)
+        [Smart Lighting](https://www.lenovo.com/us/en/d/accessories/philips-hue/) [VR headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets) [Smartwatches](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables?visibleDatas=706%3AWearable%20Accessories%2CWearables)
     
 * [Deals](https://www.lenovo.com/us/en/d/deals/doorbusters/)
     
@@ -1180,6 +1180,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
