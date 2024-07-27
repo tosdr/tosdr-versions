@@ -359,7 +359,6 @@ Our site includes a range of registered and unregistered trade marks and other i
 Related links
 -------------
 
-* [Archive](https://www.o2.co.uk/termsandconditions/archive)
 * [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
 * [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
 * [Ofcom Sales and Marketing Obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
@@ -372,7 +371,7 @@ Related links
 * [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Business](https://www.o2.co.uk/termsandconditions/business)
 * [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
-* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
+* [Archive](https://www.o2.co.uk/termsandconditions/archive)
 
 * * *
 
