@@ -8,10 +8,10 @@
 
 *  
     
-* [DNC](https://www.motherjones.com/politics/2024/07/the-dnc-just-launched-its-first-paid-media-ad-against-jd-vance/)
-* [SCOTUS](https://www.motherjones.com/politics/2024/07/supreme-court-loper-bright-corner-post-irs-tax-policy/)
-* [Moms for Liberty](https://www.motherjones.com/politics/2024/07/moms-for-liberty-have-had-a-rough-year-theyre-still-rnc-darlings/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/07/miles-guo-wengui-verdict-guilty/)
+* [Netanyahu](https://www.motherjones.com/politics/2024/07/pushback-benjamin-netanyahu-israel-gaza-congress-johnson-genocide-uaw/)
+* [Sonya Massey](https://www.motherjones.com/criminal-justice/2024/07/sonya-massey-police-killing-illinois-sangamon-sheriff/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/07/donald-trump-ridicules-kamala-harris-chuckle-maybe-because-he-almost-never-laughs/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/07/kamala-harris-debut-campaign-speech-democrats-prosecutor-trump/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [DNC](https://www.motherjones.com/politics/2024/07/the-dnc-just-launched-its-first-paid-media-ad-against-jd-vance/)
-* [SCOTUS](https://www.motherjones.com/politics/2024/07/supreme-court-loper-bright-corner-post-irs-tax-policy/)
-* [Moms for Liberty](https://www.motherjones.com/politics/2024/07/moms-for-liberty-have-had-a-rough-year-theyre-still-rnc-darlings/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/07/miles-guo-wengui-verdict-guilty/)
+* [Netanyahu](https://www.motherjones.com/politics/2024/07/pushback-benjamin-netanyahu-israel-gaza-congress-johnson-genocide-uaw/)
+* [Sonya Massey](https://www.motherjones.com/criminal-justice/2024/07/sonya-massey-police-killing-illinois-sangamon-sheriff/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/07/donald-trump-ridicules-kamala-harris-chuckle-maybe-because-he-almost-never-laughs/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/07/kamala-harris-debut-campaign-speech-democrats-prosecutor-trump/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
