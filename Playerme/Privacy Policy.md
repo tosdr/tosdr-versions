@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
+    [](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
     
-    ![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
+    [](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
     
-    ![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,58 @@ TRENDING
 *   Back
 * The Last of Us
 
+![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
+
+[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 26, 2024/
+
+Since China banned consoles in 2000, New Pokemon Snap has finally broken the 24-year trend. The game became the first…
+
+[Read More](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+
+![OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/wp-content/uploads/2024/07/OpenAI-Reveal-SearchGPT-as-Direct-Challenge-to-Google-and-Perplexity.png)
+
+[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 26, 2024/
+
+On Thursday, Open AI unveiled its much-anticipated search engine prototype, SearchGPT, which aims to give users “fast and timely answers…
+
+[Read More](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+
+![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
+
+[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+July 25, 2024/
+
+Isekai anime was never in the spotlight in the past, as the subgenre of anime, manga, and light novels that…
+
+[Read More](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+![Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/wp-content/uploads/2024/07/Atlus-Exclusive-Metaphor_-ReFantazio-Fourth-Live-Stream-Set-for-July-29.png)
+
+[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 25, 2024/
+
+Metaphor: ReFantazio, the widely anticipated JRPG from long-time veteran Persona developers Atlus, will have its fourth live stream, slated on…
+
+[Read More](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+
 ![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/wp-content/uploads/2024/07/Nintendo-Revokes-Splatoon-3-World-Championship-Winners-After-Racist-Remarks.png)
 
 [Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
@@ -192,58 +244,6 @@ July 23, 2024/
 Xbox exclusives are titled as they only remain on the Xbox console platform. However, Party Animals, the Xbox exclusive nominated…
 
 [Read More](https://player.me/party-animals-playstation-release-is-coming-soon/)
-
-![Which Are the 10 Best Last Epoch Weapons For You?](https://player.me/wp-content/uploads/2024/07/Which-Are-the-10-Best-Last-Epoch-Weapons-to-Level-Up-Quickly-1.png)
-
-[Which Are the 10 Best Last Epoch Weapons For You?](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/)
-
-
-----------------------------------------------------------------------------------------------------------------------------
-
-July 22, 2024/
-
-Apart from assigning players on a dangerous and adventurous journey, Last Epoch also provides its players with a list of…
-
-[Read More](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/)
-
-![Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder](https://player.me/wp-content/uploads/2024/07/Balatro_-6-Best-Beginner-Tips-to-Master-the-Poker-Inspired-Deck-Builder-1.png)
-
-[Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder](https://player.me/6-best-beginner-tips-to-master-balatro/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-July 22, 2024/
-
-If you’re considering going into Balatro with the same game plan as with poker, you’re in for a massive surprise.…
-
-[Read More](https://player.me/6-best-beginner-tips-to-master-balatro/)
-
-![Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/wp-content/uploads/2024/07/Sea-of-Thieves-Season-13-Features-New-Content-and-Villain-Choice.png)
-
-[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 19, 2024/
-
-Rare has unveiled its new trailer and content for Sea of Thieves Season 13, the popular action-adventure game they developed.…
-
-[Read More](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
-
-![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
-
-[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 19, 2024/
-
-Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
-
-[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,58 @@ GAMING
 *   Back
 * The Last of Us
 
+![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
+
+[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 26, 2024/
+
+Since China banned consoles in 2000, New Pokemon Snap has finally broken the 24-year trend. The game became the first…
+
+[Read More](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+
+![OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/wp-content/uploads/2024/07/OpenAI-Reveal-SearchGPT-as-Direct-Challenge-to-Google-and-Perplexity.png)
+
+[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 26, 2024/
+
+On Thursday, Open AI unveiled its much-anticipated search engine prototype, SearchGPT, which aims to give users “fast and timely answers…
+
+[Read More](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+
+![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
+
+[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+July 25, 2024/
+
+Isekai anime was never in the spotlight in the past, as the subgenre of anime, manga, and light novels that…
+
+[Read More](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+![Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/wp-content/uploads/2024/07/Atlus-Exclusive-Metaphor_-ReFantazio-Fourth-Live-Stream-Set-for-July-29.png)
+
+[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 25, 2024/
+
+Metaphor: ReFantazio, the widely anticipated JRPG from long-time veteran Persona developers Atlus, will have its fourth live stream, slated on…
+
+[Read More](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+
 ![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/wp-content/uploads/2024/07/Nintendo-Revokes-Splatoon-3-World-Championship-Winners-After-Racist-Remarks.png)
 
 [Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
@@ -354,58 +406,6 @@ If you’re considering going into Balatro with the same game plan as with poker
 
 [Read More](https://player.me/6-best-beginner-tips-to-master-balatro/)
 
-![Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/wp-content/uploads/2024/07/Sea-of-Thieves-Season-13-Features-New-Content-and-Villain-Choice.png)
-
-[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 19, 2024/
-
-Rare has unveiled its new trailer and content for Sea of Thieves Season 13, the popular action-adventure game they developed.…
-
-[Read More](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
-
-![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
-
-[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 19, 2024/
-
-Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
-
-[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
-
-![EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/wp-content/uploads/2024/07/9a69fa66-edb0-44e5-a845-bce898155b3d-1.png)
-
-[EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 18, 2024/
-
-Continuing our theme of an EA footballing day, EA Sports College Football 25 is right around the corner, as it…
-
-[Read More](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
-
-![EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/wp-content/uploads/2024/07/EA-Sports-FC-25——-Release-Date-Pre-Order-Bonuses-and-All-You-Need-to-Know.png)
-
-[EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-July 18, 2024/
-
-The annual FIFA series, now known as EA Sports FC, will be grazing football gaming fans’ screens in two months…
-
-[Read More](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 ENTERTAINMENT
@@ -417,6 +417,19 @@ ENTERTAINMENT
 * ENTERTAINMENT
 * SCIENCE-HEALTH
 * CRYPTO
+
+![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
+
+[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+July 25, 2024/
+
+Isekai anime was never in the spotlight in the past, as the subgenre of anime, manga, and light novels that…
+
+[Read More](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
 
 ![Omniscient Reader’s Viewpoint Becomes Latest Webtoon Anime Adaptation, with Solo Leveling Season 2 Also Confirmed](https://player.me/wp-content/uploads/2024/07/Omniscient-Readers-Viewpoint-Becomes-Latest-Webtoon-Anime-Adaptation-with-Solo-Leveling-Season-2-Also-Confirmed.png)
 
@@ -534,19 +547,6 @@ January 10, 2024/
 In a world where animated shows have historically been considered mere cartoons or exclusively tailored for children, anime has emerged…
 
 [Read More](https://player.me/10-best-anime-movies-of-all-time/)
-
-![Google AI in Music: New Google Instrument Playground Crafts Music Using a Great Number of 100+ World Instruments](https://player.me/wp-content/uploads/2023/12/Google-AI-in-Music.jpg)
-
-[Google AI in Music: New Google Instrument Playground Crafts Music Using a Great Number of 100+ World Instruments](https://player.me/new-google-instrument-playground-crafts-music/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-December 5, 2023/
-
-The boundaries of AI are always stretching out and going beyond. Previously, creators of artistic content such as music and…
-
-[Read More](https://player.me/new-google-instrument-playground-crafts-music/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,30 @@ Elon Musk, the renowned entrepreneur and innovator, has left an indelible mark o
 
 player.me
 
+[](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/ "New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000")
+
+[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+
+July 26, 2024
+
+[](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/ "OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity")
+
+[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+
+July 26, 2024
+
+[](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/ "Ranking the 7 Best Isekai Anime of All Time")
+
+[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
+
+July 25, 2024
+
+[](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/ "Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29")
+
+[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+
+July 25, 2024
+
 [](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/ "Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks")
 
 [Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
@@ -841,34 +865,10 @@ July 23, 2024
 
 July 23, 2024
 
-[](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/ "Which Are the 10 Best Last Epoch Weapons For You?")
-
-[Which Are the 10 Best Last Epoch Weapons For You?](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/)
-
-July 22, 2024
-
-[](https://player.me/6-best-beginner-tips-to-master-balatro/ "Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder")
-
-[Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder](https://player.me/6-best-beginner-tips-to-master-balatro/)
-
-July 22, 2024
-
-[](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/ "Sea of Thieves Season 13 Features New Content and Villain Choice")
-
-[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
-
-July 19, 2024
-
-[](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/ "Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ")
-
-[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
-
-July 19, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 537,042 times, 1,211 visit(s) today
+Visited 541,775 times, 1,332 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
