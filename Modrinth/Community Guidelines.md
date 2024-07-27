@@ -106,7 +106,7 @@ There are certain other small aspects to creating projects that all authors shou
 
 Modrinth is [open source](https://github.com/modrinth).
 
-modrinth/knossos prod@[bd49d6b](https://github.com/modrinth/knossos/tree/bd49d6bd89233d56a0fc94e23d5e0457ddc96dc1)
+main@[57ba841](https://github.com/modrinth/code/tree/57ba84107c24168890510e099c6b5ea0cf5f8606)
 
 © Rinth, Inc.
 
