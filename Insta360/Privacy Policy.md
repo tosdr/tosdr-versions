@@ -14,6 +14,8 @@
 
 [About](https://www.insta360.com/about)
 
+[Shop by Interest](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest)
+
 ![insta360](https://res.insta360.com/static/0f4ec576f79eaaad2a998582306ffe31/ic-close.svg)
 
 360 Cameras
@@ -61,6 +63,18 @@ Explore
 Support
 
 [Product Support](https://www.insta360.com/support/product-support)[Where to Buy](https://www.insta360.com/support/buy-map)[Care Service](https://www.insta360.com/support/care_warranty)[Repair Service](https://www.insta360.com/support/workorder)[After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
+
+Shop by Interest
+
+[![insta360](https://res.insta360.com/static/487a7569fff274f4b35c85679630dcc6/NavWinterSports.jpg)
+
+Winter Sports](https://store.insta360.com/wintersports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/d8dd9a9a4071796cbe539dee99bd10b4/NavMotorcycle.jpg)
+
+Motorcycle](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/a46152f8883022b113ec2a03fa0f24d3/NavBiking.jpg)
+
+Biking](https://store.insta360.com/biking?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/e2736fbe471cdd1700b52f01d9ff934c/NavWaterSports.jpg)
+
+Water Sports](https://store.insta360.com/water-sports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)
 
 ![insta360](https://static.insta360.com/assets/storage/20200415/5dcca8dd62b5ac5d7b910ba9ec84e860/en_us_2x.png)
 
