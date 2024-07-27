@@ -8,11 +8,6 @@ dark
 
 [Log in](https://invidious.nerdvpn.de/login?referer=%2Fprivacy)
 
-### 
-
-This instance now uses several load-balanced HTTP proxies to bypass blockage from YouTube.  
-Sadly, the proxies are unable to properly handle DASH video playback, so DASH (including downloads and livestreams) is disabled for now.
-
 Privacy
 -------
 
