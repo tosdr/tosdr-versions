@@ -957,26 +957,6 @@ Genre: [Comedy](https://playtube.pk/category/comedy/)
 
 HD
 
- [![The Eyes of Tammy Faye](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-eyes-of-tammy-faye/)6.5
-
-### [The Eyes of Tammy Faye](https://playtube.pk/the-eyes-of-tammy-faye/)
-
-2021 126 min _Movie_
-
-The Eyes of Tammy Faye
-
-6.5 2021 126 min HD
-
-From the 1960's to the 1980's, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to to build an empire based on big-time evangelical ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [History](https://playtube.pk/category/history/)
-
-[](#)[Watch Now](https://playtube.pk/the-eyes-of-tammy-faye/)
-
-HD
-
  [![Compartment No. 6](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/compartment-no-6/)7.0
 
 ### [Compartment No. 6](https://playtube.pk/compartment-no-6/)
@@ -994,6 +974,26 @@ Country: [Estonia](https://playtube.pk/country/estonia/)
 Genre: [Drama](https://playtube.pk/category/drama/)
 
 [](#)[Watch Now](https://playtube.pk/compartment-no-6/)
+
+HD
+
+ [![The Eyes of Tammy Faye](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-eyes-of-tammy-faye/)6.5
+
+### [The Eyes of Tammy Faye](https://playtube.pk/the-eyes-of-tammy-faye/)
+
+2021 126 min _Movie_
+
+The Eyes of Tammy Faye
+
+6.5 2021 126 min HD
+
+From the 1960's to the 1980's, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to to build an empire based on big-time evangelical ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [History](https://playtube.pk/category/history/)
+
+[](#)[Watch Now](https://playtube.pk/the-eyes-of-tammy-faye/)
 
 HD
 
@@ -1157,44 +1157,6 @@ Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playt
 
 HD
 
- [![For Alice](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/for-alice/)0
-
-### [For Alice](https://playtube.pk/for-alice/)
-
-2024 82 min _Movie_
-
-For Alice
-
-0 2024 82 min HD
-
-Chow Kam Wing’s intricate, suspenseful neo-noir charts an unlikely bond between grizzled veteran Tai Bo and rising star Kuku So—he a mysterious rescuer, she a teenager running away from ...
-
-Genre:
-
-[](#)[Watch Now](https://playtube.pk/for-alice/)
-
-HD
-
- [![Cultural Comedy](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/cultural-comedy/)0
-
-### [Cultural Comedy](https://playtube.pk/cultural-comedy/)
-
-2024 95 min _Movie_
-
-Cultural Comedy
-
-0 2024 95 min HD
-
-Cynical Perm official Viktor Letaev oversees road construction and is used to always getting his way. He knows and loves his job, but is not interested in anything else. His credo: "I ...
-
-Country: [Russia](https://playtube.pk/country/russia/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/cultural-comedy/)
-
-HD
-
  [![Waiting for the Night](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/waiting-for-the-night/)5.9
 
 ### [Waiting for the Night](https://playtube.pk/waiting-for-the-night/)
@@ -1212,6 +1174,44 @@ Country: [Belgium](https://playtube.pk/country/belgium/)
 Genre: [Drama](https://playtube.pk/category/drama/)
 
 [](#)[Watch Now](https://playtube.pk/waiting-for-the-night/)
+
+HD
+
+ [![Entra en mi vida](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/entra-en-mi-vida/)0
+
+### [Entra en mi vida](https://playtube.pk/entra-en-mi-vida/)
+
+2024 0 min _Movie_
+
+Entra en mi vida
+
+0 2024 0 min HD
+
+Country: [Mexico](https://playtube.pk/country/mexico/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/entra-en-mi-vida/)
+
+HD
+
+ [![Dosen Ghaib: Sudah Malam atau Sudah Tahu](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/dosen-ghaib-sudah-malam-atau-sudah-tahu/)0
+
+### [Dosen Ghaib: Sudah Malam atau Sudah Tahu](https://playtube.pk/dosen-ghaib-sudah-malam-atau-sudah-tahu/)
+
+2024 0 min _Movie_
+
+Dosen Ghaib: Sudah Malam atau Sudah Tahu
+
+0 2024 0 min HD
+
+Four students had to take a short semester while other students were on holiday. At first these students were not suspicious during class.
+
+Country: [Indonesia](https://playtube.pk/country/indonesia/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/dosen-ghaib-sudah-malam-atau-sudah-tahu/)
 
 Latest TV Series
 ----------------
