@@ -1203,7 +1203,9 @@ By subscribing you agree to our privacy policy.
 
 New](https://internxt.com/webdav)[Internxt Send](https://send.internxt.com/)[Internxt VPN
 
-New](https://internxt.com/vpn)[Pricing](https://internxt.com/pricing)
+New](https://internxt.com/vpn)[Internxt for Business
+
+New](https://internxt.com/business)[Pricing](https://internxt.com/pricing)
 
 ### Company
 
