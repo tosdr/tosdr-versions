@@ -1,7 +1,7 @@
 PRIVACY POLICY for ibisPaint
 ----------------------------
 
-Last updated: February 08, 2024
+Last updated: July 23, 2024
 
 We, IBIS INC., respect your privacy. As we operate our website and provide you with our services, we process personal data about you in accordance with applicable data protection laws, including the Act on the Protection of Personal Information of Japan.
 
