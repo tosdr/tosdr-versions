@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
+[![PMC Time Machine](https://www.planetminecraft.com/images/special/timemachine.png)](https://www.planetminecraft.com/timemachine/ "Planet Minecraft Time Machine")
 
 Community
 
@@ -36,7 +36,7 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![PMC X](https://www.planetminecraft.com/images/special/pmc_x.png)](https://www.x.com/PlanetMinecraft "Planet Minecraft X Posts!")
+[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
 
 ...
 
@@ -232,7 +232,7 @@ Welcome
 *  Dark mode
     
 
-//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=WIZca3d5rclSF9sJ-YFdxpo\_Isiu2MgErmJfZPD0IMKPg5pm,//www.planetminecraft.com/css/editor.css?v=voAwXHOwv9ksSGp3VJSMvfZZwng69B\_ZnIWLYDu5V5QGGZhm
+//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=f24vEAXb6rrrQULfXnaULJ7CXY8EBfqvx9BlXwZZL8maW6Rm,//www.planetminecraft.com/css/editor.css?v=ZSZqN0N9JyLU\_-AnnU1uE-6VgZVjB2C03URaY2yCjIHqsqNm
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-abZiFQSKf0Mh-.gif)
 
