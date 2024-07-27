@@ -910,7 +910,7 @@ Latest update: May 31, 2024
 
 * * *
 
-Kloudend, Inc. 1887 Whitney Mesa Dr #4080 Henderson, NV, USA - 89014 | [Exercise](https://ipapi.co/donotsell/) your rights | [Contact Us](https://ipapi.co/contact/)
+Kloudend, Inc. 1887 Whitney Mesa Dr #4080 Henderson, NV, USA - 89014 | [Contact Us](https://ipapi.co/contact/)
 
   
   
@@ -919,7 +919,7 @@ Kloudend, Inc. 1887 Whitney Mesa Dr #4080 Henderson, NV, USA - 89014 | [Exercise
 
 Loading...
 
-[About](https://ipapi.co/about/) [Contact](https://ipapi.co/contact/) [Terms](https://ipapi.co/terms/) [Privacy](https://ipapi.co/privacy/) [GDPR](https://ipapi.co/privacy/#:~:text=GDPR&text=compliant&text=including%20the%20new%20Standard%20Contractual%20Clauses) [Opt Out](https://ipapi.co/privacy/#:~:text=exercise%20certain%20rights)
+[About](https://ipapi.co/about/) [Contact](https://ipapi.co/contact/) [Terms](https://ipapi.co/terms/) [Privacy](https://ipapi.co/privacy/) [GDPR](https://ipapi.co/privacy/#:~:text=GDPR&text=compliant&text=including%20the%20new%20Standard%20Contractual%20Clauses)
 
 [](https://twitter.com/ipapi_co)[](https://github.com/ipapi-co/)
 
@@ -931,5 +931,6 @@ ipapi ® is a registered trademark of Kloudend in UK & AU
 IP Location data is aggregated from multiple sources regularly for an accurate & reliable IP lookup.  
 † Latitude / Longitude are often near the center of population. The values aren't precise & shouldn't be used to identify a particular address or household.  
 The location obtained from an IP address is inherently imprecise and may not always be current. Please read our terms of service or contact us to understand the limitations.  
-This product includes data from [Geonames](https://www.geonames.org/) and [IP geolocation by DB-IP](https://db-ip.com/) available under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) .  
+[Do Not Sell My Personal Information](https://ipapi.co/donotsell/)  
+This product includes data from [IP geolocation by DB-IP](https://db-ip.com/) available under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) .  
 This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) .
