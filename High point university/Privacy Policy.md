@@ -266,7 +266,7 @@ Any changes we make to this Privacy Policy in the future will be posted on the W
 
 **13\. Contact Us**
 
-If you have any questions regarding this Privacy Policy or the way we use your personal information, you can contact us via e-mail at [webteam@highpoint.edu](mailto:webteam@highpoint.edu).
+If you have any questions regarding this Privacy Policy or the way we use your personal information, you can contact us via e-mail at [\[email protected\]](https://www.highpoint.edu/cdn-cgi/l/email-protection).
 
 ![high point university footer high point nc](https://www.highpoint.edu/media/home/high-point-university-footer-high-point-nc-200x88.png)
 
