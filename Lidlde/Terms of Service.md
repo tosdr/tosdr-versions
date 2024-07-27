@@ -463,7 +463,9 @@ Werde Lidl Insider
 
 ... und sichere dir exklusive Angebote.Jetzt zum Newsletter anmelden!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
-Rechtliche Hinweise
+Rechtliche Hinweise und Auflösung der Fußnoten
+
+Mehr anzeigen
 
 [Werde Lidl Insider!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
