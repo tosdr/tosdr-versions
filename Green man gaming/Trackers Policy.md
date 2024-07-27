@@ -77,6 +77,8 @@ Toggle navigation
 
 Top Searches
 
+[Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
+
 [Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
 [Hitman](https://www.greenmangaming.com/games/hitman-world-of-assassination-pc/)
