@@ -419,7 +419,6 @@ Publication Date: 29 June 2022
 Related links
 -------------
 
-* [Archive](https://www.o2.co.uk/termsandconditions/archive)
 * [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
 * Privacy Policy
     
@@ -432,7 +431,7 @@ Related links
 * [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Business](https://www.o2.co.uk/termsandconditions/business)
 * [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
-* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
+* [Archive](https://www.o2.co.uk/termsandconditions/archive)
 
 * * *
 
