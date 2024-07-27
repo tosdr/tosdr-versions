@@ -8,9 +8,9 @@
 
    
 
-**Essential information for centres, learners and parents of VTQ learners**
+**Essential results information for centres, learners and parents of VTQ learners:** [Read more on our results page](https://www.ncfe.org.uk/approach-to-awarding/results/#statement), including what you need to know about T Level and alternative Level 3 qualification results, and V Cert results.
 
-[Read more on our results page](https://www.ncfe.org.uk/approach-to-awarding/results/#statement "Results").
+**Questions about certification?** [Read our FAQs](https://www.ncfe.org.uk/qualifications/faqs/certification/ "Certification").
 
  [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
 
