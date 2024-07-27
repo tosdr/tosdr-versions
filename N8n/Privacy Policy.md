@@ -87,8 +87,8 @@ Show more
 
 Top integration categories
 
-* [Development](https://n8n.io/integrations/categories/development/)
 * [Communication](https://n8n.io/integrations/categories/communication/)
+* [Development](https://n8n.io/integrations/categories/development/)
 * [Langchain](https://n8n.io/integrations/categories/langchain/)
 * [AI](https://n8n.io/integrations/categories/ai/)
 * [Data & Storage](https://n8n.io/integrations/categories/data-and-storage/)
