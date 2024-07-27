@@ -266,7 +266,7 @@ You are about to exit Hulu.com to visit the Shop Hulu site, where a different Te
 
 [Max](https://secure.hulu.com/max "Max")[Cinemax](https://secure.hulu.com/cinemax "Cinemax")[Paramount+ with SHOWTIME](https://secure.hulu.com/paramount-plus-with-showtime "Paramount+ with SHOWTIME")[STARZ](https://secure.hulu.com/starz "STARZ")
 
-[Disney Bundle Trio Basic](https://secure.hulu.com/hulu-disney-espn-bundle-offer "Disney Bundle Trio Basic")[Disney Bundle Trio Premium](https://secure.hulu.com/disney-bundle-hulu-no-ads "Disney Bundle Trio Premium")[Disney Bundle Duo Basic](https://secure.hulu.com/disney-bundle-duo-basic "Disney Bundle Duo Basic")[Student Discount](https://secure.hulu.com/student "Student Discount")
+[Disney Bundle Trio Basic](https://secure.hulu.com/hulu-disney-espn-bundle-offer "Disney Bundle Trio Basic")[Disney Bundle Trio Premium](https://secure.hulu.com/disney-bundle-hulu-no-ads "Disney Bundle Trio Premium")[Disney Bundle Duo Basic](https://secure.hulu.com/disney-bundle-duo-basic "Disney Bundle Duo Basic")[Disney+, Hulu, Max Bundle](https://secure.hulu.com/disney-hulu-max-bundle "Disney+, Hulu, Max Bundle")[Student Discount](https://secure.hulu.com/student "Student Discount")
 
 ### HELP
 
@@ -278,7 +278,7 @@ You are about to exit Hulu.com to visit the Shop Hulu site, where a different Te
 
 ### ABOUT US
 
-[Shop Hulu](#hulushop "Shop Hulu")[Press](https://secure.hulu.com/press "Press")[Jobs](https://secure.hulu.com/jobs "Jobs")[Contact](https://help.hulu.com/s/article/how-to-contact-Hulu "Contact")[Guides | What to Watch](https://hulu.com/guides "Guides | What to Watch")
+[Shop Hulu](#hulushop "Shop Hulu")[Press](https://secure.hulu.com/press "Press")[Jobs](https://secure.hulu.com/jobs "Jobs")[Contact](https://help.hulu.com/article/hulu-how-to-contact-hulu "Contact")[Guides | What to Watch](https://hulu.com/guides "Guides | What to Watch")
 
 [![](/static/hitch/static/icons/facebook.svg)](https://www.facebook.com/hulu "Hulu Facebook")[![](/static/hitch/static/icons/twitter.svg)](https://twitter.com/hulu "Hulu Twitter")[![](/static/hitch/static/icons/youtube.svg)](https://www.youtube.com/channel/UCE5mQnNl8Q4H2qcv4ikaXeA "Hulu Youtube")[![](/static/hitch/static/icons/instagram.svg)](https://www.instagram.com/hulu "Hulu Instagram")
 
