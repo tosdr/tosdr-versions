@@ -1,12 +1,11 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+Team Spektrum Savings Save up to $70! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+-----------------------------------------------------------------------------------------------------
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -40,11 +39,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -70,7 +69,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -78,17 +77,16 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+Team Spektrum Savings Save up to $70! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+-----------------------------------------------------------------------------------------------------
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -100,7 +98,7 @@ Select A Store](javascript:void(0))
 
 My store
 
-* * [Surface](https://www.horizonhobby.com/cars-and-trucks/ "Shop RC Cars & Trucks")
+* * [Cars & Trucks](https://www.horizonhobby.com/cars-and-trucks/ "Shop RC Cars & Trucks")
         
         [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
         
@@ -134,7 +132,7 @@ My store
         
         [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf51bf858/header-images/nascar-175x175.jpg)](https://www.horizonhobby.com/nascar/)
         
-    * [Air](https://www.horizonhobby.com/airplanes/ "Shop RC Planes")
+    [Motorcycles](https://www.horizonhobby.com/cars-and-trucks/by-type/motorcycles/ "Shop RC Motorcycles")* [Aircraft](https://www.horizonhobby.com/airplanes/ "Shop RC Planes")
         
         [![Airplane by Skill Level](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwc3c88823/header-images/air-skill-level-175x175-04.jpg)](https://www.horizonhobby.com/aircraft-skill-levels/)
         
@@ -179,7 +177,7 @@ My store
         
         [![InFusion 120](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw275ddf13/header-images/air-nav-3-175x175-02.jpg)](https://www.horizonhobby.com/product/infusion-120-bnf-basic-with-as3x-and-safe/BLH6950.html)
         
-    * [Water](https://www.horizonhobby.com/boats/ "Shop RC Boats")
+    * [Boats](https://www.horizonhobby.com/boats/ "Shop RC Boats")
         
         [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3b960396/header-images/boat-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/1-6-24-jetstream-jet-boat-rtr/PRB08051.html)
         
@@ -205,7 +203,7 @@ My store
         
         [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3b960396/header-images/boat-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/1-6-24-jetstream-jet-boat-rtr/PRB08051.html)
         
-    * [Rails](https://www.horizonhobby.com/trains/ "Shop Model Trains")
+    * [Trains](https://www.horizonhobby.com/trains/ "Shop Model Trains")
         
         [![HO Scale Trains](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwaa8a7469/header-images/train-nav-1-175x175.jpg)](https://www.horizonhobby.com/trains/ho-scale/)
         
@@ -951,13 +949,12 @@ Shop
 
 Support
 
-* [RC Product Support](https://www.horizonhobby.com/product-support-landing.html?cp_source=footer&cp_medium=support "Go to RC Product Support")
+* [Technical Product Support](https://www.horizonhobby.com/product-support-landing.html?cp_source=footer&cp_medium=support "Go to RC Product Support")
 * [RC Blog](https://www.horizonhobby.com/blog/)
 * [Order Status](https://www.horizonhobby.com/orderstatus?cp_source=footer&cp_medium=support "Go to Order Status")
-* [Product Repairs](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Product Repairs")
+* [Repairs](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Product Repairs")
 * [Product Registration](https://www.horizonhobby.com/login?isRegisterProductLogin=true&cp_source=footer&cp_medium=support "Go to Product Registration")
 * [Check E-Gift Card Balance](https://www.horizonhobby.com/gift-card-balance?cp_source=footer&cp_medium=support "Check E-Gift Card Balance")
-* [Service Center](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Service Center")
 * [Shipping, Billing & Returns](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=footer&cp_medium=support "Go to Shipping, Billing & Returns")
 * [Event Donations](https://www.horizonhobby.com/donation-requests.html?cp_source=footer&cp_medium=support "Go to Donations Request")
 * [Train Support](https://www.horizonhobby.com/train-support.html?cp_source=footer&cp_medium=support "Go to Train Support")
