@@ -967,6 +967,7 @@ COMPANY
 * [About Us](https://www.netgear.com/about/)
 * [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
 * [Social Responsibility](https://www.netgear.com/about/esg-environmental-social-governance/)
+* [Security & Trust](https://www.netgear.com/security/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Room](https://www.netgear.com/hub/pressroom/)
 * [Blog](https://www.netgear.com/hub/)
