@@ -78,7 +78,7 @@ Privacy Notice
 
 Questions about our privacy notice? [Contact Us](https://support.gofundme.com/hc)
 
-Our Privacy Notice will be updated, and our updated Privacy Notice will be effective starting on August 1, 2024. To view the updated Privacy Notice, [click here](https://www.gofundme.com/c/gofundme-privacy-notice).
+Our Privacy Notice will be updated, and our updated Privacy Notice will be effective starting on September 1, 2024. To view the updated Privacy Notice, [click here](https://www.gofundme.com/c/gofundme-privacy-notice).
 
 Privacy and security are very important to us at GoFundMe. This Privacy Notice (“Notice”) is meant to help you (the “end user”) understand how we at GoFundMe collect, use, and share your data when you use our products or services on which we make this Notice available – for example, when you use GoFundMe or the Classy Platform or our mobile applications, or when you raise funds on GoFundMe for your campaigns or donate to one of our non-profit partners through Classy.Org (collectively, the “Services”). 
 
