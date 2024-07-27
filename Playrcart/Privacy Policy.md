@@ -800,9 +800,7 @@ Resources
 [Case Studies](https://www.glui.io/case-studies)
 ================================================
 
-* [](https://www.instagram.com/glui_hq/)
 * [](https://www.linkedin.com/company/glui-inc/)
-* [](https://www.tiktok.com/@theofficialglui)
 
 © 2024 Glui Inc.
 ================
