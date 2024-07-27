@@ -1,4 +1,4 @@
-[Join us for a special Community Call on 7/25. We unveil DDN Advanced! Register now](https://hasura.io/events/community-call/latest)
+[Download Now: The Supergraph Architecture Guide, 2024 Edition](https://hasura.io/resources/supergraph-architecture-guide)
 
 [![](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
@@ -154,7 +154,7 @@ Connect
 
 Community
 
-[Docs](https://hasura.io/docs/latest/index/)[Help](https://hasura.io/help/)[GitHub](https://github.com/hasura)[Swag Store](https://store.hasura.io/)[Contact Us](https://hasura.io/contact-us)
+[Docs](https://hasura.io/docs/latest/index/)[Help](https://hasura.io/help/)[GitHub](https://github.com/hasura)[Contact Us](https://hasura.io/contact-us)
 
 [](https://www.linkedin.com/company/hasura/)[](https://www.youtube.com/channel/UCZo1ciR8pZvdD3Wxp9aSNhQ)[](https://www.facebook.com/HasuraHQ)[](https://twitter.com/hasurahq)[](https://www.instagram.com/hasurahq/?hl=en)
 
