@@ -189,11 +189,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Retired Lt. Col. Jack Greene](https://cdn.returningveterans.org/images/honor/Jack_Greene.jpg)  
+![Capt. Chris Brooks](https://cdn.returningveterans.org/images/honor/CPT_Chris_Brooks.jpg)  
 
-**In Honor of Retired Lt. Col. Jack Greene**  
-United States Marine Corps  
-Submitted by Cliff and Dolly Mastrangelo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Capt. Chris Brooks**  
+United States Air Force  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 7/24/24 - 5:20:16  
+Printed 7/27/24 - 8:58:23  
 © 2024 Returning Veterans Project
