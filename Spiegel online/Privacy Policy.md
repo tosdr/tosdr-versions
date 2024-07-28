@@ -46,7 +46,7 @@ Datenschutzerklärung So gehen wir mit Ihren Daten um
 
 welche Daten sammeln wir während Ihres Besuches bzw. über Ihre Nutzung unserer Webseiten? Welche Werbung wird Ihnen ausgespielt? Wer kann Ihre Daten sehen, wenn Sie Digital-Abonnent:in oder registrierte Nutzer:in sind? Kurz, wie gehen wir mit Daten um, die beim Nutzen unserer digitalen Angebote entstehen? Diese Fragen und viele weitere wollen wir Ihnen in dieser Datenschutzerklärung beantworten.
 
-**Stand: 03.07.2024**
+**Stand: 25.07.2024**
 
 Datenschutzrechtlich verantwortlich ist das jeweils im [Impressum](https://www.spiegel.de/impressum) genannte Unternehmen der SPIEGEL-Gruppe. Dessen Datenschutzbeauftragten erreichen Sie unter [datenschutz@spiegelgruppe.de](mailto:datenschutz@spiegelgruppe.de)    oder unter dem Kennwort Datenschutz, Ericusspitze 1, 20459 Hamburg.
 
@@ -275,6 +275,8 @@ Die Vermarktung der Werbemittelplätze auf unserer Webseite wird durch die iq di
 Ihre Datenschutzrechte können Sie sowohl bei uns als auch bei der iq digital unter den oben angeführten Kontaktdaten geltend machen. Sie erhalten eine Auskunft grundsätzlich von der Stelle, bei der Rechte geltend gemacht wurden mit Ausnahme von Anfragen, die sich auf Datenverarbeitungen auf Publisherebene beziehen, für diese erhalten Sie Auskunft von uns.
 
 Zusätzlich zu den Hinweisen in unserer Datenschutzerklärung können Sie sich weiter auch in der [Datenschutzerklärung](https://www.iqdigital.de/service/datenschutz-nach-tcf/)  von iq digital über die durch iq digital eingesetzten Partner und Toolanbieter und die jeweiligen Datenverarbeitungen informieren. In der Datenschutzerklärung von iq digital finden Sie etwa Informationen über die Empfänger von Daten, Löschfristen, Erlaubnistatbestände und detaillierte Angaben über die genaueren Zwecke der Datenverarbeitung durch jeden einzelnen Partner und Toolanbieter.
+
+Zur Ermöglichung der Ausspielung von interessenbasierten Inhalten und/oder gezielter Online- und kanalübergreifender Werbung (z. B. Web, E-Mail, verbundene Geräte, In-App-Werbung usw.), können wir personenbezogene Daten oder andere Informationen, die wir von Ihnen erheben, wie z.B. Ihre IP-Adresse und/oder Informationen über Ihren Browser oder Ihr Betriebssystem an ID5 und ihre Konzernunternehmen weitergeben, die als Datenverantwortliche für diesen Bereich fungieren. ID5 verwendet diese Informationen, um eine ID zu erstellen, mit der Sie auf Ihren Geräten erkannt werden können. Diese ID enthält keine Ihrer identifizierbaren persönlichen Daten. Wir können diese ID in unserem First-Party-Cookie platzieren oder ein ID5-Cookie verwenden und zulassen, dass sie für die o. g. Zwecke verwendet wird. Diese ID kann von uns oder in unserem Namen an unsere Werbepartner und andere Drittanbieter von Werbung weltweit weitergegeben werden. Detaillierte Informationen zu den Datenverarbeitungsaktivitäten von ID5 im Zusammenhang mit dieser ID und dem Opt-out von ID5 finden Sie in der Datenschutzrichtlinie der ID5-Plattform hier: [https://id5.io/platform-privacy-policy.](https://id5.io/platform-privacy-policy.)  Die Rechtsgrundlage ist Ihre Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO.
 
 Google ist als Werbepartner mit Google AdWords eingebunden und kann nach denselben Richtlinien bei uns Werbe-Cookies platzieren und nutzen. Wenn Sie auf eine von Google geschaltete Anzeige klicken, wird ein 30 Tage gültiges Cookie ohne personenbezogene Daten gespeichert, das Ihre Klicks auf die Werbung bei uns registriert und für Statistiken gebraucht wird. Dem können Sie [hier](http://www.google.com/settings/ads/onweb/?hl=d)   widersprechen.
 
@@ -658,7 +660,7 @@ Diese Maßnahme wird von uns auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f) DSGVO 
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 5.13.0
+Versionsnummer: 5.14.0
 
 Feedback
 
