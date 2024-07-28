@@ -261,15 +261,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
 
-[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
+[Finding the Brighter Side of Elderly Care](https://www.visitingangels.com/knowledge-center/why-in-home-care/finding-the-brighter-side-of-elderly-care/472)
 
-[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
+[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
 
-[Help a Senior this Halloween with a Visiting Angels Greeter](https://www.visitingangels.com/knowledge-center/care-options/help-a-senior-this-halloween-with-a-visiting-angels-greeter/21)
+[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
 
-[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
+[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
