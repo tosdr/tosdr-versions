@@ -308,39 +308,37 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)
-
-ANALYSIS](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/ "'Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/27/tiffany-floyd-mom-blood-splattered-daughters-burger-king-meal-new-york/ "‘Mom, I Don’t Want Ketchup’: Terrified Mom Finds Blood Splattered On Daughter's Fast Food Meal")
 
 1
 
-['Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/)
+[‘Mom, I Don’t Want Ketchup’: Terrified Mom Finds Blood Splattered On Daughter's Fast Food Meal](https://dailycaller.com/2024/07/27/tiffany-floyd-mom-blood-splattered-daughters-burger-king-meal-new-york/)
 
-Analysis
+US
 
 2
 
-[CNN Reporter Asks KJP Why She Appeared On 'The View' Before Addressing The Press After Biden Exited Race](https://dailycaller.com/2024/07/24/cnn-reporter-kayla-tausche-kjp-the-view-biden-drop-out/)
+[EXCLUSIVE: New Trump Rally Video Scorches Kamala For Pushing Dangerous Minnesota Bail Fund](https://dailycaller.com/2024/07/27/exclusive-trump-play-video-rally-slamming-kamala-encouraging-donations-bail-criminals-minnesota-freedom-fund/)
 
-Media
+Politics
 
 3
 
-[‘She's An Idiot’: Kamala Harris Criticized By MSNBC’s Wisconsin Women Voters Focus Group](https://dailycaller.com/2024/07/24/shes-an-idiot-kamala-harris-savaged-by-msnbcs-wisconsin-women-voter-focus-group/)
+[Dem Senator Loses Police Support For First Time In 12 Years](https://dailycaller.com/2024/07/26/dem-senator-sherrod-brown-loses-police-support-fop/)
 
-Elections
+Politics
 
 4
 
-['Absolutely Not': Kamala Harris Isn't Ready For Prime Time On The Global Stage, Experts Say](https://dailycaller.com/2024/07/23/kamala-harris-isnt-ready-for-prime-time-on-the-global-stage-experts-say/)
+['Do You Want To Take A Risk?': Dems Nervous About Idea Of Whitmer As Harris' VP](https://dailycaller.com/2024/07/27/do-you-want-to-take-a-risk-dems-nervous-about-idea-of-whitmer-as-harris-vp/)
 
-National Security
+Politics
 
 5
 
-[Brittany Aldean Accuses Failed Country Music Singer Of 'Bullsh\*t' Treatment](https://dailycaller.com/2024/07/23/brittany-jason-aldean-maren-morris-bullying-try-that-in-a-small-town-podcast/)
+[VICTOR DAVIS HANSON: Coup Upon Coup Upon Coup](https://dailycaller.com/2024/07/25/victor-davis-hanson-coup-democrats-joe-biden-kamala-harris/)
 
-Editorial
+Opinion
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
@@ -426,9 +424,17 @@ Submit
     * [Daily Caller Merchandise](https://store.dailycaller.com/)
 * [SUBSCRIBE](https://dailycaller.com/subscribe/)
 
-![](https://www.facebook.com/tr?id=1660572110829759&ev=PageView&noscript=1)
+![](/files/images/logo-black.svg)
 
-![](https://dailycaller.com/files/images/patriots-credit.svg)
+Check out now
+-------------
+
+Continue
+
+![](/files/images/logo-black.svg)
+
+Sign in
+-------
 
 Email Address
 
@@ -442,29 +448,31 @@ Sign In With Facebook
 
 Sign In With Apple
 
-![](https://dailycaller.com/files/images/patriots-credit.svg)
+![](/files/images/logo-black.svg)
+
+Sign in or Sign up
+------------------
 
 Email Address
 
 Sign In
 
-![](https://dailycaller.com/files/images/patriots-credit.svg)
+![](/files/images/logo-black.svg)
+
+Register now
+------------
 
 Email Address
 
 Password
 
-Register With Password
-
-Register With Google
-
-Register With Facebook
+Register
 
 PREMIUM ARTICLE: Subscribe To Keep Reading
 
 [Continue Reading](#)
 
-Already have an account?[Login](#)
+Already have an account?Login
 
 [Terms & Conditions](https://dailycaller.com/footer/terms-of-use/)
 
@@ -531,3 +539,174 @@ Sign up
 By subscribing you agree to our [Terms of Use](https://dailycaller.com/footer/terms-of-use)
 
 **You're signed up!**
+
+Already a Patriot? Login
+
+Browse The Daily Caller 100% Ad-Free With Our New Readers Pass  
+Sign Up Today!
+===============================================================================
+
+READERS PASS
+------------
+
+$3.00
+
+A Month (Billed Annually)
+
+Subscribe
+
+Cancel Anytime
+
+* ✔ Ad-Free Browsing
+* ✔ Premium Articles
+* ✔ Exclusive Newsletters
+* ✔ Editor Daily Rundown
+* ✔ Daily Caller Shows
+
+ANNUAL MONTHLY
+
+PATRIOT ANNUAL
+--------------
+
+$8.25
+
+A Month (Billed Annually)
+
+Subscribe
+
+Cancel Anytime
+
+* Everything in Readers Pass AND:
+* ✔ Winning Documentaries
+* ✔ Patriot Live Chat
+* ✔ Patriots War Room
+* ✔ Behind The Scenes Coverage
+
+PATRIOT MONTHLY
+---------------
+
+$9.95
+
+A Month
+
+Subscribe
+
+Cancel Anytime
+
+* Everything in Readers Pass AND:
+* ✔ Winning Documentaries
+* ✔ Patriot Live Chat
+* ✔ Patriots War Room
+* ✔ Behind The Scenes Coverage
+
+FOUNDERS CLUB
+-------------
+
+$12.50
+
+A Month (Billed Annually)
+
+Subscribe
+
+Cancel Anytime
+
+* Everything in Patriot AND:
+* ✔ Exclusive Tucker Mug
+* ✔ Exclusive Events and Deals
+* ✔ Gold Membership Card
+* ✔ Fights Big Tech Censorship
+
+Honor Our Heroes Program: Verify your Active Military, Veteran, or First Responder Status for Additional Discounts
+
+![Verify with ID.me](/files/images/templates/subscribe/id_me_button.png)
+
+| BENEFITS | READERS PASS | PATRIOTS | FOUNDERS |
+| --- | --- | --- | --- |
+| Daily and Breaking Newsletters | ✔   | ✔   | ✔   |
+| Daily Caller Shows | ✔   | ✔   | ✔   |
+| Ad Free Experience | ✔   | ✔   | ✔   |
+| Exclusive Articles | ✔   | ✔   | ✔   |
+| Custom Newsletters | ✔   | ✔   | ✔   |
+| Editor Daily Rundown | ✔   | ✔   | ✔   |
+| Behind The Scenes Coverage |     | ✔   | ✔   |
+| Award Winning Documentaries |     | ✔   | ✔   |
+| Patriot War Room |     | ✔   | ✔   |
+| Patriot Live Chat |     | ✔   | ✔   |
+| Exclusive Events |     |     | ✔   |
+| Gold Membership Card |     |     | ✔   |
+| Tucker Mug |     |     | ✔   |
+
+What does Founders Club include?
+--------------------------------
+
+![Tucker Mug and Membership Card](/files/images/templates/subscribe/founders-club-graphic.png)
+
+![Founders](/files/images/templates/subscribe/daily_caller_founders.png)
+
+Readers,
+
+Instead of sucking up to the political and corporate powers that dominate America, The Daily Caller is fighting for you — our readers. We humbly ask you to consider joining us in this fight.
+
+Now that millions of readers are rejecting the increasingly biased and even corrupt corporate media and joining us daily, there are powerful forces lined up to stop us: the old guard of the news media hopes to marginalize us; the big corporate ad agencies want to deprive us of revenue and put us out of business; senators threaten to have our reporters arrested for asking simple questions; the big tech platforms want to limit our ability to communicate with you; and the political party establishments feel threatened by our independence.
+
+We don't complain -- we can't stand complainers -- but we do call it how we see it. We have a fight on our hands, and it's intense. We need your help to smash through the big tech, big media and big government blockade.
+
+We're the insurgent outsiders for a reason: our deep-dive investigations hold the powerful to account. Our original videos undermine their narratives on a daily basis. Even our insistence on having fun infuriates them -- because we won’t bend the knee to political correctness.
+
+One reason we stand apart is because we are not afraid to say we love America. We love her with every fiber of our being, and we think she's worth saving from today’s craziness.
+
+Help us save her.
+
+A second reason we stand out is the sheer number of honest responsible reporters we have helped train. We have trained so many solid reporters that they now hold prominent positions at publications across the political spectrum. Hear a rare reasonable voice at a place like CNN? There’s a good chance they were trained at Daily Caller. Same goes for the numerous Daily Caller alumni dominating the news coverage at outlets such as Fox News, Newsmax, Daily Wire and many others.
+
+Simply put, America needs solid reporters fighting to tell the truth or we will never have honest elections or a fair system. We are working tirelessly to make that happen and we are making a difference.
+
+Since 2010, The Daily Caller has grown immensely. We're in the halls of Congress. We're in the Oval Office. And we're in up to 20 million homes every single month. That's 20 million Americans like you who are impossible to ignore.
+
+We can overcome the forces lined up against all of us. This is an important mission but we can’t do it unless you — the everyday Americans forgotten by the establishment — have our back.
+
+Please consider becoming a Daily Caller Patriot today, and help us keep doing work that holds politicians, corporations and other leaders accountable. Help us thumb our noses at political correctness. Help us train a new generation of news reporters who will actually tell the truth. And help us remind Americans everywhere that there are millions of us who remain clear-eyed about our country's greatness.
+
+In return for membership, Daily Caller Patriots will be able to read The Daily Caller without any of the ads that we have long used to support our mission. We know the ads drive you crazy. They drive us crazy too. But we need revenue to keep the fight going. If you join us, we will cut out the ads for you and put every Lincoln-headed cent we earn into amplifying our voice, training even more solid reporters, and giving you the ad-free experience and lightning fast website you deserve.
+
+Patriots will also be eligible for Patriots Only content, newsletters, chats and live events with our reporters and editors. It's simple: welcome us into your lives, and we'll welcome you into ours.
+
+We can save America together.
+
+Become a Daily Caller Patriot today.
+
+![Signature](/files/images/templates/subscribe/neil-patel_sig.jpeg)
+
+Neil Patel
+
+Terms of Use and Cancellation Policy
+
+Internal promotions, affiliate content, recommended content and spam will be embedded in their paid content and players may still be included on the site.
+
+![5-stars](/files/images/templates/stream-subscribe/5-stars.svg)
+
+YOU HAVE REACHED
+================
+
+PREMIUM
+-------
+
+CONTENT
+
+CONTINUE READING FOR $120 $1
+
+ALSO, ENJOY THE MANY BENEFITS OF PATRIOTS MEMBERSHIP
+
+![Ad-Free](/files/images/templates/stream-subscribe/ad-free.svg)
+
+![Documentaries](/files/images/templates/stream-subscribe/documentaries.svg)
+
+![App](/files/images/templates/stream-subscribe/app.svg)
+
+![Newsletters](/files/images/templates/stream-subscribe/newsletters.svg)
+
+JOIN US!
+
+[TERMS & CONDITIONS](https://dailycaller.com/footer/terms-of-use/) LOG-IN CANCEL ANYTIME
+
+![](https://www.facebook.com/tr?id=1660572110829759&ev=PageView&noscript=1)
