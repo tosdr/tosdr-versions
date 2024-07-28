@@ -193,7 +193,7 @@ Examples of cookies we use:
 * Security cookies: We use security cookies for security purposes.
     
 
-[](#workspace-tracking-and-statistics-data)**Workspace tracking and statistics data**
+**Workspace tracking and statistics data**
 
 Rocket.Chat workspaces are set up to send anonymous and non-personal usage tracking data to Rocket.Chat automatically. This is done to help us understand how customers use our services, ensure compliance with the terms of use limits, and for billing purposes if the customer's contract is based on consumption of our services.
 
@@ -241,7 +241,7 @@ We collect and use your personal data to comply with various legal and regulator
 * Regulations relating to international financial sanctions and embargoes.
     
 
-[](#to-fulfill-our-legitimate-interests)**To fulfill our legitimate interests**
+**To fulfill our legitimate interests**
 
 We also use your personal data to fulfill our legitimate interests, which include the following:
 
@@ -254,7 +254,7 @@ We also use your personal data to fulfill our legitimate interests, which includ
 * Security and safety of our IT and facilities.
     
 
-[](#based-on-your-consent)**Based on your consent**
+**Based on your consent**
 
 If certain personal data processing requires your consent (e.g., cookies), we will inform you of this, including details of the specific processing activity, and request your consent to such processing. You may request to revoke your consent at any time.
 
@@ -272,13 +272,13 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States or other jurisdictions deemed not to have an adequate level of data protection deemed by the competent authorities of your residence. Rocket.Chat Technologies Corp. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-### Disclosure and storage of personal data[](#disclosure-and-storage-of-personal-data)
+### Disclosure and storage of personal data
 
-[](#disclosure-of-data)**Disclosure of Data**
+**Disclosure of Data**
 
 Business Transaction: If Rocket.Chat Technologies Corp. is involved in a merger, acquisition, or asset sale; your _personal data_ may be transferred. We will provide notice before your _personal data_ is transferred and becomes subject to a different privacy policy.
 
-[](#disclosure-for-law-enforcement)**Disclosure for Law Enforcement**
+**Disclosure for Law Enforcement**
 
 In rare circumstances, we may be required to disclose user-uploaded content and other personal data in response to a valid request from law enforcement authorities. We will only comply with such requests if they are made in accordance with applicable laws, regulations, and our internal guidelines for disclosure.
 
@@ -299,7 +299,7 @@ Rocket.Chat Technologies Corp. may disclose your _personal data_ in the good fai
 * To protect against legal liability
     
 
-### [](#sharing-data-with-third-party-service-providers-subprocessors)Sharing data with third-party service providers (subprocessors)
+### Sharing data with third-party service providers (subprocessors)
 
 We may employ third-party companies and individuals to facilitate our service (service providers), provide the service on our behalf, perform service-related services, or assist us in analyzing how our service is used.
 
@@ -316,7 +316,7 @@ We execute contracts with our third parties to ensure they fulfill their data pr
 
 A list of our third-party processors may be found [here](https://docs.rocket.chat/v1/docs/subprocessors).
 
-#### [](#analytics)Analytics
+#### Analytics
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
@@ -338,7 +338,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
     * For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)​
         
 
-[](#links-to-other-sites)**Links to Other Sites**
+**Links to Other Sites**
 
 Our service may contain links to other sites that we do not operate. If you click on a third-party link, you will be directed to that third-party's site. When using such third-party websites, we recommend that you read the terms and privacy policies of the relevant sites.
 
@@ -412,8 +412,9 @@ The following paragraph is intended to provide clarity on data processing in Roc
 
 The table below explains the general distinction between the data processed in each case. It's important to remember that individual circumstances, such as apps installed on unregistered workspaces via workarounds, may vary.
 
-| Data Type | Self-Hosted | Cloud Hosted at Rocket.Chat |
+|     |     |     |
 | --- | --- | --- |
+| Data Type | Self-Hosted | Cloud Hosted at Rocket.Chat |
 | Account Data | Yes. To register your workspace via an account, | Yes. To register your workspace via an account |
 | Usage Data | Yes. As per the service you are consuming via your registration, e.g., push notifications via our gateway, | Yes. As part of using the hosted workspace on our infrastructure |
 | App Data | Yes. If you install apps from the marketplace, and based on the app's use case, third-party apps have their own privacy policies. | Yes, if you install apps from the marketplace based on their use case. Third-party apps have their own privacy policies. |
@@ -441,7 +442,7 @@ To communicate with our Data Protection Officer, please email [\[email protecte
 APPENDIX 1
 ----------
 
-### Privacy regulations framework[](#privacy-regulations-framework)
+### Privacy regulations framework
 
 Our Privacy Regulations Framework Appendix is an integral part of our Privacy Policy, which outlines the specific legal requirements that govern your privacy.
 
