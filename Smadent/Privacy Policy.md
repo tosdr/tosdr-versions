@@ -14,7 +14,7 @@ Privacy Policy for Smadent
 
 At Smadent, accessible from https://www.smadent.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Smadent and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [\[email protected\]](https://www.smadent.com/cdn-cgi/l/email-protection)
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at syedkumailhaiderkazmi@gmail.com
 
 Log Files
 ---------
@@ -80,12 +80,12 @@ Founder & CEO of Smadent: Kumail Kazmi
 ##### Have a question?
 
 * [Call us: 0346-7881472](callto:03467881472)
-* [\[email protected\]](https://www.smadent.com/cdn-cgi/l/email-protection)
+* [Mail us: support@smadent.com](mailto:support@smadent.com)
 * [Have a live meeting at Pahrianwali](#)
 
 * * *
 
-We are eagerly waiting for your kind feedback at: [\[email protected\]](https://www.smadent.com/cdn-cgi/l/email-protection)
+We are eagerly waiting for your kind feedback at: [feedback@smadent.com](mailto:feedback@smadent.com)
 
 * * *
 
