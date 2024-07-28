@@ -82,7 +82,7 @@ Sections
     * [Policy FAQs](https://www.opm.gov/policy-data-oversight/policy-faqs/)
     * [Contact Policymakers](https://www.opm.gov/policy-data-oversight/contact-policymakers/)
     * [FY 2023 Human Capital Reviews](https://www.opm.gov/policy-data-oversight/fy-2023-human-capital-reviews/)
-    * [Career Paths Guide](https://www.opm.gov/policy-data-oversight/career-paths-guide/)
+    * [Career Paths for Federal Program and Project Management Guide](https://www.opm.gov/policy-data-oversight/career-paths-for-federal-program-and-project-management-guide/)
     
 * Insurance Toggle submenu
     
