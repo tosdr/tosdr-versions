@@ -10,10 +10,10 @@
 * [For your Home](https://viewqwest.com/sg/residential/)
 * [E-Store](https://e-store.viewqwest.com/)
 
-*  [![blank](https://viewqwest.com/sg/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif) Singapore](https://viewqwest.com/sg/)
+*  [![](https://viewqwest.com/sg/wp-content/uploads/sites/4/2024/01/singapore.png) Singapore](https://viewqwest.com/sg/)
     *  [![blank](https://viewqwest.com/sg/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif) Malaysia](https://viewqwest.com/my/)
 
-*  [![blank](https://viewqwest.com/sg/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif) Singapore](https://viewqwest.com/sg/)
+*  [![](https://viewqwest.com/sg/wp-content/uploads/sites/4/2024/01/singapore.png) Singapore](https://viewqwest.com/sg/)
     *  [![blank](https://viewqwest.com/sg/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif) Malaysia](https://viewqwest.com/my/)
 
  [![blank](https://viewqwest.com/sg/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif) Log In](https://customerportal.viewqwest.com/)
