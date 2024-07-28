@@ -69,19 +69,19 @@ I'm looking for
 
 [Rice](https://www.spencers.in/catalogsearch/result/?q=Rice)
 
-[chocolates](https://www.spencers.in/catalogsearch/result/?q=chocolates)
+[oil](https://www.spencers.in/catalogsearch/result/?q=oil)
 
 [sugar](https://www.spencers.in/catalogsearch/result/?q=sugar)
 
-[urad](https://www.spencers.in/catalogsearch/result/?q=urad)
-
-[other dry fruits](https://www.spencers.in/catalogsearch/result/?q=other%20dry%20fruits)
-
 [other fresh fruits](https://www.spencers.in/catalogsearch/result/?q=other%20fresh%20fruits)
 
-[fruit vinegar gel hair color natural black dye care 500ml x 2](https://www.spencers.in/catalogsearch/result/?q=fruit%20vinegar%20gel%20hair%20color%20natural%20black%20dye%20care%20500ml%20x%202)
+[Whiskey](https://www.spencers.in/catalogsearch/result/?q=Whiskey)
 
-[100%](https://www.spencers.in/catalogsearch/result/?q=100%)
+[Wine](https://www.spencers.in/catalogsearch/result/?q=Wine)
+
+[beer](https://www.spencers.in/catalogsearch/result/?q=beer)
+
+[Potato](https://www.spencers.in/catalogsearch/result/?q=Potato)
 
 x
 
