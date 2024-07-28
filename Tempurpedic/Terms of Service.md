@@ -7,14 +7,14 @@
 * Error Please enable Javascript
     
 
- ![Hamburger navigation icon](/static/a8c7fefd/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/a8c7fefd/img/nav/x.ec10ec9cbff0.svg)
+ ![Hamburger navigation icon](/static/dff4572b/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/dff4572b/img/nav/x.ec10ec9cbff0.svg)
 
 [Tempur-Pedic Tempur-Pedic Logo](https://www.tempurpedic.com/ "Tempur-Pedic")
 =============================================================================
 
 * [ ]  Shop Toggle Shop Menu
     
-    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")
+    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")
     
 * [ ]  Explore Toggle Explore Menu
     
@@ -22,7 +22,7 @@
     
 * [Offers](https://www.tempurpedic.com/offers/ "Offers")
 
-![Rich Navigation Toggle](/static/a8c7fefd/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
+![Rich Navigation Toggle](/static/dff4572b/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
 
 Shop
 ----
@@ -43,11 +43,13 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
-Bedding](https://www.tempurpedic.com/bedding/)[![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
+Bedding](https://www.tempurpedic.com/bedding/)[Save 15%
+
+![Tempur Office Chair](https://assets-www.tempurpedic.com/media/images/368x160_NavAccessories.width-300.png)
 
 Accessories](https://www.tempurpedic.com/other-products/)
 
@@ -81,19 +83,65 @@ ProAdapt® Hybrid](https://www.tempurpedic.com/shop-mattresses/adapt-collection/
 Special Offers
 --------------
 
-[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
+[![a cloud mattress with the bag that it ships in standing up against it](https://assets-www.tempurpedic.com/media/images/Offer3MobileNavV3.original.width-300.png)
 
-###### Limited-Time Offer
+###### Ends Monday
+
+Save 30%
+
+TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/)[![Cloud pillow with sheets on top](https://assets-www.tempurpedic.com/media/images/TPUC_300GWP.width-300.png)
+
+###### Ends Monday
+
+Buy One, Get One Free
+
+Pillows & Sheets
+
+Bundles](https://www.tempurpedic.com/shop-pillows/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
+
+###### Ends Monday
+
+Buy One, Get One Free
+
+select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![Bundle And Save 300 accessories sheets and pillows](https://assets-www.tempurpedic.com/media/images/BundleAndSave_Module_1.width-300.png)
+
+###### Ends Today
+
+$300 in Free Accessories
+
+with Adapt® & Breeze® mattress purchases
+
+use code 300FREE](https://www.tempurpedic.com/shop-mattresses/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
+
+###### Ends Monday
 
 Save 40%
 
-TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
+TEMPUR-Adapt® Topper](https://www.tempurpedic.com/other-products/tempur-adapt-topper2/)[![Stack of Cloud pillows](https://assets-www.tempurpedic.com/media/images/Cloud_Pillows_SOFO.width-300.png)
+
+###### Ends Monday
+
+Save 25%
+
+select Tempur-Pedic® Pillows](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
 
 ###### Special Offer
 
 Pillow Bundles
 
-starting at 2 for $69](https://www.tempurpedic.com/pillows)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
+starting at 2 for $69](https://www.tempurpedic.com/pillows)[![two cloud adjustable pillows stacked on one another](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV4.width-300.jpg)
+
+###### Special Offer
+
+Pillow Bundles
+
+starting at 2 for $69](https://www.tempurpedic.com/pillows)[![sheet stack mobile nav offer link](https://assets-www.tempurpedic.com/media/images/Sheetshrthdf.original.width-300.png)
+
+###### Ends Monday
+
+Save 25%
+
+on premium bedding](https://www.tempurpedic.com/bedding/)[![ProAir sheet stack](https://assets-www.tempurpedic.com/media/images/ProAir.width-300.png)
 
 ###### Limited-Time Offer
 
@@ -101,7 +149,13 @@ Save 50%
 
 on TEMPUR-ProAir
 
-Sheet Set](https://www.tempurpedic.com/beddingold/tempur-proair-sheet-set/)[![Breeze Mattress on Ergo Smart Base Promo Card](https://assets-www.tempurpedic.com/media/images/Ergo_Smart_Breeze_132x88_1.width-300.png)
+Sheet Set](https://www.tempurpedic.com/beddingold/tempur-proair-sheet-set/)[![Office Chair](https://assets-www.tempurpedic.com/media/images/Offer_Tile_Image_-_Office_Chair_.width-300.png)
+
+###### Ends Monday
+
+Save 15%
+
+TEMPUR-Lumbar Support™ Office Chair](https://www.tempurpedic.com/other-products/tempur-premium-office-chair/v/3911/)[![Breeze Mattress on Ergo Smart Base Promo Card](https://assets-www.tempurpedic.com/media/images/Ergo_Smart_Breeze_132x88_1.width-300.png)
 
 ###### Special Offer
 
@@ -339,7 +393,7 @@ More Ways to Shop
 
 ​
 
-[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/a8c7fefd/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
+[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/dff4572b/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
 
 * © 2024 Tempur-Pedic North America, LLC. All Rights Reserved.
 * [Terms of Use](https://www.tempurpedic.com/customer-service/terms-of-use/ "Terms of Use")
@@ -390,19 +444,19 @@ Improve Your Shopping Experience
 You’re using an unsupported web browser.  
 A list of the most popular browsers can be found below. Just click on an icon to visit the download page.
 
-* [![Get Google Chrome](/static/a8c7fefd/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
+* [![Get Google Chrome](/static/dff4572b/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
     
       
     Google Chrome](http://www.google.com/chrome "Get Google Chrome")
-* [![Get Mozilla Firefox](/static/a8c7fefd/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
+* [![Get Mozilla Firefox](/static/dff4572b/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
     
       
     Mozilla Firefox](http://www.firefox.com/ "Get Mozilla Firefox")
-* [![Get Apple Safari](/static/a8c7fefd/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
+* [![Get Apple Safari](/static/dff4572b/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
     
       
     Apple Safari](http://www.apple.com/safari/download "Get Apple Safari")
-* [![Get Microsoft Edge](/static/a8c7fefd/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
+* [![Get Microsoft Edge](/static/dff4572b/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
     
       
     Microsoft Edge](https://www.microsoft.com/en-us/edge "Get Microsoft Edge")
