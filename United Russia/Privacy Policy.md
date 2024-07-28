@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![При поддержке «Единой России» состоялась очередная сессия «Женской политшколы»](https://cdn.er.ru/media/news/July2024/E4SfGKqrqFg2IqEdz3sj-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-sostoyalas-ocherednaya-sessiya-zhenskoj-politshkoly)
+[![Делегация «Единой России» приняла участие во встрече с Президентом Венесуэлы Николасом Мадуро](https://cdn.er.ru/media/news/July2024/fD7VqpYDNzaO3IIhkX0f-small.jpg)](https://er.ru/activity/news/delegaciya-edinoj-rossii-prinyala-uchastie-vo-vstreche-s-prezidentom-venesuely-nikolasom-maduro)
 
-[При поддержке «Единой России» состоялась очередная сессия «Женской политшколы»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-sostoyalas-ocherednaya-sessiya-zhenskoj-politshkoly)
+[Делегация «Единой России» приняла участие во встрече с Президентом Венесуэлы Николасом Мадуро](https://er.ru/activity/news/delegaciya-edinoj-rossii-prinyala-uchastie-vo-vstreche-s-prezidentom-venesuely-nikolasom-maduro)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739)
+[#Волоцков](https://er.ru/activity/news?tags%5B0%5D=28897) [#Венесуэла](https://er.ru/activity/news?tags%5B0%5D=3412) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#наблюдатели](https://er.ru/activity/news?tags%5B0%5D=2091) [#Мадуро](https://er.ru/activity/news?tags%5B0%5D=39290) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
-Сегодня 16:46
+Сегодня 17:25
 
-[![Госдума приняла в первом чтении законопроект «Единой России» об обязательном строительстве соцобъектов при комплексном развитии территорий](https://cdn.er.ru/media/news/July2024/G1VsrB4CtZVyRnEdA9Pa-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-obyazatelnom-stroitelstve-socobektov-pri-kompleksnom-razvitii-territorij)
+[![Владимир Якушев: Важно оказать жителям Челябинской области необходимую помощь](https://cdn.er.ru/media/news/July2024/4wFIHLzAy2NQWLcxHymI-small.png)](https://er.ru/activity/news/vladimir-yakushev-vazhno-okazat-zhitelyam-chelyabinskoj-oblasti-neobhodimuyu-pomosh)
 
-[Госдума приняла в первом чтении законопроект «Единой России» об обязательном строительстве соцобъектов при комплексном развитии территорий](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-obyazatelnom-stroitelstve-socobektov-pri-kompleksnom-razvitii-territorij)
+[Владимир Якушев: Важно оказать жителям Челябинской области необходимую помощь](https://er.ru/activity/news/vladimir-yakushev-vazhno-okazat-zhitelyam-chelyabinskoj-oblasti-neobhodimuyu-pomosh)
 
-[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#соцобъекты](https://er.ru/activity/news?tags%5B0%5D=6180) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#ЧС](https://er.ru/activity/news?tags%5B0%5D=2991) [#подтопление](https://er.ru/activity/news?tags%5B0%5D=9294) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
 
-Сегодня 15:19
+27.07.24
 
-[![Бюро Высшего совета «Единой России» подготовит предложения для нацпроекта «Кадры»](https://cdn.er.ru/media/news/July2024/e0V66IoJFZrkakyMaD7s-small.JPG)](https://er.ru/activity/news/byuro-vysshego-soveta-edinoj-rossii-podgotovit-predlozheniya-dlya-nacproekta-kadry)
+[![Депутаты от «Единой России» примут участие в наблюдении за выборами в Венесуэле](https://cdn.er.ru/media/news/July2024/BGspipBYgfq08bqSl5dW-small.jpg)](https://er.ru/activity/news/deputaty-ot-edinoj-rossii-primut-uchastie-v-nablyudenii-za-vyborami-v-venesuele)
 
-[Бюро Высшего совета «Единой России» подготовит предложения для нацпроекта «Кадры»](https://er.ru/activity/news/byuro-vysshego-soveta-edinoj-rossii-podgotovit-predlozheniya-dlya-nacproekta-kadry)
+[Депутаты от «Единой России» примут участие в наблюдении за выборами в Венесуэле](https://er.ru/activity/news/deputaty-ot-edinoj-rossii-primut-uchastie-v-nablyudenii-za-vyborami-v-venesuele)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#БюроВысшегосовета](https://er.ru/activity/news?tags%5B0%5D=129758) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231)
+[#делегация](https://er.ru/activity/news?tags%5B0%5D=141395) [#наблюдатели](https://er.ru/activity/news?tags%5B0%5D=2091) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#Венесуэла](https://er.ru/activity/news?tags%5B0%5D=3412) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-Сегодня 15:02
+27.07.24
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о защите прав детей и родителей при покупке жилья с использованием маткапитала](https://cdn.er.ru/media/news/July2024/kebwGYZguBXP7qNIiSxq-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+[![«Единая Россия» и МГЕР помогают пострадавшим в зоне подтопления в Челябинской области](https://cdn.er.ru/media/news/July2024/teFdesIiOdx3dWjRQqUP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-v-zone-podtopleniya-v-chelyabinskoj-oblasti)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о защите прав детей и родителей при покупке жилья с использованием маткапитала](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+[«Единая Россия» и МГЕР помогают пострадавшим в зоне подтопления в Челябинской области](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-v-zone-podtopleniya-v-chelyabinskoj-oblasti)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#материнскийкапитал](https://er.ru/activity/news?tags%5B0%5D=113800) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#подтопление](https://er.ru/activity/news?tags%5B0%5D=9294) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-Сегодня 14:44
+27.07.24
 
-[![Сергей Пахомов: «Единая Россия» усовершенствует механизм комплексного развития территорий для обеспечения регионов соцобъектами при строительстве жилья](https://cdn.er.ru/media/news/July2024/rXiXT80IPotWeHTMcIOp-small.jpg)](https://er.ru/activity/news/sergej-pahomov-edinaya-rossiya-usovershenstvuet-mehanizm-kompleksnogo-razvitiya-territorij-dlya-obespecheniya-regionov-socobektami-pri-stroitelstve-zhilya)
+[![В День памяти детей-жертв войны на Донбассе «Единая Россия» провела памятные акции по всей стране](https://cdn.er.ru/media/news/July2024/4GKOcLLk7IdB2QLQ38HP-small.JPG)](https://er.ru/activity/news/v-den-pamyati-detej-zhertv-vojny-na-donbasse-edinaya-rossiya-provela-pamyatnye-akcii-po-vsej-strane)
 
-[Сергей Пахомов: «Единая Россия» усовершенствует механизм комплексного развития территорий для обеспечения регионов соцобъектами при строительстве жилья](https://er.ru/activity/news/sergej-pahomov-edinaya-rossiya-usovershenstvuet-mehanizm-kompleksnogo-razvitiya-territorij-dlya-obespecheniya-regionov-socobektami-pri-stroitelstve-zhilya)
+[В День памяти детей-жертв войны на Донбассе «Единая Россия» провела памятные акции по всей стране](https://er.ru/activity/news/v-den-pamyati-detej-zhertv-vojny-na-donbasse-edinaya-rossiya-provela-pamyatnye-akcii-po-vsej-strane)
 
-[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=77108) [#строительствосоцобъектов](https://er.ru/activity/news?tags%5B0%5D=138955)
+[#Приморский край](https://er.ru/activity/news?tags%5B0%5D=771) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233) [#Кемеровская область](https://er.ru/activity/news?tags%5B0%5D=762) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Красноярский край](https://er.ru/activity/news?tags%5B0%5D=1703) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ляхов](https://er.ru/activity/news?tags%5B0%5D=2151) [#Щербаков](https://er.ru/activity/news?tags%5B0%5D=23950) [#ДеньпамятидетейДонбасса](https://er.ru/activity/news?tags%5B0%5D=1092978) [#траур](https://er.ru/activity/news?tags%5B0%5D=205) [#Удмуртская Республика](https://er.ru/activity/news?tags%5B0%5D=1090585) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Мурманская область](https://er.ru/activity/news?tags%5B0%5D=1927)
 
-Сегодня 11:17
+26.07.24
 
-[![Ольга Занко: В шахматной неделе Всероссийского спортивного марафона «Сила России» приняли участие более 31 тысячи человек](https://cdn.er.ru/media/news/July2024/i8kfZcpO1cAHQCJtHsgC-small.jpg)](https://er.ru/activity/news/olga-zanko-v-shahmatnoj-nedele-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-bolee-31-tysyachi-chelovek)
+[![Владимир Якушев: «Единая Россия» продолжит поддержку волонтёрства](https://cdn.er.ru/media/news/July2024/ZFScahacVJfvTj0aj8HF-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-volontyorstva)
 
-[Ольга Занко: В шахматной неделе Всероссийского спортивного марафона «Сила России» приняли участие более 31 тысячи человек](https://er.ru/activity/news/olga-zanko-v-shahmatnoj-nedele-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-bolee-31-tysyachi-chelovek)
+[Владимир Якушев: «Единая Россия» продолжит поддержку волонтёрства](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-volontyorstva)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#шахматы](https://er.ru/activity/news?tags%5B0%5D=3005) [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#Всероссийский спортивный марафон](https://er.ru/activity/news?tags%5B0%5D=1094396) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Курганская область](https://er.ru/activity/news?tags%5B0%5D=957) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365)
 
-24.07.24
+26.07.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
