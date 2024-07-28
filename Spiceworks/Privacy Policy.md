@@ -72,7 +72,7 @@ Opens a new window](http://privacy.truste.com/privacy-seal/validation?rid=ce2113
 
 Spiceworks, Inc. and its affiliates (“Spiceworks”) delivers trusted content and tools that help consumers, small businesses and enterprises decide and act on important technology decisions.  Spiceworks values your privacy and is committed to protecting the privacy of your information.
 
-This Privacy Policy (or “policy”) describes how Spiceworks uses the personal information you provide and the rights you have. We have created this [Privacy Portal](https://dsar.spiceworks.com/) to help you exercise your rights.
+This Privacy Policy (or “policy”) describes how Spiceworks uses the personal information you provide and the rights you have. We have created this [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") to help you exercise your rights.
 
 1. [Privacy Policy Overview](#overview)
 2. [Information We Collect, Receive and Create About You](#information-about-you)
@@ -101,7 +101,7 @@ Spiceworks owns, operates several interactive websites, mobile and connected app
 This policy covers information collected through Spiceworks and its affiliates listed as follows:
 
 1. [Aberdeen Strategy and ResearchOpens a new window](https://www.aberdeen.com/ "Opens a new window")
-2. [Spiceworks, Inc.](https://www.spiceworks.com/) and Spiceworks Cloud Help Desk (Mobile App) (Please see here for [FAQs](https://community.spiceworks.com/support/help-desk-cloud-edition/docs#faq))
+2. [Spiceworks, Inc.](https://www.spiceworks.com/) and Spiceworks Cloud Help Desk (Mobile App) (Please see here for [FAQsOpens a new window](https://community.spiceworks.com/support/help-desk-cloud-edition/docs#faq "Opens a new window") )
 3. [Spiceworks Ziff Davis (SWZD)Opens a new window](http://swzd.com/ "Opens a new window")
 4. [B2B IdeasOpens a new window](https://www.b2bideas.com/ "Opens a new window")
 5. [ITResearchOnlineOpens a new window](https://www.itresearchonline.com/ "Opens a new window")
@@ -112,7 +112,7 @@ This policy covers information collected through Spiceworks and its affiliates l
 
 Within Spiceworks, our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity, and security of the personal information of our customers, and want you to know how we protect your information submitted or collected through your use of our service.
 
-Our Tools and Apps include Cloud Helpdesk, Connectivity Dashboard, Inventory Online, and Vendor Contracts. For a complete list, please review [https://community.spiceworks.com/tools](https://community.spiceworks.com/tools).
+Our Tools and Apps include Cloud Helpdesk, Connectivity Dashboard, Inventory Online, and Vendor Contracts. For a complete list, please review [https://community.spiceworks.com/tools](https://community.spiceworks.com/tools "Opens a new window").
 
 In part, the purpose of this policy is to notify users of Spiceworks’ policies and practices with respect to their data. By using the services provided you have agreed to the [Terms of Use](https://www.spiceworks.com/terms/) (or ToU); and this policy is a part of the ToU.
 
@@ -143,7 +143,7 @@ We may Process the following categories of Personal Information about you.
 | **Categories of personal information collected (see below for more details)** | **Purpose of Processing** **\_\_\_\_\_\_\_\_\_** **_Legal Basis_** | **Retention Period** |
 | --- | --- | --- |
 | **Account Information (Personal Details):** your name; postal address; telephone and/or mobile number; email address; employer; username or log in details; password; your public social media handles or profile(s); This information is focused on your professional informtion. | To provide use of our services as agreed in the ToU. _\_\_\_\_\_\_\_\_\_\__ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
-| **App Data.** For more information about a particular App or Tool and the data it collects, please visit [here.](https://community.spiceworks.com/support/security-center/data-collection#cloud-help-desk) Please note,we may collect information from third-party apps such as the SpiceWorld app hosted on the cVent platform**.** | Maintain and improve service standards \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **App Data.** For more information about a particular App or Tool and the data it collects, please visit [here.Opens a new window](https://community.spiceworks.com/support/security-center/data-collection#cloud-help-desk "Opens a new window") Please note,we may collect information from third-party apps such as the SpiceWorld app hosted on the cVent platform**.** | Maintain and improve service standards \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Audio, Video, and Other Electronic Data:** audio, electronic, visual, or similar information such as photographs, video submissions and call recordings. | Promote user expression through our services and to conduct contests and rewards. \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Consent Records:** records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent). | Comply with applicable laws and regulations and users’ choices. _\_\_\_\_\_\_\_\_\_\_\__ _Legal Requirement_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Customer Records:** electronic customer records containing personal information, such as name, signature, address, telephone number, or any financial information. | To maintain service standards and provide users with the ability to communicate efficiently and effectively with our company. \_\_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | Customer records will be kept in accordance with applicable laws. |
@@ -170,7 +170,7 @@ We do not seek to collect or process other sensitive personal information, such 
 **5\. Direct Marketing**
 ------------------------
 
-We may use the contact details you provided us to reach out to you with information regarding services that may be of interest to you, for example, upcoming promotions. You may unsubscribe from the Spiceworks newsletter and email lists at any time by following the unsubscribe instructions included in every email we send or you can manage your email subscriptions at any time by editing your personal [profile](https://community.spiceworks.com/profile/subscriptions). We will not send you any emails from a list you unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of other Services you have requested or for additional emails you have signed up for.
+We may use the contact details you provided us to reach out to you with information regarding services that may be of interest to you, for example, upcoming promotions. You may unsubscribe from the Spiceworks newsletter and email lists at any time by following the unsubscribe instructions included in every email we send or you can manage your email subscriptions at any time by editing your personal [profile](https://community.spiceworks.com/profile/subscriptions "Opens a new window"). We will not send you any emails from a list you unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of other Services you have requested or for additional emails you have signed up for.
 
 **6\. Behavioral Advertising**
 ------------------------------
@@ -189,7 +189,7 @@ Some third parties may choose to use their own cookies for the purposes of colle
 
 **Ziff Davis Companies:** Spiceworks is owned by Ziff Davis Inc, a holding company which owns many brands in the areas of technology, shopping, entertainment, health, parenting, and connectivity. We share your information with other businesses owned by Ziff Davis, Inc. ( “Ziff Davis Companies”) to assist us in the operation of our services, improve them, and further develop them.
 
-We also share information with other Ziff Davis Companies for the purposes of targeted advertising. If you would like to opt out of the sale or sharing of your data with other Ziff Davis Companies, you can do so via our [Privacy Portal](https://dsar.spiceworks.com/).   
+We also share information with other Ziff Davis Companies for the purposes of targeted advertising. If you would like to opt out of the sale or sharing of your data with other Ziff Davis Companies, you can do so via our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .   
 
 **Other Third Parties:** We may also share your personal information with the following:
 
@@ -217,9 +217,9 @@ Spiceworks and its associated affiliates and subsidiaries complies with the EU-U
 
 We are committed to staying current with developments related to the Data Privacy Framework and may update our transfer mechanisms and safeguards as necessary to remain compliant. Any updates will be reflected in this Privacy Policy.
 
-If you are a European individual with a privacy related complaint, concern or question about Spiceworks’ privacy practices, please contact us through our [DSAR Portal](https://dsar.spiceworks.com/). Under certain conditions, more fully described on the Data Privacy Framework website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+If you are a European individual with a privacy related complaint, concern or question about Spiceworks’ privacy practices, please contact us through our [DSAR PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") . Under certain conditions, more fully described on the Data Privacy Framework website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Where we transfer your personal information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR Portal](https://dsar.spiceworks.com/). Please note that when you transfer any personal information directly to an entity established outside the EEA, we are not responsible for that transfer of your information. We will nevertheless process your information, from the point at which we receive the data, in accordance with the provisions of this policy.
+Where we transfer your personal information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") . Please note that when you transfer any personal information directly to an entity established outside the EEA, we are not responsible for that transfer of your information. We will nevertheless process your information, from the point at which we receive the data, in accordance with the provisions of this policy.
 
 **Enforcement Authority**The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 
@@ -240,7 +240,7 @@ Our privacy practices described in this Policy comply with the Asia-Pacific Econ
 
 We implement appropriate technical and organizational security measures to protect your personal information against unlawful destruction, loss alteration, misuse, or unauthorized access while in our possession. All parties we contract with must agree to provide reasonable data security measures for the customer information we share with them, in compliance with applicable laws and regulations.
 
-If we learn of a security breach that affects our users, we may send an email or other direct communication to you, or post a blog to notify the public on our Help and Support Security Center. If you have any reason to believe that your data with us has been compromised (for example, there has been unauthorized access to your account), please contact us at  [privacy@spiceworks.com](mailto:privacy@spiceworks.com).
+If we learn of a security breach that affects our users, we may send an email or other direct communication to you, or post a blog to notify the public on our Help and Support Security Center. If you have any reason to believe that your data with us has been compromised (for example, there has been unauthorized access to your account), please contact us at  [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window").
 
 **11\. Data Retention**
 -----------------------
@@ -255,26 +255,26 @@ Many privacy regulations afford consumers a number of specific rights. The EEA, 
 **Your rights:** 
 
 * **Right to Withdraw Consent**: Where you are requested to consent to the processing of your personal information, you have the right to withdraw your consent at any time.
-* **Right to Know:** You have a right to know what personal information we collect, process, and share or sell. This policy is meant to provide transparency with regard to your data. If you have additional questions, you can email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com).
+* **Right to Know:** You have a right to know what personal information we collect, process, and share or sell. This policy is meant to provide transparency with regard to your data. If you have additional questions, you can email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window").
 * **Right of Access**: You can request a copy of the personal information we have collected about you from us.
-* **Right to Delete/Erase**: You can request us to delete all the information we have collected about you. It is important to note that by exercising your right to deletion you may lose access to your account and any purchases, points or features associated with it. If you wish to cancel your account you may reach us as [community@spiceworks.com](mailto:community@spiceworks.com) or to request that we no longer use some or all of your information to provide you services, contact us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "privacy@spiceworks.com").
+* **Right to Delete/Erase**: You can request us to delete all the information we have collected about you. It is important to note that by exercising your right to deletion you may lose access to your account and any purchases, points or features associated with it. If you wish to cancel your account you may reach us as [community@spiceworks.com](mailto:community@spiceworks.com "Opens a new window") or to request that we no longer use some or all of your information to provide you services, contact us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "privacy@spiceworks.com").
 * **Right to Request Rectification**: If you find that any of your information that we are processing is inaccurate, you can contact us to have your information corrected. In response, we will cancel or remove your information but may retain and use copies of your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. For certain requests, we may require additional information.
-* **Right to Opt-out of the Sale or Sharing for Targeted Ads**: Under some circumstances we may sell or share the personal data you provide to us to provide ads to you that align with your interests. If you would prefer not to have your data sold or shared, you can opt-out of selling or sharing by submitting a request via [Privacy Portal](https://dsar.spiceworks.com/) or by emailing [privacy@spiceworks.com](mailto:privacy@spiceworks.com). We may ask for additional information to verify your request.
-* **Right to Object to the Processing**: You can object to our processing of your personal information via our [Privacy Portal](http://dsar.spiceworks.com/), under certain circumstances. By objecting to processing, you may not be able to access some or all of our services. This right is limited to personal data processed for commercial purposes.
+* **Right to Opt-out of the Sale or Sharing for Targeted Ads**: Under some circumstances we may sell or share the personal data you provide to us to provide ads to you that align with your interests. If you would prefer not to have your data sold or shared, you can opt-out of selling or sharing by submitting a request via [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") or by emailing [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window"). We may ask for additional information to verify your request.
+* **Right to Object to the Processing**: You can object to our processing of your personal information via our [Privacy PortalOpens a new window](http://dsar.spiceworks.com/ "Opens a new window") , under certain circumstances. By objecting to processing, you may not be able to access some or all of our services. This right is limited to personal data processed for commercial purposes.
 * **Right to Object to the Use of Sensitive Personal Information**: You have the right to object to our use of your sensitive personal information. Sensitive personal information is information about your health, race, religion, sexual orientation, gender identity, political opinions or philosophical beliefs. You should always be mindful about the personal information you share online, especially when it is sensitive in nature.
 * **Right to Object to Automated Processing:** You have a right to object to the processing of your data for the purposes of automated decision making about you.
 * **Right to Complain (EU,UK, Switzerland):** Should you wish to raise a complaint about the collection or use of your information, you have the right to do so without prejudice to any other rights you may have. You may lodge a complaint with your local data protection authority.
 * **Right to not be Discriminated Against:** You have a right to not be discriminated against by ZMG for exercising your rights.
 * **Right to an Authorized Agent (CA):** If you would like to make a request on behalf of a California consumer who is a current or former customer, please provide an email from the email address we have on file for the customer authorizing the request. You may also make a request under the California Consumer Privacy Act on behalf of a California consumer if you provide (1) a signed, written permission from the consumer to act on your behalf, and the consumer verifies their own identity directly with us; or (2) proof that the consumer has provided you with power of attorney pursuant to Probate Code sections 4000 to 4465. We may deny a request from an agent that does not submit proof that they have been authorized by the consumer to act on their behalf.
 
-In order to make privacy requests please visit our [Privacy Portal](https://dsar.spiceworks.com/) and fill out the form. You can also email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com). Our contact information can be found in the “Contact Details” section below.
+In order to make privacy requests please visit our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") and fill out the form. You can also email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window"). Our contact information can be found in the “Contact Details” section below.
 
 You may be required to verify your identity before we can give effect to these rights. If you are making a request on behalf of a user, we require a signed authorization letter from the consumer. 
 
 **13\. How to Change Your Preferences**
 ---------------------------------------
 
-_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account, contacting us through our [Privacy Portal](https://dsar.spiceworks.com/), or emailing us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com), regardless of your citizenship or location. We will respond to your request within a reasonable timeframe.
+_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account, contacting us through our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") , or emailing us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window"), regardless of your citizenship or location. We will respond to your request within a reasonable timeframe.
 
 _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list. If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
@@ -288,9 +288,9 @@ _Location Based Services_. You may opt-out of having your Precise Location Data 
 
 _California Residents_. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 14 below.
 
-_EU Residents_. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [Privacy Portal](https://dsar.spiceworks.com/). If you have any further questions upon receipt of your completed DSAR or if you would like to appeal in case your DSAR is denied, please resubmit a DSAR request using the DSAR form at [Privacy Portal](https://dsar.spiceworks.com/) and indicate it is an appeal, or email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com). If you are an EU resident and have any unresolved privacy concern, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+_EU Residents_. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") . If you have any further questions upon receipt of your completed DSAR or if you would like to appeal in case your DSAR is denied, please resubmit a DSAR request using the DSAR form at [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") and indicate it is an appeal, or email us at [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window"). If you are an EU resident and have any unresolved privacy concern, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
-_Contact and Complaints._ If you are in the UK or EEA, you have the right to make a complaint to the relevant supervisory authority in your country, the details of which are available via the links below. We would, however, appreciate the chance to deal with your concerns before you approach a supervisory authority, so please contact us in the first instance. Questions, comments and requests regarding this Privacy Policy are welcomed and may be addressed by (i) writing to us via the contact details set out in Section 14 below; or, (ii) email to [privacy@spiceworks.com](mailto:privacy@spiceworks.com) with the words “FAO: the Legal Department” at the start of the message or directly to our DPO, who can be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com).
+_Contact and Complaints._ If you are in the UK or EEA, you have the right to make a complaint to the relevant supervisory authority in your country, the details of which are available via the links below. We would, however, appreciate the chance to deal with your concerns before you approach a supervisory authority, so please contact us in the first instance. Questions, comments and requests regarding this Privacy Policy are welcomed and may be addressed by (i) writing to us via the contact details set out in Section 14 below; or, (ii) email to [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window") with the words “FAO: the Legal Department” at the start of the message or directly to our DPO, who can be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window").
 
 * UK: [**www.ico.org.uk**Opens a new window](https://ico.org.uk/ "Opens a new window")
 * EEA: [**https://edpb.europa.eu/about-edpb/about-edpb/members\_en.**Opens a new window](https://edpb.europa.eu/about-edpb/about-edpb/members_en "Opens a new window")
@@ -298,7 +298,7 @@ _Contact and Complaints._ If you are in the UK or EEA, you have the right to mak
 **14\. Contact Details**
 ------------------------
 
-You may contact us at the addresses set out below or by emailing [privacy@spiceworks.com](mailto:privacy@spiceworks.com).
+You may contact us at the addresses set out below or by emailing [privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window").
 
 Ziff Davis
 
@@ -308,7 +308,7 @@ Attention: Legal Department
 
 New York, NY 10011
 
-If you are an EU resident, you may contact our Data Protection Officer at [dpo@spiceworks.com](mailto:dpo@spiceworks.com) or submit GDPR related inquiries to our [Privacy Portal](https://dsar.spiceworks.com/).
+If you are an EU resident, you may contact our Data Protection Officer at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window") or submit GDPR related inquiries to our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .
 
 If you have any comments, questions or concerns about any of the information in this Privacy Policy, or any other issues relating to the processing of your personal information carried out by us, or on our behalf, please contact:
 
@@ -320,9 +320,9 @@ Attention: Legal Department
 
 New York, NY 10011
 
-[privacy@spiceworks.com](mailto:privacy@spiceworks.com)
+[privacy@spiceworks.com](mailto:privacy@spiceworks.com "Opens a new window")
 
-Our Data Protection Officer may be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com). To exercise your privacy rights, please use our [Privacy Portal](https://dsar.spiceworks.com/).
+Our Data Protection Officer may be contacted at [dpo@spiceworks.com](mailto:dpo@spiceworks.com "Opens a new window"). To exercise your privacy rights, please use our [Privacy PortalOpens a new window](https://dsar.spiceworks.com/ "Opens a new window") .
 
 **15\. Children**
 
