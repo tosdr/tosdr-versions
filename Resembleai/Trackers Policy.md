@@ -1,3 +1,5 @@
+     
+
  [![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.png) ![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.webp)](https://www.resemble.ai/)
 ===============================================================================================================================================================================================================================
 
@@ -46,6 +48,11 @@
     Crayola Adventures with Red Games
     
     2024 Apple Design Award Winning Game](https://www.resemble.ai/how-red-games-used-realtime-dynamic-interactive-ai-voices-in-crayola-adventures/)
+* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+    
+    Fabler Transformed Bedtime for 1000’s of Children
+    
+    AI-powered bedtime stories for kids.](http://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
 
 * Detect
     
@@ -67,7 +74,7 @@
     
     Identity
     
-    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity)
+    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity/)
 * [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
     
     Reports
@@ -191,6 +198,11 @@ Use our Generative Voice AI models that are indistinguishable from humans
     Crayola Adventures with Red Games
     
     2024 Apple Design Award Winning Game](https://www.resemble.ai/how-red-games-used-realtime-dynamic-interactive-ai-voices-in-crayola-adventures/)
+* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+    
+    Fabler Transformed Bedtime for 1000’s of Children
+    
+    AI-powered bedtime stories for kids.](http://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
 
 State of the Art Detection Models
 
@@ -213,7 +225,7 @@ We’ve dedicated years towards building AI models that aid in the safe deployme
     
     Identity
     
-    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity)
+    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity/)
 * [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
     
     Reports
@@ -273,8 +285,6 @@ Read about the latest product and research advancements on Generative Voice.
     Blog
     
     Case Studies and Development Thoughts from our team.](https://www.resemble.ai/blog/)
-
-  Cookie Policy | Resemble AI                                                                           
 
 Cookies consist of portions of code installed in the browser that assist the Owner in providing the Service according to the purposes described. Some of the purposes for which Cookies are installed may also require the User’s consent.
 
@@ -400,11 +410,15 @@ SUPPORT
 
 [Terms of Service](https://www.resemble.ai/terms-of-service/)
 
+[Helpdesk](https://help.resemble.ai/en/)
+
+[Data Breach Policy](https://www.resemble.ai/data-breach-policy/)
+
 platform
 
 [AI Voice Marketplace](https://www.resemble.ai/marketplace/)
 
-AI Watermarker
+[AI Watermarker](https://www.resemble.ai/watermarker/)
 
 [Conversational AI Assistants](https://www.resemble.ai/conversational-voice-ai-bots/)
 
@@ -422,11 +436,15 @@ AI Watermarker
 
 [Text Generation](https://www.resemble.ai/gpt-3/)
 
-AI Voice Cloning
+[AI Voice Cloning](https://www.resemble.ai/voice-cloning/)
 
-Speech Enhancement
+[Speech Enhancement](https://www.resemble.ai/enhance/)
 
-Comparisons
+[Comparisons](https://www.resemble.ai/compare/)
+
+[Free Deepfake Detector](https://www.resemble.ai/free-deepfake-detector/)
+
+[Use Cases](https://www.resemble.ai/use-cases/)
 
 developers
 
