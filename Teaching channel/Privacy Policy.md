@@ -540,7 +540,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
-                                          
+                                       
 
 What are you looking for?
 
