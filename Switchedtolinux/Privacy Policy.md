@@ -52,14 +52,14 @@ It looks like this page is not here...someone ran a command!
 ### Affiliates
 
 * [Nord VPN](https://tlm.li/nord)
-* [Namecheap](https://tlm.li/nc)
-* [In Motion Hosting](https://tlm.li/imh)
-* [A2Hosting](https://tlm.li/a2h)
 * [ProWritingAid](https://tlm.li/pwa)
-* [Mint Mobile](http://fbuy.me/ooPje)
+* [A2Hosting](https://tlm.li/a2h)
+* [Namecheap](https://tlm.li/nc)
 * [Amazon](http://amzn.to/2oFr4Wa)
-* [Digital Ocean](https://tlm.li/doh)
+* [In Motion Hosting](https://tlm.li/imh)
 * [Siteground](https://tlm.li/sgh)
+* [Mint Mobile](http://fbuy.me/ooPje)
+* [Digital Ocean](https://tlm.li/doh)
 
 ### Support Sites
 
