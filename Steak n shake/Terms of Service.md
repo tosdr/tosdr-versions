@@ -1,7 +1,7 @@
 [![steaknshake-logo](https://www.steaknshake.com/wp-content/uploads/2017/07/steaknshake-logo.png)](https://www.steaknshake.com/) 
 
 * [MENU](#)
-    * [PRINTABLE MENU](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2024/01/12054927/SNS_National-_January2024_No_Price-1c1bedb4c87ac6253370496a6f48f0fca86741e08aa59f20a03ba916949936fa5-1.pdf)
+    * [PRINTABLE MENU](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2024/07/25074429/SNS_National-_July2024_No_Price-Kettle-1.pdf)
     * [NUTRITION FACTS](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2023/03/03144417/Nutrition-Facts_03.03.23.pdf)
     * [INGREDIENTS & ALLERGENS LIST](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2023/03/03224032/2023-SNS-Allergen-Ingredient-Information.pdf)
 * [SPECIALS](#)
