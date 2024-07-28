@@ -7,7 +7,7 @@
     * [Annual Report and Financial Accountability](https://www.samaritanspurse.ca/annual-report-and-financial-accountability/)
     * [Contact Us](https://www.samaritanspurse.ca/contact-us/)
 * [WHAT WE DO](#)
-    * [Project Initiatives](#)
+    * [MINISTRY PROJECTS](#)
         * [Animals, Agriculture & Livelihoods](https://www.samaritanspurse.ca/what-we-do/animals-agriculture-livelihoods/)
         * [Canadian Disaster Relief](https://www.samaritanspurse.ca/what-we-do/canadian-disaster-relief)
         * [Health & Medical Ministries](https://www.samaritanspurse.ca/what-we-do/health-medical-ministries/)
@@ -19,6 +19,7 @@
         * [World Medical Mission](https://www.samaritanspurse.ca/getinvolved/world-medical-mission/)
     
     * [CURRENT RESPONSES](#)
+        * [Jasper Wildfire Response](https://www.samaritanspurse.ca/article/rushing-help-to-jasper-wildfire-evacuees/)
         * [Minnesota Flood Response​](https://www.samaritanspurse.ca/article/minnesota-floods/)
         * [Hurricane Beryl Response](https://www.samaritanspurse.ca/hurricane-beryl)
         * [Ukraine Response](https://www.samaritanspurse.ca/single-donation/samaritans-purse-ready-to-help-fleeing-ukrainians/)
@@ -208,7 +209,7 @@ Who We Are
 
 After sharing the story of the Good Samaritan, Jesus said “Go and do likewise.” That is the mission of Samaritan's Purse—to follow the example of Christ by helping those in need and proclaiming the hope of the Gospel.
 
-[](http://www.facebook.com/samaritanspurse.ca)[](http://twitter.com/SPCanada)[](http://www.instagram.com/spcanada/)[](http://www.youtube.com/user/samaritanspursecan/featured)[](http://www.pinterest.com/spcanada)
+[](http://www.facebook.com/samaritanspurse.ca)[](https://x.com/SPCanada)[](http://www.instagram.com/spcanada/)[](http://www.youtube.com/user/samaritanspursecan/featured)[](http://www.pinterest.com/spcanada)
 
 © Copyright 2024 Samaritan's Purse Canada. All rights reserved.  
   
