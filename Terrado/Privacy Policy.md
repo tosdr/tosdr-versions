@@ -46,13 +46,13 @@ Main Menu
     ##### SOLUTIONS-BASED COURSES
     
     * [Collaborative Negotiation for Climate Action ENROLLMENTS CLOSING SOON](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
-    * [Sustainable Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
     * [Digital Product Decarbonization](https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/)
     * [Supply Chain Decarbonization](https://www.terra.do/climate-change-courses/supply-chain-decarbonization/)
     * [Software for Climate](https://www.terra.do/climate-change-courses/software-for-climate/)
     * [Carbon Removal Technologies and Risks](https://www.terra.do/climate-change-courses/carbon-removal-technologies-risks/)
     * [Climate Farm School ON FARM](https://www.terra.do/climate-change-courses/climate-farm-school-regenerative-agriculture/)
     * [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
+    * [Sustainable Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
     * [Angel Investing in Climate Tech](https://www.terra.do/climate-change-courses/angel-investing-in-climate-tech/)
     * [Energy Decarbonization Pathways and Tools](https://www.terra.do/climate-change-courses/clean-energy-transitions-101/)
     * [Soil Health and Regenerative Farming](https://www.terra.do/climate-change-courses/soil-health-and-regenerative-farming/)
