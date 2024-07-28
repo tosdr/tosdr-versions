@@ -6,11 +6,11 @@
 * Marketplace
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=eu_677832&lang=en&country=GB&device=desktop)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=eu_677832&lang=en&country=GB&device=desktop)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=eu_761534&lang=en&country=GB&device=desktop)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=eu_761534&lang=en&country=GB&device=desktop)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=eu_677832&lang=en&country=GB&device=desktop)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=eu_677832&lang=en&country=GB&device=desktop)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=eu_761534&lang=en&country=GB&device=desktop)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=eu_761534&lang=en&country=GB&device=desktop)
 
 Smartcat legal
 
@@ -292,11 +292,11 @@ Please note that you are not obligated to provide us with your personal data com
 
 [Product Tour](https://www.smartcat.com/product-tour/)[Why Smartcat](https://www.smartcat.com/why-smartcat/)[Enterprise](https://www.smartcat.com/enterprise/)[For Vendors](https://www.smartcat.com/suppliers/)[Pricing](https://www.smartcat.com/pricing/)
 
-Product[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/organizations/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)Solutions by role[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)Solutions by goal[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)Resources[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://www.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)Company[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)
+Product[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)Solutions by role[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)Solutions by goal[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/ecommerce-translation/)Resources[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://www.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)Company[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)
 
 Product
 
-[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/organizations/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)
+[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)
 
 Solutions by role
 
@@ -304,7 +304,7 @@ Solutions by role
 
 Solutions by goal
 
-[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)
+[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/ecommerce-translation/)
 
 Resources
 
