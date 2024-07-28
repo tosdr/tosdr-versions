@@ -46,4 +46,4 @@ Logo info can be found at [/logo](https://vern.cc/logo)
 
 Find the source code for this website on [~vern Git](https://git.vern.cc/vern/website)
 
-Commit Details: [12a3afe-2024-07-07 06:46:08 -0400](https://git.vern.cc/vern/website/commit/12a3afe9905278c32aab28b685b93159219dc6ab)
+Commit Details: [7ee2e55-2024-07-28 16:59:27 -0400](https://git.vern.cc/vern/website/commit/7ee2e55603f62eeab9eb2b72ebddf6754d3b9fa7)
