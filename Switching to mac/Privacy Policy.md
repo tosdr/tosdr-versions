@@ -34,7 +34,7 @@ Our Network
 * [Online Tech Tips](https://www.online-tech-tips.com/)
 * [Help Desk Geek](https://helpdeskgeek.com/)
 * [The Back Room Tech](https://thebackroomtech.com/)
-* [AK Internet Consulting, Inc.](http://akinternetconsulting.com/)
+* [AK Internet Consulting, Inc.](https://akinternetconsulting.com/)
 
 About Us
 
@@ -162,10 +162,10 @@ We use a third party to provide monetization technologies for our site. You can 
 
 #### Recent Articles
 
-* [![](https://www.switchingtomac.com/wp-content/uploads/2022/06/iphone-1-130x85.jpg)](https://www.switchingtomac.com/how-to-add-or-change-the-photo-widget-on-iphone/ "How to Add or Change the Photo Widget on iPhone")[How to Add or Change the Photo Widget on iPhone](https://www.switchingtomac.com/how-to-add-or-change-the-photo-widget-on-iphone/ "How to Add or Change the Photo Widget on iPhone")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2020/05/iphone-battery-yellow-featured-130x85.png)](https://www.switchingtomac.com/why-is-my-iphone-battery-yellow-an-explanation-how-to-fix-it/ "Why Is My iPhone Battery Yellow – An Explanation & How To Fix It")[Why Is My iPhone Battery Yellow – An Explanation & How To Fix It](https://www.switchingtomac.com/why-is-my-iphone-battery-yellow-an-explanation-how-to-fix-it/ "Why Is My iPhone Battery Yellow – An Explanation & How To Fix It")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2022/04/icloud-keychain-130x85.jpeg)](https://www.switchingtomac.com/how-to-export-and-backup-keychain-passwords-on-mac/ "How to Export and Backup Keychain Passwords on Mac")[How to Export and Backup Keychain Passwords on Mac](https://www.switchingtomac.com/how-to-export-and-backup-keychain-passwords-on-mac/ "How to Export and Backup Keychain Passwords on Mac")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2023/02/preview-media-01-Title-Image-130x85.jpeg)](https://www.switchingtomac.com/live-wallpaper-not-working-on-iphone-try-these-7-fixes/ "Live Wallpaper Not Working On iPhone? Try These 7 Fixes")[Live Wallpaper Not Working On iPhone? Try These 7 Fixes](https://www.switchingtomac.com/live-wallpaper-not-working-on-iphone-try-these-7-fixes/ "Live Wallpaper Not Working On iPhone? Try These 7 Fixes")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2022/12/preview-media-01-Title-Image-130x85.jpg)](https://www.switchingtomac.com/how-to-upload-your-music-to-apple-music/ "How to Upload Your Music to Apple Music")[How to Upload Your Music to Apple Music](https://www.switchingtomac.com/how-to-upload-your-music-to-apple-music/ "How to Upload Your Music to Apple Music")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2021/02/1-Title-Image-1-130x85.jpg)](https://www.switchingtomac.com/macbook-not-charging-5-possible-fixes/ "MacBook Not Charging? 5 Possible Fixes")[MacBook Not Charging? 5 Possible Fixes](https://www.switchingtomac.com/macbook-not-charging-5-possible-fixes/ "MacBook Not Charging? 5 Possible Fixes")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2023/07/mac-130x85.jpeg)](https://www.switchingtomac.com/how-handoff-works-on-iphone-and-other-apple-devices/ "How “Handoff” Works on iPhone and Other Apple Devices")[How “Handoff” Works on iPhone and Other Apple Devices](https://www.switchingtomac.com/how-handoff-works-on-iphone-and-other-apple-devices/ "How “Handoff” Works on iPhone and Other Apple Devices")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2022/08/mac-wallpaper-130x85.jpeg)](https://www.switchingtomac.com/lively-wallpaper-alternatives-for-mac/ "Lively Wallpaper Alternatives for Mac")[Lively Wallpaper Alternatives for Mac](https://www.switchingtomac.com/lively-wallpaper-alternatives-for-mac/ "Lively Wallpaper Alternatives for Mac")
 
 #### Our Publishing Family
 
