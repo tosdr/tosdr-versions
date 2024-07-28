@@ -1,4 +1,4 @@
-Thursday, July 25 2024
+Monday, July 29 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -174,7 +174,7 @@ Quick Guides
     
     [The recipe for Luckin Coffee’s remarkable turnaround](https://fifthperson.com/luckin-coffee-turnaround/) 
     
-    9 hours ago
+    4 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -182,7 +182,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Nestlé Malaysia AGM](https://fifthperson.com/2024-nestle-malaysia-agm/)
     
-    2 days ago
+    6 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -190,7 +190,7 @@ Quick Guides
     
     [How U.S. presidential elections influence stock market trends](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -198,7 +198,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Dutch Lady Milk Industries AGM](https://fifthperson.com/2024-dutch-lady-milk-industries-agm/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -214,7 +214,7 @@ Quick Guides
     
     [10 things I learned from the 2024 Genting Malaysia AGM](https://fifthperson.com/2024-genting-malaysia-agm/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -222,7 +222,7 @@ Quick Guides
     
     [7 things I learned from the 2024 KLCCP Stapled Group AGM](https://fifthperson.com/2024-klccp-stapled-group-agm/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -230,7 +230,7 @@ Quick Guides
     
     [How this drink company’s stock grew 4,270% in five years](https://fifthperson.com/drink-company-stock-grew-in-five-years/)
     
-    4 weeks ago
+    June 28, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
