@@ -194,7 +194,7 @@ Hi
         
     * [New! (12)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (14)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (17)](https://www.smithbrothersfarms.com/on-special)
         
     * [Summer Essentials (35)](https://www.smithbrothersfarms.com/summer-essentials)
         
