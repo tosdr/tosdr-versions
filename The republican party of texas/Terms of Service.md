@@ -120,7 +120,6 @@ Skip links
     
 * [Events](https://texasgop.org/events/)
 * [Shop](https://texasgop.org/shop/)
-* [Convention](https://convention.texasgop.org/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
 
@@ -152,7 +151,6 @@ X
     * [LP Report](https://texasgop.org/lp-report/)
 * [Events](https://texasgop.org/events/)
 * [Shop](https://texasgop.org/shop/)
-* [Convention](https://convention.texasgop.org/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
 
@@ -184,7 +182,6 @@ X
     * [LP Report](https://texasgop.org/lp-report/)
 * [Events](https://texasgop.org/events/)
 * [Shop](https://texasgop.org/shop/)
-* [Convention](https://convention.texasgop.org/)
 * [Grassroots Club](https://secure.anedot.com/txgop/grassroots-club-monthly)
 * [Donate](https://secure.winred.com/republican-party-of-texas/donate)
 
