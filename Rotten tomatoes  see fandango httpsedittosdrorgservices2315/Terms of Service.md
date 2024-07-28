@@ -17,8 +17,8 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ticket and a Tee pack!** Get a ticket and a Team USA Minions T-Shirt!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $5 on The X Trilogy Bundle** When you buy a ticket to MaXXXine
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
@@ -64,21 +64,13 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [EXCLUSIVE OFFER FOR DISNEY+ SUBSCRIBERS image link ![EXCLUSIVE OFFER FOR DISNEY+ SUBSCRIBERS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/2180c2a0-4907-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-disneyperks-292x118.png)](https://www.activaterewards.com/disneyplusperks?cmp=TARS~FANDANGO~DisneyPlusDeadpoolPerk_Footer) 
+* [RYAN'S WORLD THE MOVIE: HERO BUNDLE image link ![RYAN'S WORLD THE MOVIE: HERO BUNDLE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5adbc0-4ab3-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-ryansworld-292x118.png)](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer) 
     
-    ### EXCLUSIVE OFFER FOR DISNEY+ SUBSCRIBERS
+    ### RYAN'S WORLD THE MOVIE: HERO BUNDLE
     
-    Get a $10 Fandango Promo Code\* good to see Marvel Studios' Deadpool & Wolverine in theaters! \*While supplies last. Offer ends 8/11/24. Terms apply.
+    Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
     
-    [LEARN MORE](https://www.activaterewards.com/disneyplusperks?cmp=TARS~FANDANGO~DisneyPlusDeadpoolPerk_Footer)
-    
-* [NBC'S PARIS OLYMPICS OPENING CEREMONY image link ![NBC'S PARIS OLYMPICS OPENING CEREMONY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/25eae180-34e5-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-imaxolympicsoc-292x118.png)](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer) 
-    
-    ### NBC'S PARIS OLYMPICS OPENING CEREMONY
-    
-    Get tickets now to watch in IMAX Theatres!
-    
-    [BUY NOW](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer)
+    [BUY NOW](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer)
     
 * [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
     
@@ -87,6 +79,14 @@ Offers
     Get tickets now for the live broadcasts in AMC Theatres!
     
     [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
+    
+* [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/7452f0a0-4544-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-amcminions-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer) 
+    
+    ### TICKET AND A TEE PACK!
+    
+    Get a ticket to see the Paris Olympics NBCU Watch Party at AMC Theatres, plus a Team USA Minions T-Shirt.
+    
+    [BUY NOW](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer)
     
 
 New & Coming soon
@@ -186,16 +186,6 @@ New & Coming soon
 
 © 2024 Fandango
 
-### Special Event
-
-Close
-
-![NBC's Paris Olympics Opening Ceremony](https://images.fandango.com/cms/assets/d46e0530-3313-11ef-a07e-5b03d6159fe4--fan-globalnavbar-imaxolympicsoc-343x362.jpg)
-
-#### Get tickets to see the 2024 Olympics Opening Ceremony in IMAX Theaters!
-
-[Buy Tickets](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_GlobalNav)
-
 ### Get Deadpool's Premium Package Today!
 
 Close
@@ -205,6 +195,16 @@ Close
 #### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
 Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
+
+### Special Offer
+
+Close
+
+![Ryan's World the Movie: Hero Bundle](https://images.fandango.com/cms/assets/bb2ecd30-4ab4-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-ryansworld-343x362.jpg)
+
+#### Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
+
+Ryan's World the Movie: Hero Bundle and movie tickets are non-refundable and non-exchangeable. Limited time offer. While supplies last. Must be 18 or older to purchase. See Offer Terms for full details. [Buy Now](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_promomodule)
 
 ### Ticket and a Tee Pack!
 
