@@ -876,7 +876,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-6 Alerts
+2 Alerts
 
 Back
 
@@ -890,18 +890,6 @@ All
 * [Imagine with AI, Secure with Trend.](https://resources.trendmicro.com/BlackHat2024.html)close
     
     [Connect and engage with us at Black Hat >](https://resources.trendmicro.com/BlackHat2024.html)
-* [Noodle RAT: Analyzing the malware empowering Chinese threat actors](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)close
-    
-    [Learn more >](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)
-* [Not just another 100% score: Trend aces MITRE ENGENUITY ATT&CK](https://www.trendmicro.com/en_us/research/24/f/mitre-enginuity-attack-evaluations.html)close
-    
-    [See how >](https://www.trendmicro.com/en_us/research/24/f/mitre-enginuity-attack-evaluations.html)
-* [Preventing malicious alterations to local AI models](https://www.trendmicro.com/vinfo/us/security/news/security-technology/guarding-ai-models-from-malicious-alterations-in-the-ai-pc-era)close
-    
-    [See best practices >](https://www.trendmicro.com/vinfo/us/security/news/security-technology/guarding-ai-models-from-malicious-alterations-in-the-ai-pc-era)
-* [Commando Cat: Uncovering a novel cryptojacking attack on Docker](https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html)close
-    
-    [Learn how >](https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html)
 
 Support
 
