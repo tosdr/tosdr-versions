@@ -117,7 +117,7 @@ Upon purchase, you have certain rights and responsibilities, all of which are se
 6\. Payments
 ------------
 
-In order to process your payment we use Stripe. Stripe is a payment processing platform for the internet which allows easy payment processing. Please note that upon making payment with Stripe you expressly agree with [Stripe Connected Account Agreement](https://stripe.com/en-pl/legal/connect-account).
+In order to process your payment we use Stripe. Stripe is a payment processing platform for the internet which allows easy payment processing. Please note that upon making payment with Stripe you expressly agree with [Stripe End User Terms of Service](https://stripe.com/en-us/legal/consumer).
 
 7\. Fee Changes
 ---------------
@@ -147,7 +147,7 @@ We strongly advise you to read the terms and conditions and privacy policies of 
 10\. Acceptable Use Policy
 --------------------------
 
-General. You will use Services in compliance with requirements set out in this Terms of Service. You accept and agree not to use any part of the Services or any part of our social media pages (in Tweeter, LinkedIn, Facebook) to display, redirect to, upload, distribute or transmit any content, webpages, messages, images, video files, texts, audio files, articles (collectively “**Content**”) that: 
+General. You will use Services in compliance with requirements set out in this Terms of Service. You accept and agree not to use any part of the Services or any part of our social media pages (in Twitter, LinkedIn, Facebook) to display, redirect to, upload, distribute or transmit any content, webpages, messages, images, video files, texts, audio files, articles (collectively “**Content**”) that: 
 
 * violates any law, regulation, act or code imposed by the government, authority, court or any other authorized US body, including sanctions;
 * violates any third party intellectual property rights, including copyright, trademark, patent, trade secret;
@@ -168,7 +168,7 @@ We may, at our own discretion, and without any liability to you, terminate or su
 
 * you breach these Terms or warranties that you provide;
 * you breach the law applicable to you where your use of Services putting us at risk of being or becoming infringer of law or third party rights (including but not limited to, copyright, trademark law);
-* you breach of your commitments and obligations which you have as a domain name owner under the [ICANN Registrants’ Benefits and Responsibilities](https://www.icann.org/resources/pages/benefits-2013-09-16-en) policy;
+* you breach of your commitments and obligations which you have as a domain name owner under the [ICANN Registrants’ Benefits and Responsibilities](https://www.icann.org/resources/pages/benefits-2013-09-16-en) policy as applicable;
 * we determine that your use of the Service contradicts our Acceptable Use Policy.
 
 If you wish to terminate your account, you may do it in your account settings.
@@ -185,7 +185,7 @@ Subject to the Limitation of Liability section below, you agree to defend, indem
 
 In no event shall either party, or its respective directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
-Except for liability that cannot be limited by law, each Party’s total aggregate liability, whether based on warranty, contract, tort (including negligence) or any other legal theory, arising out of or in connection with these Terms will be limited to an amount equal to the Subscription fees paid by you to us during the preceding 12 month period from the date of the claim of liability.
+Except for liability that cannot be limited by law, each Party’s total aggregate liability, whether based on warranty, contract, tort (including negligence) or any other legal theory, arising out of or in connection with these Terms will be limited to an amount equal to twice (2x) the Subscription fees paid by you to us during the preceding 12 month period from the date of the claim of liability.
 
 14\. Disclaimer
 ---------------
