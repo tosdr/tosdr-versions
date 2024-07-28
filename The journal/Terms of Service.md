@@ -1,5 +1,3 @@
-![](https://s0.jrnl.ie/weather/icon/svg/8.svg)     
-
 Advertisement
 
 Close
@@ -20,7 +18,7 @@ If you've seen value in our reporting, please contribute what you can, so we can
 * [FactCheck](https://www.thejournal.ie/factcheck/news/)
 * [Voices](https://www.thejournal.ie/voices/)
 * [Climate](https://www.thejournal.ie/climate-change/news/)
-* [European Elections](https://www.thejournal.ie/section/eu-2024/)
+* [Housing](https://www.thejournal.ie/housing/news/)
 * More
     
     More
