@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-07f97d9e1a6e4116ff419eeda7124128
+0a1c58ba72a66098deda0bd388f09518
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,20 +171,20 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm round black lava beads](https://www.sojourner.biz/images/cache/stone/LAV0001.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/lava/8-mm-round-black-lava-beads.html "8 mm round black lava beads")
+[![15 mm by 5 mm white pearls](https://www.sojourner.biz/images/cache/pearls/PE0070.200.jpg)](https://www.sojourner.biz/beads/pearls/15-mm-by-5-mm-white-pearls.html "15 mm by 5 mm white pearls")
 
-#### [8 mm round black lava beads](https://www.sojourner.biz/beads/stone-a-l/lava/8-mm-round-black-lava-beads.html "8 mm round black lava beads")
+#### [15 mm by 5 mm white pearls](https://www.sojourner.biz/beads/pearls/15-mm-by-5-mm-white-pearls.html "15 mm by 5 mm white pearls")
 
-$7.00
+$37.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
-    $15.00
-3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
     $16.00
+3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+    $15.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
