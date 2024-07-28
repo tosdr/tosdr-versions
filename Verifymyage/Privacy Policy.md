@@ -376,12 +376,6 @@ All data is encrypted at rest and in-transit using a combination of 256-bit encr
 
 Age verification system approved by the German regulator for the protection of minors on online media.
 
-![](/images/logos/iwf-white1.png)
-
-##### Proud member of the IWF
-
-Working to stop child sexual abuse online.
-
 * * *
 
 Copyright © 2024. VerifyMyAge is a trading style of VERIFYMY LIMITED  
