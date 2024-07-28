@@ -451,7 +451,7 @@ Signup Consent(Required)
 
 CAPTCHA
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
