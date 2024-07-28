@@ -356,6 +356,30 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
+
+### [USS Ronin successfully thwarts consortium forces in Alpha Isles](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
+
+Federation News Service July 27, 2024
+
+ALPHA ISLES — The USS Ronin successfully conducted a counter-attack against Consortium forces, attempting to establish a presence in the Alpha Isles.
+
+[Read More »](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+
+### [USS Artemis-A encounters Borg Cube and faces sabotage](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+
+Federation News Service July 25, 2024
+
+BADLANDS – During a routine journey back to the Sol system, the crew of the USS Artemis-A (NCC-81287) detected unusual sensor readings in The Badlands.
+
+[Read More »](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/07/image-768x775-1.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
 
 ### [New community recruits people from all over the universe](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
@@ -365,30 +389,6 @@ Federation News Service July 23, 2024
 UNKNOWN LOCATION — Are you feeling isolated and seeking new connections? We have a solution for you.
 
 [Read More »](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
-
-### [Lower Decks interview: Lieutenant JG Lhandon Nilsen, USS Octavia E. Butler](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
-
-gogi8972 July 22, 2024
-
-We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
-
-[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
-
-[![StarBase 118 Station](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![StarBase 118 Station](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/spacedock_0001_Background-1-768x408.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/situation-escalates-for-ops-crew-as-plant-and-population-go-on-offensive/)
-
-### [Situation escalates for Ops Crew as plant and Population go on offensive](https://www.starbase118.net/2024/situation-escalates-for-ops-crew-as-plant-and-population-go-on-offensive/)
-
-Federation News Service July 21, 2024
-
-MIRI IV-A — The aggressive plant disrupting the colony of Miri IVa continues to spread, while local unrest escalates into aggression.
-
-[Read More »](https://www.starbase118.net/2024/situation-escalates-for-ops-crew-as-plant-and-population-go-on-offensive/)
 
 Ready to get started?
 ---------------------
