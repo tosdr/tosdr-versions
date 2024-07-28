@@ -1,12 +1,12 @@
 [Skip to content](#post_content)
 
-[![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2023/08/SF_Icon.svg)](https://www.sleepfoundation.org/)
+[![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2024/07/SF-SD_Logo_White-BG.svg)](https://www.sleepfoundation.org/)
 
-![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2023/08/SF_Icon.svg)
+![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2024/07/SF-SD_Logo_White-BG.svg)
 
 [Log In](https://www.sleepfoundation.org/my-sleep-profile) Sleep Quiz
 
-![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2023/08/SF_Icon.svg)
+![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2024/07/SF-SD_Logo_White-BG.svg)
 
 SLEEP PRODUCTS
 
