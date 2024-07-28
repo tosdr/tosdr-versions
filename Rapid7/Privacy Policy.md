@@ -44,11 +44,11 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * New
-        
-        MDR with Unlimited Incident Response
+    * MDR
         
         Managed Threat Complete
+        
+        Risk-aware MDR with Unlimited Incident Response
         
         [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
@@ -220,11 +220,11 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * New
-        
-        MDR with Unlimited Incident Response
+    * MDR
         
         Managed Threat Complete
+        
+        Risk-aware MDR with Unlimited Incident Response
         
         [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
