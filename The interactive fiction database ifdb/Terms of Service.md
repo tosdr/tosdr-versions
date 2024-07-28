@@ -31,4 +31,4 @@ Please note that the games cataloged on IFDB are not themselves within the scope
 
 We hope that these terms are fair, reasonable, and easy to understand, but if you have any questions, please feel free to [contact us](https://ifdb.org/contact).
 
-[IFDB Home](https://ifdb.org/) | [TADS.org](http://www.tads.org/) | [Contact Us](https://ifdb.org/contact) | [Code of Conduct](https://ifdb.org/code-of-conduct) | [Terms of Service](https://ifdb.org/tos) | [Privacy](https://ifdb.org/privacy) | [Copyrights & Trademarks](https://ifdb.org/copyright)
+[IFDB Home](https://ifdb.org/) | [Contact Us](https://ifdb.org/contact) | [Code of Conduct](https://ifdb.org/code-of-conduct) | [Terms of Service](https://ifdb.org/tos) | [Privacy](https://ifdb.org/privacy) | [Copyrights & Trademarks](https://ifdb.org/copyright)
