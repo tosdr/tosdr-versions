@@ -10,7 +10,7 @@
 
 [Independent](https://www.independent.co.uk/)
 
-[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[Amazon Prime Day](https://www.independent.co.uk/extras/indybest/amazon-prime-day)[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
 
 [Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=top_right_subscribe)Menu
 
@@ -655,7 +655,7 @@ Already subscribed? Log in
     * [Contributors](https://www.independent.co.uk/service/external-contributors-policy-7905982.html)
     * [Cookie policy](https://www.independent.co.uk/service/cookie-policy-a6184186.html)
     * [Donations Terms & Conditions](https://www.independent.co.uk/service/contributions-terms-and-conditions-a9308071.html)
-    * [Privacy notice](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
+    * [Privacy policy](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
     * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
@@ -674,7 +674,7 @@ Close
 
 [](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
-[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[Amazon Prime Day](https://www.independent.co.uk/extras/indybest/amazon-prime-day)[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
 
 * [Today’s Edition](https://edition.independent.co.uk/)
 * [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
