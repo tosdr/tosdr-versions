@@ -544,7 +544,7 @@ If you have questions or comments about this policy, you may contact us by calli
 
 [![Resume Genius](https://resumegenius.com/wp-content/themes/genesis-rg-v3/images/resume-genius-logo.svg)](https://resumegenius.com/ "Resume Genius")
 
-[LinkedIn](https://www.linkedin.com/company/resume-genius) [Instagram](https://www.instagram.com/theresumegenius/) [Youtube](https://www.youtube.com/Resumegenius) [Facebook](https://www.facebook.com/ResumeGenius) [Twitter](https://twitter.com/theresumegenius) [Tiktok](https://www.tiktok.com/@resumegenius) [Pinterest](https://www.pinterest.com/resumegenius/) [Giphy](https://giphy.com/channel/ResumeGenius)
+ [![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/linkedin.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/linkedin-colored.svg) LinkedIn](https://www.linkedin.com/company/resume-genius)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/instagram.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/instagram-colored.svg) Instagram](https://www.instagram.com/theresumegenius/)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/youtube.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/youtube-colored.svg) Youtube](https://www.youtube.com/Resumegenius)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/facebook.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/facebook-colored.svg) Facebook](https://www.facebook.com/ResumeGenius)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/twitter.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/twitter-colored.svg) Twitter](https://twitter.com/theresumegenius)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/tiktok.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/tiktok-colored.svg) Tiktok](https://www.tiktok.com/@resumegenius)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/pinterest.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/pinterest-colored.svg) Pinterest](https://www.pinterest.com/resumegenius/)[![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/giphy.svg)![](https://resumegenius.com/wp-content/themes/genesis-rg-v3/svgs/giphy-colored.svg) Giphy](https://giphy.com/channel/ResumeGenius)
 
 Resumes
 
@@ -557,6 +557,7 @@ Resumes
 * [Resume Checker](https://resumegenius.com/resume-checker)
 * [AI Resume Generator](https://resumegenius.com/ai-resume-builder)
 * [Resume Parser](https://resumegenius.com/resume-parser)
+* [Resume Bullet Point Generator](https://resumegenius.com/resume-bullet-point-generator)
 
 Cover Letters
 
@@ -619,7 +620,7 @@ Would you leave us a review?
 
 We hope we’ve helped you on your path to career success. If you have time, a quick review would really make our day (it'll only take 15 seconds). Thanks again, and good luck!
 
- ![Star Summary](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 / 5 Based on [38728 reviews](https://www.trustpilot.com/review/resumegenius.com) powered by ![logo](/wp-content/plugins/trustpilot/images/logo.svg) 
+ ![Star Summary](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 / 5 Based on [38759 reviews](https://www.trustpilot.com/review/resumegenius.com) powered by ![logo](/wp-content/plugins/trustpilot/images/logo.svg) 
 
 [Leave My Review](https://www.trustpilot.com/review/resumegenius.com)
 
