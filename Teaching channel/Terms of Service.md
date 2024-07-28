@@ -501,7 +501,7 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
-                                          
+                                       
 
 What are you looking for?
 
