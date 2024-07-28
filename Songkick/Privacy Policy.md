@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
+        *  [![Madmess Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Madmess  
+            Helgi’s](https://www.songkick.com/concerts/42064216-madmess-at-helgis)
+        *  [![Meltem Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Meltem  
+            The Underworld](https://www.songkick.com/concerts/42082469-meltem-at-underworld)
+        *  [![Kariti Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kariti  
+            The Harrison](https://www.songkick.com/concerts/42054545-kariti-at-harrison)
+        *  [![The Queen Extravaganza Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Queen Extravaganza  
+            indigo at The O2](https://www.songkick.com/concerts/42057228-queen-extravaganza-at-indigo-at-the-o2)
+        *  [![Bora Uzer Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bora Uzer  
+            HERE at Outernet](https://www.songkick.com/concerts/42054796-bora-uzer-at-here-at-outernet)
+        *  [![Alex Spencer Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Alex Spencer  
+            Courtyard Theatre](https://www.songkick.com/concerts/42060200-alex-spencer-at-courtyard-theatre)
         *  [![Olive Jones Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Olive Jones  
             The Lower Third](https://www.songkick.com/concerts/42060049-olive-jones-at-lower-third)
-        *  [![Vigilantes Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vigilantes  
-            The Water Rats](https://www.songkick.com/concerts/42056977-vigilantes-at-water-rats)
-        *  [![Circus Cannon Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Circus Cannon  
-            The Black Heart](https://www.songkick.com/concerts/42051143-circus-cannon-at-black-heart)
-        *  [![MISANTROPIC Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) MISANTROPIC  
-            New Cross Inn](https://www.songkick.com/concerts/42063529-misantropic-at-new-cross-inn)
-        *  [![Mishra Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mishra  
-            Servant Jazz Quarters](https://www.songkick.com/concerts/42066777-mishra-at-servant-jazz-quarters)
+        *  [![Dora Morelenbaum Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dora Morelenbaum  
+            Jazz Cafe](https://www.songkick.com/concerts/42060050-dora-morelenbaum-at-jazz-cafe)
+        *  [![Suitman Jungle Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Suitman Jungle  
+            Paper Dress Vintage](https://www.songkick.com/concerts/42062844-suitman-jungle-at-paper-dress-vintage)
         *  [![The Milk Men Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Milk Men  
             100 Club](https://www.songkick.com/concerts/42069604-milk-men-at-100-club)
-        *  [![Steve Wilson Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Steve Wilson  
-            Ye Olde Rose & Crown Theatre Pub](https://www.songkick.com/concerts/42051355-steve-wilson-at-ye-olde-rose-and-crown-theatre-pub)
-        *  [![Merry Hell Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Merry Hell  
-            Ye Olde Rose & Crown Theatre Pub](https://www.songkick.com/concerts/42051356-merry-hell-at-ye-olde-rose-and-crown-theatre-pub)
-        *  [![Half Happy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Half Happy  
-            Two Palms](https://www.songkick.com/concerts/42052404-half-happy-at-two-palms)
-        *  [![Julian Clary Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Julian Clary  
-            London Palladium](https://www.songkick.com/concerts/42071254-julian-clary-at-london-palladium)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F25%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F01%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F25%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F28%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F04%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F28%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -39,11 +39,11 @@
         *  [![Bad Bunny Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bad Bunny](https://www.songkick.com/artists/9059639-bad-bunny)
         *  [![Cake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cake](https://www.songkick.com/artists/195357-cake)
         
+        *  [![Wacotron Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Wacotron](https://www.songkick.com/artists/10344194-wacotron)
+        *  [![Rogerinho Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rogerinho](https://www.songkick.com/artists/10228183-rogerinho)
         *  [![Jon Reddick Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jon Reddick](https://www.songkick.com/artists/10343064-jon-reddick)
         *  [![flyingfish Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) flyingfish](https://www.songkick.com/artists/10343079-flyingfish)
         *  [![Cookin Soul Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cookin Soul](https://www.songkick.com/artists/10342931-cookin-soul)
-        *  [![Toby Mai Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Toby Mai](https://www.songkick.com/artists/10342042-toby-mai)
-        *  [![BEAT Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) BEAT](https://www.songkick.com/artists/10342035-beat)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
