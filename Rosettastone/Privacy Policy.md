@@ -128,6 +128,7 @@ If you have questions or would like additional information regarding Rosetta Sto
 ### About
 
 * [Company](https://www.rosettastone.com/about/company/)
+* [Newsroom](https://www.rosettastone.com/newsroom/)
 * [Contact Us](https://www.rosettastone.com/about/contact/)
 * [How it Works](https://www.rosettastone.com/how-it-works/)
 * [Mobile Apps](https://www.rosettastone.com/product/mobile-apps/)
