@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [584 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [595 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -138,7 +138,105 @@ Customer Testimonials
 
 out of 5 based on
 
-[584 reviews](https://www.trustpilot.com/review/www.safari.com)
+[595 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 27, 2024
+
+> Would recommend
+
+> Shann was so responsive and efficient. It made the whole process very easy. Would definitely recommend this company to anyone heading on safari
+
+Suzy F
+
+,
+
+IE
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 26, 2024
+
+> Brilliant customer service
+
+> Shann was excellent in finding the right trip for me, she was so responsive, answered my (many) questions and made planning the trip a seamless experience - I would definitely have struggled on my own. Highly recommend Safari.com. We can’t wait for our trip!
+
+Mary
+
+,
+
+GB
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 25, 2024
+
+> Prompt responses to our queries and…
+
+> Prompt responses to our queries and always able to accomodate our requests
+
+customer
+
+,
+
+AU
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 25, 2024
+
+> Leigh-Ann was awesome
+
+> Leigh-Ann was awesome! She listened to my requests and got it all set! She got my desires and requests Booked and set for my trip.
+
+Jason
+
+,
+
+US
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 25, 2024
+
+> Helpful service
+
+> Fast response from Keith and helful guidance
+
+Alan P
+
+,
+
+GB
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 25, 2024
+
+> Nicole was so helpful!
+
+> Nicole was great to work with! Super responsive and was able to make all the changes requested to accommodate our trip. She answered all my questions, and I wouldn't hesitate to use her for Safari vacations in the future.
+
+Kaitlin Eberhart
+
+,
+
+US
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 24, 2024
+
+> Outstanding and professional performance by Pascal John
+
+> Pascal John quickly proved his professionalism as well as his in-depth and experienced knowledge of South Africa safaris. He demonstrated the ability to rapidly understand what I was looking for out of a safari trip and how to make that happen. He added real value to the process with his connections to lodging reservations at various lodges and arranged for an itinerary that is not possible to accomplish by oneself on the internet alone. For example, he was able to negotiate away for me a single supplement. He added immediate value and quickly/painlessly everything came together. This includes booking flights, ground transport, lodging and wildlife drives. I can without reservation recommend working with Pascal John at Safari.com.
+
+Joseph Margoshes
+
+,
+
+US
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -152,6 +250,8 @@ customer
 
 ,
 
+US
+
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Jul 24, 2024
@@ -164,103 +264,7 @@ Erica Freeze
 
 ,
 
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 23, 2024
-
-> It has been a pleasure to work with…
-
-> It has been a pleasure to work with your agent Leigh- Ann Croeser, she has been extremely helpful, responsive and if all your representatives are like her your company is in great shape!
-
-David Papilsky
-
-,
-
-GB
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 23, 2024
-
-> Great service
-
-> Mel at Safari.com has been more than helpful helping us to choose the right Safari for our up and coming trip in November. She was very friendly, quick to respond and extremely knowledgeable. I’m sure we will be communicating more nearer our travel date. Thank you Mel!
-
-customer
-
-,
-
-GB
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 22, 2024
-
-> Sara has been nothing short of amazing…
-
-> Sara has been nothing short of amazing to work with. She has helped me plan the perfect honeymoon and revised multiple itineraries for me to make sure we feel taken care of. I am so looking forward to this trip! Thanks so much Sara for making this amazing!
-
-Darien W.
-
-,
-
-US
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 22, 2024
-
-> Dolan was great to deal with
-
-> Dolan was great to deal with. He was communicative and understood our needs. Great help for booking the lodge for our special event.
-
-Stephan Karl
-
-,
-
-US
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 22, 2024
-
-> Nicole was very professional
-
-> Nicole was very professional, very timely and carefully listened to what our group was looking for to help us make a great decision and book a great trip
-
-Adam Troyetsky
-
-,
-
-US
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 21, 2024
-
-> Dorothy my travel agent
-
-> Dorothy is the agent assigned to me. She was very patient and polite . Each time I gave her feedback of what wasn't suitable or to my liking she came back with better. She really listened and made us good priced tailor made package. She was also very responsive weekends , late night and early morning. When ever I got around to responding to a message she sent she would always respond within minutes.
-
-Emily
-
-,
-
-MU
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 20, 2024
-
-> Great experience setting up a safari
-
-> Great experience setting up a safari. Communication was prompt and Candis stayed within our budget. Excellent work.
-
-Thomas Hughes
-
-,
-
-US
+ZA
 
 VIP service
 
