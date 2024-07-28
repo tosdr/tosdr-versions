@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![responder mensagens diretas - a imagem que ilustra o tema tem uma mulher, branca, de cabelo rosa, usando uma camisa de manga longa azul, sentada numa cadeira amarela, segurando o celular e sorrindo.](https://postgrain.com/wp-content/uploads/2024/07/THUMB-BLOG-3-dicas-para-responder-mensagens-diretas-de-forma-mais-rapida-e-eficiente-580x290.jpg)](https://postgrain.com/?post_type=post&p=12352)
+[![Editar mensagens no Instagram - A imagem que ilustra o tema tem uma pessoa, branca, sentada em frente uma mesa de madeira segurando um celular e simulando estar mexendo nele. De fundo, sobre a mesa, tem uma caneta, xícara de café e uns post its.](https://postgrain.com/wp-content/uploads/2024/07/CAPA-BLOG-ZAPMIZER-2-580x290.png)](https://postgrain.com/?post_type=post&p=12362)
 
-[3 dicas para responder mensagens diretas de forma mais rápida e eficiente](https://postgrain.com/?post_type=post&p=12352)
+[Editar mensagens no Instagram: Tutorial completo!](https://postgrain.com/?post_type=post&p=12362)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12352)
+[Leia mais](https://postgrain.com/?post_type=post&p=12362)
 
 Ilustração de um dos personagens do Postgrain
 
