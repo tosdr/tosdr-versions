@@ -36,6 +36,10 @@
         * [IT Operations](https://sift.com/solutions/business-operations)
         * [Cybersecurity](https://sift.com/solutions/information-security)
         * [CFO](https://sift.com/solutions/cfo)
+    * By Regulation
+        
+        * [PSD2 + SCA](https://sift.com/psd2)
+        * [PSD3 + PSR](https://sift.com/blog/navigating-psd3-and-psr-how-sift-supports-compliance-and-fraud-prevention)
     * [Risk Assessment](https://sift.com/risk-assessment)
         
 * Platform
