@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[July 25, 2024](https://www.japantimes.co.jp/archive/2024/07/25/ "archive page")
+[July 29, 2024](https://www.japantimes.co.jp/archive/2024/07/29/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,37 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan loses top spot on strongest passport list to Singapore](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
+[Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
 
-  [![Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411243.png&w=400&q=100&f=jpg&t=1.2 "Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.")](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
+  [![Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411812.jpg&w=400&q=100&f=jpg&t=1.2 "Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
 
-[Many summer fireworks festivals in Japan canceled due to complaints](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
+[When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
-  [![Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410180.jpg&w=400&q=100&f=jpg&t=1.2 "Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023")](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
+  [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
-[Japan's population continues to fall even as foreign resident count rises](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
+[A mysterious plot prompts a rare call from Russia to the Pentagon](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
 
-  [![The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411228.jpg&w=400&q=100&f=jpg&t=1.2 "The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.")](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
+  [![U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411807.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ")](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
 
-[Continuity in Asia: Harris' policies likely to assuage concerns in Japan](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
+[‘Crazy’ yen rally is at risk of shattering as soon as Wednesday](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
 
-  [![U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/23/410866.jpg&w=400&q=100&f=jpg&t=1.2 "U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.")](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
+  [![Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411764.JPG&w=400&q=100&f=jpg&t=1.2 "Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ")](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
 
-[Yen rally could help end crushing wage decay in Japan](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
+[Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
 
-  [![Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411084.jpg&w=400&q=100&f=jpg&t=1.2 "Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.")](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
+  [![Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411830.jpg&w=400&q=100&f=jpg&t=1.2 "Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ")](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
+
+[When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+
+  [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+
+[The Japanese Olympians looking to shine in Paris](https://www.japantimes.co.jp/olympics/2024/07/26/japanese-athletes-to-watch/ "The Japanese Olympians looking to shine in Paris")
+
+  [![Rim Nakamura, who is attempting to win Japan's first Olympic gold medal in cycling, will be one of the top Japanese athletes to watch at the Paris Games.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/26/411089.jpg&w=400&q=100&f=jpg&t=1.2 "Rim Nakamura, who is attempting to win Japan's first Olympic gold medal in cycling, will be one of the top Japanese athletes to watch at the Paris Games.")](https://www.japantimes.co.jp/olympics/2024/07/26/japanese-athletes-to-watch/ "The Japanese Olympians looking to shine in Paris")
+
+[Japan’s minimum wage set for record ¥50 hike in major boost](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
+
+  [![Demonstrators rally to demand a big hike in minimum wages in Tokyo last week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411299.jpg&w=400&q=100&f=jpg&t=1.2 "Demonstrators rally to demand a big hike in minimum wages in Tokyo last week.")](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
 
 [Japan loses top spot on strongest passport list to Singapore](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
 
@@ -490,18 +502,6 @@ Revised June 1, 2022
 [Why Japan's mysterious stash of classified funds escapes scrutiny](https://www.japantimes.co.jp/news/2024/07/24/japan/politics/cabinet-classifed-funds/ "Why Japan's mysterious stash of classified funds escapes scrutiny")
 
   [![Prime Minister Fumio Kishida and Chief Cabinet Secretary Yoshimasa Hayashi (right) during a meeting in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/410985.jpg&w=400&q=100&f=jpg&t=1.2 "Prime Minister Fumio Kishida and Chief Cabinet Secretary Yoshimasa Hayashi (right) during a meeting in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/07/24/japan/politics/cabinet-classifed-funds/ "Why Japan's mysterious stash of classified funds escapes scrutiny")
-
-[Terunofuji, as he tends to do, returns to stamp his authority on sumo pretenders](https://www.japantimes.co.jp/sports/2024/07/24/sumo/terunofuji-dominance-nagoya/ "Terunofuji, as he tends to do, returns to stamp his authority on sumo pretenders")
-
-  [![Terunofuji (left) throws down Kirishima on Tuesday to build on his perfect record at the Nagoya Grand Sumo Tournament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411105.jpg&w=400&q=100&f=jpg&t=1.2 "Terunofuji (left) throws down Kirishima on Tuesday to build on his perfect record at the Nagoya Grand Sumo Tournament.")](https://www.japantimes.co.jp/sports/2024/07/24/sumo/terunofuji-dominance-nagoya/ "Terunofuji, as he tends to do, returns to stamp his authority on sumo pretenders")
-
-[Japanese startups advised to internationalize to get some global mojo](https://www.japantimes.co.jp/business/2024/07/23/companies/japan-startups-overseas/ "Japanese startups advised to internationalize to get some global mojo")
-
-  [![Entrepreneurs who participated in the Beyond Japan Zero to X program last year share their experiences in the United States during a meeting in May in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/23/410898.jpg&w=400&q=100&f=jpg&t=1.2 "Entrepreneurs who participated in the Beyond Japan Zero to X program last year share their experiences in the United States during a meeting in May in Tokyo.")](https://www.japantimes.co.jp/business/2024/07/23/companies/japan-startups-overseas/ "Japanese startups advised to internationalize to get some global mojo")
-
-[Japan eyes gold — and the future — as Olympic men's soccer campaign begins](https://www.japantimes.co.jp/olympics/2024/07/23/japan-olympic-soccer-hopes/ "Japan eyes gold — and the future — as Olympic men's soccer campaign begins")
-
-  [![Japan midfielder Yu Hirakawa controls the ball during a match against the United States in Kansas City, Kansas, on June 11. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/23/410510.jpg&w=400&q=100&f=jpg&t=1.2 "Japan midfielder Yu Hirakawa controls the ball during a match against the United States in Kansas City, Kansas, on June 11. ")](https://www.japantimes.co.jp/olympics/2024/07/23/japan-olympic-soccer-hopes/ "Japan eyes gold — and the future — as Olympic men's soccer campaign begins")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.11 : Sekisui House Ltd.World’s top homebuilder acts on its responsibility](https://sustainable.japantimes.com/magazine/vol37/37-05?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.11 : Sekisui House Ltd.World’s top homebuilder acts on its responsibility")
+[mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality](https://sustainable.japantimes.com/magazine/vol26/26-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality")
 
-[![mission sustainability vol.11 : Sekisui House Ltd.World’s top homebuilder acts on its responsibility](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_37_05_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol37/37-05?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.11 : Sekisui House Ltd.World’s top homebuilder acts on its responsibility")
+[![mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_26_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol26/26-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Heatstroke prevention goods exhibited in Tokyo](https://www.japantimes.co.jp/news/2024/07/25/japan/japan-heatstroke-goods-exhibit/ "Heatstroke prevention goods exhibited in Tokyo")
+[Australia reshuffles senior ministers ahead of upcoming election](https://www.japantimes.co.jp/news/2024/07/28/asia-pacific/politics/australia-reshuffles-senior-minister/ "Australia reshuffles senior ministers ahead of upcoming election")
 
-1 hours ago
+4 hours ago
 
-[The LDP members best placed to deal with the next U.S. president](https://www.japantimes.co.jp/news/2024/07/25/japan/politics/trump-harris-ldp-presidential-election/ "The LDP members best placed to deal with the next U.S. president")
+[Thousands of Druze mourn youths killed in Golan rocket attack](https://www.japantimes.co.jp/news/2024/07/28/world/druze-mourn-rocket-attack-victims/ "Thousands of Druze mourn youths killed in Golan rocket attack")
 
-1 hours ago
+5 hours ago
 
-[Raid on Philippine gambling hub unravels elaborate scheme implicating mayor](https://www.japantimes.co.jp/news/2024/07/25/asia-pacific/crime-legal/inside-philippine-scam-centers/ "Raid on Philippine gambling hub unravels elaborate scheme implicating mayor")
+[Iran's Khamenei formally grants Pezeshkian presidential powers](https://www.japantimes.co.jp/news/2024/07/28/world/khamenei-grants-pezeshkian-presidential-powers/ "Iran's Khamenei formally grants Pezeshkian presidential powers")
 
-1 hours ago
+5 hours ago
 
-[Japan’s minimum wage set for record ¥50 hike in major boost](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
+[In historic move, U.S. to upgrade military command structure in Japan](https://www.japantimes.co.jp/news/2024/07/28/japan/politics/us-japan-two-plus-two/ "In historic move, U.S. to upgrade military command structure in Japan")
 
-1 hours ago
+6 hours ago
 
-[Nikkei closes at 3-month low as yen strengthens](https://www.japantimes.co.jp/business/2024/07/25/markets/nikkei-down-yen-up/ "Nikkei closes at 3-month low as yen strengthens")
+[Two Japanese climbers fall from Pakistan's K2](https://www.japantimes.co.jp/news/2024/07/28/japan/japanese-climbers-k2/ "Two Japanese climbers fall from Pakistan's K2")
 
-2 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
