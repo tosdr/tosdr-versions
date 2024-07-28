@@ -344,7 +344,7 @@ Sign in to manage your SEEK Profile, save searches and view your recommended job
   
  
 
-Better job matches than ever before.
+Better job matches.
 
 Job seekers
 
