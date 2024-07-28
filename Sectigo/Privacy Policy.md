@@ -138,7 +138,7 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Webinar: Entrust distrusted](https://www.sectigo.com/resource-library/entrust-distrusted-webinar)
+* [Webinar: Entrust distrust: now what?](https://www.sectigo.com/resource-library/entrust-distrust-now-what-webinar)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
@@ -233,7 +233,7 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Webinar: Entrust distrusted](https://www.sectigo.com/resource-library/entrust-distrusted-webinar)
+    * [Webinar: Entrust distrust: now what?](https://www.sectigo.com/resource-library/entrust-distrust-now-what-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
     * [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
     * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
@@ -645,6 +645,22 @@ Call (United States)
 Call (International)
 
 [+1 (914) 732 8446](tel:+19147328446)
+
+Call (France)
+
+[+33 3 66 72 95 95](tel:+33366729595)
+
+Call (Spain)
+
+[+33 3 66 72 95 95](tel:+34900838451)
+
+Call (Italy)
+
+[+39 02 4792 1708](tel:+390247921708)
+
+Call (Germany)
+
+[+49 800 1002328](tel:+498001002328)
 
 [![Twitter](/images/footer-2023-social-twitter.svg)](https://twitter.com/SectigoHQ)[![LinkedIn](/images/footer-2023-social-linkedin.svg)](https://www.linkedin.com/company/sectigo)[![YouTube](/images/footer-2023-social-youtube.svg)](https://www.youtube.com/c/Sectigo)
 
