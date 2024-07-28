@@ -263,15 +263,4 @@ Attention: Songwhip Legal
 
 [](https://songwhip.com/ "Home")
 
-© 2024 Songwhip [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
-
-[](https://songwhip.com/ "Go to Homepage")
-
-* [Home](https://songwhip.com/)
-* [Make a page](https://songwhip.com/create)
-
-* [What is Songwhip?](https://songwhip.com/about)
-* [How to make a page](https://songwhip.com/creating-links)
-* [FAQs](https://songwhip.com/faq)
-
-© 2024 Songwhip • [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
+© 2024 Songwhip [Privacy](https://songwhip.com/privacy/sme) & [Terms](https://songwhip.com/terms)
