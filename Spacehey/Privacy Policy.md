@@ -24,9 +24,12 @@ Search
 Privacy Policy
 --------------
 
-##### Last updated: July 31, 2023
+##### Last updated: July 25, 2024
 
 _what changed?_
+
+**July 25, 2024**  
+\- added Unesty as a server provider
 
 **July 31, 2023**  
 \- removed Cloudflare and Mailgun as 3rd-party providers. We are no longer using their services and instead host similar tools in-house now.
@@ -39,7 +42,7 @@ _what changed?_
 **August 7, 2021**  
 \- updated contact information
 
-This policy is effective as of 31 July 2023.
+This policy is effective as of 25 July 2024.
 
 SpaceHey is owned and operated by [Tibush GmbH](https://tibush.com/). In the following text, _SpaceHey_ and _Tibush GmbH_ may be used interchangeably.
 
@@ -137,6 +140,10 @@ Third parties we currently use include:
     * We use Hetzner as our server provider to host our website.
     * Hetzner is a service provided by Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen, Germany
     * Privacy Policy: [https://www.hetzner.com/legal/privacy-policy](https://www.hetzner.com/legal/privacy-policy)
+* **Unesty**
+    * We use Unesty as a server provider to host parts of our infrastructure.
+    * Unesty is a service provided by Collin Schneeweiß (Unesty Company), Geschwister-Scholl-Platz 5, 09648 Mittweida, Germany
+    * Privacy Policy: [https://server.unesty.net/privacy](https://server.unesty.net/privacy)
 * **Bunny.net**
     * We use Bunny.net to store and deliver media files, including profile pictures, icons, and more.
     * Bunny.net is a service provided by BunnyWay d.o.o., Cesta komandanta Staneta 4A, 1215 Medvode, Slovenia
@@ -281,7 +288,7 @@ _Disclaimer: This is a fan-based project and is not affiliated with MySpace® in
 * [About](https://spacehey.com/about)
 * [News](https://spacehey.com/news)
 * [Rules](https://spacehey.com/rules)
-* [Press](https://spacehey.com/press/?portal)
+* [App](https://spacehey.com/mobile)
 * [Brand](https://spacehey.com/brand)
 * [Credits](https://spacehey.com/credits)
 * [RSS](https://rss.spacehey.com/)
