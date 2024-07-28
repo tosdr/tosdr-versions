@@ -56,9 +56,7 @@
     
     (new window)](https://proton.me/drive?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
     
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)
-    
-    (new window)](https://proton.mehttps//protonvpn.com?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
+    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)](https://protonvpn.com/)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
     
@@ -107,10 +105,10 @@ Proton VPN’s strict no-logs policy was tested in a legal case in 2019 where we
 
 Get started
 
+* [How to use Proton VPN Live Chat](https://protonvpn.com/support/live-chat-support)
 * [How to clear browser cache and cookies](https://protonvpn.com/support/clear-browser-cache-cookies)
 * [Why do you need JavaScript, Session Storage, and Cookies?](https://protonvpn.com/support/javascript-session-storage-cookies)
 * [How to turn on JavaScript](https://protonvpn.com/support/enabling-javascript)
-* [Enabling Cookies](https://protonvpn.com/support/enabling-cookies)
 
 Didn’t find what you were looking for?
 
