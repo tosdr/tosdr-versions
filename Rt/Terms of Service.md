@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Russia responds to Zelensky proposal for talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[Lavrov blasts Kiev’s mixed messages on talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,7 +64,7 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Russia responds to Zelensky proposal for talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[Lavrov blasts Kiev’s mixed messages on talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
