@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/07/illiustration-kensuke-okazoe-feature.jpg)
+
+[](https://theinspirationgrid.com/japanese-tales-illustrations-by-kensuke-okazoe/)
+
+### Japanese Tales: Illustrations by Kensuke Okazoe
+
+![](https://inspgr.id/app/uploads/2024/07/photography-lagerstedt-24-feature.jpg)
+
+[](https://theinspirationgrid.com/alone-atmospheric-photo-series-by-mikko-lagerstedt/)
+
+### Alone: Atmospheric Photo Series by Mikko Lagerstedt
+
 ![](https://inspgr.id/app/uploads/2024/07/design-lfd-feature.jpg)
 
 [](https://theinspirationgrid.com/pair-node-a-modular-ai-device-by-lfd/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/multifaceted-illustrations-by-nabil-nezzar/)
 
 ### Multifaceted Illustrations by Nabil Nezzar
-
-![](https://inspgr.id/app/uploads/2024/07/illustration-giang-gio-feature.jpg)
-
-[](https://theinspirationgrid.com/vietnamese-pop-bold-illustrations-by-giang-gio/)
-
-### Vietnamese Pop: Bold Illustrations by Giang Giô
-
-![](https://inspgr.id/app/uploads/2024/07/design-vratislav-pecka-feature.jpg)
-
-[](https://theinspirationgrid.com/posterlad-an-art-project-by-vratislav-pecka/)
-
-### PosterLad: An Art Project by Vratislav Pecka
 
 Awesome products for creatives
 ------------------------------
