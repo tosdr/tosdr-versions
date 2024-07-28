@@ -4,7 +4,7 @@ We have 3 convenient locations ready to serve you! [learn more](https://www.sams
 
 * Choose Your Location
 * [20016 Old Owen Road, Monroe, WA  98272](https://www.google.com/maps/place/search?q=Sam%27s+Cats+%26+Dogs+Naturally+20016%2BOld%2BOwen%2BRoad%2CMonroe%2C98272%2CWA&place_id=ChIJ7xV9VPSmmlQR_ByHfFe3p1M)
-* Open Today from 9:00 am - 7:00 pm
+* Open Today from 10:00 am - 6:00 pm
 
 * [Facebook](https://www.facebook.com/SamsCatsandDogsNaturally)
 * [Instagram](https://www.instagram.com/samscatsanddogs/)
@@ -52,17 +52,17 @@ All Locations
 
  20016 Old Owen Road, Monroe, WA 98272  
   (360) 805-5060  
-Open Today Until 7:00 pm  
+Open Today Until 6:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery, No Contact Delivery Available](javascript:;)[### Everett
 
  811 SE Everett Mall Way, Everett, WA 98208  
   (425) 353-9076  
-Open Today Until 7:00 pm  
+Open Today Until 6:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery Available](javascript:;)[### Redmond
 
  23535 NE Novelty Hill Rd, ,Suite D304, Redmond, WA 98053  
   (425) 636-8231  
-Open Today Until 7:00 pm  
+Open Today Until 6:00 pm  
 In-Store Pickup, Curbside Pickup Available](javascript:;)
 
 Sam's Cats & Dogs Naturally
@@ -71,7 +71,7 @@ Sam's Cats & Dogs Naturally
 20016 Old Owen Road  
 Monroe, WA, 98272
 
-OPEN TODAY UNTIL 7:00 PM
+We Open Sunday at 10:00 AM
 
 [(360) 805-5060](tel:(360) 805-5060)
 
@@ -299,7 +299,7 @@ Decent prices and if they don't carry what you are looking for, they will order 
 Locations
 ---------
 
-[### **Monroe**](https://www.samscatsanddogs.com/)Open Today from 9:00 AM - 7:00 PM
+[### **Monroe**](https://www.samscatsanddogs.com/)Open Today from 10:00 AM - 6:00 PM
 
 20016 Old Owen Road  
 Monroe, WA 98272
@@ -320,7 +320,7 @@ Set as Favorite
 
 [Contact Us](https://www.samscatsanddogs.com/contact-us)
 
-[### **Everett**](https://www.samscatsanddogs.com/everett)Open Today from 9:00 AM - 7:00 PM
+[### **Everett**](https://www.samscatsanddogs.com/everett)Open Today from 10:00 AM - 6:00 PM
 
 811 SE Everett Mall Way  
 Everett, WA 98208
@@ -341,7 +341,7 @@ Set as Favorite
 
 [Contact Us](https://www.samscatsanddogs.com/everett/contact-us)
 
-[### **Redmond**](https://www.samscatsanddogs.com/redmond)Open Today from 9:00 AM - 7:00 PM
+[### **Redmond**](https://www.samscatsanddogs.com/redmond)Open Today from 10:00 AM - 6:00 PM
 
 23535 NE Novelty Hill Rd, Suite D304,  
 Redmond, WA 98053
