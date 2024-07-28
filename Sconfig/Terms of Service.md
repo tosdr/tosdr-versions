@@ -319,6 +319,7 @@ Search for:
 Recent Posts
 ------------
 
+* [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/) July 27, 2024
 * [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
 * [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
 * [It’s June! Oh Hai!](https://www.s-config.com/june2024/) June 18, 2024
@@ -328,7 +329,6 @@ Recent Posts
 * [Dear SEO](https://www.s-config.com/dear-seo/) December 16, 2023
 * [Website – Changelog 11/06/2023](https://www.s-config.com/website-changelog-11-06-2023/) November 6, 2023
 * [Oh no, another YouTube article!](https://www.s-config.com/oh-no-another-youtube-article/) November 3, 2023
-* [Banned on Ahmia](https://www.s-config.com/banned-on-ahmia/) October 18, 2023
 
 The only advertisement banner you will see.
 -------------------------------------------
@@ -338,12 +338,12 @@ The only advertisement banner you will see.
 Recent Comments
 ---------------
 
+* D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86831)
+* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86825)
+* D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86820)
 * [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86232)
 * sivre on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86189)
 * XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-86133)
 * [S-Config](https://www.s-config.com/) on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-85713)
-* XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-85703)
-* [S-Config](https://www.s-config.com/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-85665)
-* [alec](http://ls-alh.xyz/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-85635)
 
 2024 - https://www.s-config.com TOR-V3: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion - I2P: atlkfvuwwpgvnw24dkwyyxf5psrueozxb3i6zgebymjuquuquvqq.b32.i2p
