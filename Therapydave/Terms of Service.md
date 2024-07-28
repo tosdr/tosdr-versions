@@ -165,7 +165,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
   
 
-“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”
+“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
