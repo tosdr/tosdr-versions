@@ -1106,4 +1106,8 @@ Copyright © [www.divyagoal.com](https://www.divyagoal.com/) 2024. All rights re
 
 [![DMCA.com Protection Status](img/dmca.png)](https://www.dmca.com/Protection/Status.aspx?ID=b8a9d199-f6ba-42b6-9a78-864a967e7310&refurl=https://www.divyagoal.com/)
 
+[+91 7022789089](tel:+917022789089)
+
+[WhatsApp Us](https://wa.me/+917022789089)
+
 [](#)
