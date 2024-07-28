@@ -1,3 +1,7 @@
+[Wayfair: Lowest prices for the summer. Save up to 80% off + 2.5% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/wayfair?store=wayfair&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -141,7 +145,7 @@ FR
         
         $15 Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
-        10% Cash Back](https://www.rakuten.ca/temu)
+        15% Cash Back](https://www.rakuten.ca/temu)
         
         Featured Shops & Deals
         
@@ -283,7 +287,7 @@ FR
         
         3% Cash Back](https://www.rakuten.ca/michaels-canada)[Alexanian Carpet & Flooring
         
-        up to 2.5% Cash Back](https://www.rakuten.ca/alexanian)[Dyson
+        up to 5% Cash Back](https://www.rakuten.ca/alexanian)[Dyson
         
         2.5% Cash Back](https://www.rakuten.ca/dyson)
         
@@ -297,7 +301,7 @@ FR
         
         TEMU
         
-        10% Cash Back](https://www.rakuten.ca/ticket/campaign/11CategoryFeaturedStores/store/temu?sourceName=nav-menu)
+        15% Cash Back](https://www.rakuten.ca/ticket/campaign/11CategoryFeaturedStores/store/temu?sourceName=nav-menu)
         
     * [Luxury](https://www.rakuten.ca/stores/luxury "Luxury Promo Codes and Coupons")
         
@@ -387,7 +391,7 @@ FR
         
         TEMU
         
-        10% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/temu?sourceName=nav-menu)
+        15% Cash Back](https://www.rakuten.ca/ticket/campaign/12CategoryFeaturedStores/store/temu?sourceName=nav-menu)
         
     * [Sports & Outdoor](https://www.rakuten.ca/stores/sports-outdoor "Sports & Outdoor Promo Codes and Coupons")
         
@@ -622,13 +626,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn Up to 10% Cash Back from Rakuten.ca with Expedia.ca Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/293963/expedia-en-stickyfooter-1170x60_expedia.png "Expedia.ca Coupons, Promo Codes")
+[![Earn Up to 5% Cash Back from Rakuten.ca with Dell Technologies Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/293961/dell-en-stickyfooter-1170x60_dell.png "Dell Technologies Coupons, Promo Codes")
 
-was 3%, now
+up to 5% Cash Back
 
-up to 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/expedia-ca?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dell-consumer?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
