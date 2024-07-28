@@ -25,9 +25,8 @@
                 
             * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
             * [Landing Pages](https://www.thryv.com/features/landing-pages/)
-            * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
-            * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
-            * [Growth Package](https://www.thryv.com/features/growth-package/)
+            * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
+            * [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
         * * [MARKETPLACE](https://www.thryv.com/app-market/)
                 
                 Need a little something extra? Find it here.
@@ -130,9 +129,8 @@ menu
             
         * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
         * [Landing Pages](https://www.thryv.com/features/landing-pages/)
-        * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
-        * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
-        * [Growth Package](https://www.thryv.com/features/growth-package/)
+        * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
+        * [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
@@ -235,9 +233,8 @@ Click the link below for the terms that apply to your purchase
 * [Advertising Campaigns](https://www.thryv.com/features/campaign-management/)
 * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
 * [Landing Pages](https://www.thryv.com/features/landing-pages/)
-* [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
-* [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
-* [Growth Package](https://www.thryv.com/features/growth-package/)
+* [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
+* [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
 
 ### Resources
 
