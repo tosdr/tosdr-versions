@@ -96,37 +96,33 @@ Content
 
 [Qualified+
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/plus)[Blog
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/plus)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/blog)[Books
+Hear from from industry leaders on all things B2B marketing.
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/books)[Podcasts
+AI WOrkforce
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/podcasts)[Events & Webinars
+[Building SDR Teams in the Age of AI
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/events)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[Strategies for Piper the AI SDR
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)
 
 Learning
 
-[University
+[Blog
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/university)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/blog)[Help Center
 
-[Help Center
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/university#library)[University
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/university#library)
-
-Tools
-
-[ROI Calculator
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/university)[ROI Calculator
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/resources/roi-calculator)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/666352104648f4ab927b642a_ai-workforce-summit.svg)
+Hear from from industry leaders on all things B2B marketing.
 
-Catch up on what you missed at AI Workforce summit
-
-[Watch Now](https://www.qualified.com/events)
+[Explore Qualified+](https://www.qualified.com/plus)
 
 Say hello to
 
@@ -545,7 +541,7 @@ Functional Cookies
 
 ### Hear how thought leaders are thinking about AI Workers.
 
-[Watch Now](https://www.qualified.com/events)
+[Watch Now](https://www.qualified.com/archive/events)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
 
