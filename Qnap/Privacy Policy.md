@@ -1084,6 +1084,10 @@ Information Security Policy
     
     * [Information Security Policy](https://www.qnap.com/en/legal/information-security-policy)
     
+* QNAP Secure Software Development Lifecycle
+    
+    * [QNAP Secure Software Development Lifecycle](https://www.qnap.com/en/legal/ssdlc)
+    
 
 Information Security Policy
 ---------------------------
