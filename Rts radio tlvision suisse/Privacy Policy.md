@@ -186,7 +186,7 @@ MENU
     [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
     
 
-[](https://www.facebook.com/sharer.php?u=https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html "Partager sur Facebook")[](https://twitter.com/share?url=https://www.rts.ch/entreprise/a-propos/8994006-charte-de-confidentialite.html&text=Charte%20de%20confidentialit%C3%A9 "Partager sur X")
+Partager
 
 Charte de confidentialité
 =========================
@@ -194,7 +194,7 @@ Charte de confidentialité
 DÉCLARATION DE PROTECTION DES DONNÉES
 -------------------------------------
 
-_Mise à jour: 31 août 2023_
+_Mise à jour: 26 juillet 2024_
 
 SRG SSR Société suisse de radiodiffusion et télévision
 ------------------------------------------------------
@@ -250,7 +250,7 @@ Lorsque vous prenez contact avec nous, nous traitons, en fonction du motif et du
 
 Il s’agit des données que nous utilisons par l’intermédiaire de cookies ou lors de l’utilisation d’offres en ligne, comme par exemple Play Suisse via le login SSR: nous enregistrons le moment auquel vous utilisez notre offre, la page que vous avez visitée précédemment, la durée de votre visite, ce que vous consultez pendant cette durée et sur quelle page vous vous rendez ensuite
 
-Nous collectons ces données en effectuant une mesure de l’utilisation anonymisée. Nous collectons et utilisons les données, d’une part, pour la mise à disposition correcte de nos sites et de nos applications., D’’autre part, nous utilisons et analysons les données anonymisées afin d’optimiser nos offres, et réaliser des études de marché et des mesures d’audience. Les données sont également intégrées dans la sauvegarde de vos préférences lorsque vous utilisez notre offre.
+Nous collectons ces données en effectuant une mesure de l’utilisation anonymisée. Nous collectons et utilisons les données, d’une part, pour la mise à disposition correcte de nos sites et de nos applications., D’’autre part, nous utilisons et analysons les données anonymisées afin d’optimiser nos offres, et réaliser des études de marché et des mesures d’audience. Les données sont également intégrées dans la sauvegarde de vos préférences lorsque vous utilisez notre offre. Il peut également s'agir d'une personnalisation possible pour une meilleure expérience d'utilisation. Cette personnalisation est optionnelle, vous pouvez choisir de la désactiver.
 
 Grâce au traitement de ces données, nous nous assurons que nos offres correspondent aux différents intérêts de notre public. Nous mesurons l'utilisation de nos offres dans un but d’optimisation et d’exécution conforme de notre mandat légal en matière de programmes.
 
