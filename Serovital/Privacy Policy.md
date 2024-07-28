@@ -191,4 +191,4 @@ All trademarks are the property of their respective owners. © SanMedica (2012-2
 
 [0](#)
 
-![smNoImage](https://cdn.shopify.com/extensions/853cacf9-fd88-4bb2-82d9-b42c66b276fd/sales-motivator-free-gifts-9/assets/noimage.png)
+![smNoImage](https://cdn.shopify.com/extensions/1409daf0-cd8b-4fd0-ab28-c5700f729d4f/sales-motivator-free-gifts-10/assets/noimage.png) ![smChangeIcon](https://cdn.shopify.com/extensions/1409daf0-cd8b-4fd0-ab28-c5700f729d4f/sales-motivator-free-gifts-10/assets/change.svg)
