@@ -1,4 +1,8 @@
-[![](https://therealnews.com/wp-content/uploads/2024/05/Our-Summer-Campaign-is-2024-1.jpg)](https://support.therealnews.com/-/XXATQJJR)
+![YouTube video](https://i.ytimg.com/vi/psNMgXKYGJs/hqdefault.jpg)
+
+If you want to see more vital coverage like this on _Edge of Sports TV_ and beyond, we need you on our team: **[become a member now](https://support.therealnews.com/-/XRVMNPVD),** and let’s bring the noise!   
+
+[![](https://therealnews.com/wp-content/uploads/2023/04/TRNN-Newsletter-Donate-Button.png)](https://support.therealnews.com/-/XBPXRRDY)
 
 You're missing out.
 ===================
@@ -94,14 +98,14 @@ Trending Posts
 
 * [Black woman dies in California prison from heat over 110 degrees](https://therealnews.com/black-woman-dies-in-california-prison-from-heat-over-110-degrees)
 * [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
-* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
 * [Republicans plan for 40 years of MAGA](https://therealnews.com/republicans-plan-for-40-years-of-maga)
 * [RNC delegates explain their views—and stumble through fact checks](https://therealnews.com/rnc-delegates-explain-their-views-and-stumble-through-fact-checks)
+* [I served in the Air Force for 22 years. Then the US backed a genocide against my family](https://therealnews.com/i-served-in-the-air-force-for-22-years-then-the-us-backed-a-genocide-against-my-family)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
-* [‘Biden’s legacy is—and always will be—genocide’: Palestine advocates react to Biden dropping out of presidential race](https://therealnews.com/bidens-legacy-is-and-always-will-be-genocide-palestine-advocates-react-to-biden-dropping-out-of-presidential-race)
+* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
 
 Close
 
@@ -158,14 +162,14 @@ Trending Posts
 
 * [Black woman dies in California prison from heat over 110 degrees](https://therealnews.com/black-woman-dies-in-california-prison-from-heat-over-110-degrees)
 * [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
-* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
 * [Republicans plan for 40 years of MAGA](https://therealnews.com/republicans-plan-for-40-years-of-maga)
 * [RNC delegates explain their views—and stumble through fact checks](https://therealnews.com/rnc-delegates-explain-their-views-and-stumble-through-fact-checks)
+* [I served in the Air Force for 22 years. Then the US backed a genocide against my family](https://therealnews.com/i-served-in-the-air-force-for-22-years-then-the-us-backed-a-genocide-against-my-family)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
-* [‘Biden’s legacy is—and always will be—genocide’: Palestine advocates react to Biden dropping out of presidential race](https://therealnews.com/bidens-legacy-is-and-always-will-be-genocide-palestine-advocates-react-to-biden-dropping-out-of-presidential-race)
+* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
 
 [Skip to content](#main)
 
@@ -355,14 +359,14 @@ Trending Posts
 
 * [Black woman dies in California prison from heat over 110 degrees](https://therealnews.com/black-woman-dies-in-california-prison-from-heat-over-110-degrees)
 * [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
-* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
-* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
 * [Republicans plan for 40 years of MAGA](https://therealnews.com/republicans-plan-for-40-years-of-maga)
 * [RNC delegates explain their views—and stumble through fact checks](https://therealnews.com/rnc-delegates-explain-their-views-and-stumble-through-fact-checks)
+* [I served in the Air Force for 22 years. Then the US backed a genocide against my family](https://therealnews.com/i-served-in-the-air-force-for-22-years-then-the-us-backed-a-genocide-against-my-family)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
-* [‘Biden’s legacy is—and always will be—genocide’: Palestine advocates react to Biden dropping out of presidential race](https://therealnews.com/bidens-legacy-is-and-always-will-be-genocide-palestine-advocates-react-to-biden-dropping-out-of-presidential-race)
+* [An 'Olympic problem': Advocates call out Paris's war on the homeless](https://therealnews.com/an-olympic-problem-advocates-call-out-pariss-war-on-the-homeless)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [Did Texas cops make this father a fugitive in retaliation for a police brutality lawsuit?](https://therealnews.com/did-texas-cops-make-this-father-a-fugitive-in-retaliation-for-a-police-brutality-lawsuit)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
