@@ -13,6 +13,7 @@ Menu
     * [Softonic Benefits](https://hello.softonic.com/for-users/#softonic-benefits)
     * [Safe for Users](https://hello.softonic.com/for-users/#safe-for-users)
     * [User Experience](https://hello.softonic.com/for-users/#user-experience)
+    * [Appvizer](https://hello.softonic.com/for-users/#appvizer)
     * [Ghacks.net](https://hello.softonic.com/for-users/#ghacksdotnet)
 * [Advertisers](https://hello.softonic.com/advertise-with-us/)Show sub-menu for Advertisers
     * [Grow your business](https://hello.softonic.com/advertise-with-us/#lets-grow)
@@ -56,6 +57,7 @@ Menu
     * [Softonic Benefits](https://hello.softonic.com/for-users/#softonic-benefits)
     * [Safe for Users](https://hello.softonic.com/for-users/#safe-for-users)
     * [User Experience](https://hello.softonic.com/for-users/#user-experience)
+    * [Appvizer](https://hello.softonic.com/for-users/#appvizer)
     * [Ghacks.net](https://hello.softonic.com/for-users/#ghacksdotnet)
 * [Advertisers](https://hello.softonic.com/advertise-with-us/)
     * [Advertisers](https://hello.softonic.com/advertise-with-us/)
@@ -216,6 +218,7 @@ Last Version 15 December 2022
     * [Softonic Benefits](https://hello.softonic.com/for-users/#softonic-benefits)
     * [Safe for Users](https://hello.softonic.com/for-users/#safe-for-users)
     * [User Experience](https://hello.softonic.com/for-users/#user-experience)
+    * [Appvizer](https://hello.softonic.com/for-users/#appvizer)
     * [Ghacks.net](https://hello.softonic.com/for-users/#ghacksdotnet)
 * [Advertisers](https://hello.softonic.com/advertise-with-us/)
     * [Grow your business](https://hello.softonic.com/advertise-with-us/#lets-grow)
