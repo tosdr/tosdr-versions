@@ -19,41 +19,42 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The Ship of Blueprints was made by children from the Adams Gardens and Swan Road estates in Rotherhithe in 2004](https://southwarknews.co.uk/wp-content/uploads/2024/07/20200907-BrunelMuseum-LoRes126-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
+    [![Locals have pointed out the road sign mix-up in Canada Water. Credit: Vania Valle (Facebook)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Locals-have-pointed-out-the-road-sign-mix-up-in-Canada-Water.-Credit-Vania-Valle-Facebook-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
     
-    ### [Rotherhithe museum tracing youngsters who made artwork twenty years ago](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
+    ### [Bemused Canada Water residents told they actually live in Elephant and Castle](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
     
-    [![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-360x180.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+    [![Credit: Graham Turner](https://southwarknews.co.uk/wp-content/uploads/2024/07/Family-festival-CREDIT-Graham-Turner-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
     
-    ### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+    ### [Schools out for summer: 10 things to do with the kids in south London](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
     
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
+    [![Protestors outside  the former Albion pub in 2021 in a bid to stop its demolition
+    Photo: Southwark News Supplied](https://southwarknews.co.uk/wp-content/uploads/2023/03/IMG_6220-1-360x180.jpg)](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
     
-    ### [Where does the Mayor of London stand on the two child benefit cap?](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
+    ### [Pub numbers down but which borough has the most and which are running dry?](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
     
-    [![L: John Salako, former Crystal Palace player. R: Futsal players at the tournament (Futsallers Foundation)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-24-07-2024-at-09.30-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
+    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/this-is-a-time-for-hope-it-is-a-time-for-change-and-a-time-for-us-to-kick-on-and-continue-to-deliver-for-you-says-council-leader/)
     
-    ### [John Salako among the hundreds at London’s first futsal tournament in Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
+    ### [‘This is a time for hope. It is a time for change, and a time for us to kick on and continue to deliver for you’, says Council Leader](https://southwarknews.co.uk/area/southwark/this-is-a-time-for-hope-it-is-a-time-for-change-and-a-time-for-us-to-kick-on-and-continue-to-deliver-for-you-says-council-leader/) 
     
-    [![Lambeth Country Show (wikicommons; EventLambeth)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-03-06-2024-at-14.13-360x180.jpeg)](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
+    [![Sayce Holmes-Lewis (right) with some of the team. (Axe and Saw)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sayce-Holmes-Lewis-right-with-some-of-the-team-e1722013158674-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
     
-    ### [Lambeth Country Show ride ‘malfunction’ that left four injured is now being investigated by HSE](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
+    ### [‘I grew up on the Aylesbury Estate, now I have a youth club there’](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
     
-    [![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+    [![Sarah Jane Baker (Zoom)](https://southwarknews.co.uk/wp-content/uploads/2024/07/IMG_3589-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
     
-    ### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+    ### [‘I’m horrified about the person I was’: Trans woman reveals all about her years spent in male prisons](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
     
-    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+    [![Plough Way, Rotherhithe (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-26-07-2024-at-16.50-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
     
-    ### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+    ### [Appeal after firearm discharge in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
     
-    [![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+    [![London ambulance service - image from X](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-ambulance-twitter-360x180.jpg)](https://southwarknews.co.uk/area/walworth/woman-hospitalised-after-collision-in-walworth/)
     
-    ### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+    ### [Woman hospitalised after collision in Walworth](https://southwarknews.co.uk/area/walworth/woman-hospitalised-after-collision-in-walworth/)
     
-    [![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+    [![Firefighters tackled a warehouse fire on Acre Lane, Brixton. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/07/GTWS3gKXYAAwiPS-e1721987432485-360x180.jpeg)](https://southwarknews.co.uk/news/brixton-warehouse-fire-firefighters-battle-blaze-for-nearly-three-hours/)
     
-    ### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+    ### [Brixton warehouse fire: Firefighters battle blaze for nearly three hours](https://southwarknews.co.uk/news/brixton-warehouse-fire-firefighters-battle-blaze-for-nearly-three-hours/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -95,41 +96,42 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The Ship of Blueprints was made by children from the Adams Gardens and Swan Road estates in Rotherhithe in 2004](https://southwarknews.co.uk/wp-content/uploads/2024/07/20200907-BrunelMuseum-LoRes126-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
+    [![Locals have pointed out the road sign mix-up in Canada Water. Credit: Vania Valle (Facebook)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Locals-have-pointed-out-the-road-sign-mix-up-in-Canada-Water.-Credit-Vania-Valle-Facebook-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
     
-    ### [Rotherhithe museum tracing youngsters who made artwork twenty years ago](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
+    ### [Bemused Canada Water residents told they actually live in Elephant and Castle](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
     
-    [![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-360x180.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+    [![Credit: Graham Turner](https://southwarknews.co.uk/wp-content/uploads/2024/07/Family-festival-CREDIT-Graham-Turner-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
     
-    ### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+    ### [Schools out for summer: 10 things to do with the kids in south London](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
     
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
+    [![Protestors outside  the former Albion pub in 2021 in a bid to stop its demolition
+    Photo: Southwark News Supplied](https://southwarknews.co.uk/wp-content/uploads/2023/03/IMG_6220-1-360x180.jpg)](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
     
-    ### [Where does the Mayor of London stand on the two child benefit cap?](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
+    ### [Pub numbers down but which borough has the most and which are running dry?](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
     
-    [![L: John Salako, former Crystal Palace player. R: Futsal players at the tournament (Futsallers Foundation)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-24-07-2024-at-09.30-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
+    [![Southwark Council Leader Kieron Williams in his Tooley Street office](https://southwarknews.co.uk/wp-content/uploads/2024/05/IMG_1259-scaled-e1716997618169-360x180.jpg)](https://southwarknews.co.uk/area/southwark/this-is-a-time-for-hope-it-is-a-time-for-change-and-a-time-for-us-to-kick-on-and-continue-to-deliver-for-you-says-council-leader/)
     
-    ### [John Salako among the hundreds at London’s first futsal tournament in Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
+    ### [‘This is a time for hope. It is a time for change, and a time for us to kick on and continue to deliver for you’, says Council Leader](https://southwarknews.co.uk/area/southwark/this-is-a-time-for-hope-it-is-a-time-for-change-and-a-time-for-us-to-kick-on-and-continue-to-deliver-for-you-says-council-leader/) 
     
-    [![Lambeth Country Show (wikicommons; EventLambeth)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-03-06-2024-at-14.13-360x180.jpeg)](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
+    [![Sayce Holmes-Lewis (right) with some of the team. (Axe and Saw)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sayce-Holmes-Lewis-right-with-some-of-the-team-e1722013158674-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
     
-    ### [Lambeth Country Show ride ‘malfunction’ that left four injured is now being investigated by HSE](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
+    ### [‘I grew up on the Aylesbury Estate, now I have a youth club there’](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
     
-    [![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+    [![Sarah Jane Baker (Zoom)](https://southwarknews.co.uk/wp-content/uploads/2024/07/IMG_3589-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
     
-    ### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+    ### [‘I’m horrified about the person I was’: Trans woman reveals all about her years spent in male prisons](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
     
-    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+    [![Plough Way, Rotherhithe (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-26-07-2024-at-16.50-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
     
-    ### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+    ### [Appeal after firearm discharge in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
     
-    [![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+    [![London ambulance service - image from X](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-ambulance-twitter-360x180.jpg)](https://southwarknews.co.uk/area/walworth/woman-hospitalised-after-collision-in-walworth/)
     
-    ### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+    ### [Woman hospitalised after collision in Walworth](https://southwarknews.co.uk/area/walworth/woman-hospitalised-after-collision-in-walworth/)
     
-    [![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+    [![Firefighters tackled a warehouse fire on Acre Lane, Brixton. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/07/GTWS3gKXYAAwiPS-e1721987432485-360x180.jpeg)](https://southwarknews.co.uk/news/brixton-warehouse-fire-firefighters-battle-blaze-for-nearly-three-hours/)
     
-    ### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+    ### [Brixton warehouse fire: Firefighters battle blaze for nearly three hours](https://southwarknews.co.uk/news/brixton-warehouse-fire-firefighters-battle-blaze-for-nearly-three-hours/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -345,61 +347,62 @@ Website
 
 [23rd July 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-assesses-millwall-display-in-feisty-defeat-to-nottingham-forest-we-want-to-be-competitive-weve-got-700-millwall-fans-here/)
 
-[![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
-
-### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
-
-[23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
-
 [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
 ### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
 [22nd July 2024](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
-[![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-120x86.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
-
-### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
-
-[21st July 2024](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
-
-### Featured Articles
-
-[![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-120x86.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
-
-### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
-
-[24th July 2024](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
-
-[![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
-
-### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
-
-[24th July 2024](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
-
-[![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-120x86.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
-
-### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
-
-[23rd July 2024](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
-
 [![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
 ### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
 [23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
-[![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+[![The Great Boat Race is on September 21 (Thames Festival Trust)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-09.32-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/festival-on-the-river-thames-is-back-this-september/)
 
-### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+### [Festival on the River Thames is back this September](https://southwarknews.co.uk/area/south-bank/festival-on-the-river-thames-is-back-this-september/)
 
-[23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+[23rd July 2024](https://southwarknews.co.uk/area/south-bank/festival-on-the-river-thames-is-back-this-september/)
 
-[![CGI of the apartments on Maltby Street (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-18.19-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
+### Featured Articles
 
-### [Forty new Bermondsey council homes left unfinished after construction firm collapses](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
+[![Locals have pointed out the road sign mix-up in Canada Water. Credit: Vania Valle (Facebook)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Locals-have-pointed-out-the-road-sign-mix-up-in-Canada-Water.-Credit-Vania-Valle-Facebook-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
 
-[23rd July 2024](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
+### [Bemused Canada Water residents told they actually live in Elephant and Castle](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
+
+[27th July 2024](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
+
+[![Credit: Graham Turner](https://southwarknews.co.uk/wp-content/uploads/2024/07/Family-festival-CREDIT-Graham-Turner-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
+
+### [Schools out for summer: 10 things to do with the kids in south London](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
+
+[27th July 2024](https://southwarknews.co.uk/news/community/schools-out-for-summer-10-things-to-do-with-the-kids-in-south-london/)
+
+[![Protestors outside  the former Albion pub in 2021 in a bid to stop its demolition
+Photo: Southwark News Supplied](https://southwarknews.co.uk/wp-content/uploads/2023/03/IMG_6220-1-120x86.jpg)](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
+
+### [Pub numbers down but which borough has the most and which are running dry?](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
+
+[27th July 2024](https://southwarknews.co.uk/area/london/pub-numbers-down-but-which-borough-has-the-most-and-which-are-running-dry/)
+
+[![Sayce Holmes-Lewis (right) with some of the team. (Axe and Saw)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sayce-Holmes-Lewis-right-with-some-of-the-team-e1722013158674-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
+
+### [‘I grew up on the Aylesbury Estate, now I have a youth club there’](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
+
+[27th July 2024](https://southwarknews.co.uk/area/walworth/i-grew-up-on-the-aylesbury-estate-now-i-have-a-youth-club-there/)
+
+[![Sarah Jane Baker (Zoom)](https://southwarknews.co.uk/wp-content/uploads/2024/07/IMG_3589-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
+
+### [‘I’m horrified about the person I was’: Trans woman reveals all about her years spent in male prisons](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
+
+[27th July 2024](https://southwarknews.co.uk/area/camberwell/im-horrified-about-the-person-i-was-trans-woman-reveals-all-about-her-years-spent-in-male-prisons/)
+
+[![Plough Way, Rotherhithe (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-26-07-2024-at-16.50-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
+
+### [Appeal after firearm discharge in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
+
+[26th July 2024](https://southwarknews.co.uk/area/rotherhithe/appeal-after-firearm-discharge-in-rotherhithe/)
 
 ### USEFUL PAGES
 
