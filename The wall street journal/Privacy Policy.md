@@ -808,6 +808,7 @@ Dow Jones Products
 * [WSJ Pro](https://wsjpro.com/?mod=djm_wsjfooter_5-4-2022&LS=Website&utm_source=Website&utm_campaign=wsjfooter)
 * [WSJ Video](https://www.wsj.com/video?mod=wsjfooter)
 * [WSJ Wine](https://www.wsjwine.com/?utm_source=WSJ&utm_medium=Website&utm_campaign=Navigation&utm_content=Footer)
+* [The Times](https://www.thetimes.com/)
 
 * [Privacy Notice](https://www.dowjones.com/privacy-notice/?mod=WSJ)
 * [Cookie Notice](https://www.dowjones.com/cookie-notice/?mod=WSJ)
