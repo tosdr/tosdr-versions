@@ -167,7 +167,7 @@ Follow
 
 [Careers](https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----549250c61572--------------------------------)
 
-[Press](mailto:pressinquiries@medium.com?source=post_page-----549250c61572--------------------------------)
+[Press](https://medium.com/radio-public/pressinquiries@medium.com?source=post_page-----549250c61572--------------------------------)
 
 [Blog](https://blog.medium.com/?source=post_page-----549250c61572--------------------------------)
 
