@@ -83,8 +83,6 @@ Main Navigation
 
 [Sign In](https://myaccount.terrastaffinggroup.com/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202183%201374'%3E%3C/svg%3E)
-
 ![](https://www.terrastaffinggroup.com/wp-content/uploads/2024/02/blog-hero.jpeg)
 
 Privacy Policies
@@ -256,8 +254,6 @@ The Illinois Biometric Information Privacy Act, 740 ILCS 14/1, et seq. (“BIPA�
 
 The undersigned employee acknowledges that he/she has received the attached Biometric Information Privacy Policy, and that he/she consents to the Company and the licensor of the Company’s time and attendance software’s collection, storage, and use of biometric data through a biometric time clock, including to the extent that it utilizes the employee’s biometric identifiers or biometric information as defined in BIPA, and consents to the Company providing such biometric data to the licensor of the Company’s time and attendance software.
 
-![Photo of Success Story, Austin Klapthor](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20946'%3E%3C/svg%3E)
-
 ![Photo of Success Story, Austin Klapthor](https://www.terrastaffinggroup.com/wp-content/uploads/2024/07/Austin-e1721171897493.jpg)
 
 Featured Success Story
@@ -268,8 +264,6 @@ Featured Success Story
 Starting a career straight out of high school may not always go as planned. But for Austin Klapthor, the unexpected turned into a great opportunity.  Let’s hear from Austin himself.  I had a part-time job when I was in high school, and I wanted to eventually work there full-time. I told them that I’d finish …
 
 [Read More from From High School to Job Success—Thanks TERRA](https://www.terrastaffinggroup.com/resources/blog/scottsdale-success-story-austin-klapthor/)
-
-![HR HotSpot: Presented by TERRA Staffing, a Verstela Company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201556%20276'%3E%3C/svg%3E)
 
 ![HR HotSpot: Presented by TERRA Staffing, a Verstela Company](https://www.terrastaffinggroup.com/wp-content/themes/terra-23/src/img/logos/verstela-hotspot.png)
 
