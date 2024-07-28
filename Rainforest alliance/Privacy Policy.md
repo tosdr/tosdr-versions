@@ -351,6 +351,8 @@ In 2023, 77% of our income supported sustainability programs. [Learn More](https
 
 ![charity-watch](/wp-content/themes/rainforest-replant/dist/img/charity-watch-mono.svg)
 
+                
+
 Join our Mailing List
 ---------------------
 
@@ -364,7 +366,7 @@ opt-in
 
  Send me business updates
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -398,21 +400,6 @@ Subscribe
 The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN: 13-3377893. | © Copyright 1987 - 2024, Rainforest Alliance
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
-
-Download Email Form
--------------------
-
-Require email to download resource items
-
-Email
-
-Email
-
-This field is for validation purposes and should be left unchanged.
-
-Submit       
-
-×
 
 [العربية](https://www.rainforest-alliance.org/nespresso/ar/)  
 [български](https://www.rainforest-alliance.org/nespresso/bg/)  
