@@ -60,7 +60,7 @@ Open
     * Clusters
         
         * [Custom-built ClustersBuild the next Foundation Model with one of the fastest and most energy-efficient supercomputers in the world](https://www.scaleway.com/en/custom-built-clusters/)
-        * [GPU Cluster On DemandRent a GPU-cluster from 32 to more than a thousand GPUs to speed up distributed training](https://www.scaleway.com/en/cluster-on-demand/)
+        * [On Demand ClusterRent a GPU-cluster from 32 to more than a thousand GPUs to speed up distributed training](https://www.scaleway.com/en/cluster-on-demand/)
     * Model-as-a-service
         
         * [Managed InferenceServe Generative AI models and answer prompts from European end-consumers securely](https://www.scaleway.com/en/inference/)
@@ -169,19 +169,20 @@ Open
 * Resources
 * [Pricing](https://www.scaleway.com/en/pricing/)
 
-* Dedibox - dedicated servers
+* [Dedibox - dedicated servers](https://www.scaleway.com/en/dedibox/)
     * [StartAffordable servers with the best price-performance ratio on the market](https://www.scaleway.com/en/dedibox/start/)
     * [ProPerfect balance of processing power, memory and storage](https://www.scaleway.com/en/dedibox/pro/)
     * [CoreThe high performance backbone of your mission-critical infrastructure](https://www.scaleway.com/en/dedibox/core/)
     * [StoreFor mission-critical data, fast storage, backup and streaming](https://www.scaleway.com/en/dedibox/store/)
     * [DedirackHost your Hardware in our secured French datacenters](https://www.scaleway.com/en/dedibox/dedirack/)
     * [Dedibox VPS60 locations worldwide, starting at €4,99/month](https://www.scaleway.com/en/dedibox-vps/)
-* Elastic Metal - bare metal cloud
+* [Elastic Metal - bare metal cloud](https://www.scaleway.com/en/elastic-metal/)
     * [AluminiumFully dedicated bare metal servers with native cloud integration, at the best price](https://www.scaleway.com/en/elastic-metal/aluminium/)
     * [BerylliumPowerful, balanced and reliable servers for production-grade applications](https://www.scaleway.com/en/elastic-metal/beryllium/)
     * [IridiumPowerful dedicated server designed to handle high-workload applications](https://www.scaleway.com/en/elastic-metal/iridium/)
     * [LithiumDesigned with huge local storage to keep, back up, and protect your data](https://www.scaleway.com/en/elastic-metal/lithium/)
 * Apple
+    
     * [Mac mini M1Enjoy the Mac mini experience with great simplicity](https://www.scaleway.com/en/hello-m1/)
     * [Mac mini M2Perform your daily tasks with speed and efficiency](https://www.scaleway.com/en/mac-mini-m2/)
     * [Mac mini M2 ProRealize your most ambitious projects thanks to a new level of power](https://www.scaleway.com/en/mac-mini-m2-pro/)
