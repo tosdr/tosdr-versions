@@ -113,15 +113,15 @@ Advanced Search
 
 Trending Splashtags
 
-[#music](https://spoutible.com/search/posts?q=%23music)
-
-[#70sanddown](https://spoutible.com/search/posts?q=%2370sanddown)
-
-[#drown](https://spoutible.com/search/posts?q=%23drown)
+[#south](https://spoutible.com/search/posts?q=%23south)
 
 [#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
 
-[#everylittlebithelps](https://spoutible.com/search/posts?q=%23everylittlebithelps)
+[#413](https://spoutible.com/search/posts?q=%23413)
+
+[#kamalaharris2024](https://spoutible.com/search/posts?q=%23kamalaharris2024)
+
+[#voteblue](https://spoutible.com/search/posts?q=%23voteblue)
 
 [Show More](https://spoutible.com/trending)
 
