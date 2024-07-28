@@ -1,9 +1,9 @@
-[![](/fileadmin/twipla/typo3-website-theme/images/twipla/logo.svg)](https://www.visitor-analytics.io/en/)[![](/fileadmin/twipla/typo3-website-theme/images/twipla/mobile-logo.svg)](https://www.visitor-analytics.io/en/)
+[![TWIPLA Desktop Logo](/fileadmin/twipla/typo3-website-theme/images/twipla/logo.svg)](https://www.visitor-analytics.io/en/)[![TWIPLA Mobile Logo](/fileadmin/twipla/typo3-website-theme/images/twipla/mobile-logo.svg)](https://www.visitor-analytics.io/en/)
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www_twipla_com%3D "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv=www_twipla_com%3D "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -91,10 +91,10 @@
     * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www_twipla_com%3D "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www_twipla_com%3D "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv=www_twipla_com%3D "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
@@ -163,14 +163,12 @@ Quick Navigation
         * [Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)
         * [Data Processing Agreement](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/data-processing-agreement)
         * [What to include in your Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy)
-        * [Service Description](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/service-description)
         * [Opt-Out & Do not track (DNT)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/opt-out-do-not-track-dnt)
         * [About Cookies - Controlling and Deleting Cookies](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy/about-cookies-controlling-and-deleting-cookies)
     * [Wix Integration](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration)
         * [Terms of use on Wix](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use)
         * [Data Processing Agreement & Cookie Information](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)
         * [What to include in your Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy)
-        * [Service Description](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/service-description)
         * [Opt-Out Do not track (DNT)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/opt-out-do-not-track-dnt)
     * [Homepage](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website)
         * [Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy)
@@ -234,14 +232,12 @@ Privacy Policy
         * [Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)
         * [Data Processing Agreement](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/data-processing-agreement)
         * [What to include in your Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy)
-        * [Service Description](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/service-description)
         * [Opt-Out & Do not track (DNT)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/opt-out-do-not-track-dnt)
         * [About Cookies - Controlling and Deleting Cookies](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy/about-cookies-controlling-and-deleting-cookies)
     * [Wix Integration](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration)![](/fileadmin/twipla/typo3-website-theme/template/images/down-quick-arrow.svg)
         * [Terms of use on Wix](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use)
         * [Data Processing Agreement & Cookie Information](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)
         * [What to include in your Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/what-to-include-in-your-privacy-policy)
-        * [Service Description](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/service-description)
         * [Opt-Out Do not track (DNT)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/opt-out-do-not-track-dnt)
     * [Homepage](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website)![](/fileadmin/twipla/typo3-website-theme/template/images/down-quick-arrow.svg)
         * [Privacy Policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy)
