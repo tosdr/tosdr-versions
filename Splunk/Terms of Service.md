@@ -107,6 +107,8 @@ false
         
     * [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
         
+    * [Splunk AI Assistant for SPL](https://www.splunk.com/en_us/products/splunk-ai-assistant-for-spl.html)
+        
     
     [View All Products](https://www.splunk.com/en_us/products.html)
     
@@ -474,6 +476,8 @@ More from Splunk
 [Splunk Cloud Platform](https://www.splunk.com/en_us/products/splunk-cloud-platform.html)
 
 [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
+
+[Splunk AI Assistant for SPL](https://www.splunk.com/en_us/products/splunk-ai-assistant-for-spl.html)
 
 [View All Products](https://www.splunk.com/en_us/products.html)
 
