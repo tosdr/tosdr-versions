@@ -65,7 +65,7 @@ Thank you for your feedback
 
 Rocket.Chat is committed to transparency as part of its values. As such, we provide previous versions of our Agreements and Policies.
 
-**Notices and Announcements**[](#notices-and-announcements)
+**Notices and Announcements**
 
 **Professional services agreement updates:** Effective today, revisions to our Professional Services Agreement are in force for new contracts. We have made updates to Clause 8 concerning intellectual property rights, along with a refinement of the language in Clause 2.2.
 
@@ -73,8 +73,8 @@ Rocket.Chat is committed to transparency as part of its values. As such, we prov
 
 [**Deprecation notice:**](https://www.rocket.chat/blog/deprecation-notice-cloud-services-mobile-and-desktop-apps-for-legacy-unsupported-versions) As of June 27, 2023, Rocket.Chat, we announce that effective October 1, 2023, support will be discontinued for legacy unsupported versions, impacting connections to cloud services, mobile, and desktop applications. This decision is driven by security and operational concerns related to legacy versions, aligning with industry standards. Users of unsupported versions will lose access to critical services, including push notifications, omnichannel channels, and marketplace apps. Workspace administrators are strongly encouraged to upgrade to supported versions or prepare for self-management of these services.
 
-[](#privacy-policy-and-subprocessors-list)Privacy Policy and Subprocessors List
--------------------------------------------------------------------------------
+Privacy Policy and Subprocessors List
+-------------------------------------
 
 [Rocket.Chat Privacy Policy-05-01-23.pdf](https://cdn.us.document360.io/6ae79a05-7252-45d0-96e8-8f375e07b1b2/Images/Documentation/Rocket.Chat%20Privacy%20Policy-05-01-23.pdf)
 
@@ -84,8 +84,8 @@ Rocket.Chat is committed to transparency as part of its values. As such, we prov
 
 * * *
 
-[](#customer-terms-and-additional-terms)Customer Terms and Additional Terms
----------------------------------------------------------------------------
+Customer Terms and Additional Terms
+-----------------------------------
 
 [Rocket.Chat-MSA-Self-Managed-02-27-21.pdf](https://cdn.us.document360.io/6ae79a05-7252-45d0-96e8-8f375e07b1b2/Images/Documentation/Rocket.Chat-MSA-Self-Managed-02-27-21.pdf)
 
