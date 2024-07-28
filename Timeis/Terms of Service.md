@@ -21,16 +21,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-12:41:22
+18:28:05
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Thursday, 25 July, 2024, week 30
+Sunday, 28 July, 2024, week 30
 
-Culinarians Day
+[World Hepatitis Day](https://www.worldhepatitisday.org/)
 
-Sun: ↑ 05:08 ↓ 21:27 (16h 19m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 05:13 ↓ 21:22 (16h 9m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
 
 ×
 
