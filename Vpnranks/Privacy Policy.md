@@ -69,10 +69,8 @@
     * [89% of VPNs Fall Short in User Satisfaction](https://www.vpnranks.com/reports/89-percent-of-vpns-fall-short-in-user-satisfaction-vpnscore-report/)
 * Events
     * [Olympic Games Paris 2024](https://www.vpnranks.com/access/sports/watch-olympic-games-paris-in-usa-on-bbc-iplayer/)
-    * [UEFA Champions League 2024-2025](https://www.vpnranks.com/access/channels/paramount-plus/watch-uefa-champions-league-outside-usa/)
     * [Big Brother Season 26](https://www.vpnranks.com/access/shows/watch-big-brother-season-26-outside-usa-on-cbs/)
 * [News](https://www.vpnranks.com/news/)
-* [About us](https://www.vpnranks.com/about-us/)
 * [Meet the Experts](https://www.vpnranks.com/meet-the-team/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E)
     
