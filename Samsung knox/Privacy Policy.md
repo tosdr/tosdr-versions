@@ -13,7 +13,7 @@ Back
     
     [Unified Endpoint Management](https://www2.samsungknox.com/en/solutions/uem)
     
-    Secure, deploy, manage, and analyze
+    More control over Samsung Galaxy devices
     
     [For Frontline](https://www2.samsungknox.com/en/solutions/knox-for-frontline)
     
@@ -65,7 +65,7 @@ Back
     
     Products
     
-    Business Devices Management
+    Enterprise Device Management
     
     [Knox Suite](https://www2.samsungknox.com/en/solutions/knox-suite)
     
@@ -678,7 +678,7 @@ Select Location / Language
     
 * Products
     
-    * Business devices management
+    * Enterprise device management
     * [Knox Suite](https://www2.samsungknox.com/en/solutions/knox-suite)
     * [Knox Platform for Enterprise](https://www2.samsungknox.com/en/solutions/it-solutions/knox-platform-for-enterprise)
     * [Knox Mobile Enrollment](https://www2.samsungknox.com/en/solutions/it-solutions/knox-mobile-enrollment)
