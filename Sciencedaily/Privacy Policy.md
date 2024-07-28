@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**July 24, 2024**
+**July 27, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [How Saharan Dust Regulates Hurricane Rainfall](https://www.sciencedaily.com/releases/2024/07/240724171436.htm)
-* [Yellowstone Microbes Produce Methane](https://www.sciencedaily.com/releases/2024/07/240724171548.htm)
-* [Mega Galaxy Cluster Collision: Dark Matter ...](https://www.sciencedaily.com/releases/2024/07/240724171512.htm)
-* [Placebo Effect for Pain Relief: Brain Circuitry](https://www.sciencedaily.com/releases/2024/07/240724123119.htm)
-* [Shark Experiencing a Boat Strike](https://www.sciencedaily.com/releases/2024/07/240724123103.htm)
-* [How Komodo Dragons Rip Apart Their Prey](https://www.sciencedaily.com/releases/2024/07/240724123055.htm)
-* [Future Wireless Communication Channels](https://www.sciencedaily.com/releases/2024/07/240724123052.htm)
-* [Rembrandt's Combined Pigments in The Night Watch](https://www.sciencedaily.com/releases/2024/07/240724123031.htm)
-* [T Rex Could Have Been 70% Larger](https://www.sciencedaily.com/releases/2024/07/240724123027.htm)
-* [Whale Shark Tracked for Four Years](https://www.sciencedaily.com/releases/2024/07/240724123025.htm)
+* ['Dancing Molecules' Heal Cartilage Damage](https://www.sciencedaily.com/releases/2024/07/240726193211.htm)
+* [Robotics and How Flies Assess Winds](https://www.sciencedaily.com/releases/2024/07/240726113422.htm)
+* [Lampreys: 'Jaw-Dropping' Evolutionary Origin](https://www.sciencedaily.com/releases/2024/07/240726113343.htm)
+* [Making AI 1,000 Times More Energy Efficient](https://www.sciencedaily.com/releases/2024/07/240726113337.htm)
+* [Controlling Mosquitoes Through Genetic Breeding](https://www.sciencedaily.com/releases/2024/07/240722155107.htm)
+* [Hidden Elements from Ancient Alchemy Lab](https://www.sciencedaily.com/releases/2024/07/240725154836.htm)
+* [Drug Shows Promise in Clearing HIV from Brain](https://www.sciencedaily.com/releases/2024/07/240725193914.htm)
+* [Nitrogen Emissions Have a Net Cooling Effect](https://www.sciencedaily.com/releases/2024/07/240725154823.htm)
+* [New Zealand's Flightless Birds Retreating](https://www.sciencedaily.com/releases/2024/07/240725154812.htm)
+* [Ice Sheets Melt Fast, Regrow Slowly: Sponginess](https://www.sciencedaily.com/releases/2024/07/240725154739.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Sleep Disorder Research](https://www.sciencedaily.com/news/health_medicine/sleep_disorders/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
-
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
   
 
