@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://www.theepochtimes.com/health/ultra-processed-foods-are-harming-children-whats-being-done-about-it-5655182)
+* [Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://www.theepochtimes.com/china/beijing-expands-anti-us-alliance-with-hamas-fatah-agreement-analysts-5693591)
     
-    NEW By [Jennifer Sweenie](https://www.theepochtimes.com/author/jennifer-sweenie)
+    3hr By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong)
     
-    [![Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://img.theepochtimes.com/assets/uploads/2024/05/22/id5655185-IMG_3204-205x123.jpeg.webp)](https://www.theepochtimes.com/health/ultra-processed-foods-are-harming-children-whats-being-done-about-it-5655182)
-* [Marine Veteran Shot at Trump Rally Released From Hospital](https://www.theepochtimes.com/us/marine-veteran-shot-at-trump-rally-released-from-hospital-5693266)
+    ![Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693595-GettyImages-2162475670-205x123.jpg.webp)](https://www.theepochtimes.com/china/beijing-expands-anti-us-alliance-with-hamas-fatah-agreement-analysts-5693591)
+* [Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://www.theepochtimes.com/sports/diana-taurasi-seeks-gold-medal-record-with-usa-basketball-5694974)
     
-    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
     
-    [![Marine Veteran Shot at Trump Rally Released From Hospital](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Marine Veteran Shot at Trump Rally Released From Hospital](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693357-GettyImages-2161353774-205x123.jpg.webp)](https://www.theepochtimes.com/us/marine-veteran-shot-at-trump-rally-released-from-hospital-5693266)
-* [House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://www.theepochtimes.com/us/house-votes-unanimously-to-form-task-force-to-investigate-trump-assassination-attempt-5692889)
+    ![Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695059-GettyImages-2163896998-SB-205x123.jpg.webp)](https://www.theepochtimes.com/sports/diana-taurasi-seeks-gold-medal-record-with-usa-basketball-5694974)
+* [Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://www.theepochtimes.com/sports/paris-olympics-us-mens-basketball-tips-off-on-sunday-5695008)
     
-    9hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686132-trump-GettyImages-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-votes-unanimously-to-form-task-force-to-investigate-trump-assassination-attempt-5692889)
-* [Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://www.theepochtimes.com/us/florida-telecom-worker-charged-with-decade-long-spying-on-falun-gong-other-dissidents-for-beijing-5693169)
+    ![Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695050-GettyImages-2164058416-2-205x123.jpg.webp)](https://www.theepochtimes.com/sports/paris-olympics-us-mens-basketball-tips-off-on-sunday-5695008)
+* [POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://www.theepochtimes.com/health/pots-symptoms-causes-treatments-and-natural-approaches-5691538)
     
-    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    6hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
-    [![Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://img.theepochtimes.com/assets/uploads/2023/10/02/id5502040-DOJ-e1696240213898-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-telecom-worker-charged-with-decade-long-spying-on-falun-gong-other-dissidents-for-beijing-5693169)
-* [Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://www.theepochtimes.com/us/biden-addresses-nation-from-oval-office-to-explain-why-he-quit-2024-race-5693209)
+    ![POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693741-25-July-Postural-Orthostatic-Tachycardia-Syndrome_feature_Fei-205x123.jpg.webp)](https://www.theepochtimes.com/health/pots-symptoms-causes-treatments-and-natural-approaches-5691538)
+* [Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://www.theepochtimes.com/us/supreme-court-to-hear-san-franciscos-challenge-to-epa-water-pollution-regulation-5694530)
     
-    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    18hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693251-joe-biden-oval-office-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-addresses-nation-from-oval-office-to-explain-why-he-quit-2024-race-5693209)
-* [Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://www.theepochtimes.com/health/chronic-fatigue-syndrome-no-more-likely-after-covid-than-other-infections-cdc-study-finds-5693076)
+    ![Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695058-GettyImages-1155297191-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-san-franciscos-challenge-to-epa-water-pollution-regulation-5694530)
+* [Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://www.theepochtimes.com/china/texas-lawmakers-denounce-cpp-and-call-for-persecution-of-falun-gong-to-end-5694707)
     
-    11hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    18hr By [Aaron Pan](https://www.theepochtimes.com/author/aaron-pan)
     
-    [![Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693193-covid-virus-24-205x123.jpg.webp)](https://www.theepochtimes.com/health/chronic-fatigue-syndrome-no-more-likely-after-covid-than-other-infections-cdc-study-finds-5693076)
-* [Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://www.theepochtimes.com/us/pennsylvania-federal-judge-upholds-ftc-ban-on-noncompete-agreements-5693000)
+    ![Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://img.theepochtimes.com/assets/uploads/2024/07/27/id5694729-Front-right-205x123.jpg.webp)](https://www.theepochtimes.com/china/texas-lawmakers-denounce-cpp-and-call-for-persecution-of-falun-gong-to-end-5694707)
+* [Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://www.theepochtimes.com/china/blinken-raises-us-concerns-in-talk-with-chinas-foreign-minister-in-laos-5694806)
     
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    18hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683660-GettyImages-71968930KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-federal-judge-upholds-ftc-ban-on-noncompete-agreements-5693000)
-* [Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://www.theepochtimes.com/china/taiwan-needs-to-do-more-to-become-resilient-against-communist-chinas-aggression-report-5692887)
+    ![Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695064-GettyImages-2163035803-SB-205x123.jpg.webp)](https://www.theepochtimes.com/china/blinken-raises-us-concerns-in-talk-with-chinas-foreign-minister-in-laos-5694806)
+* [Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://www.theepochtimes.com/world/israel-says-hezbollah-rocket-attack-kills-11-raising-specter-of-war-with-lebanon-5694842)
     
-    13hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    19hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693174-A07-O-CONCERNS-OVER-TAIWAN-RISE-AS-RUSSIA-DECLARES-WAR-1200x881-e1658634104414KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-needs-to-do-more-to-become-resilient-against-communist-chinas-aggression-report-5692887)
-* [Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://www.theepochtimes.com/us/faith-family-and-business-inseparable-for-mississippi-duck-call-craftsman-5692518)
+    ![Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695068-2024-07-27T194016Z_2_LYNXMPEK6Q07R_RTROPTP_4_ISRAEL-PALESTINIANS-LEBANON-SB-205x123.jpg)](https://www.theepochtimes.com/world/israel-says-hezbollah-rocket-attack-kills-11-raising-specter-of-war-with-lebanon-5694842)
+* [Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://www.theepochtimes.com/health/dietary-supplements-to-ease-restless-legs-syndrome-whats-the-evidence-5693010)
     
-    13hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    20hr By [Susan C. Olmstead](https://www.theepochtimes.com/author/susan-c-olmstead)
     
-    [![Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693177-450259155_459396036887641_2648808367304752339_nKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/faith-family-and-business-inseparable-for-mississippi-duck-call-craftsman-5692518)
-* [NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://www.theepochtimes.com/us/nyc-schools-to-run-new-illustrative-math-program-aimed-at-bolstering-test-scores-5692955)
+    ![Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695067-restless-legs-SB-205x123.jpg)](https://www.theepochtimes.com/health/dietary-supplements-to-ease-restless-legs-syndrome-whats-the-evidence-5693010)
+* [Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://www.theepochtimes.com/sports/veteran-star-laden-us-basketball-squad-will-have-to-dig-deep-for-gold-at-paris-5694693)
     
-    13hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    22hr By [John E. Gibson](https://www.theepochtimes.com/author/john-e-gibson)
     
-    [![NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5685337-GettyImages-85738834-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-schools-to-run-new-illustrative-math-program-aimed-at-bolstering-test-scores-5692955)
+    ![Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://img.theepochtimes.com/assets/uploads/2024/07/27/id5694840-GettyImages-2162939270-OP-205x123.jpg.webp)](https://www.theepochtimes.com/sports/veteran-star-laden-us-basketball-squad-will-have-to-dig-deep-for-gold-at-paris-5694693)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
