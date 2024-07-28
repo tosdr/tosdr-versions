@@ -542,17 +542,17 @@ Scam Categories
 Featured On
 -----------
 
-* ABC
-* BBC
-* CNET
-* NBC
-* FOX
-* The Star
+* [ABC](#.)
+* [BBC](#.)
+* [CNET](#.)
+* [NBC](#.)
+* [FOX](#.)
+* [The Star](#.)
 * [FOX BUSINESS](https://www.fox6now.com/news/it-exposes-how-the-scam-works-and-educates-the-consumer-scam-detector-app-protects-your-money)
-* CTV
-* GLOBAL TV
-* KIPLINGER
-* Breakfast TV
+* [CTV](#.)
+* [GLOBAL TV](#.)
+* [KIPLINGER](#.)
+* [Breakfast TV](#.)
 
 Report a Scammer
 ----------------
