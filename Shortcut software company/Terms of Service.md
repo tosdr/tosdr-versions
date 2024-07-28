@@ -164,9 +164,9 @@ ClickUp
 
 Asana
 
-![Clickup logo](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/6453c2b6a580286616c9b8fc_zenhub_color.svg)
+![Clickup logo](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/66a3f656bb335dd9d4b42282_pivotal%20tracker.svg)
 
-Zenhub
+Pivotal Tracker
 
 ![Clickup logo](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/6453c2b603e645337c25e279_monday_color.svg)
 
