@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/code-80x48.jpg.webp)](https://thebackroomtech.com/2007/09/26/script-to-backup-the-windows-server-system-state-using-ntbackup-from-the-command-line/ "Script to Backup the Windows Server System State using NTbackup from the Command Line")[Script to Backup the Windows Server System State using NTbackup from the Command Line](https://thebackroomtech.com/2007/09/26/script-to-backup-the-windows-server-system-state-using-ntbackup-from-the-command-line/ "Script to Backup the Windows Server System State using NTbackup from the Command Line")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/00-80x52.png.webp)](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")[An Introduction To The Security Linux Distro “Tails”](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/device-manager-47x52.png.webp)](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")[Network Card configuration Missing after P2V using VMware Converter](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/remote-network-attack-1-80x45.jpeg.webp)](https://thebackroomtech.com/2019/03/11/defending-against-remote-desktop-protocol-attacks/ "Defending Against Remote Desktop Protocol Attacks")[Defending Against Remote Desktop Protocol Attacks](https://thebackroomtech.com/2019/03/11/defending-against-remote-desktop-protocol-attacks/ "Defending Against Remote Desktop Protocol Attacks")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/connected-to-server-1-80x34.png.webp)](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")[How to Upload VMware Workstation VM to ESXi Server](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/pc-code-1-80x41.jpg.webp)](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")[VMware Script – List Empty Resource Pools](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cisco-config-80x43.png.webp)](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")[How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")
 
 #### Our Publishing Family
 
