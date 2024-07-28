@@ -186,7 +186,7 @@ MENU
     [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
     
 
-[](https://www.facebook.com/sharer.php?u=https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html "Partager sur Facebook")[](https://twitter.com/share?url=https://www.rts.ch/entreprise/a-propos/8994021-conditions-generales.html&text=Conditions%20g%C3%A9n%C3%A9rales "Partager sur X")
+Partager
 
 Conditions générales
 ====================
