@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Carreta quebra e deixa trânsito lento no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_carreta-quebrada-Reproducao-Pajucara_e85d2bb74d.jpg)
+   [![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_a93595cde5.png)
 
-Rua Dois de Dezembro
+Maceió
 
-Carreta quebra e deixa trânsito lento no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/carreta-quebra-e-deixa-transito-lento-no-centro-de-maceio/ "Carreta quebra e deixa trânsito lento no Centro de Maceió")   [![Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/7/csm_sandubaria_e_interditada_na_Serraria_-_foto_Secom_Maceio_13d016142d.jpeg)
+Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")   [![Motociclista fica ferido em acidente com carro em curva no bairro do Farol ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_Acidente_Moto_Farol_33d1ac719d.jpg)
 
-paredes mofadas
+Trânsito
 
-Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria](https://www.tnh1.com.br/noticia/nid/infestacao-de-baratas-e-comida-fora-da-validade-sandubaria-e-interditada-na-serraria/ "Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria")   [![Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_choque_trabalhador_centro_maceio_2_2a5520e283.jpeg)
+Motociclista fica ferido em acidente com carro em curva no bairro do Farol](https://www.tnh1.com.br/noticia/nid/motociclista-fica-ferido-em-acidente-com-carro-em-curva-no-bairro-do-farol/ "Motociclista fica ferido em acidente com carro em curva no bairro do Farol ")   [![Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_acidente_na_durval_de_goes_monteiro_2_27-4-24_c4db00dd87.jpg)
 
-Foi socorrido
+acidente
 
-Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/trabalhador-sofre-choque-eletrico-e-fica-pendurado-em-andaime-no-centro-de-maceio/ "Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió")   [![Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_retirada-baleia-biota-3_7825faf010.jpg)
+Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro](https://www.tnh1.com.br/noticia/nid/video-ciclista-morre-apos-ser-atingido-por-moto-durante-travessia-na-durval-de-goes-monteiro/ "Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro")   [![Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_fiscalizacao_creci_autua_corredores_ilegais_-_foto_reproducao_creci_c92e40e3b3.jpg)
 
-Veja o vídeo
+Maceió e Satuba
 
-Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió](https://www.tnh1.com.br/noticia/nid/imagens-mostram-retirada-de-baleia-jubarte-encalhada-no-porto-de-maceio/ "Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió")   [![Homens são presos em flagrante furtando peito de frango em escola de Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_furto_escola_e5e30a8c68.png)
+Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios](https://www.tnh1.com.br/noticia/nid/conselho-flagra-falsos-corretores-que-colocavam-placas-com-anuncios-de-imoveis-em-condominios/ "Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ")   [![Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/a/csm_visa-maceio-apreensao-jacintinho_088ac84d7f.jpeg)
 
-na madrugada
+No Jacintinho
 
-Homens são presos em flagrante furtando peito de frango em escola de Maceió](https://www.tnh1.com.br/noticia/nid/homens-sao-presos-em-flagrante-furtando-peito-de-frango-em-escola-de-maceio/ "Homens são presos em flagrante furtando peito de frango em escola de Maceió ")   [![Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_baleia-jubarte-reproducao-cortesia_b526f46b42.jpeg)
+Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados](https://www.tnh1.com.br/noticia/nid/queijo-presunto-e-mortadela-fiscalizacao-apreende-170-kg-de-alimentos-estragados/ "Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados")   [![IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/8/csm_WhatsApp_Image_2024-07-26_at_15.49.28_4f5f660a16.jpeg)
 
 Meio Ambiente
 
-Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió](https://www.tnh1.com.br/noticia/nid/video-filhote-de-baleia-jubarte-e-encontrado-morto-encalhado-no-porto-de-maceio/ "Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió")
+IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação](https://www.tnh1.com.br/noticia/nid/ima-embarga-obra-e-autua-prefeitura-de-maceio-e-braskem-por-supressao-de-vegetacao/ "IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Mace
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_f8f7257e9a.jpg)
-
-Em Coruripe
-
-Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")   [![Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_dengue_Pexels_fe4d60ef8d_5066202dd5.jpeg)
-
-doença
-
-Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió](https://www.tnh1.com.br/noticia/nid/tres-ultimas-mortes-por-dengue-em-alagoas-foram-de-vitimas-de-maceio/ "Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió")   [![Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_congresso_jeova_c5d77c3d3d.png)
+   [![Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_csm_ALAGOAS_DA_SORTE_0070ad69ae_dbbf92f99c.jpg)
 
 Alagoas
 
-Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé](https://www.tnh1.com.br/noticia/nid/tres-dias-de-boas-noticias-testemunhas-de-jeova-fazem-congresso-no-rei-pele/ "Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé")   [![Painel com gastos de eventos públicos deve ser implementado em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_MPAL-AMA-eventos-publicos_13a9c6c60e.jpg)
+Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-28-3/ "Confira os ganhadores do Alagoas dá Sorte deste domingo (28)")   [![Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/b/csm_escola_indigena_-_foto_ascom_seduc_787510945e.jpg)
 
-Transparência
+Educação
 
-Painel com gastos de eventos públicos deve ser implementado em Alagoas](https://www.tnh1.com.br/noticia/nid/painel-com-gastos-de-eventos-publicos-deve-ser-implementado-em-alagoas/ "Painel com gastos de eventos públicos deve ser implementado em Alagoas")   [![Grande operação prende 32 foragidos da justiça em Maceió e no interior ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/3/csm_operacao_PC_6eb92e44da.jpeg)
+Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)](https://www.tnh1.com.br/noticia/nid/governo-entrega-escola-indigena-em-joaquim-gomes-na-proxima-terca-feira-30/ "Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)")   [![Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
 
-Polícia
+balneabilidade
 
-Grande operação prende 32 foragidos da justiça em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/grande-operacao-prende-32-foragidos-da-justica-em-maceio-e-no-interior/ "Grande operação prende 32 foragidos da justiça em Maceió e no interior ")    [![Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
+Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-quais-trechos-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas")   [![UFAL e USP se unem para fortalecer a educação básica alagoana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_formacao-alagoas-divulgacao_cd8cb3d205.jpg)
+
+Em dez cidades
+
+UFAL e USP se unem para fortalecer a educação básica alagoana](https://www.tnh1.com.br/noticia/nid/ufal-e-usp-se-unem-para-fortalecer-a-educacao-basica-alagoana/ "UFAL e USP se unem para fortalecer a educação básica alagoana")   [![Corpo de homem é achado boiando em barragem no interior de Alagoas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_corpo_barragem_296643073b.png)
+
+lagoa da canoa
+
+Corpo de homem é achado boiando em barragem no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-achado-boiando-em-barragem-no-interior-de-alagoas/ "Corpo de homem é achado boiando em barragem no interior de Alagoas ")   [![Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
 
 Em Arapiraca
 
-Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/estudante-e-arrastada-por-assaltantes-na-saida-de-escola-no-interior-de-alagoas/ "Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas")
+Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa](https://www.tnh1.com.br/noticia/nid/dois-casais-roubam-celulares-e-dinheiro-em-especie-de-vitima-que-seguia-a-pe-para-casa/ "Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,33 +82,37 @@ Estudante é arrastada por assaltantes na saída de escola, no interior de Alago
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_f8f7257e9a.jpg)
+   [![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_a93595cde5.png)
 
-Em Coruripe
+Maceió
 
-Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")   [![Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
-
-limoeiro de anadia
-
-Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://www.tnh1.com.br/noticia/nid/mulher-apanha-de-companheiro-durante-toda-a-tarde-e-e-socorrida-com-ajuda-da-vizinhanca/ "Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança")   [![Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_4a540e1b45.jpg)
-
-Em Maceió
-
-Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol](https://www.tnh1.com.br/noticia/nid/dupla-que-pescava-dinheiro-de-caixa-eletronico-e-presa-apos-crime-em-agencia-bancaria-no-farol/ "Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol")   [![Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_policia-militar-encontra-quase-15-quilos-de-drogas-enterrados-em-mata-no-clima-bom_1aa70c55f4.jpg)
+Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")   [![Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_policia-militar-apreende-mais-de-44-quilos-de-drogas-e-11-armas-em-uma-semana_cace26a7fd.jpg)
 
 Polícia
 
-Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom](https://www.tnh1.com.br/noticia/nid/policia-militar-encontra-quase-15-quilos-de-maconha-enterrados-em-mata-no-clima-bom/ "Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom")   [![Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_Suspeito_de_arrombar_onibus_de_turismo_estacionados_em_Pajucara_e_preso_-_foto_Divulgacao_PM_68d862f3b4.jpeg)
+Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-militar-apreende-mais-de-44-quilos-de-drogas-e-11-armas-em-uma-semana/ "Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana")   [![Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Crime_Palmeira_169d24fcf0.jpg)
 
-Polícia
+Interior
 
-Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso](https://www.tnh1.com.br/noticia/nid/suspeito-de-arrombar-onibus-de-turismo-estacionados-em-pajucara-e-preso/ "Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso")   [![Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_policial-desaparecido-corpo-encontrado-soterrado-reproducao-cortesia_cd0758b90a_60e587e52f.jpg)
+Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/homem-e-assassinado-a-tiros-dentro-da-propria-casa-em-palmeira-dos-indios/ "Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios")   [![Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_Oplit_Central_de_Flagrantes_foto_Ascom_PC_AL_ed126dcb85.jpeg)
 
-investigações
+testemunha ajudou
 
-Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM](https://www.tnh1.com.br/noticia/nid/policia-conclui-inquerito-e-revela-o-que-motivou-homem-a-matar-e-concretar-corpo-de-pm/ "Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ")
+Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada](https://www.tnh1.com.br/noticia/nid/motorista-de-app-e-vitima-de-roubo-e-assaltante-e-preso-enquanto-caminhava-em-calcada/ "Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada")   [![Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_Picanha-Peca-Imagem_Ilustrativa_-_Feed_b54d0f83be.jpg)
+
+flagrante
+
+Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/homem-e-preso-ao-tentar-furtar-peca-de-picanha-avaliada-em-r-160-de-supermercado-na-ponta-verde/ "Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde")   [![Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+
+Em Satuba
+
+Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"](https://www.tnh1.com.br/noticia/nid/mulher-denuncia-ex-por-agressao-e-diz-que-foi-vitima-de-racismo-ao-ser-chamada-de-macaca/ "Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
+
+[Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
+
+[TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 
@@ -122,21 +126,17 @@ Pessoas & Negócios
 
 Diretor comercial do Grupo Guido faz idade nova](https://www.tnh1.com.br/noticia/nid/diretor-comercial-do-grupo-guido-faz-idade-nova/ "Diretor comercial do Grupo Guido faz idade nova")
 
-[Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
-
-[TV](https://www.tnh1.com.br/videos/ "TV ")
-
-[PSCOM](https://www.tnh1.com.br/index.php?id=754 "PSCOM")
+[Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 * [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
 * [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 * [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 * [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 * [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
-* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 * [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
 * [TV](https://www.tnh1.com.br/videos/ "TV ")
-* [PSCOM](https://www.tnh1.com.br/index.php?id=754 "PSCOM")
+* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+* [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 [](https://www.tnh1.com.br/ "TNH1")
 
@@ -198,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_policial-desaparecido-corpo-encontrado-soterrado-reproducao-cortesia_cd0758b90a_c95a2d0b80.jpg)
+[![Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_fiscalizacao_creci_autua_corredores_ilegais_-_foto_reproducao_creci_880e55ab1e.jpg)
 
-investigações
+Maceió e Satuba
 
-investigações
+Maceió e Satuba
 
-Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM
+Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios
 
-Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM](https://www.tnh1.com.br/noticia/nid/policia-conclui-inquerito-e-revela-o-que-motivou-homem-a-matar-e-concretar-corpo-de-pm/ "Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ")[![Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/7/csm_Thommy_Schiavo_-_foto_Reproducao_MT_Play_-_SBT_Cuiaba_ad2f71b70f.jpg)
+Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios](https://www.tnh1.com.br/noticia/nid/conselho-flagra-falsos-corretores-que-colocavam-placas-com-anuncios-de-imoveis-em-condominios/ "Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ")[![Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/2/csm_riqueza_pixabay_1868ae743c.jpg)
 
-Thommy Schiavo
+É muito dinheiro!
 
-Thommy Schiavo
+É muito dinheiro!
 
-Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada
+Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país
 
-Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-ator-de-pantanal-se-desequilibra-antes-de-cair-de-sacada/ "Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada")[![Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_Homem_dirigia_um_carro_do_Conselho_Tutelar_quando_foi_assassinado_a_tiros_Foto_Cortesia_ao_TNH1_c64b18736c_3bbc9a9727.jpeg)
+Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país](https://www.tnh1.com.br/noticia/nid/quem-e-o-homem-mais-rico-do-brasil-veja-lista-com-os-10-maiores-bilionarios-do-pais/ "Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país")[![Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_Incendio_Hotel_Fortaleza_2_ba03732173.jpg)
 
-61 ANOS
+Nordeste
 
-61 ANOS
+Nordeste
 
-Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar
+Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza
 
-Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar](https://www.tnh1.com.br/noticia/nid/investigacao-revela-passado-criminoso-de-motorista-morto-em-carro-do-conselho-tutelar/ "Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar")[![Saiba quem é médica neurologista que raptou bebê de hospital em MG](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/f/csm_a_medica_suspeita_de_raptar_bebe_-_foto_montagem_d1bff33cdd.jpg)
+Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza](https://www.tnh1.com.br/noticia/nid/video-casal-e-cao-morrem-em-incendio-em-hotel-de-fortaleza/ "Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza")[![Motociclista fica ferido em acidente com carro em curva no bairro do Farol ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_Acidente_Moto_Farol_7fed7640fe.jpg)
 
-foi presa
+Trânsito
 
-foi presa
+Trânsito
 
-Saiba quem é médica neurologista que raptou bebê de hospital em MG
+Motociclista fica ferido em acidente com carro em curva no bairro do Farol
 
-Saiba quem é médica neurologista que raptou bebê de hospital em MG](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-medica-neurologista-que-raptou-bebe-de-hospital-em-mg/ "Saiba quem é médica neurologista que raptou bebê de hospital em MG")
+Motociclista fica ferido em acidente com carro em curva no bairro do Farol](https://www.tnh1.com.br/noticia/nid/motociclista-fica-ferido-em-acidente-com-carro-em-curva-no-bairro-do-farol/ "Motociclista fica ferido em acidente com carro em curva no bairro do Farol ")
 
-[![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_edadeaf662.jpg)
+[![Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_capotamento_viaexpressa_5fa80837cd.jpeg)
 
-Em Coruripe
+passa bem
 
-Em Coruripe
+passa bem
 
-Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola
+Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo
 
-Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")[![Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_montagem_casa_jogadores_penedo_foto_cortesia_e8d9e82cab.jpg)
+Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo](https://www.tnh1.com.br/noticia/nid/motorista-perde-controle-da-direcao-e-capota-com-carro-na-avenida-menino-marcelo/ "Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo ")[![Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/1/csm_acidente_ciclista_47fc31f108.png)
 
-Em time tradicional
+tragédia no trânsito
 
-Em time tradicional
+tragédia no trânsito
 
-Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas
+Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió
 
-Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas](https://www.tnh1.com.br/noticia/nid/jovens-sao-deixados-em-casa-com-condicoes-insalubres-apos-falsa-promessa-de-jogar-futebol-em-alagoas/ "Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas")[![Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_f5d1f2be3a.jpg)
+Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-pancada-em-ciclista-que-morreu-atropelado-em-via-de-maceio/ "Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió")[![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_9ee81cb514.png)
 
-limoeiro de anadia
+Maceió
 
-limoeiro de anadia
+Maceió
 
-Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança
+Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal
 
-Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://www.tnh1.com.br/noticia/nid/mulher-apanha-de-companheiro-durante-toda-a-tarde-e-e-socorrida-com-ajuda-da-vizinhanca/ "Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança")[![Carreta quebra e deixa trânsito lento no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_carreta-quebrada-Reproducao-Pajucara_099f1cbbb4.jpg)
+Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")[![Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_csm_ALAGOAS_DA_SORTE_0070ad69ae_d1a9e49de5.jpg)
 
-Rua Dois de Dezembro
+Alagoas
 
-Rua Dois de Dezembro
+Alagoas
 
-Carreta quebra e deixa trânsito lento no Centro de Maceió
+Confira os ganhadores do Alagoas dá Sorte deste domingo (28)
 
-Carreta quebra e deixa trânsito lento no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/carreta-quebra-e-deixa-transito-lento-no-centro-de-maceio/ "Carreta quebra e deixa trânsito lento no Centro de Maceió")
+Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-28-3/ "Confira os ganhadores do Alagoas dá Sorte deste domingo (28)")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
@@ -273,10 +273,10 @@ Carreta quebra e deixa trânsito lento no Centro de Maceió](https://www.tnh1.co
 * [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 * [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 * [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
-* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 * [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
 * [TV](https://www.tnh1.com.br/videos/ "TV ")
-* [PSCOM](https://www.tnh1.com.br/index.php?id=754 "PSCOM")
+* [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+* [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 * ACESSIBILIDADE
 
