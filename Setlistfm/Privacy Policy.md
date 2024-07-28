@@ -343,14 +343,14 @@ From time to time we may change our privacy practices. We will notify you of any
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-07-25 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-07-24 "Search setlists by day: "Yesterday"")
+* [Today](https://www.setlist.fm/search?query=date:2024-07-28 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-07-27 "Search setlists by day: "Yesterday"")
+* [Jul 26, 2024](https://www.setlist.fm/search?query=date:2024-07-26 "Search setlists by day: "Jul 26, 2024"")
+* [Jul 25, 2024](https://www.setlist.fm/search?query=date:2024-07-25 "Search setlists by day: "Jul 25, 2024"")
+* [Jul 24, 2024](https://www.setlist.fm/search?query=date:2024-07-24 "Search setlists by day: "Jul 24, 2024"")
 * [Jul 23, 2024](https://www.setlist.fm/search?query=date:2024-07-23 "Search setlists by day: "Jul 23, 2024"")
 * [Jul 22, 2024](https://www.setlist.fm/search?query=date:2024-07-22 "Search setlists by day: "Jul 22, 2024"")
 * [Jul 21, 2024](https://www.setlist.fm/search?query=date:2024-07-21 "Search setlists by day: "Jul 21, 2024"")
-* [Jul 20, 2024](https://www.setlist.fm/search?query=date:2024-07-20 "Search setlists by day: "Jul 20, 2024"")
-* [Jul 19, 2024](https://www.setlist.fm/search?query=date:2024-07-19 "Search setlists by day: "Jul 19, 2024"")
-* [Jul 18, 2024](https://www.setlist.fm/search?query=date:2024-07-18 "Search setlists by day: "Jul 18, 2024"")
 
 **© setlist.fm**
 
