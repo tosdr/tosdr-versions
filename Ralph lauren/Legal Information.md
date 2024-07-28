@@ -214,7 +214,7 @@ Please select your shipping region
     
     [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf&ab=EU_navimage_men_brands_S4_IMAGE)
     
-    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.b0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1721804817341/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.b3/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1722064019717/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
     
     * Brands [Brands](javascript:void(0))
         
@@ -238,6 +238,7 @@ Please select your shipping region
         * [New Arrivals](https://www.ralphlauren.co.uk/en/men/whats-new/new-arrivals/10101)
         * [Style & Sport](https://www.ralphlauren.co.uk/en/search?cgid=curated-world-of-sports&orignalCatID=curated-world-of-sports-rd3&altrurlID=curated-world-of-sports-rd3)
         * [Active Club](https://www.ralphlauren.co.uk/en/men/explore/active-club/12030115)
+        * [Wear To Work](https://www.ralphlauren.co.uk/en/men/explore/wear-to-work/10509)
         * [Summer Style](https://www.ralphlauren.co.uk/en/men/whats-new/summer-essentials/101020)
         * [Linen Collection](https://www.ralphlauren.co.uk/en/mens-linen-shirts/1203023)
         
@@ -394,6 +395,7 @@ Please select your shipping region
         
         * [New Season](https://www.ralphlauren.co.uk/en/women/whats-new/new-arrivals/20101)
         * [Style & Sport](https://www.ralphlauren.co.uk/en/search?cgid=curated-world-of-sports&orignalCatID=curated-world-of-sports-rd1&altrurlID=curated-world-of-sports-rd1)
+        * [Wear To Work](https://www.ralphlauren.co.uk/en/women/whats-new/wear-to-work/20105)
         * [Wardrobe Classics](https://www.ralphlauren.co.uk/en/women/explore/wardrobe-classics/9030107)
         * [Summer Style](https://www.ralphlauren.co.uk/en/women/whats-new/summer-shop/903028)
         * [RLX Golf](https://www.ralphlauren.co.uk/en/womens-golf/707230?orignalCatID=womens-golf-feat-rd&altrurlID=womens-golf-feat-rd)
@@ -783,20 +785,6 @@ Please select your shipping region
         
         * [Shop all](https://www.ralphlauren.co.uk/en/home/ralph-lauren-pet/50602)
         
-    * Home Gifting [Home Gifting](https://www.ralphlauren.co.uk/en/home/home-gifting/5070)
-        
-        [Home Gifting](https://www.ralphlauren.co.uk/en/home/home-gifting/5070)
-        
-        Home Gifting
-        
-        * [Shop All](https://www.ralphlauren.co.uk/en/home/home-gifting/5070?orignalCatID=home-gifts-shop-all-rd&altrurlID=home-gifts-shop-all-rd)
-        * [The Polo Bear Shop](https://www.ralphlauren.co.uk/en/home/home-gifting/the-polo-bear-shop/80504)
-        * [Housewarming Gifts](https://www.ralphlauren.co.uk/en/home/home-gifting/housewarming-gifts/50707)
-        * [Wedding Gifts](https://www.ralphlauren.co.uk/en/home/home-gifting/wedding-gifts/50706)
-        * [Luxe Gifts](https://www.ralphlauren.co.uk/en/gifts/for-the-home/objects-of-desire/80505?orignalCatID=home-ultimate-gifts&altrurlID=home-ultimate-gifts)
-        * [Host and Hostess Gifts](https://www.ralphlauren.co.uk/en/gifts/for-the-home/host-and-hostess-gifts/80502?orignalCatID=home-host-gifts-rd&altrurlID=home-host-gifts-rd)
-        * [Umbrellas](https://www.ralphlauren.co.uk/en/home/home-gifting/umbrellas/50208)
-        
     * Lighting [Lighting](https://www.ralphlauren.co.uk/en/home/lighting/50100)
         
         [Lighting](https://www.ralphlauren.co.uk/en/home/lighting/50100)
@@ -842,14 +830,6 @@ Please select your shipping region
         * [Trade Professionals](https://www.ralphlauren.co.uk/en/home/trade-professionals/110808?orignalCatID=home-trade-feature&altrurlID=home-trade-feature)
         * [Furniture & Rug Care](https://www.ralphlauren.co.uk/en/home/home-services/furniture-rug-care/5020011)
         * [Virtual Showroom](https://www.ralphlauren.co.uk/en/home/home-services/virtual-showroom/508016)
-        
-    * Sale [Sale](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
-        
-        [Sale](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
-        
-        Sale
-        
-        * [Shop all](https://www.ralphlauren.co.uk/en/sale/home/shop-all/100361?orignalCatID=home-sale-shop-all-uk-rd&altrurlID=home-sale-shop-all-uk-rd)
         
     
 * Gifts [Gifts](https://www.ralphlauren.co.uk/en/gifts/80)
@@ -1290,6 +1270,17 @@ From 12/06/2024 to 29/07/2024 only for purchases made on this website. Applies o
 
             
 
+  ![Video of men in sophisticated Polo styles.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+[](https://www.ralphlauren.co.uk/en/search?cgid=men-polo-fall&webcat=content-men-polo-fall)
+
+![Polo Ralph Lauren](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+Sophisticated Sportswear
+------------------------
+
+[Shop Now](https://www.ralphlauren.co.uk/en/search?cgid=men-polo-fall&webcat=content-men-polo-fall)
+
   ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 [](https://www.ralphlauren.co.uk/en/women/explore/pre-fall/9030123?webcat=content-women-polo-pre-fall)
@@ -1300,17 +1291,6 @@ The Seasonal Mix
 ----------------
 
 [Shop Now](https://www.ralphlauren.co.uk/en/women/explore/pre-fall/9030123?webcat=content-women-polo-pre-fall)
-
-  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-[](https://www.ralphlauren.co.uk/en/men/explore/only-polo/12030147?webcat=content-men-curated-only-polo)
-
-![Polo Ralph Lauren](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Only Polo
----------
-
-[Shop Now](https://www.ralphlauren.co.uk/en/men/explore/only-polo/12030147?webcat=content-men-curated-only-polo)
 
   ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)[](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=content-boys-seaside-ease)
 
@@ -1323,35 +1303,35 @@ Seaside Ease
 
   
 
-  [](https://www.ralphlauren.co.uk/en/women/explore/polo-dress-shop/9030128?webcat=content-women-polo-dresses)
+  [](https://www.ralphlauren.co.uk/en/women/explore/polo-id/903098?webcat=content-women-polo-bags-poloid)
 
-### Dresses & Skirts
+### Polo ID
 
-[Shop Women’s Polo](https://www.ralphlauren.co.uk/en/women/explore/polo-dress-shop/9030128?webcat=content-women-polo-dresses)
+[Shop Now](https://www.ralphlauren.co.uk/en/women/explore/polo-id/903098?webcat=content-women-polo-bags-poloid)
 
 ### Men’s Polo
 
-  [](https://www.ralphlauren.com/en/polo-soft-tailored-linen-sport-coat-515616.html?dwvar515616_colorname=York%20Brown)
+  [](https://www.ralphlauren.co.uk/en/men/clothing/jumpers-cardigans/10206?webcat=content-men-clothing-jumpers-cardigans)
 
-[Polo Soft Tailored Linen Sport Coat](https://www.ralphlauren.com/en/polo-soft-tailored-linen-sport-coat-515616.html?dwvar515616_colorname=York%20Brown) Polo Soft Tailored Linen Sport Coat
+Jumpers & Cardigans
 
-  [](https://www.ralphlauren.com/en/straight-fit-linen-cotton-trouser-639891.html?dwvar639891_colorname=Deckwash%20White)
+  [](https://www.ralphlauren.co.uk/en/men/clothing/polo-shirts/10201?webcat=content-men-clothing-poloshirts)
 
-[Straight Fit Linen-Cotton Trouser](https://www.ralphlauren.com/en/straight-fit-linen-cotton-trouser-639891.html?dwvar639891_colorname=Deckwash%20White) Straight Fit Linen-Cotton Trouser
+Polo Shirts
 
-  [](https://www.ralphlauren.com/en/classic-fit-cotton-linen-polo-shirt-640108.html?dwvar640108_colorname=Thermal%20Green)
+  [](https://www.ralphlauren.co.uk/en/men/clothing/jackets-coats/10205?webcat=content-men-clothing-jackets-coats)
 
-[Classic Fit Cotton-Linen Polo Shirt](https://www.ralphlauren.com/en/classic-fit-cotton-linen-polo-shirt-640108.html?dwvar640108_colorname=Thermal%20Green) Classic Fit Cotton-Linen Polo Shirt
+Jackets & Coats
 
-  [](https://www.ralphlauren.com/en/custom-fit-striped-linen-shirt-616819.html?dwvar616819_colorname=5137f%20Chocolate%20Mousse/wh)
+  [](https://www.ralphlauren.co.uk/en/men/clothing/trousers/102015?webcat=content-men-clothing-trousers)
 
-[Custom Fit Striped Linen Shirt](https://www.ralphlauren.com/en/custom-fit-striped-linen-shirt-616819.html?dwvar616819_colorname=5137f%20Chocolate%20Mousse/wh) Custom Fit Striped Linen Shirt
+Trousers
 
   
 
 [](https://www.ralphlauren.co.uk/en/men/brands/golf/70601?webcat=content-golf-men)
 
-![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.b0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.b3/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
 
 Tournament Style
 ----------------
