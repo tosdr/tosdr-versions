@@ -224,9 +224,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-![25% Increase in lead generation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Flead-generation-increase.png&w=488&q=75)
+![86% Decrease in waiting times](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fdecrease-waiting-times.png&w=488&q=75)
 
-[See customer story](https://www.tidio.com/blog/integratec-case-study/)
+[See customer story](https://www.tidio.com/blog/eye-oo-case-study/)
 
 [Tidio+ Premium Plan
 
@@ -260,9 +260,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-![86% Decrease in waiting times](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fdecrease-waiting-times.png&w=488&q=75)
+![25% Increase in lead generation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Flead-generation-increase.png&w=488&q=75)
 
-[See customer story](https://www.tidio.com/blog/eye-oo-case-study/)
+[See customer story](https://www.tidio.com/blog/integratec-case-study/)
 
 [Tidio+ Premium Plan
 
