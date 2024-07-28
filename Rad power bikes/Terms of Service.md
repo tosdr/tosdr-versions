@@ -2,7 +2,7 @@
 
 [](# "Previous")
 
-* [Up to $500 off ebikes & passenger gear. Shop Now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $500 off ebikes & passenger gear. Shop Now.")
+* [Up to $500 off ebikes. Shop Now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $500 off ebikes. Shop Now.")
     
 
 [](# "Next")
