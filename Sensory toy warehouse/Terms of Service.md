@@ -328,6 +328,12 @@ Copyright 2024 © **Sensory Toy Warehouse**
 * [](http://url/ "Follow on Facebook")[](http://url/ "Follow on Instagram")[](http://url/ "Follow on Twitter")[](mailto:your@email "Send us an email")
     
 
+Join Waitlist We will inform you when the product arrives in stock. Please leave your valid email address below.
+
+You need to Login for joining waitlist.
+
+[Login](https://www.sensorytoywarehouse.com/my-account/) [Register](https://www.sensorytoywarehouse.com/my-account/)
+
 ### Login
 
 Username or email address \* 
