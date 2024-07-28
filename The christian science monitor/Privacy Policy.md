@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Integrity
+[Joy
 
-### A simple, selfless dissent for integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0724/A-simple-selfless-dissent-for-integrity "A simple, selfless dissent for integrity")
+### It rained on their parade, but the Paris Olympians were all smiles](https://www.csmonitor.com/World/Olympics/2024/0726/It-rained-on-their-parade-but-the-Paris-Olympians-were-all-smiles "It rained on their parade, but the Paris Olympians were all smiles")
 
-[Transformation
+[Resilience
 
-### World leaders recalibrate as they consider a Harris presidency](https://www.csmonitor.com/World/2024/0724/Harris-new-mideast-outlook "World leaders recalibrate as they consider a Harris presidency")
+### In Butler, Pennsylvania, resilience and healing after Trump rally shooting](https://www.csmonitor.com/USA/Society/2024/0726/butler-pennsylvania-resilience-trump-assassination-attempt "In Butler, Pennsylvania, resilience and healing after Trump rally shooting")
 
-[Responsibility
+[Freedom
 
-### Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.](https://www.csmonitor.com/World/Europe/2024/0724/ukraine-donbas-women-workplace-mining-duty "Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.")
+### Venezuela’s renewing light](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0726/Venezuela-s-renewing-light "Venezuela’s renewing light")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -118,7 +118,7 @@ Featured podcast
 
 News
 
-[Economy](https://www.csmonitor.com/Business) [Education](https://www.csmonitor.com/USA/Education) [Environment](https://www.csmonitor.com/Environment) [Foreign Policy](https://www.csmonitor.com/USA/Foreign-Policy) [Law & Courts](https://www.csmonitor.com/USA/Justice) [Olympics](https://www.csmonitor.com/World/Olympics) [Politics](https://www.csmonitor.com/USA/Politics) [Science](https://www.csmonitor.com/Science) [Security](https://www.csmonitor.com/USA/Military) [Society](https://www.csmonitor.com/USA/Society)
+[Election 2024](https://www.csmonitor.com/USA/Topics/Election-2024) [Economy](https://www.csmonitor.com/Business) [Education](https://www.csmonitor.com/USA/Education) [Environment](https://www.csmonitor.com/Environment) [Foreign Policy](https://www.csmonitor.com/USA/Foreign-Policy) [Law & Courts](https://www.csmonitor.com/USA/Justice) [Olympics](https://www.csmonitor.com/World/Olympics) [Politics](https://www.csmonitor.com/USA/Politics) [Science](https://www.csmonitor.com/Science) [Security](https://www.csmonitor.com/USA/Military) [Society](https://www.csmonitor.com/USA/Society)
 
 Culture
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-July 24, 2024
+July 26, 2024
 
-You had me at ‘quilty’
+Why you need to read about Bangladesh today
 
-The Monitor is very good at being serious, and in times like these, that is an incredibly valuable thing. But we can also be surprisingly good at being lovely and witty and just plain delightful. Ladies and gentlemen, Murr Brewster. I am sure many of you have read her before, many times. Today, she shares with us the joys of quilting. But the subject rarely matters, really. She’s always worth a read. And yes, in times like these, perhaps especially so. 
+It’s no secret that international news doesn’t sell well. That’s why so many newspapers in the United States have all but abandoned foreign coverage. Today’s story from Bangladesh is a reminder of why it is so essential to the Monitor. When societies close off their openness to the outside world, they close off their ability to learn, to grow, and to love more expansively. There are lessons in Bangladesh’s story that we all can heed, people who can refill our stores of inspiration. Which is why we are there. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### World leaders recalibrate as they consider a Harris presidency](https://www.csmonitor.com/World/2024/0724/Harris-new-mideast-outlook "World leaders recalibrate as they consider a Harris presidency")
+[### Strike on Israeli Golan kills at least 11 children, risking a broader war](https://www.csmonitor.com/World/Middle-East/2024/0727/israel-golan-heights-attack-children-killed-hezbollah "Strike on Israeli Golan kills at least 11 children, risking a broader war")
 
-[### Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.](https://www.csmonitor.com/World/Europe/2024/0724/ukraine-donbas-women-workplace-mining-duty "Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.")
+[### It rained on their parade, but the Paris Olympians were all smiles](https://www.csmonitor.com/World/Olympics/2024/0726/It-rained-on-their-parade-but-the-Paris-Olympians-were-all-smiles "It rained on their parade, but the Paris Olympians were all smiles")
 
-[### In Javier Milei’s cash-strapped Argentina, enterprising residents use ingenuity to make ends meet](https://www.csmonitor.com/World/Americas/2024/0724/argentina-milei-financial-crisis "In Javier Milei’s cash-strapped Argentina, enterprising residents use ingenuity to make ends meet")
+[### In Butler, Pennsylvania, resilience and healing after Trump rally shooting](https://www.csmonitor.com/USA/Society/2024/0726/butler-pennsylvania-resilience-trump-assassination-attempt "In Butler, Pennsylvania, resilience and healing after Trump rally shooting")
 
 * * *
 
