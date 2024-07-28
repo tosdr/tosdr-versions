@@ -150,7 +150,6 @@ Site search input
 * [Home Learning](https://www.teachervision.com/home-learning-resources)
 * [Self-Care](https://www.teachervision.com/teaching-strategies/self-care)
 * [Premium Resources](https://www.teachervision.com/shop-products)
-* [For Schools](https://www.teachervision.com/for-schools)
 
 [Sign up](https://www.teachervision.com/upgrade-premium?destination=/tv/membership-terms)
 
