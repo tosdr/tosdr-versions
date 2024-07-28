@@ -134,15 +134,17 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
+[![Thumbnail of infographic against background showing cloud application management](https://backend.quadient.com/files/default/2024-07/thumb-infographic-flex-as-managed_v2.jpg "Inspire Flex-as-a-Managed-Service Infographic")
+
+Inspire Flex-as-a-Managed-Service
+
+A Quadient Managed Services Solution](https://www.quadient.com/en/resources/inspire-flex-managed-service)
+
 [![tablet-holding-ebook-13-reasons-to-choose-saas](https://backend.quadient.com/files/default/2024-07/tinified-en-us-thumb-2024-720x480-13_reasons_to_choose_saas.png "ebook-13-reasons-to-choose-saas")
 
 Power Up Your Document Management
 
 13 Reasons to Choose SaaS](https://www.quadient.com/en/resources/cxm/ebook-13-reasons-choose-saas)
-
-[![Property Management Company slashes invoicing time with Quadient Impress](https://backend.quadient.com/files/default/2023-04/thumb-cs-unnamed-property-management-impress-distribute-720x480-uki.jpg "Property Management Company slashes invoicing time with Quadient Impress")
-
-Property Management Company slashes invoicing time with Quadient Impress Distribute](https://www.quadient.com/en/resources/property-management-company-slashes-invoicing-time-quadient-impress)
 
 Communications
 
