@@ -71,6 +71,7 @@
     * [Client Success Stories](https://www.taxdefensenetwork.com/client-success-stories/)
     * [Customer Reviews](https://www.taxdefensenetwork.com/customer-reviews/)
     * [Locations](https://www.taxdefensenetwork.com/locations/)
+    * [Tax Consultation](https://www.taxdefensenetwork.com/tax-consultation/)
 
 [Tax Defense Network](https://www.taxdefensenetwork.com/)[](https://www.taxdefensenetwork.com/search/)[![Call Tax Defense Network Today](https://www.taxdefensenetwork.com/wp-content/uploads/2018/11/tdn-2-phone-icon.svg)](tel:855-476-6920)
 
@@ -194,6 +195,8 @@ Menu
         
     * [Locations](https://www.taxdefensenetwork.com/locations/)
         
+    * [Tax Consultation](https://www.taxdefensenetwork.com/tax-consultation/)
+        
 
 Tax Defense Network Privacy Policy
 ==================================
@@ -216,7 +219,7 @@ The Company uses ActiveProspect’s TrustedForm Script to independently document
 Use of Information Collected
 ----------------------------
 
-Information you provide through the contact form or an online chat will be used so the Company may respond to your inquiries. We may also use the information you provide to communicate with you in the future. If you do not wish to receive such communications, you may opt out (unsubscribe) as described below.
+Information you provide through the contact form or an online chat will be used so the Company may respond to your inquiries. We may also use the information you provide to communicate with you in the future. If you do not wish to receive such communications, you may opt out [(unsubscribe)](#) as described below.
 
 _Cookies:_ In order to offer and provide a customized and personal service, our website may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer’s hard drive. We use cookies to help remind us who you are and to help you navigate our site during your visits.
 
@@ -234,11 +237,11 @@ We take various appropriate security measures to help protect your personal info
 * To agents, website vendors, and/or contractors who may use it on our behalf or in connection with their relationship with us.
 * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another firm or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property.
 
-Unsubscribe or Opt-Out
+**Unsubscribe or Opt-Out**
 
-You may opt out (unsubscribe) from future communications at any time by sending an email to [marketing@taxdefensenetwork.com](mailto:marketing@taxdefensenetwork.com) with the word “unsubscribe” in the subject line. You may also call, submit an online contact form, or mail your request.
+You may opt out (unsubscribe) from future communications at any time by sending an email to [marketing@taxdefensenetwork.com](mailto:marketing@taxdefensenetwork.com) with the word “unsubscribe” in the subject line. You may also call, submit an [online contact form](#), or mail your request.
 
-If you have additional questions or concerns regarding this privacy policy, please contact us via the phone number, contact form, or mailing address listed on this website. If our information practices change in a significant way, we will post the policy changes here.
+If you have additional questions or concerns regarding this privacy policy, please contact us via the phone number, [contact form](#), or mailing address listed on this website. If our information practices change in a significant way, we will post the policy changes here.
 
 State-Specific Terms
 --------------------
@@ -363,7 +366,7 @@ The tax resolution companies referenced herein are not law firms nor are such re
 Product name(s), logo(s), brands and other trademarks feature on referred to with this site(s) are the property of Tax Defense Network DBA MoneySolver. Information obtained through the site(s) are for advertising and/or educational purposes only. This site(s) is not endorsed or affiliated with any government or regulatory agencies.
 
   
-© 2007-2024 Tax Defense Network, LLC. - [**Privacy**](https://www.taxdefensenetwork.com/privacy) | [**Terms of Use**](https://www.taxdefensenetwork.com/terms-of-use/)
+© 2007-2024 Tax Defense Network, LLC. - [**Privacy**](https://www.taxdefensenetwork.com/privacy) | [**Terms of Use**](https://www.taxdefensenetwork.com/terms-of-use/) | [**Unsubscribe**](#)
 
   
 [![the better business bureaua icon](/wp-content/uploads/2018/12/better_business_bureaua.svg)](https://www.bbb.org/us/fl/jacksonville/profile/tax-consultant/tax-defense-network-%E2%84%A2-a-moneysolver-company-0403-184747163)![Let's Encrypt](/wp-content/uploads/2018/12/le-logo-standard.svg)
@@ -446,6 +449,23 @@ Product name(s), logo(s), brands and other trademarks feature on referred to wit
 * [Client Success Stories](https://www.taxdefensenetwork.com/client-success-stories/)
 * [Customer Reviews](https://www.taxdefensenetwork.com/customer-reviews/)
 * [Locations](https://www.taxdefensenetwork.com/locations/)
+* [Tax Consultation](https://www.taxdefensenetwork.com/tax-consultation/)
+
+X
+
+Unsubscribe
+
+ First Name
+
+ Last Name
+
+ Email
+
+ Phone
+
+Yes, please unsubscribe me from all communications.
+
+ Submit
 
 We use cookies to provide you with a great user experience. We also share that information with third parties for advertising and analytics. By continuing to use our site, you accept our use of cookies.  
 [Privacy](https://www.taxdefensenetwork.com/privacy/) | [Terms of Use](https://www.taxdefensenetwork.com/terms-of-use/)
