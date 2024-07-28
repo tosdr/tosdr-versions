@@ -28,7 +28,7 @@ New
 
 New
 
-→](https://www.squarespace.com/ecommerce/online-courses) [Client Invoicing
+→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Client Invoicing
 
 New
 
@@ -98,7 +98,7 @@ New
 
 New
 
-→](https://www.squarespace.com/ecommerce/online-courses) [Client Invoicing
+→](https://www.squarespace.com/ecommerce/online-courses) [Content & Memberships→](https://www.squarespace.com/content) [Client Invoicing
 
 New
 
