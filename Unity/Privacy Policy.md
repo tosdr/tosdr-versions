@@ -6,8 +6,13 @@ Unity – Data Processing Addendum ("DPA")
 
 **Unity – Data Processing Addendum**
 
-**Effective : February 27, 2024**
+**Effective : July 29, 2024**
 
+_What's changed?_
+
+On July 29, 2024, we implemented modifications aimed at increasing clarity, including a more precise explanation of our Processor Services, a better delineation of the responsibilities of Controller customers, and the introduction of more accurately named terms pertaining to other data protection laws. We also updated our position with Safe Voice from a “Data Processor” to a “Data Controller”.
+
+  
 This Data Processing Addendum (this “DPA”) is incorporated into and forms an integral part of the Unity Terms of Service, available at [https://unity3d.com/legal/terms-of-service](https://unity3d.com/legal/terms-of-service),the Unity Advertising Terms of Service, available at [https://unity3d.com/legal/one-operate-services-terms-of-service](https://unity3d.com/legal/one-operate-services-terms-of-service), the Asset Store Terms of Service and EULA, available at [https://unity.com/legal/as-terms](https://unity.com/legal/as-terms), and the Asset Store Provider Agreement, available at [https://unity.com/legal/as-provider](https://unity.com/legal/as-provider), or, as applicable, an offline agreement relating to the subject matter therein (the “Terms of Service”) between You and the Unity Party specified in Section 2.22 below., on behalf of itself and its Affiliates (collectively, “Unity”) and you (“Customer” or “you”), each a “party” and collectively the “parties”. Acceptance of the Terms of Service includes acceptance of this DPA. Capitalized but undefined terms used in this DPA will have the meanings assigned to those terms in the Terms of Service.
 
 To the extent you are using the services named herein and absent any other offline agreement, you shall be deemed to have accepted this DPA and applicable Standard Contractual Clauses upon acceptance or execution of the applicable Terms of Service. [This](https://cdn.bfldr.com/S5BC9Y64/at/m82kqx7w26btpbqn64q2bmk/Clean_Unity_Unified_DPA_-_Feb_2024.pdf) is a pre-signed copy of this document and accompanying SCCs which you may download, execute on your side, and return to [DPA@unity3d.com](mailto:DPA@unity3d.com).  
@@ -16,7 +21,7 @@ To the extent you are using the services named herein and absent any other offli
 
 **1.1. Applicable Data Protection Law.** The parties agree that this DPA is designed to set forth the parties' obligations resulting from Applicable Data Protection Law. As such, the parties acknowledge and agree that this DPA will only apply to the extent, as applicable, that (a) EU Data Protection Law applies to the processing of personal data of data subjects located in or from Customer located (or where Customer is a processor, where the relevant controller is located) in the EEA, UK, or Switzerland, (b) the LGPD applies to the processing of personal data of data subjects located in Brazil and to any processing activity that is for the purpose of providing goods or services in Brazil, (c) the PIPEDA applies to the processing of personal data of data subjects located in Canada; (d) the Private Sector Act applies to the processing of personal data of data subjects located in Québec; (e) Personal Data Protection Act, Act No. 25.326 of 2000 applies to the processing of personal data within the territory of Argentina, (f) the CCPA as amended applies to the processing of personal data of data subjects located in the State of California, United States of America, (g) the CPA applies to the processing of personal data of data subjects located in the State of Colorado, United States of America, (h) the VCDPA applies to the processing of personal data of data subjects located in the State of Virginia, United States of America, (i) the CTDPA applies to the processing of personal data of data subjects located in the State of Connecticut, United States of America, (j) the UCPA applies to the processing of personal data of data subjects located in the State of Utah, United States of America, (k) the FDBR applies to the processing of personal data of data subjects located in the State of Florida, United States of America, (l) the OCPA applies to the processing of personal data of data subjects located in the State of Oregon, United States of America, (m) the TDPSA applies to the processing of personal data of data subjects located in the State of Texas, United States of America, and (n) the MTCDPA applies to the processing of personal data of data subjects located in the State of Montana, United States of America
 
-**1.2 Non-Applicable Data Protection Law.** Notwithstanding the foregoing, where applicable, certain Additional Terms for Non-Applicable Data Protection Law will supplement this DPA, as set forth Section 8.  
+**1.2 Other-Applicable Data Protection Law.** Notwithstanding the foregoing, where applicable, certain Additional Terms for Other-Applicable Data Protection Law will supplement this DPA, as set forth Section 8.  
   
 
 #### **2\. Definitions**
@@ -27,7 +32,7 @@ To the extent you are using the services named herein and absent any other offli
 
 2.1.2 To the extent that Non-EU Data Protection Law is applicable, definitions shall have the meanings given under applicable law.
 
-2.2 “Additional Terms for Non-Applicable Data Protection Law” means the additional terms referred to in Section 8, which reflect the parties’ agreement on the terms governing the processing of certain data in connection with certain other data protection regulations.
+2.2 “Additional Terms for Other-Applicable Data Protection Law” means the additional terms referred to in Section 8, which reflect the parties’ agreement on the terms governing the processing of certain data in connection with certain other data protection regulations.
 
 2.3 “Advertiser” means any party placing advertisements with Unity pursuant to the Terms of Service.
 
@@ -77,24 +82,22 @@ To the extent you are using the services named herein and absent any other offli
 
 3.1.1 Unless otherwise noted in 3.2 , “Controller Services” shall refer to all Services governed by the applicable Unity Terms of Service.
 
+3.1.2 The term "Controller Services" shall encompass personal data relating to account information processed via both the Controller and Processor Services.
+
 **3.2 Processor Services.**
 
-3.2.1 “Processor Services'' as used herein shall refer to:  
+3.2.1 “Processor Services'' as used herein shall refer to data uploaded through the below services:
 
-* Game Services (including Engage Services)
-* Multiplayer Services (not including Safe Voice which is a Controller Service)
-* UGS and Advertising Consulting Services
-* Unity MARS and the Unity AR Companion App
-* PlasticSCM
-* Ziva Face Trainer
-* SyncSketch
-* Unity LevelPlay
-* Furioos
-* Asset Manager
+|     |
+| --- |
+| **Player Services**<br><br>* LiveOps Solutions<br>    * Not including Unity Player Accounts, which is a Controller Service<br>* Multiplayer Solutions<br>* Community Solutions<br><br>  <br>**Creator Services**<br><br>* Asset Manager<br>* PlasticSCM<br>* SyncSketch<br><br>  <br><br>These were previously referred to as Game Services and Multiplayer Services |
+| Consulting Services<br><br>  <br><br>This is where a customer contracts with Unity to consult with them on their game |
+| * Unity MARS and the Unity AR Companion App |
+| * Unity LevelPlay |
 
 **4\. General Terms and Conditions**
 
-**4.1 Control/Application of the DPA**. In the event of any conflict or discrepancy between the SCCs, the Additional Terms for Non-Applicable Data Protection Law, the Terms of Service, and the terms and conditions of this DPA, the following order of precedence will apply: (a) the SCCs (where applicable), (b) the Additional Terms for Non-Applicable Data Protection Law, (c) this DPA, and (d) the Terms of Service. This DPA applies only to Customer, and Unity and does not confer any rights to any third party hereunder. This DPA does not replace any additional rights related to privacy or data security set forth in the Terms of Service.
+**4.1 Control/Application of the DPA**. In the event of any conflict or discrepancy between the SCCs, the Additional Terms for Other-Applicable Data Protection Law, the Terms of Service, and the terms and conditions of this DPA, the following order of precedence will apply: (a) the SCCs (where applicable), (b) this DPA, (c) the Additional Terms for Non-Applicable Data Protection Law, (d) the Terms of Service. This DPA applies only to Customer, and Unity and does not confer any rights to any third party hereunder. This DPA does not replace any additional rights related to privacy or data security set forth in the Terms of Service.
 
 **4.2 Treatment of Data Rights and Restrictions in Other Agreements.** Customer agrees that this DPA does not enlarge any rights provided for in the Terms of Service, and Customer continues to be limited to the data use rights and restrictions provided for therein.
 
@@ -102,7 +105,7 @@ To the extent you are using the services named herein and absent any other offli
 
 **4.4 Advertiser’s Mobile Measurement Partners.** Where Customer is an Advertiser, it agrees that, to the extent it requires Unity to present data to a third party install tracker in connection with trafficking of its advertising campaigns, that it has such third parties under a valid data processing agreement clearly directing the install tracker as to its usage instructions, duties, and liabilities for processing such data.
 
-**4.5 Special Category Data.** With the exception of biometric information uploaded through the use of Ziva Face Trainer, Unity MARS, Unity AR Companion App, and Safe Voice, Special Category Data will not be processed pursuant to this DPA and the Customer warrants and represents that the Customer will not be sharing, disclosing or otherwise transferring such data to Unity.
+**4.5 Special Category Data.** With the exception of information uploaded through the use of Ziva Face Trainer, Unity MARS, Unity AR Companion App, and Safe Voice, which may be considered as biometric under applicable laws, Special Category Data will not be processed pursuant to this DPA and the Customer warrants and represents that the Customer will not be sharing, disclosing or otherwise transferring such data to Unity.
 
 4.5.1 You represent and warrant that you have complied with all Data Protection Laws with respect to any transfer of Person Data to us in connection with your use of the Service. Such compliance by you includes, but is not limited to, you providing proper notification of the transfer, communicating the possibility that a person’s data may be transmitted outside their country of origin, and obtaining any necessary consents for both collection and storage of biometric information of such person, including any geometric scans of that individual’s facial features. Further, where applicable, you give your written consent to Unity to collect, store, disclose and use any biometric information contained in Your Materials from which Created Materials will be provided as part of the Service. Please note that Unity may request copies of your consent records to confirm your compliance with this Section 4.5.1. Failure to provide proper documentation may result in cancellation of your use of the Service.
 
@@ -128,7 +131,7 @@ The Controller-Controller Terms set forth in this Section 5 will apply only in c
 
 **5.1 Relationship of the Parties.** Subject to Section 4.2, the parties acknowledge and agree in connection with the processing of personal data for Controller Services, each party (a) is an independent controller of the personal data under Applicable Data Protection Law; (b) will individually determine the purposes and means of its processing of personal data; and (c) will comply with the obligations applicable to it under Applicable Data Protection Law with respect to the personal data.
 
-**5.2 Purpose of Processing.** Customer will permit the disclosure of the personal data described in the Terms of Service or otherwise herein for the applicable Controller Services to Unity to process as a controller of the personal data for the purposes described in Unity’s Privacy Policy as applicable by Controller Services to which Customer subscribes (the "Permitted Purpose"). Specifically, and notwithstanding anything to the contrary in any prior data processing addendum, Unity shall use the personal data in an identified format to make decisions (including targeting decisions) within its services, provide services (including monetization services) to its customers, assist its customers with maintaining their own services, improving its services, and analyzing the marketplace for its services as well as the performance of its services. Notwithstanding the foregoing, data obtained by Unity independent of Customer using Unity software or services that is the same or similar to the personal data described herein shall not be restricted by this Addendum, any license agreement, or any terms or conditions for such services. For the avoidance of doubt, Unity may use all personal data collected on an aggregated or de-identified basis as set out in its Privacy Policy, provided that such use does not reveal an individual or an individual's device directly or indirectly.
+**5.2 Purpose of Processing.** Customer shall have all required rights, licenses, and permissions to allow the Processing of Personal Data by Unity under the Terms of Service and to make Personal Data available to Unity in accordance with the requirements of this DPA. Customer shall provide all notices and obtain all consents, as required by and in compliance with Applicable Data Protection Law with respect to the collection of data by Unity and/or transfer of any data to Unity by Customer, in connection with the Terms of Service, in accordance with the requirements of this DPA and supporting documentation. Customer will permit the disclosure of the personal data described in the Terms of Service or otherwise herein for the applicable Controller Services to Unity to process as a controller of the personal data for the purposes described in Unity’s Privacy Policy as applicable by Controller Services to which Customer subscribes (the "Permitted Purpose"). Specifically, and notwithstanding anything to the contrary in any prior data processing addendum, Unity shall use the personal data in an identified format to make decisions (including targeting decisions) within its services, provide services (including monetization services) to its customers, assist its customers with maintaining their own services, improving its services, and analyzing the marketplace for its services as well as the performance of its services. Notwithstanding the foregoing, data obtained by Unity independent of Customer using Unity software or services that is the same or similar to the personal data described herein shall not be restricted by this Addendum, any license agreement, or any terms or conditions for such services. For the avoidance of doubt, Unity may use all personal data collected on an aggregated or de-identified basis as set out in its Privacy Policy, provided that such use does not reveal an individual or an individual's device directly or indirectly.
 
 **5.3 Security.** Each party shall implement appropriate technical and organizational measures to protect the personal data (i) from accidental or unlawful destruction, and (ii) loss, alteration, unauthorized disclosure of, or access to the personal data (a "Security Incident"). In the event that a party suffers a confirmed Security Incident, it shall notify the other party without undue delay and both parties shall cooperate in good faith to agree and action such measures as may be necessary to mitigate or remedy the effects of the Security Incident. Nothing herein prohibits either party from moving forward to notify regulatory authorities as may be required by law prior to notification of the other party so long as the notifying party provides notification to the other party without undue delay.
 
@@ -202,7 +205,7 @@ The Controller-Processor Terms set forth in this Section 6 will apply only in co
 
 7.1 Unity may update the terms of this Addendum, including the designation of Controller Services and Processor Services in Section 3, from time to time, including, but not limited to: (a) as set forth in the applicable Unity Terms of Service ; (b) as required to comply with Applicable Data Protection Law, applicable regulation, court order, or regulatory guidance; or (c) to add new Additional Terms for Non-Applicable Data Protection Law. If such update will have a material adverse impact on Customer, as reasonably determined by Unity, then Unity will use reasonable efforts to inform Customer at least 30 days (or such shorter period as may be required to comply with Applicable Data Protection Law) before the change will take effect, or to obtain the consent of the Customer if required under applicable law. If Customer objects to any such change, Customer may terminate this DPA by giving written notice to Unity within 30 days of being informed by Unity of the change.
 
-#### **Additional Terms for Non-Applicable** **Data Protection Laws**
+#### **Additional Terms for Other-Applicable** **Data Protection Laws**
 
 **8.1** The parties acknowledge that data protection laws in addition to Applicable Data Protection Law may apply to the parties’ processing of personal data
 
@@ -376,8 +379,7 @@ FOR CONTROLLER SERVICES - MODULE ONE TRANSFER CONTROLLER TO CONTROLLER
 
 **Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.**
 
-* Biometric data may be transferred through the use of Safe Voice.
-* Unity shall secure Biometric Information in the same manner as any other confidential or sensitive information that it stores, including stringent access restrictions with limited permissions based on roles, access audits and security reviews. The information shall be destroyed upon conclusion of its use as specified elsewhere in this DPA.
+\- N/A
 
 **The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis).**
 
@@ -485,17 +487,17 @@ FOR PROCESSOR SERVICES - MODULE TWO TRANSFER CONTROLLER TO PROCESSOR
 
 **Categories of data subjects whose personal data is transferred**
 
-* Data subjects may include Customers, Partners, and Vendor (including without limitation employees/ staff) end users about whom Personal Data is provided to Unity via the Services by, or at the direction of, Customer.
+* Data subjects may include Customers, Partners, and Vendor end users about whom Personal Data is provided to Unity via the Services by, or at the direction of, Customer.
 
 **Categories of personal data transferred**
 
-* Information processed through the Customers use of the services including contact information, device information, information uploaded by the customer, location information, financial information, software usage event information, authentication information (including tokens), and IP address. This includes usernames of employees who access Unity’s ordering system to place advertisements, bid on the right to advertise to any End User, or any vendor employee who provides such information to Unity in performing services for Unity.
+* Information processed through the Customers use of the services including contact information, device information, information uploaded by the customer, location information, financial information, software usage event information, authentication information (including tokens), and IP address.
 * End Users data including voice, advertising identifiers or device IDs (e.g. IDFA GAID), User IDs, IP address, game play, in-app purchase, and device data, including device identifiers,
 * Information related to the ad content or attribution data sent by Customer or Customer’s agent
 
 **Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.**
 
-* Biometric data may be transferred through the use of Ziva Face Trainer, Unity MARS,Unity AR Companion App
+* Information uploaded through the use of Unity MARS, Unity AR Companion App, and Safe Voice, which may be considered as biometric under applicable laws.
 * Unity shall secure Biometric Information in the same manner as any other confidential or sensitive information that it stores, including stringent access restrictions with limited permissions based on roles, access audits and security reviews. The information shall be destroyed upon conclusion of its use as specified elsewhere in this DPA.
 
 **The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis).**
