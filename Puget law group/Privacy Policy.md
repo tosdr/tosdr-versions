@@ -293,7 +293,7 @@ Email\*
 
 Case Summary\*
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -303,7 +303,6 @@ This field is for validation purposes and should be left unchanged.
 
 #### Additional Locations
 
-* [Seattle Criminal Defense Lawyer](https://www.pugetlawgroup.com/seattle-wa/criminal-defense-lawyer/)
 * [Bellevue Criminal Defense Lawyer](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
 * [Redmond Criminal Defense Lawyer](https://www.pugetlawgroup.com/redmond-wa/criminal-defense-lawyer/)
 * [Kirkland Criminal Defense Lawyer](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
@@ -313,6 +312,7 @@ This field is for validation purposes and should be left unchanged.
 * [Olympia Criminal Defense Lawyer](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
 * [Port Orchard Criminal Defense Lawyer](https://www.pugetlawgroup.com/port-orchard-wa/criminal-defense-lawyer/)
 * [Everett Criminal Defense Lawyer](https://www.pugetlawgroup.com/everett-wa/criminal-defense-lawyer/)
+* [Puyallup Criminal Defense Lawyer](https://www.pugetlawgroup.com/puyallup-wa/criminal-defense-lawyer/)
 
 ### FAQs
 
