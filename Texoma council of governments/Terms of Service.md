@@ -143,22 +143,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Jul 25
-
-11:30 am - 2:00 pm
-
-### [TCOG EMC Working Group](https://tcog.com/event/tcog-emc-working-group/ "TCOG EMC Working Group")
-
-Sherman
-
-Jul 25
-
-12:00 pm - 1:00 pm
-
-### [TCOG City Series – Trends in Economic and Workforce Development](https://tcog.com/event/tcog-city-series-trends-in-economic-and-workforce-development/ "TCOG City Series – Trends in Economic and Workforce Development")
-
-Sherman
-
 Aug 8
 
 9:00 am - 1:00 pm
@@ -180,6 +164,22 @@ Aug 8
 3:00 pm - 4:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
 
 ### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee/2024-08-08/ "Audit and Finance Committee")
+
+Sherman
+
+Aug 8
+
+4:30 pm - 5:30 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
+
+### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee/2024-08-08/ "Executive Officers Committee")
+
+Sherman
+
+Aug 15
+
+5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
+
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-08-15/ "Governing Board Meeting")
 
 Sherman
 
