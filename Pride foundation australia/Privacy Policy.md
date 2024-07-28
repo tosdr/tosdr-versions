@@ -3,86 +3,91 @@
 [![](https://pridefoundation.org.au/wp-content/uploads/2019/03/pridefoundatioon_horizontal_leftt_rgb.png)](https://pridefoundation.org.au/)
 
 * [HOME](https://pridefoundation.org.au/)
+    
 * ABOUT
     
     Close ABOUT Open ABOUT
+    
+    ##### About US
+    
+    [About Pride Foundation Australia](https://pridefoundation.org.au/about-pride-foundation-australia/)
+    
+    [Our Board & Staff](https://pridefoundation.org.au/our-team/)
+    
+    [Our Supporters](https://pridefoundation.org.au/our-supporters/)
+    
+    [Contact Us](https://pridefoundation.org.au/contact/)
+    
+    ##### Our Work
+    
+    [Our Philanthropy Model](https://pridefoundation.org.au/how-we-work/)
+    
+    [Latest PFA News](https://pridefoundation.org.au/news/)
+    
+    [![](https://pridefoundation.org.au/wp-content/uploads/2023/09/megamenu-latestnews.jpg)](https://pridefoundation.org.au/news/)
+    
+    ### [Latest News](https://pridefoundation.org.au/news/)
+    
 * GRANTS
     
     Close GRANTS Open GRANTS
+    
+    ##### Large Grants
+    
+    [Large Grants Program](https://pridefoundation.org.au/major-grants/)
+    
+    [Past Large Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
+    
+    ##### Small Grants
+    
+    [Small Grants Program](https://pridefoundation.org.au/small-grants/)
+    
+    [Past Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
+    
+    [![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-largegrants.jpg)](https://pridefoundation.org.au/major-grants/)
+    
+    ### [LARGE GRANTS](https://pridefoundation.org.au/major-grants/)
+    
 * IMPACT
     
     Close IMPACT Open IMPACT
+    
+    ##### Overall Impact
+    
+    [Our Impact](https://pridefoundation.org.au/our-impact/)
+    
+    [Past Large Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
+    
+    [Past Small Grant Recpieints](https://pridefoundation.org.au/past-small-grant-recipients/)
+    
+    ##### Key Area Impact
+    
+    [LGBTQIA+ Refugees & People Seeking Asylum](https://pridefoundation.org.au/key-area-lgbtqia-refugee-asylum-seekers/)
+    
+    [LGBTQIA+ People Living with Disability](https://pridefoundation.org.au/key-area-lgbtqia-people-living-with-disability/)
+    
+    [LGBTQIA+ Housing & Homelessness](https://pridefoundation.org.au/key-area-lgbtqia-housing-homelessness/)
+    
+    [![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-overallimpact.jpg)](https://pridefoundation.org.au/our-impact/)
+    
+    ### [OUR OVERALL IMPACT](https://pridefoundation.org.au/our-impact/)
+    
 * SUPPORT
     
     Close SUPPORT Open SUPPORT
-
-##### About US
-
-[About Pride Foundation Australia](https://pridefoundation.org.au/about-pride-foundation-australia/)
-
-[Our Board & Staff](https://pridefoundation.org.au/our-team/)
-
-[Our Supporters](https://pridefoundation.org.au/our-supporters/)
-
-[Contact Us](https://pridefoundation.org.au/contact/)
-
-##### Our Work
-
-[Our Philanthropy Model](https://pridefoundation.org.au/how-we-work/)
-
-[Latest PFA News](https://pridefoundation.org.au/news/)
-
-[![](https://pridefoundation.org.au/wp-content/uploads/2023/09/megamenu-latestnews.jpg)](https://pridefoundation.org.au/news/)
-
-### [Latest News](https://pridefoundation.org.au/news/)
-
-##### Large Grants
-
-[Large Grants Program](https://pridefoundation.org.au/major-grants/)
-
-[Past Large Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
-
-##### Small Grants
-
-[Small Grants Program](https://pridefoundation.org.au/small-grants/)
-
-[Past Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
-
-[![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-largegrants.jpg)](https://pridefoundation.org.au/major-grants/)
-
-### [LARGE GRANTS](https://pridefoundation.org.au/major-grants/)
-
-##### Overall Impact
-
-[Our Impact](https://pridefoundation.org.au/our-impact/)
-
-[Past Large Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
-
-[Past Small Grant Recpieints](https://pridefoundation.org.au/past-small-grant-recipients/)
-
-##### Key Area Impact
-
-[LGBTQIA+ Refugees & People Seeking Asylum](https://pridefoundation.org.au/key-area-lgbtqia-refugee-asylum-seekers/)
-
-[LGBTQIA+ People Living with Disability](https://pridefoundation.org.au/key-area-lgbtqia-people-living-with-disability/)
-
-[LGBTQIA+ Housing & Homelessness](https://pridefoundation.org.au/key-area-lgbtqia-housing-homelessness/)
-
-[![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-overallimpact.jpg)](https://pridefoundation.org.au/our-impact/)
-
-### [OUR OVERALL IMPACT](https://pridefoundation.org.au/our-impact/)
-
-[![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-fundraisinghub.jpg)](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
-
-### [Fundraising support hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
-
-##### Support Pride Foundation Australia
-
-[Donate to PFA](https://pridefoundation.org.au/donate/)
-
-[Fundraising Support Hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
-
-[LGBTQIA+ Refugee Community Sponsorship](https://pridefoundation.org.au/lgbtqia-refugee-community-sponsorship-in-australia/)
+    
+    [![](https://pridefoundation.org.au/wp-content/uploads/2022/06/megamenu-fundraisinghub.jpg)](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
+    
+    ### [Fundraising support hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
+    
+    ##### Support Pride Foundation Australia
+    
+    [Donate to PFA](https://pridefoundation.org.au/donate/)
+    
+    [Fundraising Support Hub](https://pridefoundation.org.au/supporting-pride-foundation-australia/)
+    
+    [LGBTQIA+ Refugee Community Sponsorship](https://pridefoundation.org.au/lgbtqia-refugee-community-sponsorship-in-australia/)
+    
 
 ### [MENU](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIzNTUxIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
