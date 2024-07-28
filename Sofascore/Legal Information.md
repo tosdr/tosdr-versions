@@ -296,6 +296,6 @@ Send feedback
 
 [Advertise](https://corporate.sofascore.com/advertising/) [Contact](https://corporate.sofascore.com/contact)[Sofascore Livescore app](https://landing.sofascore.com/download/)
 
-Legal Documents [Privacy policy](https://www.sofascore.com/privacy-policy) [Cookie policy](https://www.sofascore.com/cookies-policy) [Terms & Conditions](https://www.sofascore.com/terms-and-conditions) [GDPR & Journalism](https://www.sofascore.com/gdpr-and-journalism)
+Legal Documents [Privacy Policy](https://www.sofascore.com/privacy-policy) [Cookie Policy](https://www.sofascore.com/cookies-policy) [Terms & Conditions](https://www.sofascore.com/terms-and-conditions) [GDPR & Journalism](https://www.sofascore.com/gdpr-and-journalism)
 
 © 2024 Sofascore – All Rights Reserved.
