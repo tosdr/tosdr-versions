@@ -52,6 +52,9 @@ Header area, including main menu and site search
         * [BBQ meat
             
             BBQ meat](https://www.riverford.co.uk/summer-eating/bbq-meat)
+        * [Picnics
+            
+            Picnics](https://www.riverford.co.uk/summer-eating/picnic)
         * [Drinks
             
             Summer drinks](https://www.riverford.co.uk/summer-eating/drinks)
