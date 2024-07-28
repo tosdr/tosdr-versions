@@ -2,7 +2,7 @@ Notice a problem with any of our new website pages?
 
 [Contact Us](https://shockbyte.com/contact)
 
-[Control Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
+[Shockbyte Control Panel](https://panel.shockbyte.com/)[Multicraft Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
 
 [/> />](https://shockbyte.com/)
 
@@ -52,7 +52,7 @@ View list of all games](https://shockbyte.com/games)
 
 [More](https://shockbyte.com/)
 
-[Knowledgebase](https://shockbyte.com/billing/knowledgebase)[Subdomain Creator](https://shockbyte.com/subdomain-creator)[About Us](https://shockbyte.com/about)[Partners](https://shockbyte.com/partners)[Careers](https://shockbyte.com/jobs)[FAQ](https://shockbyte.com/faq)
+[Knowledgebase](https://shockbyte.com/billing/knowledgebase)[Subdomain Creator](https://shockbyte.com/subdomain-creator)[About Us](https://shockbyte.com/about)[Partners](https://shockbyte.com/partners)[Careers](https://shockbyte.com/jobs)[FAQ](https://shockbyte.com/faq)[Control Panel](https://shockbyte.com/panel)
 
 [/> />](https://shockbyte.com/)
 
@@ -62,9 +62,9 @@ More
 
 * * *
 
-[Knowledgebase](https://shockbyte.com/billing/knowledgebase)[Subdomain Creator](https://shockbyte.com/subdomain-creator)[About Us](https://shockbyte.com/about)[Partners](https://shockbyte.com/partners)[Careers](https://shockbyte.com/jobs)[FAQ](https://shockbyte.com/faq)
+[Knowledgebase](https://shockbyte.com/billing/knowledgebase)[Subdomain Creator](https://shockbyte.com/subdomain-creator)[About Us](https://shockbyte.com/about)[Partners](https://shockbyte.com/partners)[Careers](https://shockbyte.com/jobs)[FAQ](https://shockbyte.com/faq)[Control Panel](https://shockbyte.com/panel)
 
-[Control Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
+[Shockbyte Control Panel](https://panel.shockbyte.com/)[Multicraft Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
 
 Privacy Policy
 ==============
@@ -145,4 +145,4 @@ Support
 
 Technology
 
-[Control Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
+[Shockbyte Control Panel](https://panel.shockbyte.com/)[Multicraft Panel](https://mc.shockbyte.com/)[Client Area](https://shockbyte.com/billing)
