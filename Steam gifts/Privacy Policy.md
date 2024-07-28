@@ -157,7 +157,7 @@ We may change this privacy policy from time to time by updating this page in ord
 
 The data controller responsible for your information is SteamGifts, which you can contact by [email](mailto:privacy@steamgifts.com).
 
-Last modified 5 years ago by [cg](https://www.steamgifts.com/user/cg).
+Last modified 6 years ago by [cg](https://www.steamgifts.com/user/cg).
 
 SteamGifts
 
