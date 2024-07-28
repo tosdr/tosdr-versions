@@ -623,15 +623,13 @@ Pursuant to Section 1798.83-.84 of the California Civil Code, residents of Calif
 15955 La Cantera Parkway  
 San Antonio, TX 78256
 
+[Financial Solutions](https://www.vericast.com/solutions/financial-solutions/)
+
+[Financial Insights](https://www.vericast.com/financial-insights/)
+
 [About Us](https://www.vericast.com/about-us/)
 
-[Our Solutions](https://www.vericast.com/solutions/)
-
-[Industries](https://www.vericast.com/industries/)
-
 [Careers](https://www.vericast.com/about-us/careers/)
-
-[Insights](https://www.vericast.com/insights/)
 
 [Production Specs](https://resources.valassis.com/)
 
