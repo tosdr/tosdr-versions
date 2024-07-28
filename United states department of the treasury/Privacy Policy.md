@@ -557,34 +557,34 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    July 26, 2024
+    
+    [Joint Statement on the Brazil Fazenda – U.S. Treasury Climate Partnership](https://home.treasury.gov/news/press-releases/jy2496)
+    
     July 25, 2024
     
-    [IRS Reaches Key Milestones in Effort to Save Americans Time and Money by Expanding Taxpayer Services and Online Tools with Inflation Reduction Act Funding](https://home.treasury.gov/news/press-releases/jy2487)
+    [Treasury Targets Guatemalan Human Smuggling Organization for Illegal Transport of Migrants to the United States](https://home.treasury.gov/news/press-releases/jy2490)
     
-    July 24, 2024
+    July 25, 2024
     
-    [U.S. Departments of Treasury, Health and Human Services, Interior, and the Executive Office of the President Release Report on Reducing Administrative Burden of Tribal Grant Recipients](https://home.treasury.gov/news/press-releases/jy2486)
-    
-    July 24, 2024
-    
-    [U.S. Department of the Treasury Announces New Jersey To Join IRS Direct File for Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2484)
+    [Treasury Sanctions Rebel Alliance Driving Instability in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/jy2489)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
-    July 24, 2024
+    July 27, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen at a Joint Ministerial Meeting on the Global Alliance against Hunger and Poverty](https://home.treasury.gov/news/press-releases/jy2485)
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Goeldi Museum in Belém, Brazil](https://home.treasury.gov/news/press-releases/jy2504)
     
-    July 24, 2024
+    July 27, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Pandemic Fund Investment Case Launch Event](https://home.treasury.gov/news/press-releases/jy2483)
+    [Secretary of the Treasury Janet L. Yellen Announces the Amazon Region Initiative Against Illicit Finance to Combat Nature Crimes](https://home.treasury.gov/news/press-releases/jy2503)
     
-    July 18, 2024
+    July 27, 2024
     
-    [Statement for the United States on IMF Article IV Consultation](https://home.treasury.gov/news/press-releases/jy2471)
+    [Remarks by Secretary of the Treasury Janet L. Yellen Announcing the Amazon Region Initiative Against Illicit Finance in Belém, Brazil](https://home.treasury.gov/news/press-releases/jy2502)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
