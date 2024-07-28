@@ -49,17 +49,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![Atlas Balkan Trailer](//i.ytimg.com/vi/Knkobp46GPA/0.jpg)  
-Atlas Balkan](https://topminecraftservers.org/server/30505)
+[![PotterCraft MC Trailer](//i.ytimg.com/vi/EOX1EFw1QOI/0.jpg)  
+PotterCraft MC](https://topminecraftservers.org/server/29440)
 
-[![RiftMC Trailer](//i.ytimg.com/vi/B3P4tLuWOxY/0.jpg)  
-RiftMC](https://topminecraftservers.org/server/32684)
+[![SurNet Trailer](//i.ytimg.com/vi/47ZpcSZIUhI/0.jpg)  
+SurNet](https://topminecraftservers.org/server/27767)
 
-[![Koridai Trailer](//i.ytimg.com/vi/z2bPBkNMO1Y/0.jpg)  
-Koridai](https://topminecraftservers.org/server/22554)
+[![Boats N' Bunnies Trailer](//i.ytimg.com/vi/cKE0G71IGY0/0.jpg)  
+Boats N' Bunnies](https://topminecraftservers.org/server/27299)
 
-[![JRCraft - Survival - Dedicated Trailer](//i.ytimg.com/vi/eWfJTI7Ze28/0.jpg)  
-JRCraft - Survival - Dedicated](https://topminecraftservers.org/server/11566)
+[![PokeNova Trailer](//i.ytimg.com/vi/WZ38Id8oY8g/0.jpg)  
+PokeNova](https://topminecraftservers.org/server/37587)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -67,4 +67,4 @@ JRCraft - Survival - Dedicated](https://topminecraftservers.org/server/11566)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.361700 seconds to load
+Page took 0.282263 seconds to load
