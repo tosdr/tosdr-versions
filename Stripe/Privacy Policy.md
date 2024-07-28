@@ -570,7 +570,7 @@ Products & pricing
 * [Pricing](https://stripe.com/gb/pricing)
 * [Atlas](https://stripe.com/gb/atlas)
 * [Billing](https://stripe.com/gb/billing)
-* [Capital](https://stripe.com/gb/capital)
+* [Capital](https://stripe.com/capital/platforms)
 * [Checkout](https://stripe.com/gb/payments/checkout)
 * [Climate](https://stripe.com/gb/climate)
 * [Connect](https://stripe.com/gb/connect)
