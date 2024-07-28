@@ -273,6 +273,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -285,24 +295,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/igp5875.jpg?itok=le1C4r0v)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put/haos-009.jpg?itok=3MkxCr7w)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu/sanu-digi18.jpg?itok=lRUOvoRI)](http://seecult.org/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/aktualno-umuv259.jpg?itok=ESmiXdrk)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,16 +318,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Kupljen na aukciji štap sa binoklom i grbom Obrenovića](http://seecult.org/vest/kupljen-na-aukciji-stap-sa-binoklom-i-grbom-obrenovica)
+* [Uručenjem nagrada zatvoren 31. Palićki festival](http://seecult.org/vest/urucenjem-nagrada-zatvoren-31-palicki-festival)
+* [Marketing utiče, ali pomažu i nagrade](http://seecult.org/vest/marketing-utice-ali-pomazu-i-nagrade)
+* [78 dana bombardovanja](http://seecult.org/vest/78-dana-bombardovanja)
+* [Zlatni toranj filmu 78 dana Emilije Gašić](http://seecult.org/vest/zlatni-toranj-filmu-78-dana-emilije-gasic)
+* [Pogled na filmske novinare i kritičare](http://seecult.org/vest/pogled-na-filmske-novinare-i-kriticare)
+* [Traže ljubav, a svi drže telefone](http://seecult.org/vest/traze-ljubav-svi-drze-telefone)
+* [U trci za Srce Sarajeva 54 filma](http://seecult.org/vest/u-trci-za-srce-sarajeva-54-filma)
 * [Dopunjena Šijanova antologija jugoslovenskog filma](http://seecult.org/vest/dopunjena-sijanova-antologija-jugoslovenskog-filma)
 * [Proslava - upozorenje na pogrešne odluke u životu](http://seecult.org/vest/proslava-upozorenje-na-pogresne-odluke-u-zivotu)
-* [Baština na Kosovu i dalje na Listi u opasnosti](http://seecult.org/vest/bastina-na-kosovu-i-dalje-na-listi-u-opasnosti)
-* [Preminuo Milan Lojanica](http://seecult.org/vest/preminuo-milan-lojanica)
-* [U10 bez podrške za rad](http://seecult.org/vest/u10-bez-podrske-za-rad)
-* [Nedostatak solidarnosti i zajedništva](http://seecult.org/vest/nedostatak-solidarnosti-i-zajednistva)
-* [Iskustvo u gužvi u Zrenjaninu](http://seecult.org/vest/iskustvo-u-guzvi-u-zrenjaninu)
-* [Mi sadimo šumu, šuma sadi nas!](http://seecult.org/vest/mi-sadimo-sumu-suma-sadi-nas)
-* [Ronaldo: Film je kao cirkus](http://seecult.org/vest/ronaldo-film-je-kao-cirkus)
-* [Važnost podrške mladim autorima](http://seecult.org/vest/vaznost-podrske-mladim-autorima)
 
 * [Konkursi](#tab1_1)
 
