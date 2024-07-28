@@ -391,6 +391,8 @@ You can also contact us at the following postal address.
 
 [Children's Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en)
 
+[TikTok Web Cookies Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en)
+
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
