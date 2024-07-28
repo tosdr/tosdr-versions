@@ -645,7 +645,7 @@ Switch to
             * [Razer Kraken Kitty V2 Pro](https://www.razer.com/gaming-headsets/razer-kraken-kitty-v2-pro)
             * [Razer Kraken Kitty V2](https://www.razer.com/gaming-headsets/razer-kraken-kitty-v2)
             * [Razer Kraken Kitty V2 BT](https://www.razer.com/mobile-headsets/razer-kraken-kitty-v2-bt)
-            * [Razer Kraken Ears V2](https://www.razer.com/gaming-headsets-and-audio-accessories/razer-kitty-ears-v2)
+            * [Razer Kitty Ears V2](https://www.razer.com/gaming-headsets-and-audio-accessories/razer-kitty-ears-v2)
             
         * Stream Controller
             
@@ -770,7 +770,7 @@ Switch to
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
             * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape@ Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
+            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         
         Product Line
@@ -809,7 +809,7 @@ Switch to
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
             * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape@ Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
+            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
@@ -824,7 +824,7 @@ Switch to
         * [The New Razer Synapse](https://www.razer.com/synapse-new)
         * [Razer Chroma RGB](https://www.razer.com/chroma)
         * [Razer Cortex Game Launcher](https://www.razer.com/cortex)
-        * [Razer Axon Wallpaper Engine](https://www.razer.com/software/axon)
+        * [Razer Axon](https://www.razer.com/software/axon)
         * More Software
             
             Product Line
@@ -1080,7 +1080,7 @@ Switch to
             * [Razer Enki Pro Williams Esports Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-williams)
             * [Razer Enki Pro Koenigsegg Edition](https://www.razer.com/gaming-chairs/razer-enki-pro-koenigsegg)
             * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape@ Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
+            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         
         Product Line
@@ -1119,7 +1119,7 @@ Switch to
             * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             * [Razer Iskur X](https://www.razer.com/gaming-chairs/razer-iskur-x)
             * [Razer Iskur X Hello Kitty and Friends Edition](https://www.razer.com/gaming-chairs/hello-kitty-razer-iskur-x)
-            * [Razer x \*A Bathing Ape@ Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
+            * [Razer x \*A Bathing Ape® Iskur X](https://www.razer.com/gaming-chairs/razer-x-bape-iskur-x-black)
             
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
         * [Compare](https://www.razer.com/shop/chairs/gaming-chairs)
@@ -1170,7 +1170,7 @@ Switch to
             * [Razer BlackWidow V3](https://www.razer.com/gaming-keyboards/roblox-razer-blackwidow-v3)
             
         * [Dolce&Gabbana | Razer](https://www.razer.com/collabs/dolce-gabbana)
-        * [Razer X GilleteLabs](https://gillette.com/razer)
+        * [Razer X GilletteLabs](https://gillette.com/razer)
         * [Razer Lexus TX](https://pressroom.lexus.com/lexus-and-razer-debut-the-ultimate-razer-lexus-tx-in-a-three-episode-video-series)
         * [Razer | Retrosuperfuture](https://www.razer.com/gear-accessories/razersuperfuture-matte-black-glasses)
         * [Razer | Evisu](https://www.razer.com/collabs/evisu)
