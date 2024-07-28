@@ -1,3 +1,5 @@
+[Skip to main content](#main)
+
 [![Header Logo](/-/media/Project/PSE/Portal/Header-Images/header-logo.png?rev=6cc5b85f5ab44fb88a332a6377f1bb11&modified=20180413120311&h=0&w=0&la=en&hash=986A3785AD0FE313A4B45B8E788AEEBB)](https://www.pse.com/en)
 
 [Menu](#)
