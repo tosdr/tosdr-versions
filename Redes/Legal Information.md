@@ -90,15 +90,15 @@ El plazo de presentación de las solicitudes se realiza a través de la sede ele
 
 [La ayuda del programa Kit Consulting ya se puede solicitar](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar")
 
-![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=OutC1Lyp)
+![Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Nueva.png?h=a6aa1fcb&itok=ZuRd9jdN)
 
 Noticia
 
 Transformación Digital PYMES
 
-Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros
+Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital
 
-[Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-digital-de-3000 "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros ")
+[Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
 ![San Francisco. Edición 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SF_0.png?h=c16165f9&itok=UDTjqoci)
 
