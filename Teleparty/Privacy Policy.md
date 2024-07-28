@@ -1,16 +1,14 @@
- ![Hamburger Menu](/img/Hamburger.png)[![Teleparty Logo](/img/IconRed.svg)](https://www.netflixparty.com/)
+![Hamburger Menu](/img/Hamburger.png)[![Teleparty Logo](/img/IconRed.svg)](https://www.netflixparty.com/)
 
 * [Teleparty](https://www.netflixparty.com/)
 * [Features](https://www.netflixparty.com/#show)
-* [How It Works](https://www.netflixparty.com/#intro)
+* [How It Works](https://www.netflixparty.com/#howitworks)
 * [Support](https://www.netflixparty.com/support)
 * [Go Premium](https://www.netflixparty.com/premium)
 
 * [Install
     
     Install Teleparty](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en)
-
-* [Get the app](https://redirect.teleparty.com/mobile)
 
 [Features](https://www.netflixparty.com/#show)
 
@@ -20,64 +18,60 @@
 
 [Join the Mobile Waitlist](https://redirect.teleparty.com/mobile-beta)
 
-[Support Us on Patreon](https://www.patreon.com/netflixparty)
-
-[Netflix Party is now Teleparty! Learn more.](https://www.teleparty.com/introducing-teleparty)
-
 Have a Question?
 ================
 
 We’re here to help. From starting a party to joining a party, find help for everything Teleparty.
 
-[![](/img/icon_setting_active.svg)
+[![Settings icon](/img/icon_setting_active.svg)
 
 System
 
 Supported devices and browsers
 
-![](/img/arrow-right.svg)](#system)[![](/img/icon_installation.svg)
+![Right arrow](/img/arrow-right.svg)](#system)[![Install](/img/icon_installation.svg)
 
 Installation
 
 Installing Teleparty extension
 
-![](/img/arrow-right.svg)](#installation)[![](/img/icon_home_active.svg)
+![Right arrow](/img/arrow-right.svg)](#installation)[![Home](/img/icon_home_active.svg)
 
 Hosting
 
 How to host a Teleparty
 
-![](/img/arrow-right.svg)](#hostparty)[![](/img/icon_envelopeinvite.svg)
+![Right arrow](/img/arrow-right.svg)](#hostparty)[![Invite](/img/icon_envelopeinvite.svg)
 
 Joining
 
 How to join a Teleparty
 
-![](/img/arrow-right.svg)](#joinparty)[![](/img/icon_playchat.svg)
+![Right arrow](/img/arrow-right.svg)](#joinparty)[![Play Chat](/img/icon_playchat.svg)
 
 Chat Settings
 
 Manage your chat room
 
-![](/img/arrow-right.svg)](#chatsettings)[![](/img/icon_shield.svg)
+![Right arrow](/img/arrow-right.svg)](#chatsettings)[![Shield](/img/icon_shield.svg)
 
 Privacy
 
 Security and privacy policy
 
-![](/img/arrow-right.svg)](#privacy)[![](/img/icon_party.svg)
+![Right arrow](/img/arrow-right.svg)](#privacy)[![Party](/img/icon_party.svg)
 
 Premium
 
 The Teleparty Premium subscription
 
-![](/img/arrow-right.svg)](#premium)[![](/img/icon_shield.svg)
+![Right arrow](/img/arrow-right.svg)](#premium)[![Shield](/img/icon_shield.svg)
 
 Mobile
 
 Teleparty for mobile devices.
 
-![](/img/arrow-right.svg)](#mobile)
+![Right arrow](/img/arrow-right.svg)](#mobile)
 
 [![](/img/icon_setting_active.svg)
 
@@ -104,7 +98,7 @@ Which browsers and devices are compatible with Teleparty?
 
 Teleparty is available as both a browser extension and a mobile app.  
   
-On laptop and desktop computers, you can download Teleparty as a browser extension for the [Google Chrome](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) , [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce) , and [Opera Browsers](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en)  
+On laptop and desktop computers, you can download Teleparty as a browser extension for the [Google Chrome](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), and [Opera Browsers](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en)  
   
 On your Android device, you can download Teleparty from the [Google Play Store](https://play.google.com/store/apps/details?id=com.teleparty.android)  
   
@@ -135,7 +129,7 @@ Installation Guide
 
 Where can I install Teleparty?
 
-Click on the respective link to install Teleparty on [the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) , [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce) , or an [Android Device](https://play.google.com/store/apps/details?id=com.teleparty.android)  
+Click on the respective link to install Teleparty on[the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en),[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), or an[Android Device](https://play.google.com/store/apps/details?id=com.teleparty.android)  
   
 Teleparty is **NOT** currently available on Firefox, Internet Explorer, and other web browsers.  
   
@@ -147,7 +141,7 @@ If you can see a red "TP" button on the top right corner of your chrome browser,
 
   
 
-Note: if you don't see the "TP" button, click this icon ![](https://netflixparty.b-cdn.net/img/land/chrome_button_more.png) on the top right of your browser to view the hidden browser extensions. If you still can't find the "TP" button, try uninstalling and reinstalling the extension.
+Note: if you don"t see the "TP" button, click this icon ![chrome more button](/_next/image?url=https%3A%2F%2Fnetflixparty.b-cdn.net%2Fimg%2Fland%2Fchrome_button_more.png&w=48&q=75)on the top right of your browser to view the hidden browser extensions. If you still can"t find the "TP" button, try uninstalling and reinstalling the extension.
 
 How do I uninstall and then reinstall Teleparty?
 
@@ -155,7 +149,7 @@ To uninstall, right click on the red "TP" button on the top right corner of your
 
   
   
-Reinstall Teleparty from [the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) or [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce)  
+Reinstall Teleparty from[the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) or[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce)  
   
 
 Try starting or joining a party again (by clicking the **Tp** icon) and you should be able to use Teleparty.
@@ -167,13 +161,13 @@ How do I host a Teleparty on the browser extension?
 
 Login into your account on a supported streaming service and ensure you are on your main account profile. Select a show and make sure it is playing. Your URL should look like “netflix.com/watch/videoID.” Then click on the red TP button to host your TP Teleparty chat room.
 
-![](https://netflixparty.b-cdn.net/img/land/party_start.jpg)  
+![](/_next/image?url=https%3A%2F%2Fnetflixparty.b-cdn.net%2Fimg%2Fland%2Fparty_start.jpg&w=640&q=75)  
 
 You can share the party link you get with friends to invite them to your party.
 
 Why can’t I start a party on the browser extension, even though I have Teleparty installed?
 
-Make sure you are logged into a supported streaming service, are on your main account profile, and have a show currently playing. Your URL should look like “netflix.com/watch/.” When the app detects a video on your webpage, it will turn red, and you can click on it to turn the video into a Teleparty. If it is still not working, [re-install Teleparty](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) and try again.
+Make sure you are logged into a supported streaming service, are on your main account profile, and have a show currently playing. Your URL should look like “netflix.com/watch/.” When the app detects a video on your webpage, it will turn red, and you can click on it to turn the video into a Teleparty. If it is still not working,[re-install Teleparty](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) and try again.
 
 How many people can join a Teleparty, and does everyone need a streaming service account?
 
@@ -183,7 +177,7 @@ Up to 1000 friends can participate in the same Teleparty. Everyone that joins th
 
 How do I invite friends to my Teleparty?
 
-Copy and share links by clicking on the chain icon ![](https://netflixparty.b-cdn.net/img/land/chrome_button_link.png). This icon is located on the top right area of your chat interface.
+Copy and share links by clicking on the chain icon ![](/_next/image?url=https%3A%2F%2Fnetflixparty.b-cdn.net%2Fimg%2Fland%2Fchrome_button_link.png&w=48&q=75). This icon is located on the top right area of your chat interface.
 
 Joining a Teleparty
 -------------------
@@ -213,7 +207,7 @@ Change your nickname by selecting the "User Icon". This'll prompt you to the set
 
 How do I invite my friends to my party?
 
-Copy and share links by clicking on the chain icon ![](https://netflixparty.b-cdn.net/img/land/chrome_button_link.png). This icon is located on the top right area of your chat interface.  
+Copy and share links by clicking on the chain icon ![](/_next/image?url=https%3A%2F%2Fnetflixparty.b-cdn.net%2Fimg%2Fland%2Fchrome_button_link.png&w=48&q=75). This icon is located on the top right area of your chat interface.  
 You can also invite friends by clicking on the TP button (once in a party and the video is playing) and then click the copy button next to the invite link.
 
 How can I hide the chat sidebar?
@@ -322,7 +316,7 @@ Troubleshooting
 
 We are constantly updating Teleparty. If your run into problems please uninstall and reinstall Teleparty to make sure you have the latest version which likely has a bugfix. If the issue still persists, please email us at [\[email protected\]](https://www.netflixparty.com/cdn-cgi/l/email-protection)
 
-[Teleparty](https://www.netflixparty.com/) [![Join the Teleparty Discord](/img/discord_logo.svg)](https://discord.gg/FBXbsXJEJB)
+[Teleparty](https://www.netflixparty.com/)[![Join the Teleparty Discord](/img/discord_logo.svg)](https://discord.gg/FBXbsXJEJB)
 
 Resources
 
