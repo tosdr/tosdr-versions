@@ -5,8 +5,8 @@
     * [Our Strategy](https://www.sanofi.com/en/our-company/our-strategy)
     * Governance
         * [Governance](https://www.sanofi.com/en/our-company/governance)
-        * [Board of Directors](https://www.sanofi.com/en/our-company/governance/board-of-directors)
         * [Specialist Committees](https://www.sanofi.com/en/our-company/governance/specialist-committees)
+        * [Board of Directors](https://www.sanofi.com/en/our-company/governance/board-of-directors)
         * [Executive Committee](https://www.sanofi.com/en/our-company/governance/executive-committee)
     * Social Impact
         * [Social Impact](https://www.sanofi.com/en/our-company/social-impact)
@@ -94,7 +94,7 @@
 * Media
     * [Media](https://www.sanofi.com/en/media-room)
     * [Contacts](https://www.sanofi.com/en/media-room/contact)
-    * [Magazine Sanofi Today](https://www.sanofi.com/en/magazine)
+    * [Stories](https://www.sanofi.com/en/magazine)
     * [Press Releases](https://www.sanofi.com/en/media-room/press-releases)
 * Investors
     * [Investors](https://www.sanofi.com/en/investors)
@@ -174,8 +174,8 @@ Back to top
 * [Legal notice](https://www.sanofi.com/en/legal-notice)
 * [Privacy & data protection](https://www.sanofi.com/en/privacy-and-data-protection)
 * [Cookies Policy](https://www.sanofi.com/en/data-privacy)
-* [Sanofi Today](https://www.sanofi.com/en/magazine)
 * [Our publications](https://www.sanofi.com/en/publications)
+* [Stories](https://www.sanofi.com/en/magazine)
 * [Sitemap](https://www.sanofi.com/en/sitemap)
 * [Directory](https://www.sanofi.com/en/directory)
 * [Accessibility: partial compliance](https://www.sanofi.com/en/accessibility-partial-compliance)
