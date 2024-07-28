@@ -284,4 +284,4 @@ Airfind Corp
 Miami, FL 33127  
 Email: support@smoreapp.co
 
-[Home](https://smoreapp.co/) | [Download App](https://play.google.com/store/apps/details?id=com.lab465.SmoreApp) | [Read Our Blog](https://smoreapp.co/blog) | [About S'more](https://smoreapp.co/about-us) | [Privacy](https://smoreapp.co/privacy) | [Terms of Use](https://smoreapp.co/terms) | [Contact Us](mailto:support@smoreapp.co) | [Manage Data](https://smoreapp.co/manage-data)
+[Home](https://smoreapp.co/) | [Download App](https://play.google.com/store/apps/details?id=com.lab465.SmoreApp) | [About S'more](https://smoreapp.co/about-us) | [Privacy](https://smoreapp.co/privacy) | [Terms of Use](https://smoreapp.co/terms) | [Contact Us](mailto:support@smoreapp.co) | [Manage Data](https://smoreapp.co/manage-data)
