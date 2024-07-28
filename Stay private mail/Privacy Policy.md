@@ -1,4 +1,6 @@
-![](img/keepd-square-logo.png)
+![](img/keepd-logo-shadow.png)
+
+The home for the things you want to keep
 
 [](https://www.stayprivatemail.com/index.html)
 
@@ -31,6 +33,8 @@ Send Cancel
  Company Indent
 
 Reset
+
+Don't have an account? [Sign Up](https://keepd.com/sign-up/)
 
 Compose
 
