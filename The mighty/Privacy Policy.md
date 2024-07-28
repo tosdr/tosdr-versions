@@ -1,16 +1,16 @@
- [_![](/_ipx/f_png,s_120x30/static/mighty-logo-horizontal-black.png)_](https://themighty.com/ "The Mighty")
+ [_![The Mighty](/_ipx/f_png,s_120x30/static/mighty-logo-horizontal-black.png)_](https://themighty.com/ "The Mighty")
 
  [![](/static/svgs/icon-newsletters.svg) Newsletters](https://themighty.com/newsletter/subscribe/)
 
- [![](/static/svgs/search.svg) Explore](https://themighty.com/explore/)
+ [![Navigate to explore page](/static/svgs/search.svg) Explore](https://themighty.com/explore/)
 
- [![](/static/svgs/communities.svg) Groups](https://themighty.com/groupdirectory/)
+ [![Browse our groups directory](/static/svgs/communities.svg) Groups](https://themighty.com/groupdirectory/)
 
- [![](/static/svgs/merch.svg) Mighty Merch](https://shop.themighty.com/)
+ [![Visit our Merch shop](/static/svgs/merch.svg) Mighty Merch](https://shop.themighty.com/)
 
 Log In
 
-[![](/static/svgs/icon-newsletters.svg)](https://themighty.com/newsletter/subscribe/) Join Us ![](/static/svgs/mobile-menu.svg)
+[![](/static/svgs/icon-newsletters.svg)](https://themighty.com/newsletter/subscribe/) Join Us ![Access dropdown menu](/static/svgs/mobile-menu.svg)
 
 Privacy Policy
 ==============
@@ -272,7 +272,7 @@ If we transfer your personal information from the United Kingdom or European Eco
 * [Jobs & Internships](https://corp.themighty.com/mighty-careers/)
 * [Our Practices and Principles](https://themighty.com/our-practices-and-principles/)
 * [Help](https://intercom.help/themighty)
-* [Your Privacy Choices ![](https://themighty.com/wp-content/uploads/2023/01/privacyoptions29x14.jpg)](https://themighty.com/your-privacy-choices/) 
+* [Your Privacy Choices ![Your Privacy Choices](https://themighty.com/wp-content/uploads/2023/01/privacyoptions29x14.jpg)](https://themighty.com/your-privacy-choices/) 
 * [Cookie Notice](https://themighty.com/cookie-notice/)
 
 **Work With Us**
