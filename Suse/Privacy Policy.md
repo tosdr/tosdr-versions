@@ -12,7 +12,7 @@ Legal
 * [SUSE Product Export List](https://www.suse.com/company/legal/eccn/)
 * [Terms of Use](https://www.suse.com/company/legal/terms-of-use/)
 * [Corporate Information Security](https://www.suse.com/company/legal/information-security/)
-* [Speaking Up Policy](https://links.imagerelay.com/cdn/3404/ql/bb55e801ec284cf595df7a360aec0f3d/SUSE-Speaking-Up-Policy-V2.2.pdf)
+* [Speaking Up Policy](https://links.imagerelay.com/cdn/3404/ql/eeef52018b8c4116b839656fae2003ab/SUSE-Speaking-Up-Policy.pdf)
 * [Environmental Policy](https://suse.imagerelay.com/share/4e1bad4b73ae40cda949455eecd408fa)
 * [SUSE S.A – Group Tax Strategy](https://links.imagerelay.com/cdn/3404/ql/3a5bc208e26e4287afd13f806ccd88e2/SUSE-Group-Tax-Strategy.pdf)
 
