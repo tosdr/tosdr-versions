@@ -205,29 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Confessions of a Pornographer!](https://www.somethingawful.com/comedy-goldmine/kevin-moore-porn/1/)
-* [Too Much Information: The Unseen Deaths of Jet Li in 'The One' (Part 1)](https://www.somethingawful.com/news/jet-li-death/)
-* [SUPER DRAGON! \*clap clap clapclapclap\*](https://www.somethingawful.com/awfulvision/falcon-dragon-chicken/1/)
-* [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
-* [Animal Anomalies 4](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-4/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [Augmentation Gone Rampant!](https://www.somethingawful.com/photoshop-phriday/deus-ex-augmentation/1/)
+* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [The Great American Reach Around - The Midwest & France](https://www.somethingawful.com/news/gara-midwest-france/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Wish I was as swole as these batteries](http://forums.somethingawful.com/showthread.php?threadid=4066398 "Wish I was as swole as these batteries")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Name a fun fact about yourself?](http://forums.somethingawful.com/showthread.php?threadid=4066383 "Name a fun fact about yourself?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/newbie.png) [Sonya Massey (tw: police violence)](http://forums.somethingawful.com/showthread.php?threadid=4066354 "Sonya Massey (tw: police violence)")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [a whale of a time](http://forums.somethingawful.com/showthread.php?threadid=4066375 "a whale of a time")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Catchall Joe Rogan thread](http://forums.somethingawful.com/showthread.php?threadid=4066408 "Catchall Joe Rogan thread")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [can we admit now that i make good threads?](http://forums.somethingawful.com/showthread.php?threadid=4066369 "can we admit now that i make good threads?")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Fav Rap Lines](http://forums.somethingawful.com/showthread.php?threadid=4066410 "Fav Rap Lines")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Shoe fly dont bother me](http://forums.somethingawful.com/showthread.php?threadid=4066628 "Shoe fly dont bother me")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Photoshop: Kamala Harris has questionable taste in music](http://forums.somethingawful.com/showthread.php?threadid=4066692 "Photoshop: Kamala Harris has questionable taste in music")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The fuck is a teaspoon?](http://forums.somethingawful.com/showthread.php?threadid=4066647 "The fuck is a teaspoon?")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [What's a sane number of kids to have?](http://forums.somethingawful.com/showthread.php?threadid=4066627 "What's a sane number of kids to have?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [A question for people who believe in god](http://forums.somethingawful.com/showthread.php?threadid=4066688 "A question for people who believe in god")
 
 ### Random Articles
 
-* [Fun Christmas Activity Cards!](https://www.somethingawful.com/news/xmas-card-fun/)
-* [Game Reviews In Men's Magazines](https://www.somethingawful.com/video-game-article/men-magazine-review/)
-* [Star Wrecked](https://www.somethingawful.com/awful-links/awful-link-3893/)
-* [GroupHoop!](https://www.somethingawful.com/news/grouphoop/)
-* [Christian Furry Fellowship](https://www.somethingawful.com/awful-links/christian-furry-fellowship/)
+* [Intuitions](https://www.somethingawful.com/awful-links/awful-link-2793/)
+* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
+* [Meanwhile In Second Life](https://www.somethingawful.com/video-game-article/meanwhile-second-life/)
+* [State Og Update: 11.29.03](https://www.somethingawful.com/state-og/state-og-update-50/)
+* [Lightning Warrior Raidy](https://www.somethingawful.com/hentai-game-reviews/dungeon-crawl-tentacle/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
