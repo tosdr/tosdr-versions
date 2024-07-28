@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [A new algae-based menstrual pad could stop leaks](https://www.sciencenews.org/article/algae-menstrual-period-pad-stop-leaks)
+            
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 26, 2024
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [Sepsis tests take days, putting patients at risk. A new method may cut wait time](https://www.sciencenews.org/article/new-sepsis-test-cut-result-wait-time)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")11 hours ago
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 24, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
             
             By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 23, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [How to stay healthy during the COVID-19 summertime surge](https://www.sciencenews.org/article/summer-covid-19-surge)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 19, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Komodo dragon teeth get their strength from an iron coat](https://www.sciencenews.org/article/komodo-dragon-teeth-iron-dinosaur)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 26, 2024
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen)
             
             By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")July 22, 2024
-            
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [Can bioluminescent ‘milky seas’ be predicted?](https://www.sciencenews.org/article/bioluminescent-milky-seas-predicted)
-            
-            By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -161,7 +161,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Chemistry](https://www.sciencenews.org/topic/chemistry)
+    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [Dark matter experiments get a first peek at the ‘neutrino fog’](https://www.sciencenews.org/article/neutrino-fog-dark-matter-experiments) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 25, 2024
+            
+        * [Chemistry](https://www.sciencenews.org/topic/chemistry)
             
             ### [A new element on the periodic table might be within reach](https://www.sciencenews.org/article/new-element-120-periodic-table) 
             
@@ -173,12 +179,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 19, 2024
             
-        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
-            
-            ### [_Jurassic Park_’s amber-preserved dino DNA is now inspiring a way to store data](https://www.sciencenews.org/article/jurassic-park-amber-dna-data) 
-            
-            By [Payal Dhar](https://www.sciencenews.org/author/payal-dhar "Posts by Payal Dhar")July 15, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -186,21 +186,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [A planet needs to start with a lot of water to become like Earth](https://www.sciencenews.org/article/earthlike-planets-need-lot-water)
+            ### [Moonquakes are much more common than thought, Apollo data suggest](https://www.sciencenews.org/article/moonquakes-common-apollo-data-suggest)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 22, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [Jupiter’s Great Red Spot may be less than 200 years old](https://www.sciencenews.org/article/jupiter-great-red-spot-shrinking)
-            
-            By [Carolyn Wilke](https://www.sciencenews.org/author/carolyn-wilke "Posts by Carolyn Wilke")July 17, 2024
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 26, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
-            ### [Sulfur was key to the first water on Earth](https://www.sciencenews.org/article/sulfur-key-first-water-earth)
+            ### [NASA’s Perseverance rover finds its first possible hint of ancient life on Mars](https://www.sciencenews.org/article/nasa-perseverance-rover-hint-life-mars)
             
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")July 15, 2024
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 25, 2024
+            
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [The North Star is much heavier than previously thought](https://www.sciencenews.org/article/north-star-heavier-than-thought)
+            
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")July 25, 2024
             
 
 Terms of Service
