@@ -75,66 +75,74 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/June-option1-1-scaled.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/july-option-3-2.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
-[Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html) [Donate](https://casualsexproject.com/donate) [Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
-[Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html) [Donate](https://casualsexproject.com/donate) [Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
 
-[Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html) [Donate](https://casualsexproject.com/donate) [Read President's Update](https://casualsexproject.com/presidents-update-2023/index.html)
+[About](https://casualsexproject.com/about) [Donate](https://casualsexproject.com/donate) [About](https://casualsexproject.com/about)
 
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/bad-accounting-cant-make-public-pension-funding-shortfall-crisis-add-up.jpg)[](https://admin.mi52siterestore.com/article/bad-accounting-cant-make-public-pension-funding-shortfall-crisis-add-up/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/a-playbook-for-ai-policy.jpg)[](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/ "Read More")
 
-Issue Brief Economics, Governance
+Report Governance, Culture
 
-Jun 06 2024
+Jul 25 2024
 
-Issue Brief Economics, Governance
+Report Governance, Culture
 
-Jun 06 2024
+Jul 25 2024
 
-### [Bad Accounting Can’t Make the Public Pension Funding Shortfall Crisis Add Up](https://admin.mi52siterestore.com/article/bad-accounting-cant-make-public-pension-funding-shortfall-crisis-add-up/)
+### [A Playbook for AI Policy](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/)
 
-By **[Allison Schrager](https://admin.mi52siterestore.com/person/allison-schrager/)** Read time **18 mins** [Read More](https://admin.mi52siterestore.com/article/bad-accounting-cant-make-public-pension-funding-shortfall-crisis-add-up/)
+By **[Nick Whitaker](https://admin.mi52siterestore.com/person/nick-whitaker/)** Read time **51 mins** [Read More](https://admin.mi52siterestore.com/article/a-playbook-for-ai-policy/)
 
-\- \- \- \-
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/amicus-brief-b-b-v-capistrano-unified-school-district.jpg)[](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/ "Read More")
 
-\-
+Amicus Brief Governance, Education, Culture
 
-\- \-
+Jul 22 2024
 
-By **\-** Read time **\- mins** Read More
+[Amicus Brief: B.B. v. Capistrano Unified School District](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/)
 
-\- \- \- \-
+By **[Ilya Shapiro](https://admin.mi52siterestore.com/person/ilya-shapiro/), [Tim Rosenberger](https://admin.mi52siterestore.com/person/tim-rosenberger/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/amicus-brief-b-b-v-capistrano-unified-school-district/)
 
-\-
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nypds-whack-a-mole-crime-drops-in-subway-spikes-outside.jpg)[](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/ "Read More")
 
-\- \-
+Commentary Cities, Public Safety, Governance New York, New York City, Crime Control
 
-By **\-** Read time **\- mins** Read More
+Jul 21 2024
 
-\- \- \- \-
+[Adams Has NYPD Playing Whack-a-Mole as Crime Drops in Subway, Rises on the Street](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/)
 
-\-
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/adams-has-nypd-playing-whack-a-mole-as-crime-drops-in-subway-rises-on-the-street/)
 
-\- \-
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-arent-public-schools-performing-better.jpg)[](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/ "Read More")
 
-By **\-** Read time **\- mins** Read More
+Commentary Education Pre K-12
 
-\- \- \- \-
+Jul 20 2024
 
-\-
+[With So Few Students in Class, Why Aren’t Public Schools Doing Better?](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/)
 
-\- \-
+By **[Daniel DiSalvo](https://admin.mi52siterestore.com/person/daniel-disalvo/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/with-so-few-students-in-class-why-arent-public-schools-doing-better/)
 
-By **\-** Read time **\- mins** Read More
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/california-passes-deceptive-trans-policy-in-schools.jpg)[](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/ "Read More")
+
+Commentary Governance California, Gender Ideology
+
+Jul 17 2024
+
+[California Passes Deceptive Trans Policy in Schools](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/)
+
+By **[Leor Sapir](https://admin.mi52siterestore.com/person/leor-sapir/), [Erin Friday](https://admin.mi52siterestore.com/person/erin-friday/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/california-passes-deceptive-trans-policy-in-schools/)
 
 Our Policy Areas
 ----------------
@@ -276,48 +284,59 @@ We are always looking for entrepreneurial, self-driven, resourceful, and detail-
 
 [View open positions](https://casualsexproject.com/careers)
 
-Projects
---------
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/3461fd7b-8c17-412f-a03a-678245c7e2dd.jpg)
 
-      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-adam-smith.jpg)[](https://adamsmithsociety.com/ "Read More")
+Logos Initiative
+----------------
 
-### Adam Smith Society
+The Manhattan Institute and fellow Christopher Rufo announce a significant expansion to the Logos Initiative.
+
+[View this project](https://casualsexproject.com/logos-initiative)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-45.jpg)
+
+Adam Smith Society
+------------------
 
 SmithSoc is a community of business students and professionals who join together to discuss and debate the contributions of the free market toward advancing human flourishing and opportunity for all.
 
 [View this project](https://adamsmithsociety.com/)
 
-      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-metro.jpg)[](https://admin.mi52siterestore.com/project/metropolitan-majority/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-44.jpg)
 
-### Metropolitan Majority
+Metropolitan Majority
+---------------------
 
 Speaking up for the multiethnic mainstream in America’s metros.
 
-[View this project](https://admin.mi52siterestore.com/project/metropolitan-majority/)
+[View this project](https://casualsexproject.com/project/metropolitan-majority)
 
-      ![](https://media4.manhattan-institute.org/wp-content/uploads/correct-size-nycreborn.jpg)[](https://admin.mi52siterestore.com/project/new-york-city-renewed/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-46.jpg)
 
-### New York City: Renewed
+New York City Renewed
+---------------------
 
 Gotham will bounce back—and the Manhattan Institute is here to help spark its renaissance.
 
-[View this project](https://admin.mi52siterestore.com/project/new-york-city-renewed/)
+[View this project](https://casualsexproject.com/project/new-york-city-renewed)
 
-      ![](https://media4.manhattan-institute.org/sites/default/files/proxy-monitor-shareholders-corporations.jpg)[](https://proxymonitor.org/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-47.jpg)
 
-### Proxy Monitor
+Proxy Monitor
+-------------
 
 Shedding light on the influence of shareholder proposals on corporations.
 
 [View this project](https://proxymonitor.org/)
 
-      ![](https://media4.manhattan-institute.org/wp-content/uploads/trial-lawyers-inc-new-project.jpg)[](https://admin.mi52siterestore.com/project/trial-lawyers-inc/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/default-48.jpg)
 
-### Trial Lawyers, Inc.
+Trial Lawyers, Inc.
+-------------------
 
 Highlighting the ramifications of litigation practices and fostering a more transparent and effective legal system.
 
-[View this project](https://admin.mi52siterestore.com/project/trial-lawyers-inc/)
+[View this project](https://casualsexproject.com/project/trial-lawyers-inc)
 
 \-
 
