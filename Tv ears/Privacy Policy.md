@@ -525,7 +525,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
-© 2023 TV Ears, Inc. All rights reserved
+© 2024 TV Ears, Inc. All rights reserved
 
 0
 
