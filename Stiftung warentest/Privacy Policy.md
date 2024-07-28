@@ -800,12 +800,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
 
 Fußbereich
 
@@ -3783,12 +3783,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
 
 Weitere spannende Themen
 
@@ -3803,12 +3803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
 
 Neueste Tests
 
@@ -3821,12 +3821,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
-* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
 
 Service Stiftung Warentest
 
