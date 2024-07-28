@@ -97,13 +97,13 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [CrowdStrike Outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
-* [Colin Kaepernick’s AI Startup](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/)
-* [New Google Play Features](https://techcrunch.com/2024/07/24/google-play-launches-new-features/)
-* [TikTok Lite](https://techcrunch.com/2024/07/24/tiktok-lite-exposes-users-to-harmful-content-say-mozilla-researchers/)
+* [SearchGPT](https://techcrunch.com/2024/07/25/with-google-in-its-sights-openai-unveils-searchgpt/)
+* [Google Gemini Chatbot](https://techcrunch.com/2024/07/25/google-speeds-up-its-gemini-chatbot-and-brings-it-to-more-places/)
+* [Kodiak Robotics](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/)
+* [MIstral’s Large 2](https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/)
 * [Optimus Robot](https://techcrunch.com/2024/07/23/elon-musk-sets-2026-optimus-sale-date-heres-where-other-humanoid-robots-stand/)
 * [Tech Layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/07/25/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
