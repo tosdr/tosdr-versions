@@ -81,7 +81,7 @@ _Disclaimer: This is a fan-based project and is not affiliated with MySpace® in
 * [About](https://spacehey.com/about)
 * [News](https://spacehey.com/news)
 * [Rules](https://spacehey.com/rules)
-* [Press](https://spacehey.com/press/?portal)
+* [App](https://spacehey.com/mobile)
 * [Brand](https://spacehey.com/brand)
 * [Credits](https://spacehey.com/credits)
 * [RSS](https://rss.spacehey.com/)
