@@ -55,9 +55,9 @@ Featureschevron-down icon
 
 ### ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Solutionschevron-down icon
 
@@ -187,9 +187,9 @@ CAPABILITIES
 
 ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Teams
 
