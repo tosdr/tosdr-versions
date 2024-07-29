@@ -110,9 +110,7 @@ Tools and Templates
 
 [Workflow Templates
 
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Prompt Library
-
-Prompt templates from the Copy.ai team](https://copy.ai/ai-prompt-library)[AI Writing Generators
+Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
 
 AI writing generators to help with one off tasks](https://copy.ai/tools)
 
@@ -246,9 +244,7 @@ Tools and Templates
 
 [Workflow Templates
 
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Prompt Library
-
-Prompt templates from the Copy.ai team](https://copy.ai/ai-prompt-library)[AI Writing Generators
+Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
 
 AI writing generators to help with one off tasks](https://copy.ai/tools)
 
