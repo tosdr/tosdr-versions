@@ -31,6 +31,7 @@
     * [Podcast](https://www.abskids.com/autism-weekly-podcast/)
     * [Blog](http://blog.abskids.com/)
     * [News](https://www.abskids.com/news/)
+    * [Events](https://www.abskids.com/events/)
 * [Careers](https://www.abskids.com/careers/)
     * [Careers](https://www.abskids.com/careers/)
     * [Job Openings](https://www.abskids.com/careers/job-openings/)
@@ -62,6 +63,7 @@
     * [Podcast](https://www.abskids.com/autism-weekly-podcast/)
     * [Blog](http://blog.abskids.com/)
     * [News](https://www.abskids.com/news/)
+    * [Events](https://www.abskids.com/events/)
 * [Careers](https://www.abskids.com/careers/)
     * [Careers](https://www.abskids.com/careers/)
     * [Job Openings](https://www.abskids.com/careers/job-openings/)
@@ -106,6 +108,7 @@ Privacy Policy
     * [Podcast](https://www.abskids.com/autism-weekly-podcast/)
     * [Blog](http://blog.abskids.com/)
     * [News](https://www.abskids.com/news/)
+    * [Events](https://www.abskids.com/events/)
 * [Careers](https://www.abskids.com/careers/)
     * [Careers](https://www.abskids.com/careers/)
     * [Job Openings](https://www.abskids.com/careers/job-openings/)
@@ -244,7 +247,7 @@ We may disclose personal information that we collect or you provide as described
 privacy policy:
 
 * We do not sell, rent, lease, or otherwise transfer your phone number to any third parties without your consent, or as otherwise permitted by law.
-* Your phone number, including SMS consent, may be shared with our affiliates, subsidiaries, or partner companies for related services but not for marketing purposes.
+* Your phone number may be shared with our affiliates, subsidiaries, or partner companies for related services but not for marketing purposes. **SMS consent will not be shared.**
 * Within our organization, access to your phone number is restricted to employees who need it to provide you with our SMS service**.** 
 
 * To contractors, service providers, and other third parties we use to support our business. 
