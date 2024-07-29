@@ -96,7 +96,7 @@
     * Connect
         * [Upcoming Webinars](https://www.coupa.com/events?field_event_type=4361#resources)
         * [Events](https://www.coupa.com/events?field_event_type=4356#resources)
-        * [Inspire](https://www.coupa.com/inspire)
+        * [Inspire](https://www.coupainspire.com/)
     
     Featured Resources
     
