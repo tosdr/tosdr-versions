@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Lasertag Extravaganza](https://www.barstoolsports.com/video/3520292/barstool-sports-lasertag-extravaganza)
+* [Viva TV](https://www.barstoolsports.com/video/3520581/we-spent-dollar5000-to-get-coached-by-an-nba-superstar-or-viva-tv)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Barstool Golf Time](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
 * [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
