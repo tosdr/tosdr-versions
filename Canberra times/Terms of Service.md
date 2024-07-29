@@ -344,7 +344,7 @@ Our Sites
 
 [Promo Codes](https://www.australiancoupons.com.au/)
 
-[AgTrader](https://www.agtrader.com.au/search/act?page=1%20target=/)
+[AgTrader](https://www.agtrader.com.au/)
 
 [Farmer's Finance](https://farmersfinance.com.au/)
 
