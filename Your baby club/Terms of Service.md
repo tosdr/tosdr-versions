@@ -138,9 +138,21 @@ Join Your Baby Club today for [exclusive offers](https://www.yourbabyclub.com/of
 Featured articles
 -----------------
 
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-small.jpeg)
+
+Labor
+
+07/26/2024
+
+###### Why Does My Pregnant Belly Feel Tight and Heavy?
+
+Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+
+[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+
 [![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
 
-Sleeping Environment
+Sleep Challenges
 
 07/24/2024
 
@@ -150,27 +162,15 @@ Any parent that has ever attempted to sleep with their baby in the same room wil
 
 [](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
-[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
+[Your Pregnancy Mental Health and Well-being
 
-Family Life
+07/22/2024
 
-05/05/2023
+###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
 
-###### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
+“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
 [Buying Advice
 
@@ -182,19 +182,31 @@ At Your Baby Club, we aim to provide our members with all the insights on the be
 
 [](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
-[Your Pregnancy Mental Health and Well-being
+[Pregnancy Symptoms and Challenges
 
-07/22/2024
+07/18/2024
 
-###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
+###### Metallic Taste During Pregnancy? Causes & Solutions Explained
 
-“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
 
-[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-small.jpeg)
+
+Labor
+
+07/26/2024
+
+##### Why Does My Pregnant Belly Feel Tight and Heavy?
+
+Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+
+[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
 
 [![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
 
-Sleeping Environment
+Sleep Challenges
 
 07/24/2024
 
@@ -203,38 +215,6 @@ Sleeping Environment
 Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
 [](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
-
-[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
-
-Family Life
-
-05/05/2023
-
-##### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
-
-As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[Buying Advice
-
-07/19/2024
-
-###### Our 2024 ABC Kids Expo Product Top Picks
-
-At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
 [Your Pregnancy Mental Health and Well-being
 
@@ -246,29 +226,15 @@ At Your Baby Club, we aim to provide our members with all the insights on the be
 
 [](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-thumbnail.jpeg)
+[Buying Advice
 
-Sleeping Environment
+07/19/2024
 
-07/24/2024
+###### Our 2024 ABC Kids Expo Product Top Picks
 
-##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
-Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
-
-[](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
-
-[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
-
-Family Life
-
-05/05/2023
-
-##### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
-
-As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
+[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
 [Pregnancy Symptoms and Challenges
 
@@ -280,15 +246,29 @@ So you have a metallic taste in your mouth, and you are pregnant. This probably 
 
 [](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
 
-[Buying Advice
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-thumbnail.jpeg)
 
-07/19/2024
+Labor
 
-###### Our 2024 ABC Kids Expo Product Top Picks
+07/26/2024
 
-At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+##### Why Does My Pregnant Belly Feel Tight and Heavy?
 
-[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+
+[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
+
+Sleep Challenges
+
+07/24/2024
+
+##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+
+Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
 [Your Pregnancy Mental Health and Well-being
 
@@ -299,6 +279,26 @@ At Your Baby Club, we aim to provide our members with all the insights on the be
 “I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
 [](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+
+[Buying Advice
+
+07/19/2024
+
+###### Our 2024 ABC Kids Expo Product Top Picks
+
+At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[Pregnancy Symptoms and Challenges
+
+07/18/2024
+
+###### Metallic Taste During Pregnancy? Causes & Solutions Explained
+
+So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+
+[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
 
 [See all articles](https://www.yourbabyclub.com/content)
 
@@ -386,6 +386,14 @@ More club offers
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
+![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+
+##### Get 16 free meals + free shipping with America's #1 meal kit
+
+[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
+[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
 ##### FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!
@@ -418,14 +426,6 @@ More club offers
 
 [Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
 
-![Claim A $750 Shein Maternity Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/b3f086ba-a5d4-4145-932b-23befec59f5c-1-small.jpeg)
-
-##### Claim A $750 Shein Maternity Gift Card
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-maternity-gift-card-943)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-maternity-gift-card-943)
-
 ![Join Enfamil now for up to $400 in FREE gifts](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1f97275a-c932-4bc3-8a28-243faef61e9a-1-small.jpeg)
 
 ##### Join Enfamil now for up to $400 in FREE gifts
@@ -435,6 +435,16 @@ Join Enfamil Family Beginnings® and get up to $400 in FREE gifts including coup
 [Read more](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
+
+![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+
+##### Get 16 free meals + free shipping with America's #1 meal kit
+
+With over 50+ weekly menu items and market items, it's time to break up with takeout. Try it now and get 16 FREE MEALS + free shipping on your first box! Offer is for new subscriptions only across 9 boxes and varies by plan.
+
+[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+
+[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
 
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
@@ -475,16 +485,6 @@ Join now & claim\* your $750 Shein Kids gift card. All you need to do is registe
 [Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
 
 [Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
-![Claim A $750 Shein Maternity Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/b3f086ba-a5d4-4145-932b-23befec59f5c-1-small.jpeg)
-
-##### Claim A $750 Shein Maternity Gift Card
-
-Join now & claim\* your $750 Shein gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-maternity-gift-card-943)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-maternity-gift-card-943)
 
 [![Site Logo](/resource/images/sitelogofooter)](https://www.yourbabyclub.com/)
 
