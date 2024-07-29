@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/obama-gets-osama/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/bruce-springsteen-zet-banksector-te-kakken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -160,18 +160,6 @@ Inschrijven
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/P9104778-2.jpg?fit=429%2C440&ssl=1)
-
-### [Aquarius Polariser: koperbedrading in jouw huis beschermt tegen straling!](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/)
-
-[Door invloed van magnetisme van zonnepanelen, omvormers, draadloze digitale signalen en het elektriciteit netwerk, moet het lichaam continue in verzet. Dit alles verzwakt het immuunsysteem. De meeste mensen staan er niet bij stil maar ook een elektriciteit netwerk in de woning functioneert als een antenne en neemt straling van buitenaf op en geeft dit ook weer af binnen in huis. En helaas horen je er steeds vaker over: veel meer mensen met zonnepanelen op hun dak hebben slapen vaak slecht, wat zich op termijn kan veranderen in gezondheidsklachten. De technici van Aquarius kwamen erachter wat er mis gaat; door de magnetische velden wordt er minder serotonine aangemaakt. De pijnappelklier is een klier die zich midden in de hersenen bevindt en die de vorm heeft van een dennenappel. Gelukkig kunnen de velden van het elektriciteit netwerk simpel gecorrigeerd worden om juist een positieve invloed hebben op het lichaam door een Aquarius Polariser. Een Aquarius Polariser is een kastje die je in het stopcontact steekt ergens in de woning of slaapkamer. Het shungite en kwarts in de Polariser zet de frequenties van het elektra netwerk om naar een frequentie die minder belastend is voor het lichaam. De polariser zorgt ervoor dat de disharmonische frequenties op het elektrische netwerk worden omgezet naar biofrequenties, zonder dat het apparaat zelf elektriciteit verbruikt! In dit artikel vatten we nog eens grondig samen waarom EMF-straling zo slecht voor ons is en introduceren we de geweldige Polarisers van Aquarius Vitaliser, voor een extra mooie WantTopKnow-prijs! Lees dus snel verder …](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
-#### WantToKnow Aanbieding
-
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
 
 ### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
@@ -179,6 +167,18 @@ Inschrijven
 [Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
+
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/akaijagoud1000_8geel.jpg?fit=440%2C440&ssl=1)
+
+### [De energetische Akaija sieraden, een prachtig energetisch zomercadeau!](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/)
+
+[– Let op! Aanbieding geldig t/m 8 augustus – Een magisch verhaal rond de creatie van de Akaija, een kosmisch symbool dat werd gevormd tot een sieraad. Een vorm die op wonderlijke wijze ontstond, in samenwerking met de Lichtwereld. Wim Roskam, de maker van de Akaija, heeft deze bijzondere vorm ‘doorgekregen’ van zijn overleden vriendin Linda. Kort voor haar overlijden hadden beiden de afspraak gemaakt, dat zij- indien mogeljik- zou gaan inspireren. En dat bleek te lukken..! Wim begon weer met schilderen en plots was daar dit schilderij, de ‘Akaija’, die in volle vorm op Aarde verscheen als inspiratie. Maar het bleef niet alleen bij dit schilderi want eerst zette Linda hem er overduidelijk toe aan, om ook edelsmid te worden, waardoor de Akaija uit zilver gemaakt kon gaan worden..! En toen de Akaija eenmaal was gemaakt, bleek dat deze vormkracht/Akaija van een veel grotere, universele betekenis was, dan Wim van te voren had kunnen denken of zelfs maar had kunnen dromen… In dit artikel nemen we je mee in dit wonderlijke symbool en het avontuur van fascinerende ontdekkingen die Wim Roskam met deze Akaija maakte.. Wij vinden het in ieder geval meer dan de moeite waard je dit verhaal aan te bieden en vanzelfsprekend ook de hanger als aanbieding aan te reiken. En natuurlijk weer met een speciaal extraatje..! Lees snel verder hoe dit wonderlijke symbool op de aarde is gekomen, waaraan de vorm refereert en de helende eigenschappen van deze vorm… Ook mochten we voor jou als WantToKnow-lezer een aantal exclusieve stukken reserveren, met een speciaal presentje van Wim en Marianne voor jou als WantToKnow-lezer! Zolang de voorraad strekt …](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/de-energetische-akaija-sieraden-een-prachtig-energetisch-zomercadeau-zomer-2024/#pt-field-text-5)
 
 [![BRES #346](https://www.wanttoknow.nl/wp-content/uploads/BRES-346-BANNER.jpg)](https://bresmagazine.nl/publicaties/)
 
