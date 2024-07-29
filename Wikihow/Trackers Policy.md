@@ -130,31 +130,29 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
-[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
-
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
-[![What Vibe Do I Give Off](https://www.wikihow.com/images/thumb/1/17/Chill-vibes.png/-crop-126-120-126px-Chill-vibes.png)
-
-What Vibe Do I Give Off Quiz](https://www.wikihow.com/What-Vibe-Do-I-Give-Off)
-
-[![Read Body Language](https://www.wikihow.com/images/thumb/f/f2/Read-Body-Language-Step-13-Version-5.jpg/-crop-126-120-126px-Read-Body-Language-Step-13-Version-5.jpg)
+[![Tell if Your Best Friend Loves You](https://www.wikihow.com/images/thumb/9/9b/Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg/-crop-126-120-126px-Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg)
 
 How to  
-Read Body Language](https://www.wikihow.com/Read-Body-Language)
+Tell if Your Best Friend Loves You](https://www.wikihow.com/Tell-if-Your-Best-Friend-Loves-You)
 
-[![Get Glowing Skin in Just One Week](https://www.wikihow.com/images/thumb/8/8c/Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg/-crop-126-120-126px-Get-Glowing-Skin-in-Just-One-Week-Step-22.jpeg)
+[![Be a Better Person](https://www.wikihow.com/images/thumb/d/da/Be-a-Better-Person-Step-13-Version-6.jpg/-crop-126-120-126px-Be-a-Better-Person-Step-13-Version-6.jpg)
+
+How to Be a Better Person: A Guide to Self-Improvement](https://www.wikihow.com/Be-a-Better-Person)
+
+[![Late Night Date Ideas](https://www.wikihow.com/images/thumb/c/c6/Late-Night-Date-Ideas-Step-17-Version-2.jpg/-crop-126-120-126px-Late-Night-Date-Ideas-Step-17-Version-2.jpg)
+
+17+ Fun & Easy Late Night Date Ideas](https://www.wikihow.com/Late-Night-Date-Ideas)
+
+[![Be Friendly](https://www.wikihow.com/images/thumb/e/ee/Be-Friendly-Step-21-Version-2.jpg/-crop-126-120-126px-Be-Friendly-Step-21-Version-2.jpg)
 
 How to  
-Get Glowing Skin in Just One Week](https://www.wikihow.com/Get-Glowing-Skin-in-Just-One-Week)
-
-[![Start a Text Conversation](https://www.wikihow.com/images/thumb/0/02/Start-a-Text-Conversation-Step-12-Version-2.jpg/-crop-126-120-126px-Start-a-Text-Conversation-Step-12-Version-2.jpg)
-
-How to Start and Keep a Text Conversation Going](https://www.wikihow.com/Start-a-Text-Conversation)
+Be Friendly](https://www.wikihow.com/Be-Friendly)
 
   
 
@@ -195,4 +193,4 @@ Follow Us
 
 \-
 
-130
+135
