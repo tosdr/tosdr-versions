@@ -158,12 +158,12 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [HermanMartinus](https://github.com/HermanMartinus) / **[bearblog](https://github.com/HermanMartinus/bearblog)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
-* [Fork 73](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Fork 74](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
 * [Star 2.4k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
-* [Issues 14](https://github.com/HermanMartinus/bearblog/issues)
+* [Issues 15](https://github.com/HermanMartinus/bearblog/issues)
 * [Pull requests 4](https://github.com/HermanMartinus/bearblog/pulls)
 * [Actions](https://github.com/HermanMartinus/bearblog/actions)
 * [Projects 0](https://github.com/HermanMartinus/bearblog/projects)
