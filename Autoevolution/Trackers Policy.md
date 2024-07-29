@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia](https://s1.cdn.autoevolution.com/images/news/the-automotive-industry-lost-its-passion-and-it-now-lives-of-nostalgia-237407-5.jpg "The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia")
+[![No, the EU Doesn't Plan To Remotely Fine Drivers of Newer Cars. But It Certainly Could](https://s1.cdn.autoevolution.com/images/news/no-the-eu-doesn-t-plan-to-remotely-fine-drivers-of-newer-cars-but-it-certainly-could-237674-5.jpg "No, the EU Doesn't Plan To Remotely Fine Drivers of Newer Cars. But It Certainly Could")
 
-#### The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia](https://www.autoevolution.com/news/the-automotive-industry-lost-its-passion-and-it-now-lives-of-nostalgia-237407.html "The Automotive Industry Lost Its Passion, and It Now Lives off Nostalgia")
+#### No, the EU Doesn't Plan To Remotely Fine Drivers of Newer Cars. But It Certainly Could](https://www.autoevolution.com/news/no-the-eu-doesn-t-plan-to-remotely-fine-drivers-of-newer-cars-but-it-certainly-could-237674.html "No, the EU Doesn't Plan To Remotely Fine Drivers of Newer Cars. But It Certainly Could")
 
 coverstory \_
 
-[![Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update](https://s1.cdn.autoevolution.com/images/news/here-s-why-you-should-be-really-excited-for-helldivers-2-s-escalation-of-freedom-update-237490-5.jpg "Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update")
+[![These Two 1966 Chevy Impalas (One an SS) Need Help, Are They Worth the Money?](https://s1.cdn.autoevolution.com/images/news/these-two-1966-chevy-impalas-one-an-ss-need-help-are-they-worth-the-money-237691-5.jpg "These Two 1966 Chevy Impalas (One an SS) Need Help, Are They Worth the Money?")
 
-Here's Why You Should Be Really Excited for Helldivers 2's Escalation of Freedom Update](https://www.autoevolution.com/news/here-s-why-you-should-be-really-excited-for-helldivers-2-s-escalation-of-freedom-update-237490.html)
+These Two 1966 Chevy Impalas (One an SS) Need Help, Are They Worth the Money?](https://www.autoevolution.com/news/these-two-1966-chevy-impalas-one-an-ss-need-help-are-they-worth-the-money-237691.html)
 
 how-to \_
 
