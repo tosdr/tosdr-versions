@@ -39,6 +39,7 @@
         * [About Cookies](https://www.cookiehub.com/about-cookies)
     * [Partners](https://www.cookiehub.com/partners)
         * [Become a Reseller](https://www.cookiehub.com/reseller)
+        * [Become an Affiliate](https://www.cookiehub.com/affiliate)
     * [Blog](https://www.cookiehub.com/blog)
     
 
@@ -203,9 +204,9 @@ Sign up today and create a custom cookie banner for your website
 * [Privacy Policy](https://www.cookiehub.com/privacy-policy)
 * [Terms and conditions](https://www.cookiehub.com/terms-and-conditions)
 
-![Google Certified CMP Partner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI3NiIgdmlld0JveD0iMCAwIDcwIDc2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+[![Google Certified CMP Partner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI3NiIgdmlld0JveD0iMCAwIDcwIDc2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)](https://www.cookiehub.com/google-certified-cmp)
 
-![IAB TCF Certification](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iNzYiIHZpZXdCb3g9IjAgMCAxMzYgNzYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+ "IAB TCF Certification")
+[![IAB TCF Certification](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iNzYiIHZpZXdCb3g9IjAgMCAxMzYgNzYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+ "IAB TCF Certification")](https://www.cookiehub.com/iab-tcf-compliance)
 
 [](https://www.cookiehub.com/)
 
