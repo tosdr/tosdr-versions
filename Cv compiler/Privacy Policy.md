@@ -1325,6 +1325,32 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Regional Property Manager](https://cvcompiler.com/regional-property-manager-resume-examples)
 
+[Healthcare Administrator](https://cvcompiler.com/healthcare-administrator-resume-examples)
+
+[Junior Frontend Developer](https://cvcompiler.com/junior-frontend-developer-resume-examples)
+
+[DevOps Engineer](https://cvcompiler.com/devops-engineer-resume-examples)
+
+[Architectural Project Manager](https://cvcompiler.com/architectural-project-manager-resume-examples)
+
+[Postal Service](https://cvcompiler.com/postal-service-resume-examples)
+
+[QA Analyst](https://cvcompiler.com/qa-analyst-resume-examples)
+
+[Content Manager](https://cvcompiler.com/content-manager-resume-examples)
+
+[Human Resources Coordinator](https://cvcompiler.com/human-resources-coordinator-resume-examples)
+
+[Senior Engineering Manager](https://cvcompiler.com/senior-engineering-manager-resume-examples)
+
+[Business Administrator](https://cvcompiler.com/business-administrator-resume-examples)
+
+[School Secretary](https://cvcompiler.com/school-secretary-resume-examples)
+
+[Talent Acquisition](https://cvcompiler.com/talent-acquisition-resume-examples)
+
+[E-commerce Manager](https://cvcompiler.com/ecommerce-manager-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
