@@ -1,52 +1,31 @@
-[Skip to content](#main-content)
+[Skip to content](#MainContent)
 
-* Collaborators
-    
-    * Collaborators
-    * [IVYCOMB](https://bossmonsta.com/collections/ivycomb "IVYCOMB")
-    * [RAEAL](https://bossmonsta.com/collections/raeal "RAEAL")
-    * [SLUSHIE](https://bossmonsta.com/collections/slushie "SLUSHIE")
-    * [SNUFFLES](https://bossmonsta.com/collections/snuffles "SNUFFLES")
-    * [TERANEN](https://bossmonsta.com/collections/teranen "TERANEN")
-    * [TORMILINE](https://bossmonsta.com/collections/tormilline-1 "TORMILINE")
-    * [ZOR](https://bossmonsta.com/collections/zeniths-outer-reach/Protogen+Primagen "ZOR")
-    * [Cho](https://bossmonsta.com/collections/cho "Cho")
-    * [Sprinkle Bat](https://bossmonsta.com/collections/sprinkle-bat "Sprinkle Bat")
-    
-* [Apparel](https://bossmonsta.com/collections/frontpage "Apparel")
-* [Plushies](https://bossmonsta.com/collections/plushies "Plushies")
-* [Pins](https://bossmonsta.com/collections/pins "Pins")
-* [Stickers & Patches](https://bossmonsta.com/collections/stickers "Stickers & Patches")
-* [Prints](https://bossmonsta.com/collections/prints "Prints")
-* [Dakimakuras (18+)](https://bossmonsta.com/collections/dakimakuras "Dakimakuras (18+)")
-* [Explore All](https://bossmonsta.com/collections "Explore All")
+close
 
-[Login](https://bossmonsta.com/account/login "Login
-")
+[](https://bossmonsta.com/products/bb-shork-weighted-plush-toy-series-1)
 
-[![BossMonsta](//bossmonsta.com/cdn/shop/files/layer2.png?v=1700211589)![BossMonsta](//bossmonsta.com/cdn/shop/files/layer2.png?v=1700211589)](https://bossmonsta.com/)
+**NEW!!** **BB Shorks.** Get them now!
 
-[Login](https://bossmonsta.com/account/login "My Account")[](https://bossmonsta.com/search "Search")[0](https://bossmonsta.com/cart)
+close
 
+[](https://bossmonsta.com/)
+
+ [![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95) ![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95)![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95)](https://bossmonsta.com/)
+
+* [PlushiesNew](https://bossmonsta.com/collections/plushies)
 * [Collaborators](https://bossmonsta.com/)
     
-    * [IVYCOMB](https://bossmonsta.com/collections/ivycomb)
-    * [RAEAL](https://bossmonsta.com/collections/raeal)
-    * [SLUSHIE](https://bossmonsta.com/collections/slushie)
-    * [SNUFFLES](https://bossmonsta.com/collections/snuffles)
-    * [TERANEN](https://bossmonsta.com/collections/teranen)
-    * [TORMILINE](https://bossmonsta.com/collections/tormilline-1)
-    * [ZOR](https://bossmonsta.com/collections/zeniths-outer-reach/Protogen+Primagen)
-    * [Cho](https://bossmonsta.com/collections/cho)
-    * [Sprinkle Bat](https://bossmonsta.com/collections/sprinkle-bat)
-    
 * [Apparel](https://bossmonsta.com/collections/frontpage)
-* [Plushies](https://bossmonsta.com/collections/plushies)
 * [Pins](https://bossmonsta.com/collections/pins)
-* [Stickers & Patches](https://bossmonsta.com/collections/stickers)
+* [Stickers](https://bossmonsta.com/collections/stickers)
 * [Prints](https://bossmonsta.com/collections/prints)
-* [Dakimakuras (18+)](https://bossmonsta.com/collections/dakimakuras)
-* [Explore All](https://bossmonsta.com/collections)
+* [Dakimakuras18+](https://bossmonsta.com/collections/dakimakuras)
+
+[](https://bossmonsta.com/search)
+
+[](https://bossmonsta.com/account)
+
+[0 / £0.00](https://bossmonsta.com/cart)
 
 Terms of service
 ================
@@ -155,57 +134,64 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 **SECTION 20 - CONTACT INFORMATION**  
 Questions about the Terms of Service should be sent to us at BossMonstaLV@gmail.com.
 
-SUPPORT
+    
 
-* [FAQ](https://bossmonsta.com/pages/faq "FAQ")
-* [Customer Support Care](https://bossmonsta.com/pages/contact-us "Customer Support Care")
-* [Become a Partner](https://bossmonsta.com/pages/become-a-partner "Become a Partner")
-* [Refund Policy](https://bossmonsta.com/policies/refund-policy "Refund Policy")
-* [Shipping Policy](https://bossmonsta.com/policies/shipping-policy "Shipping Policy")
+### Support
 
-RESOURCES
+### Support
 
-* [About Us](https://bossmonsta.com/pages/about-us "About Us")
-* [Terms of Service](https://bossmonsta.com/policies/terms-of-service "Terms of Service")
-* [Privacy Policy](https://bossmonsta.com/policies/privacy-policy "Privacy Policy")
-* [FAQ](https://bossmonsta.com/pages/faq "FAQ")
+* [FAQ](https://bossmonsta.com/pages/faq)
+* [Customer Support Care](https://bossmonsta.com/pages/contact-us)
+* [Become a Partner](https://bossmonsta.com/pages/become-a-partner)
+* [Refund Policy](https://bossmonsta.com/policies/refund-policy)
+* [Shipping Policy](https://bossmonsta.com/policies/shipping-policy)
 
-COMPANY
+### Categories
 
-* [Main Menu](https://bossmonsta.com/ "Main Menu")
-* [Collections](https://bossmonsta.com/collections "Collections")
-* [Bundles](https://bossmonsta.com/collections/bundles "Bundles")
+### Categories
 
-American Express
+* [About Us](https://bossmonsta.com/pages/about-us)
+* [Terms of Service](https://bossmonsta.com/policies/terms-of-service)
+* [Privacy Policy](https://bossmonsta.com/policies/privacy-policy)
+* [FAQ](https://bossmonsta.com/pages/faq)
 
-Diners Club
+### Company
 
-Discover
+### Company
 
-JCB
+* [Main Menu](https://bossmonsta.com/)
+* [Collections](https://bossmonsta.com/collections)
+* [Bundles](https://bossmonsta.com/collections/bundles)
 
-Klarna
+    
 
-Maestro
+[](#https://www.facebook.com/BossMonstaLV "Follow on Facebook")
 
-Mastercard
+[](#https://x.com/BossMonstaLV "Follow on Twitter")
 
-PayPal
+[](#https://www.instagram.com/bossmonstalv/ "Follow on Instagram")
 
-Union Pay
+[](https://www.pinterest.com/boss5332/ "Follow on Pinterest")
 
-Venmo
+[](https://www.youtube.com/channel/UC7WGqJM-7icEeZlUCSafdGA "Follow on YouTube")
 
-Visa
+[](https://www.tiktok.com/@bossmonstalv "Follow on Tiktok")
 
-© 2024 BossMonsta, All rights reserved. [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+![amazon payments](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/amazon-92e856f82cae5a564cd0f70457f11af4d58fa037cf6e5ab7adf76f6fd3b9cafe.svg)![american express](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/american_express-12858714bc10cdf384b62b8f41d20f56d8c32c1b8fed98b662f2bfc158dcbcf0.svg)![apple pay](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/apple_pay-f6db0077dc7c325b436ecbdcf254239100b35b70b1663bc7523d7c424901fa09.svg)![diners club](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/diners_club-16436b9fb6dd9060edb51f1c7c44e23941e544ad798282d6aef1604319562fba.svg)![discover](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/discover-cc9808e50193c7496e7a5245eb86d5e06f02e2476c0fe70f2c40016707d35461.svg)![google pay](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg)![jcb](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/jcb-ab0f5a1739704f1ab039f19ac8c28895af5c39a3f54ee9b748ea051986b0bd36.svg)![klarna](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/klarna-389801c6056cb5600b4f05f72ebc2c58e4947688c6c4f5e6ccea41f7973d3a28.svg)![maestro](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/maestro-d2055c6b416c46cf134f393e1df6e0ba31722b623870f954afd392092207889c.svg)![master](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg)![paypal](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg)![shopify pay](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/shopify_pay-957a48d1202dc65a7890b292de764ee886f7e64cea486ae82e291e9dc824c914.svg)![visa](//bossmonsta.com/cdn/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg)
 
-#### Cart
+  
+Copyright © 2024 BossMonsta, All rights reserved.
 
-Your cart is currently empty.
+* Choosing a selection results in a full page refresh.
 
-[Start Shopping](https://bossmonsta.com/collections/all)
+ 
 
-#### Select options
+[Shop](https://bossmonsta.com/collections/all)
 
-Search
+[0 Cart](https://bossmonsta.com/cart)
+
+[Account](https://bossmonsta.com/account)
+
+[Search](https://bossmonsta.com/search)
+
+[](#)
