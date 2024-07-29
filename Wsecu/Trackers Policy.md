@@ -490,6 +490,13 @@ Go back to the search field
 Important Notifications
 -----------------------
 
+### Some ATM locations are currently unavailable
+
+**ATMs temporarily unavailable**  
+Some WSECU ATMs are temporarily unavailable. Please visit our [locations page](https://wsecu.org/locations) for details and alternative options. We apologize for the inconvenience.
+
+[Dismiss Some ATM locations are currently unavailable](#)
+
 Cookie Policy
 =============
 
