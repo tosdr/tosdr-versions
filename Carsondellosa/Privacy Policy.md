@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-183510973228)                                                    
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-183680465096)                                                    
 
 Today Only—$5 Poster Sets! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/mini-poster-sets)
 
@@ -50,11 +50,11 @@ Search  search
         * [Middle School](https://www.carsondellosa.com/shop-by-grade/middle-school/)
         * [High School](https://www.carsondellosa.com/shop-by-grade/high-school/)
         * [Shop All](https://www.carsondellosa.com/shop-by-grade/)
-    * [![Shop by Grade](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Shop by Grade](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Shop by Grade](https://www.carsondellosa.com/shop-by-grade/)
         
-    * [![Shop by Grade](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Shop by Grade](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Shop by Grade](https://www.carsondellosa.com/shop-by-grade/)
         
@@ -88,11 +88,11 @@ Search  search
         * [Assessment & Test Prep](https://www.carsondellosa.com/teaching-supplies/subjects/assessment-test-prep/)
         * [Christian](https://www.carsondellosa.com/teaching-supplies/subjects/christian/)
         * [Shop All](https://www.carsondellosa.com/teaching-supplies/)
-    * [![Teaching Supplies](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Teaching Supplies](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Teaching Supplies](https://www.carsondellosa.com/teaching-supplies/)
         
-    * [![Teaching Supplies](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Teaching Supplies](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Teaching Supplies](https://www.carsondellosa.com/teaching-supplies/)
         
@@ -126,11 +126,11 @@ Search  search
         * [Seasonal](https://www.carsondellosa.com/classroom-decorations/classroom-themes/seasonal/)
         * [Classroom Styles](https://www.carsondellosa.com/classroom-decorations/classroom-themes/classroom-styles/)
         * [Shop All](https://www.carsondellosa.com/classroom-decorations/)
-    * [![Classroom Decorations](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Classroom Decorations](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Classroom Decorations](https://www.carsondellosa.com/classroom-decorations/)
         
-    * [![Classroom Decorations](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Classroom Decorations](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Classroom Decorations](https://www.carsondellosa.com/classroom-decorations/)
         
@@ -154,11 +154,11 @@ Search  search
         * [STEM & Science](https://www.carsondellosa.com/learn-at-home/subjects/stem-science/)
         * [Summer Learning](https://www.carsondellosa.com/learn-at-home/subjects/summer-learning/)
         * [Shop All](https://www.carsondellosa.com/learn-at-home/)
-    * [![Learn at Home](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Learn at Home](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Learn at Home](https://www.carsondellosa.com/learn-at-home/)
         
-    * [![Learn at Home](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Learn at Home](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Learn at Home](https://www.carsondellosa.com/learn-at-home/)
         
@@ -181,11 +181,11 @@ Search  search
     * [How We Can Help Your School](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/)
         * [How to Contact Us](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/how-to-contact-us/)
         * [Purchase Order FAQ's](https://www.carsondellosa.com/school-orders/carson-dellosa-direct/purchase-order-faqs/)
-    * [![School Solutions](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![School Solutions](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         School Solutions](https://www.carsondellosa.com/school-orders/)
         
-    * [![School Solutions](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![School Solutions](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         School Solutions](https://www.carsondellosa.com/school-orders/)
         
@@ -216,27 +216,27 @@ Search  search
         * [Spanish](https://www.carsondellosa.com/free-resources/subject/spanish/)
         * [Social Studies](https://www.carsondellosa.com/free-resources/subject/social-studies/)
         * [Browse All](https://www.carsondellosa.com/free-resources/)
-    * [![Free Resources](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Free Resources](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Free Resources](https://www.carsondellosa.com/free-resources/)
         
-    * [![Free Resources](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Free Resources](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Free Resources](https://www.carsondellosa.com/free-resources/)
         
     
 * [Sale](https://www.carsondellosa.com/sale/)
     
-    * [![Clearance](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Clearance](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Clearance](https://www.carsondellosa.com/sale/clearance/)
-    * [![Featured Offer](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Featured Offer](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Featured Offer](https://www.carsondellosa.com/sale/featured-offer/)
-    * [![Today's Offers](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Today's Offers](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
-    * [![Almost Gone](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+    * [![Almost Gone](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
         
         Almost Gone](https://www.carsondellosa.com/sale/almost-gone/)
     
@@ -515,7 +515,7 @@ OK Cancel
 * [Spectrum](https://www.carsondellosa.com/brands/spectrum/)
 * [Summer Bridge](https://www.carsondellosa.com/summer-bridge-activities/)
 
-![CarsonDellosa.com](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg "CarsonDellosa.com")
+![CarsonDellosa.com](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg "CarsonDellosa.com")
 
 ### Sign Up For Emails
 
@@ -530,6 +530,6 @@ Get 20% off your next order, along with information on the latest products and p
 
 We accept the following payment methods:
 
-![Carson Dellosa accepts Discover credit cards](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/590d4a60-23f0-013d-3391-12d7e9af92b8/img/loading.svg)
+![Carson Dellosa accepts Discover credit cards](https://cdn11.bigcommerce.com/s-swdvv2w64y/stencil/dd71e3a0-152d-013d-4bef-5a7493aeac3c/e/666ab870-2d57-013d-dd5a-629744bd46b0/img/loading.svg)
 
 [Terms & Conditions](https://www.carsondellosa.com/terms-and-conditions/) [Privacy Policy](https://www.carsondellosa.com/privacy-policy/) [Copyright Permission](https://www.carsondellosa.com/copyright-permission/) [P: 800-321-0943](tel:1800-321-0943) © 2024 Carson Dellosa Education
