@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you get, give. If you learn, teach”
+“ I would rather walk with a friend in the dark than alone in the light”
 
-[Maya Angelou](http://en.wikipedia.org/wiki/Maya_Angelou)
+[Helen Keller](https://en.wikipedia.org/wiki/Helen_Keller)
 
 [](https://www.adafruit.com/about)
 
