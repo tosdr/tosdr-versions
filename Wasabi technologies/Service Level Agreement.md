@@ -26,7 +26,7 @@ Wasabi Service Level Agreement
   
   
 
-[Company](https://wasabi.com/legal/sla#)
+[Company](https://wasabi.com/legal/sla?__nextDataReq=1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
@@ -81,7 +81,7 @@ Popular
 * [System Status](https://status.wasabi.com/)
     
 
-[![Wasabi Logo Secondary](/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F1148x270%2F00676e941d%2Fsecondary-logo-knockout-rgb.png&w=3840&q=75)](https://wasabi.com/)
+[![Wasabi Logo Secondary](/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1019449%2F1148x270%2F00676e941d%2Fsecondary-logo-knockout-rgb.png%2Fm%2F172x0%2Ffilters%3Aquality(50)&w=3840&q=75)](https://wasabi.com/)
 
 © 2024 Wasabi Technologies
 
