@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [A new character comes to JUJUTSU KAISEN CURSED CLASH in a free update](https://en.bandainamcoent.eu/jujutsu-kaisen/news/new-character-comes-jujutsu-kaisen-cursed-clash-free-update)
-* [Discover more about BLEACH Rebirth of Souls' gameplay in a new trailer](https://en.bandainamcoent.eu/bleach/news/discover-more-about-bleach-rebirth-of-souls-gameplay-new-trailer)
+* [Lidia Sobieska, the “Warrior Prime Minister” returns in TEKKEN 8 as DLC](https://en.bandainamcoent.eu/tekken/news/lidia-sobieska-the-warrior-prime-minister-returns-tekken-8-dlc)
+* [One Piece Odyssey releases now on Nintendo Switch](https://en.bandainamcoent.eu/one-piece/news/one-piece-odyssey-releases-now-nintendo-switch)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
