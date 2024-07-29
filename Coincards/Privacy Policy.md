@@ -1,5 +1,3 @@
- 
-
 * [International ![](https://assets.coincards.com/wp-content/uploads/2019/05/08120655/globe-icon-16.png)](https://coincards.com/) 
     
     * [Australia ![](https://assets.coincards.com/wp-content/uploads/2023/11/01185347/australia.png)](https://coincards.com/au/) 
