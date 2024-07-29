@@ -282,7 +282,7 @@ The Terms are accepted upon your use of the Site or any of its features and is f
 * [What are iOS Live Activities?](https://www.airship.com/resources/explainer/ios-live-activities-explained/)
 
 * [Platform](#)
-* [App Experience Platform](https://www.airship.com/platform/app-experience-platform/)
+* [Airship Experience Platform](https://www.airship.com/platform/app-experience-platform/)
 * [Pricing](https://www.airship.com/app-experience-platform/pricing/)
 * [Partners](https://www.airship.com/app-experience-platform/partners/)
 * [Get a Demo](https://www.airship.com/demo-request/)
