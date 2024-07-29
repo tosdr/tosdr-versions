@@ -41,7 +41,7 @@ Thank you for using Cirkled In.
 These terms of use (“Terms”) apply to your access and use of Cirkled In (the “Application”). Please read them carefully.
 ------------------------------------------------------------------------------------------------------------------------
 
-![terms of user ](../scripts/img/terms-of-use/terms-of-use.svg)
+![Cirkled In Terms of Use](../scripts/img/terms-of-use/terms-of-use.svg)
 
 * * *
 
@@ -286,27 +286,27 @@ Cancel Email
 
 ##### Welcome back! Please select your Login account type
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-45.png)](https://www.cirkledin.com/login/?accType=student "students")
+[![Student Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-45.png)](https://www.cirkledin.com/login/?accType=student "students")
 
 [**Students**](https://www.cirkledin.com/login/?accType=student "If you are a student, log in here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-48.png)](https://www.cirkledin.com/school-login.php "school admin")
+[![School Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-48.png)](https://www.cirkledin.com/school-login.php "school admin")
 
 [**School Admin**](https://www.cirkledin.com/school-login.php "If you are a school administrator, log in here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-46.png)](https://www.cirkledin.com/login/?accType=teacher "teachers")
+[![Teacher Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-46.png)](https://www.cirkledin.com/login/?accType=teacher "teachers")
 
 [**Teachers**](https://www.cirkledin.com/login/?accType=teacher "If you are a teacher, log in here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-49.png)](https://www.cirkledin.com/login/?accType=parent "parents")
+[![Parent Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-49.png)](https://www.cirkledin.com/login/?accType=parent "parents")
 
 [**Parents**](https://www.cirkledin.com/login/?accType=parent "If you are a parent, log in here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-47.png)](https://www.cirkledin.com/college/admin/login "colleges")
+[![College Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-47.png)](https://www.cirkledin.com/college/admin/login "colleges")
 
 [**Colleges**](https://www.cirkledin.com/college/admin/login "If you are a college administrator, log in here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-job-i.png)](https://www.cirkledin.com/employer/login "colleges")
+[![Employer Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-job-i.png)](https://www.cirkledin.com/employer/login "colleges")
 
 [**Employer**](https://www.cirkledin.com/employer/login "If you are an employer, log in here")
 
@@ -314,26 +314,26 @@ Cancel Email
 
 ##### Welcome to Cirkled In! Please select your Signup account type
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-45.png)](https://www.cirkledin.com/login/?accType=student "students")
+[![Student Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-45.png)](https://www.cirkledin.com/login/?accType=student "students")
 
 [**Students**](https://www.cirkledin.com/login/?accType=student "If you are a student, sign up here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-48.png)](https://www.cirkledin.com/school-login.php "school admin")
+[![School Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-48.png)](https://www.cirkledin.com/school-login.php "school admin")
 
 [**School Admin**](https://www.cirkledin.com/school-login.php "If you are a school administrator, sign up here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-46.png)](https://www.cirkledin.com/login/?accType=teacher "teachers")
+[![Teacher Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-46.png)](https://www.cirkledin.com/login/?accType=teacher "teachers")
 
 [**Teachers**](https://www.cirkledin.com/login/?accType=teacher "If you are a teacher, sign up here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-49.png)](https://www.cirkledin.com/login/?accType=parent "parents")
+[![Parent Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-49.png)](https://www.cirkledin.com/login/?accType=parent "parents")
 
 [**Parents**](https://www.cirkledin.com/login/?accType=parent "If you are a parent, sign up here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-47.png)](https://www.cirkledin.com/college/admin/login "colleges")
+[![College Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/Ellipse-47.png)](https://www.cirkledin.com/college/admin/login "colleges")
 
 [**Colleges**](https://www.cirkledin.com/college/admin/login "If you are a college administrator, sign up here")
 
-[![Card image cap](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-job-i.png)](https://www.cirkledin.com/employer/login "colleges")
+[![Employer Login](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/landing-page/ellipse-job-i.png)](https://www.cirkledin.com/employer/login "colleges")
 
 [**Employer**](https://www.cirkledin.com/employer/login "If you are an employer,   sign up here")
