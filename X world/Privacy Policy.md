@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [Four tips for securing your website](https://xworld.org/technology-and-gadget/four-tips-for-securing-your-website/)
 * [Garage Floor Perfection: Let Our Contractors Handle the Job](https://xworld.org/home-improvement/garage-floor-perfection-let-our-contractors-handle-the-job/)
 * [What is Accounts Payable Analysis?](https://xworld.org/business/what-is-accounts-payable-analysis/)
 * [An Introduction to Solar Panel Grants](https://xworld.org/technology-and-gadget/an-introduction-to-solar-panel-grants/)
 * [English Labradors: The Gentle Giants with Hearts of Gold](https://xworld.org/lifestyle/english-labradors-the-gentle-giants-with-hearts-of-gold/)
-* [5 plants that are used to make clothing](https://xworld.org/fashion/5-plants-that-are-used-to-make-clothing/)
 
 ### Categories
 
