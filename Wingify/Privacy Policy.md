@@ -157,6 +157,10 @@
     
     Webinars
     
+    [![Cameron Calder](https://static.wingify.com/gcp/uploads/2024/07/images.jpeg?tr=w-60,h-50)
+    
+    The No-Budget Conversion Blueprint: Leveraging What You Already Own](https://vwo.com/webinars/no-budget-conversion-blueprint-leveraging-what-already-own/)
+    
     [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
     
     Fireside Chat: Evolution of Statistics and Experimentation with VWO’s Lead Data Scientist](https://vwo.com/webinars/fireside-chat-evolution-statistics-experimentation-vwos-lead-data-scientist/)
@@ -172,10 +176,6 @@
     [![Jyoti Malik](https://static.wingify.com/gcp/uploads/2024/06/Photoleap_03_01_2024_20_40_13_pDujm-2.png?tr=w-60,h-50)
     
     Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
-    
-    [![Richard Joe](https://static.wingify.com/gcp/uploads/2024/06/Professional_Profile_Pic-copy-1-1.jpg?tr=w-60,h-50)
-    
-    The Crucial Role of Feedback Loops in A/B Testing](https://vwo.com/webinars/crucial-role-feedback-loops-a-b-testing/)
     
     [View all webinars](https://vwo.com/webinars)
     
