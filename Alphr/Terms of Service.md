@@ -198,6 +198,78 @@ Most Popular
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](/wp-content/themes/alphr/images/profile.svg)
+
+Posted by Afam Onyimadu on July 26, 2024
+
+8 Ways to Optimize Microsoft Edge for Slower Computers](https://www.alphr.com/optimize-microsoft-edge-for-slower-computers/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](/wp-content/themes/alphr/images/profile.svg)
+
+Posted by Afam Onyimadu on July 25, 2024
+
+7 Ways to Customize the Windows 11 Notepad App](https://www.alphr.com/customize-windows-11-notepad-app/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Afam Onyimadu on July 16, 2024
@@ -205,6 +277,10 @@ Posted by Afam Onyimadu on July 16, 2024
 Chrome vs. Edge vs. Firefox vs. Vivaldi: Which Browser Is Better?](https://www.alphr.com/chrome-vs-edge-vs-firefox-vs-vivaldi/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -258,6 +334,10 @@ How to Merge and Center in Excel Without Losing Sorting and Selection Features](
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Afam Onyimadu on June 7, 2024
@@ -265,6 +345,10 @@ Posted by Afam Onyimadu on June 7, 2024
 7 Brave Features You Will Not Find in Chrome, Edge, and Firefox](https://www.alphr.com/best-brave-features/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -318,6 +402,10 @@ What Does Clock Icon Mean on WhatsApp and How to Get Rid Of It](https://www.alph
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Afam Onyimadu on June 1, 2024
@@ -325,6 +413,10 @@ Posted by Afam Onyimadu on June 1, 2024
 How to Run AI Models Locally on Windows Without Internet](https://www.alphr.com/run-ai-models-locally-on-windows-without-internet/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -378,6 +470,10 @@ How to Use Gemini Mentions to Enhance the Prompt Experience](https://www.alphr.c
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Mehvish Mushtaq on May 20, 2024
@@ -385,6 +481,10 @@ Posted by Mehvish Mushtaq on May 20, 2024
 How to Put a Picture on Top of Another Picture on Instagram Story](https://www.alphr.com/put-a-picture-on-another-picture-in-instagram-story/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -438,6 +538,10 @@ How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-t
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Mehvish Mushtaq on May 11, 2024
@@ -445,6 +549,10 @@ Posted by Mehvish Mushtaq on May 11, 2024
 How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -498,6 +606,10 @@ What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](http
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](/wp-content/themes/alphr/images/profile.svg)
 
 Posted by Afam Onyimadu on May 1, 2024
@@ -505,6 +617,10 @@ Posted by Afam Onyimadu on May 1, 2024
 How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -557,6 +673,22 @@ Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
 * [About Us](https://www.alphr.com/about-alphr/)
 
 ###### Latest
+
+![N-Ways-to-Optimize-Microsoft-Edge-for-Slower-Computers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![N-Ways-to-Optimize-Microsoft-Edge-for-Slower-Computers](https://www.alphr.com/wp-content/uploads/2024/07/N-Ways-to-Optimize-Microsoft-Edge-for-Slower-Computers-100x100.jpg)
+
+[8 Ways to Optimize Microsoft Edge for Slower Computers](https://www.alphr.com/optimize-microsoft-edge-for-slower-computers/)
+
+Afam Onyimadu July 26, 2024
+
+![N-Ways-to-Customize-the-Windows-11-Notepad-App](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![N-Ways-to-Customize-the-Windows-11-Notepad-App](https://www.alphr.com/wp-content/uploads/2024/07/N-Ways-to-Customize-the-Windows-11-Notepad-App-100x100.jpg)
+
+[7 Ways to Customize the Windows 11 Notepad App](https://www.alphr.com/customize-windows-11-notepad-app/)
+
+Afam Onyimadu July 25, 2024
 
 ![Chrome-vs.-Edge-vs.-Firefox-vs.-Vivaldi--Which-Browser-Stands-Out](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -645,14 +777,6 @@ Mehvish Mushtaq May 6, 2024
 [How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
 
 Afam Onyimadu May 1, 2024
-
-![How-to-Trace-Family-History-on-Google-Earth-Pro](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![How-to-Trace-Family-History-on-Google-Earth-Pro](https://www.alphr.com/wp-content/uploads/2024/07/How-to-Trace-Family-History-on-Google-Earth-Pro-100x100.jpg)
-
-[How to Trace Family History on Google Earth Pro](https://www.alphr.com/trace-family-history-on-google-earth-pro/)
-
-Aaron Donald July 11, 2024
 
 © Guiding Tech Media 2024
 
