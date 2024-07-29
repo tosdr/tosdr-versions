@@ -158,7 +158,7 @@ Account Type
 ------------
 
 * Regular
-* Swap Free <span class="twoswap" >+20% Fee </span>
+* Swap Free +20% Fee
 
 [Regular](#)
 
