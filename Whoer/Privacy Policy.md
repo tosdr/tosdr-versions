@@ -190,7 +190,6 @@ VPN
 Services
 ========
 
-* [Virtual cards](https://cardspro.capitalist.net/?from=b5c1034ca3)
 * [My IP](https://whoer.net/)
 * [VPN](https://whoer.net/vpn)
 * [Antidetect Browser](https://wade.is/en)
