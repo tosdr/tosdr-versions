@@ -72,6 +72,16 @@ United States
 What customers say about Buttondown
 -----------------------------------
 
+Buttondown's customer service: NEXT LEVEL AMAZING.
+
+James Whatley  
+Senior Strategy Director, The LEGO Group
+
+So far I like Buttondown because it's felt SO MUCH SIMPLER to use its backend than any other similar system I've used before.
+
+May Peterson  
+Author, The Sacred Dark
+
 Doesn't matter if you're sending out irregular updates to a few dozen friends, or marketing your business to a thousand recipients. It is absolutely a joy to use. The documentation is great. And Justin provides the best support I have ever encountered. Amazon isn't the world's most customer-centric company, Buttondown is.
 
 Tilde Lowengrimm  
