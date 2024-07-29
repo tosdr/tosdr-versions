@@ -263,11 +263,11 @@ Simplifying mobile game growth.
 * [Culture](https://www.yodo1.com/culture/)
 * [Contact Us](https://www.yodo1.com/contact-us/)
 
-* [Yodo1 Blog](https://www.yodo1.com/?page_id=17228)
+* [Yodo1 Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 * [Login to MAS](https://mas.yodo1.com/login)
 
-* [Yodo1 Blog](https://www.yodo1.com/?page_id=17228)
+* [Yodo1 Blog](https://www.yodo1.com/blog/)
 * [Resources](https://www.yodo1.com/resources/)
 * [Login to MAS](https://mas.yodo1.com/login)
 
