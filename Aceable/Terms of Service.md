@@ -2,11 +2,11 @@
 
 SALE ENDS IN
 
-01HRS
+06HRS
 
-31MIN
+13MIN
 
-43SEC
+46SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234)](https://www.aceable.com/)
 
