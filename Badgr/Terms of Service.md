@@ -297,13 +297,11 @@ Main
     * Column
         *   ![](/sites/default/files/styles/small_hq/public/image/2024-03/2024-InstructureCon-Web-Images_Thumbnail%20%281%29.jpg?itok=jIC3xpfy "2024-InstructureCon-Web-Images_Thumbnail (1).jpg")
             
-            July 9 - 11th, 2024
-            
             #### 
             
-            Join the Ed-cological Exploration Society at InstructureCon!
+            Check out the highlights from InstructureCon 24.
             
-            [Learn More](https://info.badgr.com/events/instructurecon)
+            [Explore More](https://info.badgr.com/events/instructurecon/2024)
             
 * About Us
     * Column
