@@ -178,11 +178,11 @@ English
 
 Eesti keel
 
-Polski
-
 Latviešu valoda
 
 English
+
+Polski
 
 Lietuvių
 
@@ -323,11 +323,11 @@ English
 
 Eesti keel
 
-Polski
-
 Latviešu valoda
 
 English
+
+Polski
 
 Lietuvių
 
@@ -339,11 +339,11 @@ English
 
 Eesti keel
 
-Polski
-
 Latviešu valoda
 
 English
+
+Polski
 
 Lietuvių
 
