@@ -11,7 +11,6 @@
         * [Appointment Reminders](https://yapiapp.com/dental-office-communication-platform/appointment-reminders/)
         * [Online Reviews](https://yapiapp.com/dental-office-communication-platform/online-reviews/)
         * [Intra-office](https://yapiapp.com/dental-office-communication-platform/intra-office/)
-        * [Patient Tracking](https://yapiapp.com/dental-office-communication-platform/dental-dashboard/)
         * [Phone Integration](https://yapiapp.com/dental-office-communication-platform/phone-system/)
     * [Integrations](#)
         * [Dentrix](https://yapiapp.com/dental-office-communication-platform/integrations/dentrix/)
@@ -100,7 +99,7 @@ General Terms and Conditions applicable to Use of a Web Site.
 
 #### Why Yapi
 
-[View Pricing](https://yapiapp.com/dental-office-communication-platform/pricing/)  
+[View Plans](https://yapiapp.com/dental-office-communication-platform/pricing/)  
 [Get a Demo](https://yapiapp.com/dental-office-communication-platform/demo/)  
 [Client Testimonials](https://yapiapp.com/customer-stories/)
 
