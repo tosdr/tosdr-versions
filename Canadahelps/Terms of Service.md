@@ -1,4 +1,4 @@
-[Support Crisis Relief for Hurricane Beryl](https://www.canadahelps.org/en/crisis-relief-center/donate-to-charities-responding-to-hurricane-beryl-relief-crc/)
+[Help provide relief efforts for Canadian communities impacted by wildfires](https://www.canadahelps.org/en/crisis-relief-center/support-2024-canadian-wildfire-relief-efforts/)
 
  
 
