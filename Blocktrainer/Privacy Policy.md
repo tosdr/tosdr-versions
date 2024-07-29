@@ -541,12 +541,12 @@ Das Blocktrainer-Team liefert sachliche und fundierte Aufklärungsarbeit rund um
 
 Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Informationsangebot dar.
 
-* [](https://www.youtube.com/c/blocktrainer)
-* [](https://www.instagram.com/blocktrainer.de/)
-* [](https://www.blocktrainer.de/wissen/blocktrainer-podcast/)
-* [](https://twitter.com/blocktrainer)
-* [](https://t.me/blocktrainergruppe)
-* [](https://forum.blocktrainer.de/)
+* [](https://www.youtube.com/c/blocktrainer "Youtube")
+* [](https://www.instagram.com/blocktrainer.de/ "Instagram")
+* [](https://www.blocktrainer.de/wissen/blocktrainer-podcast "Podcast")
+* [](https://twitter.com/blocktrainer "𝕏/Twitter")
+* [](https://t.me/blocktrainergruppe "Telegram")
+* [](https://forum.blocktrainer.de/ "Forum")
 
 * WICHTIGE THEMEN
     * [Börsen & Broker](https://www.blocktrainer.de/kaufen-und-anbieter/boersen-broker "Börsen & Broker")
@@ -590,4 +590,4 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
