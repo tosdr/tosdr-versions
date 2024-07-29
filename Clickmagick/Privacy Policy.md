@@ -229,7 +229,7 @@ Get it on
 * [Pricing](https://www.clickmagick.com/pricing/)
 * [Free Trial](https://www.clickmagick.com/signup/)
 * [Sign In](https://www.clickmagick.com/login/)
-* [Affiliates](https://www.clickmagick.com/affiliates/)
+* [Referral Program](https://www.clickmagick.com/referral-program/)
 * [Partner With Us](https://www.clickmagick.com/partner/)
 * [Get In Touch](https://www.clickmagick.com/contact/)
 * [System Status](https://www.clickmagickstatus.com/)
