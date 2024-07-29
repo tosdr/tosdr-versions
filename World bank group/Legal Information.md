@@ -627,7 +627,7 @@ English
 * [Contact](https://www.worldbank.org/en/about/contacts)
 
 * [SCAM ALERTS](https://www.worldbank.org/en/about/legal/scams)
-* [REPORT FRAUD OR CORRUPTION](https://wbgcmsprod.microsoftcrmportals.com/en-US/anonymous-users/int-fraud-management/create-new-complaint/)
+* [REPORT FRAUD OR CORRUPTION](https://www.worldbank.org/en/about/unit/integrity-vice-presidency/brief/submit-complaint)
 
 * [![World Bank Group logo](/content/dam/wbr-redesign/logos/logo-wbg-footer-en.svg "World Bank Group logo")](https://www.worldbank.org/)
 * [IBRD](https://www.worldbank.org/en/who-we-are/ibrd "International Bank for Reconstruction and Development")
