@@ -52,9 +52,7 @@ Built In, Inc.
 
 Attn: Built In Designated Copyright Agent
 
-203 N. LaSalle, Suite 2300
-
-Chicago, Illinois 60601
+222 W Merchandise Mart Plaza, Ste. 2010, Chicago, IL 60654
 
 Telephone: 312-476-8478
 
