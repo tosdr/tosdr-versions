@@ -271,15 +271,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live: Election 2024](https://apnews.com/live/harris-biden-trump-election-campaign-updates)
+[Live: 2024 Olympics](https://apnews.com/live/olympics-paris-2024-updates)
 
-[Biden prison oversight bill](https://apnews.com/article/federal-prisons-congress-oversight-abuse-transparency-biden-397d95d00d507a95c58dc0f78ada0407)
+[California wildfire](https://apnews.com/article/us-wildfires-california-park-fire-chico-5f4325a97727eb2fbd3d59ab8ec6b877)
+
+[Live: Venezuela election](https://apnews.com/live/venezuela-election-updates-maduro-machado-gonzalez)
+
+[Rafael Nadal](https://apnews.com/article/olympics-2024-tennis-rafael-nadal-16bfd83a58fe62901cd8732e3f160356)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
-
-[US wildfires](https://apnews.com/article/wildfires-evacuations-oregon-california-canada-1809c690e8902a4578c9f4286949550d)
-
-[How to watch the 2024 Olympics](https://apnews.com/hub/2024-paris-olympic-games)
 
 The Associated Press
 ====================
