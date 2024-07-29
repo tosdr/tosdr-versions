@@ -69,7 +69,6 @@ Hardware
 * [YubiKey 5 FIPS Series](https://www.yubico.com/products/yubikey-fips/)
 * [YubiKey Bio Series](https://www.yubico.com/products/yubikey-bio-series/)
 * [Security Key Series](https://www.yubico.com/products/security-key/)
-* [YubiKey 5 CSPN Series](https://www.yubico.com/products/yubikey-5-cspn-series/)
 * [YubiHSM 2 & YubiHSM 2 FIPS](https://www.yubico.com/products/hardware-security-module/)
 
 YubiEnterprise Services
@@ -366,7 +365,6 @@ Products
 * [YubiKey 5 FIPS Series](https://www.yubico.com/products/yubikey-fips/)
 * [YubiKey Bio Series](https://www.yubico.com/products/yubikey-bio-series/)
 * [Security Key Series](https://www.yubico.com/products/security-key/)
-* [YubiKey 5 CSPN Series](https://www.yubico.com/products/yubikey-5-cspn-series/)
 * [YubiHSM 2 & YubiHSM 2 FIPS](https://www.yubico.com/products/hardware-security-module/)
 
 * [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/)
