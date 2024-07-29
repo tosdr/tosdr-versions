@@ -1,38 +1,34 @@
-Yiff party Premium payments are now available [SUB NOW](https://yiff-party.com/yiff-party-premium/)
-
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![Yiff Party | Yiff-party.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20449%20421'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![Yiff Party | Yiff-party.com](https://yiff-party.com/wp-content/uploads/2021/02/yiffparty-1.png)](https://yiff-party.com/)[![Yiff Party | Yiff-party.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20449%20421'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![Yiff Party | Yiff-party.com](https://yiff-party.com/wp-content/uploads/2021/02/yiffparty-1.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)
 
-* [AI](https://yiff-party.com/category/yiff-ai/)
 * [Straight](https://yiff-party.com/genre/male-female/)
 * [Gay](https://yiff-party.com/genre/male-male/)
 * [Lesbian](https://yiff-party.com/genre/female-female/)
 * [Anthro](https://yiff-party.com/genre/anthro/)
 * [Feral](https://yiff-party.com/genre/feral/)
 * [Gif](https://yiff-party.com/category/yiff-gif/)
-* [VIP](https://yiff-party.com/category/yiff-ai-premium/)
+* [AI](https://yiff-party.com/category/yiff-ai/)
 
-[](https://yiff-party.com/yiff-party-premium/)
+[](https://yiff-party.com/category/yiff-ai-premium/)
 
 [Login](#)
 
  Light Dark
 
-* [AI](https://yiff-party.com/category/yiff-ai/)
 * [Straight](https://yiff-party.com/genre/male-female/)
 * [Gay](https://yiff-party.com/genre/male-male/)
 * [Lesbian](https://yiff-party.com/genre/female-female/)
 * [Anthro](https://yiff-party.com/genre/anthro/)
 * [Feral](https://yiff-party.com/genre/feral/)
 * [Gif](https://yiff-party.com/category/yiff-gif/)
-* [VIP](https://yiff-party.com/category/yiff-ai-premium/)
+* [AI](https://yiff-party.com/category/yiff-ai/)
 
 DMCA Yiff-Party.com
 ===================
@@ -79,7 +75,7 @@ Latest commented posts
 
 [eau (nintendo and etc) created by kawfee](https://yiff-party.com/yiff/eau-nintendo-and-etc-created-by-kawfee/)
 
-0 231 1
+0 333 1
 
 June 29, 2024
 
@@ -87,7 +83,7 @@ June 29, 2024
 
 [hiccup horrendous haddock iii and toothless (how to train your dragon and etc) created by ward0r](https://yiff-party.com/yiff/hiccup-horrendous-haddock-iii-and-toothless-how-to-train-your-dragon-and-etc-created-by-ward0r/)
 
-0 488 1
+0 678 1
 
 July 1, 2024
 
@@ -95,7 +91,7 @@ July 1, 2024
 
 [mythology created by vitor swissidoldragon](https://yiff-party.com/yiff/mythology-created-by-vitor-swissidoldragon/)
 
-0 223 1
+0 371 1
 
 July 2, 2024
 
@@ -103,7 +99,7 @@ July 2, 2024
 
 [kanaya maryam (ms paint adventures and etc) created by welwraith](https://yiff-party.com/yiff/kanaya-maryam-ms-paint-adventures-and-etc-created-by-welwraith/)
 
-0 144 1
+0 290 1
 
 July 2, 2024
 
