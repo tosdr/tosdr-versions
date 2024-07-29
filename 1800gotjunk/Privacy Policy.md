@@ -132,8 +132,6 @@ Sub Menu
 
 search
 
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
-
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -690,17 +688,17 @@ Dean Reynolds Calgary 27/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
+Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
 
-Alex Niagara 27/11/2023
+Darrin Hill Calgary 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
+Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
 
-Darrin Hill Calgary 27/11/2023
+Alex Niagara 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,6 +864,22 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Aaron and DJ were awesome!
+
+Amber Fedosh Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ are very professional and helpful. Great service so far.
+
+Jun-ji Barber Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Hank and Nick were fast and great!
 
 Matt Heath Wisconsin 02/12/2023
@@ -893,6 +907,14 @@ Kolver Matos Wisconsin 02/12/2023
 Jacob and Connor were a great help
 
 John Tyree Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were friendly and quick.
+
+Chris Conley Seattle 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -930,25 +952,25 @@ liam nolosco Seattle 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ were awesome!
+Tay and david was on time and very fast
 
-Amber Fedosh Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ were friendly and quick.
-
-Chris Conley Seattle 02/12/2023
+David Pryor Wisconsin 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ are very professional and helpful. Great service so far.
+Evan and Kenny were fast and efficient.
 
-Jun-ji Barber Seattle 02/12/2023
+Tom Kleewein Wisconsin 01/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jake and Brayden did and awesome job, were fast and efficient and very friendly.
+
+Cheryl Wanzo Wisconsin 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -978,33 +1000,9 @@ Jack Knott Madison 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tay and david was on time and very fast
-
-David Pryor Wisconsin 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Evan and Kenny were fast and efficient.
-
-Tom Kleewein Wisconsin 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The team who came was very efficient and helpful!
 
 Dana Scott Seattle 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jake and Brayden did and awesome job, were fast and efficient and very friendly.
-
-Cheryl Wanzo Wisconsin 01/12/2023
 
 ### 
 
