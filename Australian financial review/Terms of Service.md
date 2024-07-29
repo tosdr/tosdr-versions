@@ -345,15 +345,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Lexus LC 500 coupe](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_52/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7aabfaa1487f92335cb2218b1e3f788cf50fe73e)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
+[![CARTIER SANTOS DUAL TIME](https://static.ffx.io/images/$zoom_0.299%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_118/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a0dfcc3ea90c65c7393e3f2e1f7b9fccf9421f02)](https://www.afr.com/life-and-luxury/fashion-and-style/cartier-goes-in-new-direction-with-a-watch-that-goes-anticlockwise-20240723-p5jvy2)
 
-### [This flagship Lexus sports coupe is a hidden gem](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
+### [Cartier goes in new direction with a watch that goes anticlockwise](https://www.afr.com/life-and-luxury/fashion-and-style/cartier-goes-in-new-direction-with-a-watch-that-goes-anticlockwise-20240723-p5jvy2)
 
-* Tony Davis
+* Bani McSpedden
 
-* ### [Bulgari’s record-breaking watches come to Australia for first time](https://www.afr.com/life-and-luxury/fashion-and-style/bulgari-s-record-breaking-watches-come-to-australia-for-first-time-20240717-p5jugn)
+* ### [Want to play the world’s top golf courses? This app could get you there](https://www.afr.com/companies/sport/want-to-play-the-world-s-top-golf-courses-this-app-could-get-you-there-20240723-p5jvsq)
     
-* ### [Five top examples of a hot new red-wine grape](https://www.afr.com/life-and-luxury/food-and-wine/five-top-examples-of-a-hot-new-red-wine-grape-20240717-p5jug2)
+* ### [This flagship Lexus sports coupe is a hidden gem](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
     
 
 [Rich List](https://www.afr.com/rich-list)
