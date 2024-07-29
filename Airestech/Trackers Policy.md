@@ -24,6 +24,7 @@
     [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
     * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
     * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
@@ -552,6 +553,7 @@ United Kingdom (GBP £)
 * [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
     * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
     * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
