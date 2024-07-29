@@ -404,7 +404,7 @@ Berlin, Juli 2023
 
 [](https://www.instagram.com/codecheck_app)[](https://twitter.com/codecheck_info?lang=de)
 
-v0.0.107
+v0.0.110
 
 Jetzt erhältlich
 
