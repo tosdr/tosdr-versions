@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
-* [\[ July 25, 2024 \] Issue 29/30 2024 News You May Have Missed Subscriber Only](https://americanfreepress.net/issue-29-30-2024-news-you-may-have-missed/ "Issue 29/30 2024 News You May Have Missed")
-* [\[ July 25, 2024 \] So, This Is What ‘Unity’ Looks Like … Subscriber Only](https://americanfreepress.net/so-this-is-what-unity-looks-like/ "So, This Is What ‘Unity’ Looks Like …")
-* [\[ July 25, 2024 \] Grand Ole Populists National News](https://americanfreepress.net/grand-ole-populists/ "Grand Ole Populists")
-* [\[ June 29, 2024 \] Economic Collapse Only Way to Prevent World War III National News](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/ "Economic Collapse Only Way to Prevent World War III")
-* [\[ June 29, 2024 \] Anti-WHO Declaration, Legislation Passed Subscriber Only](https://americanfreepress.net/anti-who-declaration-legislation-passed/ "Anti-WHO Declaration, Legislation Passed")
+* [\[ July 28, 2024 \] ‘Most Influential Far-Right Activist’ Speaks With AFP Subscriber Only](https://americanfreepress.net/most-influential-far-right-activist-speaks-with-afp/ "‘Most Influential Far-Right Activist’ Speaks With AFP")
+* [\[ July 27, 2024 \] Will Republicans Turn the Lawfare Tables on Dems? Subscriber Only](https://americanfreepress.net/will-republicans-turn-the-lawfare-tables-on-dems/ "Will Republicans Turn the Lawfare Tables on Dems?")
+* [\[ July 27, 2024 \] Most Americans Want Border Closed Subscriber Only](https://americanfreepress.net/most-americans-want-border-closed/ "Most Americans Want Border Closed")
+* [\[ July 26, 2024 \] No-Fault Divorce Emerging as Issue in 2024 Campaign Subscriber Only](https://americanfreepress.net/no-fault-divorce-emerging-as-issue-in-2024-campaign/ "No-Fault Divorce Emerging as Issue in 2024 Campaign")
+* [\[ July 26, 2024 \] Democrats Hysterical Over Project 2025 National News](https://americanfreepress.net/democrats-hysterical-over-project-2025/ "Democrats Hysterical Over Project 2025")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,11 +128,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
-* [Issue 29/30 2024 News You May Have Missed](https://americanfreepress.net/issue-29-30-2024-news-you-may-have-missed/)
-* [So, This Is What ‘Unity’ Looks Like …](https://americanfreepress.net/so-this-is-what-unity-looks-like/)
-* [Grand Ole Populists](https://americanfreepress.net/grand-ole-populists/)
-* [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/)
-* [Anti-WHO Declaration, Legislation Passed](https://americanfreepress.net/anti-who-declaration-legislation-passed/)
+* [‘Most Influential Far-Right Activist’ Speaks With AFP](https://americanfreepress.net/most-influential-far-right-activist-speaks-with-afp/)
+* [New York Times Reports on Covid-19 Vaccine Casualties](https://americanfreepress.net/new-york-times-reports-on-covid-19-vaccine-casualties/)
+* [NATO Alliance Celebrates 75th Birthday, But Funeral Would Be Better](https://americanfreepress.net/nato-alliance-celebrates-75th-birthday-but-funeral-would-be-better/)
+* [Will Republicans Turn the Lawfare Tables on Dems?](https://americanfreepress.net/will-republicans-turn-the-lawfare-tables-on-dems/)
+* [Most Americans Want Border Closed](https://americanfreepress.net/most-americans-want-border-closed/)
 
 ###### Recent Comments
 
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=231753013)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=514172752)
