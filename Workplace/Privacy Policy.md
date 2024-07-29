@@ -8,7 +8,7 @@ English (US)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yJ/r/RmifG_DSE6Q.svg)
 
-[Log in](https://work.workplace.com/work/company_selector?ref=AVsAP_q43DRb3tSKc6ZpVZI3X_zJb03siqr9yCVc5ighDdX6zB4PFTCtjfSp_Jf6L8mJaNLbAJoHFK89bgtMfkzCbaMFfZO5TURaDkCV7vvSZThBOYun47AxXE1XBxpx4fIy2BNyFChJWn_jQejOPRSjggirTYU5LO0Nd_7Ila7IYA)
+[Log in](https://work.workplace.com/work/company_selector?ref=AVsBqPkBGu3vHE3FUvL_mKVfloiFs9SfpV3tMunvp-0nDAIrxxRvPrwx3_eRpCv0oq7nVnJUpjmW0aj0c8SVnTg4VOqFYx4kdVwVY5zaGMavMuNcM22esm_S3AFWlxWNaK1wz0gmHON_9V8kbQ4WZGHU1g7ULmWldxWyb-GrKgc-ow)
 
 [Home](https://www.workplace.com/)[Home](https://www.workplace.com/)
 
@@ -45,7 +45,7 @@ Learn why Workplace is right for you.
     
 * [Diversity & Inclusion](https://www.workplace.com/diversity-and-inclusion)
     
-* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT1LCqlohWJDcpH1uwsJvjfhyTuwLT_fKj_c9PJT9ZNe7dOB8CVvUtFVxutKbvLOmvtkp4zy_t2BkusLQNemeGZpwd__bZAy2kyU7oWaa3buHz5WXPNODp6Y0RA28ErOoBtP5AWNNKjK8mqM)
+* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT1NT0ZkTW1zC43IPVO3mCY_mrM0OOHtJtOtfC16W0P6NkIrkubEQ4qacWKBfNfCyS3KYrZQqIvElzedVehR32xuI9PMB9ACO-k5SjrOxbAYhpVB_8ab7JcKGN-j-rOHPgimTtFwNOiIhEKn)
     
 
 * [How can Workplace help you?](https://www.workplace.com/solutions)
@@ -130,7 +130,7 @@ We’re doing our bit for a better world by making sure every employee feels see
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-Learn how to take your first step into the metaverse with Meta's hardware and software solutions.](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT0sjpEOrxW0XVeuDXjPiKNY6pQ5kP0YnLqEs3a5MMAH3j5CR1B72Gdso_CuUqDgKbX8HTkAhCn6bHCE3cFNdArOHVwhqoloW49nulYrPJO48hkG5Qh6MGdaG0ocXFYXkmJp9ZJ6AsQgEJAz)[How can Workplace help you?
+Learn how to take your first step into the metaverse with Meta's hardware and software solutions.](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2Cm2a1pHkotkfU_vbPRVUN79poR5t_9WJRs7qACZAez5ZlIhHt2boWoFFzY3x5r3IKZvqEtYNU-Rgd-sHIlQHvZsXlNlV7XkYn3mbZU7WA5U7PLe8mwwbfBUPX_ec7Mkb5bF8vxaUnk1aQ)[How can Workplace help you?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
 
@@ -534,7 +534,7 @@ Check out the full list of our integrations and learn how to customize your Work
     
 * [Technical Resources](https://www.workplace.com/resources/tech)
     
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1hEX8KtPmxdIDw7BWBO6jR5nSHWgzIc0OAa4dPO5sUKpGqg_RBShXYUil7f0J1tK7DJr69SyKMJZUzVU7JDkl2OdK0vUi1FOs4WnWwXAITia-wB0KNLDpeb7LDK3El119iyTpai86AjgOz)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1532_4K9Cxb3qPgZP3_QLwA0hFeNNMA32toQztyLB77T4PT-seGASaNhjfWz4Tn8xsLmcZrS7bJ7abD9xpxAKC8mB_lcv46DsZJieEKHGsKsqRUClNGYh5B4zmOn-_CqTQ9KLz5o3vi3F9)
     
 * [Help Center](https://www.workplace.com/help/work)
     
@@ -605,7 +605,7 @@ Check out these tips, best practices and inspirational use cases to build a trul
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yN/r/GnNtiqrOO_I.svg)
 
-Discover new ways to use Meta for Work and best practices to help you work smarter.](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2iVddB0LRPhafxIm5zAtK1XIPIIHt-AsBhOdaM1WNmnNjsRnrLR9WQIlHga1R9Xcmw4iThOeC4pEvDC263Zl8rae2j51AmoaiF-pRRwWSGYDGMKitxvFgTXLsgE23LC1NpsZum3tLCDaPt)[Customer Communities
+Discover new ways to use Meta for Work and best practices to help you work smarter.](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2Kr8iDFLLAE2ri2Y7Irk0aG2EJpaZ3WFI31jWdO1VGkJXSYf4pahwpdGaj6NtTk_LeNfQQJqYZ1p4N0sjJPaHfJlRafYVwgPYt00JSVcJckCJQwEnN3BBmPJOGH-aMVpbh8KQqC216kd4n)[Customer Communities
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/-PAXP-deijE.gif)
 
@@ -788,7 +788,7 @@ Resources
 * [Mastering Workplace Features](#)
 * [Workplace Use Cases](https://www.workplace.com/resources/use-cases)
 * [Technical Resources](#)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2753hcpUFqvu09BRDit9e1kctxaPsLlYu5e4MuIuNK4Zs_z_4HxMvb99DwiUugQVrS2l8JwAjbggbzYPnFT1kcorlYR8CVwV_9rLoMhgKf-CoNVIQKIDwdIgKHc-bNiN0Rf-ug2OSK1rhl)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1jLu2KTT22PyZCHMwMxcVIhgsk-Y4oAwQjJM0aaau-mGpV32QMKzHLtjL5b8Q1WKP7sq4cpjrcjccWWPvektA00qKvBSEJGwO_RdgYgQFCB8c-bLwcNUfZIIcwbxhcB37qg7NnyskutRsM)
 * [Help Center](#)
 * [Support](#)
 * [Customer Communities](https://www.workplace.com/resources/communities)
@@ -797,7 +797,7 @@ Choosing Workplace
 
 * [Why Workplace](https://www.workplace.com/about)
 * [Diversity & Inclusion](https://www.workplace.com/diversity-and-inclusion)
-* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2Dq_m6p-Ajt7G44wSrG_DzK8E4XlfUdIgbgegDr9hKx8Xll-kKtDWJ4lTsbCTxRfm6Y1FBtegrHi4wjCrpbA_mKkC6itAA_n0G7Lp32iPtxE_bpbKEZ-rxWAswWHy0h1UaNSLa7zgA3s6a)
+* [Future of Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT1V44cXJzWMfgImw33Pn9NSl6liv2pFF3WelAoZc709DAv-j7k9bzEo2PB6QXxj-5Zta8QiT_ujF0nBXK-Yd2MiMY2tGQ_vHkAHvvFwDBxgMRcNjNkjYQnKRFDflXHqSCSKreHEkAOsaVKO)
 
 Solutions
 
@@ -931,7 +931,7 @@ English (US)
 
 ![](https://static.xx.fbcdn.net/rsrc.php/yJ/r/RmifG_DSE6Q.svg)
 
-[Log in](https://work.workplace.com/work/company_selector?ref=AVvVRu1LfaJplmD9QmqqCy7Y2A1q1jKQTyfkEAeAb5mDz8CxbkWpf-hE7gdlakiFSphEIf0tc4KbWGzzMd9izaa37mmC9glUfzqMKX5G0DUII6SlnBs-F300VQNDYQMTl1m3ZEMLUA5QfGp1kpNaArsG7Dkq28HZf7sSBOtDe9Rvww)
+[Log in](https://work.workplace.com/work/company_selector?ref=AVvlXYZZvjqL_ajw1MlL3z1XAbunnWdYfiZrj0LeZgHGTlqX2EUTUP1mVlXm_ONl4frRN9GAHNoXNqHxMgEm4UqV1pZhcVur2phXur_Uh3nhc3LxSLrIKfh0Y22gwL3O-EUcakCAAqKcnaY2JIxhOXa1UlrmW4G4cMLaGb6mgFpFhA)
 
 Workplace Privacy Policy
 ========================
@@ -1067,17 +1067,17 @@ Company
 * [Security](https://www.workplace.com/security)
 * [News & Media](https://www.workplace.com/newsroom)
 * [Brand Guidelines](https://about.meta.com/brand/resources/workplace/workplace-brand)
-* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT1GID4EJZVbwufJI4Os_vByAdY_kL1I-peEccqaYoNFOYOp-WCcrTIS1nxdms1JqAztqcRWQCgup3zbZIX68QYb7ug2aCy95-XUWecDqIghdo6gWaMFIvFhMQvN2gnRhDffUzf2gsLozlef)
+* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT0TaRmQXMWz99nuT1S5mXRBmSm0ECFBtjuHRdCcLJlxwnmFg9YUf67E397ZEYPck7f5dw_zpJN7Q6JVbJB9OVT2iuXn3jOr4DEHr0YIwoQo9wL-hXtQXahg08vcJRCSpmYXH5bIQNyMENG1)
 * [FAQs](https://www.workplace.com/faq)
-* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT3xxlbw054Vamyewhd61qiz0DMXe9V6x5m9Hb20He9RCRfNkmjbjG4bcZ2ujNnO4B39wV5JIyw2hkpzVElGIkDJjD11xxKmxtFbN6Yh40uUGcSn_uTMPcDWFt4yliVN-NPZNfKkXBm8hqPI)
+* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT1K-8YpTzWyaO9zGd9zavajx0Pia2OKBOrCUyy20ZegAVzmsbh_O-ng_YxDSg-t6o0JXA623rSuqe2qKrEHvNSzsOWkyKyMH0h7AtWAj-SXtG3gLHuH1OFq9rTrkDdWLDMhCcokEQwA2_FniWiDNLYdvEsxBQ)
 
 Help & Resources
 
 * [Help Center](https://www.workplace.com/help/work)
 * [Customer Resources](https://www.workplace.com/resources)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT1HkWATRqWCiuYt_8wFf7eqNir8QnJ4OEFlirWc0eHYDeJljUbz_TFe-yCrWpfzx5JUJiSKuXjM3ry2BtBLr-x_YB8xjuG83l-Y6xLMRwdFgZIxbUkNG2oQGtmWbnCV78hiGsFiJJnDBx4X)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT2biyviJRDRp0i_f0apGiywZFCyR_0ls2Rep-LZDZRjohiOifDIry3YxTTzAfXymVfyoHMs2Ol0OYgQ7phR-VG9OgFQUixfYw53-itl-LrTg7NRD61WJxcWO7sN4BKFpkwSjsKK2nAqJEXx)
 * [Contact Support](https://www.workplace.com/contact)
-* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT2QVmSe5_Hm4Z92Qnx5OLKv2FRXdqvH8W2NHqQhFnY0dTe-XhuqtpDpRhBFaREgZ9ClkuncphZFWCux29tLqeXAvMtDt8S68bpeU4_LkgXFt103wf0XVyDexerDv0WxFkaTO4emVdADl18V)
+* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT0jjhLVMnakYPCCpWhaqzvzbTfNP95J-iWsT2VSKvbI_2TMAFWToS20SWAugyQzBhXS8jxUvdCh62e8xvSmn1V4xG1pnWGTMJqRQwZLgEzbPJLQQWfdfiOCnzA9zQZVX_oSYWD9xtDcg97w)
 * [Developer](https://www.workplace.com/help/work/805611976300699)
 
 Legal Information
@@ -1095,17 +1095,17 @@ Company
 * [Security](https://www.workplace.com/security)
 * [News & Media](https://www.workplace.com/newsroom)
 * [Brand Guidelines](https://about.meta.com/brand/resources/workplace/workplace-brand)
-* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT3byq0c2OgM_4pKrnUV1oqBYE3Kj17Kb8_DB3YlthjBPizuTjQeqJglphYdlbEi14TzCNyuGTGXBZ7hZF8GC1kZE8Y36judaJ7jvLPtgVh3FknqI4yOf3T-5ydXdtiY6owGt7FgkukXmdOB)
+* [Careers](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.metacareers.com%2F&h=AT2l2FiTRtF7smiUhbdZUe4Eh_LPxM-6oPLF77V4FDlYzRcDfT5vKL-SFFVY3OUbVzVXIqZtRAbJ03tpkAEr9Tzeop0rBdq4XQgNxW4JZ3shI1d1-pu7Kn-gseSqFKj1u_byZENi65uGedOs)
 * [FAQs](https://www.workplace.com/faq)
-* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT3A0XMCGj1JvZmofMq0Yj9vLnKl6csvtUj-i5VQKMQDMGDyE9JKiP7LigXEH7xiDgrLzzkxgmS_PNlVnwIzS684jfwO4mZBlTuoNgrAhHNOFbgRucjDYd31VqUqJfUVf-wEQzuxPyDuLc9m)
+* [Meta for Work](https://l.workplace.com/l.php?u=https%3A%2F%2Fforwork.meta.com%2F&h=AT2QIWunxpIhbJikRi8oa4wnz2LvQnCZtDcLhT9Ug4GTDPzz7S6NwjyS9TIlBqA8Zi42zNBeMIlZaHQB9vhnQZPffVDuiIE6jmsokhzaqR7c97Q7L8MqjsiaHr0BvjlaG75yPjqRgYvj_L_v)
 
 Help & Resources
 
 * [Help Center](https://www.workplace.com/help/work)
 * [Customer Resources](https://www.workplace.com/resources)
-* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT3im7LSA7HDq8xZT0_HfIuIOGuhRgTslggob8mNjOABj7ZBrAOvS-YVHXK553OKK8PlCo8ztQU0BtAmwf7uVFtxLL-aTVktuxOyK_0P-YYeIngL0D0RsMCIkkV9FgBecvE3GGDgtQ-kFYSr)
+* [Work Academy](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkacademy.atmeta.com%2F&h=AT28g5t6lyEtp6oWKRT0va5hCkOh3Upp2ac2kGKRfe3STRgNm5RvFdHpPA58meIlK-gKxAWCBijEHN-CEHNLOHH083X5rpIwLtAS7h8pieYmZaXx0mEFjfJ1ttHfSDB6rPeh4t42S7eDatVC)
 * [Contact Support](https://www.workplace.com/contact)
-* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT0Xwr5nS96ObfAiP1ScLlBAxFF70GNfjSvb02Os90Ac78gFig0dqZag1zSCy35wTAADEH04xOG8-jcW30NdotIK-Y1EdALRhGd7NhXzepRox1A1HR15HjEnrwBZ1yfFCQXGOA6LFscvm_RrQjyHeC9ETDlsmw)
+* [Workplace Status](https://l.workplace.com/l.php?u=https%3A%2F%2Fworkplace.metastatus.com%2F&h=AT2vx7OHmnksMr-CBGULs0Q6N3cxlCKDy6bRj341o5W3lxEjmjhExmfOXmys0GUBeVZ9vNprZkz4_1KIk3u7u_gWX3Gq2VZCu-LoiFpPZ1cXkUFb0l5HiBms-yNB8uhLoCLlXSVdRfkJmJCd)
 * [Developer](https://www.workplace.com/help/work/805611976300699)
 
 Legal Information
@@ -1119,7 +1119,7 @@ Legal Information
 
 * * *
 
-[Share to Twitter](https://l.workplace.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fmetaforwork&h=AT2dmn46W-dWPbqvWm0ejmJc78hOXxBI2yXxeOIUnBAyRbPMjPN9Aq7s2nrI8WEetzdrfCcoajy0XeRHiwwPh0PFpYezZcBbooh48skZW82-86t9V-TOtiS1pIjMKJ5hJtSVNFJzRJkHiH7z)[Share to LinkedIn](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmetaforwork&h=AT2RSdWs0jfyvDS6-4zo8U5lSiPvXkq06rOvQGDiXrePLUPEzM2U88PWXCJV61x4_vbWrn07fFM7z3JJ0QdlB4ezAdOBQRYiTb-Gak8mVATyVu6ZBt4L0dsyIQAoOugEl004JBR_V2qNOiGqPPTSnzQNyPzMwg)[Share to Facebook](https://www.facebook.com/metaforwork)[Share to Instagram](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fmetaforwork&h=AT3BZtufFw24Ucne5Dg0J8WS_QNevdjaSS-RWFKPNh330f1caOJgiD8GCTXyFjrX_yyc-Li4_6pAQxiSI-1oLmqFYrxQZKRePVyr2O_QfHimnlSfflAH_rUnZRrfztR4rGwQ5j3ceAHFczIU)
+[Share to Twitter](https://l.workplace.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fmetaforwork&h=AT0KwtkeDyFaevOmy9m0Ym60lCw3945jzUUIgVOswWoDvS0UnNGWnHFjBRd1jFRCyZDOoKCoWZzUW5gGHxEIOvSmfwfJTmvXuj5q7Wk2BHGj49DvWz_ELQOR306nbTxGRTymx-qqg4Fdjgom)[Share to LinkedIn](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmetaforwork&h=AT3wOy1zgn4Pc9EGLzMgbHGyRDUdIpNEafuJwFHUPlAwTMZJ2Y_EQbeL8U_aZCM9x41BrgUaXpXq2GWWmD9HgugW5ZdpA3MT6VE9aIYGAbyH8Yi1rQ_V8FbnooogGX_6tCh8-zz9E2It4LWb)[Share to Facebook](https://www.facebook.com/metaforwork)[Share to Instagram](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fmetaforwork&h=AT0lGgbgzD4XXUGB_UWicvRPsc1yhmoFgPzF38On2VWxAsSH6zxgMDXorKR0DMeQP8KLSLFg9BIUHZ7Ig28jG81JA_gaPEPgJMtsU18cheHDhwY2Pe56_nbf-3xJZ0Yl-qWN0-NJer4t8fWj)
 
 Meta © 2024
 
