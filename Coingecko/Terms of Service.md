@@ -1,24 +1,24 @@
 📊 Now LIVE: [**2024 Q2 Crypto Industry Report**](https://bit.ly/2024-q2-crypto-report)
 
-Coins: [14,951](https://www.coingecko.com/)
+Coins: [14,947](https://www.coingecko.com/)
 
-Exchanges: [1,160](https://www.coingecko.com/en/exchanges)
+Exchanges: [1,162](https://www.coingecko.com/en/exchanges)
 
-Market Cap: [$2.515T](https://www.coingecko.com/en/global-charts) 3.9%
+Market Cap: [$2.524T](https://www.coingecko.com/en/global-charts) 0.7%
 
-24h Vol: [$101.765B](https://www.coingecko.com/en/global-charts)
+24h Vol: [$96.76B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 52.8%](https://www.coingecko.com/en/global-charts) [ETH 15.5%](https://www.coingecko.com/en/global-charts)
+[BTC 52.7%](https://www.coingecko.com/en/global-charts) [ETH 15.8%](https://www.coingecko.com/en/global-charts)
 
-Gas: 4 GWEI
+Gas: 2 GWEI
 
-Fast: 6 GWEI
+Fast: 5 GWEI
 
-Standard: 4 GWEI
+Standard: 2 GWEI
 
-Safe: 3 GWEI
+Safe: 2 GWEI
 
 Data by Etherscan
 
