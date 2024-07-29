@@ -417,7 +417,7 @@ Also of Interest
 * [Security Resources](https://www.aus.com/security-resources "Security Resources")
 * [Careers](https://ad.doubleclick.net/ddm/clk/435397650;274797481;a?https%3A%2F%2Fjobs_aus_com%3Futm_source=aus.com&utm_campaign=national_cross_business&utm_medium=career_site&utm_content=&ss=paid "Careers")
 * [Contact Us](https://www.aus.com/contact-us "Contact Us")
-* [Privacy Policy](https://www.aus.com/privacy-policy "Privacy Policy")
+* [Privacy Policy](https://www.aus.com/privacy-policy/ "Privacy Policy")
 * [Terms of Use](https://www.aus.com/terms-of-use)
 * [Site Map](https://www.aus.com/sitemap "Site Map")
 * [Code of Ethics](https://www.aus.com/sites/default/files/2024-07/2024_AU_Global_Code.pdf)
