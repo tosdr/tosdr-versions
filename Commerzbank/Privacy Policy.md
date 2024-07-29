@@ -44,21 +44,21 @@ Rechtliche Hinweise
 
 Hier finden Sie allgemeine Hinweise zu den Themen Datenschutz, Disclaimer, Schlichtung & Ombudsmann, Verträge und Leistungsbeschreibung.
 
-* Datenschutz
+* [Datenschutz](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#datenschutz)
     
-* Disclaimer
+* [Disclaimer](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#disclaimer)
     
-* Schlichtung & Ombudsmann
+* [Schlichtung & Ombudsmann](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#schlichtung-und-ombudsmann)
     
-* Europäische Online-Streitbeilegungsplattform
+* [Europäische Online-Streitbeilegungsplattform](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#europaische-online-streitbeilegungsplattform)
     
-* Verträge
+* [Verträge](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#vertrage)
     
-* Leistungsbeschreibung
+* [Leistungsbeschreibung](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#leistungsbeschreibung)
     
-* Zahlungskontengesetz
+* [Zahlungskontengesetz](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#zahlungskontengesetz)
     
-* PSD2 für Drittdienstleister
+* [PSD2 für Drittdienstleister](https://www.commerzbank.de/hinweise/rechtliche-hinweise/#zweite-eu-zahlungsdiensterichtlinie)
     
 
 Datenschutz
@@ -569,9 +569,9 @@ Zahlungskontengesetz
 
 Im Rahmen der Umsetzung des Zahlungskontengesetz (ZKG) stellen wir Ihnen nachfolgend Informationen und Antrag zum BasisKonto sowie das Glossar mit den maßgeblich verbundenen Dienstleistungen unserer Girokonten, unsere Vergleichskriterien sowie die zu unseren aktuellen Girokontomodellen gültigen Entgeltinformationen als Download zur Verfügung.
 
-* [BasisKonto - Information (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/basiskonto_info.pdf)
+* [Basiskonto - Information (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/basiskonto_info.pdf)
     
-* [BasisKonto - Antrag (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/antrag_basiskonto.pdf)
+* [Basiskonto - Antrag (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/antrag_basiskonto.pdf)
     
 * [Glossar Zahlungskonto (PDF)](https://www.commerzbank.de/portal/media/efw-dokumente/zahlungskontengesetz.pdf)
     
