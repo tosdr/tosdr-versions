@@ -2,7 +2,7 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-We are currently experiencing high call volumes.  Please only call if you are travelling within the next 72 hours
+We are currently experiencing high call volumes. Please only call if you are travelling within the next 72 hours.
 
 Close
 
@@ -558,7 +558,7 @@ At the airport
 In the air
 ----------
 
-* [Food and beverage](https://www.westjet.com/en-ca/inflight/buy-on-board)
+* [Food and beverage](https://www.westjet.com/en-ca/inflight/food-and-beverages)
 * [Entertainment](https://www.westjet.com/en-ca/inflight/entertainment)
 * [Our aircraft](https://www.westjet.com/en-ca/aircraft)
 * [Cabins](https://www.westjet.com/en-ca/inflight)
