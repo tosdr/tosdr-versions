@@ -8,9 +8,7 @@
 * [1-800-609-6480](tel:18006096480)
 * [Login](https://www.alchemer.com/account-logins/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203181%20750'%3E%3C/svg%3E)
-
-![](https://www.alchemer.com/wp-content/uploads/2022/12/alchemer-gold-logo.png)](https://www.alchemer.com/)
+[![](https://www.alchemer.com/wp-content/uploads/2022/12/alchemer-gold-logo.png)](https://www.alchemer.com/)
 
 * Solutions
     
