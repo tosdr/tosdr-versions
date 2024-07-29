@@ -239,7 +239,7 @@ Popular Searches
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
     * [Save 50% on NexGard & Heartgard w/AS](https://www.1800petmeds.com/nexgard%2Bheartgard.html)
-    * [Save 10% with Autoship on Hills & Royal Canin Rx products](https://www.1800petmeds.com/royal-canin-hills-rx)
+    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     
 * [Pet Health Resources](#)
@@ -851,7 +851,7 @@ Navigation [×](javascript:void(0))
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw774caf3d/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
     * [Save 50% on NexGard & Heartgard w/AS](https://www.1800petmeds.com/nexgard%2Bheartgard.html)
-    * [Save 10% with Autoship on Hills & Royal Canin Rx products](https://www.1800petmeds.com/royal-canin-hills-rx)
+    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe3e525b2/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
