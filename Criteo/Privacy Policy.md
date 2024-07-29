@@ -51,13 +51,19 @@ The ROAS Trap: Discover 11 metrics that prove the value of retail media beyond R
     
     * [Retail Media Reach and convert shoppers with relevant ads near the digital point of sale](https://www.criteo.com/solutions/retail-media-platform/)
     
-    ![](https://www.criteo.com/wp-content/uploads/2023/02/Solutions-Featured-Image-v2-1.jpg)
+    ![Success Storie YSL](https://www.criteo.com/wp-content/uploads/2024/07/Success-Storie-YSL.jpg)
     
-    Blog article
+    Success Stories
     
-    Criteo Product Update: Purpose-Built Solutions for Commerce Outcomes
+    L’Oréal’s integrated onsite and offsite retail media triumph drives 92% uplift in Revenue per User for YSL Beauty
     
-    Read More[](https://www.criteo.com/blog/criteo-product-update-purpose-built-solutions-for-commerce-outcomes/)
+    View success story
+    
+    92% Revenue per user uplift
+    
+    +27% Onsite CTR uplift
+    
+    [](https://www.criteo.com/success-stories/ysl-beauty/)
     
 * Resources
     
