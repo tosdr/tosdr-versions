@@ -3,7 +3,10 @@
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
 * [Buff Portal](https://portal.buff.game/)
-* [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Highlights](https://www.portal.buff.game/highlights)
+    * [Buff TV](https://www.portal.buff.game/latest-videos)
+    * [News](https://www.portal.buff.game/)
 * [FAQ](https://www.buff.game/faq/)
     * [The Buff Browser](https://www.buff.game/a/blog)
     * [Buff Answers](https://www.buff.game/a/answers)
@@ -21,7 +24,10 @@ Menu
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
 * [Buff Portal](https://portal.buff.game/)
-* [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Highlights](https://www.portal.buff.game/highlights)
+    * [Buff TV](https://www.portal.buff.game/latest-videos)
+    * [News](https://www.portal.buff.game/)
 * [FAQ](https://www.buff.game/faq/)
     * [The Buff Browser](https://www.buff.game/a/blog)
     * [Buff Answers](https://www.buff.game/a/answers)
@@ -119,19 +125,7 @@ Do Not Track Notices. You are also advised that Company does not respond to “D
 
 ![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
+[![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY) [![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn) [![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q) [![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game) [![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ) [![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
 
 ###### Menu
 
@@ -172,8 +166,6 @@ BUFF.GAME isn’t endorsed by Riot Games and doesn’t reflect the views or opin
 [Terms of Use](https://www.buff.game/website-terms-of-use/) | [Privacy Policy](https://www.buff.game/buff-privacy-policy/)
 
 [](#)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20961%20497'%3E%3C/svg%3E)
 
 ![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
 
