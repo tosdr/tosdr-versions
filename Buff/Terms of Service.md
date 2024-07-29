@@ -1,9 +1,14 @@
-[![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
+
+![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
 
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
 * [Buff Portal](https://portal.buff.game/)
-* [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Highlights](https://www.portal.buff.game/highlights)
+    * [Buff TV](https://www.portal.buff.game/latest-videos)
+    * [News](https://www.portal.buff.game/)
 * [FAQ](https://www.buff.game/faq/)
     * [The Buff Browser](https://www.buff.game/a/blog)
     * [Buff Answers](https://www.buff.game/a/answers)
@@ -21,7 +26,10 @@ Menu
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
 * [Buff Portal](https://portal.buff.game/)
-* [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Leaderboard](https://portal.buff.game/leaderboard)
+    * [Highlights](https://www.portal.buff.game/highlights)
+    * [Buff TV](https://www.portal.buff.game/latest-videos)
+    * [News](https://www.portal.buff.game/)
 * [FAQ](https://www.buff.game/faq/)
     * [The Buff Browser](https://www.buff.game/a/blog)
     * [Buff Answers](https://www.buff.game/a/answers)
@@ -34,9 +42,13 @@ Menu
 * [iOS](https://apps.apple.com/il/app/buff-game/id1556876835)
 * [Android](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2043%2052'%3E%3C/svg%3E)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
+![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2039%2052'%3E%3C/svg%3E)
+
+![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
 [Download](https://download.overwolf.com/install/Download?PartnerId=3762)
 
@@ -220,6 +232,8 @@ In addition, BUFF reserves the right, at its sole discretion, to cancel or suspe
 The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. BUFF shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond BUFF’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any term of these Terms of Use is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms of Use shall otherwise remain in full force and effect and enforceable. These Terms of Use are not assignable, transferable or sub-licensable by you and the use of the BUFF Service is personal and you may not authorize others to access your Profile. BUFF may transfer, assign or delegate these Terms of Use and its rights and obligations hereunder without consent and/or notice. No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by these Terms between you and BUFF. These Terms of Use are the entire agreement between you and BUFF regarding the subject matter herein. ANY CAUSE OF ACTION INITIATED BY YOU AND ARISING OUT OF OR RELATED TO THE SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED AND YOU SHALL BE DEEMED TO WAIVE ANY CLAIM YOU MAY HAVE IN RESPECT THEREOF.
 
 **Last updated on **February** **11****, 2024****
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
 
 ![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)
 
