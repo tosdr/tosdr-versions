@@ -29,9 +29,9 @@ EARNINGS CALL - illumin's Q2 earnings call is Aug 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![WEBINAR: High-Interest and Low-Turnout in a Twenty-Billion Dollar Ad Spend Year](https://illumin.com/wp-content/uploads/2024/05/illumin_InsideScoop-Blog-1-263x300.jpg)
+    * ![Digital out-of-home advertising: a quick guide](https://illumin.com/wp-content/uploads/2024/07/Digital-out-of-home-advertising-263x300.png)
         
-        WEBINAR: High-Interest and Low-Turnout in a Twenty-Billion Dollar Ad Spend Year[Read More](https://illumin.com/insights/podcasts-webinars/webinar-high-interest-low-turnout-20-billion-ad-spend-year/)
+        Digital out-of-home advertising: a quick guide[Read More](https://illumin.com/insights/blog/digital-out-of-home-guide/)
         
 * [Company](#)
     * [Company](#)
