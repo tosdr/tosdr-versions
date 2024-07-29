@@ -66,7 +66,7 @@
 * Scraping Solutions
     
     * [Web Scraper APINew!Custom endpoint APIs for simplified web scraping.](https://brightdata.com/products/web-scraper)
-    * [Serverless FunctionsUse Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper/functions)
+    * [Scraping Functions (IDE)Use Javascript functions and existing code templates to build web scrapers](https://brightdata.com/products/web-scraper/functions)
     * [Scraping BrowserScale scraping browsers with built-in unblocking and hosting](https://brightdata.com/products/scraping-browser)
     * [SERP APIQuick and easy search engine scraping on demand](https://brightdata.com/products/serp-api)
     * [Web UnlockerSay goodbye to blocks and CAPTCHAs with a single API](https://brightdata.com/products/web-unlocker)
@@ -94,7 +94,7 @@
     * Web Data
         
         * [Datasets](https://docs.brightdata.com/datasets/introduction)
-        * [Web Scraper IDE](https://docs.brightdata.com/scraping-automation/web-scraper-ide/introduction)
+        * [Scraping Functions (IDE)](https://docs.brightdata.com/scraping-automation/web-scraper-ide/introduction)
     * OTHER RESOURCES
         
         * [Developers blog](https://brightdata.com/blog)
@@ -108,7 +108,8 @@
         * [Mobile Proxies](https://brightdata.com/pricing/proxy-network?plan=yearly&type=mobile)
     * Scraping Solutions
         
-        * [Web Scraper IDE](https://brightdata.com/pricing/web-scraper)
+        * [Web Scraper API](https://brightdata.com/pricing/web-scraper)
+        * [Scraping Functions (IDE)](https://brightdata.com/pricing/web-scraper/functions)
         * [Scraping Browser](https://brightdata.com/pricing/scraping-browser)
         * [SERP API](https://brightdata.com/pricing/serp)
         * [Web Unlocker](https://brightdata.com/pricing/web-unlocker)
