@@ -152,6 +152,13 @@ On this page
 
 Prev Next
 
+Share
+
+* [](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
+* [](https://www.linkedin.com/shareArticle/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
+* [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
+* [](http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
+
 On this page
 
 Jump to
@@ -162,6 +169,8 @@ Share
 * [](https://www.linkedin.com/shareArticle/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
 * [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
 * [](http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.wise-geek.com%2Fwhat-is-the-privacy-policy.htm)
+
+https://www.wise-geek.com/what-is-the-privacy-policy.htm
 
 WiseGeek, in your inbox
 
