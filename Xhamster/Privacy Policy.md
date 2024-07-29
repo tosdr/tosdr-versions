@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Videos](https://xhamster.com/)
     * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/this-is-the-first-time-she-has-had-a-huge-dick-in-her-ass-and-it-hurts-xhhbqYs)
+    * [Moments](https://xhamster.com/moments/help-my-tight-pussy-stretched-and-pumped-cum-inside-me-xh1y3X6)
     * [Watch History](https://xhamster.com/my/watch-history)
     
     * [British](https://xhamster.com/categories/british)
@@ -39,7 +39,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
     
     * [All categories](https://xhamster.com/categories)
 * [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22f%22%2C%22v%22%3A6%7D%2C%223002%22%3A%7B%22g%22%3A%22l%22%2C%22v%22%3A5%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66a2b103441d55.75310838534&xhSessionToken=4cbf6476bb209639e8a13dc8b2c51a8c09f78389&xhSessionStartedAt=1721938179)
+* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A6%7D%2C%223002%22%3A%7B%22g%22%3A%22j%22%2C%22v%22%3A5%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66a707001f97f0.13878715f65&xhSessionToken=4060a089fbeb14752b76d08634822cd2612550f2&xhSessionStartedAt=1722222336)
 * [Categories](https://xhamster.com/categories)
     * [British](https://xhamster.com/categories/british)
     * [Mature](https://xhamster.com/categories/mature)
@@ -90,7 +90,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 Privacy Policy
 ==============
 
-Effective Date: July 25, 2024
+Effective Date: July 29, 2024
 
 Last Modified: January 04, 2024
 
@@ -408,8 +408,8 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
-* [Creator Contest](https://xhamster.com/creators/contest)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Creator Contest](https://xhamster.com/gay/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
 Monetize your content
