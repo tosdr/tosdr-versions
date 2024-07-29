@@ -688,6 +688,7 @@ Support
 * [Contact support](https://helpdesk.bitrix24.com/ticket.php)
 * [Schedule a demo](https://www.bitrix24.com/partners/)
 * [Status](https://status.bitrix24.com/)
+* [Courses](https://helpdesk.bitrix24.com/documentation.php)
 
 Resources
 
