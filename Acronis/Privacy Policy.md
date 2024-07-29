@@ -114,15 +114,15 @@ Menu Close
     
     Cybersecurity
     
-    [Advanced Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Advanced Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Advanced Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Advanced Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
+    [Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
     
     Data protection
     
-    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Advanced Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [Advanced File Sync and Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
+    [Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [File Sync and Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
     
     MSP operations
     
-    [Advanced Management](https://www.acronis.com/en-us/products/cloud/cyber-protect/management/) [Advanced Automation](https://www.acronis.com/en-us/products/cloud/cyber-protect/automation/)
+    [Management](https://www.acronis.com/en-us/products/cloud/cyber-protect/management/) [Automation](https://www.acronis.com/en-us/products/cloud/cyber-protect/automation/)
     
     * [Try it free](https://www.acronis.com/en-us/products/cloud/trial/)
     * [Get a demo](https://www.acronis.com/en-us/products/cloud/cyber-protect/demo-center/)
