@@ -1,6 +1,6 @@
- [### ![](/images/promobar/lightning-yellow.svg) Understand GenAI: 9 Unique Ways
+ [### ![](/images/promobar/lightning-yellow.svg) Discover the Top 75 Free Courses for August
 
-View](https://www.classcentral.com/report/learn-generative-ai-llm/)
+View](https://www.classcentral.com/report/most-popular-august-2024/)
 
 Close
 
@@ -410,38 +410,38 @@ A human neural network trained on Anime subtitles was used to generate this arti
 Most common
 -----------
 
-1. python
+1. excel
     
-2. java
+2. law
     
-3. html
+3. harvard
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Cybersecurity
     
-    6,021 courses](https://www.classcentral.com/subject/ai)
-2. [Marketing
+    10,846 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Python
     
-    7,105 courses](https://www.classcentral.com/subject/marketing)
-3. [Computer Science
+    7,253 courses](https://www.classcentral.com/subject/python)
+3. [Digital Marketing
     
-    20,779 courses](https://www.classcentral.com/subject/cs)
+    5,293 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [Greek and Roman Mythology
+1. [Aprender
     
-    University of Pennsylvania](https://www.classcentral.com/course/mythology-353)
-2. [Bases Matemáticas: Números y terminología
+    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
+2. [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/math-universitat-politecnica-de-valencia-bases-ma-2955)
-3. [Crisis Resource Management
+    University of Edinburgh](https://www.classcentral.com/course/know-thyself-the-examined-life-432)
+3. [Academic Writing Made Easy
     
-    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
