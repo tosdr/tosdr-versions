@@ -156,7 +156,7 @@
     * [GTFS Feed & Developer License Agreement](https://www.ladottransit.com/dla.html)
     * [Transit Advertising at OutFrontMedia.com](http://www.outfrontmedia.com/)
     * [Doing Business with LADOT](https://www.ladottransit.com/business)
-    * [Disadvantaged Business Enterprise (DBE) Goal for Federal Fiscal Years 2022-2024](https://www.ladottransit.com/dbe)
+    * [Disadvantaged Business Enterprise (DBE) Three-Year Overall Goal for Federal Fiscal Years 2025-2027](https://www.ladottransit.com/dbe)
 
 back
 
