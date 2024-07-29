@@ -1,4 +1,4 @@
-[Take the quiz](https://cardi.health/home)
+[Take the quiz](https://cardi.health/en-GB/home)
 
 Privacy policy
 ==============
