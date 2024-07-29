@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Windows July security updates send PCs into BitLocker recovery](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![July Windows Server updates break Remote Desktop connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows July security updates send PCs into BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/windows-july-security-updates-send-pcs-into-bitlocker-recovery/)
-    * [![French police push PlugX malware self-destruct payload to clean PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        July Windows Server updates break Remote Desktop connections](https://www.bleepingcomputer.com/news/microsoft/july-windows-server-updates-break-remote-desktop-connections/)
+    * [![Windows 11 taskbar has a hidden ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        French police push PlugX malware self-destruct payload to clean PCs](https://www.bleepingcomputer.com/news/security/french-police-push-plugx-malware-self-destruct-payload-to-clean-pcs/)
-    * [![Google Chrome now asks for passwords to scan protected archives](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
+    * [![WhatsApp for Windows lets Python, PHP scripts execute with no warning](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google Chrome now asks for passwords to scan protected archives](https://www.bleepingcomputer.com/news/google/google-chrome-now-asks-for-passwords-to-scan-protected-archives/)
-    * [![US offers $10M for tips on DPRK hacker linked to Maui ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        WhatsApp for Windows lets Python, PHP scripts execute with no warning](https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/)
+    * [![X begins training Grok AI with your posts, here's how to disable](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        US offers $10M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
+        X begins training Grok AI with your posts, here's how to disable](https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-your-posts-heres-how-to-disable/)
     
-    * [![PKfail Secure Boot bypass lets attackers install UEFI malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Start studying data analysis in this $35 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        PKfail Secure Boot bypass lets attackers install UEFI malware](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/)
-    * [![Critical ServiceNow RCE flaws actively exploited to steal credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Start studying data analysis in this $35 course bundle deal](https://www.bleepingcomputer.com/offer/deals/start-studying-data-analysis-in-this-35-course-bundle-deal/)
+    * [![Misconfigured Selenium Grid servers abused for Monero mining](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
-    * [![Windows 11 KB5040527 update fixes Windows Backup failures](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Misconfigured Selenium Grid servers abused for Monero mining](https://www.bleepingcomputer.com/news/security/misconfigured-selenium-grid-servers-abused-for-monero-mining/)
+    * [![Get a Costco Gold Star Membership plus a $40 Shop Card for $60](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
-    * [![Study PenTesting and hacking in this $45 course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Get a Costco Gold Star Membership plus a $40 Shop Card for $60](https://www.bleepingcomputer.com/offer/deals/get-a-costco-gold-star-membership-plus-a-40-shop-card-for-60/)
+    * [![Windows 11 taskbar has a hidden ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Study PenTesting and hacking in this $45 course bundle](https://www.bleepingcomputer.com/offer/deals/study-pentesting-and-hacking-in-this-45-course-bundle/)
+        Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -306,12 +306,12 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Windows Bitlocker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![WhatsApp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Windows July security updates send PCs into BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/windows-july-security-updates-send-pcs-into-bitlocker-recovery/)
-* [![North Korean hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    WhatsApp for Windows lets Python, PHP scripts execute with no warning](https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    KnowBe4 mistakenly hires North Korean hacker, faces infostealer attack](https://www.bleepingcomputer.com/news/security/knowbe4-mistakenly-hires-north-korean-hacker-faces-infostealer-attack/)
+    Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
 
 Latest Downloads
 
@@ -337,7 +337,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,620 _Downloads_**
+    **54,655 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +345,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **42,289 _Downloads_**
+    **42,317 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,546 _Downloads_**
+    **103,593 _Downloads_**
     
 
 ##### Follow us:
