@@ -659,7 +659,8 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 ##### Trending on businessline
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Highlights](https://www.thehindubusinessline.com/economy/budget/budget-2024-highlights-key-updates-new-income-tax-announcements-by-fm-nirmala-sitharaman/article68432665.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/stock-market-updates-25-july-2024/article68441940.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-26-july-2024/article68445339.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SJVN Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/sjvn-share-price-today-live-updates-26-july-2024/article68448571.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Suzlon Energy Share Price Today](https://www.thehindubusinessline.com/markets/stock-markets/suzlon-energy-share-price-live-updates-today-25-july-2024/article68444139.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-june-2024-highlights/article68258609.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results 2024](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-updates/article68246360.ece)
@@ -678,13 +679,12 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Market News](https://www.thehindubusinessline.com/markets/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) National News](https://www.thehindubusinessline.com/news/national/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) International News](https://www.thehindubusinessline.com/news/world/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Tesla News](https://www.thehindubusinessline.com/about/tesla-reliance-news/)
 
 ##### Trending on Group sites
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Electoral Bonds Full Data](https://www.thehindu.com/data/electoral-bond-full-data-complete-list-of-donors-parties-and-unique-numbers/article67976056.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) T20 World Cup](https://sportstar.thehindu.com/cricket/t20-world-cup/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Olympics Shoooting Live Score](https://sportstar.thehindu.com/olympics/paris-2024/news/shooting-live-score-paris-2024-olympics-updates-commentary-medals-results-10m-air-pistol-rifle-qualification-final-highlights/article68456278.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) PM Modi oath ceremony LIVE updates](https://www.thehindu.com/elections/lok-sabha/india-election-results-2024-updates-june-9-2024/article68268845.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reinventing Rahul Gandhi](https://frontline.thehindu.com/politics/rahul-gandhi-reinvented-himself-in-2024-lok-sabha-election-pappu-gen-z-thirst-trap/article68315876.ece?utm_source=bl&utm_medium=footer&utm_campaign=internal)
