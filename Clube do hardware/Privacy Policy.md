@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![LARodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250426.thumb.jpeg.676b1dc019264733ddf311141e5ae8b8.jpeg)](https://www.clubedohardware.com.br/profile/1250426-larodrigues/ "Ir ao perfil de LARodrigues")
+    * [![Marcos2526](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250167-marcos2526/ "Ir ao perfil de Marcos2526")
         
         0
         
-        [MSI X370 gaming pro- compatibilidade](https://www.clubedohardware.com.br/forums/topic/1693211-msi-x370-gaming-pro-compatibilidade/?do=getNewComment "MSI X370 gaming pro- compatibilidade")
+        Excel [erro não é possível ativar o office porque não atende os requisitos de execução](https://www.clubedohardware.com.br/forums/topic/1693501-erro-n%C3%A3o-%C3%A9-poss%C3%ADvel-ativar-o-office-porque-n%C3%A3o-atende-os-requisitos-de-execu%C3%A7%C3%A3o/?do=getNewComment "erro não é possível ativar o office porque não atende os requisitos de execução")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [LARodrigues](https://www.clubedohardware.com.br/profile/1250426-larodrigues/ "Ir ao perfil de LARodrigues")  
-        9 minutos atrás
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Marcos2526](https://www.clubedohardware.com.br/profile/1250167-marcos2526/ "Ir ao perfil de Marcos2526")  
+        15 minutos atrás
         
-    * [![Ton1149](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/588ae16399021d819930991914c69717.thumb.jpg.62e495d9389eb4a63917890144fc4b01.jpg)](https://www.clubedohardware.com.br/profile/1250421-ton1149/ "Ir ao perfil de Ton1149")
+    * [![SoUmBrNormal](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250599.thumb.png.d93c223f6eb6103879499f2d97a6fcc5.png)](https://www.clubedohardware.com.br/profile/1250599-soumbrnormal/ "Ir ao perfil de SoUmBrNormal")
+        
+        5
+        
+        [Baixo FPS no menu de GTA V](https://www.clubedohardware.com.br/forums/topic/1693500-baixo-fps-no-menu-de-gta-v/?do=getNewComment "Baixo FPS no menu de GTA V")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [SoUmBrNormal](https://www.clubedohardware.com.br/profile/1250599-soumbrnormal/ "Ir ao perfil de SoUmBrNormal")  
+        17 minutos atrás
+        
+    * [![EvilTwizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/51de07fc1d5b26425a2a11bbd266efed.thumb.jpg.c383cf203cf995069b0b4ffe43afa0a6.jpg)](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")
         
         0
         
-        [As 7 principais TV Boxes para comprar em 2024 (STV, HTV, etc.)](https://www.clubedohardware.com.br/forums/topic/1693210-as-7-principais-tv-boxes-para-comprar-em-2024-stv-htv-etc/?do=getNewComment "As 7 principais TV Boxes para comprar em 2024 (STV, HTV, etc.)")
+        [SSD KOOTION X15 É bom?](https://www.clubedohardware.com.br/forums/topic/1693499-ssd-kootion-x15-%C3%A9-bom/?do=getNewComment "SSD KOOTION X15 É bom?")
         
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [Ton1149](https://www.clubedohardware.com.br/profile/1250421-ton1149/ "Ir ao perfil de Ton1149")  
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [EvilTwizzy](https://www.clubedohardware.com.br/profile/1248483-eviltwizzy/ "Ir ao perfil de EvilTwizzy")  
+        30 minutos atrás
+        
+    * [![Aninha Schneck](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249810.thumb.jpeg.87c0d4a2918a736256188ebf337a9546.jpeg)](https://www.clubedohardware.com.br/profile/1249810-aninha-schneck/ "Ir ao perfil de Aninha Schneck")
+        
+        0
+        
+        [Nvivo programa de análise qualitativa não roda no Windows 11](https://www.clubedohardware.com.br/forums/topic/1693498-nvivo-programa-de-an%C3%A1lise-qualitativa-n%C3%A3o-roda-no-windows-11/?do=getNewComment "Nvivo programa de análise qualitativa não roda no Windows 11")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [Aninha Schneck](https://www.clubedohardware.com.br/profile/1249810-aninha-schneck/ "Ir ao perfil de Aninha Schneck")  
+        57 minutos atrás
+        
+    * [![Lucas Avozani](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250598.thumb.png.fac4cd6ff38a48274a77284dde916cf3.png)](https://www.clubedohardware.com.br/profile/1250598-lucas-avozani/ "Ir ao perfil de Lucas Avozani")
+        
+        0
+        
+        [Access Point rede 5G](https://www.clubedohardware.com.br/forums/topic/1693497-access-point-rede-5g/?do=getNewComment "Access Point rede 5G")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Lucas Avozani](https://www.clubedohardware.com.br/profile/1250598-lucas-avozani/ "Ir ao perfil de Lucas Avozani")  
         1 hora atrás
         
-    * [![SkyFernandes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1129607.thumb.jpeg.2b26ed671129e1be0ada2c2dc12e0256.jpeg)](https://www.clubedohardware.com.br/profile/1129607-skyfernandes/ "Ir ao perfil de SkyFernandes")
+    * [![Gabriel Giovannetti](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4628e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250594-gabriel-giovannetti/ "Ir ao perfil de Gabriel Giovannetti")
         
-        0
+        3
         
-        [RX 580 2048SP usando 100%](https://www.clubedohardware.com.br/forums/topic/1693209-rx-580-2048sp-usando-100/?do=getNewComment "RX 580 2048SP usando 100%")
+        [Computador desligando sozinho enquanto estou jogando](https://www.clubedohardware.com.br/forums/topic/1693495-computador-desligando-sozinho-enquanto-estou-jogando/?do=getNewComment "Computador desligando sozinho enquanto estou jogando")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [SkyFernandes](https://www.clubedohardware.com.br/profile/1129607-skyfernandes/ "Ir ao perfil de SkyFernandes")  
-        2 horas atrás
+        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
+        Por [Gabriel Giovannetti](https://www.clubedohardware.com.br/profile/1250594-gabriel-giovannetti/ "Ir ao perfil de Gabriel Giovannetti")  
+        1 hora atrás
         
-    * [![ROBSONjoven](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249637.thumb.png.59250bc2bd2880d92ad755cee4857908.png)](https://www.clubedohardware.com.br/profile/1249637-robsonjoven/ "Ir ao perfil de ROBSONjoven")
-        
-        0
-        
-        [energia GPU EM 0W](https://www.clubedohardware.com.br/forums/topic/1693208-energia-gpu-em-0w/?do=getNewComment "energia GPU EM 0W")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [ROBSONjoven](https://www.clubedohardware.com.br/profile/1249637-robsonjoven/ "Ir ao perfil de ROBSONjoven")  
-        3 horas atrás
-        
-    * [![ThiagoA98](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250422.thumb.png.61bf2fb693890c4c9222787750dbf1ea.png)](https://www.clubedohardware.com.br/profile/1250422-thiagoa98/ "Ir ao perfil de ThiagoA98")
-        
-        0
-        
-        [PC para jogos beirando os R$5.500](https://www.clubedohardware.com.br/forums/topic/1693207-pc-para-jogos-beirando-os-r5500/?do=getNewComment "PC para jogos beirando os R$5.500")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ThiagoA98](https://www.clubedohardware.com.br/profile/1250422-thiagoa98/ "Ir ao perfil de ThiagoA98")  
-        4 horas atrás
-        
-    * [![Robson Galvão](https://www.clubedohardware.com.br/uploads/members/monthly_2019_01/imported-photo-956793.thumb.jpeg.f136ad76cdc1f1286fdb3136e1457db8.jpeg)](https://www.clubedohardware.com.br/profile/956793-robson-galv%C3%A3o/ "Ir ao perfil de Robson Galvão")
-        
-        0
-        
-        [Tv sony 29 kv-fs105 com imagem preto e branco](https://www.clubedohardware.com.br/forums/topic/1693206-tv-sony-29-kv-fs105-com-imagem-preto-e-branco/?do=getNewComment "Tv sony 29 kv-fs105 com imagem preto e branco")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [Robson Galvão](https://www.clubedohardware.com.br/profile/956793-robson-galv%C3%A3o/ "Ir ao perfil de Robson Galvão")  
-        4 horas atrás
-        
-    * [![UMARIZAL](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/2021-200x200.thumb.jpg.52a208353eb4523391150926b9efe534.jpg)](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")
-        
-        0
-        
-        [Ao energizar, PC liga sozinho por segundos e depois desliga](https://www.clubedohardware.com.br/forums/topic/1693205-ao-energizar-pc-liga-sozinho-por-segundos-e-depois-desliga/?do=getNewComment "Ao energizar, PC liga sozinho por segundos e depois desliga")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [UMARIZAL](https://www.clubedohardware.com.br/profile/294044-umarizal/ "Ir ao perfil de UMARIZAL")  
-        5 horas atrás
-        
-    * [![Vgznxx71](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250420.thumb.png.a11a0e0cd1eba757e644ef255e3c65be.png)](https://www.clubedohardware.com.br/profile/1250420-vgznxx71/ "Ir ao perfil de Vgznxx71")
+    * [![gspcarvalho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245845.thumb.jpeg.b765c0b7d1deee71c40c7e0eeb7ef5a1.jpeg)](https://www.clubedohardware.com.br/profile/1245845-gspcarvalho/ "Ir ao perfil de gspcarvalho")
         
         2
         
-        [Dual channel não ativa por nada](https://www.clubedohardware.com.br/forums/topic/1693204-dual-channel-n%C3%A3o-ativa-por-nada/?do=getNewComment "Dual channel não ativa por nada")
+        [Uso da Radeon RX 6600 V2 ASUS está em 60% constantemente, é comum? Como mudar?](https://www.clubedohardware.com.br/forums/topic/1693494-uso-da-radeon-rx-6600-v2-asus-est%C3%A1-em-60-constantemente-%C3%A9-comum-como-mudar/?do=getNewComment "Uso da Radeon RX 6600 V2 ASUS está em 60% constantemente, é comum? Como mudar?")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Vgznxx71](https://www.clubedohardware.com.br/profile/1250420-vgznxx71/ "Ir ao perfil de Vgznxx71")  
-        5 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [gspcarvalho](https://www.clubedohardware.com.br/profile/1245845-gspcarvalho/ "Ir ao perfil de gspcarvalho")  
+        1 hora atrás
         
-    * [![thiago baptsita](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ETB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250417-thiago-baptsita/ "Ir ao perfil de thiago baptsita")
+    * [![Miskulin](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239bc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/785208-miskulin/ "Ir ao perfil de Miskulin")
         
-        0
+        3
         
-        [Ryzen 7800x3d 6.6GHz estraga rápido?](https://www.clubedohardware.com.br/forums/topic/1693203-ryzen-7800x3d-66ghz-estraga-r%C3%A1pido/?do=getNewComment "Ryzen 7800x3d 6.6GHz estraga rápido?")
+        [Qual é melhor, Galaxy Buds FE ou Baseus Tws Bowie Ma10?](https://www.clubedohardware.com.br/forums/topic/1693493-qual-%C3%A9-melhor-galaxy-buds-fe-ou-baseus-tws-bowie-ma10/?do=getNewComment "Qual é melhor, Galaxy Buds FE ou Baseus Tws Bowie Ma10?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [thiago baptsita](https://www.clubedohardware.com.br/profile/1250417-thiago-baptsita/ "Ir ao perfil de thiago baptsita")  
-        5 horas atrás
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Miskulin](https://www.clubedohardware.com.br/profile/785208-miskulin/ "Ir ao perfil de Miskulin")  
+        2 horas atrás
         
-    * [![Luisgte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250418.thumb.jpeg.75de87b11dea44a965cc436ed1417106.jpeg)](https://www.clubedohardware.com.br/profile/1250418-luisgte/ "Ir ao perfil de Luisgte")
+    * [![Miskulin](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239bc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/785208-miskulin/ "Ir ao perfil de Miskulin")
         
-        0
+        1
         
-        [Antena wifi não reconhece](https://www.clubedohardware.com.br/forums/topic/1693202-antena-wifi-n%C3%A3o-reconhece/?do=getNewComment "Antena wifi não reconhece")
+        [Qual é melhor, TV LG c4 ou LG G3?](https://www.clubedohardware.com.br/forums/topic/1693492-qual-%C3%A9-melhor-tv-lg-c4-ou-lg-g3/?do=getNewComment "Qual é melhor, TV LG c4 ou LG G3?")
+        
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Miskulin](https://www.clubedohardware.com.br/profile/785208-miskulin/ "Ir ao perfil de Miskulin")  
+        2 horas atrás
+        
+    * [![Marcus pergunta](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/imported-photo-1235521.thumb.jpeg.d441a2e7a52de44982836380da71ef32.jpeg)](https://www.clubedohardware.com.br/profile/1235521-marcus-pergunta/ "Ir ao perfil de Marcus pergunta")
+        
+        3
+        
+        [Como aumentar a vida últi da minha placa-mãe x99?](https://www.clubedohardware.com.br/forums/topic/1693491-como-aumentar-a-vida-%C3%BAlti-da-minha-placa-m%C3%A3e-x99/?do=getNewComment "Como aumentar a vida últi da minha placa-mãe x99?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Luisgte](https://www.clubedohardware.com.br/profile/1250418-luisgte/ "Ir ao perfil de Luisgte")  
-        5 horas atrás
+        Por [Marcus pergunta](https://www.clubedohardware.com.br/profile/1235521-marcus-pergunta/ "Ir ao perfil de Marcus pergunta")  
+        2 horas atrás
         
     
 
@@ -282,7 +282,7 @@ Política de privacidade
         
     * ![Tabela comparativa dos chips Radeon da AMD (notebooks)](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_03/36443_icone.thumb.jpg.282dc0932c52c6fb2cff7c4fb1218a3e.jpg "Tabela comparativa dos chips Radeon da AMD (notebooks)")
         
-        3
+        4
         
         [Tabela comparativa dos chips Radeon da AMD (notebooks)](https://www.clubedohardware.com.br/artigos/video/tabela-comparativa-dos-chips-radeon-da-amd-notebooks-r36443/ "Tabela comparativa dos chips Radeon da AMD (notebooks)")
         
@@ -395,3 +395,5 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 **EBOOK GRÁTIS!**
 
 [**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+
+![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
