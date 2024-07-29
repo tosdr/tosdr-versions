@@ -14,7 +14,7 @@ This website requires JavaScript.
 
 Watch [38](https://codeberg.org/Codeberg/org/watchers)
 
-Star [56](https://codeberg.org/Codeberg/org/stars)
+Star [57](https://codeberg.org/Codeberg/org/stars)
 
 Fork
 
