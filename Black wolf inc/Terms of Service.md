@@ -37,17 +37,9 @@ Best Sellers
 
 [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
 
-[Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack-1)
+[Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
 
-Bundles & Sets
-
-[Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
-
-[Device Bundles](https://blackwolfnation.com/collections/device-collection)
-
-[Haircare Bundles](https://blackwolfnation.com/collections/hair-products)
-
-[Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-bundles)
+[Bundles & Sets](https://blackwolfnation.com/collections/bundle-collection)
 
 [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 
@@ -110,15 +102,9 @@ Your cart is empty
     * [WUSH™ PRO Ear Cleaner](https://blackwolfnation.com/products/wush)
     * [Charcoal Body Wash Liter](https://blackwolfnation.com/products/charcoal-body-wash-liter)
     * [Charcoal Face Wash](https://blackwolfnation.com/products/activated-charcoal-facewash)
-    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack-1)
+    * [Shampoo & Conditioner - 1 Liter Combo Pack](https://blackwolfnation.com/products/shampoo-conditioner-1-liter-combo-pack)
     
-* [Bundles & Sets](https://blackwolfnation.com/pages/bundle-shop)
-    
-    * [Acne Fighting System](https://blackwolfnation.com/products/level-1-body-acne-bundle-toiletry-bag)
-    * [Device Bundles](https://blackwolfnation.com/collections/device-collection)
-    * [Haircare Bundles](https://blackwolfnation.com/collections/hair-products)
-    * [Sonic Scrubber Bundles](https://blackwolfnation.com/collections/sonic-scrubber-bundles)
-    
+* [Bundles & SetsBundles & Sets](https://blackwolfnation.com/collections/bundle-collection)
 * [Sonic ScrubberSonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
 * [Wush Pro Ear CleanerWush Pro Ear Cleaner](https://blackwolfnation.com/products/wush)
 
@@ -190,7 +176,7 @@ Extra effective skincare for guys. Without the extra. A simple formula for bette
 Shop & Browse
 -------------
 
-* [All Products](https://blackwolfnation.com/collections/blackwolf_skincare)
+* [All Products](https://blackwolfnation.com/collections/individual-products)
 * [Why Black Wolf](https://blackwolfnation.com/pages/why-black-wolf)
 * [Our Story](https://blackwolfnation.com/pages/our-story-1)
 * [Privacy Policy](https://blackwolfnation.com/pages/privacy-policy)
