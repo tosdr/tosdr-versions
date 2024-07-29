@@ -277,7 +277,7 @@ Hoki99 adalah daftar situs [slot gacor](https://effdebate.org/) online terbaru d
 
 MADU303 adalah situs judi [slot](https://www.loulouswaterfront.com/) gacor hari ini yang menyediakan daftar rtp slot maxwin terbaru dengan pola konsep slot88 gampang menang terpercaya.
 
-Mansion77 adalah situs judi online terbaik & [slot online](https://www.lafayetteacademyno.org/) terpercaya tahun 2023. Bersama Agen Slot Gacor Slot88 anda bisa meraih jackpot maxwin slot hingga jutaan rupiah.
+Mansion77 adalah situs judi online terbaik & [slot online](https://pibeachcoma.com/) terpercaya tahun 2023. Bersama Agen Slot Gacor Slot88 anda bisa meraih jackpot maxwin slot hingga jutaan rupiah.
 
 [rtp roma77](https://orangroma.com/) adalah situs resmi roma slot pragmatic terbaik dan slot77 gacor terpercaya Indonesia, daftar roman77 slot sekarang juga.
 
