@@ -51,7 +51,7 @@
         * [Subtitled, Audio Described and Signed programming](https://www.channel4.com/4viewers/accessibility/subtitled-audio-described-and-signed-programming)
         * [BSL Interpreter Service](https://www.channel4.com/4viewers/accessibility/bsl-contact)
         * [Using Channel 4 Streaming, if you have a disability or impairment](https://www.channel4.com/4viewers/accessibility/using-our-video-demand-service)
-        * [Channel 4 Streaming Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-streaming-accessibility-statement)
+        * [Channel 4 Streaming Website Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-streaming-website-accessibility-statement)
         * [Channel 4 Streaming iOS App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/ios-digital-accessibility-statement)
         * [Channel 4 Streaming Android App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/android-digital-accessibility-statement)
         
@@ -72,6 +72,7 @@
         * [Love It or List It](https://www.channel4.com/4viewers/take-part/love-it-or-list-it)
         * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
+        * [Millionaire Hoarders](https://www.channel4.com/4viewers/take-part/millionaire-hoarders)
         * [Naked Attraction](https://www.channel4.com/4viewers/take-part/naked-attraction)
         * [A New Life in the Sun](https://www.channel4.com/4viewers/take-part/new-life-sun)
         * [Open House: The Great Sex Experiment](https://www.channel4.com/4viewers/take-part/open-house)
