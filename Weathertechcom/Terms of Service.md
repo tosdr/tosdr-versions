@@ -34,7 +34,7 @@ $
     
     Personalize your WeatherTech experience by selecting the make, year & model of your vehicle.
     
-    Select Make Acura Alfa Romeo Aston Martin Audi Bentley BMW Bugatti Buick Cadillac Chevrolet Chrysler Club Car Cushman Dodge EZGO Ferrari Fiat Ford Freightliner Genesis Geo GM GMC Honda Hummer Hyundai Ineos Infiniti International Isuzu Jaguar Jeep Kenworth Kia Lamborghini Land Rover / Range Rover Lexus Lincoln Lotus Lucid Mack Maserati Maybach Mazda McLaren Mercedes-Benz Mercury MINI Mitsubishi Nissan Oldsmobile Peterbilt Peugeot Plymouth Polestar Pontiac Porsche® RAM Rivian Rolls Royce SAAB Saturn Scion smart SRT Subaru Suzuki Tesla Toyota Volkswagen Volvo Western Star Yamaha Select Make
+    Select Make Acura Alfa Romeo Aston Martin Audi Bentley BMW Bugatti Buick Cadillac Chevrolet Chrysler Club Car Cushman Dodge EZGO Ferrari Fiat Ford Freightliner Genesis Geo GM GMC Honda Hummer Hyundai ICON Ineos Infiniti International Isuzu Jaguar Jeep Kenworth Kia Lamborghini Land Rover / Range Rover Lexus Lincoln Lotus Lucid Mack Maserati Maybach Mazda McLaren Mercedes-Benz Mercury MINI Mitsubishi Nissan Oldsmobile Peterbilt Peugeot Plymouth Polestar Pontiac Porsche® RAM Rivian Rolls Royce SAAB Saturn Scion smart SRT Subaru Suzuki Tesla Toyota Volkswagen Volvo Western Star Yamaha Select Make
     
     Select Year
     
