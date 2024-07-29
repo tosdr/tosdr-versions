@@ -10,10 +10,6 @@
 
 Dark mode
 
-English
-
-[Español](https://apkvision.es/terms-of-service/) [Russian](https://apkvision.ru/terms-of-service/)
-
 [Home](https://apkvision.org/)»Terms of Service
 
 Terms of Service
