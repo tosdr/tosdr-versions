@@ -7,7 +7,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Jul 19, 2024
+Last updated on Jul 26, 2024
 
 Privacy Policy
 --------------
