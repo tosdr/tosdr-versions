@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
     
-* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
+* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
     
-* [How to protect your data against WannaCry or ...](https://www.backup4all.com/how-to-protect-your-data-against-wannacry-or-other-ransomware-attack-kb.html)  
+* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
     
-* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
+* [How to back up data files from Backblaze usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-backblaze-using-backup4all-kb.html)  
     
 
 Choose language:
