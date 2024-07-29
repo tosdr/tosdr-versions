@@ -18,7 +18,7 @@ More
 
 [Dystopia](https://www.andreasvarro.com/dystopia)
 
-[Gallery - Commercial art](https://www.andreasvarro.com/advertising-photography)[Gallery - Visual Art](https://www.andreasvarro.com/gallery)[Public Exhibitions](https://www.andreasvarro.com/exhibitions)[pop-up Exhibitions for businesses](https://www.andreasvarro.com/pop-up-exhibition)[Contact](https://www.andreasvarro.com/contact)[Become a member](https://www.andreasvarro.com/sign-up)
+[Gallery - Visual Art](https://www.andreasvarro.com/gallery)[Gallery - Commercial art](https://www.andreasvarro.com/advertising-photography)[Public Exhibitions](https://www.andreasvarro.com/exhibitions)[pop-up Exhibitions for businesses](https://www.andreasvarro.com/pop-up-exhibition)[Contact](https://www.andreasvarro.com/contact)[Become a member](https://www.andreasvarro.com/sign-up)
 
 Log out
 
@@ -294,7 +294,7 @@ Log out
 
 Navigation
 
-[Staged photography](https://www.andreasvarro.com/l/staged-photography)[Constructed photography](https://www.andreasvarro.com/l/constructed-photography)[Surreal photography](https://andreasvarro.com/l/surreal-photography)[Conceptual photography](https://andreasvarro.com/l/conceptual-photography)
+[Shortcuts](https://www.andreasvarro.com/shortcuts)[Art Exhibition in Örebro](https://www.andreasvarro.com/art-exhibition-in-orebro)
 
 [Advertising photographer](https://www.andreasvarro.com/lp/reklamfotograf)
 
@@ -327,6 +327,14 @@ Navigation
 [Photographer Örebro](https://www.andreasvarro.com/lp/fotograf-orebro)
 
 [Photographer Stockholm](https://www.andreasvarro.com/lp/fotograf-stockholm)
+
+[Staged Photography](https://www.andreasvarro.com/l/staged-photography)
+
+[Constructed Photography](https://www.andreasvarro.com/l/constructed-photography)
+
+[Surreal Photography](https://www.andreasvarro.com/l/surreal-photography)
+
+[Conceptual photography](https://www.andreasvarro.com/l/conceptual-photography)
 
 [![](https://cdn.prod.website-files.com/61eb0c29b03a59986d1a4667/64f47bda75a40718257255cc_snap-to-top.svg)](#)
 
