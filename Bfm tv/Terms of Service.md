@@ -582,15 +582,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![Emmanuel Macron, le 24 juillet 2024](https://images.bfmtv.com/-k3uODp0QrMibT1-g_6o2j_OkUc=/0x0:1008x567/300x0/images/Emmanuel-Macron-1909514.jpg)
+1. [![Un TGV](https://images.bfmtv.com/77H5SN5Vx2p36rtBUhCH647lhHs=/0x40:768x472/300x0/images/Un-train-a-grande-vitesse-TGV-de-la-SNCF-sur-la-ligne-Paris-Bordeaux-au-niveau-de-Chartres-dans-le-nord-de-la-France-le-26-juillet-2024-1910575.jpg)
     
-    ![Emmanuel Macron, le 24 juillet 2024](https://images.bfmtv.com/-k3uODp0QrMibT1-g_6o2j_OkUc=/0x0:1008x567/300x0/images/Emmanuel-Macron-1909514.jpg)
+    ![Un TGV](https://images.bfmtv.com/77H5SN5Vx2p36rtBUhCH647lhHs=/0x40:768x472/300x0/images/Un-train-a-grande-vitesse-TGV-de-la-SNCF-sur-la-ligne-Paris-Bordeaux-au-niveau-de-Chartres-dans-le-nord-de-la-France-le-26-juillet-2024-1910575.jpg)
     
-    ### SONDAGE BFMTV. Six Français sur 10 favorables à "une trêve politique" pendant les JO](https://rmcsport.bfmtv.com/jeux-olympiques/sondage-bfmtv-six-francais-sur-10-favorables-a-une-treve-politique-pendant-les-jo_AN-202407250073.html "SONDAGE BFMTV. Six Français sur 10 favorables à "une trêve politique" pendant les JO")
-2. [### JO 2024: Aya Nakamura, Philippe Katerine, Juliette Armanet... le casting des stars se précise pour la cérémonie d'ouverture](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-le-casting-des-stars-se-precise-pour-la-ceremonie-d-ouverture_AP-202407240775.html "JO 2024: Aya Nakamura, Philippe Katerine, Juliette Armanet... le casting des stars se précise pour la cérémonie d'ouverture")
-3. [### Airbnb: les propriétaires parisiens ont-ils réussi à louer leur appartement à prix d'or pour les JO?](https://rmcsport.bfmtv.com/jeux-olympiques/business/airbnb-les-proprietaires-parisiens-ont-ils-reussi-a-louer-leur-appartement-a-prix-d-or-pour-les-jo_AV-202407250055.html "Airbnb: les propriétaires parisiens ont-ils réussi à louer leur appartement à prix d'or pour les JO?")
-4. [### Fin de C8: l'émission "TPMP" va-t-elle changer de chaîne?](https://www.bfmtv.com/people/tv/fin-de-c8-l-emission-tpmp-va-t-elle-changer-de-chaine_AN-202407240486.html "Fin de C8: l'émission "TPMP" va-t-elle changer de chaîne?")
-5. [### Les ministres démissionnaires sont-ils encore payés?](https://www.bfmtv.com/economie/les-ministres-demissionnaires-sont-ils-encore-payes_AV-202407240598.html "Les ministres démissionnaires sont-ils encore payés?")
+    ### Sabotages du réseau SNCF: "tous les trains" circulent "normalement" ce lundi](https://www.bfmtv.com/economie/entreprises/transports/sabotages-du-reseau-sncf-vergriete-assure-que-tous-les-trains-circulent-normalment-ce-lundi_AD-202407290114.html "Sabotages du réseau SNCF: "tous les trains" circulent "normalement" ce lundi")
+2. [### JO 2024: succès pour la flamme olympique, les 100.000 billets pour la voir réservés en moins de 24 heures](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-l-incroyable-succes-aupres-des-spectateurs-pour-l-envol-de-la-flamme-olympique_AV-202407290168.html "JO 2024: succès pour la flamme olympique, les 100.000 billets pour la voir réservés en moins de 24 heures")
+3. [### JO 2024 (gymnastique): une mauvaise chute à l’entraînement derrière le fiasco des gymnastes françaises?](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-gymnastique-une-mauvaise-chute-a-l-entrainement-derriere-le-fiasco-des-gymnastes-francaises_AV-202407290043.html "JO 2024 (gymnastique): une mauvaise chute à l’entraînement derrière le fiasco des gymnastes françaises?")
+4. [### Randonnée: comment bien s'équiper de la tête aux pieds?](https://rmc.bfmtv.com/conso/loisirs/randonnee-comment-bien-s-equiper-de-la-tete-aux-pieds_AN-202407280029.html "Randonnée: comment bien s'équiper de la tête aux pieds?")
+5. [### Canicule: 39 départements en vigilance orange, près de 40°C attendus localement](https://www.bfmtv.com/environnement/climat/canicule-39-departements-en-vigilance-orange-pres-de-40-c-attendus-localement_AV-202407290052.html "Canicule: 39 départements en vigilance orange, près de 40°C attendus localement")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
