@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5702 reviews (5702)
+5704 reviews (5705)
 
 £13.00 £24.00
 
@@ -55,7 +55,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5267 reviews (5267)
+5268 reviews (5268)
 
 £16.00 £23.00
 
@@ -83,7 +83,7 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2366 reviews (2367)
+2368 reviews (2368)
 
 £16.00 £23.00
 
@@ -157,7 +157,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-30 reviews (30)
+31 reviews (31)
 
 £6.00 £23.00
 
@@ -191,7 +191,7 @@ ADD TO TOTE
 
 ### [Watermelon Cucumber Water Locking Moisturizer](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
 
-93 reviews (93)
+96 reviews (96)
 
 £20.00
 
@@ -207,7 +207,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-1994 reviews (1994)
+1995 reviews (1995)
 
 £11.00 £22.00
 
@@ -247,7 +247,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-354 reviews (354)
+355 reviews (355)
 
 £6.00 £26.00
 
@@ -283,7 +283,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-185 reviews (185)
+186 reviews (186)
 
 £47.00
 
@@ -341,7 +341,7 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-378 reviews (378)
+380 reviews (380)
 
 £21.00
 
@@ -421,7 +421,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1544 reviews (1544)
+1549 reviews (1549)
 
 £17.00 £24.00
 
@@ -452,20 +452,6 @@ CHOOSE Color
 £47.00
 
 Default Title - £47
-
-ADD TO TOTE
-
-[![hydra-drench-cream](https://www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_239x254.png?v=1696526624)](https://www.100percentpure.com/products/hydra-drench-cream)
-
-![ 1FHDC_Primary](//www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_220x.png?v=1696526624)
-
-### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
-
-506 reviews (506)
-
-£39.00
-
-Default Title - £39
 
 ADD TO TOTE
 
