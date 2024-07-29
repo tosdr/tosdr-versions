@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/July-23-326x245.jpg)](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
+![](https://cwbchicago.com/wp-content/uploads/2021/12/Nokomis-Jefferson-and-recovered-gun-326x245.jpg)](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
 
-Lakeview
+Near West Side
 
-### [5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
+### [14 years for felon who got into Christmas Eve shoot-out with Chicago cops](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
 
-[July 24, 2024 4:19 AM](https://cwbchicago.com/2024/07)
+[July 28, 2024 6:08 AM](https://cwbchicago.com/2024/07)
 
-Police are investigating five robberies, some of which turned violent, that were reported early Tuesday morning in the Loop, Lincoln Park, and Lakeview.[](https://cwbchicago.com/2024/07/5-victims-reported-in-violent-robbery-spree-across-lakeview-lincoln-park-the-loop.html "5 victims reported in violent robbery spree across Lakeview, Lincoln Park, the Loop")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/07/Full-Auto-Experience-326x245.jpg)](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
-
-Citywide
-
-### [Chicago sues Glock (again) and adds gun stores as defendants](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
-
-[July 23, 2024 7:37 PM](https://cwbchicago.com/2024/07)
-
-The city of Chicago has filed a new lawsuit against firearm manufacturing company Glock, Inc., alleging that its pistols “are easy and inexpensive to modify into illegal machine guns.”[](https://cwbchicago.com/2024/07/chicago-sues-glock-again-and-adds-gun-stores-as-defendants.html "Chicago sues Glock (again) and adds gun stores as defendants")
+A man who got into a shootout with Chicago police officers on Christmas Eve 2021 has been sentenced to 14 years in prison for gun possession after a jury found him not guilty of trying to kill the cops.[](https://cwbchicago.com/2024/07/14-years-for-felon-who-got-into-christmas-eve-shoot-out-with-chicago-cops.html "14 years for felon who got into Christmas Eve shoot-out with Chicago cops")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2023/08/Tony-Davis-326x245.jpg)](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/Armani-Gilbert-326x245.jpg)](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
 
-Chinatown
+Loop
 
-### [Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
+### [Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
 
-[July 23, 2024 11:43 AM](https://cwbchicago.com/2024/07)
+[July 27, 2024 8:44 AM](https://cwbchicago.com/2024/07)
 
-A Chicago man has been handed a 13-year sentence after pleading guilty to committing six robberies and a carjacking in a single night.[](https://cwbchicago.com/2024/07/man-gets-13-years-for-committing-6-robberies-and-a-carjacking-in-one-night-i-am-going-to-shoot-you-little-girl.html "Man gets 13 years for committing 6 robberies and a carjacking in one night; ‘I am going to shoot you, little girl’")
+An 18-year-old man was ordered detained as a safety risk after he allegedly displayed a machine gun while filming a music video on the Chicago Riverwalk.[](https://cwbchicago.com/2024/07/man-displayed-machine-gun-while-filming-music-video-on-chicago-riverwalk-prosecutors.html "Man displayed machine gun while filming music video on Chicago Riverwalk: prosecutors")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/07/JH343528-suspects-and-Briana-Bush-326x245.jpg)](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
+
+CTA
+
+### [1 charged, 4 escape after sleeping man is mugged on the Red Line](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
+
+[July 27, 2024 7:59 AM](https://cwbchicago.com/2024/07)
+
+Charges have been filed against one person, but four more suspects remain at large after a man was mugged on the Red Line at 95th Street, police say.[](https://cwbchicago.com/2024/07/1-charged-4-escape-after-sleeping-man-is-mugged-on-the-red-line.html "1 charged, 4 escape after sleeping man is mugged on the Red Line")
 
 Search
 
