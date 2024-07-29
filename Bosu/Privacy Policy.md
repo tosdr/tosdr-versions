@@ -162,36 +162,16 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 * Free shipping over $100 📦
-* 🎄CHRISTMAS IN JULY - [$99 BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-home-balance-trainer "BOSU® Home Balance Trainer")🎄
-* 💥48-HOUR FLASH SALE💥
 
 Privacy policy
 ==============
