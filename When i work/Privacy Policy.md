@@ -1,5 +1,7 @@
 [![When I Work Logo - To Home Page](https://marketing-assets.wheniwork-production.com/2019/08/15163825/logo.svg)](https://wheniwork.com/ "When I Work - Home")[Blog](https://wheniwork.com/blog "When I Work - Blog Home")
 
+Start Free Trial
+
 Open Menu
 
 * Features
@@ -72,7 +74,8 @@ Open Menu
     
 * [Pricing](https://wheniwork.com/pricing "When I Work - Pricing")
 * [Create Account](https://wheniwork.com/signup)
-
+* Start Free Trial
+    
 * Schedule Demo
 * [Log In](https://login.wheniwork.com/)
 
