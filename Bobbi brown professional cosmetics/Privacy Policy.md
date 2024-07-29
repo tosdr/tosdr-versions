@@ -2,6 +2,8 @@
 
 Previous
 
+[Up to 40% Off Lipstick Shop now](https://www.bobbibrowncosmetics.com/products/2342/Makeup/Lips/Lip-Color)
+
 [Pick 5 mini items on $85+ after checkout. Plus, get a Makeup Bag on $100+. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
@@ -220,6 +222,8 @@ Fragrance
 
 Trending
 
+ [40% OFF Lipsticks](https://www.bobbibrowncosmetics.com/products/2342/Makeup/Lips/Lip-Color)
+
  [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
  [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
@@ -227,16 +231,6 @@ Trending
  [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
 
  [CHAT WITH A MAKEUP ARTIST](https://www.bobbibrowncosmetics.com/beauty-chat)
-
- [SPECIAL OFFERS](https://www.bobbibrowncosmetics.com/offers-landing-page) SPECIAL OFFERS 
-
-SPECIAL OFFERS
-
-[See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
-
-[Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
-
-[Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
  [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
