@@ -378,6 +378,12 @@ ASSIGNMENT
 
 You may not assign, delegate, or transfer these Terms or your rights or obligations hereunder, or your Services account, in any way (by operation of law or otherwise) without Compass' prior written consent. We may transfer, assign, or delegate these Terms and our rights and obligations without consent.
 
+  
+
+MESSAGING AND COMMUNICATIONS
+
+We're mindful of minimising the number of communications you receive and adhering to our obligations under communication and SPAM rules and regulations. Where possible we will try to provide options for methods of contact (eg Push, Email, SMS and post). Should you receive any communications which are incorrect or invalid, please contact us at support@compass.education. We will not share your contact details with third parties and will send all relevant emails from @compass.education, @griddle.education, @compasstix.com or @compass.mail domains - where possible we will try and prefix the sender of these emails to detail the type of content you are receiving. We may also vary the reply-to field within the message header, to redirect any response to the relevent sender, rather than an unmonitored mailbox. 
+
 JURISDICTION
 
 Please note that  for users in Australia and New Zealand these terms of use, their subject matter and their formation, are governed by Australian law. You and We both agree that the courts of Australia will have exclusive jurisdiction.
