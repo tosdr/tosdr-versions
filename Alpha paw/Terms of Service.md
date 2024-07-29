@@ -237,7 +237,7 @@ Apply
     
     2 colors
     
-    6463 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6464 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -261,7 +261,7 @@ Apply
     
     2 colors
     
-    6463 total reviews
+    6464 total reviews
     
 * On sale
     
