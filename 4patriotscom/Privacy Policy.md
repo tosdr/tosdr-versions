@@ -1,6 +1,6 @@
-[🎄 15% OFF Best-Selling Lights for Christmas in July
+[🎄 Buy 1 Generator, Get 4 Power Cells & Sidekick FREE
 
-Shop Now >>](https://4patriots.com/collections/lighting-best-sellers?tab=products&sort_by=sales_amount&page=1?position=announcementbar&collection=lightingbestsellers)
+Shop Now >>](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels?position=announcementbar&collection=ppgsx)
 
 [![Black company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
@@ -31,19 +31,19 @@ We Champion Freedom & Self-Reliance
         
         ###### "Supercharge" Patriot Power Generator 1800 + Sidekick Package
         
-        683 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        684 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
         [![ Patriot Power Solar Generator 2000X & Solar Panel](//4patriots.com/cdn/shop/files/PPG-2KX-2406-PDP-ARRAY-1024X1024_360x.jpg?v=1720536148)
         
         ###### Patriot Power Solar Generator 2000X & Solar Panel
         
-        62 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        63 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3303 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3305 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -51,7 +51,7 @@ We Champion Freedom & Self-Reliance
     New Arrivals
     
     * [Ultimate Portable Power Station Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
-    * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
+    * [3-Month Survival Food Kit PlatinumXL ($100 OFF)](https://4patriots.com/products/3-month-platinum-survival-food-kit)
     * [Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [Patriot Pure Nanomesh™ Water Filter](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
@@ -101,7 +101,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3303 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3305 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
@@ -126,7 +126,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Solar Generator 2000X & Solar Panel
         
-        62 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        63 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
         
@@ -235,7 +235,8 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
-    * [💡 15% OFF Lighting Best-Sellers](https://4patriots.com/collections/lighting-best-sellers)
+    * [🎄 FREE 4-Pack Patriot Power Cell Banks](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+    * [$100.00 OFF 3-Month XL Food Kit](https://4patriots.com/products/3-month-platinum-survival-food-kit)
     * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
     * [$50.00 OFF Solar Go-Fridge](https://4patriots.com/products/solar-go-fridge)
@@ -245,23 +246,23 @@ We Champion Freedom & Self-Reliance
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
-    * [![ "Supercharge" Patriot Power Generator 1800 + Sidekick Package](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
+    * [![ "Ultracharge" Patriot Power Generator 2000X + Sidekick Package](//4patriots.com/cdn/shop/files/PPGSX-2406-PDP-ARRAY-1024x1024_360x.jpg?v=1720623565)
+        
+        ###### "Ultracharge" Patriot Power Generator 2000X + Sidekick Package
+        
+        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+        
+        [![ "Supercharge" Patriot Power Generator 1800 + Sidekick Package](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
         ###### "Supercharge" Patriot Power Generator 1800 + Sidekick Package
         
-        683 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        684 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
         [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
         ###### Food & Fire Emergency Cooking Bundle
         
         9 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
-        
-        [![ Solar Go-Fridge 3-in-1 Portable Fridge With Battery & Solar Panel](//4patriots.com/cdn/shop/files/1-ARRAY-SGF-FAF-1024x1024-WB_dfde2a53-12f2-4908-a092-01eec6c7568b_360x.png?v=1717536617)
-        
-        ###### Solar Go-Fridge 3-in-1 Portable Fridge With Battery & Solar Panel
-        
-        78 reviews](https://4patriots.com/products/solar-go-fridge)
         
     
 * [Learn](https://4patriots.com/blogs/news)
