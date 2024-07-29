@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
+* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
     
-* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
+* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
     
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
     
-* [How to backup your data to NiftyClouds](https://www.backup4all.com/how-to-backup-your-data-to-niftyclouds-kb.html)  
+* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 6](https://www.backup4all.com/using-backup4all-faq-6-kb.html)  
+* [How to back up data files from vCloud Air usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-vcloud-air-using-backup4all-kb.html)  
     
 
 Choose language:
