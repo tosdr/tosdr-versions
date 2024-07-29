@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Anumita and Samuel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Anuroopa & Vishal](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Anumita and Samuel](https://image.wedmegood.com/resized/250X/uploads/images/5ff38c8f848441caa557e89cb94d3db0realwedding/Anu&Sam_ParthGarg-06765.jpg?crop=360,1241,1633,918)
+![Anuroopa & Vishal](https://image.wedmegood.com/resized/250X/uploads/images/a53c734198844153a239d66de98b1975realwedding/0054DSC05966.jpg?crop=204,1637,1633,918)
 
-Anumita and Samuel (Jaipur)](https://www.wedmegood.com/real_wedding/detail/anumita-and-samuel-jaipur-cross-culture-wedding-4340)
+Anuroopa & Vishal (Jodhpur)](https://www.wedmegood.com/real_wedding/detail/anuroopa-vishal-jodhpur-cross-culture-wedding-4350)
 
-[![Rahul and Shally](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Pragna and Sahil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Rahul and Shally](https://image.wedmegood.com/resized/250X/uploads/images/f150095d088f437b8f5ded94dcd1b645realwedding/WN_SR_06_Wedding_295.jpg?crop=227,350,1626,915)
+![Pragna and Sahil](https://image.wedmegood.com/resized/250X/uploads/images/50d55a07847f49d5b833dccab372ad2crealwedding/IMG-20240621-WA0044.jpg?crop=178,192,1269,713)
 
-Rahul and Shally (Udaipur)](https://www.wedmegood.com/real_wedding/detail/rahul-and-shally-udaipur-cross-culture-wedding-4339)
+Pragna and Sahil (Thailand)](https://www.wedmegood.com/real_wedding/detail/pragna-and-sahil-thailand-cross-culture-wedding-4349)
 
 Browse by Category
 
