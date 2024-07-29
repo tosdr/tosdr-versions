@@ -272,6 +272,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Handle a Car That’s Hydroplaning](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-start-a-fire-with-a-water-bottle/)
+
+[Skill of the Week: Start a Fire With a Water Bottle](https://www.artofmanliness.com/skills/outdoor-survival/how-to-start-a-fire-with-a-water-bottle/)
+
 [![A man is attacking an alligator with his foot in order to survive.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-an-alligator-attack/)
 
 [Skill of the Week: Survive an Alligator Attack](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-an-alligator-attack/)
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a man in a hat crawling through quicksand, with a pained expression on his face.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-quicksand-an-illustrated-guide/)
 
 [Skill of the Week: Escape From Quicksand](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-quicksand-an-illustrated-guide/)
-
-[![A hand gently touches a tinder bundle, depicted in a black and white sketch.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/make-tinder-bundle/)
-
-[Skill of the Week: Make a Tinder Bundle](https://www.artofmanliness.com/skills/outdoor-survival/make-tinder-bundle/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
