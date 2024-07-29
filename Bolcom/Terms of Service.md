@@ -26,7 +26,7 @@
     * [Cadeaubonnen](https://www.bol.com/nl/nl/sf/cadeaubon-bestellen/ "Cadeaubonnen")
     
     * Shop de Look
-    * [Huis](https://www.bol.com/nl/nl/sdl/wonen/huis/4 "Huis")
+    * [Huis](https://www.bol.com/nl/nl/sdl/wonen/8 "Huis")
     * [Damesmode](https://www.bol.com/nl/nl/sdl/mode/dames/1 "Damesmode")
     * [Herenmode](https://www.bol.com/nl/nl/sdl/mode/heren/2 "Herenmode")
     * [Kindermode](https://www.bol.com/nl/nl/sdl/mode/kinderen/3 "Kindermode")
@@ -80,7 +80,10 @@
     * [Entertainmentdeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=3133&sid=3132&sid=3135&sid=10596&sid=10596 "Entertainmentdeals")
     * [Beautydeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=43228&sid=43228&sid=12442&sid=12541&sid=12542 "Beautydeals")
     
-    * [Korting op je lijstje? krijg een seintje](https://www.bol.com/nl/nl/sf/slim-shoppen-voordeelseintje/ "Korting op je lijstje? krijg een seintje")
+    * [Hitte](https://www.bol.com/nl/nl/sf/hitte/ "Hitte")
+    * [De heetste deals op airco's en ventilatoren](https://www.bol.com/nl/nl/ra/profiteer-van-de-heetste-deals-op-airco-s-en-ventilatoren/350797/ "De heetste deals op airco's en ventilatoren")
+    * [Vanaf 20% korting\* op koelboxen & -elementen](https://www.bol.com/nl/nl/l/koelboxen-elementen-vanaf-20/15306+58876/ "Vanaf 20% korting* op koelboxen & -elementen")
+    * [Tot 20% korting\* op zonwering en partytenten](https://www.bol.com/nl/nl/l/zonwering-aanbiedingen/13024+13029+58334/ "Tot 20% korting* op zonwering en partytenten")
     
     \* op de adviesprijs
     
