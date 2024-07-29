@@ -561,113 +561,107 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![The Sims 4 - Get Famous Expansion Pack PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4gf.jpg)   No 1. \-69%](https://www.cdkeys.com/pc/the-sims-4-get-famous-pc-cd-key-origin)
+1.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 1. \-27%
     
-    **[The Sims 4 - Get Famous Expansion Pack PC](https://www.cdkeys.com/pc/the-sims-4-get-famous-pc-cd-key-origin "The Sims 4 - Get Famous Expansion Pack PC")**
+    DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea)
     
-    Special Price £10.99 RRP £34.99
+    **[ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![The Sims 4 - Eco Lifestyle PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4els.jpg)   No 2. \-69%](https://www.cdkeys.com/pc/the-sims-4-eco-lifestyle-origin-pc)
-    
-    **[The Sims 4 - Eco Lifestyle PC](https://www.cdkeys.com/pc/the-sims-4-eco-lifestyle-origin-pc "The Sims 4 - Eco Lifestyle PC")**
-    
-    Special Price £10.99 RRP £34.99
+    Special Price £25.49 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![The Sims 4 Seasons PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4sneo.jpg)   No 3. \-69%](https://www.cdkeys.com/pc/the-sims-4-seasons-expansion-pack-pc-origin-cd-key)
+2.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 2. \-58%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
     
-    **[The Sims 4 - Seasons Expansion Pack PC](https://www.cdkeys.com/pc/the-sims-4-seasons-expansion-pack-pc-origin-cd-key "The Sims 4 - Seasons Expansion Pack PC")**
+    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
     
-    Special Price £10.99 RRP £34.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![The Sims 4 - High School Years Expansion Pack PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4hsy.jpg)   No 4. \-68%
-    
-    DLC](https://www.cdkeys.com/pc/the-sims-4-high-school-pack-pc-dlc-origin)
-    
-    **[The Sims 4 - High School Years Expansion Pack PC - DLC](https://www.cdkeys.com/pc/the-sims-4-high-school-pack-pc-dlc-origin "The Sims 4 - High School Years Expansion Pack PC - DLC")**
-    
-    Special Price £10.99 RRP £33.99
+    Special Price £16.99 RRP £39.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![The Sims 4 - Cottage Living PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4cl.jpg)   No 5. \-69%](https://www.cdkeys.com/pc/the-sims-4-cottage-living-pc-origin)
+3.    [![Black Myth: Wukong PC](https://cdn.cdkeys.com/245x340/media/catalog/product/b/l/black-myth-wukong-steam.jpg)   No 3. \-16%
     
-    **[The Sims 4 - Cottage Living PC](https://www.cdkeys.com/pc/the-sims-4-cottage-living-pc-origin "The Sims 4 - Cottage Living PC")**
+    Pre-order](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam)
     
-    Special Price £10.99 RRP £34.99
+    **[Black Myth: Wukong PC](https://www.cdkeys.com/pc/black-myth-wukong-pc-steam "Black Myth: Wukong PC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![The Sims 4 Growing Together Expansion Pack PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4gt.jpg)   No 6. \-69%
-    
-    DLC](https://www.cdkeys.com/pc/the-sims-4-growing-together-expansion-pack-pc-dlc-origin)
-    
-    **[The Sims 4 Growing Together Expansion Pack PC - DLC](https://www.cdkeys.com/pc/the-sims-4-growing-together-expansion-pack-pc-dlc-origin "The Sims 4 Growing Together Expansion Pack PC - DLC")**
-    
-    Special Price £10.99 RRP £34.99
+    Special Price £41.99 RRP £49.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![The Sims 4 : Horse Ranch Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims4hr.jpg)   No 7. \-57%
+4.    [![Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-12t171950.016.jpg)   No 4. \-51%](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam)
     
-    DLC](https://www.cdkeys.com/pc/the-sims-4-horse-ranch-expansion-pc-dlc-ea-app)
+    **[Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam "Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC")**
     
-    **[The Sims 4 : Horse Ranch Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-horse-ranch-expansion-pc-dlc-ea-app "The Sims 4 : Horse Ranch Expansion PC/Mac")**
-    
-    Special Price £14.99 RRP £34.99
+    Special Price £35.99 RRP £73.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-8.    [![The Sims 4 : For Rent Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-05t140150.888.jpg)   No 8. \-57%
+5.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 5. \-65%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
     
-    DLC](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app)
+    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
     
-    **[The Sims 4 : For Rent Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app "The Sims 4 : For Rent Expansion PC/Mac")**
-    
-    Special Price £14.99 RRP £34.99
+    Special Price £13.99 RRP £39.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck_expansion_pack_1_1.jpg)   No 9. \-20%
+6.    [![7 Days to Die PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_13_.jpg)   No 6. \-61%](https://www.cdkeys.com/pc/7-days-to-die-pc-steam-cd-key)
     
-    DLC](https://www.cdkeys.com/xbox-live/the-sims-4-lovestruck-expansion-pack-xbox-eu)
+    **[7 Days to Die PC](https://www.cdkeys.com/pc/7-days-to-die-pc-steam-cd-key "7 Days to Die PC")**
     
-    **[The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/the-sims-4-lovestruck-expansion-pack-xbox-eu "The Sims 4 Lovestruck Expansion Pack Xbox (Europe & UK)")**
-    
-    Special Price £26.99 RRP £33.59
+    Special Price £14.99 RRP £37.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-10.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 10. \-32%
+7.    [![Mortal Kombat 1 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dadas.jpg)   No 7. \-70%](https://www.cdkeys.com/pc/mortal-kombat-1-pc-steam)
+    
+    **[Mortal Kombat 1 PC](https://www.cdkeys.com/pc/mortal-kombat-1-pc-steam "Mortal Kombat 1 PC")**
+    
+    Special Price £17.99 RRP £59.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![Manor Lords PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/a/manor_lords_pc.jpg)   No 8. \-35%](https://www.cdkeys.com/pc/manor-lords-pc-steam)
+    
+    **[Manor Lords PC](https://www.cdkeys.com/pc/manor-lords-pc-steam "Manor Lords PC")**
+    
+    Special Price £15.49 RRP £23.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 9. \-33%
     
     DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
     
     **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
     
-    Special Price £22.99 RRP £33.99
+    Special Price £22.79 RRP £33.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+10.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 10. \-79%](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
+    
+    **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
+    
+    Special Price £18.49 RRP £89.99
     
     [Add to Wish List](# "Add to Wish List")
     
