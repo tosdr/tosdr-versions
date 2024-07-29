@@ -54,11 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Kamala Coronation](https://www.breitbart.com/tag/kamala-harris/)
-* [Cheatle Resigns](https://www.breitbart.com/tag/secret-service/)
-* [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
-* [Netanyahu in D.C.](https://www.breitbart.com/tag/benjamin-netanyahu/)
-* [Global IT Outage Fallout](https://www.breitbart.com/tag/crowdstrike/)
+* [Kamala Coverup](https://www.breitbart.com/tag/kamala-harris/)
+* [Woke Olympics](https://www.breitbart.com/tag/olympics/)
+* [Israel Terror Attack](https://www.breitbart.com/tag/israel/)
+* [Wide Open Border](https://www.breitbart.com/tag/illegal-immigration/)
+* [Bideninflation](https://www.breitbart.com/tag/inflation/)
 
 Terms of Use
 ============
