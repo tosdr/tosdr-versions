@@ -16,8 +16,6 @@ _menu_
 *    
     
 
-Dart 3.4 is live! Check out the [blog post](https://medium.com/dartlang/dart-3-4-bd8d23b4462a).
-
 * [Overview](https://dart.dev/overview)
 * [Community](https://dart.dev/community)
 * [Try Dart](https://dartpad.dev/)
