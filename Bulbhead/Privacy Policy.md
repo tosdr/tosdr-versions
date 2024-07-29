@@ -1,4 +1,4 @@
-               Security Policy – BulbHead                                                                              [Skip to content](#MainContent)
+               Security Policy – BulbHead                                                                               [Skip to content](#MainContent)
 
     
 
@@ -35,9 +35,9 @@ New customer? [start here](https://www.bulbhead.com/account/register)
 * [Contact Us](https://www.bulbhead.com/pages/contact-us)
 * [FAQs](https://www.bulbhead.com/pages/faqs)
 
-[Cart
+Cart
 
-00 items](https://www.bulbhead.com/cart)
+00 items
 
 [Shop All](https://www.bulbhead.com/collections/shop-all)
 
@@ -250,6 +250,22 @@ Only 15 units left! Grab yours
 now before they're gone.
 
 [Continue Shopping](#) [No, Thanks](#)
+
+#### Here's Your Cart So Far
+
+#### Your cart is empty!
+
+Add your favorite items to your cart.
+
+[Shop Now](https://www.bulbhead.com/collections/all)
+
+100% secure online payments
+
+Subtotal
+
+$0.00
+
+Checkout Continue Shopping
 
 Your wishlist
 -------------
