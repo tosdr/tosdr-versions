@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Image shows left to right: Benny Hill, Dennis Kirkland](https://cdn.comedy.co.uk/images/library/misc/300x200/b/benny_hill_dennis_kirkland.jpg "Image shows left to right: Benny Hill, Dennis Kirkland")](https://www.comedy.co.uk/features/comedy_chronicles/a-dubious-double-act-benny-hill-and-dennis-kirkland/) Features
+
+[Comedy Chronicles: A dubious double act: Benny Hill and Dennis Kirkland](https://www.comedy.co.uk/features/comedy_chronicles/a-dubious-double-act-benny-hill-and-dennis-kirkland/)
+
 [![Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/nothing_but_the_best.jpg "Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated")](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/) Competitions
 
 [Win Nothing But The Best on Blu-ray](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Geoff Norcott](https://cdn.comedy.co.uk/images/library/people/300x200/g/geoff_norcott_2017.jpg "Geoff Norcott")](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/) Radio
 
 [Geoff Norcott chats to BCG](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/)
-
-[![Steffan Alun](https://cdn.comedy.co.uk/images/library/people/300x200/s/steffan_alun.jpg "Steffan Alun")](https://www.comedy.co.uk/live/random8/steffan-alun/) Live
-
-[Random 8: Steffan Alun](https://www.comedy.co.uk/live/random8/steffan-alun/)
 
 #### Subscribe to our newsletters
 
