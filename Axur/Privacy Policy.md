@@ -1,4 +1,4 @@
-[Blog](https://blog.axur.com/en)[My account](https://one.axur.com/)
+[Blog](https://blog.axur.com/en)[Log in](https://one.axur.com/)
 
 [![Três barras de cor laranja e escrito axur em preto](https://cdn.prod.website-files.com/61e1949f83dad6619067b896/63c00228e38261658895398f_logo-white.svg)](https://axur.com/en-us/home)
 
@@ -96,7 +96,7 @@ View dashboard
         Remova conteúdos infratores, golpes e fraudes da internet](https://watchdog.axur.io/)
     * [Threat Report
         
-        Remova conteúdos infratores, golpes e fraudes da internet](https://axur.com/en-us/threat-report)
+        Remova conteúdos infratores, golpes e fraudes da internet](https://axur.com/en-us/form/threat-report)
     
     Tools
     
@@ -105,7 +105,7 @@ View dashboard
         Monitor the creation of fake domains using your company’s name](https://watchdog.axur.io/)
     * [Threat Report
         
-        Discover the risks that may be exposing your organization](https://axur.com/en-us/threat-report)
+        Discover the risks that may be exposing your organization](https://axur.com/en-us/form/threat-report)
     
 * About Us
     
