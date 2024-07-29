@@ -1,5 +1,7 @@
           [Skip to content](#main-content)
 
+[Exclusive Bundle: Dante Premium + All Panels + 3 Years of Updates at 40% off!](https://us.dantelabs.com/products/whole-genome-sequencing?variant=41488807100482)
+
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
