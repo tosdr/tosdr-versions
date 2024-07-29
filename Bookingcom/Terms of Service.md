@@ -1,6 +1,6 @@
 [Skip to main content](#maincolumn)
 
-[](https://www.booking.com/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&click_from_logo=1)
+[](https://www.booking.com/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&click_from_logo=1)
 
 GBP Choose your currency. Your current currency is Pound sterling
 
@@ -10,36 +10,34 @@ https://cf.bstatic.com/static/img/flags/new/48-squared/gb/daba79fdd4066d133e8bf5
 
 Choose your language. Your current language is English (UK)
 
-[Get help with your reservation](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&source=header&src=header_question_mark "Contact Customer Service")
+[Get help with your reservation](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&source=header&src=header_question_mark "Contact Customer Service")
 
-[List your property](https://join.booking.com/?lang=en-gb&utm_source=topbar&utm_medium=frontend&amp;label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&amp;aid=304142)
+[List your property](https://join.booking.com/?lang=en-gb&utm_source=topbar&utm_medium=frontend&amp;label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&amp;aid=304142)
 
-[Register](https://account.booking.com/auth/oauth2?state=Up4DNZtYBatdXhmW00jn_xICKoFCgeqOYUb4WP4dlHDJ90BbrLiZMEn_u8QYGNRMJDka-whjnEW1zF3cA7YZbcLculH8mlyKwnXWKQzK11NBbEmxIei0TIynGCBS1VrQT6vkrl52CAEzReBLRMsf2qmxu14t46vE8z6EHdTI1x65nM39IuZBKVNH2pdSU9Rp05wClMbNq2Bs-g05fj0D1eyFnxBfITjE3MbdvLCfeUWIGvAXzUyMwglD0MMlUgVAKa7Yj9y3RtXLMNz3qPLE_Y_qHDKsKMMqBy3WqFKFJBICAO4tVF10oqP22vDaCAtLY8v3Rsv9G0eAF-YQVmCFu2VDDRTO3OaZieNOAfTwO7qG27_dqyY2VU5oRUaKNbYsgM0_jYA04A0EYxqHMedV5PaxGm6STdrhuE_YYPL3sjK_5RWjSyDeMc8IMQAtiwiPzPAzQE-5y286pFbYPQ2j2fb5PTL0cQC3tV0Ms7tN-OWYCOrJ82dhFFZGG_4y_CewukaH3TNpu7QtGgtSYYCVwTVfhA-7SriTbJK5zU_cG3aZ&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&bkng_action=content&lang=en-gb&prompt=register&dt=1721972744)
+[Register](https://account.booking.com/auth/oauth2?state=Up4DeI97XG0RlGhHFPz_g78JziodVrRa6ro9XSNk554lkyLQA4luoG6r6djivcTwsZZq9CeRNq6SapIVd73IMySDXFIYu-sPu21GXvfMWmMctDAyD_g_oAXoZJn0uY0vtdxCCm6tUyYY6vjE9si1ZrI3L6pmt4THggkyXsC1t-Uh9nBsqqv7DFdznMbratRPpqctmUE4wwRfqYN8CwR_dSa0vFOeIAMwnYEUgG-YV8v4D50ohwXXpo17EnWvS87Ew63_K4sGkSAO8JiGgkWxydAIXaVP29sEQJjL8GEIKiHdpJ_PKmk4hBRI94-4UaFTacCU55Hv6aFxDCQSrGIB-8wgEtYnFOQ23U-QXPyo7NgBif8eyEO4lM4-vLGuaDVERaQAWiFbANj5zQXe3rv7VNddOiTEBcQuFAYide56dp8dPLuHTUxiYJuyUIPJJuqtm3u2JP2bVOXomL8KVuPMRWgOXR2jgIykc4IqUrcivejPiwu80g40OLb9_nMpwKUH3m0vmo-Gj3kb8h1fbJFcYqutPmUxbnpFXHJzW8SR8eXY&aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=sso&prompt=register&bkng_action=content&dt=1722265648&lang=en-gb)
 
-[Sign in](https://account.booking.com/auth/oauth2?dt=1721972744&lang=en-gb&bkng_action=content&client_id=vO1Kblk7xX9tUn2cpZLS&aid=304142&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=sso&state=Up4DNZtYBatdXhkQEHcx0xXFEegqqMukpkXQoEOzbBAEQ1lksYwOyja0VJrzEdT3kvUDO5GPSrS8U51S6xinBRWLmZ4m0oe9h8bV6vwlP6sSbhWFeowcVRLigAeuaUEn5cmsLgTeZiK7C0bQ3O9x_NlQHKFWdbvXYu9YMppO3UnVBliaueFs-3GPG1mifRFBLVB9n1dURi7H0MgD380bv7_rak2MTI1_tmL1cJMEQ9U8jn-7fe5Dg47kpVpzdfuA91zBqrv6DzHpXiQB0IC95-JTBBVnLaELKryLy2QSVLOiS6_pVBefB_DMXbkFx8AmobBLAmAOht6GrKZJ_ksNbtQgtA5aYN2ITseYf7LkddrOL6Ns8VA02cwE2PglxIKiNw8xxhlC3_S_D0rHoGDawvdv5xzdzV2Wv_DKbu6K1qC1v71azhKQ1ewcLnO2CTVZR0c3TjOsO5_eqK7HQl69gWPVL5F_vU5fIM-vYZphy0UfO7R3dw7BxXGh5GWMmezKGMhwMtzhS7Q2QuVNvmOWTiYugCpomPkDkK-DJ_Ww5ONN)
+[Sign in](https://account.booking.com/auth/oauth2?aid=304142&state=Up4DeI97XG0RlGiPSKU3OY-ZS9YrJPkfOU4Y3DApT2y4lehOrdjLZuAGd-qAGNhyAH4-YEf2g31qe2q3MpkBkXyovLwjEispv4N94vFeFSl-4coliWcZMzLAJuvVfmTlEVkTneax-FV8tFYAo040PLpS2hlS0aEwuKKoZOd15NqupOY4kw48GhQ8-rtNFcqHgzm53mAQDMmoylRuCwlseGAf1y5CvpCvH0o20xXVMgjAAcbcB6ANEBUXQvopzpczZsfznJHd0bPaa3M0D3V_8M5brGLcDYJECNoD4MVY3umaWJzats0nhJ5J9Leqfi24FqZANOKJwupLIk3oUgFtszTSmfJkoia89WoGj-zkrprqnGPdci9CdwReP3LnuasUSVKnQ-OkwsIHMF9uoKYH-wjH8ykCi6U3Jpn39uxtZZOmceJJfZs5PvrgscZyDjWTPW4MLgSzEuyd9nbN9JNwOzgS7m7rZCuHrT2FvKwzG9Z8ChRtDUCqh-q_ShSKDhigj06hiP5vUF6n9j1RSnQE-ZybDLmzkmdMibGeDN_LEU5z&bkng_action=content&lang=en-gb&dt=1722265648&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS)
 
-* [Stays](https://www.booking.com/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Flights](https://booking.com/pxgo?aid=304142&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&token=UmFuZG9tSVYkc2RlIyh9YXYkRVs_GG8EPfbmdOjJomvyvKLH1nQ4oMVcnA2uXGMVZiEYkawYMEo3_iQ-UMZ4d-MevyXNg4xsvDpAAdPYLJOBJbBDPlbBJCgq-UkxJUbbY_4l3srnuy2OJ4nm7hw9uqYHYSgmxbO0kJi0jKHs5SPTYuWgY7PGvsP053186sMctIv4zfSfdYKReVfVh2u8lrzvKgJ28pLKOkOTqudipIlLFR1C7XbR0xrMICRWOfRRqgsOqZTldTO1wqOHt2pI5_pYWPtHWOGt42ec81YFubwJBKqC0PrPIUD8k2X-Wf6w9v9rN31cO3EJLvqrOfiTVFOc1T7PaBXnwbBByNSypknNL_qR0fr_9DWqKVfROlP6G1V7PHhA9vIAOq6kdC1l_sUwuDpjESpLSMOF2kgNUbatJ_6nWYllNJJPtJCpw9rlRYc47SoxdgMfif6PSfHKNX6JBmwF1O0H3t_uhVfju6SMQqk98qCaqReqsFB5flU8Q7uQ9Zn-EGA&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fsid%3Dab4df5c6406adad36045a243a3fd7a2c%26a%3Dbdc%252Fsearchbox%26p%3Dsearchbox_link%26bdclc%3Den-gb%26mc%3DGBP&lang=en)
-* [Flight + Hotel](https://booking.com/pxgo?token=UmFuZG9tSVYkc2RlIyh9YQCDNEDqnGbduUlpDLFWQrLhAkrlJAQvkt7AnBiv16AgswN3N-pqM1eNfCc9cUXHERg_GMG6V4_2gm9fMdo87E_XPGcg4ho6tgO6g5u-WksS6biu9RmHamH43wbZ3wgy7Ij1a797_KasdoxdH8K1LAbkMihhCSwjFS4CKjMMLokWZEEcFfpbh_uZbotsk7jNn85SjXdHYxZgYgBeiuC3T2w48jIlVd_UbZmZJIhngyQO3bBUsz6qoY6pwV92XDjZE5Nx0ezG2gWQ3GJBWodhjcCRezs6XG9lqJCNoaxZQP-c5obs10BY5DvPAJcBxiYRLht3M68oJVwYW2pma9NNQgOnNy7AI7NZbHMGHs6zK7pCUyYl0nHYx6yHGedfkj8H8UUQA5dh8LjniSoRoYRxrXW5WViiWYBr1gcsK4d4tCoyMpLtExQqcYcJTP-CWGB_JLgr0R13Swy04D4x7NvrIvughIl3-A58VrFwh0z0fNTY00ANxzO24D_alGQQii2Aag&url=https%3A%2F%2Fbooking-dp.lastminute.com%3Futm_source%3Dbooking%26utm_medium%3Dwhitelabel%26utm_campaign%3Dhomepage_tab&lang=en&aid=304142&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ)
-* [Car rentals](https://www.booking.com/cars/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&adplat=cross_product_bar&)
-* [Attractions](https://www.booking.com/attractions/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Airport taxis](https://www.booking.com/taxi/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&adplat=cross_product_bar&)
+* [Stays](https://www.booking.com/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Flights](https://booking.com/pxgo?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&token=UmFuZG9tSVYkc2RlIyh9YQCDNEDqnGbduUlpDLFWQrLhAkrlJAQvkt7AnBiv16AgswN3N-pqM1eNfCc9cUXHERg_GMG6V4_2gm9fMdo87E_XPGcg4ho6tgO6g5u-WksSZO3hZ2TdlhKmjIUB_Av3FIaza0uTZcJPe71QJytouk7bMAQx-TYjHZ-tOKX68NzN4Zzf2AdPCHi0Ess1z5CFUcEoYWW4X5E_3_3VUwCEQ8GObbblwQIfTxYbmc2rq73EWK2eCa1ZR17qyGbFUZXh17HuOhdxkPpmvy6Yil0e-jvJBGJQ9ugv_JCOwc_B00Oj7hWFR9X813XW3M6B9X-zQd74lXMfdLXrPfSllK-gtdMMr28J_WLLmHXtYgTBh2p5oXgpLi-HXpu9no4RYzq_0_xJcwje8XtC3jg597M4Hxmu0BS31A21MH09qbGGBHs_zf3FbtyyGiJ0m69G7CbycECrMGO4Lz8imJ1hz6WrdB4bzwSpGPop3lkfFruZVc2bAQsLxOlqZpM&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fmc%3DGBP%26p%3Dsearchbox_link%26sid%3Df2eaf9f9774fc840aaae583c3bb29f70%26a%3Dbdc%252Fsearchbox%26bdclc%3Den-gb&aid=304142&lang=en)
+* [Flight + Hotel](https://booking.com/pxgo?token=UmFuZG9tSVYkc2RlIyh9YXOod6xipXL61zJJhwJRUBnWrK2Ydopw4PWEDFcqYg82zCeRZySrtKEhMANWTbbdnR_t-FOBXnrIgMSqHcSSgKVIICEHP47g1_Lga2iF__umm0P-GDw7Cil0gyv1hBdSl6-3tLIEi4oxVo6IzL2sfnmHsmeqwKEVIlldLI1VQC97IdRAbLXklcusucYWlJ9osGhncRYJDO1X9xlOKuDeIeEfWbwUFyWgDhRvAuNDYRlXwYo-GiBfQ96-_mCMTXYVMV5CzKnTNB79oH5z7pvgbmGRP1ji2IM0CdAkJNU_pkHuNNuk4aCEty63pssCMRHyxfq5L4qYD8heUDqzaV5xhzCXGRcYmAR_TqjTjxKGiQQtL762D1BQvoKKZgfsh76EjwbVvG7Pb_vMBY-53DT0Wn3N9YUh8gVn3MPs7unt10RO7L2Vwyl5qHpyopaUjLcW0lILfMkHueWe7nkYKj6S3q6bSaDFDT-k2jFR5JDuNwv1BbNV3eZEwIqUHFkpp4jWIw&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&url=https%3A%2F%2Fbooking-dp.lastminute.com%3Futm_source%3Dbooking%26utm_medium%3Dwhitelabel%26utm_campaign%3Dhomepage_tab&aid=304142&lang=en)
+* [Car rentals](https://www.booking.com/cars/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&adplat=cross_product_bar&)
+* [Attractions](https://www.booking.com/attractions/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Airport taxis](https://www.booking.com/taxi/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&adplat=cross_product_bar&)
 
-* [About Booking.com™](https://www.booking.com/content/about.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [About Booking.com™](https://www.booking.com/content/about.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [Legal](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Legal](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [Digital Services Act](https://www.booking.com/content/dsa.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Digital Services Act](https://www.booking.com/content/dsa.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [Digital Markets Act](https://www.booking.com/content/dma.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Terms & Conditions](https://www.booking.com/content/terms.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [Terms & Conditions](https://www.booking.com/content/terms.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [How we work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [How we work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Offices worldwide](https://www.booking.com/content/offices.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
-* [Offices worldwide](https://www.booking.com/content/offices.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
-    
-* [Contact us](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Contact us](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
 * [Press centre](https://news.booking.com/)
     
@@ -47,13 +45,13 @@ Choose your language. Your current language is English (UK)
     
 * [Sustainability at Booking.com](https://sustainability.booking.com/)
     
-* [Add your property](https://join.booking.com/index.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=1328032&language=en-gb)
+* [Add your property](https://join.booking.com/index.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=1328032&language=en-gb)
     
-* [Booking.com for Business](https://business.booking.com/?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&lang=en-gb&aid=304142)
+* [Booking.com for Business](https://business.booking.com/?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&lang=en-gb&aid=304142)
     
-* [Extranet login](https://admin.booking.com/?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142&lang=en-gb)
+* [Extranet login](https://admin.booking.com/?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142&lang=en-gb)
     
-* [Become an affiliate](https://www.booking.com/content/affiliates.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* [Become an affiliate](https://www.booking.com/content/affiliates.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
 * [Supplier Code of Conduct](https://www.bookingholdings.com/supplier-code-of-conduct/)
     
@@ -76,9 +74,9 @@ Summary of these Terms
 
 Along with the Terms on this page, there are two other documents that form part of our contract with you:
 
-* Our [How we Work page](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) helps you to use our Platform and understand our reviews, our rankings, our recommendations, how we make money, and more.
+* Our [How we Work page](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) helps you to use our Platform and understand our reviews, our rankings, our recommendations, how we make money, and more.
     
-* Our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) help us to keep everything on our Platform relevant to and appropriate for our global audience, without limiting freedom of expression. They tell you how we manage content and take action against anything inappropriate.
+* Our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) help us to keep everything on our Platform relevant to and appropriate for our global audience, without limiting freedom of expression. They tell you how we manage content and take action against anything inappropriate.
     
 
 By agreeing to our Terms, you’re agreeing to everything in all three documents. If you don’t accept any of these Terms, please do not use our Platform.
@@ -87,7 +85,7 @@ All this information is important because it (along with your booking confirmati
 
 If something goes wrong with your Travel Experience, [Section A15 of these Terms](#terms_all_wrong_subheading) explains what you can do about it. This includes making a complaint to us, going to court, and (in some cases) using an online dispute resolution service.
 
-If you want to appeal a moderation decision, or report any content on our Platform, our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) explain how to do so, and how we manage these requests.
+If you want to appeal a moderation decision, or report any content on our Platform, our [Content Standards and Guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) explain how to do so, and how we manage these requests.
 
 This summary isn’t part of our Terms, or a legal document. It’s just a simple explanation of our Terms. We encourage you to read each document in full. Some of the words in this summary have very specific meanings, so please check out the [‘Booking.com dictionary’](#terms_summary_para_6) at the end of these Terms.
 
@@ -191,7 +189,7 @@ A. All Travel Experiences
 
 ### A3. About Booking.com
 
-1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
+1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
 2\. When you book a rental car, or private or public transport, Booking.com Transport Limited provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
@@ -230,7 +228,7 @@ A. All Travel Experiences
 
 1\. You will:
 
-* abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
 * comply with all applicable laws
     
@@ -306,7 +304,7 @@ A. All Travel Experiences
 
 ### A9. Privacy and cookies
 
-1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) for more information on privacy, cookies, and how we might contact you and process personal data
+1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) for more information on privacy, cookies, and how we might contact you and process personal data
 
 2\. If you book ground transport, please see the [Rentalcars.com Privacy Statement](https://www.rentalcars.com/en/privacy), [Cars.booking.com Privacy Statement](https://cars.booking.com/PrivacyPolicy.do), or [Taxi.booking.com Privacy Statement](https://taxi.booking.com/information/privacy) as applicable to find out how we process your personal data.
 
@@ -337,7 +335,7 @@ A. All Travel Experiences
 
 6\. To ensure a fair and secure programme, we may investigate instances of fraud, misuse, or abuse. This may result in a membership being cancelled and earned rewards being lost.
 
-7\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+7\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### A13. Rewards, Credits & Wallet
 
@@ -458,7 +456,7 @@ For some products/services, the Service Provider will require an Upfront Payment
 * doing anything that places undue stress on our Platform.
     
 
-4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://www.booking.com/reviews_guidelines.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) and that:
+4\. By uploading a review/picture to our Platform, you’re confirming that it meets our [Content Standards and Guidelines](https://www.booking.com/reviews_guidelines.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) and that:
 
 * it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
     
@@ -511,7 +509,7 @@ For some products/services, the Service Provider will require an Upfront Payment
 
 ### A17. Measures against unacceptable behaviour
 
-1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) and our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)) or fail to comply with applicable laws or regulations, we have the right to:
+1\. If you breach these Terms (including [our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) and our [Content standards and guidelines](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)) or fail to comply with applicable laws or regulations, we have the right to:
 
 * stop you making any Bookings,
     
@@ -665,7 +663,7 @@ B. Accommodations
 
 #### We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142&tmpl=doc%2Frate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142&tmpl=doc%2Frate_guarantee) terms and conditions.
 
 #### Partner offer
 
@@ -714,7 +712,7 @@ B. Accommodations
 
 #### How We Work
 
-10\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142), which is also part of our Terms.
+10\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142), which is also part of our Terms.
 
 C. Attractions
 --------------
@@ -770,7 +768,7 @@ C. Attractions
 
 #### How We Work
 
-1\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142&tmpl=doc%2Frate_guarantee), which is also part of our Terms.
+1\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142&tmpl=doc%2Frate_guarantee), which is also part of our Terms.
 
 D. Car rentals
 --------------
@@ -965,7 +963,7 @@ If they refuse you the car, please call us straight away from the rental counter
 
 #### How We Work
 
-5\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142), which is also part of our Terms.
+5\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142), which is also part of our Terms.
 
 E. Flights
 ----------
@@ -1027,7 +1025,7 @@ E. Flights
 
 4\. Different tickets from the same airline may have different restrictions or include different services. Please make sure you read the full details provided during the booking process.
 
-5\. If you have any questions about changes, cancellations or refunds, please contact our [Customer Service team](https://secure.booking.com/help.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+5\. If you have any questions about changes, cancellations or refunds, please contact our [Customer Service team](https://secure.booking.com/help.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### E7. What else do you need to know?
 
@@ -1139,7 +1137,7 @@ E. Flights
 
 #### How We Work
 
-27\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142), which is also part of our Terms.
+27\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142), which is also part of our Terms.
 
 F. Private and Public Transport
 -------------------------------
@@ -1313,7 +1311,7 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 
 #### How We Work
 
-4\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142), which is also part of our Terms.
+4\. For information on reviews, ranking, how we make money (and more), please check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142), which is also part of our Terms.
 
 Booking.com dictionary
 ----------------------
@@ -1328,7 +1326,7 @@ Booking.com dictionary
 
 ‘Booking’ means the booking of a Travel Experience on our Platform, whether you pay for it now or later.
 
-‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
 
 ‘Booking Confirmation’ (in the ‘Car rentals’ section) means the confirmation email and voucher we send you, explaining the details of your Booking.
 
@@ -1511,7 +1509,7 @@ Table of contents
 
 #### A3. About Booking.com
 
-1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
+1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://www.booking.com/content/legal.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
 2\. When you book a rental car, or private or public transport, Booking.com Transport Limited provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
@@ -1548,7 +1546,7 @@ Table of contents
 
 1\. You will:
 
-* abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+* abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
     
 * comply with all applicable laws
     
@@ -1611,7 +1609,7 @@ You’ll see our Currency Conversion Rate during checkout, in the Booking detail
 
 #### A9. Privacy and cookies
 
-1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) for more information on privacy, cookies, and how we might contact you and process personal data
+1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) for more information on privacy, cookies, and how we might contact you and process personal data
 
 2\. If you book ground transport, please see the [Rentalcars.com Privacy Statement](https://www.rentalcars.com/en/privacy), [Cars.booking.com Privacy Statement](https://cars.booking.com/PrivacyPolicy.do), or [Taxi.booking.com Privacy Statement](https://taxi.booking.com/information/privacy) as appropriate to find out how we process your personal data.
 
@@ -1638,7 +1636,7 @@ You’ll see our Currency Conversion Rate during checkout, in the Booking detail
 
 4\. We may change any feature of the Genius programme, including the membership levels and the way the programme is structured.
 
-5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 #### A13. Rewards, Credits & Wallet
 
@@ -1761,7 +1759,7 @@ You’ll see our Currency Conversion Rate during checkout, in the Booking detail
 * doing anything that places undue stress on our Platform.
     
 
-4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://www.booking.com/reviews_guidelines.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142) and that:
+4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://www.booking.com/reviews_guidelines.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142) and that:
 
 * it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
     
@@ -1814,7 +1812,7 @@ You’ll see our Currency Conversion Rate during checkout, in the Booking detail
 
 * fraud or abuse
     
-* non-compliance with [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142), or with applicable laws or regulations
+* non-compliance with [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142), or with applicable laws or regulations
     
 * inappropriate or unlawful behaviour (e.g. violence, threats or invasion of privacy) in relation to us, any of the companies we work with – or anyone else, for that matter.
     
@@ -1943,7 +1941,7 @@ you will NOT benefit from rights applying to packages under the [EU’s Directiv
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142&tmpl=doc%2Frate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142&tmpl=doc%2Frate_guarantee) terms and conditions.
 
 ##### Partner offer
 
@@ -1990,7 +1988,7 @@ We Price Match
 
 ##### How We Work
 
-9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### C. Attractions
 
@@ -2045,7 +2043,7 @@ We Price Match
 
 ##### How We Work
 
-1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### D. Car rentals
 
@@ -2233,7 +2231,7 @@ If that happens, please call us from the rental counter to cancel your Booking, 
 
 ##### How We Work
 
-5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### E. Flights
 
@@ -2294,7 +2292,7 @@ If that happens, please call us from the rental counter to cancel your Booking, 
 
 4\. Different tickets from the same airline may have different restrictions or include different services.
 
-5\. If you have any questions about changes, cancellations or refunds, please contact our [Customer Service team](https://secure.booking.com/help.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+5\. If you have any questions about changes, cancellations or refunds, please contact our [Customer Service team](https://secure.booking.com/help.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 #### E7. What else do you need to know?
 
@@ -2406,7 +2404,7 @@ If that happens, please call us from the rental counter to cancel your Booking, 
 
 ##### How We Work
 
-27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### F. Private and Public Transport
 
@@ -2581,7 +2579,7 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 
 ##### How We Work
 
-4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142).
+4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142).
 
 ### Booking.com dictionary
 
@@ -2595,7 +2593,7 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 
 ‘Booking’ means the booking of a Travel Experience on our Platform, whether you pay for it now or later.
 
-‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&aid=304142)
+‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&aid=304142)
 
 ‘Booking Confirmation’ (in the ‘Car rentals’ section) means the confirmation email and voucher we send you, explaining the details of your Booking.
 
@@ -2669,63 +2667,63 @@ Either way, neither we nor the Service Provider will be liable for any costs you
 
 ‘Wallet’ means a dashboard in your Account that shows your Rewards, Credits and other incentives.
 
-[List your property](https://join.booking.com/?lang=en-gb&aid=304142&utm_source=footer_menu&utm_medium=frontend&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ)
+[List your property](https://join.booking.com/?lang=en-gb&aid=304142&utm_source=footer_menu&utm_medium=frontend&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ)
 
-* [Mobile version](https://www.booking.com/content/terms.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBeACAQ&sid=fecd6f7d20b334883b6c99cfb6e79b91&keep_landing=1&prefer_site_type=mdot)
-* [Your account](https://account.booking.com/auth/oauth2?client_id=vO1Kblk7xX9tUn2cpZLS&aid=304142&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&lang=en-gb&bkng_action=content&state=UqUDNZtYBatdXhn93m-j-DrfnwdGSTde5AbkbqB2xA0PwYVUwIvj0fD3BZKogy9ELy46I_T_aPi9iKOubjd_JTH2oeg8NrY7LJVbeE4XGrOuE_MS41ITp8dm1gT5-GZ4gnzAQetYS_m129HT22JM50cJEbD6j35f1fCOyvz1Fd6glKjIMLCQooaRa_nv18_qmcDUPosARgqgX8sGM16yehZbXNXAOlgGosubEDDVly7pF5mLK3HqKbjvOEsLgBjizU7EcA67z1yF9PAhJJYYNLmH-MA1QmgZzBYD6AN1BdeB0dUcF36jMUjuIvFjzxbwR9tfTI9nynIQSQ5uTv4sE7e1-gNdRxpAQJjfMcQxazaX09COFsK7ROtT1lKmbLFYw3NTkmHVkPDUct4lC_ZXshUP_RiMTmvSzk7_Hv7N8j1cGLqITgmrdUMk82tNY7CK71L5vKYHiSgaFPIODSWMVa514dBSFa-Wn0mhOgJVlTLiQ0MwbRD4h72OAwrLAqIfshwgy0_vG83pTP8mtydz5N6aimjTw-hscZLoLtPgNYidQcjgRVtbXQ&response_type=sso)
-* [Make changes to your booking online](https://secure.booking.com/content/cs.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Customer Service help](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&source=blue_footer#/?source=blue_footer "Your reference ID is “AB4DF5C”")
-* [Become an affiliate](https://www.booking.com/affiliate-program/v2/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&utm_campaign=booking-footer&utm_medium=referral&utm_content=become-an-affiliate-link&utm_source=booking.com "Become an affiliate")
-* [Booking.com for Business](https://business.booking.com/?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&aid=304142&lang=en-gb)
+* [Mobile version](https://www.booking.com/content/terms.en-gb.html?label=gen173nr-1BCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEBiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBeACAQ&sid=fdbea5444506f58e5610ec20d54e375c&keep_landing=1&prefer_site_type=mdot)
+* [Your account](https://account.booking.com/auth/oauth2?aid=304142&state=UqUDeI97XG0RlGieVe3SnFMFGw90ZRBAo8wNHJ5Qv2_4Mu1FaDoYjgJLh7m4uj5Ltz2rRRtuwIQJ60K1IGUzwgjvCKXlWU5tWhHynxL4nmf4atJPHQbc__maiUZgfACfyLqj5JlyTApGy7xkw-svYav85NwPQ0FlDtuvALw_YPnCm82s8JDElgRT16BfPTp2v-qmqnvgdfG5AIHPY4cyeJsBkImdnbsbSMqpJ5vnK1TpuOp5sK60YEgttT0-2kPg2QCERl5Be4_Nwuho-ZhgcPcgFSFP8VahYoryWhP563htGHt44PqJaT6DDluKrfBoCpNON2v6lyJ_jpinuJDu8ZdHn5nY05AawE2yq8Ofl3NmCujt10a_8RhdKILa-VVmOj7Tb88U6zckppnZEDVVru0aPoD7QkgJLK-C4GMfo2nfk8Q6rIOCrXtTzP-ICZHmAhNAAIGgc0_5gHyWfoXp14tlY-EqOLQudPD3LaesSwDTpzA6G48QBhhD3_52UtTJUX11UTSJRGjYr1m1cQPU-3sC4SmjNfmtn4y6CTtdfcCOW-lHTjBg9g&bkng_action=content&dt=1722265648&lang=en-gb&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&response_type=sso)
+* [Make changes to your booking online](https://secure.booking.com/content/cs.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Customer Service help](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&source=blue_footer#/?source=blue_footer "Your reference ID is “F2EAF9F”")
+* [Become an affiliate](https://www.booking.com/affiliate-program/v2/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&utm_medium=referral&utm_source=booking.com&utm_content=become-an-affiliate-link&utm_campaign=booking-footer "Become an affiliate")
+* [Booking.com for Business](https://business.booking.com/?lang=en-gb&aid=304142&label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ)
 
-* [Countries](https://www.booking.com/country.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Regions](https://www.booking.com/region.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Cities](https://www.booking.com/city.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Districts](https://www.booking.com/district.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Airports](https://www.booking.com/airport.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Hotels](https://www.booking.com/hotel/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Places of interest](https://www.booking.com/landmark.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
+* [Countries](https://www.booking.com/country.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Regions](https://www.booking.com/region.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Cities](https://www.booking.com/city.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Districts](https://www.booking.com/district.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Airports](https://www.booking.com/airport.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Hotels](https://www.booking.com/hotel/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Places of interest](https://www.booking.com/landmark.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
 
-* [Homes](https://www.booking.com/booking-home/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Apartments](https://www.booking.com/apartments/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Resorts](https://www.booking.com/resorts/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Villas](https://www.booking.com/villas/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Hostels](https://www.booking.com/hostels/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [B&Bs](https://www.booking.com/bed-and-breakfast/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Guest Houses](https://www.booking.com/guest-house/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
+* [Homes](https://www.booking.com/booking-home/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Apartments](https://www.booking.com/apartments/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Resorts](https://www.booking.com/resorts/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Villas](https://www.booking.com/villas/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Hostels](https://www.booking.com/hostels/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [B&Bs](https://www.booking.com/bed-and-breakfast/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Guest Houses](https://www.booking.com/guest-house/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
 
-* [Unique places to stay](https://www.booking.com/accommodations.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Reviews](https://www.booking.com/reviews.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Discover monthly stays](https://www.booking.com/extended-stays/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Travel articles](https://booking.com/articles.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Seasonal and holiday deals](https://www.booking.com/deals/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c "Seasonal and holiday deals")
-* [Traveller Review Awards](https://www.booking.com/traveller-awards/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
+* [Unique places to stay](https://www.booking.com/accommodations.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Reviews](https://www.booking.com/reviews.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Discover monthly stays](https://www.booking.com/extended-stays/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Travel articles](https://booking.com/articles.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Seasonal and holiday deals](https://www.booking.com/deals/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70 "Seasonal and holiday deals")
+* [Traveller Review Awards](https://www.booking.com/traveller-awards/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
 
 * [Car hire](http://cars.booking.com/Home.do?affiliateCode=booking-com&adplat=footer&preflang=en)
-* [Flight finder](https://booking.com/pxgo?aid=304142&lang=en&token=UmFuZG9tSVYkc2RlIyh9YWktmrwAPG7d0xk8r8arn9snJE1hV5swwAHff99NiA_4lopmndEVeFGv_Kbmhh5St1wFxqbI-4FH2zdFDM3mFlazwqIFGC61y9q2UvIW8_a8tZdeED3KHWM3IxbWsn6766vIcUgt_Pa3EDBqZ04xKUJysQRmc9SPGt0CWXa-1gbRkf_J2XNzHgzM_L1RQ6mszsT9ieFwIY93KFIKDdKp9daPCvLMG1z095HtqmR9Hp0Oa45N77UoHPsm7jBtwACobFrjQUzx5ISStS8PItSA9BNA3sDzQu77BYH2FryUxIcSdeL8jA3RNZN-XWhpeCkXLw&url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fa%3Dbdc%252Ffooter_link%26p%3Dfooter_link%26bdclc%3Den-gb%26mc%3DGBP%26sid%3Dab4df5c6406adad36045a243a3fd7a2c)
+* [Flight finder](https://booking.com/pxgo?url=https%3A%2F%2Fbooking.kayak.com%2Fin%3Fp%3Dfooter_link%26sid%3Df2eaf9f9774fc840aaae583c3bb29f70%26mc%3DGBP%26a%3Dbdc%252Ffooter_link%26bdclc%3Den-gb&aid=304142&lang=en&token=UmFuZG9tSVYkc2RlIyh9YaAHsRE_5bn37xbD79rr7UgsiU6hNBcIIoDPDLjNB6vYu4TdQ3W-6v0KwKinXgeZmWPdB6TPmTotuSHeqxqlSRz-xqhtie5_D2w5_3aHyu7GOrlfXcEICgz-E3PLD7vfbJB_TgETa4KyEw0Gulus7wQJqed5a2Tso37LWGOarFanaG1ODqLJxe9oU7JX_4AKPMHHZMcsEJPgoa0EgEaYkWmibF1-2RsqnQncg9Prp130dCZzB3RDW2VtKOicvn174i12if4m6286P9TjYe7MzvAwYHkdJ37YT60KjDphs73zQcSX6LiCRkaaZg4RKeXFeA)
 * [Restaurant reservations](http://www.opentable.co.uk/?ref=13850)
-* [Booking.com for Travel Agents](https://www.booking.com/affiliate-program/v2/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&utm_source=booking.com&utm_content=travel-agents-link&utm_campaign=booking-footer&utm_medium=referral "Booking.com for Travel Advisers")
+* [Booking.com for Travel Agents](https://www.booking.com/affiliate-program/v2/index.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&utm_medium=referral&utm_source=booking.com&utm_content=travel-agents-link&utm_campaign=booking-footer "Booking.com for Travel Advisers")
 
-* [Coronavirus (COVID-19) FAQs](https://www.booking.com/covid-19-booking-faqs.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [About Booking.com](https://www.booking.com/content/about.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Customer Service help](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&source=footer_navigation#/?source=footer_navigation)
+* [Coronavirus (COVID-19) FAQs](https://www.booking.com/covid-19-booking-faqs.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [About Booking.com](https://www.booking.com/content/about.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Customer Service help](https://secure.booking.com/help.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&source=footer_navigation#/?source=footer_navigation)
 * [Partner help](https://partner.booking.com/en-gb?utm_campaign=footer_list&utm_medium=frontend_footer&utm_source=booking.com)
 * [Careers](https://careers.booking.com/?utm_source=corporate&utm_medium=footer)
 * [Sustainability](https://sustainability.booking.com/)
 * [Press centre](https://news.booking.com/)
-* [Safety resource centre](https://www.booking.com/trust-and-safety.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&utm_medium=web_frontend&utm_source=footer_menu)
+* [Safety resource centre](https://www.booking.com/trust-and-safety.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&utm_source=footer_menu&utm_medium=web_frontend)
 * [Investor relations](https://www.bookingholdings.com/)
 * Terms & Conditions
-* [Partner dispute](https://secure.booking.com/content/complaints.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [How we work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Privacy & Cookie Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
+* [Partner dispute](https://secure.booking.com/content/complaints.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [How we work](https://www.booking.com/content/how_we_work.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Privacy & Cookie Statement](https://www.booking.com/content/privacy.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
 * Cookie Settings
     
     [Manage cookie settings](#)
 * [Modern Slavery Statement](https://www.bookingholdings.com/modern-slavery-statement/)
 * [Human Rights Statement](https://www.bookingholdings.com/about/compliance-and-ethics/human-rights/)
-* [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
-* [Content guidelines and reporting](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c)
+* [Corporate contact](https://www.booking.com/content/contact-us.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
+* [Content guidelines and reporting](https://www.booking.com/content-moderation-policy/overview-page.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70)
 
 [Extranet login](https://admin.booking.com/?lang=en&utm_source=extranet_login_footer&utm_medium=frontend&utm_campaign=login_footer_v0)
 
@@ -2778,7 +2776,7 @@ How does it work?
 
 If you booked through us and want to leave a review, please sign in first.
 
-[Sign in and leave a review](https://secure.booking.com/reviewtimeline.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKI8Iy1BsACAdICJGZlMDI3NDUwLTYyN2EtNGJiYS04MDFhLTYyNjAwZTNmZWE0ONgCBuACAQ&sid=ab4df5c6406adad36045a243a3fd7a2c&from_index_lightbox=1)
+[Sign in and leave a review](https://secure.booking.com/reviewtimeline.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSDNYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AELiAIBqAIEuAKv4J61BsACAdICJDI4MTBmZjRjLTFiNDAtNDZhMS1hZjUyLTE3YjliZmJiMmUyYtgCBuACAQ&sid=f2eaf9f9774fc840aaae583c3bb29f70&from_index_lightbox=1)
 
 End of dialog content
 
@@ -2797,14 +2795,14 @@ Close calendar
 
 Please sign in to continue
 
-[Sign in to your account](https://account.booking.com/auth/oauth2?aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&bkng_action=content&lang=en-gb&state=UpADNZtYBatdXhmjmZdGaSU1JnIY9gbTgL9eeT2W0Y3e15LF2sivlkDGz3pWh6rhnozdZvGO8azmEKSJFwOGYgubECbIT_LzCXrdNyNmlRQs3iugVWVupqR2mdNGSZOHUPVN0LsQpT7wzcDnr1HcHhdpEvY9zR2X-dOZv4xRbUc11PB6mkZ0p7eSOZ8ClPz-HpNOVOsHhwLlvJvYUSuMImVbhhoZQBy-svGfG7YkONrZ8H3OiakAXOk_2UBOXUy10BrxPzlGHZcsTudG9vdhpbfbvk5rXfr1tLxYuNBbNuIHjO3ZrL493R6LTOcNgQxfra_luC0SEdCh0J7pli0KnGLZ6YQeYW1qxoskeGtB8x3xSIjHoIX_jQofA7BhiVwSNqRsjAX4Ul7KWK3dQJNv1YrtBECZkNh6YkAOIC8S6LxS9TQd39VAdR3LKNjJiyYeVsPzO4cTG_5AzD_LLUvcNUkOehbLrlZ3k0Jaj2tGRN6CUSMCMtxOK1z7hkRt8apKRIKxt6BpXpord8Rfr9aB4KhUng&response_type=sso)
+[Sign in to your account](https://account.booking.com/auth/oauth2?aid=304142&state=UpADeI97XG0RlGiwkr2Vr3ti62Bs0phyOivuS3yhVROpX9v_k4S0X4cHBrl5gLNDoyeQLNP2pDk_2MthV3Iicbt_chu2E3onxaaf1z8BBZmH4fsksB-bAr4MkAiu20-GRTXFZn9zuqLCYLoXvWUolJiH4EGrilbCnrs0fTH_crL_5U-PqRvWA6Ep4zNapuzoR1pxtSKz1gtr54zclvXQeKhN-GjKLIoYFEp1az5k_ufTB3TqSMoI7pn48So5PwAp4Yded6tLEDSNzYKpGlKAigCN_3ywQpeL3XF3L2I4sz17ofM-tXkhdmte09ZaXc2CI8HILv4PQ3uRPaI7QhAAoAYiJYWLrtiYI8alAa0vRMLl62Zq3GuC46GPHEDCnFIciUw18aSvhX6oUU5uh-7KSzcOssctZhfB8Thz5Cvsd83DohdA1jjswHH_vU8j2Uz0XZsIQVC9CxcCFJgAxioIvA9mynu45fbYnyIKwV-IwP7n_Db-Cx8WNm3kLowHizWrLwQDpVqjWQ-MVwTeZen4OLO2bg&lang=en-gb&dt=1722265648&bkng_action=content&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS)
 
 or use one of these options
 
-[](https://account.booking.com/auth/oauth2?aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&bkng_action=content&lang=en-gb&state=UpADNZtYBatdXhmjmZdGaSU1JnIY9gbTgL9eeT2W0Y3e15LF2sivlkDGz3pWh6rhnozdZvGO8azmEKSJFwOGYgubECbIT_LzCXrdNyNmlRQs3iugVWVupqR2mdNGSZOHUPVN0LsQpT7wzcDnr1HcHhdpEvY9zR2X-dOZv4xRbUc11PB6mkZ0p7eSOZ8ClPz-HpNOVOsHhwLlvJvYUSuMImVbhhoZQBy-svGfG7YkONrZ8H3OiakAXOk_2UBOXUy10BrxPzlGHZcsTudG9vdhpbfbvk5rXfr1tLxYuNBbNuIHjO3ZrL493R6LTOcNgQxfra_luC0SEdCh0J7pli0KnGLZ6YQeYW1qxoskeGtB8x3xSIjHoIX_jQofA7BhiVwSNqRsjAX4Ul7KWK3dQJNv1YrtBECZkNh6YkAOIC8S6LxS9TQd39VAdR3LKNjJiyYeVsPzO4cTG_5AzD_LLUvcNUkOehbLrlZ3k0Jaj2tGRN6CUSMCMtxOK1z7hkRt8apKRIKxt6BpXpord8Rfr9aB4KhUng&response_type=sso&prompt=facebook "Sign in with Facebook")[](https://account.booking.com/auth/oauth2?aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&bkng_action=content&lang=en-gb&state=UpADNZtYBatdXhmjmZdGaSU1JnIY9gbTgL9eeT2W0Y3e15LF2sivlkDGz3pWh6rhnozdZvGO8azmEKSJFwOGYgubECbIT_LzCXrdNyNmlRQs3iugVWVupqR2mdNGSZOHUPVN0LsQpT7wzcDnr1HcHhdpEvY9zR2X-dOZv4xRbUc11PB6mkZ0p7eSOZ8ClPz-HpNOVOsHhwLlvJvYUSuMImVbhhoZQBy-svGfG7YkONrZ8H3OiakAXOk_2UBOXUy10BrxPzlGHZcsTudG9vdhpbfbvk5rXfr1tLxYuNBbNuIHjO3ZrL493R6LTOcNgQxfra_luC0SEdCh0J7pli0KnGLZ6YQeYW1qxoskeGtB8x3xSIjHoIX_jQofA7BhiVwSNqRsjAX4Ul7KWK3dQJNv1YrtBECZkNh6YkAOIC8S6LxS9TQd39VAdR3LKNjJiyYeVsPzO4cTG_5AzD_LLUvcNUkOehbLrlZ3k0Jaj2tGRN6CUSMCMtxOK1z7hkRt8apKRIKxt6BpXpord8Rfr9aB4KhUng&response_type=sso&prompt=google "Sign in with Google")[](https://account.booking.com/auth/oauth2?aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&bkng_action=content&lang=en-gb&state=UpADNZtYBatdXhmjmZdGaSU1JnIY9gbTgL9eeT2W0Y3e15LF2sivlkDGz3pWh6rhnozdZvGO8azmEKSJFwOGYgubECbIT_LzCXrdNyNmlRQs3iugVWVupqR2mdNGSZOHUPVN0LsQpT7wzcDnr1HcHhdpEvY9zR2X-dOZv4xRbUc11PB6mkZ0p7eSOZ8ClPz-HpNOVOsHhwLlvJvYUSuMImVbhhoZQBy-svGfG7YkONrZ8H3OiakAXOk_2UBOXUy10BrxPzlGHZcsTudG9vdhpbfbvk5rXfr1tLxYuNBbNuIHjO3ZrL493R6LTOcNgQxfra_luC0SEdCh0J7pli0KnGLZ6YQeYW1qxoskeGtB8x3xSIjHoIX_jQofA7BhiVwSNqRsjAX4Ul7KWK3dQJNv1YrtBECZkNh6YkAOIC8S6LxS9TQd39VAdR3LKNjJiyYeVsPzO4cTG_5AzD_LLUvcNUkOehbLrlZ3k0Jaj2tGRN6CUSMCMtxOK1z7hkRt8apKRIKxt6BpXpord8Rfr9aB4KhUng&response_type=sso&prompt=apple "Sign in with Apple")
+[](https://account.booking.com/auth/oauth2?aid=304142&state=UpADeI97XG0RlGiwkr2Vr3ti62Bs0phyOivuS3yhVROpX9v_k4S0X4cHBrl5gLNDoyeQLNP2pDk_2MthV3Iicbt_chu2E3onxaaf1z8BBZmH4fsksB-bAr4MkAiu20-GRTXFZn9zuqLCYLoXvWUolJiH4EGrilbCnrs0fTH_crL_5U-PqRvWA6Ep4zNapuzoR1pxtSKz1gtr54zclvXQeKhN-GjKLIoYFEp1az5k_ufTB3TqSMoI7pn48So5PwAp4Yded6tLEDSNzYKpGlKAigCN_3ywQpeL3XF3L2I4sz17ofM-tXkhdmte09ZaXc2CI8HILv4PQ3uRPaI7QhAAoAYiJYWLrtiYI8alAa0vRMLl62Zq3GuC46GPHEDCnFIciUw18aSvhX6oUU5uh-7KSzcOssctZhfB8Thz5Cvsd83DohdA1jjswHH_vU8j2Uz0XZsIQVC9CxcCFJgAxioIvA9mynu45fbYnyIKwV-IwP7n_Db-Cx8WNm3kLowHizWrLwQDpVqjWQ-MVwTeZen4OLO2bg&lang=en-gb&dt=1722265648&bkng_action=content&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=facebook "Sign in with Facebook")[](https://account.booking.com/auth/oauth2?aid=304142&state=UpADeI97XG0RlGiwkr2Vr3ti62Bs0phyOivuS3yhVROpX9v_k4S0X4cHBrl5gLNDoyeQLNP2pDk_2MthV3Iicbt_chu2E3onxaaf1z8BBZmH4fsksB-bAr4MkAiu20-GRTXFZn9zuqLCYLoXvWUolJiH4EGrilbCnrs0fTH_crL_5U-PqRvWA6Ep4zNapuzoR1pxtSKz1gtr54zclvXQeKhN-GjKLIoYFEp1az5k_ufTB3TqSMoI7pn48So5PwAp4Yded6tLEDSNzYKpGlKAigCN_3ywQpeL3XF3L2I4sz17ofM-tXkhdmte09ZaXc2CI8HILv4PQ3uRPaI7QhAAoAYiJYWLrtiYI8alAa0vRMLl62Zq3GuC46GPHEDCnFIciUw18aSvhX6oUU5uh-7KSzcOssctZhfB8Thz5Cvsd83DohdA1jjswHH_vU8j2Uz0XZsIQVC9CxcCFJgAxioIvA9mynu45fbYnyIKwV-IwP7n_Db-Cx8WNm3kLowHizWrLwQDpVqjWQ-MVwTeZen4OLO2bg&lang=en-gb&dt=1722265648&bkng_action=content&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=google "Sign in with Google")[](https://account.booking.com/auth/oauth2?aid=304142&state=UpADeI97XG0RlGiwkr2Vr3ti62Bs0phyOivuS3yhVROpX9v_k4S0X4cHBrl5gLNDoyeQLNP2pDk_2MthV3Iicbt_chu2E3onxaaf1z8BBZmH4fsksB-bAr4MkAiu20-GRTXFZn9zuqLCYLoXvWUolJiH4EGrilbCnrs0fTH_crL_5U-PqRvWA6Ep4zNapuzoR1pxtSKz1gtr54zclvXQeKhN-GjKLIoYFEp1az5k_ufTB3TqSMoI7pn48So5PwAp4Yded6tLEDSNzYKpGlKAigCN_3ywQpeL3XF3L2I4sz17ofM-tXkhdmte09ZaXc2CI8HILv4PQ3uRPaI7QhAAoAYiJYWLrtiYI8alAa0vRMLl62Zq3GuC46GPHEDCnFIciUw18aSvhX6oUU5uh-7KSzcOssctZhfB8Thz5Cvsd83DohdA1jjswHH_vU8j2Uz0XZsIQVC9CxcCFJgAxioIvA9mynu45fbYnyIKwV-IwP7n_Db-Cx8WNm3kLowHizWrLwQDpVqjWQ-MVwTeZen4OLO2bg&lang=en-gb&dt=1722265648&bkng_action=content&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=apple "Sign in with Apple")
 
-Don't have an account yet? [Create your account](https://account.booking.com/auth/oauth2?aid=304142&client_id=vO1Kblk7xX9tUn2cpZLS&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&dt=1721972744&bkng_action=content&lang=en-gb&state=UpADNZtYBatdXhmjmZdGaSU1JnIY9gbTgL9eeT2W0Y3e15LF2sivlkDGz3pWh6rhnozdZvGO8azmEKSJFwOGYgubECbIT_LzCXrdNyNmlRQs3iugVWVupqR2mdNGSZOHUPVN0LsQpT7wzcDnr1HcHhdpEvY9zR2X-dOZv4xRbUc11PB6mkZ0p7eSOZ8ClPz-HpNOVOsHhwLlvJvYUSuMImVbhhoZQBy-svGfG7YkONrZ8H3OiakAXOk_2UBOXUy10BrxPzlGHZcsTudG9vdhpbfbvk5rXfr1tLxYuNBbNuIHjO3ZrL493R6LTOcNgQxfra_luC0SEdCh0J7pli0KnGLZ6YQeYW1qxoskeGtB8x3xSIjHoIX_jQofA7BhiVwSNqRsjAX4Ul7KWK3dQJNv1YrtBECZkNh6YkAOIC8S6LxS9TQd39VAdR3LKNjJiyYeVsPzO4cTG_5AzD_LLUvcNUkOehbLrlZ3k0Jaj2tGRN6CUSMCMtxOK1z7hkRt8apKRIKxt6BpXpord8Rfr9aB4KhUng&response_type=sso&prompt=register)
+Don't have an account yet? [Create your account](https://account.booking.com/auth/oauth2?aid=304142&state=UpADeI97XG0RlGiwkr2Vr3ti62Bs0phyOivuS3yhVROpX9v_k4S0X4cHBrl5gLNDoyeQLNP2pDk_2MthV3Iicbt_chu2E3onxaaf1z8BBZmH4fsksB-bAr4MkAiu20-GRTXFZn9zuqLCYLoXvWUolJiH4EGrilbCnrs0fTH_crL_5U-PqRvWA6Ep4zNapuzoR1pxtSKz1gtr54zclvXQeKhN-GjKLIoYFEp1az5k_ufTB3TqSMoI7pn48So5PwAp4Yded6tLEDSNzYKpGlKAigCN_3ywQpeL3XF3L2I4sz17ofM-tXkhdmte09ZaXc2CI8HILv4PQ3uRPaI7QhAAoAYiJYWLrtiYI8alAa0vRMLl62Zq3GuC46GPHEDCnFIciUw18aSvhX6oUU5uh-7KSzcOssctZhfB8Thz5Cvsd83DohdA1jjswHH_vU8j2Uz0XZsIQVC9CxcCFJgAxioIvA9mynu45fbYnyIKwV-IwP7n_Db-Cx8WNm3kLowHizWrLwQDpVqjWQ-MVwTeZen4OLO2bg&lang=en-gb&dt=1722265648&bkng_action=content&response_type=sso&redirect_uri=https%3A%2F%2Fsecure.booking.com%2Flogin.html%3Fop%3Doauth_return&client_id=vO1Kblk7xX9tUn2cpZLS&prompt=register)
 
-![](/logo?ver=0&sid=ab4df5c6406adad36045a243a3fd7a2c&t=1721972744)
+![](/logo?ver=0&sid=f2eaf9f9774fc840aaae583c3bb29f70&t=1722265647)
 
-2035660|1,2035660
+2042040,2035660|1,2035660
