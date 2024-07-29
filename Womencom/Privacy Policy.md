@@ -41,58 +41,142 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Blake Lively smiling](https://www.women.com/img/gallery/6-times-blake-lively-nailed-trends-on-the-red-carpet-while-staying-true-to-her-style/intro-1721858740.jpg)](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
+*  [![Hailey Bieber on the street](https://www.women.com/img/gallery/hailey-biebers-stunning-style-transformation/intro-1720817907.jpg)](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [6 Times Blake Lively Nailed Trends On The Red Carpet While Staying True To Her Style](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
-    =========================================================================================================================================================================================
+    [Hailey Bieber's Stunning Style Transformation](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
+    =============================================================================================================================
     
-    Blake Lively is the queen of red carpet fashion, but if you've ever wondered why her looks standout so much, it's because they're always authentically her.
+    Hailey Bieber has captivated the fashion world for years with her trendy, yet comfortable looks. We're looking back at how her style has evolved over the years.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
+    By Emily Hutchinson [Read More](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
     
-* *  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+* *  [![Woman reading a book ](https://www.women.com/img/gallery/heres-the-right-order-to-read-abby-jimenezs-iconic-rom-com-books-in/intro-1721835462.jpg)](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
         
         [Living](https://www.women.com/category/living/)
         
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
         
-        ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+        ### [Here's The Right Order To Read Abby Jimenez's Iconic Rom-Com Books In](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
         
-        Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
+        Abby Jimenez made writing a career after not being able to find stories that spoke to her. Now she's published six books, with no intention of stopping.
         
-        By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+        By Amanda Chatel [Read More](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
         
-    *  [![Woman reviewing bills](https://www.women.com/img/gallery/underconsumption-core-is-the-ultimate-clapback-to-your-boomer-parents/intro-1721928842.jpg)](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+    *  [![Taylor Swift on stagr](https://www.women.com/img/gallery/taylor-swifts-boldest-hair-looks-of-all-time/intro-1721677826.jpg)](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
         
-        [Living](https://www.women.com/category/living/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Living](https://www.women.com/category/living/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### ['Underconsumption Core' Is The Ultimate Clapback To Your Boomer Parents](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+        ### [Taylor Swift's Boldest Hair Looks Of All Time](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
         
-        By embracing underconsumption core, young people are taking a stand and turning their backs on the idea that consumerism is the route to happiness.
+        She may be a natural blonde, but Taylor Swift has never been afraid to experiment with her hair. Here are some of her most unforgettable hair looks.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+        By Emily Hutchinson [Read More](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
         
 
 More Stories
 ------------
 
-*  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+*  [![Woman reading a book ](https://www.women.com/img/gallery/heres-the-right-order-to-read-abby-jimenezs-iconic-rom-com-books-in/intro-1721835462.jpg)](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+    ### [Here's The Right Order To Read Abby Jimenez's Iconic Rom-Com Books In](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
     
-    Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
+    Abby Jimenez made writing a career after not being able to find stories that spoke to her. Now she's published six books, with no intention of stopping.
     
-    By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+    By Amanda Chatel [Read More](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
+    
+*  [![Taylor Swift on stagr](https://www.women.com/img/gallery/taylor-swifts-boldest-hair-looks-of-all-time/intro-1721677826.jpg)](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Taylor Swift's Boldest Hair Looks Of All Time](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+    
+    She may be a natural blonde, but Taylor Swift has never been afraid to experiment with her hair. Here are some of her most unforgettable hair looks.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
+    
+*  [![Farrah Fawcett feathered cut](https://www.women.com/img/gallery/the-feather-cut-is-the-breeziest-hair-trend-for-summer-2024/intro-1721789062.jpg)](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [The Feather Cut Is The Breeziest Hair Trend For Summer 2024](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
+    The feather cut is back, not that it ever left, so you may want to give it a try this summer. Rest assured, no matter your hair type, it'll suit you.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
+*  [![Pamela Anderson](https://www.women.com/img/gallery/how-to-use-self-tanner-for-a-natural-fake-freckle-look/intro-1721781018.jpg)](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [How To Use Self-Tanner For A Natural Fake Freckle Look](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
+    They were once something that was considered a flaw that people would try to lighten or cover with makeup, but now freckles are having their moment.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
+*  [![Black athletic ballet flats](https://www.women.com/img/gallery/athletic-ballet-flats-are-trending-for-2024-our-favorite-ways-to-wear-them/intro-1721712202.jpg)](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Athletic Ballet Flats Are Trending For 2024 - Our Favorite Ways To Wear Them](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+    
+    Sure, athletic ballet flats are made for walking, but that doesn't mean they can't look fashionable. Here's how to make the shoe work for everyday
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
+    
+*  [![Wearing decorative bun](https://www.women.com/img/gallery/fall-2024-hair-styling-trends-youll-want-to-try/intro-1722015898.jpg)](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Fall 2024 Hair Styling Trends You'll Want To Try](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
+    
+    While fighting off the heat and humidity of summer, we should be looking forward to the hairstyling trends coming our way this fall.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1630895/fall-2024-hair-styling-trends/)
+    
+*  [![Joey King at an event ](https://www.women.com/img/gallery/theres-a-new-short-haircut-just-in-time-for-summer-the-chic-prada-bob/intro-1721253799.jpg)](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [There's A New Short Haircut Just In Time For Summer: The Chic Prada Bob](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+    
+    Featuring a deep side part and ultra-short length, the Prada bob exudes old Hollywood sophistication. Plus, it's easier to style than you think.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1624986/prada-bob-short-haircut-trend-summer-2024/)
+    
+*  [![bella hadid with latte nails](https://www.women.com/img/gallery/bella-hadid-just-gave-the-latte-nails-trend-a-huge-upgrade-for-summer-2024/intro-1721843422.jpg)](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Bella Hadid Just Gave The Latte Nails Trend A Huge Upgrade For Summer 2024](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
+    
+    Bella Hadid put a delicious twist on the latte nails trend in 2024 when she stepped out on the Cannes red carpet with café au lait nails.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1629262/bella-hadid-latte-nails-trend-upgrade-summer-2024/)
     
 *  [![Woman reviewing bills](https://www.women.com/img/gallery/underconsumption-core-is-the-ultimate-clapback-to-your-boomer-parents/intro-1721928842.jpg)](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
     
@@ -105,6 +189,30 @@ More Stories
     By embracing underconsumption core, young people are taking a stand and turning their backs on the idea that consumerism is the route to happiness.
     
     By Emily Hutchinson [Read More](https://www.women.com/1630064/viral-underconsumption-core-tiktok-trend-important/)
+    
+*  [![Woman reading ](https://www.women.com/img/gallery/5-booktok-movie-adaptations-we-cant-wait-for/intro-1721665915.jpg)](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [5 BookTok Movie Adaptations We Can't Wait For](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+    
+    Fortunately, the books we've sourced for this literary hunt have been confirmed by production companies. We'll get the popcorn ready.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1627404/booktok-movie-adaptations-cant-wait-for/)
+    
+*  [![Blake Lively smiling](https://www.women.com/img/gallery/6-times-blake-lively-nailed-trends-on-the-red-carpet-while-staying-true-to-her-style/intro-1721858740.jpg)](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    
+    ### [6 Times Blake Lively Nailed Trends On The Red Carpet While Staying True To Her Style](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
+    
+    Blake Lively is the queen of red carpet fashion, but if you've ever wondered why her looks work so well, it's because they're always authentically her.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1629508/times-blake-lively-nailed-trends-red-carpet-staying-true-her-style/)
     
 *  [![Zendaya at Wimbeldon ](https://www.women.com/img/gallery/zendayas-mob-wife-manicure-hits-all-the-right-trends-for-summer-2024/intro-1721321182.jpg)](https://www.women.com/1625448/zendaya-mob-wife-nails-hits-trends-summer-2024/)
     
@@ -321,114 +429,6 @@ More Stories
     Peeling fingertips are a nuisance at best, and a painful problem at worst. Here are some helpful solutions to manage them at home.
     
     By Emily Hutchinson [Read More](https://www.women.com/1623013/best-tips-treating-skin-peeling-around-nails/)
-    
-*  [![Wearing gingham skirt](https://www.women.com/img/gallery/iconic-gingham-fashion-is-taking-over-for-summer-2024/intro-1721065637.jpg)](https://www.women.com/1622746/iconic-gingham-fashion-summer-2024-trend/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Iconic Gingham Fashion Is Taking Over For Summer 2024](https://www.women.com/1622746/iconic-gingham-fashion-summer-2024-trend/)
-    
-    If you want to get in on the iconic gingham fashion trend of the moment, there's no better time than now to do that.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1622746/iconic-gingham-fashion-summer-2024-trend/)
-    
-*  [![Woman with tan lines](https://www.women.com/img/gallery/diy-fake-tan-lines-are-the-beauty-trend-going-viral-on-tiktok-this-summer/intro-1721057728.jpg)](https://www.women.com/1622541/diy-fake-tan-lines-beauty-trend-viral-tiktok-summer/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [DIY Fake Tan Lines Are The Beauty Trend Going Viral On TikTok This Summer](https://www.women.com/1622541/diy-fake-tan-lines-beauty-trend-viral-tiktok-summer/)
-    
-    Even when TikTok isn't serving up dangerously unconventional trends, it's still an endless rabbit hole of style mayhem. Enter: DIY fake tan lines.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1622541/diy-fake-tan-lines-beauty-trend-viral-tiktok-summer/)
-    
-*  [![Jessica Simpson holding her book](https://www.women.com/img/gallery/the-best-celebrity-read-audiobooks-you-can-listen-to-now/intro-1721084740.jpg)](https://www.women.com/1623109/best-celebrity-read-audiobooks/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [The Best Celebrity-Read Audiobooks You Can Listen To Now](https://www.women.com/1623109/best-celebrity-read-audiobooks/)
-    
-    From Britney Spears' powerful memoir to Tina Fey's hilarious book of anecdotes, these celebrity stories were made to be heard out loud.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1623109/best-celebrity-read-audiobooks/)
-    
-*  [![Aimee Urista, Megan Jackson Stoffer](https://www.women.com/img/gallery/heres-what-went-down-with-hip-chixs-jeans-after-shark-tank/intro-1720714987.jpg)](https://www.women.com/1620470/what-went-down-hip-chixs-jeans-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With Hip Chixs Jeans After Shark Tank](https://www.women.com/1620470/what-went-down-hip-chixs-jeans-after-shark-tank/)
-    
-    With so many impressive details, the Hip Chixs founders felt confident enough to present their pants to the Sharks. But things didn't go as planned.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1620470/what-went-down-hip-chixs-jeans-after-shark-tank/)
-    
-*  [![Mirrorball nails](https://www.women.com/img/gallery/mirrorball-nails-are-this-summers-standout-manicure-trend/intro-1719357441.jpg)](https://www.women.com/1610087/mirrorball-nails-summer-standout-manicure-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Mirrorball Nails Are This Summer's Standout Manicure Trend](https://www.women.com/1610087/mirrorball-nails-summer-standout-manicure-trend/)
-    
-    Shimmering like a shiny disco ball in a nightclub, a mirrorball manicure will have you feeling like a dancing queen all summer long.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1610087/mirrorball-nails-summer-standout-manicure-trend/)
-    
-*  [![Anne Hathaway](https://www.women.com/img/gallery/anne-hathaways-viral-lip-plumping-hack-requires-no-extra-products-just-a-hair-pin/intro-1720710710.jpg)](https://www.women.com/1620359/anne-hathaway-viral-lip-plumping-hack-hair-pin/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Anne Hathaway's Viral Lip Plumping Hack Requires No Extra Products (Just A Hair Pin)](https://www.women.com/1620359/anne-hathaway-viral-lip-plumping-hack-hair-pin/)
-    
-    Recently, Anne Hathaway took to TikTok to share her hack for plumping her lips when they're not looking as full as she'd like. Proceed with caution.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1620359/anne-hathaway-viral-lip-plumping-hack-hair-pin/)
-    
-*  [![Blonde Zendaya](https://www.women.com/img/gallery/the-hottest-blonde-hair-trends-of-2024/intro-1720636305.jpg)](https://www.women.com/1619736/hottest-blonde-hair-trends-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Hottest Blonde Hair Trends Of 2024](https://www.women.com/1619736/hottest-blonde-hair-trends-2024/)
-    
-    Roughly 70 years ago, an advertising slogan was born: Blondes have more fun. And in 2024, there are so many ways to embrace that saying.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619736/hottest-blonde-hair-trends-2024/)
-    
-*  [![the original stretchlace](https://www.women.com/img/gallery/heres-what-went-down-with-the-original-stretchlace-after-shark-tank-714-air-date/intro-1720559336.jpg)](https://www.women.com/1619132/what-went-down-with-the-original-stretchlace-after-shark-tank/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Here's What Went Down With The Original Stretchlace After Shark Tank](https://www.women.com/1619132/what-went-down-with-the-original-stretchlace-after-shark-tank/)
-    
-    With a background in ecommerce, The Original Stretchlace founder Jamie Montz was well prepared when she pitched her product on Shark Tank. But did it pay off?
-    
-    By Amanda Chatel [Read More](https://www.women.com/1619132/what-went-down-with-the-original-stretchlace-after-shark-tank/)
-    
-*  [![Taylor Swift on stage](https://www.women.com/img/gallery/13-times-taylor-swift-proved-she-was-a-revenge-dress-queen/intro-1720020325.jpg)](https://www.women.com/1615532/times-taylor-swift-proved-she-was-revenge-dress-queen/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [13 Times Taylor Swift Proved She Was A Revenge-Dress Queen](https://www.women.com/1615532/times-taylor-swift-proved-she-was-revenge-dress-queen/)
-    
-    Taylor Swift has been "dressing for revenge," and not just against her exes. Some of Swift's most iconic looks were aimed at Kanye and others.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1615532/times-taylor-swift-proved-she-was-revenge-dress-queen/)
     
 
 Back
