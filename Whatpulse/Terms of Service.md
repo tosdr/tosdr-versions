@@ -164,7 +164,7 @@ Now, let’s party.
 
 © 2004-2024 WhatPulse.  
 Made with ❤️ by [@smitmartijn](https://twitter.com/smitmartijn)  
-All times are in 2024-07-25.
+All times are in 2024-07-29.
 
 ### Related Products
 
@@ -199,4 +199,5 @@ All times are in 2024-07-25.
 * [Contact Us](https://whatpulse.org/contact/)
 * [Privacy Policy](https://whatpulse.org/privacy/)
 * [Terms of Service](https://whatpulse.org/terms/)
-* [Assets](https://whatpulse.org/pages/assets/)
+* [Media Assets](https://whatpulse.org/pages/assets/)
+* [Merchandise Shop](https://whatpulse.shop/)
