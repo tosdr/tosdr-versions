@@ -120,7 +120,7 @@ We're building an open financial system for the world.
 
 Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more](https://www.coinbase.com/uk-fca-info)
 
-[User Agreement](https://www.coinbase.com/en-gb/en-gb/legal/user_agreement "User Agreement")[Privacy](https://www.coinbase.com/en-gb/en-gb/legal/privacy "Privacy")[Cookie Policy](https://www.coinbase.com/en-gb/en-gb/legal/cookie "Cookie Policy")[Licenses](https://www.coinbase.com/en-gb/en-gb/legal/licenses "Licenses")[Insurance](https://www.coinbase.com/en-gb/en-gb/legal/insurance "Insurance")[Market Data](https://www.coinbase.com/en-gb/en-gb/legal/market_data "Market Data")[Trading Rules](https://www.coinbase.com/en-gb/en-gb/legal/trading_rules "Trading Rules")
+[User Agreement](https://www.coinbase.com/en-gb/legal/user_agreement "User Agreement")[Privacy](https://www.coinbase.com/en-gb/legal/privacy "Privacy")[Cookie Policy](https://www.coinbase.com/en-gb/legal/cookie "Cookie Policy")[Licenses](https://www.coinbase.com/en-gb/legal/licenses "Licenses")[Insurance](https://www.coinbase.com/en-gb/legal/insurance "Insurance")[Market Data](https://www.coinbase.com/en-gb/legal/market_data "Market Data")[Trading Rules](https://www.coinbase.com/en-gb/legal/trading_rules "Trading Rules")
 
 Legal
 =====
