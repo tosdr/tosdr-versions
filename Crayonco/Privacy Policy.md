@@ -16,7 +16,6 @@
     * [Library](https://www.crayon.co/resources)
     * [Case Studies](https://www.crayon.co/case-studies)
     * [State of Competitive Intelligence](https://www.crayon.co/state-of-competitive-intelligence)
-    * [Podcast](https://www.crayon.co/podcast)
 * [Company](javascript:;)
     * [About Us](https://www.crayon.co/about)
     * [Partner Directory](https://www.crayon.co/partners)
