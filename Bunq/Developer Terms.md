@@ -51,17 +51,17 @@
 [##### Press](https://press.bunq.com/)
 
 Documents
-=========
+---------
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
 Documents
-=========
+---------
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
 Documents
-=========
+---------
 
 All the legal mumbo-jumbo, presented in a way that won't put you to sleep.
 
@@ -411,7 +411,7 @@ Cookie Settings
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)
+[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
@@ -489,7 +489,7 @@ Cookie Settings
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)
+[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
@@ -567,4 +567,4 @@ Cookie Settings
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&redirect=https%3A%2F%2Fapps.apple.com%2Fapp%2Fid1021178150%3Fmt%3D8)
+[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
