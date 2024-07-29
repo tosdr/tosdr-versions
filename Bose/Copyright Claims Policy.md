@@ -1,5 +1,7 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
+[Sign up](https://www.bose.com/account) to be a My Bose VIP and enter for a chance to win an upcoming My Bose x NME C24 Vinyl Giveaway
+
 Save an extra 20% on [Certified Refurbished](https://www.bose.com/c/refurbished) products with code SUMMER20.
 
 New QuietComfort Headphones in limited-edition Chilled Lilac. [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html)
