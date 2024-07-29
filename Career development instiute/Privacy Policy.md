@@ -70,8 +70,8 @@ Search for anything
 * [Training and Events](https://www.thecdi.net/training-and-events)
     * [Careers calendar](https://www.thecdi.net/training-and-events/careers-calendar)
     * [National Careers Leaders' Conference](https://www.thecdi.net/training-and-events/national-career-leaders-conference)
-    * [CDI Conference](https://www.thecdi.net/training-and-events/national-conference)
     * [National Research Conference](https://www.thecdi.net/training-and-events/national-research-conference)
+    * [CDI Conference](https://www.thecdi.net/training-and-events/national-conference)
     * [Scottish Student Conference](https://www.thecdi.net/training-and-events/student-conference-scotland)
     * [Student Conference (England and Wales)](https://www.thecdi.net/training-and-events/student-conference-(england-and-wales))
     * [CDI/NICEC At the Cutting Edge](https://www.thecdi.net/training-and-events/cutting-edge)
@@ -109,7 +109,6 @@ Search for anything
     * [Valuing Careers](https://www.thecdi.net/policy-campaigns-and-media/valuing-careers)
 * [Careers Jobs](https://www.thecdi.net/careers-jobs)
     * [Advertise in Careers in Careers](https://www.thecdi.net/careers-jobs/avertise-careers-in-careers)
-* [Unemployed](https://www.thecdi.net/unemployed)
 
 * [GDPR Compliance Statement](https://www.thecdi.net/gdpr-compliance-statement)
 * [Terms and Conditions](https://www.thecdi.net/terms-and-conditions)
