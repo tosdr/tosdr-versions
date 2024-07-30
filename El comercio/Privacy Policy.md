@@ -31,1366 +31,1065 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Snoop Dogg, el rapero que portó la antorcha olímpica en París 2024
-==================================================================
+Daniel Noboa inauguró una unidad educativa
+==========================================
 
-Uno de los artistas más conocidos del mundo tuvo una participación icónica en los Juegos Olímpicos de París 2024. 
-------------------------------------------------------------------------------------------------------------------
+La construcción de la unidad educativa inaugurada por Daniel Noboa se inició en 2015, pero no había sido concluida.
+-------------------------------------------------------------------------------------------------------------------
 
-![Snoop Dogg cargando la antorcha olímpica en los Juegos Olímpicas de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-26T113302.339.jpg)
+![El presidente Daniel Noboa inauguró instalaciones en una unidad educativa de Paján, Manabí.](https://www.elcomercio.com/wp-content/uploads/2024/07/subteniente-del-Ejercito-que-fue-hallada-sin-vida-en-su-habitacion-del-Cuartel-de-la-Brigada-Militar-19-Napo-2.jpg)
 
-La ceremonia de inauguración de los **Juegos Olímpicos de París 2024** se realizará este viernes 26 de julio, que ya contó con momentos icónicos. Uno de ellos fue la aparición de **Snoop Dogg** con la antorcha olímpica. 
+El presidente **Daniel Noboa** inauguró la **Unidad Educativa Mayor Campozano**, ubicada en **Paján, Manabí**, este 29 de julio de 2024.
 
-El rapero estadounidense fue una de las últimas personas en cargar la antorcha olímpica, en el último día de relevo, antes de que aparezca en la ceremonia de apertura, que se realizará en el **río Sena** con todas las delegaciones participantes. 
-
-### Más noticias:
-
-* [Ecuatorianos en los Juegos Olímpicos París 2024, fechas y horarios](https://www.elcomercio.com/deportes/juegos-olimpicos/ecuatorianos-juegos-olimpicos-paris2024-horarios-fechas.html "Ecuatorianos en los Juegos Olímpicos París 2024, fechas y horarios")
-* [Así será la inauguración de los Juegos Olímpicos de París 2024](https://www.elcomercio.com/uncategorized/juegos-olimpicos-inauguracion-paris-2024.html "Así será la inauguración de los Juegos Olímpicos de París 2024")
-* [Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos](https://www.elcomercio.com/actualidad/mundo/ataque-trenes-francia-juegos-olimpicos.html "Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos")
-
-Snoop Dogg con la antorcha olímpica
------------------------------------
-
-**Snoop Dogg** cargó la antorcha olímpica con emoción y una sonrisa en el rostro. En varias imágenes que circulan en las redes sociales se muestra el ícono del hip-hop disfrutando de dicho momento. 
-
-Inclusive hay un video donde Calvin Cordozar Broadus Jr., su verdadero nombre, sale **bailando y disfrutando con la gente** que se acercó a verlo antes de que traspase la antorcha a la siguiente persona. 
-
-“El **crossover que no sabíamos que necesitábamos**“, publicó la cuenta oficial de los Juegos Olímpicos de París 2024 en sus redes sociales. 
-
-> The crossover we didn’t know we needed 🤩  
-> –  
-> C'est donc ça le multiverse 🤩  
-> Suivez l’étape du jour en direct sur [@FranceTV](https://twitter.com/FranceTV?ref_src=twsrc%5Etfw) : [https://t.co/TWcSUAw0vu](https://t.co/TWcSUAw0vu)[#Paris2024](https://twitter.com/hashtag/Paris2024?src=hash&ref_src=twsrc%5Etfw) [@Olympics](https://twitter.com/Olympics?ref_src=twsrc%5Etfw) [@SnoopDogg](https://twitter.com/SnoopDogg?ref_src=twsrc%5Etfw) [@NBCOlympics](https://twitter.com/NBCOlympics?ref_src=twsrc%5Etfw) [@TeamUSA](https://twitter.com/TeamUSA?ref_src=twsrc%5Etfw)  
-> 📸 Paris 2024 [pic.twitter.com/E3Bf5pIuCi](https://t.co/E3Bf5pIuCi)
-> 
-> — Paris 2024 (@Paris2024) [July 26, 2024](https://twitter.com/Paris2024/status/1816794486661349529?ref_src=twsrc%5Etfw)
-
-¿Por qué Snoop Dogg está en París 2024?
----------------------------------------
-
-El rapero estadounidense tendrá una labor fundamental en los **Juegos Olímpicos de París 2024**, sobre todo para un canal de su país. 
-
-**Snoop** **Dogg** participará como comentarista deportivo para la emisora estadounidense NBC.
-
-No será la primera vez que el rapero esté involucrado en algo deportivo, ya que anteriores ocasiones estuvo en la empresa de lucha libre WWE y en algunos Super Bowls.
-
-> Snoop Dogg carrying the Olympic torch is a vibe [pic.twitter.com/ZP5fUVDvav](https://t.co/ZP5fUVDvav)
-> 
-> — Bastien Fachan (@BastienFachan) [July 26, 2024](https://twitter.com/BastienFachan/status/1816780131412623731?ref_src=twsrc%5Etfw)
-
-Datos de la inauguración de los Juegos Olímpicos de París 2024
---------------------------------------------------------------
-
-– **Los 6 km de recorrido por el río**: los deportistas surcarán el Sena en **90 embarcaciones** que recorrerán los 6 km desde el puente de Austerlitz al Puente de Jena[.](https://en.wikipedia.org/wiki/2024_Summer_Olympics)
-
-– **Fin de fiesta en el Trocadero**: la parte más ceremonial de la inauguración se celebrará en Trocadero, donde estarán las autoridades, unos 200 jefes de Estado y de Gobierno.
-
-– Una operación **de seguridad descomunal**: los **326 000 espectadores** que se esperan a lo largo del Sena estarán protegidos por un despliegue de 45 000 agentes. El dispositivo incluye también a 20 000 agentes de seguridad privada y unos 10 000 soldados.  
-
-(En vivo) Inauguración de los Juegos Olímpicos de París 2024
-============================================================
-
-Los Juegos Olímpicos de París 2024 se inauguran este viernes 26 de julio. La delegación de Ecuador tiene 40 deportistas clasificados.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![La Torre Eiffel con los anillos olímpicos se muestra desde la plaza Trocadero antes de la inauguración de los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/inauguracion_juegos_olimpicos.jpg)
-
-La hora cero llegó. La **inauguración de los Juegos Olímpicos de París 2024** empezará desde las 12:30. El río Sena es el escenario escogido por las autoridades francesas para este evento que está en los ojos del mundo.
-
-En los **Juegos Olímpicos de París 2024 alrededor de 10 500 deportistas** se dan cita para competir en los 32 deportes desde este viernes 26 de julio hasta el domingo 11 de agosto.
+La obra inició en 2015 y las administraciones anteriores no la concluyeron.
 
 ### Más noticias:
 
-* [Luisa Valverde se visualiza en el podio en París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/luisa-valverde-juegos-olmpicos-paris2024.html "Luisa Valverde se visualiza en el podio en París 2024")
-* [Angie Palacios es una de las máximas candidatas a medalla en los Juegos Olímpicos París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/angie-palacios-es-una-de-las-maximas-candidatas-a-medalla-en-los-juegos-olimpicos-paris-2024.html "Angie Palacios es una de las máximas candidatas a medalla en los Juegos Olímpicos París 2024")
-* [El extravagante deporte que debutará en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/extravagante-deporte-debutara-break-dance-juegos-olimpicos-paris.html "El extravagante deporte que debutará en los Juegos Olímpicos de París 2024 ")
+* [Asamblea promulgó la Ley de Lavado de Activos, Presidencia demandará inconstitucionalidad](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-promulgo-ley-lavado-activos-pese-veto-presidencial.html "Asamblea promulgó la Ley de Lavado de Activos, Presidencia demandará inconstitucionalidad")
+* [Daniel Noboa se pronuncia sobre las elecciones en Venezuela](https://www.elcomercio.com/actualidad/politica/daniel-noboa-elecciones-venezuela.html "Daniel Noboa se pronuncia sobre las elecciones en Venezuela")
 
-Por Ecuador son **40 atletas que se clasificaron para París 2024**, 24 son mujeres y 16 hombres. Los abanderados serán Neisi Dajomes, campeona olímpica en Tokio 2020 y el campeón Panamericano de la categoría ecuestre Julio Mendoza.
+La obra servirá a s **2 280 estudiantes** y la planta docente y tuvo una inversión de **1.9 millones de dólares**.
 
-En un principio el **elegido para llevar la bandera tricolor fue el marchista Daniel Pintado**, pero recién arribará a la Villa Olímpica en París el 28 de julio desde Portugal, donde se encuentra en su etapa final para competir en los 20 km marcha.
+El presidente Daniel Noboa dijo que este centro es parte de las seis unidades educativas cuyas construcciones fueron abandonadas.
 
- El Departamento Técnico  Metodológico (DTM) del Comité Olímpico Ecuatoriano (COE) se ha puesto la meta “prudente”  de ganar unas 5 medallas.
+El mandatario agregó que estas unidades educativas seguirán abriendo sus puertas con una inversión total de **20 millones de dólares**.
 
-La halterofilia concentra las mayores esperanzas de medalla para Ecuador con la participación de las hermanas **Neisi Dajomes, actual campeona olímpica, y Angie Palacios,** en el levantamiento de pesas.
+Los servicios que tiene la unidad educativa inaugurada por Daniel Noboa
+-----------------------------------------------------------------------
 
-También en el COE están convencidos de que la levantadora de pesas Lisseth Ayoví “peleará” por otra medalla más en esta disciplina, por lo menos de bronce.
+La Unidad Educativa Mayor Campozano ofrece desde el nivel inicial hasta bachillerato, en dos jornadas.
 
-Las luchadoras **Lucía Yépez y Luisa Valverde** “van por cualquiera de las medallas” y amplían el plan de posibilidades Daniel Pintado, David Hurtado y Glenda Morejón, en los 20 kilómetros marcha.
+Sus instalaciones incluyen aulas de educación inicial, laboratorios de idiomas, computación, física y química, un bar escolar, canchas y salón de uso múltiple, entre otras áreas.
 
-¿Cómo será la inauguración de los Juegos Olímpicos?
----------------------------------------------------
+La culminación de estas obras es parte del proyecto “Culminación y Construcción de  
+Infraestructura Educativa”.
 
-Como es tradicional, **el desfile lo abrirá la delegación olímpica de Grecia** -por ser la génesis del olimpismo- a un ritmo preciso de 9 kilómetros por hora para completar el recorrido en un tiempo de 42 minutos.
+La ministra de Educación, **Alegría Crespo**, manifestó que establecimiento cuenta con una moderna planta de tratamiento de aguas residuales.
 
-En total, cerca de 90 navíos transportarán a unos 8.500 atletas (en París hay más de 10.000 aspirantes a medalla, pero no todos pueden asistir a la ceremonia), con lo que **las embarcaciones no coincidirán exactamente con el número de naciones participantes (206)** y muchos países tendrán que compartir cubierta.
+Esto servirá para reutilizar el agua en riego de áreas verdes y sanitarios.
 
-Lo que los deportistas y 326 000 espectadores presenciales, entre ellos 200 jefes de Estado y de Gobierno, **verán durante las 3 horas y 45 minutos de espectáculo es un misterio**, aunque los preparativos en el Sena han permitido anticipar algunos detalles, incluso a pesar de que el centro de la ciudad es un búnker de seguridad desde el pasado día 18.
+**Joselyn Morán**, madre de familia, agradeció al mandatario por la obra.
 
-Se ha visto en París a **[Lady Gaga y, sobre todo, a Céline Dion](https://www.elcomercio.com/deportes/juegos-olimpicos/calendario-team-ecuador-juegos-olimpicos.html)**, un nombre que llevaba sonando meses para una gran reaparición olímpica después de que la artista -que es originaria del Canadá francés y representaría un guiño a la francofonía- tuviera que dejar los escenarios por el síndrome de persona rígida (SPR).
+¿Cuándo pelea Marlon ‘Chito’ Vera en la UFC?
+============================================
 
-No te pierdas – El Confesionario con David Hurtado
---------------------------------------------------
-
-Los Obama dan el apoyo a Kamala Harris como candidata a la presidencia de EE.UU.
-================================================================================
-
-El matrimonio dice que hará “todo lo posible para que supere esta elección y llegue al Despacho Oval”.
-------------------------------------------------------------------------------------------------------
-
-![El expresidente de Estados Unidos Barack Obama y la ex primera dama Michelle Obama. Foto: EP](https://www.elcomercio.com/wp-content/uploads/2024/07/520-1.jpg)
-
-La vicepresidenta de EEUU, Kamala Harris, agradeció este viernes 26 de julio del 2024 el apoyo recibido de Barack Obama y de su esposa Michelle. Este espaldarazo es clave para lograr la candidatura demócrata en las elecciones presidenciales del próximo mes de noviembre.
-
-Más noticias
-------------
-
-* [Kamala Harris estimula a su base en Texas](https://www.elcomercio.com/actualidad/mundo/kamala-harris-estimula-base-texas.html "Kamala Harris estimula a su base en Texas")
-* [Joe Biden justifica su renuncia a la reelección como un acto “en defensa de la democracia”](https://www.elcomercio.com/actualidad/mundo/joe-biden-justifica-su-renuncia-a-la-reeleccion-como-un-acto-en-defensa-de-la-democracia.html "Joe Biden justifica su renuncia a la reelección como un acto “en defensa de la democracia”")
-
-> “Significa mucho contar con vuestro respaldo, @MichelleObama y @BarackObama. Pongámonos a trabajar”.
-
-Este mensaje escribió Harris en un escueto mensaje en su cuenta de X. Ahí se reprodujo el video de apoyo que había recibido previamente de los Obama.
-
-En el video, de menos de un minuto, no se ve las caras de los Obama. Se escucha la voz de la pareja en una conversación telefónica con Harris.
-
-“Llamamos para decir que Michelle y yo no podríamos estar más orgullosos de respaldarte y hacer todo lo posible para que superes esta elección y llegues al Despacho Oval”. Este mensaje se escucha al exmandatario durante la conversación.
-
-De manera simultánea, los Obama publicaron sendos mensajes en X, en el que también compartieron el mismo video.
-
-El expresidente de EE.UU. confirmaba en su publicación que a principios de esta semana “Michelle y yo llamamos a nuestro amiga @KamalaHarris”.
-
-Los Obama creen que Harris será una presidenta fantástica
----------------------------------------------------------
-
-“Le dijimos que creemos que será una presidenta fantástica de los EE.UU. y que cuenta con todo nuestro apoyo. En este momento crítico para nuestro país, haremos todo lo posible para asegurarnos de que ella gane en noviembre. Esperamos que te unas a nosotros”, agregó.
-
-De forma paralela, Michelle Obama, en otro mensaje dijo estar “muy orgullosa de mi chica, Kamala. Barack y yo estamos muy emocionados al respaldarla como candidata demócrata debido a su positividad, sentido del humor y capacidad de llevar luz y esperanza a personas de todo el país.
-
-> ¡Te respaldamos, @KamalaHarris!”.
-
-Hasta ahora los Obama todavía no habían había hecho público el respaldo a la candidatura de Harris, un apoyo muy esperado por su influencia y ascendencia en el partido.
-
-Harris elige música de Beyonce para video de campaña
-----------------------------------------------------
-
-Kamala Harris lanzó este jueves 25 de julio del 2024 su primer video de campaña. En este se posiciona como una defensora de la libertad con música de Beyoncé de fondo.
-
-Harris explica que las elecciones del 5 de noviembre próximo servirán para que los estadounidenses elijan si quieren vivir en un país donde ‘reine el odio o un país en el que las personas sean libres”.
-
-Con imágenes del candidato republicano, Donald Trump, y de su “número dos” JD Vance, la vicepresidenta relata que “algunos quieren un país de caos, de medio y de odio”. Pero ella propone algo diferente: “Nosotros escogemos la libertad”.
-
-En Ambato hay indignación por la aplicación de eutanasia a 69 cachorros
-=======================================================================
-
-Los 69 cachorros fueron eutanasiados en un albergue municipal de mascotas de Ambato.
-------------------------------------------------------------------------------------
-
-![Indignación por la aplicación de eutanasia a 69 cachorros en Ambato. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo-2024-07-26T111757.235.jpg)
-
-69 cachorros fueron **eutanasiados** en el albergue municipal de mascotas de **Ambato**. Así lo muestra un video que circula en las diferentes **redes sociales**. 
-
-### Más noticias
-
-* [¡Histórico! Ratifican sentencia para la culpable de la muerte del perro Spike](https://www.elcomercio.com/narices-frias/perro-spike-culpable-muerte-husky-quito.html "https://www.elcomercio.com/narices-frias/perro-spike-culpable-muerte-husky-quito.html")
-* [¿Qué es un animal de compañía en Ecuador?](https://www.elcomercio.com/tendencias/bienestar/animal-compania-mascota-bienestar-sanciones-ecuador.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/bienestar/animal-compania-mascota-bienestar-sanciones-ecuador.html?source=Internal&ref=Single+Content+Link")
-* [El Condado y Calderón están en alerta roja por el número de gatos deambulantes](https://www.elcomercio.com/narices-frias/gatos-deambulantes-quito-condado-calderon.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gatos-deambulantes-quito-condado-calderon.html?source=Internal&ref=Single+Content+Link") 
-
-El **video** fue compartido por varias cuentas que defienden los derechos de los **animales** como la de los **Poliperros** y Camilo en Acción Animal.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C93VWoBv8-2/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Camilo en Accion Animal (@camiloenaccionanimal)](https://www.instagram.com/reel/C93VWoBv8-2/?utm_source=ig_embed&utm_campaign=loading)
-
-Esta última compartió el **video** con el siguiente texto: “Sacrificaron a 69 **cachorritos** en el **Albergue** municipal de mascotas de **Ambato** y metieron sus cuerpitos en las fundas de comida”.
-
-Añadió: “Pedimos justicia y que sean sancionados los responsables de esta barbaridad”.
-
-Los mensajes de indignación no se hicieron esperar. Decenas de personas exigen que las personas que eutanasiaron a los **cachorros** sean sancionadas. 
-
-Todos los mensajes están direccionados al **Municipio de Ambato**.
-
-### **Eutanasia a cachorros genera indignación colectiva**
-
-En la **Ordenanza Municipal del Distrito Metropolitana de Quito**, por ejemplo, se dice que la “muerte provocada por procedimientos de **eutanasia** que no cumplan con los parámetros legales y técnicos establecidos para la **eutanasia** en la normativa” se considerará una **Infracción muy grave**; esa se sanciona con 10 salarios básicos unificados (4 600 dólares).
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C9yRBkRoGtq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C9yRBkRoGtq/?utm_source=ig_embed&utm_campaign=loading)
-
-Sobre la **eutanasia** también resalta que: “Queda estrictamente prohibida la **eutanasia** como método de control de población en criaderos, exceptuando casos que deberán ser autorizados por la Unidad de Bienestar Animal en coordinación con el Comité de Ética o Bioética”.
-
-También señala que: “Cuando el **animal** sea diagnosticado cómo peligroso, se debe cumplir lo dispuesto en este título para someterlos a **eutanasia**“
-
-“Siempre que se cuente con el consentimiento informado de su tenedor responsable cuando sea aplicable”.
-
-### **¿Qué es, cuándo y cómo se debería aplicar la eutanasia?**
-
-En el artículo 85 de la **Ordenanza Municipal** se lee que la eutanasia es el único método permitido y aprobado para provocar la muerte de un animal cuando se encuentre en un estado de sufrimiento constante por presentar una afectación morfológica, fisiológica, mental o cerebral; esos padecimientos deben ser diagnosticados por un veterinario titulado.
-
-La **eutanasia** también se aplica cuando el **animal** es portador de una enfermedad zoonótica o epizoótica; esa **enfermedad** debe constituir un riesgo para la salud pública, la biodiversidad.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C9gPfgFoUwv/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C9gPfgFoUwv/?utm_source=ig_embed&utm_campaign=loading)
-
-La aplicación de este método, además, de ser indoloro y rápido. Se debe minimizar el miedo y sufrimiento del animal.
-
-Lamentablemente, en ese video se observa el **terror** de los cachorros. Uno de ellos intenta defense fijando las patitas traseras en el filo de un lavabo donde están varios cadáveres.
-
-Frente a eso, la persona que maneja la cuenta de **Camilo en Acción Animal** escribió, etiquetando al Municipio de **Ambato**, “qué pasa por favor. No hay justificación para eutanasiar a 69 cachorros”.
-
-Añadió: “entendemos que una camada talvez tenía alguna enfermedad letal, pero no por eso van a sacrificar a toda una manada”.
-
-¿Qué se recuerda el 26 de julio? 
-=================================
-
-El 26 de julio, Día de los Abuelos, se celebra en varios países católicos en honor a Santa Ana y San Joaquín, abuelos de Jesús.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Ser abuelo no significa ser mayor; es un privilegio y derecho, no una obligación. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/07/dia-abuelos.jpg)
-
-El **Día de los Abuelos**, según [El Mundo](https://www.elmundo.es/como/2024/07/26/66a35180fdddff61778b459e.html "https://www.elmundo.es/como/2024/07/26/66a35180fdddff61778b459e.html"), se celebra hoy, 26 de julio de 2024, en varios países mayoritariamente de **creencia católica**, ya que la Iglesia conmemora a **Santa Ana** y **San Joaquín**, abuelos de Jesús. En 1998, la ONG **Mensajeros de la Paz** creó este día. 
-
-### Más noticias
-
-* [¿Qué se celebra el 23 de julio?](https://www.elcomercio.com/tendencias/efemerides-dia-ballenas-delfines-peru.html "https://www.elcomercio.com/tendencias/efemerides-dia-ballenas-delfines-peru.html")
-* [¿Qué se celebra el 22 de julio?](https://www.elcomercio.com/tendencias/salud/dia-mundial-cerebro-salud-efemerides.html "https://www.elcomercio.com/tendencias/salud/dia-mundial-cerebro-salud-efemerides.html") 
-
-Y si te preguntabas, **¿cuándo es el Día de los Abuelos en Ecuador?**, pues no solo se conmemora hoy, sino que también, según la página del [Ministerio de Inclusión](https://www.inclusion.gob.ec/ecuador-celebra-el-dia-nacional-de-los-abuelos-y-abuelas/ "https://www.inclusion.gob.ec/ecuador-celebra-el-dia-nacional-de-los-abuelos-y-abuelas/") (MIES), se puede festejar el último domingo de agosto, cuando se celebra el **Día Nacional de los Abuelos y Abuelas**. Además, según dicta la ONU, el **Día Internacional de los Abuelos** se puede homenajear el 1 de octubre, que formalmente es el **Día Internacional de las Personas de Edad**. 
-
-**¿Qué es ser abuelo?** 
-------------------------
-
-La página [Nosotros los Mayores](https://www.nosotroslosmayores.es/2022/07/25/ser-abuelo-o-abuela-no-significa-ser-mayor-sino-tener-nietos/ "https://www.nosotroslosmayores.es/2022/07/25/ser-abuelo-o-abuela-no-significa-ser-mayor-sino-tener-nietos/") destaca que **ser abuelo** no significa solo ser mayor y tener nietos. Es importante dar a las **personas mayores** un trato personalizado y no utilizar ‘abuelo’ o ‘abuela’ como sinónimo de **persona mayor**, ya que estas son diversas y heterogéneas.  
-
-**Ser abuelo o abuela** es un privilegio, pero **no debe ser una obligación** impuesta por los hijos, sino un derecho de las personas mayores.  
-
-Reconocemos el valor de los abuelos en la **transmisión de valores**, cuidado y bienestar psicológico de los nietos, y en la ayuda a las familias y la sociedad. Además, **apoyamos la participación de las personas mayores** en programas intergeneracionales que fomentan el intercambio de experiencias y desmontan estereotipos. 
-
-**¿Cómo les dicen a los abuelos en Ecuador?** 
-----------------------------------------------
-
-En Ecuador, **la forma de llamar a los abuelos** es tan diversa como su rica cultura. Los términos más comunes son “abuelo” y “abuela”, pero existen variaciones regionales como “tata” o “taita” en la Sierra, que tienen origen indígena.  
-
-Por otro lado, términos cariñosos como “abuelito” y “abuelita”, o incluso más informales como “viejo” y “vieja” (utilizados con cariño), son frecuentes. La elección del término depende de factores como la cercanía familiar, el contexto y las tradiciones de cada región.  
-
-**¿Cómo celebrar el Día de los Abuelos?** 
-------------------------------------------
-
-Para celebrar el **Día de los Abuelos**, además de demostrarles cariño y llevarlos a comer, es fundamental **enfocarse en su salud**. Héctor Padilla, director de la Escuela de Fisioterapia de la UIDE, destaca que la **fisioterapia y el ejercicio** regular son esenciales para mejorar la salud física y mental de los abuelos, ayudándoles a mantener su independencia y **reducir el riesgo de enfermedades y discapacidades**.  
-
-La **actividad física combate la sarcopenia** y fortalece el sistema osteomuscular, loq ue reduce la probabilidad de caídas y enfermedades crónicas. Promover el **ejercicio terapéutico** adaptado a las necesidades de cada abuelo es crucial para su bienestar y calidad de vida. 
-
-**Los abuelos más animados del cine y la televisión** 
-------------------------------------------------------
-
-**En la ficción**, muchos abuelos han dejado una huella imborrable: el sabio y bondadoso **abuelito de Heidi**; Abe Simpson de **‘Los Simpson’** con sus divertidas historias; **Carl Fredricksen** de ‘Up’ que nos demostró que nunca es tarde para soñar; los consejeros Phil y Pookie de ‘Hey Arnold!’; la emotiva **Mamá Coco**; la valiente Abuelita de los Looney Tunes; el noble Abuelo Joe de ‘Charlie y la Fábrica de Chocolates’; y la sabia Abuela Tala de ‘Moana’.  
-
-Nicolás Maduro y Edmundo González miden su fuerza en el cierre de campaña
-=========================================================================
-
-A tres días de las elecciones para la Presidencia de la nación caribeña, tanto chavistas como opositores se movilizaron en Caracas.
------------------------------------------------------------------------------------------------------------------------------------
-
-![La líder opositora venezolana María Corina Machado (i) y el candidato a la presidencia de Venezuela, Edmundo González Urrutia (d), saludan a simpatizantes antes del cierre de campaña.](https://www.elcomercio.com/wp-content/uploads/2024/07/Maria-corina-cierre-campana-efe.jpg)
-
-El **chavismo** y la **oposición mayoritaria de Venezuela**, agrupada en la **Plataforma Unitaria Democrática** (PUD), reunieron a **miles de simpatizantes**. Se trata de una **demostración de sus fuerzas**, en el cierre de **campaña electoral** de cara a los comicios presidenciales del domingo.
-
-### Más noticias
-
-* [Gabriel Boric dice que Maduro ‘no puede amenazar con baños de sangre’](https://www.elcomercio.com/actualidad/mundo/gabriel-boric-respalda-lula-puede-amenazar-banos-de-sangre.html "Gabriel Boric dice que Maduro ‘no puede amenazar con baños de sangre’")
-* [María Corina Machado, la ‘candidata emocional’ que desconcertó al chavismo](https://www.elcomercio.com/actualidad/mundo/maria-corina-machado-candidata-emocional-desconcerto-chavismo.html "María Corina Machado, la ‘candidata emocional’ que desconcertó al chavismo")
-* [María Corina Machado: ‘Al régimen ya lo derrotamos moralmente y en las calles’](https://www.elcomercio.com/actualidad/mundo/maria-corina-machado-al-regimen-derrotamos-moralmente-calles.html "María Corina Machado: ‘Al régimen ya lo derrotamos moralmente y en las calles’")
-
-A tan solo **tres días de las elecciones** para la Presidencia de la nación caribeña, tanto **chavistas** como opositores se movilizaron en distintas **zonas de Caracas**. En este contexto los principales candidatos -el presidente **Nicolás Maduro** y el exembajador **Edmundo González Urrutia**– hicieron los últimos llamados a votar por sus proyectos políticos.
-
-Nicolás Maduro pide “pensar bien su voto”
------------------------------------------
-
-Maduro, quien dijo sentirse orgulloso de llenar **varias avenidas de la capital venezolana**, pidió a los ciudadanos **pensar bien el voto**. El mandatario busca su **segunda reelección.**
-
-Al mismo tiempo, aseguró contar con una **“nueva mayoría”** que lo respaldará en las elecciones. Señaló que el chavismo se mantiene unido, en el poder desde 1999, “sin una sola fisura, como un solo bloque de fuerza”.
-
-A la vez, miles de opositores acompañaron a **González Urrutia** y a la líder antichavista [María Corina Machado](https://www.elcomercio.com/actualidad/mundo/maria-corina-machado-candidata-emocional-desconcerto-chavismo.html "https://www.elcomercio.com/actualidad/mundo/maria-corina-machado-candidata-emocional-desconcerto-chavismo.html") -principal valedora del abanderado de la PUD- en una **caravana por varias calles del este** de Caracas, considerado su bastión histórico.
-
-En un breve discurso, el exmbajador invitó a los venezolanos a votar para comenzar el “camino de la reconciliación” y la **“reconstrucción institucional”** de Venezuela. Es una propuesta que repitió a lo largo de la campaña electoral.
-
-Otros candidatos hicieron pequeños actos, como **Daniel Ceballos** en el barrio más grande de Venezuela, mientras que **Luis Eduardo Martínez** anunció su visita a la entrada de la **selva del Darién**, zona fronteriza entre Panamá y Colombia. Es un **“símbolo de solidaridad”** con los migrantes venezolanos, quienes a diario cruzan este tramo para **atravesar Centroamérica**, en su ruta hacia México o EE.UU.
-
-Un pacto por la “democratización”
----------------------------------
-
-Antes del acto masivo, la PUD se comprometió a **comenzar un proceso para la “democratización”** del país, en caso de que gane González Urrutia.
-
-En un documento suscrito por el exembajador, Machado y los partidos que integran la PUD, la coalición señaló que “el triunfo electoral del 28 de julio abrirá puertas a un **periodo de democratización**. Demandará **virtudes personales y cívicas**”, por lo que -expresó- procurarán “**forjar un clima anímico**, político y social que lo facilite y contribuya con el bien común”.
-
-Además, González Urrutia dijo que aspira a tener **“cordiales relaciones”** con China, Rusia y Estados Unidos si gana los comicios, sobre la “**base del respeto, la soberanía**”.
-
-Añadió que mantendrá “**cordiales relaciones** con todos los países del hemisferio”, en referencia a Suramérica.
-
-**China y Rusia** se encuentran entre las **naciones aliadas de Maduro**. Esto, mientras que, con **Estados Unidos, el Gobierno chavista** tiene **fricciones constantes,** a causa de las sanciones económicas que Washington mantiene sobre el país caribeño.
-
-Llamados de atención
---------------------
-
-La Casa Blanca advirtió de que cualquier **“represión política**” y **acto de “violencia”** en las elecciones presidenciales. Será **“inaceptable”** y expresó su deseo de que los resultados “reflejen la **voluntad** y las aspiraciones del pueblo venezolano para un futuro más democrático y próspero”.
-
-Igualmente, el presidente de Chile, **Gabriel Boric**, mostró su respaldo a la opinión de su homólogo brasileño, Luiz Inácio Lula da Silva. Dijo que es inconcebible que Maduro amenace con **“baños de sangre”** si no gana las elecciones presidenciales del domingo.
-
-De esta manera, Maduro termina la **campaña presidencial** distanciado de los que son considerados sus **aliados de la región,** incluyendo al presidente de Colombia, Gustavo Petro. En un primer momento criticó la inhabilitación política de María Corina Machado.
-
-Ovidio Guzmán, hijo de ‘El Chapo’, no fue liberado, aclara México
-=================================================================
-
-El Gobierno mexicano aseveró este viernes que Estados Unidos no liberó a Ovidio Guzmán, hijo del capo Joaquín 'El Chapo' Guzmán, tras captura de 'El Mayo'
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La secretaria de Seguridad, Rosa Icela Rodríguez, habló durante la rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/07/hijo-del-Chapo.jpg)
-
-El **Gobierno mexicano** aseveró este viernes que Estados Unidos **no liberó a Ovidio Guzmán**, hijo del capo Joaquín ‘El Chapo’ Guzmán.
-
-Esto, luego de capturar el jueves a Ismael **‘El Mayo’** Zambada, cofundador del **Cartel de Sinaloa**, y a Joaquín Guzmán López, otro de los hijos de ‘El Chapo’.
-
-### Más noticias
-
-* [Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos](https://www.elcomercio.com/actualidad/mundo/ataque-trenes-francia-juegos-olimpicos.html "Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos")
-* [Kamala Harris estimula a su base en Texas](https://www.elcomercio.com/actualidad/mundo/kamala-harris-estimula-base-texas.html "Kamala Harris estimula a su base en Texas")
-* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
-
-“La **Embajada de Estados Unidos** también nos informó que no ha sido liberado, hay un cambio de medida cautelar”, declaró la secretaria de Seguridad y Protección Ciudadana (SSPC), Rosa Icela Rodríguez, en la conferencia matutina del Palacio Nacional.
-
-¿Qué pasó con el hijo del ‘Chapo’?
-----------------------------------
-
-La Agencia Federal de Prisiones de Estados Unidos mostraba el jueves en su sistema, tras el arresto de ‘El Mayo’, que **ya no estaba bajo su custodia Ovidio Guzmán**.
-
-Guzmán fue detenido por México y extraditado a Estados Unidos en 2023 por ser uno de los mayores **supuestos responsables del tráfico** de fentanilo hacia Norteamérica.
-
-Aunque en la prensa nacional se especuló sobre una **posible negociación entre los hijos de ‘El Chapo’** y Washington para la entrega de Zambada, Rodríguez insistió en que no hay confirmación al respecto.
-
-“También esperamos la **información oficial** sobre esta detención (de **Ovidio Guzmán**), dado que el **Gobierno de México** colaboró en esta extradición y, por supuesto, en la captura”, indicó la funcionaria.
-
-La captura de ‘El Mayo’
------------------------
-
-La funcionaria expresó que el **Gobierno de Estados Unidos** se comunicó el jueves después del arresto de ‘**El Mayo’** y Guzmán López en un operativo en un aeródromo cercano a El Paso, **en Texas**, donde las autoridades les imputarán cargos por fabricación de drogas y manejo de redes de narcotráfico.
-
-La SSPC recibió una primera llamada a las 15:30 horas (21:30 GMT) de la **Embajada de Estados Unidos**, que reportó que Zambada y Guzmán López ya “**se encontraban bajo custodia** de las autoridades en El Paso, Texas”.
-
-Pese a que Washington **no avisó antes de la captura** y aún se desconoce si fue una “entrega”, Rodríguez insistió en que hay colaboración y comunicación con Estados Unidos.
-
-“Vamos a seguir trabajando con el **Gobierno de Estados Unidos** y haciendo todas las detenciones que hemos estado haciendo con inteligencia y con el apoyo, por supuesto, de las Fuerzas Armadas y de la Guardia Nacional”, prometió.
-
-El Ejército mexicano detuvo a **Ovidio**, uno de los principales herederos de **‘El Chapo’,** en enero de 2023 en el norteño estado de Sinaloa durante un operativo que derivó en disturbios violentos en diversos puntos de la región y en los que murieron decenas de militares y miembros del crimen organizado.
-
-La detención sorprendió al ocurrir días antes de la **visita a México del presidente estadounidens**e, Joe Biden, con motivo de la Cumbre de Líderes de América del Norte, aunque el mandatario mexicano, Andrés Manuel López Obrador, negó cualquier relación entre los dos hechos.
-
-Jefferson Pérez, el rostro del Día del Deporte Ecuatoriano
-==========================================================
-
-Jefferson Pérez está catalogado como el mejor deportista de Ecuador de todos los tiempos. Ganó dos medallas olímpicas y tres mundiales.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Jefferson Pérez en los Juegos Olímpicos Atlanta 1996.](https://www.elcomercio.com/wp-content/uploads/2024/07/dia_deporte_ecuador-1.jpg)
-
-**Jefferson Pérez** es el responsable que el país celebre el 26 de julio el Día del Deporte Ecuatoriano. Su nombre es sinónimo de un sinnúmero de logros que quedaron grabados en la historia del país y recorrieron el mundo.
-
-Precisamente el **26 de julio de 1996 en los Juegos Olímpicos de Atlanta**, Jefferson Pérez ganó de manera contundente la primera medalla olímpica de Ecuador. Lo hizo en los 20 km marcha con un tiempo de 1:20’07”.
-
-### Más noticias:
-
-* [Segundo caso de abuso sexual que involucra a Cobreloa](https://www.elcomercio.com/deportes/futbol/segundo-caso-de-abuso-sexual-que-involucra-a-cobreloa.html "Segundo caso de abuso sexual que involucra a Cobreloa")
-* [Deportistas sufren robos en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/deportistas-sufren-robos-en-los-juegos-olimpicos-paris-2024.html "Deportistas sufren robos en los Juegos Olímpicos de París 2024")
-* [Los Juegos Olímpicos de París 2024 y sus 11 estrellas a seguir](https://www.elcomercio.com/deportes/juegos-olimpicos/juegos-olimpicos-paris2024-atletas-estrellas.html "Los Juegos Olímpicos de París 2024 y sus 11 estrellas a seguir")
-
-**Un año después de la hazaña de Pérez**, el Ministerio de Educación, Cultura y Deporte, mediante Acuerdo Ministerial No. 3401, designó al 26 de julio como el “Día del Deporte Ecuatoriano”.
-
-En el podio de Atlanta, el atleta cuencano superó al ruso I**lya Markov (1:20’16”), y al mexicano Bernardo Segura (1:20’28”)**, segundo y tercero en ese orden, que no tuvieron respuesta para el fulminante cierre del ecuatoriano.
-
-El esfuerzo que **Pérez hizo para ganar la primer medalla olímpica de Ecuador** se vio reflejado segundos después de cruzar la meta, donde se persignó, se sacó su tradicional gorra e inmediatamente se desvaneció.
-
-Dos voluntarios acudieron a su ayuda mientras sus rodillas toparon la superficie de la pista del **Centennial Olympic Stadium de Atlanta**, luego lo levantaron mientras poco a poco recuperaba fuerzas para subir al podio.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/dia_deporte_ecuador_1-1024x683.jpg)
-
-Minutos después subió al podio, recibió la medalla de oro, el tradicional ramo de flores amarillas, verdes y azules y se entonaron por primera las notas del Himno Nacional del Ecuador.
-
-28 años después, Ecuador cuenta con cinco medallas olímpicas. En 2008 en Pekín se volvió a subir al podio y ganó la de plata.
-
-En Tokio 2020, Richard Carapaz y Neisi Dajomes, en las pruebas de Ciclismo en Ruta y levantamiento de pesas en los 76 kg, ganaron medallas de oro. Tamara Salazar se colgó la de plata en los 87 kg.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/dia_deporte_ecuador_2-1024x683.jpg)
-
-Jefferson Pérez y su historia
------------------------------
-
-Jefferson Pérez fue uno de los marchistas más **admirados de su época por sus triunfos**, pero también por su técnica que fue emulada por otras generaciones de atletas.
-
-La historia y vida de Jefferson, **relata el sitio web oficial de los Juegos Olímpicos**, está llena de lucha y perseverancia.
-
-De pequeño, solía vender **periódicos en el mercado de la ciudad de Cuenca**, donde nació el 1 de julio de 1974, para ayudar a su familia en su precaria economía.
-
-En estos años visitó las instalaciones deportivas de su ciudad para prepararse y aprobar su materia en educación física. **Para sorpresa de su entonces entrenador, Manuel Ortiz**, obtuvo muy buenos resultados desde el inicio y decidieron enfocarse en la marcha y en su desarrollo como atleta.
-
-En 1990 alcanzó la presea de bronce en el **Campeonato Mundial sub-20 en Bulgaria**, lo que lo puso en la mira de los medios de comunicación ecuatorianos, que empezaron a difundir la carrera del novel deportista.
-
-En 1992 tuvo su primera participación en los Juegos Olímpicos. Fue en Barcelona con tan solo 18 años.
-
-La consagración de Pérez llegó en 1996 cuando, con 22 años, rompió con la historia deportiva de Ecuador al ganar la primera medalla olímpica para el país. En Sídney 200 y Atenas 2004 logró el cuartos lugar.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/dia_deporte_ecuador_3-1024x683.jpg)
-
-En su palmarés cuenta con **3 oros consecutivos en el Campeonato Mundial**. El primero en Francia (2003), el segundo en Finlandia (2005) y el tercero en Japón (2007). A estos triunfos, suma 2 oros más en el Campeonato Sudamericano y 2 oros en Juegos Panamericanos.
-
-Pérez **se retiró del deporte de élite a los 34 años**, tras obtener la medalla de plata en los JJ. OO. de Pekín, y el tercer lugar en el Challenge Mundial de Marcha en Murcia, España, en el 2008.
-
-No te pierdas – El Confesionario con Jefferson Pérez
-----------------------------------------------------
-
-  
-
-Ecuatorianos en los Juegos Olímpicos París 2024, fechas y horarios
-==================================================================
-
-Los deportistas ecuatorianos ya tienen sus fechas y horarios definidos para competir en los Juegos Olímpicos París 2024.
-------------------------------------------------------------------------------------------------------------------------
-
-![David Farinango, nadador ecuatoriano que estará en la maratón de aguas abiertas en los Juegos Olímpicos París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/davidfarinango-2.jpg)
-
-Los **Juegos Olímpicos** Paris 2024 son la competencia deportiva más importante del mundo. Unos 10 mil 500 atletas de 206 países se reunirán para competir en el escenario más grande del deporte.
-
-Ecuador tiene 40 seleccionados, que participarán en 12 deportes, 20 disciplinas y un total de 30 pruebas, con la esperanza de hacer historia una vez más.
-
-Entre las figuras de Ecuador en los Juegos Olímpicos París 2024 están **Neisi Dajomes**, Angie Palacios, Liseth Ayoví, Glenda Morejón, Daniel Pintado, David Hurtado, Lucía Yépez, Luisa Valverde, **Jhonatan Narváez**, **David Farinango,** entre otras.
-
-Los **Juegos Olímpicos París 2024** empezarán desde este 26 de julio y se extenderán hasta el 11 de agosto del 2024.
-
-### Más noticias:
-
-* [Así será la inauguración de los Juegos Olímpicos de París 2024](https://www.elcomercio.com/uncategorized/juegos-olimpicos-inauguracion-paris-2024.html "Así será la inauguración de los Juegos Olímpicos de París 2024")
-* [Neisi Dajomes y Julio Mendoza, los abanderados de Ecuador en Juegos Olímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/neisi-dajomes-julio-mendoza-abanderados-ecuador-juegos-olimpicos.html "Neisi Dajomes y Julio Mendoza, los abanderados de Ecuador en Juegos Olímpicos")
-* [De Loja a París, Jordy Jiménez busca la gloria en los Juegos Olímpicos](https://www.elcomercio.com/deportes/atletismo/jordy-jimenez-ecuatoriano-marcha-juegos-olimpicos-paris.html "De Loja a París, Jordy Jiménez busca la gloria en los Juegos Olímpicos")
-
-Ecuador acude a los Juegos Olímpicos París 2024 con 40 deportistas, 24 mujeres y 16 hombres. Los mejores del país en sus especialidades.
-
-Nuestros campeones nos representarán en competencias desde el 27 de julio del 2024.
-
-Fechas y horarios de los ecuatorianos en los Juegos Olímpicos París 2024
-------------------------------------------------------------------------
-
-JULIO
------
-
-### Viernes 26
-
-12:30 [Ceremonia de Apertura](https://www.elcomercio.com/deportes/juegos-olimpicos/inauguracion-juegos-olimpicos-paris-2024.html "(En vivo) Inauguración de los Juegos Olímpicos de París 2024")
-
-### Sábado 27
-
-**Ecuestres**
-
-02:30 Nicolás Wettstein/ Ronald Zabala
-
-Evento completo/doma individual.
-
-**Tiro olímpico**
-
-05:30 Marina Pérez
-
-10 m pistola de aire femenino, clasificación.
-
-**Tenis de mesa**
-
-Alberto Miño
-
-08:00 Ronda preliminar.
-
-13:00 32avos de final.
-
-**Boxeo**
-
-13:48 María José Palacios / 60 kg
-
-Preliminar 16avos de final.
-
-Domingo 28
-----------
-
-**Tenis de mesa**
-
-Alberto Miño
-
-03:00 32avos de final
-
-13:00 32avos de final
-
-**Boxeo**
-
-04:16 – 08:46 – 13:00 José Rodríguez / 71 kg.
-
-16avos de final
-
-**Ecuestres**
-
-03:30 Nicolás Wettstein/Ronald Zabala
-
-Evento completo/doma individual.
-
-Lunes 29
---------
-
-**Boxeo**
-
-04:00 – 08:30 – 3:00 María José Palacios / 60 kg.
-
-8vos de final.
-
-09:50 Gerlon Congo / +92 kg.
-
-8vos de final.
-
-**Ecuestres**
-
-04:00 Nicolás Wettstein / Ronald Zabala
-
-Evento completo/saltos (final)
-
-Martes 30
----------
-
-**Ecuestres**
-
-04:00 Julio Mendoza
-
-Doma individual Gran premio/Día 1.
-
-Miércoles 31
-------------
-
-**Triatlón**
-
-01:00 Elizabeth Bravo
-
-Individual.
-
-**Ecuestres**
-
-03:00 Doma individual Gran premio/Día 2.
-
-Agosto
-------
-
-Jueves 1
---------
-
-**Atletismo**
-
-03:30 David Hurtado, Daniel Pintado y Jordy Jiménez
-
-20 km marcha.
-
-02:20 Magaly Bonilla, Paula Torres y Glenda Morejón
-
-20 km marcha.
-
-**Judo**
-
-Vanesa Chalá/-78 kg.
-
-03:00 32avos de final.
-
-03:28 16avos de final.
-
-05:20 8vos de final.
-
-**Natación**
-
-Tomás Peribonio/ 200 m combinado.
-
-04:00 Series.
-
-14:34 Semifinal.
-
-**Ciclismo**
-
-Alfredo Campo/BMX Racing.
-
-13:00 – 13:40 – 14:20 – 15:15 Carrera Last chance.
-
-Viernes 2
----------
-
-**Tiro olímpico**
-
-02:00 Diana Durango y Andrea Pérez
-
-25 m pistola/clasificación.
-
-Sábado 3
---------
-
-**Ciclismo**
-
-04:00 Jhonatan Narváez
-
-Ruta
-
-**Natación**
-
-Anicka Delgado/50 m libres.
-
-04:00 Series
-
-13:49 Semifinal
-
-![Jhonatan Narváez representará a Ecuador en ciclismo de ruta en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-7-1024x683.jpg)
-
-Jhonatan Narváez representará a Ecuador en ciclismo de ruta en los Juegos Olímpicos de París 2024.
-
-Domingo 4
----------
-
-**Ecuestres**
-
-03:00 Julio Mendoza
-
-Doma individual Gran premio libre/Final.
-
-Lunes 5
--------
-
-**Atletismo**
-
-03:10 Juan Caicedo
-
-Lanzamiento de disco. Clasificación.
-
-Miércoles 7
------------
-
-**Atletismo**
-
-00:30 Glenda Morejón y Daniel Pintado
-
-Relevos mixtos.
-
-03:15 Maribel Caicedo
-
-100 m vallas. Ronda 1.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/04/lucia_yepez-1024x683.jpg)
-
-Lucía Yépez. Foto: Instagram Comité Olímpico Ecuatoriano.
-
-**Lucha**
-
-Lucia Yépez/53 kg.
-
-04:30 8vos de final.
-
-05:50 4tos de final.
-
-11:55 Semifinal.
-
-Andrés Montaño/67 kg.
-
-04:30: 8vos de final.
-
-05:50: 4tos de final
-
-11:55 Semifinal.
-
-Jueves 8
---------
-
-**Lucha**
-
-Luisa Valverde/57 kg.
-
-04:30: 8vos de final.
-
-05:50: 4tos de final
-
-11:15-11:55 Semifinal.
-
-**Pentatlón**
-
-04:00 Andrés Torres
-
-Individual masculino. Clasificatoria.
-
-04:00 María Sol Naranjo
-
-Individual femenino. Clasificatoria.
-
-Viernes 8
----------
-
-**Natación**
-
-00:30 David Farinango
-
-Aguas abiertas. Final.
-
-**Pesas**
-
-12:30 Angie Palacios/71 kg.
-
-Final.
-
-Sábado 10
----------
-
-**Lucha**
-
-Génesis Reasco/76 kg.
-
-04:30 8vos de final.
-
-05:50 4tos de final.
-
-11:55 Semifinal.
-
-**Pesas**
-
-09:00 Neisi Dajomes/81 kg.
-
-Final.
-
-Domingo 11
-----------
-
-**Atletismo**
-
-01:00 Silvia Ortiz – Mary Granja – Rosalba Chacha
-
-Maratón. Final.
-
-**Pesas**
-
-04:30 Lisseth Ayoví/+81 kg.
-
-Final.
-
-![Angie Palacios es una de las deportistas favoritas para ganar una medalla con Ecuador en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-25T150657.135-1024x683.jpg)
-
-Angie Palacios es una de las deportistas favoritas para ganar una medalla con Ecuador en los Juegos Olímpicos de París 2024.
-
-Los atletas ecuatorianos en los Juegos Olímpicos París 2024
------------------------------------------------------------
-
-1. Maribel Caicedo (Atletismo 100 metros vallas)
-2. Ángela Tenorio (Atletismo 100 metros planos)
-3. Nicole Caicedo (Atletismo 200 – 400 metros)
-4. Aimara Nazareno (Atletismo 200 metros)
-5. Anahí Suárez (Atletismo 200 metros)
-6. Lucía Yépez (Lucha Olímpica)
-7. Luisa Valverde (Lucha Olímpica)
-8. Génesis Reasco (Lucha Olímpica)
-9. Andrés Montaño (Lucha Olímpica)
-10. Juan Caicedo (Lanzamiento de disco)
-11. Jhonatan Narváez (Ciclismo de Ruta)
-12. Alfredo Campo (Ciclismo BMX)
-13. Julio Mendoza (Hípica)
-14. Nicolás Wettstein (Hípica)
-15. Ronald Zabala (Hípica)
-16. Niesi Dájomes (Halterofilia)
-17. Angie Palacios (Halterofilia)
-18. Lisseth Ayoví (Halterofilia)
-19. Andrés Torres (Pentatlón Moderno)
-20. María Sol Naranjo (Pentatlón Moderno)
-21. Rosa Alba Chacha ([Maratón](https://es.wikipedia.org/wiki/Marat%C3%B3n))
-22. Silvia Ortiz (Maratón)
-23. Mary Granja (Maratón)
-24. José Rodríguez (Boxeo)
-25. María José Palacios (Boxeo)
-26. Gerlon Congo (Boxeo)
-27. David Farinango (Natación en Aguas Abiertas)
-28. Tomás Peribonio (Natación)
-29. Anicka Delgado (Natación)
-30. Elizabeth Bravo (Triatlón)
-31. David Hurtado (20 kilómetros marcha)
-32. Daniel Pintado (20 kilómetros marcha)
-33. Jordy Jiménez (20 kilómetros marcha)
-34. Glenda Morejón (20 kilómetros marcha)
-35. Magaly Bonilla (20 kilómetros marcha)
-36. Paula Torres (20 kilómetros marcha)
-37. Diana Durango (Tiro de 25 metros de pistola)
-38. Marina Pérez (Tiro de 10 metros de pistola)
-39. Vanessa Chalá (Judo 78 kg)
-40. Alberto Miño (Microtenis)
-
-Así funciona el Metro de Quito este viernes 26 de julio
-=======================================================
-
-Los horarios del servicio son de lunes a viernes de 05:30 a 23:00. Los sábados de 07:00 a 23:00 y los domingos y feriados de 07:00 a 22:00.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Agentes de la Policía Nacional vigilan las inmediaciones del Metro 24/7.](https://www.elcomercio.com/wp-content/uploads/2024/07/Metroq1.jpg)
-
-Este viernes 26 de julio, el **Metro de Quito** arrancó sus operaciones con normalidad a las **05:30** en sus 15 estaciones distribuidas a lo largo de la ciudad.
-
-### Más noticias
-
-* [En el Metro de Quito, ‘cero’ es tu palabra de alerta para denunciar acoso](https://www.elcomercio.com/actualidad/quito/metro-de-quito-cero-es-tu-palabra-de-alerta-si-sufres-acoso.html "En el Metro de Quito, ‘cero’ es tu palabra de alerta para denunciar acoso")
-* [Un bus de pasajeros cayó al barranco este viernes 26 de julio](https://www.elcomercio.com/actualidad/ecuador/bus-pasajeros-barranco-aloag-santo-domingo-26-de-julio.html "Un bus de pasajeros cayó al barranco este viernes 26 de julio")
-* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
-
-El **Metro de Quito** es un sistema de movilidad sostenible que permite **reducir la huella de carbono** al ser un sistema de transporte 100% eléctrico.
-
-Este sistema de transporte registra un aproximado de 147 000 viajes diarios.  Según los datos compartidos por el **Metro de Quito**, las personas usan este servicio en su mayoría para trasladarse a sus trabajos o a estudiar.
-
-La **seguridad** en las estaciones está a cargo de personal del Metro y también de la **Policía Metro**, que son agentes policiales que brindan sus servicios en las inmediaciones.
-
-Existen 241 efectivos de la **Policía Nacional** dentro y fuera de las estaciones todos los días para proteger a la ciudadanía.
-
-Si te **sientes en riesgo** o ves alguna situación riesgosa, comunícate por los **interfonos** de las estaciones o de cada tren y pide ayuda. O acércate a cualquiera de **los agentes que patrullan** los espacios del Metro.
-
-Así funciona el Metro de Quito hoy
-----------------------------------
-
-Este viernes 26 de julio de 2024, el **Metro de Quito** opera con normalidad en todas **estaciones** distribuidas entre el norte y el [sur de Quito](https://es.wikipedia.org/wiki/Metro_de_Quito).
-
-Los horarios del servicio son de **lunes a viernes** de 05:30 a 23:00. Los **sábados** de 07:00 a 23:00 y los **domingos y feriados** de 07:00 a 22:00.
-
-Los trenes recorren los 22 km que unen a **Quitumbe con El Labrador** a una velocidad promedio de 40 km/hora.
-
-El trayecto entre **El Labrador y Quitumbe** se realiza en 35 minutos, en horas pico.
-
-El costo del pasaje es de **0,45 centavos de dólar** y se maneja a través de **códigos QR** que se leen a través de máquinas con sensor.
-
-Puedes conseguir un **QR físico** comprándolo en ventanilla o en las máquinas rojas ATM y también puedes adquirir un **QR digital** a través de las ‘app’ del Metro o DeUna.
-
-Así será la inauguración de los Juegos Olímpicos de París 2024
-==============================================================
-
-Los Juegos Olímpicos de París 2024 tendrán una ceremonia de inauguración nunca antes vista en el evento deportivo.
-------------------------------------------------------------------------------------------------------------------
-
-![Torre Eiffel con los anillos de los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/d963add4b773a3fd1a5422fc850aefd3a360e99a.jpg)
-
-Los **Juegos Olímpicos de París 2024** tendrán su ceremonia de inauguración oficial durante este viernes 26 de julio. A las 13:00 iniciará el desfile de las delegaciones por el río Sena de  Francia[.](https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Par%C3%ADs_2024)
-
-La espera para el inicio del evento deportivo llegó a su fin y el certamen dará la bienvenida a los 10 500 atletas de **206 naciones** que estarán presentes. En el caso de Ecuador, 40 representantes olímpicos formarán parte de la delegación.
-
-### Más noticias:
-
-* [Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos](https://www.elcomercio.com/actualidad/mundo/ataque-trenes-francia-juegos-olimpicos.html "Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos")
-* [Argentina busca a la FIFA por incidentes en Juegos Olímpicos](https://www.elcomercio.com/deportes/reclamo-fifa-argentina-juegos-olimpicos.html "Argentina busca a la FIFA por incidentes en Juegos Olímpicos")
-* [José Rodríguez, el boxeador que debuta en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/jose-rodriguez-juegos-olimpicos-paris-2024.html "José Rodríguez, el boxeador que debuta en los Juegos Olímpicos de París 2024")
-
-Los **Juegos Olímpicos**, a nivel global, contarán con **32 deportes** en esta edición. Pruebas como el breaking harán su primera aparición, mientas que el karate y el béisbol, que estuvieron en Tokio 2020+1 estarán ausentes.
-
-Pese a la fecha de la inauguración y al inicio oficial de los actos, las competencias no arrancarán a partir de ella, pues otras arrancaron con anticipación debido a su calendario. Disciplinas como el **fútbol, el rugby, el balonmano y el tiro con arco** empezaron antes.
-
-El Sena, protagonista en la inauguración de los Juegos Olímpicos 2024
----------------------------------------------------------------------
-
-La inauguración de los Juegos Olímpicos promete ser icónica debido a los matices que la envuelvan. Esta será la primera vez en la historia que la ceremonia no se lleve a cabo en un estadio, pues l**as delegaciones navegarán por el Sena** y se ubicarán en sus aguas en 90 embarcaciones.
-
-Grecia, cuna del certamen, será quien dé inicio al desfile y Francia, el anfitrión, será quien lo cierre. A su vez, el presidente **Emmanuel Macron** será quién dé por inaugurado el evento.
-
-El acto también contará con un show artístico, sin embargo, los artistas que se presentarán aún no han sido confirmados. **Lady Gaga y Céline Dion** estaban entre las opciones.
-
-Entre los datos que la organización también ha dejado en reserva se encuentra el lugar donde se ubicará la **llama olímpica**. Asimismo, tampoco se conoce qué deportista encenderá el pebetero.
-
-Ecuador, con un nuevo abanderado para los Juegos Olímpicos de París 2024
-------------------------------------------------------------------------
-
-En la delegación ecuatoriana, los atletas que llevarán la bandera tricolor serán la vigente campeona de halterofilia **Neisi Dajomes** y el jinete **Julio Mendoza**. Antes estaba planificado que lo haga el marchista Daniel Pintado, sin embargo, su compañero la llevará debido a su ausencia en la ceremonia.
-
-El 25 de julio de 2024, un día antes de la inauguración, el Comité Olímpico Ecuatoriano dio a conocer el cambio. Mendoza se hizo la responsabilidad tras haber quedado segundo en la designación por encima del ciclista **Jonathan Narváez**.
-
-En los Juegos Olímpicos de París 2024, Neisi Dajomes volverá a ser abanderada como en Tokio 2020+1. En aquella ocasión, el campeón olímpico en ciclismo de ruta **Richard Carapaz** la acompañó.
-
-Ataque a los trenes en Francia opaca el inicio de los Juegos Olímpicos
-======================================================================
-
-En medio de los Juegos Olímpicos, este atentado obliga a extremar las precauciones de seguridad. Fiscalía investiga el ataque con los Servicios Secretos.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La Justicia y los servicios secretos de Francia investigan el sabotaje a los trenes de alta velocidad.](https://www.elcomercio.com/wp-content/uploads/2024/07/Trenes-Francia.jpg)
-
-El sabotaje que han sufrido este viernes **las líneas de tren** de alta velocidad en Francia, y que va a afectar a cientos de **miles de personas** el día de la apertura de los **Juegos Olímpicos,** estaba bien preparado y demuestra un buen conocimiento de la red, ha subrayado el primer ministro francés, Gabriel Attal.
-
-### Más noticias
-
-* [Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-ruta-viva-y-dos-vias-mas-estan-cerradas-en-quito-este-jueves-25-de-julio.html "Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio")
-* [Así funciona el Pico y placa este viernes 26 de julio en Quito](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-viernes-26-de-julio-en-quito.html "Así funciona el Pico y placa este viernes 26 de julio en Quito")
-* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
-
-En declaraciones a la prensa desde la **célula de crisis** que se ha constituido en el Ministerio de Transportes, Attal en nombre de la “prudencia” no ha querido entrar a especular sobre la hipótesis que circula de que podría ser obra de un **grupo de ultraizquierda,** teniendo en cuenta que la investigación acaba de comenzar.
-
-El ataque a los trenes
-----------------------
-
-No obstante, ha hecho notar que “lo que se constata es que esta operación ha sido preparada, coordinada, que se han atacado **puntos neurálgicos**, lo que muestra una forma de conocimiento de la red para atacarla”.
-
-Y ha insistido en “el impacto, que es masivo **para nuestros ciudadanos”** y en la “determinación” de los autores para “bloquear a cientos de miles de personas” y para hacerlo “de forma deliberada”.
-
-Los ataques se produjeron entre la 01:00 y las 05:30 **de la madrugada** y consistieron en el incendio de instalaciones de señalización de las líneas de los trenes de alta velocidad (TGV).
-
-Eso ha afectado **a tres de los cuatro ejes** de TGV que salen de París, el del Norte (que sirve, por ejemplo, para los Eurostar que van a Londres, Bruselas, Países Bajos y el norte de Alemania), el del Este y el del Atlántico.
-
-La **Fiscalía de París** está centralizando **la investigación** que se ha abierto por cuatro delitos, y de la que se encargan, más allá de los cuerpos habituales de las fuerzas del orden, los servicios secretos.
-
-La SNCF va a presentar esta tarde un **nuevo plan de transporte** para ofrecer alternativas a las 250 000 personas que calcula que ya se han visto afectadas **por las perturbaciones** y que podrían llegar a ser 800 000 si los problemas se prolongan durante el fin de semana.
-
-Todo esto se ha producido a unas horas de la ceremonia de inauguración de los **Juegos Olímpicos** de París, que han trastocado totalmente el **funcionamiento habitual de la ciudad**, ya que el centro está acordonado, en espera de la presencia de unos 600 000 espectadores en total, y la circulación está casi [suspendida](https://es.wikipedia.org/wiki/Francia "https://es.wikipedia.org/wiki/Francia").
-
-Un bus de pasajeros cayó al barranco este viernes 26 de julio
-=============================================================
-
-Este siniestro ocurrió en el km 35 de la vía Alóag-Santo Domingo. Desde la Sala operativa del ECU911 se coordinó la asistencia para las personas afectadas.
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La madrugada de este viernes 26 de julio se registró un siniestro en la vía Alóag-Santo Domingo.](https://www.elcomercio.com/wp-content/uploads/2024/07/Aloag.jpg)
-
-El servicio de **emergencias ECU911** informó este viernes 26 de julio sobre **un incidente** que se registró durante la madrugada.
-
-### Más noticias
-
-* [Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-ruta-viva-y-dos-vias-mas-estan-cerradas-en-quito-este-jueves-25-de-julio.html "Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio")
-* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
-* [Así funciona el Pico y placa este viernes 26 de julio en Quito](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-viernes-26-de-julio-en-quito.html "Así funciona el Pico y placa este viernes 26 de julio en Quito")
-
-El ECU911 recibió la **llamada de alerta** a las 03:45 que informaba que un **bus de transporte interprovincial** había sufrido un percance en la vía. El bus iba lleno de pasajeros.
-
-La emergencia del bus de pasajeros
-----------------------------------
-
-El bus, aparentemente, perdió pista, **derribó la barrera del borde de la vía** y terminó dentro de un barranco, en medio de la vegetación.
-
-Este siniestro ocurrió en el km 35 de la **vía Alóag-Santo Domingo.** Desde la Sala operativa del ECU911 se coordinó **la asistencia** para las personas afectadas.
-
-El **Cuerpo de Bomberos de Mejía**, Comisión de Tránsito, la **Policía Nacional** y la Gobernación de Pichincha asistieron al sitio del [percance vial](https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador) "https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador)").
-
-Personal de la **Unidad Rescate La Virgen** informaron que se procedió a rescatar a varios de los pasajeros que viajaban en el bus.
-
-El Cuerpo de **Bomberos Mejía** atendió a las **personas heridas** y les brindó atención médica; así mismo, personal de salud de Opevial valoró la salud de los afectados.
-
-Efectivos de la **Comisión de Tránsito** indicaron posteriormente que la tipología del **siniestro** fue pérdida de pista y estrellamiento. **La vía se encuentra totalmente habilitada** al tránsito vehicular luego de trasladar el bus al patio de retención vehicular de Mejía.
-
-Paramédicos brindaron los **primeros auxilios** a nueve ciudadanos, de ellos, ocho recibieron en alta médica en el sitio y otro fue trasladado a un hospital.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Aloag-Santo-Domingo-1024x683.jpg)
-
-Los Bomberos asistieron a las personas afectadas en este incidente. Foto: ECU911
-
-Un siniestro se registró en Papallacta
---------------------------------------
-
-Otro **siniestro de tránsito** se registró la tarde del martes 23 de julio de 2024, esta vez en la **vía Pifo – Papallacta**.
-
-Un bus de transporte interprovincial que se movilizaba por la carretera perdió pista y chocó contra una peña. El hecho ocurrió a la altura del kilómetro 6, en el **sector de Palugo**.
-
-El Cuerpo de **Bomberos de Quito** confirmó que producto del siniestro **dos personas fallecieron**.
-
-Las víctimas del lamentable hecho son el **conductor** y el **controlador de la unidad** de transporte.
-
-El bus interprovincial siniestrado pertenece a la **Cooperativa Putumayo**. Bomberos y Policía Nacional asistieron esta emergencia
-
-Los Bomberos acudieron al lugar para colaborar en la emergencia junto a miembros de la **Policía Nacional**[.](https://www.bomberosquito.gob.ec/)
-
-Así funciona el Pico y placa este viernes 26 de julio en Quito
-==============================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
-------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/07/PicoQ.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
-
-Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias:
-
-* [Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-ruta-viva-y-dos-vias-mas-estan-cerradas-en-quito-este-jueves-25-de-julio.html "Av. Simón Bolívar, Ruta Viva y dos vías más están cerradas en Quito este jueves 25 de julio")
-* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
-* [¡Alerta! Inamhi advierte que vientos pueden propagar incendios](https://www.elcomercio.com/actualidad/ecuador/alerta-inamhi-advierte-que-vientos-pueden-propagar-incendios.html "¡Alerta! Inamhi advierte que vientos pueden propagar incendios")
-
-De acuerdo con el **cronograma**, este viernes no pueden circular las placas terminadas en **9 y 0**.
-
-Horarios de Pico y placa
-------------------------
-
-Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
-
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
-
-El **Pico y placa** es una medida que ha sido implementada en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
-
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
-
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
-
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Pilas!  
-> 🚙 Si tu carro lleva más de 3 años en un Centro de Retención Vehicular, será chatarrizado.  
-> ⚠️ ¡Libéralo ahora, evita perder tu bien y quedarte con la deuda!  
-> ✅¡Actúa ya!  
-> 💪 [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iPSZJ4QM2X](https://t.co/iPSZJ4QM2X)
-> 
-> — AMTQuito (@AMT\_Quito) [July 3, 2024](https://twitter.com/AMT_Quito/status/1808567581839691809?ref_src=twsrc%5Etfw)
-
-25 años es tiempo suficiente
-============================
-
-Los once años de la presidencia de Maduro han sido turbulentos. Inflación, inseguridad y migración, ensombrecen más el panorama.
+El peleador de artes marciales mixtas, Marlon 'Chito' Vera, regresa al octágono de la UFC, tras su derrota contra Sean O'Malley.
 --------------------------------------------------------------------------------------------------------------------------------
 
-![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+![Marlon 'Chito' Vera se prepara para su nueva pelea en la UFC que será en agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-29T205701.547.jpg)
 
-Este 28 de julio, los **venezolanos votarán para elegir a un nuevo presidente** **de la República**, con la salvedad de alrededor de 5 millones de ciudadanos que viven en el exterior y que teniendo los requisitos para votar no podrán hacerlo porque el **Consejo Nacional Electoral**, ente controlado por el Gobierno se los impidió.
+**Marlon ‘Chito’ Vera** volverá al octágono para enfrentarse a un excampeón de la UFC. El ecuatoriano se medirá contra el brasileño Deiveson Alcántara Figueiredo, ex campéon de Peso Mosca entre 2020 y 2023.
 
-Por ello, es muy probable, que la oposición no triunfe, porque el régimen imperante desde que Hugo Chávez fuera electo presidente a fines de 1998, no lo permitirá.
-
-Transcurrido un cuarto de siglo, vale preguntarse por qué el comandante Chávez llegó al poder. Y ante tal interrogante, deben hacerse responsables los dos principales **partidos políticos** que gobernaran desde 1958 en que cayera el dictador Pérez Jiménez, me refiero al socialdemócrata Adeco, y al socialcristiano Copei, que se convirtieron en **movimientos clientelistas**, permitiendo una **corrupción rampante**, que terminó por colmar la paciencia de los ciudadanos.
-
-Chávez gobernó durante 14 años, siendo reelecto en dos ocasiones, no teniendo los opositores ningún tipo de garantías. En enero de 2007 anuncio la implantación del “**Socialismo del Siglo XXI**”, confiscando y nacionalizando todas las **empresas estratégicas**, así como los medios de comunicación.  Su política exterior fue de estrechamiento de relaciones con los **regímenes socialistas**, fuertes discrepancias con su vecina Colombia, caracterizándose por una alianza creciente con Cuba a quién abastecía de petróleo a cambio de un multitudinario contingente de médicos generales, entrenamiento militar, policial y de inteligencia para controlar políticamente al país, y un discurso integracionista muy ideologizado.
-
-Fallecido Chávez, en abril del 2013 triunfa **Nicolás Maduro** quien había sido ungido como el heredero, gobernando hasta ahora, tras ser reelecto en una ocasión.  Ahora, va a la reelección por segunda vez, teniendo como principal contrincante al exdiplomático, Edmundo González. 
-
-**Los once años de la presidencia de Maduro** **han sido turbulentos**.  La economía es casi enteramente dependiente del crudo, algo que ni Chávez ni él pudieron superar.  **La inflación, la inseguridad** y la multitudinaria migración se han encargado de ensombrecer aún más el panorama.
-
-En octubre pasado, **el oficialismo** y algunos sectores de la oposición firmaron el **Acuerdo de Barbados** con la participación de representantes de varios países. El texto constituyó un marco de trabajo para **posibilitar las negociaciones** de cara al proceso electoral del 2024, con dos objetivos simultáneos, pero interpretados divergentemente.
-
-Según la interpretación del **oficialismo**, el texto ratificaba la inhabilitación de **Ana Corina Machado**, coordinadora nacional del partido Vente Venezuela y principal líder opositor; en cambio, para la oposición, dicho Acuerdo confirmaba exactamente lo contrario, es decir, que Machado podría participar.  
-
-Finalmente, será **Edmundo González**, quien a priori se había inscrito, el candidato opositor más fuerte, tras recibir el aval de Machado y del resto de la Mesa de la Unidad Democrática (MUD).
-
-No es simple entender la “carta” jugada por Washington en todo este complejo cuadro.  A ratos se endurece ante **Maduro**, lo recrimina y condena, para al día siguiente invitarlo a sentarse a negociar. Pareciera que el señor dinero, entiéndase el petróleo, hace que los principios que dice defender, esto es, **la libertad y la democracia languidezcan** -según dicen- debido al interés y la **seguridad nacional**.  ¿Será?
-
-Numerosas encuestas dan una ventaja cómoda para González, aunque la base social del chavismo unido a la “maquinaria” oficialista y el reciente **mejoramiento económico** y la cuestión del Esequibo le han permitido a **Maduro** mantener el **optimismo,** que no se condice con las **amenazas vertidas** en estos días, en el sentido de que si no gana “correrá un río de sangre”.
-
-Por Venezuela y su gente, que todo resulte bien.
-
-Cartas a Quito / 26 de julio de 2024
-====================================
-
-Estas son las cartas a Quito de este viernes 26 de julio de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¿Perros en la CCE?
-------------------
-
-Resulta más que increíble pensar y constatar que, dentro de las instalaciones de un respetable y emblemático lugar de arte, ciencia y cultura, se albergue a unos cuantos peligrosos y agresivos canes. Me refiero exactamente a la presencia de tres agresivos perros que conviven a la entrada del bloque donde funciona la SEDE (Sociedad ecuatoriana de escritores)  y, de lo que se conoce, en los últimos tiempos, ya vienen atacando a tres personas que, a cualquier hora y por cualquier motivo visitan esta casona.
-
-Hace algunos meses presenté mi queja personal en referencia a esta molesta situación al señor Fernando Cerón (Presidente de la CCE Núcleo de Pichincha),  quien supo responder, a través de su secretaria, que son perritos “adoptados” y por consiguiente, no podrían deshacerse de ellos. La verdad es que, hasta la presente fecha, no se ha hecho absolutamente nada por solucionar este conflicto. Conozco también que, después de unos días de haber presentado mi queja, uno de los canes (el más pequeño de los tres)  atacó nuevamente a otra de las escritoras.
-
-A propósito, se me hace muy raro y difícil de creer, que se proteja más a los animales que a las personas: gente de cultura que acude periódicamente a este edificio.
-
-No estamos en desacuerdo con el cuidado y la protección que se debe dar a las mascotas, pero pensamos, que esta importante Institución, ícono de la cultura, debería asignarles un espacio seguro y apropiado que les permita vivir tranquilas sin hacer daño a los visitantes, evitando así que  se repitan  estos  lamentables y dolorosos episodios.
-
-Fabiola Carrera Alemán
-
-El problema del narcotráfico
-----------------------------
-
-Aunque sé  que los funcionarios gubernamentales, no leen la opinión de los ciudadanos, escribo estas líneas, porque es desesperante ver que hay ceguera gubernamental al tratar de controlar el narcotráfico. Y digo que hay ceguera, porque no se analiza la  naturaleza de la causa fundamental de este sucio negocio que causa tanto daño al país; y si no se conoce la causa, es imposible erradicar el problema.
-
-La causa está en la demanda ávida de toda clase de droga por parte principalmente, de gran parte de la ciudadanía norte americana y de los países europeos, que pagan altos precios por esas substancias, debido sobre todo, a que la prohibición de su consumo, alienta el encarecimiento de esa mercadería y el país, por su situación geográfica se ha convertido en el paso obligatorio de ella. Además, este comercio tiene como proveedor a otros países de América Latina y ha echado ondas raíces en la economía, tanto en los países, llamémosles  productores, como en los consumidores Por lo tanto, lo lógico es encontrar la solución tomando en cuenta la naturaleza del problema; y esto lo ha hecho la ONU, pues las  Naciones Unidas, el 27 de junio del año pasado, hizo un llamado “a terminar con la guerra contra las drogas y cambiar el enfoque a  la Salud y Derechos Humanos”. Esto significa para mi. un llamado a legalizar el consumo de los estupefacientes, con lo cual bajaría su precio; pero el esfuerzo de los gobiernos de todo el mundo se enfocaría en la salud mental de sus poblaciones, tanto con medidas preventivas, tales como estudiar a las sociedades para poner remedio a las causas que impulsan el consumo de estupefacientes; como ampliar los centros de salud, dirigidos a rehabilitar a los consumidores.
-
-El camino para el cambio de actitud, requiere que todas las naciones traten la solución de este problema, planteado por las Naciones Unidas, de la misma forma que tratan el cambio climático y adopten una política y estrategia comunes. El gobierno del Ecuador debe ser un promotor  de este cambio de enfoque, como país integrante de esa organización mundial. Requiere mucho tiempo, pero con el objetivo claro, hay que trazar la estrategia adecuada para lograrlo y aplicarla en el país en lo que le tocaría al Ecuador.
-
- Por último, pediría a El Comercio que sea el abanderado en una campaña que motive al Gobierno a aceptar lo propuesto en el penúltimo párrafo
-
-Carlos Adolfo González Sánchez
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
-
-Las disputas políticas aportan poco a la sociedad
-=================================================
-
-Las recientes disputas políticas entre el presidente Daniel Noboa, el alcalde de Guayaquil, Aquiles Alvarez y el presidente de la Asamblea Nacional, Henry Kronfle, alargan la polarización que ha vivido el país en los últimos 17 años.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las disputas políticas en Ecuador detienen a la sociedad.](https://www.elcomercio.com/wp-content/uploads/2024/07/Editorial-El-Comercio.jpg)
-
-En el panorama político ecuatoriano, las disputas entre las autoridades se han convertido en un fenómeno recurrente que afecta profundamente a la ciudadanía. La reciente tensión entre el presidente **Daniel Noboa**, el alcalde de Guayaquil, **Aquiles Alvarez**; y el presidente de la Asamblea Nacional, **Henry Kronfle**, es un claro ejemplo de cómo los enfrentamientos políticos pueden tener consecuencias para el país.
-
-La historia política reciente de Ecuador ha estado marcada por una constante lucha entre el correísmo y la oposición, una batalla que parece perpetuarse. Esta polarización ha generado un ambiente de inestabilidad y desconfianza que se refleja en la vida diaria de los ciudadanos. **Las disputas entre Noboa, Álvarez y Kronfle** no son solo un cruce de palabras, sino que representan un obstáculo significativo para pensar en un Ecuador diferente; como siempre se promete en las campañas electorales.
-
-> Las consecuencias de estas disputas políticas son palpables en la vida de los ciudadanos. La falta de cooperación entre las autoridades ha llevado a una parálisis en la ejecución de proyectos esenciales para el desarrollo del país. La infraestructura, la educación y la salud, por poner ejemplos, son sectores que se han visto gravemente afectados por la falta de consenso y la constante confrontación entre los líderes políticos.
-
-Además, la población percibe estas disputas como un espectáculo de poder y ego, donde las verdaderas necesidades del pueblo quedan relegadas a un segundo plano. Los ciudadanos exigen más trabajo y menos confrontación, piden que sus líderes se enfoquen en resolver los problemas reales que afectan al país, como la pobreza, la inseguridad y el desempleo.
-
-**La polarización política** también ha tenido un impacto negativo en la cohesión social. La constante confrontación entre el correísmo y la oposición ha dividido a la sociedad ecuatoriana y ha creado un ambiente de desconfianza y resentimiento.
-
-La situación actual en Ecuador es un llamado de atención para todos los actores políticos. Se mantienen imágenes, como las de este **25 de julio en Guayaquil**, donde se realizan actos paralelos; como las que ocurrían durante el correísmo y la administración socialcristiana. La historia de los últimos 17 años en Ecuador no ha dejado lecciones a los políticos.
-
-¿Qué es lo que no se entiende?
-==============================
-
-El Ecuador tiene infinitas necesidades de capital en el sector de energía, infraestructura, tratamiento de aguas y desechos sólidos urbanos.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-Con la **ley orgánica de eficiencia económica y generación de empleo** publicada en el registro oficial suplemento número 461 del 20 de diciembre de 2023 en su aspecto general es muy positiva para agilizar la tramitología exigida y así para **atraer los capitales** necesarios para el **desarrollo del país** y el accionar sincrónico funcional entre el Estado y los inversionistas, con el propósito de generar empleo, incrementar la productividad y **generar riqueza en y para el país**.
-
-Dado la **situación crónica y crítica** del erario nacional que no tiene los recursos, tiene un déficit muy alto y muy limitada capacidad de seguirse endeudando o gravando más impuestos, solamente tiene dos alternativas para mejorar su estado de situación.
-
-1.- Reducir el **costo operativo** y la **burocracia**, en un proceso de austeridad fiscal que logre eficiencia, eliminación de trámites innecesarios y múltiples otras situaciones de desperdicio de recursos en las **finanzas públicas**.
-
-2.- Impulsar y facilitar nuevas **inversiones nacionales** y **extranjeras** del sector privado haciendo que esta economía dolarizada se blinde con institucionalidad y **seguridad jurídica** suficiente para que la inversión venga de igual manera como llega prácticamente a todo el resto de países de Sudamérica, otorgando estímulos y permitiendo participación en aquellos sectores mal llamados estratégicos, pues lo único estratégico es la disponibilidad de bienes y servicios. En el mundo ya han desaparecido las barreras entre lo que puede ser **sector público** y el **sector privado** desde el punto de vista de **inversión y propiedad**, pues si alguien hace una **inversión en la construcción** de una carretera, no es para llevarse la carretera, de igual manera en el **sector minero o petrolero** que son actividades necesarias para el funcionamiento del país y el mundo.
-
-Son oportunidades para dar empleo y crea riqueza en el país multiplicando el valor de esta prestación de servicios y bienes en forma permanente en el país. Lo único estratégico son las carencias, como el ejemplo del último año, donde la **carencia de energía** ha obligado al país comprarla hasta 20 veces más cara a Colombia, pero el costo de no disponer de ella significa **altas pérdidas a la economía ecuatoriana**.
-
-En realidad, no hay que inventar mucho, solo hay que aprender de la historia, especialmente siendo un país dolarizado donde no tenemos disponibilidad de moneda propia. La única alternativa es hacer atractivo al país para el ingreso de dólares por inversión, principalmente según informe del **Banco Mundial** en **sectores extractivos**, a**groexportación** y fomento al turismo, principalmente.  Cuando se incrementa la **producción y exportación** llegaran nuevos recursos a la **economía ecuatoriana**.
-
-Tomemos el ejemplo de cómo se reconstruyó Europa después de la **Segunda Guerra Mundial**: fue con ayuda e **inversión extranjera**, principalmente norteamericana. El ejemplo de Singapur un país más pequeño que el cantón Quito localizado al sur de Malasia y que ni siquiera Malasia lo quiso aceptar en 1960 cuando se independizó y cuyo presidente Lee Yuan Yew tomo severas medidas para eliminar corrupción y crimen convirtiéndolo en lo que es ahora uno de los tigres asiáticos con PIB que casi quintuplica al del Ecuador.
-
-También tenemos el **modelo económico de Israel** que en los años 80 tenía una inflación que casi llegó al 400%, pero luego **Shimon Peres** dos veces primer ministro, luego fue presidente y ganador del premio Nobel de la paz en 1994, **fortaleció la economía** impulsando una serie de medidas como fueron: reducción de la burocracia, detener el incremento de sueldos en el sector público, combatir el déficit fiscal, transferir al sector privado todas las empresas públicas ineficientes, suspender la emisión inorgánica de dinero y brindar autonomía al Banco Central, (tema necesario cuando un país es emisor) liberándolo de presiones de influencias externas y logrando que la gente recupere confianza tanto en su moneda local como en la **seguridad jurídica**. También impulsó las iniciativas de emprendimiento, principalmente en el campo tecnológico y el agroindustrial, mediante la participación del Estado con un aporte de hasta 40% de capital a estas nuevas empresas que fueran calificadas por profesionales ajenos a las influencias políticas.
-
-Cuando estas empresas se volvían autosustentables, el Estado desinvertía, recuperando el monto de la inversión a más de un interés acordado. Estas medidas han sido aplicadas por más de 30 años con disciplina complementados con impulso a la **educación y talento** basado en promover y proteger las **iniciativas y la inversión del sector privado**. En esta semana, posiblemente la empresa Google realice la adquisición de una empresa tecnológica israelí por un valor cercano a los 36,000 millones de dólares.
-
-El Ecuador tiene infinitas necesidades de capital en el **sector de energía**, de **infraestructura**, de **tratamiento de aguas y desechos sólidos urbanos** que pueden realizarse con inversión privada tanto en alianza estratégica como **alianzas públicas privadas**; pero para esto último hay que corregir una nueva trampa burocrática donde un reglamento **(norma de menor jerarquía)** que reforma a una ley **(norma de mayor jerarquía)** volviéndola letra muerta cómo se mencionó al inicio. En el artículo 297 del reglamento (Decreto No. 157) contiene el absurdo de prohibir al proponente privado de un proyecto APP, a presentar una nueva oferta, a efectos de igualar o mejorar una oferta presentada por el oferente mejor calificado dentro del concurso público.
-
-La mala intención está en que **desmotiva las iniciativas,** permite vislumbrar fraude, así como aprovechamiento de trabajo ajeno y propiedad intelectual, en perjuicio de quien desarrolló la idea y el trabajo original.  En tal sentido, se debe realizar de manera urgente e inmediata la reforma al mencionado artículo 297 del reglamento para corregir esta **incongruencia jurídica** y hacer que sea atractiva a la inversión privada necesaria y urgente para el desarrollo del país. **¿Qué parte es la que no se entiende?**
-
-Caso Metástasis, primeros nueve procedimientos abreviados dejaron nuevas revelaciones
-=====================================================================================
-
-Nueve sentenciados con procedimiento abreviado en el caso Metástasis revelan información sobre esta investigación que realiza la Fiscalía.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia en la Corte Nacional de Justicia sobre el procedimiento abreviado a uno de los implicados en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/07/caso-metastasis-2.png)
-
-El pasado lunes 15 de julio de 2024, la **Corte Nacional de Justicia** inició la audiencia de **procedimiento abreviado** para **Gabriel Genaro G. C.**, acusado de **delincuencia organizada** en el **caso Metástasis[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis)** De los 10 procedimientos abreviados que se realizarán, nuevo ya se han resuelto.
+La última pelea del ‘Chito’ fue el 9 de marzo de 2024, cuando se enfrentó contra Sean O’Malley por el cinturón de **Peso Gallo en la UFC 299**. La pelea la terminó ganando el estadounidense por decisión unánime. 
 
 ### Más noticias:
 
-* [Caso Metástasis, funcionario judicial que delató a Wilman Terán, es el octavo sentenciado](https://www.elcomercio.com/actualidad/politica/caso-metastasis-funcionario-judicial-octavo-procesado.html "Caso Metástasis, funcionario judicial que delató a Wilman Terán es el octavo sentenciado")
-* [Caso Metástasis: Mayra Salazar, nexo entre Norero y jueces, logró una pena reducida](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-mayra-salazar-nexo-leandro-norero-logro-pena-reducida.html "Caso Metástasis: Mayra Salazar, nexo entre Norero y jueces, logró una pena reducida")
-* [Caso Metástasis deja primeros sentenciados, ¿qué dijeron en su procedimiento abreviado?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-primeros-procedimientos-abreviados-tres-sentenciados.html "Caso Metástasis deja primeros sentenciados, ¿qué dijeron en su procedimiento abreviado?")
+* [Gerlon Congo asegura otro diploma en Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos-gerlon-congo-abner-teixeira.html "Gerlon Congo asegura otro diploma en Juegos Olímpicos de París 2024")
+* [Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/ecuador-destaca-boxeo-en-los-juegos-olimpicos-paris.html "Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024")
+* [Marlon ‘Chito’ Vera (centro) junto a Tony Hawk (der.) en una pista de patinaje.](https://www.elcomercio.com/wp-content/uploads/2024/06/g-2024-06-04T192246.565.jpg "Marlon ‘Chito’ Vera (centro) junto a Tony Hawk (der.) en una pista de patinaje.")
 
-**Wilson Toainga, fiscal general del Estado (s)**, dirigió la sesión. Gabriel Genaro G. C., expolicía en la Comandancia General – Planta Central, enfrentó **cargos basados en informes tributarios, registros financieros y documentos periciales**.
+¿Cuándo pelea el ‘Chito’ Vera?
+------------------------------
 
-La Fiscalía presentó evidencias contundentes:
+La pelea está pactada para el 3 de agosto de 2024 y formará parte de la cartelera especial del evento UFC on ABC: **Sandhagen** **vs**. **Nurmagomedov.** 
 
-* **Informes financieros y tributarios:** Revelaron ingresos irregulares y transferencias bancarias no justificadas. Entre 2022 y 2023, registró tres depósitos por un total de 13 584 dólares en efectivo, lo cual no correspondía con su salario.
-* **Declaración patrimonial:** Según la Contraloría General del Estado, su patrimonio en junio de 2022 era de – 2 607 38 dólares, indicando un déficit financiero significativo.
-* **Informe de inspección ocular técnica:** Durante el allanamiento a su inmueble, se encontraron diversos indicios que lo vinculan directamente con la red de delincuencia organizada, incluyendo armas y dispositivos electrónicos.
-* **Parte policial:** Documentos detallaron su detención en diciembre de 2023 junto a otros 38 implicados y la incautación de armas, dispositivos electrónicos y documentos relacionados con actividades delictivas.
+Como ya es costumbre desde hace varios eventos, el manabita Marlon ‘Chito’ Vera estará en la cartelera principal de la UFC.
 
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | Caso [#Metástasis](https://twitter.com/hashtag/Met%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general del Estado (s), Wilson Toainga, se instala la audiencia de procedimiento abreviado al que se acogió Gabriel Genaro G. C., procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/GNgDGuHgIF](https://t.co/GNgDGuHgIF)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 15, 2024](https://twitter.com/FiscaliaEcuador/status/1812929781542821983?ref_src=twsrc%5Etfw)
+El evento que tiene como pelea estelar un **Cory Sandhagen** vs. Umar Nurmagomedov se realizará en el Etihad Arena, en Abu Dhabi, Emiratos Árabes Unidos. 
 
-Gabriel Genaro G. C. **aceptó su responsabilidad** durante la audiencia, lo que permitió un juicio abreviado. El juez dictó una pena de **40 meses de prisión** y una multa de **5 520 dólares**.
+Otros eventos de la cartelera principal son: **Marlon Vera** vs. Deiveson Figueiredo (Peso Gallo), Tony Ferguson vs. Michael Chiesa (Peso Wélter) y Sharabutdin Magomedov vs. Michal Oleksiejczuk (Peso Medio), que es el evento coprincipal. 
 
-Segundo sentenciado en el caso Metástasis
------------------------------------------
-
-El martes 16 de julio de 2024, **Neycer Lenin M. S.**, **coronel de la Policía**, fue condenado por delincuencia organizada. El **juez Manuel Cabrera** aprobó el **procedimiento abreviad**o y sentenció a Neycer a **40 meses de prisión y una multa de 5 520 dólares**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): se instala la audiencia de procedimiento abreviado al que se acogió Neycer Lenin M. S., procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Asiste el fiscal general del Estado (s), Wilson Toainga. [pic.twitter.com/W8CHh5v7PY](https://t.co/W8CHh5v7PY)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 16, 2024](https://twitter.com/FiscaliaEcuador/status/1813231974321955153?ref_src=twsrc%5Etfw)
-
-También impuso una reparación integral de **11 040 dólares** al Estado y la publicación de la sentencia con disculpas públicas en un medio nacional durante tres días.
-
-La Fiscalía presentó las siguientes pruebas:
-
-* **Filtración de información:** Neycer Lenin M. S. filtró información crítica a la organización criminal, proveyendo seguridad a Leandro Norero y pretendiendo captar a más policías de los ejes preventivos, de inteligencia e investigativo.
-* **Beneficios económicos:** Recibió fondos significativos para sí mismo y sus familiares, que no fueron destinados al mantenimiento del parque automotor del Distrito de Samborondón, como se había pretendido.
-* **Evidencias materiales:** Se presentaron registros de transferencias bancarias y testimonios que confirmaban su rol activo en la organización criminal.
-
-Durante la audiencia, el fiscal **Wilson Toainga** explicó que Neycer **intentó captar a más policías** para la organización, ofrecía **beneficios económicos** a sus familiares.
-
-Tercer sentenciado por el caso Metástasis
------------------------------------------
-
-El miércoles 17 de julio de 2024, se realizó la audiencia de procedimiento abreviado para **Helive Paúl A. B.**, alias **‘Estimado**‘ y terminó el 18 de julio.
-
-La Fiscalía presentó pruebas de su participación en la compra de votos y **fraudes procesales para beneficiar a Leandro Norero**. Helive Paúl A. B. aceptó su responsabilidad y firmó un acuerdo de cooperación eficaz.
-
-Las pruebas presentadas incluyeron:
-
-* **Transcripciones de conversaciones:** En estas, Helive discute la compra de tiempo judicial, paga 10 000 dólares al exmagistrado Wilman T. C., y revela la estrategia de sobornar a funcionarios para obtener decisiones favorables.
-* **Manipulación de procesos legales:** Incluye la presentación de habeas corpus para animales incautados y la discusión de cómo evitar la prisión preventiva tras cambiar la clasificación del delito.
-* **Lavado de activos y fraude financiero:** Helive describió cómo justificaban ingresos y movimientos financieros para evitar detección. Usó estructuras financieras complejas para ocultar actividades ilícitas.
-* **Red de corrupción:** Detalló la implicación del abogado Christian R. y la planificación de aportes para asegurar la nulidad de ciertos procesos judiciales.
-
-El **juez Manuel Cabrera** dictó una sentencia de **15 meses de prisión** y una multa de 5 520 dólares. Además, se ordenó el comiso de bienes y **medidas de reparación e indemnización** al Estado ecuatoriano.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): juez Manuel Cabrera reinstala la audiencia de procedimiento abreviado al que se sometió Helive A., a quien [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) investigó por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/37ReFPR4jf](https://t.co/37ReFPR4jf)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 18, 2024](https://twitter.com/FiscaliaEcuador/status/1814014744069865481?ref_src=twsrc%5Etfw)
-
-Cuarto sentenciado por el caso Metástasis
------------------------------------------
-
-En la Corte Nacional de Justicia se llevó a cabo la audiencia de procedimiento abreviado para **Christian Gabriel S. C.**, acusado de delincuencia organizada en el **caso Metástasis**. La fiscal general del Estado, Diana Salazar, participó **telemáticamente en la sesión**.
-
-Christian Gabriel S. C. aceptó su responsabilidad y se sometió al procedimiento abreviado, según los **artículos 635 y 636 del Código Orgánico Integral Penal (COIP**). La Fiscalía solicitó una pena de **40 meses de prisión**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw), se instala la audiencia de procedimiento abreviado al que se sometió Christian Gabriel S. C., procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Asiste –vía telemática– la fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw). [pic.twitter.com/Vmve0u6qSE](https://t.co/Vmve0u6qSE)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 22, 2024](https://twitter.com/FiscaliaEcuador/status/1815420069414838488?ref_src=twsrc%5Etfw)
-
-Confesión y rol en la estructura
---------------------------------
-
-Christian Gabriel S. C., exsecretario judicial del **juez Penal de Guayas**, Ronald G., confesó que informa a la estructura criminal de **Leandro Norer**o sobre actividades en la Judicatura para facilitar decisiones judiciales a cambio de pagos económicos. Coordinaba con el abogado Xavier N. y recibió **5 000 dólares** de Helive A., ya sentenciado en el caso.
-
-Diana Salazar presentó **23 elementos de convicción** para sustentar el procedimiento abreviado. Estos elementos confirmaron la implicación de Christian Gabriel S. C. en la estructura criminal.
-
-El juez Manuel Cabrera sentenció a Christian Gabriel S. C. a **40 meses de prisión** como autor directo del delito, basándose en las pruebas presentadas por la Fiscalía. Esto permitió una **resolución expedita del caso**.
-
-Quinto sentenciado del caso Metástasis
---------------------------------------
-
-La **Corte Nacional de Justicia (CNJ)** trató el quinto **procedimiento abreviado en el caso Metástasis**. La audiencia fue solicitada por otro policía el lunes 22 de julio de 2024. La Fiscalía General del Estado solicitó este procedimiento para **Héctor David P. F.**, agente investigador de la **Dirección de Investigación de Lavado de Activos (Dilat)**.
-
-Héctor David P.F. está procesado por **delincuencia organizada**, delito sancionado con pena privativa de libertad de siete a diez años.
-
-La Fiscal General sugirió una pena reducida de **30 meses de privación de libertad** para Héctor David P.F. La propuesta fue aceptada tras un acuerdo previo con la **defensa del procesado**. Durante la audiencia, el juez **Manuel Cabrera** consultó al procesado y su defensa sobre su conocimiento del acuerdo. Ellos confirmaron su acuerdo con la propuesta de la **Fiscalía General**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw), se instala la audiencia de procedimiento abreviado al que se sometió Héctor David P. F., procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Asiste –vía telemática– la fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw). [pic.twitter.com/xP8n8gv6YX](https://t.co/xP8n8gv6YX)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 22, 2024](https://twitter.com/FiscaliaEcuador/status/1815497393535660510?ref_src=twsrc%5Etfw)
-
-Desde mayo de 2022, **Héctor David P.F.** colaboró con una red criminal liderada por **Leandro Norero**. Fue interceptado por alias ‘Hólger’, otro policía, y colaboró con **documentos falsos para justificar el origen** del dinero encontrado en la casa de Norero. A cambio, recibió **9 000 dólares**. La fiscal Diana Salazar presentó 32 elementos de convicción contra Héctor David P.F.
-
-El **juez Manuel Cabrera** aceptó el procedimiento abreviado y resolvió que Héctor David P.F. es autor directo del delito de **delincuencia organizada**. La pena fue fijada en **30 meses de prisión**, una multa de 5,520 dólares, y el comiso de bienes incautados. Además, se impuso una indemnización de **11 040 dólares** al Estado y el retorno de **9 000 dólare**s recibidos por el procesado.
-
-Sexto sentenciado del caso Metástasis
--------------------------------------
-
-El pasado martes 23 de julio de 2024, en la Corte Nacional de Justicia, se instaló la audiencia de procedimiento abreviado para **Ángel Harry L. V.**, juez de **La Concordia**, procesado por delincuencia organizada. La fiscal general, **Diana Salazar**, participó vía telemática en la audiencia. El juez enfrenta cargos por su presunta implicación en actividades bajo las órdenes de **Leandro Norero**.
-
-La investigación revela que **Ángel Harry L. V.** habría recibido beneficios económicos a cambio de decisiones judiciales. Un reporte de gastos encontrado en los chats de Norero detalla un pago de 50 000 dólares, destinado a la liberación de una propiedad en **Samborondón**.
-
-Además, los mensajes muestran que Norero mantenía comunicación constante con **Helive A. y Cristian R.**, solicitando apoyo para que el juez devolviera **bienes incautados**.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw), se instala audiencia de procedimiento abreviado al que se sometió Ángel Harry L. V. (juez de [#LaConcordia](https://twitter.com/hashtag/LaConcordia?src=hash&ref_src=twsrc%5Etfw)), procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Asiste –vía telemática– la fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw). [pic.twitter.com/hCH61CjczB](https://t.co/hCH61CjczB)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 23, 2024](https://twitter.com/FiscaliaEcuador/status/1815770769739366663?ref_src=twsrc%5Etfw)
-
-Ángel Harry L. V. aceptó su responsabilidad en el delito imputado y se sometió a un procedimiento abreviado. La Fiscalía, representada por Diana Salazar, solicitó una pena de **40 meses de prisió**n. La aceptación de culpabilidad y el cumplimiento de los **requisitos legales establecidos en el COIP** justificaron la solicitud de la Fiscalía.
-
-El **juez Manuel Cabrera** acogió el pedido de la Fiscalía y sentenció a Ángel Harry L. V. como autor directo del delito de **delincuencia organizada**. La decisión fue tomada tras evaluar las pruebas presentadas, incluyendo comunicaciones y documentos que detallaban las decisiones judiciales y pagos relacionados con la liberación de bienes.
-
-Séptimo sentenciado en el caso Metástasis
------------------------------------------
-
-La Corte Nacional de Justicia (CNJ) conoció el séptimo pedido de procedimiento abreviado a favor del juez que liberó a los sicarios de Leandro Norero. La Fiscalía solicitó esto para Emerson G. C., exjuez de la Unidad Judicial Penal de Santo Domingo.
-
-El exjuez reconoció el delito de delincuencia organizada. Diana Salazar sugirió una pena de 40 meses de prisión, previo acuerdo con Emerson C. y su defensa técnica.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw), se instala la audiencia de procedimiento abreviado contra Emerson Geovanny C. U. (juez de [#SantoDomingoDeLosTsáchilas](https://twitter.com/hashtag/SantoDomingoDeLosTs%C3%A1chilas?src=hash&ref_src=twsrc%5Etfw)), procesado por [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Asiste –vía telemática– la fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw). [pic.twitter.com/SGe0loqMJh](https://t.co/SGe0loqMJh)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 23, 2024](https://twitter.com/FiscaliaEcuador/status/1815845496067649961?ref_src=twsrc%5Etfw)
-
-Emerson C. benefició a **14 personas**, incluyendo al exvicepresidente Jorge Glas. Las investigaciones señalan que alias Madrid y **alias Cuyuyui** ocasionaron la primera masacre carcelaria en 2021. A cambio de la libertad de estos sicarios, Emerson C. recibió **200 000 dólares** en una caja de cartón de manos de Jairo V., persona de confianza de **Cristian R.**, abogado y cabeza de la organización criminal.
-
-La Fiscalía inició la investigación del caso Metástasis a partir de los chats encontrados en los celulares de Norero, asesinado en octubre de 2022 en la cárcel de Cotopaxi.
-
-El juez de la Sala Penal de la CNJ, **Manuel Cabrera**, impuso **40 meses de prisión** para Emerson Curipallo como autor directo del delito de delincuencia organizada. También se ordenó el pago de 211 040 dólares como reparación al Estado, incluidos los **200 000 dólares** recibidos por parte de Norero, una multa de 5 520 dólares y el comiso de los bienes.
-
-Octavo sentenciado en el caso Metástasis
-----------------------------------------
-
-En la Corte Nacional de Justicia se llevó a cabo una audiencia de procedimiento abreviado el miércoles 24 de julio de 2024. **Álex Francisco P.**, **subcoordinador jurídico**, fue procesado por el delito de delincuencia organizada en el caso Metástasis. La fiscal general, **Diana Salazar**, participó de manera telemática en esta octava audiencia.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw), se instala la audiencia de procedimiento abreviado al que se sometió Álex Francisco P., procesado por el delito de [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Participa –vía telemática– la fiscal general del Estado, [@DianaSalazarM2](https://twitter.com/DianaSalazarM2?ref_src=twsrc%5Etfw). [pic.twitter.com/hxYRFByZty](https://t.co/hxYRFByZty)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 24, 2024](https://twitter.com/FiscaliaEcuador/status/1816131406151487805?ref_src=twsrc%5Etfw)
-
-**Álex Francisco P. asesoró a Helive A.** en la compra de decisiones judiciales, usando su influencia en la Corte Nacional de Justicia. Este asesoramiento se confirmó mediante **chats expuestos** por la Fiscalía. Además, tenía vínculos laborales con Cristian R., persona de confianza del presidente del Consejo de la Judicatura, Wilman T.
-
-Álex Francisco P. recibió **10 000 dólares** por retrasar una notificación de sentencia, acciones documentadas en chats y videos. Aceptó su responsabilidad en e**l delito y se sometió** al procedimiento abreviado, cumpliendo con los requisitos del **Código Orgánico Integral Penal**. La Fiscalía solicitó 40 meses de privación de libertad, considerando su autoría directa en el delito.
-
-La Secretaría Relatora de la Sala de lo Penal detalló en la audiencia la evidencia en contra de Álex Francisco P. Un informe técnico pericial mostró una videollamada con Helive Paúl A. B. y Leandro Norero. Se materializaron **31 chats y 22 conversaciones vinculadas a Leandro Norero**. La Policía solicitó órdenes de detención para 38 ciudadanos y realizó 86 allanamientos.
-
-El juez Manuel Cabrera sentenció a Álex Francisco P. a **15 meses de privación de libertad**.
-
-Noveno sentenciado en el caso Metástasis
-----------------------------------------
-
-La **Corte Nacional de Justicia** conoció la solicitud de procedimiento abreviado para Mayra Salazar, excomunicadora de la **Corte de Justicia de Guayas**. La Fiscalía General del Estado solicitó este procedimiento, destacando la cooperación eficaz de Salazar. El **juez Manuel Cabrera** recordó que esta causa persigue el delito de **delincuencia organizada**, con una pena de hasta diez años.
-
-Vía telemática, la fiscal Diana Salazar sustentó la solicitud de **Mayra Salazar** antes de la audiencia de evaluación y preparatoria de juicio. La fiscal pidió que, de ser necesario, se le conceda la palabra a Salazar para confirmar el acuerdo.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): Mayra Carolina S. M. es la novena sentenciada por [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Aceptó su responsabilidad en el delito imputado por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y también firmó un acuerdo de cooperación eficaz.  
+> Feliz semana de [#UFCAbuDhabi](https://twitter.com/hashtag/UFCAbuDhabi?src=hash&ref_src=twsrc%5Etfw)  
 >   
-> Detalles ⬇️  
+> Chito Vera 🇪🇨 + Loopy Godinez 🇲🇽 + Joel Álvarez 🇪🇸 + Rolando Bedoya 🇵🇪  
 >   
-> 🌐[https://t.co/46anhx9lA9](https://t.co/46anhx9lA9) [pic.twitter.com/lZab6ILGKP](https://t.co/lZab6ILGKP)
+> ⚠️El evento comienza temprano ⚠️  
+>   
+> 🇳🇮🇸🇻🇨🇷🇲🇽🇬🇹🇭🇳: 10am  
+> 🇪🇨🇨🇴🇵🇪🇵🇦: 11am  
+> 🇻🇪🇨🇺🇵🇷🇵🇾🇨🇱🇧🇴🇩🇴: 12 mediodía  
+> 🇦🇷🇺🇾🇧🇷: 1pm  
+> 🇪🇸: 6pm  
+> ESTELARES 3hs más tarde ⏰ [pic.twitter.com/yKmXr7Kpyl](https://t.co/yKmXr7Kpyl)
 > 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 24, 2024](https://twitter.com/FiscaliaEcuador/status/1816240173241491848?ref_src=twsrc%5Etfw)
+> — MMA Latinoamérica (@ClubDeLasMMA) [July 29, 2024](https://twitter.com/ClubDeLasMMA/status/1817941306796048548?ref_src=twsrc%5Etfw)
 
-En primera instancia, la Fiscalía propuso **40 meses de privación de libertad**, tiempo que se redujo tras conocerse la cooperación eficaz de la procesada.
+¿Quién es Deiveson Figueiredo?
+------------------------------
 
-Mayra Salazar recibió **5 520 dólares en multas** y **17 340 dólares** en reparación integral. La cooperación eficaz de Salazar incluyó detalles sobre su contacto directo con **Leandro Norero**, un narcotraficante asesinado en 2022. Además, Salazar **facilitó negociaciones con jueces** para beneficiar a Norero y sus allegados, según los chats y movimientos bancarios.
+Deiveson Figueiredo es un peleador de artes marciales mixtas de 36 años. El brasileño está activo desde el 2012. 
 
-El juez Manuel Cabrera acogió el procedimiento abreviado y resolvió una pena de **15 meses de prisión para Salazar**, que saldría en libertad en **marzo de 2025**. También impuso una multa y reparación integral, confirmando el comiso de los bienes obtenidos por Salazar. La cooperación de Salazar fue clave para la reducción de la pena en este caso de delincuencia organizada.
+En la **UFC ha peleado 16 veces**, 14 en la categoría de Peso Mosca y las últimas dos en el Peso Gallo. 
 
-Hombre requerido por violar a su pequeña sobrina fue extraditado a Ecuador
-==========================================================================
+Su récord es de 12 victorias, tres derrotas y un empate. Además, fue **campeón** **Mundial** **de Peso Mosca de UFC entre 2020 y 2023.** 
 
-El hombre fue extraditado desde Colombia.
------------------------------------------
+Por otra parte, su récord total en artes marciales mixtas en 27 peleas es de **23 victorias**, nueve de ellas por nocaut, nueve por sumisión y cinco por decisión. 
 
-![El hombre era requerido por la Justicia desde 2019](https://www.elcomercio.com/wp-content/uploads/2024/07/violacion-extra.jpg)
+Las restantes son tres derrotas, una por cada vía posible, y un empate.
 
-Un hombre que era buscado por las autoridades ecuatorianas fue **extraditado** desde **Colombia**, este jueves 25 de julio de 2024.
+Voraz incendio forestal continúa tras 24 horas en Cuenca
+========================================================
 
-**Álvaro Joel P.C.**, quien tenía notificación roja de la Policía Internacional (Internacional) por el delito de violación, arribó al **aeropuerto de Quito**, la tarde de este jueves.
+Más de 100 bomberos y 30 brigadistas trabajan en el incendio forestal.
+----------------------------------------------------------------------
+
+![El incendio se registró en el sector de Pucán, en la parroquia rural de San Joaquín](https://www.elcomercio.com/wp-content/uploads/2024/07/cuenca-fuego.jpg)
+
+Un **voraz incendio forestal** consume la vegetación de alrededor de 90 hectáreas en **Cuenca**, en la provincia de Azuay.
+
+El siniestro se mantiene **activo** desde la noche del domingo 28 de julio de 2024.
+
+El incendio forestal se ubica en el sector de **Pucán**, en la parroquia rural de **San Joaquín**.
 
 ### Más noticias
 
-* [Policía lanzó gas pimienta a un perro y recibió un rechazo generalizado en Ecuador](https://www.elcomercio.com/narices-frias/policia-ecuador-maltrato-animal-sancion-perro-gas.html "Policía lanzó gas pimienta a un perro y recibió un rechazo generalizado en Ecuador")
-* [Dos policías son procesados por dispararle a una mujer sin razón, frente a su hija pequeña](https://www.elcomercio.com/actualidad/quito/policias-procesados-disparos-mujer-quito.html "Dos policías son procesados por dispararle a una mujer sin razón, frente a su hija pequeña")
-* [Capturan a sujetos que se disfrazaban de policías y médicos para delinquir](https://www.elcomercio.com/actualidad/seguridad/captura-sujetos-disfrazaban-policias-medicos-para-delinquir.html "Capturan a sujetos que se disfrazaban de policías y médicos para delinquir")
+* [Los incendios forestales afectan a todos en Quito](https://www.elcomercio.com/opinion/editorial/los-incendios-forestales-afectan-a-todos-en-quito.html "Los incendios forestales afectan a todos en Quito")
+* [Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos](https://www.elcomercio.com/actualidad/quito/incendios-forestales-consecuencias-vida-montanas-ecosistemas-ambiente-quito.html "Los incendios forestales acaban con la vida en las montañas, de la que todos dependemos")
+* [¡Histórico! Julio es el más caluroso en Ecuador](https://www.elcomercio.com/actualidad/ecuador/clima-julio-altas-temperaturas-historico-calor.html "¡Histórico! Julio es el más caluroso en Ecuador")
 
-El individuo era requerido por la Justicia desde **2019**. En ese año, el 21 de agosto, el hombre **violentó a su pequeña sobrina**.
+En la emergencia trabajan más de **100 bomberos y 30 brigadistas**, que han visto complicada su labor debido a los **fuertes vientos** que existen en el lugar.
 
-Esta no habría sido la primera vez que Álvaro P. abusó de su parentesco, la niña reveló que su tío la violó en **varias ocasiones**.
-
-La extradición se realizó gracias a labores investigativas conjuntas entre la Policía de **Ecuador** y la de **Colombia**.
-
-El detenido fue trasladado, a penas llegó a Quito, a la unidad judicial de la provincia de **Tungurahua**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) || DETENIDO CON NOTIFICACIÓN ROJA DE [@INTERPOL\_HQ](https://twitter.com/INTERPOL_HQ?ref_src=twsrc%5Etfw)  
+> Bomberos de la [#BRIF](https://twitter.com/hashtag/BRIF?src=hash&ref_src=twsrc%5Etfw) [#Cañar](https://twitter.com/hashtag/Ca%C3%B1ar?src=hash&ref_src=twsrc%5Etfw) se dirigen a Pucán, [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw), para apoyar en las labores de control del incendio forestal.  
 >   
-> Tras coordinaciones internacionales con [#Colombia](https://twitter.com/hashtag/Colombia?src=hash&ref_src=twsrc%5Etfw) se efectuó la extradición activa a [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) de Álvaro P., quien era prófugo de la justicia por el delito de violación, hecho ocurrido en Ambato, [#Tungurahua](https://twitter.com/hashtag/Tungurahua?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📌 Fue… [pic.twitter.com/eCMgYZaCPn](https://t.co/eCMgYZaCPn)
+> Se movilizan:  
+> ➡️ 23 bomberos de [@BomberosAzogues](https://twitter.com/BomberosAzogues?ref_src=twsrc%5Etfw) [@bomberosbiblian](https://twitter.com/bomberosbiblian?ref_src=twsrc%5Etfw) [@Bomberoscanar](https://twitter.com/Bomberoscanar?ref_src=twsrc%5Etfw) y [#ElTambo](https://twitter.com/hashtag/ElTambo?src=hash&ref_src=twsrc%5Etfw).  
+> ➡️ 5 camionetas  
+> ➡️ 1 motobomba  
+> ➡️ 1 ambulancia. [pic.twitter.com/bSRsKqSU6a](https://t.co/bSRsKqSU6a)
 > 
-> — Policía Ecuador (@PoliciaEcuador) [July 25, 2024](https://twitter.com/PoliciaEcuador/status/1816619700756869153?ref_src=twsrc%5Etfw)
+> — Riesgos Ecuador (@Riesgos\_Ec) [July 29, 2024](https://twitter.com/Riesgos_Ec/status/1818029297392869739?ref_src=twsrc%5Etfw)
 
-Tres reos se escaparon de una cárcel de Manabí
-----------------------------------------------
+Un primer grupo del Cuerpo de **Bomberos de Cuenca** se movilizó al cerro la noche del domingo. Sin embargo, la fuerza del fuego hizo necesaria la colaboración de uniformados de otros cantones.
 
-**Tres reos** se fugaron de la **cárcel El Rodeo**, de Portoviejo, en la provincia de Manabí, este jueves 25 de julio de 2024.
+Bomberos de **Azogues**, **Biblian** y **El Tambo** se sumaron a los trabajos durante estos dos días.
 
-El hecho se reportó la mañana de este jueves, sin embargo, fue confirmado en la noche por el Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y a Adolescentes Infractores (**SNAI**).
+Además, del apoyo de brigadistas de **cuatro parroquias** de Cuenca: San Joaquín, Baños, Checa y Chiquintad.
 
-Cuando los guardias de seguridad del Centro de Privación de Libertad (CPL) **Manabí N.°4** realizaron el control rutinario comprobaron que los individuos **no se encontraban en sus filas**.
+El jefe del Cuerpo de Bomberos de Cuenca, **Sixto Heras**, informó que hasta el medio día de este lunes, los personeros controlaron **más de un kilómetro** de línea de fuego a través de varios frentes.
 
-Se conoce que las personas privadas de la libertad (**PPL**) pagaban condenas entre los **22 a 34 años** en el pabellón de máxima seguridad por delitos de **asesinato** y **violación**[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
+“Sin embargo, tenemos **dos kilómetros** al un costado y 400 metros al otro todavía pendiente”, explicó Heras.
 
-El SNAI aseguró que, tras constatar que las PPL evadieron los filtros de seguridad, se activaron las **alertas de búsqueda** de los hombres.
+> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw)  
+> El Cap. Sixto Heras, jefe de [#BomberosCuenca](https://twitter.com/hashtag/BomberosCuenca?src=hash&ref_src=twsrc%5Etfw), informa sobre las labores efectuadas al momento en el incendio forestal de [#SanJoaquín](https://twitter.com/hashtag/SanJoaqu%C3%ADn?src=hash&ref_src=twsrc%5Etfw).  
+> 80 Bomberos y 30 brigadistas forestales combaten las llamas en una zona agreste con fuertes vientos. [pic.twitter.com/SOWjVPGomJ](https://t.co/SOWjVPGomJ)
+> 
+> — Bomberos Cuenca (@Bomberos\_Cuenca) [July 29, 2024](https://twitter.com/Bomberos_Cuenca/status/1817975298979508360?ref_src=twsrc%5Etfw)
+
+Julio el mes más caluroso
+-------------------------
+
+Este tipo de incendios forestales obedecen, en gran parte, a las **altas temperaturas** que se registran en algunas provincias de Ecuador.
+
+Durante las **últimas tres semanas**, en plena **época seca de verano**, en el país se han reportado **cifras récords de calor**.
+
+Según **Guillermo Flores**, analista de Pronósticos del Instituto Nacional de Meteorología e Hidrología (Inamhi), este **julio es el mes más cálido** en lo que va del año.
+
+Junto con **mayo**, han sido los meses más cálidos comparados con los mismos meses de 2023, en Ecuador.
+
+Con base en información de la **Organización Meteorológica Mundial** se determinó que **este julio** fue **el más caliente** de todos los registros históricos en el mundo, superando al del 2023 que mantenía el récord.
+
+Estas condiciones atmosféricas se deben al incremento del **aire seco en la troposfera**, que no permite el desarrollo de nubosidades, sobre todo en la Región Interandina.
+
+La falta de nubes permite el ingreso de **radiación ultravioleta** y el **incremento de temperaturas**.
+
+Pichincha, Imbabura y Loja son las tres provincias más afectadas con estas condiciones.
+
+CNJ realizó audiencia contra exministro prófugo de Rafael Correa
+================================================================
+
+La defensa del exministro de Rafael Correa, Javier C. asistió a la audiencia de evaluación y preparatoria de juicio.
+--------------------------------------------------------------------------------------------------------------------
+
+![El exministro de Minería en el gobierno de Rafael Correa es procesado por presunto enriquecimiento ilícito.](https://www.elcomercio.com/wp-content/uploads/2024/07/subteniente-del-Ejercito-que-fue-hallada-sin-vida-en-su-habitacion-del-Cuartel-de-la-Brigada-Militar-19-Napo-1.jpg)
+
+La **Corte Nacional de Justicia (CNJ)** realiza la audiencia de evaluación y preparatoria de juicio contra el **exministro** de Minería en el gobierno de **Rafael Correa**, **Javier C.**, quien está **prófugo.**
+
+El exministro Javier C. es procesado en ausencia y tiene circular roja de la Interpol desde enero de este año, cuando se le dictó prisión preventiva.
+
+### Más noticias:
+
+* [Exministro de Rafael Correa va a juicio, ¿de qué delito se lo acusa?](https://www.elcomercio.com/actualidad/seguridad/exministro-rafael-correa-pedro-merizalde-juicio-lavado-activos.html "Exministro de Rafael Correa va a juicio, ¿de qué delito se lo acusa?")
+* [Caso Pruebas Covid-19: el proceso contra Abdalá y Jacobo B. va cuatro años sin resolución](https://www.elcomercio.com/actualidad/seguridad/caso-pruebas-covid-19-proceso-contra-abdala-jacobo-cuatro-anos-sin-resolucion.html "Caso Pruebas Covid-19: el proceso contra Abdalá y Jacobo B. va cuatro años sin resolución")
+
+Delito por el que se le procesa al exministro de Rafael Correa
+--------------------------------------------------------------
+
+La Fiscalía General del Estado procesa al exministro de Rafael Correa por el presunto cometimiento del delito de enriquecimiento ilícito.
+
+El 10 de enero la fiscal Diana Salazar realizó la formulación de cargos, en la audiencia convocada por el juez de la CNJ, Marco Rodríguez.
+
+El juez de la CNJ reinstaló la audiencia al tercer intento en ese entonces y peses al pedido de diferimiento de la defensa del exministro Javier C.
+
+Entre el 1 de enero de 2012 y el 31 de enero de 2018, Javier C. ocupó varios cargos.
+
+Fue **ministro del Interior, ministro de Recursos Naturales No renovables y ministro de Minería.**
+
+Durante ese periodo, Javier C. habría acumulado 224 881 dólares en sus cuentas personales y otras a nombres de terceros cercanos a su círculo.
+
+El exministro habría realizado pagos en tarjetas crédito por 809 858 dólares y comprado vehículos por 166 476 dólares.
+
+La audiencia de evaluación y preparatoria de juicio del exministro de Rafael Correa fue suspendida
+--------------------------------------------------------------------------------------------------
+
+Con el exministro prófugo, este lunes 29 de julio de 2024, su defensa técnica asistió a la audiencia de evaluación y preparatoria de juicio.
+
+La diligencia se instaló en la mañana, se suspendió y se volvió a reinstalar en la tarde.
+
+Finalmente, el juez suspendió la audiencia y anunció su reinstalación para el próximo 5 de agosto, a las 8:30, para dar a conocer si llama o no a juicio a Javier C..
+
+Alexander Domínguez, un arquero histórico de la Copa Sudamericana
+=================================================================
+
+El guardameta de Liga de Quito, Alexander Domínguez, persigue un récord en la Copa Conmebol Sudamericana. 
+----------------------------------------------------------------------------------------------------------
+
+![Alexander Domínguez, arquero de Liga de Quito, va tras una marca histórica de la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-29T201100.361.jpg)
+
+**Alexander** **Domínguez**, arquero de Liga de Quito, es uno de los futbolistas más destacados que han jugado la Copa Conmebol Sudamericana en toda la historia de la competición. 
+
+De hecho, con la clasificación del ‘Rey de Copas’ a los octavos de final de la presente edición, ‘Dida’ se acercará a una **marca histórica de la competición**. 
+
+### Más noticias:
+
+* [Óscar Zambrano, entre Liga de Quito y la Championship](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-ofertas-futbol-inglaterra.html "Óscar Zambrano, entre Liga de Quito y la Championship")
+* [Barcelona SC pierde sobre la hora y queda fuera de Copa Sudamericana](https://www.elcomercio.com/deportes/bragantino-barcelona-sc-copa-sudamericana.html "Barcelona SC pierde sobre la hora y queda fuera de Copa Sudamericana")
+* [Liga de Quito se enfrentará a Lanús en octavos de Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-se-enfrentara-lanus-en-octavos-copa-sudamericana.html "Liga de Quito se enfrentará a Lanús en octavos de Copa Sudamericana")
+
+Alexander Domínguez, una leyenda de la Copa Sudamericana
+--------------------------------------------------------
+
+Alexander Domínguez es el **tercer jugador con más partidos disputados** en toda la historia de la Copa Conmebol Sudamericana. 
+
+El guardameta de Liga de Quito **tiene 50 partidos jugados**, lo que lo coloca en el tercer lugar, solo por detrás del paraguayo Sergio Aquino, con 51, y el argentino Fabricio Bustos, que ha disputado 52 compromisos. 
+
+En la presente edición, **Liga de Quito** jugará los octavos de final de la Copa Sudamericana, por lo que ‘Dida’ Domínguez podrá jugar dos partidos más y alcanzar al futbolista argentino. 
+
+> Nuestro arquero, Alexander Domínguez, está a dos partido de igualar al líder 👊🙂‍↕️ [https://t.co/j6VNWJxaoh](https://t.co/j6VNWJxaoh)
+> 
+> — LDU Oficial (@LDU\_Oficial) [July 29, 2024](https://twitter.com/LDU_Oficial/status/1818032939571220849?ref_src=twsrc%5Etfw)
+
+Números de Domínguez en la Copa Sudamericana
+--------------------------------------------
+
+De los 50 partidos de ‘Dida’ en la Sudamericana, **42 fueron con Liga de Quito**, cinco con Vélez Sarsfield (Argentina) y dos con Colón (Argentina). 
+
+En cuanto a números, Domínguez ha recibido solo 36 goles y **ha mantenido la valla invicta en 26 partidos.** 
+
+Además, Alexander Domínguez es bicampeón de la Copa Conmebol Sudamericana con Liga de Quito. Levantó el trofeo en 2009 y en 2023, en ambas siendo una de las figuras del ‘Rey de Copas’. 
+
+Próximo partido de Liga de Quito en Sudamericana
+------------------------------------------------
+
+Liga de Quito se **volverá a enfrentar a Lanús después de 15 años.** La última vez fue igualmente en octavos de final de la Copa Sudamericana de 2009. 
+
+El primer partido entre ambas instituciones se jugará en la casa de Liga de Quito, el Estadio Rodrigo Paz Delgado, el **14 de agosto, a las 19:30.** 
+
+Mientras que la vuelta, se llevará a cabo en el Estadio Ciudad de Lanús-Néstor Díaz Pérez, también conocido como ‘La Fortaleza’, ubicado en Buenos Aires. El cotejo será el **21 de agosto a las 19:30** (hora Ecuador). 
+
+La soledad no elegida es un asesino silencioso de la salud mental y física
+==========================================================================
+
+La soledad no implica necesariamente la falta de compañía; entonces, ¿qué la define realmente?
+----------------------------------------------------------------------------------------------
+
+![La soledad es el sentimiento de estar aislado o desconectado emocionalmente de los demás, independientemente de la cantidad de contactos sociales.](https://www.elcomercio.com/wp-content/uploads/2024/07/soledad-el-comercio-2.jpg)
+
+La **soledad no elegida**, a diferencia de la **soledad voluntaria**, es una condición que causa malestar en quien la sufre. No está relacionada necesariamente con la cantidad de contactos sociales, sino con la percepción de insuficiencia o baja intensidad de estas interacciones.
+
+Una persona puede estar rodeada de gente y aún sentirse sola. Esta forma de soledad, especialmente cuando se extiende en el tiempo, puede tener efectos devastadores tanto en la **salud mental** como física de las personas.
+
+Impacto en la salud mental
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/soledad-el-comercio-1024x683.jpg)
+
+La **soledad no elegida** está estrechamente ligada a problemas de **salud mental**. Javier Tubío Ordóñez, doctor en gerontología clínica y máster de neuropsicología y educación de la UNIR, afirma: “La **soledad no deseada** incrementa el riesgo de padecer depresión o de ideación suicida”.
+
+Este problema es prevalente en todas las edades, pero es especialmente preocupante en **personas mayores**, ya que se ha demostrado que la **soledad crónica** aumenta significativamente el riesgo de deterioro cognitivo y demencia.
+
+Tubío explica que “las personas mayores solteras que viven solas tienen hasta un 40% más de riesgo de padecer deterioro cognitivo o demencia”.
+
+Además, Vanessa Guadalupe Rodríguez Villalpando, docente en la UISEK, destaca que en personas jóvenes y adultas, la soledad puede llevar a “una percepción disminuida del sí mismo, sensaciones de ‘no pertenecer’, síntomas de ansiedad y depresión”. Este sentimiento puede llegar al punto de la **ideación o intentos suicida**s.
+
+Efectos físicos de la soledad no elegida
+----------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/soledad-el-comercio-1-1024x683.jpg)
+
+La **soledad no elegida** también tiene un impacto considerable en la salud física. Rodríguez Villalpando menciona que esta condición “tiene implicaciones relevantes para nuestra salud física en correlación con enfermedades cardiovasculares, inmunitarias, deterioro cognitivo y hábitos de sedentarismo”.
+
+Las personas solitarias tienden a involucrarse menos en actividades físicas, tienen una menor preocupación por el autocuidado y son más propensas a desarrollar hábitos poco saludables, como el consumo excesivo de alcohol o una mala alimentación.
+
+Aunque la **soledad no elegida** puede afectar a cualquier persona, existen grupos más vulnerables. Rodríguez Villalpando subraya que “nadie está exento de padecerla”, pero se considera que las personas mayores, con bajos ingresos y que viven en zonas urbanas tienen un mayor riesgo de sufrir **soledad crónica**. Según Tubío, “el 20% de la población refiere sufrir **soledad no deseada**, siendo más frecuente en mujeres que en hombres”.
+
+Depresión y ansiedad son causa y efecto
+---------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/soledad-el-comercio-4-1024x683.jpg)
+
+La **soledad no elegida** puede ser causada por diversos factores. Los problemas de **salud mental**, como la depresión y la ansiedad, son tanto una causa como una consecuencia de la soledad.
+
+Además, el nivel educativo y los ingresos económicos también influyen, siendo las personas desempleadas más propensas a experimentar soledad.
+
+La pandemia de COVID-19 exacerbó esta situación y aumentó el aislamiento social y los sentimientos de soledad en muchas personas. Rodríguez Villalpando señala que “la pandemia desencadenó el incremento en las cifras de síntomas relacionados con la ansiedad, la depresión y fobias sociales”.
+
+Combate a la soledad
+--------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/soledad-el-comercio-3-1024x683.jpg)
+
+Para abordar la **soledad no elegida**, es crucial fomentar la cohesión social y la participación comunitaria. Tubío sugiere que las personas se involucren en actividades comunitarias, como deportes, **talleres** y voluntariado.
+
+Rodríguez Villalpando enfatiza la importancia de “formar tejidos sociales”, entendidos como la vinculación cercana entre personas en distintos espacios que favorezcan la unión y la sensación de pertenencia.
+
+Además, las políticas públicas deben centrarse en mantener y promover centros sociales y programas de acompañamiento. Dice [CNN](https://cnnespanol.cnn.com/2023/11/15/oms-soledad-prioridad-sanitaria-comision-conexion-social-trax/ "https://cnnespanol.cnn.com/2023/11/15/oms-soledad-prioridad-sanitaria-comision-conexion-social-trax/") que la **OMS reconoció la soledad como una prioridad sanitaria mundial**, y algunos países ya han empezado a tratarla como un problema de Estado.
+
+En el ámbito comunitario, la colaboración y el apoyo mutuo son esenciales para mitigar los efectos de la **soledad no elegida** y mejorar el bienestar de las personas.
+
+Carlos Alcaraz continúa en busca de la medalla en los Juegos Olímpicos de París 2024
+====================================================================================
+
+El tenista español Carlos Alcaraz consiguió avanzar a los octavos de final de los Juegos Olímpicos de París 2024 en tenis.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Carlos Alcaraz celebra su triunfo en los Juegos Oímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/9a4622dc8be8a75b93a01e1ee100dc4b0dab24d0.jpg)
+
+A la enorme decepción, por la forma y el fondo, de **Rafael Nadal** contra Novak Djokovic respondió **Carlos Alcaraz** con un triunfo convincente, apresurado y autoritario ante el neerlandés Tallon Griekspoor (6-1 y 7-6(3)) para reanimar al tenis y al seguidor español del vacío sufrido después del adiós del legendario jugador balear.
+
+Siempre quedará **Alcaraz**, que acude presto a alargar el estado de felicidad que ha proporcionado Nadal durante todo este tiempo. En eso está el murciano, a sus 21 años con cuatro Grand Slam a sus espaldas, con pinta, si se mantiene, de pulverizar cualquier reto y de superar cualquier registro.
+
+### Más noticias:
+
+* [Ecuador suma 26 diplomas en Juegos Olímpicos gracias a París 2024](https://www.elcomercio.com/deportes/ecuador-diplomas-juegos-olimpicos.html "Ecuador suma 26 diplomas en Juegos Olímpicos gracias a París 2024")
+* [Japón lidera el medallero de los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/medallero-medallas-juegos-olimpicos-paris-2024.html "Japón lidera el medallero de los Juegos Olímpicos de París 2024")
+* [Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/ecuador-destaca-boxeo-en-los-juegos-olimpicos-paris.html "Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024")
+
+También el olímpico. En sus primeros Juegos, el murciano representa el aire fresco. La novedad y el dominio. Ha llegado a París con el título de **Roland Garros** bajo el brazo, logrado semanas atrás, como el príncipe dispuesto a ocupar el histórico trono del gran Nadal.
+
+El murciano, la baza española en París, salió airoso de un duelo que se enquistó en el segundo set, cuando dio síntomas de fatiga física, pidió la asistencia del fisioterapeuta de pista que le trató. Estaba el set, el segundo, en el aire. Pero volvió con decisión, salvó la manga, frenó el crecimiento del neerlandés -que tuvo un punto de set- y cerró el partido en **una hora y 46 minutos.**
+
+No se anda con rodeos **Carlos Alcaraz**, que apunta al podio. Además de por la aparente bondad de su parte en el cuadro, por el nivel que ofrece en cada partido. Rapidez de movimientos, puntería en los tiros, seguridad y cada vez más continuidad. Solo las dudas musculares que aparecieron después pueden frenar su progreso.
+
+Carlos Alcaraz va por un récord en Juegos Olímpicos
+---------------------------------------------------
+
+El murciano, que si gana el oro será el más joven campeón olímpico en tenis, en el cuadro individual, no hace concesiones. Tampoco sufre desgaste tal y como se vio ante Griekspoor que ocupa un lugar en el ránking para tener en cuenta. El neerlandés es el **28 del mundo**. También debutante olímpico, afrontó el cara a cara sin ser capaz de haber ganado nunca en su carrera a un **top 5**.
+
+Cuenta con un triunfo en cuatro partidos ante **Alcaraz**. Pero fue en el 2021 en Montpellier, en el primer encuentro entre ambos, cuando el murciano, con 18 años, daba sus primeros pasos en el circuito profesional. Poco después le devolvió el marcador el español que se impuso en Estoril, en tierra y más adelante, en **Wimbledon**, hierba y en Indian Wells el pasado año en pista dura, alargó Alcaraz su dominio en el cara a cara.
+
+La novena victoria consecutiva de **Carlos Alcaraz** duró una hora y tres cuartos. En media hora ya había cerrado la primera manga después de protagonizar un arranque endiablado, con un 3-0 que fue una declaración de intenciones. Acabó el parcial con 6-1.
+
+Alcaraz no dio oportunidad
+--------------------------
+
+Mejoró **Griekspoor** después, en el segundo. Y mantuvo el pulso aferrado a su saque el jugador de Harlem que disfrutó en el 2023 de su mejor año con las tres finales de su carrera disputadas. Dos títulos, en Hertogenbosch y Pune y una derrota, en Washington.
+
+No cedía el neerlandés que aprovechó el bajón de **Alcaraz**. Daba la sensación de que era una de esas lagunas que sufre el murciano cuando su velocidad es de crucero. Pero había algo más. Perdió frescura y llamó al fisio. Saltaron las alarmas. Con 5-4 entró el médico y marcharon juntos al vestuario[.](https://en.wikipedia.org/wiki/2024_Summer_Olympics "https://en.wikipedia.org/wiki/2024_Summer_Olympics")
+
+Tuvo ocasión de set el neerlandés pero Alcaraz emergió otra vez. Evitó el crecimiento de Griekspoor al que se encontrará otra vez el martes, en dobles, y en el desempate cerró el partido y el pase a octavos de final donde le espera el ruso **Roman Safiullin**, verdugo del argentino **Martín Etcheverry**.
+
+Kylian Mbappé, cerca de convertirse en el dueño de un equipo de Francia
+=======================================================================
+
+Kylian Mbappé, aparte de ser un gran futbolista, también es un gran empresario. El francés quiere tener varios negocios para su retiro.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Kylian Mbappé se convertirá en el dueño de un equipo de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-29T191937.171.jpg)
+
+El futbolista de la Selección de Francia y del Real Madrid, **Kylian** **Mbappé**, está a punto de ser el nuevo dueño de uno de los equipos tradicionales de Francia, que actualmente militan en la segunda división del país.
+
+Mbappé se convertirá en el accionista mayoritario del Caen, con lo que se convertiría a los 25 años en uno de los **propietarios más jóvenes de una entidad de fútbol profesional**, informó este lunes 29 de julio de 2024, el medio francés Le Parisien.
+
+### Más noticias:
+
+* [Endrick, la joya de Brasil, ya tiene fecha de presentación con el Real Madrid](https://www.elcomercio.com/deportes/futbol/endrick-tiene-fecha-presentacion-con-real-madrid.html "Endrick, la joya de Brasil, ya tiene fecha de presentación con el Real Madrid")
+* [Kylian Mbappé y otros ‘9’ históricos del  Real Madrid](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-otros-nueve-historicos-real-madrid.html "Kylian Mbappé y otros ‘9’ históricos del  Real Madrid")
+* [¿Cuándo juega el Real Madrid de Kylian Mbappé?](https://www.elcomercio.com/deportes/cuando-juega-real-madrid-kylia-mbappe.html "¿Cuándo juega el Real Madrid de Kylian Mbappé?")
+
+Kylian Mbappé será dueño de un equipo
+-------------------------------------
+
+Las negociaciones entre ambas partes, que se desarrollan desde hace varias semanas, están a punto de cerrarse “en las próximas horas”, añade el diario.
+
+El nuevo jugador del Real Madrid, **Kylian Mbappé, invertirá un poco menos de 20 millones de euros**, para hacerse con el 80 % capital del club y también para enjugar una parte de la deuda de la entidad, indicó por su parte el diario regional Ouest France.
+
+Mbappé **sustituirá al anterior socio mayoritario**, el fondo de inversión estadounidense Oaktree, que en 2020 compró el 80 % de las acciones del club.
+
+El 20 % restante del capital está en manos de Pierre Antoine Capton, actual presidente del consejo de supervisión del club, señaló Ouest France.
+
+Le Parisien recuerda que **Mbappé** y su familia han tenido tradicionalmente una muy buena relación con el club, ya que incluso el jugador estuvo cerca de recalar allí con 13 años, en 2012, una opción que no se materializó debido a las normas francesas sobre el fichaje de futbolistas tan jóvenes.
+
+Cuando un año después el jugador ya tenía más facilidades para fichar, el Caen había bajado a segunda división y su familia optó por el Monaco, de donde salió en 2017 hacia el **Paris Saint-Germain**.
+
+Según el diario parisino, **Mbappé y su madre, Fayza Lamari**, tienen previsto situar en la presidencia del club a alguien de su absoluta confianza, como es Ziad Hammoud, actual director general de la firma que gestiona la imagen del futbolista.
+
+El **Caen**, que finalizó la pasada temporada en sexto lugar de la segunda división francesa (Ligue 2), es un club que tradicionalmente ha apostado por la cantera y el desarrollo de jugadores jóvenes.
+
+Ecuador suma 26 diplomas en Juegos Olímpicos gracias a París 2024
+=================================================================
+
+Ecuador ya cuenta con dos diplomas asegurados en los Juegos Olímpicos de París 2024 y cuenta con más en su historial.
+---------------------------------------------------------------------------------------------------------------------
+
+![María José Palacios tras clasificarse a los cuartos de final de los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/4f5e95e25727c1773ba3967fcf5a5586a5c8050a.jpg)
+
+Los triunfos de **María José Palacios y Gerlon Congo** en los Juegos Olímpicos de París 2024 les aseguraron un diploma olímpico y sumaron dos más a los conseguidos por Ecuador. Aquellas distinciones se suman a otras 20 de la misma índole que han obtenido los participantes del país a través de la historia.
+
+La victoria de la boxeadora ecuatoriana llegó al cuarto día de la competencia y la llevó hasta los cuartos de final de la categoría **60 kilogramos**. Antes también ya había conseguido otro triunfo en ronda inicial del certamen.
+
+### Más noticias:
+
+* [Novak Djokovic derrota a Rafael Nadal en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos-novak-djokovic-rafael-nadal.html "Novak Djokovic derrota a Rafael Nadal en los Juegos Olímpicos de París 2024")
+* [La superviviente Simone Biles brilla en los Juegos Olímpicos París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/simone-biles-brilla-juegos-olimpicos-paris2024.html "La superviviente Simone Biles brilla en los Juegos Olímpicos París 2024")
+* [Calendario de los atletas ecuatorianos en los Juegos Olímpicos 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/calendario-team-ecuador-juegos-olimpicos.html "Calendario de los atletas ecuatorianos en los Juegos Olímpicos 2024")
+
+En el caso de Gerlon Congo, este también se impuso en los octavos de final, pero en la categoría de 92 kilogramos (peso pesado). El triunfo de Congo se produjo en su debut en el certamen y en un evento de tal naturaleza, pues es su primera experiencia en el máximo evento deportivo.
+
+El primer diploma olímpico llegó con Jorge Delgado
+--------------------------------------------------
+
+![Jorge Delgado, quien tuvo el primer diploma olímpico en la historia de Ecuador, durante su etapa de nadador.](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo-86-1024x683.jpg "Jorge Delgado, quien tuvo el primer diploma olímpico en la historia de Ecuador, durante su etapa de nadador.")
+
+Antes de los dos ecuatorianos, el primer diploma olímpico llegó en **Múnich 1972**. A partir de aquel momento, el palmarés fue en alza y los mayores éxitos llegaron en el Siglo XXI, en Tokio 2020+1.
+
+En los Juegos Olímpicos de Múnich 1972, **Jorge Delgado** hizo historia en natación y se ubicó en una posición nunca antes vista para un deportista ecuatoriano. El atleta finalizó en el cuarto puesto de la competencia.
+
+Delgado estuvo a punto de repetir la distinción en los **Juegos Olímpicos de Montreal 1976**. Allí, el nadador terminó en la séptima posición y, en aquella época, únicamente recibían diploma los seis primeros y no los ocho.
+
+Jefferson Pérez volvió y la década del 2000 trajo más
+-----------------------------------------------------
+
+![Jefferson Pérez en los Juegos Olímpicos Atlanta 1996.](https://www.elcomercio.com/wp-content/uploads/2024/07/dia_deporte_ecuador-1-1024x683.jpg)
+
+Jefferson Pérez en los Juegos Olímpicos Atlanta 1996.
+
+Después de lo sucedido con Jorge Delgado, **Jefferson Pérez** logró diploma y medalla de oro en los Juegos Olímpicos de Atlanta 1996. Allí, el azuayo triunfo en la prueba de 20 kilómetros marcha.
+
+**Pérez** volvió a conseguir un diploma olímpico en Sidney 2000, donde se ubicó en el cuarto lugar. En Atenas 2004 repitió al obtener la misma posición y **Alexandra Escobar** lo consiguió gracias a un séptimo puesto en halterofilia.
+
+En los Juegos Olímpicos de Beijing 2008, **Jefferson Pérez** tuvo un nuevo un diploma al ponerse la medalla de plata. Durante aquel mismo evento, **Escobar** lo hizo al finalizar en cuarto puesto; Carlos Góngora, en boxeo, terminó en quinta posición.
+
+Londres 2012 y Río 2016, de los más existosos
+---------------------------------------------
+
+![Álex Quiñónez dutante los Juegos Olímpicos de Lonres 2012.](https://www.elcomercio.com/wp-content/uploads/2024/07/3981200-1024x756.jpg)
+
+Álex Quiñónez dutante los Juegos Olímpicos de Lonres 2012.
+
+En los Juegos Olímpicos de Londres 2012, Ecuador se adjudicó cinco diplomas. **Seledina Nieve** y **Alexandra Escobar** terminaron en el séptimo puesto de halterofilia, **David Arroyo** en el sexto y Rosa Tenorio en el octavo. **Álex Quiñónez** fue séptimo en 100 metros planos, también consiguió un diploma.
+
+En Río 2016 el número se repitió. Los boxeadores **Carlos Quipo y Carlos Mina** finalizaron en la quinta posición y las pesistas **Neisi Dajomes y Alexandra Escobar**, en la séptima y cuarta.
+
+Tokio 2020+1, los mejores Juegos Olímpicos para Ecuador
+-------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2021/07/Carapaz-3-2-700x417.jpg)
+
+El ciclista ecuatoriano Richard Carapaz con el diploma olímpico y la caja de la medalla de oro. Cortesía del COE
+
+En Tokio 2020+1, Ecuador consiguió tres medallas y, por ende, la misma cantidad de diplomas. Richard Carapaz obtuvo el oro en ciclismo, las pesistas **Neisi Dájomes y Tamara Salazar** se llevaron el oro y la plata.
+
+Cuatro tricolores más obtuvieron diplomas. **Alfredo Campo** finalizó quinto en ciclismo BMX; **Lucía Yépez** y L**uisa Valverde**, octavas en lucha; y **Angie Palacios**, sexta en halterofilia.
+
+¿Cómo se otorgan los diplomas olímpicos?
+----------------------------------------
+
+Los atletas que en las distintas disciplinas de sus deportes finalicen **entre el primer y el octavo luga**r se hacen acreedores a un diploma olímpico. Este cuenta con un diseño exclusivo del evento y está firmado por el presidente del Comité Olímpico Internacional y el Comité Organizador.
+
+A partir de 1981, la entidad empezó a otorgar diplomas a los **ocho primeros deportistas**. En el caso de los ganadores de medalla, estos reciben el documento con otros detalles que acreditan su podio[.](https://en.wikipedia.org/wiki/2024_Summer_Olympics "https://en.wikipedia.org/wiki/2024_Summer_Olympics")
+
+Caravana de transportistas llegó a Quito para exigir seguridad en las vías
+==========================================================================
+
+La movilización pacífica se realizó la tarde de este lunes 29 de julio.
+-----------------------------------------------------------------------
+
+![Alrededor de 600 vehículos, entre camiones, tráileres y livianos, participaron de la caravana](https://www.elcomercio.com/wp-content/uploads/2024/07/movilizacion-transporte.jpg)
+
+Una caravana de **transportistas pesados** llegó a **Quito** la tarde de este lunes 29 de julio de 2024 para reunirse con el **Gobierno Nacional**.
+
+Los conductores y representantes de la Federación Nacional de Asociaciones de Conductores del Ecuador (**Fenace**) tomaron esta medida para exigir mayores **controles de seguridad** en las vías del país.
+
+### Más noticias
+
+* [La inseguridad en Ecuador va más allá de las armas](https://www.elcomercio.com/actualidad/ecuador/la-inseguridad-en-ecuador-va-mas-alla-de-las-armas.html "La inseguridad en Ecuador va más allá de las armas")
+* [WhatsApp, una de las herramientas que se usa en Quito para combatir la inseguridad](https://www.elcomercio.com/actualidad/quito/barrios-quito-organizan-inseguridad-policia-nacional.html "WhatsApp, una de las herramientas que se usa en Quito para combatir la inseguridad")
+* [Guardias privados apoyarán a la Policía en seguridad, ¿cómo funciona este plan?](https://www.elcomercio.com/actualidad/seguridad/guardias-privados-policia-plan-seguridad.html "Guardias privados apoyarán a la Policía en seguridad, ¿cómo funciona este plan?")
+
+Según detalló **Carlos Martínez**, presidente de la federación, alrededor de **600 transportistas** de las 24 provincias llegaron a la capital entre **bocinas, banderas** y **pancartas**.
+
+“Decidimos venir porque **las carreteras están abandonada**s, nos afecta la inseguridad en nuestro trabajo, tenemos **36 compañeros abatidos** este año y otros secuestrados a manos de la delincuencia”, manifestó.
+
+El dirigente aclaró que su organización se movilizó **pacíficamente** por cuenta propia y que no se sienten respaldados por otras agremiaciones.
+
+“Las otras federaciones de transporte que se han sentado a ‘dialogar’ con el Gobierno y otros sectores **solo han sacado beneficio y provecho para ellos**“, dijo Martínez.
+
+Caravana terminó en El Trébol
+-----------------------------
+
+Los conductores profesionales tenían previsto recorrer varias calles de Quito, desde el terminal de Quitumbe hasta las cercanías al **Centro Histórico**.
+
+Sin embargo, el operativo de movilidad de la Agencia Metropolitana de Tránsito (**AMT**) recomendó que la caravana de **tráileres y camiones** finalizara en el sector de El Trébol.
+
+En este punto, los conductores estacionaron sus unidades. La **Policía Nacional** brindó resguardo a los vehículos.
+
+Tras su llegada, **ocho dirigentes** del transporte pesado se reunieron con representantes del Gobierno de **Daniel Noboa**, en el **Palacio de Carondelet**.
+
+Se espera que en las próximas horas la Fenace comunique los acuerdos de seguridad alcanzados.
+
+Vías más peligrosas del Ecuador
+-------------------------------
+
+Al pedido de la Asociación de Conductores del Ecuador se suma la de la **Federación Nacional de Transporte Pesado del Ecuador** (Fenatrape)
+
+**Luis Felipe Vizcaíno**, representante de la agremiación ratificó la solicitud al Gobierno de fortalecer la seguridad en las vías.
+
+Según el dirigente, las carreteras de Ecuador, de forma general, son **peligrosas**, pero existen algunas vías que son consideradas como **zonas rojas**. Estas son:
+
+* Santo Domingo-**Quevedo**\-Guayaquil
+* **Guayaquil**\-Naranjal-**Machala**\-Huaquillas
+* Cuenca-**Molleturo**\-El Empalme
+* Cajas-Otavalo-**Carchi**
+* Loreto-**Coca**\-Lago Agrio
+
+Japón lidera el medallero de los Juegos Olímpicos de París 2024
+===============================================================
+
+Japón es el nuevo líder del medallero olímpico de los Juegos Olímpicos de París 2024. ¿En qué puesto está la delegación de Ecuador?
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Gimnastas del equipo masculino de Japón con la medalla de oro de los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-29T184401.155.jpg)
+
+Acabado el tercer día de competencia oficial de los **Juegos Olímpicos** **de París 2024,** que se disputó este lunes 29 de julio, la delegación de Japón está en la primera posición del medallero olímpico, con seis medallas de oro. 
+
+El podio lo completa la anfitriona de la cita olímpica**, Francia, con cinco medallas de oro, y China**, que también tiene la misma cantidad de oros. Estados Unidos, que es el favorito a quedarse con el primer puesto, está en la sexta casilla con apenas tres oros. 
+
+### Más noticias:
+
+* [Glenda Morejón tiene un doble desafío en los Juegos Olímpicos París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/glenda-morejon-juegos-olimpicos-paris2024.html "Glenda Morejón tiene un doble desafío en los Juegos Olímpicos París 2024")
+* [Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/ecuador-destaca-boxeo-en-los-juegos-olimpicos-paris.html "Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024")
+* [Abucheos, silbidos y polémicas en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/abucheos-silbidos-y-polemicas-en-los-juegos-olimpicos-de-paris-2024.html "Abucheos, silbidos y polémicas en los Juegos Olímpicos de París 2024")
+
+Japón lidera el medallero de los Juegos Olímpicos 
+--------------------------------------------------
+
+La **delegación de Japón tiene seis medallas de oro** que se dividen en 
+
+* Dos en **skateboarding**, una en masculino, gracias a Horigome Yuto y otra en femenino, gracias a Coco Yoshizawa. 
+* Dos en **judo**, una en la categoría 48 kg femenino por Tsunoda Natsumi y otra en la categoría 66 kg masculino por Abe Hifumi.
+* Una en **esgrima** en espada individual masculina por Kano Koki
+* Una en **gimnasia artística**, que la consiguió el equipo masculino. 
+
+Además, el país nipón tiene **dos medallas de plata**, una en natación y otra en skateboarding, y **cuatro medallas de bronce**, una en hípica y tres en judo, que dan un total de 12  medallas en total en los Juegos Olímpicos de París 2024. 
+
+¿El país con más medallas olímpicas?
+------------------------------------
+
+En lo que va de los Juegos Olímpicos, **Estados Unidos** es el país que más medallas tiene. 
+
+La delegación **norteamericana tiene un total de 20 medallas**, pero solo tres son de oro. El resto son ocho de plata y nueve de bronce. 
+
+Sus preseas doradas correspondan una a esgrima y dos a natación. 
+
+¿En qué puesto está Ecuador?
+----------------------------
+
+La d**elegación de Ecuador,** al no tener ninguna medalla olímpica hasta el momento, no tiene un puesto asignado en el medallero de los Juegos Olímpicos de París 2024. 
+
+Sin embargo, ya contamos con **dos diplomas olímpicos** asegurados gracias a Gerlon Congo y María José Palacios, boxeadores ecuatorianos que están entre los ocho mejores de sus respectivas categorías. 
+
+Ricardo Montaner y otros famosos que rechazan a Nicolás Maduro
+==============================================================
+
+La jornada electoral en Venezuela no solo despertó reacciones a escala nacional sino también internacional.
+-----------------------------------------------------------------------------------------------------------
+
+![Scarlet Ortiz, Ricardo Montaner, Gaby Espino. Fotos: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-6.jpg)
+
+El domingo 28 de julio de 2024, se llevaron a cabo las elecciones presidenciales en Venezuela para el período 2025-2030. Según los resultados del **Consejo Nacional Electoral (CNE), Nicolás Maduro fue declarado ganador.**
+
+La noticia se conoció en horas de la madrugada y generó una **oleada de reacciones, con muchos famosos** denunciando lo que consideran un fraude electoral.
+
+Millones de venezolanos participaron en los comicios, mientras el mundo observaba atentamente. El **candidato presidencial Edmundo González y la líder opositora María Corina Machado** rechazaron los resultados, exigiendo una auditoría y gritando “Fraude”.
+
+La frustración y descontento se hicieron palpables entre los venezolanos y aquellos que esperaban un cambio político. Maduro obtuvo el 51,2% de los votos, mientras que González logró el 44,25%.
+
+Numerosas figuras venezolanas del entretenimiento expresaron su descontento a través de las redes sociales. El cantante Ricardo Montaner, Nacho, la artista [Lele Pons](https://www.instagram.com/lelepons/?hl=es-la "https://www.instagram.com/lelepons/?hl=es-la"), la actriz [Gabriela Spanic](https://www.instagram.com/gabyspanictv/?hl=es "https://www.instagram.com/gabyspanictv/?hl=es") y otros artistas criticaron la tercera reelección de Maduro.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-1024x683.jpg)
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-4-1024x683.jpg)
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-3-1024x683.jpg)
+
+La actriz Gaby Espino compartió su “horrible sensación” sobre los resultados, mientras Lele Pons afirmó: “¡Nos robaron los votos!”.
+
+Gabriela Spanic instó a no desmotivarse, y la **ex Miss Universo [Alicia Machado](https://www.instagram.com/machadooficial/?hl=es "https://www.instagram.com/machadooficial/?hl=es")** lamentó: “Otro día en el que se burlan de la esperanza de todo un país…”.
+
+La actriz e influencer [Catherine Fulop](https://www.instagram.com/fulopcatherine/?hl=es-la "https://www.instagram.com/fulopcatherine/?hl=es-la") también manifestó su tristeza y desánimo. La actriz Scarlet Ortiz hizo lo propio.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-5-1024x683.jpg)
+
+Por su parte, el cantautor [Franco de Vita](https://www.instagram.com/francodevita/?hl=es "https://www.instagram.com/francodevita/?hl=es") mostró su apoyo a los opositores Edmundo González y María Corina Machado mediante un video durante la campaña electoral.
+
+Celebridades como Don Omar, Alejandro Sanz y la ex Miss Universo Dayana Mendoza también han expresado su simpatía hacia la oposición a Maduro.
+
+En contraste, Roger Waters, miembro fundador de Pink Floyd, generó controversia al criticar a González y Machado en Twitter. La cantante puertorriqueña Olga Tañón compartió su canción Todo pasará, enviando un mensaje de esperanza y pidiendo la protección de Dios para todos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-2-1024x683.jpg)
+
+Luisito Comunica, creador de contenido mexicano, también mostró su frustración y descontento por los resultados, solidarizándose con los venezolanos y calificando la situación de “burla”.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/rechazo-nicolas-maduro-el-comercio-1-1024x683.jpg)
+
+El Puma dedicó canción a Venezuela antes de las elecciones
+----------------------------------------------------------
+
+Antes de las elecciones presidenciales en Venezuela, la canción Yo regresaré de José Luis Rodríguez, conocido como El Puma, resurgió en las redes sociales. Publicada en mayo de 2021, la canción expresa el anhelo de regresar a Venezuela y describe el sufrimiento y la violencia causados por la disputa política.
+
+La canción de El Puma se suma a otras composiciones de apoyo a la oposición a Nicolás Maduro, como las de Nacho ‘La Criatura’. Durante las elecciones a la Asamblea Nacional de 2015, Nacho y Víctor Muñoz dedicaron el tema [Mi Felicidad](https://www.youtube.com/watch?v=P_UyU3TIU-g "https://www.youtube.com/watch?v=P_UyU3TIU-g") a la oposición.
+
+[Valiente](https://www.youtube.com/watch?v=xDzyimHBM9w&t=1s), una colaboración de Nacho con Franco de Vita, Víctor Muñoz y el grupo “Los Fantásticos” también inspiró a los venezolanos a mantener la esperanza por la libertad del país. La jornada electoral en Venezuela no solo despertó reacciones a escala nacional sino también internacional.
+
+OEA abordará resultados de elecciones en Venezuela este miércoles 31 de julio
+=============================================================================
+
+Ecuador y 11 países más hicieron esta solicitud a la OEA para abordar el resultado de las elecciones en Venezuela.
+------------------------------------------------------------------------------------------------------------------
+
+![La Organización de Estados Americanos (OEA) es veedora en procesos electorales. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/04/oea.jpg)
+
+La Misión Permanente del **Ecuador** ante la **Organización de los Estados Americanos (OEA)** solicitó una sesión extraordinaria urgente del Consejo Permanente.
+
+El pedido fue realizado este lunes 29 de julio de 2024, a través de un oficio dirigido a la OEA.
+
+### Más noticias:
+
+* [Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas](https://www.elcomercio.com/actualidad/mundo/venezuela-embajadas-paises-criticos.html "Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas")
+* [Venezolanos en Ecuador reaccionan conmocionados ante el triunfo de Maduro](https://www.elcomercio.com/actualidad/mundo/venezolanos-ecuador-reaccionan-conmocionados-triunfo-de-maduro.html "Venezolanos en Ecuador reaccionan conmocionados ante el triunfo de Maduro")
+
+Desde que se conoció el resultado de las elecciones en Venezuela, Ecuador y otros países han cuestionado la transparencia de los resultados.
+
+Además, han pedido el reconteo de los votos.
+
+La oposición en Venezuela, encabezada por **María Corina Machado**, asegura que los resultados electorales les fueron favorables.
+
+Sin embargo, el presidente **Nicolás Maduro**, quien fue reelecto, según los resultados oficiales, rechazó estos pronunciamientos.
+
+El **Consejo Nacional Electoral de Venezuela** proclamó los resultados de forma oficial.
+
+En las últimas horas, María Corina Machado dijo que la victoria de **Edmundo González** es aplastante.
+
+Además, llamó a la población a **movilizarse pacíficamente**.
+
+Fecha y hora para sesión pedida a la OEA por Ecuador y 11 países sobre las elecciones en Venezuela
+--------------------------------------------------------------------------------------------------
+
+Los 11 países que comparten este pedido son: **Argentina, Canadá, Chile, Costa Rica, Estados Unidos de América, Guatemala, Panamá, Paraguay**.
+
+Además, **Perú, República Dominicana, Uruguay y el mismo Ecuador**.
+
+Los doce países solicitan la convocatoria a una sesión extraordinaria urgente del Consejo Permanente de la OEA.
+
+Proponen el **miércoles 31 de julio de 2024**, a las 15h00, para la realización de esta sesión.
+
+La finalidad es abordar las “Los resultados del proceso electoral en Venezuela”.
+
+> Cancillería informa:  
+>   
+> La Misión Permanente del Ecuador ante la Organización de los Estados Americanos (OEA), a nombre de Argentina, Canadá, Chile, Costa Rica, Estados Unidos de América, Guatemala, Panamá, Paraguay, Perú, República Dominicana y Uruguay, y en el suyo propio,… [pic.twitter.com/8PlS4HdWCT](https://t.co/8PlS4HdWCT)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [July 29, 2024](https://twitter.com/CancilleriaEc/status/1818064920157602086?ref_src=twsrc%5Etfw)
+
+La OEA aceptó el pedido y lo fijó para el mismo día y hora.
+
+> [#MIÉRCOLES](https://twitter.com/hashtag/MI%C3%89RCOLES?src=hash&ref_src=twsrc%5Etfw) | Consejo Permanente de la [#OEA](https://twitter.com/hashtag/OEA?src=hash&ref_src=twsrc%5Etfw) abordará resultados de proceso electoral en [#Venezuela](https://twitter.com/hashtag/Venezuela?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> 🗓️ 31 de julio  
+> ⏰ 15:00 EDT (19:00 GMT)  
+> 📺 [https://t.co/Xcgc6sFK1N](https://t.co/Xcgc6sFK1N)  
+> 📍 Salón Simón Bolivar, OEA  
+> ℹ️ [https://t.co/uPBxGwOQkp](https://t.co/uPBxGwOQkp) [pic.twitter.com/q4B1MM1RVH](https://t.co/q4B1MM1RVH)
+> 
+> — OEA (@OEA\_oficial) [July 29, 2024](https://twitter.com/OEA_oficial/status/1818046002655273339?ref_src=twsrc%5Etfw)
+
+Asamblea promulgó la Ley de Lavado de Activos, Presidencia demandará inconstitucionalidad
+=========================================================================================
+
+Ley de Lavado de Activos fue publicada en el Registro Oficial, la Presidencia señala que cumplió con los plazos.
+----------------------------------------------------------------------------------------------------------------
+
+![Continuación de la sesión número 928 del Pleno de la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/07/asamblea-nac-1.jpg)
+
+La **Asamblea Nacional** aprobó en **segundo debate el proyecto de Ley Orgánica** de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos.
+
+Esta aprobación se hizo el 20 de junio de 2024. El proyecto fue remitido a**l Ejecutivo** con fecha 24 de junio de 2024.
+
+### Más noticias
+
+* [Bancada de ADN propone incluir resolución de apoyo a Venezuela en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/bancada-adn-propone-resolucion-apoyo-venezuela-asamblea.html "Bancada de ADN propone incluir resolución de apoyo a Venezuela en la Asamblea Nacional")
+* [Un proyecto de ley de consulta previa se analiza en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyecto-ley-consulta-previa-analiza-asamblea.html "Un proyecto de ley de consulta previa se analiza en la Asamblea")
+* [Daniel Noboa es acusado por la Asamblea Nacional de cometer una inconstitucionalidad](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-veto-daniel-noboa-inconstitucional.html "Daniel Noboa es acusado por la Asamblea Nacional de cometer una inconstitucionalidad")
+
+La remisión se hizo para su correspondiente **objeción o sanción,** de acuerdo con el **artículo 63 de la Ley Orgánica de la Función Legislativa**.
+
+Objeto y plazo de objeción de la Asamblea Nacional
+--------------------------------------------------
+
+El plazo para expedir la objeción por parte del **Presidente de la República** terminaba el 24 de julio de 2024.
+
+Sin embargo, el 25 de julio de 2024, la **Presidencia de la República** remitió a la Asamblea Nacional el oficio N.º T.280–SGJ–23–0305. En este oficio, se presentaba una objeción parcial por inconstitucionalidad del **proyecto de ley**.
+
+> La Asamblea Nacional informa que la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos ha sido publicada en el cuarto suplemento del Registro Oficial No. 610, luego de haber sido promulgada por el Legislativo.… [pic.twitter.com/wiJ0QboVU8](https://t.co/wiJ0QboVU8)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [July 29, 2024](https://twitter.com/AsambleaEcuador/status/1818034583499325839?ref_src=twsrc%5Etfw)
+
+La **Asamblea Nacional** promulgó el proyecto de ley, en cumplimiento del **artículo 137 de la Carta Magna** y el **artículo 63** de la **Ley Orgánica de la Función Legislativa**. La promulgación se hizo con la aprobación en segundo debate del **Pleno del Legislativo**. El proyecto se envió para su inmediata publicación en el **Registro Oficial**.
+
+### Proceso legislativo y decisión final
+
+La Asamblea Nacional tomó esta acción para cumplir con e**l marco legal establecido**. La remisión del proyecto y su o**bjeción por parte del Ejecutivo** se realizaron en los tiempos establecidos. La objeción presentada por la Presidencia se atendió y se siguieron los **procedimientos legislativos correspondientes**.
+
+El proyecto de ley busca fortalecer los mecanismos de **prevención, detección y combate del lavado de activos**. Esta acción es importante para mejorar la **transparencia y seguridad en el país**. La promulgación de esta ley representa un paso fundamental en la **lucha contra el crimen financiero y la financiación de otros delitos**.
+
+### Publicación en el Registro Oficial
+
+Finalmente, la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos fue publicada en el cuarto suplemento del **Registro Oficial No. 610**.
+
+> La Asamblea Nacional informa que la Ley Orgánica de Prevención, Detección y Combate del Delito de Lavado de Activos y de la Financiación de Otros Delitos ha sido publicada en el cuarto suplemento del Registro Oficial No. 610, luego de haber sido promulgada por el Legislativo.… [pic.twitter.com/wiJ0QboVU8](https://t.co/wiJ0QboVU8)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [July 29, 2024](https://twitter.com/AsambleaEcuador/status/1818034583499325839?ref_src=twsrc%5Etfw)
+
+Con esta publicación, la ley **entra oficialmente en vigor**, lo que permite que las nuevas disposiciones legales **comiencen a aplicarse**.
+
+La Presidencia demandará la inconstitucionalidad
+------------------------------------------------
+
+La Presidencia anunció que demandará por inconstitucionalidad el envío al Registro Oficial del Proyecto de Ley de Lavado de Activos.
+
+“Rechazamos esta decisión sin fundamento (…) El Ejecutivo envió oportunamente una objeción parcial por inconstitucionalidad, con fecha 25 de julio de 2024”, señaló en el comunicado.
+
+La Presidencia señala que el objetivo de ese veto era que la designación del titular de la Unidad de Análisis Financiero sea técnica “y que no caiga en intereses políticos”.
+
+El comunicado de la Presidencia señaló que esta observación fue “arbitrariamente” desconocida por el Legislativo.
+
+Explicó que la Presidencia recibió el proyecto de ley el 25 de junio de 2024 y que “argumentar lo contrario atenta contra la buena fe, racionalidad y la confianza legítima”.
+
+“El país no puede tener más leyes mal construidas y que no responden a la realidad ecuatoriana”, concluyó la Presidencia.
+
+Maduro se buscó otro “archienemigo”
+===================================
+
+El Presidente de Venezuela aseguró que el dueño de SpaceX y la red social X quiere invadir su país con cohetes y un ejército.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![El multimillonario Elon Musk respalda a María Corina Machado.](https://www.elcomercio.com/wp-content/uploads/2024/07/Elon-Musk-pide-respaldo-para-Machado.jpg)
+
+El presidente de Venezuela, Nicolás Maduro, dijo este lunes 29 de julio de 2024 que el fundador de **SpaceX y de la red social X, Elon Musk**, es su **“nuevo archienemigo”** que **“quisiera venir con sus cohetes y con un ejército a invadir Venezuela”.**
+
+“Hay una cosa que llaman redes sociales, que crean una realidad virtual, ¿y la realidad virtual quién la controla? Nuestro nuevo archienemigo, el célebre **Elon Musk** (…). Él quisiera venirse con sus cohetes y con un ejército a invadir Venezuela”, dijo el mandatario durante el acto de proclamación como presidente reelecto, según el **Consejo Nacional Electoral (CNE)**, en Caracas.
+
+### Más noticias:
+
+* [Más de una decena de ‘arrestos arbitrarios’ en Venezuela tras las presidenciales](https://www.elcomercio.com/actualidad/mundo/decena-arrestos-arbitrarios-venezuela-presidenciales-ong.html "Más de una decena de ‘arrestos arbitrarios’ en Venezuela tras las presidenciales")
+* [Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas](https://www.elcomercio.com/actualidad/mundo/venezuela-embajadas-paises-criticos.html "Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas")
+
+Asimismo, Maduro señaló que Musk **“da vergüenza”** por un video que compartió en X, en el que se ven a unas personas, supuestamente de Venezuela, que se llevan unos aires acondicionados, a lo que el empresario comentó _“This is messed up”_ (esto está arruinado), cuando en el país caribeño se esperaban los resultados de las elecciones presidenciales.
+
+“¿Ustedes no lo vieron? Da vergüenza. (…) Unas imágenes de una gente llevándose unas cosas, unas cajas, y resulta que era un video de por ahí, de una gente llevándose unos aires acondicionados.
+
+Entonces él dijo ‘la prueba contra Maduro que se robó las elecciones, las cajas que se están robando del CNE’. (…) Estás desesperado, te fuiste de boca, Elon Musk”, manifestó el mandatario.
+
+Maduro dijo que estaba listo y no tenía miedo a una pelea con Musk, a la vez que manifestó que “Venezuela se respeta”.
+
+“¿Quieres pelea? Vamos a darle, Elon Musk. Estoy listo (…), no te tengo miedo. Vamos a darle, pues, donde quieras (…) Di dónde, pero a Venezuela se respeta”, señaló.
+
+Las publicaciones de Musk
+-------------------------
+
+Más temprano, Musk catalogó -a través de X- de “gran fraude electoral” el triunfo de Maduro en las elecciones presidenciales que se celebraron este domingo, en las que el mayor bloque opositor, Plataforma Unitaria Democrática (PUD), cuestionó la validez de los resultados emitidos por el CNE, a la vez que la líder antichavista María Corina Machado dijo que el “nuevo presidente electo” es Edmundo González Urrutia, el abanderado de la PUD. Además, compartía videos de las protestas en Venezuela.
+
+> Adios Dictatora Maduro [https://t.co/79saJ8OSp4](https://t.co/79saJ8OSp4)
+> 
+> — Elon Musk (@elonmusk) [July 29, 2024](https://twitter.com/elonmusk/status/1818027157370941827?ref_src=twsrc%5Etfw)
+
+El respaldo de Elon Musk a María Corina Machado
+-----------------------------------------------
+
+El empresario **Elon Musk** pidió la semana pasada el apoyo para la venezolana **María Corina Machado**, inhabilitada para competir por la presidencia de su país. “Es hora de que el pueblo de Venezuela tenga la oportunidad de un futuro mejor. ¡Apoya a María Corina!”, indicó Musk en su red social X.
+
+Como respuesta, la exdiputada opositora dijo al magnate que los venezolanos están “decididos a vivir con dignidad y prosperidad” y tener a sus familiares que emigraron “de regreso a casa”.
+
+“Querido Elon Musk, los venezolanos estamos logrando cosas extraordinarias”, afirmó Machado, quien expresó que “el mañana trae un nuevo comienzo” para Venezuela, nación que -agregó- “será libre”.
+
+María Corina Machado anunció que la victoria de Edmundo González es aplastante
+==============================================================================
+
+María Corina Machado declara victoria en Venezuela y convoca a movilización pacífica para mostrar al mundo su fuerza y mayoría.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![El candidato a la presidencia de Venezuela, Edmundo González Urrutia, y la líder opositora venezolana, María Corina Machado.](https://www.elcomercio.com/wp-content/uploads/2024/07/machado.jpg)
+
+**María Corina Machado** manifestó su profundo orgullo de tener i**nformación importante** sobre la reelección de Nicolás Maduro. Lo hizo en un conversatorio con la prensa. Afirmó que **comprobarán que existió fraude electoral** y podrán revisar esta información. **Edmundo González** también estuvo presente en el mensaje de Machado.
+
+### Más noticias:
+
+* [Fiscalía abre investigación contra María Corina Machado](https://www.elcomercio.com/actualidad/mundo/fiscalia-abre-investigacion-maria-corina-machado.html "Fiscalía abre investigación contra María Corina Machado")
+* [Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas](https://www.elcomercio.com/actualidad/mundo/venezuela-embajadas-paises-criticos.html "Venezuela exige a siete países retirar “de inmediato” a su personal diplomático en Caracas")
+* [Centro Carter pide publicación inmediata de actas de votación en Venezuela](https://www.elcomercio.com/actualidad/mundo/centro-carter-pide-publicacion-inmediata-de-actas-de-votacion-en-venezuela.html "Centro Carter pide publicación inmediata de actas de votación en Venezuela")
+
+Para corroborar la veracidad de los hechos, mencionó que se han llevado a cabo **24 horas de trabajo ininterrumpido** con testigos y operadores del call center, quienes digitalizaron las **actas de votación**. Machado aseguró que ya tienen **cómo probar la verdad**, sobre los verdaderos resultados electorales.
+
+María Corina Machado habló del proceso de verificación
+------------------------------------------------------
+
+Machado enfatizó que las actas se **verifican, inspeccionan, totalizan, escanean y digitalizan** antes de ser colocadas en un **portal web robusto**. Según sus palabras, ya tienen el **73% de los datos verificados**.
+
+> [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | rueda de prensa: [https://t.co/Ut1lBQPLzt](https://t.co/Ut1lBQPLzt)
+> 
+> — María Corina Machado (@MariaCorinaYA) [July 29, 2024](https://twitter.com/MariaCorinaYA/status/1818053626629107755?ref_src=twsrc%5Etfw)
+
+“Me emociona mucho decirles a todos que tenemos el **73.20% de las actas**”, enfatizó Machado.
+
+Reiteró que, aunque se asignara el **100% de los votos a Maduro**, la diferencia sería tan grande que no alcanzaría para **cambiar el resultado**. “Esta información está disponible en el portal web, donde cada venezolano puede validar su voto ingresando su cédula de identidad”, aseguró Machado.
+
+La líder opositora del régimen de Maduro señaló que **varios líderes globales** están consultando el portal web para verificar las pruebas de la victoria de Venezuela. Destacó la importancia de las expresiones legítimas de los ciudadanos que resisten el régimen actual y convocó a todos los venezolanos a manifestarse pacíficamente.
+
+Convocatoria a movilización
+---------------------------
+
+Finalmente, hizo un llamado a los venezolanos para reunirse en todas las ciudades del país entre las **11 y las 12 del mediodía**, mostrando al mundo la fuerza y mayoría de su movimiento. María Corina Machado dijo que aspira a una Venezuela digna y libre, liderada por un **nuevo presidente** que represente los valores y deseos de su pueblo.
+
+Hernán Galíndez confesó la fatal decisión que pensó tomar en 2010
+=================================================================
+
+Hernán Galíndez llegó al fútbol de Ecuador en el 2012 para jugar en Universidad Católica. Se mantuvo por 10 temporadas consecutivas.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Hernán Galíndez con Huracán en la temporada 2024 en el fútbol de Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/07/hernan_galindez_huracan.jpg)
+
+**Hernán Galíndez** vive un momento feliz con Huracán en la Primera División del Fútbol de Argentina. En las ocho primeras jornadas son los líderes absolutos en la tabla de posiciones.
+
+La campaña de Hernán Galíndez y su **Huracán se resume en cinco victorias y tres empates**. Acumula 18 puntos. Marcó 10 goles y recibió tres para tener un gol diferencia positivo de +7.
+
+### Más noticias:
+
+* [Barcelona Sporting Club se hunde en el fracaso](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-fracaso-torneos.html "Barcelona Sporting Club se hunde en el fracaso")
+* [María José Palacios gana y logra diploma en los Juegos Olímpicos París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos-maria-jose-palacios-gana-paris2024-cuartos-final.html "Ecuatoriana María José Palacios gana y logra diploma en los Juegos Olímpicos París 2024")
+* [La Bimbo Global Race es la opción para correr y compartir en Quito](https://www.elcomercio.com/empresariales/bimbo-global-race-quito-carrera-inscripciones.html "La Bimbo Global Race es la opción para correr y compartir en Quito")
+
+Galíndez regresó al fútbol de **Argentina luego de 13 años**. Su última aventura fue en 2011 con Rosario Central, club en el que se formó desde los 10 años y debutó profesionalmente en 2008 con 21.
+
+En el equipo rosarino **jugó por primera vez profesionalmente de la mano de Pablo ‘Vitamina’ Sánchez**, actual entrenador de Liga de Quito, que lo incorporó a sus filas para reemplazar al español Josep Alcácer, cesado del cargo en mayo.
+
+En la octava jornada regresó al **Gigante de Arroyito para enfrentar a Rosario Central** con la camiseta de Huracán. La victoria fue de 0-1 en favor de la visitan con un tanto de Walter Mazzanti.
+
+Finalizado el encuentro, Galíndez conversó con los medios de comunicación y recordó los duros momentos que le **tocó vivir con el descenso de Rosario Central en 2010**, donde fue el arquero titular y uno de los señalados por lo sucedido.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/hernan_galindez_huracan_1-1024x683.jpg)
+
+Hernán Galíndez y el triste descenso con Central
+------------------------------------------------
+
+En el Torneo Clausura de 2010 el ‘Canalla’ perdió la categoría, **precisamente con Hernán Galíndez** como el arquero titular ante All Boys, que se llevó la serie de la promoción por un marcador global de 4-1.
+
+La ida, jugada en Buenos Aires, **terminó empatada 1-1**, por lo que todo hacía presagiar que en la revancha, a jugarse en Rosario, todo se definiría en favor de los locales, que contaban con el respaldo de su siempre fie hinchada.
+
+Pero nada sucedió como se esperaba y la visita ganó con un contundente 0-3 con tantos de **Marcelo Vieytes, Mariano Campodónico y Cristian Vella**, abriendo una herida en el argentino-ecuatoriano que parece aún está abierta y que la volvió a recordar en entrevista con TyC Sports.
+
+“Es la primera vez que vuelvo a jugar en este estadio después de 14 años y la gente, no todos, pero sí algunos, me mostraron su descontento. **Sé que soy uno de los culpables de lo que pasó ese día**, pero a mí me dolió porque era jugador de fútbol y porque era hincha de Central. Fue un momento muy duro de mi vida, no solamente en mi vida deportiva”, mencionó el mundialista en Catar 2022.
+
+Aseguró que el cambio que vivió entre Argentina y Ecuador fue de 180 grados, porque pasó de jugar en estadios con 40 000 personas con rivales como **Juan Román Riquelme, Martín Palermo y Juan Sebastián Verón**, al torneo de la Serie B con la Universidad Católica que no pasaba de los 200 hinchas por jornada.
+
+Luego recordó que en su momento, con 23 años, pensó en “**hacer una locura**” por todo lo que se desató con el descenso de los rosarinos.
+
+“No voy a hacer una locura como en su momento lo pensé. **Cualquier cosa, fueron momentos duros**. Sobre mi vida, sí claro. Fue duro”, recordó el campeón en 2022 de la Liga Pro de Ecuador con Aucas, con un penal suyo atajado en los 90 minutos ante Damián Díaz, otro jugador formado en Rosario Central.
+
+“Hoy puedo soportar cualquier cosa después de haber soportado eso deportivamente y soy feliz de haber pasado por eso, de **haber podido superar eso porque me encontré un día jugando un Mundial** y uno se acuerda de esas cosas, [así que vale la pena el aprendizaje](https://www.transfermarkt.es/hernan-galindez/leistungsdatendetails/spieler/77127/plus/0/saison/2008/wettbewerb/ARG1/verein/1418)“, detalló a TyC Sports.
+
+> 🗣️ "SÉ QUE SOY UNO DE LOS CULPABLES DE LO QUE PASÓ ESE DÍA. FUE UN MOMENTO MUY DURO, EN SU MOMENTO PENSÉ EN HACER UNA LOCURA"  
+>   
+> 🎙️ La durísima confesión de Galíndez sobre el descenso con el Canalla y el difícil momento personal que debió atravesar posteriormente.  
+>   
+> 🎙️ [@adridriussi](https://twitter.com/AdriDriussi?ref_src=twsrc%5Etfw) [pic.twitter.com/srctjZaqF9](https://t.co/srctjZaqF9)
+> 
+> — TyC Sports (@TyCSports) [July 29, 2024](https://twitter.com/TyCSports/status/1817963080736804970?ref_src=twsrc%5Etfw)
+
+Meta AI traduce textos sin salir de WhatsApp  
+==============================================
+
+Descubre cómo Meta AI revoluciona la traducción del español a numerosos idiomas con su nueva función de traducción en tiempo real.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Meta AI ha lanzado una función innovadora para traducir textos del español a múltiples idiomas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/07/whatsapp-traductor.jpg)
+
+**Meta AI** ha presentado una nueva función innovadora para **traducir textos** del español a otros idiomas de forma rápida y precisa.  
+
+Esta herramienta revolucionaria **facilita la comunicación** sin barreras lingüísticas, lo que expande las oportunidades para la conexión global. 
+
+### Más noticias
+
+* [¿Qué es Meta AI en WhatsApp, cómo usarla y cómo desactivarla?](https://www.elcomercio.com/tendencias/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html "https://www.elcomercio.com/tendencias/tecnologia/meta-ai-whatsapp-inteligencia-artificial.html")
+* [Meta AI en WhatsApp crea imágenes directamente en el chat](https://www.elcomercio.com/tendencias/tecnologia/meta-ai-en-whatsapp-crea-imagenes-directamente-en-el-chat.html "https://www.elcomercio.com/tendencias/tecnologia/meta-ai-en-whatsapp-crea-imagenes-directamente-en-el-chat.html")
+
+Al ingresar el texto en español, **Meta AI** utiliza **algoritmos avanzados** para identificar el idioma de destino y realizar la **traducción en tiempo real**.  
+
+**¿Qué idiomas puede traducir Meta AI?** 
+-----------------------------------------
+
+![Meta AI traduce textos a muchos idiomas, pero no incluye el kichwa entre sus opciones. Foto: Captura de pantalla. ](https://www.elcomercio.com/wp-content/uploads/2024/07/whatsapp-traductor-2-1024x683.jpg)
+
+Meta AI traduce textos a muchos idiomas, pero no incluye el kichwa entre sus opciones. Foto: Captura de pantalla.
+
+**Meta AI** ofrece traducción para una amplia variedad de idiomas: inglés, francés, alemán, italiano, portugués, español, chino (simplificado y tradicional), japonés, coreano, árabe, ruso, hebreo e hindi. Sin embargo, existen algunos idiomas para los cuales la herramienta no puede traducir textos, tales como **lenguas minoritarias o regionales** (por ejemplo, gallego, catalán, **kichwa**), lenguas antiguas o muertas (como latín y griego antiguo), lenguas con escrituras únicas o complejas (como tailandés y vietnamita), y lenguas con pocos recursos de traducción disponibles (algunas lenguas africanas o indígenas). 
+
+**Comunicación efectiva y contexto preciso** 
+---------------------------------------------
+
+La **exactitud y fluidez** de las traducciones de **Meta AI** permiten una comunicación efectiva tanto en entornos personales como profesionales.  
+
+Los usuarios pueden traducir correos electrónicos, documentos, conversaciones y textos creativos con facilidad. Además, **Meta AI** proporciona sugerencias para mejorar las traducciones, lo que asegura que el tono y el contexto se mantengan consistentes. Esta función resulta especialmente valiosa para empresas internacionales, viajeros y estudiantes que buscan superar las barreras del idioma. 
+
+**Tutorial paso a paso para usar Meta AI**
+------------------------------------------
+
+![Sigue estos pasos en Meta AI para traducir textos. Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/07/whatsapp-traductor-1-1024x683.jpg)
+
+Sigue estos pasos en Meta AI para traducir textos. Foto: Captura de pantalla.
+
+**1\. Inicia sesión:** Ingresa a la plataforma de Meta AI y haz clic en “Iniciar sesión” si aún no lo has hecho. 
+
+**2\. Selecciona la función de traducción:** Haz clic en la opción “Traducir texto” en la barra de menú. 
+
+**3\. Ingresa el texto en español:** Escribe o pega el texto que deseas traducir en el campo de entrada. 
+
+**4\. Selecciona el idioma de destino:** Elige el idioma al que deseas traducir el texto en el menú desplegable. 
+
+**5\. Haz clic en “Traducir”:** Meta AI procesará el texto y mostrará la traducción en el idioma seleccionado. 
+
+**6\. Revisa y ajusta:** Revisa la traducción y ajusta cualquier error o sugerencia que Meta AI te proporcione. 
+
+**7\. Copia y comparte:** Copia la traducción y compártela como desees. 
+
+### **Recuerda que puedes traducir textos en diferentes formatos, como:** 
+
+– Texto simple 
+
+– Documentos (copiando y pegando el contenido) 
+
+– Conversaciones (AL TRADUCIR mensajes individuales) 
+
+Ecuador destaca en boxeo en los Juegos Olímpicos de París 2024
+==============================================================
+
+En apenas pocos días de competencia oficial de los Juegos Olímpicos, Ecuador ha obtenido buenos resultados en boxeo.
+--------------------------------------------------------------------------------------------------------------------
+
+![Gerlon Congo, boxeador ecuatoriano, celebrando su victoria en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-29T174435.565.jpg)
+
+Hasta este lunes 29 de julio, la delegación de **Ecuador** ha participado en cuatro deportes en los **Juegos** **Olímpicos de París 2024.** Entre ellos están boxeo, tiro deportivo, ecuestre y el tenis de mesa. 
+
+Sin embargo, solo en un deporte ecuador ha destacado más, y ese es el boxeo, gracias a las participaciones excepcionales de **María José Palacios y Gerlon Congo**, dos de los tres boxeadores que están en París 2024. 
+
+### Más noticias:
+
+* [Glenda Morejón tiene un doble desafío en los Juegos Olímpicos París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/glenda-morejon-juegos-olimpicos-paris2024.html "Glenda Morejón tiene un doble desafío en los Juegos Olímpicos París 2024")
+* [Abucheos, silbidos y polémicas en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/abucheos-silbidos-y-polemicas-en-los-juegos-olimpicos-de-paris-2024.html "Abucheos, silbidos y polémicas en los Juegos Olímpicos de París 2024")
+* [Gerlon Congo asegura otro diploma en Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos-gerlon-congo-abner-teixeira.html "Gerlon Congo asegura otro diploma en Juegos Olímpicos de París 2024")
+
+Ecuador destaca en boxeo en París 2024
+--------------------------------------
+
+La buena racha de Ecuador en boxeo en los Juegos Olímpicos de París 2024 inició con la participación de **María Jose Palacios** en la categoría de 60 kg.
+
+Palacios hizo **historia para el boxeo femenino**. En su primera pelea, el 27 de julio, **venció a la sueca Agnes Alexiusson** 4 a 1 y se clasificó para los octavos de final. 
+
+En la siguiente ronda, el 29 de julio, la boxeadora ecuatoriana **venció** cómodamente a la australiana **Tyla** **Mcdonald** por 5-0 y avanzó a los cuartos de final, asegurando un **diploma olímpico** para Ecuador, el primero de París de 2024. 
+
+La racha positiva la continuó **Gerlon Congo**, que se había clasificado directamente a octavos de final en la categoría 92+ kg. 
+
+En su debut, que fue este 29 de julio, Congo se enfrentó al medallista de bronce en Tokio 2020, el brasilero, Abner Teixeira. 
+
+Gerlon Congo salió sin temores ante Abner Teixeira y a buscar el combate desde el inicio. La **movilidad, rapidez y agilidad** fueron la principal herramienta del tricolor para imponerse ante su contrincante.
+
+Al finalizar el asalto, las tarjetas de los jueces obedecieron a su buen rendimiento y le dieron la ventaja. Congo ganó con un marcador de 4-1. Gracias al triunfo, **Ecuador se adjudicó su segundo diploma** olímpico.
+
+Por otra parte, **José Rodríguez**, el tercer boxeador clasificado a los Juegos Olímpicos de París 2024, debutará en su categoría, los 71 kg, el 31 de julio. 
+
+Siguientes peleas de boxeo
+--------------------------
+
+### María José Palacios
+
+**Fecha**: Miércoles 31 de julio.
+
+**Hora**: 10:38.
+
+**Rival**: Wu Shin-yi (China Taipei).
+
+**Ronda**: Cuartos de final. 
+
+### José Rodríguez
+
+**Fecha**: Miércoles 31 de julio.
+
+**Hora**: 14:04.
+
+**Rival**: Nishant Dev (India).
+
+**Ronda**: Preliminar de octavos de final.
+
+### Gerlon Congo
+
+**Fecha**: Viernes 2 de agosto.
+
+**Hora**: 15:08.
+
+**Rival**: Djamili-Dini Aboudou (Francia).
+
+**Ronda**: Cuartos de final. 
+
+Comisión recomienda juicio político contra ministro de Daniel Noboa
+===================================================================
+
+La Comisión de Participación aprobó un informe detallado sobre el acuerdo con el FMI y recomendó iniciar juicio político contra el ministro de Economía.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Juan Carlos Vega, ministro de Economía y Finanzas. Foto: Asamblea Nacional](https://www.elcomercio.com/wp-content/uploads/2024/06/juan-carlos-vega-1.jpg)
+
+La Comisión de Transparencia, Participación Ciudadana y Control Social de la **Asamblea Nacional** recomendó iniciar un **juicio político** en contra el ministro de Economía, **Juan Carlos Vega**.
+
+La causa es el acuerdo alcanzado entre **Fondo Monetario Internacional** (FMI) y Ecuador, por cerca de 4 000 millones de dólares.
+
+### Más noticias
+
+* [Reforma tributaria del acuerdo con el FMI tendrá un nuevo plazo de entrega](https://www.elcomercio.com/actualidad/negocios/sri-reforma-tributaria-director-devolucion-iva.html "Reforma tributaria del acuerdo con el FMI tendrá un nuevo plazo de entrega")
+* [Gary Espinoza, presidente de la Fenocin, criticó al FMI y las medidas del Gobierno](https://www.elcomercio.com/actualidad/politica/gary-espinoza-fenocin-criticas-fmi-gobierno.html "Gary Espinoza, presidente de la Fenocin, criticó al FMI y las medidas del Gobierno")
+* [FMI aprueba crédito de 4 000 millones de dólares para Ecuador, estas son las claves](https://www.elcomercio.com/actualidad/negocios/fmi-aprueba-credito-4000-millones-ecuador.html "https://www.elcomercio.com/actualidad/negocios/fmi-aprueba-credito-4000-millones-ecuador.html")
+
+La Comisión aprobó el informe del proceso de fiscalización y detalló el acuerdo con el FMI, el viernes 26 de julio de 2024.
+
+Este documento recomienda comenzar el juicio político contra el ministro **Vega**, por supuesto incumplimiento en la firma del tratado. Según los legisladores, se habría incumplido lo que dispone el artículo 131 de la Constitución de la República.
+
+Además, la Comisión pidió declarar nulo el **Acuerdo de Servicio Ampliado** (SAF) suscrito con el FMI, el 25 de abril de 2024. Según los legisladores, su contenido y cláusulas, carecen de validez y eficacia.
+
+Detalles del acuerdo con el FMI
+-------------------------------
+
+El documento también detalla los impactos de la firma del Acuerdo con el FMI en los pueblos y nacionalidades, en el derecho a la salud, trabajo, cultura y seguridad social. Precisa que un porcentaje de los recursos iría al pago de la deuda con el propio FMI de créditos anteriores. Y que, el resto del préstamo estaría destinado a pagar a otros acreedores del Estado.
+
+Además, agrega que, “de la lectura del Acuerdo, se evidencia que se insertan compromisos de expedir, modificar o derogar normativa económica y laboral en el Ecuador”.
+
+Según la mesa legislativa, el préstamo del FMI no está destinado para la atención de grupos prioritarios o proyectos de inversión para infraestructura.
+
+> 🚨 Comunicado sobre el Acuerdo con el FMI [pic.twitter.com/7TEAjuT6DK](https://t.co/7TEAjuT6DK)
+> 
+> — Cámara de Comercio de Quito (@lacamaradequito) [July 29, 2024](https://twitter.com/lacamaradequito/status/1817980452185252074?ref_src=twsrc%5Etfw)
+
+Pronunciamiento sobre el informe del acuerdo con el FMI
+-------------------------------------------------------
+
+Ante la solicitud de la Comisión, la Cámara de Comercio de Quito (CCQ) expresó su preocupación por la aprobación de este informe. Señala que el documento pone en duda la vigencia del mismo, sin establecer una alternativa para equilibrar la caja fiscal y cumplir con las obligaciones estatales.
+
+“Alertamos que este pronunciamiento puede generar desconfianza y proyectar una imagen de falta de seriedad del país. Los acuerdos con el FMI son compromisos ya adquiridos, y desconocerlos podría poner en riesgo el apoyo financiero de los organismos multilaterales, cuyos aportes serán cruciales para  
+estabilizar la economía, la producción y el empleo”, dijo.
