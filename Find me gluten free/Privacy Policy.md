@@ -153,8 +153,7 @@ We may revise this Privacy Policy from time to time. The most current version of
 * [Toronto](https://www.findmeglutenfree.com/ca/on/toronto)
 * [Washington DC](https://www.findmeglutenfree.com/us/dc/washington)
 * [More cities…](https://www.findmeglutenfree.com/us)
-* [All Countries](https://www.findmeglutenfree.com/countries)
-* [International](https://www.findmeglutenfree.com/international)
+* [By Country](https://www.findmeglutenfree.com/countries)
 * [Airports](https://www.findmeglutenfree.com/airports)
 
 ##### Chains
