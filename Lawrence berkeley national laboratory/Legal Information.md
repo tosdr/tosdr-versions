@@ -19,7 +19,7 @@
     
     ### Discovery Science
     
-    * [AI, Math, and Data](https://www.lbl.gov/research/ai-math-and-data/)
+    * [Artificial Intelligence](https://www.lbl.gov/research/ai/)
     * [Accelerator Technologies](https://www.lbl.gov/research/accelerator-technologies/)
     * [Cosmic Frontiers](https://www.lbl.gov/research/cosmic-frontiers/)
     * [Frontier Computing Sciences](https://www.lbl.gov/research/frontier-computing-sciences/)
@@ -125,7 +125,7 @@
 * [Careers](https://careers.lbl.gov/)
 
 * [Research](https://www.lbl.gov/research/)
-    Discovery Science* [AI, Math, and Data](https://www.lbl.gov/research/ai-math-and-data/)
+    Discovery Science* [Artificial Intelligence](https://www.lbl.gov/research/ai/)
     * [Accelerator Technologies](https://www.lbl.gov/research/accelerator-technologies/)
     * [Cosmic Frontiers](https://www.lbl.gov/research/cosmic-frontiers/)
     * [Frontier Computing Sciences](https://www.lbl.gov/research/frontier-computing-sciences/)
