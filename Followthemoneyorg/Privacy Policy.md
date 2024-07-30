@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
 
-CA Health Industry Giving 2002-2012
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
