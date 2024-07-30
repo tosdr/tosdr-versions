@@ -114,6 +114,7 @@
         
         [Postdoctoral researchers](https://secuso.aifb.kit.edu/english/1246.php)
         
+        * [Benjamin Berens](https://secuso.aifb.kit.edu/english/Staff_Reinheimer.php)
         * [Raphael Morisco](https://secuso.aifb.kit.edu/english/Staff_2532.php)
         * [Peter Mayer](https://secuso.aifb.kit.edu/english/Staff_Mayer.php)
         
@@ -127,7 +128,6 @@
         
         * [Lukas Aldag](https://secuso.aifb.kit.edu/english/Staff_842.php)
         * [Fabian Ballreich](https://secuso.aifb.kit.edu/english/Staff_2116.php)
-        * [Benjamin Berens](https://secuso.aifb.kit.edu/english/Staff_Reinheimer.php)
         * [Anne Hennig](https://secuso.aifb.kit.edu/english/Staff_1466.php)
         * [Tobias Hilt](https://secuso.aifb.kit.edu/english/Staff_2328.php)
         * [Tobias Länge](https://secuso.aifb.kit.edu/english/Staff_2263.php)
