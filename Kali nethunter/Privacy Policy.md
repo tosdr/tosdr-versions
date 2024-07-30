@@ -4,9 +4,11 @@
     
     Learning Library
     
-    Cyber workforce resilience and career development with hands-on, real-world training Cyber Ranges
+    Cyber workforce resilience and career development with hands-on, real-world training
     
-    Live-fire simulations to train your team and stay ahead of the latest threats 
+    Cyber Ranges
+    
+    Live-fire simulations to train your team and stay ahead of the latest threats
     
     [Courses & Certifications
     
@@ -52,9 +54,11 @@
     
     Organizations
     
-    Continuous learning & skill development to build cyber workforce resilience Individuals
+    Continuous learning & skill development to build cyber workforce resilience
     
-    Get industry leading training and reinforce learning with hands-on labs 
+    Individuals
+    
+    Get industry leading training and reinforce learning with hands-on labs
     
     [Teams & Enterprises
     
@@ -96,9 +100,11 @@
     
     Organizations
     
-    Flexible solutions designed for organizations across industries and sizes Individuals
+    Flexible solutions designed for organizations across industries and sizes
     
-    Find the right training plan for your unique learning needs 
+    Individuals
+    
+    Find the right training plan for your unique learning needs
     
     [Subscription Pricing
     
