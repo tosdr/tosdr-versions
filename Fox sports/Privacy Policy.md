@@ -13,6 +13,7 @@ DISMISS
 * [Odds](https://www.foxsports.com/odds)
 * [Stories](https://www.foxsports.com/stories)
 * [Podcasts](https://www.foxsports.com/podcasts)
+* [Newsletter](https://www.foxsports.com/newsletter)
 * Search
     
 
@@ -383,7 +384,7 @@ Affiliated Apps
 
 Quick Links
 
- [![Soccer Leagues and Tournaments Image](https://b.fssta.com/uploads/application/sports/logos/Soccer.vresize.40.40.medium.0.png) Soccer Leagues and Tournaments](https://www.foxsports.com/soccer/leagues) [![2024 Summer Olympics Image](https://b.fssta.com/uploads/application/leagues/logos/Summer-Olympics-2024.vresize.40.40.medium.0.png) 2024 Summer Olympics](https://www.foxsports.com/summer-olympics/standings) [![2024 NFL Preseason Schedule Image](https://b.fssta.com/uploads/application/leagues/logos/NFL.vresize.40.40.medium.0.png) 2024 NFL Preseason Schedule](https://www.foxsports.com/stories/nfl/nfl-preseason-schedule-dates-times-channels-how-watch) [![2024 MLB Playoff Picture Image](https://b.fssta.com/uploads/application/leagues/logos/MLB.vresize.40.40.medium.0.png) 2024 MLB Playoff Picture](https://www.foxsports.com/stories/mlb/mlb-playoff-picture-bracket)
+ [![Soccer Leagues and Tournaments Image](https://b.fssta.com/uploads/application/sports/logos/Soccer.vresize.40.40.medium.0.png) Soccer Leagues and Tournaments](https://www.foxsports.com/soccer/leagues) [![2024 Summer Olympics Image](https://b.fssta.com/uploads/application/leagues/logos/Summer-Olympics-2024.vresize.40.40.medium.0.png) 2024 Summer Olympics](https://www.foxsports.com/summer-olympics) [![2024 NFL Preseason Schedule Image](https://b.fssta.com/uploads/application/leagues/logos/NFL.vresize.40.40.medium.0.png) 2024 NFL Preseason Schedule](https://www.foxsports.com/stories/nfl/nfl-preseason-schedule-dates-times-channels-how-watch) [![2024 MLB Playoff Picture Image](https://b.fssta.com/uploads/application/leagues/logos/MLB.vresize.40.40.medium.0.png) 2024 MLB Playoff Picture](https://www.foxsports.com/stories/mlb/mlb-playoff-picture-bracket)
 
 FOX SPORTS™, SPEED™, SPEED.COM™ & © 2024 Fox Media LLC and Fox Sports Interactive Media, LLC. All rights reserved. Use of this website (including any and all parts and components) constitutes your acceptance of these [Updated Terms of Use and](https://www.foxsports.com/terms-of-use) [Privacy Policy |](https://www.foxsports.com/privacy-policy) [Advertising Choices |](https://www.foxsports.com/privacy-policy#relevant_advertising) [Your Privacy Choices |](https://privacy.foxsports.com/main/web/main) [Closed Captioning](https://www.foxsports.com/closed-captioning)
 
