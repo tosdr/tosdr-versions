@@ -13,6 +13,7 @@
 
 * [Home](https://kimcartoon.li/)
 * [Cartoon list](https://kimcartoon.li/CartoonList)
+* [Random Cartoon](https://kimcartoon.li/Shuffle)
 * [Report Error](https://kimcartoon.li/Message/ReportError)
 * [Request Cartoon](https://www.facebook.com/messages/t/kimcartoonfp)
 * [Mobile](https://kimcartoon.li/Mobile/SwitchToMobile)
