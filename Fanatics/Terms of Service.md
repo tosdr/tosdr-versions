@@ -405,9 +405,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 19be7c4413a6079f
+rc: 9d0e1fe72a8fd72c
 
-vid: df9eb490-4b7d-11ef-a0d6-cbac4fe3e755
+vid: 07f0eb30-4e34-11ef-9928-af4cc1f7ea9d
 
 version: 1.1.0-rc-20240722-2.93727
 
