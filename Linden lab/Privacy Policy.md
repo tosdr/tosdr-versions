@@ -1,6 +1,6 @@
-[![](https://assets-global.website-files.com/6285718b944b3be2fa795ac1/62d0c18f12d3c81f4a05c473_LL-Logo-Text-Horizontal-R-B%26W.svg)](https://www.lindenlab.com/)
+[![](https://cdn.prod.website-files.com/6285718b944b3be2fa795ac1/62d0c18f12d3c81f4a05c473_LL-Logo-Text-Horizontal-R-B%26W.svg)](https://www.lindenlab.com/)
 
-![](https://assets-global.website-files.com/6285718b944b3be2fa795ac1/646547404c333804a0b09534_hamburger-icon.svg)![](https://assets-global.website-files.com/6285718b944b3be2fa795ac1/64654c1be96e0f7e943e6d50_close-icon.svg)
+![](https://cdn.prod.website-files.com/6285718b944b3be2fa795ac1/646547404c333804a0b09534_hamburger-icon.svg)![](https://cdn.prod.website-files.com/6285718b944b3be2fa795ac1/64654c1be96e0f7e943e6d50_close-icon.svg)
 
 [Home](https://www.lindenlab.com/)[About](https://www.lindenlab.com/about)[Work Here](https://www.lindenlab.com/careers)[News & Media](https://www.lindenlab.com/press)[Contact](https://www.lindenlab.com/contact)
 
