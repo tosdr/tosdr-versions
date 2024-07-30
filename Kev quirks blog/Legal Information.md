@@ -49,4 +49,4 @@ All work licensed under **CC BY-SA 4.0** unless otherwise stated.
 
 [Privacy](https://kevquirk.com/privacy) | [Disclaimer](https://kevquirk.com/disclaimer)
 
-[Mastodon](https://fosstodon.org/@kev) [Mastodon](https://social.lol/@kevquirk) proven.lol/544327 [github.com/kevquirk](https://github.com/kevquirk) [72ja@qrk.one](https://kevquirk.com/disclaimer/72ja@qrk.one)
+[Mastodon](https://fosstodon.org/@kev) [Mastodon](https://500.social/@kev) proven.lol/544327 [github.com/kevquirk](https://github.com/kevquirk) [72ja@qrk.one](https://kevquirk.com/disclaimer/72ja@qrk.one)
