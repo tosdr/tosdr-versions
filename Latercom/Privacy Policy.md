@@ -1463,6 +1463,7 @@ The best social media marketing app, influencer marketing management platform & 
     * [Brand Ambassadors](https://later.com/brand-ambassadors/)
     * [UGC Creators](https://later.com/ugc-creators/)
     * [YouTubers](https://later.com/youtubers/)
+    * [Fashion & Beauty](https://later.com/fashion-beauty-influencers/)
     
     Services
     
