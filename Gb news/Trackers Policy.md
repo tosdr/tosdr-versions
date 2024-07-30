@@ -36,7 +36,7 @@
 
 [Sport](https://www.gbnews.uk/sport/)
 
-[Football](https://www.gbnews.uk/sport/football/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
+[Football](https://www.gbnews.uk/sport/football/)[Olympics](https://www.gbnews.uk/sport/olympics/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
 
 [Lifestyle](https://www.gbnews.uk/lifestyle/)
 
@@ -216,6 +216,13 @@ You can obtain more information on how to see what cookies have been set and how
 **CONTACT US**
 
 If you have any queries relating to this Cookie Policy please contact us at [launch@gbnews.uk](mailto:mailto:launch@gbnews.uk).
+
+[SOUTHPORT LATEST](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+------------------------------------------------------------------------------------------
+
+### [Taylor Swift issues statement after 'horror' attack on children's dance class](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+
+1722335125.088
 
 About Us
 
