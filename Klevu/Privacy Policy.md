@@ -79,14 +79,16 @@ Privacy Policy
 
 [15\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#15-how-can-you-contact-us-about-this-notice)
 
-Updated: 11/06/2024
+Updated: 29/07/2024
 
 This privacy notice for Klevu Oy (‘**Company**‘, ‘**we**‘, ‘**us**‘, or ‘**our**‘,), describes how and why we might collect, store, use, and/or share (‘**process**‘) your information when you use our services (‘**Services**‘), such as when you:
 
 * Visit our business website at [https://www.klevu.com](https://www.klevu.com/)/\*, or any website of ours that links to this privacy notice
 * Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at \_\_\_\_\_\_\_\_\_\_.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@klevu.com.
+
+For details of how we use personal data for our Product Discovery Suite please view our [GDPR information](https://www.klevu.com/gdpr/) and [Terms of Service](https://www.klevu.com/terms-of-service/)
 
 **SUMMARY OF KEY POINTS**
 -------------------------
