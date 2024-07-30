@@ -41,12 +41,10 @@
     * [Google Apps](https://www.fitbit.com/global/en-ca/technology/google-apps)
     * [Daily Readiness Score](https://www.fitbit.com/global/en-ca/technology/daily-readiness-score)
     * [Health Metrics & SpO2](https://www.fitbit.com/global/en-ca/technology/health-metrics)
-    * [AFib Assessments](https://www.fitbit.com/global/en-ca/technology/irregular-rhythm)
     * [Stress Management](https://www.fitbit.com/global/en-ca/technology/stress)
     * [24/7 Heart Rate](https://www.fitbit.com/global/en-ca/technology/heart-rate)
     * [Sleep Tracking](https://www.fitbit.com/global/en-ca/technology/sleep)
     * [Active Zone Minutes](https://www.fitbit.com/global/en-ca/technology/active-zone-minutes)
-    * [Fitbit Pay](https://www.fitbit.com/global/en-ca/technology/fitbit-pay)
     * [Compatible Devices](https://www.fitbit.com/global/en-ca/technology/compatible-devices)
     * 
     
@@ -73,12 +71,10 @@ TECHNOLOGY
 * [Google Apps](https://www.fitbit.com/global/en-ca/technology/google-apps)
 * [Daily Readiness Score](https://www.fitbit.com/global/en-ca/technology/daily-readiness-score)
 * [Health Metrics & SpO2](https://www.fitbit.com/global/en-ca/technology/health-metrics)
-* [AFib Assessments](https://www.fitbit.com/global/en-ca/technology/irregular-rhythm)
 * [Stress Management](https://www.fitbit.com/global/en-ca/technology/stress)
 * [24/7 Heart Rate](https://www.fitbit.com/global/en-ca/technology/heart-rate)
 * [Sleep Tracking](https://www.fitbit.com/global/en-ca/technology/sleep)
 * [Active Zone Minutes](https://www.fitbit.com/global/en-ca/technology/active-zone-minutes)
-* [Fitbit Pay](https://www.fitbit.com/global/en-ca/technology/fitbit-pay)
 * [Compatible Devices](https://www.fitbit.com/global/en-ca/technology/compatible-devices)
 
 EXCLUSIVES
