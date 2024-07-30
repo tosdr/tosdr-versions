@@ -176,7 +176,7 @@ EUR
     
     Information[#### Embossed Business Cards](https://www.jukeboxprint.com/embossed-business-cards)[Elevate your business cards with custom embossing! The raised design adds sophistication and catches the eye through its impactful texture.](https://www.jukeboxprint.com/embossed-business-cards)
     
-    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with foil business cards, combining shimmering elements and fine paper for a touch of luxury.](https://www.jukeboxprint.com/foil-business-cards)
+    Information[#### Foil Business Cards](https://www.jukeboxprint.com/foil-business-cards)[Elevate your brand with our digital foil business cards. Luxurious yet cost-effective, available in 6 unique colors. Perfect for intricate designs and quick turnaround.](https://www.jukeboxprint.com/foil-business-cards)
     
     Information[#### Colored Edge Business Cards](https://www.jukeboxprint.com/painted-edge-business-cards)[Add a custom Edge Finish to your business cards to complete your brand identity - It’s as easy as matching your logo! We have four exclusive options available so that you can find the perfect finish.](https://www.jukeboxprint.com/painted-edge-business-cards)
     
