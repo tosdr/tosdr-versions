@@ -431,7 +431,7 @@ Law Enforcement
 
 Marketing
 
-[South Africa / PAIA Manual](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled%20personal%20data%20notice/PAIA%20Manual%20final_5%20July%202023docx)
+[South Africa / PAIA Manual](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled%20personal%20data%20notice/FIS%20South%20Africa%20Group%20PAIA%20Manual%20signed%2027%20June%202024docx)
 
 Staff/Workforce
 
@@ -457,49 +457,25 @@ How to Contact Us
 
 Translations
 
-Controlled Personal Data Notice
+[Arabic](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-106-ARABIC-OK.pdf)
 
-[Chinese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/chinese.pdf)
+[French](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-06-FRENCH-OK.pdf)
 
-[French](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/french.pdf)
+[German](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-106-GERMAN-OK.pdf)
 
-[German](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/german.pdf)
+[Indonesian](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-106-INDONESIAN-OK.pdf)
 
-[Portuguese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/portuguese.pdf)
+[Italian](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-106-ITALIAN-OK.pdf)
 
-[Spanish](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/spanish.pdf)
+[Japanese](https://www.fisglobal.com/-//media/fisglobal/files/policies/Privacy/privacy-center-106-JAPANESE-OK.pdf)
 
-[Thai](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/controlled-personal-data-notice/2022-Controlled-Personal-Data-Notice_th-TH.pdf)
+[Portuguese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-06-PORTUGUESE-OK.pdf)
 
-Online Privacy Notice
+[Spanish](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/privacy-center-06-SPANISH-OK.pdf)
 
-[Chinese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/online-privacy-notice/2022-Online-Privacy-Notice-Final_zh-CN.pdf)
+[Thai](https://www.fisglobal.com/-//media/fisglobal/files/policies/Privacy/privacy-center-106-THAI-OK.pdf)
 
-[French](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/online-privacy-notice/French.pdf)
-
-[Thai](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/online-privacy-notice/2022-Online-Privacy-Notice-Final_th-TH.pdf)
-
-Staff Privacy Notice
-
-[Chinese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/staff-privacy-notice/chinese.pdf)
-
-[French](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/staff-privacy-notice/fis-staff-privacy-notice-french.pdf)
-
-[German](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/staff-privacy-notice/german.pdf)
-
-[Portuguese](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/staff-privacy-notice/portuguese.pdf)
-
-[Spanish](https://www.fisglobal.com/-/media/fisglobal/files/policies/Privacy/staff-privacy-notice/spanish.pdf)
-
-Worldpay Privacy Notice
-
-[Bahasa](https://www.fisglobal.com/-/media/fisglobal/files/PDF/policy/Privacy/Worldpay-Privacy-Notice-Bahasa.pdf)
-
-[Japanese](https://www.fisglobal.com/-/media/fisglobal/files/PDF/policy/Privacy/Worldpay-Privacy-Notice-Japanese.pdf)
-
-[Spanish](https://www.fisglobal.com/-/media/fisglobal/files/PDF/policy/Privacy/Worldpay-Privacy-Notice-Spanish.pdf)
-
-![](/-/media/fisglobal/files/Microsites/privacy-policy/privacy-hero-052423.jpg?sc_lang=en&extension=webp)
+![](/-/media/fisglobal/files/Microsites/privacy-policy/privacy-hero-052423.jpg?sc_lang=en)
 
 Your privacy and trust are important to us.
 -------------------------------------------
@@ -654,7 +630,7 @@ You can see when this page was last updated by checking the “last updated” d
 
 Last update: April 15th, 2024
 
-![Store owner talks on phone while writing in ledger](/-/media/fisglobal/files/Microsites/privacy-policy/intro-definitions-052423.jpg?sc_lang=en&extension=webp)
+![Store owner talks on phone while writing in ledger](/-/media/fisglobal/files/Microsites/privacy-policy/intro-definitions-052423.jpg?sc_lang=en)
 
 Definitions
 -----------
@@ -717,7 +693,9 @@ Fidelity Information Services Front Arena AB, Marko Femic
 
 ### **South Africa**
 
-FIS Worldpay (South Africa) Pty Ltd, Catherine Gliksman
+FIS Systems South Africa (Pty) Ltd., Kershika Nookiah
+
+GL Trade (South Africa) Proprietary Limited, Kershika Nookiah
 
 Representatives
 ---------------
@@ -758,7 +736,7 @@ Name:            SeokPil Oh
 Address:        FIS 18FL, O2 Tower 83 Uisadang-daero, Yeongdeungpo-gu, Seoul, Korea 07325  
 Email:            seokpil.oh@fisglobal.com
 
-![People using public transportation using personal electronic devices](/-/media/fisglobal/files/Microsites/privacy-policy/individual-rights-052423.jpg?sc_lang=en&extension=webp)
+![People using public transportation using personal electronic devices](/-/media/fisglobal/files/Microsites/privacy-policy/individual-rights-052423.jpg?sc_lang=en)
 
 Individual rights under privacy and data protection law
 -------------------------------------------------------
@@ -1002,7 +980,7 @@ If you join our Talent Network, we will retain your personal data (even if you h
 | Compliance with a legal or regulatory obligation (when carrying out background checks to confirm a candidate is eligible to work in the relevant country) | Article 6.1.c GDPR<br><br>Article 10 GDPR<br><br>Article 13.(3) PIPL |
 | In order to take steps prior to entering into a contract with the candidate | Article 13.(2) PIPL |
 
-![Two colleagues having a discussion in an open office space.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-clients-052423.jpg?sc_lang=en&extension=webp)
+![Two colleagues having a discussion in an open office space.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-clients-052423.jpg?sc_lang=en)
 
 Clients
 -------
@@ -1037,7 +1015,7 @@ To carry out the above checks, we process the information (including personal da
 | Our legitimate interest in safeguarding FIS against inadvertently dealing with the proceeds of criminal activities or assisting in any other unlawful or fraudulent activities (for example, terrorism) | Article 6.1.f GDPR |
 | Our legitimate interest in sending you direct marketing communications to keep you informed about our products and services and to invite you for relevant events | Article 6.1.f GDPR |
 
-![Customer inserts chip card into a credit card terminal.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-customers-052423.jpg?sc_lang=en&extension=webp)
+![Customer inserts chip card into a credit card terminal.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-customers-052423.jpg?sc_lang=en)
 
 Consumers ("buyers")
 --------------------
@@ -1365,7 +1343,7 @@ Click here for an overview of your rights under applicable privacy and data prot
 | --- | --- |
 | Explicit consent | Article 6.1.a GDPR<br><br>Article 9.2.a GDPR<br><br>Article 13.(1) PIPL |
 
-![Two colleagues working in a shop.](/-/media/fisglobal/files/Microsites/privacy-policy/worldpay-intro-052423.jpg?sc_lang=en&extension=webp)
+![Two colleagues working in a shop.](/-/media/fisglobal/files/Microsites/privacy-policy/worldpay-intro-052423.jpg?sc_lang=en)
 
 Worldpay
 --------
@@ -1770,10 +1748,11 @@ Chief Privacy Officer
 Jacksonville, FL 32202  
 United States of America
 
-Data Protection Officer  
-Orhideelor Road 15A  
-Orhideea Towers building – HotSpot Skyhub, 13th floor, rooms 13.25 & 13.26 District 6, Bucharest  
-Romania.
+Data protection officer: Adriana Neagu  
+30 Frumoasa street, 2nd floor, module no. 1.10, 1st District  
+Bucharest  
+Romania  
+[data.protection@fisglobal.com](mailto:data.protection@fisglobal.com)
 
 The names and contact details of FIS’ data protection officers are available here.
 
