@@ -45,7 +45,7 @@ Mezo - Spam Blocker, SMS Block
 
 Contains adsIn-app purchases
 
-3.9_star_
+4.0_star_
 
 75.7K reviews
 
