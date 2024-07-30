@@ -78,7 +78,7 @@ Search
 
 Corporate
 
-Article June 30, 2023
+Article July 1, 2024
 
 Share
 
@@ -93,11 +93,11 @@ close
 Privacy policy
 ==============
 
-Article June 30, 2023
+Article July 1, 2024
 
 selected item
 
-#### Last updated: June 30, 2023
+#### Last updated: July 1, 2024
 
 Exxon Mobil appreciates your interest in this Web site and other related or linked ExxonMobil sites (collectively, “Site”). Your privacy is important to us and we want you to understand our practices with respect to the gathering and handling of your personal data. This Privacy Policy describes those practices.
 
@@ -232,16 +232,6 @@ You also have a right to lodge a complaint to the data protection supervisory au
 For more information about the specific mechanisms available to exercise these rights, please submit a data privacy request on our [landing page](https://corporate.exxonmobil.com/Global-legal-pages/Our-privacy-policies/) or contact the [data.privacy.office@exxonmobil.com](mailto:data.privacy.office@exxonmobil.com).
 
 To facilitate our efforts to address your request, please let us know the circumstances in which you initially provided ExxonMobil with your personal data, e.g., in connection with a specific product or service.
-
-Metrics Regarding Privacy requests (all US and US California):
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| July 2022 - July 2023 | Received |     | Completed |     | Not Completed |     | Median Number of Days to Complete |
-| **Request type** | **All US** | **California** | **All US** | **California** | **All US** | **California** |
-| Right to know / access | 17  | 3   | 17  | 3   | 0   | 0   | 8   |
-| Right to delete | 73  | 7   | 73  | 7   | 0   | 0   | 10  |
-| Right to opt out of sale | 234 | 159 | 234 | 159 | 0   | 0   | 5   |
 
 ### 9\. AUTOMATED DECISION-MAKING
 
