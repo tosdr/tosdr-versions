@@ -1,4 +1,4 @@
-8322861555564e3bab60-75ed-41d3-9228-5452985126e1:190efde7bb519997
+8326410660644848ba5a-ee57-4761-89a4-d3f029e2f3cc:191018de7eb19997
 
 [Skip to main content](#mainContent)
 
@@ -104,7 +104,7 @@ Depending on the region in which you reside, one of the following eBay Affiliate
 * **Canada**: eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100 Toronto, Ontario, M5V 1V6, Canada
 * **EU**: eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany
 * **United Kingdom**: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
-* **India**: eBay Singapore Services Private Limited, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315
+* **India**: eBay Singapore Services Private Limited, 1 Raffles Quay, #18- 00, Singapore 048583
 * **For all other countries**: eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
 ### 2.2 Use of the payment services for sellers
@@ -554,7 +554,7 @@ Depending on the region in which you reside, one of the following eBay Affiliate
 * **Canada**: eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100 Toronto, Ontario, M5V 1V6, Canada
 * **EU**: eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany
 * **United Kingdom**: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
-* **India**: eBay Singapore Services Private Limited, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315
+* **India**: eBay Singapore Services Private Limited, 1 Raffles Quay, #18- 00, Singapore 048583
 * **For all other countries**: eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
 ### 2.2 Use of the payment services for sellers
