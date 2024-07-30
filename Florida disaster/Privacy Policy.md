@@ -205,9 +205,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, July 26, 2024**
+**Monday, July 29, 2024**
 
-**...Scattered To Numerous Showers and Thunderstorms Nearly Statewide With the Sea Breezes This Afternoon and Evening...Marginal Risk for Flash Flooding Across North and Central Florida; Localized Flooding Possible With Heavy Downpours In Slow-Moving Showers and Thunderstorms...Drier Conditions Across Southeast Coast and Keys...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Cannot Be Ruled Out...Heat Indices In the Upper 90s and Triple Digits (100-105) Nearly Statewide...Moderate Risk For Rip Currents Along Panhandle and East Coast...Areas of Patchy to Locally Dense Fog Cannot Be Ruled Out Overnight Into Early Saturday Morning...**
+**...Dissipating Weak Frontal Boundary Along Northeast Florida Bringing Slightly Drier Conditions...Typical Summertime Thunderstorm Pattern Expected to Develop This Afternoon and Evening Along Sea Breeze Boundaries...Any Thunderstorm That Develops May Be Strong to Severe; Frequent Lightning, Gusty Winds, and Heavy Downpours...Heavy and Torrential Downpours Could Bring Localized Flooding For Portions of Big Bend and South Florida...Warm and Muggy Conditions Expected Statewide...Portions of Panhandle and Western Peninsula Could Briefly See Heat Index Values Near Heat Advisory Criteria...Moderate Risk for Rip Currents Continues for Numerous Panhandle and East Coast Beaches...NHC Monitoring Area of Disturbed Weather Over Central Atlantic That is Expected to Interact With Approaching Tropical Wave; Medium Chance for Development (50%) Through Next 7 Days; No Direct Threat to Florida Through Next 7-10 Days But Continues to Be Monitored...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
