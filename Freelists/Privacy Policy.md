@@ -74,4 +74,4 @@ If you have any questions about our policy, please feel free to [Contact us](htt
 
   ![](https://www.paypal.com/en_US/i/scr/pixel.gif)
 
-© [Avenir Technologies, LLC](http://www.avenirtech.net/) 2023
+© [Avenir Technologies, LLC](http://www.avenirtech.net/) 2024
