@@ -670,7 +670,7 @@ These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any
 * [Avoid Lottery Scams](https://www.jackpocket.com/avoid-lottery-scams)
 * [Become a Partner](https://www.jackpocket.com/partners)
 
-© 2024 Jackpocket, Inc.
+© 2024 Jackpocket LLC
 
 GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY). 18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com](https://www.jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
 
