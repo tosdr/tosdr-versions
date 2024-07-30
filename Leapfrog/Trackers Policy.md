@@ -205,7 +205,7 @@ If you choose to disable cookies, certain features of the Services may not be av
 
 [![](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/back-to-top-arrow.png)Back to Top](#pageTop)
 
-![LeapFrog Logo](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/footer-logo-lf-plf.png "LeapFrog Logo")
+[![LeapFrog Logo](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/footer-logo-lf-plf.png "LeapFrog Logo")](https://www.leapfrog.com/en-us/home)
 
 ##### About
 
