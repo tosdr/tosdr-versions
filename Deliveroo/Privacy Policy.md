@@ -134,4 +134,4 @@ Looking for an easy way to treat your friends and family? Give the gift of great
 
 © 2024 Deliveroo
 
-![](/anonymous_user_guid.gif?guid=9892d2d5-2861-4fed-810c-e3c2b9cb162c)
+![](/anonymous_user_guid.gif?guid=03208d3f-3974-4218-9261-3253e5b2e6b7)
