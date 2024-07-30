@@ -104,8 +104,8 @@ Organizations
 Get started
 
 * [Plugins](https://www.figma.com/community/plugins)
-* [UI kits](https://www.figma.com/community/category/ui-kits)
-* [Icons](https://www.figma.com/community/category/icons)
+* [UI kits](https://www.figma.com/community/ui-kits)
+* [Icons](https://www.figma.com/community/icons)
 * [Widgets](https://www.figma.com/community/widgets)
 * [Templates](https://www.figma.com/templates/)
 * [Developer docs](https://www.figma.com/developers)
@@ -189,8 +189,8 @@ Learn
     * Get started
         
         * [Plugins](https://www.figma.com/community/plugins)
-        * [UI kits](https://www.figma.com/community/category/ui-kits)
-        * [Icons](https://www.figma.com/community/category/icons)
+        * [UI kits](https://www.figma.com/community/ui-kits)
+        * [Icons](https://www.figma.com/community/icons)
         * [Widgets](https://www.figma.com/community/widgets)
         * [Templates](https://www.figma.com/templates/)
         * [Developer docs](https://www.figma.com/developers)
@@ -223,7 +223,7 @@ Legal overview
 
 Customer and User Agreements
 
-[Software Services Agreement ↗](https://www.figma.com/ssa/)[Terms of Service](https://www.figma.com/legal/tos/)[Data Processing Addendum ↗](https://static.figma.com/uploads/1f443d32f406fc6a42dfb12f4b2e435e09dbc555)[Figma AI Terms](https://www.figma.com/legal/ai-terms/)
+[Software Services Agreement ↗](https://www.figma.com/ssa/)[Terms of Service](https://www.figma.com/legal/tos/)[Data Processing Addendum ↗](https://static.figma.com/uploads/e1998d3982cb68112c5acaf4574bf28fe203204c)[Figma AI Terms](https://www.figma.com/legal/ai-terms/)
 
 Community and Developer Terms
 
@@ -235,7 +235,7 @@ Policies, Notices and Guidelines
 
 Privacy and Data Protection
 
-[Privacy & Trust Center](https://www.figma.com/legal/privacy-trust-center/)[Security Resources](https://www.figma.com/legal/security-resources/)[Privacy Resources](https://www.figma.com/legal/privacy-resources/)[Privacy Policy](https://www.figma.com/legal/privacy/)[Data Processing Addendum ↗](https://static.figma.com/uploads/1f443d32f406fc6a42dfb12f4b2e435e09dbc555)[Figma Subprocessors ↗](https://www.figma.com/sub-processors/)
+[Privacy & Trust Center](https://www.figma.com/legal/privacy-trust-center/)[Security Resources](https://www.figma.com/legal/security-resources/)[Privacy Resources](https://www.figma.com/legal/privacy-resources/)[Privacy Policy](https://www.figma.com/legal/privacy/)[Data Processing Addendum ↗](https://static.figma.com/uploads/e1998d3982cb68112c5acaf4574bf28fe203204c)[Figma Subprocessors ↗](https://www.figma.com/sub-processors/)
 
 Trademarks and Intellectual Property
 
