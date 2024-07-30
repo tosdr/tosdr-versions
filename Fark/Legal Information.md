@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Young couple drown after being swept out to sea. Fark: while taking a selfie at a place called "death rocks"](https://www.fark.com/goto/13335412) ( [nypost.com](https://www.fark.com/goto/13335412) ) » [(13 comments)](https://www.fark.com/comments/13335412/Young-couple-drown-after-being-swept-out-to-sea-Fark-while-taking-a-selfie-at-a-place-called-death-rocks) |
-| [Discussion](https://www.fark.com/discussion/) | ["My roommate is sleeping with my ex. I don't like that. What can I do to break them up?" (possible nsfw content on page)](https://www.fark.com/goto/13335546) ( [thesun.co.uk](https://www.fark.com/goto/13335546) ) » [(7 comments)](https://www.fark.com/comments/13335546/My-roommate-is-sleeping-with-my-ex-I-dont-like-that-What-can-I-do-to-break-them-up-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [30 greatest one-time sports in Summer Olympics history. Seems like the organizers of the 1900 Paris Olympics just said, "f\*ck it, let's include all the sports"](https://www.fark.com/goto/13335372) ( [fansided.com](https://www.fark.com/goto/13335372) ) » [(1 comment)](https://www.fark.com/comments/13335372/-30-greatest-one-time-sports-in-Summer-Olympics-history-Seems-like-organizers-of-1900-Paris-Olympics-just-said-fck-it-lets-include-all-sports) |
-| [Business](https://www.fark.com/business/) | [Tiny violin time again: World's 10 richest lose $100 billion in a day](https://www.fark.com/goto/13335088) ( [9news.com.au](https://www.fark.com/goto/13335088) ) » [(2 comments)](https://www.fark.com/comments/13335088/Tiny-violin-time-again-Worlds-10-richest-lose-$100-billion-in-a-day) |
-| [STEM](https://www.fark.com/stem/) | [Evidence mounts that shingles vaccines protect against dementia, and also, dementia](https://www.fark.com/goto/13335276) ( [newscientist.com](https://www.fark.com/goto/13335276) ) » [(9 comments)](https://www.fark.com/comments/13335276/Evidence-mounts-that-shingles-vaccines-protect-against-dementia-also-dementia) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Subdued whoo hoo](https://www.fark.com/goto/13335466) ( [nme.com](https://www.fark.com/goto/13335466) ) » [(0 comments)](https://www.fark.com/comments/13335466/Subdued-whoo-hoo) |
-| [Fandom](https://www.fark.com/fandom/) | [Hey, we found someone who hates Deadpool](https://www.fark.com/goto/13335532) ( [theguardian.com](https://www.fark.com/goto/13335532) ) » [(6 comments)](https://www.fark.com/comments/13335532/Hey-we-found-someone-who-hates-Deadpool) |
-| [D'awww](https://www.fark.com/dawww/) | [In remembrance of the "Titanic of the Pacific", a new Juneau statue of the mythical sole survivor sits watch](https://www.fark.com/goto/13335294) ( [alaskapublic.org](https://www.fark.com/goto/13335294) ) » [(4 comments)](https://www.fark.com/comments/13335294/In-remembrance-of-Titanic-of-Pacific-a-new-Juneau-statue-of-mythical-sole-survivor-sits-watch) |
-| [Food](https://www.fark.com/food/) | [Chipotle: We're listening...and by listening, we mean panicking](https://www.fark.com/goto/13335470) ( [retailwire.com](https://www.fark.com/goto/13335470) ) » [(7 comments)](https://www.fark.com/comments/13335470/Chipotle-Were-listeningand-by-listening-we-mean-panicking) |
-| [Politics](https://www.fark.com/politics/) | [That time JD Vance searched for interspecies dolphin sex, and then admitted it on Twitter](https://www.fark.com/goto/13335512) ( [rawstory.com](https://www.fark.com/goto/13335512) ) » [(20 comments)](https://www.fark.com/comments/13335512/That-time-JD-Vance-searched-for-interspecies-dolphin-sex-then-admitted-it-on-Twitter) |
+| [Main](https://www.fark.com/) | [Catholic Church buys former 284-acre Boeing management training facility. Altarpiece to be swapped from Jack Welsh to Jesus](https://www.fark.com/goto/13338424) ( [spectrumlocalnews.com](https://www.fark.com/goto/13338424) ) » [(5 comments)](https://www.fark.com/comments/13338424/Catholic-Church-buys-former-284-acre-Boeing-management-training-facility-Altarpiece-to-be-swapped-from-Jack-Welsh-to-Jesus) |
+| [Discussion](https://www.fark.com/discussion/) | [Some Farker's dad hit 100 trips around the sun, still lives on his own. WWII Army Air Corp Sergeant, radar Op on USS Raven. Earl "Pop pop OG" Malwitz](https://www.fark.com/goto/13337956) ( [baltimoresun.com](https://www.fark.com/goto/13337956) ) » [(9 comments)](https://www.fark.com/comments/13337956/Some-Farkers-dad-hit-100-trips-around-sun-still-lives-on-his-own-WWII-Army-Air-Corp-Sergeant-radar-Op-on-USS-Raven-Earl-Pop-pop-OG-Malwitz) |
+| [Sports](https://www.fark.com/sports/) | [Welcome, surfers, aboard Olympic Cruise Lines, with a single stop in Tahiti](https://www.fark.com/goto/13338386) ( [apnews.com](https://www.fark.com/goto/13338386) ) » [(7 comments)](https://www.fark.com/comments/13338386/Welcome-surfers-aboard-Olympic-Cruise-Lines-with-a-single-stop-in-Tahiti) |
+| [Business](https://www.fark.com/business/) | [I'm going to go out on a limb and say "it costs too much"](https://www.fark.com/goto/13338408) ( [upworthy.com](https://www.fark.com/goto/13338408) ) » [(11 comments)](https://www.fark.com/comments/13338408/Im-going-to-go-out-on-a-limb-say-it-costs-too-much) |
+| [STEM](https://www.fark.com/stem/) | [SpaceX solves the problem of pieces of Dragon capsules landing on land by landing in a bigger ocean](https://www.fark.com/goto/13338466) ( [arstechnica.com](https://www.fark.com/goto/13338466) ) » [(3 comments)](https://www.fark.com/comments/13338466/SpaceX-solves-problem-of-pieces-of-Dragon-capsules-landing-on-land-by-landing-in-a-bigger-ocean) |
+| [Entertainment](https://www.fark.com/entertainment/) | [My Chemical Romance won't be going on the Grey Parade after all](https://www.fark.com/goto/13338048) ( [nme.com](https://www.fark.com/goto/13338048) ) » [(10 comments)](https://www.fark.com/comments/13338048/My-Chemical-Romance-wont-be-going-on-Grey-Parade-after-all) |
+| [Fandom](https://www.fark.com/fandom/) | [The 50 most meta jokes in film history, which you'll have plenty of time to peruse while you're stuck in a chair and so very, very scared](https://www.fark.com/goto/13338484) ( [cracked.com](https://www.fark.com/goto/13338484) ) » [(15 comments)](https://www.fark.com/comments/13338484/The-50-most-meta-jokes-in-film-history-which-youll-have-plenty-of-time-to-peruse-while-youre-stuck-in-a-chair-so-very-very-scared) |
+| [D'awww](https://www.fark.com/dawww/) | [We can't stop here, this is marmot country](https://www.fark.com/goto/13338358) ( [unofficialnetworks.com](https://www.fark.com/goto/13338358) ) » [(8 comments)](https://www.fark.com/comments/13338358/We-cant-stop-here-this-is-marmot-country) |
+| [Food](https://www.fark.com/food/) | [This article will help improve my cooking skills](https://www.fark.com/goto/13338538) ( [thetakeout.com](https://www.fark.com/goto/13338538) ) » [(4 comments)](https://www.fark.com/comments/13338538/This-article-will-help-improve-my-cooking-skills) |
+| [Politics](https://www.fark.com/politics/) | [I can't think of any way to make this funny: Trump Jr. looks like he's going to die pretty soon](https://www.fark.com/goto/13338500) ( [youtube.com](https://www.fark.com/goto/13338500) ) » [(62 comments)](https://www.fark.com/comments/13338500/I-cant-think-of-any-way-to-make-this-funny-Trump-Jr-looks-like-hes-going-to-die-pretty-soon) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 26 2024 13:42:11  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 30 2024 00:43:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
