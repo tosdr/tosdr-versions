@@ -351,4 +351,4 @@ Talk to a domain expert: [+1-720-593-6478](tel:1-720-593-6478)
 
 © 2024 HugeDomains.com. All rights reserved.
 
-[](https://www.hugedomains.com/more-info.cfm)
+[](https://www.hugedomains.com/get-more.cfm)
