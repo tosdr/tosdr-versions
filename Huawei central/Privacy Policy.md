@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei Pura 70 Pro AI Image Expand](https://www.huaweicentral.com/wp-content/uploads/2024/07/Pura-70-Pro-400x240.jpg)
+        
+        Huawei Pura 70 Pro starts receiving AI Image Expand feature update](https://www.huaweicentral.com/huawei-pura-70-pro-starts-receiving-ai-image-expand-feature-update/)
     * [![Huawei FreeLace Pro 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeLace-Pro-2-400x240.jpg)
         
         Huawei optimizes FreeLace Pro 2 with July 2024 software update](https://www.huaweicentral.com/huawei-optimizes-freelace-pro-2-with-july-2024-software-update/)
@@ -59,9 +62,6 @@ Huawei Central
     * [![Huawei FreeBuds 6i July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeBuds-6i-img-400x240.jpg)
         
         Huawei FreeBuds 6i users grabbing July 2024 improvements update](https://www.huaweicentral.com/huawei-freebuds-6i-users-grabbing-july-2024-improvements-update/)
-    * [![Huawei FreeBuds 6i first update](https://www.huaweicentral.com/wp-content/uploads/2024/06/FreeBuds-6i-400x240.jpg)
-        
-        Huawei FreeBuds 6i receives first update with triple tap gesture optimizations](https://www.huaweicentral.com/huawei-freebuds-6i-receives-first-update-with-triple-tap-gesture-optimizations/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
