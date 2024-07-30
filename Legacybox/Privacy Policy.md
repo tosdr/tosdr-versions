@@ -4,7 +4,7 @@
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
-GET IT RIGHT. (AS IN RIGHT NOW!) 50% OFF LEGACYBOX FOR A LIMITED TIME Plus, get an extra 10% off with code GETLB10
+IT'S NOW OR NEVER $9 TAPE TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,9 +14,9 @@ GET IT RIGHT. (AS IN RIGHT NOW!) 50% OFF LEGACYBOX FOR A LIMITED TIME Plus, get 
 
 00 SEC
 
-50% OFF LEGACYBOX FOR A LIMITED TIME Plus, get an extra 10% off with code GETLB10
+$9 TAPE TRANSFERS (REG. ~$27.50~)... THAT'S LIKE 60% OFF! Plus, get an extra 10% off with code GETLB10
 
-[SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit)
+[SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/logo.svg?v=1684795981)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 ===============================================================================================================================================================================================================================================================================================================
@@ -53,7 +53,7 @@ $59.99 ~$66.98~
 
 $59.99 $66.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -63,7 +63,7 @@ $279.99 ~$301.98~
 
 $279.99 $301.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
@@ -73,7 +73,7 @@ $559.99 ~$603.98~
 
 $559.99 $603.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
 Most Popular
 
@@ -186,7 +186,7 @@ $59.99 ~$66.98~
 
 $59.99 $66.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -196,7 +196,7 @@ $279.99 ~$301.98~
 
 $279.99 $301.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
 [](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
@@ -206,7 +206,7 @@ $559.99 ~$603.98~
 
 $559.99 $603.98
 
-[Track Your Order](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
+[Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
 Most Popular
 
