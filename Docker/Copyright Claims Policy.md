@@ -14,11 +14,11 @@
         * [See our product roadmap](https://github.com/docker/roadmap)
     * MORE resources for developers
         
-        Docker Desktop v4.31
+        Docker Desktop v4.32
         
         Find out what’s new to Docker Desktop in the latest release
         
-        [Read more](https://www.docker.com/blog/docker-desktop-4-31/)
+        [Read more](https://www.docker.com/blog/docker-desktop-4-32/)
         
     
 * [Developers](#)
@@ -101,11 +101,11 @@
         * [See our product roadmap](https://github.com/docker/roadmap)
     * MORE resources for developers
         
-        Docker Desktop v4.31
+        Docker Desktop v4.32
         
         Find out what’s new to Docker Desktop in the latest release
         
-        [Read more](https://www.docker.com/blog/docker-desktop-4-31/)
+        [Read more](https://www.docker.com/blog/docker-desktop-4-32/)
         
     
 * [Developers](#)
