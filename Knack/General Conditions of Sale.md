@@ -48,6 +48,8 @@ Increase your revenue with Knack.
 
 Get hired to build and expand apps.
 
+Resell Knack apps to clients.
+
 Expedite your app build with a pre-built template.
 
 Try Knack free for 14 days. No credit card required. Never Pay per User.
