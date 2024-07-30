@@ -2,8 +2,6 @@
 
  
 
-[THIS WEEKEND ONLY - SPEND $100, GET A FREE MUG WARMER](https://www.deathwishcoffee.com/products/the-mug-warmer)
-
      
 
 * Coffee
