@@ -69,7 +69,15 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Blog](https://www.exoclick.com/blog/)
 --------------------------------------
 
-* [![Advertiser Keyword Targeting feature](https://www.exoclick.com/wp-content/uploads/2024/07/keyword-targeting-320x180.png)](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
+* [![ExoClick Customer Success Team](https://www.exoclick.com/wp-content/uploads/2022/10/Client-Care-3-1-320x180.png)](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+    
+    ### [‘Your success is our commitment’: Meet the ExoClick Customer Success Team!](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+    
+    An instrumental part of ExoClick is the Client Care team and Tech Support Team, which provides 24/7 multilingual assistance.
+    
+    [Read More](https://www.exoclick.com/your-success-is-our-commitment-meet-exoclicks-customer-success-team/)
+    
+* [![What is keyword targeting in advertising? How to target specific keywords on an advertiser campaign How to use keyword targeting effectively on my campaigns Advertiser Keyword Targeting feature](https://www.exoclick.com/wp-content/uploads/2024/07/keyword-targeting-320x180.png)](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
     
     ### [ExoClick’s Advertiser Keyword Targeting feature](https://www.exoclick.com/exoclicks-advertiser-keyword-targeting-feature/)
     
@@ -84,14 +92,6 @@ Target double opt-in users with our high converting Email Clicks ad format.
     Advertisers! Let’s explore Bidding Vs Traffic Share and answer the question ‘When should I bid or buy a Traffic Share?’
     
     [Read More](https://www.exoclick.com/bidding-vs-traffic-share-when-should-i-bid-or-buy-a-traffic-share-deal/)
-    
-* [![How to optimize Video ad campaigns with AI editors](https://www.exoclick.com/wp-content/uploads/2024/07/Ai-video-2-320x180.png)](https://www.exoclick.com/how-to-optimize-video-ad-campaigns-with-ai-editors/)
-    
-    ### [How to optimize Video ad campaigns with AI editors](https://www.exoclick.com/how-to-optimize-video-ad-campaigns-with-ai-editors/)
-    
-    In this article, we answer the question ‘how to optimize Video ad campaigns with AI editors?’ and show some of the best software available!
-    
-    [Read More](https://www.exoclick.com/how-to-optimize-video-ad-campaigns-with-ai-editors/)
     
 
 [Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
