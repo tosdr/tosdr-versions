@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-ANOTHER SOUL SAVED!](https://gtaforums.com/)
+KILLING YOUR PRODUCTIVITY](https://gtaforums.com/)
 
 * [](#)
 
@@ -12,7 +12,7 @@ ANOTHER SOUL SAVED!](https://gtaforums.com/)
 
 * [Home](https://gtaforums.com/ "Home")
 
-[GTA Online New Bonuses for 25th July 2024 - Pizza This! Pizza Delivery Missions Available, a New Community Challenge, LS Tags are Introduced, the Vapid Dominator FX, Bonuses & More!](https://gtaforums.com/topic/998127-weekly-event-25th-july-2024-pizza-this-pizza-delivery-missions-available-a-new-community-challenge-ls-tags-are-introduced-the-vapid-dominator-fx-bonuses-more/)
+[Red Dead Online Event Month for August 2024 - Be the Best Collector in Town with Collector Role Bonuses, Establish Superiority in Free Roam Events, a New Community-Inspired Outfit & More!](https://gtaforums.com/topic/998184-monthly-event-august-2024-be-the-best-collector-in-town-with-collector-role-bonuses-establish-superiority-in-free-roam-events-a-new-community-inspired-outfit-more/)
 
 Registration Terms
 ==================
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=ee1ce2950a8d5eab995268686f7ffc19)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=00fe76ef83c7e3bb2439c817fa88dee9)
