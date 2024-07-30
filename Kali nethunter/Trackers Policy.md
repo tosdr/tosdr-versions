@@ -4,9 +4,11 @@
     
     Learning Library
     
-    Cyber workforce resilience and career development with hands-on, real-world training Cyber Ranges
+    Cyber workforce resilience and career development with hands-on, real-world training
     
-    Live-fire simulations to train your team and stay ahead of the latest threats 
+    Cyber Ranges
+    
+    Live-fire simulations to train your team and stay ahead of the latest threats
     
     [Courses & Certifications
     
@@ -52,9 +54,11 @@
     
     Organizations
     
-    Continuous learning & skill development to build cyber workforce resilience Individuals
+    Continuous learning & skill development to build cyber workforce resilience
     
-    Get industry leading training and reinforce learning with hands-on labs 
+    Individuals
+    
+    Get industry leading training and reinforce learning with hands-on labs
     
     [Teams & Enterprises
     
@@ -96,9 +100,11 @@
     
     Organizations
     
-    Flexible solutions designed for organizations across industries and sizes Individuals
+    Flexible solutions designed for organizations across industries and sizes
     
-    Find the right training plan for your unique learning needs 
+    Individuals
+    
+    Find the right training plan for your unique learning needs
     
     [Subscription Pricing
     
@@ -398,7 +404,7 @@ Review Offensive Security’s privacy policy, terms and conditions, trademark po
 Cookie Policy
 =============
 
-Last revised: Feb 01, 2024
+Last revised: Jul 30, 2024
 
 Our Cookie Policy (the “Cookie Policy”) describes the different cookies used in connection with websites owned and controlled by OffSec Services Limited, 5 Secretary’s Lane, Gibraltar (“Offensive Security” or “us”), from which you are accessing this Cookie Policy (the “Site”). OffSec determines the means and purposes of the personal data processing described in this Cookie Policy and is therefore the data controller for the purposes of the EU General Data Protection Regulation (or GDPR).
 
@@ -406,9 +412,7 @@ Depending on the Site you are accessing, our [privacy notice](https://www.offsec
 
 If you have questions, please contact us by email at **[privacy@offsec.com](mailto:privacy@offsec.com)** or write to us at:
 
-> OffSec  
-> 230 Park Avenue 3rd Floor West  
-> New York, NY 10169.
+> OffSec 230 Park Avenue 3rd Floor West New York, NY 10169.
 
 What is a Cookie?
 -----------------
@@ -515,7 +519,9 @@ What kind of Cookies do we use?
 
 [a11y.text What kind of Cookies do we use?](#what-kind-of-cookies-do-we-use)
 
-The tables below list all the types of cookies we and third parties use on the Site, with information regarding their retention periods (i.e. how long each cookie will remain on your device) and their source (i.e. 1st party or third-party cookies).
+Click the **Reset Cookies** button below to list all the types of cookies we and third parties use on the Site, with information regarding their retention periods (i.e. how long each cookie will remain on your device) and their source (i.e. 1st party or third-party cookies).
+
+Reset Cookies
 
 Updates to this Cookie Policy
 -----------------------------
