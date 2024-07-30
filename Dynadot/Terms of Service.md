@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Capture and share your creativity by registering an .ART domain for only $2.49 until 7/31/2024!](https://www.dynadot.com/domain/art?utm_source=Promobar&utm_campaign=ART%20Flash%20Promobar%20July%202024&utm_medium=art%20flash&drefid=4557)
+[Last chance to save ➡️ secure $3.88 renewals and transfers on .LINK domains until 7/31/2024!](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=LINK%20Promobar%20July%202024&utm_medium=link%20transfer&drefid=4554)
 
 [](https://www.dynadot.com/)
 
