@@ -491,12 +491,6 @@ You can also email us at [dpo@gumtree.com](mailto:dpo@gumtree.com) or reach us i
 
 Your right to file complaints with a data protection supervisory authority remains unaffected.
 
-### Buy and sell in a snap
-
-Get the app for the best Gumtree experience
-
-[iOS App](https://app.adjust.com/ez1o5rv?campaign=Footer%20Banner&adgroup=Global&creative=V1&redirect=https://itunes.apple.com/gb/app/gumtree/id487946174?mt=8)[Android App](https://app.adjust.com/ez1o5rv?campaign=Footer%20Banner&adgroup=Global&creative=V1&redirect=https://play.google.com/store/apps/details?id=com.gumtree.android&hl=en_GB)
-
 #### About Us
 
 [About Gumtree](https://www.gumtree.com/info/life/about-us/)[Advertise With Us](https://www.gumtree.com/info/life/advertise-with-us/)[Careers](https://gumtreemotors.teamtailor.com/)[Media](https://www.gumtree.com/info/life/media/)[Press](https://www.gumtree.com/info/life/press-pr/)
