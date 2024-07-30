@@ -355,29 +355,39 @@ Menu
 Featured travel offers
 ----------------------
 
-*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.rssc.com%2Fcruises%2FMAR240914%2Fsummary%3Fs%3DDI_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTMULTI&item=traveldeal&item_id=13835ecb-dac1-4d73-b340-ee7911d6f0d1&utm_source=mainsite&utm_campaign=travel_deals)
+*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-    ### [Mediterranean Luxury Cruise - Valletta to Monte Carlo on Sep 14, 2024\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.rssc.com%2Fcruises%2FMAR240914%2Fsummary%3Fs%3DDI_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTMULTI&item=traveldeal&item_id=13835ecb-dac1-4d73-b340-ee7911d6f0d1&utm_source=mainsite&utm_campaign=travel_deals)
+    ### [Turkey Holidays\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-    Europe | 8 nights | Book with Regent Seven Seas Cruises
+    Turkey | 7 nights | Book with easyJet holidays
     
-    [Order a brochure](https://www.rssc.com/order-brochure?s=PE_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTM)
+    Unbeatable prices. Book with a £60pp deposit, with option to spread cost for free.
     
-    From £6,119pp
+    From £185pp
     
-    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.rssc.com%2Fcruises%2FMAR240914%2Fsummary%3Fs%3DDI_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTMULTI&item=traveldeal&item_id=13835ecb-dac1-4d73-b340-ee7911d6f0d1&utm_source=mainsite&utm_campaign=travel_deals)
+    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Feasyjet.prf.hn%2Fclick%2Fcamref%3A1101l3RwTL%2Fdestination%3Ahttps%253A%252F%252Fwww.easyjet.com%252Fen%252Fholidays%252Fturkey&item=traveldeal&item_id=531091d3-87dd-4ca9-91b6-d92dc4eb652e&utm_source=mainsite&utm_campaign=travel_deals)
     
-*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Fasia%2F4191-adventures-in-java-bali-paradise%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D4191&item=traveldeal&item_id=49fc2fc0-b506-4932-a416-12c50ff4ad4c&utm_source=mainsite&utm_campaign=travel_deals)
+*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Ftui-uk.7cnq.net%2Fc%2F1460153%2F651773%2F10316%3Fsharedid%3DRestLess_Tui_travel_deals_Bled%2BHolidays%26u%3Dhttps%253A%252F%252Fwww.tui.co.uk%252Fdestinations%252Feurope%252Fslovenia%252Fbled%252Fholidays-bled.html&item=traveldeal&item_id=9df2b7a3-658a-4b0a-845b-73cefbe5cf4c&utm_source=mainsite&utm_campaign=travel_deals)
     
-    ### [Adventures in Java & Bali Paradise\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Fasia%2F4191-adventures-in-java-bali-paradise%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D4191&item=traveldeal&item_id=49fc2fc0-b506-4932-a416-12c50ff4ad4c&utm_source=mainsite&utm_campaign=travel_deals)
+    ### [Bled Holidays\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Ftui-uk.7cnq.net%2Fc%2F1460153%2F651773%2F10316%3Fsharedid%3DRestLess_Tui_travel_deals_Bled%2BHolidays%26u%3Dhttps%253A%252F%252Fwww.tui.co.uk%252Fdestinations%252Feurope%252Fslovenia%252Fbled%252Fholidays-bled.html&item=traveldeal&item_id=9df2b7a3-658a-4b0a-845b-73cefbe5cf4c&utm_source=mainsite&utm_campaign=travel_deals)
     
-    35% off | Indonesia | 17 days | Book with Exoticca
+    Bled | Book with Tui
     
-    Indonesia
+    From £829pp
     
-    From £1,799pp £2,779pp  
+    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Ftui-uk.7cnq.net%2Fc%2F1460153%2F651773%2F10316%3Fsharedid%3DRestLess_Tui_travel_deals_Bled%2BHolidays%26u%3Dhttps%253A%252F%252Fwww.tui.co.uk%252Fdestinations%252Feurope%252Fslovenia%252Fbled%252Fholidays-bled.html&item=traveldeal&item_id=9df2b7a3-658a-4b0a-845b-73cefbe5cf4c&utm_source=mainsite&utm_campaign=travel_deals)
     
-    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Fasia%2F4191-adventures-in-java-bali-paradise%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D4191&item=traveldeal&item_id=49fc2fc0-b506-4932-a416-12c50ff4ad4c&utm_source=mainsite&utm_campaign=travel_deals)
+*  [](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
+    
+    ### [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
+    
+    35% off | Greece | 10 days | Book with Exoticca
+    
+    Greece
+    
+    From £1,199pp £1,849pp  
+    
+    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
 
 [See top travel deals](https://restless.co.uk/travel/top-travel-deals/)
@@ -522,6 +532,24 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 magical things to see and do in the Middle East](https://media.restless.co.uk/uploads/2023/08/magical-things-to-see-and-do-in-the-middle-east-768x513.jpg)](https://restless.co.uk/travel/magical-things-to-see-and-do-in-the-middle-east/)
+
+### [7 magical things to see and do in the Middle East](https://restless.co.uk/travel/magical-things-to-see-and-do-in-the-middle-east/)
+
+[Read More »](https://restless.co.uk/travel/magical-things-to-see-and-do-in-the-middle-east/)
+
+[![8 hidden gem holiday destinations around the world](https://media.restless.co.uk/uploads/2023/08/hidden-gem-holiday-destinations-around-the-world-768x525.jpg)](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+### [8 hidden gem holiday destinations around the world](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+[Read More »](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+
+[![the most colourful travel destinations in the world](https://media.restless.co.uk/uploads/2023/06/the-most-colourful-travel-destinations-in-the-world-768x519.jpeg)](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
+### [10 of the most colourful travel destinations in the world](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
+[Read More »](https://restless.co.uk/travel/the-most-colourful-travel-destinations-in-the-world/)
+
 [![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 ### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
@@ -539,24 +567,6 @@ New in travel
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-[Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-[![6 luxury cruises across the world's continents](https://media.restless.co.uk/uploads/2024/07/luxury-cruises-across-the-worlds-continents-768x267.jpg)](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
-
-### [6 luxury cruises across the world’s continents](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
-
-[Read More »](https://restless.co.uk/travel/luxury-cruises-across-the-worlds-continents/)
-
-[![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
 Popular travel guides
 ---------------------
