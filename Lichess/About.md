@@ -8,7 +8,7 @@ Accessibility: Enable blind mode
 
 [Puzzles](https://lichess.org/training)
 
-[Puzzles](https://lichess.org/training)[Puzzle themes](https://lichess.org/training/themes)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
+[Puzzles](https://lichess.org/training)[Puzzle Themes](https://lichess.org/training/themes)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
 
 [Learn](https://lichess.org/learn)
 
@@ -71,7 +71,7 @@ Streamer Kit
 Links
 -----
 
-* [GitHub](https://github.com/ornicar/lila)
+* [GitHub](https://github.com/lichess-org/)
 * [Twitter](https://twitter.com/lichess), [en Español](https://twitter.com/lichess_ES), [auf Deutsch](https://twitter.com/Lichess_DE)
 * [Instagram](https://www.instagram.com/lichessdotorg)
 * [Mastodon](https://mastodon.online/@lichess)
@@ -85,6 +85,7 @@ Links
 * [Bluesky](https://staging.bsky.app/profile/lichess.bsky.social)
 * [Mobile app for iOS](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 * [Mobile app for Android](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
+* [New mobile app BETA for Android](https://play.google.com/store/apps/details?id=org.lichess.mobileV2)
 * [API documentation](https://lichess.org/api)
 
 _Most websites (but not Lichess) are infested with ads and trackers. We recommend installing a_ _[free, open source malware blocker](https://ublockorigin.com/)_ _._
