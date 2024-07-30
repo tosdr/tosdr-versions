@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
-[Trump's immigration policies a potential human rights violation](https://independentaustralia.net/article-display/trumps-immigration-policies-a-potential-human-rights-violation,18809)
+[Sydney Morning Herald a disgrace to proper journalism](https://independentaustralia.net/article-display/sydney-morning-herald-a-disgrace-to-proper-journalism,18819)
 
-[Angus Taylor's 'Watergate' links emerge in secret government deal](https://independentaustralia.net/article-display/angus-taylors-watergate-links-emerge-in-secret-government-deal,18802)
+[Peterson, Carlson and co — the world is done with your groupthink](https://independentaustralia.net/article-display/open-letter-to-peterson-carlsonand-co--the-world-is-done-with-your-groupthink,18818)
 
-[Intuition key to AI being a tremendous force for good](https://independentaustralia.net/article-display/intuition-key-to-ai-being-a-tremendous-force-for-good-,18798)
+[Interest rate cuts around the world — Australia should join the gang](https://independentaustralia.net/article-display/interest-rate-cuts-around-the-world--australia-should-join-the-gang,18817)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [More Lehrmann trials, appeals and assorted legal stouches](https://independentaustralia.net/article-display/more-lehrmann-trials-appeals-and-assorted-legal-stouches,18808 "Permanent Link : More Lehrmann trials, appeals and assorted legal stouches")
-* [Angus Taylor's 'Watergate' links emerge in secret government deal](https://independentaustralia.net/article-display/angus-taylors-watergate-links-emerge-in-secret-government-deal,18802 "Permanent Link : Angus Taylor's 'Watergate' links emerge in secret government deal")
-* [Aussie opera never looked so grand](https://independentaustralia.net/article-display/aussie-opera-never-looked-so-grand,18806 "Permanent Link : Aussie opera never looked so grand")
-* [America's gathering storm: Spoiler alert! Trump's big advantage](https://independentaustralia.net/article-display/americas-gathering-storm-spoiler-alert-trumps-big-advantage,18812 "Permanent Link : America's gathering storm: Spoiler alert! Trump's big advantage")
-* [7 October horrors won't silence us on genocide](https://independentaustralia.net/article-display/7-october-horrors-wont-silence-us-on-genocide,18810 "Permanent Link : 7 October horrors won't silence us on genocide")
-* [Intuition key to AI being a tremendous force for good](https://independentaustralia.net/article-display/intuition-key-to-ai-being-a-tremendous-force-for-good,18798 "Permanent Link : Intuition key to AI being a tremendous force for good")
-* [CARTOONS: Mark David calls it a day](https://independentaustralia.net/article-display/cartoons-mark-david-calls-it-a-day,18803 "Permanent Link : CARTOONS: Mark David calls it a day")
+* [Sydney Morning Herald a disgrace to proper journalism](https://independentaustralia.net/article-display/sydney-morning-herald-a-disgrace-to-proper-journalism,18819 "Permanent Link : Sydney Morning Herald a disgrace to proper journalism")
+* [Open letter to Peterson, Carlson and co — the world is done with your groupthink](https://independentaustralia.net/article-display/open-letter-to-peterson-carlsonand-co-the-world-is-done-with-your-groupthink,18818 "Permanent Link : Open letter to Peterson, Carlson and co — the world is done with your groupthink")
+* [Interest rate cuts around the world — Australia should join the gang](https://independentaustralia.net/article-display/interest-rate-cuts-around-the-world-australia-should-join-the-gang,18817 "Permanent Link : Interest rate cuts around the world — Australia should join the gang")
+* [June student trends will be making ministers nervous](https://independentaustralia.net/article-display/june-student-trends-will-be-making-ministers-nervous,18816 "Permanent Link : June student trends will be making ministers nervous")
+* [Race, gender, age will determine Kamala Harris' running mate](https://independentaustralia.net/article-display/race-gender-age-will-determine-kamala-harris-running-mate,18815 "Permanent Link : Race, gender, age will determine Kamala Harris' running mate")
+* [Facts and figures confirm Murdoch’s minions are continually lying to you](https://independentaustralia.net/article-display/facts-and-figures-confirm-murdochs-minions-are-continually-lying-to-you,18814 "Permanent Link : Facts and figures confirm Murdoch’s minions are continually lying to you")
+* [POEM: A letter to the children of tomorrow](https://independentaustralia.net/article-display/poem-a-letter-to-the-children-of-tomorrow,18804 "Permanent Link : POEM: A letter to the children of tomorrow")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
