@@ -1,7 +1,7 @@
 [](https://facebook.com/kulturlandimpulse)[](https://www.kulturlandimpulse.at/feed/)
 
 * [](tel:+43 650 7909484)
-* [office@kulturlandimpulse.at](mailto:%6ff%66i%63e@k%75%6c%74%75rl%61ndi%6d%70%75lse.a%74)
+* [office@kulturlandimpulse.at](mailto:offic%65%40kult%75rla%6ed%69m%70ulse%2eat)
 
 [![kuli -  Kultur.Land.Impulse  Gemeinsam gestalten](https://www.kulturlandimpulse.at/wp-content/uploads/2020/07/kuliLogo_klein-e1594027797115.png)](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[kuli - Kultur.Land.Impulse](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[Gemeinsam gestalten](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")
 
