@@ -212,9 +212,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**What the judge was thinking and what’s next in Trump documents case** Obama-era White House counsel says key point in Nixon decision should have ended inquiry](https://news.harvard.edu/gazette/story/2024/07/what-the-judge-was-thinking-and-whats-next-in-trump-documents-case/)
-        2. [**The way forward for Democrats — and the country** Danielle Allen is more worried about identity politics and gaps in civic education than the power of delegates](https://news.harvard.edu/gazette/story/2024/07/the-way-forward-for-democrats-and-the-country/)
-        3. [**Finding right mix on campus speech policies** Legal, political scholars discuss balancing personal safety, constitutional rights, academic freedom amid roiling protests, cultural shifts](https://news.harvard.edu/gazette/story/2023/12/finding-right-mix-on-campus-speech-policies/)
+        1. [**The way forward for Democrats — and the country** Danielle Allen is more worried about identity politics and gaps in civic education than the power of delegates](https://news.harvard.edu/gazette/story/2024/07/the-way-forward-for-democrats-and-the-country/)
+        2. [**17 books to soak up this summer** Harvard Library staff recommendations cover romance, fantasy, sci-fi, mystery, memoir, music, politics, history](https://news.harvard.edu/gazette/story/2024/07/17-books-to-soak-up-this-summer/)
+        3. [**Beginning of end of HIV epidemic?** Scientists cautiously optimistic about trial results of new preventative treatment, prospects for new phase in battle with deadly virus](https://news.harvard.edu/gazette/story/2024/07/beginning-of-end-of-hiv-epidemic-aids-lenacapavir/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
