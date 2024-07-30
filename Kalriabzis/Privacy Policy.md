@@ -32,8 +32,8 @@ Belépve maradok
 [Mit nyújt a  
 Prémium tagság?](https://kaloriabazis.hu/premium_info)
 
-Adatkezelési tájékoztató
-========================
+PRIVACY POLICY: Adatkezelési tájékoztató - Magyar Máté, KalóriaBázis
+====================================================================
 
 1 Az adatkezelési tájékoztató célja
 
@@ -483,7 +483,7 @@ Az adatkezelő a hatóságok részére – amennyiben a hatóság a pontos célt
   
   
 
-2024.07.27
+2024.07.30
 
 [KALÓRIATÁBLÁZAT](https://kaloriabazis.hu/kaloriatablazat)
 
