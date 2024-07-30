@@ -139,12 +139,11 @@ Main Menu
         * [Virtualization](https://www.nvidia.com/en-eu/data-center/virtualization/)
     * Design and Simulation
         
-        * [Overview](https://www.nvidia.com/en-eu/design-visualization/)
-        * [3D Avatars](https://developer.nvidia.com/omniverse/ace)
-        * [Augmented and Virtual Reality](https://www.nvidia.com/en-eu/design-visualization/solutions/virtual-reality/)
-        * [Digital Twins](https://www.nvidia.com/en-eu/design-visualization/solutions/virtual-reality/)
-        * [Engineering Simulation](https://www.nvidia.com/en-eu/design-visualization/solutions/engineering-simulation/)
-        * [Rendering](https://www.nvidia.com/en-eu/design-visualization/solutions/rendering/)
+        * [Overview](https://www.nvidia.com/en-eu/solutions/design-and-simulation/)
+        * [Digital Twin Development](https://www.nvidia.com/en-eu/omniverse/solutions/digital-twins/)
+        * [Rendering and Visualization](https://www.nvidia.com/en-eu/design-visualization/)
+        * [Robotics Simulation](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
+        * [Vehicle Simulation](https://www.nvidia.com/en-eu/self-driving-cars/)
     * Robotics and Edge Computing
         
         * [Overview](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
@@ -588,12 +587,11 @@ NVIDIA NVIDIA logo
         * [Virtualization](https://www.nvidia.com/en-eu/data-center/virtualization/)
     * Design and Simulation
         
-        * [Overview](https://www.nvidia.com/en-eu/design-visualization/)
-        * [3D Avatars](https://developer.nvidia.com/omniverse/ace)
-        * [Augmented and Virtual Reality](https://www.nvidia.com/en-eu/design-visualization/solutions/virtual-reality/)
-        * [Digital Twins](https://www.nvidia.com/en-eu/design-visualization/solutions/virtual-reality/)
-        * [Engineering Simulation](https://www.nvidia.com/en-eu/design-visualization/solutions/engineering-simulation/)
-        * [Rendering](https://www.nvidia.com/en-eu/design-visualization/solutions/rendering/)
+        * [Overview](https://www.nvidia.com/en-eu/solutions/design-and-simulation/)
+        * [Digital Twin Development](https://www.nvidia.com/en-eu/omniverse/solutions/digital-twins/)
+        * [Rendering and Visualization](https://www.nvidia.com/en-eu/design-visualization/)
+        * [Robotics Simulation](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
+        * [Vehicle Simulation](https://www.nvidia.com/en-eu/self-driving-cars/)
     * Robotics and Edge Computing
         
         * [Overview](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
