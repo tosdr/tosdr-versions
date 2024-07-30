@@ -118,11 +118,11 @@ Advertisement
     Hillsborough Disaster
     
     This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+* [![The Wow Signal](/wp-content/thumbnails/16683-100x70.jpg?x53432)
     
-    Canada’s woke nightmare: A warning to the West
+    The Wow Signal
     
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+    Mankind has always been fascinated by the possibility of life beyond Earth, the idea of other civilizations thriving on distant planets captivates the imagination we are driven perhaps by the hope th...](https://documentaryheaven.com/the-wow-signal/ "The Wow Signal")
 * [![Homo Futurus](/wp-content/thumbnails/2808-100x70.jpeg?x53432)
     
     Homo Futurus
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Where The Wild Coffee Grows](/wp-content/thumbnails/7525-100x70.jpg?x53432)
+* [![IRAN (Is Not The Problem)](/wp-content/thumbnails/2873-100x70.png?x53432)
     
-    Where The Wild Coffee Grows
+    IRAN (Is Not The Problem)
     
-    Starbucks and coffee drinkers globally love the green beans which grow in the wild remote altitudes of East Timor.Since it was a Portuguese colony – organic coffee have been cultivated for centuri](https://documentaryheaven.com/where-wild-coffee-grows/ "Where The Wild Coffee Grows")
-* [![The War You Don’t See](/wp-content/thumbnails/4596-100x70.jpg?x53432)
+    IRAN (Is Not The Problem) is a feature length documentary film responding to the failure of the American mass media to provide the public with relevant and accurate information about the standoff betw](https://documentaryheaven.com/iran-is-not-the-problem/ "IRAN (Is Not The Problem)")
+* [![Project Camelot: Aerospace top secret craft](/wp-content/thumbnails/3273-100x70.jpg?x53432)
     
-    The War You Don’t See
+    Project Camelot: Aerospace top secret craft
     
-    A powerful and timely investigation into the media's role in war, tracing the history of 'embedded' and independent reporting from the carnage of World War One to the destruction of Hiroshima, and fro](https://documentaryheaven.com/the-war-you-dont-see/ "The War You Don’t See")
-* [![The Clash: New Year’s Day ’77](/wp-content/thumbnails/12207-100x70.jpg?x53432)
+    An interview with Michael Schratt, an aerospace historian regarding top secret craft that he has investigated and documented. As a top notch researcher, he has met with and interviewed many NASA and d](https://documentaryheaven.com/project-camelot/ "Project Camelot: Aerospace top secret craft")
+* [![Conspiracy of Silence](/wp-content/thumbnails/4587-100x70.jpg?x53432)
     
-    The Clash: New Year’s Day ’77
+    Conspiracy of Silence
     
-    On January 1st 1977 the British band The Clash played the opening show for the infamous Roxy club in a dilapidated Convent Garden. This film takes us right back on a time-travelling journey to that mo](https://documentaryheaven.com/clash-new-years-day-77/ "The Clash: New Year’s Day ’77")
-* [![The Midas Formula: Trillion Dollar Bet](/wp-content/thumbnails/6113-100x70.jpg?x53432)
+    (Banned Discovery Channel Documentary)"Conspiracy of Silence" is a powerful, disturbing documentary revealing a nationwide child abuse and pedophilia ring that leads to the highest levels of gov](https://documentaryheaven.com/conspiracy-of-silence/ "Conspiracy of Silence")
+* [![Oxyana](/wp-content/thumbnails/12709-100x70.jpg?x53432)
     
-    The Midas Formula: Trillion Dollar Bet
+    Oxyana
     
-    The history behind perhaps the greatest formula ever created in finance: the Black-Scholes-Merton options pricing model. Two of its creators were awarded the Nobel Prize in Economics in 1997. A year l](https://documentaryheaven.com/the-midas-formula-trillion-dollar-bet/ "The Midas Formula: Trillion Dollar Bet")
-* [![America’s Most Hated Family in Crisis](/wp-content/thumbnails/5629-100x70.jpg?x53432)
+    At first glance you could be forgiven for thinking that the town known as Oceana, located in West Virginia is perfect. It is one of the oldest town's in Wyoming County and is surrounded by pure b](https://documentaryheaven.com/oxyana/ "Oxyana")
+* [![The Money Lobby](/wp-content/thumbnails/7176-100x70.jpg?x53432)
     
-    America’s Most Hated Family in Crisis
+    The Money Lobby
     
-    Following up on his 2006 documentary, The Most Hated Family in America, Louis Theroux returns to Topeka, Kansas, for a week-long visit with the Westboro Baptist Church.He again joins the Phelps fami](https://documentaryheaven.com/americas-most-hated-family-in-crisis/ "America’s Most Hated Family in Crisis")
+    They say money is the root of all evil. Well, nowhere is this more true than in US politics. The 2012 US presidential and congressional elections were the most expensive in history, costing six billio](https://documentaryheaven.com/money-lobby/ "The Money Lobby")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
