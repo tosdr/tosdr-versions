@@ -376,7 +376,7 @@ As a response to Office of Management and Budget (OMB) Memo M-10-06, Open Govern
 
 ### Third-party websites
 
-Your activity on the third-party websites that HealthCare.gov links to (like Facebook or Twitter) is governed by the security and privacy policies of those websites. You should review the privacy policies of all websites before using them so that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
+Your activity on the third-party websites that HealthCare.gov links to (like Facebook or X, formerly Twitter) is governed by the security and privacy policies of those websites. You should review the privacy policies of all websites before using them so that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party website to match your preferences.
 
 ### Help On Demand
 
@@ -510,7 +510,7 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 
 [Continue](https://www.facebook.com/policies/)Cancel
 
-[TwitterThis link goes to an external site](https://twitter.com/privacy/)
+[X, formerly TwitterThis link goes to an external site](https://twitter.com/privacy/)
 
 You are leaving HealthCare.gov.
 ===============================
@@ -589,7 +589,7 @@ Additional privacy information
 
 If you would like more information about the application of the Privacy Act at CMS, read the Privacy Act of 1974 located at [http://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/PrivacyActof1974.html](http://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/Privacy/PrivacyActof1974.html).
 
-Updated: October 19, 2023
+Updated: July 29, 2024
 
 [Email](mailto:?subject=Health%20Insurance%20Marketplace%C2%AE%20Privacy%20Policy&body=https%3A%2F%2Fwww.healthcare.gov%2Fprivacy%2F)Print
 
