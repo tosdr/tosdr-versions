@@ -44,7 +44,7 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/c/baby-umstand-ab-22-07/a10051119?tabCode=Current_Sales_Week)
+2. [Filial-Angebote](https://www.lidl.de/c/xxl-ab-29-07/a10051500?tabCode=Current_Sales_Week)
 3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 4. [Sale](https://www.lidl.de/q/query/supersale)
 5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -71,7 +71,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/baby-umstand-ab-22-07/a10051119?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/xxl-ab-29-07/a10051500?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
