@@ -1,4 +1,4 @@
-[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=66B49DB0-263C-4C29-A0A3-7317F2CA2627&ad=dirN "https://www.fastquicksearch.com/?ueid=66B49DB0-263C-4C29-A0A3-7317F2CA2627&ad=dirN")
+[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=CC574DC5-01FD-448E-8E9A-5F7AC90DE7BB&ad=dirN "https://www.fastquicksearch.com/?ueid=CC574DC5-01FD-448E-8E9A-5F7AC90DE7BB&ad=dirN")
 
 Ask Media Group Privacy Policy
 
@@ -302,9 +302,9 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=66B49DB0-263C-4C29-A0A3-7317F2CA2627&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=66B49DB0-263C-4C29-A0A3-7317F2CA2627&ad=dirN "Terms of Service")
-* [About us](https://www.fastquicksearch.com/about?ueid=66B49DB0-263C-4C29-A0A3-7317F2CA2627&ad=dirN "About us")
+* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=CC574DC5-01FD-448E-8E9A-5F7AC90DE7BB&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=CC574DC5-01FD-448E-8E9A-5F7AC90DE7BB&ad=dirN "Terms of Service")
+* [About us](https://www.fastquicksearch.com/about?ueid=CC574DC5-01FD-448E-8E9A-5F7AC90DE7BB&ad=dirN "About us")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
