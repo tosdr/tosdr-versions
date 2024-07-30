@@ -94,31 +94,31 @@ Add to cart
 
 ORDER TODAY GUARANTEED DELIVERY BEFORE 31st October
 
-Discount on HALLOWEEN SALE - Today Only
+Discount on HALLOWEEN SALE – Today Only
 
 Flat $20 Off Over $150 Apply Coupon Code HS20 At Checkout
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2024/02/hlj-sp.jpg)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2075%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2022/03/box.png)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2040%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
 EXPRESS SHIPPING WORLD WIDE
 
 We Offers Free Shipping World Wide on All Orders
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2022/03/quality-inpection.png)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2040%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
 PRODUCT QUALITY INSPECTION
 
 All items are getting quality inspected before they get packaged and shipped out.
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2022/03/30-day-return.png)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2040%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
 RETURN POLICY
 
 Easy 30 Days Return Policy
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2022/03/world.png)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2040%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
 TRACKING NUMBER FOR EVERY ORDER
 
