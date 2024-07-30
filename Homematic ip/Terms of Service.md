@@ -137,9 +137,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-swdo-1-1.png.webp?itok=2ERxIaff)](https://homematic-ip.com/de/produkt/fenster-und-tuerkontakt-optisch)
             
             [Fenster- und Türkontakt](https://homematic-ip.com/de/produkt/fenster-und-tuerkontakt-optisch)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-sk13-1-1.png.webp?itok=OVrk2AHd)](https://homematic-ip.com/de/produkt/starter-set-heizen-wlan)
-            
-            [Starter-Set Heizen - WLAN](https://homematic-ip.com/de/produkt/starter-set-heizen-wlan)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_1.png.webp?itok=qOsDCRaf)](https://homematic-ip.com/de/produkt/app)
             
             [App](https://homematic-ip.com/de/produkt/app)
@@ -172,9 +169,6 @@ Menü
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-licht?f%5B0%5D=category%3A69)
     * [Beschattung](https://homematic-ip.com/de/produkte-beschattung?f%5B0%5D=category%3A72)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-sk15-1-1.png.webp?itok=tnZESylq)](https://homematic-ip.com/de/produkt/starter-set-beschattung-wlan)
-            
-            [Starter-Set Beschattung](https://homematic-ip.com/de/produkt/starter-set-beschattung-wlan)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-fbl-1-3.png.webp?itok=g1U6eEJM)](https://homematic-ip.com/de/produkt/jalousieaktor-unterputz)
             
             [Jalousieaktor – Unterputz](https://homematic-ip.com/de/produkt/jalousieaktor-unterputz)
@@ -222,9 +216,6 @@ Menü
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-sicherheit-und-alarm?f%5B0%5D=category%3A75)
     * [Zutritt](https://homematic-ip.com/de/produkte-zutritt?f%5B0%5D=category%3A96)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-sk14-1-1.png.webp?itok=BkcyurTY)](https://homematic-ip.com/de/produkt/starter-set-zutritt)
-            
-            [Starter Set Zutritt](https://homematic-ip.com/de/produkt/starter-set-zutritt)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-dld-1-7.png.webp?itok=DL9Ho-Bs)](https://homematic-ip.com/de/produkt/tuerschlossantrieb)
             
             [Türschlossantrieb](https://homematic-ip.com/de/produkt/tuerschlossantrieb)
@@ -324,6 +315,14 @@ Neue Homematic IP App veröffentlicht](https://homematic-ip.com/de/news/neue-hom
 News
 
 Homematic IP erweitert Produktsortiment in elegantem Anthrazit](https://homematic-ip.com/de/news/homematic-ip-erweitert-produktsortiment-elegantem-anthrazit)
+
+[Aug.
+
+01-03
+
+Event
+
+BAUHAUS Nürnberg: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-08-01-bauhaus-nuernberg)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/eula)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/eula)
