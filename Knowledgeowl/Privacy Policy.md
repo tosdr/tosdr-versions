@@ -280,8 +280,8 @@ Table of Contents Table of Contents Toggle navigation
     
     * [Homepage look and feel](javascript:void(0);)
         
-        * [Homepage overview](https://www.knowledgeowl.com/help/homepage-overview)Updated
-        * [Change the homepage welcome text](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)Updated
+        * [Homepage overview](https://www.knowledgeowl.com/help/homepage-overview)
+        * [Change the homepage welcome text](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)
         * [Add a background image to my homepage](https://www.knowledgeowl.com/help/add-homepage-background)
         * [Change the background image on my homepage](https://www.knowledgeowl.com/help/change-the-background-image-on-my-home-page)
         * [Remove the homepage welcome text](https://www.knowledgeowl.com/help/remove-home-page-title)
@@ -1213,7 +1213,7 @@ Table of Contents Table of Contents Toggle navigation
 Privacy policy[](https://www.knowledgeowl.com/help/pdfexport/id/65416cfb00d31b22877f7b54 "Download PDF")[](#)[](#)
 ==================================================================================================================
 
-Last Modified on 05/29/2024 5:27 pm EDT
+Last Modified on 07/29/2024 2:22 pm EDT
 
 ![](https://dyzz9obi78pm5.cloudfront.net/app/image/id/5fcf35aaad121cf32879c0b4/n/privacy-policy.svg)
 
@@ -1340,10 +1340,6 @@ If you have question about this Privacy Policy, please contact us at [support@kn
 
 While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so. To enhance the security of your account, we encourage you to enable our advanced security settings, like Force SSL Links and Single Sign-On.
 
-### Transferring Information
-
-KnowledgeOwl is a worldwide service. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S. and other countries, which may have rights and protections that are different from those in your home country.
-
 ### EU-U.S. Data Privacy Framework
 
 KnowledgeOwl complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom, and Switzerland to the United States. KnowledgeOwl has certified to the Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. KnowledgeOwl has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Data Privacy Framework Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  
@@ -1360,11 +1356,21 @@ PMB 30558
 Boulder, CO 80301  
 compliance@knowledgeowl.com 
 
-KnowledgeOwl commits to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner, and comply with the advice given by the panel and/or Commissioner, with regard to data transferred from the EU, UK, or Switzerland.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, KnowledgeOwl commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
 Under certain conditions, more fully described on the Data Privacy Framework website, you may invoke binding arbitration [](http://go.adr.org/privacyshieldfiling.html)when other dispute resolution procedures have been exhausted.
 
 We previously complied with the requirements of the EU-US Privacy Shield Framework in relation to our processing of personal data. 
+
+### Onward Transfer of Information
+
+KnowledgeOwl is a service available worldwide. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the United States of America. KnowledgeOwl also relies on certain sub-processors in order to support the services we provide. An up-to-date list of our sub-processors can be found here:
+
+[https://support.knowledgeowl.com/help/list-of-sub-processors](https://support.knowledgeowl.com/help/list-of-sub-processors)
+
+KnowledgeOwl reviews any sub-processors that we use to ensure that they provide the same level (or greater) of privacy protections that we do. We further ensure that any information processed by these sub-processors is done in a manner that is consistent with our own standards, and the standards we comply with as part of the EU-U.S. DPF. KnowledgeOwl only transfers data to sub-processors that is strictly necessary for the specified purpose of the sub-processor.
+
+In the event that we become aware that a sub-processor no longer provides the same privacy standards that we are obligated to uphold or that they are processing data in a manner inconsistent with our privacy agreements, we will take measures to cease any current or planned data transfers, and will work to remediate any unauthorized processing that may have occurred.
 
 ### Third Party Software
 
@@ -1382,13 +1388,15 @@ This document is based upon the [Automattic Privacy Policy](https://automattic.c
 
 Although most changes are likely to be minor, KnowledgeOwl may change its Privacy Policy from time to time. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or sending you a notification through e-mail or your dashboard). Your continued use of the Services after any change in this Privacy Policy will constitute your consent to such change.
 
+_July 29, 2024: Updated DPF language to reflect our commitment to cooperate with EU, UI, and Swiss data authorities as part of our DPF certification. Included additional language to ensure compliance with DPF principles around accountability of onward transfer of data._
+
 _March 27, 2024: Updated contact information to reflect our new compliance email and added language about the UK extension._
 
 _October 20, 2023: Updated EU-U.S. Data Privacy Framework to comply with updates to the program._
 
 _March 29, 2023:  Updated our contact information in the EU-US / Swiss-US Privacy Shield section to reflect our current mailing address._
 
-_May 23, 2018:  Updated the policy to be GDPR-compliant by cutting out legalese and using clear language._ _Informed individuals about KnowledgeOwl being  subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC); the possibility, under certain conditions, for the individual to invoke binding arbitration; and our liability in cases of onward transfers to third parties._
+_May 23, 2018:  Updated the policy to be GDPR-compliant by cutting out legalese and using clear language._ _Informed individuals about KnowledgeOwl being subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC); the possibility, under certain conditions, for the individual to invoke binding arbitration; and our liability in cases of onward transfers to third parties._
 
 ### Related Articles
 
