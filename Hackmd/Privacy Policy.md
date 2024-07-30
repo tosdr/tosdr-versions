@@ -19,7 +19,7 @@ HackMD Dev
 
 用開放寫作凝聚社群能量。 Build a community with open collaboration.
 
-[6](#) 72951[](#)
+[6](#) 73064[](#)
 
 * * *
 
