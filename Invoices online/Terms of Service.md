@@ -206,50 +206,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Shaun Gartshore
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=32087186)  
-AMS Ambu Medical Supplies
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=162405769)  
+Sportspro Management (Pty) Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6504398)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=22044703)  
+Wiselink Broadband Vryheid
 
-![valued client Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=155523230)  
-Local Print and Signs
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=197778669)  
+Qothiphango Mining
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=9776023)  
-Konsortium Operations (PTY) LTD
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=56877164)  
+TurboFibre
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=74576645)  
-Itroniq (Pty) Ltd
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=46397287)  
+OXYAIDER (PTY) LTD
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=66697171)  
-Oukraal Merino's
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=173136049)  
+PROGRAPHIX PTY LTD
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=101682503)  
-M's Frozen Delights
-
-![valued client New Beginnings Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=110551299)  
-New Beginnings Designs
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=159774373)  
-Lion Software Develepment
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=64656630)  
-Henry's Home Renovations
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6184012)  
-Desygn
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=136724954)  
-OrgChart Hosting Pty Ltd
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=4686977)  
-LEONARD
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=6363764)  
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=41419031)  
 VA AND M DEBT-AID (PTY) LTD
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=8f656f3721fef41a2c6442a03c9534ab1a6194bc4b07bb2e2c95d0b2aa110234&c=203177480)  
-WIP Digital Solutions
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=110405275)  
+MONSTER SECURITY GUARDING
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=74863277)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=147352961)  
+MSPCloud (Pty) Ltd
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=177357974)  
+Immediate Health (pty)ltd
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=121665801)  
+Karino Merinos ( PTY ) LTD
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=29038688)  
+African Roots
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=40836930)  
+Waterfinatics Swim School
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=8d45f9dad31fa7a25a7fd7e9c28dce6511134b74f02b69660230f88db2d7293e&c=190897899)  
+Know Informatics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
