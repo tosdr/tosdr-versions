@@ -179,34 +179,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/v4lpt.vpt.f006.yxn/en-US/icon_Pgq28HVr00MAT3oVYM_vG2G2vqeVN2CoKMw7klsrkDY=.png)
+[![](https://f-droid.org/repo/org.purplei2p.i2pd/en-US/icon_s8LzOD_2B2FH6LSuaQfSFbLiiF-Hams5GCRkChgpWeo=.png)
 
-#### VPT#003-GDP
+#### i2pd
 
-A simple android app for assisting you in your decisions](https://f-droid.org/en/packages/v4lpt.vpt.f006.yxn/)[![](https://f-droid.org/repo/v4lpt.vpt.f003.gdp/en-US/icon_ga-Izv0Wc1mPyoMPn1K9ozYh5dB2M-y794VmHYVzxZA=.png)
+Full-featured C++ implementation of I2P client](https://f-droid.org/en/packages/org.purplei2p.i2pd/)[![](https://f-droid.org/repo/org.piepmeyer.gauguin/en-US/icon_Pp0IthYj4RE6O_3BQcd_ApZWV8iNei9l_LspIKJIoak=.png)
 
-#### VPT#003-GDP
+#### Gauguin
 
-Simple android app for displaying pictures for a set amount of time.](https://f-droid.org/en/packages/v4lpt.vpt.f003.gdp/)[![](https://f-droid.org/repo/ru.nsu.bobrofon.easysshfs/en-US/icon_kq1Pf3Pki_NY4H4eu2bOC4cHKTzQtAj4xGFtEA3QEqU=.png)
+A Sudoku-like logic game](https://f-droid.org/en/packages/org.piepmeyer.gauguin/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
 
-#### EasySSHFS
+#### openHAB Beta
 
-Sshfs with ssh client and interface for Android.](https://f-droid.org/en/packages/ru.nsu.bobrofon.easysshfs/)
+Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)
 
-### Latest Apps
+### App più recenti
 
-[![](https://f-droid.org/repo/v4lpt.vpt.f006.yxn/en-US/icon_Pgq28HVr00MAT3oVYM_vG2G2vqeVN2CoKMw7klsrkDY=.png)
+[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
 
-#### VPT#003-GDP
+#### Podcini
 
-A simple android app for assisting you in your decisions](https://f-droid.org/en/packages/v4lpt.vpt.f006.yxn/)[![](https://f-droid.org/repo/v4lpt.vpt.f003.gdp/en-US/icon_ga-Izv0Wc1mPyoMPn1K9ozYh5dB2M-y794VmHYVzxZA=.png)
+Riproduttore e gestore di podcast facile da usare, flessibile e open source.](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/org.opensurge2d.surgeengine/en-US/icon_y00XnoBPnodoJADb489FZtgOI5j5dU_rSk2Wp55eHrI=.png)
 
-#### VPT#003-GDP
+#### Open Surge: motore di gioco retrò
 
-Simple android app for displaying pictures for a set amount of time.](https://f-droid.org/en/packages/v4lpt.vpt.f003.gdp/)[![](https://f-droid.org/repo/net.ygingras.minutemaze/en-US/icon_t8u6ZRswvunNq1DUU_RhT0hI-GQsquLJBXTNIPNr06w=.png)
+Un motore di gioco retrò con un platform divertente per realizzare i tuoi sogni!](https://f-droid.org/en/packages/org.opensurge2d.surgeengine/)[![](https://f-droid.org/repo/com.game.asteroids_revenge/en-US/icon_WSTO3sD5p5YqIA_I-yfluQsBroCqaP6EOsZPIcFeQaY=.png)
 
-#### Minute Maze
+#### La vendetta degli asteroidi
 
-Solve as many mazes as possible in before the time runs out.](https://f-droid.org/en/packages/net.ygingras.minutemaze/)
+Inferno di proiettili di sopravvivenza senza fine (basato su punteggi elevati).](https://f-droid.org/en/packages/com.game.asteroids_revenge/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-24, fdroid-website [2.245](https://gitlab.com/fdroid/fdroid-website/tree/c8ec380366)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-07-27, fdroid-website [2.245](https://gitlab.com/fdroid/fdroid-website/tree/c8ec380366)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
