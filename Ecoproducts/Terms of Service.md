@@ -1,3 +1,5 @@
+Notice: Our site will be down for maintenance on **August  1st from 11:00 AM to 4:00 PM MST**.
+
 Free Shipping On Orders Over $99, Restrictions Apply
 
 [Skip to main content](#main-content)
