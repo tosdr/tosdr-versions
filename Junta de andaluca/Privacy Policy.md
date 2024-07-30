@@ -147,7 +147,7 @@
     
     [La Junta](https://www.juntadeandalucia.es/organismos.html "La Junta")
     
-    ![](https://www.juntadeandalucia.es/sites/default/files/2024-05/Foto-oficial-Gobierno-240507.jpg) Consejo de Gobierno
+    ![Foto de familia del gobierno andaluz](https://www.juntadeandalucia.es/sites/default/files/2024-07/240730-JMM-Gobierno-andaluz-1.jpg) Consejo de Gobierno
     
     * [Presidente](https://juntadeandalucia.es/organismos/presidente.html "Presidente")
     * [Parlamento y otras instituciones](https://juntadeandalucia.es/organismos/parlamento.html "Parlamento y otras instituciones")
@@ -158,16 +158,19 @@
         * [Presidencia, Interior, Diálogo Social y Simplificación Administrativa](https://www.juntadeandalucia.es/organismos/presidenciainteriordialogosocialysimplificacionadministrativa.html)
         * [Economía, Hacienda y Fondos Europeos](https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos.html)
         * [Desarrollo Educativo y Formación Profesional](https://www.juntadeandalucia.es/organismos/desarrolloeducativoyformacionprofesional.html)
-        * [Empleo, Empresa y Trabajo Autónomo](https://www.juntadeandalucia.es/organismos/empleoempresaytrabajoautonomo.html)
-        * [Salud y Consumo](https://www.juntadeandalucia.es/organismos/saludyconsumo.html)
         * [Agricultura, Pesca, Agua y Desarrollo Rural](https://www.juntadeandalucia.es/organismos/agriculturapescaaguaydesarrollorural.html)
+        * [Salud y Consumo](https://www.juntadeandalucia.es/organismos/saludyconsumo.html)
+        * [Empleo, Empresa y Trabajo Autónomo](https://www.juntadeandalucia.es/organismos/empleoempresaytrabajoautonomo.html)
         * [Universidad, Investigación e Innovación](https://www.juntadeandalucia.es/organismos/universidadinvestigacioneinnovacion.html)
-        * [Turismo, Cultura y Deporte](https://www.juntadeandalucia.es/organismos/turismoculturaydeporte.html)
+        * [Turismo y Andalucía Exterior (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/turismoyandaluciaexterior.html)
         * [Fomento, Articulación del Territorio y Vivienda](https://www.juntadeandalucia.es/organismos/fomentoarticulaciondelterritorioyvivienda.html)
         * [Inclusión Social, Juventud, Familias e Igualdad](https://www.juntadeandalucia.es/organismos/inclusionsocialjuventudfamiliaseigualdad.html)
-        * [Sostenibilidad, Medio Ambiente y Economía Azul](https://www.juntadeandalucia.es/organismos/sostenibilidadmedioambienteyeconomiaazul.html)
+        * [Cultura y Deporte (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/culturaydeporte.html)
+        * [Sostenibilidad y Medio Ambiente (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/sostenibilidadymedioambiente.html)
         * [Industria, Energía y Minas](https://www.juntadeandalucia.es/organismos/industriaenergiayminas.html)
         * [Justicia, Administración Local y Función Pública](https://www.juntadeandalucia.es/organismos/justiciaadministracionlocalyfuncionpublica.html)
+        * [Turismo, Cultura y Deporte (consejería extinta)](https://www.juntadeandalucia.es/organismos/turismoculturaydeporte.html)
+        * [Sostenibilidad, Medio Ambiente y Economía Azul (consejería extinta)](https://www.juntadeandalucia.es/organismos/sostenibilidadmedioambienteyeconomiaazul.html)
     
 * [Servicios](https://www.juntadeandalucia.es/servicios.html "Servicios")
     
