@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[SCUF ENVISION PRO Wireless Gaming Controller
-
-A console-style controller for PCs.
-
-SHOP NOW
-
-_keyboard\_arrow\_right_](https://drop.com/buy/scuf-envision-pro-wireless-gaming-controller-for-pc-refurbished)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
