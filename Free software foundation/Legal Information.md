@@ -1,24 +1,3 @@
-  
-
-_​_
-
-We need your help!
-------------------
-
-Like many organizations, the FSF is suffering financially. Operational costs have risen and revenue has not kept up, because people all over the world are going through the same challenges as we are. The FSF has an important role to play for computer users globally for years to come, and we still have a lot of work to do.
-
-Can you support our efforts by joining the FSF as an associate member for only $12/month ($6 for students), introducing a friend to free software, or gifting a membership?
-
-By supporting us today, you help secure the future of software freedom!
-
-[Join](https://my.fsf.org/join?mtm_campaign=spring24&mtm_source=modal) | [Convince a friend](https://www.fsf.org/appeal?mtm_campaign=spring24&mtm_source=modal) | [Gift a membership](https://my.fsf.org/gift-a-membership?mtm_campaign=spring24&mtm_source=modal)
-
- [Join](https://my.fsf.org/join?mtm_campaign=spring24&mtm_source=modal)
-
- [Renew](https://my.fsf.org/renew?mtm_campaign=spring24&mtm_source=modal)
-
- [Donate](https://my.fsf.org/donate?mtm_campaign=spring24&mtm_source=modal)
-
 [Skip to content](#content), [sitemap](https://www.fsf.org/sitemap#content) or [skip to search](https://www.fsf.org/search_form#content).
 
 [![](//static.fsf.org/common/img/logo-new.png)](https://www.fsf.org/)
@@ -169,6 +148,14 @@ Enter your email address to receive our monthly newsletter, the
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
 [![RSS feed](/static/fsforg/css/img/rss.gif)](https://www.fsf.org/static/fsforg/rss/events.xml "Subscribe to an RSS feed of FSF events")
+
+[Upcoming Events](https://www.fsf.org/events)
+
+ [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Don't miss Craig Topham's talk at FOSSY 2024 in Portland, OR on August 2](https://www.fsf.org/events/craig-tophams-talk-at-fossy-2024-in-portland-or-on-august-2) Aug 02, 2024 05:30 PM - 06:30 PM
+
+[Previous events…](https://www.fsf.org/events/aggregator/previous)
+
+[Upcoming events…](https://www.fsf.org/events)
 
  
 
