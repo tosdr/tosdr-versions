@@ -80,7 +80,9 @@ All PDF tools
         * [Business](https://www.ilovepdf.com/business)
         * [Education](https://www.ilovepdf.com/education)
         * [Developers](https://developer.ilovepdf.com/)
+    
     * [Pricing](https://www.ilovepdf.com/pricing)
+    * [Security](https://www.ilovepdf.com/help/security)
     
     * Language
         
@@ -522,8 +524,8 @@ Last revision: 2023-09-28
 iLovePDF
 
 * [Home](https://www.ilovepdf.com/)
-* [Features](https://www.ilovepdf.com/features)
 * [Pricing](https://www.ilovepdf.com/pricing)
+* [Security](https://www.ilovepdf.com/help/security)
 * [Tools](https://www.ilovepdf.com/help/documentation)
 * [FAQ](https://www.ilovepdf.com/help/faq)
 
@@ -532,7 +534,7 @@ Product
 * [iLovePDF Desktop](https://www.ilovepdf.com/desktop)
 * [iLovePDF Mobile](https://www.ilovepdf.com/mobile)
 * [Developers](https://developer.ilovepdf.com/)
-* [Wordpress Plugin](https://wordpress.org/plugins/ilovepdf/)
+* [Features](https://www.ilovepdf.com/features)
 * [iloveimg.com](https://www.iloveimg.com/)
 
 Solutions
