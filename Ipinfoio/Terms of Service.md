@@ -147,6 +147,62 @@ Contact Us
 
 If you have any questions about these Terms, please contact us at: [support@ipinfo.io](mailto:support@ipinfo.io).
 
+* **Database Downloads**
+    
+    * [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database)
+    * [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)
+    * [IP to Company Database](https://ipinfo.io/products/ip-company-database)
+    * [IP to Privacy Detection Database](https://ipinfo.io/products/anonymous-ip-database)
+    * [IP to Mobile Carrier Database](https://ipinfo.io/products/mobile-ip-database)
+    * [IP to Hosted Domains Database](https://ipinfo.io/products/hosted-domains-database)
+    * [IP to ASN Database](https://ipinfo.io/products/asn-database)
+    * [IP Whois Database](https://ipinfo.io/products/whois-database)
+    * [Free IP to Country + ASN](https://ipinfo.io/products/free-ip-database)
+    
+* **API Products**
+    
+    * [IP Geolocation API](https://ipinfo.io/products/ip-geolocation-api)
+    * [IP Ranges API](https://ipinfo.io/products/ranges-api)
+    * [Privacy Detection API](https://ipinfo.io/products/proxy-vpn-detection-api)
+    * [IP to Company](https://ipinfo.io/products/ip-company-api)
+    * [ASN API](https://ipinfo.io/products/asn-api)
+    * [Hosted Domains API](https://ipinfo.io/products/reverse-ip-api)
+    * [IP to Mobile Carrier](https://ipinfo.io/products/ip-carrier-api)
+    * [Abuse Contact API](https://ipinfo.io/products/ip-abuse-contact-api)
+    * [IP Whois API](https://ipinfo.io/products/whois-api)
+    
+* **Data**
+    
+    * [Our data](https://ipinfo.io/ip-data)
+    * [My IP Address](https://ipinfo.io/what-is-my-ip)
+    * [Tools](https://ipinfo.io/tools)
+    * [Country Internet Data](https://ipinfo.io/countries)
+    * [Global Geolocation Accuracy](https://ipinfo.io/accuracy)
+    * [IP Address Tags](https://ipinfo.io/tags)
+    * [Hosted domains by ASNs](https://ipinfo.io/hosting)
+    * [IP Ranges](https://ipinfo.io/ips)
+    * [Open access](https://ipinfo.io/products/free-ip-database)
+    
+* **Resources**
+    
+    * [Documentation](https://ipinfo.io/developers)
+    * [Libraries](https://ipinfo.io/developers/libraries)
+    * [Help Centre](https://ipinfo.io/faq)
+    * [Blog](https://ipinfo.io/blog)
+    * [E-books](https://ipinfo.io/e-books)
+    * [Use cases](https://ipinfo.io/use-cases)
+    * [Integrations](https://ipinfo.io/integrations)
+    * [What is an IP address?](https://ipinfo.io/ip-address-information)
+    
+* **Company**
+    
+    * [About](https://ipinfo.io/about)
+    * [Careers](https://ipinfo.io/jobs)
+    * [Community](https://ipinfo.io/community)
+    * [Customers](https://ipinfo.io/customers)
+    * [Contact Support](https://ipinfo.io/support)
+    
+
 * Database Downloads
     * [IP Geolocation Database](https://ipinfo.io/products/ip-geolocation-database)
     * [Abuse Contact Database](https://ipinfo.io/products/ip-abuse-contact-database)
