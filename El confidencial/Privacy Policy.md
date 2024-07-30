@@ -386,4 +386,5 @@ Volver Arriba
 * [Configuración de cookies](javascript:Didomi.preferences.show(); "Configuración de cookies")
 * Auditado por GFK
 * [Datos de mercado proporcionados por TradingView](https://es.tradingview.com/ "Datos de mercado proporcionados por TradingView")
-* [Argentina Colombia](https://www.elconfidencial.com/deportes/2024-07-15/argentina-colombia-copa-america-final-hoy-directo_3924258/ "Argentina Colombia")
+* [JJOO](https://www.elconfidencial.com/deportes/juegos-olimpicos/2024-07-29/juegos-olimpicos-paris-2024-hoy-directo_3932964/ "JJOO")
+* [Elecciones Venezuela](https://www.elconfidencial.com/mundo/2024-07-28/elecciones-venezuela-resultado-2024-hoy-directo_3932241/ "Elecciones Venezuela")
