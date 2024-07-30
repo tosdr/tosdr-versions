@@ -36,7 +36,7 @@
 
 [Sport](https://www.gbnews.uk/sport/)
 
-[Football](https://www.gbnews.uk/sport/football/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
+[Football](https://www.gbnews.uk/sport/football/)[Olympics](https://www.gbnews.uk/sport/olympics/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
 
 [Lifestyle](https://www.gbnews.uk/lifestyle/)
 
@@ -284,6 +284,13 @@ The detail – the key information you should be aware of
 _The practices described in this privacy policy statement are current as of 1st February 2023._
 
 _Updated 10th November 2023_
+
+[SOUTHPORT LATEST](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+------------------------------------------------------------------------------------------
+
+### [Taylor Swift issues statement after 'horror' attack on children's dance class](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+
+1722335125.088
 
 About Us
 
