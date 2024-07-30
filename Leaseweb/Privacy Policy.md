@@ -66,6 +66,8 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [VMware vSphere](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-sphere "VMware vSphere")
     
+    [VMware HCI](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-hci "VMware HCI")
+    
     [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
     
     [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
@@ -115,8 +117,6 @@ Skip to Header Skip to Main Content Skip to Footer
     [Acronis](https://www.leaseweb.com/en/products-services/back-up/acronis "Acronis")
     
     [Veeam](https://www.leaseweb.com/en/products-services/back-up/veeam "Veeam")
-    
-    [Server and Cloud Migration](https://www.leaseweb.com/en/products-services/server-cloud-migration "Server and Cloud Migration")
     
     [Service Levels](https://www.leaseweb.com/en/products-services/service-level-agreements "Service Levels")
     
@@ -324,6 +324,8 @@ Language
     
     [VMware vSphere](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-sphere "VMware vSphere")
     
+    [VMware HCI](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-hci "VMware HCI")
+    
     [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
     
     [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
@@ -373,8 +375,6 @@ Language
     [Acronis](https://www.leaseweb.com/en/products-services/back-up/acronis "Acronis")
     
     [Veeam](https://www.leaseweb.com/en/products-services/back-up/veeam "Veeam")
-    
-    [Server and Cloud Migration](https://www.leaseweb.com/en/products-services/server-cloud-migration "Server and Cloud Migration")
     
     [Service Levels](https://www.leaseweb.com/en/products-services/service-level-agreements "Service Levels")
     
