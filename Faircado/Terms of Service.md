@@ -48,12 +48,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 #### Das könnte dir auch gefallen
 
-[![A hand covered in green paint holds a leaf between its fingers](https://faircado.de/wp-content/uploads/2022/08/A-hand-covered-in-green-paint-holds-a-leaf-between-its-fingers.jpeg)](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
-
-### [How do consumers embrace sustainability?](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
-
-[mehr lesen](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
-
 [![Young boy drawing on a piece of paper](https://faircado.de/wp-content/uploads/2022/09/Young-boy-drawing-on-a-piece-of-paper.jpeg)](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
 
 ### [How To Teach Pre-Schoolers About Recycling](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
@@ -84,12 +78,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/why-you-need-a-personal-sustainability-plan/)
 
-[![gray fabric loveseat near brown wooden table](https://faircado.de/wp-content/uploads/2023/01/3wyldrjxh-e-1.jpg)](https://faircado.de/mag/how-to-improve-your-homes-sustainability/)
-
-### [How to Improve Your Home’s Sustainability?](https://faircado.de/mag/how-to-improve-your-homes-sustainability/)
-
-[mehr lesen](https://faircado.de/mag/how-to-improve-your-homes-sustainability/)
-
 [![black and white floral long sleeve shirt](https://faircado.de/wp-content/uploads/2023/01/fouvdmgxopi.jpg)](https://faircado.de/mag/why-reduce-consuming-fast-fashion-and-how/)
 
 ### [Why Reduce Consuming Fast Fashion and How?](https://faircado.de/mag/why-reduce-consuming-fast-fashion-and-how/)
@@ -102,13 +90,19 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/benefits-of-buying-second-hand/)
 
+[![Colorful shopping bags](https://faircado.de/wp-content/uploads/2023/02/colorful-shopping-bags.jpg)](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+
+### [Why Do We Buy Things We Do not Really Need?](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+
+[mehr lesen](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+
+[![text](https://faircado.de/wp-content/uploads/2023/01/zpvjna7yz6q.jpg)](https://faircado.de/mag/what-is-circular-economy/)
+
+### [What is Circular Economy?](https://faircado.de/mag/what-is-circular-economy/)
+
+[mehr lesen](https://faircado.de/mag/what-is-circular-economy/)
+
 [Mehr Anzeigen](#)
-
-[![A hand covered in green paint holds a leaf between its fingers](https://faircado.de/wp-content/uploads/2022/08/A-hand-covered-in-green-paint-holds-a-leaf-between-its-fingers.jpeg)](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
-
-### [How do consumers embrace sustainability?](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
-
-[mehr lesen](https://faircado.de/mag/how-do-consumers-embrace-sustainability/)
 
 [![Young boy drawing on a piece of paper](https://faircado.de/wp-content/uploads/2022/09/Young-boy-drawing-on-a-piece-of-paper.jpeg)](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
 
@@ -121,6 +115,12 @@ Terms and Conditions of the 100€ Voucher Giveaway
 ### [Sustainable Resolutions: 19 Green Ideas for the New Year](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
 
 [mehr lesen](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
+
+[![Footprint in the sand surrounded by dead leaves, flowers and stones](https://faircado.de/wp-content/uploads/2022/09/Footprint-in-the-sand-surrounded-by-dead-leaves-flowers-and-stones.jpeg)](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+
+### [Why Should We Care About our Carbon Footprint?](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+
+[mehr lesen](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
 
 [Mehr Anzeigen](#)
 
