@@ -567,28 +567,25 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![Two nonprofit professionals plan how to collect and use donor testimonials.](/sites/default/files/styles/card_image_short/public/2023-05/bonterra_how-to-collect-and-use-donor-testimonials-for-your-nonprofit_feature-min_0.jpg?h=9855f42d&itok=y2eU0UZo)
+* ![Two nonprofit professionals strategize how to share information about tax-deductible membership dues with supporters.](/sites/default/files/styles/card_image_short/public/2023-05/gettyimages-1171809453.jpg?h=d0633ac3&itok=5Gwb5szS)
     
-    ### [How to collect and use donor testimonials for your nonprofit](https://www.everyaction.com/blog/collect-and-use-nonprofit-testimonials)
+    ### [Donor database buyer’s guide: Choosing the best solution](https://www.everyaction.com/blog/donor-database)
     
     * Digital communications & marketing
     * Nonprofits
     * Donor Engagement
     
-* ![A young doctor shares closed-loop referral information from his tablet with an older patient. ](/sites/default/files/styles/card_image_short/public/2023-05/istock-1373659740.jpg?h=644b3b1a&itok=-xypDATr)
+* ![Two nonprofit professionals strategize how to share information about tax-deductible membership dues with supporters.](/sites/default/files/styles/card_image_short/public/2023-05/gettyimages-1171809453.jpg?h=d0633ac3&itok=5Gwb5szS)
     
-    ### [How closed-loop referrals help retain program participants](https://www.everyaction.com/blog/closed-loop-referrals-retain-program-participants)
+    ### [Choosing the best donor database software: A buyer’s guide](https://www.everyaction.com/blog/donor-databases)
     
-    * Coordinating social services
+    * Digital communications & marketing
     * Nonprofits
-    * Public agencies
-    * Case Management
-    * Healthcare
-    * Human services
+    * Donor Engagement
     
-* ![Four nonprofit staff members sit around an office table and discuss how to increase transparency with charity watchdogs.](/sites/default/files/styles/card_image_short/public/2023-05/charity-watchdogs_feature.jpg?h=9dd951d5&itok=VajBaUBw)
+* ![Two nonprofit professionals plan how to collect and use donor testimonials.](/sites/default/files/styles/card_image_short/public/2023-05/bonterra_how-to-collect-and-use-donor-testimonials-for-your-nonprofit_feature-min_0.jpg?h=9855f42d&itok=y2eU0UZo)
     
-    ### [Charity watchdogs: Increase your nonprofit’s transparency](https://www.everyaction.com/blog/charity-watchdogs)
+    ### [How to collect and use donor testimonials for your nonprofit](https://www.everyaction.com/blog/collect-and-use-nonprofit-testimonials)
     
     * Digital communications & marketing
     * Nonprofits
