@@ -31,25 +31,25 @@ close mobile menu
     * [Explore buy through us](https://www.gsa.gov/buy-through-us?topnav=buy-through-us)
     * [Government property for sale or lease
         
-        Toggle submenu](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal?topnav=buy-through-us)
+        Toggle submenu](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease?topnav=buy-through-us)
         
-        * [Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal/personal-property-for-reuse-sale?topnav=buy-through-us)
-        * [Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal/surplus-real-property-available-for-public-use?topnav=buy-through-us)
-        * [Real property sales](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal/property-sales?topnav=buy-through-us)
-        * [Vehicle sales](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
+        * [Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease/personal-property-for-reuse-and-sale?topnav=buy-through-us)
+        * [Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/overview/surplus-real-property-available-for-public-use?topnav=buy-through-us)
+        * [Real property sales](https://www.gsa.gov/real-estate/real-estate-services/overview/property-sales?topnav=buy-through-us)
+        * [Vehicle sales](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
         
     * [Products and services
         
-        Toggle submenu](https://www.gsa.gov/buy-through-us/products-services?topnav=buy-through-us)
+        Toggle submenu](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us)
         
-        * [Facilities and construction](https://www.gsa.gov/buy-through-us/products-services/facilities-construction?topnav=buy-through-us)
-        * [Human capital](https://www.gsa.gov/buy-through-us/products-services/human-capital?topnav=buy-through-us)
-        * [Industrial products and services](https://www.gsa.gov/buy-through-us/products-services/industrial-products-services?topnav=buy-through-us)
-        * [Information technology](https://www.gsa.gov/technology/technology-products-services?topnav=buy-through-us)
-        * [Office management](https://www.gsa.gov/buy-through-us/products-services/office-management?topnav=buy-through-us)
-        * [Professional services](https://www.gsa.gov/buy-through-us/products-services/professional-services?topnav=buy-through-us)
-        * [Security and protection](https://www.gsa.gov/buy-through-us/products-services/security-protection?topnav=buy-through-us)
-        * [Transportation and logistics services](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services?topnav=buy-through-us)
+        * [Facilities and construction](https://www.gsa.gov/buy-through-us/products-and-services/facilities-and-construction?topnav=buy-through-us)
+        * [Human capital](https://www.gsa.gov/buy-through-us/products-and-services/human-capital?topnav=buy-through-us)
+        * [Industrial products and services](https://www.gsa.gov/buy-through-us/products-and-services/industrial-products-and-services?topnav=buy-through-us)
+        * [Information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=buy-through-us)
+        * [Office management](https://www.gsa.gov/buy-through-us/products-and-services/office-management?topnav=buy-through-us)
+        * [Professional services](https://www.gsa.gov/buy-through-us/products-and-services/professional-services?topnav=buy-through-us)
+        * [Security and protection](https://www.gsa.gov/buy-through-us/products-and-services/gsa-security-and-protection-category?topnav=buy-through-us)
+        * [Transportation and logistics services](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services?topnav=buy-through-us)
         * [Travel and lodging](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us)
         
     * [Purchasing programs
@@ -57,28 +57,28 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/buy-through-us/purchasing-programs?topnav=buy-through-us)
         
         * [Multiple award schedule](https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule?topnav=buy-through-us)
-        * [SmartPay (charge card services)](https://smartpay.gsa.gov/?source=gsa.gov-buy-through-us)
-        * [Assisted acquisition](https://www.gsa.gov/buy-through-us/purchasing-programs/assisted-acquisition?topnav=buy-through-us)
+        * [SmartPay (charge card services)](https://smartpay.gsa.gov/?topnav=buy-through-us)
+        * [Assisted acquisition](https://www.gsa.gov/buy-through-us/purchasing-programs/assisted-acquisition-services?topnav=buy-through-us)
         * [Commercial platforms](https://www.gsa.gov/buy-through-us/purchasing-programs/commercial-platforms?topnav=buy-through-us)
         * [Emergency acquisition basic ordering agreements](https://www.gsa.gov/governmentwide-initiatives/emergency-response/emergency-acquisition-basic-ordering-agreements?topnav=buy-through-us)
         * [Federal strategic sourcing initiative](https://www.gsa.gov/buy-through-us/purchasing-programs/federal-strategic-sourcing-initiative?topnav=buy-through-us)
-        * [Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-logistics-services/fleet-management?topnav=buy-through-us)
-        * [HCaTS and HCaTS SB](https://www.gsa.gov/buy-through-us/products-services/human-capital/human-capital-and-training-solutions-hcats?topnav=buy-through-us)
-        * [OASIS and OASIS SB](https://www.gsa.gov/buy-through-us/products-services/professional-services/buy-services/oasis-and-oasis-small-business?topnav=buy-through-us)
+        * [Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management?topnav=buy-through-us)
+        * [HCaTS and HCaTS SB](https://www.gsa.gov/buy-through-us/products-and-services/human-capital/human-capital-and-training-solutions?topnav=buy-through-us)
+        * [OASIS and OASIS SB](https://www.gsa.gov/buy-through-us/products-and-services/professional-services/buy-services/oasis-and-oasis-small-business?topnav=buy-through-us)
         * [Requisition programs](https://www.gsa.gov/buy-through-us/purchasing-programs/requisition-programs?topnav=buy-through-us)
-        * [Technology programs](https://www.gsa.gov/technology/technology-purchasing-programs?topnav=buy-through-us)
+        * [Technology programs](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs?topnav=buy-through-us)
         * [8(a) set asides on GSA contracts](https://www.gsa.gov/buy-through-us/purchasing-programs/how-to-use-8a-on-gsa-contracts?topnav=buy-through-us)
         
     * [Shared services
         
         Toggle submenu](https://www.gsa.gov/buy-through-us/shared-services?topnav=buy-through-us)
         
-        * [Charge cards and payments (SmartPay)](https://smartpay.gsa.gov/?source=gsa.gov-buy-through-us)
-        * [Disposal of excess property](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal?topnav=buy-through-us)
-        * [Fleet management](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services/fleet-management?topnav=buy-through-us)
+        * [Charge cards and payments (SmartPay)](https://smartpay.gsa.gov/?topnav=buy-through-us)
+        * [Disposal of excess property](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease?topnav=buy-through-us)
+        * [Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management?topnav=buy-through-us)
         * [Interagency invoicing (G-Invoicing)](https://www.gsa.gov/buy-through-us/shared-services/ginvoicing?topnav=buy-through-us)
         * [Payroll services](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services?topnav=buy-through-us)
-        * [Quality service management offices](https://ussm.gsa.gov/?source=gsa.gov-buy-through-us)
+        * [Quality service management offices](https://ussm.gsa.gov/?topnav=buy-through-us)
         * [Website and digital services](https://www.gsa.gov/technology/build-websites-and-digital-services?topnav=buy-through-us)
         
     
@@ -107,7 +107,7 @@ close mobile menu
         
         * [Register your business](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/register-your-business?topnav=sell-to-government)
         * [Certify as a small business](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/certify-as-a-small-business?topnav=sell-to-government)
-        * [Become a schedule holder](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/become-a-schedule-holder?topnav=sell-to-government)
+        * [Become a schedule holder](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/become-a-multiple-award-schedule-holder?topnav=sell-to-government)
         * [Market your business](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/market-your-business?topnav=sell-to-government)
         * [Research active solicitations](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/research-active-solicitations?topnav=sell-to-government)
         * [Respond to a solicitation](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/respond-to-a-solicitation?topnav=sell-to-government)
@@ -139,7 +139,7 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/real-estate/design-and-construction?topnav=real-estate)
         
         * [3D-4D building information modeling](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling?topnav=real-estate)
-        * [Art in architecture | Fine arts](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecturefine-arts?topnav=real-estate)
+        * [Art in architecture | Fine arts](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecture-fine-arts?topnav=real-estate)
         * [Computer-aided design standards](https://www.gsa.gov/real-estate/design-and-construction/computeraided-design-standards?topnav=real-estate)
         * [Commissioning](https://www.gsa.gov/real-estate/design-and-construction/commissioning?topnav=real-estate)
         * [Design excellence](https://www.gsa.gov/real-estate/design-and-construction/design-excellence-program?topnav=real-estate)
@@ -153,10 +153,10 @@ close mobile menu
         
         * [Facilities operations](https://www.gsa.gov/real-estate/facilities-management/facilities-operations?topnav=real-estate)
         * [Security](https://www.gsa.gov/real-estate/facilities-management/security?topnav=real-estate)
-        * [Smart buildings](https://www.gsa.gov/governmentwide-initiatives/climate-action-and-sustainability?topnav=real-estate#buildings)
+        * [Smart buildings](https://www.gsa.gov/climate-action-and-sustainability?topnav=real-estate)
         * [Tenant services](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
         * [Utility services](https://www.gsa.gov/real-estate/facilities-management/utility-services?topnav=real-estate)
-        * [Water quality management](https://www.gsa.gov/real-estate/facilities-management/water-quality-management "Water quality management")
+        * [Water quality management](https://www.gsa.gov/real-estate/facilities-management/water-quality-management?topnav=real-estate "Water quality management")
         
     * [Historic preservation
         
@@ -175,7 +175,7 @@ close mobile menu
         
         * [Courthouse program](https://www.gsa.gov/real-estate/gsa-properties/courthouse-program?topnav=real-estate)
         * [Land ports of entry](https://www.gsa.gov/real-estate/gsa-properties/land-ports-of-entry-and-the-bipartisan-infrastructure-law?topnav=real-estate)
-        * [Prospectus library](https://www.gsa.gov/real-estate/gsa-properties/capital-investment-and-leasing-program-prospectus-library?topnav=real-estate)
+        * [Prospectus library](https://www.gsa.gov/real-estate/gsa-properties/capital-investment-and-leasing-prospectus-library?topnav=real-estate)
         * [Regional buildings](https://www.gsa.gov/real-estate/gsa-properties/regional-buildings?topnav=real-estate)
         * [Renting property](https://www.gsa.gov/real-estate/gsa-properties/renting-gsa-property?topnav=real-estate)
         * [Visiting public buildings](https://www.gsa.gov/real-estate/gsa-properties/visiting-public-buildings?topnav=real-estate)
@@ -185,15 +185,15 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/real-estate/real-estate-services?topnav=real-estate)
         
         * [Leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing?topnav=real-estate)
-        * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal?topnav=real-estate)
-        * [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-rs-program?topnav=real-estate)
-        * [Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-procedures?topnav=real-estate)
+        * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate)
+        * [Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
+        * [Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-and-procedures?topnav=real-estate)
         * [Site selection and relocation](https://www.gsa.gov/real-estate/real-estate-services/site-selection-relocation?topnav=real-estate)
         * [For businesses seeking opportunities](https://www.gsa.gov/real-estate/real-estate-services/for-businesses-seeking-opportunities?topnav=real-estate)
         * [For federal customers](https://www.gsa.gov/real-estate/real-estate-services/for-federal-customers?topnav=real-estate)
-        * [For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate-services)
+        * [For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
         
-    * [Workplace](https://www.gsa.gov/real-estate/workplace)
+    * [Workplace](https://www.gsa.gov/real-estate/workplace?topnav=real-estate)
     
     Featured Topics - Real Estate
     -----------------------------
@@ -213,20 +213,20 @@ close mobile menu
         * [Acquisition management policy](https://www.gsa.gov/policy-regulations/policy/acquisition-policy?topnav=policy-regulations)
         * [Aviation management policy](https://www.gsa.gov/policy-regulations/policy/aviation-management-policy?topnav=policy-regulations)
         * [Information technology policy](https://www.gsa.gov/policy-regulations/policy/information-technology-policy?topnav=policy-regulations)
-        * [Real property management policy](https://www.gsa.gov/policy-regulations/policy/real-property-policy?topnav=policy-regulations)
+        * [Real property management policy](https://www.gsa.gov/policy-regulations/policy/real-property-policy-division-overview?topnav=policy-regulations)
         * [Relocation management policy](https://www.gsa.gov/policy-regulations/policy/employee-relocation-management-policy?topnav=policy-regulations)
-        * [Travel management policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy?topnav=policy-regulations)
+        * [Travel management policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy-overview?topnav=policy-regulations)
         * [Vehicle management policy](https://www.gsa.gov/policy-regulations/policy/vehicle-management-policy?topnav=policy-regulations)
         
     * [Regulations
         
         Toggle submenu](https://www.gsa.gov/policy-regulations/regulations?topnav=policy-regulations)
         
-        * [Federal acquisition regulations](https://acquisition.gov/?source=gsa.gov-policy-regulations)
+        * [Federal acquisition regulations](https://acquisition.gov/?topnav=policy-regulations)
         * [Federal management regulations](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation?topnav=policy-regulations)
         * [Federal travel regulations](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation?topnav=policy-regulations)
-        * [GSA acquisition manual](https://acquisition.gov/browse/index/gsam?source=gsa.gov-policy-regulations)
-        * [Managing the federal rulemaking process](https://www.gsa.gov/policy-regulations/regulations/managing-the-federal-rulemaking-process?topnav=policy-regulations)
+        * [GSA acquisition manual](https://acquisition.gov/browse/index/gsam?topnav=policy-regulations)
+        * [Managing the federal rulemaking process](https://www.gsa.gov/policy-regulations/regulations/managing-the-federal-rulemaking-process-erulemaking?topnav=policy-regulations)
         
     
     Featured Topics
@@ -429,33 +429,33 @@ Buy through us expand menu
 
 [Explore buy through us](https://www.gsa.gov/buy-through-us?topnav=buy-through-us)
 
-[Government property for sale or lease](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal?topnav=buy-through-us) expand menu
+[Government property for sale or lease](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease?topnav=buy-through-us) expand menu
 
-[Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal/personal-property-for-reuse-sale?topnav=buy-through-us)
+[Personal property (tangible goods)](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease/personal-property-for-reuse-and-sale?topnav=buy-through-us)
 
-[Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal/surplus-real-property-available-for-public-use?topnav=buy-through-us)
+[Real property (real estate and buildings) for public use](https://www.gsa.gov/real-estate/real-estate-services/overview/surplus-real-property-available-for-public-use?topnav=buy-through-us)
 
-[Real property sales](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal/property-sales?topnav=buy-through-us)
+[Real property sales](https://www.gsa.gov/real-estate/real-estate-services/overview/property-sales?topnav=buy-through-us)
 
-[Vehicle sales](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
+[Vehicle sales](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management/vehicle-leasing/sales-of-gsa-fleet-vehicles?topnav=buy-through-us)
 
-[Products and services](https://www.gsa.gov/buy-through-us/products-services?topnav=buy-through-us) expand menu
+[Products and services](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us) expand menu
 
-[Facilities and construction](https://www.gsa.gov/buy-through-us/products-services/facilities-construction?topnav=buy-through-us)
+[Facilities and construction](https://www.gsa.gov/buy-through-us/products-and-services/facilities-and-construction?topnav=buy-through-us)
 
-[Human capital](https://www.gsa.gov/buy-through-us/products-services/human-capital?topnav=buy-through-us)
+[Human capital](https://www.gsa.gov/buy-through-us/products-and-services/human-capital?topnav=buy-through-us)
 
-[Industrial products and services](https://www.gsa.gov/buy-through-us/products-services/industrial-products-services?topnav=buy-through-us)
+[Industrial products and services](https://www.gsa.gov/buy-through-us/products-and-services/industrial-products-and-services?topnav=buy-through-us)
 
-[Information technology](https://www.gsa.gov/technology/technology-products-services?topnav=buy-through-us)
+[Information technology](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=buy-through-us)
 
-[Office management](https://www.gsa.gov/buy-through-us/products-services/office-management?topnav=buy-through-us)
+[Office management](https://www.gsa.gov/buy-through-us/products-and-services/office-management?topnav=buy-through-us)
 
-[Professional services](https://www.gsa.gov/buy-through-us/products-services/professional-services?topnav=buy-through-us)
+[Professional services](https://www.gsa.gov/buy-through-us/products-and-services/professional-services?topnav=buy-through-us)
 
-[Security and protection](https://www.gsa.gov/buy-through-us/products-services/security-protection?topnav=buy-through-us)
+[Security and protection](https://www.gsa.gov/buy-through-us/products-and-services/gsa-security-and-protection-category?topnav=buy-through-us)
 
-[Transportation and logistics services](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services?topnav=buy-through-us)
+[Transportation and logistics services](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services?topnav=buy-through-us)
 
 [Travel and lodging](https://www.gsa.gov/travel/travel-and-lodging-services?topnav=buy-through-us)
 
@@ -463,9 +463,9 @@ Buy through us expand menu
 
 [Multiple award schedule](https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule?topnav=buy-through-us)
 
-[SmartPay (charge card services)](https://smartpay.gsa.gov/?source=gsa.gov-buy-through-us)
+[SmartPay (charge card services)](https://smartpay.gsa.gov/?topnav=buy-through-us)
 
-[Assisted acquisition](https://www.gsa.gov/buy-through-us/purchasing-programs/assisted-acquisition?topnav=buy-through-us)
+[Assisted acquisition](https://www.gsa.gov/buy-through-us/purchasing-programs/assisted-acquisition-services?topnav=buy-through-us)
 
 [Commercial platforms](https://www.gsa.gov/buy-through-us/purchasing-programs/commercial-platforms?topnav=buy-through-us)
 
@@ -473,31 +473,31 @@ Buy through us expand menu
 
 [Federal strategic sourcing initiative](https://www.gsa.gov/buy-through-us/purchasing-programs/federal-strategic-sourcing-initiative?topnav=buy-through-us)
 
-[Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-logistics-services/fleet-management?topnav=buy-through-us)
+[Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management?topnav=buy-through-us)
 
-[HCaTS and HCaTS SB](https://www.gsa.gov/buy-through-us/products-services/human-capital/human-capital-and-training-solutions-hcats?topnav=buy-through-us)
+[HCaTS and HCaTS SB](https://www.gsa.gov/buy-through-us/products-and-services/human-capital/human-capital-and-training-solutions?topnav=buy-through-us)
 
-[OASIS and OASIS SB](https://www.gsa.gov/buy-through-us/products-services/professional-services/buy-services/oasis-and-oasis-small-business?topnav=buy-through-us)
+[OASIS and OASIS SB](https://www.gsa.gov/buy-through-us/products-and-services/professional-services/buy-services/oasis-and-oasis-small-business?topnav=buy-through-us)
 
 [Requisition programs](https://www.gsa.gov/buy-through-us/purchasing-programs/requisition-programs?topnav=buy-through-us)
 
-[Technology programs](https://www.gsa.gov/technology/technology-purchasing-programs?topnav=buy-through-us)
+[Technology programs](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs?topnav=buy-through-us)
 
 [8(a) set asides on GSA contracts](https://www.gsa.gov/buy-through-us/purchasing-programs/how-to-use-8a-on-gsa-contracts?topnav=buy-through-us)
 
 [Shared services](https://www.gsa.gov/buy-through-us/shared-services?topnav=buy-through-us) expand menu
 
-[Charge cards and payments (SmartPay)](https://smartpay.gsa.gov/?source=gsa.gov-buy-through-us)
+[Charge cards and payments (SmartPay)](https://smartpay.gsa.gov/?topnav=buy-through-us)
 
-[Disposal of excess property](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-disposal?topnav=buy-through-us)
+[Disposal of excess property](https://www.gsa.gov/buy-through-us/government-property-for-sale-or-lease?topnav=buy-through-us)
 
-[Fleet management](https://www.gsa.gov/buy-through-us/products-services/transportation-logistics-services/fleet-management?topnav=buy-through-us)
+[Fleet management](https://www.gsa.gov/buy-through-us/products-and-services/transportation-and-logistics-services/fleet-management?topnav=buy-through-us)
 
 [Interagency invoicing (G-Invoicing)](https://www.gsa.gov/buy-through-us/shared-services/ginvoicing?topnav=buy-through-us)
 
 [Payroll services](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services?topnav=buy-through-us)
 
-[Quality service management offices](https://ussm.gsa.gov/?source=gsa.gov-buy-through-us)
+[Quality service management offices](https://ussm.gsa.gov/?topnav=buy-through-us)
 
 [Website and digital services](https://www.gsa.gov/technology/build-websites-and-digital-services?topnav=buy-through-us)
 
@@ -519,7 +519,7 @@ Sell to government expand menu
 
 [Certify as a small business](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/certify-as-a-small-business?topnav=sell-to-government)
 
-[Become a schedule holder](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/become-a-schedule-holder?topnav=sell-to-government)
+[Become a schedule holder](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/become-a-multiple-award-schedule-holder?topnav=sell-to-government)
 
 [Market your business](https://www.gsa.gov/sell-to-government/step-2-compete-for-a-contract/market-your-business?topnav=sell-to-government)
 
@@ -545,7 +545,7 @@ Real estate expand menu
 
 [3D-4D building information modeling](https://www.gsa.gov/real-estate/design-and-construction/3d4d-building-information-modeling?topnav=real-estate)
 
-[Art in architecture | Fine arts](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecturefine-arts?topnav=real-estate)
+[Art in architecture | Fine arts](https://www.gsa.gov/real-estate/design-and-construction/art-in-architecture-fine-arts?topnav=real-estate)
 
 [Computer-aided design standards](https://www.gsa.gov/real-estate/design-and-construction/computeraided-design-standards?topnav=real-estate)
 
@@ -565,13 +565,13 @@ Real estate expand menu
 
 [Security](https://www.gsa.gov/real-estate/facilities-management/security?topnav=real-estate)
 
-[Smart buildings](https://www.gsa.gov/governmentwide-initiatives/climate-action-and-sustainability?topnav=real-estate#buildings)
+[Smart buildings](https://www.gsa.gov/climate-action-and-sustainability?topnav=real-estate)
 
 [Tenant services](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
 
 [Utility services](https://www.gsa.gov/real-estate/facilities-management/utility-services?topnav=real-estate)
 
-[Water quality management](https://www.gsa.gov/real-estate/facilities-management/water-quality-management)
+[Water quality management](https://www.gsa.gov/real-estate/facilities-management/water-quality-management?topnav=real-estate)
 
 [Historic preservation](https://www.gsa.gov/real-estate/historic-preservation?topnav=real-estate) expand menu
 
@@ -593,7 +593,7 @@ Real estate expand menu
 
 [Land ports of entry](https://www.gsa.gov/real-estate/gsa-properties/land-ports-of-entry-and-the-bipartisan-infrastructure-law?topnav=real-estate)
 
-[Prospectus library](https://www.gsa.gov/real-estate/gsa-properties/capital-investment-and-leasing-program-prospectus-library?topnav=real-estate)
+[Prospectus library](https://www.gsa.gov/real-estate/gsa-properties/capital-investment-and-leasing-prospectus-library?topnav=real-estate)
 
 [Regional buildings](https://www.gsa.gov/real-estate/gsa-properties/regional-buildings?topnav=real-estate)
 
@@ -605,11 +605,11 @@ Real estate expand menu
 
 [Leasing](https://www.gsa.gov/real-estate/real-estate-services/leasing?topnav=real-estate)
 
-[Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal?topnav=real-estate)
+[Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate)
 
-[Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-rs-program?topnav=real-estate)
+[Reimbursable services (RWA)](https://www.gsa.gov/real-estate/real-estate-services/reimbursable-services-program?topnav=real-estate)
 
-[Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-procedures?topnav=real-estate)
+[Rental policy and procedures](https://www.gsa.gov/real-estate/real-estate-services/rental-policy-and-procedures?topnav=real-estate)
 
 [Site selection and relocation](https://www.gsa.gov/real-estate/real-estate-services/site-selection-relocation?topnav=real-estate)
 
@@ -617,9 +617,9 @@ Real estate expand menu
 
 [For federal customers](https://www.gsa.gov/real-estate/real-estate-services/for-federal-customers?topnav=real-estate)
 
-[For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate-services)
+[For workers in federal buildings](https://www.gsa.gov/real-estate/real-estate-services/for-workers-in-federal-buildings?topnav=real-estate)
 
-[Workplace](https://www.gsa.gov/real-estate/workplace)
+[Workplace](https://www.gsa.gov/real-estate/workplace?topnav=real-estate)
 
 Policy and regulations expand menu
 
@@ -633,25 +633,25 @@ Policy and regulations expand menu
 
 [Information technology policy](https://www.gsa.gov/policy-regulations/policy/information-technology-policy?topnav=policy-regulations)
 
-[Real property management policy](https://www.gsa.gov/policy-regulations/policy/real-property-policy?topnav=policy-regulations)
+[Real property management policy](https://www.gsa.gov/policy-regulations/policy/real-property-policy-division-overview?topnav=policy-regulations)
 
 [Relocation management policy](https://www.gsa.gov/policy-regulations/policy/employee-relocation-management-policy?topnav=policy-regulations)
 
-[Travel management policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy?topnav=policy-regulations)
+[Travel management policy](https://www.gsa.gov/policy-regulations/policy/travel-management-policy-overview?topnav=policy-regulations)
 
 [Vehicle management policy](https://www.gsa.gov/policy-regulations/policy/vehicle-management-policy?topnav=policy-regulations)
 
 [Regulations](https://www.gsa.gov/policy-regulations/regulations?topnav=policy-regulations) expand menu
 
-[Federal acquisition regulations](https://acquisition.gov/?source=gsa.gov-policy-regulations)
+[Federal acquisition regulations](https://acquisition.gov/?topnav=policy-regulations)
 
 [Federal management regulations](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation?topnav=policy-regulations)
 
 [Federal travel regulations](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation?topnav=policy-regulations)
 
-[GSA acquisition manual](https://acquisition.gov/browse/index/gsam?source=gsa.gov-policy-regulations)
+[GSA acquisition manual](https://acquisition.gov/browse/index/gsam?topnav=policy-regulations)
 
-[Managing the federal rulemaking process](https://www.gsa.gov/policy-regulations/regulations/managing-the-federal-rulemaking-process?topnav=policy-regulations)
+[Managing the federal rulemaking process](https://www.gsa.gov/policy-regulations/regulations/managing-the-federal-rulemaking-process-erulemaking?topnav=policy-regulations)
 
 Small business expand menu
 
