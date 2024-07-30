@@ -93,7 +93,7 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* [Spare Part & Accessories](https://www.livpure.com/collections/water-purifier-accessories)
 * Buy ACMC
     
     Buy ACMC
@@ -149,7 +149,7 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* [Spare Part & Accessories](https://www.livpure.com/collections/water-purifier-accessories)
 * Buy ACMC
     
     * [ACMC](https://www.livpure.com/products/ro-maintenance-plan)
@@ -282,6 +282,32 @@ The Website and Mobile App are designed and targeted to users who reside in the 
 * For Service : [080648-99399](tel:08064899399)
 
       
+
+×
+
+Livpure Cookies Policy
+======================
+
+Livpure will collect and use your personal data for making your product booking and for providing the services you request. During this process, we may record your preferences as well as the information about any issues you encountered during your product. Our only objective of doing this is to better meet and exceed your needs during subsequent purchasing.  
+We may disclose your information to our service providers for analytical purposes so that we can better improvise your buying experience and our website facilities. Livpure has agreements to ensure confidentiality of all such information shared with service providers we work with for this purpose.  
+Your personal data is kept secure. Only authorized employees, business partners, clients, contractors and other third-party providers (who have agreed to keep information secure and confidential) have access to this information.  
+Livpure shall retain personal data only as long as necessary for the fulfilment of the stated purposes and should be disposed thereafter. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Please tick the boxes for your consent to the use of following personal data:
+
+*  KYC
+*  Product enhancement market feedback
+*  Cookie policies
+*  Customer experience
+*  Support and shipping related services
+
+All the information you give is voluntary. You have the legal right to apply for a copy of the information we hold on you and correct any inaccuracies as well as object to its use.  
+You may review, update, correct or delete your personal data by e-mailing us at customercare@livpure.com. You may at any time also, contact our Data Protection Officer directly with questions and suggestions concerning data protection by e-mailing us at grievance.officer@sar-group.com  
+For a full description on how we process and keep safe your personal data, please see our Privacy Policy at: [Privacy Policy](https://livpure.com/policies/privacy-policy)
+
+Save & Continue
+
+ By creating an account on Livpure, you agree to our [Privacy Policy](https://livpure.com/policies/privacy-policy), receive WhatsApp, SMS notifications or Call and consent to our cookie policy.
 
 #### Products
 
@@ -453,16 +479,6 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 ★ Judge.me Reviews
 
 ### Let customers speak for us
@@ -551,6 +567,16 @@ Thank you for your valuable review. We are glad that you are loving our products
 
 123
 
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
+
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
 
@@ -566,7 +592,7 @@ Thank you for your valuable review. We are glad that you are loving our products
 
 Choose Product Buy Water Purifier Service Request
 
- By creating an account on LivpureSmart, you agree to our [Privacy Plicy](https://livpure.com/policies/privacy-policy)
+ By creating an account on Livpure, you agree to our [Privacy Policy](https://livpure.com/policies/privacy-policy)
 
  By creating an account on Livpure, you agree to our Consent cookies & cookie policy.
 
@@ -592,7 +618,7 @@ Please tick the boxes for your consent to the use of following personal data:
 
 All the information you give is voluntary. You have the legal right to apply for a copy of the information we hold on you and correct any inaccuracies as well as object to its use.  
 You may review, update, correct or delete your personal data by e-mailing us at customercare@livpure.com. You may at any time also, contact our Data Protection Officer directly with questions and suggestions concerning data protection by e-mailing us at grievance.officer@sar-group.com  
-For a full description on how we process and keep safe your personal data, please see our Privacy Policy at: [Privacy Plicy](https://livpure.com/policies/privacy-policy)
+For a full description on how we process and keep safe your personal data, please see our Privacy Policy at: [Privacy Policy](https://livpure.com/policies/privacy-policy)
 
 Save & Continue
 
