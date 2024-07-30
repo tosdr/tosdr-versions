@@ -73,4 +73,4 @@ To remove data that has been stored in the website's database, you can use the [
 
 [Released under the AGPLv3 on GitHub.](https://github.com/iv-org/invidious/blob/master/LICENSE) [View JavaScript license information.](https://invidious.nerdvpn.de/licenses) [View privacy policy.](https://invidious.nerdvpn.de/privacy)
 
-[Donate](https://invidious.nerdvpn.de/donate/) Current version: 2024.07.21-325561e7 @ nerdvpn
+[Donate](https://invidious.nerdvpn.de/donate/) Current version: 2024.07.27-90e94d4e @ nerdvpn
