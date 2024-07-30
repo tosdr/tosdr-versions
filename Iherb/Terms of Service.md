@@ -252,15 +252,11 @@ Themenwelten
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[\-20% ab 60 US$ Bestellwert
-
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=PARIS2024)
-
-[\-30% auf Anti-Aging
+[\-40% auf Sportnahrung
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/anti-aging-longevity)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sports?specialtyFilters=7)
 
       
 
