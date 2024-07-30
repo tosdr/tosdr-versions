@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=57618217)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=38856790)  
-Multi CNC Solutions CC
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=87728592)  
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=122081503)  
 Norton Medical & Consult - Namibia
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=99638640)  
-Hydroworld T/A Milliqua
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=14407514)  
+Iurus Inc
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=10079950)  
-LEO DEVELOPMENT GROUP
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=183443370)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=175153219)  
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=211133993)  
+IYD
+
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=84857868)  
+webb it services
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=89352028)  
+Alliance Energy
+
+![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=90511438)  
+Reliable Store
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=207877784)  
+African Roots
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=162535119)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=83212879)  
 Dr V Naik Consult
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=33748211)  
-Desygn
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=133481164)  
+Repairs In Motion
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=53941457)  
-Salvage Genie
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=154397301)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=97117412)  
-West Coast Horse Trails
+![valued client Klinrol Hygienic Tissue Products (pty) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6280&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=97897510)  
+Klinrol Hygienic Tissue Products (pty) ltd
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=140064132)  
-Kara Medical (Pty) Ltd
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=91385723)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=14637338)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=92887317)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=35825816)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=206452487)  
-NIMAWELL
-
-![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=8cae7114a6a3ae54ecd7907d93e5ab56bea2f4b39435958d0767f794857b1f9c&c=158495394)  
-Sportspro Management (Pty) Ltd
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=161460859)  
+Lizzy Pop PTY(Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
