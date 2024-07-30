@@ -249,6 +249,7 @@ Close Menu
         
         [Testing & Services For](https://www.labcorp.com/providers) Toggle Testing & Services For
         
+        * [Clinical Drug Testing](https://www.labcorp.com/clinical-drug-testing)
         * [Genetics & Genomics](https://www.labcorp.com/genetics-genomics)
         * [Neurology](https://www.labcorp.com/providers/neurology)
         * [Oncology](https://oncology.labcorp.com/)
