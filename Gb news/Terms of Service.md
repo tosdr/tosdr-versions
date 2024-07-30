@@ -36,7 +36,7 @@
 
 [Sport](https://www.gbnews.uk/sport/)
 
-[Football](https://www.gbnews.uk/sport/football/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
+[Football](https://www.gbnews.uk/sport/football/)[Olympics](https://www.gbnews.uk/sport/olympics/)  [F1](https://www.gbnews.uk/sport/f1/)  [Tennis](https://www.gbnews.uk/sport/tennis/)[Cricket](https://www.gbnews.uk/sport/cricket/)[Boxing](https://www.gbnews.uk/sport/boxing/)[Rugby](https://www.gbnews.uk/sport/rugby/)[Golf](https://www.gbnews.uk/sport/golf/)[Darts](https://www.gbnews.uk/sport/darts/)[Snooker](https://www.gbnews.uk/sport/snooker/)[Other Sport](https://www.gbnews.uk/sport/other-sport/)
 
 [Lifestyle](https://www.gbnews.uk/lifestyle/)
 
@@ -251,6 +251,13 @@ GB News welcomes donations in order to support its invaluable work as the home o
 * For queries, the customer helpline number is 0333 202 3390 (cost national rate).
 * The result to the vote will be announced on air after the end of the vote window.
 * If you are watching on catch-up your votes won’t be counted but you may still be charged.
+
+[SOUTHPORT LATEST](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+------------------------------------------------------------------------------------------
+
+### [Taylor Swift issues statement after 'horror' attack on children's dance class](https://www.gbnews.com/news/southport-stabbings-taylor-swift-statement)
+
+1722335125.088
 
 About Us
 
