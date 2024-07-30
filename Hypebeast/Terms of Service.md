@@ -317,7 +317,7 @@ Last Updated Date: October 25th, 2022
         
     * Download Our App
         
-        [](https://hypebeast.com/app/)[](https://hypebeast.com/app/)
+        [![App Store](https://hypebeast.com/images/app/app-store-en@2x.png)](https://hypebeast.com/app/)[![App Store](https://hypebeast.com/images/app/google-play-en@2x.png)](https://hypebeast.com/app/)
         
     
 
