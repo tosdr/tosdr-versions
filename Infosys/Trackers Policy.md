@@ -237,7 +237,7 @@ About Us
 * [ATP](https://www.infosys.com/atp.html "ATP")
 * [International Tennis Hall of Fame](https://www.infosys.com/ithf.html "International Tennis Hall of Fame")
 
-* [Formula E](https://www.infosys.com/formula-e.html "Formula E")
+* [Formula E](https://www.infosys.com/formulae.html "Formula E")
 * [Bloomberg Media](https://www.infosys.com/bloomberg.html "Bloomberg Media")
 * [Madison Square Garden](https://www.infosys.com/madison-square-garden.html "Madison Square Garden")
 * [The Economist Group](https://www.infosys.com/the-sustainability-project.html "The Economist Group")
