@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1721999085062)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1722345266833)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -224,7 +224,11 @@ Search
     * [Arts & Crafts](https://mykpl.bibliocommons.com/v2/events?&audiences=62097b7c13e56b37002fd547%2C61db8fe640ff262f00614d5e%2C61db8ff133f5d02800a5bc37%2C625b0ad3cfa7703000de08ad%2C61db8fc58a5e404100b97254%2C61db8fcd950fa036000bc0bd&types=6201b2cf13e56b37002f49e1)
     * [Big Kids (ages 5-12)](https://mykpl.bibliocommons.com/v2/events?audiences=61db8ff133f5d02800a5bc37%2C625b0ad3cfa7703000de08ad%2C625b0adda17f678726ec8578)
     
-    * [Southport Literary Fair](https://www.mykpl.info/southport-literary-fair)
+    ### Community
+    
+    * [Southport Literary Fair](https://mykpl.info/southport-literary-fair)
+    * [Lincoln Park Live](https://mykpl.bibliocommons.com/v2/events?series=66a7fa013849bf4100c42daf)
+    * [Kenosha Harbor Market](https://mykpl.bibliocommons.com/v2/events?series=66a7fb5a3849bf4100c42dba)
     
 * [myKPLmyKPL, collapsed](#mykpl_menu)
     
@@ -255,7 +259,7 @@ Search
     ### Neighborhood Locations
     
     * [Discovery Buses](https://mykpl.info/locations/bookmobile/)
-    * [KPL Kids @ Uptown (Coming Soon)](https://mykpl.info/locations/kplkids/)
+    * [KPL Kids @ Uptown](https://mykpl.info/locations/kplkids/)
     * [Northside](https://mykpl.info/locations/northside/)
     * [Simmons](https://mykpl.info/locations/simmons/)
     * [Southwest](https://mykpl.info/locations/southwest/)
@@ -530,7 +534,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp07 Version 4.20.0 Last updated 2024/06/12 09:32
+BiblioWeb: webapp02 Version 4.20.0 Last updated 2024/06/12 09:17
 
 [Back to Top](#top)
 
