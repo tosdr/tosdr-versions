@@ -317,7 +317,7 @@ For Technical Support:
 
 For inquiries:
 
-[corporate@e3sparksplug.com](mailto:corporate@e3sparksplug.com "mailto:corporate@e3sparksplug.com")
+[corporate@e3sparkplugs.com](mailto:corporate@e3sparksplug.com "mailto:corporate@e3sparksplug.com")
 
 Monday - Friday : 10am - 5pm EST
 
