@@ -200,8 +200,6 @@ These Terms of Use (including the [Privacy Policy](https://keepinfit.net/privac
 
 You may not assign these Terms of Use or assign any rights or delegate any obligations hereunder, in whole or in part, without our prior written consent. Any such purported assignment or delegation by you without the appropriate prior written consent will be null and void and of no force and effect. We may assign these Terms of Use or any rights hereunder without your consent and without notice.
 
-Advertisement
-
 Now Trending
 
 * [About us](https://keepinfit.net/about-us/)
