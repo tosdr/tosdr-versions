@@ -425,7 +425,7 @@ Privacy Policy
 4. [Ethics and Compliance](https://www.herbalife.com/en-us/footer/ethics-and-compliance)
 5. [Refund policy](https://www.herbalife.com/en-us/footer/refund-policy)
 6. [Herbalife Terms and Conditions of Purchase](https://www.herbalife.com/en-us/footer/supplier-terms)
-7. [Consumer Health Data](https://www.herbalife.com/en-us/footer/consumer-health-data)
+7. [Herbalife Consumer Health Data Privacy Policy](https://www.herbalife.com/en-us/footer/herbalife-consumer-health-data-privacy-policy)
 
 Privacy Policy
 ==============
@@ -448,13 +448,13 @@ For Distributors
 
 [Distributor Login](https://www.myherbalife.com/en-US/) [Business Opportunity](https://www.herbalife.com/en-us/business-opportunity)
 
-[Site Map](https://www.herbalife.com/en-us/sitemap) [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use) [Privacy Policy](https://www.herbalife.com/en-us/footer/privacy-policy) [CCPA Supplemental Notice](https://www.herbalife.com/en-us/footer/privacy-policy#CaliforniaSupplement) [Consumer Health Data](https://www.herbalife.com/en-us/footer/consumer-health-data)
+[Site Map](https://www.herbalife.com/en-us/sitemap) [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use) [Privacy Policy](https://www.herbalife.com/en-us/footer/privacy-policy) [CCPA Supplemental Notice](https://www.herbalife.com/en-us/footer/privacy-policy#CaliforniaSupplement) [Herbalife Consumer Health Data Privacy Policy](https://www.herbalife.com/en-us/footer/herbalife-consumer-health-data-privacy-policy)
 
 Do Not Sell or Share My Personal Information/Opt-out of Targeted Advertising
 
        [![Facebook](/dmassets/hn-one/en/hybrid/icons/FB-icon-512w.png)](https://www.facebook.com/HerbalifeUSA)[![Instagram](/dmassets/hn-one/en/hybrid/icons/Instagram-icon-512w.png)](https://www.instagram.com/herbalifeusa/)[![Twitter](/dmassets/global-reusable-assets/icons/Icon-social-X.png)](https://twitter.com/Herbalife)
 
-Herbalife is a Proud Member of the [Direct Selling Association](https://directselling.org/) and a Signatory to the [DSA Code of Ethics](https://www.dsa.org/consumerprotection/code-of-ethics). Copyright ©2024 Herbalife International of America, Inc. No reproduction in whole or in part without written permission. All Rights Reserved. All trademarks and product images exhibited on this site, unless otherwise indicated, are the property of Herbalife International, Inc.
+Herbalife is a Proud Member of the [Direct Selling Association](https://www.dsa.org/about/direct-selling) and a Signatory to the [DSA Code of Ethics](https://www.dsa.org/consumerprotection/code-of-ethics). Copyright ©2024 Herbalife International of America, Inc. No reproduction in whole or in part without written permission. All Rights Reserved. All trademarks and product images exhibited on this site, unless otherwise indicated, are the property of Herbalife International, Inc.
 
       [![United States Icon](/dmassets/global-reusable-assets/icons/ic-location-icon.png)
 
