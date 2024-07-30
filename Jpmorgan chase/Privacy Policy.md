@@ -52,7 +52,7 @@ Latest news
 
 ![](/content/dam/jpmorganchase/images/newsroom/stories/fire-dex-jpmcr-banner.jpg)
 
-An Ohio-Based Company is Protecting First Responders Around the World
+An Ohio-based company is protecting first responders around the world
 
 With support from JPMorganChase, Fire-Dex is providing protective equipment to firefighters in 100 countries and all 50 states. 
 
@@ -68,15 +68,17 @@ Institute
 
 Latest news
 
-![](/content/dam/jpmorganchase/images/institute/banner-how-households-manage-high-air-condit.png)
+![](/content/dam/jpmorganchase/images/institute/are-americans-vulnerable-to-unexpected-expenses/banner-are-americans-vulnerable-to-unexpected-expenses.png)
 
-Feeling the Heat: How Households Manage High Air Conditioning Bills
+How vulnerable are Americans to unexpected expenses?
 
-[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-households-manage-high-air-conditioning-bills)
+JPMorgan Chase Institute
+
+[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-vulnerable-are-americans-to-unexpected-expenses)
 
 Careers
 
-[Careers](https://www.jpmorganchase.com/careers?vm_bypass=Y)
+[Careers](https://www.jpmorganchase.com/careers)
 
 [Work with us](https://www.jpmorganchase.com/careers/work-with-us)
 
