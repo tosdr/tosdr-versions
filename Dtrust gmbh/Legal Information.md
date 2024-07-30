@@ -116,7 +116,7 @@ Should you have any questions regarding our website, please contact info@d-trust
 Breadcrumb
 ----------
 
-1. [Home](https://www.d-trust.net/en)
+1. Legal notice
 
 Language:
 
