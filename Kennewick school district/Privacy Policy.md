@@ -60,6 +60,22 @@
     * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transitional Kindergarten](https://www.ksd.org/programs/transitional-kindergarten)
     
+* [Community](https://www.ksd.org/community)
+    
+    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
+    * [Community News](https://www.ksd.org/community/community-news)
+    * [Community Resources](https://www.ksd.org/students-families/community-resources)
+    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
+    * [Facility Rental](https://www.ksd.org/community/facility-rental)
+    * [Public Records Request](https://www.ksd.org/community/public-records-request)
+    * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
+    * [Requests To Conduct Research](https://www.ksd.org/community/requests-to-conduct-research)
+    * [Senior Citizen Gold Card](https://www.ksd.org/community/senior-citizen-gold-card)
+    * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
+    * [Volunteer](https://www.ksd.org/community/volunteer)
+    
+* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
+* [Contact Us](https://www.ksd.org/contact-us)
 * [Students & Families](https://www.ksd.org/students-families)
     
     * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
@@ -82,22 +98,6 @@
     * [Transfer Request](https://www.ksd.org/students-families/transfer)
     * [Health & Safety](https://www.ksd.org/about/health-and-safety)
     
-* [Community](https://www.ksd.org/community)
-    
-    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
-    * [Community News](https://www.ksd.org/community/community-news)
-    * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
-    * [Facility Rental](https://www.ksd.org/community/facility-rental)
-    * [Public Records Request](https://www.ksd.org/community/public-records-request)
-    * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
-    * [Requests To Conduct Research](https://www.ksd.org/community/requests-to-conduct-research)
-    * [Senior Citizen Gold Card](https://www.ksd.org/community/senior-citizen-gold-card)
-    * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
-    * [Volunteer](https://www.ksd.org/community/volunteer)
-    
-* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
-* [Contact Us](https://www.ksd.org/contact-us)
 
 Search
 
@@ -199,6 +199,22 @@ toggle mobile menu
     * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transitional Kindergarten](https://www.ksd.org/programs/transitional-kindergarten)
     
+* [Community](https://www.ksd.org/community)
+    
+    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
+    * [Community News](https://www.ksd.org/community/community-news)
+    * [Community Resources](https://www.ksd.org/students-families/community-resources)
+    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
+    * [Facility Rental](https://www.ksd.org/community/facility-rental)
+    * [Public Records Request](https://www.ksd.org/community/public-records-request)
+    * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
+    * [Requests To Conduct Research](https://www.ksd.org/community/requests-to-conduct-research)
+    * [Senior Citizen Gold Card](https://www.ksd.org/community/senior-citizen-gold-card)
+    * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
+    * [Volunteer](https://www.ksd.org/community/volunteer)
+    
+* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
+* [Contact Us](https://www.ksd.org/contact-us)
 * [Students & Families](https://www.ksd.org/students-families)
     
     * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
@@ -221,22 +237,6 @@ toggle mobile menu
     * [Transfer Request](https://www.ksd.org/students-families/transfer)
     * [Health & Safety](https://www.ksd.org/about/health-and-safety)
     
-* [Community](https://www.ksd.org/community)
-    
-    * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
-    * [Community News](https://www.ksd.org/community/community-news)
-    * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
-    * [Facility Rental](https://www.ksd.org/community/facility-rental)
-    * [Public Records Request](https://www.ksd.org/community/public-records-request)
-    * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
-    * [Requests To Conduct Research](https://www.ksd.org/community/requests-to-conduct-research)
-    * [Senior Citizen Gold Card](https://www.ksd.org/community/senior-citizen-gold-card)
-    * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
-    * [Volunteer](https://www.ksd.org/community/volunteer)
-    
-* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
-* [Contact Us](https://www.ksd.org/contact-us)
 
 In This Section
 ---------------
