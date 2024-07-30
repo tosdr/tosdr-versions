@@ -154,21 +154,16 @@ Explore Gold IRAs
 * [Is a Precious Metals IRA Right for Me?](https://goldalliance.com/learning-center/gold/is-gold-ira-right-for-me/)
 * [What Is a Precious Metals IRA?](https://goldalliance.com/learning-center/gold/what-is-a-precious-metals-ira/)
 * [How Do I Open a Precious Metals IRA?](https://goldalliance.com/learning-center/gold/how-to-open-gold-ira/)
-* [What Is a Silver IRA?](https://goldalliance.com/learning-center/silver/what-is-silver-ira/)
-* [How Do You Buy Gold with Your 401(k)?](https://goldalliance.com/learning-center/gold/buy-gold-with-401k/)
-* [Can I Take Physical Possession of Gold in My IRA?](https://goldalliance.com/learning-center/gold/physical-possession-of-gold-in-my-ira/)
-* [Gold and Silver FAQs](https://goldalliance.com/faqs/)
+* [Precious Metals IRA FAQ](https://goldalliance.com/learning-center/gold/gold-silver-ira-faqs/)
 * [Storing Your Gold & Silver](https://goldalliance.com/about-direct-purchases/storing-gold-silver/)
 
 DISCOVER
 --------
 
-* [Reviews](https://goldalliance.com/reviews/)
 * [Why Gold](https://goldalliance.com/learning-center/gold/why-gold/)
-* [6 Potential Catalysts for Record-High Gold Prices in 2024](https://goldalliance.com/?p=10465)
+* [Reviews](https://goldalliance.com/reviews/)
 * [Gold Ounce Price Calculator & Precious Metal Charts](https://goldalliance.com/gold-ounce-price-calculator/)
-* [Highest Historical Gold Price](https://goldalliance.com/?p=5264)
-* [Will We Face a Debt Crisis in 2024?](https://goldalliance.com/?p=10432) 
+* [Analysts Raise Forecasts as Gold Soars to All-Time Highs](https://goldalliance.com/blog/market-insights/analysts-raise-forecasts-as-gold-soars-to-all-time-highs/)
 * [Affiliate Program](https://goldalliance.com/affiliate-program/)
 
 Get in touch with us
