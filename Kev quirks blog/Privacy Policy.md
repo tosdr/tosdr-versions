@@ -87,4 +87,4 @@ All work licensed under **CC BY-SA 4.0** unless otherwise stated.
 
 [Privacy](https://kevq.uk/privacy) | [Disclaimer](https://kevq.uk/disclaimer)
 
-[Mastodon](https://fosstodon.org/@kev) [Mastodon](https://social.lol/@kevquirk) proven.lol/544327 [github.com/kevquirk](https://github.com/kevquirk) [72ja@qrk.one](https://kevq.uk/72ja@qrk.one)
+[Mastodon](https://fosstodon.org/@kev) [Mastodon](https://500.social/@kev) proven.lol/544327 [github.com/kevquirk](https://github.com/kevquirk) [72ja@qrk.one](https://kevq.uk/72ja@qrk.one)
