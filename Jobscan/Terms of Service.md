@@ -31,6 +31,7 @@
         * [ATS Resume TemplatesEdit your resume in Microsoft Word.](https://www.jobscan.co/resume-templates/ats-templates)
         * [Google Docs Resume TemplatesEdit in Google Docs and download for free.](https://www.jobscan.co/resume-templates/google-docs-templates)
         * [Simple Resume TemplatesClean, simple, professional resume templates.](https://www.jobscan.co/resume-templates/simple-templates/)
+    * [Resume SkillsResume skills by job title based on 10 million job listings](https://www.jobscan.co/skills)
     * [Resume FormatsPick the right format for your career.](https://www.jobscan.co/resume-formats)
     * [Resume ExamplesExplore our library of resume samples for any profession.](https://www.jobscan.co/resume-examples)
     * [Get Your Free Resume Score](https://www.jobscan.co/resume-score)
