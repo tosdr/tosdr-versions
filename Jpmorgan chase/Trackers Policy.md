@@ -52,7 +52,7 @@ Latest news
 
 ![](/content/dam/jpmorganchase/images/newsroom/stories/fire-dex-jpmcr-banner.jpg)
 
-An Ohio-Based Company is Protecting First Responders Around the World
+An Ohio-based company is protecting first responders around the world
 
 With support from JPMorganChase, Fire-Dex is providing protective equipment to firefighters in 100 countries and all 50 states. 
 
@@ -68,15 +68,17 @@ Institute
 
 Latest news
 
-![](/content/dam/jpmorganchase/images/institute/banner-how-households-manage-high-air-condit.png)
+![](/content/dam/jpmorganchase/images/institute/are-americans-vulnerable-to-unexpected-expenses/banner-are-americans-vulnerable-to-unexpected-expenses.png)
 
-Feeling the Heat: How Households Manage High Air Conditioning Bills
+How vulnerable are Americans to unexpected expenses?
 
-[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-households-manage-high-air-conditioning-bills)
+JPMorgan Chase Institute
+
+[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-vulnerable-are-americans-to-unexpected-expenses)
 
 Careers
 
-[Careers](https://www.jpmorganchase.com/careers?vm_bypass=Y)
+[Careers](https://www.jpmorganchase.com/careers)
 
 [Work with us](https://www.jpmorganchase.com/careers/work-with-us)
 
@@ -154,7 +156,7 @@ You may be able to block first and third party cookies through your browser sett
 4\. Cookies and personal data
 -----------------------------
 
-Some of our cookies may collect and store your personal data, such as your name, email address or IP address. We are committed to respecting and protecting your privacy and will ensure that personal data we collect is kept and treated in accordance with our privacy policy. For further details of how we process personal data, please refer to our [privacy policy](https://www.jpmorganchase.com/privacy "View our privacy policy").
+Some of our cookies may collect and store your personal data, such as your name, email address or IP address. We are committed to respecting and protecting your privacy and will ensure that personal data we collect is kept and treated in accordance with our privacy policy. For further details of how we process personal data, please refer to our [privacy policy](https://www.jpmorganchase.com/legal/privacy "View our privacy policy").
 
 5\. Your rights to disable or refuse cookies on this site
 ---------------------------------------------------------
