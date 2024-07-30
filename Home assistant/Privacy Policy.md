@@ -1,4 +1,4 @@
-[](https://www.home-assistant.io/)[2024.7.3](https://www.home-assistant.io/blog/2024/07/03/release-20247/ "Latest version 2024.7.3 released July 19, 2024")
+[](https://www.home-assistant.io/)[2024.7.4](https://www.home-assistant.io/blog/2024/07/03/release-20247/ "Latest version 2024.7.4 released July 30, 2024")
 
 * [Getting started](https://www.home-assistant.io/installation/)
 * [Documentation](https://www.home-assistant.io/docs/)
@@ -87,7 +87,7 @@ _This privacy policy has been adapted from the [Automattic privacy policy](https
 
 Suggest an edit to this page, or provide/view feedback for this page.
 
-[Edit](https://github.com/home-assistant/home-assistant.io/tree/current/source/privacy/index.markdown) [Provide feedback](https://github.com/home-assistant/home-assistant.io/issues/new?template=feedback.yml&url=https%3A%2F%2Fwww.home-assistant.io%2Fprivacy%2F&version=2024.7.3&labels=current) [View given feedback](https://github.com/home-assistant/home-assistant.io/issues?utf8=%E2%9C%93&q=%22%2Fprivacy%2F%22&in=body)
+[Edit](https://github.com/home-assistant/home-assistant.io/tree/current/source/privacy/index.markdown) [Provide feedback](https://github.com/home-assistant/home-assistant.io/issues/new?template=feedback.yml&url=https%3A%2F%2Fwww.home-assistant.io%2Fprivacy%2F&version=2024.7.4&labels=current) [View given feedback](https://github.com/home-assistant/home-assistant.io/issues?utf8=%E2%9C%93&q=%22%2Fprivacy%2F%22&in=body)
 
 ![Home Assistant](/images/footer-logo-text.svg)
 
