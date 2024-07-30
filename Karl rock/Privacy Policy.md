@@ -189,7 +189,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [July 12, 2024](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/)
-* [2 Comments on Accused of Pooping in the Shower? How to Contest Fake Hotel Fees!](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/#comments)
+* [4 Comments on Accused of Pooping in the Shower? How to Contest Fake Hotel Fees!](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/#comments)
 
 ![The hotel where this happened](https://blog.karlrock.com/wp-content/uploads/2024/07/hotel-Outside-1200x675.jpeg)
 
@@ -406,21 +406,21 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
-    
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
-    
-* [![Travellers Beware, Don’t Buy Fake Water in India!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/10/Fake-Bisleri-Mineral-Water-Bottles-1L-Bilseir-Bisferi-Bisllari.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
-    
-    [Travellers Beware, Don’t Buy Fake Water in India!](https://blog.karlrock.com/travellers-beware-dont-buy-fake-water-in-india/ "Travellers Beware, Don’t Buy Fake Water in India!")
-    
 * [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-* [![How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Pakistan-visa-on-arrival-process-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
+* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
-    [How to Apply for a Pakistan Visa-on-Arrival & What Happens When You Land?](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
+    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    
+* [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+    
+    [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
