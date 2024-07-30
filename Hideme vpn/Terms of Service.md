@@ -83,7 +83,7 @@ EN
 Terms of Service
 ================
 
-_Last update 25 August 2019_
+_Last update 30 July 2024_
 
 These Terms and Condition (“Terms”) govern your relationship with the VPN service (the “Service”) operated by eVenture Ltd (“hide.me VPN”, “us”, “we”, or “our”). These terms also govern the use of and access to our content (“Content”), applications (“Apps”) and any software provided by us (“Software”).
 
@@ -125,7 +125,9 @@ If you are not completely satisfied with our VPN services, and you notify us in 
   
 If a refund is due, you will be notified by e-mail; it can take up to 10 days after cancellation of your contract to receive your refund depending on payment form used. If you have not received your refund after 10 days, please inform us using the contact form.  
   
-Our Free plan is completely free of any charges and it is not renewed automatically.
+Our Free plan is completely free of any charges and it is not renewed automatically.  
+  
+For purchases made through Google Play Store or Apple App Store, the respective store's refund policies apply, and our general refund policy does not apply to these transactions.
 
 ##### 7\. License
 
