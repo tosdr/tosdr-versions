@@ -227,7 +227,7 @@ Skip to main content
             
         * [Impact Report](https://www.fnbo.com/community/impact-report "Impact Report")
             
-        * [Commitment to Community Impact](https://www.fnbo.com/community/commitment-to-community "Commitment to Community Impact")
+        * [Commitment to Community Impact](https://www.fnbo.com/impact "Commitment to Community Impact")
             
         * [CRA](https://www.fnbo.com/community/community-reinvestment-act "CRA")
             
