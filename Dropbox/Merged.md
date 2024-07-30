@@ -165,7 +165,7 @@ Effective: September 26, 2023
 
 You can see the previous Privacy Policy [here](https://www.dropbox.com/privacy/previous).
 
-Thanks for using Dropbox! Here we describe how we collect, use, and handle your personal data when you use our websites, software, and services (“Services”). For more information and details, please see our [Frequently Asked Questions page](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq).
+Thanks for using Dropbox! Here we describe how we collect, use, and handle your personal data when you use our websites, software, and services (“Services”). For more information and details, please see our [Frequently Asked Questions page](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq).  
 
 What & Why
 
