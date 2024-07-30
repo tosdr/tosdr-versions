@@ -345,33 +345,23 @@ GlobalSign is the leading provider of trusted identity and security solutions en
 Follow Us
 
 * [](https://www.facebook.com/GlobalSignSSL)
+* [](https://www.facebook.com/GlobalSignAPAC)
 * [](https://www.instagram.com/globalsign/)
 * [](https://www.linkedin.com/company/globalsign/)
-* [](https://twitter.com/globalsign)
-* [](https://www.youtube.com/user/GlobalSignVideos)
-
-* [](https://www.facebook.com/GlobalSignAPAC)
-* [](https://twitter.com/globalsignapac)
-* [](https://www.linkedin.com/company/globalsign-apac/)
-* [](https://www.youtube.com/channel/UCXSgY-l9xFbpRIVObBegFSw)
-
-* [](https://www.facebook.com/GlobalSignSSL)
-* [](https://www.instagram.com/globalsign/)
 * [](https://www.linkedin.com/showcase/globalsign-middle-east/)
-* [](https://twitter.com/globalsign)
-* [](https://www.youtube.com/user/GlobalSignVideos)
-
-* [](https://www.facebook.com/GlobalSignSSL)
-* [](https://twitter.com/globalsign)
 * [](https://www.linkedin.com/showcase/globalsign-india/)
+* [](https://www.linkedin.com/company/globalsign-apac/)
+* [](https://twitter.com/globalsign)
+* [](https://twitter.com/globalsignapac)
 * [](https://www.youtube.com/user/GlobalSignVideos)
-* [](https://www.instagram.com/globalsign/)
+* [](https://www.youtube.com/channel/UCXSgY-l9xFbpRIVObBegFSw)
 
 About
 
 * [Company Profile](https://www.globalsign.com/en/company)
 * [News & Events](https://www.globalsign.com/en/company/news-events)
 * [Blog](https://www.globalsign.com/en/blog)
+* [Blog](https://www.globalsign.com/en-sg/blog)
 * [Legal Repository](https://www.globalsign.com/en/repository)
 * [Corporate Policies](https://www.globalsign.com/en/company/corporate-policies)
 * [Locations & Contacts](https://www.globalsign.com/en/company/contact)
