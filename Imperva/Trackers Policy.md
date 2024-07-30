@@ -1,4 +1,4 @@
-WP                                                Cookie Notice | Imperva                                                                         
+WP                                                  Cookie Notice | Imperva                                                                         
 
 [![Imperva](https://www.imperva.com/trust-center/wp-content/uploads/2023/12/imperva-a-thales-company-light.svg)](https://www.imperva.com/)
 
@@ -133,11 +133,6 @@ English
         
         Data discovery & classification](https://www.imperva.com/products/data-security/data-discovery-classification/)
     
-    * [![](https://www.imperva.com/trust-center/wp-content/uploads/2023/02/cloud-data-security.svg)
-        
-        Cloud Data Security
-        
-        SaaS-based data posture management and protection](https://www.imperva.com/products/cloud-data-security/)
     * [The Imperva Advantage](javascript:void(0);)
     
     * [![](https://www.imperva.com/trust-center/wp-content/uploads/2023/12/icon_coverage_black.845bc853-1.svg)
