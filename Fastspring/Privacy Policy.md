@@ -263,13 +263,7 @@ As explained here we sometimes provide Personal Information to third parties to 
 
 Where the EU-U.S. DPF is not applicable, including when there are transfers from the United Kingdom (UK) or Switzerland, FastSpring executes the Standard Contractual Clauses for the purposes of lawful transfer of personal data as set out in European Commission Decision (EU) 2021/914 of 4 June 2021, as well as the UK International Data Transfer Addendum to the EU Standard Contractual Clauses as issued by the UK Information Commissioner under S119A(1) Data Protection Act 2018 (as applicable to any transfers from the UK to non-adequate third countries).
 
-_Data Retention Policies._  Pursuant to data protection laws, we retain your Personal Information only for the period necessary to achieve the purposes for which it has been collected as set out in this Privacy Statement. We therefore retain Personal Information as follows:
-
-* Personal Information used for shipping and billing: 2 years after your last order;
-* Payment Information: only for the duration of the payment;
-* Personal Information used for marketing purposes: 3 years after the last contact with you (e.g., request for information).
-
-After these periods, we will delete the corresponding Personal Information.
+_Data Retention Policies_.  We will retain your Personal Information only for as long as necessary to fulfill the purposes for which we have collected it. To determine the appropriate retention period, we consider the amount, nature and sensitivity of your Personal Information, the potential risk of harm from unauthorized use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means and the applicable legal requirements. We will also retain and use your Personal Information to the extent necessary to comply with our legal obligations, resolve disputes and enforce our policies. If you stop using our services or if you delete your account with us, we will delete your information in accordance with applicable laws.
 
 **6\. Your Rights & Choices with Respect to Your Personal Information**
 
