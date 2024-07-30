@@ -196,7 +196,7 @@ Was this article helpful?
 
 Yes No
 
-216 out of 297 found this helpful
+216 out of 298 found this helpful
 
 Need help? [Contact our support team](https://support.fastmail.com/support)
 
