@@ -128,9 +128,9 @@ Toggle navigation [![logo](/images/icon/org-mobile/logo.png)](https://www.leawo.
     
     [Apple TV+ Downloader](https://www.leawo.org/save-video/apple-tv-plus-downloader/)[](https://www.leawo.org/save-video/apple-tv-plus-downloader/)[](https://www.leawo.org/save-video/apple-tv-plus-downloader/?sys=mac)
     
-    [Twitch Downloader](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/?sys=mac)
+    [Crunchyroll Downloader](https://www.leawo.org/save-video/crunchyroll-downloader/)[](https://www.leawo.org/save-video/crunchyroll-downloader/)[](https://www.leawo.org/save-video/crunchyroll-downloader/?sys=mac)
     
-    [NHK+ Downloader](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/?sys=mac)
+    [U-NEXT Downloader](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/?sys=mac)
     
     [PowerPoint to Video Pro](https://www.leawo.org/powerpoint-to-video-pro/)[](https://www.leawo.org/powerpoint-to-video-pro/)
     
@@ -146,7 +146,9 @@ Toggle navigation [![logo](/images/icon/org-mobile/logo.png)](https://www.leawo.
     
     [Paramount+ Downloader](https://www.leawo.org/save-video/paramount-plus-downloader/)[](https://www.leawo.org/save-video/paramount-plus-downloader/)[](https://www.leawo.org/save-video/paramount-plus-downloader/?sys=mac)
     
-    [U-NEXT Downloader](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/?sys=mac)
+    [Twitch Downloader](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/?sys=mac)
+    
+    [NHK+ Downloader](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/?sys=mac)
     
 * [Store(current)](https://www.leawo.org/store/)
 * [Support](https://www.leawo.org/support/)
