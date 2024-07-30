@@ -4,7 +4,7 @@ Own a Piece of Frost Giant Today!
 
 [![](/_astro/sl-logo-small.f1affdcd.png)](https://playstormgate.com/)
 
-[Home](https://playstormgate.com/) [News](https://playstormgate.com/news) [FAQ](https://playstormgate.com/faq)
+[Home](https://playstormgate.com/) [News](https://playstormgate.com/news) [SUPPORT](https://support.playstormgate.com/)
 
 🇺🇸   English 🇪🇸   Español 🇫🇷   Français 🇵🇹   Português 🇩🇪   Deutsch 🇷🇺   Русский 🇰🇷   한국어 🇨🇳   中文 🇹🇼   中文（繁體） [Wishlist on Steam](https://store.steampowered.com/app/2012510/)[Pre-Purchase](https://playstormgate.com/prepurchase)
 
