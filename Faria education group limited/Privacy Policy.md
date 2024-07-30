@@ -60,6 +60,7 @@ ABOUT US
 * [Faria Leadership](https://www.faria.org/team)
 * [Faria Community](https://community.faria.org/)
 * [Newsroom](https://www.faria.org/news)
+* [Careers](https://www.faria.org/careers)
 * [Contact Us](#)
 
 RESOURCES
@@ -338,6 +339,8 @@ About Us
 [Faria Leadership](https://www.faria.org/team)
 
 [Faria Community](https://community.faria.org/)
+
+[Careers](https://www.faria.org/careers)
 
 [Newsroom](https://www.faria.org/news)
 
