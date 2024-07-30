@@ -24,7 +24,7 @@ Learn More](https://www.jornaya.com/partners/snowflake/)
             * [CMO & Marketers](https://www.jornaya.com/cmos-and-marketers/)
             * [Compliance](https://www.jornaya.com/compliance/)
             * [Lead Acquisition](https://www.jornaya.com/lead-acquisition/)
-            * [Lead Seller](https://www.jornaya.com/lead-sellers/)
+            * [Lead Sellers](https://www.jornaya.com/lead-sellers/)
             * [Product & Strategy](https://www.jornaya.com/product-strategy/)
 * What We Do
     * * ![snowflake-menu-inset](https://marketing.verisk.com/wp-content/uploads/2024/07/snowflake-menu-inset.png)Discover Verisk datasets through Snowflake Marketplace
@@ -35,7 +35,7 @@ Learn More](https://www.jornaya.com/partners/snowflake/)
             * [Real-Time Decisions](https://www.jornaya.com/real-time-decisions)
             * [1st Party Data Enrichment](https://www.jornaya.com/first-party-enrichment-and-monitoring/)
             * [Data Licensing & Syndication](https://www.jornaya.com/data-licensing-and-syndication/)
-            * [Publisher Partner Program](https://www.jornaya.com/publisher-partner-program-join/)
+            * [LeadiD Creator Program](https://www.jornaya.com/leadid-creator-program-join/)
             * [Strategic Alliances](https://marketing.verisk.com/partners/)
             * [Services](https://marketing.verisk.com/services/)
 * [Resources](https://marketing.verisk.com/category/resources/)
@@ -51,7 +51,7 @@ Learn More](https://www.jornaya.com/partners/snowflake/)
             * [Case Studies](https://marketing.verisk.com/category/case-studies/)
 * [About Us](#)
     * [Our Company](https://marketing.verisk.com/about-us/)
-    * [Data Privacy](https://marketing.verisk.com/privacy-notices/)
+    * [Data Privacy](https://marketing.verisk.com/privacy-center/)
 * [Contact Us](https://marketing.verisk.com/contact-us/)
 
 Close
@@ -188,6 +188,14 @@ Discover the data and insights to future-proof omnichannel personalization.
 Additional Resources to Guide You
 ---------------------------------
 
+[](https://marketing.verisk.com/drive-secure-consumer-insights-for-financial-services-in-snowflake-marketplace/ "Drive Secure Consumer Insights for Financial Services in Snowflake Marketplace")![Drive Secure Consumer Insights for Financial Services in Snowflake Marketplace](https://marketing.verisk.com/wp-content/uploads/2024/07/financial-services-consumer-insights-1024x644.jpg)
+
+#### Drive Secure Consumer Insights for Financial Services in Snowflake Marketplace
+
+Learn how financial services organizations are leveraging the award-winning Total Consumer Insights (TCI) solution through Snowflake Marketplace. Verisk Marketing Solutions’ \[…\]
+
+[Read more](https://marketing.verisk.com/drive-secure-consumer-insights-for-financial-services-in-snowflake-marketplace/ "Read more")
+
 [](https://marketing.verisk.com/identify-shoppers-earlier-in-the-funnel-with-inmarket-scores/ "Identify Shoppers Earlier in the Funnel with InMarket Scores")![Identify Shoppers Earlier in the Funnel with InMarket Scores](https://marketing.verisk.com/wp-content/uploads/2024/07/woman-online-research-insurance-shopping-2-1024x658.jpg)
 
 #### Identify Shoppers Earlier in the Funnel with InMarket Scores
@@ -203,14 +211,6 @@ Enhance your ability to identify and engage those consumers that are most likely
 Seamlessly infuse marketing workflows and advertising strategies with actionable consumer insights. Maintaining the most current and detailed view of your \[…\]
 
 [Read more](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Read more")
-
-[](https://marketing.verisk.com/how-marketers-can-build-industry-leading-customer-segmentation-strategies/ "How Marketers Can Build Industry-Leading Customer Segmentation Strategies")![How Marketers Can Build Industry-Leading Customer Segmentation Strategies](https://marketing.verisk.com/wp-content/uploads/2024/04/customer-grid-1024x576.jpg)
-
-#### How Marketers Can Build Industry-Leading Customer Segmentation Strategies
-
-How do you define data accuracy in your customer segmentation strategy? What makes personalization truly work? How do you remain \[…\]
-
-[Read more](https://marketing.verisk.com/how-marketers-can-build-industry-leading-customer-segmentation-strategies/ "Read more")
 
 ### Stay connected on the latest from Verisk Marketing Solutions
 
@@ -241,7 +241,7 @@ Who We Help by Role
 * [CMOs & Marketers](https://marketing.verisk.com/cmos-and-marketers/)
 * [Compliance](https://marketing.verisk.com/compliance/)
 * [Lead Acquisition](https://marketing.verisk.com/lead-acquisition/)
-* [Lead Sellers](https://marketing.verisk.com/lead-sellers/)
+* [Lead Sellers](https://marketing.verisk.com/leadid-creator-program-join/)
 * [Product & Strategy](https://marketing.verisk.com/product-strategy/)
 
 More
@@ -249,12 +249,10 @@ More
 
 * [About Us](https://marketing.verisk.com/about-us/)
 * [Resources](https://marketing.verisk.com/resources/)
-* [Publisher Partner Program: Benefits](https://marketing.verisk.com/publisher-partner-program-resource-center/)
-* [Publisher Partner Program: Sign Up](https://marketing.verisk.com/publisher-partner-program-join/)
-* [LeadiD Create](https://marketing.verisk.com/leadid-create/)
+* [Leadid Creator Program Sign Up](https://marketing.verisk.com/leadid-creator-program-join/)
 
-[Privacy Notices](https://www.jornaya.com/privacy-notices/) | [Manage Cookie Preferences](https://www.jornaya.com/cookie-preferences/)  
-![](/wp-content/uploads/2023/04/privacyoptions29x14.png) Your Privacy Choices for [Jornaya](https://privacy-central.securiti.ai/#/dsr-universal/d22d7639-4e9d-4a81-b37c-040fd51356e2) | [Infutor](https://privacy.infutor.com/s/)
+[Privacy Center](https://www.jornaya.com/privacy-center/) | [Manage Cookie Preferences](https://www.jornaya.com/cookie-preferences/)  
+![](/wp-content/uploads/2023/04/privacyoptions29x14.png) Your Privacy Choices for [Platform Services](https://privacy-central.securiti.ai/#/dsr-universal/d22d7639-4e9d-4a81-b37c-040fd51356e2) | [Data Services](https://privacy.infutor.com/s/)
 
    
 
