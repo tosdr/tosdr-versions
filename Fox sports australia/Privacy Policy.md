@@ -18,92 +18,94 @@ FOX SCORES
     
 * [NRL Women's
     
-    27/7 11:00 AEST
+    3/8 11:00 AEST
     
     |     |     |
     | --- | --- |
-    | CRO | –   |
+    | CBR | –   |
+    | NEW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240201)
+* [NRL
+    
+    1/8 19:50 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WST | –   |
     | NQL | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240102)
-* [NRL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | PAR | 14  |
-    | MEL | 32  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242102/match-report)
-* [NRL
-    
-    27/7 15:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BRI | –   |
-    | CBY | –   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242103)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242201)
 * AFL
     
 * [AFL
     
-    27/7 13:45 AEST
+    2/8 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | NM  | –   |
-    | GEE | –   |
+    | WBD | –   |
+    | MEL | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242002)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242101)
+* [AFL
+    
+    2/8 20:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WCE | –   |
+    | GCS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242102)
 * Netball
     
 * [Super Netball
     
-    27/7 17:00 AEST
+    3/8 19:00 AEST
     
     |     |     |
     | --- | --- |
+    | THU | –   |
     | VIX | –   |
-    | FEV | –   |
     
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241601)
+    Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241701)
 * Motorsport
     
-* [Formula 1
+* [MotoGP
     
-    26/7 21:30 AEST
+    2/8 19:45 AEST
     
     |     |
     | --- |
-    | Belgian Grand Prix |
+    | German GP |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=588)
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=706)
 * Cricket
     
-* [Men's Test
+* [Men's Hundred
     
-    Day 1
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 3 /38 |
-    | WI  | 282 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240103)
-* [Women's T20I
-    
-    IND won by 10 wkts
+    TR won by 1 run
     
     |     |     |
     | --- | --- |
-    | IND | 0 /83 |
-    | BAN | 8 /80 |
+    | MO  | 8 /144 |
+    | TR  | 7 /145 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I20241013)
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=M10020240107)
+* Basketball
+    
+* [Men's Olympics
+    
+    30/7 21:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAN | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match?matchid=MOLY2024020001)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -722,6 +724,7 @@ FOX SCORES
 * [AFL](https://www.foxsports.com.au/video/afl/afl)
 * [Press Conferences](https://www.foxsports.com.au/video/afl/press-conferences)
 * [Buddy 300](https://www.foxsports.com.au/video/afl/buddy-300)
+* [AFL Tonight](https://www.foxsports.com.au/video/afl/afl-tonight)
 * [AFL 360](https://www.foxsports.com.au/video/afl/afl-360)
 * [On the Couch](https://www.foxsports.com.au/video/afl/on-the-couch)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
@@ -856,7 +859,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
