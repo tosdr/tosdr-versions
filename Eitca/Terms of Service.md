@@ -353,13 +353,13 @@ Search for:
 
 ### MOST RATED
 
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-OS-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-os-icon.png) EITC/IS/OS Operating systems security](https://eitca.org/certification/eitcisos-operating-systems-security/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/eitca-kc-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitca-kc-icon.png) EITCA/KC Information Technologies Key Competencies Academy](https://eitca.org/certification/eitcakc-information-technologies-key-competencies-academy/) € 1,100.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-DLPP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-dlpp-icon.png) EITC/AI/DLPP Deep Learning with Python and PyTorch](https://eitca.org/certification/eitc-ai-dlpp-deep-learning-with-python-and-pytorch/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-AI-AIF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-ai-aif-icon.png) EITC/AI/AIF Artificial intelligence fundamentals](https://eitca.org/certification/eitcaiaif-artificial-intelligence-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-OOW-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-oow-icon.png) EITC/BI/OOW Word processing software fundamentals (OpenOffice)](https://eitca.org/certification/eitcbioow-word-processing-software-fundamentals-openoffice/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-INT-ITAF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-int-itaf-icon.png) EITC/INT/ITAF Internet technologies and applications fundamentals](https://eitca.org/certification/eitcintitaf-internet-technologies-and-applications-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wfa-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wfa-icon.png) EITC/WD/WFA Advanced Webflow](https://eitca.org/certification/eitc-wd-wfa-advanced-webflow/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-MIIT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-miit-icon.png) EITC/BI/MIIT Management in information technologies](https://eitca.org/certification/eitcbimiit-management-in-information-technologies/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AD-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ad-icon.png) EITC/CG/AD Web pages design fundamentals (Adobe Dreamweaver)](https://eitca.org/certification/eitccgad-web-pages-design-fundamentals-adobe-dreamweaver/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-ISCF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-iscf-icon.png) EITC/IS/ISCF Information security and cryptography fundamentals](https://eitca.org/certification/eitcisiscf-information-security-and-cryptography-fundamentals/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-icon.png) EITC/EL/LDASH LearnDash WordPress LMS](https://eitca.org/certification/eitc-el-ldash-learndash-wordpress-lms/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn2-icon.png) EITC/CN/SCN2 Computer networking 2](https://eitca.org/certification/eitccnscn2-computer-networking-2/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-CAG1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-cag-icon.png) EITC/CG/CAG Conceptual aspects of graphics](https://eitca.org/certification/eitccgcag-conceptual-aspects-of-graphics/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ADL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-adl-icon.png) EITC/AI/ADL Advanced Deep Learning](https://eitca.org/certification/eitc-ai-adl-advanced-deep-learning/) € 110.00
 
 ### What are you looking for?
 
