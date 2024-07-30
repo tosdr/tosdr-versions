@@ -2,7 +2,7 @@
 
 [Wörterbuch](https://www.duden.de/woerterbuch)
 
-[Ⓜ︎ Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
+[Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
 
 [Alle Angebote](https://www.duden.de/service)
 
