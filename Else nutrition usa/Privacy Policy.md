@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-[Try New Kids Vanilla Shake Mix! New recipe & now 25% MORE per can!](https://elsenutrition.com/collections/kids-products/products/my-first-plant-shake-plant-powered-complete-nutrition-shake-for-kids-vanilla-flavor)
+Free Delivery on orders over $59
 
   [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
