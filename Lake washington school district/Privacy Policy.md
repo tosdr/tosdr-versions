@@ -146,14 +146,13 @@
     * [Classlink(opens in new window/tab)](https://launchpad.classlink.com/lwsd)
     * [Cornerstone(opens in new window/tab)](https://lwsd.csod.com/samldefault.aspx)
     * [Email Access](http://outlook.com/owa/lwsd.onmicrosoft.com)
-    * [Employee Access(opens in new window/tab)](https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/seplog01.w)
-    * [EPIIC(opens in new window/tab)](https://lwsd.sharepoint.com/sites/EPIIC)
+    * [Skyward(opens in new window/tab)](https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/seplog01.w)
     * [HelpCentral(opens in new window/tab)](https://lwsd.sharepoint.com/sites/KIT/HelpCentral)
     * [InfoCentre](https://www.lwsd.org/archives/staff-portal-archive/facilities/infocentre)
     * [New Employee Setup](https://www.lwsd.org/util-staff/new-employee-setup)
     * [OneDrive](http://lwsd.onedrive.com/)
     * [Policies and Regulations](https://www.lwsd.org/about-us/policy-and-regulations)
-    * [Staff Portal(opens in new window/tab)](https://www.lwsd.org/staff)
+    * [Staff Portal(opens in new window/tab)](https://lwsd.sharepoint.com/sites/EPIIC)
     * [Warehouse Request(opens in new window/tab)](https://lwsd.jotform.com/app/231804628014955)
     
 
@@ -170,21 +169,21 @@ News
 
 [All News](https://www.lwsd.org/fs/pages/1009)
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show)
+[](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show)
 
-[Timberline chosen for Million Bazillion Live game show](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show) 
-
-Jun 27 2024
-
-[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
-
-[OSPI recognizes 35 LWSD schools through the Washington School Recognition Program](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
+[Timberline chosen for Million Bazillion Live game show](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show) 
 
 Jun 27 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
+[](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
 
-[Lake Washington School District receives grant funding for two additional zero-emission buses](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
+[OSPI recognizes 35 LWSD schools through the Washington School Recognition Program](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
+
+Jun 27 2024
+
+[](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
+
+[Lake Washington School District receives grant funding for two additional zero-emission buses](https://lwsdorg-1416-us-west1-01.preview.finalsitecdn.com/services/communications/news-and-stories/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
 
 Jun 27 2024
 
@@ -380,14 +379,13 @@ Recent News
     * [Classlink(opens in new window/tab)](https://launchpad.classlink.com/lwsd)
     * [Cornerstone(opens in new window/tab)](https://lwsd.csod.com/samldefault.aspx)
     * [Email Access](http://outlook.com/owa/lwsd.onmicrosoft.com)
-    * [Employee Access(opens in new window/tab)](https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/seplog01.w)
-    * [EPIIC(opens in new window/tab)](https://lwsd.sharepoint.com/sites/EPIIC)
+    * [Skyward(opens in new window/tab)](https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/seplog01.w)
     * [HelpCentral(opens in new window/tab)](https://lwsd.sharepoint.com/sites/KIT/HelpCentral)
     * [InfoCentre](https://www.lwsd.org/archives/staff-portal-archive/facilities/infocentre)
     * [New Employee Setup](https://www.lwsd.org/util-staff/new-employee-setup)
     * [OneDrive](http://lwsd.onedrive.com/)
     * [Policies and Regulations](https://www.lwsd.org/about-us/policy-and-regulations)
-    * [Staff Portal(opens in new window/tab)](https://www.lwsd.org/staff)
+    * [Staff Portal(opens in new window/tab)](https://lwsd.sharepoint.com/sites/EPIIC)
     * [Warehouse Request(opens in new window/tab)](https://lwsd.jotform.com/app/231804628014955)
     
 
