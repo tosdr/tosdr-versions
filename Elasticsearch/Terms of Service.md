@@ -125,7 +125,8 @@ Discover a world of AI possibilities — built with the power of search.
 Protect, investigate, and respond to cyber threats with AI-driven security analytics.
 
 * [SIEM](https://www.elastic.co/security/siem)
-* [Attack Discovery: AI for the SOC](https://www.elastic.co/security/ai)
+* [AI for the SOC](https://www.elastic.co/security/ai)
+* [Threat Research](https://www.elastic.co/security/cyber-threat-research)
 
 * * *
 
