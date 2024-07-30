@@ -137,16 +137,16 @@ Latest reviews
 
 Finished challenges
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![Give me a high five!](https://g1.img-dpreview.com/E4E9172DADA44A8B873DCEFD1FF8D653.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248431) | [![Mount Taranaki](https://g4.img-dpreview.com/91032B19FE71495BB83ED4DB1971AFC8.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248408) | [![Synchronised](https://g1.img-dpreview.com/F0898CDBE15D493392758C8D05395153.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248345) | [![Räven](https://g3.img-dpreview.com/B1D04C7A9D294A509C266F660F06FFEB.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248237) |
-| Give me a high five! by Hooyat  <br>from Mascots in action | Mount Taranaki by NZ Scott  <br>from Panorama | Synchronised by Barry Twycross  <br>from Fortnight 29: My Best Non-bird Photo Shot after 2024-06-24 | Räven by CarlosU  <br>from Foxes Unlimited |
+|     |     |     |
+| --- | --- | --- |
+| [![Grasshopper lunch](https://g1.img-dpreview.com/77EFF2177B2448589467BE83E55CB40F.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248460) | [![Give me a high five!](https://g1.img-dpreview.com/E4E9172DADA44A8B873DCEFD1FF8D653.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248431) | [![Mount Taranaki](https://g4.img-dpreview.com/91032B19FE71495BB83ED4DB1971AFC8.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248408) |
+| Grasshopper lunch by CarlosU  <br>from A Big Year 2024 | Give me a high five! by Hooyat  <br>from Mascots in action | Mount Taranaki by NZ Scott  <br>from Panorama |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Canon EOS R5 Mark II4.4%](https://www.dpreview.com/products/canon/slrs/canon_eosr5ii)[Canon EOS R13.3%](https://www.dpreview.com/products/canon/slrs/canon_eosr1)[Nikon Zf1.6%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.6%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.5%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Leica D-Lux 81.5%](https://www.dpreview.com/products/leica/compacts/leica_dlux8)[Sony ZV-E10 II1.3%](https://www.dpreview.com/products/sony/slrs/sony_zve10ii)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS R6 Mark II1.2%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Sony ZV-1 Mark II1.1%](https://www.dpreview.com/products/sony/compacts/sony_zv1m2)
+[Canon EOS R5 Mark II2.6%](https://www.dpreview.com/products/canon/slrs/canon_eosr5ii)[Canon EOS R11.9%](https://www.dpreview.com/products/canon/slrs/canon_eosr1)[Sony a67001.7%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Nikon Zf1.7%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.5%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Leica D-Lux 81.4%](https://www.dpreview.com/products/leica/compacts/leica_dlux8)[Sony ZV-E10 II1.2%](https://www.dpreview.com/products/sony/slrs/sony_zve10ii)[Canon PowerShot G7 X Mark III1.2%](https://www.dpreview.com/products/canon/compacts/canon_g7xiii)[Sony ZV-1 Mark II1.2%](https://www.dpreview.com/products/sony/compacts/sony_zv1m2)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -160,26 +160,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 56  | [DSLR vs Mirrorless durability](https://www.dpreview.com/forums/post/67834831) |
-| 47  | [Sony RX10 IV image quality, autofocus, and value in 2024?](https://www.dpreview.com/forums/post/67835040) |
-| 40  | [When to use \[HH\]HR?](https://www.dpreview.com/forums/post/67834674) |
-| 37  | [Why Fuji doesn’t make f1.8 lenses?](https://www.dpreview.com/forums/post/67835262) |
-| 30  | [X100VI ordered May 1, not expected until November 17 or later](https://www.dpreview.com/forums/post/67834967) |
-| 30  | [\* The Weekly Image Thread 24 07 25 #898 \*](https://www.dpreview.com/forums/post/67835873) |
-| 27  | [How did in body stabilization go from 2 stops to 8 stops over the last 20yr?](https://www.dpreview.com/forums/post/67835517) |
-| 26  | [Would You Buy New F-Mount Lenses For the Right Price?](https://www.dpreview.com/forums/post/67836342) |
-| 26  | [Duane Paton R5ii opinion (not a review)](https://www.dpreview.com/forums/post/67834710) |
-| 25  | [Nikon Z 24-120 + 100-400 travel setup. How do you carry it?](https://www.dpreview.com/forums/post/67835397) |
-| 24  | [CFe/SD card logic](https://www.dpreview.com/forums/post/67836402) |
-| 23  | [Not been having much luck shooting recently](https://www.dpreview.com/forums/post/67834709) |
-| 23  | [When's the last time you backed up your work ?](https://www.dpreview.com/forums/post/67834479) |
-| 23  | [Should I quit Film Photography?](https://www.dpreview.com/forums/post/67836653) |
-| 21  | [A7V coming next?](https://www.dpreview.com/forums/post/67835379) |
-| 20  | [Jumping to the yellow ship, need help](https://www.dpreview.com/forums/post/67837129) |
-| 17  | [OM1 Mark II metering?](https://www.dpreview.com/forums/post/67835280) |
-| 17  | [A "fast" lens??](https://www.dpreview.com/forums/post/67835284) |
-| 17  | [Nikon Z8 Video exposure](https://www.dpreview.com/forums/post/67835959) |
-| 16  | [How's the Z6iii vs Z8 for Bird subject detection?](https://www.dpreview.com/forums/post/67834459) |
+| 46  | [\* The Weekly Image Thread 24 07 28 #899 \*](https://www.dpreview.com/forums/post/67840950) |
+| 44  | [Nikon Z9 Issues And ISO Disapointment](https://www.dpreview.com/forums/post/67839998) |
+| 35  | [\*\*\*\*Mini Challenge #753 -- your favourite sunrises and/or sunsets\*\*\*\*](https://www.dpreview.com/forums/post/67840504) |
+| 35  | [Sony 20-70 f4 G or Tamron 28-200 for theme parks](https://www.dpreview.com/forums/post/67841361) |
+| 35  | [Somewhat Brutal, But Informative Review Of Nikon Zf](https://www.dpreview.com/forums/post/67841530) |
+| 35  | [OM-1 & 12-45mm f/4 Travel Combo - Anyone?](https://www.dpreview.com/forums/post/67842297) |
+| 29  | [Panasonic G9II/GH7 Autofocus vs G9/GH5M2 - How much an improvement it is?](https://www.dpreview.com/forums/post/67840298) |
+| 26  | [standardization](https://www.dpreview.com/forums/post/67840062) |
+| 23  | [Edit RAW files or use JPEG from camera?](https://www.dpreview.com/forums/post/67840946) |
+| 22  | [Editing with lightroom](https://www.dpreview.com/forums/post/67841125) |
+| 21  | [Thom Hogan Z6iii review is up](https://www.dpreview.com/forums/post/67842348) |
+| 18  | [How about a "Zombie" flag for old threads resurrected?](https://www.dpreview.com/forums/post/67841425) |
+| 18  | [do newer cameras have better color and less noise than my E-M5iii?](https://www.dpreview.com/forums/post/67840602) |
+| 16  | [C1,2,3,4 assigned to a button? (Olympus)](https://www.dpreview.com/forums/post/67840514) |
+| 16  | [Comparing a Nikon Z6II with a D800](https://www.dpreview.com/forums/post/67841085) |
+| 15  | [Z 24-50 f/4-6.3 experiences?](https://www.dpreview.com/forums/post/67840836) |
+| 15  | [An afternoon in Venice](https://www.dpreview.com/forums/post/67840686) |
+| 15  | [Nikons at the Olympics](https://www.dpreview.com/forums/post/67841969) |
+| 15  | [Should I Buy the X-S20?](https://www.dpreview.com/forums/post/67841963) |
+| 14  | [Your one lens to build your system around.](https://www.dpreview.com/forums/post/67841998) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
