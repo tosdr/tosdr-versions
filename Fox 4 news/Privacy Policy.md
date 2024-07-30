@@ -94,10 +94,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-until MON 7:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -409,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2024 Olympics opening ceremony: How to watch, other things to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2162832408-1.jpg?ve=1&tl=1)
+ [![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1)
 
- ![2024 Olympics opening ceremony: How to watch, other things to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162832408-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/olympics-opening-ceremony-how-to-stream-july-26-2024)
+ ![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
 
-### [2024 Olympics opening ceremony: How to watch, other things to know](https://www.fox4news.com/news/olympics-opening-ceremony-how-to-stream-july-26-2024)
+### [Argyle church's lead pastor resigns after ‘inappropriate actions’](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
 
- [![Video game actors go on strike: Here’s why](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/sag-aftra-strike.jpg?ve=1&tl=1)
+ [![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1)
 
- ![Video game actors go on strike: Here’s why](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/sag-aftra-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-game-actors-strike-why)
+ ![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
 
-### [Video game actors go on strike: Here’s why](https://www.fox4news.com/news/video-game-actors-strike-why)
+### [Irving officer not seriously hurt after rollover crash](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
 
- [![Suspect arrested after Dallas police shooting was wanted for March double murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/ois-deantae-moore.jpg?ve=1&tl=1)
+ [![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1)
 
- ![Suspect arrested after Dallas police shooting was wanted for March double murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/ois-deantae-moore.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/deantae-moore-murder-suspect-dixon-avenue)
+ ![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
 
-### [Suspect arrested after Dallas police shooting was wanted for March double murder](https://www.fox4news.com/news/deantae-moore-murder-suspect-dixon-avenue)
+### [Dallas woman warns of new jury duty scam after nearly falling for it](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
 
- [![Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/Trump-and-Netanyahu-meet.jpg?ve=1&tl=1)
+ [![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/snapshot-1.jpg?ve=1&tl=1)
 
- ![Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/Trump-and-Netanyahu-meet.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/netanyahu-trump-meeting-mar-a-lago)
+ ![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/snapshot-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
 
-### [Trump welcomes Netanyahu during meeting at Mar-a-Lago estate](https://www.fox4news.com/news/netanyahu-trump-meeting-mar-a-lago)
+### [Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
 
- [![Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/6P-190-TZ-COWBOYS-PRACTICE_00.00.14.56.jpg?ve=1&tl=1)
+ [![Pets can smell your stress, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-1034567206.jpg?ve=1&tl=1)
 
- ![Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/6P-190-TZ-COWBOYS-PRACTICE_00.00.14.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-training-camp-first-practice-2024)
+ ![Pets can smell your stress, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-1034567206.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
 
-### [Jerry Jones explains what it means to be 'all in' as Dallas Cowboys begin training camp workouts](https://www.fox4news.com/sports/dallas-cowboys-training-camp-first-practice-2024)
+### [Pets can smell your stress, study finds](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
 
 ###### [News](https://www.fox4news.com/news)
 
