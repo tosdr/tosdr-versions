@@ -15,10 +15,12 @@
     * [Places](https://www.inaturalist.org/places)
     * [Site Stats](https://www.inaturalist.org/stats)
     
-    * [Help](https://www.inaturalist.org/help)
-    * [Video Tutorials](https://www.inaturalist.org/pages/video+tutorials)
-    * [Managing Projects](https://www.inaturalist.org/pages/managing-projects)
-    * [Teacher's Guide](https://www.inaturalist.org/pages/teacher's+guide)
+    * [Help](https://help.inaturalist.org/)
+    * [Getting Started](https://help.inaturalist.org/en/support/solutions/folders/151000552105)
+    * [Understanding Projects](https://help.inaturalist.org/en/support/solutions/articles/151000176472-understanding-projects-on-inaturalist)
+    * [Educator's Guide](https://help.inaturalist.org/en/support/solutions/articles/151000170805-inaturalist-educator-s-guide)
+    * [Video Tutorials](https://help.inaturalist.org/en/support/solutions/folders/151000547795)
+    * [Curator Guide](https://www.inaturalist.org/pages/curator+guide)
     
 
 * [Log In](https://www.inaturalist.org/login) or [Sign Up](https://www.inaturalist.org/signup)
@@ -111,7 +113,7 @@ Revised on July 8, 2024 05:48 PM by [![tiwane](https://static.inaturalist.org/at
 
 [About](https://www.inaturalist.org/pages/about)
 
-[Help](https://www.inaturalist.org/pages/help)
+[Help](https://help.inaturalist.org/)
 
 [Forum](https://forum.inaturalist.org/)
 
