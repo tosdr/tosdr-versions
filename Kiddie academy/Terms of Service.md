@@ -5,7 +5,7 @@
 * [Outcomes for Life](https://kiddieacademy.com/academies/approach-to-childcare/)
 * [Programs](https://kiddieacademy.com/our-curriculum/)
     
-    * [Infant 6 months to 12 months](https://kiddieacademy.com/academies/programs/infant-daycare/)
+    * [Infant 6 weeks to 12 months](https://kiddieacademy.com/academies/programs/infant-daycare/)
     * [Toddler 13 to 24 months](https://kiddieacademy.com/academies/programs/toddler-daycare-curriculum/)
     * [Early Preschool 2-Year-Olds](https://kiddieacademy.com/academies/programs/early-preschool/)
     * [Preschool 3-Year-Olds](https://kiddieacademy.com/academies/programs/preschool/)
