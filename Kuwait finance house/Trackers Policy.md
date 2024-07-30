@@ -208,7 +208,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DSkiyfJWcgERnpkQ4BjfS07kNg_fT6qN7gnBD35e5DU-rdf9cQafd!-2059054559 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
@@ -278,7 +278,7 @@ Locating a Kuwait Finance House branches or ATMs is now faster and simpler with 
 
 ![](/dam/jcr:812e063a-cc44-4172-a892-46cd9f4a0893/circle-icn2.png)
 
-### CALL US 24/7 "ALLO BAITAK" 1803333
+### CALL US 24/7 "Batik telephone service" 1803333
 
 **USA & Canada**
 
@@ -304,7 +304,7 @@ Locating a Kuwait Finance House branches or ATMs is now faster and simpler with 
 
 **900-905-440**
 
-Please use a local phone number for the country you wish to communicate through to avoid international calling fees 
+This service is free for customers using mobile and landline phones in the mentioned countries only and does not include roaming service.
 
 ![](/dam/jcr:dde0969a-853f-4eed-84c1-becca19a967d/circle-icn3.png)
 
@@ -320,7 +320,7 @@ You can contact us by clicking the ‘contact us’ button. We will get back to 
 
 ![...](/dam/jcr:812e063a-cc44-4172-a892-46cd9f4a0893/circle-icn2.png)
 
-### CALL US 24/7 "ALLO BAITAK" 1803333
+### CALL US 24/7 "Batik telephone service" 1803333
 
 ![...](/dam/jcr:dde0969a-853f-4eed-84c1-becca19a967d/circle-icn3.png)
 
