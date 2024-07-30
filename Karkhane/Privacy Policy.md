@@ -25,36 +25,36 @@ Privacy Policy
 
 #### **پربازدیدها**
 
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/06/5b-95x65.png)](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)[نمایی از سرمایه‌ی بزرگ و طبقه‌ی کارگر در ایران](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)
 * [![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/app/uploads/2024/04/ofogh-e-kurosh-chain-stores-95x65.jpg)](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)[فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)
 * [![مصوبه دستمزد ۱۴۰۳](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![مصوبه دستمزد ۱۴۰۳](https://karkhane.org/app/uploads/2024/04/Wage-95x65.jpg)](https://karkhane.org/5444/local-wage/)[چرا همیشه ارزش کار در عصر سرمایه پرداخت نشده باقی خواهند ماند؟](https://karkhane.org/5444/local-wage/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/07/file-95x65.png)](https://karkhane.org/5691/exploitation-of-teachers/)[بار کنکور بر دوش معلمان](https://karkhane.org/5691/exploitation-of-teachers/)
+* [![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/app/uploads/2024/03/2-95x65.jpg)](https://karkhane.org/5390/mohajeran-afghan/)[مهاجران افغان: قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/5390/mohajeran-afghan/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/06/5b-95x65.png)](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)[نمایی از سرمایه‌ی بزرگ و طبقه‌ی کارگر در ایران](https://karkhane.org/5626/a_view_of_big_capital_and_proltariat_in_iran/)
+* [![تفاوت آری، تضاد نه؛ نگاهی به فیلم دست‌نیافتنی‌ها (The Intouchables)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![تفاوت آری، تضاد نه؛ نگاهی به فیلم دست‌نیافتنی‌ها (The Intouchables)](https://karkhane.org/app/uploads/2023/10/tafavot-ari-tazad-na-the-intouchables-95x65.jpg)](https://karkhane.org/5171/the-intouchables-difference-but-no-conflict/)[تفاوت آری، تضاد نه؛ نگاهی به فیلم دست‌نیافتنی‌ها (The Intouchables)](https://karkhane.org/5171/the-intouchables-difference-but-no-conflict/)
 * [![همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](https://karkhane.org/app/uploads/2023/12/hame-chiz-baraye-forush-95x65.jpg)](https://karkhane.org/5231/everything-for-sale-movie-review/)[همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](https://karkhane.org/5231/everything-for-sale-movie-review/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/07/file-95x65.png)](https://karkhane.org/5691/exploitation-of-teachers/)[بار کنکور بر دوش معلمان](https://karkhane.org/5691/exploitation-of-teachers/)
-* [![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://karkhane.org/app/uploads/2024/07/El-95x65.jpg)](https://karkhane.org/5715/election1403/)[یک کرباس بورژوازی](https://karkhane.org/5715/election1403/)
+* [![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/app/uploads/2024/01/negahi-be-masaleye-siyahan-black-and-blue-film-95x65.jpg)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)[نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)
-* [![پسرک لبوفروش](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![پسرک لبوفروش](https://karkhane.org/app/uploads/2024/05/pesarak-e-golforush-shekarestan-95x65.jpg)](https://karkhane.org/5544/%d9%be%d8%b3%d8%b1%da%a9-%d9%84%d8%a8%d9%88%d9%81%d8%b1%d9%88%d8%b4/)[پسرک لبوفروش](https://karkhane.org/5544/%d9%be%d8%b3%d8%b1%da%a9-%d9%84%d8%a8%d9%88%d9%81%d8%b1%d9%88%d8%b4/)
-* [![به پاس یک عمر خدمت برای سرمایه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![به پاس یک عمر خدمت برای سرمایه](https://karkhane.org/app/uploads/2024/03/be-paas-yek-omr-khedmat-95x65.jpg)](https://karkhane.org/5412/nili-aminolzarb/)[به پاس یک عمر خدمت برای سرمایه](https://karkhane.org/5412/nili-aminolzarb/)
+    ![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](https://karkhane.org/app/uploads/2023/09/hami-e-tabaqeye-hakem-95x65.jpg)](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)[حامیِ طبقه‌ی حاکم؛ نگاهی به مستند «حامی»](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/6-95x65.jpg)](https://karkhane.org/5682/capitalist-psychotherapy/)[روانشناسی صنعتی‌ـ‌سازمانی: ابزاری برای به‌هنجارسازی نیروی کار و افزایش استثمار](https://karkhane.org/5682/capitalist-psychotherapy/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/05/Edalat-95x65.jpg)](https://karkhane.org/5508/edalatkhah_worker/)[جریانات عدالت‌خواه و کارگران «بدبخت»](https://karkhane.org/5508/edalatkhah_worker/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
