@@ -4,12 +4,16 @@
 
 * [Demo](https://www.kimai.org/en/demo.html)
 * [Pricing](https://www.kimai.org/en/pricing)
-* [Plugins](https://www.kimai.org/store/)
+* [Community](#)
+    * [Plugins](https://www.kimai.org/store/)
+    * [Installation](https://www.kimai.org/en/download.html)
+    * [Blog](https://www.kimai.org/blog/)
+    * [Forum](https://github.com/kimai/kimai/discussions)
 * [Documentation](#)
     * [User manual](https://www.kimai.org/documentation/chapter-manual.html)
     * [Cloud](https://www.kimai.org/documentation/cloud.html)
     * [On-Premise](https://www.kimai.org/documentation/chapter-on-premise.html)
-    * [Developer](https://www.kimai.org/documentation/developers.html)
+    * [Developer](https://www.kimai.org/documentation/chapter-developer.html)
 
 [Login](https://www.kimai.cloud/auth/) [Start for free](https://www.kimai.cloud/auth/registration)
 
@@ -67,13 +71,9 @@ English
 
 [Čeština](https://www.kimai.org/cs/ "Kimai - Open Source sledování času") [Deutsch](https://www.kimai.org/de/ "Kimai - Open Source Zeiterfassung") [English](https://www.kimai.org/ "Kimai - Open Source time-tracker") [Español](https://www.kimai.org/es/ "Página de inicio de Kimai") [Français](https://www.kimai.org/fr/ "Kimai - Suivi du temps à code ouvert") [עברית](https://www.kimai.co.il/ "Kimai - מעקב שעות בקוד פתוח") [Hrvatski](https://www.kimai.org/hr/ "Kimai – Program otvorenog koda za evidentiranje vremena") [Italiano](https://www.kimai.org/it/ "Kimai: time-tracker open source") [Nederlands](https://www.kimai.org/nl/ "Kimai - Open Source tijdregistratie") [Polski](https://www.kimai.org/pl/ "Kimai - Otwarte oprogramowanie do śledzenia czasu") [Português](https://www.kimai.org/pt/ "Kimai - Rastreador de tempo de código aberto") [Português (Brasil)](https://www.kimai.org/pt_BR/ "Kimai - Rastreador de tempo de código aberto") [Rусский](https://www.kimai.org/ru/ "Kimai - регистратор времени с открытым исходным кодом") [Slovenčina](https://www.kimai.org/sk/ "Kimai - Open Source sledovanie času") [Svenska](https://www.kimai.org/sv/ "Kimai - öppen källkod tidsspårare") [Українська](https://www.kimai.org/uk/ "Kimai — реєстратор часу з відкритим сирцевим кодом") [中文（中国）](https://www.kimai.org/zh_Hans/ "Kimai - 开源时间跟踪器") [中文（繁體）](https://www.kimai.tw/ "Kimai —— 開放源始碼的工時追蹤工具")
 
- Light Dark
-
 ###### Company [Company](#tools)
 
 * [About Kimai](https://www.kimai.org/en/about.html)
-* [Installation](https://www.kimai.org/en/download.html)
-* [Blog](https://www.kimai.org/blog/)
 * [Features](https://www.kimai.org/en/features.html)
 * [Support](https://www.kimai.org/en/support.html)
 * [Reviews](https://www.kimai.org/en/reviews)
@@ -98,7 +98,7 @@ English
 * [Privacy policy](https://www.kimai.org/en/privacy-policy.html)
 * [Status](https://uptime.kimai.cloud/)
 
-[](https://github.com/kimai/kimai)[](https://www.youtube.com/@kimai_org)[](https://www.instagram.com/kimai_org)[](https://twitter.com/kimai_org)[](https://www.facebook.com/people/Kimai/61557684102167/)[](https://phpc.social/@kimai)
+[](https://github.com/kimai/kimai)[](https://www.youtube.com/@kimai_org)[](https://www.linkedin.com/company/kimai-timetracker/)[](https://www.instagram.com/kimai_org)[](https://twitter.com/kimai_org)[](https://www.facebook.com/people/Kimai/61557684102167/)[](https://phpc.social/@kimai)
 
 Developed by [Kevin Papst](https://www.kevinpapst.de/)
 
