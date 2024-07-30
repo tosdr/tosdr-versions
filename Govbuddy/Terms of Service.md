@@ -179,7 +179,7 @@ All the legislative information in our popular Pocket Directory and more, update
 
   
 
-5,896
+5,897
 =====
 
-Directories updates since 07/28/2023
+Directories updates since 07/31/2023
