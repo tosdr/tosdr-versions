@@ -5,19 +5,19 @@
     * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
     * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
     * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-    * [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
-    * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
+    * [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
+    * [APM Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 * Features
     * [Monitoring Network](https://www.dotcom-monitor.com/features/monitoring-network/)
     * [Alerts](https://www.dotcom-monitor.com/features/alerts/)
     * [Support](https://www.dotcom-monitor.com/features/support/)
     * [Private Agents](https://www.dotcom-monitor.com/features/private-agents/)
     * [Security](https://www.dotcom-monitor.com/features/security/)
-* [Pricing](http://www.dotcom-monitor.com/pricing/)
+* [Pricing](https://www.dotcom-monitor.com/pricing/)
 * [Enterprise](https://www.dotcom-monitor.com/enterprise-monitoring/)
 * Resources
-    * [About](http://www.dotcom-monitor.com/about/)
-    * [Contact Us](http://www.dotcom-monitor.com/contact/)
+    * [About](https://www.dotcom-monitor.com/about/)
+    * [Contact Us](https://www.dotcom-monitor.com/contact/)
     * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
     * [System Status Updates](https://status.dotcom-monitor.com/)
     * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -32,19 +32,19 @@ Menu
     * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
     * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
     * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-    * [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
-    * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
+    * [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
+    * [APM Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 * Features
     * [Monitoring Network](https://www.dotcom-monitor.com/features/monitoring-network/)
     * [Alerts](https://www.dotcom-monitor.com/features/alerts/)
     * [Support](https://www.dotcom-monitor.com/features/support/)
     * [Private Agents](https://www.dotcom-monitor.com/features/private-agents/)
     * [Security](https://www.dotcom-monitor.com/features/security/)
-* [Pricing](http://www.dotcom-monitor.com/pricing/)
+* [Pricing](https://www.dotcom-monitor.com/pricing/)
 * [Enterprise](https://www.dotcom-monitor.com/enterprise-monitoring/)
 * Resources
-    * [About](http://www.dotcom-monitor.com/about/)
-    * [Contact Us](http://www.dotcom-monitor.com/contact/)
+    * [About](https://www.dotcom-monitor.com/about/)
+    * [Contact Us](https://www.dotcom-monitor.com/contact/)
     * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
     * [System Status Updates](https://status.dotcom-monitor.com/)
     * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -358,7 +358,7 @@ Solutions
 * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
 * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
 * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-* [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
+* [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
 * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 
 Menu
@@ -367,7 +367,7 @@ Menu
 * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
 * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
 * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-* [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
+* [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
 * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 
 Free tools
@@ -388,10 +388,10 @@ Resources
 
 * [Affiliate Program](https://www.dotcom-monitor.com/affiliate/)
 * [Reseller Program](https://www.dotcom-monitor.com/resellers/)
-* [Alternatives](http://www.dotcom-monitor.com/compare/)
-* [Learn](http://www.dotcom-monitor.com/learn/)
+* [Alternatives](https://www.dotcom-monitor.com/compare/)
+* [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
-* [JMeter Load Testing Tutorial](http://www.dotcom-monitor.com/jmeter-load-testing/)
+* [JMeter Load Testing Tutorial](https://www.dotcom-monitor.com/jmeter-load-testing/)
 * [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
 * [Women in Computing Scholarship](https://www.loadview-testing.com/scholarship/)
 
@@ -399,10 +399,10 @@ Menu
 
 * [Affiliate Program](https://www.dotcom-monitor.com/affiliate/)
 * [Reseller Program](https://www.dotcom-monitor.com/resellers/)
-* [Alternatives](http://www.dotcom-monitor.com/compare/)
-* [Learn](http://www.dotcom-monitor.com/learn/)
+* [Alternatives](https://www.dotcom-monitor.com/compare/)
+* [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
-* [JMeter Load Testing Tutorial](http://www.dotcom-monitor.com/jmeter-load-testing/)
+* [JMeter Load Testing Tutorial](https://www.dotcom-monitor.com/jmeter-load-testing/)
 * [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
 * [Women in Computing Scholarship](https://www.loadview-testing.com/scholarship/)
 
@@ -450,8 +450,8 @@ Menu
 
 Company
 
-* [About](http://www.dotcom-monitor.com/about/)
-* [Contact Us](http://www.dotcom-monitor.com/contact/)
+* [About](https://www.dotcom-monitor.com/about/)
+* [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
 * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -461,8 +461,8 @@ Company
 
 Menu
 
-* [About](http://www.dotcom-monitor.com/about/)
-* [Contact Us](http://www.dotcom-monitor.com/contact/)
+* [About](https://www.dotcom-monitor.com/about/)
+* [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
 * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -522,8 +522,8 @@ Menu
 
 Company
 
-* [About](http://www.dotcom-monitor.com/about/)
-* [Contact Us](http://www.dotcom-monitor.com/contact/)
+* [About](https://www.dotcom-monitor.com/about/)
+* [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
 * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -531,8 +531,8 @@ Company
 * [Professional Services](https://www.dotcom-monitor.com/professional-services/)
 * [Our Blog](https://www.dotcom-monitor.com/blog/)
 
-* [About](http://www.dotcom-monitor.com/about/)
-* [Contact Us](http://www.dotcom-monitor.com/contact/)
+* [About](https://www.dotcom-monitor.com/about/)
+* [Contact Us](https://www.dotcom-monitor.com/contact/)
 * [Knowledge Base](https://www.dotcom-monitor.com/wiki/)
 * [System Status Updates](https://status.dotcom-monitor.com/)
 * [Monitoring Network](https://www.dotcom-monitor.com/our-monitoring-network/)
@@ -544,10 +544,10 @@ RESOURCES
 
 * [Affiliate Program](https://www.dotcom-monitor.com/affiliate/)
 * [Reseller Program](https://www.dotcom-monitor.com/resellers/)
-* [Alternatives](http://www.dotcom-monitor.com/compare/)
-* [Learn](http://www.dotcom-monitor.com/learn/)
+* [Alternatives](https://www.dotcom-monitor.com/compare/)
+* [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
-* [JMeter Load Testing Tutorial](http://www.dotcom-monitor.com/jmeter-load-testing/)
+* [JMeter Load Testing Tutorial](https://www.dotcom-monitor.com/jmeter-load-testing/)
 * [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
 * [Women in Computing Scholarship](https://www.loadview-testing.com/scholarship/)
 
@@ -555,10 +555,10 @@ Menu
 
 * [Affiliate Program](https://www.dotcom-monitor.com/affiliate/)
 * [Reseller Program](https://www.dotcom-monitor.com/resellers/)
-* [Alternatives](http://www.dotcom-monitor.com/compare/)
-* [Learn](http://www.dotcom-monitor.com/learn/)
+* [Alternatives](https://www.dotcom-monitor.com/compare/)
+* [Learn](https://www.dotcom-monitor.com/learn/)
 * [Glossary](https://www.dotcom-monitor.com/learn/glossary/)
-* [JMeter Load Testing Tutorial](http://www.dotcom-monitor.com/jmeter-load-testing/)
+* [JMeter Load Testing Tutorial](https://www.dotcom-monitor.com/jmeter-load-testing/)
 * [Synthetic Monitoring Guide](https://www.dotcom-monitor.com/synthetic-monitoring/)
 * [Women in Computing Scholarship](https://www.loadview-testing.com/scholarship/)
 
@@ -610,14 +610,14 @@ Solutions
 * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
 * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
 * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-* [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
+* [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
 * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 
 * [Web Application Monitoring](https://www.dotcom-monitor.com/web-application-monitoring-tools/) 
 * [Web Services Monitoring](https://www.dotcom-monitor.com/solutions/web-services-monitoring/) 
 * [Page Performance Monitoring](https://www.dotcom-monitor.com/solutions/web-page-monitoring/) 
 * [Infrastructure Monitoring](https://www.dotcom-monitor.com/solutions/infrastructure-monitoring/)
-* [Load / Stress Testing](http://www.dotcom-monitor.com/solutions/load-testing/)
+* [Load / Stress Testing](https://www.dotcom-monitor.com/solutions/load-testing/)
 * [Application Performance Monitoring (APM) Solutions](https://www.dotcom-monitor.com/application-performance-monitoring-apm/)
 
 Our Other Platforms
