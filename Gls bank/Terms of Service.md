@@ -460,11 +460,11 @@ _BIC:_ GENODEM1GLS
 
 [**GLS Bank-Blog**
 
-Geschichten, Menschen, Ideen](https://blog.gls.de/%20_blank%20-%20%22GLS%20Bank%20Blog%22 "GLS Bank-Blog")
+Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
 
 [**GLS Treuhand e. V.**
 
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/%20-%20-%20%22GLS%20Treuhand%20e.V.%22 "GLS Bank-Blog")
+Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Bank-Blog")
 
 [**GLS Bank Stiftung**
 
@@ -472,12 +472,25 @@ Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS B
 
 [**GLS Mobility GmbH**
 
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/%20_blank%20-%20%22GLS%20Mobility%22 "GLS Bank-Blog")
+Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Bank-Blog")
 
 [**GLS Crowdfunding GmbH**
 
-Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik%20-%20-%20%22GLS%20Crowd%22 "GLS Bank-Blog")
+Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Bank-Blog")
 
 [**GLS Investment Management GmbH**
 
 Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Bank-Blog")
+
+Störung im Onlinebanking
+------------------------
+
+Liebe Kundin, lieber Kunde,
+
+aktuell gibt es eine technische Störung in unserem Onlinebanking.
+
+Wir arbeiten mit Hochdruck an einer Lösung.
+
+Wir bitten um Ihr Verständnis. Vielen Dank.
+
+Ihre GLS Bank
