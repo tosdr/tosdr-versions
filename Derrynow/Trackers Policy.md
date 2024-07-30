@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-26 Jul 2024
+30 Jul 2024
 
 * [Home
     
@@ -259,87 +259,83 @@ Advertise with Us
 
 Most Popular
 
-[![Renewed appeal for information following discovery of man's body in recycling centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Renewed appeal for information following discovery of man's body in recycling centre")](https://www.derrynow.com/news/national-news/1564068/renewed-appeal-for-information-following-discovery-of-man-s-body-in-recycling-centre.html)
-
-Mark Burke, 36, was last seen on Monday, July 28 2014 on Corrig Avenue in Dun Laoghaire. He was originally from Sandyford in South Dublin
+[![Boy (14) who died in Kilkenny crash between e-scooter and car named locally as tributes flood in](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Boy (14) who died in Kilkenny crash between e-scooter and car named locally as tributes flood in")](https://www.derrynow.com/news/national-news/1565983/boy-14-who-died-in-kilkenny-crash-between-e-scooter-and-car-named-locally-as-tributes-flood-in.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Renewed appeal for information following discovery of man's body in recycling centre](https://www.derrynow.com/news/national-news/1564068/renewed-appeal-for-information-following-discovery-of-man-s-body-in-recycling-centre.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Boy (14) who died in Kilkenny crash between e-scooter and car named locally as tributes flood in](https://www.derrynow.com/news/national-news/1565983/boy-14-who-died-in-kilkenny-crash-between-e-scooter-and-car-named-locally-as-tributes-flood-in.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man who fell asleep at a friend's house breached bail and missed curfew - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who fell asleep at a friend's house breached bail and missed curfew - court told")](https://www.derrynow.com/news/local-news/1564227/derry-man-who-fell-asleep-at-a-friend-s-house-breached-bail-and-missed-curfew-court-told.html)
+[![PICTURES: The best snaps from a dramatic day at Croker as Armagh claim first title in 22 years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: The best snaps from a dramatic day at Croker as Armagh claim first title in 22 years")](https://www.derrynow.com/news/national-news/1566022/pictures-the-best-snaps-from-a-dramatic-day-at-croker-as-armagh-claim-first-title-in-22-years.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: The best snaps from a dramatic day at Croker as Armagh claim first title in 22 years](https://www.derrynow.com/news/national-news/1566022/pictures-the-best-snaps-from-a-dramatic-day-at-croker-as-armagh-claim-first-title-in-22-years.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Da Vinci Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Da Vinci Hotel")](https://www.derrynow.com/news/business/1566284/a-new-chapter-begins-for-derry-s-da-vinci-hotel.html)
+
+Da Vinci Hotel Derry (Da Vinci Hotel/ Facebook page)
+
+[Business](https://www.derrynow.com/section/1339/business)
+
+[A new chapter begins for Derry's Da Vinci Hotel](https://www.derrynow.com/news/business/1566284/a-new-chapter-begins-for-derry-s-da-vinci-hotel.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who had 'a strap lust' £200,000 'coerced' by paramilitaries to deal drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who had 'a strap lust' £200,000 'coerced' by paramilitaries to deal drugs")](https://www.derrynow.com/news/local-news/1566118/man-who-had-a-strap-lust-200-000-coerced-by-paramilitaries-to-deal-drugs.html)
 
 Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man who fell asleep at a friend's house breached bail and missed curfew - court told](https://www.derrynow.com/news/local-news/1564227/derry-man-who-fell-asleep-at-a-friend-s-house-breached-bail-and-missed-curfew-court-told.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who had 'a strap lust' £200,000 'coerced' by paramilitaries to deal drugs](https://www.derrynow.com/news/local-news/1566118/man-who-had-a-strap-lust-200-000-coerced-by-paramilitaries-to-deal-drugs.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1563777/derry-death-notices-friday-26th-july-2024.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1565513/derry-death-notices-monday-29th-july-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Friday, 26th July 2024](https://www.derrynow.com/news/deaths/1563777/derry-death-notices-friday-26th-july-2024.html)
+[Derry Death Notices - Monday, 29th July 2024](https://www.derrynow.com/news/deaths/1565513/derry-death-notices-monday-29th-july-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Funeral of retired Derry orthodontist Noel O'Sullivan to take place tomorrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funeral of retired Derry orthodontist Noel O'Sullivan to take place tomorrow")](https://www.derrynow.com/news/local-news/1564177/funeral-of-retired-derry-orthodontist-noel-o-sullivan-to-take-place-tomorrow.html)
-
-The late Noel O'Sullivan
+[![Woman in court for theft of groceries from Derry supermarket](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in court for theft of groceries from Derry supermarket")](https://www.derrynow.com/news/local-news/1566154/woman-in-court-for-theft-of-groceries-from-derry-supermarket.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Funeral of retired Derry orthodontist Noel O'Sullivan to take place tomorrow](https://www.derrynow.com/news/local-news/1564177/funeral-of-retired-derry-orthodontist-noel-o-sullivan-to-take-place-tomorrow.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman in court for theft of groceries from Derry supermarket](https://www.derrynow.com/news/local-news/1566154/woman-in-court-for-theft-of-groceries-from-derry-supermarket.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Probation for Derry man who sent homophobic messages to a woman and her daughter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Probation for Derry man who sent homophobic messages to a woman and her daughter")](https://www.derrynow.com/news/local-news/1564237/probation-for-derry-man-who-sent-homophobic-messages-to-a-woman-and-her-daughter.html)
+[![Derry's top five sought-after skilled trade jobs revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's top five sought-after skilled trade jobs revealed")](https://www.derrynow.com/news/jobs/1566155/derry-s-top-five-sought-after-skilled-trade-jobs-revealed.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Welding tops the list of most sought-after skilled trade jobs
 
-[Probation for Derry man who sent homophobic messages to a woman and her daughter](https://www.derrynow.com/news/local-news/1564237/probation-for-derry-man-who-sent-homophobic-messages-to-a-woman-and-her-daughter.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Jobs](https://www.derrynow.com/section/1347/jobs)
 
-[![Derry man charged with assaulting and resisting police jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with assaulting and resisting police jailed")](https://www.derrynow.com/news/local-news/1564318/derry-man-charged-with-assaulting-and-resisting-police-jailed.html)
+[Derry's top five sought-after skilled trade jobs revealed](https://www.derrynow.com/news/jobs/1566155/derry-s-top-five-sought-after-skilled-trade-jobs-revealed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Magistrate's Court
+[![Anonymity order removed for Derry man who admitted drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Anonymity order removed for Derry man who admitted drug offences")](https://www.derrynow.com/news/local-news/1566202/anonymity-order-removed-for-derry-man-who-admitted-drug-offences.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with assaulting and resisting police jailed](https://www.derrynow.com/news/local-news/1564318/derry-man-charged-with-assaulting-and-resisting-police-jailed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Search for boy missing at Cliffs of Moher to resume this afternoon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search for boy missing at Cliffs of Moher to resume this afternoon")](https://www.derrynow.com/news/national-news/1564259/search-for-boy-missing-at-cliffs-of-moher-to-resume-this-afternoon.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Search for boy missing at Cliffs of Moher to resume this afternoon](https://www.derrynow.com/news/national-news/1564259/search-for-boy-missing-at-cliffs-of-moher-to-resume-this-afternoon.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Detectives investigating criminal damage caused to house in Toome make two arrests](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Detectives investigating criminal damage caused to house in Toome make two arrests")](https://www.derrynow.com/news/home/1563701/detectives-investigating-criminal-damage-caused-to-house-in-toome-make-two-arrests.html)
-
-Two men have been arrested in connection with the incident.
+Derry Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Detectives investigating criminal damage caused to house in Toome make two arrests](https://www.derrynow.com/news/home/1563701/detectives-investigating-criminal-damage-caused-to-house-in-toome-make-two-arrests.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Matthew McClelland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Matthew McClelland")](https://www.derrynow.com/news/derry-news/1564456/derry-man-running-a-unique-4km-challenge-to-raise-money-parkinsons-uk.html)
-
-Matthew McClelland at the beginning of his charity run for Parkinson's UK
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry man running a unique 4km challenge to raise money Parkinson’s UK](https://www.derrynow.com/news/derry-news/1564456/derry-man-running-a-unique-4km-challenge-to-raise-money-parkinsons-uk.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![RTE to resume broadcasting news bulletins in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RTE to resume broadcasting news bulletins in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1563890/rte-to-resume-broadcasting-news-bulletins-in-northern-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[RTE to resume broadcasting news bulletins in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1563890/rte-to-resume-broadcasting-news-bulletins-in-northern-ireland.html)
+[Anonymity order removed for Derry man who admitted drug offences](https://www.derrynow.com/news/local-news/1566202/anonymity-order-removed-for-derry-man-who-admitted-drug-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1565941/in-pictures-derry-kites-for-palestine-in-tribute-to-the-people-of-gaza.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza](https://www.derrynow.com/story-telling/pictures---videos/1565941/in-pictures-derry-kites-for-palestine-in-tribute-to-the-people-of-gaza.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![54-year-old man arrested in Derry in connection with PSNI data breach](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "54-year-old man arrested in Derry in connection with PSNI data breach")](https://www.derrynow.com/news/local-news/1566293/54-year-old-man-arrested-in-derry-in-connection-with-psni-data-breach.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[54-year-old man arrested in Derry in connection with PSNI data breach](https://www.derrynow.com/news/local-news/1566293/54-year-old-man-arrested-in-derry-in-connection-with-psni-data-breach.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -347,83 +343,75 @@ Advertise with Us
 
 Multimedia
 
-[![IN PICTURES: Family fun in the sun at Shantallow Community Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Family fun in the sun at Shantallow Community Centre")](https://www.derrynow.com/story-telling/pictures---videos/1563705/in-pictures-family-fun-in-the-sun-at-shantallow-community-centre.html)
+[![IN PICTURES: Mayoral reception for winners of the Irish Street Soccer League](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayoral reception for winners of the Irish Street Soccer League")](https://www.derrynow.com/story-telling/pictures---videos/1566413/in-pictures-mayoral-reception-for-winners-of-the-irish-street-soccer-league.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Family fun in the sun at Shantallow Community Centre](https://www.derrynow.com/story-telling/pictures---videos/1563705/in-pictures-family-fun-in-the-sun-at-shantallow-community-centre.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Mayoral reception for winners of the Irish Street Soccer League](https://www.derrynow.com/story-telling/pictures---videos/1566413/in-pictures-mayoral-reception-for-winners-of-the-irish-street-soccer-league.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Oakleaf ABC host boxing 'Summer Camp'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakleaf ABC host boxing 'Summer Camp'")](https://www.derrynow.com/story-telling/pictures---videos/1563704/in-pictures-oakleaf-abc-host-boxing-summer-camp.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Oakleaf ABC host boxing 'Summer Camp'](https://www.derrynow.com/story-telling/pictures---videos/1563704/in-pictures-oakleaf-abc-host-boxing-summer-camp.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: UK & Ireland Field Archery Championships at Derry's Oakgrove](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: UK & Ireland Field Archery Championships at Derry's Oakgrove")](https://www.derrynow.com/story-telling/pictures---videos/1564125/in-pictures-uk-ireland-field-archery-championships-at-derry-s-oakgrove.html)
-
-The Mayor, Lillian Seenoi-Barr pictured with the Wales team at Sunday's UK and Ireland Field Archery Championships in the grounds of Oakgrove Integrated College. (Photos: Jim McCafferty Photography)
+[![IN PICTURES: Launch of CARE Project Art Exhibition by local artists](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Launch of CARE Project Art Exhibition by local artists")](https://www.derrynow.com/story-telling/pictures---videos/1566353/in-pictures-launch-of-care-project-art-exhibition-by-local-artists.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: UK & Ireland Field Archery Championships at Derry's Oakgrove](https://www.derrynow.com/story-telling/pictures---videos/1564125/in-pictures-uk-ireland-field-archery-championships-at-derry-s-oakgrove.html)
+[IN PICTURES: Launch of CARE Project Art Exhibition by local artists](https://www.derrynow.com/story-telling/pictures---videos/1566353/in-pictures-launch-of-care-project-art-exhibition-by-local-artists.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Newbuildings CC defeat Donemana by five wickets to claim first senior cup win](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbuildings CC defeat Donemana by five wickets to claim first senior cup win")](https://www.derrynow.com/story-telling/pictures---videos/1566187/in-pictures-newbuildings-cc-defeat-donemana-by-five-wickets-to-claim-first-senior-cup-win.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Newbuildings CC defeat Donemana by five wickets to claim first senior cup win](https://www.derrynow.com/story-telling/pictures---videos/1566187/in-pictures-newbuildings-cc-defeat-donemana-by-five-wickets-to-claim-first-senior-cup-win.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: "Enchanted Charity Ball" offers children magical afternoon in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: "Enchanted Charity Ball" offers children magical afternoon in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1565942/in-pictures-enchanted-charity-ball-offers-children-magical-afternoon-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: "Enchanted Charity Ball" offers children magical afternoon in Derry](https://www.derrynow.com/story-telling/pictures---videos/1565942/in-pictures-enchanted-charity-ball-offers-children-magical-afternoon-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1565941/in-pictures-derry-kites-for-palestine-in-tribute-to-the-people-of-gaza.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry 'Kites for Palestine' in tribute to the people of Gaza](https://www.derrynow.com/story-telling/pictures---videos/1565941/in-pictures-derry-kites-for-palestine-in-tribute-to-the-people-of-gaza.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Throwback Thursday: Partytime out and about in Derry's Carraig Bar (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Carraig Bar (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1561383/throwback-thursday-partytime-out-and-about-in-derry-s-carraig-bar-2009.html)
+[![IN PICTURES: North West Migrants family fun day in Derry's Brooke Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West Migrants family fun day in Derry's Brooke Park")](https://www.derrynow.com/story-telling/pictures---videos/1565528/in-pictures-north-west-migrants-family-fun-day-in-derry-s-brooke-park.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Throwback Thursday: Partytime out and about in Derry's Carraig Bar (2009)](https://www.derrynow.com/story-telling/pictures---videos/1561383/throwback-thursday-partytime-out-and-about-in-derry-s-carraig-bar-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: North West Migrants family fun day in Derry's Brooke Park](https://www.derrynow.com/story-telling/pictures---videos/1565528/in-pictures-north-west-migrants-family-fun-day-in-derry-s-brooke-park.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Stuart Dallas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stuart Dallas")](https://www.derrynow.com/video/derry-sport/1561694/video-stuart-dallas-launches-supercupni-2024-from-coleraine-s-showgrounds-in-county-derry.html)
-
-Stuart Dallas discussing his memories of the SuperCupNI
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[VIDEO: Stuart Dallas launches SuperCupNI 2024 from Coleraine's Showgrounds in County Derry](https://www.derrynow.com/video/derry-sport/1561694/video-stuart-dallas-launches-supercupni-2024-from-coleraine-s-showgrounds-in-county-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry group protest outside the court house calling for stronger sentences to drug dealers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry group protest outside the court house calling for stronger sentences to drug dealers")](https://www.derrynow.com/video/local-news/1561473/derry-group-protest-outside-the-court-house-calling-for-stronger-sentences-to-drug-dealers.html)
-
-Pauline Duddy at the the protest
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry group protest outside the court house calling for stronger sentences to drug dealers](https://www.derrynow.com/video/local-news/1561473/derry-group-protest-outside-the-court-house-calling-for-stronger-sentences-to-drug-dealers.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
+[![IN PICTURES: Rosemount overcome Creggan in the Jim Crossan Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Rosemount overcome Creggan in the Jim Crossan Cup")](https://www.derrynow.com/story-telling/pictures---videos/1565531/in-pictures-rosemount-overcome-creggan-in-the-jim-crossan-cup.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
-
-Derry City fans at the Brandywell last night. Pics by nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City fans watch their team dominate St. Patrick's Athletic at the Brandywell](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty")](https://www.derrynow.com/story-telling/pictures---videos/1560645/in-pictures-family-fun-day-celebrated-in-style-at-ballymagroarty.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty](https://www.derrynow.com/story-telling/pictures---videos/1560645/in-pictures-family-fun-day-celebrated-in-style-at-ballymagroarty.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Cross community fun day held in Maydown Play Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cross community fun day held in Maydown Play Park")](https://www.derrynow.com/story-telling/pictures---videos/1560644/in-pictures-cross-community-fun-day-held-in-maydown-play-park.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Cross community fun day held in Maydown Play Park](https://www.derrynow.com/story-telling/pictures---videos/1560644/in-pictures-cross-community-fun-day-held-in-maydown-play-park.html)
+[IN PICTURES: Rosemount overcome Creggan in the Jim Crossan Cup](https://www.derrynow.com/story-telling/pictures---videos/1565531/in-pictures-rosemount-overcome-creggan-in-the-jim-crossan-cup.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Rosemount clinch Óglach Eamon "Bronco" Bradley Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Rosemount clinch Óglach Eamon "Bronco" Bradley Cup")](https://www.derrynow.com/story-telling/pictures---videos/1565529/in-pictures-rosemount-clinch-oglach-eamon-bronco-bradley-cup.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Rosemount clinch Óglach Eamon "Bronco" Bradley Cup](https://www.derrynow.com/story-telling/pictures---videos/1565529/in-pictures-rosemount-clinch-oglach-eamon-bronco-bradley-cup.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: xxxx](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: xxxx")](https://www.derrynow.com/story-telling/pictures---videos/1565534/in-pictures-action-from-glack-v-drum.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Action from Glack v Drum](https://www.derrynow.com/story-telling/pictures---videos/1565534/in-pictures-action-from-glack-v-drum.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Action from Ballerin v Doire Trasna](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Action from Ballerin v Doire Trasna")](https://www.derrynow.com/story-telling/pictures---videos/1565533/in-pictures-action-from-ballerin-v-doire-trasna.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Action from Ballerin v Doire Trasna](https://www.derrynow.com/story-telling/pictures---videos/1565533/in-pictures-action-from-ballerin-v-doire-trasna.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -527,55 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![KFC Strand Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "KFC Strand Road")](https://www.derrynow.com/news/derry-news/1564633/derry-s-kfc-reopens-after-temporary-closure.html)
+[![New Irish language initiative launched in Maghera businesses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Irish language initiative launched in Maghera businesses")](https://www.derrynow.com/news/home/1566532/new-irish-language-initiative-launched-in-maghera-businesses.html)
 
-KFC Strand Road is open once again
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry's KFC reopens after temporary closure](https://www.derrynow.com/news/derry-news/1564633/derry-s-kfc-reopens-after-temporary-closure.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ireland’s Highest Bar and Restaurant the Ponderosa is reaching new heights of success as it celebrates 10-year milestone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland’s Highest Bar and Restaurant the Ponderosa is reaching new heights of success as it celebrates 10-year milestone")](https://www.derrynow.com/news/home/1564257/irelands-highest-bar-and-restaurant-the-ponderosa-is-reaching-new-heights-of-success-as-it-celebrates-10-year-milestone.html)
+Séamus Óg and Naoise the Labhair Gaeilge Liom ambassadors for Joe's Pizza House.
 
 [Home](https://www.derrynow.com/)
 
-[Ireland’s Highest Bar and Restaurant the Ponderosa is reaching new heights of success as it celebrates 10-year milestone](https://www.derrynow.com/news/home/1564257/irelands-highest-bar-and-restaurant-the-ponderosa-is-reaching-new-heights-of-success-as-it-celebrates-10-year-milestone.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New Irish language initiative launched in Maghera businesses](https://www.derrynow.com/news/home/1566532/new-irish-language-initiative-launched-in-maghera-businesses.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Pro-Palestinian campaigners to fly kites for Gaza in Derry’s Brooke Park](https://www.derrynow.com/resizer/165/93/true/2024_07_26/IMG_7581-1721996985620.jpeg--.jpeg?1721996985668 "Pro-Palestinian campaigners to fly kites for Gaza in Derry’s Brooke Park")](https://www.derrynow.com/news/local-news/1564489/pro-palestinian-campaigners-to-fly-kites-for-gaza-in-derrys-brooke-park.html)
+[![Letterkenny Rovers and Manchester United legendsg](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Letterkenny Rovers and Manchester United legendsg")](https://www.derrynow.com/news/county-derry-post/1566439/county-derry-man-rescues-draw-for-manchester-united-legends-against-letterkenny-rovers.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Letterkenny Rovers and Manchester United Legends
 
-[Pro-Palestinian campaigners to fly kites for Gaza in Derry’s Brooke Park](https://www.derrynow.com/news/local-news/1564489/pro-palestinian-campaigners-to-fly-kites-for-gaza-in-derrys-brooke-park.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![Bereavement comfort call volunteer roles now available within the Northern Trust](https://www.derrynow.com/resizer/165/93/true/2024_07_26/Volunteer_1-1721995432054_1721995663.jpg--.jpg?1721995663660 "Bereavement comfort call volunteer roles now available within the Northern Trust")](https://www.derrynow.com/news/home/1564457/bereavement-comfort-call-volunteer-roles-now-available-within-the-northern-trust.html)
+[County Derry man rescues draw for Manchester United legends against Letterkenny Rovers](https://www.derrynow.com/news/county-derry-post/1566439/county-derry-man-rescues-draw-for-manchester-united-legends-against-letterkenny-rovers.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Phyllis Tweed and Maria McKernan, who volunteer with the bereavement comfort call service, pictured at an event held for volunteers in the Northern Health and Social Care Trust.
-
-[Home](https://www.derrynow.com/)
-
-[Bereavement comfort call volunteer roles now available within the Northern Trust](https://www.derrynow.com/news/home/1564457/bereavement-comfort-call-volunteer-roles-now-available-within-the-northern-trust.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Matthew McClelland](https://www.derrynow.com/resizer/165/93/true/2024_07_26/IMG-20240726-WA0000-1721996148288.jpg--.jpg?1721996148312 "Matthew McClelland")](https://www.derrynow.com/news/derry-news/1564456/derry-man-running-a-unique-4km-challenge-to-raise-money-parkinsons-uk.html)
-
-Matthew McClelland at the beginning of his charity run for Parkinson's UK
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry man running a unique 4km challenge to raise money Parkinson’s UK](https://www.derrynow.com/news/derry-news/1564456/derry-man-running-a-unique-4km-challenge-to-raise-money-parkinsons-uk.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with assaulting and resisting police jailed](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man charged with assaulting and resisting police jailed")](https://www.derrynow.com/news/local-news/1564318/derry-man-charged-with-assaulting-and-resisting-police-jailed.html)
-
-Derry Magistrate's Court
+[![Derry Court told CCTV showed defendant going to man's door carrying a table leg](https://www.derrynow.com/resizer/165/93/true/2022_02_09/judge-g0d3a2d66d_1920-1644406205572.jpg--.jpg?1644406206000 "Derry Court told CCTV showed defendant going to man's door carrying a table leg")](https://www.derrynow.com/news/local-news/1566282/derry-court-told-cctv-showed-defendant-going-to-man-s-door-carrying-a-table-leg.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with assaulting and resisting police jailed](https://www.derrynow.com/news/local-news/1564318/derry-man-charged-with-assaulting-and-resisting-police-jailed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Court told CCTV showed defendant going to man's door carrying a table leg](https://www.derrynow.com/news/local-news/1566282/derry-court-told-cctv-showed-defendant-going-to-man-s-door-carrying-a-table-leg.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Domestic violence is a scourge on society' - Derry judge warns those who engage in it will be jailed](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "'Domestic violence is a scourge on society' - Derry judge warns those who engage in it will be jailed")](https://www.derrynow.com/news/local-news/1566298/domestic-violence-is-a-scourge-on-society-derry-judge-warns-those-who-engage-in-it-will-be-jailed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Domestic violence is a scourge on society' - Derry judge warns those who engage in it will be jailed](https://www.derrynow.com/news/local-news/1566298/domestic-violence-is-a-scourge-on-society-derry-judge-warns-those-who-engage-in-it-will-be-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Translink announce new bus operations for Derry amid NI Water works on Foyle Street](https://www.derrynow.com/resizer/165/93/true/2024_07_29/Foyle_Street_Map-1722271123775_1722271169.jpg--.jpg?1722271169804 "Translink announce new bus operations for Derry amid NI Water works on Foyle Street")](https://www.derrynow.com/news/local-news/1566594/translink-announce-new-bus-operations-for-derry-amid-ni-water-works-on-foyle-street.html)
+
+The upcoming operational changes by Translink take effect from 12th August amid the NI Water closure on Foyle Street.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Translink announce new bus operations for Derry amid NI Water works on Foyle Street](https://www.derrynow.com/news/local-news/1566594/translink-announce-new-bus-operations-for-derry-amid-ni-water-works-on-foyle-street.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Second half scoring spree nails victory for Glack over Drum](https://www.derrynow.com/resizer/165/93/true/2024_07_29/GAA_-_Glack_v_Drum__3-1722266934984.jpg--.jpg?1722266935171 "Second half scoring spree nails victory for Glack over Drum")](https://www.derrynow.com/news/derry-sport/1566555/second-half-scoring-spree-nails-victory-for-glack-over-drum.html)
+
+Drum's Ruairi O'Hara is first to the ball. (Photo - Tom Heaney, nwpresspics)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Second half scoring spree nails victory for Glack over Drum](https://www.derrynow.com/news/derry-sport/1566555/second-half-scoring-spree-nails-victory-for-glack-over-drum.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
