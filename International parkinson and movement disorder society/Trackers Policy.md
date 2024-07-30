@@ -237,11 +237,9 @@ The International Parkinson and Movement Disorder Society (MDS) is a professiona
 * [YouTube](https://www.youtube.com/channel/UCeRCH3kEBJ9-TH2VDgWotVQ)
 * [Instagram](https://www.instagram.com/movedisorder/)
 
-Patients & Caregivers
+Website Feedback
 
-* [Specialist Finder](https://mds.movementdisorders.org/directory/)
-* [Patient Handouts](https://www.movementdisorders.org/MDS/Resources/Patient-Education.htm)
-* [Links to Organizations](https://www.movementdisorders.org/MDS/Resources/Helpful-Links.htm)
+To report issues with the site or suggest improvements, please contact us directly:
 
 Address
 
