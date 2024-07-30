@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Cookies Policy
 ==============
 
-LAST UPDATED 24 JULY 2024 Open all
+LAST UPDATED 29 JULY 2024 Open all
 
 1\. What are cookies?
 
