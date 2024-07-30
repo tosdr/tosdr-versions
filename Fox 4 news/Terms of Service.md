@@ -94,10 +94,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-until MON 7:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
 Terms of Use
 ============
 
