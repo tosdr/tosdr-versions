@@ -208,14 +208,14 @@ Popular game categories
 -----------------------
 
 *  [![Animal Games](https://lagged.com/imgs/413cf0fc-403a-4430-d950-369fb2b89500/w=120) Animal Games393 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://lagged.com/imgs/b44e654b-8b42-4fd4-b769-846c96b67e00/w=120) Arcade Games1,553 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=120) Car Games379 games](https://lagged.com/en/car "Car Games")
+*  [![Arcade Games](https://lagged.com/imgs/b44e654b-8b42-4fd4-b769-846c96b67e00/w=120) Arcade Games1,554 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=120) Car Games380 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://lagged.com/imgs/080537e2-4596-4229-f32c-4cc1554fca00/w=120) Football Games61 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=120) Funny Games757 games](https://lagged.com/en/funny "Funny Games")
+*  [![Funny Games](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=120) Funny Games759 games](https://lagged.com/en/funny "Funny Games")
 *  [![Girl Games](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=120) Girl Games732 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,211 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,216 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://lagged.com/imgs/2e295d6a-17aa-4196-419b-a1b9ebfcc200/w=120) Solitaire Games57 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://lagged.com/imgs/fe68bdf1-f746-47df-a222-ff21e3f6ae00/w=120) Two Player Games295 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Two Player Games](https://lagged.com/imgs/fe68bdf1-f746-47df-a222-ff21e3f6ae00/w=120) Two Player Games296 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://lagged.com/imgs/8a378486-b60b-473c-0876-d3199afcac00/w=120) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
@@ -245,13 +245,13 @@ Games you might like
 
 [Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://lagged.com/imgs/b25d7227-5cde-4d32-0ead-486647ded900/w=220)
 
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://lagged.com/imgs/35fb6dc0-c2ce-4fee-05dd-382520c97a00/w=220)
+
 [Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://lagged.com/imgs/952e1bc9-a022-4c75-5113-b3d4897e2b00/w=220)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://lagged.com/imgs/457ea860-0c81-49e6-3520-1946799f4e00/w=220)
 
-[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://lagged.com/imgs/35fb6dc0-c2ce-4fee-05dd-382520c97a00/w=220)
-
-[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://lagged.com/imgs/dd5cd99a-fc69-480f-18a5-22443243ef00/w=220)
+[Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://lagged.com/imgs/b5a7752a-141e-4e3b-bca4-87c92559f300/w=220)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
