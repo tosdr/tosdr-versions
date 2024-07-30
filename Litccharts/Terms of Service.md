@@ -1,6 +1,6 @@
 Upgrade to LitCharts A+
 
-[Instant downloads of all 1970 LitChart PDFs.
+[Instant downloads of all 1971 LitChart PDFs.
 
 LitCharts Teacher Editions. Teach your students to analyze literature like LitCharts does.
 
