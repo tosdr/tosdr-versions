@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/296/addison-rae-charli-damelio-tiktok-featured-image-2020-billboard-1548-1592430173.jpg "What's Up With The 'Women Don't Understand POV' Discourse? An Incendiary Twitter Controversy Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/324/pommel.jpg "Who Is Stephen Nedoroscik, And Why Are People Calling Him The 'Horse Specialist'? Memes About The Olympic Medalist Explained")
     
-    What's Up With The 'Women Don't Understand POV' Discourse? An Incendiary Twitter Controversy Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-women-dont-understand-pov-discourse-an-incendiary-twitter-controversy-explained)
+    Who Is Stephen Nedoroscik, And Why Are People Calling Him The 'Horse Specialist'? Memes About The Olympic Medalist Explained](https://knowyourmeme.com/editorials/guides/who-is-stephen-nedoroscik-and-why-are-people-calling-him-the-horse-specialist-pommel-horse-memes-about-the-olympic-medalist-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/295/20240723-warren-vance-split-c1main.jpg "As Internet Discovers Truth About The 'J.D. Vance Couch' Rumors, It Discovers Time Vance Appears To Have Looked Up 'Dolphins' And 'Women' On Twitter")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/323/36c22d2b956d5480b4cbc7640fb19c2873799ad4-1280x707.jpeg "'White Dudes For Harris' Suspended On X After Raising $4 Million For Kamala Harris, Leading Some To Suspect Elon Musk Is Allegedly Tipping The Scales")
     
-    As Internet Discovers Truth About The 'J.D. Vance Couch' Rumors, It Discovers Time Vance Appears To Have Looked Up 'Dolphins' And 'Women' On Twitter](https://knowyourmeme.com/news/as-internet-discovers-truth-about-the-jd-vance-couch-diddler-rumors-it-discovers-time-vance-appears-to-have-looked-up-dolphins-violating-women-on-twitter)
+    'White Dudes For Harris' Suspended On X After Raising $4 Million For Kamala Harris, Leading Some To Suspect Elon Musk Is Allegedly Tipping The Scales](https://knowyourmeme.com/news/white-dudes-for-harris-suspended-on-x-after-raising-4-million-for-harris-leading-some-to-suspect-elon-musk-is-tipping-the-scales)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/294/let's_go_gambling_explainer_cover.jpg "What's The 'Let's Go Gambling' TikTok Meme? The Viral 'Aw Dangit' Gamblecore Meme Explained")
+* [![Skibidi Toilet Creator Allegedly Sent Garry's Mod A DMCA Takedown Notice](https://i.kym-cdn.com/featured_items/icons/wide/000/025/322/Skibidi_Toilet_DMCA_cover_V2.jpg "'Skibidi Toilet' Creator Allegedly Sent 'Garry's Mod' A DMCA Takedown Notice")
     
-    What's The 'Let's Go Gambling' TikTok Meme? The Viral 'Aw Dangit' Gamblecore Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-lets-go-gambling-tiktok-meme-the-viral-aw-dangit-gamblecore-meme-explained)
+    'Skibidi Toilet' Creator Allegedly Sent 'Garry's Mod' A DMCA Takedown Notice](https://knowyourmeme.com/memes/events/skibidi-toilet-dmca-takedown)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/293/lemmeeypfp.jpg "What Does 'EYP' Mean On TikTok? The Meaning Of The Viral 'Lemme EYP' Memes Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/321/Wolverine_Crush_explainer_cover.jpg "What Is The 'Wolverine Crush' Meme? The Wolverine Photograph Meme Recreated By Hugh Jackman Explained")
     
-    What Does 'EYP' Mean On TikTok? The Meaning Of The Viral 'Lemme EYP' Memes Explained](https://knowyourmeme.com/editorials/guides/what-does-the-slang-eyp-mean-on-tiktok-the-meaning-of-the-viral-lemme-eyp-memes-explained)
+    What Is The 'Wolverine Crush' Meme? The Wolverine Photograph Meme Recreated By Hugh Jackman Explained](https://trending.knowyourmeme.com/editorials/guides/what-is-the-wolverine-crush-meme-the-wolverine-photograph-meme-recreated-by-hugh-jackman-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/292/chickens_for_KFC_explainer_cover.jpg "What Does ‘Chickens For KFC’ Mean? The Viral Catchphrase And Meme Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/320/cover8.jpg "Who Is 'Fartbuckle The Goblin, Savior Of Friends'? The Viral 'D&D' Meme Explained")
     
-    What Does ‘Chickens For KFC’ Mean? The Viral Catchphrase And Meme Explained](https://knowyourmeme.com/editorials/guides/what-does-chickens-for-kfc-mean-and-who-was-netanyahu-calling-out-the-viral-catchphrase-and-meme-explained)
+    Who Is 'Fartbuckle The Goblin, Savior Of Friends'? The Viral 'D&D' Meme Explained](https://knowyourmeme.com/editorials/guides/who-is-fartbuckle-the-goblin-savior-of-friends-viral-dd-meme-explained)
     
 
 ##### Also Trending:
 
-[Kamala Harris](https://knowyourmeme.com/memes/people/kamala-harris "Kamala Harris") [David Harris Jr. Plane Rage Bait](https://knowyourmeme.com/memes/david-harris-jrs-plane-rage-bait "David Harris Jr. Plane Rage Bait")
+[2024 Olympics Opening Ceremony Controversy](https://knowyourmeme.com/memes/events/2024-paris-olympics-opening-ceremony-controversy "2024 Olympics Opening Ceremony Controversy") [Skibidi Toilet DMCA Takedown](https://knowyourmeme.com/memes/events/skibidi-toilet-dmca-takedown "Skibidi Toilet DMCA Takedown") [2024 Summer Paris Olympics](https://knowyourmeme.com/memes/events/2024-summer-paris-olympics "2024 Summer Paris Olympics")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
