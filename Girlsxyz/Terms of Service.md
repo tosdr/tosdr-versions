@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2944 Connecté
+2092 Connecté
 
 [Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
 
@@ -10,46 +10,46 @@
 
 Catégories
 
-* [Anal (1047 Live)](https://girls.xyz/anal)
-* [Arabe (24 Live)](https://girls.xyz/arabe)
-* [Asiatique (59 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (147 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (206 Live)](https://girls.xyz/blacks)
-* [Blanches (666 Live)](https://girls.xyz/blanches)
-* [Blondes (318 Live)](https://girls.xyz/blonde)
-* [Brunes (1341 Live)](https://girls.xyz/brune)
-* [Chattes poilues (174 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (1287 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (2 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (673 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (841 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (1177 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (431 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (1382 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (21 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (741 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (611 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (110 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (389 Live)](https://girls.xyz/grosses)
+* [Anal (607 Live)](https://girls.xyz/anal)
+* [Arabe (4 Live)](https://girls.xyz/arabe)
+* [Asiatique (75 Live)](https://girls.xyz/asiatique)
+* [Belles et rondes (102 Live)](https://girls.xyz/belles-et-rondes)
+* [Blacks (148 Live)](https://girls.xyz/blacks)
+* [Blanches (736 Live)](https://girls.xyz/blanches)
+* [Blondes (295 Live)](https://girls.xyz/blonde)
+* [Brunes (820 Live)](https://girls.xyz/brune)
+* [Chattes poilues (136 Live)](https://girls.xyz/chattes-poilues)
+* [Chattes rasées (910 Live)](https://girls.xyz/chattes-ras%C3%A9es)
+* [Enceintes (1 Live)](https://girls.xyz/enceintes)
+* [Etudiantes (357 Live)](https://girls.xyz/lyc%C3%A9ennes)
+* [Femmes au Foyer (464 Live)](https://girls.xyz/femmes-au-foyer)
+* [Femmes fontaines (648 Live)](https://girls.xyz/squirting)
+* [Femmes mûres (328 Live)](https://girls.xyz/femmes-m%C3%BBres)
+* [Fetiche (909 Live)](https://girls.xyz/fetiche)
+* [Fumeuses (17 Live)](https://girls.xyz/fumeuses)
+* [Gros cul (571 Live)](https://girls.xyz/gros-cul)
+* [Gros seins (440 Live)](https://girls.xyz/gros-seins)
+* [Gros Seins (92 Live)](https://girls.xyz/seins-enormes)
+* [Grosses (266 Live)](https://girls.xyz/grosses)
 * [Indienne (10 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (673 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (1458 Live)](https://girls.xyz/jouets)
-* [Latinas (923 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (11 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (787 Live)](https://girls.xyz/babes)
-* [Musclé (58 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (187 Live)](https://girls.xyz/petite)
-* [Petits seins (415 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (12 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (230 Live)](https://girls.xyz/rousses)
-* [Seins moyens (751 Live)](https://girls.xyz/seins-moyens)
+* [Jeunes 18+ (357 Live)](https://girls.xyz/ados-18)
+* [Jouets sexuels (909 Live)](https://girls.xyz/jouets)
+* [Latinas (303 Live)](https://girls.xyz/latinas)
+* [Lesbiennes (16 Live)](https://girls.xyz/lesbi%C3%A8nes)
+* [Minettes (591 Live)](https://girls.xyz/babes)
+* [Musclé (32 Live)](https://girls.xyz/muscl%C3%A9)
+* [Petite (116 Live)](https://girls.xyz/petite)
+* [Petits seins (215 Live)](https://girls.xyz/petits-seins)
+* [Pornstar (2 Live)](https://girls.xyz/stars-du-porno)
+* [Rousses (161 Live)](https://girls.xyz/rousses)
+* [Seins moyens (529 Live)](https://girls.xyz/seins-moyens)
 * [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (471 Live)](https://girls.xyz/sm)
-* [Vieilles (24 Live)](https://girls.xyz/vieilles)
+* [SM (215 Live)](https://girls.xyz/sm)
+* [Vieilles (20 Live)](https://girls.xyz/vieilles)
 
 Historique
 
-[Toutes les promotions](https://girls.xyz/free-tokens) [Concours](https://girls.xyz/contest/queen-of-queens-international) [Girls App](https://girls.xyz/mobile-app)
+[Toutes les promotions](https://girls.xyz/free-tokens) [Concours](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
 
 TERMES ET CONDITIONS D'UTILISATION – Girls.xyz
 ==============================================
@@ -292,16 +292,16 @@ Lorsqu’elle est activée, la recharge automatique des tokens s’applique chaq
 
 | Dernier achat de l’abonné | Montant des tokens sur le compte lorsque la recharge automatique s’applique. | Recharge automatique / nouvel achat |
 | --- | --- | --- |
-| 39 Jetons pour 2.99 € | 10 Jetons | 39 Jetons pour 2.99 € |
-| 76 Jetons pour 4.99 € | 30 Jetons | 76 Jetons pour 4.99 € |
-| 156 Jetons pour 9.99 € | 90 Jetons | 156 Jetons pour 9.99 € |
-| 462 Jetons pour 24.99 € | 90 Jetons | 462 Jetons pour 24.99 € |
-| 984 Jetons pour 49.99 € | 90 Jetons | 984 Jetons pour 49.99 € |
-| 1260 Jetons pour 65.00 € | 90 Jetons | 1260 Jetons pour 65.00 € |
-| 1480 Jetons pour 74.99 € | 90 Jetons | 1480 Jetons pour 74.99 € |
-| 10160 Jetons pour 500.00 € | 90 Jetons | 10160 Jetons pour 500.00 € |
-| 20000 Jetons pour 990.00 € | 90 Jetons | 20000 Jetons pour 990.00 € |
-| 50800 Jetons pour 2,500.00 € | 90 Jetons | 50800 Jetons pour 2,500.00 € |
+| 27 Jetons pour 2.99 € | 10 Jetons | 27 Jetons pour 2.99 € |
+| 60 Jetons pour 4.99 € | 30 Jetons | 60 Jetons pour 4.99 € |
+| 140 Jetons pour 9.99 € | 90 Jetons | 140 Jetons pour 9.99 € |
+| 370 Jetons pour 24.99 € | 90 Jetons | 370 Jetons pour 24.99 € |
+| 800 Jetons pour 49.99 € | 90 Jetons | 800 Jetons pour 49.99 € |
+| 1050 Jetons pour 65.00 € | 90 Jetons | 1050 Jetons pour 65.00 € |
+| 1230 Jetons pour 74.99 € | 90 Jetons | 1230 Jetons pour 74.99 € |
+| 8400 Jetons pour 500.00 € | 90 Jetons | 8400 Jetons pour 500.00 € |
+| 16600 Jetons pour 990.00 € | 90 Jetons | 16600 Jetons pour 990.00 € |
+| 42100 Jetons pour 2,500.00 € | 90 Jetons | 42100 Jetons pour 2,500.00 € |
 
 L’option sera active à partir du moment de son activation jusqu’à sa désactivation à tout moment par l’Abonné dans la section des paramètres du compte (veuillez voir l’hyperlien [https://girls.xyz/account/account-info](https://girls.xyz/account/account-info)). Il n’y a pas de limite au nombre de retraits automatiques de fonds et de recharges de tokens, à savoir qu’après l’activation de l’option, elle s’appliquera chaque fois que le solde de tokens atteindra le montant de tokens spécifié ci-dessus, jusqu’à ce que l’option soit désactivée par l’Abonné. Dans le cas où la transaction de retrait automatique serait refusée pour quelque raison que ce soit lors de la procédure de traitement du paiement trois fois de suite, la transaction sera automatiquement suspendue et le paiement manuel par l’Abonné sera requis.
 
@@ -666,6 +666,7 @@ Assistance
 * [Politique de Confidentialité](https://girls.xyz/privacy)
 * [Termes et Conditions d'Utilisation](https://girls.xyz/terms)
 * [Politique sur les droits d’auteur et la propriété intellectuelle](https://girls.xyz/dmca)
+* [Loi européenne sur les services numériques](https://girls.xyz/digital-services)
 * [Guide de contrôle parental](https://girls.xyz/parental-control-guidance)
 *   
     
@@ -674,7 +675,7 @@ Assistance
 
 Concours / Argent
 
-* [Top 100 de la Semaine](https://girls.xyz/contest/queen-of-queens-international)
+* [Top 100 de la Semaine](https://girls.xyz/contest/queen-of-queens)
 * [Toutes les promotions](https://girls.xyz/free-tokens)
 * [Inscription Partenaire](https://fr.bongacash.com/ref?c=696088)
 
