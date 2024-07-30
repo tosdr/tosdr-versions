@@ -12,13 +12,19 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.listenlively.com/product)
 
+[Summer's cooling off!
+
+Summer's cooling off!
+
+Summer's cooling off!
+
+**Sale ends in 3d : 4h : 7m**](https://www.listenlively.com/product)
+
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -116,7 +122,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3528 reviews)
+4.6 out of 5(3545 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -163,7 +169,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3528 reviews)
+4.6 out of 5(3545 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -193,10 +199,18 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 As low as 0% APR and $0 down\* with See if you prequalify
 
-Hear your whole SoundScape™
----------------------------
+Our clearest sound comes through SoundScape™ technology
+-------------------------------------------------------
 
-Select 500s employ 3 key features of proprietary speech-clarity technology
+![SoundScape](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/soundscape.3e149c17.jpg)
+
+SoundScape™ technology uses **advanced microphones** to capture all the sounds around you, and a **powerful processing chip** to determine which ones are important to you.
+
+The result is bright, **natural-sounding hearing in noise** — the best we offer!
+
+[Shop now](https://www.listenlively.com/product/enhanceselect500)
+
+### Select 500s employ 3 key features of SoundScape™ technology
 
 Previous
 
