@@ -3,7 +3,7 @@
 Terminos y condiciones - Diario El Mundo
 ========================================
 
-Viernes 26 De Julio Del 2024
+Lunes 29 De Julio Del 2024
 
 [![logo](https://static.elmundo.sv/kdg-content/featured/logos/diario_el_mundo_hd_black.svg)](https://diario.elmundo.sv/ "Diario El Mundo")
 
