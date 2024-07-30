@@ -1,24 +1,43 @@
 Language
 
-* [English](https://www.hostelworld.com/st/securityprivacy/)
-* [Français](https://www.french.hostelworld.com/st/securityprivacy/)
-* [Deutsch](https://www.german.hostelworld.com/st/securityprivacy/)
-* [Español](https://www.spanish.hostelworld.com/st/securityprivacy/)
-* [Italiano](https://www.italian.hostelworld.com/st/securityprivacy/)
-* [Português](https://www.portuguese.hostelworld.com/st/securityprivacy/)
-* [Português (Brasil)](https://www.brazilian.hostelworld.com/st/securityprivacy/)
-* [Svenska](https://www.swedish.hostelworld.com/st/securityprivacy/)
-* [Polski](https://www.polish.hostelworld.com/st/securityprivacy/)
-* [Suomi](https://www.finnish.hostelworld.com/st/securityprivacy/)
-* [Dansk](https://www.danish.hostelworld.com/st/securityprivacy/)
-* [Nederlands](https://www.dutch.hostelworld.com/st/securityprivacy/)
-* [Norsk](https://www.norwegian.hostelworld.com/st/securityprivacy/)
-* [český](https://www.czech.hostelworld.com/st/securityprivacy/)
-* [Русский](https://www.russian.hostelworld.com/st/securityprivacy/)
-* [Türk](https://www.turkish.hostelworld.com/st/securityprivacy/)
-* [中文](https://www.chinese.hostelworld.com/st/securityprivacy/)
-* [日本語](https://www.japanese.hostelworld.com/st/securityprivacy/)
-* [한국어](https://www.korean.hostelworld.com/st/securityprivacy/)
+* English
+    
+* Français
+    
+* Deutsch
+    
+* Español
+    
+* Italiano
+    
+* Português
+    
+* Português (Brasil)
+    
+* Svenska
+    
+* Polski
+    
+* Suomi
+    
+* Dansk
+    
+* Nederlands
+    
+* Norsk
+    
+* český
+    
+* Русский
+    
+* Türk
+    
+* 中文
+    
+* 日本語
+    
+* 한국어
+    
 
 [![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
 
