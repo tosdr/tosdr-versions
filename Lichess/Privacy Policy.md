@@ -8,7 +8,7 @@ Accessibility: Enable blind mode
 
 [Puzzles](https://lichess.org/training)
 
-[Puzzles](https://lichess.org/training)[Puzzle themes](https://lichess.org/training/themes)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
+[Puzzles](https://lichess.org/training)[Puzzle Themes](https://lichess.org/training/themes)[Puzzle Dashboard](https://lichess.org/training/dashboard/30)[Puzzle Streak](https://lichess.org/streak)[Puzzle Storm](https://lichess.org/storm)[Puzzle Racer](https://lichess.org/racer)
 
 [Learn](https://lichess.org/learn)
 
