@@ -802,16 +802,16 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ### Most read articles
 
-* 1[Hungary to block EU funds for member states until Ukraine allows Lukoil transit](http://en.euractiv.eu/section/global-europe/news/hungary-to-block-eu-funds-for-member-states-until-ukraine-allows-lukoil-transit/?utm_source=website&utm_campaign=popular)
+* 1[Cash-strapped Hungary borrows €1 billion from China](http://en.euractiv.eu/section/china/news/cash-strapped-hungary-borrows-e1-billion-from-china/?utm_source=website&utm_campaign=popular)
 * 2[Von der Leyen gives nod to €100 billion 'CERN for AI' proposal](http://en.euractiv.eu/section/digital/news/von-der-leyen-gives-nod-to-e100-billion-cern-for-ai-proposal/?utm_source=website&utm_campaign=popular)
-* 3[Eight EU member states call for Syria policy reset](http://en.euractiv.eu/section/global-europe/news/eight-eu-member-states-call-for-syria-policy-reset/?utm_source=website&utm_campaign=popular)
-* 4[EU agriculture chief slams the idea of reform-linked funds for farmers](http://en.euractiv.eu/section/agriculture-food/news/eu-agriculture-chief-slams-the-idea-of-reform-linked-funds-for-farmers/?utm_source=website&utm_campaign=popular)
-* 5[EU foreign ministers to meet in Brussels, not Budapest, over Ukraine diplomacy spat](http://en.euractiv.eu/section/europe-s-east/news/eu-foreign-ministers-to-meet-in-brussels-not-budapest-over-ukraine-diplomacy-spat/?utm_source=website&utm_campaign=popular)
-* 6[Italy to present hydrogen corridor plan in autumn, may involve Switzerland](http://en.euractiv.eu/section/energy-environment/news/italy-to-present-hydrogen-corridor-plan-in-autumn-may-involve-switzerland/?utm_source=website&utm_campaign=popular)
+* 3[As Germany struggles to improve economy, it decided to go on a Gigabit offensive](http://en.euractiv.eu/section/digital/news/as-germany-struggles-to-improve-economy-it-decided-to-go-on-a-gigabit-offensive/?utm_source=website&utm_campaign=popular)
+* 4[Pornhub challenges natural names disclosure under digital rules at Europe's highest court](http://en.euractiv.eu/section/platforms/news/pornhub-challenges-natural-names-disclosure-under-digital-rules-at-europes-highest-court/?utm_source=website&utm_campaign=popular)
+* 5[EU agriculture chief slams the idea of reform-linked funds for farmers](http://en.euractiv.eu/section/agriculture-food/news/eu-agriculture-chief-slams-the-idea-of-reform-linked-funds-for-farmers/?utm_source=website&utm_campaign=popular)
+* 6[Trump tells Christians they won't have to vote after this election](http://en.euractiv.eu/section/global-europe/news/trump-tells-christians-they-wont-have-to-vote-after-this-election/?utm_source=website&utm_campaign=popular)
 * 7[Ex US trade official: Trump tariffs on Chinese goods could offer 'top cover’ for EU measures](http://en.euractiv.eu/section/economy-jobs/news/ex-us-trade-official-trump-tariffs-on-chinese-goods-could-offer-top-cover-for-eu-measures/?utm_source=website&utm_campaign=popular)
-* 8[Confusion on France’s renewable commitments in national energy, climate plan](http://en.euractiv.eu/section/energy-environment/news/confusion-on-frances-renewable-commitments-in-national-energy-climate-plan/?utm_source=website&utm_campaign=popular)
-* 9[Pilots launch bathroom campaign against one-pilot-only flights](http://en.euractiv.eu/section/aviation/news/plots-launch-bathroom-campaign-against-one-pilot-only-flights/?utm_source=website&utm_campaign=popular)
-* 10[NATO finds gaping holes in Europe's defences](http://en.euractiv.eu/section/defence-and-security/news/nato-finds-gaping-holes-in-europes-defences/?utm_source=website&utm_campaign=popular)
+* 8[Polish MPs allow security forces to use arms with impunity](http://en.euractiv.eu/section/global-europe/news/polish-mps-allow-security-forces-to-use-arms-with-impunity/?utm_source=website&utm_campaign=popular)
+* 9[Erdoğan says Turkey might enter Israel to help Palestinians](http://en.euractiv.eu/section/global-europe/news/erdogan-says-turkey-might-enter-israel-to-help-palestinians/?utm_source=website&utm_campaign=popular)
+* 10[Orbán says Russia stands to gain as 'irrational' West loses power](http://en.euractiv.eu/section/global-europe/news/orban-says-russia-stands-to-gain-as-irrational-west-loses-power/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
