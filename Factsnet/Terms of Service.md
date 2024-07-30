@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![13 Facts About Vietnam Draft ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/13-facts-about-vietnam-draft/)
+[![12 Facts About Team Work ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/12-facts-about-team-work/)
 
-Historical Events
+General
 
-25 Jul 2024
+29 Jul 2024
 
-[13 Facts About Vietnam Draft](https://facts.net/history/historical-events/13-facts-about-vietnam-draft/)
+[12 Facts About Team Work](https://facts.net/general/12-facts-about-team-work/)
 
-[![12 Facts About Balkan Countries ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/12-facts-about-balkan-countries/)
+[![20 Facts About Chinas OneChild Policy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/20-facts-about-chinas-one-child-policy/)
 
-Countries
+Society & Social Sciences
 
-25 Jul 2024
+29 Jul 2024
 
-[12 Facts About Balkan Countries](https://facts.net/world/countries/12-facts-about-balkan-countries/)
+[20 Facts About Chinas OneChild Policy](https://facts.net/society-and-social-sciences/20-facts-about-chinas-one-child-policy/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
