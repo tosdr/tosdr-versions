@@ -24,7 +24,12 @@ Accept Reject
     
 * [Copyright Policy](https://linkedin.com/legal/copyright-policy)
     
-* [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
+* [Regional Info](https://privacy.linkedin.com/regionalinfo)
+    
+    * [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
+        
+    * [U.S. State Privacy Laws](https://privacy.linkedin.com/usa)
+        
     
 
 * [User Agreement](https://linkedin.com/legal/user-agreement)
@@ -33,7 +38,9 @@ Accept Reject
 * [Professional Community Policies](https://linkedin.com/legal/professional-community-policies)
 * [Cookie Policy](https://linkedin.com/legal/cookie-policy)
 * [Copyright Policy](https://linkedin.com/legal/copyright-policy)
-* [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
+* [Regional Info](https://privacy.linkedin.com/regionalinfo)
+    * [California Privacy Disclosure](https://linkedin.com/legal/california-privacy-disclosure)
+    * [U.S. State Privacy Laws](https://privacy.linkedin.com/usa)
 
 ![](https://media.licdn.com/dms/image/C4D08AQFXY7ga83Bafw/croft-frontend-shrinkToFit1024/0/1598658592736?e=2147483647&v=beta&t=_Gd-f4zfvPMYtCby23t_ALpSOCBbRMHCnCVuFfEn0ng) 
 
@@ -137,6 +144,7 @@ To learn more about advertisers’ use of cookies, please visit the following li
     * Deutsch (German)
     * **English (English)**
     * Español (Spanish)
+    * فارسی (Persian)
     * Français (French)
     * हिंदी (Hindi)
     * Bahasa Indonesia (Indonesian)
