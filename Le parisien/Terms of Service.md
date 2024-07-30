@@ -271,7 +271,7 @@ Navigation
 Conditions générales de vente et d’utilisation
 ==============================================
 
-Version du 28 mai 2024
+Version du 29 juillet 2024
 
 Informations légales
 
@@ -432,12 +432,14 @@ Les Codes d'accès permettent à l'Utilisateur de s'identifier et de se connecte
 
 Tout Utilisateur s’engage à, sans que la liste ci-après soit exhaustive :
 
-* ne télécharger la(es) Publication(s) Numérique(s) sur son équipement que pour un usage exclusivement personnel, non marchand ; n'imprimer la(es) Publication(s) Numérique(s) téléchargée(s) sur support papier qu'à la condition que les copies ainsi constituées fassent l'objet d'un usage exclusivement personnel, à l’exclusion notamment toute reproduction à des fins professionnelles ou commerciales ou de diffusion en nombre, gratuite ou payante ;
+* n'imprimer la(es) Publication(s) Numérique(s) sur support papier qu'à la condition que les copies ainsi constituées fassent l'objet d'un usage exclusivement personnel, à l’exclusion notamment toute reproduction à des fins professionnelles ou commerciales ou de diffusion en nombre, gratuite ou payante ;
 * ne pas recopier tout ou partie de la(es) Publication(s) Numérique(s) sur un autre site ou un réseau interne d'entreprise ;
 * ne pas reproduire ou résumer la(es) Publication(s) Numérique(s) à des fins de revue ou de panorama de presse ;
 * ne pas reproduire, résumer, altérer, modifier, déplacer, retirer, remplacer ou rediffuser, sans autorisation écrite et préalable de la Société, tout ou partie du contenu éditorial \[texte (articles, titre..) et/ou reproduction (illustrations, photos ...)\] et/ou le nom, le logo, les marques notamment LE PARISIEN, LA PARISIENNE, AUJOURD’HUI EN France et LE PARISIEN ETUDIANT…
 * ne pas reproduire, résumer, tout ou partie du contenu éditorial \[texte (articles, titre..) et/ou reproduction (illustrations, photos ...)\] sur les sites de réseaux sociaux (Facebook, Twitter, Instagram...) existants ou à venir ;
-* La violation de ces dispositions impératives soumet l'Utilisateur ainsi que toutes les personnes qui y ont participé aux sanctions pénales et civiles prévues par la Loi.
+
+  
+La violation de ces dispositions impératives soumet l'Utilisateur ainsi que toutes les personnes qui y ont participé aux sanctions pénales et civiles prévues par la Loi.
 
 4.3 Mise à disposition / Livraison de l’édition électronique du Quotidien pour un Abonné
 ----------------------------------------------------------------------------------------
@@ -448,7 +450,7 @@ L'accès au Quotidien en format PDF s'effectue sur la page d’accueil des Suppo
   
 Cette édition électronique du Quotidien est accessible à partir des Supports Numériques.  
   
-La Société ne garantit pas l’Abonné d’une sauvegarde ad vitam des Publications Numériques, le(s) Support(s) Numériques(s) n’ayant pas pour finalité la sauvegarde, il appartiendra à l’Utilisateur et/ou Abonné de prendre toutes les mesures qu’il estimera utile.
+La Société ne garantit pas l’Abonné d’une sauvegarde ad vitam des Publications Numériques, le(s) Support(s) Numériques(s) n’ayant pas pour finalité la sauvegarde mais uniquement une consultation en ligne.
 
 4.4 Suppression d’un Compte via l’application téléchargée sur des appareils mobiles (smartphones et tablettes)
 --------------------------------------------------------------------------------------------------------------
@@ -583,7 +585,7 @@ Conformément à l’article L.121-21 du Code de la Consommation, l’Abonné di
 
 Pour toute commande de Hors-Série à l’unité, l’Utilisateur dispose d’un délai de quatorze jours à compter de la réception des Hors-Séries pour exercer votre droit de rétractation. Après communication de la décision d'exercer son droit de rétractation dans ce délai de 14 jours, l’Utilisateur dispose d'un autre délai de 14 jours pour renvoyer le ou les Hors-Séries concernés par la rétractation. Les retours sont à effectuer dans leur état d'origine et complets permettant leur recommercialisation à l'état neuf. En cas de dépréciation de l’Hors-Série, votre responsabilité peut être engagée.  
   
-Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou des Hors-Série(s) correspondant.
+Le bulletin de rétractation est fourni à l’Abonné dans les présentes CGV/CGU. En cas d'exercice du droit de rétractation, la Société procédera au remboursement des sommes versées (y compris les frais de livraison relatif à l'envoi initial) au plus tard dans les 14 jours à compter de la date à laquelle la Société est informée de la décision de l’Utilisateur de se rétracter. Cette date de remboursement pouvant être différée jusqu'au retour du ou des Hors-Série(s) correspondant. Il est expressément précisé que les coûts directs de renvoi restent à la charge de l’Utilisateur et ne seront pas inclus dans le montant du remboursement susvisé.
 
 11\. Propriété Intellectuelle de la Société sur les Supports Numériques – Politique de fouille des données
 
@@ -603,7 +605,7 @@ Pour faciliter la lecture de ce droit d’opposition par tout dispositif de coll
   
 Les Utilisateurs, Abonnés, Contributeurs ou, d’une manière générale, tout tiers personne physique ou morale, ne sont pas autorisés à utiliser le(s) Support(s) Numérique(s) et/ou le Contenu à d’autres fins que dans le cadre d’un usage personnel, privé, non collectif et non commercial.  
   
-Ainsi, toute représentation, reproduction, imbrication, diffusion ou rediffusion, partielle ou totale de la structure et/ou des Contenus des Supports Numériques, que ces données soient publiques ou non, sont interdites conformément aux dispositions de l’article L. 122-4, L713-2 et L713-3 du Code de la propriété intellectuelle. De même, toute extraction ou réutilisation d’une partie qualitativement ou quantitativement substantielle du contenu des bases de données produites par la Société et mises à la disposition des Utilisateurs sur les Supports Numériques sont interdites en vertu des ar-ticles L341-1 et suivants du Code de la propriété Intellectuelle.  
+Ainsi, toute représentation, reproduction, imbrication, diffusion ou rediffusion, partielle ou totale de la structure et/ou des Contenus des Supports Numériques, que ces données soient publiques ou non, sont interdites conformément aux dispositions de l’article L. 122-4, L713-2 et L713-3 du Code de la propriété intellectuelle. De même, toute extraction ou réutilisation d’une partie qualitativement ou quantitativement substantielle du contenu des bases de données produites par la Société et mises à la disposition des Utilisateurs sur les Supports Numériques sont interdites en vertu des articles L341-1 et suivants du Code de la propriété Intellectuelle.  
 .  
 La Société se réserve le droit de (i) mettre en place tout système de protection qu’elle jugera utile pour empêcher ou stopper tout système ou logiciel automatisé ou non et/ou toute action visant à extraire ou collecter toute donnée du(des) Support(s) Numérique(s) et (ii) d’intenter toute action ou réclamation nécessaire à l’effet d’empêcher, faire cesser et sanctionner toute atteinte à ses droits sur le Contenu et/ou le(s) Support(s) Numérique(s), y compris dans le cadre de poursuites judiciaires, et ce sans mise en demeure préalable.
 
@@ -822,9 +824,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=715)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=718)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=715)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=718)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
