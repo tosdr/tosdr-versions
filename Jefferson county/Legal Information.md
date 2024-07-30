@@ -2,6 +2,8 @@
 
          
 
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Fire Restrictions](https://www.jeffco.us/AlertCenter.aspx) [Temporary Stage 1 Fire Restrictions in Unincorporated Jefferson County Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Temporary-Stage-1-Fire-Restrictions-in-U-1562)
+
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
