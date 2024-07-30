@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Summer Greetings from Fandango!** Get double points July 29th - July 31st
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ticket and a Tee pack!** Get a ticket and a Team USA Minions T-Shirt!
@@ -210,6 +211,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f77664d0-4b6b-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-applepay-week4-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
+    
+    ### APPLE PAY WEDNESDAY
+    
+    Get $5 off ticket orders made on Wednesday, 7/31 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    
+* [SUMMER GREETINGS FROM FANDANGO! image link ![SUMMER GREETINGS FROM FANDANGO!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/4069ed90-4ad8-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-summer-week11-2xpoints-292x118.png)](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~homepageoffers) 
+    
+    ### SUMMER GREETINGS FROM FANDANGO!
+    
+    Get double FanRewards Points from Fandango with any ticket purchase made July 29th - July 31st
+    
+    [BUY TICKETS](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~homepageoffers)
+    
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
     ### GET DEADPOOL'S PREMIUM PACKAGE
@@ -217,22 +234,6 @@ Offers
     Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
-    
-* [RYAN'S WORLD THE MOVIE: HERO BUNDLE image link ![RYAN'S WORLD THE MOVIE: HERO BUNDLE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5adbc0-4ab3-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-ryansworld-292x118.png)](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer) 
-    
-    ### RYAN'S WORLD THE MOVIE: HERO BUNDLE
-    
-    Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
-    
-    [BUY NOW](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer)
-    
-* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
-    
-    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
-    
-    Get tickets now for the live broadcasts in AMC Theatres!
-    
-    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
     
 * [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/7452f0a0-4544-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-amcminions-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer) 
     
@@ -261,7 +262,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236076/FND_poster_ItEndsWithUs-Presale.jpg)
     
     It Ends With Us (2024)](https://www.fandango.com/it-ends-with-us-2024-236076/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236332/FND_poster_Trap-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236332/Trap_final_2024.jpg)
     
     Trap (2024)](https://www.fandango.com/trap-2024-236332/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235049/LONGLEGS_Official_Poster_Full.jpg)
@@ -340,6 +341,16 @@ New & Coming soon
 
 © 2024 Fandango
 
+### Summer Greetings from Fandango! Hot movies, cold sodas, all summer long
+
+Close
+
+![Summer Greetings from Fandango!](https://images.fandango.com/cms/assets/c782c710-4ad9-11ef-a588-3b078e6b3d8a--fan-globalnavbar-summer-week11-2xpoints-343x362.jpg)
+
+#### Get double FanRewards Points from Fandango with any ticket purchase made July 29th - July 31st.
+
+For a limited time, visit Fandango.com or use the Fandango app and buy tickets between 12:01am Pacific Time (“PT”) on July 29th, 2024, and 11:59pm PT on July 31st, 2024 (the “Offer Period”), to see any movie at a participating theater during the Offer Period, and you will receive double FanRewards Points (250 per ticket, instead of the usual 125) in your Fandango account for that transaction. You must be logged in to your Fandango account to receive and spend FanRewards Points. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. When you receive 500 FanRewards Points, you will receive a $5.00 Discount Reward which you will need to convert into a Discount Promo Code for use on a qualifying purchase on http://www.fandango.com (which can be used on http://www.movietickets.com) or http://www.fandangoathome.com. Discount Promo Code expires 21 days after the $5.00 Discount Reward is posted to your Fandango account. Discount Promo Code cannot be combined with any other offer, promo code or discount. You may be required to pay taxes additionally. Discount Promo Codes cannot be used to purchase a gift card. After applying your Discount Promo Code, any unused balance will automatically expire. Void where prohibited. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to the FanRewards terms at https://www.fandango.com/policies/fanrewards-terms and Fandango’s Terms and Policies and Privacy Policy at http://www.fandango.com/Terms-and-Policies. [Buy Tickets](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~globalnav)
+
 ### Get Deadpool's Premium Package Today!
 
 Close
@@ -358,7 +369,7 @@ Close
 
 #### Get two tickets to see Ryan's World The Movie: Titan Universe Adventure, a mystery toy, and more!
 
-Ryan's World the Movie: Hero Bundle and movie tickets are non-refundable and non-exchangeable. Limited time offer. While supplies last. Must be 18 or older to purchase. See Offer Terms for full details. Offer terms can link to: https://ryansworldthemovie.fandango.egifter.com/offer-terms Legal Line: © 2024 Sunlight Entertainment, LLC. Ryan's World and all related titles, logos and characters are trademarks of RTR Production, LLC, RFR Entertainment, Inc., and Remka, Inc. All rights reserved. The pocket.watch logo and all associated intellectual property are trademarks of PocketWatch, Inc. All Rights Reserved. Legal Line Abbreviated: TM & ©2024 Sunlight Entertainment, LLC, RTR Production, LLC, RFR Entertainment, Inc., REMKA, Inc. and PocketWatch, Inc. All Rights Reserved. [Buy Now](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_promomodule)
+Ryan's World the Movie: Hero Bundle and movie tickets are non-refundable and non-exchangeable. Limited time offer. While supplies last. Must be 18 or older to purchase. See Offer Terms for full details. [Buy Now](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_promomodule)
 
 ### Ticket and a Tee Pack!
 
