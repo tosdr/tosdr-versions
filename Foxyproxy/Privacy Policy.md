@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the faultless service. I was impressed how quickly any questions I had were answered and when there was a small problem it was rectified almost immediately. When I require a proxy again in the future I will definitely be using your services.
+worked perfectly i have purchased more
 
-Philip Gillman
+Austen Knight
