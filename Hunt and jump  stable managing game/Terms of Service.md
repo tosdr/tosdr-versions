@@ -25,7 +25,7 @@ FOREST SERVER | **Year: 133 Era: 15**
     
     * [Boost Tokens](https://hj2.huntandjump.com/boost_tokens.php)
     * [Gene Mod Treatment](https://hj2.huntandjump.com/gmt.php)
-    * [Adv. Breeding Lab](https://hj2.huntandjump.com/ai_sellstraw.php)
+    * [Adv. Breeding Lab](https://hj2.huntandjump.com/ai_mygametes.php)
 * ![](/images/coloricons/icon_nav_community.png)Community
     
     * [Search Horses](https://hj2.huntandjump.com/adv_search.php)
@@ -146,6 +146,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+7/26/2024 11:39 PM EST
+
+### Several players said they missed out on the 50% off sale because they did not notice the end date. I put the sale back up but you have until 8 on Sunday to take advantage of it.
+
 7/15/2024 9:30 AM EST
 
 [SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
@@ -194,13 +198,6 @@ Massive Sale now in the GMT lab!
 ![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
 **Appaloosa Spot Regulator 1**  
 ![](https://www.huntandjump.com/images/grsExamples/asr1.png)
-
-6/29/2024 5:12 AM EST
-
-Sales end soon!
----------------
-
-June Celebration sales end Sunday night at rollover. Don't miss your shot at these deals. Many of these won't be on sale again until December.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
