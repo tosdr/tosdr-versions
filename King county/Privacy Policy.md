@@ -8,7 +8,7 @@ Jul
 
 * * *
 
-26](https://kingcounty.gov/en/calendar)
+30](https://kingcounty.gov/en/calendar)
 
 language English
 
@@ -143,6 +143,12 @@ Global Navigation
 * [Services](https://kingcounty.gov/en/legacy/services)
 * [About King County](https://kingcounty.gov/en/legacy/about)
 * [Departments](https://kingcounty.gov/en/legacy/depts)
+
+Scheduled maintenance this evening
+
+The website is undergoing maintenance this evening. Pages may take longer to load during this time. We apologize for any inconvenience and thank you for your patience.
+
+×
 
 Privacy
 =======
