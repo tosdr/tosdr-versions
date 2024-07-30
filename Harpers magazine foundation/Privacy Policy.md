@@ -42,8 +42,6 @@ Get Access to Print and Digital for $23.99 per year.
 
 [![](https://harpers.org/wp-content/themes/timber/assets/img/logo.svg)](https://harpers.org/)
 
-* [Remembering Lewis H. Lapham  
-    (1935–2024)](https://harpers.org/2024/07/remembering-lewis-lapham/)
 * [Masthead](https://harpers.org/about/masthead/)
 * [About](https://harpers.org/about/)
 * [Archive](https://harpers.org/issues/)
@@ -59,8 +57,6 @@ Get Access to Print and Digital for $23.99 per year.
 * [Manage Subscription](https://accounts.harpers.org/)
 * [Search](https://harpers.org/search/)
 
-* [Remembering Lewis H. Lapham  
-    (1935–2024)](https://harpers.org/2024/07/remembering-lewis-lapham/)
 * [Masthead](https://harpers.org/about/masthead/)
 * [About](https://harpers.org/about/)
 * [Archive](https://harpers.org/issues/)
