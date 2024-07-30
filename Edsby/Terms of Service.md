@@ -2,9 +2,7 @@
 
 [](#!)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2048'%3E%3C/svg%3E)
-
-![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
+[![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
 
 * [Solutions](#!)
     
@@ -62,9 +60,7 @@
 * [Help](https://www.edsby.com/support/)
 *  
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
-    
-    ![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
+    [![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
 * [Contact Sales](https://forms.edsby.com/contact-sales)
 
 Usage Policy
@@ -167,9 +163,7 @@ The Company reserves the right to take any action it deems necessary to protect 
 * [Terms of Use January 5th, 2018 – deprecated](https://www.edsby.com/terms-of-use-january-5th-2018-deprecated/uncategorized/)
 * [Terms of Use May 1st, 2012 – deprecated](https://www.edsby.com/terms-use-may-1st-2012-deprecated/uncategorized/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2048'%3E%3C/svg%3E)
-
-![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
+[![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
 
 ###### Company
 
