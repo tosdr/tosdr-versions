@@ -12,7 +12,7 @@ Toggle menu
     
     [Background removernewErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
     
-    [Image editorEdit photos easily online, no software needed](https://www.freepikcompany.com/photo-editor/new-artboard)
+    [Image editorEdit photos easily online, no software needed](https://www.freepikcompany.com/ai/photo-editor)
     
     [ExpandnewResize any image filling the gaps with AI](https://www.freepik.com/pikaso/expand)
     
