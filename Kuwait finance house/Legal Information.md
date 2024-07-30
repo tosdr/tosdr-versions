@@ -316,7 +316,7 @@ Locating a Kuwait Finance House branches or ATMs is now faster and simpler with 
 
 ![](/dam/jcr:812e063a-cc44-4172-a892-46cd9f4a0893/circle-icn2.png)
 
-### CALL US 24/7 "ALLO BAITAK" 1803333
+### CALL US 24/7 "Batik telephone service" 1803333
 
 **USA & Canada**
 
@@ -342,7 +342,7 @@ Locating a Kuwait Finance House branches or ATMs is now faster and simpler with 
 
 **900-905-440**
 
-Please use a local phone number for the country you wish to communicate through to avoid international calling fees 
+This service is free for customers using mobile and landline phones in the mentioned countries only and does not include roaming service.
 
 ![](/dam/jcr:dde0969a-853f-4eed-84c1-becca19a967d/circle-icn3.png)
 
@@ -358,7 +358,7 @@ You can contact us by clicking the ‘contact us’ button. We will get back to 
 
 ![...](/dam/jcr:812e063a-cc44-4172-a892-46cd9f4a0893/circle-icn2.png)
 
-### CALL US 24/7 "ALLO BAITAK" 1803333
+### CALL US 24/7 "Batik telephone service" 1803333
 
 ![...](/dam/jcr:dde0969a-853f-4eed-84c1-becca19a967d/circle-icn3.png)
 
