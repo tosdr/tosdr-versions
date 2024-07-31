@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=394594511078571&ev=PageView&noscript=1) 
-
 ×
 
 _menu_
@@ -50,6 +48,7 @@ _menu_
 
 * * Discover
     *  [![](https://static2.penana.com/img/menu/home.svg) Home](https://www.penana.com/home)
+        
     *  ![](https://static2.penana.com/img/menu/stories.svg) Stories
         
         * [All](https://www.penana.com/stories?genre=all)
@@ -97,10 +96,15 @@ _menu_
         
     * Me
     *  [![](https://static2.penana.com/img/menu/bookmark.svg) Bookshelf](https://www.penana.com/bookshelf)
+        
     *  ![](https://static2.penana.com/img/menu/compose.svg) Write
+        
     *  ![](https://static2.penana.com/img/menu/society.svg) Society
+        
     *  ![](https://static2.penana.com/img/menu/hub.svg) Hub
+        
     *  [![](https://static2.penana.com/img/menu/rocket.svg) How to Publish](https://penana-1.gitbook.io/penana-guide)
+        
     
     [Privacy](https://www.penana.com/privacy.php) · [Terms](https://www.penana.com/terms.php) · [FAQ](https://www.penana.com/faq.php) · [Feedback](https://www.penana.com/feedback.php)  
     _language_Language settings · [Mobile view](https://m.penana.com/privacy?v=mobile)  
