@@ -163,7 +163,7 @@ Como isso acontece por razões que estão fora do nosso controle, nós não nos 
 Sobre estes Termos
 ------------------
 
-As informações que inserimos aqui trazem uma versão simplificada dos nossos Termos de Uso. Recomendamos fortemente que você acesse e conheça a versão integral, clicando [aqui](https://drive.google.com/file/d/1VEB6cp9uej3SUs9tzyLMSyf_wNkjgCDN/view?usp=sharing).
+As informações que inserimos aqui trazem uma versão simplificada dos nossos Termos de Uso. Recomendamos fortemente que você acesse e conheça a versão integral, clicando [aqui](https://www.mobills.com.br/blog/wp-content/uploads/2024/07/Termos-de-Uso-Full.pdf).
 
 Se ainda assim você tiver alguma dúvida, pode nos chamar pelo e-mail [suporte@mobills.com.br](mailto:suporte@mobills.com.br). 
 
