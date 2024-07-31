@@ -43,8 +43,6 @@
 
 [Menu](#navigation)
 
-[**Data Privacy Incident**](https://www.numotion.com/data-privacy-incident)
-
 Numotion Privacy Policy
 =======================
 
