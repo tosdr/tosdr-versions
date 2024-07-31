@@ -5,7 +5,7 @@
 
 [![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1)](https://mynextpay.ca/)
 
-* [YOUR LOAN, YOUR CHOICE](#)
+* [SERVICES](#)
     * [PAYDAY LOANS](https://mynextpay.ca/payday-loans/)
     * [INSTALLMENT LOANS](https://mynextpay.ca/installment-loans-canada/)
     * [CASH ADVANCE](https://mynextpay.ca/cash-advance/)
