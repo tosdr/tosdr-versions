@@ -117,7 +117,7 @@ Retrieved from "[https://wiki.roll20.net/index.php?title=Terms\_of\_Service\_and
 
 [![Powered by MediaWiki](/skins/common/images/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
 
-This page was last modified on 22 October 2021, at 21:26. This page has been accessed 393,751 times.
+This page was last modified on 22 October 2021, at 21:26. This page has been accessed 393,799 times.
 
 * Content is available under [Creative Commons Attribution Non-Commercial Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 * [About Roll20 Wiki](https://wiki.roll20.net/Roll20:About "Roll20:About")
