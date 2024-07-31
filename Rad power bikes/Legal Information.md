@@ -619,7 +619,6 @@ After you buy
 * [Return a product](https://www.radpowerbikes.com/apps/returns)
 * [Rad service center](https://www.radpowerbikes.com/pages/rad-service)
 * [Assembly videos & owner's manuals](https://support.radpowerbikes.com/Assembly_and_how-tos/Assembly_and_manuals/Download_my_owner%27s_manual_or_view_assembly_video)
-* [Refer a friend](https://www.radpowerbikes.com/pages/refer-a-friend)
 
 Get help
 --------
