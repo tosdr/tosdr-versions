@@ -162,10 +162,10 @@ Type your search and hit enter
 * [Laptop deals](https://www.pcworld.com/article/550968/best-laptop-deals-3.html)
 * [Desktop PC deals](https://www.pcworld.com/article/813362/best-pc-computer-deals.html)
 
-* [](https://www.facebook.com/PCWorld/ "Share on Facebook")
-* [](https://twitter.com/pcworld "Share on Twitter")
-* [](https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew "Share on YouTube")
-* [](https://www.linkedin.com/company/pc-world_2/ "Share on LinkedIn")
+* [](https://www.facebook.com/PCWorld/ "Follow us on Facebook")
+* [](https://twitter.com/pcworld "Follow us on X")
+* [](https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew "Follow us on YouTube")
+* [](https://www.linkedin.com/company/pc-world_2/ "Follow us on LinkedIn")
 
 Privacy Policy
 ==============
@@ -401,10 +401,10 @@ Last updated: 22 February 2022 \[Version PP-201219001\]
 
 PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.
 
-* [](https://www.facebook.com/PCWorld/ "Share on Facebook")
-* [](https://twitter.com/pcworld "Share on Twitter")
-* [](https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew "Share on YouTube")
-* [](https://www.linkedin.com/company/pc-world_2/ "Share on LinkedIn")
+* [](https://www.facebook.com/PCWorld/ "Follow us on Facebook")
+* [](https://twitter.com/pcworld "Follow us on X")
+* [](https://www.youtube.com/channel/UCDC1Pas1aocEA5HBl7jp0ew "Follow us on YouTube")
+* [](https://www.linkedin.com/company/pc-world_2/ "Follow us on LinkedIn")
 
 * Policies
     * [Privacy Policy](https://www.pcworld.com/about/privacy)
