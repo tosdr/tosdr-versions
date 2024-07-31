@@ -182,6 +182,9 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![淥宇塵](/img/wallpaper/pw01953.jpg)
+    
+    ###### 淥宇塵](https://www.pili.com.tw/img/wallpaper/pw01953.jpg)
 * [![赤煉兒](/img/wallpaper/pw01952.jpg)
     
     ###### 赤煉兒](https://www.pili.com.tw/img/wallpaper/pw01952.jpg)
@@ -209,9 +212,6 @@ Hello, 你好!
 * [![年幾何](/img/wallpaper/pw01944.jpg)
     
     ###### 年幾何](https://www.pili.com.tw/img/wallpaper/pw01944.jpg)
-* [![妲眸姬](/img/wallpaper/pw01943.jpg)
-    
-    ###### 妲眸姬](https://www.pili.com.tw/img/wallpaper/pw01943.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
@@ -265,6 +265,13 @@ Hello, 你好!
 
 #### 焦點新聞
 
+* [![8/18《Thunderbolt Fantasy 東離劍遊紀４》世界首映！](/img/news/548x316/2024073008592624355.jpg)
+    
+    公告
+    
+    2024.07.30
+    
+    ##### 8/18《Thunderbolt Fantasy 東離劍遊紀４》世界首映！](https://www.pili.com.tw/news-view/2024073008592624355/)
 * [![談無慾、凜雪鴉，前進漫博引爆轟動！《TBF東離劍遊紀４》電視劇集近期播映！](/img/news/548x316/2024072720395914764.jpg)
     
     公告
@@ -272,13 +279,6 @@ Hello, 你好!
     2024.07.27
     
     ##### 談無慾、凜雪鴉，前進漫博引爆轟動！《TBF東離劍遊紀４》電視劇集近期播映！](https://www.pili.com.tw/news-view/2024072720395914764/)
-* [![《肥羊重生後》x TBF東離番外篇 將於 MOJOIN 獨家上線！](/img/news/548x316/2024072310485131658.jpg)
-    
-    公告
-    
-    2024.07.23
-    
-    ##### 《肥羊重生後》x TBF東離番外篇 將於 MOJOIN 獨家上線！](https://www.pili.com.tw/news-view/2024072310485131658/)
 
 [探索全部](https://www.pili.com.tw/news-browse.php)
 
