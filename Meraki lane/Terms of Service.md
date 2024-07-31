@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![10 Myths and Facts About Cellulite | There is a lot of misinformation about cellulite, but one thing is for certain: everyone has it. Yes, contrary to popular belief, it doesn't just affect people who are overweight! In this post, we are debunking common myths about cellulite and equipping you with the facts so you can determine what's normal, what's not, how to get rid of cellulite naturally through lifestyle changes, the best cellulite removal products to invest in, and treatment options.](https://www.merakilane.com/wp-content/uploads/2024/07/5-1.png)](https://www.merakilane.com/10-myths-and-facts-about-cellulite/)
+    [![8 Best Haircuts and Hairstyles that Hide Hearing Aids | Whether you wear in the ear, over the ear, or cochlear implants, there are lots of ways you can cut and style your hair to make your hearing aids invisible. The easiest option is to grow your hair long and use it to cover your ears, but there are short and medium length hairstyles that work just as well, plus tons updos you can try when you want your hair off of your face. Click for our fav DIY hairstyles to elevate your look!](https://www.merakilane.com/wp-content/uploads/2024/07/4-4.png)](https://www.merakilane.com/8-best-haircuts-and-hairstyles-that-hide-hearing-aids/)
     
-    ### [10 Myths and Facts About Cellulite](https://www.merakilane.com/10-myths-and-facts-about-cellulite/)
+    ### [8 Best Haircuts and Hairstyles that Hide Hearing Aids](https://www.merakilane.com/8-best-haircuts-and-hairstyles-that-hide-hearing-aids/)
     
-    [![6 Easy Postpartum Haircare Routine Tips for New Moms | While your hair grows faster and falls out less while you are pregnant, significant hair shedding is common post-childbirth. Hair fall tends to peak when your babe is 4 months old, with normal hair growth back on track 12 months postpartum. In the meantime, there are things you can do to help your hair look and feel it's best as your hormones balance, and they don't take a ton of time. Click for quick and easy postpartum haircare tips!](https://www.merakilane.com/wp-content/uploads/2024/07/3-1.png)](https://www.merakilane.com/6-easy-postpartum-haircare-routine-tips-for-new-moms/)
+    [![How to Get Shiny Hair: 9 Tips & Products that Work | Whether you have short, medium length, or long hair that's straight, wavy, or curly, one thing is for certain: you want silky, smooth, and shiny hair. In this post, we have tons of tips and products to help you get heathy looking hair without expensive hair salon treatments. From using the right shampoo and a good hair mask, to investing in the right hair oils for your hair type, this post has everything you need to know. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/07/8-1.png)](https://www.merakilane.com/how-to-get-shiny-hair-9-tips-products-that-work/)
     
-    ### [6 Easy Postpartum Haircare Routine Tips for New Moms](https://www.merakilane.com/6-easy-postpartum-haircare-routine-tips-for-new-moms/)
+    ### [How to Get Shiny Hair: 9 Tips & Products that Work](https://www.merakilane.com/how-to-get-shiny-hair-9-tips-products-that-work/)
     
-    [![12 Skin Firming Tips for Your Face and Neck | Does your skincare routine include the skin under your chin? If not, it should! Wrinkles, creasing, and sun spots can occur on your face AND your neck, and as can loose and sagging skin. From sunscreen to retinol, and everything in between, there are lots of exercises and skincare products you can use to help tighten the skin on your face and get rid of the dreaded 'turkey neck.' Click for our best skin tightening remedies for youthful skin!](https://www.merakilane.com/wp-content/uploads/2024/07/1-3.png)](https://www.merakilane.com/12-skin-firming-tips-for-your-face-and-neck/)
+    [![13 DIY Eyebrow Lamination Tips & Products for Fluffy Brows | Eyebrow laminating has been a hot topic on Instagram and TikTok, and for good reason -- it's a simple way to enhance or lift your brows for natural, thick brows without investing in expensive procedures like micro-blading. But how is it done, and can you do it at home? In this post, we have everything you need to know, including tips, products, and tutorials for the perfect DIY brow lamination.](https://www.merakilane.com/wp-content/uploads/2024/07/7-1.png)](https://www.merakilane.com/13-diy-eyebrow-lamination-tips-products-for-fluffy-brows/)
     
-    ### [12 Skin Firming Tips for Your Face and Neck](https://www.merakilane.com/12-skin-firming-tips-for-your-face-and-neck/)
+    ### [13 DIY Eyebrow Lamination Tips & Products for Fluffy Brows](https://www.merakilane.com/13-diy-eyebrow-lamination-tips-products-for-fluffy-brows/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,17 +67,17 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
-    [![20 Healthy Tips for Night Shift Workers | It can be hard to figure out and stick to a healthy sleep routine as a shift worker, let alone commit to a regular workout schedule and make the time to plan and prep healthy meals and snacks. If this resonates with you, this post is just what you need. We're sharing practical tips to help you make the most of your schedule so you can find time for all of it -- quality time with friends and loved ones, quality sleep, exercise, balanced meals, and more!](https://www.merakilane.com/wp-content/uploads/2024/07/6-1.png)](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
+    [![How to Get Toned Arms At Home | If you're looking for the best exercises to give you tight and defined biceps and triceps, this post is for you! Perfect for women who are new to fitness, this post has it all -- the Dos and Don'ts of arm workouts plus a collection of effective arm workouts with weights and without weights, allowing you to create your own weekly schedule based on where you are and what equipment is available to you. Grab your dumbbells and give these a try!](https://www.merakilane.com/wp-content/uploads/2024/07/2-4.png)](https://www.merakilane.com/how-to-get-toned-arms-at-home-8-best-exercises/)
     
-    ### [20 Healthy Tips for Night Shift Workers](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
+    ### [How to Get Toned Arms At Home: 8 Best Exercises](https://www.merakilane.com/how-to-get-toned-arms-at-home-8-best-exercises/)
     
-    [![62 Quotes For Overwhelmed Moms Who Are Having a Tough Day | Being a mother is the best, most difficult job in the world, am I right? It is exciting, terrifying, exhausting and fulfilling all at the same time. And let's be honest - some days are just downright OVERWHELMING. Whether you're a stay at home or working mom with a newborn, toddler, school-aged kids, tweens, teens, or college bound kids, a few positive words are always welcome. Click for our favorite quotes for moms who are struggling.](https://www.merakilane.com/wp-content/uploads/2024/07/2-1.png)](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
+    [![15 Greens Powder Recipes that Actually Taste Good | If you've spent any time on social media, you've seen people mixing their greens powder of choice into their water bottles to improve their gut health and boost their immunity, but what if you don't like the taste? In this post, we give you all the details on this superfood, and we share our favorite recipes that go beyond adding it to your Stanley cup. Click to learn how to cook with it, and our fav recipes from smoothies to energy bites!](https://www.merakilane.com/wp-content/uploads/2024/07/5-2.png)](https://www.merakilane.com/15-greens-powder-recipes-that-actually-taste-good/)
     
-    ### [63 Quotes For Overwhelmed Moms Who Are Having a Tough Day](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
+    ### [15 Greens Powder Recipes that Actually Taste Good](https://www.merakilane.com/15-greens-powder-recipes-that-actually-taste-good/)
     
-    [![20 Things to Do When You Can't Sleep | There are tons of sleep tips and hacks for people who struggle with chronic insomnia and other sleep disturbances which focus on the building blocks of deep, restorative, and restful sleep - regular exercise, less caffeine, balanced blood sugar, stress management, and more. But what about those one-off nights when you just cannot switch your brain off and fall asleep? In this post, we share our best tips to fall asleep when you're tired but wired.](https://www.merakilane.com/wp-content/uploads/2024/07/1-1.png)](https://www.merakilane.com/20-things-to-do-when-you-cant-sleep/)
+    [![12 Healthy Meal Planning Tips for Shift Workers | If you are a night shift worker, it can be incredibly difficult to find a healthy routine that allows you to squeeze everything in -- deep, restorative sleep, a good workout routine, time with loved ones, self-care, and healthy, clean eating. It can be much easier to rely on takeout and grab and go options, but we've done the hard work for you -- click for our best meal planning tips and meal prep hacks so you can create a meal plan you love.](https://www.merakilane.com/wp-content/uploads/2024/07/4-3.png)](https://www.merakilane.com/12-healthy-meal-planning-tips-for-shift-workers/)
     
-    ### [20 Things to Do When You Can’t Sleep](https://www.merakilane.com/20-things-to-do-when-you-cant-sleep/)
+    ### [12 Healthy Meal Planning Tips for Shift Workers](https://www.merakilane.com/12-healthy-meal-planning-tips-for-shift-workers/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -91,17 +91,17 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
+    [![12 Traits Of Narcissistic Men & How to Deal with Them | If you suspect your boyfriend, husband, dad, brother, or boss is a narcissist, this post is a great resource. We share the main types of narcissism, the differences between narcissistic women and men, we outline the characteristics of narcissism that are specific to men, and also provide tips to make interacting with these people easier. If you're thinking of leaving a man (or need to heal from a man) with NPD, this post is for you.](https://www.merakilane.com/wp-content/uploads/2024/07/2-3.png)](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
+    
+    ### [12 Traits Of Narcissistic Men & How to Deal with Them](https://www.merakilane.com/12-traits-of-narcissistic-men-how-to-deal-with-them/)
+    
+    [![13 Traits Of Narcissistic Women & How to Deal with Them | The term "narcissist" is thrown around a lot but it isn't always used correctly so i's important to learn the characteristics of narcissism and the different types. In this post, we share signs in women vs men, we outline the characteristics of narcissism that are specific to females, and we also provide tips to make interacting with these people easier. If you think your mom, sister, aunt, boss, or friend has NPD, this is for you.](https://www.merakilane.com/wp-content/uploads/2024/07/1-4.png)](https://www.merakilane.com/13-traits-of-narcissistic-women-how-to-deal-with-them/)
+    
+    ### [13 Traits Of Narcissistic Women & How to Deal with Them](https://www.merakilane.com/13-traits-of-narcissistic-women-how-to-deal-with-them/)
+    
     [![20 Healthy Tips for Night Shift Workers | It can be hard to figure out and stick to a healthy sleep routine as a shift worker, let alone commit to a regular workout schedule and make the time to plan and prep healthy meals and snacks. If this resonates with you, this post is just what you need. We're sharing practical tips to help you make the most of your schedule so you can find time for all of it -- quality time with friends and loved ones, quality sleep, exercise, balanced meals, and more!](https://www.merakilane.com/wp-content/uploads/2024/07/6-1.png)](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
     ### [20 Healthy Tips for Night Shift Workers](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
-    
-    [![62 Quotes For Overwhelmed Moms Who Are Having a Tough Day | Being a mother is the best, most difficult job in the world, am I right? It is exciting, terrifying, exhausting and fulfilling all at the same time. And let's be honest - some days are just downright OVERWHELMING. Whether you're a stay at home or working mom with a newborn, toddler, school-aged kids, tweens, teens, or college bound kids, a few positive words are always welcome. Click for our favorite quotes for moms who are struggling.](https://www.merakilane.com/wp-content/uploads/2024/07/2-1.png)](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
-    
-    ### [63 Quotes For Overwhelmed Moms Who Are Having a Tough Day](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
-    
-    [![8 Ways to Stop Feeling Sorry For Yourself | From relationship break-ups and divorce, to illness, and grief, we all go through difficult moments throughout our lives. Some are harder to overcome than others leading to feelings of self-doubt and self-pity. These feelings manifest differently for everyone but tend to cause negative thoughts of being a failure, that no one likes you and that change is impossible. Sound familiar? Click for tips to help you get out of the cycle of self-destruction.](https://www.merakilane.com/wp-content/uploads/2024/07/1-2.png)](https://www.merakilane.com/8-ways-to-stop-feeling-sorry-for-yourself/)
-    
-    ### [8 Ways to Stop Feeling Sorry For Yourself](https://www.merakilane.com/8-ways-to-stop-feeling-sorry-for-yourself/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
@@ -117,17 +117,17 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
-    [![Amusement Park Survival Guide: 18 Theme Park Tips for Parents | From games, to rides, to water park fun and everything in between, planning a trip to an indoor or outdoor amusement park is exciting and overwhelming, particularly for parents of small children. Juggling excited kids, managing long lines, and ensuring everyone stays safe and happy requires a bit of strategy. From knowing what to wear, what to pack, how to handle meltdowns and motion sickness (!!) this post has everything you need.](https://www.merakilane.com/wp-content/uploads/2024/06/2-3.png)](https://www.merakilane.com/amusement-park-survival-guide-18-theme-park-tips-for-parents/)
+    [![How to Deal with Defiant Teens: 9 Tips for Parents | Raising a child is never easy, but the teenage years can be particularly difficult. This is a time when kids want to be more independent from their family, and they start to test boundaries, express their individuality, and assert themselves. They may get involved with the wrong group, become rebellious, challenge your rules, speak disrespectfully...the list goes on. Click for parenting tips and consequences to help you raise teens.](https://www.merakilane.com/wp-content/uploads/2024/07/3-4.png)](https://www.merakilane.com/how-to-deal-with-defiant-teens-9-tips-for-parents/)
     
-    ### [Amusement Park Survival Guide: 18 Theme Park Tips for Parents](https://www.merakilane.com/amusement-park-survival-guide-18-theme-park-tips-for-parents/)
+    ### [How to Deal with Defiant Teens: 9 Tips for Parents](https://www.merakilane.com/how-to-deal-with-defiant-teens-9-tips-for-parents/)
     
-    [![66 Fun Things to Do When It's Too Hot to Go Outside | While the summer months offer a much-needed reprieve from the cold and miserable weather that keeps us inside and causes kids cabin fever, there are days when the heat reaches dangerous temperatures for kids. In this post, we share everything you need to know and we've also curated tons of indoor summer activities to beat boredom when you're stuck at home. Click for ideas for kids in preschool and elementary school, and for tweens and teens!](https://www.merakilane.com/wp-content/uploads/2024/06/2-2.png)](https://www.merakilane.com/66-fun-things-to-do-when-its-too-hot-to-go-outside/)
+    [![How to Raise Emotionally Healthy Boys: 21 Tips for Parents | If you grew up in a family with stereotypical roles and views, toxic masculinity is a narrative you are all too familiar with. Boys are often taught that vulnerability is a weakness, crying is unacceptable, and any public display of emotion should be avoided at all costs. If you want to break the cycle and raise boys who are comfortable expressing their feelings so they can have healthy relationships, this post is for you!](https://www.merakilane.com/wp-content/uploads/2024/07/10.png)](https://www.merakilane.com/how-to-raise-emotionally-healthy-boys-21-tips-for-parents/)
     
-    ### [66 Fun Things to Do When It’s Too Hot to Go Outside](https://www.merakilane.com/66-fun-things-to-do-when-its-too-hot-to-go-outside/)
+    ### [How to Raise Emotionally Healthy Boys: 21 Tips for Parents](https://www.merakilane.com/how-to-raise-emotionally-healthy-boys-21-tips-for-parents/)
     
-    [![42 Funky Crochet Patterns and Projects for Beginners & Beyond | Whether you're new to crocheting or on the hunt for fresh ideas, you'll want to bookmark this post! We're sharing tons of great crochet tips and ideas for beginners and beyond. We've included simple step by step tutorials to teach you how to do funky crochet stitches, and we've also curated our favorite crochet patterns to inspire your next project. From blankets, to hats, to scarves, to sweaters, there's a pattern here for you!](https://www.merakilane.com/wp-content/uploads/2024/06/2-1.png)](https://www.merakilane.com/34-funky-crochet-patterns-and-projects-for-beginners-beyond/)
+    [![18 Healthy School Lunches Kids Can Make Themselves | The moment your kids can pack their own lunch, the second part of your life begins, lol. The good news is that kids can learn how to make their own lunches much earlier than you think, and while it may require a bit of supervision on your part initially, giving your kids lunchbox ideas to choose from can help. If you're looking for ideas for lunches kids can make, this post is a great place to start -- especially if you have picky eaters!](https://www.merakilane.com/wp-content/uploads/2024/07/7.png)](https://www.merakilane.com/18-healthy-school-lunches-kids-can-make-themselves/)
     
-    ### [34 Funky Crochet Patterns and Projects for Beginners & Beyond](https://www.merakilane.com/34-funky-crochet-patterns-and-projects-for-beginners-beyond/)
+    ### [18 Healthy School Lunches Kids Can Make Themselves](https://www.merakilane.com/18-healthy-school-lunches-kids-can-make-themselves/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -233,34 +233,30 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
-[unapologetic ☕️🚫 🎥 @wildmediaco 📸 @t ![unapologetic ☕️🚫
+[![it’s not too late and you are not too old. ✌🏻
+🎥 taken during our getaway to aruba
+#wordstoremember #powerfulthoughts #itsnottoolate #getoutofyourownway #getunstuck #adulting101 #changeyourthoughtschangeyourlife #positiveaffirmation #makemoves #noexcusesjustresults #stopmakingexcuses #thingsiwanttoremember #lifeonpurpose #courageovercomfort #ceoofmylife](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-DPtVDs5ik/)
+
+[do you have any special talents? ☕️✈️ #tr ![do you have any special talents? ☕️✈️
+#trends #funnymemes #makemelaugh #relateablememes #canyourelate #torontomom #canadianmoms #funnyreels #coffeeadict #travelwithus #momofteenagers #momlife #momhumor #imfunny](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C-At7HuJ-8H/) 
+
+[i have always wanted to learn how to take a mirror ![i have always wanted to learn how to take a mirror selfie and challenged myself to learn while we were in aruba. so many of you followed along when I posted them to my stories each day, and it really helped reduce the second hand embarrassment I felt. ☺️ as it turns out, a lot of you also struggle with mirror selfies, so I thought I’d share the tips my friend nancy (@thecalibamamom ) sent to me:
+—stand directly in the middle of the mirror
+—turn the lower half of your body slightly to one side
+—bend the knee of the leg in front
+—do something with the arm/hand that isn’t holding the camera
+—look at yourself in your phone instead of the mirror and then take the photo
+—once you’ve mastered this pose, try lowering the phone slightly and looking into the mirror, but be careful not to tilt your head up
+lmk if these help! ✨
+#mirrorselfies #unbothered #unapologetic #lessonslearnedinlife #lessonsinlife #adulting101 #coolmom #momsarethebest #makemelaugh #momconfessions #realmom #realmotherhood #40andfabulous #womenover40 #getoutofyourownway #nottooold #torontomom #canadianmoms](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C97xAIxOAO3/) 
+
+[it’s amazing what a little sand and sun can do f ![it’s amazing what a little sand and sun can do for the soul. 🥂
+#trends #travelinstagram #travelinspo #makemelaugh #funnymemes #relatablememes #canyourelate #notsorry #unapologetic #unbothered #torontomom #canadianmoms #bucketlistadventures #borntotravel #lovetheview #crashingwaves #turquoisewaters #sandandsea #travelwithus #beachpics](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C94vZVbuYdc/) 
+
+[this mindset >>>   🎥 @wildmediaco 📸 @thisis ![this mindset >>>
 🎥 @wildmediaco
 📸 @thisismaxpower
-#unapologetic #unbothered #mindingmybusiness #adulting101 #torontomom #canadianmoms #mylifemyrules #40andfabulous #womenover40 #getoutofyourownway](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9VL-PBuKLu/) 
-
-[i was a guest on the @simplepinmedia podcast last ![i was a guest on the @simplepinmedia podcast last month, discussing how i started meraki lane, and one of the questions kate asked me was ‘what advice would you give to someone who is just starting out?’ i get asked this a lot, and my biggest advice is this: be yourself and don’t listen to what other people say. what works for them will not necessarily work for you, and pretending to be someone you’re not isn’t sustainable and will effect the quality of what you produce. if you pursue something that interests you and that you are 100% yourself with, it will pay off in the long run. the key is to put your blinders on, focus on the things that are authentic to you, and remember that the people with the most to say are usually the ones who feel the most threatened by you. their opinions don’t pay your bills so wish them well and keep going.
-if you’re interested in hearing more about my story, i’ve linked to the podcast in my bio. ❤️
-🎥 @wildmediaco
-📸 @thisismaxpower
-#mombloggers #mombloggersofig #lifestyleinfluencer #buildingmybrand #beingboss #bossmoms #buildalifeyoulove #getoutofyourownway #workingmothers #startwhereyouare #womanentrepreneur](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9SkXbDOpY0/) 
-
-[we unplugged and enjoyed a week in aruba and it wa ![we unplugged and enjoyed a week in aruba and it was everything we had hoped for (and more). if you’ve never been and want to go, here are the details of our trip plus some thoughts and notes. 
-we stayed at @bucutitara which is an adults-only resort and an absolutely gorgeous property. it is located on eagle beach which is less crowded, and we were able to get lounge chairs with an umbrella everyday. the breakfast buffet is included and had everything — i looked forward to it each morning. 😋 they only have one restaurant at the hotel but i would have happily eaten every lunch and dinner there. the food was fabulous.
-we explored palm beach both in the day and at night and loved it. it was a totally different vibe from where we were staying with lots of fabulous restaurants and beautiful hotels for families. the beach was just as stunning as eagle beach but definitely more crowded.
-we rented a car for 2 days and explored the island. it was really cool to kick around but not necessary. taxis are affordable and easy to find.
-the only downside is that there is not a lot to do in the way of shopping outside of renaissance mall (which is all high end stores), a few random stores in palm beach, and lots of stalls selling touristy things. the selection of local jewelry was 👌🏻 though so it was a success from my pov.
-oh and huge bonus: you can drink the tap water in aruba and there are water fountains everywhere to fill up your water bottle.
-aruba was a 10/10 for us. we’re already planning our next trip. ✨
-#aruba #arubalife #caribbeanvibes #caribbeanvacation #borntotravel #lovetheview #crashingwaves #turquoisewaters #sandandsea #traveltipsandtricks #travelwithus #beachpics](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9P20n5sQDm/) 
-
-[focus on what you can control. let go of the rest. ![focus on what you can control. let go of the rest. ✨
-(video taken in the Cayman Islands last summer.)
-#stayinyourlane #controlwhatyoucan #adulting101 #friendlyreminder #gentlereminder #thingsiwanttoremember #letgoofthepast #lessonslearnedinlife #lifelessonslearned #ceoofmylife #createalifeyoulove](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9NaV_lufZH/) 
-
-[monday mood. ✌🏻 🎥 @wildmediaco 📸 @this ![monday mood. ✌🏻
-🎥 @wildmediaco
-📸 @thisismaxpower
-#unbothered #unapologetic #canyourelate #torontomom #canadianmom #mylifemyrules #thankyounext #adulting101 #mindingmybusiness](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9KmcboMCh8/) 
+#momtruths #realmom #raisingdaughters #realmotherhood  #workingmothers #momswhowork #momconfessions #momsupportingmoms #canyourelate #womenentrepreneurs #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C92zBapvA81/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
