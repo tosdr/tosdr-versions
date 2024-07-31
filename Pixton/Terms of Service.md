@@ -375,7 +375,7 @@ Schools and Districts
 * [Terms of Use](https://www.pixton.com/terms-of-use)
 * [Privacy Policy](https://www.pixton.com/privacy-policy)
 
-© 2023 Pixton Comics Inc. All rights reserved.
+© 2024 Pixton Comics Inc. All rights reserved.
 
 ![Close popup](https://www.pixton.com/hubfs/Images/website%20pages/Icons/close_white_24dp.svg)
 
