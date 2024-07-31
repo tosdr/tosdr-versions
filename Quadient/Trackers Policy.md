@@ -64,7 +64,7 @@ Choose your language [Chinese](https://www.quadient.com/cn) [Dutch](https://www.
     
 * [](https://www.quadient.com/en "Home")
     
-* Customer Communications AP Automation AR Automation Mailing Solutions Resources Support About us Support Contact us Languages
+* Customer Communications AP Automation AR Automation Mailing Solutions Resources About us Support Contact us Languages
 * [](https://www.myquadient.com/US/en_US/Shop)
 * [](https://www.myquadient.com/US/en_US/CustomerLogin)
 
