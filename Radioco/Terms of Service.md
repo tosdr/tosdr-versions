@@ -388,7 +388,6 @@ Product
 * [Apps](https://radio.co/apps)
 * [Solutions](https://radio.co/radio-solutions)
 * [Customers](https://radio.co/customers)
-* [Production Services](https://radio.co/production)
 
 Resources
 ---------
@@ -401,6 +400,8 @@ Resources
 * [Courses](https://radio.co/courses)
 * [Equipment](https://radio.co/radio-equipment-packages)
 * [Bandwidth Calculator](https://radio.co/internet-radio-bandwidth-calculator)
+* [Production Services](https://radio.co/production)
+* [Training Services](https://radio.co/training)
 
 Company
 -------
