@@ -2,9 +2,9 @@
 
 X
 
-HUMAN’s Satori Threat Intelligence and Research team has disrupted a cunning mobile advertising fraud campaign dubbed Konfety.
+HUMAN at Black Hat 2024: Step into our Alchemist's Workshop at Booth #2740! Discover our full range of Black Hat activations and inventions.
 
-[Learn More](https://www.humansecurity.com/learn/blog/the-partys-over-humans-satori-threat-intelligence-and-research-team-cleans-up-konfety-mobile-ad-fraud-campaign)
+[Book a meeting](https://humanatblackhat082024.splashthat.com/)
 
 [](https://www.perimeterx.com/)
 
