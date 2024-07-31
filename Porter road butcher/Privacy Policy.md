@@ -4,13 +4,13 @@ Flat Rate Shipping on Orders $125+ [details](#)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% off sirloin filet [save](https://porterroad.com/products/sirloin-filet)
+20% off filet mignon [save](https://porterroad.com/products/filet-mignon)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% off sirloin filet [save](https://porterroad.com/products/sirloin-filet)
+20% off filet mignon [save](https://porterroad.com/products/filet-mignon)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
