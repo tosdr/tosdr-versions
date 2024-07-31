@@ -569,12 +569,6 @@ Your cart is empty
     * [Returns](https://returns.lorex.com/)
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
 
-  
-
-  
-
-Get **FREE** shipping on orders over $100
-
  
 
 Lorex Cookie Notice
