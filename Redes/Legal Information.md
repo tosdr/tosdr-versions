@@ -112,11 +112,11 @@ Desafía San Francisco vuelve a poner el foco en el talento femenino para selecc
 
 Noticia
 
-Educación
+Sociedad Digital
 
-Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial
+Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC
 
-[Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial](http://red.es/es/actualidad/noticias/formacion-talento-becas-inteligencia-artificial- "Ir al contenido de: Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial")
+[Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC](http://red.es/es/actualidad/noticias/ametic-encuentro-santander "Ir al contenido de: Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC")
 
 Noticia
 
