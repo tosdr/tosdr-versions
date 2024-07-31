@@ -178,6 +178,7 @@ Additional Resources
 * [Author Support](https://www.mheducation.com/author-support.html)
 * [International Rights](https://www.mheducation.com/international-rights.html)
 * [Purchase Order](https://www.mheducation.com/purchase-order.html)
+* [Our AI Approach](https://www.mheducation.com/our-ai-approach.html)
 
 Follow McGraw Hill
 
