@@ -8,9 +8,13 @@
 
 [Guides & SDKs](https://docs.rollbar.com/docs)[API Reference](https://docs.rollbar.com/reference)[Log In](https://rollbar.com/login)[Sign Up](https://rollbar.com/signup?ref=docs)[![Rollbar Docs](https://files.readme.io/3a1735d-Rollbar-Logo-Reverse-Safety-White_1.svg)](https://rollbar.com/)
 
+Guides & SDKs
+
 [Log In](https://rollbar.com/login)[Sign Up](https://rollbar.com/signup?ref=docs)
 
-Loading…
+Privacy Policy
+
+Privacy Policy
 
 Search
 
