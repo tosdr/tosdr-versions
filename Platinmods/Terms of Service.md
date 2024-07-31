@@ -118,19 +118,19 @@ If you do not agree with these terms, please do not register or use the Service.
 
 Threads
 
-63,412
+63,674
 
 Messages
 
-2,612,328
+2,618,704
 
 Members
 
-4,255,281
+4,278,393
 
 Latest member
 
-[Sifodinson](https://platinmods.com/members/sifodinson.4576479/)
+[VaatiVidya](https://platinmods.com/members/vaatividya.4603172/)
 
 * [Platinmods.com - Modern Dark](https://platinmods.com/misc/style "Style chooser")
 
