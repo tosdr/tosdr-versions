@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [July 30, 2024 | MBFC’s Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/ "MBFC’s Daily Vetted Fact Checks for 07/30/2024")
+* [July 29, 2024 | (Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments](https://mediabiasfactcheck.com/2024/07/29/media-news-misinformation-floods-internet-amid-rapid-2024-election-developments/ "(Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments")
+* [July 29, 2024 | MBFC’s Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/ "MBFC’s Daily Vetted Fact Checks for 07/29/2024")
+* [July 28, 2024 | MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/28/mbfcs-daily-vetted-fact-checks-for-07-28-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)")
 * [July 27, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th](https://mediabiasfactcheck.com/2024/07/27/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-july-21st-july-27th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th")
-* [July 27, 2024 | MBFC’s Daily Vetted Fact Checks for 07/27/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/27/mbfcs-daily-vetted-fact-checks-for-07-27-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/27/2024 (Weekend Edition)")
-* [July 26, 2024 | MBFC’s Daily Vetted Fact Checks for 07/26/2024](https://mediabiasfactcheck.com/2024/07/26/mbfcs-daily-vetted-fact-checks-for-07-26-2024/ "MBFC’s Daily Vetted Fact Checks for 07/26/2024")
-* [July 25, 2024 | Federal Judge Denies Motion to Dismiss Trump’s Defamation Suit Against ABC News and George Stephanopoulos](https://mediabiasfactcheck.com/2024/07/25/federal-judge-denies-motion-to-dismiss-trumps-defamation-suit-against-abc-news-and-george-stephanopoulos/ "Federal Judge Denies Motion to Dismiss Trump’s Defamation Suit Against ABC News and George Stephanopoulos")
-* [July 25, 2024 | MBFC’s Daily Vetted Fact Checks for 07/25/2024](https://mediabiasfactcheck.com/2024/07/25/mbfcs-daily-vetted-fact-checks-for-07-25-2024/ "MBFC’s Daily Vetted Fact Checks for 07/25/2024")
 
 Search for:  
 
@@ -153,76 +153,76 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [National Women’s Law Center (NWLC) – Bias and Credibility](https://mediabiasfactcheck.com/national-womens-law-center-nwlc-bias/)
+* [Cambridge Independent – Bias and Credibility](https://mediabiasfactcheck.com/cambridge-independent-bias/)
     
-    July 26, 2024
+    July 30, 2024
     
-* [WUKY – NPR – Lexington – Bias and Credibility](https://mediabiasfactcheck.com/wuky-npr-lexington-bias/)
+* [Revolutionary Communists of America (RCA) – Bias and Credibility](https://mediabiasfactcheck.com/revolutionary-communists-of-america-rca-bias-and-credibility/)
     
-    July 26, 2024
+    July 30, 2024
     
-* [Kirkland Reporter – Bias and Credibility](https://mediabiasfactcheck.com/kirkland-reporter-bias/)
+* [Louisville Public Media – NPR – Bias and Credibility](https://mediabiasfactcheck.com/louisville-public-media-npr-bias/)
     
-    July 26, 2024
+    July 30, 2024
     
-* [Frontiers in Freshwater Science – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-freshwater-science-bias/)
+* [Political Science Quarterly (PSQ) – Bias and Credibility](https://mediabiasfactcheck.com/political-science-quarterly-psq-bias-and-credibility/)
     
-    July 26, 2024
+    July 30, 2024
     
-* [Audubon Advocate Journal – Bias and Credibility](https://mediabiasfactcheck.com/audubon-advocate-journal-bias/)
+* [Fluid Mechanics Journal – Bias and Credibility](https://mediabiasfactcheck.com/fluid-mechanics-journal-bias-and-credibility/)
     
-    July 25, 2024
+    July 30, 2024
     
-* [Coatings Journal – Bias and Credibility](https://mediabiasfactcheck.com/coatings-journal-bias-and-credibility/)
+* [Prism – Bias and Credibility](https://mediabiasfactcheck.com/prism-bias-and-credibility/)
     
-    July 25, 2024
+    July 29, 2024
     
-* [Press Watch – Bias and Credibility](https://mediabiasfactcheck.com/press-watch-bias-and-credibility/)
+* [Emerson College Polling – Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
     
-    July 25, 2024
+    July 29, 2024
     
-* [Doncaster Free Press – Bias and Credibility](https://mediabiasfactcheck.com/doncaster-free-press-bias/)
+* [Progressive Policy Institute (PPI) – Bias and Credibility](https://mediabiasfactcheck.com/progressive-policy-institute-ppi-bias-and-credibility/)
     
-    July 25, 2024
+    July 29, 2024
     
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [FStv (freespeech.org) – Bias and Credibility](https://mediabiasfactcheck.com/fstv-freespeech-org/ "View FStv (freespeech.org) – Bias and Credibility") - July 26, 2024
+* [Geek.com – Bias and Credibility](https://mediabiasfactcheck.com/geek-com/ "View Geek.com – Bias and Credibility") - July 30, 2024
     
-* [Frontpage Magazine – Bias and Credibility](https://mediabiasfactcheck.com/frontpage-magazine/ "View Frontpage Magazine – Bias and Credibility") - July 26, 2024
+* [Gears of Biz – Bias and Credibility](https://mediabiasfactcheck.com/gears-of-biz/ "View Gears of Biz – Bias and Credibility") - July 30, 2024
     
-* [Frontiers of Freedom – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-of-freedom/ "View Frontiers of Freedom – Bias and Credibility") - July 26, 2024
+* [GBTimes – Bias and Credibility](https://mediabiasfactcheck.com/gbtimes/ "View GBTimes – Bias and Credibility") - July 30, 2024
     
-* [Frontiers In Psychology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-psychology/ "View Frontiers In Psychology – Bias and Credibility") - July 26, 2024
+* [Gay Star News – Bias and Credibility](https://mediabiasfactcheck.com/gay-star-news/ "View Gay Star News – Bias and Credibility") - July 30, 2024
     
-* [Frontiers Media – Bias and Credibility](https://mediabiasfactcheck.com/frontiers/ "View Frontiers Media – Bias and Credibility") - July 26, 2024
+* [Gawken – Bias and Credibility](https://mediabiasfactcheck.com/gawken/ "View Gawken – Bias and Credibility") - July 30, 2024
     
-* [Front Page Live – Bias and Credibility](https://mediabiasfactcheck.com/front-page-live/ "View Front Page Live – Bias and Credibility") - July 26, 2024
+* [FWD Now – Bias and Credibility](https://mediabiasfactcheck.com/fwd-now/ "View FWD Now – Bias and Credibility") - July 30, 2024
     
-* [From the Trenches World Report – Bias and Credibility](https://mediabiasfactcheck.com/from-the-trenches-world-report/ "View From the Trenches World Report – Bias and Credibility") - July 26, 2024
+* [Futurism – Bias and Credibility](https://mediabiasfactcheck.com/futurism/ "View Futurism – Bias and Credibility") - July 30, 2024
     
-* [Friends of Science – Bias and Credibility](https://mediabiasfactcheck.com/friends-of-science/ "View Friends of Science – Bias and Credibility") - July 26, 2024
+* [Fusion – Bias and Credibility](https://mediabiasfactcheck.com/fusion/ "View Fusion – Bias and Credibility") - July 30, 2024
     
-* [Fresno Bee – Bias and Credibility](https://mediabiasfactcheck.com/fresno-bee/ "View Fresno Bee – Bias and Credibility") - July 26, 2024
+* [Fury News – Bias and Credibility](https://mediabiasfactcheck.com/fury-news/ "View Fury News – Bias and Credibility") - July 30, 2024
     
-* [Fresh News – USA – Bias and Credibility](https://mediabiasfactcheck.com/fresh-news-usa/ "View Fresh News – USA – Bias and Credibility") - July 26, 2024
+* [Full Fact (UK) – Bias and Credibility](https://mediabiasfactcheck.com/full-fact-uk/ "View Full Fact (UK) – Bias and Credibility") - July 30, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 07/26/2024](https://mediabiasfactcheck.com/2024/07/26/mbfcs-daily-vetted-fact-checks-for-07-26-2024/)
+* [MBFC's Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/)
+* [MBFC's Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Daily Telegraph (UK) - Bias and Credibility](https://mediabiasfactcheck.com/daily-telegraph/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 07/27/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/27/mbfcs-daily-vetted-fact-checks-for-07-27-2024-weekend-edition/)
-* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
+* [TheWrap - Bias and Credibility](https://mediabiasfactcheck.com/thewrap/)
 * [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
 
 #### Subscribe via Email
 
