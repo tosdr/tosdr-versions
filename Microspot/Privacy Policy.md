@@ -59,29 +59,13 @@ Recherche
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5905.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/9635.jpg)
 
 Nous vous conseillons volontiers.
 
 Visitez l'une de nos quelques environ 170 succursales.
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0519-CM2-Weekend-DEAL-Windows-KW302.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2MDQ5M3xpbWFnZS9qcGVnfGFHSXhMMmc0TVM4NE5qQjRORGcwWDBreU5GOHdOVEU1WDBOTk1sOVhaV1ZyWlc1a1gwUkZRVXhmVjJsdVpHOTNjMTlMVnpNd01pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURVeE9WOURUVEpmVjJWbGEyVnVaRjlFUlVGTVgxZHBibVJ2ZDNOZlMxY3pNREl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGQ1MjQ2YWUyOWMyMGNhY2M2N2Q4OGRjZGNkOGRhZGMzODE3NjMzY2Y1ZjI1NDE3ZTdmMTI3ZTQ0OTY3MjE4YjI&w=1500&q=75)
-
-30%de rabais sur une sélection d'articles de HP, LENOVO, ACER & ASUS](https://www.microspot.ch/fr/cms/id-weekend-deal)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0503-CM3-Dyson2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0Mjk5NHxpbWFnZS9qcGVnfGFEUmlMMmhrTWk4NE5qQjRORGcwWDBreU5GOHdOVEF6WDBOTk0xOUVlWE52YmpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekExTUROZlEwMHpYMFI1YzI5dU1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXw4ZDRiZWY4MmQ1MWU2MGVmZDc0MmZkZTdkM2M2ZTM5YTk5ZWZjNGIwOGM5NjRkYWY4YjAxOWYyYzY4ZGViNjEy&w=1500&q=75)
-
-20%de rabais sur une sélection de produits DYSON](https://www.microspot.ch/fr/brand/dyson)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0524-CM1-Foto-Weekend-DEAL-KW302.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2MDk4M3xpbWFnZS9qcGVnfGFEVmlMMmd3TlM4NE5qQjRORGcwWDBreU5GOHdOVEkwWDBOTk1WOUdiM1J2WDFkbFpXdGxibVJmUkVWQlRGOUxWek13TWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZNRFV5TkY5RFRURmZSbTkwYjE5WFpXVnJaVzVrWDBSRlFVeGZTMWN6TURJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w0N2Y2ZTI0MTYwNWFlNTliYmJjODY0ODIyMTYzYzc3MTk2MzEyMDhiNmJiM2M2NDdhNzU4NDhhM2YxYjMzMGI3&w=1500&q=75)
-
-15%de rabais sur une sélection de produits photo CANON, FUJIFILM, INSTA360, POLAROID, KODAK](https://www.microspot.ch/fr/cms/actions-photo-vid%C3%A9o)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0523-CM1-Samsung-KW302.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0OTExMXxpbWFnZS9qcGVnfGFEazFMMmd6WXk4NE5qQjRORGcwWDBreU5GOHdOVEl6WDBOTk1WOVRZVzF6ZFc1blgwdFhNekF5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOHdOVEl6WDBOTk1WOVRZVzF6ZFc1blgwdFhNekF5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8ZjNmNjYzZWU5MWU1ZDUwMzY3OWMxYWI0YjM4M2I4NmEyMmVlYWU3MmQzMTM1ODY0OTIwMTYwZWVhODVkMzk4OA&w=1500&q=75)
-
-12%de rabais sur SAMSUNG Galaxy Z Flip6 & Fold6](https://www.microspot.ch/fr/cms/samsung-smartphone)
 
 [![APPLE](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0230-CM2-MacBook-Pro-KW13-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3OTQ0OXxpbWFnZS9qcGVnfGFHWmlMMmd3TlM4NE5qQjRORGcwWDBreU5GOHdNak13WDBOTk1sOU5ZV05DYjI5clgxQnliMTlMVnpFelh6SXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBeU16QmZRMDB5WDAxaFkwSnZiMnRmVUhKdlgwdFhNVE5mTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGI1ZmVmMzkxODgxMTJlM2ExZTBhNjRhMTg1MjQ0ZGVhNTUxODkzMTdmZWEwY2RjZjgxNWNkM2VkNTAzZTA4ZDQ&w=1500&q=75)
 
@@ -90,6 +74,22 @@ Visitez l'une de nos quelques environ 170 succursales.
 [![TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0500-CM1-Heimelektronik-TV-Promo2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTA4MTV8aW1hZ2UvanBlZ3xhREpsTDJoa1pDODROakI0TkRnMFgwa3lORjh3TlRBd1gwTk5NVjlJWldsdFpXeGxhM1J5YjI1cGF5QlVWaUJRY205dGJ6SXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBMU1EQmZRMDB4WDBobGFXMWxiR1ZyZEhKdmJtbHJJRlJXSUZCeWIyMXZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8MTlhN2M5NDQ0ZTcwNjk2MmNhYmIwOWQxM2U4NzM2Y2ZiYmE5MGNkNDdkMzMyNGQ4MjgwMjc3NTJmMzRhYmViZA&w=1500&q=75)
 
 ACTIONsur une sélection de téléviseurs et de barres de son](https://www.microspot.ch/fr/cms/actions-tv)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0504-CM3-Beauty-Zahnpflege-Haircare-Klima-KW302.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NDAzOHxpbWFnZS9qcGVnfGFEazNMMmd6Wmk4NE5qQjRORGcwWDBreU5GOHdOVEEwWDBOTk0xOUNaV0YxZEhsZldtRm9ibkJtYkdWblpWOUlZV2x5WTJGeVpWOUxiR2x0WVY5TFZ6TXdNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZk1EVXdORjlEVFROZlFtVmhkWFI1WDFwaGFHNXdabXhsWjJWZlNHRnBjbU5oY21WZlMyeHBiV0ZmUzFjek1ESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MTBmMmFiMTdiYmQyMjljMmQ5NjM1ZDFiZmQ5NjU1ZWQ4YmUyM2QwZWQ3MmUzYWE2ZTk5Yjg2OGE4MzI3OTY0Nw&w=1500&q=75)
+
+ACTIONsur le climat intérieur](https://www.microspot.ch/fr/cms/actions-air-ambiant)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0463-CM1-Samsung-S24-WoKn2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0OTI5MXxpbWFnZS9qcGVnfGFETTNMMmczTmk4NE5qQjRORGcwWDBreU5GOHdORFl6WDBOTk1WOVRZVzF6ZFc1blgxTXlORjlYYjB0dU1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURRMk0xOURUVEZmVTJGdGMzVnVaMTlUTWpSZlYyOUxiakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGZkMTk0OGQ3NTUzNzEzMGI4NzRhNmYyNmQzOTI5MmI4YTliZjA5MjY5NjhmZjFhMWNjZDI3YjQ4NTkxMDE1Zjc&w=1500&q=75)
+
+699.–au lieu de 779.–SAMSUNG Galaxy S24 256 GB](https://www.microspot.ch/fr/product/samsung-galaxy-s24-256-gb-amber-yellow-6-2-50-mp-5g-0014070421)
+
+[![BACK TO SCHOOL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0440-CM2-Back-to-School.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDg0NjJ8aW1hZ2UvanBlZ3xhR014TDJobU1pODROakI0TkRnMFgwa3lORjh3TkRRd1gwTk5NbDlDWVdOclgzUnZYMU5qYUc5dmJDNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmTURRME1GOURUVEpmUW1GamExOTBiMTlUWTJodmIyd3VhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NTIxMjA5OTJmZTc5NTkxMTc2NjgxODk5NjdjYjQzOWRlMGU3MGNmNDA1YWI2ZDZjZmE2NGVlZWM2ZGFmMDYzMA&w=1500&q=75)
+
+ACTUELTout pour l'école et l'université](https://www.microspot.ch/fr/cms/back-to-school)
+
+[![Semaine de l'électroniquq domestique](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-WdHe-KeyVisual2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1MzM2N3xpbWFnZS9qcGVnfGFHVmtMMmhqT1M4NE5qQjRORGcwWDBreU5GOVhaRWhsWDB0bGVWWnBjM1ZoYkRJeU1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmVjJSSVpWOUxaWGxXYVhOMVlXd3lNakl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDg0MDNjYWQ5M2RiNTA4NjhjODcwNDg3MjcyMGI1NGFiYWM0NzQ2YTA0MmY2YzdlYmVmMGFkMWUxOTU5ODI3OGE&w=1500&q=75)
+
+Toutes les offres](https://www.microspot.ch/fr/cms/jour-de-l-electronique-domestique-suisse)
 
 Autres actions ici
 
@@ -124,20 +124,18 @@ Gadgets](https://www.microspot.ch/fr/cms/gadget)
 
 [![](/medias/1180x350-I24-0529-CM2-Sommerseite-Sommerspass-FR.jpg?context=bWFzdGVyfGNtc3wxMzEyNDR8aW1hZ2UvanBlZ3xhRFl3TDJnNVlpOHhNVGd3ZURNMU1GOUpNalJmTURVeU9WOURUVEpmVTI5dGJXVnljMlZwZEdWZlUyOXRiV1Z5YzNCaGMzTmZSbEl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpFeE9EQjRNelV3WDBreU5GOHdOVEk1WDBOTk1sOVRiMjF0WlhKelpXbDBaVjlUYjIxdFpYSnpjR0Z6YzE5R1VpNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXwzZDI5ZjY3NTFiYWRjMDAzYWFlMjYwZTdiNjcxYTNjZmNlYWIzNDNmNDc5ZTMxYTRmNmI4YmFmZTNjN2ZjYzZi)](https://www.microspot.ch/fr/cms/ete-en-suisse)
 
-[![](/medias/1180x350-I24-0440-CM2-Back-to-School5.jpg?context=bWFzdGVyfGNtc3wxMTM5Njl8aW1hZ2UvanBlZ3xhREV4TDJoaE5TOHhNVGd3ZURNMU1GOUpNalJmTURRME1GOURUVEpmUW1GamExOTBiMTlUWTJodmIydzFMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNRjlKTWpSZk1EUTBNRjlEVFRKZlFtRmphMTkwYjE5VFkyaHZiMncxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8ZGM0NmE0ZmNmM2IzOGY1Njc4NzMyOWVkNjA0ZDc0ZDYyOWFhYWIyNjcwMWFjNjE3NzVkZjViZWZiODgyM2M5NA)](https://www.microspot.ch/fr/cms/back-to-school)
+[![](/medias/1180x350-I24-0486-CM3-Supercash-KW30-312.jpg?context=bWFzdGVyfGNtc3wxMzIyMDF8aW1hZ2UvanBlZ3xhR0ZrTDJobU1pOHhNVGd3ZURNMU1GOUpNalJmTURRNE5sOURUVE5mVTNWd1pYSmpZWE5vWDB0WE16QXRNekV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFE0Tmw5RFRUTmZVM1Z3WlhKallYTm9YMHRYTXpBdE16RXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw5ZDU0YTk5ZmU2YjMzMWFhYzM1N2M3YmE5ODhjOTg1ODIxZjI5MDViODcwOGVkNWVlNGJmOTY3NmEwNDU3NmFl)](https://www.microspot.ch/fr/cms/supercard)
 
 [![](/medias/1180x350-I24-0470-CM1-Release-Samsung-Watch2.jpg?context=bWFzdGVyfGNtc3wxNDQ2MDN8aW1hZ2UvanBlZ3xhRGt4TDJoak15OHhNVGd3ZURNMU1GOUpNalJmTURRM01GOURUVEZmVW1Wc1pXRnpaVjlUWVcxemRXNW5YMWRoZEdOb01uWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNRjlKTWpSZk1EUTNNRjlEVFRGZlVtVnNaV0Z6WlY5VFlXMXpkVzVuWDFkaGRHTm9Nbll5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MjQwMjlmYjA0MTlmNzI0ZmM4NjkzYzg5MWJmMTlmNTIwNTRmMWU2Nzc1MTkwYTdkNDlhOTQ2NzE0NDYzYjQ4ZQ)![](/medias/828x350-I24-0470-CM1-Release-Samsung-Watch2.jpg?context=bWFzdGVyfGNtc3wxMjc2NTN8aW1hZ2UvanBlZ3xhRGxrTDJnellpODRNamg0TXpVd1gwa3lORjh3TkRjd1gwTk5NVjlTWld4bFlYTmxYMU5oYlhOMWJtZGZWMkYwWTJneWRqSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemd5T0hnek5UQmZTVEkwWHpBME56QmZRMDB4WDFKbGJHVmhjMlZmVTJGdGMzVnVaMTlYWVhSamFESjJNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NzgxODFkYWRmOGZiYmI1NWI2Y2NmNzI3MGYzZmI2ZTQ0YWQ4MWZiNTFmNTEwMDVjZmE5NDE3MzI4ZDdhYmExMw)](https://www.microspot.ch/fr/cms/samsung-galaxy-watch)
 
-[![](/medias/1180x350-I24-0486-CM3-Supercash-KW30-312.jpg?context=bWFzdGVyfGNtc3wxMzIyMDF8aW1hZ2UvanBlZ3xhR0ZrTDJobU1pOHhNVGd3ZURNMU1GOUpNalJmTURRNE5sOURUVE5mVTNWd1pYSmpZWE5vWDB0WE16QXRNekV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFE0Tmw5RFRUTmZVM1Z3WlhKallYTm9YMHRYTXpBdE16RXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw5ZDU0YTk5ZmU2YjMzMWFhYzM1N2M3YmE5ODhjOTg1ODIxZjI5MDViODcwOGVkNWVlNGJmOTY3NmEwNDU3NmFl)](https://www.microspot.ch/fr/cms/supercard)
+![](/medias/915x515-I24-SoMe-Blog-Sony-XPERIA3.jpg?context=bWFzdGVyfGNtc3wzMTYzMnxpbWFnZS9qcGVnfGFETmlMMmcxWmk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5WVVFVlNTVUV6TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5WVVFVlNTVUV6TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MGIwNjMwM2JiNTZlZmIyOGIyOWZjZTY4MjAwODczZTU5MjA2YmE3OWNiNzQ5ZmIxYzkxMDNjOWI2ZTUxMjI3MA)
 
-![](/medias/915x515-I24-SoMe-Blog-GoPro-MAX.jpg?context=bWFzdGVyfGNtc3w5MTk5N3xpbWFnZS9qcGVnfGFHVTBMMmd3Tmk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZSMjlRY205ZlRVRllMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg1TVRWNE5URTFYMGt5TkY5VGIwMWxYMEpzYjJkZlIyOVFjbTlmVFVGWUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGM1ZmY1ODZiMDI5ZTBjZThhYjMwZjFjYWFlMzExMWFmOGZjNjYxYzBjYmM4NzY2ZWZiZTIwYWQ5MDEwYTcwZGY)
+[Test: SONY Xperia 10 VI](https://www.microspot.ch/fr/cms/blog/conseils/sony-xperia-10-vi)
+------------------------------------------------------------------------------------------
 
-[Test: GoPro Max](https://www.microspot.ch/fr/cms/blog/conseils/gopro-max)
---------------------------------------------------------------------------
+Un smartphone très attrayant avec un accu puissant pour ceux qui cherchent une expérience smartphone équilibrée. C'est le nouveau Sony Xperia 10VI. Je l'ai testé pour toi.
 
-Avec la GoPro MAX, le fabricant de caméras d'action lance sa deuxième caméra à 360 degrés sur le marché. Différentes options de stabilisation d'image sont disponibles, qui devraient rendre l'image super fluide. Nous avons testé la caméra pour toi. Pour savoir si GoPro répond à nos attentes, regarde la vidéo.
-
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/gopro-max)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/sony-xperia-10-vi)
 
 Nos opérateurs
 --------------
@@ -185,13 +183,13 @@ Achetez comme vous aimez
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
-[Commandé aujourd'hui avant 20h
-
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Retrait gratuit
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Commandé aujourd'hui avant 20h
+
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
