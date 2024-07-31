@@ -52,7 +52,7 @@
         Explore the platform powering Experience Management
         
         * [Free Account](https://www.qualtrics.com/free-account/?utm_lp=nav-sticky-banner)
-        * [Watch Demo](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
+        * [Product Demos](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
 * SOLUTIONS
     * back
     * [Teams](https://www.qualtrics.com/team/)
@@ -74,7 +74,7 @@
         * Net Promoter Score
         * Voice of Customer
     * * [Free Account](https://www.qualtrics.com/free-account/?utm_lp=nav-sticky-banner)
-        * [Watch Demo](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
+        * [Product Demos](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
 * RESOURCES
     * back
     * Customer
@@ -105,23 +105,24 @@
             The annual gathering of the experience leaders at the world’s iconic brands building breakthrough business results, live in Salt Lake City.
             
     * * [Free Account](https://www.qualtrics.com/free-account/?utm_lp=nav-sticky-banner)
-        * [Watch Demo](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
+        * [Product Demos](https://www.qualtrics.com/watch-demo/?utm_lp=nav-sticky-banner)
 * [PRICING](https://www.qualtrics.com/pricing/)
 *  ![language](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/09/global.svg) LANGUAGE
     * back
     * [English/US](https://www.qualtrics.com/)
     * [Deutsch](https://www.qualtrics.com/de/)
-    * [English/AU & NZ](https://www.qualtrics.com/au/)
-    * [English/UK](https://www.qualtrics.com/uk/)
+    * [English/AU & NZ](https://www.qualtrics.com/en-au/)
+    * [English/UK](https://www.qualtrics.com/en-gb/)
     * [Français](https://www.qualtrics.com/fr/)
-    * [Español/Europa](https://www.qualtrics.com/es/)
-    * [Español/América Latina](https://www.qualtrics.com/es-la/)
-    * [繁體中文](https://www.qualtrics.com/hk/)
+    * [Español/Europa](https://www.qualtrics.com/es-es/)
+    * [Español/América Latina](https://www.qualtrics.com/es/)
+    * [繁體中文](https://www.qualtrics.com/zh-hk/)
     * [Italiano](https://www.qualtrics.com/it/)
-    * [한국어](https://www.qualtrics.com/kr/)
-    * [日本語](https://www.qualtrics.com/jp/)
+    * [한국어](https://www.qualtrics.com/ko/)
+    * [日本語](https://www.qualtrics.com/ja/)
     * [Nederlands](https://www.qualtrics.com/nl/)
     * [Português Brasileiro](https://www.qualtrics.com/pt-br/)
+    * [ไทย](https://www.qualtrics.com/th/)
 * [LOGIN](https://www.qualtrics.com/login/)
 * [SUPPORT](https://www.qualtrics.com/support/)
 * REQUEST DEMO
@@ -323,20 +324,24 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 
 ### Popular Use Cases
 
-* [Survey Software](https://www.qualtrics.com/core-xm/survey-software/)
+* [Survey Software](https://www.qualtrics.com/strategy/research/survey-software/)
 * [Customer Experience Management](https://www.qualtrics.com/customer-experience/)
 * [Employee Experience Management](https://www.qualtrics.com/employee-experience/)
+* [Employee Engagement](https://www.qualtrics.com/people/engage/employee-engagement/)
 * [Exit Interviews](https://www.qualtrics.com/employee-experience/exit-interviews/)
+* [Digital Experience Analytics](https://www.qualtrics.com/frontline/care/customer-analytics/)
+* [Digital Experience Analytics](https://www.qualtrics.com/frontline/digital/analytics/)
 * [Brand Tracking](https://www.qualtrics.com/strategy/brand-tracker-software/)
+* [360 Feedback](https://www.qualtrics.com/people/360-degree-feedback/)
 * [Pricing Research](https://www.qualtrics.com/product-experience/pricing-research-software/)
+
+* [Website & App Feedback](https://www.qualtrics.com/frontline/digital/website-app-feedback/)
 * [NPS Software](https://www.qualtrics.com/customer-experience/nps-software/)
 * [Customer Surveys](https://www.qualtrics.com/customer-experience/surveys/)
-
-* [Text Analysis](https://www.qualtrics.com/iq/text-iq/)
 * [Market Research](https://www.qualtrics.com/market-research/)
 * [Voice of Customer](https://www.qualtrics.com/customer-experience/voice-of-customer/)
-* [Conjoint Analysis](https://www.qualtrics.com/design-xm/conjoint-analysis/)
-* [Employee Tech Experience](https://www.qualtrics.com/employee-experience/it-technology/)
+* [Pulse Surveys](https://www.qualtrics.com/people/engage/pulse-surveys/)
+* [Conjoint Analysis](https://www.qualtrics.com/strategy/conjoint-analysis/)
 * [Product Naming](https://www.qualtrics.com/product-experience/product-naming-tool/)
 * [Diversity, Equity & Inclusion](https://www.qualtrics.com/employee-experience/diversity-inclusion/)
 * [Well-being at Work](https://www.qualtrics.com/people/engage/well-being-at-work/)
