@@ -2,7 +2,6 @@
 
 Language English   Deutsch Français Spanish  Italiano 
 
-* [Live Chat](#)
 * [Knowledge Base](https://lowhosting.com/clientarea/index.php?rp=/knowledgebase)
 * [Looking Glass](https://lg.lowhosting.com/)
 * [Service Status](https://t.me/s/Lowhosting)
