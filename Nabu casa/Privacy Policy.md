@@ -6,7 +6,7 @@
 * [Pricing](https://www.nabucasa.com/pricing/)
 * [FAQ](https://www.nabucasa.com/faq/)
 * [Support](https://www.nabucasa.com/support/)
-* [Jobs](https://nabucasa.breezy.hr//)
+* [Jobs](https://jobs.ashbyhq.com/nabucasa/)
 
 * [Start Trial](https://account.nabucasa.com/signup)
 * [Login](https://account.nabucasa.com/)
