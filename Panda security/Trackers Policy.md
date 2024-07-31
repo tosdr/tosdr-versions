@@ -11,6 +11,12 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
+![image](/rfilescms/Teaser-resources/pandasecurity-teaser-uk-big.webp)
+
+Don't pay a pound more! Buy today and we'll keep the price the same when it's time to renew. Guaranteed!
+
+[**Buy now**](https://www.pandasecurity.com/security-promotion/?reg=GB&campaign=dome2305&coupon=50OFFMULTIP&track=194477)
+
 * Protection
 * [Panda Dome](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
