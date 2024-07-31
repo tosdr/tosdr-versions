@@ -35,6 +35,8 @@
 
 [](https://world.openfoodfacts.org/cgi/search.pl "Advanced search")
 
+[](https://connect.openfoodfacts.org/event/open-food-facts-days-2024-22/register)
+
 Help us make food transparency the norm!
 
 As a non-profit organization, we depend on your donations to continue informing consumers around the world about what they eat.
