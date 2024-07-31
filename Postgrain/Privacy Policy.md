@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Editar mensagens no Instagram - A imagem que ilustra o tema tem uma pessoa, branca, sentada em frente uma mesa de madeira segurando um celular e simulando estar mexendo nele. De fundo, sobre a mesa, tem uma caneta, xícara de café e uns post its.](https://postgrain.com/wp-content/uploads/2024/07/CAPA-BLOG-ZAPMIZER-2-580x290.png)](https://postgrain.com/?post_type=post&p=12362)
+[![A imagem tem](https://postgrain.com/wp-content/uploads/2024/07/THUMB-BLOG-Criatividade-em-tempos-de-crise-como-adaptar-seu-conteudo-no-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12366)
 
-[Editar mensagens no Instagram: Tutorial completo!](https://postgrain.com/?post_type=post&p=12362)
+[Criatividade em tempos de crise: como adaptar seu conteúdo no Instagram](https://postgrain.com/?post_type=post&p=12366)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12362)
+[Leia mais](https://postgrain.com/?post_type=post&p=12366)
 
 Ilustração de um dos personagens do Postgrain
 
