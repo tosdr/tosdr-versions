@@ -264,12 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Philadelphia Mayor’s Back to Work Plan Isn’t Going So Well](https://www.phillymag.com/news/2024/07/23/philadelphia-return-to-office-cherelle-parker/)
+1. ### [Why Crime in Philadelphia Is Plummeting](https://www.phillymag.com/news/2024/07/29/crime-in-philadelphia-plummeting/)
     
-2. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
+2. ### [Howard Eskin Is Truly Sorry, Everybody](https://www.phillymag.com/news/2024/07/29/howard-eskin-apology-woman-kissed/)
     
-3. ### [Meet the Duo Behind Milk Jawn’s Expanding Ice Cream Empire](https://www.phillymag.com/foobooz/2024/07/25/milk-jawn-behind-the-line/)
+3. ### [The Journey to 1001 at Broad and Washington Is Finished (Sort Of)](https://www.phillymag.com/property/2024/07/29/1001-south-broad-apartment-building/)
     
-4. ### [Where to Celebrate the Paris Olympics Around Philly](https://www.phillymag.com/things-to-do/2024/07/25/summer-olympics-specials/)
+4. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-5. ### [The Best French Restaurants in Philadelphia](https://www.phillymag.com/foobooz/french-restaurants-food-philadelphia/)
+5. ### [How I Discovered Philly’s Most Successful Cookbook Author Is AI](https://www.phillymag.com/foobooz/2024/07/27/ai-cookbook-author/)
