@@ -1,5 +1,14 @@
 [](https://www.powerthesaurus.org/)
 
+* Log in
+
+* Feedback
+* [Help Center](https://www.powerthesaurus.org/_help_center)
+
+Dark mode
+
+[Examples](https://www.powerthesaurus.org/100_examples_of_synonyms)[PRO membership](https://www.powerthesaurus.org/_pro?promo=true&source=site&origin=footer)[About](https://www.powerthesaurus.org/_about)[Terms](https://www.powerthesaurus.org/_terms_conditions)[Privacy & Cookies](https://www.powerthesaurus.org/_privacy_statement)
+
 Power Thesaurus Terms and Conditions
 ====================================
 
