@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Lavrov blasts Kiev’s mixed messages on talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+MEP wants ‘Ukrainian neo-Nazis’ visit to Prague canceled | Russia-Ukraine conflict
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,7 +64,9 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Lavrov blasts Kiev’s mixed messages on talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+MEP wants ‘Ukrainian neo-Nazis’ visit to Prague canceled | Russia-Ukraine conflict
+
+[Hamas chief assassinated in Iran: Live Updates](https://www.rt.com/news/601864-hamas-official-iran-gaza/)
 
 [Home](https://www.rt.com/)
 
