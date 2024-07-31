@@ -1,6 +1,6 @@
 [![](https://north680.com/wp-content/themes/dk-community-theme/dist/images/community-icon-cross_921e89db.svg)Close](#)
 
-Save **$1,000** when you move in by 7/31/2024. [LEARN MORE](https://north680.com/promotion/)
+Save **$1,000** on 2-Bedrooms when you move in by 8/30/2024. [LEARN MORE](https://north680.com/promotion/)
 
 [Skip to content](#banner)
 
@@ -282,6 +282,7 @@ Floor Plans
 
 * [Select Multiple](#)
     * [ ]  A2 - One Bedroom
+    * [ ]  A2 Plus - One Bedroom
     * [ ]  A3 - One Bedroom
     * [ ]  A4 - One Bedroom + Den
     * [ ]  B1 Plus - Two Bedroom
