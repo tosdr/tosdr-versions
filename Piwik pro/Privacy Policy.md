@@ -94,7 +94,7 @@ Language version
 Piwik PRO privacy policy
 ========================
 
-Privacy policy last updated on: 11.03.2024
+Privacy policy last updated on: 30.07.2024
 
 Your privacy is very important to us – after all “Take control of your data” is our credo. Our products were built on a foundation of security and privacy. They are compliant with General Data Protection Regulation (GDPR) requirements and other legal provisions for data protection. Below you’ll find all necessary information to make educated decisions about how you want us to process your personal data.
 
@@ -264,6 +264,10 @@ If your team would like to contact our support, keep in mind that Freshdesk is a
 If you request a database export, it will be placed on a secure server on Amazon EU in Frankfurt, Germany.
 
 In case you purchase our services via our website (without contacting sales) please note that we’re using Paddle, our Merchant of Record, to process your order. Here’s their [privacy policy](https://www.paddle.com/legal/privacy).
+
+### **Looker Studio integration**
+
+In accordance with the [Google API Service: User Data Policy](https://developers.google.com/terms/api-services-user-data-policy/), we want to assure our users that our application does not access, use, store, or share any Google user data when it comes to Looker Studio. Our commitment to privacy means that no Google user data is utilized in any capacity within our application.
 
 **Recruitment**
 ---------------
