@@ -246,7 +246,7 @@ This is the main privacy policy for the Media24 Group and applies to any of our 
 * slash Company
 * [slash Privacy Policy](https://www.media24.com/privacy-policy/)
 
-This is the main privacy policy for the Media24 Group (Media24) and applies to any of our products or services which you use on any of our Platforms, including our websites, mobile sites, mobile applications, emails or any other technology or service you use to access our products and services. “We”, “us” or “our” in this privacy policy refers to Media24 Proprietary Limited and its subsidiaries. The terms “personal information”, “special personal information” and “process/ing” when used in this document shall bear the meanings as set out in the Protection of Personal Information Act 4 of 2013.
+This is  the main privacy policy for the Media24 Group (Media24) and applies to any of our products or services which you use on any of our Platforms, including our websites, mobile sites, mobile applications, emails or any other technology or service you use to access our products and services. “We”, “us” or “our” in this privacy policy refers to Media24 Proprietary Limited and its subsidiaries. The terms “personal information”, “special personal information” and “process/ing” when used in this document shall bear the meanings as set out in the Protection of Personal Information Act 4 of 2013.
 
 It is important that you read this privacy policy together with other terms and conditions, privacy notices or policies we may provide on specific occasions when we collect or use your personal information. This privacy policy supplements these notices and policies, and is not intended to override them.
 
