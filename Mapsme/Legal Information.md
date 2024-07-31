@@ -42,7 +42,7 @@ The list below sets out what is covered in this Privacy Notice and you can click
 
 #### 1\. BACKGROUND
 
-1.1 Tortu LLC (a company registered in Russian Federation with registered number 1183926020585 and its registered address at 9 Polkovnika Efremova street, flat 32, 33, Kaliningrad, Russian Federation (“Maps.me”, “we” “us” and “our”) collect and use certain Personal Data in relation to you.
+1.1 Maps.me (Cyprus) Limited (a company registered in Cyprus with registered number HE 397606 and its registered address at 10-12 Florinis Street, STADYL Building, 4th Floor, Nicosia, 1065 Cyprus), and other companies in the Maps.me group (“Maps.me”, “we” “us” and “our”) collect and use certain Personal Data in relation to you.
 
 1.2 Maps.me is responsible for ensuring that it uses that Personal Data in compliance with data protection laws, including (but not limited to) the General Data Protection Regulation (EU) 2016/679 (“GDPR”) and any other national, implementing or supplementing Data Protection Legislation.
 
@@ -249,8 +249,8 @@ You can also find general information and opt-out resources at [youronlinechoice
 
 |     |     |
 | --- | --- |
-| Address: | 9 Polkovnika Efremova street, flat 32, 33, Kaliningrad, Russian Federation |
-| Email Address: | feedback@maps.me |
+| Address: | 10-12 Florinis Street, STADYL Building, 4th Floor, Nicosia, 1065 Cyprus |
+| Email Address: | info@maps.me |
 
 14\. QUESTIONS AND CONCERNS
 ---------------------------
@@ -259,8 +259,8 @@ You can also find general information and opt-out resources at [youronlinechoice
 
 |     |     |
 | --- | --- |
-| Address: | 9 Polkovnika Efremova street, flat 32, 33, Kaliningrad, Russian Federation |
-| Email Address: | feedback@maps.me |
+| Address: | 10-12 Florinis Street, STADYL Building, 4th Floor, Nicosia, 1065 Cyprus |
+| Email Address: | info@maps.me |
 
 14.2 We are usually able to resolve privacy questions or concerns promptly and effectively. If you are not satisfied with the response you receive from our data protection officer, you may escalate concerns to the applicable privacy regulator in your jurisdiction. Upon request, Maps.me’s data protection officer will provide you with the contact information for that regulator.
 
