@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![PMC Time Machine](https://www.planetminecraft.com/images/special/timemachine.png)](https://www.planetminecraft.com/timemachine/ "Planet Minecraft Time Machine")
+[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
 
 Community
 
@@ -232,7 +232,7 @@ Welcome
 *  Dark mode
     
 
-//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=f24vEAXb6rrrQULfXnaULJ7CXY8EBfqvx9BlXwZZL8maW6Rm,//www.planetminecraft.com/css/editor.css?v=ZSZqN0N9JyLU\_-AnnU1uE-6VgZVjB2C03URaY2yCjIHqsqNm
+//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=K3-wLJccfUi-Bv1CmrL7I7FUUwmnvDCEsPkYF-BaDxXsQapm,//www.planetminecraft.com/css/editor.css?v=ZSZqN0N9JyLU\_-AnnU1uE-6VgZVjB2C03URaY2yCjIHqsqNm
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-abZiFQSKf0Mh-.gif)
 
@@ -246,6 +246,11 @@ Join us!
 [Sign in](https://www.planetminecraft.com/account/sign_in/ "Sign in with existing account") [Register](https://www.planetminecraft.com/account/create/ "Create new account")
 
   
+
+OR
+
+[Continue with Facebook](https://www.planetminecraft.com/account/sign_in/social/facebook/ "Continue with Facebook") [Continue with Google](https://www.planetminecraft.com/account/sign_in/social/google/ "Continue with Google") [Continue with Discord](https://www.planetminecraft.com/account/sign_in/social/discord/ "Continue with Discord")
+
   
 
 By signing in, you agree to Planet Minecraft's [Terms of Use](https://www.planetminecraft.com/terms_of_use "Terms of Use") and [Privacy Policy](https://www.planetminecraft.com/privacy_policy/ "Privacy Policy").
