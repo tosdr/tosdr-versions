@@ -1168,7 +1168,15 @@ Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir v
 
 Je finance mon permis
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)](https://www.ornikar.com/financer-permis-cpf)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)](https://www.ornikar.com/financer-permis-cpf)[![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a7a96b6ea34b6c01fca56b_Badge%20Acheel%20rouge.svg)
+
+ASSURANCE HABITATION
+
+Une assurance transparente et personnalisable, dès 2,17€/mois seulement !
+
+Je découvre
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)
 
 ### A lire également
 
