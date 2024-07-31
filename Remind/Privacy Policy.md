@@ -535,14 +535,14 @@ Effective date July 25, 2023
 
 #### Who it’s for
 
-[Teachers](https://www.remind.com/teachers)[Administrators](https://www.remind.com/administrators)[Higher Education](https://www.remind.com/higher-education)[Students](https://www.remind.com/families)
+[Teachers](https://www.remind.com/teachers)[Administrators](https://www.remind.com/administrators)[Families](https://www.remind.com/families)
 
 #### Resources
 
-[Resources Library](https://www.remind.com/resources)[Help Center](https://help.remind.com/hc/en-us)[Remind Blog](https://www.remind.com/blog)[Contact support](https://help.remind.com/hc/en-us/requests/new)[Contact sales](https://www.remind.com/admin-contact)[System status](https://status.remind.com/)
+[Resources library](https://www.remind.com/resources)[Help center](https://help.remind.com/hc/en-us)[Blog](https://www.remind.com/blog)[Contact support](https://help.remind.com/hc/en-us/requests/new)[Contact sales](https://www.remind.com/admin-contact)[System status](https://status.remind.com/)
 
 #### Company
 
-[About us](https://www.remind.com/about)[Careers](https://www.remind.com/careers)[Press](https://www.remind.com/press)[Partners](https://www.remind.com/partners)[Terms and policies](https://www.remind.com/terms-of-service)[Trust and safety](https://www.remind.com/trust-safety)
+[About us](https://www.remind.com/about)[Careers](https://www.parentsquare.com/careers/)[Press](https://www.remind.com/press)[Partners](https://www.remind.com/partners)[Terms and policies](https://www.remind.com/terms-of-service)[Trust and safety](https://www.remind.com/trust-safety)
 
 ![Certified By i Keep Safe](https://cdn.prod.website-files.com/621ca7b5009267942f98301e/621cf73d0c4774104d285833_Certified%20By%20Ikeep%20Safe.png)
