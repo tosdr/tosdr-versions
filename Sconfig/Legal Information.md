@@ -211,7 +211,6 @@ Thanks for reading and may the server protect you.
 Pages
 -----
 
-* [Art and the minds eye.](https://www.s-config.com/art/)
 * [Audio Testing.](https://www.s-config.com/audio-testing/)
 * [Black Mirrors](https://www.s-config.com/black-mirrors/)
 * [Cellar Door. A.K.A. Blogroll Linkage.](https://www.s-config.com/cellar-door/)
@@ -222,15 +221,8 @@ Pages
 * [Gifts/Commissions to the blogger](https://www.s-config.com/gift/)
 * [Music , Audio, Sounds!](https://www.s-config.com/music/)
 * [Privacy Notice](https://www.s-config.com/privacy-notice/)
-* [Showing your support.](https://www.s-config.com/support/)
-* [Texts, Blogs, and Ranting.](https://www.s-config.com/text/)
 * [The Social Blades.](https://www.s-config.com/social/)
 * [Webrings](https://www.s-config.com/webrings/)
-
-Search this entire site:
-------------------------
-
-Search for: 
 
 Recent Posts
 ------------
@@ -242,24 +234,34 @@ Recent Posts
 * [We are mortal.](https://www.s-config.com/we-are-mortal/) April 2, 2024
 * [State of the blog – 2024.](https://www.s-config.com/state-of-the-blog-2024/) January 28, 2024
 * [Website – Changelog 12/17/2023](https://www.s-config.com/website-changelog-12-17-2023/) December 17, 2023
-* [Dear SEO](https://www.s-config.com/dear-seo/) December 16, 2023
-* [Website – Changelog 11/06/2023](https://www.s-config.com/website-changelog-11-06-2023/) November 6, 2023
-* [Oh no, another YouTube article!](https://www.s-config.com/oh-no-another-youtube-article/) November 3, 2023
 
-The only advertisement banner you will see.
--------------------------------------------
+Search this entire site:
+------------------------
 
-[![Want to help? Click here!](/core/wp-content/uploads/2017/09/Support-Button.png)](https://www.s-config.com/support/)
+Search for: 
+
+S-config is a member of the Fur Ring.
+-------------------------------------
+
+[<Previous Site>](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F)  
+[<Random Site>](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F)  
+[<Next Site>](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
 
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Zero delay USB Joystick Encoder.](https://www.s-config.com/zero-delay-usb-joystick-encoder/comment-page-5/#comment-87026)
+* Jason on [Zero delay USB Joystick Encoder.](https://www.s-config.com/zero-delay-usb-joystick-encoder/comment-page-5/#comment-87011)
 * D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86831)
 * [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86825)
 * D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86820)
 * [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86232)
 * sivre on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86189)
 * XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-86133)
-* [S-Config](https://www.s-config.com/) on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-85713)
+
+The only advertisement banner you will see.
+-------------------------------------------
+
+[![Want to help? Click here!](/core/wp-content/uploads/2017/09/Support-Button.png)](https://www.s-config.com/support/)
 
 2024 - https://www.s-config.com TOR-V3: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion - I2P: atlkfvuwwpgvnw24dkwyyxf5psrueozxb3i6zgebymjuquuquvqq.b32.i2p
