@@ -71,10 +71,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Trump, sans ear bandage for first time since assassination attempt, slams Harris as a 'bum' in Florida speech](https://nypost.com/2024/07/27/us-news/trump-without-ear-bandage-calls-kamala-harris-a-bum-during-florida-turning-point-action-speech/)
-
 Privacy Notice Highlights
 =========================
 
