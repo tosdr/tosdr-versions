@@ -307,6 +307,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-RTL Group interim results 2024](/.galleries/images/HY-2024_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Group interim results 2024
+    
+    09.08.2024
+    
+    Register for the conference calls for analysts (in English) and journalists (in German).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Group-interim-results-2024/)
+    
+* [![slide-Bertelsmann Content Alliance launches a confidence campaign](/.galleries/images/Optimism-initiative_16-9.jpg?__scale=undefined&description=)
+    
+    Bertelsmann Content Alliance launches a confidence campaign
+    
+    30.07.2024
+    
+    Together with the Bertelsmann Content Alliance, RTL Deutschland, UFA and We Are Era launch a cross-media campaign to promote optimism and social cohesion in Germany.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Bertelsmann-Content-Alliance-launches-a-confidence-campaign/)
+    
 * [![slide- Joining forces: Bedrock and RTL+ in Germany](/.galleries/images/Bedrock-RTL-_16-9.png?__scale=undefined&description=)
     
     Joining forces: Bedrock and RTL+ in Germany
@@ -338,46 +354,6 @@ Europe's leading entertainment brand
     02.07.2024
     
     Fremantle has signed a first-look partnership with Italian production company AlterEgo to develop a slate of original films and dramas.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-partners-with-AlterEgo/)
-    
-* [![slide-Fremantle partners with Nevermind Pictures](/.galleries/images/Fremantle_Nevermind-Pictures_16-9.png?__scale=undefined&description=)
-    
-    Fremantle partners with Nevermind Pictures
-    
-    26.06.2024
-    
-    Fremantle announces a first-look deal with Nevermind Pictures, the production company from screenwriter Dylan Meyer, filmmaker and actor Kristen Stewart and producer Maggie McLean.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-partners-with-Nevermind-Pictures/)
-    
-* [![slide-Philippe Bouvard retires after 60 years with RTL](/.galleries/images/Philippe-Bouvard_16-9.png?__scale=undefined&description=)
-    
-    Philippe Bouvard retires after 60 years with RTL
-    
-    26.06.2024
-    
-    Philippe Bouvard, an iconic radio presenter for RTL Radio in France, announces his plans to retire in January at the age of 95.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Philippe-Bouvard-retires-after-60-years-with-RTL/)
-    
-* [![slide-Screenforce Festival 2024](/.galleries/images/Screenforce_Festival_2024_16-9.png?__scale=undefined&description=)
-    
-    Screenforce Festival 2024
-    
-    14.06.24
-    
-    Must-see content, technological innovations, AI and a one-brand strategy: RTL Deutschland presented its positioning for the future at Screenforce Festival 2024.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Screenforce-Festival-2024/)
-    
-* [![slide-Gabriella Vidus named most influential](/.galleries/images/RTL-Hungary-Top-50_16-9.png?__scale=undefined&description=)
-    
-    Gabriella Vidus named most influential
-    
-    06.06.24
-    
-    Gabriella Vidus, CEO of RTL Hungary, is named the most influential person in the Hungarian media industry for the eighth time, while five other executives from RTL Hungary also made the list.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Gabriella-Vidus-named-most-influential/)
-    
-* [![slide-RTL Deutschland launches 5G network](/.galleries/images/RTL-Telekom_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland launches 5G network
-    
-    05.06.24
-    
-    Flexibility and security: RTL Deutschland launches a private 5G campus network from Deutsche Telekom in time for the UEFA EURO 2024.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-launches-5G-network/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
