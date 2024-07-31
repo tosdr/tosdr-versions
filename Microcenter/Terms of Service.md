@@ -263,7 +263,7 @@ Product category, brand navigation and general site naviation
         
     * Computers
         
-        ### Computers options - 6 groups of items - 36 total selections
+        ### Computers options - 6 groups of items - 34 total selections
         
         * #### Desktop Computing
             
@@ -273,7 +273,6 @@ Product category, brand navigation and general site naviation
             * [Gaming PCs](https://www.microcenter.com/site/products/gaming_desktops.aspx)
             * [All-in-One Desktops](https://www.microcenter.com/category/4294967292,4294819084/all-in-one-desktops)
             * [Refurbished Desktops](https://www.microcenter.com/category/4294967292,519/refurbished-desktops)
-            * [Microsoft 365 Combos](https://www.microcenter.com/site/brands/365-bundles.aspx)
         * #### Portable Computing
             
             * [All Laptops / Notebooks](https://www.microcenter.com/category/4294967288/laptops-notebooks)
@@ -282,7 +281,6 @@ Product category, brand navigation and general site naviation
             * [Apple Laptops](https://www.microcenter.com/category/4294967288,4294820432/macbook)
             * [iPads / Tablets](https://www.microcenter.com/site/products/ipads-tablets.aspx)
             * [Refurbished Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
-            * [Microsoft 365 Combos](https://www.microcenter.com/site/brands/365-bundles.aspx)
         * #### Portable Accessories
             
             * [PC Laptop Accessories](https://www.microcenter.com/category/4294967262/laptop-accessories)
@@ -625,7 +623,7 @@ Product category, brand navigation and general site naviation
         
     * Gaming & Software
         
-        ### Gaming & Software options - 11 groups of items - 39 total selections
+        ### Gaming & Software options - 11 groups of items - 38 total selections
         
         * #### PC & Mac Gaming
             
@@ -669,7 +667,6 @@ Product category, brand navigation and general site naviation
             * [View All DIY Arcade Gaming](https://www.microcenter.com/category/4294811805/view-all-diy-arcade-gaming)
         * #### Business & Utilities
             
-            * [Microsoft 365 Combos](https://www.microcenter.com/site/brands/365-bundles.aspx)
             * [Operating Systems](https://www.microcenter.com/category/4294967276/operating-systems)
             * [Office Applications](https://www.microcenter.com/category/4294967278/office-applications)
             * [Utilities, Anti-virus, Security](https://www.microcenter.com/category/4294967277/utilities-anti-virus-security)
@@ -789,9 +786,9 @@ Product category, brand navigation and general site naviation
         
     * Services
         
-        ### Services options - 5 groups of items - 13 total selections
+        ### Services options - 5 groups of items - 14 total selections
         
-        * #### Troubleshooting and Repair
+        * #### Troubleshooting & Repair
             
             * [PC Problem Diagnosis](https://www.microcenter.com/site/service/computer-diagnostics.aspx)
             * [PC Hardware Repair](https://www.microcenter.com/site/service/instore-service-diagnostics.aspx)
@@ -811,6 +808,7 @@ Product category, brand navigation and general site naviation
             * [Tech Support](https://www.microcenter.com/site/content/tech-support.aspx)
             * [Technical Support Forum](https://community.microcenter.com/)
             * [Knowledge Base](https://community.microcenter.com/kb/help)
+            * [Service FAQs](https://www.microcenter.com/site/service/service.aspx#faq)
         * #### Service Status
             
             * [Check Your Service Status](https://www.microcenter.com/site/service/repair-order.aspx)
@@ -938,6 +936,7 @@ Product category, brand navigation and general site naviation
     * [Virus Removal](https://www.microcenter.com/site/service/instore-service-virus-removal.aspx)
     * [Data Recovery](https://www.microcenter.com/site/service/instore-service-hdd-data-recovery.aspx)
     * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
+    * [Service FAQs](https://www.microcenter.com/site/service/service.aspx#faq)
 * [Help](https://www.microcenter.com/site/customer-support/help-center.aspx)
 * [MC News](https://www.microcenter.com/site/mc-news/default.aspx)
 
