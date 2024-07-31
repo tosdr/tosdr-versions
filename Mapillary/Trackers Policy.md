@@ -22,7 +22,7 @@ User authentication—these cookies allow us to customize the Website based on y
 
 Acknowledgement recording—these cookies allow us to track your acknowledgement to cookies.
 
-Effective June 9, 2021
+Effective from 9 June 2021
 
 ### Apps
 
