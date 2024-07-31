@@ -1,4 +1,4 @@
-![](https://monzo-prod-s3bucketcreator-ffs-web-export.s3-eu-west-1.amazonaws.com/webviews/5326a80aac38422a72db329e48730afff6e8005f/_next/static/images/icon-document-3c510dfdce77a449876122b577df469e.png)
+![](https://monzo-prod-s3bucketcreator-ffs-web-export.s3-eu-west-1.amazonaws.com/webviews/b2f86232baee1b86c837e632c6fafac712876a44/_next/static/images/icon-document-3c510dfdce77a449876122b577df469e.png)
 
 Terms of Service
 ================
