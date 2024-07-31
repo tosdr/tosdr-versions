@@ -18,7 +18,7 @@ Solutions
 
 by Business Type
 
-[for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
+[for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)
 
 [### Grow your followers
 
@@ -86,7 +86,7 @@ Solutions
 
 by Business Type
 
-[for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
+[for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)
 
 [### Grow your followers
 
