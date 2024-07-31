@@ -356,7 +356,7 @@ CMS
 Company
 -------
 
-[Contact Sales](https://www.sanity.io/contact/sales?ref=footer)[Enterprise](https://www.sanity.io/enterprise?ref=footer)[Careers](https://www.sanity.io/careers)[Terms of Service](https://www.sanity.io/legal/tos)[Privacy Policy](https://www.sanity.io/legal/privacy)[Accessibility Statement](https://www.sanity.io/accessibility)
+[Contact Sales](https://www.sanity.io/contact/sales?ref=footer)[Enterprise](https://www.sanity.io/enterprise?ref=footer)[Careers](https://www.sanity.io/careers)[Terms of Service](https://www.sanity.io/legal/tos)[Privacy Policy](https://www.sanity.io/legal/privacy)[Accessibility Statement](https://www.sanity.io/accessibility)[Transparency Statement](https://cdn.sanity.io/files/3do82whm/next/6313de929b146cb92702c9fcdfcbcf296a9ae37e.pdf)
 
 Stay connected
 --------------
