@@ -599,6 +599,7 @@ The best social media marketing app, influencer marketing management platform & 
     * [Brand Ambassadors](https://www.mavrck.co/brand-ambassadors/)
     * [UGC Creators](https://www.mavrck.co/ugc-creators/)
     * [YouTubers](https://www.mavrck.co/youtubers/)
+    * [Fashion & Beauty](https://www.mavrck.co/fashion-beauty-influencers/)
     
     Services
     
