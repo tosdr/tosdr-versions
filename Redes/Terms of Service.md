@@ -98,6 +98,8 @@ Para cualquier consulta relacionada con la Protección de datos de carácter per
 Fichas de tratamiento
 ---------------------
 
+Como Responsable del Tratamiento, Red.es, lleva a cabo el registro de las actividades de Tratamiento de conformidad con lo establecido en el artículo 30 RGPD, a través de las siguientes Fichas de Tratamiento:
+
 #### 1\. - Derechos del interesado
 
 #### Tratamiento
