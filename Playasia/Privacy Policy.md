@@ -1,4 +1,4 @@
-[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713530212&v=PX-374)](https://www.play-asia.com/)
+[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713501412&v=PX-374)](https://www.play-asia.com/)
 
 View All
 
@@ -6,7 +6,7 @@ Search 
 
 everything PLAY Exclusives Games Digital Toys Lifestyle Movies Music Books Electronics
 
- [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1607025310&v=PX-374) FREE WORLDWIDE DELIVERY when spending over £96.38 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
+ [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1607025310&v=PX-374) FREE WORLDWIDE DELIVERY when spending over £97.40 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
 
 [](https://www.play-asia.com/account/)
 
@@ -37,7 +37,7 @@ theme beta
 
 We accept
 
-![Payment Paypal](//s.pacn.ws/1/gallery/640/GA.03963.0168.jpg?1716182591&v=PX-374)  ![Payment Worldpay](//s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-374)  ![Payment Bitcoin](//s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-374)  ![Payment Binancepay](//s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-374)  ![Payment Bitpay](//s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-374)  ![Payment Worldpay2](//s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-374)  ![Payment Manual](//s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-374) 
+![Payment Paypal](//s.pacn.ws/1/gallery/640/GA.03963.0168.jpg?1716211391&v=PX-374)  ![Payment Worldpay](//s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-374)  ![Payment Bitcoin](//s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-374)  ![Payment Binancepay](//s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-374)  ![Payment Bitpay](//s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-374)  ![Payment Worldpay2](//s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-374)  ![Payment Manual](//s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-374) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ We accept
 
 Subscribe to our Newsletter!
 
-![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606379152&v=PX-374)
+![Customer Service](//s.pacn.ws/1/gallery/large/GA.06753.0011.svg?1606407952&v=PX-374)
 
 Contact Us!
 
@@ -62,4 +62,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 111 | 1001,1007 { 57 } | A: | WS: 1 | PT: 0.024 | CDN: | Ro: , Cl: 1 | Q: 16 | T: | Cf: | CO: | bot:
+SN: 112 | 1001,1007 { 57 } | A: | WS: 1 | PT: 0.020 | CDN: | Ro: , Cl: 1 | Q: 15 | T: btc\_co | Cf: | CO: | bot:
