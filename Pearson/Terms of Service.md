@@ -163,12 +163,6 @@ United States
         * [MyLab](https://www.pearson.com/en-us/higher-education/products-services/mylab.html)
         * [Revel](https://www.pearson.com/en-us/higher-education/products-services/revel.html)
         
-        ### Enter an access code
-        
-        * [Social Equity](https://www.pearson.com/en-us/social-equity.html)
-        * [Blogs](https://www.pearson.com/ped-blogs)
-        * [Webinars & Events](https://www.pearson.com/us/higher-education/events.html)
-        
         ### Sign in to Learning Application
         
         * [Learning Catalytics](https://www.pearson.com/en-us/higher-education/products-services/learning-catalytics.html)
@@ -176,11 +170,6 @@ United States
         * [MyVirtualChild](https://www.myvirtualchild.com/landing/)
         * [StatCrunch](https://www.statcrunch.com/)
         * [View All Learning Applications](https://www.pearson.com/en-us/higher-education/educators/digital-learning-platforms/application-access.html)
-        
-        ### Access Learning Platform
-        
-        * [Technical Support](https://support.pearson.com/getsupport/s/)
-        * [Track Order](https://www.pearson.com/store/en-us/order-status.html)
         
         ### Explore Solutions for Your Discipline
         
