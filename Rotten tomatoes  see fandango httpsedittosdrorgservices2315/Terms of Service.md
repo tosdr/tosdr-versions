@@ -17,6 +17,8 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Summer Greetings from Fandango!** Get double points July 29th - July 31st
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ryan's World the Movie: Hero Bundle** Get two tickets, a mystery toy, and more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ticket and a Tee pack!** Get a ticket and a Team USA Minions T-Shirt!
@@ -56,13 +58,21 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f77664d0-4b6b-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-applepay-week4-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
     
-    ### GET DEADPOOL'S PREMIUM PACKAGE
+    ### APPLE PAY WEDNESDAY
     
-    Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
+    Get $5 off ticket orders made on Wednesday, 7/31 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
     
-    [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    
+* [SUMMER GREETINGS FROM FANDANGO! image link ![SUMMER GREETINGS FROM FANDANGO!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/4069ed90-4ad8-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-summer-week11-2xpoints-292x118.png)](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~homepageoffers) 
+    
+    ### SUMMER GREETINGS FROM FANDANGO!
+    
+    Get double FanRewards Points from Fandango with any ticket purchase made July 29th - July 31st
+    
+    [BUY TICKETS](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~homepageoffers)
     
 * [RYAN'S WORLD THE MOVIE: HERO BUNDLE image link ![RYAN'S WORLD THE MOVIE: HERO BUNDLE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5adbc0-4ab3-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-ryansworld-292x118.png)](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer) 
     
@@ -72,21 +82,13 @@ Offers
     
     [BUY NOW](https://ryansworldthemovie.fandango.egifter.com/?cmp=TARS~FANDANGO~RyansWorld_Footer)
     
-* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
+* [FREE ADMISSION TO LEGOLAND® image link ![FREE ADMISSION TO LEGOLAND®](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/81ea7c00-29a7-11ef-8321-2b978811c524--fan-globalofferunit-homepage-legoland-292x118.png)](https://www.fandangomovietickets.com/legolandoffer/?cmp=TARS~FANDANGO~Legoland2024_Footer) 
     
-    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
+    ### FREE ADMISSION TO LEGOLAND®
     
-    Get tickets now for the live broadcasts in AMC Theatres!
+    Purchase a ticket with Fandango and get one free admission ticket to LEGOLAND® with the purchase of a full-price adult ticket. \*Limited time offer. Terms apply.
     
-    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
-    
-* [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/7452f0a0-4544-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-amcminions-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer) 
-    
-    ### TICKET AND A TEE PACK!
-    
-    Get a ticket to see the Paris Olympics NBCU Watch Party at AMC Theatres, plus a Team USA Minions T-Shirt.
-    
-    [BUY NOW](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/legolandoffer/?cmp=TARS~FANDANGO~Legoland2024_Footer)
     
 
 New & Coming soon
@@ -107,7 +109,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236076/FND_poster_ItEndsWithUs-Presale.jpg)
     
     It Ends With Us (2024)](https://www.fandango.com/it-ends-with-us-2024-236076/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236332/FND_poster_Trap-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236332/Trap_final_2024.jpg)
     
     Trap (2024)](https://www.fandango.com/trap-2024-236332/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235049/LONGLEGS_Official_Poster_Full.jpg)
@@ -185,6 +187,26 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango
+
+### Apple Pay Wednesday
+
+Close
+
+![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/7313f160-4b6d-11ef-a588-3b078e6b3d8a--fan-globalnavbar-applepay-week4-tickets-343x362.png)
+
+#### Today only! Save $5 off your order with Apple Pay.
+
+Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 7/31/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 7/31/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+
+### Summer Greetings from Fandango! Hot movies, cold sodas, all summer long
+
+Close
+
+![Summer Greetings from Fandango!](https://images.fandango.com/cms/assets/c782c710-4ad9-11ef-a588-3b078e6b3d8a--fan-globalnavbar-summer-week11-2xpoints-343x362.jpg)
+
+#### Get double FanRewards Points from Fandango with any ticket purchase made July 29th - July 31st.
+
+For a limited time, visit Fandango.com or use the Fandango app and buy tickets between 12:01am Pacific Time (“PT”) on July 29th, 2024, and 11:59pm PT on July 31st, 2024 (the “Offer Period”), to see any movie at a participating theater during the Offer Period, and you will receive double FanRewards Points (250 per ticket, instead of the usual 125) in your Fandango account for that transaction. You must be logged in to your Fandango account to receive and spend FanRewards Points. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. When you receive 500 FanRewards Points, you will receive a $5.00 Discount Reward which you will need to convert into a Discount Promo Code for use on a qualifying purchase on http://www.fandango.com (which can be used on http://www.movietickets.com) or http://www.fandangoathome.com. Discount Promo Code expires 21 days after the $5.00 Discount Reward is posted to your Fandango account. Discount Promo Code cannot be combined with any other offer, promo code or discount. You may be required to pay taxes additionally. Discount Promo Codes cannot be used to purchase a gift card. After applying your Discount Promo Code, any unused balance will automatically expire. Void where prohibited. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to the FanRewards terms at https://www.fandango.com/policies/fanrewards-terms and Fandango’s Terms and Policies and Privacy Policy at http://www.fandango.com/Terms-and-Policies. [Buy Tickets](https://www.fandango.com/movies-in-theaters?cmp=tars~fandango~summer~globalnav)
 
 ### Get Deadpool's Premium Package Today!
 
