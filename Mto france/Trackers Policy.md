@@ -202,7 +202,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-27/07/2024
+30/07/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
@@ -253,6 +253,8 @@ Sur ces sites Internet, votre consentement est requis pour l’envoi de publicit
 **Voir la page concernant les** [cookies strictement nécessaires au fonctionnement](https://meteofrance.com/gestion-des-cookies-necessaires-au-fonctionnement)
 
 **Voir la page concernant les** [cookies soumis à votre consentement](https://meteofrance.com/gestion-des-cookies-soumis-consentement)
+
+[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Participez au concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
