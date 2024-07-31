@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/searchinfotoday.com.svg)](https://www.searchinfotoday.com/?ueid=8EE49235-2D75-4D26-9FB0-A4F1592026B9&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/searchinfotoday.com.svg)](https://www.searchinfotoday.com/?ueid=9BAC264D-3726-415D-8EBA-FC9840632A52&ad=dirN "What's your question?")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,8 +276,8 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.searchinfotoday.com/privacy?ueid=8EE49235-2D75-4D26-9FB0-A4F1592026B9&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.searchinfotoday.com/terms?ueid=8EE49235-2D75-4D26-9FB0-A4F1592026B9&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.searchinfotoday.com/privacy?ueid=9BAC264D-3726-415D-8EBA-FC9840632A52&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.searchinfotoday.com/terms?ueid=9BAC264D-3726-415D-8EBA-FC9840632A52&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
