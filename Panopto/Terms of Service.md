@@ -68,13 +68,13 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
 * Resources & Support
     
-    ![](https://www.panopto.com/wp-content/uploads/2024/05/1074-_pop-650x650.png)
+    ![](https://www.panopto.com/wp-content/uploads/2024/07/1075-_pop-650x650.png)
     
-    2024 Workforce Training Report
+    2024 Student Learning Research Report
     
-    Explore the power of video training, modern training practices, employee preferences, desired outcomes, and the importance of continuous learning.
+    Explore student wants vs. experiences, on-demand lectures, learning content trends, and student perceptions of AI in digital learning.
     
-    [Download Now](https://www.panopto.com/resource/ebook/2024-workforce-training-report/)
+    [Download Now](https://www.panopto.com/resource/ebook/what-students-want-most-from-video-learning/)
     
     * Learn
         * [Resource Library](https://www.panopto.com/resource-library/)
@@ -169,11 +169,11 @@ Ready to **see Panopto in action?**
 
 We believe in the power of learning, and we built an intelligent platform to help enterprise organizations improve the way they train, teach, and share knowledge.
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/VirtualClassroom_HighestUserAdoption_Enterprise_Adoption.png)
+![](https://www.panopto.com/wp-content/uploads/2024/07/Performer-2.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/VirtualClassroom_HighPerformer_Enterprise_HighPerformer.svg)
+![](https://www.panopto.com/wp-content/uploads/2024/07/Adoption-2.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/07/LiveStream_BestSupport_Mid-Market_QualityOfSupport.png)
+![](https://www.panopto.com/wp-content/uploads/2024/07/Support-2.png)
 
 * Platform
     * [Create Content](https://www.panopto.com/features/create-content/)
