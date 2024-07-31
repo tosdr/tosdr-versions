@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-Retail Advocates Summit July 24-25
+NRF 2025: Retail's Big Show Jan 12-14, 2025
 
-[](https://nrf.com/retail-advocates-summit-2024)
+[](https://nrfbigshow.nrf.com/)
 
 Related Sites Menu
 ------------------
