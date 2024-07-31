@@ -78,7 +78,7 @@ Purple reserves the right to refuse any order you place. Purple may cancel order
 
 9\. Returns, Exchanges and Refunds
 
-For details about returns, please review the Purple [Return/Exchange and Refund Policy](https://purple.com/returns) which by this reference is incorporated herein. You are required to carefully read the Purple Return/Exchange and Refund Policy prior to transacting any business with Purple as part of this Agreement.
+For details about returns, please review the Purple [Return/Exchange and Refund Policy](https://purple.com/returns "Returns & Exchanges") which by this reference is incorporated herein. You are required to carefully read the Purple Return/Exchange and Refund Policy prior to transacting any business with Purple as part of this Agreement.
 
 All return, exchange and refund rights automatically terminate in the event you engage in any fraud or dishonest conduct regarding your exercise of any such rights, as determined in Purple’s sole discretion.
 
@@ -486,9 +486,9 @@ Visit:
 
 [Visit Purple](https://purple.com/stores/)
 
-[![Purple BBB Business Review](https://seal-utah.bbb.org/seals/gray-seal-200-42-whitetxt-bbb-90015217.png)](https://www.bbb.org/us/ut/alpine/profile/mattress/purple-1166-90015217/#sealclick)
+[](https://www.bbb.org/us/ut/alpine/profile/mattress/purple-1166-90015217/#sealclick)
 
-© 2024 Purple Innovation, LLC. All Rights Reserved.
+© \[date:html\_year\] Purple Innovation, LLC. All Rights Reserved.
 
 Purple, the Purple Grid, Hyper-Elastic Polymer, GelFlex, and the color purple are registered trademarks of Purple Innovation, LLC
 
