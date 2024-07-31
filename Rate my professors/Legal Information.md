@@ -13,8 +13,6 @@ Log InSign Up
 Copyright Compliance Policy
 ===========================
 
-Advertisement
-
 Last Modified: February 8, 2024
 
 COPYRIGHT COMPLIANCE POLICY
