@@ -150,11 +150,11 @@ Pro-sex. Pro-porn. Pro-knowing the difference.
 
 ### The legal stuff
 
-* [Compliance](https://makelovenotporn.tv/compliance-statement)
+* [2257 Compliance](https://makelovenotporn.tv/compliance-statement)
 * [Submissions](https://makelovenotporn.tv/video-submission-agreement)
 * [Privacy](https://makelovenotporn.tv/privacy-policy)
 * [Terms](https://makelovenotporn.tv/terms-of-service-agreement)
 
 © 2024 MakeLoveNotPorn. All rights reserved.
 
-Version: d1a0a1a - production
+Version: edb5cbd - production
