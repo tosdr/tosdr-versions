@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/39daadb21721858623.webp?1721858695)
 
-[](https://sageisreal.newgrounds.com/)
+[](https://kellapeach.newgrounds.com/)
 
-[SageIsReal](https://sageisreal.newgrounds.com/) just joined the crew!
+[KellaPeach](https://kellapeach.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -218,17 +218,17 @@ Submission Guidelines
 
 GamesMoviesAudioArtChannelsUsers
 
-[Bojosounds **MOONDIVE OUT NOW**](https://bojosounds.newgrounds.com/news/post/1462617)
+[ConjurenReanimate **YEAH!**](https://conjurenreanimate.newgrounds.com/news/post/1463542)
 
-[Ninnee **Why this account exists**](https://ninnee.newgrounds.com/news/post/1462615)
+[Creeperforce24 **The premier is coming tomorrow right?**](https://creeperforce24.newgrounds.com/news/post/1463541)
 
-[ShookSpinVSO **hey guys. after a long time i have decided.**](https://shookspinvso.newgrounds.com/news/post/1462614)
+[Corndogzella **I got ideas on my brain, and blisters on my fingers! Which did not happen!**](https://corndogzella.newgrounds.com/news/post/1463540)
 
-[TheAsterDood02 **A little art something I'm working on 6u6**](https://theasterdood02.newgrounds.com/news/post/1462613)
+[MaGhost **Apoyo pal pollo**](https://maghost.newgrounds.com/news/post/1463538)
 
-[jthrash **Might Be On a Short Hiatus**](https://jthrash.newgrounds.com/news/post/1462612)
+[TigerPlushiefire **63 fans Honestly Never have this much attention**](https://tigerplushiefire.newgrounds.com/news/post/1463536)
 
-[SpecterSalmon **Ko-fi Update Going Forward**](https://spectersalmon.newgrounds.com/news/post/1462611)
+[Luckykid135 **idk stuff**](https://luckykid135.newgrounds.com/news/post/1463534)
 
 [**Wall Art by**
 
