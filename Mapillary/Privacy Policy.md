@@ -1,7 +1,7 @@
 Mapillary Privacy Policy
 ------------------------
 
-Effective date: February 15, 2024
+Effective from 15 February 2024
 
 This Privacy Policy explains how Mapillary, offered by Meta Platforms Ireland Limited (“Mapillary,” “we,” or “us”) collect, use, and share information about you. This Privacy Policy applies when you use the Mapillary websites, mobile applications, and other online products and services (collectively, our “Services”), or otherwise interact with us.
 
