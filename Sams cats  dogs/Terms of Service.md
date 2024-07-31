@@ -4,7 +4,7 @@ We have 3 convenient locations ready to serve you! [learn more](https://www.sams
 
 * Choose Your Location
 * [20016 Old Owen Road, Monroe, WA  98272](https://www.google.com/maps/place/search?q=Sam%27s+Cats+%26+Dogs+Naturally+20016%2BOld%2BOwen%2BRoad%2CMonroe%2C98272%2CWA&place_id=ChIJ7xV9VPSmmlQR_ByHfFe3p1M)
-* Open Today from 10:00 am - 6:00 pm
+* Open Today from 9:00 am - 7:00 pm
 
 * [Facebook](https://www.facebook.com/SamsCatsandDogsNaturally)
 * [Instagram](https://www.instagram.com/samscatsanddogs/)
@@ -52,17 +52,17 @@ All Locations
 
  20016 Old Owen Road, Monroe, WA 98272  
   (360) 805-5060  
-Open Today Until 6:00 pm  
+Open Today Until 7:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery, No Contact Delivery Available](javascript:;)[### Everett
 
  811 SE Everett Mall Way, Everett, WA 98208  
   (425) 353-9076  
-Open Today Until 6:00 pm  
+Open Today Until 7:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery Available](javascript:;)[### Redmond
 
  23535 NE Novelty Hill Rd, ,Suite D304, Redmond, WA 98053  
   (425) 636-8231  
-Open Today Until 6:00 pm  
+Open Today Until 7:00 pm  
 In-Store Pickup, Curbside Pickup Available](javascript:;)
 
 Sam's Cats & Dogs Naturally
@@ -71,7 +71,7 @@ Sam's Cats & Dogs Naturally
 20016 Old Owen Road  
 Monroe, WA, 98272
 
-We Open Sunday at 10:00 AM
+OPEN TODAY UNTIL 7:00 PM
 
 [(360) 805-5060](tel:(360) 805-5060)
 
@@ -256,6 +256,22 @@ Don't just take our word for it - see why pet parents in [Monroe](https://www.go
 
 ![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
 
+Sarah Barratt
+
+2024-07-28
+
+Associate cared about my legs and helped me save money.
+
+![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
+
+Dianna Stanley
+
+2024-07-27
+
+Super helpful and friendly. I love that it's so close to me
+
+![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
+
 Kari Morgan
 
 2024-07-13
@@ -278,28 +294,12 @@ Emily Zoe Newman
 
 Always had a good experience finding cat food and litter. They will even deliver if you are local and buy a minimum amount. Great local business.
 
-![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
-
-Jennifer Lawrence
-
-2024-06-06
-
-We always love going to Sam's. Great selection of quality dog goodies and friendly staff
-
-![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
-
-Bryan Link
-
-2024-05-31
-
-Decent prices and if they don't carry what you are looking for, they will order it! I'd rather spend my money locally vs. Amazon when I can
-
 [View All Reviews](https://www.samscatsanddogs.com/reviews/) [Write A Review](https://app.nextpaw.com/write-review/xIgGvlmcNmihPm5X)
 
 Locations
 ---------
 
-[### **Monroe**](https://www.samscatsanddogs.com/)Open Today from 10:00 AM - 6:00 PM
+[### **Monroe**](https://www.samscatsanddogs.com/)Open Today from 9:00 AM - 7:00 PM
 
 20016 Old Owen Road  
 Monroe, WA 98272
@@ -320,7 +320,7 @@ Set as Favorite
 
 [Contact Us](https://www.samscatsanddogs.com/contact-us)
 
-[### **Everett**](https://www.samscatsanddogs.com/everett)Open Today from 10:00 AM - 6:00 PM
+[### **Everett**](https://www.samscatsanddogs.com/everett)Open Today from 9:00 AM - 7:00 PM
 
 811 SE Everett Mall Way  
 Everett, WA 98208
@@ -341,7 +341,7 @@ Set as Favorite
 
 [Contact Us](https://www.samscatsanddogs.com/everett/contact-us)
 
-[### **Redmond**](https://www.samscatsanddogs.com/redmond)Open Today from 10:00 AM - 6:00 PM
+[### **Redmond**](https://www.samscatsanddogs.com/redmond)Open Today from 9:00 AM - 7:00 PM
 
 23535 NE Novelty Hill Rd, Suite D304,  
 Redmond, WA 98053
