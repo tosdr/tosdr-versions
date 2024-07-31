@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-Get £5 off every order (including sale!) with the code SAVE5. Minimum spend £35. [Shop now](https://www.notonthehighstreet.com/sale)
+Quick, our Summer Sale ends TOMORROW – don't miss up to 50% off. [Shop sale now](https://www.notonthehighstreet.com/sale).
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
