@@ -490,4 +490,4 @@ English
 
 © one.com 2024
 
-[Modern Slavery Statement](https://www-static.cdn-one.com/docs/modern-slavery-statement.pdf) [Terms](https://www.one.com/en/terms-and-conditions?country=United%20Kingdom) [Product & Privacy Policies](https://www.one.com/en/info/privacy-policy) [Cookie Policy](https://www.one.com/en/info/cookie-policy)
+[Modern Slavery Statement](https://www-static.cdn-one.com/docs/modern-slavery-statement.pdf) [Terms](https://www.one.com/en/terms-and-conditions-gbp) [Product & Privacy Policies](https://www.one.com/en/info/privacy-policy) [Cookie Policy](https://www.one.com/en/info/cookie-policy)
