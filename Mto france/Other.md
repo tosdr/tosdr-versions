@@ -202,7 +202,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-27/07/2024
+31/07/2024
 
 Décharge de responsabilité
 --------------------------
@@ -250,6 +250,8 @@ Météo-France se réserve cependant le droit de
 * Modifier ou de corriger le contenu de ce site à tout moment et sans préavis.
 
 Tous les droits qui ne sont pas expressément concédés aux termes des présentes sont réservés par Météo-France. 
+
+[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Participez au concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
