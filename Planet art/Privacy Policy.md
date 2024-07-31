@@ -448,14 +448,12 @@ If you delete your User Contributions from our Services, copies may still be vie
 * [Press](https://www.planetart.com/press-release)
 * [Jobs](https://apply.workable.com/planetart)
 * [Internships](https://www.planetart.com/internships)
-* [Contact](https://www.planetart.com/contact)
 
 * [Home](https://www.planetart.com/home)
 * [About](https://www.planetart.com/about)
 * [Press](https://www.planetart.com/press-release)
 * [Jobs](https://apply.workable.com/planetart)
 * [Internships](https://www.planetart.com/internships)
-* [Contact](https://www.planetart.com/contact)
 
 [![](https://cdn-cms.planetart.com/planetart/en_US/app_block__navigation/planetart-1720559652.svg)](https://www.planetart.com/)
 
