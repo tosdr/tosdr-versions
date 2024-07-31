@@ -219,6 +219,11 @@ Lapinlahdenkatu 16
 00180 Helsinki  
 Finland
 
+10\. Analytics Opt-out
+----------------------
+
+\[matomo\_opt\_out\]
+
 Register description for this site
 ----------------------------------
 
