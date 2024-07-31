@@ -23,7 +23,7 @@
     * [GAME PANEL](https://gamepanel.pingperfect.com/)
     * [BILLING AREA](https://pingperfect.com/clientarea.php)
 * [SUPPORT](#)
-    * [CONTACT](https://pingperfect.com/contact)
+    * [CONTACT](https://pingperfect.com/contact-us)
     * [KNOWLEDGEBASE](https://pingperfect.com/index.php/knowledgebase)
     * [SUPPORT LEVELS](https://pingperfect.com/support_levels)
     * [FAQ](https://pingperfect.com/faqs)
@@ -86,11 +86,11 @@ PingPerfect
 #### PINGPERFECT
 
 * [Blog](https://blog.pingperfect.com/)
-* [about us](https://pingperfect.com/aboutus)
-* [contact](https://pingperfect.com/contact)
+* [About us](https://pingperfect.com/aboutus)
+* [Contact us](https://pingperfect.com/contact-us)
 * [Careers](https://pingperfect.com/careers)
 * [Terms & Conditions](https://pingperfect.com/terms_conditions)
-* [privacy policy](https://pingperfect.com/privacy)
+* [Privacy policy](https://pingperfect.com/privacy)
 
 #### partners
 
