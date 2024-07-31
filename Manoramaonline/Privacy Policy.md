@@ -29,7 +29,7 @@ Activate your premium subscription today
     
     Trending Keywords
     
-    * [T20 World Cup](https://www.manoramaonline.com/tagresults.html?tag=mo:sports/cricket/iccmenst20worldcup2024)
+    * [Wayanad Landslide](https://www.manoramaonline.com/news/indepth/wayanad-meppadi-landslide-2024.html)
     * [Latest News](https://www.manoramaonline.com/news/latest-news.html)
     * [Weather Updates](https://www.manoramaonline.com/tagresults.html?tag=mo:environment/weather-forecast)
     * [Crime News](https://www.manoramaonline.com/tagresults.html?tag=mo:crime/crime-news)
