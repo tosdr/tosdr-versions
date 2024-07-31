@@ -32,7 +32,7 @@ If you want to change your privacy settings (grant consent or revoke your previo
 Responsible
 -----------
 
-Sönke Gissel, Heidi Kraken, Bohlenstraße 32, 27619 Schiffdorf, Deutschland, [contact@rucksack.dev](mailto:contact@rucksack.dev), +4915225876510
+Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [contact@rucksack.dev](mailto:contact@rucksack.dev), +4915225876510
 
 Hosting
 -------
