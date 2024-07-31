@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -239,21 +239,21 @@ Search results
     
     ### Davis [Davis Quick-Dry Shampoo - Gallon](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
     
+    20 in stock
+    
     $59.74
     
     Quantity  Add to cart
     
 * [![iGroom Tearless Facial Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+    Quantity  Add to cart
     
     ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    Out of stock
-    
     $60.00
     
-    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+    Quantity  Add to cart
     
 
 * ![](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)
