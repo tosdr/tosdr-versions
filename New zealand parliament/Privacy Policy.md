@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240731_20240731_08/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240731_20240731_08/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -98,17 +98,13 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/
     For more information about tours and visiting Parliament, click here.](https://www.parliament.nz/en/visit-and-learn/visit/)
     
 
-[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
 
-The House next meets on Tuesday, 30 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](#audio-notlive-popup)
-
-### Listen
-
-There is no current live audio feed.
+* [Listen](http://www.radionz.co.nz/audio/live/parliament)
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
 * [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
@@ -121,17 +117,13 @@ There is no current live audio feed.
 * [Website Help](https://www.parliament.nz/en/footer/website-help/)
 * [Sitemap](https://www.parliament.nz/en/sitemap/)
 
-[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
+ [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
 
-The House next meets on Tuesday, 30 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House is meeting today](https://videos.parliament.nz/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](#audio-notlive-popup)
-
-### Listen
-
-There is no current live audio feed.
+* [Listen](http://www.radionz.co.nz/audio/live/parliament)
 
 Privacy
 =======
