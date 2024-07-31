@@ -1,4 +1,4 @@
-Netlify + Astro are partnering! [Read more](https://www.netlify.com/blog/netlify-astro-are-partnering/?utm_content=eyebrow)
+Join us at Compose Conference, October 2-3. [Register now!](https://www.netlify.com/compose/?utm_content=eyebrow)
 
 Close announcement bar
 
