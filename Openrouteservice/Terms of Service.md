@@ -12,7 +12,7 @@ Toggle navigation
     * [Python SDK](https://github.com/GIScience/openrouteservice-py)
     * [JavaScript SDK](https://github.com/GIScience/openrouteservice-js)
     * [R SDK](https://github.com/GIScience/openrouteservice-r)
-* Examples
+* [Examples](https://github.com/GIScience/openrouteservice-examples/)
     * [Leverage fleet scheduling for disaster response](https://openrouteservice.org/disaster-optimization/)
     * [Avoid Flooded Areas](https://openrouteservice.org/example-avoid-flooded-areas-with-ors)
     * [Healthcare Access Analysis](https://openrouteservice.org/example-healthcare-access-analysis-with-ors)
