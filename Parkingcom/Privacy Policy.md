@@ -195,8 +195,7 @@ Chicago, IL 60601
 * [Privacy Policy](https://parking.com/privacy-policy/)
 * [Terms of Service](https://parking.com/terms-and-conditions/)
 
-* Powered by
-* ![SP+](/img/unity/SP+ParkingLogo_footer.png)
+* ![SP+](/img/unity/Metropolis_Subsidiary_SP+_Horizontal_White.png)
     
 
 © 2024 SP Plus Corporation
