@@ -126,17 +126,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Disaster Recovery
+
+What Is Disaster Recovery & How to Plan](https://www.ownbackup.com/blog/what-is-disaster-recovery-how-to-plan)
+
+[Own Discover
+
+Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+
 [Own Archive
 
 Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
-
-[ServiceNow
-
-Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
-
-[Product Updates
-
-What’s New In Own: Release Highlights For Q2 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q2-24)
 
 Company
 
@@ -348,17 +348,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Disaster Recovery
+
+What Is Disaster Recovery & How to Plan](https://www.ownbackup.com/blog/what-is-disaster-recovery-how-to-plan)
+
+[Own Discover
+
+Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+
 [Own Archive
 
 Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
-
-[ServiceNow
-
-Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
-
-[Product Updates
-
-What’s New In Own: Release Highlights For Q2 ‘24](https://www.ownbackup.com/blog/whats-new-in-own-release-highlights-for-q2-24)
 
 Company
 
