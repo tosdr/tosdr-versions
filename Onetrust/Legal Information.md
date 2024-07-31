@@ -283,9 +283,9 @@ Your partner in trust transformation
 
 ### Resources
 
-* [Unpacking Google's third-party cookies decision: What marketers need to know](https://www.onetrust.com/resources/unpacking-googles-third-party-cookies-decision-what-marketers-need-to-know-webinar/)
-* [Unlocking marketing ROI: Delivering personalized campaigns with 360-degree profiles](https://www.onetrust.com/resources/unlocking-marketing-roi-delivering-personalized-campaigns-with-360-degree-profiles-webinar/)
-* [Third-Party AI: Procurement and risk management best practices](https://www.onetrust.com/resources/third-party-ai-procurement-and-risk-management-best-practices-webinar/)
+* [The ultimate consent strategy for maximizing customer opt-ins in 2024](https://www.onetrust.com/resources/the-ultimate-consent-strategy-for-maximizing-customer-opt-ins-in-2024-webinar/)
+* [Privacy and AI: Bridging the divide](https://www.onetrust.com/resources/privacy-and-ai-bridging-the-divide-webinar/)
+* [OneTrust data privacy maturity self-assessment](https://www.onetrust.com/resources/onetrust-data-privacy-maturity-self-assessment/)
 
 ### Platform
 
