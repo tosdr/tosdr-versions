@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+    [](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
     
-    ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+    [](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
     
-    ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,84 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/wp-content/uploads/2024/07/Deadrop-Will-Follow-Its-Pre-planned-2024-Release-Window-Despite-Dr-DisRespect-Drama.jpg)
+
+[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 31, 2024/
+
+Despite the recent controversy over Dr DisRespect and his departure from Midnight Society, the studio he co-founded with Robert Bowling…
+
+[Read More](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+
+![Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/wp-content/uploads/2024/07/Diablo-4-Season-5-Release-Date-and-Livestream-Announced.jpg)
+
+[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+July 31, 2024/
+
+Diablo 4 Season 5 is just around the corner as Blizzard has announced the release date of the fifth season…
+
+[Read More](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+
+![Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/wp-content/uploads/2024/07/Once-Human_How-to-Use-Photo-Mode-in-Game-or-via-Steam.png)
+
+[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+July 30, 2024/
+
+Once Human, the open-world survival game developed by Starry Studio and published by NetEase Games has been a massive hit…
+
+[Read More](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+
+![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
+
+[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 30, 2024/
+
+SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
+
+[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+![Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/wp-content/uploads/2024/07/Replace-Argenti-EN-Voice-Actor-for-Unknown-Reason-1.png)
+
+[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 29, 2024/
+
+In an unforeseen event, Honkai: Star Rail has secretly changed the EN voice actor for one of its five-star characters,…
+
+[Read More](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+
+![Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/wp-content/uploads/2024/07/Alien-Hominid-PlayStation-4-and-PlayStation-5-HD-Ports-Release-Coming-Soon.png)
+
+[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 29, 2024/
+
+After two decades and more since its initial launch in 2002, Alien Hominid, the classic side-scrolling shoot ’em up video…
+
+[Read More](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+
 ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
 
 [New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
@@ -166,84 +244,6 @@ July 26, 2024/
 On Thursday, Open AI unveiled its much-anticipated search engine prototype, SearchGPT, which aims to give users “fast and timely answers…
 
 [Read More](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
-
-![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
-
-[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
-
-
------------------------------------------------------------------------------------------------------------------
-
-July 25, 2024/
-
-Isekai anime was never in the spotlight in the past, as the subgenre of anime, manga, and light novels that…
-
-[Read More](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
-
-![Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/wp-content/uploads/2024/07/Atlus-Exclusive-Metaphor_-ReFantazio-Fourth-Live-Stream-Set-for-July-29.png)
-
-[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 25, 2024/
-
-Metaphor: ReFantazio, the widely anticipated JRPG from long-time veteran Persona developers Atlus, will have its fourth live stream, slated on…
-
-[Read More](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
-
-![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/wp-content/uploads/2024/07/Nintendo-Revokes-Splatoon-3-World-Championship-Winners-After-Racist-Remarks.png)
-
-[Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 24, 2024/
-
-After a month since speculations circulated online with Splatoon 3 World Championship winners, Jackpot, using racist slurs and phrases in…
-
-[Read More](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
-
-![Top 7 Emerging AI Trends to Know Beyond 2024 ](https://player.me/wp-content/uploads/2024/07/Top-7-Emerging-AI-Trends-to-Know-Beyond-2024.png)
-
-[Top 7 Emerging AI Trends to Know Beyond 2024](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/) 
-
-
---------------------------------------------------------------------------------------------------------------------
-
-July 24, 2024/
-
-Since ChatGPT emerged into the public consciousness in 2022, Artificial Intelligence (AI) has rapidly taken the technology industry by storm,…
-
-[Read More](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/)
-
-![Skull and Bones Steam Release Date Set For August 22](https://player.me/wp-content/uploads/2024/07/Skull-and-Bones-Steam-Release-Date-Set-For-August-22.png)
-
-[Skull and Bones Steam Release Date Set For August 22](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/)
-
-
------------------------------------------------------------------------------------------------------------------------------------
-
-July 23, 2024/
-
-On Monday, Ubisoft announced via Twitter that its action-adventure pirate-themed game, Skull and Bones, will arrive on Steam on August…
-
-[Read More](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/)
-
-![Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon](https://player.me/wp-content/uploads/2024/07/Xbox-Exclusive-Party-Animals-PlayStation-Release-Is-Coming-Soon.png)
-
-[Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon](https://player.me/party-animals-playstation-release-is-coming-soon/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-July 23, 2024/
-
-Xbox exclusives are titled as they only remain on the Xbox console platform. However, Party Animals, the Xbox exclusive nominated…
-
-[Read More](https://player.me/party-animals-playstation-release-is-coming-soon/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,84 @@ GAMING
 *   Back
 * The Last of Us
 
+![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/wp-content/uploads/2024/07/Deadrop-Will-Follow-Its-Pre-planned-2024-Release-Window-Despite-Dr-DisRespect-Drama.jpg)
+
+[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 31, 2024/
+
+Despite the recent controversy over Dr DisRespect and his departure from Midnight Society, the studio he co-founded with Robert Bowling…
+
+[Read More](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+
+![Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/wp-content/uploads/2024/07/Diablo-4-Season-5-Release-Date-and-Livestream-Announced.jpg)
+
+[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+July 31, 2024/
+
+Diablo 4 Season 5 is just around the corner as Blizzard has announced the release date of the fifth season…
+
+[Read More](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+
+![Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/wp-content/uploads/2024/07/Once-Human_How-to-Use-Photo-Mode-in-Game-or-via-Steam.png)
+
+[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+July 30, 2024/
+
+Once Human, the open-world survival game developed by Starry Studio and published by NetEase Games has been a massive hit…
+
+[Read More](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+
+![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
+
+[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 30, 2024/
+
+SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
+
+[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+![Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/wp-content/uploads/2024/07/Replace-Argenti-EN-Voice-Actor-for-Unknown-Reason-1.png)
+
+[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 29, 2024/
+
+In an unforeseen event, Honkai: Star Rail has secretly changed the EN voice actor for one of its five-star characters,…
+
+[Read More](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+
+![Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/wp-content/uploads/2024/07/Alien-Hominid-PlayStation-4-and-PlayStation-5-HD-Ports-Release-Coming-Soon.png)
+
+[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 29, 2024/
+
+After two decades and more since its initial launch in 2002, Alien Hominid, the classic side-scrolling shoot ’em up video…
+
+[Read More](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+
 ![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
 
 [New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
@@ -327,84 +405,6 @@ July 25, 2024/
 Metaphor: ReFantazio, the widely anticipated JRPG from long-time veteran Persona developers Atlus, will have its fourth live stream, slated on…
 
 [Read More](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
-
-![Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/wp-content/uploads/2024/07/Nintendo-Revokes-Splatoon-3-World-Championship-Winners-After-Racist-Remarks.png)
-
-[Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 24, 2024/
-
-After a month since speculations circulated online with Splatoon 3 World Championship winners, Jackpot, using racist slurs and phrases in…
-
-[Read More](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
-
-![Top 7 Emerging AI Trends to Know Beyond 2024 ](https://player.me/wp-content/uploads/2024/07/Top-7-Emerging-AI-Trends-to-Know-Beyond-2024.png)
-
-[Top 7 Emerging AI Trends to Know Beyond 2024](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/) 
-
-
---------------------------------------------------------------------------------------------------------------------
-
-July 24, 2024/
-
-Since ChatGPT emerged into the public consciousness in 2022, Artificial Intelligence (AI) has rapidly taken the technology industry by storm,…
-
-[Read More](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/)
-
-![Skull and Bones Steam Release Date Set For August 22](https://player.me/wp-content/uploads/2024/07/Skull-and-Bones-Steam-Release-Date-Set-For-August-22.png)
-
-[Skull and Bones Steam Release Date Set For August 22](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/)
-
-
------------------------------------------------------------------------------------------------------------------------------------
-
-July 23, 2024/
-
-On Monday, Ubisoft announced via Twitter that its action-adventure pirate-themed game, Skull and Bones, will arrive on Steam on August…
-
-[Read More](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/)
-
-![Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon](https://player.me/wp-content/uploads/2024/07/Xbox-Exclusive-Party-Animals-PlayStation-Release-Is-Coming-Soon.png)
-
-[Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon](https://player.me/party-animals-playstation-release-is-coming-soon/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-July 23, 2024/
-
-Xbox exclusives are titled as they only remain on the Xbox console platform. However, Party Animals, the Xbox exclusive nominated…
-
-[Read More](https://player.me/party-animals-playstation-release-is-coming-soon/)
-
-![Which Are the 10 Best Last Epoch Weapons For You?](https://player.me/wp-content/uploads/2024/07/Which-Are-the-10-Best-Last-Epoch-Weapons-to-Level-Up-Quickly-1.png)
-
-[Which Are the 10 Best Last Epoch Weapons For You?](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/)
-
-
-----------------------------------------------------------------------------------------------------------------------------
-
-July 22, 2024/
-
-Apart from assigning players on a dangerous and adventurous journey, Last Epoch also provides its players with a list of…
-
-[Read More](https://player.me/which-are-the-10-best-last-epoch-weapons-for-you/)
-
-![Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder](https://player.me/wp-content/uploads/2024/07/Balatro_-6-Best-Beginner-Tips-to-Master-the-Poker-Inspired-Deck-Builder-1.png)
-
-[Balatro: 6 Best Beginner Tips to Master the Poker-Inspired Deck Builder](https://player.me/6-best-beginner-tips-to-master-balatro/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-July 22, 2024/
-
-If you’re considering going into Balatro with the same game plan as with poker, you’re in for a massive surprise.…
-
-[Read More](https://player.me/6-best-beginner-tips-to-master-balatro/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,19 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
+
+[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 30, 2024/
+
+SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
+
+[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
 ![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
 
 [Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
@@ -796,19 +809,6 @@ After Samsung revealed their Samsung Galaxy A55 and A35 in this early week wit
 
 [Read More](https://player.me/asus-zenfone-11-ultra-maximising-screen-space/)
 
-![The Untold Story of Elon Musk’s Startup Ventures Before SpaceX and Tesla](https://player.me/wp-content/uploads/2024/03/The-Untold-Story-of-Elon-Musks-Startup-Ventures-Before-SpaceX-and-Tesla.jpg)
-
-[The Untold Story of Elon Musk’s Startup Ventures Before SpaceX and Tesla](https://player.me/elon-musks-startup-ventures-before-spacex-and-tesla/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 15, 2024/
-
-Elon Musk, the renowned entrepreneur and innovator, has left an indelible mark on the world with his groundbreaking ventures, including…
-
-[Read More](https://player.me/elon-musks-startup-ventures-before-spacex-and-tesla/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -816,6 +816,42 @@ Elon Musk, the renowned entrepreneur and innovator, has left an indelible mark o
 ![player.me](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDMwMCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
 
 player.me
+
+[](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/ "Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama")
+
+[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+
+July 31, 2024
+
+[](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/ "Diablo 4 Season 5 Release Date and Livestream Announced")
+
+[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+
+July 31, 2024
+
+[](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/ "Once Human: How to Use Photo Mode in Game or via Steam?")
+
+[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+
+July 30, 2024
+
+[](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/ "SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang")
+
+[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+
+July 30, 2024
+
+[](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/ "Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason")
+
+[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+
+July 29, 2024
+
+[](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/ "Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon")
+
+[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+
+July 29, 2024
 
 [](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/ "New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000")
 
@@ -829,46 +865,10 @@ July 26, 2024
 
 July 26, 2024
 
-[](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/ "Ranking the 7 Best Isekai Anime of All Time")
-
-[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
-
-July 25, 2024
-
-[](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/ "Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29")
-
-[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
-
-July 25, 2024
-
-[](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/ "Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks")
-
-[Nintendo Revokes Splatoon 3 World Championship Winners After Racist Remarks](https://player.me/nintendo-revokes-splatoon-3-world-championship-winners/)
-
-July 24, 2024
-
-[](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/ "Top 7 Emerging AI Trends to Know Beyond 2024 ")
-
-[Top 7 Emerging AI Trends to Know Beyond 2024](https://player.me/top-7-emerging-ai-trends-to-know-beyond-2024/) 
-
-July 24, 2024
-
-[](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/ "Skull and Bones Steam Release Date Set For August 22")
-
-[Skull and Bones Steam Release Date Set For August 22](https://player.me/skull-and-bones-steam-release-date-set-for-august-22/)
-
-July 23, 2024
-
-[](https://player.me/party-animals-playstation-release-is-coming-soon/ "Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon")
-
-[Xbox-Exclusive Party Animals PlayStation Release Is Coming Soon](https://player.me/party-animals-playstation-release-is-coming-soon/)
-
-July 23, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 541,775 times, 1,332 visit(s) today
+Visited 547,083 times, 828 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
