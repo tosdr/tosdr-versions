@@ -48,7 +48,7 @@
             
             * [VPBT FAQs](https://mpiasia.net/programs/training/online-courses/vptp-faqs.html)
             * [MPI 2024 VPBT Document Uploader](https://mpiasia.net/programs/training/online-courses/document-uploader.html)
-            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
+            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
             
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
@@ -270,7 +270,7 @@ For more information on our privacy policies and data protection, please see our
             * [General Information](https://mpiasia.net/programs/training/online-courses/general-information.html)
             * [VPBT FAQs](https://mpiasia.net/programs/training/online-courses/vptp-faqs.html)
             * [MPI 2024 VPBT Document Uploader](https://mpiasia.net/programs/training/online-courses/document-uploader.html)
-            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
+            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
     * [Research, Documentation, & Learning](https://mpiasia.net/programs/research-documentation-and-learning.html)
