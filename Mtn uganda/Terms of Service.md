@@ -482,23 +482,6 @@ We are not responsible for any loss arising from any failure, malfunction, or de
         [+256 772 123 100](https://wa.link/d6r2ly)
         
     
-    * #### Physical address
-        
-        Plot 69-71 Jinja Road; Kampala, Uganda
-        
-    * #### Postal address
-        
-        P.O Box 24624 Kampala, Uganda
-        
-    
-* ![more sites](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/svgs/sidebar.svg)More sites![](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/chevron-light.svg)
-    
-    * [MTN Pulse](https://pulse.mtn.co.ug/)
-    * [MTN Group](https://www.mtn.com/)
-    * [Careers at MTN](https://mtn.co.ug/careers/)
-    * [Pulse radio](https://pulseradio.mtn.co.ug/)
-    * [MTN Sports](http://sports.mtn.co.ug/)
-    
 
 * [Facebook](https://www.facebook.com/MTNUG)
 * [Twitter](https://twitter.com/mtnug)
