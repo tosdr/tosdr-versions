@@ -29,15 +29,15 @@ Version All 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.19.3 1.
 
 Active Servers
 
-[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1722352443.png.pagespeed.ic.DvVjC3dGRz.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1722080374.png.pagespeed.ic.Cd50vz760y.jpg)
+HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network") [Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![mawCraft](plugins/MineCraft/icons/25x25xmawCraft_1709961328.png.pagespeed.ic.nsbfAoB7rk.png)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")[![anarchyac](plugins/MineCraft/icons/25x25xanarchyac_1719165747.png.pagespeed.ic.kZQ7Exczo_.png)
+mawCraft ★ SMP RPG Adventure](https://minecraft-server.net/details/mawCraft/ "mawCraft ★ SMP RPG Adventure")[![MineConomy](plugins/MineCraft/icons/25x25xMineConomy_1719812585.png.pagespeed.ic.xQziuCrLtk.png)
 
-Anarchy](https://minecraft-server.net/details/anarchyac/ "Anarchy")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+MineConomy](https://minecraft-server.net/details/MineConomy/ "MineConomy")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
+Crackex Network - NEW SURVIVAL](https://minecraft-server.net/details/Crackex_Network/ "Crackex Network - NEW SURVIVAL")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07229 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06863 - Created by [Debaucus](https://debauc.us/)
