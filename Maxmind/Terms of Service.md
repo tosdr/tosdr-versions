@@ -7,19 +7,19 @@
 
 * Products
     
-    [![An ecommerce website and a shopping cart on a tablet](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/fraud-prevention-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/minfraud-services)
+    [![An ecommerce website and a shopping cart on a tablet](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/fraud-prevention-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/minfraud-services)
     
     [Fraud Prevention](https://www.maxmind.com/en/solutions/minfraud-services)
     
     Prevent online fraud and identify cyber threats with machine learning
     
-    [![Online users around the globe accessing ecommerce and streaming services with map pins to indicate users' specific location](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/ip-geolocation-databases-api-services)
+    [![Online users around the globe accessing ecommerce and streaming services with map pins to indicate users' specific location](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/ip-geolocation-databases-api-services)
     
     [IP Geolocation & Intelligence](https://www.maxmind.com/en/solutions/ip-geolocation-databases-api-services)
     
     Understand your online visitors and serve them customized, relevant content
     
-    [![A computer monitor with green and red IP addresses, detecting anonymous IPs, and managing access](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/proxy-detection-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/proxy-vpn-fraud-detection)
+    [![A computer monitor with green and red IP addresses, detecting anonymous IPs, and managing access](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/proxy-detection-main-navigation-icon.svg)](https://www.maxmind.com/en/solutions/proxy-vpn-fraud-detection)
     
     [Proxy Detection](https://www.maxmind.com/en/solutions/proxy-vpn-fraud-detection)
     
@@ -27,7 +27,7 @@
     
 * Resources
     
-    ![Support main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/support-main-navigation-icon.svg)
+    ![Support main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/support-main-navigation-icon.svg)
     
     Support
     
@@ -35,7 +35,7 @@
     * [System status](https://status.maxmind.com/)
     * [Contact Support](https://www.maxmind.com/en/company/contact-us)
     
-    ![Learning main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/learning-main-navigation-icon.svg)
+    ![Learning main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/learning-main-navigation-icon.svg)
     
     Learning
     
@@ -44,14 +44,14 @@
     * [GeoIP® demo](https://www.maxmind.com/en/geoip2-precision-demo)
     * [Locate my IP address](https://www.maxmind.com/en/locate-my-ip-address)
     
-    ![Developers main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/developers-main-navigation-icon.svg)
+    ![Developers main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/developers-main-navigation-icon.svg)
     
     Developers
     
     * [Developer portal](https://dev.maxmind.com/)
     * [Affiliate program](https://www.maxmind.com/en/affiliate-program)
     
-    ![Legal main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/legal-main-navigation-icon.svg)
+    ![Legal main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/legal-main-navigation-icon.svg)
     
     Legal
     
@@ -62,19 +62,19 @@
     
 * Company
     
-    [![About is main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/about-us-main-navigation-icon.svg)](https://www.maxmind.com/en/company)
+    [![About is main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/about-us-main-navigation-icon.svg)](https://www.maxmind.com/en/company)
     
     [About us](https://www.maxmind.com/en/company)
     
-    [![Commitment to security main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/commitment-to-security-main-navigation-icon.svg)](https://www.maxmind.com/en/company/commitment-to-security)
+    [![Commitment to security main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/commitment-to-security-main-navigation-icon.svg)](https://www.maxmind.com/en/company/commitment-to-security)
     
     [Commitment to security](https://www.maxmind.com/en/company/commitment-to-security)
     
-    [![Working at MaxMind main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/working-at-maxmind-main-navigation-icon.svg)](https://www.maxmind.com/en/company/working-at-maxmind)
+    [![Working at MaxMind main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/working-at-maxmind-main-navigation-icon.svg)](https://www.maxmind.com/en/company/working-at-maxmind)
     
     [Working at MaxMind](https://www.maxmind.com/en/company/working-at-maxmind)
     
-    [![Contact us main navigation icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/redesign/contact-us-main-navigation-icon.svg)](https://www.maxmind.com/en/company/contact-us)
+    [![Contact us main navigation icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/redesign/contact-us-main-navigation-icon.svg)](https://www.maxmind.com/en/company/contact-us)
     
     [Contact us](https://www.maxmind.com/en/company/contact-us)
     
@@ -254,7 +254,7 @@ By clicking on the words "I Agree" below, you agree that your use of the MaxMind
     Should any provision of this Agreement be held void, invalid, or inoperative, such decision shall not affect any other provision hereof, and the remainder of this Agreement shall be effective as though such void, invalid, or inoperative provision had not been contained herein.
     
 
-[![MaxMind Footer Logo](https://static.maxmind.com/8cd133cbafe94fae97f6/images/maxmind-footer-logo.svg)](https://www.maxmind.com/en/home)
+[![MaxMind Footer Logo](https://static.maxmind.com/37dc76dca11a63f27b54/images/maxmind-footer-logo.svg)](https://www.maxmind.com/en/home)
 
 [](https://twitter.com/maxmind "Twitter")[](https://www.linkedin.com/company/maxmind "LinkedIn")
 
@@ -276,7 +276,7 @@ By clicking on the words "I Agree" below, you agree that your use of the MaxMind
 * [GeoIP](https://support.maxmind.com/hc/en-us/categories/1260801446650-GeoIP2-and-GeoLite2)
 * [System Status](https://status.maxmind.com/)
 * [GeoIP Data Correction Request](https://www.maxmind.com/en/geoip-data-correction-request)
-* [Your Privacy Choices](https://www.maxmind.com/en/opt-out) ![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://static.maxmind.com/8cd133cbafe94fae97f6/images/icon-ccpa-opt-out.svg)
+* [Your Privacy Choices](https://www.maxmind.com/en/opt-out) ![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://static.maxmind.com/37dc76dca11a63f27b54/images/icon-ccpa-opt-out.svg)
 * [Notice of Collection](https://www.maxmind.com/en/privacy-policy#california-notice-of-collection)
 
 #### Developers
