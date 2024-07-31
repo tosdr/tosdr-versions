@@ -1214,7 +1214,7 @@ MyNETGEAR
 * [Returns](https://store.netgear.com/returns)
 * [Register Product](https://my.netgear.com/register.aspx)
 * [My Support](https://www.netgear.com/mynetgear/portal/mysupport.aspx)
-* [First Responder Discount](https://www.netgear.com/home/discover/first-responder-discount/)
+* [ID.me discount](https://www.netgear.com/home/discover/id-me-discount/)
 
 CUSTOMER CARE
 
