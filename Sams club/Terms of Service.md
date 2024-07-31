@@ -122,7 +122,7 @@ Find a club
 Terms and Conditions
 ====================
 
-_Last updated on June 28, 2024_
+_Last updated on July 30, 2024_
 
 [Clubs, Site & Membership](#samsclub) [Sam’s Club Membership Free Trial](https://www.samsclub.com/content/membership-free-trial-terms-and-conditions) [Refer a Friend](#refer-a-friend) [Sam's Cash™ Loyalty Rewards Program](#loyalty-rewards-program) [Curbside Pickup](#pickup) [Ship To Home](#ship-to-home) [Sam’s Club Delivery](#delivery) [Free Tire Repair](#tire-repair) [Instant Savings](#instant-savings) [Photos and Customization](#photos-customization) [Prescription Eyeglasses](#optical) [Prescriptions Program](#prescriptions) [Satisfaction Guarantee](#satisfaction-guarantee) [Subscription Order Services](#subscription-order-services) [Third-Party Service Subscription](#subscription) [Scan and Go](#scan-go)
 
@@ -922,7 +922,7 @@ If at any time you're unsatisfied with your Membership, let us know and we will 
 
 If you’re unsatisfied with your Plus Membership, let us know and request a refund. We will reimburse the amount you paid for your Plus upgrade either to the original payment method or through an eGift Card sent to your email. There’s a limit of one downgrade refund per household or business per year.
 
-* Downgrade refunds are only available for members in active or expired status. A member must not be in deleted or revoked status to receive a downgrade refund.
+* A member must not be in expired, deleted or revoked status to receive a downgrade refund.
 * Downgrade refunds are for the current membership year only and not for prior years. In other words, a member is not eligible to receive a downgrade refund for prior years if they are now in a new membership year.
 
 ### D. 100% Merchandise Satisfaction Guarantee
