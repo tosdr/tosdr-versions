@@ -346,6 +346,12 @@ This Privacy Policy is effective as of the date on which it is made available on
 * Trending Scams
     --------------
     
+    * [![Crypto Advance Fee Scam](https://www.scam-detector.com/wp-content/uploads/2024/07/sajad-nori-XihAgOYNHn4-unsplash-1-1-150x150.jpg)](https://www.scam-detector.com/crypto-advance-fee-scams/)
+        
+        ### [Crypto Advance Fee Scams: When Greed Clouds Reason](https://www.scam-detector.com/crypto-advance-fee-scams/)
+        
+        [Read More](https://www.scam-detector.com/crypto-advance-fee-scams/)
+        
     * [![ticket scams](https://www.scam-detector.com/wp-content/uploads/2024/07/ticket-scams-150x150.jpg)](https://www.scam-detector.com/ticket-scams/)
         
         ### [Ticket Scams: How to Spot the Red Flags](https://www.scam-detector.com/ticket-scams/)
@@ -357,12 +363,6 @@ This Privacy Policy is effective as of the date on which it is made available on
         ### [Don't Fall for Task-Based Job Scams: Keep Your Money Safe](https://www.scam-detector.com/task-scams/)
         
         [Read More](https://www.scam-detector.com/task-scams/)
-        
-    * [![Fund Recovery Scammer](https://www.scam-detector.com/wp-content/uploads/2024/07/Thumbnail-550-x-300-px-1200-x-900-px-1-150x150.png)](https://www.scam-detector.com/recovery-scams/)
-        
-        ### [Recovery Scams: How Not to Get Scammed Twice](https://www.scam-detector.com/recovery-scams/)
-        
-        [Read More](https://www.scam-detector.com/recovery-scams/)
         
     
 * [![“fraud](https://www.scam-detector.com/wp-content/uploads/2023/10/One_Fraud-Prevention.png)](https://get.surfshark.net/aff_c?offer_id=1124&aff_id=16683&url_id=1369)
