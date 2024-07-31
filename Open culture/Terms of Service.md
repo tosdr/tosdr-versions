@@ -21,7 +21,7 @@
 [Terms of Use Agreement](https://www.openculture.com/terms_of_use_agreement "Permanent Link to Terms of Use Agreement")
 =======================================================================================================================
 
-This Agree­ment was last revised on Jan­u­ary 2, 2012
+This Agree­ment was last revised on July 28, 2024
 
 Wel­come to the online ser­vice of Open Cul­ture, LLC. (“Open Cul­ture,” “we,” or “us”).  This page explains the terms by which you may use Open Culture’s online and/or mobile ser­vices and web sites (col­lec­tive­ly the “Ser­vice”).  By access­ing or using the Ser­vice, you sig­ni­fy that you have read, under­stood, and agree to be bound by this Terms of Use Agree­ment (“Agree­ment”) and to the col­lec­tion and use of your infor­ma­tion as set forth in the [Open Cul­ture Pri­va­cy Pol­i­cy](http://www.openculture.com/privacy_policy) whether or not you are a reg­is­tered user of our Ser­vice.
 
@@ -32,6 +32,8 @@ We reserve the right to amend this Agree­ment at any time by noti­fy­ing you 
 A.        Eli­gi­bil­i­ty
 
 You may use the Ser­vice only if you can form a bind­ing con­tract with Open Cul­ture, and only in com­pli­ance with this Agree­ment and all applic­a­ble local, state, nation­al, and inter­na­tion­al laws, rules and reg­u­la­tions.  Any use or access to the Ser­vice by any­one under 13 is strict­ly pro­hib­it­ed and in vio­la­tion of this Agree­ment.  The Ser­vice is not avail­able to any Users pre­vi­ous­ly removed from the Ser­vice by Open Cul­ture.
+
+Cit­i­zens of any coun­try that has pro­mul­gat­ed a data local­iza­tion law may not uti­lize the Open Cul­ture Ser­vices in any way, includ­ing view­ing pages on the Open Cul­ture web­site or sub­scrib­ing to the Open Cul­ture newslet­ter.
 
 B.        Ser­vice Rules
 
@@ -544,7 +546,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1721835627&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1722420259&formid=1 "click to reload")
     
 * About Us
     --------
@@ -889,4 +891,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/6ce0f5305d157a3a4b15b0c9df7087b2.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/2aa0664fafc15f55dee3e2f2356fb28d.gif "Cleantalk Pixel")
