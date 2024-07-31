@@ -419,11 +419,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![couple-laugh-cafe](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![woman sitting on floor holding book in front of her face on pink background](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Quiz: Foreign Phrases You Should Know Check out your bona fides and avoid any faux pas.
+Famous Novels, Last Lines Quiz Needless to say, spoiler alert.
 
-Take the quiz](https://www.merriam-webster.com/games/foreign-phrases-you-should-know)
+Take the quiz](https://www.merriam-webster.com/games/famous-novels-last-lines)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
