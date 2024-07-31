@@ -136,83 +136,83 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Maciek Froński](https://lyricstranslate.com/files/styles/micro/public/avatar-default-m.png)](https://lyricstranslate.com/en/translator/maciek-fro%C5%84ski "Maciek Froński")
+[![RadixIce](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1179431-1682108942.jpg)](https://lyricstranslate.com/en/translator/radixice "RadixIce")
+
+New translation
+
+[Armen Darbinyan - Ով Սիրուն Սիրուն (Ov Sirun Sirun)](https://lyricstranslate.com/en/armen-darbinyan-ov-sirown-sirown-ov-siru-english)
+
+Armenian → English
+
+[![Darkness Dragon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1385415-1528677044.png)](https://lyricstranslate.com/en/translator/darkness-dragon "Darkness Dragon")
+
+New transcription request
+
+[Pokémon (ost) - Pokémon Theme (Latvian)](https://lyricstranslate.com/en/pok%C3%A9mon-ost-pok%C3%A9mon-theme-latvian)
+
+Latvian
+
+[![Feàrnach](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585254-1689533125.jpg)](https://lyricstranslate.com/en/translator/fe%C3%A0rnach "Feàrnach")
+
+New translation
+
+[DIR EN GREY - カムイ (Kamui)](https://lyricstranslate.com/en/dir-en-grey-kamui-english)
+
+Japanese → English
+
+[![lele.azevedo](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leleazevedo "lele.azevedo")
+
+New transcription request
+
+[Amadou & Mariam - Fari Mandila](https://lyricstranslate.com/en/amadou-mariam-fari-mandila)
+
+Bambara
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Gino D'Eliso - Kajmac Calan](https://lyricstranslate.com/en/gino-deliso-kajmac-calan-english)
+
+Italian → English
+
+[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1722360529.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
+
+New translation
+
+[Chisato Moritaka - 見たとおりよ私 (Mita tōri yo watashi)](https://lyricstranslate.com/en/chisato-moritaka-mita-tori-yo-watashi-english)
+
+Japanese → English
+
+[![citlālicue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109697-1717958665.png)](https://lyricstranslate.com/en/translator/citl%C4%81licue "citlālicue")
 
 New comment
 
-Ale w samej piosence ich nie ma, nie wiem, skąd ...  [more](https://lyricstranslate.com/en/comment/1156681#comment-1156681)
+It's a literal copy of the translation in the ...  [more](https://lyricstranslate.com/en/comment/1157549#comment-1157549)
 
-[![100wka](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/100wka "100wka")
-
-New song
-
-[Farya Faraji - La Fille au Roy Louis](https://lyricstranslate.com/en/farya-faraji-la-fille-au-roy-louis-lyrics)
-
-French (Middle French)
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New song
-
-[KATSEYE - Touch](https://lyricstranslate.com/en/katseye-touch-lyrics)
-
-English
-
-[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
-
-New song
-
-[All Promete - بنر](https://lyricstranslate.com/en/all-promete-bnr-lyrics)
-
-Persian
-
-[![Aryan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1376812-1713021439.jpg)](https://lyricstranslate.com/en/translator/aryan "Aryan")
+[![TCG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1561228-1688645178.jpg)](https://lyricstranslate.com/en/translator/tcg "TCG")
 
 New translation
 
-[Barbra Streisand - Somewhere](https://lyricstranslate.com/en/barbra-streisand-somewhere-kurdish-kurmanji)
+[Göksel İpekçi - Aylardan Mayıs](https://lyricstranslate.com/en/goksel-ipekci-aylardan-mayis-english)
 
-English → Kurdish (Kurmanji)
+Turkish → English
 
-[![Milena Stoyanova](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1450256-1585380276.jpg)](https://lyricstranslate.com/en/translator/milena-stoyanova "Milena Stoyanova")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Republica - Ready to Go](https://lyricstranslate.com/en/ready-go-gotova-sm.html)
+[Gino D'Eliso - Bellezza normanna](https://lyricstranslate.com/en/gino-deliso-bellezza-normanna-english)
 
-English → Bulgarian
+Italian → English
 
-[![TKaru29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614356-1712484810.jpg)](https://lyricstranslate.com/en/translator/tkaru29 "TKaru29")
+[![Zark21](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/zark21 "Zark21")
 
 New song
 
-[shytaupe - ランデヴー(Rendezvous)](https://lyricstranslate.com/en/shytaupe-rendezvous-lyrics)
+[Luis Mariano - Comme facette mammeta](https://lyricstranslate.com/en/luis-mariano-comme-facette-mammeta-lyrics)
 
-Japanese
-
-[![leraluna](https://lyricstranslate.com/files/styles/micro/public/avatar-default-w.png)](https://lyricstranslate.com/en/translator/leraluna "leraluna")
-
-New request
-
-[Mazowsze - Dolina](https://lyricstranslate.com/en/request/dolina)
-
-Polish → English
-
-[![y_n](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1622827-1721653304.png)](https://lyricstranslate.com/en/translator/yn-0 "y_n")
-
-New translation
-
-[The Cardigans - Step On Me](https://lyricstranslate.com/en/cardigans-step-me-indonesian)
-
-English → Indonesian
-
-[![Bwoon PakHT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1557413-1720055669.jpg)](https://lyricstranslate.com/en/translator/bwoon-pakht "Bwoon PakHT")
-
-New translation
-
-[Parn Tanaporn - หวง (Huang)](https://lyricstranslate.com/en/parn-tanaphorn-huang-english)
-
-Thai → English
+Neapolitan
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
