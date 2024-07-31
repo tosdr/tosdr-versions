@@ -30,21 +30,21 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Vegan Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-recipe/unicorn-frappuccino/)
+    * [](https://www.onegreenplanet.org/vegan-recipe/mango-lassi-vegan/)
         
-        [](https://www.onegreenplanet.org/vegan-recipe/unicorn-frappuccino/)[![Vegan Unicorn Frappuccino](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/vegan-recipe/mango-lassi-vegan/)[![Vegan Mango Lassi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE5AQAAAAA1/y2BAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAACAQwNIIwABlx4i6gAAAABJRU5ErkJggg==)
         
-        ![Vegan Unicorn Frappuccino](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/04/unicorn_food-1.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/unicorn-frappuccino/)
+        ![Vegan Mango Lassi](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/10/screen-shot-2019-10-03-at-12-24-12-am.png?fit=460%2C313&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/mango-lassi-vegan/)
         
-        [Unicorn Frappuccino \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/unicorn-frappuccino/)
+        [Mango Lassi \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/mango-lassi-vegan/)
         
-    * [](https://www.onegreenplanet.org/vegan-recipe/chocolate-chip-cookie-milkshake-vegan/)
+    * [](https://www.onegreenplanet.org/vegan-recipe/buffalo-mac-and-cheese-crumble/)
         
-        [](https://www.onegreenplanet.org/vegan-recipe/chocolate-chip-cookie-milkshake-vegan/)[![Chocolate Milkshake Recipe](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
+        [](https://www.onegreenplanet.org/vegan-recipe/buffalo-mac-and-cheese-crumble/)[![Buffalo Mac and Cheese Crumble [Vegan, Gluten-Free]](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
         
-        ![Chocolate Milkshake Recipe](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/01/chocolate_milkshake_recipe.jpg?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/chocolate-chip-cookie-milkshake-vegan/)
+        ![Buffalo Mac and Cheese Crumble [Vegan, Gluten-Free]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2015/07/mac2.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/buffalo-mac-and-cheese-crumble/)
         
-        [Chocolate Chip Cookie Milkshake \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/chocolate-chip-cookie-milkshake-vegan/)
+        [Buffalo Mac and Cheese Crumble \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/buffalo-mac-and-cheese-crumble/)
         
     
 * [Food](https://www.onegreenplanet.org/channel/vegan-food/)
@@ -73,73 +73,89 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Plant-Based Cookbooks to Buy](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-food/german-universitys-meat-free-month-sparks-lasting-change/)
+    * [](https://www.onegreenplanet.org/vegan-food/15-summer-inspired-mocktails-and-cocktails/)
         
-        [](https://www.onegreenplanet.org/vegan-food/german-universitys-meat-free-month-sparks-lasting-change/)[![university cafeteria](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-food/15-summer-inspired-mocktails-and-cocktails/)[![Watermelon Cherry Cooler](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![university cafeteria](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1937695675-e1721752623671.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/german-universitys-meat-free-month-sparks-lasting-change/)
+        ![Watermelon Cherry Cooler](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/cooler.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-summer-inspired-mocktails-and-cocktails/)
         
-        [German University’s Meat-Free Month Sparks Lasting Change](https://www.onegreenplanet.org/vegan-food/german-universitys-meat-free-month-sparks-lasting-change/)
+        [15 Summer-Inspired Mocktails and Cocktails](https://www.onegreenplanet.org/vegan-food/15-summer-inspired-mocktails-and-cocktails/)
         
-    * [](https://www.onegreenplanet.org/vegan-food/tips-that-will-make-you-love-tofu/)
+    * [](https://www.onegreenplanet.org/vegan-food/tips-ideas-marinating-tofu/)
         
-        [](https://www.onegreenplanet.org/vegan-food/tips-that-will-make-you-love-tofu/)[![Buffalo tofu fries](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCoAAAMgAQAAAADNEr6PAAAAAnRSTlMAAHaTzTgAAAB/SURBVHja7cExAQAAAMIg+6e2xg5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQdqXvAAH8V36fAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-food/tips-ideas-marinating-tofu/)[![Teriyaki tofu in a bowl](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Buffalo tofu fries](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/06/buffalo-fries-close-on-plate-1066x800.jpg?fit=460%2C309&ssl=1)](https://www.onegreenplanet.org/vegan-food/tips-that-will-make-you-love-tofu/)
+        ![Teriyaki tofu in a bowl](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/07/shutterstock_1928354228-scaled.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/tips-ideas-marinating-tofu/)
         
-        [6 Cooking Tips That Will Make You Love Tofu](https://www.onegreenplanet.org/vegan-food/tips-that-will-make-you-love-tofu/)
+        [Tips and Ideas for Marinating Tofu](https://www.onegreenplanet.org/vegan-food/tips-ideas-marinating-tofu/)
         
     
 * [News](https://www.onegreenplanet.org/channel/news/)
-    * [](https://www.onegreenplanet.org/animals/viral-video-shows-labrador-hilariously-moving-sibling-off-of-his-bed/)
+    * [](https://www.onegreenplanet.org/news/daily-top-news-major-dogfighting-ring-dismantled-in-florida-equestrian-star-suspended-for-whipping-horse-24-times-monsanto-settles-over-duwamish-river-pollution-and-more/)
         
-        [](https://www.onegreenplanet.org/animals/viral-video-shows-labrador-hilariously-moving-sibling-off-of-his-bed/)[![two dogs playing](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/news/daily-top-news-major-dogfighting-ring-dismantled-in-florida-equestrian-star-suspended-for-whipping-horse-24-times-monsanto-settles-over-duwamish-river-pollution-and-more/)[![American Staffordshire Terrier](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAFeAQAAAAA6MvLtAAAAAnRSTlMAAHaTzTgAAAAqSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAPgbTe4AAQaZbxoAAAAASUVORK5CYII=)
         
-        ![two dogs playing](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-129895793-e1722004193176.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/viral-video-shows-labrador-hilariously-moving-sibling-off-of-his-bed/)
+        ![American Staffordshire Terrier](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-199955990.jpg?fit=448%2C350&ssl=1)](https://www.onegreenplanet.org/news/daily-top-news-major-dogfighting-ring-dismantled-in-florida-equestrian-star-suspended-for-whipping-horse-24-times-monsanto-settles-over-duwamish-river-pollution-and-more/)
         
-        [Viral Video Shows Labrador Hilariously Moving Sibling Off of His Bed](https://www.onegreenplanet.org/animals/viral-video-shows-labrador-hilariously-moving-sibling-off-of-his-bed/)
+        [Daily Top News: Major Dogfighting Ring Dismantled in Florida, Equestrian Star Suspended for Whipping Horse 24 Times, Monsanto Settles Over Duwamish River Pollution, and More!](https://www.onegreenplanet.org/news/daily-top-news-major-dogfighting-ring-dismantled-in-florida-equestrian-star-suspended-for-whipping-horse-24-times-monsanto-settles-over-duwamish-river-pollution-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/cat-starts-barking-at-new-kitten/)
+    * [](https://www.onegreenplanet.org/animals/istanbul-protests-against-controversial-stray-dog-bill/)
         
-        [](https://www.onegreenplanet.org/animals/cat-starts-barking-at-new-kitten/)[![kitten and dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEuAQAAAAArLB+iAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAB4A0WaAAFiTWQXAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/istanbul-protests-against-controversial-stray-dog-bill/)[![stray dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![kitten and dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2477383899-e1722003890521.jpg?fit=460%2C302&ssl=1)](https://www.onegreenplanet.org/animals/cat-starts-barking-at-new-kitten/)
+        ![stray dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1912957246-e1722270855157.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/istanbul-protests-against-controversial-stray-dog-bill/)
         
-        [Cat Starts Barking at New Kitten](https://www.onegreenplanet.org/animals/cat-starts-barking-at-new-kitten/)
+        [Istanbul Protests Against Controversial Stray Dog Bill](https://www.onegreenplanet.org/animals/istanbul-protests-against-controversial-stray-dog-bill/)
         
-    * [](https://www.onegreenplanet.org/animals/dog-goes-viral-for-cute-sleeping-habit/)
+    * [](https://www.onegreenplanet.org/animals/new-study-shows-israeli-war-is-causing-dangerous-stress-in-animals/)
         
-        [](https://www.onegreenplanet.org/animals/dog-goes-viral-for-cute-sleeping-habit/)[![sleeping dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/new-study-shows-israeli-war-is-causing-dangerous-stress-in-animals/)[![israeli army dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
         
-        ![sleeping dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1944050614-e1722003474589.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dog-goes-viral-for-cute-sleeping-habit/)
+        ![israeli army dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-118791715-e1722270545607.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/animals/new-study-shows-israeli-war-is-causing-dangerous-stress-in-animals/)
         
-        [Dog Goes Viral for Cute Sleeping Habit!](https://www.onegreenplanet.org/animals/dog-goes-viral-for-cute-sleeping-habit/)
+        [New Study Shows Israeli War is Causing Dangerous Stress in Animals](https://www.onegreenplanet.org/animals/new-study-shows-israeli-war-is-causing-dangerous-stress-in-animals/)
         
-    * [](https://www.onegreenplanet.org/animals/tiger-cub-rescue-sparks-investigation-into-wildlife-sanctuary/)
+    * [](https://www.onegreenplanet.org/animals/major-dogfighting-ring-dismantled-in-florida/)
         
-        [](https://www.onegreenplanet.org/animals/tiger-cub-rescue-sparks-investigation-into-wildlife-sanctuary/)[![tiger cub](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE3AQAAAAAP9UzxAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cGBAAAAAMOg+1PfYATVAAAAAAAAAAAAAAAAAAAAAACAdketAAGNh8c8AAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/major-dogfighting-ring-dismantled-in-florida/)[![dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![tiger cub](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2274075141-e1721941555597.jpg?fit=460%2C311&ssl=1)](https://www.onegreenplanet.org/animals/tiger-cub-rescue-sparks-investigation-into-wildlife-sanctuary/)
+        ![dog in shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2151336523-e1722270179526.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/major-dogfighting-ring-dismantled-in-florida/)
         
-        [Tiger Cub Rescue Sparks Investigation into Wildlife Sanctuary](https://www.onegreenplanet.org/animals/tiger-cub-rescue-sparks-investigation-into-wildlife-sanctuary/)
+        [Major Dogfighting Ring Dismantled in Florida](https://www.onegreenplanet.org/animals/major-dogfighting-ring-dismantled-in-florida/)
         
-    * [](https://www.onegreenplanet.org/animals/former-fedex-driver-charged-in-tragic-dog-theft-case/)
+    * [](https://www.onegreenplanet.org/animals/dog-chews-own-leg-off-shelter-is-under-investigation/)
         
-        [](https://www.onegreenplanet.org/animals/former-fedex-driver-charged-in-tragic-dog-theft-case/)[![french bulldog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/dog-chews-own-leg-off-shelter-is-under-investigation/)[![dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![french bulldog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2365543369-e1722010163551.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/former-fedex-driver-charged-in-tragic-dog-theft-case/)
+        ![dog in shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1673050852-e1722267571205.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dog-chews-own-leg-off-shelter-is-under-investigation/)
         
-        [Former FedEx Driver Charged in Tragic Dog Theft Case](https://www.onegreenplanet.org/animals/former-fedex-driver-charged-in-tragic-dog-theft-case/)
+        [Dog Chews Own Leg Off, Shelter is Under Investigation](https://www.onegreenplanet.org/animals/dog-chews-own-leg-off-shelter-is-under-investigation/)
         
-    * [](https://www.onegreenplanet.org/animals/former-nfl-player-isaiah-buggs-convicted-of-animal-cruelty-in-alabama/)
+    * [](https://www.onegreenplanet.org/animals/tragic-loss-of-beloved-polar-bear-at-calgary-zoo/)
         
-        [](https://www.onegreenplanet.org/animals/former-nfl-player-isaiah-buggs-convicted-of-animal-cruelty-in-alabama/)[![kansas city chiefs logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFFAQAAAABJH+A7AAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAA4G5K5wABeBbi1QAAAABJRU5ErkJggg==)
+        [](https://www.onegreenplanet.org/animals/tragic-loss-of-beloved-polar-bear-at-calgary-zoo/)[![polar bear at zoo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![kansas city chiefs logo](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-794584903.jpg?fit=460%2C325&ssl=1)](https://www.onegreenplanet.org/animals/former-nfl-player-isaiah-buggs-convicted-of-animal-cruelty-in-alabama/)
+        ![polar bear at zoo](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2220000587-e1722266784295.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/tragic-loss-of-beloved-polar-bear-at-calgary-zoo/)
         
-        [Former NFL Player Isaiah Buggs Convicted of Animal Cruelty in Alabama](https://www.onegreenplanet.org/animals/former-nfl-player-isaiah-buggs-convicted-of-animal-cruelty-in-alabama/)
+        [Tragic Loss of Beloved Polar Bear at Calgary Zoo](https://www.onegreenplanet.org/animals/tragic-loss-of-beloved-polar-bear-at-calgary-zoo/)
         
 * [Earth](https://www.onegreenplanet.org/channel/environment/)
+    * [](https://www.onegreenplanet.org/environment/10-most-successful-reforestation-projects-worldwide/)
+        
+        [](https://www.onegreenplanet.org/environment/10-most-successful-reforestation-projects-worldwide/)[![reforestation](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAECAQAAAABbQtrvAAAAAnRSTlMAAHaTzTgAAAAkSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAACDvO3YAAZHJXI0AAAAASUVORK5CYII=)
+        
+        ![reforestation](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2431283181-e1721407006297.jpg?fit=460%2C258&ssl=1)](https://www.onegreenplanet.org/environment/10-most-successful-reforestation-projects-worldwide/)
+        
+        [10 Most Successful Reforestation Projects Worldwide](https://www.onegreenplanet.org/environment/10-most-successful-reforestation-projects-worldwide/)
+        
+    * [](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
+        [](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)[![kamala harris sustainable tees presidential campaign](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEDAQAAAACQHglKAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cExAQAAAMIg+6e2w25gAAAAAAAAAAAAAAAAAABAdzuxAAFBC70jAAAAAElFTkSuQmCC)
+        
+        ![kamala harris sustainable tees presidential campaign](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/green-professional-colorful-intern-photos-linkedin-article-cover-image-website-1.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
+        [From Childless Cat Ladies to Lotus for POTUS: Kamala For President Sustainable T-Shirts are Here and they are BRAT!](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
     * [](https://www.onegreenplanet.org/lifestyle/8-ways-to-repurpose-plastic-cups-before-recycling-them/)
         
         [](https://www.onegreenplanet.org/lifestyle/8-ways-to-repurpose-plastic-cups-before-recycling-them/)[![Plastic Cup in the Mud](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQYAAAFeAQAAAABPk4wLAAAAAnRSTlMAAHaTzTgAAAAiSURBVGje7cGBAAAAAMOg+VPf4ARVAQAAAAAAAAAAAADANy58AAFSlijwAAAAAElFTkSuQmCC)
@@ -171,22 +187,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![Cowpea growing in garden](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/shutterstock-1371253304-1.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/environment/climate-resilient-foods-feeding-the-world-in-the-face-of-climate-change/)
         
         [Climate-Resilient Foods: Feeding the World in the Face of Climate Change](https://www.onegreenplanet.org/environment/climate-resilient-foods-feeding-the-world-in-the-face-of-climate-change/)
-        
-    * [](https://www.onegreenplanet.org/environment/read-these-10-books-on-sustainable-fashion-to-help-save-the-planet/)
-        
-        [](https://www.onegreenplanet.org/environment/read-these-10-books-on-sustainable-fashion-to-help-save-the-planet/)[![image concept about sustainable fashion](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![image concept about sustainable fashion](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/01/shutterstock-2037203558-e1706640781886.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/environment/read-these-10-books-on-sustainable-fashion-to-help-save-the-planet/)
-        
-        [Read These 10 Books on Sustainable Fashion to Help Save the Planet](https://www.onegreenplanet.org/environment/read-these-10-books-on-sustainable-fashion-to-help-save-the-planet/)
-        
-    * [](https://www.onegreenplanet.org/environment/3-inspiring-examples-of-climate-justice-around-the-world/)
-        
-        [](https://www.onegreenplanet.org/environment/3-inspiring-examples-of-climate-justice-around-the-world/)[![A popular image of Barbados' Prime Minister Mia Mottley](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFbAQAAAABww4PQAAAAAnRSTlMAAHaTzTgAAAAqSURBVHja7cExAQAAAMIg+6c2xT5gAAAAAAAAAAAAAAAAAAAAAAAAAEDnT/kAAXoVKxcAAAAASUVORK5CYII=)
-        
-        ![A popular image of Barbados' Prime Minister Mia Mottley](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/mia-blog-splash-image.jpg?fit=460%2C347&ssl=1)](https://www.onegreenplanet.org/environment/3-inspiring-examples-of-climate-justice-around-the-world/)
-        
-        [3 Inspiring Examples of Climate Justice Around the World](https://www.onegreenplanet.org/environment/3-inspiring-examples-of-climate-justice-around-the-world/)
         
 * [Life](https://www.onegreenplanet.org/channel/lifestyle/)
     * [](https://www.onegreenplanet.org/animalsandnature/pros-and-cons-of-adopting-a-bunny-rabbit-easter/)
@@ -244,6 +244,38 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Must-Have Plant-Based Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
+    * [](https://www.onegreenplanet.org/natural-health/guide-to-napping/)
+        
+        [](https://www.onegreenplanet.org/natural-health/guide-to-napping/)[![Sleeping Puppy](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
+        
+        ![Sleeping Puppy](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/05/395059192_3593936c50_b.jpeg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/guide-to-napping/)
+        
+        [A Quick Guide to Great Napping](https://www.onegreenplanet.org/natural-health/guide-to-napping/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/study-reveals-why-plant-oils-should-replace-butter/)
+        
+        [](https://www.onegreenplanet.org/natural-health/study-reveals-why-plant-oils-should-replace-butter/)[![olive oil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![olive oil](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2253186847-e1721232915273.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/study-reveals-why-plant-oils-should-replace-butter/)
+        
+        [Study Reveals Why Plant Oils Should Replace Butter](https://www.onegreenplanet.org/natural-health/study-reveals-why-plant-oils-should-replace-butter/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/antiviral-antibacterial-and-anti-fungal-foods/)
+        
+        [](https://www.onegreenplanet.org/natural-health/antiviral-antibacterial-and-anti-fungal-foods/)[![Turmeric golden juice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        
+        ![Turmeric golden juice](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/08/healing-turmeric-golden-juice2.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/antiviral-antibacterial-and-anti-fungal-foods/)
+        
+        [Antiviral, Antibacterial, and Anti-fungal Foods: The What, Why, and How](https://www.onegreenplanet.org/natural-health/antiviral-antibacterial-and-anti-fungal-foods/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/10-spices-that-may-cause-allergic-reactions-and-their-symptoms-alternatives-included/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-spices-that-may-cause-allergic-reactions-and-their-symptoms-alternatives-included/)[![variety of colorful spices](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEpAQAAAAA2KS8aAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAEcGRHMAAXF5J6UAAAAASUVORK5CYII=)
+        
+        ![variety of colorful spices](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/shutterstock-577601638-e1702094542530.jpg?fit=460%2C297&ssl=1)](https://www.onegreenplanet.org/natural-health/10-spices-that-may-cause-allergic-reactions-and-their-symptoms-alternatives-included/)
+        
+        [10 Spices That May Cause Allergic Reactions and Their Symptoms (Alternatives Included)](https://www.onegreenplanet.org/natural-health/10-spices-that-may-cause-allergic-reactions-and-their-symptoms-alternatives-included/)
+        
     * [](https://www.onegreenplanet.org/natural-health/reasons-egg-whites-arent-the-healthiest-choice/)
         
         [](https://www.onegreenplanet.org/natural-health/reasons-egg-whites-arent-the-healthiest-choice/)[![Eggs](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
@@ -252,39 +284,15 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [3 Reasons Egg Whites Aren’t The Healthiest Choice](https://www.onegreenplanet.org/natural-health/reasons-egg-whites-arent-the-healthiest-choice/)
         
-    * [](https://www.onegreenplanet.org/natural-health/ways-air-pollution-impacts-health/)
-        
-        [](https://www.onegreenplanet.org/natural-health/ways-air-pollution-impacts-health/)[![woman wearing mask due to air pollution](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEHAQAAAAALj0tcAAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cGBAAAAAMOg+VNf4QBVAQAAAAAAAAAAAAAAAAAAHAY8nQABFI8d/QAAAABJRU5ErkJggg==)
-        
-        ![woman wearing mask due to air pollution](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/05/shutterstock_1135103138-scaled-e1684227815132.jpg?fit=460%2C263&ssl=1)](https://www.onegreenplanet.org/natural-health/ways-air-pollution-impacts-health/)
-        
-        [10 Ways Air Pollution Impacts Health](https://www.onegreenplanet.org/natural-health/ways-air-pollution-impacts-health/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/1322037178/)
-        
-        [](https://www.onegreenplanet.org/natural-health/1322037178/)[![Herbicide Spraying](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![Herbicide Spraying](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/chjpdmf0zs9sci9pbwfnzxmvd2vic2l0zs8ymdiyltexl2zsndk4mdkzntkwnjgtaw1hz2uuanbn.webp?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/1322037178/)
-        
-        [10 Herbicides Hidden in Your Food: What They Are and the Risks of Consuming Them](https://www.onegreenplanet.org/natural-health/1322037178/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/five-plant-based-athletes-competing-in-the-summer-olympics/)
-        
-        [](https://www.onegreenplanet.org/natural-health/five-plant-based-athletes-competing-in-the-summer-olympics/)[![paris olympics](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![paris olympics](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2327849895-e1721750550366.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/five-plant-based-athletes-competing-in-the-summer-olympics/)
-        
-        [Five Plant-Based Athletes Competing in the Summer Olympics](https://www.onegreenplanet.org/natural-health/five-plant-based-athletes-competing-in-the-summer-olympics/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/6-protein-packed-legumes-and-their-health-benefits/)
-        
-        [](https://www.onegreenplanet.org/natural-health/6-protein-packed-legumes-and-their-health-benefits/)[![Lentils](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
-        
-        ![Lentils](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/11/lentils-2790516_1920-2.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/6-protein-packed-legumes-and-their-health-benefits/)
-        
-        [6 Protein-Packed Legumes and Their Health Benefits](https://www.onegreenplanet.org/natural-health/6-protein-packed-legumes-and-their-health-benefits/)
-        
 * [People](https://www.onegreenplanet.org/channel/human-interest/)
+    * [](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
+        [](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)[![kamala harris sustainable tees presidential campaign](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEDAQAAAACQHglKAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cExAQAAAMIg+6e2w25gAAAAAAAAAAAAAAAAAABAdzuxAAFBC70jAAAAAElFTkSuQmCC)
+        
+        ![kamala harris sustainable tees presidential campaign](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/green-professional-colorful-intern-photos-linkedin-article-cover-image-website-1.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
+        [From Childless Cat Ladies to Lotus for POTUS: Kamala For President Sustainable T-Shirts are Here and they are BRAT!](https://www.onegreenplanet.org/lifestyle/kamala-president-tshirts-sustainble-childless-cat-lady-lotus-potus/)
+        
     * [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)
         
         [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)[![Firefighting foam](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -325,15 +333,23 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [How Proximity to Oil and Gas Sites Are Linked to Maternal Health Risks and Childhood Leukemia](https://www.onegreenplanet.org/human-interest/how-proximity-to-oil-and-gas-sites-are-linked-to-maternal-health-risks-and-childhood-leukemia/)
         
-    * [](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
-        
-        [](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)[![photo of Louisiana coast like Isle de Jean Charles. Native group forced to relocate from Isle de Jean Charles along Louisiana coast](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![photo of Louisiana coast like Isle de Jean Charles. Native group forced to relocate from Isle de Jean Charles along Louisiana coast](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/shutterstock-1198867762-e1703654839105.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
-        
-        [Climate Change Forces Four Native Groups to Relocate](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
-        
 * [Animals](https://www.onegreenplanet.org/channel/animals/)
+    * [](https://www.onegreenplanet.org/lifestyle/how-to-deal-with-wasp-nests-without-killing-them/)
+        
+        [](https://www.onegreenplanet.org/lifestyle/how-to-deal-with-wasp-nests-without-killing-them/)[![Hornet Nest](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
+        
+        ![Hornet Nest](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/34651924814-bcd84d86f5-b.jpg?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/lifestyle/how-to-deal-with-wasp-nests-without-killing-them/)
+        
+        [How to Deal with Wasp Nests Without Killing Them](https://www.onegreenplanet.org/lifestyle/how-to-deal-with-wasp-nests-without-killing-them/)
+        
+    * [](https://www.onegreenplanet.org/animals/five-unique-cat-rescues-sanctuaries/)
+        
+        [](https://www.onegreenplanet.org/animals/five-unique-cat-rescues-sanctuaries/)[![cats](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![cats](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2232481537-e1721943176644.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/five-unique-cat-rescues-sanctuaries/)
+        
+        [Five Unique Cat Rescues & Sanctuaries](https://www.onegreenplanet.org/animals/five-unique-cat-rescues-sanctuaries/)
+        
     * [](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)
         
         [](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)[![sad dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -366,23 +382,23 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [17 Exotic Animals People Should Avoid Consuming for Health and Public Safety Reasons](https://www.onegreenplanet.org/animals/17-exotic-animals-people-should-avoid-consuming-for-health-and-public-safety-reasons/)
         
-    * [](https://www.onegreenplanet.org/animals/five-videos-that-show-why-rodeos-are-dangerous/)
-        
-        [](https://www.onegreenplanet.org/animals/five-videos-that-show-why-rodeos-are-dangerous/)[![cowboy riding bronco at rodeo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFEAQAAAACCQzOeAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cGBAAAAAMOg+VNf4AhVAQAAAAAAAAAAAAAAAAAAAAAAwDdKrAAB2trFxwAAAABJRU5ErkJggg==)
-        
-        ![cowboy riding bronco at rodeo](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2169733903-e1720534646126.jpg?fit=460%2C324&ssl=1)](https://www.onegreenplanet.org/animals/five-videos-that-show-why-rodeos-are-dangerous/)
-        
-        [Five Videos That Show Why Rodeos are Dangerous!](https://www.onegreenplanet.org/animals/five-videos-that-show-why-rodeos-are-dangerous/)
-        
-    * [](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)
-        
-        [](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)[![sweet pitbull](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![sweet pitbull](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1868183239-e1720442787362.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)
-        
-        [Four Pitbulls That Show You Why They AREN’T an Aggressive Breed](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)
-        
 * [Video](https://www.onegreenplanet.org/channel/videos/)
+    * [](https://www.onegreenplanet.org/vegan-food/freezing-tofu-tiktok-hack-for-meaty-texture-video/)
+        
+        [](https://www.onegreenplanet.org/vegan-food/freezing-tofu-tiktok-hack-for-meaty-texture-video/)[![woman holding up frozen tofu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAAFeAQMAAAACPjnAAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAB9JREFUeNrtwTEBAAAAwiD7p7bETmAAAAAAAAAAAEDiI4wAAbdS2HAAAAAASUVORK5CYII=)
+        
+        ![woman holding up frozen tofu](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2021/09/screen-shot-2021-09-22-at-12-02-57-am.png?fit=195%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-food/freezing-tofu-tiktok-hack-for-meaty-texture-video/)
+        
+        [Freezing Tofu TikTok Hack for ‘Meaty’ Texture \[Video\]](https://www.onegreenplanet.org/vegan-food/freezing-tofu-tiktok-hack-for-meaty-texture-video/)
+        
+    * [](https://www.onegreenplanet.org/news/adorable-dog-and-duck-best-friends/)
+        
+        [](https://www.onegreenplanet.org/news/adorable-dog-and-duck-best-friends/)[![Dog and duck](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYgAAAEwAQAAAACFoduTAAAAAnRSTlMAAHaTzTgAAAAkSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAACDkO2AAAf6ysl4AAAAASUVORK5CYII=)
+        
+        ![Dog and duck](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/01/screen-shot-2019-01-09-at-9-29-24-am.png?fit=392%2C304&ssl=1)](https://www.onegreenplanet.org/news/adorable-dog-and-duck-best-friends/)
+        
+        [This Adorable Dog and Duck are Best Friends! \[Video\]](https://www.onegreenplanet.org/news/adorable-dog-and-duck-best-friends/)
+        
     * [](https://www.onegreenplanet.org/vegan-food/salad-meal-prep-tiktok-hack-video/)
         
         [](https://www.onegreenplanet.org/vegan-food/salad-meal-prep-tiktok-hack-video/)[![Girl holding a salad doing a thumbs up](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAAFeAQMAAAACPjnAAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAB9JREFUeNrtwTEBAAAAwiD7p7bETmAAAAAAAAAAAEDiI4wAAbdS2HAAAAAASUVORK5CYII=)
@@ -414,22 +430,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![Vegan bacon with text on image](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2021/09/screen-shot-2021-09-24-at-10-50-32-pm.png?fit=196%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-food/gordon-ramseys-vegan-bacon-recipe-video/)
         
         [Gordon Ramsay’s Vegan Bacon Recipe \[Video\]](https://www.onegreenplanet.org/vegan-food/gordon-ramseys-vegan-bacon-recipe-video/)
-        
-    * [](https://www.onegreenplanet.org/news/rescued-cats-eating-corn/)
-        
-        [](https://www.onegreenplanet.org/news/rescued-cats-eating-corn/)[![Bats eating corn on the cob](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
-        
-        ![Bats eating corn on the cob](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/07/screen-shot-2017-07-25-at-10-02-33-am.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/news/rescued-cats-eating-corn/)
-        
-        [Watching These Rescued Bats Share Corn on the Cob Just Made Our Day \[Video\]](https://www.onegreenplanet.org/news/rescued-cats-eating-corn/)
-        
-    * [](https://www.onegreenplanet.org/news/abandoned-dog-finds-forever-home-at-bed-and-breakfast-video/)
-        
-        [](https://www.onegreenplanet.org/news/abandoned-dog-finds-forever-home-at-bed-and-breakfast-video/)[![Abandoned dog with a car driving away](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAElAQAAAABB6+9hAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cGBAAAAAICg/akXqQIAAAAAAAAAAAAAAAAAAAAABkOHAAGo6yJFAAAAAElFTkSuQmCC)
-        
-        ![Abandoned dog with a car driving away](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2021/09/shutterstock_1430296433-scaled-e1663267313871.jpg?fit=460%2C293&ssl=1)](https://www.onegreenplanet.org/news/abandoned-dog-finds-forever-home-at-bed-and-breakfast-video/)
-        
-        [Abandoned Dog Finds Forever Home at Bed and Breakfast \[Video\]](https://www.onegreenplanet.org/news/abandoned-dog-finds-forever-home-at-bed-and-breakfast-video/)
         
 * [About](javascript:void(0);)
     * [Support Us](https://www.onegreenplanet.org/donate-page/)
@@ -534,13 +534,13 @@ No products in the cart.
     * [ ] Life
     * [ ] Mental Health & Wellness
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
@@ -584,17 +584,17 @@ No products in the cart.
         
         [The Secret to Making the Crispiest Tofu for All Your Dishes](https://www.onegreenplanet.org/vegan-food/the-secret-to-making-the-crispiest-tofu-for-all-your-dishes/)
         
+    * ![Enchilada Lasagna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAIAAQAAAAAdjTaXAAAAAnRSTlMAAHaTzTgAAABHSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvgbCAAABqCxAvgAAAABJRU5ErkJggg==)
+        
+        ![Enchilada Lasagna](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/03/img_3903-768x512.jpg?fit=460%2C288&ssl=1)
+        
+        [Enchilada Lasagna \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/enchilada-lasagna-vegan-gluten-free/)
+        
     * ![Meaty Beet Burger With Cashew Cheese [Vegan, Gluten-Free]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Meaty Beet Burger With Cashew Cheese [Vegan, Gluten-Free]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2016/06/meaty-beet-burger.jpg?fit=460%2C288&ssl=1)
         
         [25 Epic Plant-Based Burger Recipes to Make for 4th of July](https://www.onegreenplanet.org/vegan-food/impossible-plant-based-burger-recipes/)
-        
-    * ![Pecan Pie Bliss Balls [Vegan]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Pecan Pie Bliss Balls [Vegan]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/11/Pecan-Pie-Bliss-Balls-Vegan.jpg?fit=460%2C306&ssl=1)
-        
-        [Pecan Pie Bliss Balls \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/pecan-pie-bliss-balls/)
         
 * [Products](javascript:void(0);)
     
@@ -662,6 +662,12 @@ No products in the cart.
     
     [The Secret to Making the Crispiest Tofu for All Your Dishes](https://www.onegreenplanet.org/vegan-food/the-secret-to-making-the-crispiest-tofu-for-all-your-dishes/)
     
+* ![Enchilada Lasagna](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAIAAQAAAAAdjTaXAAAAAnRSTlMAAHaTzTgAAABHSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvgbCAAABqCxAvgAAAABJRU5ErkJggg==)
+    
+    ![Enchilada Lasagna](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2017/03/img_3903-768x512.jpg?fit=460%2C288&ssl=1)
+    
+    [Enchilada Lasagna \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/enchilada-lasagna-vegan-gluten-free/)
+    
 * ![Meaty Beet Burger With Cashew Cheese [Vegan, Gluten-Free]](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Meaty Beet Burger With Cashew Cheese [Vegan, Gluten-Free]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2016/06/meaty-beet-burger.jpg?fit=460%2C288&ssl=1)
@@ -673,12 +679,6 @@ No products in the cart.
     ![Pecan Pie Bliss Balls [Vegan]](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/11/Pecan-Pie-Bliss-Balls-Vegan.jpg?fit=460%2C306&ssl=1)
     
     [Pecan Pie Bliss Balls \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/pecan-pie-bliss-balls/)
-    
-* ![Homemade Unsweetened Coconut Milk](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Homemade Unsweetened Coconut Milk](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/12/unsweetened.jpg?fit=460%2C288&ssl=1)
-    
-    [5 Side Effects of Consuming Too Much Dairy Protein](https://www.onegreenplanet.org/natural-health/side-effects-of-consuming-too-much-dairy-protein/)
     
 * ![Empty Spice Jars](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -731,13 +731,13 @@ No products in the cart.
     * [ ] Life
     * [ ] Mental Health & Wellness
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
