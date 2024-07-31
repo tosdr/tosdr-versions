@@ -10,7 +10,7 @@
 * [Contact](https://maxaccess.io/contact/)
 * [Tutorials](https://maxaccess.io/tutorials/)
 * [FAQ](https://maxaccess.io/faq/)
-* [Accessibility Regulations](https://maxaccess.io/accessibility/)
+* [Web Accessibility Regulations](https://maxaccess.io/accessibility/)
 * [Competition](https://maxaccess.io/competition/)
 * [Story & Vision](https://maxaccess.io/story-vision/)
 * [Setup Instructions](https://maxaccess.io/setup/)
@@ -20,7 +20,7 @@ Website Terms of Use
 
 **Acceptance of the Website Terms of Use**
 
-These terms of use are entered into by and between You and Limelight Department, Inc. DBA Online ADA (“Company”, “we” or “us”). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these “Terms of Use”), govern your access to and use of (a) https://onlineada.com and/or (b) https://adaplugin.com and/or (c) https://adatoolbar.com and/or (d) https://maxaccess.io, including any content, functionality and services offered on or through such websites, whether as a guest or a registered user. As used herein, “Website” shall refer to each of the aforementioned websites, or any combination of them. Please read the Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use, our privacy policy found at https://maxaccess.io/privacy (the “Privacy Policy”). If you do not want to agree to or accept these Terms of Use, the Privacy Policy, or the Earnings Disclaimer, you must not access or use the Website.
+These terms of use are entered into by and between You and Ability, Inc. (“Company”, “we” or “us”). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these “Terms of Use”), govern your access to and use of (a) https://onlineada.com and/or (b) https://adaplugin.com and/or (c) https://maxaccess.io, including any content, functionality and services offered on or through such websites, whether as a guest or a registered user. As used herein, “Website” shall refer to each of the aforementioned websites, or any combination of them. Please read the Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use, our privacy policy found at https://maxaccess.io/privacy (the “Privacy Policy”). If you do not want to agree to or accept these Terms of Use, the Privacy Policy, or the Earnings Disclaimer, you must not access or use the Website.
 
 The Website is only offered and available to users who are 18 or older and fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service. If you do not meet all of the foregoing requirements, you must not access or use any Website.
 
@@ -174,7 +174,7 @@ The Terms of Service and the other documents specifically incorporated herein co
 
 **Contacting Us**
 
-If you need to contact us, please use the website [https://maxaccess.io/contact](https://maxaccess.io/contact), or send us a letter at: 207 E 5th Ave, Suite 240 Eugene, Oregon 97401.
+If you need to contact us, please use the website [https://maxaccess.io/contact/](https://maxaccess.io/contact), or send us a letter at: 207 E 5th Ave, Suite 240 Eugene, Oregon 97401.
 
 * [Sign Up for Free](https://maxaccess.io/free/)
 * [Demo](https://maxaccess.io/demo/)
@@ -186,7 +186,7 @@ If you need to contact us, please use the website [https://maxaccess.io/contact
 * [Story & Vision](https://maxaccess.io/story-vision/)
 * [Tutorials](https://maxaccess.io/tutorials/)
 * [FAQ](https://maxaccess.io/faq/)
-* [Accessibility Regulations](https://maxaccess.io/accessibility/)
+* [Web Accessibility Regulations](https://maxaccess.io/accessibility/)
 * [Competition](https://maxaccess.io/competition/)
 * [My Account](https://maxaccess.io/login)
 * [Setup Instructions](https://maxaccess.io/setup/)
@@ -197,7 +197,6 @@ If you need to contact us, please use the website [https://maxaccess.io/contact
 * [Contact](https://maxaccess.io/contact/)
 * [Terms](https://maxaccess.io/terms/)
 * [License](https://maxaccess.io/license/)
-* [Privacy](https://maxaccess.io/privacy/)
 * [Disclaimer](https://maxaccess.io/disclaimer/)
 * [Affiliates](https://maxaccess.io/affiliates/)
 * [Accessibility Options](#maxaccess)
