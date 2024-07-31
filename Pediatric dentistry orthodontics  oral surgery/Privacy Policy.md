@@ -4,11 +4,11 @@
 
 [722 S. President St. Wheaton, IL 60189](https://g.page/dpdsmiles?share)
 
-[Book Now](https://www.dpdsmiles.com/appointments/)
+[Book Now](https://www.dpdsmiles.com/appointments/ "Click Here")
 
-[Appointments](https://www.dpdsmiles.com/appointments/)
+[Appointments](https://www.dpdsmiles.com/appointments/ "Click Here")
 
-[(630) 469-7696](tel:+1-630-469-7696)
+[(630) 469-7696](tel:+1-630-469-7696 "Click Here")
 
 [![DPD Smiles - Pediatric Dentistry, Orthodontics & Oral Surgery](https://www.dpdsmiles.com/wp-content/uploads/2020/04/dpd-smiles-pediatrics-orthodontics-oral-surgery.png "DPD Smiles - Pediatric Dentistry, Orthodontics & Oral Surgery")](https://www.dpdsmiles.com/)
 
@@ -224,7 +224,7 @@
     * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
     * [Request for School Form](https://www.dpdsmiles.com/request-for-school-form/)
 
-[Book Online](https://www.dpdsmiles.com/appointments/)
+[Book Online](https://www.dpdsmiles.com/appointments/ "Click Here")
 
 Privacy Policy
 ==============
@@ -313,12 +313,12 @@ Thur: 8:30 am - 4:30 pm
 
 Fri - Sat: By Appt. Only
 
-[Driving Directions](https://g.page/dpdsmiles?share)
+[Driving Directions](https://g.page/dpdsmiles?share "Click Here")
 
 Copyright © 2024 DPD Smiles. Powered by [Elevate DDS](https://www.elevatedds.com/).
 
-[Locations](https://www.dpdsmiles.com/locations/)
+[Locations](https://www.dpdsmiles.com/locations/ "Click Here")
 
-[(630) 469-7696](tel:+16304697696)
+[(630) 469-7696](tel:+16304697696 "Click Here")
 
-[Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
+[Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4 "Click Here")
