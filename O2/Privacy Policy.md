@@ -15,11 +15,6 @@
 * [Search](https://www.o2.co.uk/searchresult)
 * [Basket](https://www.o2.co.uk/shop/basket)
 
-* [Home](https://www.o2.co.uk/)
-* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
-* Privacy Policy
-    
-
 Privacy Policy
 ==============
 
@@ -416,27 +411,6 @@ If you want to know more about how we use your information or to raise any queri
 
 Publication Date: 29 June 2022
 
-Related links
--------------
-
-* [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
-* Privacy Policy
-    
-* [Ofcom Sales and Marketing Obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
-* [Website Terms of Use](https://www.o2.co.uk/termsandconditions/website-terms-of-use)
-* [Online shop purchasing terms](https://www.o2.co.uk/termsandconditions/shop-purchasing-terms)
-* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
-* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
-* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
-* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
-* [Business](https://www.o2.co.uk/termsandconditions/business)
-* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
-* [Archive](https://www.o2.co.uk/termsandconditions/archive)
-
-* * *
-
-* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
-
 * [Find a store](https://stores.o2.co.uk/)
 * [Check our network](https://www.o2.co.uk/coveragechecker)
 * [Sign in to My O2](https://accounts.o2.co.uk/auth)
@@ -497,3 +471,29 @@ Shop
 ©2024 Telefonica UK Limited
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
+
+* [Home](https://www.o2.co.uk/)
+* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
+* Privacy Policy
+    
+
+Related links
+-------------
+
+* [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
+* Privacy Policy
+    
+* [Ofcom Sales and Marketing Obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
+* [Website Terms of Use](https://www.o2.co.uk/termsandconditions/website-terms-of-use)
+* [Online shop purchasing terms](https://www.o2.co.uk/termsandconditions/shop-purchasing-terms)
+* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
+* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
+* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
+* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
+* [Business](https://www.o2.co.uk/termsandconditions/business)
+* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
+* [Archive](https://www.o2.co.uk/termsandconditions/archive)
+
+* * *
+
+* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
