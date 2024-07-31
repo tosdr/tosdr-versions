@@ -4,8 +4,8 @@ Menu [Resident's Corner](https://www.metropolitanparkapts.com/apartments/wa/seat
 * [Apply](https://www.metropolitanparkapts.com/apartments/wa/seattle/apply)
 * [Amenities](https://www.metropolitanparkapts.com/apartments/wa/seattle/amenities)
     * [Amenities](https://www.metropolitanparkapts.com/apartments/wa/seattle/amenities)
-    * [Pet Friendly](https://www.metropolitanparkapts.com/apartments/wa/seattle/pet-friendly)
     * [Reviews](https://www.metropolitanparkapts.com/apartments/wa/seattle/reviews)
+    * [Pet Friendly](https://www.metropolitanparkapts.com/apartments/wa/seattle/pet-friendly)
 * [Neighborhood](https://www.metropolitanparkapts.com/apartments/wa/seattle/neighborhood)
 * [Photo Gallery](https://www.metropolitanparkapts.com/apartments/wa/seattle/photo-gallery)
 * [Map & Directions](https://www.metropolitanparkapts.com/apartments/wa/seattle/map-directions)
@@ -117,7 +117,7 @@ Email: privacyadmin@amcllc.net 
 Toll-Free Phone Number: 1 (888) 768-1711  
 Website: [www.amcllc.net](https://www.amcllc.net/)
 
-This Privacy Policy was last updated: **2024-07-23 08:19:50 -0700**
+This Privacy Policy was last updated: **2024-07-30 01:45:40 -0700**
 
 This Privacy Policy is effective as of: **2020-02-25 13:21:36 -0800**
 
