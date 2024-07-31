@@ -1,5 +1,3 @@
-×
-
 [![Newsweek logo](https://g.newsweek.com/www/images/newsweek-desktop-tablet.svg)](https://www.newsweek.com/)
 
 * [U.S.](https://www.newsweek.com/us)
@@ -16,14 +14,14 @@
 * [Sports](https://www.newsweek.com/sports)[Podcasts](https://www.newsweek.com/podcasts)[Better Planet](https://www.newsweek.com/better-planet)[Vault](https://www.newsweek.com/vault/)[Mightier](https://www.newsweek.com/mightier)[Autos](https://www.newsweek.com/autos)[Newsletters](https://www.newsweek.com/preference-center)[Unconventional](https://www.newsweek.com/unconventional/naveedjamali)[Vantage](https://www.newsweek.com/topic/vantage)[Experts](https://www.newsweek.com/experts)[Voices](https://www.newsweek.com/voices)
     
 
-* [Subscribe for $1](https://subscribe.newsweek.com/product/2 "Subscribe to our service")
+* [Subscribe for $1](https://www.newsweek.com/subscribe "Subscribe to our service")
 * Login
 
 ×
 
    
 
-[Subscribe for $1](https://subscribe.newsweek.com/product/2 "Subscribe to our service")Login
+[Subscribe for $1](https://www.newsweek.com/subscribe "Subscribe to our service")Login
 
 * [U.S.](https://www.newsweek.com/us)
 * [World](https://www.newsweek.com/world)
@@ -69,6 +67,7 @@
 * [Fairness Meter](https://www.newsweek.com/fairness-meter)
 * [Fairness Meter (Israeli-Palestinian)](https://www.newsweek.com/fairness-meter-israeli-palestinian)
 * [Delete Account (Newsweek App)](https://www.newsweek.com/delete-account)
+* [Types of Work (The Trust Project)](https://www.newsweek.com/types-work-trust-project)
 
 Newsweek
 
@@ -127,7 +126,7 @@ PREMIUM
 * Comment on articles
 * Newsweek app updates on-the-go
 
-[FROM $9.99](https://subscribe.newsweek.com/product/1)
+[FROM $9.99](https://www.newsweek.com/subscribe)
 
 DIGITAL+
 
@@ -136,7 +135,7 @@ DIGITAL+
 * Comment on articles
 * Newsweek app updates on-the-go
 
-[FROM $1](https://subscribe.newsweek.com/product/2)
+[FROM $1](https://www.newsweek.com/subscribe)
 
 NEWSLETTER
 
@@ -163,7 +162,7 @@ You may unsubscribe at any time.
 
 * * *
 
-[Digital+ Monthly (Ad Free Trial)$1.00](https://subscribe.newsweek.com/product/2 "Subscription Digital+ Monthly (Ad Free Trial)") [Digital+ Yearly$49.00](https://subscribe.newsweek.com/product/2 "Subscription Digital+ Yearly") [Premium Monthly$9.99](https://subscribe.newsweek.com/product/1 "Subscription Premium Monthly") [Premium Yearly$99](https://subscribe.newsweek.com/product/1 "Subscription Premium Yearly")
+[Digital+ Monthly (Ad Free Trial) $1.00](https://www.newsweek.com/subscribe "Subscription Digital+ Monthly (Ad Free Trial)") [Digital+ Yearly $49.00](https://www.newsweek.com/subscribe "Subscription Digital+ Yearly") [Premium Monthly $9.99](https://www.newsweek.com/subscribe "Subscription Premium Monthly") [Premium Yearly $99](https://www.newsweek.com/subscribe "Subscription Premium Yearly")
 
 * * *
 
