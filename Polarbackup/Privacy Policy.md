@@ -310,7 +310,7 @@ The world's most affordable and powerful cloud backup solution. Protect and arch
 
 * [About Us](https://www.polarbackup.com/about-us)
 * [Our Clients](https://polarbackup.com/our-clients/)
-* [Blog](https://medium.com/@polarbackup)
+* [Blog](https://www.polarbackup.com/blog/)
 * [Affiliates](https://www.polarbackup.com/join-polarbackup/)
 
 ##### Products
