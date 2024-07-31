@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [A new algae-based menstrual pad could stop leaks](https://www.sciencenews.org/article/algae-menstrual-period-pad-stop-leaks)
+            ### [Some ‘forever chemicals’ may be absorbed through our skin](https://www.sciencenews.org/article/forever-chemicals-pfas-skin)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 26, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Sepsis tests take days, putting patients at risk. A new method may cut wait time](https://www.sciencenews.org/article/new-sepsis-test-cut-result-wait-time)
-            
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 24, 2024
+            By [Abdullahi Tsanni](https://www.sciencenews.org/author/abdullahi-tsanni "Posts by Abdullahi Tsanni")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
+            ### [Stopping cachexia at its source could reverse wasting from cancer](https://www.sciencenews.org/article/stop-cachexia-reverse-wasting-cancer)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 23, 2024
+            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")July 30, 2024
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Getting drugs into the brain is hard. Maybe a parasite can do the job](https://www.sciencenews.org/article/toxoplasma-drugs-brain-parasite)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 29, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [Komodo dragon teeth get their strength from an iron coat](https://www.sciencenews.org/article/komodo-dragon-teeth-iron-dinosaur)
+            ### [Static electricity may help butterflies and moths gather pollen on the fly](https://www.sciencenews.org/article/static-electricity-pollination)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 26, 2024
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")10 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
+            ### [Getting drugs into the brain is hard. Maybe a parasite can do the job](https://www.sciencenews.org/article/toxoplasma-drugs-brain-parasite)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 23, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 29, 2024
             
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen)
+            ### [Komodo dragon teeth get their strength from an iron coat](https://www.sciencenews.org/article/komodo-dragon-teeth-iron-dinosaur)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")July 22, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 26, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,30 +138,36 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen)
+            ### [Some ‘forever chemicals’ may be absorbed through our skin](https://www.sciencenews.org/article/forever-chemicals-pfas-skin)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")July 22, 2024
+            By [Abdullahi Tsanni](https://www.sciencenews.org/author/abdullahi-tsanni "Posts by Abdullahi Tsanni")6 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [_Twisters_ asks if you can 'tame' a tornado. We have the answer](https://www.sciencenews.org/article/twisters-movie-tame-tornado-fire)
+            ### [Earth’s jet stream helps create the seeds of clouds](https://www.sciencenews.org/article/earth-jet-stream-help-create-seed-cloud)
             
-            By [Abby Wallace](https://www.sciencenews.org/author/abby-wallace "Posts by Abby Wallace")July 19, 2024
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")July 30, 2024
             
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [Can bioluminescent ‘milky seas’ be predicted?](https://www.sciencenews.org/article/bioluminescent-milky-seas-predicted)
+            ### [Earth keeps breaking global heat records](https://www.sciencenews.org/article/earth-global-heat-records-climate)
             
-            By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")July 30, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Paper cut physics pinpoints the most hazardous types of paper](https://www.sciencenews.org/article/paper-cut-physics)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
+            
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [Dark matter experiments get a first peek at the ‘neutrino fog’](https://www.sciencenews.org/article/neutrino-fog-dark-matter-experiments) 
             
@@ -172,12 +178,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A new element on the periodic table might be within reach](https://www.sciencenews.org/article/new-element-120-periodic-table) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 23, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [Can light spark superconductivity? A new study reignites debate](https://www.sciencenews.org/article/light-superconductivity-cuprates)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 19, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
