@@ -199,14 +199,6 @@ Action related nav
 * [Clear Bag Policy](https://www.nfl.com/legal/clear-bag-policy "Clear Bag Policy")
 * [Vulnerability Disclosure Program](https://www.nfl.com/legal/responsible-disclosure "Vulnerability Disclosure Program")
 
-BREAKING NEWS
-
-LIVE: Back Together Weekend on NFL Network via NFL+!
-
-Keep up with the latest news from training camps.
-
-[More](https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-july-26)
-
 Terms and Conditions | NFL.com
 ==============================
 
