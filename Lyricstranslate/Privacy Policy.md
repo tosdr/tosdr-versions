@@ -106,85 +106,83 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![alain valette](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/alain-valette "alain valette")
-
-New song
-
-[Zigi Binor - בין גלים על התורן](https://lyricstranslate.com/en/zigi-binor-byn-glym-l-htvrn-lyrics)
-
-Hebrew
-
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
-
-New song
-
-[Richard Thompson - King Of Bohemia](https://lyricstranslate.com/en/richard-thompson-king-bohemia-lyrics)
-
-English
-
-[![onyxgaze](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624887-1722009583.jpg)](https://lyricstranslate.com/en/translator/onyxgaze "onyxgaze")
+[![RadixIce](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1179431-1682108942.jpg)](https://lyricstranslate.com/en/translator/radixice "RadixIce")
 
 New translation
 
-[Alcest - Autre Temps](https://lyricstranslate.com/en/alcest-autre-temps-romanian)
+[Armen Darbinyan - Ով Սիրուն Սիրուն (Ov Sirun Sirun)](https://lyricstranslate.com/en/armen-darbinyan-ov-sirown-sirown-ov-siru-english)
 
-French → Romanian
+Armenian → English
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Darkness Dragon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1385415-1528677044.png)](https://lyricstranslate.com/en/translator/darkness-dragon "Darkness Dragon")
 
-New song
+New transcription request
 
-[Richard Thompson - Shane And Dixie](https://lyricstranslate.com/en/richard-thompson-shane-and-dixie-lyrics)
+[Pokémon (ost) - Pokémon Theme (Latvian)](https://lyricstranslate.com/en/pok%C3%A9mon-ost-pok%C3%A9mon-theme-latvian)
 
-English
+Latvian
 
-[![Ann13](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ann13 "Ann13")
-
-New song
-
-[Rita Ora - Love Die Repeat](https://lyricstranslate.com/en/rita-ora-love-die-repeat-lyrics)
-
-English
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1711973162.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Feàrnach](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585254-1689533125.jpg)](https://lyricstranslate.com/en/translator/fe%C3%A0rnach "Feàrnach")
 
 New translation
 
-[Gaspard And Lisa (OST) - Gaspard et Lisa Theme Song](https://lyricstranslate.com/en/gaspard-and-lisa-os-gaspard-et-lisa-theme-son-german)
+[DIR EN GREY - カムイ (Kamui)](https://lyricstranslate.com/en/dir-en-grey-kamui-english)
 
-French → German
+Japanese → English
 
-[![Ondagordanto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1229450-1720314349.png)](https://lyricstranslate.com/en/translator/ondagordanto "Ondagordanto")
+[![lele.azevedo](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leleazevedo "lele.azevedo")
 
-New song
+New transcription request
 
-[Mariana Popova - Замълчи, замълчи](https://lyricstranslate.com/en/mariana-popova-zamalci-zamalci-lyrics)
+[Amadou & Mariam - Fari Mandila](https://lyricstranslate.com/en/amadou-mariam-fari-mandila)
 
-Bulgarian
+Bambara
 
-[![art_mhz2003](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1061443-1679913128.jpg)](https://lyricstranslate.com/en/translator/artmhz2003 "art_mhz2003")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Postman Pat (OST) - Postman Pat Credits Russian JimJam](https://lyricstranslate.com/en/postman-pat-ost-postman-pat-credits-russi-persian)
+[Gino D'Eliso - Kajmac Calan](https://lyricstranslate.com/en/gino-deliso-kajmac-calan-english)
 
-Russian → Persian
+Italian → English
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1722360529.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
+
+New translation
+
+[Chisato Moritaka - 見たとおりよ私 (Mita tōri yo watashi)](https://lyricstranslate.com/en/chisato-moritaka-mita-tori-yo-watashi-english)
+
+Japanese → English
+
+[![citlālicue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109697-1717958665.png)](https://lyricstranslate.com/en/translator/citl%C4%81licue "citlālicue")
+
+New comment
+
+It's a literal copy of the translation in the ...  [more](https://lyricstranslate.com/en/comment/1157549#comment-1157549)
+
+[![TCG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1561228-1688645178.jpg)](https://lyricstranslate.com/en/translator/tcg "TCG")
+
+New translation
+
+[Göksel İpekçi - Aylardan Mayıs](https://lyricstranslate.com/en/goksel-ipekci-aylardan-mayis-english)
+
+Turkish → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Gino D'Eliso - Bellezza normanna](https://lyricstranslate.com/en/gino-deliso-bellezza-normanna-english)
+
+Italian → English
+
+[![Zark21](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/zark21 "Zark21")
 
 New song
 
-[Richard Thompson - Mingus Eyes](https://lyricstranslate.com/en/richard-thompson-mingus-eyes-lyrics)
+[Luis Mariano - Comme facette mammeta](https://lyricstranslate.com/en/luis-mariano-comme-facette-mammeta-lyrics)
 
-English
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[M.anifest - Mind Games](https://lyricstranslate.com/en/manifest-mind-games-lyrics)
-
-English (Ghanaian Pidgin)
+Neapolitan
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
