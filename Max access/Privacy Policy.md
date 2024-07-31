@@ -10,15 +10,16 @@
 * [Contact](https://maxaccess.io/contact/)
 * [Tutorials](https://maxaccess.io/tutorials/)
 * [FAQ](https://maxaccess.io/faq/)
-* [Accessibility Regulations](https://maxaccess.io/accessibility/)
+* [Web Accessibility Regulations](https://maxaccess.io/accessibility/)
 * [Competition](https://maxaccess.io/competition/)
 * [Story & Vision](https://maxaccess.io/story-vision/)
 * [Setup Instructions](https://maxaccess.io/setup/)
 * [My Account](https://maxaccess.io/login)
 
-Privacy Policy
+**PRIVACY POLICY**
+==================
 
-Limelight Department, Inc. DBA Online ADA (“Company” or “We”) respects your privacy and is committed to protecting it through compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit (a) https://onlineada.com and/or (b) https://adaplugin.com and/or (c) https://adatoolbar.com and/or (d) https://maxaccess.io (including any content, functionality and services offered on or through such websites, whether as a guest or a registered user), and our practices for collecting, using, maintaining, protecting and disclosing that information. As used herein, “Website” shall refer to each of the aforementioned websites, or any combination of them.
+\[Client Site\] (“Company” or “We”) respects your privacy and is committed to protecting it through this compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit (a) \[Client Site\] (including any content, functionality and services offered on or through such websites, whether as a guest or a registered user), and our practices for collecting, using, maintaining, protecting and disclosing that information. As used herein, “Website” shall refer to each of the aforementioned websites, or any combination of them.
 
 This Privacy Policy applies to information we collect on the Website or in e-mail, text and other electronic messages between you and this Website. It does not apply to information collected by (a) us offline or through any other means, including on any other website operated by Company or any third party; or (b) any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
@@ -28,13 +29,13 @@ Please read this policy carefully (before using the Website or submitting any pe
 
 We collect several types of information from and about users of our Website, including information (a) by which you may be personally identified, such as name, postal address, e-mail address, telephone number, credit card information (if voluntarily submitted by our visitors), social security number, or any other identifier by which you may be contacted online or offline (“personal information”); or (b) about your internet connection, the equipment you use to access our Website and usage details. We collect this information: (a) directly from you when you provide it to us, or (b) automatically as you navigate through the Website (which may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies); and (c) from third parties, for example, our business partners.
 
-**Information You Provide to Us**
+**Information You Provide to Us.**
 
 The information we collect on or through our Website may include (a) information that you provide by filling in forms on our Website, including information provided at the time of registering to use our Website, reporting problems with our Website, subscribing to our service, posting material, or requesting further services; (b) records and copies of your correspondence (including e-mail addresses), if you contact us; (c) your responses to surveys that we might ask you to complete for research purposes; (d) details of transactions you carry out through our Website and of the fulfillment of your orders, including financial information you may be required to provide before placing an order through our Website; and (e) your search queries on the Website.
 
 You also may provide information to be published or displayed (hereinafter, “posted“) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-**Information We Collect Through Automatic Data Collection Technologies**
+**Information We Collect Through Automatic Data Collection Technologies.**
 
 We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better.
 
@@ -84,11 +85,11 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 **Accessing and Correcting Your Information**
 
-You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail at [\[email protected\]](https://maxaccess.io/cdn-cgi/l/email-protection) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail at \[Client Site email\] to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our “Terms of Service” located at https://maxaccess.io/terms
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our “Terms of Use” located at \[Client Site/terms-page\]
 
-**Your California Privacy Rights**
+Your California Privacy Rights
 
 If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes.
 
@@ -96,20 +97,17 @@ Alternatively, the law provides that if a company has a Privacy Policy that give
 
 This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
-If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us via regular mail at:
+If you are a California resident and want to request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Please send an email to the Privacy Administrator at \[Client Site email\], or you may contact us via regular mail at:
 
-Online ADA  
-207 E 5th Ave  
-Suite 240  
-Eugene, Oregon 97401
+\[Client Site mailing address\]
 
 All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. Please include your zip code for our own recordkeeping.
 
 We do not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-**Children Under the Age of 18**
+**Children Under the Age of 13**
 
-Our Website is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, contact us.
+Our Website is not intended for children under 18 years of age. No one under age 18 may provide any information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please submit a support ticket at \[Client Site/support-page\] or email us at \[Client Site email\].
 
 **Commitment to Data Security**
 
@@ -123,9 +121,9 @@ Unfortunately, the transmission of information via the internet is not completel
 
 It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
 
-**Contacting Us**
+Contacting Us
 
-If you need to contact us, use our webform on our contact page, or send us a letter at: 207 E 5th Ave, Suite 240 Eugene, Oregon 97401
+If you need to contact us, you can submit a support ticket at \[Client Site/support-page\], email us at \[Client Site email\] or send us a letter at: \[Client Site mailing address\]
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
 
@@ -139,7 +137,7 @@ We strive to provide excellent products, along with equally excellent customer s
 * [Story & Vision](https://maxaccess.io/story-vision/)
 * [Tutorials](https://maxaccess.io/tutorials/)
 * [FAQ](https://maxaccess.io/faq/)
-* [Accessibility Regulations](https://maxaccess.io/accessibility/)
+* [Web Accessibility Regulations](https://maxaccess.io/accessibility/)
 * [Competition](https://maxaccess.io/competition/)
 * [My Account](https://maxaccess.io/login)
 * [Setup Instructions](https://maxaccess.io/setup/)
@@ -150,7 +148,6 @@ We strive to provide excellent products, along with equally excellent customer s
 * [Contact](https://maxaccess.io/contact/)
 * [Terms](https://maxaccess.io/terms/)
 * [License](https://maxaccess.io/license/)
-* [Privacy](https://maxaccess.io/privacy/)
 * [Disclaimer](https://maxaccess.io/disclaimer/)
 * [Affiliates](https://maxaccess.io/affiliates/)
 * [Accessibility Options](#maxaccess)
@@ -159,7 +156,5 @@ We strive to provide excellent products, along with equally excellent customer s
 
 Web Accessibility with Max Access  
 Copyright ©2024 Ability, Inc.
-
-                                  
 
 ![](https://px.ads.linkedin.com/collect/?pid=2074953&fmt=gif)
