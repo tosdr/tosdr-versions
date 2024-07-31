@@ -185,7 +185,7 @@ Bei notwendigen Cookies liegt in diesen Zwecken auch unser berechtigtes Interess
 
 Die Speicherung von notwendigen Cookies ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-Die Einwilligungen für alle weiteren Cookies können jederzeit über die [Einstellungen des Consent-Tools](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung) widerrufen werden.
+Die Einwilligungen für alle weiteren Cookies können jederzeit über die [Einstellungen des Consent-Tools](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung/cookies) widerrufen werden.
 
 #### 5\. Detaillierte Informationen zu den einzelnen Cookies
 
