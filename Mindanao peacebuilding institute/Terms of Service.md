@@ -48,7 +48,7 @@
             
             * [VPBT FAQs](https://www.mpiasia.net/programs/training/online-courses/vptp-faqs.html)
             * [MPI 2024 VPBT Document Uploader](https://www.mpiasia.net/programs/training/online-courses/document-uploader.html)
-            * [MPI 2024 VPBT Payment Information](https://www.mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
+            * [MPI 2024 VPBT Payment Information](https://www.mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
             
         * [Grassroots Peacebuilding Mentors Training Program](https://www.mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://www.mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
@@ -287,7 +287,7 @@ These Terms shall be governed by, and construed in accordance with, the laws of 
             * [General Information](https://www.mpiasia.net/programs/training/online-courses/general-information.html)
             * [VPBT FAQs](https://www.mpiasia.net/programs/training/online-courses/vptp-faqs.html)
             * [MPI 2024 VPBT Document Uploader](https://www.mpiasia.net/programs/training/online-courses/document-uploader.html)
-            * [MPI 2024 VPBT Payment Information](https://www.mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
+            * [MPI 2024 VPBT Payment Information](https://www.mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
         * [Grassroots Peacebuilding Mentors Training Program](https://www.mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://www.mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
     * [Research, Documentation, & Learning](https://www.mpiasia.net/programs/research-documentation-and-learning.html)
