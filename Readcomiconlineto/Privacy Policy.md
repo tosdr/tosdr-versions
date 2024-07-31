@@ -18,7 +18,6 @@
 * [Mobile](https://readcomiconline.li/Mobile/SwitchToMobile)
 * [Watch Cartoon](https://kimcartoon.li/)
 * [Asian Drama](https://kissasian.lu/)
-* [Asian TV Show](https://kisstvshow.to/)
 
 Privacy Policy
 
