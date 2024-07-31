@@ -30,7 +30,7 @@ ALERT!
 
 [**\[ ORVX.PW \] - $1 SMTP-cPanels-RDPs-Combolists & More!**](https://bit.ly/orvxnulled)
 
-[**REFUNDING ALLOWED**](https://www.nulled.to/forum/203-refunding-services/)
+[**REFUNDING ALLOWED |**](https://www.nulled.to/forum/203-refunding-services/) [**TELEGRAM CHANNEL**](https://t.me/nulledtoannouncements)
 
 **Javascript Disabled Detected**
 
