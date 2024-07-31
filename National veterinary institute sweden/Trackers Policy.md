@@ -1606,6 +1606,7 @@ Gå direkt till :
     * [Fågelinfluensa konstaterad hos mjölkkor i USA](https://www.sva.se/statsepizootologen-kommenterar/fagelinfluensa-konstaterad-hos-mjolkkor-i-usa/)
     * [Utbrott av blåtunga serotyp 3 i Europa](https://www.sva.se/statsepizootologen-kommenterar/utbrott-av-blatunga-serotyp-3-i-europa/)
     * [Blåtunga rör sig norrut i Europa](https://www.sva.se/statsepizootologen-kommenterar/blatunga-ror-sig-norrut-i-europa/)
+    * [Utbrott av Peste des petits ruminants i Grekland och Rumänien](https://www.sva.se/statsepizootologen-kommenterar/utbrott-av-peste-des-petits-ruminants-i-grekland-och-rumanien/)
 * [Stoppa Kvarkan - Kampanjmaterial](https://www.sva.se/stoppa-kvarkan-kampanjmaterial/)[](#)
     * [Bilder och kampanjlogotyper](https://www.sva.se/stoppa-kvarkan-kampanjmaterial/bilder-och-kampanjlogotyper/)
     * [Filmer och föredrag](https://www.sva.se/stoppa-kvarkan-kampanjmaterial/filmer-och-foredrag/)
