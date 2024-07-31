@@ -38,7 +38,7 @@ Cheeses
 
 Clearance
 
-6 to choose from](https://nutristorefoods.com/collections/clearance)
+8 to choose from](https://nutristorefoods.com/collections/clearance)
 
 [![Bulk](//nutristorefoods.com/cdn/shop/collections/Meal_Variety_Bundle_-_Copy_300x.png?v=1656694776)
 
