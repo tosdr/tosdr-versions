@@ -21,7 +21,7 @@
 [Privacy Policy](https://www.openculture.com/privacy_policy "Permanent Link to Privacy Policy")
 ===============================================================================================
 
-Last mod­i­fied: March 6, 2023
+Last mod­i­fied: July 27, 2024
 
 Open Cul­ture, LLC (“Open Cul­ture,” “we” or “us”) knows that you care how infor­ma­tion about you is used and shared.  This Pri­va­cy Pol­i­cy explains how Open Cul­ture col­lects and uses infor­ma­tion at its web­site locat­ed at [www.openculture.com](https://www.openculture.com/) and at oth­er web­sites and mobile ser­vices pro­vid­ed by Open Cul­ture (col­lec­tive­ly the “Net­work Web­sites”).  This Pri­va­cy Pol­i­cy also explains how you can con­trol the col­lec­tion, cor­rec­tion and/or dele­tion of cer­tain types of infor­ma­tion that we col­lect.  We will not use or share your infor­ma­tion with any­one except as described in this Pri­va­cy Pol­i­cy.  This Pri­va­cy Pol­i­cy does not apply to infor­ma­tion we col­lect by oth­er means (includ­ing offline) or from oth­er sources.  Fur­ther, this Pri­va­cy Pol­i­cy does not apply to any web­sites, web­pages, blogs, appli­ca­tions, wid­gets or oth­er ser­vices oper­at­ed by any third par­ty, includ­ing our affil­i­ates, adver­tis­ers, providers and part­ners.
 
@@ -32,6 +32,8 @@ Open Cul­ture, LLC (“Open Cul­ture,” “we” or “us”) knows that you 
 In gen­er­al, Open Cul­ture does not col­lect per­son­al­ly iden­ti­fi­able infor­ma­tion on the Open Cul­ture Ser­vices, except as set forth below.  For pur­pos­es of this Pri­va­cy Pol­i­cy, “per­son­al­ly iden­ti­fi­able infor­ma­tion” is data intend­ed to be used to iden­ti­fy, con­tact or locate a per­son, includ­ing, name, address, tele­phone num­ber or e‑mail address and any oth­er infor­ma­tion (even if non-per­son­al­ly iden­ti­fi­able) pro­vid­ed in com­bi­na­tion with such per­son­al­ly iden­ti­fi­able infor­ma­tion.
 
 You may pro­vide us infor­ma­tion about your­self, such as your name or e‑mail address, when you use or post con­tent on or though the Open Cul­ture Ser­vices, includ­ing reg­is­ter­ing for the use of cer­tain fea­tures such as email RSS feeds.  If you cor­re­spond with us by email, we may retain the con­tent of your email mes­sages, your email address, and our respons­es.  We may also retain any mes­sages or oth­er con­tent you send through or post on the Open Cul­ture Ser­vices.
+
+Cit­i­zens of any coun­try that has pro­mul­gat­ed a data local­iza­tion law may not uti­lize the Open Cul­ture Ser­vices in any way, includ­ing view­ing pages on the Open Cul­ture web­site or sub­scrib­ing to the Open Cul­ture newslet­ter.
 
 The adver­tise­ments we deliv­er may offer the abil­i­ty to inter­act, includ­ing play­ing a game or view­ing a video.  The ad may also give you the oppor­tu­ni­ty to pro­vide the adver­tis­er with infor­ma­tion about your­self.  In some instances, if you choose to inter­act with an adver­tise­ment or pro­vide an adver­tis­er with infor­ma­tion about your­self, Open Cul­ture may col­lect infor­ma­tion on behalf of the adver­tis­er.  In that case, the advertiser’s pri­va­cy pol­i­cy would apply to the data col­lect­ed and we will abide by the instruc­tions giv­en to us by the adver­tis­er in our han­dling of the data.  Open Cul­ture will not asso­ciate any infor­ma­tion (non-per­son­al­ly iden­ti­fi­able or per­son­al­ly iden­ti­fi­able) we col­lect for an adver­tis­er with any oth­er infor­ma­tion we may have col­lect­ed about you through the Open Cul­ture Ser­vices.
 
@@ -519,7 +521,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1721841819&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1722420197&formid=1 "click to reload")
     
 * About Us
     --------
@@ -864,4 +866,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/78d28c8dbdf8ad41b578ac3633142e94.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/49da59d6225145196f3ce57808bc0692.gif "Cleantalk Pixel")
