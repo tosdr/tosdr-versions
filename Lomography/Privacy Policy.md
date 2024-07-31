@@ -9,6 +9,7 @@ We and our partners use technologies, such as cookies, to recognize you and show
 * [School](https://www.lomography.com/school/)
 
 * [Homes](https://www.lomography.com/homes/)
+* [Corporate](https://www.lomography.com/corporate-gifting-and-customization)
 * [About](https://www.lomography.com/about/)
 * [Login](https://account.lomography.com/login?url=https%253A%252F%252Fwww.lomography.com%252Fabout%252Fprivacy)
 * 
@@ -35,6 +36,7 @@ We and our partners use technologies, such as cookies, to recognize you and show
 * [Competitions](https://www.lomography.com/competitions)
 * [Events](https://www.lomography.com/events)
 * [School](https://www.lomography.com/school/)
+* [Corporate Gifting & Customization](https://www.lomography.com/corporate-gifting-and-customization)
 * [About](https://www.lomography.com/about)
     * [The 10 Golden Rules](https://www.lomography.com/about/the-ten-golden-rules)
     * [History](https://www.lomography.com/about/history)
@@ -43,7 +45,6 @@ We and our partners use technologies, such as cookies, to recognize you and show
     * [FAQ](https://www.lomography.com/about/faq)
     * [Terms & Conditions](https://www.lomography.com/about/terms)
     * [Contact](https://www.lomography.com/about/contact)
-    * [Gifts, Custom Editions & Corporate Purchases](https://www.lomography.com/about/custom-orders)
     * [Downloads](https://downloads.lomography.com/)
 * More
     * [Tags](https://www.lomography.com/tags)
@@ -255,13 +256,11 @@ Keep up to date with all things Lomography! Subscribe to our newsletter and be t
 
    Subscribe
 
-##### Shop Online
+##### Find our Products
 
-* [Cameras](https://shop.lomography.com/cameras?source=www-footer-about-privacy)
-* [Films](https://shop.lomography.com/films?source=www-footer-about-privacy)
-* [Lenses](https://shop.lomography.com/lenses?source=www-footer-about-privacy)
-* [Accessories](https://shop.lomography.com/accessories?source=www-footer-about-privacy)
-* [Gifts, Custom Editions & Corporate Purchases](https://www.lomography.com/about/custom-orders)
+* [Online Shop](https://shop.lomography.com/?source=www-footer-about-privacy)
+* [Corporate Gifting & Customization](https://www.lomography.com/corporate-gifting-and-customization)
+* [Store Locator](https://www.lomography.com/about/stores)
 
 ##### Browse our Photos
 
@@ -294,9 +293,7 @@ Keep up to date with all things Lomography! Subscribe to our newsletter and be t
 * [The Ten Golden Rules](https://www.lomography.com/about/the-ten-golden-rules)
 * [History](https://www.lomography.com/about/history)
 * [Events](https://www.lomography.com/events)
-* [Store Locator](https://www.lomography.com/about/stores)
 * [Work for Lomography](https://www.lomography.com/about/careers)
-* [Contact our Customerservice](https://account.lomography.com/help)
 * [Terms & Conditions](https://www.lomography.com/about/terms)
 * [Privacy Policy](https://www.lomography.com/about/privacy)
 
@@ -314,6 +311,7 @@ Keep up to date with all things Lomography! Subscribe to our newsletter and be t
 ##### Got any questions?
 
 * [Contact Us](https://www.lomography.com/about/contact)
+* [Contact our Customerservice](https://account.lomography.com/help)
 * [Frequenty Asked Questions](https://www.lomography.com/about/faq)
 
 ##### Find us elsewhere
