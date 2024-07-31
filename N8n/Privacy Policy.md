@@ -106,8 +106,8 @@ Trending templates
 
 * [Creating an API endpoint](https://n8n.io/workflows/1750-creating-an-api-endpoint/)
 * [AI agent chat](https://n8n.io/workflows/1954-ai-agent-chat/)
-* [Joining different datasets](https://n8n.io/workflows/1747-joining-different-datasets/)
 * [Scrape and summarize webpages with AI](https://n8n.io/workflows/1951-scrape-and-summarize-webpages-with-ai/)
+* [Joining different datasets](https://n8n.io/workflows/1747-joining-different-datasets/)
 * [Back Up Your n8n Workflows To Github](https://n8n.io/workflows/1534-back-up-your-n8n-workflows-to-github/)
 * [OpenAI GPT-3: Company Enrichment from website content](https://n8n.io/workflows/1862-openai-gpt-3-company-enrichment-from-website-content/)
 * [Very quick quickstart](https://n8n.io/workflows/1700-very-quick-quickstart/)
