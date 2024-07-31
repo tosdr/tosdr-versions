@@ -46,7 +46,7 @@ How you can help
 
 [Our partnerships](https://starandgarter.org/how-you-can-help/our-partnerships/)[We work in partnership with Trusts & Foundations, local businesses and groups, schools, military organisations and community groups.](https://starandgarter.org/how-you-can-help/our-partnerships/)
 
-[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)[A Gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
+[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)[A gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
 
 [Events](https://starandgarter.org/how-you-can-help/events/)[Events are a great way of raising money for the veterans we care for.](https://starandgarter.org/how-you-can-help/events/)
 
@@ -126,7 +126,7 @@ How you can help
 
 [Our partnerships](https://starandgarter.org/how-you-can-help/our-partnerships/) [We work in partnership with Trusts & Foundations, local businesses and groups, schools, military organisations and community groups.](https://starandgarter.org/how-you-can-help/our-partnerships/)
 
-[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/) [A Gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
+[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/) [A gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
 
 [Events](https://starandgarter.org/how-you-can-help/events/) [Events are a great way of raising money for the veterans we care for.](https://starandgarter.org/how-you-can-help/events/)
 
@@ -224,7 +224,7 @@ Get highlights of the most important news delivered to your email inbox
 
  Sign Up
 
-[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.png)](http://www.nationalcareforum.org.uk/)
+[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
 
 [![Armed Forces Covenant Logo](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
 
@@ -260,18 +260,6 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
-Advertisement
-
- advertisement
-
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-
-Analytics
-
- analytics
-
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-
 Performance
 
  performance
@@ -289,5 +277,17 @@ Functional
  functional
 
 Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+Advertisement
+
+ advertisement
+
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+
+Analytics
+
+ analytics
+
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
 
 Save & Accept
