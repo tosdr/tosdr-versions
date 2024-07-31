@@ -35,6 +35,7 @@ English
 
 #### Compute
 
+* [CXL](https://www.marvell.com/products/cxl.html)
 * [Data Processing Units](https://www.marvell.com/products/data-processing-units.html)
 * [Security Solutions](https://www.marvell.com/products/security-solutions.html)
 
@@ -43,8 +44,8 @@ English
 * [Automotive](https://www.marvell.com/products/automotive.html)
 * [Coherent DSP](https://www.marvell.com/products/coherent-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
-* [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
+* [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [Ethernet Controllers](https://www.marvell.com/products/ethernet-adapters-and-controllers.html)
 * [Ethernet PHYs](https://www.marvell.com/products/ethernet-phys.html)
 * [Linear Driver](https://www.marvell.com/products/linear-driver.html)
@@ -124,6 +125,7 @@ BY TYPE
 
 Compute
 
+* [CXL](https://www.marvell.com/products/cxl.html)
 * [Data Processing Units](https://www.marvell.com/products/data-processing-units.html)
 * [Security Solutions](https://www.marvell.com/products/security-solutions.html)
 
@@ -132,8 +134,8 @@ Networking
 * [Automotive](https://www.marvell.com/products/automotive.html)
 * [Coherent DSP](https://www.marvell.com/products/coherent-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
-* [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
+* [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [Ethernet Controllers](https://www.marvell.com/products/ethernet-adapters-and-controllers.html)
 * [Ethernet PHYs](https://www.marvell.com/products/ethernet-phys.html)
 * [Linear Driver](https://www.marvell.com/products/linear-driver.html)
