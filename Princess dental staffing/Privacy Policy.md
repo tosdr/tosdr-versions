@@ -29,7 +29,7 @@ Privacy Policy
 
 * * *
 
-_Last updated: July 27, 2024_
+_Last updated: July 31, 2024_
 
 Princess Dental Staffing offers various services to help its users find dental staff and coordinate dental employment opportunities in the dental community. Princess Dental Staffing’s Privacy Policy ("Privacy Policy") is designed to explain the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of [www.PrincessDentalStaffing.com](https://www.princessdentalstaffing.com/) and any web pages, mobile applications and mobile websites operated by Princess Dental Staffing (collectively, the "Site"), including those who are seeking to find dental professionals through Princess Dental Staffing ("Employers") as well as those who are looking to promote their profiles through Princess Dental Staffing ("Candidates"), and any users of any of the various services that Princess Dental Staffing or its subsidiaries provide through the Site or any other channels, including over the telephone (collectively, "Services"). Please note that certain of our subsidiaries have separate privacy policies.
 
@@ -504,7 +504,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-622504)
+Don’t have an account? [Sign up](#sign-up-847659)
 
 Sign up for an account
 ----------------------
@@ -523,7 +523,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-622504)
+Already have an account? [Sign in](#sign-in-847659)
 
 Log in to your account
 ----------------------
@@ -544,7 +544,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-326909)
+Don’t have an account? [Sign up](#sign-up-707165)
 
 Sign up for an account
 ----------------------
@@ -563,7 +563,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-326909)
+Already have an account? [Sign in](#sign-in-707165)
 
 Success
 
