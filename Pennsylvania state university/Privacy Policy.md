@@ -1,149 +1,250 @@
-[Skip to main content](#main-content)
+[Skip to main content](https://www.psu.edu/#main-content)
 
-[![Nittany Lion Shield Penn State Mark](https://www.psu.edu/psu-edu-assets/images/shared/psu-mark.svg)](https://www.psu.edu/)
+[Penn State University](https://www.psu.edu/)
 
-* [This is Penn State](https://www.psu.edu/this-is-penn-state)
+navSearch icon[Give](https://raise.psu.edu/)[Apply](https://www.psu.edu/admission)[Report A Concern](https://universityethics.psu.edu/reporting-at-penn-state)
+
+[Nittany Lion Shield Penn State Mark](https://www.psu.edu/)
+
+[![Penn State](https://images.ctfassets.net/p7x3ai5plaz1/1wVBvFkhF0ArrdaMlzLiCi/125b0659267cacef241e88b5517a51eb/logotype.svg)](https://www.psu.edu/)
+
+menu icon
+
+[Academics](https://www.psu.edu/academics)expand icon
+
+[Undergraduate](https://www.psu.edu/academics/undergraduate)* [Majors](https://www.psu.edu/academics/undergraduate/majors)
+* [Honors Programs](https://www.psu.edu/academics/undergraduate/honors-programs)
+* [Online Learning](https://www.psu.edu/academics/undergraduate/online-learning)
+
+[Graduate and Professional Studies](https://www.psu.edu/academics/graduate)* [Graduate Programs](https://bulletins.psu.edu/graduate)
+* [Penn State Law](https://pennstatelaw.psu.edu/academics)
+* [Dickinson Law](https://dickinsonlaw.psu.edu/)
+* [College of Medicine](https://med.psu.edu/education-admissions)
+
+[Online Degrees](https://www.worldcampus.psu.edu/)[Academic Colleges](https://www.psu.edu/academics/colleges)[Campus Locations](https://www.psu.edu/academics/campuses)
+
+[Global Education](https://global.psu.edu/)[Academic Calendar](https://www.registrar.psu.edu/academic-calendars)
+
+[Admission](https://www.psu.edu/admission)expand icon
+
+[Explore Penn State](https://www.psu.edu/admission/undergraduate/explore)* [Undergraduate Campuses](https://www.psu.edu/admission/undergraduate/explore/campuses)
+* [Residence Life](https://www.psu.edu/admission/undergraduate/explore/residence-life)
+* [Clubs and Organizations](https://www.psu.edu/admission/undergraduate/explore/clubs-organizations)
+* [Athletics](https://www.psu.edu/admission/undergraduate/explore/athletics-recreation)
+* [Well-Being and Safety](https://www.psu.edu/admission/undergraduate/explore/well-being-safety)
+* [Diversity and Belonging](https://www.psu.edu/admission/undergraduate/explore/diversity-belonging)
+
+[Undergraduate](https://www.psu.edu/admission/undergraduate)* [Academic Credit](https://www.psu.edu/admission/undergraduate/credit)
+* [Resources and FAQ](https://www.psu.edu/resources)
+* [How to Apply](https://www.psu.edu/admission/undergraduate/how-to-apply)
+* [Contact](https://www.psu.edu/admission/undergraduate/contact)
+* [Visit](https://www.psu.edu/admission/undergraduate/explore/visit-penn-state)
+
+[Graduate](https://www.psu.edu/admission/graduate)* [How to Apply](https://gradschool.psu.edu/admissions/how-to-apply)
+* [Programs](https://bulletins.psu.edu/graduate)
+[Continuing Education](https://www.psu.edu/admission#continuing)* [Programs](https://continuinged.psu.edu/explore-programs)
+
+[Professional Schools](https://www.psu.edu/admission#prof)* [Penn State Law](https://pennstatelaw.psu.edu/admissions)
+* [Dickinson Law](https://dickinsonlaw.psu.edu/jd-admissions)
+* [College of Medicine](https://med.psu.edu/education-admissions)
+[Online](https://www.worldcampus.psu.edu/)
+
+[Costs & Aid](https://www.psu.edu/costs-aid)expand icon
+
+[How Aid Works](https://www.psu.edu/costs-aid/how-aid-works)[Types of Aid](https://www.psu.edu/costs-aid/types-of-aid)* [Scholarships](https://www.psu.edu/costs-aid/types-of-aid/scholarships)
+* [Grants](https://www.psu.edu/costs-aid/types-of-aid/grants)
+* [Student Employment](https://www.psu.edu/costs-aid/types-of-aid/student-employment)
+* [Federal Work-Study](https://www.psu.edu/costs-aid/types-of-aid/federal-work-study)
+* [Loans](https://www.psu.edu/costs-aid/types-of-aid/loans)
+
+[Apply for Aid](https://www.psu.edu/costs-aid/apply-for-aid)* [Prospective Students](https://www.psu.edu/costs-aid/apply-for-aid/prospective-students)
+* [Current Students](https://www.psu.edu/costs-aid/apply-for-aid/current-students)
+* [Transfer Students](https://www.psu.edu/costs-aid/apply-for-aid/transfer-students)
+* [Military and Veteran Students](https://www.psu.edu/costs-aid/apply-for-aid/military-and-veteran-students)
+* [Graduate and Professional Students](https://www.psu.edu/costs-aid/apply-for-aid/graduate-professional-students)
+
+[Managing Your Aid](https://www.psu.edu/costs-aid/managing-aid)* [Understanding Your Offer](https://www.psu.edu/costs-aid/managing-aid/understanding-your-offer)
+* [Paying Your Bill](https://www.psu.edu/costs-aid/managing-aid/paying-your-bill)
+* [Why Aid is On Hold](https://www.psu.edu/costs-aid/managing-aid/why-aid-is-on-hold)
+* [Special or Unusual Circumstances](https://www.psu.edu/costs-aid/managing-aid/special-circumstances)
+* [Accepting or Declining Aid](https://www.psu.edu/costs-aid/managing-aid/accepting-or-declining-aid)
+
+[Cost of Attendance](https://www.psu.edu/costs-aid/costs-of-attendance)[Resources and FAQ](https://www.psu.edu/resources/faq)[Contact](https://www.psu.edu/costs-aid/contact)
+
+[Research](https://www.psu.edu/research)
+
+[Athletics](https://gopsusports.com/)
+
+[News](https://www.psu.edu/news)expand icon
+
+[Latest News](https://www.psu.edu/news/latest-news)[Academics](https://www.psu.edu/news/academics)[Our Research](https://www.psu.edu/news/research)[Campus Life](https://www.psu.edu/news/campus-life)
+
+[Athletics](https://www.psu.edu/news/athletics)[Administration](https://www.psu.edu/news/administration)[Arts and Entertainment](https://www.psu.edu/news/arts-and-entertainment)[College and Campus News](https://www.psu.edu/news/penn-state-college-and-campus-news)
+
+[About](https://www.psu.edu/about)expand icon
+
+[Mission and Values](https://www.psu.edu/about/mission-and-values)[History](https://www.psu.edu/about/history)* [Traditions](https://www.psu.edu/about/traditions)
+* [Nittany Lion Shrine](https://www.psu.edu/about/nittany-lion-shrine)
+
+[Facts and Rankings](https://www.psu.edu/about/facts-and-rankings)[Belonging](https://www.psu.edu/about/belonging)
+
+[Leadership](https://www.psu.edu/about/leadership)* [Board of Trustees](https://trustees.psu.edu/)
+* [President's Office](https://www.psu.edu/president)
+* [University Faculty Senate](https://senate.psu.edu/)
+[Health Care](https://www.psu.edu/healthcare)
+
+[Our Impact](https://www.psu.edu/our-impact)* [Stories of Impact](https://www.psu.edu/impact)
+
+* Academicsexpand icon
     
-    * [Mission and Values](https://www.psu.edu/this-is-penn-state/mission-and-values)
-    * [Belonging](https://www.psu.edu/this-is-penn-state/belonging)
-    * [Leadership](https://www.psu.edu/this-is-penn-state/leadership)
-    * [History](https://www.psu.edu/this-is-penn-state/history)
-    * [Facts and Rankings](https://www.psu.edu/this-is-penn-state/facts-and-rankings)
-    * [Our Impact](https://www.psu.edu/our-impact)
-    * [Health Care](https://www.psu.edu/healthcare)
-    
-    [![Advocate Penn State.](https://www.psu.edu/psu-edu-assets/images/nav-cards/nav-image-advocate.jpg)
-    
-    ### Advocate Penn State](https://www.psu.edu/advocate)
-    
-* [Academics](https://www.psu.edu/academics)
-    
-    * [Undergraduate](https://www.psu.edu/academics/undergraduate-degrees)
-    * [Graduate & Professional Schools](https://www.psu.edu/academics/graduate-degrees)
+    * [Academics](https://www.psu.edu/academics)
+    * Undergraduateexpand icon
+        
+        * [Undergraduate](https://www.psu.edu/academics/undergraduate)
+        * [Majors](https://www.psu.edu/academics/undergraduate/majors)
+        * [Honors Programs](https://www.psu.edu/academics/undergraduate/honors-programs)
+        * [Online Learning](https://www.psu.edu/academics/undergraduate/online-learning)
+        
+    * Graduate and Professional Studiesexpand icon
+        
+        * [Graduate and Professional Studies](https://www.psu.edu/academics/graduate)
+        * [Graduate Programs](https://bulletins.psu.edu/graduate)
+        * [Penn State Law](https://pennstatelaw.psu.edu/academics)
+        * [Dickinson Law](https://dickinsonlaw.psu.edu/)
+        * [College of Medicine](https://med.psu.edu/education-admissions)
+        
     * [Online Degrees](https://www.worldcampus.psu.edu/)
-    * [Global Education](https://global.psu.edu/)
     * [Academic Colleges](https://www.psu.edu/academics/colleges)
     * [Campus Locations](https://www.psu.edu/academics/campuses)
-    
-    [![Penn State rises 10 places in 2024 QS World University Rankings](https://www.psu.edu/psu-edu-assets/images/nav-cards/nav-image-academics.jpg)
-    
-    ### Penn State rises 10 places in 2024 QS World University Rankings](https://www.psu.edu/news/academics/story/penn-state-rises-10-places-2024-qs-world-university-rankings/)
-    
-* [Admission](https://www.psu.edu/admission)
-    
-    * [Undergraduate](https://www.psu.edu/admission/undergraduate)
-    * [Graduate](https://www.psu.edu/admission/graduate)
-    * [Online](https://www.worldcampus.psu.edu/)
-    * [Professional Schools](https://www.psu.edu/admission#prof)
-    * [Continuing Education](https://www.psu.edu/admission#continuing)
-    
-    [![Featured Impact: First to Inspire](https://www.psu.edu/psu-edu-assets/images/nav-cards/dhruvi-portrait.jpg)
-    
-    ### Featured Impact: First to Inspire](https://www.psu.edu/impact/story/first-to-inspire/)
-    
-* [Tuition and Aid](https://www.psu.edu/tuition-and-financial-aid)
-* [Research](https://www.psu.edu/research)
-* [Athletics](https://gopsusports.com/)
-* [News](https://www.psu.edu/news/)
-    
-    * [Latest News](https://www.psu.edu/news/latest-news/)
-    * [Academics](https://www.psu.edu/news/academics/)
-    * [Our Research](https://www.psu.edu/news/research/)
-    * [Campus Life](https://www.psu.edu/news/campus-life/)
-    * [Athletics](https://www.psu.edu/news/athletics/)
-    * [Administration](https://www.psu.edu/news/administration/)
-    * [Arts and Entertainment](https://www.psu.edu/news/arts-and-entertainment/)
-    * [College and Campus News](https://www.psu.edu/news/penn-state-college-and-campus-news/)
-    
-    [![Worlds Collide: Art history and materials science in the Yucatán.](https://www.psu.edu/psu-edu-assets/images/nav-cards/solari-portrait.jpg)
-    
-    ### Worlds Collide: Art history and materials science in the Yucatán](https://www.psu.edu/news/research/story/worlds-collide-art-history-and-materials-science-yucatan/)
-    
-
-[Hotline](https://universityethics.psu.edu/hotline) [Give](https://raise.psu.edu/?utm_source=psumain&utm_medium=referral&utm_campaign=DonateButton-MainNavigation) [Apply](https://www.psu.edu/admission)
-
-More
-
-Full site navigation menu
-
-This dialog contains the full navigation menu for www.psu.edu.
-
-[![Penn State mark](../components/img/header/psu-mark-2c.svg)](https://www.psu.edu/)
-
-Search Term 
-
-![search icon](../components/img/header/magnifying-glass.png)
-
-[Hotline](https://universityethics.psu.edu/hotline) [Give](https://raise.psu.edu/?utm_source=psumain&utm_medium=referral&utm_campaign=DonateButton-MainNavigation) [Apply](https://www.psu.edu/admission)
-
-* [This is Penn State](https://www.psu.edu/this-is-penn-state)
-    
-    * [Mission and Values](https://www.psu.edu/this-is-penn-state/mission-and-values)
-    * [Belonging](https://www.psu.edu/this-is-penn-state/belonging)
-    * [Leadership](https://www.psu.edu/this-is-penn-state/leadership)
-    * [History](https://www.psu.edu/this-is-penn-state/history)
-    * [Facts and Rankings](https://www.psu.edu/this-is-penn-state/facts-and-rankings)
-    * [Our Impact](https://www.psu.edu/our-impact)
-    * [Health Care](https://www.psu.edu/healthcare)
-    
-* [Academics](https://www.psu.edu/academics)
-    
-    * [Undergraduate](https://www.psu.edu/academics/undergraduate-degrees)
-    * [Graduate & Professional Schools](https://www.psu.edu/academics/graduate-degrees)
-    * [Online Degrees](https://www.worldcampus.psu.edu/)
     * [Global Education](https://global.psu.edu/)
-    * [Academic Colleges](https://www.psu.edu/academics/colleges)
-    * [Campus Locations](https://www.psu.edu/academics/campuses)
+    * [Academic Calendar](https://www.registrar.psu.edu/academic-calendars)
     
-* [Admission](https://www.psu.edu/admission)
+* Admissionexpand icon
     
-    * [Undergraduate](https://www.psu.edu/admission/undergraduate)
-    * [Graduate](https://www.psu.edu/admission/graduate)
+    * [Admission](https://www.psu.edu/admission)
+    * Explore Penn Stateexpand icon
+        
+        * [Explore Penn State](https://www.psu.edu/admission/undergraduate/explore)
+        * [Undergraduate Campuses](https://www.psu.edu/admission/undergraduate/explore/campuses)
+        * [Residence Life](https://www.psu.edu/admission/undergraduate/explore/residence-life)
+        * [Clubs and Organizations](https://www.psu.edu/admission/undergraduate/explore/clubs-organizations)
+        * [Athletics](https://www.psu.edu/admission/undergraduate/explore/athletics-recreation)
+        * [Well-Being and Safety](https://www.psu.edu/admission/undergraduate/explore/well-being-safety)
+        * [Diversity and Belonging](https://www.psu.edu/admission/undergraduate/explore/diversity-belonging)
+        
+    * Undergraduateexpand icon
+        
+        * [Undergraduate](https://www.psu.edu/admission/undergraduate)
+        * [Academic Credit](https://www.psu.edu/admission/undergraduate/credit)
+        * [Resources and FAQ](https://www.psu.edu/resources)
+        * [How to Apply](https://www.psu.edu/admission/undergraduate/how-to-apply)
+        * [Contact](https://www.psu.edu/admission/undergraduate/contact)
+        * [Visit](https://www.psu.edu/admission/undergraduate/explore/visit-penn-state)
+        
+    * Graduateexpand icon
+        
+        * [Graduate](https://www.psu.edu/admission/graduate)
+        * [How to Apply](https://gradschool.psu.edu/admissions/how-to-apply)
+        * [Programs](https://bulletins.psu.edu/graduate)
+        
+    * Continuing Educationexpand icon
+        
+        * [Continuing Education](https://www.psu.edu/admission#continuing)
+        * [Programs](https://continuinged.psu.edu/explore-programs)
+        
+    * Professional Schoolsexpand icon
+        
+        * [Professional Schools](https://www.psu.edu/admission#prof)
+        * [Penn State Law](https://pennstatelaw.psu.edu/admissions)
+        * [Dickinson Law](https://dickinsonlaw.psu.edu/jd-admissions)
+        * [College of Medicine](https://med.psu.edu/education-admissions)
+        
     * [Online](https://www.worldcampus.psu.edu/)
-    * [Professional Schools](https://www.psu.edu/admission#prof)
-    * [Continuing Education](https://www.psu.edu/admission#continuing)
     
-* [Tuition and Aid](https://www.psu.edu/tuition-and-financial-aid)
-* [Research](https://www.psu.edu/research)
-* [Athletics](https://gopsusports.com/)
-* [News](https://www.psu.edu/news/)
+* Costs & Aidexpand icon
     
-    * [Latest News](https://www.psu.edu/news/latest-news/)
-    * [Academics](https://www.psu.edu/news/academics/)
-    * [Our Research](https://www.psu.edu/news/research/)
-    * [Campus Life](https://www.psu.edu/news/campus-life/)
-    * [Athletics](https://www.psu.edu/news/athletics/)
-    * [Administration](https://www.psu.edu/news/administration/)
-    * [Arts and Entertainment](https://www.psu.edu/news/arts-and-entertainment/)
+    * [Costs & Aid](https://www.psu.edu/costs-aid)
+    * [How Aid Works](https://www.psu.edu/costs-aid/how-aid-works)
+    * Types of Aidexpand icon
+        
+        * [Types of Aid](https://www.psu.edu/costs-aid/types-of-aid)
+        * [Scholarships](https://www.psu.edu/costs-aid/types-of-aid/scholarships)
+        * [Grants](https://www.psu.edu/costs-aid/types-of-aid/grants)
+        * [Student Employment](https://www.psu.edu/costs-aid/types-of-aid/student-employment)
+        * [Federal Work-Study](https://www.psu.edu/costs-aid/types-of-aid/federal-work-study)
+        * [Loans](https://www.psu.edu/costs-aid/types-of-aid/loans)
+        
+    * Apply for Aidexpand icon
+        
+        * [Apply for Aid](https://www.psu.edu/costs-aid/apply-for-aid)
+        * [Prospective Students](https://www.psu.edu/costs-aid/apply-for-aid/prospective-students)
+        * [Current Students](https://www.psu.edu/costs-aid/apply-for-aid/current-students)
+        * [Transfer Students](https://www.psu.edu/costs-aid/apply-for-aid/transfer-students)
+        * [Military and Veteran Students](https://www.psu.edu/costs-aid/apply-for-aid/military-and-veteran-students)
+        * [Graduate and Professional Students](https://www.psu.edu/costs-aid/apply-for-aid/graduate-professional-students)
+        
+    * Managing Your Aidexpand icon
+        
+        * [Managing Your Aid](https://www.psu.edu/costs-aid/managing-aid)
+        * [Understanding Your Offer](https://www.psu.edu/costs-aid/managing-aid/understanding-your-offer)
+        * [Paying Your Bill](https://www.psu.edu/costs-aid/managing-aid/paying-your-bill)
+        * [Why Aid is On Hold](https://www.psu.edu/costs-aid/managing-aid/why-aid-is-on-hold)
+        * [Special or Unusual Circumstances](https://www.psu.edu/costs-aid/managing-aid/special-circumstances)
+        * [Accepting or Declining Aid](https://www.psu.edu/costs-aid/managing-aid/accepting-or-declining-aid)
+        
+    * [Cost of Attendance](https://www.psu.edu/costs-aid/costs-of-attendance)
+    * [Resources and FAQ](https://www.psu.edu/resources/faq)
+    * [Contact](https://www.psu.edu/costs-aid/contact)
+    
+* Researchexpand icon
+    
+    * [Research](https://www.psu.edu/research)
+    
+* Athleticsexpand icon
+    
+    * [Athletics](https://gopsusports.com/)
+    
+* Newsexpand icon
+    
+    * [News](https://www.psu.edu/news)
+    * [Latest News](https://www.psu.edu/news/latest-news)
+    * [Academics](https://www.psu.edu/news/academics)
+    * [Our Research](https://www.psu.edu/news/research)
+    * [Campus Life](https://www.psu.edu/news/campus-life)
+    * [Athletics](https://www.psu.edu/news/athletics)
+    * [Administration](https://www.psu.edu/news/administration)
+    * [Arts and Entertainment](https://www.psu.edu/news/arts-and-entertainment)
+    * [College and Campus News](https://www.psu.edu/news/penn-state-college-and-campus-news)
+    
+* Aboutexpand icon
+    
+    * [About](https://www.psu.edu/about)
+    * [Mission and Values](https://www.psu.edu/about/mission-and-values)
+    * Historyexpand icon
+        
+        * [History](https://www.psu.edu/about/history)
+        * [Traditions](https://www.psu.edu/about/traditions)
+        * [Nittany Lion Shrine](https://www.psu.edu/about/nittany-lion-shrine)
+        
+    * [Facts and Rankings](https://www.psu.edu/about/facts-and-rankings)
+    * [Belonging](https://www.psu.edu/about/belonging)
+    * Leadershipexpand icon
+        
+        * [Leadership](https://www.psu.edu/about/leadership)
+        * [Board of Trustees](https://trustees.psu.edu/)
+        * [President's Office](https://www.psu.edu/president)
+        * [University Faculty Senate](https://senate.psu.edu/)
+        
+    * [Health Care](https://www.psu.edu/healthcare)
+    * Our Impactexpand icon
+        
+        * [Our Impact](https://www.psu.edu/our-impact)
+        * [Stories of Impact](https://www.psu.edu/impact)
+        
     
 
-#### Find Information For:
-
-* [Visitors](https://www.psu.edu/visitors)
-* [Prospective Students](https://www.psu.edu/prospective-students)
-* [Current Students](https://www.psu.edu/current-students)
-* [Faculty and Staff](https://www.psu.edu/faculty-and-staff)
-* [Business and Industry](https://www.psu.edu/business-and-industry)
-* [Veterans and Military](https://veterans.psu.edu/)
-* [Alumni](https://www.alumni.psu.edu/)
-* [Media](https://media.psu.edu/)
-
-#### Helpful Links
-
-* [Find a Campus](https://www.psu.edu/academics/campuses)
-* [Maps](https://www.psu.edu/maps)
-* [Careers](https://hr.psu.edu/careers)
-* [Directory](https://www.psu.edu/search/directories)
-* [Academic Calendar](https://www.registrar.psu.edu/academic-calendars/)
-
-#### Connect With Us
-
-* [Facebook](https://www.facebook.com/pennstate)
-* [Twitter](https://www.twitter.com/penn_state)
-* [Instagram](https://www.instagram.com/pennstate)
-* [LinkedIn](https://www.linkedin.com/school/penn-state-university/mycompany/)
-
-Close
+1. [Home](https://www.psu.edu/)/
+2. [Web Privacy Statement](https://www.psu.edu/web-privacy-statement)
 
 Web Privacy Statement
 =====================
@@ -158,12 +259,19 @@ Collection, Use, and Sharing of Information
 Penn State does not require you to identify yourself while using our public webpages linked from [www.psu.edu](https://www.psu.edu/). Penn State public webpages do not collect your Personally Identifiable Information (PII) (as defined by [Penn State Policy AD53](https://policy.psu.edu/policies/ad53)), but we may automatically collect and store general information about you and your visit to our public webpages, but that information does not identify you personally unless you choose to provide your personal information. The information that we collect is used to track how users interact with our website, so that we can improve the user’s experience and make other improvements to the services and resources that we make available via Penn State’s websites. In addition, anonymous information collected during your visit can be associated with you, if you choose to provide your personal information during your visit. The information that we collect includes, but is not limited to, the following:  
 
 * The IP address from which you access our website
+    
 * The name of the domain from which you access the Internet
+    
 * The type of browser and operating system used to access our website
+    
 * The date and time you access our site
+    
 * The pages, files, documents, and links that you visit
+    
 * The advertisement or link that you click on to get to our website (referral data)
+    
 * The Internet address of the website from which you linked to this website
+    
 
 The information that we collect automatically is stored and used in aggregate form only and is not used to contact you personally. We may also collect other information as described in this Web Privacy Statement.  
   
@@ -199,74 +307,50 @@ Questions and comments about this Web Privacy Statement or Penn State’s Privac
 
 _Last updated: September 2019_
 
-![Penn State](https://www.psu.edu/psu-edu-assets/images/shared/newfootermap2.png)
+[Nittany Lion Shield Penn State MarkPenn State Word Mark](https://www.psu.edu/)
 
-* [Facebook](https://www.facebook.com/pennstate/)
-* [Twitter](https://twitter.com/penn_state)
-* [Instagram](https://www.instagram.com/pennstate/)
-* [LinkedIn](https://www.linkedin.com/school/penn-state-university/)
+The Pennsylvania State University  
+201 Old Main  
+University Park, PA 16802
 
-Get News By Email //
---------------------
+* Phone: 
+    
+    [1-814-865-4700](tel:18148654700)
 
-[Discover News](https://headlines.psu.edu/)
+* [instagram icon](https://www.instagram.com/pennstate/)
+* [facebook icon](https://www.facebook.com/pennstate/)
+* [linkedIn icon](https://www.linkedin.com/school/penn-state-university/)
+* [youtube icon](https://www.youtube.com/@pennstate)
 
 Explore
 -------
 
-* [News](https://www.psu.edu/news/)
-* [Careers](https://hr.psu.edu/careers)
-* [Facts and Rankings](https://www.psu.edu/this-is-penn-state/facts-and-rankings)
-* [Colleges](https://www.psu.edu/academics/colleges)
-* [Campuses](https://www.psu.edu/academics/campuses)
-* [Health Care](https://www.psu.edu/healthcare)
-* [Research](https://www.psu.edu/research)
-* [Impact](https://www.psu.edu/impact)
+[News](https://www.psu.edu/news/)[Careers](https://hr.psu.edu/careers)[Colleges](https://www.psu.edu/academics/colleges)[Campuses](https://www.psu.edu/academics/campuses)[Contact Us](https://www.psu.edu/contact-us)
+
+Student Support
+---------------
+
+[Registrar](http://www.registrar.psu.edu/)[Bursar](http://www.bursar.psu.edu/)[Student Affairs](https://studentaffairs.psu.edu/)[Housing and Food Services](https://liveon.psu.edu/)
+
+Quick Links
+-----------
+
+[Maps](https://www.psu.edu/maps)[Directory](https://www.psu.edu/search/directories)[Libraries](https://libraries.psu.edu/)[Academic Calendar](https://www.registrar.psu.edu/academic-calendars/)[LionPATH](https://lionpathsupport.psu.edu/)
 
 Resources
 ---------
 
-* [Prospective Students](https://www.psu.edu/prospective-students)
-* [Current Students](https://www.psu.edu/current-students)
-* [International Students](https://global.psu.edu/)
-* [Business and Industry](https://www.psu.edu/business-and-industry)
-* [Veterans and Military](https://veterans.psu.edu/)
-* [Visitors](https://www.psu.edu/visitors)
-* [Faculty and Staff](https://www.psu.edu/faculty-and-staff)
-* [Alumni](https://www.alumni.psu.edu/)
-* [Media](https://media.psu.edu/)
-* [COVID-19 Information](https://virusinfo.psu.edu/)
-
-Popular Links
--------------
-
-* [Maps](https://www.psu.edu/maps)
-* [Directory](https://www.work.psu.edu/ldap/)
-* [Libraries](https://libraries.psu.edu/)
-* [Academic Calendar](https://www.registrar.psu.edu/academic-calendars/)
-* [LionPATH](https://lionpathsupport.psu.edu/)
+[Prospective Students](https://www.psu.edu/prospective-students)[Current Students](https://www.psu.edu/current-students)[International Students](https://global.psu.edu/)[Business and Industry](https://www.psu.edu/business-and-industry)[Veterans and Military](https://veterans.psu.edu/)[Visitors](https://www.psu.edu/visitors)[Faculty and Staff](https://www.psu.edu/faculty-and-staff)[Alumni](https://www.alumni.psu.edu/)[Media](https://media.psu.edu/)
 
 Stay Connected
 --------------
 
-* [Emails / Headlines](https://headlines.psu.edu/)
-* [Emergency Notifications](https://psualert.psu.edu/)
-* [Penn State Go](https://mobile.psu.edu/)
-* [Strategic Communications](https://strategiccommunications.psu.edu/)
-* [Report Misconduct](https://universityethics.psu.edu/resources-reporting-wrongdoing)
-* [Police](https://www.police.psu.edu/)
+[Emails / Headlines](https://headlines.psu.edu/)[Emergency Notifications](https://psualert.psu.edu/)[Penn State Go](https://mobile.psu.edu/)[Strategic Communications](https://strategiccommunications.psu.edu/)[Report Misconduct](https://universityethics.psu.edu/reporting-at-penn-state)[Police](https://www.police.psu.edu/)
 
-[![Nittany Lion Shield Penn State Mark](../components/img/psu-mark-footer.png)](https://www.psu.edu/)
-
-* 201 Old Main, University Park, Pennsylvania 16802
-* [814-865-4700](tel:814-865-4700)
-* [Contact Us](https://www.psu.edu/contact-us)
-
-* [Privacy Statement](https://www.psu.edu/web-privacy-statement/index.html)
+* [Privacy Statements](https://www.psu.edu/web-privacy-statement)
 * [Non Discrimination](https://policy.psu.edu/policies/ad85)
 * [Accessibility](https://www.psu.edu/accessibilitystatement)
 * [Equal Opportunity](https://policy.psu.edu/policies/hr11)
 * [Legal Statements](https://www.psu.edu/legal-statements)
 
-* [The Pennsylvania State University © 2024](https://www.psu.edu/copyright-information)
-* ![We Are Penn State](https://www.psu.edu/psu-edu-assets/images/shared/we-are-penn-state.svg)
+[The Pennsylvania State University © 2024](https://www.psu.edu/copyright-information)
