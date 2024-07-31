@@ -35,7 +35,11 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
     
 * [PHILOSOPHY](https://mezeaudio.com/pages/philosophy)
 
-[Meze Audio - Sound. Comfort. Design. True high-end.![](//mezeaudio.com/cdn/shop/files/Meze_Audio_horizonal_white_logo_-_280x75px.svg?v=1709043677&width=280)](https://mezeaudio.com/)
+[Meze Audio - Sound. Comfort. Design. True high-end.![](//mezeaudio.com/cdn/shop/files/Meze_Logo_Lyre.svg?v=1722253872&width=34)](https://mezeaudio.com/)
+
+[![Meze Audio Logo](https://cdn.shopify.com/s/files/1/1238/0038/files/Meze-Audio-logo-text.svg?v=1721632644)](https://mezeaudio.com/)
+
+[Meze Audio - Sound. Comfort. Design. True high-end.![](//mezeaudio.com/cdn/shop/files/Meze_Audio_horizonal_white_logo_-_280x75px_31bc10bf-f551-4121-a8b5-456d0f6ff735.svg?v=1722341213&width=34)](https://mezeaudio.com/)
 
 USD $
 
