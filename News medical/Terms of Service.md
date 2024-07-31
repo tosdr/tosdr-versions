@@ -346,26 +346,34 @@ Last Updated: May 26, 2022
 * [Top Health  
     Articles](#tabs-3)
 
-* [![Long-term immune changes persist in unvaccinated COVID-19 patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240721/Long-term-immune-changes-persist-in-unvaccinated-COVID-19-patients.aspx)
+* [![Can cutting back on extra virgin olive oil make your heart healthier?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
     
-    [Long-term immune changes persist in unvaccinated COVID-19 patients](https://www.news-medical.net/news/20240721/Long-term-immune-changes-persist-in-unvaccinated-COVID-19-patients.aspx)
+    [Can cutting back on extra virgin olive oil make your heart healthier?](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
     
-* [![Understanding the new coronavirus mutant strain KP.3.1.1](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
+* [![Eight-week vegan diet linked to epigenetic age reduction in identical twins](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240728/Eight-week-vegan-diet-linked-to-epigenetic-age-reduction-in-identical-twins.aspx)
     
-    [Understanding the new coronavirus mutant strain KP.3.1.1](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
+    [Eight-week vegan diet linked to epigenetic age reduction in identical twins](https://www.news-medical.net/news/20240728/Eight-week-vegan-diet-linked-to-epigenetic-age-reduction-in-identical-twins.aspx)
     
 * [![Texas Heart Institute and BiVACOR achieve milestone with total artificial heart implantation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/Texas-Heart-Institute-and-BiVACOR-achieve-milestone-with-total-artificial-heart-implantation.aspx)
     
     [Texas Heart Institute and BiVACOR achieve milestone with total artificial heart implantation](https://www.news-medical.net/news/20240725/Texas-Heart-Institute-and-BiVACOR-achieve-milestone-with-total-artificial-heart-implantation.aspx)
     
-* [![Can cutting back on extra virgin olive oil make your heart healthier?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
-    
-    [Can cutting back on extra virgin olive oil make your heart healthier?](https://www.news-medical.net/news/20240725/Can-cutting-back-on-extra-virgin-olive-oil-make-your-heart-healthier.aspx)
-    
 * [![COVID pandemic accelerated brain aging, especially in males and deprived groups](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240725/COVID-pandemic-accelerated-brain-aging-especially-in-males-and-deprived-groups.aspx)
     
     [COVID pandemic accelerated brain aging, especially in males and deprived groups](https://www.news-medical.net/news/20240725/COVID-pandemic-accelerated-brain-aging-especially-in-males-and-deprived-groups.aspx)
     
+* [![Breakthrough therapy heals spinal cord injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
+    
+    [Breakthrough therapy heals spinal cord injuries](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
+    
+
+[### Revolutionizing hepatocyte count for researchers
+
+Dan Schieffer
+
+In this interview, NewsMedical speaks to DeNovix's Dan Schieffer about the new app developed for CellDrop, and how it aims to revolutionize hepatocyte count for the drug discovery industry, and more.
+
+![Revolutionizing hepatocyte count for researchers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240729/Revolutionizing-hepatocyte-count-for-researchers.aspx)
 
 [### E-Cigarettes and Ethanol: A forensic Perspective on Vaping
 
@@ -381,23 +389,15 @@ LexisNexis® Risk Solutions
 
 In this interview, News Medical speaks with the Healthcare Business of LexisNexis® Risk Solutions about optimizing clinical trial screening and digital health programs through a better understanding of consumer-consented data.
 
-![Understanding Consumer-Consented Data to Optimize Digital Health Programs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-Consumer-Consented-Data-to-Optimize-Digital-Health-Programs.aspx)
+![Understanding Consumer-Consented Data to Optimize Digital Health Programs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-Consumer-Consented-Data-to-Optimize-Clinical-Trials-and-Digital-Health-Programs.aspx)
 
-[### The Future is Wearable: Advancing Human Health Through Portable Spectroscopy
-
-Richard Crocombe
-
-In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Crocombe about his journey in the field of spectroscopy, focusing on the development of portable spectrometers and their transformative potential in wearable health and fitness technologies.
-
-![The Future is Wearable: Advancing Human Health Through Portable Spectroscopy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/The-Future-is-Wearable-Advancing-Human-Health-Through-Portable-Spectroscopy.aspx)
-
-* [![Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
-    
-    [Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
-    
 * [![The Role of Vitamin D in Hormonal Balance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
     [The Role of Vitamin D in Hormonal Balance](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
+    
+* [![Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
+    
+    [Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
     
 * [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
     
@@ -415,25 +415,25 @@ In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Cr
 Latest News
 -----------
 
-* [![Scientists explore early life factors contributing to SMA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Scientists-explore-early-life-factors-contributing-to-SMA.aspx)
+* [![Study reveals personalized brain connectivity in blind individuals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240731/Study-reveals-personalized-brain-connectivity-in-blind-individuals.aspx)
     
-    [Scientists explore early life factors contributing to SMA](https://www.news-medical.net/news/20240727/Scientists-explore-early-life-factors-contributing-to-SMA.aspx)
+    [Study reveals personalized brain connectivity in blind individuals](https://www.news-medical.net/news/20240731/Study-reveals-personalized-brain-connectivity-in-blind-individuals.aspx)
     
-* [![New study examines educational disruptions for children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/New-study-examines-educational-disruptions-for-children.aspx)
+* [![High-resolution brain maps reveal vascular blueprint for healthy aging](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240731/High-resolution-brain-maps-reveal-vascular-blueprint-for-healthy-aging.aspx)
     
-    [New study examines educational disruptions for children](https://www.news-medical.net/news/20240727/New-study-examines-educational-disruptions-for-children.aspx)
+    [High-resolution brain maps reveal vascular blueprint for healthy aging](https://www.news-medical.net/news/20240731/High-resolution-brain-maps-reveal-vascular-blueprint-for-healthy-aging.aspx)
     
-* [![Breakthrough therapy heals spinal cord injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
+* [![Quantum simulation drives breakthrough in drug development](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240731/Quantum-simulation-drives-breakthrough-in-drug-development.aspx)
     
-    [Breakthrough therapy heals spinal cord injuries](https://www.news-medical.net/news/20240727/Breakthrough-therapy-heals-spinal-cord-injuries.aspx)
+    [Quantum simulation drives breakthrough in drug development](https://www.news-medical.net/news/20240731/Quantum-simulation-drives-breakthrough-in-drug-development.aspx)
     
-* [![Innovative dual-drug strategy for colorectal cancer treatment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/Innovative-dual-drug-strategy-for-colorectal-cancer-treatment.aspx)
+* [![Specialized medication management improves care for elderly patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240731/Specialized-medication-management-improves-care-for-elderly-patients.aspx)
     
-    [Innovative dual-drug strategy for colorectal cancer treatment](https://www.news-medical.net/news/20240727/Innovative-dual-drug-strategy-for-colorectal-cancer-treatment.aspx)
+    [Specialized medication management improves care for elderly patients](https://www.news-medical.net/news/20240731/Specialized-medication-management-improves-care-for-elderly-patients.aspx)
     
-* [![New biomarker helps determine the optimal treatment for colon cancer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240727/New-biomarker-helps-determine-the-optimal-treatment-for-colon-cancer.aspx)
+* [![Long-term mental health impacts of COVID-19 unequal in LA county](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240731/Long-term-mental-health-impacts-of-COVID-19-unequal-in-LA-county.aspx)
     
-    [New biomarker helps determine the optimal treatment for colon cancer](https://www.news-medical.net/news/20240727/New-biomarker-helps-determine-the-optimal-treatment-for-colon-cancer.aspx)
+    [Long-term mental health impacts of COVID-19 unequal in LA county](https://www.news-medical.net/news/20240731/Long-term-mental-health-impacts-of-COVID-19-unequal-in-LA-county.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Saturday 27 Jul 2024
+Last Updated: Wednesday 31 Jul 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
