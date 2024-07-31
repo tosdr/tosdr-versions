@@ -60,7 +60,7 @@ Marketing
 **Privacy Policy**
 ==================
 
-Effective Date: January 1, 2023
+Effective Date: July 26, 2024
 
 HungerRush, LLC (“HungerRush,” “we,” or “our”) is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. This Privacy Policy (“Policy”) describes how HungerRush and our affiliates, subsidiaries, and related entities collect, use, disclose, and retain personal information about you when you visit our websites, mobile sites, or applications that link to or references this Policy (collectively, the “Site”) or therwise interact with us online or offline. This Policy also describes the rights you may have regarding our processing of your personal information under applicable law.
 
