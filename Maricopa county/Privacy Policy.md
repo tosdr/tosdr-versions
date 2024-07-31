@@ -2,6 +2,8 @@
 
          
 
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) EMERGENCY ALERT](https://www.maricopa.gov/AlertCenter.aspx) [SET!: Sunflower Area: Sand Stone Fire. Prepare to take Action! Read On...](https://www.maricopa.gov/AlertCenter.aspx?AID=SET-Sunflower-Area-Sand-Stone-Fire-Prepa-123)
+
 [![Home page](/ImageRepository/Document?documentID=80697)](https://www.maricopa.gov/)
 
  
