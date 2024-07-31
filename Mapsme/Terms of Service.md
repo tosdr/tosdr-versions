@@ -24,7 +24,7 @@ Maps.me Terms of Use
 **1\. About us, the Website and the Service**
 ---------------------------------------------
 
-**1.1** The following terms and conditions are between you and Tortu LLC (a company registered in Russian Federation with registered number 1183926020585 and its registered address at 9 Polkovnika Efremova street, flat 32, 33, Kaliningrad, Russian Federation), and constitute a legal agreement that governs your use of the MAPS.ME platform whether accessed through our website ([www.maps.me](https://maps.me/), the “**Website**”) or a mobile application, and any content made available to you through such platform (collectively, the “**Service**”).
+**1.1** The following terms and conditions are between you and Maps.me (Cyprus) Limited (a company registered in Cyprus with registered number HE 397606 and its registered address at 10-12 Florinis Street, STADYL Building, 4th Floor, Nicosia, 1065 Cyprus), and constitute a legal agreement that governs your use of the MAPS.ME platform whether accessed through our website ([www.maps.me](https://maps.me/), the “**Website**”) or a mobile application, and any content made available to you through such platform (collectively, the “**Service**”).
 
 **1.2** Our Service allows you to, via the Website and/or our mobile application, access and download maps of areas across the world, find routes and navigation whether online or offline, locate a range of amenities and services in that area and to access a range of services offered by our third party partners.
 
@@ -148,7 +148,7 @@ As well as these Terms of Use, there are other terms which may apply to you. The
 **11\. Contacting Us**
 ----------------------
 
-**11.1** When contacting us through feedback@maps.me you will be providing us with your contact details. We will treat this data in accordance with our [privacy policy](https://mapsme.parity.digital/policy).
+**11.1** When contacting us through support@maps.me you will be providing us with your contact details. We will treat this data in accordance with our [privacy policy](https://mapsme.parity.digital/policy).
 
 **12\. Term and Termination**
 -----------------------------
@@ -162,7 +162,7 @@ As well as these Terms of Use, there are other terms which may apply to you. The
 **13\. Governing Law & Jurisdiction**
 -------------------------------------
 
-**13.1** These Terms of Use, the Website and any information contained in, or obtained from, it will be governed by the laws of Russian Federation will have non-exclusive jurisdiction to hear any dispute arising from these.
+**13.1** These Terms of Use, the Website and any information contained in, or obtained from, it will be governed by the laws of England and Wales, and the courts of England and Wales will have non-exclusive jurisdiction to hear any dispute arising from these.
 
 [](https://apps.apple.com/app/id510623322)
 
