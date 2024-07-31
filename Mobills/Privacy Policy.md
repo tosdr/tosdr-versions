@@ -130,7 +130,7 @@ A Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018) garante a voc�
 * **Informações sobre o compartilhamento de dados:** Você pode solicitar informações sobre as entidades públicas ou privadas com as quais compartilhamos os seus dados pessoais. 
 * **Revisão de decisão automatizada:** Você pode solicitar que decisões tomadas de forma automatizada e que afetem seus direitos sejam revisadas. 
 
-Você também poderá entrar em contato com nosso encarregado de dados através do e-mail privacidade@mobills.com.br.
+Você também poderá entrar em contato com nosso encarregado de dados através do e-mail privacidade@toroinvestimentos.com.br.
 
 Sobre este Aviso
 ----------------
@@ -139,7 +139,7 @@ Aqui você acessou, de forma simplificada e mais acessível, as principais infor
 
 Mas você pode acessar a versão completa, clicando [aqui](https://www.mobills.com.br/blog/wp-content/uploads/2024/07/Aviso-de-Privacidade-Mobills-Full.pdf).
 
-A Mobills Labs Soluções Em Tecnologia LTDA, CNPJ nº 20.256.063/0001-10 é a empresa Controladora dos dados pessoais. Você poderá entrar em contato com nossa encarregada através do seguinte contato: Lívia Campos – privacidade@mobills.com.br.
+A TORO INVESTIMENTOS S/A (“TORO”), inscrita sob o CNPJ nº. 12.455.479/0001-30, é a empresa Controladora dos dados pessoais. Você poderá entrar em contato com nossa encarregada através do seguinte contato: Lívia Campos – privacidade@toroinvestimentos.com.br.
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20405%201024'%3E%3C/svg%3E)
 
