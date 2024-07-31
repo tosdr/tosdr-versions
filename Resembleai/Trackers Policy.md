@@ -1,7 +1,7 @@
-     
+ 
 
- [![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.png) ![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.webp)](https://www.resemble.ai/)
-===============================================================================================================================================================================================================================
+ [![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=NDkzOjE2Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzI0IDk5IiB3aWR0aD0iNzI0IiBoZWlnaHQ9Ijk5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=NDk0OjE2Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCAyNjkiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjI2OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.resemble.ai/)
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 #### AI Voice Generator
 
@@ -11,48 +11,48 @@
     
 
 * Product
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Mic.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTE3OjExMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQgNTYiIHdpZHRoPSI0NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Voice Cloning
     
     Record or Upload your voice to create your AI Voice](https://www.resemble.ai/voice-cloning/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/equalizer.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTI4OjExOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTYiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Text to Speech
     
     High quality, human-like text-to-speech](https://www.resemble.ai/text-to-speech-converter/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTM5OjEyMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNTAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Speech to Speech
     
     Realtime speech-to-speech voice conversion](https://www.resemble.ai/speech-to-speech/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Globe.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTUwOjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Multilingual
     
     Build your synthetic voices in 60+ Langauges](https://www.resemble.ai/languages/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTYxOjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Neural Audio Editing
     
     Audio Editing made simple with synthetic voices](https://www.resemble.ai/fill/)
 
 * Case Studies
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Globe.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTc1OjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Personalization with Zomato and TrueFan
     
     Learn how Zomato scaled to over 350,000 AI messages](https://www.resemble.ai/how-zomato-amp-truefan-used-ai-to-give-354000-mothers-a-reason-to-smile-this-mothers-day/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTg2OjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Crayola Adventures with Red Games
     
     2024 Apple Design Award Winning Game](https://www.resemble.ai/how-red-games-used-realtime-dynamic-interactive-ai-voices-in-crayola-adventures/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+* [![](data:image/svg+xml;nitro-empty-id=NTk3OjEyMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNTAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Fabler Transformed Bedtime for 1000’s of Children
     
-    AI-powered bedtime stories for kids.](http://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
+    AI-powered bedtime stories for kids.](https://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
 
 * Detect
     
@@ -60,44 +60,44 @@
     
 
 * Product
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Detect.png)
+* [![](data:image/svg+xml;nitro-empty-id=NjIwOjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Deepfake Detection
     
     Realtime Audio Deepfake Detector](https://www.resemble.ai/deepfake-detection/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/AI-Watermarker.png)
+* [![](data:image/svg+xml;nitro-empty-id=NjMxOjEyNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     AI Watermarker
     
     AI Watermarker to Protect your IP](https://www.resemble.ai/watermarker/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Magnifying-Glass.png)
+* [![](data:image/svg+xml;nitro-empty-id=NjQyOjEyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTUiIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Identity
     
     Voice Enrollment for Identity Protection](https://www.resemble.ai/identity/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
+* [![](data:image/svg+xml;nitro-empty-id=NjUzOjExNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Reports
     
     In-depth incident reports for the latest deepfakes](https://www.resemble.ai/deepfake-incident-report/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Brain.png)
+* [![](data:image/svg+xml;nitro-empty-id=NjY0OjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Audio Intelligence
     
     Explainable AI with audio enabled language model](https://www.resemble.ai/audio-intelligence/)
 
 * Research
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Detect.png)
+* [![](data:image/svg+xml;nitro-empty-id=Njc4OjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     DETECT-2B
     
     Groundbreaking approach to deepfake detection combines efficient architecture with unparalleled accuracy across diverse languages and generation methods](https://www.resemble.ai/detect2b/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/AI-Watermarker.png)
+* [![](data:image/svg+xml;nitro-empty-id=Njg5OjEyNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     PerTH Watermarker
     
     Invisible watermark to tackle malicious use and stop misinformation](https://www.resemble.ai/neural-speech-watermarker/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Magnifying-Glass.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzAwOjEyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTUiIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Resemblyzer
     
@@ -108,27 +108,27 @@
     On-Prem, API Docs, Status
     
 
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/On-Prem-Icon.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzIyOjEyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     On Prem
     
     Run our models on your own infrastructure](https://www.resemble.ai/on-prem/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/API-Icon.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzMzOjExOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNTQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     API Docs
     
     Programmatically build content with your synthetic voices](https://docs.app.resemble.ai/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/equalizer.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzQ0OjExOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTYiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Status
     
     API and Service Status](https://status.resemble.ai/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzU1OjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Ethics
     
     Our ethical statement and guidelines for usage.](https://www.resemble.ai/ethics/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
+* [![](data:image/svg+xml;nitro-empty-id=NzY2OjExNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Blog
     
@@ -139,8 +139,8 @@
 * [Sign In](https://app.resemble.ai/)
 * [Request Demo](https://www.resemble.ai/schedule-a-demo/)
 
- [![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.png) ![Resemble AI - AI Voice Generator](https://www.resemble.ai/wp-content/uploads/2024/07/logo.webp)](https://www.resemble.ai/)
-===============================================================================================================================================================================================================================
+ [![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=Nzg5OjE2Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzI0IDk5IiB3aWR0aD0iNzI0IiBoZWlnaHQ9Ijk5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ![Resemble AI - AI Voice Generator](data:image/svg+xml;nitro-empty-id=NzkwOjE2Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4MCAyNjkiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjI2OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.resemble.ai/)
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 * AI Voice Generator
     
@@ -161,48 +161,48 @@ Use our Generative Voice AI models that are indistinguishable from humans
 [Clone your AI Voice](https://app.resemble.ai/users/sign_up)
 
 * Product
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Mic.png)
+* [![](data:image/svg+xml;nitro-empty-id=ODQ2OjExMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQgNTYiIHdpZHRoPSI0NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Voice Cloning
     
     Record or Upload your voice to create your AI Voice](https://www.resemble.ai/voice-cloning/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/equalizer.png)
+* [![](data:image/svg+xml;nitro-empty-id=ODU3OjExOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTYiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Text to Speech
     
     High quality, human-like text-to-speech](https://www.resemble.ai/text-to-speech-converter/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+* [![](data:image/svg+xml;nitro-empty-id=ODY4OjEyMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNTAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Speech to Speech
     
     Realtime speech-to-speech voice conversion](https://www.resemble.ai/speech-to-speech/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Globe.png)
+* [![](data:image/svg+xml;nitro-empty-id=ODc5OjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Multilingual
     
     Build your synthetic voices in 60+ Langauges](https://www.resemble.ai/languages/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=ODkwOjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Neural Audio Editing
     
     Audio Editing made simple with synthetic voices](https://www.resemble.ai/fill/)
 
 * Case Studies
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Globe.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTA0OjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Personalization with Zomato and TrueFan
     
     Learn how Zomato scaled to over 350,000 AI messages](https://www.resemble.ai/how-zomato-amp-truefan-used-ai-to-give-354000-mothers-a-reason-to-smile-this-mothers-day/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTE1OjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Crayola Adventures with Red Games
     
     2024 Apple Design Award Winning Game](https://www.resemble.ai/how-red-games-used-realtime-dynamic-interactive-ai-voices-in-crayola-adventures/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Speech-Bubble.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTI2OjEyMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNTAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Fabler Transformed Bedtime for 1000’s of Children
     
-    AI-powered bedtime stories for kids.](http://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
+    AI-powered bedtime stories for kids.](https://www.resemble.ai/how-fabler-and-resemble-ai-transformed-bedtime-for-thousands-of-children)
 
 State of the Art Detection Models
 
@@ -211,44 +211,44 @@ We’ve dedicated years towards building AI models that aid in the safe deployme
 [Learn More](https://www.resemble.ai/detect-solution/)
 
 * Product
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Detect.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTUyOjExNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Deepfake Detection
     
     Realtime Audio Deepfake Detector](https://www.resemble.ai/deepfake-detection/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/AI-Watermarker.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTYzOjEyNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     AI Watermarker
     
     AI Watermarker to Protect your IP](https://www.resemble.ai/watermarker/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Magnifying-Glass.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTc0OjEyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTUiIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Identity
     
     Voice Enrollment for Identity Protection](https://www.resemble.ai/identity/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTg1OjExNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Reports
     
     In-depth incident reports for the latest deepfakes](https://www.resemble.ai/deepfake-incident-report/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Brain.png)
+* [![](data:image/svg+xml;nitro-empty-id=OTk2OjExNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTciIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Audio Intelligence
     
     Explainable AI with audio enabled language model](https://www.resemble.ai/audio-intelligence/)
 
 * Research
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Detect.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTAxMDoxMTY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     DETECT-2B
     
     Groundbreaking approach to deepfake detection combines efficient architecture with unparalleled accuracy across diverse languages and generation methods](https://www.resemble.ai/detect2b/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/AI-Watermarker.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTAyMToxMjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTQiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     PerTH Watermarker
     
     Invisible watermark to tackle malicious use and stop misinformation](https://www.resemble.ai/neural-speech-watermarker/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Magnifying-Glass.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTAzMjoxMjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTcgNTUiIHdpZHRoPSI1NyIgaGVpZ2h0PSI1NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Resemblyzer
     
@@ -260,27 +260,27 @@ Read about the latest product and research advancements on Generative Voice.
 
 [Read the Blog](https://www.resemble.ai/blog/)
 
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/On-Prem-Icon.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTA1NzoxMjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTQiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     On Prem
     
     Run our models on your own infrastructure](https://www.resemble.ai/on-prem/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/API-Icon.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTA2ODoxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNTQiIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     API Docs
     
     Programmatically build content with your synthetic voices](https://docs.app.resemble.ai/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/equalizer.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTA3OToxMTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTQgNTYiIHdpZHRoPSI1NCIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Status
     
     API and Service Status](https://status.resemble.ai/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Pencil.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTA5MDoxMTY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTYgNTYiIHdpZHRoPSI1NiIgaGVpZ2h0PSI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Ethics
     
     Our ethical statement and guidelines for usage.](https://www.resemble.ai/ethics/)
-* [![](https://www.resemble.ai/wp-content/uploads/2024/07/Reports.png)
+* [![](data:image/svg+xml;nitro-empty-id=MTEwMToxMTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Blog
     
@@ -509,3 +509,5 @@ company
 * [Follow](https://www.youtube.com/ResembleAI "Follow on Youtube")
 
 Made with ❤️ and a Voice in Toronto, Canada and all over the World. 2023.
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
