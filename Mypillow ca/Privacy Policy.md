@@ -57,7 +57,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Mattress Foundation](https://www.mypillow.ca/mattressfoundation)
     * [Semi Truck Mattress](https://www.mypillow.ca/drivers-dream-truck-mattress)
 * [Mattress Toppers](https://www.mypillow.ca/toppers)
-    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper)
+    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
     * [MyMattress Topper 2.0](https://www.mypillow.ca/mattress-toppers/3-coil-mattress-topper)
     * [3” Mattress Topper](https://www.mypillow.ca/mattress-toppers/3inchtopper-50off)
     * [2” Mattress Topper](https://www.mypillow.ca/mattress-toppers/2-mattress-topper-new)
@@ -95,7 +95,7 @@ Apply
 
 [](https://www.mypillow.ca/25-extravaganza-new)
 
-[](https://www.mypillow.com/mymattress-topper)
+[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
 [](https://www.mypillow.com/mycoffee-options)
 
@@ -109,11 +109,11 @@ Apply
 
    [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.ca/mypillow-sandals)
+   [](https://www.mypillow.com/bath/bath-towels)
 
    [](https://www.mypillow.com/toppers)
 
-   [](https://www.mypillow.com/bath/bath-towels)
+   [](https://www.mypillow.ca/mypillow-sandals)
 
    [](https://www.mypillow.ca/mypillow-2-0)
 
