@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-176 Views
+178 Views
 
 Report
 
@@ -287,239 +287,237 @@ You may also like
 
 HD
 
- [![White Wall](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/white-wall/)3.6
+ [![Onryo](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/onryo/)0
 
-### [White Wall](https://playtube.pk/white-wall/)
+### [Onryo](https://playtube.pk/onryo/)
 
-2010 91 min _Movie_
+2019 93 min _Movie_
 
-White Wall
+Onryo
 
-3.6 2010 91 min HD
+0 2019 93 min HD
 
-In the near future, everything has changed. Basic human rights have become the rarest of luxuries. No one knows when this started but everyone knows how. The VXII, the deadliest virus ...
+The Japanese Vengeance Spirit terrorizes the crew of a haunted house on Halloween night.
 
-Country: [USA](https://playtube.pk/country/usa/)
+Genre: [Horror](https://playtube.pk/category/horror/)
 
-Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/white-wall/)
+[](#)[Watch Now](https://playtube.pk/onryo/)
 
 HD
 
- [![Sexual Assault at a Hotel](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sexual-assault-at-a-hotel/)6.3
+ [![Rechaço](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rechaco/)0
 
-### [Sexual Assault at a Hotel](https://playtube.pk/sexual-assault-at-a-hotel/)
-
-1977 71 min _Movie_
-
-Sexual Assault at a Hotel
-
-6.3 1977 71 min HD
-
-The lovely Ryoko is attending a Japanese University on an exchange program. She’s pretty, vulnerable, shy and full of mysterious secrets. Meeting up with her long-time friend Rumiko, ...
-
-Country: [Japan](https://playtube.pk/country/japan/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/sexual-assault-at-a-hotel/)
-
-HD
-
- [![Snow White: A Tale of Terror](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/snow-white-a-tale-of-terror/)6
-
-### [Snow White: A Tale of Terror](https://playtube.pk/snow-white-a-tale-of-terror/)
-
-1997 100 min _Movie_
-
-Snow White: A Tale of Terror
-
-6 1997 100 min HD
-
-When young Lili's mother dies in childbirth, her father remarries Lady Claudia, a woman ruled by an evil mirror with the power to make her queen of all living things. After escaping an ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Fantasy](https://playtube.pk/category/fantasy/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/snow-white-a-tale-of-terror/)
-
-HD
-
- [![Heavens Will Descend The Dragon](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/heavens-will-descend-the-dragon/)0
-
-### [Heavens Will Descend The Dragon](https://playtube.pk/heavens-will-descend-the-dragon/)
-
-2020 0 min _Movie_
-
-Heavens Will Descend The Dragon
-
-0 2020 0 min HD
-
-Ao You, the ninth son of the Dragon King, is a gifted and intelligent man who has been admonished not to reveal his true form at will since he was a child. Later, when he accidentally ...
-
-Genre:
-
-[](#)[Watch Now](https://playtube.pk/heavens-will-descend-the-dragon/)
-
-HD
-
- [![Meet Cute](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/meet-cute/)6
-
-### [Meet Cute](https://playtube.pk/meet-cute/)
+### [Rechaço](https://playtube.pk/rechaco/)
 
 2016 25 min _Movie_
 
-Meet Cute
+Rechaço
 
-6 2016 25 min HD
+0 2016 25 min HD
 
-They meet. It's Cute. Then it's not.
+Augusto receives a letter informing the murder of his brother. Coming back to a strange city, he will have a long night a head.
 
-Country: [USA](https://playtube.pk/country/usa/)
+Country: [Brazil](https://playtube.pk/country/brazil/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
 
-[](#)[Watch Now](https://playtube.pk/meet-cute/)
-
-HD
-
- [![School Society](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/school-society/)6.2
-
-### [School Society](https://playtube.pk/school-society/)
-
-2022 108 min _Movie_
-
-School Society
-
-6.2 2022 108 min HD
-
-Virginie Thévenot, a somewhat special math teacher, takes advantage of a general strike in a college to try an extraordinary experiment with a small group of students. She takes a bet: ...
-
-Country: [France](https://playtube.pk/country/france/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/school-society/)
+[](#)[Watch Now](https://playtube.pk/rechaco/)
 
 HD
 
- [![Jil Jung Juk](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/jil-jung-juk/)6.5
+ [![The Rug Cop](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-rug-cop/)5.4
 
-### [Jil Jung Juk](https://playtube.pk/jil-jung-juk/)
+### [The Rug Cop](https://playtube.pk/the-rug-cop/)
 
-2016 133 min _Movie_
+2006 80 min _Movie_
 
-Jil Jung Juk
+The Rug Cop
 
-6.5 2016 133 min HD
+5.4 2006 80 min HD
 
-Three bumbling underlings who are tasked with smuggling cocaine get into problems during their journey.
+A spot-on, hilarious spoof of 1970s Japanese TV cop shows, THE RUG COP follows chrome-domed officer Genda as he transfers to a new precinct just as a group of radical terrorists hijack ...
 
-Country: [India](https://playtube.pk/country/india/)
+Country: [Japan](https://playtube.pk/country/japan/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/jil-jung-juk/)
+[](#)[Watch Now](https://playtube.pk/the-rug-cop/)
 
 HD
 
- [![Suicidal Variations](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/suicidal-variations/)0
+ [![My Ex & Whys](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/my-ex-whys/)6.3
 
-### [Suicidal Variations](https://playtube.pk/suicidal-variations/)
+### [My Ex & Whys](https://playtube.pk/my-ex-whys/)
 
-2007 15 min _Movie_
+2017 120 min _Movie_
 
-Suicidal Variations
+My Ex & Whys
 
-0 2007 15 min HD
+6.3 2017 120 min HD
 
-Suicidal Variations shows a woman in a state of total despair after she kills a man. His decapitated head follows her and she decides to escape by committing suicide.
+Cali a blogger who owns the upcoming blog "The Bakit List," and her ex Gio who will return to her life unexpectedly and surprisingly.
 
-Country: [South Korea](https://playtube.pk/country/south-korea/)
-
-Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
-
-[](#)[Watch Now](https://playtube.pk/suicidal-variations/)
-
-HD
-
- [![She Starts the Fire](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/she-starts-the-fire/)6.5
-
-### [She Starts the Fire](https://playtube.pk/she-starts-the-fire/)
-
-1992 87 min _Movie_
-
-She Starts the Fire
-
-6.5 1992 87 min HD
-
-Chingmy Yau stars in She Starts The Fire, a fish-out-of-water comedy where the fish can set people on fire! Wendy (Chingmy Yau) arrives in Hong Kong to stay with her aunt Big Beer ...
-
-Country: [Hong Kong](https://playtube.pk/country/hong-kong/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/she-starts-the-fire/)
-
-HD
-
- [![The Blue Nile – Flags and Fences](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-blue-nile-flags-and-fences/)0
-
-### [The Blue Nile – Flags and Fences](https://playtube.pk/the-blue-nile-flags-and-fences/)
-
-1990 29 min _Movie_
-
-The Blue Nile – Flags and Fences
-
-0 1990 29 min HD
-
-The "lost" documentary of the Scottish music group The Blue Nile's tour of the US in 1990. In 1990, the film-maker Bernard Rudden made this documentary "Flags and Fences", which ...
-
-Country: [UK](https://playtube.pk/country/uk/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/the-blue-nile-flags-and-fences/)
-
-HD
-
- [![The Secret Room of Pleasure](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-secret-room-of-pleasure/)10
-
-### [The Secret Room of Pleasure](https://playtube.pk/the-secret-room-of-pleasure/)
-
-2018 77 min _Movie_
-
-The Secret Room of Pleasure
-
-10 2018 77 min HD
-
-Revenge comes in a new form in this movie about a very unique room.
+Country: [Philippines](https://playtube.pk/country/philippines/)
 
 Genre: [Romance](https://playtube.pk/category/romance/)
 
-[](#)[Watch Now](https://playtube.pk/the-secret-room-of-pleasure/)
+[](#)[Watch Now](https://playtube.pk/my-ex-whys/)
 
 HD
 
- [![I Want You Back](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/i-want-you-back/)6.3
+ [![Kojak: None So Blind](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/kojak-none-so-blind/)6
 
-### [I Want You Back](https://playtube.pk/i-want-you-back/)
+### [Kojak: None So Blind](https://playtube.pk/kojak-none-so-blind/)
 
-2022 117 min _Movie_
+1990 90 min _Movie_
 
-I Want You Back
+Kojak: None So Blind
 
-6.3 2022 117 min HD
+6 1990 90 min HD
 
-Peter and Emma thought they were on the precipice of life’s biggest moments – marriage, kids, and houses in the suburbs – until their respective partners dumped them. Horrified to learn ...
+After a flighty young woman accidentally witnesses a Mob hit in an Italian restaurant, New York Police Inspector Theo Kojak must both protect her from an unscrupulous Dutch hitman, and ...
 
-Country: [USA](https://playtube.pk/country/usa/)
+Genre: [Crime](https://playtube.pk/category/crime/), [Drama](https://playtube.pk/category/drama/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+[](#)[Watch Now](https://playtube.pk/kojak-none-so-blind/)
 
-[](#)[Watch Now](https://playtube.pk/i-want-you-back/)
+HD
+
+ [![Causeway](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/causeway/)6.6
+
+### [Causeway](https://playtube.pk/causeway/)
+
+2022 96 min _Movie_
+
+Causeway
+
+6.6 2022 96 min HD
+
+A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin ...
+
+Country: [Finland](https://playtube.pk/country/finland/)
+
+Genre: [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/causeway/)
+
+HD
+
+ [![Gunman Sent by God](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/gunman-sent-by-god/)5
+
+### [Gunman Sent by God](https://playtube.pk/gunman-sent-by-god/)
+
+1968 93 min _Movie_
+
+Gunman Sent by God
+
+5 1968 93 min HD
+
+Anthony Steffen, as a young gunman who works as a circus performer, witnesses the killing of some outlaws, carried out by their leader and is credited with the deed. Steffen suffers ...
+
+Country: [Italy](https://playtube.pk/country/italy/)
+
+Genre: [Western](https://playtube.pk/category/western/)
+
+[](#)[Watch Now](https://playtube.pk/gunman-sent-by-god/)
+
+HD
+
+ [![Little](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/little/)0
+
+### [Little](https://playtube.pk/little/)
+
+2023 1 min _Movie_
+
+Little
+
+0 2023 1 min HD
+
+Little is a young boy with an imaginative and adventurous spirit. After encountering a mysterious creature, he gains the courage to go off on his first journey.
+
+Genre: [Animation](https://playtube.pk/category/animation/)
+
+[](#)[Watch Now](https://playtube.pk/little/)
+
+HD
+
+ [![Merry Liddle Christmas](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/merry-liddle-christmas/)7.5
+
+### [Merry Liddle Christmas](https://playtube.pk/merry-liddle-christmas/)
+
+2019 90 min _Movie_
+
+Merry Liddle Christmas
+
+7.5 2019 90 min HD
+
+The messy family of a successful, super-together single tech entrepreneur descends on her gleaming new dream home for the holidays. Christmas traditions collide and family drama ensues ...
+
+Country: [Canada](https://playtube.pk/country/canada/)
+
+Genre: [Romance](https://playtube.pk/category/romance/), [TV Movie](https://playtube.pk/category/tv-movie/)
+
+[](#)[Watch Now](https://playtube.pk/merry-liddle-christmas/)
+
+HD
+
+ [![Vassalord.](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/vassalord/)4.8
+
+### [Vassalord.](https://playtube.pk/vassalord/)
+
+2013 28 min _Movie_
+
+Vassalord.
+
+4.8 2013 28 min HD
+
+Charley, a cyborg vampire who does the Vatican's dirty work, is the thrall of the local vampire playboy Johnny Rayflo. As the two fight crime—and each other—hilarity, violence and ...
+
+Country: [Japan](https://playtube.pk/country/japan/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Animation](https://playtube.pk/category/animation/)
+
+[](#)[Watch Now](https://playtube.pk/vassalord/)
+
+HD
+
+ [![A Monster in Paris](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-monster-in-paris/)6.8
+
+### [A Monster in Paris](https://playtube.pk/a-monster-in-paris/)
+
+2011 90 min _Movie_
+
+A Monster in Paris
+
+6.8 2011 90 min HD
+
+Paris, 1910. Emile, a shy movie projectionist, and Raoul, a colourful inventor, find themselves embarked on the hunt for a monster terrorizing citizens. They join forces with Lucille, ...
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Adventure](https://playtube.pk/category/adventure/), [Animation](https://playtube.pk/category/animation/)
+
+[](#)[Watch Now](https://playtube.pk/a-monster-in-paris/)
+
+HD
+
+ [![Stop-and-Cop Interactive](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/stop-and-cop-interactive/)8.5
+
+### [Stop-and-Cop Interactive](https://playtube.pk/stop-and-cop-interactive/)
+
+2009 13 min _Movie_
+
+Stop-and-Cop Interactive
+
+8.5 2009 13 min HD
+
+STOP + Cop = "Stop" or "Slow down" ? Make the right choice. An interactice movie by Ken Arsyn.
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Action](https://playtube.pk/category/action/)
+
+[](#)[Watch Now](https://playtube.pk/stop-and-cop-interactive/)
 
 Report Content
 
