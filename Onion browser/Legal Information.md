@@ -48,7 +48,7 @@ If you are a developer and plan on redistributing this app in source or binary f
 * [Legal](https://onionbrowser.com/legal)
 * [Donate](https://onionbrowser.com/donate)
 
-Copyright © 2012-2023 Tigas Ventures, LLC. All rights reserved.
+Copyright © 2012-2024 Tigas Ventures, LLC. All rights reserved.
 
 Language
 
