@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[](https://www.oxfam.org/en)
+[Oxfam International](https://www.oxfam.org/en)
 
 The future is equal
 
@@ -264,4 +264,4 @@ Copyright © 2024 Oxfam International. All rights reserved.
 
 [CHS-certiﬁed by HQAI](https://www.hqai.org/en/network/audited-partners/certified-partners/oxfam/)
 
-[](https://www.oxfam.org/en)
+[Oxfam International](https://www.oxfam.org/en)
