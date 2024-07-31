@@ -8,8 +8,6 @@
 
 * [Pricing](https://www.metadata2go.com/pricing "Pricing")
 * [Help](https://www.metadata2go.com/help "Help")
-* [Knowledge Base](https://www.metadata2go.com/file-info "Help")
-* [Help](https://www.metadata2go.com/help "Help")
 
 [](#)
 
