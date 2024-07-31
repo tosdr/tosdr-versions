@@ -228,10 +228,10 @@ _Nexstar has the right to change these terms at any time. Nexstar will notify Cl
 
 ### News
 
+* [Nexstar Media Group Appoints Ellen Johnson to Board of Directors](https://www.nexstar.tv/nexstar-appoints-ellen-johnson-to-board-of-directors/)
+* [Paramount Global and Nexstar Media Renew Affiliation Agreements](https://www.nexstar.tv/paramount-and-nexstar-renew-affiliation-agreements/)
+* [(NAB) National Association of Broadcasters Appoints Nexstar President and Chief Operating Officer Michael Biard to Board of Directors](https://www.nexstar.tv/nab-appoints-michael-biard-to-board-of-directors/)
 * [Nexstar Media Group Declares Quarterly Cash Dividend of $1.69 Per Share, Announces New $1.5 Billion Share Repurchase Authorization](https://www.nexstar.tv/quarterly_dividend_share_repurchase_authorization_july_2024/)
-* [Nexstar Promotes Two Sales Leaders To Vice President And General Manager Of Its Broadcast And Digital Operations In Huntsville, Alabama, And Lubbock, Texas](https://www.nexstar.tv/nexstar-promotes-two-to-vp-and-gm-in-huntsville-and-lubbock/)
-* [(CNBC.com) Cramer’s Stop Trading: Nexstar Media Group](https://www.nexstar.tv/cnbc-com-cramers-stop-trading-nexstar-media-group/)
-* [(KSWB-TV) Nexstar Supports Armed Services YMCA Morning News](https://www.nexstar.tv/kswb-tv-nexstar-supports-armed-services-ymca-morning-news/)
 
 ### More
 
