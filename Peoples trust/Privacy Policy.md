@@ -303,9 +303,9 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
-**Notice:** Due to a planned system upgrade, online banking will be unavailable between the hours of approximately 1:00 am – 7:00 am PT (3:00 am - 10:00 am ET) on Sunday July 28, 2024. We apologize for any inconvenience.
+**Notice:** If you are a merchant processing transactions through PSP Services Inc. or PSiGate, we will no longer be your acquiring financial institution as of August 5, 2024. For questions, please email [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
 
-**Attention:** En raison d'une mise à jour du système, les services bancaires en ligne seront inaccessibles le Dimanche 28 Juillet 2024 entre 01 h 00 et 07 h 00 heure du Pacifique (03 h 00 et 10 h 00 heure de l'Est). Nous sommes désolés pour ce désagrément.
+**Attention:** Si vous êtes un commerçant et effectuez des transactions par l'intermédiaire de PSP Services Inc. ou de PSiGate, veuillez prendre note qu'à partir du 5 août 2024, nous ne serons plus votre institution financière acquéreuse. Pour toute question, veuillez envoyer un courriel à [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
 
 ### **PRIVACY POLICY**
 
