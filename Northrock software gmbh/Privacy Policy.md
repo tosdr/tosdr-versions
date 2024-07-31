@@ -609,24 +609,37 @@ Als DSV stehe ich Ihnen für Fragen zum Datenschutz zur Verfügung.
 
 * * *
 
-![NorthRock Software Logo](/build/_assets/NorthRock_night-WFT2K5DK.svg)
+[#### Websites](https://northrock.software/websites/)
+
+* * *
+
+[#### Software](https://northrock.software/applications/)
+
+* * *
+
+[#### Prozesse](https://northrock.software/workflows/)
+
+* * *
+
+![NorthRock Software Logo](/build/_assets/NorthRock_night-WFT2K5DK.svg "NorthRock software GmbH")
+
+##### © 2024 NorthRock software GmbH  
+Entwickelt und gehostet in Deutschland.
+
+* * *
+
+E-Mail Newsletter
+
+E-Mail Newsletter
+
+Ich akzeptiere die [Datenschutzerklärung](https://northrock.software/privacy/)
 
 [#### Impressum](https://northrock.software/legal/)
 
 [#### Datenschutz](https://northrock.software/privacy/)
 
-[#### Status](https://status.northrock.software/)
-
 [#### Kontakt](https://northrock.software/contact/)
 
+[#### Status](https://status.northrock.software/)
+
 [#### Sitemap](https://northrock.software/sitemap.xml)
-
-E-Mail Newsletter
-
-E-Mail Newsletter
-
-Ich akzeptiere die [Datenschutzerklärung.](https://northrock.software/privacy/)
-
-##### © 2024 NorthRock software GmbH. Entwickelt und gehostet in Deutschland.
-
-Wenn Sie unsere Websites oder Dienste besuchen oder mit ihnen interagieren, werden wir oder unsere autorisierten Dienstleister, nach Ihrer Einwilligung, Cookies zum Speichern von Informationen verwenden. Diese helfen uns Ihnen eine performante und sichere Nutzererfahrung zu ermöglichen.
