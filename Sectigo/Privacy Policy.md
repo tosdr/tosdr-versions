@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 408: Takeaways from Recent Conversations with PQC Experts](https://www.sectigo.com/resource-library/root-causes-408-takeaways-from-recent-conversations-with-pqc-experts)
+* [Root Causes 407: Whatever Happened to Passkeys?](https://www.sectigo.com/resource-library/root-causes-407-whatever-happened-to-passkeys)
 * [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
 * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
 * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
-* [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
-* [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
 
 Moving beyond Microsoft AD Certificate Services
 
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Webinar: Entrust distrust: now what?](https://www.sectigo.com/resource-library/entrust-distrust-now-what-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 408: Takeaways from Recent Conversations with PQC Experts](https://www.sectigo.com/resource-library/root-causes-408-takeaways-from-recent-conversations-with-pqc-experts)
+    * [Root Causes 407: Whatever Happened to Passkeys?](https://www.sectigo.com/resource-library/root-causes-407-whatever-happened-to-passkeys)
     * [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
     * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
     * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
-    * [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
-    * [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
     
 
 *  #}
@@ -652,15 +652,15 @@ Call (France)
 
 Call (Spain)
 
-[+33 3 66 72 95 95](tel:+34900838451)
-
-Call (Italy)
-
-[+39 02 4792 1708](tel:+390247921708)
+[+34 900 838 451](tel:+34900838451)
 
 Call (Germany)
 
 [+49 800 1002328](tel:+498001002328)
+
+Call (Italy)
+
+[+39 02 4792 1708](tel:+390247921708)
 
 [![Twitter](/images/footer-2023-social-twitter.svg)](https://twitter.com/SectigoHQ)[![LinkedIn](/images/footer-2023-social-linkedin.svg)](https://www.linkedin.com/company/sectigo)[![YouTube](/images/footer-2023-social-youtube.svg)](https://www.youtube.com/c/Sectigo)
 
