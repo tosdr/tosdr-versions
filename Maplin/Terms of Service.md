@@ -2,7 +2,7 @@
 
     
 
- 
+  
 
 🔥  [**Save up to 80% in our Clearance Sale!**](https://www.maplin.co.uk/collections/clearance)  🔥
 
@@ -422,6 +422,7 @@ Browse
         * [Passive Speakers](https://www.maplin.co.uk/collections/passive-speakers)
         * [Portable Speakers](https://www.maplin.co.uk/collections/portable-speakers)
         * [Speaker Drivers](https://www.maplin.co.uk/collections/speaker-drivers)
+        * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
         
     * TV Brackets & Trolleys
         
@@ -1201,6 +1202,7 @@ Browse
     * [Passive Speakers](https://www.maplin.co.uk/collections/passive-speakers)
     * [Portable Speakers](https://www.maplin.co.uk/collections/portable-speakers)
     * [Speaker Drivers](https://www.maplin.co.uk/collections/speaker-drivers)
+    * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
     
     [TV Brackets & Trolleys](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
     
