@@ -181,7 +181,7 @@ Help us do this work by making a donation.
 * [Threads](https://www.threads.net/@ourworldindata)
 * [GitHub](https://github.com/owid)
 * [Research & Writing RSS Feed](https://ourworldindata.org/atom.xml)
-* [Data Insights RSS Feed](https://ourworldindata.org/atom-data-insights.xml)
+* [Daily Data Insights RSS Feed](https://ourworldindata.org/atom-data-insights.xml)
 
 [![Oxford Martin School logo](https://ourworldindata.org/oms-logo.png)](https://www.oxfordmartin.ox.ac.uk/global-development)[![Y Combinator logo](https://ourworldindata.org/yc-logo.png)](https://ourworldindata.org/owid-at-ycombinator)
 
