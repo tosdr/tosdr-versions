@@ -208,7 +208,7 @@
     * [Business admin and management](https://www.ncfe.org.uk/sector-specialisms/business-admin-and-management/)
     * [Catering](https://www.ncfe.org.uk/sector-specialisms/catering/)
     * [Creative and design](https://www.ncfe.org.uk/sector-specialisms/creative-and-design/)
-    * [English and maths](https://www.ncfe.org.uk/sector-specialisms/english-and-maths/)
+    * [English and maths (Functional Skills)](https://www.ncfe.org.uk/sector-specialisms/english-and-maths/)
     * [Essential Digital Skills](https://www.ncfe.org.uk/sector-specialisms/essential-digital-skills/)
     * [Sustainability](https://www.ncfe.org.uk/sector-specialisms/sustainability/)
     * [Retail](https://www.ncfe.org.uk/sector-specialisms/retail/)
