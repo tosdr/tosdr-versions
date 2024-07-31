@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                          Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                            [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                              Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                        [Skip to content](#main)
 
 [](# "Previous")
 
@@ -364,9 +364,9 @@ Consumer Purchase Terms and Conditions
 
 **Rad Power Bikes Inc.**
 
-_Last updated June 21, 2024_
+_Last updated July 30, 2024_
 
-These Consumer Purchase Terms and Conditions (the “**Terms**”) are a legal agreement between you (“**You**” or “**Customer**”) and Rad Power Bikes Inc., a Delaware corporation (“**RPB**”, “**us**” or “**we**”), and apply to all consumer purchases by you of any model of RPB’s electric bikes (“**ebike(s)**”) and/or related accessories or other products offered by RPB (collectively with ebikes, the “**Products**”) in the United States only. Purchases in Canada and the European Union must be made through their respective websites and are subject to the applicable Terms and Conditions contained on their website. You represent and warrant that you are at least 16 years of age or the age of legal majority in your jurisdiction (the “Minimum Age”), whichever is higher. If you are under the Minimum Age, you are not eligible to make a purchase with RPB. By purchasing any Products from RPB, whether online or at our showroom, or by using the Products you thereby agree to these Terms in their entirety. **Please read these Terms carefully as they list your obligations and rights and include a requirement that all disputes that you may have under these Terms be taken to arbitration, instead of a jury trial or class action.**
+These Consumer Purchase Terms and Conditions (the “**Terms**”) are a legal agreement between you (“**You**” or “**Customer**”) and Rad Power Bikes Inc., a Delaware corporation (“**RPB**”, “**us**” or “**we**”), and apply to all consumer purchases by you of any model of RPB’s electric bikes (“**ebike(s)**”) and/or related accessories or other products offered by RPB (collectively with ebikes, the “**Products**”) in the United States only. Purchases in Canada and the European Union must be made through their respective websites and are subject to the applicable Terms and Conditions contained on their website. You represent and warrant that you are at least 16 years of age or the age of legal majority in your jurisdiction (the “Minimum Age”), whichever is higher. If you are under the Minimum Age, you are not eligible to make a purchase with RPB. By purchasing any Products from RPB, whether online or at our showroom, or by using the Products you thereby agree to these Terms in their entirety. **Please read these Terms carefully as they list your obligations and rights and include a requirement that all disputes that you may have under these Terms be taken to arbitration, instead of a jury trial or class action, and that you waive certain rights relating to certain claims or relief.**
 
 1\. Application
 ---------------
@@ -406,8 +406,8 @@ a. A shipping confirmation email will be sent to the email address provided for 
 b. We will use FedEx or other parcel service to ship your order. We DO NOT ship to PO BOXES or APO.  
 c. Orders containing discounted merchandise may take an additional forty-eight (48) hours to process.  
 d. For all international orders, you must place the order via our Canadian or European websites, and all such purchases shall be governed by the respective Terms of Purchase located on those websites. You are solely responsible for ensuring you comply with all applicable local/state/federal regulations concerning the import and use of electric bicycles. Acceptance of orders outside of the United States shall be in RPB’s sole discretion.  
-e. Any changes that you make regarding shipping once the item is shipped, including but not limited to changing the address, putting an order on hold, or updating shipping settings/preferences may delay your receipt of the Products and replacement Products and/or refunds. **_If you would like to change the color or size of your ebike, you must do so prior to your order being shipped.  
-_**f. Please note we are not responsible for any lost, stolen, or damaged items due to the actions or inactions of FedEx or any other parcel service.  
+e. Online purchases made on our website at [www.radpowerbikes.com](http://www.radpowerbikes.com/) cannot be modified or cancelled once an order is placed. This cancellation policy applies to online purchases for ebikes and accessories. In-store purchase orders cannot be modified or cancelled once the order is shipped, including but not limited to changing the address, putting an order on hold, or updating shipping settings/preferences.  
+f. Please note we are not responsible for any lost, stolen, or damaged items due to the actions or inactions of FedEx or any other parcel service.  
 g. You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. We recommend using a trackable shipping service and purchasing shipping. We cannot guarantee that we will receive the item you are attempting to return. For more information regarding our limited warranty and claims process, please review our Limited Warranty Terms, which are incorporated into by reference and form a part of these Terms.  
 h. For any third-party shipping outside of RPB’s normal shipping process, RPB cannot provide ANY additional shipping information or documentation.  
 i. Orders placed through our online store (www.radpowerbikes.com) with the shipping address of an RPB retail location will be canceled. To purchase Products in-store, please locate an RPB retail showroom near you.
@@ -434,9 +434,9 @@ i. Orders placed through our online store (www.radpowerbikes.com) with the ship
 7\. Return Policy
 -----------------
 
-1. **In order to undertake a valid return and receive a refund, you must start the return process by initiating a return on the “**[**Start a Return**](https://www.radpowerbikes.com/apps/returns)**” page or by contacting RPB at support@radpowerbikes.com. No refund will be issued for any merchandise sent back to RPB outside of the above process.**
-2. **Order Cancellations**: You can cancel an order up until the order has been transmitted to the warehouse (generally one business day from when the order is placed). Once the order is submitted to the warehouse, RPB can no longer cancel the order and the customer will be responsible for returning the new merchandise pursuant to the return policy below to receive a refund.
-3. **Return to Sender / Refused Shipment**: If an order is returned to the sender (RPB) or you refused to accept delivery of the shipment, you will be responsible for paying return shipping fees on the merchandise. See applicable Return Shipping fee Schedule in subsection (h).
+1. In order to undertake a valid return and receive a refund, you must start the return process by initiating a return on the “Start a Return” page or by contacting RPB at support@radpowerbikes.com. No refund will be issued for any merchandise sent back to RPB that does not follow the above return process.
+2. **Order Cancellations**: Online purchases made on our website at [www.radpowerbikes.com](http://www.radpowerbikes.com/) cannot be modified or cancelled once an order is placed. This cancellation policy applies to online purchases for ebikes and accessories. Preorders ship based on the estimated time listed on the product page. In-stock orders typically ship within 2 business days of payment confirmation.
+3. **Return to Sender / Refused Shipment**: If an order is returned to the sender (RPB) or you refuse to accept delivery of the shipment, you will be responsible for paying return shipping fees on the merchandise. See applicable Return Shipping fee Schedule in subsection (h).
 4. **Non-Returnable Merchandise:** Rad will not accept returns of Thule Yepp Maxi Child Seats or helmets (any brand). Any spare or replacement parts purchased are not refundable or returnable to RPB. It is your responsibility to ensure order accuracy of spare or replacement parts (including but not limited to spare batteries, gift cards, and built & delivered or pro-built fees).
 5. **Returns of New Bike:** A customer may return any new bike to Rad within 30 days of receipt of the bike. The bike must be in new condition and in original packaging. Customers will be responsible for paying the $149 return shipping fees on the returned bike. See below subsection (h) for Return Shipping Fee Schedule. The return shipping fee will be deducted from your refund amount.
 6. **Returns of Used Bike**: A customer may return any bike that has been ridden to Rad within 30 days of receipt of bike as long as the bike has less than 20 miles on the odometer. The customer will be responsible for paying the $149 return shipping fees (see below subsection (h) for Return Shipping Fee Schedule) and a restocking fee of 30% of the original purchase price of the bike. The return shipping fee and the restocking fee will be deducted from your refund amount.
@@ -446,38 +446,41 @@ i. Orders placed through our online store (www.radpowerbikes.com) with the ship
 |     |     |
 | --- | --- |
 | **Merchandise / Item Being Returned** | **Return Shipping Fee (per item)** |
-| Accessory | $10 (per shipment/shipping label)<br><br>_For example:_<br><br>_if you are returning 2 accessories in one shipment on May1, you will be charged $10._ <br><br>_If you return 2 accessories on May 1 and then return 1 accessory on May 15, you will be charged $10 for each shipment and for a total of $20._ |
+| Accessory | $10 (per shipment/shipping label)<br><br>_For example:_<br><br>_if you are returning 2 accessories in one shipment on May 1, you will be charged $10._ _If you return 2 accessories on May 1 and then return 1 accessory on May 15, you will be charged $10 for each shipment, for a total of $20._ |
 | Hollywood Rack | $65 |
 | eBike or eTrike | $149 |
 
-i. Refunds.
+i. Refunds:
 
   i.Any item returned with an order that used a discount code will have the entire discount code value subtracted from the refund value, whether you return one ebike or multiple ebikes.
 
   ii.Refunds will be made after the Ebike is received and inspected.
 
-j. Process. Please ship all approved returns using the shipping label provided during the return merchandise authorization process.
+j. Process: Please ship all approved returns using the shipping label provided during the return merchandise authorization process.
 
 8\. Ebike Performance
 ---------------------
 
-Please note that information regarding the expected range on a single charge on one of our ebikes is an estimate, not a guarantee. There are many factors that contribute to actual, real-world range for an ebike battery such as age of the battery, temperature, level of assist, speed, payload, and terrain. Given the right conditions, it is possible to get less than the expected minimum range or greater than the expected maximum range. RPB reserves the right to use substitute parts, material, or equipment of equivalent quality and value that meet RPB’s strict standards)  
+Please note that information on RPB’s Site or other manuals or documents regarding the expected range on a single charge on one of our ebikes is an estimate, not a guarantee. There are many factors that contribute to actual, real-world range for an ebike battery such as age of the battery, temperature, level of assist, speed, payload, and terrain. Given the right conditions, it is possible to get less than the expected minimum range or greater than the expected maximum range. RPB reserves the right to use substitute parts, material, or equipment of equivalent quality and value that meet RPB’s strict standards)
 
-1. Alteration. Any alterations, modifications, or other changes made by you to an ebike following your purchase which affect the safety, operation, or mechanics of the ebike may void the Limited Warranty and shall be at your sole risk of harm.
-    
+**_Any alterations, modifications, or other changes made by you to an ebike following your purchase which may affect the safety, operation, or mechanics of the ebike may void the Limited Warranty and shall be at your sole risk of harm. RPB shall not be liable for any alterations or modifications you make to RPB’s products._**
 
-9\. Ebike Safety
-----------------
+9\. Ebike Safety and Waiver of Liability
+----------------------------------------
 
 **Please read carefully before proceeding with your purchase.**
 
-1. RPB’s ebikes is not to be operated by anyone under the age of 16. Children under the age of 16 may lack the necessary judgement and skill to safely operate the ebike, potentially resulting in damage to the ebike, damage to other property, serious injury, and/or death. You assume the responsibility to ensure the age of the operator is at least 16 years old and comply with your local laws and regulations regarding operator age and other qualifications.
-2. Riding any bike, ebike, etrike, or similar vehicle without a helmet puts you at very high risk of serious head injury or death. Always wear a properly fitted helmet that covers the fore heads. Many locations require specific safety devices. You assume full responsibility to familiarize yourself and ensure the operator and any passengers adhere applicable helmet and safety laws or regulation where you ride.
-3. Any bike, ebike, etrike, or similar vehicle is subject to wear and tear, and certain components and fasteners can stretch or loosen with the vibrations and stress of normal operation. You must check your ebike/etrike before each ride and according to the other checklist contained in your ebike/etrike’s owner’s manual. Failure to do so could result in property damage, serious injury, or death. You assume full responsibility to perform a pre-ride safety check on the ebike/etrike before each ride.
-4. Riding any bike, ebike, etrike, or similar vehicle involve certain risks, including but not limited to the risk of serious injury or death. You assume full responsibility for the risks involved in your use of the ebike, etrike, or related merchandise and related activities.
-5. Incorrect assembly, maintenance, or use of your ebike/etrike can cause component or performance failure, loss of control. Serious injury, or death. You must read and understand the entire owner’s manual that came with your ebike/etrike and any documentation provided for subcomponents or accessories before riding. Unless your ebike/etrike was assembled by RPB’s retail or service team, you assume full responsibility for the proper maintenance and the proper assembly and/or reassembly of your ebike/etrike.
-6. Using a damaged battery or charger can damage additional components or create a fire hazard. Stop using your battery and charger and contact RPB if any of the following occur: (1) your charger’s flexible power cord or output cable or any of the electrical cables on your ebike/etrike is frayed, has broken insulation, or any other signs of damage, (2) your battery or charger is physically damaged, non-functional, or performing abnormally, (3) your battery or charger experienced a significant impact from a fall, crash, or shipping damage, with or without obvious sighs of damage, (4) your battery was submerged in liquid or had extensive water exposure or damage, or (5) your charger becomes too hot to touch (it’s designed to get warm with normal use), make an unusual smell, makes a popping sound, or shows other structures and, as soon as possible, recycle or otherwise dispose of it according to local rules.
-7. You agree to RELEASE AND HOLD HARMLESS RPB from all liabilities, causes or actions, claims, and demands that arise in any way from any injury, death, loss, or harm that you sustain or that any other person or any property sustained as a result of your use of the ebike/etrike. This RELEASE includes but is not limited to claims based on negligence, defects in the design, manufacture, maintenance, assembly or inspection of the ebike/etrike.
+**In the event you fail to comply with these terms, you assume full responsibility for any personal injury or property damage resulting from your use of the ebike and expressly waive to the fullest extent of the law, any claims related to the ebike relating to personal injury or property damage.**
+
+1. RPB’s EBIKES ARE NOT TO BE OPERATED BY ANYONE UNDER THE AGE OF 16. Children under the age of 16 may lack the necessary judgement and skill to safely operate the ebike, potentially resulting in damage to the ebike, damage to other property, serious injury, and/or death. You assume the responsibility to ensure the age of the operator is at least 16 years old and comply with your local laws and regulations regarding operator age and other qualifications  
+    
+2. **IN THE EVENT A MINOR OPERATES THE EBIKE, THE MINOR AND THEIR PARENT/GUARDIAN ASSUME FULL RESPONSIBILITY FOR ANY ACTIONS THE MINOR MAY TAKE AND, TO THE FULLEST EXTENT PERMITTED BY LAW, WAIVE ANY CLAIMS RELATED TO SUCH ACTIVITY, INCLUDING BUT NOT LIMITED TO CLAIMS ASSERTING PERSONAL INJURY OR PROPERTY DAMAGE.** Please see subsection 9(h) below regarding waiver of claims subject to this Section 9.
+3. Riding any bike, ebike, etrike, or similar vehicle without a helmet puts you at very high risk of serious head injury or death. Always wear a properly fitted helmet that covers the forehead (this applies to rides of any distance). Many locations require specific safety devices. You assume full responsibility to familiarize yourself and ensure the operator and any passengers adhere applicable helmet and safety laws or regulation where you ride.  
+4. Any bike, ebike, etrike, or similar vehicle is subject to wear and tear, and certain components and fasteners can stretch or loosen with the vibrations and stress of normal operation. You must check your ebike/etrike before each ride and according to the other checklist contained in your ebike/etrike’s owner’s manual. Failure to do so could result in property damage, serious injury, or death. You assume full responsibility to perform a pre-ride safety check on the ebike/etrike before each ride
+5. Riding any bike, ebike, etrike, or similar vehicle involve certain risks, including but not limited to the risk of serious injury or death. You assume full responsibility for the risks involved in your use of the ebike, etrike, or related merchandise and related activities.
+6. Incorrect assembly, maintenance, or use of your ebike/etrike can cause component or performance failure, loss of control. Serious injury, or death. You must read and understand the entire owner’s manual that came with your ebike/etrike and any documentation provided for subcomponents or accessories before riding. Unless your ebike/etrike was assembled by RPB’s retail or service team, you assume full responsibility for the proper maintenance and the proper assembly and/or reassembly of your ebike/etrike.
+7. Using a damaged battery or charger can damage additional components or create a fire hazard. Stop using your battery and charger and contact RPB if any of the following occur: (1) your charger’s flexible power cord or output cable or any of the electrical cables on your ebike/etrike is frayed, has broken insulation, or any other signs of damage, (2) your battery or charger is physically damaged, non-functional, or performing abnormally, (3) your battery or charger experienced a significant impact from a fall, crash, or shipping damage, with or without obvious sighs of damage, (4) your battery was submerged in liquid or had extensive water exposure or damage, or (5) your charger becomes too hot to touch (it’s designed to get warm with normal use), make an unusual smell, makes a popping sound, or shows other structures and, as soon as possible, recycle or otherwise dispose of it according to local rules.
+8. To the fullest extent permitted by law, you agree to RELEASE AND HOLD HARMLESS RPB from all liabilities, causes or actions, claims, and demands that arise in any way from any injury, death, loss, or harm that you sustain or that any other person or any property sustained as a result of your use of the ebike/etrike. This RELEASE includes but is not limited to claims based on negligence, defects in the design, manufacture, maintenance, assembly or inspection of the ebike/etrike.
 
 10\. Pre-Orders and Backorders and Pre-Order/Backorder Cancellations
 --------------------------------------------------------------------
@@ -495,9 +498,9 @@ b. Financing. For qualified purchasers, ebikes may be financed through RPB’s c
 12\. Liability
 --------------
 
-WE ARE ONLY LIABLE TO YOU FOR LOSSES WHICH YOU SUFFER AS A DIRECT RESULT OF OUR BREACH OF THESE TERMS AND WHICH ARE REASONABLY FORESEEABLE. OUR LIABILITY FOR SUCH LOSSES SHALL BE NO MORE THAN THE AMOUNT OF PURCHASE OF OUR PRODUCTS GIVING RISE TO SUCH LOSSES. WE ARE NOT LIABLE FOR ANY OTHER LOSSES. THESE TERMS DO NOT EXCLUDE OR LIMIT OUR LIABILITY (IF ANY) FOR: (i) DEATH OR PERSONAL INJURY CAUSED BY OUR GROSS NEGLIGENCE; (ii) FRAUD; (iii) FRAUDULENT MISREPRESENTATION; OR (iv) ANY MATTER WHICH IT WOULD BE ILLEGAL FOR US TO EXCLUDE OR ATTEMPT TO EXCLUDE OUR LIABILITY. YOU MAY HAVE OTHER RIGHTS GRANTED BY LAW AND THESE TERMS DO NOT AFFECT SUCH RIGHTS.  
-  
-We recommend contacting your insurance provider to determine if your current insurance policy would cover you in the event of an accident. [Please review our Safety Video prior to riding.](https://youtu.be/tHfqIsCEeKE)
+WE ARE ONLY LIABLE TO YOU FOR LOSSES WHICH YOU SUFFER AS A DIRECT RESULT OF OUR BREACH OF THESE TERMS AND WHICH ARE REASONABLY FORESEEABLE AND SUBJECT TO THE LIMITATIONS IN THESE TERMS AND RPB’S POLICIES AS SET FORTH ON THIS SITE. OUR LIABILITY FOR ANY LOSS OR INJURY SHALL, TO THE FULLEST EXTENT OF THE LAW, BE LIMITED TO PURCHASE THE AMOUNT OF OUR PRODUCTS GIVING RISE TO SUCH LOSSES OR INJURIES. WE ARE NOT LIABLE FOR ANY OTHER LOSSES OR INJURIES – ALL OF WHICH SHALL BE MITIGATED BY ANY LOSS OR INJURY ARISING FROM YOUR ACTS OR OMISSIONS. THESE TERMS DO NOT EXCLUDE OR LIMIT OUR LIABILITY (IF ANY) FOR: (i) DEATH OR PERSONAL INJURY CAUSED BY OUR GROSS NEGLIGENCE; (ii) FRAUD; (iii) FRAUDULENT MISREPRESENTATION; OR (iv) ANY MATTER WHICH IT WOULD BE ILLEGAL FOR US TO EXCLUDE OR ATTEMPT TO EXCLUDE OUR LIABILITY. YOU MAY HAVE OTHER RIGHTS GRANTED BY LAW AND THESE TERMS DO NOT AFFECT SUCH RIGHTS.
+
+We recommend contacting your insurance provider to determine if your current insurance policy would cover you in the event of an accident. Please carefully review the waiver of subrogation requirement in Section 16 which is a material provision of these Terms. [Please review our Safety Video prior to riding.](https://youtu.be/tHfqIsCEeKE)
 
 13\. Disclaimer of Implied Warranties
 -------------------------------------
@@ -514,7 +517,14 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL RPB OR ANY O
 
 You acknowledge that there are inherent anticipated and unanticipated risks and dangers involved with the use of our Products, including the ebikes, whether intended or as a result of misuse. You understand that such risks can result in injury, death, illness or disease, physical or mental damage to yourself, your property, other third parties and their property, or to the property of RPB. You agree to release, waive, defend, indemnify, and hold RPB and its directors, officers, employees, agents, members, partners, suppliers, and licensors harmless and will keep them indemnified from any claim or demand, including reasonable attorneys’ fees, relating to or arising from: (a) your purchase or use of any Products; (b) any violation by you of these Terms; or (c) your violation of another party’s rights or applicable law. RPB reserves the right to assume, at its sole expense, the exclusive defense and control of any matter subject to indemnification by you, in which event you will fully cooperate with RPB in asserting any available defenses.
 
-16\. Dispute Resolution and Binding Arbitration
+16\. Waiver of Subrogation
+--------------------------
+
+**BY AGREEING TO THESE TERMS, YOU EXPRESSLY AGREE TO WAIVE AND SHALL CAUSE ANY APPLICABLE INSURANCE COMPANY UNDER WHICH YOU ARE AN INSURED OR ADDITIONAL INSURED TO WAIVE ANY RIGHT OF SUBROGATION THAT ANY SUCH INSURANCE CARRIER MAY HAVE AGAINST RPB AND/OR THE RPB RELEASEES.**
+
+The foregoing provision means that any insurance company that provides coverage to you or your real or personal property shall be precluded from seeking reimbursement from RPB or the RPB Releasees for any loss after such insurance company compensates you.
+
+17\. Dispute Resolution and Binding Arbitration
 -----------------------------------------------
 
 **THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTION, THE RIGHT TO A JURY TRIAL, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS OR REPRESENTATIVE CLAIM, AND THE RIGHT TO ENGAGE IN DISCOVERY EXCEPT AS PROVIDED IN THE AMERICAN ARBITRATION ASSOCIATION’S COMPREHENSIVE ARBITRATION RULES**. YOU AND RPB AGREE TO RESOLVE ANY DISPUTES BETWEEN US EXCLUSIVELY AND FINALLY BY BINDING ARBITRATION ON AN INDIVIDUAL BASIS, WHICH MEANS YOU AND RPB WAIVE ANY RIGHT TO LITIGATE DISPUTES IN A COURT OR BEFORE A JURY, OR AS PART OF A CLASS ACTION, A REPRESENTATIVE ACTION, A CONSOLIDATED ACTION OR IN A PRIVATE ATTORNEY GENERAL CAPACITY.
@@ -529,7 +539,7 @@ You acknowledge that there are inherent anticipated and unanticipated risks and 
 8. You and RPB agree that the arbitration will be kept confidential and that the existence of the proceeding and any element of it (including without limitation, any pleadings, briefs or other documents submitted or exchanged and any testimony or other oral submissions and awards) will not be disclosed beyond the arbitration proceedings, except as may lawfully be required in judicial proceedings relating to the arbitration or by applicable disclosure rules and regulations of securities regulatory authorities or other governmental agencies.
 9. This arbitration shall be governed by the Federal Arbitration Act 9 U.S.C. sec. 1-16 (FAA).
 
-17\. Notice and Updates
+18\. Notice and Updates
 -----------------------
 
 RPB will provide all notices (including legal process) that RPB is required to give by any lawful method, including by making notice available through the Site or by sending it to any e-mail or mailing address that you provide to RPB. You acknowledge that if you do not provide RPB with current and accurate contact information, RPB may not be able to contact you. You agree to send RPB notice by mailing it to:
@@ -540,27 +550,27 @@ Rad Power Bikes Inc. Legal Department
 
 Seattle, WA 98107
 
-18\. Governing Law
+19\. Governing Law
 ------------------
 
 These Terms and any disputes between you and RPB will be governed by the laws of the State of Washington, without regard to conflicts of laws.
 
-19\. General
+20\. General
 ------------
 
 Section titles are only for convenience and have no legal or contractual significance. Any list of examples following “including” or “e.g.,” is illustrative and not exhaustive, unless qualified by terms like “only” or “solely.” RPB’s failure to act with respect to a breach by you or others does not waive its rights to act with respect to subsequent or similar breaches. A waiver will only be binding on RPB if it is in a written document signed by RPB. If any provision of these Terms is held by a court of competent jurisdiction to be illegal, invalid, or unenforceable, the remaining terms, covenants and restrictions will remain in full force and effect. You and RPB intend that the provisions of these Terms be enforced to the fullest extent permitted by applicable law. Accordingly, you and RPB agree that if any provision is deemed unenforceable, where possible, it will be modified to the extent necessary to make it enforceable, which may include its deletion. RPB may assign its rights and delegate its obligations under these Terms, in whole or in part, at any time with or without notice to you, and these Terms will be binding upon and inure to the benefit of RPB’s successors and assigns. RPB shall have the right to assign these Terms, at its sole discretion, without notice to you. You may not assign, transfer or sublicense your rights (if any). These Terms (including any incorporated terms) and any Additional Terms constitute the entire agreement between you and RPB with respect to the Site. Both you and RPB warrant to each other that, in entering this agreement, neither RPB nor you have relied on nor will have any right or remedy based upon any statement, representation, warranty, or assurance other than those expressly stated in these Terms (including any incorporated terms) and any Additional Terms. The preceding sentence will not limit or exclude any liability that cannot be limited or excluded under applicable law. No one other than you and RPB, or RPB’s successors and assigns, will have any right to enforce these Terms.
 
-20\. R-E-S-P-E-C-T Find Out What It Means To Us (hint: a lot!)
+21\. R-E-S-P-E-C-T Find Out What It Means To Us (hint: a lot!)
 --------------------------------------------------------------
 
 We pride ourselves in being nothing but respectful, kind, patient, friendly, and all other pleasant terms that could fit in the mix, and it is critical that those things are returned to our team by customers. We understand that oftentimes when you call/email customer support, it is because something has gone wrong or there is an issue with your purchase (which is the worst!). We also understand that these potential issues cause frustration and sometimes anger; however, we will NOT tolerate rude/vulgar language towards our staff. We will offer a warning if this occurs, after which we do reserve the right to refuse service, terminate your account, issue refunds, void warranties, or cancel orders, each at our sole discretion. If this decision is made it is final and cannot be undone.
 
-21\. How To Contact RPB
+22\. How To Contact RPB
 -----------------------
 
 If you have any questions or comments regarding these Terms, you may contact RPB by any of the methods available on our website at www.radpowerbikes.com or by mail at the following address:
 
-1128 NW 52nd St. Suite 201 Seattle, WA 98107; ATTN: Legal Department.
+Rad Power Bikes Inc., 1128 NW 52nd St. Suite 201 Seattle, WA 98107; ATTN: Legal Department or legal@radpowerbikes.com.
 
 ### Don’t miss out.
 
@@ -598,7 +608,6 @@ After you buy
 * [Return a product](https://www.radpowerbikes.com/apps/returns)
 * [Rad service center](https://www.radpowerbikes.com/pages/rad-service)
 * [Assembly videos & owner's manuals](https://support.radpowerbikes.com/Assembly_and_how-tos/Assembly_and_manuals/Download_my_owner%27s_manual_or_view_assembly_video)
-* [Refer a friend](https://www.radpowerbikes.com/pages/refer-a-friend)
 
 Get help
 --------
