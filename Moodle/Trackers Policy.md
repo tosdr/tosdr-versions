@@ -46,8 +46,8 @@ MenuClose
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
     * [![Register](https://moodle.com/wp-content/uploads/2024/06/MootGlobal24_HomepageBanner_Mobile-1-200x150.png)Register for Moodle Moot 2024](https://moodlemoot.org/2024/?utm_campaign=MoodlecomRegister)
-    * [![G2 Summer Badges Blog thumbnail](https://moodle.com/wp-content/uploads/2024/07/G2-Summer-Badges-Blog-thumbnail-200x150.png)Moodle announced Leader in multiple categories of the G2 badges for Summer 2024](https://moodle.com/news/moodle-announced-leader-in-multiple-categories-of-the-g2-badges-for-summer-2024/)
-    * [![ave calvar CxNfaI5zVtk unsplash](https://moodle.com/wp-content/uploads/2024/07/ave-calvar-CxNfaI5zVtk-unsplash-225x150.jpeg)How to assess the effectiveness of soft skills training](https://moodle.com/news/how-to-assess-soft-skills-training/)
+    * [![10 reasons why visit MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-3-200x150.png)10 compelling reasons to attend MoodleMoot Global 2024](https://moodle.com/news/10-compelling-reasons-to-attend-moodlemoot-global-2024/)
+    * [![Platinum Sponsor MoodleMoot Global 2024 Catalyst IT](https://moodle.com/wp-content/uploads/2024/07/Platinum-Sponsor-200x150.png)Catalyst IT becomes Platinum Sponsor for MoodleMoot Global 2024](https://moodle.com/news/catalyst-it-becomes-platinum-sponsor-for-moodlemoot-global-2024/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -218,8 +218,8 @@ The tables below list the internal and third-party cookies we use. As the names,
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
     * [![Register](https://moodle.com/wp-content/uploads/2024/06/MootGlobal24_HomepageBanner_Mobile-1-200x150.png)Register for Moodle Moot 2024](https://moodlemoot.org/2024/?utm_campaign=MoodlecomRegister)
-    * [![G2 Summer Badges Blog thumbnail](https://moodle.com/wp-content/uploads/2024/07/G2-Summer-Badges-Blog-thumbnail-200x150.png)Moodle announced Leader in multiple categories of the G2 badges for Summer 2024](https://moodle.com/news/moodle-announced-leader-in-multiple-categories-of-the-g2-badges-for-summer-2024/)
-    * [![ave calvar CxNfaI5zVtk unsplash](https://moodle.com/wp-content/uploads/2024/07/ave-calvar-CxNfaI5zVtk-unsplash-225x150.jpeg)How to assess the effectiveness of soft skills training](https://moodle.com/news/how-to-assess-soft-skills-training/)
+    * [![10 reasons why visit MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-3-200x150.png)10 compelling reasons to attend MoodleMoot Global 2024](https://moodle.com/news/10-compelling-reasons-to-attend-moodlemoot-global-2024/)
+    * [![Platinum Sponsor MoodleMoot Global 2024 Catalyst IT](https://moodle.com/wp-content/uploads/2024/07/Platinum-Sponsor-200x150.png)Catalyst IT becomes Platinum Sponsor for MoodleMoot Global 2024](https://moodle.com/news/catalyst-it-becomes-platinum-sponsor-for-moodlemoot-global-2024/)
 
 Empowering educators to improve our world.
 
