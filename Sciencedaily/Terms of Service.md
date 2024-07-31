@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**July 27, 2024**
+**July 31, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* ['Dancing Molecules' Heal Cartilage Damage](https://www.sciencedaily.com/releases/2024/07/240726193211.htm)
-* [Robotics and How Flies Assess Winds](https://www.sciencedaily.com/releases/2024/07/240726113422.htm)
-* [Lampreys: 'Jaw-Dropping' Evolutionary Origin](https://www.sciencedaily.com/releases/2024/07/240726113343.htm)
-* [Making AI 1,000 Times More Energy Efficient](https://www.sciencedaily.com/releases/2024/07/240726113337.htm)
-* [Controlling Mosquitoes Through Genetic Breeding](https://www.sciencedaily.com/releases/2024/07/240722155107.htm)
-* [Hidden Elements from Ancient Alchemy Lab](https://www.sciencedaily.com/releases/2024/07/240725154836.htm)
-* [Drug Shows Promise in Clearing HIV from Brain](https://www.sciencedaily.com/releases/2024/07/240725193914.htm)
-* [Nitrogen Emissions Have a Net Cooling Effect](https://www.sciencedaily.com/releases/2024/07/240725154823.htm)
-* [New Zealand's Flightless Birds Retreating](https://www.sciencedaily.com/releases/2024/07/240725154812.htm)
-* [Ice Sheets Melt Fast, Regrow Slowly: Sponginess](https://www.sciencedaily.com/releases/2024/07/240725154739.htm)
+* [Could Generative AI Break the Internet?](https://www.sciencedaily.com/releases/2024/07/240730134759.htm)
+* [What Shapes a Virus's Pandemic Potential?](https://www.sciencedaily.com/releases/2024/07/240730134823.htm)
+* [Stomach Pain or Bloating: Is It Cancer?](https://www.sciencedaily.com/releases/2024/07/240730140511.htm)
+* [Securing Earth's Biodiversity On the Moon](https://www.sciencedaily.com/releases/2024/07/240731141234.htm)
+* [Cannabinoid CBG Reduces Anxiety in People](https://www.sciencedaily.com/releases/2024/07/240731141232.htm)
+* [Saltwater Intrusion Prevention? Inland Flooding](https://www.sciencedaily.com/releases/2024/07/240731141130.htm)
+* [Rotation of a Nearby Star Stuns Astronomers](https://www.sciencedaily.com/releases/2024/07/240731141033.htm)
+* [Iceland's Volcanic Activity Set to Last ...](https://www.sciencedaily.com/releases/2024/07/240731140924.htm)
+* [New Wood Type Excellent for Carbon Storage](https://www.sciencedaily.com/releases/2024/07/240730202343.htm)
+* [New Super-Black Material](https://www.sciencedaily.com/releases/2024/07/240730140539.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Birth Defects](https://www.sciencedaily.com/news/health_medicine/birth_defects/)
 
-[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
+[Wounds and Healing](https://www.sciencedaily.com/news/health_medicine/wounds_and_healing/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Drought](https://www.sciencedaily.com/news/plants_animals/drought/)
 
   
 
