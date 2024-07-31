@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Abysma](https://www.myabandonware.com/game/abysma-rbi)
-* [Guilty Bastards](https://www.myabandonware.com/game/guilty-bastards-rbh)
-* [Future Boy](https://www.myabandonware.com/game/future-boy-rbg)
-* [CUBE: Discover Your Cleverness](https://www.myabandonware.com/game/cube-discover-your-cleverness-rbd)
-* [Soccer Champ](https://www.myabandonware.com/game/soccer-champ-rbc)
+* [Voltage](https://www.myabandonware.com/game/voltage-rd8)
+* [Mysterious Worlds: The Secret of Oak Island](https://www.myabandonware.com/game/mysterious-worlds-the-secret-of-oak-island-rd6)
+* [The Show](https://www.myabandonware.com/game/the-show-rd5)
+* [Jekyll & Hyde](https://www.myabandonware.com/game/jekyll-hyde-rd4)
+* [Wild Rides: WaterPark Factory](https://www.myabandonware.com/game/wild-rides-waterpark-factory-rd2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Moonbase Io](https://www.myabandonware.com/game/moonbase-io-kvo)
-* [Kingdom of Speldome](https://www.myabandonware.com/game/kingdom-of-speldome-hm9)
-* [Voodoo Rage](https://www.myabandonware.com/game/voodoo-rage-nxt)
+* [Marvel Super Heroes vs. Street Fighter](https://www.myabandonware.com/game/marvel-super-heroes-vs-street-fighter-n8e)
+* [New Rally-X](https://www.myabandonware.com/game/new-rally-x-jvm)
+* [Links: 5-Course Library - Volume 1](https://www.myabandonware.com/game/links-5-course-library-volume-1-ioz)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
