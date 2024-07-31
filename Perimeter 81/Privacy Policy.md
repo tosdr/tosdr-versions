@@ -111,7 +111,7 @@
     
     ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ![](https://assets.perimeter81.com/uploads/2024/07/Sase_For_Super_Heores_menu_thumbnail.png)
+    ![](https://assets.perimeter81.com/uploads/2024/07/SSE_For_Superheroes_thumbnail_Menu.png)
     
     White paper
     
