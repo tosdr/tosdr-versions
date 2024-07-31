@@ -3,64 +3,67 @@
 [![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo.svg)](https://business.referrizer.com/)
 
 * [Solutions](#) Close Solutions Open Solutions
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/reputation-management-icon.svg)
+    
+    #### Reputation Management
+    
+    Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/offers-referrals-icon.svg)
+    
+    #### Offers & Referrals
+    
+    Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2029'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/lead-management-icon.svg)
+    
+    #### Lead Management System
+    
+    Convert more leads to customers and members](https://business.referrizer.com/features/leadmanagementsystem/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2034'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/loyality-program-icon.svg)
+    
+    #### Loyalty Program
+    
+    Increase customer retention with Loyalty Program](https://business.referrizer.com/features/loyalty/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/email-marketing-icon.svg)
+    
+    #### Email Marketing
+    
+    Keep in touch with your contacts all the time](https://business.referrizer.com/features/emailmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2040'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/2-way-messaging-icon.svg)
+    
+    #### 2-Way Text Messaging
+    
+    Communicate with your clients using text messages](https://business.referrizer.com/features/textmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2029'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/landing-pages-icon.svg)
+    
+    #### Landing Pages
+    
+    Promote your business online and generate sales](https://business.referrizer.com/features/landing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/smart-line-icon.svg)
+    
+    #### Smart Line
+    
+    Keep in touch with your contacts all the time](https://business.referrizer.com/features/smartline/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/partner-network-icon.svg)
+    
+    #### Partner Up Network
+    
+    Exchange referrals with other nearby businesses](https://business.referrizer.com/features/partnerup/)
+    
 * [Pricing](https://business.referrizer.com/pricing/)
+    
 * [Case Studies](https://business.referrizer.com/casestudy/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/reputation-management-icon.svg)
-
-#### Reputation Management
-
-Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/offers-referrals-icon.svg)
-
-#### Offers & Referrals
-
-Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2029'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/lead-management-icon.svg)
-
-#### Lead Management System
-
-Convert more leads to customers and members](https://business.referrizer.com/features/leadmanagementsystem/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2034'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/loyality-program-icon.svg)
-
-#### Loyalty Program
-
-Increase customer retention with Loyalty Program](https://business.referrizer.com/features/loyalty/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/email-marketing-icon.svg)
-
-#### Email Marketing
-
-Keep in touch with your contacts all the time](https://business.referrizer.com/features/emailmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2040'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/2-way-messaging-icon.svg)
-
-#### 2-Way Text Messaging
-
-Communicate with your clients using text messages](https://business.referrizer.com/features/textmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2029'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/landing-pages-icon.svg)
-
-#### Landing Pages
-
-Promote your business online and generate sales](https://business.referrizer.com/features/landing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/smart-line-icon.svg)
-
-#### Smart Line
-
-Keep in touch with your contacts all the time](https://business.referrizer.com/features/smartline/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-
-![](https://business.referrizer.com/wp-content/uploads/2024/04/partner-network-icon.svg)
-
-#### Partner Up Network
-
-Exchange referrals with other nearby businesses](https://business.referrizer.com/features/partnerup/)
+    
 
 [Log in](https://app.referrizer.com/login)
 
