@@ -398,7 +398,7 @@ VoIP Solutions
 
 [VoIP Phone System for Small Business](https://www.mightycall.com/voip-phone-system-for-small-business/) [Business Phone Service](https://www.mightycall.com/business-phone-service/) [Small Business Phone System](https://www.mightycall.com/small-business-phone-system/) [VoIP Phone Service](https://www.mightycall.com/voip-phone-service/) [VoIP Call Center](https://www.mightycall.com/voip-call-center/) [Cloud Phone System](https://www.mightycall.com/cloud-phone-system/)
 
- [![google-play-store](/wp-content/themes/mightycall2021/img/footer/1-app-google.svg)](https://play.google.com/store/apps/details?id=com.mightycall.callcenter)[![app-store-apple](/wp-content/themes/mightycall2021/img/footer/2-app-apple.svg)](https://apps.apple.com/us/app/id6448971321)[![app-store-apple](/wp-content/themes/mightycall2021/img/footer/2-app-desktop.svg)](https://www.mightycall.com/download/)
+ [![google-play-store](/wp-content/themes/mightycall2021/img/footer/1-app-google.svg)](https://play.google.com/store/apps/details?id=com.mightycall.callcenter)[![app-store-apple](/wp-content/themes/mightycall2021/img/footer/2-app-apple.svg)](https://apps.apple.com/us/app/mightycall-call-center/id6448971321)[![app-store-apple](/wp-content/themes/mightycall2021/img/footer/2-app-desktop.svg)](https://www.mightycall.com/download/)
 
 ![V](/wp-content/themes/mightycall2021/img/footer/arrow-button.svg)
 
