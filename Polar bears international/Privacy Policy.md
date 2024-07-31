@@ -1,3 +1,8 @@
+Privacy Policy
+==============
+
+Polar Bears International (PBI) respects your privacy. We do not trade, share, nor sell your personal information with anyone, nor do we send donor mailings or other mailings on behalf of other organizations.
+
 ### Polar Bears International Donations and Adoptions
 
 Polar Bears International collects names, street addresses, contact email addresses, telephone numbers, and credit card information when you make a donation or adopt a polar bear. We do not retain credit card information online. We keep a record of personal information derived from orders and donations to the extent required by our auditors to verify our accounting system.
