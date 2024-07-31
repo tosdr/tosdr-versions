@@ -44,6 +44,8 @@ English
 
 Content Preferences
 
+Please sign in to customize your preferences. Login or Create a Free Account
+
 Filter games by content type:
 
  Female + Male Female + Female  Male + Male  Transgender
@@ -65,23 +67,23 @@ Filter games by content type:
 
 * Trending Genres
 * [RPG](https://www.nutaku.net/games/rpg/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Clicker](https://www.nutaku.net/games/clicker/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Simulation](https://www.nutaku.net/games/simulation/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Dating Sim](https://www.nutaku.net/games/dating-sim/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Adventure](https://www.nutaku.net/games/adventure/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Strategy](https://www.nutaku.net/games/strategy/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Visual Novel](https://www.nutaku.net/games/visual-novel/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Simulation](https://www.nutaku.net/games/simulation/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Dating Sim](https://www.nutaku.net/games/dating-sim/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Puzzle](https://www.nutaku.net/games/puzzle/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Clicker](https://www.nutaku.net/games/clicker/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Adventure](https://www.nutaku.net/games/adventure/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Fighting](https://www.nutaku.net/games/fighting/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [VIEW ALL GENRES](https://www.nutaku.net/directory/genres/)
 * Trending Tags
 * [Anime](https://www.nutaku.net/games/genre/anime/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Free to Play](https://www.nutaku.net/games/genre/free-to-play/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Uncensored](https://www.nutaku.net/games/genre/uncensored/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Fantasy](https://www.nutaku.net/games/genre/fantasy/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Female Protagonist](https://www.nutaku.net/games/genre/female-protagonist/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [3D](https://www.nutaku.net/games/genre/3d/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Monster](https://www.nutaku.net/games/genre/monster/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Free to Play](https://www.nutaku.net/games/genre/free-to-play/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Western](https://www.nutaku.net/games/genre/western/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [VR](https://www.nutaku.net/games/genre/vr/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Dragon](https://www.nutaku.net/games/genre/dragon/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
