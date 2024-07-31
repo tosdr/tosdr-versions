@@ -97,7 +97,7 @@ Yes
 
 No
 
-Last updated 3 months ago
+Last updated 4 months ago
 
 English (US)[Change](https://support.ring.com/support/language-selector?prevPage=/support/articles/ech34/Why-Ring-Needs-a-Verification-Code-When-Signing-In)
 
