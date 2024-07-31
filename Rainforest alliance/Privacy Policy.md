@@ -360,9 +360,9 @@ Get updates from the Rainforest Alliance, straight to your inbox.
 
 Email
 
-opt-in
+general or business(Required)
 
- Send me general updates
+ Send me updates on how I can help people and nature
 
  Send me business updates
 
