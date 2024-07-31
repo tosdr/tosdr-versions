@@ -3,7 +3,6 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +22,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 #### S'informer
 
@@ -60,7 +58,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +83,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Paléo Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-47e-edition-du-paleo-festival-28577111.html)
 
 #### S'informer
 
