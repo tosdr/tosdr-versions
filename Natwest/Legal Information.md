@@ -707,7 +707,7 @@ If you do not change your preference here, your current preference, (as indicate
 * [Accessibility](https://personal.natwest.com/accessibility.html)
 * [Careers](https://jobs.natwestgroup.com/)
 * [Site Map](https://personal.natwest.com/site-map.html)
-* [Modern Slavery Act](https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/2023-Statement-of-Modern-Slavery-and-Human-Trafficking.pdf%20)
+* [Modern Slavery Act](https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/2023-Statement-of-Modern-Slavery-and-Human-Trafficking.pdf)
 
 * [Facebook](https://www.facebook.com/NatWest)
 * [twitter](https://twitter.com/NatWest_Help)
