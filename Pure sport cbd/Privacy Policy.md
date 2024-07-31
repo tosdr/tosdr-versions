@@ -22,6 +22,8 @@ Update
 
 Check out
 
+10% off first purchase with code - NEW10
+
           
 
   Search 
@@ -38,7 +40,7 @@ Check out
     
     ---------
     
-    [SHOP ALL](https://puresportcbd.com/collections/shop-all-apparel) [COLLECTION 01](https://puresport.co/collections/collection-01) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/collections/socks)
+    [SHOP ALL](https://puresportcbd.com/collections/shop-all-apparel) [COLLECTION 02](https://puresportcbd.com/collections/collection-02) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/collections/socks)
     
 * SHOP BY GOAL
     
@@ -52,11 +54,11 @@ Check out
     
     -----------
     
-    [CLUBS](https://puresportcbd.com/pages/clubs) [AMBASSADORS](https://puresportcbd.com/pages/ambassadors) [EVENTS](https://puresport.co/apps/events/calendar)[![Puresport](//puresport.co/cdn/shop/files/V2_Website_PS_-_LOGO.png?v=1669815435)](https://puresportcbd.com/)
+    [COMMUNITY](https://puresportcbd.com/pages/community) [AMBASSADORS](https://puresportcbd.com/pages/ambassadors) [EVENTS](https://puresportcbd.com/pages/events_calendar)[![Puresport](//puresport.co/cdn/shop/files/V2_Website_PS_-_LOGO.png?v=1669815435)](https://puresportcbd.com/)
 
 * [ ]  [Supplements](https://puresportcbd.com/collections/all)
     
-    [![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Untitled_design_34_1a8bba73-47d2-48e2-9f4b-c2a5cb630164.png?v=1719560508&width=900)](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Untitled_design_42_f059b954-2f21-4996-b70e-bd955d03968f.png?v=1719560550&width=900)](https://puresportcbd.com/collections/performance-nootropics)[![](//puresport.co/cdn/shop/files/Untitled_design_65_2668744a-8577-4a33-abb6-0cc14fc24043.jpg?v=1719560617&width=900)](https://puresportcbd.com/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_edc8b5b8-69bf-4470-9aca-49cb2424e7f0.png?v=1719560646&width=900)](https://puresportcbd.com/collections/cbd-tinctures)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_1_570a0bac-b49c-4cc2-9fcc-9ec24abbb15d.png?v=1719560583&width=900)](https://puresportcbd.com/collections/all)
+    [![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Hovers.jpg?v=1722351932&width=900)](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Hormone_Balance.jpg?v=1722345375&width=900)](https://puresportcbd.com/collections/performance-nootropics)[![](//puresport.co/cdn/shop/files/Hovers5.jpg?v=1722351810&width=900)](https://puresportcbd.com/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_edc8b5b8-69bf-4470-9aca-49cb2424e7f0.png?v=1719560646&width=900)](https://puresportcbd.com/collections/cbd-tinctures)[![](//puresport.co/cdn/shop/files/Performance_3419c296-7e11-4124-9b5e-4d309cd1e3cd.jpg?v=1722352355&width=900)](https://puresportcbd.com/collections/all)
     
     SHOP BY CATEGORY
     
@@ -67,17 +69,17 @@ Check out
     [Hydration](https://puresportcbd.com/collections/electrolytes) [Performance](https://puresportcbd.com/collections/performance-nootropics) [Sleep](https://puresportcbd.com/collections/sleep-1) [Recovery](https://puresportcbd.com/collections/recovery) [Hormone Balance](https://puresportcbd.com/collections/hormone-support)
     
 
-* [ ]  [Apparel](https://puresportcbd.com/collections/collection-01)
+* [ ]  [Apparel](https://puresportcbd.com/collections/shop-all-apparel)
     
-    [![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/collections/shop-all-apparel)[![](//puresport.co/cdn/shop/files/Collection_01.jpg?v=1719560352&width=900)](https://puresportcbd.com/collections/collection-01)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/collections/socks)
+    [![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/collections/shop-all-apparel)[![](//puresport.co/cdn/shop/files/C2_Collection.jpg?v=1722330970&width=900)](https://puresportcbd.com/collections/collection-02)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/collections/socks)
     
     SHOP BY CATEGORY
     
-    [Shop All](https://puresportcbd.com/collections/shop-all-apparel) [Collection 01](https://puresportcbd.com/collections/collection-01) [Performance](https://puresportcbd.com/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/collections/socks)
+    [Shop All](https://puresportcbd.com/collections/shop-all-apparel) [Collection 02](https://puresportcbd.com/collections/collection-02) [Performance](https://puresportcbd.com/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/collections/socks)
     
 * [Our Story](https://puresportcbd.com/pages/our-story)
-* [Clubs](https://puresportcbd.com/pages/clubs)
-* [Events](https://puresportcbd.com/apps/events/calendar)
+* [Community](https://puresportcbd.com/pages/community)
+* [Ambassadors](https://puresportcbd.com/pages/ambassadors)
 
  Search [Log in](https://puresportcbd.com/account/login)[Basket](https://puresportcbd.com/cart)
 
