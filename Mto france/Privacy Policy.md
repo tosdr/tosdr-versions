@@ -202,7 +202,7 @@ Suivez-nous
 Politique de Confidentialité
 ============================
 
-27/07/2024
+30/07/2024
 
 Relativement à ses activités, Météo-France est amené à traiter des données à caractère personnel vous concernant. A ces fins, nous nous engageons à respecter les réglementations en vigueur concernant la protection des données à caractère personnel, soit la loi informatique et libertés n°78-17 du 6 janvier 1978, ainsi que le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016.
 
@@ -375,6 +375,8 @@ VIII. COOKIES
 -------------
 
 Pour toutes les informations relatives à l'utilisation des cookies par Météo-France, vous pouvez consulter la page sur la [gestion des cookies](https://meteofrance.com/gestion-des-cookies).
+
+[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Participez au concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
