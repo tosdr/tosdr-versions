@@ -439,6 +439,7 @@ Search
 * [Art Supplies & Crafts](https://www.nascoeducation.com/art-supplies-crafts.html)
     * [Art Supplies](https://www.nascoeducation.com/art-supplies-crafts/art-supplies.html)
         * [3D Printing](https://www.nascoeducation.com/art-supplies-crafts/art-supplies/3d-printing.html)
+        * [Adaptive Art Supplies](https://www.nascoeducation.com/art-supplies-crafts/art-supplies/adaptive-art-supplies.html)
         * [Airbrushing](https://www.nascoeducation.com/art-supplies-crafts/art-supplies/airbrushing.html)
         * [Art Brushes](https://www.nascoeducation.com/art-supplies-crafts/art-supplies/art-brushes.html)
         * [Audiovisual Presentation](https://www.nascoeducation.com/art-supplies-crafts/art-supplies/audiovisual-presentation.html)
