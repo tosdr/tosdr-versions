@@ -1,3 +1,7 @@
+•
+
+
+
 MOBILE BANKING,ONLINE BANKING,AND BILL PAY
 
 
@@ -14,11 +18,7 @@ navyfederal.org 1-888-842-6328
 
 Federally insured by NCUA.
 
-© 2024 Navy Federal NFCU 652A (3-24)
-
-
-
-•
+© 2024 Navy Federal NFCU 652A (7-24)
 
 TABLE OF CONTENTS
 
@@ -48,6 +48,8 @@ By agreeing to this ESIGN Disclosure, you are consenting to receive the followin
 
 All documents that we provide to you in electronic form will be provided either (1) viaemail, or (2) by access to a website or mobile application. 1
 
+¹Message and data rates may apply. Visit navyfederal.org for more information.
+
 
 
 3\. Withdrawal of Consent
@@ -64,11 +66,13 @@ You agree to provide us with a true, accurate, and complete email address and ot
 
 We do not endorse a specific operating system or particular web browser. To receive alldocuments and notices electronically related to Mobile and Online Banking, you musthave one or more of the following:• a valid email address;• a current version (defined below) of a web browser;• a current version of our Navy Federal application (via the App Store® or Google Play TM);• a connection to the internet;• a current version of a program that reads and displays PDF documents, such asAdobe Acrobat Reader®, for viewing and retaining certain disclosures;• a printer, if you wish to print your disclosures and retain your records in paper;• the capacity to store information; and• an internet access device, such as a smartphone, tablet, computer desktop, orlaptop, with an operating system (Windows ®, MacOS®, iOS, or AndroidTM) capableof supporting the above.By “current version”, we mean a version of the software that is supported. Wereserve the right to discontinue support of a current version of software for securityor stability purposes. The following link includes more information on the operatingsystems and web browsers we currently support and related system requirements:
 
-Software and Hardware Requirements. We may not support some older operatingsystems or web browsers, so if you are using an outdated version, you may needto update it in order to get access to Mobile and Online Banking. You should checkthe Software and Hardware Requirements page occasionally for updates onsupported software. The Software and Hardware Requirements are available on theBrowser Support page of navyfederal.org.From time to time, we may offer services or features that require your web browser tobe configured in a particular way, such as permitting the use of JavaScript or cookies.If we detect that your web browser is not properly configured, we will provide you witha notice and advice on how to update your configuration.¹Message and data rates may apply. Visit navyfederal.org for more information.App Store® and MacOS are trademarks of Apple, Inc., registered in the U.S. and othercountries. Windows® is a registered trademark of Microsoft Corporation in the UnitedStates and/or other countries. Google Play TM is a trademark of Google LLC. AdobeAcrobat Reader ® is a registered trademark of Adobe Systems Incorporated in theUnited States and/or other countries. iOS is a trademark or registered trademark ofCisco in the U.S. and other countries and is used under license.
+Software and Hardware Requirements. We may not support some older operatingsystems or web browsers, so if you are using an outdated version, you may needto update it in order to get access to Mobile and Online Banking. You should checkthe Software and Hardware Requirements page occasionally for updates onsupported software. The Software and Hardware Requirements are available on theBrowser Support page of navyfederal.org.From time to time, we may offer services or features that require your web browser tobe configured in a particular way, such as permitting the use of JavaScript or cookies.If we detect that your web browser is not properly configured, we will provide you witha notice and advice on how to update your configuration.
+
+App Store® and MacOS are trademarks of Apple, Inc., registered in the U.S. and othercountries. Windows® is a registered trademark of Microsoft Corporation in the UnitedStates and/or other countries. Google Play TM is a trademark of Google LLC. AdobeAcrobat Reader ® is a registered trademark of Adobe Systems Incorporated in theUnited States and/or other countries. iOS is a trademark or registered trademark ofCisco in the U.S. and other countries and is used under license.
 
 1 2
 
-3 4
+3
 
 
 
@@ -120,9 +124,7 @@ With Mobile and Online Banking, you will have access to all existing and futurea
 
 3\. Trusted User
 
-You may elect to authorize Online and Mobile Banking access only for any number ofTrusted Users, in addition to yourself. A separate application and agreement must besigned for each Trusted User. If you desire a Trusted User to have access to your accountvia Online and Mobile Banking, you must sign the Mobile Banking, Online and MobileBanking, and Bill Pay Application and Agreement as the Member, and the other personmust sign the application as the Trusted User. At the time you add a Trusted User, theTrusted User will by default have no access to existing accounts held in your name. Aftera Trusted User is added, you will need to sign into Online or Mobile Banking to designateaccess for each Trusted User.
-
-5 6
+You may elect to authorize Online and Mobile Banking access only for any number ofTrusted Users, in addition to yourself. A separate application and agreement must besigned for each Trusted User. If you desire a Trusted User to have access to your accountvia Online and Mobile Banking, you must sign the Mobile Banking, Online and MobileBanking, and Bill Pay Application and Agreement as the Member, and the other personmust sign the application as the Trusted User. At the time you add a Trusted User, theTrusted User will by default have no access to existing accounts held in your name. Aftera Trusted User is added, you will need to sign into Online or Mobile Banking to designateaccess for each Trusted User.4
 
 You can manage your Trusted User’s privileges via Online Banking: Sign in\>Click yourname in the top right corner\>Manage Trusted Users\>Select Edit for Each TrustedUser, or via Mobile Banking: Sign in\>More\>Settings\>Trusted Users. This will allowyou to provide access to your Trusted User(s) to certain accounts and Services as youdeem necessary. Trusted Users will not have access to any future accounts unlessyou add access in Manage Trusted Users. By default, Trusted Users added to Trust,Association, or Custodial accounts will automatically have full access to all existingand future accounts. Access to these accounts cannot be modified, only added orremoved. Based on access granted, your Trusted User will have the authority toperform, including, but not limited to, the following functions through Online andMobile Banking:• Make transfers to and from your account• Enroll in or access your Bill Pay Service• View your eStatements, suppress your paper statements, and request astatement copy• Enroll in Mobile Deposits and use the Mobile Deposits Service• Check the status of a pending loan application• Update your personal information• Sign up for email alerts• Send us an eMessage• View your account details and account summary• View checks online, order checks, or make a stop payment request on a check• Change your checking account typeNote that, while your Trusted User may access your lines of credit, you remain solelyresponsible for repayment if any credit is extended. Authorizing Online and MobileBanking for a Trusted User will make you financially liable for all unauthorized access,losses, or misuse of your accounts until reported to Navy Federal.
 
@@ -136,7 +138,9 @@ Online and Mobile Banking is offered to adults and to minors fourteen (14) years
 
 6\. Your Account Ownership and Contact Information
 
-You represent that you are the legal owner or Trusted User of the account and otherfinancial information, which may be accessed via Online and Mobile Banking.You represent and agree that all information you provide us in connection with Onlineand Mobile Banking is accurate, current, and complete, and that you have the right toprovide such information to us for the purpose of operating Online and Mobile BankingServices. You agree not to misrepresent your identity or your account information. Youagree to keep your account information confidential, up to date, and accurate.It is your sole responsibility to ensure that your contact information with Navy Federal iscurrent and accurate. You may change your contact information by editing your profilevia the Navy Federal mobile app or Online and Mobile Banking. You may also callNavy Federal at 1-888-842-6328 or write us at Navy Federal Credit Union (EFT),P.O. Box 3001, Merrifield, VA 22119-3001.
+You represent that you are the legal owner or Trusted User of the account and otherfinancial information, which may be accessed via Online and Mobile Banking.You represent and agree that all information you provide us in connection with Onlineand Mobile Banking is accurate, current, and complete, and that you have the right toprovide such information to us for the purpose of operating Online and Mobile BankingServices. You agree not to misrepresent your identity or your account information. Youagree to keep your account information confidential, up to date, and accurate.
+
+It is your sole responsibility to ensure that your contact information with Navy Federal iscurrent and accurate. You may change your contact information by editing your profilevia the Navy Federal mobile app or Online and Mobile Banking. You may also callNavy Federal at 1-888-842-6328 or write us at Navy Federal Credit Union (EFT),PO Box 3001, Merrifield, VA 22119-3001.
 
 
 
@@ -164,17 +168,23 @@ Notifications related toaccount transactions,including, but not limited to,accou
 
 Messagefrequency varies
 
-On-DemandAlerts 7394924149Receive information you haverequested via a one-time textmessage to your mobile phoneOne-time perrequest
+On-DemandAlerts7394924149Receive information you haverequested via a one-time textmessage to your mobile phoneOne-time perrequest
 
-VisitNotifications 36428 Notifications about your visit toan NFCU Branch Messagefrequency variesAccountServicing andCollectionAlerts3753162351Notifications to contact youfor account servicing andcollection purposes, includingpayment remindersMessagefrequency varies
+VisitNotifications 36428 Notifications about your visit toan NFCU Branch Messagefrequency variesAccountServicing andCollectionAlerts
+
+3753162351Notifications to contact youfor account servicing andcollection purposes, includingpayment remindersMessagefrequency varies
 
 InformationalAlerts 39227 Receive informationalmessages about Navy Federal Messagefrequency varies
 
 Status Alerts 4632868678Notifications related to accountstatus updates, including, butnot limited to, application andappointment updatesMessagefrequency varies
 
-If you have questions about mobile or text messages related to the Serviceslisted above, you may send a text message with the word “HELP” to theapplicable SMS Short Code or call us toll-free at 1-888-868-8123. To stopreceiving text messages for any of the above Services on your phone, text
+Visa ConsumerAuthenticationService (VCAS)833 7384591Free to End User SMS messageto receive your VCAS OTP viatext message on your phoneOne-time astransactionqualifiesIf you have questions about mobile or text messages related to the Serviceslisted above, you may send a text message with the word “HELP” to theapplicable SMS Short Code or call us toll-free at 1-888-868-8123 . To stopreceiving text messages for any of the above Services on your phone, text
 
-“STOP” to the applicable SMS Short Code. Wireless service providers andwireless carriers are not liable for delayed or undelivered messages.
+“STOP” to the applicable SMS Short Code . Wireless service providers andwireless carriers are not liable for delayed or undelivered messages.
+
+
+
+5 6
 
 8\. Types of Available Transfers Using Mobile and Online Banking
 
@@ -224,7 +234,7 @@ You will receive a statement monthly unless your account(s) has/have not engaged
 
 Navy Federal does not charge for transfers initiated or account information viewedvia Navy Federal Mobile or Online Banking, or for the Bill Pay Services, except forthe optional “Rush Delivery” fee for expedited Bill Pay. However, message anddata rates may apply. Visit navyfederal.org for more information. Please see the
 
-Schedule of Fees and Charges at navyfederal.org for fees charged for othertransactions and optional services. Navy Federal reserves the right to charge forMobile or Online Banking, including Bill Pay. You will be given at least twenty-one(21) days advance notice before Navy Federal implements any new fees for Mobileor Online Banking or Bill Pay.
+Schedule of Fees and Charges at navyfederal.org for fees charged for othertransactions and optional services. Navy Federal reserves the right to charge forMobile or Online Banking, including Bill Pay. You will be given at least twenty-one(21) days advance notice before Navy Federal implements any new fees for Mobileor Online Banking, or Bill Pay.
 
 15\. Our Liability for Failure to Make Transfers
 
@@ -244,7 +254,7 @@ navyfederal.org.
 
 This Agreement shall be governed by and construed in accordance with the lawsof the Commonwealth of Virginia, without regard to its conflicts of laws provisions,provided, however, that any dispute solely between you and the Service Provider shallbe governed by and construed in accordance with the laws of the State of Georgia,without regard to its conflicts of laws provisions. To the extent that the terms of thisAgreement conflict with applicable state or federal law, such state or federal law shallreplace such conflicting terms only to the extent required by law. Unless expresslystated otherwise, all other terms of this Agreement shall remain in full force and effect.Unless our Important Disclosures Booklet states otherwise, you agree that any claim ordispute you may have against us must be resolved by a court located in the county inwhich you reside. You agree to submit to the personal jurisdiction of such courts for thepurpose of litigating all claims or disputes. The United Nations Convention on Contractsfor the International Sale of Goods shall not apply to this Agreement.
 
-THE FOREGOING SHALL CONSTITUTE THE SERVICE’S ENTIRE LIABILITY ANDYOUR EXCLUSIVE REMEDY. IN NO EVENT SHALL THE SERVICE BE LIABLEFOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OREXEMPLARY DAMAGES, INCLUDING LOST PROFITS (EVEN IF ADVISED OF THEPOSSIBILITY THEREOF) ARISING IN ANY WAY OUT OF THE INSTALLATION, USE,OR MAINTENANCE OF THE EQUIPMENT, SOFTWARE, AND/OR SERVICE.
+THE FOREGOING SHALL CONSTITUTE THE SERVICE’S ENTIRE LIABILITY ANDYOUR EXCLUSIVE REMED Y. IN NO EVENT SHALL THE SERVICE BE LIABLEFOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OREXEMPLARY DAMAGES, INCLUDING LOST PROFITS (EVEN IF ADVISED OF THEPOSSIBILITY THEREOF) ARISING IN ANY WAY OUT OF THE INSTALLATION, USE,OR MAINTENANCE OF THE EQUIPMENT, SOFTWARE, AND/OR SERVICE.
 
 18\. Unauthorized Use
 
@@ -304,7 +314,7 @@ our prior written consent, which we may withhold in our sole discretion, and you
 
 30\. Exclusions of Warranties
 
-THE NAVY FEDERAL WEBSITE, THE SITE AND SERVICE(S), AND RELATEDDOCUMENTATION ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUTWARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOTLIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESSFOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN PARTICULAR, WE DONOT GUARANTEE CONTINUOUS, UNINTERRUPTED, OR TIMELY ACCESS TO ANYPART OF OUR SERVICE(S), AND OPERATION OF THE NAVY FEDERAL WEBSITEAND THE SITE MAY BE INTERFERED WITH BY NUMEROUS FACTORS. SOMESTATES DO NOT ALLOW THE DISCLAIMER OF CERTAIN IMPLIED WARRANTIES,SO THE FOREGOING DISCLAIMERS MAY NOT APPLY TO YOU. THIS PARAGRAPHGIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER LEGALRIGHTS THAT VARY FROM STATE TO STATE.
+THE NAVY FEDERAL WEBSITE, THE SITE AND SERVICE(S), AND RELATEDDOCUMENTATION ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUTWARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOTLIMITED TO, THE IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESSFOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN PARTICULAR, WE DONOT GUARANTEE CONTINUOUS, UNINTERRUPTED, OR TIMELY ACCESS TO ANYPART OF OUR SERVICE(S), AND OPERATION OF THE NAVY FEDERAL WEBSITE ANDTHE SITE MAY BE INTERFERED WITH BY NUMEROUS FACTORS. SOME STATESDO NOT ALLOW THE DISCLAIMER OF CERTAIN IMPLIED WARRANTIES, SO THEFOREGOING DISCLAIMERS MAY NOT APPLY TO YOU. THIS PARAGRAPH GIVES YOUSPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THATVARY FROM STATE TO STATE.
 
 31\. Limitation of Liability
 
@@ -348,15 +358,15 @@ This section provides information and additional terms and conditions foruse of 
 
 
 
-1. Bill Pay Definitions
+1\. Bill Pay Definitions
 
-• “Biller” is the person or entity to which you wish a bill payment to be directedor is the person or entity from which you receive electronic bills (E-Bills), asthe case may be.• “Billing Account” is your primary checking account from which any Servicefees, excluding the optional Rush Delivery fee, will automatically be debited.• “Customer Care” represents the customer service provided by the ServiceProvider to Navy Federal’s Bill Pay subscribers on Navy Federal’s behalf.• “Due Date” is the date reflected on your Biller statement for which thepayment is due. It is not the late date or grace period.• “Payment Account” is the checking account from which bill payments will bedebited. If you use the optional Rush Delivery service, the Rush Delivery feewill automatically be debited from this account.• “Payment Instruction” is the information provided by you to the Service for abill payment to be made to the Biller (such as, but not limited to, Biller name,Biller account number, and Scheduled Payment Date).• “Rush Delivery” is an optional service available with participating Billers thatallows you to initiate payment for immediate processing for an additional fee.• “ Scheduled Payment” is a payment that has been scheduled through theService but has not begun processing.• “ Scheduled Payment Date” is the day you want your Biller to receive your billpayment and is also the day your Payment Account will be debited, unlessthe Scheduled Payment Date falls on a non-Business Day, in which case itwill be considered to be the previous Business Day. Payments with theoptional Rush Delivery service will begin processing immediately.• “Service” means, in this Bill Pay Terms and Conditions section, Navy Federal’sBill Pay Service, offered through our Service Provider(s).• “Site”means the portion of Navy Federal’s website,navyfederal.org,or mobileapp through which the Bill Pay Service is offered.
+• “Biller” is the person or entity to which you wish a bill payment to be directedor is the person or entity from which you receive electronic bills (E-Bills), asthe case may be.• “Billing Account” is your primary checking account from which any Servicefees, excluding the optional Rush Delivery fee, will automatically be debited.• “Customer Care” represents the customer service provided by the ServiceProvider to Navy Federal’s Bill Pay subscribers on Navy Federal’s behalf.• “Due Date” is the date reflected on your Biller statement for which thepayment is due. It is not the late date or grace period.• “Payment Account” is the checking account from which bill payments will bedebited. If you use the optional Rush Delivery service, the Rush Delivery feewill automatically be debited from this account.• “Payment Instruction” is the information provided by you to the Service for abill payment to be made to the Biller (such as, but not limited to, Biller name,Biller account number, and Scheduled Payment Date).• “Rush Delivery” is an optional service available with participating Billers thatallows you to initiate payment for immediate processing for an additional fee.• “Scheduled Payment” is a payment that has been scheduled through theService but has not begun processing.• “Scheduled Payment Date” is the day you want your Biller to receive your billpayment and is also the day your Payment Account will be debited, unlessthe Scheduled Payment Date falls on a non-Business Day, in which case itwill be considered to be the previous Business Day. Payments with theoptional Rush Delivery service will begin processing immediately.• “Service” means, in this Bill Pay Terms and Conditions section, Navy Federal’sBill Pay Service, offered through our Service Provider(s).• “Site”means the portion of Navy Federal’s website,navyfederal.org,or mobileapp through which the Bill Pay Ser vice is offered.
 
 2\. Service Providers
 
 We are offering you the Service through one or more Service Providers that we haveengaged to render some or all of the Service to you on our behalf. The Service Providerwill be processing Bill Pay payments and answering questions directly related to suchmember-initiated Bill Pay payments. Notwithstanding that we have engaged such aService Provider to render some or all of the Service to you, we are the sole party liable
 
-1615
+15 16
 
 to you for any payments or transfers conducted using the Bill Pay Service. You agreethat we have the right under this Agreement to delegate to Service Providers all therights and performance obligations that we have under this Agreement, and that theService Providers will be third-party beneficiaries of this Agreement and will be entitledto all the rights and protections that this Agreement provides to us. Navy Federal, in oursole discretion, reserves the right to change Bill Pay Service Providers.The Service Providers are independent contractors for all purposes, except that theyact as your agent with respect to the custody of your funds for the Service. TheService Providers do not have control of, or liability for, any products or servicesthat are paid for with the Service. The Service Providers also do not guarantee theidentity of any user of the Service (including, but not limited to, Receivers to whomyou send payments).
 
@@ -428,7 +438,7 @@ The earliest possible Scheduled Payment Date for each Biller (typically four (4)
 
 19 20
 
-Please note: While you can make payments to your Navy Federal loan accounts usingthe Service, you can also make payments using the transfer payment option on theNavy Federal Online Banking service at no charge.Rush Delivery: In order for a Rush Delivery payment to be processed the same day,it must be initiated on a Business Day and prior to the Biller’s cutoff time. Cutofftimes vary by Biller. If Rush Delivery is not available for an intended Biller, if youhave missed the Biller’s cutoff time for that day, or if you attempt to submit a RushDelivery payment on a non-Business Day, it will not be presented as an option to you.
+Please note: While you can make payments to your Navy Federal loan accounts usingthe Service, you can also make payments using the transfer payment option on theNavy Federal Online Banking service at no charge.Rush Delivery: In order for a Rush Delivery payment to be processed the same day,it must be initiated on a Business Day and prior to the Biller’ s cutoff time. Cutofftimes vary by Biller. If Rush Delivery is not available for an intended Biller, if youhave missed the Biller’s cutoff time for that day, or if you attempt to submit a RushDelivery payment on a non-Business Day, it will not be presented as an option to you.
 
 17\. The Service Guarantee
 
@@ -454,7 +464,7 @@ You may cancel or edit any Scheduled Payment, including recurring payments,but e
 
 22\. Stop Payment Requests
 
-The Service’s ability to process a stop payment request will depend on the paymentmethod and whether or not a check has cleared. The Service may also not have areasonable opportunity to act on any stop payment request after a payment has beenprocessed. If you desire to stop any payment that has already been processed, youmust contact Bill Pay Customer Care, offered through our Service Provider. Althoughthe Service will make every effort to accommodate your request, the Service willhave no liability for failing to do so. The Service may also require you to present yourrequest in writing within fourteen (14) days. Please refer to the Schedule of Feesand Charges, which can be found on the Navy Federal website (navyfederal.org).A stop payment request cannot be submitted for “Rush Delivery.”
+The Service’s ability to process a stop payment request will depend on the paymentmethod and whether or not a check has cleared. The Service may also not have areasonable opportunity to act on any stop payment request after a payment has beenprocessed. If you desire to stop any payment that has already been processed, youmust contact Bill Pay Customer Care, offered through our Service Provider. Althoughthe Service will make every effort to accommodate your request, the Service willhave no liability for failing to do so. The Service may also require you to present yourrequest in writing within fourteen (14) days. Please refer to the Schedule of Feesand Charges, which can be found on the Navy Federal website ( navyfederal.org).A stop payment request cannot be submitted for “Rush Delivery.”
 
 23\. Electronic Bill (E-Bill) Delivery and Presentment
 
@@ -481,5 +491,3 @@ NOTES
 
 
 23
-
-NOTES NOTES
