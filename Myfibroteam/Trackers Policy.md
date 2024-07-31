@@ -1,3 +1,5 @@
+                                                       The social network for those living with fibromyalgia. | MyFibroTeam  
+
 Many features of MyFibroTeam will not work unless you enable JavaScript support in your browser.
 
 ![](https://www.myfibroteam.com/assets/fbr/logo_home-ea86f2593a86a527f2af1d138981963e86244573961e35e1f77b2d145888bf18.png)
