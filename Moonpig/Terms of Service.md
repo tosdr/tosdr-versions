@@ -69,7 +69,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
-    * [Graduation](https://www.moonpig.com/uk/personalised-cards/graduation/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
@@ -201,7 +200,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/gifts/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/anniversary/all/)
-    * [Graduation](https://www.moonpig.com/uk/gifts/graduation/)
     * [Good Luck](https://www.moonpig.com/uk/gifts/good-luck/)
     * [New Baby](https://www.moonpig.com/uk/gifts/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/gifts/new-home/)
