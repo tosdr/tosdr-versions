@@ -14,8 +14,8 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     #### [Hansard](https://parliament.vic.gov.au/hansard) Chevron-right
     
+    * [Read today's Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
-    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
     #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources) Chevron-right
     
@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Report on Auditor-General's performance tabled
+        
+        Next](https://parliament.vic.gov.au/news/general-news/audit-report)[Next
+        
+        Flood report recommends retrofit of at-risk homes
+        
+        Next](https://parliament.vic.gov.au/news/environment/floodreport)[Next
+        
         Vapes adding to a mounting e-waste problem
         
-        Next](https://parliament.vic.gov.au/news/environment/vaping-ewaste)[Next
-        
-        MPs lead students on journey of service and sacrifice
-        
-        Next](https://parliament.vic.gov.au/news/general-news/kokoda24return)[Next
-        
-        Youth facing financial and mental health challenges
-        
-        Next](https://parliament.vic.gov.au/news/society/young-victorians)
+        Next](https://parliament.vic.gov.au/news/environment/vaping-ewaste)
     
 * Visit Chevron-down
     
