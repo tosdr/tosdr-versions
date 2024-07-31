@@ -2,15 +2,15 @@
 
 Products
 
-  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/svg/icon-prezi-video.svg)Videos](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)
+  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/svg/icon-prezi-video.svg)Videos](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)
 
-  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/svg/icon-prezi-present.svg)Presentations](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)
+  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/svg/icon-prezi-present.svg)Presentations](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)
 
-  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/svg/icon-prezi-design.svg)Infographics](https://prezi.com/design/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_design)
+  [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/svg/icon-prezi-design.svg)Infographics](https://prezi.com/design/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_design)
 
 Integrations
 
- [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/webex.jpg)Webex The exciting new way to engage and connect hybrid teams.](https://prezi.com/video/works-with/webex/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/zoom.jpg)Zoom Give more engaging, meaningful, virtual presentations in Zoom.](https://prezi.com/video/works-with/zoom/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/tofu/icons/microsoft_teams.jpg)Microsoft Teams Make your Microsoft Teams meetings more visual and engaging.](https://prezi.com/video/works-with/ms-teams-business)
+ [![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/webex.jpg)Webex The exciting new way to engage and connect hybrid teams.](https://prezi.com/video/works-with/webex/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/zoom.jpg)Zoom Give more engaging, meaningful, virtual presentations in Zoom.](https://prezi.com/video/works-with/zoom/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/tofu/icons/microsoft_teams.jpg)Microsoft Teams Make your Microsoft Teams meetings more visual and engaging.](https://prezi.com/video/works-with/ms-teams-business)
 
 Inspiration
 
@@ -64,11 +64,11 @@ Connect
 
 [Get started](https://prezi.com/signup/?click_source=logged_element&page_location=hamburger_menu&element_text=get_started)
 
-   [![Prezi Present](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/icon-prezi-present.svg) Prezi Present
+   [![Prezi Present](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/icon-prezi-present.svg) Prezi Present
 
-Create moving, zooming presentations that grab attention and keep it.](https://prezi.com/product/?click_source=logged_element&page_location=_product_dropdown&element_text=prezi_present)   [![Prezi Video](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/icon-prezi-video.svg) Prezi Video
+Create moving, zooming presentations that grab attention and keep it.](https://prezi.com/product/?click_source=logged_element&page_location=_product_dropdown&element_text=prezi_present)   [![Prezi Video](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/icon-prezi-video.svg) Prezi Video
 
-Appear right alongside your content while presenting to your audience.](https://prezi.com/video/?click_source=logged_element&page_location=_product_dropdown&element_text=prezi_video)   [![Prezi Design](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/navigation/icon-prezi-design.svg) Prezi Design
+Appear right alongside your content while presenting to your audience.](https://prezi.com/video/?click_source=logged_element&page_location=_product_dropdown&element_text=prezi_video)   [![Prezi Design](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/navigation/icon-prezi-design.svg) Prezi Design
 
 Make stunning interactive charts, reports, maps, infographics, and more.](https://prezi.com/design/?click_source=logged_element&page_location=_product_dropdown&element_text=prezi_design)
 
@@ -583,9 +583,9 @@ Prezi Inc.
     [Product presentations: defining them and creating your own](https://blog.prezi.com/product-presentation/)
 * [Latest posts](https://blog.prezi.com/)
 
-* [![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/facebook-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/ "Link to the Prezi facebook page")
-* [![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/twitter-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi "Link to the Prezi twitter page")
-* [![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/linkedin-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295 "Link to the Prezi LinkedIn company page")
+* [![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/facebook-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/ "Link to the Prezi facebook page")
+* [![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/twitter-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi "Link to the Prezi twitter page")
+* [![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/linkedin-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295 "Link to the Prezi LinkedIn company page")
 
 © 2024 Prezi Inc. [Terms](https://prezi.com/legal/terms-of-service/?click_source=logged_element&page_location=footer&element_text=terms) & [Privacy Policy](https://prezi.com/legal/privacy-policy/?click_source=logged_element&page_location=footer&element_text=privacy_policy)
 
@@ -645,8 +645,8 @@ Prezi Inc.
 * [Infographics](https://infogram.com/templates?utm_source=referral&utm_medium=prezi&utm_campaign=site-footer#infographics)
 * [Charts](https://infogram.com/templates?utm_source=referral&utm_medium=prezi&utm_campaign=site-footer#single-chart)
 
-* [![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/facebook-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/ "Link to the Prezi facebook page")
-* [![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/twitter-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi "Link to the Prezi twitter page")
-* [![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4782-05139a4/common/img/footers/linkedin-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295 "Link to the Prezi LinkedIn company page")
+* [![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/facebook-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/ "Link to the Prezi facebook page")
+* [![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/twitter-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi "Link to the Prezi twitter page")
+* [![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4784-5959370/common/img/footers/linkedin-icon.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295 "Link to the Prezi LinkedIn company page")
 
 © 2024 Prezi Inc. [Terms](https://prezi.com/legal/terms-of-service/?click_source=logged_element&page_location=footer_mobile&element_text=terms) & [Privacy Policy](https://prezi.com/legal/privacy-policy/?click_source=logged_element&page_location=footer&element_text=privacy_policy)
