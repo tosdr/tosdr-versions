@@ -154,4 +154,4 @@ Please leave this field empty.
 
 Δ
 
-© 2022 QBS LLC. All Rights Reserved. | [Privacy Policy](https://qbs.com/privacy-policy) | [Terms & Conditions](https://qbs.com/terms-and-conditions/) | [W-9 Form](https://qbs.com/wp-content/uploads/2024/02/W9-QBS-LLC-2024.pdf) | [Sole Source](https://qbs.com/wp-content/uploads/2022/07/Sole-Source-Letter-2022.pdf)
+© 2022 QBS LLC. All Rights Reserved. | [Privacy Policy](https://qbs.com/privacy-policy) | [Terms & Conditions](https://qbs.com/terms-and-conditions/) | [W-9 Form](https://qbs.com/wp-content/uploads/2024/02/W9-QBS-LLC-2024.pdf) | [Sole Source](https://qbs.com/wp-content/uploads/2024/07/Sole-Source-Letter-2024.pdf)
