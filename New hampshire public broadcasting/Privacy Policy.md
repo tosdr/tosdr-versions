@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Trump campaign races for new strategy after Biden steps aside** | Washington Week with The Atlantic](https://video.nhpbs.org/video/trump-campaign-races-for-new-strategy-after-biden-steps-aside-rgwemm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Sylvester: The Disco Diva You Didn't Know You Knew** | Sound Field](https://video.nhpbs.org/video/sylvester-the-disco-diva-you-didnt-know-you-knew-jym3ck?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**NEWS WRAP** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1722376006?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Odysseus Returns](https://video.nhpbs.org/video/preview-nupj8r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Was Penrose Right? New Evidence For Quantum Effects In The Brain** | PBS Space Time](https://video.nhpbs.org/video/was-penrose-right-new-evidence-for-quantum-effects-in-the-brain-pe0bka?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 Winner** | PBS Short Film Festival](https://video.nhpbs.org/video/2024-pbs-short-film-festival-winner-pran25?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**J.D. Vance Has "No Business Speaking for Kentucky," Says KY State Senator** | Amanpour and Company](https://video.nhpbs.org/video/jd-vance-has-no-business-speaking-for-kentucky-says-ky-state-senator-b57phj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Daniel's Journey** | Grantchester](https://video.nhpbs.org/video/daniels-journey-htjkej?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**full episode, 7/26/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-72624-xeuouy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Official Trailer** | Leonardo da Vinci](https://video.nhpbs.org/video/leonardo-da-vinci-ken-burns-official-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Biden Biographer: "I Don't Think He's at Peace With This Decision"** | Amanpour and Company](https://video.nhpbs.org/video/biden-biographer-i-dont-think-hes-at-peace-with-this-decision-ljamkj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Biden's Out, Harris In?** | The State We're In](https://video.nhpbs.org/video/bidens-out-harris-in-1r2jnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Division and Unity in the United Methodist Church** | To The Contrary](https://video.nhpbs.org/video/division-and-unity-in-the-united-methodist-church-qcxsni?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Brooks and Capehart on Harris' appeal and the revamped race** | PBS News Hour](https://video.nhpbs.org/video/brooks-and-capehart-on-harris-appeal-and-the-revamped-race-1722035202?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**James Carville** | Firing Line](https://video.nhpbs.org/video/james-carville-r4wqiw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**"Germany's Enemy Within" - Preview** | FRONTLINE](https://video.nhpbs.org/video/germanys-enemy-within-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 2 Preview** | Gods of Tennis](https://video.nhpbs.org/video/preview-xrqmxu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
