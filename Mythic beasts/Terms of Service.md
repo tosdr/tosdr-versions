@@ -1,4 +1,4 @@
-Toggle navigation [![Mythic Beasts](/static/img/logo.png)](https://www.mythic-beasts.com/)
+ [![Mythic Beasts logo graphic](/static/img/beasts-256h.png)![Mythic Beasts](/static/img/logotext.svg)](https://www.mythic-beasts.com/)
 
 * [Servers](https://www.mythic-beasts.com/servers/overview)
     
@@ -138,7 +138,7 @@ Customer:
 * [Privacy Policy](https://www.mythic-beasts.com/static/documents/privacy-policy.pdf)
 * [Environment](https://www.mythic-beasts.com/article/environment)
 * [Contact](https://www.mythic-beasts.com/article/contact)
-* [Follow us on Mastodon](https://social.mythic-beasts.com/home)
+* [Find us on the Fediverse](https://social.mythic-beasts.com/@beasts)
 * [Service status](https://status.mythic-beasts.net.uk/)
 
 #### About Us
