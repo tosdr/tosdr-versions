@@ -46,8 +46,8 @@
     * [Laptops](https://www.o2.co.uk/laptops)
     * [Dongles and mobile wifi](https://www.o2.co.uk/shop/mobile-broadband)
     * Sims and Tariffs
-    * [Pay Monthly sims](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-    * [Pay As You Go sims](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
+    * [Pay Monthly SIMs](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
+    * [Pay As You Go SIMs](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
     * [Tariffs](https://www.o2.co.uk/shop/all-tariffs)
     * [International](https://www.o2.co.uk/international)
     * [Top-up](https://www.o2.co.uk/topup)
@@ -127,8 +127,8 @@
     * [Laptops](https://www.o2.co.uk/laptops)
     * [Dongles and mobile wifi](https://www.o2.co.uk/shop/mobile-broadband)
 * Sims and Tariffs
-    * [Pay Monthly sims](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-    * [Pay As You Go sims](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
+    * [Pay Monthly SIMs](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
+    * [Pay As You Go SIMs](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
     * [Tariffs](https://www.o2.co.uk/shop/all-tariffs)
     * [International](https://www.o2.co.uk/international)
     * [Top-up](https://www.o2.co.uk/topup)
