@@ -62,6 +62,8 @@ Sign Up For Updates
 
         
 
+Δ
+
 [![Rand Paul For US Senate](/wp-content/uploads/2021/04/logo-dark.png)](https://randpaul.com/ "Rand Paul For US Senate")
 
 [Donate](https://secure.winred.com/randpaul/donate/?wr_utm_source=website)
