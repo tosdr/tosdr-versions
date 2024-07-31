@@ -127,7 +127,7 @@ Upcoming
 
 Ajouter un rappel quotidien à votre calendrier:
 
-[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240727T100000+0000/20240727T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240727T100000+0000&et=20240727T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-07-27T10:00:00+00:00 2024-07-27T10:30:00+00:00
+[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240731T100000+0000/20240731T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240731T100000+0000&et=20240731T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-07-31T10:00:00+00:00 2024-07-31T10:30:00+00:00
 
 Fermer
 
@@ -139,7 +139,7 @@ Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722123201) pour renvoyer l\\'e-mail d\\'activation.
+Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437289) pour renvoyer l\\'e-mail d\\'activation.
 
 D\\'accord
 
@@ -288,7 +288,7 @@ Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722123201) pour renvoyer l\\'e-mail d\\'activation.
+Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437289) pour renvoyer l\\'e-mail d\\'activation.
 
 D\\'accord
 
@@ -1092,7 +1092,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 140000
+x 145000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1121,7 +1121,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 225000
+x 240000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1157,7 +1157,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 140000
+x 145000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1186,7 +1186,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 225000
+x 240000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1478,6 +1478,12 @@ You Just Hatched A
 Pyro NFT 1.25x Multiplier
 
 [CHECK MY REWARD](#.)
+
+×
+
+Coming Soon!!
+
+![Coming Soon!](https://statics.pipeflare.io/assets/images/modals/soon_coin.png)
 
 Rester informé
 
