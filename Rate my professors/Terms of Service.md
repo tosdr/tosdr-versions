@@ -13,8 +13,6 @@ Log InSign Up
 Terms of use
 ============
 
-Advertisement
-
 THESE TERMS OF USE CONTAIN AN ARBITRATION CLAUSE AND A CLASS ACTION WAIVER CLAUSE. BY USING THIS SITE, YOU ARE ACCEPTING THE TERMS OF USE AND, WHILE YOU MAY STILL PURSUE CLAIMS AGAINST US, WITH A FEW EXCEPTIONS (FOR EXAMPLE, IF YOU SUBMIT A VALID ARBITRATION/CLASS ACTION WAIVER OPT-OUT NOTICE AS DESCRIBED IN SECTION [19.5](#nineteenfive) BELOW) , YOU ARE AGREEING THAT YOU MUST PURSUE YOUR CLAIMS IN A BINDING ARBITRATION PROCEEDING (AND NOT IN A COURT) AND ONLY ON AN INDIVIDUAL (AND NOT A CLASS ACTION) BASIS.
 
 This is the official Terms of Use Agreement ("Agreement") for the RateMyProfessors.com website, application or other interactive service ("Site,").   "we," "us" or "our"). The Site is owned, operated and/or provided by Rate My Professors, LLC ("Rate My Professors," "we," "us," or "our").
