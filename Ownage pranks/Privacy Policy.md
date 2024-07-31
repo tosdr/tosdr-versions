@@ -623,13 +623,13 @@ The thought of having an identical twin has probably crossed the minds of most p
 
 [Roasting the World’s Dumbest Scammers (animated)](https://www.ownagepranks.com/prank-videos/-598/)
 
-Jan 22, 2023 744K views
+Jan 22, 2023 747.8K views
 
 [![ACCIDENTALLY CALLING MY BIGGEST HATER (animated)](data:image/svg+xml;base64,PHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB2ZXJzaW9uPSIxLjEiCiAgIHZpZXdCb3g9IjAgMCA0ODAgMzYwIgogICBoZWlnaHQ9IjM2MHB4IgogICB3aWR0aD0iNDgwcHgiPgogIDxnPgogICAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2NjYyIgLz4KICAgIDx0ZXh0CiAgICAgICB5PSIwIgogICAgICAgeD0iMCIKICAgICAgIHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXdlaWdodDpub3JtYWw7Zm9udC1zaXplOjMwcHg7bGluZS1oZWlnaHQ6MS4yNTtmb250LWZhbWlseTpBcmlhbCxzYW5zLXNlcmlmOwogICAgICAgbGV0dGVyLXNwYWNpbmc6MHB4O3dvcmQtc3BhY2luZzowcHg7ZmlsbDojZmZmO2ZpbGwtb3BhY2l0eTowLjY7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzIiCiAgICAgICB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgICAgIDx0c3BhbgogICAgICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzIiCiAgICAgICAgIHk9IjUwJSIKICAgICAgICAgeD0iMTQlIj4KICAgICAgICAgbG9hZGluZyBpbWFnZQogICAgICA8L3RzcGFuPgogICAgPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==)](https://www.ownagepranks.com/prank-videos/-597/)
 
 [ACCIDENTALLY CALLING MY BIGGEST HATER (animated)](https://www.ownagepranks.com/prank-videos/-597/)
 
-Dec 25, 2022 616.8K views
+Dec 25, 2022 618.7K views
 
 [View All](https://www.ownagepranks.com/prank-videos/category/latest-videos/)
 
