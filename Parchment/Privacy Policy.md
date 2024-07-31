@@ -154,7 +154,6 @@
     
     *  [![one place icon](https://www.parchment.com/wp-content/uploads/2023/01/about1.svg) About Us](https://www.parchment.com/company/about-us/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about2.svg) Leadership](https://www.instructure.com/about/leadership)
-    *  [![icon-admit-yield](https://www.parchment.com/wp-content/uploads/2024/03/icon-admit-yield.svg) Advisory Board](https://www.parchment.com/company/advisory-board/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about3.svg) Partners](https://www.parchment.com/company/partners/)
     *  [![briefcase - icon](https://www.parchment.com/wp-content/uploads/2023/01/about4.svg) Careers](https://www.parchment.com/company/careers/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about5.svg) Press](https://www.parchment.com/resources/press/)
@@ -722,7 +721,6 @@ Company
 
 * [About Us](https://www.parchment.com/company/about-us/)
 * [Leadership](https://www.instructure.com/about/leadership)
-* [Advisory Board](https://www.parchment.com/company/advisory-board/)
 * [Partners](https://www.parchment.com/company/partners/)
 * [Careers](https://www.parchment.com/company/careers/)
 * [Press](https://www.parchment.com/resources/press/)
