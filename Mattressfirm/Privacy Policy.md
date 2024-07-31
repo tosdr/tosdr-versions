@@ -12,7 +12,7 @@ GET - On the App Store
 
 View
 
-[](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale)[72 Hour Sale: Up to 72% off **ends Monday**](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale) 02:11:17:43[Shop Now](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale)
+[](https://www.mattressfirm.com/after-hours-sale/5637148329.c)[Flash Sale: Extra 20% off⁹ with code **SAVE20**](https://www.mattressfirm.com/after-hours-sale/5637148329.c) 05:41:26[Shop now](https://www.mattressfirm.com/after-hours-sale/5637148329.c)
 
   
 
