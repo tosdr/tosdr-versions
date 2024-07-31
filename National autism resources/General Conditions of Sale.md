@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183662536975)                        [Skip to main content](#main-content)
+![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183839917580)                        [Skip to main content](#main-content)
 
 Free U.s. Shipping On Orders Over $59 (Excludes items with truck symbol, AK & HI)
 
@@ -10,7 +10,7 @@ Search
 
 [![National Autism Resources](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/266x109/national-logo_1717482994__30968.original.png "National Autism Resources")](https://nationalautismresources.com/)
 
-[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/header-stk-lg.png)](https://nationalautismresources.com/)
+[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/header-stk-lg.png)](https://nationalautismresources.com/)
 
 * [Teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
     
@@ -28,13 +28,13 @@ Search
     * [Math](https://nationalautismresources.com/teaching-supplies/math/)
     * [Speech & Communication](https://nationalautismresources.com/speech-language/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-1.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/original/image-manager/menu-focushelpers-2x.png)
     
-    ### social emotional learning
+    ### Focus Helpers
     
-    Help students comprehend their emotions and interpersonal skills
+    Help struggling students focus and learn with these helpful products.
     
-    shop now](https://nationalautismresources.com/social-emotional-learning-sel/)
+    shop now](https://nationalautismresources.com/focus-helpers/)
     
 * [Toys & Gifts](https://nationalautismresources.com/autism-toys/)
     
@@ -55,7 +55,7 @@ Search
     * [Reinforcer Toys](https://nationalautismresources.com/toys/reinforcer-toys/)
     * [Manipulatives](https://nationalautismresources.com/manipulatives/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-2.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/cat-2.png)
     
     ### Top Toys & Gifts
     
@@ -74,7 +74,7 @@ Search
     * [Headphones](https://nationalautismresources.com/headphones/)
     * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-3.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/cat-3.png)
     
     ### Calming Favorites
     
@@ -94,7 +94,7 @@ Search
     * [Fine Motor](https://nationalautismresources.com/fine-motor/)
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-4.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/cat-4.png)
     
     ### Sensory Room Furniture
     
@@ -119,7 +119,7 @@ Search
     * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
     * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-5.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/cat-5.png)
     
     ### 2024 Catalog
     
@@ -273,7 +273,7 @@ Join our eNewsletter for updates, tips, and news!
 
 Email Address
 
-![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/footer-logo.png)
+![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/cb52a860-2fae-013d-30f9-225be09f54c9/img/footer-logo.png)
 
 ### Account
 
