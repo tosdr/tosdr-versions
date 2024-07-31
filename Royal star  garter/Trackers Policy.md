@@ -46,7 +46,7 @@ How you can help
 
 [Our partnerships](https://starandgarter.org/how-you-can-help/our-partnerships/)[We work in partnership with Trusts & Foundations, local businesses and groups, schools, military organisations and community groups.](https://starandgarter.org/how-you-can-help/our-partnerships/)
 
-[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)[A Gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
+[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)[A gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
 
 [Events](https://starandgarter.org/how-you-can-help/events/)[Events are a great way of raising money for the veterans we care for.](https://starandgarter.org/how-you-can-help/events/)
 
@@ -126,7 +126,7 @@ How you can help
 
 [Our partnerships](https://starandgarter.org/how-you-can-help/our-partnerships/) [We work in partnership with Trusts & Foundations, local businesses and groups, schools, military organisations and community groups.](https://starandgarter.org/how-you-can-help/our-partnerships/)
 
-[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/) [A Gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
+[A gift in your Will](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/) [A gift in your Will ensures veterans always have a home.](https://starandgarter.org/how-you-can-help/a-gift-in-your-will/)
 
 [Events](https://starandgarter.org/how-you-can-help/events/) [Events are a great way of raising money for the veterans we care for.](https://starandgarter.org/how-you-can-help/events/)
 
@@ -310,7 +310,7 @@ Get highlights of the most important news delivered to your email inbox
 
  Sign Up
 
-[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.png)](http://www.nationalcareforum.org.uk/)
+[![The National Care Forum Logo](/wp-content/themes/rsagh/built-assets/img/logos/ncf.svg)](http://www.nationalcareforum.org.uk/)
 
 [![Armed Forces Covenant Logo](/wp-content/themes/rsagh/built-assets/img/logos/afc.png)](https://www.armedforcescovenant.gov.uk/)
 
