@@ -1156,7 +1156,7 @@ Please enter an email address that includes @.
 
 * [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/values)
+* [What we value](http://mapbox.com/company/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -14350,7 +14350,7 @@ Please enter an email address that includes @.
 
 * [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/values)
+* [What we value](http://mapbox.com/company/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -14483,7 +14483,7 @@ All Rights Reserved © Mapbox
 
 * [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/values)
+* [What we value](http://mapbox.com/company/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -14690,7 +14690,7 @@ Home page
 
 * [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/values)
+* [What we value](http://mapbox.com/company/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
