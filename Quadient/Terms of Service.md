@@ -40,7 +40,7 @@ Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](htt
     
 * [](https://www.quadient.com/en "Home")
     
-* Mailing and shipping solutions Customer communications How we help Resources Support Contact us Languages
+* Mailing and shipping solutions How we help Resources Support Contact us Languages
 * [](https://www.myquadient.com/US/en_US/Shop)
 * [](https://www.myquadient.com/US/en_US/CustomerLogin)
 
