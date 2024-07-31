@@ -261,9 +261,9 @@ Select State(Required)
 
 Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNewJerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAmerican SamoaGuamThe Northern Mariana IslandsPuerto RicoU.S. Virgin Islands
 
-Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision.
+Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are all talcum powders dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-all-talcum-powders-dangerous.jpg "Are All Talcum Powders Dangerous?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous "Are All Talcum Powders Dangerous?")
+[![Can mesothelioma be benign?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-mesothelioma-be-benign-scaled.jpg "Can Mesothelioma Be Benign?")](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/ "Can Mesothelioma Be Benign?")
 
-[#### Are All Talcum Powders Dangerous?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous)
+[#### Can Mesothelioma Be Benign?](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/)
 
-[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
+[![Average payouts for mesothelioma talcum suits](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-average-settlement-for-mesothelioma-and-ovarian-cancer-talcum-powder-lawsuits.jpg "Average Payouts for Mesothelioma Talcum Suits")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/average-talcum-powder-settlement "Average Payouts for Mesothelioma Talcum Suits")
 
-[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
+[#### Average Payouts for Mesothelioma Talcum Suits](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/average-talcum-powder-settlement)
 
-[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
+[![What is the best way to detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-x-ray-show-mesothelioma.jpg "What is the Best Way to Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/ "What is the Best Way to Detect Mesothelioma?")
 
-[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
+[#### What is the Best Way to Detect Mesothelioma?](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
