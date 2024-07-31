@@ -532,19 +532,19 @@ Following this, if you are still dissatisfied, you can contact your local data p
 Related information
 -------------------
 
-* ![Tablet at night](/img-assets/meta-images/tablet-at-night.x7530f3b2.jpg?width=1920&height=1920&fit=crop&quality=75&format=webp)
+* ![Tablet at night](/img-assets/meta-images/tablet-at-night.x7530f3b2.jpg?w=3840&f=webp)
     
     [### Cookie policy](https://www.ordnancesurvey.co.uk/cookies)
     
     Find out which cookies we use to help make your experience on our website as smooth as possible.
     
-* ![](/img-assets/meta-images/head-office-outside-wall-logo.xf3107e23.jpg?w=1200&h=801&crop=1200,675,0,126&quality=75&format=webp)
+* ![](/img-assets/meta-images/head-office-outside-wall-logo.xf3107e23.jpg?w=1920&h=1282&crop=1920%2C1080%2C0%2C202&f=webp)
     
     [### About us](https://www.ordnancesurvey.co.uk/about)
     
     All about OS: who we are and who we've been - our history dates way back to the 18th century.
     
-* ![](/img-assets/meta-images/data-protection.x25da3acc.jpg?w=1200&h=800&crop=1200,675,0,98&quality=75&format=webp)
+* ![](/img-assets/meta-images/data-protection.x25da3acc.jpg?w=1280&h=854&crop=1280%2C720%2C0%2C105&f=webp)
     
     [### Data protection and subject access requests](https://www.ordnancesurvey.co.uk/governance/policies/data-protection)
     
