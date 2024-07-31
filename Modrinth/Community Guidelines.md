@@ -106,7 +106,7 @@ There are certain other small aspects to creating projects that all authors shou
 
 Modrinth is [open source](https://github.com/modrinth).
 
-main@[57ba841](https://github.com/modrinth/code/tree/57ba84107c24168890510e099c6b5ea0cf5f8606)
+main@[ae4f375](https://github.com/modrinth/code/tree/ae4f3759c23b1d59a4a0facf72e67caa02867d0d)
 
 © Rinth, Inc.
 
