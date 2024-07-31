@@ -133,29 +133,29 @@
 
 #### Latest news
 
+[![Couple on couch watching TV with a smart speaker in the foreground](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/media-nations-2024-web.jpg?width=1920&height=1085&quality=80)
+
+### Gen Z swerves traditional broadcast TV as less than half tune in weekly
+
+31 July 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/gen-z-swerves-traditional-broadcast-tv-as-less-than-half-tune-in-weekly/)
+
+[![Media Nations Wales 2024](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/media-nations-wales-2024-web.jpg?width=1920&height=1085&quality=80)
+
+### Public Service Broadcasters remain the most watched by audiences in Wales, despite a decline in overall TV viewing
+
+31 July 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/public-service-broadcasters-remain-the-most-watched-by-audiences-in-wales-despite-a-decline-in-overall-tv-viewing/)
+
+[![A close-up of a mobile phone with an unknown number calling](/siteassets/resources/images/-news-centre/thumbnail-images/phones/scam-calls-web.jpg?width=1920&height=1085&quality=80)
+
+### Clamping down on scam calls from abroad
+
+29 July 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/clamping-down-on-scam-calls-from-abroad/?language=en)
+
 [![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
 
 ### Nowhere to hide for tech firms on online safety: Ofcom publishes draft industry guidance on transparency reporting and information gathering
 
 26 July 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/nowhere-to-hide-for-tech-firms-on-online-safety/)
-
-[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
-
-### ‘Online safety risks don’t stop at the border, they traverse the world’ – why international online safety regulation matters
-
-26 July 2024](https://www.ofcom.org.uk/online-safety/safety-technology/online-safety-risks-dont-stop-at-the-border-they-traverse-the-world--why-international-online-safety-regulation-matters/)
-
-[![Fibre optic cables](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/fibre-cables-adobestock_719690539.jpg?width=1920&height=1085&quality=80)
-
-### Natalie Black appointment
-
-25 July 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/natalie-black-appointment/)
-
-[![Woman with toddler using calculator on her phone](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/woman-with-toddler-using-calculator-on-phone.jpg?width=1920&height=1085&quality=80)
-
-### Latest telecoms and pay-TV complaints figures revealed
-
-25 July 2024](https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-figures-revealed-Q1-24/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
