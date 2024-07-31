@@ -97,9 +97,9 @@ Open menu
 Terms of Service
 ================
 
-Last modified: July 24, 2024
+Last modified: July 24, 2024
 
-By using the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the proton.me or [protonvpn.com](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
 The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://protonvpn.com/wallet/terms).
 
@@ -139,9 +139,9 @@ The Company may also terminate Accounts which are being used for illegal activit
 
 We reserve the right to limit service capacity for free Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
 
-The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy(new window)](https://protonvpn.com/support/inactive-accounts).
+The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://protonvpn.com/support/inactive-accounts).
 
-If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form(new window)](https://protonvpn.com/support/appeal-abuse).
+If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://protonvpn.com/support/appeal-abuse).
 
 3\. Inactive Accounts
 ---------------------
@@ -159,7 +159,7 @@ If your account is free, you are considered active by performing one of the foll
 
 Activity is considered by Account, not by email address. Keeping an active Account ensures that any email addresses you created for that Account (@proton.me, @pm.me, etc.) also remain active.
 
-If you are subject to unsurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support(new window)](https://protonvpn.com/support/contact) so that they can prevent deletion under this section.
+If you are subject to unsurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support](https://protonvpn.com/support/contact) so that they can prevent deletion under this section.
 
 4\. Limited warranties and liability
 ------------------------------------
@@ -206,9 +206,9 @@ You agree that the Company, and any parents, subsidiaries, officers, directors, 
 7\. Privacy
 -----------
 
-Our [Privacy Policy(new window)](https://protonvpn.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
+Our [Privacy Policy](https://protonvpn.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or [protonvpn.com](https://protonvpn.com/) website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
-If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement(new window)](https://protonvpn.com/legal/dpa) shall apply.
+If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement](https://protonvpn.com/legal/dpa) shall apply.
 
 8\. Intellectual property
 -------------------------
