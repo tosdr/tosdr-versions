@@ -620,7 +620,7 @@ Would you leave us a review?
 
 We hope we’ve helped you on your path to career success. If you have time, a quick review would really make our day (it'll only take 15 seconds). Thanks again, and good luck!
 
- ![Star Summary](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 / 5 Based on [38759 reviews](https://www.trustpilot.com/review/resumegenius.com) powered by ![logo](/wp-content/plugins/trustpilot/images/logo.svg) 
+ ![Star Summary](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 / 5 Based on [38777 reviews](https://www.trustpilot.com/review/resumegenius.com) powered by ![logo](/wp-content/plugins/trustpilot/images/logo.svg) 
 
 [Leave My Review](https://www.trustpilot.com/review/resumegenius.com)
 
