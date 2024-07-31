@@ -527,7 +527,7 @@ Ireland
 * [E-Verify](https://www.riotgames.com/en/e-verify-right-to-work)
 * [Accessibility](https://www.riotgames.com/en/accessibility)
 
-[Follow us on Facebook](https://www.facebook.com/RiotGames/)[Follow us on Twitter](https://twitter.com/riotgames)[Share this on LinkedIn](https://www.linkedin.com/company/riot-games)[Watch on YouTube](https://www.youtube.com/riotgames)
+[Follow us on Twitter](https://twitter.com/riotgames)[Follow us on Instagram](https://www.instagram.com/riotgames/)[Follow us on Tiktok](https://www.tiktok.com/@riotgames)[Share this on LinkedIn](https://www.linkedin.com/company/riot-games)[Follow us on Facebook](https://www.facebook.com/RiotGames/)[Watch on YouTube](https://www.youtube.com/riotgames)
 
 Cookie Preferences
 
