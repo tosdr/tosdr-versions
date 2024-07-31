@@ -268,9 +268,9 @@ Meist verkaufte Produkte
     
      1
     
-* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
+* [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
     
-    1,57 €\*
+    2,36 €\*
     
      1
     
@@ -280,15 +280,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
-    
-    2,36 €\*
-    
-     1
-    
 * [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
     6,16 €\*
+    
+     1
+    
+* [Voltaren Schmerzgel forte 23,2 mg/g - Gel mit Diclofenac](https://www.medikamente-per-klick.de/voltaren-schmerzgel-forte-23-2-mg-g-180g-11240397)
+    
+    21,33 €\*
     
      1
     
@@ -315,25 +315,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[ANTISTAX extra Venentabletten 90 Stück bei Venenschwäche](https://www.medikamente-per-klick.de/product?artnr=05954715&simpleContentAttachmentId=14183&wochenklick)  
+[Vitasprint B12 Trinkfläschchen, für mehr Energie 30St.](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)  
 \*\*\*Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/05954715_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=05954715&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/01853561_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)
 
-VK1:
+UVP2:
 
-54,17 €\*
+44,99 €\*
 
 Ihr Preis:
 
-34,98 €\*
+39,51 €\*
 
 Sie sparen:
 
-19,19 € \-35%
+5,48 € \-12%
 
-2024-07-27 10:00:00
+2024-08-05 08:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=05954715&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=01853561&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -624,4 +624,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=dkpedilliwuceffxdfcfysawfacmvdoh&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=mrnwxcwkquvadzeovvklrwapppkpsmci&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
