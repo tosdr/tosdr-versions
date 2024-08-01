@@ -130,7 +130,7 @@ Updated 1/30/2023 v1.07
 Footer
 ------
 
-[![Sonic](https://www.sonic.com/sites/default/files/sonic-inverted.svg)](https://www.sonic.com/)
+[![Sonic](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.sonic.com/)
 
 ### Residential
 
@@ -176,7 +176,7 @@ Footer
 
 ### Join the community
 
- [![Instagram](https://www.sonic.com/sites/default/files/icon-instagram-v2.svg)](https://www.instagram.com/sonic/)[![Twitter](https://www.sonic.com/sites/default/files/icon-twitter-v2.svg)](https://twitter.com/sonic)[![YouTube](https://www.sonic.com/sites/default/files/icon-youtube-v2.svg)](https://www.youtube.com/@SonicInternetPhone)[![Facebook](https://www.sonic.com/sites/default/files/icon-facebook-v2.svg)](https://www.facebook.com/sonicnet/)[![LinkedIn](https://www.sonic.com/sites/default/files/icon-linkedin-v2.svg)](https://www.linkedin.com/company/sonicinternet/)[![Yelp](https://www.sonic.com/sites/default/files/icon-yelp-v2.svg)](https://www.yelp.com/biz/sonic-santa-rosa-2)
+[![Instagram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.instagram.com/sonic/) [![Twitter](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://twitter.com/sonic) [![YouTube](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/@SonicInternetPhone) [![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/sonicnet/) [![LinkedIn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.linkedin.com/company/sonicinternet/) [![Yelp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.yelp.com/biz/sonic-santa-rosa-2)
 
 ©2022 Sonic. All rights reserved.
 
