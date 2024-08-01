@@ -54,7 +54,7 @@ Global Search
     * [Annual Reports](https://www.worldbank.org/en/about/annual-report)
     * [Access to Information](https://www.worldbank.org/en/access-to-information)
     * [Accountability Mechanism](https://www.worldbank.org/en/programs/accountability)
-    * [Corporate Scorecard](https://scorecard.worldbank.org/)
+    * [World Bank Group Scorecard](https://scorecard.worldbank.org/)
     * [Data Privacy](https://www.worldbank.org/en/programs/accountability/data-privacy)
     * [World Bank Group Finances](https://financesapp.worldbank.org/summaries/ibrd-ida/#ibrd-net/)
     * [Integrity Vice Presidency](https://www.worldbank.org/en/about/unit/integrity-vice-presidency)
@@ -455,7 +455,7 @@ Global Search
     
     * [Partners](https://www.worldbank.org/en/about/partners)
     * [Corporate and Private Foundations](https://www.worldbank.org/en/about/foundation-partnerships)
-    * [Clients](https://clientconnection.worldbank.org/servlet/main?menuPK=234032&pagePK=232663&piPK=234033)
+    * [Clients](https://ebizprd.worldbank.org/wfa/ccloginpage.html)
     * [Private Sector](https://www.worldbank.org/en/about/partners/the-world-bank-group-and-private-sector)
     * [Corporate Procurement](https://www.worldbank.org/en/about/corporate-procurement) 
     * [Civil Society](https://www.worldbank.org/en/about/partners/civil-society)
@@ -627,7 +627,7 @@ English
 * [Contact](https://www.worldbank.org/en/about/contacts)
 
 * [SCAM ALERTS](https://www.worldbank.org/en/about/legal/scams)
-* [REPORT FRAUD OR CORRUPTION](https://www.worldbank.org/en/about/unit/integrity-vice-presidency/brief/submit-complaint)
+* [REPORT FRAUD OR CORRUPTION](https://wbgcmsprod.microsoftcrmportals.com/en-US/anonymous-users/int-fraud-management/create-new-complaint/)
 
 * [![World Bank Group logo](/content/dam/wbr-redesign/logos/logo-wbg-footer-en.svg "World Bank Group logo")](https://www.worldbank.org/)
 * [IBRD](https://www.worldbank.org/en/who-we-are/ibrd "International Bank for Reconstruction and Development")
