@@ -65,8 +65,6 @@ No registration or internet community membership is needed to use the Sportracti
 
 The Sportractive app offers sharing, sync, upload and export functions. With these a user can share data, entered or collected by the use of the app, with other apps or internet services.
 
-When the Sportractive app is connected to Google Fit, Sportractive writes the workout data sport, date, duration, calories and distance to Google Fit after a workout is finished. The Sportractive app does not read any data from Google Fit.
-
 Sportractive does not transmit user data to a third party. Security procedures are in place to protect the confidentiality of your information. Sportractive uses encryption methods to protect your data.
 
 The Sportractive app Data Sync can store workouts, body measurements and other data on Google Drive for Apps and additionally synchronize between a user's devices. The data is stored encrypted in a protected directory on Google Drive for Apps. Other apps do not have access to it and the Sportractive app does not have access to other data in Google Drive.
@@ -83,7 +81,7 @@ We recommend installing firmware updates from the manufacturer immediately, set 
 
 Each user has the right to ask if and what kind of information is stored about him/her. Users also have the right to correct, restrict the processing and deletion of the data as well as data portability. Requests can be sent to [privacy@sportractive.com](mailto:privacy@sportractive.com).
 
-If you feel the need to make a complaint about Sportractive’s data protection practices, the relevant authority is the [BayLDA](https://www.lda.bayern.de/en/complaint.html) .
+If you feel the need to make a complaint about Sportractive’s data protection practices, the relevant authority is the [BayLDA](https://www.lda.bayern.de/de/beschwerde.html) .
 
    
  
