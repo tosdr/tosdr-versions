@@ -267,7 +267,7 @@ Global HQ
 Footer menu
 -----------
 
-* Instructure Ed-cosystem
+* Instructure Learning Ecosystem
     * [Canvas LMS](https://info.badgr.com/higher-education/products/canvas/canvas-lms)
     * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
