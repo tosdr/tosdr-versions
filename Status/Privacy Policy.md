@@ -60,7 +60,7 @@ Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Bet
 
 [New
 
-Announcing the SNT Hodler Vote Results!](https://status.im/blog/snt-vote-results)
+Embracing Community Choices: Status to Develop SNT Staking and Status L2](https://status.im/blog/snt-staking-and-status-network)
 
 Make the  
 jump to web3
