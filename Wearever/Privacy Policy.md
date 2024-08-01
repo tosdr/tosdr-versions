@@ -1,10 +1,10 @@
-![null](https://www.facebook.com/tr?id=418286201838506&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183728501241)                 
+![null](https://www.facebook.com/tr?id=418286201838506&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183922169277)                
 
 Free shipping on all orders over $60
 
 [Toggle menu](#)
 
-[![Wearever Logo](https://cdn11.bigcommerce.com/s-k6hxfbd18e/images/stencil/250x85/logo_1552386675__55402.original.png "Wearever Incontinence")](https://www.weareverincontinence.com/)Washable and Reusable Incontinence Underwear
+[![Wearever Logo](https://cdn11.bigcommerce.com/s-k6hxfbd18e/images/stencil/250x85/logo_1552386675__55402.original.png "Wearever Incontinence")](https://www.weareverincontinence.com/)
 
 [1.866.379.8198](tel:+1.866.379.8198)
 
@@ -22,6 +22,8 @@ Search
 * [Socks](https://www.weareverincontinence.com/buster-brown-diabetic-socks/)
 
 * [Sign in](https://www.weareverincontinence.com/login.php) or [Register](https://www.weareverincontinence.com/login.php?action=create_account)
+
+Washable and Reusable Incontinence Underwear
 
 * [Home](https://www.weareverincontinence.com/) 
 *  Privacy Policy 
