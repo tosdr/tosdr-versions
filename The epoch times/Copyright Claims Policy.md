@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://www.theepochtimes.com/china/beijing-expands-anti-us-alliance-with-hamas-fatah-agreement-analysts-5693591)
+* [US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://www.theepochtimes.com/us/us-airlines-delta-united-cancel-flights-to-tel-aviv-amid-middle-east-tensions-5697629)
     
-    3hr By [Jessica Mao](https://www.theepochtimes.com/author/jessica-mao) and [Lynn Xu](https://www.theepochtimes.com/author/ling-xiong)
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Beijing Expands Anti-US Alliance With Hamas–Fatah Agreement: Analysts](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693595-GettyImages-2162475670-205x123.jpg.webp)](https://www.theepochtimes.com/china/beijing-expands-anti-us-alliance-with-hamas-fatah-agreement-analysts-5693591)
-* [Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://www.theepochtimes.com/sports/diana-taurasi-seeks-gold-medal-record-with-usa-basketball-5694974)
+    ![US Airlines Delta, United Cancel Flights to Tel Aviv Amid Middle East Tensions](https://img.theepochtimes.com/assets/uploads/2024/04/01/id5619423-United-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-airlines-delta-united-cancel-flights-to-tel-aviv-amid-middle-east-tensions-5697629)
+* [‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://www.theepochtimes.com/us/im-hoping-itll-be-mark-kelly-voters-in-battleground-arizona-share-thoughts-on-harris-possible-running-mates-5696721)
     
-    3hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    7hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Diana Taurasi Seeks Gold Medal Record With USA Basketball](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695059-GettyImages-2163896998-SB-205x123.jpg.webp)](https://www.theepochtimes.com/sports/diana-taurasi-seeks-gold-medal-record-with-usa-basketball-5694974)
-* [Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://www.theepochtimes.com/sports/paris-olympics-us-mens-basketball-tips-off-on-sunday-5695008)
+    ![‘I’m Hoping It’ll Be Mark Kelly’: Voters in Battleground Arizona Share Thoughts on Harris, Possible Running Mates](https://img.theepochtimes.com/assets/uploads/2024/07/01/id5697650-GettyImages-1228965594-205x123.jpg.webp)](https://www.theepochtimes.com/us/im-hoping-itll-be-mark-kelly-voters-in-battleground-arizona-share-thoughts-on-harris-possible-running-mates-5696721)
+* [Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://www.theepochtimes.com/us/organic-farm-offers-a-lifeline-to-americas-struggling-veterans-5695207)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    9hr By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
-    [![Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Paris Olympics Updates: Haley Batten Takes Home Silver for Team USA](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695050-GettyImages-2164058416-2-205x123.jpg.webp)](https://www.theepochtimes.com/sports/paris-olympics-us-mens-basketball-tips-off-on-sunday-5695008)
-* [POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://www.theepochtimes.com/health/pots-symptoms-causes-treatments-and-natural-approaches-5691538)
+    ![Organic Farm Offers a Lifeline to America’s Struggling Veterans](https://img.theepochtimes.com/assets/uploads/2024/07/30/id5696524-flag-205x123.jpg.webp)](https://www.theepochtimes.com/us/organic-farm-offers-a-lifeline-to-americas-struggling-veterans-5695207)
+* [Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://www.theepochtimes.com/us/despite-uproar-newsoms-encampment-order-unlikely-to-shake-up-local-policy-5697537)
     
-    6hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    10hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
     
-    [![POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![POTS: Dietary Changes Are the Top Treatment, 5 Natural Approaches](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693741-25-July-Postural-Orthostatic-Tachycardia-Syndrome_feature_Fei-205x123.jpg.webp)](https://www.theepochtimes.com/health/pots-symptoms-causes-treatments-and-natural-approaches-5691538)
-* [Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://www.theepochtimes.com/us/supreme-court-to-hear-san-franciscos-challenge-to-epa-water-pollution-regulation-5694530)
+    ![Despite Uproar, Newsom’s Encampment Order Unlikely to Shake Up Local Policy](https://img.theepochtimes.com/assets/uploads/2022/11/23/GettyImages-1431097320-205x123.jpeg.webp)](https://www.theepochtimes.com/us/despite-uproar-newsoms-encampment-order-unlikely-to-shake-up-local-policy-5697537)
+* [Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://www.theepochtimes.com/us/rubio-introduces-falun-gong-protection-act-targeting-ccps-forced-organ-harvesting-5697474)
     
-    18hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    12hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court to Hear San Francisco’s Challenge to EPA Water Pollution Regulation](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695058-GettyImages-1155297191-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-san-franciscos-challenge-to-epa-water-pollution-regulation-5694530)
-* [Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://www.theepochtimes.com/china/texas-lawmakers-denounce-cpp-and-call-for-persecution-of-falun-gong-to-end-5694707)
+    ![Rubio Introduces Falun Gong Protection Act Targeting CCP’s Forced Organ Harvesting](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697569-GettyImages-1412540326-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/rubio-introduces-falun-gong-protection-act-targeting-ccps-forced-organ-harvesting-5697474)
+* [Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://www.theepochtimes.com/sports/katie-ledecky-sets-olympic-record-wins-gold-in-1500m-freestyle-5697418)
     
-    18hr By [Aaron Pan](https://www.theepochtimes.com/author/aaron-pan)
+    12hr By [Jessamyn Dodd](https://www.theepochtimes.com/author/jessamyn-dodd)
     
-    [![Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Texas Lawmakers Denounce CCP and Call for Persecution of Falun Gong to End](https://img.theepochtimes.com/assets/uploads/2024/07/27/id5694729-Front-right-205x123.jpg.webp)](https://www.theepochtimes.com/china/texas-lawmakers-denounce-cpp-and-call-for-persecution-of-falun-gong-to-end-5694707)
-* [Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://www.theepochtimes.com/china/blinken-raises-us-concerns-in-talk-with-chinas-foreign-minister-in-laos-5694806)
+    ![Katie Ledecky Sets Olympic Record, Wins Gold in 1,500 Freestyle](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697481-GettyImages-2164687540-205x123.jpg.webp)](https://www.theepochtimes.com/sports/katie-ledecky-sets-olympic-record-wins-gold-in-1500m-freestyle-5697418)
+* [In Photos: Team USA’s Medal Count at Paris Olympics](https://www.theepochtimes.com/sports/in-photos-team-usas-medal-count-at-paris-olympics-5697264)
     
-    18hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Photos: Team USA’s Medal Count at Paris Olympics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Blinken Raises US Concerns in Talk With China’s Foreign Minister in Laos](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695064-GettyImages-2163035803-SB-205x123.jpg.webp)](https://www.theepochtimes.com/china/blinken-raises-us-concerns-in-talk-with-chinas-foreign-minister-in-laos-5694806)
-* [Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://www.theepochtimes.com/world/israel-says-hezbollah-rocket-attack-kills-11-raising-specter-of-war-with-lebanon-5694842)
+    ![In Photos: Team USA’s Medal Count at Paris Olympics](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697565-Katie-Ledecky-GettyImages-2164688982KO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/in-photos-team-usas-medal-count-at-paris-olympics-5697264)
+* [Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://www.theepochtimes.com/entertainment/fitness-experts-weigh-in-on-hollywood-star-mark-wahlbergs-2am-routine-5696993)
     
-    19hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    15hr By [Juliette Fairley](https://www.theepochtimes.com/author/juliette-fairley)
     
-    [![Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Says Hezbollah Rocket Attack Kills 12, Raising Specter of War With Lebanon](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695068-2024-07-27T194016Z_2_LYNXMPEK6Q07R_RTROPTP_4_ISRAEL-PALESTINIANS-LEBANON-SB-205x123.jpg)](https://www.theepochtimes.com/world/israel-says-hezbollah-rocket-attack-kills-11-raising-specter-of-war-with-lebanon-5694842)
-* [Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://www.theepochtimes.com/health/dietary-supplements-to-ease-restless-legs-syndrome-whats-the-evidence-5693010)
+    ![Fitness Experts Weigh in On Hollywood Star Mark Wahlberg’s 2am Routine](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697564-GettyImages-1769867884KO-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/fitness-experts-weigh-in-on-hollywood-star-mark-wahlbergs-2am-routine-5696993)
+* [Donor-Conceived Adults Face Unique Challenges](https://www.theepochtimes.com/health/donor-conceived-adults-face-unique-challenges-5691836)
     
-    20hr By [Susan C. Olmstead](https://www.theepochtimes.com/author/susan-c-olmstead)
+    15hr By [Zrinka Peters](https://www.theepochtimes.com/author/zrinka-peters)
     
-    [![Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Donor-Conceived Adults Face Unique Challenges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Dietary Supplements to Ease Restless Legs Syndrome: What’s the Evidence?](https://img.theepochtimes.com/assets/uploads/2024/07/28/id5695067-restless-legs-SB-205x123.jpg)](https://www.theepochtimes.com/health/dietary-supplements-to-ease-restless-legs-syndrome-whats-the-evidence-5693010)
-* [Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://www.theepochtimes.com/sports/veteran-star-laden-us-basketball-squad-will-have-to-dig-deep-for-gold-at-paris-5694693)
+    ![Donor-Conceived Adults Face Unique Challenges](https://img.theepochtimes.com/assets/uploads/2024/07/30/id5696170-Shutterstock_2264981713-205x123.jpg.webp)](https://www.theepochtimes.com/health/donor-conceived-adults-face-unique-challenges-5691836)
+* [Federal Reserve Holds Rates Steady, Signals Cut in September](https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-at-23-year-high-5697217)
     
-    22hr By [John E. Gibson](https://www.theepochtimes.com/author/john-e-gibson)
+    16hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Reserve Holds Rates Steady, Signals Cut in September](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Veteran Star-Laden US Basketball Squad Will Have to Dig Deep for Gold at Paris](https://img.theepochtimes.com/assets/uploads/2024/07/27/id5694840-GettyImages-2162939270-OP-205x123.jpg.webp)](https://www.theepochtimes.com/sports/veteran-star-laden-us-basketball-squad-will-have-to-dig-deep-for-gold-at-paris-5694693)
+    ![Federal Reserve Holds Rates Steady, Signals Cut in September](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697317-Jerome-Powell-GettyImages-2164053564-205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-reserve-leaves-interest-rates-unchanged-at-23-year-high-5697217)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
