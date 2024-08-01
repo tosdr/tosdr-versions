@@ -1,4 +1,4 @@
-                                                                     
+                                                                    
 
 [Careers](https://careers.yardhouse.com/)
 
@@ -76,19 +76,19 @@ NO LOCATION SELECTED
 
 ???subtext2-choose-items-cart???
 
-???ttip\_text-anyitem-moretoqualify??? ???subtext-choose-items-cart-qualified???
+???ttip\_text-moretoqualify??? ???subtext-choose-items-cart-qualified???
 
 i
 
-???ttip\_text-anyitem-moretoqualify???
+???ttip\_text-moretoqualify???
 
 ???subtext-choose-items-cart-delivery???
 
 i
 
-???ttip\_text-anyitem-moretoqualify???
+???ttip\_text-moretoqualify???
 
-For orders totaling $0.00 $500.00 or more, please call us and we'll be happy to assist you.  
+For orders totaling $0.00 or more, please call us and we'll be happy to assist you.  
 
 #### HAVE A SPECIAL REQUEST?
 
@@ -96,7 +96,7 @@ For orders totaling $0.00 $500.00 or more, please call us and we'll be happy to 
 
 We're here for you. If you have a specific request about your order, please give us a call.
 
-Call : (206) 682-2087
+Call :
 
   
 
