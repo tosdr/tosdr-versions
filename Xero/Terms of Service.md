@@ -19,6 +19,13 @@
 1. [Legal centre](https://www.xero.com/au/legal/)
 2. Terms of use
 
+Update to our terms
+-------------------
+
+We have recently updated our terms of use. These changes will be effective immediately for new customers and from 27 September 2024 for current Xero users.
+
+[See Xero Central for more details.](https://central.xero.com/s/article/Understand-the-changes-to-Xero-s-Terms-of-Use?userregion=true)
+
 Terms of use
 ============
 
