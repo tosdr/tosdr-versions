@@ -74,52 +74,52 @@ Free shipping on orders over £40
 
 * SHOP
     
-    * [![](//black-blum.com/cdn/shop/files/black-blum-full-product-range-2022-olive.jpg?v=1676307738&width=600)
+    * [![](//black-blum.com/cdn/shop/files/black-blum-full-product-range-2022-olive_600x.jpg?v=1676307738)
         
         shop all](https://black-blum.com/collections/all)
-    * [![Black and blum stainless steel insulated water bottle being put into bag](//black-blum.com/cdn/shop/files/Our-range-bottles_c5b20fd5-7ab2-47f3-a67b-fef1cf663e1b.jpg?v=1647258057&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-range-bottles_c5b20fd5-7ab2-47f3-a67b-fef1cf663e1b_600x.jpg?v=1647258057)
         
         water bottles](https://black-blum.com/collections/water-bottles)
-    * [![Sandwich with bite out of it in Black and Blum stainless steel lunch box](//black-blum.com/cdn/shop/files/Our-range-lunch-boxes_8686f471-9901-4f9a-84de-32373f8c0623.jpg?v=1646820920&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-range-lunch-boxes_8686f471-9901-4f9a-84de-32373f8c0623_600x.jpg?v=1646820920)
         
         lunch boxes](https://black-blum.com/collections/lunch-boxes)
-    * [![insulated food flask in a park with a book](//black-blum.com/cdn/shop/files/black-blum-insulated-food-flask.jpg?v=1656431024&width=600)
+    * [![](//black-blum.com/cdn/shop/files/black-blum-insulated-food-flask_600x.jpg?v=1656431024)
         
         thermoses](https://black-blum.com/collections/thermos-flasks)
-    * [![Meal prep box sets](//black-blum.com/cdn/shop/files/black-blum-meal-prep-set-card-image-boxes-5.jpg?v=1694604712&width=600)
+    * [![](//black-blum.com/cdn/shop/files/black-blum-meal-prep-set-card-image-boxes-5_600x.jpg?v=1694604712)
         
         meal prep sets](https://black-blum.com/collections/meal-prep-sets)
-    * [![](//black-blum.com/cdn/shop/files/Our-range-charcoal-filtration.jpg?v=1620798600&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-range-charcoal-filtration_600x.jpg?v=1620798600)
         
         charcoal filtration](https://black-blum.com/collections/charcoal-filtration)
-    * [![Black and Blum leak proof insulated travel cup and glass travel cup on table](//black-blum.com/cdn/shop/files/Our-range_Travel-Cups_NEW_1600x_f678d0dc-0c59-4c42-ae32-0b764f6dc578.jpg?v=1647258192&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-range_Travel-Cups_NEW_1600x_f678d0dc-0c59-4c42-ae32-0b764f6dc578_600x.jpg?v=1647258192)
         
         travel cups](https://black-blum.com/collections/travel-cups)
-    * [![](//black-blum.com/cdn/shop/files/Our-range-lunch-bag.jpg?v=1620798600&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-range-lunch-bag_600x.jpg?v=1620798600)
         
         accessories](https://black-blum.com/collections/accessories)
-    * [![](//black-blum.com/cdn/shop/files/wesbite-nav.jpg?v=1700583137&width=600)
+    * [![](//black-blum.com/cdn/shop/files/wesbite-nav_600x.jpg?v=1700583137)
         
         outlet](https://black-blum.com/collections/outlet)
-    * [![](//black-blum.com/cdn/shop/files/black-blum-replacement-parts-bento-box-divider.jpg?v=1695024699&width=600)
+    * [![](//black-blum.com/cdn/shop/files/black-blum-replacement-parts-bento-box-divider_600x.jpg?v=1695024699)
         
         replacement parts](https://black-blum.com/collections/replacement-parts)
     
 * ABOUT
     
-    * [![](//black-blum.com/cdn/shop/files/About-us-images-3_3e57b268-f70d-45b2-8301-2a4161e4cde7.jpg?v=1646823761&width=600)
+    * [![](//black-blum.com/cdn/shop/files/About-us-images-3_3e57b268-f70d-45b2-8301-2a4161e4cde7_600x.jpg?v=1646823761)
         
         our brand](https://black-blum.com/pages/about)
-    * [![](//black-blum.com/cdn/shop/files/Our-Sustainability-image_About-Us-Page.jpg?v=1691416070&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Our-Sustainability-image_About-Us-Page_600x.jpg?v=1691416070)
         
         our sustainability](https://black-blum.com/pages/sustainability)
-    * [![](//black-blum.com/cdn/shop/files/black-blum-product-materials-bamboo_19db29b5-fa5a-4f16-8850-5b34ca6debef.jpg?v=1651132355&width=600)
+    * [![](//black-blum.com/cdn/shop/files/black-blum-product-materials-bamboo_19db29b5-fa5a-4f16-8850-5b34ca6debef_600x.jpg?v=1651132355)
         
         our materials](https://black-blum.com/pages/our-materials)
     * [![](//black-blum.com/cdn/shop/files/mm-our-blog_600x.jpg?v=8545542773617133269)
         
         our blog](https://blog.black-blum.com/)
-    * [![London Skyline](//black-blum.com/cdn/shop/files/London-st-pauls-black.jpg?v=1694623038&width=600)
+    * [![](//black-blum.com/cdn/shop/files/London-st-pauls-black_600x.jpg?v=1694623038)
         
         contact](https://black-blum.com/pages/contactus)
     
