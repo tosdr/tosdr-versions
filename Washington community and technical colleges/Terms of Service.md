@@ -10,7 +10,6 @@ SearchClick to Search
 
 * [Becoming a Student](https://www.sbctc.edu/becoming-a-student/)
 * [Paying for College](https://www.sbctc.edu/paying-for-college/)
-* [Starting Your Career](https://www.sbctc.edu/starting-your-career/)
 * [For Employers](https://www.sbctc.edu/for-employers/)
 * [Our Colleges](https://www.sbctc.edu/our-colleges/)
 * [Apply to a College](https://www.sbctc.edu/our-colleges/explore-colleges/default.aspx)
