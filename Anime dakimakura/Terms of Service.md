@@ -37,7 +37,6 @@
         * [Bleach](https://www.animedakimakura.com/bleach-c-1_60_91/)
         * [Blend·S](https://www.animedakimakura.com/blends-c-1_60_65/)
         * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
-        * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
         * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
         * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
         * [Cardcaptor Sakura](https://www.animedakimakura.com/cardcaptor-sakura-c-1_60_174/)
@@ -46,7 +45,6 @@
         * [Chainsaw Man](https://www.animedakimakura.com/chainsaw-man-c-1_60_210/)
         * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
         * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
-        * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
         * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
         * [Dagashi Kashi](https://www.animedakimakura.com/dagashi-kashi-c-1_60_20/)
         * [Dakara Boku wa, H ga Dekinai](https://www.animedakimakura.com/dakara-boku-wa-h-ga-dekinai-c-1_60_203/)
@@ -81,8 +79,7 @@
         * [High School DXD](https://www.animedakimakura.com/high-school-dxd-c-1_61_9/)
         * [Highschool of the Dead](https://www.animedakimakura.com/highschool-of-the-dead-c-1_61_219/)
         * [Himouto! Umaru-chan](https://www.animedakimakura.com/himouto-umaruchan-c-1_61_176/)
-        * [Honkai Impact](https://www.animedakimakura.com/honkai-impact-c-1_61_164/)
-        * [Honkai: Star Rail](https://www.animedakimakura.com/honkai-star-rail-c-1_61_239/)
+        * [Honkai](https://www.animedakimakura.com/honkai-c-1_61_164/)
         * [Hoozuki no Reitetsu](https://www.animedakimakura.com/hoozuki-no-reitetsu-c-1_61_41/)
         * [How Not to Summon a Demon Lord](https://www.animedakimakura.com/how-not-to-summon-a-demon-lord-c-1_61_75/)
         * [Hunter X Hunter](https://www.animedakimakura.com/hunter-x-hunter-c-1_61_220/)
@@ -146,7 +143,6 @@
         * [Princess Connect](https://www.animedakimakura.com/princess-connect-c-1_62_93/)
         * [Prison School](https://www.animedakimakura.com/prison-school-c-1_62_31/)
         * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
-        * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
     * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/)
         * [Re:CREATORS](https://www.animedakimakura.com/recreators-c-1_2_209/)
         * [Re:Zero](https://www.animedakimakura.com/rezero-c-1_2_7/)
@@ -189,16 +185,11 @@
         * [VOCALOID](https://www.animedakimakura.com/vocaloid-c-1_2_24/)
         * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
         * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
-        * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
         * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
         * [Yuri!!! on Ice](https://www.animedakimakura.com/yuri-on-ice-c-1_2_211/)
         * [Zenless Zone Zero](https://www.animedakimakura.com/zenless-zone-zero-c-1_2_234/)
-* [Animation Accessories](https://www.animedakimakura.com/animation-accessories-c-64/)
-    * [Mouse Pad](https://www.animedakimakura.com/mouse-pad-c-64_108/)
-    * [Wall Scroll](https://www.animedakimakura.com/wall-scroll-c-64_189/)
-    * [Small Breasts Mouse Pad](https://www.animedakimakura.com/small-breasts-mouse-pad-c-64_109/)
 * [Ez-Pages](https://www.animedakimakura.com/index.php?main_page=page&id=&pg=ezpages)
     
     * [New Products](https://www.animedakimakura.com/products_new.html)
@@ -294,7 +285,6 @@ english
         * [Bleach](https://www.animedakimakura.com/bleach-c-1_60_91/)
         * [Blend·S](https://www.animedakimakura.com/blends-c-1_60_65/)
         * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
-        * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
         * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
         * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
         * [Cardcaptor Sakura](https://www.animedakimakura.com/cardcaptor-sakura-c-1_60_174/)
@@ -303,7 +293,6 @@ english
         * [Chainsaw Man](https://www.animedakimakura.com/chainsaw-man-c-1_60_210/)
         * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
         * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
-        * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
         * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
         * [Dagashi Kashi](https://www.animedakimakura.com/dagashi-kashi-c-1_60_20/)
         * [Dakara Boku wa, H ga Dekinai](https://www.animedakimakura.com/dakara-boku-wa-h-ga-dekinai-c-1_60_203/)
@@ -338,8 +327,7 @@ english
         * [High School DXD](https://www.animedakimakura.com/high-school-dxd-c-1_61_9/)
         * [Highschool of the Dead](https://www.animedakimakura.com/highschool-of-the-dead-c-1_61_219/)
         * [Himouto! Umaru-chan](https://www.animedakimakura.com/himouto-umaruchan-c-1_61_176/)
-        * [Honkai Impact](https://www.animedakimakura.com/honkai-impact-c-1_61_164/)
-        * [Honkai: Star Rail](https://www.animedakimakura.com/honkai-star-rail-c-1_61_239/)
+        * [Honkai](https://www.animedakimakura.com/honkai-c-1_61_164/)
         * [Hoozuki no Reitetsu](https://www.animedakimakura.com/hoozuki-no-reitetsu-c-1_61_41/)
         * [How Not to Summon a Demon Lord](https://www.animedakimakura.com/how-not-to-summon-a-demon-lord-c-1_61_75/)
         * [Hunter X Hunter](https://www.animedakimakura.com/hunter-x-hunter-c-1_61_220/)
@@ -403,7 +391,6 @@ english
         * [Princess Connect](https://www.animedakimakura.com/princess-connect-c-1_62_93/)
         * [Prison School](https://www.animedakimakura.com/prison-school-c-1_62_31/)
         * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
-        * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
     * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/)
         * [Re:CREATORS](https://www.animedakimakura.com/recreators-c-1_2_209/)
         * [Re:Zero](https://www.animedakimakura.com/rezero-c-1_2_7/)
@@ -446,16 +433,11 @@ english
         * [VOCALOID](https://www.animedakimakura.com/vocaloid-c-1_2_24/)
         * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
         * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
-        * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
         * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
         * [Yuri!!! on Ice](https://www.animedakimakura.com/yuri-on-ice-c-1_2_211/)
         * [Zenless Zone Zero](https://www.animedakimakura.com/zenless-zone-zero-c-1_2_234/)
-* [Animation Accessories](https://www.animedakimakura.com/animation-accessories-c-64/)
-    * [Mouse Pad](https://www.animedakimakura.com/mouse-pad-c-64_108/)
-    * [Wall Scroll](https://www.animedakimakura.com/wall-scroll-c-64_189/)
-    * [Small Breasts Mouse Pad](https://www.animedakimakura.com/small-breasts-mouse-pad-c-64_109/)
 * [Ez-Pages](https://www.animedakimakura.com/index.php?main_page=page&id=&pg=ezpages)
     
     * [New Products](https://www.animedakimakura.com/products_new.html)
@@ -625,8 +607,6 @@ Navigation 
                 
             * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
                 
-            * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
-                
             * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
                 
             * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
@@ -642,8 +622,6 @@ Navigation 
             * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
                 
             * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
-                
-            * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
                 
             * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
                 
@@ -713,9 +691,7 @@ Navigation 
                 
             * [Himouto! Umaru-chan](https://www.animedakimakura.com/himouto-umaruchan-c-1_61_176/)
                 
-            * [Honkai Impact](https://www.animedakimakura.com/honkai-impact-c-1_61_164/)
-                
-            * [Honkai: Star Rail](https://www.animedakimakura.com/honkai-star-rail-c-1_61_239/)
+            * [Honkai](https://www.animedakimakura.com/honkai-c-1_61_164/)
                 
             * [Hoozuki no Reitetsu](https://www.animedakimakura.com/hoozuki-no-reitetsu-c-1_61_41/)
                 
@@ -843,8 +819,6 @@ Navigation 
                 
             * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
                 
-            * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
-                
         * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/) 
             
             * [Re:CREATORS](https://www.animedakimakura.com/recreators-c-1_2_209/)
@@ -928,8 +902,6 @@ Navigation 
             * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
                 
             * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
-                
-            * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
                 
             * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
                 
