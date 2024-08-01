@@ -138,11 +138,11 @@ There is no legal requirement for you to provide any information at our website.
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online, consistent with the policies of the University and with the laws and regulations of the Commonwealth of Virginia.
 
-[Information Policy Library](https://security.virginia.edu/information-policy)
+[Call to action](https://security.virginia.edu/information-policy)
 
 A central repository for all UVA information technology (IT) resource policies, standards, and procedures.
 
-[Read More](https://security.virginia.edu/information-policy)
+[](https://security.virginia.edu/information-policy)
 
 X
 
