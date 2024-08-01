@@ -294,7 +294,11 @@ On this page
 * [Student apprentices](#student-apprentices)
 * [Contact Us](#contact-us)
 
-[![6th for graduate prospects in the Complete University Guide 2025](/lens/124/assets/university-of-bath/images/awards/6th-for-graduate-prospects-complete-uni-guide-2025.svg)![6th for graduate prospects in the Times and Sunday Times 2024](/lens/124/assets/university-of-bath/images/awards/6th-graduate-prospects-times-2024-v2.svg)](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)
+[![QS World University Ranking 2025 Top 150](/lens/124/assets/university-of-bath/images/awards/world-university-ranking-2025.svg)](https://www.topuniversities.com/universities/university-bath)
+
+[![Teaching Excellence Framework (TEF) triple gold award. These accolades are at institutional-level and are displayed across the website. They are not specific to any particular course or department](/lens/124/assets/university-of-bath/images/awards/tef-2023-gold-v2.svg)](https://www.bath.ac.uk/announcements/university-of-bath-awarded-triple-gold-in-the-teaching-excellence-framework-2023)
+
+[![QS World University Ranking 2025 Top 150 for employer reputation](/lens/124/assets/university-of-bath/images/awards/qs-employer-reputation-2025.svg)](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)
 
 [© University of Bath 2024](https://www.bath.ac.uk/corporate-information/copyright/)
 
