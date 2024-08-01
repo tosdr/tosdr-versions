@@ -2,10 +2,6 @@
 
 [Homepage](https://www.gitbook.com/) [Pricing](https://www.gitbook.com/pricing)
 
-More
-
-[Homepage](https://www.gitbook.com/)[Pricing](https://www.gitbook.com/pricing)
-
 SearchCtrl + K
 
 * [Site Policy on GitBook](https://policies.gitbook.com/)
