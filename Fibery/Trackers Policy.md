@@ -1,5 +1,7 @@
 [](https://fibery.io/)
 
++[AI Now!](https://fibery.io/ai)
+
 Use cases
 
 [Feedback  
@@ -110,11 +112,11 @@ Team
 
 ![Fibery loader image](/img/fibery-loader.gif)
 
-Request a demo
-
 [Log in](https://fibery.io/login)
 
-[Get started](https://fibery.io/sign-up)
+Get a demo
+
+[Try for free](https://fibery.io/sign-up)
 
 Policies
 
