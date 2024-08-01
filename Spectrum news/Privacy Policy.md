@@ -248,10 +248,4 @@ An editorially independent publication supported by the Simons Foundation
 
 [© 2024 Simons Foundation](https://www.simonsfoundation.org/)
 
-Close menu
-
-Welcome to _The Transmitter_
-
-_Spectrum_ is now a key section of _The Transmitter_ and continues to publish news and perspectives about autism research. Previous _Spectrum_ articles are available at thetransmitter.org.
-
 We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.spectrumnews.org/privacy-policy/).[AGREE](#)
