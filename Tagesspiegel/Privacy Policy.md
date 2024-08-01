@@ -1,6 +1,6 @@
 [zum Hauptinhalt](#main-content)
 
-[Der Tagesspiegel](https://www.tagesspiegel.de/)
+[NDADer Tagesspiegel](https://www.tagesspiegel.de/)
 
 Suche suchen
 
@@ -56,7 +56,6 @@ zurückscrollen
         * [Tempelhof-Schöneberg](https://www.tagesspiegel.de/berlin/bezirke/tempelhof-schoeneberg)
         * [Treptow-Köpenick](https://www.tagesspiegel.de/berlin/bezirke/treptow-koepenick)
     * [Berliner Wirtschaft](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/)
-    * [Berliner Sport](https://www.tagesspiegel.de/berlin/berliner_sport/)
     * [Polizei & Justiz](https://www.tagesspiegel.de/berlin/polizei-justiz/)
     * [Stadtleben](https://www.tagesspiegel.de/berlin/stadtleben/)
     * [Fahrrad & Verkehr](https://www.tagesspiegel.de/berlin/themen/fahrrad-und-verkehr-in-berlin)
@@ -77,6 +76,7 @@ zurückscrollen
     * [Medien](https://www.tagesspiegel.de/gesellschaft/medien/)
     * [Familie](https://www.tagesspiegel.de/gesellschaft/themen/familie)
     * [Geschichte](https://www.tagesspiegel.de/gesellschaft/geschichte/)
+    * [Podcasts](https://www.tagesspiegel.de/true-crime-gyncast-eine-runde-berlin-das-sind-die-podcasts-vom-tagesspiegel-8660119.html)
     * [Reise](https://www.tagesspiegel.de/gesellschaft/reise/)
     
     vorscrollen
@@ -128,8 +128,7 @@ zurückscrollen
     * [Gesund essen](https://www.tagesspiegel.de/gesundheit/themen/gesund-essen)
     * [Gut schlafen](https://www.tagesspiegel.de/gesundheit/themen/gut-schlafen)
     * [Achtsamkeit](https://www.tagesspiegel.de/gesundheit/themen/achtsamkeit)
-    * [Pflege-Ratgeber](https://www.tagesspiegel.de/gesundheit/themen/pflege-ratgeber)
-    * [Beste Kliniken](https://www.tagesspiegel.de/gesundheit/themen/beste-kliniken)
+    * [Arztbriefe](https://www.tagesspiegel.de/gesundheit/themen/arztbriefe)
     
     vorscrollen
     
@@ -137,14 +136,15 @@ zurückscrollen
     
     zurückscrollen
     
-    * [Fußball-EM 2024](https://www.tagesspiegel.de/sport/themen/fussball-em-2024)
+    * [Nationalelf](https://www.tagesspiegel.de/sport/themen/nationalelf)
     * [Hertha BSC](https://www.tagesspiegel.de/sport/themen/hertha-bsc)
     * [1\. FC Union Berlin](https://www.tagesspiegel.de/sport/themen/1-fc-union-berlin)
     * [Bundesliga](https://www.tagesspiegel.de/sport/themen/bundesliga)
     * [Champions League](https://www.tagesspiegel.de/sport/themen/champions-league)
     * [Eisbären Berlin](https://www.tagesspiegel.de/sport/themen/eisbaren-berlin)
     * [Alba Berlin](https://www.tagesspiegel.de/sport/themen/alba-berlin)
-    * [Paralympics Zeitung](https://www.tagesspiegel.de/gesellschaft/medien/themen/paralympics-zeitung)
+    * [Füchse Berlin](https://www.tagesspiegel.de/sport/themen/fuchse-berlin)
+    * [BR Volleys](https://www.tagesspiegel.de/sport/themen/br-volleys)
     
     vorscrollen
     
@@ -198,7 +198,6 @@ zurückscrollen
     
     vorscrollen
     
-* [Podcasts](https://www.tagesspiegel.de/podcasts/)
 
 vorscrollen
 
@@ -221,9 +220,8 @@ Tagesspiegel-Produkte
     
     * [Unternehmen](https://www.tagesspiegel-gruppe.de/)
     * [Tagesspiegel Jobs](https://verlagsjobs.tagesspiegel.de/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Tagesspiegel%20Jobs)
-    * [Politische Kommunikation](https://veranstaltungen.tagesspiegel.de/NEV2ny?utm_source=navi&utm_campaign=pk&utm_medium=tsp.de&RefId=tsp.de)
     * [App](https://abo.tagesspiegel.de/tagesspiegel-app?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=App)
-    * [Podcasts](https://www.tagesspiegel.de/podcasts/)
+    * [Podcasts](https://www.tagesspiegel.de/true-crime-gyncast-eine-runde-berlin-das-sind-die-podcasts-vom-tagesspiegel-8660119.html)
     * [Sudoku](https://sudoku.tagesspiegel.de/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Sudoku)
     
     Themenspeziale
@@ -247,6 +245,7 @@ Tagesspiegel-Produkte
     * [Strom](https://www.tagesspiegel.de/themen/strom/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Strom)
     * [Stromvergleich](https://verbraucher.tagesspiegel.de/stromvergleich/)
     * [DSL-Vergleich](https://verbraucher.tagesspiegel.de/dsl-vergleich/)
+    * [Stellensuche](https://jobs.tagesspiegel.de/)
     * [Gutscheine](https://gutscheine.tagesspiegel.de/)
     
     Weitere Angebote
@@ -573,6 +572,13 @@ You may choose to prevent this website from aggregating and analyzing the action
 You are not opted out. Uncheck this box to opt-out. In diesem Fall wird in Ihrem Browser ein Opt-out-Cookie hinterlegt, der verhindert, dass Matomo Nutzungsdaten speichert. Dieses Cookie setzen wir aufgrund § 25 Abs. 1 TTDSG Wenn Sie Ihre Cookies löschen, hat das zur Folge, dass auch das Matomo Opt-out-Cookie gelöscht wird. Das Opt-out muss bei einem erneuten Besuch unserer Seite wieder aktiviert werden.
 
 (5) Das Programm Matomo ist ein Open-Source-Projekt. Informationen des Drittanbieters zum Datenschutz erhalten Sie unter matomo.org/privacy-policy/.
+
+**k) ID5**  
+Wenn Sie unsere Website besuchen oder Ihre E-Mail-Adresse eingeben (entweder um sich anzumelden, einen Newsletter zu abonnieren oder anderweitig), können wir personenbezogene Daten oder andere Informationen, die wir von Ihnen erheben, wie z. B. Ihre E-Mail-Adresse (in gehashter, pseudonymer Form), Ihre IP-Adresse und/oder Informationen über Ihren Browser oder Ihr Betriebssystem an ID5 Technology Limited weitergeben, die als Controller fungieren.
+
+ID5 verwendet diese Informationen, um eine ID zu erstellen, mit der Sie auf Ihren Geräten erkannt werden können. Diese ID enthält keine Ihrer identifizierbaren persönlichen Daten. Wir können diese ID in unserem First-Party-Cookie platzieren oder ein ID5-Cookie verwenden und zulassen, dass sie für Online- und kanalübergreifende Werbung verwendet wird. Diese ID kann von uns oder in unserem Namen an unsere Werbepartner und andere Drittanbieter von Werbung weltweit weitergegeben werden, um interessenbasierte Inhalte und/oder gezielte Werbung in Ihrem gesamten Online-Erlebnis zu ermöglichen (z. B. Web, E-Mail, verbundene Geräte, In-App-Werbung usw.).
+
+Detaillierte Informationen zu den Datenverarbeitungsaktivitäten von ID5 im Zusammenhang mit dieser ID und dem Opt-out von ID5 finden Sie in der Datenschutzrichtlinie der ID5-Plattform hier: [https://id5.io/platform-privacy-policy](https://id5.io/platform-privacy-policy). Sie haben das Recht, Ihre Einwilligung in die Verarbeitung Ihrer personenbezogenen Daten jederzeit zu widerrufen.
 
 **17\. Reichweitenmessung**  
 Unsere Website nutzt das Messverfahren („SZMnG“) der INFOnline GmbH (Deutschland, EU - „SZMnG“) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Nutzungsmessung ist es, die Anzahl der Besuche auf unserer Website, die Anzahl der Websitebesucher und deren Surfverhalten statistisch – auf Basis eines einheitlichen Standardverfahrens – zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Hierzu werden die Nutzungsstatistiken regelmäßig von der Arbeitsgemeinschaft Online-Forschung e.V. („agof“) und der Arbeitsgemeinschaft Media-Analyse e.V. („agma“) anhand von weiteren Kennzahlen zu Reichweiten weiterverarbeitet.
