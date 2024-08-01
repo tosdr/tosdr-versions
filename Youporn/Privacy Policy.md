@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.ypncdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/logo.png?v=2cf8510f7105e25912e6516fe815a0de766985ce)
+![Youporn Free Porn](https://ea.ypncdn.com/b1c972f426ab3571435a609793c82109f55346f4/base/cdn_assets/images/shared/logo.png?v=b1c972f426ab3571435a609793c82109f55346f4)
 
 Age Verification
 
@@ -8,13 +8,11 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Youporn 2024 [![rta](https://ea.ypncdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/rta.gif?v=2cf8510f7105e25912e6516fe815a0de766985ce)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Youporn 2024 [![rta](https://ea.ypncdn.com/b1c972f426ab3571435a609793c82109f55346f4/base/cdn_assets/images/shared/rta.gif?v=b1c972f426ab3571435a609793c82109f55346f4)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
-We use cookies and similar technologies that are necessary to run our Website (essential cookies). We use Analytics, Functionality and Targeting cookies to analyse our Website’s traffic, optimize your experience, personalize content and serve targeted advertisements. You can switch off cookies at any time by visiting the Manage Cookies option at the footer of the page.
-
-Learn more in our [Cookie Notice](https://www.youporn.com/information/cookie-notice). For more information about how we process your personal data, please refer to our [Privacy Notice](https://www.youporn.com/information/#privacy).
+We use cookies and similar technologies that are necessary to run our Website (essential cookies). We use Analytics, Functionality and Targeting cookies to analyse our Website’s traffic, optimize your experience, personalize content and serve targeted advertisements. You can switch off cookies at any time by visiting the Manage Cookies option at the footer of the page. Learn more in our [Cookie Notice](https://www.youporn.com/information/cookie-notice). For more information about how we process your personal data, please refer to our [Privacy Notice](https://www.youporn.com/information/#privacy).
 
 Please make a selection
 
@@ -26,6 +24,8 @@ Manage Cookies
 
 manage cookies
 --------------
+
+Back
 
 #### Essential
 
@@ -47,7 +47,7 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Youporn Free Porn](https://ea.ypncdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/logo.png?v=2cf8510f7105e25912e6516fe815a0de766985ce "Youporn Free Porn")](https://www.youporn.com/)
+[![Youporn Free Porn](https://ea.ypncdn.com/b1c972f426ab3571435a609793c82109f55346f4/base/cdn_assets/images/shared/logo.png?v=b1c972f426ab3571435a609793c82109f55346f4 "Youporn Free Porn")](https://www.youporn.com/)
 
 #### Recent Searches
 
@@ -55,14 +55,14 @@ Accept all cookies Accept only essential cookies Save and close
 
 * [Milf lesbian](https://www.youporn.com/porntags/milf-lesbian/)
 * [Hot milf](https://www.youporn.com/porntags/hot-milf/)
-* [Hairy anal](https://www.youporn.com/porntags/hairy-anal/)
 * [Virtual sex](https://www.youporn.com/porntags/virtual-sex/)
+* [Friends wife](https://www.youporn.com/porntags/friends-wife/)
 * [Bbc dp](https://www.youporn.com/porntags/bbc-dp/)
-* [Sunny leone](https://www.youporn.com/porntags/sunny-leone/)
-* [Hotel maid](https://www.youporn.com/porntags/hotel-maid/)
-* [Perfect ass](https://www.youporn.com/porntags/perfect-ass/)
-* [China](https://www.youporn.com/porntags/china/)
-* [Girl next door](https://www.youporn.com/porntags/girl-next-door/)
+* [Real amateur](https://www.youporn.com/porntags/real-amateur/)
+* [Missionary creampie](https://www.youporn.com/porntags/missionary-creampie/)
+* [Thick asian](https://www.youporn.com/porntags/thick-asian/)
+* [Stacy cruz](https://www.youporn.com/porntags/stacy-cruz/)
+* [Lesbian double dildo](https://www.youporn.com/porntags/lesbian-double-dildo/)
 
 #### Recommended Categories For You
 
@@ -85,17 +85,29 @@ Accept all cookies Accept only essential cookies Save and close
 
 [More](https://www.youporn.com/pornstars/)
 
-[Maggie Star
+[Frank Taylor
 
-Pornstar](https://www.youporn.com/pornstar/maggie-star/)
+Pornstar](https://www.youporn.com/pornstar/frank-taylor/)
 
-[Dora Venter
+[Austin Andrews
 
-Pornstar](https://www.youporn.com/pornstar/dora-venter/)
+Pornstar](https://www.youporn.com/gay/pornstar/austin-andrews/)
+
+[Molly Bennett
+
+Pornstar](https://www.youporn.com/pornstar/molly-bennett/)
 
 [Brittany Blaze
 
 Pornstar](https://www.youporn.com/pornstar/brittany-blaze/)
+
+[Simone Valentino
+
+Pornstar](https://www.youporn.com/pornstar/simone-valentino/)
+
+[Chocolate
+
+Pornstar](https://www.youporn.com/pornstar/chocolate/)
 
 [Hercules
 
@@ -109,29 +121,29 @@ Pornstar](https://www.youporn.com/pornstar/courtney-cummins/)
 
 [More](https://www.youporn.com/channels/)
 
-[Reality Kings Channel](https://www.youporn.com/channel/reality-kings/)
+[Backroom Casting Couch Channel](https://www.youporn.com/channel/backroom-casting-couch/)
 
-[Defloration TV Channel](https://www.youporn.com/channel/defloration-tv/)
-
-[mydirtyhobby Channel](https://www.youporn.com/channel/mydirtyhobby/)
+[Puba Channel](https://www.youporn.com/channel/puba/)
 
 [Brazzers Channel](https://www.youporn.com/channel/brazzers/)
 
-[Fake Taxi Channel](https://www.youporn.com/channel/fake-taxi/)
+[BangBrosNetwork Channel](https://www.youporn.com/channel/bangbrosnetwork/)
 
-[Massage Rooms Channel](https://www.youporn.com/channel/massage-rooms/)
-
-[MOFOS Channel](https://www.youporn.com/channel/mofos/)
+[Dogfart Network Channel](https://www.youporn.com/channel/dogfart-network/)
 
 [Passion-HD Channel](https://www.youporn.com/channel/passion-hd/)
 
-[The Habib Show Channel](https://www.youporn.com/channel/the-habib-show/)
-
 [Porn Pros Channel](https://www.youporn.com/channel/porn-pros/)
 
-[Dane Jones Channel](https://www.youporn.com/channel/dane-jones/)
+[la France a Poil Channel](https://www.youporn.com/channel/la-france-a-poil/)
 
-[BangBrosNetwork Channel](https://www.youporn.com/channel/bangbrosnetwork/)
+[Team Skeet Channel](https://www.youporn.com/channel/team-skeet/)
+
+[Public Agent Channel](https://www.youporn.com/channel/public-agent/)
+
+[MOFOS Channel](https://www.youporn.com/channel/mofos/)
+
+[Babes Channel](https://www.youporn.com/channel/babes/)
 
 #### All videos
 
@@ -228,7 +240,7 @@ ADBLOCK DETECTED!
 Terms Of Service
 ================
 
-Last Modified: February 26, 2024
+Last Modified: July 15, 2024
 
 Acceptance of the Terms of Service
 
@@ -288,6 +300,8 @@ Communication Preferences/Single Point of Contact
 By using and registering as a User on this Website, you expressly and specifically consent to receiving electronic communications from us relating to your account. These communications may involve sending emails to your email address provided during registration, or posting communications on this Website (for example, through the members’ area on this Website upon login to ensure receipt in the event you have unsubscribed from email communications), or in the “My Account” or “My Profile” page and may include notices about your account (such as change in password or confirmation emails) and are part of your relationship with us. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing. You should maintain copies of electronic communications by printing a paper copy or saving an electronic copy.
 
 In accordance with Articles 11 and 12 of Regulation (EU) 2022/2065 (the “**Digital Services Act**” or “**DSA**”), [dsa@youporn.com](mailto:dsa@youporn.com) is the designated, single point of contact for communications with recipients of the services offered herein, as well as for European Union Member State authorities, the Commission, and the Board for Digital Services. Please conduct all communications in English or Greek.
+
+For any removal orders pursuant to Regulation (EU) 2021/784 (the “Terrorist Content Online Regulation” or “TCO”), [designated competent EU authorities](https://home-affairs.ec.europa.eu/policies/internal-security/counter-terrorism-and-radicalisation/prevention-radicalisation/terrorist-content-online/list-national-competent-authority-authorities-and-contact-points_en) can complete our [removal form](https://www.youporn.com/tco-removal). Please use the template provided in [Annex I](https://eur-lex.europa.eu/eli/reg/2021/784#:~:text=p.%20385).-,ANNEX%20I,-REMOVAL%20ORDER) of the TCO, and conduct all communication in English or Greek.
 
 Back to Top
 
@@ -1606,7 +1620,7 @@ Close
 EU Digital Services Act
 =======================
 
-As of January 31, 2024, Youporn has 4,757,970 average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months.
+As of July 31, 2024, Youporn has 3,834,315 average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months.
 
 For inquiries and requests and complaints related to the Digital Services Act, please contact us at [dsa@youporn.com](mailto:dsa@youporn.com). If your request is not related to the Digital Services Act, please do not use this email address to communicate with us but rather:
 
@@ -1703,7 +1717,7 @@ More options on how you can customize our recommendations
 
 On the homepage for Youporn, select the **User** icon, and you can turn on or off _Personalized Recommendations_. If you turn off this feature, the videos you watched and how you interacted with these videos don’t influence any content recommendations we show you.
 
-[![Youporn Free Porn](https://ea.ypncdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/pc/global/pc_youporn_black.png?v=2cf8510f7105e25912e6516fe815a0de766985ce "Youporn Free Porn")](https://www.youporn.com/)
+[![Youporn Free Porn](https://ea.ypncdn.com/b1c972f426ab3571435a609793c82109f55346f4/base/cdn_assets/images/pc/global/pc_youporn_black.png?v=b1c972f426ab3571435a609793c82109f55346f4 "Youporn Free Porn")](https://www.youporn.com/)
 
 ### HELP & SUPPORT
 
@@ -1730,7 +1744,7 @@ On the homepage for Youporn, select the **User** icon, and you can turn on or of
 
 [Looking for gay porn?](https://www.youporn.com/gay/ "Youporn Gay")
 
-[![rta](https://ea.ypncdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/rta.gif?v=2cf8510f7105e25912e6516fe815a0de766985ce)](https://www.youporn.com/information/#rating)
+[![rta](https://ea.ypncdn.com/b1c972f426ab3571435a609793c82109f55346f4/base/cdn_assets/images/shared/rta.gif?v=b1c972f426ab3571435a609793c82109f55346f4)](https://www.youporn.com/information/#rating)
 
 © Youporn 2006 - 2024
 
