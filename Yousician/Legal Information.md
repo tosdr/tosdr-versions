@@ -232,9 +232,9 @@ If you are a California resident, please note that under the California Consumer
 
 [![Download on the AppStore](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x14395)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x86146)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x14395)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
+![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x86146)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
 [Download for desktop](https://account.yousician.com/download)
 
@@ -242,7 +242,7 @@ If you are a California resident, please note that under the California Consumer
 
 [![Yousician logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x14395)](https://yousician.com/)
+![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x86146)](https://yousician.com/)
 
 * [Yousician on Instagram Instagram](https://www.instagram.com/yousician/?hl=en)
 * [Yousician on Facebook Facebook](https://www.facebook.com/yousician/)
