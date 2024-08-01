@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/tube8/cdn_assets/images/shared/logo.png?v=2cf8510f7105e25912e6516fe815a0de766985ce)
+![Youporn Free Porn](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/tube8/cdn_assets/images/shared/logo.png?v=33cd9db11d73b45c245043fc00b6720f53de8f3e)
 
 Age Verification
 
@@ -8,13 +8,11 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Tube8 2024 [![rta](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/rta.gif?v=2cf8510f7105e25912e6516fe815a0de766985ce)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Tube8 2024 [![rta](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/base/cdn_assets/images/shared/rta.gif?v=33cd9db11d73b45c245043fc00b6720f53de8f3e)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
-We use cookies and similar technologies that are necessary to run our Website (essential cookies). We use Analytics, Functionality and Targeting cookies to analyse our Website’s traffic, optimize your experience, personalize content and serve targeted advertisements. You can switch off cookies at any time by visiting the Manage Cookies option at the footer of the page.
-
-Learn more in our [Cookie Notice](https://www.tube8.com/information/cookie-notice). For more information about how we process your personal data, please refer to our [Privacy Notice](https://www.tube8.com/info.html#privacy).
+We use cookies and similar technologies that are necessary to run our Website (essential cookies). We use Analytics, Functionality and Targeting cookies to analyse our Website’s traffic, optimize your experience, personalize content and serve targeted advertisements. You can switch off cookies at any time by visiting the Manage Cookies option at the footer of the page. Learn more in our [Cookie Notice](https://www.tube8.com/information/cookie-notice). For more information about how we process your personal data, please refer to our [Privacy Notice](https://www.tube8.com/info.html#privacy).
 
 Please make a selection
 
@@ -26,6 +24,8 @@ Manage Cookies
 
 manage cookies
 --------------
+
+Back
 
 #### Essential
 
@@ -47,20 +47,20 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/tube8/cdn_assets/images/shared/logo.png?v=2cf8510f7105e25912e6516fe815a0de766985ce "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/tube8/cdn_assets/images/shared/logo.png?v=33cd9db11d73b45c245043fc00b6720f53de8f3e "Tube8 Free Porn")](https://www.tube8.com/)
 
 #### Recent Searches
 
 #### Trending Searches
 
 * [Angela white](https://www.tube8.com/porntags/angela+white/)
-* [Breastfeeding](https://www.tube8.com/porntags/breastfeeding/)
 * [Hairy anal](https://www.tube8.com/porntags/hairy+anal/)
 * [Friends](https://www.tube8.com/porntags/friends/)
-* [Sunny leone](https://www.tube8.com/porntags/sunny+leone/)
-* [Doggy](https://www.tube8.com/porntags/doggy/)
+* [Real amateur](https://www.tube8.com/porntags/real+amateur/)
+* [Perfect ass](https://www.tube8.com/porntags/perfect+ass/)
+* [Missionary creampie](https://www.tube8.com/porntags/missionary+creampie/)
 * [Leah gotti](https://www.tube8.com/porntags/leah+gotti/)
-* [Thick asian](https://www.tube8.com/porntags/thick+asian/)
+* [China](https://www.tube8.com/porntags/china/)
 * [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
 * [Stacy cruz](https://www.tube8.com/porntags/stacy+cruz/)
 
@@ -68,65 +68,53 @@ Accept all cookies Accept only essential cookies Save and close
 
 [More](https://www.tube8.com/pornstars/)
 
-[Frank Taylor
+[Maggie Star
 
-Pornstar](https://www.tube8.com/pornstar/frank-taylor/)
+Pornstar](https://www.tube8.com/pornstar/maggie-star/)
 
-[Austin Andrews
+[Molly Bennett
 
-Pornstar](https://www.tube8.com/gay/pornstar/austin-andrews/)
+Pornstar](https://www.tube8.com/pornstar/molly-bennett/)
 
-[Liana
+[Dora Venter
 
-Pornstar](https://www.tube8.com/pornstar/liana/)
-
-[Hope Howell
-
-Pornstar](https://www.tube8.com/pornstar/hope-howell/)
+Pornstar](https://www.tube8.com/pornstar/dora-venter/)
 
 [Simone Valentino
 
 Pornstar](https://www.tube8.com/pornstar/simone-valentino/)
 
-[Chocolate
-
-Pornstar](https://www.tube8.com/pornstar/chocolate/)
-
 [Hercules
 
 Pornstar](https://www.tube8.com/pornstar/hercules/)
-
-[Johnny Rey
-
-Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
 
 #### Recommended Channels For You
 
 [More](https://www.tube8.com/top-channels/)
 
-[BlackedRaw Channel](https://www.tube8.com/channel/blacked-raw/)
-
-[Girlsway Channel](https://www.tube8.com/channel/girlsway/)
-
-[FamilyStrokes Channel](https://www.tube8.com/channel/family-strokes/)
+[NewSensations Channel](https://www.tube8.com/channel/newsensations/)
 
 [BangBrosNetwork Channel](https://www.tube8.com/channel/bangbrosnetwork/)
 
-[BrattySis Channel](https://www.tube8.com/channel/bratty-sis/)
-
-[FakeTaxi Channel](https://www.tube8.com/channel/faketaxi/)
-
-[MomsTeachSex Channel](https://www.tube8.com/channel/momsteachsex/)
+[SisLovesMe Channel](https://www.tube8.com/channel/sis-loves-me/)
 
 [HotGuysFuck Channel](https://www.tube8.com/channel/hot-guys-fuck/)
 
+[FakeTaxi Channel](https://www.tube8.com/channel/faketaxi/)
+
 [PublicAgent Channel](https://www.tube8.com/channel/public-agent/)
 
-[PervMom Channel](https://www.tube8.com/channel/perv-mom/)
+[BlackedRaw Channel](https://www.tube8.com/channel/blacked-raw/)
 
-[PropertySex Channel](https://www.tube8.com/channel/property-sex/)
+[AdultTime Channel](https://www.tube8.com/channel/adulttime/)
 
-[SisLovesMe Channel](https://www.tube8.com/channel/sis-loves-me/)
+[StepSiblingsCaught Channel](https://www.tube8.com/channel/step-siblings-caught/)
+
+[RealityKings Channel](https://www.tube8.com/channel/realitykings/)
+
+[TeamSkeet Channel](https://www.tube8.com/channel/teamskeet/)
+
+[MassageRooms Channel](https://www.tube8.com/channel/massagerooms/)
 
 #### All videos
 
@@ -198,7 +186,7 @@ ADBLOCK DETECTED!
 Terms Of Service
 ================
 
-Last Modified: February 26, 2024
+Last Modified: July 15, 2024
 
 Acceptance of the Terms of Service
 
@@ -258,6 +246,8 @@ Communication Preferences/Single Point of Contact
 By using and registering as a User on this Website, you expressly and specifically consent to receiving electronic communications from us relating to your account. These communications may involve sending emails to your email address provided during registration, or posting communications on this Website (for example, through the members’ area on this Website upon login to ensure receipt in the event you have unsubscribed from email communications), or in the “My Account” or “My Profile” page and may include notices about your account (such as change in password or confirmation emails) and are part of your relationship with us. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing. You should maintain copies of electronic communications by printing a paper copy or saving an electronic copy.
 
 In accordance with Articles 11 and 12 of Regulation (EU) 2022/2065 (the “**Digital Services Act**” or “**DSA**”), [dsa@tube8.com](mailto:dsa@tube8.com) is the designated, single point of contact for communications with recipients of the services offered herein, as well as for European Union Member State authorities, the Commission, and the Board for Digital Services. Please conduct all communications in English or Greek.
+
+For any removal orders pursuant to Regulation (EU) 2021/784 (the “Terrorist Content Online Regulation” or “TCO”), [designated competent EU authorities](https://home-affairs.ec.europa.eu/policies/internal-security/counter-terrorism-and-radicalisation/prevention-radicalisation/terrorist-content-online/list-national-competent-authority-authorities-and-contact-points_en) can complete our [removal form](https://www.tube8.com/tco-removal). Please use the template provided in [Annex I](https://eur-lex.europa.eu/eli/reg/2021/784#:~:text=p.%20385).-,ANNEX%20I,-REMOVAL%20ORDER) of the TCO, and conduct all communication in English or Greek.
 
 Back to Top
 
@@ -1553,7 +1543,7 @@ Close
 EU Digital Services Act
 =======================
 
-As of January 31, 2024, Tube8 has 394,224 average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months.
+As of July 31, 2024, Tube8 has 316,547 average monthly recipients of the service in the European Union, calculated as an average over the period of the past six months.
 
 For inquiries and requests and complaints related to the Digital Services Act, please contact us at [dsa@tube8.com](mailto:dsa@tube8.com). If your request is not related to the Digital Services Act, please do not use this email address to communicate with us but rather:
 
@@ -1672,9 +1662,9 @@ INCREASE YOUR EXPOSURE TODAY!
 
 Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
-[![Sign Up Now](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/sign-up-button.png?v=2cf8510f7105e25912e6516fe815a0de766985ce)](https://www.pornhub.com/partners/cpp)
+[![Sign Up Now](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/base/cdn_assets/images/shared/sign-up-button.png?v=33cd9db11d73b45c245043fc00b6720f53de8f3e)](https://www.pornhub.com/partners/cpp)
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=2cf8510f7105e25912e6516fe815a0de766985ce "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=33cd9db11d73b45c245043fc00b6720f53de8f3e "Tube8 Free Porn")](https://www.tube8.com/)
 
 ### HELP & SUPPORT
 
@@ -1701,7 +1691,7 @@ Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
 [Looking for gay porn?](https://www.tube8.com/gay "Tube8 Gay")
 
-[![rta](https://ea.t8cdn.com/2cf8510f7105e25912e6516fe815a0de766985ce/base/cdn_assets/images/shared/rta.gif?v=2cf8510f7105e25912e6516fe815a0de766985ce)](https://www.tube8.com/info.html#rating)
+[![rta](https://ea.t8cdn.com/33cd9db11d73b45c245043fc00b6720f53de8f3e/base/cdn_assets/images/shared/rta.gif?v=33cd9db11d73b45c245043fc00b6720f53de8f3e)](https://www.tube8.com/info.html#rating)
 
 © Tube8 2006 - 2024
 
