@@ -1,23 +1,31 @@
 [Skip to content](#MainContent)
 
+close
+
+[](https://bossmonsta.com/products/bb-shork-weighted-plush-toy-series-1)
+
+**NEW!!** **BB Shorks.** Get them now!
+
+close
+
 [](https://bossmonsta.com/)
 
  [![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95) ![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95)![BossMonsta](//bossmonsta.com/cdn/shop/files/g8135.png?v=1710701745&width=95)](https://bossmonsta.com/)
 
-* [Plushies](https://bossmonsta.com/collections/plushies)
+* [PlushiesNew](https://bossmonsta.com/collections/plushies)
 * [Collaborators](https://bossmonsta.com/)
     
 * [Apparel](https://bossmonsta.com/collections/frontpage)
 * [Pins](https://bossmonsta.com/collections/pins)
 * [Stickers](https://bossmonsta.com/collections/stickers)
 * [Prints](https://bossmonsta.com/collections/prints)
-* [Dakimakuras](https://bossmonsta.com/collections/dakimakuras)
+* [Dakimakuras18+](https://bossmonsta.com/collections/dakimakuras)
 
 [](https://bossmonsta.com/search)
 
 [](https://bossmonsta.com/account)
 
-[0 / $0.00](https://bossmonsta.com/cart)
+[0 / £0.00](https://bossmonsta.com/cart)
 
 Terms of service
 ================
@@ -138,14 +146,22 @@ Questions about the Terms of Service should be sent to us at BossMonstaLV@gmail.
 * [Refund Policy](https://bossmonsta.com/policies/refund-policy)
 * [Shipping Policy](https://bossmonsta.com/policies/shipping-policy)
 
-### Company
+### Categories
 
-### Company
+### Categories
 
 * [About Us](https://bossmonsta.com/pages/about-us)
 * [Terms of Service](https://bossmonsta.com/policies/terms-of-service)
 * [Privacy Policy](https://bossmonsta.com/policies/privacy-policy)
 * [FAQ](https://bossmonsta.com/pages/faq)
+
+### Company
+
+### Company
+
+* [Main Menu](https://bossmonsta.com/)
+* [Collections](https://bossmonsta.com/collections)
+* [Bundles](https://bossmonsta.com/collections/bundles)
 
     
 
@@ -169,5 +185,13 @@ Copyright © 2024 BossMonsta, All rights reserved.
 * Choosing a selection results in a full page refresh.
 
  
+
+[Shop](https://bossmonsta.com/collections/all)
+
+[0 Cart](https://bossmonsta.com/cart)
+
+[Account](https://bossmonsta.com/account)
+
+[Search](https://bossmonsta.com/search)
 
 [](#)
