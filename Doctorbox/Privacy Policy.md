@@ -279,8 +279,6 @@ Geschäftskunden
 
 [Notfallsticker Vertrieb](https://www.notfallsticker.de/)
 
-[DoctorBox Prevent](https://ppt.doctorbox.de/doctorbox-prevent)
-
 Videosprechstunde Support
 
 [Tel.: +49 30 34045468](tel:+49 30 34045468)
