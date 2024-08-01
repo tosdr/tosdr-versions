@@ -1,4 +1,4 @@
-Monday, July 29 2024
+Thursday, August 1 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -46,6 +46,7 @@ Monday, July 29 2024
     * [Malaysia REIT Data](https://mreit.fifthperson.com/)
     * [Hong Kong REIT Data](https://hkreit.fifthperson.com/)
     
+* [Newsletter](https://fifthperson.com/newsletter/)
 
 * [Facebook](https://facebook.com/fifthperson/)
 * [YouTube](http://www.youtube.com/c/TheFifthPersonChannel)
@@ -170,11 +171,19 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2024/07/manager-220x150.jpg)](https://fifthperson.com/how-to-invest-stage-career/)
+    
+    [From yuppie to retiree: How to invest at each stage of your career](https://fifthperson.com/how-to-invest-stage-career/)
+    
+    2 days ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2020/04/luckin.jpg)](https://fifthperson.com/luckin-coffee-turnaround/)
     
     [The recipe for Luckin Coffee’s remarkable turnaround](https://fifthperson.com/luckin-coffee-turnaround/) 
     
-    4 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -182,7 +191,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Nestlé Malaysia AGM](https://fifthperson.com/2024-nestle-malaysia-agm/)
     
-    6 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -206,7 +215,7 @@ Quick Guides
     
     [7 things I learned from Temasek Review 2024](https://fifthperson.com/temasek-review-2024/)
     
-    2 weeks ago
+    3 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -222,7 +231,7 @@ Quick Guides
     
     [7 things I learned from the 2024 KLCCP Stapled Group AGM](https://fifthperson.com/2024-klccp-stapled-group-agm/)
     
-    4 weeks ago
+    July 2, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -239,14 +248,6 @@ Quick Guides
     [Investing in developed vs emerging markets: Which is better?](https://fifthperson.com/developed-vs-emerging-markets-which-is-better/)
     
     June 25, 2024
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2022/09/public-bank-220x150.png)](https://fifthperson.com/2024-public-bank-agm/)
-    
-    [12 things I learned from the 2024 Public Bank AGM](https://fifthperson.com/2024-public-bank-agm/)
-    
-    June 21, 2024
     
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
