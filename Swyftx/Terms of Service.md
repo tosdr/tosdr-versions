@@ -112,7 +112,7 @@ Features
 
 [Discover all features](https://swyftx.com/au/features/)
 
-[Demo Mode](https://swyftx.com/au/demo-mode/)
+[Demo Mode](https://swyftx.com/au/crypto-demo/)
 
 [Auto Invest](https://swyftx.com/au/features/auto-invest/)
 
