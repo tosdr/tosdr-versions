@@ -53,11 +53,15 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### **Ongoing** faculty development
+    * * ### Build the foundation  
+            for a **successful  
+            accreditation**
             
-            [Read eBook](https://www.watermarkinsights.com/resources/ebooks-guides/how-to-drive-continuous-faculty-development "Read eBook")
+            [Register](https://go.watermarkinsights.com/WBN-2024-08-15-Building-the-foundation-for-a-successful-accred-PSS_LPRegistration.html "Register")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/03/Untitled-design-12.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Regular-Promo-3.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
@@ -140,11 +144,15 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides)
         * [Reports](https://www.watermarkinsights.com/resources/reports)
         * [Videos](https://www.watermarkinsights.com/resources/videos)
-    * * ### **Ongoing** faculty development
+    * * ### Build the foundation  
+            for a **successful  
+            accreditation**
             
-            [Read eBook](https://www.watermarkinsights.com/resources/ebooks-guides/how-to-drive-continuous-faculty-development "Read eBook")
+            [Register](https://go.watermarkinsights.com/WBN-2024-08-15-Building-the-foundation-for-a-successful-accred-PSS_LPRegistration.html "Register")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/03/Untitled-design-12.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/07/Regular-Promo-3.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
