@@ -1,5 +1,3 @@
-![](https://stats.afssn.com/piwik.php?idsite=2&rec=1)
-
 * ![uChoose Rewards](https://images.affinitysolutions.com/e/FISERV/timages/fi_logo.png)
 
 * [Log In](https://www.uchooserewards.com/e/members/verifypasswd.php?sid=40XXdKrlo40&method=login)
