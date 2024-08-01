@@ -1,6 +1,8 @@
 ![](https://resources.jamf.com/images/logos/jamf-one-color-dark-for-print-css.svg)
 
-[Skip to main content](#main-content) English
+[Skip to main content](#main-content)
+
+[Site Search](https://www.jamf.com/search/) English
 
 * [English](https://www.jamf.com/privacy-policy/)
 * [Deutsch (German)](https://www.jamf.com/de/privacy-policy/)
@@ -15,64 +17,132 @@
 
 Toggle Navigation
 
-* [Solutions](https://www.wandera.com/solutions/)
+* [Why Jamf](https://www.wandera.com/why-jamf/)
     
-    [The Jamf platform Where device love meets Trusted Access](https://www.wandera.com/solutions/)
+    Why Jamf
     
-    **manage** devices
+    Meet Jamf: The most complete Apple device management and security solution.
     
-    [Zero-touch deployment](https://www.wandera.com/solutions/zero-touch-deployment/)[Mobile Device Management (MDM)](https://www.wandera.com/solutions/device-management/)[App management](https://www.wandera.com/solutions/app-lifecycle-management/)[Inventory management](https://www.wandera.com/solutions/inventory-management/)[Self Service](https://www.wandera.com/solutions/self-service/)
+    [Learn More](https://www.wandera.com/why-jamf/)
     
-    **secure** endpoints
+    Solutions
     
-    [Identity and access management](https://www.wandera.com/solutions/identity-based-access/)[Endpoint protection](https://www.wandera.com/solutions/endpoint-protection/)[Threat prevention and remediation](https://www.wandera.com/solutions/threat-prevention-remediation/)[Content filtering and safe internet](https://www.wandera.com/solutions/content-filtering/)[Zero Trust Network Access (ZTNA)](https://www.wandera.com/solutions/zero-trust-network-access/)[Security visibility and compliance](https://www.wandera.com/solutions/compliance/)
+    [Trusted Access](https://www.wandera.com/solutions/trusted-access/)
     
-    **explore** industries
+    [Mobile Device Management (MDM)](https://www.wandera.com/solutions/device-management/)
     
-    [Business Improve business operations and empower employees](https://www.wandera.com/business/)[Education Accelerate learning through streamlined education technology](https://www.wandera.com/education/)[Healthcare Enhance the patient experience and personalize telehealth](https://www.wandera.com/healthcare/)
+    [Identity and access management](https://www.wandera.com/solutions/identity-based-access/)
     
-    [Learn about the **products** that drive Jamf’s solutions.](https://www.wandera.com/products/)
+    [Threat prevention and remediation](https://www.wandera.com/solutions/threat-prevention-remediation/)
+    
+    [Endpoint protection](https://www.wandera.com/solutions/endpoint-protection/)
+    
+    [Explore all solutions](https://www.wandera.com/solutions/)
+    
+    Industries
+    
+    [Business](https://www.wandera.com/business/)
+    
+    [Education](https://www.wandera.com/education/)
+    
+    [Healthcare](https://www.wandera.com/healthcare/)
     
 * [Products](https://www.wandera.com/products/)
+    
+    Products
+    
+    Empower your employees with our best-in-class products.
+    
+    [Learn More](https://www.wandera.com/products/)
+    
+    [Jamf Pro Device management for business & higher education](https://www.wandera.com/products/jamf-pro/)
+    
+    [Jamf Now Device management for small & medium-sized businesses](https://www.wandera.com/products/jamf-now/)
+    
+    [Jamf School Device management for K-12](https://www.wandera.com/products/jamf-school/)
+    
+    [Jamf Protect Endpoint security & protection](https://www.wandera.com/products/jamf-protect/)
+    
+    [Jamf Connect Identity & access management](https://www.wandera.com/products/jamf-connect/)
+    
+    [Jamf Safe Internet Security for education](https://www.wandera.com/products/jamf-safe-internet/)
+    
+    [Jamf Executive Threat Protection Advanced security](https://www.wandera.com/products/jamf-executive-threat-protection/)
+    
 * [Pricing](https://www.wandera.com/pricing/)
+    
+    Pricing
+    
+    Find the best set of Jamf tools for your budget.
+    
+    Pricing options
+    
+    [Business pricing For small business to enterprise](https://www.jamf.com/pricing/#business-pricing)
+    
+    [Education pricing For K-12 and Higher Ed](https://www.jamf.com/pricing/#education-pricing)
+    
+    Try or buy
+    
+    [Request a trial Free, 14-day Jamf trial](https://www.wandera.com/request-trial/)
+    
+    [Jamf Store Buy a plan or product today](https://store-configure.jamf.com/store/)
+    
+    [From a Partner Find a reseller](https://www.wandera.com/partners/directory/)
+    
 * [Resources](https://www.wandera.com/resources/)
     
-    Search resources
+    Resources
     
-     e.g. Device Management
+    Whether you’re looking for education or inspiration, Jamf has you covered with the latest industry and product-specific resources.
     
-    * * *
+    [Blog Get the latest industry insights, news, product updates and more.](https://www.jamf.com/blog/)
     
-    Browse Resources by Type:
+    [E-books Thought-provoking content designed to keep you ahead of industry trends.](https://www.jamf.com/resources/e-books/)
     
-    * [Blog Get the latest industry insights, news, product updates and more.](https://www.jamf.com/blog/)
-    * [E-books Thought-provoking content designed to keep you ahead of industry trends.](https://www.jamf.com/resources/e-books/)
-    * [White Papers Research reports and best practices to keep you informed of Apple management tactics.](https://www.jamf.com/resources/white-papers/)
-    * [Videos See product demos in action and hear from Jamf customers.](https://www.jamf.com/resources/videos/)
+    [White Papers Research reports and best practices to keep you informed of Apple management tactics.](https://www.jamf.com/resources/white-papers/)
     
-    * [Case Studies Apple management success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
-    * [Webinars On-demand webinar videos covering an array of Apple management topics.](https://www.jamf.com/resources/webinars/)
-    * [Product Documentation Learn more about our products and what they can do for your organization.](https://www.jamf.com/resources/product-documentation/)
+    [Videos See product demos in action and hear from Jamf customers.](https://www.jamf.com/resources/videos/)
     
-* [Partners](https://www.wandera.com/partners/deal/)
+    [Case Studies Apple management success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
     
-    [The Jamf Partner Program](https://www.wandera.com/partners/)
+    [Webinars On-demand webinar videos covering an array of Apple management topics.](https://www.jamf.com/resources/webinars/)
     
-    [**For partners**](https://www.wandera.com/partners/for-partners/)[Register a deal](https://www.wandera.com/partners/deal/)[Resources](https://www.jamf.info/)[Training](https://partnerpath.jamf.com/)
+    [Product Documentation Learn more about our products and what they can do for your organization.](https://www.jamf.com/resources/product-documentation/)
     
-    [**Become a partner**](https://www.wandera.com/partners/become-a-partner/)[MSP](https://www.wandera.com/partners/managed-service-providers/)[Reseller](https://www.wandera.com/partners/resellers/)[Integrator](https://www.wandera.com/partners/integrators/)[Technology](https://www.wandera.com/partners/technology-partners/)
+* [Partners](https://www.wandera.com/partners/become-a-partner/)
     
-    [**Buy from a partner**](https://www.wandera.com/partners/directory/)[Partner directory](https://www.wandera.com/partners/directory/)
+    Partners
     
-* [Contact](https://www.wandera.com/contact/)
+    Current partner, future partner or purchasing from a partner - you’re in the right place.
+    
+    [Learn More](https://www.wandera.com/partners/)
+    
+    For partners
+    
+    [Submit a deal](https://www.wandera.com/partners/deal/)
+    
+    [Resources](https://www.jamf.info/choose-org)
+    
+    [Training](https://partnerpath.jamf.com/)
+    
+    [Explore more](https://www.wandera.com/partners/for-partners-new/)
+    
+    **Become a partner**
+    
+    [MSP](https://www.wandera.com/partners/managed-service-providers/)
+    
+    [Resellers](https://www.wandera.com/partners/resellers/)
+    
+    [Integrators](https://www.wandera.com/partners/integrators/)
+    
+    [Technology](https://www.wandera.com/partners/technology-partners/)
+    
+    [Explore more](https://www.wandera.com/partners/become-a-partner/)
+    
 
-[Start Trial](https://www.jamf.com/request-trial/)
+[Start Trial](https://www.jamf.com/request-trial/) [Contact](https://www.wandera.com/contact/)
 
-* [Site Search](https://www.jamf.com/search/)
-    
-     Search Submit Reset
-    
-* [Start Trial](https://www.jamf.com/request-trial/)
+* [Start Trial](https://www.jamf.com/request-trial/) [Contact](https://www.wandera.com/contact/)
 
 1. [Jamf Home](https://www.jamf.com/)
 2. Privacy Policy
@@ -371,7 +441,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 
 ### [Partners](https://www.wandera.com/partners/)
 
-* [For partners](https://www.wandera.com/partners/for-partners/)
+* [For partners](https://www.wandera.com/partners/for-partners-new/)
 * [Become a partner](https://www.wandera.com/partners/become-a-partner/)
 * [Buy from a partner](https://www.wandera.com/partners/directory/)
 * [Marketplace](https://marketplace.jamf.com/)
