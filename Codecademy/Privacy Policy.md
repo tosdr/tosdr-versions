@@ -453,7 +453,7 @@ Plans
 
 * [For individuals](https://www.codecademy.com/pages/paid-plans)
 * [For students](https://www.codecademy.com/student-center)
-* [For business](https://www.codecademy.com/business)
+* [For teams](https://www.codecademy.com/business)
 * [Discounts](https://www.codecademy.com/pages/codecademy-discount-codes)
 
 Community
