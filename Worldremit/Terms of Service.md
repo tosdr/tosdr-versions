@@ -1,4 +1,4 @@
-[![WorldRemit's logo in Purple which consists of an outline of an Octagon shape with the letter W in the centre. It also has WorldRemit written on the right hand side of it.](https://images.ctfassets.net/sb7j5o4oxtgv/7oO3Cgp9jctbnoHxJEIfpm/9d2506197d9157fee41b7694127f2a03/WorldRemit_Logo_Purple_228x52.png?w=960&q=75 "WorldRemit logo")![WorldRemit logo in purple - a W inside an octagon with a purple border](https://images.ctfassets.net/sb7j5o4oxtgv/1wKGCpE0nb9w4EVCsvIO9f/90c966231d56cc1be03c5d4e05d206e9/logo__1_.svg?w=96&q=75 "WorldRemit logo - Purple W")](https://www.worldremit.com/en/)
+[![WorldRemit's logo in Purple which consists of an outline of an Octagon shape with the letter W in the centre. It also has WorldRemit written on the right hand side of it.](https://images.ctfassets.net/sb7j5o4oxtgv/7oO3Cgp9jctbnoHxJEIfpm/9d2506197d9157fee41b7694127f2a03/WorldRemit_Logo_Purple_228x52.png?q=75&fm=avif&w=960 "WorldRemit logo")![WorldRemit logo in purple - a W inside an octagon with a purple border](https://images.ctfassets.net/sb7j5o4oxtgv/1wKGCpE0nb9w4EVCsvIO9f/90c966231d56cc1be03c5d4e05d206e9/logo__1_.svg?q=75&w=96 "WorldRemit logo - Purple W")](https://www.worldremit.com/en/)
 
 * * *
 
@@ -26,9 +26,9 @@ A fast and secure way to send money on the go
 
 Download our app for free to send money online in minutes to over 130 other countries. Track your payments and view your transfer history from anywhere.
 
-[![Black and white Download on the App Store button](https://images.ctfassets.net/sb7j5o4oxtgv/4zpZobAjnWvipiXMWJ3BoL/2d72f1a8b27d9f2a9e07584bd8998e5e/appstore.svg?w=320&q=75 "App Store")](https://worldremit.onelink.me/ernM/69618201)[![Black Google play store button](https://images.ctfassets.net/sb7j5o4oxtgv/3vovUPjarQfrQC0f7B4xOp/c4e8b1281adce328cbde95c43a5ebb1e/googleplay.svg?w=320&q=75 "Google Play")](https://worldremit.onelink.me/ernM/750b4a04)
+[![Black and white Download on the App Store button](https://images.ctfassets.net/sb7j5o4oxtgv/4zpZobAjnWvipiXMWJ3BoL/2d72f1a8b27d9f2a9e07584bd8998e5e/appstore.svg?q=75&w=320 "App Store")](https://worldremit.onelink.me/ernM/69618201)[![Black Google play store button](https://images.ctfassets.net/sb7j5o4oxtgv/3vovUPjarQfrQC0f7B4xOp/c4e8b1281adce328cbde95c43a5ebb1e/googleplay.svg?q=75&w=320 "Google Play")](https://worldremit.onelink.me/ernM/750b4a04)
 
-![An image of an iPhone and Android smartphone with the WorldRemit app displayed on the screen](https://images.ctfassets.net/sb7j5o4oxtgv/66Tx7oPzzUayThFTvpvZn4/9b054d37d622bf59737c371d5cd8a43d/Landing_page_banner_6_image.png?w=1600&q=75 "Mobileapp")
+![An image of an iPhone and Android smartphone with the WorldRemit app displayed on the screen](https://images.ctfassets.net/sb7j5o4oxtgv/66Tx7oPzzUayThFTvpvZn4/9b054d37d622bf59737c371d5cd8a43d/Landing_page_banner_6_image.png?q=75&fm=avif&w=1600 "Mobileapp")
 
 1. [Homepage](https://www.worldremit.com/en)
 2. /
@@ -100,7 +100,7 @@ Download our app for free to send money online in minutes to over 130 other coun
     * Countries
     * [![au flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-au.svg&w=64&q=75 "country flag")Australia](https://www.worldremit.com/en-au/about-us/terms-and-conditions)
     * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "country flag")CanadaEnglish](https://www.worldremit.com/en-ca/about-us/terms-and-conditions)
-    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "country flag")Canadafrançais](https://www.worldremit.com/fr-ca/about-us/terms-and-conditions)
+    * [![ca flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-ca.svg&w=64&q=75 "country flag")CanadaFrançais](https://www.worldremit.com/fr-ca/about-us/terms-and-conditions)
     * [![dk flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-dk.svg&w=64&q=75 "country flag")Denmark](https://www.worldremit.com/da-dk/about-us/terms-and-conditions)
     * [![fr flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-fr.svg&w=64&q=75 "country flag")France](https://www.worldremit.com/fr/about-us/terms-and-conditions)
     * [![de flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-de.svg&w=64&q=75 "country flag")Germany](https://www.worldremit.com/de/about-us/terms-and-conditions)
@@ -111,14 +111,14 @@ Download our app for free to send money online in minutes to over 130 other coun
     * [![se flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-se.svg&w=64&q=75 "country flag")Sweden](https://www.worldremit.com/en-se/about-us/terms-and-conditions)
     * [![gb flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-gb.svg&w=64&q=75 "country flag")United Kingdom](https://www.worldremit.com/en-gb/about-us/terms-and-conditions)
     * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "country flag")United StatesEnglish](https://www.worldremit.com/en-us/about-us/terms-and-conditions)
-    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "country flag")United Statesespañol](https://www.worldremit.com/es-us/about-us/terms-and-conditions)
+    * [![us flag](/web-cms-assets/_next/image?url=%2Fflags%2Fcircle%2Fflag-us.svg&w=64&q=75 "country flag")United StatesEspañol](https://www.worldremit.com/es-us/about-us/terms-and-conditions)
     
 
-* [![Grey and white Facebook icon](https://images.ctfassets.net/sb7j5o4oxtgv/65waViz1P4jzQKjn8yeWji/d9bf49f2f937be21ddf668ebd52e0da2/Facebook_-_Grey.svg?w=48&q=75 "facebookicon")](https://www.facebook.com/WorldRemit/)
-* [![Grey Twitter Icon](https://images.ctfassets.net/sb7j5o4oxtgv/3umen8t5QajI9OgK9SIihK/73cef530c0836bce6765bab35b68309c/Twitter_-_Grey.svg?w=48&q=75 "twitter icon")](https://twitter.com/worldremit)
-* [![Grey Instagram logo ](https://images.ctfassets.net/sb7j5o4oxtgv/1ICVHoAccOAcqFSFRY36eA/4faa2fce47be683e549b8b64dbefcab4/Instagram_-_Grey.svg?w=48&q=75 "instagram icon")](https://www.instagram.com/worldremit/)
-* [![Grey LinkedIn logo with white writing](https://images.ctfassets.net/sb7j5o4oxtgv/EIrtzZEADgKWJRu6oEEGg/d737fbce1f0c9e61881130779474a38c/LinkedIn_-_Grey.svg?w=48&q=75 "LinkedIn Icon")](https://www.linkedin.com/company/worldremit/)
-* [![YouTube icon](https://images.ctfassets.net/sb7j5o4oxtgv/gT2DpIsawd0ycxSk32WKM/a696d393d4a69b99fe2a8fa990e90b36/YouTube_-_Grey.svg?w=48&q=75 "YouTube")](https://www.youtube.com/user/WorldRemit)
+* [![Grey and white Facebook icon](https://images.ctfassets.net/sb7j5o4oxtgv/65waViz1P4jzQKjn8yeWji/d9bf49f2f937be21ddf668ebd52e0da2/Facebook_-_Grey.svg?q=75&w=48 "facebookicon")](https://www.facebook.com/WorldRemit/)
+* [![Grey Twitter Icon](https://images.ctfassets.net/sb7j5o4oxtgv/3umen8t5QajI9OgK9SIihK/73cef530c0836bce6765bab35b68309c/Twitter_-_Grey.svg?q=75&w=48 "twitter icon")](https://twitter.com/worldremit)
+* [![Grey Instagram logo ](https://images.ctfassets.net/sb7j5o4oxtgv/1ICVHoAccOAcqFSFRY36eA/4faa2fce47be683e549b8b64dbefcab4/Instagram_-_Grey.svg?q=75&w=48 "instagram icon")](https://www.instagram.com/worldremit/)
+* [![Grey LinkedIn logo with white writing](https://images.ctfassets.net/sb7j5o4oxtgv/EIrtzZEADgKWJRu6oEEGg/d737fbce1f0c9e61881130779474a38c/LinkedIn_-_Grey.svg?q=75&w=48 "LinkedIn Icon")](https://www.linkedin.com/company/worldremit/)
+* [![YouTube icon](https://images.ctfassets.net/sb7j5o4oxtgv/gT2DpIsawd0ycxSk32WKM/a696d393d4a69b99fe2a8fa990e90b36/YouTube_-_Grey.svg?q=75&w=48 "YouTube")](https://www.youtube.com/user/WorldRemit)
 
 First-Transfer Enhanced FX Rate: Select country corridors and delivery methods only. This promotion is for new customers only and can only be used once per person. Fees and charges will still apply. FX rates subject to change.
 
