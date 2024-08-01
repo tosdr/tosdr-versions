@@ -185,7 +185,7 @@ Votre adresse de messagerie est uniquement utilisée pour vous envoyer la newsle
 
 ### Suivez-nous sur les réseaux sociaux !  
   
- [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2059'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2059'%3E%3C/svg%3E)
 
 ![](https://www.worldcleanupday.fr/wp-content/uploads/2024/06/Linkedin_rond_90x90-copie.png)](https://www.linkedin.com/company/worldcleanupday2018-france/)[](https://www.linkedin.com/company/worldcleanupday2018-france/ "Youtube World Cleanup Day")[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2059'%3E%3C/svg%3E)
 
@@ -195,7 +195,9 @@ Votre adresse de messagerie est uniquement utilisée pour vous envoyer la newsle
 
 ![](https://www.worldcleanupday.fr/wp-content/uploads/2024/06/X_rond_90x90-copie.png)](https://x.com/wcdfrance) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2063%2063'%3E%3C/svg%3E)
 
-![](https://www.worldcleanupday.fr/wp-content/uploads/2024/06/Youtube_rond_90x90-copie.png)](https://www.youtube.com/channel/UCRBn6GDS3kzW4uydZIcwOJA)
+![](https://www.worldcleanupday.fr/wp-content/uploads/2024/06/Youtube_rond_90x90-copie.png)](https://www.youtube.com/channel/UCRBn6GDS3kzW4uydZIcwOJA)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2071'%3E%3C/svg%3E)
+
+![](https://www.worldcleanupday.fr/wp-content/uploads/2024/08/logo-Tiktok.png)](https://www.tiktok.com/@worldcleanupdayfrance?is_from_webapp=1&sender_device=pc)
 
 #### [CONTACT](mailto:contact@worldcleanupday.fr "Contactez le World Cleanup Day France") – [MENTIONS LÉGALES](https://www.worldcleanupday.fr/mentions-legales/ "Mentions légales") – [RGPD](https://www.worldcleanupday.fr/rgpd "Informations RGPD") – [FAQ](https://www.worldcleanupday.fr/foire-aux-questions/ "Foire aux questions")
 
