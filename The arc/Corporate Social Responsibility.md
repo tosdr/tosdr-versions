@@ -199,10 +199,6 @@ The Arc and The Arc’s chapters are each separate and distinct 501(C)(3) organi
 
 [Scroll to top](#top "Scroll to top")
 
-[![](https://thearc.org/wp-content/uploads/2024/07/23-116.08-Disability-Pride-Month-Website-Pop-Up.png)](https://donate.thearc.org/give/502095/#!/donation/checkout?c_src=pop)
-
-×
-
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-top.jpg)
 
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-new.png)
