@@ -1,4 +1,4 @@
-             
+              
 
 Buy More and Save Up To $50 This Back to School Season
 
@@ -129,6 +129,7 @@ Browse
     * [Straws ![Straws](https://www.simplemodern.com/cdn/shop/files/straws_5ed81473-ba42-4612-bad9-3902a87528dd.png?v=1715286217&width=128&em-format=auto)](https://www.simplemodern.com/collections/straws "Straws") 
     * [Adventure Sling ![Adventure Sling](https://www.simplemodern.com/cdn/shop/products/ADV-M-MB_a955935a-11c0-4936-ad21-0e42d775f944.png?v=1694695281&width=128&em-format=auto)](https://www.simplemodern.com/collections/adventure-sling-new "Adventure Sling") 
     * [Boots ![Boots](https://www.simplemodern.com/cdn/shop/files/BTL-BOOT-TRK-M-ALB.png?v=1694601925&width=128&em-format=auto)](https://www.simplemodern.com/collections/boots "Boots") 
+    * [Cold Brew Maker ![Cold Brew Maker](https://www.simplemodern.com/cdn/shop/files/CBM-48-MB_1.png?v=1722459901&width=128&em-format=auto)](https://www.simplemodern.com/products/cold-brew-maker-1 "Cold Brew Maker") 
     * [Bentley Pet Bowl ![Bentley Pet Bowl](https://www.simplemodern.com/cdn/shop/files/DB-M-C-WW.png?v=1694600384&width=128&em-format=auto)](https://www.simplemodern.com/collections/bentley-pet-bowl "Bentley Pet Bowl") 
     * [Organizer ![Organizer](https://www.simplemodern.com/cdn/shop/products/BO-2-CLR.png?v=1694691309&width=128&em-format=auto)](https://www.simplemodern.com/collections/bottle-organizer "Organizer") 
     * [Cleaning ![Cleaning](https://www.simplemodern.com/cdn/shop/files/BSH-STND-WW-2.png?v=1694601924&width=128&em-format=auto)](https://www.simplemodern.com/collections/cleaning "Cleaning") 
@@ -598,6 +599,7 @@ Back to Accessories Accessories
 * [Straws ![Straws](https://www.simplemodern.com/cdn/shop/files/straws_5ed81473-ba42-4612-bad9-3902a87528dd.png?v=1715286217&width=120&em-format=auto)](https://www.simplemodern.com/collections/straws) 
 * [Adventure Sling ![Adventure Sling](https://www.simplemodern.com/cdn/shop/products/ADV-M-MB_a955935a-11c0-4936-ad21-0e42d775f944.png?v=1694695281&width=120&em-format=auto)](https://www.simplemodern.com/collections/adventure-sling-new) 
 * [Boots ![Boots](https://www.simplemodern.com/cdn/shop/files/BTL-BOOT-TRK-M-ALB.png?v=1694601925&width=120&em-format=auto)](https://www.simplemodern.com/collections/boots) 
+* [Cold Brew Maker ![Cold Brew Maker](https://www.simplemodern.com/cdn/shop/files/CBM-48-MB_1.png?v=1722459901&width=120&em-format=auto)](https://www.simplemodern.com/products/cold-brew-maker-1) 
 * [Bentley Pet Bowl ![Bentley Pet Bowl](https://www.simplemodern.com/cdn/shop/files/DB-M-C-WW.png?v=1694600384&width=120&em-format=auto)](https://www.simplemodern.com/collections/bentley-pet-bowl) 
 * [Organizer ![Organizer](https://www.simplemodern.com/cdn/shop/products/BO-2-CLR.png?v=1694691309&width=120&em-format=auto)](https://www.simplemodern.com/collections/bottle-organizer) 
 * [Cleaning ![Cleaning](https://www.simplemodern.com/cdn/shop/files/BSH-STND-WW-2.png?v=1694601924&width=120&em-format=auto)](https://www.simplemodern.com/collections/cleaning) 
@@ -654,6 +656,14 @@ Arrow right
 Boots
 
 * [shop all Boots](https://www.simplemodern.com/collections/boots) Go to all Boots
+
+[Shop All Accessories](https://www.simplemodern.com/collections/accessories)
+
+Arrow right
+
+Cold Brew Maker
+
+* [shop all Cold Brew Maker](https://www.simplemodern.com/products/cold-brew-maker-1) Go to all Cold Brew Maker
 
 [Shop All Accessories](https://www.simplemodern.com/collections/accessories)
 
@@ -1001,11 +1011,11 @@ Other
 * [Wholesale Login](https://shopify.com/11003842/account)
 * [Store Locator](https://www.simplemodern.com/pages/find-simple-modern-in-store)
 
-Footer logo ![](https://www.simplemodern.com/cdn/shop/t/736/assets/logo-allyant_160x.png?v=97510380452981561201721232208&em-format=auto)
+Footer logo ![](https://www.simplemodern.com/cdn/shop/t/744/assets/logo-allyant_160x.png?v=97510380452981561201722356520&em-format=auto)
 
 © 2024 [Simple Modern](https://www.simplemodern.com/). All Rights Reserved.
 
-![Reviewed by Allyant for accessibility](https://www.simplemodern.com/cdn/shop/t/736/assets/logo-allyant_160x.png?v=97510380452981561201721232208&em-format=auto)
+![Reviewed by Allyant for accessibility](https://www.simplemodern.com/cdn/shop/t/744/assets/logo-allyant_160x.png?v=97510380452981561201722356520&em-format=auto)
 
 By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
 
