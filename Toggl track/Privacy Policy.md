@@ -394,6 +394,6 @@ Discover our tools:
 
 [](https://www.linkedin.com/company/toggl/)[](https://www.instagram.com/toggltrack)[](https://twitter.com/toggltrack)[](https://www.youtube.com/toggl)[](https://www.facebook.com/Toggl/)[](https://github.com/toggl)
 
-[Legal Center](https://toggl.com/legal/)
+[Legal Center](https://toggl.com/legal/)[Status](https://status.toggl.com/)
 
 © 2024 Toggl
