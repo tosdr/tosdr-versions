@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/Olympics-list-hero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/24-7570-UCM-Brain-Chip-Header-250x141.jpg)
     
-    Tar Heels set for 2024 Paris Olympics](https://www.unc.edu/posts/2024/07/24/tar-heels-set-for-2024-paris-olympics/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/LAUNCH-hero-250x141.jpg)
+    Brain circuits offer placebo effect pain relief](https://www.unc.edu/posts/2024/07/31/brain-circuits-offer-placebo-effect-pain-relief/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/springthumbupdate-250x141.jpg)
     
-    Launch tour opens local doors to students](https://www.unc.edu/posts/2024/07/24/launch-tour-opens-local-doors-to-students/)
+    Video: Reminisce on a buzzing campus](https://www.unc.edu/posts/2024/07/31/video-reminisce-on-a-buzzing-campus/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c4408ab030&text=%prefix%%text%%suffix%&post_id=69&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=8f5dd0f7f1&text=%prefix%%text%%suffix%&post_id=69&type=%type%)
 
 ### Share on Mastodon
 
