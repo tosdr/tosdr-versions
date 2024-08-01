@@ -274,11 +274,11 @@ London N1 6NN
 
 [Security](https://flourish.studio/security)
 
-[Finance](https://flourish.studio/solutions/financial-services)
+[Business](https://flourish.studio/business)
 
-[Consultancies](https://flourish.studio/solutions/professional-services)
+[Agencies](https://flourish.studio/agencies)
 
-[Newsrooms](https://flourish.studio/solutions/newsrooms)
+[Newsrooms](https://flourish.studio/newsrooms)
 
 [Developers](https://flourish.studio/developers)
 
@@ -294,4 +294,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[16 ways to visualize US elections data Read our latest blog posts »](https://flourish.studio/blog)
+[How to create animated 3D point maps without coding Read our latest blog posts »](https://flourish.studio/blog)
