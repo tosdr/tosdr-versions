@@ -40,7 +40,6 @@
     * Column 1
         * [Consulting Services](https://www.toonboom.com/services/consulting-services)
         * [Training](https://www.toonboom.com/services/training)
-* [Learn portal](https://learn.toonboom.com/)
 * [Education](#)
     
     Education
@@ -69,6 +68,7 @@
         * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
         * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
         * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
+* [Shop Merch](https://theanimationstudy.com/collections/merch)
 
 * [About](https://www.toonboom.com/about)
 * [Careers](https://www.toonboom.com/careers)
@@ -117,9 +117,6 @@ Open Menu
     * [Services](https://www.toonboom.com/services)
         * [Consulting Services](https://www.toonboom.com/services/consulting-services)
         * [Training](https://www.toonboom.com/services/training)
-* [Learn Portal](#)
-    * [Back](#)
-    * [Learn Portal](https://learn.toonboom.com/)
 * [Education](#)
     * [Back](#)
     * [Students](#)
@@ -145,6 +142,7 @@ Open Menu
     * [Newsfeeds](https://www.toonboom.com/newsfeeds)
         * [Animation From Every Angle](https://www.toonboom.com/category/animation-from-every-angle)
         * [Press Releases](https://www.toonboom.com/category/press-releases)
+* [Shop Merch](https://theanimationstudy.com/collections/merch)
 
 [Sign in](https://account.toonboom.com/)
 
@@ -377,8 +375,6 @@ Follow us
 * [Services](https://www.toonboom.com/services)
     * [Consulting Services](https://www.toonboom.com/services/consulting-services)
     * [Training](https://www.toonboom.com/services/training)
-* Learning
-    * [Learn Portal](https://learn.toonboom.com/)
 * [Education](#)
     * [Courseware](https://www.toonboom.com/courseware)
     * [Authorized Training Centres](https://www.toonboom.com/education/authorized-training-centres)
@@ -393,6 +389,7 @@ Follow us
     * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
     * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
     * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
+* [Shop Merch](https://theanimationstudy.com/collections/merch)
 * [Toonboom](#)
     * [About](https://www.toonboom.com/about)
     * [Careers](https://www.toonboom.com/careers)
@@ -411,7 +408,7 @@ Select your country and language
 
 See country-specific product information and pricing by selecting your country on this page
 
-Country Algeria Argentina Australia Belgium Benin Brazil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Costa Rica Cote d'Ivoire Cyprus Djibouti Equatorial Guinea France Gabon Germany Guinea Guinea-Bissau India Indonesia Ireland Israel Italy Japan Jordan Laos Lebanon Madagascar Malaysia Mali Mauritania Mauritius Mexico Morocco Netherlands New Zealand Niger Online Palestine Peru Philippines Poland Portugal Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands Ukraine United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
+Country Algeria Argentina Australia Belgium Benin Brazil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Costa Rica Cote d'Ivoire Cyprus Djibouti Ecuador Equatorial Guinea France Gabon Germany Guinea Guinea-Bissau India Indonesia Ireland Israel Italy Japan Jordan Laos Lebanon Madagascar Malaysia Mali Mauritania Mauritius Mexico Morocco Netherlands New Zealand Niger Online Palestine Peru Philippines Poland Portugal Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands Ukraine United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
 
 Language English Español Français 日本語
 
