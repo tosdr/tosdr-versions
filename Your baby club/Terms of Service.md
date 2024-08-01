@@ -138,21 +138,41 @@ Join Your Baby Club today for [exclusive offers](https://www.yourbabyclub.com/of
 Featured articles
 -----------------
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-small.jpeg)
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/4079f2e4-f8a4-4321-b5ac-24ea0bea1b5e-2-small.jpeg)
 
-Labor
+Baby Health & Safety
 
-07/26/2024
+07/30/2024
 
-###### Why Does My Pregnant Belly Feel Tight and Heavy?
+###### Cutting the Confusion: The Truth About Tongue-Tie Surgery
 
-Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+If you’re a new parent struggling with breastfeeding, you might have heard about “tongue-tie,” a condition where a baby’s tongue is tightly tethered to the floor of the mouth, making breastfeeding difficult and painful. Recently, the American Academy of Pediatrics (AAP) raised concerns that tongue-tie might be overdiagnosed and that too many infants are undergoing unnecessary surgery. Tongue-tie, also known as ankyloglossia, occurs when a baby is born with a short or tight band of tissue under t](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
 
-[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
+[](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)[Read article](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/eef8fa8c-3224-4759-bd8b-24e7e6c6c801-2-small.png)
 
-Sleep Challenges
+Buying Advice
+
+07/19/2024
+
+###### Our 2024 ABC Kids Expo Product Top Picks
+
+At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[Your Pregnancy Mental Health and Well-being
+
+07/22/2024
+
+###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
+
+“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+
+[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+
+[Sleep Challenges
 
 07/24/2024
 
@@ -162,6 +182,40 @@ Any parent that has ever attempted to sleep with their baby in the same room wil
 
 [](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
+[Family Life
+
+07/29/2024
+
+###### Your Ultimate Guide to Traveling While Pregnant
+
+My grandmother had a mantra: “Better to have it and not need it than to need it and not have it.”  But how can you prepare for every scenario without overloading your luggage and car? Taking too much can be just as overwhelming as being in a situation or emergency when what you need is unavailable. Especially when you’re pregnant, on the verge of puking, and can’t carry heavy bags. Let’s find our happy medium so we can travel comfortably! Plan Ahead Planning can alleviate a lot of anxiety. Make](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
+
+[](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)[Read article](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/4079f2e4-f8a4-4321-b5ac-24ea0bea1b5e-2-small.jpeg)
+
+Baby Health & Safety
+
+07/30/2024
+
+##### Cutting the Confusion: The Truth About Tongue-Tie Surgery
+
+If you’re a new parent struggling with breastfeeding, you might have heard about “tongue-tie,” a condition where a baby’s tongue is tightly tethered to the floor of the mouth, making breastfeeding difficult and painful. Recently, the American Academy of Pediatrics (AAP) raised concerns that tongue-tie might be overdiagnosed and that too many infants are undergoing unnecessary surgery. Tongue-tie, also known as ankyloglossia, occurs when a baby is born with a short or tight band of tissue under t](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
+
+[](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)[Read article](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/eef8fa8c-3224-4759-bd8b-24e7e6c6c801-2-small.png)
+
+Buying Advice
+
+07/19/2024
+
+##### Our 2024 ABC Kids Expo Product Top Picks
+
+At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
 [Your Pregnancy Mental Health and Well-being
 
 07/22/2024
@@ -172,50 +226,50 @@ Any parent that has ever attempted to sleep with their baby in the same room wil
 
 [](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[Buying Advice
-
-07/19/2024
-
-###### Our 2024 ABC Kids Expo Product Top Picks
-
-At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-small.jpeg)
-
-Labor
-
-07/26/2024
-
-##### Why Does My Pregnant Belly Feel Tight and Heavy?
-
-Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
-
-[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
-
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
-
-Sleep Challenges
+[Sleep Challenges
 
 07/24/2024
 
-##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+###### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
 
 Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
 [](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
+[Family Life
+
+07/29/2024
+
+###### Your Ultimate Guide to Traveling While Pregnant
+
+My grandmother had a mantra: “Better to have it and not need it than to need it and not have it.”  But how can you prepare for every scenario without overloading your luggage and car? Taking too much can be just as overwhelming as being in a situation or emergency when what you need is unavailable. Especially when you’re pregnant, on the verge of puking, and can’t carry heavy bags. Let’s find our happy medium so we can travel comfortably! Plan Ahead Planning can alleviate a lot of anxiety. Make](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
+
+[](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)[Read article](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/4079f2e4-f8a4-4321-b5ac-24ea0bea1b5e-2-thumbnail.jpeg)
+
+Baby Health & Safety
+
+07/30/2024
+
+##### Cutting the Confusion: The Truth About Tongue-Tie Surgery
+
+If you’re a new parent struggling with breastfeeding, you might have heard about “tongue-tie,” a condition where a baby’s tongue is tightly tethered to the floor of the mouth, making breastfeeding difficult and painful. Recently, the American Academy of Pediatrics (AAP) raised concerns that tongue-tie might be overdiagnosed and that too many infants are undergoing unnecessary surgery. Tongue-tie, also known as ankyloglossia, occurs when a baby is born with a short or tight band of tissue under t](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
+
+[](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)[Read article](https://www.yourbabyclub.com/cutting-the-confusion-the-truth-about-tongue-tie-surgery-839)
+
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/eef8fa8c-3224-4759-bd8b-24e7e6c6c801-2-small.png)
+
+Buying Advice
+
+07/19/2024
+
+##### Our 2024 ABC Kids Expo Product Top Picks
+
+At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
+[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
+
 [Your Pregnancy Mental Health and Well-being
 
 07/22/2024
@@ -226,79 +280,25 @@ Any parent that has ever attempted to sleep with their baby in the same room wil
 
 [](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[Buying Advice
-
-07/19/2024
-
-###### Our 2024 ABC Kids Expo Product Top Picks
-
-At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1752b51f-f38b-4c12-98d3-24e229a07755-2-thumbnail.jpeg)
-
-Labor
-
-07/26/2024
-
-##### Why Does My Pregnant Belly Feel Tight and Heavy?
-
-Braxton Hicks are the practice and priming contractions that can occur off and on throughout the second and third trimesters of pregnancy and are often described as making the belly feel tight or heavy like a boulder. These sensations can be very noticeable and there have been times when I noticed a client’s Braxton Hicks and they had no idea that was what they were experiencing. What Are Braxton Hicks? Braxton Hicks are your body’s way of preparing the uterus for childbirth because they tone th](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
-
-[](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)[Read article](https://www.yourbabyclub.com/why-does-my-pregnant-belly-feel-tight-and-heavy-191)
-
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
-
-Sleep Challenges
+[Sleep Challenges
 
 07/24/2024
 
-##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+###### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
 
 Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
 [](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
 
-[Your Pregnancy Mental Health and Well-being
+[Family Life
 
-07/22/2024
+07/29/2024
 
-###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
+###### Your Ultimate Guide to Traveling While Pregnant
 
-“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
+My grandmother had a mantra: “Better to have it and not need it than to need it and not have it.”  But how can you prepare for every scenario without overloading your luggage and car? Taking too much can be just as overwhelming as being in a situation or emergency when what you need is unavailable. Especially when you’re pregnant, on the verge of puking, and can’t carry heavy bags. Let’s find our happy medium so we can travel comfortably! Plan Ahead Planning can alleviate a lot of anxiety. Make](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
 
-[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
-
-[Buying Advice
-
-07/19/2024
-
-###### Our 2024 ABC Kids Expo Product Top Picks
-
-At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+[](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)[Read article](https://www.yourbabyclub.com/your-ultimate-guide-to-traveling-while-pregnant-201)
 
 [See all articles](https://www.yourbabyclub.com/content)
 
@@ -386,13 +386,29 @@ More club offers
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
-![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+![Claim a $750 Target Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/9bbefb9b-feb3-4cec-98df-24e7ad0cd5b4-1-small.jpeg)
 
-##### Get 16 free meals + free shipping with America's #1 meal kit
+##### Claim a $750 Target Gift Card
 
-[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-target-gift-card-860)
 
-[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-target-gift-card-860)
+
+![Claim a $750 Sephora Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/b0277075-d4f2-409e-9f27-24e7ad323884-1-small.jpeg)
+
+##### Claim a $750 Sephora Gift Card
+
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-sephora-gift-card-835)
+
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-sephora-gift-card-835)
+
+![Claim a $750 Walmart  Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/3bdc07cd-2e5e-43d3-a14c-24e7ace04af9-1-small.jpeg)
+
+##### Claim a $750 Walmart Gift Card
+
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-walmart-gift-card-702)
+
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-walmart-gift-card-702)
 
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
@@ -410,22 +426,6 @@ More club offers
 
 [Get Free Quote](https://www.yourbabyclub.com/offer/detail/get-life-insurance-with-extra-perks-worth-898-18)
 
-![Claim a $750 Zara Fashion Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/caf4551d-fee6-413b-8d46-23beff0682d9-1-small.jpeg)
-
-##### Claim a $750 Zara Fashion Gift Card
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
-
-![Claim a $750 Shein Kids Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1d5a57e4-73f6-44d0-ab14-23befee41c06-1-small.jpeg)
-
-##### Claim a $750 Shein Kids Gift Card
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
 ![Join Enfamil now for up to $400 in FREE gifts](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1f97275a-c932-4bc3-8a28-243faef61e9a-1-small.jpeg)
 
 ##### Join Enfamil now for up to $400 in FREE gifts
@@ -436,15 +436,35 @@ Join Enfamil Family Beginnings® and get up to $400 in FREE gifts including coup
 
 [Join Now](https://www.yourbabyclub.com/offer/detail/join-enfamil-now-for-up-to-400-in-free-gifts-126)
 
-![Get 16 free meals + free shipping with America's #1 meal kit ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/54951440-6763-4750-bc0c-1f1775447ca5-1-small.jpeg)
+![Claim a $750 Target Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/9bbefb9b-feb3-4cec-98df-24e7ad0cd5b4-1-small.jpeg)
 
-##### Get 16 free meals + free shipping with America's #1 meal kit
+##### Claim a $750 Target Gift Card
 
-With over 50+ weekly menu items and market items, it's time to break up with takeout. Try it now and get 16 FREE MEALS + free shipping on your first box! Offer is for new subscriptions only across 9 boxes and varies by plan.
+Join now & claim\* your $750 Target gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
 
-[Read more](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-target-gift-card-860)
 
-[Get Yours Free](https://www.yourbabyclub.com/offer/detail/get-16-free-meals-free-shipping-with-america-s-1-meal-kit-18)
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-target-gift-card-860)
+
+![Claim a $750 Sephora Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/b0277075-d4f2-409e-9f27-24e7ad323884-1-small.jpeg)
+
+##### Claim a $750 Sephora Gift Card
+
+Join now & claim\* your $750 Sephora gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
+
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-sephora-gift-card-835)
+
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-sephora-gift-card-835)
+
+![Claim a $750 Walmart  Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/3bdc07cd-2e5e-43d3-a14c-24e7ace04af9-1-small.jpeg)
+
+##### Claim a $750 Walmart Gift Card
+
+Join now & claim\* your $750 Walmart gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
+
+[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-walmart-gift-card-702)
+
+[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-walmart-gift-card-702)
 
 ![FREE $150 Of Coupons Including Pampers, Bounty, Luvs & More!](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/6c98bc0c-04a4-4c30-873c-245f4c2badf5-1-small.jpeg)
 
@@ -465,26 +485,6 @@ Help protect their future. From life insurance to free trusts and will, we got y
 [Read more](https://www.yourbabyclub.com/offer/detail/get-life-insurance-with-extra-perks-worth-898-18)
 
 [Get Free Quote](https://www.yourbabyclub.com/offer/detail/get-life-insurance-with-extra-perks-worth-898-18)
-
-![Claim a $750 Zara Fashion Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/caf4551d-fee6-413b-8d46-23beff0682d9-1-small.jpeg)
-
-##### Claim a $750 Zara Fashion Gift Card
-
-Join now & claim\* your $750 Zara gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-zara-fashion-gift-card-926)
-
-![Claim a $750 Shein Kids Gift Card](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/1d5a57e4-73f6-44d0-ab14-23befee41c06-1-small.jpeg)
-
-##### Claim a $750 Shein Kids Gift Card
-
-Join now & claim\* your $750 Shein Kids gift card. All you need to do is register your details and follow the instructions to get your voucher reward.\* Paid participation is required.
-
-[Read more](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
-
-[Claim Now](https://www.yourbabyclub.com/offer/detail/claim-a-750-shein-kids-gift-card-204)
 
 [![Site Logo](/resource/images/sitelogofooter)](https://www.yourbabyclub.com/)
 
