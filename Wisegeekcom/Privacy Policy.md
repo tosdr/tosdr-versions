@@ -43,6 +43,8 @@ WiseGeek's Privacy Policy
 
 Updated: May 21, 2024
 
+Views: 1,022,759
+
 We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](https://www.wise-geek.com/contact.htm).
 
 WiseGeek is wholly owned and operated by Conjecture Corporation.
