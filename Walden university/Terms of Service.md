@@ -1,12 +1,12 @@
 [Skip to main content](#main-content)
 
-Search  Search Close
+Search Search Close 
 
 [![Walden University Logo](/themes/custom/wal_base/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
 
-### Main Navigation - Redesign
+### Main Navigation
 
-* [Programs](https://www.waldenu.edu/programs)
+* Programs
     * Accredited Online Programs
     * Bachelor's
         * BACHELOR'S PROGRAMS
@@ -81,18 +81,6 @@ Search  Search Close
             * [Bachelor of Social Work](https://www.waldenu.edu/online-bachelors-programs/bachelor-of-social-work)
             * [BS in Human Services](https://www.waldenu.edu/online-bachelors-programs/bs-in-human-services)
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services)
-    * Certificates
-        * Fast and affordable option. Choose from over 60 career-focused certificate programs.
-        * CERTIFICATE PROGRAMS
-        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs)
-        * Business and Management
-        * Criminal Justice
-        * Information Technology
-        * Education
-        * Nursing
-        * Psychology
-        * Public Policy
-        * Social Work & Human Services
     * Master's
         * MASTER'S PROGRAMS
         * More than 40 master’s programs with over 175 specializations.
@@ -101,7 +89,6 @@ Search  Search Close
             * BUSINESS AND MANAGEMENT MASTER'S PROGRAMS
             * Join a new generation of bold, socially conscious, and effective leaders.
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration)
-            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management)
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership)
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business)
@@ -131,7 +118,7 @@ Search  Search Close
         * Health & Health Sciences
             * HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS
             * Learn from active practitioners who are making a difference in their own organizations and communities.
-            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
+            * [Master in Healthcare Administration](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
             * [Master of Public Health](https://www.waldenu.edu/online-masters-programs/master-of-public-health)
             * [MS in Health Education and Promotion](https://www.waldenu.edu/online-masters-programs/ms-in-health-education-and-promotion)
             * [All Health & Health Sciences Programs](https://www.waldenu.edu/programs/health)
@@ -151,9 +138,8 @@ Search  Search Close
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology)
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family)
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education)
-            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive)
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics)
-            * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics)
+            * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics)
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner)
             * [Public Health Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-public-health-nursing)
             * [All Nursing Programs](https://www.waldenu.edu/programs/nursing)
@@ -257,7 +243,7 @@ Search  Search Close
             * [PhD in Human Services](https://www.waldenu.edu/online-doctoral-programs/phd-in-human-services)
             * [PhD in Social Work](https://www.waldenu.edu/online-doctoral-programs/phd-in-social-work)
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services)
-    * Education Specialist
+    * [Education Specialist](https://www.waldenu.edu/education-specialist)
         * EDUCATION SPECIALIST PROGRAMS
         * Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.
         * [EdS in Curriculum, Instruction, and Assessment](https://www.waldenu.edu/education-specialist/eds-in-curriculum-instruction-and-assessment)
@@ -269,17 +255,28 @@ Search  Search Close
         * [EdS in Reading, Literacy, and Assessment](https://www.waldenu.edu/education-specialist/eds-in-reading-literacy-and-assessment)
         * [EdS in Special Education](https://www.waldenu.edu/education-specialist/eds-in-special-education)
         * [All Education Programs](https://www.waldenu.edu/programs/education)
+    * Certificates
+        * CERTIFICATE PROGRAMS
+        * Fast and affordable option. Choose from over 60 career-focused certificate programs.
+        * Business and Management
+        * Criminal Justice
+        * Education
+        * Information Technology
+        * Nursing
+        * Psychology
+        * Public Policy
+        * Social Work & Human Services
     * Non-Degree Options
         * NON-DEGREE PROGRAMS
         * [View All Non-Degree Options](https://www.waldenu.edu/school-of-lifelong-learning)
-* Financing
+* [Financing](https://www.waldenu.edu/financial-aid)
     * Explore ways to fund your degree.
     * As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.
     * [Tuition and Financial Aid Overview](https://www.waldenu.edu/financial-aid)
     * [Federal Financial Aid](https://www.waldenu.edu/financial-aid/federal-financial-aid)
     * [Financial Aid Forms](https://www.waldenu.edu/financial-aid/forms)
     * [Walden Grants and Scholarships](https://www.waldenu.edu/financial-aid/grants-and-scholarships)
-* Admissions
+* [Admissions](https://www.waldenu.edu/admissions)
     * Start your journey toward a higher degree.
     * Get step-by-step guidance from a dedicated Enrollment Specialist.
     * [Admissions Overview](https://www.waldenu.edu/admissions)
@@ -290,7 +287,7 @@ Search  Search Close
     * [Transcript Evaluations and Transfer Credits](https://www.waldenu.edu/admissions/international-students/transcripts-and-transfer-credits)
     * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways)
     * [Refer a Friend](https://www.waldenu.edu/refer)
-* Why Walden
+* [Why Walden](https://www.waldenu.edu/why-walden)
     * Find out what sets Walden apart.
     * We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.
     * [Why Walden Overview](https://www.waldenu.edu/why-walden)
@@ -304,17 +301,19 @@ Search  Search Close
     * [Accreditation](https://www.waldenu.edu/about/accreditation)
     * [Testimonials](https://www.waldenu.edu/why-walden/testimonials)
 
-![""](/sites/g/files/krcnkv421/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=LqvzSfac)
+![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
 
 ### Ready to get started?
 
 Contact an Enrollment Specialist today.
 
-[Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMjMyMTVhNGYtNDY2OC00YThmLWJlMTctZmEzZGViYTA3N2NkJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcxMjg2NDM2MX5sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
-
 [Request Information](https://www.waldenu.edu/request-info)
 
 Call Us: **8556465286**
+
+**8556465286**
+
+[REQUEST INFO](https://www.waldenu.edu/request-info)
 
 ### Utility Navigation
 
@@ -348,7 +347,7 @@ Call Us: **8556465286**
 
 [](https://www.waldenu.edu/ "Home")
 
-* [Programs](https://www.waldenu.edu/programs "Programs")
+* [Programs](# "Programs")
     
     * [Accredited Online Programs](# "Accredited Online Programs")
     * [Bachelor's](# "Bachelor's")
@@ -442,87 +441,6 @@ Call Us: **8556465286**
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services "All Social Work & Human Services Programs")
             
         
-    * [Certificates](# "Certificates")
-        
-        * [Fast and affordable option. Choose from over 60 career-focused certificate programs.](# "Fast and affordable option. Choose from over 60 career-focused certificate programs.")
-        * [CERTIFICATE PROGRAMS](# "CERTIFICATE PROGRAMS")
-        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs "All Certificates Programs")
-        * [Business and Management](# "Business and Management")
-            
-            * [BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS](# "BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS")
-            * [With Walden’s career-focused business certificate programs, you can make sure your skills keep pace.](# "With Walden’s career-focused business certificate programs, you can make sure your skills keep pace.")
-            * [Graduate Certificate in Business Management](https://www.waldenu.edu/online-certificates-programs/business-management "Graduate Certificate in Business Management")
-            * [Graduate Certificate in Human Resource Management](https://www.waldenu.edu/online-certificates-programs/human-resource-management "Graduate Certificate in Human Resource Management")
-            * [Post-Doctoral Bridge to Business Administration Certificate](https://www.waldenu.edu/online-certificates-programs/business-administration-post-doctoral-bridge "Post-Doctoral Bridge to Business Administration Certificate")
-            * [Post-Doctoral Bridge to Management Certificate](https://www.waldenu.edu/online-certificates-programs/management-post-doctoral-bridge "Post-Doctoral Bridge to Management Certificate")
-            * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
-            
-        * [Criminal Justice](# "Criminal Justice")
-            
-            * [CRIMINAL JUSTICE CERTIFICATE PROGRAMS](# "CRIMINAL JUSTICE CERTIFICATE PROGRAMS")
-            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "	Refresh your current skills or embark on a new professional path with a Walden certificate.")
-            * [Graduate Certificate in Criminal Justice](https://www.waldenu.edu/online-certificates-programs/criminal-justice "Graduate Certificate in Criminal Justice")
-            * [All Criminal Justice Programs](https://www.waldenu.edu/programs/criminal-justice "All Criminal Justice Programs")
-            
-        * [Information Technology](# "Information Technology")
-            
-            * [INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM](# "INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM")
-            * [Gain the technical skills and credentials you need to enter the information systems and technology field.](# "Gain the technical skills and credentials you need to enter the information systems and technology field.")
-            * [Graduate Certificate in Information Systems](https://www.waldenu.edu/online-certificate-programs/information-systems "Graduate Certificate in Information Systems")
-            * [All Information Technology Programs](https://www.waldenu.edu/programs/information-technology "All Information Technology Programs")
-            
-        * [Education](# "Education")
-            
-            * [EDUCATION CERTIFICATE PROGRAMS](# "EDUCATION CERTIFICATE PROGRAMS")
-            * [Refresh your current skills or embark on a new professional path with a Walden education certificate.](# "Refresh your current skills or embark on a new professional path with a Walden education certificate.")
-            * [Graduate Certificate in Adult Learning](https://www.waldenu.edu/online-certificates-programs/adult-learning "Graduate Certificate in Adult Learning")
-            * [Graduate Certificate in College Teaching and Learning](https://www.waldenu.edu/online-certificates-programs/college-teaching-and-learning "Graduate Certificate in College Teaching and Learning ")
-            * [Graduate Certificate in Early Childhood Administration, Management, and Leadership](https://www.waldenu.edu/online-certificates-programs/early-childhood-administration-management-and-leadership "Graduate Certificate in Early Childhood Administration, Management, and Leadership")
-            * [Graduate Certificate in Elementary Reading and Literacy](https://www.waldenu.edu/online-certificates-programs/elementary-reading-and-literacy "Graduate Certificate in Elementary Reading and Literacy")
-            * [Graduate Certificate in Engaging Culturally Diverse Learners](https://www.waldenu.edu/online-certificates-programs/engaging-culturally-diverse-learners "Graduate Certificate in Engaging Culturally Diverse Learners")
-            * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
-            
-        * [Nursing](# "Nursing")
-            
-            * [NURSING CERTIFICATE PROGRAMS](# "NURSING CERTIFICATE PROGRAMS")
-            * [Walden offers several types of nursing certificates to help you meet the demands of the field](# "Walden offers several types of nursing certificates to help you meet the demands of the field")
-            * [Post-Master’s Certificates in Nursing](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters "Post-Master’s Certificates in Nursing")
-            * [Explore specializations:](# "Explore specializations:")
-            * [Acute Care Adult-Gerontology Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/adult-gerontology-acute-care-nurse-practitioner "Acute Care Adult-Gerontology Nurse Practitioner")
-            * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/adult-gerontology-primary-care-nurse-practitioner "Adult-Gerontology Primary Care Nurse Practitioner")
-            * [Family Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/family-nurse-practitioner "Family Nurse Practitioner")
-            * [Education](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/education "Education")
-            * [Informatics](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/informatics "Informatics")
-            * [Nurse Executive](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/nurse-executive "Nurse Executive")
-            * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/pediatric-nurse-practitioner "Pediatric Nurse Practitioner (PNP) Primary Care")
-            * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/psychiatric-mental-health-nurse-practitioner-post-masters "Psychiatric-Mental Health Nurse Practitioner")
-            * [All Nursing Programs](https://www.waldenu.edu/programs/nursing "All Nursing Programs")
-            
-        * [Psychology](# "Psychology")
-            
-            * [PSYCHOLOGY CERTIFICATE PROGRAMS](# "PSYCHOLOGY CERTIFICATE PROGRAMS")
-            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
-            * [Graduate Certificate in Evidence-Based Coaching](https://www.waldenu.edu/online-certificates-programs/evidence-based-coaching "Graduate Certificate in Evidence-Based Coaching")
-            * [Post-Master’s Online Teaching in Psychology Certificate](https://www.waldenu.edu/online-certificates-programs/online-teaching-in-psychology-post-masters "Post-Master’s Online Teaching in Psychology Certificate")
-            * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
-            
-        * [Public Policy](# "Public Policy")
-            
-            * [PUBLIC POLICY CERTIFICATE PROGRAMS](# "PUBLIC POLICY CERTIFICATE PROGRAMS")
-            * [Build valuable management and leadership competencies.](# "Build valuable management and leadership competencies.")
-            * [Graduate Certificate in Nonprofit Management](https://www.waldenu.edu/online-certificates-programs/nonprofit-management "Graduate Certificate in Nonprofit Management")
-            * [Graduate Certificate in Public Management and Leadership](https://www.waldenu.edu/online-certificates-programs/public-management-and-leadership "Graduate Certificate in Public Management and Leadership")
-            * [Graduate Certificate in Public Policy](https://www.waldenu.edu/online-certificates-programs/graduate-certificate-in-public-policy "Graduate Certificate in Public Policy")
-            * [All Public Policy & Administration Programs](https://www.waldenu.edu/programs/public-policy "All Public Policy & Administration Programs")
-            
-        * [Social Work & Human Services](# "Social Work & Human Services")
-            
-            * [SOCIAL WORK AND HUMAN SERVICES CERTIFICATE PROGRAM](# "	SOCIAL WORK AND HUMAN SERVICES CERTIFICATE PROGRAM")
-            * [Develop a holistic and interprofessional perspective on conflict management and negotiation to better equip you to support your community.](# "Develop a holistic and interprofessional perspective on conflict management and negotiation to better equip you to support your community. ")
-            * [Graduate Certificate in Conflict Management and Negotiation](https://www.waldenu.edu/online-certificates-programs/conflict-management-and-negotiation "Graduate Certificate in Conflict Management and Negotiation")
-            * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services "All Social Work & Human Services Programs")
-            
-        
     * [Master's](# "Master's")
         
         * [MASTER'S PROGRAMS](# "MASTER'S PROGRAMS")
@@ -533,7 +451,6 @@ Call Us: **8556465286**
             * [BUSINESS AND MANAGEMENT MASTER'S PROGRAMS](# "BUSINESS AND MANAGEMENT MASTER'S PROGRAMS")
             * [Join a new generation of bold, socially conscious, and effective leaders.](# "Join a new generation of bold, socially conscious, and effective leaders.")
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration "Master of Business Administration (MBA)")
-            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration (MHA)")
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management "MS in Human Resource Management")
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership "MS in Leadership")
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
@@ -571,7 +488,7 @@ Call Us: **8556465286**
             
             * [HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS](# "HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS")
             * [Learn from active practitioners who are making a difference in their own organizations and communities.](# "Learn from active practitioners who are making a difference in their own organizations and communities.")
-            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration (MHA)")
+            * [Master in Healthcare Administration](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration")
             * [Master of Public Health](https://www.waldenu.edu/online-masters-programs/master-of-public-health "Master of Public Health")
             * [MS in Health Education and Promotion](https://www.waldenu.edu/online-masters-programs/ms-in-health-education-and-promotion "MS in Health Education and Promotion")
             * [All Health & Health Sciences Programs](https://www.waldenu.edu/programs/health "All Health & Health Sciences Programs")
@@ -595,9 +512,8 @@ Call Us: **8556465286**
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology "Adult-Gerontology Primary Care Nurse Practitioner")
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family "Family Nurse Practitioner")
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education "Nursing Education ")
-            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive "Nurse Executive")
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics "Nursing Informatics")
-            * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics "Pediatric Nurse Practitioner (PNP) Primary Care")
+            * [Pediatric Nurse Practitioner (PNP)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics "Pediatric Nurse Practitioner (PNP)")
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner "Psychiatric-Mental Health Nurse Practitioner")
             * [Public Health Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-public-health-nursing "Public Health Nursing")
             * [All Nursing Programs](https://www.waldenu.edu/programs/nursing "All Nursing Programs")
@@ -731,7 +647,7 @@ Call Us: **8556465286**
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services "All Social Work & Human Services Programs")
             
         
-    * [Education Specialist](# "Education Specialist")
+    * [Education Specialist](https://www.waldenu.edu/education-specialist "Education Specialist")
         
         * [EDUCATION SPECIALIST PROGRAMS](# "EDUCATION SPECIALIST PROGRAMS")
         * [Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.](# "Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.")
@@ -745,27 +661,105 @@ Call Us: **8556465286**
         * [EdS in Special Education](https://www.waldenu.edu/education-specialist/eds-in-special-education "EdS in Special Education")
         * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
         
+    * [Certificates](# "Certificates")
+        
+        * [CERTIFICATE PROGRAMS](# "CERTIFICATE PROGRAMS")
+        * [Fast and affordable option. Choose from over 60 career-focused certificate programs.](# "Fast and affordable option. Choose from over 60 career-focused certificate programs.")
+        * [Business and Management](# "Business and Management")
+            
+            * [BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS](# "BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS")
+            * [With Walden’s career-focused business certificate programs, you can make sure your skills keep pace.](# "With Walden’s career-focused business certificate programs, you can make sure your skills keep pace.")
+            * [Graduate Certificate in Business Management](https://www.waldenu.edu/online-certificates-programs/business-management "Graduate Certificate in Business Management")
+            * [Graduate Certificate in Human Resource Management](https://www.waldenu.edu/online-certificates-programs/human-resource-management "Graduate Certificate in Human Resource Management")
+            * [Post-Doctoral Bridge to Business Administration Certificate](https://www.waldenu.edu/online-certificates-programs/business-administration-post-doctoral-bridge "Post-Doctoral Bridge to Business Administration Certificate")
+            * [Post-Doctoral Bridge to Management Certificate](https://www.waldenu.edu/online-certificates-programs/management-post-doctoral-bridge "Post-Doctoral Bridge to Management Certificate")
+            * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
+            
+        * [Criminal Justice](# "Criminal Justice")
+            
+            * [CRIMINAL JUSTICE CERTIFICATE PROGRAMS](# "CRIMINAL JUSTICE CERTIFICATE PROGRAMS")
+            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
+            * [Graduate Certificate in Criminal Justice](https://www.waldenu.edu/online-certificates-programs/criminal-justice "Graduate Certificate in Criminal Justice")
+            * [All Criminal Justice Programs](https://www.waldenu.edu/programs/criminal-justice "All Criminal Justice Programs")
+            
+        * [Education](# "Education")
+            
+            * [EDUCATION CERTIFICATE PROGRAMS](# "EDUCATION CERTIFICATE PROGRAMS")
+            * [Refresh your current skills or embark on a new professional path with a Walden education certificate.](# "Refresh your current skills or embark on a new professional path with a Walden education certificate.")
+            * [Graduate Certificate in Adult Learning](https://www.waldenu.edu/online-certificates-programs/adult-learning "Graduate Certificate in Adult Learning")
+            * [Graduate Certificate in College Teaching and Learning](https://www.waldenu.edu/online-certificates-programs/college-teaching-and-learning "Graduate Certificate in College Teaching and Learning ")
+            * [Graduate Certificate in Early Childhood Administration, Management, and Leadership](https://www.waldenu.edu/online-certificates-programs/early-childhood-administration-management-and-leadership "Graduate Certificate in Early Childhood Administration, Management, and Leadership")
+            * [Graduate Certificate in Elementary Reading and Literacy](https://www.waldenu.edu/online-certificates-programs/elementary-reading-and-literacy "Graduate Certificate in Elementary Reading and Literacy")
+            * [Graduate Certificate in Engaging Culturally Diverse Learners](https://www.waldenu.edu/online-certificates-programs/engaging-culturally-diverse-learners "Graduate Certificate in Engaging Culturally Diverse Learners")
+            * [All Education Programs](https://www.waldenu.edu/programs/education "All Education Programs")
+            
+        * [Information Technology](# "Information Technology")
+            
+            * [INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM](# "INFORMATION AND TECHNOLOGY CERTIFICATE PROGRAM")
+            * [Gain the technical skills and credentials you need to enter the information systems and technology field.](# "Gain the technical skills and credentials you need to enter the information systems and technology field.")
+            * [Graduate Certificate in Information Systems](https://www.waldenu.edu/online-certificate-programs/information-systems "Graduate Certificate in Information Systems")
+            * [All Information Technology Programs](https://www.waldenu.edu/programs/information-technology "All Information Technology Programs")
+            
+        * [Nursing](# "Nursing")
+            
+            * [NURSING CERTIFICATE PROGRAMS](# "NURSING CERTIFICATE PROGRAMS")
+            * [Walden offers several types of nursing certificates to help you meet the demands of the field](# "Walden offers several types of nursing certificates to help you meet the demands of the field")
+            * [Post-Master’s Certificates in Nursing](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters "Post-Master’s Certificates in Nursing")
+            * [Explore concentrations:](# "Explore concentrations:")
+            * [Acute Care Adult-Gerontology Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/adult-gerontology-acute-care-nurse-practitioner "Acute Care Adult-Gerontology Nurse Practitioner")
+            * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/adult-gerontology-primary-care-nurse-practitioner "Adult-Gerontology Primary Care Nurse Practitioner")
+            * [Family Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/family-nurse-practitioner "Family Nurse Practitioner")
+            * [Nurse Executive](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/nurse-executive "Nurse Executive")
+            * [Education](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/education "Education")
+            * [Informatics](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/informatics "Informatics")
+            * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/pediatric-nurse-practitioner "Pediatric Nurse Practitioner (PNP) Primary Care")
+            * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/psychiatric-mental-health-nurse-practitioner-post-masters "Psychiatric-Mental Health Nurse Practitioner")
+            * [All Nursing Programs](https://www.waldenu.edu/programs/nursing "All Nursing Programs")
+            
+        * [Psychology](# "Psychology")
+            
+            * [PSYCHOLOGY CERTIFICATE PROGRAMS](# "PSYCHOLOGY CERTIFICATE PROGRAMS")
+            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
+            * [Graduate Certificate in Evidence-Based Coaching](https://www.waldenu.edu/online-certificates-programs/evidence-based-coaching "Graduate Certificate in Evidence-Based Coaching")
+            * [Post-Master’s Online Teaching in Psychology Certificate](https://www.waldenu.edu/online-certificates-programs/online-teaching-in-psychology-post-masters "Post-Master’s Online Teaching in Psychology Certificate")
+            * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
+            
+        * [Public Policy](# "Public Policy")
+            
+            * [PUBLIC POLICY CERTIFICATE PROGRAMS](# "PUBLIC POLICY CERTIFICATE PROGRAMS")
+            * [Build valuable management and leadership competencies.](# "Build valuable management and leadership competencies.")
+            * [Graduate Certificate in Nonprofit Management](https://www.waldenu.edu/online-certificates-programs/nonprofit-management "Graduate Certificate in Nonprofit Management")
+            * [Graduate Certificate in Public Management and Leadership](https://www.waldenu.edu/online-certificates-programs/public-management-and-leadership "Graduate Certificate in Public Management and Leadership")
+            * [Graduate Certificate in Public Policy](https://www.waldenu.edu/online-certificates-programs/graduate-certificate-in-public-policy "Graduate Certificate in Public Policy")
+            * [All Public Policy & Administration Programs](https://www.waldenu.edu/programs/public-policy "All Public Policy & Administration Programs")
+            
+        * [Social Work & Human Services](# "Social Work & Human Services")
+            
+            * [SOCIAL WORK AND HUMAN SERVICES CERTIFICATE PROGRAM](# "SOCIAL WORK AND HUMAN SERVICES CERTIFICATE PROGRAM")
+            * [Develop a holistic and interprofessional perspective on conflict management and negotiation to better equip you to support your community.](# "Develop a holistic and interprofessional perspective on conflict management and negotiation to better equip you to support your community. ")
+            * [Graduate Certificate in Conflict Management and Negotiation](https://www.waldenu.edu/online-certificates-programs/conflict-management-and-negotiation "Graduate Certificate in Conflict Management and Negotiation")
+            * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services "All Social Work & Human Services Programs")
+            
+        
     * [Non-Degree Options](# "Non-Degree Options")
         
         * [NON-DEGREE PROGRAMS](# "NON-DEGREE PROGRAMS")
         * [View All Non-Degree Options](https://www.waldenu.edu/school-of-lifelong-learning "View All Non-Degree Options")
         
     
-    Search  Search Close
+    Search Search Close 
     
-    ![""](/sites/g/files/krcnkv421/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=LqvzSfac)
+    ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
     
     ### Ready to get started?
     
     Contact an Enrollment Specialist today.
     
-    [Apply Online](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857&_its=JTdCJTIydmlkJTIyJTNBJTIyMjMyMTVhNGYtNDY2OC00YThmLWJlMTctZmEzZGViYTA3N2NkJTIyJTJDJTIyc3RhdGUlMjIlM0ElMjJybHR%2BMTcxMjg2NDM2MX5sYW5kfjJfMTI0OV9kaXJlY3RfYzM0YTA4YjExYzllYjZiZDU0ZDExYzU5NTNlMTE3YWYlMjIlMkMlMjJzaXRlSWQlMjIlM0ExNzEyJTdE)
-    
     [Request Information](https://www.waldenu.edu/request-info)
     
     Call Us: **8556465286**
     
-* [Financing](# "Financing")
+* [Financing](https://www.waldenu.edu/financial-aid "Financing")
     
     * [Explore ways to fund your degree.](# "Explore ways to fund your degree.")
     * [As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.](# "As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.")
@@ -774,9 +768,9 @@ Call Us: **8556465286**
     * [Financial Aid Forms](https://www.waldenu.edu/financial-aid/forms "Financial Aid Forms")
     * [Walden Grants and Scholarships](https://www.waldenu.edu/financial-aid/grants-and-scholarships "Walden Grants and Scholarships")
     
-    Search  Search Close
+    Search Search Close 
     
-    ![""](/sites/g/files/krcnkv421/files/styles/atge_default_md/public/2024-02/financing_graphic_0.png?itok=STS449u9)
+    ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/financing_graphic_0.png?itok=dIwycUBW)
     
     ### We’re Here to Help
     
@@ -786,7 +780,7 @@ Call Us: **8556465286**
     
     Call Us: **8556465286**
     
-* [Admissions](# "Admissions")
+* [Admissions](https://www.waldenu.edu/admissions "Admissions")
     
     * [Start your journey toward a higher degree.](# "Start your journey toward a higher degree.")
     * [Get step-by-step guidance from a dedicated Enrollment Specialist.](# "Get step-by-step guidance from a dedicated Enrollment Specialist.")
@@ -799,9 +793,9 @@ Call Us: **8556465286**
     * [Undergraduate Pathways](https://www.waldenu.edu/admissions/undergraduate-pathways "Undergraduate Pathways")
     * [Refer a Friend](https://www.waldenu.edu/refer "Refer a Friend")
     
-    Search  Search Close
+    Search Search Close 
     
-    ![""](/sites/g/files/krcnkv421/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=LqvzSfac)
+    ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
     
     ### Take the Next Step
     
@@ -811,7 +805,7 @@ Call Us: **8556465286**
     
     Call Us: **8556465286**
     
-* [Why Walden](# "Why Walden")
+* [Why Walden](https://www.waldenu.edu/why-walden "Why Walden")
     
     * [Find out what sets Walden apart.](# "Find out what sets Walden apart.")
     * [We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.](# "We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.")
@@ -826,9 +820,9 @@ Call Us: **8556465286**
     * [Accreditation](https://www.waldenu.edu/about/accreditation "Accreditation")
     * [Testimonials](https://www.waldenu.edu/why-walden/testimonials "Testimonials")
     
-    Search  Search Close
+    Search Search Close 
     
-    ![""](/sites/g/files/krcnkv421/files/styles/atge_default_md/public/2024-02/why-walden_graphic_0.png?itok=dCpWskio)
+    ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/why-walden_graphic_0.png?itok=_OHqLFYj)
     
     ### Set Your Course
     
@@ -841,7 +835,7 @@ Call Us: **8556465286**
 
 Search
 
-Search  Search Close
+Search Search Close 
 
 [Request Information](#rfi-form)
 
@@ -851,13 +845,6 @@ Menu
 
 1. [Home](https://www.waldenu.edu/ "Home")
 2. [Legal and Consumer Information](https://www.waldenu.edu/legal "Legal and Consumer Information")
-3. Website Terms and Conditions
-
-[REQUEST INFORMATION](#rfi-form)
-
-[APPLY NOW](https://myhomepage.waldenu.edu/Walden/?comm_code=WAL-1011857)
-
-Placeholder for the "Live Chat" block
 
 Website Terms and Conditions
 ----------------------------
@@ -1007,9 +994,11 @@ Related Information
 * [Getting Ready to Apply? Here’s What You Need to Know](https://www.waldenu.edu/admissions/resource/getting-ready-to-apply)
 * [Seven Reasons to Get Your EdS Degree](https://www.waldenu.edu/education-specialist/resource/seven-reasons-to-get-your-eds-degree)
 
-![triangle background](/themes/custom/wal_base/images/svg/triangle.svg)
+![w background](/themes/custom/wal_base_2024/images/W.png)
 
-[Request Information](#rfi-form)
+![Walden University logo](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-07/wu_global_footer_384x384.png?itok=HMY8CArZ)
+
+[Request Information](https://www.waldenu.edu/request-info)
 
 ### Social Media Navigation
 
@@ -1066,12 +1055,16 @@ Related Information
 * [Cost of Attendance](https://www.waldenu.edu/cost-of-attendance-document-v2)
 * [Office of Equity and Access](https://www.waldenu.edu/oea-the-office-of-equity-and-access)
 
-Walden University is a member of Adtalem Global Education, Inc. [www.adtalem.com](https://www.adtalem.com/)
-
-Walden University is certified to operate by SCHEV
-
-© 2024 Walden University LLC. All rights reserved.
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| ![FPO HLC](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/hlc.png?itok=KAm717na) | ![FPO CCNE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ccne.png?itok=ZAF-CX9q) | ![FPO CSWE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/cswe.png?itok=kjmk9JEv) | ![FPO CACREP](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/CACREP.png?itok=jp25neQH) | ![FPO CEPH](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ceph.png?itok=vYk30YrM) |
 
 * [8556465286 8556465286](tel:8556465286 "Call us")
 
 [Request Info](#rfi-form)
+
+Walden University is a member of Adtalem Global Education, Inc. [www.adtalem.com](https://www.adtalem.com/) | Walden University is certified to operate by SCHEV
+
+© 2024 Walden University LLC. All rights reserved.
+
+[Legal & Consumer Info](https://www.waldenu.edu/legal) | [Website Terms and Conditions](https://www.waldenu.edu/legal/website-terms-and-conditions) | [Cookie Policy](https://www.waldenu.edu/legal/cookie-policy)
