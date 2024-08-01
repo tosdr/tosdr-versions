@@ -99,7 +99,7 @@ Other languages:
 * [ಕನ್ನಡ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (96% translated)")
 * [ತುಳು](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/tcy "Policy:Terms of Use/tcy (3% translated)")
 * [മലയാളം](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (40% translated)")
-* [ไทย](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (46% translated)")
+* [ไทย](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (47% translated)")
 * [ລາວ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/lo "Policy:Terms of Use/lo (9% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/blk "Policy:Terms of Use/blk (0% translated)")
 * [မြန်မာဘာသာ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (65% translated)")
