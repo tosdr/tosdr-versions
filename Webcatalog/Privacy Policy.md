@@ -175,8 +175,8 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 If you have any questions feel free to [contact us](https://webcatalog.io/help/).
 
 **WebCatalog, Inc.**  
-2261 Market St  
-Ste 10869  
+2261 Market Street  
+Suite 10869  
 San Francisco, CA 94114, USA
 
 Explore
