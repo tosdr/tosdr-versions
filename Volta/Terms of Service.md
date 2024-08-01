@@ -63,7 +63,7 @@ Open navigation menu [Open search](https://voltacharger.com/search)
     
     Shop All Products](https://voltacharger.com/collections/all-products)
     
-* [Volta Max Cable](https://voltacharger.com/pages/max-cable)
+* [Volta Max Cable](https://www.kickstarter.com/projects/voltamagneticcharger/volta-max-the-cable-for-all-fast-charging-and-data-solutions?ref=bw4c9o)
 * [Volta Drive](https://voltacharger.com/pages/affiliate)
 * Support
     
@@ -93,7 +93,7 @@ Country
 0](https://voltacharger.com/cart)
 
 * Products
-* [Volta Max Cable](https://voltacharger.com/pages/max-cable)
+* [Volta Max Cable](https://www.kickstarter.com/projects/voltamagneticcharger/volta-max-the-cable-for-all-fast-charging-and-data-solutions?ref=bw4c9o)
 * [Volta Drive](https://voltacharger.com/pages/affiliate)
 * Support
 * About
