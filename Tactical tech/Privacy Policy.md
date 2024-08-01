@@ -110,6 +110,14 @@ Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
+* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-july.jpg)
+    
+    [### In The Loop July 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-july-2024/)
+    
+    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
+    
+    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-july-2024/)
+    
 * ![Participants of the workshops hosted by CITE](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/cite_story.jpg)
     
     * Impact Stories
@@ -137,15 +145,6 @@ Shifting the conversation around the impacts of digital technologies
     A new creative intervention produced by Tactical Tech and DensityDesign Lab at Politecnico di Milano, in collaboration with the International Federation of Library Associations and Institutions (IFLA),  will address how AI is impacting the ways that media and information are produced, distributed and perceived.
     
     [Read more →](https://tacticaltech.org/news/project-launches/information-literacy-for-societal-resilience/)
-    
-* ![What the Future Wants: Digital Literacy for Youth Workshop Series
-    text and illustrations of a face and an arrow](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/WTFW_Workshop_Series.jpg)
-    
-    [### What the Future Wants: Digital Literacy for Youth Workshop Series](https://tacticaltech.org/news/latest/digital-literacy-workshops-educators/)
-    
-    Tactical Tech welcomes you to join the What The Future Wants: Digital Literacy for Youth Workshop Series. This series—brought to you by experts from Tactical Tech and organisations worldwide—aims to build the capacity of educators and anyone working with youth on critical digital and media literacy.
-    
-    [Read more →](https://tacticaltech.org/news/latest/digital-literacy-workshops-educators/)
     
 
 Impact stories
