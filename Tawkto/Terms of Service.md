@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=881747273599579&ev=PageView&noscript=1)                       
+![fbpx](https://www.facebook.com/tr?id=881747273599579&ev=PageView&noscript=1)                        
 
 ![](https://px.ads.linkedin.com/collect/?pid=72646&fmt=gif)
 
@@ -210,6 +210,7 @@ tawk.to is a provider of live chat software that can be used either through a we
 * [Careers - **Join Us!**](https://www.tawk.to/jobs-at-tawk-to/)
 * [Customers](https://www.tawk.to/stories/)
 * [Partners](https://www.tawk.to/partner-program/)
+* [Translate](https://www.tawk.to/translate/)
 
 ### Let's tawk?
 
