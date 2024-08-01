@@ -331,17 +331,17 @@ Truyo is an Intel® Market Ready Solution.
 
 **RESOURCES**
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-17T15:07:08-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-31T14:31:19-07:00
 
-#### [Navigating AI Governance: Insights from Peloton’s Privacy Lawsuit](https://truyo.com/blog/navigating-ai-governance-insights-from-pelotons-privacy-lawsuit/)
+#### [Bias Testing for AI in the Workplace: Why Companies Need to Identify Bias Now](https://truyo.com/blog/bias-testing-for-ai-in-the-workplace-why-companies-need-to-identify-bias-now/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-19T12:20:56-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-31T12:45:20-07:00
 
-#### [Understanding Minnesota’s New Data Privacy Law: A Guide for Businesses](https://truyo.com/blog/understanding-minnesotas-new-data-privacy-law-a-guide-for-businesses-mcdpa/)
+#### [VCDPA Enforcement: What You Need to Know](https://truyo.com/blog/vcdpa-enforcement-what-you-need-to-know/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-11T10:05:17-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-25T07:46:21-07:00
 
-#### [Utah’s Office of Artificial Intelligence: Pioneering State-Level AI Governance](https://truyo.com/blog/utahs-office-of-artificial-intelligence-pioneering-state-level-ai-governance/)
+#### [The Questions Every Company Should Be Asking About AI](https://truyo.com/blog/the-questions-every-company-should-be-asking-about-ai/)
 
 [contact](https://truyocom.wpenginepowered.com/contact/)
 
