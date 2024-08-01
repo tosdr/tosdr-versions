@@ -1,9 +1,10 @@
 [Close Menu](#)
 
 * [CYBERSECURITY](https://www.zerosuniverse.com/cyber-security/)
-* [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [ANDROID](https://www.zerosuniverse.com/android/)
 * [APPS](https://www.zerosuniverse.com/apps/)
+* [AI](https://www.zerosuniverse.com/artificial-intelligence/)
+* [Tech](https://www.zerosuniverse.com/tech/)
 * [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 #### Trending Now
@@ -31,9 +32,10 @@
 ![Zerosuniverse](https://cdn.zerosuniverse.com/wp-content/uploads/2022/06/Zerosuniverse.jpg)](https://www.zerosuniverse.com/ "Zerosuniverse")
 
 * [CYBERSECURITY](https://www.zerosuniverse.com/cyber-security/)
-* [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [ANDROID](https://www.zerosuniverse.com/android/)
 * [APPS](https://www.zerosuniverse.com/apps/)
+* [AI](https://www.zerosuniverse.com/artificial-intelligence/)
+* [Tech](https://www.zerosuniverse.com/tech/)
 * [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 [Facebook](#) [X (Twitter)](#)
