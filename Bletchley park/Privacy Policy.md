@@ -46,7 +46,7 @@ Back
 
 * See & Do
 * [What's On](https://bletchleypark.org.uk/whats-on/)
-* OUR STORY
+* [OUR STORY](https://bletchleypark.org.uk/our-story/)
 * Join and Support
 * Learning
 * Find a Veteran
@@ -59,9 +59,6 @@ Back
 * [Food & Drink](https://bletchleypark.org.uk/see-do/food-drink/)
 * [Explore](https://bletchleypark.org.uk/see-do/explore/)
 * [Interactive Map](https://bletchleypark.org.uk/interactive-map/)
-
-* [History](https://bletchleypark.org.uk/our-story/)
-* [Podcast](https://bletchleypark.org.uk/our-story-category/podcasts/)
 
 * [Become a Friend](https://bletchleypark.org.uk/friends/)
 * [Codebreakers' Wall - Sponsor a Brick](https://bletchleypark.org.uk/codebreaker-wall/about-our-bricks/)
@@ -122,16 +119,6 @@ Our Story
 ---------
 
 Explore Bletchley Park’s history and discover the incredible achievements of Britain's World War Two Codebreakers.
-
-History
--------
-
-Explore Bletchley Park’s history and discover the incredible achievements of Britain's World War Two Codebreakers.
-
-Podcast
--------
-
-The Bletchley Park Podcast brings you fascinating stories from Veterans, staff and volunteers.
 
 Join and Support
 ----------------
