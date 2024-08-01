@@ -78,10 +78,8 @@ Support ▼
     [Create an Account](https://www.furaffinity.net/register)
     
 
-[Support Fur Affinity: Honoring Dragoneer's Legacy. https://gofund.me/0a0b27ba](https://gofund.me/0a0b27ba)
-
 **News:**  
-[Sept 6th, 2024 - GoFundMe Update](https://www.furaffinity.net/journal/10949592)
+[July 17, 2024 - Yaoling Launches, Art Contest Reminder](https://www.furaffinity.net/journal/10909970)
 
 [![](/themes/beta/img/banners/logo/fa-banner-summer.jpg)](https://www.furaffinity.net/)
 
@@ -245,13 +243,13 @@ Our computer systems and third party hosting provider systems are currently base
 
 ![](/themes/beta/img/banners/fa_logo.png?v2)
 
-62477 **Users online** — 2317 **guests**, 14477 **registered** and 45683 **other**
+72760 **Users online** — 1453 **guests**, 9374 **registered** and 61933 **other**
 
 Limit bot activity to periods with less than 10k registered users online.  
   
 **© 2005-2024 Frost Dragon Art LLC**
 
-Server Time: Sep 10, 2024 11:17 AM
+Server Time: Jul 30, 2024 02:19 AM
 
 This website uses cookies to enhance your browsing experience. [Learn More](https://www.furaffinity.net/privacy)
 
