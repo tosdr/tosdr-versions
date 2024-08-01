@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Joy
+[Equality
 
-### It rained on their parade, but the Paris Olympians were all smiles](https://www.csmonitor.com/World/Olympics/2024/0726/It-rained-on-their-parade-but-the-Paris-Olympians-were-all-smiles "It rained on their parade, but the Paris Olympians were all smiles")
+### Women’s sports are having a moment. The Olympics are showing why.](https://www.csmonitor.com/World/Olympics/2024/0731/2024-olympics-gymnastics-basketball-women-sports "Women’s sports are having a moment. The Olympics are showing why.")
 
-[Resilience
+[Equality
 
-### In Butler, Pennsylvania, resilience and healing after Trump rally shooting](https://www.csmonitor.com/USA/Society/2024/0726/butler-pennsylvania-resilience-trump-assassination-attempt "In Butler, Pennsylvania, resilience and healing after Trump rally shooting")
+### An identity that quells Mideast wars](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0731/An-identity-that-quells-Mideast-wars "An identity that quells Mideast wars")
 
-[Freedom
+[Safety
 
-### Venezuela’s renewing light](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0726/Venezuela-s-renewing-light "Venezuela’s renewing light")
+### With the Seine open for business, Olympic triathletes dive in](https://www.csmonitor.com/World/Olympics/2024/0731/2024-paris-olympics-triathlon-seine-river "With the Seine open for business, Olympic triathletes dive in")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-July 26, 2024
+July 31, 2024
 
-Why you need to read about Bangladesh today
+Amazingness everywhere
 
-It’s no secret that international news doesn’t sell well. That’s why so many newspapers in the United States have all but abandoned foreign coverage. Today’s story from Bangladesh is a reminder of why it is so essential to the Monitor. When societies close off their openness to the outside world, they close off their ability to learn, to grow, and to love more expansively. There are lessons in Bangladesh’s story that we all can heed, people who can refill our stores of inspiration. Which is why we are there. 
+I’ve been watching the Olympics here in Germany. Given America’s medal dominance, I thought German television would show a fair bit of Team USA. The reality? Only if your name is Simone Biles.That’s a shame. There are so many good stories and athletes. But then I realized it goes the other way, too. Americans surely have not cried with Ricarda Funk, the German kayaking favorite whose catastrophic mistake left her in tears. Or seen the silky skills of basketball star Dennis Schröder. It’s a lesson I learned covering the Olympics. The greatest joy comes from a willingness to see amazingness everywhere.    
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Strike on Israeli Golan kills at least 11 children, risking a broader war](https://www.csmonitor.com/World/Middle-East/2024/0727/israel-golan-heights-attack-children-killed-hezbollah "Strike on Israeli Golan kills at least 11 children, risking a broader war")
+[### Killing of Israel’s foes in Beirut and Tehran brings shaken region to the edge](https://www.csmonitor.com/World/Middle-East/2024/0731/israel-assassinations-hamas-hezbollah-iran "Killing of Israel’s foes in Beirut and Tehran brings shaken region to the edge")
 
-[### It rained on their parade, but the Paris Olympians were all smiles](https://www.csmonitor.com/World/Olympics/2024/0726/It-rained-on-their-parade-but-the-Paris-Olympians-were-all-smiles "It rained on their parade, but the Paris Olympians were all smiles")
+[### Women’s sports are having a moment. The Olympics are showing why.](https://www.csmonitor.com/World/Olympics/2024/0731/2024-olympics-gymnastics-basketball-women-sports "Women’s sports are having a moment. The Olympics are showing why.")
 
-[### In Butler, Pennsylvania, resilience and healing after Trump rally shooting](https://www.csmonitor.com/USA/Society/2024/0726/butler-pennsylvania-resilience-trump-assassination-attempt "In Butler, Pennsylvania, resilience and healing after Trump rally shooting")
+[### Why a Georgia hospital closes – and a red state rethinks Medicaid](https://www.csmonitor.com/USA/2024/0731/medicaid-expansion-georgia-alabama-mississippi "Why a Georgia hospital closes – and a red state rethinks Medicaid")
 
 * * *
 
