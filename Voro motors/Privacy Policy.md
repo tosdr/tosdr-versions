@@ -133,8 +133,6 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Financing](https://www.voromotors.com/en-gb/pages/financing)
         * [Servicing](https://www.voromotors.com/en-gb/pages/electric-scooter-repair)
     * [Upcoming Products](https://www.voromotors.com/en-gb#)
-        * [EMOVE Cruiser V2 Waitlist](https://www.voromotors.com/pages/cruiser-v2-waiting-list)
-        * [Range Extender for RoadRunner Pro Waitlist](https://www.voromotors.com/en-gb/products/range-extender-for-roadrunner-pro)
     * [Company](https://www.voromotors.com/en-gb#)
         * [About Us](https://www.voromotors.com/en-gb/pages/about)
         * [Partner Program](https://www.voromotors.com/en-gb/pages/partner-program)
@@ -363,9 +361,6 @@ Continue Shopping
 * [Servicing](https://www.voromotors.com/en-gb/pages/electric-scooter-repair)
 
 * [Upcoming Products](https://www.voromotors.com/en-gb#)
-
-* [EMOVE Cruiser V2 Waitlist](https://www.voromotors.com/pages/cruiser-v2-waiting-list)
-* [Range Extender for RoadRunner Pro Waitlist](https://www.voromotors.com/en-gb/products/range-extender-for-roadrunner-pro)
 
 * [Company](https://www.voromotors.com/en-gb#)
 
@@ -608,8 +603,7 @@ We partner with companies like Extend to ensure your order arrives to your doors
 
 **VORO (LA)  
 **14350 Arminta St, Panorama City, CA 91402  
-Open Monday - Friday (9am - 6pm)  
-Open Saturday (9am - 12pm)  
+Open Monday - Saturday (9am - 6pm)  
 Sunday - CLOSED
 
 **VORO (HI)  
