@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[July 29, 2024](https://www.japantimes.co.jp/archive/2024/07/29/ "archive page")
+[August 01, 2024](https://www.japantimes.co.jp/archive/2024/08/01/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Kamala Harris](https://www.japantimes.co.jp/tag/kamala-harris/ "Kamala Harris")
+* [BOJ](https://www.japantimes.co.jp/tag/boj/ "BOJ")
 * [Extreme heat](https://www.japantimes.co.jp/tag/heat-waves/ "Extreme heat")
 * [Paris Olympics](https://www.japantimes.co.jp/tag/2024-paris-olympics// "Paris Olympics")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -130,36 +130,50 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
 
-  [![Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411812.jpg&w=400&q=100&f=jpg&t=1.2 "Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+
+[Grilled eel leaves one dead and 140 sick in Japan](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+
+  [![President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412440.jpg&w=400&q=100&f=jpg&t=1.2 "President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.")](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+
+[Bank of Japan delivers one-two punch few were expecting](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
+
+  [![Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412752.jpg&w=400&q=100&f=jpg&t=1.2 "Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
 
 [When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
   [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
-[A mysterious plot prompts a rare call from Russia to the Pentagon](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
+[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
-  [![U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411807.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ")](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
-
-[‘Crazy’ yen rally is at risk of shattering as soon as Wednesday](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
-  [![Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411764.JPG&w=400&q=100&f=jpg&t=1.2 "Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ")](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
-[Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
-
-  [![Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411830.jpg&w=400&q=100&f=jpg&t=1.2 "Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ")](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
+  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
 Editors' Picks
 --------------
 
 [OLYMPICS](https://www.japantimes.co.jp/sports/olympics/ "OLYMPICS")
 
-[Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
 
-By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
+By [Mai Yoshikawa](https://www.japantimes.co.jp/author/1728/mai-yoshikawa/ "Mai Yoshikawa")  
 
-  [![Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411812.jpg&w=400&q=100&f=jpg&t=1.2 "Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Grilled eel leaves one dead and 140 sick in Japan](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+
+  [![President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412440.jpg&w=400&q=100&f=jpg&t=1.2 "President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.")](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Bank of Japan delivers one-two punch few were expecting](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412752.jpg&w=400&q=100&f=jpg&t=1.2 "Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
 
 [COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
 
@@ -169,29 +183,13 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 
   [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[A mysterious plot prompts a rare call from Russia to the Pentagon](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
-
-By [Eric Schmitt](https://www.japantimes.co.jp/author/1356/eric-schmitt/ "Eric Schmitt")  
-
-  [![U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411807.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ")](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[‘Crazy’ yen rally is at risk of shattering as soon as Wednesday](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
-By [Ruth Carson](https://www.japantimes.co.jp/author/1509/ruth-carson/ "Ruth Carson"), [Winnie Hsu](https://www.japantimes.co.jp/author/3992/winnie-hsu/ "Winnie Hsu") and [Masaki Kondo](https://www.japantimes.co.jp/author/1215/masaki-kondo/ "Masaki Kondo")  
-
-  [![Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411764.JPG&w=400&q=100&f=jpg&t=1.2 "Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ")](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
 [OLYMPICS](https://www.japantimes.co.jp/sports/olympics/ "OLYMPICS")
 
-[Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
+[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
 By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason Coskrey")  
 
-  [![Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411830.jpg&w=400&q=100&f=jpg&t=1.2 "Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ")](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
+  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
 Podcast
 -------
@@ -203,9 +201,9 @@ Podcast
 Longform
 --------
 
-  [![Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/21/409896.jpg&w=400&q=100&f=jpg&t=1.2 "Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ")](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
+  [![The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/26/411118.jpg&w=400&q=100&f=jpg&t=1.2 "The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ")](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
 
-[As climate extremes intensify, Japan embraces ancient weather rituals](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
+[Japan's extreme heat is causing a rethink of school sports](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
@@ -254,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Australia reshuffles senior ministers ahead of upcoming election](https://www.japantimes.co.jp/news/2024/07/28/asia-pacific/politics/australia-reshuffles-senior-minister/ "Australia reshuffles senior ministers ahead of upcoming election")
+[Denmark says Japan made extradition request for anti-whaling activist Watson](https://www.japantimes.co.jp/news/2024/08/01/japan/anti-whaling-activist-extradition-request/ "Denmark says Japan made extradition request for anti-whaling activist Watson")
 
-4 hours ago
+30 mins ago
 
-[Thousands of Druze mourn youths killed in Golan rocket attack](https://www.japantimes.co.jp/news/2024/07/28/world/druze-mourn-rocket-attack-victims/ "Thousands of Druze mourn youths killed in Golan rocket attack")
+[7-Eleven's curry bread certified by Guinness World Records](https://www.japantimes.co.jp/business/2024/08/01/companies/7-elevens-bread-guinness-records/ "7-Eleven's curry bread certified by Guinness World Records")
 
-5 hours ago
+42 mins ago
 
-[Iran's Khamenei formally grants Pezeshkian presidential powers](https://www.japantimes.co.jp/news/2024/07/28/world/khamenei-grants-pezeshkian-presidential-powers/ "Iran's Khamenei formally grants Pezeshkian presidential powers")
+[Japan experienced its hottest July on record](https://www.japantimes.co.jp/news/2024/08/01/japan/hottest-july-japan/ "Japan experienced its hottest July on record")
 
-5 hours ago
+1 hours ago
 
-[In historic move, U.S. to upgrade military command structure in Japan](https://www.japantimes.co.jp/news/2024/07/28/japan/politics/us-japan-two-plus-two/ "In historic move, U.S. to upgrade military command structure in Japan")
+[Honda, Nissan to tighten ties on software, batteries, EV knowhow](https://www.japantimes.co.jp/business/2024/08/01/companies/honda-nissan-ev-tieup/ "Honda, Nissan to tighten ties on software, batteries, EV knowhow")
 
-6 hours ago
+2 hours ago
 
-[Two Japanese climbers fall from Pakistan's K2](https://www.japantimes.co.jp/news/2024/07/28/japan/japanese-climbers-k2/ "Two Japanese climbers fall from Pakistan's K2")
+[Taro Kono softens line against nuclear power ahead of LDP leadership race](https://www.japantimes.co.jp/news/2024/08/01/japan/politics/ldp-taro-kono-nuclear-power/ "Taro Kono softens line against nuclear power ahead of LDP leadership race")
 
-9 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
