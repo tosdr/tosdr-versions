@@ -35,7 +35,7 @@ Menu
     
     Veeam Data Platform Self-managed data protection for hybrid  
     and multi-cloud data Veeam Data Cloud Cloud-native backup and storage  
-    services for XaaS data Workload Specific Solutions for individual applications Solutions By Business Type Solutions for Enterprise, Small Businesses  
+    services for M365 & Azure Workload Specific Solutions for individual applications Solutions By Business Type Solutions for Enterprise, Small Businesses  
     and Service Providers
     
     Veeam Data Platform Self-managed data protection for hybrid  
@@ -78,12 +78,12 @@ Menu
     [Get the Report](https://go.veeam.com/wp-data-protection-trends-2024?ad=menu-products-vdp-banner)
     
     Veeam Data Cloud Cloud-native backup and storage  
-    services for XaaS data
+    services for M365 & Azure
     
     Veeam Data Cloud
     
     * [Overview](https://www.veeam.com/products/veeam-data-cloud.html?ad=menu-products-vdc)
-    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-vdc)
+    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-products-vdc)
     * [Backup for Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-vdc)
     * [Vault Cloud Storage](https://www.veeam.com/products/veeam-data-cloud/cloud-storage-vault.html?ad=menu-products-vdc)
     
@@ -102,11 +102,18 @@ Menu
     
     [Request M365 Demo](https://www.veeam.com/backup-microsoft-office-365/vdc-demo.html?ad=menu-products-vdc)
     
+    **Veeam Data Cloud**  
+    **with Microsoft 365 Backup Storage**
+    
+    Speed and scale meet control and flexibility​
+    
+    [Learn More](https://www.veeam.com/company/press-release/veeam-brings-data-resilience-to-over-21-million-microsoft-365-users-with-new-microsoft-365-backup-storage-capabilities-for-veeam-data-cloud.html?ad=menu-products-vdp-banner)
+    
     Workload Specific Solutions for individual applications
     
     Workloads
     
-    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-workloads)
+    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-products-workloads)
     * [Backup for Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-products-workloads)
     * [Backup for Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-products-workloads)
     * [Backup for AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-workloads)
@@ -200,7 +207,7 @@ Menu
     
     **Apps**  [Microsoft](https://www.veeam.com/application-availability-solutions.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions)
     
-    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
+    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
     
     Alliance Technologies
     
@@ -656,7 +663,7 @@ By subscribing, you are agreeing to receive information about Veeam products and
 
 [Backup & Replication](https://www.veeam.com/products/veeam-data-platform/backup-recovery.html?ad=footer)
 
-[Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=footer)
+[Microsoft 365](https://www.veeam.com/products/saas/backup-service-microsoft-office-365.html?ad=footer)
 
 [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=footer)
 
