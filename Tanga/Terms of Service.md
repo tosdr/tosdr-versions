@@ -10,11 +10,11 @@
 
 out of 5 based on
 
-74393
+74412
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
-[All Categories](https://www.tanga.com/categories/all) [Summer Steals](https://www.tanga.com/deals/summer-steals) [Top Sellers](https://www.tanga.com/deals/top-sellers) [Clearance](https://www.tanga.com/deals/clearance) [Men](https://www.tanga.com/departments/men) [Women](https://www.tanga.com/departments/women) [Electronics](https://www.tanga.com/departments/electronics) [Home](https://www.tanga.com/departments/home) [Jewelry](https://www.tanga.com/departments/jewelry) [Health & Beauty](https://www.tanga.com/departments/health-beauty-e)
+[All Categories](https://www.tanga.com/categories/all) [Summer Clearance](https://www.tanga.com/deals/summer-clearance) [Top Sellers](https://www.tanga.com/deals/top-sellers) [Clearance](https://www.tanga.com/deals/clearance) [Men](https://www.tanga.com/departments/men) [Women](https://www.tanga.com/departments/women) [Electronics](https://www.tanga.com/departments/electronics) [Home](https://www.tanga.com/departments/home) [Jewelry](https://www.tanga.com/departments/jewelry) [Health & Beauty](https://www.tanga.com/departments/health-beauty-e)
 
 Terms and Conditions
 ====================
