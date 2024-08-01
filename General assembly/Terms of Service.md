@@ -1,4 +1,4 @@
-Hot skills summer is back. Get **$/£/€1,500 off a short course.**
+Set your skills ablaze with **$/£/€1,500 off a short course**.
 
 [Cash in](https://generalassemb.ly/blog/hot-skills-summer-your-skills-on-fire-with-the-seasons-hottest-discounts/)
 
