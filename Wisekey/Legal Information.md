@@ -305,11 +305,13 @@ Copyright 2000 - 2024 WISeKey INCRYPT, PICOTAG, CONTACTLESS, PICOPASS, PICOREAD,
 
 [](http://on.fb.me/1LuJBdW)[](http://bit.ly/1puihjT)[](https://www.youtube.com/user/WISeKeySA)[](https://www.linkedin.com/company/wisekey-sa/)[](https://www.instagram.com/wisekey_sa/)
 
-[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11172 "Webtrust for CA")
+[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11447 "Webtrust for CA")
 
-[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-bl-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11173 "Webtrust SSL BR")
+[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-bl-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11448 "Webtrust SSL BR")
 
-[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-ex-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11174 "Webtrust EV")
+[![](https://cdn.wisekey.com/wp-content/uploads/2020/03/webtrust-ex-t.png)](https://www.cpacanada.ca/webtrustseal?sealid=11449 "Webtrust EV")
+
+[![](https://cdn.wisekey.com/wp-content/uploads/2024/08/webtrust-s-mine-white.png)](https://cpa.cpacanada.ca/webtrustseal?sealid=11450 "Webtrust S-MIME")
 
 [![](https://cdn.wisekey.com/wp-content/uploads/2020/07/wisekey-iso27001.png)](https://cdn.wisekey.com/wp-content/uploads/2020/07/0099135_ENG_Wisekey-Semiconductors.pdf "Certification Authorities")
 
