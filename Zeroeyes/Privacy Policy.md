@@ -1,6 +1,8 @@
 [![Clickcease](https://monitor.clickcease.com/stats/stats.aspx)](https://www.clickcease.com/)
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -65,7 +67,9 @@ a
 
 [REQUEST A DEMO](http://about/)
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -236,7 +240,9 @@ If you have questions or comments about this Privacy Policy, please contact us a
 
 \[ZeroEyes, Inc.\] (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website (www.zeroeyes.com), including any of our other media forms, media channel, mobile website, or mobile application related or connected thereto (collectively, the “Site”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 solutions for...
 ----------------
