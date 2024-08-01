@@ -222,7 +222,7 @@ We share data with the following service providers:
 | AWS Cloud Services | holds our main data store and hosts our Website. |
 | DotDigital | holds email subscriptions, including email addresses and summarised public Wakelet information. |
 | Google Analytics | holds aggregated user data for monitoring site usage, in order to enable us to continue improving the Services based on trends observed in behaviours. |
-| Google Cloud | customer identity and access management (CIAM) platform to help manage and protect user accounts. Also provides access to AI models for classifying and understanding content. |
+| Google Cloud | customer identity and access management (CIAM) platform to help manage and protect user accounts. Provides email and document hosting which may contain PII (e.g. as a result of support requests). Also provides access to AI models for classifying and understanding content. |
 | Hotjar | is used to observe anonymized users interacting with Wakelet pages and features in order to understand pain points and make improvements. |
 | Hubspot | CRM platform, used to house contact information for Wakelet users, community members, inbound contacts from marketing activity, and support tickets. No student data is stored in our CRM. |
 | Microsoft Azure | uploaded images are scanned for inappropriate content and filtered appropriately. Also provides access to various AI models for content understanding. |
