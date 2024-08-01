@@ -1,4 +1,4 @@
-🏁 A Salute to SysAdmins - Save up to $400 on Training & Certifications [ENROLL NOW](https://hubs.la/Q02Br6XX0)
+💻 Webinar - Harden Your Security Mindset - Aug 28 @ 11AM EDT [REGISTER NOW](https://hubs.la/Q02JtX9K0)
 
 English Japan China Europe
 
