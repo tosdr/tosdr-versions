@@ -1,7 +1,7 @@
 ![Fb](https://www.facebook.com/tr?id=3074015879559753&ev=PageView
                     &noscript=1) 
 
-**Introducing ACT Training! - Early Bird Registration now open** [Learn More](https://www.zurinstitute.com/webinars/demystifying-act-blending-acceptance-commitment-therapy-training/)
+**Sign Up to Get information about Sales & Events** [Click Here](https://www.zurinstitute.com/newsletter/)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271500%27%20height=%27702%27/%3e)![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
