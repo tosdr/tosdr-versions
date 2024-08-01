@@ -130,7 +130,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/Picture1-1-150x56.png)](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/06/MFIEPN-150x56.jpg)](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
     
     Aug 01 2024
     
@@ -158,7 +158,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     #### [High-Masking Autistic Students: Monthly Virtual Parent Support Sessions](https://washingtonautismalliance.org/events/high-masking-autistic-students-monthly-virtual-parent-support-sessions/?occurrence=2024-09-09&time=1725901200)
     
-    Zoom
+    Microsoft Teams
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
@@ -245,9 +245,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [Shayan's Settlement:13th Anniversary](https://washingtonautismalliance.org/shayans-settlement13th-anniversary/ "Shayan's Settlement:13th Anniversary")
+* [Strategies for Transitioning Your Child Back to School](https://washingtonautismalliance.org/strategies-for-transitioning-your-child-back-to-school/ "Strategies for Transitioning Your Child Back to School")
 * [Happy Birthday to the Americans with Disabilities Act (ADA)](https://washingtonautismalliance.org/happy-birthday-to-the-americans-with-disabilities-act-ada/ "Happy Birthday to the Americans with Disabilities Act (ADA)")
-* [Learning to Swim: A Life Skill](https://washingtonautismalliance.org/learning-to-swim-a-life-skill/ "Learning to Swim: A Life Skill")
-* [How to Avoid a Sensory Meltdown During 4th of July Festivities](https://washingtonautismalliance.org/how-to-avoid-a-sensory-meltdown-during-4th-of-july-festivities/ "How to Avoid a Sensory Meltdown During 4th of July Festivities")
 
 #### QUICK LINKS
 
