@@ -130,14 +130,14 @@ The Digital Advertising Alliance also offers a tool for opting out of the collec
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-07-28 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-07-27 "Search setlists by day: "Yesterday"")
+* [Today](https://www.setlist.fm/search?query=date:2024-08-01 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-07-31 "Search setlists by day: "Yesterday"")
+* [Jul 30, 2024](https://www.setlist.fm/search?query=date:2024-07-30 "Search setlists by day: "Jul 30, 2024"")
+* [Jul 29, 2024](https://www.setlist.fm/search?query=date:2024-07-29 "Search setlists by day: "Jul 29, 2024"")
+* [Jul 28, 2024](https://www.setlist.fm/search?query=date:2024-07-28 "Search setlists by day: "Jul 28, 2024"")
+* [Jul 27, 2024](https://www.setlist.fm/search?query=date:2024-07-27 "Search setlists by day: "Jul 27, 2024"")
 * [Jul 26, 2024](https://www.setlist.fm/search?query=date:2024-07-26 "Search setlists by day: "Jul 26, 2024"")
 * [Jul 25, 2024](https://www.setlist.fm/search?query=date:2024-07-25 "Search setlists by day: "Jul 25, 2024"")
-* [Jul 24, 2024](https://www.setlist.fm/search?query=date:2024-07-24 "Search setlists by day: "Jul 24, 2024"")
-* [Jul 23, 2024](https://www.setlist.fm/search?query=date:2024-07-23 "Search setlists by day: "Jul 23, 2024"")
-* [Jul 22, 2024](https://www.setlist.fm/search?query=date:2024-07-22 "Search setlists by day: "Jul 22, 2024"")
-* [Jul 21, 2024](https://www.setlist.fm/search?query=date:2024-07-21 "Search setlists by day: "Jul 21, 2024"")
 
 **© setlist.fm**
 
