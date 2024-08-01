@@ -295,7 +295,7 @@ If you need assistance with Synthesia or have a question about our products or s
 Ready to try our AI video platform?
 -----------------------------------
 
-Create an account and get started using Synthesia, with full access to all 160+ avatars and 130+ languages.
+Join over 1M+ users today and start making AI videos with 160+ avatars in 130+ languages.
 
 [Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
 
