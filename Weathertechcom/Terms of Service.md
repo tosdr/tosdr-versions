@@ -1,8 +1,6 @@
 [Skip to Main Content](#maincontent)
 
- 
-
-$   
+$  
 
 [Skip to Main Content](#maincontent) [WeatherTech](https://www.weathertech.com/)
 
@@ -272,20 +270,6 @@ Bolingbrook, IL 60440
     * [Website Accessibility](https://www.weathertech.com/service/website-accessibility/)
     
 
-Sign up for our Newsletter
-
- Sign Up
-
-Connect with Us
----------------
-
-* [facebook](https://www.facebook.com/WeatherTech)
-* [instagram](https://www.instagram.com/accounts/login/?next=/weathertech/)
-* [youtube](https://www.youtube.com/weathertech/)
-* [pinterest](https://www.pinterest.com/weathertech/)
-* [linkedin](https://www.linkedin.com/company/weathertech)
-* [blogger](https://www.weathertech.com/blog/)
-
 Contact Us
 ----------
 
@@ -313,9 +297,23 @@ Find a Dealer
 [About Us](https://www.weathertech.com/behindtech/)
 ---------------------------------------------------
 
-Country Toggles the country/language options Change Country
+Country Toggles the country/languageoptions Change Country
 
  ![Graphic of the United States flag.](/cms/images/layout/white/flag_us.svg)United States English
+
+Sign up for our Newsletter
+
+ Sign Up
+
+Connect with Us
+---------------
+
+* [facebook, opens in a new window.](https://www.facebook.com/WeatherTech)
+* [instagram, opens in a new window.](https://www.instagram.com/accounts/login/?next=/weathertech/)
+* [youtube, opens in a new window.](https://www.youtube.com/weathertech/)
+* [pinterest, opens in a new window.](https://www.pinterest.com/weathertech/)
+* [linkedin, opens in a new window.](https://www.linkedin.com/company/weathertech)
+* [blogger](https://www.weathertech.com/blog/)
 
 * [Terms of Use](https://www.weathertech.com/service/terms/)
 * [Privacy Policy](https://www.weathertech.com/service/privacy/)
@@ -323,6 +321,8 @@ Country Toggles the country/language options Change Country
 * [Accessibility](https://www.weathertech.com/service/website-accessibility/)
 * [Sitemap](https://www.weathertech.com/sitemap/)
 * [Cookies](#)
+* [Cookie Policy](https://www.weathertech.com/service/cookie-policy/)
+* [Do Not Sell or Share My Personal Information](#)
 * ©2024 MacNeil IP LLC
 
 ©2024 MacNeil IP LLC
