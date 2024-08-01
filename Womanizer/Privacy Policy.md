@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Summer Sale - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[Sale - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
@@ -46,7 +46,7 @@ The store will not work correctly in the case when cookies are disabled.
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [Summer Sale](https://www.womanizer.com/eu/sale)
+* [Sale](https://www.womanizer.com/eu/sale)
     
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
@@ -59,14 +59,13 @@ The store will not work correctly in the case when cookies are disabled.
     * [Premium](https://www.womanizer.com/eu/premium)
     * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
+    * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
     * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
-    * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
-    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
