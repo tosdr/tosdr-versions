@@ -60,7 +60,7 @@ Main navigation
     
     ![DGD_Teaser_380x275](/sites/default/files/styles/teaser_card_380x275/public/2021-07/DGD_Teaser_380x275_0.jpg?itok=gmsEBGAz)
     
-* [Investors](http://www.investorvalero.com/)
+* [Investors](https://www.investorvalero.com/)
 * [Careers](https://www.valero.com/careers)
     
     [Careers](https://www.valero.com/careers) ![Refinery employee holding an open binder](/sites/default/files/styles/featured/public/2021-07/RefiningScienceProcess_Opt5_970x630.jpg?itok=DPO10Sf2)
@@ -193,7 +193,7 @@ The Site, and the products and services described on the Site, are not intended 
 
 **USE OF THIS SITE SIGNIFIES YOUR ACCEPTANCE OF THIS LEGAL NOTICE & TERMS OF USE.**
 
-![](/sites/default/files/valero_footer_logo.svg)
+![Valero Logo](/sites/default/files/valero_footer_logo.svg)
 
 Social Navigation
 
