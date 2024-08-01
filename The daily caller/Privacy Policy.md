@@ -304,37 +304,37 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/27/janet-yellen-78-trillion-climate-change/ "Janet Yellen Calls For $78,000,000,000,000 To Tackle Climate Change")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/30/karen-attiah-steps-down-nabj-trump/ "National Association Of Black Journalists Co-Chair Steps Down After Trump Interview")
 
 1
 
-[Janet Yellen Calls For $78,000,000,000,000 To Tackle Climate Change](https://dailycaller.com/2024/07/27/janet-yellen-78-trillion-climate-change/)
+[National Association Of Black Journalists Co-Chair Steps Down After Trump Interview](https://dailycaller.com/2024/07/30/karen-attiah-steps-down-nabj-trump/)
 
-Energy
+Media
 
 2
 
-[Dem Senator Loses Police Support For First Time In 12 Years](https://dailycaller.com/2024/07/26/dem-senator-sherrod-brown-loses-police-support-fop/)
+[Deranged Cat Lady Ruins Evening For 60 People On Orders Of Government Bureaucrats](https://dailycaller.com/2024/07/31/daily-caller-softball-game-arlington-county-parks-department/)
 
-Politics
+Sports
 
 3
 
-[‘Mom, I Don’t Want Ketchup’: Terrified Mom Finds Blood Splattered On Daughter's Fast Food Meal](https://dailycaller.com/2024/07/27/tiffany-floyd-mom-blood-splattered-daughters-burger-king-meal-new-york/)
+[National Association Of Black Journalists' Trump Interview Was An Unmitigated Disaster](https://dailycaller.com/2024/07/31/national-association-black-journalists-donald-trump-interview-unmitigated-disaster-harris-faulkner-rachel-scott-2024-election/)
 
-US
+Media
 
 4
 
-[EXCLUSIVE: New Trump Rally Video Scorches Kamala For Pushing Dangerous Minnesota Bail Fund](https://dailycaller.com/2024/07/27/exclusive-trump-play-video-rally-slamming-kamala-encouraging-donations-bail-criminals-minnesota-freedom-fund/)
+[Check Out The Faces Of These Elderly Kamala Supporters As Megan Thee Stallion Twerks On Stage](https://dailycaller.com/2024/07/31/faces-elderly-kamala-harris-campaign-supporters-megan-thee-stallion-twerks-rally-2024-election/)
 
-Politics
+Editorial
 
 5
 
-['Who The F\*ck Voted For Her?': Charlamagne And Andrew Schulz Spar Over Dems 'Usurping Democracy' With Harris](https://dailycaller.com/2024/07/26/who-the-fck-voted-for-her-charlamagne-and-andrew-schulz-spar-over-dems-usurping-democracy-with-harris/)
+[Video Appears To Show World Leader Slapping Child Who Refused To Kiss His Hand](https://dailycaller.com/2024/07/30/turkish-president-recep-tayyip-erdogan-slapping-child-kiss-hand/)
 
-Elections
+World
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
@@ -443,6 +443,8 @@ Sign In With Google
 Sign In With Facebook
 
 Sign In With Apple
+
+Reset Password
 
 ![](/files/images/logo-black.svg)
 
