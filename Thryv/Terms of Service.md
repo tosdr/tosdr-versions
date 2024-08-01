@@ -26,7 +26,7 @@
             * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
             * [Landing Pages](https://www.thryv.com/features/landing-pages/)
             * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-            * [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
+            * [Real Time Analytics](https://www.thryv.com/)
         * * [MARKETPLACE](https://www.thryv.com/app-market/)
                 
                 Need a little something extra? Find it here.
@@ -97,8 +97,11 @@
     
 * Sales: [1 (888) 733-9482](tel:18887339482)
     
-* [Login](https://command.thryv.com/)
-* [Get a Demo](https://www.thryv.com/schedule-demo/)
+* [Pricing](https://www.thryv.com/pricing/) [Login](https://command.thryv.com/)
+    
+    Sales: [1 (888) 733-9482](tel:18887339482)
+    
+    [LOGIN](https://command.thryv.com/) [GET A DEMO](https://www.thryv.com/schedule-demo/)
 
 [![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
@@ -130,7 +133,7 @@ menu
         * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
         * [Landing Pages](https://www.thryv.com/features/landing-pages/)
         * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-        * [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
+        * [Real Time Analytics](https://www.thryv.com/)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
@@ -230,11 +233,10 @@ Click the link below for the terms that apply to your purchase
 * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
 * [Online Reviews](https://www.thryv.com/features/reputation-management/)
 * [Social Media Management](https://www.thryv.com/features/social-media/)
-* [Advertising Campaigns](https://www.thryv.com/features/campaign-management/)
 * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
 * [Landing Pages](https://www.thryv.com/features/landing-pages/)
 * [Track Offline Marketing](https://www.thryv.com/features/track-offline-marketing/)
-* [Real Time Analytics](https://www.thryv.com/features/campaign-management/#analytics)
+* [Real Time Analytics](https://www.thryv.com/)
 
 ### Resources
 
