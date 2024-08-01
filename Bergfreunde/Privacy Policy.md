@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -72,10 +72,6 @@ Portofrei ab € 69 (DE)
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
-
-[Summer Sale | Spare bis zu 40%](https://www.bergfreunde.de/outlet/?listorderby=bfdiscountpercent&listorder=desc)
-
-Summer Sale | Spare bis zu 40% »
 
 Menü
 
@@ -416,7 +412,7 @@ Menü
     * [Winterausrüstung](https://www.bergfreunde.de/winterausruestung/ "Winterausrüstung anzeigen")
         * [Lawinenrucksäcke](https://www.bergfreunde.de/lawinenrucksaecke/ "Lawinenrucksäcke anzeigen")
         * [LVS-Geräte](https://www.bergfreunde.de/lvs-geraete/ "LVS-Geräte anzeigen")
-        * [](https://www.bergfreunde.de// " anzeigen")
+        * [Lawinenschaufeln](https://www.bergfreunde.de/lawinenschaufeln/ "Lawinenschaufeln anzeigen")
         * [Skifelle](https://www.bergfreunde.de/skifelle/ "Skifelle anzeigen")
         * [Skitourenrucksäcke](https://www.bergfreunde.de/skitourenrucksaecke/ "Skitourenrucksäcke anzeigen")
         * [Schneeschuhe](https://www.bergfreunde.de/schneeschuhe/ "Schneeschuhe anzeigen")
@@ -496,10 +492,10 @@ Menü
         * [Outdoor Lebensmittel](https://www.bergfreunde.de/outdoor-lebensmittel/ "Outdoor Lebensmittel anzeigen")
         * [» Alles anzeigen](https://www.bergfreunde.de/hochtouren/ "Hochtouren & Expedition anzeigen")
     * [Trekking](https://www.bergfreunde.de/trekking/ "Trekking anzeigen")
-        * [Trekkingbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--trekking/ "Trekkingbekleidung anzeigen")
+        * [Trekkingbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Trekkingbekleidung anzeigen")
         * [Trekkingschuhe](https://www.bergfreunde.de/wanderschuhe/ "Trekkingschuhe anzeigen")
-        * [Trekkingausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--trekking/ "Trekkingausrüstung anzeigen")
-        * [Trekkingzelte](https://www.bergfreunde.de/zelte/einsatzbereich--trekking/ "Trekkingzelte anzeigen")
+        * [Trekkingausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--/ "Trekkingausrüstung anzeigen")
+        * [Trekkingzelte](https://www.bergfreunde.de/zelte/einsatzbereich--/ "Trekkingzelte anzeigen")
         * [Riegel](https://www.bergfreunde.de/riegel/ "Riegel anzeigen")
         * [» Alles anzeigen](https://www.bergfreunde.de/trekking/ "Trekking anzeigen")
     * [Fitness & Yoga](https://www.bergfreunde.de/fitness/ "Fitness & Yoga anzeigen")
@@ -553,6 +549,7 @@ Menü
     Highlights der Saison
     
     * [Jack Wolfskin: We Live to Discover](https://www.bergfreunde.de/jack-wolfskin-cp/ "Jack")
+    * [The North Face: We Play Different](https://www.bergfreunde.de/tnf-cp/ "The")
     * [Maloja: The Story](https://www.bergfreunde.de/maloja-story-cp/ "Maloja'")
     * [Polygiene: For Mindful Living](https://www.bergfreunde.de/polygiene-cp/ "Polygiene'")
     
@@ -593,8 +590,8 @@ schließen
 
 Wonach suchst Du?
 
-1. [](https://www.bergfreunde.de/ "zur Startseite klettern")
-2. / [Rechtliches](https://www.bergfreunde.de/rechtliches/ "Rechtliches")
+1. [Startseite](https://www.bergfreunde.de/)
+2. / [Rechtliches](https://www.bergfreunde.de/rechtliches/)
 3. / Datenschutz
 
 Rechtliches
@@ -638,7 +635,7 @@ Bewerberdaten: Unter dem Link „Jobs“ können Sie sich bei uns bewerben. In d
 
 ### 2.1 Ihr Kundenkonto
 
-Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, sich unter Angabe Ihres Vornamens und ihrer Emailadresse zu registrieren. Die Daten werden dabei in eine Eingabemaske eingegeben, an uns übermittelt und gespeichert. Im Zeitpunkt der Registrierung werden zudem Ihre aktuelle IP-Adresse sowie Datum und Uhrzeit der Registrierung erfasst. Im Rahmen des Registrierungsprozesses wird Ihre Einwilligung zur Verarbeitung dieser Daten eingeholt. Im Kundenkonto stehen Ihnen verschiedene Funktionen und Services zur Verfügung. Die Einrichtung eines Kundenkontos ist zur Durchführung einer Bestellung jedoch nicht zwingend erforderlich. Es besteht ebenso die Möglichkeit, Bestellungen über die „Gast-Funktion“ durchzuführen.
+Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, sich unter Angabe Ihres Vornamens und ihrer E-Mailadresse zu registrieren. Die Daten werden dabei in eine Eingabemaske eingegeben, an uns übermittelt und gespeichert. Im Zeitpunkt der Registrierung werden zudem Ihre aktuelle IP-Adresse sowie Datum und Uhrzeit der Registrierung erfasst. Im Rahmen des Registrierungsprozesses wird Ihre Einwilligung zur Verarbeitung dieser Daten eingeholt. Im Kundenkonto stehen Ihnen verschiedene Funktionen und Services zur Verfügung. Die Einrichtung eines Kundenkontos ist zur Durchführung einer Bestellung jedoch nicht zwingend erforderlich. Es besteht ebenso die Möglichkeit, Bestellungen über die „Gast-Funktion“ durchzuführen.
 
 Wenn Sie sich für ein persönliches Kundenkonto registrieren, verarbeiten wir die dabei angegebenen Registrierungsdaten zur Einrichtung und Verwaltung Ihres Kundenkontos, sowie für die Abwicklung künftiger Bestellungen. Als registrierter Kunde haben Sie (mittels Ihrer E-Mail-Adresse und des von Ihnen selbst gewählten Passworts) Zugang zu Ihrem persönlichen Kundenkonto und können auf die dort zur Verfügung gestellten Funktionen und Dienste zugreifen. So können Sie u.a. in Ihre Bestellhistorie einsehen und Ihre persönlichen Einstellungen (z.B. Passworteinstellungen, Newslettereinstellungen, Rechnungs- und Liefereinstellungen) speichern und ändern. Darüber hinaus können Sie Produkte unseres Angebots bewerten, öffentlich Fragen zu Produkten stellen oder diese öffentlich kommentieren. Weitere Informationen hierzu finden in unseren unter Punkt 2.2. ff. nachfolgenden Datenschutzhinweisen. Weiterhin finden unsere [Allgemeinen Nutzungsbedingungen für das Bergfreunde-Kundenkonto](https://www.bergfreunde.de/agb-kundenkonto/ "Allgemeinen Nutzungsbedingungen für das Bergfreunde-Kundenkonto") Anwendung.
 
@@ -714,7 +711,7 @@ Rechtsgrundlage für die Verarbeitung sind bezogen auf die Nutzungsdaten Ihre Ei
 
 #### 2.6.2 E-Mail-Werbung
 
-Als registrierter Inhaber eines Kundenkontos (Ziff. 2.1.) erhalten Sie auf Basis Ihrer ausdrücklich erteilten Einwilligung Emailwerbung, in Form von Produktinformationen und Aktionen wie Gewinnspielen etc. und Bergfreunde-Deals (besondere Angebote für ein Produkt). Unabhängig vom Bestehen eines Kundenkontos haben Sie zudem die Möglichkeit, unseren Newsletter-Service zu abonnieren.
+Als registrierter Inhaber eines Kundenkontos (Ziff. 2.1.) erhalten Sie auf Basis Ihrer ausdrücklich erteilten Einwilligung E-Mailwerbung, in Form von Produktinformationen und Aktionen wie Gewinnspielen etc. und Bergfreunde-Deals (besondere Angebote für ein Produkt). Unabhängig vom Bestehen eines Kundenkontos haben Sie zudem die Möglichkeit, unseren Newsletter-Service zu abonnieren.
 
 Mit unseren Werbemails informieren wir Sie regelmäßig über alle Bereiche unseres Angebots. Um den E-Mailinhalt möglichst gut auf Ihre Interessen anzupassen, bieten wir innerhalb des Kundenkontos die Auswahl, E-Mail-Werbung mit Produktinformationen überwiegend für Männer oder für Frauen zu erhalten. Zudem verarbeiten wir dazu (a) die bei der Anmeldung von Ihnen erhobenen Daten (die als Pflichtfelder angezeigten Daten sind für den Erhalt zwingend erforderlich, freiwillig gekennzeichnete Daten dienen der persönlicheren Ansprache), (b) von Ihnen auf freiwilliger Basis ggfs. ausgewählte Interessen, (c) Daten über Ihr Nutzungsverhalten, nachdem wir Ihnen E-Mails zugeschickt haben (z.B. Klickverhalten), sowie (d) die Angaben aus unserer Kundendatenbank (vgl. Ziffer 2.6.1). Das Abonnement kann über das Kundenkonto sowie über die Werbemail-Einstellungen, die in jeder Werbeemail verlinkt sind, verwaltet werden.
 
@@ -902,7 +899,7 @@ Im Rahmen der zwischen uns und der Trusted Shops GmbH bestehenden gemeinsamen Ve
 
 Zur Warenbeförderung durch uns an Sie übermitteln wir Ihre Adress- und Kontaktdaten, soweit erforderlich, an Logistikunternehmen (z.B. DHL), insbesondere Namen, ggfs. Firma, sowie Postadresse / Paketstation sowie dazugehörige Adresszusätze. In diesem Zusammenhang übermitteln wir Ihnen ggfs. Links oder Codes zur Sendungsnachverfolgung. Wir werden für diese Zwecke den Logistikunternehmen ggfs. auch Ihre E-Mail-Adressen weitergeben, damit das Logistikunternehmen mit Ihnen direkt kommunizieren kann, z.B. um Rückfragen zur Adresse, Vereinbarung von Zustellzeiten, Abstellorte etc. abzustimmen; dadurch können Fehler oder Verzögerungen bei der Lieferung verringert werden. Wenn Sie von dem Logistikunternehmen unmittelbar angeschrieben werden, liegt dies daran oder daran, dass Sie eine entsprechende Dienstleistung bei dem Logistik- und Paketbeförderungsunternehmen abonniert und dieser Nutzung dort eingewilligt haben. In einigen Lieferländern können aufgrund der Art der Zustellung bzw. wegen der dortigen Gegebenheiten zusätzliche Angaben erforderlich sein (z.B. Telefonnummer), damit der Zusteller Sie finden bzw. erreichen kann; dies wird Ihnen dann im Rahmen der Adress-Eingaben angezeigt. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO bzw. unser Interesse an einer möglichst reibungslosen, verzögerungsfreien und komfortablen Zustellung, Art. 6 (1) lit. f DSGVO.
 
-Für Rücksendungen von Ihnen an uns bieten wir Ihnen als freiwilligen Service (zur Vereinfachung und als Kostenersparnis) an, das Porto und das Rücksende-Label über unsere Webseite zu generieren. Zur Generierung des Labels werden Sie von unserer Webseite auf das Retourenportal der DHL weitergeleitet (selbstverständlich können Sie dies auch unmittelbar bei einem Logistikunternehmen bestellen). Um Ihnen den größtmöglichen Service zu bieten, übermitteln wir die zur Erstellung des Labels notwendigen personenbezogenen Daten Ihrer Bestellung an DHL (d.h. Belegnummer, PLZ, Name und Adresse sowie Email-Adresse). Diese Angaben sind notwendig, damit das Label richtig ausgefüllt, Ihnen per Email zum Selbstausdrucken zugeschickt und abgerechnet werden kann. Die Erleichterung für Sie besteht darin, dass Sie diese Angaben nicht gesondert eingeben müssen; wir müssen diese Angaben dafür (über ein gesichertes Formular) an DHL weiterleiten. Wir weisen Sie auf unserer Webseite vor Nutzung dieses Dienstes gesondert darauf hin. Rechtsgrundlage für die Übermittlung ist die Erbringung eines von Ihnen angefragten Services, Art. 6 (1) lit. b DSGVO.
+Für Rücksendungen von Ihnen an uns bieten wir Ihnen in einigen Lieferländern als freiwilligen Service (zur Vereinfachung und als Kostenersparnis) an, das Porto und das Rücksende-Label über unsere Webseite zu generieren. Zur Generierung des Labels werden Sie von unserer Webseite auf das Retourenportal der in diesen Lieferländern beauftragten Logistikunternehmen weitergeleitet (selbstverständlich können Sie dies auch unmittelbar bei einem Logistikunternehmen bestellen). Um Ihnen den größtmöglichen Service zu bieten, übermitteln wir die zur Erstellung des Labels notwendigen personenbezogenen Daten Ihrer Bestellung an die Logistikunternehmen (d.h. Belegnummer, PLZ, Name und Adresse sowie E-Mail-Adresse). Diese Angaben sind notwendig, damit das Label richtig ausgefüllt, Ihnen per E-Mail zum Selbstausdrucken zugeschickt und abgerechnet werden kann. Die Erleichterung für Sie besteht darin, dass Sie diese Angaben nicht gesondert eingeben müssen; wir müssen diese Angaben dafür (über ein gesichertes Formular) an die Logistikunternehmen weiterleiten. Wir weisen Sie auf unserer Webseite vor Nutzung dieses Dienstes gesondert darauf hin. Rechtsgrundlage für die Übermittlung ist die Erbringung eines von Ihnen angefragten Services, Art. 6 (1) lit. b DSGVO.
 
 Die Datenverarbeitung bei den Logistikunternehmen erfolgt dann in allen Fällen durch diese als eigene Verantwortliche.
 
@@ -913,6 +910,20 @@ Wie bereits unter Ziffer 2.7 beschrieben, werden Ihre Bewerberdaten von dem Dien
 Dies dient der Wahrung unserer und Ihrer im Rahmen einer Interessensabwägung überwiegenden berechtigten Interessen an einer optimalen und effektiven Verwaltung Ihrer Bewerbungen gemäß Art. 6 (1) lit. f DSGVO. Mithilfe des Kandidatenprofils können Sie nicht nur die Bewerbung an uns, sondern auch weitere Bewerbungen ansehen und verwalten.
 
 Weitere Informationen zu Onlyfy finden Sie [hier](https://onlyfy.com/de/datenschutz/).
+
+#### 3.2.5 Marktplätze
+
+Um unsere Produkte optimal zu vermarkten, bieten wir einen Teil unseres Sortiments auf Online-Marktplätzen (z.B. Galaxus und Amazon) zum Kauf an. Wenn Sie eine Bestellung bei uns über einen Marktplatz ausgelöst haben, verarbeiten wir ihre Bestelldaten (s. Punkt 2.2), die wir von den Marktplatzbetreibern übermittelt bekommen, zur Abwicklung der Bestellung und zur Lieferung der bestellten Waren. Außerdem verarbeiten, je nach der von Ihnen ausgewählten Zahlungsart, entweder wir oder der Marktplatzbetreiber die für die jeweilige Zahlungsart erforderlichen Zahlungsinformationen; zum Beispiel speichert der Marktplatzbetreiber Ihre Kreditkartennummer, Paypal-Kontoangaben etc., wenn Sie diese als Zahlungsmittel dort hinterlegt haben.
+
+Wenn es für die Erfüllung des Kaufvertrages erforderlich ist, können wir Ihre Kontaktdaten von den Marktplatzbetreibern erhalten, um Sie zu kontaktieren. Ihre Kontaktdaten werden dabei zu keinen anderen Zwecken verarbeitet.
+
+Zur Abwicklung der Bestellung und damit Sie durch die Marktplatzbetreiber über den Bestellstatus informiert werden können übermitteln wir zudem den Bestellstatus an die Marktplatzbetreiber.
+
+Rechtsgrundlage für die Verarbeitung ist der Abschluss und die Erfüllung des Kaufvertrags über die bestellte Ware, Art. 6 (1) lit. b DSGVO.
+
+Diese Daten werden gelöscht, wenn sie zur Vertragsdurchführung (einschließlich Kundendienst und Gewährleistung) nicht mehr erforderlich sind, es sei denn, wir sind gesetzlich zur Speicherung verpflichtet, z.B. aufgrund von handels- oder steuerrechtlichen Aufbewahrungspflichten.
+
+Die Datenverarbeitungen bei den Marktplatzanbietern erfolgen in allen Fällen durch diese als eigene Verantwortliche.
 
 ### 3.3 Datenübermittlungen in Drittländer
 
@@ -1129,9 +1140,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
+![Bergfreund Thomas - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-thomas.png) Bergfreund Thomas - Versand
 
-"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
+"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1139,11 +1150,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 44631 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43914 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.631 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.914 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -1199,13 +1210,14 @@ Kundenservice
 Über die Bergfreunde
 
 * [Über uns](https://www.bergfreunde.de/ueber-die-bergfreunde/ "Über uns - Die Bergfreunde stellen sich vor")
-* [Jobs & Praktika](https://www.bergfreunde.de/jobs/ "Wir suchen Dich! Jobs & Praktika bei Bergfreunde.de")
+* [Jobs & Praktika](https://www.bergfreunde.de/jobs/ "Wir suchen Dich! Jobs & Praktika bei Bergfreunde")
 * [Newsletter](https://www.bergfreunde.de/newsletter/ "Sicher Dir unsere exklusiven Angebote, Infos zu Produktneuheiten und Gutscheine per Mail") | [Registriere Dich jetzt](https://www.bergfreunde.de/konto-eroeffnen/)
 * [Gutscheine](https://www.bergfreunde.de/gutscheine/ "Bergfreunde.de-Gutschein - genau das richtige Geschenk")
-* [Partnerprogramm](https://www.bergfreunde.de/partnerprogramm/ "Empfehle Bergfreunde.de und verdiene mit - Infos zum Partnerprogramm")
-* [Impressum](https://www.bergfreunde.de/impressum/ "Impressum von Bergfreunde.de")
+* [Partnerprogramm](https://www.bergfreunde.de/partnerprogramm/ "Empfehle Bergfreunde und verdiene mit - Infos zum Partnerprogramm")
+* [Impressum](https://www.bergfreunde.de/impressum/ "Impressum von Bergfreunde")
 * [Hinweisgeberstelle](https://www.bergfreunde.de/hinweisgeberstelle/ "Hinweisgeberstelle bei den Bergfreunden")
 * [Nachhaltigkeit](https://www.bergfreunde.de/nachhaltigkeit/ "Nachhaltigkeit bei den Bergfreunden")
+* [Pflegewiki](https://www.bergfreunde.de/pflegewiki/ "Pflegewiki von Bergfreunde")
 
 * \* Die durchgestrichenen Preise entsprechen unseren Markteinführungspreisen der aktuellen Saison.
 * \*\* Der Gutschein gilt ab einem Mindestabnahmewert (nach Retoure) von 40 Euro. Gutscheine für die Erstellung eines Kundenkonto können nur einmal pro Person und Bestellung eingelöst werden. Der Gutschein kann nicht für bereits ausgeführte Bestellungen benutzt werden und ist nicht mit weiteren Gutscheinen kombinierbar.
