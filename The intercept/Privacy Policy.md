@@ -1,5 +1,11 @@
 [](https://theintercept.com/)
 
+[Support Us](https://join.theintercept.com/donate/now/?source=web_intercept_20230103_global-nav&referrer_url=https%3A%2F%2Ftheintercept.com%2F)
+
+[Support Us](https://join.theintercept.com/donate/now/?source=web_intercept_20230103_global-nav&referrer_url=https%3A%2F%2Ftheintercept.com%2F)
+
+[](https://theintercept.com/)
+
 Search for:  
 
 * [Politics](https://theintercept.com/politics/)
@@ -40,9 +46,15 @@ ALL RIGHTS RESERVED
 
 [Terms of Use](https://theintercept.com/terms-use/) [Privacy](https://theintercept.com/privacy-policy/)
 
-[](https://theintercept.com/)
+* [Politics](https://theintercept.com/politics/)
+* [Justice](https://theintercept.com/justice/)
+* [National Security](https://theintercept.com/national-security/)
+* [World](https://theintercept.com/world/)
+* [Technology](https://theintercept.com/technology/)
+* [Environment](https://theintercept.com/environment/)
 
-[](https://theintercept.com/)
+* [About](https://theintercept.com/about/)
+* [Support Us](https://join.theintercept.com/donate/now/?source=web_intercept_20230103_global-nav&referrer_url=https%3A%2F%2Ftheintercept.com%2F)
 
 Privacy Policy
 ==============
