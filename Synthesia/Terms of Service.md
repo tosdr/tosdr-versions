@@ -183,6 +183,10 @@ PAYMENT OBLIGATIONS
 
 For Customers that purchase our Services, the fees are specified at the Services interface “check-out” and if applicable, in the Order Form(s). Unless expressly stated otherwise, fees must be paid in advance. Payment obligations are non-cancelable and, except as expressly stated in the Contract, fees paid are non-refundable. Check out our [Help Center](https://help.synthesia.io/en/articles/6341896-billing-payments) for more information about payment options and how the pricing for an Authorized User subscription is determined. If we agree to invoice Customer by email, full payment must be received within thirty (30) days from the invoice date. Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, “**Taxes**”). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax. 
 
+### Suspension of Services
+
+If any charge owed by Customer (excluding amounts disputed in reasonable and good faith) is thirty (30) days or more overdue, we may, without limiting other rights and remedies, suspend any fee-based Services until such amounts are paid in full, provided we have given Customer ten (10) or more days’ prior notice, which we may provide to Customer’s designated billing contact via email, that its account is overdue.
+
 ### Credits
 
 Any credits that may accrue to Customer’s account (for example, from a promotion), will expire following expiration or termination of the applicable Contract, will have no currency or exchange value, and will not be transferable or refundable.
@@ -391,7 +395,7 @@ If you need assistance with Synthesia or have a question about our products or s
 Ready to try our AI video platform?
 -----------------------------------
 
-Create an account and get started using Synthesia, with full access to all 160+ avatars and 130+ languages.
+Join over 1M+ users today and start making AI videos with 160+ avatars in 130+ languages.
 
 [Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
 
