@@ -168,7 +168,7 @@ You should take steps to protect against unauthorized access to your password, p
 7\. Direct Marketing
 --------------------
 
-We may send periodic promotional emails to you. You may opt-out of promotional communications by updating your marketing preferences in your profile or by emailing us at [contact@vidIQ.com](mailto:contact@vidIQ.com) or calling us at 888-998-8434. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving promotional emails about recommendations or other information we think may interest you, we may still send you emails about your account or any services you have requested or received from us.
+We may send periodic promotional emails to you. You may opt-out of promotional communications by updating your marketing preferences in your profile or by emailing us at [contact@vidiq.com](mailto:contact@vidIQ.com) or calling us at 888-998-8434. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving promotional emails about recommendations or other information we think may interest you, we may still send you emails about your account or any services you have requested or received from us.
 
 8\. Information for California Residents
 ----------------------------------------
