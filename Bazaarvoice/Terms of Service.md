@@ -10,9 +10,7 @@
             
             Platform overview
             
-            Our HarmonyAI engine
-            
-            Our partners](https://www.bazaarvoice.com/products/)
+            Our HarmonyAI engine](https://www.bazaarvoice.com/products/)
     * [1st](#)
         * [COLLECT CONTENT](#)
             * [Sampling
@@ -64,10 +62,6 @@
                 Take the hassle out of sampling programs for retailers.](https://www.bazaarvoice.com/products/managed-sampling/)
 * [Solutions](https://www.bazaarvoice.com/solutions/)
     * [1st](#)
-        * [FOR RETAILERS](#)
-            * [Omnichannel Retail Solutions
-                
-                From seamless vendor collaboration and optimized product pages to private label success, our solutions help you achieve retail excellence.](https://www.bazaarvoice.com/solutions/retailers/)
         * [COLLECT CONTENT](#)
             * [Launch Products
                 
@@ -125,6 +119,10 @@
             * [Talk with Consumers
                 
                 Build relationships through public conversations.](https://www.bazaarvoice.com/solutions/talk-with-consumers/)
+        * [FOR RETAIL](#)
+            * [Drive Retail Growth
+                
+                Our solutions, technology, and expertise drive e-commerce growth for retailers of all sizes and industries.](https://www.bazaarvoice.com/solutions/retailers/)
 * [Industries](https://www.bazaarvoice.com/industries/)
     * [Apparel & Accessories
         
@@ -163,8 +161,8 @@
         
         Get cutting-edge insights to accelerate your success.](https://www.bazaarvoice.com/resources/)
         * [Shopper Preference Report](https://www.bazaarvoice.com/resources/shopper-preferences/)
-        * [Resources for brand managers](https://www.bazaarvoice.com/brand-builders-series/)
-        * [Resources for e-commerce managers](https://www.bazaarvoice.com/growth-gurus-series/)
+        * [Brand manager guide to UGC](https://www.bazaarvoice.com/brand-builders-series/)
+        * [E-commerce manager guide to UGC](https://www.bazaarvoice.com/growth-gurus-series/)
         * [Social media manager guide to UGC](https://www.bazaarvoice.com/resources/a-practical-guide-for-social-media-professionals-to-drive-engagement-and-commerce/)
     * [Blog
         
@@ -201,8 +199,7 @@
                 * [Influenster community](https://www.bazaarvoice.com/company/influenster-product-review-app/)
             * [Partner Program
                 
-                Tools, resources, and insights to grow your business and delight clients.](https://www.bazaarvoice.com/company/partner-program/)
-                * [Partner directory](https://www.bazaarvoice.com/partners/)
+                Tools, resources, and insights to grow your business and delight clients.](https://www.bazaarvoice.com/partners/)
                 * [Why agencies partner with us](https://www.bazaarvoice.com/agency-partners/)
             * [Trust
                 
@@ -426,7 +423,7 @@ Company
 * [Press](https://www.bazaarvoice.com/press/)
 * [Bazaarvoice Events](https://www.bazaarvoice.com/events/)
 * [Product Updates](https://www.bazaarvoice.com/updates/)
-* [Partner Program](https://www.bazaarvoice.com/company/partner-program/)
+* [Partners](https://www.bazaarvoice.com/partners/)
 * [Contact](https://www.bazaarvoice.com/contact/)
 * [Pricing](https://www.bazaarvoice.com/pricing/)
 
