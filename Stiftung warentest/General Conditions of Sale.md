@@ -566,7 +566,9 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-     ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -586,21 +588,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 * [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Fußbereich
 
@@ -2704,7 +2706,9 @@ Nächste Seite
 
 Nächste Seite
 
-     ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2724,23 +2728,25 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 * [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
-     ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2756,7 +2762,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/42/53/5b720b97-8fdd-4e4e-b954-7f9339d83632-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2780,39 +2786,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 * [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 * [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Daten­pannen bei Facebook und Co: Sichern Sie sich Ihre Chancen auf Schaden­ersatz](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Sichern Sie sich Ihre Chancen auf Schadenersatz")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Service Stiftung Warentest
 
