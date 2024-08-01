@@ -78,12 +78,11 @@ We utilize the most modern and peerless methods to maintain and secure your sens
 ### JACKPOT MULTIPLIER
 
   
-Jackpot MultiplierMultiplied winnings are available only once per player within the duration of this promotion. The amount shown in the lobby is the amount to be won at that time. You must contact customer services within 2 hours of your major jackpot win to claim the additional funds. Your account will be credited with the additional jackpot amount within four (4) days if you are qualified as per the terms and conditions the promotion itself - ie. if there is a code usage and/or time stipulation.  
-  
+Jackpot MultiplierMultiplied winnings are available only once per player within the duration of this promotion. The amount shown in the lobby is the amount to be won at that time. You must contact customer services within 2 hours of your major jackpot win to claim the additional funds. Your account will be credited with the additional jackpot amount within four (4) days if you are qualified as per the terms and conditions the promotion itself - ie. if there is a code usage and/or time stipulation.
 
 ### Country Based Restrictions
 
-Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries) to ensure your eligibility based on your country of residence and learn about potential restrictions. Your location can impact your access, bonus usage, free chip redemption, and deposit methods. Please review the details carefully and contact us directly if you need to check your account status.
+Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries) to ensure your eligibility based on your country of residence and learn about potential restrictions. Your location can impact your access, bonus usage, free chip redemption, and deposit methods. Please review the details carefully and contact us directly if you need to check your account status.
 
 ### Marketing Communications
 
@@ -141,7 +140,7 @@ Unless stated otherwise, all No Deposit Bonuses are subject to the following ter
 6. Once you have met the Wager Requirements and are able to make a withdrawal, any amount that is over the Maximum Withdrawal Limit will be removed from your balance, as you will not be able to withdraw these funds.
 7. All Terms and Conditions for No Deposit Bonuses apply until after a withdrawal has been requested and approved. No additional winnings from free bonus funds above the maximum withdrawal amount can be withdrawn, additional winnings will be considered null and void.
 8. Unless the Casino management specifically gives prior agreement, Welcome Bonuses are limited to one promotion per player, per family, per computer, per address.
-9. Players from certain countries may not cash out from free chip offers if they have not previously deposited. These players may par-take of said free chips for amusement purposes only. Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries/) to ensure your eligibility based on your country of residence and learn about potential restrictions.
+9. Players from certain countries may not cash out from free chip offers if they have not previously deposited. These players may par-take of said free chips for amusement purposes only. Please follow this link [here](https://www.thevirtualcasino.com/allowed-countries/) to ensure your eligibility based on your country of residence and learn about potential restrictions.  
 10. The Casino reserves the right to cancel or refuse any promotional offer at any time.
 11. The Player's account balance must be $5 or less in order to claim any promotion other than a deposit bonus.
 12. In the cases where a promotion or a free bonus is open for use on different games, the highest wagering requirement (out of all the games that were played), will be applied in order to meet the wagering requirements before cashing out.
