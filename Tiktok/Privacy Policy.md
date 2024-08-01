@@ -1,4 +1,4 @@
-[![TikTok](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)](https://www.tiktok.com/ "TikTok")
+[![TikTok](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")
 
 EEA/UK/CH
 
@@ -335,7 +335,7 @@ You can also contact us at the following postal address.
 * **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland.
 * **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
 
-[![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logotext-969cd3ed892da756e59b-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
+[![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-339cf5cabd5eac712073549cfb4134eb419f1064.svg)![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logotext-969cd3ed892da756e59b-339cf5cabd5eac712073549cfb4134eb419f1064.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
 
 #### Company
 
