@@ -406,7 +406,7 @@ Exclusive Perks:
 * Special access and priority response time from our Priority Customer Experience Team
 * Pause or cancel anytime
 
-![icon](//www.trulybeauty.com/cdn/shop/t/624/assets/close_icon.png?v=92615843721948701681721898451)
+![icon](//www.trulybeauty.com/cdn/shop/t/628/assets/close_icon.png?v=92615843721948701681722407589)
 
 Search
 
