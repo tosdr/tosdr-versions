@@ -1,8 +1,9 @@
 Otevřít menu
 
 1. [![Seznam.cz](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/logo.svg)](https://o.seznam.cz/)
-2. [Právní informace](https://o-seznam.cz/pravni-informace/)
-3. Ochrana osobních údajů
+2. …
+3. [Právní informace](https://o-seznam.cz/pravni-informace/)
+4. Ochrana osobních údajů
 
 Zásady ochrany osobních údajů
 =============================
