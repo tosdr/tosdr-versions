@@ -4,9 +4,9 @@ Terms and Conditions of Use
 Legal information
 -----------------
 
-This page was last updated in June 2022, and replaces all previous versions. Vanguard may update this page at any time for legal or regulatory reasons, or to reflect changes in our services or practices.
+This page was last updated in July 2024, and replaces all previous versions. Vanguard may update this page at any time for legal or regulatory reasons, or to reflect changes in our services or practices.
 
-[View the latest Vanguard Client Terms](https://intl.assets.vgdynamic.info/intl/ukpi/documents/legal/terms-conditions.pdf). 
+You can [find the latest Vanguard Client Terms on our Investment Information page](https://www.vanguardinvestor.co.uk/investment-information "The latest Vanguard Client Terms on our Investment Information page").
 
 ### Use of this website
 
