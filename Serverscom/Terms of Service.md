@@ -5,13 +5,6 @@
 
  [![servers.com](/dA/3c348bb3d8/logo.svg) ![servers.com](/dA/399d4eb149/logo-white.svg)](https://www.servers.com/)
 
-* Industries
-    * [Web3](https://www.servers.com/industries/web3)
-    * [Gaming](https://www.servers.com/industries/gaming)
-    * [Adtech](https://www.servers.com/industries/adtech)
-    * [Streaming](https://www.servers.com/industries/streaming)
-    * [iGaming](https://www.servers.com/industries/igaming)
-    * [Fintech](https://www.servers.com/industries/fintech)
 * Why servers.com
     
     * [Network](#network-tab)
@@ -23,24 +16,24 @@
     * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     
     * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+    * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
     * [GoNET](https://www.servers.com/about/customer-stories/gonet)
-    * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
     
+    * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
     * [FxGrow](https://www.servers.com/about/customer-stories/fxgrow)
     * [Nitrado](https://www.servers.com/about/customer-stories/nitrado)
-    * [Vizor Games](https://www.servers.com/about/customer-stories/vizor-games)
     
+    * [Vizor Games](https://www.servers.com/about/customer-stories/vizor-games)
     * [Virtuozzo](https://www.servers.com/about/customer-stories/virtuozzo)
     * [Shockbyte](https://www.servers.com/about/customer-stories/helping-shockbyte-empower-gaming-communities-with-uninterrupted-play)
-    * [Bware Labs](https://www.servers.com/about/customer-stories/partnering-with-bware-labs-to-enable-a-multichain-future)
     
+    * [Bware Labs](https://www.servers.com/about/customer-stories/partnering-with-bware-labs-to-enable-a-multichain-future)
     * [Indifferent Broccoli](https://www.servers.com/about/customer-stories/connecting-indifferent-broccoli-s-gamers-to-their-own-private-worlds-at-the-click-of-a-button)
     * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
-    * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
     
+    * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
     * [MGID](https://www.servers.com/about/customer-stories/mgid)
     * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
-    * [Ceeblue](https://www.servers.com/about/customer-stories/working-with-ceeblue-servers-com)
     
     * North America
     * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
@@ -62,6 +55,7 @@
         * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     * [Customer Stories](#customer-stories-child)
         * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+        * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
         * [GoNET](https://www.servers.com/about/customer-stories/gonet)
         * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
         * [FxGrow](https://www.servers.com/about/customer-stories/fxgrow)
@@ -75,7 +69,6 @@
         * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
         * [MGID](https://www.servers.com/about/customer-stories/mgid)
         * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
-        * [Ceeblue](https://www.servers.com/about/customer-stories/working-with-ceeblue-servers-com)
     * [Data center locations](#data-center-locations-child)
         * North America
         * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
@@ -89,6 +82,13 @@
         * [London](https://www.servers.com/about/data-center-locations/london)
         * [Luxembourg](https://www.servers.com/about/data-center-locations/luxembourg)
     
+* Industries
+    * [Streaming](https://www.servers.com/industries/streaming)
+    * [Web3](https://www.servers.com/industries/web3)
+    * [Gaming](https://www.servers.com/industries/gaming)
+    * [Adtech](https://www.servers.com/industries/adtech)
+    * [iGaming](https://www.servers.com/industries/igaming)
+    * [Fintech](https://www.servers.com/industries/fintech)
 * News
     * [Blog](https://www.servers.com/news/blog/)
     * [Whitepapers](https://www.servers.com/news/whitepapers/)
@@ -152,10 +152,10 @@ Do you have a specific project, need to make changes to a specific configuration
 
 ##### Industries
 
+* [Streaming](https://www.servers.com/industries/streaming)
 * [Web3](https://www.servers.com/industries/web3)
 * [Gaming](https://www.servers.com/industries/gaming)
 * [Adtech](https://www.servers.com/industries/adtech)
-* [Streaming](https://www.servers.com/industries/streaming)
 * [iGaming](https://www.servers.com/industries/igaming)
 * [Fintech](https://www.servers.com/industries/fintech)
 
