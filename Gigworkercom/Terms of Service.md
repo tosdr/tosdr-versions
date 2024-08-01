@@ -21,11 +21,11 @@
     
     How it Works
     
-    [How it Works](https://www.gigworker.com/start-here#how-it-works)[Why Choose Us?](https://www.gigworker.com/start-here#why-choose-us)[How to Outsource](https://community.gigworker.com/courses/outsourcing/)
+    [How it Works](https://www.gigworker.com/start-here#how-it-works)[Why Choose Us?](https://www.gigworker.com/start-here#why-choose-us)[How to Outsource](https://community.gigworker.com/courses/outsourcing/)[Pricing](#)
     
     Submit a Listing
     
-    [Free Job](https://gigworker.com/submit/post-a-job)[Featured Job](https://gigworker.com/submit/post-a-premium-job)
+    [Free Job](#)[Featured Job](#)[Freelancer Profile](#)[Outsourcing Company](#)
     
 * Find a Gig
     
