@@ -7,7 +7,6 @@ TherapyDave - Dave Lechnyr, LCSW
 
 Individual Therapy & Couples Counseling in Eugene, Oregon
 
-* [Home](https://therapydave.com/)
 * [About](https://therapydave.com/about-eugene-psychotherapist/)
 * [Eugene, Oregon](https://therapydave.com/therapist-eugene-oregon/)
 * [Services](https://therapydave.com/eugene-therapist-services/)
@@ -15,9 +14,8 @@ Individual Therapy & Couples Counseling in Eugene, Oregon
     * [Discernment Counseling](https://therapydave.com/discernment-counseling/)
     * [Toxic Relationship Recovery](https://therapydave.com/toxic-relationship-recovery/)
     * [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
-* [Rates](https://therapydave.com/rates-insurance/)
+* [FAQ](https://therapydave.com/psychotherapist-faqs/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
-* [Contact](https://therapydave.com/contact/)
 * [Request Appointment](https://therapydave.com/therapist-appointments/)
 
 You are here: [Home](https://therapydave.com/) / Privacy Policy
