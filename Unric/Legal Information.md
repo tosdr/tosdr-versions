@@ -157,6 +157,14 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
+  [![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/blue-heart-small-100x70.jpg)](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
+
+### [Child trafficking in Belgium claims around hundred victims per year](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
+
+29/07/2024
+
  [![Jacob Werksman (left), Principal Advisor at the Directorate General for Climate Action of the European Commission and Alchin Rafiyev (right), Deputy Foreign Minister of Azerbaijan and Chief Negotiator for COP29, in Brussels on 10 July 2024. © UNRIC.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/COP29-brussels-event-10jul24-100x70.jpg)](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
 
 ### [COP29 in Azerbaijan to be a “Truce COP”](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
@@ -181,17 +189,11 @@ The information will be used internally only for web site traffic analysis. If t
 
 21/06/2024
 
- [![We Are Guardians screening](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/LUMIERE-GUARDIANS-01-100x70.jpg)](https://unric.org/en/protecting-the-amazon-un-cinema-screening-of-we-are-guardians/ "Protecting the Amazon: UN Cinema screening of “We Are Guardians”")
-
-### [Protecting the Amazon: UN Cinema screening of “We Are Guardians”](https://unric.org/en/protecting-the-amazon-un-cinema-screening-of-we-are-guardians/ "Protecting the Amazon: UN Cinema screening of “We Are Guardians”")
-
-21/06/2024
-
 [Load more](#)
 
 #### Publications
 
-* [July 2024](https://unric.org/en/2024/07/) (23)
+* [July 2024](https://unric.org/en/2024/07/) (25)
 * [June 2024](https://unric.org/en/2024/06/) (34)
 * [May 2024](https://unric.org/en/2024/05/) (26)
 * [April 2024](https://unric.org/en/2024/04/) (34)
