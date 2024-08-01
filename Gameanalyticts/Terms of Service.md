@@ -1,6 +1,6 @@
-💰 \[Webinar\] Exploring monetization success: Data-driven strategies for game developers
+📈\[NEW\] Export your game data to Google Cloud Storage to build your custom data warehouse
 
-[RSVP here](https://www.linkedin.com/events/7234626431257899009/)
+[Learn more](https://gameanalytics.com/datasuite/raw-export/)
 
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
