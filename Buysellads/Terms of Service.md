@@ -19,22 +19,19 @@ Resource
 
 * [Business
     
-    Axios, Reuters, Morning Brew](https://discover.buysellads.com/business)
+    Axios, Smartnews, Futurism](https://discover.buysellads.com/business)
 * [Consumer
     
-    Glow, theSkimm, Firefox](https://discover.buysellads.com/consumer)
+    Glow, Fantasy Life, Firefox](https://discover.buysellads.com/consumer)
 * [Crypto
     
-    Brave, CoinMarketCap, Milk Road](https://discover.buysellads.com/cryptocurrency)
-* [Technology
-    
-    Indie Hackers, Tech Brew, AI Newsletters](https://discover.buysellads.com/technology)
+    Brave, Coingecko, Whattomine](https://discover.buysellads.com/cryptocurrency)
 * [Design
     
-    Smashing Magazine, Codrops, Dribbble](https://discover.buysellads.com/designer)
+    Smashing Magazine, Vecteezy, Dribbble](https://discover.buysellads.com/designer)
 * [Developers
     
-    Mozilla Developer Network, CodePen, Carbon Ads](https://discover.buysellads.com/developer)
+    CodePen, CSS-Tricks, Carbon Ads](https://discover.buysellads.com/developer)
 * [All
     
     View all featured publishers](https://discover.buysellads.com/)
