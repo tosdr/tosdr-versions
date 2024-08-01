@@ -177,8 +177,8 @@ Contact Us
 In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please [contact us](https://about.webcatalog.io/help/).
 
 **WebCatalog, Inc.**  
-2261 Market St  
-Ste 10869  
+2261 Market Street  
+Suite 10869  
 San Francisco, CA 94114, USA
 
 Explore
