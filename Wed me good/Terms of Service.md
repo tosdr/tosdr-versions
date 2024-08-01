@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Dr Aparna and Dr Rohit ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Dr Aparna and Dr Rohit ](https://image.wedmegood.com/resized/250X/uploads/images/b7ee3b2b045a46369082504859c48613realwedding/Image-322Large.jpeg?crop=166,50,1013,569)
+
+Dr Aparna and Dr Rohit (Mussoorie)](https://www.wedmegood.com/real_wedding/detail/dr-aparna-and-dr-rohit-mussoorie-cross-culture-wedding-4354)
+
 [![Anuroopa & Vishal](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Anuroopa & Vishal](https://image.wedmegood.com/resized/250X/uploads/images/a53c734198844153a239d66de98b1975realwedding/0054DSC05966.jpg?crop=204,1637,1633,918)
 
 Anuroopa & Vishal (Jodhpur)](https://www.wedmegood.com/real_wedding/detail/anuroopa-vishal-jodhpur-cross-culture-wedding-4350)
-
-[![Pragna and Sahil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Pragna and Sahil](https://image.wedmegood.com/resized/250X/uploads/images/50d55a07847f49d5b833dccab372ad2crealwedding/IMG-20240621-WA0044.jpg?crop=178,192,1269,713)
-
-Pragna and Sahil (Thailand)](https://www.wedmegood.com/real_wedding/detail/pragna-and-sahil-thailand-cross-culture-wedding-4349)
 
 Browse by Category
 
