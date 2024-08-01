@@ -160,7 +160,7 @@ Show More > Show Less <
 
 How our Members… [Make Money Online](https://www.swagbucks.com/earn-money-online) | [Get Free Gift Cards](https://www.swagbucks.com/free-gift-cards) | [Use Money From Swagbucks](https://www.swagbucks.com/make-money-free-online) | [Work at Home](https://www.swagbucks.com/work-at-home-online-jobs) | [Get Paid Online](https://www.swagbucks.com/get-paid-online) | [Best Paid Surveys](https://www.swagbucks.com/best-paid-surveys)
 
-![Prodege](//static.prdg.io/dist-non-modules/content/shared/images/prodege-logo.a89abc252ad78bda8358.png)
+![Prodege](//static.prdg.io/dist-non-modules/content/shared/images/prodege-logo.8fa37e9a2866a1308cb5.png)
 
 Copyright © 2024 Prodege, LLC
 
