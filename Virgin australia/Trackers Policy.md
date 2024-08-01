@@ -13,7 +13,6 @@ disabled Mode
     * [Hire a car](https://www.virginaustralia.com/au/car-hire/)
     * [Travel insurance](https://covermore.virginaustralia.com/)
     * [Pride Flight](https://www.virginaustralia.com/au/en/book/pride-flight/)
-    * [Middle Seat Lottery](https://www.virginaustralia.com/au/en/book/middle-seat-lottery/)
     * [Activities](https://www.virginaustralia.com/au/en/experiences/en?&icmpid=va:aem:aem_nav:exp_lnk:ao:na)
     
     Flight specials
