@@ -202,7 +202,7 @@ Please send any question regarding our privacy policy: ZAP-Hosting GmbH, Datensc
 Create ticket via mail
 
 average response time:  
-**2 Hour(s)**
+**32 Sec.**
 
 Your name (optional) 
 
@@ -298,7 +298,7 @@ Legal
 All gamecontent and trademarks are the property of their respective owners - all rights reserved  
 Copyright 2010 - 2024 [ZAP-Hosting.com](#). Alle Rechte vorbehalten.
 
-ZAP-Hosting GmbH & Co KG - Hafenweg 8 - 48155 Münster  
+ZAP-Hosting GmbH - Hafenweg 8 - 48155 Münster  
 Alle Preise inkl. gesetzl. MwSt. des jeweiligen EU-Landes  
 USt.-ID: DE 320366231
 
