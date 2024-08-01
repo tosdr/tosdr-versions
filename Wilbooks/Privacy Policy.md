@@ -122,7 +122,7 @@ Fax: 610-436-6288
 
 Our Customers Say...
 
-Many of my students are ELS students and they absolutely "hunger" for new information and have a strong desire to learn. These books are ideal and favorites with my students. They are the perfect size both physically to hold and also in text. Thank you for considering my application and sending me these books. They are a great addition to our classroom library! L. D., Second Grade Teacher
+For the price of one book from other book sellers, I can get 4 or 5 books from you that are equally as terrific. I highly recommend your books!
 
 [Read More »](https://www.wilbooks.com/testimonials)
 
