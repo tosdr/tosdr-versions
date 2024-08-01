@@ -45,11 +45,11 @@ IF YOU DO NOT AGREE TO THIS POLICY DO NOT USE SPOKEO.COM
 
 a) Spokeo collects publicly available information for the purpose of making it available to individuals, businesses, and government agencies that use Spokeo’s products and services, including the Spokeo.com people search. Spokeo aggregates the following eight categories of publicly available information:
 
-(i) Consumer Indexes - Records of consumer profiles detailing age, name, address and other demographic details disclosed by consumers to third party survey companies without restriction;
+(i) Consumer Indexes - Records of consumer profiles detailing age, name, address and other demographic details drawn from marketing databases;
 
 (ii) Phone Directories - Phone numbers drawn from white pages telephone directories;
 
-(iii) Email Databases - Email addresses disclosed by consumers to third party survey companies without restriction;
+(iii) Email Databases - Email addresses linked to marketing demographic data;
 
 (iv) Property Records - Public property records from government offices around the country, including real estate deeds and assessor records;
 
@@ -57,7 +57,7 @@ a) Spokeo collects publicly available information for the purpose of making it a
 
 (vi) Court Records - Public criminal records from government offices across the U.S. Contains arrest and most wanted warrants, driving violations, sex offender data and fugitive records;
 
-(vii) Business Directories - Business listings pulled from the yellow pages telephone directories and other public business directories. These listings include name, title, business address, website and email; and
+(vii) Business Directories - Business listings pulled from the yellow pages telephone directories and other business directories. These listings include name, title, business address, website and email; and
 
 (viii) Vital Statistics - Public records about life events documented by the government, including birth certificates, marriage licenses and death certificates.
 
@@ -159,7 +159,7 @@ f) Notice to California Residents:
 
 When such requests with respect to Personal Information are submitted in accordance with the instructions in Section 6c) above, such requests take effect in real time following completion of the request submittal.
 
-Since January 1, 2023, Spokeo has regarded Public Information as “publicly available information” as defined in the California Privacy Rights Act. Nevertheless, as Spokeo has voluntarily done for many years, Spokeo continues to accommodate requests to remove Public Information. Please refer to Section 1e) above for instructions and information about submitting such requests. From January 1, 2023 to December 31, 2023, Spokeo received 687,774 requests to opt-out Public Information (which, again constitutes “publicly available information” as defined in the California Privacy Rights Act), complied in whole or in part with 656,020 of such requests, and denied 31,754 of such requests in whole or in part. When such requests are submitted in accordance with the instructions in Section 1e) above, the Remove A Public Listing tool removes Public Information in real time following completion of the request submittal.
+Since January 1, 2023, Spokeo has regarded Public Information as “publicly available information” as defined in the California Privacy Rights Act. Nevertheless, as Spokeo has voluntarily done for many years, Spokeo continues to accommodate requests to remove Public Information. Please refer to Section 1e) above for instructions and information about submitting such requests. When such requests are submitted in accordance with the instructions in Section 1e) above, the Remove A Public Listing tool removes Public Information in real time following completion of the request submittal.
 
 **7\. Specific Clauses for EU Data Subjects**
 
@@ -181,7 +181,7 @@ d) If Spokeo is processing Your Personal Information based upon the lawful groun
 
 e) If You are an EU data subject and have inquiries about Your Personal Information, please contact Spokeo’s Data Protection Officer at [privacy@spokeo.com](mailto:privacy@spokeo.com).
 
-_Last Revised: July 25th, 2024_
+_Last Revised: July 17th, 2024_
 
 [Email Lookup](https://www.spokeo.com/email-search)
 
