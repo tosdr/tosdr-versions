@@ -1,76 +1,11 @@
 ×Close
 
-You're using an unsupported web browser. Some features may not work correctly. Please check out our [list of supported browsers](https://www.arcgames.com/en/about/supported-browsers) for the best experience. [Dismiss](#~)
-
-* [](https://payment.arcgames.com/en/bodega/cart)
-* **0**
-* [Sign in](https://www.arcgames.com/en/sign/in) or [Register](https://www.arcgames.com/en/sign/up)
-    
-    Verify Your Credentials
-    -----------------------
-    
-    ![](https://pwimages-a.akamaihd.net/arcportal_static/images/web-defender/arc-defender.png)
-    
-    ### Arc Defender
-    
-    Looks like you are logging in with a new computer or browser. For your security, please verify your account prior to logging in. We have emailed you a pin to verify you are the owner of this account.
-    
-    Please enter the pin we emailed you above
-    
-    [Submit My Pin](#~)
-    
-    [Where is My Pin?](#~)
-    
-    [What is this and why am I seeing it?](https://support.arcgames.com/hc/en-us/articles/360017620234)
-    
-    [Cancel](#~)
-    
-    Account Verification Successful
-    -------------------------------
-    
-    ![](https://pwimages-a.akamaihd.net/arcportal_static/images/web-defender/arc-defender.png)
-    
-    ### Arc Defender
-    
-    Great! We have verified that you have appropriate access to this account.
-    
-    [Continue to Arcgames](#~)
-    
-    [What is this and why am I seeing it?](https://support.arcgames.com/hc/en-us/articles/360017620234)
-    
-* [English _down_](#)
-    
-    [English](https://www.arcgames.com/en/about/cookie)
-    
-    [Deutsch](https://www.arcgames.com/de/about/cookie)
-    
-    [Français](https://www.arcgames.com/fr/about/cookie)
-    
-    [Pусский](https://www.arcgames.com/ru/about/cookie)
-    
-    [Italiano](https://www.arcgames.com/it/about/cookie)
-    
-    [Español](https://www.arcgames.com/es/about/cookie)
-    
-* [Install Arc](https://www.arcgames.com/en/about/client)
-
-[arc logo](https://www.arcgames.com/en/games)
-
-[](#)
-
-* [GAMES](https://www.arcgames.com/en/games)
-* [FORUMS](https://www.arcgames.com/en/social/forum)
-* [ARC NEWS](https://www.arcgames.com/en/arc-news)
-* [SUPPORT](https://www.arcgames.com/en/supportredirect/app/home/)
-
-Your Torchlight product key has been emailed to your Arc registered email address, you can redeem this key in game. [Dismiss](#~)
-
 Cookie Policy
 =============
 
 **Cookie Policy**
 
-This Cookie Policy provides information on how Arc Games Inc. and Arc Games B.V. (collectively “Arc Games”, “we”, “us”, or “our”) use cookies on our websites located at [www.arcgames.com](https://www.arcgames.com/), [www.torchlight1.com](https://www.torchlight1.com/), [www.torchlight2.com](https://www.torchlight2.com/), [www.torchlight3.com](https://www.torchlight3.com/), [www.haveanicedeath.com](https://www.haveanicedeath.com/), [www.hyperlightbreaker.com](https://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.playpwi.com](https://www.playpwi.com/), [www.gogigantic.com](https://www.gogigantic.com/), and [www.remnantgame.com](https://www.remnantgame.com/) and any micro-site or subdomains of such sites (collectively, the “Website” or our “site”). We encourage you to read the policy in full so that you can understand what information we collect using cookies and how that information is used.
+This Cookie Policy provides information on how Arc Games Inc. and Arc Games B.V. (collectively “Arc Games”, “we”, “us”, or “our”) use cookies on our websites located at [www.arcgames.com](https://www.arcgames.com/), [www.torchlight1.com](https://www.torchlight1.com/), [www.torchlight2.com](https://www.torchlight2.com/), [www.torchlight3.com](https://www.torchlight3.com/), [www.haveanicedeath.com](https://www.haveanicedeath.com/), [www.hyperlightbreaker.com](https://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.playpwi.com](https://www.playpwi.com/), [www.gogigantic.com](https://www.gogigantic.com/), [www.remnantgame.com](http://www.remnantgame.com/), and [www.playfellowship.com](http://www.playfellowship.com/) and any micro-site or subdomains of such sites (collectively, the “Website” or our “site”). We encourage you to read the policy in full so that you can understand what information we collect using cookies and how that information is used.
 
 To the extent that any personal information is collected through cookies, our [Privacy Policy](https://www.arcgames.com/en/about/privacy) applies and complements this Cookie Policy.
 
@@ -134,7 +69,7 @@ Information about the cookies used by us may be updated from time to time, so pl
 
 If you have any questions about this Cookie Policy, please contact us by email at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
-Last updated: May 30, 2024.
+Last modified: April 29, 2024
 
 [](https://www.arcgames.com/en/)
 
