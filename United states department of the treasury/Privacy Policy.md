@@ -437,7 +437,7 @@ MENU MENU
     
     [Where is my Refund?](https://www.irs.gov/refunds)
     
-    [Lost or Expired Check](https://fiscal.treasury.gov/pfc/i-want-to.html)
+    [Lost or Expired Check](https://fiscal.treasury.gov/pirs/i-want-to.html)
     
     [Direct Express Card](https://www.fiscal.treasury.gov/fsservices/indiv/pmt/dirExpss/dirExpss_home.htm)
     
@@ -557,22 +557,26 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    July 26, 2024
+    July 31, 2024
     
-    [Joint Statement on the Brazil Fazenda – U.S. Treasury Climate Partnership](https://home.treasury.gov/news/press-releases/jy2496)
+    [Treasury Releases Airline Warrant Auction Detailed Results](https://home.treasury.gov/news/press-releases/jy2516)
     
-    July 25, 2024
+    July 31, 2024
     
-    [Treasury Targets Guatemalan Human Smuggling Organization for Illegal Transport of Migrants to the United States](https://home.treasury.gov/news/press-releases/jy2490)
+    [Treasury Targets Houthi Weapons Procurement Networks](https://home.treasury.gov/news/press-releases/jy2515)
     
-    July 25, 2024
+    July 31, 2024
     
-    [Treasury Sanctions Rebel Alliance Driving Instability in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/jy2489)
+    [Minutes of the Meeting of the Treasury Borrowing Advisory Committee July 30, 2024](https://home.treasury.gov/news/press-releases/jy2514)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    July 30, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen on Pennsylvania Joining IRS Direct File](https://home.treasury.gov/news/press-releases/jy2507)
     
     July 27, 2024
     
@@ -581,10 +585,6 @@ MENU MENU
     July 27, 2024
     
     [Secretary of the Treasury Janet L. Yellen Announces the Amazon Region Initiative Against Illicit Finance to Combat Nature Crimes](https://home.treasury.gov/news/press-releases/jy2503)
-    
-    July 27, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen Announcing the Amazon Region Initiative Against Illicit Finance in Belém, Brazil](https://home.treasury.gov/news/press-releases/jy2502)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
