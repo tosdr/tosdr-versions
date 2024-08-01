@@ -32,3 +32,7 @@ Please note that the games cataloged on IFDB are not themselves within the scope
 We hope that these terms are fair, reasonable, and easy to understand, but if you have any questions, please feel free to [contact us](https://ifdb.org/contact).
 
 [IFDB Home](https://ifdb.org/) | [Contact Us](https://ifdb.org/contact) | [Code of Conduct](https://ifdb.org/code-of-conduct) | [Terms of Service](https://ifdb.org/tos) | [Privacy](https://ifdb.org/privacy) | [Copyrights & Trademarks](https://ifdb.org/copyright)
+
+[![Interactive Fiction technology Foundation](/img/iftf-logo.svg)](http://iftechfoundation.org/)
+
+IFDB is managed by the [Interactive Fiction Technology Foundation](http://iftechfoundation.org/). It is funded by [the donations of IF supporters like you](http://iftechfoundation.org/give/). All donations go to support the operation of this web site and IFTF's other services.
