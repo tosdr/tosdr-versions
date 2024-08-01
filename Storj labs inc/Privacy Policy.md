@@ -1,4 +1,4 @@
-[Storj and Valdi join forces – Adding on-demand GPU’s to the distributed cloud. C](https://www.prnewswire.com/news-releases/storj-acquires-leading-ai-compute-provider-valdi-302192158.html)[Learn more C](https://www.prnewswire.com/news-releases/storj-acquires-leading-ai-compute-provider-valdi-302192158.html)
+[Storj is now Veeam Ready – Empowering Veeam users with the distributed cloud. C](https://www.prnewswire.com/news-releases/storj-achieves-veeam-ready-object-status-302211048.html?utm_campaign=FY24%20Backup%20and%20Recovery&utm_content=302335361&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3839986)[Learn more C](https://www.prnewswire.com/news-releases/storj-achieves-veeam-ready-object-status-302211048.html?utm_campaign=FY24%20Backup%20and%20Recovery&utm_content=302335361&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3839986)
 
 [Skip to main content](#)
 
@@ -36,7 +36,7 @@ Resource center](https://www.storj.io/resource-center)[1
 
 Blog](https://www.storj.io/blog)[H
 
-Integrations](https://www.storj.io/integrations)[e
+Integrations](https://www.storj.io/partner/library)[e
 
 Docs](http://docs.storj.io/)
 
@@ -368,7 +368,7 @@ If you wish to contact us or have any questions about, or complaints in relation
 
 Product
 
-[Pricing](https://www.storj.io/pricing)[Integrations](https://www.storj.io/integrations)[Evaluate Storj](https://www.storj.io/evaluate)[Performance](https://www.storj.io/benefits/performance)[Security](https://www.storj.io/benefits/security)[S3 compatibility](https://www.storj.io/benefits/s3-compatibility)[Sustainability](https://www.storj.io/benefits/sustainability)
+[Pricing](https://www.storj.io/pricing)[Integrations](https://www.storj.io/partner/library)[Evaluate Storj](https://www.storj.io/evaluate)[Performance](https://www.storj.io/benefits/performance)[Security](https://www.storj.io/benefits/security)[S3 compatibility](https://www.storj.io/benefits/s3-compatibility)[Sustainability](https://www.storj.io/benefits/sustainability)
 
 **Company**
 
