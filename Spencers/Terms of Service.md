@@ -15,7 +15,7 @@ Toggle Nav
 My Cart Cart ()
 ---------------
 
-![](https://www.spencers.in/static/version1720339608/frontend/Embitel/spencers/en_US/images/cart_not_registered.png)
+![](https://www.spencers.in/static/version1722464100/frontend/Embitel/spencers/en_US/images/cart_not_registered.png)
 
 Its time to start Shopping!
 
@@ -24,7 +24,7 @@ Its time to start Shopping!
 My Account
 ----------
 
-![product image](https://www.spencers.in/static/version1720339608/frontend/Embitel/spencers/en_US/images/not_registered_door.png)
+![product image](https://www.spencers.in/static/version1722464100/frontend/Embitel/spencers/en_US/images/not_registered_door.png)
 
 Not logged in or registered yet?  
 Join over 2,000 customers @Spencer's
@@ -71,17 +71,17 @@ I'm looking for
 
 [oil](https://www.spencers.in/catalogsearch/result/?q=oil)
 
+[chocolates](https://www.spencers.in/catalogsearch/result/?q=chocolates)
+
 [sugar](https://www.spencers.in/catalogsearch/result/?q=sugar)
+
+[other dry fruits](https://www.spencers.in/catalogsearch/result/?q=other%20dry%20fruits)
 
 [other fresh fruits](https://www.spencers.in/catalogsearch/result/?q=other%20fresh%20fruits)
 
-[Whiskey](https://www.spencers.in/catalogsearch/result/?q=Whiskey)
+[fruit vinegar gel hair color natural black dye care 500ml x 2](https://www.spencers.in/catalogsearch/result/?q=fruit%20vinegar%20gel%20hair%20color%20natural%20black%20dye%20care%20500ml%20x%202)
 
-[Wine](https://www.spencers.in/catalogsearch/result/?q=Wine)
-
-[beer](https://www.spencers.in/catalogsearch/result/?q=beer)
-
-[Potato](https://www.spencers.in/catalogsearch/result/?q=Potato)
+[100%](https://www.spencers.in/catalogsearch/result/?q=100%)
 
 x
 
@@ -89,7 +89,7 @@ Go
 
 * [Spencer Retail Limited, , Quest Mall Syed Amir Ali Avenue,Gate No 3,](https://www.spencers.in/storelocator/)
 * [Logout](https://www.spencers.in/customer/account/logout/)
-*  [![Location](https://www.spencers.in/static/version1720339608/frontend/Embitel/spencers/en_US/images/profile_img1.png) My Account](https://www.spencers.in/customer/account/)[Log In](javascript:void(0))
+*  [![Location](https://www.spencers.in/static/version1722464100/frontend/Embitel/spencers/en_US/images/profile_img1.png) My Account](https://www.spencers.in/customer/account/)[Log In](javascript:void(0))
 
 * [![](https://spencers.in/media/catalog/category/20112023_icon_grocery.png)
     
@@ -959,7 +959,7 @@ Categories   
 * [Login](javascript:void(0))
 * [Sign Up](javascript:void(0))
 
-![Spencer's Login](https://www.spencers.in/static/version1720339608/frontend/Embitel/spencers/en_US/Mageplaza_SocialLogin/images/middle_image.jpg)
+![Spencer's Login](https://www.spencers.in/static/version1722464100/frontend/Embitel/spencers/en_US/Mageplaza_SocialLogin/images/middle_image.jpg)
 
 Login
 -----
