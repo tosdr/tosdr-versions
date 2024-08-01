@@ -4,7 +4,7 @@
     [Features](https://www.singup.org/features "Features") [Teaching ages 4 - 11](https://www.singup.org/features/teaching-ages-4-11 "Teaching ages 4 - 11") [Teaching ages 11 - 18](https://www.singup.org/features/teaching-ages-11-18 "Teaching ages 11 - 18") [Teaching ages 4 - 18](https://www.singup.org/features/teaching-ages-4-18 "Teaching ages 4 - 18") [Hubs & Partners](https://www.singup.org/features/partners "Hubs & Partners")
     
 * [Free resources](https://www.singup.org/free-resources "Free resources")
-* [Sing Up Day](https://www.singup.org/sing-up-day "Sing Up Day")
+* [Training](https://www.singup.org/training "Training")
 * [Blog](https://www.singup.org/blog "Blog")
 * [Work with us](https://www.singup.org/work-with-us "Work with us")
 * [Shop](https://shop.singup.org/ "Shop")
