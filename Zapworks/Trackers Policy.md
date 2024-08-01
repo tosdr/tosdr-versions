@@ -4,7 +4,7 @@
 * [Blog](https://www.zappar.com/insights/)
 * [Contact Us](https://zap.works/contact/)
 
-[](https://zap.works/)
+[](https://zap.works/ "Zapworks Homepage button link")
 
 * Create
     
@@ -137,10 +137,11 @@ Resources
 
 [Free trial](https://my.zap.works/register/?next=/account/add/business/)
 
+  
 Cookie Notice: Zapworks
-=======================
+==========================
 
-Last updated: **16 May** **2024**
+Last updated: **22nd July 2024**
 
 ### **Purpose of this notice**
 
@@ -162,36 +163,47 @@ For convenience, we use the term cookies in this notice as a collective term to 
 
 ### **Basic types of cookies used**
 
-The types of cookies used by the Services fall into the following general categories:
+The types of cookies used by the Services fall into the following general categories:  
+ 
 
-**Essential:** also referred to as being “strictly necessary”, these cookies are essential to the operation of the Services, supporting functions such as logging in, security, shopping baskets and payment transactions.
+**Essential:** also referred to as being “strictly necessary”, these cookies are essential to the operation of the Services, supporting functions such as logging in, security, shopping baskets and payment transactions.  
+ 
 
-**Non-essential:** these cookies are not essential to the operation of the Services, e.g. analytics and advertising cookies and all third party cookies.
-
+**Non-essential:** these cookies are not essential to the operation of the Services, e.g. analytics and advertising cookies and all third party cookies.  
+  
 **First party cookies:** first party cookies are those placed directly on your Device by Zappar via the Services and are used only by Zappar. 
 
-**Third party cookies:** third party cookies are those placed by online services, websites and/or companies other than Zappar. These cookies may continue to track you after you have left the Services.
+  
+**Third party cookies:** third party cookies are those placed by online services, websites and/or companies other than Zappar. These cookies may continue to track you after you have left the Services.  
+ 
 
-**Session cookies:** session cookies are temporary and only remain on a Device from the point at which the user visits or accesses the Services until they close their browser. Session cookies are deleted when the browser is closed.
+**Session cookies:** session cookies are temporary and only remain on a Device from the point at which the user visits or accesses the Services until they close their browser. Session cookies are deleted when the browser is closed.  
+ 
 
-**Persistent cookies:** persistent cookies remain on a Device for a predetermined period of time (or until you delete them) and are activated each time a user visits or accesses the Services.
+**Persistent cookies:** persistent cookies remain on a Device for a predetermined period of time (or until you delete them) and are activated each time a user visits or accesses the Services.  
+ 
 
 ### **How we use cookies: overview**
 
-The cookies we use perform the following basic functions:
+The cookies we use perform the following basic functions:  
+ 
 
-**Analytics:** these cookies are used to understand how users use the Services, e.g. Google Analytics and our own proprietary analytics system called Zapalytics.
+**Analytics:** these cookies are used to understand how users use the Services, e.g. Google Analytics and our own proprietary analytics system called Zapalytics.  
+ 
 
-**Functionality:** these cookies enable the provision of additional functions and improve website performance, e.g. personalisation and remembering saved preferences. Some may be strictly necessary, but not all fall into this category.
+**Functionality:** these cookies enable the provision of additional functions and improve website performance, e.g. personalisation and remembering saved preferences. Some may be strictly necessary, but not all fall into this category.  
+ 
 
-**Security:** these cookies are used for security purposes, e.g. enabling your to login securely and prevention of cross-site request forgery. 
-
+**Security:** these cookies are used for security purposes, e.g. enabling your to login securely and prevention of cross-site request forgery.   
   
-**Social Media and Marketing:** these cookies are used to (a) target visitors with communications for our services when the user logs into or uses another service, e.g. social media; (b) make advertisements more relevant and meaningful to visitors to our websites, and to track the efficiency of our advertising campaigns, both on our services and on other websites; and (c) make communications more relevant through marketing automation.
+**Social Media and Marketing:** these cookies are used to (a) target visitors with communications for our services when the user logs into or uses another service, e.g. social media; (b) make advertisements more relevant and meaningful to visitors to our websites, and to track the efficiency of our advertising campaigns, both on our services and on other websites; and (c) make communications more relevant through marketing automation.  
+ 
 
-### **Cookies set by Zappar**
+### **Cookies set by Zappar**  
+ 
 
-When you visit the Zapworks website or use Zapworks, the following first party cookies may be placed on your Device:
+When you visit the Zapworks website or use Zapworks, the following first party cookies may be placed on your Device:  
+ 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -205,26 +217,43 @@ When you visit the Zapworks website or use Zapworks, the following first party c
   
  
 
-### **Use of Google Analytics**
+### **Use of Google Analytics**  
+ 
 
-The Services use analytics services provided by Google Analytics. Google Analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how people use our websites. This, in turn, enables us to improve the websites and the products and services offered through them. You do not have to allow us to use these cookies (please see “Enabling & Disabling of Cookies” below); however whilst our use of them does not pose any risk to your privacy or your safe use of our websites, it does enable us to continually improve our business.
+The Services use analytics services provided by Google Analytics. Google Analytics refers to a set of tools used to collect and analyse usage statistics, enabling us to better understand how people use our websites. This, in turn, enables us to improve the websites and the products and services offered through them. You do not have to allow us to use these cookies (please see “Enabling & Disabling of Cookies” below); however whilst our use of them does not pose any risk to your privacy or your safe use of our websites, it does enable us to continually improve our business.  
+ 
 
-The Google Analytics services used by our websites set and use cookies to gather the required information. These analytics cookies are not strictly necessary and are used to collect information about how visitors use the websites. We use this information to compile reports and to help us improve the websites. The Google Analytics cookies collect information in an anonymous form, including the number of visitors to the websites, where visitors have come to the websites from, the pages they visited and for how long. This information is collected by Zappar but Google will also have access to the data.
+The Google Analytics services used by our websites set and use cookies to gather the required information. These analytics cookies are not strictly necessary and are used to collect information about how visitors use the websites. We use this information to compile reports and to help us improve the websites. The Google Analytics cookies collect information in an anonymous form, including the number of visitors to the websites, where visitors have come to the websites from, the pages they visited and for how long. This information is collected by Zappar but Google will also have access to the data.  
+ 
 
-Further information about Google Analytics can be found here: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) 
+Further information about Google Analytics can be found here: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)   
+ 
 
-### **Use of Google Analytics advertising features**
+### **Use of Google Analytics advertising features**  
+ 
 
-In addition to analytics, we may also use the following Google Analytics Advertising features and related cookies on the Services:
+In addition to analytics, we may also use the following Google Analytics Advertising features and related cookies on the Services:  
+ 
 
 * Remarketing with Google Analytics & Adwords
     
 * User ID feature
     
-* Advertising features, including demographics and infinity categories
+* Advertising features, including demographics and infinity categories  
+     
     
 
-These Advertising Features enable Google Analytics to collect information about our website traffic via Google advertising cookies and identifiers. See here for more information about these cookies: [https://policies.google.com/technologies/types](https://policies.google.com/technologies/types)  
+These Advertising Features enable Google Analytics to collect information about our website traffic via Google advertising cookies and identifiers. See here for more information about these cookies: [https://policies.google.com/technologies/types](https://policies.google.com/technologies/types)    
+ 
+
+Microsoft Clarity  
+ 
+---------------------
+
+We partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-GB/privacystatement).
+
+  
+For the cookies set by Clarity please see here: [Clarity Cookies](https://learn.microsoft.com/en-us/clarity/setup-and-installation/cookie-list)
 
   
  
@@ -258,7 +287,8 @@ You can choose to delete cookies at any time however you may lose any informatio
 
 To opt out of being tracked by Google Analytics across all websites you can find help at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
-It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.  
+ 
 
 ### **Changes to this notice**
 
@@ -267,10 +297,6 @@ We reserve the right to update and revise this notice as we may deem necessary f
 ### **Contact us**
 
 If you have any questions about our use of cookies, please contact us at [contact@zappar.com](mailto:contact@zappar.com)  
-
-  
-  
- 
 
 * Company
     
