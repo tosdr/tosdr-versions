@@ -157,6 +157,10 @@
     
     Webinars
     
+    [![Arjun Kunnath](https://static.wingify.com/gcp/uploads/2024/01/Screenshot-2024-01-29-at-7.39.27-PM.png?tr=w-60,h-50)
+    
+    Understanding What Your Visitors Truly Want With VWO Insights – Web](https://vwo.com/webinars/understanding-what-visitors-truly-want-vwo-insights-web/)
+    
     [![Cameron Calder](https://static.wingify.com/gcp/uploads/2024/07/images.jpeg?tr=w-60,h-50)
     
     The No-Budget Conversion Blueprint: Leveraging What You Already Own](https://vwo.com/webinars/no-budget-conversion-blueprint-leveraging-what-already-own/)
@@ -172,10 +176,6 @@
     [![Eric Siu](https://static.wingify.com/gcp/uploads/2024/07/Eric-Headshot-1-scaled.jpeg?tr=w-60,h-50)
     
     AI-First Strategies to Drive Traffic and Conversions for 2024](https://vwo.com/webinars/mastering-traffic-conversion-ai-strategies-for-2024/)
-    
-    [![Jyoti Malik](https://static.wingify.com/gcp/uploads/2024/06/Photoleap_03_01_2024_20_40_13_pDujm-2.png?tr=w-60,h-50)
-    
-    Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
     
     [View all webinars](https://vwo.com/webinars)
     
@@ -229,6 +229,10 @@
     
     Masters of conversion
     
+    Upcoming Webinars
+    
+    [![From OKRs to Strategic Experimentation](https://static.wingify.com/gcp/uploads/2024/07/resources-menu-upcoming-image-Bjarn-Brunenberg-600-by-481@1x.jpg?tr=w-300,h-240)](https://vwo.com/webcast/from-okrs-strategic-experimentation/)
+    
     Past Webinars
     
     [![Florent Buisson](https://static.wingify.com/gcp/uploads/2024/07/Florent-Buisson-speaker-photo.png?tr=w-60,h-60)
@@ -248,24 +252,6 @@
     Life Between Variants
     
     \- Tomáš Voves, Livesport](https://vwo.com/webcast/life-between-variants/)
-    
-    [![Viket Benzesin](https://static.wingify.com/gcp/uploads/2024/02/Viket-Benzesin-speaker-photo@2x.png?tr=w-60,h-60)
-    
-    Converting with Comedy: Research Parallels for CRO
-    
-    \- Viket Benzesin, Mars](https://vwo.com/webcast/converting-with-comedy-research-parallels-for-cro/)
-    
-    [![Rohan Singh Rajput](https://static.wingify.com/gcp/uploads/2024/01/Rohan-Singh-Rajput-speaker-photo.png?tr=w-60,h-60)
-    
-    Building Personalized Meditation Experiences
-    
-    \- Rohan Singh Rajput, Headspace](https://vwo.com/webcast/a-b-testing-personalized-meditation-recommendation-system/)
-    
-    [![Max Bradley](https://static.wingify.com/gcp/uploads/2023/11/Max-Bradley@1x.png?tr=w-60,h-60)
-    
-    Turning Business Challenges into Testable Ideas
-    
-    \- Max Bradley, Wiz](https://vwo.com/webcast/turning-business-challenges-testable-ideas/)
     
     [View all webinars](https://vwo.com/webcast/)
     
