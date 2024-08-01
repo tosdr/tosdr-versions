@@ -303,13 +303,14 @@ _Effective January 1, 2023_
     
 
 * Terms of Use
-* * [Wolfram Research](http://www.wolframalpha.com/legal/terms/wolfram-research.html)
+* * [Wolfram](http://www.wolframalpha.com/legal/terms/wolfram/)
+    * [Wolfram Research](http://www.wolframalpha.com/legal/terms/wolfram-research.html)
     * [Wolfram|Alpha](http://www.wolframalpha.com/termsofuse/)
     * [Wolfram|Alpha Pro](https://www.wolframalpha.com/termsofuse/pro/)
     * [Wolfram|Alpha API](https://products.wolframalpha.com/api/commercial-termsofuse)
     * [Wolfram ID](http://www.wolframalpha.com/legal/terms/wolfram-id-terms.html)
     * [Wolfram Engine](http://www.wolframalpha.com/legal/terms/wolfram-engine.html)
-    * [Wolfram Cloud](http://www.wolframalpha.com/legal/terms/wolfram-cloud/)
+    * [Wolfram Notebook](http://www.wolframalpha.com/notebooks/licensing-options.html)
     * [Wolfram Enterprise Private Cloud](http://www.wolframalpha.com/legal/terms/wolfram-enterprise-private-cloud.html)
     * [Wolfram Application Server](http://www.wolframalpha.com/legal/terms/wolfram-application-server.html)
     * [Wolfram Programming Lab](http://www.wolframalpha.com/legal/terms/wolfram-programming-lab.html)
@@ -326,9 +327,7 @@ _Effective January 1, 2023_
     
 
 * License Agreements
-* * [Wolfram Software Subscription License](http://www.wolframalpha.com/legal/agreements/wolfram-software-subscription-license/)
-    * [Wolfram Mathematica](http://www.wolframalpha.com/legal/agreements/wolfram-mathematica/)
-    * [Wolfram Desktop](http://www.wolframalpha.com/legal/agreements/wolfram-desktop/)
+* * [Wolfram Mathematica](http://www.wolframalpha.com/legal/agreements/wolfram-mathematica/)
     * [Wolfram System Modeler](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler/)
     * [Wolfram System Modeler Library](http://www.wolframalpha.com/legal/agreements/wolfram-system-modeler-library/)
     * [Wolfram Finance Platform](http://www.wolframalpha.com/legal/agreements/wolfram-finance-platform/)
