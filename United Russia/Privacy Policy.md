@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Делегация «Единой России» приняла участие во встрече с Президентом Венесуэлы Николасом Мадуро](https://cdn.er.ru/media/news/July2024/fD7VqpYDNzaO3IIhkX0f-small.jpg)](https://er.ru/activity/news/delegaciya-edinoj-rossii-prinyala-uchastie-vo-vstreche-s-prezidentom-venesuely-nikolasom-maduro)
+[![«Единая Россия» провела финал проектной сессии международной акции «Люди Артека»](https://cdn.er.ru/img/stubs/small/3.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-final-proektnoj-sessii-mezhdunarodnoj-akcii-lyudi-arteka)
 
-[Делегация «Единой России» приняла участие во встрече с Президентом Венесуэлы Николасом Мадуро](https://er.ru/activity/news/delegaciya-edinoj-rossii-prinyala-uchastie-vo-vstreche-s-prezidentom-venesuely-nikolasom-maduro)
+[«Единая Россия» провела финал проектной сессии международной акции «Люди Артека»](https://er.ru/activity/news/edinaya-rossiya-provela-final-proektnoj-sessii-mezhdunarodnoj-akcii-lyudi-arteka)
 
-[#Волоцков](https://er.ru/activity/news?tags%5B0%5D=28897) [#Венесуэла](https://er.ru/activity/news?tags%5B0%5D=3412) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#наблюдатели](https://er.ru/activity/news?tags%5B0%5D=2091) [#Мадуро](https://er.ru/activity/news?tags%5B0%5D=39290) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
+[#Косачев](https://er.ru/activity/news?tags%5B0%5D=595) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#КлубДрузейРоссии](https://er.ru/activity/news?tags%5B0%5D=1095609) [#Артек](https://er.ru/activity/news?tags%5B0%5D=59411) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
-Сегодня 17:25
+Сегодня 17:32
 
-[![Владимир Якушев: Важно оказать жителям Челябинской области необходимую помощь](https://cdn.er.ru/media/news/July2024/4wFIHLzAy2NQWLcxHymI-small.png)](https://er.ru/activity/news/vladimir-yakushev-vazhno-okazat-zhitelyam-chelyabinskoj-oblasti-neobhodimuyu-pomosh)
+[![«Молодая Гвардия Единой России» помогает пострадавшим от обрушения многоэтажного дома в Нижнем Тагиле](https://cdn.er.ru/media/news/August2024/1OHVdpypVgsKtYCjQPvD-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-postradavshim-ot-obrusheniya-mnogoetazhnogo-doma-v-nizhnem-tagile)
 
-[Владимир Якушев: Важно оказать жителям Челябинской области необходимую помощь](https://er.ru/activity/news/vladimir-yakushev-vazhno-okazat-zhitelyam-chelyabinskoj-oblasti-neobhodimuyu-pomosh)
+[«Молодая Гвардия Единой России» помогает пострадавшим от обрушения многоэтажного дома в Нижнем Тагиле](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-postradavshim-ot-obrusheniya-mnogoetazhnogo-doma-v-nizhnem-tagile)
 
-[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#ЧС](https://er.ru/activity/news?tags%5B0%5D=2991) [#подтопление](https://er.ru/activity/news?tags%5B0%5D=9294) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=38581) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240) [#Тупица](https://er.ru/activity/news?tags%5B0%5D=136922) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
 
-27.07.24
+Сегодня 16:50
 
-[![Депутаты от «Единой России» примут участие в наблюдении за выборами в Венесуэле](https://cdn.er.ru/media/news/July2024/BGspipBYgfq08bqSl5dW-small.jpg)](https://er.ru/activity/news/deputaty-ot-edinoj-rossii-primut-uchastie-v-nablyudenii-za-vyborami-v-venesuele)
+[![«Единая Россия» усилит защиту объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://cdn.er.ru/media/news/August2024/nXyP31arvHHAUm1PnkDu-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-usilit-zashitu-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
 
-[Депутаты от «Единой России» примут участие в наблюдении за выборами в Венесуэле](https://er.ru/activity/news/deputaty-ot-edinoj-rossii-primut-uchastie-v-nablyudenii-za-vyborami-v-venesuele)
+[«Единая Россия» усилит защиту объектов ТЭК и транспортной инфраструктуры от атак беспилотников](https://er.ru/activity/news/edinaya-rossiya-usilit-zashitu-obektov-tek-i-transportnoj-infrastruktury-ot-atak-bespilotnikov)
 
-[#делегация](https://er.ru/activity/news?tags%5B0%5D=141395) [#наблюдатели](https://er.ru/activity/news?tags%5B0%5D=2091) [#выборы](https://er.ru/activity/news?tags%5B0%5D=31) [#Венесуэла](https://er.ru/activity/news?tags%5B0%5D=3412) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
+[#ТЭК](https://er.ru/activity/news?tags%5B0%5D=1363) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#БПЛА](https://er.ru/activity/news?tags%5B0%5D=1094194) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
 
-27.07.24
+Сегодня 12:44
 
-[![«Единая Россия» и МГЕР помогают пострадавшим в зоне подтопления в Челябинской области](https://cdn.er.ru/media/news/July2024/teFdesIiOdx3dWjRQqUP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-v-zone-podtopleniya-v-chelyabinskoj-oblasti)
+[![Михаил Терентьев: В весеннюю сессию по инициативе «Единой России» Госдума приняла законы, направленные на защиту людей с инвалидностью](https://cdn.er.ru/media/news/August2024/A9CGkZpShLoJNK5fx4RX-small.jpg)](https://er.ru/activity/news/mihail-terentev-v-vesennyuyu-sessiyu-po-iniciative-edinoj-rossii-gosduma-prinyala-zakony-napravlennye-na-zashitu-lyudej-s-invalidnostyu)
 
-[«Единая Россия» и МГЕР помогают пострадавшим в зоне подтопления в Челябинской области](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-postradavshim-v-zone-podtopleniya-v-chelyabinskoj-oblasti)
+[Михаил Терентьев: В весеннюю сессию по инициативе «Единой России» Госдума приняла законы, направленные на защиту людей с инвалидностью](https://er.ru/activity/news/mihail-terentev-v-vesennyuyu-sessiyu-po-iniciative-edinoj-rossii-gosduma-prinyala-zakony-napravlennye-na-zashitu-lyudej-s-invalidnostyu)
 
-[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#подтопление](https://er.ru/activity/news?tags%5B0%5D=9294) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+[#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#людисинвалидностью](https://er.ru/activity/news?tags%5B0%5D=132986)
 
-27.07.24
+31.07.24
 
-[![В День памяти детей-жертв войны на Донбассе «Единая Россия» провела памятные акции по всей стране](https://cdn.er.ru/media/news/July2024/4GKOcLLk7IdB2QLQ38HP-small.JPG)](https://er.ru/activity/news/v-den-pamyati-detej-zhertv-vojny-na-donbasse-edinaya-rossiya-provela-pamyatnye-akcii-po-vsej-strane)
+[![Законодательная работа, подготовка к ЕДГ и выборам в Госдуму-2026: Дмитрий Медведев встретился с фракцией «Единой России»](https://cdn.er.ru/media/news/July2024/o6ntDA7SrljikbZShxVI-small.jpg)](https://er.ru/activity/news/zakonodatelnaya-rabota-podgotovka-k-edg-i-vyboram-v-gosdumu-2026-dmitrij-medvedev-vstretilsya-s-frakciej-edinoj-rossii)
 
-[В День памяти детей-жертв войны на Донбассе «Единая Россия» провела памятные акции по всей стране](https://er.ru/activity/news/v-den-pamyati-detej-zhertv-vojny-na-donbasse-edinaya-rossiya-provela-pamyatnye-akcii-po-vsej-strane)
+[Законодательная работа, подготовка к ЕДГ и выборам в Госдуму-2026: Дмитрий Медведев встретился с фракцией «Единой России»](https://er.ru/activity/news/zakonodatelnaya-rabota-podgotovka-k-edg-i-vyboram-v-gosdumu-2026-dmitrij-medvedev-vstretilsya-s-frakciej-edinoj-rossii)
 
-[#Приморский край](https://er.ru/activity/news?tags%5B0%5D=771) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233) [#Кемеровская область](https://er.ru/activity/news?tags%5B0%5D=762) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Красноярский край](https://er.ru/activity/news?tags%5B0%5D=1703) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Ляхов](https://er.ru/activity/news?tags%5B0%5D=2151) [#Щербаков](https://er.ru/activity/news?tags%5B0%5D=23950) [#ДеньпамятидетейДонбасса](https://er.ru/activity/news?tags%5B0%5D=1092978) [#траур](https://er.ru/activity/news?tags%5B0%5D=205) [#Удмуртская Республика](https://er.ru/activity/news?tags%5B0%5D=1090585) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Мурманская область](https://er.ru/activity/news?tags%5B0%5D=1927)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Володин](https://er.ru/activity/news?tags%5B0%5D=1847) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#весенняясессия](https://er.ru/activity/news?tags%5B0%5D=99448) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#ЕДГ](https://er.ru/activity/news?tags%5B0%5D=46588) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
 
-26.07.24
+31.07.24
 
-[![Владимир Якушев: «Единая Россия» продолжит поддержку волонтёрства](https://cdn.er.ru/media/news/July2024/ZFScahacVJfvTj0aj8HF-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-volontyorstva)
+[![В неделе водных видов спорта марафона «Единой России» «Сила России» приняли участие более 50 тысяч человек](https://cdn.er.ru/media/news/July2024/r6ITPMo45YGErEdnbDqx-small.jpg)](https://er.ru/activity/news/v-nedele-vodnyh-vidov-sporta-marafona-edinoj-rossii-sila-rossii-prinyali-uchastie-bolee-50-tysyach-chelovek)
 
-[Владимир Якушев: «Единая Россия» продолжит поддержку волонтёрства](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-prodolzhit-podderzhku-volontyorstva)
+[В неделе водных видов спорта марафона «Единой России» «Сила России» приняли участие более 50 тысяч человек](https://er.ru/activity/news/v-nedele-vodnyh-vidov-sporta-marafona-edinoj-rossii-sila-rossii-prinyali-uchastie-bolee-50-tysyach-chelovek)
 
-[#Курганская область](https://er.ru/activity/news?tags%5B0%5D=957) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [водныевидыспорта](https://er.ru/activity/news?tags%5B0%5D=153325) [#марафон](https://er.ru/activity/news?tags%5B0%5D=2873) [#Тюменская область](https://er.ru/activity/news?tags%5B0%5D=784) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#турниры](https://er.ru/activity/news?tags%5B0%5D=77047) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929)
 
-26.07.24
+31.07.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
