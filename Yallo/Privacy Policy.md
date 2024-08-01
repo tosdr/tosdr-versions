@@ -14,10 +14,9 @@ Fr
 
 [Login](https://www.yallo.ch/fr/auth/login)
 
-DÉCLARATION DE CONFIDENTIALITÉ
-------------------------------
+### DÉCLARATION DE CONFIDENTIALITÉ
 
-[Demande d’accès aux données](https://docs.google.com/forms/d/e/1FAIpQLScKvy-mpcCgjNScd-z3gqmYA2_C3KHhpt7eJd-2I_wr3L-Lmg/viewform)
+[Demande d’accès aux données](https://sunrise.ch/en/general/data-request-form)
 
 Conformément au présent avis de confidentialité, Sunrise Sàrl (ci-après dénommée «Sunrise» ou «nous») vous informe que certaines données personnelles (ci-après nommées «données») sont collectées et traitées lors de l’utilisation de notre site Web, de l’utilisation de nos services en tant que client (selon le contrat de service conclu) ou de la réception d’offres promotionnelles (p. ex., newsletter, cadeaux). Le présent avis de confidentialité s’applique également aux services proposés par les marques yallo, Lebara, MySports, swype et UPC.  
   
@@ -387,6 +386,8 @@ yallo, Sunrise Sàrl
 [Conditions générales de vente](https://www.yallo.ch/fr/terms)
 
 [Protection de données](https://www.yallo.ch/fr/data-protection)
+
+Paramètres de consentement
 
 La langue actuelle est le français. Sélectionne une autre langue dans ce menu si tu veux la changer.
 
