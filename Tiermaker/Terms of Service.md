@@ -253,5 +253,3 @@ United States
 X
 
 © 2024 tiermaker.com | [Privacy Policy |](https://tiermaker.com/guidelines/privacy-policy/) [Terms of Use](https://tiermaker.com/guidelines/terms-of-use/)
-
-Update cookie preferences
