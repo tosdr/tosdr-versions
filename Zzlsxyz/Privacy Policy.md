@@ -32,7 +32,7 @@ Instance privacy aims to bring transparency to the data collected by frontends a
 Additional information
 ----------------------
 
-* Version: 2024-07-29-0f1fbc2
+* Version: 2024-08-01-0f1fbc2
 * Country: Chile
 * Provider: AS7418 - TELEFÓNICA CHILE S.A. | Also known as Movistar Chile | Relayed trough an Oracle VPS
 * Using Cloudflare?: No
