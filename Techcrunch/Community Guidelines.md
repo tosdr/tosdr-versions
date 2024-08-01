@@ -97,13 +97,13 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [SearchGPT](https://techcrunch.com/2024/07/25/with-google-in-its-sights-openai-unveils-searchgpt/)
-* [Google Gemini Chatbot](https://techcrunch.com/2024/07/25/google-speeds-up-its-gemini-chatbot-and-brings-it-to-more-places/)
-* [Kodiak Robotics](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/)
-* [MIstral’s Large 2](https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/)
-* [Optimus Robot](https://techcrunch.com/2024/07/23/elon-musk-sets-2026-optimus-sale-date-heres-where-other-humanoid-robots-stand/)
-* [Tech Layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/07/25/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [OpenAI’s Voice Mode](https://techcrunch.com/2024/07/30/openai-releases-chatgpts-super-realistic-voice-feature/)
+* [Flo Health](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/)
+* [Perplexity AI](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/)
+* [MatPat](https://techcrunch.com/2024/07/28/matpat-the-first-big-youtuber-to-successfully-exit-his-company-is-lobbying-for-creators-on-capitol-hill/)
+* [HealthEquity Data Breach](https://techcrunch.com/2024/07/30/healthequity-data-breach-affects-4-3-million-people/)
+* [Tech Layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/)
+* [ChatGPT](https://techcrunch.com/2024/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
