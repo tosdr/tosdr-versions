@@ -408,6 +408,6 @@ Privacy laws and guidelines are part of a constantly changing environment. We re
 
 © 2024 Yello
 
-[Privacy Policy](https://yello.co/privacy-policy/) | [Do Not Sell My Personal Information](https://yello.co/do-not-sell-my-personal-information/)[Do Not Sell or Share My Personal Information](javascript:void(0)) | [Cookie Policy](https://yello.co/cookie-policy/)
+[Privacy Policy](https://yello.co/privacy-policy/) | [Do Not Sell or Share My Personal Information](javascript:void(0)) | [Cookie Policy](https://yello.co/cookie-policy/)
 
 [Twitter](https://twitter.com/yello) [Linkedin](https://www.linkedin.com/company/yello.co/)
