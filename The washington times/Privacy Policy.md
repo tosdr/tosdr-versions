@@ -169,47 +169,42 @@ Search Search Keyword:     Search
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-button-scroll "Subscribe")
 * [Sign In](https://www.washingtontimes.com/my-account/ "Sign In")
 
-### Watch
+[![National Security Editor Guy Taylor sits down with former U.S. intelligence official and longtime diplomat Joseph DeTrani to discuss how the new Moscow-Pyongyang alliance intersects with the Ukraine war, China and President Biden&#x27;s &#x27;strategic patience&#x27; policy, in comparison to former President Trump&#x27;s pursuit of direct summits with Kim Jong-un.](https://twt-thumbs.washtimes.com/media/image/2024/07/26/TS-Joseph_Detrani.00_14_thumbnail_c420-0-1500-1080_s170x170.jpg?6ac400cca0e0ad3843a91f68014ecb2cc960bdb9)](https://www.washingtontimes.com/news/2024/jul/25/threat-status-inside-new-russia-north-korea-allian/)
 
-[Threat Status: Inside the new Russia-North Korea alliance](https://www.washingtontimes.com/news/2024/jul/25/threat-status-inside-new-russia-north-korea-allian/)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[WATCH: Inside the new Russia-North Korea alliance](https://www.washingtontimes.com/news/2024/jul/25/threat-status-inside-new-russia-north-korea-allian/ "WATCH: Inside the new Russia-North Korea alliance") Joseph DeTrani joins Threat Status
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Whatever else happens in this presidential election year, we will remember the events of July 2024 for a long time. So, what are young voters saying? The Washington Times&#x27; Mallory Wilson investigates.](https://twt-thumbs.washtimes.com/media/image/2024/07/26/Screen_Shot_2024-07-26_at_3.39.42_PM_c195-0-705-510_s170x170.png?9656503d1b91b021edb3903b868fb905011ea449)](https://www.washingtontimes.com/news/2024/jul/26/political-whiplash-voters-share-their-reaction-to-/)
+[![Bold &amp; Blunt Podcast](https://twt-thumbs.washtimes.com/media/specials/0730_BOLD_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/bold-blunt-podcast/)
 
-[Political whiplash: What are voters saying about the wild 2024 race?](https://www.washingtontimes.com/news/2024/jul/26/political-whiplash-voters-share-their-reaction-to-/ "Political whiplash: What are voters saying about the wild 2024 race?") Mallory Wilson investigates
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![History As It Happens Podcast](https://twt-thumbs.washtimes.com/media/specials/0723_HAIH_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/history-happens-podcast/)
-
-[New: George Washington’s wisdom](https://www.washingtontimes.com/specials/history-happens-podcast/ "History As It Happens Podcast") Joseph Ellis joins Martin Di Caro
+[Listen: America vs. China is the election fight](https://www.washingtontimes.com/specials/bold-blunt-podcast/ "Bold & Blunt Podcast") Guy Taylor joins Cheryl Chumley
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Threat Status Podcast](https://twt-thumbs.washtimes.com/media/specials/0726_TS_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/threat-status-podcast/)
+[![History As It Happens Podcast](https://twt-thumbs.washtimes.com/media/specials/0801_HAIH_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/history-happens-podcast/)
 
-[Is China winning the diplomatic game?](https://www.washingtontimes.com/specials/threat-status-podcast/ "Threat Status Podcast") A new episode of the Threat Status podcast
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New today: The Supreme Court makes history](https://www.washingtontimes.com/specials/history-happens-podcast/ "History As It Happens Podcast") Sean Wilentz joins Martin Di Caro
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **TRENDING:**
 
 [Donald Trump](https://www.washingtontimes.com/topics/donald-trump/ "Donald Trump")
 
+[Israel](https://www.washingtontimes.com/topics/israel/ "Israel")
+
 [Kamala Harris](https://www.washingtontimes.com/topics/kamala-harris/ "Kamala Harris")
+
+[Hamas](https://www.washingtontimes.com/topics/hamas/ "Hamas")
+
+[Olympics](https://www.washingtontimes.com/topics/olympics/ "Olympics")
 
 [Paris](https://www.washingtontimes.com/topics/paris/ "Paris")
 
-[China](https://www.washingtontimes.com/topics/china/ "China")
+[Gaza](https://www.washingtontimes.com/topics/gaza/ "Gaza")
 
-[Joe Biden](https://www.washingtontimes.com/topics/joe-biden/ "Joe Biden")
+[Ismail Haniya](https://www.washingtontimes.com/topics/ismail-haniya/ "Ismail Haniya")
 
-[Beijing](https://www.washingtontimes.com/topics/beijing/ "Beijing")
+[Iran](https://www.washingtontimes.com/topics/iran/ "Iran")
 
-[Canada](https://www.washingtontimes.com/topics/canada/ "Canada")
-
-[Japan](https://www.washingtontimes.com/topics/japan/ "Japan")
-
-[Los Angeles](https://www.washingtontimes.com/topics/los-angeles/ "Los Angeles")
-
-[Olympics](https://www.washingtontimes.com/topics/olympics/ "Olympics")
+[Tehran](https://www.washingtontimes.com/topics/tehran/ "Tehran")
 
 Advertisement
 
@@ -335,15 +330,15 @@ Advertisement
 Most Popular
 ------------
 
-### [Speaker Johnson's letter resurfaces after GOP fails to pass spending bills](https://www.washingtontimes.com/news/2024/jul/27/speaker-johnsons-letter-resurfaces-after-gop-fails/ "Speaker Johnson's letter resurfaces after GOP fails to pass spending bills")
+### [Olympics warns against 'witch hunt' as outrage builds over 'men fighting women'](https://www.washingtontimes.com/news/2024/jul/31/olympics-warns-against-witch-hunt-as-outrage-build/ "Olympics warns against 'witch hunt' as outrage builds over 'men fighting women'")
 
-### [Lies, damned lies and heated climate statistics](https://www.washingtontimes.com/news/2024/jul/27/lies-damned-lies-and-heated-climate-statistics/ "Lies, damned lies and heated climate statistics")
+### [Senate Republicans poised to sink bipartisan tax bill that passed in GOP-run House](https://www.washingtontimes.com/news/2024/jul/31/senate-republicans-poised-to-sink-bipartisan-tax-b/ "Senate Republicans poised to sink bipartisan tax bill that passed in GOP-run House")
 
-### [Olympics accused of mocking Christianity with drag queen parody of 'The Last Supper'](https://www.washingtontimes.com/news/2024/jul/26/olympics-accused-of-mocking-christianity-with-drag/ "Olympics accused of mocking Christianity with drag queen parody of 'The Last Supper'")
+### [Biden administration loses 22 of 26 as federal judge blocks Title IX redo in Oklahoma](https://www.washingtontimes.com/news/2024/jul/31/biden-administration-loses-22-of-26-as-federal-jud/ "Biden administration loses 22 of 26 as federal judge blocks Title IX redo in Oklahoma")
 
-### [Kamala Harris off and running with the evil and antisemitism](https://www.washingtontimes.com/news/2024/jul/26/kamala-harris-off-and-running-with-evil-and-antise/ "Kamala Harris off and running with the evil and antisemitism")
+### [All about the cover-up: Biden is the new Nixon](https://www.washingtontimes.com/news/2024/jul/31/all-about-cover-up-biden-is-new-nixon/ "All about the cover-up: Biden is the new Nixon")
 
-### [Hiding in plain sight: Joe Biden's mental, physical decline on display from the start](https://www.washingtontimes.com/news/2024/jul/10/hiding-in-plain-sight-joe-bidens-mental-physical-d/ "Hiding in plain sight: Joe Biden's mental, physical decline on display from the start")
+### [Pentagon signals move to offensive counterintelligence posture](https://www.washingtontimes.com/news/2024/jul/31/pentagon-signals-move-to-offensive-counterintellig/ "Pentagon signals move to offensive counterintelligence posture")
 
 Advertisement
 
@@ -352,78 +347,78 @@ Advertisement
 Commentary
 ----------
 
+![Joseph Curl](https://twt-thumbs.washtimes.com/media/img/staff/2014/JOSEPHCURL_s170x255.jpg?c2b569b870632a1f92472d224952a26f127ab236)
+
+### [Joseph Curl](https://www.washingtontimes.com/staff/joseph-curl/)
+
+[All about the cover-up: Biden is the new Nixon](https://www.washingtontimes.com/news/2024/jul/31/all-about-cover-up-biden-is-new-nixon/ "All about the cover-up: Biden is the new Nixon")
+
 ![Cheryl K. Chumley](https://twt-thumbs.washtimes.com/media/img/staff/2023/cheryl-chumley-350-v3_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
 ### [Cheryl K. Chumley](https://www.washingtontimes.com/staff/cheryl-k-chumley/)
 
-[Kamala Harris off and running with the evil and antisemitism](https://www.washingtontimes.com/higher-ground/2024/jul/26/kamala-harris-off-and-running-with-evil-and-antise/ "Kamala Harris off and running with the evil and antisemitism")
+[‘America First’ is the solution to China’s growing threats](https://www.washingtontimes.com/news/2024/aug/1/america-first-is-solution-to-chinas-growing-threat/ "‘America First’ is the solution to China’s growing threats")
 
 ![Michael McKenna](https://twt-thumbs.washtimes.com/media/img/staff/2020/michael-mckenna-nonstaffmug-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
 ### [Michael McKenna](https://www.washingtontimes.com/staff/michael-mckenna/)
 
-[Is it time for Trump to assemble a transition team?](https://www.washingtontimes.com/higher-ground/2024/jul/27/is-it-time-for-trump-to-assemble-transition-team/ "Is it time for Trump to assemble a transition team?")
+[Most people know raising children is more important than raising cats](https://www.washingtontimes.com/news/2024/jul/31/most-people-know-raising-children-is-more-importan/ "Most people know raising children is more important than raising cats")
 
-![Don Feder](https://twt-thumbs.washtimes.com/media/img/staff/2022/don-feder-350-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+![Cal Thomas](https://twt-thumbs.washtimes.com/media/img/staff/2015/cal-thomas-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
-### [Don Feder](https://www.washingtontimes.com/staff/don-feder/)
+### [Cal Thomas](https://www.washingtontimes.com/staff/cal-thomas/)
 
-[Biden and Harris are symptoms of Democrats’ decline](https://www.washingtontimes.com/higher-ground/2024/jul/26/biden-and-harris-are-symptoms-of-democrats-decline/ "Biden and Harris are symptoms of Democrats’ decline")
+[Kamala Harris wants you to forget all she once stood for](https://www.washingtontimes.com/news/2024/jul/31/kamala-harris-wants-you-to-forget-all-she-once-sto/ "Kamala Harris wants you to forget all she once stood for")
 
-![Ken Buck](https://twt-thumbs.washtimes.com/media/image/2024/07/26/ken-buck-nonstaffmug_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+![Andrew P. Napolitano](https://twt-thumbs.washtimes.com/media/img/staff/2021/napolitano-v2-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
-### Ken Buck
+### [Andrew P. Napolitano](https://www.washingtontimes.com/staff/andrew-p-napolitano/)
 
-[Corporate America needs election integrity](https://www.washingtontimes.com/higher-ground/2024/jul/26/corporate-america-needs-election-integrity/ "Corporate America needs election integrity")
-
-![Newt Gingrich](https://twt-thumbs.washtimes.com/media/img/staff/2021/newt-gingrich-350b_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Newt Gingrich](https://www.washingtontimes.com/staff/newt-gingrich/)
-
-[Presidential election paradigm has shifted in a matter of days](https://www.washingtontimes.com/higher-ground/2024/jul/25/election-paradigm-has-shifted-in-matter-of-days/ "Presidential election paradigm has shifted in a matter of days")
+[When presidents kill](https://www.washingtontimes.com/news/2024/jul/31/when-presidents-kill/ "When presidents kill")
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)More News
 -------------------------------------------------------------------------------------------
 
 ### [Waste, Fraud & Abuse](https://www.washingtontimes.com/news/waste-fraud-abuse/)
 
-#### [U.S. Sen. Bob Menendez of New Jersey to resign Aug. 20 after corruption conviction](https://www.washingtontimes.com/news/2024/jul/23/bob-menendez-of-new-jersey-is-resigning-from-offic/)
+#### [GSA delayed alerting federal office building tenants in Detroit of contaminated drinking water](https://www.washingtontimes.com/news/2024/jul/30/gsa-delayed-alerting-federal-office-building-tenan/)
 
-#### [House committee grills FBI director about Trump shooting](https://www.washingtontimes.com/news/2024/jul/23/fbis-christopher-wray-to-be-grilled-by-house-commi/)
+#### [Secret Service opens disciplinary probe into agents responsible for securing Trump’s July 13 rally](https://www.washingtontimes.com/news/2024/jul/30/secret-service-opens-probe-into-agents-responsible/)
 
-#### [U.S. Army worker who stole nearly $109 million to buy mansions and luxury cars is sentenced](https://www.washingtontimes.com/news/2024/jul/23/janet-yamanaka-mello-who-stole-nearly-109-million-/)
+#### [‘Reduced to a pulse’: Jan. 6 defendant recounts prison treatment, DOJ’s overreach](https://www.washingtontimes.com/news/2024/jul/29/john-strand-jan-6-defendant-said-he-endured-four-m/)
 
 ### [Security](https://www.washingtontimes.com/news/security/)
 
-#### [In a show of growing ties, Russian warships have made a new visit to Cuban waters](https://www.washingtontimes.com/news/2024/jul/27/in-show-of-growing-ties-russian-warships-have-made/)
+#### [Iran should think twice before direct attack on Israel, former CENTCOM chief says](https://www.washingtontimes.com/news/2024/jul/31/iran-should-think-twice-before-direct-attack-on-is/)
 
-#### [Republicans warn Biden against transferring 9/11 terrorist Moussaoui to France](https://www.washingtontimes.com/news/2024/jul/27/republicans-warn-biden-against-transferring-911-te/)
+#### [Pentagon signals move to offensive counterintelligence posture](https://www.washingtontimes.com/news/2024/jul/31/pentagon-signals-move-to-offensive-counterintellig/)
 
-#### [An Israeli airstrike hits a school sheltering people in Gaza, killing at least 30](https://www.washingtontimes.com/news/2024/jul/27/israeli-airstrike-hits-school-sheltering-people-in/)
+#### [Biden administration’s ‘dismal’ China policy faulted on Capitol Hill](https://www.washingtontimes.com/news/2024/jul/31/inside-ring-biden-administration-china-policy-faul/)
 
 ### [D.C. Local](https://www.washingtontimes.com/news/local/)
 
-#### [Charges dropped against anti-Israel protesters who wreaked havoc near U.S. Capitol](https://www.washingtontimes.com/news/2024/jul/26/charges-dropped-against-anti-israel-protesters-who/)
+#### [Illegal immigrant from El Salvador charged in deadly Loudoun Co. carjacking](https://www.washingtontimes.com/news/2024/jul/31/illegal-immigrant-from-el-salvador-charged-in-dead/)
 
-#### [Thousands watch Chincoteague wild ponies complete 99th annual swim in Virginia](https://www.washingtontimes.com/news/2024/jul/25/chincoteague-wild-ponies-complete-99th-annual-swim/)
+#### [D.C. attorney general sues online ticket retailer StubHub, citing deceptive fees](https://www.washingtontimes.com/news/2024/jul/31/brian-schwalb-dc-attorney-general-sues-online-tick/)
 
-#### [Gaza war protesters hold a ‘die-in’ near the White House as Netanyahu meets with Biden, Harris](https://www.washingtontimes.com/news/2024/jul/25/protesters-hold-die-in-near-white-house-as-netanya/)
+#### [Washington, D.C. sues StubHub, saying the resale platform inflates ticket prices with deceptive fees](https://www.washingtontimes.com/news/2024/jul/31/washington-dc-sues-stubhub-says-resale-platform-in/)
 
 ### [World](https://www.washingtontimes.com/news/world/)
 
-#### [Trump meets with Israeli PM Netanyahu in Florida, vows to end Middle East conflict, stop WWIII](https://www.washingtontimes.com/news/2024/jul/26/donald-trump-meets-with-benjamin-netanyahu-in-flor/)
+#### [Netanyahu vows to do ‘whatever it takes’ to protect Israelis in face of fury over strikes](https://www.washingtontimes.com/news/2024/jul/31/iranian-supreme-leader-vows-to-avenge-death-of-ham/)
 
-#### [China executes ‘slow-motion genocide’ in Tibet, Xinjiang, conference told](https://www.washingtontimes.com/news/2024/jul/25/china-executes-slow-motion-genocide-in-tibet-xinji/)
+#### [British police charge 17-year-old with murder in stabbing attack that killed 3 children](https://www.washingtontimes.com/news/2024/jul/31/british-police-charge-17-year-old-with-murder-in-s/)
 
-#### [An Israeli airstrike hits a school sheltering people in Gaza, killing at least 30](https://www.washingtontimes.com/news/2024/jul/27/israeli-airstrike-hits-school-sheltering-people-in/)
+#### [‘Zero Day’ presents Taiwan’s nightmare scenario for island democracy viewers](https://www.washingtontimes.com/news/2024/jul/31/zero-day-presents-taiwans-nightmare-scenario-for-i/)
 
 ### [Business & Economy](https://www.washingtontimes.com/news/business-economy/)
 
-#### [Justice Dept. says TikTok collected U.S. user views on issues like abortion and gun control](https://www.washingtontimes.com/news/2024/jul/27/justice-dept-says-tiktok-collected-us-user-views-o/)
+#### [To boost sales, Etsy plans to test its first-ever loyalty program as it aims](https://www.washingtontimes.com/news/2024/jul/31/to-boost-sales-etsy-plans-to-test-its-first-ever-l/)
 
-#### [Apple signs on to pledge to keep artificial intelligence safe, administration says](https://www.washingtontimes.com/news/2024/jul/26/apple-signs-on-to-pledge-to-keep-artificial-intell/)
+#### [Wearable AI and Bluetooth ‘Friend’ necklace to be available to consumers in 2025](https://www.washingtontimes.com/news/2024/jul/31/wearable-ai-and-bluetooth-friend-necklace-to-be-av/)
 
-#### [Ohio Supreme Court rules ‘boneless’ doesn’t mean chicken without bones](https://www.washingtontimes.com/news/2024/jul/26/ohio-supreme-court-rules-boneless-doesnt-mean-chic/)
+#### [GWU study finds that 43% of cocoa products exceed California legal limits for lead, 35% for cadmium](https://www.washingtontimes.com/news/2024/jul/31/gwu-study-finds-that-43-of-cocoa-products-exceed-c/)
 
 ### [Higher Ground](https://www.washingtontimes.com/specials/higher-ground/)
 
@@ -435,78 +430,78 @@ Commentary
 
 ### [Health](https://www.washingtontimes.com/culture/health/)
 
-#### [U.S. water polo star cheered on by her husband at Paris Olympics as he deals with lung cancer](https://www.washingtontimes.com/news/2024/jul/27/us-water-polo-star-cheered-on-by-her-husband-at-pa/)
+#### [Lice, scabies, rashes plague Palestinian children as skin disease runs rampant in Gaza’s tent camps](https://www.washingtontimes.com/news/2024/jul/31/lice-scabies-rashes-plague-palestinian-children-as/)
 
-#### [Olympic athletes aren’t afraid of getting sick after rain at the opening ceremony](https://www.washingtontimes.com/news/2024/jul/27/olympic-athletes-arent-afraid-of-getting-sick-afte/)
+#### [Alexandra Eckersley says she thought baby died after she gave birth in the woods](https://www.washingtontimes.com/news/2024/jul/31/alexandra-eckersley-says-she-thought-baby-died-aft/)
 
-#### [Elon Musk’s transgender child rips ‘uncaring’ father after he says ‘my son is dead’](https://www.washingtontimes.com/news/2024/jul/26/elon-musks-transgender-child-rips-uncaring-father-/)
+#### [Olympics warns against ‘witch hunt’ as outrage builds over ‘men fighting women’](https://www.washingtontimes.com/news/2024/jul/31/olympics-warns-against-witch-hunt-as-outrage-build/)
 
 ### [Entertainment](https://www.washingtontimes.com/culture/entertainment/)
 
-#### [Plane crash in Wyoming kills 3 members of Nelons gospel group, 4 others](https://www.washingtontimes.com/news/2024/jul/27/plane-crash-in-wyoming-kills-3-members-of-nelons-g/)
+#### [MrBeast, YouTube’s biggest star, acknowledges past ‘inappropriate language’ as controversies swirl](https://www.washingtontimes.com/news/2024/jul/31/mrbeast-acknowledges-past-inappropriate-language-a/)
 
-#### [Bishops rip Olympics’ ‘Last Supper’ scene as ‘mockery of Christianity’](https://www.washingtontimes.com/news/2024/jul/27/bishops-rip-olympics-last-supper-scene-as-mockery-/)
+#### [Movie Review: ‘Harold and the Purple Crayon’ brings beloved book to life in a familiar story](https://www.washingtontimes.com/news/2024/jul/31/movie-review-harold-and-purple-crayon-brings-belov/)
 
-#### [‘Sorry my love.’ Italy’s Olympic flag bearer Tamberi loses his wedding ring in the Seine River](https://www.washingtontimes.com/news/2024/jul/27/sorry-my-love-italys-olympic-flag-bearer-tamberi-l/)
+#### [In first U.S. appearance since 2019, Anna Netrebko to sing at Palm Beach Opera gala](https://www.washingtontimes.com/news/2024/jul/31/in-first-us-appearance-since-2019-anna-netrebko-to/)
 
 ### [Travel](https://www.washingtontimes.com/culture/travel/)
 
-#### [Plane crash in Wyoming kills 3 members of Nelons gospel group, 4 others](https://www.washingtontimes.com/news/2024/jul/27/plane-crash-in-wyoming-kills-3-members-of-nelons-g/)
+#### [Need a greener getaway? Danish capital tests climate reward scheme for tourists](https://www.washingtontimes.com/news/2024/jul/31/need-greener-getaway-danish-capital-tests-climate-/)
 
-#### [Nebraska teen charged with criminal mischief for causing train to derail for YouTube video](https://www.washingtontimes.com/news/2024/jul/27/nebraska-teen-charged-with-criminal-mischief-for-c/)
+#### [DC Circulator bus to be phased out starting in October, stop running after end of year](https://www.washingtontimes.com/news/2024/jul/30/dc-circulator-bus-to-be-phased-out-starting-in-oct/)
 
-#### [Israeli soccer team booed during national anthem at Olympic opener](https://www.washingtontimes.com/news/2024/jul/26/israeli-soccer-team-booed-during-national-anthem-a/)
+#### [Air New Zealand scraps its 2030 carbon emissions target, saying solutions are costly and scarce](https://www.washingtontimes.com/news/2024/jul/30/air-new-zealand-ditches-its-2030-carbon-emissions-/)
 
 ### [Technology](https://www.washingtontimes.com/culture/technology/)
 
-#### [Nebraska teen charged with criminal mischief for causing train to derail for YouTube video](https://www.washingtontimes.com/news/2024/jul/27/nebraska-teen-charged-with-criminal-mischief-for-c/)
+#### [To boost sales, Etsy plans to test its first-ever loyalty program as it aims](https://www.washingtontimes.com/news/2024/jul/31/to-boost-sales-etsy-plans-to-test-its-first-ever-l/)
 
-#### [Justice Dept. says TikTok collected U.S. user views on issues like abortion and gun control](https://www.washingtontimes.com/news/2024/jul/27/justice-dept-says-tiktok-collected-us-user-views-o/)
+#### [Wearable AI and Bluetooth ‘Friend’ necklace to be available to consumers in 2025](https://www.washingtontimes.com/news/2024/jul/31/wearable-ai-and-bluetooth-friend-necklace-to-be-av/)
 
-#### [Apple signs on to pledge to keep artificial intelligence safe, administration says](https://www.washingtontimes.com/news/2024/jul/26/apple-signs-on-to-pledge-to-keep-artificial-intell/)
+#### [Ransomware attack disables computers at blood center serving 250 hospitals in southeast U.S.](https://www.washingtontimes.com/news/2024/jul/31/cyber-attack-disables-computers-at-blood-center-se/)
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)Policy
 ----------------------------------------------------------------------------------------
 
 ### [Energy & Environment](https://www.washingtontimes.com/specials/energy-environment-news/)
 
-#### [California fire scorches through land the size of Los Angeles as blazes burn across U.S. West](https://www.washingtontimes.com/news/2024/jul/27/california-fire-scorches-through-land-size-of-los-/ "California fire scorches through land the size of Los Angeles as blazes burn across U.S. West")
+#### [Harris' flip-flop on fracking frames fight for Pennsylvania voters](https://www.washingtontimes.com/news/2024/jul/31/kamala-harris-flip-flop-on-fracking-frames-fight-f/ "Harris' flip-flop on fracking frames fight for Pennsylvania voters")
 
 ### [Banking & Finance](https://www.washingtontimes.com/specials/banking-finance/)
 
-#### [Macy's terminates takeover talks with Arkhouse and Brigade citing lack of certainty over financing](https://www.washingtontimes.com/news/2024/jul/15/macys-drops-takeover-talks-with-arkhouse-and-briga/ "Macy's terminates takeover talks with Arkhouse and Brigade citing lack of certainty over financing")
+#### [Biden administration ramps up student loan forgiveness plan](https://www.washingtontimes.com/news/2024/jul/31/biden-administration-ramps-up-student-loan-forgive/ "Biden administration ramps up student loan forgiveness plan")
 
 ### [Coronavirus (COVID-19) pandemic updates](https://www.washingtontimes.com/specials/coronavirus-covid-19-pandemic-updates/)
 
-#### [Biden's virus symptoms are gone, says his doctor](https://www.washingtontimes.com/news/2024/jul/23/joe-bidens-virus-symptoms-are-gone-says-white-hous/ "Biden's virus symptoms are gone, says his doctor")
+#### [Study finds declining trust in doctors and hospitals during COVID hurt vaccination rates](https://www.washingtontimes.com/news/2024/jul/31/study-finds-declining-trust-in-doctors-and-hospita/ "Study finds declining trust in doctors and hospitals during COVID hurt vaccination rates")
 
 ### [Second Amendment & Gun Control](https://www.washingtontimes.com/specials/second-amendment-and-gun-control/)
 
-#### [Supreme Court to hear disputes over ghost guns, veteran disabilities, pollution during new term](https://www.washingtontimes.com/news/2024/jul/26/supreme-court-to-hear-disputes-over-ghost-guns-vet/ "Supreme Court to hear disputes over ghost guns, veteran disabilities, pollution during new term")
+#### [Another ammo vending machine pops up, this time in Colorado](https://www.washingtontimes.com/news/2024/jul/31/another-ammo-vending-machine-pops-up-this-time-in-/ "Another ammo vending machine pops up, this time in Colorado")
 
 ### [Immigration Reform](https://www.washingtontimes.com/specials/immigration-reform/)
 
-#### [House GOP condemns 'border czar' Harris for handling of southern border](https://www.washingtontimes.com/news/2024/jul/25/house-gop-condemns-border-czar-kamala-harris-for-h/ "House GOP condemns 'border czar' Harris for handling of southern border")
+#### [DHS faulted for not posting 'child-friendly decorations' in border detention cells](https://www.washingtontimes.com/news/2024/jul/31/dhs-faulted-for-not-posting-child-friendly-decorat/ "DHS faulted for not posting 'child-friendly decorations' in border detention cells")
 
 ### [Homeland & Cybersecurity](https://www.washingtontimes.com/specials/intelligence-cybersecurity/)
 
-#### [Apple signs on to pledge to keep artificial intelligence safe, administration says](https://www.washingtontimes.com/news/2024/jul/26/apple-signs-on-to-pledge-to-keep-artificial-intell/ "Apple signs on to pledge to keep artificial intelligence safe, administration says")
+#### [Microsoft wants deepfake law to protect elections, urges Congress to act fast on AI](https://www.washingtontimes.com/news/2024/jul/30/microsoft-wants-deepfake-law-to-protect-elections-/ "Microsoft wants deepfake law to protect elections, urges Congress to act fast on AI")
 
 ### [Aerospace & Defense](https://www.washingtontimes.com/specials/defense-aerospace/)
 
-#### [Pentagon chief calls Vice President Kamala Harris 'key player' on national security issues](https://www.washingtontimes.com/news/2024/jul/25/defense-secretary-lloyd-austin-calls-vice-presiden/ "Pentagon chief calls Vice President Kamala Harris 'key player' on national security issues")
+#### [Netanyahu vows to do 'whatever it takes' to protect Israelis in face of fury over strikes](https://www.washingtontimes.com/news/2024/jul/31/iranian-supreme-leader-vows-to-avenge-death-of-ham/ "Netanyahu vows to do 'whatever it takes' to protect Israelis in face of fury over strikes")
 
 ### [Taxes & Budget](https://www.washingtontimes.com/specials/taxes-budget/)
 
-#### [House cancels votes next week amid trouble passing spending bills](https://www.washingtontimes.com/news/2024/jul/24/house-cancels-votes-next-week-amid-trouble-passing/ "House cancels votes next week amid trouble passing spending bills")
+#### [IRS keeps dozens of intentional tax cheats on payroll](https://www.washingtontimes.com/news/2024/jul/29/irs-allowed-tax-cheat-employees-to-keep-their-jobs/ "IRS keeps dozens of intentional tax cheats on payroll")
 
 ### [Law Enforcement & Intelligence](https://www.washingtontimes.com/specials/law-enforcement-intelligence/)
 
-#### [FBI hasn't interviewed Trump about assassination attempt](https://www.washingtontimes.com/news/2024/jul/26/fbi-hasnt-interviewed-donald-trump-about-assassina/ "FBI hasn't interviewed Trump about assassination attempt")
+#### [Secret Service chief 'ashamed' shooter able to fire at Trump, announces disciplinary probe](https://www.washingtontimes.com/news/2024/jul/30/secret-service-chief-ashamed-shooter-able-to-fire-/ "Secret Service chief 'ashamed' shooter able to fire at Trump, announces disciplinary probe")
 
 ### [Transportation & Infrastructure](https://www.washingtontimes.com/specials/transportation-infrastructure/)
 
-#### [Plane crash in Wyoming kills 3 members of Nelons gospel group, 4 others](https://www.washingtontimes.com/news/2024/jul/27/plane-crash-in-wyoming-kills-3-members-of-nelons-g/ "Plane crash in Wyoming kills 3 members of Nelons gospel group, 4 others")
+#### [Self-driving Tesla killed motorcyclist in April, say police](https://www.washingtontimes.com/news/2024/jul/31/self-driving-tesla-killed-motorcyclist-in-april-sa/ "Self-driving Tesla killed motorcyclist in April, say police")
 
 ### Newsletters
 
