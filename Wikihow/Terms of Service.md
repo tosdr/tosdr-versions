@@ -390,23 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
-[![Tell if Your Best Friend Loves You](https://www.wikihow.com/images/thumb/9/9b/Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg/-crop-126-120-126px-Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg)
+[![Deep Things to Say to Your Boyfriend over Text](https://www.wikihow.com/images/thumb/0/00/Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg/-crop-126-120-126px-Deep-Things-to-Say-to-Your-Boyfriend-over-Text-Step-24.jpg)
+
+Romantic and Thoughtful Texts to Send to Your Boyfriend to Make Him Feel Special](https://www.wikihow.com/Deep-Things-to-Say-to-Your-Boyfriend-over-Text)
+
+[![Practice Self Care](https://www.wikihow.com/images/thumb/5/5f/Use-Your-Time-Wisely-Step-4-Version-2.jpg/-crop-126-120-126px-Use-Your-Time-Wisely-Step-4-Version-2.jpg)
 
 How to  
-Tell if Your Best Friend Loves You](https://www.wikihow.com/Tell-if-Your-Best-Friend-Loves-You)
+Practice Self Care](https://www.wikihow.com/Practice-Self-Care)
 
-[![Be a Better Person](https://www.wikihow.com/images/thumb/d/da/Be-a-Better-Person-Step-13-Version-6.jpg/-crop-126-120-126px-Be-a-Better-Person-Step-13-Version-6.jpg)
+[![Get to Know Yourself](https://www.wikihow.com/images/thumb/2/28/Get-to-Know-Yourself-Step-14.jpg/-crop-126-120-126px-Get-to-Know-Yourself-Step-14.jpg)
 
-How to Be a Better Person: A Guide to Self-Improvement](https://www.wikihow.com/Be-a-Better-Person)
+How to Get to Know Yourself: A Guide to Self-Discovery](https://www.wikihow.com/Get-to-Know-Yourself)
 
-[![Late Night Date Ideas](https://www.wikihow.com/images/thumb/c/c6/Late-Night-Date-Ideas-Step-17-Version-2.jpg/-crop-126-120-126px-Late-Night-Date-Ideas-Step-17-Version-2.jpg)
-
-17+ Fun & Easy Late Night Date Ideas](https://www.wikihow.com/Late-Night-Date-Ideas)
-
-[![Be Friendly](https://www.wikihow.com/images/thumb/e/ee/Be-Friendly-Step-21-Version-2.jpg/-crop-126-120-126px-Be-Friendly-Step-21-Version-2.jpg)
+[![Become Ambidextrous](https://www.wikihow.com/images/thumb/9/94/Become-Ambidextrous-Step-10.jpg/-crop-126-120-126px-Become-Ambidextrous-Step-10.jpg)
 
 How to  
-Be Friendly](https://www.wikihow.com/Be-Friendly)
+Become Ambidextrous](https://www.wikihow.com/Become-Ambidextrous)
 
   
 
@@ -447,4 +447,4 @@ Follow Us
 
 \-
 
-182
+175
