@@ -76,11 +76,11 @@
     Espace réservé à tout organisme public ou privé souhaitant rejoindre Signal Spam
     
 
-Rechercher
+Search
 
-Rechercher 
+Search 
 
-Fermer ce champ de recherche.
+Close this search box.
 
 [SIGNALER](https://signalants.signal-spam.fr/login)
 
