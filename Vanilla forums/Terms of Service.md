@@ -55,7 +55,7 @@
             * [Blog](https://vanilla.higherlogic.com/blog/)
         * * [Podcast](https://vanilla.higherlogic.com/podcasts/)
             * [News](https://vanillaforums.com/news/)
-        * * [![](https://vanilla.higherlogic.com/wp-content/uploads/2024/07/LinkedIn_Community-CX-e1721071610378.jpg)](https://www.higherlogic.com/w/jul-2024-community-cx-elevating-self-service/)
+        
 * [About Higher Logic](#)
     * * * [Our History](https://www.higherlogic.com/history/)
             * [Our Expertise](https://www.higherlogic.com/our-expertise/)
