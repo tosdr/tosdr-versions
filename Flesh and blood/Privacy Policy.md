@@ -1,4 +1,4 @@
-1. [Home](https://fabtcg.com/en/)
+1. [Home](https://fabtcg.com/)
 
 3. Privacy Policy
 
