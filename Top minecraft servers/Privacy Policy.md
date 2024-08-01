@@ -18,8 +18,6 @@
 * [Sponsored](https://topminecraftservers.org/sponsor.php)
 * [Contact](https://topminecraftservers.org/contact.php)
 
-[Bidding is now open for featured server slots.](https://topminecraftservers.org/sponsor.php)
-
 Privacy Policy
 ==============
 
@@ -49,17 +47,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![PotterCraft MC Trailer](//i.ytimg.com/vi/EOX1EFw1QOI/0.jpg)  
-PotterCraft MC](https://topminecraftservers.org/server/29440)
+[![Havoc Games // The Mining Dead // CTA Trailer](//i.ytimg.com/vi/R6YFkRpO5H4/0.jpg)  
+Havoc Games // The Mining Dead // CTA](https://topminecraftservers.org/server/9146)
 
-[![SurNet Trailer](//i.ytimg.com/vi/47ZpcSZIUhI/0.jpg)  
-SurNet](https://topminecraftservers.org/server/27767)
+[![IrohMC Trailer](//i.ytimg.com/vi/BfNSmvalP90/0.jpg)  
+IrohMC](https://topminecraftservers.org/server/37770)
 
-[![Boats N' Bunnies Trailer](//i.ytimg.com/vi/cKE0G71IGY0/0.jpg)  
-Boats N' Bunnies](https://topminecraftservers.org/server/27299)
+[![FraggleCraft - SMP/Prison Trailer](//i.ytimg.com/vi/RqUG94Islts/0.jpg)  
+FraggleCraft - SMP/Prison](https://topminecraftservers.org/server/15375)
 
-[![PokeNova Trailer](//i.ytimg.com/vi/WZ38Id8oY8g/0.jpg)  
-PokeNova](https://topminecraftservers.org/server/37587)
+[![ÆSİRMC RPG TURKEY Trailer](//i.ytimg.com/vi/jX3ERS6j9iE/0.jpg)  
+ÆSİRMC RPG TURKEY](https://topminecraftservers.org/server/26134)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -67,4 +65,4 @@ PokeNova](https://topminecraftservers.org/server/37587)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.282263 seconds to load
+Page took 0.238057 seconds to load
