@@ -93,7 +93,6 @@ Delivery cost from
     * [SolarEdge Home](https://sps24.eu/en/menu/battery-modules/solaredge-home-4044.html "SolarEdge Home")
     * [Pylontech Force](https://sps24.eu/en/menu/battery-modules/pylontech-force-4052.html "Pylontech Force")
     * [BMZ Hyperion](https://sps24.eu/en/menu/battery-modules/bmz-hyperion-4065.html "BMZ Hyperion")
-    * [Growatt](https://sps24.eu/en/menu/battery-modules/growatt-4067.html "Growatt")
     * [LG Chem RESU](https://sps24.eu/en/menu/battery-modules/lg-chem-resu-4770.html "LG Chem RESU")
     * [Solplanet](https://sps24.eu/en/menu/battery-modules/solplanet-4802.html "Solplanet")
     * [Deye](https://sps24.eu/en/menu/battery-modules/deye-4862.html "Deye")
@@ -216,7 +215,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=682aa1f5e37972ed8b48ed938c349dd5)
+![pixel](https://client4733.idosell.com/checkup.php?c=fbe8e9bfab09d0fba428679b45781c58)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
