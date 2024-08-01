@@ -1,27 +1,140 @@
- 
+[Skip to content](#content)
 
-![](//www.seekdiscomfort.com/cdn/shop/files/SD_LOGO_2.png?v=1721164967&width=2222)
+[Search](https://www.seekdiscomfort.com/search)
 
-0
+* [SHOP](https://www.seekdiscomfort.com/collections/all)
+* [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
 
-Day
+[![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=500)](https://www.seekdiscomfort.com/ "Seek Discomfort")
 
-00
+[Account](https://www.seekdiscomfort.com/account/login) [Search](https://www.seekdiscomfort.com/search)
 
-Hour
+[](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
-00
+GO TO EUROPEAN SITE
 
-Min
+[Cart](https://www.seekdiscomfort.com/cart)
 
-00
+* [SHOP](https://www.seekdiscomfort.com/collections/all)[](#)
+    
+    * [All Products](https://www.seekdiscomfort.com/collections/all)
+    * [New Arrivals](https://www.seekdiscomfort.com/collections/new-products)
+    * [Tees](https://www.seekdiscomfort.com/collections/t-shirts)
+    * [Fleece](https://www.seekdiscomfort.com/collections/hoodies-and-sweaters)
+    * [Headwear](https://www.seekdiscomfort.com/collections/hats)
+    * [Accessories](https://www.seekdiscomfort.com/collections/accessories)
+    
+* [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
+* [GO TO EUROPEAN SITE](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
-Sec
+[](#)
 
-Ends July 28, 2024 at 9:00 am
+Privacy Page
+============
 
- 
+Your request was verified!
 
-Password
+You will soon receive a confirmation email. We will soon get back to you as to your request.
 
- Enter
+A problem occurred.
+
+Your request was not verified. Please try again and if problem persists, contact store owner for assistance
+
+Thank you for your request!
+
+If you are registered as a customer of this store, you will soon receive an email with instructions on how to proceed.
+
+A problem occurred.
+
+Your request was not submitted. Please try again and if problem persists, contact store owner for assistance
+
+### Cookie Policy Consent
+
+You have not consented to the cookie policy of this website.
+
+You have already consented to the cookies policy of this website.
+
+* [I want to change my consent.](javascript:void(0))
+
+You must login to make data requests below.
+
+### Access to Personal Data & Data Portability
+
+You have the right to be able to access your personal data at any time. This includes your account information, your order records as well as any GDPR related requests you have made so far.
+
+* [Download data](javascript:void(0))
+* [Download data](javascript:void(0))
+* [Account Info](javascript:void(0))
+* [Order Records](javascript:void(0))
+* [GDPR Requests](javascript:void(0))
+
+ Please enter a valid email address
+
+Cancel Submit request
+
+### Data Rectification
+
+You have the right to request a rectification of your data whenever you think it is appropriate.
+
+* [Edit your account information](javascript:void(0))
+
+ Please enter a valid email address Please enter a comment
+
+Cancel Submit request
+
+### Right to be Forgotten
+
+Use this option if you want to remove your personal and other data from our store. Keep in mind that **this process will delete your account, so you will no longer be able to access or use it anymore**.
+
+* [Request personal data deletion](javascript:void(0))
+
+ Please enter a valid email address
+
+Are you sure you want your personal data to be deleted? Cancel Submit request
+
+SEEK
+
+* [About Us](https://www.seekdiscomfort.com/pages/our-story)
+* [Collections](https://www.seekdiscomfort.com/pages/collection-list)
+
+CORPORATE
+
+* [Terms and Conditions](https://www.seekdiscomfort.com/pages/terms-conditions)
+* [Privacy Policy](https://www.seekdiscomfort.com/pages/privacy)
+
+CUSTOMER
+
+* [Account](https://www.seekdiscomfort.com/pages/account)
+* [Contact Us](https://www.seekdiscomfort.com/pages/contact-us)
+* [FAQ](https://www.seekdiscomfort.com/pages/faq)
+* [Accessibility](https://www.seekdiscomfort.com/pages/accessibility)
+
+![](//www.seekdiscomfort.com/cdn/shop/files/SD1.png?v=1715789258&width=300)
+
+* [Facebook](https://www.facebook.com/seekdiscomfort "Seek Discomfort on Facebook")
+* [Instagram](https://www.instagram.com/seek.discomfort "Seek Discomfort on Instagram")
+* [TikTok](https://www.tiktok.com/@seek.discomfort "Seek Discomfort on TikTok")
+* [Pinterest](https://br.pinterest.com/seekdiscomfort/ "Seek Discomfort on Pinterest")
+* [Twitter](https://x.com/seekdiscomfort_ "Seek Discomfort on Twitter")
+
+© 2024 Seek Discomfort.
+
+[Created by Alce Rocks](https://alce.rocks/)
+
+Your cart
+
+Close
+
+Spend **$125.00** more for **free shipping**!
+
+Your order is eligible for free shipping!
+
+[Checkout](https://www.seekdiscomfort.com/checkout)
+
+Close
+
+Your cart is empty
+
+[Start shopping](https://www.seekdiscomfort.com/collections/all)
+
+[](#)
