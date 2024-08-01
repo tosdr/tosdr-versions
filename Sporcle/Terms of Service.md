@@ -51,12 +51,13 @@
     3. [Quests](https://www.sporcle.com/quests/)
     4. [Create](https://www.sporcle.com/create/)
     5. [Leaderboards](https://www.sporcle.com/leaderboard/topplayers/mostplayed/last30days)
-    6. [Showdown](https://www.sporcle.com/showdown/)
-    7. [Live 5](https://www.sporcle.com/livefive/)
-    8. [Trivia Bingo](https://www.sporcle.com/bingo/)
-    9. [Activity](https://www.sporcle.com/activity/)
-    10. [Math Test](https://www.sporcle.com/math-test/)
-    11. [Puzzle Library](https://www.sporcle.com/reference/)
+    6. [Activity](https://www.sporcle.com/activity/)
+    7. [Puzzle Library](https://www.sporcle.com/reference/)
+    8. [Showdown](https://www.sporcle.com/showdown/)
+    9. [Live 5](https://www.sporcle.com/livefive/)
+    10. [Trivia Bingo](https://www.sporcle.com/bingo/)
+    11. [Math Test](https://www.sporcle.com/math-test/)
+    12. [Typing Test](https://www.typingtest.com/)
 4. 1. [Sporcle Events](https://www.sporcle.com/events/)
         1. [Find a Game](https://www.sporcle.com/events/locations/)
         2. [Private Events](https://www.sporcle.com/events/private-events/)
@@ -444,7 +445,7 @@ est. 2007
 
 mentally stimulating diversions](https://www.sporcle.com/)
 
-5,696,518,039 quizzes played
+5,701,555,729 quizzes played
 
 Remove Ads.
 
