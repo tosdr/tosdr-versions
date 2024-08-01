@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/bruce-springsteen-zet-banksector-te-kakken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/evolutie-van-bewustzijn-aanvaarden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -154,7 +154,7 @@ Inschrijven
 
 #### Quote van de week
 
-> Toen ik jonger was, kon ik me álles herinneren, of het nu gebeurd was of niet
+> Als je jezelf aantreft tussen een meerderheid, is het de hoogste tijd, even een pauze in te lassen en te reflecteren.
 > 
 > Mark Twain (1835-1910), publicist/humorist
 
