@@ -1,6 +1,6 @@
 [![Speedcheck](https://cdn.speedcheck.org/assets/images/speedcheck-logo.png "Speedcheck logo and name")](https://www.speedcheck.org/)
 
-###### Last Updated: June 11, 2024
+###### Last Updated: July 30, 2024
 
 Speedcheck Privacy Policy
 =========================
@@ -265,6 +265,12 @@ The data collected is used statistically, with the purposes of supporting the de
 In case of any clarification that you might need, you can contact anytime our Data Privacy Officer at the e-mail address ins.datenschutz@umlaut.com
 
 Further details on umlaut privacy approach can be checked on this webpage: [https://tacs.c0nnectthed0ts.com/policy1/data\_privacy.html](https://tacs.c0nnectthed0ts.com/policy1/data_privacy.html)
+
+### Placer Labs Inc.
+
+Placer Labs Inc may collect and share precise location information, including the presence of connected devices via Bluetooth or Wi-Fi. The location data collected is stripped of identifiers such as device IDs, MAIDs, names, etc, on our cloud before it is sent to the partner. Placer Labs Inc. may use the data in aggregated or anonymized forms for market research purposes only.Placer Labs Inc may collect and share precise location information, including the presence of connected devices via Bluetooth or Wi-Fi. The location data collected is stripped of identifiers such as device IDs, MAIDs, names, etc, on our cloud before it is sent to the partner. Placer Labs Inc. may use the data in aggregated or anonymized forms for market research purposes only.
+
+Further details on Placer's privacy approach can be checked on this webpage: [https://www.placer.ai/privacy-policy/consumer-privacy-policy](https://www.placer.ai/privacy-policy/consumer-privacy-policy)
 
 Disclosure Of Data
 ------------------
