@@ -17,6 +17,7 @@ Quick Search:
     * [Boat Loan Calculator](https://www.thecalculatorsite.com/finance/calculators/boat-loan.php)
     * [CAGR Calculator](https://www.thecalculatorsite.com/finance/calculators/cagr-calculator.php)
     * [Car Loan Calculator](https://www.thecalculatorsite.com/finance/calculators/carloancalculator.php)
+    * [Cash Back Calculator](https://www.thecalculatorsite.com/finance/calculators/cash-back.php)
     * [Credit Card Repayment](https://www.thecalculatorsite.com/finance/calculators/credit-card-payment-calculators.php)
     * [Currency Converter](https://www.thecalculatorsite.com/finance/calculators/currencyconverter.php)
     
@@ -31,10 +32,10 @@ Quick Search:
     * [Loan Payoff Calculator](https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php)
     * [Margin Calculator](https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php)
     * [Million to Billion Converter](https://www.thecalculatorsite.com/finance/calculators/million-billion)
+    * [Money Counter](https://www.thecalculatorsite.com/finance/calculators/money-counter.php)
     
      
     
-    * [Money Counter](https://www.thecalculatorsite.com/finance/calculators/money-counter.php)
     * [Mortgage Calculator](https://www.thecalculatorsite.com/finance/calculators/mortgagecalculator.php)
     * [Mortgage Refinance](https://www.thecalculatorsite.com/finance/calculators/mortgage-refinance-calculator.php)
     * [Price Per Square Foot](https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php)
