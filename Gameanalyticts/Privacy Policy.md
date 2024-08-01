@@ -1,6 +1,6 @@
-💰 \[Webinar\] Exploring monetization success: Data-driven strategies for game developers
+📈\[NEW\] Export your game data to Google Cloud Storage to build your custom data warehouse
 
-[RSVP here](https://www.linkedin.com/events/7234626431257899009/)
+[Learn more](https://gameanalytics.com/datasuite/raw-export/)
 
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
@@ -311,7 +311,7 @@ GameAnalytics is committed to complying with the Children’s Online Privacy Pro
 
 As required by COPPA, our privacy policy clearly states that we do not share personal information or persistent identifiers related to children with third parties.
 
-If you are a parent or guardian and you are aware that your child has provided us with their Personal Data without your consent, please contact us via email at [privacy@gameanalytics.com](mailto:privacy@gameanalytics.com) or via phone at +45 20110132.
+If you are a parent or guardian and you are aware that your child has provided us with their Personal Data without your consent, please contact us at [privacy@gameanalytics.com](mailto:privacy@gameanalytics.com).
 
 By using our Services, you acknowledge that you have read and understood our commitment to COPPA compliance and our practices regarding the collection and use of personal information from children.
 
