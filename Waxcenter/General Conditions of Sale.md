@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Your First Wax is On Us!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
+[Introducing Eyebrow Tinting!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
 
 [NEW Get Smooth Summer Travel Kit!](https://waxcenter.com/collections/all/products/get-smooth-travel-kit)
 
@@ -40,7 +40,7 @@
         * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
-    * [Brow Tint](https://waxcenter.com/pages/brow-tint)
+    * [Brow Tint](https://waxcenter.com/pages/brow-tint-2024)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
     * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
@@ -129,7 +129,7 @@
         * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
-    * [Brow Tint](https://waxcenter.com/pages/brow-tint)
+    * [Brow Tint](https://waxcenter.com/pages/brow-tint-2024)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
     * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
