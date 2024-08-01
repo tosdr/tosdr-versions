@@ -308,38 +308,6 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/27/tiffany-floyd-mom-blood-splattered-daughters-burger-king-meal-new-york/ "‘Mom, I Don’t Want Ketchup’: Terrified Mom Finds Blood Splattered On Daughter's Fast Food Meal")
-
-1
-
-[‘Mom, I Don’t Want Ketchup’: Terrified Mom Finds Blood Splattered On Daughter's Fast Food Meal](https://dailycaller.com/2024/07/27/tiffany-floyd-mom-blood-splattered-daughters-burger-king-meal-new-york/)
-
-US
-
-2
-
-[EXCLUSIVE: New Trump Rally Video Scorches Kamala For Pushing Dangerous Minnesota Bail Fund](https://dailycaller.com/2024/07/27/exclusive-trump-play-video-rally-slamming-kamala-encouraging-donations-bail-criminals-minnesota-freedom-fund/)
-
-Politics
-
-3
-
-[Dem Senator Loses Police Support For First Time In 12 Years](https://dailycaller.com/2024/07/26/dem-senator-sherrod-brown-loses-police-support-fop/)
-
-Politics
-
-4
-
-['Do You Want To Take A Risk?': Dems Nervous About Idea Of Whitmer As Harris' VP](https://dailycaller.com/2024/07/27/do-you-want-to-take-a-risk-dems-nervous-about-idea-of-whitmer-as-harris-vp/)
-
-Politics
-
-5
-
-[VICTOR DAVIS HANSON: Coup Upon Coup Upon Coup](https://dailycaller.com/2024/07/25/victor-davis-hanson-coup-democrats-joe-biden-kamala-harris/)
-
-Opinion
-
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
 * [](https://www.facebook.com/DailyCaller/ "Daily Caller Facebook")
@@ -447,6 +415,8 @@ Sign In With Google
 Sign In With Facebook
 
 Sign In With Apple
+
+Reset Password
 
 ![](/files/images/logo-black.svg)
 
