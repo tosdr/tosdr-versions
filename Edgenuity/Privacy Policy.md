@@ -12,7 +12,7 @@
             * [STEMHands-on, engaging options for STEM education](https://www.imaginelearning.com/products/science/)
         * * [Online Courses & Credit RecoveryDynamic online courses for intial credit and credit recovery in grades 6–12](https://www.imaginelearning.com/solutions/online-courses-credit-recovery/)
             * [Summer & Extended Learning SolutionsFlexible elective, literacy, math, and SEL course options](https://www.imaginelearning.com/solutions/summer-school-after-school/)
-            * [Multilingual LearnersImmersive and respectful support for students developing proficiency in multiple languages](https://www.imaginelearning.com/solutions/multilingual-learners/)
+            * [Multilingual LearnersImmersive and respectful support for Spanish students in PreK–12](https://www.imaginelearning.com/solutions/multilingual-learners/)
         * * [Social & Emotional LearningSupport students in learning life and social skills](https://www.imaginelearning.com/solutions/social-emotional-learning/)
             * [College & Career ReadinessEncourage students to explore opportunities beyond high school](https://www.imaginelearning.com/solutions/college-career-readiness/)
             * [Special EducationComprehensive portfolio to drive success for students with disabilities](https://www.imaginelearning.com/imagine-ascend/)
@@ -23,7 +23,6 @@
     * * * [ProductsDigital-first K–12 programs for core instruction, supplemental support, personalized intervention](https://www.imaginelearning.com/products/)
             * [Products by Grade Level](https://www.imaginelearning.com/products/grade-level/)
             * [Product Updates](https://www.imaginelearning.com/product-updates/)
-            * [Product Tours](https://tours.imaginelearning.com/)
         * * [Core CurriculumPrograms to help students master grade-level ELA, math, and science](https://www.imaginelearning.com/solutions/core-curriculum/)
                 * [Imagine Learning EL Education](https://www.imaginelearning.com/products/ela/el-education/)
                 * [Imagine Learning Guidebooks](https://www.imaginelearning.com/products/ela/guidebooks/)
@@ -32,7 +31,7 @@
                 * [Twig Science](https://www.imaginelearning.com/products/science/twig-science/)
             * CoursewareOnline core, elective, and honors courses for 6–12
                 * [Imagine Edgenuity](https://www.imaginelearning.com/products/imagine-edgenuity/)
-                * [Imagine EdgeEX](https://www.imaginelearning.com/products/edgeex/)
+                * [Imagine EdgeEX](https://info.imaginelearning.com/introducing-edgeEX)
         * * [Supplemental & InterventionTargeted, age-appropriate, and personalized learning experiences](https://www.imaginelearning.com/solutions/intervention-supplemental/)
                 * [Imagine Language & Literacy](https://www.imaginelearning.com/products/ela/language-and-literacy/)
                 * [Imagine Español](https://www.imaginelearning.com/products/spanish-language-arts/espanol/)
@@ -42,10 +41,10 @@
                 * [Imagine Purpose](https://www.imaginelearning.com/solutions/social-emotional-learning/purpose/)
                 * [Imagine Robotify](https://www.imaginelearning.com/products/science/robotify/)
                 * [Imagine Science Corner](https://www.imaginelearning.com/products/science/imagine-science-corner/)
-                * [Imagine Sonday System](https://www.imaginelearning.com/products/special-education/sonday-system/)
         * * [AssessmentPre-built and customizable benchmark and formative assessments](https://www.imaginelearning.com/solutions/assessment/)
                 * [Imagine Galileo](https://www.imaginelearning.com/solutions/assessment/imagine-galileo/)
             * Special EducationEquitably drive success for students with disabilities
+                * [Imagine Sonday System](https://www.imaginelearning.com/products/special-education/sonday-system/)
 * [Services](https://www.imaginelearning.com/services/)
     * * * [ServicesPersonalized support, certified instructors, and custom solutions for schools, educators, and students](https://www.imaginelearning.com/services/)
         * * [Instructional ServicesCertified teachers improve student performance with communication, dynamic curriculum, and live instruction](https://www.imaginelearning.com/services/instructional-services/)
@@ -65,18 +64,6 @@
                 * [Imagine MyPath](https://www.imaginelearning.com/research-partner/mypath/)
                 * [Imagine EdgeEX](https://www.imaginelearning.com/research-partner/edgeex/)
                 * [Twig Science](https://www.imaginelearning.com/research-partner/twig-science/)
-* [Resources](#)
-    * * * [Resources](https://www.edgenuity.com/resources)
-        * * [AI ResourcesDownloadable resources, webinars, and the latest research on generative AI in K–12 education](https://www.edgenuity.com/AI-resources)
-            * [Why Choose High-Quality Instructional MaterialsWhat are High Quality Instructional Materials and why should you choose them?](https://www.imaginelearning.com/why-choose-high-quality-instructional-materials/ "HQIM Resources ")
-            * [Imagine Simply TeachingLearn from experts in the high-tech future of education](https://info.imaginelearning.com/imaginesimplyteaching)
-            * [WebinarUpcoming and on‑demand webinars crafted especially for educators](https://www.imaginelearning.com/support/webinars/)
-        * * [Funding & Resources](https://www.imaginelearning.com/support/funding-resources/)
-            * [Video Library](https://video.imaginelearning.com/)
-        * * [Imagine Community](https://www.imaginelearning.com/community/)
-                * [Teachers’ Lounge](https://www.imaginelearning.com/community/teachers-lounge/)
-                * [Inspiring Breakthroughs Blog](https://www.imaginelearning.com/blog/)
-                * [Success Stories](https://www.imaginelearning.com/community/success-stories/)
 * [Community](https://www.imaginelearning.com/community/)
     * * * [CommunityA welcoming community of innovative educators who take learning beyond what’s imaginable](https://www.imaginelearning.com/community/)
         * * [Teachers’ LoungeA virtual space for customers to connect, collaborate, and share classroom insights with colleagues across the country](https://www.imaginelearning.com/community/teachers-lounge/)
@@ -102,7 +89,7 @@
 * [Contact](https://www.imaginelearning.com/about/contact-us/)
 * [Search](https://www.imaginelearning.com/)
 
-[Power up your Back to School ‘24 with resources and tools](https://info.imaginelearning.com/backtoschool)
+[Privacy Policy updates take effect **August 15, 2024**: generative AI, data collection, and more](https://www.edgenuity.com/support/privacy/policy/)
 
 [Imagine Learning announces Imagine IM, the certified Illustrative Mathematics curriculum fully enhanced for engagement, accessibility, and usability.](https://www.imaginelearning.com/in-the-news/imagine-learning-announces-core-math-imagine-im-partnership-illustrative-mathematics/)
 
@@ -169,11 +156,11 @@ every day, every student
 In a year, Imagine Learning serves:
 -----------------------------------
 
-18 million
+15 million
 
 students
 
-2 million
+400,000+
 
 teachers
 
@@ -191,13 +178,13 @@ Learning Breakthrough Stories
 Our Latest Research
 -------------------
 
-[![Cover photo of Imagine Math research paper](https://www.imaginelearning.com/wp-content/uploads/2023/04/IL-featured-research-MAT-Students-Achieve-Greater-Growth-on-Renaissance-Star-Math-Test-Research-Brief.png)](https://www.imaginelearning.com/wp-content/uploads/2022/11/MAT-Students-Achieve-Greater-Growth-on-Renaissance-Star-Math-Test-Research-Brief.pdf)
+[![Cover photo of Imagine Math research paper](https://www.imaginelearning.com/wp-content/uploads/2023/04/il-research-paper-thumb-MAT-RenStar.png)](https://www.imaginelearning.com/wp-content/uploads/2022/11/MAT-RenStar-Research-Brief-2202.pdf)
 
 [![imagine purpose prep](https://www.imaginelearning.com/wp-content/uploads/2022/09/IL-MAT-product-logo_K.svg)](https://www.edgenuity.com/products/math/math/)
 
-### [Imagine Math Users Achieve Greater Renaissance Star Math Test Growth Than Peers](https://www.edgenuity.com/wp-content/uploads/2022/11/MAT-Students-Achieve-Greater-Growth-on-Renaissance-Star-Math-Test-Research-Brief.pdf)
+### [Imagine Math Users Achieve Greater Renaissance Star Math Test Growth Than Peers](https://www.edgenuity.com/wp-content/uploads/2022/11/MAT-RenStar-Research-Brief-2202.pdf)
 
-[Read More](https://www.imaginelearning.com/wp-content/uploads/2022/11/MAT-Students-Achieve-Greater-Growth-on-Renaissance-Star-Math-Test-Research-Brief.pdf)
+[Read More](https://www.imaginelearning.com/wp-content/uploads/2022/11/MAT-RenStar-Research-Brief-2202.pdf)
 
 [Browse Research](https://www.imaginelearning.com/research/)
 
@@ -242,21 +229,21 @@ Get started with Imagine Learning
 * [Blog](#blog)
 * [News & Press](#news_press)
 
-[![](/wp-content/uploads/2024/08/IL-inspired-card-BTS-24.jpg)](https://info.imaginelearning.com/backtoschool)
+[![](/wp-content/uploads/2024/02/IL-tabbed-block-tile-summer-of-YES.jpg)](https://www.edgenuity.com/the-summer-of-yes/)
 
-[### Power Up Your Back to School ’24](https://info.imaginelearning.com/backtoschool)[Learn More](https://info.imaginelearning.com/backtoschool)
+[### The Summer of YES: Custom Summer School Solutions](https://www.edgenuity.com/the-summer-of-yes/)[Learn More](https://www.edgenuity.com/the-summer-of-yes/)
 
-[![](/wp-content/uploads/2024/07/IL-inspired-card-AI-resources.jpg)](https://www.edgenuity.com/resources/ai-resources/)
+[![](/wp-content/uploads/2024/02/IL-inspired-card-LNL-20th-anniversary.jpg)](https://www.edgenuity.com/20-years-of-imagine-language-and-literacy/)
 
-[### Resources on Emerging Topics and Technologies](https://www.edgenuity.com/resources/ai-resources/)[Learn More](https://www.edgenuity.com/resources/ai-resources/)
+[### Celebrate 20 Years of Imagine Language & Literacy](https://www.edgenuity.com/20-years-of-imagine-language-and-literacy/)[Learn More](https://www.edgenuity.com/20-years-of-imagine-language-and-literacy/)
 
-[![](/wp-content/uploads/2024/07/IL-inspired-card-HQIM.jpg)](https://www.edgenuity.com/why-choose-high-quality-instructional-materials/)
+[![](/wp-content/uploads/2023/09/il-tabbed-block-tile-imagine-simply-teaching.jpg)](https://edu.imaginelearning.com/imaginesimplyteaching)
 
-[### Why Choose High-Quality Instructional Materials (HQIM)?](https://www.edgenuity.com/why-choose-high-quality-instructional-materials/)[Watch All Sessions](https://www.edgenuity.com/why-choose-high-quality-instructional-materials/)
+[### Imagine Simply Teaching Virtual Symposium](https://edu.imaginelearning.com/imaginesimplyteaching)[Watch All Sessions](https://edu.imaginelearning.com/imaginesimplyteaching)
 
-[![](/wp-content/uploads/2024/07/eex-ai-tile.png)](https://www.edgenuity.com/press/imagine-learning-saves-teachers-time-with-first-ai-feature-in-imagine-edgeex/)
+[![](/wp-content/uploads/2023/08/1183946081-Imagine-Learning-Ventures-social.jpg)](https://www.edgenuity.com/press/imagine-learning-launches-artificial-intelligence-focused-venture-fund/)
 
-[### Imagine Learning Introduces AI Grading Assistant for Writing in Imagine EdgeEX](https://www.edgenuity.com/press/imagine-learning-saves-teachers-time-with-first-ai-feature-in-imagine-edgeex/)[Learn More](https://www.edgenuity.com/press/imagine-learning-saves-teachers-time-with-first-ai-feature-in-imagine-edgeex/)
+[### Imagine Learning Launches Artificial Intelligence Focused Venture Fund](https://www.edgenuity.com/press/imagine-learning-launches-artificial-intelligence-focused-venture-fund/)[Learn More](https://www.edgenuity.com/press/imagine-learning-launches-artificial-intelligence-focused-venture-fund/)
 
 Community & Careers
 -------------------
@@ -295,7 +282,7 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 [Community](https://www.edgenuity.com/community)[](#collapse-community)
 
 * [Teachers' Lounge](https://www.edgenuity.com/community/teachers-lounge)
-* [Blog](https://www.edgenuity.com/blog)
+* [Inspiring Breakthroughs Blog](https://www.edgenuity.com/blog)
 * [Customer Stories](https://www.edgenuity.com/community/success-stories)
 
 [Products](https://www.edgenuity.com/products)[](#collapse-products)
@@ -310,7 +297,6 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 * [Social and Emotional Learning](https://www.edgenuity.com/solutions/social-emotional-learning)
 * [Products By Grade Level](https://www.edgenuity.com/products/grade-level)
 * [Product Updates](https://www.edgenuity.com/product-updates)
-* [Product Tours](https://tours.imaginelearning.com/)
 
 [Support](https://www.edgenuity.com/support)[](#collapse-support)
 
