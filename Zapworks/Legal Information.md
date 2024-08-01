@@ -4,7 +4,7 @@
 * [Blog](https://www.zappar.com/insights/)
 * [Contact Us](https://zap.works/contact/)
 
-[](https://zap.works/)
+[](https://zap.works/ "Zapworks Homepage button link")
 
 * Create
     
