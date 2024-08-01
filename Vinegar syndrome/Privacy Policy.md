@@ -95,7 +95,6 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Summer Subscriber Week FAQ](https://support.vinegarsyndrome.com/en-US/summer-subscriber-week-2024-552907)
 * [Mélusine.com](https://melusine.com/)
 *    [Log In/Create Account](https://vinegarsyndrome.com/account/login)
 
@@ -208,7 +207,6 @@
         * [Toronto, ON](https://www.instagram.com/vinegarsyndrometoronto)
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
-    * [Summer Subscriber Week FAQ](https://support.vinegarsyndrome.com/en-US/summer-subscriber-week-2024-552907)
 * [Mélusine.com](https://melusine.com/)
 
 Privacy Policy
@@ -338,20 +336,6 @@ contact@vinsyn.com
 
   
 **Last Edited on 2017-08-25**
-
-Subscribe to our newsletter!
-----------------------------
-
-Sign up for our newsletter to stay up to date on new releases, sales & events.
-
-  Join
-
-\*By completing this form you're signing up to receive our emails and can unsubscribe at any time
-
-* [](https://www.facebook.com/vinsyn)
-* [](https://instagram.com/vinegarsyndrome)
-* [](https://twitter.com/vinegarsyndrome)
-* [](https://www.youtube.com/user/vinegarsyndromefilms/videos)
 
 ### Info
 
