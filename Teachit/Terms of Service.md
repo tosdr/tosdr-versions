@@ -28,7 +28,7 @@ Below you will find Teachit's **terms and conditions**. If you have any questio
     * Membership Services means collectively both Free Membership and Subscription Services.
     * Products means teaching packs, books, posters and resources purchased from the Teachit online shop where these are not included with the Membership Services.
     * Subscription Services means membership services for which Teachit charges a subscription fee and enables access to editable and interactive content.
-    * Teachit means Teachit (Sandbox Learning Limited) / Sandbox Learning Limited - Registered in England & Wales (Company no. 12635255). Our registered office is Spaces Bath, Northgate House, Upper Borough Walls, Bath BA1 1RG, United Kingdom.
+    * Teachit means Teachit (Sandbox Learning Limited) / Sandbox Learning Limited - Registered in England & Wales (Company no. 12635255). Our registered office is 6th floor, Capital Tower, 91 Waterloo Road, London SE1 8RT, United Kingdom.
     * Teachit Materials means any materials, content or Products in whatever format accessed, downloaded or purchased via the Websites.
     * Terms and Conditions means these terms and conditions and any additional terms and conditions referred to herein or disclaimers with reference to, or displayed on, Teachit’s Websites whether by hyperlink or otherwise.
     * User means each person accessing the Websites. In the context of Membership Services, User means:
