@@ -391,12 +391,12 @@ Join our mission of getting 100 million people to work directly on climate in th
 #### Solutions-based courses
 
 * [Collaborative Negotiation for Climate Action](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
-* [Sustainable Personal Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
 * [Digital Product Decarbonization](https://terra.do/climate-change-courses/climate-efficient-digital-product-management/)
 * [Supply Chain Decarbonization](https://terra.do/climate-change-courses/supply-chain-decarbonization/)
 * [Software for Climate](https://terra.do/climate-change-courses/software-for-climate/)
 * [Carbon Removal Technologies and Risks](https://terra.do/climate-change-courses/carbon-removal-technologies-risks/)
 * [Climate Farm School](https://terra.do/climate-change-courses/climate-farm-school-regenerative-agriculture/)
+* [Sustainable Personal Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
 * [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
 * [Angel Investing in Climate Tech](https://terra.do/climate-change-courses/angel-investing-in-climate-tech/)
 * [Energy Decarbonization Pathways and Tools](https://terra.do/climate-change-courses/clean-energy-transitions-101/)
