@@ -2,7 +2,7 @@
 
 [](#)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
 
@@ -64,13 +64,13 @@ Get Directions
 
 [Back to Menu](#)
 
-[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/pages/mattresses) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
+[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/collections/mattress-store) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
-[Mattresses](https://www.thebrick.com/pages/mattresses) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses)
+[Mattresses](https://www.thebrick.com/collections/mattress-store) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses)
 
 [Back to Mattresses](#)
 
@@ -99,7 +99,7 @@ Get Directions
 
 [Back to Home Decor](#)
 
-[Decor and Accessories](https://www.thebrick.com/collections/home-decor-decor-and-accessories) [Accent Pillows](https://www.thebrick.com/collections/home-decor-decor-and-accessories-accent-pillows) [Rugs](https://www.thebrick.com/collections/home-decor-decor-and-accessories-area-rugs) [Bedding](https://www.thebrick.com/collections/mattresses-bedding) [Decorative Accessories](https://www.thebrick.com/collections/decorative-accessories) [Lighting](https://www.thebrick.com/collections/home-decor-decor-and-accessories-lamps) [Mirrors](https://www.thebrick.com/collections/home-decor-decor-and-accessories-mirrors) [Wall Art](https://www.thebrick.com/collections/home-decor-decor-and-accessories-art) [Plants](https://www.thebrick.com/collections/decor-plants) [Vanity Sinks](https://www.thebrick.com/collections/vanity-sinks)
+[Decor and Accessories](https://www.thebrick.com/collections/home-decor-decor-and-accessories) [Accent Pillows](https://www.thebrick.com/collections/home-decor-decor-and-accessories-accent-pillows) [Rugs](https://www.thebrick.com/collections/home-decor-decor-and-accessories-area-rugs) [Bedding](https://www.thebrick.com/collections/mattresses-bedding) [Decorative Accessories](https://www.thebrick.com/collections/home-decor-decorative-accessories) [Lighting](https://www.thebrick.com/collections/home-decor-decor-and-accessories-lamps) [Mirrors](https://www.thebrick.com/collections/home-decor-decor-and-accessories-mirrors) [Wall Art](https://www.thebrick.com/collections/home-decor-decor-and-accessories-art) [Plants](https://www.thebrick.com/collections/home-decor-plants) [Vanity Sinks](https://www.thebrick.com/collections/home-decor-vanity-sinks)
 
 [Back to Menu](#)
 
@@ -214,7 +214,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/786/assets/Brick-logo-en.svg?v=144201696812184966561721680504)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/789/assets/Brick-logo-en.svg?v=144201696812184966561722272291)](https://www.thebrick.com/)
 
  
 
@@ -444,11 +444,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/789/assets/lazyPixel.png?v=40482922527014850811722272323)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
