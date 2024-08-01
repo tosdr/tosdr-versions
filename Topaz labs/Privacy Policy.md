@@ -92,7 +92,7 @@ K
 
 [Functions](https://topazlabs.com/gigapixel-ai/functions)
 
-[Auto Mode](https://topazlabs.com/gigapixel-ai/functions/auto-mode)[Capture](https://topazlabs.com/gigapixel-ai/functions/capture)[Crop](https://topazlabs.com/gigapixel-ai/functions/crop)[Compare](https://topazlabs.com/gigapixel-ai/functions/compare)[File List](https://topazlabs.com/gigapixel-ai/functions/file-list)
+[Auto Mode](https://topazlabs.com/gigapixel-ai/functions/auto-mode)[Capture](https://topazlabs.com/gigapixel-ai/functions/capture)[Crop](https://topazlabs.com/gigapixel-ai/functions/crop)[Compare](https://topazlabs.com/gigapixel-ai/functions/compare)[File List](https://topazlabs.com/gigapixel-ai/functions/file-list)[Gigapixel Command Line Interface](https://topazlabs.com/gigapixel-ai/gp-command-line-interface)
 
 [Plugins](https://topazlabs.com/gigapixel-ai/plugins)
 
