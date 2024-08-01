@@ -1,11 +1,12 @@
 [Care2](https://www.care2.com/)
 
-* * [log off](https://www.thepetitionsite.com/passport/logoff.html)
-    * [my petitionsite](https://www.thepetitionsite.com/my/petitionsite)
+* * [log off](https://www.care2.com/passport/logoff.html)
+    * [my petitionsite](https://www.care2.com/my/petitionsite)
     
+* [MY](https://www.care2.com/c2c/my/)
 
-* [JOIN US](https://www.thepetitionsite.com/passport/login.html?promo=register)
-* [SIGN IN](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.thepetitionsite.com)
+* [JOIN US](https://www.care2.com/passport/login.html?promo=register)
+* [SIGN IN](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
 
 [Start A Petition](https://www.thepetitionsite.com/create-a-petition.html?cid=headerClickC2&src=care2&campaign=headerClickC2)
 
@@ -16,8 +17,8 @@
 
 [](#)[](https://www.care2.com/)
 
-* [JOIN US](https://www.thepetitionsite.com/passport/login.html?promo=register)
-* [SIGN IN](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.thepetitionsite.com)
+* [JOIN US](https://www.care2.com/passport/login.html?promo=register)
+* [SIGN IN](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
 
 [START A PETITION](https://www.thepetitionsite.com/create-a-petition.html)
 
@@ -70,7 +71,7 @@ Welcome to Care2! These Care2 Rules and Regulations are covered, along with addi
     Care2 is concerned about the safety and privacy of all its users, particularly children. For this reason, children under the age of 16 are prohibited from using the service without supervision by a legal guardian. Please remember that the Service is designed to appeal to a broad audience. Accordingly, as the legal guardian, it is your responsibility to determine whether any of the Services and/or Content are appropriate for your child.
     
 * **CARE2 PRIVACY POLICY**  
-    Registration Data and certain other information about you is subject to our Privacy Policy. For more information, see our full privacy policy at [https://www.care2.com/privacy-policy](http://www.care2.com/privacy-policy)
+    Registration Data and certain other information about you is subject to our Privacy Policy. For more information, see our full privacy policy at [http://www.care2.com/help/membership/privacy.html](http://www.care2.com/help/membership/privacy.html)
     
     Residents of the European Union are covered by our [GDPR Privacy Policy](http://www.care2.com/privacy-policy-gdpr).
     
@@ -226,7 +227,7 @@ Welcome to Care2! These Care2 Rules and Regulations are covered, along with addi
     
     The section titles in the CTS are for convenience only and have no legal or contractual effect.
     
-    Please report any violations of the CTS to Care2 Customer Support through our [help form](https://www.thepetitionsite.com/help/support).  
+    Please report any violations of the CTS to Care2 Customer Support through our [help form](http://www.care2.com/help/support).  
       
     or via postal Mail at:  
       
@@ -289,13 +290,13 @@ Welcome to Care2! These Care2 Rules and Regulations are covered, along with addi
 * [Terms of Service](https://www.care2.com/help/general/tos.html)
 * [Do Not Sell My Info](https://www.thepetitionsite.com/do-not-sell-my-info)
 * [Contact Us](https://www.care2.com/aboutus/contactus.html)
-* [Help](https://www.thepetitionsite.com/help)
+* [Help](https://www.care2.com/help)
 
 Copyright © 2024 Care2.com, inc. and its licensors. All rights reserved
 
-* [log in / Join](https://www.thepetitionsite.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
+* [log in / Join](https://www.care2.com/passport/login.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
 
-* [log out](https://www.thepetitionsite.com/passport/logoff.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
+* [log out](https://www.care2.com/passport/logoff.html?pg=https%3A%2F%2Fwww.care2.com%2Fhelp%2Fgeneral%2Ftos.html)
 
 ### CARE2 PETITIONS
 
