@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![](https://s19687.pcdn.co/wp-content/uploads/LogoBlue-500x55.png)](https://www.visiplex.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://s19687.pcdn.co/wp-content/uploads/LogoBlue-500x55.png)](https://www.visiplex.com/)
 
 [(847) 229-0250](tel:8472290250)
 
@@ -80,6 +82,8 @@ This website contains Visiplex, Inc. trademarks and service marks. All marks are
 
 [ABOUT VISIPLEX](https://www.visiplex.com/about-visiplex/)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
 ![](https://s19687.pcdn.co/wp-content/uploads/LogoWhite-500x55.png)
 
 Recognized worldwide as a leading manufacturer of wireless PA paging systems, two-way intercom, emergency notification solutions, break bell systems, time synchronization solutions and more.
@@ -99,6 +103,8 @@ info@visiplex.com
 Buffalo Grove, IL 60089
 
 © Visiplex, Inc. | All Rights Reserved. All Visiplex marks contained herein are trademarks of Visiplex and/or its affiliated companies.
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://s19687.pcdn.co/wp-content/uploads/made-in-usa-300px.png)
 
