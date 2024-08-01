@@ -9,6 +9,26 @@ Please confirm your location and we’ll send you to the appropriate site!
 
 [No, I'm not in Australia](#)
 
+X
+
+\[Sponsor Name\]
+----------------
+
+sent you a free month of YNAB!
+------------------------------
+
+‍
+
+Join the movement of YNABers who spend guilt-free thanks to our simple set of life-changing habits.
+
+Start with our 34-day free trial and you'll both get an **additional free month** when you subscribe.
+
+[Start Your Free Trial](https://www.youneedabudget.com/sign-up)
+
+Take your time and get to know us! Your free month is waiting for you.
+
+[**Accept Your Invitation!**](https://www.youneedabudget.com/sign-up)
+
 [![It's pronounced Why-NAB](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64870a06e2f95839889cc1a5_Logo-Buttermilk.png)
 
 It's pronounced ”why-nab”](https://www.youneedabudget.com/)
