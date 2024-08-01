@@ -2,7 +2,7 @@
 
 [Skip to Content](#page)
 
-[![SWOOP Analytics® | Digital Workplace Analytics](//images.squarespace-cdn.com/content/v1/5ea237e587e03021f9ef8cc2/3c30f3ee-7148-4282-9dbf-2f325e7bede5/SWOOP-Logo-2024.png?format=1500w)](https://www.swoopanalytics.com/)
+[![SWOOP Analytics® | Digital Workplace Analytics](//images.squarespace-cdn.com/content/v1/5ea237e587e03021f9ef8cc2/925b4650-75d9-42a2-a1da-deae6a43d85c/SWOOP-10-Years-Logo-Long.png?format=1500w)](https://www.swoopanalytics.com/)
 
 [Why SWOOP?](https://www.swoopanalytics.com/why-swoop)
 
@@ -94,7 +94,7 @@
 
 Open Menu Close Menu
 
-[![SWOOP Analytics® | Digital Workplace Analytics](//images.squarespace-cdn.com/content/v1/5ea237e587e03021f9ef8cc2/3c30f3ee-7148-4282-9dbf-2f325e7bede5/SWOOP-Logo-2024.png?format=1500w)](https://www.swoopanalytics.com/)
+[![SWOOP Analytics® | Digital Workplace Analytics](//images.squarespace-cdn.com/content/v1/5ea237e587e03021f9ef8cc2/925b4650-75d9-42a2-a1da-deae6a43d85c/SWOOP-10-Years-Logo-Long.png?format=1500w)](https://www.swoopanalytics.com/)
 
 [Why SWOOP?](https://www.swoopanalytics.com/why-swoop)
 
