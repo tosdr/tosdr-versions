@@ -149,7 +149,7 @@ For questions about terms of service, the practices of this site or any dealings
 MA 01801  
 1 (866) 328-5700
 
-[![Cybersecurity for your growing business](https://kasperskycontenthub.com/threatpost-global/files/2022/09/cybersecurity_336_300x2.jpg)](https://www.kaspersky.com/small-to-medium-business-security/cloud?reseller=gl_KES-Cloud-ThreatPost_awarn_ona_smm__all_b2b_some_ban_______&utm_source=threatpost&utm_medium=sm-project&utm_campaign=gl_KES-Cloud-ThreatPost_kk0084&utm_content=banner&utm_term=gl_threatpost_organic_w84uo46uhuoqivv)
+[![Cybersecurity for your growing business](https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/09/05095106/cybersecurity_336_300x2.jpg)](https://www.kaspersky.com/small-to-medium-business-security/cloud?reseller=gl_KES-Cloud-ThreatPost_awarn_ona_smm__all_b2b_some_ban_______&utm_source=threatpost&utm_medium=sm-project&utm_campaign=gl_KES-Cloud-ThreatPost_kk0084&utm_content=banner&utm_term=gl_threatpost_organic_w84uo46uhuoqivv)
 
 ### InfoSec Insider
 
