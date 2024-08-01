@@ -2,7 +2,33 @@
 
 [](https://sync.me/)
 
-[Features](https://sync.me/features/)
+[Features](https://sync.mefeatures/)
+
+Features
+
+### Features
+
+[Caller ID
+
+Identify Incoming Calls](https://sync.me/caller-id)[Merge Duplicates
+
+Cleanup duplicate contacts](https://sync.me/merge-duplicate-contacts)[Contacts Backup
+
+Secure your contacts](https://sync.me/contacts-backup)[Spam Blocker
+
+Stop unwanted calls](https://sync.me/spam-call-blocker)[Call Recorder
+
+Record important files](https://sync.me/call-recorder)[Call Themes
+
+Customized call experience](https://sync.me/call-themes)[Contact Sync
+
+Keep contacts up-to-date](https://sync.me/contact-sync)[Favorites
+
+Quick Access your favorite contacts](https://sync.me/favorite-contacts)[Contacts
+
+Manage your address book](https://sync.me/contacts-manager)
+
+[See all features >](https://sync.me/features)
 
 [Spam Detector](https://sync.me/main-sitemap/)
 
@@ -11,6 +37,8 @@
 More Apps
 
 Download
+
+Sign in
 
 en
 
@@ -43,7 +71,9 @@ EnglishRussianHebrewItalianArabicTurkishGermanyPortuguese brazilFrenchHindiPortu
 * [home](https://sync.me/)
 * Cookies Policy
 
-[Home](https://sync.me/)[Features](https://sync.me/features/)[Spam Detector](https://sync.me/main-sitemap/)[Support](https://sync.me/support/)[Contact Us](https://sync.me/contactus/)[Privacy](https://sync.me/privacy)[Terms of Use](https://sync.me/terms/)
+Sign in
+
+[Home](https://sync.me/)[Features](https://sync.mefeatures/)[Spam Detector](https://sync.memain-sitemap/)[Support](https://sync.mesupport/)[Contact Us](https://sync.mecontactus/)[Privacy](https://sync.meprivacy/)[Terms of Use](https://sync.meterms/)
 
 [](https://twitter.com/syncme)[](https://www.facebook.com/syncmeapp/)[](https://www.linkedin.com/company/sync-me/)
 
@@ -82,7 +112,7 @@ We use in our site [https://sync.me/](https://sync.me/) ("site") cookies and sim
 
 If you do not accept the use of these cookies, please disable them using the instructions in this cookie policy or by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. Important: disabling cookies on this Site may seriously cripple the user experience and other features on the Site, to the point of rendering them useless.
 
-In this Cookies Policy, we use the term Sync.Me (and "we", "us" and "our") to refer to Sync.Me Technologies Ltd. Our Privacy Policy is available at [https://sync.me/privacy/](https://sync.me/privacy).
+In this Cookies Policy, we use the term Sync.Me (and "we", "us" and "our") to refer to Sync.Me Technologies Ltd. Our Privacy Policy is available at [https://sync.me/privacy/](https://sync.meprivacy/).
 
 What is a cookie?
 
