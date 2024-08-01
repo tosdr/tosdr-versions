@@ -16,6 +16,14 @@
 * [Subscribe](https://www.thesheridanpress.com/subscribe)
 * [Manage Service](https://www.thesheridanpress.com/users/admin/service/)
 
+Home
+
+* [About Us](https://www.thesheridanpress.com/site/about.html)
+* [Contact Us](https://www.thesheridanpress.com/site/contact.html)
+* [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
+* [Subscribe](https://www.thesheridanpress.com/subscribe/)
+
 [News](https://www.thesheridanpress.com/news)
 
 * [Local News](https://www.thesheridanpress.com/news/local)
@@ -69,8 +77,8 @@
 * [Contact Us](https://www.thesheridanpress.com/site/contact.html)
 * [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
 * [Subscribe](https://www.thesheridanpress.com/subscribe/)
-* [Advertise](https://www.thesheridanpress.com/site/advertise.html/)
 * [e-Edition](https://www.thesheridanpress.com/eedition)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
 
 * [Facebook](https://www.facebook.com/thesheridanpress/ "Facebook")
 * [Twitter](https://twitter.com/sheridan_press/ "Twitter")
@@ -96,34 +104,10 @@
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==)
+**Your Community, Your News, Your Way!**
+----------------------------------------
 
-#### [Today's Weather](https://www.thesheridanpress.com/weather/)
-
-##### Right Now
-
-65°
-
-Clear
-
-* Humidity: 71%
-* Cloud Coverage: 50%
-* Wind: 1 mph
-* UV Index: 0 Low
-* Sunrise: 05:22:06 AM
-* Sunset: 08:57:16 PM
-
-### Today
-
-Mostly clear this evening. Becoming mostly cloudy with showers developing after midnight. Low 54F. Winds light and variable. Chance of rain 40%.
-
-### Tonight
-
-Mostly clear this evening. Becoming mostly cloudy with showers developing after midnight. Low 54F. Winds light and variable. Chance of rain 40%.
-
-### Tomorrow
-
-Scattered thunderstorms in the morning, then partly cloudy late. Storms may contain strong gusty winds. High 79F. Winds ESE at 5 to 10 mph. Chance of rain 40%.
+[Contact Us!](https://www.thesheridanpress.com/site/forms/)
 
 Toggle navigation
 
@@ -134,6 +118,12 @@ Toggle navigation
         Site search   Search
         
 
+* Home
+    * [About Us](https://www.thesheridanpress.com/site/about.html)
+    * [Contact Us](https://www.thesheridanpress.com/site/contact.html)
+    * [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
+    * [Advertise](https://www.thesheridanpress.com/advertise/)
+    * [Subscribe](https://www.thesheridanpress.com/subscribe/)
 * [News](https://www.thesheridanpress.com/news)
     * [Local News](https://www.thesheridanpress.com/news/local)
     * [Local Incident Reports](https://www.thesheridanpress.com/news/local-incident-reports/)
@@ -394,6 +384,7 @@ Except as explicitly noted on this site, the services available through this sit
 * [Email Alerts](https://www.thesheridanpress.com/users/admin/mailinglist)
 * [Search](https://www.thesheridanpress.com/search)
 * [Weather](https://www.thesheridanpress.com/weather)
+* [Advertise](https://www.thesheridanpress.com/advertise/)
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/f/1d/f1d7b3f8-f053-11ee-83a7-7f01830cde19/660af9f685705.image.png?resize=200%2C131)](https://www.thesheridanpress.com/)
 
@@ -402,6 +393,11 @@ Except as explicitly noted on this site, the services available through this sit
 Sheridan, WY 82801  
 **Phone:** 307-672-2431  
 **Email:** [headlines@thesheridanpress.com](mailto:headlines@thesheridanpress.com)  
+
+**Newsroom:** [news@thesheridanpress.com](mailto:news@thesheridanpress.com)  
+**Marketing:** [marketing@thesheridanpress.com](mailto:marketing@thesheridanpress.com)  
+**Graphic Design:** [production@thesheridanpress.com](mailto:production@thesheridanpress.com)  
+**Circulation:** [circulation@thesheridanpress.com](mailto:circulation@thesheridanpress.com)  
 
 ×
 
