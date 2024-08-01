@@ -8,7 +8,7 @@ Search
 
 Header icons menu
 
-* [Donate](https://www.tbn.org/give/donate "Donate to TBN today!")
+* [Donate](https://www.tbn.org/ambassador/give "Donate to TBN today!")
 * [Prayer](https://www.tbn.org/prayer "All prayers will be prayed over by TBN's Prayer staff...")
 * [Contact Us](https://www.tbn.org/contact "Contact TBN today!")
 * [TBN Shop](https://shop.tbn.org/)
@@ -42,7 +42,7 @@ Main navigation
 * [Giving](https://www.tbn.org/give "Find out the many ways you can give to TBN today!")
     * [Donor Opportunities](https://www.tbn.org/give "Ways to Give to TBN")
         * [Legacy Giving](https://www.tbn.org/give/legacy-giving "Set up a Living Legacy for TBN by giving estate, annuity and more!")
-        * [Foundation Partners](https://www.tbn.org/foundationpartners "Together We Can Reach Future Generations With God’s Love")
+        * [TBN Ambassadors](https://www.tbn.org/ambassador "Join us in taking the love of Jesus to every nation and people.")
         * [Ways To Give](https://www.tbn.org/give "Ways to Give to TBN")
         * [Request Info](https://www.tbn.org/giving/request-info "Request Info on Legacy Giving to TBN")
         * [All Offers](https://www.tbn.org/offers "Check out the list of TBN Resource Offers!")
@@ -66,7 +66,7 @@ Main navigation
 
 Header icons menu
 
-* [Donate](https://www.tbn.org/give/donate "Donate to TBN today!")
+* [Donate](https://www.tbn.org/ambassador/give "Donate to TBN today!")
 * [Prayer](https://www.tbn.org/prayer "All prayers will be prayed over by TBN's Prayer staff...")
 * [Contact Us](https://www.tbn.org/contact "Contact TBN today!")
 * [TBN Shop](https://shop.tbn.org/)
@@ -156,27 +156,71 @@ Contacting Us
 
 If you have comments or questions about our privacy policy, please use our [Contact Us](https://www.tbn.org/contact) form.
 
+Heading
+
+Introducing TBN+
+
+Description
+
+Empowering pastor-led content. From sermons to documentaries. Dive deep into faith & learn. Safe, clean, family-friendly shows & teaching on TBN+ app. Enrich your faith journey.
+
+Link
+
+[Subscribe Today](https://www.tbnplus.com/select-plan)
+
+Stay in the loop with all things TBN
+
+Social links
+
+* [Facebook](https://www.facebook.com/tbn "Connect with TBN on Facebook...")
+* [Instagram](https://instagram.com/tbn "Connect with TBN on Instagram...")
+* [TikTok](https://www.tiktok.com/@tbn_official "Connect with TBN on TikTok...")
+* [X](https://twitter.com/tbn "Connect with TBN on X...")
+* [YouTube](https://www.youtube.com/tbn "Connect with TBN on YouTube...")
+
 Footer buttons menu
 
 * [TBN Live](https://www.tbnplus.com/m/OZpATbsP/tbn?r=wUwJ86KF&play=1 "Click to watch TBN Live right now!")
 * [Video on Demand](https://www.tbnplus.com/ "Click to view any video available to TBN viewers on demand...")
 * [Donate Now](https://www.tbn.org/give/donate "Donate to TBN today!")
 
-Newsletter
-
-Newsletter by Mail? Sign Up Here
-
-Mobile Apps
+Download Our App
 
 * [App Store](https://itunes.apple.com/us/app/tbn-watch-tv-shows-live-tv/id348738437 "Download the TBN app for Apple iOS devices today!")
 * [Google Play](https://play.google.com/store/apps/details?id=tbn_mobile.android "Download the TBN app for Google Android devices today!")
 
-Social links
+Subscribe to TBN+ and Watch Anywhere
 
-* [Facebook](https://www.facebook.com/tbn "Connect with TBN on Facebook...")
-* [Twitter](https://twitter.com/tbn "Connect with TBN on Twitter...")
-* [Instagram](https://instagram.com/tbn "Connect with TBN on Instagram...")
-* [YouTube](https://www.youtube.com/tbn "Connect with TBN on YouTube...")
+* [Android TV](https://play.google.com/store/apps/details?id=tbn_mobile.android "Android TV")
+* [Apple TV+](https://apps.apple.com/us/app/tbn/id348738437?platform=appleTV "Apple TV+")
+* [Amazon Fire TV](https://www.amazon.com/TBN-Watch-Shows-Live-Free/dp/B01CV28J7A "Amazon Fire TV")
+* [LG](https://us.lgappstv.com/main/tvapp/detail?appId=1231442 "LG")
+* [Roku](https://channelstore.roku.com/details/adee2de8413d590eaadec69d4136d101/tbn-networks-tv "Roku")
+
+* * *
+
+Watch
+
+* [TBN+](https://www.tbn.org/apps "TBN+")
+* [Channel Finder](https://www.tbn.org/watch/channel-finder "Channel Finder")
+* [Programs](https://www.tbn.org/programs "Programs")
+* [People](https://www.tbn.org/people "People")
+
+Give
+
+* [Ways to Give](https://www.tbn.org/give "Ways to Give")
+* [Donate](https://www.tbn.org/give/donate "Donate")
+* [Donation Offers](https://www.tbn.org/offers "Donation Offers")
+* [Prayer Requests](https://www.tbn.org/prayer "Prayer Requests")
+
+About
+
+* [About](http://www.tbn.org/about "About")
+* [Careers](https://www.tbn.org/about/careers "Careers")
+* [Contact](https://www.tbn.org/contact "Contact")
+* [Help](https://www.tbn.org/help "Help")
+
+Sign Up For Mail Newsletter
 
 Footer menu
 
@@ -185,12 +229,6 @@ Footer menu
 * [Privacy](https://www.tbn.org/privacy "View the TBN Privacy Policy")
 * [Terms](https://www.tbn.org/terms "View the TBN Terms of Use")
 * [Sitemap](https://www.tbn.org/sitemap "Find what you're looking for on the TBN.org Sitemap")
-* [Careers](https://www.tbn.org/about/careers "Join Team TBN! ")
-* [Help](https://www.tbn.org/help "Get help and find answers to our Frequently Asked Questions...")
-* [Prayer](https://www.tbn.org/prayer "Need some extra help? TBN's Prayers Department is here for you, 24/7!")
-* [Contact](https://www.tbn.org/contact)
-
-[![](/sites/default/files/2024-01/tbnlogo-white.png)](https://www.tbn.org/)
 
 Copyright © 2024 TBN - Trinity Broadcasting Network. All Rights Reserved. Broadcasting Since 1973.
 
@@ -201,15 +239,11 @@ Donations to Trinity Broadcasting Network are Tax Deductible to the extent permi
 
 EIN: 74-1945661
 
+[![](/sites/default/files/2024-01/tbnlogo-white.png)](https://www.tbn.org/)
+
 ×
 
 SIGN UP TO RECEIVE BY MAIL
-
-Join our Monthly Newsletter!
-----------------------------
-
-Get TBN’s monthly newsletter delivered via mail.  
-Stay up to date on all that's happening at TBN!
 
 Watch TBN links
 
