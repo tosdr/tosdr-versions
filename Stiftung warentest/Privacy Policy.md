@@ -514,6 +514,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -791,21 +793,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
 
 Fußbereich
 
@@ -2421,6 +2423,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -2815,6 +2819,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -3246,6 +3252,8 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Über unsere Internetseite können Sie einen kostenfreien Newsletter abonnieren.
@@ -3259,6 +3267,8 @@ Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellu
 Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
+
+Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 07.10.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3774,59 +3784,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
 
 Neueste Tests
 
+* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
 * [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
 * [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
 * [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
 * [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
 * [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
-* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
-* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Dubiose Anleger­anwälte: Mogel­packungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Mogelpackungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Mogelpackungen und unrealistische Szenarien")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
 
 Service Stiftung Warentest
 
