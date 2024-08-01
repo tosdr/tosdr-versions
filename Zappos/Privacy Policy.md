@@ -1,12 +1,10 @@
 [Skip to main content](#main)
 
-Best of ASICS [Shop Customer-Recommended ASICS](https://www.zappos.com/c/best-of-asics)
-
-Check out Kayla’s favorite back-to-campus shoes! [Shop Top Picks](https://www.zappos.com/c/kayla-back-to-campus)
+New energizing colors. [Shop ASICS Paris Collection](https://www.zappos.com/c/asics-paris-collection)
 
 Crocs: Endless Summer of Sandals [Shop Crocs](https://www.zappos.com/c/crocs-sandals)
 
-Give them cool kicks this school year! [Shop Top 10 Kids’ Shoes](https://www.zappos.com/c/top-10-back-to-school-shoes)
+Check out Kayla’s favorite back-to-campus shoes! [Shop Top Picks](https://www.zappos.com/c/kayla-back-to-campus)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
@@ -25,6 +23,7 @@ Search for shoes, clothes, etc.Search
 * [Collections](https://www.zappos.com/)
 * [Brands](https://www.zappos.com/c/brands)
 * [Sale](https://www.zappos.com/sale)
+* [Back to School](https://www.zappos.com/c/back-to-school)
 
 [Help & Support](https://www.zappos.com/c/customer-service)
 
@@ -154,7 +153,6 @@ Zappos Footer
 * [Size Conversion Chart](https://www.zappos.com/c/shoe-size-conversion)
 * [Measure Your Bra Size](https://www.zappos.com/c/how-to-measure-your-bra-size)
 * [Associates Program](https://www.zappos.com/associates-program)
-* [Influencer Program](https://www.zappos.com/influencer-home)
 * [Jobs](https://jobs.zappos.com/)
 * [Press Kit & Brand Inquiries](https://www.zappos.com/c/press-kit)
 * [Site Map](https://www.zappos.com/site-map)
