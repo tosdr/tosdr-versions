@@ -7,7 +7,6 @@ TherapyDave - Dave Lechnyr, LCSW
 
 Individual Therapy & Couples Counseling in Eugene, Oregon
 
-* [Home](https://therapydave.com/)
 * [About](https://therapydave.com/about-eugene-psychotherapist/)
 * [Eugene, Oregon](https://therapydave.com/therapist-eugene-oregon/)
 * [Services](https://therapydave.com/eugene-therapist-services/)
@@ -15,9 +14,8 @@ Individual Therapy & Couples Counseling in Eugene, Oregon
     * [Discernment Counseling](https://therapydave.com/discernment-counseling/)
     * [Toxic Relationship Recovery](https://therapydave.com/toxic-relationship-recovery/)
     * [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
-* [Rates](https://therapydave.com/rates-insurance/)
+* [FAQ](https://therapydave.com/psychotherapist-faqs/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
-* [Contact](https://therapydave.com/contact/)
 * [Request Appointment](https://therapydave.com/therapist-appointments/)
 
 You are here: [Home](https://therapydave.com/) / Terms and Conditions
@@ -165,7 +163,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
   
 
-“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”
+“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
