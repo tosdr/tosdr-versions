@@ -69,7 +69,7 @@ Made with
 
 in Germany, India, and the U.S.A
 
-[](https://www.the-qrcode-generator.com/whats-a-qr-code)[](https://docs.the-qrcode-generator.com/en/)[](https://www.the-qrcode-generator.com/pricing?upgrade_source=nav_bar)[](https://www.the-qrcode-generator.com/blog/)
+[](https://www.the-qrcode-generator.com/whats-a-qr-code)[](https://docs.the-qrcode-generator.com/en/)[](https://www.the-qrcode-generator.com/pricing?upgrade_source=nav_bar)[](https://www.the-qrcode-generator.com/blog/)[](https://www.the-qrcode-generator.com/custom-qr-code)
 
 [+1 (929) 930 2212](tel:+19299302212)[support@the-qrcode-generator.com](mailto:support@the-qrcode-generator.com)
 
