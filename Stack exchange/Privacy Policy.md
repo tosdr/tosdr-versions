@@ -95,7 +95,7 @@ Get early access and see previews of new features.
 Stack Exchange, Inc. Privacy Policy
 -----------------------------------
 
-Updated: 12 January, 2022
+Last updated: July 25, 2024
 
 ABOUT STACK OVERFLOW
 
@@ -126,15 +126,13 @@ This privacy policy and our related Privacy Notices (see below) describe how we 
 
 Personal data is any information about you by which you can be identified or be identifiable (either on its own or when combined with other information). This can include information such as: your name, email address and username; information about your device (e.g., IP address); and information relating to how you use and interact with our sites, apps and services.
 
-We have set out below an overview of how our privacy notices work. Depending on how you interact with us, we will collect and process your personal information as shown below.
+We have set out below an overview of how our privacy notices work. Depending on how you interact with us, we will collect and process your personal information in accordance with this Privacy Policy and any applicable other privacy notice(s).
 
-* This Privacy Notice applies where you interact with us through the Network, or use any of our products and services.
-* If you interact with us through our Collectives on Stack Overflow product, please read the [Collectives Privacy Notice](https://stackexchange.com/legal/privacy-policy/collectives).
-* If you interact with us through your organization’s Private Network on Teams Free, Basic, Business or Enterprise, we will only process certain limited information as controller.
-* For Teams Free, Basic, Business: Please read the [Privacy Notice for Stack Overflow Teams Free, Basic and Business](https://policies.stackoverflow.co/teams/privacy-notice).
-* For Teams Enterprise: Please read the [Privacy Notice for Stack Overflow Teams Enterprise](https://policies.stackoverflow.co/teams/privacy-notice).
+* This Privacy Policy applies where you interact with us through the Network, or use any of our products and services.
+* If you interact with us through our Collectives on Stack Overflow, please read the [Privacy Notice for Collectives](https://stackexchange.com/legal/privacy-policy/collectives).
+* If you interact with us through your organization’s Private Network on Stack Overflow for Teams and/or through one of our Stack Overflow for Teams Integrations, we will only process certain information as described in our [Stack Overflow for Teams Privacy Notice](https://policies.stackoverflow.co/teams/privacy-notice) and our [Stack Overflow for Teams Integrations Privacy Notice](https://policies.stackoverflow.co/teams/integrations-privacy-notice), respectively.
+* If you’re a job applicant for a position at Stack, our [Applicant and Candidate Privacy Notice](https://policies.stackoverflow.co/company/candidate-privacy-policy) will be applicable.
 * If you’re an employee, our Employee Privacy Notice will be applicable.
-* Please read the [Privacy Notice for Stack Overflow Talent and Jobs.](https://policies.stackoverflow.co/talent/talent-privacy-notice)
 
 GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.
 
@@ -595,4 +593,4 @@ EU Representative
 * [LinkedIn](https://linkedin.com/company/stack-overflow)
 * [Instagram](https://www.instagram.com/thestackoverflow)
 
-Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.7.25.13169
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.7.31.13445
