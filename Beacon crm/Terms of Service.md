@@ -46,11 +46,7 @@ Allow your supporters, volunteers, or beneficiaries to update their own records]
 
 Integrations
 
-A comprehensive directory of the tools that jive with Beacon](https://www.beaconcrm.org/integrations)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/66d7358be8f0f7761c16dbc3_Beacon%20AI.png)
-
-Beacon AI
-
-Filter, write and build with Beacon's baked-in AI features](https://www.beaconcrm.org/feature/ai)
+A comprehensive directory of the tools that jive with Beacon](https://www.beaconcrm.org/integrations)
 
 Customers
 
@@ -130,11 +126,7 @@ Allow your supporters, volunteers, or beneficiaries to update their own records]
 
 Integrations
 
-A comprehensive directory of the tools that jive with Beacon](https://www.beaconcrm.org/integrations)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/66d7358be8f0f7761c16dbc3_Beacon%20AI.png)
-
-Beacon AI
-
-Filter, write and build with Beacon's baked-in AI features](https://www.beaconcrm.org/feature/ai)
+A comprehensive directory of the tools that jive with Beacon](https://www.beaconcrm.org/integrations)
 
 [Customers](https://www.beaconcrm.org/customers)
 
@@ -184,7 +176,7 @@ Lighthouse academy](https://lighthouse.beaconcrm.org/)[![](https://cdn.prod.webs
 
 Events](https://www.beaconcrm.org/events)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38ec59b91cc7801e81a3_icons8-partner.webp)
 
-Partner network](https://partners.beaconcrm.org/)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38f65c1ff15ef2c038d3_icons8-video-demos.webp)
+Partner network](https://www.beaconcrm.org/partner-directory)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38f65c1ff15ef2c038d3_icons8-video-demos.webp)
 
 Video demos](https://www.beaconcrm.org/video-demos)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b392f0507a3b82ff0ca6c_icons8-blog.webp)
 
@@ -214,7 +206,7 @@ Lighthouse academy](https://lighthouse.beaconcrm.org/)[![](https://cdn.prod.webs
 
 Events](https://www.beaconcrm.org/events)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38ec59b91cc7801e81a3_icons8-partner.webp)
 
-Partner network](https://partners.beaconcrm.org/)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b392f0507a3b82ff0ca6c_icons8-blog.webp)
+Partner network](https://www.beaconcrm.org/partner-directory)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b392f0507a3b82ff0ca6c_icons8-blog.webp)
 
 Blog](https://www.beaconcrm.org/blog)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b394d25675d0e4c97cc96_icons8-product-updates.webp)
 
