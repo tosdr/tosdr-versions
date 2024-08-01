@@ -89,6 +89,8 @@ Menu
     * [Research Findings](https://www.viacharacter.org/research/findings)
     * [Psychometric Survey Data](https://www.viacharacter.org/researchers/assessments/via-is-p)
     
+* [Support Our Work — Donate Now!](https://www.viacharacter.org/about/donate)
+    
 
 * [Home](https://www.viacharacter.org/)
 * [terms of service](https://www.viacharacter.org/terms-of-service)
