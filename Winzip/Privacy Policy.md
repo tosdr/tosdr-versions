@@ -190,7 +190,7 @@ The data controller is one of the affiliated entities of the Alludo Group as fol
 
 | **Where Personal Data is Collected** | **Legal Entity** | **Contact Information** |
 | --- | --- | --- |
-| Alludo Sites | Cascade Parent Limited trading as Alludo | 13th Floor, One Angel Court, London, EC2R 7HJ United Kingdom. Our main establishment in the EU is Corel GmbH, Siemensstraße 30, 63755 Alzenau, Germany |
+| Alludo Sites | Cascade Parent Limited trading as Alludo | Level 6 Duo, 280 Bishopsgate, London EC2M 4RB United Kingdom. Our main establishment in the EU is Corel GmbH, Siemensstraße 30, 63755 Alzenau, Germany |
 | Parallels Branded Products and Parallels Sites | Parallels International GmbH | Vordergasse 59 8200 Schaffhausen, CH. Our main establishment in the EU is Corel GmbH, Siemensstraße 30, 63755 Alzenau, Germany |
 | Products other than Parallels Branded Products and Corel Sites | Corel Corporation | 333 Preston Street Suite 700 Ottawa, ON K1S 5N4. Our main establishment in the EU is Corel GmbH, Siemensstra |
 
@@ -337,19 +337,23 @@ The use of information received from Google APIs adheres to the [Chrome Web Stor
 * Authentication Information - When you purchase an Ad Remover subscription, we provide you with a license key. This key is used to authenticate your paid subscription.
 * All data collected is only used to provide Ad Remover service.
 
-### 11\. YouTube Uploads
+### 11\. Protection of Google user data
+
+Information for WinZip and MindManager users connecting to their Google drive via an API: all operations that are performed between the user’s computer and the Google cloud use the HTTPS protocol and security procedures are in place to protect the confidentiality of the users\` data.
+
+### 12\. YouTube Uploads
 
 Certain video editing Products offer users the ability to upload user videos onto YouTube. To facilitate this, Alludo utilizes YouTube API Services. Use of this feature by users is subject to the YouTube [Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](https://policies.google.com/privacy).
 
-### 12\. Collecting Information from Children
+### 13\. Collecting Information from Children
 
 Alludo’s Sites and Products are not intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that their child has provided Alludo with Personal Data or that we have otherwise inadvertently collected this information, contact us at [privacy@alludo.com](mailto:privacy@alludo.com), so that we may delete the information from our servers.
 
-### 13\. Changes
+### 14\. Changes
 
 Except to the extent limited by applicable law, Alludo reserves the right to change this Privacy Statement to reflect changes in the law, our data handling practices, or the features of our business. We will provide notification of changes to this Privacy Statement by prominently posting notice through our Sites. Changes to our Privacy Statement will be effective when posted and the new effective date will be identified.
 
-### 14\. Contact Information
+### 15\. Contact Information
 
 To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please contact us at [privacy@alludo.com](mailto:privacy@alludo.com) or submit a request via our intake [form](https://www.winzip.com/en/legal/privacy/form/).
 
@@ -357,7 +361,7 @@ To exercise your rights regarding Personal Data (as described above in this Priv
 
 We strongly encourage you to use the form at the link, to ensure the most efficient handling of your submission. Please do not use this form to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement.
 
-Last Updated: June 2024
+Last Updated: July 2024
 
 * [](https://twitter.com/helloalludo "Alludo Twitter")
 * [Facebook](http://www.facebook.com/helloalludo "Alludo Facebook")
