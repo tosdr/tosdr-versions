@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2036'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/code-80x48.jpg.webp)](https://thebackroomtech.com/2007/09/26/script-to-backup-the-windows-server-system-state-using-ntbackup-from-the-command-line/ "Script to Backup the Windows Server System State using NTbackup from the Command Line")[Script to Backup the Windows Server System State using NTbackup from the Command Line](https://thebackroomtech.com/2007/09/26/script-to-backup-the-windows-server-system-state-using-ntbackup-from-the-command-line/ "Script to Backup the Windows Server System State using NTbackup from the Command Line")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/azure-scale-sets-80x36.png.webp)](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")[How to Use Azure VM Scale Sets](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/device-manager-47x52.png.webp)](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")[Network Card configuration Missing after P2V using VMware Converter](https://thebackroomtech.com/2009/10/01/network-card-configuration-missing-after-p2v-using-vmware-converter/ "Network Card configuration Missing after P2V using VMware Converter")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/interactive-logon-80x47.png.webp)](https://thebackroomtech.com/2009/04/24/howto-do-not-display-the-name-of-the-user-who-has-locked-a-windows-computer-or-server/ "Howto: Do not display the name of the user who has locked a Windows computer or server")[Howto: Do not display the name of the user who has locked a Windows computer or server](https://thebackroomtech.com/2009/04/24/howto-do-not-display-the-name-of-the-user-who-has-locked-a-windows-computer-or-server/ "Howto: Do not display the name of the user who has locked a Windows computer or server")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/connected-to-server-1-80x34.png.webp)](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")[How to Upload VMware Workstation VM to ESXi Server](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png.webp)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cisco-config-80x43.png.webp)](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")[How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")
+    ![](https://s11921.pcdn.co/wp-content/uploads/esxi-complete-adapter-list-80x41.png.webp)](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")[Fix VMware Missing HBA Adapters](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")
 
 #### Our Publishing Family
 
