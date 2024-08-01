@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_a93595cde5.png)
+   [![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_f9cd068c58.jpg)
+
+Foi preso
+
+Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")   [![Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_Aprendi_no_Flexal_e7e40e7e35.jpeg)
 
 Maceió
 
-Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")   [![Motociclista fica ferido em acidente com carro em curva no bairro do Farol ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_Acidente_Moto_Farol_33d1ac719d.jpg)
+Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade](https://www.tnh1.com.br/noticia/nid/aprendi-no-flexal-inicia-dois-cursos-tecnicos-de-longa-duracao-para-a-comunidade/ "Aprendi no Flexal inicia dois cursos técnicos de longa duração para a comunidade")   [![Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/6/csm_Incendio_predio_Pinheiro_-_foto_Corpo_de_Bombeiros_950dc739c0.jpg)
 
-Trânsito
+vídeo
 
-Motociclista fica ferido em acidente com carro em curva no bairro do Farol](https://www.tnh1.com.br/noticia/nid/motociclista-fica-ferido-em-acidente-com-carro-em-curva-no-bairro-do-farol/ "Motociclista fica ferido em acidente com carro em curva no bairro do Farol ")   [![Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_acidente_na_durval_de_goes_monteiro_2_27-4-24_c4db00dd87.jpg)
+Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja](https://www.tnh1.com.br/noticia/nid/corpo-de-bombeiros-divulga-imagens-do-incendio-em-predio-no-pinheiro-veja/ "Corpo de Bombeiros divulga imagens do incêndio em prédio no Pinheiro; veja")   [![Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_predio_pinheiro_c00d8a7faa.png)
 
-acidente
+controlado
 
-Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro](https://www.tnh1.com.br/noticia/nid/video-ciclista-morre-apos-ser-atingido-por-moto-durante-travessia-na-durval-de-goes-monteiro/ "Vídeo: ciclista morre após ser atingido por moto durante travessia na Durval de Góes Monteiro")   [![Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/2/csm_fiscalizacao_creci_autua_corredores_ilegais_-_foto_reproducao_creci_c92e40e3b3.jpg)
+Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo](https://www.tnh1.com.br/noticia/nid/predio-no-pinheiro-e-evacuado-pela-defesa-civil-apos-alerta-de-incendio-no-subsolo/ "Prédio no Pinheiro é evacuado pela Defesa Civil após alerta de incêndio no subsolo")   [![Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/b/csm_acidente_santaamelia_89e6a24616.png)
 
-Maceió e Satuba
+homicídio culposo
 
-Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios](https://www.tnh1.com.br/noticia/nid/conselho-flagra-falsos-corretores-que-colocavam-placas-com-anuncios-de-imoveis-em-condominios/ "Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ")   [![Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/a/csm_visa-maceio-apreensao-jacintinho_088ac84d7f.jpeg)
+Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://www.tnh1.com.br/noticia/nid/alta-velocidade-motorista-de-locadora-que-atropelou-e-matou-mulher-e-indiciado/ "Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado")   [![Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_3f25234b56.jpg)
 
-No Jacintinho
+cartões de terceiros
 
-Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados](https://www.tnh1.com.br/noticia/nid/queijo-presunto-e-mortadela-fiscalizacao-apreende-170-kg-de-alimentos-estragados/ "Queijo, presunto e mortadela: fiscalização apreende 170 kg de alimentos estragados")   [![IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/8/csm_WhatsApp_Image_2024-07-26_at_15.49.28_4f5f660a16.jpeg)
-
-Meio Ambiente
-
-IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação](https://www.tnh1.com.br/noticia/nid/ima-embarga-obra-e-autua-prefeitura-de-maceio-e-braskem-por-supressao-de-vegetacao/ "IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de vegetação")
+Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://www.tnh1.com.br/noticia/nid/suspeito-de-estelionato-e-preso-apos-r-10-mil-em-compras-em-lojas-da-ponta-verde-e-de-shopping/ "Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ IMA embarga obra e autua Prefeitura de Maceió e Braskem por supressão de veget
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/6/csm_csm_ALAGOAS_DA_SORTE_0070ad69ae_dbbf92f99c.jpg)
+   [![Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_Industria_beneficiamento_madeira_Alagoas3_7c56078316.jpg)
 
 Alagoas
 
-Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-28-3/ "Confira os ganhadores do Alagoas dá Sorte deste domingo (28)")   [![Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/b/csm_escola_indigena_-_foto_ascom_seduc_787510945e.jpg)
+Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas](https://www.tnh1.com.br/noticia/nid/maior-industria-de-beneficiamento-de-madeira-do-ne-vai-investir-r-10-milhoes-em-alagoas/ "Maior indústria de beneficiamento de madeira do NE vai investir R$ 10 milhões em Alagoas")   [![Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_z.assembleia_correios_-_foto_assessoria__2__b466ea3ebe.jpeg)
 
-Educação
+Em negociação
 
-Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)](https://www.tnh1.com.br/noticia/nid/governo-entrega-escola-indigena-em-joaquim-gomes-na-proxima-terca-feira-30/ "Governo entrega escola indígena em Joaquim Gomes na próxima terça-feira (30)")   [![Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
+Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve](https://www.tnh1.com.br/noticia/nid/trabalhadores-do-correios-em-al-decidem-em-assembleia-pelo-estado-de-greve/ "Trabalhadores do Correios em AL decidem em assembleia pelo estado de greve")   [![Governo de Alagoas antecipa salário de julho dos servidores públicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_Dinheiro_-_Foto_Marcello_Casal_Jr_-_Agencia_Brasil_10_a40759032e.jpg)
 
-balneabilidade
+Economia
 
-Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-quais-trechos-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja quais trechos estão próprios para banho em Alagoas")   [![UFAL e USP se unem para fortalecer a educação básica alagoana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/4/csm_formacao-alagoas-divulgacao_cd8cb3d205.jpg)
-
-Em dez cidades
-
-UFAL e USP se unem para fortalecer a educação básica alagoana](https://www.tnh1.com.br/noticia/nid/ufal-e-usp-se-unem-para-fortalecer-a-educacao-basica-alagoana/ "UFAL e USP se unem para fortalecer a educação básica alagoana")   [![Corpo de homem é achado boiando em barragem no interior de Alagoas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_corpo_barragem_296643073b.png)
-
-lagoa da canoa
-
-Corpo de homem é achado boiando em barragem no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-achado-boiando-em-barragem-no-interior-de-alagoas/ "Corpo de homem é achado boiando em barragem no interior de Alagoas ")   [![Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_Central_de_Policia_de_Arapiraca_fb9d405eee.jpg)
+Governo de Alagoas antecipa salário de julho dos servidores públicos](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-antecipa-salario-de-julho-dos-servidores-publicos/ "Governo de Alagoas antecipa salário de julho dos servidores públicos")   [![Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/0/csm_csm_Samu_Alagoas_-_foto_Divulgacao_85fa01fde0_b5056b4e2f.jpg)
 
 Em Arapiraca
 
-Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa](https://www.tnh1.com.br/noticia/nid/dois-casais-roubam-celulares-e-dinheiro-em-especie-de-vitima-que-seguia-a-pe-para-casa/ "Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé para casa")
+Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/trabalhador-e-esfaqueado-durante-tentativa-de-assalto-em-obra-no-interior-de-alagoas/ "Trabalhador é esfaqueado durante tentativa de assalto em obra no interior de Alagoas")   [![Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_lcaura_maria_31be971567.png)
+
+Alagoas
+
+Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo](https://www.tnh1.com.br/noticia/nid/pericia-revela-uso-de-cocaina-por-mae-acusada-de-matar-filha-a-facadas-em-rio-largo/ "Perícia revela uso de cocaína por mãe acusada de matar filha a facadas em Rio Largo")   [![Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/5/csm_detran-cuidados-motociclistas-alta-de-12-no-numero-de-atendimentos_9369a942e6.jpg)
+
+veja orientações
+
+Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas](https://www.tnh1.com.br/noticia/nid/detran-alerta-para-alta-de-acidentes-envolvendo-motociclistas-em-alagoas/ "Detran alerta para alta de acidentes envolvendo motociclistas em Alagoas ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Dois casais roubam celulares e dinheiro em espécie de vítima que seguia a pé 
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_a93595cde5.png)
-
-Maceió
-
-Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")   [![Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_policia-militar-apreende-mais-de-44-quilos-de-drogas-e-11-armas-em-uma-semana_cace26a7fd.jpg)
-
-Polícia
-
-Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana](https://www.tnh1.com.br/noticia/nid/policia-militar-apreende-mais-de-44-quilos-de-drogas-e-11-armas-em-uma-semana/ "Polícia Militar apreende mais de 44 quilos de drogas e 11 armas em uma semana")   [![Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Crime_Palmeira_169d24fcf0.jpg)
+   [![Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/c/csm_armas_arapiraca_162580a83c.png)
 
 Interior
 
-Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/homem-e-assassinado-a-tiros-dentro-da-propria-casa-em-palmeira-dos-indios/ "Homem é assassinado a tiros dentro da própria casa, em Palmeira dos Índios")   [![Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_Oplit_Central_de_Flagrantes_foto_Ascom_PC_AL_ed126dcb85.jpeg)
+Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-em-flagrante-por-posse-de-arma-de-fogo-em-arapiraca/ "Mulher é presa em flagrante por posse de arma de fogo em Arapiraca")   [![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_f9cd068c58.jpg)
 
-testemunha ajudou
+Foi preso
 
-Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada](https://www.tnh1.com.br/noticia/nid/motorista-de-app-e-vitima-de-roubo-e-assaltante-e-preso-enquanto-caminhava-em-calcada/ "Motorista de app é vítima de roubo e assaltante é preso enquanto caminhava em calçada")   [![Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_Picanha-Peca-Imagem_Ilustrativa_-_Feed_b54d0f83be.jpg)
+Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")   [![Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_Enfermeiro-falso-foi-encontrado-em-Imperatriz-no-Maranhao-1024x668_467f5c296e.jpeg)
 
-flagrante
+falsificou documentos
 
-Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/homem-e-preso-ao-tentar-furtar-peca-de-picanha-avaliada-em-r-160-de-supermercado-na-ponta-verde/ "Homem é preso ao tentar furtar peça de picanha avaliada em R$ 160 de supermercado na Ponta Verde")   [![Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
+Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação](https://www.tnh1.com.br/noticia/nid/falso-enfermeiro-que-trabalhava-em-alagoas-e-preso-no-maranhao-apos-investigacao/ "Falso enfermeiro que trabalhava em Alagoas é preso no Maranhão após investigação")   [![Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_operacao_overdose_ascom_ssp_1__6__359cd672c4.jpeg)
 
-Em Satuba
+grupo criminoso
 
-Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"](https://www.tnh1.com.br/noticia/nid/mulher-denuncia-ex-por-agressao-e-diz-que-foi-vitima-de-racismo-ao-ser-chamada-de-macaca/ "Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada de "macaca"")
+Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam](https://www.tnh1.com.br/noticia/nid/operacao-overdose-prende-suspeitos-de-furto-de-medicamentos-em-maceio-saiba-como-eles-agiam/ "Operação Overdose prende suspeitos de furto de medicamentos em Maceió; saiba como eles agiam")   [![PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_pm-apreende-3-armas-de-fogo-e-combate-desmanche-irregular-de-motocicletas_448cafb379.jpeg)
+
+Polícia
+
+PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas](https://www.tnh1.com.br/noticia/nid/pm-apreende-3-armas-de-fogo-e-combate-desmanche-irregular-de-motocicletas/ "PM apreende 3 armas de fogo e combate desmanche irregular de motocicletas")   [![Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/b/csm_csm_menina_13_anos_assassinada_0e57b5ca9d_2ea32bb632.jpg)
+
+No interior
+
+Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido](https://www.tnh1.com.br/noticia/nid/adolescente-que-matou-namorada-de-13-anos-com-tiro-na-cabeca-e-apreendido/ "Adolescente que matou namorada de 13 anos com tiro na cabeça é apreendido")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +115,6 @@ Mulher denuncia ex por agressão e diz que foi vítima de racismo ao ser chamada
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Diretor comercial do Grupo Guido faz idade nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Aniversario_Geninho_d50aa17731.jpeg)
-
-Pessoas & Negócios
-
-Diretor comercial do Grupo Guido faz idade nova](https://www.tnh1.com.br/noticia/nid/diretor-comercial-do-grupo-guido-faz-idade-nova/ "Diretor comercial do Grupo Guido faz idade nova")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,73 +188,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/2/csm_fiscalizacao_creci_autua_corredores_ilegais_-_foto_reproducao_creci_880e55ab1e.jpg)
+[![Cantor é preso por estupro após se relacionar com menina de 13 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/0/csm_cantor_preso_estupro_6ac6c2a3d0.png)
 
-Maceió e Satuba
+estava foragido
 
-Maceió e Satuba
+estava foragido
 
-Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios
+Cantor é preso por estupro após se relacionar com menina de 13 anos
 
-Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios](https://www.tnh1.com.br/noticia/nid/conselho-flagra-falsos-corretores-que-colocavam-placas-com-anuncios-de-imoveis-em-condominios/ "Conselho flagra falsos corretores que colocavam placas com anúncios de imóveis em condomínios ")[![Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/2/csm_riqueza_pixabay_1868ae743c.jpg)
+Cantor é preso por estupro após se relacionar com menina de 13 anos](https://www.tnh1.com.br/noticia/nid/cantor-e-preso-por-estupro-apos-se-relacionar-com-menina-de-13-anos/ "Cantor é preso por estupro após se relacionar com menina de 13 anos")[![Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_prisao-estelionato-divulgacao_e1ea56cad2.jpg)
 
-É muito dinheiro!
+cartões de terceiros
 
-É muito dinheiro!
+cartões de terceiros
 
-Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país
+Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping
 
-Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país](https://www.tnh1.com.br/noticia/nid/quem-e-o-homem-mais-rico-do-brasil-veja-lista-com-os-10-maiores-bilionarios-do-pais/ "Quem é o homem mais rico do Brasil? Veja lista com os 10 maiores bilionários do país")[![Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_Incendio_Hotel_Fortaleza_2_ba03732173.jpg)
+Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping](https://www.tnh1.com.br/noticia/nid/suspeito-de-estelionato-e-preso-apos-r-10-mil-em-compras-em-lojas-da-ponta-verde-e-de-shopping/ "Suspeito de estelionato é preso após R$ 10 mil em compras em lojas da Ponta Verde e de shopping")[![Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/b/csm_acidente_santaamelia_7d3e8cdc64.png)
 
-Nordeste
+homicídio culposo
 
-Nordeste
+homicídio culposo
 
-Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza
+Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado
 
-Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza](https://www.tnh1.com.br/noticia/nid/video-casal-e-cao-morrem-em-incendio-em-hotel-de-fortaleza/ "Vídeo: casal e cão morrem em incêndio em hotel de Fortaleza")[![Motociclista fica ferido em acidente com carro em curva no bairro do Farol ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/6/csm_Acidente_Moto_Farol_7fed7640fe.jpg)
+Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado](https://www.tnh1.com.br/noticia/nid/alta-velocidade-motorista-de-locadora-que-atropelou-e-matou-mulher-e-indiciado/ "Alta velocidade: motorista de locadora que atropelou e matou mulher é indiciado")[![Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/c/csm_corpo_encontrado_marechal_-_foto_reproducao_video_ecd197eb0c.jpg)
 
-Trânsito
+assassinato
 
-Trânsito
+assassinato
 
-Motociclista fica ferido em acidente com carro em curva no bairro do Farol
+Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito
 
-Motociclista fica ferido em acidente com carro em curva no bairro do Farol](https://www.tnh1.com.br/noticia/nid/motociclista-fica-ferido-em-acidente-com-carro-em-curva-no-bairro-do-farol/ "Motociclista fica ferido em acidente com carro em curva no bairro do Farol ")
+Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-e-encontrado-em-cova-rasa-em-marechal-primo-e-suspeito/ "Corpo de jovem que estava desaparecido é encontrado em cova rasa em Marechal; primo é suspeito ")
 
-[![Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_capotamento_viaexpressa_5fa80837cd.jpeg)
+[![Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/c/csm_armas_arapiraca_92cb1862f8.png)
 
-passa bem
+Interior
 
-passa bem
+Interior
 
-Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo
+Mulher é presa em flagrante por posse de arma de fogo em Arapiraca
 
-Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo](https://www.tnh1.com.br/noticia/nid/motorista-perde-controle-da-direcao-e-capota-com-carro-na-avenida-menino-marcelo/ "Motorista perde controle da direção e capota com carro na Avenida Menino Marcelo ")[![Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/1/csm_acidente_ciclista_47fc31f108.png)
+Mulher é presa em flagrante por posse de arma de fogo em Arapiraca](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-em-flagrante-por-posse-de-arma-de-fogo-em-arapiraca/ "Mulher é presa em flagrante por posse de arma de fogo em Arapiraca")[![Israel se prepara para ataques do Irã após morte de líder do Hamas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/0/csm_Ismail_Haniyeh_reproducao_youtube_fb4802a216.jpg)
 
-tragédia no trânsito
+conflito
 
-tragédia no trânsito
+conflito
 
-Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió
+Israel se prepara para ataques do Irã após morte de líder do Hamas
 
-Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió](https://www.tnh1.com.br/noticia/nid/video-mostra-pancada-em-ciclista-que-morreu-atropelado-em-via-de-maceio/ "Vídeo mostra pancada em ciclista que morreu atropelado em via de Maceió")[![Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_droga_pm_9ee81cb514.png)
+Israel se prepara para ataques do Irã após morte de líder do Hamas](https://www.tnh1.com.br/noticia/nid/israel-se-prepara-para-ataques-do-ira-apos-morte-de-lider-do-hamas/ "Israel se prepara para ataques do Irã após morte de líder do Hamas")[![66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_caravana_Guido_Palmeira_foto_RCP-PSCOM_f352b684c2.jpg)
 
-Maceió
+Conteúdo de Marca
 
-Maceió
+Conteúdo de Marca
 
-Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal
+66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02
 
-Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal](https://www.tnh1.com.br/noticia/nid/perseguicao-policial-termina-com-dois-presos-e-mais-de-2-kg-de-drogas-apreendidas-na-vila-brejal/ "Perseguição policial termina com dois presos e mais de 2 kg de drogas apreendidas na Vila Brejal")[![Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_csm_ALAGOAS_DA_SORTE_0070ad69ae_d1a9e49de5.jpg)
+66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02](https://www.tnh1.com.br/noticia/nid/66-anos-lojas-guido-caravana-chega-a-palmeira-dos-indios-nesta-sexta-02/ "66 anos Lojas Guido: Caravana chega a Palmeira dos Índios nesta sexta, 02")[![Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/e/csm_csm_viatura_pm_-_foto_arquivo_6cf6c2862c_02b2310a49.jpg)
 
-Alagoas
+Foi preso
 
-Alagoas
+Foi preso
 
-Confira os ganhadores do Alagoas dá Sorte deste domingo (28)
+Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde
 
-Confira os ganhadores do Alagoas dá Sorte deste domingo (28)](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-28-3/ "Confira os ganhadores do Alagoas dá Sorte deste domingo (28)")
+Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde](https://www.tnh1.com.br/noticia/nid/mulher-pede-isqueiro-para-ciclista-e-tem-celular-roubado-na-ponta-verde/ "Mulher pede isqueiro para ciclista e tem celular roubado na Ponta Verde")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
