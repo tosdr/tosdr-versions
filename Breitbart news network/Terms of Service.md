@@ -54,12 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Fake News Frenzy](https://www.breitbart.com/the-media/)
-* [Hunter Biden](https://www.breitbart.com/tag/hunter-biden/)
-* [Brazil vs Musk](https://www.breitbart.com/tag/twitter/)
+* [Kamala Coverup](https://www.breitbart.com/tag/kamala-harris/)
+* [Woke Olympics](https://www.breitbart.com/tag/olympics/)
+* [Israel Terror Attack](https://www.breitbart.com/tag/israel/)
 * [Wide Open Border](https://www.breitbart.com/tag/illegal-immigration/)
-* [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
+* [Bideninflation](https://www.breitbart.com/tag/inflation/)
 
 Terms of Use
 ============
@@ -357,6 +356,6 @@ If you have questions about these Terms of Use or your use of the Services, plea
 * [Send A Tip](https://www.breitbart.com/send-a-tip/)
 * [Sitemap](https://www.breitbart.com/navigational-sitemap/)
 
-[](https://www.facebook.com/Breitbart)[](https://x.com/BreitbartNews)[](https://www.instagram.com/wearebreitbart/)[](https://www.youtube.com/channel/UCmgnsaQIK1IR808Ebde-ssA)[](https://truthsocial.com/@breitbartnews)[](https://feeds.feedburner.com/breitbart "Feed")
+[](https://www.facebook.com/Breitbart)[](https://twitter.com/BreitbartNews)[](https://www.instagram.com/wearebreitbart/)[](https://www.youtube.com/channel/UCmgnsaQIK1IR808Ebde-ssA)[](https://truthsocial.com/@breitbartnews)[](https://feeds.feedburner.com/breitbart "Feed")
 
 Copyright © 2024 Breitbart
