@@ -73,7 +73,7 @@ Some devices may have pre-installed applications that are used by us and our par
 
 Some apps installed or updated on your device in this way do not appear as icons on your device screen because of their limited utility. For example, they might facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device. You can see and also delete or disable apps installed on your device, whether or not they have visible icons, using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policies.
 
-We, our vendors, and third party companies, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content and analytics. We and these vendors and third-party companies may use cookies, pixels, web beacons, tags, scripts or similar technologies\[1\] on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems.
+We, our vendors, and third party companies, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content and analytics. We and these vendors and third-party companies may use [cookies, pixels, web beacons, tags, scripts or similar technologies](javascript:void(0))\[1\] on our pages and the browsers you use and may access advertising identifiers from your mobile device operating systems.
 
 We also collect information from third parties. This includes demographic and interest data as well as device type, carrier, city and state information from third party data providers; information from social media platforms when you interact with us via social media or use your social media login to interact with TracFone sites or offers; contact, marketing lead, and other information we purchase or receive; and fraud information.
 
@@ -120,7 +120,7 @@ We share information with service providers. We use service providers to perform
 
 We share information that identifies you with a partner who verifies your identity to facilitate your interactions with third parties, such as banks. Our partner also uses the information we share to assist third parties with decisions about credit applications that you submitted to a bank or other third party. Information about how to opt out of the disclosure of information for this purpose is in the “Your Choices About How Information is Used” section.
 
-We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as cookies, pixels, web beacons, tags, scripts, or similar technologies\[2\] on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
+We may share with or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](javascript:void(0))\[2\] on our pages and the browsers you use. These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, and other purposes as described in the “How we collect personal information” section.
 
 _Walmart Family Mobile Customers_. If you are a Walmart Family Mobile customer, we work with Walmart Stores, Inc. ("Walmart") to offer the Walmart Family Mobile service. Any information you provide directly to Walmart will be subject to Walmart's Privacy Policy, not this one. This includes information you provide to Walmart in connection with your device purchase, upgrade, return, or replacement, whether in its stores, by phone or online, including but not limited to, if you purchase a Family Mobile device or obtain technical support for the device at or from Walmart or its agents. In addition, if you activate Walmart Family Mobile communications services at a Walmart store, Walmart may request personal information from you that is passed to TracFone as part of the activation process, but which may also be retained by Walmart. You can learn more by [visiting Walmart's Privacy Policy](https://corporate.walmart.com/privacy-security/walmart-privacy-policy).
 
@@ -132,7 +132,7 @@ We also share de-identified information with companies to assist with the delive
 
 **We share information with advertising companies.**
 
-We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as cookies, pixels, web beacons, tags, scripts, or similar technologies\[3\] on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
+We may share, or allow certain third-party advertising companies to collect information about your activity on our sites and in our apps, including advertising identifiers from your mobile device operating system. They can use that information to help us provide more relevant TracFone advertising on our own and other sites and apps. These companies may combine information from our sites with similar information they collect on other sites to determine whether you fit into an audience that advertisers, including TracFone, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](javascript:void(0))\[3\] on our pages and the browsers you use, or we may share information using application program interfaces (APIs).
 
 TracFone sites and services may also include social networks or other third-party plug-ins and widgets that may provide information to their associated social networks or third parties even if you do not click on or otherwise interact with the plug-ins and widgets
 
@@ -486,6 +486,45 @@ Verizon Privacy Office
 1300 I Street, NW Suite 500 East
 
 Washington, DC 20005
+
+×
+
+**Cookies, Pixels, Web Beacons, Tags, Scripts and Similar Technologies**
+========================================================================
+
+Cookies, pixels, web beacons, tags, scripts and similar technologies are tools that websites can use for a variety of purposes. Examples of the ways we use these tools include improving website and app security, authenticating you, detecting and deterring fraud, improving site performance, improving site navigation and fixing bugs, recognizing you as a registered user and remembering your settings and preferences, site analytics and providing more personalized content. Third parties that we allow to operate on our site use the data they collect for the same purposes or may use the information to help determine what parts of our sites or emails are more interesting to you to better provide our advertising on other sites and apps. These providers may also combine information they obtain from our site with information they collect from other sites to better target our brand and other advertisements to you.
+
+**Cookies.** A cookie consists of data that is written on your computer browser when you visit a website. A cookie’s value usually includes a unique user identifier which enables websites and third parties whose code is present on the website to recognize your browser and maintain information about your visit to the site. This enables us to customize your experience and reach you with relevant advertising on other sites, apps and devices. “Cookies” include various types of data stored in the browser such as HTTP cookies and HTML Web Storage
+
+**Web beacons and pixels**. We deploy our own and third-party web beacons and pixels on our sites and in our emails to better understand what parts of our website and emails users access. Third parties with beacons or pixels on our sites may also use the information they collect to advertise to you. Web beacons and pixels are usually clear .gif files, electronic images that allow the collection of information, such as your IP address, the device and browser that you use, and your interactions on our sites, including what pages you visit, mouse movements and clicks, what you search and what you add to your cart. Web beacons and pixels are used to understand website traffic patterns to our sites and ads, and the effectiveness of advertisements and email messages.
+
+**Website data scripts and tags.** We may embed website scripts or tags (small snippets of code) to record and send data about how users experience our website. Website scripts and tags may be used to optimize and measure marketing campaigns and segment user profiles and for troubleshooting. For example, session replay technology may be used to help us better understand how our users interact with our site (including mouse movements, and clicks, and scroll depth). When we use session replay service providers, they are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
+
+**Social networks and other third-party plug-ins and widgets.** Our sites also include social network or other third-party plug-ins and widgets that may provide information back to their associated social networks or third-parties about the pages you visit, even if you do not click on or otherwise interact with the plug-in or widget and regardless of whether you have an account or other relationship with these social networks and third-parties. If you use social network tools or visit social networking sites, you should read their privacy disclosures and learn about your choices.
+
+**Your Choices**
+
+You can limit the sharing of website information when the use is for certain types of targeted advertising. Visit the Your Privacy Choices page at the bottom of your brand’s website to learn about how you can opt out. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals.
+
+The Digital Advertising Alliance provides you the ability to prevent the use of third party cookies or advertising identifiers to provide interest-based advertising to you across the sites, apps and devices you use. You can opt out of this type of interest-based advertising at the [DAA opt out page](http://optout.aboutads.info/). You can opt out for mobile apps on your mobile device. Apple devices allow apps to include interest-based advertising only if you opt in using the app’s pop-up notice. You can change your choice using Apple device settings. On Android devices, you can opt out using your device setting to “Opt out of Ads Personalization”.
+
+You can also manage cookies using features and functions available on most Internet browsers that allow you to delete or disable cookies and even choose what types of cookies may be placed on your device. More information about cookie controls for specific browsers can be found here:
+
+* [Microsoft Edge browsers](http://support.microsoft.com/kb/278835)
+* [Chrome browsers](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop)
+* [Apple Safari browsers](http://www.apple.com/safari/features.html#security)
+* [Mozilla Firefox browsers](http://kb.mozillazine.org/Cookies)
+
+You can also use your mobile device settings to manage whether your device advertising identifier is available to apps or third parties. More information about using these settings can be found here:
+
+* [Android](https://support.google.com/android/answer/12461628?hl=en) (on some phones these options will be under “Google” in settings)
+* [iOS](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
+
+Please be aware that disabling cookies may prevent you from using specific features on our sites and other sites, such as ordering products or services and maintaining an online account.
+
+Please note that some of the controls described above are device or browser-based. You will need to record your choices on each device or browser where you want them to be in place. In addition, your opt-outs may be stored via cookies. If you clear your cookies, please check to make sure your opt-outs are in place.
+
+Updated: July, 2024
 
 America’s largest prepaid, no-contract wireless service provider.
 
