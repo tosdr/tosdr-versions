@@ -956,12 +956,12 @@ Pound Sterling £ ![Drop down icon](/dist/assets/icons/icon-triangle.svg)
 
  
 
-* [![](https://images2.welcomesoftware.com/assets/social-wordpress.svg/Zz1kMWRlNjQ5YWEzY2MxMWVkYmRiOGU2ZWE4YmQ4Y2E3MQ==?t=20240726120000)](https://blog.zoom.us/ "Blog")
-* [![](https://images2.welcomesoftware.com/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20240726120000)](https://www.linkedin.com/company/zoom/ "Linked In")
-* [![](https://images2.welcomesoftware.com/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20240726120000)](https://twitter.com/zoom "Twitter")
-* [![](https://images3.welcomesoftware.com/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20240726120000)](https://www.youtube.com/zoommeetings "YouTube")
-* [![](https://images2.welcomesoftware.com/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20240726120000)](https://www.facebook.com/zoom "Facebook")
-* [![](https://images2.welcomesoftware.com/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20240726120000)](https://www.instagram.com/zoom/ "Instagram")
+* [![](https://images2.welcomesoftware.com/assets/social-wordpress.svg/Zz1kMWRlNjQ5YWEzY2MxMWVkYmRiOGU2ZWE4YmQ4Y2E3MQ==?t=20240729120000)](https://blog.zoom.us/ "Blog")
+* [![](https://images2.welcomesoftware.com/assets/social-linkedin.svg/Zz1kMWM5ZTI4NmEzY2MxMWVkOWJmZTU2NjcwZmJiNzBlNQ==?t=20240729120000)](https://www.linkedin.com/company/zoom/ "Linked In")
+* [![](https://images2.welcomesoftware.com/assets/twitter-x.svg/Zz0yMTQxYzM5NDVkMzQxMWVlYmZjMGQ2ZWM3ZWM3MGU2OQ==?t=20240729120000)](https://twitter.com/zoom "Twitter")
+* [![](https://images3.welcomesoftware.com/assets/social-youtube.svg/Zz1kMWViYTM5NGEzY2MxMWVkYmExMGJhNjNmYjRkMmQyYQ==?t=20240729120000)](https://www.youtube.com/zoommeetings "YouTube")
+* [![](https://images2.welcomesoftware.com/assets/social-facebook.svg/Zz1kMWMzYzNlMmEzY2MxMWVkYjhkYzU2NjcwZmJiNzBlNQ==?t=20240729120000)](https://www.facebook.com/zoom "Facebook")
+* [![](https://images2.welcomesoftware.com/assets/social-instagram.svg/Zz1kMWNiMGZmOGEzY2MxMWVkODkwM2U2ZWE4YmQ4Y2E3MQ==?t=20240729120000)](https://www.instagram.com/zoom/ "Instagram")
 
 Copyright ©2024 Zoom Video Communications, Inc. All rights reserved.
 
