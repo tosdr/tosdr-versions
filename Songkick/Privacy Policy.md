@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
-        *  [![Madmess Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Madmess  
-            Helgi’s](https://www.songkick.com/concerts/42064216-madmess-at-helgis)
-        *  [![Meltem Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Meltem  
-            The Underworld](https://www.songkick.com/concerts/42082469-meltem-at-underworld)
-        *  [![Kariti Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kariti  
-            The Harrison](https://www.songkick.com/concerts/42054545-kariti-at-harrison)
-        *  [![The Queen Extravaganza Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Queen Extravaganza  
-            indigo at The O2](https://www.songkick.com/concerts/42057228-queen-extravaganza-at-indigo-at-the-o2)
-        *  [![Bora Uzer Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bora Uzer  
-            HERE at Outernet](https://www.songkick.com/concerts/42054796-bora-uzer-at-here-at-outernet)
-        *  [![Alex Spencer Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Alex Spencer  
-            Courtyard Theatre](https://www.songkick.com/concerts/42060200-alex-spencer-at-courtyard-theatre)
-        *  [![Olive Jones Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Olive Jones  
-            The Lower Third](https://www.songkick.com/concerts/42060049-olive-jones-at-lower-third)
-        *  [![Dora Morelenbaum Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dora Morelenbaum  
-            Jazz Cafe](https://www.songkick.com/concerts/42060050-dora-morelenbaum-at-jazz-cafe)
-        *  [![Suitman Jungle Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Suitman Jungle  
-            Paper Dress Vintage](https://www.songkick.com/concerts/42062844-suitman-jungle-at-paper-dress-vintage)
-        *  [![The Milk Men Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Milk Men  
-            100 Club](https://www.songkick.com/concerts/42069604-milk-men-at-100-club)
+        *  [![N'famady Kouyaté Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) N'famady Kouyaté  
+            The Bread and Roses Pub](https://www.songkick.com/concerts/42081449-nfamady-kouyate-at-bread-and-roses-pub)
+        *  [![Ghosts Of Atlantis Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ghosts Of Atlantis  
+            New Cross Inn](https://www.songkick.com/concerts/42086901-ghosts-of-atlantis-at-new-cross-inn)
+        *  [![Glass Bridges Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Glass Bridges  
+            Hope & Anchor](https://www.songkick.com/concerts/42079925-glass-bridges-at-hope-and-anchor)
+        *  [![House Arrest Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) House Arrest  
+            The Windmill, Brixton](https://www.songkick.com/concerts/42087865-house-arrest-at-windmill-brixton)
+        *  [![Bukky Leo Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bukky Leo  
+            Signature Brew - Haggerston](https://www.songkick.com/concerts/42080181-bukky-leo-at-signature-brew-haggerston)
+        *  [![Lady Shaka Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lady Shaka  
+            The Steel Yard](https://www.songkick.com/concerts/42089645-lady-shaka-at-steel-yard)
+        *  [![Fruko Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Fruko  
+            Electric Brixton](https://www.songkick.com/concerts/42064316-fruko-at-electric-brixton)
+        *  [![Queens Head Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Queens Head  
+            The Ivy House - Nunhead](https://www.songkick.com/concerts/42084929-queens-head-at-ivy-house-nunhead)
+        *  [![pecq Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) pecq  
+            Courtyard Theatre](https://www.songkick.com/concerts/42067356-pecq-at-courtyard-theatre)
+        *  [![Casey MQ Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Casey MQ  
+            The Lexington](https://www.songkick.com/concerts/42064601-casey-mq-at-lexington)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F28%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F04%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F28%2F2024&filters%5BminDate%5D=07%2F28%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F01%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F08%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=09%2F01%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
