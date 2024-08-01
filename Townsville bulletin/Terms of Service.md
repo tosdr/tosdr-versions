@@ -15,7 +15,7 @@
 
 * [My News](https://www.townsvillebulletin.com.au/my-news)
     
-* [Today's Paper](https://todayspaper.townsvillebulletin.com.au/launch.aspx?pbid=0ba13240-5b59-4aee-8138-0297a3188987)
+* [Today's Paper](https://www.townsvillebulletin.com.au/digitalprinteditions)
     
     * ### [Townsville Bulletin](https://todayspaper.townsvillebulletin.com.au/launch.aspx?pbid=0ba13240-5b59-4aee-8138-0297a3188987)
         
@@ -355,7 +355,7 @@ This can be done through the following steps:
     * [Letter to the Editor](https://www.townsvillebulletin.com.au/news/opinion/letter-to-the-editor)
     * [Photo Print Sales](http://www.newsphotos.com.au/C.aspx?VP3=CMS3&VF=Home)
     * [Licensing & Reprints](https://www.newspix.com.au/C.aspx?VP3=CMS3&VF=OurNetworkNPX)
-    * [Advertise with us](https://www.newsconcierge.com.au/)
+    * [Advertise with us](https://www.newscorpaustralia.com/contact-us/)
 * #### Our News Network
     
     * [Herald Sun](https://www.heraldsun.com.au/)
