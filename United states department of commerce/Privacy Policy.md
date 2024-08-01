@@ -135,7 +135,7 @@ Search
     
     [ICT Supply Chain](https://www.commerce.gov/issues/ict-supply-chain)
     
-    [Indo-Pacific Economic Framework](https://www.commerce.gov/issues/ipef)
+    [Indo-Pacific Economic Framework for Prosperity](https://www.commerce.gov/issues/ipef)
     
     [Infrastructure](https://www.commerce.gov/issues/infrastructure)
     
@@ -288,7 +288,7 @@ Search
     * [First responder network](https://www.commerce.gov/issues/first-responder-network)
     * [Fisheries and aquaculture](https://www.commerce.gov/issues/fisheries-and-aquaculture)
     * [ICT Supply Chain](https://www.commerce.gov/issues/ict-supply-chain)
-    * [Indo-Pacific Economic Framework](https://www.commerce.gov/issues/ipef)
+    * [Indo-Pacific Economic Framework for Prosperity](https://www.commerce.gov/issues/ipef)
     * [Infrastructure](https://www.commerce.gov/issues/infrastructure)
     * [Intellectual property](https://www.commerce.gov/issues/intellectual-property)
     * [Investing in communities and workers](https://www.commerce.gov/issues/investing-communities-and-workers)
