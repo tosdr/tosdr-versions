@@ -37,7 +37,7 @@
         * More Pharmacy Services
         * [Pharmacy Chat](https://www.walgreens.com/rx-utility/pharmacychat)
         * [Refill with Rx Number](https://www.walgreens.com/rx-checkout/guest-express-refill)
-        * [Home Delivery Pharmacy](https://www.walgreens.com/rx-settings/home-delivery-pharmacy)
+        * [Mail Service Pharmacy](https://www.walgreens.com/rx-settings/home-delivery-pharmacy)
         * [Specialty Pharmacy](https://www.walgreens.com/topic/pharmacy/specialty-pharmacy.jsp)
         * [Easy Rx Delivery](https://www.walgreens.com/topic/pharmacy/prescription-delivery.jsp?o=acs)
         * [Medication Compounding](https://www.walgreens.com/topic/pharmacy/compounding.jsp?o=acs)
@@ -447,11 +447,11 @@ These Terms were last updated on May 21, 2024.
 * [Investor Relations](https://investor.walgreensbootsalliance.com/)
 * [Diversity & Inclusion](https://www.walgreens.com/topic/sr/believes_diversity.jsp)
 
-[AllianceRx Walgreens Pharmacy](https://www.alliancerxwp.com/)
---------------------------------------------------------------
+[Walgreens Mail Service](https://www.walgreensmailservice.com/)
+---------------------------------------------------------------
 
-* [Home Delivery Pharmacy](https://www.walgreens.com/rx-settings/home-delivery-pharmacy)
-* [Specialty Pharmacy](https://www.walgreens.com/topic/pharmacy/specialty-pharmacy.jsp)
+[Walgreens Specialty Pharmacy](https://www.walgreensspecialtyrx.com/)
+---------------------------------------------------------------------
 
 [Healthcare Solutions](https://www.walgreens.com/healthcare-solutions/home)
 ---------------------------------------------------------------------------
@@ -459,8 +459,8 @@ These Terms were last updated on May 21, 2024.
 [Walgreens Clinical Trials](https://www.walgreens.com/topic/clinical-trials.jsp)
 --------------------------------------------------------------------------------
 
-[Walgreens Boots Alliance](http://www.walgreensbootsalliance.com/)
-------------------------------------------------------------------
+[Walgreens Boots Alliance](https://www.walgreensbootsalliance.com/)
+-------------------------------------------------------------------
 
 [Privacy Information](#!)
 -------------------------
