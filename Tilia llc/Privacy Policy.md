@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/65ab1d4bb088d42af8bc167f_tilia-blue.svg)](https://www.tilia.io/)
+[![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/65ab1d4bb088d42af8bc167f_tilia-blue.svg)](https://www.tilia.io/)
 
 [Why Tilia?](https://www.tilia.io/why-tilia)[Products](https://www.tilia.io/products)[Customer Stories](https://www.tilia.io/customer-stories)[Documentation](https://www.tilia.io/docs/)[About](https://www.tilia.io/about)[Contact](https://www.tilia.io/contact-tilia)
 
@@ -359,11 +359,11 @@ West Hollywood, California 90069
 
 ‍
 
-![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/65a9be214a91b4cafa71461d_tilia-logo-white-r.svg)
+![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/65a9be214a91b4cafa71461d_tilia-logo-white-r.svg)
 
 © 2023 Tilia LLC. All Rights Reserved  
 Tilia LLC. - NMLS License #2450368
 
-[![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/63488086af8d0a21bd48cff7_Linkedin.png)](https://www.linkedin.com/company/tiliapay)
+[![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/63488086af8d0a21bd48cff7_Linkedin.png)](https://www.linkedin.com/company/tiliapay)
 
 [Customer Stories](https://www.tilia.io/customer-stories)[Sales](https://www.tilia.io/contact-sales)[Licenses](https://www.tilia.io/licenses)[Cookies](https://www.tilia.io/cookies)[Privacy Policy](https://www.tilia.io/legal/privacy-policy)[Terms of Service](https://www.tilia.io/legal/terms-of-service)[System Description](https://www.tilia.io/docs/policies/system-description/)
