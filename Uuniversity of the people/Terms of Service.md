@@ -121,6 +121,8 @@
 * [](#)
     
 
+[Home](https://www.uopeople.edu/) > Terms of Service
+
 Terms of Service
 
 AGREEMENT BETWEEN USER AND University of the People
