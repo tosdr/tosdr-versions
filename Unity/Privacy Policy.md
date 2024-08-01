@@ -15,7 +15,7 @@ On July 29, 2024, we implemented modifications aimed at increasing clarity, incl
   
 This Data Processing Addendum (this “DPA”) is incorporated into and forms an integral part of the Unity Terms of Service, available at [https://unity3d.com/legal/terms-of-service](https://unity3d.com/legal/terms-of-service),the Unity Advertising Terms of Service, available at [https://unity3d.com/legal/one-operate-services-terms-of-service](https://unity3d.com/legal/one-operate-services-terms-of-service), the Asset Store Terms of Service and EULA, available at [https://unity.com/legal/as-terms](https://unity.com/legal/as-terms), and the Asset Store Provider Agreement, available at [https://unity.com/legal/as-provider](https://unity.com/legal/as-provider), or, as applicable, an offline agreement relating to the subject matter therein (the “Terms of Service”) between You and the Unity Party specified in Section 2.22 below., on behalf of itself and its Affiliates (collectively, “Unity”) and you (“Customer” or “you”), each a “party” and collectively the “parties”. Acceptance of the Terms of Service includes acceptance of this DPA. Capitalized but undefined terms used in this DPA will have the meanings assigned to those terms in the Terms of Service.
 
-To the extent you are using the services named herein and absent any other offline agreement, you shall be deemed to have accepted this DPA and applicable Standard Contractual Clauses upon acceptance or execution of the applicable Terms of Service. [This](https://cdn.bfldr.com/S5BC9Y64/at/m82kqx7w26btpbqn64q2bmk/Clean_Unity_Unified_DPA_-_Feb_2024.pdf) is a pre-signed copy of this document and accompanying SCCs which you may download, execute on your side, and return to [DPA@unity3d.com](mailto:DPA@unity3d.com).  
+To the extent you are using the services named herein and absent any other offline agreement, you shall be deemed to have accepted this DPA and applicable Standard Contractual Clauses upon acceptance or execution of the applicable Terms of Service. [This](https://cdn.bfldr.com/S5BC9Y64/at/bbq984fs9vt4wv93vfhspbj/Signed_Unity_DPA-_July_29__2024.pdf?format=pdf) is a pre-signed copy of this document and accompanying SCCs which you may download, execute on your side, and return to [DPA@unity3d.com](mailto:DPA@unity3d.com).  
 
 #### **1\. Scope of Addendum**
 
@@ -90,7 +90,7 @@ To the extent you are using the services named herein and absent any other offli
 
 |     |
 | --- |
-| **Player Services**<br><br>* LiveOps Solutions<br>    * Not including Unity Player Accounts, which is a Controller Service<br>* Multiplayer Solutions<br>* Community Solutions<br><br>  <br>**Creator Services**<br><br>* Asset Manager<br>* PlasticSCM<br>* SyncSketch<br><br>  <br><br>These were previously referred to as Game Services and Multiplayer Services |
+| **Player Services**<br><br>* [LiveOps Solutions](https://unity.com/solutions/gaming-services/player-insights)<br>    * Not including Unity Player Accounts, which is a Controller Service<br>* [Multiplayer Solutions](https://unity.com/solutions/multiplayer)<br>* [Community Solutions](https://unity.com/solutions/community)<br><br>  <br>**Creator Services**<br><br>* Asset Manager<br>* PlasticSCM<br>* SyncSketch<br><br>  <br><br>These were previously referred to as Game Services and Multiplayer Services |
 | Consulting Services<br><br>  <br><br>This is where a customer contracts with Unity to consult with them on their game |
 | * Unity MARS and the Unity AR Companion App |
 | * Unity LevelPlay |
