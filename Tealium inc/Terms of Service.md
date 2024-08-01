@@ -6,13 +6,13 @@
 
 ![Language Selector](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/lang_selector_white.svg "Language Selector")
 
-[de](https://tealium.com/de/terms-of-use/ "de")
+[de](https://tealium.com/de "de")
 
-[fr](https://tealium.com/fr/terms-of-use/ "fr")
+[fr](https://tealium.com/fr "fr")
 
-[es](https://tealium.com/es/terms-of-use/ "es")
+[es](https://tealium.com/es "es")
 
-[ja](https://tealium.com/ja/terms-of-use/ "ja")
+[ja](https://tealium.com/ja "ja")
 
 [![Tealium](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/logo-white.svg "Tealium")](https://tealium.com/)
 
@@ -20,7 +20,7 @@
 
 Products
 
-[Real-Time Data Collection & Quality Collect customer data, ensure data quality, and send it anywhere.](https://tealium.com/products-real-time-data-collection-and-quality/) [Real-Time CDP & Predictive Insights Deliver relevant and trusted experiences based on real-time customer data.](https://tealium.com/products-real-time-cdp-predictive-insights/) [Data Management & Storage Own and access your most important enterprise asset, your customer data.](https://tealium.com/products-data-management-storage/) [Tealium for AI Power AI initiatives with consented, filtered, and enriched data in real-time.](https://tealium.com/products/tealium-for-AI/) [Tealium Moments Own the customer experience moment with real-time intelligence and action.](https://tealium.com/products/tealium-moments/)
+[Real-Time Data Collection & Quality Collect customer data, ensure data quality, and send it anywhere.](https://tealium.com/products-real-time-data-collection-and-quality/) [Real-Time CDP & Predictive Insights Deliver relevant and trusted experiences based on real-time customer data.](https://tealium.com/products-real-time-cdp-predictive-insights/) [Data Management & Storage Own and access your most important enterprise asset, your customer data.](https://tealium.com/products-data-management-storage/) [Tealium for AI Power AI initiatives with consented, filtered, and enriched data in real-time.](https://tealium.com/products/tealium-for-AI/) [Tealium for Healthcare Power more privacy-first patient experiences with real-time data.](https://tealium.com/products/tealium-for-healthcare/) [Tealium Moments Own the customer experience moment with real-time intelligence and action.](https://tealium.com/products/tealium-moments/)
 
 Integrations
 
