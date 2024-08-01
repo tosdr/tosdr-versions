@@ -1,4 +1,4 @@
-[![Wunderkind Home](https://wkd.wpengine.com/wp-content/uploads/2021/08/Wunderkind_Logo_rgb_white-01-1.svg)![Wunderkind Logo Black Font](https://wkd.wpengine.com/wp-content/uploads/2021/08/Wunderkind_Logo_rgb_black-01-1.svg)](https://www.wunderkind.co/)
+[![Wunderkind Logo White Font](/images/logo-white.svg)![Wunderkind Logo Black Font](/images/logo-black.svg)](https://www.wunderkind.co/)
 
 * [How It Works](#How It Works)
 * [Platform](https://www.wunderkind.co/platform/)
