@@ -333,4 +333,4 @@ See for yourself why students and educators across the country are taking a radi
 * [Terms of Use](https://www.stmath.com/terms)
 * [Privacy Policy](https://www.stmath.com/privacy-policy)
 
-Copyright © 2023 MIND Education. All rights reserved.
+Copyright © 2024 MIND Education®. All rights reserved.
