@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[July 29, 2024](https://www.japantimes.co.jp/archive/2024/07/29/ "archive page")
+[August 01, 2024](https://www.japantimes.co.jp/archive/2024/08/01/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Kamala Harris](https://www.japantimes.co.jp/tag/kamala-harris/ "Kamala Harris")
+* [BOJ](https://www.japantimes.co.jp/tag/boj/ "BOJ")
 * [Extreme heat](https://www.japantimes.co.jp/tag/heat-waves/ "Extreme heat")
 * [Paris Olympics](https://www.japantimes.co.jp/tag/2024-paris-olympics// "Paris Olympics")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -463,45 +463,45 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
 
-  [![Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411812.jpg&w=400&q=100&f=jpg&t=1.2 "Ryuju Nagayama reacts after his quarterfinal bout against Spain's Francisco Garrigos at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/27/ryuju-nagayama-judo-loss/ "Ryuju Nagayama falls in controversial ruling in Paris but later earns bronze")
+  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
 
-[When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+[Grilled eel leaves one dead and 140 sick in Japan](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
 
-  [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
+  [![President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412440.jpg&w=400&q=100&f=jpg&t=1.2 "President Shinji Kaneko (left) and other executives of Keikyu Department Store bow in apology during a news conference in Yokohama on Monday.")](https://www.japantimes.co.jp/news/2024/07/30/japan/japan-eel-poisoning-death/ "Grilled eel leaves one dead and 140 sick in Japan")
 
-[A mysterious plot prompts a rare call from Russia to the Pentagon](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
+[Bank of Japan delivers one-two punch few were expecting](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
 
-  [![U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411807.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Secretary of Defense Lloyd Austin testifies on Capitol Hill in Washington in April. In July, Russia's defense minister said he needed to talk to Austin about an alleged Ukrainian operation. What happened next remains murky. ")](https://www.japantimes.co.jp/news/2024/07/27/world/us-ukraine-russia-plot/ "A mysterious plot prompts a rare call from Russia to the Pentagon")
-
-[‘Crazy’ yen rally is at risk of shattering as soon as Wednesday](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
-  [![Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/27/411764.JPG&w=400&q=100&f=jpg&t=1.2 "Some investors are warning that a yen rally is fragile, as was on show this week when the yen rapidly retraced an advance after Thursday’s stronger-than-expected U.S. economic growth figures. ")](https://www.japantimes.co.jp/business/2024/07/27/markets/yen-rally-end/ "‘Crazy’ yen rally is at risk of shattering as soon as Wednesday")
-
-[Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
-
-  [![Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411830.jpg&w=400&q=100&f=jpg&t=1.2 "Gold medalist Natsumi Tsunoda celebrates on the podium after she won the women's under 48-kg division at the Paris Olympics on Saturday. ")](https://www.japantimes.co.jp/olympics/2024/07/27/natsumi-tsunoda-olympic-final/ "Dominant Natsumi Tsunoda delivers Japan's first gold medal at Paris Olympics")
+  [![Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412752.jpg&w=400&q=100&f=jpg&t=1.2 "Bank of Japan Gov. Kazuo Ueda speaks during a news conference at the central bank's headquarters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/business/2024/07/31/economy/boj-rates/ "Bank of Japan delivers one-two punch few were expecting")
 
 [When did summer in Japan stop being fun?](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
   [![Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411244.jpg&w=400&q=100&f=jpg&t=1.2 "Summer in Japan is now consistently brutal enough to drive you indoors and keep you there until autumn.")](https://www.japantimes.co.jp/community/2024/07/27/voices/summer-not-fun-tokyo-japan/ "When did summer in Japan stop being fun?")
 
-[The Japanese Olympians looking to shine in Paris](https://www.japantimes.co.jp/olympics/2024/07/26/japanese-athletes-to-watch/ "The Japanese Olympians looking to shine in Paris")
+[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
-  [![Rim Nakamura, who is attempting to win Japan's first Olympic gold medal in cycling, will be one of the top Japanese athletes to watch at the Paris Games.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/26/411089.jpg&w=400&q=100&f=jpg&t=1.2 "Rim Nakamura, who is attempting to win Japan's first Olympic gold medal in cycling, will be one of the top Japanese athletes to watch at the Paris Games.")](https://www.japantimes.co.jp/olympics/2024/07/26/japanese-athletes-to-watch/ "The Japanese Olympians looking to shine in Paris")
+  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
-[Japan’s minimum wage set for record ¥50 hike in major boost](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
+[Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney](https://www.japantimes.co.jp/sports/2024/07/31/baseball/japanese-baseball/koshien-100-years-anniversary/ "Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney")
 
-  [![Demonstrators rally to demand a big hike in minimum wages in Tokyo last week.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/25/411299.jpg&w=400&q=100&f=jpg&t=1.2 "Demonstrators rally to demand a big hike in minimum wages in Tokyo last week.")](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
+  [![The front facade at Koshien Stadium in Nishinomiya, Hyogo Prefecture. The stadium, widely regarded as the spiritual home of Japanese baseball, turns 100 on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412664.jpg&w=400&q=100&f=jpg&t=1.2 "The front facade at Koshien Stadium in Nishinomiya, Hyogo Prefecture. The stadium, widely regarded as the spiritual home of Japanese baseball, turns 100 on Thursday. ")](https://www.japantimes.co.jp/sports/2024/07/31/baseball/japanese-baseball/koshien-100-years-anniversary/ "Koshien at 100: 'Sacred' dirt, the Hanshin Tigers and a storied high school tourney")
 
-[Japan loses top spot on strongest passport list to Singapore](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
+[How Japan's gymnasts picked each other up and toppled China](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
-  [![Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411243.png&w=400&q=100&f=jpg&t=1.2 "Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.")](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
+  [![Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/31/412617.JPG&w=400&q=100&f=jpg&t=1.2 "Teammates swarm Daiki Hashimoto after his gold medal-clinching performance on the horizontal bar on Monday.")](https://www.japantimes.co.jp/olympics/2024/07/31/japan-gymnastics-team-effort/ "How Japan's gymnasts picked each other up and toppled China")
 
-[Why Japan's mysterious stash of classified funds escapes scrutiny](https://www.japantimes.co.jp/news/2024/07/24/japan/politics/cabinet-classifed-funds/ "Why Japan's mysterious stash of classified funds escapes scrutiny")
+[A President Harris might be decidedly Trumpy in approach to Asia trade](https://www.japantimes.co.jp/business/2024/07/30/economy/harris-biden-asia/ "A President Harris might be decidedly Trumpy in approach to Asia trade")
 
-  [![Prime Minister Fumio Kishida and Chief Cabinet Secretary Yoshimasa Hayashi (right) during a meeting in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/410985.jpg&w=400&q=100&f=jpg&t=1.2 "Prime Minister Fumio Kishida and Chief Cabinet Secretary Yoshimasa Hayashi (right) during a meeting in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/07/24/japan/politics/cabinet-classifed-funds/ "Why Japan's mysterious stash of classified funds escapes scrutiny")
+  [![U.S. Vice President Kamala Harris might maintain some of the economic policies of former President Donald Trump.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412494.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. Vice President Kamala Harris might maintain some of the economic policies of former President Donald Trump.")](https://www.japantimes.co.jp/business/2024/07/30/economy/harris-biden-asia/ "A President Harris might be decidedly Trumpy in approach to Asia trade")
+
+[What’s in a handshake? In Olympic judo, quite a lot](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+
+  [![Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/30/412436.jpg&w=400&q=100&f=jpg&t=1.2 "Japan's Ryuju Nagayama (right) refuses to shake hands with Spain's Francisco Garrigos after a controversial decision in their under-60 kg quarterfinal bout at the Paris Olympics on Saturday.")](https://www.japantimes.co.jp/olympics/2024/07/30/judo-controversy-nagayama/ "What’s in a handshake? In Olympic judo, quite a lot")
+
+[For aging Japan, a troubling link between heat and dementia](https://www.japantimes.co.jp/news/2024/07/29/japan/science-health/extreme-heat-dementia-japan/ "For aging Japan, a troubling link between heat and dementia")
+
+  [![The latest research indicates that heat stress is likely to worsen the condition of people with Alzheimer’s disease — which accounts for over half of all dementia cases in Japan — by making them more irritated or exacerbating their cognitive decline.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/28/411571.jpg&w=400&q=100&f=jpg&t=1.2 "The latest research indicates that heat stress is likely to worsen the condition of people with Alzheimer’s disease — which accounts for over half of all dementia cases in Japan — by making them more irritated or exacerbating their cognitive decline.")](https://www.japantimes.co.jp/news/2024/07/29/japan/science-health/extreme-heat-dementia-japan/ "For aging Japan, a troubling link between heat and dementia")
 
 Podcast
 -------
@@ -513,18 +513,18 @@ Podcast
 Longform
 --------
 
-  [![Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/21/409896.jpg&w=400&q=100&f=jpg&t=1.2 "Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ")](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
+  [![The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/26/411118.jpg&w=400&q=100&f=jpg&t=1.2 "The students at Mitaka Municipal No. 7 Junior High School have access to various cooling devices for when they play sports. ")](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
 
-[As climate extremes intensify, Japan embraces ancient weather rituals](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
+[Japan's extreme heat is causing a rethink of school sports](https://www.japantimes.co.jp/environment/2024/07/26/climate-change/heatstroke-students-japanese-school-sports/ "Japan's extreme heat is causing a rethink of school sports")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality](https://sustainable.japantimes.com/magazine/vol26/26-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality")
+[JNTO promotes sustainable tourism initiatives](https://sustainable.japantimes.com/magazine/vol38/38-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "JNTO promotes sustainable tourism initiatives")
 
-[![mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_26_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol26/26-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "mission sustainability vol.8: Omron Corp.Omron helping firms achieve carbon neutrality")
+[![JNTO promotes sustainable tourism initiatives](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_38_03_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol38/38-03?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "JNTO promotes sustainable tourism initiatives")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Australia reshuffles senior ministers ahead of upcoming election](https://www.japantimes.co.jp/news/2024/07/28/asia-pacific/politics/australia-reshuffles-senior-minister/ "Australia reshuffles senior ministers ahead of upcoming election")
+[Denmark says Japan made extradition request for anti-whaling activist Watson](https://www.japantimes.co.jp/news/2024/08/01/japan/anti-whaling-activist-extradition-request/ "Denmark says Japan made extradition request for anti-whaling activist Watson")
 
-4 hours ago
+30 mins ago
 
-[Thousands of Druze mourn youths killed in Golan rocket attack](https://www.japantimes.co.jp/news/2024/07/28/world/druze-mourn-rocket-attack-victims/ "Thousands of Druze mourn youths killed in Golan rocket attack")
+[7-Eleven's curry bread certified by Guinness World Records](https://www.japantimes.co.jp/business/2024/08/01/companies/7-elevens-bread-guinness-records/ "7-Eleven's curry bread certified by Guinness World Records")
 
-5 hours ago
+42 mins ago
 
-[Iran's Khamenei formally grants Pezeshkian presidential powers](https://www.japantimes.co.jp/news/2024/07/28/world/khamenei-grants-pezeshkian-presidential-powers/ "Iran's Khamenei formally grants Pezeshkian presidential powers")
+[Japan experienced its hottest July on record](https://www.japantimes.co.jp/news/2024/08/01/japan/hottest-july-japan/ "Japan experienced its hottest July on record")
 
-5 hours ago
+1 hours ago
 
-[In historic move, U.S. to upgrade military command structure in Japan](https://www.japantimes.co.jp/news/2024/07/28/japan/politics/us-japan-two-plus-two/ "In historic move, U.S. to upgrade military command structure in Japan")
+[Honda, Nissan to tighten ties on software, batteries, EV knowhow](https://www.japantimes.co.jp/business/2024/08/01/companies/honda-nissan-ev-tieup/ "Honda, Nissan to tighten ties on software, batteries, EV knowhow")
 
-6 hours ago
+2 hours ago
 
-[Two Japanese climbers fall from Pakistan's K2](https://www.japantimes.co.jp/news/2024/07/28/japan/japanese-climbers-k2/ "Two Japanese climbers fall from Pakistan's K2")
+[Taro Kono softens line against nuclear power ahead of LDP leadership race](https://www.japantimes.co.jp/news/2024/08/01/japan/politics/ldp-taro-kono-nuclear-power/ "Taro Kono softens line against nuclear power ahead of LDP leadership race")
 
-9 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
