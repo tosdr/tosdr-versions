@@ -37,7 +37,7 @@ In case of disagreement with these terms, do not use this Website.
 14. The website ApkVision has the right to unilaterally modify the list of information presented in this resource.
 15. The website ApkVision has the right to unilaterally revoke permission to use the materials without explanation.
 
-© 2024 APKVISION.ORG
+© 2024 APKVISION.ORG | [Send Request](https://apkvision.org/request/)
 
 * [TERMS](https://apkvision.org/terms-of-service/)
 * [PRIVACY POLICY](https://apkvision.org/privacy-policy/)
