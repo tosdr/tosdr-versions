@@ -130,6 +130,7 @@ Click on the retailer below for the Terms & Conditions specific to your plan.Â Â
 * [Amazon](https://www.squaretrade.com/amazonterms)
 * [American Home Shield](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/MCP-3569%20AHS%20T&Cs%20April%202021_R1.pdf)
 * [American Home Shield - Spanish](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/2021-2-25-APP-AHS-USSP-8.5x11-MCP-3616.pdf)
+* [Arlo](https://www.squaretrade.com/sites/default/files/2024-07/2024-6-28-APP-Arlo-8.5x11-MCP-4643.pdf "2024-6-28-APP-Arlo-8.5x11-MCP-4643.pdf")
 * [AT&T Mobility](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [B&H](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/new/2021-02-08-ST-BH-STANDARD-A3.pdf)
 * [Big Lots](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2020_11_Standard_TC_EN_092020.pdf)
@@ -209,6 +210,7 @@ Click on the retailer below for the Terms & Conditions specific to your plan.Â Â
 * [West ElmÂ US - English](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [West Elm Puerto Rico - English](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2019-09-01-APP-STANDARD-PR-ENG.pdf)
 * [West Elm Puerto Rico - Spanish](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2019-09-01-APP-STANDARD-PR-ES.pdf)
+* [Whole Home Electronics Protection Plan](https://www.squaretrade.com/sites/default/files/2024-07/2024-06-27-APP-ST-MULTI_ENG-8.5x11_MCP-4646.pdf "2024-06-27-APP-ST-MULTI_ENG-8.5x11_MCP-4646.pdf")
 
 [back to top](#main-content "back to top") [![](/sites/default/files/APP_ServicedST_Logo_Lockup_White.svg "SquareTrade")](https://www.squaretrade.com/ "SquareTrade")
 
