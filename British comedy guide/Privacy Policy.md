@@ -140,21 +140,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[![Count Binface. Jon Harvey](https://cdn.comedy.co.uk/images/library/misc/300x200/c/count_binface_2024.jpg "Count Binface. Jon Harvey")](https://www.comedy.co.uk/live/random8/count-binface/) Live
+[![Image shows left to right: Benny Hill, Dennis Kirkland](https://cdn.comedy.co.uk/images/library/misc/300x200/b/benny_hill_dennis_kirkland.jpg "Image shows left to right: Benny Hill, Dennis Kirkland")](https://www.comedy.co.uk/features/comedy_chronicles/a-dubious-double-act-benny-hill-and-dennis-kirkland/) Features
 
-[Random 8: Count Binface](https://www.comedy.co.uk/live/random8/count-binface/)
+[Comedy Chronicles: A dubious double act: Benny Hill and Dennis Kirkland](https://www.comedy.co.uk/features/comedy_chronicles/a-dubious-double-act-benny-hill-and-dennis-kirkland/)
 
-[![Nish Kumar. Credit: Matt Stronge](https://cdn.comedy.co.uk/images/library/people/300x200/n/nish_kumar_2024.jpg "Nish Kumar. Credit: Matt Stronge")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-55/) Live
+[![Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated](https://cdn.comedy.co.uk/images/library/comedies/300x200/n/nothing_but_the_best.jpg "Nothing But The Best. Image shows left to right: Jimmy Brewster (Alan Bates), Charlie Prince (Denholm Elliott). Credit: STUDIOCANAL, Anglo Amalgamated")](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/) Competitions
 
-[Nish Kumar & Milton Jones - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-55/)
+[Win Nothing But The Best on Blu-ray](https://www.comedy.co.uk/film/nothing_but_the_best/competitions/)
 
-[![Betty Marsden](https://cdn.comedy.co.uk/images/library/people/300x200/b/betty_marsden.jpg "Betty Marsden")](https://www.comedy.co.uk/features/comedy_chronicles/betty-marsden/) Features
+[![The Fosters. Image shows left to right: Sonny Foster (Lenny Henry), Benjamin Foster (Lawrie Mark), Shirley Foster (Sharon Rosita). Credit: London Weekend Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_fosters.jpg "The Fosters. Image shows left to right: Sonny Foster (Lenny Henry), Benjamin Foster (Lawrie Mark), Shirley Foster (Sharon Rosita). Credit: London Weekend Television")](https://www.comedy.co.uk/quiz/316/) Quiz
 
-[Comedy Chronicles: Tell me darling - am I going too far?: The protean powers of Betty Marsden](https://www.comedy.co.uk/features/comedy_chronicles/betty-marsden/)
+[British Comedy Quiz #316](https://www.comedy.co.uk/quiz/316/)
 
-[![Ian Stone. Credit: Elliot Minogue-Stone](https://cdn.comedy.co.uk/images/library/videos/300x200/i/ian_stone_2024.jpg "Ian Stone. Credit: Elliot Minogue-Stone")](https://www.comedy.co.uk/live/fgwg/ian-stone-2024/) Live
+[![Geoff Norcott](https://cdn.comedy.co.uk/images/library/people/300x200/g/geoff_norcott_2017.jpg "Geoff Norcott")](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/) Radio
 
-[First Gig, Worst Gig: Ian Stone](https://www.comedy.co.uk/live/fgwg/ian-stone-2024/)
+[Geoff Norcott chats to BCG](https://www.comedy.co.uk/radio/geoff-norcott-working-mens-club/interviews/geoff-norcott/)
 
 #### Subscribe to our newsletters
 
