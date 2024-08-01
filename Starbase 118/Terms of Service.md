@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
+
+### [Changelings discovered aboard USS Astraeus amidst pursuit of renegade starship](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
+
+Federation News Service July 29, 2024
+
+ALPHA QUADRANT — Questions arise on the USS Astraeus after receiving orders to track down a rogue Starfleet vessel.
+
+[Read More »](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
 
 ### [USS Ronin successfully thwarts consortium forces in Alpha Isles](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
@@ -377,18 +389,6 @@ Federation News Service July 25, 2024
 BADLANDS – During a routine journey back to the Sol system, the crew of the USS Artemis-A (NCC-81287) detected unusual sensor readings in The Badlands.
 
 [Read More »](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/07/image-768x775-1.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
-
-### [New community recruits people from all over the universe](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
-
-Federation News Service July 23, 2024
-
-UNKNOWN LOCATION — Are you feeling isolated and seeking new connections? We have a solution for you.
-
-[Read More »](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
 
 Ready to get started?
 ---------------------
