@@ -1,8 +1,8 @@
-;
+![](https://www.facebook.com/tr?id=340868518931747&ev=PageView&noscript=1)                   ;
 
 Search for: 
 
-* [Corporate Careers](https://www.teamhealthcareers.com/en-US/page/administrative-jobs)
+* [Corporate Careers](https://www.teamhealthcareers.com/pages?page=adminstrativejobs)
 * [Zenith Clinician Portal](https://sites.tmhlabs.net/zenith-landing/getzenith.html)
 * [TeamACO](https://teamhealth.com/aco)
 * [Bill Pay](https://www.thbillpay.com/)
