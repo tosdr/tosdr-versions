@@ -2,7 +2,7 @@
 
 Buscar 
 
-[Telefónica](https://www.telefonica.com/es/)
+[Telefónica ![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany.svg)](https://www.telefonica.com/es/) 
 
 Telefonica.com
 
@@ -285,6 +285,8 @@ TELEFÓNICA podrá actualizar la presente Política de Cookies en cualquier mome
 
 No obstante lo anterior, la inclusión de cookies nuevas o la utilización de cookies ya informadas para finalidades diferentes a las indicadas requerirá la aceptación de las mismas de forma previa por parte del usuario.
 
+![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany-white.svg)
+
 Hacer nuestro mundo más humano, conectando la vida de las personas.
 
 * [facebook](https://www.facebook.com/telefonica)
@@ -296,7 +298,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Países](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
 * [Contacto](https://www.telefonica.com/es/contacto/)
 
-[Volver a la portada](https://www.telefonica.com/es/)
+[![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/png/bola-blanca.png)Volver a la portada](https://www.telefonica.com/es/)
 
 [Subir](#page)
 
