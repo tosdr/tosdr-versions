@@ -14,7 +14,7 @@
 
 [* Help Center](https://www.waze.com/waze/?hl=en)
 
-[* Plan your drive](https://www.waze.com/waze/topic/6342345?hl=en&ref_topic=6024567,6024551,)[* Drive with Waze](https://www.waze.com/waze/topic/6262567?hl=en&ref_topic=6024567,6024551,)[* Edit the Waze map](https://www.waze.com/waze/topic/6263209?hl=en&ref_topic=6024567,6024551,)[* Manage your Waze account](https://www.waze.com/waze/topic/6263211?hl=en&ref_topic=6024567,6024551,)[* Manage your driving experience](https://www.waze.com/waze/topic/14354098?hl=en&ref_topic=6024567,6024551,)[* Waze on in-car displays](https://www.waze.com/waze/topic/7406710?hl=en&ref_topic=6024567,6024551,)[* Help & feedback](https://www.waze.com/waze/topic/6262587?hl=en&ref_topic=6024567,6024551,)[* Learn about Waze](https://www.waze.com/waze/topic/9022747?hl=en&ref_topic=6024567,6024551,)[* Waze Privacy & Terms](https://www.waze.com/waze/announcements/12153862?hl=en&ref_topic=6024567,6024551,)[* Waze Compliance](https://www.waze.com/waze/announcements/13347356?hl=en&ref_topic=6024567,6024551,)
+[* Plan your drive](https://www.waze.com/waze/topic/6342345?hl=en&ref_topic=6024567,6024551,)[* Drive with Waze](https://www.waze.com/waze/topic/6262567?hl=en&ref_topic=6024567,6024551,)[* Edit the Waze map](https://www.waze.com/waze/topic/6263209?hl=en&ref_topic=6024567,6024551,)[* Manage your Waze account](https://www.waze.com/waze/topic/6263211?hl=en&ref_topic=6024567,6024551,)[* Manage your driving experience](https://www.waze.com/waze/topic/14354098?hl=en&ref_topic=6024567,6024551,)[* Waze on in-car displays](https://www.waze.com/waze/topic/7406710?hl=en&ref_topic=6024567,6024551,)[* Help & feedback](https://www.waze.com/waze/topic/6262587?hl=en&ref_topic=6024567,6024551,)[* Learn about Waze](https://www.waze.com/waze/topic/9022747?hl=en&ref_topic=6024567,6024551,)[* Waze Privacy & Terms](https://www.waze.com/waze/announcements/12153862?hl=en&ref_topic=6024567,6024551,)[* Waze Compliance](https://www.waze.com/waze/announcements/13347356?hl=en&ref_topic=6024567,6024551,)[* Troubleshoot common issues](https://www.waze.com/waze/topic/10145501?hl=en&ref_topic=6024567,6024551,)
 
 [* Community](https://www.waze.com/waze/community?hl=en)[* Waze](https://www.waze.com/)
 
@@ -46,13 +46,14 @@ Next
     [Customize your map display](https://www.waze.com/waze/topic/13773071?hl=en&ref_topic=14354098,6024567,6024551,)[Set sound and language preferences](https://www.waze.com/waze/topic/6268710?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your alerts](https://www.waze.com/waze/topic/7060192?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your driving preferences](https://www.waze.com/waze/topic/7060168?hl=en&ref_topic=14354098,6024567,6024551,)
     
 * [Waze on in-car displays](https://www.waze.com/waze/topic/7406710?hl=en&ref_topic=6024567,6024551,)
-* Help & feedback
-    
-    [Troubleshoot common issues](https://www.waze.com/waze/topic/10145501?hl=en&ref_topic=6262587,6024567,6024551,)
-    
+* [Help & feedback](https://www.waze.com/waze/topic/6262587?hl=en&ref_topic=6024567,6024551,)
 * [Learn about Waze](https://www.waze.com/waze/topic/9022747?hl=en&ref_topic=6024567,6024551,)
 * [Waze Privacy & Terms](https://www.waze.com/waze/announcements/12153862?hl=en&ref_topic=6024567,6024551,)
 * [Waze Compliance](https://www.waze.com/waze/announcements/13347356?hl=en&ref_topic=6024567,6024551,)
+* Troubleshoot common issues
+    
+    [Sign in issues](https://www.waze.com/waze/topic/10082750?hl=en&ref_topic=10145501,6024567,6024551,)[Other topics](https://www.waze.com/waze/topic/9936569?hl=en&ref_topic=10145501,6024567,6024551,)
+    
 
 Waze Privacy & Terms
 ====================
@@ -99,14 +100,7 @@ Waze Privacy & Terms
     
     [Read more](https://www.waze.com/waze/answer/12075833 "Read more")
     
-7. Google Payments Terms of Service for Waze Carpool
-    -------------------------------------------------
-    
-    Please select the terms of service as a Rider or a Driver: Rider - Last modified: 16 May 2016 Driver - Last modified: 7 June 2018 Google Payments Terms of Service for Waze Carpool – Rider (US) 16 May 2016 These Terms of Service are a legal agreement, between you and Google Payment Corp. (“GPC” or “we”), a wholly owned subsidiary of Google Inc., that govern your access to and use of the Services (as defined below). Please review these Terms of Service before you decide whether to accept them and continue with the registration process. By agreeing to these Terms of Service, you represent the fol…
-    
-    [Read more](https://www.waze.com/waze/answer/12066460 "Read more")
-    
-8. Waze Privacy Policy
+7. Waze Privacy Policy
     -------------------
     
     Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services to users of www.waze.com (the “Website”) and/or users of Waze’s applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control. This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can…
@@ -140,7 +134,7 @@ Google apps
 
 Main menu
 
-9810842905107213690
+7989314560281541657
 
 true
 
