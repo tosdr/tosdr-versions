@@ -63,11 +63,11 @@
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](https://a.slack-edge.com/3103e63/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
+        * * [![](https://a.slack-edge.com/ed6ce89/marketing/img/nav/slack-tour-promo@2x.png)
                 
-                Businesses of all sizes are working faster and smarter with Slack AI
+                Take a quick interactive tour of Slack.
                 
-                Learn more](https://slack.com/intl/en-gb/blog/news/work-faster-and-smarter-with-slack-ai)
+                Start the tour](https://slackdemo.com/)
         * * [What is Slack?](https://slack.com/intl/en-gb/what-is-slack)
             * [Slack vs email](https://slack.com/intl/en-gb/why/slack-vs-email)
             * [Accessibility](https://slack.com/intl/en-gb/accessibility)
@@ -110,7 +110,7 @@
     
     * * * [Resources library](https://slack.com/intl/en-gb/resources)
             * [What’s new](https://slack.com/intl/en-gb/releases)
-            * [Watch demo](http://slack.com/demo)
+            * [Product tour](https://slackdemo.com/)
             * [Events](https://slack.com/intl/en-gb/events)
             * [Developers](https://api.slack.com/)
             * [Partners](https://slack.com/intl/en-gb/partners)
@@ -123,11 +123,11 @@
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](https://a.slack-edge.com/b37cac3/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
+        * * [![](https://a.slack-edge.com/ba8a177/marketing/img/nav/nav-ad-success-hub@2x.png)
                 
-                Discover the future of AI at Dreamforce 2023!
+                Tips and tricks on getting started with Slack
                 
-                Watch on demand](https://www.salesforce.com/plus/experience/dreamforce_2023/series/productivity_with_slack_at_dreamforce_2023)
+                Get started](https://slack.com/intl/en-gb/resources/collections/slack-adoption-success-hub)
         * * [Help Centre](https://slack.com/intl/en-gb/help)
             * [Customer support](https://slack.com/intl/en-gb/help/requests/new)
 * [Pricing](https://slack.com/intl/en-gb/pricing)
@@ -199,11 +199,11 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](https://a.slack-edge.com/3103e63/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
+        * * [![](https://a.slack-edge.com/ed6ce89/marketing/img/nav/slack-tour-promo@2x.png)
                 
-                Businesses of all sizes are working faster and smarter with Slack AI
+                Take a quick interactive tour of Slack.
                 
-                Learn more](https://slack.com/intl/en-gb/blog/news/work-faster-and-smarter-with-slack-ai)
+                Start the tour](https://slackdemo.com/)
         * * [What is Slack?](https://slack.com/intl/en-gb/what-is-slack)
             * [Slack vs email](https://slack.com/intl/en-gb/why/slack-vs-email)
             * [Accessibility](https://slack.com/intl/en-gb/accessibility)
@@ -246,7 +246,7 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
     
     * * * [Resources library](https://slack.com/intl/en-gb/resources)
             * [What’s new](https://slack.com/intl/en-gb/releases)
-            * [Watch demo](http://slack.com/demo)
+            * [Product tour](https://slackdemo.com/)
             * [Events](https://slack.com/intl/en-gb/events)
             * [Developers](https://api.slack.com/)
             * [Partners](https://slack.com/intl/en-gb/partners)
@@ -259,11 +259,11 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](https://a.slack-edge.com/b37cac3/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
+        * * [![](https://a.slack-edge.com/ba8a177/marketing/img/nav/nav-ad-success-hub@2x.png)
                 
-                Discover the future of AI at Dreamforce 2023!
+                Tips and tricks on getting started with Slack
                 
-                Watch on demand](https://www.salesforce.com/plus/experience/dreamforce_2023/series/productivity_with_slack_at_dreamforce_2023)
+                Get started](https://slack.com/intl/en-gb/resources/collections/slack-adoption-success-hub)
         * * [Help Centre](https://slack.com/intl/en-gb/help)
             * [Customer support](https://slack.com/intl/en-gb/help/requests/new)
 * [Pricing](https://slack.com/intl/en-gb/pricing)
