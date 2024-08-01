@@ -162,7 +162,7 @@
     * [Logo maker.](https://www.shopify.com/tools/logo-maker)
     * [Stock photography.](https://www.shopify.com/stock-photos)
     * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
-    * [Link in bio tool.](https://linkpop.com/)
+    * [Link in bio tool.](https://www.linkpop.com/)
     * [QR code generator.](https://www.shopify.com/tools/qr-code-generator)
     
 * What's new
@@ -349,7 +349,7 @@
     * [Logo maker.](https://www.shopify.com/tools/logo-maker)
     * [Stock photography.](https://www.shopify.com/stock-photos)
     * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
-    * [Link in bio tool.](https://linkpop.com/)
+    * [Link in bio tool.](https://www.linkpop.com/)
     * [QR code generator.](https://www.shopify.com/tools/qr-code-generator)
     
 * What's new
@@ -401,6 +401,8 @@ We don’t like to see people try to “game” systems to avoid constraints the
 
 When you build on Shopify with these principles in mind, we will give you notice, grant you opportunities to self-remediate conflicts, default to enforcement at the product level, and take account-level action as a last resort when appropriate. Finally, as with all great products, we expect to iterate on and update these principles from time to time.
 
+If you believe a Shopify user is violating this Acceptable Use Policy, you can [submit a report](https://www.shopify.com/legal/tools/report-an-issue).
+
 Shopify logo
 
 Shopify
@@ -409,7 +411,7 @@ Shopify
 * [About](https://www.shopify.com/about)
 * [Careers](https://www.shopify.com/careers)
 * [Investors](https://investors.shopify.com/home/default.aspx)
-* [Press and Media](https://shopify.com/news)
+* [Press and Media](https://www.shopify.com/news)
 * [Partners](https://www.shopify.com/partners)
 * [Affiliates](https://www.shopify.com/affiliates)
 * [Legal](https://www.shopify.com/legal)
@@ -439,7 +441,7 @@ Products
 * [Shop Pay](https://www.shopify.com/shop-pay)
 * [Shopify Plus](https://www.shopify.com/plus)
 * [Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
-* [Linkpop](https://linkpop.com/)
+* [Linkpop](https://www.linkpop.com/)
 * [Shopify for enterprise](https://www.shopify.com/enterprise)
 
 Global impact
