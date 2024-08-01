@@ -173,7 +173,6 @@ South Korea
 * [](https://www.linkedin.com/company/12699415/)
 * [](https://www.youtube.com/channel/UCZFmcvgMgDn0d8cfqCLf55w)
 
-* [Nondisclosure Agreement](https://www.verkada.com/support/mutual-nondisclosure-agreement/)
-* [End User Agreement](https://www.verkada.com/support/end-user-agreement/)
-* [Terms of Service](https://www.verkada.com/terms-of-service/)
+* [Legal Center](http://legal.verkada.com/)
 * [Privacy Center](https://www.verkada.com/privacy/privacy-policy)
+* [Terms of Service](https://www.verkada.com/terms-of-service/)
