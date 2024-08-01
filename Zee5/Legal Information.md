@@ -262,7 +262,7 @@ b. Rectification of inaccurate or incomplete information: You can ask us to corr
 
   
 
-c. Data Retention and Erasure: We retain your personal information for as long as necessary. This is required for the performance of the contract between you and us and to comply with our legal obligations. If you no longer want us to use your information, then you can request that we erase your personal information and close your Zee5 account. Please note that upon your request for the erasure of your personal information, we may still need to:
+c. Data Retention and Erasure: We retain your personal information for as long as necessary. This is required for the performance of the contract between you and us and to comply with our legal obligations. If you no longer want us to use your information, then you can request that we erase your personal information and close your Zee5 account. You/Users can request for account deletion by writing an email to dpo@zee.com. Please note that upon your request for the erasure of your personal information, we may still need to:
 
 i. retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a an account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
 
@@ -515,7 +515,7 @@ ZEEL is a company based in India. By browsing/using ZEE5, You hereby acknowledge
 
   
 
-Updated: Jun 27, 2023;
+Updated: Jul 29, 2024;
 
   
 
