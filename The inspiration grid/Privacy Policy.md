@@ -291,53 +291,53 @@ Latest
 inspiration
 -----------
 
-![](https://inspgr.id/app/uploads/2024/07/illiustration-kensuke-okazoe-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/08/packaging-instinto-feature.jpg)
 
-[](https://theinspirationgrid.com/japanese-tales-illustrations-by-kensuke-okazoe/)
+[](https://theinspirationgrid.com/instinto-coffee-branding-packaging-by-panico/)
 
-### Japanese Tales: Illustrations by Kensuke Okazoe
+### Instinto Coffee Branding & Packaging by Pánico
 
-![](https://inspgr.id/app/uploads/2024/07/photography-lagerstedt-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/08/logos-joseph-cortes-feature.jpg)
 
-[](https://theinspirationgrid.com/alone-atmospheric-photo-series-by-mikko-lagerstedt/)
+[](https://theinspirationgrid.com/sleek-logo-designs-by-joseph-cacais-cortes/)
 
-### Alone: Atmospheric Photo Series by Mikko Lagerstedt
+### Sleek Logo Designs by Joseph Cacais Cortes
 
-![](https://inspgr.id/app/uploads/2024/07/design-lfd-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/art-milica-martic-feature.jpg)
 
-[](https://theinspirationgrid.com/pair-node-a-modular-ai-device-by-lfd/)
+[](https://theinspirationgrid.com/metamorphosis-striking-artworks-by-milica-martic/)
 
-### PAIR Node: A Modular AI Device by LFD
+### Metamorphosis: Striking Artworks by Milica Martic
 
-![](https://inspgr.id/app/uploads/2024/07/motion-brutal-beasts-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/photography-maria-l-m-moreno-feature.jpg)
 
-[](https://theinspirationgrid.com/the-last-of-its-kind-a-lancia-rally-037-tribute-by-ink/)
+[](https://theinspirationgrid.com/micro-wonders-photos-by-maria-luisa-milla-moreno/)
 
-### The Last of Its Kind: A Lancia Rally 037 Tribute by INK
+### Micro Wonders: Photos by Maria Luisa Milla Moreno
 
-![](https://inspgr.id/app/uploads/2024/07/3d-alexandra-zutto-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/illustration-roger-olmos-feature.jpg)
 
-[](https://theinspirationgrid.com/quirky-colorful-digital-art-creations-by-alexandra-zutto/)
+[](https://theinspirationgrid.com/whimsical-weird-illustrations-by-roger-olmos/)
 
-### Quirky & Colorful Digital Art Creations by Alexandra Zutto
+### Whimsical & Weird: Illustrations by Roger Olmos
 
-![](https://inspgr.id/app/uploads/2024/07/illustration-dale-lendl-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/art-toys-grapheart-feature.jpg)
 
-[](https://theinspirationgrid.com/neon-pop-bold-illustrations-by-dale-lendl/)
+[](https://theinspirationgrid.com/street-bots-art-toys-by-grapheart/)
 
-### Neon Pop: Bold Illustrations by Dale Lendl
+### Street Bots: Art Toys by Grapheart
 
-![](https://inspgr.id/app/uploads/2024/07/art-divin-creador-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/art-sepand-danesh-feature.jpg)
 
-[](https://theinspirationgrid.com/mind-bending-optical-art-by-divin-creador/)
+[](https://theinspirationgrid.com/block-by-block-paintings-by-sepand-danesh/)
 
-### Mind-Bending Optical Art by Divin Creador
+### Block by Block: Paintings by Sepand Danesh
 
-![](https://inspgr.id/app/uploads/2024/07/illustration-nabil-nezzar-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/3d-leonardoworx-24-feature.jpg)
 
-[](https://theinspirationgrid.com/multifaceted-illustrations-by-nabil-nezzar/)
+[](https://theinspirationgrid.com/one-of-a-kind-experimental-digital-art-by-leonardoworx/)
 
-### Multifaceted Illustrations by Nabil Nezzar
+### One of a Kind: Experimental Digital Art by Leonardoworx
 
 Awesome products for creatives
 ------------------------------
