@@ -41,47 +41,203 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
+*  [![Simone Biles smiling](https://www.women.com/img/gallery/simone-biles-inspiring-hair-acceptance-journey/intro-1722539571.jpg)](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    [Simone Biles' Inspiring Hair Acceptance Journey](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
+    ================================================================================================================================
+    
+    Olympic champion Simone Biles has faced a lot of online hate over her appearance. But through the years, she's come to take pride in her natural hair.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1634860/simone-biles-inspiring-hair-acceptance-journey/)
+    
+* *  [![Person with blonde hair](https://www.women.com/img/gallery/breezy-dream-girl-blonde-is-the-most-laid-back-hair-color-of-summer-2024/intro-1721948492.jpg)](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [Breezy Dream Girl Blonde Is The Most Laid Back Hair Color Of Summer 2024](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+        
+        If you're looking for a lighter, transitional blonde to carry you from summer to fall, dream girl blonde is your answer.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+        
+    *  [![BB cream nails](https://www.women.com/img/gallery/the-bb-cream-nails-trend-is-here-for-your-healthiest-looking-manicure-yet/intro-1721674049.jpg)](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [The BB Cream Nails Trend Is Here For Your Healthiest Looking Manicure Yet](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+        
+        For a natural, understated manicure that will also do your nails a world of good, check out the new BB cream nails trend.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+        
+
+More Stories
+------------
+
+*  [![Person with blonde hair](https://www.women.com/img/gallery/breezy-dream-girl-blonde-is-the-most-laid-back-hair-color-of-summer-2024/intro-1721948492.jpg)](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Breezy Dream Girl Blonde Is The Most Laid Back Hair Color Of Summer 2024](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+    
+    If you're looking for a lighter, transitional blonde to carry you from summer to fall, dream girl blonde is your answer.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1630996/dream-girl-blonde-hair-color-trend-summer-2024/)
+    
+*  [![BB cream nails](https://www.women.com/img/gallery/the-bb-cream-nails-trend-is-here-for-your-healthiest-looking-manicure-yet/intro-1721674049.jpg)](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The BB Cream Nails Trend Is Here For Your Healthiest Looking Manicure Yet](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    
+    For a natural, understated manicure that will also do your nails a world of good, check out the new BB cream nails trend.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1627571/bb-cream-nails-trend-healthy-manicure/)
+    
+*  [![Woman walking outside ](https://www.women.com/img/gallery/how-august-2024s-mercury-retrograde-will-affect-you-astrologically/intro-1722011880.jpg)](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [How August 2024's Mercury Retrograde Will Affect You Astrologically](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
+    
+    By the end of 2024, we'll have made it through four phases of Mercury in retrograde. To stay prepared, it's worth understanding what's happening.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1630817/how-august-2024-mercury-retrograde-will-affect-astrologically/)
+    
+*  [![Bella Hadid at an event ](https://www.women.com/img/gallery/bella-hadid-leans-into-the-seasons-hottest-trends-with-the-perfect-summer-2024-dress/intro-1721933196.jpg)](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Bella Hadid's Cannes Dress Leans Into The Hottest Trends Of Summer 2024](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+    
+    Bella Hadid's gold Cannes dress combined the best of summer 2024 trends -- gorgeous, glimmering gold and pretty patterns.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1630150/bella-hadid-season-hottest-trends-summer-2024-dress/)
+    
+*  [![A woman wearing a butterfly bob ](https://www.women.com/img/gallery/how-to-make-the-trendy-butterfly-cut-work-for-short-hair/intro-1721254438.jpg)](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    
+    ### [How To Make The Trendy Butterfly Cut Work For Short Hair](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+    
+    Think the butterfly cut is just for long hair? Think again. This vintage hairstyle can easily be adapted to give bouncy volume to short hair.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1626018/how-to-make-butterfly-cut-work-short-hair/)
+    
+*  [![Lesbian couple in bed](https://www.women.com/img/gallery/the-dos-and-donts-of-make-up-sex/intro-1721930886.jpg)](https://www.women.com/1630159/dos-donts-make-up-sex/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [The Dos And Don'ts Of Make-Up Sex](https://www.women.com/1630159/dos-donts-make-up-sex/)
+    
+    Media portrayals of make up sex tend to dismiss the complexities of it. If it's on your radar, you should know how to navigate it in a healthy way.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1630159/dos-donts-make-up-sex/)
+    
+*  [![Ilona Maher posing](https://www.women.com/img/gallery/ilona-maher-is-one-of-usas-most-stylish-olympic-athletes-in-2024/intro-1722287351.jpg)](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Ilona Maher Is One Of Team USA's Most Stylish Olympic Athletes In 2024](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+    
+    Olympic rugby player Ilona Maher may be famous for her athleticism, but the star also deserves a medal for her incredible fashionable sense.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1632353/ilona-maher-usa-olympic-athlete-style-2024/)
+    
+*  [![Suni Lee in the makeup chair](https://www.women.com/img/gallery/all-the-beauty-products-olympic-athlete-suni-lee-depends-on/intro-1721944956.jpg)](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [All The Beauty Products Olympic Athlete Suni Lee Depends On](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+    
+    Along with being an Olympic athlete, gymnast Suni Lee has a reputation for knowing how to slay a beauty look. We've rounded up all the products she uses.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1630400/all-beauty-products-olympic-athlete-suni-lee-depends-on/)
+    
+*  [![Sabrina Carpenter Vogue World](https://www.women.com/img/gallery/the-classic-color-sabrina-carpenter-is-nailing-with-her-summer-2024-manicures/intro-1721667963.jpg)](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [The Classic Color Sabrina Carpenter Is Nailing With Her Summer 2024 Manicures](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+    
+    Thanks to Sabrina Carpenter and Zendaya, we're approaching the end of July with only one nail polish color on the mind: baby pink.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1627447/classic-color-sabrina-carpenter-nailing-summer-2024-manicures/)
+    
+*  [![Stack of jeans](https://www.women.com/img/gallery/creased-jeans-are-actually-on-trend-for-2024/intro-1721779789.jpg)](https://www.women.com/1628734/creased-jeans-trend-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Creased Jeans Are Actually On Trend For 2024](https://www.women.com/1628734/creased-jeans-trend-2024/)
+    
+    Jeans were initially meant to be a casual take on trousers and slacks. But as personal style and fashion evolved, so did denim's versatility.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1628734/creased-jeans-trend-2024/)
+    
+*  [![Farrah Fawcett feathered cut](https://www.women.com/img/gallery/the-feather-cut-is-the-breeziest-hair-trend-for-summer-2024/intro-1721789062.jpg)](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [The Feather Cut Is The Breeziest Hair Trend For Summer 2024](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
+    The feather cut is back, not that it ever left, so you may want to give it a try this summer. Rest assured, no matter your hair type, it'll suit you.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
+    
 *  [![Hailey Bieber on the street](https://www.women.com/img/gallery/hailey-biebers-stunning-style-transformation/intro-1720817907.jpg)](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [Hailey Bieber's Stunning Style Transformation](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
-    =============================================================================================================================
+    ### [Hailey Bieber's Stunning Style Transformation](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
     
     Hailey Bieber has captivated the fashion world for years with her trendy, yet comfortable looks. We're looking back at how her style has evolved over the years.
     
     By Emily Hutchinson [Read More](https://www.women.com/1622578/hailey-bieber-stunning-style-transformation-2/)
     
-* *  [![Woman reading a book ](https://www.women.com/img/gallery/heres-the-right-order-to-read-abby-jimenezs-iconic-rom-com-books-in/intro-1721835462.jpg)](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
-        
-        ### [Here's The Right Order To Read Abby Jimenez's Iconic Rom-Com Books In](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-        
-        Abby Jimenez made writing a career after not being able to find stories that spoke to her. Now she's published six books, with no intention of stopping.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
-        
-    *  [![Taylor Swift on stagr](https://www.women.com/img/gallery/taylor-swifts-boldest-hair-looks-of-all-time/intro-1721677826.jpg)](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Taylor Swift's Boldest Hair Looks Of All Time](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
-        
-        She may be a natural blonde, but Taylor Swift has never been afraid to experiment with her hair. Here are some of her most unforgettable hair looks.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
-        
-
-More Stories
-------------
-
+*  [![Pamela Anderson](https://www.women.com/img/gallery/how-to-use-self-tanner-for-a-natural-fake-freckle-look/intro-1721781018.jpg)](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [How To Use Self-Tanner For A Natural Fake Freckle Look](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
+    They were once something that was considered a flaw that people would try to lighten or cover with makeup, but now freckles are having their moment.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
+    
 *  [![Woman reading a book ](https://www.women.com/img/gallery/heres-the-right-order-to-read-abby-jimenezs-iconic-rom-com-books-in/intro-1721835462.jpg)](https://www.women.com/1629069/right-order-read-abby-jimenez-books-in/)
     
     [Living](https://www.women.com/category/living/)
@@ -105,30 +261,6 @@ More Stories
     She may be a natural blonde, but Taylor Swift has never been afraid to experiment with her hair. Here are some of her most unforgettable hair looks.
     
     By Emily Hutchinson [Read More](https://www.women.com/1627659/taylor-swift-boldest-hair-looks/)
-    
-*  [![Farrah Fawcett feathered cut](https://www.women.com/img/gallery/the-feather-cut-is-the-breeziest-hair-trend-for-summer-2024/intro-1721789062.jpg)](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [The Feather Cut Is The Breeziest Hair Trend For Summer 2024](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-    The feather cut is back, not that it ever left, so you may want to give it a try this summer. Rest assured, no matter your hair type, it'll suit you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1628788/feather-cut-breezy-hair-trend-summer-2024/)
-    
-*  [![Pamela Anderson](https://www.women.com/img/gallery/how-to-use-self-tanner-for-a-natural-fake-freckle-look/intro-1721781018.jpg)](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [How To Use Self-Tanner For A Natural Fake Freckle Look](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
-    
-    They were once something that was considered a flaw that people would try to lighten or cover with makeup, but now freckles are having their moment.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1628740/how-use-self-tanner-fake-freckle-look/)
     
 *  [![Black athletic ballet flats](https://www.women.com/img/gallery/athletic-ballet-flats-are-trending-for-2024-our-favorite-ways-to-wear-them/intro-1721712202.jpg)](https://www.women.com/1627935/athletic-ballet-flats-trend-2024-favorite-ways-to-wear/)
     
@@ -297,138 +429,6 @@ More Stories
     When J.Lo isn't rocking denim trends, she's killing it in some of the sexiest red carpet dresses you've ever seen. And we've ranked them.
     
     By Emily Hutchinson [Read More](https://www.women.com/1624563/jennifer-lopez-sexiest-red-carpet-looks-ranked/)
-    
-*  [![Woman on YouTube with peach lip gloss ](https://www.women.com/img/gallery/glazed-peach-lips-are-the-beauty-trend-making-your-summer-makeup-sweeter/intro-1721255024.jpg)](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [Glazed Peach Lips Are The Beauty Trend Making Your Summer Makeup Sweeter](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
-    
-    Your favorite gloss look is getting a fruity upgrade for the summer with peach glaze lips. We've got all the tips for achieving the perfect pout.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1625008/glazed-peach-lips-beauty-trend-summer-makeup-sweet/)
-    
-*  [![Selena Gomez smiling](https://www.women.com/img/gallery/5-times-selena-gomez-took-body-shamers-to-task/intro-1721231448.jpg)](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-    
-    ### [5 Times Selena Gomez Took Body-Shamers To Task](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
-    
-    Heartbreakingly, Selena Gomez admitted that after being body shamed, she heard a voice in her head that told her she wasn't good enough.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1624462/times-selena-gomez-took-body-shamers-to-task/)
-    
-*  [![Hailey Bieber on Instagram ](https://www.women.com/img/gallery/hailey-biebers-bouffant-bob-is-the-high-volume-short-hair-look-of-the-summer/intro-1721072182.jpg)](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
-    
-    ### [Hailey Bieber's Bouffant Bob Is The High-Volume Short Hair Look Of The Summer](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
-    
-    If you need proof vintage hair is back, look no further than Hailey Bieber. Her bouffant bob has us ready to break out the hot rollers and a teasing comb.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1622888/hailey-bieber-bouffant-bob-volume-short-hair-summer/)
-    
-*  [![Jennifer Aniston with a bob](https://www.women.com/img/gallery/jennifer-anistons-full-hair-transformation/intro-1719941413.jpg)](https://www.women.com/1614589/jennifer-aniston-full-hair-transformation/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Jennifer Aniston's Full Hair Transformation](https://www.women.com/1614589/jennifer-aniston-full-hair-transformation/)
-    
-    From her iconic 'Rachel' cut on "Friends," to long blonde locks on the red carpet, Jennifer Aniston has sported a surprising range of haircuts over the years.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1614589/jennifer-aniston-full-hair-transformation/)
-    
-*  [![Taylor Swift posing](https://www.women.com/img/gallery/taylor-swifts-best-street-style-outfits-of-2024/intro-1721079868.jpg)](https://www.women.com/1623081/taylor-swift-best-street-style-outfits-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Taylor Swift's Best Street Style Outfits Of 2024](https://www.women.com/1623081/taylor-swift-best-street-style-outfits-2024/)
-    
-    Taylor Swift has long been the queen of great off-duty outfits, but 2024 might be her best year on record. We're looking at her most memorable looks so far.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1623081/taylor-swift-best-street-style-outfits-2024/)
-    
-*  [![Woman on Instagram charming her bag ](https://www.women.com/img/gallery/bag-charms-are-the-unexpected-accessory-trend-of-the-moment/intro-1721192818.jpg)](https://www.women.com/1624190/bag-charms-unexpected-accessory-trend-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Bag Charms Are The Unexpected Accessory Trend Of The Moment](https://www.women.com/1624190/bag-charms-unexpected-accessory-trend-2024/)
-    
-    Bag charms are putting personality into our purses and bringing back the Y2k era in the process. Here are our favorite ways to style the cutesy accessory.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1624190/bag-charms-unexpected-accessory-trend-2024/)
-    
-*  [![A woman on YouTube in a milkmaid dress ](https://www.women.com/img/gallery/the-milkmaid-dress-is-summer-2024s-go-to-outfit/intro-1720813399.jpg)](https://www.women.com/1621594/milkmaid-dress-summer-2024-go-to-outfit/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [The Milkmaid Dress Is Summer 2024's Go-To Outfit](https://www.women.com/1621594/milkmaid-dress-summer-2024-go-to-outfit/)
-    
-    Featuring puffed sleeves and a light, breezy skirt, the milkmaid dress is the ultimate nexus of comfort and femininity. Here's how to style it in a modern way.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1621594/milkmaid-dress-summer-2024-go-to-outfit/)
-    
-*  [![leo manicure](https://www.women.com/img/gallery/7-bold-nail-looks-to-usher-in-leo-season/intro-1721229981.jpg)](https://www.women.com/1624538/bold-nail-looks-usher-in-leo-zodiac-sign-season/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [7 Bold Nail Looks To Usher In Leo Season](https://www.women.com/1624538/bold-nail-looks-usher-in-leo-zodiac-sign-season/)
-    
-    Leos are bold, expressive, and the life of the party everywhere they go. Tap into the fire sign's vibrant energy with striking manicures for the summer season.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1624538/bold-nail-looks-usher-in-leo-zodiac-sign-season/)
-    
-*  [![Woman sitting in garden](https://www.women.com/img/gallery/how-to-nail-the-trendy-garden-girl-aesthetic-bring-airy-vibes-to-summer-2024/intro-1721153114.jpg)](https://www.women.com/1623724/garden-girl-aesthetic-summer-2024-trend-explained/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [How To Nail The Trendy Garden Girl Aesthetic & Bring Airy Vibes To Summer 2024](https://www.women.com/1623724/garden-girl-aesthetic-summer-2024-trend-explained/)
-    
-    There are a few musts when it comes to pulling off the specific garden girl aesthetic. And, surprisingly, none of them are a garden.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1623724/garden-girl-aesthetic-summer-2024-trend-explained/)
-    
-*  [![Simone Biles](https://www.women.com/img/gallery/the-most-impactful-book-simone-biles-has-ever-read/intro-1721147548.jpg)](https://www.women.com/1623615/most-impactful-book-simone-biles-read/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [The Most Impactful Book Simone Biles Has Ever Read](https://www.women.com/1623615/most-impactful-book-simone-biles-read/)
-    
-    This is a book that's not only loved by Simone Biles, but hundreds of thousands of others, and one you might want to add to your list, too.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1623615/most-impactful-book-simone-biles-read/)
-    
-*  [![Woman looking at her hands](https://www.women.com/img/gallery/our-best-tips-for-treating-skin-peeling-around-your-nails/intro-1721068197.jpg)](https://www.women.com/1623013/best-tips-treating-skin-peeling-around-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Our Best Tips For Treating Skin Peeling Around Your Nails](https://www.women.com/1623013/best-tips-treating-skin-peeling-around-nails/)
-    
-    Peeling fingertips are a nuisance at best, and a painful problem at worst. Here are some helpful solutions to manage them at home.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1623013/best-tips-treating-skin-peeling-around-nails/)
     
 
 Back
