@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/fHsJds8MRklNDj7/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -131,7 +131,7 @@ Terms of Service
 
 This document was last updated on March 21, 2022
 
-![logo](https://assets.yumpu.com/release/fHsJds8MRklNDj7/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/IxXH84WC6EGe4tQ/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
