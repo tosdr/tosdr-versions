@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw3f7ebea2/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -363,7 +363,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw3f7ebea2/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw6092bdac/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
@@ -378,7 +378,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Buy now, pay later. Rates as low as 0% APR financing with Affirm. [Apply Now.](https://www.affirm.com/shop/weber)
+Shipping Notice: Orders placed from 8/6 – 8/11 will ship starting on 8/12. [Learn More](https://www.weber.com/US/en/shippingandreturns.html)
 
 Shopping Cart
 -------------
@@ -498,10 +498,10 @@ Company
 * [Recall Notice](https://www.weber.com/US/en/recallnotice.html "Recall Notice")
 * [Accessibility Statement](https://www.weber.com/US/en/accessibilitystatement.html "Accessibility Statement")
 
-Customer Support
+Consumer Support
 ----------------
 
-Customer Support
+Consumer Support
 ----------------
 
 * [Support](https://www.weber.com/US/en/contactus.html "Support")
@@ -515,6 +515,7 @@ Customer Support
 * [Warranties](https://www.weber.com/US/en/warranties.html "Warranties")
 * [Special Warranty Notice](https://dw-images.weber.com/images/customer-service/8651217_ADDNDM_WRRNTY_FCC_REV%20_23_wNtc062323.pdf "Special Warranty Notice")
 * [Track Order](https://www.weber.com/US/en/login/)
+* [Satisfaction Guarantee for Grilling Accessories](https://www.weber.com/US/en/satisfactionguarantee.html)
 
 Replacement Parts
 -----------------
@@ -548,5 +549,7 @@ Explore
 * [Legal Notice](https://www.weber.com/US/en/legalnotice.html "Legal Notice")
 
 © 2024 Weber. All Rights Reserved.
+
+Top
 
 Country Redirect
