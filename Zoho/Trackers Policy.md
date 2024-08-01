@@ -1,7 +1,7 @@
 Zoho - Cookie Policy
 ====================
 
-Manage Cookie Preference
+[Manage Cookie Preference](javascript:void(0))
 
 Last Updated on : 20 June 2024
 
