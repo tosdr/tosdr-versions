@@ -19,7 +19,7 @@
 * Specials
     
     * [Big Board Buys](https://townandcountrymarkets.com/weekly-ad)
-    * [Market Buys](https://townandcountrymarkets.com/shop#!/?custom_filter_id=22516414)
+    * [Market Buys](https://townandcountrymarkets.com/market-buys)
     * [Shop All Deals](https://townandcountrymarkets.com/shop#!/?filter=is_on_sale)
     
 * Markets
