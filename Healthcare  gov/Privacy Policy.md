@@ -214,7 +214,9 @@ We collect information including your email address or mobile phone number to de
 To establish an account on HealthCare.gov, we collect information like your first and last name, your email address, and your responses to 3 questions used for password recovery. We use this information to establish and maintain your account to login and use HealthCare.gov. We use multi-factor authentication (MFA) to add security to your HealthCare.gov account and ensure you as the authorized user are the only person who can access it. If you agree to use MFA, we collect your phone number or your email address. We use this information to send a code by text message, email, or phone call. Visit [granicus.com/wireless/healthcareThis link goes to an external site](https://granicus.com/wireless/healthcare/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
@@ -317,7 +319,9 @@ The Privacy Settings provide you with the choice to opt-in or to opt-out of the 
 Modify Privacy Options
 
 HealthCare.gov privacy settings
--------------------------------
+===============================
+
+Close
 
 We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
 
@@ -338,7 +342,9 @@ If you opt out of the tools used by the Marketplace via the Privacy Settings or 
 **AdChoices:** The Marketplace includes the Ad Choices icon on all digital advertising that uses “conversion-tracking” or “re-targeting”. Go to [How the Marketplace uses third-party websites and applications](#thirdparty) to learn about conversion tracking, targeted advertising, and retargeting. The AdChoices icon is usually at or near the corner of digital ads. When you click on the AdChoices icon it will provide information on what company served the ad and information on how to opt-out. [Visit YourAdChoices.com to learn more about the icon and your choicesThis link goes to an external site](http://www.youradchoices.com/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
@@ -351,7 +357,9 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 **Do Not Track:** The Marketplace automatically observes the "Do Not Track" browser setting for digital advertising that uses "conversion-tracking" or "re-targeting". If "Do Not Track" is set before a device visits HealthCare.gov, third-party conversion tracking and retargeting tools won't load on the site. Go to [How the Marketplace uses third-party websites and applications](#thirdparty) to learn about conversion tracking and retargeting. For more information on Do Not Track or information on how to set the Do Not Track setting in your browser, [go to the Do Not Track websiteThis link goes to an external site](http://donottrack.us/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
@@ -389,7 +397,9 @@ The Marketplace offers online appeals filing through HealthCare.gov for those wh
 These tools collect basic site usage information such as: how many visits HealthCare.gov receives, the pages visited by consumers, time spent on the site, the number of return visits to the site, the approximate location of the device used to access the site, types of devices used, etc. This information is then used to maintain the website including: monitoring site stability, measuring site traffic, optimizing site content, and improving the consumer experience. Use the Marketplace Privacy Settings
 
 HealthCare.gov privacy settings
--------------------------------
+===============================
+
+Close
 
 We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
 
@@ -412,7 +422,9 @@ The Marketplace uses third-party tools to support our digital advertising outrea
 **Conversion tracking:** HealthCare.gov uses conversion tracking to identify ads that are helpful to consumers and efficient for outreach. It enables HealthCare.gov to improve the performance of ads viewed by consumers. When a HealthCare.gov ad is viewed on a third-party site (e.g. a banner ad), a cookie is placed in the browser of the device the ad was viewed on. If this device later visits HealthCare.gov, the visit is linked to the ad viewed on the same device. Use the Marketplace Privacy Settings to opt-out of advertising tools
 
 HealthCare.gov privacy settings
--------------------------------
+===============================
+
+Close
 
 We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
 
@@ -429,7 +441,9 @@ Update my settings
 **Re-targeting:** HealthCare.gov uses retargeting to provide information to consumers who have previously visited HealthCare.gov like reminders about upcoming enrollment deadlines. Retargeting enables the Marketplace to improve the performance of ads by delivering them to relevant audiences like recent visitors to HealthCare.gov. During a visit to HealthCare.gov, a cookie is placed in the browser of the devices used to view the site. When that same device is used to visit third-party sites that are displaying HealthCare.gov ads, ads for HealthCare.gov may be shown to that device because it had previously visited HealthCare.gov. Using these cookies, the Marketplace doesn't collect information about the third-party sites visited by a device. Reports are generated about ad performance – including the total number of views and clicks an ad received. Use the Marketplace Privacy Settings
 
 HealthCare.gov privacy settings
--------------------------------
+===============================
+
+Close
 
 We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
 
@@ -483,32 +497,38 @@ HealthCare.gov may link to other government sites and/or to private organization
 
 The Marketplace uses social media sites to increase government transparency, enhance information sharing, promote public participation, and encourage collaboration with the agency. Social media sites we use include:
 
-[FacebookThis link goes to an external site](https://www.facebook.com/policies)
+[FacebookThis link goes to an external site](https://www.facebook.com/policies/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.facebook.com/policies)Cancel
+[Continue](https://www.facebook.com/policies/)Cancel
 
-[X, formerly TwitterThis link goes to an external site](https://privacy.x.com/en)
+[X, formerly TwitterThis link goes to an external site](https://twitter.com/privacy/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://privacy.x.com/en)Cancel
+[Continue](https://twitter.com/privacy/)Cancel
 
 [YouTubeThis link goes to an external site](https://www.youtube.com/howyoutubeworks/our-commitments/protecting-user-data/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
@@ -516,27 +536,31 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 
 [Continue](https://www.youtube.com/howyoutubeworks/our-commitments/protecting-user-data/)Cancel
 
-[LinkedInThis link goes to an external site](https://www.linkedin.com/legal/privacy-policy)
+[LinkedInThis link goes to an external site](https://www.linkedin.com/legal/privacy-policy/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.linkedin.com/legal/privacy-policy)Cancel
+[Continue](https://www.linkedin.com/legal/privacy-policy/)Cancel
 
-[InstagramThis link goes to an external site](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect)
+[InstagramThis link goes to an external site](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect)Cancel
+[Continue](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect/)Cancel
 
 Notice:
 
@@ -592,38 +616,44 @@ Connect with us
 * [Find Local Help](https://localhelp.healthcare.gov/)
 * [Visit the HealthCare.gov blog](https://www.healthcare.gov/blog/)
 
-[This link goes to an external site](https://www.facebook.com/Healthcare.gov)
+[This link goes to an external site](https://www.facebook.com/Healthcare.gov/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.facebook.com/Healthcare.gov)Cancel
+[Continue](https://www.facebook.com/Healthcare.gov/)Cancel
 
-[This link goes to an external site](https://twitter.com/HealthCareGov)
+[This link goes to an external site](https://twitter.com/HealthCareGov/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://twitter.com/HealthCareGov)Cancel
+[Continue](https://twitter.com/HealthCareGov/)Cancel
 
-[This link goes to an external site](https://www.youtube.com/HealthCareGov)
+[This link goes to an external site](https://www.youtube.com/HealthCareGov/)
 
 You are leaving HealthCare.gov.
--------------------------------
+===============================
+
+Close
 
 You're about to connect to a third-party site. Select CONTINUE to proceed or CANCEL to stay on this site.
 
 [Learn more about links to third-party sites](https://www.healthcare.gov/using-this-site).
 
-[Continue](https://www.youtube.com/HealthCareGov)Cancel
+[Continue](https://www.youtube.com/HealthCareGov/)Cancel
 
 * [Contact us](https://www.healthcare.gov/contact-us)
 * [Archive](https://www.healthcare.gov/archive)
@@ -631,7 +661,9 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 * Privacy settings
     
     HealthCare.gov privacy settings
-    -------------------------------
+    ===============================
+    
+    Close
     
     We take your privacy seriously. You can change the settings for each category to choose how we collect and use information while you’re on HealthCare.gov. For details, [review our full privacy policy](https://www.healthcare.gov/privacy/) or [get the list of specific tools in each category](https://www.healthcare.gov/third-party-privacy-policies/).
     
