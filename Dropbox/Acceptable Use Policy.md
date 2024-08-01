@@ -42,10 +42,10 @@
     
     * ### Use cases
         
-    * [Cloud storage](https://www.dropbox.com/features/cloud-storage)
+    * [Storage](https://www.dropbox.com/features/cloud-storage)
     * [Video review](https://www.dropbox.com/replay)
     * [Signing documents](https://www.dropbox.com/features/productivity/electronic-signature)
-    * [Sharing files](https://www.dropbox.com/features/share)
+    * [Sending files](https://www.dropbox.com/features/share)
     
     * ### Industries
         
@@ -112,10 +112,10 @@
     
     * ### Use cases
         
-    * [Cloud storage](https://www.dropbox.com/features/cloud-storage)
+    * [Storage](https://www.dropbox.com/features/cloud-storage)
     * [Video review](https://www.dropbox.com/replay)
     * [Signing documents](https://www.dropbox.com/features/productivity/electronic-signature)
-    * [Sharing files](https://www.dropbox.com/features/share)
+    * [Sending files](https://www.dropbox.com/features/share)
     
     * ### Industries
         
@@ -249,6 +249,7 @@ We reserve the right to take appropriate action in response to violations of thi
 ### Company
 
 * [About us](https://www.dropbox.com/about)
+* [Modern Slavery Statement](https://assets.dropbox.com/warp/en-us/modern-slavery/Dropbox_Modern_Slavery_Statement.pdf)
 * [Jobs](https://jobs.dropbox.com/)
 * [Investor relations](https://investors.dropbox.com/)
 * [ESG](https://www.dropbox.com/esg)
