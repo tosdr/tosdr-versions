@@ -243,10 +243,11 @@ San Antonio, Texas 78229
 
 [210-358-4000](tel:210-358-4000)
 
-* [![Facebook](/-/media/Images/Controls/Social-Links/Facebook.ashx?h=44&w=23&la=en&hash=838440837DB5ED95BB0BA214FFD46D42)](https://www.facebook.com/UniversityHealthsa "Find us on Facebook")
-* [![Twitter](/-/media/Images/Controls/Social-Links/Twitter.ashx?h=36&w=44&la=en&hash=41955B3FD59169E89DCADCB9BA7CF03D)](https://twitter.com/univhealthsa "Find us on Twitter")
-* [![YouTube](/-/media/Images/Controls/Social-Links/YouTube.ashx?h=30&w=42&la=en&hash=859408283123B7B7540457A658762D21)](https://www.youtube.com/user/UniversityHealthSys "Find us on Youtube!")
-* [![Instagram](/-/media/Images/Controls/Social-Links/Instagram.ashx?h=38&w=38&la=en&hash=8FE71DC0147875E4961F1250E497C60A)](https://www.instagram.com/universityhealthsa)
+* [![Facebook](/-/media/Images/Controls/Social-Links/Facebook.ashx?h=36&w=36&la=en&hash=B70FDA2192C9D8935851AC8180D7CDFE)](https://www.facebook.com/UniversityHealthsa "Find us on Facebook")
+* [![Twitter](/-/media/Images/Controls/Social-Links/Twitter.ashx?h=36&w=36&la=en&hash=89297B2C9E84CAFA5021248B0B180800)](https://twitter.com/univhealthsa "Find us on X")
+* [![YouTube](/-/media/Images/Controls/Social-Links/YouTube.ashx?h=30&w=42&la=en&hash=859408283123B7B7540457A658762D21)](https://www.youtube.com/user/UniversityHealthSys "Find us on YouTube")
+* [![Instagram](/-/media/Images/Controls/Social-Links/Instagram.ashx?h=38&w=38&la=en&hash=8FE71DC0147875E4961F1250E497C60A)](https://www.instagram.com/universityhealthsa "Find us on Instagram")
+* [![LinkedIn Social Media icon](/-/media/Images/Controls/Social-Links/LinkedIn.ashx?h=36&w=36&la=en&hash=66E901D70BD99B5B1328B271D2D57513)](https://www.linkedin.com/company/universityhealthsa "Find us on LinkedIn")
 
 [About Us](https://www.universityhealth.com/about-us)
 
