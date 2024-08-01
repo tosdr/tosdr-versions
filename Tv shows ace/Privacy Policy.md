@@ -1,6 +1,8 @@
 [Skip to content](#main)
 
-[![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
+[![TV Shows Ace](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20553%20553'%3E%3C/svg%3E)
+
+![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
 
 TVSHOWSACE
 
@@ -16,7 +18,9 @@ Your Latest in TV Show News
 
 Search
 
-[![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
+[![TV Shows Ace](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20553%20553'%3E%3C/svg%3E)
+
+![TV Shows Ace](https://tvshowsace.com/wp-content/uploads/2021/06/tvsa-logo-web.png)](https://tvshowsace.com/)
 
 Toggle Menu
 
