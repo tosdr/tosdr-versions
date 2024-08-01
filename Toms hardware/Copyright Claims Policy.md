@@ -99,13 +99,13 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
-* [Copilot + Laptops](https://hothardware.com/news/snapdragon-x-elite-laptops-hp-dell-lenovo-available-now)
+* [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
+* [AMD Strix Point](https://hothardware.com/news/amd-ryzen-ai-300-series-announce-computex)
+* [Samsung Galaxy Book4 Edge](https://hothardware.com/reviews/samsung-galaxy-book4-edge-review)
 * [Lunar Lake](https://hothardware.com/reviews/intel-lunar-lake-deep-dive)
 * [Intel Sierra Forest](https://hothardware.com/reviews/intel-xeon-6-preview)
 * [Ryzen 9000](https://hothardware.com/news/amd-ryzen-9000-desktop-am5-announce)
 * [Snapdragon X Series](https://hothardware.com/news/snapdragon-x-elite-and-plus-ai-pcs-from-major-oems-to-drive-microsoft-copilot-experiences)
-* [AMD Strix Point](https://hothardware.com/news/amd-ryzen-ai-300-series-announce-computex)
-* [ASUS Zephyrus G14](https://hothardware.com/reviews/asus-rog-zephyrus-g14-2024-review)
 
 Privacy, Terms, Conditions And Copyright
 ========================================
@@ -272,7 +272,7 @@ Follow Us:
 
 TOP CONVERSATIONS
 
-You Next Copilot PC Platform Of Choice
+You Next Copilot PC Platform
 
  Snapdragon X
 
