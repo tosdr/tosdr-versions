@@ -10,7 +10,7 @@
 
 [Independent](https://www.independent.co.uk/)
 
-[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
 
 [Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=top_right_subscribe)Menu
 
@@ -38,7 +38,6 @@
     * [UFC](https://www.independent.co.uk/sport/ufc)
     * [Cycling](https://www.independent.co.uk/sport/cycling)
     * [Golf](https://www.independent.co.uk/sport/golf)
-    * [Betting](https://www.independent.co.uk/betting)
     * [Sport Videos](https://www.independent.co.uk/tv/sport)
 * [Voices](https://www.independent.co.uk/voices)
     * [Voices](https://www.independent.co.uk/voices)
@@ -118,6 +117,7 @@ More
 [Climate](https://www.independent.co.uk/climate-change)
 
 * [News](https://www.independent.co.uk/climate-change/news)
+* [Climate 100](https://www.independent.co.uk/climate-change/climate-100)
 * [Electric Vehicles](https://www.independent.co.uk/life-style/motoring/electric-vehicles)
 * [Voices](https://www.independent.co.uk/climate-change/opinion)
 * [Sustainable Living](https://www.independent.co.uk/climate-change/sustainable-living)
@@ -144,8 +144,6 @@ More
 * [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters)
 * [Ask Me Anything](https://www.independent.co.uk/ask-me-anything)
 * [Virtual Events](https://www.independent.co.uk/virtual-events)
-* [Betting Sites](https://www.independent.co.uk/betting/best-betting-sites-uk)
-* [Online Casinos](https://www.independent.co.uk/betting/casino/best-online-casinos-uk)
 * [Wine Offers](https://www.independent.co.uk/topic/perfect-cellar)
 * [Vouchers](https://www.independent.co.uk/vouchercodes)
 * [Indy100](https://www.indy100.com/)
@@ -339,7 +337,7 @@ Close
 
 [](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
-[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[US Politics](https://www.independent.co.uk/news/world/americas/us-politics)
 
 * [Today’s Edition](https://edition.independent.co.uk/)
 * [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
@@ -347,8 +345,6 @@ Close
 * [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters)
 * [Ask Me Anything](https://www.independent.co.uk/ask-me-anything)
 * [Virtual Events](https://www.independent.co.uk/virtual-events)
-* [Betting Sites](https://www.independent.co.uk/betting/best-betting-sites-uk)
-* [Online Casinos](https://www.independent.co.uk/betting/casino/best-online-casinos-uk)
 * [Wine Offers](https://www.independent.co.uk/topic/perfect-cellar)
 * [Vouchers](https://www.independent.co.uk/vouchercodes)
 * [Indy100](https://www.indy100.com/)
