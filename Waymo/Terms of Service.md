@@ -97,7 +97,7 @@ header
     * [Working at Waymo](https://careers.withwaymo.com/working-at-waymo)
     * [Teams](https://careers.withwaymo.com/teams)
     * [Early Careers](https://careers.withwaymo.com/early-careers)
-    * [Benefits](https://careers.withwaymo.com/benefits)
+    * [How We Hire](https://careers.withwaymo.com/benefits)
     * [Open Roles](https://careers.withwaymo.com/jobs/search)
     
 
