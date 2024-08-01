@@ -22,6 +22,7 @@
     * [Environment Variables](https://docs.zeabur.com/docs/deploy/variables)
     * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
     * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
+    * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
     
 * Template
     
@@ -167,6 +168,7 @@
     * [Environment Variables](https://docs.zeabur.com/docs/deploy/variables)
     * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
     * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
+    * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
     
 * Template
     
