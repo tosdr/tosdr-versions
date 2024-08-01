@@ -108,6 +108,9 @@ Main Navigation
     * [The Blackbaud Difference
         
         Discover why we're your best partner](https://www.blackbaud.com/why-blackbaud)
+    * [Our Vision
+        
+        Build a Better World](https://www.blackbaud.com/company/build-a-better-world)
     * [Blackbaud Institute
         
         Industry-leading research and insights](https://institute.blackbaud.com/)
@@ -150,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/08/EOY_Toolkit_275X135_MegaMenu.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/bbcon2024-sessions-resources-megamenu-275X135.png)
     
-    End-of-year Fundraising | Toolkit​
+    bbcon 2024 | Sept. 24–26
     
-    [Get your roadmap to end-of-year fundraising success!​](https://www.blackbaud.com/industry-insights/resources/end-of-year-fundraising-toolkit?ICID=bbwebsite-mega-menu-tile-cbr-eoytoolkit-tl-24-us)
+    [Our lineup of 150+ bbcon sessions is live! Explore Sessions.](https://www.bbconference.com/2024/sessions?ICID=bbwebsite-mega-menu-tile-bbcon2024-sessions)
     
     * * *
     
