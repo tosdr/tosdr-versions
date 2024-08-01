@@ -1,4 +1,4 @@
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84008)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y84008)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84014)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y84014)](https://www.site123.com/)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -10,7 +10,7 @@
 * [Login](https://app.site123.com/manager/login/login.php?l=en)
 * [START HERE](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84008)
+![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84014)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -290,7 +290,7 @@ Privacy Department - privacy@site123.com
 
 Don't wait any longer, create your website today! [Create a website](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84008)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y84014)](https://www.site123.com/)
 
 SITE123: built differently, built better.
 
@@ -354,7 +354,7 @@ Copyright © 2024 All rights reserved - SITE123
 
 Close [Yes! I want to try](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/us.svg)  
-More than 2209 SITE123 websites created in US today!
+![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/gb.svg)  
+More than 2050 SITE123 websites created in GB today!
 
      ![](https://www.facebook.com/tr?id=1074611005929279&ev=PageView&noscript=1)![](https://px.ads.linkedin.com/collect/?pid=32899&fmt=gif)![](https://q.quora.com/_/ad/c8f86d2183d6400d8288bbf9f7d9e950/pixel?tag=ViewContent&noscript=1)![](/include/pix_manage.php)
