@@ -15,9 +15,7 @@ Connect with us
 
 Hi, what are you looking for?
 
-[![Tweaks For Geeks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Tweaks For Geeks](https://www.tweaksforgeeks.com/wp-content/uploads/2020/07/Untitled.png)](https://www.tweaksforgeeks.com/)[![Tweaks For Geeks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Tweaks For Geeks](https://www.tweaksforgeeks.com/wp-content/uploads/2020/07/Untitled.png)](https://www.tweaksforgeeks.com/) [![Tweaks For Geeks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![Tweaks For Geeks](https://www.tweaksforgeeks.com/wp-content/uploads/2020/07/logowo.png)](https://www.tweaksforgeeks.com/)
 
