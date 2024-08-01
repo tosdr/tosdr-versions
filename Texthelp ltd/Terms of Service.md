@@ -103,6 +103,8 @@ Refine
         
 * AutoCorrect
     
+* OrbitNote Revamp
+    
 
 Table of Contents Table of Contents Toggle navigation
 
@@ -205,6 +207,8 @@ Table of Contents Table of Contents Toggle navigation
         * uPAR
             
     * AutoCorrect
+        
+    * OrbitNote Revamp
         
     
 * [****CONTACT US****](https://support.texthelp.com/help/contact-feedback)
@@ -310,6 +314,8 @@ Table of Contents Table of Contents Toggle navigation
         * uPAR
             
     * AutoCorrect
+        
+    * OrbitNote Revamp
         
     
 
@@ -571,6 +577,8 @@ Table of Contents Table of Contents Toggle navigation
     * [Adding Corrections and App Exclusions to AutoCorrect](https://support.texthelp.com/help/adding-corrections-and-app-exclusions-to-autocorrect)
     * [Unable to update](https://support.texthelp.com/help/unable-to-update)
     * [Pre-Configuring Mac for AutoCorrect Use In A Site Environment](https://support.texthelp.com/help/pre-configuring-mac-for-autocorrect-use-in-a-site-environment)
+* [OrbitNote Revamp](javascript:void(0);)
+    
 
 * [Home](https://support.texthelp.com/help)
 
