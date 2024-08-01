@@ -61,7 +61,6 @@ This return policy may be modified or changed without notice.
 
 * [Wireless Plans](https://www.freedompop.com/plans)
 * [Transfer Your Number](https://help.freedompop.com/number-transfer)
-* [Lifeline](https://www.freedompop.com/assist)
 * [About Us](https://wireless.freedompop.com/about-us)
 
 ### Get FreedomPop
