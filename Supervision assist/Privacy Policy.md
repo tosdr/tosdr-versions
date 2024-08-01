@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=750315732307376&ev=PageView&noscript=1)     
+![fbpx](https://www.facebook.com/tr?id=750315732307376&ev=PageView&noscript=1)      
 
 [Skip to content](#content)
 
@@ -138,14 +138,3 @@ Subscribe
 * [Security](https://supervisionassist.com/security/)
 * [Careers](https://supervisionassist.bamboohr.com/jobs/)
 * [User Login](https://app.supervisionassist.com/login)
-
-Thank You. We Received Your Request.
-------------------------------------
-
-##### We will call you during your next availability window to discuss your free demo.
-
-![back of woman working at a desk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20456'%3E%3C/svg%3E)
-
-![back of woman working at a desk](https://supervisionassist.com/wp-content/uploads/2019/12/bench-accounting-49023.webp)
-
-##### We look forward to speaking with you!
