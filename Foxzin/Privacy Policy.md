@@ -1,253 +1,1403 @@
-[![Arcade](/arikaim/view/templates/arcade//images/logo.png)](https://foxzin.com/ "Arcade")
+[![logo](https://www.noticegames.com/images/notice228x40-3.png)](https://www.noticegames.com/)
+
+*  [![Free Games](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/survival.svg) Free Games](https://www.noticegames.com/en/category/free-games/)
+*  [![.IO](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) .IO](https://www.noticegames.com/en/category/-io/)
+*  [![2 Player](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/2-player.svg) 2 Player](https://www.noticegames.com/en/category/2-player/)
+*  [![3D](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/3d.svg) 3D](https://www.noticegames.com/en/category/3d/)
+*  [![Action](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/actions.svg) Action](https://www.noticegames.com/en/category/action/)
+*  [![Adventure](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/adventure.svg) Adventure](https://www.noticegames.com/en/category/adventure/)
+*  [![Agility](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Agility](https://www.noticegames.com/en/category/agility/)
+*  [![Arcade](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/arcade.svg) Arcade](https://www.noticegames.com/en/category/arcade/)
+*  [![Art](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Art](https://www.noticegames.com/en/category/art/)
+*  [![Baby](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Baby](https://www.noticegames.com/en/category/baby/)
+*  [![Basketball](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Basketball](https://www.noticegames.com/en/category/basketball/)
+*  [![Battle](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Battle](https://www.noticegames.com/en/category/battle/)
+*  [![Bejeweled](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/bejeweled.svg) Bejeweled](https://www.noticegames.com/en/category/bejeweled/)
+*  [![Board](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/board.svg) Board](https://www.noticegames.com/en/category/board/)
+*  [![Boardgames](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Boardgames](https://www.noticegames.com/en/category/boardgames/)
+*  [![Boys](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/bejeweled.svg) Boys](https://www.noticegames.com/en/category/boys/)
+*  [![Bubble Shooter](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/bubble-shooter.svg) Bubble Shooter](https://www.noticegames.com/en/category/bubble-shooter/)
+*  [![Cards](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/cards.svg) Cards](https://www.noticegames.com/en/category/cards/)
+*  [![Care](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Care](https://www.noticegames.com/en/category/care/)
+*  [![Casino](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Casino](https://www.noticegames.com/en/category/casino/)
+*  [![Casual](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/casual.svg) Casual](https://www.noticegames.com/en/category/casual/)
+*  [![Classics](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/classic.svg) Classics](https://www.noticegames.com/en/category/classics/)
+*  [![Clicker](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/clicker.svg) Clicker](https://www.noticegames.com/en/category/clicker/)
+*  [![Combat](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Combat](https://www.noticegames.com/en/category/combat/)
+*  [![Cooking](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/cooking.svg) Cooking](https://www.noticegames.com/en/category/cooking/)
+*  [![Dress-up](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Dress-up](https://www.noticegames.com/en/category/dress-up/)
+*  [![Educational](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Educational](https://www.noticegames.com/en/category/educational/)
+*  [![Exclusive Games](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Exclusive Games](https://www.noticegames.com/en/category/exclusive-games/)
+*  [![false](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) false](https://www.noticegames.com/en/category/false/)
+*  [![Farming](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/farming.svg) Farming](https://www.noticegames.com/en/category/farming/)
+*  [![Football](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Football](https://www.noticegames.com/en/category/football/)
+*  [![Girls](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/girls.svg) Girls](https://www.noticegames.com/en/category/girls/)
+*  [![Hypercasual](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/casual.svg) Hypercasual](https://www.noticegames.com/en/category/hypercasual/)
+*  [![InGame Purchase](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) InGame Purchase](https://www.noticegames.com/en/category/ingame-purchase/)
+*  [![Jigsaw](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Jigsaw](https://www.noticegames.com/en/category/jigsaw/)
+*  [![Junior](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Junior](https://www.noticegames.com/en/category/junior/)
+*  [![Mahjong & Connect](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Mahjong & Connect](https://www.noticegames.com/en/category/mahjong---connect/)
+*  [![Match-3](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/match-3.svg) Match-3](https://www.noticegames.com/en/category/match-3/)
+*  [![Multiplayer](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/multiplayer.svg) Multiplayer](https://www.noticegames.com/en/category/multiplayer/)
+*  [![Our Game](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Our Game](https://www.noticegames.com/en/category/our-game/)
+*  [![Puzzle](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/puzzle.svg) Puzzle](https://www.noticegames.com/en/category/puzzle/)
+*  [![Quiz](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/quiz.svg) Quiz](https://www.noticegames.com/en/category/quiz/)
+*  [![Racing](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/racing.svg) Racing](https://www.noticegames.com/en/category/racing/)
+*  [![Racing & Driving](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Racing & Driving](https://www.noticegames.com/en/category/racing---driving/)
+*  [![Rhythm](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Rhythm](https://www.noticegames.com/en/category/rhythm/)
+*  [![Shooter](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/shooter.svg) Shooter](https://www.noticegames.com/en/category/shooter/)
+*  [![Shooting](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/shooter.svg) Shooting](https://www.noticegames.com/en/category/shooting/)
+*  [![Simulation](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/simulation.svg) Simulation](https://www.noticegames.com/en/category/simulation/)
+*  [![Soccer](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Soccer](https://www.noticegames.com/en/category/soccer/)
+*  [![Social](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Social](https://www.noticegames.com/en/category/social/)
+*  [![Sports](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/sport.svg) Sports](https://www.noticegames.com/en/category/sports/)
+*  [![Stickman](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Stickman](https://www.noticegames.com/en/category/stickman/)
+*  [![Strategy](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/strategy.svg) Strategy](https://www.noticegames.com/en/category/strategy/)
+*  [![Top Picks](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) Top Picks](https://www.noticegames.com/en/category/top-picks/)
 
-[Leaderboard](https://foxzin.com/leaderboard)
+[](https://www.noticegames.com/login/)
 
-[Login](https://foxzin.com/login) [Sign Up](https://foxzin.com/signup/player)
+ 
 
-English
+* [Exclusive Games](http://foxzin.com/category/exclusive-games)
+* [Free Games](http://foxzin.com/category/free-games/)
+* [Our Games](http://foxzin.com/category/our-game/)
+* [Youtube Channel](https://www.youtube.com/channel/UCyWxO0rGmZDxD87yDxxBgfg)
+* [Top Players](http://foxzin.com/top-players/)
+* [Login](https://www.noticegames.com/login/)
 
-[Leaderboard](https://foxzin.com/leaderboard)
+ 
 
-[Login](https://foxzin.com/login) [Sign Up](https://foxzin.com/signup/player)
+* [Exclusive Games](http://foxzin.com/category/exclusive-games)
+* [Free Games](http://foxzin.com/category/free-games/)
+* [Our Games](http://foxzin.com/category/our-game/)
+* [Youtube Channel](https://www.youtube.com/channel/UCyWxO0rGmZDxD87yDxxBgfg)
+* [Top Players](http://foxzin.com/top-players/)
+* [Login](https://www.noticegames.com/login/)
 
-[Action](https://foxzin.com/action/games)[Puzzle](https://foxzin.com/puzzle/games)[Adventure](https://foxzin.com/adventure/games)[Shooting](https://foxzin.com/shooting/games)[Racing](https://foxzin.com/racing/games)[Arcade](https://foxzin.com/arcade/games)[Multiplayer](https://foxzin.com/multiplayer/games)[Classics](https://foxzin.com/classics/games)[Puzzles](https://foxzin.com/puzzles/games)[Sports](https://foxzin.com/sports/games)[Strategy](https://foxzin.com/strategy/games)[Junior](https://foxzin.com/junior/games)[Girls](https://foxzin.com/girls/games)[3D](https://foxzin.com/3d/games)[2 Player](https://foxzin.com/2-player/games)
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/fire.svg) FREE GAMES
 
-Categories
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[Action](https://foxzin.com/action/games)[Puzzle](https://foxzin.com/puzzle/games)[Adventure](https://foxzin.com/adventure/games)[Shooting](https://foxzin.com/shooting/games)[Racing](https://foxzin.com/racing/games)[Arcade](https://foxzin.com/arcade/games)[Multiplayer](https://foxzin.com/multiplayer/games)[Classics](https://foxzin.com/classics/games)[Puzzles](https://foxzin.com/puzzles/games)[Sports](https://foxzin.com/sports/games)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-Featured Games
+Meger Tower 2D
 
-[![Throw Knife 3D](https://img.gamedistribution.com/875fa74445464222b6c753e719cc63a0-512x384.jpeg)](https://foxzin.com/game/throw-knife-3d)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/meger-tower-2d/)
 
-[![Find Alien 3D](https://img.gamedistribution.com/9e58d2dcfdcb437a927bfb79dd86631d-512x384.jpeg)](https://foxzin.com/game/find-alien-3d)
+[![Angry Bird Toons](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[![Giant Rush!](https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg)](https://foxzin.com/game/giant-rush!)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Mosquito Run 3D](https://img.gamedistribution.com/a5cfff6426e64d0caa01171d7066d42f-512x384.jpeg)](https://foxzin.com/game/mosquito-run-3d)
+Angry Bird Toons
 
-[![Crazy Slap](https://img.gamedistribution.com/b6d1a1fbaef546e6b5abe33540c19739-512x512.jpeg)](https://foxzin.com/game/crazy-slap)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/angry-bird-toons/)
 
-[![State.io - Conquer the World](https://img.gamedistribution.com/1701b2232f8c4f7689394f229bda07d7-512x512.jpeg)](https://foxzin.com/game/state.io---conquer-the-world)
+[![Doge Blocks](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[![Ball Rush](https://img.gamedistribution.com/0c36271483334c339e3ad72f3025d029-512x384.jpeg)](https://foxzin.com/game/ball-rush)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Muscle Race 3D](https://img.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02-512x384.jpeg)](https://foxzin.com/game/muscle-race-3d)
+Doge Blocks
 
-[![Fire vs Water Fights](https://img.gamedistribution.com/41eb68a559fa4e7dbc710df82fb2d969-512x384.jpeg)](https://foxzin.com/game/fire-vs-water-fights)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/doge-blocks/)
 
-[![Kingdom defense online](https://img.gamedistribution.com/5eaea98902d4422ca8c3db47f362d1e2-512x384.jpeg)](https://foxzin.com/game/kingdom-defense-online)
+[![Pet Rescue 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-Ads
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-New Games
+Pet Rescue 3D
 
-[![Merge and Push 3D](https://img.gamedistribution.com/f6958859abf24814b4e59223da139eab-512x384.jpg)](https://foxzin.com/game/merge-and-push-3d)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/pet-rescue-3d/)
 
-[![Drag Race 3D](https://img.gamedistribution.com/9a6eaa31d1af4538af06a23cf050c122-512x384.jpg)](https://foxzin.com/game/drag-race-3d)
+[![Happy Glass Online](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[![Galaxy Shooter](https://img.gamedistribution.com/3e83d7b0324145fda6b9c8745ad31c98-1280x720.jpeg)](https://foxzin.com/game/galaxy-shooter)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Stall Life Simulation](https://img.gamedistribution.com/39c5a477a999420cb443eee3c63882b4-512x384.jpeg)](https://foxzin.com/game/stall-life-simulation)
+Happy Glass Online
 
-[![Hillside Drive Master](https://img.gamedistribution.com/a1f258c00f6c4494afda6aecc8c6ad54-512x384.jpg)](https://foxzin.com/game/hillside-drive-master)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/happy-glass-online/)
 
-[![Your Silver Wife](https://img.gamedistribution.com/8ab56fe346a24125928248ddaebfccf0-512x384.jpg)](https://foxzin.com/game/your-silver-wife)
+[![World Rebirth 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[![Bff Attractive Autumn Style](https://img.gamedistribution.com/88d1a20ec998403da6c1935ca78584fb-512x384.jpg)](https://foxzin.com/game/bff-attractive-autumn-style)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Halloween Mazes](https://img.gamedistribution.com/d33ff7231ed84a1ab612aaf42b1c41b2-512x384.jpg)](https://foxzin.com/game/halloween-mazes)
+World Rebirth 2D
 
-[![Murder Mafia](https://img.gamedistribution.com/9c0c9e66a2df431d85f12bf8c8319f06-512x512.jpg)](https://foxzin.com/game/murder-mafia)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/world-rebirth-2d/)
 
-[![Steve and Alex Skibidi Toilet](https://img.gamedistribution.com/4bfbc88be7a74a8b81152b2841d8320a-512x384.jpg)](https://foxzin.com/game/steve-and-alex-skibidi-toilet)
+[![Save My Doge](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-Premium Games
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Vex 6](https://img.gamedistribution.com/4925e12574364121a48c61c35f649c36-512x384.jpeg)](https://foxzin.com/game/vex-6)
+Save My Doge
 
-[![Squid Challenge](https://img.gamedistribution.com/063df6dc6ed14ff49b1030bbca24b373-512x512.jpeg)](https://foxzin.com/game/squid-challenge)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/save-my-doge/)
 
-[![Perfect Wax 3D](https://img.gamedistribution.com/c2b87446b13a44bf9dccd576abab007e-512x512.jpeg)](https://foxzin.com/game/perfect-wax-3d)
+[![Rescue Hero Quest](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-[![Shoe Race](https://img.gamedistribution.com/4895ca9c35334258bf2e5e3041985aee-512x512.jpeg)](https://foxzin.com/game/shoe-race)
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-[![Temple Run 2](https://img.gamedistribution.com/a6f4f05edcf04eba9e9ef93925d27672-512x384.jpeg)](https://foxzin.com/game/temple-run-2)
+Rescue Hero Quest
 
-[![Robot Butcher](https://img.gamedistribution.com/14c3303805f347d7bfefa88d40722b72-512x512.jpeg)](https://foxzin.com/game/robot-butcher)
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/rescue-hero-quest/)
 
-Privacy Policy
-==============
+[![Arrow Fest 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-This Privacy Policy explains how your personal data is collected and processed by **company** when you use the web site **https://foxzin.com/**. Cookie Policy explains what cookies are and how we use them on the website.
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-### Information We Collect:
+Arrow Fest 3D
 
-When you access or use the website, we automatically collect general information about you using cookies  
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/arrow-fest-3d/)
 
-* **Personal identification information** (Name, Email address )
-* IP address
-* Analytics: We may allow Third Party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites
+[![Slice It 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-### How we collect information:
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-You directly provide **company** with most of the data we collect. We collect data and process data when you:
+Slice It 3D
 
-* Register online or place an order for any of our products or services.
-* Voluntarily complete a customer survey or provide feedback on any of our message boards or via email.
-* Use or view our website via your browser’s cookies.
-* **Contact Form** - If you fill out a contact form on the website or send us an email, the data you provide will be retained for as long as is necessary depending on the nature of the form or the content of your email, to fully answer and correctly handle your message or email.
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/slice-it-3d/)
 
-### Our Use of Your Personal Data and Other Information:
+[![Throw Knife 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-We use information about you for the following purposes in accordance with the legal bases for each type of personal data as described below:  
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-* Manage your account.
-* Email you with special offers on other products and services we think you might like.
+Throw Knife 3D
 
-### How do we store your data
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/throw-knife-3d/)
 
-**company** will store your personal data for as long as necessary in order to provide you with the Website or otherwise fulfil the purposes as described above, unless further storage is required in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules. Your personal data are deleted or anonymized as soon as it no longer serves one of the above-mentioned purposes and in any event no later than 12 months after your interaction with **company** has ceased.
+[![Hay Day Farm](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-### Children
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-**company** does not knowingly collect personal data from children under the age of 13.  
-If personal data on children (as this term is construed under GDPR in EU, COPPA in the US and relevant applicable legislation in other jurisdictions) under the minimum age limit that is prescribed by the legislation in the individual jurisdictions have been processed without **company** knowledge, **company**, after having become aware of the incident, immediately take reasonable measures to stop such processing and promptly delete any such data from our databases.
+Hay Day Farm
 
-If you have additional questions about **company** privacy practices related to children under the applicable minimum age, please contact us at **email**.
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/hay-day-farm/)
 
-### Your data protection rights:
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/fire.svg) TRENDING GAMES
 
-**company** would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:  
-You also have the right to request **company** to complete the information you believe is incomplete.
+[![Obby Flip](https://image.noticegames.com/thumbs/obby-flip_small.webp)](https://www.noticegames.com/en/game/obby-flip/)
 
-* **The right to access** – You have the right to request **company** for copies of your personal data. We may charge you a small fee for this service.
-* **The right to rectification** – You have the right to request that **company** correct any information you believe is inaccurate.
-* **The right to erasure** – You have the right to request that **company** erase your personal data, under certain conditions.
-* **The right to restrict processing** – You have the right to request that **company** restrict the processing of your personal data, under certain conditions.
-* **The right to object to processing** – You have the right to object to **company**’s processing of your personal data, under certain conditions.
-* **The right to data portability** – You have the right to request that **company** transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+[![Match Master](https://image.noticegames.com/thumbs/match-master_small.webp)](https://www.noticegames.com/en/game/match-master/)
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: **email**
+[![Football Run](https://image.noticegames.com/thumbs/football-run-42a35a1fecb248e29c549b4104ca2ae5-512x512.jpeg)](https://www.noticegames.com/en/game/football-run/)
 
-### Cookies
+[![Tanks 2D: Tank Wars](https://image.noticegames.com/thumbs/tanks-2d-tank-wars-fcd55e3b743540f19a5d06bded320e4c-512x512.webp)](https://www.noticegames.com/en/game/tanks-2d-tank-wars/)
 
-Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.  
-For further information, visit allaboutcookies.org.
+[![VEX 3 Xmas](https://image.noticegames.com/thumbs/vex-3-xmas_small.webp)](https://www.noticegames.com/en/game/vex-3-xmas/)
 
-### How do we use cookies
+[![Draw Knife](https://image.noticegames.com/thumbs/draw-knife-13e50aef0c5941ed91c751e960450757-512x512.jpeg)](https://www.noticegames.com/en/game/draw-knife/)
 
-company uses cookies in a range of ways to improve your experience on our website, including:
+[![Cozy Merge](https://image.noticegames.com/thumbs/cozy-merge-318f21aa4bd540ef83cadbfb1c5c9f48-512x512.jpeg)](https://www.noticegames.com/en/game/cozy-merge/)
 
-* Keeping you signed in
-* Understanding how you use our website
+[![Connect Merge](https://image.noticegames.com/thumbs/connect-merge-connect-merge-75c7edb3b34c4d059df893333cf9149f-512x512_small.jpeg)](https://www.noticegames.com/en/game/connect-merge/)
 
-### What types of cookies do we use
+[![Meger Tower 2D](https://image.noticegames.com/thumbs/meger-tower-2d_small.webp)](https://www.noticegames.com/en/game/meger-tower-2d/)
 
-There are a number of different types of cookies, however, our website uses:
+[![Mr Bean Jump](https://image.noticegames.com/thumbs/mr-bean-jump_small.webp)](https://www.noticegames.com/en/game/mr-bean-jump/)
 
-* Functionality – **company** uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
-* Google Analytics to facilitate, optimize and measure traffic. Google Analytics uses both persistent and session cookies.
-* Facebook, Twitter, YouTube and Vimeo for promoting the website. The cookies may be either persistent or session cookies.
+[![Vex 7](https://image.noticegames.com/thumbs/vex-7-0c454c9562d249d28ba3a2b50564042c-512x512.webp)](https://www.noticegames.com/en/game/vex-7/)
 
-### How to manage cookies
+[![Bus Stop](https://image.noticegames.com/thumbs/bus-stop-6fbdbe55f3d5430b8a49f4b1f2cce22c-512x512.jpeg)](https://www.noticegames.com/en/game/bus-stop/)
 
-You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result.
+[![Pounce.sh](https://image.noticegames.com/thumbs/pounce-sh-d42f74f2e3874adba986c14fbf09bb1d-512x512.jpeg)](https://www.noticegames.com/en/game/pounce-sh/)
 
-### Privacy policies of other websites
+[![Zen Cube 3D](https://image.noticegames.com/thumbs/zen-cube-3d-2a1b01b50c6b45a69350ec6ee1ff9ad3-512x512.jpeg)](https://www.noticegames.com/en/game/zen-cube-3d/)
 
-The **company** website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+[![Save My Doge](https://image.noticegames.com/thumbs/save-my-doge_small.webp)](https://www.noticegames.com/en/game/save-my-doge/)
 
-### Privacy Policy Changes
+[![Happy Glass Online](https://image.noticegames.com/thumbs/happy-glass-online_small.webp)](https://www.noticegames.com/en/game/happy-glass-online/)
 
-**company** keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on **September 10, 2024**.
+[![Angry Bird Toons](https://image.noticegames.com/thumbs/angry-bird-toons_small.webp)](https://www.noticegames.com/en/game/angry-bird-toons/)
 
-### Contact and complaints
+[![Harness Racing](https://image.noticegames.com/thumbs/harness-racing-ec1955b8909843d3858d6f4b2aec9afc-512x512.jpeg)](https://www.noticegames.com/en/game/harness-racing/)
 
-If you have any questions about **company** privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
+[![Uphill Rush 8](https://image.noticegames.com/thumbs/uphill-rush-8-16c1f72a94d24be7afb1bcd5f45914b1-512x512.jpeg)](https://www.noticegames.com/en/game/uphill-rush-8/)
 
-* email: **email**
+[![Arrow Fest 3D](https://image.noticegames.com/thumbs/arrow-fest-3d_small.webp)](https://www.noticegames.com/en/game/arrow-fest-3d/)
 
-Popular Games
+[![Last War Survival](https://image.noticegames.com/thumbs/last-war-survival_small.webp)](https://www.noticegames.com/en/game/last-war-survival/)
 
-[![Skibidi Toilet Search](https://img.gamedistribution.com/6cdf6b9cf7db4793864137560c984df5-512x384.jpeg)](https://foxzin.com/game/skibidi-toilet-search)
+[![Castle Keeper](https://image.noticegames.com/thumbs/castle-keeper-f2ceb5500f7b4f2e8b41a25a06d04ded-512x512.jpeg)](https://www.noticegames.com/en/game/castle-keeper/)
 
-[![Time Shooter](https://img.gamedistribution.com/1092591e1589474cbb6c42cd388440c6-512x512.jpeg)](https://foxzin.com/game/time-shooter)
+[![Best Classic Mahjong Connect ](https://image.noticegames.com/thumbs/best-classic-mahjong-connect-b8a3a3d16c7f49ecbd08a4db26aecedd-512x512.webp)](https://www.noticegames.com/en/game/best-classic-mahjong-connect/)
 
-[![Find Alien 3D](https://img.gamedistribution.com/9e58d2dcfdcb437a927bfb79dd86631d-512x384.jpeg)](https://foxzin.com/game/find-alien-3d)
+[![Might And Magic Armies](https://image.noticegames.com/thumbs/might-and-magic-armies-ebd45dc3b7a64725b73768180208e49a-512x512.jpg)](https://www.noticegames.com/en/game/might-and-magic-armies/)
 
-[![Kingdom defense online](https://img.gamedistribution.com/5eaea98902d4422ca8c3db47f362d1e2-512x384.jpeg)](https://foxzin.com/game/kingdom-defense-online)
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/survival.svg) EXCLUSIVE GAMES
 
-[![Fire vs Water Fights](https://img.gamedistribution.com/41eb68a559fa4e7dbc710df82fb2d969-512x384.jpeg)](https://foxzin.com/game/fire-vs-water-fights)
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[![Muscle Race 3D](https://img.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02-512x384.jpeg)](https://foxzin.com/game/muscle-race-3d)
+Meger Tower 2D
 
-[![Sneak Out 3D](https://img.gamedistribution.com/55ff6d345dae466b9584e5422dc64c58-512x384.jpeg)](https://foxzin.com/game/sneak-out-3d)
+5.0 (1 Reviews)
 
-[![Giant Rush!](https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg)](https://foxzin.com/game/giant-rush!)
+Play Now](https://www.noticegames.com/en/game/meger-tower-2d/)
 
-[![Waterpark Slide Race](https://img.gamedistribution.com/ae8989a5126b45d4942b181036c370ae-512x512.jpeg)](https://foxzin.com/game/waterpark-slide-race)
+[![Rescue Hero Quest](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[![Ugi Bugi](https://img.gamedistribution.com/69659b2aa30341aa80e7dd5ec58db8cb-512x384.jpeg)](https://foxzin.com/game/ugi-bugi)
+Rescue Hero Quest
 
-Ads
+5.0 (1 Reviews)
 
-Tags
+Play Now](https://www.noticegames.com/en/game/rescue-hero-quest/)
 
-[$school](https://foxzin.com/tags/$school/games)
+[![Hay Day Farm](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[.io](https://foxzin.com/tags/.io/games)
+Hay Day Farm
 
-[1](https://foxzin.com/tags/1/games)
+5.0 (1 Reviews)
 
-[100](https://foxzin.com/tags/100/games)
+Play Now](https://www.noticegames.com/en/game/hay-day-farm/)
 
-[1010](https://foxzin.com/tags/1010/games)
+[![aiChess](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[10x10](https://foxzin.com/tags/10x10/games)
+aiChess
 
-[123](https://foxzin.com/tags/123/games)
+5.0 (1 Reviews)
 
-[12numbers](https://foxzin.com/tags/12numbers/games)
+Play Now](https://www.noticegames.com/en/game/aichess/)
 
-[15](https://foxzin.com/tags/15/games)
+[![Survival Craft 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[1player](https://foxzin.com/tags/1player/games)
+Survival Craft 3D
 
-[2](https://foxzin.com/tags/2/games)
+5.0 (2 Reviews)
 
-[2-players](https://foxzin.com/tags/2-players/games)
+Play Now](https://www.noticegames.com/en/game/survival-craft-3d/)
 
-[2018](https://foxzin.com/tags/2018/games)
+[![Hair Challenge 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[2019](https://foxzin.com/tags/2019/games)
+Hair Challenge 3D
 
-[2020](https://foxzin.com/tags/2020/games)
+5.0 (1 Reviews)
 
-[Home](https://foxzin.com/)
+Play Now](https://www.noticegames.com/en/game/hair-challenge-3d/)
 
-[About](https://foxzin.com/about)
+[![Go Up 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[Featured Games](https://foxzin.com/featured-games)
+Go Up 3D
 
-[Popular Games](https://foxzin.com/popular-games)
+5.0 (1 Reviews)
 
-[Premium Games](https://foxzin.com/premium-games)
+Play Now](https://www.noticegames.com/en/game/go-up-3d/)
 
-[Youtube Channel](https://www.youtube.com/channel/UCyWxO0rGmZDxD87yDxxBgfg)
+[![SpudStorm Shooter: Legacy Unleashed](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
 
-[Privacy Policy](https://foxzin.com/privacy)
+SpudStorm Shooter: Legacy Unleashed
 
-![Arikaim CMS](/arikaim/view/templates/arcade/images/arikaim-icon.png) [Notice Games](https://noticegames.com/)
+5.0 (1 Reviews)
 
-[Ecaps Games](https://ecapsgames.com/)
+Play Now](https://www.noticegames.com/en/game/spudstorm-shooter-legacy-unleashed/)
 
-[247 Instants Games](https://247instantgames.com/)
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/rocket.svg) NEW GAMES
 
-Cookie Policy
+[![Untwist Road](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
 
-We use cookies to ensure that we give you the best experience on our website.
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
 
-Click here for more information.
+Untwist Road
 
-Accept
+0 (0 Reviews)](https://www.noticegames.com/en/game/untwist-road/)
+
+[![Riot Village](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Riot Village
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/riot-village/)
+
+[![Idle Firefighter 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Idle Firefighter 3D
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/idle-firefighter-3d/)
+
+[![Cargo Skates](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Cargo Skates
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/cargo-skates/)
+
+[![Idle Inventor](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Idle Inventor
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/idle-inventor/)
+
+[![Hair Stack 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hair Stack 3D
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/hair-stack-3d/)
+
+[![Insta Trends Galaxy Fashion](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Insta Trends Galaxy Fashion
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/insta-trends-galaxy-fashion/)
+
+[![My Dreamy Flora Fashion Look](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+My Dreamy Flora Fashion Look
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/my-dreamy-flora-fashion-look/)
+
+[![Pin Master](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Pin Master
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/pin-master/)
+
+[![Stickman Jailbreak Story](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Stickman Jailbreak Story
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/stickman-jailbreak-story/)
+
+[![Match Master](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Match Master
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/match-master/)
+
+[![Knife Up 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Knife Up 3D
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/knife-up-3d/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/shooter.svg) OUR CHOICE GAMES
+
+[![Mr Bean Jump](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Mr Bean Jump
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/mr-bean-jump/)
+
+[![Might And Magic Armies](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Might And Magic Armies
+
+5.0 (2 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/might-and-magic-armies/)
+
+[![Subway Surfers](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Subway Surfers
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/subway-surfers/)
+
+[![IDLE Archeology](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+IDLE Archeology
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/idle-archeology/)
+
+[![Raft Life](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Raft Life
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/raft-life/)
+
+[![Construction Ramp Jumping](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Construction Ramp Jumping
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/construction-ramp-jumping/)
+
+[![Sorting Sorcery](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Sorting Sorcery
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/sorting-sorcery/)
+
+[![War Of Gun](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+War Of Gun
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/war-of-gun/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/fire.svg) POPULAR GAMES
+
+[![Connect Merge](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Connect Merge
+
+2.5 (2 Reviews)](https://www.noticegames.com/en/game/connect-merge/)
+
+[![Uphill Rush 8](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Uphill Rush 8
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/uphill-rush-8/)
+
+[![Bus Stop](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Bus Stop
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/bus-stop/)
+
+[![Might And Magic Armies](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Might And Magic Armies
+
+5.0 (2 Reviews)](https://www.noticegames.com/en/game/might-and-magic-armies/)
+
+[![Vex 7](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Vex 7
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/vex-7/)
+
+[![Rescue Hero Quest](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Rescue Hero Quest
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/rescue-hero-quest/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![Smart Looter](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Smart Looter
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/smart-looter/)
+
+[![Monsters.io](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Monsters.io
+
+5.0 (1 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/monsters-io/)
+
+[![Easter Glamping Trip](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Easter Glamping Trip
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/easter-glamping-trip/)
+
+[![Atari Centipede](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Atari Centipede
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/atari-centipede/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/3d.svg) 3D GAMES
+
+[![Pet Rescue 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Pet Rescue 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/pet-rescue-3d/)
+
+[![Slice It 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Slice It 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/slice-it-3d/)
+
+[![Hay Day Farm](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hay Day Farm
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/hay-day-farm/)
+
+[![Survival Craft 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Survival Craft 3D
+
+5.0 (2 Reviews)](https://www.noticegames.com/en/game/survival-craft-3d/)
+
+[![ Hit Master 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hit Master 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/hit-master-3d/)
+
+[![Hair Challenge 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hair Challenge 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/hair-challenge-3d/)
+
+[![Fruit Fusion 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Fruit Fusion 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/fruit-fusion-3d/)
+
+[![Vegetable Battle 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Vegetable Battle 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/vegetable-battle-3d/)
+
+[![Subway Surfers](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Subway Surfers
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/subway-surfers/)
+
+[![Only Up 3D Parkour Go Ascend](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Only Up 3D Parkour Go Ascend
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/only-up-3d-parkour-go-ascend/)
+
+[![Super Megabot Adventure](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Super Megabot Adventure
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/super-megabot-adventure/)
+
+[![Master of Numbers](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Master of Numbers
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/master-of-numbers/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/casual.svg) INSTANT GAMES
+
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Meger Tower 2D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/meger-tower-2d/)
+
+[![Doge Blocks](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Doge Blocks
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/doge-blocks/)
+
+[![Pet Rescue 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Pet Rescue 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/pet-rescue-3d/)
+
+[![Rescue Hero Quest](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Rescue Hero Quest
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/rescue-hero-quest/)
+
+[![Arrow Fest 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Arrow Fest 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/arrow-fest-3d/)
+
+[![Slice It 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Slice It 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/slice-it-3d/)
+
+[![Throw Knife 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Throw Knife 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/throw-knife-3d/)
+
+[![Strike Galaxy Attack](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Strike Galaxy Attack
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/strike-galaxy-attack/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![Shadobirds](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Shadobirds
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/shadobirds/)
+
+[![Sniper Clash 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Sniper Clash 3D
+
+5.0 (1 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/sniper-clash-3d/)
+
+[![Heroes Inc!](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Heroes Inc!
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/heroes-inc-/)
+
+[![Get10 Plus](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Get10 Plus
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/get10-plus/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) MMO GAMES
+
+[![Survival Craft 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Survival Craft 3D
+
+5.0 (2 Reviews)](https://www.noticegames.com/en/game/survival-craft-3d/)
+
+[![Fairyland Merge & Magic](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Fairyland Merge & Magic
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/fairyland-merge---magic/)
+
+[![Bon Voyage](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Bon Voyage
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/bon-voyage/)
+
+[![Eternal Fury](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Eternal Fury
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/eternal-fury/)
+
+[![Family Relics](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Family Relics
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/family-relics/)
+
+[![Skydom](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Skydom
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/skydom/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/actions.svg) ACTION GAMES
+
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Meger Tower 2D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/meger-tower-2d/)
+
+[![World Rebirth 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+World Rebirth 2D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/world-rebirth-2d/)
+
+[![Strike Galaxy Attack](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Strike Galaxy Attack
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/strike-galaxy-attack/)
+
+[![Hair Challenge 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Hair Challenge 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/hair-challenge-3d/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![BFF Easter Photobooth Party](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+BFF Easter Photobooth Party
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/bff-easter-photobooth-party/)
+
+[![Only Up](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Only Up
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/only-up/)
+
+[![Ball Throw Fight](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Ball Throw Fight
+
+5.0 (1 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/ball-throw-fight/)
+
+[![Monster Truck High Speed](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Monster Truck High Speed
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/monster-truck-high-speed/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/racing.svg) RACING GAMES
+
+[![Animal Transform 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Animal Transform 3D
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/animal-transform-3d/)
+
+[![Going Balls 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Going Balls 3D
+
+5.0 (2 Reviews)](https://www.noticegames.com/en/game/going-balls-3d/)
+
+[![Rolling Ball 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Rolling Ball 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/rolling-ball-3d/)
+
+[![Bus Stop](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Bus Stop
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/bus-stop/)
+
+[![Harness Racing](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Harness Racing
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/harness-racing/)
+
+[![Drag Racing City](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Drag Racing City
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/drag-racing-city/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/casual.svg) SHOOTING GAMES
+
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Meger Tower 2D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/meger-tower-2d/)
+
+[![Strike Galaxy Attack](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Strike Galaxy Attack
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/strike-galaxy-attack/)
+
+[![SpudStorm Shooter: Legacy Unleashed](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+SpudStorm Shooter: Legacy Unleashed
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/spudstorm-shooter-legacy-unleashed/)
+
+[![Hunter Fish 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hunter Fish 2D
+
+5.0 (2 Reviews)](https://www.noticegames.com/en/game/hunter-fish-2d/)
+
+[![Warfare Tank IO](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Warfare Tank IO
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/warfare-tank-io/)
+
+[![Battalion Commander 2](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Battalion Commander 2
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/battalion-commander-2/)
+
+[![Dinosaur Eggs Pop](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Dinosaur Eggs Pop
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/dinosaur-eggs-pop/)
+
+[![Bubble Queen Cat](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Bubble Queen Cat
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/bubble-queen-cat/)
+
+[![Mine Shooter: Huggy's Attack!](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Mine Shooter: Huggy's Attack!
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/mine-shooter--huggy-s-attack-/)
+
+[![Robot Butcher](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Robot Butcher
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/robot-butcher/)
+
+[![Marble Dash](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Marble Dash
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/marble-dash/)
+
+[![Tom Clancy's Shootout](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Tom Clancy's Shootout
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/tom-clancy-s-shootout/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/puzzle.svg) PUZZLE GAMES
+
+[![Pin Master](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Pin Master
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/pin-master/)
+
+[![Stickman Jailbreak Story](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Stickman Jailbreak Story
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/stickman-jailbreak-story/)
+
+[![Match Master](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Match Master
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/match-master/)
+
+[![Dreamy Jewel](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Dreamy Jewel
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/dreamy-jewel/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![Backgammon Multi player](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Backgammon Multi player
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/backgammon-multi-player/)
+
+[![Kobadoo Shapes](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Kobadoo Shapes
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/kobadoo-shapes/)
+
+[![Turd Show](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Turd Show
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/turd-show/)
+
+[![Yatzy Multi player](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Yatzy Multi player
+
+2.5 (2 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/yatzy-multi-player/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/sport.svg) SPORTS GAMES
+
+[![Jab Jab Boxing](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Jab Jab Boxing
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/jab-jab-boxing/)
+
+[![Boxing Gang Stars](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Boxing Gang Stars
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/boxing-gang-stars/)
+
+[![Basketball Fever](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Basketball Fever
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/basketball-fever/)
+
+[![Moto X3M: Spooky Land](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Moto X3M: Spooky Land
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/moto-x3m-spooky-land/)
+
+[![Foot Chinko](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Foot Chinko
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/foot-chinko/)
+
+[![Football Masters](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Football Masters
+
+0 (0 Reviews)](https://www.noticegames.com/en/game/football-masters/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/cards.svg) CARDS GAMES
+
+[![CityMix Solitaire](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+CityMix Solitaire
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/citymix-solitaire/)
+
+[![Solitaire Match](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Solitaire Match
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/solitaire-match/)
+
+[![Spaces Solitaire](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Spaces Solitaire
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/spaces-solitaire/)
+
+[![Gin Rummy](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Gin Rummy
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/gin-rummy/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![Find Alien 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Find Alien 3D
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/find-alien-3d/)
+
+[![Mech Battle Simulator](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Mech Battle Simulator
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/mech-battle-simulator/)
+
+[![Builder Idle Arcade](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Builder Idle Arcade
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/builder-idle-arcade/)
+
+[![Might And Magic Armies](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Might And Magic Armies
+
+5.0 (2 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/might-and-magic-armies/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/other.svg) IO GAMES
+
+[![Digital Circus IO](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Digital Circus IO
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/digital-circus-io/)
+
+[![Only Up](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Only Up
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/only-up/)
+
+[![Knife Clash IO - Blade Battle](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Knife Clash IO - Blade Battle
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/knife-clash-io-blade-battle/)
+
+[![Vegetable Battle 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Vegetable Battle 3D
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/vegetable-battle-3d/)
+
+[![Hunter Stick IO](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Hunter Stick IO
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/hunter-stick-io/)
+
+[![Clash Blade IO](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Clash Blade IO
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/clash-blade-io/)
+
+[![War Nations.io](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+War Nations.io
+
+5.0 (1 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/war-nations-io/)
+
+[![Skibidi Toilet IO](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder2.png)
+
+Skibidi Toilet IO
+
+0 (0 Reviews)
+
+Play Now](https://www.noticegames.com/en/game/skibidi-toilet-io/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/rocket.svg) OUR GAMES
+
+[![Meger Tower 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Meger Tower 2D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/meger-tower-2d/)
+
+[![Angry Bird Toons](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Angry Bird Toons
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/angry-bird-toons/)
+
+[![Doge Blocks](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Doge Blocks
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/doge-blocks/)
+
+[![Pet Rescue 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Pet Rescue 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/pet-rescue-3d/)
+
+[![Happy Glass Online](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Happy Glass Online
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/happy-glass-online/)
+
+[![World Rebirth 2D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+World Rebirth 2D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/world-rebirth-2d/)
+
+[![Save My Doge](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Save My Doge
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/save-my-doge/)
+
+[![Rescue Hero Quest](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Rescue Hero Quest
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/rescue-hero-quest/)
+
+[![Arrow Fest 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Arrow Fest 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/arrow-fest-3d/)
+
+[![Slice It 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Slice It 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/slice-it-3d/)
+
+[![Throw Knife 3D](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Throw Knife 3D
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/throw-knife-3d/)
+
+[![Hay Day Farm](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder1.png)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)
+
+Hay Day Farm
+
+5.0 (1 Reviews)](https://www.noticegames.com/en/game/hay-day-farm/)
+
+### ![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/love.svg) RECOMMEND GAMES
+
+[![John the Pirate](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+John the Pirate
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/john-the-pirate/)
+
+[![Battleship War Multiplayer](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Battleship War Multiplayer
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/battleship-war-multiplayer/)
+
+[![Basketball Smash](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Basketball Smash
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/basketball-smash/)
+
+[![Pixel Pipes](https://www.noticegames.com/content/themes/arcade-one-df/images/thumb-placeholder3.png)
+
+Pixel Pipes
+
+0 (0 Reviews)
+
+![](https://www.noticegames.com/content/themes/arcade-one-df/images/icon/play.svg)](https://www.noticegames.com/en/game/pixel-pipes/)
+
+![logo](https://noticegames.com/images/notice228x40-3.png)
+
+Welcome to NOTICE GAMES, your premier destination for a wide array of free online games. Whether you prefer solo adventures or multiplayer excitement with friends, we have you covered.
+
+### Our Network
+
+[Ecaps Games](https://ecapsgames.com/ "Ecaps Games")  
+[Play IO](https://playio.space/ "Play IO")  
+[247 Instants Games](https://247instantgames.com/ "247 Instants Games")  
+
+### Information
+
+[Contact Us](http://foxzin.com/page/contact-us "Contact Us")  
+[Faq](http://foxzin.com/page/faq "Faq")  
+
+Notice Games Copyright 2021 - 2024 | [Privacy policy](http://foxzin.com/page/privacy-policy "Privacy policy") V-1.9.0
