@@ -9,74 +9,8 @@
     * [Teachers](https://www.sentral.com.au/im-a-teacher)
     * [Administrators](https://www.sentral.com.au/im-an-administrator)
     * [School Leaders](https://www.sentral.com.au/im-a-senior-leader)
-    * [Solutions](https://www.sentral.com.au/overview) [ ] 
-        
-        * [Solution Menu](javascript:;)
-        
-        [#### Platform
-        
-        ![sentral-logo-75x75](https://www.sentral.com.au/hubfs/sentral-logo-75x75.png)
-        
-        PLATFORM OVERVIEW
-        
-        Everything your school requires in one place.](https://www.sentral.com.au/overview)
-        
-        [![partnership-140x140](https://www.sentral.com.au/hubfs/partnership-140x140.png)
-        
-        PARTNERS
-        
-        We value credibility, reputation and vision very highly, which is why we always choose to work with companies who hold those qualities in high regard.](https://www.sentral.com.au/partners)
-        
-        #### Education Management
-        
-        [![icon-wellbeing-1](https://www.sentral.com.au/hubfs/icon-wellbeing-1.svg)
-        
-        WELLBEING
-        
-        Gain a healthier student mindset in and out of the classroom with Sentral’s practical and helpful guidance.](https://www.sentral.com.au/wellbeing)
-        
-        [![icon-attendance-1](https://www.sentral.com.au/hubfs/icon-attendance-1.svg)
-        
-        ATTENDANCE
-        
-        Who’s here, who’s not and who’s that? Sentral’s module keeps you on top of student attendance and on-site visitors.](https://www.sentral.com.au/attendance)
-        
-        [![icon-assessment-1](https://www.sentral.com.au/hubfs/icon-assessment-1.svg)
-        
-        ASSESSMENT & REPORTING
-        
-        Track the entire journey of the student lifecycle quickly and accurately - all in one platform.](https://www.sentral.com.au/assessment-reporting)
-        
-        #### School Management
-        
-        [![icon-admin-1](https://www.sentral.com.au/hubfs/icon-admin-1.svg)
-        
-        ADMINISTRATION
-        
-        You’ll get a streamlined & holistic overview on all the key Administrative functions with Sentral.](https://www.sentral.com.au/administration)
-        
-        #### End-User Engagement
-        
-        [![icon-parents](https://www.sentral.com.au/hubfs/icon-parents.svg)
-        
-        PARENTS PORTAL & APP
-        
-        Keep the communication lines between parents and teachers open, timely and on-going to maintain strong relationships.](https://www.sentral.com.au/parents-portal)
-        
-        #### School Business Management
-        
-        [![icon-sentralpay](https://www.sentral.com.au/hubfs/icon-sentralpay.svg)
-        
-        SENTRAL PAY
-        
-        We know you want a safe & secure payment gateway, so let Sentral Pay keep you up-to-date on fees and billing automatically.](https://www.sentral.com.au/sentral-pay)
-        
-        [![icon-studentpayplus-circle](https://www.sentral.com.au/hubfs/StudentPayPlus/Icons/SVG/icon-studentpayplus-circle.svg)
-        
-        STUDENTPAYPLUS
-        
-        Sentral's convenient self-service online ordering system for canteens, uniforms and much more!](https://www.sentral.com.au/studentpayplus)
-        
+    * [Solutions](https://www.sentral.com.au/overview)
+    * [Partners](https://www.sentral.com.au/partners)
     * [Support](https://www.sentral.com.au/support)
     
 * [Parents](https://www.sentral.com.au/parents) [ ] 
@@ -603,7 +537,7 @@ Comprehensive, user-friendly, compliant & cost-saving. All the things you’d ex
 
 Learn more](https://www.sentral.com.au/im-a-senior-leader)
 
-![Sentral unified student & school management platform icon](https://www.sentral.com.au/hubfs/Group%20259.png)
+![sentral-diagram](https://www.sentral.com.au/hubfs/Sentral/Images/Webpage%20Images/2024/sentral-diagram.png)
 
 A Unified Platform for School Management
 ----------------------------------------
@@ -669,7 +603,7 @@ We know you want a safe & secure payment gateway, so let Sentral Pay keep you up
 Sentral’s new convenient self-service online  
 ordering system for canteens, uniforms and much more!
 
-* [SCHOOLS](javascript:;)
+* [SCHOOLS](https://www.sentral.com.au/im-a-teacher)
     * [Teachers](https://www.sentral.com.au/im-a-teacher)
     * [Administrators](https://www.sentral.com.au/im-an-administrator)
     * [School Leaders](https://www.sentral.com.au/im-a-senior-leader)
@@ -677,23 +611,24 @@ ordering system for canteens, uniforms and much more!
 * [CONTACT US](https://www.sentral.com.au/contact-us)
 * [SUPPORT](https://www.sentral.com.au/support)
 
-* [SOLUTIONS](javascript:;)
+* [SOLUTIONS](https://www.sentral.com.au/overview)
     * [Platform Overview](https://www.sentral.com.au/overview)
     * [Wellbeing](https://www.sentral.com.au/wellbeing)
     * [Attendance](https://www.sentral.com.au/attendance)
     * [Assessment & Reporting](https://www.sentral.com.au/assessment-reporting)
     * [Administration](https://www.sentral.com.au/administration)
     * [Parents Portal & App](https://www.sentral.com.au/parents-portal)
+    * [Teachers App](https://www.sentral.com.au/sentral-for-teachers-app)
     * [Sentral Pay](https://www.sentral.com.au/sentral-pay)
     * [StudentPayPlus](https://www.sentral.com.au/studentpayplus)
 
-* [PARENTS](javascript:;)
+* [PARENTS](https://www.sentral.com.au/parents)
     * [Sentral for Parents](https://www.sentral.com.au/parents)
     * [Getting Started](https://www.sentral.com.au/getting-started)
     * [Portal & App Help](https://www.sentral.com.au/portal-app-help)
     * [StudentPayPlus](https://www.sentral.com.au/studentpayplus)
 
-* [ABOUT US](javascript:;)
+* [ABOUT US](https://www.sentral.com.au/about-us)
     * [Company Overview](https://www.sentral.com.au/about-us)
     * [Customer Stories](https://www.sentral.com.au/about-us/customer-stories)
     * [Education Partners](https://www.sentral.com.au/education-partners)
