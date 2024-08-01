@@ -14,8 +14,6 @@
 2. [Privacy Statement](https://privacy.collegeboard.org/privacy-statement)
 3. Active Page: Access to Your Information and Data Retention
 
-[Back](#)
-
 Access to Your Information and Data Retention
 =============================================
 
