@@ -1,32 +1,32 @@
 [Skip to main content](#main-content)
 
-Up To 60% off Meloni's Must Haves DETAILS
+Summer Sale: Best Sellers BOGO Free! DETAILS
 
-\+ BOGO Free Compression Socks! DETAILS
+Save 40% on Mattresses! DETAILS
 
-MELONI'S MUST HAVES
-
-Close the Modal
-
-#### SAVE UP TO 60%
-
-[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
-
-Offer valid 7/26/2024 8AM ET - 7/29/2024 6AM ET.
-
-Up to 60% off Meloni's Must Haves discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-COMPRESSION SLEEVES
+BIG SUMMER SALE
 
 Close the Modal
 
-#### Buy 1 Get 1 Free Today!
+#### Mix & match or double up. The Best Sellers are buy one get one FREE!
 
-[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+[SHOP NOW](https://www.tommiecopper.com/special/best-sellers/)
 
-Offer valid 7/26/2024 8AM ET - 7/29/2024 6AM ET.
+Offer valid 8/1/2024 8AM EST - 8/5/2024 6AM EST.
 
-To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COPPER ZNERGY® MATTRESSES
+
+Close the Modal
+
+#### Save 4O% on Better Sleep!
+
+[SHOP NOW](https://www.tommiecopper.com/featured/sleep-solutions/)
+
+Offer valid 8/1/2024 8AM EST - 8/5/2024 6AM EST.
+
+40% off Mattresses discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
