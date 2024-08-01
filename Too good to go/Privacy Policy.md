@@ -72,6 +72,10 @@ Too Good To Go is a certified B Corp and social impact company.](https://toogood
 
 As a mission-driven company, we care about what we do and how we do it.](https://toogoodtogo.com/en-us/about-us/esg)
 
+[careers
+
+Discover our open positions and apply to work at Too Good To Go.](https://toogoodtogo.com/en-us/careers)
+
 [Impact Report
 
 Download our Impact Report and learn about how our collective efforts have made a difference throughout 2023.
