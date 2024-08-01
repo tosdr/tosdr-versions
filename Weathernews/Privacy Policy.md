@@ -26,7 +26,9 @@ Language
 
 [![](/assets/img/menu/esg_databook_2023_jp.png)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)
+ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
+
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)
 
 IR情報
 
@@ -34,9 +36,9 @@ IR情報
 
 [![](/assets/img/menu/menu_img_midterm.png)
 
-中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/esg_databook_2023_jp.png)
+中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_fr.png)
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.png)
 
 2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
 
@@ -76,15 +78,17 @@ Language
 
 [![](/assets/img/menu/esg_databook_2023_jp.png)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)
+ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
+
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)
 
 << 戻る[IR情報トップ](https://jp.weathernews.com/irinfo/)[経営方針](https://jp.weathernews.com/irinfo/management/)[業績ハイライト](https://jp.weathernews.com/irinfo/highlight/)[IRライブラリー](https://jp.weathernews.com/irinfo/library/)[IRイベント](https://jp.weathernews.com/irinfo/event/)
 
 [![](/assets/img/menu/menu_img_midterm.png)
 
-中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/esg_databook_2023_jp.png)
+中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/menu_img_corporate_report_2024.jpg)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_fr.png)
+Corporate Report 2024](https://jp.weathernews.com/wp-content/uploads/2024/07/CorporateReport2024_jpn.pdf)[![](/assets/img/menu/menu_img_fr.png)
 
 2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
 
