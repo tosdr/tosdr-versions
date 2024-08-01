@@ -76,19 +76,6 @@ Search
 
  
 
-Popular
-
-* [Pre-SOAPeD Outline](https://sickpatient.com/pre-soaped-outline/)
-* [Sympathetic Crashing Acute Pulmonary Edema](https://sickpatient.com/scape/)
-* [Sacred Cows Make the Best Hamburgers](https://sickpatient.com/burgers/)
-* [Pre-SOAPeD Documentation](https://sickpatient.com/documentation/)
-* [Asthma Algorithm](https://sickpatient.com/asthma-algorithm/)
-* [Key Points: Scene Safety and Force Protection in the Era of Ultra-Potent Opioids](https://sickpatient.com/key-points-scene-safety-and-force-protection-in-the-era-of-ultra-potent-opioids/)
-* [PCR: Penumonia](https://sickpatient.com/pcr-pneumonia/)
-* [PCR: Heart Block](https://sickpatient.com/pcr-heart-block/)
-* [Asthma](https://sickpatient.com/asthma/)
-* [About](https://sickpatient.com/about/)
-
 Categories
 
 * [Asthma](https://sickpatient.com/category/asthma/) (2)
