@@ -11,12 +11,6 @@ Product
 ![arrow navbar
 ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
 
-[![How Weglot works](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/664f04cd3804f9db2c4a5923_646b2d21df737f5a46f1cd89_Type%3DGear.svg)
-
-How Weglot works
-
-Learn how Weglot takes your website from 1 language to multiple, in minutes](https://weglot.com/features)
-
 [![Multilingual SEO](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d225f1e64b8c8500219_Type%3DTranslation.svg)
 
 Translation Quality
@@ -41,41 +35,62 @@ Website localization
 
 Explore how to localize your translated website for an enhanced customer journey with Weglot](https://weglot.com/localized-website)
 
-[![Nav bar integration ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
+[![Rocketship icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/66ab7d9af69d343870eaf87e_Fuse%CC%81e.svg)
+
+How it works
+
+Learn how Weglot takes your website from 1 language to multiple, in minutes](https://weglot.com/features)
 
 Integrations
 
-Weglot is compatible with all Content Management Systems, web technologies and tools.](https://weglot.com/integrations)
+![arrow navbar
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
+
+[![Wordpress logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613d67b20c15be68140_Clip%20path%20group.webp)](https://www.weglot.com/integrations/wordpress-translation-plugin)
+
+[![Shopify logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a61382ea92aee11d9fd2_Clip%20path%20group-1.webp)](https://www.weglot.com/integrations/shopify-translation-app)
+
+[![Wix logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613a9d6f93a4ded7137_Logo-Wix.webp)](https://www.weglot.com/integrations/wix-multilingual-website)
+
+[![Big commerce logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613516ae2398f01d36a_Logo-BigCommerce.webp)](https://www.weglot.com/integrations/translate-bigcommerce-website)
+
+[![Webflow logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a6d86423d97333559238_Clip%20path%20group.webp)](https://www.weglot.com/integrations/translate-webflow)
+
+[![Squarespace logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a6d8ad9cfd96214e82a2_Clip%20path%20group-3.webp)](https://www.weglot.com/integrations/translate-squarespace-website)
+
+[![Drupal logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a7244907827ae38553cd_Logo-Drupal.webp)](https://www.weglot.com/integrations/translate-your-drupal-website)
+
+[![Custom logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a7248b7be4d995900163_Clip%20path%20group.webp)](https://www.weglot.com/integrations/translate-website)
+
+[![Integrations icons weglot](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a89731e6427b983356e0_Frame%205139905.webp)
+
+Don’t see your integration?
+
+Weglot is compatible with all website technologies!
+
+See our integrations
+
+![arrow white
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697aa2868d3d7d70d7aa642_Vector.svg)](https://weglot.com/integrations)
+
+[Pricing](https://weglot.com/pricing)
 
 Solutions
 
 ![arrow navbar
 ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
 
+Industries & Use cases
+
 [![Ecommerce](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b4f6f0288e33b3585ed75_Icon.svg)
 
 Ecommerce
 
 Add new languages in minutes for an instantly translated store on autopilot](https://weglot.com/solutions/ecommerce-stores)
-
-[![Marketing
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21e3533311266a88fb_Type%3DMarketing.svg)
-
-Marketing
-
-Reach new audiences without sacrificing your team’s time](https://weglot.com/solutions/marketing-websites)
-
-[![Internal App](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d2123fd983a2c80b2b3_Type%3DInternal%20ap.svg)
-
-Internal App
-
-Translate your web applications and websites with our on-the-fly integration](https://weglot.com/solutions/private-app)
-
-[![Web agency](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d22622d18dbb86c4c9d_Type%3DWeb%20agency.svg)
-
-Web agency
-
-A simple, fast and reliable multilingual integration that seamlessly adapts to your workflow](https://weglot.com/solutions/web-agencies)
 
 [![Government](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21132e2a8cb84e543a_Type%3DGovernment.svg)
 
@@ -89,14 +104,41 @@ Education
 
 Give your students and their parents access to accurate and reliable information from your institution](https://weglot.com/solutions/education)
 
-[![Enterprise logo
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b5031a94bf985becdac37_Illustration%20Light%20Color.svg)
+[![Internal App icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c28ca2f9e9259650ac58_Icon.svg)
+
+Internal App
+
+Translate your web applications and websites with our on-the-fly integration](https://weglot.com/solutions/private-app)
+
+Teams
+
+[![Marketing
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21e3533311266a88fb_Type%3DMarketing.svg)
+
+Marketing
+
+Reach new audiences without sacrificing your team’s time](https://weglot.com/solutions/marketing-websites)
+
+[![Product & Dev icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c2b0955069d089110984_Cost%20calculator.svg)
+
+Product & Dev
+
+A developer’s look at how Weglot’s reverse proxy solution and JavaScript integration technically work](https://weglot.com/technical-presentation)
+
+[![Web agency](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d22622d18dbb86c4c9d_Type%3DWeb%20agency.svg)
+
+Web agency
+
+A simple, fast and reliable multilingual integration that seamlessly adapts to your workflow](https://weglot.com/solutions/web-agencies)
+
+[![Enterprise icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c2d1374fcbc71e82d9b7_Ordinateur.svg)
 
 Enterprise
 
 Discover a powerful and scalable website translation solution with advanced security, custom integrations, guaranteed uptime, and much more.](https://weglot.com/enterprise)
-
-[Customers](https://weglot.com/customers)[Pricing](https://weglot.com/pricing)
 
 Resources
 
@@ -150,11 +192,14 @@ Learn the key facts about localization and the impact of making a website multil
 
 Learn how to translate your entire website in a few easy steps](https://weglot.com/guide/translate-entire-website-online)
 
-[![Weglot Academy](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b5c0e15d3ea291dcb95b0_Illustration%20Light%20Color.svg)
+[![Customer stories icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a38c472266a557976291_648e10ff81aaaeede0e8808e_Illustration%20Light%20Color%20(1).svg)
 
-Weglot Academy
+Customer stories
 
-Learn the best website translation practices through our online courses and earn certificates!](https://weglot.com/academy)
+Discover the benefits of translating your website and start crossing borders today](https://weglot.com/customers)[Weglot Academy
+
+Learn the best website translation practices through our online courses!](https://weglot.com/academy)
 
 [Login](https://dashboard.weglot.com/login/)[Try for free](https://dashboard.weglot.com/register)
 
@@ -173,12 +218,6 @@ Product
 ![arrow navbar
 ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
 
-[![How Weglot works](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/664f04cd3804f9db2c4a5923_646b2d21df737f5a46f1cd89_Type%3DGear.svg)
-
-How Weglot works
-
-Learn how Weglot takes your website from 1 language to multiple, in minutes](https://weglot.com/features)
-
 [![Multilingual SEO](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d225f1e64b8c8500219_Type%3DTranslation.svg)
 
 Translation Quality
@@ -203,41 +242,62 @@ Website localization
 
 Explore how to localize your translated website for an enhanced customer journey with Weglot](https://weglot.com/localized-website)
 
-[![Nav bar integration ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
+[![Rocketship icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/66ab7d9af69d343870eaf87e_Fuse%CC%81e.svg)
+
+How it works
+
+Learn how Weglot takes your website from 1 language to multiple, in minutes](https://weglot.com/features)
 
 Integrations
 
-Weglot is compatible with all Content Management Systems, web technologies and tools.](https://weglot.com/integrations)
+![arrow navbar
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
+
+[![Wordpress logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613d67b20c15be68140_Clip%20path%20group.webp)](https://www.weglot.com/integrations/wordpress-translation-plugin)
+
+[![Shopify logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a61382ea92aee11d9fd2_Clip%20path%20group-1.webp)](https://www.weglot.com/integrations/shopify-translation-app)
+
+[![Wix logo
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613a9d6f93a4ded7137_Logo-Wix.webp)](https://www.weglot.com/integrations/wix-multilingual-website)
+
+[![Big commerce logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a613516ae2398f01d36a_Logo-BigCommerce.webp)](https://www.weglot.com/integrations/translate-bigcommerce-website)
+
+[![Webflow logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a6d86423d97333559238_Clip%20path%20group.webp)](https://www.weglot.com/integrations/translate-webflow)
+
+[![Squarespace logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a6d8ad9cfd96214e82a2_Clip%20path%20group-3.webp)](https://www.weglot.com/integrations/translate-squarespace-website)
+
+[![Drupal logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a7244907827ae38553cd_Logo-Drupal.webp)](https://www.weglot.com/integrations/translate-your-drupal-website)
+
+[![Custom logo](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a7248b7be4d995900163_Clip%20path%20group.webp)](https://www.weglot.com/integrations/translate-website)
+
+[![Integrations icons weglot](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a89731e6427b983356e0_Frame%205139905.webp)
+
+Don’t see your integration?
+
+Weglot is compatible with all website technologies!
+
+See our integrations
+
+![arrow white
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697aa2868d3d7d70d7aa642_Vector.svg)](https://weglot.com/integrations)
+
+[Pricing](https://weglot.com/pricing)
 
 Solutions
 
 ![arrow navbar
 ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646343df6afc95b84af2d360_Vector.svg)
 
+Industries & Use cases
+
 [![Ecommerce](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b4f6f0288e33b3585ed75_Icon.svg)
 
 Ecommerce
 
 Add new languages in minutes for an instantly translated store on autopilot](https://weglot.com/solutions/ecommerce-stores)
-
-[![Marketing
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21e3533311266a88fb_Type%3DMarketing.svg)
-
-Marketing
-
-Reach new audiences without sacrificing your team’s time](https://weglot.com/solutions/marketing-websites)
-
-[![Internal App](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d2123fd983a2c80b2b3_Type%3DInternal%20ap.svg)
-
-Internal App
-
-Translate your web applications and websites with our on-the-fly integration](https://weglot.com/solutions/private-app)
-
-[![Web agency](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d22622d18dbb86c4c9d_Type%3DWeb%20agency.svg)
-
-Web agency
-
-A simple, fast and reliable multilingual integration that seamlessly adapts to your workflow](https://weglot.com/solutions/web-agencies)
 
 [![Government](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21132e2a8cb84e543a_Type%3DGovernment.svg)
 
@@ -251,14 +311,41 @@ Education
 
 Give your students and their parents access to accurate and reliable information from your institution](https://weglot.com/solutions/education)
 
-[![Enterprise logo
-](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b5031a94bf985becdac37_Illustration%20Light%20Color.svg)
+[![Internal App icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c28ca2f9e9259650ac58_Icon.svg)
+
+Internal App
+
+Translate your web applications and websites with our on-the-fly integration](https://weglot.com/solutions/private-app)
+
+Teams
+
+[![Marketing
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d21e3533311266a88fb_Type%3DMarketing.svg)
+
+Marketing
+
+Reach new audiences without sacrificing your team’s time](https://weglot.com/solutions/marketing-websites)
+
+[![Product & Dev icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c2b0955069d089110984_Cost%20calculator.svg)
+
+Product & Dev
+
+A developer’s look at how Weglot’s reverse proxy solution and JavaScript integration technically work](https://weglot.com/technical-presentation)
+
+[![Web agency](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b2d22622d18dbb86c4c9d_Type%3DWeb%20agency.svg)
+
+Web agency
+
+A simple, fast and reliable multilingual integration that seamlessly adapts to your workflow](https://weglot.com/solutions/web-agencies)
+
+[![Enterprise icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697c2d1374fcbc71e82d9b7_Ordinateur.svg)
 
 Enterprise
 
 Discover a powerful and scalable website translation solution with advanced security, custom integrations, guaranteed uptime, and much more.](https://weglot.com/enterprise)
-
-[Customers](https://weglot.com/customers)[Pricing](https://weglot.com/pricing)
 
 Resources
 
@@ -312,11 +399,14 @@ Learn the key facts about localization and the impact of making a website multil
 
 Learn how to translate your entire website in a few easy steps](https://weglot.com/guide/translate-entire-website-online)
 
-[![Weglot Academy](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/646b5c0e15d3ea291dcb95b0_Illustration%20Light%20Color.svg)
+[![Customer stories icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/6697a38c472266a557976291_648e10ff81aaaeede0e8808e_Illustration%20Light%20Color%20(1).svg)
 
-Weglot Academy
+Customer stories
 
-Learn the best website translation practices through our online courses and earn certificates!](https://weglot.com/academy)
+Discover the benefits of translating your website and start crossing borders today](https://weglot.com/customers)[Weglot Academy
+
+Learn the best website translation practices through our online courses!](https://weglot.com/academy)
 
 [Login](https://dashboard.weglot.com/login/)[Try for free](https://dashboard.weglot.com/register)
 
