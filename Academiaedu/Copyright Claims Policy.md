@@ -6,6 +6,8 @@ Academia.edu no longer supports Internet Explorer.
 
 To browse Academia.edu and the wider internet faster and more securely, please take a few seconds to [upgrade your browser](https://www.academia.edu/upgrade-browser).
 
+Academia.edu uses cookies to personalize content, tailor ads and improve the user experience. By using our site, you agree to our collection of information through the use of cookies. To learn more, view our [Privacy Policy](https://www.academia.edu/privacy).×
+
 [![Academia.edu](//a.academia-assets.com/images/academia-logo-redesign-2015-A.svg)![Academia.edu](//a.academia-assets.com/images/academia-logo-redesign-2015.svg)](https://www.academia.edu/)
 
 * [Log In](https://www.academia.edu/login)
@@ -17,6 +19,7 @@ To browse Academia.edu and the wider internet faster and more securely, please t
 * * [About](https://www.academia.edu/about)
     * [Press](https://www.academia.edu/press)
     * [Blog](https://medium.com/@academia)
+    * [People](https://www.academia.edu/Directory/People)
     * [Papers](https://www.academia.edu/documents)
     * [Terms](https://www.academia.edu/terms)
     * [Privacy](https://www.academia.edu/privacy)
@@ -147,6 +150,7 @@ Need an account? [Click here to sign up](https://www.academia.edu/signup)
 * [About](https://www.academia.edu/about)
 * [Press](https://www.academia.edu/press)
 * [Blog](https://medium.com/academia)
+* [People](https://www.academia.edu/Directory/People)
 * [Papers](https://www.academia.edu/documents)
 * [Topics](https://www.academia.edu/topics)
 * [Academia.edu Journals](https://www.academia.edu/journals)
