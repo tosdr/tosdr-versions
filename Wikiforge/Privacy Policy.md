@@ -14,7 +14,7 @@ Toggle menu
 
 733
 
-602
+600
 
 ![WikiForge Hub](https://static.wikiforge.net/hubwiki/0/0d/WikiForge_wordmark.png)
 
