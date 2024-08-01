@@ -8,7 +8,7 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![Acton Annual Dinner 2024 Mobile Banner](https://www.acton.org/sites/default/files/ad/mobile.jpg)](https://www.acton.org/dinner)
+[![Sirico Parables book](https://www.acton.org/sites/default/files/banner/jl/hong-konger-mobile-banner.jpg)](https://www.youtube.com/watch?v=bRkuv-fOV7k)
 
 Close
 
@@ -81,9 +81,9 @@ Acton Main Megamenu
 * [Shop](https://shop.acton.org/)
 * [Donate](https://give.acton.org/)
 
-![](https://www.acton.org/sites/default/files/ad/annual-dinner-text.png)
+![](https://www.acton.org/sites/default/files/banner/jl/Hong-Konger-now-streaming.png)
 
-[![](https://www.acton.org/sites/default/files/ad/annual-dinner-button2.png)](https://www.acton.org/dinner)
+[![](https://www.acton.org/sites/default/files/banner/jl/Hong-Konger-watch-now-button.png)](https://www.youtube.com/watch?v=bRkuv-fOV7k)
 
 Privacy Policy & Terms of Use
 =============================
