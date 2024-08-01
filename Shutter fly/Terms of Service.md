@@ -10,6 +10,8 @@
 * [Our Commitments](#)Open menu
     * [Purpose & Impact](https://shutterflyinc.com/purpose-and-impact/)
     * [Open Door Project](https://shutterflyinc.com/open-door-project/)
+        * [Friendship Day](https://shutterflyinc.com/friendship-day/)
+        * [The Power of Inclusion](https://shutterflyinc.com/shutterfly-open-door-project/)
 * [Careers](#)Open menu
     * [Overview](https://shutterflyinc.com/career-overview/)
     * [Benefits](https://shutterflyinc.com/benefits/)
