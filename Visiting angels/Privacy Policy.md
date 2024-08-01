@@ -10,10 +10,6 @@
 
 [800-365-4189](tel:+18003654189)
 
-Where is care needed?
-
- 
-
 SEARCH  Submit
 
 * [Find Home Care](https://www.visitingangels.com/office-locator)
@@ -123,16 +119,6 @@ SEARCH  Submit
     
 * [Knowledge Center](https://www.visitingangels.com/knowledge-center)
 * [Caregiver Jobs](https://www.visitingangels.com/employment)
-
-Where is In-Home Senior Care Needed? Find care for your loved one Where is care needed for your loved one?
-
-Enter zip code where care is needed:
-
-or
-
-Select the state where care is needed:
-
-State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
 
 Data Protection Policy
 ======================
@@ -257,41 +243,6 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
 \*Each Visiting Angels agency is a franchise that is independently owned and operated. The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
-#### Knowledge Center
-
- related  categories
-
-[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
-
-[Finding the Brighter Side of Elderly Care](https://www.visitingangels.com/knowledge-center/why-in-home-care/finding-the-brighter-side-of-elderly-care/472)
-
-[Taking the Keys Away from Dad](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/taking-the-keys-away-from-dad/435)
-
-[Activities That Stimulate Your Aging Senior’s Brain](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/activities-that-stimulate-your-aging-seniors-brain/381)
-
-[What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
-
-* [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
-* [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
-* [Why In-Home Care](https://www.visitingangels.com/knowledge-center/why-in-home-care)
-* [Preparing Loved Ones](https://www.visitingangels.com/knowledge-center/preparing-loved-ones)
-* [Senior Health & Well-Being](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being)
-* [Family Caregiver Support](https://www.visitingangels.com/knowledge-center/family-caregiver-support)
-
-[![Contact us for homecare services](https://cdn.visitingangels.com/images/LCKC-CTA-images/LCKC-CTA-homecare-services-contact.png)
-
-![Contact us for homecare services](https://cdn.visitingangels.com/images/LCKC-CTA-images/LCKC-CTA-homecare-services-contact.png)](https://www.visitingangels.com/contact-us)
-
-##### Subscribe to get the resources designed to help your loved one live at home.
-
-  
-
-Get Started Today
-
-Contact a franchised Visiting Angels office in your area for information on elderly home care services.
-
-[Find our office near you.](https://www.visitingangels.com/office-locator)
-
 [![Our Affiliate](https://cdn.visitingangels.com/images/footer-memory-screen.png)](https://alzfdn.org/memory-screening/)
 
 [![Our Affiliate](https://cdn.visitingangels.com/images/alz-walk.png)](https://act.alz.org/site/TR?company_id=1266&pg=national_company&pw_id=14568)
@@ -362,7 +313,7 @@ Not all services are available at all locations. Please check with your [local a
 
 [Living Assistance Services, Inc. Copyright® 2024](https://www.livingassistance.com/ "senior home care franchise opportunities") 937 Haverford Road Suite 200 Bryn Mawr PA 19010 [1-800-365-4189](tel: 1-800-365-4189 "1 800 number")
 
-Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.Release.ReleaseId  
+Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.5468  
 The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
 [PORTAL](https://arc.franconnect.net/fc/)
