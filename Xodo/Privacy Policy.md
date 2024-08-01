@@ -6,95 +6,95 @@ Tools
 
 Convert from PDF
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-jpg.svg)PDF to JPG](https://www.xodo.com/pdf-to-jpg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-jpg.svg)PDF to JPG](https://www.xodo.com/pdf-to-jpg)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-png.svg)PDF to PNG](https://www.xodo.com/pdf-to-png)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-png.svg)PDF to PNG](https://www.xodo.com/pdf-to-png)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-pdfa.svg)PDF to PDF/A](https://www.xodo.com/pdf-to-pdfa)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-pdfa.svg)PDF to PDF/A](https://www.xodo.com/pdf-to-pdfa)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-doc.svg)PDF to Word](https://www.xodo.com/pdf-to-word-converter)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-doc.svg)PDF to Word](https://www.xodo.com/pdf-to-word-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-ppt.svg)PDF to PowerPoint](https://www.xodo.com/pdf-to-powerpoint-converter)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-ppt.svg)PDF to PowerPoint](https://www.xodo.com/pdf-to-powerpoint-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-excel.svg)PDF to Excel](https://www.xodo.com/pdf-to-excel-converter)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-excel.svg)PDF to Excel](https://www.xodo.com/pdf-to-excel-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-html.svg)PDF to HTML](https://www.xodo.com/convert-pdf-to-html)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-html.svg)PDF to HTML](https://www.xodo.com/convert-pdf-to-html)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-text.svg)PDF to Text](https://www.xodo.com/pdf-to-text)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-text.svg)PDF to Text](https://www.xodo.com/pdf-to-text)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)HEIC to JPG](https://www.xodo.com/heic-to-jpg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)HEIC to JPG](https://www.xodo.com/heic-to-jpg)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)HEIC to PNG](https://www.xodo.com/heic-to-png)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)HEIC to PNG](https://www.xodo.com/heic-to-png)
 
 Convert to PDF
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/jpg-to-pdf.svg)JPG to PDF](https://www.xodo.com/convert-jpg-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/jpg-to-pdf.svg)JPG to PDF](https://www.xodo.com/convert-jpg-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/png-to-pdf.svg)PNG to PDF](https://www.xodo.com/png-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/png-to-pdf.svg)PNG to PDF](https://www.xodo.com/png-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/doc-to-pdf.svg)Word to PDF](https://www.xodo.com/word-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/doc-to-pdf.svg)Word to PDF](https://www.xodo.com/word-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/excel-to-pdf.svg)Excel to PDF](https://www.xodo.com/excel-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/excel-to-pdf.svg)Excel to PDF](https://www.xodo.com/excel-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/ppt-to-pdf.svg)PowerPoint to PDF](https://www.xodo.com/powerpoint-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/ppt-to-pdf.svg)PowerPoint to PDF](https://www.xodo.com/powerpoint-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/dicom-to-pdf.svg)DICOM to PDF](https://www.xodo.com/dicom-convert)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/dicom-to-pdf.svg)DICOM to PDF](https://www.xodo.com/dicom-convert)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)HEIC to PDF](https://www.xodo.com/heic-to-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)HEIC to PDF](https://www.xodo.com/heic-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-converter.svg)PDF Converter](https://www.xodo.com/pdf-converter)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-converter.svg)PDF Converter](https://www.xodo.com/pdf-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/png-ocr.svg)OCR Converter](https://www.xodo.com/ocr)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/png-ocr.svg)OCR Converter](https://www.xodo.com/ocr)
 
 Organize
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/split-pdf.svg)Split PDF](https://www.xodo.com/split-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/split-pdf.svg)Split PDF](https://www.xodo.com/split-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/merge-pdf.svg)Merge PDF](https://www.xodo.com/merge-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/merge-pdf.svg)Merge PDF](https://www.xodo.com/merge-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/delete-page.svg)Delete Pages](https://www.xodo.com/delete-pages-from-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/delete-page.svg)Delete Pages](https://www.xodo.com/delete-pages-from-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/rotate-page.svg)Rotate PDF](https://www.xodo.com/rotate-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/rotate-page.svg)Rotate PDF](https://www.xodo.com/rotate-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/rearrange-page.svg)Rearrange PDF](https://www.xodo.com/rearrange-pdf-pages)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/rearrange-page.svg)Rearrange PDF](https://www.xodo.com/rearrange-pdf-pages)
 
 Edit
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/view.svg)PDF Editor](https://www.xodo.com/pdf-editor)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/view.svg)PDF Editor](https://www.xodo.com/pdf-editor)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-annotator.svg)Annotate PDF](https://www.xodo.com/pdf-annotator)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-annotator.svg)Annotate PDF](https://www.xodo.com/pdf-annotator)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/docx-editor.svg)DOCX Editor](https://www.xodo.com/docx-word-editor)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/docx-editor.svg)DOCX Editor](https://www.xodo.com/docx-word-editor)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/redact.svg)Redact PDF](https://www.xodo.com/redact-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/redact.svg)Redact PDF](https://www.xodo.com/redact-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/crop-pdf.svg)Crop PDF](https://www.xodo.com/crop-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/crop-pdf.svg)Crop PDF](https://www.xodo.com/crop-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/compress.svg)Compress PDF](https://www.xodo.com/compress-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/compress.svg)Compress PDF](https://www.xodo.com/compress-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/fill-pdf-form.svg)Fill in PDF Forms](https://www.xodo.com/fill-pdf-form)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/fill-pdf-form.svg)Fill in PDF Forms](https://www.xodo.com/fill-pdf-form)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/sign-pdf.svg)Sign PDF](https://www.xodo.com/sign-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/sign-pdf.svg)Sign PDF](https://www.xodo.com/sign-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/edit-pdf.svg)Edit PDF Text](https://www.xodo.com/edit-pdf-text)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/edit-pdf.svg)Edit PDF Text](https://www.xodo.com/edit-pdf-text)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/flatten-pdf.svg)Flatten PDF](https://www.xodo.com/flatten-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/flatten-pdf.svg)Flatten PDF](https://www.xodo.com/flatten-pdf)
 
 View
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/view.svg)PDF Reader](https://www.xodo.com/pdf-viewer)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/view.svg)PDF Reader](https://www.xodo.com/pdf-viewer)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/doc-view.svg)Office Viewer](https://www.xodo.com/office-viewer)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/doc-view.svg)Office Viewer](https://www.xodo.com/office-viewer)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdfa-analysis.svg)Validate PDF/A](https://www.xodo.com/validate-pdfa)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdfa-analysis.svg)Validate PDF/A](https://www.xodo.com/validate-pdfa)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/convert.svg)Text Compare](https://www.xodo.com/text-compare)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/convert.svg)Text Compare](https://www.xodo.com/text-compare)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/convert.svg)PDF Compare](https://www.xodo.com/pdf-compare)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/convert.svg)PDF Compare](https://www.xodo.com/pdf-compare)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/ask-pdf.svg)AskPDF](https://www.xodo.com/ask-pdf)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/ask-pdf.svg)AskPDF](https://www.xodo.com/ask-pdf)
 
-[Industries](https://www.xodo.com/industries)[Pricing](https://www.xodo.com/pricing)Start Free Trial
+[Industries](https://www.xodo.com/industries)[Business](https://www.xodo.com/business)[Pricing](https://www.xodo.com/pricing)Start Free Trial
 
 PDF StudioNew
 
@@ -412,171 +412,171 @@ Essential Tools for Your Workflow
 
 Convert from PDF
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-jpg.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-jpg.svg)
 
 PDF to JPG](https://www.xodo.com/pdf-to-jpg)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-png.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-png.svg)
 
 PDF to PNG](https://www.xodo.com/pdf-to-png)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-pdfa.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-pdfa.svg)
 
 PDF to PDF/A](https://www.xodo.com/pdf-to-pdfa)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-doc.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-doc.svg)
 
 PDF to Word](https://www.xodo.com/pdf-to-word-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-ppt.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-ppt.svg)
 
 PDF to PowerPoint](https://www.xodo.com/pdf-to-powerpoint-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-excel.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-excel.svg)
 
 PDF to Excel](https://www.xodo.com/pdf-to-excel-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-html.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-html.svg)
 
 PDF to HTML](https://www.xodo.com/convert-pdf-to-html)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-to-text.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-to-text.svg)
 
 PDF to Text](https://www.xodo.com/pdf-to-text)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)
 
 HEIC to JPG](https://www.xodo.com/heic-to-jpg)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)
 
 HEIC to PNG](https://www.xodo.com/heic-to-png)
 
 Convert to PDF
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/jpg-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/jpg-to-pdf.svg)
 
 JPG to PDF](https://www.xodo.com/convert-jpg-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/png-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/png-to-pdf.svg)
 
 PNG to PDF](https://www.xodo.com/png-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/doc-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/doc-to-pdf.svg)
 
 Word to PDF](https://www.xodo.com/word-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/excel-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/excel-to-pdf.svg)
 
 Excel to PDF](https://www.xodo.com/excel-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/ppt-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/ppt-to-pdf.svg)
 
 PowerPoint to PDF](https://www.xodo.com/powerpoint-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/dicom-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/dicom-to-pdf.svg)
 
 DICOM to PDF](https://www.xodo.com/dicom-convert)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/heic-to-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/heic-to-pdf.svg)
 
 HEIC to PDF](https://www.xodo.com/heic-to-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-converter.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-converter.svg)
 
 PDF Converter](https://www.xodo.com/pdf-converter)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/png-ocr.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/png-ocr.svg)
 
 OCR Converter](https://www.xodo.com/ocr)
 
 Organize
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/split-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/split-pdf.svg)
 
 Split PDF](https://www.xodo.com/split-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/merge-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/merge-pdf.svg)
 
 Merge PDF](https://www.xodo.com/merge-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/delete-page.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/delete-page.svg)
 
 Delete Pages](https://www.xodo.com/delete-pages-from-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/rotate-page.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/rotate-page.svg)
 
 Rotate PDF](https://www.xodo.com/rotate-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/rearrange-page.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/rearrange-page.svg)
 
 Rearrange PDF](https://www.xodo.com/rearrange-pdf-pages)
 
 Edit
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/view.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/view.svg)
 
 PDF Editor](https://www.xodo.com/pdf-editor)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdf-annotator.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdf-annotator.svg)
 
 Annotate PDF](https://www.xodo.com/pdf-annotator)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/docx-editor.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/docx-editor.svg)
 
 DOCX Editor](https://www.xodo.com/docx-word-editor)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/redact.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/redact.svg)
 
 Redact PDF](https://www.xodo.com/redact-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/crop-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/crop-pdf.svg)
 
 Crop PDF](https://www.xodo.com/crop-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/compress.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/compress.svg)
 
 Compress PDF](https://www.xodo.com/compress-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/fill-pdf-form.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/fill-pdf-form.svg)
 
 Fill in PDF Forms](https://www.xodo.com/fill-pdf-form)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/sign-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/sign-pdf.svg)
 
 Sign PDF](https://www.xodo.com/sign-pdf)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/edit-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/edit-pdf.svg)
 
 Edit PDF Text](https://www.xodo.com/edit-pdf-text)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/flatten-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/flatten-pdf.svg)
 
 Flatten PDF](https://www.xodo.com/flatten-pdf)
 
 View
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/view.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/view.svg)
 
 PDF Reader](https://www.xodo.com/pdf-viewer)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/doc-view.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/doc-view.svg)
 
 Office Viewer](https://www.xodo.com/office-viewer)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/pdfa-analysis.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/pdfa-analysis.svg)
 
 Validate PDF/A](https://www.xodo.com/validate-pdfa)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/convert.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/convert.svg)
 
 Text Compare](https://www.xodo.com/text-compare)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/convert.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/convert.svg)
 
 PDF Compare](https://www.xodo.com/pdf-compare)
 
-[![](https://cdn.xodo.com/19.27.0/public/img/tools/ask-pdf.svg)
+[![](https://cdn.xodo.com/19.28.0/public/img/tools/ask-pdf.svg)
 
 AskPDF](https://www.xodo.com/ask-pdf)
 
@@ -596,13 +596,13 @@ Company
 
 powered\_by [footer.powered\_by\_short](https://apryse.com/), footer.powered\_by\_follow\_up [footer.powered\_by\_pdf\_sdk](https://apryse.com/products/core-sdk/pdf)
 
-[![Download Xodo Chrome extension](https://cdn.xodo.com/19.27.0/public/img/chrome-web-store.svg)](https://chrome.google.com/webstore/detail/pdfonline-pdf-editor-conv/lpkaodjnpmklkcjlchephbdfoaeliohm?hl=en&authuser=0)
+[![Download Xodo Chrome extension](https://cdn.xodo.com/19.28.0/public/img/chrome-web-store.svg)](https://chrome.google.com/webstore/detail/pdfonline-pdf-editor-conv/lpkaodjnpmklkcjlchephbdfoaeliohm?hl=en&authuser=0)
 
-[![Download Xodo Android app](https://cdn.xodo.com/19.27.0/public/img/google-play.svg)](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en_CA&gl=US)
+[![Download Xodo Android app](https://cdn.xodo.com/19.28.0/public/img/google-play.svg)](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader&hl=en_CA&gl=US)
 
-[![Download Xodo iOS app](https://cdn.xodo.com/19.27.0/public/img/apple-store.svg)](https://apps.apple.com/ca/app/xodo-pdf/id805075929)
+[![Download Xodo iOS app](https://cdn.xodo.com/19.28.0/public/img/apple-store.svg)](https://apps.apple.com/ca/app/xodo-pdf/id805075929)
 
-[![Download Xodo Windows app](https://cdn.xodo.com/19.27.0/public/img/ms-store.svg)](https://getpdfstudio.xodo.com/xodopdfstudio/XodoPDFStudio_win64.exe)
+[![Download Xodo Windows app](https://cdn.xodo.com/19.28.0/public/img/ms-store.svg)](https://getpdfstudio.xodo.com/xodopdfstudio/XodoPDFStudio_win64.exe)
 
 EnglishEspañolFrançaisDeutschItalianoPortuguêsNederlandsΕλληνικάTürkçeРусскийУкраїнськаBahasa IndonesiaBahasa Melayuবাংলাहिन्दी日本語简体中文繁體中文
 
