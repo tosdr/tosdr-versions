@@ -42,7 +42,7 @@ In 2020, Teachit became part of Sandbox Learning Limited.
 
 The separate and distinct legal entities that make up Sandbox Learning Limited and Teachit (referred to collectively as “Teachit”, “we”, “us” or “our” in this privacy notice) that are responsible for your personal data include:
 
-* Sandbox Learning Limited (registered office: Springfield House c/o Kumar & Co Chartered Accountants, 23 Oatlands Drive, Weybridge, Surrey, England, KT13 9LZ)
+* Sandbox Learning Limited (registered office: 6th floor, Capital Tower, 91 Waterloo Road, London SE1 8RT).
 * TeacherVision (PO Box 51660, Boston, MA 02205, USA)
 
 This also includes any other businesses we may add to this group in the future. If you would like more information about which company you’re dealing with, please refer to the terms and conditions of the product or service you’re using.
@@ -241,4 +241,4 @@ If you have any questions or concerns about the way in which we collect, hold or
 
 You can contact the Data Protection Officer at [dpo@teachit.co.uk](mailto:dpo@teachit.co.uk?subject=Teachit%20GDPR%20enquiry).
 
-**Last Updated December 2023.**
+**Last Updated July 2024.**
