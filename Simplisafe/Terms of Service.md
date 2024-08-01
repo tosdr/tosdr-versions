@@ -270,31 +270,31 @@ Submit
 You may receive email offers from us in accordance with our [Privacy Policy](https://simplisafe.com/privacy-policy).
 
 * Shop
-    * [Security Systems](https://simplisafe.com/home-security-shop)
-    * [Custom Build](https://simplisafe.com/build-my-system)
+    * [Meet The System](https://simplisafe.com/meet-the-system)
     * [Outdoor Security Camera](https://simplisafe.com/outdoor-security-camera)
     * [Indoor Camera](https://simplisafe.com/smart-alarm-wireless-indoor-camera)
+    * [Smart Lock](https://simplisafe.com/smart-lock)
     * [Video Doorbell Pro](https://simplisafe.com/video-doorbell-pro)
-    * [Bell Box](https://simplisafe.com/bell-box)
-    * [Add to Your System](https://simplisafe.com/alarm-sensors)
+    * [Protectors Discount](https://simplisafe.com/protectors)
+    * [Expand My System](https://simplisafe.com/alarm-sensors)
 * Company
-    * [Reviews](https://simplisafe.com/reviews)
-    * [Blog](https://simplisafe.com/blog)
-    * [Crime in the UK](https://simplisafe.com/crime-in-the-uk)
+    * [Privacy Promise](https://simplisafe.com/privacy)
+    * [Careers](https://careers.simplisafe.com/)
+    * [Press Kit](https://press.simplisafe.com/)
     * [Partner with Us](https://simplisafe.com/partner-with-us)
-    * [Careers](https://careers.simplisafe.com/uk)
-    * [Press Kit](https://simplisafe.com/press-kit)
-    * [Neighbourhood Watch](https://simplisafe.com/blog/simplisafe-announces-neighbourhood-watch-as-its-new-charity-partner)
-    * [Refer a friend](https://simplisafe.com/refer-a-friend)
+    * [Locations](https://simplisafe.com/location)
+    * [Blog](https://simplisafe.com/blog)
 * Support
     * [Contact Us](https://simplisafe.com/contact-us)
     * [Help Center](https://support.simplisafe.com/hc/en-us)
-    * [Moving home?](https://simplisafe.com/home-movers-hub)
-    * [0800-456-1789](tel:0800-456-1789)
+    * [User Manuals](https://simplisafe.com/manual)
+    * [888-910-1458](tel:888-910-1458)
+    * [Reviews](https://simplisafe.com/reviews)
 * Legal
     * [Legal](https://simplisafe.com/legal)
     * [Privacy Policy](https://simplisafe.com/privacy-policy)
-    * [Cookies](https://simplisafe.com/privacy-policy#cookies)
+    * [State Licensing](https://simplisafe.com/licenses)
+    * [Accessibility Statement](https://simplisafe.com/accessibility_statement)
 
 Current country is:
 
@@ -345,18 +345,18 @@ USA
     
       United States](https://simplisafe.com/)
 
-© 2022 SimpliSafe, Ltd.
+© 2022 SimpliSafe, Inc.
 
 * [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='128'%20width='128'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
     
     ![Icon Twitter](https://images.ctfassets.net/v6awd0kabi65/6mQNXJicH3fux0NFaL7IE9/a0a621d29b4c18c270db600e13f43464/footer_twitter-logo.png?w=128&h=128&q=50&fm=png)
     
-    ![Icon Twitter](https://images.ctfassets.net/v6awd0kabi65/6mQNXJicH3fux0NFaL7IE9/a0a621d29b4c18c270db600e13f43464/footer_twitter-logo.png?w=128&h=128&q=50&fm=png)](https://twitter.com/Simplisafe_UK)
+    ![Icon Twitter](https://images.ctfassets.net/v6awd0kabi65/6mQNXJicH3fux0NFaL7IE9/a0a621d29b4c18c270db600e13f43464/footer_twitter-logo.png?w=128&h=128&q=50&fm=png)](https://twitter.com/simplisafe)
 * [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='128'%20width='128'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
     
     ![Icon Facebook](https://images.ctfassets.net/v6awd0kabi65/5EIPbWqI2Us8REZdGWfiF1/7dc7e3b359421bf112efa2cfa3ada3d5/footer_facebook-logo.png?w=128&h=128&q=50&fm=png)
     
-    ![Icon Facebook](https://images.ctfassets.net/v6awd0kabi65/5EIPbWqI2Us8REZdGWfiF1/7dc7e3b359421bf112efa2cfa3ada3d5/footer_facebook-logo.png?w=128&h=128&q=50&fm=png)](https://www.facebook.com/SimpliSafeUK)
+    ![Icon Facebook](https://images.ctfassets.net/v6awd0kabi65/5EIPbWqI2Us8REZdGWfiF1/7dc7e3b359421bf112efa2cfa3ada3d5/footer_facebook-logo.png?w=128&h=128&q=50&fm=png)](https://www.facebook.com/SimpliSafe)
 * [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='128'%20width='128'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
     
     ![Icon Youtube](https://images.ctfassets.net/v6awd0kabi65/4IXB3UVo3SrhoRFXXhm4VY/c5807ef1c12f30bfc0a56f93c846ca74/footer_youtube-logo.png?w=128&h=128&q=50&fm=png)
@@ -364,7 +364,8 @@ USA
     ![Icon Youtube](https://images.ctfassets.net/v6awd0kabi65/4IXB3UVo3SrhoRFXXhm4VY/c5807ef1c12f30bfc0a56f93c846ca74/footer_youtube-logo.png?w=128&h=128&q=50&fm=png)](https://www.youtube.com/channel/UCJwuGzZokYefxt8LYjW8BDA)
 
 * [Legal](https://simplisafe.com/legal)
-* [Privacy](https://simplisafe.com/privacy-policy)
-* [Cookies](https://simplisafe.com/privacy-policy#cookies)
+* [Privacy Policy](https://simplisafe.com/privacy-policy)
+* [State Licensing](https://simplisafe.com/licenses)
+* [Accessibility Statement](https://simplisafe.com/accessibility_statement)
 
-Update Cookie Preferences
+Do Not Sell My Personal Information
