@@ -2,7 +2,7 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-We are currently experiencing high call volumes. Please only call if you are travelling within the next 72 hours.
+_We are currently experiencing high call volumes._
 
 Close
 
@@ -20,13 +20,16 @@ Menu
 
 Search
 
-* [Flights](https://www.westjet.com/en-ca/flights)
+* Flights
+    * [Find Flights](https://www.westjet.com/en-ca/flights)
+    * [Direct Flights](https://www.westjet.com/en-ca/flights/direct-flights)
+    * [Route Map](https://www.westjet.com/en-ca/flights/route-map)
+    * [Best of Travel](https://www.westjet.com/en-ca/best-of-travel)
 * [Vacations](https://www.westjet.com/en-ca/vacations)
 * Offers
     
     * [Sales, deals and offers](https://www.westjet.com/en-ca/deals)
     * [Vacation Package offers](https://www.westjet.com/en-ca/vacations/offers)
-    * [Best of Travel](https://www.westjet.com/en-ca/best-of-travel)
     * [WestJet Rewards offers](https://www.westjet.com/en-ca/rewards/offers)
     
 * Manage trips
