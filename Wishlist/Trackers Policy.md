@@ -1,10 +1,10 @@
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407241449)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407301835)](https://www.wishlist.com/home)
 
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407241449)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202407241449)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407301835)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202407301835)](https://www.wishlist.com/home)
 
 * [Sign up](https://www.wishlist.com/joinwishlist?clear=1)
 * [Shop](https://www.wishlist.com/shop)
-* [Find Someone](https://www.wishlist.com/findWishlists)
+* [Find WishList](https://www.wishlist.com/findWishlists)
 * [My WishList](https://www.wishlist.com/mywishlists)
 * [Create](https://www.wishlist.com/create)
 * [Info](javascript:void(0);)
