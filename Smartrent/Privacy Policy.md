@@ -476,7 +476,7 @@ Suite 200
 
 [Company](https://smartrent.com/about-us/)
 
-[About Us](https://smartrent.com/about-us/)[Careers](https://smartrent.com/careers/)[News](https://smartrent.com/news/)[Security & Data Privacy](https://smartrent.com/data-security-privacy/)[Support](https://smartrent.com/support/)[Investors](https://investors.smartrent.com/overview/default.aspx)Manage Cookie Preferences[Media Kit](https://res.cloudinary.com/smartrent-com/image/upload/v1713977372/pages/footer/SmartRent_Media_Kit_April_2024_hp75iq.pdf)
+[About Us](https://smartrent.com/about-us/)[Careers](https://smartrent.com/careers/)[News](https://smartrent.com/news/)[Security & Data Privacy](https://smartrent.com/data-security-privacy/)[Support](https://smartrent.com/support/)[Investors](https://investors.smartrent.com/overview/default.aspx)Manage Cookie Preferences
 
 © 2024 SmartRent Technologies, Inc
 
