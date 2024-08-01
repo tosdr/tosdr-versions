@@ -581,7 +581,7 @@ Les Services sont conçus pour un public général. Si le consentement d’un pa
 
 #### 10\. Nous contacter
 
-\- Vous pouvez envoyer toute question, préoccupation ou demande concernant les Politiques de traitement de vos données à caractère personnel à notre service de gestion des données à caractère personnel à l’adresse suivante : [Customer Care](https://contact-cc.line.me/serviceId/12379/?continue_without_login=true).  
+\- Vous pouvez envoyer toute question, préoccupation ou demande concernant les Politiques de traitement de vos données à caractère personnel à notre service de gestion des données à caractère personnel à l’adresse suivante : [Customer Care](https://contact-cc.line.me/serviceId/12379/fr/?continue_without_login=true).  
 \- Vous pouvez nous contacter en envoyant un email à notre Délégué à la Protection des Données (DPD) à l’adresse suivante : [dpo@webtoonscorp.com](mailto:dpo@webtoonscorp.com)  
 \- Dans tous les cas, vous pouvez nous contacter par écrit aux coordonnées suivantes.  
   
@@ -916,7 +916,7 @@ United States
 \- ข้อมูลบัญชี: เมื่อคุณสร้างบัญชีของคุณเองและเข้าสู่ระบบบัญชีของคุณเราอาจต้องการวันเกิด ชื่อเล่น ที่อยู่อีเมล และรหัสผ่านของคุณ นอกจากนี้เมื่อคุณเข้าสู่ระบบบัญชีของบุคคลที่สามหรือโปรไฟล์ของคุณกับเรา เราอาจขอข้อมูลเช่นชื่อเล่นหรือรูปโปรไฟล์  
 \- ข้อมูลการสำรวจ: เมื่อท่านร่วมทำแบบสำรวจหรือโพลสำรวจความคิดเห็นของเรา เราอาจขอทราบชื่อ หมายเลขโทรศัพท์ เพศ และข้อมูลอื่นใดที่จำเป็นตามสมควรสำหรับการจัดทำแบบสำรวจหรือโพลสำรวจความคิดเห็น และการจัดส่งรางวัล  
 \- ข้อมูลรายละเอียดของภาพ: เมื่อคุณเลือกใช้ตูนฟิลเตอร์ เราอาจรวบรวมภาพถ่ายและรวบรวมข้อมูลเกี่ยวกับภาพต่างๆ รวมถึงการระบุวัตถุและทัศนียภาพต่างๆ ที่ปรากฏ รวมทั้งการปรากฏและตำแหน่งของลักษณะใบหน้าและร่างกายและคุณสมบัติต่างๆ ภายในภาพถ่ายของคุณ ข้อมูลนี้ไม่ได้เชื่อมโยงกับบัญชีผู้ใช้ของคุณ และถูกใช้เพื่อเปิดใช้งานลูกเล่นกตูนฟิลเตอร์และตรวจจับภาพที่ไม่เหมาะสม โปรดทราบว่าเราไม่ได้ใช้ข้อมูลนี้ในการระบุบุคคลเฉพาะหรือเพื่อวัตถุประสงค์ของการฝึกอบรมหรือปรับปรุงเทคโนโลยีของเรา  
-\- ข้อมูลด้านการดูแลลูกค้า: ในการตอบกลับเมื่อท่านติดต่อ[ฝ่ายดูแลลูกค้า (Customer Care)](https://contact-cc.line.me/serviceId/12379/?continue_without_login=true) ของเรา เราอาจเก็บรวบรวมข้อมูลใด ๆ ที่ท่านเลือกที่จะให้ เช่น คำขอหรือข้อซักถามของท่าน เมื่อท่านสื่อสารกับเจ้าหน้าที่ดูแลลูกค้าของเราหรือเจ้าหน้าที่อื่น ๆ ข้อมูลการสื่อสารของท่านจะถูกส่งเข้าระบบของเราผ่านที่อยู่อีเมลของท่าน  
+\- ข้อมูลด้านการดูแลลูกค้า: ในการตอบกลับเมื่อท่านติดต่อ[ฝ่ายดูแลลูกค้า (Customer Care)](https://contact-cc.line.me/serviceId/12379/th/?continue_without_login=true) ของเรา เราอาจเก็บรวบรวมข้อมูลใด ๆ ที่ท่านเลือกที่จะให้ เช่น คำขอหรือข้อซักถามของท่าน เมื่อท่านสื่อสารกับเจ้าหน้าที่ดูแลลูกค้าของเราหรือเจ้าหน้าที่อื่น ๆ ข้อมูลการสื่อสารของท่านจะถูกส่งเข้าระบบของเราผ่านที่อยู่อีเมลของท่าน  
 \- ตัวบ่งชี้ (Identifiers) เช่น ตัวบ่งชี้เฉพาะ (Unique Personal Identifier) (เช่น (1) ตัวบ่งชี้อุปกรณ์ (เช่น คุกกี้ บีคอน (Beacons) และพิกเซลแท็ก (Pixel Tags)) (2) ตัวบ่งชี้ในโทรศัพท์เคลื่อนที่ (Mobile Ad Identifiers) และเทคโนโลยีอื่น ๆ ที่คล้ายกัน (3) รหัสลูกค้า นามแฝงเฉพาะ (Unique Pseudonym) หรือนามแฝงของผู้ใช้งาน (User Alias) (4) หมายเลขโทรศัพท์ และตัวบ่งชี้ถาวร (Persistent Identifiers) หรือตัวบ่งชี้ที่น่าจะเป็น (Probabilistic Identifiers) ในรูปแบบอื่น ๆ) ตัวบ่งชี้ออนไลน์ หมายเลขประจำเครื่องคอมพิวเตอร์ (IP Address) และตัวบ่งชี้อื่น ๆ ที่คล้ายกัน
 
 \[สำหรับครีเอเตอร์ (Creators)\]
@@ -1057,7 +1057,7 @@ NAVER WEBTOON Ltd. และ WEBTOON Entertainment Inc. ในฐานะที
 
 #### 10\. ติดต่อเรา (Contact Us)
 
-\- หากท่านมีคำถาม ข้อกังวล หรือข้อซักถามใด ๆ เกี่ยวกับนโยบาย (Policies) การจัดการข้อมูลส่วนบุคคล ท่านสามารถติดต่อแผนกจัดการข้อมูลส่วนบุคคลของเราได้ที่[ฝ่ายดูแลลูกค้า (Customer Care)](https://contact-cc.line.me/serviceId/12379/?continue_without_login=true)  
+\- หากท่านมีคำถาม ข้อกังวล หรือข้อซักถามใด ๆ เกี่ยวกับนโยบาย (Policies) การจัดการข้อมูลส่วนบุคคล ท่านสามารถติดต่อแผนกจัดการข้อมูลส่วนบุคคลของเราได้ที่[ฝ่ายดูแลลูกค้า (Customer Care)](https://contact-cc.line.me/serviceId/12379/th/?continue_without_login=true)  
 \- ท่านสามารถติดต่อเราได้โดยส่งอีเมลถึงเจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคล (DPO) ของเราตามที่อยู่อีเมล [dpo@webtoonscorp.com](mailto:dpo@webtoonscorp.com)  
 \- ในกรณีใด ๆ ก็ตาม ท่านสามารถติดต่อเราเป็นลายลักษณ์อักษรได้ตามที่อยู่ด้านล่างนี้  
   
