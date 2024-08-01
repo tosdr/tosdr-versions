@@ -3,9 +3,11 @@
 Privacy Policy
 ==============
 
-Last Updated: February 8, 2023
+Last Updated: July 30, 2024
 
-Thank you for visiting the Surveys2cash website located at www.surveys2cash.com (the “Site”). The Site is an Internet property of Surveys2Cash (“Surveys2Cash,” “we,” “our” or “us”). This Surveys2Cash Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when an end-user visitor to the Site (“user,” “you” or “your”) accesses or uses: (a) the Site; (b) the Site’s viewable text, graphics and other material (collectively, “Content”); (c) a variety of third-party, aggregated pay-for-participation surveys ("Surveys") as made available on or through the Site by Surveys2Cash; (d) links to Surveys2Cash social media pages/accounts (collectively, “Social Media Pages”) on third-party social media websites, such as Facebook® (“Social Media Websites”). **Please note, if you are a resident of, or reside in, the United kingdom or a European Union Member State, you are not permitted to use the Site and/orSite Offerings**.
+Thank you for visiting the Surveys2cash website located at www.surveys2cash.com (the “Site”). The Site is an Internet property of Surveys2Cash (“Surveys2Cash,” “we,” “our” or “us”). This Surveys2Cash Privacy Policy (“Privacy Policy”) covers our treatment of personal information and other information that we collect when an end-user visitor to the Site (“user,” “you” or “your”) accesses or uses: (a) the Site; (b) the Site’s viewable text, graphics and other material (collectively, “Content”); (c) a variety of third-party, aggregated pay-for-participation surveys ("Surveys") as made available on or through the Site by Surveys2Cash; (d) links to Surveys2Cash social media pages/accounts (collectively, “Social Media Pages”) on third-party social media websites, such as Facebook® (“Social Media Websites”). **This site collects "Consumer Data" for purposes of lead generation, however, only with your proper consent.**  
+  
+**Please note, if you are a resident of, or reside in, the United kingdom or a European Union Member State, you are not permitted to use the Site and/orSite Offerings**.
 
 Users with disabilities who wish to access this Privacy Policy in an alternative format can contact us by e-mailing us at: [support@surveys2cash.com](mailto:support@surveys2cash.com); calling us at: 1-800-538-1209; or sending us U.S. mail to: Surveys2Cash, 3879 E 120th Ave, Ste 229, Thornton, CO 80233.
 
@@ -396,7 +398,6 @@ _Right to Opt-Out of profiling_
 
 You have the right to opt-out from any Profiling that may be conducted by Surveys2Cash. For purposes of these Provisions, "Profiling" means any form of automated processing performed on your personal data to evaluate, analyze or predict personal aspects related to you or your economic situation, health, personal preferences, interests, reliability, behavior, location or movements. You have the right to opt-out of our Profiling you. To exercise your right to opt-out of our Profiling you, please submit a verifiable Covered User request to us by either:
 
-* Clicking Here
 * Emailing us at: support@surveys2cash.com; or
 * Sending us U.S. mail to: Surveys2Cash, 3879 E 120th Ave, Ste 229, Thornton, CO 80233.
 
@@ -404,7 +405,6 @@ We endeavor to act on all Profiling opt-out requests as soon as practicable, but
 
 _Right to Opt-Out of Targeted Advertising_
 
-* Clicking Here
 * Emailing us at: support@surveys2cash.com; or
 * Sending us U.S. mail to: Surveys2Cash, 3879 E 120th Ave, Ste 229, Thornton, CO 80233.
 
