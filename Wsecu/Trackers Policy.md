@@ -159,6 +159,7 @@ WSECU Routing Number: **325181028**
     * [Long-Term Care](https://wsecu.org/insurance/long-term-care)
     * [Medicare](https://wsecu.org/insurance/medicare)
     * [Identity Theft Protection](https://wsecu.org/insurance/identity-protection)
+    * [Pet Insurance](https://wsecu.org/insurance/pet)
     
      [![](/Images/Mega%20Menu/auto-insurance.png) Save an average of $670 a year\* Get an auto insurance quote](https://wsecu.org/insurance/auto)
     
@@ -410,6 +411,7 @@ Go back to the search field
     * [Long-Term Care](https://wsecu.org/insurance/long-term-care)
     * [Medicare](https://wsecu.org/insurance/medicare)
     * [Identity Theft Protection](https://wsecu.org/insurance/identity-protection)
+    * [Pet Insurance](https://wsecu.org/insurance/pet)
     
      [![](/Images/Mega%20Menu/auto-insurance.png) Save an average of $670 a year\* Get an auto insurance quote](https://wsecu.org/insurance/auto)
     
