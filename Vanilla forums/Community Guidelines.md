@@ -10,7 +10,7 @@
 [![Higher Logic Logo](https://www.higherlogic.com/wp-content/uploads/2023/08/HigherLogic_logo_stacked.png)](https://www.higherlogic.com/)
 
 * [Products](#)
-    * * * [![](https://www.higherlogic.com/wp-content/uploads/2023/08/hl_thrive_logo-300x39.png)](https://www.higherlogic.com/thrive)
+    * * * [![Higher Logic Thrive](https://www.higherlogic.com/wp-content/uploads/2023/08/hl_thrive_logo-300x39.png)](https://www.higherlogic.com/thrive)
             * **FOR ASSOCIATIONS**  
                 Member engagement is at the heart of what we do
                 
@@ -19,7 +19,7 @@
             * [Integrations](https://www.higherlogic.com/thrive/integrations/)
             * [Getting Started](https://www.higherlogic.com/thrive/getting-started/)
             * [Product Updates](https://www.higherlogic.com/thrive/product-updates/)
-        * * [![](https://www.higherlogic.com/wp-content/uploads/2023/08/hl_vanilla_logo-300x38.png)](https://vanilla.higherlogic.com/)
+        * * [![Higher Logic Vanilla](https://www.higherlogic.com/wp-content/uploads/2023/08/hl_vanilla_logo-300x38.png)](https://vanilla.higherlogic.com/)
             * **FOR B2B/B2C**  
                 Building lasting relationships with customers just got a whole lot easier
                 
