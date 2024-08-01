@@ -100,7 +100,7 @@ SaveCancel
 * More...
     * [Most Popular](https://www.unz.com/popular/)
     * [Periodicals](https://www.unz.com/publication/jhr/issues/)
-    * [Comments](https://www.unz.com/comments/all/2024/07/)
+    * [Comments](https://www.unz.com/comments/all/2024/08/)
     * [Banned Books](https://www.unz.com/bookstore/)
     * [College Data](https://www.unz.com/enrollments/)
   
@@ -135,7 +135,7 @@ SaveCancel
     * [Article Archives](https://www.unz.com/2024/)
     * [Periodicals](https://www.unz.com/publication/jhr/issues/)
     * [Most Popular](https://www.unz.com/popular/)
-    * [Comment Archives](https://www.unz.com/comments/all/2024/07/)
+    * [Comment Archives](https://www.unz.com/comments/all/2024/08/)
     * [College Data](https://www.unz.com/enrollments/)
 
 [Welcome to The Unz Review](#welcome-to-the-unz-review "Anchor Link to This Heading")
@@ -256,7 +256,7 @@ Translate?
 
 [Current Events](https://www.unz.com/news/)
 
-[Newslinks](https://www.unz.com/news/) • [6 Today](https://www.unz.com/news/)
+[Newslinks](https://www.unz.com/news/) • [1 Today](https://www.unz.com/news/)
 
 + 
 
@@ -265,7 +265,7 @@ Title/Subtitle?
 Author? Ron UnzAndrew AnglinGustavo ArellanoGilad AtzmonKevin BarrettRobert BonomoPat BuchananPatrick CockburnStephen F. CohenJonathan CookJohn DerbyshireLinh DinhGuillaume DurocherTom EngelhardtPepe EscobarBonnie FaulknerEamonn FingletonNorman FinkelsteinPeter FrostPhilip GiraldiPaul GottfriedGregory HoodC.J. HopkinsMichael HudsonE. Michael JonesJung-FreudJay ManW. Patrick LangPeter LeeTrevor LynchMichelle MalkinEric MargolisIlana MercerAndrew NapolitanoRon PaulJames PetrasRachesTed RallFred ReedPaul Craig RobertsLarry RomanoffThe SakerIsrael ShamirEric StrikerJared TaylorJames ThompsonAndre VltchekWhitney WebbMike WhitneyAlexander CockburnSam FrancisRobert ScheerJoseph SobranPaul KerseySteve SailerRazib KhanAnatoly KarlinAudacious Epigone\---ASouthernerA. GrahamA. J. SmuskiewiczA.D. HemmingAcademic Research Group UK StaffAdam HochschildAedon CassielAgha HussainAhmet ÖncüAlain de BenoistAlan MacleodAlan NasserAlan SabroskyAlastair CrookeAlbemarle ManAlejandro LópezAleksandar PavicAlex GrahamAlexander HartAlexander JacobAlexander MercourisAlfred Mc CoyAlison Rose LevyAlison WeirAllan C. BrownfeldAllan WallAllegra HarpootlianAmalric de DroevigAmr AbozeidAnand GopalAnastasia KatzAndre DamonAndreas CanettiAndrei MartyanovAndrew CockburnAndrew FraserAndrew HamiltonAndrew J. BacevichAndrew JoyceAndrew LowdenAndrew S. FischerAndy KrollAngie SaxonAnn JonesAnna TolstoyevskayaAnne Wilson SmithAnonymousAnonymous AmericanAnonymous AttorneyAnonymous DissidentAnonymous OccidentalAnthony BoehmAnthony BryanAnthony Di MaggioAntiwar StaffAntonius AquinasAntony C. BlackAnya SchiffrinAriel DorfmanArlie Russell HochschildArno DevelayArnold IsaacsArtem ZagorodnovArthur NobleAstra TaylorAugis BarkovAugustin GolandAusten LayardAva MuhammadAviva ChomskyAyman FadelBarbara EhrenreichBarbara GarsonBarbara MyersBarry KissinBarry LandoBarton CockeyBeau AlbrechtBelle CheslerBen FountainBen FreemanBen SullivanBenjamin H. FreedmanBenjamin VillaroelBernard M. SmithBeverly GologorskyBill BlackBill Mc KibbenBill MoyersBina TiferetBlake Archer WilliamsBob DreyfussBob TriversBookBoyd D. CatheyBrad GriffinBradley MooreBrent NelsonBrenton SandersonBrett Redmayne-TitleyBrett WilkinsBrian DewBrian Mc GlincheyBrian R. WrightBrittany SmithC.D. CoraxC.J. HopkinsCaitlin JohnstoneCara MariannaCarl BoggsCarl BromleyCarl HorowitzCarolyn YeagerCasey TitusCat Mc GuireCatherine CrumpCésar KellerChalmers JohnsonChanda ChisalaCharles BausmanCharles GoodhartCharles WoodCharlie O'NeillCharlottesville SurvivorChase MadarChauke Stephan FilhoChip WardChris AppyChris HedgesChris RobertsChris WoltermannChristian AppyChristopher CalabreseChristopher De GrootChristopher DonovanChristopher KetchamChristopher MartinChristopher MoldesChuck OrloskiChuck SpinneyCivus Non NequissimusColeen RowleyColin LiddellCooper SterlingCraig MurrayCynthia ChungD.F. MulderDahr JamailDakota WitnessDan E. PhillipsDan SanchezDaniel BargeDaniel Mc AdamsDaniel VinyardDanny SjursenDave ChambersDave KranzlerDave LindorffDave MillerDavid BarsamianDavid BoyajianDavid BromwichDavid ChiboDavid ChuDavid GordonDavid HaggithDavid IrvingDavid L. Mc NaronDavid LorimerDavid MartinDavid NorthDavid RosnerDavid StockmanDavid VineDavid WalshDavid William PearDavid YorkshireDean BakerDeciusDeclan HayesDeniz BozkurtDennis DaleDennis SaffranDiana JohnstoneDiego RamosDilip HiroDiogenes PubliusDirk BezemerDmitriy KalyaginDmitryDonald ThoresenDouglas WatsonDr. Ejaz AkramDr. Ridgely Abdul Mu’min MuhammadDrago F. Le MurrDries Van LangenhoveDummyE. Michael JonesEd WarnerEddie BautistaEdmund ConnellyEduardo GaleanoEduardo GarciaEdward CurtinEdward DuttonEdward LozanskyEgbert DijkstraEgor KholmogorovEkaterina BlinovaEllen BrownEllen CantarowEllen PackerEllison LodgeEmil KirkegaardEmilio García GómezEmma GoldmanEnzo PorterEric DraitserEric PetersEric RasmusenEric ZuesseErik EdstromErika EichelbergerErin L. ThompsonEugene GantEugene GirinEugene KusmiakEva GolingerEve MykytynF. Douglas StephensonF. Roger DevlinFadi Abu ShammalahFantine GardinierFederaleFedia KriukovFensterFinian CunninghamFordham T. SmithFormer AgentForumFrancis GoumainFrank BruniFrank TiplerFranklin LambFranklin StahlFrederick CrewsFrida BerriganFriedrich ZaunerGabriel BlackGabriel SchivoneGary CorseriGary HeavinGary NorthGary YoungeGene TuttleGeorge AlbertGeorge BogdanichGeorge ElwitGeorge GallowayGeorge KooGeorge MackenzieGeorge SzamuelyGeorgianne NienaberGerald MarkowitzGilbert CavanaughGiles CoreyGlen K. AllenGlenn GreenwaldGodfree RobertsGonzalo LiraGraham SeibertGrant M. DahlGreg GrandinGreg JohnsonGreg KleinGregg StanleyGregoire ChamayouGregory ConteGregory FosterGregory WilpertGunnar AlfredssonHank JohnsonHannah AppelHans VogelHans-Hermann HoppeHarri HonkanenHeiner RindermannHeinz WeichardtHelen BuyniskiHenry CockburnHenry VeltmeyerHenry WolffHewitt E. MooreHina ShamsiHippocratesHorusHoward ZinnHowe Abbot-HissHubert CollinsHugh Mc InnishHugh MoriartyHugo DionísioHügo KrügerHunter De RensisHunter WallaceHuntley HaverstockIan FantomIgor ShafarevichIra ChernusIrmin VinsonIvan KesićJ. Alfred PowellJ.B. ClarkJ.D. GoreJacek SzelaJack AntonioJack DaltonJack KerwickJack KrakJack RasmusJack RavenwoodJack SenJake BowyerJames BovardJames CarrollJames Carson HarringtonJames ChangJames DunphyJames DursoJames EdwardsJames FulfordJames GillespieJames HannaJames J. O'MearaJames K. GalbraithJames KarlssonJames KirkpatrickJames LawrenceJane LazarreJane WeirJanice KortkampJared S. BaumeisterJason C. DitzJason CannonJason HirthlerJason KesslerJay StanleyJean BricmontJean MaroisJean RancJef CostelloJeff J. BrownJeffrey BlankfortJeffrey D. SachsJeffrey SommersJeffrey St. ClairJen MarloweJenifer WarrenJeremiah GoulkaJeremy CooperJeremy ScahillJeshurun TsarfatJesse MossmanJHR WritersJim DanielJim FetzerJim GoadJim KavanaghJim SmithJo ComerfordJoachim MartilloJo Ann WypijewskiJoe DackmanJoe LauriaJoel S. HirschhornJohannes WahlstromJohn FefferJohn FundJohn H. RobertsonJohn Harrison SimsJohn HelmerJohn HillJohn HussJohn J. MearsheimerJohn JacksonJohn KiriakouJohn LauritsenJohn LeonardJohn MacdonaldJohn MorganJohn PattersonJohn PilgerJohn Q. PubliusJohn RandJohn ReidJohn RyanJohn Scales AveryJohn SimanJohn StauberJohn T. KellyJohn TaylorJohn TitusJohn TremainJohn V. WalshJohn W. DowerJohn WearJohn WilliamsJon ElseJon EntineJonathan Alan KingJonathan AnomalyJonathan RevuskyJonathan RooperJonathan SawyerJonathan SchellJordan SteinerJoseph KayJoseph KishoreJosephus TiberiusJuan ColeJudith CoburnJulian BradfordJulian MacfarlaneK.J. NohKacey GuntherKarel van WolferenKaren GreenbergKarl HaemersKarl NemmersdorfKarl ThorburnKarlin CommunityKatrina vanden HeuvelKees van der PijlKeith WoodsKelley VlahosKenn GividenKenneth VintherKerry BoltonKersasp D. ShekhdarKevin Mac DonaldKevin Michael GraceKevin RothrockKevin SullivanKevin ZeeseKshama SawantLa Tonya Crisp-SaurayLance WeltonLarry JohnsonLaura GottesdienerLaura PoitrasLaurent GuyénotLawrence EricksonLawrence G. ProulxLeo HohmannLeonard R. JaffeeLewis H. LaphamLexingtonLiam CosgroveLidia MisnikLilith PowellLinda PrestonLipton MatthewsLiv HeideLogical MemeLorraine BarlettLouis FarrakhanLuiz Inácio Lula da SilvaLux et VeritasLydia Brimelowm.g.M.G. MilesMac DefordMaciej PieczyńskiMaidhc O CathailMalcolm UnwellMandy SmithbergerMarco de WitMarcus AlethiaMarcus ApostateMarcus CiceroMarcus DevonshireMargaret FlowersMargot MetrolandMarian EvansMark AllenMark Bratchikov-PogrebisskiyMark Crispin MillerMark DannerMark EnglerMark GullickMark H. GaffneyMark LuMark PerryMark WeberMark WilkersonMarshall YeatsMartin JayMartin K. O'TooleMartin WebsterMartin WitkerkMary Phagan-KeanMatt CockerillMatt ParrottMattea KramerMatthew CaldwellMatthew EhretMatthew HarwoodMatthew MillerMatthew RicherMatthew StevensonMax BlumenthalMax DenkenMax JonesMax NorthMax ParryMax WestMaya SchenwarMerlin MillerMetallicmanMgMichael A. RobertsMichael AverkoMichael Gould-WartofskyMichael HoffmanMichael MastersonMichael QuinnMichael SchwartzMichael T. KlareMiko PeledMiriam PembertonMnar MuhaweshMoon Landing SkepticMorgan JonesMorris V. de CampMoscow ExileMr. Anti-HumbugMuhammed AbuMurray PolnerN. Joseph PottsNan LevinsonNaomi OreskesNate TeraniNathan CofnasNathan DoyleNed StarkNeil KumarNelson RositNicholas R. JeelvyNicholas StixNick GriffinNick KollerstromNick TurseNicolás Palacios NavarroNils van der VegteNir RosenNoam ChomskyNOI Research GroupNomi PrinsNorman SolomonOld MicrobiologistOliver Boyd-BarrettOliver WilliamsOrlando FigesP.J. CollinsPádraic O'BannonPatrice GreanvillePatrick ArmstrongPatrick CleburnePatrick CloutierPatrick LawrencePatrick MartinPatrick Mc DermottPatrick WhittlePaul BennettPaul CochranePaul de RooijPaul EdwardsPaul EnglerPaul LarudeePaul MitchellPaul NachmanPaul NehlenPaul SouvestrePaul TrippPaula J. GiddingsPedro de AlvaradoPeter Baggins Ph.D.Peter BradleyPeter BrimelowPeter GemmaPeter ReddawayPeter Van BurenPhilip KraskePhilip WeissPierre M. SpreyPierre SimonPratap ChatterjeeProfessor WallPublius Decius MusQasem SoleimaniRachel MarsdenRadhika DesaiRajan MenonRalph NaderRalph RaicoRamin MazaheriRamziya ZaripovaRamzy BaroudRandy ShieldsRaul DiegoRay Mc GovernRebecca GordonRebecca SolnitReginald De ChantillonRémi TremblayRicardo DuchesneRichard CookRichard FalkRichard FoleyRichard GalustianRichard HouckRichard HugusRichard KnightRichard KrushnicRichard Mc CullochRichard SilversteinRichard SolomonRick ShenkmanRick SterlingRita RozhkovaRobert BaxterRobert DebrusRobert F. Kennedy Jr.Robert FiskRobert HamptonRobert HendersonRobert InlakeshRobert La FlammeRobert LindsayRobert LipsyteRobert ParryRobert RothRobert S. GriffinRobert StarkRobert StevensRobert TriversRobert WallaceRobert WeissbergRobin Eastman AbayaRocka BoatusRoger DooghyRolo SlavskiyRomana RubeoRonald N. NeffRon Unz1Rory FanningRT StaffRuuben KaalepRyan AndrewsRyan DawsonSabri ÖncüSalim MansurSam DicksonSam HusseiniSandy TolanSayed HasanScot OlmsteadScott HowardScott RitterSergey SlobodyanServando GonzalezShann TurnbullSharmine NarwaniSharmini PeriesSheldon RichmanSigurd KristensenSinclair JenkinsSouthfront EditorSpencer DavenportSpencer J. QuinnStefan KarganovicSteffen A. WollStephanie SavellStephen F. CohenStephen J. RossiStephen J. SniegoskiStephen Paul FosterSterling AndersonSteve FraserSteve KeenSteve PenfieldSteven FarronSteven YatesStuds TerkelSubhankar BanerjeeSusan SouthardSydney SchanbergTalia MullinTanya Golash-BozaTaxiTaylor Mc ClainTaylor YoungTed O'KeefeThe CrewThe First Millennium RevisionistThe ZmanTheodore A. PostolThierry MeyssanThomas A. FudgeThomas AndersonThomas DaltonThomas ErtlThomas FrankThomas HalesThomas HalesThomas HarringtonThomas JacksonThomas O. MeehanThomas SteubenThomas ZajaThorsten J. PattbergTim ShorrockTim WeinerTimothy VorgenssTimur FomenkoTingba MuhammadTobias LangdonTodd E. PierceTodd GitlinTodd MillerTom MysiewiczTom PiatakTom SuarezTom SunicTony HallTorin MurphyTracy RosenbergTravis Le BlancVernon ThorpeVirginia DareVito KleinVladimir BrovkinVladimir PutinVladimir SobellVladislav KrasnovVox DayW. Patrick LangWalter E. BlockWalter E. WilliamsWashington WatcherWashington Watcher IIWayne AllensworthWei Ling ChuaWesley MuhammadWhite Man FacultyWilhelm KriessmannWilhem IvorssonWill JonesWill OffensichtWilliam BinneyWilliam de BuysWilliam HartungWilliam J. AstoreWinslow T. WheelerXimena OrtizxxxYan ShenYaroslav PodvolotskiyYvonne LorenzoZhores Medvedev  
 Dates From:  To:   
 Category? Foreign PolicyRace/EthnicityEconomicsIdeologyArts/LettersHistoryScienceCulture/Society  
-Topic? 2000 Election2004 Campaign2004 Election2008 Campaign2008 Election2012 Campaign2012 Election2016 Election2018 Election2020 Election2022 Election2024 Election23and Me7/7 attacks9/119/11AbortionAcademiaACORN WatchAdaptationADLAdminAdministrationAdmixtureAdolf HitlerAffirmative ActionAffordable family formationAfghanistanAfricaAfricansAgeAge of Malthusian Industria...AgricultureAhmadinejadAIAIGAIPACAir AmericaAirline SecurityAl FrankenAl Goreal-QaedaAl SharptonAlexei NavalnyAlly Mc Beal approachAlt RightAmerica FirstAmerican LeftAmerican MediaAmerican MilitaryAmerican NationsAmerican PravdaAmerindiansAmnestyAncient DNAAnimal RightsAnn CoulterAnthony FauciAnthraxAnthropologyAnti-SemitismAnti-VaxxAntifaAntiracismAntisemitismAntony BlinkenApostasyArab SpringArchaeogeneticsArgentinaArmeniaArnold SchwarzeneggerArtAsian AmericansAsian QuotasAsiansAssassination ChicAssassinationsAtheismAtlantaAuschwitzAustraliaAutomakersAzerbaijanBabes And HunksBahrainBanking IndustryBanking SystemBarack ObamaBaseball StatisticsBasketballBDABDS MovementBehavior GeneticsBelarusBenjamin NetanyahuBerkeleyBernie SandersBilal HusseinBilateral RelationsBilingual EducationBill AyersBill ClintonBill MaherBioethicsBiologyBioweaponsBitcoinBlabbermouthsBlack communityBlack CrimeBlack History MonthBlack Lives MatterBlack PeopleBlacksBLMBlogBloggingBlogosphereBoeingBolshevik RevolutionBooksBorder PatrolBoris JohnsonBrazilBrexitBRI CsBritainBushBush Derangement SyndromeBusinessCAIRCaliforniaCamp of the SaintsCampaign FinanceCanadaCap and TradeCapitalismCarsCatch-And-ReleaseCatholic ChurchCaucasusCensorshipCensusCentral AsiaCharles MurrayCharlie HebdoCharlottesvilleChechnyaChicagoChildrenChinaChina/AmericaChris DoddChris MatthewsChristianityChristmasCIACindy SheehanCivil LibertiesCivil RightsCivil WarClash of civilizationsClassClassicClimate ChangeClintonsCode PinkCognitive ScienceCold WarCollege AdmissionCollege FootballColombiaColor RevolutionCommunismCondi RiceConfederacyConfederate FlagConservatismConservative MovementConspiracy TheoriesConstitutional TheoryControversial BookConvergenceCore ArticleCoronaCovidCorruptionCOTWCreationismCrimeCrimeaCritical Race TheoryCubaCuckservativeCultural MarxismCultureCulture warCynthia Mc KinneyCzarsDaily Data DumpDan RatherDanish CartoonsDarwinismDataData AnalysisDavid PetraeusDeath of the WestDebtDeep StateDemocracyDemocratic PartyDemocratsDemographicsDemographyDennis KucinichDeportation AbyssDetroitDevelopmentDick CheneyDick DurbinDiseaseDisparate ImpactDiversityDollarDonald TrumpDouble standardsDREAM ActDrivers' LicensesDrone WarDronesDrugsDysgenicEason JordanEast AsiansEastern EuropeEcologyEconomic HistoryEconomic SanctionsEconomic TheoryEconomicsEconomyEducationEdward SnowdenEgyptElection 2016Election 2018Election 2020ElectionsElon MuskEmmanuel MacronEmployer SanctionsEnergyEnglandEntertainmentEnviro-nitwitsEnvironmentErdoganEric HolderEspionageEthics and MoralsEUEugenicsEurasiaEuroEuropeEuropean RightEuropean UnionEuropeansEurozoneEvolutionEvolutionary GeneticsEvolutionary PsychologyEye colorFacebookFairness DoctrineFake NewsFalse Flag AttackFascismFauxtographyFBIFeature StoryFederal ReserveFeminismFeminist NonsenseFerguson ShootingFertilityFertility RatesFilmFinanceFinancial BailoutFinancial CrisisFinancial DebtFinancial SectorFinlandFinn BaitingFISAFiscal StimulusFloyd Riots 2020Flynn EffectFoodFootballFor funForeign PolicyFranceFreakonomicsFred Reed's Cop ColumnsFred ThompsonFree SpeechFree TradeFreedom of SpeechFreedomFriday FluffFrivoltyFunFutureFuturismGameGathering of EaglesGay MarriageGays/LesbiansGazaGen ZGenderGender and SexualityGenerational gapGenetic EngineeringGenetic PacificationGeneticsGenocideGenomicsGenre American LiteratureGenre British LiteratureGenre Children's LiteratureGenre Fantastic LiteratureGenre French LiteratureGenre German LiteratureGenre History WritingGenre Libertarian LiteratureGenre Racialist LiteratureGenre Russian LiteratureGenre Sociology WritingGenre Victorian LiteratureGeographyGeopoliticsGeorge FloydGeorge SorosGeorge W. BushGeorgiaGermanyGitmoGladwellGlenn GreenwaldGlobal WarmingGlobal WarmingGlobalismGlobalizationGoldGolfGoogleGOPGovernmentGovernment SpendingGovernment SurveillanceGraeme FrostGreeceGreg CochranGregory ClarkGSSGuantanamoGuardianGuestGun ControlGunsHadithaHair ColorHaitiHamasHarriet MiersHarry ReidHarvardHate CrimesHate HoaxesHate SpeechHbdHbd ChickHealthHealth and MedicineHealth CareHeightHeredityHeritabilityHezbollahHillary ClintonHispanic CrimeHispanicsHistoryHitlerHIV/AIDSHollyweirdHollywoodHolocaustHomeland SecurityHomosexualityHong KongHousekeepingHousingHouthisHoward DeanNorman HsuHugo ChavezHuman BiodiversityHuman EvolutionHuman Evolutionary GeneticsHuman Evolutionary GenomicsHuman GeneticsHuman GenomicsHuman RightsHumorHungaryHunter Biden#I Believe InHaven MonahanIcelandIdeasIdentityIdeology and WorldviewIdiocracyIdiotsIlhan OmarIllegal ImmigrationIMFImmigrationImpeachmentImperialismInbreedingIndiaInequalityInflationIntelligenceInternationalInternational ComparisonsInternational RelationsInternetInternmentIosef StalinIQIranIran Nuclear AgreementIraqIraq WarIrelandISISIslamIslamismIslamophobiaIsraelIsrael LobbyIsrael/PalestineItalyIt's okay to be whiteJames WatsonJamil HusseinJapanJared KushnerJared TaylorJeffrey EpsteinJeffrey SachsJeremy CorbynJesse JacksonJewish PowerJewish supremacismJewsJFK AssassinationJihadistsJimmy CarterJoe BidenJoe The PlumberJohn BoltonJohn BrennanJohn DoeJohn EdwardsJohn F. KennedyJohn KerryJohn Mc CainJohn MurthaJonah GoldbergJournalismJudaismJudicial SystemJulian AssangeJyllands-PostenKamala HarrisKanye WestKarl RoveKatie CouricKatzKazakhstanKeith OlbermannKevin Mac DonaldKidsKosKurdsKyle RittenhouseLanguageLate Obama Age CollapseLatin AmericaLatviaLawLebanonLGBTLiberal OppositionLiberalismLibertarianismLibyaLiteratureLiving StandardsLove and MarriageManufacturingMapMarine Le PenMarizelaMartin Luther KingMarxismMass ShootingsMathematicsMaureen DowdMc CainMc Cain/POWMediaMedia biasMedicineMedvedevMein ObamaMen with Gold ChainsMeritocracyMerkel's BonerMexicoMichael BloombergMichael FlynnMichael MooreMichelle ObamaMiddle EastMike HuckabeeMike PompeoMilitaryMilitary SpendingMinimum WageMiscellaneousMitt RomneyMohammed bin SalmanMoneyMoonbatsMortalityMortgageMoscowMossadMove On.orgMoviesMS-13Muammar GaddafiMulticulturalismMuqtada al-SadrMusharrafMusicMuslimsMyanmarNAEPNancy PelosiNational Assessment of Educ...National ServiceNationalismNATONatural GasNatureNature vs. NurtureNazi GermanyNazismNeandertalNeandertalsNeanderthalsNeo-NazisNeoconsNeoliberalismNeuroscienceNew Black Panther PartyNew Cold WarNew Silk RoadNew York CityNew York TimesNewt GingrichNick FuentesNikki HaleyNord Stream PipelinesNorth KoreaNSANuclear WarNuclear WeaponsNutrootsNY-23ObamaObama Jobs Death TollObama PresidencyObamacareObesityR.I.P.Obscured AmericanOilOil IndustryOlympicsOpen BordersOpen Borders LobbyOpen ThreadOpinion PollOsama bin LadenPakistanPaleoanthropologyPalestinePalestiniansPanhandlingPaper ReviewParentingParis AttacksPat BuchananPaul KrugmanPearl HarborPedophiliaPersonal GenomicsPersonal usePersonalityPewPhilippinesPhilosophyPigmentationPISAPolandPolicePolice StatePolitical CorrectnessPolitical Correctness Makes...Political EconomyPoliticiansPoliticsPollingPolygynyPopulationPopulation GeneticsPopulation GrowthPopulation ReplacementPopulismPorkPornographyPovertyPre-Obama AmericaPredictionPresidential Race '08Presidential Race '12Presidential Race '16PrivatizationProgressivesPropagandaProposition 8PsychologyPsychometricsPublic HealthPublic SchoolsPutinPutin Derangement SyndromeQassem SoleimaniQatarQuality of lifeQuantitative GeneticsRaceRace and IqRace/CrimeRace HustlersRace/IQRace RelationsRace RiotsRacial RealityRacialismRacismRadio InterviewsRapeRathergateReal EstateRecep Tayyip ErdoganReconquistaRed SeaReligionRepressionReprintRepublican PartyRepublicansReviewRFK AssassinationRicciRichard LynnRichard NixonRiotsRobert F. Kennedy Jr.Robert MuellerRoe vs. WadeRoman EmpireRon De SantisRon PaulRon UnzRonald ReaganRudy GiulianiRush LimbaughRussiaRussiagateRussian Elections 2018Russian MediaRussian Orthodox ChurchRussian SpectrumRussophobesSaddam HusseinSanctuary CitiesSandy HookSarah PalinSaudi ArabiaScienceScience FictionScience Fiction & FantasyScott Thomas BeauchampSecessionSEIUSelf indulgenceSerbiaSexSex DifferencesSexual SelectionSeymour HershShanghai Cooperation Organi...ShariaSheldon AdelsonShias and SunnisShinzo AbeShorts and FunniesSilicon ValleySJ WsSkin ColorSlaverySlavery ReparationsSocial MediaSocial ScienceSocialismSocietySociobiologySociologySomaliaSotomayorSouth AfricaSouth China SeaSouth KoreaSouthern BorderSoviet UnionSpaceSpainSPLCSportsStatisticsSteven PinkerSubprime crisisSupreme CourtSvidomySwedenSyriaSyrian Civil WarSyrizaTaiwanTake actionTalibanTaxesTea PartyTechnical considerationsTechnologyTed CruzTed KennedyTelevisionTerrorismTerrorist attacksTestingTestsTexasThe AKThe BibleThe CathedralThe ConfederacyThe ConstitutionThe EconomistThe Eight BanditosThe familyThe KoranThe LeftThe Middle EastThe SouthThe statesThe StragglerThe Zeroth Amendment to the...They don't support the troopsTibetTim GeithnerTom TancredoTony BlinkenTopTortureTradeTransgenderismTranshumanismTranslationTranslationsTravelTreasuryTrollingTrustTruthersTucker CarlsonTulsi GabbardTurkeyTVTwitterUKUkraineUnemploymentUnhingedUnionsUnited KingdomUnited NationsUnited StatesUS Capitol Storming 2021US Elections 2020US militaryUS PoliticsUS regionalismUSAUSS LibertyUyghursVaccinationVaccinesValerie JarrettVdareVenezuelaVeteransVictoria NulandVideo GamesVideo TypeVietnamVietnam WarViolenceVirtual worldVladimir PutinVolodymyr ZelenskyVote FraudVoter FraudWall StreetWarWar CrimesWar in DonbassWar on TerrorWashington ConsensusWashington PostWeb 2.0WelfareWestern declineWestern HypocrisyWestern MediaWestern revivalWhere in the WorldWhite AmericansWhite DeathWhite Flag DemocratsWhite Man's burdenWhite nationalismWhite NationalistsWhiterpeopleWikileaksWikipediaWinston ChurchillWisconsinWonketteWorking ClassWorld Economic ForumWorld War IWorld War IIWorld War IIIWorthy CausesWVSXi JinpingYemenYou TubeZionism  
+Topic? 2000 Election2004 Campaign2004 Election2008 Campaign2008 Election2012 Campaign2012 Election2016 Election2018 Election2020 Election2022 Election2024 Election23and Me7/7 attacks9/119/11AbortionAcademiaACORN WatchAdaptationADLAdminAdministrationAdmixtureAdolf HitlerAffirmative ActionAffordable family formationAfghanistanAfricaAfricansAgeAge of Malthusian Industria...AgricultureAhmadinejadAIAIGAIPACAir AmericaAirline SecurityAl FrankenAl Goreal-QaedaAl SharptonAlexei NavalnyAlly Mc Beal approachAlt RightAmerica FirstAmerican LeftAmerican MediaAmerican MilitaryAmerican NationsAmerican PravdaAmerindiansAmnestyAncient DNAAnimal RightsAnn CoulterAnthony FauciAnthraxAnthropologyAnti-SemitismAnti-VaxxAntifaAntiracismAntisemitismAntony BlinkenApostasyArab SpringArchaeogeneticsArgentinaArmeniaArnold SchwarzeneggerArtAsian AmericansAsian QuotasAsiansAssassination ChicAssassinationsAtheismAtlantaAuschwitzAustraliaAutomakersAzerbaijanBabes And HunksBahrainBanking IndustryBanking SystemBarack ObamaBaseball StatisticsBasketballBDABDS MovementBehavior GeneticsBelarusBenjamin NetanyahuBerkeleyBernie SandersBilal HusseinBilateral RelationsBilingual EducationBill AyersBill ClintonBill MaherBioethicsBiologyBioweaponsBitcoinBlabbermouthsBlack communityBlack CrimeBlack History MonthBlack Lives MatterBlack PeopleBlacksBLMBlogBloggingBlogosphereBoeingBolshevik RevolutionBooksBorder PatrolBoris JohnsonBrazilBrexitBRI CsBritainBushBush Derangement SyndromeBusinessCAIRCaliforniaCamp of the SaintsCampaign FinanceCanadaCap and TradeCapitalismCarsCatch-And-ReleaseCatholic ChurchCaucasusCensorshipCensusCentral AsiaCharles MurrayCharlie HebdoCharlottesvilleChechnyaChicagoChildrenChinaChina/AmericaChris DoddChris MatthewsChristianityChristmasCIACindy SheehanCivil LibertiesCivil RightsCivil WarClash of civilizationsClassClassicClimate ChangeClintonsCode PinkCognitive ScienceCold WarCollege AdmissionCollege FootballColombiaColor RevolutionCommunismCondi RiceConfederacyConfederate FlagConservatismConservative MovementConspiracy TheoriesConstitutional TheoryControversial BookConvergenceCore ArticleCoronaCovidCorruptionCOTWCreationismCrimeCrimeaCritical Race TheoryCubaCuckservativeCultural MarxismCultureCulture warCynthia Mc KinneyCzarsDaily Data DumpDan RatherDanish CartoonsDarwinismDataData AnalysisDavid PetraeusDeath of the WestDebtDeep StateDemocracyDemocratic PartyDemocratsDemographicsDemographyDennis KucinichDeportation AbyssDeregulationDetroitDevelopmentDick CheneyDick DurbinDiseaseDisparate ImpactDiversityDollarDonald TrumpDouble standardsDREAM ActDrivers' LicensesDrone WarDronesDrugsDysgenicEason JordanEast AsiansEastern EuropeEcologyEconomic HistoryEconomic SanctionsEconomic TheoryEconomicsEconomyEducationEdward SnowdenEgyptElection 2016Election 2018Election 2020ElectionsElon MuskEmmanuel MacronEmployer SanctionsEnergyEnglandEntertainmentEnviro-nitwitsEnvironmentErdoganEric HolderEspionageEthics and MoralsEUEugenicsEurasiaEuroEuropeEuropean RightEuropean UnionEuropeansEurozoneEvolutionEvolutionary GeneticsEvolutionary PsychologyEye colorFacebookFairness DoctrineFake NewsFalse Flag AttackFascismFauxtographyFBIFeature StoryFederal ReserveFeminismFeminist NonsenseFerguson ShootingFertilityFertility RatesFilmFinanceFinancial BailoutFinancial CrisisFinancial DebtFinancial SectorFinlandFinn BaitingFISAFiscal StimulusFloyd Riots 2020Flynn EffectFoodFootballFor funForeign PolicyFranceFreakonomicsFred Reed's Cop ColumnsFred ThompsonFree SpeechFree TradeFreedom of SpeechFreedomFriday FluffFrivoltyFunFutureFuturismGameGathering of EaglesGay MarriageGays/LesbiansGazaGen ZGenderGender and SexualityGenerational gapGenetic EngineeringGenetic PacificationGeneticsGenocideGenomicsGenre American LiteratureGenre British LiteratureGenre Children's LiteratureGenre Fantastic LiteratureGenre French LiteratureGenre German LiteratureGenre History WritingGenre Libertarian LiteratureGenre Racialist LiteratureGenre Russian LiteratureGenre Sociology WritingGenre Victorian LiteratureGeographyGeopoliticsGeorge FloydGeorge SorosGeorge W. BushGeorgiaGermanyGitmoGladwellGlenn GreenwaldGlobal WarmingGlobal WarmingGlobalismGlobalizationGoldGolfGoogleGOPGovernmentGovernment SpendingGovernment SurveillanceGraeme FrostGreeceGreg CochranGregory ClarkGSSGuantanamoGuardianGuestGun ControlGunsHadithaHair ColorHaitiHamasHarriet MiersHarry ReidHarvardHate CrimesHate HoaxesHate SpeechHbdHbd ChickHealthHealth and MedicineHealth CareHeightHeredityHeritabilityHezbollahHillary ClintonHispanic CrimeHispanicsHistoryHitlerHIV/AIDSHollyweirdHollywoodHolocaustHomeland SecurityHomosexualityHong KongHousekeepingHousingHouthisHoward DeanNorman HsuHugo ChavezHuman BiodiversityHuman EvolutionHuman Evolutionary GeneticsHuman Evolutionary GenomicsHuman GeneticsHuman GenomicsHuman RightsHumorHungaryHunter Biden#I Believe InHaven MonahanIcelandIdeasIdentityIdeology and WorldviewIdiocracyIdiotsIlhan OmarIllegal ImmigrationIMFImmigrationImpeachmentImperialismInbreedingIndiaInequalityInflationIntelligenceInternationalInternational ComparisonsInternational RelationsInternetInternmentIosef StalinIQIranIran Nuclear AgreementIraqIraq WarIrelandISISIslamIslamismIslamophobiaIsraelIsrael LobbyIsrael/PalestineItalyIt's okay to be whiteJames WatsonJamil HusseinJapanJared KushnerJared TaylorJeffrey EpsteinJeffrey SachsJeremy CorbynJesse JacksonJewish PowerJewish supremacismJewsJFK AssassinationJihadistsJimmy CarterJoe BidenJoe The PlumberJohn BoltonJohn BrennanJohn DoeJohn EdwardsJohn F. KennedyJohn KerryJohn Mc CainJohn MurthaJonah GoldbergJournalismJudaismJudicial SystemJulian AssangeJyllands-PostenKamala HarrisKanye WestKarl RoveKatie CouricKatzKazakhstanKeith OlbermannKevin Mac DonaldKidsKosKurdsKyle RittenhouseLanguageLate Obama Age CollapseLatin AmericaLatviaLawLebanonLGBTLiberal OppositionLiberalismLibertarianismLibyaLiteratureLiving StandardsLove and MarriageManufacturingMapMarine Le PenMarizelaMartin Luther KingMarxismMass ShootingsMathematicsMaureen DowdMc CainMc Cain/POWMediaMedia biasMedicineMedvedevMein ObamaMen with Gold ChainsMeritocracyMerkel's BonerMexicoMichael BloombergMichael FlynnMichael MooreMichelle ObamaMiddle EastMike HuckabeeMike PompeoMilitaryMilitary SpendingMinimum WageMiscellaneousMitt RomneyMohammed bin SalmanMoneyMoonbatsMortalityMortgageMoscowMossadMove On.orgMoviesMS-13Muammar GaddafiMulticulturalismMuqtada al-SadrMusharrafMusicMuslimsMyanmarNAEPNancy PelosiNational Assessment of Educ...National ServiceNationalismNATONatural GasNatureNature vs. NurtureNazi GermanyNazismNeandertalNeandertalsNeanderthalsNeo-NazisNeoconsNeoliberalismNeuroscienceNew Black Panther PartyNew Cold WarNew Silk RoadNew York CityNew York TimesNewt GingrichNick FuentesNikki HaleyNord Stream PipelinesNorth KoreaNSANuclear WarNuclear WeaponsNutrootsNY-23ObamaObama Jobs Death TollObama PresidencyObamacareObesityR.I.P.Obscured AmericanOilOil IndustryOlympicsOpen BordersOpen Borders LobbyOpen ThreadOpinion PollOsama bin LadenPakistanPaleoanthropologyPalestinePalestiniansPanhandlingPaper ReviewParentingParis AttacksPat BuchananPaul KrugmanPearl HarborPedophiliaPersonal GenomicsPersonal usePersonalityPewPhilippinesPhilosophyPigmentationPISAPolandPolicePolice StatePolitical CorrectnessPolitical Correctness Makes...Political EconomyPoliticiansPoliticsPollingPolygynyPopulationPopulation GeneticsPopulation GrowthPopulation ReplacementPopulismPorkPornographyPovertyPre-Obama AmericaPredictionPresidential Race '08Presidential Race '12Presidential Race '16PrivatizationProgressivesPropagandaProposition 8PsychologyPsychometricsPublic HealthPublic SchoolsPutinPutin Derangement SyndromeQassem SoleimaniQatarQuality of lifeQuantitative GeneticsRaceRace and IqRace/CrimeRace HustlersRace/IQRace RelationsRace RiotsRacial RealityRacialismRacismRadio InterviewsRapeRathergateReal EstateRecep Tayyip ErdoganReconquistaRed SeaReligionRepressionReprintRepublican PartyRepublicansReviewRFK AssassinationRicciRichard LynnRichard NixonRiotsRobert F. Kennedy Jr.Robert MuellerRoe vs. WadeRoman EmpireRon De SantisRon PaulRon UnzRonald ReaganRudy GiulianiRush LimbaughRussiaRussiagateRussian Elections 2018Russian MediaRussian Orthodox ChurchRussian SpectrumRussophobesSaddam HusseinSanctuary CitiesSandy HookSarah PalinSaudi ArabiaScienceScience FictionScience Fiction & FantasyScott Thomas BeauchampSecessionSEIUSelf indulgenceSerbiaSexSex DifferencesSexual SelectionSeymour HershShanghai Cooperation Organi...ShariaSheldon AdelsonShias and SunnisShinzo AbeShorts and FunniesSilicon ValleySJ WsSkin ColorSlaverySlavery ReparationsSocial MediaSocial ScienceSocialismSocietySociobiologySociologySomaliaSotomayorSouth AfricaSouth China SeaSouth KoreaSouthern BorderSoviet UnionSpaceSpainSPLCSportsStatisticsSteven PinkerSubprime crisisSupreme CourtSvidomySwedenSyriaSyrian Civil WarSyrizaTaiwanTake actionTalibanTaxesTea PartyTechnical considerationsTechnologyTed CruzTed KennedyTelevisionTerrorismTerrorist attacksTestingTestsTexasThe AKThe BibleThe CathedralThe ConfederacyThe ConstitutionThe EconomistThe Eight BanditosThe familyThe KoranThe LeftThe Middle EastThe SouthThe statesThe StragglerThe Zeroth Amendment to the...They don't support the troopsTibetTim GeithnerTom TancredoTony BlinkenTopTortureTradeTransgenderismTranshumanismTranslationTranslationsTravelTreasuryTrollingTrustTruthersTucker CarlsonTulsi GabbardTurkeyTVTwitterUKUkraineUnemploymentUnhingedUnionsUnited KingdomUnited NationsUnited StatesUS Capitol Storming 2021US Elections 2020US militaryUS PoliticsUS regionalismUSAUSS LibertyUyghursVaccinationVaccinesValerie JarrettVdareVenezuelaVeteransVictoria NulandVideo GamesVideo TypeVietnamVietnam WarViolenceVirtual worldVladimir PutinVolodymyr ZelenskyVote FraudVoter FraudWall StreetWarWar CrimesWar in DonbassWar on TerrorWashington ConsensusWashington PostWeb 2.0WelfareWestern declineWestern HypocrisyWestern MediaWestern revivalWhere in the WorldWhite AmericansWhite DeathWhite Flag DemocratsWhite Man's burdenWhite nationalismWhite NationalistsWhiterpeopleWikileaksWikipediaWinston ChurchillWisconsinWonketteWorking ClassWorld Economic ForumWorld War IWorld War IIWorld War IIIWorthy CausesWVSXi JinpingYemenYou TubeZionism  
 Source?   
 From? Articles/Columns OnlyiSteve BlogRussian Reaction BlogSBPDL BlogAudacious Epigone BlogGene Expression BlogNewsForumAnnouncementsPodcastsBooksExcluding BooksAll Website Content  
 Comments? ExcludeIncludeOnly  
@@ -277,23 +277,23 @@ Featured Articles
 
 ![](/IMAGES/ostar.gif)
 
-[Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
 
-[Tobias Langdon](https://www.unz.com/author/tobias-langdon/ "Articles, Columns, and Major Blog Posts by Tobias Langdon") • July 27, 2024
+[Hans Vogel](https://www.unz.com/author/hans-vogel/ "Articles, Columns, and Major Blog Posts by Hans Vogel") • July 30, 2024
 
-• 2,200 Words • [117 Comments](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/#comments) • [Reply](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/#respond)
+• 2,100 Words • [74 Comments](https://www.unz.com/article/germany-destroyed/#comments) • [Reply](https://www.unz.com/article/germany-destroyed/#respond)
 
-[![](//www.theoccidentalobserver.net/wp-content/uploads/2024/07/pic1-21.jpg)](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
+[![themapandflagofgermany](//www.unz.com/wp-content/uploads/2024/07/shutterstock_2406904521-100x68.jpg)](https://www.unz.com/article/germany-destroyed/)
 
 ![](/IMAGES/ostar.gif)
 
-[China Throws Clout Behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
+["Sifting and Winnowing": Evidence in the False Flag Trump Shooting](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/)
 
-[Pepe Escobar](https://www.unz.com/author/pepe-escobar/ "Articles, Columns, and Major Blog Posts by Pepe Escobar") • July 26, 2024
+[Kevin Barrett](https://www.unz.com/author/kevin-barrett/ "Articles, Columns, and Major Blog Posts by Kevin Barrett") • July 25, 2024
 
-• 1,200 Words • [57 Comments](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#comments) • [Reply](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#respond)
+• 2,100 Words • [191 Comments](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/#comments) • [Reply](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/#respond)
 
-[![dff2ef14-4b60-11ef-94e0-00163e02c055](//www.unz.com/wp-content/uploads/2024/07/dff2ef14-4b60-11ef-94e0-00163e02c055.jpeg)](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
+[![](//substackcdn.com/image/fetch/w_1456/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e114285-4f23-4255-b44b-3c63599cd585_1024x768.jpeg)](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/)
 
 [What is _The Unz Review?_](https://www.unz.com/masthead/)
 
@@ -335,11 +335,11 @@ Reader Feedback & Open Threads
 
 Bugs & Suggestions #2
 
-• [715 Comments](https://www.unz.com/announcement/bugs-suggestions-2/?showcomments#comments)
+• [716 Comments](https://www.unz.com/announcement/bugs-suggestions-2/?showcomments#comments)
 
 Open Thread #9
 
-• [1,686 Comments](https://www.unz.com/announcement/open-thread-9/#comments)
+• [1,687 Comments](https://www.unz.com/announcement/open-thread-9/#comments)
 
 [Books Banned by Amazon  
 Order Them Here](https://www.unz.com/bookstore/)
@@ -356,83 +356,79 @@ Columnists
 
 P[B](https://www.unz.com/aanglin/ "Blog View")[Andrew Anglin / The World's Most Censored Writer](https://www.unz.com/author/andrew-anglin/ "Teaser Archive")
 
-[Room Elephant: Evangelical Christians Described the Antichrist as Getting Shot in Public and Saved by a Miracle](https://www.unz.com/aanglin/room-elephant-evangelical-christians-described-the-antichrist-as-getting-shot-in-public-and-saved-by-a-miracle/) • [28 Comments](https://www.unz.com/aanglin/room-elephant-evangelical-christians-described-the-antichrist-as-getting-shot-in-public-and-saved-by-a-miracle/#comments)
+[Army Says Recruitment Partnership with the Rock Actually Made Things Worse](https://www.unz.com/aanglin/army-says-recruitment-partnership-with-the-rock-actually-made-things-worse/) • [Leave a Comment](https://www.unz.com/aanglin/army-says-recruitment-partnership-with-the-rock-actually-made-things-worse/#comments)
 
-[FBI Now Says “Getting Shot” and “Getting Hit by Shrapnel” Are Really the Same Thing](https://www.unz.com/aanglin/fbi-now-says-getting-shot-and-getting-hit-by-shrapnel-are-really-the-same-thing/) • [39 Comments](https://www.unz.com/aanglin/fbi-now-says-getting-shot-and-getting-hit-by-shrapnel-are-really-the-same-thing/#comments)
+[Canada Sends Warship Through Chinese Waters to "Reaffirm Commitment to Inclusive Indo-Pacific"](https://www.unz.com/aanglin/canada-sends-warship-through-chinese-waters-to-reaffirm-commitment-to-inclusive-indo-pacific/) • [Leave a Comment](https://www.unz.com/aanglin/canada-sends-warship-through-chinese-waters-to-reaffirm-commitment-to-inclusive-indo-pacific/#comments)
 
-[Barack and Big Mike Officially Endorse Kamala](https://www.unz.com/aanglin/barack-and-big-mike-officially-endorse-kamala/) • [30 Comments](https://www.unz.com/aanglin/barack-and-big-mike-officially-endorse-kamala/#comments)
+[Israel Assassinates Hamas Political Leader in Iran](https://www.unz.com/aanglin/israel-assassinates-hamas-political-leader-in-iran/) • [98 Comments](https://www.unz.com/aanglin/israel-assassinates-hamas-political-leader-in-iran/#comments)
 
-[Conservatives Whine After FBI Director Says Shrapnel Could Have Caused Trump Ear Scratch](https://www.unz.com/aanglin/conservatives-whine-after-fbi-director-says-shrapnel-could-have-caused-trump-ear-scratch/) • [66 Comments](https://www.unz.com/aanglin/conservatives-whine-after-fbi-director-says-shrapnel-could-have-caused-trump-ear-scratch/#comments)
+[White Nationalism at Last: Democrat Party Rallies "White Dudes" for Harris](https://www.unz.com/aanglin/white-nationalism-at-last-democrat-party-rallies-white-dudes-for-harris/) • [31 Comments](https://www.unz.com/aanglin/white-nationalism-at-last-democrat-party-rallies-white-dudes-for-harris/#comments)
 
-[It’s Better to Insert One’s Penis Into a Sofa Than an Indian Pagan Vagina](https://www.unz.com/aanglin/its-better-to-insert-ones-penis-into-a-sofa-than-an-indian-pagan-vagina/) • [129 Comments](https://www.unz.com/aanglin/its-better-to-insert-ones-penis-into-a-sofa-than-an-indian-pagan-vagina/#comments)
+[Gorilla Chieftain Lloyd Austin Swears Allegiance to Israel After Arabian Soccer Field Massacre](https://www.unz.com/aanglin/gorilla-chieftain-lloyd-austin-swears-allegiance-to-israel-after-arabian-soccer-field-massacre/) • [6 Comments](https://www.unz.com/aanglin/gorilla-chieftain-lloyd-austin-swears-allegiance-to-israel-after-arabian-soccer-field-massacre/#comments)
 
-[Boeing Has No Plans for Stranded Astronauts to Ever Return to Earth](https://www.unz.com/aanglin/boeing-has-no-plans-for-stranded-astronauts-to-ever-return-to-earth/) • [48 Comments](https://www.unz.com/aanglin/boeing-has-no-plans-for-stranded-astronauts-to-ever-return-to-earth/#comments)
+[Democrats Switch from Calling Trump a Fascist to Calling Him "Weird"](https://www.unz.com/aanglin/democrats-switch-from-calling-trump-a-fascist-to-calling-him-weird/) • [21 Comments](https://www.unz.com/aanglin/democrats-switch-from-calling-trump-a-fascist-to-calling-him-weird/#comments)
 
-[US Congress: Bibi Blathers About Burned Babies, Doubles Down on Endless War, Gets 55 Standing Ovations](https://www.unz.com/aanglin/us-congress-bibi-blathers-about-burned-babies-doubles-down-on-endless-war-gets-55-standing-ovations/) • [136 Comments](https://www.unz.com/aanglin/us-congress-bibi-blathers-about-burned-babies-doubles-down-on-endless-war-gets-55-standing-ovations/#comments)
+[UK Cancels Decision to Cut Arms to Israel After Jews Begin Bombing Lebanon](https://www.unz.com/aanglin/uk-cancels-decision-to-cut-arms-to-israel-after-jews-begin-bombing-lebanon/) • [8 Comments](https://www.unz.com/aanglin/uk-cancels-decision-to-cut-arms-to-israel-after-jews-begin-bombing-lebanon/#comments)
 
-[Clarification: Yes, Technically China Has Increased Military Spending in the Past Decade](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/) • [23 Comments](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/#comments)
+[Same Spooks Who Said in 2016 Russia Was Hacking for Trump Now Say Iran Hacking Against Him](https://www.unz.com/aanglin/same-spooks-who-said-in-2016-russia-was-hacking-for-trump-now-say-iran-hacking-against-him/) • [19 Comments](https://www.unz.com/aanglin/same-spooks-who-said-in-2016-russia-was-hacking-for-trump-now-say-iran-hacking-against-him/#comments)
 
-[DC: Protesters Burn Netanyahu Effigy, Attacked by Bloodthirsty Badge Niggers](https://www.unz.com/aanglin/dc-protesters-burn-netanyahu-effigy-attacked-by-bloodthirsty-badge-niggers/) • [17 Comments](https://www.unz.com/aanglin/dc-protesters-burn-netanyahu-effigy-attacked-by-bloodthirsty-badge-niggers/#comments)
+[Erdogan Says Turkey May “Enter” Israel Like They Entered Karabakh, Libya](https://www.unz.com/aanglin/erdogan-says-turkey-may-enter-israel-like-they-entered-karabakh-libya/) • [71 Comments](https://www.unz.com/aanglin/erdogan-says-turkey-may-enter-israel-like-they-entered-karabakh-libya/#comments)
 
-[Elon Musk Attended Bibi’s US Congress Speech as a “Special Guest” of the Israeli Child-Killer](https://www.unz.com/aanglin/elon-musk-attended-bibis-us-congress-speech-as-a-special-guest-of-the-israeli-child-killer/) • [24 Comments](https://www.unz.com/aanglin/elon-musk-attended-bibis-us-congress-speech-as-a-special-guest-of-the-israeli-child-killer/#comments)
+[Bitcoin Conference: Trump and RFK Both Take Strong Pro-Coiner Positions](https://www.unz.com/aanglin/bitcoin-conference-trump-and-rfk-both-take-strong-pro-coiner-positions/) • [24 Comments](https://www.unz.com/aanglin/bitcoin-conference-trump-and-rfk-both-take-strong-pro-coiner-positions/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/kbarrett/ "Blog View")[Kevin Barrett / Truth Jihadist](https://www.unz.com/author/kevin-barrett/ "Teaser Archive")
 
-[Kevin McCairn & Doooovid on Biowar and Other Conspiracies](https://www.unz.com/audio/kbarrett_kevin-mccairn-doooovid-on-biowar-and-other-conspiracies/) • [Leave a Comment](https://www.unz.com/audio/kbarrett_kevin-mccairn-doooovid-on-biowar-and-other-conspiracies/#comments)
+[Philip Kraske on RFK Jr., Gaza, and His New Play "How Far Casablanca"](https://www.unz.com/audio/kbarrett_philip-kraske-on-rfk-jr-gaza-and-his-new-play-how-far-casablanca/) • [5 Comments](https://www.unz.com/audio/kbarrett_philip-kraske-on-rfk-jr-gaza-and-his-new-play-how-far-casablanca/#comments)
 
-[Wyatt Peterson on JFK-RFK-9/11 Parallels](https://www.unz.com/audio/kbarrett_wyatt-peterson-on-jfk-rfk-9-11-parallels/) • [1 Comment](https://www.unz.com/audio/kbarrett_wyatt-peterson-on-jfk-rfk-9-11-parallels/#comments)
+[Kevin McCairn & Doooovid on Biowar and Other Conspiracies](https://www.unz.com/audio/kbarrett_kevin-mccairn-doooovid-on-biowar-and-other-conspiracies/) • [9 Comments](https://www.unz.com/audio/kbarrett_kevin-mccairn-doooovid-on-biowar-and-other-conspiracies/#comments)
 
-["Sifting and Winnowing": Evidence in the False Flag Trump Shooting](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/) • [145 Comments](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/#comments)
+[Wyatt Peterson on JFK-RFK-9/11 Parallels](https://www.unz.com/audio/kbarrett_wyatt-peterson-on-jfk-rfk-9-11-parallels/) • [4 Comments](https://www.unz.com/audio/kbarrett_wyatt-peterson-on-jfk-rfk-9-11-parallels/#comments)
 
-[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/) • [222 Comments](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/#comments)
+["Sifting and Winnowing": Evidence in the False Flag Trump Shooting](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/) • [191 Comments](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/#comments)
 
 P[B](https://www.unz.com/jcook/ "Blog View")[Jonathan Cook / Our Man from Nazareth](https://www.unz.com/author/jonathan-cook/ "Teaser Archive")
 
-[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/) • [188 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments)
+[Only a Failing US Empire Would be So Blind as to Cheer Netanyahu and His Genocide](https://www.unz.com/jcook/only-a-failing-us-empire-would-be-so-blind-as-to-cheer-netanyahu-and-his-genocide/) • [148 Comments](https://www.unz.com/jcook/only-a-failing-us-empire-would-be-so-blind-as-to-cheer-netanyahu-and-his-genocide/#comments)
+
+[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/) • [194 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments)
 
 P[B](https://www.unz.com/jderbyshire/ "Blog View")[John Derbyshire / Immigrant Doomsayer](https://www.unz.com/author/john-derbyshire/ "Teaser Archive")
 
-[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/) • [18 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
+[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/) • [19 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
 
 P[B](https://www.unz.com/pescobar/ "Blog View")[Pepe Escobar / A Roving Eye on Globalistan](https://www.unz.com/author/pepe-escobar/ "Teaser Archive")
 
-[China Throws Clout Behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/) • [57 Comments](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#comments)
+[China Throws Clout Behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/) • [125 Comments](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#comments)
 
-[China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/) • [41 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
-
-[China Designs an Economic Road Map All the Way to 2029](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/) • [34 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
+[China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/) • [46 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
 
 P[B](https://www.unz.com/pgiraldi/ "Blog View")[Philip Giraldi / National Intelligence](https://www.unz.com/author/philip-giraldi/ "Teaser Archive")
 
-[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/) • [170 Comments](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/#comments)
+[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/) • [205 Comments](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/ghood/ "Blog View")[Gregory Hood / For an American Renaissance](https://www.unz.com/author/gregory-hood/ "Teaser Archive")
 
-[Why Trump Is No Longer the Clear Favorite](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/) • [38 Comments](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/#comments)
-
-[But What if Biden Wasn’t Running for President?](https://www.unz.com/audio/ghood_but-what-if-biden-wasnt-running-for-president/) • [5 Comments](https://www.unz.com/audio/ghood_but-what-if-biden-wasnt-running-for-president/#comments)
-
-[Who Cancels Whom?](https://www.unz.com/ghood/who-cancels-whom/) • [24 Comments](https://www.unz.com/ghood/who-cancels-whom/#comments)
+[Why Trump Is No Longer the Clear Favorite](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/) • [43 Comments](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/#comments)
 
 P[B](https://www.unz.com/mhudson/ "Blog View")[Michael Hudson / Long-Term Economic Trender](https://www.unz.com/author/michael-hudson/ "Teaser Archive")
 
-[Barbarism or Civilization](https://www.unz.com/mhudson/barbarism-or-civilization/) • [2 Comments](https://www.unz.com/mhudson/barbarism-or-civilization/#comments)
+[Barbarism or Civilization](https://www.unz.com/mhudson/barbarism-or-civilization/) • [7 Comments](https://www.unz.com/mhudson/barbarism-or-civilization/#comments)
 
 P[B](https://www.unz.com/jfreud/ "Blog View")[Jung-Freud / Culturalism](https://www.unz.com/author/jung-freud/ "Teaser Archive")
 
-[The Remarkable Significance of the Pro-Palestinian Movement in the 21st Century](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/) • [30 Comments](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/#comments)
+[The Remarkable Significance of the Pro-Palestinian Movement in the 21st Century](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/) • [31 Comments](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/#comments)
 
 P[B](https://www.unz.com/emargolis/ "Blog View")[Eric Margolis / War Reporter at the Top of the World](https://www.unz.com/author/eric-margolis/ "Teaser Archive")
 
-[The Real Boss of Congress Comes to Town](https://www.unz.com/emargolis/the-real-boss-of-congress-comes-to-town/) • [8 Comments](https://www.unz.com/emargolis/the-real-boss-of-congress-comes-to-town/#comments)
+[The Real Boss of Congress Comes to Town](https://www.unz.com/emargolis/the-real-boss-of-congress-comes-to-town/) • [10 Comments](https://www.unz.com/emargolis/the-real-boss-of-congress-comes-to-town/#comments)
 
 P[B](https://www.unz.com/imercer/ "Blog View")[Ilana Mercer / The Paleolibertarian Perspective](https://www.unz.com/author/ilana-mercer/ "Teaser Archive")
 
-[Defending Gaza (II): ‘Synagogue of Satan’ Denies Genocide While Committing Genocide, Effectively Asserting A Right to ...](https://www.unz.com/imercer/defending-gaza-ii-synagogue-of-satan-denies-genocide-while-committing-genocide-effectively-asserting-a-right-to-genocide/) • [149 Comments](https://www.unz.com/imercer/defending-gaza-ii-synagogue-of-satan-denies-genocide-while-committing-genocide-effectively-asserting-a-right-to-genocide/#comments)
+[Defending Gaza (II): ‘Synagogue of Satan’ Denies Genocide While Committing Genocide, Effectively Asserting A Right to ...](https://www.unz.com/imercer/defending-gaza-ii-synagogue-of-satan-denies-genocide-while-committing-genocide-effectively-asserting-a-right-to-genocide/) • [150 Comments](https://www.unz.com/imercer/defending-gaza-ii-synagogue-of-satan-denies-genocide-while-committing-genocide-effectively-asserting-a-right-to-genocide/#comments)
 
 P[B](https://www.unz.com/rpaul/ "Blog View")[Ron Paul / Republican Revolutionary](https://www.unz.com/author/ron-paul/ "Teaser Archive")
 
-[Republican Platform Ignores Real Causes of Inflation](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/) • [15 Comments](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/#comments)
+[Supreme Court Takes Two Steps Forward, One Step Back.](https://www.unz.com/rpaul/supreme-court-takes-two-steps-forward-one-step-back/) • [6 Comments](https://www.unz.com/rpaul/supreme-court-takes-two-steps-forward-one-step-back/#comments)
 
 P[B](https://www.unz.com/trall/ "Blog View")[Ted Rall / A Cartoonist Sketches America](https://www.unz.com/author/ted-rall/ "Teaser Archive")
 
@@ -440,43 +436,45 @@ P[B](https://www.unz.com/trall/ "Blog View")[Ted Rall / A Cartoonist Sketches Am
 
 P[B](https://www.unz.com/proberts/ "Blog View")[Paul Craig Roberts / American Regime Defector](https://www.unz.com/author/paul-craig-roberts/ "Teaser Archive")
 
+[The Economic Situation of the West](https://www.unz.com/proberts/the-economic-situation-of-the-west/)
+
+[Is Trump Setting Up His Own Assassination?](https://www.unz.com/proberts/is-trump-setting-up-his-own-assassination/)
+
+[A Tale of Two Cats](https://www.unz.com/proberts/a-tale-of-two-cats/)
+
 [Where Matters Stand](https://www.unz.com/proberts/where-matters-stand/)
-
-[USA as I Knew It Has Passed Into the Trash Bin of History](https://www.unz.com/proberts/usa-as-i-knew-it-has-passed-into-the-trash-bin-of-history/)
-
-[Are There Skeletons in the Closet of NBC’s VP Choice for Kamala?](https://www.unz.com/proberts/are-there-skeletons-in-the-closet-of-nbcs-vp-choice-for-kamala/)
-
-[US Representatives Jim Jordan & James Comer Must Undertake a Congressional Investigation of the Assassination Attempt on T...](https://www.unz.com/proberts/us-representatives-jim-jordan-james-comer-must-undertake-a-congressional-investigation-of-the-assassination-attempt-on-trump/)
 
 P[B](https://www.unz.com/ishamir/ "Blog View")[Israel Shamir / The Russian-Israeli-Russian Perspective](https://www.unz.com/author/israel-shamir/ "Teaser Archive")
 
-[Why Do Brits Hate Russians?](https://www.unz.com/ishamir/why-do-brits-hate-russians/) • [558 Comments](https://www.unz.com/ishamir/why-do-brits-hate-russians/?showcomments#comments)
+[Why Do Brits Hate Russians?](https://www.unz.com/ishamir/why-do-brits-hate-russians/) • [559 Comments](https://www.unz.com/ishamir/why-do-brits-hate-russians/?showcomments#comments)
 
 P[B](https://www.unz.com/estriker/ "Blog View")[Eric Striker / Striking for National Justice](https://www.unz.com/author/eric-striker/ "Teaser Archive")
 
-[The Jewish Golden Age Continues Part I: American Law](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/) • [83 Comments](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/#comments)
+[The Jewish Golden Age Continues Part I: American Law](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/) • [84 Comments](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/jtaylor/ "Blog View")[Jared Taylor / Mr. White Advocacy](https://www.unz.com/author/jared-taylor/ "Teaser Archive")
 
-[Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/) • [24 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
+[Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/) • [30 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
 
-['30 by 30:' the Push for Women in the Secret Service](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/) • [13 Comments](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/#comments)
-
-[Unspeakable Incompetence: What Went Wrong at the Butler Trump Rally](https://www.unz.com/audio/jtaylor_unspeakable-incompetence-what-went-wrong-at-the-butler-trump-rally/) • [14 Comments](https://www.unz.com/audio/jtaylor_unspeakable-incompetence-what-went-wrong-at-the-butler-trump-rally/#comments)
+['30 by 30:' the Push for Women in the Secret Service](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/) • [14 Comments](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/#comments)
 
 P[B](https://www.unz.com/runz/ "Blog View")[Ron Unz / Editor-in-Chief](https://www.unz.com/author/ron-unz/ "Teaser Archive")
 
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/) • [245 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/) • [336 Comments](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/#comments)
 
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/) • [877 Comments](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/?showcomments#comments)
+[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/) • [280 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+
+[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/) • [891 Comments](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/?showcomments#comments)
 
 [Body Counts and Blood Libels in the Israel/Gaza Conflict](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/) • [219 Comments](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/#comments)
 
-[American Pravda: JFK, Richard Nixon, the CIA, and Watergate](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/) • [373 Comments](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/#comments)
+[American Pravda: JFK, Richard Nixon, the CIA, and Watergate](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/) • [378 Comments](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/#comments)
+
+[Electoral Secession and the End of Imperial Britain](https://www.unz.com/runz/electoral-secession-and-the-end-of-imperial-britain/) • [99 Comments](https://www.unz.com/runz/electoral-secession-and-the-end-of-imperial-britain/#comments)
 
 P[B](https://www.unz.com/mwhitney/ "Blog View")[Mike Whitney / Economic CounterPuncher](https://www.unz.com/author/mike-whitney/ "Teaser Archive")
 
-[China Brings Peace to the Middle East While Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/) • [228 Comments](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/#comments)
+[China Brings Peace to the Middle East While Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/) • [234 Comments](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/#comments)
 
 Archived Blogs and Columns
 
@@ -632,47 +630,47 @@ Bloggers
 
 [T](https://www.unz.com/author/steve-sailer/ "Teaser Archives")[Steve Sailer / Human Biodiversity](https://www.unz.com/isteve/ "Blog View")
 
+[NYT Admits the Racial Reckoning Helped Cause the Road Wreckening](https://www.unz.com/isteve/nyt-admits-the-racial-reckoning-helped-cause-the-road-wreckening/)
+
+July 31, 2024 • [124 Comments](https://www.unz.com/isteve/nyt-admits-the-racial-reckoning-helped-cause-the-road-wreckening/#comments)
+
+[New Trump ad](https://www.unz.com/isteve/new-trump-ad/)
+
+July 29, 2024 • [280 Comments](https://www.unz.com/isteve/new-trump-ad/#comments)
+
 [What's Ramzan Kadyrov Up to Lately?](https://www.unz.com/isteve/whats-ramzan-kadyrov-up-to-lately/)
 
-July 27, 2024 • [48 Comments](https://www.unz.com/isteve/whats-ramzan-kadyrov-up-to-lately/#comments)
+July 27, 2024 • [264 Comments](https://www.unz.com/isteve/whats-ramzan-kadyrov-up-to-lately/#comments)
 
 [Experts Say: Follow the Science!](https://www.unz.com/isteve/experts-say-follow-the-science/)
 
-July 26, 2024 • [219 Comments](https://www.unz.com/isteve/experts-say-follow-the-science/#comments)
+July 26, 2024 • [300 Comments](https://www.unz.com/isteve/experts-say-follow-the-science/#comments)
 
 [Was "Grapes of Wrath" a "Progressive" Film?](https://www.unz.com/isteve/was-grapes-of-wrath-a-progressive-film/)
 
-July 25, 2024 • [162 Comments](https://www.unz.com/isteve/was-grapes-of-wrath-a-progressive-film/#comments)
+July 25, 2024 • [224 Comments](https://www.unz.com/isteve/was-grapes-of-wrath-a-progressive-film/#comments)
 
 [What's the Matter with Economists?](https://www.unz.com/isteve/what-the-matter-with-economists/)
 
-July 24, 2024 • [273 Comments](https://www.unz.com/isteve/what-the-matter-with-economists/#comments)
+July 24, 2024 • [276 Comments](https://www.unz.com/isteve/what-the-matter-with-economists/#comments)
 
 [Vp?](https://www.unz.com/isteve/vp/)
 
-July 23, 2024 • [471 Comments](https://www.unz.com/isteve/vp/#comments)
+July 23, 2024 • [498 Comments](https://www.unz.com/isteve/vp/#comments)
 
 [Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
 
-July 21, 2024 • [614 Comments](https://www.unz.com/isteve/biden-drops-out/#comments)
+July 21, 2024 • [625 Comments](https://www.unz.com/isteve/biden-drops-out/#comments)
 
 [Dog Cologne](https://www.unz.com/isteve/dog-cologne/)
 
-July 20, 2024 • [183 Comments](https://www.unz.com/isteve/dog-cologne/#comments)
-
-[RNC Speeches](https://www.unz.com/isteve/rnc-speeches/)
-
-July 18, 2024 • [437 Comments](https://www.unz.com/isteve/rnc-speeches/#comments)
-
-[What if I'm Right?](https://www.unz.com/isteve/what-if-im-right/)
-
-July 18, 2024 • [193 Comments](https://www.unz.com/isteve/what-if-im-right/#comments)
+July 20, 2024 • [186 Comments](https://www.unz.com/isteve/dog-cologne/#comments)
 
 [T](https://www.unz.com/author/anatoly-karlin/ "Teaser Archives")[Russian Reaction Community](https://www.unz.com/akarlin/ "Blog View")
 
 [Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
 
-July 22, 2024 • [452 Comments](https://www.unz.com/akarlin/open-thread-255/#comments)
+July 22, 2024 • [737 Comments](https://www.unz.com/akarlin/open-thread-255/#comments)
 
 [Open Thread 254](https://www.unz.com/akarlin/open-thread-254/)
 
@@ -680,115 +678,167 @@ July 12, 2024 • [1,033 Comments](https://www.unz.com/akarlin/open-thread-254/
 
 [Open Thread 253](https://www.unz.com/akarlin/open-thread-253/)
 
-July 2, 2024 • [858 Comments](https://www.unz.com/akarlin/open-thread-253/#comments)
+July 2, 2024 • [860 Comments](https://www.unz.com/akarlin/open-thread-253/#comments)
 
 [T](https://www.unz.com/author/paul-kersey/ "Teaser Archives")[Paul Kersey / SBPDL](https://www.unz.com/sbpdl/ "Blog View")
 
+["I'm Not Goin' to Jackson": In 82% Black Jackson, MS (One of America's Least Diverse Cities), Black Leaders Call for Texac...](https://www.unz.com/sbpdl/im-not-goin-to-jackson-in-82-black-jackson-ms-one-of-americas-least-diverse-cities-black-leaders-call-for-texaco-to-be-shut-down-over-black-on-black-violence/)
+
+July 31, 2024 • [32 Comments](https://www.unz.com/sbpdl/im-not-goin-to-jackson-in-82-black-jackson-ms-one-of-americas-least-diverse-cities-black-leaders-call-for-texaco-to-be-shut-down-over-black-on-black-violence/#comments)
+
+[Bottoms Up! "White Dudes for Harris" a Zoom Space for White Guys Willing to Join Pete Buttigieg on Their Knees for VP Harris](https://www.unz.com/sbpdl/bottoms-up-white-dudes-for-harris-a-zoom-space-for-white-guys-willing-to-join-pete-buttigieg-on-their-knees-for-vp-harris/)
+
+July 28, 2024 • [53 Comments](https://www.unz.com/sbpdl/bottoms-up-white-dudes-for-harris-a-zoom-space-for-white-guys-willing-to-join-pete-buttigieg-on-their-knees-for-vp-harris/#comments)
+
 [Erasing History: Defense Secretary Launches Investigation Into 20 White U.S. Troops Who Were Awarded the Medal of Honor fo...](https://www.unz.com/sbpdl/erasing-history-defense-secretary-launches-investigation-into-20-white-u-s-troops-who-were-awarded-the-medal-of-honor-for-their-valor-at-the-1890-battle-of-wounded-knee/)
 
-July 25, 2024 • [18 Comments](https://www.unz.com/sbpdl/erasing-history-defense-secretary-launches-investigation-into-20-white-u-s-troops-who-were-awarded-the-medal-of-honor-for-their-valor-at-the-1890-battle-of-wounded-knee/#comments)
-
-[The GOP Push Against DEI Gets Hot: Rep. Burchett Correctly Kamala Harris a "DEI Vice President"](https://www.unz.com/sbpdl/the-gop-push-against-dei-gets-hot-rep-burchett-correctly-kamala-harris-a-dei-vice-president/)
-
-July 24, 2024 • [22 Comments](https://www.unz.com/sbpdl/the-gop-push-against-dei-gets-hot-rep-burchett-correctly-kamala-harris-a-dei-vice-president/#comments)
-
-[JD Vance Accused of Laying "Easter Egg of White Nationalism" in RNC Speech by MSNBC Host for Wanting to be Buried in Famil...](https://www.unz.com/sbpdl/jd-vance-accused-of-laying-easter-egg-of-white-nationalism-in-rnc-speech-by-msnbc-speech-for-wanting-to-be-buried-in-family-plot-in-kentucky/)
-
-July 19, 2024 • [55 Comments](https://www.unz.com/sbpdl/jd-vance-accused-of-laying-easter-egg-of-white-nationalism-in-rnc-speech-by-msnbc-speech-for-wanting-to-be-buried-in-family-plot-in-kentucky/#comments)
+July 25, 2024 • [51 Comments](https://www.unz.com/sbpdl/erasing-history-defense-secretary-launches-investigation-into-20-white-u-s-troops-who-were-awarded-the-medal-of-honor-for-their-valor-at-the-1890-battle-of-wounded-knee/#comments)
 
 Categories
 
 [T](https://www.unz.com/category/foreign-policy/ "Teaser Archive")[Foreign Policy Articles](https://www.unz.com/tcategory/foreign-policy/ "Summary Page")
 
-[Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
+[Israelis Say It's Okay to Rape Palestinian Prisoners](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/)
 
-Tobias Langdon • [117 Comments](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/#comments)
+Mike Whitney • [186 Comments](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/#comments)
 
-[China Throws Clout Behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
+[From the Ground in Gaza](https://www.unz.com/article/from-the-ground-in-gaza/)
 
-Pepe Escobar • [57 Comments](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#comments)
+Talia Mullin • [5 Comments](https://www.unz.com/article/from-the-ground-in-gaza/#comments)
 
-[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/)
+[The Battle of Tinzaouaten — the Buccaneer Stops Here](https://www.unz.com/article/the-battle-of-tinzaouaten-the-buccaneer-stops-here/)
 
-Philip Giraldi • [170 Comments](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/#comments)
+John Helmer • [2 Comments](https://www.unz.com/article/the-battle-of-tinzaouaten-the-buccaneer-stops-here/#comments)
 
-[Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
 
-Patrick Lawrence • [236 Comments](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/#comments)
+Hans Vogel • [74 Comments](https://www.unz.com/article/germany-destroyed/#comments)
 
-[Clarification: Yes, Technically China Has Increased Military Spending in the Past Decade](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/)
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
 
-Andrew Anglin • [23 Comments](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/#comments)
+Ron Unz • [336 Comments](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/#comments)
 
-[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
+[Is There a Risk That Kamala Harris Might “Go Soft” on Foreign Policy?](https://www.unz.com/article/is-there-a-risk-that-kamala-harris-might-go-soft-on-foreign-policy/)
 
-Andrew Anglin • [61 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
+Alastair Crooke • [76 Comments](https://www.unz.com/article/is-there-a-risk-that-kamala-harris-might-go-soft-on-foreign-policy/#comments)
 
-[T](https://www.unz.com/category/ideology/ "Teaser Archive")[Ideology Articles](https://www.unz.com/tcategory/ideology/ "Summary Page")
+[T](https://www.unz.com/category/culture-society/ "Teaser Archive")[Culture/Society Articles](https://www.unz.com/tcategory/culture-society/ "Summary Page")
 
-[Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
+[Israelis Say It's Okay to Rape Palestinian Prisoners](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/)
 
-Tobias Langdon • [117 Comments](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/#comments)
+Mike Whitney • [186 Comments](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/#comments)
 
-[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/)
+[June 2024 Black-On-White Homicide Report](https://www.unz.com/article/june-2024-black-on-white-homicide-report/)
 
-Philip Giraldi • [170 Comments](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/#comments)
+Kenn Gividen • [4 Comments](https://www.unz.com/article/june-2024-black-on-white-homicide-report/#comments)
 
-[Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/)
+[Courage Cannot be Outsourced](https://www.unz.com/article/courage-cannot-be-outsourced/)
 
-Jared Taylor • [24 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
+F. Roger Devlin • [9 Comments](https://www.unz.com/article/courage-cannot-be-outsourced/#comments)
 
-[The Fall of Minneapolis](https://www.unz.com/article/the-fall-of-minneapolis-2/)
+[Trump Is Heading for Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
 
-Spencer J. Quinn • [Leave a Comment](https://www.unz.com/article/the-fall-of-minneapolis-2/#comments)
+Keith Woods • [351 Comments](https://www.unz.com/article/trump-is-heading-for-defeat/#comments)
 
-[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
+[J. D. Vance Defends His Remarks About “Childless Cat Ladies”](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/)
 
-Jim Goad • [290 Comments](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/#comments)
+Jim Goad • [184 Comments](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/#comments)
 
-[Conservatives Whine After FBI Director Says Shrapnel Could Have Caused Trump Ear Scratch](https://www.unz.com/aanglin/conservatives-whine-after-fbi-director-says-shrapnel-could-have-caused-trump-ear-scratch/)
+[Bleak Post-2020 Demographic Data for California](https://www.unz.com/article/bleak-post-2020-demographic-data-for-california/)
 
-Andrew Anglin • [66 Comments](https://www.unz.com/aanglin/conservatives-whine-after-fbi-director-says-shrapnel-could-have-caused-trump-ear-scratch/#comments)
+Robert Stark • [6 Comments](https://www.unz.com/article/bleak-post-2020-demographic-data-for-california/#comments)
 
 [T](https://www.unz.com/category/history/ "Teaser Archive")[History Articles](https://www.unz.com/tcategory/history/ "Summary Page")
 
-[China Throws Clout Behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
+[The Battle of Tinzaouaten — the Buccaneer Stops Here](https://www.unz.com/article/the-battle-of-tinzaouaten-the-buccaneer-stops-here/)
 
-Pepe Escobar • [57 Comments](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/#comments)
+John Helmer • [2 Comments](https://www.unz.com/article/the-battle-of-tinzaouaten-the-buccaneer-stops-here/#comments)
 
-[Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
 
-Patrick Lawrence • [236 Comments](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/#comments)
-
-[Clarification: Yes, Technically China Has Increased Military Spending in the Past Decade](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/)
-
-Andrew Anglin • [23 Comments](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/#comments)
-
-[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
-
-Andrew Anglin • [61 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
+Hans Vogel • [74 Comments](https://www.unz.com/article/germany-destroyed/#comments)
 
 [Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/)
 
-Jared Taylor • [24 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
+Jared Taylor • [30 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
+
+[Courage Cannot be Outsourced](https://www.unz.com/article/courage-cannot-be-outsourced/)
+
+F. Roger Devlin • [9 Comments](https://www.unz.com/article/courage-cannot-be-outsourced/#comments)
+
+[Trump Is Heading for Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
+
+Keith Woods • [351 Comments](https://www.unz.com/article/trump-is-heading-for-defeat/#comments)
+
+[Otto Dickel on the Jews](https://www.unz.com/article/otto-dickel-on-the-jews/)
+
+Alexander Jacob • [4 Comments](https://www.unz.com/article/otto-dickel-on-the-jews/#comments)
+
+[T](https://www.unz.com/category/ideology/ "Teaser Archive")[Ideology Articles](https://www.unz.com/tcategory/ideology/ "Summary Page")
+
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
+
+Ron Unz • [336 Comments](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/#comments)
+
+[Is There a Risk That Kamala Harris Might “Go Soft” on Foreign Policy?](https://www.unz.com/article/is-there-a-risk-that-kamala-harris-might-go-soft-on-foreign-policy/)
+
+Alastair Crooke • [76 Comments](https://www.unz.com/article/is-there-a-risk-that-kamala-harris-might-go-soft-on-foreign-policy/#comments)
+
+[Courage Cannot be Outsourced](https://www.unz.com/article/courage-cannot-be-outsourced/)
+
+F. Roger Devlin • [9 Comments](https://www.unz.com/article/courage-cannot-be-outsourced/#comments)
+
+[The Military Must Stop Ignoring the Southern Border](https://www.unz.com/article/the-military-must-stop-ignoring-the-southern-border/)
+
+James Durso • [9 Comments](https://www.unz.com/article/the-military-must-stop-ignoring-the-southern-border/#comments)
+
+[Trump Is Heading for Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
+
+Keith Woods • [351 Comments](https://www.unz.com/article/trump-is-heading-for-defeat/#comments)
+
+[J. D. Vance Defends His Remarks About “Childless Cat Ladies”](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/)
+
+Jim Goad • [184 Comments](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/#comments)
+
+[T](https://www.unz.com/category/raceethnicity/ "Teaser Archive")[Race/Ethnicity Articles](https://www.unz.com/tcategory/raceethnicity/ "Summary Page")
+
+[June 2024 Black-On-White Homicide Report](https://www.unz.com/article/june-2024-black-on-white-homicide-report/)
+
+Kenn Gividen • [4 Comments](https://www.unz.com/article/june-2024-black-on-white-homicide-report/#comments)
+
+[Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/)
+
+Jared Taylor • [30 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
 
 [The Fall of Minneapolis](https://www.unz.com/article/the-fall-of-minneapolis-2/)
 
-Spencer J. Quinn • [Leave a Comment](https://www.unz.com/article/the-fall-of-minneapolis-2/#comments)
+Spencer J. Quinn • [8 Comments](https://www.unz.com/article/the-fall-of-minneapolis-2/#comments)
+
+[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
+
+Jim Goad • [336 Comments](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/#comments)
+
+[Why Trump Is No Longer the Clear Favorite](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/)
+
+Gregory Hood • [43 Comments](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/#comments)
+
+[Black-Run America: Rethinking the Alamo](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/)
+
+Jared Taylor • [24 Comments](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/#comments)
 
 [T](https://www.unz.com/category/economics/ "Teaser Archive")[Economics Articles](https://www.unz.com/tcategory/economics/ "Summary Page")
 
 [Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
 
-Andrew Anglin • [61 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
+Andrew Anglin • [62 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
 
 [China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/)
 
-Pepe Escobar • [41 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
+Pepe Escobar • [46 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
 
 [China Designs an Economic Road Map All the Way to 2029](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/)
 
-Pepe Escobar • [34 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
+Pepe Escobar • [35 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
 
 [Russia’s Cargo-Carrying Revolution Is Swifter Than Any Logistics Revolution in History](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/)
 
@@ -801,32 +851,6 @@ Michael Hudson • [90 Comments](https://www.unz.com/mhudson/world-shaking-up-e
 [NATO vs Voters](https://www.unz.com/mhudson/nato-vs-voters-how-the-wests-warmongering-threatens-democracy-and-the-global-majority/)
 
 Michael Hudson • [8 Comments](https://www.unz.com/mhudson/nato-vs-voters-how-the-wests-warmongering-threatens-democracy-and-the-global-majority/#comments)
-
-[T](https://www.unz.com/category/raceethnicity/ "Teaser Archive")[Race/Ethnicity Articles](https://www.unz.com/tcategory/raceethnicity/ "Summary Page")
-
-[Like It or Not, Here Comes Kamala](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/)
-
-Jared Taylor • [24 Comments](https://www.unz.com/jtaylor/like-it-or-not-here-comes-kamala/#comments)
-
-[The Fall of Minneapolis](https://www.unz.com/article/the-fall-of-minneapolis-2/)
-
-Spencer J. Quinn • [Leave a Comment](https://www.unz.com/article/the-fall-of-minneapolis-2/#comments)
-
-[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
-
-Jim Goad • [290 Comments](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/#comments)
-
-[Why Trump Is No Longer the Clear Favorite](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/)
-
-Gregory Hood • [38 Comments](https://www.unz.com/ghood/why-trump-is-no-longer-the-clear-favorite/#comments)
-
-[Black-Run America: Rethinking the Alamo](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/)
-
-Jared Taylor • [23 Comments](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/#comments)
-
-[Is Castizo Futurism Compatible with White Tribalism?](https://www.unz.com/article/is-castizo-futurism-compatible-with-white-tribalism/)
-
-Robert Stark • [24 Comments](https://www.unz.com/article/is-castizo-futurism-compatible-with-white-tribalism/#comments)
 
 [T](https://www.unz.com/category/arts-letters/ "Teaser Archive")[Arts/Letters Articles](https://www.unz.com/tcategory/arts-letters/ "Summary Page")
 
@@ -854,37 +878,11 @@ Gregory Hood • [157 Comments](https://www.unz.com/ghood/the-american-right-gr
 
 Edward Dutton • [11 Comments](https://www.unz.com/article/trigger-warnings-make-gen-z-even-more-anxious/#comments)
 
-[T](https://www.unz.com/category/culture-society/ "Teaser Archive")[Culture/Society Articles](https://www.unz.com/tcategory/culture-society/ "Summary Page")
-
-[MEGALOPOLIS: The Future of Independent and Right Wing Cinema](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/)
-
-John Macdonald • [14 Comments](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/#comments)
-
-[The Remarkable Significance of the Pro-Palestinian Movement in the 21st Century](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/)
-
-Jung-Freud • [30 Comments](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/#comments)
-
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Andrew Anglin • [351 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
-
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
-
-Marshall Yeats • [231 Comments](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/#comments)
-
-[The Move to Seek Fellowship and Common Values on the Right](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/)
-
-Kevin MacDonald • [103 Comments](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/#comments)
-
-[Democracy and Identity](https://www.unz.com/article/democracy-and-identity/)
-
-Mark Weber • [9 Comments](https://www.unz.com/article/democracy-and-identity/#comments)
-
 [T](https://www.unz.com/category/science/ "Teaser Archive")[Science Articles](https://www.unz.com/tcategory/science/ "Summary Page")
 
 [Woke Eugenics: Why Wokeness Is a Group-Level Adaptation That Will Save the European Peoples](https://www.unz.com/article/woke-eugenics-why-wokeness-is-a-group-level-adaptation-that-will-save-the-european-peoples/)
 
-Edward Dutton • [16 Comments](https://www.unz.com/article/woke-eugenics-why-wokeness-is-a-group-level-adaptation-that-will-save-the-european-peoples/#comments)
+Edward Dutton • [24 Comments](https://www.unz.com/article/woke-eugenics-why-wokeness-is-a-group-level-adaptation-that-will-save-the-european-peoples/#comments)
 
 [Matt Yglesias On the Purpose of Tenure, and What Happened (In the 1970s!) to Richard Herrnstein](https://www.unz.com/article/matt-yglesias-on-the-purpose-of-tenure-and-what-happened-in-the-1970s-to-richard-herrnstein/)
 
@@ -912,7 +910,7 @@ Series & Chronic Topics
 
 [American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
 
-Ron Unz • [245 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+Ron Unz • [280 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
 
 [9/11 Articles](https://www.unz.com/topic/9-11/feature/)
 
@@ -934,9 +932,9 @@ John Derbyshire • [176 Comments](https://www.unz.com/jderbyshire/the-talk-non
 
 [World War II Articles](https://www.unz.com/topic/world-war-ii/feature/)
 
-[Why Everything You Know About World War II Is Wrong](https://www.unz.com/runz/why-everything-you-know-about-world-war-ii-is-wrong/)
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
 
-Ron Unz and Mike Whitney • [1,700 Comments](https://www.unz.com/runz/why-everything-you-know-about-world-war-ii-is-wrong/?showcomments#comments)
+Hans Vogel • [74 Comments](https://www.unz.com/article/germany-destroyed/#comments)
 
 [Holocaust Articles](https://www.unz.com/topic/holocaust/feature/)
 
@@ -982,79 +980,76 @@ Ron Unz • [430 Comments](https://www.unz.com/runz/american-pravda-why-the-med
 
 Most PopularComments One DayOne WeekOne MonthSix Months
 
-Philip Giraldi  
-[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/)
+Mike Whitney  
+[Israelis Say it's Okay to Rape Palestinian Prisoners](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/)
 
-Robert Stark  
-[J.D. Vance and The Future of MAGA](https://www.unz.com/article/j-d-vance-and-the-future-of-maga/)
+Jim Goad  
+[J. D. Vance Defends His Remarks About “Childless Cat Ladies”](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/)
 
-Steve Sailer  
-[Experts say: Follow The Science!](https://www.unz.com/isteve/experts-say-follow-the-science/)
-
-Andrew Anglin  
-[Barack and Big Mike Officially Endorse Kamala](https://www.unz.com/aanglin/barack-and-big-mike-officially-endorse-kamala/)
+Keith Woods  
+[Trump Is Heading For Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
 
 Andrew Anglin  
-[It’s Better to Insert One’s Penis Into a Sofa Than an Indian Pagan Vagina](https://www.unz.com/aanglin/its-better-to-insert-ones-penis-into-a-sofa-than-an-indian-pagan-vagina/)
+[Israel Assassinates Hamas Political Leader in Iran](https://www.unz.com/aanglin/israel-assassinates-hamas-political-leader-in-iran/)
+
+Michael Hudson  
+[Barbarism or Civilization](https://www.unz.com/mhudson/barbarism-or-civilization/)
 
   
 
+Steve Sailer  
+[NYT admits the racial reckoning helped cause the road wreckening](https://www.unz.com/isteve/nyt-admits-the-racial-reckoning-helped-cause-the-road-wreckening/)
+
+Ron Unz  
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
+
 Andrew Anglin  
-[FBI Now Says “Getting Shot” and “Getting Hit by Shrapnel” are Really the Same Thing](https://www.unz.com/aanglin/fbi-now-says-getting-shot-and-getting-hit-by-shrapnel-are-really-the-same-thing/)
+[White Nationalism at Last: Democrat Party Rallies "White Dudes" for Harris](https://www.unz.com/aanglin/white-nationalism-at-last-democrat-party-rallies-white-dudes-for-harris/)
+
+Andrew Anglin  
+[Gorilla Chieftain Lloyd Austin Swears Allegiance to Israel After Arabian Soccer Field Massacre](https://www.unz.com/aanglin/gorilla-chieftain-lloyd-austin-swears-allegiance-to-israel-after-arabian-soccer-field-massacre/)
+
+Hans Vogel  
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
+
+  
 
 Tobias Langdon  
 [Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
 
+Keith Woods  
+[Trump Is Heading For Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
+
+Ron Unz  
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
+
 Jim Goad  
 [Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
 
-Pepe Escobar  
-[China throws clout behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
-
-Patrick Lawrence  
-[Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
-
-  
-
-Andrew Anglin  
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Keith Woods  
-[The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
-
-Marshall Yeats  
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
-
-Ron Unz  
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
-
-Kevin Barrett  
-[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/)
+Philip Giraldi  
+[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/)
 
   
 
 Jonathan Cook  
 [The World Court has cleared the fog hiding western support for Israel’s crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/)
 
-Michael Hudson  
-[World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/)
+Patrick Lawrence  
+[Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
 
-Steve Sailer  
-[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
+Jonathan Cook  
+[Only a failing US empire would be so blind as to cheer Netanyahu and his genocide](https://www.unz.com/jcook/only-a-failing-us-empire-would-be-so-blind-as-to-cheer-netanyahu-and-his-genocide/)
 
-Ron Unz  
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
+Pepe Escobar  
+[China throws clout behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
 
-Jim Goad  
-[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
+Mike Whitney  
+[Israelis Say it's Okay to Rape Palestinian Prisoners](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/)
 
   
 
 Ron Unz  
 [The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
-
-Andrew Anglin  
-[What Exactly is Going on with This Election?](https://www.unz.com/aanglin/what-exactly-is-going-on-with-this-election/)
 
 Keith Woods  
 [The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
@@ -1062,13 +1057,13 @@ Keith Woods
 Laurent Guyénot  
 [JFK Jr. and the Jewish Curse on the Kennedys](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/)
 
+Andrew Anglin  
+[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
+
 Kevin Barrett  
 [The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
 
   
-
-Andrew Anglin  
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
 
 NOI Research Group  
 [The Ways of the Jewish Slave Traders](https://www.unz.com/article/the-ways-of-the-jewish-slave-traders/)
@@ -1079,8 +1074,11 @@ Ron Unz
 Jared Taylor  
 [The Assassination Attempt](https://www.unz.com/jtaylor/the-assassination-attempt/)
 
-Laurent Guyénot  
-[God, the Jews, and Us](https://www.unz.com/article/god-the-jews-and-us-a-deceitful-civilizational-contract/)
+Keith Woods  
+[The Great British Betrayal](https://www.unz.com/article/the-great-british-betrayal/)
+
+Marshall Yeats  
+[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
 
   
 
@@ -1090,19 +1088,16 @@ Ron Unz
 Ron Unz  
 [American Pravda: The True Origin of the Jews as Khazars, Israelites, or Canaanites](https://www.unz.com/runz/american-pravda-the-true-origin-of-the-jews-as-khazars-israelites-or-canaanites/)
 
-Ron Unz  
-[Prof. John Beaty and the True Origin of the Jews](https://www.unz.com/runz/prof-john-beaty-and-the-true-origin-of-the-jews/)
-
 Pierre Simon  
 [The Saddest Story Never Told](https://www.unz.com/runz/the-saddest-story-never-told/)
 
 Ron Unz and Mike Whitney  
 [Why Everything You Know About World War II Is Wrong](https://www.unz.com/runz/why-everything-you-know-about-world-war-ii-is-wrong/)
 
-  
-
 Israel Shamir  
 [Why Do Brits Hate Russians?](https://www.unz.com/ishamir/why-do-brits-hate-russians/)
+
+  
 
 Pierre Simon  
 [The Jewish Plot to Enslave Humanity](https://www.unz.com/article/the-jewish-plot-to-enslave-humanity/)
@@ -1116,30 +1111,67 @@ E. Michael Jones
 Ron Unz  
 [The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
 
+Ron Unz  
+[American Pravda: Gaza, Jewish Power, and the Holocaust](https://www.unz.com/runz/american-pravda-gaza-jewish-power-and-the-holocaust/)
+
+  
+
+Mike Whitney  
+[Israelis Say it's Okay to Rape Palestinian Prisoners](https://www.unz.com/article/israelis-say-its-okay-to-rape-palestinian-prisoners/)
+
+Jim Goad  
+[J. D. Vance Defends His Remarks About “Childless Cat Ladies”](https://www.unz.com/article/j-d-vance-defends-his-remarks-about-childless-cat-ladies/)
+
+Steve Sailer  
+[NYT admits the racial reckoning helped cause the road wreckening](https://www.unz.com/isteve/nyt-admits-the-racial-reckoning-helped-cause-the-road-wreckening/)
+
+Karlin Community  
+[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
+
+Andrew Anglin  
+[Israel Assassinates Hamas Political Leader in Iran](https://www.unz.com/aanglin/israel-assassinates-hamas-political-leader-in-iran/)
+
+  
+
+Steve Sailer  
+[New Trump ad](https://www.unz.com/isteve/new-trump-ad/)
+
+Keith Woods  
+[Trump Is Heading For Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
+
+Hans Vogel  
+[Germany Destroyed](https://www.unz.com/article/germany-destroyed/)
+
+Ron Unz  
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
+
+Paul Kersey  
+["I'm Not Goin' to Jackson": In 82% Black Jackson, MS (One of America's Least Diverse Cities), Black Leaders Call for Texaco to be Shut Down Over Black on Black Violence](https://www.unz.com/sbpdl/im-not-goin-to-jackson-in-82-black-jackson-ms-one-of-americas-least-diverse-cities-black-leaders-call-for-texaco-to-be-shut-down-over-black-on-black-violence/)
+
+  
+
+Karlin Community  
+[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
+
+Tobias Langdon  
+[Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
+
+Keith Woods  
+[Trump Is Heading For Defeat](https://www.unz.com/article/trump-is-heading-for-defeat/)
+
+Ron Unz  
+[Donald Trump, Kamala Harris, and the Tottering American Empire](https://www.unz.com/runz/donald-trump-kamala-harris-and-the-tottering-american-empire/)
+
+Jim Goad  
+[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
+
   
 
 Steve Sailer  
 [Experts say: Follow The Science!](https://www.unz.com/isteve/experts-say-follow-the-science/)
 
-Philip Giraldi  
-[War Criminal Benjamin Netanyahu Addresses the US Congress](https://www.unz.com/pgiraldi/war-criminal-benjamin-netanyahu-addresses-the-us-congress/)
-
-Robert Stark  
-[J.D. Vance and The Future of MAGA](https://www.unz.com/article/j-d-vance-and-the-future-of-maga/)
-
-Tobias Langdon  
-[Fight for Us, White Male Scum: Why We Will Win the War for the West](https://www.unz.com/article/fight-for-us-white-male-scum-why-we-will-win-the-war-for-the-west/)
-
-Karlin Community  
-[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
-
-  
-
-Pepe Escobar  
-[China throws clout behind Palestine](https://www.unz.com/pescobar/china-throws-clout-behind-palestine/)
-
-Kevin Barrett  
-["Sifting and Winnowing": Evidence in the False Flag Trump Shooting](https://www.unz.com/kbarrett/sifting-and-winnowing-evidence-in-the-false-flag-trump-shooting/)
+Steve Sailer  
+[New Trump ad](https://www.unz.com/isteve/new-trump-ad/)
 
 Steve Sailer  
 [What's Ramzan Kadyrov up to lately?](https://www.unz.com/isteve/whats-ramzan-kadyrov-up-to-lately/)
@@ -1147,42 +1179,8 @@ Steve Sailer
 Patrick Lawrence  
 [Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
 
-Jim Goad  
-[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
-
-  
-
 Steve Sailer  
-[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
-
-Steve Sailer  
-[Vp?](https://www.unz.com/isteve/vp/)
-
-Karlin Community  
-[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
-
-Andrew Anglin  
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Jim Goad  
-[Sonya Massey Is This Election Cycle’s George Floyd](https://www.unz.com/article/sonya-massey-is-this-election-cycles-george-floyd/)
-
-  
-
-Ron Unz  
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
-
-Steve Sailer  
-[What's the Matter With Economists?](https://www.unz.com/isteve/what-the-matter-with-economists/)
-
-Ron Unz  
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
-
-Patrick Lawrence  
-[Gaza, We Cannot Remain Silent Any Longer](https://www.unz.com/article/gaza-we-cannot-remain-silent-any-longer/)
-
-Mike Whitney  
-[China Brings Peace to the Middle East while Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/)
+[Was "Grapes of Wrath" a "progressive" film?](https://www.unz.com/isteve/was-grapes-of-wrath-a-progressive-film/)
 
   
 
@@ -1206,17 +1204,17 @@ Steve Sailer
 Steve Sailer  
 [Trump picks JD Vance for Veep](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/)
 
+Karlin Community  
+[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
+
 Steve Sailer  
 [Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
 
 Steve Sailer  
-[What should the Democrats do?](https://www.unz.com/isteve/what-should-the-democrats-do/)
+[Vp?](https://www.unz.com/isteve/vp/)
 
 Kevin Barrett  
 [The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
-
-Steve Sailer  
-[Vp?](https://www.unz.com/isteve/vp/)
 
   
 
@@ -1232,13 +1230,10 @@ Karlin Community
 Karlin Community  
 [Open Thread 243](https://www.unz.com/akarlin/open-thread-243/)
 
-Ron Unz  
-[Prof. John Beaty and the True Origin of the Jews](https://www.unz.com/runz/prof-john-beaty-and-the-true-origin-of-the-jews/)
-
-  
-
 Karlin Community  
 [Open Thread 247](https://www.unz.com/akarlin/open-thread-247/)
+
+  
 
 Karlin Community  
 [Open Thread 252](https://www.unz.com/akarlin/open-thread-252/)
@@ -1251,6 +1246,9 @@ Karlin Community
 
 Karlin Community  
 [Open Thread 254](https://www.unz.com/akarlin/open-thread-254/)
+
+Karlin Community  
+[Open Thread 251](https://www.unz.com/akarlin/open-thread-251/)
 
   
 
