@@ -1,80 +1,217 @@
 [Skip to content](#main)
 
- 
+[](https://www.arkoselabs.com/)
+
+* [Solutions](https://www.arkoselabs.com/solutions/)
+    * Account Registration & Login
+        * [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution/)
+        * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/)
+        * [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/)
+        * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/)
+        * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)
+    * Business Model Abuse
+        * [Web Scraping & Content Theft](https://www.arkoselabs.com/solutions/scraping/)
+        * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
+        * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
+    * In-Platform Abuse
+        * [API Security](https://www.arkoselabs.com/solutions/api-abuse/)
+        * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
+        * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
+    * Phishing
+        * [Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
+    
+    Experienced a bot attack?
+    
+    Respond immediately and limit financial & business impact with Arkose Labs.
+    
+    [Contact Us 24/7](https://www.arkoselabs.com/contact/)
+    
+* Industries
+    * [![Finance & Fintech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Finance & Fintech](https://www.arkoselabs.com/wp-content/uploads/Dollar-Coin.svg)
+        
+        Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/)
+    * [![Telco](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Telco](https://www.arkoselabs.com/wp-content/uploads/Phone-1.svg)
+        
+        Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)
+    * [![Technology Platforms](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Technology Platforms](https://www.arkoselabs.com/wp-content/uploads/Code-Laptop.svg)
+        
+        Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)
+    * [![Travel & Hospitality](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Travel & Hospitality](https://www.arkoselabs.com/wp-content/uploads/Location-Point.svg)
+        
+        Travel & Hospitality](https://www.arkoselabs.com/industries/travel/)
+    * [![Sharing Economy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Sharing Economy](https://www.arkoselabs.com/wp-content/uploads/Group-1105.svg)
+        
+        Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)
+    * [![Media & Streaming](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Media & Streaming](https://www.arkoselabs.com/wp-content/uploads/media-streaming-icon.svg)
+        
+        Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)
+    * [![Social & Networking](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Social & Networking](https://www.arkoselabs.com/wp-content/uploads/Internet.svg)
+        
+        Social & Networking](https://www.arkoselabs.com/industries/social-networking/)
+    * [![Gambling and iGaming](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Gambling and iGaming](https://www.arkoselabs.com/wp-content/uploads/Vector.svg)
+        
+        Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
+    * [![Retail & eCommerce](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Retail & eCommerce](https://www.arkoselabs.com/wp-content/uploads/Shopping-Bag.svg)
+        
+        Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)
+* Platform
+    * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)
+    * [Services & Support](https://www.arkoselabs.com/services/)
+    * [Partnerships & Integrations](https://www.arkoselabs.com/partner-with-us/)
+    
+    See it in action
+    
+    Schedule a demo for an  up-close look at the Arkose Bot Manager Platform.
+    
+    [Book a demo today](https://www.arkoselabs.com/bot-management-demo/)
+    
+* [Resources](https://www.arkoselabs.com/resources/)
+    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
+    * [Blog](https://www.arkoselabs.com/blog/)
+    * [Videos](https://www.arkoselabs.com/resources/?category=video)
+    * [Reports](https://www.arkoselabs.com/resources/?category=report)
+    * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+    
+    Bookmark this page
+    
+    Your reliable resource for the latest news & insights in bot & fraud prevention.
+    
+    [View all resources](https://www.arkoselabs.com/resources/)
+    
+* Company
+    * About Arkose Labs
+        * [About Us](https://www.arkoselabs.com/about-us/)
+        * [Leadership](https://www.arkoselabs.com/leadership/)
+        * [Customers](https://www.arkoselabs.com/customers/)
+        * [News](https://www.arkoselabs.com/news/)
+        * [Events](https://www.arkoselabs.com/events/)
+        * [G2 Leadership](https://www.arkoselabs.com/g2-leadership/)
+        * [Warranties](https://www.arkoselabs.com/warranties/)
+        * [Compliance](https://www.arkoselabs.com/compliance/)
+        * [Why Arkose Labs](https://www.arkoselabs.com/why-arkose/)
+    * Connect with us
+        * [Contact Us](https://www.arkoselabs.com/contact/)
+        * [Careers](https://www.arkoselabs.com/careers/)
+        * [Arkose Cyber Threat Intelligence Research (ACTIR)](https://www.arkoselabs.com/actir/)
+
+[](javascript:void(0); "Search")
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://www.arkoselabs.com/wp-content/uploads/search-loader.gif)
 
-![](https://www.arkoselabs.com/wp-content/uploads/close-new.png)
+[Book Your Demo](https://www.arkoselabs.com/bot-management-demo/)
 
-[![Arkose Labs](https://www.arkoselabs.com/wp-content/uploads/arkoselabs-header-logo-green.svg)](https://www.arkoselabs.com/ "Arkose Labs")
+![Search Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-* [Solutions](https://www.arkoselabs.com/solutions/ "Solutions")
-    
+![Search Icon](https://www.arkoselabs.com/wp-content/uploads/search-wp-icon.svg)
+
+* [Solutions](https://www.arkoselabs.com/solutions/)
     * Account Registration & Login
-    * [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/ "New Account Fraud")
-    * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/ "Bonus Abuse")
-    * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/ "SMS Toll Fraud")
-    * [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution/ "Account Takeover")
-    * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Fraud")
-    
+        * [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution/)
+        * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/)
+        * [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/)
+        * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/)
+        * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/)
     * Business Model Abuse
-    * [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/ "Web Scraping and Content Theft")
-    * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
-    * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
-    
-    * In Platform Abuse
-    * [API Security](https://www.arkoselabs.com/solutions/api-abuse/ "API Security")
-    * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
-    * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
+        * [Web Scraping & Content Theft](https://www.arkoselabs.com/solutions/scraping/)
+        * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/)
+        * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse)
+    * In-Platform Abuse
+        * [API Security](https://www.arkoselabs.com/solutions/api-abuse/)
+        * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/)
+        * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
     * Phishing
-    * [Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "Man-in-the-Middle")
-    
-* [Industries](javascript:void(0); "Industries")
-    
-    * [Financial Services](https://www.arkoselabs.com/industries/finance-fintech/ "Financial Services")
-    * [Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/ "Technology Platforms")
-    * [Social & Networking](https://www.arkoselabs.com/industries/social-networking/ "Social & Networking")
-    * [Streaming & Media](https://www.arkoselabs.com/industries/media-streaming/ "Streaming & Media")
-    * [Travel & Hospitality](https://www.arkoselabs.com/industries/travel/ "Travel & Hospitality")
-    * [Gaming & Gambling](https://www.arkoselabs.com/industries/online-gambling-igaming/ "Gaming & Gambling")
-    * [Retail & Ecommerce](https://www.arkoselabs.com/industries/retail-ecommerce/ "Retail & Ecommerce")
-    * [Sharing/ Gig Economy](https://www.arkoselabs.com/industries/sharing-economy/ "Sharing/ Gig Economy")
-    
-* [Product](javascript:void(0); "Product")
-    
-    * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/ "Arkose Bot Manager Platform")
-    * [Services & Support](https://www.arkoselabs.com/services/ "Services & Support")
-    * [Partnership & Integrations](https://www.arkoselabs.com/partner-with-us/ "Partnership & Integrations")
-    
-* [Resources](https://www.arkoselabs.com/resources/ "Resources")
-    
-    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study "Case Studies")
-    * [Blog](https://www.arkoselabs.com/blog/ "Blog")
-    * [Events](https://www.arkoselabs.com/events/ "Events")
-    * [Videos](https://www.arkoselabs.com/resources/?category=video "Videos")
-    * [Reports](https://www.arkoselabs.com/resources/?category=report "Reports")
-    * [eBooks](https://www.arkoselabs.com/resources/?category=ebook "eBooks")
-    * [Arkose University](https://www.arkoselabs.com/arkose-university/ "Arkose University")
-    
-* [Company](https://www.arkoselabs.com/why-arkose/ "Company")
-    
-    * [About Us](https://www.arkoselabs.com/about-us/ "About Us")
-    * [Leadership](https://www.arkoselabs.com/leadership/ "Leadership")
-    * [Careers](https://www.arkoselabs.com/careers/ "Careers")
-    * [Customers](https://www.arkoselabs.com/customers/ "Customers")
-    * [News](https://www.arkoselabs.com/news/ "News")
-    * [G2 Leadership](https://www.arkoselabs.com/g2-leadership/ "G2 Leadership")
-    * [Compliance](https://www.arkoselabs.com/compliance/ "Compliance")
-    * [Warranties](https://www.arkoselabs.com/warranties/ "Warranties")
-    * [Arkose Cyber Threat Intelligence Research (ACTIR)](https://www.arkoselabs.com/actir/ "Arkose Cyber Threat Intelligence Research (ACTIR)")
-    
-* [Book Demo](https://www.arkoselabs.com/bot-management-demo/ "Book Demo")
-
-* [![Search](https://www.arkoselabs.com/wp-content/uploads/Icon-feather-search.svg)](javascript:void(0); "Search")
-* [Contact Sales](https://www.arkoselabs.com/contact/ "Contact Sales")
-* [Book Demo](https://www.arkoselabs.com/bot-management-demo/ "Book Demo")
-
-[](javascript:void(0);)
+        * [Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
+* Industries
+    * [![Finance & Fintech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Finance & Fintech](https://www.arkoselabs.com/wp-content/uploads/Dollar-Coin.svg)
+        
+        Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/)
+    * [![Telco](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Telco](https://www.arkoselabs.com/wp-content/uploads/Phone-1.svg)
+        
+        Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)
+    * [![Technology Platforms](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Technology Platforms](https://www.arkoselabs.com/wp-content/uploads/Code-Laptop.svg)
+        
+        Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/)
+    * [![Travel & Hospitality](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Travel & Hospitality](https://www.arkoselabs.com/wp-content/uploads/Location-Point.svg)
+        
+        Travel & Hospitality](https://www.arkoselabs.com/industries/travel/)
+    * [![Sharing Economy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Sharing Economy](https://www.arkoselabs.com/wp-content/uploads/Group-1105.svg)
+        
+        Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/)
+    * [![Media & Streaming](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Media & Streaming](https://www.arkoselabs.com/wp-content/uploads/media-streaming-icon.svg)
+        
+        Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/)
+    * [![Social & Networking](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Social & Networking](https://www.arkoselabs.com/wp-content/uploads/Internet.svg)
+        
+        Social & Networking](https://www.arkoselabs.com/industries/social-networking/)
+    * [![Gambling and iGaming](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Gambling and iGaming](https://www.arkoselabs.com/wp-content/uploads/Vector.svg)
+        
+        Gambling and iGaming](https://www.arkoselabs.com/industries/online-gambling-igaming/)
+    * [![Retail & eCommerce](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Retail & eCommerce](https://www.arkoselabs.com/wp-content/uploads/Shopping-Bag.svg)
+        
+        Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/)
+* Platform
+    * [Arkose Bot Manager Platform](https://www.arkoselabs.com/arkose-bot-manager/)
+    * [Services & Support](https://www.arkoselabs.com/services/)
+    * [Partnerships & Integrations](https://www.arkoselabs.com/partner-with-us/)
+* [Resources](https://www.arkoselabs.com/resources/)
+    * [Case Studies](https://www.arkoselabs.com/resources/?category=case-study)
+    * [Blog](https://www.arkoselabs.com/blog/)
+    * [Videos](https://www.arkoselabs.com/resources/?category=video)
+    * [Reports](https://www.arkoselabs.com/resources/?category=report)
+    * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+* Company
+    * About Arkose Labs
+        * [About Us](https://www.arkoselabs.com/about-us/)
+        * [Leadership](https://www.arkoselabs.com/leadership/)
+        * [Customers](https://www.arkoselabs.com/customers/)
+        * [News](https://www.arkoselabs.com/news/)
+        * [Events](https://www.arkoselabs.com/events/)
+        * [G2 Leadership](https://www.arkoselabs.com/g2-leadership/)
+        * [Warranties](https://www.arkoselabs.com/warranties/)
+        * [Compliance](https://www.arkoselabs.com/compliance/)
+        * [Why Arkose Labs](https://www.arkoselabs.com/why-arkose/)
+    * Connect with us
+        * [Contact Us](https://www.arkoselabs.com/contact/)
+        * [Careers](https://www.arkoselabs.com/careers/)
+        * [Arkose Cyber Threat Intelligence Research (ACTIR)](https://www.arkoselabs.com/actir/)
 
 Terms of Use
 ============
@@ -155,24 +292,24 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     * [Customer Portal](https://dashboard.arkoselabs.com/login "Customer Portal")
     * [Developers](https://developer.arkoselabs.com/docs/welcome-to-arkose-labs "Developers")
     
-* Use Cases
+* Solutions
     
     Account Registration* [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution "New Account Fraud")
     * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/ "Bonus Abuse")
     * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/ "SMS Toll Fraud")
     
     Login* [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution "Account Takeover")
-    * [Loyalty Frqaud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Frqaud")
+    * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Fraud")
     
     Business Model Abuse* [Web Scraping and Content Theft](https://www.arkoselabs.com/web-scraping/web-scraping-solution "Web Scraping and Content Theft")
     * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
     * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
-    In Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-security/ "API Security")
+    In-Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-security/ "API Security")
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
     * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
     
-    Phishing* [Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "Man-in-the-Middle")
+    Phishing* [Man-in-the-Middle Reverse Proxy Phishing](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "Man-in-the-Middle Reverse Proxy Phishing")
     
 * Industries
     
@@ -212,13 +349,21 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     * [Compliance](https://www.arkoselabs.com/compliance/ "Compliance")
     
 
-[![Arkose Labs](https://www.arkoselabs.com/wp-content/uploads/Footer_Arkose-logo-1.svg)](https://www.arkoselabs.com/ "Arkose Labs")
+[![Arkose Labs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Arkose Labs](https://www.arkoselabs.com/wp-content/uploads/Footer_Arkose-logo-1.svg)](https://www.arkoselabs.com/ "Arkose Labs")
 
 [Contact Us](https://www.arkoselabs.com/contact-sales/ "Contact Us")
 
-* [![Twitter](https://www.arkoselabs.com/wp-content/uploads/Twitter.svg)](https://twitter.com/arkoselabs/ "Twitter")
-* [![Facebook](https://www.arkoselabs.com/wp-content/uploads/Facebook.svg)](https://www.facebook.com/ArkoseLabs/ "Facebook")
-* [![Linkedin](https://www.arkoselabs.com/wp-content/uploads/Linkedin.svg)](https://www.linkedin.com/company/arkoselabs/ "Linkedin")
+* [![Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Twitter](https://www.arkoselabs.com/wp-content/uploads/Twitter.svg)](https://twitter.com/arkoselabs/ "Twitter")
+* [![Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Facebook](https://www.arkoselabs.com/wp-content/uploads/Facebook.svg)](https://www.facebook.com/ArkoseLabs/ "Facebook")
+* [![Linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Linkedin](https://www.arkoselabs.com/wp-content/uploads/Linkedin.svg)](https://www.linkedin.com/company/arkoselabs/ "Linkedin")
 
 © Arkose Labs 2024. All rights reserved.
 
@@ -228,6 +373,6 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
 X
 
-Learn How to Leverage Active Bot Defense to Detect and Counter Today’s Cybercrime-as-a-Service Threats
+Arkose Labs ranks No. 33 in the security category of the 2024 Inc. 5000!
 
-[Here](https://www.arkoselabs.com/course/disrupting-cybercrime-as-a-service/)
+[Learn More](https://www.arkoselabs.com/latest-news/third-time-arkose-labs-makes-inc-5000-list-fastest-growing-private-companies-ranking-high-security-category/)
