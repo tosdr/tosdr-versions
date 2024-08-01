@@ -52,12 +52,7 @@ This app works best with JavaScript enabled.
     
 * [Pricing](https://sentry.io/pricing/)
 * [Docs](https://docs.sentry.io/)
-* Blog
-    
-    * [Sentry Blog](https://blog.sentry.io/)
-    * [Engineering Blog](https://sentry.engineering/)
-    * [Changelog](https://sentry.io/changelog/)
-    
+* [Blog](https://blog.sentry.io/)
 * Sandbox
 * [Sign Inlogin](https://sentry.io/auth/login/)
 * [Get Startedsign up](https://sentry.io/signup/)
