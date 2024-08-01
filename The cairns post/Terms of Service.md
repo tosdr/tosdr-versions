@@ -15,7 +15,7 @@
 
 * [My News](https://www.cairnspost.com.au/my-news)
     
-* [Today's Paper](https://todayspaper.cairnspost.com.au/launch.aspx?pbid=db251301-6a27-4ba2-90dc-b4415fcf681e)
+* [Today's Paper](https://www.cairnspost.com.au/digitalprinteditions)
     
     * ### [Cairns Post](https://todayspaper.cairnspost.com.au/launch.aspx?pbid=db251301-6a27-4ba2-90dc-b4415fcf681e)
         
@@ -346,7 +346,7 @@ This can be done through the following steps:
     * [Letter to the Editor](https://www.cairnspost.com.au/news/opinion/letter-to-the-editor)
     * [Photo Print Sales](http://www.newsphotos.com.au/C.aspx?VP3=CMS3&VF=Home)
     * [Licensing & Reprints](https://www.newspix.com.au/C.aspx?VP3=CMS3&VF=OurNetworkNPX)
-    * [Advertise with us](https://www.newsconcierge.com.au/)
+    * [Advertise with us](https://www.newscorpaustralia.com/contact-us/)
 * #### Our News Network
     
     * [Herald Sun](https://www.heraldsun.com.au/)
