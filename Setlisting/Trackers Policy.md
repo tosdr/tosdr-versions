@@ -1,4 +1,4 @@
-[](https://www.setlisting.com/ "Setlisting logo")[![](https://assets2.setlisting.cdn.crowds.dk/assets/logo/setlisting_logo-af3a50095acf809f34cd38546b58591253d5338f4d1715f7d01a0a8e78162178.png)](https://www.setlisting.com/ "Setlisting logo")
+[](https://www.setlisting.com/ "Setlisting logo")[![](https://assets1.setlisting.cdn.crowds.dk/assets/logo/setlisting_logo-af3a50095acf809f34cd38546b58591253d5338f4d1715f7d01a0a8e78162178.png)](https://www.setlisting.com/ "Setlisting logo")
 
  Search
 
@@ -144,7 +144,7 @@ If there are any issues with that you can also send a mail from the email addres
 * [Facebook](https://www.facebook.com/setlisting)
 * [Twitter](https://twitter.com/setlisting)
 
-Artist images provided by [![](https://assets0.setlisting.cdn.crowds.dk/assets/spotify-30a7ad2ff3074df27783ac16dbdc8c72a7138d5333962c413612e0eb54bbf286.png)](https://www.spotify.com/)
+Artist images provided by [![](https://assets2.setlisting.cdn.crowds.dk/assets/spotify-30a7ad2ff3074df27783ac16dbdc8c72a7138d5333962c413612e0eb54bbf286.png)](https://www.spotify.com/)
 
 Setlisting is not affiliated with Spotify. Spotify is a registered trademark of Spotify Ltd.
 
