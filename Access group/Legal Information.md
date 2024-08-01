@@ -1,18 +1,18 @@
-  
+[](https://www.theaccessgroup.com/en-gb/)
 
- [![](/media/dy5j01tf/logo_grey_tag.svg)](https://www.theaccessgroup.com/en-gb/)[Contact Sales](https://www.theaccessgroup.com/en-gb/support-hub/contact-sales/)
+[Contact Us](https://www.theaccessgroup.com/en-gb/support-hub/) [Login](https://www.theaccessgroup.com/en-gb/client-login/)
 
-[Contact Sales](https://www.theaccessgroup.com/en-gb/support-hub/contact-sales/)[Login](https://www.theaccessgroup.com/en-gb/client-login/)
+United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
 
-Country UK AU & NZ SG MY US IE
+[Contact Us](https://www.theaccessgroup.com/en-gb/support-hub/)
 
-[![](/media/dy5j01tf/logo_grey_tag.svg)](https://www.theaccessgroup.com/en-gb/)
+[](https://www.theaccessgroup.com/en-gb/)
 
 * Products
     
-    Back to menu
+    Back to Main Menu
     
-    Search by Software
+    Search by  Software
     
     * [Candidate Screening](https://www.theaccessgroup.com/en-gb/candidate-screening/)
     * [Compliance](https://www.theaccessgroup.com/en-gb/compliance/)
@@ -33,7 +33,7 @@ Country UK AU & NZ SG MY US IE
     * [Volunteer Management](https://www.theaccessgroup.com/en-gb/volunteer-management-solutions/)
     * [Waste Management](https://www.theaccessgroup.com/en-gb/waste-management/)
     
-    Search by Industry
+    Search by  Industry
     
     * [Charities and Not for Profit](https://www.theaccessgroup.com/en-gb/not-for-profit/)
     * [Construction](https://www.theaccessgroup.com/en-gb/construction/)
@@ -58,9 +58,9 @@ Country UK AU & NZ SG MY US IE
 * [Access Workspace](https://www.theaccessgroup.com/en-gb/access-workspace/)
 * About Us
     
-    Back to menu
+    Back to Main Menu
     
-    We are Access
+    We are  Access
     
     * [About Access](https://www.theaccessgroup.com/en-gb/about/)
     * [Blog](https://www.theaccessgroup.com/en-gb/blog/)
@@ -71,122 +71,114 @@ Country UK AU & NZ SG MY US IE
     * [Our Offices](https://www.theaccessgroup.com/en-gb/about/our-offices/)
     * [Sustainability](https://www.theaccessgroup.com/en-gb/about/sustainability/)
     
-    Latest News
+    Latest  News
     
-    ![](/media/nxdh1vjr/screenshot-2024-09-04-152957.png?rmode=max&width=230&height=295&v=1daff51988a8660)
-    
-    Posted 5th September 2024
-    
-    The Access Group has reached an agreement to acquire candidate onboarding solution, Onboarded
-    
-    [Read article on The Access Group has reached an agreement to acquire candidate onboarding solution, Onboarded](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-reached-an-agreement-to-acquire-candidate-onboarding-solution-onboarded/)
-    
-    ![](/media/11gaw1gh/group_.jpg?rmode=max&width=230&height=295&v=1dad2ab5a440a20)
+    ![](/media/11gaw1gh/group_.jpg?anchor=center&mode=crop&width=350&height=450&rnd=133650772356500000)
     
     Posted 10th July 2024
     
     The Access Group champions global causes, raising £1.3million
     
-    [Read article on The Access Group champions global causes, raising £1.3million](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-champions-global-causes-raising-13million/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-champions-global-causes-raising-1-3million/)
     
-    ![](/media/bdqhzrcx/picture1_loughborough-university-students-design-sustainable-and-creative-office-wear.png?rmode=max&width=230&height=295&v=1dac7c54e5d40f0)
+    ![](/media/bdqhzrcx/picture1_loughborough-university-students-design-sustainable-and-creative-office-wear.png?anchor=center&mode=crop&width=350&height=450&rnd=133638789198070000)
     
     Posted 26th June 2024
     
     Loughborough University students design sustainable and creative office wear as part of competition
     
-    [Read article on Loughborough University students design sustainable and creative office wear as part of competition](https://www.theaccessgroup.com/en-gb/about/news/loughborough-university-students-design-sustainable-and-creative-office-wear-as-part-of-competition/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/loughborough-university-students-design-sustainable-and-creative-office-wear-as-part-of-competition/)
     
-    ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?rmode=max&width=230&height=295&v=1dabca5acbcc8d0)
+    ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?center=0.40713451647890281,0.69400103211811637&mode=crop&width=350&height=450&rnd=133626558714530000)
     
     Posted 12th June 2024
     
     Access unveils Access Evo - New AI-Enhanced Software to support HR professionals
     
-    [Read article on Access unveils Access Evo - New AI-Enhanced Software to support HR professionals](https://www.theaccessgroup.com/en-gb/about/news/access-unveils-access-evo-new-ai-enhanced-software-to-support-hr-professionals/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-unveils-access-evo-new-ai-enhanced-software-to-support-hr-professionals/)
     
-    ![](/media/o2upanwf/business-staff-around-a-tablet.jpg?rmode=max&width=230&height=295&v=1dab75fae97a1c0)
+    ![](/media/o2upanwf/business-staff-around-a-tablet.jpg?center=0.293344183718311,0.42627484575985103&mode=crop&width=350&height=450&rnd=133620760539800000)
     
     Posted 6th June 2024
     
     The Access Group acquires global hotel tech specialist SHR Group 
     
-    [Read article on The Access Group acquires global hotel tech specialist SHR Group](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-expands-in-north-america-with-acquisition-of-hotel-tech-specialist-shr-group/) 
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-expands-in-north-america-with-acquisition-of-hotel-tech-specialist-shr-group/)
     
-    ![](/media/pb3hdpt0/news-card_acquisitions_lightyear.png?rmode=max&width=230&height=295&v=1daa2ea1fcd0db0)
+    ![](/media/pb3hdpt0/news-card_acquisitions_lightyear.png?anchor=center&mode=crop&width=350&height=450&rnd=133598265400430000)
     
     Posted 10th May 2024
     
     The Access Group has entered into an agreement to acquire pioneering AP automation provider, Lightyear
     
-    [Read article on The Access Group has entered into an agreement to acquire pioneering AP automation provider, Lightyear](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-pioneering-ap-automation-provider-lightyear/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-pioneering-ap-automation-provider-lightyear/)
     
-    ![](/media/cv3ediz4/news-card_acquisitions_incase.png?rmode=max&width=230&height=295&v=1daa232d0206760)
+    ![](/media/cv3ediz4/news-card_acquisitions_incase.png?center=0.30818089430894308,0.49989111498257838&mode=crop&width=350&height=450&rnd=133597478084700000)
     
     Posted 9th May 2024
     
     Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience
     
-    [Read article on Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience](https://www.theaccessgroup.com/en-gb/about/news/access-legal-makes-landmark-acquisition-of-pioneering-mobile-app-provider-incase/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-legal-makes-landmark-acquisition-of-pioneering-mobile-app-provider-incase/)
     
-    ![](/media/ijmh1rzb/news-card_acquisitions_elay-1.png?rmode=max&width=230&height=295&v=1daa1ec6f78ea40)
+    ![](/media/ijmh1rzb/news-card_acquisitions_elay-1.png?anchor=center&mode=crop&width=350&height=450&rnd=133597175815400000)
     
     Posted 8th May 2024
     
     The Access Group acquires cutting edge CRM and outreach platform elay
     
-    [Read article on The Access Group acquires cutting edge CRM and outreach platform elay](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-elay-a-multi-channel-engagement-automation-platform/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-elay-a-multi-channel-engagement-automation-platform/)
     
-    ![](/media/2rxbxbbe/conor_whelan-07-min.jpg?rmode=max&width=230&height=295&v=1da970eb1ca9170)
+    ![](/media/2rxbxbbe/conor_whelan-07-min.jpg?center=0.34138843211553582,0.52115782512788777&mode=crop&width=350&height=450&rnd=133585228329030000)
     
     Posted 25 April 2024
     
     The Access Group Appoints New Chief Information Officer
     
-    [Read article on The Access Group Appoints New Chief Information Officer](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-new-chief-information-officer/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-new-chief-information-officer/)
     
-    ![](/media/1blpb1ba/cupcake-1.jpg?rmode=max&width=230&height=295&v=1da94cce41a77b0)
+    ![](/media/1blpb1ba/cupcake-1.jpg?center=0.698937827164025,0.54158957727227741&mode=crop&width=350&height=450&rnd=133582746682030000)
     
     Posted 22 April 2024
     
     Air pollution is biggest climate concern for school children
     
-    [Read article on Air pollution is biggest climate concern for school children](https://www.theaccessgroup.com/en-gb/about/news/air-pollution-is-biggest-climate-concern-for-school-children/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/air-pollution-is-biggest-climate-concern-for-school-children/)
     
-    ![](/media/ljqddr1q/27440622_group_lbh_access_wear_pitch_to_uni_students_denoised.jpeg?rmode=max&width=230&height=295&v=1da86a152b68180)
+    ![](/media/ljqddr1q/27440622_group_lbh_access_wear_pitch_to_uni_students_denoised.jpeg?anchor=center&mode=crop&width=350&height=450&rnd=133567166396400000)
     
     Posted 4 April 2024
     
     The Access group launches workwear design competition for Loughborough University students
     
-    [Read article on The Access group launches workwear design competition for Loughborough University students](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-workwear-design-competition-for-loughborough-university-students/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-workwear-design-competition-for-loughborough-university-students/)
     
-    ![](/media/ronbf2fs/jonah-headshoot-2.jpg?rmode=max&width=230&height=295&v=1da7ebd218f9e70)
+    ![](/media/ronbf2fs/jonah-headshoot-2.jpg?center=0.36686475279396924,0.63034064927740152&mode=crop&width=350&height=450&rnd=133558489737830000)
     
     Posted 25 March 2024
     
     The Access Group appoints first President, Americas
     
-    [Read article on The Access Group appoints first President, Americas](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-first-president-americas/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-appoints-first-president-americas/)
     
-    ![](/media/sqrfbaem/image-5.png?rmode=max&width=230&height=295&v=1da54452f7fc430)
+    ![](/media/sqrfbaem/image-5.png?anchor=center&mode=crop&width=350&height=450&rnd=133511795087230000)
     
     Posted 31st January 2024
     
     Access Hospitality announces acquisition of leading Wi-Fi provider Wireless Social
     
-    [Read article on Access Hospitality announces acquisition of leading Wi-Fi provider Wireless Social](https://www.theaccessgroup.com/en-gb/about/news/access-hospitality-announces-acquisition-of-leading-wi-fi-provider-wireless-social/)
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/access-hospitality-announces-acquisition-of-leading-wi-fi-provider-wireless-social/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
     [More about us](https://www.theaccessgroup.com/en-gb/about/)
     
-* [Careers](https://www.theaccessgroup.com/en-gb/careers/)
+* [Careers](https://careers.theaccessgroup.com/)
 * [Support](https://www.theaccessgroup.com/en-gb/support-hub/)
 
-[Contact Sales](https://www.theaccessgroup.com/en-gb/support-hub/contact-sales/)[Login](https://www.theaccessgroup.com/en-gb/client-login/)
+[Contact Us](https://www.theaccessgroup.com/en-gb/support-hub/) [Login](https://www.theaccessgroup.com/en-gb/client-login/)
 
-Country UK AU & NZ SG MY US IE
+United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
 
 Privacy Notice
 ==============
@@ -464,9 +456,5 @@ About Access
 
 Contact
 
-* [0845 345 3300](tel:0845 345 3300)
-* [Our Locations](https://www.theaccessgroup.com/en-gb/about/our-offices/)
-* * [](https://x.com/theaccessgroup)
-    * [](https://www.linkedin.com/company/accessgroup)
-    * [](https://www.facebook.com/TheAccessGroup/)
-    * [](https://www.youtube.com/user/theaccessgrouptv)
+* [0845 345 3300](tel:08453453300)
+* [](https://twitter.com/theaccessgroup "Twitter")[](https://www.linkedin.com/company/accessgroup "Linkedin")[](https://www.facebook.com/TheAccessGroup/ "facebook")[](https://www.youtube.com/user/theaccessgrouptv "YouTube")
