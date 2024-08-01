@@ -6,8 +6,6 @@
 
  [![Browse our groups directory](/static/svgs/communities.svg) Groups](https://themighty.com/groupdirectory/)
 
- [![Visit our Merch shop](/static/svgs/merch.svg) Mighty Merch](https://shop.themighty.com/)
-
 Log In
 
 [![](/static/svgs/icon-newsletters.svg)](https://themighty.com/newsletter/subscribe/) Join Us ![Access dropdown menu](/static/svgs/mobile-menu.svg)
@@ -295,7 +293,6 @@ Oops! It appears you entered an invalid email.
 * [Explore Mighty Groups](https://themighty.com/groupdirectory/)
 * [Mighty Newsletters](https://themighty.com/newsletter/subscribe)
 * [Mighty Podcasts](https://themighty.com/podcastdirectory/)
-* [**Mighty Merch**](https://shop.themighty.com/)
 
 **Get The Mighty app**
 
