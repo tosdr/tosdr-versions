@@ -134,6 +134,7 @@
         
         Isalyn C.
         
+    * [Read all reviews](https://www.g2.com/products/g2-seller-solutions/reviews)
     
 * Resources
     
@@ -187,7 +188,7 @@
     
     Download latest reports
     
-    * [](https://research.g2.com/2024-buyer-behavior-report)2024 Software Buyer Behavior Report
+    * [](https://research.g2.com/buyer-behavior-study)2023 Software Buyer Behavior Report
         
         Navigate a new software buying reality.
         
