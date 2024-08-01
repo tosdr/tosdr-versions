@@ -2,7 +2,7 @@ Menu Icon
 
 [Tubi logo](https://tubitv.com/home)
 
-[BrowseArrowhead Down Icon](https://tubitv.com/categories)
+Browse
 
 [Sign In](https://tubitv.com/login?redirect=)[Register](https://tubitv.com/signup?redirect=)
 
@@ -59,6 +59,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 9c5ba7e8-220a-4744-a1c1-53c061d36a72
+Device ID: f54071af-e0b5-4088-b734-50d25285c4e9
 
 Made with Heart in San Francisco
