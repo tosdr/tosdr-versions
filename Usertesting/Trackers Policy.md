@@ -243,7 +243,7 @@ Main navigation
                 
             * [EssilorLuxottica](https://www.usertesting.com/resources/customers/essilorluxottica)
                 
-            * [Panera Bread](https://www.usertesting.com/resources/customers/panera-bread)
+            * [Panera Bread](https://www.usertesting.com/resources/customers/panera-bread-usertesting)
                 
             
         * For Our Customers
