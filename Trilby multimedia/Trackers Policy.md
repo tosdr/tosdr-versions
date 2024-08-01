@@ -6,7 +6,7 @@
 * [Support](https://www.trilbytv.co.uk/support)
 * [Blog](https://www.trilbytv.co.uk/blog)
 * [Login](https://app.trilbytv.co.uk/)
-* [Free Trial](https://auth.trilbytv.co.uk/trial?utm_source=trilbytv&utm_campaign=website-menu&utm_medium=web&utm-content=navigation-cta)
+* [Free Demo](https://www.trilbytv.co.uk/demo)
 
 [![Navigation Dropdown](//cdn.trilbytv.co.uk/public/website-assets/mobile-nav.svg)](#)
 
@@ -16,7 +16,7 @@
 * [Pricing](https://www.trilbytv.co.uk/pricing)
 * [Support](https://www.trilbytv.co.uk/support)
 * [Log in](https://app.trilbytv.co.uk/?utm_source=trilbytv&utm_medium=website&utm_campaign=trilbytv-header)
-* [Free Trial](https://auth.trilbytv.co.uk/trial?utm_source=trilbytv&utm_campaign=website-menu&utm_medium=mobile-web&utm-content=mobile-navigation-cta)
+* [Free Demo](https://www.trilbytv.co.uk/demo)
 
 Cookie Notice
 =============
@@ -100,6 +100,7 @@ Copyright © 2024 [Trilby Multimedia Ltd](https://www.trilby.co.uk/)
 * [](https://instagram.com/trilbytv)
 * [](https://facebook.com/trilbytv)
 * [](https://www.linkedin.com/company/trilbytv)
+* [](https://www.youtube.com/@trilbytv)
 
 * [Blog](https://www.trilbytv.co.uk/blog/)
 * [Trailblazers](https://www.trilbytv.co.uk/trailblazers/)
