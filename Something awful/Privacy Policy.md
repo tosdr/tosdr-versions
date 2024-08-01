@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [Augmentation Gone Rampant!](https://www.somethingawful.com/photoshop-phriday/deus-ex-augmentation/1/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
-* [The Great American Reach Around - The Midwest & France](https://www.somethingawful.com/news/gara-midwest-france/1/)
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [Mega Marny, Episode 2](https://www.somethingawful.com/flash-tub/marny-cartoon-2/)
+* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
+* [Terrorism Through the Ages](https://www.somethingawful.com/photoshop-phriday/terrorism-through-ages/1/)
+* [Boring Movies](https://www.somethingawful.com/photoshop-phriday/boring-movies/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Shoe fly dont bother me](http://forums.somethingawful.com/showthread.php?threadid=4066628 "Shoe fly dont bother me")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Photoshop: Kamala Harris has questionable taste in music](http://forums.somethingawful.com/showthread.php?threadid=4066692 "Photoshop: Kamala Harris has questionable taste in music")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [The fuck is a teaspoon?](http://forums.somethingawful.com/showthread.php?threadid=4066647 "The fuck is a teaspoon?")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [What's a sane number of kids to have?](http://forums.somethingawful.com/showthread.php?threadid=4066627 "What's a sane number of kids to have?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [A question for people who believe in god](http://forums.somethingawful.com/showthread.php?threadid=4066688 "A question for people who believe in god")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [Stereo (Hi-FI) Spousal Justification THread](http://forums.somethingawful.com/showthread.php?threadid=4066997 "Stereo (Hi-FI) Spousal Justification THread")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [I ran into Neo Butter-kun just now.](http://forums.somethingawful.com/showthread.php?threadid=4067003 "I ran into Neo Butter-kun just now.")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [20 plus years on the forums. What do you remember?](http://forums.somethingawful.com/showthread.php?threadid=4067013 "20 plus years on the forums. What do you remember?")
 
 ### Random Articles
 
-* [Intuitions](https://www.somethingawful.com/awful-links/awful-link-2793/)
-* [Chuck Asay Cartoon Contest!](https://www.somethingawful.com/comedy-goldmine/asay-cartoons-parody/1/)
-* [Meanwhile In Second Life](https://www.somethingawful.com/video-game-article/meanwhile-second-life/)
-* [State Og Update: 11.29.03](https://www.somethingawful.com/state-og/state-og-update-50/)
-* [Lightning Warrior Raidy](https://www.somethingawful.com/hentai-game-reviews/dungeon-crawl-tentacle/1/)
+* [Nothing here to see, move along](https://www.somethingawful.com/news/nothing-here-see/)
+* [Freakypizza: The Sweater Curse](https://www.somethingawful.com/news/sweater-curse-creepypasta/)
+* [Time Stripper Mako](https://www.somethingawful.com/hentai-game-reviews/time-stripper-mako/)
+* [That's Sick: The Greasnin Story](https://www.somethingawful.com/news/thats-sick-greasnin/)
+* [Chemtrail Central, RingSurf, and Xbox](https://www.somethingawful.com/weekend-web/chemtrail-central-ringsurf/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
