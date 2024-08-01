@@ -876,7 +876,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-2 Alerts
+3 Alerts
 
 Back
 
@@ -887,6 +887,9 @@ All
 * [Trend Experts Weigh in on Global IT Outage Caused by CrowdStrike](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)close
     
     [Learn more >](https://www.trendmicro.com/en_us/research/24/g/crowdstrike-windows-outage-insights.html)
+* [AI-Powered Deepfake Tools Becoming More Accessible Than Ever](https://www.trendmicro.com/en_us/research/24/g/ai-deepfake-cybercrime.html)close
+    
+    [Learn more >](https://www.trendmicro.com/en_us/research/24/g/ai-deepfake-cybercrime.html)
 * [Imagine with AI, Secure with Trend.](https://resources.trendmicro.com/BlackHat2024.html)close
     
     [Connect and engage with us at Black Hat >](https://resources.trendmicro.com/BlackHat2024.html)
@@ -900,13 +903,14 @@ Support
 
 Resources
 
+* [AI Hub](https://www.trendmicro.com/en_us/business/artificial-intelligence.html)
 * [Trend Micro vs. Competition](https://www.trendmicro.com/en_us/about/compare.html)
 * [Cyber Risk Index/Assessment](https://www.trendmicro.com/en_us/security-intelligence/breaking-news/cyber-risk-index.html)
 * [CISO Resource Center](https://www.trendmicro.com/en_us/ciso.html)
 * [DevOps Resource Center](https://www.trendmicro.com/en_us/devops.html)
 * [What Is?](https://www.trendmicro.com/en_us/what-is.html)
 * [Threat Encyclopedia](https://www.trendmicro.com/vinfo/us/threat-encyclopedia/)
-* [Cloud Health Assessment](http://trendmicro.com/public-cloud-risk-assessment)
+* [Cloud Health Assessment](https://trendmicro.com/public-cloud-risk-assessment)
 * [Cyber Insurance](https://www.trendmicro.com/en_us/business/capabilities/solutions-for/cyber-insurance.html)
 * [Glossary of Terms](https://www.trendmicro.com/vinfo/us/security/definition/a)
 * [Webinars](https://www.trendmicro.com/en_us/about/webinars.html)
