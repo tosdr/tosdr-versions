@@ -632,7 +632,6 @@ About Verizon
 * [News](https://www.verizon.com/about/news)
 * [Responsibility](https://www.verizon.com/about/responsibility)
 * [Verizon Innovative Learning](https://www.verizon.com/about/responsibility/verizon-innovative-learning/)
-* [Consumer info](https://www.verizon.com/info/)
 * [Articles](https://www.verizon.com/articles/)
 * [Brochures](https://www.verizon.com/support/collateraldownload/)
 * [5G overview](https://www.verizon.com/5g/)
@@ -663,7 +662,7 @@ Important Consumer Information
 
 * [Terms & Conditions](https://www.verizon.com/about/terms-conditions/overview)
 * [Device Payment Terms & Conditions](https://ss7.vzw.com/is/content/VerizonWireless/Device-Payment-Agreement-Template)
-* [Report a security vulnerability](https://www.verizon.com/info/reportsecurityvulnerability/)
+* [Report a security vulnerability](https://www.verizon.com/solutions-and-services/report-security-vulnerability/)
 * [Mobile customer agreement](https://www.verizon.com/support/customer-agreement/)
 * [Announcements](https://www.verizon.com/support/residential/announcements/)
 * [Radio frequency emissions](https://www.verizon.com/support/radio-emissions/)
