@@ -1,7 +1,7 @@
 * [![Wyoming Registered Agent Services LLC](https://www.wyomingagents.com/wp-content/uploads/2023/11/wy-logo-text.png "Wyoming Registered Agent Services LLC")](https://www.wyomingagents.com/)
 * Menu
 
-* * [Compare Registered Agents](https://www.wyomingagents.com/registered-agent)
+* * [Registered Agent](https://www.wyomingagents.com/registered-agent)
         * [Change to Us](https://www.wyomingagents.com/change-wyoming-registered-agents)
     * [Resources & Services](https://www.wyomingagents.com/incorporate)
         * [Wyoming LLC](https://www.wyomingagents.com/llc "Wyoming LLC")
@@ -23,8 +23,9 @@
         * [How Our Registered Agent Service Guards Your Privacy](https://www.wyomingagents.com/registered-agent-service-guards-privacy)
     * [About Us](https://www.wyomingagents.com/about)
     * [Login](https://www.wyomingagents.com/login)
+    * [Contact](https://www.wyomingagents.com/contact)
+    * [Hire Us](https://www.wyomingagents.com/hire-us)
     
-* Call Us: [307.217.4045](tel:3072174045)
 
 Our Terms of Service
 ====================
