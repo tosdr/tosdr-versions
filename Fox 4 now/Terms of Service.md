@@ -49,7 +49,7 @@ Search site  Go
     * [Hourly Forecast](https://www.fox4now.com/weather/forecast/todays-forecast)
     * [Daily Forecast](https://www.fox4now.com/www.fox4now.com/weather/your-forecast-from-the-wftx-weather-team)
     * [Hurricane Center](https://www.fox4now.com/weather/hurricane-center)
-    * [Severe Weather Alerts](https://www.fox4now.com/weather/alerts)
+    * [Severe Weather Alerts](https://www.fox4now.com/weather/wdt-alert)
     * [Weather Radar](https://www.fox4now.com/weather/interactive-radar)
     * [Live Cameras](https://www.fox4now.com/weather/weather-cams)
     
