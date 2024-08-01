@@ -28,7 +28,11 @@ Resources
 
 [About Us](https://www.waveapps.com/about-us/about)[Careers](https://www.waveapps.com/about-us/careers)[How support works](https://www.waveapps.com/help)[Become an affiliate](https://www.waveapps.com/affiliate)
 
-[Sign in](https://my.waveapps.com/login/)[Sign up
+[Sign in](https://www.waveapps.com/login)[Sign up
+
+Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.com/)
+
+[Sign up
 
 Sign up](https://my.waveapps.com/register/)[Your account](https://my.waveapps.com/)
 
@@ -44,13 +48,21 @@ Resources
 
 [About Us](https://www.waveapps.com/about-us/about)[Careers](https://www.waveapps.com/about-us/careers)[How support works](https://www.waveapps.com/help)[Become an affiliate](https://www.waveapps.com/affiliate)
 
-[Sign in](https://my.waveapps.com/login/)[Sign up
+[Sign in](https://www.waveapps.com/login)[Sign up
+
+Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.com/)
+
+[Sign up
 
 Sign up](https://my.waveapps.com/register/)[Your account](https://my.waveapps.com/)
 
 [Sign up
 
 Sign up](https://my.waveapps.com/register/)
+
+[Sign up
+
+Sign up](https://www.waveapps.com/register)
 
 Your Security
 =============
