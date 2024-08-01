@@ -130,8 +130,8 @@ If you accept cookies a number of cookies will be saved by Google. Some of these
 
 If you have accepted cookies and go to a plant page in the database where an NBN Gateway Map is shown. If you click on the map an overlay of the full map will display and two cookies will be saved by nbnatlas.org. If you have rejected cookies then clicking on the map will take you to the appropriate NBN Atlas page in another window and no cookies will be saved by nbnatlas.org from this website.
 
-[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/facebookfollow.gif)](https://www.facebook.com/TheTortoiseTable)[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/twitterfollow.gif)](https://twitter.com/TortoiseTable) ![](https://www.thetortoisetable.org.uk/siteassets/designfiles/followbutton.png)
+[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/facebookfollow.gif)](https://www.facebook.com/TheTortoiseTable) ![](https://www.thetortoisetable.org.uk/siteassets/designfiles/followbutton.png)
 
 [Site Map](https://www.thetortoisetable.org.uk/resources/sitemap) | [Contact](https://www.thetortoisetable.org.uk/contact) | [Plant Database](https://www.thetortoisetable.org.uk/plant-database) | [Home](https://www.thetortoisetable.org.uk/)
 
-© Copyright 2017 - The Tortoise Table | [Web Designer](https://www.beework.net/ "Beework Web Design")
+© Copyright 2017 - The Tortoise Table | [Website Design by Beework](https://www.beework.net/)
