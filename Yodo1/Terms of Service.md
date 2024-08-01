@@ -117,7 +117,7 @@ Bring iconic names in media and entertainment into your games with exclusive, ti
 
 [SEE OUR COLLABORATIONS](https://home.yodo1.com/ip-licensing-collaborations/)
 
-![Launch IP Based In Game Events](https://www.yodo1.com/wp-content/uploads/2024/01/Launch-IP-Based-In-Game-Events-2-1019x1024.png "Launch IP Based In Game Events | Yodo1 | Yodo1")
+![Launch IP Based In Game Events](https://www.yodo1.com/wp-content/uploads/2024/07/Launch-IP-Based-In-Game-Events-3.png "Launch-IP-Based-In-Game-Events-3 | Yodo1 | Yodo1")
 
 ![Brand Games With Growth Publishing in China](https://www.yodo1.com/wp-content/uploads/2023/11/Logo-Growth.png "Brand Games With Growth Publishing in China | Yodo1 | Yodo1")
 
