@@ -130,29 +130,32 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
+[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
+
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
-[![Tell if Your Best Friend Loves You](https://www.wikihow.com/images/thumb/9/9b/Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg/-crop-126-120-126px-Tell-if-Your-Best-Friend-Loves-You-Step-15-Version-2.jpg)
+[![Become Ambidextrous](https://www.wikihow.com/images/thumb/9/94/Become-Ambidextrous-Step-10.jpg/-crop-126-120-126px-Become-Ambidextrous-Step-10.jpg)
 
 How to  
-Tell if Your Best Friend Loves You](https://www.wikihow.com/Tell-if-Your-Best-Friend-Loves-You)
+Become Ambidextrous](https://www.wikihow.com/Become-Ambidextrous)
 
-[![Be a Better Person](https://www.wikihow.com/images/thumb/d/da/Be-a-Better-Person-Step-13-Version-6.jpg/-crop-126-120-126px-Be-a-Better-Person-Step-13-Version-6.jpg)
-
-How to Be a Better Person: A Guide to Self-Improvement](https://www.wikihow.com/Be-a-Better-Person)
-
-[![Late Night Date Ideas](https://www.wikihow.com/images/thumb/c/c6/Late-Night-Date-Ideas-Step-17-Version-2.jpg/-crop-126-120-126px-Late-Night-Date-Ideas-Step-17-Version-2.jpg)
-
-17+ Fun & Easy Late Night Date Ideas](https://www.wikihow.com/Late-Night-Date-Ideas)
-
-[![Be Friendly](https://www.wikihow.com/images/thumb/e/ee/Be-Friendly-Step-21-Version-2.jpg/-crop-126-120-126px-Be-Friendly-Step-21-Version-2.jpg)
+[![Cope With Friends Who Turn Against You](https://www.wikihow.com/images/thumb/1/12/Cope-With-Friends-Who-Turn-Against-You-Step-13.jpg/-crop-126-120-126px-Cope-With-Friends-Who-Turn-Against-You-Step-13.jpg)
 
 How to  
-Be Friendly](https://www.wikihow.com/Be-Friendly)
+Cope With Friends Who Turn Against You](https://www.wikihow.com/Cope-With-Friends-Who-Turn-Against-You)
+
+[![Exfoliate Your Body for Soft Skin](https://www.wikihow.com/images/thumb/d/dc/Exfoliate-Your-Body-for-Soft-Skin-Step-10-Version-4.jpg/-crop-126-120-126px-Exfoliate-Your-Body-for-Soft-Skin-Step-10-Version-4.jpg)
+
+How to  
+Exfoliate Your Body for Soft Skin](https://www.wikihow.com/Exfoliate-Your-Body-for-Soft-Skin)
+
+[![Color Season Quiz](https://www.wikihow.com/images/thumb/7/7d/4seasons-quiz-2.jpg/-crop-126-120-126px-4seasons-quiz-2.jpg)
+
+What Is My Color Season Quiz](https://www.wikihow.com/Color-Season-Quiz)
 
   
 
@@ -193,4 +196,4 @@ Follow Us
 
 \-
 
-135
+147
