@@ -40,6 +40,7 @@
 * [Finance – B.S.](https://www.wgu.edu/online-business-degrees/finance-bachelors-program.html)
 * [Supply Chain and Operations Management – B.S.](https://www.wgu.edu/online-business-degrees/supply-chain-operations-management-bachelors-program.html)
 * [Communications – B.S.](https://www.wgu.edu/online-business-degrees/communications-bachelors-program.html)
+* [User Experience Design – B.S.](https://www.wgu.edu/online-business-degrees/user-experience-design-bachelors-program.html)
 * [Accelerated Information Technology Bachelor's and Master's Degree (from the School of Technology)](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
 * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
 
@@ -133,6 +134,7 @@
 * [Accelerated Information Technology Bachelor's and Master's Degree](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
 * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
 * [Information Technology Management – B.S. Business Administration (from the School of Business)](https://www.wgu.edu/online-business-degrees/it-information-technology-management-bachelors-program.html)
+* [User Experience Design – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/user-experience-design-bachelors-program.html)
 
 ##### Master's Degrees
 
@@ -376,6 +378,7 @@ Online Degrees
         * [Finance – B.S.](https://www.wgu.edu/online-business-degrees/finance-bachelors-program.html)
         * [Supply Chain and Operations Management – B.S.](https://www.wgu.edu/online-business-degrees/supply-chain-operations-management-bachelors-program.html)
         * [Communications – B.S.](https://www.wgu.edu/online-business-degrees/communications-bachelors-program.html)
+        * [User Experience Design – B.S.](https://www.wgu.edu/online-business-degrees/user-experience-design-bachelors-program.html)
         * [Accelerated Information Technology Bachelor's and Master's Degree (from the School of Technology)](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
         * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
         
@@ -477,6 +480,7 @@ Online Degrees
         * [Accelerated Information Technology Bachelor's and Master's Degree](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
         * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
         * [Information Technology Management – B.S. Business Administration (from the School of Business)](https://www.wgu.edu/online-business-degrees/it-information-technology-management-bachelors-program.html)
+        * [User Experience Design – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/user-experience-design-bachelors-program.html)
         
     * Master's Degrees
         
