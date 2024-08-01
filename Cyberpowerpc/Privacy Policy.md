@@ -62,8 +62,6 @@ Featured
 
 [Luxe Series](https://www.cyberpowerpc.com/page/Luxe/)
 
-[NVIDIA RTX AI PCs](https://www.cyberpowerpc.com/page/NVIDIA/Geforce-RTX-AI/)
-
 [NVIDIA RTX Studio Series](https://www.cyberpowerpc.com/page/NVIDIA/RTX-Studio/)
 
 [Corsair iCUE Series](https://www.cyberpowerpc.com/page/Corsair-Icue/)
@@ -93,8 +91,6 @@ Intel Gaming PCs
 [All Intel Gaming PCs](https://www.cyberpowerpc.com/category/intel-gaming-pcs/)
 
 AMD Gaming PCs
-
-[AMD Ryzen 9000 Series](https://www.cyberpowerpc.com/page/AMD/Ryzen-9000-Series/)
 
 [AMD Ryzen 8000 Series](https://www.cyberpowerpc.com/page/AMD/Ryzen-8000-Series/)
 
@@ -292,8 +288,6 @@ Featured
 
 [Luxe Series](https://www.cyberpowerpc.com/page/Luxe/)
 
-[NVIDIA RTX AI PCs](https://www.cyberpowerpc.com/page/NVIDIA/Geforce-RTX-AI/)
-
 [NVIDIA RTX Studio Series](https://www.cyberpowerpc.com/page/NVIDIA/RTX-Studio/)
 
 [EVO Mini Series](https://www.cyberpowerpc.com/page/EVO-Mini/)
@@ -325,8 +319,6 @@ Intel Gaming PCs
 [All Intel Gaming PCs](https://www.cyberpowerpc.com/category/intel-gaming-pcs/)
 
 AMD Gaming PCs
-
-[AMD Ryzen 9000 Series](https://www.cyberpowerpc.com/page/AMD/Ryzen-9000-Series/)
 
 [AMD Ryzen 8000 Series](https://www.cyberpowerpc.com/page/AMD/Ryzen-8000-Series/)
 
