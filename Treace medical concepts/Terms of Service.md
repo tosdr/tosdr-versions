@@ -254,7 +254,7 @@ M1465D
 
 [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_FB.svg)](https://www.facebook.com/TreaceMedical) [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_IG.svg)](https://www.instagram.com/lapiplasty/)  [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_YT.svg)](https://www.youtube.com/channel/UCKrmTEoW0YUs7G2G5XktiJA) [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_LI.svg)](https://www.linkedin.com/company/treace-medical-concepts-inc/)
 
-© 2023 Treace Medical Concepts, Inc. All rights reserved
+© 2024 Treace Medical Concepts, Inc. All rights reserved
 
 I understand that [https://www.treace.com/](https://www.treace.com/) uses cookies to personalize content, provide social media features, assist with promotional and marketing efforts, and to analyze traffic. I consent to allow Treace Medical Concepts, Inc. to use cookies and to allow sharing information about my use of this website with Treace Medical Concepts, Inc.’s social media, advertising, and analytics partners. I acknowledge that I can change my mind and withdraw consent at any time by contacting [info@treace.com](mailto:info@treace.com). View the [Privacy Policy](https://www.treace.com/privacy-policy/).
 
