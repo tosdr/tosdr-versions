@@ -537,6 +537,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-30-at-9.34.49 AM-300x200.png)](https://www.theadvocates.org/as-debt-turns-into-darkness/)
+    
+    #### [As Debt Turns Into Darkness](https://www.theadvocates.org/as-debt-turns-into-darkness/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-23-at-6.24.36 PM-300x200.png)](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
     
     #### [A Hackneyed Meme for a Hackneyed Idea](https://www.theadvocates.org/a-hackneyed-meme-for-a-hackneyed-idea/)
@@ -564,10 +568,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-12.37.06 PM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
     
     #### [Principles of Market Fundamentalism, No. 8: Emergence](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-30-at-5.09.20 PM-300x200.png)](https://www.theadvocates.org/the-protection-racket/)
-    
-    #### [The Protection Racket](https://www.theadvocates.org/the-protection-racket/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
