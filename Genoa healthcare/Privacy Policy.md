@@ -1,4 +1,4 @@
-Get your flu shot at Genoa this fall! [Find a pharmacy location near you.](https://www.genoahealthcare.com/locations/)
+Calling all artists! Now accepting submissions to the 2024 Art Celebration. [Learn more and submit your artwork.](https://www.genoahealthcare.com/2024-art-celebration/)
 
 Close
 
