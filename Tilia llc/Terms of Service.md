@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/65ab1d4bb088d42af8bc167f_tilia-blue.svg)](https://www.tilia.io/)
+[![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/65ab1d4bb088d42af8bc167f_tilia-blue.svg)](https://www.tilia.io/)
 
 [Why Tilia?](https://www.tilia.io/why-tilia)[Products](https://www.tilia.io/products)[Customer Stories](https://www.tilia.io/customer-stories)[Documentation](https://www.tilia.io/docs/)[About](https://www.tilia.io/about)[Contact](https://www.tilia.io/contact-tilia)
 
@@ -6,7 +6,7 @@
 
 ======================================
 
-**Effective Nov 20, 2023**
+**Effective July 29, 2024**
 
 These Terms of Service ("**Terms**") are a legal agreement between you ("User," "you," or "your") andTilia LLC ("**Tilia**,""**we**," "our," or "us") that govern your use of the Tilia Service (as defined below).
 
@@ -375,9 +375,7 @@ We may: (a) refuse to complete, or block, cancel or reverse a transaction you ha
 
 > x. you take any action that may circumvent our controls.
 
-We may also refuse to complete or may block, cancel or reverse a transaction you have authorized where there are insufficient funds in your Stored Value Balance to cover the transaction and (where applicable) associated fees at the time that we receive notification of the transaction. If we refuse to complete a transaction and/or suspend, restrict or close your Tilia Account, and/or terminate your use of Tilia Services, we will (unless it would be unlawful for us to do so) provide you with notice of our actions and the reasons for refusal, suspension or closure, and where appropriate, with the procedure for correcting any factual errors that led to the refusal, suspension or closure.
-
-In the event that we refuse to complete a transaction and/or suspend your Tilia Account or Stored Value Balance we will lift the suspension or complete the transaction as soon as reasonably practicable once the reasons for refusal and / or suspension no longer exist. However, we are under no obligation to allow you to reinstate a transaction at the same price or on the same terms as the suspended, reversed or cancelled transaction.
+We may also refuse to complete or may block, cancel or reverse a transaction you have authorized where there are insufficient funds in your Stored Value Balance to cover the transaction and (where applicable) associated fees at the time that we receive notification of the transaction.
 
 **9.3. Termination for Convenience**
 
@@ -570,11 +568,11 @@ IF YOU CLAIM THAT YOU HAVE INCURRED ANY LOSSES OR DAMAGES IN CONNECTION WITH YOU
 
 All claims you bring against Tilia must be resolved in accordance with Section 13, Dispute Resolution and Arbitration, except as expressly provided therein. All claims filed or brought contrary to the Dispute Resolution and Arbitration section shall be considered improperly filed and a breach of these Terms of Service. Should either party file a claim contrary to the Dispute Resolution and Arbitration section, the other party may recover attorneys’ fees and costs up to one thousand USD ($1,000.00 USD), provided that such party seeking such fees has notified the other in writing of the improperly filed claim, and the other has failed to promptly withdraw the claim.
 
-![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/65a9be214a91b4cafa71461d_tilia-logo-white-r.svg)
+![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/65a9be214a91b4cafa71461d_tilia-logo-white-r.svg)
 
 © 2023 Tilia LLC. All Rights Reserved  
 Tilia LLC. - NMLS License #2450368
 
-[![](https://assets-global.website-files.com/60a546cad5c4cc870d2468d5/63488086af8d0a21bd48cff7_Linkedin.png)](https://www.linkedin.com/company/tiliapay)
+[![](https://cdn.prod.website-files.com/60a546cad5c4cc870d2468d5/63488086af8d0a21bd48cff7_Linkedin.png)](https://www.linkedin.com/company/tiliapay)
 
 [Customer Stories](https://www.tilia.io/customer-stories)[Sales](https://www.tilia.io/contact-sales)[Licenses](https://www.tilia.io/licenses)[Cookies](https://www.tilia.io/cookies)[Privacy Policy](https://www.tilia.io/legal/privacy-policy)[Terms of Service](https://www.tilia.io/legal/terms-of-service)[System Description](https://www.tilia.io/docs/policies/system-description/)
