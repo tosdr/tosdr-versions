@@ -70,7 +70,7 @@ Customer Care Contacts
 * [Subscription FAQs](https://www.sltrib.com/digital-subscriptions-faq/)
 * [Help and contact info](https://www.sltrib.com/contact-us/)
 * [Gift Subscriptions](https://www.sltrib.com/gift-subscription/)
-* [Email for Group Subscriptions](mailto:groupsubs@sltrib.com)
+* [Group subscriptions](https://sltrib.formstack.com/forms/group_subscriptions)
 
 ##### ABOUT US
 
@@ -111,8 +111,8 @@ Report a missed paper by emailing [subscribe@sltrib.com](mailto:subscribe@sltri
 
 For e-edition questions or comments, contact customer support [801-237-2900](tel:801-237-2900) or email [subscribe@sltrib.com](mailto:subscribe@sltrib.com)
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=494)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=495)](https://www.sltrib.com/)
 
 sltrib.com © 1996-2024 The Salt Lake Tribune. All rights reserved.
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=494)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=495)](https://www.sltrib.com/)
