@@ -1,14 +1,15 @@
-![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView &noscript=1)            
+![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView
+&noscript=1)                      
 
 [Skip to content](#content)
 
-[![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-d4344b4/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 * Platform
     
     Close Platform Open Platform
     
-    [Models: MLOps solution](#)
+    Models: MLOps solution
     
     * [Experiments  
         Track and visualize your ML experiments](https://wandb.ai/site/experiment-tracking/)
@@ -28,7 +29,7 @@
     * [Evaluations  
         Rigorous evaluations of GenAI applications](https://wandb.ai/site/evaluations)
     
-    [Core platform](#)
+    Core platform
     
     * [Artifacts  
         Version and manage your ML pipelines](https://wandb.ai/site/artifacts/)
@@ -399,7 +400,7 @@ To see when this Privacy Policy was last updated, please see the “Last Updated
 
 If you have questions about our use of your personal information, please email us at [support@wandb.com](mailto:support@wandb.com). To submit a data subject request, please fill out the information [here](https://preferences.wandb.ai/privacy?_gl=1*oflud4*_ga*MTY1MDMyMDUyMy4xNjkyNjI1NDg3*_ga_JH1SJHJQXJ*MTcwNzQ5MjAwNS4yOTAuMS4xNzA3NDkzNDQxLjMyLjAuMA..).
 
-[![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-d4344b4/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 [X-twitter](https://x.com/weights_biases?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Linkedin-in](https://www.linkedin.com/company/wandb/) [Youtube](https://www.youtube.com/c/WeightsBiases)
 
@@ -410,7 +411,7 @@ If you have questions about our use of your personal information, please email u
 * [Registry](https://wandb.ai/site/registry)
 * [Automations](https://wandb.ai/site/automations/)
 * [Launch](https://wandb.ai/site/launch/)
-* [Weave](https://wandb.ai/site/weave/)
+* [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
 * [Evaluations](https://wandb.ai/site/evaluations/)
 * [Artifacts](https://wandb.ai/site/artifacts/)
@@ -422,7 +423,7 @@ If you have questions about our use of your personal information, please email u
 * [Registry](https://wandb.ai/site/registry)
 * [Automations](https://wandb.ai/site/automations/)
 * [Launch](https://wandb.ai/site/launch/)
-* [Weave](https://wandb.ai/site/weave/)
+* [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
 * [Evaluations](https://wandb.ai/site/evaluations/)
 * [Artifacts](https://wandb.ai/site/artifacts/)
@@ -611,6 +612,6 @@ Copyright © Weights & Biases. All rights reserved.
     * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
     
 
-* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-d4344b4/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://wandb.ai/site/privacy)
-* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-d4344b4/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)日本語 (Japanese)](https://wandb.ai/site/ja/privacy/)
-* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-d4344b4/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)한국어 (Korean)](https://wandb.ai/site/ko/privacy/)
+* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://wandb.ai/site/privacy)
+* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)日本語 (Japanese)](https://wandb.ai/site/ja/privacy/)
+* [![](https://site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)한국어 (Korean)](https://wandb.ai/site/ko/privacy/)
