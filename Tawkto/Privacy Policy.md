@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=881747273599579&ev=PageView&noscript=1)                       
+![fbpx](https://www.facebook.com/tr?id=881747273599579&ev=PageView&noscript=1)                        
 
 ![](https://px.ads.linkedin.com/collect/?pid=72646&fmt=gif)
 
@@ -157,6 +157,7 @@ According to our policy, we do NOT publish advertisements, we do not extract inf
 * [Careers - **Join Us!**](https://www.tawk.to/jobs-at-tawk-to/)
 * [Customers](https://www.tawk.to/stories/)
 * [Partners](https://www.tawk.to/partner-program/)
+* [Translate](https://www.tawk.to/translate/)
 
 ### Let's tawk?
 
