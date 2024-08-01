@@ -136,7 +136,7 @@ Menu
 
 * [Community Fund](https://unitedwaygmwc.org/Our-Impact/Community-Fund)
 * [Health](https://unitedwaygmwc.org/Health)
-    * [Health Improvement Fund](https://unitedwaygmwc.org/Health-Improvement-Fund)
+    * [Mental Health Improvement Fund](https://unitedwaygmwc.org/Mental-Health-Improvement-Fund)
     * [Teen Pregnancy Prevention](https://unitedwaygmwc.org/Teen-Pregnancy-Prevention)
 * [Education](https://unitedwaygmwc.org/Education)
     * [Backpack Coalition](https://unitedwaygmwc.org/Backpack-Coalition)
