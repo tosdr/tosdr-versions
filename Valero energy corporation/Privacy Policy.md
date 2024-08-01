@@ -60,7 +60,7 @@ Main navigation
     
     ![DGD_Teaser_380x275](/sites/default/files/styles/teaser_card_380x275/public/2021-07/DGD_Teaser_380x275_0.jpg?itok=gmsEBGAz)
     
-* [Investors](http://www.investorvalero.com/)
+* [Investors](https://www.investorvalero.com/)
 * [Careers](https://www.valero.com/careers)
     
     [Careers](https://www.valero.com/careers) ![Refinery employee holding an open binder](/sites/default/files/styles/featured/public/2021-07/RefiningScienceProcess_Opt5_970x630.jpg?itok=DPO10Sf2)
@@ -294,7 +294,7 @@ Personal Data From the European Union
 
 Where personal data from the European Union, including EEA countries, is collected on this site, it is processed in accordance with the above Privacy Statement to the extent that it applies. For further information about how Valero processes personal data from the European Union, please see the [Valero Privacy Policy](https://texaco.co.uk/privacy). 
 
-![](/sites/default/files/valero_footer_logo.svg)
+![Valero Logo](/sites/default/files/valero_footer_logo.svg)
 
 Social Navigation
 
