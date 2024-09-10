@@ -23,7 +23,9 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 
 ### FOR USERS OF ZOOM APPS
 
-Some Blue Sky Apps integrate with Zoom, and may use Zoom's APIs to join and interact with Zoom meetings for users who have authorized the service. We do not save or share video, audio, or chat communications from these meetings, except for actions specifically initiated by the user (for example, taking meeting attendance).
+Some Blue Sky Apps integrate with Zoom, and may use Zoom's APIs to join and interact with Zoom meetings for users who have authorized the service. We do not save or share video, audio, or chat communications from these meetings, except for actions specifically enabled by the user (for example, taking meeting attendance or enabling AI note-taking).
+
+For users of AI Notetaker, transcriptions and summaries of meetings are stored and can be deleted by the user at any time.
 
 In accordance with Zoom's App Marketplace Policy, we will delete your personal information when requested to do during uninstallation of our App(s) within the Zoom Marketplace. However, active subscriptions with BlueSky Apps will not automatically be cancelled just by installing our Zoom App(s). Please contact us at [\[email protected\]](https://blueskyapps.org/cdn-cgi/l/email-protection) if you have uninstalled a Zoom App and also wish to have your subscriptions paused or cancelled.
 
