@@ -6,9 +6,9 @@
 
 [Skip to content](#content)
 
-Tuesday, July 30, 2024
+Tuesday, September 10, 2024
 
- [![](https://www.accuweather.com/images/weathericons/3.svg) 71°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+ [![](https://www.accuweather.com/images/weathericons/3.svg) 69°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 [Sign Out](javascript:newzware_doLogout();) [Sign In](javascript:void(0)) [Subscribe](https://www.kitsapdailynews.com/subscribe/) [Newsletter](https://www.kitsapdailynews.com/newsletters/) [Contact Us](https://www.kitsapdailynews.com/contact/)[](https://www.facebook.com/KitsapDailyNews/ "Find Us On Facebook")[](https://twitter.com/KitsapDailyNews/ "Find Us On Twitter")[](https://www.instagram.com/KitsapDailyNews/ "Find Us On Instagam")[](https://www.kitsapdailynews.com/feed/ "Access Our RSS Feed")
 
@@ -89,7 +89,7 @@ Tuesday, July 30, 2024
 
 [![](https://www.accuweather.com/images/weathericons/3.svg)
 
-71°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+69°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 Submit search 
 
@@ -179,7 +179,7 @@ Submit search
 Privacy Policy
 ==============
 
-_Last updated: March 10, 2023_
+_Last updated: August 22, 2024_
 
 _This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You._
 
@@ -342,6 +342,7 @@ The Company may use Personal Data for the following purposes:
 * To deliver targeted advertising to You: We may use Your information to develop and display content and advertising (and work with third-party vendors who do so) tailored to Your interests and/or location and to measure its effectiveness.
 * For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
 * For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns, and evaluating and improving our Service, products, services, marketing, and your experience.
+* We may also use Your information for (1) the development of any software program, model, algorithm, or other generative AI tool, including, but not limited to, training or using the Content in connection with the development or operation of a machine learning or artificial intelligence (AI) system (including any use of the Content for training, fine tuning, or grounding the machine learning or AI system or as part of retrieval-augmented generation); or (2) providing archived or cached data sets containing Content to another person or entity.
 
 We may share Your personal information in the following situations:
 
