@@ -8,6 +8,16 @@
 
 [Login](https://sdbullion.com/customer/account/login/)
 
+ [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+
+[![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
+
+[![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)![Shop 2024 Trump Presidential Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)](https://sdbullion.com/silver/trump)
+
+Search  Search
+
+ [![Phone Icon Image](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
+
 * [Silver](https://sdbullion.com/silver)
     
     [Silver](https://sdbullion.com/silver) [chevron-right](#/)
@@ -32,9 +42,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -78,9 +88,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -230,6 +240,10 @@
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
+            
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
             [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
@@ -255,6 +269,10 @@
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
+            
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
@@ -298,9 +316,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -344,9 +362,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -496,6 +514,10 @@
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
+            
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
             [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
@@ -521,6 +543,10 @@
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
+            
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
@@ -644,6 +670,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -670,6 +700,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -686,13 +720,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -716,13 +750,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -840,6 +874,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -866,6 +904,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -882,13 +924,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -912,13 +954,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -1415,9 +1457,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -1461,9 +1503,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -1613,6 +1655,10 @@
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
+            
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
             [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
@@ -1638,6 +1684,10 @@
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
+            
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
@@ -1681,9 +1731,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -1727,9 +1777,9 @@
             
             [Silver Dollars](https://sdbullion.com/silver/junk-silver/silver-dollars)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/silver/truth-series-silver-coins)
             
         * [chevron-right British Silver Coins](https://sdbullion.com/silver/british-royal-mint-silver-coins)
             
@@ -1879,6 +1929,10 @@
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
+            
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
             [Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
@@ -1904,6 +1958,10 @@
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
+            
+        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
+            
+            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Una and the Lion](https://sdbullion.com/royal-mint/una-and-the-lion-gold-silver-bars)
             
@@ -2027,6 +2085,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -2053,6 +2115,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -2069,13 +2135,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -2099,13 +2165,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -2223,6 +2289,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -2249,6 +2319,10 @@
             
             [All Large Bars](https://sdbullion.com/gold/gold-bars/large-oz-gold-bars)
             
+        * [chevron-right Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
+            [Cross & Flag Gold Bars](https://sdbullion.com/cross-flag-gold-bars)
+            
         * [chevron-right Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
             
             [Argor-Heraeus Gold Bars](https://sdbullion.com/gold/gold-bars/argor-heraeus-gold-bars)
@@ -2265,13 +2339,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -2295,13 +2369,13 @@
             
             [In Stock Gold](https://sdbullion.com/products/gold-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+        * [chevron-right Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-            [Pre-33 Gold](https://sdbullion.com/gold/american-gold-eagle-coins/pre-1933-us-mint-gold-coins)
+            [Pre-33 Gold](https://sdbullion.com/gold/pre-1933-gold-coins)
             
-        * [chevron-right **Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+        * [chevron-right **Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
-            [**Truth** Coin Series](https://sdbullion.com/shop-truth-coin-series)
+            [**Truth** Coin Series](https://sdbullion.com/gold/truth-series-gold-coins)
             
         * [chevron-right Scottsdale Gold](https://sdbullion.com/gold/scottsdale-mint-gold)
             
@@ -2772,16 +2846,6 @@
         [About](https://sdbullion.com/about)
         
 
- [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
-
-[![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
-
-[![Shop The 2024 Trump Silver Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)![Shop The 2024 Trump Silver Medals](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-585x75_1_1_.jpg)](https://sdbullion.com/silver/trump)
-
-Search  Search
-
- [![Phone Icon Image](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/phone.png) 1-800-294-8732](tel:1-800-294-8732 "Give us a call")
-
 * [Silver](https://sdbullion.com/silver)
 * [Gold](https://sdbullion.com/gold)
 * [Deals](https://sdbullion.com/deals)
@@ -2815,7 +2879,7 @@ We provide every customer with a refund, return, and/or exchange policy on every
 
 Your satisfaction is guaranteed on all orders placed at SD Bullion. If you are not satisfied for any reason, you have within 3 business days after receipt of shipment to notify our customer service team via telephone at (800) 294-8732 or email at sales@sdbullion.com.
 
-If an exchange is requested, we reserve the right to send an acceptable replacement or refund your money if an acceptable replacement is not available. The items must be returned as they were sent to you—in the original packaging and original condition. Due to insurance restrictions, the customer is responsible for the cost of returning any items for refund or exchange. We will cover the cost to ship the exchanged product back to you. The decision to refund or replace your item will be at the **sole discretion of SD Bullion**.
+If an exchange is requested, we reserve the right to send an acceptable replacement or refund your money if an acceptable replacement is not available. The items must be returned as they were sent to you—in the original packaging and original condition. To proceed with an exchange request, our team may request pictures of the items in question. We require mutual cooperation to proceed with the request, otherwise the request will be closed. Due to insurance restrictions, the customer is responsible for the cost of returning any items for refund or exchange. We will cover the cost to ship the exchanged product back to you. The decision to refund or replace your item will be at the **sole discretion of SD Bullion**.
 
 Returned products (excluding the SD24K line of products) are subject to a 5% restocking fee or $35, whichever is higher. Returned products from the SD24K jewelry line are subject to a 10% restocking fee. All returned items could also be subject to market loss based on SD Bullion’s sole discretion.
 
@@ -2893,7 +2957,7 @@ RESOURCES
 * [Careers](https://sdbullion.com/careers)
 * [FAQ](https://sdbullion.com/help)
 
-![Top](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
+![Top](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
 ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
@@ -2901,11 +2965,11 @@ RESOURCES
 
  [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png) ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
-![ica image](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
+![ica image](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
 
 [![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
 
-![SDBullion](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1722013082/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
+![SDBullion](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1725962503/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
 
 *  [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
 *  [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
