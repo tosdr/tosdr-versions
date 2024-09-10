@@ -89,7 +89,7 @@ Services used
 | [ProfitWell](https://www.profitwell.com/) | We use ProfitWell Metrics for revenue reporting and financial analytics. |
 | [Sentry](https://sentry.io/) | We use Sentry to retrieve, review and handle issues that might occurs within ImprovMX. |
 | [Stripe](https://stripe.com/) | Our payment gateway. This allows us to accept credit card payments securely. |
-| [Slack](https://slack.com/) | We use Stripe for team communications and automation of internal workflows. |
+| [Slack](https://slack.com/) | We use Slack for team communications and automation of internal workflows. |
 | [Trustpilot](https://www.trustpilot.com/) | We use Trustpilot’s Automatic Feedback Service to invite customers to share their experience about our products and services. |
 
 ### Cookies used
