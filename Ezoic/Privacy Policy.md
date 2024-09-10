@@ -1,42 +1,36 @@
-[![ezoic Logo](/_vercel/image?url=_astro%2Fezdark.Bh9JUAQX.png&w=256&q=100)](https://www.ezoic.com/)
+ [![ezoic logo](/_vercel/image?url=_astro%2Fezicon.DMnoB3HW.png&w=32&q=100) ![ezoic logo](/_vercel/image?url=_astro%2Fezoiclogo-text.B9wi_t-1.png&w=96&q=100)](https://www.ezoic.com/)
 
-Ads
+Solutions
 
- [![Ezoic ads](/_vercel/image?url=_astro%2Fads.DW8f72Ud.png&w=256&q=100) EzoicAds Platform® AI suite for high-earning ad monetization](https://www.ezoic.com/ezoic-ads) [Services Levels of service offered with EzoicAds](https://www.ezoic.com/levels)
+[Ezoic Ads Platform ®
 
- [![Premium ads](/_vercel/image?url=_astro%2Fpremiumemblem.VSv06aoi.svg&w=64&q=100) Premium Brand ad sales services & other upgrades](https://www.ezoic.com/premium)
+AI-driven monetization technology](https://www.ezoic.com/ezoic-ads)[Services
 
-[All Tools & Features](https://www.ezoic.com/products)
+Expert services, implementation, and management](https://www.ezoic.com/levels)[ⓟ PREMIUM
 
-Products
+Brand campaigns sold and tailored to your audience](https://www.ezoic.com/premium)[End-to-End Identity Data Tools
 
-Video
+Fully-integrate identity data into monetization](https://www.ezoic.com/features/ezid)
 
- [![Humix](/_vercel/image?url=_astro%2Fhumix.OyhyoiIO.png&w=128&q=100) HUMIX Video Network: Share, Display, & Monetize](https://www.ezoic.com/humix-network)[![Flickify](/_vercel/image?url=_astro%2Fflickify.BV34MOqW.png&w=256&q=100) Flickify AI Video Creator: Turn Articles Into Video](https://www.flickify.com/)
+Explore More
 
-Content & SEO
+[Flexible Integration](https://www.ezoic.com/setup) [Big Data Analytics](https://www.ezoic.com/big-data-analytics) [Ad Mediation](https://www.ezoic.com/ad-mediation)
 
- [![HNicheIQ](/_vercel/image?url=_astro%2Fnicheiq.dYAUKetD.png&w=256&q=100) NicheIQ AI SEO: Build A Profitable SEO Strategy](https://www.ezoic.com/nicheiq)[![Writio](/_vercel/image?url=_astro%2Fwritiologo.D9EMvSIo.png&w=128&q=100) Writio AI Writer: Create SEO-Optimized Articles](https://writio.com/)
+Other Products
 
-[View All Products](https://www.ezoic.com/integrations)
+[![Humix](/_vercel/image?url=_astro%2Fhumix.OyhyoiIO.png&w=16&q=100)Humix](https://www.ezoic.com/humix-network) [![Flickify](/_vercel/image?url=_astro%2Fflickify.BV34MOqW.png&w=16&q=100)flickify](https://flickify.com/) [![NicheIQ](/_vercel/image?url=_astro%2Fnicheiq.dYAUKetD.png&w=16&q=100)NicheIQ](https://www.ezoic.com/nicheiq) [![Writio](/_vercel/image?url=_astro%2Fwritiologo.D9EMvSIo.png&w=16&q=100)Writio](https://writio.com/)
 
 Resources
 
-[Setup](https://www.ezoic.com/setup) [Support](https://support.ezoic.com/) [Newsletter](https://www.ezoic.com/newsletter) [FAQs](https://www.ezoic.com/faq) [Reviews](https://www.ezoic.com/ezoic-reviews) [Advertisers](https://www.ezoic.com/advertisers) [Pricing](https://www.ezoic.com/pricing)
+[Support](https://support.ezoic.com/)[FAQ](https://www.ezoic.com/faq)[Reviews](https://www.ezoic.com/ezoic-reviews)[Advertisers](https://www.ezoic.com/advertisers)[Pricing](https://www.ezoic.com/levels)
 
 Discover
 
-[Guides & Blogs](https://www.ezoic.com/blog) [EPMV Calculator](https://www.ezoic.com/epmv-calculator) [Ad Index](https://adrevenueindex.ezoic.com/)
+[Blog](https://www.ezoic.com/blog)[Ad Revenue Index](https://adrevenueindex.ezoic.com/)[EPMV Calculator](https://www.ezoic.com/epmv-calculator)
 
-[Español](https://www.ezoic.com/es-lang/) [Deutsch](https://www.ezoic.com/de-lang/) [Français](https://www.ezoic.com/fr-lang/) [Italiano](https://www.ezoic.com/it-lang/)
+[Login](https://pubdash.ezoic.com/login) [Get Started](https://pubdash.ezoic.com/join)
 
-Already have an account?
-
-[](https://login.ezoic.com/)
-
-[Login](https://login.ezoic.com/)
-
-[Get Started](https://pubdash.ezoic.com/join)
+[](https://www.ezoic.com/)[](https://www.ezoic.com/de-lang)[](https://www.ezoic.com/fr-lang)[](https://www.ezoic.com/es-lang)
 
 Last updated on March 29, 2024
 
