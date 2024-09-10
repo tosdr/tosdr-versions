@@ -364,7 +364,7 @@ Last updated on Mar 26, 2024
 * [Contact Us](https://jlcpcb.com/help/contact)
 * [Support Team](https://jlcpcb.com/ourTeam)
 
-* Network Sites
+* NETWORK SITES
 * [EasyEDA - PCB Design Tool](https://easyeda.com/)
 * [JLC3DP - 3D Printing&CNC Machining](https://jlc3dp.com/?source=jlcpcb-footer)
 * [JLCMC - Mechatronic Parts](https://jlcmc.com/?href=jlc-footer&source=jlc)
@@ -376,4 +376,4 @@ Connect with us
 
 [](https://www.facebook.com/jlcpcb)[](https://twitter.com/jlcpcb)[](https://www.instagram.com/jlcpcb)[](https://www.youtube.com/JLCPCB)[](https://www.linkedin.com/company/jlcpcb)[](https://www.reddit.com/r/JLCPCBLab/)
 
-© 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/help/article/31-Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/help/article/30-Terms-%26-Conditions)
+© 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/help/article/Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/help/article/30-Terms-%26-Conditions)
