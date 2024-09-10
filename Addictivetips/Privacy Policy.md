@@ -5,26 +5,29 @@
 * [VPN / Privacy](https://www.addictivetips.com/vpn/)
     * [Best VPNs](#)
         * [Best VPNs for Netflix](https://www.addictivetips.com/vpn/best-vpn-netflix/)
-        * [Fastest VPNs](https://www.addictivetips.com/vpn/fastest-vpn///)
+        * [Fastest VPNs](https://www.addictivetips.com/vpn/fastest-vpn/)
         * [Best VPN for iPhone](https://www.addictivetips.com/vpn/best-vpn-iphone/)
         * [Best VPN for Android](https://www.addictivetips.com/vpn/vpn-android/)
         * [Best VPN for Torrenting](https://www.addictivetips.com/vpn/best-vpns-torrenting/)
+        * [Best VPN for Firestick](https://www.addictivetips.com/vpn/amazon-fire-tv-stick/)
+        * [Best VPN for Mac](https://www.addictivetips.com/vpn/best-vpns-mac/)
     * [VPN Reviews](#)
         * [NordVPN Review](https://www.addictivetips.com/review/nordvpn/)
         * [Surfshark Review](https://www.addictivetips.com/review/surfshark/)
         * [ExpressVPN Review](https://www.addictivetips.com/review/expressvpn/)
         * [Cyberghost Review](https://www.addictivetips.com/review/cyberghost/)
         * [IPVanish Review](https://www.addictivetips.com/review/ipvanish/)
+        * [Private Internet Access Review](https://www.addictivetips.com/review/pia/)
 * [Buying Guides](https://www.addictivetips.com/buying-guides/)
     * [Save Money](#)
         * [Black Friday Deals!](https://www.addictivetips.com/vpn/black-friday/)
         * [Amazon Review Checkers](https://www.addictivetips.com/buying-guides/amazon-review-checkers/)
         * [Best Coupon Apps to Save Money Online](https://www.addictivetips.com/buying-guides/best-coupon-apps/)
-    * [Make your Home Smart](#)
-        * [Best Smart Thermostat](https://www.addictivetips.com/buying-guides/hive-vs-nest-vs-honeywell/)
-        * [Best Smart Coffee Mugs](https://www.addictivetips.com/buying-guides/smart-coffee-mug/)
-        * [Best Pet Tracking Collars](https://www.addictivetips.com/buying-guides/pet-tracker/)
-        * [Best Robot Lawn Mowers](https://www.addictivetips.com/buying-guides/robot-lawn-mower/)
+    * [Best for Gaming](#)
+        * [Best CPU for Gaming](https://www.addictivetips.com/buying-guides/best-cpu-for-gaming/)
+        * [Best Gaming Monitor Under $300](https://www.addictivetips.com/buying-guides/best-gaming-monitor-under-300/)
+        * [Best GPU for Gaming](https://www.addictivetips.com/buying-guides/best-gpu-for-gaming/)
+        * [Best Gaming Chairs](https://www.addictivetips.com/buying-guides/gaming-chairs-big-tall-guys/)
 * [Windows](https://www.addictivetips.com/windows-tips/)
     * [Windows Basics](#)
         * [Why does my Screen Keep Dimming?](https://www.addictivetips.com/windows-tips/why-does-my-screen-keep-dimming/)
@@ -36,6 +39,7 @@
         * [Control Fan Speed on Windows 10](https://www.addictivetips.com/windows-tips/control-fan-speed-on-windows-10/)
         * [How to Check SSD Health on Windows 10](https://www.addictivetips.com/windows-tips/check-ssd-health-windows-10/)
         * [How to Mute Microphone with Keyboard](https://www.addictivetips.com/windows-tips/mute-unmute-the-mic-with-a-keyboard-shortcut-on-windows-10/)
+        * [How to Screenshot on Windows](https://www.addictivetips.com/windows-tips/how-to-screenshot-on-windows/)
 * [Mac OS](https://www.addictivetips.com/mac-os/)
     * [Mac Basics](#)
         * [Run Shell Script on Mac](https://www.addictivetips.com/mac-os/run-shell-sh-script-on-macos/)
@@ -75,26 +79,29 @@
 * [VPN / Privacy](https://www.addictivetips.com/vpn/)
     * [Best VPNs](#)
         * [Best VPNs for Netflix](https://www.addictivetips.com/vpn/best-vpn-netflix/)
-        * [Fastest VPNs](https://www.addictivetips.com/vpn/fastest-vpn///)
+        * [Fastest VPNs](https://www.addictivetips.com/vpn/fastest-vpn/)
         * [Best VPN for iPhone](https://www.addictivetips.com/vpn/best-vpn-iphone/)
         * [Best VPN for Android](https://www.addictivetips.com/vpn/vpn-android/)
         * [Best VPN for Torrenting](https://www.addictivetips.com/vpn/best-vpns-torrenting/)
+        * [Best VPN for Firestick](https://www.addictivetips.com/vpn/amazon-fire-tv-stick/)
+        * [Best VPN for Mac](https://www.addictivetips.com/vpn/best-vpns-mac/)
     * [VPN Reviews](#)
         * [NordVPN Review](https://www.addictivetips.com/review/nordvpn/)
         * [Surfshark Review](https://www.addictivetips.com/review/surfshark/)
         * [ExpressVPN Review](https://www.addictivetips.com/review/expressvpn/)
         * [Cyberghost Review](https://www.addictivetips.com/review/cyberghost/)
         * [IPVanish Review](https://www.addictivetips.com/review/ipvanish/)
+        * [Private Internet Access Review](https://www.addictivetips.com/review/pia/)
 * [Buying Guides](https://www.addictivetips.com/buying-guides/)
     * [Save Money](#)
         * [Black Friday Deals!](https://www.addictivetips.com/vpn/black-friday/)
         * [Amazon Review Checkers](https://www.addictivetips.com/buying-guides/amazon-review-checkers/)
         * [Best Coupon Apps to Save Money Online](https://www.addictivetips.com/buying-guides/best-coupon-apps/)
-    * [Make your Home Smart](#)
-        * [Best Smart Thermostat](https://www.addictivetips.com/buying-guides/hive-vs-nest-vs-honeywell/)
-        * [Best Smart Coffee Mugs](https://www.addictivetips.com/buying-guides/smart-coffee-mug/)
-        * [Best Pet Tracking Collars](https://www.addictivetips.com/buying-guides/pet-tracker/)
-        * [Best Robot Lawn Mowers](https://www.addictivetips.com/buying-guides/robot-lawn-mower/)
+    * [Best for Gaming](#)
+        * [Best CPU for Gaming](https://www.addictivetips.com/buying-guides/best-cpu-for-gaming/)
+        * [Best Gaming Monitor Under $300](https://www.addictivetips.com/buying-guides/best-gaming-monitor-under-300/)
+        * [Best GPU for Gaming](https://www.addictivetips.com/buying-guides/best-gpu-for-gaming/)
+        * [Best Gaming Chairs](https://www.addictivetips.com/buying-guides/gaming-chairs-big-tall-guys/)
 * [Windows](https://www.addictivetips.com/windows-tips/)
     * [Windows Basics](#)
         * [Why does my Screen Keep Dimming?](https://www.addictivetips.com/windows-tips/why-does-my-screen-keep-dimming/)
@@ -106,6 +113,7 @@
         * [Control Fan Speed on Windows 10](https://www.addictivetips.com/windows-tips/control-fan-speed-on-windows-10/)
         * [How to Check SSD Health on Windows 10](https://www.addictivetips.com/windows-tips/check-ssd-health-windows-10/)
         * [How to Mute Microphone with Keyboard](https://www.addictivetips.com/windows-tips/mute-unmute-the-mic-with-a-keyboard-shortcut-on-windows-10/)
+        * [How to Screenshot on Windows](https://www.addictivetips.com/windows-tips/how-to-screenshot-on-windows/)
 * [Mac OS](https://www.addictivetips.com/mac-os/)
     * [Mac Basics](#)
         * [Run Shell Script on Mac](https://www.addictivetips.com/mac-os/run-shell-sh-script-on-macos/)
@@ -214,7 +222,11 @@ Mediavine partners with the following data processors:
 
 ### 2 Comments
 
-1. ![](https://secure.gravatar.com/avatar/19618bd5c36809fd2a8139ae3e8bd421?s=32&d=mm&r=g) **Lily Allen** says:
+1. ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    
+    ![](https://secure.gravatar.com/avatar/19618bd5c36809fd2a8139ae3e8bd421?s=32&d=mm&r=g)
+    
+    **Lily Allen** says:
     
     [January 9, 2021 at 7:37 am](https://www.addictivetips.com/privacy-policy/#comment-475575)
     
@@ -225,7 +237,11 @@ Mediavine partners with the following data processors:
     
     [Reply](#comment-475575)
     
-2. ![](https://secure.gravatar.com/avatar/e9578d07bd67b4d92ac83193a8703705?s=32&d=mm&r=g) **Vanessa Seward** says:
+2. ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    
+    ![](https://secure.gravatar.com/avatar/e9578d07bd67b4d92ac83193a8703705?s=32&d=mm&r=g)
+    
+    **Vanessa Seward** says:
     
     [April 1, 2020 at 9:35 am](https://www.addictivetips.com/privacy-policy/#comment-409864)
     
@@ -272,7 +288,7 @@ Chances are, we can find what you're looking for:
  SEARCH
 
 * [Company](#)
-* [About Us](https://www.addictivetips.com/about//)
+* [About Us](https://www.addictivetips.com/about/)
 * [Editorial Process](https://www.addictivetips.com/editorial-process/)
 * [Content Integrity](https://www.addictivetips.com/content-integrity/)
 * [Join the team](https://www.addictivetips.com/join-the-team/)
