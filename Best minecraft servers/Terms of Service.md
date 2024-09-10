@@ -1,5 +1,3 @@
-                    
-
 [Home](https://best-minecraft-servers.co/) [My Servers](https://best-minecraft-servers.co/cp) [Sponsored](https://best-minecraft-servers.myshopify.com/) [Register](https://best-minecraft-servers.co/register) [Login](https://best-minecraft-servers.co/login)
 
 Minecraft Gamemodes
@@ -98,7 +96,7 @@ NEW MINECRAFT SERVERS
 * [InsanityCraft](https://best-minecraft-servers.co/server-insanitycraft.100)
 * [CalamityMC](https://best-minecraft-servers.co/server-calamitymc.146)
 
-© Best Minecraft Servers - 29 Jul 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
+© Best Minecraft Servers - 10 Sep 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
 
 [Terms](https://best-minecraft-servers.co/terms) [Privacy](https://best-minecraft-servers.co/privacy) [Help](https://best-minecraft-servers.co/help) [Contacts](https://best-minecraft-servers.co/contacts)
 
