@@ -11,7 +11,7 @@ Last modified: June 21st, 2024
     1. ### Controller
         
         _LanguageTooler GmbH_  
-        Karl-Liebknecht-Str. 21/22  
+        Karl-Liebknecht-Str. 37  
         14482 Potsdam (Germany)
         
         #### Data Protection Officer
@@ -240,19 +240,19 @@ Last modified: June 21st, 2024
         
           
         
-    * _Twitter_
+    * _X_
         
-        (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA)
+        (X Corp., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA)
         
         Privacy policy
         
-        [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+        [https://x.com/en/privacy](https://x.com/en/privacy)
         
           
         
         Opt-Out
         
-        [https://twitter.com/personalization](https://twitter.com/personalization)
+        [https://x.com/personalization](https://x.com/personalization)
         
           
         
