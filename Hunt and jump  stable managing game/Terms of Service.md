@@ -6,7 +6,7 @@
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
-FOREST SERVER | **Year: 133 Era: 15**  
+FOREST SERVER | **Year: 135 Era: 15**  
 
 * ![](/images/coloricons/icon_nav_home_color.png)My Stable
     
@@ -25,7 +25,7 @@ FOREST SERVER | **Year: 133 Era: 15**
     
     * [Boost Tokens](https://hj2.huntandjump.com/boost_tokens.php)
     * [Gene Mod Treatment](https://hj2.huntandjump.com/gmt.php)
-    * [Adv. Breeding Lab](https://hj2.huntandjump.com/ai_mygametes.php)
+    * [Owned Genetic Material](https://hj2.huntandjump.com/ai_mygametes.php)
 * ![](/images/coloricons/icon_nav_community.png)Community
     
     * [Search Horses](https://hj2.huntandjump.com/adv_search.php)
@@ -40,11 +40,6 @@ FOREST SERVER | **Year: 133 Era: 15**
     * [Upgrades for HBs](https://hj2.huntandjump.com/member_exchange.php)
     * [Buy Upgrades](https://hj2.huntandjump.com/upgrade.php)
     * [Buy Rare Genes](https://hj2.huntandjump.com/upgrade.php#tabs-5)
-* ![](/images/coloricons/Snowflake.png)Seasonal
-    
-    * [Gift Exchange](https://hj2.huntandjump.com/giftexchange.php)
-    
-    * [Random Acts of Giving](https://hj2.huntandjump.com/randomactsofgiving.php)
 * ![](/images/coloricons/icon_nav_resources.png)Resources
     
     * [**FAQ User Guide**](https://hj2.huntandjump.com/faq.php)
@@ -146,58 +141,42 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
-7/26/2024 11:39 PM EST
+9/7/2024 4:05 AM EST
 
-### Several players said they missed out on the 50% off sale because they did not notice the end date. I put the sale back up but you have until 8 on Sunday to take advantage of it.
+Big Ol' Rainbow Sale
+--------------------
 
-7/15/2024 9:30 AM EST
+All Axiom and Rainbow Riot 1 & 2 genes are on sale through the end of the month. You can pick them up now at 25% discount.
 
-[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**White 10**  
-![](https://www.huntandjump.com/images/grsExamples/w10.png)  
-**Sabino 1**  
-![](https://www.huntandjump.com/images/grsExamples/sb1.png)  
+9/1/2024 9:30 AM EST
+
+[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Pearl**  
+![](https://www.huntandjump.com/images/grsExamples/pearl.png)  
+**Splash M**  
+![](https://www.huntandjump.com/images/grsExamples/mac.png)  
+**Non-Dun 1**  
+![](https://www.huntandjump.com/images/grsExamples/nd1.png)  
 **Tiger Eye 2**  
 ![](https://www.huntandjump.com/images/grsExamples/te2.png)  
-**Rainbow Riot Paintbrush Prism**  
-![](https://www.huntandjump.com/images/grsExamples/pbp.png)  
-**Phantom Jellyfish**  
-![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
+**Phantom Apple Picking**  
+![](https://www.huntandjump.com/images/grsExamples/apple.png)  
 **Snowdrop**  
 ![](https://www.huntandjump.com/images/grsExamples/sno.png)
 
-7/11/2024 11:15 PM EST
+8/28/2024 10:09 PM EST
 
-July Super Sale!
-----------------
+### The Shaved Ice Festival is coming to an end!
 
-50% off BC tokens, 1000-stall barns, and 60 and 100-acre pastures
+Saturday is your very last shot at RGS ice sales and the final ice herd helper.
 
-7/10/2024 3:06 AM EST
+8/24/2024 11:00 PM EST
 
-\*\*GE feedback is due July 15th\*\*
-------------------------------------
+### Don't forget to post your ice horses on the forum for a chance to win free 5% boost tokens
 
-  
+8/23/2024 12:35 AM EST
 
-Massive Sale now in the GMT lab!
---------------------------------
-
-7/1/2024 9:30 AM EST
-
-[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Sabino 2**  
-![](https://www.huntandjump.com/images/grsExamples/sb2.png)  
-**White 8**  
-![](https://www.huntandjump.com/images/grsExamples/w8.png)  
-**Axiom Blue**  
-![](https://www.huntandjump.com/images/grsExamples/axB.png)  
-**Rainbow Riot Paintbrush Warm**  
-![](https://www.huntandjump.com/images/grsExamples/pbw.png)  
-**Phantom Jellyfish**  
-![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
-**Appaloosa Spot Regulator 1**  
-![](https://www.huntandjump.com/images/grsExamples/asr1.png)
+Don't forget the rare Lapis Lazuli herd helper coming out tomorrow! Plus this month is your only chance to purchase Ice genes in the RGS sale until December.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
