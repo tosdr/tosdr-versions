@@ -44,9 +44,8 @@ Main navigation
     * [Donations](https://noyb.eu/en/donations-other-support-options "Donate!")
     * [Sponsorship](https://noyb.eu/en/sponsorships-partnerships "Become a noyb sponsor")
     * [Member Login](https://support.noyb.eu/login)
-* About us
-    * [Concept](https://noyb.eu/en/our-detailed-concept "Concept")
-    * [Team](https://noyb.eu/en/our-team-members-and-partners)
+* [About us](https://noyb.eu/en/about-us "noyb topics")
+    * [Team](https://noyb.eu/en/our-team-members-and-partners-0)
     * [Annual Reports](https://noyb.eu/en/annual-reports "our Annual Reports")
     * [FAQs](https://noyb.eu/en/faqs)
     * [Jobs](https://noyb.eu/en/jobs)
@@ -203,9 +202,8 @@ Main navigation
     * [Donations](https://noyb.eu/en/donations-other-support-options "Donate!")
     * [Sponsorship](https://noyb.eu/en/sponsorships-partnerships "Become a noyb sponsor")
     * [Member Login](https://support.noyb.eu/login)
-* About us
-    * [Concept](https://noyb.eu/en/our-detailed-concept "Concept")
-    * [Team](https://noyb.eu/en/our-team-members-and-partners)
+* [About us](https://noyb.eu/en/about-us "noyb topics")
+    * [Team](https://noyb.eu/en/our-team-members-and-partners-0)
     * [Annual Reports](https://noyb.eu/en/annual-reports "our Annual Reports")
     * [FAQs](https://noyb.eu/en/faqs)
     * [Jobs](https://noyb.eu/en/jobs)
