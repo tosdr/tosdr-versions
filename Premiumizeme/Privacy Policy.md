@@ -13,7 +13,7 @@
 
 Our Terms of Service and Privacy Policy are available in English only. We ask for your understanding.
 
-Last updated March 17, 2024
+Last updated August 14, 2024
 
 By using the Premiumize.me website and Premiumize.me service you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 
@@ -67,7 +67,7 @@ You may not misuse the Service. You may use the Service only as permitted by law
 
 By using the Site, you are responsible for maintaining the confidentiality of your account, login credentials (including, but not limited to, passwords and API Key), and restricting access to your computer and mobile devices, and agree to accept responsibility for all activities that occur under your account or password to the extent permitted by applicable law. You should take all necessary steps to ensure that the password and API Key is kept confidential and secure, and you should notify us immediately if you have reason to believe that your password or API Key has become known to another person or if the password or API Key is or may be used in an unauthorized manner. You are responsible for ensuring that the information you provide to us is accurate and complete, and for notifying us of any changes to the information you provide.
 
-An e-mail address is required for registration on the Website. When registering via external services such as Google or Facebook, the e-mail address stored there is used for registration. The use of so-called "trash mails", "disposable mails" or "fake mails" is not permitted. This includes all providers of e-mail services that do not permanently and exclusively assign an e-mail address and the associated mailbox to a single person.
+An e-mail address is required for registration on the Website. When registering via external services such as Google, the e-mail address stored there is used for registration. The use of so-called "trash mails", "disposable mails" or "fake mails" is not permitted. This includes all providers of e-mail services that do not permanently and exclusively assign an e-mail address and the associated mailbox to a single person.
 
 Premiumize.me reserves the right to exclude certain e-mail providers or their domains. Accordingly, registration with such an e-mail address is not possible. Existing registered users are not affected by this.
 
@@ -166,6 +166,10 @@ If you use an application from Premiumize.me (e.g. Premiumize.me app, Premiumize
 7. use the application to create a product, service or software that directly or indirectly competes with or in any way replaces the application
 8. use the Application to send automated queries to a website or to send unsolicited commercial e-mails
 9. use proprietary information or any of our interfaces or other intellectual property in the design, development, manufacture, licensing or distribution of any application, accessories or devices for use with the application
+
+#### Supported Applications
+
+The use of the Premiumize.me service is officially supported only with applications developed, provided or expressly recommended by Premiumize.me. Premiumize.me provides an overview of the officially supported applications on the Premiumize.me website. The use of applications provided by third parties and not approved by Premiumize.me is at your own risk. Premiumize.me cannot guarantee that such third-party applications will function properly or interact seamlessly with the Service. Premiumize.me cannot provide customer support for such applications. Premiumize.me is not responsible for any problems, damages or loss of functionality caused by the use of unsupported or unofficial applications.
 
 ### Third-Party Websites and Content
 
