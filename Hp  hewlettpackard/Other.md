@@ -16,7 +16,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 [Sign in](https://global-navbar-backend.id.hp.com/api/v1/session/login?final_redirect_url= "Sign in")
 
-[](https://account.hp.com/)
+[](https://account.hp.com/ " ")
 
 [Manage my HP Account Manage my HP Account](https://account.hp.com/ "Manage my HP Account")[Sign out Sign out](https://global-navbar-backend.id.hp.com/api/v1/session/logout?final_redirect_url=)
 
@@ -58,15 +58,13 @@ Explore
 
 [* Desktops](https://www.hp.com/us-en/desktops-and-all-in-ones.html "Desktops")
 
+[* Business Computers](https://www.hp.com/us-en/business-computers.html "Business Computers")
+
 [* Gaming](https://www.hp.com/us-en/gaming.html "Gaming")
 
 [* Monitors](https://www.hp.com/us-en/monitors-accessories/computer-monitors.html "Monitors")
 
 [* Accessories](https://www.hp.com/us-en/monitors-accessories/computer-accessories.html "Accessories")
-
-[* Business Laptops](https://www.hp.com/us-en/laptops/business-laptops-and-2-in-1s.html "Business Laptops")
-
-[* Business Desktops](https://www.hp.com/us-en/desktops/business-desktops.html "Business Desktops")
 
 [* Workstations](https://www.hp.com/us-en/workstations/workstation-pcs.html "Workstations")
 
@@ -138,7 +136,7 @@ Shop
 
 [* Desktops](https://www.hp.com/us-en/shop/cat/desktops "Desktops")
 
-[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming "Gaming PCs")
+[* Gaming](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1 "Gaming")
 
 [* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop "Business laptops")
 
@@ -218,6 +216,8 @@ Support
 
 [* Instant Ink](https://www.hp.com/support/instantink "Instant Ink")
 
+[* HP All-In Plan](https://support.hp.com/us-en/service/all-in-plan/2101795773 "HP All-In Plan")
+
 [* Poly Collaboration Devices](https://support.hp.com/us-en/poly "Poly Collaboration Devices")
 
 [* HP Anyware](https://anyware.hp.com/ "HP Anyware")
@@ -279,7 +279,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 [Sign in](https://global-navbar-backend.id.hp.com/api/v1/session/login?final_redirect_url= "Sign in")
 
-[](https://account.hp.com/)
+[](https://account.hp.com/ " ")
 
 [Manage my HP Account Manage my HP Account](https://account.hp.com/ "Manage my HP Account")[Sign out Sign out](https://global-navbar-backend.id.hp.com/api/v1/session/logout?final_redirect_url= " Sign out")
 
@@ -289,7 +289,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * PCs
 
-[* Next Gen AI PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html)[* Laptops](https://www.hp.com/us-en/laptops-and-2-in-1s.html)[* Desktops](https://www.hp.com/us-en/desktops-and-all-in-ones.html)[* Gaming](https://www.hp.com/us-en/gaming.html)[* Monitors](https://www.hp.com/us-en/monitors-accessories/computer-monitors.html)[* Accessories](https://www.hp.com/us-en/monitors-accessories/computer-accessories.html)[* Business Laptops](https://www.hp.com/us-en/laptops/business-laptops-and-2-in-1s.html)[* Business Desktops](https://www.hp.com/us-en/desktops/business-desktops.html)[* Workstations](https://www.hp.com/us-en/workstations/workstation-pcs.html)[* Retail Solutions](https://www.hp.com/us-en/solutions/pos-systems.html#All-in-OneSystems)
+[* Next Gen AI PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html)[* Laptops](https://www.hp.com/us-en/laptops-and-2-in-1s.html)[* Desktops](https://www.hp.com/us-en/desktops-and-all-in-ones.html)[* Business Computers](https://www.hp.com/us-en/business-computers.html)[* Gaming](https://www.hp.com/us-en/gaming.html)[* Monitors](https://www.hp.com/us-en/monitors-accessories/computer-monitors.html)[* Accessories](https://www.hp.com/us-en/monitors-accessories/computer-accessories.html)[* Workstations](https://www.hp.com/us-en/workstations/workstation-pcs.html)[* Retail Solutions](https://www.hp.com/us-en/solutions/pos-systems.html#All-in-OneSystems)
 
 * Print
 
@@ -305,7 +305,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop PCs
 
-[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
+[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming](https://www.hp.com/us-en/shop/cat/gaming-3074457345617980168--1)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
 
 * Shop Print
 
@@ -321,7 +321,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Support by product
 
-[* Printing](https://support.hp.com/us-en/printer)[* Computing](https://support.hp.com/us-en/computer)[* Instant Ink](https://www.hp.com/support/instantink)[* Poly Collaboration Devices](https://support.hp.com/us-en/poly)[* HP Anyware](https://anyware.hp.com/)[* Other Products](https://support.hp.com/us-en/products)
+[* Printing](https://support.hp.com/us-en/printer)[* Computing](https://support.hp.com/us-en/computer)[* Instant Ink](https://www.hp.com/support/instantink)[* HP All-In Plan](https://support.hp.com/us-en/service/all-in-plan/2101795773)[* Poly Collaboration Devices](https://support.hp.com/us-en/poly)[* HP Anyware](https://anyware.hp.com/)[* Other Products](https://support.hp.com/us-en/products)
 
 * Support resources
 
@@ -392,7 +392,7 @@ In cooperation with the U.S. Consumer Product Safety Commission and other safety
 
 [Related links](javascript:void(0))
 
-[How to Connect a Printer to Your...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [How to Download and Install the...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [HP Instant Ink FAQs – Find Answers to Your Instant Ink Questions](https://www.hp.com/us-en/printers/instant-ink/faq.html) [HP Large-format Printers and Plotters – HP Click Printing Software](https://www.hp.com/us-en/printers/large-format/click.html) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [HP SitePrint - Robotic Layout Solution](https://www.hp.com/us-en/printers/site-print/layout-robot.html) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
+[How to Connect Printer to...](https://www.hp.com/us-en/shop/tech-takes/how-to-connect-printer-to-computer) [10 Best Free Photo Printing...](https://www.hp.com/us-en/shop/tech-takes/best-free-photo-printing-software) [HP Printer Software Download: How...](https://www.hp.com/us-en/shop/tech-takes/how-to-download-and-install-latest-hp-printer-software) [HP LaserJet Pro M404dn](https://www.hp.com/us-en/shop/pdp/hp-laserjet-pro-m404dn) [How to Print from Google Android...](https://www.hp.com/us-en/shop/tech-takes/how-to-print-from-google-android-phone) [HP Wolf Security - Endpoint Security Solutions](https://www.hp.com/us-en/security/endpoint-security-solutions.html) [HP Amplify Partner Program](https://www.hp.com/us-en/solutions/hp-amplify-partner-program.html) [Is Instant Ink Worth It? Top...](https://www.hp.com/us-en/shop/tech-takes/is-instant-ink-worth-it) [What is HP+](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-plus-benefits) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
 
 Select Your Country/Region and Language
 ---------------------------------------
@@ -451,7 +451,6 @@ Select Your Country/Region and Language
 * [Danmark](https://www.hp.com/dk-da/home.html "Danmark")
 * [Deutschland](https://www.hp.com/de-de/home.html "Deutschland")
 * [Eesti](https://www.hp.com/ee-et/home.html "Eesti")
-* [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
@@ -462,6 +461,7 @@ Select Your Country/Region and Language
 * [Magyarország](https://www.hp.com/hu-hu/home.html "Magyarország")
 * [Middle East](https://www.hp.com/emea_middle_east-en/home.html "Middle East")
 * [Nederland](https://www.hp.com/nl-nl/home.html "Nederland")
+* [Nigeria](https://www.hp.com/ng-en/home.html "Nigeria")
 * [Norge](https://www.hp.com/no-no/home.html "Norge")
 * [Österreich](https://www.hp.com/at-de/home.html "Österreich")
 * [Polska](https://www.hp.com/pl-pl/home.html "Polska")
@@ -520,7 +520,6 @@ Click or use the tab key to select your country
 * [Deutschland](https://www.hp.com/de-de/home.html "Deutschland")
 * [Ecuador](https://www.hp.com/ec-es/home.html "Ecuador")
 * [Eesti](https://www.hp.com/ee-et/home.html "Eesti")
-* [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
 * [Hong Kong SAR](https://www.hp.com/hk-en/home.html "Hong Kong SAR")
@@ -537,6 +536,7 @@ Click or use the tab key to select your country
 * [Middle East](https://www.hp.com/emea_middle_east-en/home.html "Middle East")
 * [Nederland](https://www.hp.com/nl-nl/home.html "Nederland")
 * [New Zealand](https://www.hp.com/nz-en/home.html "New Zealand")
+* [Nigeria](https://www.hp.com/ng-en/home.html "Nigeria")
 * [Norge](https://www.hp.com/no-no/home.html "Norge")
 * [Österreich](https://www.hp.com/at-de/home.html "Österreich")
 * [Pakistan](https://www.hp.com/asia_pac-en/default.html "Pakistan")
