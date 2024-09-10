@@ -8,7 +8,7 @@ Features
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-protection/insurance)[VPN & Online Privacy](https://www.identityguard.com/vpn)
+[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
 [Antivirus](https://www.identityguard.com/antivirus)[Password Manager & Vault](https://www.identityguard.com/password-manager)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
@@ -254,6 +254,9 @@ We may disclose your information in the following circumstances:
 -----------------------------------
 
 For more information on Tracking Technologies and Cookies and how we use Tracking Technologies and Cookies please see our [Cookie Policy](https://www.aura.com/legal/cookie-policy).
+
+* Visit our Privacy Preference Center here - In this Privacy Preference Center, you can disable non-essential cookies, some of which support exchanges of information that may be considered ‘sales’ or ‘sharing’.
+* If you adjust your cookie preferences using our Privacy Preference tool, your preferences will apply only on this website. To opt out of ‘sales’ or ‘sharing’ associated with information collected on other Aura sites, you will need to use the tools available on those sites.
 
 5\. Security
 ------------
