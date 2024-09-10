@@ -70,7 +70,7 @@ These Terms of Use were last modified on April 2, 2024.
 
 [Brian Richard Hart](https://www.cala.live/brian-hart)
 
-[![](https://www.basistech.com/wp-content/uploads/2024/02/BasisTech-text-white-bamboo-white.png)](https://www.basistech.com/)
+[![BasisTech logo](https://www.basistech.com/wp-content/uploads/2024/02/BasisTech-text-white-bamboo-white.png)](https://www.basistech.com/)
 
 * [Twitter](https://twitter.com/basistechnology)
 * [LinkedIn](https://www.linkedin.com/company/basis-technology/)
