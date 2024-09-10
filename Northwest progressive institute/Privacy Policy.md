@@ -32,6 +32,7 @@ Menu
     * [In Brief](https://www.nwprogressive.org/microblog/)
     * [PNWcurrents](https://www.nwprogressive.org/podcast/)
 * [Donate](https://www.nwprogressive.org/donate/)
+* [Picnic RSVP](https://www.nwprogressive.org/picnic/)
 
 Privacy Practices
 =================
@@ -138,7 +139,7 @@ _NPI’s privacy practices were last updated on January 13th, 2024._
 Get updates from NPI
 --------------------
 
-                  
+               
 
 We'd love to stay in direct contact with you! Complete this form if you'd like to receive updates from us by email and/or text.
 
@@ -168,12 +169,12 @@ Zip Code:\*
 
 Δ
 
-Our Projects
-------------
+Our Publications
+----------------
 
 * [Cascadia Advocate:](https://www.nwprogressive.org/weblog/ "NPI’s long-form blog presents the organization’s perspective on local, regional, national, and international politics") NPI’s long-form blog presents the organization’s perspective on local, regional, national, and international politics
+* [Chinook Beacon:](https://www.chinookbeacon.com/ "NPI’s subscriber-only newsletter, providing deep insights into the electoral and legislative landscapes of the Pacific Northwest, including polling we don’t publish elsewhere") NPI’s subscriber-only newsletter, providing deep insights into the electoral and legislative landscapes of the Pacific Northwest, including polling we don’t publish elsewhere
 * [In Brief:](https://www.nwprogressive.org/microblog/ "NPI’s microblog is a frequently updated collection of original photos plus asides, links, quotes, and clips worth perusing") NPI’s microblog is a frequently updated collection of original photos plus asides, links, quotes, and clips worth perusing
-* [Pacific NW Portal:](https://pacific.nwportal.info/ "NPI’s regional media and information gateway aggregates stories from hundreds of reputable progressive blogs and news outlets publishing real journalism") NPI’s regional media and information gateway aggregates stories from hundreds of reputable progressive blogs and news outlets publishing real journalism
 * [Permanent Defense:](https://www.permanentdefense.org/ "NPI’s oldest project protects Washington by building a first line of defense against threats to its common wealth and Constitution — like Tim Eyman’s destructive initiatives") NPI’s oldest project protects Washington by building a first line of defense against threats to its common wealth and Constitution — like Tim Eyman’s destructive initiatives
 * [PNWcurrents:](https://www.nwprogressive.org/podcast/ "NPI’s podcast provides a forum for perceptive discourse, bringing panelists together to discuss taking statecraft beyond state lines. ") NPI’s podcast provides a forum for perceptive discourse, bringing panelists together to discuss taking statecraft beyond state lines.
 
