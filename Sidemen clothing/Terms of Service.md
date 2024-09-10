@@ -1,51 +1,53 @@
 [Skip to content](#main)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
 
 Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 
 * [NEW](https://www.sidemenclothing.com/collections/new)
 * COLLECTIONS
     
+    * [Studios ®](https://www.sidemenclothing.com/collections/studios)
     * [Y2K](https://www.sidemenclothing.com/collections/y2k)
+    * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
     * [Vintage Graphics](https://www.sidemenclothing.com/collections/vintage-graphics)
     * [SDMN x Hot Wheels](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
     * [SDMN™](https://www.sidemenclothing.com/collections/sdmn-tm)
@@ -72,11 +74,12 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 * ACCESSORIES
     
     * [All](https://www.sidemenclothing.com/collections/accessories)
+    * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
     * [Sports](https://www.sidemenclothing.com/collections/sports)
     * [Headwear](https://www.sidemenclothing.com/collections/headwear/Headwear)
     * [Underwear](https://www.sidemenclothing.com/collections/underwear)
     * [Footwear](https://www.sidemenclothing.com/collections/footwear)
-    * [Backpacks/Bags](https://www.sidemenclothing.com/collections/backpacks-bags/Bags)
+    * [Backpacks/Bags](https://www.sidemenclothing.com/collections/backpacks-bags)
     * [Cushions/Blankets](https://www.sidemenclothing.com/collections/blankets)
     * [Cups/Mugs](https://www.sidemenclothing.com/collections/mugs)
     * [Birthday Cards](https://www.sidemenclothing.com/collections/birthday-cards)
@@ -86,13 +89,13 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
     
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 [Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
 
-[ABOUT](https://www.sidemenclothing.com/pages/about-us) [STORE](https://www.sidemenclothing.com/pages/store) [SUPPORT](https://www.sidemenclothing.com/pages/faqs)
+[ABOUT](https://www.sidemenclothing.com/pages/about-us) [SUPPORT](https://www.sidemenclothing.com/pages/faqs)
 
-GBP £
+USD $
 
 Country
 
@@ -107,9 +110,9 @@ Country
 * CLOTHING
 * ACCESSORIES
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
-GBP £
+USD $
 
 Country
 
@@ -118,7 +121,9 @@ Country
 [Account](https://www.sidemenclothing.com/account)
 
 * COLLECTIONS
+* [Studios ®](https://www.sidemenclothing.com/collections/studios)
 * [Y2K](https://www.sidemenclothing.com/collections/y2k)
+* [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
 * [Vintage Graphics](https://www.sidemenclothing.com/collections/vintage-graphics)
 * [SDMN x Hot Wheels](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
 * [SDMN™](https://www.sidemenclothing.com/collections/sdmn-tm)
@@ -143,11 +148,12 @@ Country
 
 * ACCESSORIES
 * [All](https://www.sidemenclothing.com/collections/accessories)
+* [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
 * [Sports](https://www.sidemenclothing.com/collections/sports)
 * [Headwear](https://www.sidemenclothing.com/collections/headwear/Headwear)
 * [Underwear](https://www.sidemenclothing.com/collections/underwear)
 * [Footwear](https://www.sidemenclothing.com/collections/footwear)
-* [Backpacks/Bags](https://www.sidemenclothing.com/collections/backpacks-bags/Bags)
+* [Backpacks/Bags](https://www.sidemenclothing.com/collections/backpacks-bags)
 * [Cushions/Blankets](https://www.sidemenclothing.com/collections/blankets)
 * [Cups/Mugs](https://www.sidemenclothing.com/collections/mugs)
 * [Birthday Cards](https://www.sidemenclothing.com/collections/birthday-cards)
@@ -171,7 +177,7 @@ NAVIGATION BAR
 * [CLOTHING](https://www.sidemenclothing.com/collections/clothing)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 Terms & Conditions
 ==================
@@ -441,17 +447,20 @@ SITEMAP
 * [CLOTHING](https://www.sidemenclothing.com/collections/newest)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 SUPPORT
 
 * [RETURNS](https://www.sidemenclothing.com/pages/returns)
 * [FAQS](https://uk.sidemenclothing.com/pages/faqs)
 * [ABOUT US](https://www.sidemenclothing.com/pages/about-us)
-* [STORE](https://www.sidemenclothing.com/pages/store)
 * [WORK WITH US](https://www.sidemenclothing.com/pages/job-applications)
 * [REPORT A FAKE](https://www.sidemenclothing.com/pages/report-a-fake)
 * [CONTACT US](https://uk.sidemenclothing.com/pages/faqs-contact-us)
+
+DOWNLOAD APP
+
+* [IOS](https://apps.apple.com/us/app/sidemen-clothing/id6479241514)
+* [ANDROID](https://play.google.com/store/apps/details?id=com.vennapps.sidemen)
 
 BE THE FIRST TO KNOW
 
@@ -466,7 +475,7 @@ Sign up to our newsletter for 10% off your next order!
 * [](https://www.tiktok.com/@sidemenclothing)
 * [](https://open.spotify.com/artist/2Thx0Avafp3zxOHBdFirqk)
 
-United Kingdom (GBP £)
+United States (USD $)
 
 Country
 
