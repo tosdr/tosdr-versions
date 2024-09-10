@@ -518,7 +518,7 @@ In today’s fast-paced digital landscape, businesses are constantly seeking inn
         
     * [Become an Expert Builder![Become an Expert Builder](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![Become an Expert Builder](https://www.knack.com/wp-content/uploads/2023/11/Cert-Icon.svg)](https://www.knack.com/partner/)
+        ![Become an Expert Builder](https://www.knack.com/wp-content/uploads/2023/11/Cert-Icon.svg)](https://www.knack.com/become-an-expert-builder/)
         
         Get hired to build and expand apps.
         
@@ -540,10 +540,6 @@ Expedite your app build with a pre-built template.
 [Inventory Management Template](https://www.knack.com/templates/inventory-manager/)
 
 Track current inventory by managing shipments and orders.
-
-[Customer Portal Template](https://www.knack.com/templates/customer-portal/)
-
-Retain customers by offering a self-serve portal.
 
 * [Terms of Service](https://www.knack.com/terms-of-service/)
 * [Privacy Statement](https://www.knack.com/privacy/)
