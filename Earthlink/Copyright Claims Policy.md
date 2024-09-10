@@ -1,13 +1,11 @@
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2799%27%20height=%27109%27/%3e)![EarthLink logo](/images/elnk-logo.svg)
+[![EarthLink logo](/images/elnk-logo.svg)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%2752%27/%3e)![EarthLink logo](/images/elnk-logo-type.svg)](https://www.earthlink.net/)
+![EarthLink logo](/images/elnk-logo-type.svg)](https://www.earthlink.net/)
 
 * [Home](https://www.earthlink.net/tcs/dmca-policy/#)
 * [Business Internet](https://business.earthlink.net/business-internet/)
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![agent image](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![agent image](/_next/image/?url=%2Fimages%2Favailable-agent.png&w=48&q=75)
+[![agent image](/images/available-agent.png)
 
 866-618-0264Agents Available](tel:8666180264 "Call 866-618-0264")
 
@@ -16,7 +14,7 @@
 * My Account
     * [Make a Payment](https://pay.earthlink.net/)
     * [My Earthlink](https://my.earthlink.net/)
-    * [My Account](https://myaccount.earthlink.net/)
+    * [My Account](https://portal.earthlink.net/login/)
     * [Support](https://help.earthlink.net/)
     * [Chat with Us](https://www.earthlink.net/about-us/contact/#chat-now)
     * [Text With Us](https://www.earthlink.net/about-us/contact/?open-sms-chat=true)
@@ -123,7 +121,7 @@ Help
 
 Account
 
-* [My Account](https://myaccount.earthlink.net/)
+* [My Account](https://portal.earthlink.net/login/)
 * [WebMail](https://webmail1.earthlink.net/login)
 * [My EarthLink](https://my.earthlink.net/?_ga=2.162350972.1106406379.1653451767-495612541.1653451767)
 
@@ -136,8 +134,6 @@ Account
 
 © 2024 EarthLink, LLC · All rights reserved
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2741%27/%3e)![Earthlink](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Earthlink")
-
-![Earthlink](/_next/image/?url=%2Fimages%2Ffooter.webp&w=256&q=75 "Earthlink")
+![Earthlink](/images/footer.webp "Earthlink")
 
 [Privacy Policy](https://www.earthlink.net/tcs/privacy-policy/)·[Interest-Based Ads](https://www.earthlink.net/tcs/interest-based-ads/)
