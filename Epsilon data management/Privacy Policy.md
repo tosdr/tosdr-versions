@@ -112,9 +112,14 @@ Please visit Epsilon's Privacy Policy for more information about how we collect 
 
 * [APAC Privacy Policy](https://legal.epsilon.com/apac/privacy-policy)
 
-### LatAm
+### Latin America
 
 * [LatAm Privacy Policy for Services](https://legal.epsilon.com/latam/privacy-policy-services)
+* [LatAm Privacy Policy for Services (PT)](https://legal.epsilon.com/latam/privacy-policy-services-pt)
+* [LatAm Privacy Policy for Services (ES)](https://legal.epsilon.com/latam/privacy-policy-services-es)
+  
+* [Privacy Notice for Epsilon.Com](https://legal.epsilon.com/latam/latam-website-privacy-notice)
+* [Privacy Notice for Epsilon.Com (PT)](https://legal.epsilon.com/latam/latam-website-privacy-notice-pt)
 
 [](https://twitter.com/epsilonmktg)[](https://www.linkedin.com/company/epsilon)[](https://www.facebook.com/EpsilonMarketing)
 
