@@ -83,7 +83,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [April 15, 2021](https://blog.karlrock.com/how-to-report-cybercrime-in-india-english-hindi/)
-* [6 Comments on How to Report Cybercrime in India (English & हिंदी)](https://blog.karlrock.com/how-to-report-cybercrime-in-india-english-hindi/#comments)
+* [5 Comments on How to Report Cybercrime in India (English & हिंदी)](https://blog.karlrock.com/how-to-report-cybercrime-in-india-english-hindi/#comments)
 * Sticky post
 
 ![How to report hackers and cybercrime in India Guide](https://blog.karlrock.com/wp-content/uploads/2021/04/Reporting-Hackers-in-India.jpg)
@@ -130,7 +130,7 @@ Categories
 
 Can Indians Visit Pakistan? How to Get a Visa for Pakistan?
 
-Because I’ve been to Pakistan three times from India and vlogged the entire trip, a common question I get from Indians is, “How can I visit Pakistan?” Many Indians are interested in visiting what used to be part of India. And likewise, Pakistanis are inquisitive about going to India – when I was there many \[…\]
+Because I’ve been to Pakistan three times from India and vlogged the entire trip, a common question I get from Indians is, “How can I visit Pakistan?” Many Indians are interested in visiting what used to be part of India. Likewise, Pakistanis are inquisitive about going to India – when I was there many asked \[…\]
 
 * Tags [India](https://blog.karlrock.com/tag/india/), [Pakistan](https://blog.karlrock.com/tag/pakistan/), [Tourist VISA](https://blog.karlrock.com/tag/tourist-visa/), [Travel](https://blog.karlrock.com/tag/travel/)
 
@@ -309,7 +309,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [January 11, 2024](https://blog.karlrock.com/how-to-deal-with-false-copyright-claims-on-facebook/)
-* [No Comments on How to Deal with False Copyright Claims on Facebook](https://blog.karlrock.com/how-to-deal-with-false-copyright-claims-on-facebook/#respond)
+* [2 Comments on How to Deal with False Copyright Claims on Facebook](https://blog.karlrock.com/how-to-deal-with-false-copyright-claims-on-facebook/#comments)
 
 ![](https://blog.karlrock.com/wp-content/uploads/2024/01/Facebook-copyright.webp)
 
@@ -328,7 +328,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [November 21, 2023](https://blog.karlrock.com/how-to-get-off-indias-blacklist/)
-* [6 Comments on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
+* [7 Comments on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
 
 ![Karl Rock's announcement on why he's been blacklisted by the Government of India](https://blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist-1200x675.jpg)
 
@@ -347,7 +347,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [August 23, 2023](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/)
-* [3 Comments on How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/#comments)
+* [4 Comments on How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/#comments)
 
 ![Karl Rock and Honda Cb150 in Pakistan](https://blog.karlrock.com/wp-content/uploads/2023/08/img_9157-1200x1200.jpg)
 
@@ -366,7 +366,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [August 22, 2023](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/)
-* [7 Comments on Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/#comments)
+* [10 Comments on Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/#comments)
 
 ![Karl Rock and his Royal Enfield Himalayan outside the Golden Temple in Amritsar, India.](https://blog.karlrock.com/wp-content/uploads/2023/08/img_9105-1200x900.jpg)
 
@@ -418,9 +418,9 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
-    [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
