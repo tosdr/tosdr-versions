@@ -14,6 +14,8 @@
 2. [Privacy Statement](https://privacy.collegeboard.org/privacy-statement)
 3. Active Page: Notice of Your California Privacy Rights
 
+[Back](#)
+
 Notice of Your California Privacy Rights
 ========================================
 
