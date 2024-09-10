@@ -90,6 +90,9 @@ Manage Cookie Preferences Accept All Cookies
 * [MoPesa](https://www.mtn.co.ug/momo/mopesa/)
 * [Smart Family](https://www.mtn.co.ug/terms-and-conditions/smart-family/)
 * [The Terms & Conditions for the MTN Pay Mpola Mpola Product](https://www.mtn.co.ug/terms-and-conditions/mtn-pay-mpola-mpola-product/)
+* [Keep My Number](https://www.mtn.co.ug/terms-and-conditions/keep-my-number/)
+* [WakaNet Fiber](https://www.mtn.co.ug/terms-and-conditions/wakanet-fiber/)
+* [Tourist SIM Offers](https://www.mtn.co.ug/terms-and-conditions/tourist-sim-offers/)
 
 1\. THE AGREEMENT![1. THE AGREEMENT](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/svgs/accordion-icon.svg)
 
@@ -481,6 +484,23 @@ We are not responsible for any loss arising from any failure, malfunction, or de
         
         [+256 772 123 100](https://wa.link/d6r2ly)
         
+    
+    * #### Physical address
+        
+        Plot 69-71 Jinja Road; Kampala, Uganda
+        
+    * #### Postal address
+        
+        P.O Box 24624 Kampala, Uganda
+        
+    
+* ![more sites](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/svgs/sidebar.svg)More sites![](https://www.mtn.co.ug/wp-content/themes/mtn-vivid-wp/public/img/chevron-light.svg)
+    
+    * [MTN Pulse](https://pulse.mtn.co.ug/)
+    * [MTN Group](https://www.mtn.com/)
+    * [Careers at MTN](https://mtn.co.ug/careers/)
+    * [Pulse radio](https://pulseradio.mtn.co.ug/)
+    * [MTN Sports](http://sports.mtn.co.ug/)
     
 
 * [Facebook](https://www.facebook.com/MTNUG)
