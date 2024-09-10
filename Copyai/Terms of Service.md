@@ -104,7 +104,7 @@ Learn
 
 Get Support
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Tools and Templates
 
@@ -238,7 +238,7 @@ Learn
 
 Get Support
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Tools and Templates
 
@@ -514,7 +514,7 @@ Learn
 
 Get Support
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Tools and Templates
 
@@ -648,7 +648,7 @@ Learn
 
 Get Support
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Tools and Templates
 
@@ -668,7 +668,7 @@ Platform
 
 Platform
 
-[AI Marketing OS](https://copy.ai/ai-marketing-os)[AI Sales OS](https://copy.ai/ai-sales-os)[Chat](https://copy.ai/chat)[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Workflow Templates](https://copy.ai/workflow-templates)[AI Prompt Library](https://copy.ai/ai-prompt-library)[AI Tools](https://copy.ai/tools)[Copy.ai API](https://docs.copy.ai/docs)
+[AI Marketing OS](https://copy.ai/ai-marketing-os)[AI Sales OS](https://copy.ai/ai-sales-os)[Chat](https://copy.ai/chat)[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Workflow Templates](https://copy.ai/workflow-templates)[AI Tools](https://copy.ai/tools)[Copy.ai API](https://docs.copy.ai/docs)
 
 Marketing OS
 
