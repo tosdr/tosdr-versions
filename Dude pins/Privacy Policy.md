@@ -131,6 +131,4 @@ Email: **[\[email protected\]](https://dudepins.com/cdn-cgi/l/email-protection)
 
 © 2024 Dudepins.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, Amazon.co.uk & Amazon.ca. Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.
 
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
-
 [Terms and Conditions](https://dudepins.com/wpautoterms/terms-and-conditions/) - [Privacy Policy](https://dudepins.com/wpautoterms/privacy-policy/)
