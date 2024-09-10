@@ -773,7 +773,7 @@ Unlock your PC's gaming potential. And yours too.
     
     [YouTube
     
-    128K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
+    130K](https://www.youtube.com/channel/UC9eB0Ysv4UcKgjEy47zcZ5A?sub_confirmation=1)
     
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
