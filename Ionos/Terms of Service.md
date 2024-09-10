@@ -19,7 +19,6 @@
 * [Google Workspace](https://www.ionos.com/terms-gtc/google-workspace/)
 * [IONOS Partner Program](https://www.ionos.com/terms-gtc/partner-program/)
 * [Logo Generator](https://www.ionos.com/terms-gtc/logo-generator/)
-* [Abmahnschutz](https://www.ionos.com/terms-gtc/abmahnschutz/)
 
 General Terms and Conditions
 ============================
@@ -273,7 +272,7 @@ YOUR SOLE AND EXCLUSIVE REMEDY HEREUNDER SHALL BE FOR YOU TO DISCONTINUE YOUR US
 
 ### 8\. YOUR ADDITIONAL OBLIGATIONS AND WARRANTIES.
 
-**8.1.** You agree and warrant that the eContact Information you have provided to IONOS is complete and accurate, and you further agree to notify IONOS within fifteen days of a change to any such eContact Information. Contact information includes any name , email address and telephone number; (including any wireless, mobile or VOIP number) associated with your account, including but not limited to the technical and administrative contacts for your domain, if any. You authorize IONOS and its employees and agents to contact you at any time using the Contact Information, and you expressly consent to receive autodialed or prerecorded calls, texts messages and electronic correspondence from IONOS or any affiliates or agents performing services on our behalf. Such communications include but are not limited to communications:
+**8.1.** You agree and warrant that the Contact Information you have provided to IONOS is complete and accurate, and you further agree to notify IONOS within fifteen days of a change to any such Contact Information. Contact information includes any name, email address and telephone number (including any wireless, mobile or VOIP number) associated with your account, including but not limited to the technical and administrative contacts for your domain, if any. You authorize IONOS and its employees and agents to contact you at any time using the Contact Information, and you expressly consent to receive autodialed or prerecorded calls, texts messages and electronic correspondence from IONOS or any affiliates or agents performing services on our behalf. Such communications include but are not limited to communications:
 
 (i) to notify you about the Services or any related accounts, domain names, or other products at IONOS;
 
@@ -324,13 +323,13 @@ IONOS shall not be liable for any claim of unfair competition, violation of pub
 
 **8.19.**   You agree to comply with all Laws rules regarding online conduct and acceptable Content.
 
-**8.20.**   You represent and warrant that you are not a national or resident of Burma/Myanmar, Cuba, Iran, Iraq, Libya, North Korea, Serbia, Sudan, and Syria or any other country subject to U.S. Treasury Department embargo restrictions, and that you are not listed in the "Entity List" or "Denied Persons List" maintained by the US Department of Commerce or the list of "Specially Designated Nationals and Blocked Persons" maintained by the US Department of Treasury. You further acknowledge that you are not a national or resident of a country whose name is otherwise omitted from the registration form for IONOS Inc. Srvices. Residents of countries which are serviced by a IONOS affiliate are required to contract with those IONOS affiliates, and you represent and warrant that you are not a resident of one of those countries.
+**8.20.**   You represent and warrant that you are not a national or resident of Burma/Myanmar, Cuba, Iran, Iraq, Libya, North Korea, Serbia, Sudan, and Syria or any other country subject to U.S. Treasury Department embargo restrictions, and that you are not listed in the "Entity List" or "Denied Persons List" maintained by the US Department of Commerce or the list of "Specially Designated Nationals and Blocked Persons" maintained by the US Department of Treasury. You further acknowledge that you are not a national or resident of a country whose name is otherwise omitted from the registration form for IONOS Inc. Services. Residents of countries which are serviced by a IONOS affiliate are required to contract with those IONOS affiliates, and you represent and warrant that you are not a resident of one of those countries.
 
 **8.21.**   You understand that your website may be hosted and accessed in the United States and in other countries around the world, and you agree to abide by any applicable Laws , including but not limited to to export control laws, and not to transfer or permit the transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a destination prohibited under such laws, without first obtaining, and then complying with, any requisite government authorization; you agree that IONOS may remove content, restrict access, or shut down your website if, in IONOS’s discretion, your website or any of its content is not in compliance with applicable law. You further agree not to upload to your IONOS account any data or software that cannot be exported without prior written government authorization, including, but not limited to, certain types of encryption software.
 
 **8.22.**   You agree not to use your e-mail account for the storage of files other than in the course of normal e-mail usage.
 
-**8.23.**   You shall not operate a chat room using the ###COMPANY\_NAME\_FULL## Services unless expressly permitted by the terms and conditions of Your Services.
+**8.23.**   You shall not operate a chat room using the IONOS Inc. Services unless expressly permitted by the terms and conditions of Your Services.
 
 ### 9\. CONFIDENTIALITY, TRADEMARK, AND COPYRIGHT
 
