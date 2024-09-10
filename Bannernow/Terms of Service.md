@@ -106,15 +106,30 @@ IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS AND/OR THE [PRIVACY POLICY](ht
 
 **6.3** Upon occurrence of a Force Majeure Event, the Nonperforming Party shall promptly notify the other party of occurrence of that Force Majeure Event, its effect on performance, and how long that party expects it to last. Thereafter, the Nonperforming Party shall update that information as reasonably necessary. During a Force Majeure Event, the Nonperforming Party shall use reasonable efforts to limit damages to the Performing Party and to resume its performance under this agreement.
 
-7.Applicable law and jurisdiction
+7.Enterprise Subscription Agreement Term and Termination
+--------------------------------------------------------
+
+**7.1** The Enterprise Subscription Agreement is effective as of the earlier of the date of last signature of the Parties on the initial Order Form ("Effective Date").
+
+**7.2** "Initial Term" means the initial term of an Enterprise Subscription to Service(s) as specified in the initial Order Form, beginning on the Service Date.
+
+**7.3** Enterprise Subscription Agreement Term; Expiration. The Enterprise Subscription Agreement will enter into effect on the Effective Date and continue until it is terminated or expires in accordance with this Section 7 ("Enterprise Subscription Agreement Term"). Unless earlier terminated, this Enterprise Subscription Agreement expires one year after the end of the last Enterprise Subscription governed by this Agreement.
+
+**7.4** Enterprise Subscription Term; Renewal. Unless a Party provides written notice of its intent not to renew an Enterprise Subscription Agreement at least two (2) months prior to the expiration of the Initial Term or the then-current Enterprise Subscription Renewal Term, a Enterprise Subscription will automatically renew for a successive 12 months Term thereafter. The mutual execution of any additional Order Form with a term ending after the then-current Enterprise Subscription Term will extend the Enterprise Subscription Term and all of the Enterprise Subscription Services until the end of such additional Order Form’s term (“Order Form Term”). Each Order Form Term is measured from such Order Form’s Service Date. Enterprise Subscription Services set out in previous Order Forms will therefore be renewed in the quantities set out in such previous Order Forms and at the prices valid at the time of such renewal.
+
+**7.5** Termination. Either Party may at any time terminate a Enterprise Subscription or the Agreement, in whole or in part, upon written notice to the other Party, if: (a) the other Party has materially breached any provision of the Agreement, and such breach cannot be cured, or, if curable, such breach remains uncured thirty (30) days after receipt of notice from the non-breaching Party specifying such breach in reasonable detail; (b) the other Party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors; or (c) the other Party becomes generally unable or fails to pay its debts as they come due.
+
+**7.6** Effect of Termination. Upon expiration or termination of an Enterprise Subscription: (a) Customer’s right to use and access the Enterprise Subscription Services ends; (b) Customer will immediately pay all outstanding Fees due to Bannernow through the date of termination or expiration; and (c) each Party will upon request of the other Party promptly return or destroy all Confidential Information of the other Party. Notwithstanding the foregoing, the Receiving Party may retain any Confidential Information that cannot feasibly be returned or destroyed, and a copy of any Confidential Information required for compliance with its internal record keeping requirements or automatic archival activities, provided that Section 8 shall continue to apply to such retained Confidential Information until it is deleted or returned.
+
+8.Applicable law and jurisdiction
 ---------------------------------
 
 You further consent that this Agreement is governed by and shall be construed in accordance with the laws of the State of Delaware, U.S.A. without reference to its conflicts of laws provisions. You agree to submit to the personal and exclusive jurisdiction of the state and federal courts located in Delaware for any disputes arising out of the use of the Service. This shall also apply in case the User registers from another country. The place of jurisdiction is the location of the Company’s registered office.
 
-8.Contact Us
+9.Contact Us
 ------------
 
-Bannernow, Inc. is registered in U.S. State of Dalaware and you can contact us either using Contact form on the website or by sending us an email to [\[email protected\]](https://bannernow.com/cdn-cgi/l/email-protection)
+Bannernow, Inc. is registered in U.S. State of Delaware and you can contact us either using Contact form on the website or by sending us an email to [\[email protected\]](https://bannernow.com/cdn-cgi/l/email-protection)
 
 [![Bannernow Logo](https://storage.bannernow.com/static/bn-landings/assets/img/logo-footer.svg)](https://bannernow.com/)
 
