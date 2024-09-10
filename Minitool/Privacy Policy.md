@@ -39,6 +39,11 @@
     * [User Manual](https://moviemaker.minitool.com/help/)
     * [Video Editing Tricks](https://moviemaker.minitool.com/moviemaker/)
     
+* [Video Tools](javascript:;)
+    
+    * [Video Converter](https://videoconvert.minitool.com/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=main-menu)
+    * [Online Video Downloader](https://www.viddown.net/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=main-menu)
+    
 
 * [Download MovieMaker](https://cdn2.minitool.com/?p=mm&e=mm-free)
 
@@ -57,7 +62,7 @@ On This Page :
 
 * [1\. Data Controller and Representative](#1.-data-controller-and-representative-317)
 * [2\. Data Processing Implemented by MiniTool](#2.-data-processing-implemented-by-minitool-317)
-* [3\. User’s Rights](#3.-user’s-rights-317)
+* [3\. User’s Rights](#3.-user%26%238217%3Bs-rights-317)
 * [4\. Revision of This Privacy Policy](#4.-revision-of-this-privacy-policy-317)
 * [5\. Contacting MiniTool](#5.-contacting-minitool-317)
 
@@ -244,17 +249,48 @@ MiniTool will act on the User’s requests and provide information free of charg
 About The Author
 ----------------
 
-[![Helen](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E)
-
-![Helen](https://images.minitool.com/moviemaker.minitool.com/images/uploads/avatar/helen.png)](https://moviemaker.minitool.com/author/helen13/)
+[![Helen](https://images.minitool.com/moviemaker.minitool.com/images/uploads/avatar/helen.png)](https://moviemaker.minitool.com/author/helen13/)
 
 [Helen](https://moviemaker.minitool.com/author/helen13/) [Follow Us](https://twitter.com/Helene_Dai)
 
 Position: Columnist
 
-Helen Graduated from university in 2014 and started working as a tech editor in the same year. Her articles focus on video creation, editing, and conversion. She also has a good knowledge of disk management and data backup & recovery. Through an in-depth exploration of computer technology, Helen has successfully helped thousands of users solve their annoying problems.
+Helen enjoys the process of turning video clips and photos about herself into beautiful videos. Then, she will share the videos on Instagram, YouTube, Facebook, Twitter, etc. The most exciting thing is to see the increasing number of views of her videos. Helen is willing to share her ideas about making wonderful videos from scratch. Thus, she writes articles for MiniTool Technology.
 
-[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html) | Student Discount
+[![minitool](data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E)](https://www.minitool.com/)
+
+### Follow us
+
+* [](https://www.facebook.com/pages/MiniTool/230388176998483 "FaceBook")
+* [](https://twitter.com/minitool_ "Twitter")
+* [](https://www.linkedin.com/company/minitool-solution-ltd-?trk=biz-companies-cym "Linkedin")
+* [](https://www.youtube.com/channel/UCRGo-0E8thf9KsrNB3Mqhuw?view_as=subscriber "Youtube")
+
+### Video Tools
+
+* [Video Editor](https://moviemaker.minitool.com/)
+* [Video Converter](https://videoconvert.minitool.com/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=bottom-menu)
+* [Online Video Downloader](https://www.viddown.net/?utm_source=moviemaker.minitool.com&utm_medium=redirection&utm_campaign=bottom-menu)
+
+### Resource
+
+* [Video Editing Tips](https://moviemaker.minitool.com/moviemaker/)
+* [Video Converter Tips](https://videoconvert.minitool.com/video-converter/)
+* [Screen Record Tips](https://videoconvert.minitool.com/screen-record/)
+* [News](https://moviemaker.minitool.com/news/)
+
+### MiniTool
+
+* [About MiniTool](https://www.minitool.com/about-us.html)
+* Student Discount
+
+### Join for Exclusives
+
+Connect with us for giveaways, exclusive promotions and latest news!
+
+ 
+
+[Privacy](https://www.minitool.com/privacy.html) | [Terms & Conditions](https://moviemaker.minitool.com/terms.html)
 
 North America, Canada, Unit 170 - 422, Richards Street, Vancouver, British Columbia, V6B 2Z4
 
