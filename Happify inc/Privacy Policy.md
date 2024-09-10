@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=674079815990930&ev=PageView&noscript=1) ![](https://www.facebook.com/tr?id=1656619424571951&ev=PageView&noscript=1)
 
- [![happify logo](https://static.happify.com/static/img/wellness_landing/happify_logo_without_background.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://happify.com/)[Skip to main content](#) [Accessibility Options](https://happify.com/accessibility)
+ [![happify logo](https://static.happify.com/static/img/wellness_landing/happify_logo_without_background.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://happify.com/)[Skip to main content](#) [Accessibility Options](https://happify.com/accessibility)
 
 * [How It Works](https://happify.com/)
 * [Get Inspired](https://happify.com/public/the-upside/)
@@ -11,11 +11,11 @@
 
 Get started [Log in](https://happify.com/login)
 
-![gradient](https://static.happify.com/static/img/wellness_landing/header_gradient.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)
+![gradient](https://static.happify.com/static/img/wellness_landing/header_gradient.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)
 
 toggle menu 
 
-[![happify logo](https://static.happify.com/static/img/wellness_landing/happify_sticky_logo.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://happify.com/)
+[![happify logo](https://static.happify.com/static/img/wellness_landing/happify_sticky_logo.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://happify.com/)
 
 Get started [Log in](https://happify.com/login)
 
@@ -26,7 +26,7 @@ Get started [Log in](https://happify.com/login)
 
 Get started [Log in](https://happify.com/login)
 
-[![happify logo](https://static.happify.com/static/img/wellness_landing/happify_sticky_logo.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://happify.com/)
+[![happify logo](https://static.happify.com/static/img/wellness_landing/happify_sticky_logo.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://happify.com/)
 
 * [How It Works](https://happify.com/)
 * [Get Inspired](https://happify.com/public/the-upside/)
@@ -37,7 +37,7 @@ Get started [Log in](https://happify.com/login)
 
 * [Jobs](https://boards.greenhouse.io/happifyhealth)
 * [Legal](https://happify.com/public/legal/)
-* [Press](https://www.happifyhealth.com/newsroom)
+* [Press](https://www.twill.health/newsroom)
 * [Contact](https://happify.com/public/contact/)
 
 Legal
@@ -642,10 +642,10 @@ GDPR Commitment
     Individuals in the European Union may have a right to lodge a complaint regarding an alleged infringement of GDPR with the appropriate European Supervisory Authority, in particular in the Member State of his or her habitual residence or place of work. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
     
 
-* [![facebook](https://static.happify.com/static/img/wellness_landing/facebook.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.facebook.com/Happifybytwill)
-* [![linkedin](https://static.happify.com/static/img/wellness_landing/instagram-logo.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.instagram.com/twill_happify/)
-* [![twitter](https://static.happify.com/static/img/wellness_landing/twitter.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://twitter.com/TwillHealth)
-* [![linkedin](https://static.happify.com/static/img/wellness_landing/linkedin.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.linkedin.com/company/twill-health/)
+* [![facebook](https://static.happify.com/static/img/wellness_landing/facebook.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.facebook.com/Happifybytwill)
+* [![linkedin](https://static.happify.com/static/img/wellness_landing/instagram-logo.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.instagram.com/twill_happify/)
+* [![twitter](https://static.happify.com/static/img/wellness_landing/twitter.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://twitter.com/TwillHealth)
+* [![linkedin](https://static.happify.com/static/img/wellness_landing/linkedin.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.linkedin.com/company/twill-health/)
 
 Company
 -------
@@ -669,10 +669,10 @@ Accessibility
 
 * [More Options](https://happify.com/accessibility/)
 
-* [![facebook](https://static.happify.com/static/img/wellness_landing/facebook.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.facebook.com/Happifybytwill)
-* [![linkedin](https://static.happify.com/static/img/wellness_landing/instagram-logo.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.instagram.com/twill_happify/)
-* [![twitter](https://static.happify.com/static/img/wellness_landing/twitter.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://twitter.com/TwillHealth)
-* [![linkedin](https://static.happify.com/static/img/wellness_landing/linkedin.svg?a06571911dac8bd2c5d705b13ae8f2927ab7caaf)](https://www.linkedin.com/company/twill-health/)
+* [![facebook](https://static.happify.com/static/img/wellness_landing/facebook.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.facebook.com/Happifybytwill)
+* [![linkedin](https://static.happify.com/static/img/wellness_landing/instagram-logo.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.instagram.com/twill_happify/)
+* [![twitter](https://static.happify.com/static/img/wellness_landing/twitter.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://twitter.com/TwillHealth)
+* [![linkedin](https://static.happify.com/static/img/wellness_landing/linkedin.svg?11ddd43a69e3ae814b5f17374dac0bd09a69131c)](https://www.linkedin.com/company/twill-health/)
 
 2022 ©Happify, Inc. All Rights Reserved. [Privacy Policy.](https://happify.com/public/legal) Twill does not provide medical advice, psychiatric diagnosis or treatment. All third-party trademarks, service marks, logos and domain names appearing on this web page are the property of their respective owners. None of these companies endorse, sponsor or are in any way affiliated with Twill. [See Additional information.](https://happify.com/disclaimer/)
 
