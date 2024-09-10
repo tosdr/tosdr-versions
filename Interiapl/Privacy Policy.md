@@ -9,7 +9,7 @@ Polityka Prywatności
 
 Administratorem Danych osobowych jest **Interia.pl spółka z ograniczoną odpowiedzialnością** z siedzibą w Krakowie, ul. Kotlarska 11, 31-539 Kraków do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla Krakowa - Śródmieścia w Krakowie, Wydział XI Gospodarczy KRS pod numerem 0001009169 (dalej: "My" / "Administrator" /" Interia.pl"). 
 
-Powołaliśmy Inspektora Ochrony Danych w osobie Piotra Łochowskiego, w sprawie przetwarzania danych osobowych możesz kontaktować się na adres e-mail: [iod@firma.interia.pl](mailto:iod@firma.interia.pl) oraz listowanie na adres: Interia.pl spółka z ograniczoną odpowiedzialnością, ul. Kotlarska 11, 31-539 Kraków.
+Powołaliśmy Inspektora Ochrony Danych w osobie Katarzyny Lewandowskiej, w sprawie przetwarzania danych osobowych możesz kontaktować się na adres e-mail: [iod@firma.interia.pl](mailto:iod@firma.interia.pl) oraz listowanie na adres: Interia.pl spółka z ograniczoną odpowiedzialnością, ul. Kotlarska 11, 31-539 Kraków.
 
 Niniejsza polityka prywatności (dalej: "Polityka Prywatności") opisuje, jak Interia.pl przetwarza dane osobowe użytkowników na swoich stron internetowych (dalej: "Portal Interia") oraz w ramach świadczonych usług i aplikacji. Polityka Prywatności nie odnosi się do stron internetowych i usług Interia.pl, w których odrębnie uregulowano kwestie prywatności, np. w regulaminie serwisu.  
 
