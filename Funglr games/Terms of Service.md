@@ -90,6 +90,12 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 ###  New entry
 
+* [_![[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/08/acghk2024-cosplayer-part2-00-150x150.jpg "[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2")_
+    
+    **\[ACGHK 2024\] Cosplayers from Hong Kong Biggest Anime Event ACGHK Part2**2024.08.17(Sat)](https://saiganak.com/event/acghk2024-cosplayer-part2/ "[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2")
+* [_![Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/08/acghk2024-showgirl-00-02-150x150.jpg "Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!")_
+    
+    **Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!**2024.08.01(Thu)](https://saiganak.com/event/acghk2024-promotional-model/ "Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!")
 * [_![[EVO 2024] Photo Report from Las Vegas!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/evo-2024-booth-photo-report-00-150x150.jpg "[EVO 2024] Photo Report from Las Vegas!")_
     
     **\[EVO 2024\] Photo Report from Las Vegas!**2024.07.21(Sun)](https://saiganak.com/event/evo-2024-booth-photo-report/ "[EVO 2024] Photo Report from Las Vegas!")
@@ -99,34 +105,28 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 * [_![GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/gendagigo-vietnam-00-150x150.jpg "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")_
     
     **GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast As…**2024.07.04(Thu)](https://saiganak.com/news/gendagigo-vietnam/ "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")
-* [_!["VSPO! "Brave group announces compensation of Information leak](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/bravegroup-personal-data-breach-streaming-resume-00-150x150.jpg ""VSPO! "Brave group announces compensation of Information leak")_
-    
-    **"VSPO! "Brave group announces compensation of Information leak**2024.06.28(Fri)](https://saiganak.com/news/bravegroup-personal-data-breach-streaming-resume/ ""VSPO! "Brave group announces compensation of Information leak")
-* [_![Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/fujii4dan-ynu-june2024-bar-00-150x150.jpg "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")_
-    
-    **Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!**2024.06.13(Thu)](https://saiganak.com/event/fujii4dan-ynu-june2024-bar/ "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")
 
 ### Pocket ranking
 
 * No article
 
-[![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
+[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
 
-* [![Coca-Cola energy drinks are here! How is the taste?](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/cocacola-energy-0-150x150.jpg "Coca-Cola energy drinks are here! How is the taste?")
+* [![SNK's ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/09/neogeo-arcade-stick-pro-4th-info-00-150x150.jpg "SNK's ")
     
-    Coca-Cola energy drinks are here! How is the taste?](https://saiganak.com/review/cocacola-energy-review/ "Coca-Cola energy drinks are here! How is the taste?")
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
+    SNK's "NEOGEO Arcade Stick Pro"Release date and Price announced!](https://saiganak.com/product/neogeo-arcade-stick-pro-4th-info/ "SNK's ")
+* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
     
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
-    
-    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
 * [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
     
     New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+    
+    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 
 [](#top)
 
