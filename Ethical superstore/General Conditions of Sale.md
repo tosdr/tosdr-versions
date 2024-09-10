@@ -168,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
+            * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -307,7 +307,6 @@ Customer Services Helpline
         
         * [Nappy Changing](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/)
             * [Disposable Eco Nappies](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/eco-nappies/)
-            * [Reusable Nappies](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/reusable-nappies/)
             * [Wipes & Essentials](https://www.ethicalsuperstore.com/category/baby-child-and-toys/nappies/wipes-and-creams/)
         * [Bath & Body](https://www.ethicalsuperstore.com/category/baby-child-and-toys/bodycare/)
             * [Bathtime](https://www.ethicalsuperstore.com/category/baby-child-and-toys/bodycare/bathtime/)
@@ -362,7 +361,7 @@ Customer Services Helpline
 
 **Subtotal** (excluding delivery): **£ 0.00**
 
-Delivery options from £0.99
+Delivery options from £4.95
 
  
 
@@ -401,8 +400,8 @@ You are here:
 
 You haven't viewed any products yet
 
-* [99p Standard UK Delivery\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
-* [Summer Sale](https://www.ethicalsuperstore.com/summer-sale)
+* [20% Off Fair Trade\*](https://www.ethicalsuperstore.com/fairtrade-fortnight/)
+* [Clearance Sale](https://www.ethicalsuperstore.com/summer-sale/)
 * [30 day no-quibble returns policy](https://www.ethicalsuperstore.com/help-returns-and-refunds/)
 
 Help - Returns & Refunds
@@ -412,9 +411,9 @@ Help - Returns & Refunds
 
 ### RETURNS POLICY
 
-We want you to be completely satisfied with your purchases. If for any reason you are not satisfied with an item you have ordered, please return it, within the extended Christmas returns period and we will refund your money or send you a replacement.
+We want you to be completely satisfied with your purchases. If for any reason you are not satisfied with an item you have ordered, please return it within 30 days of the date of receipt and we will refund your money or send you a replacement. 
 
-Items returned in this extended period should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
+Items returned under our 30 day guarantee should be returned to us in their original condition including any packaging. Please check the ‘Products we are unable to refund’ section below for exceptions.
 
 This guarantee is in addition to your statutory rights.
 
