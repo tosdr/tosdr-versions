@@ -12,19 +12,6 @@ Back to
 
 Back
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![Rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
-
-Loan expert
-
-* [(866) 934-7283](tel:8669347283 "Call Rate at (866) 934-7283")
-* [\[email protected\]](https://www.rate.com/cdn-cgi/l/email-protection)
-
-Talk to an insurance expert today
-
-* [(866) 947-5397](tel:8669475397 "Call undefined at (866) 947-5397")
-
 ContactEnglish
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2770%27%20height=%2728%27/%3e)![Rate Home](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blte08c31bfeb347f39/65027cfd9bcd1bdc631d027c/5min_rateLogo.svg)](https://www.rate.com/)
@@ -39,45 +26,32 @@ ContactEnglish
 2. English
 3. Contact
     
-    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![Rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
-    
-    Loan expert
-    
-    * [(866) 934-7283](tel:8669347283 "Call Rate at (866) 934-7283")
-    * [\[email protected\]](https://www.rate.com/cdn-cgi/l/email-protection)
-    
-    Talk to an insurance expert today
-    
-    * [(866) 947-5397](tel:8669475397 "Call undefined at (866) 947-5397")
-    
-4. [Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)[Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)
+4. [Log in](https://www.rate.com/redirect?dest=https%3A%2F%2Flogin.rate.com%2F%3F&icid=header%3Alogin&emp-id=29594)[Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)
 5. Get started
     
     Get started
 
 [**Purchase or refi**
 
-Find the perfect loan for you.](https://www.rate.com/redirect?dest=https://apply.rate.com&icid=header:apply)
+Find the perfect loan for you.](https://www.rate.com/redirect?dest=https%3A%2F%2Fapply.rate.com&icid=header%3Aapply&emp-id=29594)
 
 [**HELOC**
 
-Use your home’s equity.](https://www.rate.com/heloc)
+Use your home’s equity.](https://www.rate.com/heloc?emp-id=29594)
 
 [**Personal loan**
 
-Receive funds within days.](https://www.rate.com/personal-loans)
+Receive funds within days.](https://www.rate.com/personal-loans?emp-id=29594)
 
 [**Reverse mortgage**
 
-Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage)
+Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage?emp-id=29594)
 
 [**Rate Insurance\***
 
 100+ top carriers.
 
-This will direct you to an external website.](https://www.rate.com/insurance)
+This will direct you to an external website.](https://www.rate.com/insurance?emp-id=29594)
 
 ### Mortgage
 
