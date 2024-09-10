@@ -125,7 +125,7 @@ Name of the cookie: ARRAffinity.
 * [Follow](https://www.linkedin.com/company/hacknplan "Follow on LinkedIn")
 * [Follow](https://www.facebook.com/hacknplan/ "Follow on Facebook")
 
-Mad Cactus Digital SL 2023. All Rights Reserved.
+Mad Cactus Digital SL 2024. All Rights Reserved.
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
