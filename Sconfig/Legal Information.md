@@ -227,13 +227,13 @@ Pages
 Recent Posts
 ------------
 
+* [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/) August 18, 2024
+* [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/) August 12, 2024
+* [Pay for your mouse… Forever!](https://www.s-config.com/pay-for-your-mouse-forever/) August 3, 2024
 * [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/) July 27, 2024
 * [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
 * [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
 * [It’s June! Oh Hai!](https://www.s-config.com/june2024/) June 18, 2024
-* [We are mortal.](https://www.s-config.com/we-are-mortal/) April 2, 2024
-* [State of the blog – 2024.](https://www.s-config.com/state-of-the-blog-2024/) January 28, 2024
-* [Website – Changelog 12/17/2023](https://www.s-config.com/website-changelog-12-17-2023/) December 17, 2023
 
 Search this entire site:
 ------------------------
@@ -243,21 +243,21 @@ Search for:
 S-config is a member of the Fur Ring.
 -------------------------------------
 
-[<Previous Site>](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F)  
-[<Random Site>](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F)  
-[<Next Site>](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
+[<Previous-Site>](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F)  
+[<Random-Site>](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F)  
+[<Next-Site>](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
 
 Recent Comments
 ---------------
 
-* [S-Config](https://www.s-config.com/) on [Zero delay USB Joystick Encoder.](https://www.s-config.com/zero-delay-usb-joystick-encoder/comment-page-5/#comment-87026)
-* Jason on [Zero delay USB Joystick Encoder.](https://www.s-config.com/zero-delay-usb-joystick-encoder/comment-page-5/#comment-87011)
-* D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86831)
-* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86825)
-* D. on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86820)
-* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86232)
-* sivre on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86189)
-* XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-86133)
+* guy on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88172)
+* [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88107)
+* All the good names were taken so I used this one on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-88104)
+* [S-Config](https://www.s-config.com/) on [So you want to start a blog?](https://www.s-config.com/so-you-want-to-start-a-blog/comment-page-1/#comment-88023)
+* Cj on [So you want to start a blog?](https://www.s-config.com/so-you-want-to-start-a-blog/comment-page-1/#comment-88020)
+* [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-87958)
+* N. on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-87923)
+* [S-Config](https://www.s-config.com/) on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-87904)
 
 The only advertisement banner you will see.
 -------------------------------------------
