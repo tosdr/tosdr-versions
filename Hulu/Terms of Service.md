@@ -280,7 +280,7 @@ You are about to exit Hulu.com to visit the Shop Hulu site, where a different Te
 
 [Shop Hulu](#hulushop "Shop Hulu")[Press](https://secure.hulu.com/press "Press")[Jobs](https://secure.hulu.com/jobs "Jobs")[Contact](https://help.hulu.com/article/hulu-how-to-contact-hulu "Contact")[Guides | What to Watch](https://hulu.com/guides "Guides | What to Watch")
 
-[![](/static/hitch/static/icons/facebook.svg)](https://www.facebook.com/hulu "Hulu Facebook")[![](/static/hitch/static/icons/twitter.svg)](https://twitter.com/hulu "Hulu Twitter")[![](/static/hitch/static/icons/youtube.svg)](https://www.youtube.com/channel/UCE5mQnNl8Q4H2qcv4ikaXeA "Hulu Youtube")[![](/static/hitch/static/icons/instagram.svg)](https://www.instagram.com/hulu "Hulu Instagram")
+[![](/static/hitch/static/icons/facebook.svg)](https://www.facebook.com/hulu "Hulu Facebook")[![](/static/hitch/static/icons/x_logo.svg)](https://x.com/hulu "Hulu X")[![](/static/hitch/static/icons/youtube.svg)](https://www.youtube.com/channel/UCE5mQnNl8Q4H2qcv4ikaXeA "Hulu Youtube")[![](/static/hitch/static/icons/instagram.svg)](https://www.instagram.com/hulu "Hulu Instagram")
 
 © 2024 Hulu, LLC
 
