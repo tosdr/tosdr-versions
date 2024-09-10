@@ -248,7 +248,7 @@ Effective Date
 
 August 15, 2024
 
-See all versionsAugust 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
+See all versionsAugust 15, 2024June 12, 2024May 24, 2024May 24, 2024January 19, 2024December 1, 2023August 31, 2023June 19, 2023March 7, 2023December 12, 2022September 1, 2022August 8, 2022November 10, 2021August 31, 2021June 3, 2021April 15, 2021June 23, 2020November 5, 2018
 
 [1\. ABOUT](#_1-about)
 ----------------------
@@ -685,6 +685,7 @@ Use cases
 * [Diagramming](https://www.figma.com/figjam/diagramming-tool/)
 * [Prototyping](https://www.figma.com/prototyping/)
 * [Brainstorming](https://www.figma.com/figjam/brainstorming-tool/)
+* [Presentation maker](https://www.figma.com/presentation-maker/)
 * [Online whiteboard](https://www.figma.com/figjam/online-whiteboard/)
 * [Agile](https://www.figma.com/figjam/agile-workflows/)
 * [Strategic planning](https://www.figma.com/figjam/strategic-planning/)
