@@ -55,7 +55,7 @@
     
     * [3 Ways Marketers Can Gain More Ease, Freedom and Control.](https://www.airship.com/events/3-ways-marketers-can-gain-more-ease-freedom-and-control/)
         
-        Join our webinar and learn how to use these exciting new feature enhancements.
+        Watch our webinar and learn how to use these exciting new feature enhancements.
         
     
 * Solutions
