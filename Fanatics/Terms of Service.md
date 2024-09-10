@@ -1,3 +1,5 @@
+[](https://www.fanatics.com/youtube-nfl-sunday-ticket/x-51288319+z-878758-831411623)
+
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
 SIGN UP & SAVE!
@@ -15,7 +17,13 @@ SIGN UP & SAVE!
 
 [](https://www.fanatics.com/)
 
-[![365-Day Returns](/content/ws/all/73e57857-dcc5-4e18-a3ee-3773599ec162.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)[![Fanatics MVP Deals](/content/ws/all/ff9ac435-7404-42cf-a7b2-37e6183a607c.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)[![FanCash Rewards Card](/content/ws/all/6a722aa0-239a-4412-9a72-8f5808d4683d.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)[![Download the App](/content/ws/all/ed3ffc43-e198-4828-b329-a247c77e837e.svg)](https://www.fanatics.com/mobile/x-2852+z-83964446-2215009846)
+[![365-Day Returns](/content/ws/all/c2a63b69-e964-4d50-9396-af424680ecb8.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)
+
+[![Fanatics MVP Deals](/content/ws/all/e0b6fb71-7fdb-4256-9914-5d4d9d164fd7.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)
+
+[![FanCash Rewards Card](/content/ws/all/46b6c08d-1041-4460-bc77-68086e5358ce.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)
+
+[![Download the App](/content/ws/all/02ee1dff-0127-4e7a-9c97-451d49f19cc0.svg)](https://www.fanatics.com/mobile/x-2852+z-83964446-2215009846)
 
 [](https://www.fanatics.com/account)[](https://www.fanatics.com/cart?_ref=cart-icon&qty=0)
 
@@ -25,9 +33,9 @@ SIGN UP & SAVE!
     
     [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
     
-    [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
     
-    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)[Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
+    [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
     
 * [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
 * [College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
@@ -36,19 +44,19 @@ SIGN UP & SAVE!
     
     [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
     
-    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
     
-    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
+    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
     
 * [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
 * [NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
 * [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
-* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
 * [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+* [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
+* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
 * [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-* [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
 * [More](#top-nav12)
 * [Sale](#top-nav13)
 * [Players](#top-nav14)
@@ -322,11 +330,11 @@ Popular Answers
 
 Customer Service
 
-* [Contact Us](https://www.fanatics.com/how-can-i-contact-customer-service/ch-2241 "Contact Us")
+* [Contact Us](https://www.fanatics.com/contact-us/ch-2241 "Contact Us")
 * [Help](https://www.fanatics.com/customer-help-desk/hd-1 "Help")
 * [Track My Order](https://www.fanatics.com/track-order "Track My Order")
-* [Shipping](https://www.fanatics.com/shipping-results/ch-2697 "Shipping")
-* [Size Chart](https://www.fanatics.com/fanatics-size-charts/ch-2235 "Size Chart")
+* [Shipping](https://www.fanatics.com/shipping/ch-2234 "Shipping")
+* [Size Chart](https://www.fanatics.com/size-charts/ch-4872 "Size Chart")
 * [Gift Cards](https://www.fanatics.com/gift-cards/gc-1 "Gift Cards")
 * [Zip](https://www.fanatics.com/zip-faq/ch-4409 "Zip")
 
@@ -335,14 +343,13 @@ Worry Free Shopping
 * [Promo Terms and Exclusions](https://www.fanatics.com/promo-exclusions/x-4764 "Promo Terms and Exclusions")
 * [Coupons & Promotions](https://www.fanatics.com/coupons/x-1622+z-905264519-3806144021 "Coupons & Promotions")
 * [Customer Testimonials](https://www.fanatics.com/fanatics-testimonials/x-2660+z-947548214-2182967494 "Customer Testimonials")
-* [Satisfaction Guarantee](https://www.fanatics.com/your-satisfaction-guaranteed/ch-2399 "Satisfaction Guarantee")
-* [Safe Shopping](https://www.fanatics.com/security--safe-shopping/ch-2315 "Safe Shopping")
-* [365-Day Returns](https://www.fanatics.com/what-is-your-return-policy/ch-2358 "365-Day Returns")
+* [Safe Shopping](https://www.fanatics.com/safe-shopping/ch-2315 "Safe Shopping")
+* [365-Day Returns](https://www.fanatics.com/returns-policy "365-Day Returns")
 * [Authenticity Verification](https://www.fanatics.com/fansecure "Authenticity Verification")
 
 Information
 
-* [About Us](https://www.fanatics.com/why-shop-with-us/ch-2389 "About Us")
+* [About Us](https://www.fanatics.com/about-us/ch-2389 "About Us")
 * [Advertise With Us](https://www.fanatics.com/partner-solutions-about/x-23369356+z-9525308-2469776239 "Advertise With Us")
 * [Affiliate Program](https://www.fanatics.com/affiliates/x-2712+z-928231036-1795439153 "Affiliate Program")
 * [Fanatics App](https://www.fanatics.com/mobile/x-67 "Fanatics App")
@@ -354,11 +361,10 @@ Information
 * [Corporate Info](https://www.fanaticsinc.com/ "Corporate Info")
 * [Careers](https://www.fanaticsinc.com/careers "Careers")
 * [Volume Sales](https://www.fanatics.com/sports-corporate-gifts-and-promotional-product-sales/x-2731+z-977271163-574957233 "Volume Sales")
-* [All In Challenge](https://www.fanatics.com/all-in-challenge/x-12589906+z-9713580-3838082054 "All In Challenge")
 
-* [Contact Us](https://www.fanatics.com/how-can-i-contact-customer-service/ch-2241 "Contact Us")
+* [Contact Us](https://www.fanatics.com/contact-us/ch-2241 "Contact Us")
 * [Help](https://www.fanatics.com/customer-help-desk/hd-1 "Help")
-* [365-Day Returns](https://www.fanatics.com/what-is-your-return-policy/ch-2358 "365-Day Returns")
+* [365-Day Returns](https://www.fanatics.com/returns-policy "365-Day Returns")
 * [Track My Order](https://www.fanatics.com/track-order "Track My Order")
 * [Promo Terms and Exclusions](https://www.fanatics.com/promo-exclusions/x-4764 "Promo Terms and Exclusions")
 * [Authenticity Verification](https://www.fanatics.com/fansecure "Authenticity Verification")
@@ -367,7 +373,6 @@ Information
 * [Gift Cards](https://www.fanatics.com/gift-cards/gc-1 "Gift Cards")
 * [Zip](https://www.fanatics.com/zip-faq/ch-4409 "Zip")
 * [Fanatics MVP Card](https://www.fanatics.com/fancash-rewards-card "Fanatics MVP Card")
-* [All In Challenge](https://www.fanatics.com/all-in-challenge/x-12589906+z-9713580-3838082054 "All In Challenge")
 
 Get the App
 
@@ -386,11 +391,11 @@ Follow Us
 * [](https://twitter.com/Fanatics "X")
 * [](https://www.instagram.com/fanatics "Instagram")
 
-* [Privacy Policy](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349 "Privacy Policy")
+* [Privacy Policy](https://www.fanatics.com/privacy-policy "Privacy Policy")
 * [Your Privacy Choices](https://www.fanatics.com/user-prefs/cookies "Your Privacy Choices")
-* [Terms of Use](https://www.fanatics.com/terms-and-conditions/ch-2323 "Terms of Use")
-* [Interest-Based Advertisement](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349#-6.-interest-based-advertising- "Interest-Based Advertisement")
-* [CA Supply Chains Act/UK Modern Slavery Act](https://www.fanaticsinc.com/ca-transparency-uk-modern-slavery-act "CA Supply Chains Act/UK Modern Slavery Act")
+* [Terms of Use](https://www.fanatics.com/terms-of-use "Terms of Use")
+* [Interest-Based Advertisement](https://www.fanatics.com/privacy-policy "Interest-Based Advertisement")
+* [Modern Slavery and Child Labor Statement](https://www.fanaticsinc.com/ca-transparency-uk-modern-slavery-act "Modern Slavery and Child Labor Statement")
 * [Site Map](https://www.fanatics.com/sitemap "Site Map")
 * [Shopping Internationally? Visit fanatics.co.uk](https://www.fanatics.co.uk/stores/fanatics/en "Shopping Internationally? Visit fanatics.co.uk")
 
@@ -405,16 +410,23 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 9d0e1fe72a8fd72c
+rc: 08ef762061b33b1a
 
-vid: 07f0eb30-4e34-11ef-9928-af4cc1f7ea9d
+vid: 5b9ba3d0-6f9d-11ef-a627-41856de5a9c8
 
-version: 1.1.0-rc-20240722-2.93727
+version: 1.1.0-rc-20240906-1.96721
 
 +
 
 Qualified Experiments #:* 12635:A:0:1
-* 14149:A:0:1
-* 14162:A:0:1
-* 14325:A:0:1
-Namespaces:
+* 14753:A:0:1
+Namespaces:* 3:4868:0
+* 4:595:0
+* 5:2434:0
+* 6:2576:0
+* 7:2420:0
+* 8:1845:0
+* 9:2561:0
+* 10:8597:0
+* 11:8105:0
+* 2:2727:0
