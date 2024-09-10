@@ -396,11 +396,11 @@ Footer Menu Links
 * [Frequently Asked Questions](https://www.savethechildren.org/us/about-us/frequently-asked-questions)
 * [Charity Ratings](https://www.savethechildren.org/us/about-us/charity-ratings)
 
-      [![A pie chart showing Save the Children's program funding allocation.](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "A pie chart showing Save the Children's program funding allocation.")](https://www.savethechildren.org/us/about-us/financial-information "pie-chart")
+      [![2023-footer-where-your-giving-goes-transparent.png](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "2023-footer-where-your-giving-goes-transparent.png")](https://www.savethechildren.org/us/about-us/financial-information "pie-chart")
 
 An organization you can trust
 
-When you give, 86% of every dollar goes straight to our mission. [Find out more](https://www.savethechildren.org/us/about-us/financial-information "Financial Information").
+When you give, 85% of every dollar goes straight to our mission. [Find out more](https://www.savethechildren.org/us/about-us/financial-information "Financial Information").
 
       [![Charity Navigator Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "Charity Navigator Logo")](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")[![Charity Watch Top Rated Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "Charity Watch Top Rated Logo")](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")[![Better Business Bureau Accredited Charity Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")
 
