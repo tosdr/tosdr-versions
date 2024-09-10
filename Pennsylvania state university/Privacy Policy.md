@@ -1,7 +1,5 @@
 [Skip to main content](https://www.psu.edu/#main-content)
 
-[Penn State University](https://www.psu.edu/)
-
 navSearch icon[Give](https://raise.psu.edu/)[Apply](https://www.psu.edu/admission)[Report A Concern](https://universityethics.psu.edu/reporting-at-penn-state)
 
 [Nittany Lion Shield Penn State Mark](https://www.psu.edu/)
@@ -25,7 +23,7 @@ menu icon
 
 [Global Education](https://global.psu.edu/)[Academic Calendar](https://www.registrar.psu.edu/academic-calendars)
 
-[Admission](https://www.psu.edu/admission)expand icon
+[Admissions](https://www.psu.edu/admission)expand icon
 
 [Explore Penn State](https://www.psu.edu/admission/undergraduate/explore)* [Undergraduate Campuses](https://www.psu.edu/admission/undergraduate/explore/campuses)
 * [Residence Life](https://www.psu.edu/admission/undergraduate/explore/residence-life)
@@ -119,9 +117,9 @@ menu icon
     * [Global Education](https://global.psu.edu/)
     * [Academic Calendar](https://www.registrar.psu.edu/academic-calendars)
     
-* Admissionexpand icon
+* Admissionsexpand icon
     
-    * [Admission](https://www.psu.edu/admission)
+    * [Admissions](https://www.psu.edu/admission)
     * Explore Penn Stateexpand icon
         
         * [Explore Penn State](https://www.psu.edu/admission/undergraduate/explore)
@@ -321,6 +319,7 @@ University Park, PA 16802
 * [facebook icon](https://www.facebook.com/pennstate/)
 * [linkedIn icon](https://www.linkedin.com/school/penn-state-university/)
 * [youtube icon](https://www.youtube.com/@pennstate)
+* [tiktok icon](https://www.tiktok.com/@pennstate)
 
 Explore
 -------
