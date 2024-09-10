@@ -8,17 +8,19 @@
     * [Hilton Buena Vista Palace](http://disneyspringshotels.com/hotels/hilton-orlando-buena-vista-palace/ "Hilton Orlando Buena Vista Palace – Disney Springs® Area")
     * [Hilton Lake Buena Vista](http://disneyspringshotels.com/hotels/hilton-orlando-lake-buena-vista-disney-springs/ "Hilton Orlando Lake Buena Vista at Disney Springs® Area")
     * [Holiday Inn](http://disneyspringshotels.com/hotels/holiday-inn-orlando-disney-springs-area/ "Holiday Inn Orlando – Disney Springs® Area")
-    * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
+    * [Renaissance](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Teacher Appreciation](https://disneyspringshotels.com/teachers/)
+    * [Stay Steps from The Magic](https://disneyspringshotels.com/magic/ "Stay Steps from The Most Magical Place on Earth")
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
     * [Disney Advantage](http://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
+    * [Disney Early Entry](https://disneyspringshotels.com/disney-advantage/disney-early-theme-park-entry/ "Disney Early Theme Park Entry")
     * [Disney Golf](https://disneyspringshotels.com/disney-advantage/disney-golf/ "Walt Disney World Resort Champion Golf")
 * [Walt Disney World®](https://disneyspringshotels.com/disney-parks/)
     * [Disney Theme Parks](https://disneyspringshotels.com/disney-parks/ "Walt Disney World Theme Parks & Ticket Information")
     * [Buy Tickets](http://disneyurl.com/hotelplaza "Buy Disney Theme Park Tickets")
+    * [Disney Lightning Lane](https://disneyspringshotels.com/disney-parks/disney-lightning-lane/ "Lightning Lane Multi Pass and Lightning Lane Single Pass")
     * [Star Wars: Galaxy’s Edge](https://disneyspringshotels.com/star-wars-galaxys-edge-at-disneys-hollywood-studios/ "Star Wars: Galaxy’s Edge at Disney’s Hollywood Studios")
     * [Disney Springs](https://disneyspringshotels.com/disney-springs-things-to-do/ "Things to do at Disney Springs (formerly Dowtown Disney)")
 * [What’s Happening](https://disneyspringshotels.com/whats-new/ "What’s New at Walt Disney World, Disney Springs and Disney Springs Hotels")
@@ -83,7 +85,7 @@ Sign Up for Special Offers
 
   
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-Promotional-Ticket_4-Park.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2016/05/300x250-teachers.jpg)](https://disneyspringshotels.com/teachers/) [![](https://disneyspringshotels.com/wp-content/uploads/2024/04/WDW_FY24_CFL-DSRAH_Unique-HPA-Co-Op-Campaign.jpg)](https://disneyspringshotels.com/magic/)
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-Promotional-Ticket_4-Park.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-FL-Resident-Ticket_4-Day.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/04/DSRAH-Fall-from-79-night.jpg)](https://disneyspringshotels.com/magic/)
 
 _Disney Springs®_ Resort Area Hotels
 
@@ -98,7 +100,7 @@ Individual Daily Shuttle Service to Disney Theme Parks during normal operating h
 
 [Learn More](https://disneyspringshotels.com/disney-advantage/ "Link to more details")
 
-![](https://disneyspringshotels.com/wp-content/uploads/2024/02/Disney-Springs-Hotels-Passport-to-Savings.jpg)
+![](https://disneyspringshotels.com/wp-content/uploads/2024/09/Disney-Springs-Hotels-Passport-to-Savings-2024-sm.png)
 
 #### Exclusive Passport
 
@@ -129,13 +131,13 @@ Book your tee-times up to 90 days in advance!
 Insider News
 ============
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2023/04/Mickey-meet-and-greet-Magic-Kingdom.jpg)](https://disneyspringshotels.com/walt-disney-world-ticket-offers-spring-summer-2024/ "Permanent Link to Walt Disney World Ticket Offers Spring & Summer 2024")
+[![](https://disneyspringshotels.com/wp-content/uploads/2022/08/Mickeys-Very-Merry-Christmas.jpg)](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")
 
-[Walt Disney World Ticket Offers Spring & Summer 2024](https://disneyspringshotels.com/walt-disney-world-ticket-offers-spring-summer-2024/ "Permanent Link to Walt Disney World Ticket Offers Spring & Summer 2024") Now through September 18, 2024 , guests may book special ticket offers for this Spring and Summer at Walt Disney World® Resort! 4-Day, 4-Park Magic Ticket Experience 4 days of magic and thrills across the Walt Disney World theme parks when you purchase a specially priced 4-Park Magic Ticket starting from $99 per day, plus… [View Article »](https://disneyspringshotels.com/walt-disney-world-ticket-offers-spring-summer-2024/)
+[Mickey’s Very Merry Christmas Party](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")   Select Nights from November 8 – December 20, Guests can Experience the Holiday Magic at Magic Kingdom® Park Do you still believe in holiday magic? Discover it again as you step into a Yuletide tale full of warm and wonderful traditions during Mickey’s Very Merry Christmas Party at Magic Kingdom® Park. Join Mickey and… [View Article »](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/)
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2021/06/Friends-Epcot-Food-and-Wine.jpg)](https://disneyspringshotels.com/epcot-international-food-wine-festival/ "Permanent Link to 2024 EPCOT® International Food & Wine Festival")
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/08/friends-at-epcot-2.jpg)](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL")
 
-[2024 EPCOT® International Food & Wine Festival](https://disneyspringshotels.com/epcot-international-food-wine-festival/ "Permanent Link to 2024 EPCOT® International Food & Wine Festival") Runs August 29 to November 23, 2024 Like a passport specially for your palate, the EPCOT® International Food & Wine Festival is a magical taste tour—one that whisks you off on a fun and flavorful journey across six continents. It’s a delicious celebration filled with global marketplaces, live entertainment and more. Sip, savor and stroll… [View Article »](https://disneyspringshotels.com/epcot-international-food-wine-festival/)
+[DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL") RATES START AT $79 AT DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL Stay Steps from the Most Magical Place on Earth LAKE BUENA VISTA, Fla. – (Aug. 9, 2024) – Special rates starting at $79\* are available to book at Disney Springs® Resort Area Hotels beginning August 10 for stays from August 15 through November… [View Article »](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/)
 
 [View All News](https://disneyspringshotels.com/whats-new/ "Link to What's New")
 
@@ -152,17 +154,19 @@ Sign Up for Special Offers
     * [Hilton Buena Vista Palace](http://disneyspringshotels.com/hotels/hilton-orlando-buena-vista-palace/ "Hilton Orlando Buena Vista Palace – Disney Springs® Area")
     * [Hilton Lake Buena Vista](http://disneyspringshotels.com/hotels/hilton-orlando-lake-buena-vista-disney-springs/ "Hilton Orlando Lake Buena Vista at Disney Springs® Area")
     * [Holiday Inn](http://disneyspringshotels.com/hotels/holiday-inn-orlando-disney-springs-area/ "Holiday Inn Orlando – Disney Springs® Area")
-    * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
+    * [Renaissance](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Teacher Appreciation](https://disneyspringshotels.com/teachers/)
+    * [Stay Steps from The Magic](https://disneyspringshotels.com/magic/ "Stay Steps from The Most Magical Place on Earth")
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
     * [Disney Advantage](http://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
+    * [Disney Early Entry](https://disneyspringshotels.com/disney-advantage/disney-early-theme-park-entry/ "Disney Early Theme Park Entry")
     * [Disney Golf](https://disneyspringshotels.com/disney-advantage/disney-golf/ "Walt Disney World Resort Champion Golf")
 * [Walt Disney World®](https://disneyspringshotels.com/disney-parks/)
     * [Disney Theme Parks](https://disneyspringshotels.com/disney-parks/ "Walt Disney World Theme Parks & Ticket Information")
     * [Buy Tickets](http://disneyurl.com/hotelplaza "Buy Disney Theme Park Tickets")
+    * [Disney Lightning Lane](https://disneyspringshotels.com/disney-parks/disney-lightning-lane/ "Lightning Lane Multi Pass and Lightning Lane Single Pass")
     * [Star Wars: Galaxy’s Edge](https://disneyspringshotels.com/star-wars-galaxys-edge-at-disneys-hollywood-studios/ "Star Wars: Galaxy’s Edge at Disney’s Hollywood Studios")
     * [Disney Springs](https://disneyspringshotels.com/disney-springs-things-to-do/ "Things to do at Disney Springs (formerly Dowtown Disney)")
 * [What’s Happening](https://disneyspringshotels.com/whats-new/ "What’s New at Walt Disney World, Disney Springs and Disney Springs Hotels")
