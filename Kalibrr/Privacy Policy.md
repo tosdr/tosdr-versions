@@ -192,7 +192,7 @@ If you wish to change your job notifications settings or update your profile, pl
 
 © 2024 Kalibrr, Inc.[Privacy Policy |](https://www.kalibrr.com/privacy) [Terms of Use](https://www.kalibrr.com/terms)
 
-![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=7f6aeb84-1dcd-4e6d-920a-2febe3595f04&sid=41120f50469f11efb5f1d1966cdfd0b4&vid=411815d0469f11ef88cb0339c1311723&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fprivacy&r=&lt=550&evt=pageLoad&sv=1&cdb=AQAQ&rn=54334)
+![](https://bat.bing.com/action/0?ti=97059421&tm=gtm002&Ver=2&mid=1cc27cb2-cab8-47df-8d4e-2241421ce1f4&sid=42dfcb105ad711ef837aa79ef5d16cda&vid=42e184f05ad711ef97ceb3516a5f7bdb&vids=0&msclkid=N&gtm_tag_source=1&pi=0&lg=en-US&sw=800&sh=600&sc=24&nwd=1&tl=Kalibrr%3A%20Where%20Jobs%20Find%20You&p=http%3A%2F%2F0.0.0.0%3A1864%2Fprivacy&r=&lt=396&evt=pageLoad&sv=1&cdb=AQAQ&rn=656014)
 
 Refers to any information, whether recorded in a material form or not, that reasonably and directly ascertains the identity of an individual, or when put together with other information would directly and certainly identify an individual.
 
