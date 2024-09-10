@@ -10,8 +10,14 @@
 * [Games](https://www.playtika.com/games/)
 * [Life at Playtika](https://www.playtika.com/life-at-playtika/)
 * [Careers](https://www.playtika.com/careers/)
-* [In the press](https://www.playtika.com/in-the-press/)
-* [Knowledge](https://www.playtika.com/knowledge/)
+* [Newsroom](https://news.playtika.com/) Newsroom
+    * [Press Releases](https://news.playtika.com/press-releases)
+    * [In the News](https://news.playtika.com/in-the-news)
+    * [Media Gallery](https://news.playtika.com/media-gallery)
+    * [Events](https://news.playtika.com/events)
+* [Knowledge](https://www.playtika.com/knowledge/) Knowledge
+    * [Videos](https://www.playtika.com/knowledge/)
+    * [Tech Blog](https://www.playtika-blog.com/)
 * [![Instagram](/img/instagram-top.svg)](https://www.instagram.com/playtika) [![Linkedin](/img/linkedin-top.svg)](https://il.linkedin.com/company/playtika) [![Facebook](/img/facebook-top.svg)](https://www.facebook.com/Playtika/) [![Twitter](/img/twitter-top.svg)](https://twitter.com/playtika_ltd?lang=he)
 
 [![Instagram](/img/instagram-top.svg)](https://www.instagram.com/playtika) [![Linkedin](/img/linkedin-top.svg)](https://il.linkedin.com/company/playtika) [![Facebook](/img/facebook-top.svg)](https://www.facebook.com/Playtika/) [![Twitter](/img/twitter-top.svg)](https://twitter.com/playtika_ltd?lang=he)
