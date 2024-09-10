@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![MeetMatch logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20977%20205'%3E%3C/svg%3E)
-
-![MeetMatch logo](https://www.meetmatch.biz/wp-content/uploads/2021/08/MeetMatch-logo.png)](https://www.meetmatch.biz/)
+[![MeetMatch logo](https://www.meetmatch.biz/wp-content/uploads/2021/08/MeetMatch-logo.png)](https://www.meetmatch.biz/)
 
 * How it works
     * [Optimised networking](https://www.meetmatch.biz/optimised-networking/)
@@ -20,7 +18,6 @@
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
 * About us
-    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
@@ -43,7 +40,6 @@ Menu
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
 * About us
-    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
@@ -52,9 +48,7 @@ Menu
 
 [TRY A DEMO](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5NjgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-[![MeetMatch logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20977%20205'%3E%3C/svg%3E)
-
-![MeetMatch logo](https://www.meetmatch.biz/wp-content/uploads/2021/08/MeetMatch-logo.png)](https://www.meetmatch.biz/)
+[![MeetMatch logo](https://www.meetmatch.biz/wp-content/uploads/2021/08/MeetMatch-logo.png)](https://www.meetmatch.biz/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MzIxNiwidG9nZ2xlIjpmYWxzZX0%3D)
 
@@ -348,7 +342,6 @@ SUBMIT
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
 * About us
-    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
