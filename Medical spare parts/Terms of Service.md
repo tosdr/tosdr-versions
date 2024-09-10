@@ -8,9 +8,9 @@ Purchase comfortable on account
 
 Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
-[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721911611)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
 
 EN
 
@@ -34,7 +34,7 @@ Nederlands
 
  
 
- [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+ [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
 Search
 
@@ -48,7 +48,7 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 
 [Shopping cart €0.00\*](https://www.medicalspareparts.com/checkout/cart "Shopping cart")
 
-[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
 * [Spare Parts](https://msp-medical.com/spare-parts/ "Spare Parts")
 * close
@@ -398,12 +398,15 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 * [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
 * close
     
+* [Customization](https://msp-medical.com/customization/ "Customization")
+* close
+    
 
 We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721911611)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
 
 Language: EN
 
@@ -442,8 +445,9 @@ Categories
 * [Disposables](https://msp-medical.com/disposables/ "Disposables")
 * [Battery Technology](https://msp-medical.com/battery-technology/ "Battery Technology")
 * [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
+* [Customization](https://msp-medical.com/customization/ "Customization")
 
-![Face, Head, Person, Smile, Woman](https://msp-medical.com/media/e2/51/70/1718614711/nurse4.jpg)
+![Face, Head, Person, Smile, Woman](https://msp-medical.com/media/e2/51/70/1718614711/nurse4.jpg?ts=1718618092)
 
 MSP is the smarter alternative. Always!
 
@@ -457,31 +461,31 @@ MSP is the smarter alternative. Always!
 Shop by Category
 ================
 
-[![](https://msp-medical.com/media/95/3c/84/1647964166/Overzicht%20van%20producten%20-%20accu.png)
+[![](https://msp-medical.com/media/95/3c/84/1647964166/Overzicht%20van%20producten%20-%20accu.png?ts=1647964166)
 
 Batteries](https://msp-medical.com/spare-parts/batteries/)
 
-[![](https://msp-medical.com/media/03/f2/c8/1648546369/MSP-apr2018-HR150_transparant1.png)
+[![](https://msp-medical.com/media/03/f2/c8/1648546369/MSP-apr2018-HR150_transparant1.png?ts=1648546369)
 
 Working Chairs](https://msp-medical.com/medical-products/working-chairs/)
 
-[![](https://msp-medical.com/media/22/81/56/1647965993/MSP-NOA-HR012.1.png)
+[![](https://msp-medical.com/media/22/81/56/1647965993/MSP-NOA-HR012.1.png?ts=1647965993)
 
 Shower Chair](https://msp-medical.com/medical-products/shower-chair/)
 
-[![](https://msp-medical.com/media/54/f9/87/1648110424/MSP-TB-AD-001X0-11.png)
+[![](https://msp-medical.com/media/54/f9/87/1648110424/MSP-TB-AD-001X0-11.png?ts=1648110424)
 
 Slings](https://msp-medical.com/medical-products/slings/)
 
-[![](https://msp-medical.com/media/c7/22/16/1648110660/MSP-HH-AH-10910.png)
+[![](https://msp-medical.com/media/c7/22/16/1648110660/MSP-HH-AH-10910.png?ts=1648110660)
 
 Handcontrols](https://msp-medical.com/spare-parts/handcontrols/)
 
-[![](https://msp-medical.com/media/fb/bc/25/1648110885/MSP-C-LIGHT.png)
+[![](https://msp-medical.com/media/fb/bc/25/1648110885/MSP-C-LIGHT.png?ts=1648110885)
 
 Chargers](https://msp-medical.com/spare-parts/chargers/)
 
-![](https://msp-medical.com/media/7c/ff/91/1667300641/Noa-teaser%202.jpg)
+![](https://msp-medical.com/media/7c/ff/91/1667300641/Noa-teaser%202.jpg?ts=1667300641)
 
 Noa Shower Toilet-Chair
 
@@ -489,7 +493,7 @@ The optimised design expands the overall working space of the care giver.
 
 [Learn more](https://msp-medical.com/medical-products/shower-chair/noa-shower-chair/ "Noa Shower Toilet-Chair")
 
-![](https://msp-medical.com/media/3f/d8/14/1667301120/Sling-teaser.jpg)
+![](https://msp-medical.com/media/3f/d8/14/1667301120/Sling-teaser.jpg?ts=1667301120)
 
 Sling Montreal
 
@@ -499,7 +503,7 @@ A standard sling with outstanding features. Made for a superior short transfer.
 
 Popular products
 
-[![Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500](https://msp-medical.com/media/94/b0/e4/1647893933/MSP-A-AH-00500-1.jpg "Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500")](https://msp-medical.com/battery-pack-24v-dc-2.3ah-msp-a-ah-00500/msp-a-ah-00500/ "Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500")
+[![Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500](https://msp-medical.com/media/94/b0/e4/1647893933/MSP-A-AH-00500-1.jpg?ts=1647893933 "Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500")](https://msp-medical.com/battery-pack-24v-dc-2.3ah-msp-a-ah-00500/msp-a-ah-00500/ "Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500")
 
 [Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500](https://msp-medical.com/battery-pack-24v-dc-2.3ah-msp-a-ah-00500/msp-a-ah-00500/ "Battery Pack 24V/DC 2.3Ah - MSP-A-AH-00500")
 
@@ -513,7 +517,7 @@ incl. VAT €211.69 Excl. VAT €174.95
 
 In shopping cart
 
-[![Handcontrol 4-button replaces 8560004](https://msp-medical.com/media/34/58/aa/1650459648/MSP-HH-AH-10900-2.jpg "Handcontrol 4-button replaces 8560004")](https://msp-medical.com/handcontrol-4-button-replaces-8560004/msp-hh-ah-10910/ "Handcontrol 4-button replaces 8560004")
+[![Handcontrol 4-button replaces 8560004](https://msp-medical.com/media/34/58/aa/1650459648/MSP-HH-AH-10900-2.jpg?ts=1650459648 "Handcontrol 4-button replaces 8560004")](https://msp-medical.com/handcontrol-4-button-replaces-8560004/msp-hh-ah-10910/ "Handcontrol 4-button replaces 8560004")
 
 [Handcontrol 4-button replaces 8560004](https://msp-medical.com/handcontrol-4-button-replaces-8560004/msp-hh-ah-10910/ "Handcontrol 4-button replaces 8560004")
 
@@ -521,13 +525,13 @@ Art. nr.: MSP-HH-AH-10910
 
 incl. VAT €136.67 Excl. VAT €112.95
 
-1 2 3 4 5 6
+1 2 3 4 5
 
         
 
 In shopping cart
 
-[![Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa](https://msp-medical.com/media/bd/7b/06/1649963940/MSP-A-MP-01600%204.png "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")](https://msp-medical.com/battery-pack-li-ion-25-9v-dc-2250mah-for-noa/msp-a-mp-01600/ "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")
+[![Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa](https://msp-medical.com/media/bd/7b/06/1649963940/MSP-A-MP-01600%204.png?ts=1649963940 "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")](https://msp-medical.com/battery-pack-li-ion-25-9v-dc-2250mah-for-noa/msp-a-mp-01600/ "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")
 
 [Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa](https://msp-medical.com/battery-pack-li-ion-25-9v-dc-2250mah-for-noa/msp-a-mp-01600/ "Battery Pack Li-Ion 25,9V/DC 2250mAh for Noa")
 
@@ -541,7 +545,7 @@ incl. VAT €359.31 Excl. VAT €296.95
 
 In shopping cart
 
-[![Battery Pack 24V/DC 4Ah - MSP-A-AH-00100](https://msp-medical.com/media/f7/da/ba/1635860589/MSP-A-AH-00100-1.jpg "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")](https://msp-medical.com/battery-pack-24v-dc-4ah-msp-a-ah-00100/msp-a-ah-00100/ "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")
+[![Battery Pack 24V/DC 4Ah - MSP-A-AH-00100](https://msp-medical.com/media/f7/da/ba/1635860589/MSP-A-AH-00100-1.jpg?ts=1635860589 "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")](https://msp-medical.com/battery-pack-24v-dc-4ah-msp-a-ah-00100/msp-a-ah-00100/ "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")
 
 [Battery Pack 24V/DC 4Ah - MSP-A-AH-00100](https://msp-medical.com/battery-pack-24v-dc-4ah-msp-a-ah-00100/msp-a-ah-00100/ "Battery Pack 24V/DC 4Ah - MSP-A-AH-00100")
 
@@ -555,7 +559,7 @@ incl. VAT €210.48 Excl. VAT €173.95
 
 In shopping cart
 
-[![Standard Sling | Visual Safety Clip | Size L](https://msp-medical.com/media/d4/f9/e7/1635860588/MSP-TB-SD-001X0-1.jpg "Standard Sling | Visual Safety Clip | Size L")](https://msp-medical.com/standard-sling-visual-safety-clip-size-l/msp-tb-sd-00150/ "Standard Sling | Visual Safety Clip | Size L")
+[![Standard Sling | Visual Safety Clip | Size L](https://msp-medical.com/media/d4/f9/e7/1635860588/MSP-TB-SD-001X0-1.jpg?ts=1635860588 "Standard Sling | Visual Safety Clip | Size L")](https://msp-medical.com/standard-sling-visual-safety-clip-size-l/msp-tb-sd-00150/ "Standard Sling | Visual Safety Clip | Size L")
 
 [Standard Sling | Visual Safety Clip | Size L](https://msp-medical.com/standard-sling-visual-safety-clip-size-l/msp-tb-sd-00150/ "Standard Sling | Visual Safety Clip | Size L")
 
@@ -583,13 +587,13 @@ Our ergonomic office or home chairs improve your posture drastically, reduces ba
 
 [Check out our full collection](https://msp-medical.com/medical-products/working-chairs/)
 
-[![](https://msp-medical.com/media/38/af/5f/1667305434/Working%20chair-teaser2.jpg)
+[![](https://msp-medical.com/media/38/af/5f/1667305434/Working%20chair-teaser2.jpg?ts=1667305434)
 
 Working chairs](https://msp-medical.com/medical-products/working-chairs/ "Working chairs")
 
 Recommended by the MSP community
 
-[![Integral 2044 serie 3-way](https://msp-medical.com/media/f0/fd/97/1650566966/2044UAP200.jpg "Integral 2044 serie 3-way")](https://msp-medical.com/integral-2044-serie-3-way/sw10005/ "Integral 2044 serie 3-way")
+[![Integral 2044 serie 3-way](https://msp-medical.com/media/f0/fd/97/1650566966/2044UAP200.jpg?ts=1650566966 "Integral 2044 serie 3-way")](https://msp-medical.com/integral-2044-serie-3-way/sw10005/ "Integral 2044 serie 3-way")
 
 [Integral 2044 serie 3-way](https://msp-medical.com/integral-2044-serie-3-way/sw10005/ "Integral 2044 serie 3-way")
 
@@ -603,7 +607,7 @@ incl. VAT €60.50 Excl. VAT €50.00
 
 In shopping cart
 
-[![Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100](https://msp-medical.com/media/a2/ca/2f/1649965712/MSP-HH-AH-10100%202.jpg "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")](https://msp-medical.com/handcontrol-4-button-high-low-legspread-msp-hh-ah-10100/msp-hh-ah-10100/ "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")
+[![Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100](https://msp-medical.com/media/a2/ca/2f/1649965712/MSP-HH-AH-10100%202.jpg?ts=1649965712 "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")](https://msp-medical.com/handcontrol-4-button-high-low-legspread-msp-hh-ah-10100/msp-hh-ah-10100/ "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")
 
 [Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100](https://msp-medical.com/handcontrol-4-button-high-low-legspread-msp-hh-ah-10100/msp-hh-ah-10100/ "Handcontrol 4-button High/Low + Legspread - MSP-HH-AH-10100")
 
@@ -617,7 +621,7 @@ incl. VAT €139.09 Excl. VAT €114.95
 
 In shopping cart
 
-[![Power Supply 12V/DC 6W for KERN](https://msp-medical.com/media/c6/d4/a8/1635860589/PS020001.jpg "Power Supply 12V/DC 6W for KERN")](https://msp-medical.com/power-supply-12v-dc-6w-for-kern/msp-ps-ke-00100/ "Power Supply 12V/DC 6W for KERN")
+[![Power Supply 12V/DC 6W for KERN](https://msp-medical.com/media/c6/d4/a8/1635860589/PS020001.jpg?ts=1635860589 "Power Supply 12V/DC 6W for KERN")](https://msp-medical.com/power-supply-12v-dc-6w-for-kern/msp-ps-ke-00100/ "Power Supply 12V/DC 6W for KERN")
 
 [Power Supply 12V/DC 6W for KERN](https://msp-medical.com/power-supply-12v-dc-6w-for-kern/msp-ps-ke-00100/ "Power Supply 12V/DC 6W for KERN")
 
@@ -631,7 +635,7 @@ incl. VAT €96.74 Excl. VAT €79.95
 
 In shopping cart
 
-[![Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200](https://msp-medical.com/media/01/95/a3/1648556502/MSP-A-LN-00200-1.jpg "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")](https://msp-medical.com/battery-pack-24v-dc-2.9ah-baj1-msp-a-ln-00200/msp-a-ln-00200/ "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")
+[![Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200](https://msp-medical.com/media/01/95/a3/1648556502/MSP-A-LN-00200-1.jpg?ts=1648556502 "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")](https://msp-medical.com/battery-pack-24v-dc-2.9ah-baj1-msp-a-ln-00200/msp-a-ln-00200/ "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")
 
 [Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200](https://msp-medical.com/battery-pack-24v-dc-2.9ah-baj1-msp-a-ln-00200/msp-a-ln-00200/ "Battery Pack 24V/DC 2.9Ah BAJ1 - MSP-A-LN-00200")
 
@@ -681,25 +685,25 @@ General
 
 Payment methods
 
-[![iDEAL](https://msp-medical.com/media/6c/9a/1b/1635337155/ideal-icon.svg "iDEAL")](https://www.medicalspareparts.com/customer-service/payments/ "iDEAL")
+[![iDEAL](https://msp-medical.com/media/6c/9a/1b/1635337155/ideal-icon.svg?ts=1635337155 "iDEAL")](https://www.medicalspareparts.com/customer-service/payments/ "iDEAL")
 
-[![Credit card](https://msp-medical.com/media/dd/3f/73/1635337155/creditcard-icon.svg "Credit card")](https://www.medicalspareparts.com/customer-service/payments/ "Credit card")
+[![Credit card](https://msp-medical.com/media/dd/3f/73/1635337155/creditcard-icon.svg?ts=1635337155 "Credit card")](https://www.medicalspareparts.com/customer-service/payments/ "Credit card")
 
-[![PayPal](https://msp-medical.com/media/4f/ae/1a/1635337156/paypal-icon.svg "PayPal")](https://www.medicalspareparts.com/customer-service/payments/ "PayPal")
+[![PayPal](https://msp-medical.com/media/4f/ae/1a/1635337156/paypal-icon.svg?ts=1635337156 "PayPal")](https://www.medicalspareparts.com/customer-service/payments/ "PayPal")
 
-[![Apple Pay](https://msp-medical.com/media/e7/52/58/1635337155/applepay-icon.svg "Apple Pay")](https://www.medicalspareparts.com/customer-service/payments/ "Apple Pay")
+[![Apple Pay](https://msp-medical.com/media/e7/52/58/1635337155/applepay-icon.svg?ts=1635337155 "Apple Pay")](https://www.medicalspareparts.com/customer-service/payments/ "Apple Pay")
 
-[![KBC/CBC Payment Button](https://msp-medical.com/media/57/94/e9/1635337156/kbc-icon.svg "KBC/CBC Payment Button")](https://www.medicalspareparts.com/customer-service/payments/ "KBC/CBC Payment Button")
+[![KBC/CBC Payment Button](https://msp-medical.com/media/57/94/e9/1635337156/kbc-icon.svg?ts=1635337156 "KBC/CBC Payment Button")](https://www.medicalspareparts.com/customer-service/payments/ "KBC/CBC Payment Button")
 
-[![Belfius](https://msp-medical.com/media/08/14/25/1635337155/belfius-icon.svg "Belfius")](https://www.medicalspareparts.com/customer-service/payments/ "Belfius")
+[![Belfius](https://msp-medical.com/media/08/14/25/1635337155/belfius-icon.svg?ts=1635337155 "Belfius")](https://www.medicalspareparts.com/customer-service/payments/ "Belfius")
 
-[![Bancontact](https://msp-medical.com/media/ef/e1/13/1635337155/bancontact-icon.svg "Bancontact")](https://www.medicalspareparts.com/customer-service/payments/ "Bancontact")
+[![Bancontact](https://msp-medical.com/media/ef/e1/13/1635337155/bancontact-icon.svg?ts=1635337155 "Bancontact")](https://www.medicalspareparts.com/customer-service/payments/ "Bancontact")
 
-[![Banktransfer](https://msp-medical.com/media/0e/45/61/1635842503/banktransfer-icon.png "Banktransfer")](https://www.medicalspareparts.com/customer-service/payments/ "Banktransfer")
+[![Banktransfer](https://msp-medical.com/media/0e/45/61/1635842503/banktransfer-icon.png?ts=1635842503 "Banktransfer")](https://www.medicalspareparts.com/customer-service/payments/ "Banktransfer")
 
 [Invoice](https://www.medicalspareparts.com/customer-service/payments/ "Invoice")
 
-[![SOFORT Banking](https://msp-medical.com/media/15/5e/14/1635337156/sofort-icon.svg "SOFORT Banking")](https://www.medicalspareparts.com/customer-service/payments/ "SOFORT Banking")
+[![SOFORT Banking](https://msp-medical.com/media/15/5e/14/1635337156/sofort-icon.svg?ts=1635337156 "SOFORT Banking")](https://www.medicalspareparts.com/customer-service/payments/ "SOFORT Banking")
 
 Newsletter
 
@@ -711,7 +715,7 @@ Email address\*
 
 Subscribe
 
-Privacy \*
+Privacy\*
 
  By selecting continue you confirm that you have read our [data protection information](https://www.medicalspareparts.com/widgets/cms/bd97d78a319043d69c4241acb837f744 "Data protection information") and accepted our [general terms and conditions](https://www.medicalspareparts.com/widgets/cms/b453a7477de949b4adcb37f018d2ffea "general terms and conditions").
 
