@@ -3,8 +3,9 @@ Toggle navigation [![Porkbun Logo](/partners/logos/porkbun.comphpPkl2eU.svg) por
 * products
     * [Domains](https://porkbun.com/products/domains)
     * [Transfers](https://porkbun.com/transfer)
-    * [Marketplace](https://porkbun.com/marketplace)
-    * [Auctions](https://porkbun.com/auctions)
+    * [Local Marketplace](https://porkbun.com/marketplace)
+    * [Local Auctions](https://porkbun.com/auctions)
+    * [3rd Party Aftermarket](https://porkbun.com/aftermarket)
     * [Web Hosting](#)
         * [All Web Hosting Options](https://porkbun.com/products/web_hosting)
         * [Shared cPanel Hosting](https://porkbun.com/products/webhosting/cPanelHosting)
@@ -126,8 +127,9 @@ Products
 
 [Domain Names](https://porkbun.com/products/domains)  
 [Greatest Deals](https://porkbun.com/products/deals)  
-[Marketplace](https://porkbun.com/marketplace)  
-[Auctions](https://porkbun.com/auctions)  
+[Local Marketplace](https://porkbun.com/marketplace)  
+[Local Auctions](https://porkbun.com/auctions)  
+[3rd Party Aftermarket](https://porkbun.com/aftermarket)  
 [Web Hosting](https://porkbun.com/products/web_hosting)  
 [Easy WordPress](https://porkbun.com/products/webhosting/managedWordPress)  
 [Easy PHP](https://porkbun.com/products/webhosting/managedPHP)  
