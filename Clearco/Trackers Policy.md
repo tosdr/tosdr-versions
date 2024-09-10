@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66a15bbf081233c5474151c1_True%20Cost%20of%20Selling%20on%20Amazon%20(1).png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66d7894dcf852d8678ce309b_clearco-business-leadership-podcast.jpg)
 
-###### The True Cost of Selling on Amazon: A Comprehensive Guide
+###### What We Learned on The Business Leadership Podcast
 
-[Read now >](https://clear.co/blog/the-true-cost-of-selling-on-amazon)
+[Read now >](https://clear.co/blog/clearco-business-leadership-podcast)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
@@ -103,35 +103,35 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 Cookie Policy
 =============
 
-**Last updated May 25, 2022.**
+**Last updated July 23 2024.**
 
-CFT Clear Finance Technology Corp., its subsidiaries (collectively, the “Clearco”, “we”, “us” and “our”) and our third-party partners use cookies, web beacons and other similar technologies when you browse our websites, use our services or when we send you emails for collecting and storing information to help provide you with an optimal web experience. This policy provides you with information about these technologies and your choices about using them. Any personal information that we collect and store through use of these technologies is first obtained through notice and consent: We obtain your consent by providing you with transparent notice of use of the technologies and providing you with the opportunity to make a choice to disable these technologies as further described below. To learn more about our privacy practices, generally, please review our [Privacy Policy](https://clear.co/legal/privacy-policy).
+CFT Clear Finance Technology Corp., its subsidiaries (collectively, the “Clearco”, “we”, “us” and “our”) and our third-party partners use cookies, web beacons and other similar technologies when you browse our websites, use our services or when we send you emails for collecting and storing information to help provide you with an optimal web and product experience. This policy provides you with information about these technologies and your choices about using them. Any personal information that we collect and store through the use of these technologies is first obtained through notice and consent: We obtain your consent by providing you with transparent notice of the use of the technologies and providing you with the opportunity to make a choice to disable these technologies as further described below. To learn more about our privacy practices, generally, please review our [Privacy Policy](https://clear.co/privacy/).
+
+‍
 
 **What types of technologies do we use?**
 
-We use various technologies that are essentially small data files placed on your computer, mobile phone or other device (collectively, “devices”). These technologies allow us to collect information about you whenever you browse our website, use our services or receive an email from us, which in turn helps us differentiate you from other users of our websites and services and provide you with a good experience when you browse our websites or use our services. The specific names and types of cookies, web beacons and other similar technologies we or our third-party partners use may change from time to time. You are always free to block, delete, or disable these technologies, see “How to opt-out” below for more information.
+We use various technologies (“cookies”) that are essentially small data files placed on your computer, mobile phone, or another device (collectively, “devices”). These technologies allow us to collect information about you whenever you browse our website, interact with our chatbot, use our services, or receive an email from us, which in turn helps us differentiate you from other users of our websites and services and provide you with a good experience when you browse our websites or use our services. The specific names and types of cookies, web beacons, and other similar technologies we or our third-party partners use may change from time to time. You are always free to block, delete, or disable these technologies, see “How to opt-out” below for more information.
 
 ‍
 
 **Cookies**
 
-Cookies are small data files that are stored on your hard drive or in device memory by a website so it can remember something about you or your device for a later date. Among other things, cookies support the integrity of our registration process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity.
+Cookies are small data files that are stored on your hard drive, web browser, or in device memory by a website so it can remember something about you or your device for a later date. Among other things, cookies support the integrity of our registration process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity.
 
 ‍
 
 **Web Beacons**
 
-Web beacons are small electronic images that may be included on our sites, emails and services. They work in conjunction with cookies to identify our users and user behaviour, such as counting the number of visits to our website or letting us know whether an email has been opened and acted upon.
+Web beacons are small electronic images that may be included on our sites, emails, and services. They work in conjunction with cookies to identify our users and user behavior, such as counting the number of visits to our website or letting us know whether an email has been opened and acted upon.
 
 ‍
 
 **Similar Technologies**
 
-Similar technologies will store information in your browser, this includes flash cookies, HTML 5 cookies, and other web application software methods. These similar technologies can operate in your browsers and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device.
+Similar technologies will store information in your browser, this includes flash cookies, HTML cookies, and other web application software methods. These similar technologies can operate in your browsers and in some instances may not be fully managed by your browser and may require management directly through your installed applications or device.
 
-‍
-
-The cookies, web beacons and other similar technologies we use on our websites are either set by us or third-party partners. They can be categorized as follows:
+The cookies, web beacons, and other similar technologies we use on our websites are either set by us or third-party partners. They can be categorized as follows:
 
 ‍
 
@@ -143,47 +143,35 @@ Duration
 
 Description
 
-\_iub\_cs-XXXXXXXX
+G\_ENABLED\_IDPS
 
 1 year
 
-Iubenda cookie used to store cookie consent preferences.
+Google uses this cookie for Google Single Sign-On.
 
-audit
+clearco\_cc
 
 1 year
 
-Rubicon Project cookie used to record cookie consent data.
+Used to save cookie consent preferences.
 
-cb-user-token
+\_legacy\_auth0
+
+1 day
+
+Manage user authentication
+
+auth0
+
+1 day
+
+Auth0 cookie used to implement the Auth0 Session Layer.
+
+auth0\_compat
 
 Session
 
-Required for maintaining the user session on our website.
-
-cc-country
-
-3 days
-
-We use this to redirect users to their respective locale version of our website.
-
-cc-locale
-
-3 days
-
-We use this to redirect users to their respective locale version of our website.
-
-CF\_Authorization
-
-1 hour
-
-Cloudflare cookie used for protecting and permitting access to our website.
-
-G\_ENABLED\_IDPS
-
-Indefinite
-
-Used for Google Single Sign On.
+For user authentication.
 
 **Functional**. These technologies are used to increase the base functionality of our websites or for personalizing your preferences, for example, by remembering your choices for language settings.
 
@@ -195,141 +183,21 @@ Description
 
 \_\_cf\_bm
 
-30 minutes
+2 hours, 31 minutes
 
-Cloudflare cookie used by MyFonts website to prevent bot attacks.
-
-\_\_cfruid
-
-Session
-
-Calendly cookie used to override restrictions based on IP address. It does not contain any user identification information.
-
-\_\_Host-1PLSID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Host-3PLSID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Host-GAPS
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Secure-1PAPISID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Secure-1PSID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Secure-3PAPISID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Secure-3PSID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_Secure-3PSIDCC
-
-1 year
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-\_\_stripe\_orig\_props
-
-1 year
-
-Used by Stripe to identify you and facilitate payments.
-
-\_\_zlcmid
-
-1 year
-
-Zopim Live Chat cookie for identifying devices across visits.
-
-\_fingerprint
-
-1 year
-
-Iubenda identifier for managing cookie preferences.
-
-\_fw\_crm\_v
-
-1 year
-
-Freshdesk identifier for tracking chat sessions between visits.
-
-\_GRECAPTCHA
-
-6 months
-
-Google reCAPTCHA cookie used for spam protection.
-
-ACCOUNT\_CHOOSER
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their websi
 
 AEC
 
-6 months
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-APISID
-
-2 years
-
-Google Accounts cookie used for logging in to our website with your Google account.
-
-country
-
 1 year
 
-Iubenda cookie used to store cookie consent preferences.
+Ensure that requests within a browsing session are made by the user, and not by other sites.
 
 HSID
 
 2 year
 
 Google Accounts cookie used for logging in to our website with your Google account.
-
-intercom-id-skidwpst
-
-9 months
-
-Intercom messenger cookie for maintaining chat sessions across site visits.
-
-intercom-session-skidwpst
-
-7 days
-
-Intercom messenger cookie for maintaining chat sessions across site visits.
-
-locale
-
-1 year
-
-Iubenda cookie used to store cookie consent preferences.
 
 LSID
 
@@ -357,29 +225,17 @@ Duration
 
 Description
 
-\_\_utma
+\_cfuvid
 
-2 years
+Session
 
-Google Analytics unique user identifier to provide insights on our website.
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
 
-\_\_utmz
-
-6 months
-
-Google Analytics unique user identifier to provide insights on our website.
-
-\_clck
+AMP\_MKTG\_
 
 1 year
 
-Required for maintaining the user session on our website.
-
-\_clsk
-
-1 year
-
-We use this to redirect users to their respective locale version of our website.
+Used by Amplitude to gather data on the events that occur while a user is interacting with the services.
 
 \_ga
 
@@ -411,131 +267,17 @@ Google Analytics unique user identifier to provide insights on our website.
 
 Google Analytics unique user identifier to provide insights on our website.
 
-\_hjAbsoluteSessionInProgress
-
-30 minutes
-
-Used by Hotjar to track the beginning of the user's journey for a total session count. It does not contain any identifiable information.
-
-\_hjClosedSurveyInvites
+\_zitok
 
 1 year
 
-Set by Hotjar once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown.
+First-party cookie set by ZoomInfo to identify unique visitors.
 
-\_hjDonePolls
-
-1 year
-
-Set by Hotjar once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.
-
-\_hjDoneTestersWidgets
+fs\_lua
 
 1 year
 
-Set by Hotjar once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.
-
-\_hjFirstSeen
-
-30 minutes
-
-Used by Hotjar to determine if the user has visited the website before, or if it is a new visitor on the website.
-
-\_hjid
-
-1 year
-
-Set by Hotjar when the customer first lands on a page with the Hotjar script. It is used to persist the Hotjar User ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
-
-\_hjIncludedInPageviewSample
-
-2 minutes
-
-Used by Hotjar to determine if a user is included in the data sampling defined by the website's pageview limit.
-
-\_hjMinimizedPolls
-
-1 year
-
-Set by Hotjar once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through our site.
-
-\_hjSession\_XXXXXXX
-
-30 minutes
-
-Used by Hotjar to track the current user session for website analytics.
-
-\_hjSessionUser\_XXXXXXX
-
-1 year
-
-Unique user identifier used by Hotjar for website analytics.
-
-\_hjShownFeedbackMessage
-
-1 year
-
-Set by Hotjar when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.
-
-\_kuid\_
-
-6 months
-
-Tracks website usage and any advertising that the end-user may have seen before the website.
-
-\_pk\_id.X.XXXX
-
-13 months
-
-Piwik web analytics cookie for tracking visitor behaviour and site performance.
-
-\_pk\_ref.X.XXXX
-
-6 months
-
-Piwik web analytics cookie for tracking visitor behaviour and site performance.
-
-\_pk\_ses.X.XXXX
-
-30 minutes
-
-Piwik web analytics cookie for tracking visitor behaviour and site performance.
-
-amp\_6b49b9
-
-1 year
-
-Amplitude cookie that stores and tracks interaction with our website.
-
-amplitude\_idundefinedclearbanc.com
-
-Session
-
-Amplitude cookie that stores and tracks interaction with our website.
-
-cid
-
-Session
-
-Amplitude cookie that stores and tracks interaction with our website.
-
-demdex
-
-6 months
-
-Adobe Audience Manager cookie for visitor identification, ID synchronization, segmentation, modeling, reporting, and so on.
-
-dextp
-
-5.5 months
-
-Adobe Audience Manager cookie for visitor identification, ID synchronization, segmentation, modeling, reporting, and so on.
-
-dpm
-
-6 months
-
-Adobe Audience Manager cookie for visitor identification, ID synchronization, segmentation, modeling, reporting, and so on.
+FullStory data tracking for analyzing usage behaviour of our website.
 
 fs\_uid
 
@@ -543,131 +285,59 @@ fs\_uid
 
 FullStory data tracking for analyzing usage behaviour of our website.
 
-gpv\_pn
+ajs\_anonymous\_id
 
-6 months
+1 year
 
-LinkedIn cookie used with Adobe Analytics for tracking performance.
+This cookie is set by Segment to count the number of people who visit a certain site by tracking if they have visited before.
 
-li\_sugr
+ajs\_user\_id
+
+1 year
+
+This cookie is set by Segment to help track visitor usage, events, target marketing, and also measure application performance and stability.
+
+amplitude\_id\_
+
+1 year
+
+Used by Amplitude to gather data on the events that occur while a user is interacting with the services.
+
+\_cq\_duid
 
 3 months
 
-LinkedIn cookie identifying users for analytics.
+This cookie is set by CHEQ AI Technologies. Used to monitor the technical information and use of devices that connect to our website to protect it from malicious traffic.
 
-lms\_analytics
+\_cq\_suid
 
-30 days
+Session
 
-LinkedIn cookie identifying users for analytics.
+This cookie is set by CHEQ AI Technologies. Used to monitor the technical information and use of devices that connect to our website to protect it from malicious traffic.
 
-lpv884083
-
-30 minutes
-
-Visitor cookie tracking website behavior.
-
-machine\_identifier
+ko\_id
 
 1 year
 
-Stripe cookie for analytics and service improvements.
+Segment Third-party Segment related analytics.
 
-mkjs\_group\_id
+ko\_sid
 
-1 year
+1 day
 
-Segment cookie for tracking user activity on our website.
+Segment Third-party Segment related analytics.
 
-mkjs\_user\_id
-
-1 year
-
-Segment cookie for tracking user activity on our website.
-
-MR
-
-30 days
-
-Microsoft Bing analytics cookie used to pass user action information to the Bing advertising network.
-
-MUID
-
-13 months
-
-Microsoft Bing cookie that enables tracking by synchronizing the ID across many Microsoft domains.
-
-private\_machine\_identifier
+\_mkto\_trk
 
 1 year
 
-Stripe cookie for analytics and service improvements.
+This tracks visitor behaviour on the sites on which the cookie is installed and to link a visitor to the recipient of an email marketing campaign, to measure campaign effectiveness.
 
-PugT
+AMP\_
 
-30 days
+1 year
 
-PubMatic cookie that tracks when the cookies were updated in the browser to limit the number of calls to the server-side cookie store.
-
-s\_cc
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_fid
-
-6 months
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_ips
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_plt
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_pltp
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_ppv
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_tp
-
-Session
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-s\_tslv
-
-6 months
-
-LinkedIn cookie used with Adobe Analytics for tracking performance.
-
-SPugT
-
-21 days
-
-PubMatic cookie that tracks when the cookies were updated in the browser to limit the number of calls to the server-side cookie store.
-
-U
-
-3 months
-
-LinkedIn cookie identifying users for analytics.
+Used by Amplitude to gather data on the events that occur while a user is interacting with the services.
 
 ‍
 
@@ -685,53 +355,11 @@ Description
 
 Google ads targeting and optimization.
 
-\_\_qca
-
-13 months
-
-Rubicon Project cookie used to record cookie consent data.
-
-\_\_vero\_visit
-
-Session
-
-Quantcast cookie that stores and tracks audience reach.
-
-\_\_veroc4
-
-Session
-
-Getvero cookie for tracking email advertising conversion.
-
 \_fbp
 
 3 months
 
-Getvero cookie for tracking email advertising conversion.
-
-\_gat\_gtag\_UA\_68116741\_7
-
-1 minute
-
-Facebook ads targeting.
-
-\_hp2\_id.XXXXXXXXX
-
-13 months
-
-Google ads targeting and optimization.
-
-\_hp2\_props.XXXXXXXXX
-
-13 months
-
-Heap Analytics cookie for tracking user behaviour and ad targeting.
-
-\_hp2\_ses\_props.XXXXXXXXX
-
-30 minutes
-
-Heap Analytics cookie for tracking user behaviour and ad targeting.
+Used by Facebook to deliver a series of advertisement products such as realtime bidding from third party advertisers.
 
 \_rdt\_uuid
 
@@ -751,36 +379,6 @@ Cloudflare cookie used for protecting and permitting access to our website.
 
 Cloudflare cookie used for protecting and permitting access to our website.
 
-A3
-
-1 year
-
-Cloudflare cookie used for protecting and permitting access to our website.
-
-ad-id
-
-6 months
-
-Cloudflare cookie used for protecting and permitting access to our website.
-
-ad-privacy
-
-5 years
-
-Cloudflare cookie used for protecting and permitting access to our website.
-
-AnalyticsSyncHistory
-
-30 minutes
-
-Cloudflare cookie used for protecting and permitting access to our website.
-
-audience
-
-1 year
-
-SpotxChange cookie that determines whether the video-ads have been displayed correctly on the website and detects whether the visitor has any Do Not Track preferences.
-
 bcookie
 
 2 year
@@ -793,83 +391,29 @@ bscookie
 
 Ads targeting cookie for LinkedIn.
 
-cb\_anonymous\_id
-
-1 year
-
-Clearbit cookie for tracking marketing performance.
-
 cb\_group\_id
 
 1 year
 
-Clearbit cookie for tracking marketing performance.
+For Adroll & Clearbit marketing integration.
 
 cb\_user\_id
 
 1 year
 
-Ads targeting cookie for LinkedIn.
+For Adroll & Clearbit marketing integration.
 
-chkChromeAb67Sec
-
-3 months
-
-PubMatic cookie used in Chrome browsers for testing purposes related to ad targeting.
-
-CMID
+cb\_anonymous\_id
 
 1 year
 
-Advertisement tracking cookie from Casale Media.
-
-CMPRO
-
-3 months
-
-CasaleMedia anonymous tracking and targeted advertising.
-
-CMPS
-
-3 months
-
-CasaleMedia anonymous data tracking related to website usage behaviour.
-
-CMRUM3
-
-1 year
-
-CasaleMedia anonymous tracking and targeted advertising.
-
-CMST
-
-1 day
-
-CasaleMedia anonymous tracking and targeted advertising.
-
-d
-
-3 months
-
-Ads targeting cookie for Yahoo.
-
-DPSync3
-
-80 days
-
-PubMatic cookie for tracking synchronization of the user’s pixel cookies.
+For Adroll & Clearbit marketing integration.
 
 DV
 
 10 minutes
 
 Google ads targeting and optimization.
-
-EE
-
-4 months
-
-Nielsen third-party cookie that provides data collection, data segmentation, and data distribution to facilitate interest-based advertising.
 
 fr
 
@@ -879,33 +423,9 @@ Facebook ads targeting.
 
 IDE
 
-2 years
-
-DoubleClick third-party targeting cookie for Google Ads.
-
-IDSYNC
-
 1 year
 
-Ads targeting cookie for Yahoo.
-
-KADUSERCOOKIE
-
-3 months
-
-PubMatic unique user identifier.
-
-khaos
-
-1 year
-
-Rubicon Project internal user identifier used for advertising analytics.
-
-KRTBCOOKIE\_XXX
-
-2-90 days
-
-PubMatic cookie used to correlate internal user IDs with those of advertising partners for making advertisement decisions.
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
 
 lang
 
@@ -925,29 +445,11 @@ lms\_ads
 
 Ads targeting cookie for LinkedIn.
 
-mc
-
-13 months
-
-Quantcast user behaviour tracking for marketing purposes.
-
 NID
-
-6 months
-
-Google ads targeting and optimization.
-
-PUBMDCID
-
-3 months
-
-PubMatic logical data center ID for advertising purposes.
-
-SEUNCY
 
 1 year
 
-Semasio cookie used for tracking ad conversion and marketing purposes.
+The NID cookie contains a unique ID Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20), and whether or not you wish to have Google's SafeSearch filter turned on.
 
 SID
 
@@ -961,123 +463,67 @@ SIDCC
 
 Google ads targeting and optimization.
 
-smc\_not
-
-10 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_refresh
-
-2 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_sesn
-
-10 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_not
-
-10 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_spv
-
-Session
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_tag
-
-1 year
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_tpv
-
-10 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smc\_uid
-
-10 years
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
-smct\_session
-
-21 days
-
-Smarterclick cookie for tracking user behaviour and presenting targeted ads.
-
 SSID
 
 2 years
 
 Google ads targeting and optimization.
 
-SyncRTB3
+\_uetsid
+
+1 day
+
+This contains the session ID for a unique session on the site.
+
+\_uetvid
+
+1 year
+
+This is a cookie utilised by Microsoft Bing Ads and is a tracking cookie. It allows us to engage with a user that has previously visited our website.
+
+\_rdt\_uuid
 
 3 months
 
-PubMatic cookie for tracking synchronization of the user’s pixel cookies.
-
-t-ip
-
-5 minutes
-
-Tatari cookie for tracking TV ad performance.
-
-tatari-cookie-test
-
-10 years
-
-Tatari cookie for tracking TV ad performance.
-
-tatari-session-cookie
-
-10 years
-
-Tatari cookie for tracking TV ad performance.
-
-ud
-
-4 months
-
-Nielsen third-party cookie that provides data collection, data segmentation, and data distribution to facilitate interest-based advertising.
-
-UserMatchHistory
-
-30 days
-
-Ads targeting cookie for LinkedIn.
-
-uuid2
-
-3 months
-
-AppNexus cookie for tracking ad conversion.
-
-**Social Media**. These technologies are used when you share information using a social media sharing button or “like” button on our website or you link your account or engage with our content on or through a social media website. The social network will record that you have done this. This information may be linked to advertising activities.
+Used to attribute conversions back to Reddit Ads.
 
 ‍
 
 **How to opt-out**
 
-You may also opt-out of the use of cookies, web beacons and other similar technologies by changing the settings on your internet browser, for example, to stop accepting them or to prompt you before accepting them from our website. You can find more information about how to do this by reviewing the ‘help’ section of your internet browser or visiting [www.allaboutcookies.org](https://www.allaboutcookies.org/) and [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). Please note that if you change your internet browser settings to stop accepting cookies, web beacons and other similar technologies from our websites, you may not be able to access or properly use all or parts or functionality of our websites and services.
+You may also opt-out of the use of cookies, web beacons, and other similar technologies by changing the settings on your internet browser, for example, to stop accepting them or to prompt you before accepting them from our website. You can find more information about how to do this by reviewing the ‘help’ section of your internet browser or visiting [www.allaboutcookies.org](https://www.allaboutcookies.org/) and [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). 
+
+Please note that if you change your internet browser settings to stop accepting cookies, web beacons, and other similar technologies from our websites, you may not be able to access or properly use all or parts or functionality of our websites and services.
 
 Unlike cookies, you cannot decline web beacons. However, configuring your browser to either automatically decline cookies or to prompt for a response may keep web beacons from tracking activity.
 
 ‍
 
-**Updates to this policy**
+**Third-Party Cookies**
 
-This policy may be updated by us from time to time without notice to you, so please review it frequently. You may review updates to this policy at any time via link on www.clear.co. You agree to accept electronic communications and/or postings of revised versions of this policy on www.clear.co and agree that such electronic communications or postings constitute notice to you of the revised version of this policy. Changes take effect immediately upon posting.
+Clearco uses third-party analytics providers such as Facebook, Google Analytics, LinkedIn, to better understand your interaction with our websites, products, and services. These cookies track various details of your interactions on our websites.  Clearco continues to be committed to updating this Policy periodically and provide you information about our third-party analytics providers. 
+
+Many third-party analytics providers offer you the opportunity to opt-out of their tracking systems. You can read more about the information they collect and how to opt-out through the privacy policy links listed below:
+
+Name
+
+More information
+
+Facebook
+
+[https://www.facebook.com/policy.php](https://policies.google.com/privacy)
+
+Google Analytics
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+LinkedIn
+
+[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
+
+**Updates to this Policy**
+
+This policy may be updated by us from time to time without notice to you, so please review it frequently. You may review updates to this policy at any time via a link on www.clear.co. You agree to accept electronic communications and/or postings of revised versions of this policy on www.clear.co and agree that such electronic communications or postings constitute notice to you of the revised version of this policy. Changes take effect immediately upon posting.
 
 [![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660190120ed591c2ca6658f4_clearco-logo-black.png)](#)
 
