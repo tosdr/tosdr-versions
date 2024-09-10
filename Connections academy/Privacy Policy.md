@@ -105,7 +105,7 @@
             * [FAQs](https://www.connectionsacademy.com/support/frequently-asked-questions/)
             * [How it Works](https://www.connectionsacademy.com/support/how-it-works/)
             * [Technology Support](https://www.connectionsacademy.com/support/technology/)
-            * [Resource Hub Blog](https://www.connectionsacademy.com/support/resources/)
+            * [Connections Academy Blog](https://www.connectionsacademy.com/support/resources/)
             * [Information Sessions](https://www.connectionsacademy.com/support/events/)
             * [Online School eGuide](https://www.connectionsacademy.com/support/online-school-eguide/)
             * [School Store](https://www.connectionsacademy.com/support/school-store/)
@@ -204,7 +204,7 @@
         
         [![Resource Hub Blog icon](/content/dam/pvs/ca/icons/hubblog.svg)
         
-        ###### Resource Hub Blog
+        ###### Connections Academy Blog
         
         Explore helpful tips, tricks, and more.](https://www.connectionsacademy.com/support/resources/)
         
