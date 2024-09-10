@@ -6,31 +6,35 @@
 
 ![](https://privatephoneshop.com/wp-content/uploads/2024/01/1_new_horizontal-300x98.png)](https://privatephoneshop.com/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
 [0 $0.00](#)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
