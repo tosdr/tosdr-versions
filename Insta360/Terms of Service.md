@@ -46,6 +46,10 @@ Professional VR Cameras
 
 [Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2/)[Insta360 TITAN](https://www.insta360.com/product/insta360-titan/)[Insta360 Pro](https://www.insta360.com/product/insta360-pro/)[Accessories](https://www.insta360.com/shop/pro2)
 
+Conferencing
+
+[Insta360 Connect](https://www.insta360.com/product/insta360-connect/)
+
 Industries
 
 Products
@@ -66,15 +70,15 @@ Support
 
 Shop by Interest
 
-[![insta360](https://res.insta360.com/static/487a7569fff274f4b35c85679630dcc6/NavWinterSports.jpg)
+[![insta360](https://res.insta360.com/static/d93d04cba1e57b20a6eb77bcadccb2c2/Motorcycle.jpg)
 
-Winter Sports](https://store.insta360.com/wintersports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/d8dd9a9a4071796cbe539dee99bd10b4/NavMotorcycle.jpg)
+Motorcycle](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/d8016480b0cd3a9b2b5507c1b5be05cf/WaterSports.jpg)
 
-Motorcycle](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/a46152f8883022b113ec2a03fa0f24d3/NavBiking.jpg)
+Water Sports](https://store.insta360.com/water-sports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/9af1a60fefc6558c1fdce30406fe9767/Biking.jpg)
 
-Biking](https://store.insta360.com/biking?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/e2736fbe471cdd1700b52f01d9ff934c/NavWaterSports.jpg)
+Biking](https://store.insta360.com/biking?i_source=website&i_medium=menu_button&i_campaign=interest_drop)[![insta360](https://res.insta360.com/static/3b367cfe96c778b09dbd26d0167b10f9/WinterSports.jpg)
 
-Water Sports](https://store.insta360.com/water-sports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)
+Winter Sports](https://store.insta360.com/wintersports?i_source=website&i_medium=menu_button&i_campaign=interest_drop)
 
 ![insta360](https://static.insta360.com/assets/storage/20200415/5dcca8dd62b5ac5d7b910ba9ec84e860/en_us_2x.png)
 
@@ -463,12 +467,6 @@ Get the latest news from Insta360
 ![insta360](https://res.insta360.com/static/assets/storage/20200824/9a8e3f626ea9badeb5e4220ba6efa157/ic_black.svg)![insta360](https://res.insta360.com/static/6eb49b39147280e210ef9b7b907696e2/Rectangle%205%20(Stroke).svg)
 
 \*You can learn more about how we handle your user data through our [privacy policy](https://www.insta360.com/support/supportcourse?post_id=20166).
-
-Arashi Vision Inc
-
-Call Service: +1 800 692 0360
-
-Office Hours: Mon-Fri 7:00-17:00 (PST)
 
 [![tiktok](https://res.insta360.com/static/e3681f1dde1f82c10c7d87adf84f2144/1006.svg)![tiktok](https://res.insta360.com/static/assets/storage/20210420/8088adf76b82f555d0836bf0f2cd9244/icon_tiktok_hover.svg)](https://www.tiktok.com/@insta360_official)[![youtube](https://res.insta360.com/static/fad5413ac440fd1af62b7e998af1de90/10001-(1)%20(1).svg)![youtube](https://res.insta360.com/static/assets/storage/20210420/675916cae0e6dbd60ed9593b2bc220f9/icon_youtube_hover.svg)](https://www.youtube.com/c/insta360)[![twitter](https://res.insta360.com/static/77f76cf49335f413211aa16992550ddb/icon-x.svg)![twitter](https://res.insta360.com/static/430a50a064ee6890dca324cce086eef8/icon-x-hover.svg)](https://twitter.com/insta360)[![facebook](https://res.insta360.com/static/627e398e6e1a009ae8fdca6bde3b833e/10005-(1)%20(1).svg)![facebook](https://res.insta360.com/static/assets/storage/20210420/5627d043dfd5982678bac46e046c8acc/icon_fb_hover.svg)](https://www.facebook.com/Insta360)[![instagram](https://res.insta360.com/static/ee50f7f021ab074ba85eed3a8748a686/10003%20(1).svg)![instagram](https://res.insta360.com/static/assets/storage/20210420/9cdaf4f45d44ea82789605d562f9bbcd/icon_ig_hover.svg)](https://www.instagram.com/insta360/)
 
