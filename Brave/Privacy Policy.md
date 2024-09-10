@@ -168,7 +168,9 @@ Web Discovery Project[](#web-discovery-project "Permalink to this headline")
 
 The Web Discovery Project is intended to make Brave Search more relevant and useful for everyone. If you opt in, you’ll contribute some anonymous data about searches and web page visits made within the Brave Browser (including pages arrived at via some, but not all, other search engines). This data helps build the Brave Search independent index, and ensure we show relevant results to your search queries and support more relevant experiences with Brave products and services.
 
-Collection is done in a privacy preserving fashion. By default, the Web Discovery Project discards search queries that are too long or suspicious looking (e.g. those that include phone numbers). It also discards odd URLs (e.g. those containing hashes), URLs of pages with a no-index flag, and pages that are not public or require any sort of authentication.
+Collection is done in a privacy-preserving fashion. The Web Discovery Project records the terms you search for on some search engines if that search query passes a series of checks, intended to avoid recording or sending sensitive queries. For example, WDP will not send search queries that are very long, including email addresses or long numbers.
+
+WDP also records some of the pages you visit, if the URLs pass a series of checks designed to filter out unique or identifying URLs. For example, URLs that are too long or include certain terms or long numbers are never sent. Additionally, WDP protects the URLs you send by encrypting them in a manner that prevents Brave from seeing or reading the URL unless it has been sent by a large number of other users.
 
 The system is designed so that no data received can be linked back to individuals or their devices. For a URL to be sent it needs to be visited independently by a large number of people. All data received is unlinkable, making it impossible to build profiles or sessions of Web Discovery Project contributors.
 
@@ -267,18 +269,35 @@ Help with privacy settings in Brave[](#help-with-privacy-settings-in-brave "Perm
 
 You can find guides on how to change privacy settings in Brave [in the Help Center.](https://support.brave.com/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-).
 
-Contacting Brave about your privacy[](#contacting-brave-about-your-privacy "Permalink to this headline")
---------------------------------------------------------------------------------------------------------
+Contacting Brave about your personal data and privacy rights[](#contacting-brave-about-your-personal-data-and-privacy-rights "Permalink to this headline")
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We are always interested in hearing and responding to questions and concerns at [twitter.com/brave](https://twitter.com/brave) and at [github.com/brave](https://github.com/brave). More in-depth conversations can be had at [community.brave.com](https://community.brave.com/).
+To contact our data protection officer and privacy team with privacy related enquiries, or to exercise your data protection and privacy rights, email [privacy@brave.com](mailto:privacy@brave.com).
 
-We are represented in Europe by Brave Software Europe Ltd (based in the UK). You can contact our data protection officer and the rest of our privacy team at [privacy@brave.com](mailto:privacy@brave.com). However, from the 1st January 2021, given the UK’s exit from the EU, Brave has appointed an EU nominated representative and which you may contact if you would prefer not to contact Brave directly:
+It’s Brave’s policy to not collect personal data[1](#fn:1) unless it’s necessary to provide services to our users, or to meet certain legal obligations. We do not buy or sell personal data about consumers.
 
-Brave EU Nominated Representative Care of Castlebridge Unit 7, 12 Mountjoy Square, Dublin 1 Ireland
+Where we process personal data about you (subject to laws such as the EU General Data Protection Regulation ([GDPR](https://brave.com/glossary/gdpr/)), or California privacy [laws](https://cppa.ca.gov/regulations/) such as the [CCPA](https://brave.com/glossary/ccpa/) or CPRA), you have the following rights:
+
+* **Right to be informed**: You have the right to know what personal data we process about you and why, together with information about your rights. We explain this via our product privacy policies and/or contextual privacy notices.
+* **Right of access**: Where we process personal data about you, you have the right to request a copy of it.
+* **Right to delete**: When certain grounds apply, you can ask us to delete personal data we are processing about you. Please note, we have a separate global policy for Brave Search results and the [right to be forgotten](https://search.brave.com/help/brave-search-index-right-to-be-forgotten).
+* **Right to rectification**: You can ask us to correct inaccurate personal data and/or to update incomplete data.
+* **Right to restriction**: In certain circumstances, you can request that we refrain from processing your personal data.
+* **Right to object**: In certain circumstances, you can object to the processing of your personal data (for example to object to the use of your data for profiling and/or purely automated decision making). Please note that we do not buy or sell personal data about consumers.
+* **Right to data portability**: In certain circumstances you have the right to request and receive personal data in a structured, commonly used, machine readable format that makes it possible to reuse the data. Please note, anonymous data is not subject to this right.
+* **Right to lodge a complaint with a regulatory authority**: Brave is based in the USA. The authority to lodge a complaint about Brave will depend on where you live. If you’re in the EU you can contact our nominated representative under the General Data Protection Regulation (GDPR), or you can complain to the [Irish Data Protection Commissioner](https://www.dataprotection.ie/). If you’re in the UK you can complain to the [Information Commissioner’s Office](https://ico.org.uk/). If you’re in California you can complain to the [California Privacy Protection Agency](https://cppa.ca.gov/).
+
+For EU residents, we have appointed a nominated representative under the [GDPR](https://commission.europa.eu/law/law-topic/data-protection/eu-data-protection-rules_en) to act on our behalf regarding GDPR compliance. You may contact our nominated representative if you wish; however, the representative will refer enquiries to Brave’s data protection officer for consideration.
+
+Our EU nominated representative is:
+
+Brave EU Nominated Representative  
+Care of Castlebridge  
+New Work Junction  
+Clonard, Wexford  
+Ireland
 
 [brave@gdprnomrep.eu](mailto:brave@gdprnomrep.eu)
-
-You can ask to know what information we have about you, update incorrect information, delete it, object to our use of it, or get a copy of it. If you’re in the European Union, you also have the right to complain to your [local data protection authority](https://edpb.europa.eu/about-edpb/about-edpb/members_en) (though everyone should have this right).
 
 We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know. We hope you’ll find any changes agreeable, but if you’re not comfortable with changes to the info we collect or how we use it, we understand your choice to stop using Brave. 
 
@@ -286,4 +305,6 @@ We’ll update this policy whenever we make material changes to our practices, a
 
 * * *
 
-1. Data are personal if the data can single a person out (on their own or in combination with other data), without an unlikely degree of effort or expense or technological development. The GDPR definition of “personal data” includes any data that can indirectly contribute to singling out an individual, including unique IDs codes, certain types of IP addresses, and encrypted data that one can decrypt without disproportionate effort. But data that are entirely impossible to access are not personal. [↩︎](#fnref:1)
+1. Personal data means any information that relates to an identified or identifiable living individual. In the USA, this is often referred to as Personal Information (PI) or Personally Identifiable Information (PII). These terms are equivalent but not identical.
+    
+    This can include information that can directly identify an individual—such as name or email address—and any other information that may make a person indirectly identifiable—such as online identifiers that could be combined with other data to identify an individual, or used on their own to single out individuals and distinguish one person from another with an intent to learn something about them or to take an action towards them. [↩︎](#fnref:1) [↩︎](#fnref1:1)
