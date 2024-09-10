@@ -107,11 +107,11 @@ ELA Games for Kids
 
 Browse by Subject & Grade
 
-[Math](https://www.splashlearn.com/math)[ELA](https://www.splashlearn.com/ela)[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+[Math](https://www.splashlearn.com/math)[ELA Games for Kids](https://www.splashlearn.com/ela)[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
 
 SplashLearn Content
 
-[For Classrooms](https://www.splashlearn.com/features/teachers)[For HomeSchoolers](https://www.splashlearn.com/features/parents)[Math Games](https://www.splashlearn.com/math-game)[Math Games for kindergarten](https://www.splashlearn.com/math-games-for-kindergarteners)[Math Games for 1st Grader](https://www.splashlearn.com/math-games-for-1st-graders)[Math Games for 2nd Grader](https://www.splashlearn.com/math-games-for-2nd-graders)[Math Games for 3rd Grader](https://www.splashlearn.com/math-games-for-3rd-graders)[Math Games for 4th Grader](https://www.splashlearn.com/math-games-for-4th-graders)[Math Games for 5th Grader](https://www.splashlearn.com/math-games-for-5th-graders)[Commmon Care Math Vocabulary](https://www.splashlearn.com/math-vocabulary)
+[For Classrooms](https://www.splashlearn.com/features/teachers)[For HomeSchoolers](https://www.splashlearn.com/features/parents)[Math Games](https://www.splashlearn.com/math-games)[Math Games for kindergarten](https://www.splashlearn.com/math-games-for-kindergarteners)[Math Games for 1st Grader](https://www.splashlearn.com/math-games-for-1st-graders)[Math Games for 2nd Grader](https://www.splashlearn.com/math-games-for-2nd-graders)[Math Games for 3rd Grader](https://www.splashlearn.com/math-games-for-3rd-graders)[Math Games for 4th Grader](https://www.splashlearn.com/math-games-for-4th-graders)[Math Games for 5th Grader](https://www.splashlearn.com/math-games-for-5th-graders)[Common Core Math Vocabulary](https://www.splashlearn.com/math-vocabulary)
 
 Resources
 
@@ -163,10 +163,6 @@ Sign Up for SplashLearn
 or
 
  [![Teacher](https://cdn.splashmath.com/assets/avatars/teacher-cd012e1ac776c5161b3cb011e8a6376cf239e910f410b152dba72a498dbad843.png)](https://www.splashlearn.com/teachers/register)[For Teachers](https://www.splashlearn.com/teachers/register)
-
-In order to give you the best experience, we use cookies and similar technologies for performance, analytics, personalisation, advertising, and to help our site function. Want to know more? Read our [Cookie Policy](https://www.splashlearn.com/cookies_info_setting). You can change your preferences any time in your Privacy Settings.
-
-I Accept[Update Privacy Settings](https://www.splashlearn.com/cookies_info_setting?manageCookie=1)
 
 Parents Only
 ============
