@@ -1,9 +1,5 @@
 [Skip to main content](#main-content)
 
-[Autism Speaks](https://www.autismspeaks.org/?utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=autismspeaks) [My Autism Guide](https://guide.autismspeaks.org/?utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=myautismguide) [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=GlobalNav&s_subsrc=AutismSpeaks.org&utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=walk)
-
-[Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
-
 [![Autism Speaks](/themes/custom/particle/apps/drupal/logo_as.png)](https://www.autismspeaks.org/)
 
 [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=WalkButtonMobile) [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
@@ -73,6 +69,7 @@
     * [Workplace giving](https://www.autismspeaks.org/employee-giving "Workplace giving")
     
     * [Advocate](https://www.autismspeaks.org/advocate "Autism Speaks Advocacy")
+    * [Voting](https://www.autismspeaks.org/autism-votes "Autism voting resources")
     
     * [Corporate partnership](https://www.autismspeaks.org/corporate-partner "Corporate partnership of Autism Speaks")
     * [Become a partner](https://www.autismspeaks.org/become-partner "Support us")
@@ -155,6 +152,7 @@
     * [Workplace giving](https://www.autismspeaks.org/employee-giving "Workplace giving")
     
     * [Advocate](https://www.autismspeaks.org/advocate "Autism Speaks Advocacy")
+    * [Voting](https://www.autismspeaks.org/autism-votes "Autism voting resources")
     
     * [Corporate partnership](https://www.autismspeaks.org/corporate-partner "Corporate partnership of Autism Speaks")
     * [Become a partner](https://www.autismspeaks.org/become-partner "Support us")
@@ -182,7 +180,6 @@
 * [Blog](https://www.autismspeaks.org/blog)
 * [Events](https://www.autismspeaks.org/events)
 * [Careers](https://www.autismspeaks.org/autism-speaks-careers)
-* [My Autism Guide](https://guide.autismspeaks.org/?utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=myautismguide)
 * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=GlobalNav&s_subsrc=AutismSpeaks.org&utm_source=autismspeaks.org&utm_medium=text-link&utm_campaign=global-nav&utm_term=walk)
 * [Donate](https://autismspeaks.donorsupport.co/-/XHGEUVBH)
 * Select Your Location
