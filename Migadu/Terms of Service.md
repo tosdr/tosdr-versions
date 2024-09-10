@@ -184,4 +184,4 @@ This agreement shall be governed in all respects by the laws of the Canton of Ap
 ![](/svg/swiss.svg)  
 
 For the world, Made in Switzerland  
-Copyright © [Migadu-Mail GmbH](https://ar.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-334.933.960) 2023
+Copyright © [Migadu-Mail GmbH](https://ar.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-334.933.960) 2024
