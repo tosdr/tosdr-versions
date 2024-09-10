@@ -73,40 +73,17 @@ Submit
 * [Pricing](https://newrelic.com/pricing)
 * Solutions
     
-    Solutions
+    ![Customer Stories](/sites/default/files/2024-08/customer-stories-desktop-jpg.jpg)
     
-    [![APM icon](/sites/default/files/2023-08/solutions-apm.svg)
+    The world's leading companies run on New Relic.
     
-    Customers on APM
-    
-    Customers on managing distributed systems, improving user experience, and more.](https://newrelic.com/blog/how-to-relic/customers-apm-monitoring)
-    
-    [![Kubernetes icon](/sites/default/files/2023-08/solutions-kubernates.svg)
-    
-    IGS Cut Costs
-    
-    How IGS cut costs while improving monitoring.](https://newrelic.com/blog/how-to-relic/igs-cut-costs-observability-monitoring)
-    
-    [![Ecommerce icon](/sites/default/files/2023-08/solutions-ecommerce.svg)
-    
-    William Hill
-    
-    William Hill improves MTTR by 80%.](https://newrelic.com/customers/william-hill)
-    
-    1
-    
-    2
-    
-    3
-    
-    [View Customer Stories View Customer Stories](https://newrelic.com/customers)
+    [Customer Stories Customer Stories](https://newrelic.com/customers)
     
     Use Cases
     
     * [Digital Experience Monitoring](https://newrelic.com/solutions/digital-experience-monitoring)
     * [Go from reactive to responsive](https://newrelic.com/practices/reactive-to-responsive)
     * [DevOps](https://newrelic.com/devops)
-    * [Cloud Adoption](https://newrelic.com/solutions/cloud-adoption)
     * [Tool Consolidation](https://newrelic.com/solutions/tool-consolidation)
     * [Open Source](https://newrelic.com/solutions/open-source)
     
@@ -116,7 +93,7 @@ Submit
     * [Healthcare](https://newrelic.com/solutions/industry/healthcare)
     * [Media & Entertainment](https://newrelic.com/solutions/industry/digital-media-monitoring)
     * [New Relic for Startups](https://newrelic.com/solutions/industry/startups)
-    * [Non Profit](https://newrelic.com/social-impact/signup)
+    * [Nonprofit](https://newrelic.com/social-impact/signup)
     * [Public Sector](https://newrelic.com/solutions/industry/public-sector)
     
     Technologies
@@ -152,6 +129,7 @@ Submit
     
     3
     
+* [Enterprise](https://newrelic.com/solutions/enterprise-monitoring)
 * Developers
     
     Developers
@@ -237,8 +215,6 @@ Submit
     
 * Resources
     
-    Resources
-    
     * [About Us](https://newrelic.com/about)
     * [Leadership](https://newrelic.com/about/leadership)
     * [Careers](https://newrelic.com/about/culture)
@@ -247,25 +223,32 @@ Submit
     * [Newsroom](https://newrelic.com/about/newsroom)
     * [ESG](https://newrelic.com/about/environmental-social-governance)
     * [Community Forum](https://forum.newrelic.com/s)
+    * [Technical Support](https://support.newrelic.com/)
     
+    * [Customer Stories
+        
+        Videos and case studies show how companies win with observability.](https://newrelic.com/customers)
     * [Resource Library
         
         Ebooks, data sheets, and white papers.](https://newrelic.com/resources)
     * [New Relic Blog
         
         Industry updates, tips, and best practices.](https://newrelic.com/blog)
-    * [Observability Value Calculator
-        
-        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     * [Events & Webinars
         
         Join us for an upcoming event or training.](https://newrelic.com/events)
     * [New Relic University
         
         Learning paths and training courses.](https://learn.newrelic.com/)
-    * [Technical Support
+    * [Observability Value Calculator
         
-        Expert support for our global clients.](https://support.newrelic.com/)
+        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
+    
+    [![Gartner resource icon](/sites/default/files/2024-08/Gartner%20Leader.svg)
+    
+    2024 Magic Quadrant™️
+    
+    Download your copy of the Gartner®️ Magic Quadrant™️ for Observability Platforms.](https://newrelic.com/resources/gartner-magic-quadrant-observability)
     
     [![APM logo](/sites/default/files/2024-04/1-APM.svg)
     
@@ -279,19 +262,12 @@ Submit
     
     Learn how a unified platform for APM and infrastructure monitoring can streamline operations and reduce costs.](https://newrelic.com/resources/ebooks/single-platform-infrastructure-monitoring-apm)
     
-    [![Architecture icon](/sites/default/files/2024-04/3-architecture.svg)
-    
-    Monitor SaaS apps
-    
-    Maximize your SaaS application's efficiency with New Relic strategic monitoring solutions for multi-tenant environments.](https://newrelic.com/blog/how-to-relic/monitoring-multi-tenant-saas-applications)
-    
     1
     
     2
     
     3
     
-* [Docs](https://docs.newrelic.com/)
 
 Search toggle
 
@@ -299,60 +275,58 @@ Search toggle
 
 [Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Get Demo Get Demo](https://newrelic.com/request-demo)
 
-Cookie Policy
-=============
+New Relic Cookie Policy
+=======================
 
 Scope
 -----
 
-This Cookie Policy (“Policy”) explains how New Relic, Inc. and its subsidiaries (“New Relic”), use cookies and other similar technologies on our: (1) websites, such as: [http://www.newrelic.com](http://www.newrelic.com/), [https://www.newrelic.de](https://www.newrelic.de/), discuss.newrelic.com, learn.newrelic.com, docs.newrelic.com, and any related New Relic website  (together the “Site”); and (2) the New Relic product services that you purchase, such as: rpm.newrelic.com, synthetics.newrelic.com, insights.newrelic.com, infrastructure.newrelic.com, and any other services sold by New Relic (together the “Services”). This policy does not apply to cookies that may be part of New Relic’s product offerings placed on our customers’ websites, for which our customers are the data controller. For more information on those cookies, please see [the applicable documentation](https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies). This policy does not apply to the privacy practices of third party websites which may be linked to this Site.  This Policy was last updated on June 21, 2018.
+This Cookie Policy (“Policy”) explains how New Relic, Inc. and its subsidiaries (“New Relic”), use cookies and other similar technologies on our website, [http://www.newrelic.com](http://www.newrelic.com/), and any related New Relic website (together the “Site”). This Policy does not apply to cookies that may be part of New Relic’s product offerings placed on our customers’ websites, for which our customers are the data controller. For more information on those cookies, please see [the applicable documentation](https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies). This Policy does not apply to the privacy practices of third party websites which may be linked to this Site. This Policy was last updated in August 2024.
 
 **Consent**
 
-**By continuing to visit our Site or use our Services, you are agreeing to the use of cookies and other similar technologies for the purposes we describe in this Policy.**
+**When you visit our Site, you will be given the option to choose whether or not you agree to the use of cookies and other similar technologies for the purposes we describe in this Policy.**
 
 **Cookies**
 
-Cookies are small text files which are downloaded to your browser when you visit a website. Most web pages contain elements from multiple web domains so when you visit our Site and Services, your browser may receive cookies from several sources. This includes third parties that we have hired to provide services on our behalf, such as site analytics or ad targeting.
+Cookies are small text files which are downloaded to your browser when you visit a website; for example to remember information about you, such as your language settings or login information. Most web pages contain elements from multiple web domains so when you visit our Site your browser may receive cookies from several sources. This includes first-party cookies which are set by us, and third parties cookies that are set by third parties that we have hired to provide services on our behalf, such as site analytics or ad targeting.
 
-Session cookies are deleted automatically when you close your browser and persistent cookies remain on your device after the browser is closed (for example to remember your user preferences when you return to the site).
+Session cookies are deleted automatically when you close your browser and persistent cookies remain on your device after the browser is closed (for example to remember your user preferences when you return to the Site).
 
 What types of cookies do we use?
 --------------------------------
 
-As described in our [Privacy Policy](https://newrelic.com/termsandconditions/privacy), we use cookies and other technologies, such as web beacons, tags and Javascript alone or in conjunction with cookies, to ensure visitors to our Site have the best possible experience and to provide targeted advertising.   We use both session-based and persistent cookies. New Relic sets and accesses our own cookies on the Sites and we use third party cookies, like Google Analytics.  
+As described in our [General Data Privacy Notice](https://newrelic.com/termsandconditions/privacy) we use cookies and other technologies such as web beacons, alone or in conjunction with cookies, to ensure visitors to our Site have the best possible experience and to provide targeted advertising. We use both session-based and persistent cookies. Session cookies are stored temporarily on the memory of your devices while you are visiting the Site and are erased once you close your browser. Persistent cookies are stored for a predetermined amount of time, which varies from cookie to cookie. They aid us to understand whether you have previously visited our Site in the past. New Relic sets and accesses our own first party cookies on the Site and we use third party cookies which are set by our technology partners such as Google Analytics. This allows us to track the number of visitors to our Site. 
 
-You can find a list of the cookies and other technologies that New Relic uses on our Sites and Services along with other relevant information in our [Cookie Tables](https://newrelic.com/termsandconditions/cookie-policy/cookie-table).  While we do our best to keep this table updated, please note that the number and names of cookies, pixels and other technologies may change from time to time.  
+For more information on the categories of cookies and other technologies that we use, please see below:
 
-We describe the categories of cookies and other technologies that we use below:  
+**Essential** 
 
-**Strictly Necessary**
+These cookies and other technologies are necessary for our Site to function and cannot be switched off in our system because they are essential to enabling your use of our Site. Without these cookies, services we would provide (such as permitting log-in into the service) cannot be provided. These cookies may be associated with personal data.
 
-These cookies and other technologies are essential to enabling your use of our Site  and Services and its features. Without these cookies, services we would provide (such as permitting log-in into the service) cannot be provided.  These cookies may be associated with personal data.
+**Personalization**
 
-**Functionality**
+These cookies and other technologies improve your experience by enabling personalization (like remembering language and region), as well as enabling certain features like tracking progress on our videos and chat support. They can also help you fill out forms on our sites more easily and they also provide you with features, insights and customized content. These cookies may be associated with personal data.
 
-These cookies and other technologies improve your experience by enabling personalization (like remembering language and region), as well as enabling certain features like tracking progress on our videos and chat support.  They can help you fill out forms on our sites more easily. They also provide you with features, insights and customized content. These cookies may be associated with personal data.
+**Analytics** 
 
-**Analytics / Performance**
+These cookies and other technologies help us learn how well our Site is performing and how visitors interact with the site and whether there may be technical issues. We use these cookies to understand, improve, and research our Site and they may be set by us or by our third party technology partners. These cookies may be associated with personal data.
 
-These cookies and other technologies help us learn how well our Site and Services are performing. We use these cookies to understand, improve, and research our Site and Services.  These cookies may be associated with personal data.
+**Targeted Advertising**
 
-**Targeting or Advertising**
-
-These cookies and other technologies collect information about the browsing habits associated with your device and are used to make advertising more relevant to you and your interests.   Third parties provide these services in return for recognising that you (or more accurately your device) have visited a certain Site. These third parties put down advertising cookies both when you visit our Site and Services and when you use their services and navigate away from our Site and Services.  These cookies may be associated with personal data.
+These cookies and other technologies collect information about the browsing habits associated with your device and are used to make advertising more relevant to you and your interests. Third parties provide these services in return for recognising that you (or more accurately your device) have visited a certain Site. They may also be used to limit the number of times you see an advertisement or measure the effectiveness of advertising campaigns. These third parties place advertising cookies both when you visit our Site and when you use their services and navigate away from our Site. These cookies may be associated with personal data.
 
 **Local Shared Objects (“Flash cookies”)**
 
-Local Shared Objects (aka “Flash cookies”) and local storage in HTML5 may also be used on our Site and Services to enhance your experience by, for example, storing your user preferences and settings like volume/mute settings. Local Shared Objects are data files similar to browser cookies, but can store more complex data than simple text. You can manage local shared objects by following the instructions on Adobe’s help site [here](https://www.adobe.com/privacy/cookies.html).
+Local Shared Objects (aka “Flash cookies”) and local storage in HTML5 may also be used on our Site to enhance your experience by, for example, storing your user preferences and settings like volume/mute settings. Local Shared Objects are data files similar to browser cookies, but can store more complex data than simple text. You can manage local shared objects by following the instructions on Adobe’s help site [here](https://www.adobe.com/privacy/cookies.html).
 
 **HTML email web beacons**
 
 Our emails may contain a single, campaign-unique “web beacon pixel” to tell us whether our emails are opened and verify any clicks through to links within the email. We may use this information for purposes including determining which of our emails are more interesting to you, to query whether users who do not open our emails wish to continue receiving them. The pixel will be deleted when you delete the email. If you do not wish the pixel to be downloaded to your device, you should select to receive emails from us in plain text rather than HTML.
 
-**Disabling cookies**
+**Your Cookie Preferences**
 
-If you do not agree to the use of these cookies please disable them by following the instructions for your browser set out at allaboutcookies.org. Please note that the Site and Services will not function well if cookies are disabled.  It may also stop you from saving customized settings, like login information.
+You may update your cookie preferences by clicking on the ‘Your Privacy Choices’ link or cookie banner (if applicable) that appears on the site. If you do not agree to the use of these cookies please disable them by selecting ‘Reject All’. If you choose to reject cookies now, you may update your preferences in the future by following the instructions above. Please note that the site may not function well if cookies are disabled. It may also stop you from saving customized settings, like login information.
 
 For cookies that track activity in connection with targeting advertising, you can opt-out of third party targeting cookies on the Digital Advertising Alliance’s consumer choice page ( http://optout.aboutads.info) or the Network Advertising Initiative’s consumer choice page (http://optout.networkadvertising.org) or the European Interactive Digital Advertising Alliance consumer choice page ( http://youronlinechoices.eu).
 
@@ -361,25 +335,17 @@ Other tools offered by third parties can help you see and manage the types of co
 Browser manufacturers also provide help pages relating to cookie management in their products.
 
 * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
-    
 * [Internet Explorer](https://support.microsoft.com/en-us/kb/260971)
-    
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-    
 * [Safari (Desktop)](https://support.apple.com/kb/PH5042?locale=en_US)
-    
 * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
-    
 * [Android Browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
-    
 * [Opera](http://www.opera.com/help)
-    
 * [Opera Mobile](http://www.opera.com/help/mobile/android#privacy)
-    
 
 For other browsers, please consult the documentation that your browser manufacturer provides.
 
-After your initial visit to the Site and Services we may change the cookies and other technologies we use.
+After your initial visit to the Site we may change the cookies and other technologies we use.
 
 **Use of IP addresses and web logs**
 
@@ -387,7 +353,11 @@ We may also use your IP address and browser type to help diagnose problems with 
 
 **Do Not Track**
 
-Currently, various browsers - including Internet Explorer, Firefox, and Safari - offer a “do not track” or “DNT” option that relies on technology known as a DNT header, which sends a signal to the websites visited by the user about the user’s browsers DNT preference setting.  New Relic does not currently commit to responding to browser’s DNT preference across its Sites and Services, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent.  New Relic takes privacy and choices regarding privacy seriously and will make efforts to continue to monitor the development around DNT browser technology and the implementation of a standard for DNT.
+Some internet browsers offer a “do not track” or “DNT” option that relies on technology known as a DNT header, which sends a signal to the websites visited by the user about the user’s browsers DNT preference setting. New Relic does not currently commit to responding to browser’s DNT preference across its Site , because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. New Relic takes privacy and choices regarding privacy seriously and will make efforts to continue to monitor the development around DNT browser technology and the implementation of a standard for DNT. 
+
+**Global Privacy Control** 
+
+Global Privacy Control is a browser setting that allows you to notify websites you visit about your privacy preferences. New Relic honors website visitors’ Global Privacy Control signals.
 
 Company
 
@@ -426,6 +396,7 @@ Resources
 * [Blog](https://newrelic.com/blog)
 * [Customer Case Studies](https://newrelic.com/customers)
 * [Community Forum](https://forum.newrelic.com/s/)
+* [Documentation](https://docs.newrelic.com/)
 * [Press Releases](https://newrelic.com/about/newsroom)
 * [New Relic University](https://learn.newrelic.com/)
 * [Partner Program](https://newrelic.com/solutions/partners)
@@ -461,6 +432,8 @@ FAQs
 [DMCA Policy](https://newrelic.com/termsandconditions/dmca)
 
 [Privacy Policy](https://newrelic.com/termsandconditions/privacy)
+
+[Website Terms](https://newrelic.com/termsandconditions/website-terms)
 
 Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](/themes/custom/erno/assets/images/icons/misc/ccpa.svg) 
 
