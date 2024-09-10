@@ -587,6 +587,6 @@ Your continued use of any portion of our Website following posting of our update
 * [Cookie Policy](https://fliphtml5.com/cookie-policy/)
 * [Terms of Service](https://fliphtml5.com/terms-of-service.php)
 
-Explore Our Other Products: [AI Video Generator](https://mangoanimate.com/products/ai), [AI Video Maker](https://mangoanimate.com/), [Animation Software](https://mangoanimate.com/), [Animation Maker](https://mangoanimate.com/products/am), [Whiteboard Animation Software](https://mangoanimate.com/products/wm), [Character Animation Maker](https://mangoanimate.com/products/cm), [Business Video Maker](https://mangoanimate.com/products/vm), [Presentation Maker](https://mangoanimate.com/products/presentation-maker), [Flipbook Software](https://www.flipbuilder.com/)
+Explore Our Other Products: [AI Video Generator](https://mangoanimate.com/products/ai), [AI Video Maker](https://mangoanimate.com/), [Animation Software](https://mangoanimate.com/), [Animation Maker](https://mangoanimate.com/products/am), [Whiteboard Animation Software](https://mangoanimate.com/products/wm), [Character Animation Maker](https://mangoanimate.com/products/cm), [Video Maker](https://mangoanimate.com/products/video-maker), [Presentation Maker](https://mangoanimate.com/products/presentation-maker), [Flipbook Software](https://www.flipbuilder.com/)
 
 © 2024 WONDER IDEA TECHNOLOGY LIMITED. All rights reserved
