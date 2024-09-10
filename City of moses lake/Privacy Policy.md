@@ -46,7 +46,7 @@ All comments, guest book entries, suggestions, ideas, notes, drawings, concepts 
     
 5. [Grant County Economic Development Council](http://www.grantedc.com/)
     
-6. [Moses Lake Business Association](http://www.mlbacares.org/)
+6. [Downtown Moses Lake Association](http://www.mlbacares.org/)
     
 7. [Disclaimer](https://www.cityofml.com/990/Disclaimer)
     
