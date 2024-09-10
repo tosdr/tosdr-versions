@@ -134,7 +134,7 @@ Information For
     
     Outreach Publications Find practical, research-based information to help improve your life.](https://aces.nmsu.edu/pubs/)
     
-    ![4H students in a field.](../assets/img/navs/extension.jpg) Outreach efforts at NMSU help to extend our expertise in research teaching, and the development of our resources with communities throughout New Mexico and the world.
+    ![Cultivating Solutions: Collaborating for Souther New Mexico. 2024 OUtreach Conference, November 19th at the Las Cruces Convention Center](../assets/img/navs/ces_outreach_conference.jpg) NMSU outreach extends knowledge beyond the university, drives integration of activities, and supports student learning experiences and success. Join us in h ighlighting partnerships between NMSU and Southern New Mexico! [Register Online.](https://extension.nmsu.edu/outreach-conf/outreach.html)
     
 * [News](https://newsroom.nmsu.edu/)
     
