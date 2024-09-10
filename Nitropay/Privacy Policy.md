@@ -2,7 +2,7 @@
 
 * [How it works](https://nitropay.com/#intro)
 * [NitroDex](https://nitropay.com/nitrodex)
-* [Blog](https://nitropay.com/blog)
+* [Blog](https://blog.nitropay.com/)
 * [Docs](https://nitropay.com/docs)
 * [Sign up](https://nitropay.com/#contact)
 
@@ -227,7 +227,7 @@ We use cookies to improve your experience and increase the relevancy of content 
     * [Tebex](https://www.tebex.io/)
 * #### Company
     
-    * [Blog](https://nitropay.com/blog)
+    * [Blog](https://blog.nitropay.com/)
     * [Contact us](https://nitropay.com/#contact)
 * [![](//s.nit.ro/assets/ow-large.png)](https://www.overwolf.com/) [![](https://s.nit.ro/ow/ISO.svg)](https://www.overwolf.com/iso/)
 
