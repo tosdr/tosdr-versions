@@ -12,9 +12,9 @@ Email
 
 Copy Link
 
-![](https://eu-de-1.presearch.com/assets/images/pregpt-logo.svg)
+![](https://na-us-2.presearch.com/assets/images/pregpt-logo.svg)
 
-![](https://eu-de-1.presearch.com/assets/images/pregpt-logo.svg)
+![](https://na-us-2.presearch.com/assets/images/pregpt-logo.svg)
 
 PreGPT
 
@@ -96,9 +96,9 @@ Aa
 
 Aa
 
-Custom Providers
+Search Providers
 
-Keep your providers visible at all time.
+Show providers on the page.
 
 Colored Providers Icons
 
@@ -107,6 +107,10 @@ Use colored search providers icons on homepage.
 Show Backgrounds
 
 Toggle background images on homepage and results page.
+
+Info Box
+
+Show info box on the right side of the results page.
 
 * * *
 
@@ -149,6 +153,10 @@ Follow Our Social
 [](https://reddit.com/r/presearch)
 
 [](https://www.youtube.com/channel/UCgU-2uscwUP6x27mUpCGWwg)
+
+[](https://t.me/presearch)
+
+[](https://news.presearch.io/)
 
 Share
 
