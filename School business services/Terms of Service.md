@@ -13,7 +13,11 @@ Financial Planning Software
 Services
 --------
 
-[Finance & Accounting](https://www.schoolbusinessservices.co.uk/finance-and-accountancy-service)
+[Finance & Accounting (MATs)](https://www.schoolbusinessservices.co.uk/finance-and-accountancy-service)
+
+[Finance & Accounting (Maintained)](https://www.schoolbusinessservices.co.uk/finance-accountancy-support-maintained-schools)
+
+[Finance & VAT support (Independents)](https://www.schoolbusinessservices.co.uk/finance-and-accounting-independent-schools)
 
 [Internal Scrutiny](https://www.schoolbusinessservices.co.uk/finance-support/internal-scrutiny-and-returns)
 
@@ -25,6 +29,8 @@ Other Services
 [MIS](https://www.schoolbusinessservices.co.uk/mis-support)
 
 [Training](https://www.schoolbusinessservices.co.uk/training)
+
+[Leadership Consultancy](https://www.schoolbusinessservices.co.uk/leadership-consultancy-service)
 
 [Governance & Compliance](https://www.schoolbusinessservices.co.uk/judicium-governance-and-compliance)
 
@@ -82,6 +88,8 @@ Financial Planning & Forecasting Software
     * [Judicium Employment Law and HR Services](https://www.schoolbusinessservices.co.uk/judicium-employment-law-and-hr-services)
     * [Judicium Governance & Compliance](https://www.schoolbusinessservices.co.uk/judicium-governance-and-compliance)
     * [Thrive Approach](https://www.schoolbusinessservices.co.uk/thrive-approach)
+    * [Finance and Accounting for Independent Schools](https://www.schoolbusinessservices.co.uk/finance-and-accounting-independent-schools)
+    * [ICT Support Services copy](https://www.schoolbusinessservices.co.uk/interim-absence-and-vacancy-cover)
 * [SBS Financial Planner](https://www.schoolbusinessservices.co.uk/SBS-Financial-Planner)
 * [Content Hub](https://www.schoolbusinessservices.co.uk/content-hub)
 * [About](https://www.schoolbusinessservices.co.uk/about-us)
@@ -91,9 +99,9 @@ Financial Planning & Forecasting Software
     * [Partners](https://www.schoolbusinessservices.co.uk/partners)
     * [Work for us](https://segpeople.my.salesforce-sites.com/Recruit/fRecruit__ApplyJobList?portal=School%20Business%20Services)
     * [Our group](https://www.schoolbusinessservices.co.uk/our-group)
+* [Login](https://welcome.sbs-online.net/)
 * [Contact](https://www.schoolbusinessservices.co.uk/contact-us)
-
-* [Customer Login](https://welcome.sbs-online.net/)
+* [Get in Touch](https://www.schoolbusinessservices.co.uk/contact-us)
 
 Website Terms & Conditions
 ==========================
