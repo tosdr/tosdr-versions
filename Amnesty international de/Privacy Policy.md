@@ -131,7 +131,7 @@ Datenschutz
 DATENSCHUTZHINWEISE
 -------------------
 
-Auf dieser Seite informiert Amnesty International Deutschland e.V. (nachfolgend auch kurz: "Amnesty International"; oder "wir" oder "uns") darüber, welche personenbezogenen Daten zu welchen Zwecken und auf welche Art und Weise bei der Nutzung dieser Internetseite, ihrer Angebote oder im Rahmen von sonstigen Interaktionen (auch offline oder über andere Medien) verarbeitet werden. Es bestehen grundsätzlich keine gesetzlichen oder vertraglichen Pflichten zur Bereitstellung von personenbezogenen Daten. Diese Datenschutzhinweise werden bei Bedarf an neue Angebote und Datenverarbeitungen oder veränderte sachliche oder rechtliche Bedingungen angepasst. Letzte Änderung: 6. Juni 2024
+Auf dieser Seite informiert Amnesty International Deutschland e.V. (nachfolgend auch kurz: "Amnesty International"; oder "wir" oder "uns") darüber, welche personenbezogenen Daten zu welchen Zwecken und auf welche Art und Weise bei der Nutzung dieser Internetseite, ihrer Angebote oder im Rahmen von sonstigen Interaktionen (auch offline oder über andere Medien) verarbeitet werden. Es bestehen grundsätzlich keine gesetzlichen oder vertraglichen Pflichten zur Bereitstellung von personenbezogenen Daten. Diese Datenschutzhinweise werden bei Bedarf an neue Angebote und Datenverarbeitungen oder veränderte sachliche oder rechtliche Bedingungen angepasst. Letzte Änderung: 2. September 2024
 
 Verantwortlich für die Datenverarbeitung ist  
 **Amnesty International Deutschland e. V.** 
@@ -271,6 +271,22 @@ Sollten Nutzer\*innen sich einmal entscheiden, die Verknüpfung ihres Nutzer\*in
 **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO).
 
 Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb. auch zu Red Hat Single Sign-On (für Mitglieder und Nutzer\*innen der OneAmnestyCloud), sowie Microsoft Azure und Microsoft Single-Sign-On. 
+
+Lernplattform AmnestyTraining
+
+AmnestyTraining ermöglicht es Besucher\*innen ein Konto anzulegen und Lerninhalte zu nutzen. Zwecke der Datenverarbeitung sind die Förderung der Vereinszwecke im Rahmen von Bildungsangeboten, Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f) DSGVO. Die Anlage eines "AmnestyTraining"-Kontos ist freiwillig. Die Daten werden bis zu einer Löschung des Kontos verarbeitet.
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
+Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb. auch zu Red Hat Single Sign-On (für Mitglieder und Nutzer\*innen der OneAmnestyCloud), sowie dotplex.
+
+Visualisierungs-Hilfen
+
+Zur Steigerung der Attraktivität und Verständlichkeit der Web-Dienste nutzen wir für die ansprechende Visualisierung von Datensätzen den Anbieter Datawrapper. Die durch uns erstellten Grafiken können personenbezogene Daten enthalten. Zudem werden IP-Adressen von Endnutzer\*innen, welche Websites mit eingebetteten Grafiken aufrufen, verarbeitet.
+
+**Sie können gemäß Art. 21 Abs. 1 DSGVO aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit der Verarbeitung Ihrer personenbezogenen Daten widersprechen.**
+
+Detailliertere Angaben zu eingesetzten Diensten finden Sie auch im Abschnitt "Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten", insb. auch zu Datawrapper.
 
 Geschäftliche Kontakte & Leistungen
 
@@ -894,6 +910,8 @@ Nähere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten
 **Confluence:** Software zur Erstellung und Administration von Wiki- & Wissens-Plattformen; Dienstanbieter\*in: Atlassian Inc. (San Francisco, Harrison Street Location), 1098 Harrison Street, San Francisco, California 94103, USA; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://www.atlassian.com/software/confluence](https://www.atlassian.com/software/confluence); Datenschutzhinweise: [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy); Grundlage Drittlandtransfers: EU/EWR - Data Privacy Framework (DPF). Weitere Informationen: Daten-Transfer-Folgenabschätzung: [https://www.atlassian.com/legal/data-transfer-impact-assessment](https://www.atlassian.com/legal/data-transfer-impact-assessment).
 
 **Convertflow:** Wir nutzen den Service ConvertFlow, der ConvertFlow Inc., 5790 Sunset Drive #145, Miami, FL. 33143, um auf Grundlage berechtigter Interessen des Website-Betreibers (Art. 6 Abs.1 lit. f DSGVO) Daten zu Ansprache-, Marktforschungs- und Optimierungszwecken zu sammeln und zu speichern. ConvertFlow bietet uns die Möglichkeit, Nutzer\*innen situationsbezogen anzusprechen und unser Webangebot an den Bedürfnissen unserer Nutzer\*innen auszurichten. Wir nutzen diesen Dienst, um Nutzer\*innen über PopUps auf besondere Angebote aufmerksam zu machen und Ihnen kontextbezogen die Möglichkeit zu geben, mit uns in Kontakt zu treten. Zur Erfassung der Daten setzt ConvertFlow einen Cookie in Ihrem Browser und liest technische Informationen zu Ihrem Endgerät aus (Bildschirmgröße, Gerätetyp, Browser, Land). IP-Adressen werden ausschließlich anonymisiert erfasst und gespeichert. Diese Informationen werden zusammengeführt und von ConvertFlow in einem pseudonymisierten Nutzer\*innenprofil gespeichert. Die Informationen werden weder von ConvertFlow noch von getunik ag zur Identifizierung einzelner Nutzer\*innen verwendet oder mit weiteren Daten über einzelne Nutzer\*innen zusammengeführt. Die Datenschutzhinweise von ConvertFlow finden Sie hier: [https://www.convertflow.com/terms-and-policies](https://www.convertflow.com/terms-and-policies). Ihre Kontaktdaten aus den durch ConvertFlow bereitgestellten Formularen werden zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei ConvertFlow gespeichert. Die Verarbeitung der von Ihnen im Formular von ConvertFlow eingegebenen Daten erfolgt somit ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an [hello@getunik.com](mailto:hello@getunik.com). Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. Die von Ihnen in den Formularen von ConvertFlow eingegebenen Daten verbleiben bei getunik, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt. 
+
+**Datawrapper:** Visualisierung und Hosting von Grafiken zur Anzeige auf Web-Diensten; Dienstanbieter\*in: Datawrapper GmbH, Raumerstraße 39, 10437 Berlin; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO)
 
 **Dotplex:** Hosting, SaaS; Dienstanbieter\*in: dotplex GmbH, Friedrichstraße 95, 10117 Berlin; Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO)
 
