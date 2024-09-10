@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?event=init&tid=2613407103434&noscript=1)            
 
-[Don't need NFC? Solo 2 USB-A base model now in stock.](https://solokeys.com/products/solo-2a-security-key-built-with-trussed%C2%AE)
+[SoloKeys Europe now online! Order your Solo 2 at SoloKeys.eu today!!!](https://solokeys.eu/)
 
 [![SoloKeys](//solokeys.com/cdn/shop/files/logo-black_on_transparent-300x100_250x_2x_1_f991b762-ac89-4706-a6dc-2d0d4ef42095_120x.png?v=1630546838)](https://solokeys.com/)
 
