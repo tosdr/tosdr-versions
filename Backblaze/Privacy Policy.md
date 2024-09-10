@@ -1,4 +1,6 @@
-[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/668ff8bf4b20b0b7c311b669_Backblaze-logo.svg)](https://www.backblaze.com/)
+[Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)
+
+[![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/668ff8bf4b20b0b7c311b669_Backblaze-logo.svg)](https://www.backblaze.com/)[](https://www.backblaze.com/)
 
 Products
 
@@ -44,7 +46,7 @@ Optimize workflows with cloud storage for media and entertainment](https://www.b
 
 Application Storage & IaaS
 
-Accelerate development with scalable storage and integrated CDN](https://www.backblaze.com/cloud-storage/solutions/iaas)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334ce9453fc90df82e2_ransomware-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a335a95d9645d02aaaed_ransomware-hover.svg)
+Accelerate development with scalable storage and integrated CDN](https://www.backblaze.com/cloud-storage/solutions/developers)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a334ce9453fc90df82e2_ransomware-default.svg)![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6654a335a95d9645d02aaaed_ransomware-hover.svg)
 
 Ransomware & DR Readiness
 
@@ -70,7 +72,9 @@ Resources
 
 [Docs](https://www.backblaze.com/docs)[Customer Stories](https://www.backblaze.com/case-studies)[Security](https://www.backblaze.com/cloud-storage/security)[Compliance](https://www.backblaze.com/cloud-storage/compliance)[Blog](https://www.backblaze.com/blog)[Drive Stats](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data)
 
-[Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)
+[Why Backblaze](https://www.backblaze.com/why-backblaze)
+
+[Why Backblaze](https://www.backblaze.com/why-backblaze)[Partners](https://www.backblaze.com/partners)[Support](https://www.backblaze.com/help)[Sign In](https://secure.backblaze.com/user_signin.htm)
 
 [Contact Sales](https://www.backblaze.com/contact-sales)[Contact Sales](https://www.backblaze.com/contact-sales)[Start Free](https://www.backblaze.com/get-started)
 
@@ -853,7 +857,7 @@ Previous Version(s):
 
 ‍
 
-![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e56ecd400ff9b4fd5acc2_whiteBackblazeLogo.svg)
+![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/663e56ecd400ff9b4fd5acc2_whiteBackblazeLogo.svg)
 
 A Publicly Traded Company (BLZE)  
 Backblaze © 2024
@@ -861,5 +865,7 @@ Backblaze © 2024
 [![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4a13916f094bbd5082e_linkedin%20logo.svg)](https://www.linkedin.com/company/backblaze/)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de99620d07dc8a1c4b_youtube.svg)](https://www.youtube.com/channel/UCpIVQUYBArvA9JcnGJksxGA)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4de51abfc4eb15dfe91_twitter.svg)](https://twitter.com/backblaze)[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/6655f4b7675e810a69fb82d1_facebook.svg)](https://facebook.com/backblaze)
 
 [About Us](https://www.backblaze.com/company/about)[Newsroom](https://www.backblaze.com/company/news)[Investor Relations](https://ir.backblaze.com/)[Careers](https://www.backblaze.com/company/jobs)[Terms and Policies](https://www.backblaze.com/company/policy/terms-of-service)[Privacy](https://www.backblaze.com/company/policy/privacy)[Contact](https://www.backblaze.com/company/contact)
+
+### Staging secure is temporarily unavailable. Please check for any ongoing deploys. If none are in progress, contact the fullstack team for assistance. Click me to dismiss.
 
 ![](https://ws.zoominfo.com/pixel/uJCeansYSuz2ElG9kpkr)
