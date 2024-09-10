@@ -79,7 +79,7 @@
         
         In a huge milestone for mobile security Lookout partners with PAX8.](https://www.lookout.com/news-release/lookout-and-pax8-form-strategic-partnership-to-enable-managed-service-providers-to-close-the-mobile-security-gap-for-their-customers)
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667d9662a68d8ff393733a1c_fortra.svg)
+    [![Fortra](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667d9662a68d8ff393733a1c_fortra.svg)
     
     Webflow in 2021
     
@@ -87,7 +87,7 @@
         
         Lookout and  Fortra form partnership to deliver Digital Guardian Secure Service Edge.](https://www.lookout.com/news-release/fortra-and-lookout-form-strategic-integration-partnership-to-deliver-digital-guardian-secure-service-edge)
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667e3a8994796a0d45a1e281_vmware-partner1.svg)
+    [![VMware](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667e3a8994796a0d45a1e281_vmware-partner1.svg)
     
     Webflow in 2021
     
@@ -159,15 +159,15 @@
             
             Identify security risks within your organization](https://security.lookout.com/resources/assessments)
     
-    Latest Report
+    Latest Guide
     
-    [![Mobile Threat Landscape Report](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/666a067eca730c6042ad17df_Rectangle%201995.svg)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66cce8931b3bbf2d30d1f975_lookout-sse-buyers-guide-email-1200x628-v2%20(1).png)
     
     Webflow in 2021
     
-    * 2024 Q1 Mobile Threat Landscape
+    * SSE Buyer’s Guide: Key Capabilities for a Unified, Data-Centric Solution
         
-        Check out the latest insights from the world’s largest mobile threat telemetry.](https://www.lookout.com/threat-intelligence/report/q1-2024-mobile-landscape-threat-report)
+        Discover the key capabilities every SSE needs to protect your organization.](https://resources.lookout.com/resources/sse-buyers-guide-key-capabilities-for-a-unified-data-centric-solution)
     
 * Company
     
@@ -208,13 +208,13 @@
     
     Upcoming Event
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6675bf054748e790a4dd57da_blackhat-2024.svg)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66c56da43ea3dbff0d9dd341_fal-con24.avif)
     
     Webflow in 2021
     
-    * Black Hat USA 2024
+    * Fal.Con | September 16-19, Las Vegas, NV
         
-        Find us at **booth #3127** and join our Lunch and Learn on Wednesday, August 7th from 12:05-1:30pm in Lagoon EF.](#)
+        Find us at **booth 2401** and join our Partner Theatre presentation on "The Modern Kill Chain" Tuesday, September 17th at 11:20 am PT](https://www.crowdstrike.com/events/fal-con/las-vegas/)
     
 
 ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667c5a5e50e2bec7e96dee58_glass-dark.svg)
