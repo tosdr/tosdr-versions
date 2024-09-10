@@ -1,232 +1,35 @@
-Language
+![hw-icon](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-icon.svg "hw-icon")
 
-* English
-    
-* Français
-    
-* Deutsch
-    
-* Español
-    
-* Italiano
-    
-* Português
-    
-* Português (Brasil)
-    
-* Svenska
-    
-* Polski
-    
-* Suomi
-    
-* Dansk
-    
-* Nederlands
-    
-* Norsk
-    
-* český
-    
-* Русский
-    
-* Türk
-    
-* 中文
-    
-* 日本語
-    
-* 한국어
-    
+Where do you want to go?
 
-[![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
+Dates
 
- Where do you want to go?
+Guests
 
- Dates
+Where do you want to go?
 
- Guests
+Check In
 
- Where do you want to go?
+Check Out
 
- Check In
+Dates
 
- Check Out
-
- Dates
-
- Guests
+Guests
 
 Let's go!
 
 Destination Dates Guests
 
- Where do you want to go?
+Where do you want to go?
 
 * Current Location
     
 
- Check In
+Check In
 
- Check Out
+Check Out
 
 3 nights selected
-
-July 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
-31
-
-August 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
-31
 
 September 2024
 
@@ -1994,7 +1797,173 @@ Sun
 
 31
 
+August 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+September 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
 Guests
+
+EnglishEUR
+
+English
+
+EUR
+
+* Accommodation
+* Explore Hostelworld
+* Work With Us
+
+* [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
 
 General Terms of Use
 --------------------
@@ -2005,9 +1974,9 @@ Welcome to Hostelworld.com, the global leader in hostel-focused online booking p
 
 These terms and conditions ("Terms") govern all bookings made through Our booking services, whether through Our websites, mobile websites, mobile applications or Our booking engine, which is integrated into third party websites (collectively the "Hostelworld Sites") for accommodation, tour, ticket, attraction or other travel experiences made available by third-party suppliers. However, We are not a travel or tour agency, and We do not provide such accommodation, travel or tour experiences ourselves. When you make a booking on the Hostelworld Sites, you will be purchasing accommodation, tours, tickets or other services directly from the third-party supplier.
 
-All references to "We", "Us" or "Our" in these terms refer to Hostelworld.com Limited ("Hostelworld"), the operator of the Hostelworld Sites. When We refer to "you" or “your”, We mean any person that accesses or uses the Hostelworld Sites. Your use of the Hostelworld Sites and any bookings you make via the Hostelworld Sites are subject to these Terms and Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/), but please note that where you access Our booking engine on a third-party website, these Terms and Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) only apply to your use of the booking engine, and do not apply to any other use of that third-party website.
+All references to "We", "Us" or "Our" in these terms refer to Hostelworld.com Limited ("Hostelworld"), the operator of the Hostelworld Sites. When We refer to "you" or “your”, We mean any person that accesses or uses the Hostelworld Sites. Your use of the Hostelworld Sites and any bookings you make via the Hostelworld Sites are subject to these Terms and Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/), but please note that where you access Our booking engine on a third-party website, these Terms and Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) only apply to your use of the booking engine, and do not apply to any other use of that third-party website.
 
-Please read these Terms carefully, as they contain important information concerning your legal rights and limitations on these rights, as well as information about applicable law and jurisdiction for any disputes. By accessing or using the Hostelworld Sites and/or Hostelworld’s services, you represent that you have read and understood these Terms and agree to use the Hostelworld Sites in accordance with and subject to these Terms and Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) without modification. If you do not accept these Terms and Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/), please do not use the Hostelworld Sites and do not make a booking via the Hostelworld Sites. In all booking arrangements, the person making the booking shall be deemed to have accepted these Terms on behalf of all the persons named in the booking.
+Please read these Terms carefully, as they contain important information concerning your legal rights and limitations on these rights, as well as information about applicable law and jurisdiction for any disputes. By accessing or using the Hostelworld Sites and/or Hostelworld’s services, you represent that you have read and understood these Terms and agree to use the Hostelworld Sites in accordance with and subject to these Terms and Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) without modification. If you do not accept these Terms and Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/), please do not use the Hostelworld Sites and do not make a booking via the Hostelworld Sites. In all booking arrangements, the person making the booking shall be deemed to have accepted these Terms on behalf of all the persons named in the booking.
 
 ### About Us
 
@@ -2083,7 +2052,7 @@ Tour Bookings
 
 Payment Platforms
 
-3.17 From time to time, We may make available an online payment platform (“OPP”), giving you the ability to make online payments to travel service providers via Worldpay, Stripe, credit card, debit card, or other payment options. We may change or withdraw such OPP at any time without notice and at Our sole discretion. We will provide you as much notice as possible about such changes but We are not required to do so. If you are directed to a third-party payment processor or payment provider such as Worldpay or Stripe, you may be subject to terms and conditions governing use of that third party's service, including applicable fees, as well as that third party's personal information collection practices. Please review such terms and conditions and Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) before using such services.
+3.17 From time to time, We may make available an online payment platform (“OPP”), giving you the ability to make online payments to travel service providers via Worldpay, Stripe, credit card, debit card, or other payment options. We may change or withdraw such OPP at any time without notice and at Our sole discretion. We will provide you as much notice as possible about such changes but We are not required to do so. If you are directed to a third-party payment processor or payment provider such as Worldpay or Stripe, you may be subject to terms and conditions governing use of that third party's service, including applicable fees, as well as that third party's personal information collection practices. Please review such terms and conditions and Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) before using such services.
 
 3.18 We are not responsible for the payment solutions enabled on Our OPP or for any decision taken by a payment provider to decline your payment, based on its risk assessment of you or that transaction. You agree that We are not liable for any losses you suffer as a result of making a payment to travel services provider via the OPP. If you need customer support in relation to an online payment, you should contact the payment provider or Your bank or payment card provider.
 
@@ -2095,7 +2064,7 @@ Chargebacks
 
 ### 4\. Booking with Third Party Suppliers through Hostelworld
 
-4.1 Hostelworld offers you the ability to search for, select, and book travel services with third-party suppliers without leaving the Hostelworld Sites. By booking via the Hostelworld Sites, you acknowledge that you accept the practices described in Our [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) and these Terms. In addition, you warrant that you are 18 years of age or older, that you possess the legal authority to enter into these Terms and use the Hostelworld Services in accordance with these Terms, and that all information you supply is true and accurate. You further agree that you will use the Hostelworld Services only to make legitimate reservations for you or others for whom you are legally authorised to act.
+4.1 Hostelworld offers you the ability to search for, select, and book travel services with third-party suppliers without leaving the Hostelworld Sites. By booking via the Hostelworld Sites, you acknowledge that you accept the practices described in Our [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) and these Terms. In addition, you warrant that you are 18 years of age or older, that you possess the legal authority to enter into these Terms and use the Hostelworld Services in accordance with these Terms, and that all information you supply is true and accurate. You further agree that you will use the Hostelworld Services only to make legitimate reservations for you or others for whom you are legally authorised to act.
 
 4.2 As a user of the Hostelworld Services, you understand and agree that: (a) neither Hostelworld or its affiliates will have any responsibility to you or other for any unauthorised transactions made using your account or account password; and (b) the unauthorised use of your account or account password could cause you to incur liability to Hostelworld or its affiliates.
 
@@ -2205,7 +2174,7 @@ Chargebacks
 
 12.2 Our failure to enforce at any time or for any period any one or more of the Terms shall not be construed as a waiver of them or the rights attaching to any of them.
 
-12.3 These Terms and the [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) constitute the entire agreement between you and Hostelworld in relation to the subject matter of these Terms and the [Data Protection Notice](https://www.hostelworld.com/st/securityprivacy/) and supersede any previous agreements or representations between the parties relating to the subject matter of this agreement.
+12.3 These Terms and the [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) constitute the entire agreement between you and Hostelworld in relation to the subject matter of these Terms and the [Data Protection Notice](https://www.hostelworld.com/securityprivacy/) and supersede any previous agreements or representations between the parties relating to the subject matter of this agreement.
 
 12.4 We reserve the right to update or otherwise modify these Terms as well as the contents of the Hostelworld Sites at any time and for any reason and without liability to you, any other user or any third party. You understand and agree that your continued access or use of the Hostelworld Sites after such change signifies your acceptance of the updated Terms. This right shall not affect the Terms accepted by you upon making a legitimate booking or purchase using the Hostelworld Sites. We will note the date that updates were last made to the Terms at the top of this page, and the updated Terms will take effect upon posting. It is your responsibility to check these Terms each time you access the Hostelworld Sites to review the most current version of these Terms.
 
@@ -2229,6 +2198,28 @@ Chargebacks
 
 14.1 The European Commission Online Dispute Resolution Platform is available at the following link [https://ec.europa.eu/odr](https://ec.europa.eu/odr). Please note that we do not currently engage in alternative dispute resolution in connection with customer complaints.
 
+Language
+
+* [English](https://www.hostelworld.com/hosteltermsandconditions/)
+* [Français](https://www.hostelworld.com/fr/hosteltermsandconditions/)
+* [Deutsch](https://www.hostelworld.com/de/hosteltermsandconditions/)
+* [Español](https://www.hostelworld.com/es/hosteltermsandconditions/)
+* [Italiano](https://www.hostelworld.com/it/hosteltermsandconditions/)
+* [Português](https://www.hostelworld.com/pt/hosteltermsandconditions/)
+* [Português (Brasil)](https://www.hostelworld.com/br/hosteltermsandconditions/)
+* [Svenska](https://www.hostelworld.com/sv/hosteltermsandconditions/)
+* [Polski](https://www.hostelworld.com/pl/hosteltermsandconditions/)
+* [Suomi](https://www.hostelworld.com/fi/hosteltermsandconditions/)
+* [Dansk](https://www.hostelworld.com/da/hosteltermsandconditions/)
+* [Nederlands](https://www.hostelworld.com/nl/hosteltermsandconditions/)
+* [Norsk](https://www.hostelworld.com/no/hosteltermsandconditions/)
+* [český](https://www.hostelworld.com/cs/hosteltermsandconditions/)
+* [Русский](https://www.hostelworld.com/ru/hosteltermsandconditions/)
+* [Türk](https://www.hostelworld.com/tr/hosteltermsandconditions/)
+* [中文](https://www.hostelworld.com/zh/hosteltermsandconditions/)
+* [日本語](https://www.hostelworld.com/ja/hosteltermsandconditions/)
+* [한국어](https://www.hostelworld.com/ko/hosteltermsandconditions/)
+
 **Follow us on**
 
 [](https://www.facebook.com/hostelworld "Hostelworld Facebook")[](https://twitter.com/hostelworld "Hostelworld Twitter")[](https://www.instagram.com/hostelworld/ "Hostelworld Instagram")[](https://www.youtube.com/user/hostelworld "Hostelworld YouTube")[](https://www.pinterest.co.uk/hostelworld/ "Hostelworld Pinterest")[](https://www.tiktok.com/@hostelworld "Hostelworld Tiktok")
@@ -2237,15 +2228,15 @@ English
 
 EUR
 
-**Accommodation**[Blog](https://www.hostelworld.com/blog/ "Blog") [Hostels](https://www.hostelworld.com/hostels/ "Hostels") [Hotels](https://www.hostelworld.com/hotels/ "Hotels") [Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
+**Accommodation**[Hostels](https://www.hostelworld.com/hostels/ "Hostels")[Hotels](https://www.hostelworld.com/hotels/ "Hotels")[Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
 
-**Customer Support**[Talk to Us](https://hwhelp.hostelworldgroup.com/hc/en-us/requests/new?ticket_form_id=63361 "Talk to Us") [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
+**Customer Support**[Talk to Us](https://hwhelp.hostelworldgroup.com/hc/en-us/requests/new?ticket_form_id=63361 "Talk to Us")[Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
 
-**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog") [Booking Guarantee](https://www.hostelworld.com/guarantee/ "Booking Guarantee") [Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards") [Tours and Experiences](https://www.hostelworld.com/experiences-hub "Tours and Experiences") [Solo Travel](https://www.hostelworld.com/blog/c/solo-travel/ "Solo Travel") [Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")
+**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog")[Booking Guarantee](https://www.hostelworld.com/guarantee/ "Booking Guarantee")[Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards")[Tours & Experiences](https://www.hostelworld.com/experiences-hub/ "Tours & Experiences")[Solo Travel](https://www.hostelworld.com/blog/solo-travel/ "Solo Travel")[Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")[Roamies](https://www.hostelworld.com/roamies/ "Roamies")
 
-**About Us**[Hostelworld Group PLC](https://www.hostelworldgroup.com/ "Hostelworld Group PLC") [Press](https://www.hostelworldgroup.com/media/press-releases/ "Press") [Careers](https://people.hostelworld.com/ "Careers")
+**About Us**[Hostelworld Group PLC](https://www.hostelworldgroup.com/ "Hostelworld Group PLC")[Press](https://www.hostelworldgroup.com/media/press-releases/ "Press")[Careers](https://people.hostelworld.com/ "Careers")
 
-**Work With Us**[Hostel Sign Up](https://signup.hostelworld.com/en/property/intro "Hostel Sign Up") [Affiliate Program](https://partners.hostelworld.com/ "Affiliate Program") [Hostelworld Inbox](https://inbox.hostelworld.com/inbox/?Language=English "Hostelworld Inbox")
+**Work With Us**[Hostel Sign Up](https://signup.hostelworld.com/en/property/intro "Hostel Sign Up")[Affiliate Program](https://partners.hostelworld.com/ "Affiliate Program")[Hostelworld Inbox](https://inbox.hostelworld.com/inbox/?Language=English "Hostelworld Inbox")
 
 ![Secure GlobalSign](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/docusign.svg "Secure GlobalSign")
 
@@ -2253,4 +2244,4 @@ EUR
 
 © 1999-2024 Hostelworld.com Limited
 
-[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice") [Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal") [Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons") [Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers") [Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing") [Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
+[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice")[Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal")[Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons")[Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers")[Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing")[Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
