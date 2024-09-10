@@ -161,6 +161,12 @@
     
     [Explore Product](https://www.datto.com/products/autotask-psa/)
     
+    Kaseya Quote Manager
+    
+    All-In-One Quote, Sell & Procurement
+    
+    [Explore Product](https://www.kaseya.com/products/msp-quoting-software/)
+    
     BMS
     
     Fast & Simple PSA for Growing MSPs
@@ -349,31 +355,31 @@
     
     Blog
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/AdobeStock_428812335-600x400.jpeg)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/08/transform-msp-financial-future-msp-600x400.jpg)
     
-    Five Key Highlights From the Future of IT Survey Report
+    Transform Your MSP’s Financial Future
     
-    July 22
+    August 13
     
-    4 minute read](https://www.kaseya.com/blog/five-highlights-from-the-future-of-it-survey/)
+    2 minute read](https://www.kaseya.com/blog/transform-your-msps-financial-future/)
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS-Webinar-Introducing-Kaseya-600x400-1.png)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/09/Compliance-600x400.jpeg)
     
-    What are Update Rings and Why are they Important? 
+    Regulation and Compliance Updates Every IT Professional Needs to Know
     
-    July 19
+    September 4
     
-    7 minute read](https://www.kaseya.com/blog/update-rings/)
+    12 minute read](https://www.kaseya.com/blog/regulation-updates-it-professionals/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS_Webinar-VSA-Q3-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/K365-Webinar-Win-the-battle-for-endpoint-security-300x200.png)
     
-    VSA Quarterly Product Innovation Update
+    Win the Battle for Endpoint Security With Kaseya 365
     
-    July 30
+    September 12
     
     [View All Events](https://www.kaseya.com/events/)
     
