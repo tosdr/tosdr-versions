@@ -1,3 +1,5 @@
+[Portal survey for broker-dealers, launching 9/9/2024](https://www.sipc.org/for-members/portal-survey)
+
 [](http://www.facebook.com/sipcorg)[](http://www.twitter.com/sipc)
 
 [Español](https://www.sipc.org/espanol)
@@ -14,49 +16,49 @@ Search Query
     
     We are a non-profit corporation that has been protecting investors for 50 years. We work to restore investors’ cash and securities when their brokerage firm fails. SIPC has recovered billions of dollars for investors.
     
-    [![Mission](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Mission](/assets/img/about-sipc/mission.png)
     
     Mission
     
     SIPC works to restore investors’ assets when a brokerage firm fails financially.](https://www.sipc.org/about-sipc/sipc-mission)
     
-    [![History and Track Record](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![History and Track Record](/assets/img/about-sipc/history-and-track-record.png)
     
     History and Track Record
     
     SIPC has restored billions of dollars for investors.](https://www.sipc.org/about-sipc/history)
     
-    [![Leadership](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Leadership](/assets/img/about-sipc/leadership.png)
     
     Leadership
     
     Our job is to recover missing assets if your brokerage firm fails financially.](https://www.sipc.org/about-sipc/leadership)
     
-    [![The SIPC Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![The SIPC Logo](/assets/img/about-sipc/the-sipc-logo.png)
     
     The SIPC Logo
     
     The SIPC logo means your assets are protected under the Securities Investor Protection Act (SIPA).](https://www.sipc.org/about-sipc/the-sipc-logo)
     
-    [![The SIPC Fund](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![The SIPC Fund](/assets/img/about-sipc/the-sipc-fund.png)
     
     The SIPC Fund
     
     SIPC maintains resources from which we can draw to restore customer assets.](https://www.sipc.org/about-sipc/the-sipc-fund)
     
-    [![Statute and Rules](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Statute and Rules](/assets/img/about-sipc/statutes-and-rules.png)
     
     Statute and Rules
     
     SIPC is a non-profit corporation created by Congress some 50 years ago.](https://www.sipc.org/about-sipc/statute-and-rules)
     
-    [![SIPC Annual Report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![SIPC Annual Report](/assets/img/news-and-media/annual-reports.png)
     
     SIPC Annual Report
     
     The year in review.](https://www.sipc.org/news-and-media/annual-reports)
     
-    [![Brochures](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Brochures](/assets/img/news-and-media/brochures.png)
     
     Brochures
     
@@ -69,33 +71,33 @@ Search Query
     Find claim forms and deadlines for open cases here.  
     _SIPC has restored billions of dollars for investors._
     
-    [![Filing Deadlines](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Filing Deadlines](/assets/img/cases-and-claims/filing-deadlines.png)
     
     Filing Deadlines
     
     When you file matters. Filing deadlines explained.](https://www.sipc.org/cases-and-claims/deadlines)
     
-    [![How To File a Claim](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![How To File a Claim](/assets/img/cases-and-claims/claim-filing-process.png)
     
     How To File a Claim](https://www.sipc.org/cases-and-claims/how-to-file-a-claim)
     
-    [![Claim FAQs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Claim FAQs](/assets/img/cases-and-claims/claim-faqs.png)
     
     Claim FAQs](https://www.sipc.org/cases-and-claims/claim-faqs)
     
-    [![All Open Cases](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![All Open Cases](/assets/img/cases-and-claims/all-open-cases.png)
     
     All Open Cases
     
     Cases that are still being processed.](https://www.sipc.org/cases-and-claims/open-cases)
     
-    [![How a Liquidation Works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![How a Liquidation Works](/assets/img/cases-and-claims/how-a-liquidation-works.png)
     
     How a Liquidation Works
     
     Steps SIPC takes to recover customer assets when a brokerage firm fails financially.](https://www.sipc.org/cases-and-claims/how-a-liquidation-works)
     
-    [![How The Claims Process Works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![How The Claims Process Works](/assets/img/cases-and-claims/how-the-claims-process-works.png)
     
     How The Claims Process Works
     
@@ -123,49 +125,49 @@ Search Query
     
     First 50 years of protection](https://www.sipc.org/video50)
     
-    [![When SIPC Gets Involved](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![When SIPC Gets Involved](/assets/img/for-investors/when-sipc-gets-involved.png)
     
     When SIPC Gets Involved
     
     SIPC steps in when a brokerage firm fails financially, and assets are missing from customer accounts.](https://www.sipc.org/for-investors/when-sipc-gets-involved)
     
-    [![What SIPC Protects](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![What SIPC Protects](/assets/img/for-investors/what-sipc-protects.png)
     
     What SIPC Protects
     
     SIPC protects customer assets when a SIPC-member brokerage firm fails financially.](https://www.sipc.org/for-investors/what-sipc-protects)
     
-    [![Investors with Multiple Accounts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Investors with Multiple Accounts](/assets/img/for-investors/multiple-accounts.png)
     
     Investors with Multiple Accounts
     
     Understand how SIPC protection works if you have multiple accounts.](https://www.sipc.org/for-investors/investors-with-multiple-accounts)
     
-    [![Investor FAQs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Investor FAQs](/assets/img/for-investors/investor-faqs.png)
     
     Investor FAQs
     
     Find answers to your questions.](https://www.sipc.org/for-investors/investor-faqs)
     
-    [![Fraud Alerts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Fraud Alerts](/assets/img/for-investors/fraud.png)
     
     Fraud Alerts
     
     See our latest fraud alerts to protect yourself.](https://www.sipc.org/for-investors/fraud-alert)
     
-    [![Protecting Yourself Against Fraud](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Protecting Yourself Against Fraud](/assets/img/for-investors/protecting-against-fraud.png)
     
     Protecting Yourself Against Fraud
     
     Steps you can take to protect yourself from fraud.](https://www.sipc.org/for-investors/protecting-against-fraud)
     
-    [![SIPC Annual Report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![SIPC Annual Report](/assets/img/news-and-media/annual-reports.png)
     
     SIPC Annual Report
     
     The year in review.](https://www.sipc.org/news-and-media/annual-reports)
     
-    [![Brochures](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Brochures](/assets/img/news-and-media/brochures.png)
     
     Brochures
     
@@ -181,39 +183,43 @@ Search Query
     
     Guidelines and tools for SIPC member brokerage firms.
     
-    [![Assessment Rate](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Assessment Rate](/assets/img/for-members/assessment-rate.png)
     
     Assessment Rate](https://www.sipc.org/for-members/assessment-rate)
     
-    [![Member FAQs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Member FAQs](/assets/img/for-members/member-faqs.png)
     
     Member FAQs](https://www.sipc.org/for-members/member-faqs)
     
-    [![SIPC Logo Rules](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![SIPC Logo Rules](/assets/img/for-members/sipc-logo.png)
     
     SIPC Logo Rules](https://www.sipc.org/for-members/sipc-logo)
     
-    [![Order Brochures, Signs, and Decals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Order Brochures, Signs, and Decals](/assets/img/for-members/order-brochures.png)
     
     Order Brochures, Signs, and Decals](https://www.sipc.org/for-members/order)
     
-    [![Fraud Alerts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Fraud Alerts](/assets/img/for-investors/fraud.png)
     
     Fraud Alerts
     
     See our latest fraud alerts to protect yourself.](https://www.sipc.org/for-investors/fraud-alert)
     
-    [![Portal Information](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Portal Information](/assets/img/for-members/portal.png)
     
     Portal Information
     
     Information about the SIPC Broker-Dealer Portal.](https://www.sipc.org/portal)
     
-    [![Portal Webinar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Portal Webinar](/assets/img/for-members/webinar2.png)
     
     Portal Webinar
     
     Watch a webinar about the SIPC Broker-Dealer Portal.](https://www.sipc.org/for-members/portal-webinar)
+    
+    [![Portal Survey](/assets/img/for-members/portal-survey.png)
+    
+    Portal Survey](https://www.sipc.org/for-members/portal-survey)
     
     * * *
     
@@ -251,27 +257,27 @@ Search Query
     
     News releases, brochures, reports, and more.
     
-    [![News Releases](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![News Releases](/assets/img/news-and-media/news-releases.png)
     
     News Releases](https://www.sipc.org/news-and-media/news-releases)
     
-    [![Speeches and Testimony](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Speeches and Testimony](/assets/img/news-and-media/speeches-and-testimony.png)
     
     Speeches and Testimony](https://www.sipc.org/news-and-media/speeches-and-testimony)
     
-    [![Brochures](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Brochures](/assets/img/news-and-media/brochures.png)
     
     Brochures](https://www.sipc.org/news-and-media/brochures)
     
-    [![Annual Reports](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Annual Reports](/assets/img/news-and-media/annual-reports.png)
     
     Annual Reports](https://www.sipc.org/news-and-media/annual-reports)
     
-    [![In the Media](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![In the Media](/assets/img/news-and-media/in-the-media.png)
     
     In the Media](https://www.sipc.org/news-and-media/in-the-media)
     
-    [![Media Contact](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Media Contact](/assets/img/news-and-media/media-contact.png)
     
     Media Contact](https://www.sipc.org/news-and-media/media-contact)
     
@@ -365,6 +371,7 @@ For Member Firms
 * [Portal Information](https://www.sipc.org/portal) [\>](https://www.sipc.org/portal)
 * [Portal Webinar](https://www.sipc.org/for-members/portal-webinar) [\>](https://www.sipc.org/for-members/portal-webinar)
 * [How To File Your Agreed-Upon Procedures (AUP) Report](https://www.sipc.org/for-members/rule-600-reports) [\>](https://www.sipc.org/for-members/rule-600-reports)
+* [Portal Survey](https://www.sipc.org/for-members/portal-survey) [\>](https://www.sipc.org/for-members/portal-survey)
 * [How To File Your Form SIPC-3](https://www.sipc.org/for-members/sipc-3) [\>](https://www.sipc.org/for-members/sipc-3)
 * [Pay Assessments](https://www.sipc.org/for-members/assessments) [\>](https://www.sipc.org/for-members/assessments)
 * [Collapse Navigation](#)
@@ -392,6 +399,8 @@ News & Media
 [![SIPC Logo](/assets/img/sipc_logo.svg)](https://www.sipc.org/)
 
 [List Of Members](https://www.sipc.org/list-of-members)
+
+[Portal survey for broker-dealers, launching 9/9/2024](https://www.sipc.org/for-members/portal-survey)
 
 Privacy Policy
 ==============
