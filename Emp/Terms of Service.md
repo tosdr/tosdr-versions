@@ -28,9 +28,9 @@ Reviews
 
 Login
 
-[Shopping from United Kingdom Please click here to visit EMP Online Shop for customers from United Kingdom
+[Shopping from International Please click here to visit EMP Online Shop for customers from International
 
-Ok](https://www.emp.co.uk/home?forceThisShop=1)
+Ok](https://www.emp-online.com/?forceThisShop=1)
 
 [EMP International](https://www.emp-online.com/?forceThisShop=1 "International")
 
@@ -78,11 +78,7 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
     
 * [Brands](https://www.emp-online.com/clothing-brands/)
     
-* [Movies & TV](https://www.emp-online.com/fan-merch/)
-    
-* [Anime](https://www.emp-online.com/fan-merch/anime/)
-    
-* [Gaming](https://www.emp-online.com/gaming/)
+* [Entertainment](https://www.emp-online.com/entertainment/)
     
 * [Homeware](https://www.emp-online.com/fun-lifestyle/homeware/)
     
@@ -468,7 +464,7 @@ Our web shop bears the quality seal "EHI Qualified Online Shop" ("EHI Geprüfter
 | --- | --- |
 | **Address:**  <br>E.M.P. Merchandising Handelsgesellschaft mbH  <br>Darmer Esch 70 a  <br>49811 Lingen  <br>Germany | **Postal Address:**  <br>E.M.P. Merchandising Handelsgesellschaft mbH  <br>Postfach  <br>49801 Lingen  <br>Germany |
 | Telephone: + 49 591 - 9 14 310  <br>**Mon-Fri:** 8.00 am - 8.00 pm, Sat 10.00 am - 6.00 pm, Sun 11.00 am - 7.00 pm (except public holidays)  <br>**Fax:** +49 591 - 9 14 320  <br>**Email:** [mailbox@emp.de](mailto:mailbox@emp.de) | **Return Address (Postal address for returns)**  <br>**E.M.P. Merchandising Handelsgesellschaft mbH**  <br>Darmer Esch 333  <br>49811 Lingen  <br>Germany  <br>Or the address indicated in the aftermailing  <br>[To our return portal](https://www.emp-online.com/retoure "Returns") |
-| St.-Nr.: 61/200/50101  <br>Commercial Register:  <br>Registered at the Local Court Osnabrück, HRB 100299  <br>  <br>Managing Directors:  <br>Dr Jan Fischer, Antony Harlow, Eric Levin |
+| St.-Nr.: 61/200/50101  <br>Commercial Register:  <br>Registered at the Local Court Osnabrück, HRB 100299  <br>  <br>Managing Directors:  <br>Dr Jan Fischer, Antony Harlow |
 
 Online dispute resolution pursuant to Art 14 (1) ODR-VO: The European Commission offers a platform for online dispute resolution (ODR) available under http://ec.europa.eu/consumers/odr/.
 
@@ -518,11 +514,11 @@ I hereby consent to receive the EMP Newsletter and consent that EMP Mail Order U
 
 Subscribe
 
-\*Valid for 4 weeks. Only redeemable online. Cannot be used in conjunction with any other promotional codes. After entering the code, the discount will be automatically deducted from your shopping basket. Books, media, tickets, Rammstein, Die Ärzte, Die Toten Hosen, Feine Sahne Fischfilet, Broilers, New Balance, Böhse Onkelz, Funko Pop!, vouchers & items that include a donation in the price are excluded from the promotion.
+\*Valid for 4 weeks. Only redeemable online. Cannot be used in conjunction with any other promotional codes. After entering the code, the discount will be automatically deducted from your shopping basket. Books, media, tickets, Rammstein, Die Ärzte, Die Toten Hosen, Feine Sahne Fischfilet, Broilers, Böhse Onkelz, vouchers & items that include a donation in the price are excluded from the promotion.
 
 Our customer services are here for you
 
-Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available till 5:30 PM. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
