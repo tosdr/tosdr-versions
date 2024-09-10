@@ -105,7 +105,7 @@
             
             **Adults: [800-525-2225](tel:8005252225)**
             
-            Monday through Friday, 8 a.m. to 6 p.m. (Eastern time)
+            Available 24 hours a day, 7 days a week
             
             **Children & Teens: [833-MSK-KIDS](tel:8336755437)**
             
@@ -355,4 +355,4 @@ The information in Memorial Sloan Kettering Cancer Center’s website is not int
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44141.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
+* [Log in web-44142.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
