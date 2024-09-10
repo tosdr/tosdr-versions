@@ -49,13 +49,13 @@
 
 ###### Featured posts
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/success_stories_thumbnail_experian-1.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/1440x810_CoffeeandCreative_Metaplay_Gamification_Blog_Header_Recap-1.jpg)
 
-###### Experian Scales with AppDiscovery](https://www.applovin.com/success-stories/experian/)
+###### New Webinar: Metaplay & Gamification](https://www.applovin.com/blog/new-interactive-ads-webinar-about-metaplay-and-gamification-is-live/)
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/admin-ajax-1.jpeg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/1440x810_Blog-Header_-What-is-User-Acquisition-1.jpg)
 
-###### Cannes Lions 2024 Insights](https://www.applovin.com/blog/cannes-lions-2024-audience-reach-on-the-french-riviera/)
+###### Difference Between Mobile UA and DTC](https://www.applovin.com/blog/what-is-user-acquisition-marketing-different-than-dtc/)
 
 ###### More about us
 
