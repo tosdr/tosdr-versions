@@ -5,9 +5,9 @@ Loading, please wait...
 TERMS OF SERVICE
 ================
 
-Last Updated: December 31, 2022
+Last Updated: March 2, 2023
 
-These Terms of Service form the agreement (“**Agreement**”) between you as a user (“**you**”) and the applicable provider company listed on the Contracting Entity Table at [https://www.pdffiller.com/en/contracting-entities](https://www.pdffiller.com/en/contracting-entities) (“**Provider**”) regarding your use of websites, software (including software applications, mobile applications, and APIs), and other services of Provider (collectively, the “**Services**”). If you are using the Services on behalf of an organization, the term "you" refers to such organization.
+These Terms of Service form the agreement (“**Agreement**”) between you as a user (“**you**”) and the applicable provider company listed on the Contracting Entity Table at [https://www.pdffiller.com/en/contracting-entities.htm](https://www.pdffiller.com/en/contracting-entities.htm) (“**Provider**”) regarding your use of websites, software (including software applications, mobile applications, and APIs), and other services of Provider (collectively, the “**Services**”). If you are using the Services on behalf of an organization, the term "you" refers to such organization.
 
 **IMPORTANT**: BY CLICKING “REGISTER,” “START TRIAL,” OR SIMILAR WORDING TO CREATE AN ACCOUNT, SIGNING ANY DOCUMENT THAT INCORPORATES THESE TERMS BY REFERENCE, COMPLETING THE REGISTRATION PROCESS, OR USING THE SERVICES, YOU AGREE TO THESE TERMS; IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT CLICK TO CREATE AN ACCOUNT, SIGN A DOCUMENT THAT INCORPORATES THESE TERMS, COMPLETE THE REGISTRATION PROCESS, OR USE THE SERVICES.
 
@@ -35,9 +35,9 @@ These Terms of Service form the agreement (“**Agreement**”) between you as a
 
 “**Agreement**” includes these Terms of Service, the Subscription Terms, and the following additional documents (to the extent applicable):
 
-* “Data Processing Addendum”, which governs the handling and transfer of personal data, available at [https://www.pdffiller.com/en/dpa](https://www.pdffiller.com/en/dpa).  
+* “Data Processing Addendum”, which governs the handling and transfer of personal data, available at [https://www.pdffiller.com/en/dpa.htm](https://www.pdffiller.com/en/dpa.htm).  
     
-* “Service Level Agreement”, which governs the availability of the Subscription Services for Subscribers, available at [https://www.pdffiller.com/en/sla](https://www.pdffiller.com/en/sla).
+* “Service Level Agreement”, which governs the availability of the Subscription Services for Subscribers, available at [https://www.pdffiller.com/en/sla.htm](https://www.pdffiller.com/en/sla.htm).
 
 The Agreement is the entire agreement between the parties with respect to your access and use of the Services. It supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter and prevails over any inconsistent or conflicting terms contained in any documents, communications, or discussions. In case of a conflict or inconsistency between these Terms and any other document that forms the Agreement, these Terms will control unless another document explicitly states that it overrules these Terms.
 
@@ -52,7 +52,7 @@ The Agreement is the entire agreement between the parties with respect to your a
 
 3.4. **Feedback**. If you provide an idea, suggestion, information, or feedback relating to the Services (“**Feedback**”), including, without limitation, new features or functionality, by this Agreement you assign to Provider all rights, including all copyright, patent, and other intellectual property rights in all of your Feedback to Provider. This includes Feedback submitted to Provider via support tickets, email, chat, survey, product review, or community forum. Where assignment is prohibited by law, you grant Provider and its affiliates an exclusive (even as to you), transferable, worldwide, royalty-free, fully paid-up license (including the right to sublicense) to use all Feedback.
 
-3.5. **DMCA Takedown Requests**. If you believe that any content should not be available on the Services, you should report it to Provider’s support team. If you believe that any content on the Services infringes your copyright rights, please follow Provider’s DMCA Takedown Policy at [https://www.pdffiller.com/en/dmca](https://www.pdffiller.com/en/dmca).  
+3.5. **DMCA Takedown Requests**. If you believe that any content should not be available on the Services, you should report it to Provider’s support team. If you believe that any content on the Services infringes your copyright rights, please follow Provider’s DMCA Takedown Policy at [https://www.pdffiller.com/en/dmca.htm](https://www.pdffiller.com/en/dmca.htm).  
 
 4\. CONFIDENTIALITY.
 --------------------
@@ -156,7 +156,7 @@ YOUR JURISDICTION MAY NOT ALLOW THE EXCLUSION OF WARRANTIES OR LIMITATION OF LIA
 11\. HANDLING OF PERSONAL DATA.
 -------------------------------
 
-**To the extent that Provider has access to any personal data gathered from you or your Authorized Users in connection with the Services, such information will be processed in accordance with the provisions of Provider’s Privacy Notice at** [https://www.pdffiller.com/en/privacy-notice](https://www.pdffiller.com/en/privacy-notice).
+**To the extent that Provider has access to any personal data gathered from you or your Authorized Users in connection with the Services, such information will be processed in accordance with the provisions of Provider’s Privacy Notice at** [https://www.pdffiller.com/en/privacy-notice.htm](https://www.pdffiller.com/en/privacy-notice.htm).
 
 12\. TERM AND TERMINATION OF THIS AGREEMENT.
 --------------------------------------------
@@ -184,7 +184,7 @@ Once this Agreement is terminated, your account, Your Content, Provider Content,
 15\. GOVERNING LAW.
 -------------------
 
-The law that governs all matters arising out of this Agreement and the venue where legal disputes will be resolved is identified on the Contracting Entity Table at [https://www.pdffiller.com/en/contracting-entities](https://www.pdffiller.com/en/contracting-entities). The body of law controlling conflicts of law does not apply. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement.
+The law that governs all matters arising out of this Agreement and the venue where legal disputes will be resolved is identified on the Contracting Entity Table at [https://www.pdffiller.com/en/contracting-entities.htm](https://www.pdffiller.com/en/contracting-entities.htm). The body of law controlling conflicts of law does not apply. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to the Agreement.
 
 16\. CHANGES TO THE AGREEMENT.
 ------------------------------
@@ -220,7 +220,7 @@ PROVIDER MAY FROM TIME TO TIME PROPOSE CHANGES TO THIS AGREEMENT BY POSTING AN U
     
 * Both parties agree that any notices, agreements, disclosures, or other communications that the other party sends to it electronically will satisfy any legal communication requirements, including that such communications be in writing, provided that any communication to you is sent to the email address provided on your account and that any communication to Provider is sent to the applicable notice address specified in the Contracting Entity Table.
 
-We use cookies to improve security, personalize the user experience, enhance our marketing activities (including cooperating with our marketing partners) and for other business use. Click [here](https://www.pdffiller.com/en/cookies "Cookie Policy") to read our Cookie Policy. By clicking “Accept“ you agree to the use of cookies. ... Read moreRead less
+We use cookies to improve security, personalize the user experience, enhance our marketing activities (including cooperating with our marketing partners) and for other business use. Click [here](https://www.pdffiller.com/en/cookies.htm "Cookie Policy") to read our Cookie Policy. By clicking “Accept“ you agree to the use of cookies. ... Read moreRead less
 
 Accept
 
