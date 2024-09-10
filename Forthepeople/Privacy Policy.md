@@ -82,7 +82,6 @@
         * [Louisville Hurstbourne](https://www.forthepeople.com/office-locations/kentucky/louisville-hurstbourne/)
         * [Owensboro](https://www.forthepeople.com/office-locations/kentucky/owensboro/)
         * [Paducah](https://www.forthepeople.com/office-locations/kentucky/paducah/)
-        * [Prestonsburg](https://www.forthepeople.com/office-locations/kentucky/prestonsburg/)
     * [Louisiana](https://www.forthepeople.com/office-locations/louisiana/new-orleans/)
     * [Maine](https://www.forthepeople.com/office-locations/maine/portland/)
     * [Maryland](https://www.forthepeople.com/office-locations/maryland/baltimore/)
@@ -134,7 +133,7 @@
         * [Houston](https://www.forthepeople.com/office-locations/texas/houston/)
     * [Utah](https://www.forthepeople.com/office-locations/utah/salt-lake-city/)
     * [Vermont](https://www.forthepeople.com/office-locations/vermont/burlington/)
-    * [Virginia](https://www.forthepeople.com/office-locations/virginia/arlington/)
+    * [Virginia](https://www.forthepeople.com/virginia/arlington/)
     * [Washington](https://www.forthepeople.com/office-locations/washington/seattle/)
     * [Washington, D.C.](https://www.forthepeople.com/office-locations/washington-dc/)
     * [West Virginia](https://www.forthepeople.com/office-locations/west-virginia/charleston/)
@@ -142,6 +141,19 @@
     * [Wyoming](https://www.forthepeople.com/office-locations/wyoming/cheyenne/)
     * [View All Locations](https://www.forthepeople.com/office-locations/)
 * Practice Areas
+    * Car Accidents
+        * [Car Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
+        * [Motorcycle Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/motorcycle-accident-attorneys/)
+        * [Truck Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/)
+        * [Bike Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/bike-accidents/)
+        * [Train & Railroad Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/train-accident-attorneys/)
+        * [Plane Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/)
+        * [Helicopter Crashes](https://www.forthepeople.com/blog/how-do-helicopter-crashes-happen/)
+        * [Tesla Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/tesla/fires/)
+        * [Scooter Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/scooter-accident-lawyers/)
+        * [Golf Cart Wrecks](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/golf-cart-accident-lawyers/)
+        * [Pedestrian Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/pedestrian-accidents/)
+        * [ATV Accidents](https://www.forthepeople.com/practice-areas/product-liability-attorneys/atv/)
     * Personal Injury
         * [Personal Injury](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/)
         * [Auto Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
@@ -227,6 +239,8 @@
         * [Takata](https://www.forthepeople.com/practice-areas/defective-product-lawyers/takata-airbag-recall/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
         * [View All](https://www.forthepeople.com/practice-areas/defective-product-lawyers/)
+    * Disaster Recovery
+        * [Maui Wildfire](https://www.forthepeople.com/blog/representation-victims-lahaina-wildfires/)
     * Insurance Disputes
         * [Accidental Death & Dismemberment](https://www.forthepeople.com/practice-areas/insurance-attorney/accidental-death-and-dismemberment-lawsuits/)
         * [Bad Faith Claims](https://www.forthepeople.com/practice-areas/insurance-attorney/bad-faith-claim/)
@@ -237,7 +251,7 @@
         * [Fire Claims](https://www.forthepeople.com/practice-areas/insurance-attorney/fire-claims/)
         * [Hail Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/hail-damage/)
         * [Homeowners](https://www.forthepeople.com/practice-areas/insurance-attorney/homeowners-claims/)
-        * [Hurricane & Storm Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/hurricane-insurance-claim-dispute-assistance/)
+        * [Hurricane & Storm Damage](https://www.forthepeople.com/blog/hurricane-and-storm-damage-insurance-lawsuits/)
         * [Life Insurance Benefits](https://www.forthepeople.com/practice-areas/insurance-attorney/life-insurance-benefits/)
         * [Lightning Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/lightning-damage-insurance/)
         * [Motor Vehicles](https://www.forthepeople.com/practice-areas/insurance-attorney/car-insurance-disputes/)
@@ -246,16 +260,14 @@
         * [Tornadoes](https://www.forthepeople.com/practice-areas/insurance-attorney/tornado-insurance-claim-dispute-assistance/)
         * [View All](https://www.forthepeople.com/practice-areas/insurance-attorney/)
     * Mass Arbitration
-        * [Video Streaming](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/video-privacy-violation-claim/)
         * [Mass Arbitration](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/)
         * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
     * Mass Tort
-        * [Maui Wildfire](https://www.forthepeople.com/practice-areas/insurance-attorney/wildfire-lawyers/maui-wildfire-attorneys/)
+        * [Maui Wildfire](https://www.forthepeople.com/blog/representation-victims-lahaina-wildfires/)
         * [Hair Relaxer](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/hair-relaxer-lawsuit/)
         * [Social Media Harm](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/social-media-harm/)
         * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
-        * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
     * [Mesothelioma](https://www.forthepeople.com/practice-areas/mesothelioma-attorneys/)
     * [Sexual Abuse](https://www.forthepeople.com/practice-areas/child-sexual-abuse/)
@@ -317,6 +329,11 @@ Popular Topics
 * [Personal Injury](https://www.forthepeople.com/search?query=Personal%20Injury)
 * [Social Security](https://www.forthepeople.com/search?query=Social%20Security)
 * [Medical Malpractice](https://www.forthepeople.com/search?query=Medical%20Malpractice)
+
+Search
+------
+
+Use this form to search the site. Enter your search query and press enter to search.
 
 877-667-4265 Call Now - Open 24/7 877-667-4265
 
@@ -592,6 +609,8 @@ Results may vary depending on your particular facts and legal circumstances. ©2
 For a full list of locations in your area please visit our [Office Locations](https://www.forthepeople.com/office-locations/) page.
 
 This site is designed to be accessible to and usable by people with and without disabilities. Please [contact us](https://www.forthepeople.com/complaints/) if you encounter an accessibility or usability issue on this site. Attorney advertising. Prior results do not guarantee a similar outcome.
+
+Your privacy choices.
 
 ©2024 Morgan and Morgan, P.A. All rights reserved
 
