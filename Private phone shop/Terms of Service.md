@@ -6,31 +6,35 @@
 
 ![](https://privatephoneshop.com/wp-content/uploads/2024/01/1_new_horizontal-300x98.png)](https://privatephoneshop.com/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
 [0 $0.00](#)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
-* [About Us](https://privatephoneshop.com/about-us/)
+* [About](https://privatephoneshop.com/about-us/)
+* [Shop](https://privatephoneshop.com/#shop)
 * [Resources](https://privatephoneshop.com/resources/)
 * [FAQ](https://privatephoneshop.com/faq/)
 * [Searx](https://privatephoneshop.com/searx/)
-* [Contact Us](https://privatephoneshop.com/contact/)
+* [Contact](https://privatephoneshop.com/contact/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -58,7 +62,7 @@
 Terms and Conditions
 ====================
 
-#### Last updated: June 28, 2023
+#### Last updated: August 21, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -126,9 +130,9 @@ Any Goods you purchase can only be returned in accordance with these Terms and C
 
 Our Returns Policy forms a part of these Terms and Conditions. Please read our Returns Policy to learn more about your right to cancel Your Order.
 
-You have 30 days from the date of delivery to submit a return. You may do so using our return portal, located at [https://privatephoneshop.com/returns](https://privatephoneshop.com/returns). Any returns after this date may be denied, at our sole discretion.
+You have 30 days from the date of delivery to submit a return. You may do so using our return portal, located at [https://privatephoneshop.com/returns](https://privatephoneshop.com/returns). Any returns after this date may be denied, at our sole discretion.  **It is Your responsibility to ensure that any Goods purchased from Us are 100% functional during the 30 day return period.**  
 
-Your right to cancel an Order only applies to Goods that are returned in the same condition as You received them. You should also include all of the products instructions, documents,and any other materials that were included with the product. Goods that are damaged or not in the same condition as You received them or which are worn simply beyond opening the original packaging will not be refunded. You should therefore take reasonable care of the purchased Goods while they are in Your possession.
+Your right to cancel an Order only applies to Goods that are returned in the same condition as You received them. You should also include all of the products instructions, documents, and any other materials that were included with the product. Goods that are damaged or not in the same condition as You received them or which are worn simply beyond opening the original packaging will not be refunded. You should therefore take reasonable care of the purchased Goods while they are in Your possession.
 
 We will reimburse You no later than 14 days from the day on which We receive the returned Goods. We will use the same means of payment as You used for the Order, where possible. If Goods are returned due to a physical defect or damage incurred during shipping, you will receive a full refund. Goods which are returned for any other reason are subject to a 15% restocking fee, which will be subtracted from any refund.
 
