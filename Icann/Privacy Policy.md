@@ -21,7 +21,7 @@ By using the Platforms, you (including any entity or person on whose behalf you 
 
 This Privacy Policy supplements, and does not supersede, any other privacy policy or statement from us relating to any of our unique programs.
 
-If you have any questions about this Privacy Policy or our Processing of your Personal Information as the Data Controller, please feel free to contact us at [privacy@icann.org](mailto:privacy@icann.org).
+If you have any questions about this Privacy Policy or our Processing of your Personal Information as the Data Controller, please feel free to contact us at [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection).
 
 This Privacy Policy covers the following key topics:
 
@@ -131,7 +131,7 @@ This Privacy Policy covers the following key topics:
     
     By using our Platforms or providing us with your Personal Information electronically, the User is directly transferring Personal Information and Non-Identifiable Information to us in the United States. The User's Personal Information also may be transferred and Processed in other countries where our staff or third-party service providers are located. The United States and such other countries may not have the same level of information protection as the User's jurisdiction.
     
-    Whenever such transfers are by one of our location in a country outside the United States to another of our location in the United States, they are based on contractual commitments, such as the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement), or other applicable data transfer arrangements, in order to contractually provide that your Personal Information is subject to adequate levels of data protection. You may request further information concerning such contractual commitments by sending a request to [privacy@icann.org](mailto:privacy@icann.org).
+    Whenever such transfers are by one of our location in a country outside the United States to another of our location in the United States, they are based on contractual commitments, such as the Standard Contractual Clauses (according to EU Commission Decision 87/2010/EC or any future replacement), or other applicable data transfer arrangements, in order to contractually provide that your Personal Information is subject to adequate levels of data protection. You may request further information concerning such contractual commitments by sending a request to [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection).
     
     The User is solely responsible for compliance with any information protection or privacy obligations in the User's jurisdiction when using the Platforms or providing us with Personal Information. By submitting Personal Information, the User agrees to such Processing.
     
@@ -151,7 +151,7 @@ This Privacy Policy covers the following key topics:
     
 18. ### Exercise of Data Subject Rights
     
-    Users may be entitled to obtain access to information on the Processing of Personal Information, to object to certain Processing, request information portability, and have their Personal Information rectified, deleted, or otherwise restricted in terms of Processing, in each case as permitted under applicable law. Users also may be entitled to withdraw any consent given with prospective effect with respect to the Processing of their Personal Information. Users can exercise these rights or learn more about the Processing of Personal Information by us, by sending a request to [privacy@icann.org](mailto:privacy@icann.org). Any request is subject to identity verification. All privacy-related access requests are taken seriously, and we will respond to request(s) as soon as reasonably practicable, but in any case, within the legally required period of time. Please note that certain Personal Information may be exempt from such access, correction, objection, or deletion rights pursuant to local laws.
+    Users may be entitled to obtain access to information on the Processing of Personal Information, to object to certain Processing, request information portability, and have their Personal Information rectified, deleted, or otherwise restricted in terms of Processing, in each case as permitted under applicable law. Users also may be entitled to withdraw any consent given with prospective effect with respect to the Processing of their Personal Information. Users can exercise these rights or learn more about the Processing of Personal Information by us, by sending a request to [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection). Any request is subject to identity verification. All privacy-related access requests are taken seriously, and we will respond to request(s) as soon as reasonably practicable, but in any case, within the legally required period of time. Please note that certain Personal Information may be exempt from such access, correction, objection, or deletion rights pursuant to local laws.
     
     If you are not satisfied with our response or believe that your Personal Data is not being Processed in accordance with the law, you also may contact or lodge a complaint with the competent supervisory authority or seek other remedies under applicable law.
     
@@ -159,7 +159,7 @@ This Privacy Policy covers the following key topics:
     
 20. ### Minors
     
-    We do not knowingly collect or require Personal Information from children under the age of 13. If you believe your child has provided us with Personal Information, please notify us by email at [privacy@icann.org](mailto:privacy@icann.org).
+    We do not knowingly collect or require Personal Information from children under the age of 13. If you believe your child has provided us with Personal Information, please notify us by email at [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection).
     
 22. ### Revisions to our Privacy Policy
     
@@ -167,4 +167,4 @@ This Privacy Policy covers the following key topics:
     
 24. ### Questions
     
-    Should you have any questions or concerns about this Privacy Policy and our privacy practices, you may contact us at [privacy@icann.org](mailto:privacy@icann.org).
+    Should you have any questions or concerns about this Privacy Policy and our privacy practices, you may contact us at [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection).
