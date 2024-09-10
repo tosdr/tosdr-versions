@@ -1,10 +1,12 @@
- [![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) EPIC GIVEAWAY AT LALAL.AI ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) GET 5000 MINUTES FREE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg) CLICK TO PARTICIPATE ![](https://s.lalal.ai/img/sale-graphic/white-gift.svg)](https://www.instagram.com/reel/C9vEKa4scJo/?igsh=MWlwMjF2eW41Ymx5dQ==) 
-
 [](https://www.lalal.ai/)
 
 Products New
 
-[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)
+[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+
+Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
+
+Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)
 
 [Tools & API](https://www.lalal.ai/tools-and-api/)
 
@@ -24,7 +26,11 @@ En
 
 [](https://www.lalal.ai/)
 
-[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[Tools & API](https://www.lalal.ai/tools-and-api/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
+[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+
+Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
+
+Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)[Tools & API](https://www.lalal.ai/tools-and-api/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
 
 [Blog](https://www.lalal.ai/blog/)
 
@@ -116,10 +122,10 @@ OmniSale GMBH.
 
 [Previous ← Press](https://www.lalal.ai/press/) [Next Privacy Policy →](https://www.lalal.ai/privacy-policy/)
 
-Try our remover of vocal, accompaniment and instruments now
-===========================================================
+Extract vocal, accompaniment and various instruments from any audio and video
+-----------------------------------------------------------------------------
 
-Select the stem separation type and get results in seconds.
+High-quality stem splitting based on the world's #1 AI-powered technology.
 
 By uploading a file, you agree to our [Terms of Service](https://www.lalal.ai/terms-and-conditions/) .
 
@@ -154,9 +160,7 @@ En
 Cookies
 -------
 
-We use cookies to improve your experience, including possible ad personalization. Read our [Privacy Policy](https://www.lalal.ai/privacy-policy/) to learn more.
-
-By continuing to use this site, you also consent to [Google’s use of your personal data](https://business.safety.google/privacy/). Click Manage to control your cookie preferences.
+For magic to happen, we use cookies. Read our [Privacy Policy](https://www.lalal.ai/privacy-policy/) to learn more.
 
 ### Necessary
 
@@ -174,7 +178,7 @@ They provide valuable insights into site traffic, user behavior, and performance
 
 They gather data to provide customized ads. These cookies enable us to present you with relevant and engaging content.
 
-Manage Hide OK Allow Selected
+OK Allow Selected
 
 ![](https://s.lalal.ai/img/loader.png)
 
