@@ -1,7 +1,7 @@
 **Terms Of Service** 
 ---------------------
 
-_**Last Modified: May 23, 2024**_
+_**Last Modified: July 31, 2024**_
 
  **NOTE:** These Terms of Service were drafted in English. If these Terms of Service are offered in any language other than English it shall be for information purposes only and, in case of conflict between the English-language version and any translation thereof, the English-language version will prevail.
 
