@@ -239,14 +239,14 @@ X
 Privacy Policy
 ==============
 
-This is the main privacy policy for the Media24 Group and applies to any of our products or services on any of our Platforms
+This Is The Main Privacy Policy For The Media24 Group And Applies To Any Of Our Products Or Services On Any Of Our Platforms
 ============================================================================================================================
 
 * [Home](https://www.media24.com/)
 * slash Company
 * [slash Privacy Policy](https://www.media24.com/privacy-policy/)
 
-This is  the main privacy policy for the Media24 Group (Media24) and applies to any of our products or services which you use on any of our Platforms, including our websites, mobile sites, mobile applications, emails or any other technology or service you use to access our products and services. “We”, “us” or “our” in this privacy policy refers to Media24 Proprietary Limited and its subsidiaries. The terms “personal information”, “special personal information” and “process/ing” when used in this document shall bear the meanings as set out in the Protection of Personal Information Act 4 of 2013.
+This is the main privacy policy for the Media24 Group (Media24) and applies to any of our products or services which you use on any of our Platforms, including our websites, mobile sites, mobile applications, emails or any other technology or service you use to access our products and services. “We”, “us” or “our” in this privacy policy refers to Media24 Proprietary Limited and its subsidiaries. The terms “personal information”, “special personal information” and “process/ing” when used in this document shall bear the meanings as set out in the Protection of Personal Information Act 4 of 2013.
 
 It is important that you read this privacy policy together with other terms and conditions, privacy notices or policies we may provide on specific occasions when we collect or use your personal information. This privacy policy supplements these notices and policies, and is not intended to override them.
 
@@ -288,7 +288,8 @@ We collect your personal information through direct interactions with you and wh
 * Buy one of our products or services.
 * Contact us.
 
-**Information we automatically collect or receive when you use our Platforms, products or services**
+**  
+Information we automatically collect or receive when you use our Platforms, products or services**
 
 We may automatically collect information about the equipment you use to access or use our Platforms, your browsing actions and patterns. We do this through the use of cookies, web beacons and other technologies.
 
@@ -306,7 +307,7 @@ Click [here](https://www.media24.com/media24-cookie-policy/) to read our group
 
 **Information from third-party sources**
 
-We may receive other information about you from third parties (where you have consented to such third party sharing your information with us, or where the sharing of your personal information with us is for your legitimate benefit as determined in a legitimate interests assessment of your rights and interests in accordance with POPIA), including third party service providers using automated means like artificial intelligence tools, and combine it with the information we have collected about or received from you in other ways. The information which we may collect from third party sources may include your identifying information and location information. We may also receive information about you when you log into our Platforms using your social networking log-in details. All processing of your personal information, including processing using automated means, will be done in accordance with law and the provisions of this privacy notice.
+We may receive other information about you from third parties (where you have consented to such third party sharing your information with us, or where the sharing of your personal information with us is for our or your legitimate interest), including third party service providers using automated means like artificial intelligence tools, and combine it with the information we have collected about or received from you in other ways. The information which we may collect from third party sources may include your location information. We may also receive information about you when you log into our Platforms using your social networking log-in details. All processing of your personal information, including processing using automated means, will be done in accordance with the law and the provisions of this privacy notice.
 
 What we do with your personal information
 
@@ -326,6 +327,7 @@ We use the personal information we collect and receive to:
 * Protect our legitimate business interests such as debt recovery, keeping our records up to date and studying our customer or user products or services.
 * Comply with any legal or regulatory obligations such as tax or financial laws.
 
+  
 We also use your personal information for research and statistical purposes. The research and statistics we get from this process do not include your personal information and cannot be linked to you, nor can you be identified from these statistics.
 
 On some of our Platforms, we may collect and process special personal information. We will only collect and process this information if you have explicitly consented to us collecting and processing this personal information and for the purpose for which you consented.
@@ -347,6 +349,7 @@ We may provide or make your personal information available to:
 * Third parties if you have agreed to us sharing your personal information with them, such as where you enter into a competition sponsored by a third party and where the provision of your information is a condition for entry to the competition, or where you express your interest in a product or service about which you would like more information.
 * Other parties that provide content, advertising services or functionality on our Platforms. These third parties include i) advertising service providers which help us and our advertising customers provide advertisements that are tailored to users’ interests, ii) audience-measurement companies which help us measure the overall usage of our Platforms and compare that usage with other online services, and iii) social networking services such as Facebook, Twitter, LinkedIn and Instagram that you may select to use to register for and log into some of our services and share things you find on our Platforms with your social network. We do not control the privacy practices of these or any other third party services and recommend you read the privacy policies of these services before connecting to them. These third parties may collect or receive information about your use of our Platforms, including through the use of cookies, web beacons and other technologies, and this information may be collected over time and combined with information collected on various websites and online services.
 
+  
 We may also share your personal information with third parties, including our third-party service providers who may use artificial intelligence tools, to process your personal information, provided that the third party has agreed to be bound by this privacy notice or similar terms which offer the same level of protection as this privacy notice.
 
 We also share our research and statistical information with various third parties. However, this information does not include your personal information, cannot be linked to you and you cannot be identified from these statistics.
@@ -361,7 +364,9 @@ We manage several separate marketing distribution lists across the various Media
 
 You also have the right to request access to the information we have collected about you, request that we correct or update any incorrect or incomplete information, or request a deletion of your personal information. Such request can be submitted by using the data subject access request form found [here](https://privacyportal-de.onetrust.com/webform/37b4518e-0f3e-4cc8-995a-22b30e93ed4f/5db1f52c-58f7-4de1-8c63-5032f28f9406).
 
-Unless a lawful exception under privacy law exists, you have the right not to be subject to a decision that results in legal consequences for you or significantly affects you, if the decision is based **solely** on the automated processing of personal information intended to profile you, including aspects such as your performance at work, creditworthiness, reliability, location, health, personal preferences, or conduct. If this right applies to any automated decision-making we undertake, we will provide you with the opportunity to make representations about our decision. You may at any time lodge an objection with us regarding our collection and use of your personal information by clicking [here](https://privacyportal-de.onetrust.com/webform/37b4518e-0f3e-4cc8-995a-22b30e93ed4f/5db1f52c-58f7-4de1-8c63-5032f28f9406).
+Unless a lawful exception under privacy law exists, you have the right not to be subject to a decision that results in legal consequences for you or significantly affects you, if the decision is based **solely** on the automated processing of personal information intended to profile you, including aspects such as your performance at work, creditworthiness, reliability, location, health, personal preferences, or conduct. If this right applies to any automated decision-making we undertake, we will provide you with the opportunity to make representations about our decision.
+
+You may at any time lodge an objection with us regarding our collection and use of your personal information by clicking [here](https://privacyportal-de.onetrust.com/webform/37b4518e-0f3e-4cc8-995a-22b30e93ed4f/5db1f52c-58f7-4de1-8c63-5032f28f9406).
 
 Our commitment to security
 
@@ -383,7 +388,7 @@ Any of the information that we collect about you or receive from you is stored i
 
 Changes to this privacy policy
 
-This version of the privacy policy was last updated on 25 July 2024 and replaces any preceding privacy policies.
+This version of the privacy policy was last updated on **30 August 2024** and replaces any preceding privacy policies.
 
 We may occasionally update this privacy policy. Any changes we make will be posted on this page and we will notify you of the update in the appropriate manner. When you use our Platforms the version of the privacy policy posted on this page applies to you. We encourage you to review this privacy policy whenever you access our Platforms.
 
