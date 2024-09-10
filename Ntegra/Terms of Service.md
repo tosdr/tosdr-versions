@@ -184,9 +184,9 @@ Oops! Something went wrong while submitting the form.
 
 [Privacy Policy](https://www.ntegra.com/privacy)[Cookie Policy](https://www.ntegra.com/cookies)[Terms & Conditions](https://www.ntegra.com/terms)
 
-#### Socials
+[#### Services](https://www.ntegra.com/service-suite)
 
-[LinkedIn](https://www.linkedin.com/company/636263)[Facebook](#)
+[Cloud Native Applications](https://www.ntegra.com/cloud-native-applications)[Cloud Centre of Excellence](https://www.ntegra.com/cloud-centre-of-excellence)[Microsoft Applications CoE](https://www.ntegra.com/microsoft-applications-coe)[Innovation Programme](https://www.ntegra.com/innovation-programme)[NtegraFlex](https://www.ntegra.com/ntegraflex)[Digital Start](https://www.ntegra.com/digital-start)
 
 ©2022 Ntegra Ltd. All rights reserved
 
