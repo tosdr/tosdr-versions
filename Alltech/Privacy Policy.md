@@ -102,6 +102,8 @@ Middle East
 
 [Morocco](https://www.alltech.com/fr-ma)
 
+[South Africa](https://www.alltech.com/en-za)
+
 [UAE](https://www.alltech.com/ae-en)
 
 [![Alltech Inc. logo](/themes/custom/alltechcom2017/assets/src/images/logo-black.png)](https://www.alltech.com/)
@@ -129,6 +131,7 @@ Middle East
     About](https://www.alltech.com/about)
     * [Our Vision](https://www.alltech.com/about/our-vision)
     * [Our Business](https://www.alltech.com/about/our-business)
+    * [Our Leaders](https://www.alltech.com/about/our-leaders)
     * [Sustainability](https://www.alltech.com/about/sustainability)
     * [Philanthropy](https://www.pearselyonsace.org/)
     * [Careers](https://www.alltech.com/about/careers)
@@ -148,7 +151,7 @@ Middle East
     Store](https://store.alltech.com/?utm_source=alltech.com&utm_medium=referral&utm_campaign=main-navigation)
 * [![](/sites/default/files/2023-08/Planet-of-Plenty-Leaf.png)
     
-    Planet of Plenty™](https://www.alltech.com/planet-of-plenty)
+    Planet of Plenty®](https://www.alltech.com/planet-of-plenty)
 
 * [Facebook](https://www.facebook.com/AlltechNaturally/)
 * [X-twitter](https://twitter.com/Alltech)
@@ -188,6 +191,7 @@ Menu
     About](https://www.alltech.com/about)
     * [Our Vision](https://www.alltech.com/about/our-vision)
     * [Our Business](https://www.alltech.com/about/our-business)
+    * [Our Leaders](https://www.alltech.com/about/our-leaders)
     * [Sustainability](https://www.alltech.com/about/sustainability)
     * [Philanthropy](https://www.pearselyonsace.org/)
     * [Careers](https://www.alltech.com/about/careers)
@@ -207,7 +211,7 @@ Menu
     Store](https://store.alltech.com/?utm_source=alltech.com&utm_medium=referral&utm_campaign=main-navigation)
 * [![](/sites/default/files/2023-08/Planet-of-Plenty-Leaf.png)
     
-    Planet of Plenty™](https://www.alltech.com/planet-of-plenty)
+    Planet of Plenty®](https://www.alltech.com/planet-of-plenty)
 * Search
     *  Search
         
