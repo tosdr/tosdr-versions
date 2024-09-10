@@ -3,7 +3,7 @@
 ##### Effective Date: May 29, 2018
 
   
-Glarysoft Ltd. (''Glarysoft'') is committed to preserving the privacy of our users. We know how much you care about the way your Personal Data is used. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information Glarysoft collects on our Sites and/or Services, how Glarysoft uses it and your options regarding information Glarysoft may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into Glarysoft's Terms of Use and End User License Agreements associated with its Sites and/or Services.  
+Glarysoft is committed to preserving the privacy of our users. We know how much you care about the way your Personal Data is used. In that regard, we have established for the Sites and/or Services the following privacy policy to explain and describe what personal information Glarysoft collects on our Sites and/or Services, how Glarysoft uses it and your options regarding information Glarysoft may collect about you. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy. This Privacy Policy is a part of and incorporated into Glarysoft's Terms of Use and End User License Agreements associated with its Sites and/or Services.  
   
 Please read the Glarysoft Online Privacy Statement below to know about the particular information we may collect.  
   
