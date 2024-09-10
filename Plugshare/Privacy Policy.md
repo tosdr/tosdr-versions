@@ -337,7 +337,7 @@ The following explains each data subject right described in the Supplemental Pri
 
 PlugShare has designated a Data Protection Officer as the individual who will oversee compliance with privacy requirements. PlugShare’s Data Protection Officer can be contacted at the address below regarding any privacy policy issues.
 
-If you have any questions or comments about this Privacy Policy or our privacy practices, please contact us at: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 USA; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+If you have any questions or comments about this Privacy Policy or our privacy practices, please contact us at: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 USA; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -891,7 +891,7 @@ Im Folgenden wird jedes Recht der betroffenen Person erläutert, das in den erg�
 
 PlugShare hat einen Datenschutzbeauftragten als die Person ernannt, die die Einhaltung der Datenschutzanforderungen überwacht. Der Datenschutzbeauftragte von PlugShare kann unter der unten angegebenen Adresse kontaktiert werden, wenn es um Datenschutzfragen geht.
 
-Wenn Sie Fragen oder Anmerkungen zu dieser Datenschutzrichtlinie oder unseren Datenschutzpraktiken haben, kontaktieren Sie uns bitte unter: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 USA; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Wenn Sie Fragen oder Anmerkungen zu dieser Datenschutzrichtlinie oder unseren Datenschutzpraktiken haben, kontaktieren Sie uns bitte unter: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 USA; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -1453,7 +1453,7 @@ A continuación se explican los derechos de cada interesado descritos en los Avi
 
 PlugShare ha designado a un Delegado de protección de datos como la persona que supervisará el cumplimiento de los requisitos de privacidad. Puede ponerse en contacto con el Delegado de protección de datos de PlugShare en la siguiente dirección en relación con cualquier problema de la política de privacidad.
 
-Si tiene alguna pregunta o comentario sobre esta Política de privacidad o nuestras prácticas de privacidad, póngase en contacto con nosotros en: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 EE. UU.; A la atención de: Responsable de protección de datos; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Si tiene alguna pregunta o comentario sobre esta Política de privacidad o nuestras prácticas de privacidad, póngase en contacto con nosotros en: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 EE. UU.; A la atención de: Responsable de protección de datos; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -2015,7 +2015,7 @@ Ce qui suit explique chaque droit de personne concernée décrit dans les Avis d
 
 PlugShare a désigné un Responsable de la protection des données comme étant la personne qui supervisera la conformité aux exigences de confidentialité. Le Responsable de la protection des données de PlugShare peut être contacté à l’adresse ci-dessous pour toute question relative à la politique de confidentialité.
 
-Si vous avez des questions ou des commentaires sur cette Politique de confidentialité ou sur nos pratiques de confidentialité, veuillez nous contacter à l’adresse suivante : PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 États-Unis; À l’attention de : Responsable de la protection des données; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Si vous avez des questions ou des commentaires sur cette Politique de confidentialité ou sur nos pratiques de confidentialité, veuillez nous contacter à l’adresse suivante : PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 États-Unis; À l’attention de : Responsable de la protection des données; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -2577,7 +2577,7 @@ Ce qui suit explique chaque droit de la personne concernée décrit dans les Dé
 
 PlugShare a désigné un délégué à la protection des données qui supervisera la conformité aux exigences de protection des données. Le délégué à la protection des données de PlugShare peut être contacté à l’adresse ci-dessous concernant tout problème de politique de confidentialité.
 
-Si vous avez des questions ou des commentaires concernant la présente Politique de confidentialité ou nos pratiques de confidentialité, veuillez nous contacter à l’adresse suivante : PlugShare, LLC, 2231 Campus Drive, El Segundo, Californie 90245 États-Unis ; À l’attention de : Délégué à la protection des données ; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Si vous avez des questions ou des commentaires concernant la présente Politique de confidentialité ou nos pratiques de confidentialité, veuillez nous contacter à l’adresse suivante : PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 États-Unis ; À l’attention de : Délégué à la protection des données ; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -3139,7 +3139,7 @@ Le seguenti disposizioni illustrano ogni diritto dell’interessato descritto ne
 
 PlugShare ha designato un Responsabile della protezione dei dati come individuo che supervisionerà la conformità ai requisiti sulla privacy. Il Responsabile della protezione dei dati di PlugShare può essere contattato all’indirizzo riportato di seguito per qualsiasi problema relativo all’informativa sulla privacy.
 
-In caso di domande o commenti sulla presente Informativa sulla privacy o sulle nostre pratiche sulla privacy, si prega di contattarci all’indirizzo: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 Stati Uniti; Attn: Responsabile della protezione dei dati; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+In caso di domande o commenti sulla presente Informativa sulla privacy o sulle nostre pratiche sulla privacy, si prega di contattarci all’indirizzo: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 Stati Uniti; Attn: Responsabile della protezione dei dati; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -3701,7 +3701,7 @@ De volgende informatie geeft uitleg over elk recht van de betrokkene dat wordt b
 
 PlugShare heeft een Functionaris voor gegevensbescherming aangewezen als de persoon die toezicht houdt op de naleving van de privacyvereisten. De Functionaris voor gegevensbescherming van PlugShare kan worden gecontacteerd op het onderstaande adres met betrekking tot problemen met het privacybeleid.
 
-Als u vragen of opmerkingen hebt over dit Privacybeleid of onze privacypraktijken, neem dan contact met ons op via: PlugShare, LLC, 2231 Campus Drive, El Segundo, Californië 90245 VS; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Als u vragen of opmerkingen hebt over dit Privacybeleid of onze privacypraktijken, neem dan contact met ons op via: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 VS; Attn: Data Protection Officer; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -4263,7 +4263,7 @@ Poniżej wyjaśniono każde prawo osoby, której dane dotyczą, opisane w Dodatk
 
 Firma PlugShare wyznaczyła inspektora ochrony danych jako osobę, która będzie nadzorować zgodność z wymogami dotyczącymi prywatności. Z inspektorem ochrony danych PlugShare można skontaktować się w sprawie wszelkich kwestii związanych z polityką prywatności pod poniższym adresem.
 
-W razie jakichkolwiek pytań lub uwag dotyczących niniejszej Polityki prywatności lub naszych praktyk w zakresie ochrony prywatności prosimy o kontakt pod adresem: PlugShare, LLC, 2231 Campus Drive, El Segundo, Kalifornia 90245 Stany Zjednoczone; do wiadomości: Inspektor ochrony danych; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+W razie jakichkolwiek pytań lub uwag dotyczących niniejszej Polityki prywatności lub naszych praktyk w zakresie ochrony prywatności prosimy o kontakt pod adresem: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 90245 Stany Zjednoczone; do wiadomości: Inspektor ochrony danych; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -4825,7 +4825,7 @@ O seguinte explica cada direito de titular de dados descrito nas Notificações 
 
 A PlugShare designou um Encarregado de Proteção de Dados como o indivíduo que supervisionará a conformidade com os requisitos de privacidade. O Encarregado de Proteção de Dados da PlugShare pode ser contactado no endereço abaixo, em relação a quaisquer questões relacionadas com a política de privacidade.
 
-Se tiver alguma dúvida ou comentário sobre esta Política de Privacidade ou sobre as nossas práticas de privacidade, contacte-nos através de: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 EUA; A/C: Encarregado de Proteção de Dados; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Se tiver alguma dúvida ou comentário sobre esta Política de Privacidade ou sobre as nossas práticas de privacidade, contacte-nos através de: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 EUA; A/C: Encarregado de Proteção de Dados; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
@@ -5387,7 +5387,7 @@ Mai jos sunt explicate drepturile fiecărei persoane vizate descrise în Notific
 
 PlugShare a desemnat un Responsabil cu protecția datelor ca persoană care va supraveghea respectarea cerințelor de confidențialitate. Responsabilul cu protecția datelor din cadrul PlugShare poate fi contactat la adresa de mai jos cu privire la orice probleme legate de politica de confidențialitate.
 
-Dacă aveți întrebări sau comentarii despre această Politică de confidențialitate sau despre practicile noastre de confidențialitate, vă rugăm să ne contactați la: PlugShare, LLC, 2231 Campus Drive, El Segundo, California 90245 SUA; În atenția: Responsabilului cu protecția datelor; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
+Dacă aveți întrebări sau comentarii despre această Politică de confidențialitate sau despre practicile noastre de confidențialitate, vă rugăm să ne contactați la: PlugShare, LLC, 11835 West Olympic Blvd., Suite 900E, Los Angeles, CA 90064 SUA; În atenția: Responsabilului cu protecția datelor; [\[email protected\]](https://company.plugshare.com/cdn-cgi/l/email-protection).
 
 * * *
 
