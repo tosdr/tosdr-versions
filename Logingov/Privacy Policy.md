@@ -101,7 +101,7 @@ Learn
 -----
 
 * [About us](https://login.gov/about-us/)
-* [Accessibility statement](https://login.gov/accessibility/)
+* [Accessibility](https://login.gov/accessibility/)
 * [Join us](https://login.gov/join/)
 * [Privacy & security](https://login.gov/policy/)
 
