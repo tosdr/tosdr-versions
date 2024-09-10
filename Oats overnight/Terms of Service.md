@@ -2,7 +2,7 @@
 
 \+ FREE SHAKER + FREE SHIPPING](https://www.oatsovernight.com/products/custom-bundle)
 
- [![Facebook](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-facebook.svg?v=124701003547319029441720648958)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-instagram.svg?v=7169954617462814191720648958)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-tiktok.svg?v=115922296173650386951720648958)](https://www.tiktok.com/@oatsovernight)
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-facebook.svg?v=124701003547319029441725915537)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-instagram.svg?v=7169954617462814191725915537)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-tiktok.svg?v=115922296173650386951725915537)](https://www.tiktok.com/@oatsovernight)
 
 [Shop
 
@@ -14,7 +14,7 @@ Save 33% on 1st Order](https://www.oatsovernight.com/products/custom-bundle)[Sub
 
 * * *](https://www.oatsovernight.com/pages/about-us)
 
-[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/408/assets/static.logo.svg?v=153990944445211779791720648958)](https://www.oatsovernight.com/)
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/415/assets/static.logo.svg?v=153990944445211779791725915537)](https://www.oatsovernight.com/)
 
 [Reviews
 
@@ -26,12 +26,17 @@ Save 33% on 1st Order](https://www.oatsovernight.com/products/custom-bundle)[Sub
 
 [](https://app.oatsovernight.com/)
 
-Terms
-=====
+Terms and Conditions
+====================
 
-TERMS OF SERVICE  
-  
-\----  
+Terms and Conditions
+
+[Mobile Terms and Conditions](https://www.oatsovernight.com/pages/mobile-terms-and-conditions)
+
+Oats Overnight
+
+Last updated: Sept. 10, 2024
+
   
 OVERVIEW  
   
@@ -268,7 +273,7 @@ SECTION 21 - CONTACT INFORMATION
   
 Questions about the Terms of Service should be sent to us at support@oatsovernight.com.
 
-![Join the Rumor Mill](//www.oatsovernight.com/cdn/shop/t/408/assets/static.mill_logo.png?v=173123316556213718451720648958)
+![Join the Rumor Mill](//www.oatsovernight.com/cdn/shop/t/415/assets/static.mill_logo.png?v=173123316556213718451725915537)
 
 Special Offers, Flavor Releases, and More.
 ------------------------------------------
@@ -277,11 +282,11 @@ Get the inside scoop on sneak previews, flash discounts, and exclusive flavor ac
 
  Yes!
 
-[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/408/assets/static.logo.svg?v=153990944445211779791720648958)](https://www.oatsovernight.com/)
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/415/assets/static.logo.svg?v=153990944445211779791725915537)](https://www.oatsovernight.com/)
 
 Explore
 
-![expand section](//www.oatsovernight.com/cdn/shop/t/408/assets/static.chevron-right.svg?v=154321127048796272031720648958)
+![expand section](//www.oatsovernight.com/cdn/shop/t/415/assets/static.chevron-right.svg?v=154321127048796272031725915537)
 
 [Shop](https://www.oatsovernight.com/products/custom-bundle)
 
@@ -293,7 +298,7 @@ Explore
 
 Learn More
 
-![expand section](//www.oatsovernight.com/cdn/shop/t/408/assets/static.chevron-right.svg?v=154321127048796272031720648958)
+![expand section](//www.oatsovernight.com/cdn/shop/t/415/assets/static.chevron-right.svg?v=154321127048796272031725915537)
 
 [About Us](https://www.oatsovernight.com/pages/about-us)
 
@@ -313,15 +318,15 @@ Are you #teamoats?
 
 Join the squad, follow along, share your experience. We can't wait to meet you.
 
- [![Facebook](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-facebook.svg?v=124701003547319029441720648958)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-instagram.svg?v=7169954617462814191720648958)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-tiktok.svg?v=115922296173650386951720648958)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-twitter.svg?v=68042637314731628141720648958)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551720648958)](https://twitter.com/oats_gaming)
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-facebook.svg?v=124701003547319029441725915537)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-instagram.svg?v=7169954617462814191725915537)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-tiktok.svg?v=115922296173650386951725915537)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-twitter.svg?v=68042637314731628141725915537)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551725915537)](https://twitter.com/oats_gaming)
 
 © 2024 Oats Overnight · All rights Reserved.
 
 [Privacy Policy](https://www.oatsovernight.com/pages/privacy) [Terms & Conditions](https://www.oatsovernight.com/pages/terms) [Sweepstakes Rules](https://www.oatsovernight.com/pages/sweepstakes)
 
-![Payment Providers Icons](//www.oatsovernight.com/cdn/shop/t/408/assets/static.payment-logos.png?v=169429374746822108801720648958)
+![Payment Providers Icons](//www.oatsovernight.com/cdn/shop/t/415/assets/static.payment-logos.png?v=169429374746822108801725915537)
 
-[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/408/assets/static.logo.svg?v=153990944445211779791720648958)](https://www.oatsovernight.com/)
+[![Oats Overnight](//www.oatsovernight.com/cdn/shop/t/415/assets/static.logo.svg?v=153990944445211779791725915537)](https://www.oatsovernight.com/)
 
 [Shop
 
@@ -339,4 +344,4 @@ Save 33% on 1st Order](https://www.oatsovernight.com/products/custom-bundle)[Sub
 
 * * *](https://www.oatsovernight.com/pages/contact-us)[Account](https://app.oatsovernight.com/)
 
- [![Facebook](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-facebook.svg?v=124701003547319029441720648958)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-instagram.svg?v=7169954617462814191720648958)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-tiktok.svg?v=115922296173650386951720648958)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-twitter.svg?v=68042637314731628141720648958)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/408/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551720648958)](https://twitter.com/oats_gaming)
+ [![Facebook](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-facebook.svg?v=124701003547319029441725915537)](https://www.facebook.com/oatsovernight)[![Instagram](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-instagram.svg?v=7169954617462814191725915537)](https://www.instagram.com/oatsovernight/)[![TikTok](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-tiktok.svg?v=115922296173650386951725915537)](https://www.tiktok.com/@oatsovernight)[![Twitter](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-twitter.svg?v=68042637314731628141725915537)](https://twitter.com/oatsovernight)[![Twitter Gaming](//www.oatsovernight.com/cdn/shop/t/415/assets/static.icon-social-twitter-gaming.svg?v=4902550041283541551725915537)](https://twitter.com/oats_gaming)
