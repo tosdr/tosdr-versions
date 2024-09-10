@@ -28,22 +28,27 @@ Topics
 * [Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland](#text-content1)
 * [Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland](#text-content2)
 
-Revisions Feb 15, 2024 Sep 25, 2023 Jun 19, 2023 Sep 12, 2021 Oct 15, 2020
+Revisions Sep 16, 2024 Feb 15, 2024 Sep 25, 2023 Jun 19, 2023 Sep 12, 2021 Oct 15, 2020
 
-All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Premium and Virtual Goods Agreement Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Contributor Monetization Policy Contributor Terms Developer Data Protection Addendum Swedish (SE) Dutch (NL) Italiano Português (PT) Português (BR) Español (ES) Español (MX) Français (FR) Deutsch (DE) English (US)
+All User Agreement Privacy Policy Content Policy Moderator Code of Conduct Cookie Notice Premium and Virtual Goods Agreement Previews Terms of Use Creator Terms Developer Terms Data API Terms Embeds Terms of Use Trademark Use Policy Transparency Guidelines for Law Enforcement Reddit's Anti-Slavery and Human Trafficking Statement Contributor Monetization Policy Contributor Terms Developer Data Protection Addendum Machine Readable Files Swedish (SE) English (US) Deutsch (DE) Français (FR) Español (MX) Español (ES) Português (BR) Português (PT) Italiano Dutch (NL)
 
 Reddit User Agreement
 =====================
 
-Effective February 15, 2024. Last Revised February 15, 2024
+Effective September 16, 2024. Last Revised August 16, 2024
 
   
+
+|     |     |     |
+| --- | --- | --- |
+|     | We’ve updated our User Agreement. Please take a look before the changes take effect on September 16, 2024.  <br>  <br>This page is the updated User Agreement; for the version effective until September 16, 2024 [click here](https://www.redditinc.com/policies/user-agreement-february-15-2024). |     |
+| ‍   |
 
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
 * If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#hello-redditors-and-people-of-the-internet-this).
     
-* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#hello-redditors-and-people-of-the-internet-this).
+* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#us-hello-redditors-and-people-of-the-internet-this).
     
 
 * * *
@@ -110,7 +115,7 @@ By submitting Your Content to the Services, you represent and warrant that you h
   
 You retain any ownership rights you have in Your Content, but you grant Reddit the following license to use that Content:  
   
-When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.  
+When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our [Public Content Policy](https://support.reddithelp.com/hc/articles/26410290525844). You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.  
   
 Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.  
   
@@ -254,7 +259,7 @@ United States
 Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland
 ----------------------------------------------------------------------------
 
-Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit, Inc. (“**Reddit**,” “**we**,” “**us**,” or “**our**”).
+Hello, redditors and people of the Internet! This Reddit User Agreement (“**Terms**”) applies to your access to and use of the websites, mobile apps, widgets, APIs, emails, and other online products and services (collectively, the “**Services**”) provided by Reddit Netherlands B.V. (“**Reddit**,” “**we**,” “**us**,” or “**our**”).
 
   
 Remember Reddit is for fun and is intended to be a place for your entertainment, but we still need some basic rules. In order to use the Services, you must have accepted these Terms, which are: (a) presented to you when you create an Account; and (b) available at all times when you access the Services. If you don’t accept them, you may not access or use our Services.  
@@ -314,7 +319,7 @@ By submitting Your Content to the Services, you represent and warrant that you h
   
 You retain any ownership rights you have in Your Content, but you grant Reddit the following license to use that Content:  
   
-When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.  
+When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world. This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit. For example, this license includes the right to use Your Content to train AI and machine learning models, as further described in our [Public Content Policy](https://support.reddithelp.com/hc/articles/26410290525844). You also agree that we may remove metadata associated with Your Content, and you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.  
   
 Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.  
   
@@ -434,12 +439,12 @@ These Terms, together with the [Privacy Policy](https://www.reddit.com/policies/
 
 Headings are used in these Terms for reference only and will not be considered when interpreting them. For purposes of these Terms: (a) the words “include,” “includes,” and “including” will be deemed to be followed by the words “without limitation;” (b) the words “such as,” “for example,” “e.g.,” and any derivatives of those words will mean by way of example and the items that follow these words will not be deemed an exhaustive list; and (c) the word “or” is used in the inclusive sense of “and/or” and the terms “or,” “any,” and “either” are not exclusive. No ambiguity will be construed against any party based on a claim that the party drafted the language.  
   
-These Terms are a legally-binding agreement between you and Reddit, Inc. If you have any questions about these Terms, please [contact us](https://www.reddithelp.com/hc/en-us/requests/new).
+These Terms are a legally-binding agreement between you and Reddit Netherlands B.V. If you have any questions about these Terms, please [contact us](https://www.reddithelp.com/hc/en-us/requests/new).
 
-Reddit, Inc.  
-303 2nd Street, Suite 500S  
-San Francisco, CA 94107  
-United States  
+Reddit Netherlands B.V.  
+Euro Business Center  
+Keizersgracht 62, 1015CS Amsterdam  
+Netherlands  
 
 [![reddit](https://www.redditinc.com/assets/images/site/Reddit_Lockup_Logo.svg)](https://www.redditinc.com/)
 
@@ -461,7 +466,7 @@ Community*
 * [Reddit.com](https://www.reddit.com/r/reddit/)
 * [Reddit for Community](https://redditforcommunity.com/?utm_source=redditinc&utm_medium=redditinc&utm_campaign=evergreen)
 * [Content Policy](https://www.redditinc.com/policies/content-policy)
-* [Help Center](https://reddit.zendesk.com/hc/en-us)
+* [Help Center](https://support.reddithelp.com/hc?utm_source=redditinc&utm_medium=footer&utm_campaign=evergreen)
 * [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct)
 
 Privacy & Safety* 
