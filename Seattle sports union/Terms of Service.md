@@ -47,6 +47,10 @@
     * [Other Sports](https://seattlesportsunion.com/series/othersports/)
 * [Interviews](https://seattlesportsunion.com/category/interviews/)
     
+    [![CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    ### [CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/cj-widger-interview/)
+    
     [![Everett AquaSox pitcher Troy Taylor talks Baseball with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/everett-aquasox-pitcher-troy-taylor-talks-baseball-with-ssu/)
     
     ### [Everett AquaSox pitcher Troy Taylor talks Baseball with SSU](https://seattlesportsunion.com/everett-aquasox-pitcher-troy-taylor-talks-baseball-with-ssu/)
@@ -75,10 +79,6 @@
     
     ### [SSU Meets Ryan Scott, the new Manager for the Everett AquaSox](https://seattlesportsunion.com/ssu-meets-ryan-scott-the-new-manager-for-the-everett-aquasox/)
     
-    [![Legendary sports anchor Tony Ventrella joins the SSU podcast](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/legendary-sports-anchor-tony-ventrella-joins-the-ssu-podcast/)
-    
-    ### [Legendary sports anchor Tony Ventrella joins the SSU podcast](https://seattlesportsunion.com/legendary-sports-anchor-tony-ventrella-joins-the-ssu-podcast/)
-    
 * [Contributors](https://seattlesportsunion.com/category/contributors/)
     
     * [All](https://seattlesportsunion.com/category/contributors/)
@@ -89,6 +89,14 @@
     * [Matt Paige](https://seattlesportsunion.com/category/contributors/matt-paige/)
     * [Richard Michelson](https://seattlesportsunion.com/category/contributors/richard-michelson/)
     * [Robert English](https://seattlesportsunion.com/category/contributors/robert-english/)
+    
+    [![CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    ### [CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    [![Bryce Miller: Future Seattle Mariners Ace? Seattle Sports Union sits down with the right-handed flame thrower from the state of Texas!](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/three-aquasox-pitchers-achieve-their-dreams-and-a-fans-perspective-on-their-achievement/)
+    
+    ### [Three AquaSox pitchers achieve their dreams, and a fan’s perspective on their achievement](https://seattlesportsunion.com/three-aquasox-pitchers-achieve-their-dreams-and-a-fans-perspective-on-their-achievement/)
     
     [![Home](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/mlb-unveils-new-way-for-minor-league-stars-to-shine/)
     
@@ -117,14 +125,6 @@
     [![WSU placekicking legend Dean Janikowski talks about fighting cancer](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/wsu-placekicking-legend-dean-janikowski-talks-about-fighting-cancer/)
     
     ### [WSU placekicking legend Dean Janikowski talks about fighting cancer](https://seattlesportsunion.com/wsu-placekicking-legend-dean-janikowski-talks-about-fighting-cancer/)
-    
-    [![Sounders season begins! SSU talks soccer in the Apple TV era](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/sounders-season-begins-ssu-talks-soccer-in-the-apple-tv-era/)
-    
-    ### [Sounders season begins! SSU talks soccer in the Apple TV era](https://seattlesportsunion.com/sounders-season-begins-ssu-talks-soccer-in-the-apple-tv-era/)
-    
-    [![Detroit Lions and WSU legend Mike Utley joins the SSU podcast](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/detroit-lions-and-wsu-legend-mike-utley-joins-the-ssu-podcast/)
-    
-    ### [Detroit Lions and WSU legend Mike Utley joins the SSU podcast](https://seattlesportsunion.com/detroit-lions-and-wsu-legend-mike-utley-joins-the-ssu-podcast/)
     
     * [Abraham DeWeese](https://seattlesportsunion.com/category/contributors/abraham-deweese/)
     * [Adam Bressler](https://seattlesportsunion.com/category/contributors/adam-bressler/)
@@ -203,6 +203,10 @@ View All Result
     * [Other Sports](https://seattlesportsunion.com/series/othersports/)
 * [Interviews](https://seattlesportsunion.com/category/interviews/)
     
+    [![CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    ### [CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/cj-widger-interview/)
+    
     [![Everett AquaSox pitcher Troy Taylor talks Baseball with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/everett-aquasox-pitcher-troy-taylor-talks-baseball-with-ssu/)
     
     ### [Everett AquaSox pitcher Troy Taylor talks Baseball with SSU](https://seattlesportsunion.com/everett-aquasox-pitcher-troy-taylor-talks-baseball-with-ssu/)
@@ -231,10 +235,6 @@ View All Result
     
     ### [SSU Meets Ryan Scott, the new Manager for the Everett AquaSox](https://seattlesportsunion.com/ssu-meets-ryan-scott-the-new-manager-for-the-everett-aquasox/)
     
-    [![Legendary sports anchor Tony Ventrella joins the SSU podcast](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/legendary-sports-anchor-tony-ventrella-joins-the-ssu-podcast/)
-    
-    ### [Legendary sports anchor Tony Ventrella joins the SSU podcast](https://seattlesportsunion.com/legendary-sports-anchor-tony-ventrella-joins-the-ssu-podcast/)
-    
 * [Contributors](https://seattlesportsunion.com/category/contributors/)
     
     * [All](https://seattlesportsunion.com/category/contributors/)
@@ -245,6 +245,14 @@ View All Result
     * [Matt Paige](https://seattlesportsunion.com/category/contributors/matt-paige/)
     * [Richard Michelson](https://seattlesportsunion.com/category/contributors/richard-michelson/)
     * [Robert English](https://seattlesportsunion.com/category/contributors/robert-english/)
+    
+    [![CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    ### [CJ Widger talks baseball and family with SSU](https://seattlesportsunion.com/cj-widger-interview/)
+    
+    [![Bryce Miller: Future Seattle Mariners Ace? Seattle Sports Union sits down with the right-handed flame thrower from the state of Texas!](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/three-aquasox-pitchers-achieve-their-dreams-and-a-fans-perspective-on-their-achievement/)
+    
+    ### [Three AquaSox pitchers achieve their dreams, and a fan’s perspective on their achievement](https://seattlesportsunion.com/three-aquasox-pitchers-achieve-their-dreams-and-a-fans-perspective-on-their-achievement/)
     
     [![Home](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/mlb-unveils-new-way-for-minor-league-stars-to-shine/)
     
@@ -273,14 +281,6 @@ View All Result
     [![WSU placekicking legend Dean Janikowski talks about fighting cancer](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/wsu-placekicking-legend-dean-janikowski-talks-about-fighting-cancer/)
     
     ### [WSU placekicking legend Dean Janikowski talks about fighting cancer](https://seattlesportsunion.com/wsu-placekicking-legend-dean-janikowski-talks-about-fighting-cancer/)
-    
-    [![Sounders season begins! SSU talks soccer in the Apple TV era](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/sounders-season-begins-ssu-talks-soccer-in-the-apple-tv-era/)
-    
-    ### [Sounders season begins! SSU talks soccer in the Apple TV era](https://seattlesportsunion.com/sounders-season-begins-ssu-talks-soccer-in-the-apple-tv-era/)
-    
-    [![Detroit Lions and WSU legend Mike Utley joins the SSU podcast](https://seattlesportsunion.com/wp-content/themes/jnews/assets/img/jeg-empty.png)](https://seattlesportsunion.com/detroit-lions-and-wsu-legend-mike-utley-joins-the-ssu-podcast/)
-    
-    ### [Detroit Lions and WSU legend Mike Utley joins the SSU podcast](https://seattlesportsunion.com/detroit-lions-and-wsu-legend-mike-utley-joins-the-ssu-podcast/)
     
     * [Abraham DeWeese](https://seattlesportsunion.com/category/contributors/abraham-deweese/)
     * [Adam Bressler](https://seattlesportsunion.com/category/contributors/adam-bressler/)
