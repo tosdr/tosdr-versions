@@ -18,7 +18,9 @@ Send Login Link
 
 Interested in our Partner Program for businesses or our Local Guide Program for experienced expats and digital nomads? [Click here to learn more](https://www.expatexchange.com/partnering).
 
-     Privacy Policy | Expat Exchange                                 
+       Privacy Policy | Expat Exchange                                   
+
+ 
 
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
 * [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
@@ -59,6 +61,8 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 
 [Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
+ 
+
 * [Home](https://www.expatexchange.com/ "Expat Exchange Home")
 * [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
 * [Explore Countries](https://www.expatexchange.com/countries "Countries")
@@ -92,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/international_moving_company_ags_ldr.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![William Russell](https://www.expatexchange.com/banner/william-russell-728.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=27237-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![AGS Worldwide Movers](https://www.expatexchange.com/banner/AGS_300X250_EN1.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
+[![William Russell](https://www.expatexchange.com/banner/william-russell-300.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=27237-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -435,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)
+[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/17833-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[SJB Global](https://www.expatexchange.com/partnerdirect/182/17833-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
+[Learn More](https://www.expatexchange.com/partnerdirect/182/17833-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Learn More")
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[![SJB Global](https://www.expatexchange.com/images/expat_finance_sjb_couple.jpg)](https://www.expatexchange.com/partnerdirect/182/17833-MOBILE-cbar-vrs-A-hicontent-Global-62)[SJB Global](https://www.expatexchange.com/partnerdirect/182/17833-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+SJB Global is a top-rated financial advisory firm specializing in expat financial advice worldwide, offering retirement planning & tax-efficient solutions with a regressive fee model.  
+[Learn More](https://www.expatexchange.com/partnerdirect/182/17833-MOBILE-cbar-vrs-A-hicontent-Global-62 "Learn More")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
