@@ -10,9 +10,9 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * * *
     
-    * [![](https://corporate-assets.lucid.co/co/120f906d-9405-4960-a68b-ff08a452835a.svg)](https://www.lucidchart.com/pages/)
-    * [![](https://corporate-assets.lucid.co/co/9af2902e-a123-4e64-abd0-9326a6db3a29.svg)](https://lucidspark.com/)
-    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg)](https://lucidscale.com/)
+    * [![](https://corporate-assets.lucid.co/co/120f906d-9405-4960-a68b-ff08a452835a.svg?v=1709700546459)](https://www.lucidchart.com/pages/)
+    * [![](https://corporate-assets.lucid.co/co/9af2902e-a123-4e64-abd0-9326a6db3a29.svg?v=1709700548195)](https://lucidspark.com/)
+    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg?v=1709700549958)](https://lucidscale.com/)
     
 * Solutions
     
@@ -24,17 +24,17 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * [Digital transformation](https://lucid.co/solutions/digital-transformation)
     * [Cloud migration](https://lucid.co/solutions/cloud-migration)
-    * [New product development](https://lucid.co/solutions/product-development)
     * [Hybrid teams](https://lucid.co/solutions/hybrid-teams)
     * [Efficiency through AI](https://lucid.co/platform/ai)
+    * [Agile](https://lucid.co/solutions/agile)
     
     ### By team
     
     * * *
     
     * [IT](https://lucid.co/solutions/it)
-    * [Engineering](https://lucid.co/solutions/engineering)
-    * [Product & UX](https://lucid.co/solutions/product-ux)
+    * [Solutions engineering](https://lucid.co/solutions/engineering)
+    * [Product and UX](https://lucid.co/solutions/product-ux)
     * [Project management](https://lucid.co/solutions/project-management)
     * [Operations](https://lucid.co/solutions/operations)
     
@@ -46,9 +46,9 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Education](https://lucid.co/solutions/education)
     * [Consulting services](https://lucid.co/solutions/consulting)
     * [Healthcare](https://lucid.co/solutions/healthcare)
-    * [Financial Services](https://lucid.co/solutions/financial-services)
+    * [Financial services](https://lucid.co/solutions/financial-services)
     
-    [View all solutions](https://lucid.co/solutions-hub)
+    [View all solutions](https://lucid.co/solutions)
     
 * Resources
     
@@ -60,7 +60,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * [Customers](https://lucid.co/customers)
     * [Developers](https://lucid.co/developers)
-    * [Marketplace](https://lucid.co/marketplace/overview)
+    * [Integrations marketplace](https://lucid.co/marketplace/overview)
     * [Professional Services](https://lucid.co/professional-services)
     * [Community](https://community.lucid.co/)
     
@@ -119,11 +119,6 @@ Cookies
 | abLdr | Taboola Inc | MARKETING | Supports routine technical and performance improvements for Taboola’s browser-based Services. | 3 hours |
 | abMbl | Taboola Inc | MARKETING | Supports routine technical and performance improvements for Taboola’s mobile SDK Services. | 3 hours |
 | ^aboutads\_sessNNN$ | Google Ads | MARKETING | Used by Google ads; this cookie is used to associate multiple requests made by a user on a page with that user's session. | 30 minutes |
-| ABTasty | Ab Tasty | ESSENTIAL | Contains all the experiments data: visitor ID, campaignHistory, timestamp and account settings. | 13 months |
-| abTastyDebug | Ab Tasty | ESSENTIAL | Set at true to enter debug mode for AB Tasty platform administrators. | Session |
-| ABTastyDomainTest | Ab Tasty | ESSENTIAL | Checks that AB Tasty is operating on the expected domain. | A few milliseconds |
-| ABTastyOptout | Ab Tasty | ESSENTIAL | Enables AB Tasty platform administrators to identify if a specific AB Tasty Campaign is causing an issue on the website. | 13 months |
-| ABTastySession | Ab Tasty | ESSENTIAL | Contains landing page URL. Also used to determine if new AB Tasty session started. | 30 minutes of inactivity |
 | ^abTest\_.\* | Lucid Software Inc | ESSENTIAL | Used for AB testing (as described in \`ab\_id\` cookie). | Session |
 | abTestAny | Lucid Software Inc | ESSENTIAL | Used for AB testing (as described in \`ab\_id\`). | Session |
 | abTestOverrides | Lucid Software Inc | ESSENTIAL | Used for AB testing (as described in \`ab\_id\` cookie). | Session |
@@ -150,7 +145,6 @@ Cookies
 | apt.sid | Gainsight Inc | ESSENTIAL | The purpose of this cookie is to allow persistent ID tracking under the top-level domain of the product and is used as a reference ID to the user entity. Ensures team admins using Lucid products receive proper onboarding tutorial placement via Gainsight. | 30 minutes |
 | apt.uid | Gainsight Inc | ESSENTIAL | The purpose of this cookie is to allow persistent ID tracking under the top-level domain of the product and is used as a reference ID to the user entity. Ensures team admins using Lucid products receive proper onboarding tutorial placement via Gainsight. | 1 year |
 | articleVotes | Zendesk Inc | ESSENTIAL | This is only dropped when anonymous end-users actually vote on articles. It is used to track the fact that an anonymous user has voted on an article, so that they are not repeatedly prompted to vote on an article that they have already voted on nor are they able to submit multiple votes relating to one article. Note: local storage duration = until deleted by end user. | Session |
-| auth\_.\* | Lucid Software Inc | ESSENTIAL | Used for authentication for published documents. NOTE: This is also a cookie set by skilljar on the lucid training labs website with subsequent values looking like the following: xxxx\_yyyy, which will be different per set of content. This cookie enables SCORM CDN acceleration and controls access to course content and has a duration of 1 day. | Session |
 | auth\_content\_wp | Skilljar | ESSENTIAL | Authentication for SCORM content to be served through the application if CDN acceleration is not enabled. | n/a |
 | auth\_pseudo | Lucid Software Inc | ESSENTIAL | Used for authentication in Lucid test environments. | Session |
 | autoGrantCreatorTrial | Lucid Software Inc | ESSENTIAL | Used when setting up a Lucid trial. | 5 minutes |
@@ -339,7 +333,7 @@ Cookies
 | registrationUseCase | Lucid Software Inc | ESSENTIAL | Used to persist a user's selected use case through registration. | Session |
 | return\_url | Lucid Software Inc | ESSENTIAL | Stores the url that should be redirected to after a flow is complete. | 30 minutes |
 | ^RUL$ | Google Ads | MARKETING | Used by Google Ads. | 12 months |
-| sa\_granted | Lucid Software Inc | ESSENTIAL | This cookie is used to detect storage access permission has been granted by the browser so that integrations work properly. | 365 days |
+| sa\_granted | Lucid Software Inc | ESSENTIAL | This cookie is used to detect storage access permission has been granted by the browser so that integrations work properly. | 30 days |
 | samlRegisterSource | Lucid Software Inc | ESSENTIAL | Indicates where a user registered from. Used by Lucid internal tools to provide the right experience for users. | 30 minutes |
 | SAML\_SIMULATOR\_FLOW | Lucid Software Inc | ESSENTIAL | Indicates we are simulating a SAML sign in. | Session |
 | saved\_id | Lucid Software Inc | ESSENTIAL | Used in Support-A during impersonation | Session |
@@ -368,14 +362,17 @@ Cookies
 | slackSsoRegisterSource | Lucid Software Inc | ESSENTIAL | Indicates where a user registered from (data collected is used by Beacon). | 30 minutes |
 | smartsheet-oauth-state | Lucid Software Inc | ESSENTIAL | Used as part of Smartsheet integration. | 10 minutes |
 | ssi | Basis Technologies | MARKETING | Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. | 1 year |
+| SSORedirect | Lucid Software Inc | ESSENTIAL | This cookie is used to track the last used Single Sign On method. This allows users to be redirected to their previously used Identity Provider, such as Google, Microsoft, or SAML Identity Provider. | 365 Days |
 | \_ssuma | Basis Technologies | MARKETING | Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers. | 30 days |
 | successfullyRenderedWithGl | Lucid Software Inc | ESSENTIAL | Used to indicate we've rendered with WebGL properly. | 1 week |
+| SupportPins | Lucid Software Inc | ESSENTIAL | This cookie is used to authorize a Lucid Support user to impersonate users that have USE\_IMPERSONATION\_PIN permissions. | 12 hours |
 | ^t$ | Gainsight Inc | ESSENTIAL | Internal cookie set for internal community analytics events - session value | Session |
 | taboola\_fp\_td\_user\_id | Taboola Inc | MARKETING | Indicates that the user clicked on an item that was recommended by Taboola’s Services. This is used for reporting and analytics purposes. | 1 year |
 | taboola global:last-external | Taboola Inc | MARKETING | Used for attribution purposes to see what link or page led a user to the current page. | Local Storage (deleted when the user deletes it) |
 | taboola\_select | Taboola Inc | MARKETING | Maintains a record of whether the user performed an action in the “Taboola Select” feature. | 1 year |
 | taboola\_session\_id | Taboola Inc | MARKETING | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | Session |
 | ^TAID$ | Google Ads | MARKETING | Used by Google Ads. | 14 days |
+| temp\_email\_verification\_auth | Lucid Software Inc | ESSENTIAL | Used to determine if a user can be automatically authenticated when verifying their email address after registration. | 24 hours |
 | temp\_lucidauth | Lucid Software Inc | ESSENTIAL | Used as part of authentication. | 3 min 20 seconds |
 | testcookie | Lucid Software Inc | ESSENTIAL | This cookie is designed to test whether a browser is set to accept first-party cookies. Used to test cookie setting and syncing. | Session |
 | test\_cookie | Gainsight Inc | ESSENTIAL | Used to check if the user's browser supports cookies. | 1 day |
