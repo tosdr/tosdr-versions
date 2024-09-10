@@ -45,17 +45,17 @@ Mezo - Spam Blocker, SMS Block
 
 Contains adsIn-app purchases
 
-4.0_star_
+3.8_star_
 
-75.7K reviews
+75.8K reviews
 
 1M+
 
 Downloads
 
-![Content rating](https://play-lh.googleusercontent.com/VI5ii6OTeBuSn1kTDPlXSwj7yI7kqDqf_drsvZ90qjcm7LbbVkG8UfPTicKqMzipsY_lBnAYAH5t8GxN=w48-h16)
+![Content rating](https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i=w48-h16)
 
-Parental guidance
+Everyone
 
 _info_
 
@@ -69,9 +69,9 @@ Add to wishlist
 
 ![Screenshot image](https://play-lh.googleusercontent.com/_bA4OhvwwFzxi9r7AyRlkh3qiqzNiqkd8H7g38JGmAbnTpx-UK8Zm244cRQR7ENhkVa3=w526-h296)
 
-![Screenshot image](https://play-lh.googleusercontent.com/htqX5Ezmvzfixuf2d_-vATd_1hErUKmmyARXzTv6GsOQftSb44_3YpeAvB8Vl7fnu9Y=w526-h296)
-
 ![Screenshot image](https://play-lh.googleusercontent.com/dP5yu1EGu5KP5lC1QaGXoSpUxgBsrgBU2BRL8zbBcIZnAIlDG89eLQlb7RV-X-cFM5o=w526-h296)
+
+![Screenshot image](https://play-lh.googleusercontent.com/htqX5Ezmvzfixuf2d_-vATd_1hErUKmmyARXzTv6GsOQftSb44_3YpeAvB8Vl7fnu9Y=w526-h296)
 
 ![Screenshot image](https://play-lh.googleusercontent.com/pn1phcCog3qVWYk7A_xYO_099aokvIz1lOCrC6Tp8b-WMgYdeXiB85gGgZkx3jD8Bg=w526-h296)
 
@@ -146,7 +146,7 @@ All trademarks are owned by respective owners. Mezo SMS was earlier known as Key
 
 Updated on
 
-Jun 26, 2024
+Aug 29, 2024
 
 Communication[](https://play.google.com/store/apps/category/COMMUNICATION)
 
@@ -194,7 +194,7 @@ _tablet\_android_Tablet
 
 3.9
 
-74.7K reviews
+74.8K reviews
 
 5
 
@@ -206,19 +206,20 @@ _tablet\_android_Tablet
 
 1
 
-![](https://play-lh.googleusercontent.com/a/ACg8ocKthE6k5xWJerUbGKaR2_uAZCcfCJs8jykTHGu_rZOHrlEMqg=s32-mo)
+![](https://play-lh.googleusercontent.com/a-/ALV-UjWt5-C_C981j24U-MLJSv6XOj6d1vzLdSI5Hy8VWCDWIkYUdxg4=s32)
 
-Sani Madani
+Caleb's Mom
 
 _more\_vert_
 
 * Flag inappropriate
+* Show review history
 
-February 6, 2024
+August 29, 2024
 
-Very very good app, I've been a user for 2 years now and definitely worth the premium. I only have one complaint, When I receive a text from an unopened sender, usually the bank for authentication. I don't receive the latest message in the pop-up notification, I get the previous unopened massege which is annoying since I have to press on the notification and go into the app manually to check the code instead of seeing it clearly in the pop up. I hope you can fix this.
+5 Month Update -- Get This App!! The small monthly price is worth every penny. It's an election year and the fundraising texts are out of control. This app saves me from 20-40 texts per day and I love it! It is saving my sanity, and there are so many different ways to filter. I almost exclusively use the "Context" filter which looks at specific words in the text message. You can filter by everyone or only unknown contacts which is an excellent feature. This app is exactly what I need.
 
-11 people found this review helpful
+2 people found this review helpful
 
 Did you find this helpful?
 
@@ -239,7 +240,7 @@ July 4, 2024
 
 Super great app! Does everything you need: blocks those annoying group messages from random spammers, blocks unknown messages, filters spam, very easy to setup and make it work the way you need. Got 1-time premium purchase after doing some testing. Totally worth it! No regrets, also it finally copies my codes just fine - that's a really cool feature!
 
-2 people found this review helpful
+3 people found this review helpful
 
 Did you find this helpful?
 
@@ -260,6 +261,8 @@ July 20, 2024
 
 This is the WORST messaging app that I have ever used. I'm talking POS. It crashes all the time and it completely deletes messages that I type, after I hit send. I spent 30 minutes typing and retyping the same two messages over and over about 5 or 6 times. Won't mark messages as read,,, sometimes. DUH, RIP, RIP, RIP!
 
+4 people found this review helpful
+
 Did you find this helpful?
 
 Yes
@@ -271,9 +274,7 @@ See all reviews
 What's new
 ----------
 
-\- App title changed to Mezo SMS (from earlier Key Messages)  
-\- Improved performance and spam blocking  
-\- Policy compliance
+\- Improved performance and spam blocking
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
@@ -308,7 +309,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_uk/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -318,8 +319,6 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 [Google Store](https://store.google.com/?playredirect=true)
 
-All prices include VAT.
+![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-![](https://ssl.gstatic.com/store/images/regionflags/uk.png)
-
-United Kingdom (English)
+United States (English (United States))
