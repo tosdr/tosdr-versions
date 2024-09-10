@@ -2,21 +2,153 @@
 
 “
 
-[Panel](https://www.span.io/panel)[Drive](https://www.span.io/drive)[App](https://www.span.io/app)
+Products
 
-Industry
+[Panel
 
-[Electricians & Installers](https://www.span.io/installers)[Builders & Specifiers](https://www.span.io/builders)[Utility Providers](https://www.span.io/utilities)[Get Authorized](https://www.span.io/b2b-get-authorized)[Tech Portal](https://techportal.span.io/s/)
+Smarter electrical panel
 
-[Savings Calculator](https://www.span.io/calculator)[Mission & Careers](https://www.span.io/mission-careers)[News](https://www.span.io/news)[Support](https://support.span.io/hc/en-us/)[Legal](https://www.span.io/legal)
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).png)](https://www.span.io/panel)[Drive
 
-[![SPAN logo](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/62d2cce4a73d906e168d3c3a_span-logo-r.svg)](https://www.span.io/)
+Level 2+ EV charging
 
-[Learn more
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62af21892a981dd6e75cb_Drive%20Glow%20MR2%20Edit%201%20%2B%20logo.png)](https://www.span.io/drive)[Home App
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/62a60088a43450849d1aa1eb_arrow.svg)](https://www.span.io/panel)[Learn more
+Included with every Panel
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/6391b99f4beb65bcecca67e6_span-arrow-mobile.svg)](https://www.span.io/panel)
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62b2cb7b318e7f0a5a6f3_home%20app.png)](https://www.span.io/app)[Save $1,300 on SPAN + Tesla Powerwall 3 Bundle
+
+Available in:  CA, CO, MD, Tx, VA, & WA](https://www.span.io/tesla-powerwall-3)
+
+Why SPAN?
+
+[Adding or existing home battery systems
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.png)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.png)](https://www.span.io/appliance-install)[Renovations & New Construction
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.png)](https://www.span.io/major-construction)[Electrification savings calculator
+
+Identify rebates and tax credits available for your project](https://www.span.io/calculator)
+
+Professionals
+
+[Installers
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.png)](https://www.span.io/installers)[Builders
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.png)](https://www.span.io/builders)[Utilities
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
+
+[Tech Portal
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd03c33ac8a437e5d310f8_arrow.svg)](https://techportal.span.io/s/)[Get Authorized](https://www.span.io/b2b-get-authorized)
+
+Company
+
+Company Info
+
+[Mission & Careers](https://www.span.io/mission-careers)[SPAN News](https://www.span.io/news)[Marketing Resources](https://www.span.io/website-resources)
+
+Socials
+
+[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d683e03320f3962a6440f2_youtube.svg)
+
+YouTube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68460a2cac42684d97bf3_facebook.svg)
+
+Facebook](https://www.facebook.com/get.SPAN)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d6846aac98c41024b06121_instagram.svg)
+
+Instagram](https://www.instagram.com/get_span/)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68472ecc8408946e41b3c_twitter.svg)
+
+X](https://twitter.com/span_io?lang=en)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68479efec75de378e7a98_Linkedin.svg)
+
+LinkedIn](https://www.linkedin.com/company/spanio)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68481c51888bd97b74831_tiktok.svg)
+
+TikTok](https://www.tiktok.com/@span.io)
+
+Products
+
+Why SPAN?
+
+Professionals
+
+Company
+
+[Get started](#)
+
+[](https://www.span.io/)[](https://www.span.io/)
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66da14518c67a933bab046a3_arrow%20left.svg)
+
+Products
+
+[Panel
+
+Smarter electrical panel
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).png)](https://www.span.io/panel)[Drive
+
+Level 2+ EV charging
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62af21892a981dd6e75cb_Drive%20Glow%20MR2%20Edit%201%20%2B%20logo.png)](https://www.span.io/drive)[Home App
+
+Included with every Panel
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62b2cb7b318e7f0a5a6f3_home%20app.png)](https://www.span.io/app)[Save $1,300 on SPAN + Tesla Powerwall 3 Bundle
+
+Available in:  CA, CO, MD, Tx, VA, & WA](https://www.span.io/tesla-powerwall-3)
+
+Why SPAN?
+
+[Adding or existing home battery systems
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e79d1d0fe6894a9645f_Category%20tile.png)](https://www.span.io/battery-install)[Adding an EV, heat pump, & more
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e8624fc87e446767e1d_Category%20tile-1.png)](https://www.span.io/appliance-install)[Renovations & New Construction
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66db7e95e25bc1321259bfb4_Category%20tile-2.png)](https://www.span.io/major-construction)[Electrification savings calculator
+
+Identify rebates and tax credits available for your project](https://www.span.io/calculator)
+
+Professionals
+
+[Installers
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02c77bc85e9e7156affb_installers.png)](https://www.span.io/installers)[Builders
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.png)](https://www.span.io/builders)[Utilities
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
+
+[Tech Portal
+
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd03c33ac8a437e5d310f8_arrow.svg)](https://techportal.span.io/s/)[Get Authorized](https://www.span.io/b2b-get-authorized)
+
+Company
+
+Company Info
+
+[Mission & Careers](https://www.span.io/mission-careers)[SPAN News](https://www.span.io/news)[Marketing Resources](https://www.span.io/website-resources)
+
+Socials
+
+[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d683e03320f3962a6440f2_youtube.svg)
+
+YouTube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68460a2cac42684d97bf3_facebook.svg)
+
+Facebook](https://www.facebook.com/get.SPAN)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d6846aac98c41024b06121_instagram.svg)
+
+Instagram](https://www.instagram.com/get_span/)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68472ecc8408946e41b3c_twitter.svg)
+
+X](https://twitter.com/span_io?lang=en)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68479efec75de378e7a98_Linkedin.svg)
+
+LinkedIn](https://www.linkedin.com/company/spanio)[![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66d68481c51888bd97b74831_tiktok.svg)
+
+TikTok](https://www.tiktok.com/@span.io)
+
+[Get started](#)
 
 Sales Terms & Conditions  
 
@@ -187,23 +319,26 @@ Contact Us
 
 **‍**If you have any questions about these Terms & Conditions or otherwise need to contact Span for any reason, you can reach us at [support@span.io](mailto:support@span.io).
 
-1 Savings will vary based on individual energy use.  
-‍  
-2 Results from an internal study of SPAN Panel managing backup load priorities in over 1,200 simulated outage situations.  
-Individual results will vary.  
-‍  
-3 Savings will vary based on individual energy use.  
-  
-+ Pecan Street Analysis, 2021  
-  
-^ PG&E | Service Upgrades for Electrification Retrofits Study Final Report, May, 2022
-
-[Home](https://www.span.io/)[Panel](https://www.span.io/panel)[Drive](https://www.span.io/drive)[App](https://www.span.io/app)[Installers](https://www.span.io/installers)[Mission & Careers](https://www.span.io/mission-careers)[News](https://www.span.io/news)
-
-[Tech Portal](https://techportal.span.io/s/)[Support](https://support.span.io/hc/en-us/)[Terms of Service](https://www.span.io/terms-of-service)[Privacy Policy](https://www.span.io/privacy)[Legal](https://www.span.io/legal)
-
-[Instagram](https://www.instagram.com/get_span/)[LinkedIn](https://www.linkedin.com/company/spanio)[Youtube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[Facebook](https://www.facebook.com/Span-100114435667344)[Twitter](https://twitter.com/span_io?lang=en)[TikTok](https://www.tiktok.com/@span.io)
-
 [![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/)
 
-©2024 SPAN.io, Inc. All rights reserved.
+Product
+
+[Panel](#)[Drive](https://www.span.io/drive)[Home App](https://www.span.io/app)
+
+Why SPAN?
+
+[Adding or existing home battery system](https://www.span.io/battery-install)[Adding an EV, heat pump & more](https://www.span.io/appliance-install)[Renovations & New Construction](https://www.span.io/major-construction)[Incentives](https://www.span.io/rebates)
+
+Professionals
+
+[Installers](https://www.span.io/installers)[Builders](https://www.span.io/builders)[Utilities](https://www.span.io/utilities)[Get Authorized](https://www.span.io/b2b-get-authorized)[Tech Portal](https://www.span.io/partner-portal)
+
+Company
+
+[Mission & Careers](https://www.span.io/mission-careers)[SPAN News](https://www.span.io/news)[Marketing Resources](https://www.span.io/website-resources)
+
+Socials
+
+[Facebook](https://www.facebook.com/Span-100114435667344)[Youtube](https://www.youtube.com/channel/UClLe-YG5QZKFJAlJhwdYPGA)[X](https://twitter.com/span_io?lang=en)[Instagram](https://www.instagram.com/get_span/)[TikTok](https://www.tiktok.com/@span.io)[LinkedIn](https://www.linkedin.com/company/spanio)
+
+[Support](https://support.span.io/hc/en-us/)[Legal](https://www.span.io/legal)[Accessibility](#)
