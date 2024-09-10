@@ -1,5 +1,3 @@
-Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more.](#)
-
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
 [Private](https://paybis.com/) [Corporate](https://paybis.com/corporate/)
@@ -10,9 +8,19 @@ Business
     
     Swaps & On/Off Ramp
     
-    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/on-off-ramp/)
+    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/business/on-off-ramp/)
+* [![Wallet as a Service](https://cdn.paybis.com/resources/icons/corporate/plug-and-play-wallets-new.svg)
+    
+    Wallet as a Service
+    
+    A fully fledged crypto wallet and a payment gateway with built-in on/off ramp and swaps!](https://paybis.com/business/plug-and-play-wallets/)
+* [![Paybis Send](https://cdn.paybis.com/resources/icons/corporate/paybis-send-new.svg)
+    
+    Paybis Send
+    
+    Global crypto payouts simplified for businesses](https://paybis.com/business/paybis-send/)
 
-[Go to Paybis for Businesses](https://paybis.com/on-off-ramp/)
+[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp)
 
 English
 
@@ -37,6 +45,13 @@ Menu
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
+[Widget](https://paybis.com/crypto-widget/)
+
+Tools
+
+* [Crypto Prices](https://paybis.com/price/)
+* [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
+
 [Sign In](https://paybis.com/user/login/)
 
 English
@@ -56,11 +71,27 @@ Business
     
     Swaps & On/Off Ramp
     
-    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/on-off-ramp/)
+    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/business/on-off-ramp/)
+* [![Wallet as a Service](https://cdn.paybis.com/resources/icons/corporate/plug-and-play-wallets-new.svg)
+    
+    Wallet as a Service
+    
+    A fully fledged crypto wallet and a payment gateway with built-in on/off ramp and swaps!](https://paybis.com/business/plug-and-play-wallets/)
+* [![Paybis Send](https://cdn.paybis.com/resources/icons/corporate/paybis-send-new.svg)
+    
+    Paybis Send
+    
+    Global crypto payouts simplified for businesses](https://paybis.com/business/paybis-send/)
 
-[Go to Paybis for Businesses](https://paybis.com/on-off-ramp/)
+[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp)
 
 [About us](https://paybis.com/about-us/)
+
+[Blog](https://paybis.com/blog/)
+
+[News](https://paybis.com/news/)
+
+[Referrals & affiliates](https://paybis.com/referral-program/)
 
 [Policies](https://paybis.com/policies/terms-of-service/)
 
@@ -77,6 +108,13 @@ Business
 [Sell Crypto](https://paybis.com/sell-bitcoin/)
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
+
+[Widget](https://paybis.com/crypto-widget/)
+
+Tools
+
+* [Crypto Prices](https://paybis.com/price/)
+* [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
 
 [Home](https://paybis.com/)
 
@@ -228,20 +266,34 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 * [About Us](https://paybis.com/about-us/ "About Us")
 * [Careers](https://paybis.com/career/ "Careers")
 * [Contacts](https://paybis.com/contacts/ "Contacts")
+* [News](https://paybis.com/news/ "News")
+* [Referrals & affiliates](https://paybis.com/referral-program/ "Referrals & affiliates")
 * [Policies](https://paybis.com/policies/terms-of-service/ "Policies")
 * [The risk summary](https://support.paybis.com/hc/en-us/articles/13873600620317-Risks-associated-with-cryptocurrency-investments "The risk summary")
-
-#### Products
-
-* [Buy Crypto](https://paybis.com/ "Buy Crypto")
-* [Sell Crypto](https://paybis.com/sell-bitcoin/ "Sell Crypto")
-* [On/Off Ramp](https://paybis.com/on-off-ramp/ "On/Off Ramp")
 
 #### Learn
 
 * [Support Portal](https://support.paybis.com/hc/en-us "Support Portal")
 * [FAQ](https://paybis.com/faq/ "FAQ")
+* [Blog](https://paybis.com/blog/ "Blog")
 * [Fees](https://support.paybis.com/hc/en-us/articles/9089022363037-Types-of-fees-applied "Fees")
+
+#### For Individuals
+
+* [Crypto Widget](https://paybis.com/crypto-widget/ "Crypto Widget")
+* [Buy Crypto](https://paybis.com/ "Buy Crypto")
+* [Sell Crypto](https://paybis.com/sell-bitcoin/ "Sell Crypto")
+* Swap Crypto
+
+#### For Businesses
+
+* [On/Off Ramp](https://paybis.com/business/on-off-ramp/ "On/Off Ramp")
+* [Crypto Payouts](https://paybis.com/business/paybis-send/ "Crypto Payouts")
+* [Wallet as a Service](https://paybis.com/business/plug-and-play-wallets/ "Wallet as a Service")
+* Corporate On/Off Ramp
+* [Crypto Exchange & OTC](https://paybis.com/corporate/ "Crypto Exchange & OTC")
+* [Corporate Wallet](https://paybis.com/corporate/ "Corporate Wallet")
+* Crypto Acquiring
 
 #### Buy
 
@@ -250,8 +302,11 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 * [Buy USDT](https://paybis.com/buy-tether/ "Buy USDT")
 * [Buy Litecoin](https://paybis.com/buy-litecoin/ "Buy Litecoin")
 * [Buy Ripple](https://paybis.com/buy-ripple/ "Buy Ripple")
+* [Buy Bitcoin Cash](https://paybis.com/buy-bitcoin-cash/ "Buy Bitcoin Cash")
 * [Buy Stellar Lumens](https://paybis.com/buy-stellar-lumens/ "Buy Stellar Lumens")
+* [Buy Binance Coin](https://paybis.com/buy-binance-coin/ "Buy Binance Coin")
 * [Buy Tron](https://paybis.com/buy-tron/ "Buy Tron")
+* [Buy Dogecoin](https://paybis.com/buy-dogecoin/ "Buy Dogecoin")
 
 #### Sell
 
@@ -261,24 +316,62 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 #### Crypto wallets
 
 * [Bitcoin wallet](https://paybis.com/bitcoin-wallet/ "Bitcoin wallet")
+* [Binance Coin wallet](https://paybis.com/binance-coin-wallet/ "Binance Coin wallet")
 * [Ethereum wallet](https://paybis.com/ethereum-wallet/ "Ethereum wallet")
 * [Tether wallet](https://paybis.com/tether-wallet/ "Tether wallet")
+* [Cardano wallet](https://paybis.com/cardano-wallet/ "Cardano wallet")
+* [Dogecoin wallet](https://paybis.com/dogecoin-wallet/ "Dogecoin wallet")
+* [Polkadot wallet](https://paybis.com/polkadot-wallet/ "Polkadot wallet")
+
+#### Calculator
+
+* [Bitcoin Calculator](https://paybis.com/bitcoin-calculator/ "Bitcoin Calculator")
+* [Ethereum Calculator](https://paybis.com/ethereum-calculator/ "Ethereum Calculator")
+* [Litecoin Calculator](https://paybis.com/litecoin-calculator/ "Litecoin Calculator")
+* [XRP Calculator](https://paybis.com/xrp-calculator/ "XRP Calculator")
+* [Bitcoin Cash Calculator](https://paybis.com/bitcoin-cash-calculator/ "Bitcoin Cash Calculator")
+* [Stellar Calculator](https://paybis.com/stellar-calculator/ "Stellar Calculator")
+* [Binance Coin Calculator](https://paybis.com/binance-coin-calculator/ "Binance Coin Calculator")
+* [Dogecoin Calculator](https://paybis.com/dogecoin-calculator/ "Dogecoin Calculator")
+* [TRON Calculator](https://paybis.com/tron-calculator/ "TRON Calculator")
+* [Tether Calculator](https://paybis.com/tether-calculator/ "Tether Calculator")
+
+#### Prices
+
+* [Bitcoin Price](https://paybis.com/price/bitcoin/ "Bitcoin Price")
+* [Ethereum Price](https://paybis.com/price/ethereum/ "Ethereum Price")
+* [Litecoin Price](https://paybis.com/price/litecoin/ "Litecoin Price")
+* [XRP Price](https://paybis.com/price/xrp/ "XRP Price")
+* [Bitcoin Cash Price](https://paybis.com/price/bitcoin-cash/ "Bitcoin Cash Price")
+* [Stellar Price](https://paybis.com/price/stellar/ "Stellar Price")
+* [Binance Coin Price](https://paybis.com/price/binance-coin/ "Binance Coin Price")
+* [Dogecoin Price](https://paybis.com/price/dogecoin/ "Dogecoin Price")
+* [TRON Price](https://paybis.com/price/tron/ "TRON Price")
+* [Tether Price](https://paybis.com/price/tether/ "Tether Price")
 
  [![Paybis status page](https://cdn.paybis.com/resources/icons/heart-half-stroke.svg) Status page](https://status.paybis.com/)
 
-### Download our app:
-
-[![Download App оn the Google Play](https://cdn.paybis.com/resources/widget/app-google.svg)](https://go.payb.is/mobile-app)[![Download App on the App Store](https://cdn.paybis.com/resources/widget/app-apple.svg)](https://go.payb.is/mobile-app)
+[![Download App on the App Store](https://cdn.paybis.com/resources/widget/app-apple-new.svg)](https://go.payb.is/mobile-app)[![Download App оn the Google Play](https://cdn.paybis.com/resources/widget/app-google-new.svg)](https://go.payb.is/mobile-app)
 
 #### Contacts
 
 * [support@paybis.com](mailto:support@paybis.com)
 
-PAYBIS POLAND Sp. z o.o. (0001041711), Hoża 86/210, Warsaw, Poland, 00-682  
-PAYBIS USA LTD (87-1891757), 321 S. Boston, Tulsa, OK, 74103  
-© 2014-2024 Paybis.com, all rights reserved.  
-  
-Investing in cryptoassets involves significant risk. You should not invest more than you can afford to lose, and you should ensure that you fully understand the risks involved. We are not regulated by the Financial Conduct Authority and investments in cryptoassets are not covered by the Financial Ombudsman Service or subject to protection under the Financial Services Compensation Scheme. [![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120d.png?ID=2f92f7f5-f81e-4541-b908-fe7d31c9332b)](https://www.dmca.com/Protection/Status.aspx?ID=2f92f7f5-f81e-4541-b908-fe7d31c9332b "DMCA.com Protection Status")
+[![linkedin-new](https://cdn.paybis.com/resources/icons/linkedin-new.svg)2.5k](https://www.linkedin.com/company/paybis/)[![twitter-new](https://cdn.paybis.com/resources/icons/twitter-new.svg)8k](https://twitter.com/paybis)[![youtube-new](https://cdn.paybis.com/resources/icons/youtube-new.svg)43.1k](https://www.youtube.com/@Paybis)[![instagram-new](https://cdn.paybis.com/resources/icons/instagram-new.svg)4.3k](https://www.instagram.com/paybis/)[![facebook-new](https://cdn.paybis.com/resources/icons/facebook-new.svg)4.1k](https://www.facebook.com/Paybis/)
+
+PAYBIS POLAND Sp. z o.o.
+
+(0001041711), Hoża 86/210, Warsaw, Poland, 00-682
+
+PAYBIS USA LTD
+
+(87-1891757), 321 S. Boston, Tulsa, OK, 74103
+
+© 2014-2024 Paybis.com, all rights reserved.
+
+Investing in cryptoassets involves significant risk. You should not invest more than you can afford to lose, and you should ensure that you fully understand the risks involved. We are not regulated by the Financial Conduct Authority and investments in cryptoassets are not covered by the Financial Ombudsman Service or subject to protection under the Financial Services Compensation Scheme.
+
+[Protected DMCA](https://www.dmca.com/Protection/Status.aspx?ID=2f92f7f5-f81e-4541-b908-fe7d31c9332b "DMCA.com Protection Status")
 
 Close
 
