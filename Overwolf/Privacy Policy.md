@@ -14,8 +14,8 @@
         
     * Desktop Apps
         * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
-        * [Getting started](https://overwolf.github.io/start/getting-started)
-        * [App documentation](https://overwolf.github.io/)
+        * [Getting started](https://dev.overwolf.com/ow-native/getting-started/overview/)
+        * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
         * [Supported games](https://www.overwolf.com/supported-games/)
         * [Dev Discord](https://discord.gg/overwolf-developers)
     * [Mods](#)
@@ -103,7 +103,7 @@ Definitions used herein but not defined herein shall have the meaning ascribed t
 Further, please note that this Privacy Policy governs **solely** the use of our informative and promotional website and landing pages. This Privacy Policy **shall not apply in the following cases and on the following of Overwolf services**:
 
 * YOU ARE AN END USER THAT USES THE OVERWOLF PLATFORMS (AS SUCH TERMS DEFINED WITHIN THE OVERWOLF PLATFORM TERMS OF USE), OR USING ANY OTHER APPLICATIONS THAT WERE DEVELOPED AND OWNED BY OVERWOLF AND DISTRIBUTED THROUGH OUR PLATFORMS;  
-* A DEVELOPER THAT USES THE OVERWOLF DEVELOPER PLATFORMS (AS SUCH TERM IS DEFINED IN THE [OVERWOLF DEVELOPERS TERMS AND CONDITIONS](https://overwolf.github.io/topics/legal/legal-developers-terms)), AND THE OVERWOLF SOFTWARE WHICH ENABLES INTEGRATION OF APPS; 
+* A DEVELOPER THAT USES THE OVERWOLF DEVELOPER PLATFORMS (AS SUCH TERM IS DEFINED IN THE [OVERWOLF DEVELOPERS TERMS AND CONDITIONS](https://dev.overwolf.com/legal/developer-terms/)), AND THE OVERWOLF SOFTWARE WHICH ENABLES INTEGRATION OF APPS; 
 * A MOD AUTHOR THAT USES THE OVERWOLF CURSEFORGE PLATFORM (“**CURSEFORGE**”) FOR THE CREATION AND DISTRIBUTION OF GAME MODS (AS SUCH TERM IS DEFINED IN THE  [OVERWOLF MOD AUTHORS TERMS AND CONDITIONS](https://www.curseforge.com/terms/mod-author); 
 
 If you are any of the above, please see our applicable Privacy Policies applicable on the respective service for more information on how your personal information will be collected and processed by us for providing these services to you. 
@@ -309,7 +309,7 @@ Please read the _“Highlights Sections”_ paragraph under the [_CPA Additional
     * [Publish a mod](https://authors.curseforge.com/welcome/)
     * [Monetize game server](https://www.tebex.io/)
     * [Monetize your website](https://nitropay.com/)
-    * [App documentation](https://overwolf.github.io/docs/start/getting-started)
+    * [App documentation](https://dev.overwolf.com/ow-native/getting-started/overview/)
     * [Mod documentation](https://support.curseforge.com/en/support/solutions/folders/9000194118)
     * [Accelerator](https://www.overwolf.com/acceleration)
     * [Apply for funding](https://www.overwolf.com/fund/home)
@@ -329,11 +329,11 @@ Please read the _“Highlights Sections”_ paragraph under the [_CPA Additional
     * [Influencers](https://www.overwolf.com/influencers)
 * ##### Company
     
-    * [About us](https://overwolf.com/about-overwolf/)
-    * [Our culture](https://overwolf.com/our-culture/)
-    * [Brand guidelines](https://overwolf.com/brand-guidelines/)
+    * [About us](https://www.overwolf.com/about-overwolf/)
+    * [Our culture](https://www.overwolf.com/our-culture/)
+    * [Brand guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
-    * [Careers](https://overwolf.com/careers/)
+    * [Careers](https://www.overwolf.com/careers/)
     * [ISO](https://www.overwolf.com/iso/)
 * ##### Support & Privacy
     
