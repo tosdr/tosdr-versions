@@ -1,6 +1,16 @@
 [Skip to main content](#main)
 
-[](https://www.modernatx.com/en-GB)
+* [mRNA pipeline](https://www.modernatx.com/en-US/research/product-pipeline)
+* [Careers](https://www.modernatx.com/en-US/careers/life-at-moderna)
+* [Newsroom](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [Blogs](https://www.modernatx.com/en-US/media-center/all-media/blogs)
+* [Moderna Supplier Page](https://www.modernatx.com/en-US/supplier/moderna-supplier-page)
+* |
+* [Health Care Professionals](https://atlas.modernatx.com/)
+* [Investors](https://investors.modernatx.com/)
+* [Clinical trials](https://trials.modernatx.com/)
+
+[](https://www.modernatx.com/en-US)
 
 * About Us
     
@@ -8,93 +18,95 @@
     
 * Research
     
-* [Newsroom](https://www.modernatx.com/en-GB/press-release)
+* Responsibility
+    
+* Our Products
     
 
 Search
 
-Looking for another location?
------------------------------
+Are you looking for another country?
+------------------------------------
 
 ### Asia Pacific
 
 Australia
 
-[English](https://www.modernatx.com/en-AU/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-AU/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Japan
 
-[日本](https://www.modernatx.com/ja-JP/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[日本](https://www.modernatx.com/ja-JP/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Hong Kong
 
-[中文](https://www.modernatx.com/zh-HK/terms-of-use?slug=terms-of-use&fromLocale=en-GB)[English](https://www.modernatx.com/en-HK/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[中文](https://www.modernatx.com/zh-HK/terms-of-use?slug=terms-of-use&fromLocale=en-US)[English](https://www.modernatx.com/en-HK/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 South Korea
 
-[한국어](https://www.modernatx.com/ko-KR/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[한국어](https://www.modernatx.com/ko-KR/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Taiwan
 
-[中文](https://www.modernatx.com/zh-TW/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[中文](https://www.modernatx.com/zh-TW/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Singapore
 
-[English](https://www.modernatx.com/en-SG/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-SG/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 ### Europe
 
 France
 
-[Français](https://www.modernatx.com/fr-FR/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Français](https://www.modernatx.com/fr-FR/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Germany
 
-[Deutsch](https://www.modernatx.com/de-DE/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Deutsch](https://www.modernatx.com/de-DE/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Italy
 
-[Italiano](https://www.modernatx.com/it-iT/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Italiano](https://www.modernatx.com/it-IT/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Netherlands
 
-[Nederlands](https://www.modernatx.com/nl-NL/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Nederlands](https://www.modernatx.com/nl-NL/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Spain
 
-[Español](https://www.modernatx.com/es-ES/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Español](https://www.modernatx.com/es-ES/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Switzerland
 
-[Deutsch](https://www.modernatx.com/de-CH/terms-of-use?slug=terms-of-use&fromLocale=en-GB)[Français](https://www.modernatx.com/fr-CH/terms-of-use?slug=terms-of-use&fromLocale=en-GB)[Italiano](https://www.modernatx.com/it-CH/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Deutsch](https://www.modernatx.com/de-CH/terms-of-use?slug=terms-of-use&fromLocale=en-US)[Français](https://www.modernatx.com/fr-CH/terms-of-use?slug=terms-of-use&fromLocale=en-US)[Italiano](https://www.modernatx.com/it-CH/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 United Kingdom
 
-[English](https://www.modernatx.com/en-GB/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-GB/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Poland
 
-[Polski](https://www.modernatx.com/pl-PL/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Polski](https://www.modernatx.com/pl-PL/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 ### North America
 
 Canada
 
-[English](https://www.modernatx.com/en-CA/terms-of-use?slug=terms-of-use&fromLocale=en-GB)[Français](https://www.modernatx.com/fr-CA/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-CA/terms-of-use?slug=terms-of-use&fromLocale=en-US)[Français](https://www.modernatx.com/fr-CA/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 United States
 
-[English](https://www.modernatx.com/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[English](https://www.modernatx.com/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 ### South America
 
 LATAM
 
-[Español](https://www.modernatx.com/es-LATAM/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Español](https://www.modernatx.com/es-LATAM/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 LATAM
 
-[Português](https://www.modernatx.com/pt-BR/terms-of-use?slug=terms-of-use&fromLocale=en-GB)
+[Português](https://www.modernatx.com/pt-BR/terms-of-use?slug=terms-of-use&fromLocale=en-US)
 
 Moderna's Terms and Conditions of Use
 =====================================
@@ -109,7 +121,7 @@ These Website Terms and Conditions of Use (“_Terms_”) describe the terms and
 
 You understand and agree that we may change these Terms at any time without prior notice. You may read a current, effective copy of these Terms at any time by selecting the “Terms and Conditions of Use” link on the Website. Moderna may revise these terms at any time without prior notice. Any use of the Website after such date shall constitute your acceptance of such revised terms and conditions. If any change to these Terms is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Website.
 
-Your access to and use of the Website is also subject to Moderna’s Privacy Policy located at [https://www.modernatx.com/en-gb/privacy-statement](https://www.modernatx.com/en-gb/privacy-statement), the terms and conditions of which are hereby incorporated herein by reference.  
+Your access to and use of the Website is also subject to Moderna’s Privacy Policy located at [https://www.modernatx.com/en-us/privacy-statement](https://www.modernatx.com/en-us/privacy-statement), the terms and conditions of which are hereby incorporated herein by reference.  
 
 ### Use of Information
 
@@ -175,39 +187,47 @@ If any provision of these Terms is found to be unlawful, invalid or unenforceabl
 
 These terms will inure to the benefit of our successors, assigns, licensees, and sublicensees.
 
-### UK Modern Slavery Act Statement
+### Investors
 
-* [UK Modern Slavery Act Statement](https://assets.modernatx.com/m/420d817a6cc4abb2/original/UK_Modern_Slavery_Act_2022_Final.pdf)
+* [Investors overview](https://investors.modernatx.com/)
 
-### Moderna UK Carbon Reduction Plan
+### Newsroom
 
-* [Moderna UK Carbon Reduction Plan](https://assets.modernatx.com/m/44afdf77ffaf1db2/original/Moderna-UK-Carbon-Reduction-Plan.pdf)
+* [News and media 2023](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [Media kit](https://www.modernatx.com/en-US/newsroom/news-and-media/media-kit)
 
-### Moderna UK Tax Strategy
+### Patents
 
-* [Moderna UK Tax Strategy](https://assets.modernatx.com/m/1263f947367d478b/original/Moderna-UK_Tax-Strategy-final.pdf)
+* [Patents](https://www.modernatx.com/en-US/patents)
 
-### Contact us
+### Media Center
 
-* [Contact Moderna](https://www.modernatx.com/en-GB/contact-moderna)
+* [All media](https://www.modernatx.com/en-US/media-center/all-media)
+* [Blogs](https://www.modernatx.com/en-US/media-center/all-media/blogs)
+* [Videos](https://www.modernatx.com/en-US/media-center/all-media/videos)
+* [Podcasts](https://www.modernatx.com/en-US/media-center/all-media/podcasts)
 
-### UK Headquarters
+### Partnerships
 
-Moderna Biotech Distributor UK Ltd
+* [Strategic collaborators](https://www.modernatx.com/en-US/partnerships/strategic-collaborators)
 
-MYO
+### Careers
 
-123 Victoria Street
+* [Life at Moderna](https://www.modernatx.com/en-US/careers/life-at-moderna)
+* [People behind the science](https://www.modernatx.com/en-US/careers/people-behind-the-science)
+* [Awards](https://www.modernatx.com/en-US/careers/awards)
+* [Join our team](https://modernatx.eightfold.ai/careers/)
 
-London
+### Innovation Incubator
 
-SW1E 6DE  
-  
+* [New Venture Labs](https://www.modernatx.com/en-US/innovation-incubator/new-venture-labs)
 
-* [Terms of use](https://www.modernatx.com/en-GB/terms-of-use)
-* [Privacy statement](https://www.modernatx.com/en-GB/privacy-statement)
-* [Cookie Statement](https://www.modernatx.com/en-GB/cookie-statement)
-* [Contact Moderna](https://www.modernatx.com/en-GB/contact-moderna)
-* [Sitemap](https://www.modernatx.com/en-GB/sitemap)
+[](https://www.instagram.com/moderna_tx/)[](https://facebook.com/modernatx)[](https://twitter.com/moderna_tx)[](https://linkedin.com/company/modernatx)
+
+* [Terms of use](https://www.modernatx.com/en-US/terms-of-use)
+* [Privacy statement](https://www.modernatx.com/en-US/privacy-statement)
+* [Cookie Statement](https://www.modernatx.com/en-US/cookie-statement)
+* [Contact Moderna](https://www.modernatx.com/en-US/contact-moderna)
+* [Sitemap](https://www.modernatx.com/en-US/sitemap)
 
 © 2024 Moderna, Inc.
