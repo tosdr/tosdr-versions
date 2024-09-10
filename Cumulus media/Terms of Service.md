@@ -270,6 +270,8 @@ We may give you notice that we have removed or disabled access to certain materi
 
 [![Cumulus Media](https://www.cumulusmedia.com/wp-content/themes/cumulus_wordpress_theme/assets/prod/images/cumulus-logo-white-full.svg)](https://www.cumulusmedia.com/)
 
+© 2024 Cumulus Media
+
 * [About Us](https://www.cumulusmedia.com/about-us/)
 * [Blog](https://www.westwoodone.com/blog/)
 * [Advertising Solutions](https://www.cumulusmedia.com/advertising/)
@@ -282,5 +284,3 @@ We may give you notice that we have removed or disabled access to certain materi
 * [Site Map](https://www.cumulusmedia.com/site-map/)
 * [Work Here](https://www.cumulusmedia.com/careers/)
 * [Cookie Settings](#)
-
-© 2024 Cumulus Media
