@@ -57,6 +57,8 @@ No results
 * [Tutorials](https://isoriver.com/category/tutorials/)
 * [Forums](https://forums.isoriver.com/)
 
+[](#main-container "Go to top")
+
 * [About](https://isoriver.com/about/)
 * [Privacy Policy](https://isoriver.com/privacy-policy/)
 * [DMCA](https://isoriver.com/dmca/)
