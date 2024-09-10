@@ -1,6 +1,6 @@
 Toggle navigation
 
-[![LifeStreet](https://lifestreet.com/wp-content/uploads/2021/06/LSlogo.svg)](https://lifestreet.com/)
+[![LifeStreet](https://lifestreet.com/wp-content/uploads/2024/08/LS_logo-mintWhite-darkBackground.svg)](https://lifestreet.com/)
 
 * [Platform](https://lifestreet.com/nero/platform/)
 * [Solutions](https://lifestreet.com/solutions/solutions-for-performance-marketers/)
@@ -185,7 +185,7 @@ San Carlos, CA 94070
 
 Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
-![LSlogo](https://lifestreet.com/wp-content/uploads/2021/06/LSlogo.svg "LSlogo")
+![LS_logo-mintWhite-darkBackground](https://lifestreet.com/wp-content/uploads/2024/08/LS_logo-mintWhite-darkBackground.svg "LS_logo-mintWhite-darkBackground")
 
 [Linkedin-in](https://www.linkedin.com/company/lifestreet-corporation)
 
