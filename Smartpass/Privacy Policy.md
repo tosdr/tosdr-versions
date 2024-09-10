@@ -28,11 +28,11 @@ Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a
 
 Monitor Health Room & Counselor Visits](#)
 
-Product Tours
+Products
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
 
-Hall Pass](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
+Hall Pass](https://www.smartpass.app/hall-pass)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
 
 Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
 
@@ -112,11 +112,11 @@ Schedule Student Accommodations](#)[![](https://cdn.prod.website-files.com/5c06a
 
 Monitor Health Room & Counselor Visits](#)
 
-Product Tours
+Products
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aa04eecfc856b5c11_Students.svg)
 
-Hall Pass](https://www.smartpass.app/hall-pass-tour)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
+Hall Pass](https://www.smartpass.app/hall-pass)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/666629ec8a410c43db2ccb67_Week%20View.svg)
 
 Flex](https://www.smartpass.app/flex)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66662a7aeffa3401f8d93009_ID%20cards.svg)
 
@@ -156,17 +156,17 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
-[Berlin HS
+[Simmons MS
 
-Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
+Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
 [Pinelands Regional HS
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
 
-[Simmons MS
+[Berlin HS
 
-Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
+Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -238,7 +238,7 @@ Case Studies](https://www.smartpass.app/customers)[![](https://cdn.prod.website-
 
 Blog](https://www.smartpass.app/blog)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
-eBooks & Guides](https://www.smartpass.app/buyers-guide)
+eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
 
 Events
 
@@ -246,15 +246,15 @@ Events
 
 Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
-Webinars](https://get.smartpass.app/smartpass-shipped-july-2024)
+Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 The Latest
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64d7e65bb7acfdbdee102ff3_whitepaper%20image.png)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.webp)
 
 Free Whitepaper
 
-The Secret to a Positive School Culture? Smarter Student Movement.](https://www.smartpass.app/whitepaper)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
+**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
 
 Case Study
 
@@ -272,7 +272,7 @@ About SmartPass](https://www.smartpass.app/about)
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
 
-Careers](https://smartpass.notion.site/Careers-at-SmartPass-088f2d19b65747769938d842e2b79205)
+Careers](https://boards.greenhouse.io/smartpass)
 
 OPEN ROLES
 
@@ -298,7 +298,7 @@ Case Studies](https://www.smartpass.app/customers)[![](https://cdn.prod.website-
 
 Blog](https://www.smartpass.app/blog)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64926f2924f87f9592054a96_Vector-3.svg)
 
-eBooks & Guides](https://www.smartpass.app/buyers-guide)
+eBooks & Guides](https://www.smartpass.app/ebook/bathroom-passes-management)
 
 Events
 
@@ -306,15 +306,15 @@ Events
 
 Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
-Webinars](https://get.smartpass.app/smartpass-shipped-july-2024)
+Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 The Latest
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64d7e65bb7acfdbdee102ff3_whitepaper%20image.png)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.webp)
 
 Free Whitepaper
 
-The Secret to a Positive School Culture? Smarter Student Movement.](https://www.smartpass.app/whitepaper)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
+**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c9f3b216bccc02d38659e0_Goochland%20Image.png)
 
 Case Study
 
@@ -332,7 +332,7 @@ About SmartPass](#)
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654933d62d3102cb8511_Briefcase.svg)
 
-Careers](https://smartpass.notion.site/Careers-at-SmartPass-088f2d19b65747769938d842e2b79205)
+Careers](https://boards.greenhouse.io/smartpass)
 
 OPEN ROLES
 
@@ -737,6 +737,8 @@ Focus on Learning, Not Logistics
 
 Over 10,000 principals and school leaders use SmartPass for hall passes, ID Cards, advisory periods, pull-out interventions, counseling sessions, and more.
 
+[Take a Tour](https://www.smartpass.app/hall-pass-tour)
+
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64e380745f742709e09c9b01_smartpass%20movement%20image.png)
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64c58dfcde0296f89ff2f693_Cross.png)](#)
@@ -775,19 +777,19 @@ Safety & Security are our top priority. All SmartPass products are compliant wit
 
 Products
 
-[Hall Pass](https://www.smartpass.app/get-started)[ID Cards](https://www.smartpass.app/idcards)[Flex](https://www.smartpass.app/flex)[Attendance](https://www.smartpass.app/get-started)[Sign in](http://app.smartpass.app/)
+[Hall Pass](https://www.smartpass.app/hall-pass)[Flex](https://www.smartpass.app/flex)[ID Cards](https://www.smartpass.app/idcards)[Sign in](http://app.smartpass.app/)[Download iOS App](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[Download Android App](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)
 
 Resources
 
-[Grants & Funding](https://www.smartpass.app/education-grants-federal-funding)[Case Studies](https://www.smartpass.app/customers)[Blog](https://www.smartpass.app/blog)[eBooks & Guides](https://www.smartpass.app/buyers-guide) [Conferences](https://www.smartpass.app/conferences)[Webinars](https://www.smartpass.app/new-at-smartpass-2023)
+[Grants + Funding](https://www.smartpass.app/education-grants-federal-funding)[Case Studies](https://www.smartpass.app/customers)[Blog](https://www.smartpass.app/blog)[Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 Support
 
-[Help Center](https://www.smartpass.app/support)[SmartPass Academy](https://www.smartpass.app/academy)[Discover Guides](https://www.smartpass.app/discover-guides)
+[Help Center](https://www.smartpass.app/support)[SmartPass Academy](https://www.smartpass.app/academy)[Discover More Use Cases](https://www.smartpass.app/discover-guides)
 
 [Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64966aeed452680d2968a8f7_footer%20live%20chat%20img.png)
 
-[Call Us](#)[Download iOS App](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[Download Android App](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)[Product Updates](https://www.smartpass.app/product-updates)[Suggest a Feature](http://wishlist.smartpass.app/)[For Parents & Families](https://www.smartpass.app/parents)
+[Product Updates](https://www.smartpass.app/product-updates)[Suggest a Feature](http://wishlist.smartpass.app/)
 
 [Uptime](http://smartpass.instatus.com/)
 
@@ -795,13 +797,13 @@ Support
 
 Company
 
-[About SmartPass](https://www.smartpass.app/about)[Customers](https://www.smartpass.app/customers)
+[About SmartPass](https://www.smartpass.app/about)
 
-[Careers](https://smartpass.notion.site/Careers-at-SmartPass-088f2d19b65747769938d842e2b79205)
+[Careers](https://boards.greenhouse.io/smartpass)
 
 OPEN ROLES
 
-[Swag Shop](http://shop.smartpass.app/)[Become a Partner](#)[Press](https://www.smartpass.app/press)[Privacy & Trust Center](https://www.smartpass.app/privacy)[Terms of Use](https://www.smartpass.app/terms)[Contact Us](#)
+[Swag Shop](http://shop.smartpass.app/)[Press](https://www.smartpass.app/press)[Privacy & Trust Center](https://www.smartpass.app/privacy)[Terms of Use](https://www.smartpass.app/terms)[Contact Us](#)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
@@ -822,10 +824,6 @@ SDPC
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64f431af97af24f9cf11d897_Safety%20%26%20Security%20Logos.png)](https://www.smartpass.app/privacy)
 
 [Safety & Security](https://www.smartpass.app/schedule-a-demo---test) are our top priority. All SmartPass products are compliant with data protection regulations and standards.
-
-Learn
-
-[Video Case Study: Maximize Time with Students](https://www.smartpass.app/customers/goochland-county-public-schools)[How to Grow Student Accountability](https://www.smartpass.app/customers/northwestern-local-schools)[Hall Pass Buyer’s Guide](https://www.smartpass.app/buyers-guide)[Tips for Quiet Hallways](https://www.smartpass.app/blog/introducing-smartpass-the-best-digital-hall-pass-solution-for-your-school)[Case Study: Switch from Google Forms](https://www.smartpass.app/customers/columbus-city-school-district)[Data-Driven Decisions Case Study](https://www.smartpass.app/customers/pennsbury-school-district)[See All Articles](https://www.smartpass.app/blog)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6495c72a8227bec7a3a19a84_Vector.svg)
 
