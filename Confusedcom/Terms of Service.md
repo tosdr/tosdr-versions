@@ -226,7 +226,7 @@ If you've got an opinion, we want to hear it
 
 Our customer research community was created to gather your thoughts on Confused.com. It’s packed with forums, quick polls, and focus groups, and by taking part in the research, you could win prizes or even get paid.
 
-[Sign up and share your thoughts](https://rvucommunity.flexmr.net/oa/b85860)
+[Sign up and share your thoughts](https://rvucommunity.flexmr.net/oa/62feb1)
 
 Part of a family of brands
 
