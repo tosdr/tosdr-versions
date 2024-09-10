@@ -7,6 +7,7 @@ High-Tech Sunglasses Fit Over Prescriptions!
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
+* [Wholesale](https://faire.com/direct/battlevision)
 
 * [Home](https://getwraparounds.com/Home)
 * [Contact Us](https://getwraparounds.com/Contact-Us)
@@ -20,7 +21,7 @@ Terms and conditions
 
 TERMS & CONDITIONS  
 1\. Introduction  
-Thank you for visiting a product landing page, property of Bulbhead.com. BulbHead is a consumer e-commerce website for innovative or hard-to- find products that solve everyday problems. These Terms and Conditions, and our related Privacy Policy, apply to the BulbHead.com website. Please read them carefully, as by using Service you agree to be bound by both documents. If you have any questions about these Terms and Conditions, please contact us via email at policies@bulbhead.com.
+Thank you for visiting aproduct landing page, property of Bulbhead.com. BulbHead is a consumer e-commerce website for innovative or hard-to- find products that solve everyday problems. These Terms and Conditions, and our related Privacy Policy, apply to the BulbHead.com website. Please read them carefully, as by using Service you agree to be bound by both documents. If you have any questions about these Terms and Conditions, please contact us via email at policies@bulbhead.com.
 
 2\. Definitions  
 In these Terms and Conditions, we use the following definitions:
@@ -245,6 +246,7 @@ Effective Date: October 1, 2016
 * [Contact Us](https://getwraparounds.com/Contact-Us)
 * [Privacy Policy](https://getwraparounds.com/Privacy-Policy)
 * [FAQ](https://getwraparounds.com/FAQ)
+* [Wholesale](https://faire.com/direct/battlevision)
 
 [](https://www.facebook.com/BulbHeadIdeas/)
 
