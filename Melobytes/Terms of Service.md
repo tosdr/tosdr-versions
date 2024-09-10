@@ -66,6 +66,8 @@ Music composition
 Voice Composition
 
 * [Become a speaker](https://melobytes.com/en/app/become_a_speaker)
+* [Change voice](https://melobytes.com/en/app/change_voice)
+* [Change voice (AI) New](https://melobytes.com/en/app/ai_change_voice)
 * [SSML text to sing](https://melobytes.com/en/app/text_to_sing)
 * [Text to phonetics](https://melobytes.com/en/app/text2phonetics)
 * [Text to Speech](https://melobytes.com/en/app/text2speech)
@@ -85,6 +87,7 @@ Lyrics
 
 * [Bars](https://melobytes.com/en/app/bars)
 * [Extract lyrics New](https://melobytes.com/en/app/extract_lyrics)
+* [Haiku New](https://melobytes.com/en/app/haiku)
 * [Lyrics Analysis](https://melobytes.com/en/app/lyricsanalysis)
 * [Lyrics in Mood Color New](https://melobytes.com/en/app/ai_lyrics2color)
 * [Lyrics moderator New](https://melobytes.com/en/app/ai_lyrics_moderation)
@@ -131,6 +134,10 @@ Melogames
 * [Sudoku](https://melobytes.com/en/app/game_sudoku)
 * [Trivia quiz](https://melobytes.com/en/app/game_trivia_quiz)
 
+Tools
+
+* [Extract BPM from Audio/Video New](https://melobytes.com/en/app/get_bpm)
+
 Language
 
 * [AI Band Name Generator New](https://melobytes.com/en/app/ai_band_name_generator)
@@ -152,7 +159,6 @@ File conversions
 * [Audio or image spectrogram](https://melobytes.com/en/app/spectrogram)
 * [Audio to video clip](https://melobytes.com/en/app/audio_to_video_clip)
 * [Audio tracks mix](https://melobytes.com/en/app/audio_tracks_mix)
-* [Change voice](https://melobytes.com/en/app/change_voice)
 * [Convert any file to music](https://melobytes.com/en/app/anyfile2music)
 * [Convert SSML to xtiming New](https://melobytes.com/en/app/convert_ssml_to_xtiming)
 * [Image files converter](https://melobytes.com/en/app/imageconvert)
@@ -161,6 +167,7 @@ File conversions
 * [Simulate xtiming file New](https://melobytes.com/en/app/simulate_xtiming)
 * [Song to Karaoke (AI) New](https://melobytes.com/en/app/song2karaoke)
 * [Speech to text, subtiltes and subtitled video](https://melobytes.com/en/app/speech2text)
+* [Transcribe Audio / Video New](https://melobytes.com/en/app/transcription)
 * [Video files converter](https://melobytes.com/en/app/videoconvert)
 * [Vocoder effect](https://melobytes.com/en/app/vocoder)
 * [Zip files](https://melobytes.com/en/app/zip_files)
