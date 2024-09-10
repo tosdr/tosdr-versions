@@ -271,7 +271,6 @@ The BioTrust Sites are an Internet property of Bio Trust Nutrition (“Bio Trust
       
     Text the keyword STOP to 29691 to cancel. After texting STOP to 29691 you will receive one additional message confirming that your request has been processed. You acknowledge that our text message platform may not recognize and respond to unsubscribe requests that do not include the STOP keyword command and agree that BioTRUST and its service providers will have no liability for failing to honor such requests. If you unsubscribe from one of our text message programs, you may continue to receive text messages from BioTRUST through any other programs you have joined until you separately unsubscribe from those programs.  
       
-    In the event that you change or deactivate your mobile phone number, you agree to notify BioTRUST by visiting [https://support.attentivemobile.com/help/](https://support.attentivemobile.com/help/) If you are experiencing any problems, please visit [https://support.attentivemobile.com/help/](https://support.attentivemobile.com/help/) and submit the form with details about your problem or your request for support.  
       
     This message program is a service of BioTRUST, located at 500 Corporate Circle, Suite G, Golden, Colorado 80401.
 
@@ -339,7 +338,7 @@ Pricing may change depending on the changes to the Product(s) or quantity of Pro
 
 **Cancellation of Subscription**
 
-YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW UNTIL YOU CANCEL. YOU MAY CANCEL YOUR SUBSCRIPTION TO ANY PRODUCT OR PRODUCTS OFFERED THROUGH THE SUBSCRIBE & SAVE PROGRAM AT ANY TIME BY LOGGING INTO YOUR ACCOUNT AND SELECTING TO CANCEL IN THE “MANAGE SUBSCRIPTIONS” SECTION. YOU MUST CANCEL WITH AT LEAST SEVENTY-TWO (72) HOURS’ NOTICE PRIOR TO THE NEXT AUTO-SHIPMENT DATE TO RECEIVE A FULL REFUND. THIS MEANS THAT IF YOU’VE RECEIVED A NOTIFICATION OF UPCOMING PAYMENT, YOU HAVE THREE (3) CALENDAR DAYS TO CANCEL THAT PARTICULAR AUTO-SHIPMENT. IF YOU CANCEL AFTER THAT TIME FRAME, YOUR PAYMENT IS NON-REFUNDABLE AND YOU WILL BE RESPONSIBLE FOR ALL CHARGES (INCLUDING APPLICABLE TAXES) INCURRED WITH RESPECT TO ANY ORDER IDENTIFIED AS OUTSTANDING PRIOR TO THE CANCELLATION OF YOUR SUBSCRIPTION.
+YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW UNTIL YOU CANCEL. YOU MAY CANCEL YOUR SUBSCRIPTION TO ANY PRODUCT OR PRODUCTS OFFERED THROUGH THE SUBSCRIBE & SAVE PROGRAM AT ANY TIME BY LOGGING INTO YOUR ACCOUNT AND SELECTING TO CANCEL IN THE “MANAGE SUBSCRIPTIONS” SECTION. YOU MUST CANCEL WITH AT LEAST SEVENTY-TWO (72) HOURS’ NOTICE PRIOR TO THE NEXT AUTO-SHIPMENT DATE TO RECEIVE A FULL REFUND. IF YOU CANCEL AFTER THAT TIME FRAME, YOUR PAYMENT IS NON-REFUNDABLE AND YOU WILL BE RESPONSIBLE FOR ALL CHARGES (INCLUDING APPLICABLE TAXES) INCURRED WITH RESPECT TO ANY ORDER IDENTIFIED AS OUTSTANDING PRIOR TO THE CANCELLATION OF YOUR SUBSCRIPTION.
 
 To cancel your subscription, you may do so through your online account by logging into your account, going to your Account Dashboard, clicking on “Manage Subscriptions”, then clicking “Cancel” under actions on the desired Product you wish to unsubscribe from.
 
@@ -429,9 +428,7 @@ COMPANY
 
 * [Our Coaches](https://www.biotrust.com/pages/meet-the-team)
 * [Quality](https://www.biotrust.com/pages/quality)
-* [Our Charities](https://www.biotrust.com/pages/charity)
 * [BioTRUST Blog](https://www.biotrust.com/blog)
-* [We're Hiring](https://careers.smartrecruiters.com/BioTRUSTNutrition)
 * [Reviews](https://www.biotrust.com/pages/reviews)
 
 GET IN TOUCH
@@ -439,7 +436,6 @@ GET IN TOUCH
 
 * [Contact Us](https://helpcenter.biotrust.com/en-US)
 * [Affiliates](https://partners.biotrust.com/)
-* [Brand Ambassador](https://biotrust.grin.live/)
 
 * [](https://www.facebook.com/biotrust/)
 * [](https://www.instagram.com/biotrustnutrition/)
