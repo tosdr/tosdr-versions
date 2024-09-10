@@ -6,7 +6,7 @@ top of page
 
 * [The Panel Manager](https://www.reppublika.com/pam-the-panel-manager)
 * [DataPassport](https://www.reppublika.com/what-we-do)
-* [AudienceTools](https://www.reppublika.com/our-tools)
+* [Tools](https://www.reppublika.com/our-tools)
 * [Contact](https://www.reppublika.com/contact-sales)
 * More
     
@@ -171,9 +171,11 @@ Reppublika Data Analytics & Technologies GmbH
 
 [\[email protected\]](https://www.reppublika.com/cdn-cgi/l/email-protection) 
 
-[![bvdw_Mitglied_neg.gif](https://static.wixstatic.com/media/c61bc3_c8b4e7256ecd46e692f7a2fd1ab39d4a~mv2.gif)](https://www.bvdw.org/)
+[![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/IAB_Austria.png)](https://www.bvdw.org/)
 
-##### Member of Germany's  Bundesverband Digitale Wirtschaft
+[](https://www.bvdw.org/)
+
+##### Member of IAB Austria and of Germany's  Bundesverband Digitale Wirtschaft
 
 [![](https://static.wixstatic.com/media/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png/v1/fill/w_41,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png)
 
