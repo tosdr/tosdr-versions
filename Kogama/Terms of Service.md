@@ -36,7 +36,7 @@ Your use of The Service signifies that you agree to these terms and conditions a
 Age
 ---
 
-By accessing the Kogama Website or App without being logged into a Kogama account, you attest that you are 13 years of age or older. If you are younger than 13, you can only use the site while logged into a user account. Go to the frontpage and click the Sign Up button in order to create an account
+By accessing the Kogama Website or App without being logged into a Kogama account, you attest that you are 13 years of age or older. If you are younger than 13, you can only use the site while logged into a user account. Go to the frontpage and click the Sign Up button in order to create an account.
 
 2\. Material rights
 -------------------
@@ -105,7 +105,7 @@ If you are under 18 years of age or do not pay your own bills, you must get perm
 5\. Subscriptions
 -----------------
 
-The Service offers a premium membership ('Elite membership') in the form of a paid, auto-renewable subscription. Upgrading your account with an Elite membership grants access to a range of benefits as listed on [http://www.kogama.com/subscription/subscribe](http://www.kogama.com/subscription/subscribe) (requires login to view).
+The Service offers a premium membership ('Elite membership') in the form of a paid, auto-renewable subscription. Upgrading your account with an Elite membership grants access to a range of benefits as listed on [/subscription/subscribe/](https://www.kogama.com/subscription/subscribe/) (requires login to view).
 
 ### 5.1 Plans
 
@@ -127,7 +127,7 @@ The period of the membership renewal and the cost of the membership renewal will
 
 ### 5.3 Cancellation
 
-You may cancel your subscription at any time from the _Manage Subscription_ page located in the menu that is accessed at the top right on our website. Depending on your method of payment, the "Cancel" option on this page may take you to _iTunes_/_App Store_ (iOS) or _Google Play_ (Android).
+You may cancel your subscription at any time from the _Manage Subscription_ page located in the menu that is accessed at the top right on our website. Depending on your method of payment, the 'Cancel' option on this page may take you to _iTunes_/_App Store_ (iOS) or _Google Play_ (Android).
 
 If your subscription was made on iOS, auto-renewal may be turned off by going to your device's Account Settings after purchase.
 
