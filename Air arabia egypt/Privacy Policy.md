@@ -23,7 +23,7 @@ Main menu
     * [Booking](#)
     * [Book flight](https://www.airarabia.com/book-flight)
     * [Book flight + hotel](https://holidays.airarabia.com/)
-    * [Book hotel](http://hotels.airarabia.com/)
+    * [Book hotel](https://www.booking.com/?aid=1266753&auth_success=1)
     * [Rent a car](https://cars.airarabia.com/?clientID=811616)
     * [Fare types](https://www.airarabia.com/fare-types)
     
@@ -57,7 +57,6 @@ Main menu
     * [ADD SEATS](https://www.airarabia.com/add-seats)
     * [ADD MEALS](https://www.airarabia.com/add-meals)
     * [ADD INSURANCE](https://www.airarabia.com/add-insurance)
-    * [ADD DELAYED BAGGAGE PROTECTION](https://www.airarabia.com/add-delayed-baggage-protection)
     * [ADD AIRPORT SERVICES](https://www.airarabia.com/add-airport-services)
     
     * [FLIGHT STATUS](#)
@@ -65,11 +64,10 @@ Main menu
     
 * [Check-In](https://webcheckin.airarabia.com/accelaero/en/index.html) [More](# )
     
-    * [Online Check‑In    
-        ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAABAAQMAAAB/ZYijAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2DgAAACgAAB2lqyLQAAAABJRU5ErkJggg==)](https://webcheckin.airarabia.com/accelaero/en/index.html)  
-    
-    * [City Check‑In   
-        ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAABAAQMAAAB/ZYijAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2DgAAACgAAB2lqyLQAAAABJRU5ErkJggg==)](https://www.airarabia.com/city-check-in) 
+    * [Check-in](#)
+    * [Online Check-in](https://webcheckin.airarabia.com/accelaero/en/index.html)
+    * [City Check-in](https://www.airarabia.com/city-check-in)
+    * [Home Check-in (Abu Dhabi)](https://www.airarabia.com/en/home-check-in-abudhabi)
     
 * [Destinations](https://www.airarabia.com/en/destinations) [More](# )
     
@@ -526,6 +524,7 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 * [Call centres](https://www.airarabia.com/call-centre)
 * [Office locations](https://www.airarabia.com/office-locations)
 * [FAQ](https://www.airarabia.com/frequently-asked-questions)
+* [Customer Claim](https://www.airarabia.com/en/faqs/compensation-form)
 
 #### Log in
 
