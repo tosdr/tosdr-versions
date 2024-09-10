@@ -1,6 +1,6 @@
-[**\[🔔 New\] No-Code Rights Automation: unparalleled in DSR vendor market**
+[**\[New\] Data Permissioning for Media Companies: privacy-safe data activation is here**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/no-code-rights-automation)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
 
@@ -34,13 +34,13 @@ By role
 
 By vertical
 
-[For retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[For travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
+[For retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
 
-[Product
+[Product, News
 
-Ketch launches No-Code Rights Automation: unparalleled in DSR vendor market
+Ketch Data Permissioning for Media Companies
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/no-code-rights-automation)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/data-permissioning-media-companies)
 
 [Download our compliance guide for retail and eCommerce brands
 
@@ -64,9 +64,11 @@ Resources
 
 Engage
 
-[Developers](https://www.ketch.com/developers)[Help center ↗](https://ketch.zendesk.com/auth/v2/login/sso?auth_origin=360007048433%2Ctrue%2Ctrue&brand_id=360007048433&locale=en-us&return_to=https%3A%2F%2Fdocs.ketch.com%2Fhc%2Fen-us&theme=hc)[Documentation ↗](https://docs.ketch.com/)
+[Developers](https://www.ketch.com/developers)[Documentation ↗](https://docs.ketch.com/)
 
 [Pricing](https://www.ketch.com/pricing)
+
+new
 
 Company
 
@@ -102,7 +104,7 @@ Download the Guide](https://content.ketch.com/privacy-trend-report-2024)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/664678fee765ad768fd5ca3e_Logotoype.svg)](https://www.ketch.com/)
 
-[Sign Up](https://app.ketch.com/registration/register?planId=plan_ketch_free)[Request a Demo](https://www.ketch.com/request-a-demo)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633f23a9239ccc46e0fb21d3_ic_close_black.svg)](#)
+[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=mobile&utm_term=free)[Request a Demo](https://www.ketch.com/request-a-demo)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633f23a9239ccc46e0fb21d3_ic_close_black.svg)](#)
 
 Platform
 
@@ -124,7 +126,7 @@ Customers
 
 [By vertical](#)
 
-[For retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[For travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)[For partnerships](https://www.ketch.com/customers/partnerships)
+[For retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)[For partnerships](https://www.ketch.com/customers/partnerships)
 
 [By role](#)
 
@@ -140,9 +142,11 @@ Learn
 
 [Engage](#)
 
-[Developers](https://www.ketch.com/developers)[**Help center ↗**](https://ketch.zendesk.com/auth/v2/login/sso?auth_origin=360007048433%2Ctrue%2Ctrue&brand_id=360007048433&locale=en-us&return_to=https%3A%2F%2Fdocs.ketch.com%2Fhc%2Fen-us&theme=hc)[**Documentation ↗**](https://docs.ketch.com/)
+[Developers](https://www.ketch.com/developers)[**Documentation ↗**](https://docs.ketch.com/)
 
 [Pricing](https://www.ketch.com/pricing)
+
+new
 
 Company
 
@@ -152,7 +156,7 @@ Company
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c53046008112716cd312_ic_twitter.svg)](https://twitter.com/Ketch_Digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
-[Request a Demo](https://content.ketch.com/request-demo-nav)[Sign Up](https://app.ketch.com/registration/register?planId=plan_ketch_free)
+[Request a Demo](https://content.ketch.com/request-demo-nav)[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=mobile&utm_term=free)
 
 Privacy Policy
 ==============
@@ -585,7 +589,7 @@ We do not knowingly collect personal data about children. Our websites and syste
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/658486905aaf27e917a1beb8_ic_facebook.svg)](https://www.facebook.com/KetchTrustByDesign)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/664b4bf77f5c688d9772b879_658486905aaf27e917a1beb8_ic_x-01.svg)](https://twitter.com/ketch_digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
-[Sign Up](https://app.ketch.com/registration/register?planId=plan_otc_free)[Request a Demo](https://content.ketch.com/request-demo)
+[Sign Up](https://app.ketch.com/sign-up?utm_campaign=Pricing&utm_source=plg&utm_medium=footer&utm_term=free)[Request a Demo](https://content.ketch.com/request-demo)
 
 [Platform](https://www.ketch.com/platform/overview)
 
@@ -601,7 +605,7 @@ Data and AI Governance
 
 Customers
 
-[Retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[Travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[Technology](https://www.ketch.com/customers/technology)[Communications & media](https://www.ketch.com/customers/communications-and-media)[Financial services](https://www.ketch.com/customers/financial-services)[Partnerships](https://www.ketch.com/customers/partnerships)
+[Retail & ecommerce](https://www.ketch.com/customers/retail-consumer-goods)[Technology](https://www.ketch.com/customers/technology)[Communications & media](https://www.ketch.com/customers/communications-and-media)[Financial services](https://www.ketch.com/customers/financial-services)[Partnerships](https://www.ketch.com/customers/partnerships)
 
 Resources
 
@@ -609,7 +613,7 @@ Resources
 
 Engage
 
-[Developers](https://www.ketch.com/developers)[Help center ↗](https://ketch.zendesk.com/auth/v2/login/sso?auth_origin=360007048433%2Ctrue%2Ctrue&amp;brand_id=360007048433&amp;locale=en-us&amp;return_to=https%3A%2F%2Fdocs.ketch.com%2Fhc%2Fen-us&amp;theme=hc)[Documentation ↗](https://docs.ketch.com/)
+[Developers](https://www.ketch.com/developers)[Documentation ↗](https://docs.ketch.com/)
 
 Company
 
