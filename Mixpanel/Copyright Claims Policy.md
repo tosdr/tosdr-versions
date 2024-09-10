@@ -1,6 +1,6 @@
-🚀 Introducing Warehouse Connectors 2.0: Get the UI you love, on data you trust.
+🚀 Introducing Session Replay: Drive impact with the full picture.
 
-[Check it out](https://mixpanel.com/blog/warehouse-connectors-2024-release)
+[Learn more](https://mixpanel.com/releases/session-replay)
 
 [Mixpanel](https://mixpanel.com/home)
 
@@ -10,7 +10,8 @@
 
 * Product
     
-    * [Features](https://mixpanel.com/features)
+    * [Acquire New Users](https://mixpanel.com/acquire)
+    * [Grow Your Business](https://mixpanel.com/grow)
     * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
@@ -47,7 +48,9 @@
 [Get Started Free](https://mixpanel.com/register)
 
 * Product
-    * [Features](https://mixpanel.com/features)
+    
+    * [Acquire New Users](https://mixpanel.com/acquire)
+    * [Grow Your Business](https://mixpanel.com/grow)
     * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
@@ -56,9 +59,11 @@
     * [Pricing](https://mixpanel.com/pricing)
     * [What's New](https://mixpanel.com/product-releases)
 * Solutions
+    
     * [Teams](https://mixpanel.com/teams)
     * [Industries](https://mixpanel.com/industries)
 * Community
+    
     * [Customers](https://mixpanel.com/customers)
     * [Startups](https://mixpanel.com/startups)
     * [Events](https://eventhub.goldcast.io/?eventHubId=b183a53e-dd6e-4f0b-9a23-dd274f39d78d)
@@ -66,6 +71,7 @@
     * [Expert Directory](https://mixpanel.com/partners/experts)
     * [👋 We’re Hiring](https://mixpanel.com/jobs)
 * Company
+    
     * [About Us](https://mixpanel.com/about)
     * [Blog](https://mixpanel.com/blog)
     * [Become a Partner](https://mixpanel.com/partners)
