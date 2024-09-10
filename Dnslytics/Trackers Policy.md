@@ -16,7 +16,7 @@
     
 * [Reverse Tools](#)
     
-    [Reverse Adsense](https://dnslytics.com/reverse-adsense) [Reverse Analytics](https://dnslytics.com/reverse-analytics) [Reverse IP](https://dnslytics.com/reverse-ip) [Reverse MX](https://dnslytics.com/reverse-mx) [Reverse NS](https://dnslytics.com/reverse-ns)
+    [Reverse Adsense](https://dnslytics.com/reverse-adsense) [Reverse Analytics](https://dnslytics.com/reverse-analytics) [Reverse IP](https://dnslytics.com/reverse-ip) [Reverse MX](https://dnslytics.com/reverse-mx) [Reverse NS](https://dnslytics.com/reverse-ns) [Reverse PTR](https://dnslytics.com/reverse-ptr) [Reverse SPF](https://dnslytics.com/reverse-spf)
     
 * [More](#)
     
