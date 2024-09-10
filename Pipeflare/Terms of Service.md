@@ -4,39 +4,47 @@
 
  [![VIP Subscription](https://statics.pipeflare.io/assets/pages/layout/vip_sub.png) ![VIP Subscription](https://statics.pipeflare.io/assets/pages/layout/tiers/daily_rewards_i.svg)](#modal-vip-sub-trial)
 
-* [Jouer](#)
+Active Players
+
+1 , 0 6 1 , 6 9 9
+
+* [Play](#)
     
-    [Tank Battle Royale](https://pipeflare.io/game/guest/battle-royal-tank-edition) [Pyro's Mining Rush](https://pipeflare.io/game/pyro-mining) [Subway Run](https://pipeflare.io/game/subway-run) [BeatBox](https://pipeflare.io/game/guest/beat-box) [Space Shooter](https://pipeflare.io/game/guest/space-shooter) [Flare Roller](https://pipeflare.io/game/guest/untwist-road) [Tous les jeux](https://pipeflare.io/all-games)
+    [Pyro's Mining Rush](https://pipeflare.io/game/pyro-mining) [Subway Run](https://pipeflare.io/game/subway-run) [BeatBox](https://pipeflare.io/game/guest/beat-box) [Space Shooter](https://pipeflare.io/game/guest/space-shooter) [Flare Roller](https://pipeflare.io/game/guest/untwist-road) [All Games](https://pipeflare.io/all-games)
     
-* [Gagner](#)
+* [Earn](#)
+    
+    Free Giveaways
+    
+    [BAIR Giveaway](https://gleam.io/8ISPi/500-bair-x-pipeflare-giveaway) [Battleworld Giveaway](https://gleam.io/bsPiC/500-battleworld-x-pipeflare-giveaway) [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway) [Mega MAGA Giveaway](https://gleam.io/et88I/550-mega-maga-x-pipeflare-giveaway)
     
     My Free Spin
     
     [Free Spin Wheel](https://pipeflare.io/flare2-token/spin)
     
-    [Récompenses de supporters](https://pipeflare.io/user/supporter) [Récompenses quotidiennes](https://pipeflare.io/dailyrewards)
+    [Supporter Rewards](https://pipeflare.io/user/supporter) [Daily Rewards](https://pipeflare.io/dailyrewards)
     
     Referral Program
     
-    [Referral Rewards](https://pipeflare.io/user/referral) [Acheter des références](https://pipeflare.io/user/referral-purchase)
+    [Referral Rewards](https://pipeflare.io/user/referral) [Purchase Referrals](https://pipeflare.io/user/referral-purchase)
     
-    [Aérodromes](https://pipeflare.io/airdrops)
+    [Airdrops](https://pipeflare.io/airdrops)
     
-    Jetons
+    Tokens
     
-    [Jalonnement](https://pipeflare.io/user/staking) [Token Information](https://pipeflare.io/flr-token) [Roadmap](https://docs.pipeflare.io/roadmaps/2022-roadmap) [Withdraw & Deposit](https://pipeflare.io/flare-token/flare-deposit-withdrawal)
+    [Staking](https://pipeflare.io/user/staking) [Token Information](https://pipeflare.io/flr-token) [Roadmap](https://docs.pipeflare.io/roadmaps/2022-roadmap) [Withdraw & Deposit](https://pipeflare.io/flare-token/flare-deposit-withdrawal)
     
-* [BOUTIQUE](#)
+* [SHOP](#)
     
-    [Abonnement VIP](#modal-vip-sub-trial)
+    [VIP Subscription](#modal-vip-sub-trial)
     
     Special Offers
     
-    Offres de gemmes Referral Offers
+    Gem Offers Referral Offers
     
-    Objets de collection
+    Collectibles
     
-    [Marketplace](https://pipeflare.io/nfts-2) [Acheter Pyro](https://opensea.io/collection/pipeflarepyro) [Oeufs mystères](https://pipeflare.io/mystery-egg) [Le repaire de Pyro](https://pipeflare.io/cave)
+    [Marketplace](https://pipeflare.io/nfts-2) [Buy Pyro](https://opensea.io/collection/pipeflarepyro) [Mystery Eggs](https://pipeflare.io/mystery-egg) [Pyro's Lair](https://pipeflare.io/cave)
     
     Loot Boxes
     
@@ -48,9 +56,9 @@
     * Leaderboard Rewards
     PMR Skin
     
-* [S\\'identifier](https://pipeflare.io/auth/login)
-* [S\\'inscrire](https://pipeflare.io/auth/register)
-* [fr](#)
+* [Login](https://pipeflare.io/auth/login)
+* [Register](https://pipeflare.io/auth/register)
+* [en](#)
     
     [English](https://pipeflare.io/change-language/en) [中文](https://pipeflare.io/change-language/zh) [Español](https://pipeflare.io/change-language/es) [Français](https://pipeflare.io/change-language/fr) [Dutch](https://pipeflare.io/change-language/ka) [한국어](https://pipeflare.io/change-language/ko) [Russian](https://pipeflare.io/change-language/ru) [Portuguese](https://pipeflare.io/change-language/pt) [Ukrainian](https://pipeflare.io/change-language/uk)
     
@@ -125,23 +133,23 @@ DAY 7
 
 Upcoming
 
-Ajouter un rappel quotidien à votre calendrier:
+Add a daily reminder to your calendar:
 
-[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240731T100000+0000/20240731T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240731T100000+0000&et=20240731T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-07-31T10:00:00+00:00 2024-07-31T10:30:00+00:00
+[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20240910T100000+0000/20240910T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20240910T100000+0000&et=20240910T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-09-10T10:00:00+00:00 2024-09-10T10:30:00+00:00
 
-Fermer
+Close
 
 ×
 
 Please verify your email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437291) pour renvoyer l\\'e-mail d\\'activation.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005290) to resend activation email.
 
-D\\'accord
+OK
 
 Bonus Round
 
@@ -149,173 +157,173 @@ Bonus Round
 
 You get a free spin worth up to $5 for each of your first 5 referrals!
 
-Jouer
+Play
 
-Montrez à vos amis combien de crypto gratuite que vous avez faite. Partagez une capture d\\'écran de votre gamme de bonus!
+Show Your Friends How Much Free Crypto You've Made. Share A Screenshot Of Your Bonus Round!
 
 [![Facebook Bonus](https://statics.pipeflare.io/assets/images/socials/facebook.svg)](https://www.facebook.com/dialog/feed?app_id=197885368235165&link=https://pipeflare.io?bonus-amount=numberamount&redirect_uri=https://pipeflare.io) [![Twitter Bonus](https://statics.pipeflare.io/assets/images/socials/twitter.svg)](https://twitter.com/intent/tweet?&url=https://pipeflare.io?bonus-amount=numberamount) [![Linkedin Bonus](https://statics.pipeflare.io/assets/images/socials/linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://pipeflare.io?bonus-amount=numberamount&source=PipeFlare)
 
-**Termes et conditions**
+**Terms and Conditions**
 ------------------------
 
-Bienvenue à Pipeflare!
+Welcome to Pipeflare!
 
-Ces termes et conditions décrivent les règles et règlements pour l\\'utilisation du site Web de Pipeline Marketing Inc, situé à https://pipeflare.io.
+These terms and conditions outline the rules and regulations for the use of Pipeline Marketing Inc's Website, located at https://pipeflare.io.
 
-En accédant à ce site Web, nous supposons que vous acceptez ces termes et conditions. Ne continuez pas à utiliser Pipeflare si vous n\\'acceptez pas de respecter toutes les conditions générales énoncées sur cette page.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use Pipeflare if you do not agree to take all of the terms and conditions stated on this page.
 
-La terminologie suivante s\\'applique aux présentes conditions générales, à la déclaration de confidentialité et à l\\'avis de non-responsabilité ainsi qu\\'à tous les accords : « Client », « Vous » et « Votre » font référence à vous, la personne qui se connecte sur ce site Web et qui se conforme aux conditions générales de la Société. \\'La Société\\', \\'Nous-mêmes\\', \\'Nous\\', \\'Notre\\' et \\'Nous\\' font référence à notre Société. « Partie », « Parties » ou « Nous » désignent à la fois le Client et nous-mêmes. Tous les termes se réfèrent à l\\'offre, à l\\'acceptation et à la considération du paiement nécessaire pour entreprendre le processus de notre assistance au Client de la manière la plus appropriée dans le but exprès de répondre aux besoins du Client en ce qui concerne la fourniture des services déclarés de la Société, conformément à et sous réserve de la loi en vigueur en Floride. Toute utilisation de la terminologie ci-dessus ou d\\'autres mots au singulier, au pluriel, en majuscules et/ou il/elle ou ils, sont considérés comme interchangeables et donc comme faisant référence à ceux-ci.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: 'Client', 'You' and 'Your' refers to you, the person log on this website and compliant to the Company’s terms and conditions. 'The Company', 'Ourselves', 'We', 'Our' and 'Us', refers to our Company. 'Party', 'Parties', or 'Us', refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Florida. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
-### **Politique de remboursement**
+### **Refund Policy**
 
-Le marketing de pipeline est une entité basée sur les États-Unis avec une adresse marchande à 725 SE 14ème tribunal, Fort Lauderdale, FL, 33316. Pour les demandes de service à la clientèle, veuillez contacter [\[email protected\]](https://pipeflare.io/cdn-cgi/l/email-protection).Vous avez 14 jours pour demander des remboursements d\\'adhésions et d\\'achats de référence. Les remboursements ne sont pas offerts sur les achats de NFTS
+Pipeline Marketing is a U.S. based entity with a merchant address at 725 SE 14th Court, Fort Lauderdale, FL, 33316. For customer service requests, please contact [\[email protected\]](https://pipeflare.io/cdn-cgi/l/email-protection).You have 14-days to request refunds of memberships and of referral purchases. Refunds are not offered on purchases of NFTs
 
 ### **Cookies**
 
-Nous utilisons des cookies. En accédant à Pipeflare, vous avez accepté d\\'utiliser des cookies en accord avec la politique de confidentialité de Pipeline Marketing Inc.
+We employ the use of cookies. By accessing Pipeflare, you agreed to use cookies in agreement with the Pipeline Marketing Inc's Privacy Policy.
 
-La plupart des sites Web interactifs utilisent cookies pour nous permettre de récupérer les détails de l\\'utilisateur pour chaque visite. Cookies sont utilisés par notre site Web pour activer la fonctionnalité de certaines zones afin de faciliter la navigation des personnes sur notre site Web. Certains de nos partenaires affiliés / publicitaires peuvent également utiliser cookies.
+Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
 
-### **Licence**
+### **License**
 
-Sauf indication contraire, Pipeline Marketing Inc et / ou ses concédants de licence détiennent les droits de propriété intellectuelle pour tout le matériel sur Pipeflare. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder à partir de Pipeflare pour votre usage personnel soumis aux restrictions définies dans ces termes et conditions.
+Unless otherwise stated, Pipeline Marketing Inc and/or its licensors own the intellectual property rights for all material on Pipeflare. All intellectual property rights are reserved. You may access this from Pipeflare for your own personal use subjected to restrictions set in these terms and conditions.
 
-Vous ne devez pas:
+You must not:
 
-* Republier le matériel de Pipeflare
-* Vendre, louer ou sous-licencier du matériel de Pipeflare
-* Reproduire, dupliquer ou copier du matériel à partir de Pipeflare
-* Redistribuer le contenu de Pipeflare
+* Republish material from Pipeflare
+* Sell, rent or sub-license material from Pipeflare
+* Reproduce, duplicate or copy material from Pipeflare
+* Redistribute content from Pipeflare
 
-Le présent accord prend effet à la date des présentes.
+This Agreement shall begin on the date hereof.
 
-Certaines parties de ce site Web offrent aux utilisateurs la possibilité de publier et d\\'échanger des opinions et des informations dans certaines zones du site Web. Pipeline Marketing Inc ne filtre pas, ne modifie pas, ne publie pas et ne révise pas les commentaires avant leur présence sur le site Web. Les commentaires ne reflètent pas les vues et opinions de Pipeline Marketing Inc, de ses agents et / ou sociétés affiliées. Les commentaires reflètent les points de vue et les opinions de la personne qui publie leurs points de vue et opinions. Dans la mesure permise par les lois applicables, Pipeline Marketing Inc ne sera pas responsable des commentaires ou de toute responsabilité, dommages ou dépenses causés et / ou subis en raison de toute utilisation et / ou publication et / ou apparition des commentaires. sur ce site.
+Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Pipeline Marketing Inc does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Pipeline Marketing Inc,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Pipeline Marketing Inc shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
 
-Pipeline Marketing Inc se réserve le droit de surveiller tous les commentaires et de supprimer tout commentaire pouvant être considéré comme inapproprié, offensant ou entraînant une violation des présentes conditions générales.
+Pipeline Marketing Inc reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
 
-Vous garantissez et déclarez que:
+You warrant and represent that:
 
-* Vous êtes autorisé à publier les commentaires sur notre site Web et à disposer de toutes les licences et autorisations nécessaires pour le faire;
-* Les Commentaires n\\'empiètent sur aucun droit de propriété intellectuelle, y compris, sans limitation, les droits d\\'auteur, brevets ou marques de commerce de tiers;
-* Les commentaires ne contiennent aucun élément diffamatoire, calomnieux, offensant, indécent ou autrement illégal constituant une atteinte à la vie privée.
-* Les commentaires ne seront pas utilisés pour solliciter ou promouvoir des activités commerciales ou personnalisées ou présenter des activités commerciales ou des activités illégales.
+* You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
+* The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;
+* The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy
+* The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
 
-Par la présente, vous accordez à Pipeline Marketing Inc une licence non exclusive pour utiliser, reproduire, modifier et autoriser d\\'autres personnes à utiliser, reproduire et modifier n\\'importe lequel de vos commentaires sous toutes formes, formats ou supports.
+You hereby grant Pipeline Marketing Inc a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
 
-### **Hyperlien vers notre contenu**
+### **Hyperlinking to our Content**
 
-Les organisations suivantes peuvent créer un lien vers notre site Web sans approbation écrite préalable:
+The following organizations may link to our Website without prior written approval:
 
-* Organismes gouvernementaux;
-* Moteurs de recherche;
-* Organismes de presse;
-* Les distributeurs d\\'annuaires en ligne peuvent créer un lien vers notre site Web de la même manière qu\\'ils établissent un lien hypertexte vers les sites Web d\\'autres entreprises répertoriées; et
-* Entreprises accréditées à l\\'échelle du système, à l\\'exception de la sollicitation d\\'organisations à but non lucratif, de centres commerciaux de bienfaisance et de groupes de collecte de fonds caritatifs qui ne peuvent pas créer de lien hypertexte vers notre site Web.
+* Government agencies;
+* Search engines;
+* News organizations;
+* Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and
+* System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.
 
-Ces organisations peuvent créer un lien vers notre page d\\'accueil, des publications ou d\\'autres informations du site Web tant que le lien: (a) n\\'est en aucun cas trompeur; (b) n\\'implique pas faussement le parrainage, l\\'approbation ou l\\'approbation de la partie de liaison et de ses produits et / ou services; et (c) s\\'inscrit dans le contexte du site de la partie de liaison.
+These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.
 
-Nous pouvons considérer et approuver d\\'autres demandes de lien des types d\\'organisations suivants:
+We may consider and approve other link requests from the following types of organizations:
 
-* des sources d\\'information sur les consommateurs et / ou les entreprises connues;
-* dot.com sites communautaires;
-* les associations ou autres groupes représentant des organismes de bienfaisance;
-* distributeurs d\\'annuaires en ligne;
-* portails Internet;
-* cabinets comptables, juridiques et de conseil; et
-* établissements d\\'enseignement et associations professionnelles.
+* commonly-known consumer and/or business information sources;
+* dot.com community sites;
+* associations or other groups representing charities;
+* online directory distributors;
+* internet portals;
+* accounting, law and consulting firms; and
+* educational institutions and trade associations.
 
-Nous approuverons les demandes de lien de ces organisations si nous décidons que: (a) le lien ne nous ferait pas nuire à nous-mêmes ou à nos entreprises accréditées; (b) l\\'organisation n\\'a aucun dossier négatif avec nous; (c) l\\'avantage pour nous de la visibilité du lien hypertexte compense l\\'absence de Pipeline Marketing Inc; et (d) le lien se situe dans le contexte des informations générales sur les ressources.
+We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Pipeline Marketing Inc; and (d) the link is in the context of general resource information.
 
-Ces organisations peuvent créer un lien vers notre page d\\'accueil tant que le lien: (a) n\\'est en aucun cas trompeur; (b) n\\'implique pas faussement le parrainage, l\\'approbation ou l\\'approbation de la partie de liaison et de ses produits ou services; et (c) s\\'inscrit dans le contexte du site de la partie de liaison.
+These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
 
-Si vous êtes l\\'une des organisations énumérées au paragraphe 2 ci-dessus et que vous souhaitez créer un lien vers notre site Web, vous devez nous en informer en envoyant un e-mail à Pipeline Marketing Inc. Veuillez inclure votre nom, le nom de votre organisation, vos coordonnées ainsi que l\\'URL de votre site, une liste de toutes les URL à partir desquelles vous avez l\\'intention de créer un lien vers notre site Web, et une liste des URL sur notre site vers lesquelles vous souhaitez créer un lien. Attendez 2-3 semaines pour une réponse.
+If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Pipeline Marketing Inc. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
 
-Les organisations approuvées peuvent créer un lien hypertexte vers notre site Web comme suit:
+Approved organizations may hyperlink to our Website as follows:
 
-* En utilisant notre raison sociale; ou
-* En utilisant le localisateur de ressources uniforme lié à; ou
-* En utilisant toute autre description de notre site Web liée à qui a du sens dans le contexte et le format du contenu sur le site de la partie de liaison.
+* By use of our corporate name; or
+* By use of the uniform resource locator being linked to; or
+* By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.
 
-Aucune utilisation du logo de Pipeline Marketing Inc ou d\\'autres illustrations ne sera autorisée pour le lien en l\\'absence d\\'un accord de licence de marque.
+No use of Pipeline Marketing Inc's logo or other artwork will be allowed for linking absent a trademark license agreement.
 
 ### **iFrames**
 
-Sans autorisation préalable et autorisation écrite, vous ne pouvez pas créer de cadres autour de nos pages Web qui altèrent de quelque manière que ce soit la présentation visuelle ou l\\'apparence de notre site Web.
+Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.
 
-### **Responsabilité du contenu**
+### **Content Liability**
 
-Nous ne serons pas tenus responsables de tout contenu qui apparaît sur votre site Web. Vous acceptez de nous protéger et de nous défendre contre toutes les réclamations qui augmentent sur votre site Web. Aucun lien ne doit apparaître sur un site Web qui peut être interprété comme diffamatoire, obscène ou criminel, ou qui viole, viole ou préconise la violation ou toute autre violation des droits de tiers.
+We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
 
-### **Votre vie privée**
+### **Your Privacy**
 
-Veuillez lire la politique de confidentialité
+Please read Privacy Policy
 
-### **Réserve de droits**
+### **Reservation of Rights**
 
-Nous nous réservons le droit de vous demander de supprimer tous les liens ou tout lien particulier vers notre site Web. Vous acceptez de supprimer immédiatement tous les liens vers notre site Web sur demande. Nous nous réservons également le droit de modifier ces termes et conditions et sa politique de liens à tout moment. En vous connectant en continu à notre site Web, vous acceptez d\\'être lié et de suivre ces termes et conditions de liaison.
+We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
 
-### **Suppression de liens de notre site Web**
+### **Removal of links from our website**
 
-Si vous trouvez un lien sur notre site Web offensant pour quelque raison que ce soit, vous êtes libre de nous contacter et de nous informer à tout moment. Nous prendrons en considération les demandes de suppression de liens, mais nous ne sommes pas tenus de le faire ou de vous répondre directement.
+If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.
 
-Nous ne garantissons pas que les informations sur ce site sont correctes, nous ne garantissons pas leur exhaustivité ou leur exactitude; nous ne promettons pas non plus de veiller à ce que le site Web reste disponible ou à ce que le contenu du site Web soit mis à jour.
+We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.
 
-### **Avertissement**
+### **Disclaimer**
 
-Dans la mesure maximale permise par la loi applicable, nous excluons toutes les représentations, garanties et conditions relatives à notre site Web et à l\\'utilisation de ce site Web. Rien dans cette clause de non-responsabilité ne:
+To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:
 
-* limiter ou exclure notre ou votre responsabilité en cas de décès ou de blessure corporelle;
-* limiter ou exclure notre ou votre responsabilité pour fraude ou fausse déclaration frauduleuse;
-* limiter nos responsabilités ou vos responsabilités d\\'une manière non autorisée par la loi applicable; ou
-* exclure tout ou partie de nos responsabilités qui ne peuvent être exclues en vertu de la loi applicable.
+* limit or exclude our or your liability for death or personal injury;
+* limit or exclude our or your liability for fraud or fraudulent misrepresentation;
+* limit any of our or your liabilities in any way that is not permitted under applicable law; or
+* exclude any of our or your liabilities that may not be excluded under applicable law.
 
-Les limitations et interdictions de responsabilité définies dans cette section et ailleurs dans cette clause de non-responsabilité: (a) sont soumises au paragraphe précédent; et (b) régir toutes les responsabilités découlant de la clause de non-responsabilité, y compris les responsabilités découlant du contrat, en responsabilité délictuelle et pour manquement à une obligation légale.
+The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
 
-Tant que le site Web et les informations et services sur le site Web sont fournis gratuitement, nous ne serons pas responsables de toute perte ou dommage de quelque nature que ce soit.
+As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-### **Utilisateur inactif et politique de gravure de jeton**
+### **Inactive User And Token Burn Policy**
 
-Afin de préserver l\\'intégrité de la base de données et de réduire la maintenance des données, PipeFlare supprimera tous les fichiers et données associés aux utilisateurs inactifs. Les utilisateurs inactifs sont définis comme des utilisateurs qui ne se sont pas engagés de manière significative avec PipeFlare depuis plus de 365 jours. Un engagement significatif consiste à réclamer, jouer à des jeux, jalonner des jetons, acheter des NFT ou des abonnements, ou faire des références. Une fois qu\\'un utilisateur est considéré comme inactif, ses données seront supprimées et tout 1FLR accumulé sera envoyé à un portefeuille de gravure 1FLR. Une fois que les jetons Flare sont envoyés dans un portefeuille de gravure, ils sont effectivement retirés de la circulation.
+In order to preserve database integrity and reduce data maintenance, PipeFlare will delete all files and data associated with inactive users. Inactive users are defined as users who have no meaningfully engaged with PipeFlare in over 365 days. Meaningful engagement consists of claiming, playing games, staking tokens, purchasing NFTs or memberships, or making referrals. Once a user is deemed inactive, their data will be deleted an any accrued 1FLR will be sent to a 1FLR burn wallet. Once Flare Tokens are sent to a burn wallet, they effectively taken out of circulation.
 
-ATTENDRE!
+WAIT!
 
-Vous n\\'avez pas revendiqué de jetons gratuits de 1flr.
+YOU HAVEN'T CLAIMED ANY FREE 1FLR TOKENS.
 
 ![close-icon](https://statics.pipeflare.io/assets/icon/close-icon.svg)
 
 ![coin](https://statics.pipeflare.io/assets/icon/coin.png)
 
-Cliquez ci-dessous pour obtenir vos récompenses entièrement gratuites.
+Click below to get your completely free rewards.
 
-[Réclamer maintenant](https://pipeflare.io/dailyrewards)
+[CLAIM NOW](https://pipeflare.io/dailyrewards)
 
 ×
 
 Please verify your email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-Si vous n\\'avez pas reçu d\\'e-mail [Cliquez ici](https://pipeflare.io/auth/resend-activation-email?_t=1722437291) pour renvoyer l\\'e-mail d\\'activation.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1726005290) to resend activation email.
 
-D\\'accord
+OK
 
 ×
 
-Renvoyer l\\'e-mail d\\'activation
+Resent activation email
 
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
   
-L\\'e-mail d\\'activation a été renvoyé à votre e-mail  
+Activation email has been resent to your email  
   
-Veuillez vérifier votre boîte de réception pour vérifier votre e-mail  
-Si vous ne trouvez pas l\\'e-mail, vérifiez votre dossier Spam
+Please check your inbox to verify your email  
+If you can't find the email, check your Spam folder
 
-D\\'accord
+OK
 
 ![close-icon](https://statics.pipeflare.io/assets/icon/close-icon.svg)
 
@@ -330,28 +338,28 @@ _Max 2 per 30 days_
 
 ![image](https://statics.pipeflare.io/assets/pages/home/n_image_popup2.png) ![image](https://statics.pipeflare.io/assets/pages/home/v2_n_image_popup_mobile.png)
 
-Merci de vous être abonné!
+Thank You For Subscribing!
 --------------------------
 
 * * *
 
-Commencez dès aujourd\\'hui avec une crypto-monnaie gratuite
+Get started today with some free cryptocurrency
 
-[Réclamer ma ZEC gratuite](https://pipeflare.io/dailyrewards)
+[Claim My Free ZEC](https://pipeflare.io/dailyrewards)
 
 ×
 
 ![image](https://statics.pipeflare.io/assets/pages/home/n_image_popup2.png) ![image](https://statics.pipeflare.io/assets/pages/home/v2_n_image_popup_mobile.png)
 
-Bienvenue à
------------
+Welcome To
+----------
 
 ![logo](https://statics.pipeflare.io/assets/pages/home/PipeFlare-logo_on-light.svg)
 
-Découvrir Les 5 meilleurs NFT utilitaires  
-Vous devez posséder En téléchargeant notre rapport GRATUIT
+Discover The Top 5 Utility NFTs  
+You Need To Own By Downloading Our FREE Report
 
-Envoyez-moi mon rapport
+Send me my report
 
 Bonus Round
 
@@ -359,9 +367,9 @@ Bonus Round
 
 After using the PipeFlare Faucet for 6 consecutive days, you're eligible for a bonus spin that is worth up to $5 USD!
 
-Jouer
+Play
 
-Montrez à vos amis combien de crypto gratuite que vous avez faite. Partagez une capture d\\'écran de votre gamme de bonus!
+Show Your Friends How Much Free Crypto You've Made. Share A Screenshot Of Your Bonus Round!
 
 [![Facebook Bonus](https://statics.pipeflare.io/assets/images/socials/facebook.svg)](https://www.facebook.com/dialog/feed?app_id=197885368235165&link=https://pipeflare.io?bonus-amount=numberamount&redirect_uri=https://pipeflare.io) [![Twitter Bonus](https://statics.pipeflare.io/assets/images/socials/twitter.svg)](https://twitter.com/intent/tweet?&url=https://pipeflare.io?bonus-amount=numberamount) [![Linkedin Bonus](https://statics.pipeflare.io/assets/images/socials/linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://pipeflare.io?bonus-amount=numberamount&source=PipeFlare)
 
@@ -369,9 +377,9 @@ Bonus Round
 
 ×
 
-Après avoir utilisé le robinet PipeFlare pendant 6 jours consécutifs, vous avez droit à un tour bonus d\\'une valeur allant jusqu\\'à 5 $ USD!
+After using the PipeFlare Faucet for 6 consecutive days, you're eligible for a bonus spin that is worth up to $5 USD!
 
-Fermer
+Close
 
 ×
 
@@ -462,7 +470,7 @@ You’re almost there. Use gems to speed up your player progression
 
 ×
 
-Toutes nos félicitations
+Congratulations
 
 **Congratulations**, you’ve claimed your secret mystery gift!  
 We’ve added a [Mystery Egg](#.)  
@@ -474,7 +482,7 @@ Come back in 72 hours for an even more amazing mystery gift!
 
 ×
 
-Toutes nos félicitations
+Congratulations
 
 **Congratulations**, you’ve claimed your second secret mystery gift!  
 We’ve added a [Pyro's Mining Rush NFT](#.)  
@@ -498,7 +506,7 @@ Why Did You Join PipeFlare?
 
 ![Staking](https://statics.pipeflare.io/assets/images/modals/survey/staking.svg)
 
-Jalonnement
+Staking
 
 ![claiming](https://statics.pipeflare.io/assets/images/modals/survey/claiming.png)
 
@@ -575,7 +583,7 @@ Access All Faucets
 
 10x Leaderboard Payouts
 
-WEEK $6.99 MOIS $10 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
+WEEK $6.99 MONTH $10 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
 
 This is an auto renewable subscription. Payment will be charged to Google/iTunes Account at confirmation of purchase. Subscription automatically renews unless subscription is turned off at least 24 hours before the end of the current period. Subscription may be managed by the user and auto-renewal turned off by going to the user's Account Setting after purchase.
 
@@ -608,7 +616,7 @@ Access All Faucets
 
 12.5x Leaderboard Payouts
 
-WEEK $11.99 MOIS $25 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
+WEEK $11.99 MONTH $25 ![Mystery Egg](https://statics.pipeflare.io/assets/images/modals/vip/egg.png) +1 Mystery Egg
 
 This is an auto renewable subscription. Payment will be charged to Google/iTunes Account at confirmation of purchase. Subscription automatically renews unless subscription is turned off at least 24 hours before the end of the current period. Subscription may be managed by the user and auto-renewal turned off by going to the user's Account Setting after purchase.
 
@@ -1088,7 +1096,7 @@ x 2
 Limited Coin Offers Limited  
 Coin Offers
 
-Seulement
+Only
 
 100
 
@@ -1101,7 +1109,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 145000
+x 235000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1117,7 +1125,7 @@ x 5
 
 [17.99 $10.99](https://pipeflare.io/auth/login?redirect=https://pipeflare.io/terms)
 
-Seulement
+Only
 
 100
 
@@ -1130,7 +1138,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 240000
+x 380000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1153,7 +1161,7 @@ x 10
 Limited Coin Offers Limited  
 Coin Offers
 
-Seulement
+Only
 
 100
 
@@ -1166,7 +1174,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 145000
+x 235000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1182,7 +1190,7 @@ x 5
 
 17.99 $10.99
 
-Seulement
+Only
 
 100
 
@@ -1195,7 +1203,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 240000
+x 380000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1248,7 +1256,7 @@ discount
 
 ![Basic](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_1.png)
 
-2x Références de base
+2x Basic Referrals
 
 ![Platinum](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_2.png)
 
@@ -1263,7 +1271,7 @@ Games Referrals
 ![lottery epic](https://statics.pipeflare.io/assets/images/modals/referral-offer/2_4.png)
 
 1x LOTTERY  
-PACK **(Épique)**
+PACK **(Epic)**
 
 [$18.99 $15.99 (Limited Time Only)](https://pipeflare.io/auth/login?redirect=https://pipeflare.io/terms)
 
@@ -1286,7 +1294,7 @@ Your Mystery Bonus Reward Is....
 
 ×
 
-Toutes nos félicitations! Faucet claim
+Congratulations! Faucet claim
 
 You Just Claimed
 ----------------
@@ -1298,7 +1306,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 +5 ![award](https://statics.pipeflare.io/assets/images/modals/congrats/coin_win.png) Bonus Award
 
@@ -1308,7 +1316,7 @@ Awesome, thanks
 
 ×
 
-Toutes nos félicitations! Faucet claim
+Congratulations! Faucet claim
 
 You Just Claimed
 ----------------
@@ -1320,7 +1328,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 +5 ![award](https://statics.pipeflare.io/assets/images/modals/congrats/coin_win.png) Bonus Award
 
@@ -1339,7 +1347,7 @@ to reveal your claim
 You Just Got
 ------------
 
-12.939383 MATIC
+12.939383 POL
 
 You didn’t earn a bonus reward. Better luck next time!
 
@@ -1448,19 +1456,6 @@ Save
 
 ×
 
-Enter Our $200 Airdrop
-
-Earn Your Raffle ticket  
-to access $200 USDC airdrop!!
-
-![Pyro](https://statics.pipeflare.io/assets/images/modals/airdrops/raffle.png)
-
-[Get Start Here](https://blog.pipeflare.io/pipeflares-200-usdc-eesee-airdrop/)
-
-$200 USDC/month, divided equally among all raffle holders
-
-×
-
 Mystery Egg  
 Redemption
 
@@ -1481,7 +1476,7 @@ Now Hatching...
 
 ×
 
-Toutes nos félicitations!
+Congratulations!
 
 You Just Hatched A  
 Pyro NFT 1.25x Multiplier
@@ -1494,11 +1489,15 @@ Coming Soon!!
 
 ![Coming Soon!](https://statics.pipeflare.io/assets/images/modals/soon_coin.png)
 
-Rester informé
+×
 
-Rejoignez notre liste de diffusion pour rester au courant de nos dernières sorties de jeux, Gouttes NFT, et trucs et astuces pour naviguer dans PipeFlare
+Coming Soon!!
 
-S'inscrire
+Stay Informed
+
+Join our mailing list to stay in the loop with our newest game releases, NFT drops, and tips and tricks for navigating PipeFlare
+
+Sign Up
 
 JOIN OUR COMMUNITY
 
@@ -1516,21 +1515,21 @@ JOIN OUR COMMUNITY
 
 * [![Market Cap Logo](https://statics.pipeflare.io/assets/logo/marketcap.svg)](https://coinmarketcap.com/community/profile/FlareToken)
 
-[Évaluez-nous sur Trustpilot](https://www.trustpilot.com/review/pipeflare.io)
+[Review Us on Trustpilot](https://www.trustpilot.com/review/pipeflare.io)
 
 ABOUT
 
 * [Our Team](https://pipeflare.io/our-team)
-* [Papier blanc](https://bit.ly/PFpaper)
-* [Programme d\\'ambassadeur](https://pipeflare.io/ambassador-page)
-* [Termes et conditions](https://pipeflare.io/terms)
-* [Politique de confidentialité](https://pipeflare.io/privacy)
+* [Whitepaper](https://bit.ly/PFpaper)
+* [Ambassador Program](https://pipeflare.io/ambassador-page)
+* [Terms and Conditions](https://pipeflare.io/terms)
+* [Privacy Policy](https://pipeflare.io/privacy)
 
 RESOURCES
 
 * [Blog](https://blog.pipeflare.io/)
 * [FAQ](https://docs.pipeflare.io/)
-* [Service client](https://discord.gg/Eu6v76bqkj)
-* [Journal des transactions](https://pipeflare.io/transactions)
-* [Classement](https://pipeflare.io/game/leaderboard)
-* [Classement de référence](https://pipeflare.io/referral/leaderboard)
+* [Customer Support](https://discord.gg/Eu6v76bqkj)
+* [Transaction Log](https://pipeflare.io/transactions)
+* [Game Leaderboard](https://pipeflare.io/game/leaderboard)
+* [Referral Leaderboard](https://pipeflare.io/referral/leaderboard)
