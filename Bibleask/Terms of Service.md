@@ -1,16 +1,16 @@
 [Skip to content](#content "Skip to content")
 
-[![BibleAsk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2070'%3E%3C/svg%3E "BibleAsk")
-
-![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png "BibleAsk")](https://bibleask.org/ "BibleAsk")
+[![BibleAsk](https://bibleask.org/wp-content/uploads/2023/12/BibleAsk-Logo-White-350x70-1.png "BibleAsk")](https://bibleask.org/ "BibleAsk")
 
 Menu
 
 * [Home](https://bibleask.org/)
-* [Ask](https://bibleask.org/live/)
-* [Topics](https://bibleask.org/topics/)
+* [Ask](https://bibleask.org/ask/)
+    * [Ask on LIVE](https://bibleask.org/live/)
+    * [Ask by Email](https://bibleask.org/ask/)
+    * [Ask Alpha (AI)](https://bibleask.org/alpha/)
 * [Bible](https://bible.bibleask.org/)
-* [Apps](https://bibleask.org/apps/)
+* [Pray for the Nation](https://bibleask.org/pray/)
 * [Donate](https://donate.bibleask.org/)
     * [By Project](https://donate.bibleask.org/projects/)
     * [Shop](https://donate.bibleask.org/shop/)
@@ -29,11 +29,11 @@ Terms of Use
 
 * * *
 
-**Welcome to BibleAsk**
+**Welcome to [BibleAsk](https://bibleask.org/ "BibleAsk")**
 
-BibleAsk (“us”, “we”, or “our”) operates the [https://bibleask.org](https://bibleask.org/) website (the “Website”).
+[BibleAsk](https://bibleask.org/ "BibleAsk") (“us”, “we”, or “our”) operates the [https://bibleask.org](https://bibleask.org/) website (the “Website”).
 
-BibleAsk mailing address is:
+[BibleAsk](https://bibleask.org/ "BibleAsk") mailing address is:
 
 _25612 Barton Rd, #163 , Loma Linda  
 CA – 92354, US_
@@ -83,13 +83,13 @@ For more restrictions related to comments and/or questions, see the section on *
     2. Search engines;
     3. News organizations;
     4. Online directory distributors when they list us in the directory may link to our Web site in the same manner as they hyperlink to the Web sites of other listed businesses; and
-    5. Systemwide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.
+    5. Systemwide Accredited Businesses except soliciting non-profit organizations, [charity](https://bibleask.org/what-does-charity-mean-in-the-bible/ "charity") shopping malls, and [charity](https://bibleask.org/what-does-charity-mean-in-the-bible/ "charity") fundraising groups which may not hyperlink to our Web site.
 
 1. These organizations may link to our home page, to publications or to other Web site information so long as the link: (a) is not in any way misleading; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
 2. We may consider and approve in our sole discretion other link requests from the following types of organizations:
     1. commonly-known consumer and/or business information sources such as Chambers of Commerce, American Automobile Association, AARP and Consumers Union;
     2. dot.com community sites;
-    3. associations or other groups representing charities, including charity giving sites,
+    3. associations or other groups representing charities, including [charity](https://bibleask.org/what-does-charity-mean-in-the-bible/ "charity") giving sites,
     4. online directory distributors;
     5. internet portals;
     6. accounting, law and consulting firms whose primary clients are businesses; and
@@ -133,7 +133,7 @@ We shall have no responsibility or liability for any content appearing on your W
 
 To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). Nothing in this disclaimer will:
 
-1. limit or exclude our or your liability for death or personal injury resulting from negligence;
+1. limit or exclude our or your liability for [death](https://bibleask.org/how-does-the-bible-refer-to-death/ "death") or personal injury resulting from negligence;
 2. limit or exclude our or your liability for fraud or fraudulent misrepresentation;
 3. limit any of our or your liabilities in any way that is not permitted under applicable law; or
 4. exclude any of our or your liabilities that may not be excluded under applicable law.
@@ -178,6 +178,14 @@ Real Questions.
 Real Answers.  
 **Bible Based.**
 
+* [Facebook](https://facebook.com/bibleask/)
+* [X](https://x.com/bibleask/)
+* [Instagram](https://instagram.com/bibleask/)
+* [YouTube](https://facebook.com/bibleask/)
+* [Spotify](https://open.spotify.com/show/2IGMYLqSZymYybaMTYLJpo)
+* [Pinterest](https://pinterest.com/bibleask/)
+* [Reddit](https://www.reddit.com/r/BibleAsk/)
+
 Quick Links
 
 [About Us](https://bibleask.org/about/)
@@ -204,15 +212,10 @@ Download our apps
 
 Subscribe (Weekly Updates)
 
+ 
+
 \* indicates required
 
 Email Address \*
 
-* [Facebook](https://facebook.com/bibleask/)
-* [Instagram](https://instagram.com/bibleask/)
-* [YouTube](https://youtube.com/bibleask/)
-* [X](https://x.com/bibleask)
-
 © 2009-2024 BibleAsk.org
-
-[](# "Scroll back to top")
