@@ -20,7 +20,7 @@
     
     [Neuro Management](https://natus.com/neuro-management-team/)
     
-    [Sensory Management](https://natus.com/about-us/management-team/sensory-management-team/)
+    [Sensory Management](https://natus.com/sensory-management-team/)
     
     [Our Natus Pledge](https://natus.com/about-us/natus-pledge/)
     
@@ -140,6 +140,8 @@
     
     [Balance Assessment](https://natus.com/sensory/balance-assessment/)
     
+    [ICS® Dizcovery](https://natus.com/sensory/dizcovery/)
+    
     [ICS® Impulse](https://natus.com/sensory/ics-impulse/)
     
     [ICS® Aircal](https://natus.com/sensory/ics-aircal/)
@@ -197,7 +199,7 @@
 
 [Neuro Management](https://natus.com/neuro-management-team/)
 
-[Sensory Management](https://natus.com/about-us/management-team/sensory-management-team/)
+[Sensory Management](https://natus.com/sensory-management-team/)
 
 [Our Natus Pledge](https://natus.com/about-us/natus-pledge/)
 
@@ -312,6 +314,8 @@
 [Bio-logic® AuDX®](https://natus.com/sensory/audx/)
 
 [Balance Assessment](https://natus.com/sensory/balance-assessment/)
+
+[ICS® Dizcovery](https://natus.com/sensory/dizcovery/)
 
 [ICS® Impulse](https://natus.com/sensory/ics-impulse/)
 
@@ -530,7 +534,7 @@ Revised January 2023
     * [Careers](https://natus.com/careers/)
     * [Education](https://natus.com/education/)
 * [PRODUCTS & SERVICES](#)
-    * [Neuro Products](https://natus.com/neuro-products/)
+    * [Neuro Products – Advanced Neuro Solutions | Natus](https://natus.com/neuro-products/)
     * [Sensory Products](https://natus.com/sensory-products/)
     * [Service & Support](https://natus.com/support/)
 * [CONTACT US](#)
