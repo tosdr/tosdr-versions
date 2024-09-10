@@ -119,14 +119,6 @@ English
 
 © 2024 CrazyGames
 
-Controller detected
-
-Explore our controller compatible games
-
-[Explore games](https://www.crazygames.com/t/controller)
-
-* * *
-
 Privacy Policy
 ==============
 
@@ -151,7 +143,7 @@ KBO 0550.758.377.
 
 We recognize the trust you place in us and take our responsibility to protect your privacy seriously. This Privacy Policy (this “**Policy**”) provides important details about how we collect, process, disclose, retain, and protect your personal data. Please review it carefully to understand your rights and our obligations regarding your information.
 
-The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are under thirteen (13) years of age (or the applicable minimum age in your country), this Platform is not intended for you. We do not knowingly collect or solicit personal information from children under the age of thirteen (13) (or the applicable minimum age in your country) through our Platform. However, we have launched a website specifically for younger children below the applicable minimum age, [https://kids.crazygames.com/](https://kids.crazygames.com/) (“**Kids Site**”) and have a separate privacy policy for the Kids Site, available on [https://kids.crazygames.com/privacy-policy](https://kids.crazygames.com/privacy-policy). CrazyGames does not allow personalised advertising on its Kids Site.
+The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are under thirteen (13) years of age (or the applicable minimum age in your country), this Platform is not intended for you. We do not knowingly collect or solicit personal information from children under the age of thirteen (13) (or the applicable minimum age in your country) through our Platform. However, we have launched a website specifically for younger children below the applicable minimum age, [https://kids.crazygames.com](https://kids.crazygames.com/) (“**Kids Site**”) and have a separate privacy policy for the Kids Site, available on [https://kids.crazygames.com/privacy-policy](https://kids.crazygames.com/privacy-policy). CrazyGames does not allow personalised advertising on its Kids Site.
 
 For information about the terms upon which we do business, you should also read our [Terms of Service](https://www.crazygames.com/terms-and-conditions).
 
@@ -182,7 +174,9 @@ CrazyGames may collect the following Personal Data of you:
 | For marketing of CrazyGames (for example newsletters) | username and email address | The prior, express, free, specific and informed **consent** of you |
 | To enable advertising on our Platform | data gathered by the use cookies, web beacons or similar technologies such as IP address, user ID’s, browser type and operating system | The prior, express, free, specific and informed **consent** of you when you accept our Privacy and Cookie Policy, and confirm your ad preferences. This authorisation can be withdrawn by you at any time. For more information, please consult ‘Manage Your Ad Preferences’ and our Cookie Policy. |
 | To fulfil our obligations to game developers | e-mail, tax identification number, bank account identification, Paypal Account, preferred payment method | Necessary for the **performance of a contract** |
-| To enable in-game purchases | data related to the in-game purchase<br><br>CrazyGames does not collect any specific payment data when you make an in-game purchase. The payment is executed by a third party payment provider. We store and link your in-game purchases to your Account. | Necessary for the **performance of a contract** |
+| To enable in-game purchases | data related to the in-game purchase |     |
+
+CrazyGames does not collect any specific payment data when you make an in-game purchase. The payment is executed by a third party payment provider. We store and link your in-game purchases to your Account. | Necessary for the **performance of a contract** |
 
 **Registration of Account**. If you register an Account with us you give your explicit consent to collect a password, email address, user agent, and IP address. We also facilitate the login via third party providers. If you log-in to our Platform using social media (such as Facebook) or Google log-in, you are granting permission to the third party service to share your user details with us. This may include your name, email address, date of birth and location, which will then be used to create your Account. These third party services may use information about your visit to our Platform on their pages. If you browse these pages while still logged in to your Account with us, information they collect may be connected to your Account on their website. For more information on how these third party services use information, please review their privacy policies.
 
@@ -220,14 +214,7 @@ Yes. We may share your personal data with other companies. These companies help 
 
 **ID.** ID providers manage and distribute unique identifiers associated with users across various digital platforms. Unique identifiers are pieces of information assigned to individual users to track their activities and preferences across different websites and apps. These identifiers help advertisers and platforms understand user behaviour and deliver personalised ads. Due to the changing privacy-landscape, ID providers are adapting by finding ways to maintain personalised advertising capabilities while respecting user privacy. This might involve using anonymized or aggregated data, implementing stricter data protection measures (e.g., encryption), and providing users with more control over their data and ad preferences. Encryption scrambles for example your email address into a secret code that can only be deciphered with a decryption key. We work with among others the following ID providers:
 
-* [Unified ID2.0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0) - [for privacy policy click here](https://www.thetradedesk.com/general/privacy)
-* [ID5](https://www.id5.io/) - [for privacy policy click here](https://id5.io/platform-privacy-policy/): ID5 uses an encrypted email address and ID5 IDs. You can opt out of this use directly via [https://id5-sync.com/privacy/.](https://id5-sync.com/privacy/)
-* [Criteo](https://www.criteo.com/) - [for privacy policy click here](https://www.criteo.com/privacy/):Criteo uses a pseudonymized email address. Criteo and CrazyGames share responsibility as joint-controllers. You can opt-out of this use via the ‘Disable’ button on [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/).
-* [LiveRamp](https://liveramp.com/) - [for privacy policy click here](https://liveramp.com/privacy/): LiveRamp uses an encrypted email address. You can opt out of this use directly via [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/).
-* [Lotame](https://www.lotame.com/) - [for privacy policy click here](https://www.lotame.com/privacy/privacy-notices/services/): Lotame uses pseudonymous and declared IDs. You can opt out of this use directly via their Privacy Manager ([https://www.lotame.com/privacy/privacy-manager/](https://www.lotame.com/privacy/privacy-manager/)).
-* [LiveIntent](https://www.liveintent.com/) - [for privacy policy click here](https://www.liveintent.com/services-privacy-policy/)
-* [The Trade Desk](https://www.thetradedesk.com/us/our-platform/identity-solutions) - [for privacy policy click here](https://www.thetradedesk.com/us/privacy): Trade Desk used an encrypted EUID. For the creation of the encrypted EUID, Trade Desk and CrazyGames share responsibility as joint-controllers. You can opt-out of this use directly via [https://transparentadvertising.eu/](https://transparentadvertising.eu/), as well as find additional information about EUID.
-* [Amazon Publisher Services – Publisher Audiences](https://aps.amazon.com/) [for privacy policy click here](https://aps.amazon.com/aps/privacy-policy/%29): You can opt-out of this use via [https://youradchoices.com/.](https://youradchoices.com/)
+[Unified ID2.0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0) - [for privacy policy click here](https://www.thetradedesk.com/general/privacy) [ID5](https://www.id5.io/) - [for privacy policy click here](https://id5.io/platform-privacy-policy/): ID 5 uses an encrypted email address and ID5 IDs. You can opt out of this use directly via [https://id5-sync.com/ privacy/.](https://id5-sync.com/privacy/) [Criteo](https://www.criteo.com/) - [for privacy policy click here](https://www.criteo.com/privacy/):Crit eo uses a pseudonymized email address. Criteo and CrazyGames share responsibility as joint-controllers. You ca n opt-out of this use via the <E2><80><98>Disable<E2><80><99> button on [https://www.criteo.com/privacy](https://www.criteo.com/privacy). [LiveRamp](https://liveramp.com/) - [for privacy policy click here](https://liveramp.com/privacy/): LiveR amp uses an encrypted email address. You can opt out of this use directly via [https://liveramp.com/opt\_out](https://liveramp.com/opt_out). [Lotame](https://www.lotame.com/) - \[for privacy policy click here\]([https://www.lotame.com/privacy/privac](https://www.lotame.com/privacy/privac) y-notices/services/): Lotame uses pseudonymous and declared IDs. You can opt out of this use directly via thei r Privacy Manager ([https://www.lotame.com/privacy/privacy-manager](https://www.lotame.com/privacy/privacy-manager)). [LiveIntent](https://www.liveintent.com/) - \[for privacy policy click here\]([https://www.liveintent.com/se](https://www.liveintent.com/se) rvices-privacy-policy/) [The Trade Desk](https://www.thetradedesk.com/us/our-platform/identity-solutions%3E) - [for privacy policy c lick here](https://www.thetradedesk.com/us/privacy): Trade Desk used an encrypted EUID. For the creation of th e encrypted EUID, Trade Desk and CrazyGames share responsibility as joint-controllers. You can opt-out of this use directly via [https://transparentadvertising.eu](https://transparentadvertising.eu/), as well as find additional information about EUID. [Amazon Publisher Services <E2><80><93> Publisher Audiences](https://aps.amazon.com/) [for privacy policy c lick here](https://aps.amazon.com/aps/privacy-policy/%29): You can opt-out of this use via [https://youradchoi ces.com/.](https://youradchoices.com/)
 
 By accepting our Privacy Policy and accepting these ID-providers in the CMP, you accept the sharing of these identifiers with these providers for advertising purposes.
 
@@ -237,7 +224,7 @@ By accepting our Privacy Policy and accepting these ID-providers in the CMP, you
 
 **International Data Transfers**. CrazyGames may share your personal data outside the European Economic Area. In such a case, CrazyGames will always take appropriate and required measures to protect your data and privacy, including implementing the European Commission's Standard Contractual Clauses (also known as Model Clauses) or UK International Data Transfer Addendums where necessary to provide safeguards for your personal data.
 
-Should you need further details regarding how we transfer data internationally and the protective measures we employ, please reach out to us via email at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
+Should you need further details regarding how we transfer data internationally and the protective measures we employ, please reach out to us via email at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
 
 ### 6\. **HOW LONG DO WE KEEP YOUR PERSONAL DATA?**
 
@@ -270,7 +257,7 @@ You are and always will be the boss of your personal data. After all, it is your
 * **Object to Automated Individual Decision Making**: to let Crazy Games know that you do not want to be subject to a decision based solely on automated processing If you believe you believe that the automated decision-making process has a significant impact on your rights, interests, or legal status.
 * **Withdraw Consents**: in the situation where CrazyGames has used your consent as the foundation for processing your personal information, you have the right to retract that consent at any moment.
 
-You can exercise these rights by sending an email to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+You can exercise these rights by sending an email to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
 
 We will respond to all requests without undue delay. Should our response take more than one month due to the complexity or number of requests, we will inform you in a timely manner and keep you informed. In addition, we may ask you for more information to confirm your identity before we can respond to a request.
 
@@ -278,7 +265,7 @@ We will respond to all requests without undue delay. Should our response take mo
 
 When you first visit our Websites, you will be prompted to accept, reject or set advertising services according to your preference via our Consent Management Platform (“**CMP**”). You can access this CMP at any time in the menu of our Platform via the "Preferences"-button.
 
-In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
+In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
 
 If you would like to learn more about behavioural advertising or to opt-out of having this information used by companies that are part of the Network Advertising Initiative to deliver personalised ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt-out of receiving personalised ads from them at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
@@ -290,7 +277,7 @@ Please remember, if you opt-out of behaviorally targeted advertising you will co
 
 CrazyGames strives to provide a safe environment for children. The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are younger than thirteen (13) years of age or the applicable minimum age in your country, then please use the [Kids Site](https://kids.crazygames.com/). The Kids Site doesn’t have any chat system or user login whatsoever and personalised advertising is not enabled.
 
-When creating an Account via your Google or Facebook account, Google or Facebook has verified your age. When you’re younger than thirteen (13) years of age or the applicable minimum age in your country, the consent of your parents will be asked by Google. More information about Google’s policy [https://families.google.com/familylink/privacy/child-policy/](https://families.google.com/familylink/privacy/child-policy/). Facebook does not allow children younger than thirteen (13) years of age or the applicable minimum age in the relevant country to create a Facebook account under its current terms of service. If you create an Account using your email, CrazyGames will ask you to confirm that you are older than thirteen (13) years of age.
+When creating an Account via your Google or Facebook account, Google or Facebook has verified your age. When you’re younger than thirteen (13) years of age or the applicable minimum age in your country, the consent of your parents will be asked by Google. More information about Google’s policy [https://families.google.com/familylink/privacy/child-policy](https://families.google.com/familylink/privacy/child-policy). Facebook does not allow children younger than thirteen (13) years of age or the applicable minimum age in the relevant country to create a Facebook account under its current terms of service. If you create an Account using your email, CrazyGames will ask you to confirm that you are older than thirteen (13) years of age.
 
 ### 11\. **LINKS TO OTHER WEBSITES**
 
@@ -335,7 +322,7 @@ Depending on your state of residence, your rights may include:
 * Right to Correct: You may have the right to correct inaccurate personal information that we maintain about you.
 * Right to Non-Discrimination For The Exercise Of Your Privacy Rights: You have the right to be protected from discrimination for exercising your CCPA rights. We will not discriminate against you for exercising your rights under the CCPA.
 
-To exercise any of these rights, please contact us via email [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
+To exercise any of these rights, please contact us via email [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
 
 ### 14\. **CHANGES TO OUR PRIVACY POLICY**
 
@@ -343,7 +330,7 @@ From time to time, it may be necessary to amend this Privacy Policy. When we ann
 
 ### 15\. **MORE QUESTIONS ABOUT YOUR DATA**
 
-If you have any questions or concerns about this Privacy Policy or our handling of your data, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+If you have any questions or concerns about this Privacy Policy or our handling of your data, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
 
 We hope that you will first contact us. But If your question or request is not resolved by us, you can also always lodge a complaint with the Belgian data protection authority. This authority supervises and makes sure that Belgium companies follow the rules with regards to the processing of personal data. You can reach this authority at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or by post at the following address:
 
@@ -444,7 +431,7 @@ The Websites may therefore use third party cookies such as cookies from:
 
 When you first visit our Websites, you will be prompted to accept, reject or set our cookies according to your preference via our Consent Management Platform (“**CMP**”). You can access this CMP at any time in the top right corner of our Websites (next to the "Login" button) via the "Preferences" button and you can configure your ad preferences.
 
-In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
+In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
 
 If you would like to learn more about behavioural advertising or to opt-out of having this information used by companies that are part of the Network Advertising Initiative to deliver personalised ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt-out of receiving personalised ads from them at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
@@ -458,4 +445,4 @@ From time to time, it may be necessary to amend this Cookie Policy. When we anno
 
 ### 9\. **MORE QUESTIONS ABOUT COOKIES**
 
-If you have any questions or concerns about this Cookie Policy or our use of cookies, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+If you have any questions or concerns about this Cookie Policy or our use of cookies, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
