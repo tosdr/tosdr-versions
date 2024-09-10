@@ -143,7 +143,7 @@ Every breach notification email that we send contains an unsubscribe link in the
 
 _Using our opt-out feature_
 
-Superlative provides an opt-out feature for HIBP that, if used, removes an email address from public visibility. The opt-out feature provides you with 3 different ways to control how your personal data is stored and accessed:
+Superlative provides [an opt-out feature](https://haveibeenpwned.com/OptOut) for HIBP that, if used, removes an email address from public visibility. The opt-out feature provides you with 3 different ways to control how your personal data is stored and accessed:
 
 * Just removal from public searches: The public email address search no longer returns your address. Your address is still stored, you can still see breaches against it by verifying control with the notification service and anyone control the domain your address is on can continue to see breaches against it using the domain search feature.
 * Remove all current and future breaches: No existing breaches impacting your address nor any occurring in the future will be stored against your address. No searches of any kind will return a breach associated with your address. Your address is retained alongside instructions to never load future breaches against it.
