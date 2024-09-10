@@ -38,6 +38,10 @@
     * [日本語](https://ja.dolphin-emu.org/docs/privacy/?nocr=true)
     * [한국어](https://ko.dolphin-emu.org/docs/privacy/?nocr=true)
 
+Our mission is to preserve video games. If you are an EU citizen you can help us in our mission by signing the [Stop Killing Games](https://www.stopkillinggames.com/) EU initiative!
+
+[Sign Now](https://eci.ec.europa.eu/045/public/)
+
 Privacy Policy
 ==============
 
