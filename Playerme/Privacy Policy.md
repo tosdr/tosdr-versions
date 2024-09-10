@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+    [](https://player.me/space-marine-2-first-update-details-announced/)
     
-    ![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Warhammer 40,000: Space Marine 2: First Update Details Announced](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+    [](https://player.me/space-marine-2-first-update-details-announced/)
     
-    ![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Warhammer 40,000: Space Marine 2: First Update Details Announced](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,109 +141,109 @@ TRENDING
 *   Back
 * The Last of Us
 
-![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/wp-content/uploads/2024/07/Deadrop-Will-Follow-Its-Pre-planned-2024-Release-Window-Despite-Dr-DisRespect-Drama.jpg)
+![Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/wp-content/uploads/2024/09/Warhammer-40000——Space-Marine-2.png)
 
-[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
-July 31, 2024/
+September 10, 2024/
 
-Despite the recent controversy over Dr DisRespect and his departure from Midnight Society, the studio he co-founded with Robert Bowling…
+Saber Interactive, the developer of Warhammer 40K: Space Marine 2, and Focus Interactive, its publisher, have officially revealed the content…
 
-[Read More](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+[Read More](https://player.me/space-marine-2-first-update-details-announced/)
 
-![Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/wp-content/uploads/2024/07/Diablo-4-Season-5-Release-Date-and-Livestream-Announced.jpg)
+![Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/wp-content/uploads/2024/09/Apple-Its-Glowtime-Event-Guide.png)
 
-[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 10, 2024/
+
+Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
+
+[Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+![Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/wp-content/uploads/2024/09/Astro-Bot-Review-Sonys-Best-Game-in-Years.png)
+
+[Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/astro-bot-is-sonys-best-game-in-years/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+September 9, 2024/
+
+Astro Bot, initially perceived by many, including us, as a cute game for children, is a masterclass in game design…
+
+[Read More](https://player.me/astro-bot-is-sonys-best-game-in-years/)
+
+![The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/wp-content/uploads/2024/09/The-One-Who-Tried-to-Make-Peace-With-7-Year-Old-iPhone.png)
+
+[The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-July 31, 2024/
+September 9, 2024/
 
-Diablo 4 Season 5 is just around the corner as Blizzard has announced the release date of the fifth season…
+I get the euphoria around an Apple event. I, too, stayed up late into the night to watch the event…
 
-[Read More](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+[Read More](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
-![Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/wp-content/uploads/2024/07/Once-Human_How-to-Use-Photo-Mode-in-Game-or-via-Steam.png)
+![All Visions of Mana Bosses Location, Chapter, Weakness and Rewards](https://player.me/wp-content/uploads/2024/09/Visions-of-Mana.jpg)
 
-[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-July 30, 2024/
-
-Once Human, the open-world survival game developed by Starry Studio and published by NetEase Games has been a massive hit…
-
-[Read More](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
-
-![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
-
-[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+[All Visions of Mana Bosses Location, Chapter, Weakness and Rewards](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-July 30, 2024/
+September 6, 2024/
 
-SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
+After a long hiatus, Visions of Mana breathes new life into the series, marking its return with a dynamic real-time…
 
-[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+[Read More](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/)
 
-![Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/wp-content/uploads/2024/07/Replace-Argenti-EN-Voice-Actor-for-Unknown-Reason-1.png)
+![Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?](https://player.me/wp-content/uploads/2024/09/Is_Harry_Potter_Quidditch_Champions_Cross_Platform_and_Cross_Play.png)
 
-[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 29, 2024/
-
-In an unforeseen event, Honkai: Star Rail has secretly changed the EN voice actor for one of its five-star characters,…
-
-[Read More](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
-
-![Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/wp-content/uploads/2024/07/Alien-Hominid-PlayStation-4-and-PlayStation-5-HD-Ports-Release-Coming-Soon.png)
-
-[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+[Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-July 29, 2024/
+September 6, 2024/
 
-After two decades and more since its initial launch in 2002, Alien Hominid, the classic side-scrolling shoot ’em up video…
+Harry Potter: Quidditch Champions brings the beloved magical sport to life, allowing players to soar across the pitch on broomsticks…
 
-[Read More](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+[Read More](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/)
 
-![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
+![The 10 Most Iconic Black Anime Characters of All Time](https://player.me/wp-content/uploads/2024/09/Ranking-the-10-Most-Iconic-Black-Anime-Characters-of-All-Time-1.png)
 
-[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 26, 2024/
-
-Since China banned consoles in 2000, New Pokemon Snap has finally broken the 24-year trend. The game became the first…
-
-[Read More](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
-
-![OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/wp-content/uploads/2024/07/OpenAI-Reveal-SearchGPT-as-Direct-Challenge-to-Google-and-Perplexity.png)
-
-[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+[The 10 Most Iconic Black Anime Characters of All Time](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
-July 26, 2024/
+September 5, 2024/
 
-On Thursday, Open AI unveiled its much-anticipated search engine prototype, SearchGPT, which aims to give users “fast and timely answers…
+The world of anime is vast and diverse, but it’s hard to ignore the lack of racial diversity, especially black…
 
-[Read More](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+[Read More](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
+
+![Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025](https://player.me/wp-content/uploads/2024/09/Dragon_Ball_Project_Multi_A_New_Dragon_Ball_MOBA_Is_Launching_in.png)
+
+[Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 5, 2024/
+
+Dragon Ball Project: Multi, a new MOBA game from Bandai Namco based on the beloved Dragon Ball anime, is set…
+
+[Read More](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,135 +276,135 @@ GAMING
 *   Back
 * The Last of Us
 
-![Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/wp-content/uploads/2024/07/Deadrop-Will-Follow-Its-Pre-planned-2024-Release-Window-Despite-Dr-DisRespect-Drama.jpg)
+![Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/wp-content/uploads/2024/09/Warhammer-40000——Space-Marine-2.png)
 
-[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
-July 31, 2024/
+September 10, 2024/
 
-Despite the recent controversy over Dr DisRespect and his departure from Midnight Society, the studio he co-founded with Robert Bowling…
+Saber Interactive, the developer of Warhammer 40K: Space Marine 2, and Focus Interactive, its publisher, have officially revealed the content…
 
-[Read More](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+[Read More](https://player.me/space-marine-2-first-update-details-announced/)
 
-![Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/wp-content/uploads/2024/07/Diablo-4-Season-5-Release-Date-and-Livestream-Announced.jpg)
+![Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/wp-content/uploads/2024/09/Apple-Its-Glowtime-Event-Guide.png)
 
-[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 10, 2024/
+
+Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
+
+[Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+![Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/wp-content/uploads/2024/09/Astro-Bot-Review-Sonys-Best-Game-in-Years.png)
+
+[Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/astro-bot-is-sonys-best-game-in-years/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+September 9, 2024/
+
+Astro Bot, initially perceived by many, including us, as a cute game for children, is a masterclass in game design…
+
+[Read More](https://player.me/astro-bot-is-sonys-best-game-in-years/)
+
+![The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/wp-content/uploads/2024/09/The-One-Who-Tried-to-Make-Peace-With-7-Year-Old-iPhone.png)
+
+[The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-July 31, 2024/
+September 9, 2024/
 
-Diablo 4 Season 5 is just around the corner as Blizzard has announced the release date of the fifth season…
+I get the euphoria around an Apple event. I, too, stayed up late into the night to watch the event…
 
-[Read More](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+[Read More](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
-![Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/wp-content/uploads/2024/07/Once-Human_How-to-Use-Photo-Mode-in-Game-or-via-Steam.png)
+![All Visions of Mana Bosses Location, Chapter, Weakness and Rewards](https://player.me/wp-content/uploads/2024/09/Visions-of-Mana.jpg)
 
-[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-July 30, 2024/
-
-Once Human, the open-world survival game developed by Starry Studio and published by NetEase Games has been a massive hit…
-
-[Read More](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
-
-![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
-
-[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+[All Visions of Mana Bosses Location, Chapter, Weakness and Rewards](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-July 30, 2024/
+September 6, 2024/
 
-SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) is an annual conference and exhibition focusing on computer graphics,…
+After a long hiatus, Visions of Mana breathes new life into the series, marking its return with a dynamic real-time…
 
-[Read More](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+[Read More](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/)
 
-![Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/wp-content/uploads/2024/07/Replace-Argenti-EN-Voice-Actor-for-Unknown-Reason-1.png)
+![Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?](https://player.me/wp-content/uploads/2024/09/Is_Harry_Potter_Quidditch_Champions_Cross_Platform_and_Cross_Play.png)
 
-[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 29, 2024/
-
-In an unforeseen event, Honkai: Star Rail has secretly changed the EN voice actor for one of its five-star characters,…
-
-[Read More](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
-
-![Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/wp-content/uploads/2024/07/Alien-Hominid-PlayStation-4-and-PlayStation-5-HD-Ports-Release-Coming-Soon.png)
-
-[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+[Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-July 29, 2024/
+September 6, 2024/
 
-After two decades and more since its initial launch in 2002, Alien Hominid, the classic side-scrolling shoot ’em up video…
+Harry Potter: Quidditch Champions brings the beloved magical sport to life, allowing players to soar across the pitch on broomsticks…
 
-[Read More](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+[Read More](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/)
 
-![New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/wp-content/uploads/2024/07/New-Pokemon-Snap-Becomes-First-Pokemon-Game-Released-in-China-Since-2000.png)
+![The 10 Most Iconic Black Anime Characters of All Time](https://player.me/wp-content/uploads/2024/09/Ranking-the-10-Most-Iconic-Black-Anime-Characters-of-All-Time-1.png)
 
-[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 26, 2024/
-
-Since China banned consoles in 2000, New Pokemon Snap has finally broken the 24-year trend. The game became the first…
-
-[Read More](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
-
-![OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/wp-content/uploads/2024/07/OpenAI-Reveal-SearchGPT-as-Direct-Challenge-to-Google-and-Perplexity.png)
-
-[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+[The 10 Most Iconic Black Anime Characters of All Time](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
-July 26, 2024/
+September 5, 2024/
 
-On Thursday, Open AI unveiled its much-anticipated search engine prototype, SearchGPT, which aims to give users “fast and timely answers…
+The world of anime is vast and diverse, but it’s hard to ignore the lack of racial diversity, especially black…
 
-[Read More](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+[Read More](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
 
-![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
+![Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025](https://player.me/wp-content/uploads/2024/09/Dragon_Ball_Project_Multi_A_New_Dragon_Ball_MOBA_Is_Launching_in.png)
 
-[Ranking the 7 Best Isekai Anime of All Time](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
-
-
------------------------------------------------------------------------------------------------------------------
-
-July 25, 2024/
-
-Isekai anime was never in the spotlight in the past, as the subgenre of anime, manga, and light novels that…
-
-[Read More](https://player.me/ranking-the-7-best-isekai-anime-of-all-time/)
-
-![Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/wp-content/uploads/2024/07/Atlus-Exclusive-Metaphor_-ReFantazio-Fourth-Live-Stream-Set-for-July-29.png)
-
-[Atlus Exclusive Metaphor: ReFantazio Fourth Live Stream Set for July 29](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+[Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/)
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-July 25, 2024/
+September 5, 2024/
 
-Metaphor: ReFantazio, the widely anticipated JRPG from long-time veteran Persona developers Atlus, will have its fourth live stream, slated on…
+Dragon Ball Project: Multi, a new MOBA game from Bandai Namco based on the beloved Dragon Ball anime, is set…
 
-[Read More](https://player.me/metaphor-refantazio-fourth-live-stream-set-for-july-29/)
+[Read More](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/)
+
+![Fallout 5: Release Date and Everything We Know So Far](https://player.me/wp-content/uploads/2024/09/Fallout-5.png)
+
+[Fallout 5: Release Date and Everything We Know So Far](https://player.me/fallout-5-release-date-and-everything-we-know-so-far/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+September 4, 2024/
+
+As of now, Fallout 5 remains shrouded in mystery, with no official reveal in sight. However, it’s no secret that…
+
+[Read More](https://player.me/fallout-5-release-date-and-everything-we-know-so-far/)
+
+![The 7 Best Tech Stocks to Watch Out for in Q4 2024](https://player.me/wp-content/uploads/2024/09/The-7-Best-Tech-Stocks-to-Watch-Out-for-in-Q4-2024.png)
+
+[The 7 Best Tech Stocks to Watch Out for in Q4 2024](https://player.me/the-7-best-tech-stocks-to-watch-out-for-in-q4-2024/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+September 4, 2024/
+
+Tech stocks have long been one of the most dynamic and lucrative sectors in the stock market. With their potential…
+
+[Read More](https://player.me/the-7-best-tech-stocks-to-watch-out-for-in-q4-2024/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -417,6 +417,58 @@ ENTERTAINMENT
 * ENTERTAINMENT
 * SCIENCE-HEALTH
 * CRYPTO
+
+![The 10 Most Iconic Black Anime Characters of All Time](https://player.me/wp-content/uploads/2024/09/Ranking-the-10-Most-Iconic-Black-Anime-Characters-of-All-Time-1.png)
+
+[The 10 Most Iconic Black Anime Characters of All Time](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+September 5, 2024/
+
+The world of anime is vast and diverse, but it’s hard to ignore the lack of racial diversity, especially black…
+
+[Read More](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
+
+![Ranking the 8 Best Horror Anime of All Time](https://player.me/wp-content/uploads/2024/08/Ranking-the-8-Best-Horror-Anime-of-All-Time.png)
+
+[Ranking the 8 Best Horror Anime of All Time](https://player.me/ranking-the-8-best-horror-anime-of-all-time/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+August 20, 2024/
+
+After our Romance anime list, let’s take a darker turn today as we cover Horror anime, a genre of Japanese…
+
+[Read More](https://player.me/ranking-the-8-best-horror-anime-of-all-time/)
+
+![The 7 Most Underrated Romance Anime You Are Missing Out](https://player.me/wp-content/uploads/2024/08/The-7-Most-Underrated-Romance-Anime-You-Are-Missing-Out.png)
+
+[The 7 Most Underrated Romance Anime You Are Missing Out](https://player.me/the-7-most-underrated-romance-anime-you-are-missing-out/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+August 12, 2024/
+
+Romance anime is one of the most long-standing anime genres, as it often delves into the complexities of love, relationships,…
+
+[Read More](https://player.me/the-7-most-underrated-romance-anime-you-are-missing-out/)
+
+![Which of These 11 Super Saiyan Transformations Is the Most Captivating?](https://player.me/wp-content/uploads/2024/08/Which-of-These-11-Super-Saiyan-Transformations-Is-the-Most-Captivating-in-the-Dragon-Ball-Series.png)
+
+[Which of These 11 Super Saiyan Transformations Is the Most Captivating?](https://player.me/which-of-these-11-super-saiyan-transformations-is-cooler/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+August 1, 2024/
+
+Dragon Ball, the iconic series by Akira Toriyama (RIP), is the grandfather of modern animes as it has been and…
+
+[Read More](https://player.me/which-of-these-11-super-saiyan-transformations-is-cooler/)
 
 ![Ranking the 7 Best Isekai Anime of All Time](https://player.me/wp-content/uploads/2024/07/Ranking-the-10-Best-Isekai-Anime-of-All-Time.png)
 
@@ -495,58 +547,6 @@ March 15, 2024/
 Streaming platforms have completely changed the way we consume entertainment. With a plethora of options available, selecting the perfect streaming…
 
 [Read More](https://player.me/pick-the-perfect-streaming-platform-netflix-vs-disney/)
-
-![The Untold Story of Elon Musk’s Startup Ventures Before SpaceX and Tesla](https://player.me/wp-content/uploads/2024/03/The-Untold-Story-of-Elon-Musks-Startup-Ventures-Before-SpaceX-and-Tesla.jpg)
-
-[The Untold Story of Elon Musk’s Startup Ventures Before SpaceX and Tesla](https://player.me/elon-musks-startup-ventures-before-spacex-and-tesla/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 15, 2024/
-
-Elon Musk, the renowned entrepreneur and innovator, has left an indelible mark on the world with his groundbreaking ventures, including…
-
-[Read More](https://player.me/elon-musks-startup-ventures-before-spacex-and-tesla/)
-
-![Oscars 2024: Winners, Nominees and Everything Else You Need to Know](https://player.me/wp-content/uploads/2024/03/Oscars-2024-Winners-Nominees-and-Everything-Else-You-Need-to-Know.jpg)
-
-[Oscars 2024: Winners, Nominees and Everything Else You Need to Know](https://player.me/oscars-2024-winners-nominees-and-everything-else/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-March 11, 2024/
-
-March 10, 2024 brings in two big news for gaming and movie enthusiasts: Besides the announcement from Nintendo on a…
-
-[Read More](https://player.me/oscars-2024-winners-nominees-and-everything-else/)
-
-![Legendary Dragon Ball Creator Akira Toriyama Passes Away at Age 68](https://player.me/wp-content/uploads/2024/03/Copy-of-New-Player.me-3.png)
-
-[Legendary Dragon Ball Creator Akira Toriyama Passes Away at Age 68](https://player.me/dragon-ball-creator-akira-toriyama-passes-away-at-age-68/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 8, 2024/
-
-In the saddest news today, Akira Toriyama, the acclaimed creator of Dragon Ball and the artist behind Dragon Quest, Chrono…
-
-[Read More](https://player.me/dragon-ball-creator-akira-toriyama-passes-away-at-age-68/)
-
-![10 Best Anime Movies of All Time](https://player.me/wp-content/uploads/2024/01/10-Best-Anime-Movies-of-All-Time-1.jpg)
-
-[10 Best Anime Movies of All Time](https://player.me/10-best-anime-movies-of-all-time/)
-
-
--------------------------------------------------------------------------------------------
-
-January 10, 2024/
-
-In a world where animated shows have historically been considered mere cartoons or exclusively tailored for children, anime has emerged…
-
-[Read More](https://player.me/10-best-anime-movies-of-all-time/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,97 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/wp-content/uploads/2024/09/Apple-Its-Glowtime-Event-Guide.png)
+
+[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+September 10, 2024/
+
+Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world with the launch of the iPhone 16 lineup, a suite…
+
+[Read More](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
+
+![The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/wp-content/uploads/2024/09/The-One-Who-Tried-to-Make-Peace-With-7-Year-Old-iPhone.png)
+
+[The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+September 9, 2024/
+
+I get the euphoria around an Apple event. I, too, stayed up late into the night to watch the event…
+
+[Read More](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
+
+![The 7 Best Tech Stocks to Watch Out for in Q4 2024](https://player.me/wp-content/uploads/2024/09/The-7-Best-Tech-Stocks-to-Watch-Out-for-in-Q4-2024.png)
+
+[The 7 Best Tech Stocks to Watch Out for in Q4 2024](https://player.me/the-7-best-tech-stocks-to-watch-out-for-in-q4-2024/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+September 4, 2024/
+
+Tech stocks have long been one of the most dynamic and lucrative sectors in the stock market. With their potential…
+
+[Read More](https://player.me/the-7-best-tech-stocks-to-watch-out-for-in-q4-2024/)
+
+![Apple’s iPhone 16 It’s Glowtime Launch Event Set for September 9: What to Expect?](https://player.me/wp-content/uploads/2024/08/Apples-iPhone-16-Its-Glowtime-Launch-Event-Set-for-September-9.png)
+
+[Apple’s iPhone 16 It’s Glowtime Launch Event Set for September 9: What to Expect?](https://player.me/apples-its-glowtime-event-set-for-september-9/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+August 27, 2024/
+
+Apple enthusiasts, mark your calendars! Apple has officially announced the date for its highly anticipated ‘It’s Glowtime’ event, where the…
+
+[Read More](https://player.me/apples-its-glowtime-event-set-for-september-9/)
+
+![PlayStation 6 (PS6): Everything We Know So Far Before Its Eventual Release](https://player.me/wp-content/uploads/2024/08/PS6-Everything-We-Know-So-Far-Before-Its-Eventual-Release.png)
+
+[PlayStation 6 (PS6): Everything We Know So Far Before Its Eventual Release](https://player.me/everything-we-know-about-ps6-before-its-release/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+August 26, 2024/
+
+The gaming world may be in for some exciting news sooner than expected, as hints about the new PS6 console…
+
+[Read More](https://player.me/everything-we-know-about-ps6-before-its-release/)
+
+![Made by Google 2024 Complete Guide: Google Pixel 9, Pixel Buds Pro 2, Pixel Watch 3 and More](https://player.me/wp-content/uploads/2024/08/Made-by-Google-2024-Complete-Guide-1.png)
+
+[Made by Google 2024 Complete Guide: Google Pixel 9, Pixel Buds Pro 2, Pixel Watch 3 and More](https://player.me/made-by-google-2024-complete-guide/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+August 14, 2024/
+
+The Made by Google 2024 event, Google’s annual product launch and showcase, has just concluded as the tech giant announced…
+
+[Read More](https://player.me/made-by-google-2024-complete-guide/)
+
+![ChatGPT Watermark: OpenAI Debates on Releasing 99% Accuracy AI Content Detector ](https://player.me/wp-content/uploads/2024/08/ChatGPT-Watermark_-OpenAI-Debates-on-Releasing-99-Accuracy-AI-Content-Detector.png)
+
+[ChatGPT Watermark: OpenAI Debates on Releasing 99% Accuracy AI Content Detector](https://player.me/openai-debates-on-releasing-chatgpt-watermark/) 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+August 5, 2024/
+
+A year after OpenAI shut down its AI classifier, a tool the company claimed to determine whether another AI had…
+
+[Read More](https://player.me/openai-debates-on-releasing-chatgpt-watermark/)
+
 ![SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/wp-content/uploads/2024/07/SIGGRAPH-2024——-The-Intriguing-Conversation-Between-Mark-Zuckerberg-and-Jensen-Huang.png)
 
 [SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
@@ -718,97 +809,6 @@ At the second Samsung Galaxy Unpacked 2024 event in Paris, the Korean company la
 
 [Read More](https://player.me/samsung-galaxy-unpacked-2024-complete-breakdown/)
 
-![Thrive AI Health: The New AI Health Coach Funded by Arianna Huffington and Sam Altman](https://player.me/wp-content/uploads/2024/07/Thrive-AI-Health.png)
-
-[Thrive AI Health: The New AI Health Coach Funded by Arianna Huffington and Sam Altman](https://player.me/thrive-ai-health-the-new-ai-health-coach/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 9, 2024/
-
-On Monday, OpenAI’s Sam Altman and Thrive Global’s Arianna Huffington announced they are teaming up to find AI solutions for…
-
-[Read More](https://player.me/thrive-ai-health-the-new-ai-health-coach/)
-
-![Noplace Guide: Understanding the Twitter and Myspace Mashup That Hit No. 1 on the App Store](https://player.me/wp-content/uploads/2024/07/Noplace-Guide.png)
-
-[Noplace Guide: Understanding the Twitter and Myspace Mashup That Hit No. 1 on the App Store](https://player.me/understanding-noplace-the-twitter-and-myspace-mashup/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 4, 2024/
-
-Noplace, a recently launched Genz app with tidbits of Twitter and Myspace, has skyrocketed to first place on the App…
-
-[Read More](https://player.me/understanding-noplace-the-twitter-and-myspace-mashup/)
-
-![Figma Disables Its AI Make Designs Tool After Criticisms Reveal Similarities with Apple](https://player.me/wp-content/uploads/2024/07/Figma-Disables-Its-AI-Make-Design-Tool-After-Criticisms-Reveal-Similarities-with-Apple.png)
-
-[Figma Disables Its AI Make Designs Tool After Criticisms Reveal Similarities with Apple](https://player.me/figma-disables-its-ai-make-designs-tool/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-July 3, 2024/
-
-Figma, the collaborative design software company, has quickly pulled out its new Make Designs AI tool after numerous individuals cited…
-
-[Read More](https://player.me/figma-disables-its-ai-make-designs-tool/)
-
-![Affordable PC Accessories for 2024 and Beyond](https://player.me/wp-content/uploads/2024/07/Affordable-PC-Accessories-for-2024-and-Beyond.png)
-
-[Affordable PC Accessories for 2024 and Beyond](https://player.me/affordable-pc-accessories-for-2024-and-beyond/)
-
-
----------------------------------------------------------------------------------------------------------------------
-
-July 1, 2024/
-
-Windows is the most popular operating system globally due to its accessibility. Yes, it’s closed-source software, but the benefits of…
-
-[Read More](https://player.me/affordable-pc-accessories-for-2024-and-beyond/)
-
-![Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/wp-content/uploads/2024/03/Elon-Musks-SpaceX-Ventures-into-National-Security_-Empowering-Spy-Satellite-Network-for-US.jpg)
-
-[Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/elon-musks-spacex-ventures-into-national-security/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 18, 2024/
-
-Elon Musk‘s SpaceX has expanded its reach beyond commercial spaceflight, collaborating with national security with its Starshield initiative. Under a…
-
-[Read More](https://player.me/elon-musks-spacex-ventures-into-national-security/)
-
-![Apple in Development: M4 Chip in Next-Gen MacBook Pro](https://player.me/wp-content/uploads/2024/03/Apple-in-Development_M4-Chip-in-Next-Gen-MacBook-Pro.jpg)
-
-[Apple in Development: M4 Chip in Next-Gen MacBook Pro](https://player.me/apple-in-development-m4-chip-in-next-gen-macbook-pro/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-March 15, 2024/
-
-Computer devices are one of the innovations that fuel modern technology. In the consumer electronics market, Apple stands out as…
-
-[Read More](https://player.me/apple-in-development-m4-chip-in-next-gen-macbook-pro/)
-
-![Asus Zenfone 11 Ultra: Maximising Screen Space at an Affordable Cost](https://player.me/wp-content/uploads/2024/03/Asus-Zenfone-11-Ultra-Maximising-Screen-Space-at-an-Affordable-Cost.jpg)
-
-[Asus Zenfone 11 Ultra: Maximising Screen Space at an Affordable Cost](https://player.me/asus-zenfone-11-ultra-maximising-screen-space/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-March 15, 2024/
-
-After Samsung revealed their Samsung Galaxy A55 and A35 in this early week with improved security and better visuals, Asus continued the…
-
-[Read More](https://player.me/asus-zenfone-11-ultra-maximising-screen-space/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -817,58 +817,58 @@ After Samsung revealed their Samsung Galaxy A55 and A35 in this early week wit
 
 player.me
 
-[](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/ "Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama")
+[](https://player.me/space-marine-2-first-update-details-announced/ "Warhammer 40,000: Space Marine 2: First Update Details Announced")
 
-[Deadrop Will Follow Its Pre-planned 2024 Release Window Despite Dr DisRespect Drama](https://player.me/deadrop-will-follow-its-pre-planned-2024-release-window/)
+[Warhammer 40,000: Space Marine 2: First Update Details Announced](https://player.me/space-marine-2-first-update-details-announced/)
 
-July 31, 2024
+September 10, 2024
 
-[](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/ "Diablo 4 Season 5 Release Date and Livestream Announced")
+[](https://player.me/apple-iphone-16-its-glowtime-event-guide/ "Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched")
 
-[Diablo 4 Season 5 Release Date and Livestream Announced](https://player.me/diablo-4-season-5-release-date-and-livestream-announced/)
+[Apple It’s Glowtime Event Guide: iPhone 16, Watch Series 10, Apple Intelligence and Everything Else Launched](https://player.me/apple-iphone-16-its-glowtime-event-guide/)
 
-July 31, 2024
+September 10, 2024
 
-[](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/ "Once Human: How to Use Photo Mode in Game or via Steam?")
+[](https://player.me/astro-bot-is-sonys-best-game-in-years/ "Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender")
 
-[Once Human: How to Use Photo Mode in Game or via Steam?](https://player.me/how-to-use-photo-mode-in-once-human-or-via-steam/)
+[Astro Bot Review: Sony’s Best Game in Years and Possible 2024 GOTY Contender](https://player.me/astro-bot-is-sonys-best-game-in-years/)
 
-July 30, 2024
+September 9, 2024
 
-[](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/ "SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang")
+[](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/ "The Monk Who Tried to Make Peace with 7-Year-Old iPhone")
 
-[SIGGRAPH 2024: The Intriguing Panel Discussion Between Mark Zuckerberg and Jensen Huang](https://player.me/siggraph-2024-discussion-between-zuckerberg-and-huang/)
+[The Monk Who Tried to Make Peace with 7-Year-Old iPhone](https://player.me/the-monk-who-tried-to-make-peace-with-7-year-old-iphone/)
 
-July 30, 2024
+September 9, 2024
 
-[](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/ "Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason")
+[](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/ "All Visions of Mana Bosses Location, Chapter, Weakness and Rewards")
 
-[Honkai: Star Rail Has Suddenly Replace Argenti EN Voice Actor for Unknown Reason](https://player.me/honkai-star-rail-has-replace-argenti-en-voice-actor/)
+[All Visions of Mana Bosses Location, Chapter, Weakness and Rewards](https://player.me/visions-of-mana-boss-location-chapter-weakness-rewards/)
 
-July 29, 2024
+September 6, 2024
 
-[](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/ "Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon")
+[](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/ "Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?")
 
-[Alien Hominid PlayStation 4 and PlayStation 5 HD Ports Release Coming Soon](https://player.me/alien-hominid-playstation-4-and-playstation-5-hd-ports/)
+[Is Harry Potter: Quidditch Champions Cross-Platform and Cross-Play?](https://player.me/is-quidditch-champions-cross-platform-and-cross-play/)
 
-July 29, 2024
+September 6, 2024
 
-[](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/ "New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000")
+[](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/ "The 10 Most Iconic Black Anime Characters of All Time")
 
-[New Pokemon Snap Becomes First Pokemon Game Released in China Since 2000](https://player.me/new-pokemon-snap-becomes-first-pokemon-game-in-china/)
+[The 10 Most Iconic Black Anime Characters of All Time](https://player.me/the-10-most-iconic-black-anime-characters-of-all-time/)
 
-July 26, 2024
+September 5, 2024
 
-[](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/ "OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity")
+[](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/ "Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025")
 
-[OpenAI Reveal SearchGPT as Direct Challenge to Google and Perplexity](https://player.me/openai-reveal-searchgpt-as-direct-challenge-to-google/)
+[Dragon Ball Project: Multi, A New Dragon Ball MOBA, Is Launching in 2025](https://player.me/dragon-ball-project-multi-moba-is-launching-in-2025/)
 
-July 26, 2024
+September 5, 2024
 
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 547,083 times, 828 visit(s) today
+Visited 564,550 times, 184 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
