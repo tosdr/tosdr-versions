@@ -36,7 +36,7 @@ Menu
     * [Impact Reports](https://www.lifewire.org/category/impact-reports/)
     * [Together Against Domestic Violence Blog](https://www.lifewire.org/category/together-against-domestic-violence/)
     * [Volunteer](https://www.lifewire.org/get-involved/volunteer/)
-    * [Volunteer Training](https://www.lifewire.org/get-involved/volunteer/volunteer-training/)
+    * [Domestic Violence 101 Training](https://www.lifewire.org/get-involved/dv_101_training/)
         * [Volunteer Newsletters](https://www.lifewire.org/get-involved/volunteer/volunteer-newsletters/)
     * [Careers](https://www.lifewire.org/category/careers/)
 * [Capital Campaign](https://www.lifewire.org/campaign/)
