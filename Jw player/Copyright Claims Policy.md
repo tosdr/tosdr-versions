@@ -42,7 +42,9 @@
     
     [Publishers](https://www.jwplayer.com/publishers/)
     
-    [Sports](https://www.jwplayer.com/sports/)
+    [Sports Leagues](https://www.jwplayer.com/sports-leagues/)
+    
+    [Sports Networks](https://www.jwplayer.com/sports-networks/)
     
     [Public](https://www.jwplayer.com/public-broadcasters/)
     
@@ -55,6 +57,8 @@
     [Online Courses](https://www.jwplayer.com/online-courses/)
     
 * [Advertisers](https://www.jwplayer.com/advertisers/)
+    
+* [Services](https://www.jwplayer.com/professional-services-support/)
     
 * [About](https://www.jwplayer.com/about-us/)
     
@@ -73,6 +77,8 @@
     [Events](https://www.jwplayer.com/resources/#event)
     
     [Blog](https://www.jwplayer.com/resources/#blog)
+    
+    [Partners](https://www.jwplayer.com/partners/)
     
     [ABOUT US](https://www.jwplayer.com/about-us/)
     
@@ -98,24 +104,26 @@
     * [Studio DRM](https://www.jwplayer.com/studio-drm)
     * [JWP on Freely](https://jwplayer.com/jwp-and-freely/)
     * [Web Player](https://www.jwplayer.com/web-player)
-    * [OTT Apps](https://jwplayer.com/ott-video-apps/)
-    * [Mobile SDK](https://jwplayer.com/mobile-sdk/)
+    * [OTT & CTV Apps](https://jwplayer.com/ott-video-apps/)
+    * [Mobile & SDKs](https://jwplayer.com/mobile-sdk/)
     * [Recommendations](https://www.jwplayer.com/video-engagement/#recommendations)
     * [Article Matching](https://www.jwplayer.com/video-engagement/#article-matching)
     * [Analytics](https://www.jwplayer.com/video-engagement/#analytics)
     * [Subscriptions and Payment](https://jwplayer.com/subscriptions-and-payments/)
     * [Identity Management](https://www.jwplayer.com/subscriptions-and-payments/#identity-management)
-* Capabilities
-    * [Delivery](https://www.jwplayer.com/video-delivery/)
-    * [Playout](https://www.jwplayer.com/web-player/)
-    * [Engage](https://www.jwplayer.com/video-engagement/)
-    * [Monetization](https://www.jwplayer.com/video-monetization-2/)
+    * [Dynamic Strategy Rules](https://jwplayer.com/dynamic-strategy-rules/)
 * Solutions
-    * [Broadcasters](https://www.jwplayer.com/broadcasters)
-    * [Publishers](https://www.jwplayer.com/publishers)
-    * [Sports](https://www.jwplayer.com/sports)
-    * [Faith](https://www.jwplayer.com/faith)
-    * [Online Courses](https://www.jwplayer.com/online-courses)
+    * [Broadcasters](https://jwplayer.com/broadcasters/)
+    * [Publishers](https://jwplayer.com/publishers/)
+    * [Sports Leagues](https://jwplayer.com/sports-leagues/)
+    * [Sports Networks](https://jwplayer.com/sports-networks/)
+    * [Public Broadcasters](https://jwplayer.com/public-broadcasters/)
+    * [Faith](https://jwplayer.com/faith/)
+    * [News](https://jwplayer.com/news/)
+    * [Fitness](https://jwplayer.com/fitness/)
+    * [Online Courses](https://jwplayer.com/online-courses/)
+* [Advertisers](https://jwplayer.com/advertisers/)
+* [Professional Services & Support](https://jwplayer.com/professional-services-support/)
 * Results
     * [Case Studies](https://www.jwplayer.com/resource_types/case-study/)
     * [TEI Publishers](https://www.jwplayer.com/tei-of-jw-player-for-publishers/)
@@ -243,7 +251,7 @@ _Updated: June 30, 2020_
 * [DMCA](https://www.jwplayer.com/legal/dmca/)
 * [Terms of Service](https://www.jwplayer.com/legal/tos/)
 * [Ad Choices](https://www.jwplayer.com/legal/privacy/)
-* [Support](https://docs.jwplayer.com/platform/docs)
+* [Support](https://support.jwplayer.com/)
 
 * [](https://www.facebook.com/jwplayer)
 * [](https://twitter.com/jwplayer)
