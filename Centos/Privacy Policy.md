@@ -249,8 +249,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 
 [![](/assets/img/sponsors/dedicatedsolutions.png)](https://www.dedicatedsolutions.com/)
 
-[![](/assets/img/sponsors/dtsnet.png)](https://dts-net.com/portal/link.php?id=3)
-
 [![](/assets/img/sponsors/equinix.png)](https://metal.equinix.com/)
 
 [![](/assets/img/sponsors/eukhost.png)](http://www.eukhost.com/)
@@ -258,8 +256,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 [![](/assets/img/sponsors/fasthosts.png)](https://www.fasthosts.co.uk/)
 
 [![](/assets/img/sponsors/GameHost.png)](https://gamehost.io/)
-
-[![](/assets/img/sponsors/heficed.png)](http://www.heficed.com/)
 
 [![](/assets/img/sponsors/host-stage.png)](http://www.host-stage.net/)
 
@@ -275,17 +271,15 @@ CentOS would not be possible without the support of our sponsors. We would like 
 
 [![](/assets/img/sponsors/leaseweb.png)](http://www.leaseweb.com/)
 
-[![](/assets/img/sponsors/liquidweb.png)](http://www.liquidweb.com/)
-
 [![](/assets/img/sponsors/lyrahosting.png)](https://www.lyrahosting.com/)
 
 [![](/assets/img/sponsors/multacom-240x60.gif)](http://www.multacom.com/)
 
 [![](/assets/img/sponsors/NDCHost.png)](https://www.ndchost.com/)
 
-[![](/assets/img/sponsors/nexcess.png)](http://www.nexcess.net/)
-
 [![](/assets/img/sponsors/PNAP_Banner.gif)](http://www.securedservers.com/landing/linux-hosting/)
+
+[![](/assets/img/sponsors/server-net.png)](https://server.net/)
 
 [![](/assets/img/sponsors/serverel.png)](http://www.serverel.com/)
 
@@ -300,8 +294,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 [![](/assets/img/sponsors/shinjirubanner260x60.gif)](http://shinjiru.com/)
 
 [![](/assets/img/sponsors/stablepoint.png)](https://www.stablepoint.com/)
-
-[![](/assets/img/sponsors/steadfast.png)](http://steadfast.net/)
 
 [![](/assets/img/sponsors/tailoredservers.png)](http://www.tailoredservers.com/)
 
