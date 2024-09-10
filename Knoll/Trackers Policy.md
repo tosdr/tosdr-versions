@@ -14,7 +14,7 @@
 
 * [Dealer Portal](https://www.knoll.com/myaccount/signin)
 
-###### [Explore workplace products and resources for commercial, education, healthcare, and government spaces.](https://www.knoll.com/design-plan)
+###### [Shop online for living, dining, outdoor, and home office furniture.](https://www.knoll.com/shop)
 
 * [Living](https://www.knoll.com/shop/living-room)
     
@@ -206,7 +206,7 @@
     * [Storage](https://www.knoll.com/design-plan/products/by-category/storage)
     * [Architectural & Acoustic](https://www.knoll.com/design-plan/products/by-category/architectural-acoustic)
     
-    ##### [Accessories](https://www.knoll.com/design-plan/products/by-category/accessories)
+    ##### [Accessories](https://www.knoll.com/design-plan/products/accessories)
     
     * [Screens](https://www.knoll.com/design-plan/products/accessories/desk-screens-space-dividers)
     * [Monitor Arms & Technology Support](https://www.knoll.com/design-plan/products/accessories/monitor-support)
@@ -229,7 +229,6 @@
     * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
     * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
     * [Reff Profiles](https://www.knoll.com/design-plan/collections/workplace/reff-profiles)
-    * [Islands by Knoll](https://www.knoll.com/design-plan/product/islands-by-knoll?section=design)
     * [Pixel](https://www.knoll.com/design-plan/product/pixel-by-marc-krusin?section=design)
     * [Anchor Storage](https://www.knoll.com/design-plan/product/anchor?section=design)
     * [Generation by Knoll](https://www.knoll.com/design-plan/collections/workplace/generation-by-knoll)
@@ -301,7 +300,7 @@
     
     * [Knoll at MillerKnoll Design Days 2024](https://www.knoll.com/story/design-plan/knoll-at-millerknoll-design-days-2024)
     * [Knoll Works 2022](https://www.knoll.com/design-plan/knoll-works-2022)
-    * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
+    * [Planning With Knoll](https://www.knoll.com/design-plan/planning-with-knoll)
     
     ##### Spaces
     
@@ -518,7 +517,7 @@
             * [Interior Architecture](https://www.knoll.com/design-plan/products/by-category/workplace-collections-and-systems/interior-architecture)
             * [Storage](https://www.knoll.com/design-plan/products/by-category/storage)
             * [Architectural & Acoustic](https://www.knoll.com/design-plan/products/by-category/architectural-acoustic)
-        * [Accessories](https://www.knoll.com/design-plan/products/by-category/accessories)
+        * [Accessories](https://www.knoll.com/design-plan/products/accessories)
             * [###### Accessories](javascript:;)
             * [Screens](https://www.knoll.com/design-plan/products/accessories/desk-screens-space-dividers)
             * [Monitor Arms & Technology Support](https://www.knoll.com/design-plan/products/accessories/monitor-support)
@@ -538,7 +537,6 @@
             * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
             * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
             * [Reff Profiles](https://www.knoll.com/design-plan/collections/workplace/reff-profiles)
-            * [Islands by Knoll](https://www.knoll.com/design-plan/product/islands-by-knoll?section=design)
             * [Pixel](https://www.knoll.com/design-plan/product/pixel-by-marc-krusin?section=design)
             * [Anchor Storage](https://www.knoll.com/design-plan/product/anchor?section=design)
             * [Generation by Knoll](https://www.knoll.com/design-plan/collections/workplace/generation-by-knoll)
@@ -598,7 +596,7 @@
             * [###### Workplace Perspective](javascript:;)
             * [Knoll at MillerKnoll Design Days 2024](https://www.knoll.com/story/design-plan/knoll-at-millerknoll-design-days-2024)
             * [Knoll Works 2022](https://www.knoll.com/design-plan/knoll-works-2022)
-            * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
+            * [Planning With Knoll](https://www.knoll.com/design-plan/planning-with-knoll)
         * [Spaces](https://www.knoll.com/null)
             * [###### Spaces](javascript:;)
             * [Workstations](https://www.knoll.com/design-plan/planning/open-plan)
@@ -631,83 +629,71 @@
 
 [Locations](https://www.knoll.com/location) [Dealer Portal](https://www.knoll.com/myaccount/signin)
 
-Most Popular Products
----------------------
+Featured Products
+-----------------
 
-[![](/media/664/901/Thumb_saarinen-dining-table-42-default,3.png)
+[![](/media/23/447/Thumb_newsonthumb,3.jpg)
 
-Saarinen Dining Table
+Newson Task™](https://www.knoll.com/design-plan/product/newson-task-chair?section=design)
 
-42" Round](https://www.knoll.com/design-plan/product/saarinen-dining-table-42-round)
+[![](/media/789/403/Thumb_ollo-knit-back-thumb,3.png)
 
-[![](/media/26/315/Thumb_saarinen78ovalthumb_112022,3.jpg)
+Ollo® with Knit Back](https://www.knoll.com/design-plan/product/ollo-knit-back?section=design)
 
-Saarinen Dining Table
+[![](/media/228/589/Thumb_k-screen-extend-default,3.png)
 
-78" Oval](https://www.knoll.com/design-plan/product/saarinen-oval-dining-table-78)
+k.™ screen
 
-[![](/media/1007/570/Thumb_wombsetthumb_112022,3.jpg)
-
-Womb™ Chair with Ottoman](https://www.knoll.com/design-plan/product/womb-chair-with-ottoman)
-
-[![](/media/197/476/Thumb_barcelonathumb_112022,3.jpg)
-
-Barcelona® Chair](https://www.knoll.com/design-plan/product/barcelona-chair)
-
-[![](/media/432/603/Thumb_wassily_880,5.png)
-
-Wassily™ Chair](https://www.knoll.com/design-plan/product/wassily-chair)
-
-[![](/media/765/958/Thumb_cesca-armless-upholstered-thumb,3.png)
-
-Cesca™ Chair
-
-Armless with Upholstered Seat & Back](https://www.knoll.com/design-plan/product/cesca-chair-armless-upholstered)
-
-[![](/media/851/832/Thumb_bertoiasidethumb_112022,3.jpg)
-
-Bertoia Side Chair](https://www.knoll.com/design-plan/product/bertoia-side-chair)
-
-[![](/media/523/701/Thumb_RSD_Arm_SILO,5.png)
-
-1966 Dining Chair
-
-with Arms](https://www.knoll.com/design-plan/product/1966-dining-arm-chair)
+Extend](https://www.knoll.com/design-plan/product/k-screen-extend?section=design)
 
 [![](/media/618/152/Thumb_genthumb_112022,3.jpg)
 
-Generation by Knoll®](https://www.knoll.com/design-plan/product/generation-by-knoll)
+Generation by Knoll®](https://www.knoll.com/design-plan/product/generation-by-knoll?section=design)
 
 [![](/media/343/594/Thumb_regenthumb_112022,3.jpg)
 
-ReGeneration by Knoll®](https://www.knoll.com/design-plan/product/regeneration-by-knoll)
+ReGeneration by Knoll®](https://www.knoll.com/design-plan/product/regeneration-by-knoll?section=design)
 
-[![](/media/353/620/Thumb_hipso24x51thumb_112022,3.jpg)
+[![](/media/462/56/Thumb_antenna-workspaces-knoll-default,5.png)
 
-Hipso Adjustable Standing Desk
+Antenna Workspaces®](https://www.knoll.com/design-plan/product/antenna-workspaces?section=design)
 
-51" x 24"](https://www.knoll.com/design-plan/product/hipso-height-adjustable-desk-24x51)
+[![](/media/188/370/Thumb_dividends-horizon-knoll-default,5.png)
 
-[![](/media/607/236/Thumb_rockwell-easy-table-45x27,3.png)
+Dividends Horizon®](https://www.knoll.com/story/design-plan/dividends-horizon)
 
-Rockwell Unscripted® Easy Table
+[![](/media/997/539/Thumb_rockwell-unscripted-creative-wall-default,3.png)
 
-54" x 27"](https://www.knoll.com/design-plan/product/rockwell-unscripted-easy-table-54-27)
+Rockwell Unscripted® Creative Wall®](https://www.knoll.com/design-plan/product/rockwell-unscripted-creative-wall?section=design)
+
+[![](/media/330/676/Thumb_k-stand-880,3.png)
+
+k. stand™ Height‑Adjustable Tables](https://www.knoll.com/design-plan/product/k-stand-height-adjustable-tables?section=design)
+
+[![](/media/694/705/Thumb_k-bench-height-adjustable-benching-default,3.png)
+
+k.™ bench Height‑Adjustable Benching](https://www.knoll.com/design-plan/product/k-bench?section=design)
+
+[![](/media/779/985/Thumb_anchor-880,5.png)
+
+Anchor™](https://www.knoll.com/design-plan/product/anchor?section=design)
+
+[![](/media/327/131/Thumb_quoin-thumbnail,3.png)
+
+Quoin™](https://www.knoll.com/design-plan/product/quoin?section=design)
 
 Helpful Links
 -------------
 
-[Shu Magazine
+[3D Furniture Symbols
 
-Page](https://www.knoll.com/shu)[Original Design
+Page](https://www.knoll.com/design-plan/resources/furniture-symbols)[Knoll Showrooms
 
-Page](https://www.knoll.com/shop/original-design)[Residential Help
+Page](https://www.knoll.com/locations/knoll-showrooms)[How to Purchase
 
-Page](https://www.knoll.com/help/residential)[Product Care & Cleaning
+Page](https://www.knoll.com/design-plan/resources/purchasing-knoll-2)[Sales Teams
 
-Page](https://www.knoll.com/help/residential/instructions-and-care)[Warranty
-
-Page](https://www.knoll.com/help/warranty)
+Page](https://www.knoll.com/design-plan/teams)
 
 * [Knoll](https://www.knoll.com/null)
 * Cookie Notice
@@ -781,7 +767,7 @@ If you have any questions regarding our use of Cookies, please contact [\[email�
 * [Showrooms](https://www.knoll.com/locations/knoll-showrooms)
 * [Dealer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=3&governmentDealer=true)
 * [Sales Teams](https://www.knoll.com/design-plan/teams)
-* [Knoll Home Design Shops](https://www.knoll.com/shop/en_us/home-design-shops.html)
+* [Knoll Stores](https://www.knoll.com/shop/en_us/home-design-shops.html)
 * [Retailer Locations](https://www.knoll.com/location/?findBy=state&locationTypeIds=4)
 * [Knoll Textiles](https://www.maharam.com/knoll-textiles)
 * [Knoll International](http://www.knoll-int.com/)
