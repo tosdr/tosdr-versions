@@ -4,7 +4,7 @@
 
 Platform
 
-Platform
+[Platform](https://safebase.io/products)
 
 Learn about the SafeBase Trust Center Platform
 
@@ -448,3 +448,5 @@ Follow us
 ### Connect with our team
 
 Schedule 30 minutes with our team to learn more about the SafeBase platform and how it can benefit your organization.
+
+Are you a current customer in need of support? [Contact our CS team](mailto:support@safebase.io).
