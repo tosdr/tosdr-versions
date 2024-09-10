@@ -12,7 +12,6 @@ Toggle navigation [![IPQualityScore](/templates/frontend/img/logo.svg)](https://
 * [Email Verification](https://www.ipqualityscore.com/email-verification)
     * [Email Verifier](https://www.ipqualityscore.com/free-email-verifier)
     * [Disposable Email Detection](https://www.ipqualityscore.com/disposable-email-address-detection)
-    * [Spamtrap Email Test](https://www.ipqualityscore.com/spamtrap-email-address-test)
     * [Email Risk Scoring](https://www.ipqualityscore.com/fraud-prevention/email-risk-scoring)
     * [Email Fraud Prevention](https://www.ipqualityscore.com/email-reputation/email-address-fraud-prevention)
     * [Email Age Lookup](https://www.ipqualityscore.com/email-age-checker)
@@ -107,6 +106,8 @@ You may not use your account to breach security of another account or attempt to
 
 Furthermore, you agree to follow all applicable state and federal regulations including the CAN-SPAM Act of 2003 and the Telephone Consumer Protection Act of 1991. IPQS services may not be used to circumvent these regulations.
 
+IPQS is not a consumer-reporting agency ("Consumer Reporting Agency") as defined by the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq. ("FCRA") and any data provided by IPQS does not constitute "Consumer Reports", as that term is defined in the FCRA. Customer will not use the IPQS Services for any purposes enumerated in the FCRA in lieu of obtaining a Consumer Report.
+
 You agree that we may at any time, and at our sole discretion, terminate your membership, account, or other affiliation with our site without prior notice to you for knowingly violating any of the above provisions. In addition, you acknowledge that we will cooperate fully with investigations of violations of systems or network security at other sites, including cooperating with law enforcement authorities in investigating suspected criminal violations. If your account is terminated by IPQS, a pro-rated refund will be provided by IPQS for any unrendered, paid services.
 
 6\. Third Party Sites and Information
@@ -153,91 +154,103 @@ SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQU
 
 TO THE EXTENT THE FOREGOING LIMITATION OF LIABILITY IS PROHIBITED OR FAILS OF ITS ESSENTIAL PURPOSE, IPQS' SOLE OBLIGATION TO YOU FOR DAMAGES SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY CLIENT TO IPQUALITYSCORE FOR THE 12 MONTHS PRECEDING THE SUBJECT CLAIM IN CONNECTION WITH THE PROVISION OF IPQS PRODUCT UNDER THIS AGREEMENT AND CLIENT AGREES THAT THE FOREGOING SHALL CONSTITUTE ITS SOLE AND EXCLUSIVE REMEDY (ALL OTHER REMEDIES BEING WAIVED THEREBY).
 
-10\. Indemnification
+10\. Non-Disparagement
+
+Both parties agree not to disparage the other party, and the other party's officers, directors, employees, shareholders and agents, in any manner likely to be harmful to them or their business, business reputation or personal reputation; provided that both you and the Company shall respond accurately and fully to any question, inquiry or request for information when required by legal process.
+
+11\. Indemnification
 
 You agree to defend, indemnify, and hold IPQS, its officers, directors, employees, agents, licensors, suppliers, affiliates, and any third party information providers to this Site harmless from all liabilities, claims, and expenses, including attorney fees, that arise from your use or misuse of the Site. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will cooperate with us in asserting any available defenses.
 
-11\. Security and Password
+12\. Security and Password
 
 You are solely responsible for maintaining the confidentiality of your password and account and for any and all statements made and acts or omissions that occur through the use of your password and account. Therefore, you must take steps to ensure that others do not gain access to your password and account. Our personnel will never ask you for your password. Additionally, you may enable Two-Factor Authentication (2FA) on your account at any time.
 
 You may not transfer or share your account with anyone, and we reserve the right to immediately terminate your account if you do transfer or share your account. To ensure data security, IPQS shall maintain robust administrative, physical, and technical controls and safeguards for protection of your data, incident response policies and procedures, and an architecture designed for high-availability that is tailored to and appropriate for the nature and complexity of the services, and otherwise designed to (i) ensure the security and confidentiality of the services and client data, (ii) protect against any anticipated threats or hazards to the security or integrity of the services and client data, and (iii) protect against unauthorized access that could result in substantial harm or inconvenience to you, your affiliates, or your clients or agents. We shall comply with all applicable privacy laws and regulations to the extent that those laws apply to the services being performed hereunder.
 
-12\. Participation in Promotions
+13\. Participation in Promotions
 
 From time to time, this site may include advertisements offered by third parties. You may enter into correspondence with or participate in promotions of the advertisers showing their products on this site. Any such correspondence or promotions, including the delivery of and the payment for goods and services, and any other terms, conditions, warranties or representations associated with such correspondence or promotions, are solely between you and the advertiser. We assume no liability, obligation or responsibility for any part of any such correspondence or promotion.
 
-13\. Termination of Use
+14\. Termination of Use
 
 You agree that we may, in our sole discretion, terminate or suspend your access to all or part of the site with or without notice and for any reason, including, without limitation, breach of these Terms of Use. Any suspected fraudulent, abusive or illegal activity may be grounds for terminating your relationship and may be referred to appropriate law enforcement authorities.
 
 Upon termination or suspension, regardless of the reasons therefore, your right to use the services available on this site immediately ceases, and you acknowledge and agree that we may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or this site. We shall not be liable to you or any third party for any claims or damages arising out of any termination or suspension or any other actions taken by us in connection with such termination or suspension. Terminated accounts by IPQS will receive a pro-rated refund for any unrendered paid services.
 
-14\. API & Data Usage
+15\. API & Data Usage
 
-Usage of IPQualityScore's APIs and data is granted given that the user does not engage in the following activities:
+Usage of IPQualityScore's APIs and data is granted given that the User (or its affiliates, contractors, employees and/or agents) does not engage in the following activities:
 
-* Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
-* Interfere with, abuse, or disrupt the APIs or the servers or networks providing the APIs.
-* Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties without written approval.
-* Use the APIs to replicate or compete with core products or services offered by IPQualityScore without written approval.
-* Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
+* Reverse engineer or attempt to extract the source code from any IPQS API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
+* Interfere with, abuse, or disrupt the IPQS APIs or the servers or networks providing the APIs.
+* Sublicense an IPQS API for use by a third party without prior written consent. Consequently, you will not create an API service that functions substantially the same as the IPQS APIs and offer it for use by third parties without written approval.
+* Use the IPQS APIs to replicate or compete with core products or services offered by IPQualityScore without written approval.
+* Use the IPQS APIs for any activities where the use or failure of the IPQS APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, emergency services, or life support systems).
 
   
 
-15\. Free Account Limitations
+16\. Free Account Limitations
 
 Users may not create multiple accounts with the purpose of accessing duplicate monthly free credits. Abusing the site's monthly free credit allowance may result in suspension of accounts and service. Please contact support if your team requires multiple accounts.
 
-16\. Premium Plans & Queries
+17\. Premium Plans & Queries
 
-Each lookup through our tools and services will consume a query credit from the user's account balance, with the exception of retrieving historical account data. Eligible user accounts have access to free monthly credits to test our services before making a purchase. IPQS has a right to deny free credits for any reason including suspected duplicate accounts or abusive users. Query packs and premium plan purchases are final as we allocate server resources based on the current volume of paid plans. Each premium account plan has tiered limits for viewing historic data from past lookups through the user dashboard. While the limits are very generous and most accounts do not exceed these limits, please inform us if you are interested in preserving historic data for a lengthier time period.
+Each lookup of the IPQS Services will consume a query credit from the user's account balance, with the exception of retrieving historical account data. Eligible user accounts have access to free monthly credits to test IPQS Services before making a purchase. IPQS has a right to deny free credits for any reason, including suspected duplicate accounts or abusive users. Query packs and premium plan purchases are final as we allocate server resources based on the current volume of paid plans. Each premium account plan has tiered limits for viewing historic data from past lookups through the user dashboard. While the limits are very generous and most accounts do not exceed these limits, please inform us if you are interested in preserving historic data for a lengthier time period.
 
-17\. Affiliate Program & Referrals
+18\. Affiliate Program & Referrals
 
-New users that sign up through an existing user's unique referral URL, known as "Referrals", will generate 25% commission up to $500 per sale for an account's first recurring purchase. Both the referral and referring users' account must be in good standing to qualify for earnings through the IPQS affiliate program. Duplicate or related accounts are not eligible to receive referral earnings. Referral earnings will be paid on a NET 60 payment schedule.
+IPQS makes an affiliate program available for all active users of IPQS. New users that sign up through an existing user's unique referral URL, known as "Referrals", will be tracked against the referring user's account. Both the referral and referring users' account must be in good standing to qualify for earnings through the IPQS affiliate program. Referral earnings shall be defined in the referral program section of the IPQS dashboard. Duplicate or related accounts are not eligible to receive referral earnings. Referral earnings will be paid on a NET 60 payment schedule. IPQS has the right to deny any affiliate earnings for any reason.
 
-18\. Data Sharing & Data Processing
+19\. Data Sharing & Data Processing
 
 Clients using our service may provide IPQualityScore with transactional or user information, which may include IP addresses, names, email addresses, billing details, phone numbers, and similar user data. This information is processed through our services to detect behavioral intent and analyze the risk profile of transactions and users. This data is used to identify patterns of fraud within our system and improve your IPQS account's personal machine learning algorithms.
 
 With the exception of the IPQS opt-in fraudulent data sharing program (Fraud Fusion™), IPQualityScore does **NOT** sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained with industry security standards.
 
-19\. Fraud Fusion™ — Opt-In Fraudulent Data Sharing
+20\. Fraud Fusion™ — Opt-In Fraudulent Data Sharing
 
 Client agrees that IPQS may use fraudulent data, voluntarily shared through the "Fraud Fusion™" opt-in reporting program, with other clients that consume IPQS data. This data may also be used to improve machine learning algorithms for other IPQS clients. All reported data and its origins shared with IPQS shall be kept anonymous to prevent identification by third parties (including other IPQS clients). Sharing data through the Fraud Fusion™ program is not required and is not enabled by default for new accounts. Submitting data through this program requires using a [special reporting API endpoint](https://www.ipqualityscore.com/documentation/fraud-reporting/overview). Client may request deletion of data stored by IPQS at any time. Sharing data through this program is not required.
 
-20\. Governing Law
+21\. Governing Law
 
 This site (excluding any linked sites) is controlled by us from our offices within the State of Florida, United States of America. It can be accessed from all 50 states, as well as from other countries around the world. As each of these places has laws that may differ from those of Florida, by accessing this site both of us agree that the statutes and laws of the State of Florida, without regard to the conflicts of laws principles thereof and the United Nations Convention on the International Sales of Goods, will apply to all matters relating to the use of this site and the purchase of products and services available through this site. Each of us agrees and hereby submits to the exclusive personal jurisdiction and venue any court of competent jurisdiction within the State of Florida with respect to such matters.
 
-21\. Entire Agreement
+22\. Entire Agreement
 
 These terms and conditions constitute the entire agreement and understanding between us concerning the subject matter of this agreement and supersedes all prior agreements and understandings of the parties with respect to that subject matter. These Terms of Use may not be altered, supplemented, or amended by the use of any other document(s). Any attempt to alter, supplement or amend this document or to enter an order for products or services which are subject to additional or altered terms and conditions shall be null and void, unless otherwise agreed to in a written agreement signed by you and us. To the extent that anything in or associated with this site is in conflict or inconsistent with these Terms of Use, these Terms of Use shall take precedence.
 
-22\. Class Action Waiver
+23\. Class Action Waiver
 
 IPQS and Client each agree that both parties waive the right to a trial by jury and may bring claims against the other only in an individual capacity and not in a class action or representative proceeding. You acknowledge and agree that these Terms specifically prohibit you from commencing any legal proceedings as a representative of others or joining in any arbitration proceedings brought by any other person.
 
-23\. Severability
+24\. Severability
 
 Should any provision of this Agreement be held void, invalid or inoperative, such decision shall not affect any other provision hereof, and the remainder of this Agreement shall be effective as though such void, invalid or inoperative provision had not been contained herein.
 
-24\. Failure To Enforce
+25\. Survival
+
+The following Sections shall survive the expiration or termination of this Agreement: 7 (Intellectual Property Information), 8 (Disclaimer of Warranties), 9 (Limitation of Liability), 10 (Non-Disparagement), 11 (Indemnification), 14 (Termination of Use), 15 (API & Data Usage), 21 (Governing Law), 22 (Entire Agreement), 23 (Class Action Waiver).
+
+26\. Failure To Enforce
 
 The failure of IPQualityScore to enforce any provision of these terms and conditions shall not constitute or be construed as a waiver of such provision or of the right to enforce it at a later time.
 
-25\. Anti-Bribery
+27\. Anti-Bribery
 
 (1) Each Party hereby warrants that it shall neither, directly or indirectly, pay any commission, remuneration or kickbacks secretively outside the books to the other party or any third party’s employees or officers, or provide any gifts or hospitality, nor reach any arrangement for any the above issues with the other party or any third party’s employees or officers, except for the inexpensive advertising gifts given according to commercial practices.
 
 (2) Either party breaching the provision of this Article shall be regarded as material breach. The non-breaching Party has the right to terminate this Agreement by written notice to the breaching party, and reserves the right to take further legal measures. The breaching party shall be responsible for all the losses encountered by the non-breaching party therefrom.
 
-26\. Signature
+28\. Reseller Governance
+
+If Customer purchases any IPQS Services through a Reseller, this Agreement will govern Customer’s use of such Services, but not the payment obligations. In such case, Customer’s payment obligations for such services will be as agreed directly with the Reseller and not IPQS. Customer warrants that it will timely pay to Reseller all amounts related to this Agreement. Customer expressly waives and agrees not to exercise any right it may have to downgrade a subscription or terminate a purchase of the IPQS Services for its convenience, or otherwise cancel an order under any applicable Reseller, except as expressly permitted by this Agreement. Any disputes related to the payment obligations shall be handled directly between Customer and the Reseller.
+
+29\. Signature
 
 Your electronic signature shall be deemed to be an original and shall be evidence of your agreement to accept all terms of this Agreement.
 
-27\. Miscellaneous
+30\. Miscellaneous
 
 In any action to enforce these Terms of Use, the prevailing party will be entitled to costs and attorney fees. Any cause of action brought by you against us or our Affiliates must be instituted with one year after the cause of action arises or be deemed forever waived and barred.
 
@@ -249,7 +262,7 @@ If any part of these Terms of Use is held invalid or unenforceable, that portion
 
 Any failure by us to enforce or exercise any provision of these Terms of Use or related rights shall not constitute a waiver of that right or provision.
 
-28\. Notices & Contact Information
+31\. Notices & Contact Information
 
 Except as explicitly noted on this site, the services available through this site are offered by IPQualityScore LLC. You may email us directly at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom), send a message through our [**contact form**](https://www.ipqualityscore.com/contact-us), call us at (800) 713-2618, or speak to a specialist through our live chat.  
 
