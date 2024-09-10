@@ -1,196 +1,13 @@
-[Skip to content](#content)
+[Skip to content](#main-content)
 
-Shopping cart
+* [Facebook](https://www.facebook.com/muscatlivestock "Muscat Livestock on Facebook")
+* [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
+* [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
+* [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-You are 40.000 OMR away from free shipping
+The biggest [BEEF SALE](https://mls.om/collections/crazy-beef-sale "CRAZY BEEF SALE") of the year is here!
 
-You are eligible for free shipping!
-
-**Delivered fresh within 2 hours across Muscat. 100% free replacements and returns.**
-
-You may also like
-
-[Left](#) [Right](#)
-
-[![](//mls.om/cdn/shop/files/Nomu-famous-five-2_1024x1024.jpg?v=1702108070)](https://mls.om/products/nomu-gift-box-rubs-famous-five-gift-box)[Left](#) [Right](#)
-
-[NOMU Gift Box - Rubs Famous Five Gift Box
-
-13.750 OMR](https://mls.om/products/nomu-gift-box-rubs-famous-five-gift-box)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-BBQ-rub-1_1024x1024.jpg?v=1701936835)](https://mls.om/products/nomu-bbq-rub-55g)[Left](#) [Right](#)
-
-[Nomu BBQ Rub 55g
-
-2.310 OMR](https://mls.om/products/nomu-bbq-rub-55g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-cajun-rub-1_1024x1024.jpg?v=1701941262)](https://mls.om/products/nomu-cajun-rub-65g)[Left](#) [Right](#)
-
-[Nomu Cajun Rub 65g
-
-2.310 OMR](https://mls.om/products/nomu-cajun-rub-65g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-coffee-rub-1_1024x1024.jpg?v=1701953533)](https://mls.om/products/nomu-coffee-rub-70g)[Left](#) [Right](#)
-
-[Nomu Coffee Rub 70g
-
-2.310 OMR](https://mls.om/products/nomu-coffee-rub-70g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Six-for-starters-2_1024x1024.jpg?v=1702111417)](https://mls.om/products/nomu-gift-box-six-for-starters)[Left](#) [Right](#)
-
-[NOMU Gift Box - Six for Starters
-
-11.220 OMR](https://mls.om/products/nomu-gift-box-six-for-starters)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Lamb-Rub-1_1024x1024.jpg?v=1701952731)](https://mls.om/products/nomu-lamb-rub-50g)[Left](#) [Right](#)
-
-[Nomu Lamb Rub 50g
-
-2.310 OMR](https://mls.om/products/nomu-lamb-rub-50g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Black-Pepper-1_1024x1024.jpg?v=1701958837)](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)[Left](#) [Right](#)
-
-[NOMU Mini Black Pepper Grinder 35g
-
-1.870 OMR](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Atlantic-Sea-Salt-1_1024x1024.jpg?v=1702041461)](https://mls.om/products/nomu-mini-sea-salt-grinder-60g)[Left](#) [Right](#)
-
-[NOMU Mini Sea Salt Grinder 60g
-
-1.650 OMR](https://mls.om/products/nomu-mini-sea-salt-grinder-60g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-one-for-all-1_1024x1024.jpg?v=1702041973)](https://mls.om/products/nomu-one-for-all-grinder-45g)[Left](#) [Right](#)
-
-[NOMU One for All Grinder 45g
-
-2.310 OMR](https://mls.om/products/nomu-one-for-all-grinder-45g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/nomu-one-for-all-rub-1_1024x1024.jpg?v=1701952238)](https://mls.om/products/nomu-one-for-all-rub-60g)[Left](#) [Right](#)
-
-[Nomu One for All Rub 60g
-
-2.310 OMR](https://mls.om/products/nomu-one-for-all-rub-60g)
-
-5.0 / 5.0
-
-1 review
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-preri-peri-rub-1_1024x1024.jpg?v=1701941733)](https://mls.om/products/nomu-peri-peri-rub-65g)[Left](#) [Right](#)
-
-[Nomu Peri-Peri Rub 65g
-
-2.310 OMR](https://mls.om/products/nomu-peri-peri-rub-65g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Poultry-rub-1_1024x1024.jpg?v=1701941947)](https://mls.om/products/nomu-poultry-rub-55g)[Left](#) [Right](#)
-
-[Nomu Poultry Rub 55g
-
-2.310 OMR](https://mls.om/products/nomu-poultry-rub-55g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Rainbow-Pepper-1_1024x1024.jpg?v=1702044023)](https://mls.om/products/nomu-rainbow-pepper-grinder-60g)[Left](#) [Right](#)
-
-[NOMU Rainbow Pepper Grinder 60g
-
-3.300 OMR](https://mls.om/products/nomu-rainbow-pepper-grinder-60g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[![](//mls.om/cdn/shop/files/Nomu-Spicy-Chilli-1_1024x1024.jpg?v=1702043607)](https://mls.om/products/copy-of-nomu-steak-and-bbq-grinder-55g)[Left](#) [Right](#)
-
-[NOMU Spicy Chilli Grinder 55g
-
-2.310 OMR](https://mls.om/products/copy-of-nomu-steak-and-bbq-grinder-55g)
-
-5.0 / 5.0
-
-3 reviews
-
-  Add to Cart
-
-[Check out](https://mls.om/checkout)
-
-Your cart is empty
-
-[Start shopping](https://mls.om/collections/all)
-
-* [](https://twitter.com/mls_om)
-* [Facebook](https://www.facebook.com/muscatlivestock)
-* [Instagram](https://www.instagram.com/mls.om/)
-* [Pinterest](https://www.pinterest.com/Muscat_Livestock/)
-* [](https://www.linkedin.com/company/muscatlivestock/)
+Use code **SEP10** to get 10% off until 31/08
 
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
@@ -198,38 +15,42 @@ Your cart is empty
 
 **Delivered fresh within 2 hours across Muscat and Sohar all days of the week.**
 
-LeftRight
+ Language
 
-Language
+English
 
-EnglishDown
+* English
+* العربية
 
-* [English](#)
-* [العربية](#)
-
-[Search](https://mls.om/search)
-
-* [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [Beef](https://mls.om/pages/beef-collection)
-* [Lamb](https://mls.om/pages/lamb-sub-collection)
-* [Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
-* [Poultry & Camel](https://mls.om/pages/fresh-poultry)
-* [Seasoned & Sauce](https://mls.om/collections/mls-sauce)
-* [Boxes](https://mls.om/collections/box-collection)
-* [About MLS](https://mls.om/pages/our-story)
-* [Explore Meat](https://mls.om/)
-* [MLS Subscriptions](https://mls.om/pages/build-your-box)
-
-[![Muscat Livestock](//mls.om/cdn/shop/files/MLS-Logo_Red_Black_600x200_364a823d-04a1-4f16-9c56-bb53071d2b36_140x.png?v=1656571497)](https://mls.om/ "Muscat Livestock")
-
-[Account](https://mls.om/account/login) [Search](https://mls.om/search) [Cart](https://mls.om/cart) [Cart 0](javascript:void(0);)
+ [![Muscat Livestock](//mls.om/cdn/shop/files/MLS-Logo_Red_Black_af3de979-2aa8-482c-b4d1-cb66623c2baa.png?v=1723466919&width=120)](https://mls.om/)
 
  
 
+Search Search Reset 
+
+[Log in](https://mls.om/account/login) [Cart](https://mls.om/cart)
+
+Menu
+
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [Beef](https://mls.om/pages/beef-collection) [Toggle menu](#)
+* [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
-    * [Beef By Cuts](https://mls.om/pages/beef-collection) [Toggle menu](#)
+    * Back
+        
+    * [MLS Subscriptions](https://mls.om/pages/build-your-box)
+    * [MLS Subscriptions](https://mls.om/pages/build-your-box)
+        
+        * [Build Your Own Box](https://mls.om/pages/build-your-box)
+        * [Choose Readymade Box](https://mls.om/pages/subscribe-meat-box)
+        * [Go to MLS Subscriptions](https://mls.om/pages/build-your-box)
+        
+    
+* [Shop Beef](https://mls.om/pages/beef-collection)
+    
+    * Back
+        
+    * [Shop Beef](https://mls.om/pages/beef-collection)
+    * [Shop Beef By Cuts](https://mls.om/pages/beef-collection)
         
         * [Beef & All Sausages](https://mls.om/collections/all-sausages)
         * [Beef Boneless Cubes](https://mls.om/collections/beef-boneless-cubes)
@@ -243,8 +64,9 @@ EnglishDown
         * [Beef Burgers](https://mls.om/collections/beef-burgers-patties)
         * [Beef Mishkak](https://mls.om/collections/beef-mishkak-fondue)
         * [Beef Thin Slices](https://mls.om/collections/beef-thin-slices)
+        * [Go to Shop Beef By Cuts](https://mls.om/pages/beef-collection)
         
-    * [Beef By Origin](https://mls.om/pages/beef-collection) [Toggle menu](#)
+    * [Shop Beef By Origin](https://mls.om/pages/beef-collection)
         
         * [South African Grass-fed Beef](https://mls.om/collections/south-african-grass-fed-beef)
         * [Australian Grass-fed Beef](https://mls.om/collections/australian-grass-fed-beef)
@@ -258,13 +80,15 @@ EnglishDown
         * [Japanese Wagyu Beef](https://mls.om/collections/japanese-wagyu-beef)
         * [Local Salalah Beef](https://mls.om/collections/local-salalah-beef)
         * [Seasoned Beef](https://mls.om/collections/seasoned-beef)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
+        * [Go to Shop Beef By Origin](https://mls.om/pages/beef-collection)
         
     
-* [Lamb](https://mls.om/pages/lamb-sub-collection) [Toggle menu](#)
+* [Shop Lamb](https://mls.om/pages/lamb-sub-collection)
     
-    * [Lamb By Cut](https://mls.om/pages/lamb-sub-collection) [Toggle menu](#)
+    * Back
+        
+    * [Shop Lamb](https://mls.om/pages/lamb-sub-collection)
+    * [Shop Lamb By Cut](https://mls.om/pages/lamb-sub-collection)
         
         * [Lamb & All Sausages](https://mls.om/collections/all-sausages)
         * [Lamb Boneless Cubes](https://mls.om/collections/lamb-boneless-cubes)
@@ -278,8 +102,9 @@ EnglishDown
         * [Lamb Whole Carcass](https://mls.om/collections/whole-carcass)
         * [Lamb Leg](https://mls.om/products/aus-bone-in-lamb-leg)
         * [Lamb Shoulder](https://mls.om/products/aus-bone-in-lamb-shoulder)
+        * [Go to Shop Lamb By Cut](https://mls.om/pages/lamb-sub-collection)
         
-    * [Lamb By Origin](https://mls.om/pages/lamb-sub-collection) [Toggle menu](#)
+    * [Shop Lamb By Origin](https://mls.om/pages/lamb-sub-collection)
         
         * [Freshly Slaughtered Iranian Lamb](https://mls.om/collections/freshly-slaughtered-iranian-lamb)
         * [Freshly Slaughtered Australian Lamb](https://mls.om/collections/freshly-slaughtered-australian-lamb)
@@ -290,22 +115,28 @@ EnglishDown
         * [Pakistani Mutton](https://mls.om/collections/fresh-pakistani-mutton)
         * [Indian Mutton](https://mls.om/collections/fresh-indian-mutton-goat)
         * [Seasoned Lamb](https://mls.om/collections/seasoned-lamb)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
+        * [Go to Shop Lamb By Origin](https://mls.om/pages/lamb-sub-collection)
         
     
-* [Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef) [Toggle menu](#)
+* [Shop Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
     
-    * [Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef) [Toggle menu](#)
+    * Back
+        
+    * [Shop Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
+    * [Shop Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
         
         * [Australian Wagyu Beef MB 4/5](https://mls.om/collections/australian-wagyu-beef-mb-4-5)
         * [Australian Wagyu Beef MB 6/7](https://mls.om/collections/australian-wagyu-beef-mb-6-7)
         * [Australian Wagyu Beef MB 8/9](https://mls.om/collections/australian-wagyu-beef-mb-8-9)
+        * [Go to Shop Australian Wagyu Beef](https://mls.om/collections/australian-wagyu-beef)
         
     
-* [Poultry & Camel](https://mls.om/pages/fresh-poultry) [Toggle menu](#)
+* [Shop Poultry & Camel](https://mls.om/pages/fresh-poultry)
     
-    * [Poultry](https://mls.om/pages/fresh-poultry) [Toggle menu](#)
+    * Back
+        
+    * [Shop Poultry & Camel](https://mls.om/pages/fresh-poultry)
+    * [Shop Poultry](https://mls.om/pages/fresh-poultry)
         
         * [All Sausages](https://mls.om/collections/all-sausages)
         * [Local Chicken Whole 1000gm](https://mls.om/products/local-chicken-whole-1000gm)
@@ -319,46 +150,58 @@ EnglishDown
         * [Local Super Size Chicken Breast 500gm](https://mls.om/products/super-size-chicken-breast-500gm)
         * [Local ﻿Chicken Breast Box 5kg](https://mls.om/products/local-chicken-breast-box-5kg)
         * [Local Chicken Breast Tandoori 500gm](https://mls.om/products/local-chicken-breast-tandoori-500gm)
+        * [Go to Shop Poultry](https://mls.om/pages/fresh-poultry)
         
     * [Shop Camel](https://mls.om/collections/fresh-omani-camel)
-    
-* [Seasoned & Sauce](https://mls.om/collections/mls-sauce) [Toggle menu](#)
-    
-    * [Seasoned](https://mls.om/collections/seasoned) [Toggle menu](#)
         
-        * [Seasoned Kofta - 500gm](https://mls.om/products/fresh-seasoned-kofta-500gm)
-        * [Seasoned Meatball - 500gm](https://mls.om/products/fresh-seasoned-meatball-500gm)
-        * [Seasoned Mishkak - 500gm](https://mls.om/products/fresh-seasoned-mishkak-500gm)
-        * [Seasoned Sausages - 500gm](https://mls.om/products/fresh-seasoned-sausages-500gm)
-        * [Seasoned Burger-125gm x 4](https://mls.om/products/marinated-burger-patties-500gm-4x125gm)
-        * [Seasoned Meat Kebab - 500gm](https://mls.om/products/fresh-seasoned-meat-kebab-500gm)
+        * [Fresh Omani Camel](https://mls.om/collections/fresh-omani-camel)
+        * [Go to Shop Camel](https://mls.om/collections/fresh-omani-camel)
+        
+    
+* [Shop Seasoned & Sauce](https://mls.om/collections/mls-sauce)
+    
+    * Back
+        
+    * [Shop Seasoned & Sauce](https://mls.om/collections/mls-sauce)
+    * [Shop Seasoned](https://mls.om/collections/seasoned)
+        
+        * [Seasoned Kofta - 500gm](https://mls.om/products/local-seasoned-nz-grass-fed-beef-kofta-500gm)
+        * [Seasoned Meatball - 500gm](https://mls.om/products/local-seasoned-nz-grass-fed-beef-meatball-500gm)
+        * [Seasoned Mishkak - 500gm](https://mls.om/products/local-seasoned-nz-grass-fed-beef-mishkak-500gm)
+        * [Seasoned Sausages - 500gm](https://mls.om/products/local-seasoned-nz-grass-fed-beef-sausages-500gm)
+        * [Seasoned Burger-125gm x 4](https://mls.om/products/local-seasoned-nz-grass-fed-beef-burger-125gm-x-4)
+        * [Seasoned Meat Kebab - 500gm](https://mls.om/products/local-seasoned-nz-grass-fed-beef-kebab-500gm)
         * [Seasoned NZ Beef Mishkak- Local Style](https://mls.om/products/seasoned-nz-beef-mishkak)
         * [Seasoned AUS Lamb Mishkak- Local Style](https://mls.om/products/seasoned-aus-lamb-mishkak)
-        * [Seasoned Pepper Burger - 125gmx2](https://mls.om/products/local-seasoned-pepper-burger-125gmx2)
+        * [Seasoned Pepper Burger - 125gmx2](https://mls.om/products/local-seasoned-nz-grass-fed-beef-pepper-burger-125gmx2)
         * [Seasoned Omani Chicken Mishkak- Local Style](https://mls.om/products/seasoned-om-chicken-mishkak-local-style)
         * [Seasoned NZ Lamb Ribs Standard Chops - 1 kg](https://mls.om/products/seasoned-lamb-chops-1-kg)
         * [Seasoned Mix NZ beef and AUS Lamb Mishkak- Local Style](https://mls.om/products/seasoned-mix-beef-lamb-mishkak)
+        * [Go to Shop Seasoned](https://mls.om/collections/seasoned)
         
-    * [Sauce](https://mls.om/collections/mls-sauce) [Toggle menu](#)
+    * [Shop Sauce](https://mls.om/collections/mls-sauce)
         
         * [MLS Sauce Bundle](https://mls.om/products/mls-sauce-bundle)
         * [MLS BBQ Sauce](https://mls.om/products/mls-bbq-sauce)
         * [MLS Spicy Sauce](https://mls.om/products/mls-spicy-sauce)
         * [MLS Sohar Sauce](https://mls.om/products/mls-sohar-sauce)
         * [MLS Creamy Dip Sauce](https://mls.om/products/mls-creamy-dip-sauce)
+        * [Go to Shop Sauce](https://mls.om/collections/mls-sauce)
         
-    * [Nomu Rubs & Grinders](https://mls.om/pages/nomu) [Toggle menu](#)
+    * [Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
         
         * [Nomu Rubs](https://mls.om/collections/nomu-rubs)
         * [Nomu Grinders](https://mls.om/collections/nomu-grinders)
         * [Nomu Gift Boxes](https://mls.om/collections/nomu-gift-box)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
+        * [Go to Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
         
     
-* [Boxes](https://mls.om/collections/box-collection) [Toggle menu](#)
+* [Shop Value Boxes](https://mls.om/collections/box-collection)
     
-    * [All Meat Boxes](https://mls.om/collections/box-collection) [Toggle menu](#)
+    * Back
+        
+    * [Shop Value Boxes](https://mls.om/collections/box-collection)
+    * [Shop All Meat Boxes](https://mls.om/collections/box-collection)
         
         * [NZ Lamb Chops Box 5kg](https://mls.om/products/nz-lamb-chops-box-5kg)
         * [Indian Mutton Bone-in Cubes Box 5kg](https://mls.om/products/indian-mutton-box-5kg)
@@ -377,8 +220,9 @@ EnglishDown
         * [Camel Mishkak Box 5kg](https://mls.om/products/camel-mishkak-box-5kg)
         * [Local Somali Beef Boneless Cubes Box 5kg](https://mls.om/products/local-somali-beef-boneless-cubes-box-5kg)
         * [Local ﻿Chicken Breast Box 5kg](https://mls.om/products/local-chicken-breast-box-5kg)
+        * [Go to Shop All Meat Boxes](https://mls.om/collections/box-collection)
         
-    * [Festive Boxes](https://mls.om/collections/box-collection) [Toggle menu](#)
+    * [Shop Festive Boxes](https://mls.om/collections/box-collection)
         
         * [Prime Box](https://mls.om/products/mls-prime-box-10kg)
         * [Signature Box](https://mls.om/products/mls-signature-box-12kg)
@@ -386,69 +230,86 @@ EnglishDown
         * [AUS Beef Mishkak and Burger Box 3kg](https://mls.om/products/mls-eid-barbeque-box-4kg)
         * [Seasoned Chicken Mishkak and Burger Box 2kg](https://mls.om/products/seasoned-chicken-mishkak-and-burger-box-2kg)
         * [Seasoned Beef Kebabs, Meat Balls and Burger Box 2kg](https://mls.om/products/seasoned-beef-kebabs-meat-balls-and-burger-box-2kg)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
+        * [Go to Shop Festive Boxes](https://mls.om/collections/box-collection)
         
     
-* [About MLS](https://mls.om/pages/our-story) [Toggle menu](#)
+* [Explore Meat](https://mls.om/)
     
-    * [About Us](https://mls.om/pages/our-story) [Toggle menu](#)
+    * Back
+        
+    * [Explore Meat](https://mls.om/)
+    * [Shop Beef](https://mls.om/pages/beef-collection)
+        
+        * [Explore Entire MLS Beef Collection](https://mls.om/pages/beef-collection)
+        * [Shop South African Grass Fed Beef](https://mls.om/pages/south-african-grass-fed-beef)
+        * [Shop New Zealand Grass Fed Beef](https://mls.om/pages/nz-grass-fed-beef)
+        * [Shop Australian Grass-fed Beef](https://mls.om/pages/australian-grass-fed-beef)
+        * [Shop Australian Wagyu Beef](https://mls.om/pages/australian-waygu-beef)
+        * [Shop Australian Angus Beef](https://mls.om/pages/aus-angus-beef)
+        * [Shop US Angus Beef](https://mls.om/pages/us-angus-beef)
+        * [Shop Dry-Aged Beef](https://mls.om/pages/dry-aged)
+        * [Shop MLS Brisket](https://mls.om/pages/brisket)
+        * [Go to Shop Beef](https://mls.om/pages/beef-collection)
+        
+    * [Shop Lamb & Mutton](https://mls.om/pages/lamb-sub-collection)
+        
+        * [Explore Entire MLS Lamb Collection](https://mls.om/pages/lamb-sub-collection)
+        * [Shop Australian Lamb](https://mls.om/pages/australian-lamb)
+        * [Shop Whole Carcass](https://mls.om/pages/whole-carcass)
+        * [Shop MLS Mishkak](https://mls.om/pages/mls-mishkak)
+        * [Go to Shop Lamb & Mutton](https://mls.om/pages/lamb-sub-collection)
+        
+    * [Shop Poultry](https://mls.om/pages/fresh-poultry)
+        
+        * [Shop Fresh Poultry](https://mls.om/pages/fresh-poultry)
+        * [Go to Shop Poultry](https://mls.om/pages/fresh-poultry)
+        
+    * [Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
+        
+        * [Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
+        * [Go to Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
+        
+    * [Shop Boxes](https://mls.om/collections/box-collection)
+        
+        * [Shop Prime Box](https://mls.om/pages/prime-box)
+        * [Shop Signature Box](https://mls.om/pages/signature-box)
+        * [Go to Shop Boxes](https://mls.om/collections/box-collection)
+        
+    
+* [Stores Locations](https://mls.om/pages/mls-gourmet)
+* [About MLS](https://mls.om/pages/our-story)
+    
+    * Back
+        
+    * [About MLS](https://mls.om/pages/our-story)
+    * [About Us](https://mls.om/pages/our-story)
         
         * [Our Story](https://mls.om/pages/our-story)
         * [MLS Reward](https://mls.om/pages/rewards)
         * [MLS Partner](https://mls.om/pages/mls-affiliate)
         * [Refer a Friend](https://mls.om/pages/referral)
-        * [Stores Locations](https://mls.om/pages/mls-gourmet)
+        * [Go to About Us](https://mls.om/pages/our-story)
         
-    * [MLS Blogs](https://mls.om/pages/all-blogs) [Toggle menu](#)
+    * [MLS Blogs](https://mls.om/pages/all-blogs)
         
         * [MLS Recipes](https://mls.om/blogs/recipes-and-tips)
         * [Tips & Tricks](https://mls.om/blogs/tips)
         * [MLS News](https://mls.om/a/in-the-news)
         * [MLS Ambassador](https://mls.om/blogs/mls-brand-ambassador)
+        * [Go to MLS Blogs](https://mls.om/pages/all-blogs)
         
-    * [MLS Rewards](https://mls.om/pages/rewards) [Toggle menu](#)
+    * [MLS Rewards](https://mls.om/pages/rewards)
         
         * [Refer a Friend](https://mls.om/pages/referral)
         * [MLS Rewards](https://mls.om/pages/rewards)
         * [Make Money With MLS](https://mls.om/pages/mls-affiliate)
+        * [Go to MLS Rewards](https://mls.om/pages/rewards)
         
-    * [MLS Subscriptions](https://mls.om/pages/build-your-box) [Toggle menu](#)
+    * [MLS Subscriptions](https://mls.om/pages/build-your-box)
         
         * [Explore Subscription Boxes](https://mls.om/pages/subscribe-meat-box)
         * [Build Your Own Box](https://mls.om/pages/build-your-box)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
-        
-    
-* [Explore Meat](https://mls.om/) [Toggle menu](#)
-    
-    * [Explore Meat](https://mls.om/) [Toggle menu](#)
-        
-        * [Explore Entire MLS Beef Collection](https://mls.om/pages/beef-collection)
-        * [Explore Entire MLS Lamb Collection](https://mls.om/pages/lamb-sub-collection)
-        * [Shop South African Grass Fed Beef](https://mls.om/pages/south-african-grass-fed-beef)
-        * [Shop Australian Wagyu Beef](https://mls.om/pages/australian-waygu-beef)
-        * [Shop Australian Grass-fed Beef](https://mls.om/pages/australian-grass-fed-beef)
-        * [Shop Australian Angus Beef](https://mls.om/pages/aus-angus-beef)
-        * [Shop Whole Lamb](https://mls.om/pages/whole-carcass)
-        * [Shop Fresh Poultry](https://mls.om/pages/fresh-poultry)
-        * [Shop Dry-Aged Beef](https://mls.om/pages/dry-aged)
-        * [Shop Signature Box](https://mls.om/pages/signature-box)
-        * [Shop Australian Lamb](https://mls.om/pages/australian-lamb)
-        * [Shop Prime Box](https://mls.om/pages/prime-box)
-        * [Shop MLS Mishkak](https://mls.om/pages/mls-mishkak)
-        * [Shop MLS Brisket](https://mls.om/pages/brisket)
-        * [Shop New Zealand Grass Fed Beef](https://mls.om/pages/nz-grass-fed-beef)
-        * [Shop US Angus Beef](https://mls.om/pages/us-angus-beef)
-        * [Shop Nomu Rubs & Grinders](https://mls.om/pages/nomu)
-        
-    * ![](//mls.om/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_1024x1024.gif)
-        
-    
-* [MLS Subscriptions](https://mls.om/pages/build-your-box)
-
-[](#)
+        * [Go to MLS Subscriptions](https://mls.om/pages/build-your-box)
 
 Terms & Conditions
 ==================
@@ -745,14 +606,36 @@ By using MLC Marketplace, you (hereinafter the “**user**”, “**you**” or 
 
 * R&C shall be governed by and construed in accordance with the laws of Sultanate of Oman and any dispute arising out of these R&C shall be referred to the courts of Muscat.
 
+Your cart
+---------
+
+Close
+
+Your cart is empty
+
+[Start shopping](https://mls.om/collections/all)
+
+Subtotal:0.000 OMR
+
+Loading...
+
+[Back to top](#)
+
 Drop Us A Line!
+---------------
 
 Muscat Livestock, SHS Tower - Suite 81 Ghala, Muscat, Oman
 
 [**Email: contactus@mls.om  
 **](mailto:contactus@mls.om "mailto:contactus@mls.om")[**Whatsapp: 92423242**](https://wa.me/96892423242 "https://wa.me/96892423242")
 
+* [Facebook](https://www.facebook.com/muscatlivestock "Muscat Livestock on Facebook")
+* [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
+* [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
+* [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
+
 About MLS
+---------
 
 * [Our Story](https://mls.om/pages/our-story)
 * [MLS Rewards](https://mls.om/pages/rewards)
@@ -763,6 +646,7 @@ About MLS
 * [FAQs](https://mls.om/pages/faqs)
 
 Customer Care
+-------------
 
 * [FAQs](https://mls.om/pages/faqs)
 * [Contact Us](https://mls.om/pages/contact-us)
@@ -771,21 +655,34 @@ Customer Care
 * [Terms & Conditions](https://mls.om/pages/terms-conditions)
 
 Get Notified on Exclusive Offers
+--------------------------------
 
 Subscribe to our newsletter and get 7% off your first purchase!
 
  
 
-Sign up
+Email
 
-* [](https://twitter.com/mls_om)
-* [Facebook](https://www.facebook.com/muscatlivestock)
-* [Instagram](https://www.instagram.com/mls.om/)
-* [Pinterest](https://www.pinterest.com/Muscat_Livestock/)
-* [](https://www.linkedin.com/company/muscatlivestock/)
+ Subscribe
 
-* [Refer A Friend](https://mls.om/pages/referral)
-* [MLS Rewards](https://mls.om/pages/rewards)
-* [Make Money With MLS](https://mls.om/pages/mls-affiliate)
+Payment methods accepted
 
-© 2024 [Muscat Livestock](https://mls.om/).[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+ Language
+
+English
+
+* English
+* العربية
+
+© 2024 [Muscat Livestock](https://mls.om/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+
+Back
+
+Choose options
+--------------
+
+Close
+
+Close
+
+[cart](https://mls.om/cart)
