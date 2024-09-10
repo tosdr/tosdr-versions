@@ -25,7 +25,7 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     
     * Professional Learning
     * [Lexia® LETRS® Professional Learning (Pre-K-5)](https://www.lexialearning.com/letrs)
-    * [Lexia Aspire™ Professional Learning (4-8)](https://www.lexialearning.com/aspire)
+    * [Lexia Aspire® Professional Learning (4-8)](https://www.lexialearning.com/aspire)
     
     * Success Partnerships
     * [Success Partnerships](https://www.lexialearning.com/success-partnerships)
@@ -246,7 +246,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 * [Lexia® PowerUp Literacy®](https://www.lexialearning.com/powerup)
 * [Lexia® English](https://www.lexialearning.com/lexia-english)
 * [LETRS® Suite](https://www.lexialearning.com/letrs)
-* [Lexia Aspire™ Professional Learning](https://www.lexialearning.com/aspire)
+* [Lexia Aspire® Professional Learning](https://www.lexialearning.com/aspire)
 * [Success Partnerships](https://www.lexialearning.com/success-partnerships)
 * [Lexia® Academy](https://www.lexialearning.com/success-partnerships)
 * [Voyager Sopris Learning](http://www.voyagersoprislearning.com/)
@@ -346,7 +346,7 @@ A Cambium Learning® Group Brand
     * Professional Learning
         
         * [Lexia® LETRS® Professional Learning (Pre-K-5)](https://www.lexialearning.com/letrs)
-        * [Lexia Aspire™ Professional Learning (4-8)](https://www.lexialearning.com/aspire)
+        * [Lexia Aspire® Professional Learning (4-8)](https://www.lexialearning.com/aspire)
     * Success Partnerships
         
         * [Success Partnerships](https://www.lexialearning.com/success-partnerships)
