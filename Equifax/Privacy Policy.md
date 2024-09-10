@@ -54,8 +54,8 @@
     
     * USA [English](https://www.equifax.com/)
     * Brazil [Portuguese](https://www.equifax.com.br/)
-    * Canada [English](https://www.consumer.equifax.ca/en/personal) [French](https://www.consumer.equifax.ca/fr/personnel)
-    * Mexico [Spanish](https://www.equifax.com.mx/es/empresa) [English](https://www.equifax.com.mx/en/business)
+    * Canada [English](https://www.consumer.equifax.ca/en/personal/) [French](https://www.consumer.equifax.ca/fr/personnel/)
+    * Mexico [Spanish](https://www.equifax.com.mx/)
     * Argentina [Spanish](https://www.soluciones.equifax.com.ar/)
     * Peru [Spanish](https://www.equifax.pe/)
     * Chile [Spanish](https://soluciones.equifax.cl/)
@@ -472,23 +472,23 @@
     
     Access a free weekly credit report through www.annualcreditreport.com.
     
-    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_freeze.svg)
-    
-    [Place a security freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
-    
-    Place or manage a freeze to restrict access to your Equifax credit report, with certain exceptions.
-    
-    ![](https://assets.equifax.com/images/us/personal-icons/ucsc_core_credit_upsell_icon.svg)
-    
-    [Get your free credit score and report](https://www.equifax.com/personal/products/credit/free-credit-score/)
-    
-    A monthly free credit score is available as part of Equifax Core CreditTM. You'll also receive a monthly Equifax credit report. No credit card Required!
-    
     ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_dispute.svg)
     
     [Dispute information on your Equifax credit report](https://www.equifax.com/personal/credit-report-services/credit-dispute/)
     
     Submit a dispute if you notice something is inaccurate or incomplete on your credit report.
+    
+    ![](https://assets.equifax.com/images/us/personal-icons/ucsc_core_credit_upsell_icon.svg)
+    
+    [Get your free credit score and report](https://www.equifax.com/personal/products/credit/free-credit-score/)
+    
+    A monthly free credit score is available as part of Equifax Core Credit™. You'll also receive a monthly Equifax credit report - no credit card required.
+    
+    ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_freeze.svg)
+    
+    [Place a security freeze](https://www.equifax.com/personal/credit-report-services/credit-freeze/)
+    
+    Place or manage a freeze to restrict access to your Equifax credit report, with certain exceptions.
     
     ![](//assets.equifax.com/images/us/personal-icons/ucsc_looking_for_something_eles_icon_free_report.svg)
     
@@ -502,11 +502,11 @@
     
     Place an alert on your credit reports to warn lenders that you may be a victim of fraud or on active military duty.
     
-    ![](//assets.equifax.com/images/us/personal-icons/icon_other_ways.svg)
+    ![](https://assets.equifax.com/images/us/personal-icons/kc-rearchitecture_navigation_learn_spanish_edu_55x55.svg)
     
-    [Other ways to get additional free credit reports](https://www.equifax.com/personal/credit-report-services/multiple-free-credit-reports/)
+    [Obtenga su informe crediticio gratuito de Equifax US en español](https://www.equifax.com/personal/servicios-de-informe-de-credito/reportes-de-credito-gratuito/)
     
-    You may be entitled to additional free credit reports in certain circumstances, such as after placing a fraud alert, becoming unemployed or receiving public assistance, or being denied credit or insurance in the past 60 days.
+    Ahora puede obtener su informe crediticio Equifax® de EE. UU. en español en línea o llamando al 1-888-EQUIFAX (presione 8 para hablar con un agente en español).
     
     ![](//assets.equifax.com/images/us/personal-icons/military_209x209.png)
     
@@ -514,14 +514,24 @@
     
     Get free credit monitoring if you are an active duty military or National Guard member.
     
+    ![](//assets.equifax.com/images/us/personal-icons/icon_other_ways.svg)
+    
+    [Other ways to get additional free credit reports](https://www.equifax.com/personal/credit-report-services/multiple-free-credit-reports/)
+    
+    You may be entitled to additional free credit reports in certain circumstances, such as after placing a fraud alert, becoming unemployed or receiving public assistance, or being denied credit or insurance in the past 60 days.
+    
     [Visit Consumer Services Center](https://www.equifax.com/personal/credit-report-services/)
     
 * [Log In](#) [Log In](#)
     
     close
     
+    Previous
+    
     * [Personal Credit Customers](#tabpanel-0)
     * [Business Clients](#tabpanel-1)
+    
+    Next
     
     ![Equifax](https://assets.equifax.com/images/us/personal-misc/myEquifax-logo_163x44.svg)
     
