@@ -105,26 +105,6 @@ If you have any questions about this Cookie Policy or how we use cookies on our 
 
 ![](https://spoutible.com/themes/default/statics/icons/loading.gif)
 
-{{ notificationModalContent }}
-
-![](https://spoutible.com/themes/default/statics/icons/loading.gif)
-
-Advanced Search
-
-Trending Splashtags
-
-[#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
-
-[#marble](https://spoutible.com/search/posts?q=%23marble)
-
-[#voteblue](https://spoutible.com/search/posts?q=%23voteblue)
-
-[#dribble](https://spoutible.com/search/posts?q=%23dribble)
-
-[#speaker](https://spoutible.com/search/posts?q=%23speaker)
-
-[Show More](https://spoutible.com/trending)
-
 * [Tour](https://spoutible.com/search)
 * [Terms of Use](https://help.spoutible.com/support/solutions/articles/150000044455-terms-of-use)
 * [Privacy Policy](https://help.spoutible.com/support/solutions/articles/150000044459-privacy-policy)
