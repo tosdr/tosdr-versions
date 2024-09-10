@@ -2,8 +2,6 @@
 
 **[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
-[Labor Day Hours](#labor-day)
-
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
 * [Diagnosis](#)
@@ -34,7 +32,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -71,7 +68,6 @@
     * [Webinars](https://adhdonline.com/webinars/)
     * [ADHD in the News](https://adhdonline.com/adhd-news/)
     * [Press Releases](https://adhdonline.com/press-releases/)
-    * [ADHD Awareness Month](https://adhdonline.com/adhd-awareness-month/)
     * [FAQs](https://adhddiagnosis.zendesk.com/hc/en-us)
 * [Patients](#)
     * [Patient Login](https://patients.adhdonline.com/login)
@@ -95,7 +91,7 @@ Effective June 15, 2018
 
 **Information Collected By Mentavi Health/ADHD Online (“ADO”)**
 
-When you interact with ADO through its website(s) located at [www.adhdonline.com](http://www.adhdonine.com/) and www.mentavi.com, and any other U.S. website where we may post this Privacy Policy, we may collect information from you, as further described below. As part of the operation of the ADO main website, we gather certain types of information from users. Since your privacy is important to us, we would like to explain the types of information we gather, what we do with said information, and how to correct or change the information. This Privacy policy is incorporated into our Terms and Conditions. 
+When you interact with ADO through its website(s) located at [www.adhdonline.com](http://www.adhdonline.com/) and www.mentavi.com, and any other U.S. website where we may post this Privacy Policy, we may collect information from you, as further described below. As part of the operation of the ADO main website, we gather certain types of information from users. Since your privacy is important to us, we would like to explain the types of information we gather, what we do with said information, and how to correct or change the information. This Privacy policy is incorporated into our Terms and Conditions. 
 
 This Privacy Policy applies only to services provided by ADO and Mentavi, Inc. (“Services”) Except as provided herein, this Privacy Policy does not apply to information collected by us outside of those Services, including on any other website operated by us or any third party, or data collected outside of the Services by ADO providers. It also does not apply to the information practices of any third party, including third parties you may communicate with off the Services, or third parties you connect with through any application or content (including advertising) that may link to or be accessible from or on our Services.
 
@@ -222,22 +218,22 @@ Monday – Friday
 ### Company
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
 * [About us](https://mentavi.com/about-us/)
-* [Careers](https://mentavi.com/careers/)
+* [Careers](https://adhdonline.bamboohr.com/careers)
 * [Partners](https://adhdonline.com/partnerships/)
 * [Powered by Mentavi](http://mentavi.com/)
 
