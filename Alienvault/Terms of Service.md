@@ -1,4 +1,4 @@
-be\_ixf;ym\_202407 d\_29; ct\_50
+be\_ixf;ym\_202409 d\_10; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -34,7 +34,7 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
         * [Managed Detection and Response Make security operations more efficient](https://www.alienvault.com/mdr)
             
-            * [Managed Endpoint Security with Sentinel One](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
+            * [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
             * [Managed Threat Detection and Response](https://www.alienvault.com/products/managed-threat-detection-and-response)
             * [Managed Vulnerability Program​](https://www.alienvault.com/products/managed-vulnerability-program)
             * [Incident Readiness](https://www.alienvault.com/incident-readiness)
@@ -43,15 +43,15 @@ be\_ixf;ym\_202407 d\_29; ct\_50
         * [Extended Detection and Response With the USM Anywhere open XDR platform](https://www.alienvault.com/xdr)
             
             * [USM Anywhere](https://www.alienvault.com/xdr)
-            * [Cybersecurity XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
+            * [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
             * [TDR for Government](https://www.alienvault.com/products/threat-detection-and-responses-for-government)
-            * [BlueApps/Integrations](https://www.alienvault.com/app)
+            * [BlueApps/Integrations](https://www.alienvault.com/blueapps)
             
         * [Endpoint Management Manage and secure your endpoint devices](https://www.alienvault.com/endpoint-security)
             
             * [Mobile Security](https://www.alienvault.com/endpoint-security/mobile-security)
             * [Unified Endpoint Management](https://www.alienvault.com/endpoint-security/uem)
-            * [Managed Endpoint Security with Sentinel One](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
+            * [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
             
     * Mitigate Risk & InnovateOur experienced advisors help you to manage your environment, identify areas of cyber risk, and protect your critical assets
         * [Consulting Services Reduce risk and improve security posture](https://www.alienvault.com/consulting-services)
@@ -60,13 +60,13 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             * [Risk Advisory](https://www.alienvault.com/consulting-services/risk-advisory)
             * [Cyber Operations](https://www.alienvault.com/consulting-services/cyber-operations)
             
-        * [Research Learn critical cybersecurity trends](https://www.alienvault.com/insights-report)
+        * [Research Learn critical cybersecurity trends](https://www.alienvault.com/2024-futures-report)
             
             * [2024 LevelBlue FuturesTM Report](https://www.alienvault.com/resource-center/futures-reports/2024-futures-report-cyber-resilience)
-            * [Proprietary Research](https://www.alienvault.com/insights-report)
+            * [Proprietary Research](https://www.alienvault.com/2024-futures-report)
             * [Blog](https://www.alienvault.com/blogs)
             
-        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
+        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/blueapps)
             
             * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
             * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
@@ -117,9 +117,9 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
             Product Brief
             
-            ##### Stop DDoS Attacks in Their Tracks
+            ##### LevelBlue Client-Side Protection and Compliance
             
-            [Learn more](https://cyber.levelblue.com/m/22a716cd6ceca7ac/original/PB-Stop-DDoS-Attacks-Public-Sector.pdf)
+            [Learn more](https://cyber.levelblue.com/m/6bdb717aa93dbf93/original/PB-Client-Side-Protection-Compliance.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -147,9 +147,9 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
             Customer Story
             
-            ##### Security Expertise, Comprehensive Services Protect Global Engineering Supplier’s New Company
+            ##### Federal Agency Protected with LevelBlue DDoS Defense
             
-            [Learn more](https://cyber.levelblue.com/m/1796dc33852dd891/original/CS-Engineering-Tech-Company-v2-0.pdf)
+            [Learn more](https://cyber.levelblue.com/m/585ce384c5ca0b5a/original/CS-Federal-Agency-Protected-with-DDoS-Defense.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -169,9 +169,9 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
             Blog: Security Essentials
             
-            ##### Navigating the Minefield: Cybersecurity for Non-Profit Organizations
+            ##### Cybersecurity in a Cycle: Balancing Repair and Replacement for Optimal Security
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/navigating-the-minefield-cybersecurity-for-non-profit-organizations)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-in-a-cycle-balancing-repair-and-replacement-for-optimal-security)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -179,9 +179,9 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
             ebook
             
-            ##### Your Guide to Endpoint Security Compliance
+            ##### ESG Analyst Report: Cybersecurity As A Service
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/your-guide-to-endpoint-security-compliance)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/esg-ebook-cybersecurity-as-a-service)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -189,9 +189,9 @@ be\_ixf;ym\_202407 d\_29; ct\_50
             
             webcast
             
-            ##### The Future of Integrated Cyber Defense: LevelBlue, Zscaler, and SentinelOne
+            ##### More Regulatory Scrutiny Means IRR Must Be a Priority: September 26, 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/future-of-integrated-cyber-defense-levelblue-zscaler-and-sentinelone)
+            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/more-regulatory-scrutiny-means-irr-must-be-a-priority)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
@@ -211,44 +211,6 @@ be\_ixf;ym\_202407 d\_29; ct\_50
         * [Certification Become security certified](https://www.alienvault.com/certification) 
         * [Documentation Discover technical support documentation](https://www.alienvault.com/documentation)
         * [Training Get expert instruction and hands-on practice](https://www.alienvault.com/training)
-    
-    #### Product Resources
-    
-    * [Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
-    * [Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
-    * [Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
-    * [Use Cases](https://www.alienvault.com/resource-center#content_use-cases)
-    * [Free Trial](https://www.alienvault.com/products/usm-anywhere/free-trial)
-    
-    #### Security Resources
-    
-    * [Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
-    * [Blog](https://www.alienvault.com/blogs)
-    * [eBooks](https://www.alienvault.com/resource-center#content_ebook)
-    * [Videos](https://www.alienvault.com/resource-center#content_video)
-    * [Webcasts](https://www.alienvault.com/resource-center#content_webcast)
-    * [White Papers](https://www.alienvault.com/resource-center#content_white-paper)
-    
-    #### Customer Resources
-    
-    * [Success Center](https://success.alienvault.com/)
-    * [Certification](https://www.alienvault.com/certification)
-    * [Customer Success](https://www.alienvault.com/customer-success)
-    * [Documentation](https://www.alienvault.com/documentation)
-    * [Professional Services](https://www.alienvault.com/partners/certified-implementation-partners)
-    * [Support Overview](https://www.alienvault.com/support)
-    * [Training](https://www.alienvault.com/training)
-    
-    #### Browse by Topic
-    
-    * [Incident Response](https://www.alienvault.com/resource-center#category_incident-response)
-    * [Intrusion Detection](https://www.alienvault.com/resource-center#category_intrusion-detection)
-    * [Partner: MSSP & Reseller](https://www.alienvault.com/resource-center#category_partner-mssp-reseller)
-    * [Regulatory Compliance](https://www.alienvault.com/resource-center#category_regulatory-compliance)
-    * [Security Operations Center](https://www.alienvault.com/resource-center#category_soc)
-    * [SIEM & Log Management](https://www.alienvault.com/resource-center#category_siem-log-management)
-    * [Threat Detection](https://www.alienvault.com/resource-center#category_threat-detection)
-    * [Threat Intelligence](https://www.alienvault.com/resource-center#category_threat-intelligence)
     
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
@@ -274,8 +236,8 @@ Secure your Business
 Mitigate Risk & Innovate
 
 * [Consulting Services](https://www.alienvault.com/consulting-services)
-* [Research](https://www.alienvault.com/insights-report)
-* [Threat Intelligence](https://www.alienvault.com/alien-labs)
+* [Research](https://www.alienvault.com/2024-futures-report)
+* [Threat Intelligence](https://www.alienvault.com/blueapps)
 
 [Back to Products & Services](#)
 
@@ -297,7 +259,7 @@ Modernize Network Security
 
 Managed Detection and Response
 
-* [Managed Endpoint Security with Sentinel One](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
+* [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
 * [Managed Threat Detection and Response](https://www.alienvault.com/products/managed-threat-detection-and-response)
 * [Managed Vulnerability Program​](https://www.alienvault.com/products/managed-vulnerability-program)
 * [Incident Readiness](https://www.alienvault.com/incident-readiness)
@@ -308,9 +270,9 @@ Managed Detection and Response
 Extended Detection and Response
 
 * [USM Anywhere](https://www.alienvault.com/xdr)
-* [Cybersecurity XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
+* [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
 * [TDR for Government](https://www.alienvault.com/products/threat-detection-and-responses-for-government)
-* [BlueApps/Integrations](https://www.alienvault.com/app)
+* [BlueApps/Integrations](https://www.alienvault.com/blueapps)
 
 [Back to Products & Services](#)
 
@@ -318,7 +280,7 @@ Endpoint Management
 
 * [Mobile Security](https://www.alienvault.com/endpoint-security/mobile-security)
 * [Unified Endpoint Management](https://www.alienvault.com/endpoint-security/uem)
-* [Managed Endpoint Security with Sentinel One](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
+* [Managed Endpoint Security with SentinelOne](https://www.alienvault.com/endpoint-security/managed-endpoint-security)
 
 [Back to Products & Services](#)
 
@@ -330,17 +292,17 @@ Consulting Services
 
 [Back to Products & Services](#)
 
-Research
+[Research](https://www.alienvault.com/2024-futures-report)
 
 * [2024 LevelBlue FuturesTM Report](https://www.alienvault.com/resource-center/futures-reports/2024-futures-report-cyber-resilience)
-* [Proprietary Research](https://www.alienvault.com/insights-report)
+* [Proprietary Research](https://www.alienvault.com/2024-futures-report)
 * [Blog](https://www.alienvault.com/blogs)
 
 [Back to Products & Services](#)
 
 Consulting Services
 
-* [LevelBlue Labs](https://www.alienvault.com/alien-labs)
+* [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
 * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
 
 [Back](#)
@@ -371,7 +333,7 @@ Security Use Cases
 
 Compliance
 
-* [HIPAA](https://www.alienvault.com/solutions/hipaa-compliance)
+* [HIPAA](https://www.alienvault.com/solutions/hipaa-compliance-solution)
 * [PCI DSS](https://www.alienvault.com/solutions/pci-dss-compliance)
 * [ISO 27001](https://www.alienvault.com/solutions/iso-27001-compliance)
 * [SOC 2](https://www.alienvault.com/solutions/soc-2-compliance)
@@ -467,7 +429,7 @@ We do not want to receive confidential or proprietary information from you throu
 
 ### 7\. By Providing Content, We Do Not Allow You to Use Our Trademarks
 
-The trademarks, service marks, trade names and logos used and displayed on our Site are our registered and unregistered trademarks. Nothing on this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, without our written permission. We aggressively enforce our intellectual property rights. The name “LevelBlue” or our logo may not be used in any way, including in advertising or publicity pertaining to distribution of materials on our Site, without prior written permission. You may not use any metatags or any other “hidden text” utilizing LevelBlue‘s name or trademarks without the express written consent of AlienVault. You are not authorized to use our logo as a hyperlink to our Site unless you obtain our written permission in advance.
+The trademarks, service marks, trade names and logos used and displayed on our Site are our registered and unregistered trademarks. Nothing on this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, without our written permission. We aggressively enforce our intellectual property rights. The name “LevelBlue” or our logo may not be used in any way, including in advertising or publicity pertaining to distribution of materials on our Site, without prior written permission. You may not use any metatags or any other “hidden text” utilizing LevelBlue‘s name or trademarks without the express written consent of LevelBlue. You are not authorized to use our logo as a hyperlink to our Site unless you obtain our written permission in advance.
 
 ALL OTHER TRADEMARKS, SERVICE MARKS, AND TRADE NAMES ARE THE PROPERTY OF THEIR RESPECTIVE COMPANIES. LEVELBLUE DISAVOWS ANY PROPRIETARY INTEREST OR CLAIMS IN THE MARKS OF OTHER COMPANIES OR CORPORATIONS.
 
@@ -546,13 +508,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Devin Morrissey](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Sam Bocetta
+#### Devin Morrissey
 
-Jul 24, 2024
+Sep 4, 2024
 
-### [Navigating the Minefield: Cybersecurity for Non-Profit Organizations](https://cybersecurity.att.com/blogs/security-essentials/navigating-the-minefield-cybersecurity-for-non-profit-organizations)
+### [Cybersecurity in a Cycle: Balancing Repair and Replacement for Optimal Security](https://cybersecurity.att.com/blogs/security-essentials/cybersecurity-in-a-cycle-balancing-repair-and-replacement-for-optimal-security)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -561,8 +523,8 @@ Jul 24, 2024
 Who We Are
 
 * [About Us](https://www.alienvault.com/about-us)
-* [LevelBlue Labs](https://www.alienvault.com/alien-labs)
-* [Careers](https://www.att.jobs/category/cybersecurity-jobs/117/47406/1)
+* [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
+* [Careers](https://www.att.jobs/search-jobs?acm=47406&alrpm=ALL&ascf=%5B%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D%5D)
 * [Contact Us](https://www.alienvault.com/contact)
 
 News
@@ -614,8 +576,8 @@ Customer Success
 * [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
-* [Your Privacy Choices](https://about.att.com/csr/home/privacy/rights_choices.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
+* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
 
-We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.att.com/privacy) and [Website Terms of Use](https://www.alienvault.com/terms/website-terms-of-use07may2018).
+We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.att.com/privacy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
 
 [](#)
