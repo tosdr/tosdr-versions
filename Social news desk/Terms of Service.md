@@ -40,15 +40,15 @@ Since 2010, we’ve proudly supported America’s largest news companies, cities
 
 [**Government**
 
-Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Healthcare**
-
-Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)[**Universities**
+Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Universities**
 
 Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**News & Publishing**
 
 Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
 
-Mission critical social media management software to rely on.](https://www.socialnewsdesk.com/public-safety/)
+Mission critical social media management software to rely on.](https://www.socialnewsdesk.com/public-safety/)[**Healthcare**
+
+Transform patient engagement and education through social media.](https://www.socialnewsdesk.com/healthcare/)
 
 ![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/industries.webp)
 
