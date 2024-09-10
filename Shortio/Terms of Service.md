@@ -157,6 +157,7 @@ General. You will use Services in compliance with requirements set out in this T
 * promotes, contain or encourage any serious harm, terrorism or violence;
 * distributes or makes available any fraudend, phishing or impersonation content, computer viruses, trojan horses, worms, or any other harmful software;
 * send unauthorized or unsolicited advertising, junk emails, promotional materials, spam, chain letters, pyramid schemes related messages, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; 
+* register or use any domain name with the intent to circumvent domain-level blacklists implemented by other services, platforms, or organizations; 
 * interfere with, disrupt, or create an undue burden on servers or networks connected to the Services or violate the regulations, policies or procedures of such networks;
 
 Is fraudulent, phishing, and impersonating a third party. 
