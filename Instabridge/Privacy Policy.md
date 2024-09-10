@@ -243,7 +243,7 @@ This Privacy Policy was written in English. If you are reading a translation and
     * [User Cases](https://instabridge.com/user-cases/)
 * [Distribution Partners](https://instabridge.com/distribution/)
     * [Jobs](mailto:jobs@instabridge.com)
-    * [Support](https://instabridge.com/support/)
+    * [Help Center](https://help.instabridge.com/)
     * [Blog](https://instabridge.com/blog/)
 * [Terms of Service](https://instabridge.com/terms-of-service/)
     * [Privacy Policy](https://instabridge.com/privacy-policy/)
