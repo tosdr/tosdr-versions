@@ -26,21 +26,21 @@
     
     [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
+    [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Out West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
+    ![Out West](https://img.ebdcdn.com/cms/Top_Nav_320_424_56bcec9687.jpg?q=85&seo=out-west)
     
-    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![EcoActive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Out West](https://www.eyebuydirect.com/collections/out-west "Out West")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![EcoActive](https://img.ebdcdn.com/cms/Top_Nav_320_424_a893be740d.jpg?q=85&seo=ecoactive)
+    ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
-    EcoActive](https://www.eyebuydirect.com/collections/eco-active "EcoActive")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Tan France x eyebuydirect](https://www.eyebuydirect.com/collections/tan-france "Tan France x eyebuydirect")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
+    ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
     
-    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
+    Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
     
 * Sunglasses
     
@@ -72,11 +72,11 @@
     
     ![Oakley Sunglasses](https://img.ebdcdn.com/cms/topp_nav_oak_sun_0ed9d64229.jpg?q=85&seo=oakley-sunglasses)
     
-    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
+    ![Eco Friendly](https://img.ebdcdn.com/cms/topp_nav_CSR_501391cdf0.jpg?q=85&seo=eco-friendly)
     
-    New Designer Brands](https://www.eyebuydirect.com/campaign/brands "New Designer Brands")
+    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
 * Premium Brands
     
@@ -193,7 +193,7 @@ Privacy Policy
 
 For more information on Interest-based Advertising and your choices regarding it [click here](#adchoices)
 
-This Privacy Policy (“Policy”) is effective as of July 23, 2024.
+This Privacy Policy (“Policy”) is effective as of July 1, 2024.
 
 This Policy describes how Essilor of America Inc., including all direct and indirect subsidiaries (collectively “Essilor,” “we,” “our,” or “us”), collects, uses, discloses, and safeguards your information. This Policy applies to individuals who access this website and any other websites that link to this Policy (collectively “Sites”), and where applicable, our Virtual Try-on technology (“VTO”), and certain other services as described below (collectively, the “Platforms”). Other EssilorLuxottica websites, products, and services may have their own privacy policies. This Policy, together with our [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use), collectively govern your use of our Site.This Policy applies to our Platforms that link to this Policy.
 
@@ -628,32 +628,32 @@ You may submit a request to opt out of sales or sharing through our interactive 
 
 ###### Request to Know (Access)
 
-\- Requests Received: 19  
-\- Requests Completed in Whole or in Part: 19  
+\- Requests Received: 154  
+\- Requests Completed in Whole or in Part: 154  
 \- Requests Not Completed\*: 0  
 \- Average Days to Complete: 25
 
 ###### Request to Delete
 
-\- Requests Received: 758  
-\- Requests Completed in Whole or in Part: 758  
+\- Requests Received: 1124  
+\- Requests Completed in Whole or in Part: 1124  
 \- Requests Not Completed\*: 0  
 \- Average Days to Complete: 25
 
 ###### Do Not Sell My Information
 
-\- Requests Received: 797  
-\- Requests Completed in Whole or in Part: 797  
+\- Requests Received: 1071  
+\- Requests Completed in Whole or in Part: 1071  
 \- Requests Not Completed\*: 0  
 \- Average Days to Complete: 25
 
-This data reflects all requests received from individuals in the U.S. as well as certain requests from individuals outside of the U.S. between January 1 and December 31, 2022.
+This data reflects all requests received from individuals in the U.S. as well as certain requests from individuals outside of the U.S. between January 1 and December 31, 2023.
 
 \* Requests may not be completed due to various factors including because a request was not verifiable, was made multiple times, or where we did not have any personal information associated with the requester.
 
 ##### Notice of Financial Incentives
 
-EBD offers programs, benefits, and other offerings related to the collection, retention, use, or sale of your Personal Information that may be deemed a “financial incentive” or “price or service difference” under the California Consumer Privacy Act (“CCPA”). We are providing you this information so that you may make an informed decision on whether to participate in our programs, including our Loyalty Program, Referral Program, and Exclusive Club. Participation in our promotional programs is always optional! You can end program participation at any time by contacting us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com) to unsubscribe or cancel your participation in any program. We will not discriminate against you, in any manner prohibited by applicable law, for exercising these rights. Please note that we may add or change incentive programs, or their terms by posting notice on the program descriptions and terms linked to above, so check them regularly.
+EBD offers programs, benefits, and other offerings related to the collection, retention, use, or sale of your Personal Information that may be deemed a “financial incentive” or “price or service difference” under the California Consumer Privacy Act (“CCPA”). We are providing you this information so that you may make an informed decision on whether to participate in our programs, including our Loyalty Program, Referral Program, and Exclusive Club. Participation in our promotional programs is always optional! You can end program participation at any time by contacting us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com) to unsubscribe or cancel your participation in any program. We will not discriminate against you, in any manner prohibited by applicable law, for exercising these rights. Please note that we may add or change incentive programs, or their terms by posting notice on the program descriptions and terms linked to above, so check them regularly.
 
 Each financial incentive or price or service difference relate to the collection and use of personal information is based upon our reasonable, good-faith determination of the estimated value of such information to our business, taking into consideration the value of the offer or benefit itself and the anticipated revenue generation that may be realized by rewarding brand loyalty. We calculate the value of the offer and financial incentive by using the expense related to the offer.
 
