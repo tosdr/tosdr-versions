@@ -10,6 +10,7 @@ Open menu
 
 * Investing
     * [Automated investing](https://www.betterment.com/investing)
+    * [Bonds investing](https://www.betterment.com/bonds-investing)
     * [IRAs and 401(k) rollovers](https://www.betterment.com/ira-and-401k)
     * [Portfolio options](https://www.betterment.com/investments)
     * [Socially responsible investing](https://www.betterment.com/socially-responsible-investing)
@@ -26,6 +27,7 @@ Open menu
     * [All-in-one dashboard](https://www.betterment.com/dashboard)
 * About
     * [Who we are](https://www.betterment.com/about)
+    * [Reviews](https://www.betterment.com/testimonials)
     * [Investment philosophy](https://www.betterment.com/resources/how-betterment-technology-manages-money)
     * [Pricing](https://www.betterment.com/pricing)
     * [Press](https://www.betterment.com/press)
