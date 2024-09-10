@@ -2,7 +2,7 @@
 
   
 
-**Last updated** **January 22, 2023**
+**Last updated** **August 27, 2024**
 
   
 
@@ -176,7 +176,7 @@ We reserve the right to correct any errors or mistakes in pricing, even if we ha
 
   
 
-We offer a 30\-day free trial to new users who register with the Site. The account will be charged according to the user’s chosen subscription at the end of the free trial.
+We offer a 14\-day free trial to new users who register with the Site. The account will be charged according to the user’s chosen subscription at the end of the free trial.
 
   
 
