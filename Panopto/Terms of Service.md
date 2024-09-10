@@ -59,12 +59,12 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
         * [Telecommunications](https://www.panopto.com/industries/telecommunications/)
     * By Use Case
-        * [Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
-        * [Employee Onboarding](https://www.panopto.com/use-cases/employee-onboarding/)
-        * [Hybrid HyFlex Learning](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
-        * [Knowledge Sharing](https://www.panopto.com/use-cases/knowledge-sharing/)
-        * [Meeting Intelligence](https://www.panopto.com/use-cases/meeting-intelligence/)
-        * [Video Training](https://www.panopto.com/use-cases/video-training/)
+        * [Video Platform for Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
+        * [Employee Onboarding Software](https://www.panopto.com/use-cases/employee-onboarding/)
+        * [Hybrid & Hyflex Learning](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
+        * [Knowledge Sharing Platform](https://www.panopto.com/use-cases/knowledge-sharing/)
+        * [AI Meeting Recording Software](https://www.panopto.com/use-cases/meeting-intelligence/)
+        * [Online Video Training Platform](https://www.panopto.com/use-cases/video-training/)
     
 * Resources & Support
     
@@ -205,11 +205,8 @@ We believe in the power of learning, and we built an intelligent platform to hel
 
 * [Privacy Policy](https://www.panopto.com/privacy/)
 * [Terms of Service](https://www.panopto.com/terms-of-service/)
+* [AI Statement](https://www.panopto.com/panopto-ai-statement/)
 
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
-
-[![](https://www.panopto.com/wp-content/uploads/2024/07/What-Students-Want-Most_1200x628_popup-5-1.png)](https://www.panopto.com/resource/webinar-live/what-students-want-most/?utm_source=homepage&utm_medium=pop_up&utm_campaign=what_students_want_most_webinar&utm_id=1161)
-
-X
