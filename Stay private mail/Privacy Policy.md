@@ -20,6 +20,10 @@ Sign In
 
  Email Address
 
+OR
+
+ Phone number (including country code)
+
  Company Indent
 
 Send Cancel
@@ -34,7 +38,7 @@ Send Cancel
 
 Reset
 
-Don't have an account? [Sign Up](https://keepd.com/sign-up/)
+Don't have an account? [Sign Up](https://keepd.com/keepd-signup/)
 
 Compose
 
