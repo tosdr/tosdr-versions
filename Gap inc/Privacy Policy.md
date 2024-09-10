@@ -1,8 +1,4 @@
-  
-
-          
-
- 
+           
 
 * [Skip to main navigation](#site-nav)
 * [Skip to main content](#main)
@@ -10,7 +6,7 @@
 
 [Gap Inc.](https://www.gapinc.com/en-us)
 
-[USA opens modal window to select language](#language-selector) open menu close menu
+Search Site: 
 
 * [About](https://www.gapinc.com/en-us/about)
     * [Overview](https://www.gapinc.com/about)
@@ -23,22 +19,35 @@
     * [Gap](https://www.gapinc.com/en-us/about/gap)
     * [Banana Republic](https://www.gapinc.com/en-us/about/banana-republic)
     * [Athleta](https://www.gapinc.com/en-us/about/athleta)
-* [Values](https://www.gapinc.com/en-us/values)
+* [Impact](https://www.gapinc.com/en-us/impact)
     * [Overview](https://www.gapinc.com/values)
-    * [Sustainability](https://www.gapinc.com/en-us/values/sustainability)
-        * [Environmental, Social and Governance Resources](https://www.gapinc.com/en-us/values/sustainability/esg-resources)
-        * [Empowering Women](https://www.gapinc.com/en-us/values/sustainability/empowering-women)
-        * [Enabling Opportunity](https://www.gapinc.com/en-us/values/sustainability/enabling-opportunity)
-        * [Enriching Communities](https://www.gapinc.com/en-us/values/sustainability/enriching-communities)
-        * [ESG Report](https://www.gapinc.com/en-us/values/sustainability/esg-report)
-    * [Equality & Belonging](https://www.gapinc.com/en-us/values/equality-belonging)
+    * [Bridging the Equity Gap](https://www.gapinc.com/en-us/impact/bridging-the-equity-gap)
+        * [P.A.C.E. and RISE](https://www.gapinc.com/en-us/impact/bridging-the-equity-gap/p-a-c-e-and-rise)
+    * [Bridging the Inclusion Gap](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap)
         * [Our Commitments](https://www.gapinc.com/en-us/commitments)
-        * [People Data](https://www.gapinc.com/en-us/values/equality-belonging/people-data)
-        * [Equality and Belonging Groups](https://www.gapinc.com/en-us/values/equality-belonging/equality-and-belonging-groups)
-        * [Equality & Belonging Annual Report](https://www.gapinc.com/en-us/values/equality-belonging/equality-belonging-annual-report)
-        * [Color Proud Council](https://www.gapinc.com/en-us/values/equality-belonging/color-proud-council)
-        * [Equal Pay](https://www.gapinc.com/en-us/values/equality-belonging/equal-pay)
-        * [Supplier Inclusion Program](https://www.gapinc.com/en-us/values/equality-belonging/supplier-inclusion-program)
+        * [People Data](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/people-data)
+        * [Equality and Belonging Groups](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/equality-and-belonging-groups)
+        * [Equality & Belonging Annual Report](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/equality-belonging-annual-report)
+        * [Color Proud Council](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/color-proud-council)
+        * [Equal Pay](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/equal-pay)
+        * [Supplier Inclusion Program](https://www.gapinc.com/en-us/impact/bridging-the-inclusion-gap/supplier-inclusion-program)
+    * [Bridging the Opportunity Gap](https://www.gapinc.com/en-us/impact/bridging-the-opportunity-gap)
+        * [Opportunity Hiring](https://www.gapinc.com/en-us/impact/bridging-the-opportunity-gap/opportunity-hiring)
+        * [This Way ONward](https://www.gapinc.com/en-us/impact/bridging-the-opportunity-gap/this-way-onward)
+        * [Talent Development](https://www.gapinc.com/en-us/impact/bridging-the-opportunity-gap/talent-development)
+        * [Employee Engagement and Corporate Giving](https://www.gapinc.com/en-us/impact/bridging-the-opportunity-gap/employee-engagement-and-corporate-giving)
+    * [Bridging the Climate Gap](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap)
+        * [Water Stewardship](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap/water-stewardship)
+        * [Chemicals Management](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap/chemicals-management)
+        * [Climate](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap/climate)
+        * [Circularity and Waste](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap/circularity-and-waste)
+        * [Raw Materials and Product](https://www.gapinc.com/en-us/impact/bridging-the-climate-gap/raw-materials-and-product)
+    * [ESG Report](https://www.gapinc.com/en-us/impact/esg-report)
+    * [ESG Resources](https://www.gapinc.com/en-us/impact/esg-resources)
+        * [Governance and Strategy](https://www.gapinc.com/en-us/impact/esg-resources/governance-and-strategy)
+        * [Human Rights and Labor Issues](https://www.gapinc.com/en-us/impact/esg-resources/human-rights-and-labor-issues)
+        * [Assurance Statements](https://www.gapinc.com/en-us/impact/esg-resources/assurance-statements)
+        * [Past Reports And Disclosures](https://www.gapinc.com/en-us/impact/esg-resources/past-reports-and-disclosures)
 * [Careers](https://www.gapinc.com/en-us/careers)
     * [Overview](https://www.gapinc.com/careers)
     * [Old Navy](https://www.gapinc.com/en-us/careers/old-navy-careers)
@@ -50,6 +59,8 @@
     * [Talent Areas](https://www.gapinc.com/en-us/careers/gap-inc-talent-areas)
         * [Technology](https://www.gapinc.com/en-us/careers/gap-inc-talent-areas/technology-and-digital)
         * [Global Supply Chain](https://www.gapinc.com/en-us/careers/gap-inc-talent-areas/global-supply-chain)
+    * [Student and Recent Grads](https://www.gapinc.com/en-us/careers/student-and-recent-grads/rotational-management-program)
+        * [Rotational Management Program](https://www.gapinc.com/en-us/careers/student-and-recent-grads/rotational-management-program)
     * [Culture Blog](https://www.gapinc.com/en-us/careers/culture-blog)
     * [Job Search](https://www.gapinc.com/en-us/careers/job-search)
         * [My Saved Jobs](https://www.gapinc.com/en-us/careers/job-search/my-saved-jobs)
@@ -81,37 +92,61 @@
     * [Media Center](https://www.gapinc.com/en-us/news/media-center)
 
 * [USA opens modal window to select language](#language-selector)
+* Search open search close search
+    
+    Search Site: 
+    
+* open menu close menu
 
-open search close search
+[![Gap logo](/_assets/images/svg/logo-vertical.svg)](https://www.gapinc.com/)
 
-Search Site: 
+Company
 
-[About](https://www.gapinc.com/en-us/about) [Careers](https://www.gapinc.com/en-us/careers) [Investors](https://www.gapinc.com/en-us/investors) [Values](https://www.gapinc.com/en-us/values) [News](https://www.gapinc.com/en-us/news) [Contact Us](https://www.gapinc.com/en-us/contact-us) [FAQ](https://www.gapinc.com/en-us/faq) [Careers Login](https://www.gapinc.com/en-us/careers/careers-login)
+Company : click to collapse : click to expand
 
-Follow Gap Inc.
+* [About](https://www.gapinc.com/en-us/about)
+* [Careers](https://www.gapinc.com/en-us/careers)
+* [Investors](https://www.gapinc.com/en-us/investors)
+* [Impact](https://www.gapinc.com/en-us/values)
+* [News](https://www.gapinc.com/en-us/news)
 
-[Facebook: link opens in a new window](https://www.facebook.com/GapInc/) [Twitter: link opens in a new window](https://twitter.com/GapInc) [Instagram: link opens in a new window](https://www.instagram.com/gapinc/) [YouTube: link opens in a new window](https://www.youtube.com/user/GapInc) [LinkedIn: link opens in a new window](https://www.linkedin.com/company/gap-inc-)
+Follow Us
 
-[Old Navy: link opens in a new window](http://www.oldnavy.com/)
+Follow Us : click to collapse : click to expand
 
-[GAP: link opens in a new window](http://www.gap.com/)
+* [Facebook](https://www.facebook.com/GapInc/)
+* [Twitter](https://twitter.com/GapInc)
+* [Instagram](https://www.instagram.com/gapinc/)
+* [Youtube](https://www.youtube.com/user/GapInc)
+* [LinkedIn](https://www.linkedin.com/company/gap-inc-)
 
-[Banana Republic: link opens in a new window](http://www.bananarepublic.com/)
+Brands
 
-[Athleta: link opens in a new window](http://www.athleta.com/)
+Brands : click to collapse : click to expand
 
-Gap Inc. is an equal-opportunity employer and is committed to providing a workplace free from harassment and discrimination. We are committed to recruiting, hiring, training and promoting qualified people of all backgrounds, and make all employment decisions without regard to any protected status.
+* [Old Navy](https://www.oldnavy.com/)
+* [Gap](https://www.gap.com/)
+* [Banana Republic](https://www.bananarepublic.com/)
+* [Athleta](https://www.athleta.com/)
+
+Help
+
+Help : click to collapse : click to expand
+
+* [FAQ](https://www.gapinc.com/en-us/faq)
+* [Careers Login](https://www.gapinc.com/en-us/careers/careers-login)
+* [Contact Us](https://www.gapinc.com/en-us/contact-us)
 
 * [Terms of Use](https://www.gapinc.com/en-us/policy/terms-of-use)
 * [Terms of Use Careers](https://www.gapinc.com/en-us/careers/privacy-policy#terms)
 * [Privacy Policy](https://www.gapinc.com/en-us/consumer-privacy-policy)
 * Cookie Settings
 * [Your California Privacy Rights](https://www.gapinc.com/en-us/consumer-privacy-policy?#california)
-* [Privacy Policy Careers](https://www.gapinc.com/en-us/careers/privacy-policy)
+* [Privacy Rights Careers](https://www.gapinc.com/en-us/careers/privacy-policy)
 * [UK Modern Slavery Act](https://www.gapinc.com/en-us/policy/uk-modern-slavery-act)
-* [Americans with Disabilities Act](https://www.gap.com/customerService/info.do?cid=1005563) 
+* [Americans with Disabilities Act](https://www.gap.com/customerService/info.do?cid=1005563)
 * [Endorsement Policy](https://www.gapinc.com/en-us/policy/endorsement-policy)
 
-2023 © Gap Inc. All rights reserved
+2024 © Gap Inc. All rights reserved
 
 [Back to top](#page-top)
