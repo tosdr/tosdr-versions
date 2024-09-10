@@ -18,7 +18,7 @@ Product manual
 
 **O&O Software GmbH**
 
-### End User License Agreement 5.9.3 (EULA)
+### End User License Agreement 5.9.4 (EULA)
 
 #### GENERAL SECTION and SPECIALIZED SECTION
 
@@ -307,14 +307,37 @@ The software may only be used on the appropriate operating system in accordance 
 
 **O&O FileDirect**
 
-Amendment to: 2. Requirements for application (system requirements)  
-The software requires Windows 10 (all Editions) operating systems. Application within the terms of this contract is not achieved without the use of one of these operating systems.
+Amendment to: 1. Subject and form of delivery  
+O&O FileDirect is a web application, so installation is not necessary.
 
-Amendment to: 3. Rights of use, including test versions, unauthorized transfer, and application  
-Distribution. You may make exact, unmodified copies of this Software Product and distribute such copies solely by electronic means for example, posting on Internet sites for others to download), subject to the following (a) that the software is distributed unmodified (wrapping or packaging the software with a so-called “Installer”, “Wrapper” or similar constitutes a forbidden modification for the purposes of this contract) and in its entirety with its complete user documentation, readme files, copyright, trademark, and other indications protecting intellectual property including this license agreement, and all of its other components), and (b) that such transfer may occur anywhere in the world, except when prohibited by laws of the Federal Republic of Germany (directly or indirectly.)
+Amendment to: 2. Requirements for use (system requirements)  
+O&O FileDirect is operating system independent, i.e. accessible from any operating system, regardless of whether it is Windows, macOS, iOS, Android or Linux. A current browser is required.
 
-Amendment to: 4. Payment  
-O&O demands no fee for the use of O&O FileDirect. In addition, a fee for this license and this program may not be demanded by any Third Parties, unless this is done with the expressed approval of O&O. When in doubt, please get in touch with us. You can find our contact data at the end of this license agreement.
+Your data and authorizations  
+When using our services, you provide us with various personal data such as documents, texts, emails, contact details, etc. (hereinafter "your data"). You retain full ownership rights to your data. These terms of use only give us the necessary authorizations to provide our services to you. To access our services, you may need to register a user account; in certain cases, we may also set up an account for you to enable you to use our services.
+
+O&O FileDirect Usage Guidelines  
+By using O&O FileDirect, you agree not to misuse the O&O FileDirect services ("Services") or assist others in doing so. The following actions are violations of our Usage Guidelines and are prohibited, including attempting to do so. We are not responsible for the content that users post and share through the Services:
+
+• Circumventing or violating security or authentication measures.  
+• Breaking into, tampering with, or using non-public parts of the Services or areas to which you have not been invited.  
+• Interfering with or disrupting users, hosts, or networks, for example by sending viruses, overloading the Services, spamming, or mail bombing.  
+• Using the Services or creating Service accounts in an improper manner, such as by "scraping" or automated account creation.  
+• Sending unsolicited messages, advertisements, or spam.  
+• Submitting false or misleading identity information, including "spoofing" or "phishing".  
+• Exceeding the allocated storage capacity.  
+• Reselling the services without explicit permission or purchasing the services from unauthorized providers.  
+• Publishing, sharing or storing materials depicting sexual exploitation of minors, containing illegal pornography or unacceptable material.  
+• Providing or promoting content that includes extreme violence, terrorist acts or hate propaganda.  
+• Promoting intolerance, hatred or incitement to violence against individuals or groups based on characteristics such as religion, ethnicity, nationality, gender, sexual identity, orientation, disability or other discriminatory aspects.  
+• Harassing or insulting employees or agents of O&O FileDirect.  
+• Any unlawful behavior, including the distribution of fraudulent, defamatory or misleading material or infringement of the intellectual property rights of others.  
+• Violation of the privacy or rights of third parties, including unauthorized publication or storage of sensitive data for the purpose of harassment or harm.
+
+Use of the Services as a basis or infrastructure for your own cloud services.  
+We reserve the right to respond to violations of these guidelines with appropriate measures, including removing or blocking content, restricting access to the Services, or deactivating accounts.
+
+Age restriction: You must be at least 13 years old to use our Services if you are a resident of the United States, and 16 years old if you are a resident of another country. If the law of your place of residence requires that you be older for O&O FileDirect to legally provide you with the Services (including the use of your personal data) without older consent, you must be that age.
 
 **O&O MediaRecovery**
 
