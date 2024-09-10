@@ -78,6 +78,7 @@ English
 * [Support](https://www.kimai.org/en/support.html)
 * [Reviews](https://www.kimai.org/en/reviews)
 * [Discount codes](https://www.kimai.org/en/kimai-discount-codes)
+* [Trademark](https://www.kimai.org/en/trademark-policy.html)
 
 ###### Kimai for [Kimai](#landing-kimai-for)
 
