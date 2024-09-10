@@ -7,7 +7,7 @@ The indie market for Blender creators](https://blendermarket.com/)
 * [Become a Creator](https://blendermarket.com/become-a-creator)
 * [Popular](https://blendermarket.com/products?sort_sales=desc)
 * [New](https://blendermarket.com/products?sort_date=desc)
-* [Free](https://blendermarket.com/products?sort_price=asc)
+* [Free](https://blendermarket.com/products?sort_range=0%2C0)
 
 [0](https://blendermarket.com/cart)
 
@@ -621,4 +621,4 @@ Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.
 * [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.8.4**
+© 2024 Blender Market, LLC. All rights reserved. v**2.8.14.1**
