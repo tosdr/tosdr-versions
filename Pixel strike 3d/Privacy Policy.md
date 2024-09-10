@@ -29,6 +29,18 @@ Personal Data processed for the following purposes and using the following servi
             Personal Data: various types of Data as specified in the privacy policy of the service
             
         
+    * ### Managing support and contact requests
+        
+        * ### Request Data Deletion
+            
+        
+    * ### Registration and authentication
+        
+        * ### Facebook Authentication
+            
+            Personal Data: Trackers; various types of Data as specified in the privacy policy of the service
+            
+        
 
 Contact information
 -------------------
@@ -53,7 +65,7 @@ Vulcron - P.O. Box 3035, Elora, Ontario, Canada
 Types of Data collected
 -----------------------
 
-The owner does not provide a list of Personal Data types collected.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Trackers.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
@@ -84,7 +96,7 @@ Unless specified otherwise in this document, Personal Data shall be processed an
 The purposes of processing
 --------------------------
 
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Advertising and Hosting and backend infrastructure.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Advertising, Hosting and backend infrastructure, Registration and authentication and Managing support and contact requests.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -129,6 +141,26 @@ Personal Data is collected for the following purposes and using the following se
     Personal Data processed: various types of Data as specified in the privacy policy of the service.
     
     Place of processing: Canada – [Privacy Policy](https://aws.amazon.com/compliance/data-privacy-faq/).
+    
+* ### Managing support and contact requests
+    
+    This type of service allows this Application to manage support and contact requests received via email or by other means, such as the contact form. The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).
+    
+    #### Request Data Deletion
+    
+    To request your user data be deleted, you must direct your request to support@vulcron.com and include any relevant information.
+    
+* ### Registration and authentication
+    
+    By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services. Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third-party services, for registration or identification purposes. Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
+    
+    #### Facebook Authentication (Meta Platforms, Inc.)
+    
+    Facebook Authentication is a registration and authentication service provided by Meta Platforms, Inc. and is connected to the Facebook social network.
+    
+    Personal Data processed: Trackers; various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/policy/) – [Opt out](https://www.facebook.com/help/247395082112892).
     
 
 Further Information for Users in the European Union
@@ -252,12 +284,20 @@ The service provided by this Application as described in the relative terms (if 
 
 Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
+#### Cookie
+
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+
+#### Tracker
+
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
+
 * * *
 
 #### Legal information
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: June 09, 2022
+Latest update: September 04, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
