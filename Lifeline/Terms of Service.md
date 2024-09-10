@@ -302,7 +302,7 @@ All notices regarding copyright should be sent to the address above in the manne
 
 All other feedback, comments, requests for technical support, and other communications relating to the Website should be directed to [privacy@medicalalert.com](mailto:privacy@medicalalert.com).
 
-            
+          
 
 ### Products
 
