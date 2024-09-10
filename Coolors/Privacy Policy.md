@@ -182,7 +182,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -201,7 +201,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United Kingdom – [Privacy Policy](https://carbonrmp.com/privacy/) – [Opt out](https://carbonrmp.com/privacy/).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -220,7 +220,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -240,7 +240,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/legal/policies/privacy) – [Opt Out](https://www.hotjar.com/legal/compliance/opt-out).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -260,7 +260,7 @@ Personal Data processed: device information; Trackers; unique device identifiers
 
 Legal basis for processing: Consent.
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
 
@@ -287,7 +287,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -310,7 +310,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/94654098).
 
-Data retention period: Keeping the data as long as required by relevant national law.
+Data retention period: Keeping the Data as long as required by relevant national law.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -326,7 +326,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/36700132).
 
-Data retention period: Keeping the data as long as required by relevant national law.
+Data retention period: Keeping the Data as long as required by relevant national law.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -342,7 +342,7 @@ Personal Data processed: email address; first name; last name.
 
 Legal basis for processing: Consent.
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: identifiers.
 
@@ -365,7 +365,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -387,7 +387,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United Kingdom – [Privacy Policy](https://paddle.com/privacy-buyers/).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -409,7 +409,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -432,7 +432,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -450,7 +450,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -468,7 +468,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -491,7 +491,7 @@ Legal basis for processing: Consent.
 
 Place of processing: France – [Privacy Policy](https://www.mailjet.com/privacy-policy/).
 
-Data retention period: Keeping the data until consent is withdrawn.
+Data retention period: Keeping the Data until consent is withdrawn.
 
 Category of Personal Information collected according to the CCPA: identifiers.
 
@@ -519,7 +519,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -539,7 +539,7 @@ Place of processing: United States – [Privacy Policy.](https://www.apple.com/l
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 This processing constitutes:
 
@@ -561,7 +561,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -579,7 +579,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.apple.com/legal/privacy/).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: identifiers.
 
@@ -599,7 +599,7 @@ Personal Data processed: email address; first name; password.
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: identifiers.
 
@@ -615,7 +615,7 @@ Personal Data processed: email address; first name; geographic position; last na
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: identifiers; geolocation data; audio, electronic, visual, thermal, olfactory, or similar information; employment related information.
 
@@ -636,7 +636,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -661,7 +661,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
@@ -848,7 +848,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Geographic position, Profession, Picture, Usage data, Trackers, Universally unique identifier (uuid), Device information, Unique device identifiers for advertising (google advertiser id or idfa, for example)
+    **Personal Information collected or disclosed:** email address, first name, last name, geographic position, profession, picture, Usage Data, Trackers, Universally unique identifier (UUID), device information, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -873,7 +873,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Trackers, Usage data, Data communicated while using the service, Various types of data, Universally unique identifier (uuid), Device information, Unique device identifiers for advertising (google advertiser id or idfa, for example)
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, Trackers, Usage Data, Data communicated while using the service, various types of Data, Universally unique identifier (UUID), device information, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
     
     **Purposes:**
     
@@ -903,7 +903,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    **Personal Information collected or disclosed:** first name, last name, email address, geographic position, profession, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
@@ -921,7 +921,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Audio, electronic, visual, thermal, olfactory, or similar information
     
-    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    **Personal Information collected or disclosed:** first name, last name, email address, geographic position, profession, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
@@ -939,7 +939,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Employment related information
     
-    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    **Personal Information collected or disclosed:** first name, last name, email address, geographic position, profession, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username
     
