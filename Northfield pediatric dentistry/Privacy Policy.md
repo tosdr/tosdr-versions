@@ -26,6 +26,7 @@
         * [Dental Crowns](https://northfieldpedsdentistry.com/dental-crowns/)
     * [Sedation Dentistry](https://northfieldpedsdentistry.com/sedation-dentistry/)
     * [Laser Dentistry](https://northfieldpedsdentistry.com/soft-tissue-laser/)
+        * [Lip/Toungue Tie](https://northfieldpedsdentistry.com/lip-toungue-tie/)
     * [Emergency Care](https://northfieldpedsdentistry.com/emergency-care/)
 * [Contact Us](https://northfieldpedsdentistry.com/contact/)
 
