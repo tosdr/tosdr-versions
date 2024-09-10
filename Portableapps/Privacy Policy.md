@@ -160,6 +160,4 @@ About PortableApps.com
 Developed by [Rare Ideas, LLC](http://rareideas.com/)  |  Designed by DIVIDED and [Rare Ideas, LLC](http://rareideas.com/)  
 Donate with [Credit or Debit Card](https://portableapps.com/donate), [PayPal](https://portableapps.com/donate), [Check / Money Order](https://portableapps.com/donate), [Cryptocurrency](https://portableapps.com/donate)
 
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
-
 x
