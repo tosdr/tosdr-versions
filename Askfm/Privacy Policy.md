@@ -1,6 +1,6 @@
-See [Privacy Policy](https://about.ask.fm/legal/2023-04/en/privacy.html) effective before 2023-03-23.
+See [Privacy Policy](https://about.ask.fm/legal/2024-08/en/privacy.html) effective before 2024-08-16.
 
-Effective Date: 2023-03-23
+Effective Date: 2024-08-16
 
 1\. Important introduction to our privacy policy
 ================================================
@@ -102,13 +102,13 @@ Sometimes we may anonymize and/or de-identify information collected through the 
 
 The fact that you can send messages without other people knowing who you are is part of what makes ASKfm unique and so much fun. It means that you can ask things that you might be too embarrassed or shy to say if anyone knew it was you. People may often be more honest when they are anonymous, whether they’re asking a question anonymously, or answering a question where they don’t know who has asked it. You have the ability to decide whether to ask a question anonymously or on a named basis each time you submit a question to another user. However, this also means that when you receive questions or comments, you may not know who they come from either! Remember, as a Registered User, that even if you ask a question anonymously, our Service will still have a record of the fact that you asked the question (even if we keep this private). If you are a Guest User, we may not know who you are.
 
-11\. If I don’t register, do you still collect data on me?
-==========================================================
+11\. Does that apply to me if I am a Registered User?
+=====================================================
 
-In certain countries we allow unregistered users to ask questions. If you are not a registered user and ask a question, you must accept our terms of use and privacy policy prior to asking your question. We collect information such as your IP address. In certain countries you may be permitted to receive questions from unregistered users. If you have chosen to allow anonymous questions, you will be able to also receive questions from unregistered users by default, although you always have the option to change this in your settings. If you have chosen to not allow anonymous questions, you will have to edit your settings in order to receive questions from unregistered users, if this feature is available in your country. The ability to ask and receive unregistered questions is not available in all countries. Any abuse of the unregistered user feature will result in a ban on such users, entirely at our discretion. As a user, you can also choose to temporarily ban unregistered users, or report to us for a longer term ban to be imposed. You should exercise caution when allowing yourself to receive unregistered questions and immediately report any concerns to us. We may assist the police or other law enforcement agencies with their requests, or produce information in response to legal process where we, in good faith, believe that such disclosure is required by law, or to protect our rights and property, or the safety of individual users or the public, or where otherwise permitted by this Privacy Policy.
+Remember, as a Registered User, that even if you ask a question anonymously, our Service will still have a record of the fact that you asked the question (even if we keep this private). If you are a Guest User, we may not know who you are.
 
-12\. How do I stop receiving anonymous questions or unregistered questions?
-===========================================================================
+12\. How do I stop receiving anonymous questions?
+=================================================
 
 Some people don’t like receiving things from people if they don’t know who they are. So we provide all users with the ability to choose not to receive questions from anonymous users on the “Settings” page on the website and mobile application.
 
