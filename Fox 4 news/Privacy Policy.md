@@ -55,11 +55,9 @@ Search site
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -67,14 +65,12 @@ Search site
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -405,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1)
+ [![13 US troops killed during Afghanistan withdrawal receive Congressional Gold Medals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170419568.jpg?ve=1&tl=1)
 
- ![Argyle church's lead pastor resigns after ‘inappropriate actions’](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-CROSSTIMBERS-CHURCH-PASTOR-6P_00.00.02.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
+ ![13 US troops killed during Afghanistan withdrawal receive Congressional Gold Medals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170419568.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/13-servicemembers-killed-afghanistan-withdrawal-congressional-gold-medal-ceremony)
 
-### [Argyle church's lead pastor resigns after ‘inappropriate actions’](https://www.fox4news.com/news/cross-timbers-church-pastor-josiah-anthony-resignation)
+### [13 US troops killed during Afghanistan withdrawal receive Congressional Gold Medals](https://www.fox4news.com/news/13-servicemembers-killed-afghanistan-withdrawal-congressional-gold-medal-ceremony)
 
- [![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1)
+ [![1 dead, 1 seriously hurt in Euless crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091024-SKY4-Tuesday-1118am-KDFWEME002_11_18_50_mpg_00.09.23.38.jpg?ve=1&tl=1)
 
- ![Irving officer not seriously hurt after rollover crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/Irving-PD-rollover-CTSY-Henry-Palencia-pic3.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
+ ![1 dead, 1 seriously hurt in Euless crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091024-SKY4-Tuesday-1118am-KDFWEME002_11_18_50_mpg_00.09.23.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-dead-1-seriously-hurt-euless-crash)
 
-### [Irving officer not seriously hurt after rollover crash](https://www.fox4news.com/news/irving-officer-not-seriously-hurt-after-rollover-crash)
+### [1 dead, 1 seriously hurt in Euless crash](https://www.fox4news.com/news/1-dead-1-seriously-hurt-euless-crash)
 
- [![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1)
+ [![LIVE: Tropical Storm Francine tracker | Path, warnings, impact on Texas, Louisiana](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/download-21.png?ve=1&tl=1)
 
- ![Dallas woman warns of new jury duty scam after nearly falling for it](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/V-812-9PM-JURY-DUTY-SCAM_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
+ ![LIVE: Tropical Storm Francine tracker | Path, warnings, impact on Texas, Louisiana](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/09/32/18/592/333/download-21.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-francine-path-warnings-impact-texas-lousiana-sept-10)
 
-### [Dallas woman warns of new jury duty scam after nearly falling for it](https://www.fox4news.com/news/dallas-jury-duty-scam-call-scammers-consumer-warning)
+### [LIVE: Tropical Storm Francine tracker | Path, warnings, impact on Texas, Louisiana](https://www.fox4news.com/news/tropical-storm-francine-path-warnings-impact-texas-lousiana-sept-10)
 
- [![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/snapshot-1.jpg?ve=1&tl=1)
+ [![Dallas police shooting: Suspect with replica handgun killed by officers](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/download-20.png?ve=1&tl=1)
 
- ![Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/snapshot-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
+ ![Dallas police shooting: Suspect with replica handgun killed by officers](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/download-20.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-shooting-northwest-dallas)
 
-### [Dramatic video shows stolen pickup truck ramming Dallas police vehicles](https://www.fox4news.com/news/dallas-police-shooting-deantae-moore-video)
+### [Dallas police shooting: Suspect with replica handgun killed by officers](https://www.fox4news.com/news/dallas-police-shooting-northwest-dallas)
 
- [![Pets can smell your stress, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-1034567206.jpg?ve=1&tl=1)
+ [![Cheesy corn maque choux recipe from Nuri Steakhouse](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/091024-Chef-Mario-Hernandez-Cam7-KDFWEME001_09_48__00.07.32.52.jpg?ve=1&tl=1)
 
- ![Pets can smell your stress, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-1034567206.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
+ ![Cheesy corn maque choux recipe from Nuri Steakhouse](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/091024-Chef-Mario-Hernandez-Cam7-KDFWEME001_09_48__00.07.32.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://cheesy-corn-maque-choux-recipe-from-nuri-steakhouse/)
 
-### [Pets can smell your stress, study finds](https://www.fox4news.com/news/pets-can-smell-your-stress-study-finds)
+### [Cheesy corn maque choux recipe from Nuri Steakhouse](https://cheesy-corn-maque-choux-recipe-from-nuri-steakhouse/)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -473,11 +469,9 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -485,14 +479,12 @@ Please note that, in some instances, we may decline to honor your request where,
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
