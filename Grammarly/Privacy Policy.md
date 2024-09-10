@@ -33,17 +33,21 @@
 * Resources
     
     * Learn
-        * [Blog](https://www.grammarly.com/blog)
+        * [Blog](https://www.grammarly.com/blog/)
         * [Customer Stories](https://www.grammarly.com/business/customer-stories)
-        * [Business Events & Reports](https://www.grammarly.com/business/events-reports)
-        * [Education Events & Reports](https://www.grammarly.com/edu/events-reports)
+        * [Business Events & Resources](https://www.grammarly.com/business/events-resources)
+        * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
         * [Support Center](https://support.grammarly.com/)
     * Tools
         * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
         * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
+        * [AI Detector](https://www.grammarly.com/ai-detector)
         * [Paraphrasing Tool](https://www.grammarly.com/paraphrasing-tool)
+        * [Citation Generator](https://www.grammarly.com/citations)
     
+
+[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
 [Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
@@ -82,16 +86,18 @@
 * Resources
     
     * Learn
-        * [Blog](https://www.grammarly.com/blog)
+        * [Blog](https://www.grammarly.com/blog/)
         * [Customer Stories](https://www.grammarly.com/business/customer-stories)
-        * [Business Events & Reports](https://www.grammarly.com/business/events-reports)
-        * [Education Events & Reports](https://www.grammarly.com/edu/events-reports)
+        * [Business Events & Resources](https://www.grammarly.com/business/events-resources)
+        * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
         * [Support Center](https://support.grammarly.com/)
     * Tools
         * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
         * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
+        * [AI Detector](https://www.grammarly.com/ai-detector)
         * [Paraphrasing Tool](https://www.grammarly.com/paraphrasing-tool)
+        * [Citation Generator](https://www.grammarly.com/citations)
     
 
 [Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
@@ -316,7 +322,7 @@ Learn More
 * [Grammarly Business](https://www.grammarly.com/business)
 * [Grammarly for Education](https://www.grammarly.com/edu)
 * [Generative AI](https://www.grammarly.com/ai)
-* [Blog](https://www.grammarly.com/blog)
+* [Blog](https://www.grammarly.com/blog/)
 * [Tech Blog](https://www.grammarly.com/blog/engineering)
 * [Education Blog](https://www.grammarly.com/blog/category/education)
 * [Business Blog](https://www.grammarly.com/business/learn)
