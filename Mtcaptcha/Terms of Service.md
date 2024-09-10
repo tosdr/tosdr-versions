@@ -13,6 +13,28 @@
 
 [Try MTCaptcha Free](https://admin.mtcaptcha.com/signup/profile?plantype=C)
 
+"Advanced Threat Defense"
+
+"Comprehensive Threat Shield"
+
+"Ultimate Spam Blocker"
+
+"Effortless Integration"
+
+"Multilingual Support"
+
+"Works in China"
+
+"Top-tier CAPTCHA Service"
+
+"100% GDPR Compliant"
+
+"Top-Tier Support"
+
+"Privacy-Compliant Captcha"
+
+"Great reCaptcha Alternative"
+
 Terms and Conditions
 ====================
 
@@ -170,7 +192,7 @@ Resources
 * [Code Builder](https://service.mtcaptcha.com/mtcv1/demo/index.html)
 * [Developer Guide](https://www.mtcaptcha.com/dev-guide-quickstart)
 * [Terms](https://www.mtcaptcha.com/legal-terms)
-* [Captcha Privacy](https://www.mtcaptcha.com/legal-privacy-captcha)
+* [Captcha Privacy](https://www.mtcaptcha.com/legal-privacy-captcha-old)
 * [All Legals](https://www.mtcaptcha.com/legals)
 
 Copyright © 2024 Sun Spray Technologies LLC
