@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-![U.S. flag](/themes/custom/sba/dist/uswds/img/us_flag_small.png)
+![](/themes/custom/sba/dist/uswds/img/us_flag_small.png)
 
 An official website of the United States government
 
@@ -16,7 +16,7 @@ A **.gov** website belongs to an official government organization in the United 
 ![](/themes/custom/sba/dist/uswds/img/icon-https.svg)
 
 **Secure .gov websites use HTTPS**  
-A **lock** ( Lock A locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
  [![SBA Home](/themes/custom/sba/dist/img/logo-horizontal.svg)](https://www.sba.gov/)
 
@@ -86,6 +86,7 @@ Primary Navigation
         * [Lender Match](https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders)
         * [COVID-19 relief options](https://www.sba.gov/funding-programs/loans/covid-19-relief-options)
     * [Investment capital](https://www.sba.gov/funding-programs/investment-capital)
+        * [SBIC directory](https://www.sba.gov/funding-programs/investment-capital/sbic-directory)
     * [Disaster assistance](https://www.sba.gov/funding-programs/disaster-assistance)
         * [Physical damage loans](https://www.sba.gov/funding-programs/disaster-assistance/physical-damage-loans)
         * [Mitigation assistance](https://www.sba.gov/funding-programs/disaster-assistance/mitigation-assistance)
@@ -93,6 +94,7 @@ Primary Navigation
         * [Military reservist loan](https://www.sba.gov/funding-programs/disaster-assistance/military-reservist-loan)
         * [Hawaii wildfires](https://www.sba.gov/hawaii-wildfires)
     * [Surety bonds](https://www.sba.gov/funding-programs/surety-bonds)
+        * [Surety bond agency directory](https://www.sba.gov/funding-programs/surety-bonds/surety-bond-agency-directory)
     * [Grants](https://www.sba.gov/funding-programs/grants)
         * [State Trade Expansion Program (STEP)](https://www.sba.gov/funding-programs/grants/state-trade-expansion-program-step)
         * [Grants for community organizations](https://www.sba.gov/funding-programs/grants/grants-community-organizations)
@@ -191,8 +193,8 @@ Primary Navigation
         * [Contact SBA](https://www.sba.gov/about-sba/organization/contact-sba)
         * [SBA initiatives](https://www.sba.gov/about-sba/organization/sba-initiatives)
         * [Forms and documents](https://www.sba.gov/documents)
-        * [Performance](https://www.sba.gov/about-sba/organization/performance)
         * [Observances](https://www.sba.gov/about-sba/organization/observances)
+        * [Performance](https://www.sba.gov/about-sba/organization/performance)
         * [Federal advisory committees](https://www.sba.gov/about-sba/organization/federal-advisory-committees)
     * [Oversight and advocacy](https://www.sba.gov/about-sba/oversight-advocacy)
         * [Office of Hearings and Appeals](https://www.sba.gov/about-sba/oversight-advocacy/office-hearings-appeals)
