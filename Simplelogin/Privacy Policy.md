@@ -13,7 +13,7 @@
         Read, review our code, share ideas. Make sure that SimpleLogin is doing what it says.](https://github.com/simple-login/app)
     * [Forum
         
-        Discuss about new features, ask questions, share best practices, etc.](https://forum.simplelogin.io/)
+        Discuss about new features, ask questions, share best practices, etc.](https://github.com/simple-login/app/discussions)
     
     ##### Comparisons
     
@@ -186,7 +186,7 @@ SimpleLogin is the product of [Proton AG](https://proton.me/), registered in Swi
 ### Resources
 
 * [FAQ](https://simplelogin.io/faq/)
-* [Forum](https://forum.simplelogin.io/)
+* [Forum](https://github.com/simple-login/app/discussions)
 * [Documentation](https://simplelogin.io/docs/)
 * [Report abuse](https://simplelogin.io/docs/report-abuse/)
 * [Report blocking website](https://simplelogin.io/docs/report-blocking-website/)
