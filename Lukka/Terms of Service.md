@@ -9,7 +9,7 @@
 * Solutions
     * [Lukka Insights](https://lukka.tech/solutions/lukka-insights/)
     * Lukka Enterprise SaaS
-        * [Enterprise Saas Data Management](https://lukka.tech/solutions/enterprise-saas-data-management/)
+        * [Enterprise Data Management](https://lukka.tech/solutions/enterprise-data-management/)
         * [Enterprise Tax and/or Business Reporting](https://lukka.tech/solutions/tax-and-or-business-reporting/)
         * [Core-banking Augmentation SaaS Solutions](https://lukka.tech/solutions/core-banking-augmentation-saas-solutions/) 
         * [Custom SaaS Implementations](https://lukka.tech/solutions/custom-saas-implementations/)
@@ -30,7 +30,6 @@
         * [Normalized & Consolidated Market Data](https://lukka.tech/solutions/normalized-consolidated-market-data/)
         * [Lukka VWAPs](https://lukka.tech/solutions/vwaps/)
         * [Custom Pricing Data](https://lukka.tech/solutions/custom-pricing-data/)
-        * [Custom Derivatives Valuations](https://lukka.tech/solutions/custom-derivatives-valuations/)
     * Quantitative Risk & Analytics Data
         * [Implied Volatility Surfaces](https://lukka.tech/solutions/implied-volatility-surfaces/)
         * [Implied Interest Rates](https://lukka.tech/solutions/implied-interest-rates/)
@@ -57,7 +56,7 @@ Menu
 * Solutions
     * [Lukka Insights](https://lukka.tech/solutions/lukka-insights/)
     * Lukka Enterprise SaaS
-        * [Enterprise Saas Data Management](https://lukka.tech/solutions/enterprise-saas-data-management/)
+        * [Enterprise Data Management](https://lukka.tech/solutions/enterprise-data-management/)
         * [Enterprise Tax and/or Business Reporting](https://lukka.tech/solutions/tax-and-or-business-reporting/)
         * [Core-banking Augmentation SaaS Solutions](https://lukka.tech/solutions/core-banking-augmentation-saas-solutions/) 
         * [Custom SaaS Implementations](https://lukka.tech/solutions/custom-saas-implementations/)
@@ -78,7 +77,6 @@ Menu
         * [Normalized & Consolidated Market Data](https://lukka.tech/solutions/normalized-consolidated-market-data/)
         * [Lukka VWAPs](https://lukka.tech/solutions/vwaps/)
         * [Custom Pricing Data](https://lukka.tech/solutions/custom-pricing-data/)
-        * [Custom Derivatives Valuations](https://lukka.tech/solutions/custom-derivatives-valuations/)
     * Quantitative Risk & Analytics Data
         * [Implied Volatility Surfaces](https://lukka.tech/solutions/implied-volatility-surfaces/)
         * [Implied Interest Rates](https://lukka.tech/solutions/implied-interest-rates/)
@@ -107,7 +105,7 @@ Menu
 * Solutions
     * [Lukka Insights](https://lukka.tech/solutions/lukka-insights/)
     * Lukka Enterprise SaaS
-        * [Enterprise Saas Data Management](https://lukka.tech/solutions/enterprise-saas-data-management/)
+        * [Enterprise Data Management](https://lukka.tech/solutions/enterprise-data-management/)
         * [Enterprise Tax and/or Business Reporting](https://lukka.tech/solutions/tax-and-or-business-reporting/)
         * [Core-banking Augmentation SaaS Solutions](https://lukka.tech/solutions/core-banking-augmentation-saas-solutions/) 
         * [Custom SaaS Implementations](https://lukka.tech/solutions/custom-saas-implementations/)
@@ -129,7 +127,6 @@ Menu
         * [Lukka VWAP](https://lukka.tech/solutions/vwaps/)
         * [Custom Pricing Data](https://lukka.tech/solutions/custom-pricing-data/)
         * [Insights](https://lukka.tech/insights/)
-        * [Custom Derivatives Valuations](https://lukka.tech/solutions/custom-derivatives-valuations/)
     * Quantitative Risk & Analytics Data
         * [Implied Volatility Surfaces](https://lukka.tech/solutions/implied-volatility-surfaces/)
         * [Implied Interest Rates](https://lukka.tech/solutions/implied-interest-rates/)
@@ -157,7 +154,7 @@ Menu
 * Solutions
     * [Lukka Insights](https://lukka.tech/solutions/lukka-insights/)
     * Lukka Enterprise SaaS
-        * [Enterprise Saas Data Management](https://lukka.tech/solutions/enterprise-saas-data-management/)
+        * [Enterprise Data Management](https://lukka.tech/solutions/enterprise-data-management/)
         * [Enterprise Tax and/or Business Reporting](https://lukka.tech/solutions/tax-and-or-business-reporting/)
         * [Core-banking Augmentation SaaS Solutions](https://lukka.tech/solutions/core-banking-augmentation-saas-solutions/) 
         * [Custom SaaS Implementations](https://lukka.tech/solutions/custom-saas-implementations/)
@@ -179,7 +176,6 @@ Menu
         * [Lukka VWAP](https://lukka.tech/solutions/vwaps/)
         * [Custom Pricing Data](https://lukka.tech/solutions/custom-pricing-data/)
         * [Insights](https://lukka.tech/insights/)
-        * [Custom Derivatives Valuations](https://lukka.tech/solutions/custom-derivatives-valuations/)
     * Quantitative Risk & Analytics Data
         * [Implied Volatility Surfaces](https://lukka.tech/solutions/implied-volatility-surfaces/)
         * [Implied Interest Rates](https://lukka.tech/solutions/implied-interest-rates/)
