@@ -23,13 +23,11 @@
 
 [News](http://www.litemanager.com/news/ "News")
 
-05 January 2024
+30 August 2024
 
-[LiteManager 5.1 for Linux, Mac OS, Android with inbuilt LM Server and NOIP.](http://www.litemanager.com/news/litemanager_5.0/ "LiteManager 5.1 for Linux, Mac OS, Android with inbuilt LM Server and NOIP.")
+[LiteManager 5.2 Two-factor authentication](http://www.litemanager.com/news/litemanager_5.0/ "LiteManager 5.2 Two-factor authentication")
 
-Control remotely your Linux and Mac, available remote screen and files modes. Android screen in view only mode.
-
-Built-in NOIP for Linux.
+Two-factor authentication (authorization) on the LM server using an LM code via email, via your personal SMTP server. New console app for Linux (daemon).
 
 05 August 2022
 
