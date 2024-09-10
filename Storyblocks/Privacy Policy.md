@@ -83,6 +83,7 @@ Use Cases
 * [Marketing Teams](https://www.storyblocks.com/business-solutions/marketing)
 * [Creative Agencies](https://www.storyblocks.com/business-solutions/agencies)
 * [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
+* [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
 
 Start The Conversation
 
@@ -311,21 +312,15 @@ Arlington, Virginia 22201
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=e7fb3d1e4da14573bd2a1edb7bfee5f1)
 
-**Stock Media** ![](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/chevron.svg)
-
-Explore popular [Video](https://www.storyblocks.com/video), [Audio](https://www.storyblocks.com/audio), and [Images](https://www.storyblocks.com/images) content.
-
 [Stock Video](https://www.storyblocks.com/video)
 
 * [Stock Footage](https://www.storyblocks.com/video/footage)
-* [Green Screen Footage](https://www.storyblocks.com/video/footage/green-screen)
-* [Animated Backgrounds](https://www.storyblocks.com/video/motion-backgrounds)
 * [After Effects Templates](https://www.storyblocks.com/video/templates/after-effects)
-* [After Effects Intro Templates](https://www.storyblocks.com/video/templates/after-effects/intros)
-* [After Effects Lower Thirds Templates](https://www.storyblocks.com/video/templates/after-effects/lower-thirds)
+* [Animated Backgrounds](https://www.storyblocks.com/video/motion-backgrounds)
 * [Premiere Pro Templates](https://www.storyblocks.com/video/templates/premiere-pro)
-* [DaVinci Resolve Templates](https://www.storyblocks.com/video/templates/davinci-resolve)
 * [Apple Motion Templates](https://www.storyblocks.com/video/templates/apple-motion)
+* [DaVinci Resolve Templates](https://www.storyblocks.com/video/templates/davinci-resolve)
+* [Templates](https://www.storyblocks.com/video/templates)
 
 [Stock Audio](https://www.storyblocks.com/audio)
 
@@ -338,71 +333,48 @@ Explore popular [Video](https://www.storyblocks.com/video), [Audio](https://www.
 * [Vectors](https://www.storyblocks.com/images/vectors)
 * [Illustrations](https://www.storyblocks.com/images/illustrations)
 
-Collections
-
-* [Video](https://www.storyblocks.com/video/collections)
-* [Audio](https://www.storyblocks.com/audio/collections)
-* [Images](https://www.storyblocks.com/images/collections)
-* [Re:Stock - Diverse Footage](https://www.storyblocks.com/diverse-stock-footage)
-
 Creative Tools
 
-* [Adobe Creative Cloud Plugin](https://www.storyblocks.com/adobe-creative-cloud-plugin)
+* [Creative Cloud Plugin](https://www.storyblocks.com/adobe-creative-cloud-plugin)
 * [Maker](https://www.storyblocks.com/maker)
 * [Maker for Teams](https://www.storyblocks.com/maker-for-teams)
 
-Series
+**Business Solutions**
 
-* [Anatomy of a Story](https://www.storyblocks.com/series/anatomy-of-a-story)
-* [Partnered](https://www.storyblocks.com/series/partnered)
-* [Greater Than Views](https://www.storyblocks.com/series/greater-than-views)
-* [Video Strategy Guide](https://www.storyblocks.com/business-solutions/contemporary-video-strategy-guide)
+* [Storyblocks for Business](https://www.storyblocks.com/business-solutions)
+* [Storyblocks for Education](https://www.storyblocks.com/business-solutions/education)
+* [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
+* [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
+* [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
+
+**Plans & Pricing**
+
+* [Membership Plans](https://www.storyblocks.com/pricing)
+* [Individual License](https://www.storyblocks.com/license/individual-license)
+* [Business License](https://www.storyblocks.com/Business)
 
 * * *
 
-**Company** ![](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/chevron.svg)
+**Company**
 
 * [About Us](https://www.storyblocks.com/about)
 * [Become a Contributor](https://contribute.storyblocks.com/)
-* [Careers](https://www.wearestoryblocks.com/#careers)
+* [Careers](https://www.storyblocks.com/careers)
 * [Blog](https://www.storyblocks.com/resources/blog)
 * [Site Map](https://www.storyblocks.com/sitemap)
 * [YouTube Solutions](https://www.storyblocks.com/business-solutions/youtube)
 
-**Plans & Pricing** ![](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/chevron.svg)
-
-* [Membership Plans](https://www.storyblocks.com/pricing)
-* [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
-
-**Business Solutions** ![](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/chevron.svg)
-
-* [Storyblocks for Business](https://www.storyblocks.com/business-solutions)
-* [Storyblocks for Education](https://www.storyblocks.com/business-solutions/education)
-* [Maker for Teams](https://www.storyblocks.com/maker-for-teams)
-* [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
-* [Storyblocks API Status Page](https://storyblocks.statuspage.io/)
-
-**Customer Support** ![](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/chevron.svg)
+**Support**
 
 * [Contact Us](mailto:support@storyblocks.com)
 * [FAQs](https://help.storyblocks.com/)
-
-* [![Twitter Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/twitter-icon.png)](https://twitter.com/StoryblocksCo)
-* [![LinkedIn Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/linkedin-icon.png)](https://www.linkedin.com/company/storyblocks/)
-* [![Facebook Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/facebook-icon.png)](https://www.facebook.com/storyblocks/)
-* [![Instagram Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/instagram-icon.png)](https://www.instagram.com/StoryblocksCo/)
-* [![YouTube Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/youtube-icon.png)](https://www.youtube.com/channel/UCrxwwZTQOPCTUVlHsjNU7Fw)
-
-![Storyblocks logo](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/logos/storyblocks.svg)
-
-* [![Twitter Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/twitter-icon.png)](https://twitter.com/StoryblocksCo)
-* [![LinkedIn Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/linkedin-icon.png)](https://www.linkedin.com/company/storyblocks/)
-* [![Facebook Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/facebook-icon.png)](https://www.facebook.com/storyblocks/)
-* [![Instagram Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/instagram-icon.png)](https://www.instagram.com/StoryblocksCo/)
-* [![Youtube Icon](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/footer/youtube-icon.png)](https://www.youtube.com/channel/UCrxwwZTQOPCTUVlHsjNU7Fw)
-
 * [Privacy Policy](https://www.storyblocks.com/privacy)
 * [Terms of Use](https://www.storyblocks.com/terms-of-service)
-* [Individual License](https://www.storyblocks.com/license/individual-license)
-* [Business License](https://www.storyblocks.com/license/business-license)
-* © 2024 [Storyblocks.com](https://www.storyblocks.com/)
+
+* [](https://twitter.com/StoryblocksCo)
+* [](https://www.linkedin.com/company/storyblocks/)
+* [](https://www.facebook.com/storyblocks/)
+* [](https://www.instagram.com/StoryblocksCo/)
+* [](https://www.youtube.com/channel/UCrxwwZTQOPCTUVlHsjNU7Fw)
+
+© 2024 [Storyblocks](https://www.storyblocks.com/)
