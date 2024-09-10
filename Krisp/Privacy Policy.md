@@ -1,6 +1,6 @@
 [![Krisp Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2088%2041%22%3E%3C/svg%3E)](https://krisp.ai/)
 
-* [Features](javascript:void(0))
+* [Products](javascript:void(0))
     
     **For individuals and teams**
     
@@ -11,16 +11,19 @@
     
     **For enterprise and call centers**
     
-    * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/noise-cancellation/)
+    * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/call-center-noise-cancellation/)
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
-    * [Speech-to-Text and Recordings Securely converts the agent-customer calls into text for further on-premises processing](https://krisp.ai/speech-to-text-call-center/)
+    * [AI Live Interpreter Provides affordable, instant, and reliable AI-powered real-time voice translation for call centers.](https://krisp.ai/ai-interpreter/)
+    * [AI Agent Copilot Transcribes the call in real-time and generates AI summaries, allowing the agents to focus on the customer.](https://krisp.ai/ai-agent-copilot/)
+    * [Speech-to-Text API Securely converts the agent-customer calls into text for further on-premises processing.](https://krisp.ai/speech-to-text-call-center/)
+    * [Call Recording API Automatically integrates with all CX and voice platforms and allows you to record all customer calls.](https://krisp.ai/call-recorder/)
     
-* [Use cases](javascript:void(0))
+* [Use Cases](javascript:void(0))
     
     * [Individuals and Freelancers No distractions: clear calls accompanied by transcriptions and meeting notes.](https://krisp.ai/individuals-freelancers/)
     * [Hybrid Work Elevating hybrid teams with clear communication and solid accountability.](https://krisp.ai/hybrid-work/)
     * [Sales and Success Focus on selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
-    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
+    * [SDK and developers Integrate Krisp's award winning voice AI technologies into your product.](https://krisp.ai/developers/)
     * [Call Center (BPO) Elevated CX and AX accompanied with the AI-powered Noise Cancellation, Transcription, etc.](https://krisp.ai/contact-center/)
     * [Call Center (Enterprise) Award-winning Voice AI solutions designed to elevate customer and agent experience.](https://krisp.ai/contact-center/)
     * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
@@ -37,9 +40,9 @@ Get Krisp for free
 
 [Sign in](https://app.krisp.ai/login)
 
-* [Features](javascript:void(0))
+* [Products](javascript:void(0))
     
-    Features
+    Products
     
     **For individuals and teams**
     
@@ -48,20 +51,23 @@ Get Krisp for free
     * [AI Meeting Notes and Summary Generates meeting notes, summaries and action items from meetings.](https://krisp.ai/ai-meeting-assistant/)
     * [Meeting Recording Automatically records meetings across all communication apps.](https://krisp.ai/meeting-recording/)
     
-    **For enterprise and call centers**
+    **For call centers and enterprises**
     
-    * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/noise-cancellation/)
+    * [AI Noise Cancellation Removes background noises, voices and echoes from customer calls.](https://krisp.ai/call-center-noise-cancellation/)
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
-    * [Speech-to-Text and Recordings Securely converts the agent-customer calls into text for further on-premises processing](https://krisp.ai/speech-to-text-call-center/)
+    * [AI Live Interpreter Provides affordable, instant, and reliable AI-powered real-time voice translation for call centers.](https://krisp.ai/ai-interpreter/)
+    * [AI Agent Copilot Transcribes the call in real-time and generates AI summaries, allowing the agents to focus on the customer.](https://krisp.ai/ai-agent-copilot/)
+    * [Speech-to-Text API Securely converts the agent-customer calls into text for further on-premises processing.](https://krisp.ai/speech-to-text-call-center/)
+    * [Call Recording API Automatically integrates with all CX and voice platforms and allows you to record all customer calls.](https://krisp.ai/call-recorder/)
     
-* [Use cases](javascript:void(0))
+* [Use Cases](javascript:void(0))
     
-    Use cases
+    Use Cases
     
     * [Individuals and Freelancers No distractions: clear calls accompanied by transcriptions and meeting notes.](https://krisp.ai/individuals-freelancers/)
-    * [Hybrid Work Elevating Hybrid Teams with clear communication and solid accountability.](https://krisp.ai/hybrid-work/)
-    * [Sales and Success Focus on Selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
-    * [SDK and developers Integrate Krisp’s award winning voice AI technologies into your product.](https://krisp.ai/developers/)
+    * [Hybrid Work Elevating hybrid teams with clear communication and solid accountability.](https://krisp.ai/hybrid-work/)
+    * [Sales and Success Focus on selling while our AI maximizes your voice quality and takes meeting notes.](https://krisp.ai/sales/)
+    * [SDK and developers Integrate Krisp's award winning voice AI technologies into your product.](https://krisp.ai/developers/)
     * [Call Center (BPO) Elevated CX and AX accompanied with the AI-powered Noise Cancellation, Transcription, etc.](https://krisp.ai/contact-center/)
     * [Call Center (Enterprise) Award-winning Voice AI solutions designed to elevate customer and agent experience.](https://krisp.ai/contact-center/)
     * [Professional Services Clear calls, no distractions: let AI transcribe and summarize your consultations.](https://krisp.ai/professional-services/)
@@ -128,11 +134,11 @@ What personal information we collect and process depends on how and why you use 
 
 * Indirectly, through automated technologies such as cookies, or from third parties.
 
-**PLEASE NOTE AT THE OUTSET THAT COMPANY DOES NOT HAVE ACCESS TO OR STORE ANY AUDIO DATA, EXCEPT WE STORE VOICE CONTENT ON OUR SERVERS WHEN THE KRISP RECORDING FEATURE IS ON. EXCEPT AS PROVIDED HEREIN, COMPANY PROCESSES MICROPHONE/SPEAKER AUDIO DATA ONLY ON USERS’ DEVICES. THIS DATA DOES NOT LEAVE THE USERS’ DEVICES AND COMPANY DOES NOT HAVE ACCESS TO THE CONTENT OF CUSTOMER AND AUTHORIZED USER CONVERSATIONS.**
+**PLEASE NOTE AT THE OUTSET THAT COMPANY DOES NOT HAVE ACCESS TO OR STORE ANY AUDIOVISUAL DATA, EXCEPT WE MAY STORE VOICE AND/OR VIDEO CONTENT ON OUR SERVERS WHEN THE KRISP RECORDING FEATURE IS ON. EXCEPT AS PROVIDED HEREIN, COMPANY PROCESSES MICROPHONE/SPEAKER AUDIO DATA ONLY ON USERS’ DEVICES. THIS DATA DOES NOT LEAVE THE USERS’ DEVICES AND COMPANY DOES NOT HAVE ACCESS TO THE CONTENT OF CUSTOMER AND AUTHORIZED USER CONVERSATIONS.**
 
 **MEETING NOTES FEATURE, WHICH INCLUDES MEETING TRANSCRIPTS, AND MEETING SUMMARIES, IS AVAILABLE FOR KRISP AI MEETING ASSISTANT PRODUCT USERS. YOU ACKNOWLEDGE AND AGREE THAT WE MAY STORE THE MEETING TRANSCRIPTS ON OUR SERVERS IN ORDER TO ENABLE THE FULL FUNCTIONALITY OF THE MEETING NOTES FEATURE. WE MAY SHARE YOUR MEETING TRANSCRIPTS WITH THIRD PARTY SERVICE PROVIDERS IN ORDER TO PROVIDE YOU WITH AI-GENERATED MEETING SUMMARIES, WHICH MAY ALSO BE STORED BY US. THE LIST OF OUR CURRENT THIRD PARTY SERVICE PROVIDERS IS AVAILABLE [HERE](https://krisp.ai/privacy-for-humans/#where-does-your-data-go-outside-of-krisp) AND SUCH THIRD PARTY’S TERMS ALSO APPLY TO YOUR USE OF THE MEETING NOTES FEATURE. PLEASE NOTE THAT YOU MAY OPT OUT OF THE MEETING NOTES FEATURE FROM THE KRISP APP.**
 
-**WHEN THE KRISP RECORDING AND MEETING NOTES FEATURES ARE ON, WE STORE SUCH RECORDINGS AND MEETING NOTES ONLY IN CONNECTION WITH PROVIDING SERVICES TO THE CUSTOMER – WE DO NOT MONITOR, SELL OR USE SUCH CONTENT FOR ANY PURPOSE AND WE DO NOT CONTROL HOW RECORDINGS AND MEETING NOTES ARE PROCESSED. THE CUSTOMER, RATHER THAN COMPANY, CONTROLS HOW SUCH CONTENT IS PROCESSED. ANY QUESTIONS ABOUT THE PROCESSING OF SUCH CONTENT SHOULD BE ADDRESSED TO THE CUSTOMER DIRECTLY.**
+**WHEN THE KRISP RECORDING AND MEETING NOTES FEATURES ARE ON, WE STORE SUCH **AUDIO AND/OR VIDEO** RECORDINGS AND MEETING NOTES ONLY IN CONNECTION WITH PROVIDING SERVICES TO THE CUSTOMER – WE DO NOT MONITOR, SELL OR USE SUCH CONTENT FOR ANY PURPOSE AND WE DO NOT CONTROL HOW RECORDINGS AND MEETING NOTES ARE PROCESSED. THE CUSTOMER, RATHER THAN COMPANY, CONTROLS HOW SUCH CONTENT IS PROCESSED. ANY QUESTIONS ABOUT THE PROCESSING OF SUCH CONTENT SHOULD BE ADDRESSED TO THE CUSTOMER DIRECTLY.**
 
 **WE HAVE [ROBUST ACCESS CONTROLS](https://krisp.ai/security-for-ai-meeting-assistant/) TO PREVENT UNAUTHORIZED ACCESS TO RECORDINGS AND/OR MEETING NOTES STORED ON COMPANY SERVERS. UNLESS OTHERWISE PROVIDED HEREIN, WE STORE RECORDINGS AND/OR MEETING NOTES UNTIL YOU INSTRUCT US TO DELETE THE RECORDINGS, MEETING NOTES AND/OR YOUR ACCOUNT WITH COMPANY. YOU CAN CONTACT [\[email protected\]](https://krisp.ai/cdn-cgi/l/email-protection) TO REQUEST RECORDINGS AND/OR MEETING NOTES DELETION.**
 
@@ -181,8 +187,7 @@ In some instances, we process personal information from third parties. This cons
 
 From time to time, we may combine information we collect as described above with personal information we obtain from third parties. For example, we may combine information entered through a Company sales submission with information that we receive from a third-party sales intelligence platform to enhance our ability to market Krisp to Customers or potential Customers.
 
-We may receive information about you when you integrate third-party apps, or link a third-party service with Krisp. ​​If you decide to activate an integration, the third-party may share with us some information about you that is required to ensure your experience is more seamless, such as your name, email address, or other content or information needed to facilitate the integration. For example, you may authorize Krisp to connect with a third-party calendaring service or to sync a contact list or address book so that your meetings and connections are available to you through Krisp. We may share such information with our third party service providers for the sole purpose of providing Krisp to you and only in accordance with the terms of this Privacy Policy. The information we receive when you link or integrate Krisp with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with Krisp. Additionally, if you sign up or login to Krisp using a third party authentication provider supported by us, we may collect authentication information provided to us by such a provider to allow you to log in. Please note, that no information obtained through such third-party apps or services (e.g. Google Workspace APIs) is used to develop, improve, or train generalized AI and/or ML models. Additionally, when obtaining information  
-from Google APIs, our use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy) , including the Limited Use requirements.
+We may receive information about you when you integrate third-party apps, or link a third-party service with Krisp. ​​If you decide to activate an integration, the third-party may share with us some information about you that is required to ensure your experience is more seamless, such as your name, email address, or other content or information needed to facilitate the integration. For example, you may authorize Krisp to connect with a third-party calendaring service or to sync a contact list or address book so that your meetings and connections are available to you through Krisp. We may share such information with our third party service providers for the sole purpose of providing Krisp to you and only in accordance with the terms of this Privacy Policy. The information we receive when you link or integrate Krisp with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with Krisp. Additionally, if you sign up or login to Krisp using a third party authentication provider supported by us, we may collect authentication information provided to us by such a provider to allow you to log in. Please note, that no information obtained through such third-party apps or services (e.g. Google Workspace APIs) is used to develop, improve, or train generalized AI and/or ML models. Additionally, when obtaining information from Google APIs, our use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 #### Information We Process on Behalf of Our Customers
 
@@ -372,14 +377,17 @@ If you have questions about data protection, or if you have any requests for res
 Krisp Technologies, Inc.   
 2342 Shattuck Ave, #367, Berkeley, CA 94704, United States [\[email protected\]](https://krisp.ai/cdn-cgi/l/email-protection) 
 
-**Features**
+**Products**
 
 * [AI Noise Cancellation](https://krisp.ai/noise-cancellation/)
 * [Meeting Transcription](https://krisp.ai/meeting-transcription/)
 * [AI Meeting Notes and Summary](https://krisp.ai/ai-meeting-assistant/)
+* [Meeting Recording](https://krisp.ai/meeting-recording/)
 * [AI Accent Localization](https://krisp.ai/accent-localization/)
-* [Call Center Transcription](https://krisp.ai/call-center-transcription/)
-* [Meeting recording](https://krisp.ai/meeting-recording/)
+* [AI Live Interpreter](https://krisp.ai/ai-interpreter/)
+* [AI Agent Copilot](https://krisp.ai/ai-agent-copilot/)
+* [Speech-to-Text API](https://krisp.ai/speech-to-text-call-center/)
+* [Call Recording API](https://krisp.ai/call-recorder/)
 
 **Use Cases**
 
@@ -409,7 +417,7 @@ Krisp Technologies, Inc. 
 * [Accessibility](https://krisp.ai/accessibility-commitment/)
 * [Cookie policy](https://krisp.ai/cookie-policy/)
 
-**Help & Connect**
+**Help & connect**
 
 * [Help center](https://help.krisp.ai/hc/en-us)
 *  [![krisp](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E)Facebook](https://www.facebook.com/krispHQ/)
@@ -420,9 +428,9 @@ Krisp Technologies, Inc. 
 © 2024 Krisp Technologies, Inc. All rights reserved.  
 2150 Shattuck Ave, Penthouse 1300, Berkeley, California 94704, United States
 
-[Request a demo](https://krisp.ai/pricing/?contact=1)
+[Book a demo](https://krisp.ai/pricing/?contact=1)
 
-[Download app](https://app.krisp.ai/apps)
+[Get Krisp for free](https://app.krisp.ai/apps)
 
 ![Close modal](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3C/svg%3E)
 
