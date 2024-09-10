@@ -101,6 +101,7 @@ Reject Cookies
         * [Introduction and Search](https://www.nrla.org.uk/training-academy)
         * [Training & Events Dashboard](https://www.nrla.org.uk/account/training-and-events)
         * [Local Authorities](https://www.nrla.org.uk/training-academy/local-authorities)
+        * [Social Housing Courses](https://www.nrla.org.uk/training-academy/social-housing-courses)
     * Categories
         
         * [Core Courses](https://www.nrla.org.uk/training-academy/core-courses)
@@ -117,8 +118,13 @@ Reject Cookies
         * [Mix, Match & Save](https://www.nrla.org.uk/training-academy/mix-match-save)
     * Info & Accreditation
         
-        * [Overview](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/accreditation-overview)
-        * [Dashboard](https://www.nrla.org.uk/training-academy/accreditation)
+        * [Accreditation Overview](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/accreditation-overview)
+        * [How Does It Work](https://www.nrla.org.uk/training-academy/accreditation/how-does-it-work)
+        * [Terms & Conditions](https://www.nrla.org.uk/training-academy/accreditation/termsandconditions)
+        * [Accreditation Dashboard](https://www.nrla.org.uk/training-academy/accreditation)
+        * [Core CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/core-cpd-guide)
+        * [Standard CPD Guide](https://www.nrla.org.uk/training-academy/accreditation/standard-cpd-guide)
+        * [Accreditation Preferences](https://www.nrla.org.uk/training-academy/accreditation/preferences)
         * [Log CPD](https://www.nrla.org.uk/training-academy/accreditation/cpd-activities/add)
     
 * Wales
@@ -144,6 +150,7 @@ Reject Cookies
     
     * Major Campaigns
         
+        * [Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill)
         * [General Election](https://www.nrla.org.uk/campaigns/general-election)
         * [Adaptations](https://www.nrla.org.uk/campaigns/adaptations)
         * [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency)
@@ -214,7 +221,6 @@ Reject Cookies
         * [Bulletin](https://www.nrla.org.uk/news/monthly-bulletin)
         * [Property Magazine](https://www.nrla.org.uk/news/property-magazine)
         * [Podcast](https://www.nrla.org.uk/news/listen-up-landlords-podcast)
-        * [Videos](https://www.nrla.org.uk/news/videos)
         * [Events](https://www.nrla.org.uk/news/events)
     * Media
         
@@ -493,11 +499,10 @@ For queries or comments about NRLA Membership and our services, please contact u
 
 **Document Control**
 
-|     |     |     |
+| Version | Summary of Changes | Date |
 | --- | --- | --- |
-| **VERSION** | **SUMMARY OF CHANGES** | **DATE** |
 | 1.0 | First controlled issue | 01.08.2022 |
-| 1.1 | New section on unacceptable behaviour added. Minor addition and reposition of how to contact us section. | 17.04.2023 |
+| 1.1 | New section on unacceptable behaviour added. Minor addition and reposition of how to contact us section. | 17.04.2023 |
 | 1.2 | Changes to Who We Are section to include addition of Safe2 and change of registered address | 02.04.2024 |
 
 [Membership Terms
@@ -533,3 +538,11 @@ The home for landlords
 * [Cookies](https://www.nrla.org.uk/about-us/cookie-policy)
 
 [](https://www.facebook.com/NRLANews/)[](https://twitter.com/NRLAssociation)[](https://www.linkedin.com/company/nrlassociation)[](https://www.instagram.com/nrla_news/)[](https://www.youtube.com/channel/UCq0GyQVlSuEupGKxFUqqWbw)
+
+[![](/image/6014:5e4cbe4e2dc627d8f7be15799b3f8504c4894e816c9761390bdb364e88cf6c83:750:200)](https://www.nrla.org.uk/join)
+
+Hide
+
+[Join  
+the  
+NRLA](https://www.nrla.org.uk/join) More
