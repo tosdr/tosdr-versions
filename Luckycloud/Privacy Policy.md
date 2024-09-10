@@ -2643,10 +2643,20 @@ Choose a product Communication Tools Chat & Meeting
 
 Total costs / month
 
-![Icon of two speech bubbles. A cloud with three asterisks is superimposed over them in the center.](/build/images/components/product-catalog/Gruppe603.0626e1aa.svg)
+![Icon of two speech bubbles. A cloud with three asterisks is superimposed over them in the center.](/build/images/components/product-catalog/gruppe_calc.b187eb73.svg)
+
+Total costs  
+Memory / month
+
+![Icon of two speech bubbles. A cloud with three asterisks is superimposed over them in the center.](/build/images/components/product-catalog/Gruppe609.755543f9.svg)
 
 Total costs  
 Person(s) / month
+
+![Icon of two speech bubbles. A cloud with three asterisks is superimposed over them in the center.](/build/images/components/product-catalog/Gruppe603.0626e1aa.svg)
+
+Total costs  
+Connections
 
  ![White circle with white arrow in it going from left to right.](/build/images/components/product-catalog/button-arrow-white.4f6d7936.svg) Free trial
 
@@ -2658,12 +2668,22 @@ Icon of a Server.](/build/images/components/product-catalog/minus-black.de98b293
 
 ![Green circle with white plus sign.](/build/images/components/product-catalog/plus-green.49a1cc57.svg)
 
+![Black circle containing a white minus sign.](/build/images/components/product-catalog/minus-black.de98b293.svg)
+
+![Green circle containing a white plus sign.](/build/images/components/product-catalog/plus-green.49a1cc57.svg)
+
+![Black circle containing a white minus sign.](/build/images/components/product-catalog/minus-black.de98b293.svg)
+
+![Green circle containing a white plus sign.](/build/images/components/product-catalog/plus-green.49a1cc57.svg)
+
 ![Black circle with white minus sign.
 Icon of a Server.](/build/images/components/product-catalog/minus-black.de98b293.svg)
 
 Runtime SAVE %
 
 ![Green circle with white plus sign.](/build/images/components/product-catalog/plus-green.49a1cc57.svg)
+
+In the test phase, the storage is limited to 10 GB and the user count and connections are limited to 5 users. Additional volume can be conveniently booked at any time in the dashboard if payment is also made at the same time.
 
 Back Summary
 
