@@ -323,7 +323,7 @@ Analytics cookies can also be managed via the following links:
 
 * [About](https://maxrewards.co/about)
 * [Changelog](https://feedback.maxrewards.com/changelog)
-* [Careers](https://jobs.maxrewards.com/)
+* [Careers](https://maxrewards.co/careers)
 * [Help Center](https://help.maxrewards.com/)
 
 Join over 400,000 members  
