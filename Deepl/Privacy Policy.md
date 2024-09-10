@@ -1,4 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
+[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/en/translator)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/en/translator)
 
 Privacy Policy DeepL
 ====================
@@ -215,8 +215,10 @@ Overview of the cookies and web storage objects used by DeepL:
 
 | Context | ID  | Description | Technology | Expiry | Owner |
 | --- | --- | --- | --- | --- | --- |
-| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions from DeepL’s LinkedIn advertising campaigns | TechnologyTracking Pixel | ExpiryPersistent Data | OwnerLinkedIn |
-| Conversion Tracking | ID\- | Description<br><br>Records and evaluates conversions from DeepL’s Google advertising campaigns. | TechnologyServer-to-server tracking | ExpiryOngoing until consent is revoked | OwnerGoogle |
+| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions from DeepL’s LinkedIn advertising campaigns | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerLinkedIn |
+| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Google services. | TechnologyServer-to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerGoogle |
+| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Microsoft services, e.g. Bing search. | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerMicrosoft Ireland Operations Ltd. |
+| Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Meta services. | TechnologyServer-to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerMeta Platforms, Inc. |
 
 10\. Speech-to-text function for web
 ------------------------------------
@@ -492,41 +494,45 @@ LanguageEnglish
 * [Українська](https://www.deepl.com/uk/privacy "Українська")
 * [العربية](https://www.deepl.com/ar/privacy "العربية")
 
-[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/translator)
+[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/en/translator)
 
 * Resources
 * [Help Center](https://support.deepl.com/hc/en-us)
-* [Blog](https://www.deepl.com/blog)
-* [API documentation](https://developers.deepl.com/docs/v/en)
-* [Accessibility](https://www.deepl.com/accessibility)
-* [Data security](https://www.deepl.com/pro-data-security)
-* [Privacy policy](https://www.deepl.com/privacy)
-* [Terms & Conditions](https://www.deepl.com/pro-license)
+* [Blog](https://www.deepl.com/en/blog)
+* [API documentation](https://developers.deepl.com/docs)
+* [Accessibility](https://www.deepl.com/en/accessibility)
+* [Data security](https://www.deepl.com/en/pro-data-security)
+* [Privacy policy](https://www.deepl.com/en/privacy)
+* [Terms & Conditions](https://www.deepl.com/en/pro-license)
 
 * Product
-* [Free translator](https://www.deepl.com/translator)
-* [Features](https://www.deepl.com/features)
-* [DeepL Pro](https://www.deepl.com/pro?cta=footer-pro)
-* [Translation API](https://www.deepl.com/pro-api)
-* [DeepL Write](https://www.deepl.com/write)
-* [Apps](https://www.deepl.com/app)
+* [Free translator](https://www.deepl.com/en/translator)
+* [Features](https://www.deepl.com/en/features)
+* [DeepL Pro](https://www.deepl.com/en/pro?cta=footer-pro)
+* [Translation API](https://www.deepl.com/en/pro-api)
+* [DeepL Write](https://www.deepl.com/en/write)
+* [Apps](https://www.deepl.com/en/app)
 * [Document Translation](https://www.deepl.com/en/features/document-translation)
 
 * Download
-* [DeepL for Android](https://www.deepl.com/android-app)
-* [DeepL for ChromeOS](https://www.deepl.com/android-app)
-* [DeepL for iPhone](https://www.deepl.com/ios-app)
-* [DeepL for iPad](https://www.deepl.com/ios-app)
-* [DeepL for Mac](https://www.deepl.com/macos-app)
-* [DeepL for Windows](https://www.deepl.com/windows-app)
-* [DeepL Chrome extension](https://www.deepl.com/chrome-extension)
-* [DeepL Edge extension](https://www.deepl.com/edge-extension)
-* [DeepL Firefox extension](https://www.deepl.com/firefox-extension)
+* [DeepL for Android](https://www.deepl.com/en/android-app)
+* [DeepL for ChromeOS](https://www.deepl.com/en/android-app)
+* [DeepL for iPhone](https://www.deepl.com/en/ios-app)
+* [DeepL for iPad](https://www.deepl.com/en/ios-app)
+* [DeepL for Mac](https://www.deepl.com/en/macos-app)
+* [DeepL for Windows](https://www.deepl.com/en/windows-app)
+* [DeepL Chrome extension](https://www.deepl.com/en/chrome-extension)
+* [DeepL Edge extension](https://www.deepl.com/en/edge-extension)
+* [DeepL Firefox extension](https://www.deepl.com/en/firefox-extension)
+* [DeepL in Microsoft Word](https://www.deepl.com/en/word-addin)
+* [DeepL for Google Workspace](https://www.deepl.com/en/google-workspace)
+* [DeepL for Microsoft 365](https://www.deepl.com/en/microsoft-365)
+* [DeepL Integrations](https://www.deepl.com/en/integrations)
 
 * Company
-* [Contact Sales](https://www.deepl.com/contact-us?cta=pageFooter)
-* [Press](https://www.deepl.com/press)
-* [Careers](https://jobs.deepl.com/l/en?source=DeepLFooter)
-* [Publisher](https://www.deepl.com/publisher)
+* [Contact Sales](https://www.deepl.com/en/contact-us?cta=pageFooter)
+* [Press](https://www.deepl.com/en/press)
+* [Careers](https://www.deepl.com/careers?source=DeepLFooter)
+* [Publisher](https://www.deepl.com/en/publisher)
 
 [![twitter](https://static.deepl.com/img/_optimized/footer/twitterLogo.svg)](https://twitter.com/DeepLcom)[![facebook](https://static.deepl.com/img/_optimized/footer/facebookLogo.svg)](https://www.facebook.com/DeepLcom/)[![linkedin](https://static.deepl.com/img/_optimized/footer/linkedinLogo.svg)](https://www.linkedin.com/company/linkedin-com-company-deepl/)[![github](https://static.deepl.com/img/_optimized/footer/githubLogo.svg)](https://github.com/DeepLcom)[![instagram](https://static.deepl.com/img/_optimized/footer/instagramLogo.svg)](https://www.instagram.com/deeplhq/)
