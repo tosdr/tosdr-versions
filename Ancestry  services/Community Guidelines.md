@@ -1,4 +1,4 @@
-[Skip Ancestry main menu](#skipped-nav) Main Menu [![Ancestry Home](https://www.ancestrycdn.com/ui-static/i/logo/ancestry.svg)](https://www.ancestry.com/)
+[Skip Ancestry main menu](#skipped-nav) [Skip to Footer](#infiniteFooterButton) Main Menu [![Ancestry Home](https://www.ancestrycdn.com/ui-static/i/logo/ancestry.svg)](https://www.ancestry.com/)
 
 * [Home](https://www.ancestry.com/)
 * [Trees](https://www.ancestry.com/family-tree/tree/)
