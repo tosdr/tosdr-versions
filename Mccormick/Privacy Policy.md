@@ -74,12 +74,14 @@ Menu
 @2024 [SP Plus Corporation](https://www.spplus.com/) | [Privacy Policy](https://mccormick.parkingguide.com/privacy-policy/) | [Terms of Use](https://mccormick.parkingguide.com/terms-of-use/) | [California Consumer Privacy Policy Requests](https://ccpa.spplus.com/)  
 [Automated License Plate Recognition Usage and Privacy Policy](https://mccormick.parkingguide.com/sp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy/)
 
+![](https://mccormick.parkingguide.com/wp-content/uploads/spplus-metropolis-footer-white.png)
+
 \*
 
 \*
 
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmccormick.parkingguide.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F&t=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy "Share on Facebook")
-* [](https://twitter.com/intent/tweet?text=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy&url=https%3A%2F%2Fmccormick.parkingguide.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F "Share on Twitter")
+* [](https://x.com/intent/tweet?text=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy&url=https%3A%2F%2Fmccormick.parkingguide.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F "Share on X")
 
-* [](mailto:?subject=https%3A%2F%2Fmccormick.parkingguide.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F&body=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy "Send over email")
+* [](mailto:?subject=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy&body=https%3A%2F%2Fmccormick.parkingguide.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F "Send over email")
 * [](# "Print this webpage")
