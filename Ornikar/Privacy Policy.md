@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669687c20376bfc5993dbe17_Acheel%20nouveau.svg)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66d1c53c2701e33359eccaf7_LES%20JOURS%20PROMO%20-%20banner.svg)
 
 0
 
@@ -12,15 +12,17 @@ Jours
 
 Heures
 
-VOTRE ASSURANCE HABITATION - dès 2,17€/ mois! [J'en profite](https://www.ornikar.com/assurance-habitation)
+Jusqu'à -100€\* sur les packs permis ! Du 02 au 18/09 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
-[Code de la route](https://www.ornikar.com/code)
-
 Permis de conduire
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+[Permis B
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66daa4ade8b590bc517fd8e7_promo.webp)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+
+[Code de la route](https://www.ornikar.com/code)
 
 Assurance
 
@@ -36,7 +38,7 @@ Assurance
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/667d40c7c8455a6d4eedbffd_new-icon.svg)](https://www.ornikar.com/assurance-habitation)
 
-[Assurance auto](https://www.ornikar.com/assurance-auto)
+[Assurance auto](https://www.ornikar.com/assurance-auto)[Espace parents](https://www.ornikar.com/choisir-auto-ecole-enfant)
 
 Trustpilot
 
@@ -745,13 +747,21 @@ Une assurance transparente et personnalisable, dès 2,17€/mois seulement !
 
 Je découvre
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)[VOTRE CARTE GRISE EN MOINS DE 48H !
+
+Grâce à notre service partenaire.
+
+J'en profite
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)](https://certimat.fr/prescripteurs?partner=5361)
 
 ### A lire également
 
 Aucun article pour le moment
 
 Envie d'en savoir plus
+
+[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
 
 [Jeu concours Ornikar - JO Juillet 2024](https://www.ornikar.com/a-propos/promo-juillet-2024)
 
@@ -889,4 +899,4 @@ n° 20005380
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-juillet-2024)
+[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
