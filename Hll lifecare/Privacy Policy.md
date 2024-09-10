@@ -44,7 +44,7 @@ English Hindi
     * [GAPL](http://www.lifecarehll.com/page/render/reference/Gapl)
     * [HITES](http://www.lifecarehll.com/page/render/reference/Hites)
     * [HLL Management Academy](http://www.lifecarehll.com/page/render/reference/Hll_Management_Academy_Hma)
-* [Arogya Maitri Bhishm Cube](http://www.lifecarehll.com/page/render/reference/Bhishmcube)
+* [Aarogya Maitri BHISHM Cube](http://www.lifecarehll.com/page/render/reference/Bhishmcube)
 
 Privacy Policy
 --------------
