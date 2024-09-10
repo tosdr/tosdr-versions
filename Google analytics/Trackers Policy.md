@@ -4,7 +4,7 @@
 
 [Analytics Help](https://support.google.com/analytics)
 
-[](https://www.google.co.uk/intl/en/about/products?tab=uh)
+[](https://www.google.com/intl/en/about/products?tab=uh)
 
 [Sign in](https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/analytics/answer/2700409&ec=GAZAdQ)
 
@@ -40,11 +40,11 @@ Next
     
 * Migrate from UA to GA4
     
-    [Introducing Google Analytics 4 (GA4)](https://support.google.com/analytics/topic/12207738?hl=en&ref_topic=12154439,12153943,2986333,)[Universal Analytics versus Google Analytics 4 data](https://support.google.com/analytics/topic/12206906?hl=en&ref_topic=12154439,12153943,2986333,)[How to check property type](https://support.google.com/analytics/topic/12207740?hl=en&ref_topic=12154439,12153943,2986333,)[About connected site tags](https://support.google.com/analytics/topic/12208140?hl=en&ref_topic=12154439,12153943,2986333,)[Make the switch to Google Analytics 4 (Migration guide)](https://support.google.com/analytics/topic/12208345?hl=en&ref_topic=12154439,12153943,2986333,)[Common mistakes with tag setup](https://support.google.com/analytics/topic/12208141?hl=en&ref_topic=12154439,12153943,2986333,)[Confirm data is being collected in Analytics](https://support.google.com/analytics/topic/12208240?hl=en&ref_topic=12154439,12153943,2986333,)[Set up data collection for an app](https://support.google.com/analytics/topic/12208546?hl=en&ref_topic=12154439,12153943,2986333,)[How to navigate Analytics](https://support.google.com/analytics/topic/12208645?hl=en&ref_topic=12154439,12153943,2986333,)[Events in Google Analytics 4 vs Universal Analytics](https://support.google.com/analytics/topic/12208646?hl=en&ref_topic=12154439,12153943,2986333,)[Google Analytics 4 training and support](https://support.google.com/analytics/topic/12208444?hl=en&ref_topic=12154439,12153943,2986333,)
+    [Introducing Google Analytics 4 (GA4)](https://support.google.com/analytics/topic/12207738?hl=en&ref_topic=12154439,12153943,2986333,)[Universal Analytics versus Google Analytics 4 data \[Legacy\]](https://support.google.com/analytics/topic/12206906?hl=en&ref_topic=12154439,12153943,2986333,)[How to check property type](https://support.google.com/analytics/topic/12207740?hl=en&ref_topic=12154439,12153943,2986333,)[About connected site tags](https://support.google.com/analytics/topic/12208140?hl=en&ref_topic=12154439,12153943,2986333,)[Make the switch to Google Analytics 4 (Migration guide)](https://support.google.com/analytics/topic/12208345?hl=en&ref_topic=12154439,12153943,2986333,)[Common mistakes with tag setup](https://support.google.com/analytics/topic/12208141?hl=en&ref_topic=12154439,12153943,2986333,)[Confirm data is being collected in Analytics](https://support.google.com/analytics/topic/12208240?hl=en&ref_topic=12154439,12153943,2986333,)[Set up data collection for an app](https://support.google.com/analytics/topic/12208546?hl=en&ref_topic=12154439,12153943,2986333,)[How to navigate Analytics](https://support.google.com/analytics/topic/12208645?hl=en&ref_topic=12154439,12153943,2986333,)[Events in Google Analytics 4 vs Universal Analytics \[Legacy\]](https://support.google.com/analytics/topic/12208646?hl=en&ref_topic=12154439,12153943,2986333,)[Google Analytics 4 training and support](https://support.google.com/analytics/topic/12208444?hl=en&ref_topic=12154439,12153943,2986333,)
     
 * Manage accounts, properties, and users
     
-    [How Google Analytics is organized](https://support.google.com/analytics/topic/12219954?hl=en&ref_topic=12154331,12153943,2986333,)[Create an organization](https://support.google.com/analytics/topic/12219141?hl=en&ref_topic=12154331,12153943,2986333,)[Switch between accounts and properties](https://support.google.com/analytics/topic/12220983?hl=en&ref_topic=12154331,12153943,2986333,)[Structure your Analytics account](https://support.google.com/analytics/topic/12220984?hl=en&ref_topic=12154331,12153943,2986333,)[Edit / delete accounts, properties, and data streams](https://support.google.com/analytics/topic/12219776?hl=en&ref_topic=12154331,12153943,2986333,)[Move a property](https://support.google.com/analytics/topic/12220225?hl=en&ref_topic=12154331,12153943,2986333,)[Delete / restore accounts and properties](https://support.google.com/analytics/topic/12219778?hl=en&ref_topic=12154331,12153943,2986333,)[Access and data-restriction management](https://support.google.com/analytics/topic/12220987?hl=en&ref_topic=12154331,12153943,2986333,)[Add, edit, and delete users and user groups](https://support.google.com/analytics/topic/12218736?hl=en&ref_topic=12154331,12153943,2986333,)[Universal Analytics view-related features in Google Analytics 4 properties](https://support.google.com/analytics/topic/12219145?hl=en&ref_topic=12154331,12153943,2986333,)[View the history of account/property changes](https://support.google.com/analytics/topic/12219146?hl=en&ref_topic=12154331,12153943,2986333,)
+    [How Google Analytics is organized](https://support.google.com/analytics/topic/12219954?hl=en&ref_topic=12154331,12153943,2986333,)[Create an organization](https://support.google.com/analytics/topic/12219141?hl=en&ref_topic=12154331,12153943,2986333,)[Switch between accounts and properties](https://support.google.com/analytics/topic/12220983?hl=en&ref_topic=12154331,12153943,2986333,)[Structure your Analytics account](https://support.google.com/analytics/topic/12220984?hl=en&ref_topic=12154331,12153943,2986333,)[Edit / delete accounts, properties, and data streams](https://support.google.com/analytics/topic/12219776?hl=en&ref_topic=12154331,12153943,2986333,)[Move a property](https://support.google.com/analytics/topic/12220225?hl=en&ref_topic=12154331,12153943,2986333,)[Delete / restore accounts and properties](https://support.google.com/analytics/topic/12219778?hl=en&ref_topic=12154331,12153943,2986333,)[Access and data-restriction management](https://support.google.com/analytics/topic/12220987?hl=en&ref_topic=12154331,12153943,2986333,)[Add, edit, and delete users and user groups](https://support.google.com/analytics/topic/12218736?hl=en&ref_topic=12154331,12153943,2986333,)[Universal Analytics view-related features in Google Analytics 4 properties \[Legacy\]](https://support.google.com/analytics/topic/12219145?hl=en&ref_topic=12154331,12153943,2986333,)[View the history of account/property changes](https://support.google.com/analytics/topic/12219146?hl=en&ref_topic=12154331,12153943,2986333,)
     
 * Manage data
     
@@ -56,11 +56,11 @@ Next
     
 * Google Ads and attribution
     
-    [Link Google Ads and Analytics](https://support.google.com/analytics/topic/12235893?hl=en&ref_topic=12153647,12153943,2986333,)[Advertising snapshot report](https://support.google.com/analytics/topic/12235894?hl=en&ref_topic=12153647,12153943,2986333,)[Get started with Advertising](https://support.google.com/analytics/topic/12235206?hl=en&ref_topic=12153647,12153943,2986333,)[About attribution and attribution modeling](https://support.google.com/analytics/topic/12235895?hl=en&ref_topic=12153647,12153943,2986333,)[Select attribution settings](https://support.google.com/analytics/topic/12235475?hl=en&ref_topic=12153647,12153943,2986333,)[Conversion paths report](https://support.google.com/analytics/topic/12235901?hl=en&ref_topic=12153647,12153943,2986333,)[Model comparison report](https://support.google.com/analytics/topic/12236449?hl=en&ref_topic=12153647,12153943,2986333,)[Google Ads links migration tool](https://support.google.com/analytics/topic/12236260?hl=en&ref_topic=12153647,12153943,2986333,)[Goal and conversion migration guide](https://support.google.com/analytics/topic/12236262?hl=en&ref_topic=12153647,12153943,2986333,)
+    [Link Google Ads and Analytics](https://support.google.com/analytics/topic/12235893?hl=en&ref_topic=12153647,12153943,2986333,)[Advertising snapshot report](https://support.google.com/analytics/topic/12235894?hl=en&ref_topic=12153647,12153943,2986333,)[Get started with Advertising](https://support.google.com/analytics/topic/12235206?hl=en&ref_topic=12153647,12153943,2986333,)[About attribution and attribution modeling](https://support.google.com/analytics/topic/12235895?hl=en&ref_topic=12153647,12153943,2986333,)[Select attribution settings](https://support.google.com/analytics/topic/12235475?hl=en&ref_topic=12153647,12153943,2986333,)[Conversion paths report](https://support.google.com/analytics/topic/12235901?hl=en&ref_topic=12153647,12153943,2986333,)[Model comparison report](https://support.google.com/analytics/topic/12236449?hl=en&ref_topic=12153647,12153943,2986333,)[Google Ads links migration tool](https://support.google.com/analytics/topic/12236260?hl=en&ref_topic=12153647,12153943,2986333,)[Goal and conversion migration guide \[Legacy\]](https://support.google.com/analytics/topic/12236262?hl=en&ref_topic=12153647,12153943,2986333,)
     
 * Audiences and remarketing
     
-    [Create, edit, and archive audiences](https://support.google.com/analytics/topic/12237741?hl=en&ref_topic=12154332,12153943,2986333,)[Audiences migration guide](https://support.google.com/analytics/topic/12237742?hl=en&ref_topic=12154332,12153943,2986333,)[Suggested audiences](https://support.google.com/analytics/topic/12237188?hl=en&ref_topic=12154332,12153943,2986333,)[Audience triggers](https://support.google.com/analytics/topic/12237326?hl=en&ref_topic=12154332,12153943,2986333,)[Predictive metrics](https://support.google.com/analytics/topic/12237189?hl=en&ref_topic=12154332,12153943,2986333,)[Predictive audiences](https://support.google.com/analytics/topic/12236858?hl=en&ref_topic=12154332,12153943,2986333,)[Enable remarketing with Google Analytics data](https://support.google.com/analytics/topic/12236339?hl=en&ref_topic=12154332,12153943,2986333,)[Activate Google signals for Google Analytics 4 properties](https://support.google.com/analytics/topic/12233523?hl=en&ref_topic=12154332,12153943,2986333,)[Remarketing lists for search ads](https://support.google.com/analytics/topic/12236340?hl=en&ref_topic=12154332,12153943,2986333,)
+    [Create, edit, and archive audiences](https://support.google.com/analytics/topic/12237741?hl=en&ref_topic=12154332,12153943,2986333,)[Audiences migration guide \[Legacy\]](https://support.google.com/analytics/topic/12237742?hl=en&ref_topic=12154332,12153943,2986333,)[Suggested audiences](https://support.google.com/analytics/topic/12237188?hl=en&ref_topic=12154332,12153943,2986333,)[Audience triggers](https://support.google.com/analytics/topic/12237326?hl=en&ref_topic=12154332,12153943,2986333,)[Predictive metrics](https://support.google.com/analytics/topic/12237189?hl=en&ref_topic=12154332,12153943,2986333,)[Predictive audiences](https://support.google.com/analytics/topic/12236858?hl=en&ref_topic=12154332,12153943,2986333,)[Enable remarketing with Google Analytics data](https://support.google.com/analytics/topic/12236339?hl=en&ref_topic=12154332,12153943,2986333,)[Activate Google signals for Google Analytics 4 properties](https://support.google.com/analytics/topic/12233523?hl=en&ref_topic=12154332,12153943,2986333,)[Remarketing lists for search ads](https://support.google.com/analytics/topic/12236340?hl=en&ref_topic=12154332,12153943,2986333,)
     
 * Integrations
     
@@ -138,79 +138,76 @@ true
 [Data privacy and security](https://support.google.com/analytics/topic/2919631?hl=en&ref_topic=1008008)
 -------------------------------------------------------------------------------------------------------
 
-* 1 of 25
+* 1 of 24
     
     [Safeguarding your data](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631)
-* 2 of 25
+* 2 of 24
     
     [Privacy controls in Google Analytics](https://support.google.com/analytics/answer/9019185?hl=en&ref_topic=2919631)
-* 3 of 25
+* 3 of 24
     
     [\[GA4\] Data redaction](https://support.google.com/analytics/answer/13544947?hl=en&ref_topic=2919631)
-* 4 of 25
+* 4 of 24
     
     [Introduction to user consent management](https://support.google.com/analytics/answer/12329599?hl=en&ref_topic=2919631)
-* 5 of 25
+* 5 of 24
     
     [\[GA4\] Verify and update consent settings in Google Analytics](https://support.google.com/analytics/answer/14275483?hl=en&ref_topic=2919631)
-* 6 of 25
+* 6 of 24
     
     [\[GA4\] Behavioral modeling for consent mode](https://support.google.com/analytics/answer/11161109?hl=en&ref_topic=2919631)
-* 7 of 25
+* 7 of 24
     
     [Google Analytics opt-out browser add-on](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631)
-* 8 of 25
+* 8 of 24
     
-    [\[UA\] IP masking in Universal Analytics](https://support.google.com/analytics/answer/2763052?hl=en&ref_topic=2919631)
-* 9 of 25
+    [\[UA\] IP masking in Universal Analytics \[Legacy\]](https://support.google.com/analytics/answer/2763052?hl=en&ref_topic=2919631)
+* 9 of 24
     
     [\[GA4\] Policy requirements for Google Analytics Advertising Features](#)
-* 10 of 25
-    
-    [\[UA\] Security and privacy in Universal Analytics](https://support.google.com/analytics/answer/2838718?hl=en&ref_topic=2919631)
-* 11 of 25
+* 10 of 24
     
     [Data Processing Terms](https://support.google.com/analytics/answer/3379636?hl=en&ref_topic=2919631)
-* 12 of 25
+* 11 of 24
     
     [We use our own products](https://support.google.com/analytics/answer/3000986?hl=en&ref_topic=2919631)
-* 13 of 25
+* 12 of 24
     
     [Data retention](https://support.google.com/analytics/answer/7667196?hl=en&ref_topic=2919631)
-* 14 of 25
+* 13 of 24
     
     [\[GA4\] Data-deletion requests](https://support.google.com/analytics/answer/9940393?hl=en&ref_topic=2919631)
-* 15 of 25
+* 14 of 24
     
-    [Data deletion requests (Universal Analytics)](https://support.google.com/analytics/answer/9450800?hl=en&ref_topic=2919631)
-* 16 of 25
+    [Data deletion requests (Universal Analytics) \[Legacy\]](https://support.google.com/analytics/answer/9450800?hl=en&ref_topic=2919631)
+* 15 of 24
     
     [ISO 27001 Certification](https://support.google.com/analytics/answer/3407084?hl=en&ref_topic=2919631)
-* 17 of 25
+* 16 of 24
     
     [Google Analytics links overview](https://support.google.com/analytics/answer/6002761?hl=en&ref_topic=2919631)
-* 18 of 25
+* 17 of 24
     
     [Account setup with additional privacy features](https://support.google.com/analytics/answer/6245164?hl=en&ref_topic=2919631)
-* 19 of 25
+* 18 of 24
     
     [Best practices to avoid sending Personally Identifiable Information (PII)](https://support.google.com/analytics/answer/6366371?hl=en&ref_topic=2919631)
-* 20 of 25
+* 19 of 24
     
     [Policy Against Fingerprints and Locally Shared Objects](https://support.google.com/analytics/answer/9682282?hl=en&ref_topic=2919631)
-* 21 of 25
+* 20 of 24
     
     [Data controls in Universal Analytics](https://support.google.com/analytics/answer/11999096?hl=en&ref_topic=2919631)
-* 22 of 25
+* 21 of 24
     
     [Data controls in Google Analytics 4](https://support.google.com/analytics/answer/13126616?hl=en&ref_topic=2919631)
-* 23 of 25
+* 22 of 24
     
     [\[GA4\] EU-focused data and privacy](https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631)
-* 24 of 25
+* 23 of 24
     
     [HIPAA and Google Analytics](https://support.google.com/analytics/answer/13297105?hl=en&ref_topic=2919631)
-* 25 of 25
+* 24 of 24
     
     [Data sharing settings](https://support.google.com/analytics/answer/1011397?hl=en&ref_topic=2919631)
 
@@ -226,7 +223,7 @@ Check out [google.com/analytics/learn](https://developers.google.com/analytics/l
 * [Privacy Policy](https://www.google.com/intl/en/privacy.html)
 * [Terms of Service](https://www.google.com/accounts/TOS)
 
-català‎dansk‎Deutsch‎español‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةहिन्दी‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
+Language català‎dansk‎Deutsch‎español‎Filipino‎français‎hrvatski‎Indonesia‎italiano‎latviešu‎lietuvių‎magyar‎Nederlands‎norsk‎polski‎português‎português (Brasil)‎română‎slovenčina‎slovenščina‎suomi‎svenska‎Tiếng Việt‎Türkçe‎čeština‎Ελληνικά‎български‎русский‎српски‎українська‎‏עברית‏العربيةहिन्दी‎ไทย‎中文（简体）‎中文（繁體）‎日本語‎한국어‎ English‎
 
 Enable Dark Mode
 
@@ -244,7 +241,7 @@ Google apps
 
 Main menu
 
-13753475552823904090
+6375765579267359971
 
 true
 
