@@ -10,7 +10,7 @@ MENU [SHOP](https://www.ifineedhelp.org/shop/featured) [ABOUT v](https://www.ifi
 * [EVENT CALENDAR](https://www.ifineedhelp.org/events/page)
 * [FAQ](https://www.ifineedhelp.org/faq/page)
 
-[DONATE](https://www.ifineedhelp.org/donation) [BLOG](https://blog.ifineedhelp.org/) [FREE SIGNUP](https://www.ifineedhelp.org/user/register?crumb=register) [LOGIN](https://www.ifineedhelp.org/user/login)![cart](https://www.ifineedhelp.org/qrcodeid/img/cart-icon-trans.png)  
+[DONATE](https://www.ifineedhelp.org/donation) [GIFT CARD](https://www.ifineedhelp.org/gift-card) [BLOG](https://blog.ifineedhelp.org/) [FREE SIGNUP](https://www.ifineedhelp.org/user/register?crumb=register) [LOGIN](https://www.ifineedhelp.org/user/login)![cart](https://www.ifineedhelp.org/qrcodeid/img/cart-icon-trans.png)  
 
 Website Policies and Terms of Service
 =====================================
@@ -22,7 +22,7 @@ Website Policies and Terms of Service
 #### PRIVACY POLICY AND TERMS OF SERVICE
 
 **PRIVACY POLICY**  
-As of July 30, 2024
+As of September 10, 2024
 
 Please note that the practices of If I Need Help, a California non-profit corporation (“If I Need Help”), with respect to personal information are now governed by this Privacy Policy as the same may be amended from time to time. We encourage visitors to and users of our site at https://ifineedhelp.org (the “Site”) to regularly review our Privacy Policy.
 
@@ -159,7 +159,7 @@ If you believe that If I Need Help has not complied with this Privacy Policy wit
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact If I Need Help by emailing support@ifineedhelp.org or by phone at (661) 524-6732, or by postal mail at If I Need Help, P.O. Box 803356, Santa Clarita, California 91380.
 
 **WEBSITE TERMS OF USE**  
-as of July 30, 2024
+as of September 10, 2024
 
 Please read these Website Terms of Use (“Terms of Use”) carefully before accessing https://ifineedhelp.org or using this website. These Terms of Use apply to the If I Need Help website located at If I Need Help.com, and all associated sites linked to https://ifineedhelp.org (collectively, the “Site”).
 
@@ -355,6 +355,7 @@ Santa Clarita, CA 91380
     * [Event Calendar](https://www.ifineedhelp.org/events/page)
     * [FAQ](https://www.ifineedhelp.org/faq/page)
 * [Donate](https://www.ifineedhelp.org/donation)
+* [Gift Card](https://www.ifineedhelp.org/gift-card)
 * [Blog](https://blog.ifineedhelp.org/)
 * [FREE SIGN UP](https://www.ifineedhelp.org/user/register?crumb=register)
 * [Login](https://www.ifineedhelp.org/user/login)
