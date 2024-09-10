@@ -224,6 +224,7 @@ Rules, guidelines & ToS
             
             * [How to get Players in an Instance](https://documentation.abinteractive.net/cck/lua/recipes/getting-users/)
             * [Listening to Events](https://documentation.abinteractive.net/cck/lua/recipes/listen-game-events/)
+            * [Getting Components](https://documentation.abinteractive.net/cck/lua/recipes/getting-components/)
             
         
     * [ ]  Examples
