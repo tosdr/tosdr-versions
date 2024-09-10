@@ -1,4 +1,4 @@
-[](#)[![Logo](https://author.envato.com/hub/wp-content/themes/envatoauthorhub/assets/build/assets/images/svg/logo.svg)](https://author.envato.com/hub/)
+[](#)[![Logo](https://author.envato.com/hub/wp-content/themes/envatoauthorhub/assets/build/assets/images/svg/logo-envato-author.svg)](https://author.envato.com/hub/)
 
 * [Author Hub](https://author.envato.com/)
 * [Get Started](https://author.envato.com/hub/getting-started/)
@@ -23,10 +23,10 @@
     
     ![Search icon](https://author.envato.com/hub/wp-content/themes/envatoauthorhub/assets/build/assets/images/svg/ico-search.svg) ![Search icon](https://author.envato.com/hub/wp-content/themes/envatoauthorhub/assets/build/assets/images/svg/ico-close.svg)](#) 
 * [![Dropdown ico](https://author.envato.com/hub/wp-content/themes/envatoauthorhub/assets/build/assets/images/svg/ico-cubes-2.svg)](#)
-    * [![](https://author.envato.com/hub/wp-content/uploads/menu-logo-envato-market.svg)](https://themeforest.net/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
-    * [![](https://author.envato.com/hub/wp-content/uploads/menu-logo-envato-elements.svg)](https://elements.envato.com/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
-    * [![](https://author.envato.com/hub/wp-content/uploads/menu-logo-envato-tuts.svg)](https://tutsplus.com/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
-    * [![](https://author.envato.com/hub/wp-content/uploads/menu-logo-placeit.svg)](https://placeit.net/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
+    * [![](https://author.envato.com/hub/wp-content/uploads/envato-logo-2024.svg)](https://elements.envato.com/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
+    * [![](https://author.envato.com/hub/wp-content/uploads/envato-market-logo-2024.svg)](https://themeforest.net/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
+    * [![](https://author.envato.com/hub/wp-content/uploads/envato-tuts-logo-2024-v3.svg)](https://tutsplus.com/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
+    * [![](https://author.envato.com/hub/wp-content/uploads/envato-placeit-logo-2024.svg)](https://placeit.net/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
     * [![](https://author.envato.com/hub/wp-content/uploads/menu-logo-mixkit.svg)](https://mixkit.co/?utm_source=author.envato.com&utm_medium=referral&utm_campaign=author_hub)
 
 [Sell with Envato](https://www.envato.com/lp/become-an-elements-author/?referral_site=author_hub)
