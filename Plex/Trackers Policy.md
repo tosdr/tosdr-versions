@@ -58,6 +58,7 @@ Plex for All
 
 * [600+ Free Live TV Channels Tune in anytime, on any device.](https://www.plex.tv/watch-free-tv/)
 * [Free Movies & Shows Stream 50,000+ titles on demand.](https://www.plex.tv/watch-free/)
+* [Ready, Set, Rent New Browse new releases and cult classics.](https://www.plex.tv/rentals/)
 * [Experience Discover on Plex Find a movie. Find a show. Find your friends.](https://www.plex.tv/discover/)
 * [Stream on Almost Any Device Download our free app to start.](https://www.plex.tv/apps-devices/)
 
@@ -99,6 +100,7 @@ Features for All
 
 * [Live TV Channels](https://www.plex.tv/watch-free-tv/)
 * [On Demand Movies & Shows](https://www.plex.tv/watch-free/)
+* [Rentals Done Right](https://www.plex.tv/rentals/)
 * [Stream on Almost Any Device](https://www.plex.tv/apps-devices/)
 * [Pause, Save, Resume](https://www.plex.tv/watch-free/)
 
@@ -249,7 +251,6 @@ No credit card required.
     * [Plexamp](https://www.plex.tv/plexamp/)
     * [Plex Labs](https://www.plex.tv/plex-labs/)
     * [Get Perks](https://www.plex.tv/plex-pass/perks/)
-    * [TIDAL x Plex](https://www.plex.tv/music/)
 * [Downloads](https://www.plex.tv/media-server-downloads/)
     * [Plex Media Server](https://www.plex.tv/media-server-downloads/#plex-media-server)
     * [Apps & Devices](https://www.plex.tv/media-server-downloads/#plex-app)
