@@ -4,7 +4,7 @@
 
 [](https://twitter.com/nitrokey)[](https://social.nitrokey.com/@nitrokey)[](https://github.com/nitrokey)[](https://matrix.to/#/#nitrokey:nitro.chat)[](https://www.nitrokey.com/newsletter)[](https://www.nitrokey.com/rss.xml)[](https://www.youtube.com/nitrokey)[](https://www.linkedin.com/company/nitrokey)[](https://www.instagram.com/nitrokey/)[](https://www.facebook.com/nitrokey)
 
-[![Nitrokey | Secure your digital life](https://www.nitrokey.com/sites/all/themes/nitrokey/logo.png)](https://www.nitrokey.com/ "Nitrokey | Secure your digital life")
+[![Nitrokey | Secure your digital life](https://www.nitrokey.com/sites/all/themes/nitrokey/logo.svg)](https://www.nitrokey.com/ "Nitrokey | Secure your digital life")
 
 [](#)
 
