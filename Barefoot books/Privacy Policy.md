@@ -460,7 +460,7 @@ Toggle Nav
 
 [Account](#store.links)
 
-[![Logo](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/BFB_Logo_Horiz_RGB.svg)](https://www.barefootbooks.com/)
+[![Logo](https://www.barefootbooks.com/static/version1724136327/frontend/Codazon/fastest_ellyana/en_US/images/BFB_Logo_Horiz_RGB.svg)](https://www.barefootbooks.com/)
 
 [Skip to Content](#contentarea)
 
@@ -615,15 +615,7 @@ Comment
 
 Submit
 
-![Loading...](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/loader-1.gif)
-
-Join Our Email List!
-
-**Newsletter**
-
-Sign Up for Our Newsletter:
-
-Subscribe
+![Loading...](https://www.barefootbooks.com/static/version1724136327/frontend/Codazon/fastest_ellyana/en_US/images/loader-1.gif)
 
 For customer service, email [\[email protected\]](https://www.barefootbooks.com/cdn-cgi/l/email-protection)  
 or call +1.866.417.2369 (Mon–Fri, 9am to 5pm EST)
@@ -715,7 +707,7 @@ USD
 
 ##### You Are Supporting
 
-![chevron](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/chevron.svg)
+![chevron](https://www.barefootbooks.com/static/version1724136327/frontend/Codazon/fastest_ellyana/en_US/images/chevron.svg)
 
 Very Long Event Name Goes Here
 
