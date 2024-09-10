@@ -6,7 +6,7 @@ Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/
 
 DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
-*  [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
+*  [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-Justice](https://www.bfmtv.com/police-justice/ "Police-Justice")
@@ -36,7 +36,8 @@ Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rm
 
 À la une
 
-* [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
+* [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
+* [Élection américaine 2024](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ "Élection américaine 2024")
 
 Parcourir
 
@@ -48,6 +49,7 @@ Parcourir
 * [Météo](https://meteo.bfmtv.com/ "Météo")
 * [Trafic](https://www.bfmtv.com/info-trafic/ "Trafic")
 * [Météo de l'Energie](https://www.bfmtv.com/meteo-de-l-energie/ "Météo de l'Energie")
+* [Vrai/Faux](https://www.bfmtv.com/vrai-faux/ "Vrai/Faux")
 * [Canaux TV](https://www.bfmtv.com/canaux-tv/ "Canaux TV")
 * Services
     
@@ -61,7 +63,7 @@ Parcourir
     * [BFM Pratique](https://www.bfmtv.com/pratique/ "BFM Pratique")
     * [Comparateur](https://www.bfmtv.com/comparateur/ "Comparateur")
     * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
-    * [Devenir Annonceur](https://www.alticemedia-adsconnect.fr/nos-marques/bfmtv.html "Devenir Annonceur")
+    * [Devenir Annonceur](https://www.rmcbfm-ads.com/nos-marques/bfmtv.html "Devenir Annonceur")
     * [Annonces légales](https://annonces-legales.bfmtv.com/ "Annonces légales")
 
 BFM Régions
@@ -88,14 +90,13 @@ Rubriques
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-justice](https://www.bfmtv.com/police-justice/ " Police-justice ")
 * [International](https://www.bfmtv.com/international/ "International")
-* [Élection américaine 2024](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ "Élection américaine 2024")
 * [Société](https://www.bfmtv.com/societe/ "Société")
 * [Économie](https://www.bfmtv.com/economie/ "Économie")
 * [Crypto](https://www.bfmtv.com/crypto/ "Crypto")
 * [Tech & Co](https://www.bfmtv.com/tech/ "Tech & Co")
 * [Auto](https://www.bfmtv.com/auto/ "Auto")
 * [Santé](https://www.bfmtv.com/sante/ "Santé")
-* [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
+* [Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "Paris 2024")
 * [Sport](https://rmcsport.bfmtv.com/ "Sport")
 * [Environnement](https://www.bfmtv.com/environnement/ "Environnement")
 * [People](https://www.bfmtv.com/people/ "People")
@@ -108,7 +109,7 @@ Rubriques
 
 Suivez-nous sur
 
-[](https://www.facebook.com/BFMTV "Facebook")[](https://twitter.com/bfmtv "Twitter") [![Instagram](/assets/v6/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v6/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v6/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v6/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
+[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v6/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v6/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v6/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v6/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
 
 Les sites du groupe
 
@@ -397,22 +398,22 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Un TGV](https://images.bfmtv.com/77H5SN5Vx2p36rtBUhCH647lhHs=/0x40:768x472/300x0/images/Un-train-a-grande-vitesse-TGV-de-la-SNCF-sur-la-ligne-Paris-Bordeaux-au-niveau-de-Chartres-dans-le-nord-de-la-France-le-26-juillet-2024-1910575.jpg)
+1. [![La voiture accidentée abandonnée par l'homme qui a tiré sur un agent municipal à Grenoble, le 8 septembre 2024](https://images.bfmtv.com/l3vG0ELfh2bThHTRoHORm0grMaA=/0x0:1920x1080/300x0/images/La-voiture-accidentee-abandonnee-par-l-homme-qui-a-tire-sur-un-agent-municipal-a-Grenoble-le-8-septembre-2024-1933834.jpg)
     
-    ![Un TGV](https://images.bfmtv.com/77H5SN5Vx2p36rtBUhCH647lhHs=/0x40:768x472/300x0/images/Un-train-a-grande-vitesse-TGV-de-la-SNCF-sur-la-ligne-Paris-Bordeaux-au-niveau-de-Chartres-dans-le-nord-de-la-France-le-26-juillet-2024-1910575.jpg)
+    ![La voiture accidentée abandonnée par l'homme qui a tiré sur un agent municipal à Grenoble, le 8 septembre 2024](https://images.bfmtv.com/l3vG0ELfh2bThHTRoHORm0grMaA=/0x0:1920x1080/300x0/images/La-voiture-accidentee-abandonnee-par-l-homme-qui-a-tire-sur-un-agent-municipal-a-Grenoble-le-8-septembre-2024-1933834.jpg)
     
-    ### Sabotages du réseau SNCF: "tous les trains" circulent "normalement" ce lundi](https://www.bfmtv.com/economie/entreprises/transports/sabotages-du-reseau-sncf-vergriete-assure-que-tous-les-trains-circulent-normalment-ce-lundi_AD-202407290114.html "Sabotages du réseau SNCF: "tous les trains" circulent "normalement" ce lundi")
-2. [### JO 2024: succès pour la flamme olympique, les 100.000 billets pour la voir réservés en moins de 24 heures](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-l-incroyable-succes-aupres-des-spectateurs-pour-l-envol-de-la-flamme-olympique_AV-202407290168.html "JO 2024: succès pour la flamme olympique, les 100.000 billets pour la voir réservés en moins de 24 heures")
-3. [### JO 2024 (gymnastique): une mauvaise chute à l’entraînement derrière le fiasco des gymnastes françaises?](https://rmcsport.bfmtv.com/jeux-olympiques/jo-2024-gymnastique-une-mauvaise-chute-a-l-entrainement-derriere-le-fiasco-des-gymnastes-francaises_AV-202407290043.html "JO 2024 (gymnastique): une mauvaise chute à l’entraînement derrière le fiasco des gymnastes françaises?")
-4. [### Randonnée: comment bien s'équiper de la tête aux pieds?](https://rmc.bfmtv.com/conso/loisirs/randonnee-comment-bien-s-equiper-de-la-tete-aux-pieds_AN-202407280029.html "Randonnée: comment bien s'équiper de la tête aux pieds?")
-5. [### Canicule: 39 départements en vigilance orange, près de 40°C attendus localement](https://www.bfmtv.com/environnement/climat/canicule-39-departements-en-vigilance-orange-pres-de-40-c-attendus-localement_AV-202407290052.html "Canicule: 39 départements en vigilance orange, près de 40°C attendus localement")
+    ### Agent municipal tué à Grenoble: le profil du suspect toujours activement recherché](https://www.bfmtv.com/police-justice/agent-municipal-tue-a-grenoble-le-profil-du-suspect-toujours-activement-recherche_AV-202409100080.html "Agent municipal tué à Grenoble: le profil du suspect toujours activement recherché")
+2. [### Vers un retour d'un ministère de l'Immigration? Michel Barnier "veut traiter avec sérieux le sujet"](https://www.bfmtv.com/politique/gouvernement/vers-un-retour-d-un-ministere-de-l-immigration-michel-barnier-veut-traiter-avec-serieux-le-sujet_AN-202409090889.html "Vers un retour d'un ministère de l'Immigration? Michel Barnier "veut traiter avec sérieux le sujet"")
+3. [### Kate Middleton: la presse britannique soulagée après l'annonce de la fin de sa chimiothérapie](https://www.bfmtv.com/people/tetes-couronnees/kate-middleton-la-presse-britannique-soulagee-apres-l-annonce-de-la-fin-de-sa-chimiotherapie_AV-202409100033.html "Kate Middleton: la presse britannique soulagée après l'annonce de la fin de sa chimiothérapie")
+4. [### Près d'une personne sur deux en surpoids: la corpulence des Français a beaucoup augmenté en 20 ans](https://www.bfmtv.com/sante/le-surpoids-et-l-obesite-en-hausse-constante-chez-les-femmes-semblent-atteindre-un-palier-chez-les-hommes_AV-202409100025.html "Près d'une personne sur deux en surpoids: la corpulence des Français a beaucoup augmenté en 20 ans")
+5. [### iPhone 16, iPhone 16 Pro: voici tous les prix des nouveaux smartphones d'Apple](https://www.bfmtv.com/tech/apple/i-phone-16-i-phone-16-pro-voici-tous-les-prix-des-nouveaux-smartphones-d-apple_AN-202409090894.html "iPhone 16, iPhone 16 Pro: voici tous les prix des nouveaux smartphones d'Apple")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
 première sur l'info
 
 * [Facebook](https://www.facebook.com/BFMTV "Facebook")
-* [Twitter](https://twitter.com/bfmtv "Twitter")
+* [X](https://x.com/bfmtv "X")
 * [Flux RSS](https://www.bfmtv.com/rss/ "Flux RSS")
 * [Newsletter](https://www.bfmtv.com/newsletters/ "Newsletter")
 
@@ -452,7 +453,7 @@ nos services
 en savoir plus
 
 * [Nous contacter](https://www.bfmtv.com/contacts/ "Nous contacter")
-* [Devenir Annonceur](https://www.alticemedia-adsconnect.fr/ "Devenir Annonceur")
+* [Devenir Annonceur](https://www.rmcbfm-ads.com/nos-marques/bfmtv.html "Devenir Annonceur")
 * [Recrutement](https://recrutement.alticemedia.com/ "Recrutement")
 * [Mentions légales](https://www.bfmtv.com/mentions-legales/ "Mentions légales")
 * [Données personnelles](https://www.bfmtv.com/politique-donnees-personnelles/ "Données personnelles")
