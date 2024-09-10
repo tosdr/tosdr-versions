@@ -22,6 +22,10 @@ Content
 
 [Top Scores](https://musescore.com/sheetmusic/best-sheet-music) [New Scores](https://musescore.com/sheetmusic/new-sheet-music) [All artists](https://musescore.com/sheetmusic/all-artists) [Score categories](https://musescore.com/sheetmusic/category-pages) [Courses](https://musescore.com/courses) [Official Scores](https://musescore.com/sheetmusic/official) [Digital Books](https://musescore.com/books)
 
+Organizations
+
+[For schools](https://musescore.com/b2b/schools) [For churches](https://musescore.com/b2b/churches) [Other](https://intercom.help/musescore/en/articles/8535979-how-do-i-contact-musescore-support)
+
 Our products
 
 [Audio.com](https://audio.com/)
