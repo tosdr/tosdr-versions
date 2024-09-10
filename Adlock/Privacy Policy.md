@@ -289,29 +289,29 @@ Definitions and legal references
 Latest news
 -----------
 
-[![How to Block YouTube Ads on iPhone, iOS &amp; iPad](/wp-content/uploads/2020/11/4-How-to-Block-Ads-on-YouTube-in-iOS-1.png)
+[![How to Get Rid of Ads on USA Today in a Snap](/wp-content/uploads/2024/08/Usa-Today.png)
 
-### How to Block YouTube Ads on iPhone, iOS & iPad](https://adlock.com/blog/how-to-block-youtube-ads-on-iphone/)
+### How to Get Rid of Ads on USA Today in a Snap](https://adlock.com/blog/remove-ads-on-usa-today/)
 
-[![How to Stop Annoying Fox News Ads &amp; Pop-ups](/wp-content/uploads/2024/06/Fox-news.png)
+[![How to Block Annoying Ads on Wall Street Journal](/wp-content/uploads/2024/08/Wall-street.png)
 
-### How to Stop Annoying Fox News Ads & Pop-ups](https://adlock.com/blog/fox-news-ad-blocker/)
+### How to Block Annoying Ads on Wall Street Journal](https://adlock.com/blog/remove-ads-on-wall-street-journal/)
 
-[![How Do You Block Ads on NY Times](/wp-content/uploads/2024/06/NY-Times.png)
+[![How to Block YouTube Ads on Android](/wp-content/uploads/2019/04/YouTubeNew.png)
 
-### How Do You Block Ads on NY Times](https://adlock.com/blog/remove-new-york-times-ads/)
+### How to Block YouTube Ads on Android](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)
 
-[![How to Block Township Ads](/wp-content/uploads/2024/06/township.png)
+[![4 Methods to Block Annoying Fishdom Ads](/wp-content/uploads/2024/08/Fishdom.png)
 
-### How to Block Township Ads](https://adlock.com/blog/block-ads-on-township/)
+### 4 Methods to Block Annoying Fishdom Ads](https://adlock.com/blog/block-fishdom-ads/)
 
-[![How to Play Subway Surfers Without Ads](/wp-content/uploads/2024/06/subway-surfers.png)
+[![How to Play Homescapes and Gardenscapes Without Ads](/wp-content/uploads/2024/08/Gardenscapes.png)
 
-### How to Play Subway Surfers Without Ads](https://adlock.com/blog/block-ads-in-subway-surfers/)
+### How to Play Homescapes and Gardenscapes Without Ads](https://adlock.com/blog/remove-homescapes-and-gardenscapes-ads/)
 
-[![How to Stop Redirects on iPhone in Safari Browser](/wp-content/uploads/2024/06/How-to-Fix-Too-Many-Redirects-on-iPhone-Safari.png)
+[![How to Block Ads in Block Blast Once And For All](/wp-content/uploads/2024/07/Block-Blast.png)
 
-### How to Stop Redirects on iPhone in Safari Browser](https://adlock.com/blog/stop-too-many-redirects-on-iphone/)
+### How to Block Ads in Block Blast Once And For All](https://adlock.com/blog/remove-block-blast-ads/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adlock-for-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
