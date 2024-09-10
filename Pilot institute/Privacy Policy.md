@@ -127,7 +127,7 @@ Mon-Saturday 8am-5pm MST
 ##### Company
 
 * [Reviews](https://pilotinstitute.com/reviews/)
-* [About Us](https://pilotinstitute.com/about-us/)
+* [About Us](https://pilotinstitute.com/about-us-old/)
 * [Contact Us](https://pilotinstitute.com/contact-us/)
 * [Affiliate Program](https://pilotinstitute.com/affiliates/)
 * [Privacy Policy](https://pilotinstitute.com/privacy-policy/)
