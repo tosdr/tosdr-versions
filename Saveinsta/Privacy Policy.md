@@ -17,7 +17,7 @@ We may collect non-personal identification information about Users whenever they
 
 ### How we use collected information
 
-SaveInsta.pro does not collect or store your data, period.
+SaveClip.app does not collect or store your data, period.
 
 ### Advertising
 
@@ -29,7 +29,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 ### Changes to this privacy policy
 
-SaveInsta.pro has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+SaveClip.app has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
