@@ -169,7 +169,7 @@ Membership Services
 
 Sponsorship Opportunities
 
-[2024 ACE Presidents and Chancellors Summit](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/2024-Presidents-Chancellors-Summit-Opportunities.aspx) [ACE's Annual Meeting](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/Annual-Meeting-Opportunities.aspx)
+[2024 ACE Presidents and Chancellors Summit](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/2024-Presidents-Chancellors-Summit-Opportunities.aspx) [ACE Experience 2025](https://www.acenet.edu/Membership-Advancement/Pages/Advancement/ACE-Experience-Opportunities.aspx)
 
 ​Contact Membership  
 202-939-9340  
