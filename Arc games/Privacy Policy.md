@@ -1,70 +1,5 @@
 ×Close
 
-You're using an unsupported web browser. Some features may not work correctly. Please check out our [list of supported browsers](https://www.arcgames.com/en/about/supported-browsers) for the best experience. [Dismiss](#~)
-
-* [](https://payment.arcgames.com/en/bodega/cart)
-* **0**
-* [Sign in](https://www.arcgames.com/en/sign/in) or [Register](https://www.arcgames.com/en/sign/up)
-    
-    Verify Your Credentials
-    -----------------------
-    
-    ![](https://pwimages-a.akamaihd.net/arcportal_static/images/web-defender/arc-defender.png)
-    
-    ### Arc Defender
-    
-    Looks like you are logging in with a new computer or browser. For your security, please verify your account prior to logging in. We have emailed you a pin to verify you are the owner of this account.
-    
-    Please enter the pin we emailed you above
-    
-    [Submit My Pin](#~)
-    
-    [Where is My Pin?](#~)
-    
-    [What is this and why am I seeing it?](https://support.arcgames.com/hc/en-us/articles/360017620234)
-    
-    [Cancel](#~)
-    
-    Account Verification Successful
-    -------------------------------
-    
-    ![](https://pwimages-a.akamaihd.net/arcportal_static/images/web-defender/arc-defender.png)
-    
-    ### Arc Defender
-    
-    Great! We have verified that you have appropriate access to this account.
-    
-    [Continue to Arcgames](#~)
-    
-    [What is this and why am I seeing it?](https://support.arcgames.com/hc/en-us/articles/360017620234)
-    
-* [English _down_](#)
-    
-    [English](https://www.arcgames.com/en/about/privacy)
-    
-    [Deutsch](https://www.arcgames.com/de/about/privacy)
-    
-    [Français](https://www.arcgames.com/fr/about/privacy)
-    
-    [Pусский](https://www.arcgames.com/ru/about/privacy)
-    
-    [Italiano](https://www.arcgames.com/it/about/privacy)
-    
-    [Español](https://www.arcgames.com/es/about/privacy)
-    
-* [Install Arc](https://www.arcgames.com/en/about/client)
-
-[arc logo](https://www.arcgames.com/en/games)
-
-[](#)
-
-* [GAMES](https://www.arcgames.com/en/games)
-* [FORUMS](https://www.arcgames.com/en/social/forum)
-* [ARC NEWS](https://www.arcgames.com/en/arc-news)
-* [SUPPORT](https://www.arcgames.com/en/supportredirect/app/home/)
-
-Your Torchlight product key has been emailed to your Arc registered email address, you can redeem this key in game. [Dismiss](#~)
-
 Privacy Policy
 ==============
 
@@ -72,13 +7,13 @@ Privacy Policy
 
   
 
-Thank you for reading our Privacy Policy and visiting our websites located at [www.arcgames.com](https://www.arcgames.com/), [www.torchlight1.com](https://www.torchlight1.com/), [www.torchlight2.com](https://www.torchlight2.com/), [www.torchlight3.com](https://www.torchlight3.com/), [www.haveanicedeath.com](https://www.haveanicedeath.com/), [www.hyperlightbreaker.com](https://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.playpwi.com](https://www.playpwi.com/), [www.gogigantic.com](https://www.gogigantic.com/), and [www.remnantgame.com](http://www.remnantgame.com/) (or any subsequent URL which may replace them), and all officially associated micro-sites, mobile sites, subdomains, directories and subdirectories of such sites (collectively, the “Website”). Arc Games Inc. and Gearbox Publishing Amsterdam B.V. (collectively “Arc Games”, “we”, “our”, or “us”) use and maintain this Privacy Policy (“Privacy Policy”) that summarizes when and how your Personal Information is collected, used, safeguarded and disclosed in connection with your use of the Websites, and any games and game platforms, clients software, downloaded software or servers operated by Arc Games through the Website or otherwise supported by Arc Games on the Website (each, the “Game”, and collectively, the “Games”), and all features, functions, software and services offered through this Website. The Website, the Games and the features, functions, software and services offered through this Website collectively constitute the “Service.” This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your Personal Information. We reserve the right to change this Privacy Policy at any time. If we make any material changes to this Privacy Policy, we will notify you by email, when required by applicable law (sent to the email address specified in your account), and we will provide a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+Thank you for reading our Privacy Policy and visiting our websites located at [www.arcgames.com](https://www.arcgames.com/), [www.torchlight1.com](https://www.torchlight1.com/), [www.torchlight2.com](https://www.torchlight2.com/), [www.torchlight3.com](https://www.torchlight3.com/), [www.haveanicedeath.com](https://www.haveanicedeath.com/), [www.hyperlightbreaker.com](https://www.hyperlightbreaker.com/), [www.iplayufogame.com](https://www.iplayufogame.com/), [www.playstartrekonline.com](https://www.playstartrekonline.com/), [www.playneverwinter.com](https://www.playneverwinter.com/), [www.playchampionsonline.com](https://www.playchampionsonline.com/), [www.playpwi.com](https://www.playpwi.com/), [www.gogigantic.com](https://www.gogigantic.com/), [www.remnantgame.com](http://www.remnantgame.com/), and [www.playfellowship.com](http://www.playfellowship.com/) (or any subsequent URL which may replace them), and all officially associated micro-sites, mobile sites, subdomains, directories and subdirectories of such sites (collectively, the “Website”). Arc Games Inc. and Arc Games B.V. (collectively “Arc Games”, “we”, “our”, or “us”) use and maintain this Privacy Policy (“Privacy Policy”) that summarizes when and how your Personal Information is collected, used, safeguarded and disclosed in connection with your use of the Websites, and any games and game platforms, clients software, downloaded software or servers operated by Arc Games through the Website or otherwise supported by Arc Games on the Website (each, the “Game”, and collectively, the “Games”), and all features, functions, software and services offered through this Website. The Website, the Games and the features, functions, software and services offered through this Website collectively constitute the “Service.” This Privacy Policy also describes the choices available to you regarding the use of, your access to, and how to update and correct your Personal Information. We reserve the right to change this Privacy Policy at any time. If we make any material changes to this Privacy Policy, we will notify you by email, when required by applicable law (sent to the email address specified in your account), and we will provide a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-1. **What is Personal Information?**
+**1\. What is Personal Information?**
 
 As used herein, the term “Personal Information” means information is linked or reasonably linkable to an identified or identifiable individual (such as a name, address, telephone number, mobile number, email address, or other account number), and information about that individual’s location or activities, such as information about his or her use of the Service, IP addresses or mobile device identifiers. Personal Information also includes demographic information such as date of birth, gender, geographic area and preferences. Personal Information does not include “aggregate” information, which is data we collect about the use of the Service or about a group or category of products, services or users, from which individual identities or other Personal Information has been removed. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Service. This Privacy Policy in no way restricts or limits our collection and use of aggregate information.
 
-1. **What Information Do We Collect and For Which Purposes?**
+**2\. What Information Do We Collect and For Which Purposes?**
 
 **Active Collection**
 
@@ -146,7 +81,7 @@ In certain instances, we also collect certain information about you from third-p
 
 We do not request or intend to collect any “special categories of information” as defined in art. 9 of the GDPR, such as any information on health, race, religion, political opinions or philosophical beliefs, sexual preferences or orientation. We also want to kindly remind you to be cautious when sharing this information about yourself (or others) in our forums.
 
-1. **For What Other Purposes Do We Use Personal Information?**
+**3\. For What Other Purposes Do We Use Personal Information?**
 
 In general, we use Personal Information we collect to process your requests or transactions, to provide you with information or Services you request, to inform you about other information, events, promotions, products or Services we think will be of interest to you, to facilitate your use of, and our administration and operation of, the Service, to better understand the needs of our visitors, and for the purpose for which the information was provided.
 
@@ -181,7 +116,7 @@ Insofar as the GDPR applies, we process Personal Information based on your conse
 
 If you provide us Personal Information about others, you should make sure you have obtained their consent or have lawful basis to do this. In such case, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-1. **Do We Share Personal Information?** **If So, How Do We Share Your Information?**
+**4\. Do We Share Personal Information?** **If So, How Do We Share Your Information?**
 
 We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy.
 
@@ -213,27 +148,27 @@ Information we collect and process, including Personal Information, may also be 
 
 Please note that nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.
 
-1. **International Transfers of Personal Information**
+**5\. International Transfers of Personal Information**
 
-In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for gaming, the information relating to your account and use of our games is transferred between Arc Games Inc. located in the United States and Gearbox Publishing Amsterdam B.V. located in The Netherlands. We also transfer data outside Europe where our third-party Service Providers or partners are located.
+In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for gaming, the information relating to your account and use of our games is transferred between Arc Games Inc. located in the United States and Arc Games B.V. located in The Netherlands. We also transfer data outside Europe where our third-party Service Providers or partners are located.
 
 If and insofar as the GDPR applies, in case such recipients are located in a third country for which the European Commission has not yet decided that it ensures an adequate level of protection and where derogations for specific situations do not apply, we shall implement appropriate safeguards with regard to the processing of your Personal Information. Where we rely on such appropriate safeguards for the transfer of your Personal Information, we will assess whether these safeguards can sufficiently protect your Personal Information so that the level of protection guaranteed in the European Union is not undermined by the transfer. If this is not the case, we will take the additional measures necessary to provide appropriate protection for your Personal Information. If it is not possible to provide for appropriate protection of your Personal Information, we will not transfer your Personal Information to the recipient in a third country, or will transfer your Personal Information only if and to the extent that another mechanism justifies the transfer of your Personal Information in accordance with applicable data protection law. To obtain a copy of these data protection safeguards or to obtain information about their applicability, please send a request via email to [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
-1. **Links to Third Party Sites**
+**6\. Links to Third Party Sites**
 
 Our Service contains links to other websites. Third party social media sites may log information about you, for example, if you click an “Add This” or “Like” button for a social media site while on our Website or Service. We do not control such sites or their activities. Any Personal Information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We are not responsible for the content or privacy and security practices and policies of websites to which we link. Links from our Service to third parties or to other sites are provided for your convenience only. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Information.
 
-1. **Hardware Capacity Communication**
+**7\. Hardware Capacity Communication**
 
 You understand and agree that when you download a Game, in order to be able to use the Game, the Game software may monitor and communicate information from your computer relating to hardware capacity.
 
-1. **Performance Monitoring**
+**8\. Performance Monitoring**
 
 You understand and agree that when you communicate with other users within a game or utilize any interactive features available on the Service, such as instant messaging, forums or chat rooms, such communications and postings are transmitted through our servers, and we may, but are not obligated to, monitor all such communications and postings, including those that are designated as “private,” to the degree that laws and regulations enable us to do this. Therefore, as the abovementioned performance monitoring might involve access to these communications and postings, please do not use these communication channels for private messages or to exchange Personal Information.
 
 This processing is based on our legitimate interest to keep our Service efficient and safe, in line with art. 6.1.(f) of the GDPR (if and to the extent that the GDPR applies).
 
-1. **What Steps Do We Take to Protect Personal Information Online?**
+**9\. What Steps Do We Take to Protect Personal Information Online?**
 
 Arc Games endeavors to take reasonable precaution to safeguard and secure the Personal Information we collect through the Service. We have put in place physical, electronic, and managerial procedures that are designed to prevent unauthorized access, loss, or misuse of Personal Information. For example, Arc Games uses SSL (secured socket layer) technology to encrypt your transmission of sensitive information to us, such as account passwords, credit card numbers and other payment-related identifiable information).
 
@@ -243,7 +178,7 @@ Additionally, our information management systems are configured in such a way as
 
 If you have any questions about security on our Service, you can contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
-1. **What Choices Do You Have Regarding the Use Of Your Personal Information?**
+**10\. What Choices Do You Have Regarding the Use Of Your Personal Information?**
 
 Arc Games gives you certain options to control the collection, use, and disclosure of your Personal Information. We will ask for your consent before sharing your Personal Information with third parties in ways not covered by this Privacy Policy (including any use for direct marketing purposes), if it is required by applicable laws.
 
@@ -261,17 +196,17 @@ Please refer to your browser’s or mobile device’s technical information for 
 
 As mentioned above, if you are based in the European Union and the GDPR applies to our processing of your Personal Information, we will only use, where applicable, strictly necessary, performance, functional, targeting, and social media cookies when you have given your consent for this, as described in our Cookie Policy. You can choose whether to accept the use of cookies by indicating your cookie preferences in our cookie management tool located at the footer of each Website.
 
-1. **Children’s Privacy**
+**11\. Children’s Privacy**
 
 Children under the age of 13 are not eligible to use our Service. The Services are not directed to children under the age of 13. Arc Games does not intentionally collect Personal Information from children without seeking any required parental consent in accordance with applicable legal and regulatory obligations, such as the U.S. Children’s Online Privacy Protection Act (“COPPA”).  If we discover that we have inadvertently collected information from children under 13, we will delete the child’s information from our systems as soon as possible. If you become aware that Personal Information about a person under 13 has been provided to us, please immediately contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
 We may ask you to provide age-related information for age verification to assist us with compliance with laws and regulations, including COPPA. Such information that we may request in connection with age verification may be your date of birth. If a parental consent is required and if a parent provides their consent, parents can review the account settings and make choices with regard to their child’s account and data.
 
-1. **How to Review, Update, Correct, Or Delete Personal Information**
+**12\. How to Review, Update, Correct, Or Delete Personal Information**
 
 Upon request Arc Games will provide you with information about whether we hold, or process on behalf of a third party, any of your Personal Information. To request this information please submit a ticket using the Customer Support website: support.arcgames.com.
 
-If and insofar as foreseen in applicable data protection legislation, you have the right to request from us access to and rectification or erasure of Personal Information or restriction of processing or to object to processing as well as the right to data portability, please contact us at [privacy@arcgames.com](mailto:privacy@gearboxsf.com).
+If and insofar as foreseen in applicable data protection legislation, you have the right to request from us access to and rectification or erasure of Personal Information or restriction of processing or to object to processing as well as the right to data portability, please contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
 Please note that certain types of Personal Information that is necessary to check eligibility, such as birth date or age, cannot be deleted unless you close your Account. However, such information may be modified with sufficient verification of the new information. Note that if you choose to have us delete all of your data, you may need to open a new user account to continue receiving the full functionality of the applicable Services.
 
@@ -281,17 +216,17 @@ Moreover, we reserve the right to retain your information in our files if we bel
 
 Where processing is based on your consent, you have the right to withdraw consent at any time. Furthermore, you have the right to lodge a complaint with a competent supervisory authority.
 
-1. **Data Storage**
+**13\. Data Storage**
 
 We store Personal Information for as long as we reasonably need it to fulfill the purposes for which it was collected. We may retain certain information for legitimate purposes or as required by applicable laws.
 
-1.  **General Data Protection Regulation**
+**14\. General Data Protection Regulation**
 
 When you are in the European Union, the European Regulation (EU) 2016/679, also referred to as the “General Data Protection Regulation” or “GDPR”, applies to the collection and processing of your Personal Information by Arc Games.
 
 Arc Games Inc. is a United States based company and our servers and business operations are located primarily in the United States of America. By using our Service and providing us with information, please note that your Personal Information will be processed on computers located in the United States of America in the manner described in this Privacy Policy. You acknowledge and understand that the laws regarding Personal Information in the United States may be less stringent than the laws of your country and may not offer the same protections or rights as those laws. If you object to your Personal Information being transferred or used as described in this Privacy Policy, please do not use this Service. Additionally, if you are under age 16, do not provide any Personal Information unless you have first obtained your parent’s or guardian’s permission, and your parent or guardian has expressly given us consent for you to do so.
 
-For EU users: Arc Games Inc. is a United States based company and our servers and business operations are located primarily in the United States. In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for the Games or our Services, the information relating to your account and use of our Games is transferred between Arc Games Inc. located in the United States and Gearbox Publishing Amsterdam B.V. located in the Netherlands.
+For EU users: Arc Games Inc. is a United States based company and our servers and business operations are located primarily in the United States. In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for the Games or our Services, the information relating to your account and use of our Games is transferred between Arc Games Inc. located in the United States and Arc Games B.V. located in the Netherlands.
 
 EU-US Data Privacy Framework
 
@@ -313,15 +248,15 @@ In compliance with the Data Privacy Framework, Arc Games Inc. commits to resolve
 
 If you have any thoughts or questions about this Privacy Policy, you may contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
-Arc Games Inc.’s representative for GDPR purposes in the European Union is Gearbox Publishing Amsterdam B.V., with registered address in Herikerbergweg 181 Unit 4.3, 1101CN, Amsterdam, The Netherlands, with corporate identification number 75256827.
+Arc Games Inc.’s representative for GDPR purposes in the European Union is Arc Games B.V., with registered address in Herikerbergweg 181 Unit 4.3, 1101CN, Amsterdam, The Netherlands, with corporate identification number 75256827.
 
-1. **Contact Us**
+**15\. Contact Us**
 
 If you have any questions, concerns, or comments regarding this Privacy Policy, please contact us via email at [privacy@arcgames.com](mailto:privacy@arcgames.com) or by writing to us at the appropriate address below:
 
-If you are in the European Union, you may also contact Gearbox Publishing Amsterdam B.V. for inquiries regarding your Personal Information by regular mail at the following address:
+If you are in the European Union, you may also contact Arc Games B.V. for inquiries regarding your Personal Information by regular mail at the following address:
 
-Gearbox Publishing Amsterdam B.V.
+Arc Games B.V.
 
 Attn: Privacy Policy Inquiry
 
@@ -341,7 +276,7 @@ Redwood City, CA 94065
 
 United States of America.
 
-1. **Additional Information for California Residents**
+**16\. Additional Information for California Residents**
 
 California Civil Code Section 1798.100 _et seq_., as amended by California Privacy Rights Act, (“CPRA”), requires us to provide the following information.
 
@@ -414,7 +349,7 @@ You may designate an authorized agent to make requests on your behalf. You must 
 
 We do not disclose Personal Information to third parties for their direct marketing purposes.
 
-Last updated: May 30, 2024.
+Last updated: April 29, 2024
 
 [](https://www.arcgames.com/en/)
 
