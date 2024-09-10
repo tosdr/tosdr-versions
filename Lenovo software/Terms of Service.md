@@ -3,8 +3,6 @@ Lenovo Terms of use - United States
 
   
 
-respectSign
-
 This is a recommends products dialog
 
 Top Suggestions
@@ -19,11 +17,7 @@ French
 
 English
 
-LangEntry.ChineseTaiwan
-
 ไทย
-
-LangEntry.Dutch
 
 German
 
@@ -65,8 +59,6 @@ _Partner Benefits_
 
 View All Details >
 
-spend
-
 more to reach
 
 PRO Plus
@@ -94,14 +86,6 @@ We're sorry, the maximum quantity you are able to buy at this amazing eCoupon pr
 Sign in or Create an Account to Save Your Cart!
 
 Sign in or Create an Account to Join Rewards
-
-Temporarilyunavailable
-
-Discontinued
-
-comingsoon
-
-minicart\_error\_please\_view
 
 View Cart
 
@@ -133,7 +117,7 @@ Popular Searches
 
 What are you looking for today ?
 
-Quick Links
+Trending
 
 Recent Searches
 
@@ -141,8 +125,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -156,6 +138,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -194,8 +190,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -209,6 +203,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -247,8 +255,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -262,6 +268,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -300,8 +320,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -315,6 +333,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -353,8 +385,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -368,6 +398,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -406,8 +450,6 @@ Hamburger Menu
 
 * [Lenovo Pro Business Store
     
-    {{loyaltyMsg}}
-    
     **Lenovo Pro** Business Store
     
     arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
@@ -421,6 +463,20 @@ Hamburger Menu
     [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
     
       
+    
+* [Lenovo Education
+    
+    **Lenovo Education**
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/student/)
+    
+    Lenovo Education
+    
+    [**Learn More**](https://www.lenovo.com/us/en/student/ "Learn More")
+    
+    [**Shop Deals**](https://www.lenovo.com/us/en/d/deals/student/?IPromoID=LEN657975 "Shop Deals")
+    
+    [**LenovoEDU Community**](https://education.lenovo.com/us?IPromoID=LEN767813 "LenovoEDU Community")
     
 * Accessibility
     
@@ -472,17 +528,23 @@ Hamburger Menu
     
     * Shop
         
-        [Shop all Education](https://www.lenovo.com/us/en/student/) [Student Deals](https://www.lenovo.com/us/en/d/deals/student/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
-    * Explore
+        [Shop all Education](https://www.lenovo.com/us/en/student/) [Students Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Laptops by Major](https://www.lenovo.com/us/en/d/laptops-for-college/) [Laptops by Grade](https://www.lenovo.com/us/en/d/student-laptops/shop-by-grade/) [Need Help? Find Your PC](https://www.lenovo.com/us/en/pf/education/) [Student Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/students/)
+    * Best Sellers
         
-        [Student Discounts](https://www.lenovo.com/us/en/landingpage/students-and-teachers/) [Lenovo EDU Community](https://education.lenovo.com/us) [More in Lenovo Education](https://www.lenovo.com/us/en/education/)
+        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-14-inch-intel/len101t0083) [IdeaPad Pro 5i](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(14-inch-intel)/len101i0102) [Thinkbook 16 Gen 7](https://www.lenovo.com/us/en/p/laptops/thinkbook/thinkbook-series/lenovo-thinkbook-16-gen-7-16-inch-intel/len101b0045) [Yoga 7 2-in-1](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(14-inch-amd)/len101y0046) [ThinkVision 23.8 inch Monitor - T24i-30](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/63cfmar1us) [Legion Pro 5i Gaming](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033)
     
 * [Gaming](https://www.lenovo.com/us/en/gaming/store/)
     
-    * Shop
+    * [Shop](https://www.lenovo.com/us/en/gaming/store/) [Shop All Gaming](https://www.lenovo.com/us/en/gaming/store/) [Gaming Laptops](https://www.lenovo.com/us/en/d/gaming-laptops/) [Gaming Desktops](https://www.lenovo.com/us/en/d/gaming-desktops/) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/)
         
-        [Shop All Gaming](https://www.lenovo.com/us/en/gaming/store/) [Gaming Laptops](https://www.lenovo.com/us/en/d/gaming-laptops/) [Gaming Desktops](https://www.lenovo.com/us/en/d/gaming-desktops/) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/) [Gaming Sale](https://www.lenovo.com/us/en/d/deals/gaming/)
-    * [Explore](https://www.lenovo.com/us/en/gaming/store/) [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/) [Legion Go](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001) [Legion Ultimate Support](https://www.lenovo.com/us/en/legion-support/) [Legion Gaming Community](https://gaming.lenovo.com/us/)
+        Gaming By Brand
+        
+        [Lenovo Legion](https://www.lenovo.com/us/en/legion/) [Lenovo LOQ](https://www.lenovo.com/us/en/c/lenovo-loq/)
+    * [Best Sellers](https://www.lenovo.com/us/en/gaming/store/) [Legion Pro 5i 16"](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Legion Tower 7i](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-intel/len102g0007) [Legion Go](https://www.lenovo.com/us/en/p/handheld/legion-go/len106g0001)
+        
+        Quick Links
+        
+        [Legion Gaming Community](https://gaming.lenovo.com/us/) [Legion Ultimate Support](https://www.lenovo.com/us/en/legion-support/)
     
 
 ![Lenovo](https://p3-ofp.static.pub/fes/cms/2023/03/22/8hjmcte754uauw07ypikjkjtx0m5ib450914.svg)
@@ -499,25 +561,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -525,7 +587,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -546,25 +608,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -572,7 +634,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -593,25 +655,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -619,7 +681,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -640,25 +702,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -666,7 +728,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -687,25 +749,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -713,7 +775,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -734,25 +796,25 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place
+    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/register/create)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)[Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -760,7 +822,7 @@ skip to main content
     
 * [My Lenovo Rewards
     
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)](https://www.lenovo.com/us/en/rewards/) 
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{loyaltyMsg}}](https://www.lenovo.com/us/en/rewards/)
     
     My Lenovo Rewards
     
@@ -789,7 +851,7 @@ skip to main content
         [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [Shop All Laptops](https://www.lenovo.com/us/en/laptops/results)
     * Best Selling Laptops
         
-        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 7i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-pro-series/lenovo-legion-pro-7i-gen-9-(16-inch-intel)/len101g0034) [Yoga 7 (16” AMD) 2 in 1 Laptop](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-2-in-1-series/lenovo-yoga-7-2-in-1-gen-9-(16-inch-amd)/len101y0045) [IdeaPad 5i 2-in-1 (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(16-inch-intel)/len101i0103)
+        [ThinkPad X1 Carbon Gen 12](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-12-(14-inch-intel)/len101t0083) [ThinkPad E16 Gen 2](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/lenovo-thinkpad-e16-gen-2-(16-inch-intel)/len101t0088) [Legion Pro 5i Gaming (16" Intel)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-pro-5i-gen-9-(16-inch-intel)/len101g0033) [Yoga Slim 7x 14″ Laptop](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7x-gen-9-14-inch-snapdragon/len101y0049) [IdeaPad 5i 2-in-1 (16″ Intel)](https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-2-in-1-series/lenovo-ideapad-5i-2-in-1-gen-9-(16-inch-intel)/len101i0103)
         
         Quick Links
         
@@ -806,10 +868,10 @@ skip to main content
         
         Desktops by Brand
         
-        [Legion Gaming](https://www.lenovo.com/us/en/legion) [ThinkCentre](https://www.lenovo.com/us/en/c/desktops/thinkcentre/) [IdeaCentre](https://www.lenovo.com/us/en/c/desktops/ideacentre) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
+        [Legion Gaming](https://www.lenovo.com/us/en/legion) [LOQ Gaming](https://www.lenovo.com/us/en/c/lenovo-loq/?visibleDatas=1014%3ADesktops) [ThinkCentre](https://www.lenovo.com/us/en/c/desktops/thinkcentre/) [IdeaCentre](https://www.lenovo.com/us/en/c/desktops/ideacentre) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
     * Best Selling Desktops
         
-        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-(intel)-sff/12jf000rus) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50q Gen 4](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50q-gen-4-thin-client-(intel)/len102c0030) [ThinkCentre M70q Gen 4 Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m70q-gen-4-tiny-(intel)/len102c0034) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M80q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m80q-gen-3-tiny-(intel)/len102c0018)
+        [ThinkCentre Neo 50s Gen 4 (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50s-gen-4-intel-sff/len102c0031) [ThinkCentre M75q Gen2](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m75q-gen-2/11tc1mtm7g2) [ThinkCentre Neo 50a Gen 5 (24″ Intel) AIO](https://www.lenovo.com/us/en/p/desktops/thinkcentre/thinkcentre-neo-series/thinkcentre-neo-50a-gen-5-24-inch-intel/len102c0043) [ThinkCentre M70q Gen 4 Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m70q-gen-4-tiny-(intel)/len102c0034) [IdeaCentre Mini (1L Intel) Desktop](https://www.lenovo.com/us/en/p/desktops/ideacentre/500-series/ideacentre-mini-gen-8-(1l-intel)/len102d0032) [Legion Tower 7i Gaming (Intel)](https://www.lenovo.com/us/en/p/desktops/legion-desktops/legion-t-series-towers/legion-tower-7i-gen-8-(intel)/len102g0007) [ThinkCentre M80q Tiny (Intel)](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m80q-gen-3-tiny-(intel)/len102c0018)
         
         Quick Links
         
@@ -819,7 +881,7 @@ skip to main content
     
     * Workstations by Type
         
-        [Desktop Workstations](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series) [AI-Ready Workstations](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Ready%2520Workstations) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [Shop All Workstations](https://www.lenovo.com/us/en/workstations/)
+        [AI-Ready Workstations](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI-Ready%2520Workstations) [Desktop Workstations](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series) [Mobile Workstations](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [Shop All Workstations](https://www.lenovo.com/us/en/workstations/)
     * Workstations by Brand
         
         [ThinkPad](https://www.lenovo.com/us/en/c/laptops/thinkpad/thinkpadp) [ThinkStation](https://www.lenovo.com/us/en/c/workstations/thinkstation-p-series)
@@ -836,11 +898,11 @@ skip to main content
     * Accessories by Category
         
         [Docking Stations](https://www.lenovo.com/us/en/accessories-and-software/docking/) [Keyboards & Mice](https://www.lenovo.com/us/en/dc/accessories-and-software/keyboards-and-mice) [Cases & Bags](https://www.lenovo.com/us/en/dc/accessories-and-software/cases-and-bags) [Audio](https://www.lenovo.com/us/en/dc/accessories-and-software/audio) [Chargers & Batteries](https://www.lenovo.com/us/en/dc/accessories-and-software/chargers-and-batteries) [Cables & Adapters](https://www.lenovo.com/us/en/dc/accessories-and-software/cables-and-adapters) [Webcams](https://www.lenovo.com/us/en/dc/accessories-and-software/webcams-and-video) [Lenovo Go Accessories](https://www.lenovo.com/us/en/accessories/lenovo-go/) [Printers & Scanners](https://www.lenovo.com/us/en/dc/accessories-and-software/printers-and-scanners) [Wireless & Networking](https://www.lenovo.com/us/en/dc/accessories-and-software/wireless-and-networking) [Privacy & Protection](https://www.lenovo.com/us/en/dc/accessories-and-software/privacy-and-protection)
-    * [Memory & Storage](https://www.lenovo.com/us/en/dc/accessories-and-software/memory-and-storage) [Stylus Pens & Supplies](https://www.lenovo.com/us/en/dc/accessories-and-software/stylus-pens-and-supplies) [Stands & Mounts](https://www.lenovo.com/us/en/dc/accessories-and-software/stands-arms-and-mounts) [Graphics Cards](https://www.lenovo.com/us/en/dc/accessories-and-software/graphics-cards) [Hubs](https://www.lenovo.com/us/en/dc/accessories-and-software/hubs?) [Tablet Accessories](https://www.lenovo.com/us/en/dc/accessories-and-software/tablet-accessories) [VR Headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets?) [Smart Home Devices](https://www.lenovo.com/us/en/dc/accessories-and-software/smart-home-devices) [Wearables](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/)
-    * [Software & Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software) [PDF Editors](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3APDF%2520Software) [Graphics & Creativity](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AGraphics%2520%2526%2520Design) [Security](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3ASecurity%2520-%2520Downloads) [Utilities](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AUtilities) [Monthly Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription) [Microsoft 365](https://www.lenovo.com/us/en/business/software/microsoft-365-business/) [Google Workspace](https://www.lenovo.com/us/en/business/software/google-workspace/) [Dropbox](https://www.lenovo.com/us/en/software/dropbox-for-business/) [Lenovo Vantage](https://www.lenovo.com/us/en/software/vantage) [Amazon Music](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription?IPromoID=122913&visibleDatas=1008%3AAmazon) [Shop All Software](https://www.lenovo.com/us/en/dc/accessories-and-software/software)
+    * [Memory & Storage](https://www.lenovo.com/us/en/dc/accessories-and-software/memory-and-storage) [Stylus Pens & Supplies](https://www.lenovo.com/us/en/dc/accessories-and-software/stylus-pens-and-supplies) [Stands & Mounts](https://www.lenovo.com/us/en/dc/accessories-and-software/stands-arms-and-mounts) [Graphics Cards](https://www.lenovo.com/us/en/dc/accessories-and-software/graphics-cards) [Hubs](https://www.lenovo.com/us/en/dc/accessories-and-software/hubs?) [Tablet Accessories](https://www.lenovo.com/us/en/dc/accessories-and-software/tablet-accessories) [VR Headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets?) [Smart Home Devices](https://www.lenovo.com/us/en/dc/accessories-and-software/smart-home-devices) [Wearables](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables/wearables_wearables/) [Gaming Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/gaming-accessories/)
+    * [Software & Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software) [PDF Editors](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3APDF%2520Software) [Graphics & Creativity](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AGraphics%2520%2526%2520Design) [Security](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3ANorton%2520Subscriptions%2CSecurity) [Utilities](https://www.lenovo.com/us/en/dc/accessories-and-software/software?visibleDatas=706%3AUtilities) [Subscriptions](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription) [Microsoft 365](https://www.lenovo.com/us/en/business/software/microsoft-365-business/) [Google Workspace](https://www.lenovo.com/us/en/business/software/google-workspace/) [Dropbox](https://www.lenovo.com/us/en/software/dropbox-for-business/) [Lenovo Vantage](https://www.lenovo.com/us/en/software/vantage) [Amazon Music](https://www.lenovo.com/us/en/dc/accessories-and-software/software%20subscription?IPromoID=122913&visibleDatas=1008%3AAmazon) [Shop All Software](https://www.lenovo.com/us/en/dc/accessories-and-software/software)
     * Quick Links
         
-        [Find Compatible Accessories](https://www.lenovo.com/us/en/compatibilityfinder/) [Web Exclusives](https://www.lenovo.com/us/en/d/web-exclusive-accessories-deals/) [Yes, Lenovo Sells That Brand](https://www.lenovo.com/us/en/brands/) [Bundle & Save](https://www.lenovo.com/us/en/dc/accessories-and-software/convenience-bundles) [Accessory Deals](https://www.lenovo.com/us/en/d/deals/accessories/) [New Arrivals](https://www.lenovo.com/us/en/d/accessories-and-software/new-accessories/) [PC Support](https://pcsupport.lenovo.com/us/en/) [Warranty Lookup & Extension](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty) [Teens Accessories](https://www.lenovo.com/us/en/d/accessories/teens-accessories/) [Streaming & Podcasting](https://www.lenovo.com/us/en/d/streaming-and-podcasting/)
+        [Find Compatible Accessories](https://www.lenovo.com/us/en/compatibilityfinder/) [Web Exclusives](https://www.lenovo.com/us/en/d/web-exclusive-accessories-deals/) [Yes, Lenovo Sells That Brand](https://www.lenovo.com/us/en/d/deals/electronics/) [Bundle & Save](https://www.lenovo.com/us/en/dc/accessories-and-software/convenience-bundles) [Accessory Deals](https://www.lenovo.com/us/en/d/deals/accessories/) [New Arrivals](https://www.lenovo.com/us/en/d/accessories-and-software/new-accessories/) [PC Support](https://pcsupport.lenovo.com/us/en/) [Warranty Lookup & Extension](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty) [Teens Accessories](https://www.lenovo.com/us/en/d/accessories/teens-accessories/) [Streaming & Podcasting](https://www.lenovo.com/us/en/d/streaming-and-podcasting/)
     
 * [Monitors](https://www.lenovo.com/us/en/d/accessories-and-monitors/monitors/monitor-buying-guide/)
     
@@ -859,7 +921,7 @@ skip to main content
     
 * [Tablets & Phones](https://www.lenovo.com/us/en/tablets/)
     
-    * [Explore Tablets](https://www.lenovo.com/us/en/tablets/subseries-results) [Android Tablets](https://www.lenovo.com/us/en/c/tablets/android-tablets/lenovo-tab-series) [Tablets for Business](https://www.lenovo.com/us/en/business/tablets/) [Tablet Accessories](https://www.lenovo.com/us/en/dc/accessories-and-software/tablet-accessories) [Tablet Deals](https://www.lenovo.com/us/en/d/deals/phones-and-tablets/?sortBy=bestSelling) [Shop All Tablets](https://www.lenovo.com/us/en/tablets/results)
+    * [Explore Tablets](https://www.lenovo.com/us/en/tablets/subseries-results) [Tablets for Business](https://www.lenovo.com/us/en/business/tablets/) [Android Tablets](https://www.lenovo.com/us/en/c/tablets/android-tablets/lenovo-tab-series) [Tablet Accessories](https://www.lenovo.com/us/en/dc/accessories-and-software/tablet-accessories) [Tablet Deals](https://www.lenovo.com/us/en/d/deals/phones-and-tablets/?sortBy=bestSelling) [Shop All Tablets](https://www.lenovo.com/us/en/tablets/results)
     * [Explore Smartphones](https://www.lenovo.com/us/en/d/motorola-smartphones/) [ThinkPhone by Motorola](https://www.lenovo.com/us/en/p/phones/motorola-smartphones/thinkphone/thinkphone-by-motorola/paxm0000us) [Moto G Series](https://www.lenovo.com/us/en/d/motorola-smartphones/moto-g/) [Moto Edge Series](https://www.lenovo.com/us/en/d/motorola-smartphones/motorola-edge) [Moto Care](https://www.lenovo.com/us/en/moto-care/) [Phone Accessories](https://www.lenovo.com/us/en/d/accessories-and-software/phone-accessories/) [Smartphone Deals](https://www.lenovo.com/us/en/d/deals/phones)
     * Best Selling Tablets
         
@@ -867,20 +929,34 @@ skip to main content
     
 * [Servers & Storage](https://www.lenovo.com/us/en/servers-storage/)
     
-    * [Explore Servers](https://www.lenovo.com/us/en/servers-storage/servers/) [Rack Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/racks/) [Tower Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/towers/) [Edge Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/edge/) [Mission Critical Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/mission-critical/) [Multi-Node Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/multi-node/) [Supercomputing Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/supercomputing/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/) [Servers Deals](https://www.lenovo.com/us/en/d/deals/servers/)
-    * Explore By Processor
+    * [Explore Servers](https://www.lenovo.com/us/en/servers-storage/servers/) [Rack Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/racks/) [Tower Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/towers/) [Edge Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/edge/) [Mission Critical Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/mission-critical/) [Multi-Node Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/multi-node/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [Supercomputing Servers](https://www.lenovo.com/us/en/c/servers-storage/servers/supercomputing/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/) [Servers Deals](https://www.lenovo.com/us/en/d/deals/servers/)
+    * Explore Storage
         
-        [AMD Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-amd/) [Intel Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-intel/) [Explore Software](https://www.lenovo.com/us/en/servers-storage/software/) [Infrastructure Software](https://www.lenovo.com/us/en/servers-storage/software/infrastructure/) [Management Software](https://www.lenovo.com/us/en/servers-storage/software/management/) [Lenovo Open Cloud Automation](https://www.lenovo.com/us/en/servers-storage/software/open-cloud-automation/) [Cloud Marketplace](https://www.lenovo.com/us/en/servers-storage/software/cloud-marketplace/)
+        [AMD Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-amd/) [Intel Servers](https://www.lenovo.com/us/en/c/servers-storage/servers-intel/) [Explore Storage](https://www.lenovo.com/us/en/servers-storage/storage/) [Unified Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/unified-storage/) [Storage Area Network](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-area-network/) [Direct-Attached Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/das/) [Tape Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-tape/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/)
     * [Hyperconverged Infrastructure](https://www.lenovo.com/us/en/servers-storage/sdi/) [ThinkAgile HX Series (with Nutanix)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-hx-series/) [ThinkAgile MX and SXM Series  
-        (with Microsoft)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-mx-series/) [ThinkAgile VX Series (with VMware)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-vx-series/) [Explore Storage](https://www.lenovo.com/us/en/servers-storage/storage/) [Unified Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/unified-storage/) [Storage-Area Network](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-area-network/) [Direct-Attached Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/das/) [Tape Storage](https://www.lenovo.com/us/en/c/servers-storage/storage/storage-tape/) [Options & Accessories](https://www.lenovo.com/us/en/servers-storage-options/)
+        (with Microsoft)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-mx-series/) [ThinkAgile VX Series (with VMware)](https://www.lenovo.com/us/en/servers-storage/sdi/thinkagile-vx-series/) [Explore Software](https://www.lenovo.com/us/en/servers-storage/software/) [Infrastructure Software](https://www.lenovo.com/us/en/servers-storage/software/infrastructure/) [Management Software](https://www.lenovo.com/us/en/servers-storage/software/management/) [Lenovo Open Cloud Automation](https://www.lenovo.com/us/en/servers-storage/software/open-cloud-automation/) [Cloud Marketplace](https://www.lenovo.com/us/en/servers-storage/software/cloud-marketplace/)
     
 * [Home & Office](https://www.lenovo.com/us/en/home-and-office/)
     
-    * [Office Supplies](https://www.lenovo.com/us/en/dc/accessories-and-software/office-supplies) [Shredders](https://www.lenovo.com/us/en/dc/accessories-and-software/office-supplies?visibleDatas=706%3AShredders)
+    * Office Supplies
+        
+        [Furniture](https://www.lenovo.com/us/en/dc/accessories-and-software/furniture) [Office Supplies](https://www.lenovo.com/us/en/dc/accessories-and-software/office-supplies) [Shredders](https://www.lenovo.com/us/en/dc/accessories-and-software/office-supplies?visibleDatas=706%3AShredders)
     * [Smart Office](https://www.lenovo.com/us/en/d/accessories/?sortBy=bestSelling&visibleDatas=1029%3AFor%2520Business) [Conference Cameras](https://www.lenovo.com/us/en/dc/accessories-and-software/webcams-and-video?visibleDatas=706%3ACameras%2CWebcam%2520Bundles%2CWebcams) [Presentation Remote Controllers](https://www.lenovo.com/us/en/dc/accessories-and-software/keyboards-and-mice?visibleDatas=706%3ARemote%2520Controllers) [Printers & Scanners](https://www.lenovo.com/us/en/dc/accessories-and-software/printers-and-scanners) [ThinkSmart Bar](https://www.lenovo.com/us/en/p/smart-devices/smart-office/thinksmart/thinksmart-bar/11sp1tssdbr) [Speakers](https://www.lenovo.com/us/en/dc/accessories-and-software/audio?visibleDatas=706%3ASpeakers) [ThinkReality Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) [Shop All ThinkSmart Office Devices](https://www.lenovo.com/us/en/c/smart-devices/smart-office/thinksmart/)
     * Smart Devices
         
         [Smart Lighting](https://www.lenovo.com/us/en/d/accessories/philips-hue/) [VR headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets) [Smartwatches](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables?visibleDatas=706%3AWearable%20Accessories%2CWearables)
+    
+* [AI](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
+    
+    * Explore AI PCs
+        
+        [Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Copilot+ PCs](https://www.lenovo.com/us/en/copilot-plus-pc/index.html)
+    * AI PCs
+        
+        [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
+    * Recommended Products
+        
+        [Yoga Slim 7i Gen 9](https://www.lenovo.com/us/en/p/laptops/yoga/yoga-slim-series/yoga-slim-7i-gen-9-aura-edition-15-inch-intel/len101y0051) [X1 Carbon Gen 13 Aura Edition](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-13-aura-edition-14-inch-intel/len101t0108) [ThinkPad T14s Gen 6](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/lenovo-thinkpad-t14s-gen-6-(14-inch-snapdragon)/len101t0099)
     
 * [Deals](https://www.lenovo.com/us/en/d/deals/doorbusters/)
     
@@ -897,11 +973,13 @@ skip to main content
 
 * [AI](https://www.lenovo.com/us/en/solutions/ai/)
     
-    * [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [AI Services](https://www.lenovo.com/us/en/services/professional-services-ai) [Lenovo AI Innovatiors](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
+    * AI
+        
+        [Smarter AI For All](https://www.lenovo.com/us/en/solutions/ai/) [AI-Powered Digital Workplace Solutions](https://www.lenovo.com/us/en/solutions/digital-workplace) [AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Hybrid AI](https://www.lenovo.com/us/en/servers-storage/solutions/ai/) [Neptune Liquid Cooling](https://www.lenovo.com/us/en/servers-storage/neptune/) [AI Services](https://www.lenovo.com/us/en/services/professional-services-ai) [Lenovo AI Innovators](https://www.lenovo.com/us/en/servers-storage/alliance/ai-innovators/) [Smarter AI Success Stories](https://www.lenovo.com/us/en/case-studies-customer-success-stories/ai-success-story/)
     
 * [Digital Workplace](https://techtoday.lenovo.com/us/en/digital-workplace-solutions)
     
-    * [Digital Workplace Solutions](https://techtoday.lenovo.com/us/en/digital-workplace-solutions) [Digital Workplace Offerings](https://www.lenovo.com/us/en/solutions/digital-workplace/) [Virtual Desktop Infrastructure](https://www.lenovo.com/us/en/servers-storage/solutions/client-virtualization/) [Smart Collaboration](https://techtoday.lenovo.com/us/en/smart-collaboration)
+    * [Digital Workplace Solutions](https://techtoday.lenovo.com/us/en/digital-workplace-solutions) [Virtual Desktop Infrastructure](https://www.lenovo.com/us/en/servers-storage/solutions/client-virtualization/) [Smart Collaboration](https://techtoday.lenovo.com/us/en/smart-collaboration)
     
 * [Hybrid Cloud](https://www.lenovo.com/us/en/servers-storage/solutions/hybrid-cloud/)
     
@@ -910,7 +988,7 @@ skip to main content
     
 * [Edge](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/)
     
-    * [Edge AI](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/) [Edge Computing](https://www.lenovo.com/us/en/servers-storage/solutions/edge-computing/)
+    * [AI for All](https://www.lenovo.com/us/en/servers-storage/solutions/ai) [Edge AI](https://www.lenovo.com/us/en/servers-storage/solutions/edge-ai/) [Edge Computing](https://www.lenovo.com/us/en/servers-storage/solutions/edge-computing/)
     
 * [Sustainability](https://techtoday.lenovo.com/us/en/sustainability-solutions)
     
@@ -925,7 +1003,7 @@ skip to main content
     * [Solutions by Industry](https://www.lenovo.com/us/en/solutions/industry) [Architecture, Engineering  
         & Construction](https://techtoday.lenovo.com/us/en/workstations/aec) [Education](https://techtoday.lenovo.com/us/en/solutions/higher-education) [Government](https://techtoday.lenovo.com/us/en/government) [Healthcare](https://techtoday.lenovo.com/us/en/solutions/healthcare)
     * [Manufacturing](https://techtoday.lenovo.com/us/en/solutions/oem/manufacturing) [Media & Entertainment](https://techtoday.lenovo.com/us/en/workstations/media-entertainment) [OEM Infrastructure Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/oem/) [OEM Solutions](https://techtoday.lenovo.com/us/en/solutions/oem)
-    * [Product Development](https://techtoday.lenovo.com/us/en/workstations/product-dev) [Retail](https://techtoday.lenovo.com/us/en/solutions/retail-solutions) [SMB Infrastructure Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/smb) [Telco Infrastructure Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/telco-nfv/)
+    * [Product Developement](https://techtoday.lenovo.com/us/en/workstations/product-dev) [Retail](https://techtoday.lenovo.com/us/en/solutions/retail-solutions) [SMB Infrastructure Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/smb) [Telco Infrastructure Solutions](https://www.lenovo.com/us/en/servers-storage/solutions/telco-nfv/)
     
 * [Alliance Partners](https://www.lenovo.com/us/en/solutions/alliance-partners)
     
@@ -964,11 +1042,13 @@ skip to main content
     
 * [Security Services](https://www.lenovo.com/us/en/services/security-services/)
     
-    * [Security Services](https://www.lenovo.com/us/en/services/security-services/) [Cyber Resiliency as a Service](https://news.lenovo.com/pressroom/press-releases/ai-powered-solution-microsoft-simplifies-security/) [ThinkShield](https://techtoday.lenovo.com/us/en/solutions/thinkshield) [Accidental Damage Protection](https://www.lenovo.com/us/en/services/pc-services/lifecycle-support/warranty-protection/) [Smart Lock](https://www.lenovo.com/us/en/smart-lock/)
+    * [Security Services](https://www.lenovo.com/us/en/services/security-services/) [Cybersecurity](https://www.lenovo.com/us/en/services/cybersecurity/) [ThinkShield](https://techtoday.lenovo.com/us/en/solutions/thinkshield) [Accidental Damage Protection](https://www.lenovo.com/us/en/services/pc-services/lifecycle-support/warranty-protection/) [Smart Lock](https://www.lenovo.com/us/en/smart-lock/)
     
 * [Support Services](https://www.lenovo.com/us/en/services/support-services/)
     
-    * [Premier Support](https://techtoday.lenovo.com/us/en/premier) [Premier Support Plus](https://www.lenovo.com/us/en/premier-support-plus/)
+    * Premier Support
+        
+        [Premier Support Plus](https://www.lenovo.com/us/en/premier-support-plus/)
     * Hardware Support
         
         [Premium Care](https://www.lenovo.com/us/en/premiumcare/) [Premium Care Plus](https://www.lenovo.com/us/en/premium-care-plus/) [Sealed Battery](https://www.lenovo.com/us/en/services/pc-services/lifecycle-support/warranty-protection/) [Keep Your Drive](https://www.lenovo.com/us/en/services/pc-services/lifecycle-support/warranty-protection/) [Smart Performance](https://www.lenovo.com/us/en/software/lenovo-smart-performance-services)
@@ -980,7 +1060,7 @@ skip to main content
     
     * [TruScale](https://techtoday.lenovo.com/us/en/truscale) [TruScale DaaS](https://www.lenovo.com/us/en/daas/) [TruScale Infrastructure Services](https://www.lenovo.com/us/en/servers-storage/solutions/infrastructure-services/) [TruScale Hybrid Cloud](https://techtoday.lenovo.com/us/en/solutions/iaas/truscale-hybrid-cloud) [TruScale DaaS Calculator](https://techtoday.lenovo.com/us/en/truscale-daas-calculator)
     
-* [Warranty Lookup](https://pcsupport.lenovo.com/us/en/warrantylookup/upgradewarranty/)
+* [Warranty Lookup](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty)
 
 * [Sales Support](https://www.lenovo.com/us/en/contact/sales-support/)
     
@@ -1008,11 +1088,11 @@ skip to main content
     
 * [Technical Support](https://support.lenovo.com/us/en)
 * [Track Your Order](https://www.lenovo.com/us/en/trackmyorder)
-* [Warranty Lookup](https://pcsupport.lenovo.com/us/en/warrantylookup)
+* [Warranty Lookup](https://support.lenovo.com/us/en/warranty-upgrade-and-services/?source=ecom_warranty)
 
 * [Who We Are](https://www.lenovo.com/us/en/about/who-we-are/)
     
-    * [Who We Are](https://www.lenovo.com/us/en/about/who-we-are/) [Our Leadership](https://www.lenovo.com/us/en/about/who-we-are/our-leadership/) [Our History](https://www.lenovo.com/us/en/about/who-we-are/history/)
+    * [Who We Are](https://www.lenovo.com/us/en/about/our-impact/) [Our Leadership](https://www.lenovo.com/us/en/about/who-we-are/our-leadership/) [Out History](https://www.lenovo.com/us/en/about/who-we-are/history/)
     
 * [What We Do](https://www.lenovo.com/us/en/about/what-we-do)
 * [Our Impact](https://www.lenovo.com/us/en/about/our-impact)
@@ -1030,17 +1110,17 @@ skip to main content
 
   
 
-{"arrowColor":"","backgroundColor":"#e6f4fa","divideColor":"#DBDBDB","sideMsg":"","data":\[{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pageb078d364-d4aa-442e-9e5e-61f17b4ed3b8","language":{"en\_us":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3EBack%20to%20School!%3C%2Fstrong%3E%20Save%20up%20to%20%7BsavingPercent%7D%20on%20laptops%20%26amp%3B%20accessories!%20Plus%2C%20extra%20savings%20the%20more%20you%20buy.%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fd%2Fdeals%2Fdoorbusters%2F%3FIPromoID%3DLEN944203%22%20target%3D%22\_self%22%3E%3Cstrong%3EShop%20Now%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3EBack%20to%20School!%3C%2Fstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3BSave%20up%20to%20%7BsavingPercent%7D%20on%20laptops%20%26amp%3B%20accessories!%20Plus%2C%20extra%20savings%20the%20more%20you%20buy.%3C%2Fspan%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22https%3A%2F%2Fadmin.lenovo.com%2Fd%2Fdeals%2Fdoorbusters%2F%3FIPromoID%3DLEN944203%22%20target%3D%22\_self%22%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3Cstrong%3EShop%20Now%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pageb078d364-d4aa-442e-9e5e-61f17b4ed3b8"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pagebe1124a2-fd66-47db-9b46-cac685248b23","language":{"en\_us":"%3Cp%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3EShopping%20for%20a%20business%3F%3C%2Fstrong%3E%20New%20Lenovo%20Pro%20members%20get%20%24100%20off%20first%20order%20of%20%241%2C000%2B%2C%20exclusive%20savings%20%26amp%3B%201%3A1%20tech%20support.%26nbsp%3B%3Ca%20href%3D%22%2Fbusiness%2Fbenefits%2F%3FipromoID%3DLEN818484%22%20target%3D%22\_self%22%20textvalue%3D%22Learn%20More%20%26gt%3B%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3EShopping%20for%20a%20business%3F%3C%2Fstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3BNew%20Lenovo%20Pro%20members%20get%20%24100%20off%20first%20order%20of%20%241%2C000%2B%2C%20exclusive%20savings%20%26amp%3B%201%3A1%20tech%20support.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fbusiness%2Fbenefits%2F%3FipromoID%3DLEN818484%22%20target%3D%22\_self%22%20textvalue%3D%22Learn%20More%20%26gt%3B%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pagebe1124a2-fd66-47db-9b46-cac685248b23"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pageb1754f72-11f8-4843-9ccd-fc78a406ac58","language":{"en\_us":"%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3ENeed%20it%20today%3F%20Buy%20online%2C%20pick%20up%20select%20products%20at%20Best%20Buy.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fd%2Fbopis%2F%3FIPromoID%3DLEN775727%22%20target%3D%22\_self%22%20textvalue%3D%22Shop%20Pick%20Up%20%26gt%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3EShop%20Pick%20Up%20%26gt%3B%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3ENeed%20it%20today%3F%20Buy%20online%2C%20pick%20up%20select%20products%20at%20Best%20Buy.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fd%2Fbopis%2F%3FIPromoID%3DLEN775727%22%20target%3D%22\_self%22%20textvalue%3D%22Shop%20Pick%20Up%20%26gt%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3EShop%20Pick%20Up%20%26gt%3B%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pageb1754f72-11f8-4843-9ccd-fc78a406ac58"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Page5231c4af-d54f-4155-a470-848d1ee474cd","language":{"en\_us":"%3Cp%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fspan%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3E%3C%2Fspan%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3E%3C%2Fspan%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3EMy%20Lenovo%20Rewards!%20%3C%2Fstrong%3EEarn%203%25-9%25%20in%20rewards%20and%20get%20free%20expedited%20delivery%20on%20select%20products.%26nbsp%3B%3Ca%20href%3D%22%2Frewards%2F%3FIPromoID%3DLEN775755%22%20target%3D%22\_self%22%3E%3Cstrong%3EJoin%20For%20Free%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3EMy%20Lenovo%20Rewards!%26nbsp%3B%3C%2Fstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3EEarn%203%25-9%25%20in%20rewards%20and%20get%20free%20expedited%20delivery%20on%20select%20products.%3C%2Fspan%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22https%3A%2F%2Fadmin.lenovo.com%2Frewards%2F%3FIPromoID%3DLEN775755%22%20target%3D%22\_self%22%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3Cstrong%3EJoin%20For%20Free%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3Ca%20href%3D%22%2Frewards%2F%3FIPromoID%3DLEN775755%22%20target%3D%22\_self%22%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3Cstrong%3E%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Page5231c4af-d54f-4155-a470-848d1ee474cd"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pagef4f8e23f-c864-45f7-861f-14dd63d98141","language":{"en\_us":"%3Cp%3EBad%20credit%20or%20no%20credit%3F%20No%20problem!%20Katapult%20offers%20a%20simple%20lease%20to%20own%20payment%20option%20to%20help%20get%20what%20you%20need.%20%3Ca%20href%3D%22%2Flandingpage%2Flenovo-financing-options%2F%3FIPromoID%3DLEN771093%22%20target%3D%22\_self%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3EBad%20credit%20or%20no%20credit%3F%20No%20problem!%20Katapult%20offers%20a%20simple%20lease%20to%20own%20payment%20option%20to%20help%20get%20what%20you%20need.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Flandingpage%2Flenovo-financing-options%2F%3FIPromoID%3DLEN771093%22%20target%3D%22\_self%22%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pagef4f8e23f-c864-45f7-861f-14dd63d98141"},"gInfo":""}\],"autoRun":true,"displayTerminal":"pc,tablet,mobile","isShowDivide":true}
+{"arrowColor":"","backgroundColor":"#e6f4fa","divideColor":"#DBDBDB","sideMsg":"","data":\[{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Page92cef8c0-da46-493e-b556-3c4e88872024","language":{"en\_us":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E4-Day%20Savings%20Event!%3C%2Fstrong%3E%20Save%20up%20to%20%7BsavingPercent%7D%20off%20select%20items.%20Ends%20Thursday!%26nbsp%3B%3Ca%20href%3D%22%2Fd%2Fdeals%2Fdoorbusters%2F%3FIPromoID%3DLEN944203%22%20target%3D%22\_self%22%20textvalue%3D%22Shop%20Now%20%26gt%3B%22%3E%3Cstrong%3EShop%20Now%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":""},"id":"Page92cef8c0-da46-493e-b556-3c4e88872024"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pageb62200e4-2946-46ad-8862-79c4025e22dc","language":{"en\_us":"%3Cp%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3EShopping%20for%20a%20business%3F%3C%2Fstrong%3E%20New%20Lenovo%20Pro%20members%20get%20%24100%20off%20first%20order%20of%20%241%2C000%2B%2C%20exclusive%20savings%20%26amp%3B%201%3A1%20tech%20support.%26nbsp%3B%3Ca%20href%3D%22%2Fbusiness%2Fbenefits%2F%3FipromoID%3DLEN818484%22%20target%3D%22\_self%22%20textvalue%3D%22Learn%20More%20%26gt%3B%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3EShopping%20for%20a%20business%3F%3C%2Fstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%26nbsp%3BNew%20Lenovo%20Pro%20members%20get%20%24100%20off%20first%20order%20of%20%241%2C000%2B%2C%20exclusive%20savings%20%26amp%3B%201%3A1%20tech%20support.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fbusiness%2Fbenefits%2F%3FipromoID%3DLEN818484%22%20target%3D%22\_self%22%20textvalue%3D%22Learn%20More%20%26gt%3B%22%3E%3Cstrong%3ELearn%20More%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pageb62200e4-2946-46ad-8862-79c4025e22dc"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Page05a8bca7-44c2-4691-8837-c28ac3cd97b7","language":{"en\_us":"%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3ENeed%20it%20today%3F%20Buy%20online%2C%20pick%20up%20select%20products%20at%20Best%20Buy.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fd%2Fbopis%2F%3FIPromoID%3DLEN775727%22%20target%3D%22\_self%22%20textvalue%3D%22Shop%20Pick%20Up%20%26gt%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3EShop%20Pick%20Up%20%26gt%3B%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3ENeed%20it%20today%3F%20Buy%20online%2C%20pick%20up%20select%20products%20at%20Best%20Buy.%26nbsp%3B%3C%2Fspan%3E%3Ca%20href%3D%22%2Fd%2Fbopis%2F%3FIPromoID%3DLEN775727%22%20target%3D%22\_self%22%20textvalue%3D%22Shop%20Pick%20Up%20%26gt%3B%22%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3EShop%20Pick%20Up%20%26gt%3B%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Page05a8bca7-44c2-4691-8837-c28ac3cd97b7"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Pagedee31e68-46dc-4742-ae8b-4a98ce9d318e","language":{"en\_us":"%3Cp%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fspan%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3C%2Fp%3E%3Cp%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3E%3C%2Fspan%3E%3C%2Fp%3E%3Cp%3E%3Cstrong%3E%3Cspan%20style%3D%22text-wrap%3A%20nowrap%3B%22%3E%3C%2Fspan%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3E%3C%2Fstrong%3E%3Cstrong%3EMy%20Lenovo%20Rewards!%26nbsp%3B%3C%2Fstrong%3EEarn%203%25-9%25%20in%20rewards%20and%20get%20free%20expedited%20delivery%20on%20select%20products.%26nbsp%3B%3Ca%20href%3D%22%2Frewards%2F%3FIPromoID%3DLEN775755%22%20target%3D%22\_self%22%3E%3Cstrong%3EJoin%20For%20Free%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E","en":"%3Cp%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3E%3C%2Fstrong%3E%3Cstrong%20style%3D%22text-wrap%3A%20wrap%3B%22%3EMy%20Lenovo%20Rewards!%26nbsp%3B%3C%2Fstrong%3EEarn%203%25-9%25%20in%20rewards%20and%20get%20free%20expedited%20delivery%20on%20select%20products.%26nbsp%3B%3Ca%20href%3D%22https%3A%2F%2Fadmin.lenovo.com%2Frewards%2F%3FIPromoID%3DLEN775755%22%20target%3D%22\_self%22%3E%3Cstrong%3EJoin%20For%20Free%20%26gt%3B%3C%2Fstrong%3E%3C%2Fa%3E%3C%2Fp%3E"},"id":"Pagedee31e68-46dc-4742-ae8b-4a98ce9d318e"},"gInfo":""},{"pcInfo":"","mAndTabInfo":"","bannerInfo":{"t\_id":"Page699ffb88-7d6c-47a3-b845-559740bb1b9c","language":{"en\_us":"%3Cp%3EBusiness%20Financing%20Limited%20Time%20Offer!%26nbsp%3BGet%200%25%20interest%20for%2090%20days%2C%20select%20Lenovo%20Financing%20at%20checkout.%26nbsp%3B%3Cstrong%3E%3Ca%20href%3D%22%2Flandingpage%2Flenovo-financing-options%2F%3FIPromoID%3DLEN771093%22%20target%3D%22\_self%22%3ELearn%20More%3C%2Fa%3E%3C%2Fstrong%3E%3C%2Fp%3E","en":"%3Cp%3EBusiness%20Financing%20Limited%20Time%20Offer!%26nbsp%3BGet%200%25%20interest%20for%2090%20days%2C%20select%20Lenovo%20Financing%20at%20checkout.%26nbsp%3B%3Cstrong%3E%3Ca%20href%3D%22%2Flandingpage%2Flenovo-financing-options%2F%3FIPromoID%3DLEN771093%22%20target%3D%22\_self%22%3ELearn%20More%3C%2Fa%3E%3C%2Fstrong%3E%3C%2Fp%3E"},"id":"Page699ffb88-7d6c-47a3-b845-559740bb1b9c"},"gInfo":""}\],"autoRun":true,"displayTerminal":"pc,tablet,mobile","isShowDivide":true}
 
-* **Back to School!** Save up to {savingPercent} on laptops & accessories! Plus, extra savings the more you buy. [**Shop Now >**](https://www.lenovo.com/us/en/d/deals/doorbusters/?IPromoID=LEN944203)
+* **4-Day Savings Event!** Save up to {savingPercent} off select items. Ends Thursday! [**Shop Now >**](https://www.lenovo.com/us/en/d/deals/doorbusters/?IPromoID=LEN944203)
     
 * **Shopping for a business?** New Lenovo Pro members get $100 off first order of $1,000+, exclusive savings & 1:1 tech support. [**Learn More >**](https://www.lenovo.com/us/en/business/benefits/?ipromoID=LEN818484)
     
 * Need it today? Buy online, pick up select products at Best Buy. [**Shop Pick Up >**](https://www.lenovo.com/us/en/d/bopis/?IPromoID=LEN775727)
     
-* **My Lenovo Rewards!** Earn 3%-9% in rewards and get free expedited delivery on select products. [**Join For Free >**](https://www.lenovo.com/us/en/rewards/?IPromoID=LEN775755)
+* **My Lenovo Rewards!** Earn 3%-9% in rewards and get free expedited delivery on select products. [**Join For Free >**](https://www.lenovo.com/us/en/rewards/?IPromoID=LEN775755)
     
-* Bad credit or no credit? No problem! Katapult offers a simple lease to own payment option to help get what you need. [**Learn More >**](https://www.lenovo.com/us/en/landingpage/lenovo-financing-options/?IPromoID=LEN771093)
+* Business Financing Limited Time Offer! Get 0% interest for 90 days, select Lenovo Financing at checkout. **[Learn More](https://www.lenovo.com/us/en/landingpage/lenovo-financing-options/?IPromoID=LEN771093)**
     
 
     
@@ -1254,7 +1334,7 @@ Please select a Country / Region
 
 * Products & Services
 * [Laptops & Ultrabooks](https://www.lenovo.com/us/en/laptops)
-* [AI PC](https://www.lenovo.com/us/en/business/ai-laptops/)
+* [Smarter AI for You](https://www.lenovo.com/us/en/business/ai-laptops/)
 * [Desktop Computers](https://www.lenovo.com/us/en/desktops)
 * [Workstations](https://www.lenovo.com/us/en/workstations)
 * [Gaming](https://www.lenovo.com/us/en/gaming/store/)
