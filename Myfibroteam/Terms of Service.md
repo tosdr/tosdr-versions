@@ -1,5 +1,3 @@
-                                                       The social network for those living with fibromyalgia. | MyFibroTeam  
-
 Many features of MyFibroTeam will not work unless you enable JavaScript support in your browser.
 
 ![](https://www.myfibroteam.com/assets/fbr/logo_home-ea86f2593a86a527f2af1d138981963e86244573961e35e1f77b2d145888bf18.png)
@@ -7,7 +5,7 @@ Many features of MyFibroTeam will not work unless you enable JavaScript support 
 Connect with others who understand.
 -----------------------------------
 
-[sign up](https://www.myfibroteam.com/users/signup/start) [Log in](https://www.myfibroteam.com/users/sign_in)
+[Sign up](https://www.myfibroteam.com/users/signup/start) [Log in](https://www.myfibroteam.com/users/sign_in)
 
 Quick Links
 
@@ -19,7 +17,7 @@ Resources
 
 About MyFibroTeam
 
-[What is MyFibroTeam](https://www.myfibroteam.com/about) [Terms of use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
+[What is MyFibroTeam](https://www.myfibroteam.com/about) [Terms of Use](https://www.myfibroteam.com/about/tos) [Privacy policy](https://www.myfibroteam.com/about/privacy)
 
 Powered By ![](https://www.myfibroteam.com/assets/mht/mht_text-f99bc3e4bd3961a44af613d3df87db2b64cd6cc2b15d01317556959b99821628.png)
 
@@ -34,7 +32,7 @@ Want the latest info & tips for fibromyalgia?
 * [![](https://www.myfibroteam.com/assets/default_avatars/silhouettes/avatar_profile0-23ca04cdd95ff55608633895b51ec9464a7f87d7964a65960c21740e232861c0.png)](https://www.myfibroteam.com/users/sign_up)
     
 
-[Yes!](https://www.myfibroteam.com/users/signup/start)
+[Yes!](https://www.myfibroteam.com/email_users)
 
 Terms Of Service
 ----------------
@@ -186,7 +184,7 @@ Help With This Site
 
 About Us
 
-[Partner with us](https://www.myfibroteam.com/about/partner) [Terms of use](https://www.myfibroteam.com/about/tos) [Press/News](https://www.myhealthteam.com/press/) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [What is MyFibroTeam](https://www.myfibroteam.com/about)
+[Partner with us](https://www.myfibroteam.com/about/partner) [Terms of Use](https://www.myfibroteam.com/about/tos) [Press/News](https://www.myhealthteam.com/press/) [Privacy policy](https://www.myfibroteam.com/about/privacy) [Health Data Policy](https://www.myfibroteam.com/about/health_data) [Cookie policy](https://www.myfibroteam.com/about/cookies_policy) [What is MyFibroTeam](https://www.myfibroteam.com/about)
 
 Powered By
 
@@ -197,4 +195,4 @@ Powered By
 MyFibroTeam is not a medical referral site and does not recommend or endorse any particular provider or medical treatment.  
 No information on MyFibroTeam should be construed as medical and/or health advice.
 
-![](https://www.facebook.com/tr?id=360260207500330&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=360260207500330&ev=PageView&noscript=1) ![](https://q.quora.com/_/ad/2ad1736bee704b9fa68aaac2f4e13400/pixel?tag=ViewContent&noscript=1)
