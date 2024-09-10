@@ -346,7 +346,9 @@ Company
 
 [Privacy Policy](https://practices.hotdoc.com.au/privacy-policy/)
 
-[Terms of service](https://practices.hotdoc.com.au/terms-of-services-January-2024/)
+[Terms of service](https://practices.hotdoc.com.au/terms-of-services-clinic-users/)
+
+[Fees](https://practices.hotdoc.com.au/fees)
 
 [Fair Use Policy](https://practices.hotdoc.com.au/fair-use-policy/)
 
