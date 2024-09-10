@@ -2,7 +2,7 @@
 
 [search](https://www.shouldianswer.net/) [about](https://www.shouldianswer.net/about)  [blog](https://www.shouldianswer.net/posts) [contact](https://www.shouldianswer.net/contact)
 
-For phone numbers in your location (Great Britain) use [www.shouldianswer.co.uk](http://www.shouldianswer.co.uk/?src=switchloc)
+For phone numbers in your location (United States) use [www.shouldianswer.com](http://www.shouldianswer.com/?src=switchloc)
 
 Terms of Use
 ============
