@@ -288,7 +288,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Storage permission, Usage data
+    **Personal Information collected or disclosed:** Storage permission, Usage Data
     
     **Purposes:**
     
@@ -307,7 +307,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address
+    **Personal Information collected or disclosed:** email address
     
     **Purposes:**
     
