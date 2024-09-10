@@ -1,6 +1,16 @@
 [Skip to main content](#main)
 
-[](https://www.modernatx.com/en-GB)
+* [mRNA pipeline](https://www.modernatx.com/en-US/research/product-pipeline)
+* [Careers](https://www.modernatx.com/en-US/careers/life-at-moderna)
+* [Newsroom](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [Blogs](https://www.modernatx.com/en-US/media-center/all-media/blogs)
+* [Moderna Supplier Page](https://www.modernatx.com/en-US/supplier/moderna-supplier-page)
+* |
+* [Health Care Professionals](https://atlas.modernatx.com/)
+* [Investors](https://investors.modernatx.com/)
+* [Clinical trials](https://trials.modernatx.com/)
+
+[](https://www.modernatx.com/en-US)
 
 * About Us
     
@@ -8,96 +18,98 @@
     
 * Research
     
-* [Newsroom](https://www.modernatx.com/en-GB/press-release)
+* Responsibility
+    
+* Our Products
     
 
 Search
 
-Looking for another location?
------------------------------
+Are you looking for another country?
+------------------------------------
 
 ### Asia Pacific
 
 Australia
 
-[English](https://www.modernatx.com/en-AU/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-AU/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Japan
 
-[日本](https://www.modernatx.com/ja-JP/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[日本](https://www.modernatx.com/ja-JP/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Hong Kong
 
-[中文](https://www.modernatx.com/zh-HK/privacy-statement?slug=privacy-statement&fromLocale=en-GB)[English](https://www.modernatx.com/en-HK/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[中文](https://www.modernatx.com/zh-HK/privacy-statement?slug=privacy-statement&fromLocale=en-US)[English](https://www.modernatx.com/en-HK/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 South Korea
 
-[한국어](https://www.modernatx.com/ko-KR/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[한국어](https://www.modernatx.com/ko-KR/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Taiwan
 
-[中文](https://www.modernatx.com/zh-TW/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[中文](https://www.modernatx.com/zh-TW/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Singapore
 
-[English](https://www.modernatx.com/en-SG/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-SG/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 ### Europe
 
 France
 
-[Français](https://www.modernatx.com/fr-FR/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Français](https://www.modernatx.com/fr-FR/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Germany
 
-[Deutsch](https://www.modernatx.com/de-DE/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Deutsch](https://www.modernatx.com/de-DE/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Italy
 
-[Italiano](https://www.modernatx.com/it-iT/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Italiano](https://www.modernatx.com/it-IT/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Netherlands
 
-[Nederlands](https://www.modernatx.com/nl-NL/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Nederlands](https://www.modernatx.com/nl-NL/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Spain
 
-[Español](https://www.modernatx.com/es-ES/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Español](https://www.modernatx.com/es-ES/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Switzerland
 
-[Deutsch](https://www.modernatx.com/de-CH/privacy-statement?slug=privacy-statement&fromLocale=en-GB)[Français](https://www.modernatx.com/fr-CH/privacy-statement?slug=privacy-statement&fromLocale=en-GB)[Italiano](https://www.modernatx.com/it-CH/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Deutsch](https://www.modernatx.com/de-CH/privacy-statement?slug=privacy-statement&fromLocale=en-US)[Français](https://www.modernatx.com/fr-CH/privacy-statement?slug=privacy-statement&fromLocale=en-US)[Italiano](https://www.modernatx.com/it-CH/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 United Kingdom
 
-[English](https://www.modernatx.com/en-GB/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-GB/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 Poland
 
-[Polski](https://www.modernatx.com/pl-PL/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Polski](https://www.modernatx.com/pl-PL/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 ### North America
 
 Canada
 
-[English](https://www.modernatx.com/en-CA/privacy-statement?slug=privacy-statement&fromLocale=en-GB)[Français](https://www.modernatx.com/fr-CA/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[English](https://www.modernatx.com/en-CA/privacy-statement?slug=privacy-statement&fromLocale=en-US)[Français](https://www.modernatx.com/fr-CA/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 United States
 
-[English](https://www.modernatx.com/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[English](https://www.modernatx.com/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 ### South America
 
 LATAM
 
-[Español](https://www.modernatx.com/es-LATAM/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Español](https://www.modernatx.com/es-LATAM/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
 LATAM
 
-[Português](https://www.modernatx.com/pt-BR/privacy-statement?slug=privacy-statement&fromLocale=en-GB)
+[Português](https://www.modernatx.com/pt-BR/privacy-statement?slug=privacy-statement&fromLocale=en-US)
 
-Moderna's Privacy Policy
-========================
+Moderna's Privacy Statement
+===========================
 
 _Effective September 2023_
 
@@ -122,15 +134,15 @@ Carefully read this Privacy Statement to learn more about how we collect, use, d
 
 ### Summary of Key Points
 
-This summary provides key points from our Privacy Statement, but you can find more information about any of these topics by using the Table of Contents below. Click here to go directly to the [Table of Contents](#united-kingdom-privacy-statement-table-of-contents)
+This summary provides key points from our Privacy Statement, but you can find more information about any of these topics by using the Table of Contents below. Click here to go directly to the [Table of Contents](#united-states-privacy-statement-table-of-contents)
 
 #### 1\. How do we process your personal data?
 
-We process your personal data to provide you with the service requested and to improve our service, communicate with you for security purposes and comply with legal obligations. We only process your personal data when we have legal grounds to do so. Please see [How We Use Your Personal Data](#united-kingdom-privacy-statement-4-how-we-use-personal-data) for more details.
+We process your personal data to provide you with the service requested and to improve our service, communicate with you for security purposes and comply with legal obligations. We only process your personal data when we have legal grounds to do so. Please see [How We Use Your Personal Data](#united-states-privacy-statement-4-how-we-use-personal-data) for more details.
 
 #### 2\. Do we process sensitive personal data?
 
-We may process sensitive personal data when necessary, with your consent or where required by legal obligations. Click [here](#united-kingdom-privacy-statement-1) to learn more about Sensitive Personal Data.
+We may process sensitive personal data when necessary, with your consent or where required by legal obligations. Click [here](#united-states-privacy-statement-1) to learn more about Sensitive Personal Data.
 
 #### 3\. Where will your data be processed by Moderna?
 
@@ -161,7 +173,7 @@ We only will share your data with services providers who support our operations 
 
 #### 5\. How do we keep your data protected?
 
-We have technical and organizational safeguards in place to protect your personal data. However, no electronic processing can be guaranteed to be 100% secure, so we cannot promise that hackers, cybercriminals or other unauthorized third parties will not be able to defeat our security and steal or unauthorized access your personal data. Click [here](#united-kingdom-privacy-statement-6-how-information-is-retained-and-secured) to learn more.
+We have technical and organizational safeguards in place to protect your personal data. However, no electronic processing can be guaranteed to be 100% secure, so we cannot promise that hackers, cybercriminals or other unauthorized third parties will not be able to defeat our security and steal or unauthorized access your personal data. Click [here](#united-states-privacy-statement-6-how-information-is-retained-and-secured) to learn more.
 
 #### 6\. What are your rights and how can you exercise them?
 
@@ -194,28 +206,28 @@ Our privacy practices are described in greater detail in the remainder of this P
 
 ### Table of Contents
 
-1. [Information We Collect](#united-kingdom-privacy-statement-1-information-we-collect)
+1. [Information We Collect](#united-states-privacy-statement-1-information-we-collect)
     
-2. [How Information is Collected and Used](#united-kingdom-privacy-statement-2-how-information-is-collected-and-used)
+2. [How Information is Collected and Used](#united-states-privacy-statement-2-how-information-is-collected-and-used)
     
-3. [Links to Other Websites/Services](#united-kingdom-privacy-statement-3-links-to-other-websitesservices)
+3. [Links to Other Websites/Services](#united-states-privacy-statement-3-links-to-other-websitesservices)
     
-4. [How We Use Personal Data](#united-kingdom-privacy-statement-4-how-we-use-personal-data)
+4. [How We Use Personal Data](#united-states-privacy-statement-4-how-we-use-personal-data)
     
-5. [How Information is Shared and Disclosed](#united-kingdom-privacy-statement-5-how-information-is-shared-and-disclosed)
+5. [How Information is Shared and Disclosed](#united-states-privacy-statement-5-how-information-is-shared-and-disclosed)
     
-6. [How Information is Retained and Secured](#united-kingdom-privacy-statement-6-how-information-is-retained-and-secured)
+6. [How Information is Retained and Secured](#united-states-privacy-statement-6-how-information-is-retained-and-secured)
     
-7. [Cookies and Similar Technologies](#united-kingdom-privacy-statement-7-cookies-and-similar-technologies)
+7. [Cookies and Similar Technologies](#united-states-privacy-statement-7-cookies-and-similar-technologies)
     
-8. [Your Privacy Rights](#united-kingdom-privacy-statement-8-your-privacy-rights)
+8. [Your Privacy Rights](#united-states-privacy-statement-8-your-privacy-rights)
     
-9. [Our Children’s Policy](#united-kingdom-privacy-statement-9-our-childrens-policy)
+9. [Our Children’s Policy](#united-states-privacy-statement-9-our-childrens-policy)
     
-10. [Changes to This Privacy Statement](#united-kingdom-privacy-statement-10-changes-to-this-privacy-statement)
+10. [Changes to This Privacy Statement](#united-states-privacy-statement-10-changes-to-this-privacy-statement)
     
-11. [Jurisdiction-Specific Privacy Information](#united-kingdom-privacy-statement-11-jurisdiction-specific-privacy-information)  
-    [_California_](#united-kingdom-privacy-statement-11-jurisdiction-specific-privacy-information-california-1)[_Nevada_](#united-kingdom-privacy-statement-11-jurisdiction-specific-privacy-information-nevada)[_EU/EEA, UK & Switzerland_](#united-kingdom-privacy-statement-11-jurisdiction-specific-privacy-information-eueea-uk-switzerland)[_Japan_](#united-kingdom-privacy-statement-11-jurisdiction-specific-privacy-information-japan)
+11. [Jurisdiction-Specific Privacy Information](#united-states-privacy-statement-11-jurisdiction-specific-privacy-information)  
+    [_California_](#united-states-privacy-statement-11-jurisdiction-specific-privacy-information-california-1)[_Nevada_](#united-states-privacy-statement-11-jurisdiction-specific-privacy-information-nevada)[_EU/EEA, UK & Switzerland_](#united-states-privacy-statement-11-jurisdiction-specific-privacy-information-eueea-uk-switzerland)[_Japan_](#united-states-privacy-statement-11-jurisdiction-specific-privacy-information-japan)
     
 
 ### 1\. Information We Collect
@@ -314,7 +326,7 @@ We may seek, either directly or through our trusted third parties, your separate
 * communicate with you for other purposes which are evident from the circumstances or about which we inform you when we collect Personal Data from you.
     
 
-If we have sought your consent to process your Personal Data, you may subsequently withdraw it at any time by contacting us at the address listed in the “[Your Privacy Rights](#us-privacy-statement-8-your-privacy-rights)” section below.
+If we have sought your consent to process your Personal Data, you may subsequently withdraw it at any time by contacting us at the address listed in the “[Your Privacy Rights](#united-states-privacy-statement-8-your-privacy-rights)” section below.
 
 #### b. Legal obligation
 
@@ -524,39 +536,47 @@ In accordance with the Act on Protection of Personal Information of Japan (APPI)
 
 Requests may be filed by visiting our [request web page](https://privacyportal.onetrust.com/webform/bd5eb8a9-9d4b-487d-be7b-36a09d769cc1/fa10399c-b928-423c-8494-5a5c6d72f95a); please note that this may require a fee.
 
-### UK Modern Slavery Act Statement
+### Investors
 
-* [UK Modern Slavery Act Statement](https://assets.modernatx.com/m/420d817a6cc4abb2/original/UK_Modern_Slavery_Act_2022_Final.pdf)
+* [Investors overview](https://investors.modernatx.com/)
 
-### Moderna UK Carbon Reduction Plan
+### Newsroom
 
-* [Moderna UK Carbon Reduction Plan](https://assets.modernatx.com/m/44afdf77ffaf1db2/original/Moderna-UK-Carbon-Reduction-Plan.pdf)
+* [News and media 2023](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [Media kit](https://www.modernatx.com/en-US/newsroom/news-and-media/media-kit)
 
-### Moderna UK Tax Strategy
+### Patents
 
-* [Moderna UK Tax Strategy](https://assets.modernatx.com/m/1263f947367d478b/original/Moderna-UK_Tax-Strategy-final.pdf)
+* [Patents](https://www.modernatx.com/en-US/patents)
 
-### Contact us
+### Media Center
 
-* [Contact Moderna](https://www.modernatx.com/en-GB/contact-moderna)
+* [All media](https://www.modernatx.com/en-US/media-center/all-media)
+* [Blogs](https://www.modernatx.com/en-US/media-center/all-media/blogs)
+* [Videos](https://www.modernatx.com/en-US/media-center/all-media/videos)
+* [Podcasts](https://www.modernatx.com/en-US/media-center/all-media/podcasts)
 
-### UK Headquarters
+### Partnerships
 
-Moderna Biotech Distributor UK Ltd
+* [Strategic collaborators](https://www.modernatx.com/en-US/partnerships/strategic-collaborators)
 
-MYO
+### Careers
 
-123 Victoria Street
+* [Life at Moderna](https://www.modernatx.com/en-US/careers/life-at-moderna)
+* [People behind the science](https://www.modernatx.com/en-US/careers/people-behind-the-science)
+* [Awards](https://www.modernatx.com/en-US/careers/awards)
+* [Join our team](https://modernatx.eightfold.ai/careers/)
 
-London
+### Innovation Incubator
 
-SW1E 6DE  
-  
+* [New Venture Labs](https://www.modernatx.com/en-US/innovation-incubator/new-venture-labs)
 
-* [Terms of use](https://www.modernatx.com/en-GB/terms-of-use)
-* [Privacy statement](https://www.modernatx.com/en-GB/privacy-statement)
-* [Cookie Statement](https://www.modernatx.com/en-GB/cookie-statement)
-* [Contact Moderna](https://www.modernatx.com/en-GB/contact-moderna)
-* [Sitemap](https://www.modernatx.com/en-GB/sitemap)
+[](https://www.instagram.com/moderna_tx/)[](https://facebook.com/modernatx)[](https://twitter.com/moderna_tx)[](https://linkedin.com/company/modernatx)
+
+* [Terms of use](https://www.modernatx.com/en-US/terms-of-use)
+* [Privacy statement](https://www.modernatx.com/en-US/privacy-statement)
+* [Cookie Statement](https://www.modernatx.com/en-US/cookie-statement)
+* [Contact Moderna](https://www.modernatx.com/en-US/contact-moderna)
+* [Sitemap](https://www.modernatx.com/en-US/sitemap)
 
 © 2024 Moderna, Inc.
