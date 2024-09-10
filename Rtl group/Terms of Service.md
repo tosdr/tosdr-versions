@@ -150,7 +150,7 @@
     
     Investor Relations at RTL
     
-    [Quarterly statement January to March 2024](https://company.rtl.com/en/media/overview/press-releases-and-news/quarterly-statement-january-to-march-2024/)[Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)[Annual Report 2023](https://www.annual-report2023.rtl.com/)[Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
+    [Interim results 2024](https://company.rtl.com/en/rtl-group-interim-results-2024/)[Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)[Annual Report 2023](https://www.annual-report2023.rtl.com/)[Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
     
     **Overview**
     
@@ -190,11 +190,11 @@
     
     [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
     
-    [![](/.galleries/images/rtl-group/RTL-stories_JB_1920x1080.jpg)
+    [![](/.galleries/images/rtl-group/RTL-stories_Amelia-Brown_1920x1080.jpg)
     
-    10 years at RTL: Jean-Baptiste Moggio
+    20 years at RTL: Amelia Brown
     
-    15.07.24 | RTL Group](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Jean-Baptiste-Moggio/)
+    04.09.24 | Fremantle](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/20-years-at-RTL-Amelia-Brown/)
     
 * [](https://company.rtl.com/en/search/index.html)
 * [EN](#)
@@ -271,7 +271,7 @@
         * [Who we are](https://www.rtlgroup.com/en/career/life-at-rtl/who-we-are/)
         * [Our benefits](https://www.rtlgroup.com/en/career/life-at-rtl/our-benefits/)
 * [Investor Relations](https://www.rtlgroup.com/en/investor-relations/)
-    * [Quarterly statement January to March 2024](https://company.rtl.com/en/media/overview/press-releases-and-news/quarterly-statement-january-to-march-2024/)
+    * [Interim results 2024](https://company.rtl.com/en/rtl-group-interim-results-2024/)
     * [Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)
     * [Annual Report 2023](https://www.annual-report2023.rtl.com/)
     * [Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
@@ -307,53 +307,61 @@ Europe's leading entertainment brand
 
  
 
-* [![slide-RTL Group interim results 2024](/.galleries/images/HY-2024_16-9.jpg?__scale=undefined&description=)
+* [![slide-A new home for RTL Hungary](/.galleries/images/RTL-Hungary_New-offices_16-9.jpg?__scale=undefined&description=)
+    
+    A new home for RTL Hungary
+    
+    10.09.2024
+    
+    Modernity meets history and sustainability: RTL Hungary has moved part of its operations to a newly renovated building in downtown Budapest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-home-for-RTL-Hungary/)
+    
+* [![slide-RTL Deutschland's 2024 Sustainability Week](/.galleries/images/Sustainability-week-2024_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland's 2024 Sustainability Week
+    
+    10.09.2024
+    
+    Impressive, thought-provoking and informative: RTL Deutschland's 2024 Sustainability Week will focus on biodiversity and the underwater world.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschlands-2024-Sustainability-Week/)
+    
+* [![slide-20 years at RTL: Amelia Brown](/.galleries/images/rtl-group/RTL-stories_Amelia-Brown_1920x1080.jpg?__scale=undefined&description=)
+    
+    20 years at RTL: Amelia Brown
+    
+    04.09.2024
+    
+    In _RTL stories – The podcast_, Fremantle UK CEO Amelia Brown reflects on her journey from production runner to CEO and shares insights into the television industry.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/20-years-at-RTL-Amelia-Brown/)
+    
+* [![slide-Three awards at Venice Film Festival](/.galleries/images/Venice-awards_16-9.jpg?__scale=undefined&description=)
+    
+    Three awards at Venice Film Festival
+    
+    09.09.2024
+    
+    Fremantle-backed productions take home three awards at the 81st Venice Fim Festival, while _Maria_ and _Queer_ receive eight-minute and 12-minute standing ovations respectively.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Three-awards-at-Venice-Film-Festival/)
+    
+* [![slide-20 nominations for the Deutscher Fernsehpreis](/.galleries/images/German-TV-Awards-2024_16-9.png?__scale=undefined&description=)
+    
+    20 nominations for the Deutscher Fernsehpreis
+    
+    09.09.2024
+    
+    RTL Deutschland and UFA have secured 20 nominations in total at the 2024 Deutscher Fernsehpreis (German Television Awards).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/20-nominations-for-the-Deutscher-Fernsehpreis/)
+    
+* [![slide-New branding for Enex](/.galleries/images/ENEX-Strong-Partners.-Strong-News.png?__scale=undefined&description=)
+    
+    New branding for Enex
+    
+    02.09.2024
+    
+    Enex introduces a new logo, brand identity and public website to reflect the news agency’s recent innovations and strong international network.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/New-branding-for-Enex/)
+    
+* [![slide-RTL Group interim results 2024](/.galleries/images/RTL-Group-interim-results-2024_16-9.jpg?__scale=undefined&description=)
     
     RTL Group interim results 2024
     
     09.08.2024
     
-    Register for the conference calls for analysts (in English) and journalists (in German).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Group-interim-results-2024/)
-    
-* [![slide-Bertelsmann Content Alliance launches a confidence campaign](/.galleries/images/Optimism-initiative_16-9.jpg?__scale=undefined&description=)
-    
-    Bertelsmann Content Alliance launches a confidence campaign
-    
-    30.07.2024
-    
-    Together with the Bertelsmann Content Alliance, RTL Deutschland, UFA and We Are Era launch a cross-media campaign to promote optimism and social cohesion in Germany.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Bertelsmann-Content-Alliance-launches-a-confidence-campaign/)
-    
-* [![slide- Joining forces: Bedrock and RTL+ in Germany](/.galleries/images/Bedrock-RTL-_16-9.png?__scale=undefined&description=)
-    
-    Joining forces: Bedrock and RTL+ in Germany
-    
-    19.07.2024
-    
-    RTL Group’s largest streaming service, RTL+ in Germany, plans to migrate to the Bedrock platform in early 2026.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/-Joining-forces-Bedrock-and-RTL-in-Germany/)
-    
-* [![slide-10 years at RTL: Jean-Baptiste Moggio](/.galleries/images/rtl-group/RTL-stories_JB_1920x1080.jpg?__scale=undefined&description=)
-    
-    10 years at RTL: Jean-Baptiste Moggio
-    
-    15.07.2024
-    
-    Jean-Baptiste Moggio, Senior Brand Director at RTL AdAlliance, delves into his decade-long journey with the company and the dynamic world of international advertising.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Jean-Baptiste-Moggio/)
-    
-* [![slide-RTL Beach 2024](/.galleries/images/RTL-AdAlliance_Beach2024_16-9.png?__scale=undefined&description=)
-    
-    RTL Beach 2024
-    
-    08.07.2024
-    
-    From AI to sports advertising: RTL AdAlliance hosted RTL Beach as part of the Cannes Lions Festival for the third time, combining business with networking opportunities.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Beach-2024/)
-    
-* [![slide-Fremantle partners with AlterEgo](/.galleries/images/Fremantle_AlterEgo_16-9.png?__scale=undefined&description=)
-    
-    Fremantle partners with AlterEgo
-    
-    02.07.2024
-    
-    Fremantle has signed a first-look partnership with Italian production company AlterEgo to develop a slate of original films and dramas.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-partners-with-AlterEgo/)
+    RTL Group grows streaming subscribers by 25 per cent to 6.3 million; confirms full-year outlook and long-term streaming targets](https://www.rtlgroup.com/en/rtl-group-interim-results-2024/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
