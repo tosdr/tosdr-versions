@@ -16,8 +16,8 @@
     * [MLS NEXT](https://www.mlssoccer.com/mlsnext/index)
     * [MLS NEXT Pro](https://www.mlsnextpro.com/index)
 
-* [MLS Season Pass](https://www.mlssoccer.com/season-pass/index)
-* [Tickets](https://www.mlssoccer.com/tickets/index)
+* [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
+* [Tickets](https://soc.cr/4dVNiff)
 * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
 * [Español](https://es.mlssoccer.com/)
 * Sign in
@@ -38,8 +38,8 @@
     * Sign in
     
 
-* [MLS Season Pass](https://www.mlssoccer.com/season-pass/index)
-* [Tickets](https://www.mlssoccer.com/tickets/index)
+* [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
+* [Tickets](https://soc.cr/4dVNiff)
 * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
 * [Español](https://es.mlssoccer.com/)
 
@@ -56,8 +56,8 @@
     * [MLS GO](https://www.mlssoccer.com/mlsgo/index)
     * [MLS NEXT](https://www.mlssoccer.com/mlsnext/index)
     * [MLS NEXT Pro](https://www.mlsnextpro.com/index)
-    * [MLS Season Pass](https://www.mlssoccer.com/season-pass/index)
-    * [Tickets](https://www.mlssoccer.com/tickets/index)
+    * [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
+    * [Tickets](https://soc.cr/4dVNiff)
     * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
     * [Español](https://es.mlssoccer.com/)
     
@@ -872,15 +872,7 @@ Attention: Privacy Administrator/Legal Department
 * [Executives](https://www.mlssoccer.com/about/executives)
 * [Official Partners](https://www.mlssoccer.com/about/official-partners)
 * [Jobs/Internships](https://jobs.mlssoccer.com/)
-
-* Initiatives
 * [MLS Community](https://www.mlssoccer.com/community)
-* [Player Engagement](https://www.mlssoccer.com/playerengagement/)
-* [MLS Greats](https://www.mlssoccer.com/playerengagement/mls-greats)
-* [Soccer For All](https://www.mlssoccer.com/news/topics/soccer-for-all/)
-* [Black History Month](https://www.mlssoccer.com/news/topics/black-history-month/)
-* [Pride Month](https://www.mlssoccer.com/news/topics/pride-month/)
-* [Juneteenth](https://www.mlssoccer.com/news/topics/juneteenth/)
 
 * Contact Us
 * [Customer Service](https://www.mlssoccer.com/about/contact-us)
@@ -888,7 +880,7 @@ Attention: Privacy Administrator/Legal Department
 * [Advertising Contacts](https://www.mlssoccer.com/about/advertise-or-partner-with-us)
 
 * Stay Connected
-* [MLS on Apple News](https://apple.news/T9gtfirpYR6qOFDIfhoVntA?subscribe=1)
+* [MLS on Apple News](https://soc.cr/3WTq4iR)
 * [Newsletters](https://www.mlssoccer.com/newsletters/)
 * [Podcasts](https://www.mlssoccer.com/podcasts/)
 * [iOS App](https://itunes.apple.com/us/app/apple-store/id397303467?pt=388641&ct=footerLINK&mt=8)
@@ -896,9 +888,10 @@ Attention: Privacy Administrator/Legal Department
 
 * Resources
 * [MLS Communications](https://www.mlssoccer.com/media-resources/)
-* [MLS Español](https://es.mlssoccer.com/)
 * [Professional Referee Organization (PRO)](http://proreferees.com/)
 * ["Simplified Laws of the Game"](https://www.footballrules.com/)
+* [Player Engagement](https://www.mlssoccer.com/playerengagement/)
+* [MLS Greats](https://www.mlssoccer.com/playerengagement/mls-greats)
 
 * Store
 * [By club](https://www.mlsstore.com/)
@@ -917,16 +910,7 @@ Attention: Privacy Administrator/Legal Department
     * [Executives](https://www.mlssoccer.com/about/executives)
     * [Official Partners](https://www.mlssoccer.com/about/official-partners)
     * [Jobs/Internships](https://jobs.mlssoccer.com/)
-
-* Initiatives
-    
     * [MLS Community](https://www.mlssoccer.com/community)
-    * [Player Engagement](https://www.mlssoccer.com/playerengagement/)
-    * [MLS Greats](https://www.mlssoccer.com/playerengagement/mls-greats)
-    * [Soccer For All](https://www.mlssoccer.com/news/topics/soccer-for-all/)
-    * [Black History Month](https://www.mlssoccer.com/news/topics/black-history-month/)
-    * [Pride Month](https://www.mlssoccer.com/news/topics/pride-month/)
-    * [Juneteenth](https://www.mlssoccer.com/news/topics/juneteenth/)
 
 * Contact Us
     
@@ -936,7 +920,7 @@ Attention: Privacy Administrator/Legal Department
 
 * Stay Connected
     
-    * [MLS on Apple News](https://apple.news/T9gtfirpYR6qOFDIfhoVntA?subscribe=1)
+    * [MLS on Apple News](https://soc.cr/3WTq4iR)
     * [Newsletters](https://www.mlssoccer.com/newsletters/)
     * [Podcasts](https://www.mlssoccer.com/podcasts/)
     * [iOS App](https://itunes.apple.com/us/app/apple-store/id397303467?pt=388641&ct=footerLINK&mt=8)
@@ -945,9 +929,10 @@ Attention: Privacy Administrator/Legal Department
 * Resources
     
     * [MLS Communications](https://www.mlssoccer.com/media-resources/)
-    * [MLS Español](https://es.mlssoccer.com/)
     * [Professional Referee Organization (PRO)](http://proreferees.com/)
     * ["Simplified Laws of the Game"](https://www.footballrules.com/)
+    * [Player Engagement](https://www.mlssoccer.com/playerengagement/)
+    * [MLS Greats](https://www.mlssoccer.com/playerengagement/mls-greats)
 
 * Store
     
