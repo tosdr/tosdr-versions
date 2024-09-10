@@ -1,14 +1,14 @@
 [Skip to main content](#maincontent)
 
-[![King County Logo](https://cds.kingcounty.gov/KClogo-black.gif)](https://kingcounty.gov/en/)
+[![King County Logo](https://cds.kingcounty.gov/KClogo-black.gif)](https://kingcounty.gov/)
 
 [calendar\_month
 
-Jul
+Sep
 
 * * *
 
-30](https://kingcounty.gov/en/calendar)
+10](https://kingcounty.gov/en/calendar)
 
 language English
 
@@ -48,11 +48,9 @@ Global Navigation
 
 ### Buildings And Property expand\_more
 
-* [Parcel viewer property search](https://kingcounty.gov/legacy/services/gis/Maps/parcel-viewer.aspx)
+* [Parcel viewer property search](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps/parcel-viewer)
 * [Property tax payment information](https://kingcounty.gov/legacy/depts/finance-business-operations/treasury/property-tax.aspx)
-* [iMap - interactive mapping tool](https://kingcounty.gov/legacy/services/gis/Maps/imap.aspx)
 * [Property research](https://kingcounty.gov/en/dept/local-services/buildings-property/property-research-and-maps/property-research)
-* [GIS maps and applications](https://kingcounty.gov/legacy/services/gis/Maps.aspx)
 * [Property tax assessments (residential)](https://kingcounty.gov/en/dept/assessor/buildings-and-property/property-taxes/residential-property-taxes)
 * [Parcel sales search](https://info.kingcounty.gov/assessor/esales/eSales.aspx)
 * [Property information - eReal property](https://blue.kingcounty.com/Assessor/eRealProperty/default.aspx)
@@ -79,6 +77,8 @@ Global Navigation
 
 ### Data and information services expand\_more
 
+* [GIS maps and applications](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps)
+* [iMap - interactive mapping tool](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps/imap)
 * [Online records search](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office/records-search.aspx)
 * [Recorder's office](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office.aspx)
 
@@ -143,12 +143,6 @@ Global Navigation
 * [Services](https://kingcounty.gov/en/legacy/services)
 * [About King County](https://kingcounty.gov/en/legacy/about)
 * [Departments](https://kingcounty.gov/en/legacy/depts)
-
-Scheduled maintenance this evening
-
-The website is undergoing maintenance this evening. Pages may take longer to load during this time. We apologize for any inconvenience and thank you for your patience.
-
-×
 
 Privacy
 =======
