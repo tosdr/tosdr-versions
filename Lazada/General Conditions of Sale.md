@@ -8,7 +8,7 @@ SAVE MORE ON APP
 
 Download the App
 
-![](https://lzd-img-global.slatic.net/us/domino/d830782f509dbbffe5811eb1080e55f4.png)
+![](https://img.lazcdn.com/us/domino/d830782f509dbbffe5811eb1080e55f4.png)
 
 [Shop through our app to enjoy: 
 
@@ -17,7 +17,7 @@ Download the App
 * Personalised recommendations
 * Find out first](https://pages.lazada.sg/wow/i/sg/SGCampaign/download-the-app/)
 
-[](https://c.lazada.sg/t/traceAndDownload?lpUrl=https%3A%2F%2Fwww.lazada.sg%2F%3Ffrom%3DpcHomepageHeader%26exlaz%3De_W9fLtonFtFbGip8qo24MCfU%25252BqLKrZhcY5knTA5%25252FAwafCXvTKdNAtBZZe7C%25252B2Y9E%25252BZYZNjVLoUiXhUHYZ5WoI206W%25252BcQD7XyGD3WnASIas1Y%25253D)[](https://c.lazada.sg/t/traceAndDownload?lpUrl=https%3A%2F%2Fwww.lazada.sg%2F%3Ffrom%3DpcHomepageHeader%26exlaz%3De_W9fLtonFtFbGip8qo24MCfU%25252BqLKrZhcY5knTA5%25252FAwafCXvTKdNAtBZZe7C%25252B2Y9E%25252BZYZNjVLoUiXhUHYZ5WoI206W%25252BcQD7XyGD3WnASIas1Y%25253D)
+[](https://itunes.apple.com/app/id785385147)[](https://play.google.com/store/apps/details?id=com.lazada.android)
 
 [sell on lazada](https://www.lazada.sg/sellonlazada?hybrid=1&wx_navbar_transparent=true&titleHidden=1&at_iframe=1)
 
@@ -46,13 +46,13 @@ For any other inquiries, [Click here](https://www.lazada.sg/contact/ "For any ot
 * [My Returns & Cancellations](https://my.lazada.sg/customer/returns/index?requestType=return)
 * [Logout](https://member.lazada.sg/user/logout)
 
-[![Online Shopping Lazada.sg Logo](//laz-img-cdn.alicdn.com/images/ims-web/TB12_ByawFY.1VjSZFnXXcFHXXa.png)](https://www.lazada.sg/)
+[![Online Shopping Lazada.sg Logo](https://img.lazcdn.com/g/tps/images/ims-web/TB12_ByawFY.1VjSZFnXXcFHXXa.png)](https://www.lazada.sg/)
 
 [](https://cart.lazada.sg/cart?scm=1003.4.icms-zebra-5001270-2589730.OTHER_5196110127_2265486)
 
 Categories
 
- [![LazMall](//icms-image.slatic.net/images/ims-web/787bfdb2-8a17-4807-8521-6756a4fdf541.png)LazMall](https://pages.lazada.sg/wow/i/sg/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011285_7663767)[![Taobao](//icms-image.slatic.net/images/ims-web/10254f5b-9a65-4125-a31c-94e237924935.png)Taobao](https://www.lazada.sg/shop/taobao?scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011286_7663767)[![RedMart](//icms-image.slatic.net/images/ims-web/930f1232-e64c-47c2-88df-8e66ea34b294.png)RedMart](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?data_prefetch=true&useRMContainer=h5&useTabViewStack=true&wh_pid=/lazada/channel/sg/redmart-channel/homepage&showRMFrame=true&showLoading=false&showSearchBar=true&hideRMBreadcrumb=true&hybrid=1&tab=home&at_iframe=1&showTabBar=true&showUserJourneyWidget=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011287_7663767&prefetch_replace=1)[![Vouchers](//icms-image.slatic.net/images/ims-web/9e95c0a6-1831-4efb-b37e-6e5efd84f0ab.png)Vouchers](https://pages.lazada.sg/wow/gcp/lazada/channel/sg/voucher/claimvoucher?pha=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011288_7663767)[![Lifestyle Deals](//icms-image.slatic.net/images/ims-web/b2cfe39b-e32a-4814-a8c9-0491926ff3d9.png)Lifestyle Deals](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&at_iframe=1&wh_pid=/lazada/channel/sg/bau-campaigns/wow-deals-for-you&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011290_7663767&prefetch_replace=1)
+ [![LazMall](https://img.lazcdn.com/g/icms/images/ims-web/787bfdb2-8a17-4807-8521-6756a4fdf541.png)LazMall](https://pages.lazada.sg/wow/i/sg/LandingPage/lazmall?wh_weex=true&wx_navbar_transparent=true&data_prefetch=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011285_7663767)[![Taobao](https://img.lazcdn.com/g/icms/images/ims-web/10254f5b-9a65-4125-a31c-94e237924935.png)Taobao](https://www.lazada.sg/shop/taobao?scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011286_7663767)[![RedMart](https://img.lazcdn.com/g/icms/images/ims-web/930f1232-e64c-47c2-88df-8e66ea34b294.png)RedMart](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?data_prefetch=true&useRMContainer=h5&useTabViewStack=true&wh_pid=/lazada/channel/sg/redmart-channel/homepage&showRMFrame=true&showLoading=false&showSearchBar=true&hideRMBreadcrumb=true&hybrid=1&tab=home&at_iframe=1&showTabBar=true&showUserJourneyWidget=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011287_7663767&prefetch_replace=1)[![Vouchers](https://img.lazcdn.com/g/icms/images/ims-web/9e95c0a6-1831-4efb-b37e-6e5efd84f0ab.png)Vouchers](https://pages.lazada.sg/wow/gcp/lazada/channel/sg/voucher/claimvoucher?pha=true&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011288_7663767)[![Lifestyle Deals](https://img.lazcdn.com/g/icms/images/ims-web/b2cfe39b-e32a-4814-a8c9-0491926ff3d9.png)Lifestyle Deals](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&at_iframe=1&wh_pid=/lazada/channel/sg/bau-campaigns/wow-deals-for-you&scm=1003.4.icms-zebra-5000519-2586695.OTHER_6502011290_7663767&prefetch_replace=1)
 
 ### Customer Care
 
@@ -81,7 +81,7 @@ Always Better
 
 Download the App
 
-[](https://bit.ly/lazada-ios-app)[](https://bit.ly/lazada-android-app)[](https://appgallery.huawei.com/#/app/C100164557)
+[](https://itunes.apple.com/app/id785385147)[](https://play.google.com/store/apps/details?id=com.lazada.android)[](https://appgallery.huawei.com/#/app/C100164557)
 
 ### Payment Methods
 
