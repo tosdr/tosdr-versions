@@ -98,9 +98,9 @@ Find copies and variants of content against billions of public web images](https
 
 Find copies and variants of content within a configurable media library](https://thehive.ai/apis/custom-search)
 
-[Copyright Search
+[Media Search
 
-Find copies and variants of movies, TV shows, and broadcasts](https://thehive.ai/apis/copyright-search)
+Find copies and variants of movies, TV shows, and broadcasts](https://thehive.ai/apis/media-search)
 
 [NFT Search
 
@@ -114,6 +114,10 @@ image sets](https://thehive.ai/apis/contextual-search)
 [Celebrity Recognition
 
 Identify tens of thousands of well-known public figures](https://thehive.ai/apis/celebrity-recognition)
+
+[Likeness Detection
+
+Identifies popular characters or artworks in visuals across IP domains.](https://thehive.ai/apis/likeness-detection)
 
 [Image Generation
 
