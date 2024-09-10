@@ -21,22 +21,17 @@ Menu
     * [RIVER ST GARAGE](https://parkharrisburg.com/garages-and-lots/river-st-garage/)
     * [SOUTH ST GARAGE](https://parkharrisburg.com/garages-and-lots/south-st-garage/)
     * [WALNUT ST GARAGE](https://parkharrisburg.com/garages-and-lots/walnut-st-garage/)
-* [Rates](https://parkharrisburg.com/rates/)
-    
-    * [Parking Rates](https://parkharrisburg.com/rates/)
-    * [Parking Discounts](https://parkharrisburg.com/parking-discounts/)
 * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
     
     * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
     * [Pay Monthly Parking](https://parkcentral.spplus.com/)
     * [Pre-Tax Programs](https://parkharrisburg.com/pre-tax-programs/)
-* [On Street Meters](https://parkharrisburg.com/on-street-meters/)
+* [On Street Parking](https://parkharrisburg.com/on-street-meters/)
     
-    * [On Street Meters](https://parkharrisburg.com/on-street-meters/)
+    * [On Street Parking](https://parkharrisburg.com/on-street-meters/)
     * [Free Downtown Parking From 5pm To 7pm](https://parkharrisburg.com/free-downtown-parking-evenings/)
     * [Free 15 Minute Parking Zones](https://parkharrisburg.com/free-on-street-parking/)
     * [Report a Meter Problem](https://parkharrisburg.com/report-a-meter-problem/)
-    * [Park Harrisburg Smart Card](https://parkharrisburg.com/on-street-meters/park-harrisburg-smart-card/)
 * [Violations](https://parkharrisburg.com/violations/)
     
     * [Violations](https://parkharrisburg.com/violations/)
@@ -106,7 +101,6 @@ Menu
 * [Garages and Lots](https://parkharrisburg.com/garages-and-lots/)
 * [On Street Meters](https://parkharrisburg.com/on-street-meters/)
 * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
-* [Rates](https://parkharrisburg.com/rates/)
 * [Violations](https://parkharrisburg.com/violations/)
 * [Contact](https://parkharrisburg.com/contact/)
 * [FAQS](https://parkharrisburg.com/faqs/)
