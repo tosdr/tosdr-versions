@@ -13,8 +13,8 @@ _Springe direkt zu:_
 Servicemenü
 -----------
 
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * **Im­pres­s­um**
 * [Da­ten­schutz](https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html)
@@ -23,7 +23,7 @@ Servicemenü
 * [Ge­bär­den­spra­che](https://www.bfdi.bund.de/DE/Meta/Gebaerdensprache/gebaerdensprache_node.html)
 * [Leich­te Spra­che](https://www.bfdi.bund.de/DE/Meta/LeichteSprache/leichtesprache_node.html)
 
-[![Government Site Builder Standardlösung (Link zur Startseite)](/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&v=3)](https://www.bfdi.bund.de/DE/Home/home_node.html "Zur Startseite")
+[![Government Site Builder Standardlösung (Link zur Startseite)](/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&v=10)](https://www.bfdi.bund.de/DE/Home/home_node.html "Zur Startseite")
 
 Hauptmenü
 ---------
@@ -129,53 +129,54 @@ Hauptmenü
     [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
     ----------------------------------------------------------------------------------------------------------------
     
-* [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/derbfdi_node.html)
+* [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/derbfdi_node.html)
     
-    ### Unternavigationspunkte Der BfDI
+    ### Unternavigationspunkte Die BfDI
     
     Schließen
     
-    [Über Uns](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/ueberuns_node.html)
-    ---------------------------------------------------------------------------
+    [Über Uns](https://www.bfdi.bund.de/DE/BfDI/UeberUns/ueberuns_node.html)
+    ------------------------------------------------------------------------
     
-    * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
-    * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+    * [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/UeberUns/BfDI/derbfdi_node.html)
+    * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/BfDI/UeberUns/Organisation/organisation-node.html)
+    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
     
-    [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
-    ----------------------------------------------------------------------------------------
+    [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
+    -------------------------------------------------------------------------------------
     
-    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
-    * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
-    * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
-    * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/BfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+    * [Ar­bei­ten bei der BfDI](https://www.bfdi.bund.de/DE/BfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten bei der BfDI")
+    * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/BfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+    * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
     
-    [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-    ----------------------------------------------------------------------
+    [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+    -------------------------------------------------------------------
     
-    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
+    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressebilder/Pressebilder_node.html)
     
-    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
-    ----------------------------------------------------------------------------------------------------------------------------
+    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
+    -------------------------------------------------------------------------------------------------------------------------
     
-    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
+    * [Stan­dar­di­sier­te Mes­sen­ger-Über­prü­fung](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Messengerdienste/Messengerdienste_node.html)
+    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     
-    [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
-    ---------------------------------------------------------------------------------
+    [Do­ku­men­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/dokumente_node.html)
+    ------------------------------------------------------------------------------
     
     * [BfDI-Dokumentensuche](https://www.bfdi.bund.de/SiteGlobals/Forms/Suche/Dokumentensuche_Formular.html?nn=252090)
-    * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
-    * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
-    * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
-    * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
-    * [Rund­schrei­ben des BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Rundschreiben_node.html)
-    * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
-    * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
-    * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
+    * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/BfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
+    * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/BfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
+    * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
+    * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
+    * [Rund­schrei­ben der BfDI](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Rundschreiben_node.html)
+    * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
+    * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
+    * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
     
 * [Ser­vice](https://www.bfdi.bund.de/DE/Service/service_node.html)
     
@@ -298,37 +299,38 @@ Schließen
         * [Straf- & Si­cher­heits­recht](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Straf-Sicherheitsrecht/Straf-Sicherheitsrecht_node.html)
         * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
     * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
-* Der BfDI
+* Die BfDI
     * Über Uns
-        * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
-        * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-        * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+        * [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/UeberUns/BfDI/derbfdi_node.html)
+        * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/BfDI/UeberUns/Organisation/organisation-node.html)
+        * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
     * Karriere
-        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
-        * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
-        * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
-        * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/BfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+        * [Ar­bei­ten bei der BfDI](https://www.bfdi.bund.de/DE/BfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten bei der BfDI")
+        * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/BfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+        * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
     * Presse
-        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
+        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressebilder/Pressebilder_node.html)
     * Konsultationsverfahren
-        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
+        * [Stan­dar­di­sier­te Mes­sen­ger-Über­prü­fung](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Messengerdienste/Messengerdienste_node.html)
+        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     * Dokumente
         * [BfDI-Dokumentensuche](https://www.bfdi.bund.de/SiteGlobals/Forms/Suche/Dokumentensuche_Formular.html?nn=252090)
-        * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
-        * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
-        * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
-        * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
-        * Rundschreiben des BfDI
-            * [All­ge­mei­ne Rund­schrei­ben](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Allgemein/Rundschreiben_allg-node.html "Allgemeine Rundschreiben")
-            * [Rund­schrei­ben Job­cen­ter](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Jobcenter/Rundschreiben-Jobcenter-node.html "Rundschreiben Jobcenter")
-            * [Rund­schrei­ben zum SÜG](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Sueg/Rundschreiben_Sueg-node.html "Rundschreiben zum SÜG")
-        * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
-        * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
-        * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
+        * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/BfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
+        * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/BfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
+        * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
+        * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
+        * Rundschreiben der BfDI
+            * [All­ge­mei­ne Rund­schrei­ben](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Allgemein/Rundschreiben_allg-node.html "Allgemeine Rundschreiben")
+            * [Rund­schrei­ben Job­cen­ter](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Jobcenter/Rundschreiben-Jobcenter-node.html "Rundschreiben Jobcenter")
+            * [Rund­schrei­ben zum SÜG](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Sueg/Rundschreiben_Sueg-node.html "Rundschreiben zum SÜG")
+        * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
+        * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
+        * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
 * Service
     * Publikationen
         * [Tä­tig­keits­be­rich­te](https://www.bfdi.bund.de/DE/Service/Publikationen/Taetigkeitsberichte/taetigkeitsberichte_node.html)
@@ -361,8 +363,8 @@ Schließen
     * [Da­ten­schutz­fo­rum](https://forum.bfdi.bund.de/ "Externer Link Datenschutzforum (Öffnet neues Fenster)")
 * [Su­che](https://www.bfdi.bund.de/DE/Meta/Suche/suche_node.html)
 * [Wa­ren­korb](https://www.bfdi.bund.de/DE/Meta/Warenkorb/warenkorb_node.html)
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * **Im­pres­s­um**
 * [Da­ten­schutz](https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html)
@@ -382,7 +384,7 @@ Impressum
 
 Das Internetangebot wird herausgegeben von:
 
-**Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit**  
+**Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit**  
 Graurheindorfer Str. 153  
 53117 Bonn  
 **Telefon:** +49 (0)228 997799-0  
@@ -391,7 +393,7 @@ Graurheindorfer Str. 153
 USt-IdNr. lautet DE344098903
 
 **Verantwortlich:**  
-Prof. U. Kelber, J. H. Müller
+Prof. Dr. Louisa Specht-Riemenschneider
 
 **Redaktion:**  
 Luca Winkler, Coletta Weick
@@ -413,14 +415,14 @@ Rechtliche Hinweise
 **Haftungsausschluss (Disclaimer)**
 
 **Hinweis:**  
-Die Inhalte der Internet-Seiten von www.bfdi.bund.de sollen den Zugang der Öffentlichkeit zu Informationen unserer Behörde erleichtern und ein zutreffendes Bild von den Tätigkeiten des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit auf dem Gebiet des Datenschutzes und der Informationsfreiheit vermitteln. Auf die Richtigkeit, Aktualität, Vollständigkeit, Verständlichkeit und jederzeitige Verfügbarkeit der bereitgestellten Informationen wird sorgfältig geachtet.  
+Die Inhalte der Internet-Seiten von www.bfdi.bund.de sollen den Zugang der Öffentlichkeit zu Informationen unserer Behörde erleichtern und ein zutreffendes Bild von den Tätigkeiten der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit auf dem Gebiet des Datenschutzes und der Informationsfreiheit vermitteln. Auf die Richtigkeit, Aktualität, Vollständigkeit, Verständlichkeit und jederzeitige Verfügbarkeit der bereitgestellten Informationen wird sorgfältig geachtet.  
 Dennoch sind folgende Einschränkungen zu machen:
 
 **1\. Inhalte anderweitiger Anbieter:**  
-Die auf diesen Seiten vorhandenen Links zu Inhalten von Internet-Seiten Dritter ("fremden Inhalten") wurden durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Redaktion) nach bestem Wissen und unter Beachtung größtmöglicher Sorgfalt erstellt und vermitteln lediglich den Zugang zu "fremden Inhalten". Dabei wurde auf die Vertrauenswürdigkeit dritter Anbieter und die Fehlerfreiheit sowie Rechtmäßigkeit der "fremden Inhalte" besonders geachtet.  
+Die auf diesen Seiten vorhandenen Links zu Inhalten von Internet-Seiten Dritter ("fremden Inhalten") wurden durch die Bundesbeauftragten für den Datenschutz und die Informationsfreiheit (Redaktion) nach bestem Wissen und unter Beachtung größtmöglicher Sorgfalt erstellt und vermitteln lediglich den Zugang zu "fremden Inhalten". Dabei wurde auf die Vertrauenswürdigkeit dritter Anbieter und die Fehlerfreiheit sowie Rechtmäßigkeit der "fremden Inhalte" besonders geachtet.  
 Die fremden Inhalte wurden bei der erstmaligen Link-Setzung daraufhin überprüft, ob durch sie eine mögliche zivilrechtliche oder strafrechtliche Verantwortlichkeit ausgelöst wird. Es ist jedoch nicht auszuschließen, dass die Inhalte im Nachhinein von den jeweiligen Anbietern verändert werden. Wir können diese fremden Inhalte aber nicht ständig auf Veränderungen überprüfen und daher auch keine Verantwortung dafür übernehmen. Sollten Sie der Ansicht sein, dass die verlinkten externen Seiten gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte haben, so teilen Sie uns dies bitte mit.
 
-Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit macht sich den Inhalt von Internet-Seiten Dritter, die mit der eigenen Internetpräsenz verlinkt sind, insoweit ausdrücklich nicht zu eigen. Für Schäden aus der Nutzung oder Nichtnutzung "fremder Inhalte" haftet ausschließlich der jeweilige Anbieter der Seite, auf die verwiesen wurde. Wir bemühen uns jedoch, die eingebundenen Links auf andere Webseiten regelmäßig bezüglich der genannten Kriterien zu begutachten.
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit macht sich den Inhalt von Internet-Seiten Dritter, die mit der eigenen Internetpräsenz verlinkt sind, insoweit ausdrücklich nicht zu eigen. Für Schäden aus der Nutzung oder Nichtnutzung "fremder Inhalte" haftet ausschließlich der jeweilige Anbieter der Seite, auf die verwiesen wurde. Wir bemühen uns jedoch, die eingebundenen Links auf andere Webseiten regelmäßig bezüglich der genannten Kriterien zu begutachten.
 
 **2\. Datenschutzforum:  
 **Der zuvor beschriebene Haftungsausschluss gilt uneingeschränkt auch für die Beiträge und Links im Datenschutzforum BfDI.
@@ -428,25 +430,25 @@ Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit macht si
 **3\. Eigene Inhalte:**  
 Soweit die auf diesen Seiten eingestellten Inhalte Rechtsvorschriften, amtliche Hinweise, Empfehlungen oder Auskünfte enthalten, sind sie nach bestem Wissen und unter Beachtung größtmöglicher Sorgfalt erstellt. Bei Unstimmigkeiten gilt jedoch ausschließlich die aktuelle amtliche Fassung, wie sie im dafür vorgesehenen amtlichen Verkündungsorgan veröffentlicht ist. Etwaige rechtliche Hinweise, Empfehlungen und Auskünfte sind unverbindlich; eine Rechtsberatung findet nicht statt.
 
-Für das bereitgestellte Informationsangebot gilt folgende Haftungsbeschränkung: Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzung angebotener Informationen entstehen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden, wird nicht gehaftet.
+Für das bereitgestellte Informationsangebot gilt folgende Haftungsbeschränkung: Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit haftet nicht für Schäden, die durch die Nutzung oder Nichtnutzung angebotener Informationen entstehen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden, wird nicht gehaftet.
 
 **4\. Bitte um Hinweise:**  
 Die Redaktion bittet die Nutzer von www.bfdi.bund.de, auf rechtswidrige oder fehlerhafte Inhalte Dritter, zu denen in der Internetpräsenz ein Link unterhalten wird, ggf. aufmerksam zu machen. Ebenso wird um eine Nachricht unter der angegebenen Kontaktadresse gebeten, wenn eigene Inhalte nicht fehlerfrei, aktuell, vollständig und verständlich sind.
 
 **5\. Umsatzsteuer-Identifikationsnummer:**  
-Der BfDI hat gem. § 27a Umsatzsteuergesetz folgende Umsatzsteuer-Identifikationsnummer: DE344098903
+Die BfDI hat gem. § 27a Umsatzsteuergesetz folgende Umsatzsteuer-Identifikationsnummer: DE344098903
 
 ### Urheberrecht:
 
-Die Nutzung des hier bereitgestellten Informationsmaterials des BfDI kann nach den Nutzungsbestimmungen von [Datenlizenz Deutschland – Namensnennung – Version 2.0](https://www.govdata.de/dl-de/by-2-0 "Externer Link GOVDATA Datenlizenz (Öffnet neues Fenster)") unter Angabe der Quelle „Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit" genutzt werden, soweit nicht in der einzelnen Veröffentlichung ausdrücklich etwas anderes vermerkt ist.
+Die Nutzung des hier bereitgestellten Informationsmaterials der BfDI kann nach den Nutzungsbestimmungen von [Datenlizenz Deutschland – Namensnennung – Version 2.0](https://www.govdata.de/dl-de/by-2-0 "Externer Link GOVDATA Datenlizenz (Öffnet neues Fenster)") unter Angabe der Quelle „Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit" genutzt werden, soweit nicht in der einzelnen Veröffentlichung ausdrücklich etwas anderes vermerkt ist.
 
-Sonstige auf den Webseiten zur Verfügung gestellte Texte, Textteile, Grafiken, Tabellen oder Bildmaterialien, die nicht zur Information der Öffentlichkeit bestimmt sind, dürfen ohne vorherige Zustimmung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden.
+Sonstige auf den Webseiten zur Verfügung gestellte Texte, Textteile, Grafiken, Tabellen oder Bildmaterialien, die nicht zur Information der Öffentlichkeit bestimmt sind, dürfen ohne vorherige Zustimmung der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit nicht vervielfältigt, nicht verbreitet und nicht ausgestellt werden.
 
 ### Bildrechte:
 
 Die Angaben zur Bildquelle befinden sich in der Regel direkt beim Bild. Bilder, bei denen dies aus technischen oder grafischen Gründen nicht möglich ist, stammen aus folgenden Quellen:
 
-* Der Bundesbeauftrage für den Datenschutz und die Informationsfreiheit
+* Die Bundesbeauftrage für den Datenschutz und die Informationsfreiheit
 * Adobe Stock
 * Getty
 
@@ -482,14 +484,14 @@ Unternavigation aller Website-Bereiche
 * [The­men & Po­si­tio­nen](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
 * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
 
-### Der BfDI
+### Die BfDI
 
-* [Über Uns](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/ueberuns_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
-* [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
-* [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
-* [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
+* [Über Uns](https://www.bfdi.bund.de/DE/BfDI/UeberUns/ueberuns_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
+* [Do­ku­men­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/dokumente_node.html)
+* [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+* [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
 
 ### Service
 
@@ -503,9 +505,9 @@ Unternavigation aller Website-Bereiche
 
 ### Aktuelle Informationen
 
-* [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-* [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-* [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
+* [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+* [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+* [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
 * [RSS-Newsfeed - Allgemein](https://www.bfdi.bund.de/SiteGlobals/Functions/RSSFeed/Allgemein/rssnewsfeed.xml?nn=252090)
 
 ### Forum
