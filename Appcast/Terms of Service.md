@@ -1,4 +1,4 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                           
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                              
 
 [Skip to content](#content)
 
@@ -77,10 +77,10 @@ Use our tool to identify gender-coded terms in your job ads and suggest bias-fre
 
 A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
 
-[Recruitonomics
---------------
+[Upcoming Webinar
+----------------
 
-Built from a world-class data set, Recruitonomics is the combination of labor economics & recruiting tactics.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
+How to Attract the Right Candidates in Today’s Labor Market on September 18 at 2:00 pm ET](https://info.appcast.io/webinar/how-to-attract-the-right-candidates-in-todays-labor-market?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=) 
 
 [login](https://premium.appcast.io/user_sessions/new)
 
