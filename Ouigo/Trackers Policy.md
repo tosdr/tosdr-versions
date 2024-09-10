@@ -1,9 +1,5 @@
  [Aller au contenu principal](#main-content)
 
-![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/i%20info_1.png)
-
-Un défaut d’alimentation électrique, conséquence des conditions météorologiques dégradées, interrompt la circulation des trains sur la Ligne à Grande Vitesse Sud Est. [En savoir plus.](https://www.ouigo.com/faq?question=travaux-en-cours-consequences-sur-les-circulations-ouigo)
-
 ![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/T%C3%A9l%C3%A9chargement%20app.png)
 
 Téléchargez l'application OUIGO ! 
