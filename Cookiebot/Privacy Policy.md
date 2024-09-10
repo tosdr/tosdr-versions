@@ -12,7 +12,7 @@ What is Cookiebot
 
 Regulations
 
-[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-and-google-consent-mode/)
+[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-google-consent-mode/)
 
 Partners
 
@@ -24,7 +24,7 @@ Resources
 
 [Pricing](https://www.cookiebot.com/en/pricing/)
 
-[![login.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/06/login.svg)Log In](https://www.cookiebot.com/en/cmp-login/)[Free Trial](https://admin.cookiebot.com/signup)
+[![login.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/06/login.svg)Log In](https://www.cookiebot.com/en/cmp-login/)[Start Free](https://admin.cookiebot.com/signup)
 
 Cookiebot Privacy Policy
 ========================
@@ -43,7 +43,7 @@ Share
 
 www.cookiebot.com
 
-Last update: July 19, 2024
+Last update: August 19, 2024
 
 Your privacy is important to us. This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
 
@@ -236,7 +236,7 @@ We collect your direct input to our cloud service Cookiebot (the “Service”) 
 The Service automatically creates and stores metadata on the basis of the other types of data, e.g.:
 
 * In case you become a customer, subscription data, like start date, latest invoice date and the result of a mandatory VAT number validation. Issued invoices are stored so that you may access any issued invoices from within the Service Manager.
-* In case you sign up for either a Cookiebot CMP account or our free GDPR/ePR test, which analyzes your website to give you an indication of whether or not your website is compliant with the rules relating to online tracking set out in the GDPR and ePR, or if you check our privacy policy, sign up for our newsletter or download a resource, please note that we evaluate your user behaviour when you register for our service. We record your campaign behaviour. Embedded links contain UTM parameters and other identifiers which will identify all parameters of your “clicks”.  
+* In case you sign up for either a Cookiebot CMP account or our free GDPR/ePR test, which analyzes your website to give you an indication of whether or not your website is compliant with the rules relating to online tracking set out in the GDPR and ePR, or if you check our privacy policy, sign up for our newsletter or download a resource, please  note that we evaluate your user behaviour when you register for our service. We record your campaign behaviour. Embedded links contain UTM parameters and other identifiers which will identify all parameters of your “clicks”.  
       
     The UTM parameters allow us to add trackable extensions to your URLs. The parameters are:
     * Medium: this parameter describes the medium in which the link is embedded. Examples: email, social media or website.
@@ -416,6 +416,7 @@ If a third country transfer is provided for and no adequacy decision or appropri
 | Beamer provided by Joincube, Inc., 3500 South Dupont Highway, Dover, DE 19901, USA | Provides method to collect customer feedback and provide customer communication like alerts | First and last name, email address, IP address, referring URL and domain, pages visited, device type, operating system and browser type | In the USA | GDPR Art. 6 (1) lit. a | [https://www.getbeamer.com/privacy-policy](https://www.getbeamer.com/privacy-policy) |
 | BunnyWay d.o.o, informacijske storitve d.o.o. Cesta komandanta Staneta 4A 1215 Medvode Slovenia | CDN provider (used by the CB customers who choose the EU CDN provider) | P addresses (end users), Geographical location, Request URL, User Agent, User ID, Connection Times | Database in the European Union | GDPR Art. 6 (1) lit. b | [https://bunny.net/privacy/#:~:text=We%20do%20not%20store](https://bunny.net/privacy/#:~:text=We%20do%20not%20store%20any,the%20requested%20data%20is%20impossible) |
 | Chili Piper Inc., 228 Park Ave S # 78136  <br>NewYork, New York 10003-1502, USA | Booking and Meeting Platform | Meeting date, time and title, guest list, first name, last name, e-mail address | In the USA | GDPR Art. 6 (1) lit. a | [https://www.chilipiper.com/privacy-policy](https://www.chilipiper.com/privacy-policy) |
+| Conversion Linker,  <br>Google Ireland Limited,  <br>Google Building, Gordon House, 4 Barrow Street, Dublin D04 E5W5, Ireland | Conversion Measurement | IP Address, Usage data, Pages viewed, Referrer URL, Cookie information, Clicked advertisements, Click path, Clicks, Date and time of visit | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Datadog Inc., 620 8th Ave, 45th Floor, New York, NY 10018, United States of America | Monitoring service for cloud applications | IP address | In the USA | GDPR Art. 6 (1) lit. b | [https://www.datadoghq.com/legal/privacy/](https://www.datadoghq.com/legal/privacy/) |
 | G2.com, Inc., 100 S. Wacker Drive, Suite 600, Chicago IL 60606, USA | Analytics service | IP address, Unique ID, Date and time of visit,  <br>Page visited, Geographical location, Website activity | In the USA | GDPR Art. 6 (1) lit. a | [https://legal.g2.com/privacy-policy](https://legal.g2.com/privacy-policy) |
 | Google Ads, Google Building Gordon House, 4 Barrow Street, Dublin D04 E5W5, Ireland  <br>  <br>_By accepting the use of Google Ads, “Enhanced Conversion” will also be activated_ | Advertising  <br>Web analytics service | Gclid, Ads viewed, Cookie ID, Date and time of visit, Device info, Geographic location, IP address, Search terms, Ads shown, Impressions, Online identifiers, Browser info  <br>  <br>For Enhanced conversion: email address, phone number, name, street and number, city, zip code and country | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
@@ -477,9 +478,9 @@ We reserve the right to update this privacy policy from time to time. In the eve
 
 * * *
 
-This Privacy Policy was last modified on July 19, 2024.
+This Privacy Policy was last modified on August 19, 2024.
 
-Click [here](https://www.cookiebot.com/en/privacy-policy-valid-until-june-30-2024/) to see the previous Privacy policy valid until July 18, 2024.
+Click [here](https://www.cookiebot.com/en/cookiebot-privacy-policy-valid-until-august-19-2024/) to see the previous Privacy policy valid until August 18, 2024.
 
      
 
@@ -520,7 +521,7 @@ Sign Up
 
 By clicking on “Sign up” I confirm that I want to subscribe to the Usercentrics newsletter. I agree that my data may be used for any information related to the products and services offered by Cookiebot™. I can easily revoke this any time by clicking the unsubscribe link or by emailing Cookiebot™ at [\[email protected\]](https://www.cookiebot.com/cdn-cgi/l/email-protection). [See Privacy Policy](https://www.cookiebot.com/en/privacy-policy/)
 
-[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/06/DPA_06_2024.pdf) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
+[Blog](https://www.cookiebot.com/en/blog/) [Cookie Declaration](https://www.cookiebot.com/en/cookie-declaration/) [Cookiebot Privacy Policy](https://www.cookiebot.com/en/privacy-policy/) [Data Processing Agreement](https://www.cookiebot.com/en/data-processing-agreement/) [Cookiebot™ Terms of Service](https://www.cookiebot.com/en/terms-of-service/)
 
 [Cookiebot Legal Notice](https://www.cookiebot.com/en/legal-notice/) [About](https://www.cookiebot.com/en/about/) [Resellers](https://www.cookiebot.com/en/resellers/) [Cookiebot Reseller Agreement](https://www.cookiebot.com/en/reseller-agreement/) [Sitemap](https://www.cookiebot.com/en/sitemap/)
 
