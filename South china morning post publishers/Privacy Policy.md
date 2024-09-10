@@ -1,6 +1,8 @@
-[](https://www.scmp.com/)
+[](https://www.scmp.com/?module=masthead&pgtype=page)
 
-SCMP.COM
+[](https://www.scmp.com/?module=masthead&pgtype=page)
+
+Advertisement
 
 Privacy Policy
 ==============
@@ -82,7 +84,8 @@ Such legal basis includes: (i) legitimate business interests of SCMP GROUP in pr
 Legitimate Interests
 --------------------
 
-SCMP GROUP processes personal data under the “legitimate interests” legal basis which means that the processing of the personal data is necessary for the legitimate interest pursued by SCMP GROUP except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which requires the protection of personal data.  
+SCMP GROUP processes personal data under the “legitimate interests” legal basis which means that the processing of the personal data is necessary for the legitimate interest pursued by SCMP GROUP except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which requires the protection of personal data.
+
  
 
 _Legitimate Interests Assessment_
@@ -249,7 +252,8 @@ Representation for Data Subjects in the European Union or in the United Kingdom
 
 We value your privacy and your rights as a data subject and have therefore appointed Prighter as our privacy representative and your point of contact.
 
-Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative Prighter or make use of your data subject rights, please visit:   
+Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative Prighter or make use of your data subject rights, please visit: 
+
 [https://prighter.com/q/16203020](https://prighter.com/q/16203020)
 
 A reasonable fee may be charged in light of the administrative costs that SCMP GROUP shall incur in addressing your request(s).
