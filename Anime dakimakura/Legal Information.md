@@ -37,6 +37,7 @@
         * [Bleach](https://www.animedakimakura.com/bleach-c-1_60_91/)
         * [Blend·S](https://www.animedakimakura.com/blends-c-1_60_65/)
         * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
+        * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
         * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
         * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
         * [Cardcaptor Sakura](https://www.animedakimakura.com/cardcaptor-sakura-c-1_60_174/)
@@ -45,6 +46,7 @@
         * [Chainsaw Man](https://www.animedakimakura.com/chainsaw-man-c-1_60_210/)
         * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
         * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
+        * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
         * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
         * [Dagashi Kashi](https://www.animedakimakura.com/dagashi-kashi-c-1_60_20/)
         * [Dakara Boku wa, H ga Dekinai](https://www.animedakimakura.com/dakara-boku-wa-h-ga-dekinai-c-1_60_203/)
@@ -187,6 +189,7 @@
         * [VOCALOID](https://www.animedakimakura.com/vocaloid-c-1_2_24/)
         * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
         * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
+        * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
         * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
@@ -291,6 +294,7 @@ english
         * [Bleach](https://www.animedakimakura.com/bleach-c-1_60_91/)
         * [Blend·S](https://www.animedakimakura.com/blends-c-1_60_65/)
         * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
+        * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
         * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
         * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
         * [Cardcaptor Sakura](https://www.animedakimakura.com/cardcaptor-sakura-c-1_60_174/)
@@ -299,6 +303,7 @@ english
         * [Chainsaw Man](https://www.animedakimakura.com/chainsaw-man-c-1_60_210/)
         * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
         * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
+        * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
         * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
         * [Dagashi Kashi](https://www.animedakimakura.com/dagashi-kashi-c-1_60_20/)
         * [Dakara Boku wa, H ga Dekinai](https://www.animedakimakura.com/dakara-boku-wa-h-ga-dekinai-c-1_60_203/)
@@ -441,6 +446,7 @@ english
         * [VOCALOID](https://www.animedakimakura.com/vocaloid-c-1_2_24/)
         * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
         * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
+        * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
         * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
@@ -588,6 +594,8 @@ Navigation 
                 
             * [Blue Archive](https://www.animedakimakura.com/blue-archive-c-1_60_185/)
                 
+            * [Bocchi the Rock!](https://www.animedakimakura.com/bocchi-the-rock-c-1_60_242/)
+                
             * [BokuBen](https://www.animedakimakura.com/bokuben-c-1_60_87/)
                 
             * [Bungo Stray Dogs](https://www.animedakimakura.com/bungo-stray-dogs-c-1_60_12/)
@@ -603,6 +611,8 @@ Navigation 
             * [Chivalry of a Failed Knight](https://www.animedakimakura.com/chivalry-of-a-failed-knight-c-1_60_202/)
                 
             * [Chunibyo](https://www.animedakimakura.com/chunibyo-c-1_60_193/)
+                
+            * [Classroom of the Elite](https://www.animedakimakura.com/classroom-of-the-elite-c-1_60_241/)
                 
             * [Code Geass](https://www.animedakimakura.com/code-geass-c-1_60_95/)
                 
@@ -887,6 +897,8 @@ Navigation 
             * [Walkure Romanze](https://www.animedakimakura.com/walkure-romanze-c-1_2_192/)
                 
             * [World Witches Series](https://www.animedakimakura.com/world-witches-series-c-1_2_213/)
+                
+            * [Wuthering Waves](https://www.animedakimakura.com/wuthering-waves-c-1_2_240/)
                 
             * [Xenoblade](https://www.animedakimakura.com/xenoblade-c-1_2_103/)
                 
