@@ -189,7 +189,9 @@ In general, the third-party providers used by us will only collect, use and disc
 Section 7 - Shopify
 -------------------
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.### Payment
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+
+### Payment
 
 If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
@@ -238,8 +240,8 @@ Section 10 - Questions And Contact Information
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at [\[email protected\]](https://www.monstercat.com/cdn-cgi/l/email-protection) or by mail.  
 Monstercat Inc.  
 Re: Privacy Compliance  
-380 Railway Street  
-V6A4E3  
+2900-550 Burrard Street  
+V6C0A3  
 Vancouver BC  
 Canada
 
