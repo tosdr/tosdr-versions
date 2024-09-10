@@ -26,11 +26,11 @@
     
     [New course
     
-    SEC-100: CyberCore - Security Essentials
+    TH-200: Foundational Threat Hunting
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
     
     [Enterprise Cyber Range & Versus
     
@@ -90,11 +90,11 @@
     
     [New course
     
-    SEC-100: CyberCore - Security Essentials
+    TH-200: Foundational Threat Hunting
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
     
 * Pricing Plans & Pricing
     
@@ -146,11 +146,11 @@
     
     [New course
     
-    SEC-100: CyberCore - Security Essentials
+    TH-200: Foundational Threat Hunting
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
     
 * Partners
     
@@ -181,6 +181,7 @@
     * [Case Studies](https://www.offsec.com/resources/case-study/)
     * [Guides](https://www.offsec.com/resources/guides/)
     * [White Papers](https://www.offsec.com/resources/whitepaper/)
+    * [Product Updates](https://www.offsec.com/resources/product-updates/)
     
     * Watch
         
@@ -345,6 +346,7 @@ Resources
 * [Case Studies](https://www.offsec.com/resources/case-study/)
 * [Guides](https://www.offsec.com/resources/guides/)
 * [White Papers](https://www.offsec.com/resources/whitepaper/)
+* [Product Updates](https://www.offsec.com/resources/product-updates/)
 
 * Watch
     
@@ -375,12 +377,14 @@ Resources
 
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
-![](/_astro/blackhat.4sSzId7N_Z1gHtzO.svg)
+![](/_astro/TH-200.DrtiZeG6_18efD9.svg)
 
-Attending Black Hat USA 2024? Swing by our booth!
--------------------------------------------------
+TH-200: Foundational Threat Hunting
+-----------------------------------
 
-[Learn more](https://offs.ec/3S803ee)
+OffSec's brand new course and certification equips individuals and teams to proactively identify threats, protecting organizational infrastructure.
+
+[Learn more](https://www.offensive-security.com/courses/th-200/)
 
 Legal
 =====
