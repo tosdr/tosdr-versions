@@ -94,7 +94,7 @@ Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of cl
 * [BHSU Events](https://www.bhsu.edu/About-BHSU/Events/index)
 * [BHSU News](https://www.bhsu.edu/about-bhsu/news-events/index)
 * [President](https://www.bhsu.edu/President/index)
-* [Admin Team](https://www.bhsu.edu/President/2023-01ADMINISTRATIVESTRUCTURE_FINAL.pdf)
+* [Admin Team](https://www.bhsu.edu/President/_docs/orgcharts/2023-01ADMINISTRATIVESTRUCTURE_FINAL1.pdf)
 * [BHSU Traditions](https://www.bhsu.edu/About-BHSU/BHSU-Traditions)
 * [Student Consumer Information](https://www.bhsu.edu/About-BHSU/Student-Consumer-Information)
 * [BHSU Fact Sheet](https://www.bhsu.edu/About-BHSU/BHSU_FACT_SHEET.pdf)
