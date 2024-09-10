@@ -1,3 +1,9 @@
+[](https://b.socrative.com/teacher/#pricing)
+
+[](https://b.socrative.com/teacher/#pricing)
+
+Get ready for Back To School Season with 33% Savings! Apply code SOCBTS2024 at checkout and SAVE 33% when you upgrade to Socrative Essentials or Pro. \*\*Offer expires on 30 Sept\*\* [Upgrade Now](https://b.socrative.com/teacher/#pricing)
+
 [](https://www.socrative.com/)[Login](#login) [Menu](#navigation)
 
 * [K-12](https://www.socrative.com/k-12/)
