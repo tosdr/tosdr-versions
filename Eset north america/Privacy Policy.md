@@ -13,7 +13,7 @@ Legally speaking, about your privacy using ESET.
 
 **[Retrun Policy](https://www.eset.com/us/policy-hub/return-policy/)**
 
-**[End User Subscription Agreement](https://help.eset.com/eula/?lang=en)**
+**[End User License Agreement](https://help.eset.com/eula/?lang=en)**
 
 **Privacy Policy**
 ==================
@@ -43,7 +43,7 @@ EFFECTIVE DATE: DECEMBER 6, 2022
 
 This privacy policy (“**Policy**”) describes how ESET North America and its affiliates and subsidiaries (“**ESET**,” “**we**” or “**us**”) collect, use, disclose, and otherwise process the personal information described in this Policy. This Policy applies to the extent we process personal information as a business or controller.
 
-Your use of [eset.com/us/](https://www.eset.com/us/) (the “**Site**”) and the services and products we provide (“**Services**”) is subject to this Policy and our [Terms of Use](https://www.eset.com/us/policy-hub/legal-information/) or [End User Subscription Agreement](https://help.eset.com/eula/?lang=en). By using the Site, you expressly accept and consent that your information may be transferred across international borders to server locations supporting the Site (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site. This includes transfers to ESET subcontractors, agents, or representatives who perform tasks related to the Site and services, and transfers for the purpose of storing the data in relevant databases.
+Your use of [eset.com/us/](https://www.eset.com/us/) (the “**Site**”) and the services and products we provide (“**Services**”) is subject to this Policy and our [Terms of Use](https://www.eset.com/us/policy-hub/legal-information/) or [End User License Agreement](https://help.eset.com/eula/?lang=en). By using the Site, you expressly accept and consent that your information may be transferred across international borders to server locations supporting the Site (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site. This includes transfers to ESET subcontractors, agents, or representatives who perform tasks related to the Site and services, and transfers for the purpose of storing the data in relevant databases.
 
 If you are a resident of California, please also refer to the tab “[Your California Rights](https://www.eset.com/us/policy-hub/your-california-rights/)” in this Policy Hub for further information about your rights under California privacy laws.
 
@@ -199,11 +199,11 @@ San Diego, CA 92101
     
     ![](/fileadmin/ESET/INT/Boxes/155x185-Balanced/Gemini/boxes-EHSE-EHSP-EHSU.png)
     
-    ### [HOME Security](https://www.eset.com/us/brand-special-offer-2024/) 30% OFF
+    ### HOME Security
     
-    [All-in-one protection of your digital life. Choose a plan according to your needs.](https://www.eset.com/int/home/protection-plans/)
+    All-in-one protection of your digital life. Choose a plan according to your needs.
     
-    [Choose your plan](https://www.eset.com/us/back-to-school-2024/)
+    [Choose your plan](https://www.eset.com/us/home/protection-plans/)
     
     **Special solutions:**
     
@@ -328,7 +328,7 @@ San Diego, CA 92101
     * [ESET PROTECT MDR](https://www.eset.com/us/business/mdr-protection/)
     * [ESET PROTECT Complete](https://www.eset.com/us/business/complete-protection/) SAVE 15%
     * [ESET PROTECT Advanced](https://www.eset.com/us/business/advanced-protection/)
-    * [Cybersecurity awareness training](https://www.eset.com/us/business/cybersecurity-awareness-training/)
+    * [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
     
     #### Recommended services
     
@@ -366,21 +366,20 @@ San Diego, CA 92101
     
     [ESET Services](https://www.eset.com/us/business/services/) ESET Services
     
-    [](https://www.eset.com/us/business/services/managed-detection-and-response/)
+    [](https://www.eset.com/us/business/services/)
     
-    #### **[ESET MDR SERVICES](https://www.eset.com/us/business/services/managed-detection-and-response/)**
+    #### **[ESET SERVICES](https://www.eset.com/us/business/services/)**
     
-    Achieve industry-leading protection  
-    with 24/7 MDR threat management services  
-     and world-class expertise.
+    Choose from the Extensive Range of  
+    ESET Services
     
-    [Explore services](https://www.eset.com/us/business/services/managed-detection-and-response/)
+    [Explore services](https://www.eset.com/us/business/services/)
     
     #### Recommended services
     
+    * [MDR Services](https://www.eset.com/us/business/services/managed-detection-and-response/)
     * [Premium Support](https://www.eset.com/us/business/services/premium-support/)
     * [Threat Intelligence](https://www.eset.com/us/business/services/threat-intelligence/)
-    * [Overview of ESET Services](https://www.eset.com/us/business/services/)
     
     [ESET Platform](https://www.eset.com/us/business/protect-platform/) ESET Platform
     
@@ -532,10 +531,11 @@ San Diego, California
 * [Enterprise](https://www.eset.com/us/business/enterprise/)
 * [All products for business](https://www.eset.com/us/business/download/)
 * [Services for business](https://www.eset.com/us/business/services/)
-* [Subscription flexibility](https://www.eset.com/us/business/licensing/)
+* [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
 * [Customer Stories](https://www.eset.com/us/business/resources/customer-stories/)
 * [Contact Sales](https://www.eset.com/us/business/contact-sales/)
 * [Resource Center](https://www.eset.com/us/business/resource-center/)
+* [Watch Demo](https://www.eset.com/us/business/demo/)
 
 #### Downloads for business
 
@@ -596,10 +596,11 @@ San Diego, California
 * [Enterprise](https://www.eset.com/us/business/enterprise/)
 * [All products for business](https://www.eset.com/us/business/download/)
 * [Services for business](https://www.eset.com/us/business/services/)
-* [Subscription flexibility](https://www.eset.com/us/business/licensing/)
+* [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
 * [Customer Stories](https://www.eset.com/us/business/resources/customer-stories/)
 * [Contact Sales](https://www.eset.com/us/business/contact-sales/)
 * [Resource Center](https://www.eset.com/us/business/resource-center/)
+* [Watch Demo](https://www.eset.com/us/business/demo/)
 
 #### Downloads for business
 
@@ -639,7 +640,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/contact-sales/)
+[United States (EN)](https://www.eset.com/us/business/download/inspect/)
 
 * * *
 
@@ -664,6 +665,6 @@ San Diego, California
 
 ##### © 2008-2024 ESET North America. All rights reserved. Trademarks used herein are trademarks or registered trademarks of ESET spol. s r.o. or ESET North America. All other names and brands are registered trademarks of their respective companies.
 
-5.23.0.mas.5d82248c.awus
+5.25.0.mas.c362b24a.awus
 
 ![](https://ssitecat.eset.com/b/ss/esetgwsprod/1/H.27.5--NS/0)
