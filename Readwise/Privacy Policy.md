@@ -168,7 +168,7 @@ Readwise helps thousands of readers get the most out of their digital highlights
 
 [Dashboard](https://readwise.io/dashboard)  
 
-[FAQs](https://help.readwise.io/)  
+[FAQs](https://docs.readwise.io/readwise/docs)  
 
 [Blog](https://blog.readwise.io/)  
 
