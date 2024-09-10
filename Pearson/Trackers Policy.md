@@ -128,6 +128,10 @@ United States
         
         * [Student Support](https://login.pearson.com/v1/piapi/login/saml/generateResponse?sessionType=fr&targetUrl=https://support.pearson.com/getsupport/s/learners)
         
+        ### Redeem an access code
+        
+        * [Pearson+](https://www.pearson.com/store/en-us/pearsonplus/redeem)
+        
         ### Resources
         
         * [Blog](https://www.pearson.com/en-us/higher-education/insights-and-events/students-blog.html)
@@ -162,6 +166,7 @@ United States
         * [Mastering](https://www.pearson.com/en-us/higher-education/products-services/mastering.html)
         * [MyLab](https://www.pearson.com/en-us/higher-education/products-services/mylab.html)
         * [Revel](https://www.pearson.com/en-us/higher-education/products-services/revel.html)
+        * [AI Study Tools](https://www.pearson.com/en-us/higher-education/products-services/aistudytool.html)
         
         ### Sign in to Learning Application
         
