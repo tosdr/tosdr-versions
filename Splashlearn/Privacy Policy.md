@@ -28,7 +28,7 @@ Helpful Links
 
 Also available on![](https://cdn.splashmath.com/assets/home/v5/apple-logo-e89e10719ec6dbd376d76bda9d338e4999b686f4ba1a72f0557f2291d9e8412e.svg)![](https://cdn.splashmath.com/assets/home/v5/google-play-logo-ab5922bba355bacb9276745391696e22bf7d6244ecd457d9e71b1415d912ea6f.svg)
 
-[![app store](https://cdn.splashmath.com/assets/home/v5/app-store-c8389de3b839f3bb3ba31f619e6600121ec8e816ae1df8b35ff09dac458d9e79.svg)](https://apps.apple.com/us/app/splashlearn-kids-learning-app/id672658828)[![play store](https://cdn.splashmath.com/assets/home/v5/play-store-bd264b12b37c7969554a2e3ebfbe5d58b21d72fab71ff42bf24b33dd704c6043.svg)](https://play.google.com/store/apps/details?id=com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath&hl=en&gl=US)
+[![app store](https://cdn.splashmath.com/assets/home/v5/app-store-c8389de3b839f3bb3ba31f619e6600121ec8e816ae1df8b35ff09dac458d9e79.svg)](https://apps.apple.com/us/app/splashlearn-kids-learning-app/id672658828)[![play store](https://cdn.splashmath.com/assets/logged_out/header/play-store.png)](https://play.google.com/store/apps/details?id=com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath&hl=en&gl=US)
 
 Educators![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
 
@@ -54,7 +54,7 @@ More Programs
 
 Helpful Links
 
-[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
+[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools/)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
 
 Our Library![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
 
@@ -212,7 +212,7 @@ Math definitions made easy
 
 Explore 2,000+ definitions with examples and more - all in one place.
 
-[Explore math vocabulary](https://www.splashlearn.com/math-vocabulary)
+[Explore math vocabulary](https://www.splashlearn.com/math-vocabulary/)
 
 [Log in](https://www.splashlearn.com/signin)[Sign up](https://www.splashlearn.com/register)
 
@@ -280,7 +280,7 @@ More Programs![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-d
 
 Helpful Links![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
 
-[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
+[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools/)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
 
 ![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
 
@@ -1076,11 +1076,11 @@ ELA Games for Kids
 
 Browse by Subject & Grade
 
-[Math](https://www.splashlearn.com/math)[ELA](https://www.splashlearn.com/ela)[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+[Math](https://www.splashlearn.com/math)[ELA Games for Kids](https://www.splashlearn.com/ela)[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
 
 SplashLearn Content
 
-[For Classrooms](https://www.splashlearn.com/features/teachers)[For HomeSchoolers](https://www.splashlearn.com/features/parents)[Math Games](https://www.splashlearn.com/math-game)[Math Games for kindergarten](https://www.splashlearn.com/math-games-for-kindergarteners)[Math Games for 1st Grader](https://www.splashlearn.com/math-games-for-1st-graders)[Math Games for 2nd Grader](https://www.splashlearn.com/math-games-for-2nd-graders)[Math Games for 3rd Grader](https://www.splashlearn.com/math-games-for-3rd-graders)[Math Games for 4th Grader](https://www.splashlearn.com/math-games-for-4th-graders)[Math Games for 5th Grader](https://www.splashlearn.com/math-games-for-5th-graders)[Commmon Care Math Vocabulary](https://www.splashlearn.com/math-vocabulary)
+[For Classrooms](https://www.splashlearn.com/features/teachers)[For HomeSchoolers](https://www.splashlearn.com/features/parents)[Math Games](https://www.splashlearn.com/math-games)[Math Games for kindergarten](https://www.splashlearn.com/math-games-for-kindergarteners)[Math Games for 1st Grader](https://www.splashlearn.com/math-games-for-1st-graders)[Math Games for 2nd Grader](https://www.splashlearn.com/math-games-for-2nd-graders)[Math Games for 3rd Grader](https://www.splashlearn.com/math-games-for-3rd-graders)[Math Games for 4th Grader](https://www.splashlearn.com/math-games-for-4th-graders)[Math Games for 5th Grader](https://www.splashlearn.com/math-games-for-5th-graders)[Common Core Math Vocabulary](https://www.splashlearn.com/math-vocabulary)
 
 Resources
 
@@ -1132,10 +1132,6 @@ Sign Up for SplashLearn
 or
 
  [![Teacher](https://cdn.splashmath.com/assets/avatars/teacher-cd012e1ac776c5161b3cb011e8a6376cf239e910f410b152dba72a498dbad843.png)](https://www.splashlearn.com/teachers/register)[For Teachers](https://www.splashlearn.com/teachers/register)
-
-In order to give you the best experience, we use cookies and similar technologies for performance, analytics, personalisation, advertising, and to help our site function. Want to know more? Read our [Cookie Policy](https://www.splashlearn.com/cookies_info_setting). You can change your preferences any time in your Privacy Settings.
-
-I Accept[Update Privacy Settings](https://www.splashlearn.com/cookies_info_setting?manageCookie=1)
 
 Parents, we need your age to give you an age-appropriate experience
 
