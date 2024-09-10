@@ -2,11 +2,11 @@
 
 [Sign up](https://dashboard.sendowl.com/signup)
 
-[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)
+[Platform](https://www.sendowl.com/platform)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)
 
 [Log in](https://dashboard.sendowl.com/login)[Sign up](https://dashboard.sendowl.com/signup)
 
-[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Log in](https://dashboard.sendowl.com/login)
+[Platform](https://www.sendowl.com/platform)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Log in](https://dashboard.sendowl.com/login)
 
 #### Get started  
 for free.
@@ -196,6 +196,7 @@ for free.
 
 Product
 
+* [Platform](https://www.sendowl.com/platform)
 * [Benefits](https://www.sendowl.com/benefits)
 * [Pricing](https://www.sendowl.com/pricing)
 
@@ -219,7 +220,6 @@ Community
 * [![Youtube](/_next/static/media/icon-footer-youtube.ee917f25.svg)](https://www.youtube.com/@Sendowl)
 * [![TikTok](/_next/static/media/icon-footer-tiktok.59db2fe7.svg)](https://www.tiktok.com/@sendowl)
 
-* [Product categories](https://www.sendowl.com/categories)
 * [Terms of Service](https://www.sendowl.com/terms)
 * [Privacy Policy](https://www.sendowl.com/privacy)
 * [Cookies](https://www.sendowl.com/cookies)
