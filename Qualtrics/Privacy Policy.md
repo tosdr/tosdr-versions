@@ -292,7 +292,7 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 
 **EEA and UK Representative Contact Information.** For users in the EEA, we have appointed Qualtrics Ireland Limited, at One Clarendon Row, Dublin 2, Ireland, as our EU data representative, and QUL Technologies Limited, at 5 New Street Square, London, United Kingdom, EC4A 3TW as our UK data representative. You can contact our EU and UK representatives at the addresses above or alternatively at privacy@qualtrics.com.
 
-[](https://www.facebook.com/Qualtrics/)[](https://twitter.com/Qualtrics/)[](https://www.linkedin.com/company/qualtrics)[](https://www.youtube.com/user/QualtricsSoftware)
+ [![](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/03/logo-facebook-2023.webp)](https://www.facebook.com/Qualtrics/)[![](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/10/logo-x-2023-en.webp)](https://twitter.com/Qualtrics/)[![](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/03/logo-linkedin-2023.webp)](https://www.linkedin.com/company/qualtrics)[![](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/03/logo-youtube-2023.webp)](https://www.youtube.com/user/QualtricsSoftware)
 
 ### Support
 
