@@ -90,7 +90,6 @@ Online Banking](https://app.starlingbank.com/)
         * [Browse free business guides](https://www.starlingbank.com/resources/business-guides/)
         * [Business Class](https://www.starlingbank.com/resources/business/business-webinars/)
         * [In-app help centre](https://www.starlingbank.com/contact/in-app-help-centre/)
-        * [Customer case studies](https://www.starlingbank.com/blog/tag/business-case/)
         * [Coronavirus government support](https://www.starlingbank.com/resources/business/covid19-tool-to-find-out-how-gov-supports-my-business/)
     
     * [Log in to Online Banking](https://app.starlingbank.com/)
