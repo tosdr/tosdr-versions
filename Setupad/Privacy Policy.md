@@ -137,4 +137,4 @@ Socials
 
 © 2015 - 2024 [Setupad.com](https://setupad.com/) SETUPAD Inc. All Rights reserved.
 
- [![message icon](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-small.svg) ![message icon big](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-big.svg)](https://setupad.com/contact)
+ [![message icon](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-small.svg) ![message icon big](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-big.svg)](https://setupad.com/contact/)
