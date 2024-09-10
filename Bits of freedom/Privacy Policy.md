@@ -7,7 +7,7 @@
     
 * [](https://www.bitsoffreedom.nl/cart/ "Winkelwagen")
 * [Shop](https://www.bitsoffreedom.nl/shop/)
-* [Doneer](https://www.bitsoffreedom.nl/doneren/)
+* Doneer
 * Menu
 
 0 recente resultaten  
@@ -16,18 +16,19 @@ Alle resultaten
 
 * [](https://www.bitsoffreedom.nl/cart/ "Winkelwagen")
 * [Shop](https://www.bitsoffreedom.nl/shop/)
-* [Doneer](https://www.bitsoffreedom.nl/doneren/)
+* Doneer
 
 * [Wat wij doen](https://www.bitsoffreedom.nl/wat-wij-doen/)
     * [Over ons](https://www.bitsoffreedom.nl/over-ons/)
 * [Actueel](https://www.bitsoffreedom.nl/actueel/)
     * [Podcast](https://www.bitsoffreedom.nl/podcast-afleveringen/)
     * [Verdieping](https://www.bitsoffreedom.nl/verdieping/)
-    * [Tech onderzoek](https://tech.bitsoffreedom.nl/)
+    * [Tech onderzoek](https://www.bitsoffreedom.nl/tag/tech-onderzoek/)
 * [Contact](https://www.bitsoffreedom.nl/contact/)
     * [Pers](https://www.bitsoffreedom.nl/pers/)
     * [Donateursomgeving](https://donateurs.bitsoffreedom.nl/)
 * [Kom in actie](https://www.bitsoffreedom.nl/kom-in-actie/)
+    * [Doneren aan ons](https://www.bitsoffreedom.nl/doneren/)
     * [Projecten & campagnes](https://www.bitsoffreedom.nl/tips-en-tools/)
 * [Financiering](https://www.bitsoffreedom.nl/financiering/)
     * [Onze bedrijfsdonateurs](https://www.bitsoffreedom.nl/bedrijfsdonateurs/)
@@ -222,18 +223,14 @@ Bits of Freedom streeft ernaar dat de informatie op haar website correct is. Moc
 
 De teksten en de vormgeving op deze website worden uitgebracht onder een Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0) Creative Commons licentie[Alles wat je wilt weten over deze licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl). Als je ons merk of onze huisstijl wilt gebruiken, of als je de teksten op onze website wil gebruiken onder andere voorwaarden dan die van de toepasselijke Creative Commons-licentie, neem dan contact met ons op, via info@bitsoffreedom.nl.
 
-Help mee en support ons
-=======================
+Help mee en steun ons
+=====================
 
-### Door mijn bijdrage ondersteun ik Bits of Freedom, dat kan maandelijks of eenmalig.
+### 
 
-Ik geef graag per maand
+Door mijn bijdrage ondersteun ik Bits of Freedom, dat kan maandelijks of eenmalig.
 
-€  
-
-Ik geef graag een eenmalig bedrag
-
-€  
+Word vaste donateur
 
 [](https://www.bitsoffreedom.nl/)
 
@@ -251,16 +248,65 @@ Ik geef graag een eenmalig bedrag
     * [](https://www.instagram.com/bitsoffreedom/)
     * [](https://www.linkedin.com/company/bitsoffreedom/)
 
-### Dankjewel voor je support!
+#### Doneer & betaal
 
-Geef je e-mail adres door voor een betaalbewijs van je donatie. We gebruiken je e-mail alleen om het betaalbewijs op te sturen.
+#### Donatie
+
+#### Overzicht & betaal
+
+#### Betaalbewijs
+
+#### Welkom, supporter!
+
+#### Betaling mislukt
+
+1
+
+2
+
+Dankjewel voor je steun!
+------------------------
+
+Geef je e-mail adres door voor een **betaalbewijs** van je donatie of **abonneer** je op een van onze nieuwsbrieven.
 
 E-mail 
 
-Nee, dankje Ja, stuur op
+#### Ontvang updates over ons werk
 
-### Oeps, er is iets niet goed gegaan
+ Tweewekelijks overzicht
+
+ Big Brother Awards
+
+ Platformen & Big Tech
+
+ Podcastnieuwsbrief
+
+Sluit popup Verstuur betaalbewijs
+
+Je betaalbewijs is onderweg
+---------------------------
+
+Het betaalbewijs van je donatie word gestuurd naar het opgegeven mail adres. De updates die je hebt aangegeven te willen ontvangen worden los gestuurd.
+
+Sluit popup
+
+Jij bent een officiële supporter van een vrij internet!
+-------------------------------------------------------
+
+Dankjewel voor het steunen en welkom als officiële supporter van een vrij internet.
+
+Je ontvangt de inlogcode voor de donateursomgeving zo snel mogelijk via de mail. Of klik via de knop hieronder om meteen naar de donateursomgeving te gaan.
+
+Sluit popup [Naar donateursomgeving](https://donateurs.bitsoffreedom.nl/)
+
+Er ging iets mis tijdens de betaling
+------------------------------------
 
 Je betaling is niet juist afgehandeld, probeer nog eens.
 
-Sluit
+Probeer opnieuw
+
+Support en doneer!
+------------------
+
+Meer weten over doneren aan ons? Lees er [hier](https://www.bitsoffreedom.nl/doneren/) alles over.
