@@ -45,16 +45,16 @@ Terms of Service
 
 **Last Modified: Sunday 2nd April 2023**
 
-TL;DR
------
+[](#tldr)TL;DR
+--------------
 
 * **Do not cheat** or receive assistance in games (from a chess computer, book, database or another person)
 * **Be nice** and courteous to all other players, always
 * **Don't do bad things** or break any laws
 * **Enjoy the site!**
 
-**The Lichess Terms of Service**
---------------------------------
+[](#the-lichess-terms-of-service)**The Lichess Terms of Service**
+-----------------------------------------------------------------
 
 Hello there, and welcome to Lichess.org (known as Lichess), an association governed by the Law of Associations of July 1, 1901. Or, in more human-friendly language, we are an [official French charitable organisation](https://www.journal-officiel.gouv.fr/associations/detail-annonce/associations_b/20160025/818) which notably publishes the website Lichess.org.
 
@@ -204,7 +204,7 @@ Further and additional information may be found in a relevant [documentation pag
 
 Some examples of poor fair play are provided below. This is not an exhaustive list, and is provided for illustrative reasons only. We reserve the right to take action beyond the examples of bad sportsmanship provided here, and to have sole discretion in determining what constitutes bad sportsmanship.
 
-* Cheating - We prohibit the use of any external assistance used whilst a game you are involved in is ongoing, which has the effect of improving your knowledge, calculation ability, or otherwise gives you an unfair advantage over your opponent. Examples of cheating include, but are not limited to, using a chess engine, opening books, endgame tablebases, and receiving move recommendations from another person or software (including human commenters whilst streaming or social media services), and certain software or extensions at our discretion.In correspondence games only, you may use the Lichess opening explorer, plus any other chess books or opening databases.For clarity, these rules have been expressed in the [this grid](https://lichess.org/page/fair-play).
+* Cheating - We prohibit the use of any external assistance used whilst a game you are involved in is ongoing, which has the effect of improving your knowledge, calculation ability, or otherwise gives you an unfair advantage over your opponent. Examples of cheating include, but are not limited to, using a chess engine, opening books, endgame tablebases, and receiving move recommendations from another person or software (including human commenters whilst streaming or social media services), and certain software or extensions at our discretion.In correspondence games only, you may use the Lichess opening explorer, plus any other chess books or opening databases. For clarity, these rules have been expressed in [this grid](https://lichess.org/page/fair-play).
 * Boosting - This is where a rating is artificially inflated, such as by arranging wins in advance with an opponent, or knowingly playing an opponent who is artificially deflating their rating, in an attempt to sandbag.
 * Sandbagging - This is where a rating is artificially deflated, such as by resigning early, losing or drawing having put no real effort into the game, against an opponent who may be an active and willing participant or a victim.
 * Speedruns - Where not covered by any of the other sections, a speedrun (starting from a low rating and trying to increase it as quickly as possible) either being streamed or not, is not currently allowed on Lichess.
@@ -225,7 +225,7 @@ Some examples of bad conduct are provided below. This is not an exhaustive list,
 * Inappropriate usernames - Usernames are public and displayed all over the website, meaning children or vulnerable users may read them. A username chosen with the intent of generating negative emotional reactions will be closed. This includes sensitive topics, disparaging usernames, sexism, racism, bigotry, adult language, or usernames otherwise likely to cause harm or offence.
 * Abusing copyrighted material or intellectual property - Examples of these would be the sharing or distribution of chess literature, puzzle sets, annotations, or any other material or intellectual property you do not have the right to share or distribute. If you think your own copyrighted material or intellectual property has been used without permission, please report the user and get in touch with us.
 * Impersonation - This is when a user pretends to be someone else, including direct impersonation or implying you have a national or FIDE title. This may be due to a misleading username or other public or private profile information or communications. In some cases, we may ask for ID confirmation to check who you claim to be.
-* Abuse of our infrastructure or resources - This includes abuse of our APIs, violating our rules on multiple accounts, abuse of payment features, and any attempts to workaround our protections generally. This also applies to abusing any third party service provider we rely on, or are hosted by. Please [contact us](https://lichess.org/contact#help-root) if you would like to discuss our protections, including any rate limits.
+* Abuse of our infrastructure or resources - This includes abuse of our APIs, violating our rules on multiple accounts, abuse of payment features, and any attempts to circumvent our protections generally. This also applies to abusing any third party service provider we rely on, or are hosted by. Please [contact us](https://lichess.org/contact#help-root) if you would like to discuss our protections, including any rate limits.
 * Financial crime - Those who donate with stolen credit card or other financial details, or are suspected of donating with stolen credit card or other financial details are absolutely not tolerated. We work closely with our payment providers to spot and prevent this, and take robust action against those violating or suspected of violating this policy, including working with the relevant law enforcement authorities where appropriate on this issue and related (such as proceeds of crime and suspected money laundering).
 * Breaking into accounts - any kind of activity such as a programmatic approach or social engineering approach to access another user's account or password is not allowed. This activity is illegal in most circumstances and jurisdictions, and we will cooperate with the relevant law enforcement authorities.
 * Any volumetric or programmatic attack or exploit (including DOS and DDOS attacks) - it should go without saying that attacking or exploiting our website or services is not allowed. This activity is illegal in most circumstances and jurisdictions, and we will cooperate with the relevant law enforcement authorities. Please report any detected security vulnerabilities to us.
