@@ -11,221 +11,150 @@ Close menu
 
 * Why Siteimprove Why Siteimprove
     
-    [#### Why Siteimprove
+    [Why Siteimprove](https://siteimprove.com/link/7287a26b67ce4c90b526db98dc9d7eb6.aspx)
     
-    A solution for every kind of marketer 
+    * [![How It Works](/globalassets/media/redesign2024/icons/outlined_icon_nav_how_it_works-22.png)
+        
+        How It Works](https://siteimprove.com/why-siteimprove/how-it-works/)
     
-    Why Siteimprove](https://siteimprove.com/why-siteimprove/)
+* Platform Platform
     
-    * [![Overview](/globalassets/media/rebrand2023/nav/why_si_overview4x.png)
-        
-        Why Siteimprove
-        
-        A solution for every kind of marketer](https://siteimprove.com/why-siteimprove/) 
+    Core Strengths
     
-    * [![How It Works](/globalassets/media/rebrand2023/nav/why_si_how_we_work.png)
+    * [![Digital Accessibility & Governance](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_a11y_digital_governance-12.png)
         
-        How It Works
+        Digital Accessibility & Governance](https://siteimprove.com/platform/accessibility-digital-governance/)
+    * [![Digital Experience Analytics](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_digital_experience_analytics-12.png)
         
-        Learn how our platform is purpose-built for success](https://siteimprove.com/why-siteimprove/how-it-works/)
-    * [![How We Rank](/globalassets/media/rebrand2023/nav/why_si_how_we_rank.png)
+        Digital Experience Analytics](https://siteimprove.com/platform/digital-experience-analytics/)
+    * [![Search & Performance Marketing](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_search_engine_marketing-12.png)
         
-        How We Rank
+        Search & Performance Marketing](https://siteimprove.com/platform/search-engine-marketing/)
+    * [![Cross-Channel Campaign Management](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_cross-channel_ad_management-12.png)
         
-        Find out what makes us an industry leader](https://siteimprove.com/why-siteimprove/how-we-rank/)
+        Cross-Channel Campaign Management](https://siteimprove.com/platform/cross-channel-ad-management/)
     
-* Product Product
+    [Platform Overview](https://siteimprove.com/link/77bfbf08bd754f21ba0959a506d7eea5.aspx)
     
-    [#### Product
-    
-    Intuitive tools to eliminate UX friction and deliver digital experiences that delight
-    
-    Product](https://siteimprove.com/product/)
-    
-    * [![Overview](/globalassets/media/rebrand2023/nav/product_overview4x.png)
+    * [![AI at Siteimprove](/globalassets/media/redesign2024/icons/outlined_icon_nav_ai2.png)
         
-        Product
+        AI at Siteimprove](https://siteimprove.com/platform/ai-at-siteimprove/)
+    * [![Professional Services](/globalassets/media/redesign2024/icons/outlined_icon_nav_professional_services2.png)
         
-        Intuitive tools to eliminate UX friction and deliver digital experiences that delight](https://siteimprove.com/product/)
-    
-    Solutions Packages
-    
-    * [![Accessibility & QA](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solution_inclusivity.svg)
+        Professional Services](https://siteimprove.com/platform/professional-services/)
+    * [![Frontier](/globalassets/media/redesign2024/icons/outlined_icon_nav_frontier2.png)
         
-        Accessibility & QA
+        Frontier](https://siteimprove.com/frontier/)
+    * [![Integrations](/globalassets/media/redesign2024/icons/outlined_icon_nav_integrations2.png)
         
-        The gold standard for accessible, immersive digital content](https://siteimprove.com/product/inclusivity/) 
-    * [![Content Experience](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solution_content_experience.svg)
-        
-        Content Experience
-        
-        Produce relevant content that drives results](https://siteimprove.com/product/content-experience/) 
-    * [![SEO & Campaign Optimization](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solution_marketing_performance.svg)
-        
-        SEO & Campaign Optimization
-        
-        Unparalleled, actionable insights at your fingertips](https://siteimprove.com/product/marketing-performance/)
-    
-    Key Features 
-    
-    * [![Content Analytics ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_feature_content_analytics.svg)
-        
-        Content Analytics 
-        
-        Insights that empower you to turn content into revenue](https://siteimprove.com/product/content-analytics/)  
-    * [![Marketing Analytics ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_feature_marketing_analytics.svg)
-        
-        Marketing Analytics 
-        
-        Our most powerful analytics tools for complete end-to-end tracking](https://siteimprove.com/product/marketing-analytics/)   
-    * [![Integrations ](/globalassets/media/rebrand2023/nav/group-39663.png)
-        
-        Integrations 
-        
-        See how Siteimprove plays nice with your MarTech stack](https://siteimprove.com/product/integrations/) 
-    * [![All-in-one solution](/globalassets/media/rebrand2023/nav/group-39662.png)
-        
-        All-in-one solution
-        
-        Designed to drive value for the whole team](https://siteimprove.com/product/all-in-one-solution/) 
+        Integrations](https://siteimprove.com/integrations/)
     
 * Solutions Solutions
     
-    By industry 
+    By Industry 
     
-    * [![Manufacturing](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_industry_manufacturing.svg)
+    * [![Finance](/globalassets/media/redesign2024/icons/outlined_icon_nav_finance2.png)
         
-        Manufacturing
+        Finance](https://siteimprove.com/industries/financial-services/)
+    * [![Healthcare](/globalassets/media/redesign2024/icons/outlined_icon_nav_healthcare2.png)
         
-        Tools to transform attention into profit](https://siteimprove.com/solutions/manufacturing/) 
-    * [![Financial Services](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_industry_financial_services.svg)
+        Healthcare](https://siteimprove.com/industries/healthcare/)
+    * [![Higher Education](/globalassets/media/redesign2024/icons/outlined_icon_nav_high_education2.png)
         
-        Financial Services
+        Higher Education](https://siteimprove.com/industries/higher-education/)
+    * [![Government](/globalassets/media/redesign2024/icons/outlined_icon_nav_government2.png)
         
-        Attract and retain the right customers](https://siteimprove.com/solutions/financial-services/) 
-    * [![Healthcare](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_industry_healthcare.svg)
+        Government](https://siteimprove.com/industries/government/)
+    * [![Manufacturing](/globalassets/media/redesign2024/icons/outlined_icon_nav_manufacturing2.png)
         
-        Healthcare
+        Manufacturing](https://siteimprove.com/industries/manufacturing/)
+    * [![Retail](/globalassets/media/redesign2024/icons/outlined_icon_nav_retail2.png)
         
-        Become inclusive, digitally optimized, and people-first](https://siteimprove.com/solutions/healthcare/) 
-    * [![Higher Education](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_industry_higher_education.svg)
-        
-        Higher Education
-        
-        Boost visibility, engagement, and enrollment](https://siteimprove.com/solutions/higher-education/) 
-    * [![Government](/globalassets/media/rebrand2023/nav/gov.png)
-        
-        Government
-        
-        Elevate your constituents' digital experience](https://siteimprove.com/solutions/government/)
+        Retail](https://siteimprove.com/industries/retail/)
     
-    By teams 
+    By Role
     
-    * [![Content Marketers ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_team_content_marketers.svg)
+    * [![Accessibility Leaders](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_a11y_leaders.png)
         
-        Content Marketers 
+        Accessibility Leaders](https://siteimprove.com/solutions/accessibility-leaders/)
+    * [![Marketing Leaders ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_marketing_leaders2.png)
         
-        Effortlessly deliver optimized content users want](https://siteimprove.com/solutions/content-marketers/)
-    * [![Performance Marketers ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_team_performance_marketers.svg)
+        Marketing Leaders](https://siteimprove.com/solutions/marketing-leaders/) 
+    * [![Content Marketers ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_content_marketers2.png)
         
-        Performance Marketers 
+        Content Marketers](https://siteimprove.com/solutions/content-marketers/) 
+    * [![Performance Marketers ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_performance_marketers2.png)
         
-        Uncover, track, and visualize data – and watch results soar](https://siteimprove.com/solutions/performance-marketers/) 
-    * [![Marketing Leaders ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_team_marketing_leaders.svg)
+        Performance Marketers](https://siteimprove.com/solutions/performance-marketers/) 
+    * [![Development & Design](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_dev_design2.png)
         
-        Marketing Leaders 
+        Development & Design](https://siteimprove.com/solutions/development-and-design-ux/)
+    * [![WebOps](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_webops2.png)
         
-        Drive 20% higher productivity across your organization](https://siteimprove.com/solutions/marketing-leaders/) 
-    * [![Operations and IT](/globalassets/media/rebrand2023/nav/webopti_nav_icon_solutions_team_operations_it.svg)
-        
-        Operations and IT
-        
-        Build seamless, compliant, and inclusive digital experiences](https://siteimprove.com/solutions/operations-and-it/)
+        WebOps](https://siteimprove.com/solutions/webops/)
     
+    By Goal
+    
+    * [![Enhance Reputation](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_enhance_reputation2.png)
+        
+        Enhance Reputation](https://siteimprove.com/solutions/enhance-reputation/)
+    * [![Increase Reach](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_increase_reach2.png)
+        
+        Increase Reach](https://siteimprove.com/solutions/increase-reach/)
+    * [![Generate Revenue](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_generate_revenue2.png)
+        
+        Generate Revenue](https://siteimprove.com/solutions/generate-revenue/)
+    * [![Optimize ROI](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_optimize_roi2-12.png)
+        
+        Optimize ROI](https://siteimprove.com/solutions/optimize-roi/)
+    
+    Partnerships
+    
+    * [![Our Partners](/globalassets/media/redesign2024/icons/outlined__icon_nav_our_partners2-12.png)
+        
+        Our Partners](https://siteimprove.com/partners/)
+    * [![Become a Partner](/globalassets/media/redesign2024/icons/outlined_icon_nav_become_a_partner2.png)
+        
+        Become a Partner](https://siteimprove.com/partners/become-a-partner/)
+    * [![Partner Portal](/globalassets/media/redesign2024/icons/outlined_icon_nav_partner_portal2.png)
+        
+        Partner Portal](https://partners.siteimprove.com/)
+    
+* [Case Studies](https://siteimprove.com/case-studies/)
 * Resources Resources
     
-    * [![Blog](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_blog.svg)
-        
-        Blog
-        
-        Get the latest on MarTech, accessibility, and more](https://siteimprove.com/blog/)
-    * [![On-demand webinars](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_webinars_events.svg)
-        
-        On-demand webinars
-        
-        Deep-dive expert sessions at your own pace](https://siteimprove.com/on-demand-webinars/)
-    * [![Events](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_events.svg)
-        
-        Events
-        
-        Meet us online or in person](https://siteimprove.com/events/)
-    * [![Press and news](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_press_news.svg)
-        
-        Press and news
-        
-        See what’s new with Siteimprove](https://siteimprove.com/press/)
+    Learn
     
-    * [![Success plans](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_success_plans.svg)
+    * [![Siteimprove 101](/globalassets/media/redesign2024/icons/outlined_icon_nav_siteimprove_1012.png)
         
-        Success plans
+        Siteimprove 101](https://siteimprove.com/siteimprove-101/)
+    * [![Siteimprove Toolkit](/globalassets/media/redesign2024/icons/outlined_icon_nav_toolkit2.png)
         
-        Your checklist for high performance](https://siteimprove.com/success-plans/)
-    * [![Siteimprove toolkit](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_toolkit.svg)
+        Siteimprove Toolkit](https://siteimprove.com/toolkit/)
+    * [![Compliance](/globalassets/media/redesign2024/icons/outlined_icon_nav_compliance2.png)
         
-        Siteimprove toolkit
+        Compliance](https://siteimprove.com/web-accessibility-compliance/)
+    * [![Glossary](/globalassets/media/redesign2024/icons/outlined_icon_nav_glossary2.png)
         
-        Everything you need to evaluate and protect your brand](https://siteimprove.com/toolkit/)
-    * [![Digital Insights Report](/globalassets/media/rebrand2023/nav/dir.png)
+        Glossary](https://siteimprove.com/glossary/)
+    * [![Blog](/globalassets/media/redesign2024/icons/outlined_icon_nav_blog_v22.png)
         
-        Digital Insights Report
-        
-        Get your free personalized audit now](https://siteimprove.com/digital-insights-report/)
-    * [![Glossary ](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_glossary.svg)
-        
-        Glossary
-        
-        QA? SaaS? No idea? No worries. We’ve got you covered](https://siteimprove.com/glossary/)
-    * [![Web accessibility compliance](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_success_plans.svg)
-        
-        Web accessibility compliance
-        
-        Your guide to current legislation and best practices worldwide](https://www.siteimprove.com/web-accessibility-compliance/)
+        Blog](https://siteimprove.com/blog/)
     
-* Customers Customers
+    Connect
     
-    * [![Customer stories](/globalassets/media/rebrand2023/nav/customer_stories.png)
+    * [![Calendar](/globalassets/media/redesign2024/icons/outlined_icon_nav_calendar2.png)
         
-        Customer stories
+        Calendar](https://siteimprove.com/calendar/)
+    * [![Press](/globalassets/media/redesign2024/icons/outlined_icon_nav_press2.png)
         
-        See what’s possible with Siteimprove](https://siteimprove.com/customers/)
-    * [![Frontier](/globalassets/media/rebrand2023/nav/webopti_nav_icon_customers_frontier.svg)
-        
-        Frontier
-        
-        Empower your team with industry-leading learning resources](https://siteimprove.com/frontier/)
+        Press](https://siteimprove.com/press/)
     
-* Partners Partners
+    [Digital Insights Report](https://siteimprove.com/link/28773694da1e41338e0b1026ec5307fc.aspx)
     
-    [#### Partners
-    
-    Help your clients break through with flawless digital experiences
-    
-    Partners](https://siteimprove.com/partners/)
-    
-    * [Partners
+    * Curious where your site performance stands today? Get a comprehensive, fully customized report detailing both strengths and actionable opportunities to improve.
         
-        Help your clients break through with flawless digital experiences](https://siteimprove.com/partners/)
-    
-    * [![Partner with us](/globalassets/media/rebrand2023/nav/webopti_nav_icon_partners_partner_with_us.svg)
-        
-        Partner with us
-        
-        Join the Siteimprove Partnership Program](https://siteimprove.com/partners/partner-with-us/)
-    * [![Partner Portal](/globalassets/media/rebrand2023/nav/webopti_nav_icon_partners_partner_portal.svg)
-        
-        Partner Portal
-        
-        Already a partner? Here’s everything you need to succeed](https://partners.siteimprove.com/)
+        ![](/globalassets/media/redesign2024/digital_insights_report.png)
     
 
 [Check your site](https://siteimprove.com/website-checker/)
@@ -255,7 +184,7 @@ Siteimprove respects your privacy and is committed to protecting it. The purpose
 
 This Notice describes how we process the data of individuals who:
 
-* register as users to access the Siteimprove Intelligence Platform and make use of the [services](https://siteimprove.com/product/) (hereinafter the “Service(s)”) which are available for subscription
+* register as users to access the Siteimprove Intelligence Platform and make use of the [services](https://siteimprove.com/platform/) (hereinafter the “Service(s)”) which are available for subscription
 
 **2\. When is this notice not applicable?**
 -------------------------------------------
@@ -368,41 +297,41 @@ Att: Legal Team
 Havneholmen 33  
 DK-1561 København V Denmark
 
-Follow
+Platform
 
-* [Twitter](https://twitter.com/siteimprove)
-* [Facebook](https://www.facebook.com/Siteimprove)
-* [LinkedIn](https://www.linkedin.com/company/siteimprove)
-* [Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
-
-Products
-
+* [Overview](https://siteimprove.com/platform/)
 * [Integrations](https://siteimprove.com/integrations/)
-* [Pricing](https://siteimprove.com/pricing/)
+* [Services & Support](https://siteimprove.com/platform/professional-services/)
+* [Partners](https://siteimprove.com/partners/)
 
 Company
 
-* [About us](https://siteimprove.com/about-us/)
 * [Leadership](https://siteimprove.com/leadership/)
-* [Board of directors](https://siteimprove.com/board-of-directors/)
+* [Press](https://siteimprove.com/press/)
 * [Contact](https://siteimprove.com/contact/)
-* [Press & news](https://siteimprove.com/press/)
-* [CSR](https://siteimprove.com/csr/)
 
 Careers
 
-* [Open positions](https://careers.siteimprove.com/open-positions/)
 * [Culture](https://careers.siteimprove.com/our-culture/)
-* [Teams](https://careers.siteimprove.com/our-teams/)
-* [Locations](https://careers.siteimprove.com/locations/)
+* [Offices](https://careers.siteimprove.com/our-locations/)
+* [Open Roles](https://careers.siteimprove.com/open-positions/)
 
 Support
 
-* [Getting started](https://support.siteimprove.com/hc/en-gb/categories/200848193-Getting-Started)
-* [Guides and FAQs](https://support.siteimprove.com/hc/en-gb/categories/200848163-Support-FAQs)
-* [Community](https://support.siteimprove.com/hc/en-gb/community/topics)
-* [System status](https://status.siteimprove.com/)
-* [For developers](https://developer.siteimprove.com/)
+* [Getting started](https://help.siteimprove.com/support/solutions/80000220153)
+* [Guides & FAQs](https://help.siteimprove.com/support/solutions/80000220156)
+* [Success Plans](https://siteimprove.com/success-plans/)
+* [Developer Center](https://developer.siteimprove.com/)
+* [System Status](https://status.siteimprove.com/)
+
+*  [![](/globalassets/media/shared/social/linkedin.svg) LinkedIn](https://www.linkedin.com/company/siteimprove)
+*  [![](/globalassets/media/shared/social/twitter.svg) Twitter](https://twitter.com/siteimprove)
+*  [![](/globalassets/media/shared/social/facebook.svg) Facebook](https://www.facebook.com/Siteimprove)
+*  [![](/globalassets/media/shared/social/youtube.svg) Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
+
+![Leadership 2024](/globalassets/media/redesign2024/leader_2024.png)
+
+Siteimprove is a leader in Digital Governance, Digital Analytics, and SEO Tools.
 
 * [Privacy](https://siteimprove.com/privacy/)
 * [VPAT](https://siteimprove.com/vpat/)
