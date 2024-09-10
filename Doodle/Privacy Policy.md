@@ -72,9 +72,7 @@ Doodle also employs NET-Metrix and AGOF to certify its traffic statistics in Swi
 
 Doodle works with [Crashlytics, Inc (“Crashlytics”)](https://firebase.google.com/products/crashlytics/) and Bit Stadium GmbH (“HockeyApp”) to report any bug affecting our iOS and Android Apps. HockeyApp’s software is built into our iOS App and Crashlytics’ software is built into our Android App. If either app crashes during normal use, the app will send certain information about the incident to Crashlytics or HockeyApp as applicable. This information consists of the device type, OS version and certain hardware information about your mobile device, and the time of the crash, the state of the application at the time of the crash, and stack traces. The information does not include your IP address or any other information that could be used to identify you or your mobile device individually, and does not include any other information from your mobile device. Click [here](https://firebase.google.com/terms/) to review Crashlytics’ privacy policy, and here for HockeyApp’s privacy policy.
 
-This website is using Tidio, a chat platform that connects users with Doodle’s customer support. It will only collect email addresses, names and phone numbers with the consent of users, in order to start a chat. The messages and data exchanged are stored within the Tidio application. For more information, please refer to their Privacy Policy.
-
-Doodle is not using these messages or data other than to follow up on users’ registered issues or inquiries. Your personal data will be processed and transmitted in accordance with the General Data Protection Regulations (GDPR).
+This website is using Intercom, a unified customer communication platform provided by Intercom Inc. Intercom is used by Doodle for customer interaction and experience management, either through email, or through direct messages with Doodle.  For more information about Intercom’s privacy practices, see [Terms and Policies | Intercom](https://www.intercom.com/legal/privacy) . Your personal data will be processed and transmitted in accordance with the General Data Protection Regulations (GDPR).
 
 ### 4\. Cookies
 
@@ -261,6 +259,7 @@ Contact
 
 * [Help Center](https://help.doodle.com/en)
 * [Sales](https://doodle.com/en/contact/sales/)
+* [Doodle UX Research Program](https://doodle.com/en/research)
 * [Report Abuse](https://help.doodle.com/en/articles/8655939-report-abuse-to-doodle)
 
 [](https://www.facebook.com/DoodleAG)[](https://www.linkedin.com/company/3199137)[](https://twitter.com/doodletweet)[](https://www.youtube.com/@doodle1310)[](https://www.instagram.com/doodlescheduling/)
