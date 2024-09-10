@@ -325,7 +325,7 @@ Thank you for subscribing to our newsletter!
 * [Legal Form Templates](https://www.legalzoom.com/templates)
 * [LegalZoom vs ZenBusiness](https://www.legalzoom.com/compare/legalzoom-vs-zenbusiness)
 
-[![](/resources/img/lzr/nav/lz-logo-white.svg)](https://www.legalzoom.com/ "LegalZoom")
+[![LegalZoom logo](/resources/img/lzr/nav/lz-logo-white.svg)](https://www.legalzoom.com/ "LegalZoom")
 
 [](https://www.instagram.com/legalzoom/)[](https://www.youtube.com/LegalZoom/)[](https://www.linkedin.com/company/legalzoom/)[](https://www.facebook.com/LegalZoom/)[](https://www.twitter.com/LegalZoom/)
 
