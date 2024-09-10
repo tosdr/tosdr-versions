@@ -97,13 +97,16 @@ Light/Dark
     
 * [Tickets](https://www.resetera.com/tickets/)
     
-    [Open new ticket](https://www.resetera.com/tickets/create) [Watched](https://www.resetera.com/watched/tickets)
+    [Open new ticket](https://www.resetera.com/tickets/create)
     
 
 * [Hide Images](https://www.resetera.com/misc/toggle-images)
     
 
 * Light/Dark
+    
+
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=390 "Dismiss notice")Hey everyone! [sn00zer](https://www.resetera.com/members/sn00zer.40492/) has created a vote for your [Favorite Games of All Time](https://www.resetera.com/threads/reseteras-favorite-games-voting-thread.950550/)! Voting ends at 3 days, 17 hours, 24 minutes, 6 seconds. Happy voting!
     
 
 Terms and rules
