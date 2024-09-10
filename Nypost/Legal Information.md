@@ -1,4 +1,4 @@
-![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                       
+![](https://sb.scorecardresearch.com/p?c1=2&c2=6390601&c3=NYPOST&cj=1&cv=3.6)                          
 
 Primary Menu Sections
 
@@ -18,7 +18,7 @@ Primary Menu Sections
     * [College Basketball](https://nypost.com/college-basketball/)
     * [WNBA](https://nypost.com/wnba/)
 * [Post Sports+](https://nypost.com/sports-plus/)
-* [Sports Betting](https://nypost.com/post-action-betting/)
+* [Sports Betting](https://nypost.com/betting/)
 * [Business](https://nypost.com/business/)
     * [Personal Finance](https://nypost.com/personal-finance/)
 * [Opinion](https://nypost.com/opinion/)
@@ -44,6 +44,11 @@ Primary Menu Sections
 * [Alexa](https://nypost.com/alexa/)
 * [Media](https://nypost.com/media/)
 * [Tech](https://nypost.com/tech/)
+* [Science](https://nypost.com/science/)
+    * [Space](https://nypost.com/space/)
+    * [Environment](https://nypost.com/environment/)
+    * [Wildlife](https://nypost.com/wildlife/)
+    * [Archaeology](https://nypost.com/archaeology/)
 * [Astrology](https://nypost.com/astrology/)
 * [Video](https://nypost.com/video/)
 * [Photos](https://nypost.com/photos/)
@@ -178,7 +183,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
     * [Metro](https://nypost.com/metro/)
     * [World News](https://nypost.com/world-news/)
     * [Sports](https://nypost.com/sports/)
-    * [Sports Betting](https://nypost.com/post-action-betting/)
+    * [Sports Betting](https://nypost.com/betting/)
     * [Business](https://nypost.com/business/)
     * [Opinion](https://nypost.com/opinion/)
     * [Entertainment](https://nypost.com/entertainment/)
