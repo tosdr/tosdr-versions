@@ -11,14 +11,15 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-![image](/rfilescms/Teaser-resources/pandasecurity-teaser-uk-big.webp)
+![image](/rfilescms/Teaser/CAMPAIGNS/teaser_acq_bts_2024.png)
 
-Don't pay a pound more! Buy today and we'll keep the price the same when it's time to renew. Guaranteed!
+**Get back into routine without online threats!**  
+50% Off + 3 months of Panda Family for Free
 
-[**Buy now**](https://www.pandasecurity.com/security-promotion/?reg=GB&campaign=dome2305&coupon=50OFFMULTIP&track=194477)
+[**Get the offer now!**](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&recommendation=FAMILY3MONTHS&track=190478)
 
 * Protection
-* [Panda Dome](https://www.pandasecurity.com/en/homeusers/)
+* [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
 * [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/)
 * [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/)
@@ -130,7 +131,7 @@ Platforms
 
 Protection
 
-[Panda Dome](https://www.pandasecurity.com/en/homeusers/) [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/) [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/) [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/) [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/) [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/) [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/) [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
+[Panda Dome product range](https://www.pandasecurity.com/en/homeusers/) [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/) [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/) [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/) [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/) [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/) [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/) [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
 
 Privacy
 
@@ -161,6 +162,8 @@ Special offer: Renew and get 50% off\*
 ![image](/rfilescms/Teaser/RET/pandasecurity-girl-modal-desktop.webp)
 
 Only available for 48 hours!
+
+: :
 
 : :
 
