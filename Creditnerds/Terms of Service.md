@@ -287,113 +287,113 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
-[![A semi-realistic cartoony style illustration for a blog post titled "Why Paying Off Certain Debts Lowers Your Credit Score?" It features a character wearing glasses who looks puzzled while holding a paid-off bill in one hand and a declining credit score report in the other. Behind the character is a downward-sloping graph, indicating a decreasing credit score. The background has a light, neutral color palette with subtle financial symbols integrated.](https://creditnerds.com/wp-content/uploads/2024/07/Lowers-Score-30x17.webp)](https://creditnerds.com/why-paying-off-certain-debts-lowers-your-score/)
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk looking worriedly at a credit report on a computer screen with 'Delinquency' highlighted in red. The desk is cluttered with bills, a calculator, and a notepad, set in a simple home office with a bookshelf, clock, and plant in the background.](https://creditnerds.com/wp-content/uploads/2024/09/What-is-a-Delinquency-30x30.webp)](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+September 10, 2024
+
+#### [What Is a Delinquency on a Credit Report?](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
+
+A delinquency on a credit report occurs when an account becomes past due because you missed a minimum payment by the due date. Missing a payment can have immediate effects, such as late fees, and if the payment goes 30 or more days past due, it can be reported as a delinquency to credit bureaus, …
+
+[Read More](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report-2/)
+
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a worried expression. They are holding a credit card while looking at a computer screen displaying a warning about fraudulent activity. The desk is cluttered with documents, a phone, and a calculator, and the background features a bookshelf and a window, creating a home office setting.](https://creditnerds.com/wp-content/uploads/2024/09/Credit-Card-Fraud-30x30.webp)](https://creditnerds.com/how-common-is-credit-card-fraud/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-July 18, 2024
+September 6, 2024
 
-#### [Why Paying Off Certain Debts Lowers Your Score?](https://creditnerds.com/why-paying-off-certain-debts-lowers-your-score/)
+#### [How Common Is Credit Card Fraud?](https://creditnerds.com/how-common-is-credit-card-fraud/)
 
-Paying off debt is generally seen as a positive financial move. However, it can sometimes lead to an unexpected drop in your credit score. Understanding why paying off certain debts lowers your credit score is crucial for effective financial management. Understanding Credit Utilization Ratio The credit utilization ratio is a significant factor in your credit …
+Credit card fraud is one of the most prevalent types of financial fraud today. According to the Federal Trade Commission (FTC), there were over 214,000 reports of credit card fraud in the first half of 2024 alone. While many credit cards offer zero liability protection, meaning you won’t be held responsible for unauthorized transactions, dealing …
 
-[Read More](https://creditnerds.com/why-paying-off-certain-debts-lowers-your-score/)
+[Read More](https://creditnerds.com/how-common-is-credit-card-fraud/)
 
-[![A square, realistic style illustration for a blog post about the statute of limitations on debt collection. The character wears glasses and holds a large clock in one hand and a legal document in the other. Behind the character are a calendar and a legal scale symbolizing justice. The background features a neutral color palette with subtle legal and financial symbols integrated. No text is included in the image.](https://creditnerds.com/wp-content/uploads/2024/07/Statute-of-Limitation-for-Debt-30x30.webp)](https://creditnerds.com/statute-of-limitations-on-debt-collection/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-July 17, 2024
-
-#### [Statute of Limitations on Debt Collection](https://creditnerds.com/statute-of-limitations-on-debt-collection/)
-
-Do you have debt that keeps you up at night? Learning about the statute of limitations on debt collection might help. This legal deadline limits the time a debt collector can sue you over debt. However, this timeframe varies depending on your state and situation. What Is a Statute of Limitations on Debt? The statute …
-
-[Read More](https://creditnerds.com/statute-of-limitations-on-debt-collection/)
-
-[![A semi-realistic cartoony style illustration for a blog post titled "Why Paying Off Certain Debts Raises Your Score?" It features a cheerful character wearing glasses, smiling and holding a credit score report in one hand and a paid-off bill in the other. In the background, a rising graph indicates an increasing credit score, with a light, cheerful color palette and subtle dollar signs and financial symbols integrated.](https://creditnerds.com/wp-content/uploads/2024/07/Paying-off-certain-debts-30x17.webp)](https://creditnerds.com/why-paying-off-certain-debts-raises-your-score/)
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a laptop showing an annuity purchase page. The person appears focused and thoughtful, holding a pen while reviewing financial documents and charts. The desk also has a coffee cup and a calculator. The background includes a bookshelf with financial books and a plant, creating a professional yet inviting atmosphere.](https://creditnerds.com/wp-content/uploads/2024/09/Annuity-30x30.webp)](https://creditnerds.com/how-to-buy-an-annuity/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-July 16, 2024
+September 3, 2024
 
-#### [Why Paying Off Certain Debts Raises Your Score?](https://creditnerds.com/why-paying-off-certain-debts-raises-your-score/)
+#### [How to Buy an Annuity](https://creditnerds.com/how-to-buy-an-annuity/)
 
-In today's financial landscape, understanding credit scores is crucial. One key factor in managing your credit score is debt repayment. Let's explore why paying off certain debts raises your credit score and how you can strategically improve your financial health. The Role of Debt in Your Credit Score Your credit score is a reflection of …
+An annuity can be a valuable retirement planning tool, offering guaranteed income when you're no longer working. Some annuities even allow your premiums to grow tax-deferred. Understanding how to buy an annuity can help you make the most of this financial product. Here’s a closer look at what annuities are, how they work, and what …
 
-[Read More](https://creditnerds.com/why-paying-off-certain-debts-raises-your-score/)
+[Read More](https://creditnerds.com/how-to-buy-an-annuity/)
 
-[![A semi-realistic cartoony style cover image for a blog post titled '8 Things to Consider Before Filing Bankruptcy.' The image features a concerned character wearing glasses, holding a document labeled 'Bankruptcy' with a pen in hand. Around them are symbols of financial stress, including a calculator, overdue bills, and a declining graph. The background has a mix of muted colors, emphasizing the seriousness of the topic.](https://creditnerds.com/wp-content/uploads/2024/07/Consider-before-Bankruptcy-30x30.webp)](https://creditnerds.com/8-things-to-consider-before-filing-bankruptcy/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-July 10, 2024
-
-#### [8 Things to Consider Before Filing Bankruptcy](https://creditnerds.com/8-things-to-consider-before-filing-bankruptcy/)
-
-Bankruptcy can provide relief from crippling debt, but it has serious negative consequences. Here are some questions to consider before you file for bankruptcy to help clarify whether it's the right move for you. Exhaust Your Other Options First Because of its serious ramifications, consider bankruptcy only as a last resort. First, explore other bankruptcy …
-
-[Read More](https://creditnerds.com/8-things-to-consider-before-filing-bankruptcy/)
-
-[![A cheerful parent wearing glasses sits at a desk with an open laptop, surrounded by symbols of investments like piggy banks, charts, and stacks of coins. The background is colorful and vibrant, with blue and green hues, illustrating the blog post titled '5 investing tips for parents' in a semi-realistic cartoony style.](https://creditnerds.com/wp-content/uploads/2024/07/Investing-tips-30x17.webp)](https://creditnerds.com/5-investing-tips-for-parents/)
+[![A semi-realistic cartoony image of a person with short brown hair and glasses standing next to a rental car. The person looks thoughtful, holding an insurance policy document in one hand and a calendar marked with dates in the other. The background shows a parking lot with a few cars and a clear blue sky, conveying a bright and approachable atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Insurance-Cover-Rental-Car-30x30.webp)](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-July 2, 2024
+August 30, 2024
 
-#### [5 Investing Tips for Parents](https://creditnerds.com/5-investing-tips-for-parents/)
+#### [How Long Will Insurance Cover a Rental Car After an Accident?](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
 
-Whether you're welcoming your first child or already have kids at home, it's never too late to start investing. Being strategic about your investments can help you grow your wealth and reach your financial goals faster. Chances are you're looking to invest for both yourself and your child. In that spirit, here are five simple …
+Dealing with car repairs after an accident can be stressful. One common concern is finding transportation while your vehicle is in the shop. If you have rental reimbursement coverage, your auto insurance may pay for a rental car after an accident for up to 30 days. However, not all insurance policies include rental reimbursement, and …
 
-[Read More](https://creditnerds.com/5-investing-tips-for-parents/)
+[Read More](https://creditnerds.com/how-long-will-insurance-cover-a-rental-car-after-an-accident/)
 
-[![A semi-realistic image of a person negotiating confidently in an office setting. The person is wearing glasses and holding a document while speaking. The background includes office elements like a desk, a laptop, paperwork, and a window with a view of a cityscape, with detailed features and shading.](https://creditnerds.com/wp-content/uploads/2024/06/Negotiate-Terms-30x30.webp)](https://creditnerds.com/how-to-negotiate-with-creditors-for-better-terms/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-June 28, 2024
-
-#### [How to Negotiate with Creditors for Better Terms](https://creditnerds.com/how-to-negotiate-with-creditors-for-better-terms/)
-
-Negotiating with creditors can be a powerful strategy to improve your financial situation. By negotiating better terms, you can reduce your debt, lower interest rates, and set up manageable payment plans. Understanding how to negotiate with creditors for better terms is essential for anyone looking to take control of their financial health. This guide will …
-
-[Read More](https://creditnerds.com/how-to-negotiate-with-creditors-for-better-terms/)
-
-[![A person wearing glasses, looking worried, sits at a desk with financial documents scattered around, including a prominent bankruptcy notice. The background shows a home office with dim lighting, creating a somber mood. Icons representing long-term financial impact, such as a broken piggy bank, a declining bar graph, and clock symbols, surround the character. The image illustrates the serious and reflective theme of the long-term effects of bankruptcy on credit.](https://creditnerds.com/wp-content/uploads/2024/06/Bankruptcy-1-30x30.webp)](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a kitchen table surrounded by money-saving items like a piggy bank, calculator, coupons, and a notepad. The person has a thoughtful expression and is holding a lightbulb symbolizing new ideas. The background features a cozy kitchen with a fridge, potted plants, and a window letting in natural light](https://creditnerds.com/wp-content/uploads/2024/08/Save-Money-at-Home-30x30.webp)](https://creditnerds.com/ways-to-save-money-at-home/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-June 27, 2024
+August 28, 2024
 
-#### [The Long-Term Effects of Bankruptcy on Your Credit](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+#### [Ways to Save Money at Home](https://creditnerds.com/ways-to-save-money-at-home/)
 
-Bankruptcy can provide much-needed relief for those drowning in debt, but it comes with significant long-term consequences for your credit score. Understanding the long-term effects of bankruptcy on your credit is crucial for anyone considering this option. In this blog post, we will analyze how bankruptcy impacts your credit over time and provide actionable steps …
+Your home is your castle, but sometimes it can feel more like a money pit. Fortunately, there are many ways to save money and reduce home-related expenses. From budgeting to reducing utility usage, making simple changes can lead to significant savings. Below are 20 practical ways to save money at home. Some require an upfront …
 
-[Read More](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+[Read More](https://creditnerds.com/ways-to-save-money-at-home/)
 
-[![A young professional wearing glasses stands in front of an office building, holding a resume in one hand and a credit score report in the other, looking thoughtful. Icons representing employment opportunities, such as briefcases, graphs, and checkmarks, surround the character. The background features a modern office environment with other professionals walking by, conveying an informative and slightly serious atmosphere, illustrating the impact of credit scores on employment opportunities.](https://creditnerds.com/wp-content/uploads/2024/06/Employment-30x30.webp)](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-June 25, 2024
-
-#### [How Credit Scores Affect Employment Opportunities](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
-
-In today's competitive job market, your credit score can play a surprising role in your employment opportunities. While it's well known that credit scores affect your ability to get loans and credit cards, fewer people realize that some employers also use credit reports in their hiring process. Understanding the connection between credit scores and employment …
-
-[Read More](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
-
-[![A realistic cartoon-style illustration for a blog post titled 'The Impact of Credit Inquiries on Your Score.' The central character is an African American person with dark skin, curly hair, and glasses, wearing a green shirt and jeans. They are carefully examining a credit report with a magnifying glass. In the background, a large credit score gauge with a fluctuating needle is prominent, surrounded by icons representing different types of credit inquiries: a house, a car, and a credit card. The scene is enriched with abstract patterns in blue and green, adding vibrancy. The character's expression shows a thoughtful mix of curiosity and concern, emphasizing the importance of understanding credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/06/Inquiries-30x30.webp)](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, looking at a credit report on a computer screen with a concerned expression. The screen displays a red warning sign with the word 'Delinquency' highlighted. The desk is cluttered with bills, a calculator, and a notepad, and the background features a bookshelf, a clock on the wall, and a small plant, creating a home office setting.](https://creditnerds.com/wp-content/uploads/2024/08/Deliquency-30x30.webp)](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
 
 [Credit](https://creditnerds.com/category/credit/)
 
-June 20, 2024
+August 27, 2024
 
-#### [The Impact of Credit Inquiries on Your Score](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+#### [What Is a Delinquency on a Credit Report?](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
 
-Credit inquiries play a significant role in your financial health. They occur whenever a request is made to review your credit report, and they can influence your credit score in various ways. Understanding the impact of credit inquiries on your score is essential for effective credit management. In this guide, we'll explore the differences between …
+Wondering, "What is a delinquency on a credit report?" A delinquency occurs when you fail to pay at least the minimum amount due on your account by the specified due date. Missing this payment can lead to immediate consequences, such as late fees. If the payment remains overdue for 30 days or more, it could …
 
-[Read More](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+[Read More](https://creditnerds.com/what-is-a-delinquency-on-a-credit-report/)
+
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a worried expression. The computer screen in front of them shows a student loan application and a low credit score chart. The desk has papers, a pen, and a coffee cup. The background includes a bookshelf with textbooks, a diploma on the wall, and a plant, creating a balanced yet serious atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Student-Loans-for-Bad-Credit-30x30.webp)](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+August 23, 2024
+
+#### [Can You Get a Student Loan With Bad Credit?](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
+
+Eager to pursue higher education but worried that bad credit might hold you back? Rest assured, having bad credit—typically defined as a FICO® Score of 579 or less—doesn’t automatically disqualify you from getting a student loan. In fact, there are options available to help you finance your education, even with less-than-perfect credit. How to Get …
+
+[Read More](https://creditnerds.com/can-you-get-a-student-loan-with-bad-credit/)
+
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, smiling confidently while sitting at a table with a calculator, papers, and a house model. The person is pointing at a calendar with biweekly payments highlighted. The background shows a cozy living room with a sofa and a plant, creating a warm and positive atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Biweekly-Payment-30x30.webp)](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+August 22, 2024
+
+#### [Why Paying Your Mortgage Biweekly Can Save You Money](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
+
+Many homeowners dream of paying off their mortgage early. One effective strategy is to make biweekly mortgage payments. By paying half your monthly mortgage every two weeks, you can potentially shave years off your loan and save thousands of dollars in interest. Before you adopt this strategy, it’s essential to check with your lender to …
+
+[Read More](https://creditnerds.com/why-paying-your-mortgage-biweekly-can-save-you-money/)
+
+[![A semi-realistic cartoony image of a person with short brown hair and glasses, sitting at a desk with a computer displaying a data breach warning. The person looks concerned, with documents and a smartphone on the desk. The background features a home office setting with a bookshelf and a plant, creating a serious but approachable atmosphere.](https://creditnerds.com/wp-content/uploads/2024/08/Data-Breach-30x30.webp)](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+August 21, 2024
+
+#### [What You Should Do After a Data Breach](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
+
+When a data breach occurs, confidential information, including consumer data, falls into the wrong hands. If you receive a notice that your information has been compromised, take swift action to secure your accounts and prevent fraud. Here’s what you should do after a data breach to protect yourself. 1. Stay Alert First, stay alert. If …
+
+[Read More](https://creditnerds.com/what-you-should-do-after-a-data-breach/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
