@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [NEW Collections are in - SHOP HERE](https://www.bows-n-ties.com/neckties/?order=product.date_add.desc)
+### [LABOR DAY SALE - 30% OFF Sitewide](https://www.bows-n-ties.com/neckties/?order=product.date_add.desc)
 
 __
 
@@ -163,7 +163,7 @@ COMPANY
 * [About us](https://www.bows-n-ties.com/Our-Team/)
 * [Contact us](https://www.bows-n-ties.com/contact-us)
 * [Job Openings](https://www.bows-n-ties.com/jobs/)
-* [Our Blog](https://www.bows-n-ties.com/mens-fashion-tips/)
+* [Our Blog](https://www.bows-n-ties.com/blog)
 * [Wholesale](https://www.bows-n-ties.com/wholesale/)
 * [Custom Orders](https://www.bows-n-ties.com/custom/)
 
@@ -225,7 +225,7 @@ Company __ __
 
 * [About us](https://www.bows-n-ties.com/Our-Team/)
 * [Contact us](https://www.bows-n-ties.com/contact-us)
-* [Our Blog](https://www.bows-n-ties.com/mens-fashion-tips/)
+* [Our Blog](https://www.bows-n-ties.com/blog)
 
 Quick Links
 
@@ -254,8 +254,8 @@ EMAIL
 
 Logo BNT
 
-[Privacy Policy](https://www.bows-n-ties.com/privacy_policy.php)
+[Privacy Policy](https://www.bows-n-ties.com/privacy/)
 
 [Terms of Use](https://www.bows-n-ties.com/terms-of-use/)
 
-[Sitemap](https://www.bows-n-ties.com/sitemap/)
+[Sitemap](https://www.bows-n-ties.com/sitemap)
