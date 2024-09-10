@@ -10,9 +10,9 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * * *
     
-    * [![](https://corporate-assets.lucid.co/co/120f906d-9405-4960-a68b-ff08a452835a.svg)](https://www.lucidchart.com/pages/)
-    * [![](https://corporate-assets.lucid.co/co/9af2902e-a123-4e64-abd0-9326a6db3a29.svg)](https://lucidspark.com/)
-    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg)](https://lucidscale.com/)
+    * [![](https://corporate-assets.lucid.co/co/120f906d-9405-4960-a68b-ff08a452835a.svg?v=1709700546459)](https://www.lucidchart.com/pages/)
+    * [![](https://corporate-assets.lucid.co/co/9af2902e-a123-4e64-abd0-9326a6db3a29.svg?v=1709700548195)](https://lucidspark.com/)
+    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg?v=1709700549958)](https://lucidscale.com/)
     
 * Solutions
     
@@ -24,17 +24,17 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * [Digital transformation](https://lucid.co/solutions/digital-transformation)
     * [Cloud migration](https://lucid.co/solutions/cloud-migration)
-    * [New product development](https://lucid.co/solutions/product-development)
     * [Hybrid teams](https://lucid.co/solutions/hybrid-teams)
     * [Efficiency through AI](https://lucid.co/platform/ai)
+    * [Agile](https://lucid.co/solutions/agile)
     
     ### By team
     
     * * *
     
     * [IT](https://lucid.co/solutions/it)
-    * [Engineering](https://lucid.co/solutions/engineering)
-    * [Product & UX](https://lucid.co/solutions/product-ux)
+    * [Solutions engineering](https://lucid.co/solutions/engineering)
+    * [Product and UX](https://lucid.co/solutions/product-ux)
     * [Project management](https://lucid.co/solutions/project-management)
     * [Operations](https://lucid.co/solutions/operations)
     
@@ -46,9 +46,9 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Education](https://lucid.co/solutions/education)
     * [Consulting services](https://lucid.co/solutions/consulting)
     * [Healthcare](https://lucid.co/solutions/healthcare)
-    * [Financial Services](https://lucid.co/solutions/financial-services)
+    * [Financial services](https://lucid.co/solutions/financial-services)
     
-    [View all solutions](https://lucid.co/solutions-hub)
+    [View all solutions](https://lucid.co/solutions)
     
 * Resources
     
@@ -60,7 +60,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * [Customers](https://lucid.co/customers)
     * [Developers](https://lucid.co/developers)
-    * [Marketplace](https://lucid.co/marketplace/overview)
+    * [Integrations marketplace](https://lucid.co/marketplace/overview)
     * [Professional Services](https://lucid.co/professional-services)
     * [Community](https://community.lucid.co/)
     
