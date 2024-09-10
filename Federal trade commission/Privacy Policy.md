@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -149,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [No, hashing still doesn't make your data anonymous](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/no-hashing-still-doesnt-make-your-data-anonymous)
+    ### [Avoiding Outages and Preventing Widespread System Failures](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/08/avoiding-outages-preventing-widespread-system-failures)
     
-    Staff in the Office of Technology
+    Staff at the FTC
     
-    July 24, 2024
+    August 13, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -224,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC and Justice Department to Host First Public Strike Force on Unfair and Illegal Pricing Meeting](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-justice-department-host-first-public-strike-force-unfair-illegal-pricing-meeting)
+    ### [FTC Warns Adoption Intermediaries Against Misleading Parents](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-warns-adoption-intermediaries-against-misleading-parents)
     
-    July 26, 2024
+    September 10, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul31
+    Sep12
     
-    ### [Hearing In the Matter of The Kroger Company and Albertsons Companies, Inc. - July 31, 2024](https://www.ftc.gov/news-events/events/2024/07/hearing-matter-kroger-company-albertsons-companies-inc-july-31-2024)
+    ### [Scheduling Conference, In the Matter of Asbury Automotive Group, Inc. et al.](https://www.ftc.gov/news-events/events/2024/09/scheduling-conference-matter-asbury-automotive-group-inc-et-al)
     
-    Wednesday, July 31, 2024 | 10:00AM
+    Thursday, September 12, 2024 | 11:00AM - 12:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -272,11 +274,11 @@ Main Menu Mega
     Feature
     -------
     
-    ![gaming controller illustration](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/gaming-controller-hero.jpg?itok=9PjrGCSl)
+    ![person signing non-compete agreement](/system/files/styles/crop_thumbnail/private/ftc_gov/images/hand-signing-noncompete-agreement-smaller-istock-1455331862.jpg?itok=JSdZeTJk)
     
-    ### [Playing it Safe: Explore the FTC's Top Video Game Cases](https://www.ftc.gov/news-events/features/gaming "FTC Video Game Cases Feature")
+    ### [Noncompete Rule: What You Should Know](https://www.ftc.gov/news-events/features/noncompetes "Noncompete Rule Feature")
     
-    Learn about the FTC's notable video game cases and what our agency is doing to keep the public safe.
+    Visit the Noncompetes feature page for more information, including factsheets featuring stories on how the rule can benefit Americans.
     
     Latest Data Visualization
     -------------------------
@@ -326,8 +328,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
