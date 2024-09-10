@@ -65,8 +65,6 @@ Menu
 * Start a Free Trial
     * [AdSecurity Platform](https://adsecurity.24metrics.com/signup)
 
-![24metrics Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%2084'%3E%3C/svg%3E)
-
 ![24metrics Logo](https://www.24metrics.com/wp-content/uploads/2018/12/metrics-logo-copy@2x-1.png)
 
 Advanced Advertising Solutions
