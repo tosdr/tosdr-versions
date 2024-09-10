@@ -52,6 +52,9 @@
         Memberful alternatives
         
         Memberful not a good fit? We've compiled some alternatives.](https://memberful.com/alternatives/)
+    * [Migration
+        
+        Simple, smooth, human-first support from a team that cares. For free.](https://memberful.com/migration/)
     * [briefcase
         
         Partners
@@ -76,7 +79,7 @@ Memberful Privacy Policy
 1\. What this policy covers
 ---------------------------
 
-This Privacy Policy applies to information that we collect about you when you use our websites (including memberful.com) and any products and services that are available on or through our websites (“Services”). Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.If you have any questions about this Privacy Policy, please contact us at [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection).
+This Privacy Policy applies to information that we collect about you when you use our websites (including memberful.com) and any products and services that are available on or through our websites (“Services”). Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.If you have any questions about this Privacy Policy, please contact us at [info@memberful.com](mailto:info@memberful.com).
 
 For the purposes of this Privacy Policy, “Memberful”, “we” or “us” means Memberful, LLC. Memberful is the processor of personal data processed, pursuant to this Privacy Policy, in cases where it processes personal data it gathers on its Customers’ behalf. In certain instances Memberful acts as a data controller in those limited instances where we decide the purposes and methods of processing personal data.
 
@@ -160,8 +163,8 @@ We share information about you in the limited circumstances spelled out below an
 
 Our customers may benefit from a number of rights in relation to their information that we process.
 
-* If you would like to manage, change, limit, access or delete your personal data, account holders can do so via your [Memberful account settings](https://memberful.com/help/manage-your-account/update-your-personal-information/) or individuals contact us at [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection).
-* In certain cases where we process your information, you may also have a right to restrict, or object to, the ways in which we use your personal data. You may request this by contacting us at [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection).
+* If you would like to manage, change, limit, access or delete your personal data, account holders can do so via your [Memberful account settings](https://memberful.com/help/manage-your-account/update-your-personal-information/) or individuals contact us at [info@memberful.com](mailto:info@memberful.com).
+* In certain cases where we process your information, you may also have a right to restrict, or object to, the ways in which we use your personal data. You may request this by contacting us at [info@memberful.com](mailto:info@memberful.com).
 * You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
 
 For more information about our commitment to data protection, please see the [Memberful Data Protection Policy](https://memberful.com/data-protection/). And for more information on our commitment to security, please see our [Security Policy](https://memberful.com/help/security/).
@@ -177,14 +180,14 @@ Where appropriate, Memberful’s transfers of personal data of individuals in th
 **6.2 Data Privacy Framework and Principles**  
 Memberful adheres to the EU-U.S. Data Privacy Framework Principles and the Swiss-U.S. Data Privacy Framework Principles and complies with the associated EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce regarding the collection, use, sharing, and retention of personal data transferred from the European Union (including EFTA States), the United Kingdom, and Switzerland to the United States. As applicable, we do not, however, rely solely on the EU-US Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, or the Swiss-US Data Privacy Framework as our lawful basis to transfer personal data from the European Union, EFTA States, or the United Kingdom. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).
 
-With respect to the personal data received or transferred pursuant to the Data Privacy Frameworks, Memberful is subject to the regulatory enforcement powers of the US Federal Trade Commission. Under certain circumstances, Memberful, LLC may be liable for the transfer of personal data from the EU, EFTA States, or the United Kingdom to third parties outside the EU, EFTA States, and the United Kingdom. If you have a dispute with us about our Data Privacy Framework compliance, we ask that you first submit any such complaints directly to us at [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection). If you aren’t satisfied with our response, you may contact JAMS – the US-based independent alternative dispute resolution provider responsible for reviewing and resolving complaints about our Data Privacy Framework compliance free of charge to you – via [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/DPF-Dispute-Resolution). In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under the Data Privacy Framework and its principles. More Information about this arbitration process can be found [here](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf).
+With respect to the personal data received or transferred pursuant to the Data Privacy Frameworks, Memberful is subject to the regulatory enforcement powers of the US Federal Trade Commission. Under certain circumstances, Memberful, LLC may be liable for the transfer of personal data from the EU, EFTA States, or the United Kingdom to third parties outside the EU, EFTA States, and the United Kingdom. If you have a dispute with us about our Data Privacy Framework compliance, we ask that you first submit any such complaints directly to us at [privacy@memberful.com](mailto:privacy@memberful.com). If you aren’t satisfied with our response, you may contact JAMS – the US-based independent alternative dispute resolution provider responsible for reviewing and resolving complaints about our Data Privacy Framework compliance free of charge to you – via [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/DPF-Dispute-Resolution). In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under the Data Privacy Framework and its principles. More Information about this arbitration process can be found [here](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf).
 
 7\. Compliance with California privacy laws
 -------------------------------------------
 
 Memberful is subject to the California Consumer Privacy Act (CCPA). The CCPA allows California residents to request access to the specific pieces and categories of personal information (as defined) that the business has collected about the consumer, the categories of sources for that information, the business or commercial purposes for collecting the information, and the categories of third parties with which the information was shared.
 
-Memberful provides California residents and all users with the right to view, access, transport or delete their information by contacting [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection).
+Memberful provides California residents and all users with the right to view, access, transport or delete their information by contacting [info@memberful.com](mailto:info@memberful.com).
 
 Under California’s “Shine the Light” law (Civil Code section 1798.83), California residents have certain rights regarding the disclosure of their information to third parties for their own direct marketing purposes. Memberful’s policy is not to disclose your information to third parties for the third parties’ direct marketing purposes if you have exercised your option to prevent that. If you wish to not have your personal information shared for those purposes, you may request that we delete your personal data by following the steps outlined above.
 
@@ -212,7 +215,7 @@ Our Services are not directed to children, and you may not use our Services if y
 Memberful stores your information until it is no longer necessary to provide our Services, or until you ask us to delete your information. We are also required to retain certain information in order to comply with local laws.
 
 **9.4 Inquiries and complaints**  
-If you have any questions about this Privacy Policy, please contact us at [\[email protected\]](https://memberful.com/cdn-cgi/l/email-protection). If you have a complaint, we would be happy to address that for you. But you also have the right to direct your complaint to the appropriate data protection supervisory authority.
+If you have any questions about this Privacy Policy, please contact us at [info@memberful.com](mailto:info@memberful.com). If you have a complaint, we would be happy to address that for you. But you also have the right to direct your complaint to the appropriate data protection supervisory authority.
 
 10\. Privacy Policy changes
 ---------------------------
@@ -239,7 +242,9 @@ Although most changes are likely to be minor, Memberful may change its Privacy P
 * [Jobs](https://memberful.com/jobs/)
 * [Integrations](https://memberful.com/integrations/)
 * [Membership Journey](https://memberful.com/membership-journey/)
-* [Partners](https://memberful.com/partners/)
+* [Migration](https://memberful.com/migration/)
+* [Preferred Partners](https://memberful.com/partners/)
+* [Become a Partner](https://memberful.com/partners/program)
 * [Memberful alternatives](https://memberful.com/alternatives/)
 * [Contact](#)
 * [Help](https://memberful.com/help/)
