@@ -316,6 +316,8 @@ For questions regarding the Services and these Terms, please contact us via [htt
 
 #### [Subscription](https://www.strava.com/subscribe?origin=global_footer)
 
+#### [Family Plan](https://www.strava.com/family?origin=global_footer)
+
 #### [Student Discount](https://www.strava.com/student?origin=global_footer)
 
 #### More
