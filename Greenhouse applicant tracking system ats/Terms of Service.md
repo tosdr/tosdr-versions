@@ -2,53 +2,53 @@
 
 Close mobile sub-navigation
 
-[Greenhouse Home Link](https://www.greenhouse.com/uk/)
+[Greenhouse Home Link](https://www.greenhouse.com/)
 
 * Open menu for Platform
     
     Platform
     
-    [The all-together hiring platform](https://www.greenhouse.com/uk/platform)
+    [All-together platform](https://www.greenhouse.com/platform)
     
-    ![Greenhouse all together hiring platform UI collage with office worker headshots evergreen background](https://sharp.services.greenhouse.io/production/Greenhouse-all-together-hiring-platform-UI-collage-with-office-worker-headshots-evergreen-background.png?auto=format&fit=max&lossless=true&q=90&w=600&s=50b40db90dd83c2edd1bc6389aa3429edf3da6b14f295b57ebf92d6f099cacf7)
+    ![Greenhouse all together hiring platform UI collage with office worker headshots evergreen background2x](https://sharp.services.greenhouse.io/production/Greenhouse-all-together-hiring-platform-UI-collage-with-office-worker-headshots-evergreen-background2x.png?auto=format&fit=max&lossless=true&q=90&w=600&s=42d7c83d5434d5828eb936f98518006efbc4019ea20eeac49d8c1530ca090200)
     
     Solutions
     
-    [Talent sourcing](https://www.greenhouse.com/uk/talent-sourcing)
+    [Talent sourcing](https://www.greenhouse.com/talent-sourcing)
     
-    [Candidate experience](https://www.greenhouse.com/uk/candidate-experience)
+    [Candidate experience](https://www.greenhouse.com/candidate-experience)
     
-    [Scalable workflows](https://www.greenhouse.com/uk/scalable-workflows)
+    [Scalable workflows](https://www.greenhouse.com/scalable-workflows)
     
-    [Interviewing & decision-making](https://www.greenhouse.com/uk/interviewing-decision-making)
+    [Interviewing & decision-making](https://www.greenhouse.com/interviewing-decision-making)
     
-    [Onboarding](https://www.greenhouse.com/uk/onboarding)
+    [Onboarding](https://www.greenhouse.com/onboarding)
     
-    [Reporting & insights](https://www.greenhouse.com/uk/reporting-insights)
+    [Reporting & insights](https://www.greenhouse.com/reporting-insights)
     
-    [Integrations](https://www.greenhouse.com/uk/integrations)
+    [Integrations](https://www.greenhouse.com/integrations)
     
     Greenhouse for
     
-    [Early-stage business](https://www.greenhouse.com/uk/early-stage)
+    [Early-stage business](https://www.greenhouse.com/early-stage)
     
-    [Scaling company](https://www.greenhouse.com/uk/scaling-company)
+    [Scaling company](https://www.greenhouse.com/scaling-company)
     
-    [Modern enterprise](https://www.greenhouse.com/uk/enterprise)
+    [Modern enterprise](https://www.greenhouse.com/enterprise)
     
     What’s new
     
-    [Latest product features](https://www.greenhouse.com/uk/greenhouse-latest-features)
+    [Latest product features](https://www.greenhouse.com/greenhouse-latest-features)
     
 * Open menu for Why Greenhouse
     
     Why Greenhouse
     
-    [How we compare](https://www.greenhouse.com/uk/compare)
+    [How we compare](https://www.greenhouse.com/compare)
     
-    [Return on your hiring investment](https://www.greenhouse.com/uk/roi-with-greenhouse)
+    [Return on your hiring investment](https://www.greenhouse.com/roi-with-greenhouse)
     
-    [Your partner in success](https://www.greenhouse.com/uk/customer-success)
+    [Your partner in success](https://www.greenhouse.com/customer-success)
     
     Awards & accolades
     
@@ -60,25 +60,25 @@ Close mobile sub-navigation
     
     Learn why Greenhouse is an award-winning enterprise software for companies like DoorDash, Betterment and MLB.
     
-    [Learn more](https://www.greenhouse.com/uk/blog/learn-why-greenhouse-is-an-award-winning-enterprise-software)  
+    [Learn more](https://www.greenhouse.com/blog/learn-why-greenhouse-is-an-award-winning-enterprise-software)  
     
 * Open menu for Resources
     
     Types
     
-    [Blog](https://www.greenhouse.com/uk/blog)
+    [Blog](https://www.greenhouse.com/blog)
     
-    [Guidance](https://www.greenhouse.com/uk/guidance)
+    [Guidance](https://www.greenhouse.com/guidance)
     
-    [Customer stories](https://www.greenhouse.com/uk/customer-stories)
+    [Customer stories](https://www.greenhouse.com/customer-stories)
     
-    [Hiring glossary](https://www.greenhouse.com/uk/resources/glossary)
+    [Hiring glossary](https://www.greenhouse.com/resources/glossary)
     
-    [Talent Makers book](https://www.greenhouse.com/uk/talent-makers-book)
+    [Talent Makers book](https://www.greenhouse.com/talent-makers-book)
     
     Topics
     
-     [![Greenhouse DEI Icon and office worker facing cameria in collared shirt](https://sharp.services.greenhouse.io/production/Greenhouse-DEI-Icon-and-office-worker-facing-cameria-in-collared-shirt.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c29bf719d36093be3102884d71399e9ef2a02cc02f4bcc3a7af9e5babc8152a3) DE&I](https://www.greenhouse.com/uk/content-topic/diversity-inclusion)[![Greenhouse scorecard icon thumbs up and office worker waving to person virtually](https://sharp.services.greenhouse.io/production/Greenhouse-scorecard-icon-thumbs-up-and-office-worker-waving-to-person-virtually.png?auto=format&fit=max&lossless=true&q=90&w=360&s=2e7bb257c9befe1d2b756aaea401461d1ae127c8a580d5239a3c066a5a0c2059) Structured hiring](https://www.greenhouse.com/uk/content-topic/structured-hiring)[![Greenhouse AI icon and office worker sitting at a table](https://sharp.services.greenhouse.io/production/Greenhouse-AI-icon-and-office-worker-sitting-at-a-table.png?auto=format&fit=max&lossless=true&q=90&w=360&s=d3b45477b2182b4ba3806e9d46a63a57eed23e261b804a389546a647b129ee6f) AI and automation](https://www.greenhouse.com/uk/content-topic/ai-automation)[![Hiring maturity curve and woman in white suit in brightly lit office](https://sharp.services.greenhouse.io/production/Hiring-maturity-curve-and-woman-in-white-suit-in-brightly-lit-office.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c47d867737eb9b7dfd206ae6b5052659aa9831a7683f4c66e84f1d7c32b74103) Hiring Maturity](https://www.greenhouse.com/uk/content-topic/hiring-maturity)
+     [![Greenhouse DEI Icon and office worker facing cameria in collared shirt](https://sharp.services.greenhouse.io/production/Greenhouse-DEI-Icon-and-office-worker-facing-cameria-in-collared-shirt.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c29bf719d36093be3102884d71399e9ef2a02cc02f4bcc3a7af9e5babc8152a3) DE&I](https://www.greenhouse.com/content-topic/diversity-inclusion)[![Greenhouse scorecard icon thumbs up and office worker waving to person virtually](https://sharp.services.greenhouse.io/production/Greenhouse-scorecard-icon-thumbs-up-and-office-worker-waving-to-person-virtually.png?auto=format&fit=max&lossless=true&q=90&w=360&s=2e7bb257c9befe1d2b756aaea401461d1ae127c8a580d5239a3c066a5a0c2059) Structured hiring](https://www.greenhouse.com/content-topic/structured-hiring)[![Greenhouse AI icon and office worker sitting at a table](https://sharp.services.greenhouse.io/production/Greenhouse-AI-icon-and-office-worker-sitting-at-a-table.png?auto=format&fit=max&lossless=true&q=90&w=360&s=d3b45477b2182b4ba3806e9d46a63a57eed23e261b804a389546a647b129ee6f) AI and automation](https://www.greenhouse.com/content-topic/ai-automation)[![Hiring maturity curve and woman in white suit in brightly lit office](https://sharp.services.greenhouse.io/production/Hiring-maturity-curve-and-woman-in-white-suit-in-brightly-lit-office.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c47d867737eb9b7dfd206ae6b5052659aa9831a7683f4c66e84f1d7c32b74103) Hiring Maturity](https://www.greenhouse.com/content-topic/hiring-maturity)
     
     Support
     
@@ -92,11 +92,11 @@ Close mobile sub-navigation
     
     About
     
-    [Company](https://www.greenhouse.com/uk/company)
+    [Company](https://www.greenhouse.com/company)
     
-    [Press & awards](https://www.greenhouse.com/uk/press)
+    [Press & awards](https://www.greenhouse.com/press)
     
-    [Careers](https://www.greenhouse.com/uk/careers)
+    [Careers](https://www.greenhouse.com/careers)
     
     People first
     
@@ -108,61 +108,61 @@ Close mobile sub-navigation
     
     Today’s talent thinks differently about where and how they work, and winning companies are people-first companies. Here’s how to build a culture that connects.
     
-    [Read the blog](https://www.greenhouse.com/uk/blog/the-future-belongs-to-people-first-companies)  
+    [Read the blog](https://www.greenhouse.com/blog/the-future-belongs-to-people-first-companies-constructing-a-people-first-culture)  
     
 * Open menu for Community
     
     Community
     
-    [Events & webinars](https://www.greenhouse.com/uk/events)
+    [Events & webinars](https://www.greenhouse.com/events)
     
-    [Open](https://www.greenhouse.com/uk/open)
+    [Open](https://www.greenhouse.com/open)
     
-    [Talent Makers](https://www.greenhouse.com/uk/talentmakers)
+    [Talent Makers](https://www.greenhouse.com/talentmakers)
     
-    [Newsletter](https://www.greenhouse.com/uk/newsletter)
+    [Newsletter](https://www.greenhouse.com/newsletter)
     
-    Webinar
+    Event
     
-    ![Image of Master skills based hiring with man and woman smiling and UI nav image 213x207](https://sharp.services.greenhouse.io/production/Image-of-Master-skills-based-hiring-with-man-and-woman-smiling-and-UI-nav-image-213x207.jpg?auto=format&fit=max&lossless=true&q=90&w=426&s=a0020d917dbb1b444c7be9c73232b9cd7e13de2f2334acd1b6d8c59087d8cf65)
+    ![Woman wearing patterned blouse in office setting with silo leaf motif marigold HR Techology logo nav](https://sharp.services.greenhouse.io/production/Woman-wearing-patterned-blouse-in-office-setting-with-silo-leaf-motif-marigold-HR-Techology-logo_nav.png?auto=format&fit=max&lossless=true&q=90&w=600&s=763f88ef2ce8c410fa9a1347c0ed238c137ccb99f02f9023eb3f7a1efbe9f6d7)
     
-    Webinar
+    Event
     
-    Mastering skills-based hiring
+    HR Technology Conference
     
-    Learn how to bring skills-based hiring forward in 2024 – so you can make more effective, inclusive hiring decisions.
+    Discover all the trends, tools, technology and insight to take HR strategies beyond best practice.
     
-    [Watch on-demand](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
+    [Learn more](https://www.greenhouse.com/events/greenhouse-at-hr-tech-conference-2024)  
     
 
-[Request a demo](https://www.greenhouse.com/uk/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
+[Request a demo](https://www.greenhouse.com/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
 
 Choose your language English (US) English (UK) Deutsch
 
  [](https://www.facebook.com/greenhouse.io/)[](https://www.linkedin.com/company/greenhouse-inc-/)[](https://www.youtube.com/channel/UCwLlhrx5lFssgTwKCHEuC8g)[](https://www.instagram.com/greenhousesoftware/)[](https://www.tiktok.com/@greenhouse_software)
 
-* [Privacy policy](https://www.greenhouse.com/uk/privacy-policy)
-* [Terms of service](https://www.greenhouse.com/uk/legal)
+* [Privacy policy](https://www.greenhouse.com/privacy-policy)
+* [Terms of service](https://www.greenhouse.com/legal)
 
 ©2024 Greenhouse Software, Inc.
 
 * [Sign in](https://app.greenhouse.io/users/sign_in)
-* [Request a demo](https://www.greenhouse.com/uk/demo)
+* [Request a demo](https://www.greenhouse.com/demo)
 * Toggle search form
 * Open mobile navigation
 
 Legal secondary menu
 
-* [All documents](https://www.greenhouse.com/uk/legal)
-* [Privacy policy](https://www.greenhouse.com/uk/privacy-policy)
-* [Cookie notice](https://www.greenhouse.com/uk/cookie-notice)
-* [CCPA for candidates](https://www.greenhouse.com/uk/ccpa-candidate)
-* [Master subscription agreement](https://www.greenhouse.com/uk/master-subscription-agreement)
-* [Service level agreement](https://www.greenhouse.com/uk/service-level-agreement)
-* [Data processing addendum](https://www.greenhouse.com/uk/data-processing-addendum)
-* [Subprocessors in use](https://www.greenhouse.com/uk/subprocessors-in-use)
-* [Professional services addendum](https://www.greenhouse.com/uk/professional-services-addendum)
-* [Sourcing automation addendum](https://www.greenhouse.com/uk/sourcing-automation-addendum)
+* [All documents](https://www.greenhouse.com/legal)
+* [Privacy policy](https://www.greenhouse.com/privacy-policy)
+* [Cookie notice](https://www.greenhouse.com/cookie-notice)
+* [CCPA for candidates](https://www.greenhouse.com/ccpa-candidate)
+* [Master subscription agreement](https://www.greenhouse.com/master-subscription-agreement)
+* [Service level agreement](https://www.greenhouse.com/service-level-agreement)
+* [Data processing addendum](https://www.greenhouse.com/data-processing-addendum)
+* [Subprocessors in use](https://www.greenhouse.com/subprocessors-in-use)
+* [Professional services addendum](https://www.greenhouse.com/professional-services-addendum)
+* [Sourcing automation addendum](https://www.greenhouse.com/sourcing-automation-addendum)
 
 Scroll Subnavigation
 
@@ -225,13 +225,13 @@ If the Monthly Uptime Percentage for either the Primary Recruiting Application o
 Learn more about Greenhouse
 ---------------------------
 
-[Our company](https://www.greenhouse.com/uk/company)
+[Our company](https://www.greenhouse.com/company)
 
-be\_ixf;ym\_202407 d\_29; ct\_50
+be\_ixf;ym\_202409 d\_09; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
-* https://greenhouse-production.herokuapp.com/uk/service-level-agreement
-* https://greenhouse-production.herokuapp.com/uk/service-level-agreement
+* https://greenhouse-production.herokuapp.com/service-level-agreement
+* https://greenhouse-production.herokuapp.com/service-level-agreement
 
 Modern Recruiter newsletter
 
@@ -241,55 +241,55 @@ Choose your language English (US) English (UK) Deutsch
 
 Platform
 
-* [The all-together hiring platform](https://www.greenhouse.com/uk/platform)
-* [Latest product features](https://www.greenhouse.com/uk/greenhouse-latest-features)
-* [Pricing](https://www.greenhouse.com/uk/pricing)
-* [Security](https://www.greenhouse.com/uk/security)
-* [Ethical principles](https://www.greenhouse.com/uk/ethical-principles)
-* [APIs](https://www.greenhouse.com/uk/api)
+* [The all-together hiring platform](https://www.greenhouse.com/platform)
+* [Latest product features](https://www.greenhouse.com/greenhouse-latest-features)
+* [Pricing](https://www.greenhouse.com/pricing)
+* [Security](https://www.greenhouse.com/security)
+* [Ethical principles](https://www.greenhouse.com/ethical-principles)
+* [APIs](https://www.greenhouse.com/api)
 
 Solutions
 
-* [Talent sourcing](https://www.greenhouse.com/uk/talent-sourcing)
-* [Scalable workflows](https://www.greenhouse.com/uk/scalable-workflows)
-* [Candidate experience](https://www.greenhouse.com/uk/candidate-experience)
-* [Interviewing & decision-making](https://www.greenhouse.com/uk/interviewing-decision-making)
-* [Onboarding](https://www.greenhouse.com/uk/onboarding)
-* [Reporting & insights](https://www.greenhouse.com/uk/reporting-insights)
-* [Integrations](https://www.greenhouse.com/uk/integrations)
+* [Talent sourcing](https://www.greenhouse.com/talent-sourcing)
+* [Scalable workflows](https://www.greenhouse.com/scalable-workflows)
+* [Candidate experience](https://www.greenhouse.com/candidate-experience)
+* [Interviewing & decision-making](https://www.greenhouse.com/interviewing-decision-making)
+* [Onboarding](https://www.greenhouse.com/onboarding)
+* [Reporting & insights](https://www.greenhouse.com/reporting-insights)
+* [Integrations](https://www.greenhouse.com/integrations)
 
 Why Greenhouse
 
-* [How we compare](https://www.greenhouse.com/uk/compare)
-* [Return on your hiring investment](https://www.greenhouse.com/uk/roi-with-greenhouse)
-* [Your partner in success](https://www.greenhouse.com/uk/customer-success)
+* [How we compare](https://www.greenhouse.com/compare)
+* [Return on your hiring investment](https://www.greenhouse.com/roi-with-greenhouse)
+* [Your partner in success](https://www.greenhouse.com/customer-success)
 
 Greenhouse for
 
-* [Early-stage business](https://www.greenhouse.com/uk/early-stage)
-* [Scaling company](https://www.greenhouse.com/uk/scaling-company)
-* [Enterprise](https://www.greenhouse.com/uk/enterprise)
+* [Early-stage business](https://www.greenhouse.com/early-stage)
+* [Scaling company](https://www.greenhouse.com/scaling-company)
+* [Enterprise](https://www.greenhouse.com/enterprise)
 
 Resources
 
-* [Blog](https://www.greenhouse.com/uk/blog)
-* [Guidance](https://www.greenhouse.com/uk/guidance)
-* [Customer stories](https://www.greenhouse.com/uk/customer-stories)
-* [Hiring glossary](https://www.greenhouse.com/uk/resources/glossary)
+* [Blog](https://www.greenhouse.com/blog)
+* [Guidance](https://www.greenhouse.com/guidance)
+* [Customer stories](https://www.greenhouse.com/customer-stories)
+* [Hiring glossary](https://www.greenhouse.com/resources/glossary)
 
 About
 
-* [Company](https://www.greenhouse.com/uk/company)
-* [Press & awards](https://www.greenhouse.com/uk/press)
-* [Careers](https://www.greenhouse.com/uk/careers)
-* [Contact](https://www.greenhouse.com/uk/contact)
+* [Company](https://www.greenhouse.com/company)
+* [Press & awards](https://www.greenhouse.com/press)
+* [Careers](https://www.greenhouse.com/careers)
+* [Contact](https://www.greenhouse.com/contact)
 
 Community
 
-* [Events & webinars](https://www.greenhouse.com/uk/events)
-* [Open](https://www.greenhouse.com/uk/open)
-* [Talent Makers](https://www.greenhouse.com/uk/talentmakers)
-* [Newsletter](https://www.greenhouse.com/uk/newsletter)
+* [Events & webinars](https://www.greenhouse.com/events)
+* [Open](https://www.greenhouse.com/open)
+* [Talent Makers](https://www.greenhouse.com/talentmakers)
+* [Newsletter](https://www.greenhouse.com/newsletter)
 
 Support
 
@@ -299,55 +299,55 @@ Support
 
 Platform
 
-* [The all-together hiring platform](https://www.greenhouse.com/uk/platform)
-* [Latest product features](https://www.greenhouse.com/uk/greenhouse-latest-features)
-* [Pricing](https://www.greenhouse.com/uk/pricing)
-* [Security](https://www.greenhouse.com/uk/security)
-* [Ethical principles](https://www.greenhouse.com/uk/ethical-principles)
-* [APIs](https://www.greenhouse.com/uk/api)
+* [The all-together hiring platform](https://www.greenhouse.com/platform)
+* [Latest product features](https://www.greenhouse.com/greenhouse-latest-features)
+* [Pricing](https://www.greenhouse.com/pricing)
+* [Security](https://www.greenhouse.com/security)
+* [Ethical principles](https://www.greenhouse.com/ethical-principles)
+* [APIs](https://www.greenhouse.com/api)
 
 Solutions
 
-* [Talent sourcing](https://www.greenhouse.com/uk/talent-sourcing)
-* [Scalable workflows](https://www.greenhouse.com/uk/scalable-workflows)
-* [Candidate experience](https://www.greenhouse.com/uk/candidate-experience)
-* [Interviewing & decision-making](https://www.greenhouse.com/uk/interviewing-decision-making)
-* [Onboarding](https://www.greenhouse.com/uk/onboarding)
-* [Reporting & insights](https://www.greenhouse.com/uk/reporting-insights)
-* [Integrations](https://www.greenhouse.com/uk/integrations)
+* [Talent sourcing](https://www.greenhouse.com/talent-sourcing)
+* [Scalable workflows](https://www.greenhouse.com/scalable-workflows)
+* [Candidate experience](https://www.greenhouse.com/candidate-experience)
+* [Interviewing & decision-making](https://www.greenhouse.com/interviewing-decision-making)
+* [Onboarding](https://www.greenhouse.com/onboarding)
+* [Reporting & insights](https://www.greenhouse.com/reporting-insights)
+* [Integrations](https://www.greenhouse.com/integrations)
 
 Greenhouse for
 
-* [Early-stage business](https://www.greenhouse.com/uk/early-stage)
-* [Scaling company](https://www.greenhouse.com/uk/scaling-company)
-* [Enterprise](https://www.greenhouse.com/uk/enterprise)
+* [Early-stage business](https://www.greenhouse.com/early-stage)
+* [Scaling company](https://www.greenhouse.com/scaling-company)
+* [Enterprise](https://www.greenhouse.com/enterprise)
 
 About
 
-* [Company](https://www.greenhouse.com/uk/company)
-* [Press & awards](https://www.greenhouse.com/uk/press)
-* [Careers](https://www.greenhouse.com/uk/careers)
-* [Contact](https://www.greenhouse.com/uk/contact)
+* [Company](https://www.greenhouse.com/company)
+* [Press & awards](https://www.greenhouse.com/press)
+* [Careers](https://www.greenhouse.com/careers)
+* [Contact](https://www.greenhouse.com/contact)
 
 Why Greenhouse
 
-* [How we compare](https://www.greenhouse.com/uk/compare)
-* [Return on your hiring investment](https://www.greenhouse.com/uk/roi-with-greenhouse)
-* [Your partner in success](https://www.greenhouse.com/uk/customer-success)
+* [How we compare](https://www.greenhouse.com/compare)
+* [Return on your hiring investment](https://www.greenhouse.com/roi-with-greenhouse)
+* [Your partner in success](https://www.greenhouse.com/customer-success)
 
 Resources
 
-* [Blog](https://www.greenhouse.com/uk/blog)
-* [Guidance](https://www.greenhouse.com/uk/guidance)
-* [Customer stories](https://www.greenhouse.com/uk/customer-stories)
-* [Hiring glossary](https://www.greenhouse.com/uk/resources/glossary)
+* [Blog](https://www.greenhouse.com/blog)
+* [Guidance](https://www.greenhouse.com/guidance)
+* [Customer stories](https://www.greenhouse.com/customer-stories)
+* [Hiring glossary](https://www.greenhouse.com/resources/glossary)
 
 Community
 
-* [Events & webinars](https://www.greenhouse.com/uk/events)
-* [Open](https://www.greenhouse.com/uk/open)
-* [Talent Makers](https://www.greenhouse.com/uk/talentmakers)
-* [Newsletter](https://www.greenhouse.com/uk/newsletter)
+* [Events & webinars](https://www.greenhouse.com/events)
+* [Open](https://www.greenhouse.com/open)
+* [Talent Makers](https://www.greenhouse.com/talentmakers)
+* [Newsletter](https://www.greenhouse.com/newsletter)
 
 Support
 
@@ -364,5 +364,5 @@ Choose your language English (US) English (UK) Deutsch
 
 Cookie Settings
 
-* [Privacy policy](https://www.greenhouse.com/uk/privacy-policy)
-* [Terms of service](https://www.greenhouse.com/uk/legal)
+* [Privacy policy](https://www.greenhouse.com/privacy-policy)
+* [Terms of service](https://www.greenhouse.com/legal)
