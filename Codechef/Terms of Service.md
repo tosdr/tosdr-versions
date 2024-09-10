@@ -2,7 +2,7 @@
 
 Courses
 
-[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)
+[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)[Competitive Programming roadmap 7 courses](https://www.codechef.com/roadmap/become-5-star)
 
 [Practice](https://www.codechef.com/practice) [Compete](https://www.codechef.com/contests)
 
@@ -16,7 +16,7 @@ Login / Sign Up
 
 Courses
 
-[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)
+[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)[Competitive Programming roadmap 7 courses](https://www.codechef.com/roadmap/become-5-star)
 
 [Practice](https://www.codechef.com/practice) [Compete](https://www.codechef.com/contests)
 
@@ -25,7 +25,7 @@ Courses
 CodeChef's Terms of Service
 ===========================
 
-Last Updated on 8th September 2023, 12:19:00 PM IST
+Last Updated on 8th July 2024, 12:19:00 PM IST
 
  
 
@@ -231,7 +231,7 @@ Section 12 - Code Intellectual Property
 * The rules below are applicable to all contests unless stated otherwise under specific contest rules and guidelines. Contestants retain ownership of all intellectual and industrial property rights (including moral rights) in and to Submissions.
 * As a condition of submission, Contestants grant CodeChef, its subsidiaries, agents and partner companies, a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to use, reproduce, adapt, modify, publish, distribute, publicly perform, create a derivative work from, and publicly display the Submission.
 * Contestants provide submissions on an "as is" basis, without warranties or conditions of any kind, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.
-* Communications: When you visit our site, you are communicating with us electronically. You may be required to provide a valid phone number while creating any account with us or purchasing something from us. We may communicate with you by e-mail, SMS, phone call or by posting notices on our site or by any other mode of communication as provided by you to us. By providing your information you authorize Codechef, its affiliates, and their respective employees, agents, and contractors to initiate electronic communications by email, telephone calls, with respect to your use of our site and/or the Service(s). These communications may be made by or on behalf of Codechef. You acknowledge that your telephone operator and/or internet service provider may have levied certain charges on you for availing their services, and you agree to be responsible for all such charges, and Codechef will not be responsible for these charges. Do not submit your information if you do not consent to being contacted by telephone, text, or email. However, for certain types of communications about our site and/or Service(s) you may have the option to ‘unsubscribe’ from receiving such communications from us, at any time, in the manner as may be prescribed by Codechef from time to time.
+* Communications: When you visit our site, you are communicating with us electronically. You may be required to provide a valid phone number while creating any account with us or purchasing something from us. We may communicate with you by e-mail, SMS, Whatsapp, phone call or by posting notices on our site or by any other mode of communication as provided by you to us. By providing your information you authorize Codechef, its affiliates, and their respective employees, agents, and contractors to initiate electronic communications by email, Whatsapp, telephone calls, with respect to your use of our site and/or the Service(s). These communications may be made by or on behalf of Codechef. You acknowledge that your telephone operator and/or internet service provider may have levied certain charges on you for availing their services, and you agree to be responsible for all such charges, and Codechef will not be responsible for these charges. Do not submit your information if you do not consent to being contacted by telephone, Whatsapp, text, or email. However, for certain types of communications about our site and/or Service(s) you may have the option to ‘unsubscribe’ from receiving such communications from us, at any time, in the manner as may be prescribed by Codechef from time to time.
 
   
   
@@ -422,6 +422,8 @@ Miscellaneous
 [CodeChef For Colleges](https://www.codechef.com/college-program)
 
 [Coding Contests](https://www.codechef.com/contests)
+
+[About Us](https://www.codechef.com/aboutus)
 
 [Contact Us](https://www.codechef.com/contactus)
 
