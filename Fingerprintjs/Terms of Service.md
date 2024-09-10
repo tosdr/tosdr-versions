@@ -2,19 +2,19 @@
 
 [![Fingerprint](https://files.readme.io/e421089-small-FP-Horizontal-OrangeBlue2x.png)](https://dev.fingerprintjs.com/)
 
-[Home](https://dev.fingerprintjs.com/)[Guides](https://dev.fingerprintjs.com/docs)[API Reference](https://dev.fingerprintjs.com/reference)[Changelog](https://dev.fingerprintjs.com/changelog)[Discussions](https://dev.fingerprintjs.com/discuss)v3
+[Home](https://dev.fingerprintjs.com/)[Guides](https://dev.fingerprintjs.com/docs)[API Reference](https://dev.fingerprintjs.com/reference)[Changelog (JS Agent)](https://dev.fingerprintjs.com/changelog)[Discussions](https://dev.fingerprintjs.com/discuss)
 
 * * *
 
-[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dashboard.fingerprintjs.com/signup)[![Fingerprint](https://files.readme.io/e421089-small-FP-Horizontal-OrangeBlue2x.png)](https://dev.fingerprintjs.com/)
+[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dev.fingerprintjs.com/page/undefined)[![Fingerprint](https://files.readme.io/e421089-small-FP-Horizontal-OrangeBlue2x.png)](https://dev.fingerprintjs.com/)
 
-[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dashboard.fingerprintjs.com/signup)
+Guides
 
-v3
+[Log In](https://dev.fingerprintjs.com/login?redirect_uri=/docs/terms-of-service)[Sign Up](https://dev.fingerprintjs.com/page/null)
 
-[Home](https://dev.fingerprintjs.com/)[Guides](https://dev.fingerprintjs.com/docs)[API Reference](https://dev.fingerprintjs.com/reference)[Changelog](https://dev.fingerprintjs.com/changelog)[Discussions](https://dev.fingerprintjs.com/discuss)
+[Home](https://dev.fingerprintjs.com/)[Guides](https://dev.fingerprintjs.com/docs)[API Reference](https://dev.fingerprintjs.com/reference)[Changelog (JS Agent)](https://dev.fingerprintjs.com/changelog)[Discussions](https://dev.fingerprintjs.com/discuss)
 
-Loading…
+Terms of service
 
 Search
 
@@ -34,20 +34,18 @@ Understanding Fingerprint
     * [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score-v11)
     * [Understanding our 99.5% accuracy](https://dev.fingerprintjs.com/docs/understanding-our-995-accuracy)
     * [Multiple domain tracking](https://dev.fingerprintjs.com/docs/multiple-domain-tracking)
-* [Browser and device support](https://dev.fingerprintjs.com/docs/browser-support)
-    * [Brave Browser Support](https://dev.fingerprintjs.com/docs/brave-browser-support)
-    * [Safari Intelligent Tracking Prevention](https://dev.fingerprintjs.com/docs/safari-itp)
 * [Regions and data retention](https://dev.fingerprintjs.com/docs/regions)
+* [Browser and device support](https://dev.fingerprintjs.com/docs/browser-and-device-support)
 * [Billing and account limits explained](https://dev.fingerprintjs.com/docs/billing)
 
 Identify browsers
 -----------------
 
-* [JavaScript agent](https://dev.fingerprintjs.com/docs/js-agent)
-    * [JavaScript agent placement](https://dev.fingerprintjs.com/docs/js-agent-placement)
-    * [Preloading the JavaScript agent](https://dev.fingerprintjs.com/docs/js-agent-preloading)
-    * [API preconnect](https://dev.fingerprintjs.com/docs/api-preconnect)
+* [Install the JavaScript agent](https://dev.fingerprintjs.com/docs/install-the-javascript-agent)
     * [Configure Content Security Policy (CSP)](https://dev.fingerprintjs.com/docs/js-agent-csp)
+    * [Optimize JavaScript agent usage](https://dev.fingerprintjs.com/docs/optimize-javascript-agent)
+    * [Usage with server-side rendering frameworks](https://dev.fingerprintjs.com/docs/usage-with-server-side-rendering-frameworks)
+* [Identify visitors](https://dev.fingerprintjs.com/docs/identify-visitors)
 * [Frontend libraries](https://dev.fingerprintjs.com/docs/frontend-libraries)
     * [Angular SDK](https://dev.fingerprintjs.com/docs/angular)
     * [Google Chrome Extension](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-and-chrome-extension)
@@ -57,8 +55,6 @@ Identify browsers
     * [Svelte](https://dev.fingerprintjs.com/docs/svelte)
     * [Vue](https://dev.fingerprintjs.com/docs/vuejs)
     * [Generic JS Agent Wrapper for SPAs](https://dev.fingerprintjs.com/docs/generic-js-agent-wrapper-for-spas)
-* [Caching visitor information](https://dev.fingerprintjs.com/docs/caching-visitor-information)
-* [Usage with Server-side Rendering Frameworks](https://dev.fingerprintjs.com/docs/usage-with-server-side-rendering-frameworks)
 
 Identify mobile devices
 -----------------------
@@ -66,7 +62,7 @@ Identify mobile devices
 * [iOS devices](https://dev.fingerprintjs.com/docs/ios)
     * [Understanding privacy manifest files](https://dev.fingerprintjs.com/docs/mobile-devices-understanding-privacy-manifest-files)
 * [Android devices](https://dev.fingerprintjs.com/docs/native-android-integration)
-* [Mobile SDKs](https://dev.fingerprintjs.com/docs/getting-started-tutorials)
+* [Mobile SDKs](https://dev.fingerprintjs.com/docs/mobile-sdks)
     * [iOS SDK](https://dev.fingerprintjs.com/docs/ios-sdk)
     * [Android SDK](https://dev.fingerprintjs.com/docs/android-sdk)
     * [React Native](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-react-native)
@@ -80,19 +76,23 @@ Protect your implementation
     * [Cloudflare Proxy Integration](https://dev.fingerprintjs.com/docs/cloudflare-integration)
         * [Cloudflare Proxy Integration — Blocking Origins and IPs](https://dev.fingerprintjs.com/docs/cloudflare-integration-blocking-ips-and-origins)
     * [AWS CloudFront Proxy Integration v2](https://dev.fingerprintjs.com/docs/cloudfront-proxy-integration-v2)
+        * [Install CloudFront Integration using CloudFormation](https://dev.fingerprintjs.com/docs/install-cloudfront-integration-using-cloudformation)
+        * [Install CloudFront Integration using Terraform](https://dev.fingerprintjs.com/docs/aws-cloudfront-integration-via-terraform)
         * [Migrating CloudFront proxy integration from v1 to v2](https://dev.fingerprintjs.com/docs/cloudfront-integration-migration-from-v1-to-v2)
     * [Fastly VCL Proxy Integration](https://dev.fingerprintjs.com/docs/fastly-vcl-proxy-integration)
     * [Akamai Proxy Integration](https://dev.fingerprintjs.com/docs/akamai-proxy-integration)
     * [Azure Proxy Integration](https://dev.fingerprintjs.com/docs/azure-proxy-integration)
 * [Protecting from client-side tampering and replay attacks](https://dev.fingerprintjs.com/docs/protecting-from-client-side-tampering)
 * [Request filtering](https://dev.fingerprintjs.com/docs/request-filtering)
+    * [Request filtering for websites](https://dev.fingerprintjs.com/docs/request-filtering-for-websites)
+    * [Request filtering for mobile applications](https://dev.fingerprintjs.com/docs/mobile-app-filtering)
+    * [Search bot request filtering](https://dev.fingerprintjs.com/docs/search-bots-filtering)
 
 Integrate with your server
 --------------------------
 
 * [Server API](https://dev.fingerprint.com/reference/pro-server-api)
 * [Webhooks](https://dev.fingerprintjs.com/docs/webhooks)
-    * [Webhooks Security](https://dev.fingerprintjs.com/docs/webhooks-security)
 * [Sealed Client Results](https://dev.fingerprintjs.com/docs/sealed-client-results)
 * [Backend libraries](https://dev.fingerprintjs.com/docs/backend-libraries)
     * [Go Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-go-sdk)
@@ -127,15 +127,20 @@ Tips & Advanced Guides
 * [Multiple environments](https://dev.fingerprintjs.com/docs/multiple-environments)
 * [Identification using pseudonymized IP Address](https://dev.fingerprintjs.com/docs/identification-using-pseudonymized-ip-address)
 
+Platform Updates
+----------------
+
+* [Changelog (JS Agent)](https://dev.fingerprint.com/changelog)
+* [Changelog (Android SDK)](https://github.com/fingerprintjs/fingerprintjs-pro-android/releases/)
+* [Changelog (iOS SDK)](https://github.com/fingerprintjs/fingerprintjs-pro-ios/releases)
+
 resources
 ---------
 
+* [Discord server](https://discord.gg/ad6R2ttHVX)
 * [Status page](https://status.fingerprint.com/)
 * [Product roadmap](https://roadmap.fingerprint.com/)
 * [Glossary](https://dev.fingerprintjs.com/docs/glossary)
-* [Updating from previous JS agent versions](https://dev.fingerprintjs.com/docs/migrating-from-previous-versions)
-    * [Determine the Fingerprint Agent version](https://dev.fingerprintjs.com/docs/determine-the-fingerprint-pro-version)
-    * [From Fingerprint v3](https://dev.fingerprintjs.com/docs/migrating-from-pro-v3)
 * [Migrating from FingerprintJS to Fingerprint Pro](https://dev.fingerprintjs.com/docs/migrating-from-fingerprintjs-to-fingerprint-pro)
 
 Legal
@@ -247,7 +252,7 @@ These Terms of Service, as amended from time to time (“**Terms**”), are ente
 
 \[1\] By way of example, a visitor who accesses the Customer Website via Google Chrome on a given device in a given calendar month counts as one (1) Unique Browser Instance. If the same visitor accesses the Customer Website via Firefox or a different device in the same calendar month, that counts as two (2) Unique Browser Instances (one (1) for the Google Chrome instance on the initial device and one (1) for the Firefox instance on the same device or the Google Chrome instance on a different device, respectively) in the applicable calendar month.
 
-Updated about 2 months ago
+Updated 15 days ago
 
 * * *
 
