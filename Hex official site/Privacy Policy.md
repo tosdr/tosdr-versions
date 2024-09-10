@@ -2,7 +2,7 @@
 
 [Moreexpand\_more](javascript:)
 
-[Testimonials](https://hex.com/testimonials) [Security](https://hex.com/security) [Scam?](https://hex.com/scam) [HEX vs Bitcoin](https://hex.com/bitcoin)
+[Security](https://hex.com/security) [Scam?](https://hex.com/scam) [HEX vs Bitcoin](https://hex.com/bitcoin)
 
 [credit\_cardHow to buy](https://hex.com/buy) [menu](javascript:menu())
 
@@ -11,8 +11,6 @@
 [Links](https://hex.com/links)
 
 [FAQ](https://hex.com/faq)
-
-[Testimonials](https://hex.com/testimonials)
 
 [Security](https://hex.com/security)
 
@@ -66,10 +64,7 @@ Online Privacy Policy Only
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in HEX.COM. This policy is not applicable to any information collected offline or via channels other than this website.
 
 [Downloads](https://hex.com/downloads)  
-[Trading](https://hex.com/trading)  
 [Developers](https://hex.com/dev)
 
- [![Telegram social icon](../_assets/img/socials/tg.png)](https://t.me/HEXcrypto)[![Telegram news social icon](../_assets/img/socials/tg2.png)](https://t.me/HEXnews)[![Telegram Trading icon](../_assets/img/socials/tg3.png)](https://t.me/PLStrading)[![Telegram Memes icon](../_assets/img/socials/tg4.png)](https://t.me/HEXmemes)[![Twitter logo icon](../_assets/img/socials/tw.png)](https://twitter.com/HEXcrypto)[![YouTube logo icon](../_assets/img/socials/yt.png)](https://youtube.com/HEXcrypto)[![Reddit logo icon](../_assets/img/socials/rt.png)](https://reddit.com/r/HEXcrypto)[![Discord logo icon](../_assets/img/socials/dc.png)](https://discord.gg/JmKBUCZKB3)[![Facebook logo icon](../_assets/img/socials/fb.png)](https://facebook.com/HEXcrypto)[![Instagram logo icon](../_assets/img/socials/ig.png)](https://instagram.com/HEXcrypto)
-
-Copyright © 2023. All Rights Reserved.  
+Copyright © . All Rights Reserved.  
 [Disclaimer](https://hex.com/disclaimer) [ToS](https://hex.com/tos) [Privacy](https://hex.com/privacy)
