@@ -52,9 +52,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -131,9 +131,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -156,9 +156,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -180,9 +180,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -204,9 +204,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -228,9 +228,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -252,9 +252,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Online
+Offline
 
-Last seen: 1 min 55 sec ago
+Last seen: 1 hour 12 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -327,7 +327,5 @@ About PortableApps.com
 [© 2024](https://portableapps.com/about/copyrights_and_trademarks)  |  [Privacy & Cookie Policy](https://portableapps.com/about/privacy)  |  [Site Terms of Use and Forum Guidelines](https://portableapps.com/forums/guidelines)  
 Developed by [Rare Ideas, LLC](http://rareideas.com/)  |  Designed by DIVIDED and [Rare Ideas, LLC](http://rareideas.com/)  
 Donate with [Credit or Debit Card](https://portableapps.com/donate), [PayPal](https://portableapps.com/donate), [Check / Money Order](https://portableapps.com/donate), [Cryptocurrency](https://portableapps.com/donate)
-
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
 
 x
