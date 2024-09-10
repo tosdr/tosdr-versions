@@ -1,7 +1,5 @@
         
 
-We have upgraded our detailed ETF comparison. [Details and feedback](https://easy-feedback.de/umfrage/1843028/bwmKOB)
-
 [![justETF Logo](/images/logo/justetf-logo.png?v2)](https://www.justetf.com/en/)
 
 0 0
