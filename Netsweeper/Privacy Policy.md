@@ -9,6 +9,7 @@ Search for:  Search
     * [English (UK)](https://www.netsweeper.com/uk-web-filter-digital-safety)
     * [Español](https://www.netsweeper.com/espanol)
     * [Français](https://www.netsweeper.com/francais)
+    * [日本語](https://www.netsweeper.com/%e6%97%a5%e6%9c%ac%e8%aa%9e)
     * [Português](https://www.netsweeper.com/portugues)
 
 [![Netsweeper](https://www.netsweeper.com/wp-content/uploads/2023/07/netsweeper_logo_reverse-300x72.png)](https://www.netsweeper.com/)
@@ -53,7 +54,7 @@ Search for:  Search
     * [Careers](https://www.netsweeper.com/company/careers)
     * [Contact](https://www.netsweeper.com/company/contact)
 
-[REQUEST DEMO](https://www.netsweeper.com/demo)[REQUEST DEMO](https://www.netsweeper.com/demo)
+* [Request Demo](https://www.netsweeper.com/demo)
 
 [![Netsweeper](https://www.netsweeper.com/wp-content/uploads/2023/07/netsweeper_logo_reverse-300x72.png)](https://www.netsweeper.com/)
 
@@ -63,13 +64,7 @@ Search for:  Search
 
 Main Menu
 
-REGIONREGION
-
-* [ENGLISH (CA/US)](https://www.netsweeper.com/)
-* [English (UK)](https://www.netsweeper.com/uk-web-filter-digital-safety)
-* [Español](https://www.netsweeper.com/espanol)
-* [Français](https://www.netsweeper.com/francais)
-* [Português](https://www.netsweeper.com/portugues)
+* [Request Demo](https://www.netsweeper.com/demo)
 
 * [Solutions](#) Menu Toggle
     * [Telecom – Value-Added Services](https://www.netsweeper.com/solutions/industries/telecommunications-carrier-grade-web-filtering-value-added-service)
@@ -456,6 +451,12 @@ Schedule a demo or request more information today.
 * [COMPANY](https://www.netsweeper.com/company/about-us)
 
 [](https://www.linkedin.com/company/netsweeperinc)[](https://www.facebook.com/netsweeperinc/)[](https://twitter.com/netsweeper)[](https://www.youtube.com/channel/UCRPFrojOG5PXUGq8FrE4omQ)
+
+* [EDUCATION CHALLENGES](https://www.netsweeper.com/solutions/industries/education-web-filtering-schools)
+* [Education Student Mental Health Safety](https://www.netsweeper.com/solutions/education-student-mental-health-safety)
+* [Education Remote Filtering](https://www.netsweeper.com/solutions/education-remote-filtering)
+* [Education Social Media Controls](https://www.netsweeper.com/solutions/education-social-media-controls)
+* [Education Policy Compliance](https://www.netsweeper.com/solutions/education-policy-compliance)
 
 * [Terms of Use](https://www.netsweeper.com/policies-terms/terms-of-use)
 * [Privacy Policy](https://www.netsweeper.com/policies-terms/privacy-policy)
