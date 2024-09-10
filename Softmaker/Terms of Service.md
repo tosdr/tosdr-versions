@@ -12,7 +12,7 @@
     * [Service packs](https://www.softmaker.com/en/download/servicepacks)
     * [Old versions](https://www.softmaker.com/en/download/old-versions)
     * [User manuals](https://www.softmaker.com/en/download/manuals)
-* [Support](https://www.softmaker.com/en/support)
+* [Customer support](https://www.softmaker.com/en/support)
     * [Installation](https://www.softmaker.com/en/support/installation/windows)
     * [Forum](https://forum.softmaker.com/)
     * [Customer support](https://www.softmaker.com/en/support/customer-support)
