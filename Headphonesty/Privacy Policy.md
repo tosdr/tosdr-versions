@@ -255,9 +255,7 @@ For specific information about Mediavine Partners, the data each collects and th
 
 [](https://www.headphonesty.com/)
 
-The week's best headphones news, sent right to your inbox. Read [one of it](https://mailchi.mp/headphonesty/audio-bytes-8250655).
-
-Sign Up
+The week's best headphones news, sent right to your inbox. Read [one of it](https://audio-bytes.beehiiv.com/) or [sign up](https://audio-bytes.beehiiv.com/subscribe) for the newsletter.
 
 Follow Us
 
@@ -266,6 +264,8 @@ Follow Us
 [](https://www.twitter.com/headphonesty)
 
 [](https://www.instagram.com/headphonesty)
+
+[](https://www.youtube.com/@headphonesty)
 
 * [News](https://www.headphonesty.com/category/news/)
 * [Reviews](https://www.headphonesty.com/category/reviews/)
