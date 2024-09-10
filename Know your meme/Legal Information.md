@@ -1,5 +1,3 @@
-[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-july-2024s-meme-of-the-month)
-
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -99,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/324/pommel.jpg "Who Is Stephen Nedoroscik, And Why Are People Calling Him The 'Horse Specialist'? Memes About The Olympic Medalist Explained")
+* [![Kendrick Lamar's 'Top Of The Morning' Chant On Baby Keem's 'Range Brothers' Has Hip-Hop Heads Confused](https://i.kym-cdn.com/featured_items/icons/wide/000/025/827/keem.jpg "On This Day Three Years Ago Baby Keem's 'Range Brothers' Featuring Kendrick Lamar Leaked On Reddit")
     
-    Who Is Stephen Nedoroscik, And Why Are People Calling Him The 'Horse Specialist'? Memes About The Olympic Medalist Explained](https://knowyourmeme.com/editorials/guides/who-is-stephen-nedoroscik-and-why-are-people-calling-him-the-horse-specialist-pommel-horse-memes-about-the-olympic-medalist-explained)
+    On This Day Three Years Ago Baby Keem's 'Range Brothers' Featuring Kendrick Lamar Leaked On Reddit](https://knowyourmeme.com/memes/baby-keems-range-brothers-featuring-kendrick-lamar-top-of-the-mornin)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/323/36c22d2b956d5480b4cbc7640fb19c2873799ad4-1280x707.jpeg "'White Dudes For Harris' Suspended On X After Raising $4 Million For Kamala Harris, Leading Some To Suspect Elon Musk Is Allegedly Tipping The Scales")
+* [![Nikocado Avocado Reveals His Dramatic 250 Lbs Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'](https://i.kym-cdn.com/featured_items/icons/wide/000/025/826/cover11.jpg "Nikocado Avocado Reveals His Dramatic Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'")
     
-    'White Dudes For Harris' Suspended On X After Raising $4 Million For Kamala Harris, Leading Some To Suspect Elon Musk Is Allegedly Tipping The Scales](https://knowyourmeme.com/news/white-dudes-for-harris-suspended-on-x-after-raising-4-million-for-harris-leading-some-to-suspect-elon-musk-is-tipping-the-scales)
+    Nikocado Avocado Reveals His Dramatic Weight Loss In A New Video, Claims That This All Has Been A 'Social Experiment'](https://knowyourmeme.com/memes/events/nikocado-avocados-weight-loss)
     
-* [![Skibidi Toilet Creator Allegedly Sent Garry's Mod A DMCA Takedown Notice](https://i.kym-cdn.com/featured_items/icons/wide/000/025/322/Skibidi_Toilet_DMCA_cover_V2.jpg "'Skibidi Toilet' Creator Allegedly Sent 'Garry's Mod' A DMCA Takedown Notice")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/825/ccc.jpg "What Is The 'I Am Steve' Meme? Jack Black's Viral 'Minecraft Movie' Scene Explained")
     
-    'Skibidi Toilet' Creator Allegedly Sent 'Garry's Mod' A DMCA Takedown Notice](https://knowyourmeme.com/memes/events/skibidi-toilet-dmca-takedown)
+    What Is The 'I Am Steve' Meme? Jack Black's Viral 'Minecraft Movie' Scene Explained](https://knowyourmeme.com/editorials/guides/what-is-the-i-am-steve-meme-jack-blacks-viral-minecraft-movie-scene-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/321/Wolverine_Crush_explainer_cover.jpg "What Is The 'Wolverine Crush' Meme? The Wolverine Photograph Meme Recreated By Hugh Jackman Explained")
+* [![celebrity number 6 fabric next to alleged identity](https://i.kym-cdn.com/featured_items/icons/wide/000/025/824/2df.jpg "Years-Long Search For A Celebrity On A Piece Of Fabric Seemingly Comes To An End")
     
-    What Is The 'Wolverine Crush' Meme? The Wolverine Photograph Meme Recreated By Hugh Jackman Explained](https://trending.knowyourmeme.com/editorials/guides/what-is-the-wolverine-crush-meme-the-wolverine-photograph-meme-recreated-by-hugh-jackman-explained)
+    Years-Long Search For A Celebrity On A Piece Of Fabric Seemingly Comes To An End](https://knowyourmeme.com/memes/celebrity-number-six)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/320/cover8.jpg "Who Is 'Fartbuckle The Goblin, Savior Of Friends'? The Viral 'D&D' Meme Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/823/hust.jpg "What Is The 'Humans Saw This And Invented Excel' Meme? The Viral Social Media Trend Explained")
     
-    Who Is 'Fartbuckle The Goblin, Savior Of Friends'? The Viral 'D&D' Meme Explained](https://knowyourmeme.com/editorials/guides/who-is-fartbuckle-the-goblin-savior-of-friends-viral-dd-meme-explained)
+    What Is The 'Humans Saw This And Invented Excel' Meme? The Viral Social Media Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-humans-saw-this-and-invented-excel-meme-the-viral-social-media-trend-explained)
     
 
 ##### Also Trending:
 
-[2024 Olympics Opening Ceremony Controversy](https://knowyourmeme.com/memes/events/2024-paris-olympics-opening-ceremony-controversy "2024 Olympics Opening Ceremony Controversy") [Skibidi Toilet DMCA Takedown](https://knowyourmeme.com/memes/events/skibidi-toilet-dmca-takedown "Skibidi Toilet DMCA Takedown") [2024 Summer Paris Olympics](https://knowyourmeme.com/memes/events/2024-summer-paris-olympics "2024 Summer Paris Olympics")
+[Haitian Immigrants Eating Pets Rumor](https://knowyourmeme.com/memes/events/haitian-immigrants-eating-pets-and-geese-rumor "Haitian Immigrants Eating Pets Rumor") [I Am Steve](https://knowyourmeme.com/memes/i-am-steve "I Am Steve") [I Want to F an Elf Unprotected](https://knowyourmeme.com/memes/i-want-to-fuck-an-elf-unprotected "I Want to F an Elf Unprotected") [Donald Trump Cat and Duck AI Images](https://knowyourmeme.com/memes/donald-trump-cat-and-duck-ai-images "Donald Trump Cat and Duck AI Images")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hey! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
