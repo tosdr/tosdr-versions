@@ -6,32 +6,12 @@
     
 * [What Defines Us](https://www.axelspringer.com/en/what-defines-us)
     
-* [Stories](https://www.axelspringer.com/en/stories)
-    
-* [Our Brands](https://www.axelspringer.com/en/brands)
+* [Corporate Blog](https://www.axelspringer.com/en/blog)
     
 * [Careers With Us](https://career.axelspringer.com/en/)
     
 * [Press](https://www.axelspringer.com/en/press)
     
-    * [Press Releases](https://www.axelspringer.com/en/press/press-releases)
-        
-    * [Info & Media Center](https://www.axelspringer.com/en/press/info-media-center)
-        
-    * [Contact](https://www.axelspringer.com/en/press/contact)
-        
-    * [Press mailing list](https://www.axelspringer.com/en/press-mailing-list)
-        
-* [Corporate Governance](https://www.axelspringer.com/en/corporate-governance)
-    
-    * [Executive Board](https://www.axelspringer.com/en/corporate-governance/corporate-governance/executive-board)
-        
-    * [Supervisory Board](https://www.axelspringer.com/en/corporate-governance/corporate-governance/supervisory-board)
-        
-    * [Compliance](https://www.axelspringer.com/en/corporate-governance/corporate-governance/compliance)
-        
-    * [Articles of Association](https://www.axelspringer.com/en/corporate-governance/corporate-governance/articles-of-association)
-        
 * [Contact](https://www.axelspringer.com/en/contact-2)
     
 
@@ -181,6 +161,7 @@ You also have the right to submit a complaint to the competent supervisory autho
 * [Disclaimer](https://www.axelspringer.com/en/disclaimer)
 * [Imprint](https://www.axelspringer.com/en/imprint)
 * [Data and Privacy](https://www.axelspringer.com/en/data-and-privacy)
+* [Contact](https://www.axelspringer.com/en/contact-2)
 
 [](https://www.linkedin.com/company/axelspringer/ "LinkedIn")[](https://twitter.com/axelspringer "X (Twitter)")[](https://www.youtube.com/axelspringer "Youtube")[](https://www.instagram.com/axelspringer_se/ "Instagram")
 
