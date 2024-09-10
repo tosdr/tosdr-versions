@@ -83,6 +83,7 @@
             * [Events](https://www.siteminder.com/events/)
             * [Sync On-Demand](https://www.siteminder.com/sync2022/)
             * [Downloads](https://www.siteminder.com/downloads)
+            * [Developer](https://developer.siteminder.com/)
         * [Company](https://www.siteminder.com/about/)
             * [About Us](https://www.siteminder.com/about/)
             * [Contact Us](https://www.siteminder.com/contact/)
