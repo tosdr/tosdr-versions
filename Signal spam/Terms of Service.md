@@ -4,7 +4,7 @@
 
 * Pourquoi signaler
     
-    Close Pourquoi signaler Open Pourquoi signaler
+    Fermer Pourquoi signaler Ouvrir Pourquoi signaler
     
     ![](https://www.signal-spam.fr/wp-content/uploads/illustration-lutte-contre-le-spam-1-1.svg)
     
@@ -18,7 +18,7 @@
     
 * Comment signaler
     
-    Close Comment signaler Open Comment signaler
+    Fermer Comment signaler Ouvrir Comment signaler
     
     ### [Modules Signal Spam](https://www.signal-spam.fr/nos-modules/)
     
@@ -48,7 +48,7 @@
     
 * A propos
     
-    Close A propos Open A propos
+    Fermer A propos Ouvrir A propos
     
     ### L'Actualité
     
@@ -76,11 +76,11 @@
     Espace réservé à tout organisme public ou privé souhaitant rejoindre Signal Spam
     
 
-Search
+Rechercher
 
-Search 
+Rechercher 
 
-Close this search box.
+Fermer ce champ de recherche.
 
 [SIGNALER](https://signalants.signal-spam.fr/login)
 
