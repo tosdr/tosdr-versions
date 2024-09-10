@@ -24,13 +24,13 @@
     
 * Use cases
     
-    * [Personal finances](https://plaid.com/use-cases/personal-finances/)
     * [Lending](https://plaid.com/use-cases/lending/)
     * [Wealth](https://plaid.com/use-cases/wealth/)
-    * [Pay by Bank](https://plaid.com/pay-by-bank/)
+    * [Pay by bank](https://plaid.com/pay-by-bank/)
     * [Digital banking](https://plaid.com/use-cases/digital-banking/)
     * [Business finances](https://plaid.com/use-cases/business-finances/)
     * [Crypto](https://plaid.com/use-cases/crypto/)
+    * [Property management](https://plaid.com/plaid-for-property-management/)
     
 * [Pricing](https://plaid.com/pricing/)
 * Developers
@@ -49,6 +49,7 @@
     * [Industry resources](https://plaid.com/resources/)
     * [Customer stories](https://plaid.com/customer-stories/)
     * [Annual conference](https://plaid.com/events/effects/)
+    * [What is Plaid](https://plaid.com/what-is-plaid/)
     * * * *
         
         ###### For consumers
@@ -56,7 +57,6 @@
     * [Control your data with Plaid Portal](https://my.plaid.com/)
     * [How we handle data](https://plaid.com/how-we-handle-data/)
     * [Discover Plaid-powered apps](https://plaid.com/discover-apps/)
-    * [Why is Plaid involved?](https://plaid.com/why-is-plaid-involved/)
     
 
 [Log in](https://dashboard.plaid.com/signin/)[Contact sales](https://dashboard.plaid.com/contact)
@@ -83,13 +83,13 @@
     
 * Use cases
     
-    * [Personal finances](https://plaid.com/use-cases/personal-finances/)
     * [Lending](https://plaid.com/use-cases/lending/)
     * [Wealth](https://plaid.com/use-cases/wealth/)
-    * [Pay by Bank](https://plaid.com/pay-by-bank/)
+    * [Pay by bank](https://plaid.com/pay-by-bank/)
     * [Digital banking](https://plaid.com/use-cases/digital-banking/)
     * [Business finances](https://plaid.com/use-cases/business-finances/)
     * [Crypto](https://plaid.com/use-cases/crypto/)
+    * [Property management](https://plaid.com/plaid-for-property-management/)
     
 * [Pricing](https://plaid.com/pricing/)
 * Developers
@@ -108,6 +108,7 @@
     * [Industry resources](https://plaid.com/resources/)
     * [Customer stories](https://plaid.com/customer-stories/)
     * [Annual conference](https://plaid.com/events/effects/)
+    * [What is Plaid](https://plaid.com/what-is-plaid/)
     * * * *
         
         ###### For consumers
@@ -115,7 +116,6 @@
     * [Control your data with Plaid Portal](https://my.plaid.com/)
     * [How we handle data](https://plaid.com/how-we-handle-data/)
     * [Discover Plaid-powered apps](https://plaid.com/discover-apps/)
-    * [Why is Plaid involved?](https://plaid.com/why-is-plaid-involved/)
     
 
 [Log in](https://dashboard.plaid.com/signin/)[Contact sales](https://dashboard.plaid.com/contact)
@@ -7625,12 +7625,9 @@ Ready to get started?
 * [Enrich](https://plaid.com/products/enrich/)
 * [Assets](https://plaid.com/products/assets/)
 * [Income](https://plaid.com/products/income/)
-* [Open Finance](https://plaid.com/use-cases/open-finance/)
-* [Core Exchange](https://plaid.com/data-connectivity-core-exchange/)
-* [Permissions Manager](https://plaid.com/privacy-controls-permissions-manager/)
 * [Plaid Link](https://plaid.com/plaid-link/)
-* [Payments](https://plaid.com/solutions/payments/)
-* [Fraud and Compliance](https://plaid.com/solutions/fraud-compliance/)
+* [Consumer Report](https://plaid.com/check/consumer-report/)
+* [Layer](https://plaid.com/layer/)
 
 * Use Cases
 * [Personal finances](https://plaid.com/use-cases/personal-finances/)
@@ -7703,7 +7700,6 @@ Ready to get started?
 * For consumers
 * [How it works](https://plaid.com/how-it-works-for-consumers/)
 * [Discover apps](https://plaid.com/discover-apps/)
-* [Why is Plaid involved?](https://plaid.com/why-is-plaid-involved/)
 * [Trouble connecting?](https://plaid.com/trouble-connecting/)
 * [Plaid Portal](https://my.plaid.com/)
 * [Delete my data](https://plaid.com/legal/data-protection-request-form/)
@@ -7712,9 +7708,10 @@ Ready to get started?
 * [Plaid Consumer Reporting Agency, Inc.](https://plaid.com/plaid-check-consumer-report/consumer-request-form)
 
 * For financial institutions
-* [Work with us](https://plaid.com/for-financial-institutions/)
-* [Data Connectivity](https://plaid.com/data-connectivity/)
-* [Privacy Controls](https://plaid.com/privacy-controls/)
+* [Open Finance Solution](https://plaid.com/solutions/open-finance/)
+* [Core Exchange](https://plaid.com/products/core-exchange/)
+* [Permissions Manager](https://plaid.com/products/permissions-manager/)
+* [App Directory](https://plaid.com/products/app-directory/)
 
 Choose...
 
