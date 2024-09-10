@@ -48,95 +48,114 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 #### Das könnte dir auch gefallen
 
-[![Young boy drawing on a piece of paper](https://faircado.de/wp-content/uploads/2022/09/Young-boy-drawing-on-a-piece-of-paper.jpeg)](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
+[![Buchcover von den besten Regionalkrimis](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-5.png)](https://faircado.de/mag/regionalkrimis/)
 
-### [How To Teach Pre-Schoolers About Recycling](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
+### [Die besten deutschsprachigen Regionalkrimis](https://faircado.de/mag/regionalkrimis/)
 
-[mehr lesen](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
+[mehr lesen](https://faircado.de/mag/regionalkrimis/)
 
-[![Hands holding a little plant in soil](https://faircado.de/wp-content/uploads/2022/09/Hands-holding-a-little-plant-in-soil.jpeg)](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
+[![Alle Buchcover von Büchern, die in Berlin spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-4.png)](https://faircado.de/mag/bucher-in-berlin/)
 
-### [Sustainable Resolutions: 19 Green Ideas for the New Year](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
+### [Bücher, die in Berlin spielen, die man gelesen haben muss](https://faircado.de/mag/bucher-in-berlin/)
 
-[mehr lesen](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
+[mehr lesen](https://faircado.de/mag/bucher-in-berlin/)
 
-[![Footprint in the sand surrounded by dead leaves, flowers and stones](https://faircado.de/wp-content/uploads/2022/09/Footprint-in-the-sand-surrounded-by-dead-leaves-flowers-and-stones.jpeg)](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+[![Cover von büchern, die in London spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-3.png)](https://faircado.de/mag/bucher-in-london/)
 
-### [Why Should We Care About our Carbon Footprint?](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+### [10 Bücher, die in London spielen für jeden Geschmack](https://faircado.de/mag/bucher-in-london/)
 
-[mehr lesen](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+[mehr lesen](https://faircado.de/mag/bucher-in-london/)
 
-[![great value green beans can](https://faircado.de/wp-content/uploads/2023/01/ixs7ucrjtdm.jpg)](https://faircado.de/mag/how-to-shop-more-sustainably/)
+[![Alle Buchcover von büchern, die in Frankreich spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-2.png)](https://faircado.de/mag/bucher-in-frankreich/)
 
-### [How To Shop More Sustainably?](https://faircado.de/mag/how-to-shop-more-sustainably/)
+### [Bücher, die in Frankreich spielen | Reiselektüre für den Urlaub](https://faircado.de/mag/bucher-in-frankreich/)
 
-[mehr lesen](https://faircado.de/mag/how-to-shop-more-sustainably/)
+[mehr lesen](https://faircado.de/mag/bucher-in-frankreich/)
 
-[![Protest poster on a meadow](https://faircado.de/wp-content/uploads/2023/01/kriw_pg-qri.jpg)](https://faircado.de/mag/why-you-need-a-personal-sustainability-plan/)
+[![Buchcover, von Büchern die in Italien spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-1.png)](https://faircado.de/mag/bucher-in-italien/)
 
-### [Why You Need a Personal Sustainability Plan](https://faircado.de/mag/why-you-need-a-personal-sustainability-plan/)
+### [Bücher, die in Italien spielen | Die perfekte Reiselektüre](https://faircado.de/mag/bucher-in-italien/)
 
-[mehr lesen](https://faircado.de/mag/why-you-need-a-personal-sustainability-plan/)
+[mehr lesen](https://faircado.de/mag/bucher-in-italien/)
 
-[![black and white floral long sleeve shirt](https://faircado.de/wp-content/uploads/2023/01/fouvdmgxopi.jpg)](https://faircado.de/mag/why-reduce-consuming-fast-fashion-and-how/)
+[![Alle Buchcover von Büchern, die am Meer spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14.png)](https://faircado.de/mag/bucher-am-meer/)
 
-### [Why Reduce Consuming Fast Fashion and How?](https://faircado.de/mag/why-reduce-consuming-fast-fashion-and-how/)
+### [8 Bücher, die am Meer spielen | Bücher für den Urlaub am Meer](https://faircado.de/mag/bucher-am-meer/)
 
-[mehr lesen](https://faircado.de/mag/why-reduce-consuming-fast-fashion-and-how/)
+[mehr lesen](https://faircado.de/mag/bucher-am-meer/)
 
-[![woman in a bookstore](https://faircado.de/wp-content/uploads/2023/01/c9afez7djdi.jpg)](https://faircado.de/mag/benefits-of-buying-second-hand/)
+[![Mutter, die Sohn eine Geschichte vorm Schlafen gehen vorliest](https://faircado.de/wp-content/uploads/2024/07/blog-headers-website-11.png)](https://faircado.de/mag/gute-nacht-geschichten/)
 
-### [Benefits of Buying Second-Hand](https://faircado.de/mag/benefits-of-buying-second-hand/)
+### [Die besten Gute-Nacht-Geschichten zum Vorlesen](https://faircado.de/mag/gute-nacht-geschichten/)
 
-[mehr lesen](https://faircado.de/mag/benefits-of-buying-second-hand/)
+[mehr lesen](https://faircado.de/mag/gute-nacht-geschichten/)
 
-[![Colorful shopping bags](https://faircado.de/wp-content/uploads/2023/02/colorful-shopping-bags.jpg)](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+[![](https://faircado.de/wp-content/uploads/2023/10/otfried-preussler-scaled.jpg)](https://faircado.de/mag/otfried-preussler/)
 
-### [Why Do We Buy Things We Do not Really Need?](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+### [Otfried Preußler und seine bekanntesten Kinderbücher](https://faircado.de/mag/otfried-preussler/)
 
-[mehr lesen](https://faircado.de/mag/why-do-we-buy-things-we-do-not-really-need/)
+[mehr lesen](https://faircado.de/mag/otfried-preussler/)
 
-[![text](https://faircado.de/wp-content/uploads/2023/01/zpvjna7yz6q.jpg)](https://faircado.de/mag/what-is-circular-economy/)
+[![Naturheilkunde Zutaten auf einem Tisch](https://faircado.de/wp-content/uploads/2024/07/blog-headers-website-10.png)](https://faircado.de/mag/naturheilkunde-gebraucht/)
 
-### [What is Circular Economy?](https://faircado.de/mag/what-is-circular-economy/)
+### [Nachhaltig und günstig: Naturheilkunde Bücher gebraucht kaufen](https://faircado.de/mag/naturheilkunde-gebraucht/)
 
-[mehr lesen](https://faircado.de/mag/what-is-circular-economy/)
-
-[Mehr Anzeigen](#)
-
-[![Young boy drawing on a piece of paper](https://faircado.de/wp-content/uploads/2022/09/Young-boy-drawing-on-a-piece-of-paper.jpeg)](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
-
-### [How To Teach Pre-Schoolers About Recycling](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
-
-[mehr lesen](https://faircado.de/mag/how-to-teach-pre-schoolers-about-recycling/)
-
-[![Hands holding a little plant in soil](https://faircado.de/wp-content/uploads/2022/09/Hands-holding-a-little-plant-in-soil.jpeg)](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
-
-### [Sustainable Resolutions: 19 Green Ideas for the New Year](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
-
-[mehr lesen](https://faircado.de/mag/sustainable-resolutions-19-green-ideas-for-the-new-year/)
-
-[![Footprint in the sand surrounded by dead leaves, flowers and stones](https://faircado.de/wp-content/uploads/2022/09/Footprint-in-the-sand-surrounded-by-dead-leaves-flowers-and-stones.jpeg)](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
-
-### [Why Should We Care About our Carbon Footprint?](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
-
-[mehr lesen](https://faircado.de/mag/why-should-we-care-about-our-carbon-footprint/)
+[mehr lesen](https://faircado.de/mag/naturheilkunde-gebraucht/)
 
 [Mehr Anzeigen](#)
 
-[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+[![Buchcover von den besten Regionalkrimis](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-5.png)](https://faircado.de/mag/regionalkrimis/)
 
-* [FAQs](https://faircado.de/faqs/)
-* [Blog](https://faircado.de/magazin/)
-* [Newsroom](https://faircado.de/presse-neuigkeiten/)
+### [Die besten deutschsprachigen Regionalkrimis](https://faircado.de/mag/regionalkrimis/)
+
+[mehr lesen](https://faircado.de/mag/regionalkrimis/)
+
+[![Alle Buchcover von Büchern, die in Berlin spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-4.png)](https://faircado.de/mag/bucher-in-berlin/)
+
+### [Bücher, die in Berlin spielen, die man gelesen haben muss](https://faircado.de/mag/bucher-in-berlin/)
+
+[mehr lesen](https://faircado.de/mag/bucher-in-berlin/)
+
+[![Cover von büchern, die in London spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-3.png)](https://faircado.de/mag/bucher-in-london/)
+
+### [10 Bücher, die in London spielen für jeden Geschmack](https://faircado.de/mag/bucher-in-london/)
+
+[mehr lesen](https://faircado.de/mag/bucher-in-london/)
+
+[Mehr Anzeigen](#)
+
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.co.uk/)
+
+* [FAQs](https://faircado.co.uk/faq/)
+* [Blog](https://faircado.co.uk/magazin/)
+* [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
 
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
-* [Unsere Partner](https://faircado.de/unsere-partner/)
-* [Kontakt](https://faircado.de/kontakt/)
+* [Unsere Partner](https://faircado.co.uk/unsere-partner/)
+* [Kontakt](https://faircado.co.uk/kontakt/)
 
-[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.co.uk/kofinanziert-von-der-europaeischen-union/)
 
-#### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
+  
+
+Wir konnten deine Angaben nicht speichern. Versuche es erneut.
+
+Willkommen! Wir freuen uns mit dir gemeinsam über Nachhaltigkeit zu lernen! 🌱
+
+**Du möchtest mehr nachhaltige News erhalten?** 
+
+**Melde dich für den Newsletter an!**
+
+Gib bitte deine E-Mail Adresse an. z.B. ichliebefaircado@mail.com
+
+Senden
+
+Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
+
+ 
+
+#### Du möchtest mehr nachhaltige News erhalten?  
+Melde dich für den Newsletter an!
 
    
 
@@ -144,37 +163,45 @@ Email
 
 senden
 
-  Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
+  Ich bin damit einverstanden, E-Mails von Faircado zu erhalten und kann dies jederzeit widerrufen.
 
-[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.co.uk/)
 
-* [FAQs](https://faircado.de/faqs/)
-* [Blog](https://faircado.de/magazin/)
-* [Newsroom](https://faircado.de/presse-neuigkeiten/)
+* [FAQs](https://faircado.co.uk/faq/)
+* [Blog](https://faircado.co.uk/magazin/)
+* [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
 
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
-* [Unsere Partner](https://faircado.de/unsere-partner/)
-* [Kontakt](https://faircado.de/kontakt/)
+* [Unsere Partner](https://faircado.co.uk/unsere-partner/)
+* [Kontakt](https://faircado.co.uk/kontakt/)
 
-[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.co.uk/kofinanziert-von-der-europaeischen-union/)
 
-#### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
+  
 
-   
+Wir konnten deine Angaben nicht speichern. Versuche es erneut.
 
-Email 
+Willkommen! Wir freuen uns mit dir gemeinsam über Nachhaltigkeit zu lernen! 🌱
 
-senden
+**Du möchtest mehr nachhaltige News erhalten?** 
 
-  Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
+**Melde dich für den Newsletter an!**
+
+Gib bitte deine E-Mail Adresse an. z.B. ichliebefaircado@mail.com
+
+Senden
+
+Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
+
+ 
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.de/datenschutz/)
+* [Datenschutz](https://faircado.co.uk/datenschutz/)
 
-* [AGB](https://faircado.de/agb/)
+* [AGB](https://faircado.co.uk/agb/)
 
-* [Impressum](https://faircado.de/impressum/)
+* [Impressum](https://faircado.co.uk/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
@@ -186,11 +213,11 @@ senden
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.de/datenschutz/)
+* [Datenschutz](https://faircado.co.uk/datenschutz/)
 
-* [AGB](https://faircado.de/agb/)
+* [AGB](https://faircado.co.uk/agb/)
 
-* [Impressum](https://faircado.de/impressum/)
+* [Impressum](https://faircado.co.uk/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
@@ -202,11 +229,11 @@ senden
 
 * Copyright 2023 Faircado UG (Haftungsbeschränkt)
 
-* [Datenschutz](https://faircado.de/datenschutz/)
+* [Datenschutz](https://faircado.co.uk/datenschutz/)
 
-* [AGB](https://faircado.de/agb/)
+* [AGB](https://faircado.co.uk/agb/)
 
-* [Impressum](https://faircado.de/impressum/)
+* [Impressum](https://faircado.co.uk/impressum/)
 
 [Twitter](https://twitter.com/Faircado)
 
