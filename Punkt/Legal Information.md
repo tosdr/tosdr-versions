@@ -1,10 +1,10 @@
  
 
-We've automatically set up the delivery nation on France
+We've automatically set up the delivery nation on United States
 
 [OK](#null) or [CHANGE NATION](#null)
 
-* [Free shipping to France on orders over 39 EUR](#null)
+* [Free shipping to United States on orders over 119 USD](#null)
 * [English](#null)
 
 [Punkt.](https://www.punkt.ch/en/ "back to homepage")
