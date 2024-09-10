@@ -41,8 +41,6 @@ We may use the information we collect from you when you register, make a purchas
 We have a special phone number for SMS notification that you'll be receiving after you signed up. After creating an account on HahuCloud will start receiving an SMS notification from our SMS service number. like when you place an order, when your order gets approved or when your service is about to expire.  
 To opt-out from SMS notification, you can simply remove your phone number from your HahuCloud account.
 
-`**SMS Alert Number: 0901088786**   _Note:- We will not accept phone calls through this number._`
-
 **How do we protect your information?**
 
 We do not use vulnerability scanning and/or scanning to PCI standards.  
@@ -196,9 +194,10 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 * [Announcements](https://my.hahucloud.com/announcements)
 * [Knowledgebase](https://my.hahucloud.com/knowledgebase)
 * [.et Domain Name](https://www.hahucloud.com/et-domain)
-* [💚 Free Web Hosting](https://www.hahucloud.com/charity)
+* [Free Web Hosting](https://www.hahucloud.com/charity)
 * [hahu.io SMS Gateway](https://hahu.io/)
 * [Tender Alert iChereta](https://ichereta.com/)
+* [My Public IP](https://www.hahucloud.com/ip)
 
 ‭
 
