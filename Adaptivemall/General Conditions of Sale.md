@@ -8,6 +8,8 @@ FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
  **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
+* Compare
+
 * [About Us](https://www.adaptivemall.com/aboutus)
 * [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
 * [Customer Care](https://www.adaptivemall.com/customer-service-q-a)
@@ -220,6 +222,8 @@ CLOSE
     * [Therapy Systems](https://www.adaptivemall.com/seemore/therapysystems.html)
     * [Universal Accessories](https://www.adaptivemall.com/seemore/universalaccessories.html)
     * [Walkers](https://www.adaptivemall.com/seemore/gaittrainers.html)
+    * [Changing Tables](https://www.adaptivemall.com/seemore/changing-tables.html)
+    * [Treatment Tables](https://www.adaptivemall.com/seemore/treatment-tables.html)
     
     [More](https://www.adaptivemall.com/seemore.html)
     
@@ -237,6 +241,8 @@ CLOSE
     * [Therapy Systems](https://www.adaptivemall.com/seemore/therapysystems.html)
     * [Universal Accessories](https://www.adaptivemall.com/seemore/universalaccessories.html)
     * [Walkers](https://www.adaptivemall.com/seemore/gaittrainers.html)
+    * [Changing Tables](https://www.adaptivemall.com/seemore/changing-tables.html)
+    * [Treatment Tables](https://www.adaptivemall.com/seemore/treatment-tables.html)
     [Shop All More](https://www.adaptivemall.com/seemore.html)
     
     ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_24.png)
