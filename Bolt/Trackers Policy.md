@@ -41,7 +41,7 @@ Company
 
 [Careers](https://bolt.eu/en/careers/)
 
-[Green Plan](https://bolt.eu/en/sustainability/)
+[Sustainability at Bolt](https://bolt.eu/en/sustainability/)
 
 [Press](https://bolt.eu/en/press/)
 
