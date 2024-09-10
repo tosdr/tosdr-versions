@@ -1,5 +1,5 @@
-[![KeyMe](/img/logo-ls.1e156a46.svg)](https://key.me/)
-======================================================
+[![KeyMe](/assets/images/site_header/logo-ls.svg)](https://key.me/)
+===================================================================
 
 * [Home](https://key.me/)
 * [locksmiths](https://key.me/locksmiths)
@@ -178,6 +178,7 @@ You’ll find answers to most questions on our [FAQ's page](https://keyme.zendes
 * [Careers](https://key.me/careers)
 * [Terms](https://key.me/terms)
 * [Privacy](https://key.me/privacy)
+* [About Us](https://key.me/about-us)
 
 2024 KeyMe, LLC All rights reserved
 
