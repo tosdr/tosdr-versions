@@ -87,8 +87,8 @@ Privacy Policy
 
 #### Contact Informations
 
-* Tel: +12345678
+* Tel:
 * E-mail: [\[email protected\]](https://smmplus.shop/cdn-cgi/l/email-protection)
 * Working Hour: 09:00 - 24:00
 
-Copyright © 2022 - SNSMiner
+Copyright © 2024 - Smmplus
