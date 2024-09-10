@@ -47,21 +47,21 @@ Deutsch
 Privacy Policy
 ==============
 
-_Effective date: February 2024_
+_Effective date: August 2024_
 
 As a provider of software to strengthen privacy, your rights regarding data protection and informational self-determination are important to us. We attempt to restrict the use of data to the absolute essential minimum. Of course, we do not use analysis tools and unnecessary cookies. However, for some processes, especially in connection with payment transactions, we depend on the services of third parties and you should also read their privacy policies carefully.
 
 This privacy policy consists of the following sections:
 
-1. [Name and address of the responsible company](#contact)
-2. [General Information on Data Processing](#general)
-3. [Provision of the Website and Creation of Log Files](#logfiles)
-4. [Use of Cookies](#cookies)
-5. [Email Contact](#email)
-6. [Use in the Course of Online Orders (E-Commerce)](#payments)
-7. [Disclosure of Personal Data to Third Parties](#thirdparty)
-8. [Using the Cryptomator Application](#app)
-9. [Rights of the Affected Person](#rights)
+1. [Name and address of the responsible company](https://cryptomator.org/privacy/#contact)
+2. [General Information on Data Processing](https://cryptomator.org/privacy/#general)
+3. [Provision of the Website and Creation of Log Files](https://cryptomator.org/privacy/#logfiles)
+4. [Use of Cookies](https://cryptomator.org/privacy/#cookies)
+5. [Email Contact](https://cryptomator.org/privacy/#email)
+6. [Use in the Course of Online Orders (E-Commerce)](https://cryptomator.org/privacy/#payments)
+7. [Disclosure of Personal Data to Third Parties](https://cryptomator.org/privacy/#thirdparty)
+8. [Using the Cryptomator Application](https://cryptomator.org/privacy/#app)
+9. [Rights of the Affected Person](https://cryptomator.org/privacy/#rights)
 
 1\. Name and address of the responsible company
 -----------------------------------------------
@@ -209,7 +209,7 @@ In case of an online order via our online shop the following data is collected:
 * bank details (when paying by direct debit)
 * credit card details (when paying by credit card)
 
-During the ordering process, the user’s consent to the processing of this data is obtained and the user is made aware of this privacy policy. The data will only be passed on if this is necessary to fulfil contractual obligations. Details can be found in the following section ([7\. Disclosure of Personal Data to Third Parties](#thirdparty)).
+During the ordering process, the user’s consent to the processing of this data is obtained and the user is made aware of this privacy policy. The data will only be passed on if this is necessary to fulfil contractual obligations. Details can be found in the following section ([7\. Disclosure of Personal Data to Third Parties](https://cryptomator.org/privacy/#thirdparty)).
 
 ### 6.2 Legal Basis for Data Processing
 
@@ -217,7 +217,7 @@ The legal basis for the temporary storage of data is Art. 6 para. 1 lit. f GDPR.
 
 ### 6.3 Purpose of Data Processing
 
-The data is used exclusively to process the order you have placed. In case of an order we save the text of the contract and send you the shipping confirmation by email. You can also view the Terms & Conditions at any time [here](https://cryptomator.org/terms).
+The data is used exclusively to process the order you have placed. In case of an order we save the text of the contract and send you the shipping confirmation by email. You can also view the Terms & Conditions at any time [here](https://cryptomator.org/terms/).
 
 ### 6.4 Duration of Storage
 
@@ -299,7 +299,11 @@ This data will not be stored together with other personal data of the user.
 
 If the user authorizes the Cryptomator application for iOS or Android to access one or many cloud storage services, the application is granted access to data stored by the respective service. The application will not access any data other than stored in folders knowingly selected by the user.
 
-Any such data is processed solely on the user’s local device. Under no circumstances will we receive any of this data.
+Any such data is processed solely on the user’s local device. Under no circumstances will we receive any of this data. We have implemented security procedures to protect the confidentiality of the user’s data. Specifically:
+
+* We use encryption to protect the user’s information. All sensitive data is encrypted using state-of-the-art encryption algorithms.
+* On Android, sensitive data is stored in the Keystore system, which securely stores cryptographic keys and ensures their confidentiality and integrity.
+* On iOS, sensitive data is stored in the Keychain, which provides a secure storage container that is encrypted and managed by the system.
 
 When using such a third-party cloud storage services, please refer to the corresponding privacy policy of the provider:
 
