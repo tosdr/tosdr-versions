@@ -9,7 +9,7 @@
 Privacy Policy
 ==============
 
-#### Last updated: June 20, 2024
+#### Last updated: August 2, 2024
 
 This privacy policy describes the information Anonyome Labs, Inc. collects and how we use it within the applications, services, and websites. In addition to Anonyome Labs, Inc., all subsidiaries of Anonyome Labs, Inc. also adhere to the content in this privacy policy.
 
@@ -55,7 +55,7 @@ As is typical of most online services, we automatically collect certain technica
 
 We collect non-personally identifying information about your Application download such as date/time, application store region and application version. We use this information to make our Services better. This information does not allow Anonyome Labs to associate a download with a mobile platform user, e.g., an Apple ID or Google account.
 
-If enabled in the privacy settings of our Applications, we collect non-personally identifying information about how users use our Application and Services, to improve them. We use Braze for this purpose. To modify this setting, read more in this article:  [https://support.mysudo.com/hc/en-us/articles/360057400514–How-do-I-disable-opt-out-of-App-Analytics-](https://support.mysudo.com/hc/en-us/articles/360057400514--How-do-I-disable-opt-out-of-App-Analytics-)
+If enabled in the privacy settings of our Applications, we collect non-personally identifying information about how users use our Application and Services, to improve them. We use Braze and Statsig for this purpose. To modify this setting, read more in this article:  [https://support.mysudo.com/hc/en-us/articles/360057400514–How-do-I-disable-opt-out-of-App-Analytics-](https://support.mysudo.com/hc/en-us/articles/360057400514--How-do-I-disable-opt-out-of-App-Analytics-)
 
 When we advertise our Applications and Services, we collect and process information about the performance of those advertisements, to make decisions about the effectiveness of that advertising. The information processed is only in aggregate – we are unable to associate an Application account with an advertising campaign.
 
