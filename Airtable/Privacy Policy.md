@@ -564,7 +564,7 @@ We use cookies and similar tracking technologies that enable certain advertising
 
 To opt out of these “sales” or “sharing” of personal information (as these terms are defined under the CCPA or other applicable US state privacy laws), you must:
 
-* Toggle cookies off in our cookie preference center or enable Global Privacy Control (“**GPC**”) on your browser; and
+* Toggle cookies off in our or enable Global Privacy Control (“**GPC**”) on your browser; and
     
 * Submit a request using [this form](https://airtable.com/shrvJ3n3tfJ5BBYkD) or email [privacy@airtable.com](mailto:privacy@airtable.com).
     
