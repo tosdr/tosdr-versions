@@ -2,9 +2,9 @@
 
              
 
-![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
+![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/551/assets/placeholder-pixel.png?v=50439485113009717681722887814)
 
-IT'S NOW OR NEVER $9 TAPE TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off with code GETLB10
+IT'S NOW OR NEVER $9 TAPE TRANSFERS REG. ~($27.50)~...THAT'S LIKE 60% OFF! Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,7 +14,7 @@ IT'S NOW OR NEVER $9 TAPE TRANSFERS (REG. ~$27.50~) Plus, get an extra 10% off w
 
 00 SEC
 
-$9 TAPE TRANSFERS (REG. ~$27.50~)... THAT'S LIKE 60% OFF! Plus, get an extra 10% off with code GETLB10
+$9 TAPE TRANSFERS REG. ~($27.50)~...THAT'S LIKE 60% OFF! Plus, get an extra 10% off with code GETLB10
 
 [SHOP NOW >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
 
@@ -156,8 +156,6 @@ Professionally digitized, future-proof, & ready to relive.™ Choose what you’
 [Learn More](https://help.legacybox.com/hc/en-us)
 
 [Shop Now](https://legacybox.com/products/legacybox-digitizing-kit)
-
-[FAQ](https://legacybox.com/pages/frequently-asked-questions)
 
 [My Orders](https://legacybox.com/pages/order-tracking)
 
@@ -445,6 +443,7 @@ By regular mail:             Legacybox
 * [Track My Order](https://legacybox.com/pages/order-tracking)
 * [Activate My Order](https://legacybox.com/pages/activate)
 * [Offers & Promotions](https://legacybox.com/pages/offers-promotions)
+* [Business Services](https://legacybox.com/pages/legacybox-business-services)
 
 ### Learn more
 
@@ -459,7 +458,7 @@ By regular mail:             Legacybox
 
 ### Blog
 
- [10 Tips For Making The Perfect Birthday Slideshow](https://legacybox.com/blogs/analog/how-to-make-birthday-slideshow)[How to Create a Slideshow for a Funeral](https://legacybox.com/blogs/analog/how-to-make-funeral-slideshow)
+ [Capture.com Reviews: What Users Are Saying](https://legacybox.com/blogs/analog/capture-reviews)[iMemories Reviews: Uncovering the Pros and Cons](https://legacybox.com/blogs/analog/imemories-reviews)
 
  [](https://www.facebook.com/Legacybox)[](https://www.instagram.com/legacybox/)[](https://www.youtube.com/channel/UCtrczFsRT_WQ655Y4fKMWNA)
 
