@@ -228,6 +228,7 @@ Have you recently published new research in neuroscience?
 
 * [About _The Transmitter_](https://www.thetransmitter.org/about/)
 * [The Team](https://www.thetransmitter.org/staff/)
+* [Partners](https://www.thetransmitter.org/partners/)
 * [Newsletters](https://www.thetransmitter.org/newsletters/)
 * [RSS](https://www.thetransmitter.org/feed/)
 * [Terms and Conditions](https://www.thetransmitter.org/terms-and-conditions/)
@@ -248,4 +249,4 @@ An editorially independent publication supported by the Simons Foundation
 
 [© 2024 Simons Foundation](https://www.simonsfoundation.org/)
 
-We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.spectrumnews.org/privacy-policy/).[AGREE](#)
+We care about your data, and we’d like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.spectrumnews.org/privacy-policy).[AGREE](#)[DISMISS](#)
