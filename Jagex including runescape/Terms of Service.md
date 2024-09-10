@@ -18,6 +18,8 @@
 
 Menu [Français](https://www.jagex.com/fr-FR/terms) [Deutsch](https://www.jagex.com/de-DE/terms) [Português do Brasil](https://www.jagex.com/pt-BR/terms) [English](https://www.jagex.com/en-GB/terms) [中國](https://www.jagex.com/zh-CN/terms) [日本人](https://www.jagex.com/ja-JP/terms) [한국어](https://www.jagex.com/ko-KR/terms) [Polski](https://www.jagex.com/pl-PL/terms) [Italiano](https://www.jagex.com/it-IT/terms) [Português](https://www.jagex.com/pt-PT/terms) [Русский](https://www.jagex.com/ru-RU/terms) [Español](https://www.jagex.com/es-ES/terms) [繁體中文](https://www.jagex.com/zh-CHT/terms) [Türkçe](https://www.jagex.com/tr-TR/terms)
 
+**Our terms are changing on 27th September 2024. [Click here to view our new terms.](https://www.jagex.com/en-GB/terms-upcoming)**
+
 **A summary of this document, written for young people, is available [here](https://www.jagex.com/en-GB/terms/terms-and-conditions/aad).**
 
 Terms & Conditions
