@@ -144,12 +144,13 @@ Of course, we will happily help you if you have any complaints about the process
 
 [Book your meetingspace](https://www.seats2meet.com/en) [Book your workspace](https://www.seats2meet.com/en/coworking)
 
-[](https://www.facebook.com/Seats2meetcom)[](https://www.linkedin.com/company/seats2meet.com)[](https://twitter.com/s2m)[](https://www.instagram.com/seats2meet)
+[](https://www.facebook.com/Seats2meetcom)[](https://www.linkedin.com/company/seats2meet.com)[](https://www.youtube.com/@seats2meet/videos)[](https://www.instagram.com/seats2meet)
 
 ### Books to download for free:
 
-* [Society 3.0](https://www.seats2meet.com/downloads/society30.pdf)
 * [The Serendipity Machine](https://www.seats2meet.com/downloads/The-Serendipity-Machine.pdf)
+* [Society 3.0](https://www.seats2meet.com/downloads/society30.pdf)
+* [Seats2meet explained](https://issuu.com/s2mi/docs/s2m_explained_en)
 * [Things are getting complicated - hurray!](https://www.seats2meet.com/downloads/Hoera_ingewikkeld_en.pdf)
 
 ### S2M for You
@@ -161,7 +162,7 @@ Of course, we will happily help you if you have any complaints about the process
 * [Groups](https://www.seats2meet.com/en/network/groups)
 * [Questions & Answers](https://www.seats2meet.com/en/network/questions)
 * [S2M Network](https://www.seats2meet.com/en/network)
-* [Seats2meet newsletter](https://seats2meet.us5.list-manage.com/subscribe?u=0ef35c46d8abb72c4532c287d&id=2e89a946f4)
+* [Seats2meet newsletter](https://us5.campaign-archive.com/home/?u=0ef35c46d8abb72c4532c287d&id=2e89a946f4)
 
 ### About us
 
