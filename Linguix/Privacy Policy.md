@@ -2,7 +2,7 @@
 
 [Features](https://linguix.com/#features) [Download](https://linguix.com/apps) [Pricing](https://linguix.com/pricing) [Linguix Business](https://linguix.com/team)
 
-[Sign In](https://linguix.com/signin?from=header) [Start Free Trial](https://linguix.com/signup?from=header)
+[Sign In](https://linguix.com/signin?from=header) [Try For Free](https://linguix.com/signup?from=header)
 
 Privacy policy
 ==============
