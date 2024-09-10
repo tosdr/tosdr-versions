@@ -73,40 +73,17 @@ Submit
 * [Pricing](https://newrelic.com/pricing)
 * Solutions
     
-    Solutions
+    ![Customer Stories](/sites/default/files/2024-08/customer-stories-desktop-jpg.jpg)
     
-    [![APM icon](/sites/default/files/2023-08/solutions-apm.svg)
+    The world's leading companies run on New Relic.
     
-    Customers on APM
-    
-    Customers on managing distributed systems, improving user experience, and more.](https://newrelic.com/blog/how-to-relic/customers-apm-monitoring)
-    
-    [![Kubernetes icon](/sites/default/files/2023-08/solutions-kubernates.svg)
-    
-    IGS Cut Costs
-    
-    How IGS cut costs while improving monitoring.](https://newrelic.com/blog/how-to-relic/igs-cut-costs-observability-monitoring)
-    
-    [![Ecommerce icon](/sites/default/files/2023-08/solutions-ecommerce.svg)
-    
-    William Hill
-    
-    William Hill improves MTTR by 80%.](https://newrelic.com/customers/william-hill)
-    
-    1
-    
-    2
-    
-    3
-    
-    [View Customer Stories View Customer Stories](https://newrelic.com/customers)
+    [Customer Stories Customer Stories](https://newrelic.com/customers)
     
     Use Cases
     
     * [Digital Experience Monitoring](https://newrelic.com/solutions/digital-experience-monitoring)
     * [Go from reactive to responsive](https://newrelic.com/practices/reactive-to-responsive)
     * [DevOps](https://newrelic.com/devops)
-    * [Cloud Adoption](https://newrelic.com/solutions/cloud-adoption)
     * [Tool Consolidation](https://newrelic.com/solutions/tool-consolidation)
     * [Open Source](https://newrelic.com/solutions/open-source)
     
@@ -116,7 +93,7 @@ Submit
     * [Healthcare](https://newrelic.com/solutions/industry/healthcare)
     * [Media & Entertainment](https://newrelic.com/solutions/industry/digital-media-monitoring)
     * [New Relic for Startups](https://newrelic.com/solutions/industry/startups)
-    * [Non Profit](https://newrelic.com/social-impact/signup)
+    * [Nonprofit](https://newrelic.com/social-impact/signup)
     * [Public Sector](https://newrelic.com/solutions/industry/public-sector)
     
     Technologies
@@ -152,6 +129,7 @@ Submit
     
     3
     
+* [Enterprise](https://newrelic.com/solutions/enterprise-monitoring)
 * Developers
     
     Developers
@@ -237,8 +215,6 @@ Submit
     
 * Resources
     
-    Resources
-    
     * [About Us](https://newrelic.com/about)
     * [Leadership](https://newrelic.com/about/leadership)
     * [Careers](https://newrelic.com/about/culture)
@@ -247,25 +223,32 @@ Submit
     * [Newsroom](https://newrelic.com/about/newsroom)
     * [ESG](https://newrelic.com/about/environmental-social-governance)
     * [Community Forum](https://forum.newrelic.com/s)
+    * [Technical Support](https://support.newrelic.com/)
     
+    * [Customer Stories
+        
+        Videos and case studies show how companies win with observability.](https://newrelic.com/customers)
     * [Resource Library
         
         Ebooks, data sheets, and white papers.](https://newrelic.com/resources)
     * [New Relic Blog
         
         Industry updates, tips, and best practices.](https://newrelic.com/blog)
-    * [Observability Value Calculator
-        
-        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     * [Events & Webinars
         
         Join us for an upcoming event or training.](https://newrelic.com/events)
     * [New Relic University
         
         Learning paths and training courses.](https://learn.newrelic.com/)
-    * [Technical Support
+    * [Observability Value Calculator
         
-        Expert support for our global clients.](https://support.newrelic.com/)
+        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
+    
+    [![Gartner resource icon](/sites/default/files/2024-08/Gartner%20Leader.svg)
+    
+    2024 Magic Quadrant™️
+    
+    Download your copy of the Gartner®️ Magic Quadrant™️ for Observability Platforms.](https://newrelic.com/resources/gartner-magic-quadrant-observability)
     
     [![APM logo](/sites/default/files/2024-04/1-APM.svg)
     
@@ -279,19 +262,12 @@ Submit
     
     Learn how a unified platform for APM and infrastructure monitoring can streamline operations and reduce costs.](https://newrelic.com/resources/ebooks/single-platform-infrastructure-monitoring-apm)
     
-    [![Architecture icon](/sites/default/files/2024-04/3-architecture.svg)
-    
-    Monitor SaaS apps
-    
-    Maximize your SaaS application's efficiency with New Relic strategic monitoring solutions for multi-tenant environments.](https://newrelic.com/blog/how-to-relic/monitoring-multi-tenant-saas-applications)
-    
     1
     
     2
     
     3
     
-* [Docs](https://docs.newrelic.com/)
 
 Search toggle
 
@@ -400,6 +376,7 @@ Resources
 * [Blog](https://newrelic.com/blog)
 * [Customer Case Studies](https://newrelic.com/customers)
 * [Community Forum](https://forum.newrelic.com/s/)
+* [Documentation](https://docs.newrelic.com/)
 * [Press Releases](https://newrelic.com/about/newsroom)
 * [New Relic University](https://learn.newrelic.com/)
 * [Partner Program](https://newrelic.com/solutions/partners)
@@ -435,6 +412,8 @@ FAQs
 [DMCA Policy](https://newrelic.com/termsandconditions/dmca)
 
 [Privacy Policy](https://newrelic.com/termsandconditions/privacy)
+
+[Website Terms](https://newrelic.com/termsandconditions/website-terms)
 
 Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](/themes/custom/erno/assets/images/icons/misc/ccpa.svg) 
 
