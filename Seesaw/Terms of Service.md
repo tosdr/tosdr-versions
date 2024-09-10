@@ -11,9 +11,7 @@
 * [Request a Demo](https://page.seesaw.me/request-quote.html?utm_source=webnav&utm_medium=request-info-button)
 * [Log In](https://app.seesaw.me/#/login)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20379'%3E%3C/svg%3E)
@@ -48,14 +46,14 @@
         * [Awards](https://seesaw.com/awards/)
         * [Evidence](https://seesaw.com/evidence/)
     * [Success Stories](#)
-        * [Teachers](https://seesaw.com/seesaw-success/)
+        * [Educators](https://seesaw.com/seesaw-success/)
         * [Impact](https://seesaw.com/impact/)
 * [Community & Support](#)
     * [Teacher Connections](#)
         * [Professionals Community](https://seesaw.com/professionals-community/)
         * [Teacher Scrapbook](https://seesaw.com/seesaw-success/)
         * [Community Library](https://app.seesaw.me/activities)
-        * [The Learning Loop Podcast](https://seesaw.com/the-learning-loop-podcast/)
+        * [The Learning Loop Podcast](https://seesaw.com/podcast/)
     * [Professional Learning](#)
         * [Professional Development](https://seesaw.com/professional-development/)
         * [Learning Hub](https://learn.seesaw.me/)
@@ -79,7 +77,7 @@
     * [Teachers](#)
         * [Try Free!](https://app.seesaw.me/#/login?role=teacher&signup=true)
     * [Schools & Districts](#)
-        * [Tiers/Packages](https://seesaw.com/pricing/)
+        * [Pricing/Packages](https://seesaw.com/pricing-packages/)
         * [Funding Sources](https://seesaw.com/funding-alignment/)
         * [Request Information](https://page.seesaw.me/request-quote.html)
 * [Search](#)
@@ -88,9 +86,7 @@
     * [Administrator](https://web.seesaw.me/contact-us/#admins)
     * [Families](https://web.seesaw.me/contact-us/#parents)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * [Why Seesaw?](#)
@@ -119,13 +115,13 @@
         * [Awards](https://seesaw.com/awards/)
         * [Evidence](https://seesaw.com/evidence/)
     * [Success Stories](#)
-        * [Teachers](https://seesaw.com/seesaw-success/)
+        * [Educators](https://seesaw.com/seesaw-success/)
 * [Community & Support](#)
     * [Teacher Connections](#)
         * [Professionals Community](https://seesaw.com/professionals-community/)
         * [Teacher Scrapbook](https://seesaw.com/seesaw-success/)
         * [Community Library](https://app.seesaw.me/activities)
-        * [The Learning Loop Podcast](https://seesaw.com/the-learning-loop-podcast/)
+        * [The Learning Loop Podcast](https://seesaw.com/podcast/)
     * [Professional Learning](#)
         * [Learning Hub](https://learn.seesaw.me/)
         * [Webinars](https://live.seesaw.me/communities/seesaw/conferences)
@@ -141,7 +137,7 @@
     * [Teachers](#)
         * [Try Free!](https://app.seesaw.me/#/login?role=teacher&signup=true)
     * [Schools & Districts](#)
-        * [Tiers/Packages](https://seesaw.com/pricing/)
+        * [Pricing/Packages](https://seesaw.com/pricing-packages/)
         * [Funding Sources](https://seesaw.com/funding-alignment/)
         * [Request Information](https://page.seesaw.me/request-quote.html)
 * [I am a…](#)
@@ -176,7 +172,7 @@ Go to:
 * [U.S. End User Terms](https://seesaw.com/end-user-terms/)
 * [International End User Terms](https://seesaw.com/end-user-terms-international/)
 
-Welcome to the online service of Seesaw Learning, Inc. (“**Seesaw**,” “**we**,” or “**us**“). These terms of service (these “**Terms**“) explain the terms by which Customers and their Authorized Users (as such terms are defined below) may use our online and/or mobile services, website, and software provided on or in connection with the service and platform (collectively, the “**Services**“). By (a) accessing or using the Services, (b) signing an order form with Seesaw (an “**Service Order**“) specific to you or your organization, or (c) clicking a button or checking a box marked “I Agree” (or something similar), you signify that you have read, understood, and agree to be bound by these Terms and the Service Order which is hereby incorporated by reference (collectively, the “**Agreement**“), whether or not you are a registered user of our Services. Seesaw reserves the right to modify these Terms and will provide notice of material changes as described below. 
+Welcome to the online service of Seesaw Learning, Inc. (“**Seesaw**,” “**we**,” or “**us**“). These terms of service (these “**Terms**“) explain the terms by which Customers and their Authorized Users (as such terms are defined below) may use our online and/or mobile services, website, and software provided on or in connection with the service and platform (collectively, the “**Services**“). By (a) accessing or using the Services, (b) signing an order form with Seesaw (a “**Service Order**“) specific to you or your organization, or (c) clicking a button or checking a box marked “I Agree” (or something similar), you signify that you have read, understood, and agree to be bound by these Terms and the Service Order which is hereby incorporated by reference (collectively, the “**Agreement**“), whether or not you are a registered user of our Services. Seesaw reserves the right to modify these Terms and will provide notice of material changes as described below. 
 
 PLEASE READ THESE TERMS CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THESE TERMS CONTAIN A MANDATORY INDIVIDUAL ARBITRATION PROVISION IN SECTION 12.2 AND A JURY TRIAL WAIVER PROVISION IN SECTION 12.3 THAT REQUIRE THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION TO RESOLVE DISPUTES BETWEEN YOU AND US, INCLUDING ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE YOU AGREED TO THESE TERMS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU EXPRESSLY WAIVE YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS, AS WELL AS YOUR RIGHT TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION OR PROCEEDING. 
 
@@ -218,7 +214,7 @@ Only Teachers and Customers, with administrator level access, are permitted to c
 * c. Customer and Teachers will use Seesaw only for lawful purposes and each will abide by applicable laws and school and school district policies.
 * d. Customer and Teachers will treat Seesaw as an extension of the classroom and take reasonable steps to confirm that Students are using Seesaw appropriately.
 * e. Customer and Teachers will take reasonable measures to protect access to users’ data accessible through the Services.
-* g. Customer and Teachers will only invite Family Members who are authorized to access a student’s educational records to view Student journals and Customer acknowledges and agrees that it is solely responsible for the consequences of providing such Family Members access to Student journals and personal information through the Services.
+* f. Customer and Teachers will only invite Family Members who are authorized to access a student’s educational records to view Student journals and Customer acknowledges and agrees that it is solely responsible for the consequences of providing such Family Members access to Student journals and personal information through the Services.
 * g. Customer and Teachers will protect your class QR code so that access to Student journals and class journals is limited only to invited Students and Family Members.
 
 1.5 **Changes, Suspension, and Termination**. You may de-activate your User Account at any time. We may, with or without prior notice, change the Services, stop providing the Services or features of the Services to you, to any of your Authorized Users, or to users generally, or create usage limits for the Services. We may, with or without prior notice, permanently terminate or temporarily suspend your access to your or any of your Authorized Users’ User Accounts and/or the Services without liability, with or without cause, and for any or no reason, including if, in our sole determination, you or any of your Authorized Users, as applicable, violates any provision of these Terms. Upon their termination for any reason or no reason, you continue to be bound by these Terms.
@@ -347,7 +343,7 @@ Customer agrees to defend, indemnify and hold harmless us and our affiliates, li
 
 The Services may include non-public, proprietary, or confidential information of Seesaw and/or of other users (“**Confidential Information**“). Confidential Information includes any information that should reasonably be understood to be confidential given the nature of the information and the circumstances of disclosure, including non-public business, product, technology, and marketing information. You will and, you will ensure that your Authorized Users will: (a) protect and safeguard the confidentiality of all Confidential Information with at least the same degree of care as you would use protect your own highly sensitive confidential information, but in no event with less than a reasonable degree of care; (b) not use any Confidential Information for any purpose other than to exercise your rights, or to perform your obligations, under the Agreement; and (c) not disclose any Confidential Information to any person or entity, except your service providers or financial or legal advisors who/that (i) need to know the Confidential Information and (ii) are bound by non-use and non-disclosure restrictions at least as restrictive as those set forth in this Section.
 
-12\. **Governing Law, Arbitration, and Class Action/Jury Trial Waiver**
+12\. **Governing Law; Arbitration, and Class Action/Jury Trial Waiver**
 
 12.1 **Governing Law; Venue.**
 
@@ -383,7 +379,7 @@ THE SERVICES MAY CONTAIN LINKS TO THIRD-PARTY SITES, MATERIALS, AND/OR SERVICES 
 
 14.3 **Force Majeure**
 
-Neither us nor you will be liable by reason of any failure or delay in the performance of its obligations (excluding the Customer’s payment obligations) on account of events beyond the reasonable control of a party, which may include denial-of-service attacks, a failure by a third party hosting provider or utility provider, strikes (other than a strike involving a party’s own employees or contractors), shortages, riots, fires, acts of God, war, terrorism, and governmental action.
+Neither us nor you will be liable by reason of any failure or delay in the performance of its obligations (excluding the Customer’s payment obligations) on account of events beyond the reasonable control of a party, which may include denial-of-service attacks, a failure by a third party hosting provider or utility provider, strikes (other than a strike involving a party’s own employees or contractors), shortages, riots, fires, acts of God, war, terrorism, pandemic, and governmental action.
 
 14.4 **Relationship of the Parties; No Third-Party Beneficiaries**
 
@@ -432,6 +428,7 @@ Seesaw
 
 * [Contact](https://seesaw.com/contact-us/)
 * [Careers](https://boards.greenhouse.io/seesaw)
+* [Partnerships](https://seesaw.com/partnerships/)
 
 Tech Resources
 
