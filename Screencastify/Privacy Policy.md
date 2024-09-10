@@ -31,7 +31,7 @@ Privacy Policy
 
 Last updated
 
-January 1, 2023
+September 5, 2024
 
 This Privacy Policy explains how we collect, use and share your personal information and applies to everyone who uses websites and services provided by Screencastify, LLC (Screencastify, we, us, our) (the “Services”).
 
@@ -151,7 +151,7 @@ To the extent required by California law, below is a summary of the categories o
 
 ‍
 
-![](https://cdn.prod.website-files.com/639781d572293a285fb20ea2/639781d572293a5886b20f2a_california-data-privacy-table.png)
+![](https://cdn.prod.website-files.com/639781d572293a285fb20ea2/66da0c2a8e38a9f23e1fe34b_639781d572293a5886b20f2a_california-data-privacy-table.png)
 
 California residents also have the rights described below. We will not discriminate against any California resident who exercises these rights.
 
@@ -205,9 +205,9 @@ YouTube Data is stored on the Google Cloud infrastructure. We do not share your 
 
 You may disconnect your YouTube channel(s) at any time from the "Publish to YouTube" section of our application. When you do so, we permanently delete all of your YouTube Data. Additionally, you may revoke Screencastify's access to your YouTube Data via your [Google security settings page](https://security.google.com/settings/security/permissions).
 
-### ‍**Disclosure for Google Classroom Add-on**
+### ‍**Disclosure for Google Classroom and Google Workspace APIs**
 
-Screencastify's use and transfer of information received from Google Classroom APIs to any other app will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+Screencastify's use and transfer of information received from Google Classroom APIs to any other app will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. Screencastify affirms that Google Workspace APIs are not used to develop, improve, or train generalized AI and/or ML models. Screencastify’s application does not retain or use Google Workspace data to train generalized AI and/or ML models.
 
 ### **Communication**
 
