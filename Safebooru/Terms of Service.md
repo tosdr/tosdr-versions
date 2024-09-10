@@ -1,17 +1,20 @@
+   
+
 [Safebooru](https://safebooru.org/)
 -----------------------------------
 
 * [My Account](https://safebooru.org/index.php?page=account&s=home)
 * [Posts](https://safebooru.org/index.php?page=post&s=list&tags=all)
 * [Comments](https://safebooru.org/index.php?page=comment&s=list)
+* [Wiki](https://safebooru.org/index.php?page=wiki&s=list)
 * [Aliases](https://safebooru.org/index.php?page=alias&s=list)
 * [Artists](https://safebooru.org/index.php?page=artist&s=list)
 * [Tags](https://safebooru.org/index.php?page=tags&s=list)
 * [Pools](https://safebooru.org/index.php?page=pool&s=list)
 * [Forum](https://safebooru.org/index.php?page=forum&s=list)
-* [Stats](https://safebooru.org/stats/)
-* [Twitter](https://twitter.com/safebooru/)
+* [Stats](https://safebooru.org/index.php?page=stats)
 * [Help](https://safebooru.org/index.php?page=help)
+* [Twitter](https://twitter.com/safebooru/)
 *  [![](//safebooru.org/images/p.png) Patreon](https://patreon.com/booru)
 
 [You have mail](https://safebooru.org/index.php?page=gmail)
