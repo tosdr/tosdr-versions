@@ -1,8 +1,8 @@
 [Skip to content](#content)
 
-[![Site logo](https://www.merck.com/wp-content/themes/mhh-merck-mco-theme/images/site-logo.svg)](https://www.merck.com/ "Merck.com")
+[![Site logo](https://www.merck.com/wp-content/themes/cex-wpvip-mhh-merck-mco-theme/images/site-logo.svg)](https://www.merck.com/ "Merck.com")
 
- ![menu icon](https://www.merck.com/wp-content/themes/mhh-merck-mco-theme/images/search-white.svg) Search everything Close ![menu icon](https://www.merck.com/wp-content/themes/mhh-merck-mco-theme/images/burger-white.svg)Menu Close
+ ![menu icon](https://www.merck.com/wp-content/themes/cex-wpvip-mhh-merck-mco-theme/images/search-white.svg) Search everything Close ![menu icon](https://www.merck.com/wp-content/themes/cex-wpvip-mhh-merck-mco-theme/images/burger-white.svg)Menu Close
 
 [Main menu](#)
 
@@ -44,7 +44,7 @@
     * [Business development & licensing](https://www.merck.com/company-overview/business-development-licensing/)
     * [Publications](https://www.merck.com/research/publications/)
     * [Meet our scientists](https://www.merck.com/research/meet-our-scientists/)
-    * [Discovery & development](https://www.merck.com/research/discovery-development/)
+    * [How we invent](https://www.merck.com/research/discovery-development/)
     * [R&D locations](https://www.merck.com/research/rd-locations/)
     * [Clinical trials](https://www.merck.com/research/clinical-trials/)
         * [Clinical trials overview](https://www.merck.com/research/clinical-trials/)
