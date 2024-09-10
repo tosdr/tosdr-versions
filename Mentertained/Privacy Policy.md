@@ -87,7 +87,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Mentertained LLC](https://mentertained.com/privacy-policy/www.mentertained.com)  
 [www.mentertained.com](https://mentertained.com/privacy-policy/www.mentertained.com)  
-[\[email protected\]](https://mentertained.com/cdn-cgi/l/email-protection)
+[contact@mentertained.com](mailto:contact@mentertained.com)
 
 This document was last updated on April 23, 2015
 
