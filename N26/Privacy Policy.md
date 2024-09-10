@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.5., Date 09.07.2024)
+(Version 9.7., Date 02.09.2024)
 
 
 
@@ -246,13 +246,21 @@ customers and improving the customer experience.
 
 ● Direct marketing for N26 products and partnership offers, based on the legitimate interest of
 
-N26 to inform customers about updates to existing products, the launch of new products as
+N26 to send customers relevant information about updates to existing products, the launch of
 
-well as products which are offered together with partners and promotions, including
+new products as well as products which are offered together with partners and promotions,
 
-marketing or market and opinion analysis. For this purpose, we use customer segmentation.
+including market and opinion analysis. For this purpose, we use customer segmentation. In
 
-In individual cases, the processing may constitute profiling.
+individual cases, the processing for customer segmentation may constitute profiling.
+
+● Sending customers relevant information related to their usage of N26 products and services,
+
+as far as necessary to provide such information. For this purpose, we use customer
+
+segmentation. In individual cases, the processing for customer segmentation may constitute
+
+profiling.
 
 ● Improving the user experience for our Fan Page visitors on our Social Media Pages (as defined
 
@@ -646,6 +654,8 @@ interests under Art. 6 (1) f) GDPR. For more information on our legitimate inter
 
 data, please see section II. above.
 
+
+
 Wise also processes the data above as a separate data controller for their own purposes, namely satisfying
 
 their legal and regulatory obligations, such as anti-money laundering and banking sanction checks. For this
@@ -732,7 +742,11 @@ N26 Instant Savings offers you a way to earn interest on your savings. To enable
 
 open an N26 Instant Savings account, we process your name, legal address, identification document, tax
 
-identification number, tax residence, customer ID, device ID and mobile operating system.
+identification number, tax residence, customer ID, device ID and mobile operating system. We may also process
+
+your US Individual Taxpayer Identification Number (ITIN) or Social Security Number (SSN), if you are subject to
+
+tax in the US.
 
 
 
@@ -823,8 +837,6 @@ invest into cryptocurrencies, current employment status, yearly net income, roug
 total investment per year, knowledge and experience with investing; knowledge of the potential risks
 
 and obligations of stocks and derivatives.
-
-
 
 We will also process this data on behalf of Bitpanda (Art. 28 GDPR), and transmit it to Bitpanda and to Bitpanda
 
@@ -930,6 +942,8 @@ of personal data by N26 as a controller. N26 will also process your data as a co
 
 obligations applicable directly to N26, deriving from the MiFIR and the GWG, according to Art. 6 (1) c) GDPR.
 
+
+
 16\. Data processing in the framework of the Insights feature
 
 The Insights feature is available within the App. The feature sorts your transactions/payments and visualizes
@@ -1004,27 +1018,49 @@ information on the legitimate interest as a legal basis for processing data, ple
 
 
 
-19\. Data processing in the framework of informational communication
+19. Data processing in the framework of transactional \& informational
 
-We use informational emails, in-App updates and push notifications to inform you about transactions,
+communication
 
-withdrawals, and other relevant information related to your usage of our products and services. For some
+We use transactional emails, SMS, physical mail, in-app messages and push notifications to inform you about
 
-informational emails, in-App updates and push notifications we analyze your user behavior (status of signup to
+transactions, withdrawals, and other important information related to your usage of our products and services.
 
-N26, recent transactions, withdrawals, interaction with services offered such as friend referrals) to send you
+We will only send you these transactional emails, SMS, physical mail, in-app messages and push notifications if
 
-(additional) information about these processes via emails, in-App updates or push notifications. We will only
+the processing is necessary for the performance of the contract, based on Art. 6 (1) b) GDPR.
 
-send you these emails, in-App updates and push notifications based on your user behavior if the processing is
 
-necessary for the performance of the contract, based on Art. 6 (1) b) GDPR or within the scope of our legitimate
 
-interests of informing you about transactions, withdrawals, and other relevant information related to your
+We also use informational emails, in-app messages and push notifications to inform you about other relevant
 
-usage of our App, as far as necessary to provide such information, based on Art. 6 (1) f) GDPR. For more
+information related to your usage of our products and services. For some informational emails, in-app
 
-information on the legitimate interest as a legal basis for processing data, please see section II. above.
+messages and push notifications we analyze your user behavior (status of signup to N26, recent transactions,
+
+withdrawals, interaction with services offered such as friend referrals) to send you other relevant information
+
+about these processes via emails, in-app messages or push notifications. For this purpose, we use customer
+
+segmentation based on our legitimate interest according to Art. 6 (1) f) GDPR to send you information that is
+
+relevant to you. We will only send you these emails, in-app messages and push notifications within the scope of
+
+our legitimate interests of informing you about other relevant information related to your usage of our App, as
+
+far as necessary to provide such information, based on Art. 6 (1) f) GDPR. For more information on the
+
+legitimate interest as a legal basis for processing data, please see section II. above. You can object to the
+
+processing of your personal data to receive informational in-app messages in the App settings via N26 App \> My
+
+Account \> Settings \> App-Settings \> Communication-Settings \> Click on in-app messages toggle. To object to the
+
+data processing to receive informational emails, please object to the data processing via the unsubscribe link
+
+provided in all informational emails. For all other communication channels and your right to object to the
+
+processing of your data for customer segmentation, please refer to section X. 2. below.
 
 
 
@@ -1073,8 +1109,6 @@ The Deposit Protection Scheme of German Banks (Entschädigungsfonds deutscher Ba
 provide anonymised datasets that allows EdB to be updated on indemnifiable deposits for the purposes of the
 
 Deposit Guarantee Act (Einlagensicherungsgesetz).
-
-
 
 22. Data transmission in the framework of Mastercard Automatic Billing
 
@@ -1156,15 +1190,13 @@ information that you choose to share with us. Additionally, we may combine the d
 
 survey with other customer data that we process in the context of our contractual relationship with you,
 
-including your customer ID, date of account creation, age group, gender, country and city of residence. In this
+including your customer ID, date of account creation, membership tier, age group, gender, country and city of
 
-case, we will inform you accordingly in the respective information note at the beginning of the survey. We
+residence. In this case, we will inform you accordingly in the respective information note at the beginning of the
 
-process your data, as described, for analysis purposes and to improve our products, processes and service
+survey. We process your data, as described, for research and analysis purposes and to improve our products,
 
-levels, based on our legitimate interests, in accordance with Art. 6 (1) f GDPR.
-
-
+processes and service levels, based on our legitimate interests, in accordance with Art. 6 (1) f GDPR.
 
 If you decide to share your feedback with us, we may anonymise the data obtained to create research reports
 
@@ -1258,8 +1290,6 @@ applicable laws and regulatory requirements, including anti-money laundering and
 
 binding measures related to financial matters, based on Art. 6 (1) c) GDPR.
 
-
-
 26\. Data processing when using the “Share your ideas” Feature
 
 When sharing your ideas using the designated “Share your ideas” feature, we process the information that is
@@ -1293,6 +1323,8 @@ legitimate interests, in accordance with Art. 6 (1) f) GDPR.
 For more information on legitimate interests as a legal basis for processing personal data, please see section II.
 
 above.
+
+
 
 IV. Identification by means of a liveness-detection photo and
 
@@ -1348,8 +1380,6 @@ third parties to fetch personal data or any other sort of information whatsoever
 
 hyperlinks that only redirect you to the respective website of the third party when clicked.
 
-
-
 VI. Marketing Communication
 
 
@@ -1372,19 +1402,31 @@ Processing your data in order for us to send you marketing emails is based on yo
 
 Art. 6 (1) a) GDPR. In order to ensure that we only send you emails that are most relevant to you and
 
-correspond with your personal interests, we screen and analyze your user behavior by processing data related
+correspond with your personal interests, we use customer segmentation based on our legitimate interest
 
-to your recent transactions, withdrawals, deposits, payments as well as friend referrals. You can revoke your
+according to Art. 6 (1) f) GDPR to send you information that is relevant to you. For this purpose, we screen and
 
-consent to receiving marketing emails at any time. You can use the link provided at the bottom of every
+analyze your user behavior by processing data related to your recent transactions, withdrawals, deposits,
 
-marketing email to revoke your consent. Once you created your account you can also also give or revoke your
+payments as well as friend referrals. For more information on legitimate interests as a legal basis for processing
 
-consent to receive marketing emails in the App settings via N26 App \> My Account \> Settings \> App-Settings \>
+personal data, please see Section II. above.
 
-Communication-Settings \> disable respective toggle. Please see the Support Center Article for further
 
-information on Marketing Communication settings here.
+
+You can revoke your consent to receiving marketing emails at any time. You can use the link provided at the
+
+bottom of every marketing email to revoke your consent. Once you created your account you can also also give
+
+or revoke your consent to receive marketing emails in the App settings via N26 App \> My Account \> Settings \>
+
+App-Settings \> Communication-Settings \> disable respective toggle. Please see the Support Center Article for
+
+further information on Marketing Communication settings here. You can also object to the processing of your
+
+data for customer segmentation. You can find more information about your right to revoke consent and right of
+
+objection under Section X. 2.
 
 
 
@@ -1394,13 +1436,13 @@ In our marketing push notifications, we inform you about our offers related to N
 
 services, features and partnerships between N26 and third parties (discounts on third party products/services
 
-for N26 customers), and we may ask for your feedback or opinion via surveys. Push notifications are messages
+for N26 customers), referral initiatives and we may ask for your feedback or opinion via surveys. Push
 
-you receive on your phone without a specific request and regardless of whether the App is open. We will only
+notifications are messages you receive on your phone without a specific request and regardless of whether the
 
-send you marketing push notifications if you expressly consent to this as you open an account or in the settings
+App is open. We will only send you marketing push notifications if you expressly consent to this as you open an
 
-of your app.
+account or in the settings of your app.
 
 
 
@@ -1408,51 +1450,69 @@ Processing your data in order for us to send you marketing push notifications is
 
 according to Art. 6 (1) a) GDPR. In order to ensure that we only send you push notifications that are most
 
-relevant to you and correspond with your personal interests, we screen and analyze your user behavior by
+relevant to you and correspond with your personal interests, we use customer segmentation based on our
 
-processing data related to your recent transactions, withdrawals, deposits, payments as well as friend referrals.
+legitimate interest according to Art. 6 (1) f) GDPR to send you information that is relevant to you. For this
+
+purpose, we screen and analyze your user behavior by processing data related to your recent transactions,
+
+withdrawals, deposits, payments as well as friend referrals. For more information on legitimate interests as a
+
+legal basis for processing personal data, please see section II. above.
+
+
 
 You can revoke your consent to receiving marketing push notifications at any time in the settings of our N26
 
 app via N26 App \> My Account \> Settings \> App-Settings \> Communication-Settings \> disable respective toggle.
 
-Please see the Support Center Article for further information on Marketing Communication settings here.
+Please see the Support Center Article for further information on Marketing Communication settings here. You
+
+can also object to the processing of your data for customer segmentation. You can find more information about
+
+your right to revoke consent and right of objection under Section X. 2.
 
 
 
-3\. Marketing in-App updates
+3\. Marketing in-app messages
 
-In our marketing in-App updates, we inform you about our offers related to N26 financial products and
+In our marketing in-app messages, we inform you about our offers related to N26 financial products and
 
 services, features and partnerships between N26 and third parties (discounts on third party products/services
 
-for N26 customers), and we may ask for your feedback or your opinion via surveys. In-App updates are small
+for N26 customers), and we may ask for your feedback or opinion via surveys. In-app messages are small
 
 sections within the App providing you with contextual and personalized information.
 
 
 
-In order to ensure that we only send you information that is most relevant to you and corresponds with your
+Processing your data in order for us to send you marketing in-app messages is based on our legitimate interest
 
-personal interests, we screen and analyze your user behavior by processing data related to your recent
+under Art. 6 (1) f) GDPR to inform you about our offers related to N26 financial products, features and services,
 
-transactions, withdrawals, deposits, payments as well as friend referrals and use this information for marketing
+partnerships between N26 and third parties (discounts on third party products/services for N26 customers),
 
-in-App updates, based on our legitimate interest under Art. 6 (1) f) GDPR to inform you about our offers related
+and ask for your feedback or opinion via surveys. In order to ensure that we only send you information that is
 
-to N26 financial products and services, features and partnerships between N26 and third parties (discounts on
+most relevant to you and corresponds with your personal interests, we use customer segmentation. For this
 
-third party products/services for N26 customers), and ask for your feedback or your opinion via surveys. For
+purpose, we screen and analyze your user behavior by processing data related to your recent transactions,
 
-more information on the legitimate interest as a legal basis for processing data, please see section II. above.
+withdrawals, deposits, payments as well as friend referrals and use this information for marketing in-app
 
-Once you created your account you can object to the processing of your personal data to receive marketing
+messages, based on our legitimate interest according to Art. 6 (1) f) GDPR to send you information that is
 
-in-App updates in the App settings via N26 App \> My Account \> Settings \> App-Settings \>
+relevant to you. For more information on the legitimate interest as a legal basis for processing data, please see
+
+section II. above. Once you created your account you can object to the processing of your personal data to
+
+receive marketing in-App updates in the App settings via N26 App \> My Account \> Settings \> App-Settings \>
 
 Communication-Settings \> disable respective toggle. Please see the Support Center Article for further
 
-information on Marketing Communication settings here.
+information on Marketing Communication settings here. You can also object to the processing of your data for
+
+customer segmentation. You can find more information about your right of objection under Section X. 2.
 
 
 
@@ -1468,29 +1528,31 @@ and we may ask for your feedback or your opinion via surveys.
 
 In order to ensure that we only send you information that is most relevant to you and corresponds with your
 
-personal interests, we screen and analyze your user behavior by processing data related to your recent
+personal interests, we use customer segmentation. For this purpose, we screen and analyze your user behavior
 
-transactions, withdrawals, deposits, payments, as well as friend referrals and use this information for marketing
+by processing data related to your recent transactions, withdrawals, deposits, payments as well as friend
 
-information via our Customer Chat, when you are in contact with a customer service agent or N26 Neon, our
+referrals and use this information for marketing information via our Customer Chat, when you are in contact
 
-chatbot, based on our legitimate interest under Art. 6 (1) f) GDPR to inform you about offers related to N26
+with a customer service agent or N26 Neon, our chatbot, based on our legitimate interest under Art. 6 (1) f)
 
-financial products and services, features and partnerships between N26 and third parties (discounts on third
+GDPR to inform you about offers related to N26 financial products and services, features and partnerships
 
-party products/services for N26 customers), and ask for your feedback or opinion via surveys. For more
+between N26 and third parties (discounts on third party products/services for N26 customers), and ask for your
 
-information on the legitimate interest as a legal basis for processing data, please see section II. above. Once
+feedback or opinion via surveys. For more information on the legitimate interest as a legal basis for processing
 
-you created your account you can object to the processing of your personal data to receive marketing
+data, please see section II above. Once you created your account you can object to the processing of your
 
-messages when using our support chat in the App settings via N26 App \> My Account \> Settings \> App-Settings
+personal data to receive marketing messages when using our support chat in the App settings via N26 App \>
 
-\> Communication-Settings \> disable respective toggle. Please see the Support Center Article for further
+My Account \> Settings \> App-Settings \> Communication-Settings \> disable respective toggle. Please see the
 
-information on Marketing Communication settings here.
+Support Center Article for further information on Marketing Communication settings here. You can also object
 
+to the processing of your data for customer segmentation. You can find more information about your right of
 
+objection under Section X. 2.
 
 VII. N26 Social Media Pages and Online Advertising
 
@@ -1656,6 +1718,8 @@ data that Twitter collects to compile these statistics and cannot link these sta
 
 fans or individual users.
 
+
+
 In addition, Twitter uses cookies, which are stored on your device when you visit our page. This can apply even
 
 if you do not have a Twitter account or are not logged into your account while visiting our profile page. We don’t
@@ -1749,6 +1813,8 @@ processes Personal Data, including the legal basis TikTok relies on and the ways
 against TikTok, can be found in the relevant TikTok inventory privacy notice
 
 (https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE).
+
+
 
 7. Data processing by N26
 
@@ -1868,8 +1934,6 @@ deliver more relevant advertisements to them.
 
 To create custom and lookalike audiences, we use the services of our Advertising Partners below:
 
-
-
 ● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, dublin, Ireland (“Google”);
 
 ● Meta Platforms Ireland Ltd, 4 Grand Canal Square, Grand Canal Harbour, dublin 2, Ireland ("Meta");
@@ -1966,8 +2030,6 @@ You can obtain a detailed copy of the transfer mechanism and more information in
 
 request to N26 to the addresses indicated in section XII. below.
 
-
-
 IX. Data collected in the framework of phone call recordings
 
 When discussing any contractual matters (such as account related information or your transactions) with us on
@@ -2056,8 +2118,6 @@ that you can complain before the supervisory authority if you consider that the 
 
 personal data by N26 infringes the GDPR.
 
-
-
 Without prejudice to section X.2. below, please:
 
 
@@ -2096,6 +2156,12 @@ consent). The processing of your personal data remains justified until the date 
 
 
 
+You can exercise your right to revoke your consent via the specific means provided in our Web App or
+
+App, if applicable.
+
+
+
 ● Right of objection (in accordance with Art. 21 (1) GDPR)
 
 
@@ -2110,13 +2176,7 @@ legitimate reasons to continue the processing, which exceed your interests, righ
 
 when the processing is necessary to enforce, exercise or defend legal claims. The processing of your
 
-personal data remains justified until the date of your objection.
-
-
-
-You can exercise your right to revoke your consent and your right of objection, as mentioned above, either via
-
-the specific means provided in our Web App or App, if applicable. You can exercise your right of objection also
+personal data remains justified until the date of your objection. You can exercise your right of objection
 
 through our webform.
 
@@ -2136,17 +2196,9 @@ case it is connected to direct marketing purposes. In case you object to the pro
 
 direct marketing purposes, your personal data is not processed any longer for this purpose. The processing of
 
-your personal data remains justified until the date of your objection.
+your personal data remains justified until the date of your objection. You can exercise your right of objection
 
-
-
-Via the communication settings of your App, you can easily exercise your objection right by using the opt out
-
-toggles provided. You can access the settings as follows: N26 App \> My Account \> Settings \> App-Settings \>
-
-Communication-Settings \> disable respective toggle. Please see the Support Center Article for further
-
-information on Marketing Communication settings here.
+through our webform.
 
 
 
