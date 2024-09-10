@@ -14,7 +14,7 @@
 * [Competition](https://maxaccess.io/competition/)
 * [Story & Vision](https://maxaccess.io/story-vision/)
 * [Setup Instructions](https://maxaccess.io/setup/)
-* [My Account](https://maxaccess.io/login)
+* [Dashboard Login](https://maxaccess.io/login)
 
 **PRIVACY POLICY**
 ==================
@@ -139,8 +139,8 @@ We strive to provide excellent products, along with equally excellent customer s
 * [FAQ](https://maxaccess.io/faq/)
 * [Web Accessibility Regulations](https://maxaccess.io/accessibility/)
 * [Competition](https://maxaccess.io/competition/)
-* [My Account](https://maxaccess.io/login)
 * [Setup Instructions](https://maxaccess.io/setup/)
+* [Dashboard Login](https://maxaccess.io/login)
 
 * [facebook Facebook](https://www.facebook.com/digitalaccessibilityonline/)
 * [linkedin Linkedin](https://www.linkedin.com/company/onlineada/)
