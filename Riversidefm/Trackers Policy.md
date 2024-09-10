@@ -98,7 +98,7 @@ Use Cases
 
 [Podcasts](https://riverside.fm/use-cases/podcasting)[Learning & Development](https://riverside.fm/use-cases/learning-development)[Internal communications](https://riverside.fm/use-cases/internal-communications)[Webinars](https://riverside.fm/use-cases/webinar-recording-software)[Customer testimonials](https://riverside.fm/use-cases/video-testimonial-software)
 
-[Virtual conferences](https://riverside.fm/use-cases/virtual-conferences)[Live show](https://riverside.fm/use-cases/live-podcast-software)[Split-screen video](https://riverside.fm/use-cases/split-screen-video)
+[Virtual conferences](https://riverside.fm/use-cases/virtual-conferences)[Live show](https://riverside.fm/use-cases/live-podcast-software)[Split-screen video](https://riverside.fm/use-cases/split-screen-video)[Video Marketing](https://riverside.fm/use-cases/video-marketing)
 
 Resources
 
