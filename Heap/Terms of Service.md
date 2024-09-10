@@ -1,7 +1,3 @@
-Level up your CX Game at the #1 DX event
-
-[Save your spot for Contentsquare's CX Circle in New York](https://go.contentsquare.com/cxcircle-nyc?utm_campaign=701SZ000007HwDKYA0&utm_source=we[%E2%80%A6]utm_medium=organic&utm_content=banner_header&utm_term=heap)
-
 [skip to content](#main)
 
 [Loading...](https://www.heap.io/)
