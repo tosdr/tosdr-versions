@@ -2,7 +2,7 @@
 
 Bring!](https://www.getbring.com/en/home)
 
-[Home](https://www.getbring.com/en/home)[Why Bring?](https://www.getbring.com/en/why-bring)[Advertising](https://www.getbring.com/en/advertising/home)[About us](https://www.getbring.com/en/about-us)[Blog](https://www.getbring.com/en/blog)
+[Home](https://www.getbring.com/en/home)[Why Bring?](https://www.getbring.com/en/why-bring)[Advertising](https://www.getbring.com/en/advertising/home)[About us](https://www.getbring.com/en/about-us)[Careers](https://www.getbring.com/en/careers)[Blog](https://www.getbring.com/en/blog)
 
 [Get Bring!](https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fmain%3Fbring_source%3DbringWebsite%26bring_medium%3Dwebsite%26bring_campaign%3Ddownload&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring&si=https%3A%2F%2Flh3.googleusercontent.com%2FHDH9pYi8m3Rh8bBEkoIttioFTBsPNE6vmHQB3SajXTFtB0VZ31unKWttb2txE7K-S80%253Ds360-rw&utm_source=bringWebsite&utm_medium=website&utm_campaign=download&ct=bringWebsite_download&pt=1105365&ofl=https%3A%2F%2Fweb.getbring.com%3Futm_source%3DbringWebsite%26utm_medium%3Dwebsite%26utm_campaign%3Ddownload)
 
@@ -21,89 +21,96 @@ This website uses cookies to ensure you get the best experience on our website.[
 Privacy Policy
 ==============
 
-#### General information
+General information
+-------------------
 
-Bring! Labs AG („**Bring!**“) respects the protection of your personal data. In this Privacy Notice we inform you about which personal data we collect whenever you use our Bring! App ("app") and our website https://www.getbring.com ("website"), how we use and disclose your personal data and how your personal data are protected. This Privacy Notice is for your information purposes only. If and to the extent that we require your consent for the processing of your personal data, we will explicitly ask for your consent aside from this Privacy Notice.  
+Bring! Labs AG („Bring!“) respects the protection of your personal data. In this Privacy Notice we inform you about which personal data we collect whenever you use our Bring! Mobile App or our Bring! Web App (https://web.getbring.com) (hereinafter together "app") and our website https://www.getbring.com ("website"), how we use and disclose your personal data and how your personal data are protected. This Privacy Notice is for your information purposes only. If and to the extent that we require your consent for the processing of your personal data, we will explicitly ask for your consent aside from this Privacy Notice.  
   
-The data controller is**  
+The data controller is  
   
 Bring! Labs AG  
 Räffelstrasse 26  
-CH-8045 Zürich**  
+CH-8045 Zürich  
   
 If you have any questions about this Privacy Notice, you may contact us at any time by sending us an email (feedback@getbring.com).
 
-#### What is Bring! App and how can I use Bring! App?
+**What is the Bring! App and how can I use the Bring! App?**
+------------------------------------------------------------
 
 Bring! App is a digital shopping list that allows you to plan your shopping activities. With Bring! you have the possibility to create shopping lists and share them with other people. If you want to, you may obtain information about local offers and bargains directly in the app and look for promotions.  
 Bring! App also provides you with ideas and inspires you to try new recipes or read other interesting stories about food.  
-With the function "Order list online" you have the opportunity to have the items on the list delivered at your home simply and conveniently.  
+  
 If you like, you can also save your loyalty cards in Bring!
 
-#### When does Bring! collect personal data about me?
+When does Bring! collect personal data about me?
+------------------------------------------------
 
 We collect personal data about you whenever you:
 
 * Download and use our app
-* Create an app account to be able to use other app functions (e.g. joint shopping list)
-* Visit our website or create an app account via our website, and
+* Create an app account to be able to use other app functions (e.g. joint shopping list), and
 * Send us other inquiries.
 
-#### What personal data does Bring! collect about me and why?
+What personal data does Bring! collect about me and why?
+--------------------------------------------------------
 
-####   
-Collection and processing of data in connection with the Bring! App
+### Collection and processing of data in connection with the Bring! App
 
-**  
-(a) Downloading and using the Bring! App in general**  
-Whenever you access and download our Bring! App, we collect from you and process the following personal data:
+#### **(a) Downloading and using the Bring! App in general**
 
-* Information about the smartphone and Internet connection you used, such as for example device IDs ("Device tokens") and IP addresses
-* Advertising ID (e.g. IDFA, Google Advertising ID)
+**‍**Whenever you access and download our Bring! App, we collect from you and process the following personal data:
+
+* Information about the smartphone and internet connection you used, such as for example device IDs ("Device tokens") and IP addresses
 * Recipes, offers and items which interest you and/or which you added to your shopping list
-* Country and language  
+* Country and language.  
     
 
-**(b) Creating an app account and using other functions in the Bring! App**  
+#### **(b) Creating an app account and using other functions in the Bring! App**
+
 Whenever you create an app account and use any of the other functions that thereby become available to you, we collect and process the following personal data:
 
-* Information about the smartphone and Internet connection you used, such as for example device IDs ("Device tokens") and IP addresses
+* Information about the smartphone and internet connection you used, such as for example device IDs ("Device tokens") and IP addresses
 * Information about your user account, i.e. user name, user ID and - in coded form - the password to your app account as well as your user default settings in the app
-* E-Email address
+* E-mail address
 * Photo (optional)
 * Country and language
 * Recipes, offers and items which interest you and/or which you added to your shopping list
-* Social Account information  
+* Social account information  
     
 
-**(c) Measuring the success of advertising campaigns**  
+#### **(c) Measuring the success of advertising campaigns**
+
 The measurement of success of advertising campaigns is based on our legitimate interest in understanding how campaigns and advertisements can be used to improve the advertisements.  
   
-For this purpose we use the so-called "Advertising Identifier" (Ad-ID). This is a unique, but non-personalised and non-permanent identification number for a specific device provided by the operating system of the respective mobile end device. The data collected via the Ad-ID is not linked to other device-related information. We use the Ad-ID only to provide you with personalized advertising and to evaluate your use of our advertisements. If you enable the 'no ad tracking' option in your settings (for iOS under "Privacy/Advertising" the option "no ad tracking" or for Android under "Settings/Account/Google/Advertisements"), we can only take the following measures: Measuring your interaction with banners by counting the number of ads of a banner without clicking on it, click rate, identification of unique use, security measures, fraud prevention and error correction. You can reset your Ad-ID anytime in the device settings ("Reset Ad-ID"), then a new Ad-ID is created with no link to the previously collected data.  
-**  
-(d) Optional functions in the Bring! App  
-‍  
-1\. Offers**  
-By using our Bring! App you have the opportunity to view offers and promotions of various providers (e.g. supermarkets, discounters, drugstores). If you would like to have access to local offers and promotions and separately agree to share your location data with us, your personal data is processed in order to select suitable offers for you and show you shopping opportunities offered by local providers at or near your current location  
-  
-You can withdraw your separate consent at any time by clicking on one of the following opt-out links applicable to you  
-  
-If you are an app user in Switzerland and/or an app user with Switzerland as the default setting on the device on which you stored and use our app, you can opt-out at any time via [this link](https://www.kaufda.de/webapp/opt-out?partner=de_bring_production)  
-If you are an app user in Germany or France, you can opt-out at any time via this [link](https://www.kaufda.de/webapp/opt-out?partner=de_bring_production). lease note that the functionality "Offers" is generally available to you in an opt-out mode, but in that case we will not be able to show you actual offers in your proximity.  
-  
-**2\. Loyalty cards**  
-You can also use the function to store your loyalty cards (e.g. Payback, Deutschland Card, Migros Cumulus, Cooper Supercard) in your profile. If you want to use this function, we need information about the customer card type, the individual customer number of your card provider and the barcode scanned by you using our integrated barcode scanner. We use the aforementioned data to provide you with this selected service, so you always have your customer card electronically at hand.**  
-  
-3\. Chefkoch**  
-Bring! has a new partner: Chefkoch - Europe's largest food platform. There you can find and collect recipes for every occasion and transfer the ingredients directly from the web or the Chefkoch App to our shopping lists. You can then find the recipes in the inspiration area of your Bring! app.  
-  
-If you are a Chefkoch SmartList user, we offer migration of your shopping lists. Follow the instructions in your SmartList app. You agree that Chefkoch will send us your username and email address in encrypted form. This information is used once to ensure that the lists are imported correctly. For more information about the features of Chefkoch and about their privacy policy, please visit [https://www.chefkoch.de/magazin/datenschutz.html](https://www.chefkoch.de/magazin/datenschutz.html).
+For this purpose we use User-ID, which allows us the following measures: Measuring your interaction with banners by counting the number of ads of a banner without clicking on it, click rate, identification of unique use, security measures, fraud prevention and error correction.
 
-#### Collection and processing of data in connection with our website
+#### ‍**(d) Optional functions in the Bring! App**
 
+##### **1\. Offers**
+
+By using our Bring! App you have the opportunity to view offers and promotions of various providers (e.g. supermarkets, discounters, drugstores). If you would like to have access to local offers and promotions and separately agree to share your location data with us, your personal data is processed in order to select suitable offers for you and show you shopping opportunities offered by local providers at or near your current location.  
   
-**(a) Data collected and stored automatically when you visit our website**  
-Whenever you visit our website, the data transmitted by your browser are collected and stored automatically. These data are stored in the log files of the server. The following data are involved:
+You can restrict or completely disable the transmission of your location data to Bring! at any time in the settings of your smartphone.   
+  
+**To adjust the transmission of location data in iOS**‍
+
+Go to Settings > Privacy > Location Services. Here you can turn off location sharing altogether, or allow or prohibit it for individual apps.
+
+**To adjust the transmission of location data in Android OS**
+
+Open "Settings" and tap "Location". Here you can disable location services. To adjust the permissions for individual apps, select "App permissions" and then "Location". Here you can control which apps can access your location data.  
+  
+Please note that the functionality "Offers" is generally available to you in an opt-out mode, but in that case we will not be able to show you actual offers in your proximity.
+
+##### ‍**2\. Loyalty cards** ‍
+
+You can also use the function to store your loyalty cards (e.g. Payback, Deutschland Card, Migros Cumulus, Cooper Supercard) in your profile. If you want to use this function, we need information about the customer card type, the individual customer number of your card provider and the barcode scanned by you using our integrated barcode scanner. We use the aforementioned data to provide you with this selected service, so you always have your customer card electronically at hand.
+
+### Collection and processing of data in connection with our website
+
+#### **(a) Data collected and stored automatically when you visit our website**
+
+Whenever you visit our website (getbring.com), the data transmitted by your browser are collected and stored automatically. These data are stored in the log files of the server. The following data are involved:
 
 * Information about the type of browser and the browser version used by you
 * Operating system of the user
@@ -112,18 +119,20 @@ Whenever you visit our website, the data transmitted by your browser are collect
 
 We do not link these data to specific users but store them separately from other personal data.
 
-**(b) Creating an app account and inquiries addressed to us**  
-You can also create an app account via our website and send us your inquiries at any time. In this case we collect and process the following personal data:
+#### **(b) Creating an app account and inquiries addressed to us**
+
+You can also create an app account and send us your inquiries at any time. In this case we collect and process the following personal data:
 
 * Browser information
 * Name
-* Email address
+* E-mail address
 * Photo (optional)
 * Country and language
 * Recipes, offers and items which interest you and/or which you added to your shopping list  
     
 
-#### What do we do with your personal data?
+What do we do with your personal data?
+--------------------------------------
 
 We use the personal data mentioned above for the following purposes:
 
@@ -131,13 +140,14 @@ We use the personal data mentioned above for the following purposes:
 * to improve our app and our website based on user habits
 * to allow you to use certain services in our app and on our website
 * for purposes of analysis and performance in order to improve your experience with our app continuously
-* if available to you - to inform you as registered user of our app by email about new recipes and trends and to keep you up to date on news about our app. You may withdraw your consent to receive such information at any time by sending us an email at feedback@getbring.com or by clicking on the link in the respective email;
+* if available to you - to inform you as registered user of our app by email about new recipes and trends and to keep you up to date on news about our app. You may withdraw your consent to receive such information at any time by sending us an email at feedback@getbring.com or by clicking on the link in the respective email
 * to notify you of suitable recipes, offers and promotions that might interest you or to point out to you shopping opportunities in your proximity
-* to provide you with relevant advertising and retargeting on our app, website, and third party sites
-* to answer your inquiries  
-    ‍
+* to provide you with interesting insights into your shopping behaviour on a regular basis (once a month at the most) in the app or via email (for example: your most frequently purchased items or your use of shopping lists compared to other list recipients)
+* to provide you with relevant advertising and retargeting on our app and website
+* to answer your inquiries
 
-#### Legal basis for data processing
+Legal basis for data processing
+-------------------------------
 
 The legal basis for the collection and processing of data described above depends on the personal data in question and the specific context in which we collect them.  
   
@@ -149,57 +159,107 @@ The data that are collected automatically when you use our website are processed
   
 If you have questions about the legal basis for processing your personal data or if you need further information, please get in touch with us using our contact data under the heading "[How to contact us](https://getbring.com/en/legal/privacy.html#kontakt)".
 
-#### Who does Bring! disclose my personal data to?
+Who does Bring! disclose my personal data to?
+---------------------------------------------
 
-We disclose your personal data to the following third parties:**  
+We disclose your personal data to the following third parties:**‍**
+
+### **To our service providers who process personal data on our behalf for the following purposes**
+
+**‍**We call on other service providers to process your personal data on our behalf in order to enable us to offer and make available to you our app and our app functions in accordance with the afore-mentioned purposes, to better understand your interests and to optimize our offers in our app and on our website.  
   
-To our service providers who process personal data on our behalf for the following purposes**  
-We call on other service providers to process your personal data on our behalf in order to enable us to offer and make available to you our app and our app functions in accordance with the afore-mentioned purposes, to better understand your interests and to optimize our offers in our app and on our website.  
-  
-Some service providers use cookies or similar tracking technologies in order to provide you with promotions or other contents on the basis of your browser activities and interests. You may object to the use of cookies or other tracking technologies by managing your browser settings accordingly. Please read the technical information of your browser or mobile device to find the instructions for deleting and deactivating cookies and other tracking tools.  
-  
-**To our partners**  
-If you decide to use certain services and functionalities in our app that include a transfer and process of your personal data to a third party partner and requires your separate consent, we will explicitly ask for your consent aside from this Privacy Notice.  
-By agreeing to the processing of your data, you confirm that you comply to the terms & conditions according to Art. 8 GDPR.**  
-  
-To the competent enforcement agencies, supervisory authorities, government agencies, courts or other third parties,**  
+Some service providers use cookies or similar tracking technologies in order to provide you with promotions or other contents on the basis of your browser activities and interests. You may object to the use of cookies or other tracking technologies by managing your browser settings accordingly. Please read the technical information of your browser or mobile device to find the instructions for deleting and deactivating cookies and other tracking/recording tools.
+
+### ‍**To our partners**
+
+If you decide to use certain services and functionalities in our app that include a transfer and process of your personal data to a third party partner and requires your separate consent, we will explicitly ask for your consent aside from this Privacy Notice.By agreeing to the processing of your data, you confirm that you comply to the terms & conditions according to Art. 8 GDPR.**‍**
+
+### **To the competent enforcement agencies, supervisory authorities, government agencies, courts or other third parties,**
+
 if disclosure is necessary (i) based on applicable laws or regulations, (ii) for the exercise, protection or defense of our rights or (iii) for the protection of your material interests or the material interests of another person.
 
-#### International data transfer
+International data transfer
+---------------------------
 
 Our servers are located in the USA. As described in Point 7, Bring! discloses your personal data to service providers and partners which might be located in areas outside of the European Economic Area (EEA). In case your personal data are transferred and processed outside of the EEA, we possess or have secured suitable guarantees for an adequate data protection level (e.g. Privacy Shield certification; execution of standard agreement clauses). If you have further questions in this respect or if you wish to receive a copy of these guarantees, [please contact us at any time](https://getbring.com/en/legal/privacy.html#kontakt).
 
-**Cookies**  
-If you use our website, we store certain information on the hard disk of your computer by means of so-called cookies (small text or image files). Cookies permit us to adapt the website to your interests and needs. For example a cookie may contain information about the pages you visited, allowing us to adapt the website accordingly for your next visit. Cookies do not give us access to other areas of your computer.  
+**Cookies**
+-----------
+
+If you use our webservices, we store certain information on the hard disk of your computer by means of so-called cookies (small text or image files). Cookies permit us to adapt the webservices to your interests and needs. For example a cookie may contain information about the pages you visited, allowing us to adapt the webservices accordingly for your next visit. Cookies do not give us access to other areas of your computer.  
   
 You can prevent your hard disk from storing cookies by deactivating the storage of cookies in the default settings of your browser. Alternatively you may deactivate the cookies of third-party providers in your browser. This might limit the functionality of our offers.
 
-**Google Analytics**  
+**Amazon Web Services** 
+------------------------
+
+We use Amazon Web Services, provided by Amazon Web Services Inc, 410 Terry Avenue North, Seattle WA 98109, USA ("AWS"), to host, control and analyse our services and the app.    
+  
+When you use our app or visit our website, your personal data is processed on AWS servers.  
+  
+For more information about how AWS handles your data, please see the AWS privacy policy: [https://aws.amazon.com/privacy/?nc1=h\_ls](https://aws.amazon.com/privacy/?nc1=h_ls).
+
+**Analytics Services**
+----------------------
+
+### **Google Analytics**
+
 Our website uses Google Analytics, a web analysis service offered by Google, Inc. ("Google"). Google Analytics uses so-called "cookies", text files stored on your computer which allow an analysis of your use of the website. The information about your use of the website generated by Google Analytics cookies is normally transferred to and stored on a Google server in the USA. On this website Google Analytics was expanded by the code "gat.\_anonymizeIp();" in order to ensure the anonymized collection of IP addresses (so-called IP masking). Thus your IP address is abbreviated beforehand by Google within the EU Member States or other Member States or the European Economic Area.  
   
 The complete IP address is transferred to a Google server in the USA only in rare cases and then abbreviated there. Google will use this information in order to analyze your use of the website, to compile reports about the website activities for the website operators and to provide additional services related to your website and Internet use.  
   
-The IP address transferred by your browser in the context of Google Analytics is not linked to any other data stored by Google. You can prevent the collection of the data generated by Google Analytics cookies which refer to your use of the website (including your IP address) and the processing of these data by Google by downloading and installing the browser plug-in available under the following link: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en)  
+The IP address transferred by your browser in the context of Google Analytics is not linked to any other data stored by Google. You can prevent the collection of the data generated by Google Analytics cookies which refer to your use of the website (including your IP address) and the processing of these data by Google by downloading and installing the browser plug-in available under the following link: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en).  
   
-You can also prevent the data collection by Google Analytics by clicking on the link below. It installs an opt-out cookie which will prevent the future collection of your data when visiting this website: [deactivate Google Analytics](http://javascript:gaOptout())  
+You can also prevent the data collection by Google Analytics by clicking on the link below. It installs an opt-out cookie which will prevent the future collection of your data when visiting this website: [deactivate Google Analytics](http://about:blank).  
   
-You will find more information about the conditions of use and about data protection under [http://www.google.com/analytics/terms/en.html](http://www.google.com/analytics/terms/en.html) bzw. unter [https://www.google.com/intl/en/policies/](https://www.google.eom/intl/en/policies/).
+You will find more information about the conditions of use and about data protection under [http://www.google.com/analytics/terms/en.html](http://www.google.com/analytics/terms/en.html) bzw. unter [https://www.google.com/intl/en/policies/](https://www.google.eom/intl/en/policies/).**‍**
 
-**Hubspot CRM**  
-We use also the integrated software solution Hubspot CRM on our website for our online marketing activities (e.g. getting in touch with you via email). For this purpose Hubspot uses cookies, a small text file which is stored on your computer when you visit our website, in order to be able to recognize you on the occasion of subsequent visits. Hubspot is a US software company with a subsidiary in Ireland (2nd Floor 30 North Wall Quay, Dublin 1, Ireland).  
+### **Firebase Analytics**
+
+We use Firebase Analytics from Google Inc. to analyse user behaviour. Firebase Analytics allows us to analyse screen views, button clicks, in-app purchases and the effectiveness of advertising. It also allows us to determine which features within our application are used frequently or infrequently and to develop the features accordingly.  
   
-You will find more information about the data protection provisions of Hubspot [here](https://legal.hubspot.com/privacy-policy?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968760000&usg=AFQjCNGKto0yGsoV_Zr5jPHNuqymoUwfBg).  
-You will find more information of Hubspot about the EU data protection regulations here [here.](https://legal.hubspot.com/data-privacy?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968762000&usg=AFQjCNF9USZyhxeD7zFOaMdXex5FV4xLrQ)  
+For these purposes, Firebase Analytics stores the number and duration of sessions, operating systems, device models, region, app runs, app updates or in-app purchases. More information about Firebase Analytics privacy and security can be found at [https://firebase.google.com/support/privacy?hl=en](https://firebase.google.com/support/privacy?hl=en). 
+
+### **Appsflyer**
+
+To analyse our app, we use Appsflyer from the analytics service AppsFlyer Ltd, 85 Medinat Hayehudim St. Herzliya, Israel ("Appsflyer"). For this purpose, we provide Appsflyer with information about downloads and installations of the app, as well as information about certain "in-app events" such as purchases made in the app. The data sent to Appsflyer includes information such as IP address (anonymised), browser data, platform, SDK version, anonymised user ID, time key, developer key, application version and device identifiers (such as Advertiser Identifier), Google Advertising ID, device model, device manufacturer, operating system version, in-app events and network status (WLAN/3G).  
+  
+You may object to the collection and storage of your data at any time by unsubscribing at https://www.appsflyer.com/optout.  
+  
+More information about Appsflyer's privacy policy can be found on the Appsflyer website at [https://www.appsflyer.com/legal/privacy-policy/](https://www.appsflyer.com/legal/privacy-policy/). 
+
+### **Offerista Tracking Tool**
+
+We use Offerista tracking tools from the service provider Offerista Group GmbH, Waldemarstrasse 33 a, 10999 Berlin, Germany ("Offerista") to analyse and evaluate the functions of the app and to design our services according to your needs and individual requirements.   
+  
+For these purposes, Offerista stores the actions performed, the session ID, the time, the location and the version of the app.  
+  
+For more information on how Offerista handles your data, please click [here](https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html).
+
+### **Hubspot CRM**
+
+For our online marketing activities (e.g. email contact) we also use the integrated software solution Hubspot CRM from the US software company Hubspot, based in 2nd Floor 30 North Wall Quay, Dublin 1, Ireland ("Hubspot") on our website. For this purpose Hubspot uses cookies, a small text file which is stored on your computer when you visit our website, in order to be able to recognize you on the occasion of subsequent visits. You will find more information about the data protection provisions of Hubspot [here](https://legal.hubspot.com/privacy-policy?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968760000&usg=AFQjCNGKto0yGsoV_Zr5jPHNuqymoUwfBg).  
+  
+You will find more information of Hubspot about the EU data protection regulations here [here](https://legal.hubspot.com/data-privacy?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968762000&usg=AFQjCNF9USZyhxeD7zFOaMdXex5FV4xLrQ).  
+  
 You will find more information about the cookies used by Hubspot [here](https://knowledge.hubspot.com/articles/kcs_article/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968757000&usg=AFQjCNF7Au1I8Ubs6N2h2KsR44eAaK_t3Q) and [here](https://knowledge.hubspot.com/articles/kcs_article/account/hubspot-cookie-security-and-privacy?__hstc%3D230861184.4a9ce6ceb5065f6e4b9b2b677babe42c.1525884747175.1525884747175.1525884747175.1%26__hssc%3D230861184.1.1525884747175%26__hsfp%3D1087090675&sa=D&ust=1529010968759000&usg=AFQjCNEpWqe9q_wD_1z9wagGZj5uu9cbkw).  
+  
 If you in general object to the collection of your data by Hubspot, you may at any time prevent the storage of cookies with your browser settings.
 
-#### Data storage, duration of storage
+**Performance measurement for advertisers**
+-------------------------------------------
+
+Our campaigns may include external URLs from our partners that are used to measure, for example, how many times a campaign has been clicked. This information is passed on to the relevant advertiser. The IP address is only processed in a shortened and therefore anonymous form so that no personal reference can be made.
+
+Data storage, duration of storage
+---------------------------------
 
 We store your personal data as long as is necessary for the purpose for which your personal data were collected and processed (for example as long as you use the app and are a registered user or in order to answer an inquiry sent by you by email).  
   
 If we have no longer any legitimate business need for the processing of your personal data, we will delete your personal data. Statutory retention obligations remain unaffected.
 
-#### Your rights
+Your rights
+-----------
 
 If you want information about your personal data, access your personal data or have them rectified, updated or deleted, you may get in touch with us at any time using the contact information indicated under the heading "[How to contact us](https://www.getbring.com/de/help-center#contact)".  
   
@@ -211,7 +271,8 @@ You may also revoke your consent at any time if we collect and process your pers
   
 You have the right to file a complaint about the collection and use of your personal data with any data protection authority. For further information please contact your local data protection authority. (Contact information of the data protection authorities in the European Economic Area, in Switzerland and in some non-European countries (e.g. the USA and Canada) can be found [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)).
 
-#### How to contact us
+How to contact us
+-----------------
 
 If you have questions or concerns regarding the use of your personal data, you may raise them at any time by contacting us at [feedback@getbring.com](mailto:mailto:feedback@getbring.com).  
 
