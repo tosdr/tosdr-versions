@@ -1,6 +1,6 @@
       
 
-[![Pearltrees](http://cdn2.pearltrees.com/images/html/blueLogo.png?20240715-10h00-28782 "Pearltrees")](http://cdn2.pearltrees.com/)
+[![Pearltrees](http://cdn2.pearltrees.com/images/html/blueLogo.png?20240905-16h54-22896 "Pearltrees")](http://cdn2.pearltrees.com/)
 
 Privacy Policy  
 \-  
@@ -9,7 +9,7 @@ Pearltrees
 
 Please carefully read this privacy policy in order to understand how your personal data is gathered, processed and stored when you use the Platform accessible at the following address: http://www.pearltrees.com (the “**Platform**”).
 
-For the purposes of this privacy policy, the data controller in charge of the gathering your personal data is Pearltrees (hereinafter “**Pearltrees**”, “**we**”, “**our**” and “**us**”)), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint Germain, 75006 Paris, France.
+For the purposes of this privacy policy, the data controller in charge of the gathering your personal data is Pearltrees (hereinafter “**Pearltrees**”, “**we**”, “**our**” and “**us**”)), a French Joint Stock Company with a share capital of 685 442,20 euros registered in Paris, France under no. 504 599 267 with a registered address at 129 Boulevard Saint-Germain, 75006 Paris, France.
 
 Pearltrees can be contacted on its e-mail address: [privacy@pearltrees.com](mailto:privacy@pearltrees.com).
 
@@ -132,7 +132,7 @@ You have the right to access, object to, rectify, request portability, erase and
 
 These rights may be exercised immediately upon receipt of a written request sent to:
 
-\-          Broceliand, 129 boulevard Saint Germain, 75006 Paris, France
+\-          Broceliand, 129 boulevard Saint-Germain, 75006 Paris, France
 
 \-          Or by electronic mail to [privacy@pearltrees.com](mailto:privacy@pearltrees.com)
 
