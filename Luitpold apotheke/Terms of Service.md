@@ -230,7 +230,7 @@ Gerne können Sie sich unsere allgemeinen Geschäftsbedingungen auch [hier](http
 
 * [SONDERANGEBOTE](https://www.medikamente-per-klick.de/sonderangebote)
 * [AKTIONSARTIKEL](https://www.medikamente-per-klick.de/aktionsartikel)
-* [Spar-Abo](https://www.medikamente-per-klick.de/sparabo)
+* [Spar-Abo](https://www.medikamente-per-klick.de/spar-abo)
 * [WIR EMPFEHLEN](https://www.medikamente-per-klick.de/wir-empfehlen)
 
 Kategorien durchsuchen
@@ -241,22 +241,22 @@ Kategorien durchsuchen
 * [Allergien](https://www.medikamente-per-klick.de/allergien)
 * [Alles für das Kind](https://www.medikamente-per-klick.de/alles-fuer-das-kind)
 * [Alles für Sie & Ihn](https://www.medikamente-per-klick.de/alles-fuer-sie-und-ihn)
-* [Auge, Nase & Ohr](https://www.medikamente-per-klick.de/auge-nase-ohr)
+* [Auge, Nase & Ohr](https://www.medikamente-per-klick.de/auge-nase-und-ohr)
 * [Beruhigung & Schlaf](https://www.medikamente-per-klick.de/beruhigung-und-schlaf)
 * [Blase, Niere & Prostata](https://www.medikamente-per-klick.de/blase-niere-und-prostata)
 * [Blutdruck](https://www.medikamente-per-klick.de/blutdruck)
-* [Corona Schnelltests](https://www.medikamente-per-klick.de/corona-schnelltests)
+* [Corona Schnelltests](https://www.medikamente-per-klick.de/wir-empfehlen/corona-schnelltests)
 * [Count Price klick](https://www.medikamente-per-klick.de/count-price-klick)
 * [Depressionen & Angstzustände](https://www.medikamente-per-klick.de/depressionen-und-angstzustaende)
-* [Dermatologische Hautpflege](https://www.medikamente-per-klick.de/dermatologische-hautpflege)
+* [Dermatologische Hautpflege](https://www.medikamente-per-klick.de/kosmetik-und-koerperpflege/dermatologische-hautpflege)
 * [Diabetes](https://www.medikamente-per-klick.de/diabetes)
 * [Entgiften-Entschlacken-Entsäuern](https://www.medikamente-per-klick.de/entgiften-entschlacken-entsaeuern)
 * [Erkältung](https://www.medikamente-per-klick.de/erkaeltung)
 * [Ernährung & Gewicht](https://www.medikamente-per-klick.de/ernaehrung-und-gewicht)
 * [Familienplanung](https://www.medikamente-per-klick.de/familienplanung)
-* [Gedächtnis & Konzentration](https://www.medikamente-per-klick.de/gedaechtnis-und-konzentration)
+* [Gedächtnis & Konzentration](https://www.medikamente-per-klick.de/gedaechtnis-und-amp-konzentration)
 * [Gesundheit & Wellness](https://www.medikamente-per-klick.de/gesundheit-und-wellness)
-* [Haus- & Reiseapotheke](https://www.medikamente-per-klick.de/reiseapotheke)
+* [Haus- & Reiseapotheke](https://www.medikamente-per-klick.de/haus-und-reiseapotheke)
 * [Haut, Haare & Nägel](https://www.medikamente-per-klick.de/haut-haare-und-naegel)
 * [Herz, Kreislauf & Nieren](https://www.medikamente-per-klick.de/herz-kreislauf-und-nieren)
 * [Homöopathie & Natur](https://www.medikamente-per-klick.de/homoeopathie-und-natur)
@@ -270,6 +270,7 @@ Kategorien durchsuchen
 * [Pflegebedarf](https://www.medikamente-per-klick.de/pflegebedarf)
 * [Raucherentwöhnung](https://www.medikamente-per-klick.de/raucherentwoehnung)
 * [Schmerzen](https://www.medikamente-per-klick.de/schmerzen)
+* [Schnelltests, Testkits](https://www.medikamente-per-klick.de/schnelltests-testkits)
 * [Sport & Fitness](https://www.medikamente-per-klick.de/sport-und-fitness)
 * [Tiergesundheit](https://www.medikamente-per-klick.de/tiergesundheit)
 * [Vegan](https://www.medikamente-per-klick.de/vegan)
@@ -288,7 +289,7 @@ Meist verkaufte Produkte
     
 * [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
     
-    2,36 €\*
+    2,15 €\*
     
      1
     
@@ -298,15 +299,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
+* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
-    6,16 €\*
+    1,57 €\*
     
      1
     
-* [Voltaren Schmerzgel forte 23,2 mg/g - Gel mit Diclofenac](https://www.medikamente-per-klick.de/voltaren-schmerzgel-forte-23-2-mg-g-180g-11240397)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    21,33 €\*
+    6,16 €\*
     
      1
     
@@ -333,25 +334,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Vitasprint B12 Trinkfläschchen, für mehr Energie 30St.](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/01853561_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)
+[VIGANTOLVIT 2000 I.E. Vitamin D3 Weichgummis - 2x60St - Doppelpack](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)  
+**Sonderpreis**  
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/81011793_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)
 
 UVP2:
 
-44,99 €\*
+25,98 €\*
 
 Ihr Preis:
 
-39,51 €\*
+15,20 €\*
 
 Sie sparen:
 
-5,48 € \-12%
+10,78 € \-41%
 
-2024-08-05 08:00:00
+2024-09-12 13:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=01853561&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=81011793&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -394,6 +395,7 @@ Auszeichnung von n-tv & DISQ
 Service & Info
 
 * [![Sebamed](/images/generic_attachments/attachments/medikamenteperklick/Sebamed_Medi_per_Klick_Duschen_190x60_70012340_19_L01.jpg "Sebamed")](https://www.medikamente-per-klick.de/search/sebamed%20dusche)
+* [![Espumisan Themenshop](/images/generic_attachments/attachments/medikamenteperklick/espumisan_190x60 px.jpg "Espumisan Themenshop")](https://www.medikamente-per-klick.de/themenshops/blaehungen-und-voellegefuehl)
 * [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
 * [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
@@ -642,4 +644,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=exaotgsiwzpngfkfosbpwmgllczzrdrf&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=jeyeojnrhdhwugbprsgxndbpovbtkzzv&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
