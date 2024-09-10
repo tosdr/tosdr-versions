@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [How to get an NPI endpoint with Hush™ Secure Forms](https://blog.hushmail.com/blog/npi-endpoint/)
+#### [Incidental Disclosures and HIPAA: A Guide for Small Practices](https://blog.hushmail.com/blog/incidental-disclosures-hipaa/)
 
-Published on July 22, 2024
+Published on August 22, 2024
 
-Confused about endpoints in your NPI application? Learn what they are and how to quickly get one using Hush™ Secure Forms. [Read more.](https://blog.hushmail.com/blog/npi-endpoint/)
+This guide clarifies HIPAA incidental disclosures for small healthcare practices and outlines actionable tips to help prevent incidental disclosures. [Read more.](https://blog.hushmail.com/blog/incidental-disclosures-hipaa/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=702B5429667BAE69661AB0F329FD6401)
+![](https://hushforms.com/visitorid?visitorid=AC3C04A0146D4F1ABE0E6F9D0910DB78)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
