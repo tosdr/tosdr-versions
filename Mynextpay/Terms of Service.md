@@ -1,18 +1,18 @@
 * [+1 844-882-7435](tel:+1%20844-882-7435)
-* [HOME](https://mynextpay.ca/)
-* [BLOG](https://mynextpay.ca/blog/)
-* [FRANÇAIS](https://mynextpay.ca/fr)
+* [Home](https://mynextpay.ca/)
+* [Blog](https://mynextpay.ca/blog/)
+* [Français](https://mynextpay.ca/fr)
 
-[![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1)](https://mynextpay.ca/)
+[![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png)](https://mynextpay.ca/)
 
-* [SERVICES](#)
-    * [PAYDAY LOANS](https://mynextpay.ca/payday-loans/)
-    * [INSTALLMENT LOANS](https://mynextpay.ca/installment-loans-canada/)
-    * [CASH ADVANCE](https://mynextpay.ca/cash-advance/)
-    * [CREDIT CONSOLIDATION](https://mynextpay.ca/credit-consolidation/)
-    * [REBUILD CREDIT](https://mynextpay.ca/rebuild-credit/)
-    * [SHORT TERM LOAN](https://mynextpay.ca/short-term-loan/)
-    * [PERSONAL LOAN](https://mynextpay.ca/personal-loan-with-bad-credit/)
+* [Credit Know-how](#)
+    * [Payday Loans](https://mynextpay.ca/payday-loans/)
+    * [Installment Loans](https://mynextpay.ca/installment-loans-canada/)
+    * [Cash Advance](https://mynextpay.ca/cash-advance/)
+    * [Credit Consolidation](https://mynextpay.ca/credit-consolidation/)
+    * [Rebuild Credit](https://mynextpay.ca/rebuild-credit/)
+    * [Short Term Loan](https://mynextpay.ca/short-term-loan/)
+    * [Personal Loan](https://mynextpay.ca/personal-loan-with-bad-credit/)
     * [INSTANT LOAN WITH NO REFUSAL](https://mynextpay.ca/instant-loan-with-no-refusal/)
     * [NO CREDIT CHECK LOANS](https://mynextpay.ca/no-credit-check-loans/)
     * [FAST CASH LOAN](https://mynextpay.ca/fast-cash-loan/)
@@ -21,9 +21,9 @@
     * [ONLINE LOANS](https://mynextpay.ca/online-loans-canada/)
     * [INSTANT LOAN WITHOUT DOCUMENTS](https://mynextpay.ca/instant-loan-without-documents/)
     * [E-TRANSFER PAYDAY LOANS](https://mynextpay.ca/e-transfer-payday-loans-canada/)
-* [ABOUT US](https://mynextpay.ca/about-us/)
-* [CONTACT US](https://mynextpay.ca/contact/)
-* [APPLY NOW!](https://mynextpay.ca/apply-now/)
+* [About Us](https://mynextpay.ca/about-us/)
+* [Contact Us](https://mynextpay.ca/contact/)
+* [Apply Now!](https://mynextpay.ca/apply-now/)
 
 Select Page
 
@@ -46,15 +46,15 @@ Documentation – You agree that electronic mail, electronic forms, records, pho
 
 Electronic Signature/Verbal Consent – By agreeing to this application, you understand and agree to all terms and conditions of this Agreement and by submitting the online application by Internet or by phone, you are applying for a micro loan and certify that information provided by you is true and correct under penalty of perjury. You agree that upon submission of your electronic signature or verbal consent by phone, you are not presently involved in, or contemplating bankruptcy now or in the future. You authorize us to verify the information in this application and hereby give the Mynextpay, consent to obtain information on you from a consumer reporting agency or other various means available. You understand that Mynextpay, reserves the right to decline an applicant at any time, with cause determined by judgment of risk, upon completion of due diligence of applicant. In order to process this application, you understand verification of the information you have provided is necessary, including, but not limited to, employment and bank account verification. You accept personal responsibility for safeguarding any PIN or CUSTOMER NUMBER that might be assigned to you.
 
-![Mynextpay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Mynextpay")
+![Mynextpay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo_mynextpays")
 
-![Mynextpay](https://b3252150.smushcdn.com/3252150/wp-content/uploads/2020/12/mynextpay-logoret2.png?lossy=1&strip=1&webp=1 "Mynextpay")
+![Mynextpay](https://mynextpay.ca/wp-content/uploads/2024/08/logo_mynextpays-3.png "logo_mynextpays")
 
 With over 12 years of experience, Mynextpay, provides quick financial solutions to its Canadian clients. Our quick cash loan program is quick and convenient. Even if your previous credit history is not perfect, My Next Pay strives to provide every customer with a short term cash loan that is suitable for your budget.
 
 Talk about fast cash! With our e-mail money transfer we can get you a micro loan in minutes! Contact one of our agents for an appointment or contact us online now!
 
-Services
+Credit Know-how
 
 [Cash Advance](https://mynextpay.ca/cash-advance/)
 
