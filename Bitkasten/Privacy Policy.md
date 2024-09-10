@@ -2,7 +2,7 @@
 
 [![bitkasten Logo](https://www.bitkasten.de/wp-content/uploads/2021/10/bitkasten-Logo-200x30.png)](https://www.bitkasten.de/)
 
-* [bitkasten](https://www.bitkasten.de/dein-digitaler-briefkasten/) Menü umschalten
+* [bitkasten](https://www.bitkasten.de/) Menü umschalten
     * [Produkt Sub](#)
         
         [](https://www.bitkasten.de/bitkasten/)
@@ -136,7 +136,7 @@ Menü
 Datenschutzerklärung
 ====================
 
-Stand: Juni 2024
+Stand: September 2024
 
 1\. Information über die Erhebung personenbezogener Daten und Zweck der Verarbeitung
 ------------------------------------------------------------------------------------
@@ -152,7 +152,7 @@ Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist:
 bitkasten GmbH  
 Wallensteinstr. 63  
 90431 Nürnberg  
-vertreten durch den Geschäftsführer Herr Christian Gericke  
+vertreten durch den Geschäftsführer Michael Mews  
 Telefon: 0911 – 6000 28 74  
 E-Mail: [info@bitkasten.de](mailto:info@bitkasten.de)
 
@@ -367,11 +367,15 @@ Unser geschäftlicher Betrieb setzt voraus, dass Daten erfasst und verarbeitet w
 
 Aktuelle Informationen erhalten Sie in unserem monatlichen Newsletter oder in einem individuellen Gespräch.
 
+Sie möchten mehr über Ihre Vorteile als Versender erfahren? Buchen Sie ein unverbindliches Gespräch mit unserem Team.
+
 [Newsletter abonnieren](https://www.bitkasten.de/newsletter-abonnieren/)
 
 [Gesprächstermin vereinbaren](https://www.bitkasten.de/kontakt/)
 
 [Newsletter abonnieren](https://www.bitkasten.de/newsletter-abonnieren/)
+
+[Gesprächstermin vereinbaren](https://www.bitkasten.de/kontakt/)
 
 bitkasten – Mehr Einfachheit im Leben
 
@@ -379,7 +383,7 @@ Mit dem bitkasten machen wir es Unternehmen einfach, die aktuellen Prozesse auf 
 
 Made with ❤ in Germany
 
-[Instagram](https://www.instagram.com/bitkasten/) [Facebook](https://www.facebook.com/bitkasten) [Youtube](https://youtube.com/@bitkasten) [](https://twitter.com/bitkasten)[Xing](https://www.xing.com/pages/bitkasten-ag) [Linkedin](https://www.linkedin.com/company/bitkasten/)
+[Linkedin](https://www.linkedin.com/company/bitkasten/) [Youtube](https://youtube.com/@bitkasten)
 
 bitkasten GmbH
 
@@ -428,33 +432,3 @@ bitkasten App herunterladen
 * [Barrierefreiheit](https://www.bitkasten.de/barrierefreiheit/)
 
 Nach oben scrollen
-
-[](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
-
-Keine Neuigkeiten mehr verpassen!
----------------------------------
-
-Anrede
-
-Bitte Anrede auswählen Frau Herr Divers Keine Angabe
-
-Vorname
-
-Nachname
-
-E-Mail-Adresse
-
-Unternehmen
-
-Ich stimme der Speicherung und Verarbeitung meiner persönlichen Daten laut Datenschutzerklärung der bitkasten GmbH zu.
-
-Ja, ich möchte den monatlichen Newsletter mit Informationen über den bitkasten und Aktionen erhalten.
-
-[Datenschutzerklärung der bitkasten GmbH](https://www.bitkasten.de/datenschutzerklaerung/)
-
-Newsletter abonnieren
-
-Vielen Dank für Ihre Anmeldung!  
-
-  
-Wir haben Ihnen auch schon die erste E-Mail geschickt und bitten Sie, Ihre E-Mail-Adresse über den Aktivierungslink zu bestätigen.
