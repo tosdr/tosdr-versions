@@ -374,7 +374,14 @@
         * [Esplora Atti](https://www.inps.it/it/it/inps-comunica/atti.html)
         * [Atti Ufficiali](https://www.inps.it/it/it/inps-comunica/atti/atti-ufficiali.html)
         * [Circolari, Messaggi e Normativa](https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa.html)
-        * [Sentenze](https://www.inps.it/it/it/inps-comunica/atti/sentenze.html)
+        * [Sentenze](#)
+            
+            Sentenze
+            
+            * [Esplora Sentenze](https://www.inps.it/it/it/inps-comunica/atti/sentenze.html)
+            * [Cerca Sentenze](https://www.inps.it/it/it/inps-comunica/atti/sentenze/cerca-sentenze.html)
+            * [Archivio Sentenze Cassazione](https://www.inps.it/it/it/inps-comunica/atti/sentenze/archivio-sentenze-cassazione.html)
+            
         * [Iscrizione Newsletter](https://www.inps.it/it/it/inps-comunica/atti/iscrizione-newsletter.html)
         
     * [La Carta dei servizi dell’INPS](#)
@@ -901,6 +908,7 @@
             Rendiconti generali
             
             * [Esplora Rendiconti generali](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/rendiconti-generali.html)
+            * [2023](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/rendiconti-generali/2023.html)
             * [2022](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/rendiconti-generali/2022.html)
             * [2021](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/rendiconti-generali/2021.html)
             * [2020](https://www.inps.it/it/it/dati-e-bilanci/bilanci--rendiconti-e-flussi-finanziari/rendiconti-generali/2020.html)
@@ -991,6 +999,7 @@
         * [Corsi di formazione](https://www.inps.it/it/it/dati-e-bilanci/siuss--ex-casellario-dell-assistenza/corsi-di-formazione.html)
         
     * [Portale per l'Analisi Sociale (PAS)](https://www.inps.it/it/it/dati-e-bilanci/portale-per-l-analisi-sociale--pas-.html)
+    * [Welfare as a Service](https://www.inps.it/it/it/dati-e-bilanci/welfare-as-a-service.html)
     * [Note trimestrali sulle tendenze dell’occupazione](#)
         
         Note trimestrali sulle tendenze dell’occupazione
@@ -1669,12 +1678,6 @@ In evidenza
 
             
 
-##### Attenzione
-
-È necessario digitare almeno 3 caratteri.
-
-Chiudi
-
 * [Pensione e Previdenza](#)
     
     * [Domanda di pensione](https://www.inps.it/it/it/previdenza/domanda-di-pensione.html)
@@ -2015,4 +2018,4 @@ Impostazioni dei cookie
 
   
 
-##### Attenzione
+Attenzione
