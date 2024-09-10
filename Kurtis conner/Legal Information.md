@@ -11,7 +11,7 @@
 Country/region
 --------------
 
-United Kingdom | USD $
+United States | USD $
 
  Search
 
@@ -272,7 +272,7 @@ United Kingdom | USD $
 Country/region
 --------------
 
-United Kingdom | USD $
+United States | USD $
 
  Search
 
