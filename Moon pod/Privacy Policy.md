@@ -1,6 +1,6 @@
-[Skip to content](#main-content)
+![](https://ib.adnxs.com/pixie?pi=0ca4c9bf-63ec-4258-9f67-64c5a187710f&e=PageView&script=0)                                    [Skip to content](#main-content)
 
-Get 25% Off + Free Shipping | Bundle & Save Up To 35%
+25% Everything + Free Shipping | Bundle & Save Up To 35%
 
  [![Moon Pod](//www.moonpod.co/cdn/shop/files/Moonpod_logo_transparent_2_ccf0cdbc-718b-411a-b019-baa70d680154.png?v=1614316087&width=260)](https://www.moonpod.co/)
 
@@ -17,8 +17,7 @@ Menu
     * [Double Moon Pod](https://www.moonpod.co/products/super-moon-pod)
     * [Outdoor Moon Pod](https://www.moonpod.co/products/outdoor-bundle)
     * [Moon Pod Bundles](https://www.moonpod.co/collections/moon-pod-bundles)
-    * [Crescent Backrest](https://www.moonpod.co/products/crescent)
-    * [Lunar Lift Footrest](https://www.moonpod.co/products/lunar-lift-foot-rest)
+    * [Moon Pod Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
     * [Shop All Moon Pods](https://www.moonpod.co/collections/moon-pod-beanbags)
     
 * [Sleep Products](#)
