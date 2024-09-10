@@ -168,7 +168,7 @@ Last updated: August 18, 2020
 
 * [How it Works](https://readtheory.org/wp-content/uploads/2022/03/Animation-41.mp4)
 * [Resources Hub](https://readtheory.org/resources-hub/)
-* [Schools & Districts](https://readtheory.org/districts-and-schools/)
+* [Schools & Districts Old Private](https://readtheory.org/?page_id=5345)
 * [ReadTheory for ESL](https://readtheory.org/english-language-learners/)
 * [Pricing](https://readtheory.org/app/pricing/teacher)
 * [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
@@ -177,12 +177,10 @@ Last updated: August 18, 2020
 
 ### Inside ReadTheory
 
+* [Science of Reading](https://readtheory.org/science-of-reading/)
 * [Wall of Love](https://readtheory.org/teacher-love/)
-* [Careers](https://readtheory.org/careers/)
 * [About Us](https://readtheory.org/about-us/)
 * [Certified Educator](https://readtheory.org/certified-educator/)
-* [ReadTheory History](https://readtheory.org/readtheory-history/)
-* [Meet our Team](https://readtheory.org/meet-our-staff/)
 * [Meet our Writers](https://readtheory.org/meet-our-writers/)
 * [Contact Us](https://readtheory.org/app/contact)
 
@@ -227,7 +225,7 @@ Last updated: August 18, 2020
 
 * Get Started
     * [How it Works](https://readtheory.org/wp-content/uploads/2022/03/Animation-41.mp4)
-    * [Schools & Districts](https://readtheory.org/districts-and-schools/)
+    * [Schools & Districts Old Private](https://readtheory.org/?page_id=5345)
     * [English Language Learners](https://readtheory.org/english-language-learners/)
     * [Pricing](https://readtheory.org/app/pricing/teacher)
     * [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
@@ -235,9 +233,9 @@ Last updated: August 18, 2020
     * [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
     * [Wall of Love](https://readtheory.org/teacher-love/)
 * Inside ReadTheory
-    * [About Us](https://readtheory.org/about-us/)
+    * [About Us](https://readtheory.org/?page_id=4010)
     * [Certified Educator](https://readtheory.org/certified-educator/)
-    * [ReadTheory History](https://readtheory.org/readtheory-history/)
+    * [ReadTheory History OLD](https://readtheory.org/?page_id=3368)
     * [Meet our Team](https://readtheory.org/meet-our-staff/)
     * [Meet our Writers](https://readtheory.org/meet-our-writers/)
     * [Contact Us](https://readtheory.org/app/contact)
@@ -274,7 +272,7 @@ Last updated: August 18, 2020
     * [NC EOG](https://readtheory.org/test-prep-north-carolina/)
     * [TX STAAR](https://readtheory.org/test-prep-texas/)
 
-#### 2023, ReadTheory. All rights reserved
+#### 2024, ReadTheory. All rights reserved
 
 * [FAQ](https://readtheory.customerly.help/)
 * [Privacy Policy](https://readtheory.org/privacy-policy/)
@@ -283,7 +281,7 @@ Last updated: August 18, 2020
 
   [![Social Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Facebook-footer.svg) ![Social Hover Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Facebook-footer-hover.svg)](https://www.facebook.com/ReadTheory/)[![Social Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Instagram-footer.svg) ![Social Hover Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Instagram-footer-hover.svg)](https://www.instagram.com/readtheorynation/)[![Social Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Twitter-footer.svg) ![Social Hover Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/Twitter-footer-hover.svg)](https://twitter.com/ReadTheory)[![Social Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/YouTube-footer.svg) ![Social Hover Icon](https://readtheory.org/wp-content/themes/readtheory/assets/images/YouTube-footer-hover.svg)](https://www.youtube.com/channel/UC9o4q5GmUAhbyKvOb11uPtw)[![](https://readtheory.org/wp-content/uploads/2022/03/image-14.svg)](https://www.kidsafeseal.com/certifiedproducts/readtheory.html)
 
-#### 2023, ReadTheory. All rights reserved
+#### 2024, ReadTheory. All rights reserved
 
 ![Arrow](https://readtheory.org/wp-content/themes/readtheory/assets/images/popup-close.svg)
 
