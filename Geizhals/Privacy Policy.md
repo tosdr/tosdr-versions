@@ -555,7 +555,7 @@ We reserve the right to amend the Privacy Policy and Conditions of Use at any ti
 
 [![](https://i0.wp.com/unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png?fit=400%2C118&ssl=1)](https://unternehmen.geizhals.at/)
 
-Geizhals ist eine Online- Preisvergleichs-Plattform mit Schwerpunkt Hardware und Unterhaltungselektronik, die ihren Usern dabei behilflich ist, unter einer großen Anzahl an Händlern und Produkten die für sie beste Wahl zu treffen.
+Geizhals ist ein unabhängiges Preis- und Produktvergleichs-Portal, das mittels detaillierter Filter und vielfältiger Features eine optimale Hilfestellung bei der Kaufentscheidung bietet.
 
 [Linkedin](https://www.linkedin.com/company/geizhalspreisvergleich/) [Twitter](https://twitter.com/geizhals) [Facebook-f](https://www.facebook.com/geizhals.at/) [Youtube](https://www.youtube.com/channel/UCFiNt7bWHrc0RY0uhIuiRnQ)
 
@@ -565,8 +565,6 @@ Informationen
 * [Impressum](https://unternehmen.geizhals.at/impressum)
 * [Datenschutz](https://unternehmen.geizhals.at/datenschutzerklaerung)
 * [AGB](https://unternehmen.geizhals.at/allgemeine-geschaeftsbedingungen)
-
-[Cookie-Einstellungen](javascript:;)
 
 Weitere Services
 ----------------
