@@ -8,10 +8,10 @@
     
     * Hardware
         
+        * [Atari 7800+](https://www.atari.com/collections/7800)
         * [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
         * [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
         * [Atari VCS](https://www.atari.com/pages/atari-vcs)
-        * [Atari XP](https://www.atari.com/collections/atari-xp)
         * [Shop All Hardware](https://www.atari.com/collections/hardware)
         
     * Gear
@@ -34,7 +34,7 @@
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
         * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
+        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon)
         
     
 * Games
@@ -61,7 +61,7 @@
         * [Games Blog](https://www.atari.com/blogs/atari)
         
     
-* [Camp](https://www.atari.com/collections/summer-camp)
+* [Club](https://www.atari.club/)
 * About
     
     About
@@ -88,10 +88,10 @@
     
     * ###### Hardware
         
+        * [Atari 7800+](https://www.atari.com/collections/7800)
         * [Atari 2600+](https://www.atari.com/collections/atari-2600-plus)
         * [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
         * [Atari VCS](https://www.atari.com/pages/atari-vcs)
-        * [Atari XP](https://www.atari.com/collections/atari-xp)
         * [Shop All Hardware](https://www.atari.com/collections/hardware)
     * ###### Gear
         
@@ -112,7 +112,7 @@
         * [Atari x My Arcade](https://www.atari.com/collections/atari-x-my-arcade)
         * [Atari x Retro Arcade](https://www.atari.com/collections/reproduction-pcbs)
         * [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
+        * [RCT 25th Anniversary](https://www.atari.com/collections/rollercoaster-tycoon)
     
     [![](files/atari-50th-t-shirt-1080x1080-02.jpg)
     
@@ -289,7 +289,7 @@
     
     Enter the Yar-niverse
     
-* [Camp](https://www.atari.com/collections/summer-camp)
+* [Club](https://www.atari.club/)
 * [About](https://www.atari.com/pages/about)
     
     * ###### Company
@@ -321,39 +321,41 @@ Continue shopping
 
  
 
-ASTEROIDS RECHARGED: ARCADE
-===========================
-
-This 2-player arcade is available exclusively on Atari.com and includes FREE SHIPPING on pre-orders only!
-
-[Pre-Order Today](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
-
- 
-
 Yars Rising
 ===========
 
 New Metroidvania from Atari and WayForward
 
-[Coming Soon](https://www.atari.com/products/yars-rising)
+[Available Now](https://www.atari.com/products/yars-rising)
 
  
 
-NeoSprint
-=========
+Introducing the Atari 7800+
+===========================
 
-The exhilarating Atari racing classic “Sprint” series returns with NeoSprint.
+**Introducing the Atari 7800+**
 
-[Play Now](https://www.atari.com/products/neosprint)
+New console, new games, and new accessories!
+
+[Pre-Order Yours Today!](https://atari.com/collections/7800)
 
  
 
-Lunar: Lander Beyond
-====================
+Fatal Run 2089
+==============
 
-A Luxurious Sci-Fi Landscape
+A re-imagining of the Atari 2600 cult classic.
 
-[Available Now](https://www.atari.com/products/lunar-lander-beyond)
+[Coming Soon](https://www.atari.com/products/fatal-run-2089)
+
+ 
+
+Atari 400 Mini
+==============
+
+Includes 25 8-bit classic games. Act fast, supplies are limited!
+
+[Available Now](https://www.atari.com/collections/atari-400-mini-collection)
 
 [![](files/Atari_VCS.jpg)
 
@@ -361,7 +363,7 @@ A Luxurious Sci-Fi Landscape
 
 Shop Now](https://www.atari.com/collections/hardware)[![](files/Atari_Gear-4.jpg)
 
-### Gear
+### GEAR
 
 Shop Now](https://www.atari.com/collections/gear)[![](files/atari-games.webp)
 
@@ -371,57 +373,79 @@ Shop Now](https://www.atari.com/collections/games)
 
 ### Popular Right Now
 
+[![Atari 7800+](files/7800_Product1.jpg)
+
+![Atari 7800+](files/7800_Product3.jpg)
+
+Pre-Order
+
+PRE-ORDER
+
+##### Atari 7800+
+
+Regular price Sale price $129.99
+
+Regular price $129.99
+
+Unit price /  per](https://www.atari.com/products/atari-7800) 
+
+[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
+
+![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
+
+Pre-Order
+
+PRE-ORDER
+
+##### Super Pocket Atari Edition
+
+Regular price Sale price $59.99
+
+Regular price $59.99
+
+Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
+
+[![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
+
+![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct3.jpg)
+
+Pre-Order
+
+PRE-ORDER
+
+##### Atari 7800+ Controller Mega Bundle
+
+Regular price $199.95 Sale price $169.95
+
+Regular price $169.95
+
+Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
+
 [![Atari 2600+](files/ProductImage-AV2.jpg)
 
 ![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### Atari 2600+
 
-Regular price $129.99
-
 Regular price $129.99 Sale price $129.99
 
+Regular price $129.99
+
 Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
-
-[![Yars' Revenge 2600 Tee](files/ProductImage-C_16.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
-##### Yars' Revenge 2600 Tee
-
-Regular price $30
-
-Regular price Sale price $30.00
-
-Unit price /  per](https://www.atari.com/products/yars-revenge-2600-tee) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
 ![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Front.jpg)
 
-USA Exclusive
+Add to cart
 
 ##### VCS All-In Bundle
 
-Regular price $299.99
+Regular price Sale price $299.99
 
-Regular price $299.99 Sale price $299.99
+Regular price $299.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
 
@@ -445,9 +469,9 @@ Add to cart
 
 ##### Oversized Retro Tee
 
-Regular price $35
-
 Regular price $35 Sale price $35.00
+
+Regular price $35
 
 Unit price /  per](https://www.atari.com/products/oversized-retro-tee)         
 
@@ -473,25 +497,11 @@ Add to cart
 
 ##### Classic Katakana Tee
 
-Regular price $28
-
 Regular price $28 Sale price $28.00
 
+Regular price $28
+
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
-
-[![Retro Trucker Hat](files/RCT25thAnniversaryDadHat18.jpg)
-
-![Retro Trucker Hat](files/RCT25thAnniversaryDadHat16.jpg)
-
-Add to cart
-
-##### Retro Trucker Hat
-
-Regular price $30
-
-Regular price $30 Sale price $30.00
-
-Unit price /  per](https://www.atari.com/products/retro-trucker-hat) 
 
 [![RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)](files/rctarto-product-01-a.jpg)
 
@@ -501,195 +511,88 @@ Add to cart
 
 ##### RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)
 
-Regular price $199
-
 Regular price Sale price $199.00
 
+Regular price $199
+
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
-
-[![RCT 25th Anniversary Tour Tee](files/TeeTemplate-3.jpg)
-
-![RCT 25th Anniversary Tour Tee](files/TeeTemplate-1.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
-##### RCT 25th Anniversary Tour Tee
-
-Regular price $28
-
-Regular price $28 Sale price $28.00
-
-Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-tour-tee)     
 
 [![CX78+ Gamepad](files/7800-controller-01.jpg)
 
 ![CX78+ Gamepad](files/7800-controller-02.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### CX78+ Gamepad
 
-Regular price $24.99
-
 Regular price Sale price $24.99
+
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx78-gamepad) 
 
-[![RollerCoaster Tycoon x errornogo Smile Tote Bag](files/tote_pdp_01.webp)
-
-![RollerCoaster Tycoon x errornogo Smile Tote Bag](files/tote_pdp_02.webp)
-
-Add to cart
-
-##### RollerCoaster Tycoon x errornogo Smile Tote Bag
-
-Regular price $32
-
-Regular price $32 Sale price $32.00
-
-Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-smile-tote-bag) 
-
-[![RCT 25th Anniversary Retro Pixel Art Tee](files/TeeTemplate_ed5abc0e-df80-45c7-aae3-bea21c1ce8ac.jpg)
-
-![RCT 25th Anniversary Retro Pixel Art Tee](files/TeeTemplate-1copy.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
-##### RCT 25th Anniversary Retro Pixel Art Tee
-
-Regular price $28
-
-Regular price $28 Sale price $28.00
-
-Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-retro-pixel-art-tee)         
-
-[![RollerCoaster Tycoon x errornogo Disc Tee](files/disc_t_pdp_01.webp)
-
-![RollerCoaster Tycoon x errornogo Disc Tee](files/disc_t_pdp_02.webp)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- XXL
-
-##### RollerCoaster Tycoon x errornogo Disc Tee
-
-Regular price $52
-
-Regular price $52 Sale price $52.00
-
-Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-disc-tee) 
-
-[![Atari VCS 480GB M.2 Drive](files/ProductImage-A_f22f4779-3ae1-441c-bdad-a3f127637791.jpg)
-
-![Atari VCS 480GB M.2 Drive](files/ProductImage-B_002dce45-c840-4efe-ae53-8e16714a904c.jpg)
-
-USA Exclusive
-
-##### Atari VCS 480GB M.2 Drive
-
-Regular price $69.99
-
-Regular price $69.99 Sale price $69.99
-
-Unit price /  per](https://www.atari.com/products/atari-vcs-480gb-m2-drive) 
-
 [![Ninja Golf 7800](files/7800-ninjagolf-011.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### Ninja Golf 7800
 
-Regular price $29.99
-
 Regular price Sale price $29.99
+
+Regular price $29.99
 
 Unit price /  per](https://www.atari.com/products/ninja-golf-7800) 
 
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
-Atari 2600+
+Atari 7800+
 -----------
 
-Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the Atari 2600+ pull double cartridge duty, it also features HDMI and widescreen mode for easy connectivity to modern TVs.
+The new Atari 7800+ joins the ranks of such timeless design icons as shoulder pads, crop tops, and aviator sunglasses! Inspired by the original ‘80s design, this scaled-down version fits today’s living rooms and connects easily to modern TVs via HDMI.
 
-[Shop Now](https://www.atari.com/collections/atari-2600-plus)
+[Pre-Order Yours Today!](https://www.atari.com/products/atari-7800)
 
-![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
+![](files/7800_home.png)
 
-#### 2 Systems in 1
+![](files/7800_home.png)
 
-Plays both Atari 2600 and 7800 game cartridges.
+#### Forward & Backward Compatible
 
-#### Ready to Play
+Plays both Atari 2600 and 7800 game cartridges
 
-Comes with a 10-in-1 cartridge so you can dive into your favorite titles right away.
+#### Wireless Control
 
-#### HDMI Ready
+Includes the NEW Wireless CX78+ Gamepad
 
-Easily connects via HDMI so you can enjoy every last pixel.
+NEW RELEASES
+------------
 
-[![](files/summercamp2024-6.jpg)
+[![](files/Image4-Lifestyle.png)
 
-### ATARI SUMMER CAMP
+### Super Pocket Atari Edition
 
-An eight week celebration with games, competitions, merch and more.
+The popular 50-game handheld from HyperMegaTech returns, Atari style! 
 
-Become a camper](https://www.atari.com/collections/summer-camp)[![](files/CopyofAsteroidsArcadePreview-19.jpg)
+Pre-Order Today](https://www.atari.com/products/super-pocket-atari-edition)[![](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
 
-### ASTEROIDS RECHARGED: PREMIUM ARCADE EDITION
+### YARS RISING
 
-This 2-player arcade is available exclusively on Atari.com and includes FREE SHIPPING on pre-orders.
+Run, jump, sneak, and hack your way to the heart of the mystery
 
-Pre-Order Today](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
+Physical & Digital Available Today](https://www.atari.com/products/yars-rising)
 
 FEATURED GAMES
 --------------
 
 [View All](https://www.atari.com/collections/games)
 
-![NeoSprint](files/neosprint-gamebox.webp)
+![Fatal Run 2089](files/fatal-run-535px_742px_Game_Box.webp)
 
 Available on
 
-[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
+[](https://store.steampowered.com/app/2542310/Fatal_Run_2089)[](https://store.playstation.com/concept/10009209)[](https://www.xbox.com/games/store/fatal-run-2089/9p5dq00ld7zm)[](https://store.epicgames.com/p/fatal-run-2089-c09a4e)
 
-#### NeoSprint
+#### Fatal Run 2089
 
 ![Lunar Lander: Beyond](files/lunarlander-gamebox.webp)
 
@@ -699,13 +602,21 @@ Available on
 
 #### Lunar Lander: Beyond
 
-![Yars Rising](files/535px_742px_Game_Box.webp)
+![Yars Rising](files/535px_742px_Game_Box_c9225a4a-1647-459f-a092-ae000bc3d8b7.webp)
 
 Available on
 
 [](https://store.steampowered.com/app/2534370/Yars_Rising)[](https://www.nintendo.com/us/store/products/yars-rising-switch/)[](https://store.playstation.com/concept/10010102)[](https://www.xbox.com/games/store/yars-rising/9nm99mvp8qt9)[](https://store.epicgames.com/p/yars-rising-e591ca)[](https://atari.com/pages/atari-vcs)
 
 #### Yars Rising
+
+![NeoSprint](files/neosprint-gamebox.webp)
+
+Available on
+
+[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
+
+#### NeoSprint
 
 ![qomp2](files/qomp2-gamebox_3fd896cb-aafc-4cd6-8098-251d40438d36.webp)
 
@@ -771,49 +682,27 @@ Read More](https://www.atari.com/blogs/newsroom/atari-acquires-rollercoaster-tyc
 
 ![CX40+ Joystick](files/ProductImage-BV2.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### CX40+ Joystick
 
-Regular price $24.99
-
 Regular price Sale price $24.99
+
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99
-
 Regular price $39.99 Sale price $39.99
 
-Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
+Regular price $39.99
 
-![Atari Distressed Logo Tee](products/ATRI103-AT.png)
-
-USA Exclusive
-
-##### Atari Distressed Logo Tee
-
-Regular price $30
-
-Regular price $30 Sale price $30.00
-
-Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
-
-USA Exclusive
-
-##### Atari Katakana Logo Hoodie
-
-Regular price $48
-
-Regular price $48 Sale price $48.00
-
-Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
+Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
 ##### Anything Else ?
 
@@ -839,13 +728,13 @@ Continue Shopping
 
 ![CX40+ Joystick](files/ProductImage-BV2.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### CX40+ Joystick
 
-Regular price $24.99
-
 Regular price Sale price $24.99
+
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -853,41 +742,15 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
-Available Worldwide
+Add to cart
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99
-
 Regular price $39.99 Sale price $39.99
 
+Regular price $39.99
+
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
-
-[![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
-
-![Atari Distressed Logo Tee](products/ATRI103-AT.png)
-
-USA Exclusive
-
-##### Atari Distressed Logo Tee
-
-Regular price $30
-
-Regular price $30 Sale price $30.00
-
-Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
-
-[![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
-
-USA Exclusive
-
-##### Atari Katakana Logo Hoodie
-
-Regular price $48
-
-Regular price $48 Sale price $48.00
-
-Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
       
 
@@ -934,7 +797,7 @@ Newsletters from the future
 * Venmo
 * Visa
 
-United Kingdom
+United States
 
 * [Afghanistan (USD $)](#)
 * [Åland Islands (USD $)](#)
