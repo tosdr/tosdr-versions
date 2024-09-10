@@ -366,6 +366,7 @@ Support
 
 * [Help center](https://support.cloudflare.com/)
 * [Cloudflare status](https://www.cloudflarestatus.com/)
+* [Trust-hub](https://www.cloudflare.com/trust-hub/)
 * [Compliance](https://www.cloudflare.com/trust-hub/compliance-resources/)
 * [GDPR](https://www.cloudflare.com/trust-hub/gdpr/)
 * [Trust & safety](https://www.cloudflare.com/trust-hub/abuse-approach/)
