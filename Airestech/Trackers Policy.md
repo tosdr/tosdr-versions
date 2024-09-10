@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[BACK TO SCHOOL W/ 20% OFF GO & FLEX Use code: BTS20 BACK TO SCHOOL W/ 20% OFF GO & FLEX Use code: BTS20](https://www.airestech.com/pages/store)
+FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
 
     
 
@@ -23,12 +23,13 @@
     
     [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
-    * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [UFC FIGHTER MAYCEE BARBER](https://airestech.com/pages/maycee-barber-ufc)
     * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
     * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
-    * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
+    * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
+    * [WWE OFFICIAL PARTNER](https://investors.airestech.com/2024/08/01/wwe-and-aires-tech-announce-multi-year-global-marketing-partnership/)
     
 
 Country/region
@@ -39,9 +40,9 @@ Update country/region
 
 Country/region
 
-United Kingdom (GBP £)
+United States (USD $)
 
-* [United Kingdom (GBP £)](#)
+* [United States (USD $)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -266,7 +267,7 @@ United Kingdom (GBP £)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United States (USD $)](#)
+* [United Kingdom (GBP £)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
 * [Vanuatu (VUV Vt)](#)
@@ -295,9 +296,9 @@ Update country/region
 
 Country/region
 
-United Kingdom (GBP £)
+United States (USD $)
 
-* [United Kingdom (GBP £)](#)
+* [United States (USD $)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -522,7 +523,7 @@ United Kingdom (GBP £)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United States (USD $)](#)
+* [United Kingdom (GBP £)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
 * [Vanuatu (VUV Vt)](#)
@@ -552,12 +553,13 @@ United Kingdom (GBP £)
 * [Blog](https://www.airestech.com/pages/blogs)
 * [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
-    * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [UFC FIGHTER MAYCEE BARBER](https://airestech.com/pages/maycee-barber-ufc)
     * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
     * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
-    * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
+    * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
+    * [WWE OFFICIAL PARTNER](https://investors.airestech.com/2024/08/01/wwe-and-aires-tech-announce-multi-year-global-marketing-partnership/)
     
 
  Search our site  
@@ -776,9 +778,9 @@ Update country/region
 
 Country/region
 
-United Kingdom (GBP £)
+United States (USD $)
 
-* [United Kingdom (GBP £)](#)
+* [United States (USD $)](#)
 * [Afghanistan (AFN ؋)](#)
 * [Åland Islands (EUR €)](#)
 * [Albania (ALL L)](#)
@@ -1003,7 +1005,7 @@ United Kingdom (GBP £)
 * [Uganda (UGX USh)](#)
 * [Ukraine (UAH ₴)](#)
 * [United Arab Emirates (AED د.إ)](#)
-* [United States (USD $)](#)
+* [United Kingdom (GBP £)](#)
 * [Uruguay (UYU $)](#)
 * [Uzbekistan (UZS )](#)
 * [Vanuatu (VUV Vt)](#)
