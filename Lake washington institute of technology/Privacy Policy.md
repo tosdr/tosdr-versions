@@ -316,6 +316,10 @@ Main Menu [![ LWTech Logo](/_resources/img/logo_lwtech.png)![LWTech Logo](/_reso
         * [Calendar](https://www.lwtech.edu/calendar/)
         * [Featured Events](https://www.lwtech.edu/calendar/featured-events/)
 
+×
+
+Lake Washington Institute of Technology (LWTech) recently discovered that it was the victim of a data breach incident. With the privacy and security of our organization, its students, faculty, staff, and other community members who trust and rely on us as our priority, we took quick and thorough steps to secure our systems and activate additional cybersecurity protocols. Additional information about this incident can be a found on the 🔗[Data Security Incident Page.](https://www.lwtech.edu/news/data-security-incident/default.aspx "Link to external site")
+
 [Home](https://www.lwtech.edu/) » [About LWTech](https://www.lwtech.edu/about/) » [Policies and Procedures](https://www.lwtech.edu/about/policies-and-procedures/) » Website Privacy Policy
 
 Website Privacy Policy
