@@ -24,7 +24,6 @@
 * SCHOOL SUCCESS
     
     * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [SCHOOL SUCCESS STORIES](https://www.discoveryeducation.co.uk/success-stories/)
     * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
     * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
     
@@ -62,14 +61,10 @@ Open Menu Close Menu
 * SCHOOL SUCCESS
     
     * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [SCHOOL SUCCESS STORIES](https://www.discoveryeducation.co.uk/success-stories/)
     * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
     * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
     
 * [TRY FOR FREE](https://www.discoveryeducation.co.uk/consultation-booking/)
-
-Terms of use: Discovery Education Pathway
-=========================================
 
 These Terms of Service and Licence (these “**Standard Terms**”) are applicable to any Order Form (each, an “**Order Form**”) issued by Discovery Education Europe Limited ( “**Discovery Education**”) to the individual or entity listed in the Order Form (“**Subscriber**”) to provide access to the Discovery Education: Pathway CPD products and services identified therein (the “**Services**”) and to Subscriber’s use of the Services. Each Order Form shall be deemed to be part of these Standard Terms and subject to the terms and conditions set forth herein. These Standard Terms supersede all other prior and contemporaneous agreements, negotiations, communications or understandings, oral or written, with respect to the subject matter hereof. In no event shall the terms and conditions of any other purchase agreement amend or modify the terms and conditions of these Standard Terms.
 
@@ -198,8 +193,8 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 
 * [Awards](https://www.discoveryeducation.co.uk/awards/)
 * [Careers](https://apply.workable.com/discoveryed/)
-* [Events](https://www.discoveryeducation.co.uk/events/)
-* [News](https://www.discoveryeducation.co.uk/news/)
+* [Events](https://www.discoveryeducation.co.uk/?page_id=17110)
+* [News](https://www.discoveryeducation.co.uk/in-the-news/)
 
 #### Not a subscriber?
 
@@ -228,6 +223,12 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 
 Copyright © 2024 Discovery Education. All rights reserved Discovery Education, Inc.  
 Discovery Education’s UK operating entity is Discovery Education Europe Limited, a company registered in England and Wales under Company Number: 03261277. Registered office: 9 Palace Yard Mews, Bath BA1 2NH. VAT number: GB 887 9082 56.
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://play.vidyard.com/7bCxx4ToZ1BxvGyLHcHV6P.jpg)
+
+X
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
