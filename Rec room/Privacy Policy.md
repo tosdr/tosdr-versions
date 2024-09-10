@@ -42,7 +42,7 @@
 Privacy Policy
 ==============
 
-Effective: July 25, 2023
+Effective: August 22, 2024
 
 Rec Room Inc., a Delaware corporation ("Company", "we", "our", and their derivatives) provides the websites, [http://www.recroom.com](http://www.recroom.com/), [http://www.rec.net](http://www.rec.net/), and the subdomains of each of the foregoing (collectively, the "Website") and the Rec Room® video game (the "Game" and, with the Website, the "Services").
 
@@ -76,6 +76,10 @@ We may collect different types of information from you depending on how you use 
 
 We may also collect information that does not generally identify you but may become associated with your account. We may use information that does not identify you for any permissible business purpose under applicable law.
 
+We do NOT sell or share (as those terms are defined in California Civil Code §1798.140) any of the Personal Information we collect.
+
+We do NOT collect sensitive personal information as defined in California Civil Code §1798.140(ae), with the exception of Employer Identification Numbers/Social Security Numbers of participants in the Creator Payment Program and the Video Partner Program, for the purposes of processing payment to such participants from whom we receive this information, which we do not sell or share.
+
 2\. Children Under the Age of 13
 --------------------------------
 
@@ -87,11 +91,11 @@ If a user of the Game self-identifies or is identified by us as being under the 
 
 _Registration_
 
-Junior Users may register an account with us using a registration process similar to the one adults go through; however, in compliance with COPPA, Junior Users may first be subject to a parental notice and/or consent process prior to activation of their account. To initiate the registration and/or consent process for a Junior User, we collect a Parent's email address, and the Parent is then requested to create a password for their Child's account, as well as supply additional account information and settings. We will automatically generate randomized display names for registered Junior Users.
+Junior Users may register an account with us using a registration process similar to the one adults go through; however, in compliance with COPPA, after creation of a Junior User account we may collect a Parent's email address, and then request the Parent create a password for their Child's account, as well as supply additional account information and settings. We will automatically generate randomized display names for registered Junior Users.
 
 _Use/disclosure_
 
-The Personal Information we collect from/about Children is used to give Children access to certain features of the Game and communicate with a Parent about the Child's registration, including for the purpose of verifying their Child's information in connection with registration. We do not share or otherwise disclose Children's Personal Information except (1) as may be necessary to protect the safety of a Child, including by disclosing his or her Personal Information, where appropriate, to law enforcement agencies or for an investigation related to public safety; (2) to enable us to take precautions against liability; (3) to protect the safety and security of the Services; or (4) where required to do so by law or legal process.
+We do not collect the personal information listed in Section 1 above, including but not limited to, names, postal addresses, or phone numbers from Children. The Personal Information we do collect from/about Children is used to give Children access to certain features of the Game and communicate with a Parent about the Child's registration, including for the purpose of verifying their Child's information in connection with registration. We do not share or otherwise disclose Children's Personal Information except (1) as may be necessary to protect the safety of a Child, including by disclosing his or her Personal Information, where appropriate, to law enforcement agencies or for an investigation related to public safety; (2) to enable us to take precautions against liability; (3) to protect the safety and security of the Services; or (4) where required to do so by law or legal process.
 
 We and the third-party service providers listed below may collect or maintain Children's Personal Information through the Services.
 
@@ -103,6 +107,12 @@ We and the third-party service providers listed below may collect or maintain Ch
 Please contact us with questions about our service providers' privacy policies and collection and use practices by mail at Rec Room Inc., 300 Elliott Ave W, Ste 450 Seattle, WA 98119, by email at [support@recroom.com](mailto:support@recroom.com), or by phone at (314) 635-8471.
 
 At any time, parents may review their Child's Personal Information maintained by us, require us to correct or delete such Personal Information, request that we delete their Child's account, and/or refuse to permit us from further collecting or using the Child's Personal Information by contacting us using the email address provided above. To protect parents' privacy and security and the privacy and security of Children that use the Services, we may require parents to take certain steps or provide additional information, which we will keep strictly confidential, to verify a parent's identity before we provide any information or make corrections.
+
+_Age Verification_
+
+If your account is mistakenly registered as or converted to a junior account but the account user is over the age of 12, you can age verify the account. To age verify, please log into the account you would like to age verify. Once you log in, please head to your profile page > settings > account settings > verify age. Once at this page, please click "Get Code" to obtain your age verification action code. You can then use this code over at [http://rec.net/age](http://rec.net/age) to verify your account.
+
+Only verify your account if the user is above the age of 12. We reserve the right to place age verified accounts back into a junior account if we have irrefutable evidence that someone of the age of 12 and under is playing on an age verified account. If you need assistance with age verifying your account, please contact our support team by submitting a ticket with us.
 
 3\. From what sources does the Company collect Personal Information?
 --------------------------------------------------------------------
@@ -165,7 +175,7 @@ You may set your browser to refuse all or some browser cookies (e.g., by opting 
     
 * To market the Services – We may use your Personal Information to market our Services to you. For example, with your prior consent, we may send you news and updates about our products and Services, including special offers and promotions.
     
-* In furtherance of legal, health, and safety objectives – We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes). We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at [https://recroom.com/terms-of-service)](https://recroom.com/terms-of-service)).
+* In furtherance of legal, health, and safety objectives – We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to or retain your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes). We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at [https://recroom.com/terms-of-service](https://recroom.com/terms-of-service)).
     
 * In connection with a sale or other transfer of our business – In the event all or some of our assets are sold, assigned, transferred to, or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy, or otherwise, your Personal Information may be among the transferred assets.
     
@@ -180,6 +190,7 @@ We do not use automated decision-making in connection with the processing of you
 We may disclose your Personal Information:
 
 * To our subsidiaries and affiliates;
+* To our service providers for the purposes identified in Section 5 above.
 * To our lawyers, consultants, accountants, business advisors, and similar service providers who owe us duties of confidentiality;
 * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by the Company pertaining to the users of our Services is among the assets transferred;
 * To comply with any court order, law, or legal process, such as responding to a government or regulatory request;
@@ -194,7 +205,7 @@ _Our Retention, Purpose Limitation, and Security Policies_
 
 We protect your Personal Information through a combination of collection, security, and retention policies.
 
-* Limited retention. We only keep your Personal Information for as long as we need it for business and operational needs or to comply with any statutory, regulatory, or legal obligations. For example, we may retain Personal Information collected from you to support customer service inquiries and prevent repeated violations or suspected violations of the Terms of Service if your account has been banned or your access to the Services has been disabled for any reason. By way of another example, we may retain the content that you create and share publicly with the Rec Room community even after you stop using the Services.
+* Limited retention. We only keep your Personal Information for as long as we reasonably need it for business and operational needs or to comply with any statutory, regulatory, or legal obligations. For example, we may retain Personal Information collected from you to support customer service inquiries and prevent repeated violations or suspected violations of the Terms of Service if your account has been banned or your access to the Services has been disabled for any reason. By way of another example, we may retain the content that you create and share publicly with the Rec Room community even after you stop using the Services.
     
 * Purpose limitation. We will use your Personal Information only for the Services you choose to access and for the purposes for which you choose to share it. We will respect your requests to start or stop processing your Personal Information for marketing purposes, as well as the types of marketing messages you may wish to receive.
     
@@ -204,7 +215,7 @@ We protect your Personal Information through a combination of collection, securi
 
 _Your Practices and Activities_
 
-Your practices and activities are likewise very important for the protection your own Personal Information. You can take certain steps to help protect your Personal Information, such as being mindful of what you post in public places. For example:
+Your practices and activities are likewise very important for the protection of your own Personal Information. You can take certain steps to help protect your Personal Information, such as being mindful of what you post in public places. For example:
 
 * Do not use your real name when selecting a username.
 * Do not post your real name in public-facing areas of the Services and do not share anything private about yourself.
@@ -215,7 +226,7 @@ Remember that we have no control over what third parties do with the content of 
 
 _You May Request that We Delete Your Personal Information_
 
-We will also delete your Personal Information without undue delay when: (a) you request your Personal Information be deleted; (b) you delete your account, or no longer have an account (unless the Personal Information has been obscured, or de-identified so that it cannot be associated with you or your browser or device); (c) your Personal Information is no longer necessary to provide an app experience or service; and/or (d) when deletion is required by applicable law or regulations.
+Subject to any applicable law requiring or preventing otherwise, and except where retention of information is otherwise provided for by these Terms or allowed by law, we will also delete your Personal Information without undue delay when: (a) you request your Personal Information be deleted; (b) you delete your account, or no longer have an account (unless the Personal Information has been obscured, or de-identified so that it cannot be associated with you or your browser or device); (c) your Personal Information is no longer necessary to provide an app experience or service; and/or (d) when deletion is required by applicable law or regulations.
 
 8\. Additional Notice for European Union and United Kingdom Residents
 ---------------------------------------------------------------------
@@ -267,9 +278,9 @@ You have the right to lodge a complaint regarding our collection, storage, or pr
 
 The following applies to California residents pursuant to the California Consumer Privacy Act of 2018 ("CCPA"):
 
-* In the preceding 12 months, the Company may have disclosed the categories of Personal Information listed in Section 2 above to our service providers listed in Section 6 above for business purposes.
+* In the preceding 12 months, the Company may have disclosed the categories of Personal Information listed in Section 2 above to our service providers for business purposes.
     
-* In the preceding 12 months, the Company has not sold Personal Information. The Company only discloses Personal Information to service providers.
+* In the preceding 12 months, the Company has not sold or shared (as those terms are defined in CCPA §1798.140) Personal Information. The Company only discloses Personal Information to service providers for business purposes related to providing and operating the Services.
     
 * You have the right to request that the Company disclose certain information to you about our collection and use of your Personal Information over the past 12 months. Once we receive and confirm your verifiable consumer request, we will disclose to you, to the extent retained by us:
     
@@ -290,6 +301,9 @@ The following applies to California residents pursuant to the California Consume
     * Enable solely internal uses that are reasonably aligned with user expectations based on your relationship with us.
     * Comply with a legal obligation.
     * Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+    
+    • You have the right to request that the Company correct any inaccurate Personal Information that we collected from you
+    
 
 We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:
 
