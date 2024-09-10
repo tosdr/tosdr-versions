@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13304)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13304)en](https://www.cyberghostvpn.com/terms) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13406)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13406)en](https://www.cyberghostvpn.com/terms) 
         * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/terms)
         * [한국어](https://www.cyberghostvpn.com/ko/terms)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13304)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13406)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13304)en](https://www.cyberghostvpn.com/terms) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13406)en](https://www.cyberghostvpn.com/terms) 
         * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13304)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13406)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -368,14 +368,16 @@ Connect with us
 
 ×
 
-![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
+BACK-TO-SCHOOL SALE
 
-### Time to Step up Your Digital Protection
+OFF
+---
 
-The 2-Year Plan Is Now  
-Available for only /mo
------------------------------------------------
+This deal is too good to miss:  
+**4 months FREE!**
 
-**Save Now**
+**Get It Now | /mo**
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
+![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
+
+![](https://assets.cyberghostvpn.com/photos/cg/campaigns/bts24/exit-intent/exit-intent-v1.svg)
