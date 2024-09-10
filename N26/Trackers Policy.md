@@ -2,7 +2,7 @@ N26 Cookie Policy
 
 
 
-(Version 3.8 – 06 June 2024)
+(Version 3.9 – 03 September 2024)
 
 
 
@@ -7592,7 +7592,7 @@ GMP - DV360
 
 
 
-DSID
+IDE
 
 Persistent
 
@@ -7608,7 +7608,15 @@ maximum
 
 time period of
 
-2 Weeks.
+13 months.
+
+
+
+DSID
+
+Persistent
+
+Cookie
 
 
 
@@ -7637,6 +7645,18 @@ collected is used to tailor
 marketing messages and
 
 content to users ́ interests.
+
+
+
+The IDE cookie is used as
+
+part of GMP to enable us to
+
+deliver personalised ads to
+
+users and retarget them on
+
+the DV360 network.
 
 
 
@@ -7743,6 +7763,18 @@ Taiwan.
 
 
 25
+
+Cookie is
+
+deleted after a
+
+maximum
+
+time period of
+
+2 Weeks.
+
+
 
 Time of
 
@@ -8164,7 +8196,7 @@ processed by N26 will be deleted once the Cookie
 
 expires, here after the Cookie duration of 13 months
 
-(DSID).
+(IDE and DSID).
 
 
 
