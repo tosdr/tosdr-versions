@@ -6,11 +6,19 @@ TRY PARAMOUNT+ FOR FREE
 
 [Account](https://southpark.cc.com/account)
 
-[Video Guide](https://southpark.cc.com/seasons/south-park)
+[Full Episodes](https://southpark.cc.com/seasons/south-park)
+
+[Free Episodes](https://southpark.cc.com/episodes)
+
+[Streaming Events](https://southpark.cc.com/topic/south-park-events)
 
 [Collections](https://southpark.cc.com/collections)
 
-[Video Guide](https://southpark.cc.com/seasons/south-park)
+[Random Episode](https://southpark.cc.com/random-episode)
+
+[Episodios en Español](https://southpark.cc.com/es/seasons/south-park)
+
+[Full Episodes](https://southpark.cc.com/seasons/south-park)
 
 [Events](https://southpark.cc.com/topic/south-park-events)
 
@@ -22,19 +30,33 @@ TRY PARAMOUNT+ FOR FREE
 
 [Avatar](https://southpark.cc.com/info/lv0nha/avatar)
 
-[Games](https://southpark.cc.com/games)
+[Shop](https://www.southparkshop.com/?utm_source=southpark&utm_medium=referral&utm_campaign=southpar-navigation)
 
 [Forum](https://southpark.cc.com/forum)
 
-[Shop](https://bit.ly/33PzfXt)
+[More](#)
+
+[Games](https://southpark.cc.com/games)
+
+[Tegridy Farms](https://cart.mn/tgdf)
+
+[The Book of Mormon](https://cart.mn/bom)
 
 [](https://southpark.cc.com/)
 
-[Video Guide](https://southpark.cc.com/seasons/south-park)
+[Full Episodes](https://southpark.cc.com/seasons/south-park)
+
+[Free Episodes](https://southpark.cc.com/episodes)
+
+[Streaming Events](https://southpark.cc.com/topic/south-park-events)
 
 [Collections](https://southpark.cc.com/collections)
 
-[Video Guide](https://southpark.cc.com/seasons/south-park)
+[Random Episode](https://southpark.cc.com/random-episode)
+
+[Episodios en Español](https://southpark.cc.com/es/seasons/south-park)
+
+[Full Episodes](https://southpark.cc.com/seasons/south-park)
 
 [Events](https://southpark.cc.com/topic/south-park-events)
 
@@ -46,11 +68,17 @@ TRY PARAMOUNT+ FOR FREE
 
 [Avatar](https://southpark.cc.com/info/lv0nha/avatar)
 
-[Games](https://southpark.cc.com/games)
+[Shop](https://www.southparkshop.com/?utm_source=southpark&utm_medium=referral&utm_campaign=southpar-navigation)
 
 [Forum](https://southpark.cc.com/forum)
 
-[Shop](https://bit.ly/33PzfXt)
+[More](#)
+
+[Games](https://southpark.cc.com/games)
+
+[Tegridy Farms](https://cart.mn/tgdf)
+
+[The Book of Mormon](https://cart.mn/bom)
 
 [](https://southpark.cc.com/account)
 
@@ -297,7 +325,7 @@ Subscribe for South Park announcements and offers
 
 * * *
 
-By clicking subscribe, you consent to receive South Park newsletters and other marketing emails. Newsletters are subject to our [Privacy Policy](https://www.southparkstudios.co.uk/legal/ix2k45/privacy-policy) and [Terms of Use](https://www.southparkstudios.co.uk/legal/xbb5zp/terms-of-use). Users can unsubscribe at any time. A.W.E.S.O.M. - O will not make fun of you or tell your secrets to other people or stuff.
+By clicking Subscribe, you confirm that you have read and agree to our [Terms of Use](https://southpark.cc.com/legal/o3ccr8/terms-of-use) and acknowledge our [Privacy Policy](https://privacy.paramount.com/policy) and you agree to receive marketing communications, updates, special offers (including partner offers) and other information from South Park and the Paramount family of companies. You understand that you can unsubscribe at any time. A.W.E.S.O.M.- O will not make fun of you or tell your secrets to other people or stuff.
 
 SUBSCRIBE
 
@@ -305,11 +333,14 @@ SUBSCRIBE
 * [Cast and Crew](https://southpark.cc.com/info/tkdxo6/cast-and-crew "Cast and Crew")
 * [Web Credits](https://southpark.cc.com/info/ea4cty/web-credits "Web Credits")
 * [Contact](https://southpark.cc.com/info/z67g4e/contact "Contact")
-* [Privacy Policy](https://www.viacomcbsprivacy.com/policy "Privacy Policy")
-* [Terms of Use](https://southpark.cc.com/legal/xbb5zp/terms-of-use "Terms of Use")
-* [Show Disclaimer](https://southpark.cc.com/info/thmcbs/show-disclaimer "Show Disclaimer")
+* [Privacy Policy](https://privacy.paramount.com/policy "Privacy Policy")
 * [Your Privacy Choices](# "Your Privacy Choices")
 * [California Notice](https://privacy.paramount.com/en/policy#additional-information-us-states "California Notice")
+* [Terms of Use](https://southpark.cc.com/legal/o3ccr8/terms-of-use "Terms of Use")
+* [Closed Captioning](https://privacy.paramount.com/closed-captioning "Closed Captioning")
+* [Copyright Compliance](https://southpark.cc.com/legal/xuqfse/copyright-compliance "Copyright Compliance")
+* [Keep Paramount](https://www.keepparamount.com/ "Keep Paramount")
+* [Show Disclaimer](https://southpark.cc.com/info/thmcbs/show-disclaimer "Show Disclaimer")
 
 * [](https://www.facebook.com/southpark/)
 * [](https://twitter.com/SouthPark)
