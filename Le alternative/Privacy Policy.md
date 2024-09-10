@@ -4,7 +4,7 @@
 
 [Le Alternative](https://www.lealternative.net/)
 
-Menù Chiudi
+Menu Chiudi
 
 * [MENU](#)Apri menu
     * [CHI SIAMO](https://www.lealternative.net/chi-siamo/)
@@ -62,12 +62,13 @@ Menù Chiudi
         * [GRUPPO ANDROID](https://matrix.to/#/#lealternative-android:matrix.org)
         * [GRUPPO OT](https://matrix.to/#/#lealternative-ot:matrix.org)
     * [XMPP](https://www.lealternative.net/come-seguirci#xmpp)
+    * [SIGNAL](https://fedd.it/signal)
+    * [SIMPLEX CHAT](https://fedd.it/simplex)
     * [TELEGRAM](#)
         * [GRUPPO TELEGRAM](https://t.me/LeAlternativeGruppoUfficiale)
         * [CHAT TELEGRAM](https://t.me/LeAlternativeChat)
         * [CANALE TELEGRAM](https://t.me/lealternative)
         * [FRESH (NOTIZIE)](https://t.me/LeAlternativeFresh)
-    * [SIGNAL](https://fedd.it/signal)
     * [WHATSAPP](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
 * [DIFFICOLTÀ](#)Apri menu
     * [DIFFICOLTÀ ◉○○○](https://www.lealternative.net/difficolta-1/)
@@ -79,7 +80,7 @@ Menù Chiudi
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
-[![](/wp-content/uploads/2024/03/feddit5.png)](https://feddit.it/c/lealternative) [![](/wp-content/uploads/2024/03/flarumicon.png)](https://lealternative.forum/) [![](/wp-content/uploads/2024/03/logosignal.png)](https://fedd.it/signal) [![](/wp-content/uploads/2024/03/Digital_Glyph_Green.png)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L) [![](/wp-content/uploads/2024/03/telegram.png)](https://t.me/LeAlternativeGruppoUfficiale) [![](/wp-content/uploads/2024/03/matrix3.png)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![](/wp-content/uploads/2024/03/xmpp.svg)](https://www.lealternative.net/come-seguirci#xmpp) [![](/wp-content/uploads/2024/03/discord.png)](https://discord.gg/NhYJ2HNsRN)
+Unisciti alle comunità di Le Alternative: [![Logo di Feddit](/wp-content/uploads/2024/05/feddit5.webp)](https://feddit.it/c/lealternative) [![Logo di Signal](/wp-content/uploads/2024/05/logosignal.webp)](https://fedd.it/signal) [![Logo di SimpleX Chat](/wp-content/uploads/2024/09/simplex-ok.png)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/2024/05/telegram.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/2024/05/matrix3.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org) [![Logo di WhatsApp](/wp-content/uploads/2024/05/Digital_Glyph_Green.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
 
 Privacy Policy completa
 =======================
