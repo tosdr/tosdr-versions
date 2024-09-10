@@ -2,7 +2,9 @@
 
 [![dbdiagram logo](https://cdn.holistics.io/logo-dbdiagram-notext.ico)![dbdiagram logo](https://cdn.holistics.io/logo-dbdiagram-notext.ico)
 
-**dbdiagram Docs**](https://dbdiagram.io/docs/)[Docs](https://dbdiagram.io/docs/)[APIBETA](https://dbdiagram.io/docs/api/v1)[Roadmap](https://dbdiagram.io/docs/roadmap)[Release Notes](https://dbdiagram.io/docs/release-notes)[Go To App 👉](https://dbdiagram.io/d)
+**dbdiagram Docs**](https://dbdiagram.io/)[Docs](https://dbdiagram.io/)[API](https://dbdiagram.io/api/v1)[Release Notes](https://dbdiagram.io/release-notes)[Go To App 👉](https://dbdiagram.io/d)
+
+[Roadmap](https://holistics.notion.site/Public-Product-Roadmap-dbx-dbdiagram-dbdocs-dbml-c36af127c86a40919337b61ac6e12a48)
 
 [dbx](#)
 
@@ -11,38 +13,38 @@
 * [dbml - Database Definition As Code](https://dbml.dbdiagram.io/?utm_source=dbdiagram-docs)
 * [Holistics.io - BI Reporting As Code](https://www.holistics.io/?utm_source=dbdiagram-docs&utm_medium=topnav&utm_campaign=landing)
 
-* [Introduction](https://dbdiagram.io/docs/)
-* [Syntax](https://dbdiagram.io/docs/dbml)
+* [Introduction](https://dbdiagram.io/)
+* [Syntax](https://dbdiagram.io/dbml)
     
-    * [DBML](https://dbdiagram.io/docs/dbml)
-    * [Tables & Fields](https://dbdiagram.io/docs/tables)
-    * [Relationships](https://dbdiagram.io/docs/relationships)
-    * [Schemas](https://dbdiagram.io/docs/schemas)
-* [Workspaces](https://dbdiagram.io/docs/workspaces)
-* [Real-time Collaboration](https://dbdiagram.io/docs/collaborations)
-* [Password-protection & Private Diagrams](https://dbdiagram.io/docs/password-private)
-* [Working with Complex Diagrams](https://dbdiagram.io/docs/diagram-detail-levels)
+    * [DBML](https://dbdiagram.io/dbml)
+    * [Tables & Fields](https://dbdiagram.io/tables)
+    * [Relationships](https://dbdiagram.io/relationships)
+    * [Schemas](https://dbdiagram.io/schemas)
+* [Workspaces](https://dbdiagram.io/workspaces)
+* [Real-time Collaboration](https://dbdiagram.io/collaborations)
+* [Password-protection & Private Diagrams](https://dbdiagram.io/password-private)
+* [Working with Complex Diagrams](https://dbdiagram.io/diagram-detail-levels)
     
-    * [Diagram Detail Levels](https://dbdiagram.io/docs/diagram-detail-levels)
-    * [Table Header Color](https://dbdiagram.io/docs/table-header-color)
-    * [Table Groups](https://dbdiagram.io/docs/table-groups)
-    * [Version History](https://dbdiagram.io/docs/version-history)
-    * [Sticky Notes](https://dbdiagram.io/docs/sticky-notes)
-* [Embedding Diagram in Other Applications](https://dbdiagram.io/docs/embedding)
-* [Editing Experience](https://dbdiagram.io/docs/editing-experience)
+    * [Diagram Detail Levels](https://dbdiagram.io/diagram-detail-levels)
+    * [Table Header Color](https://dbdiagram.io/table-header-color)
+    * [Table Groups](https://dbdiagram.io/table-groups)
+    * [Version History](https://dbdiagram.io/version-history)
+    * [Sticky Notes](https://dbdiagram.io/sticky-notes)
+* [Embedding Diagram in Other Applications](https://dbdiagram.io/embedding)
+* [Editing Experience](https://dbdiagram.io/editing-experience)
     
-    * [DBML editor](https://dbdiagram.io/docs/editing-experience/editor)
-    * [Diagram visualizer](https://dbdiagram.io/docs/editing-experience/diagram-visualizer)
-* [FAQs](https://dbdiagram.io/docs/faqs/download-invoices)
+    * [DBML editor](https://dbdiagram.io/editing-experience/editor)
+    * [Diagram visualizer](https://dbdiagram.io/editing-experience/diagram-visualizer)
+* [FAQs](https://dbdiagram.io/faqs/download-invoices)
     
-* [Support Hours & SLA](https://dbdiagram.io/docs/support-sla)
-* [Security & Compliance](https://dbdiagram.io/docs/security-and-compliance)
+* [Support Hours & SLA](https://dbdiagram.io/support-sla)
+* [Security & Compliance](https://dbdiagram.io/security-and-compliance)
     
-    * [Data Security](https://dbdiagram.io/docs/security-and-compliance/data-security)
-    * [Privacy Policy](https://dbdiagram.io/docs/security-and-compliance/privacy-policy)
-    * [Terms of Service](https://dbdiagram.io/docs/security-and-compliance/terms-of-service)
-    * [Responsible Disclosure Policy](https://dbdiagram.io/docs/security-and-compliance/responsible-disclosure)
-* [Roadmap](https://dbdiagram.io/docs/roadmap)
+    * [Data Security](https://dbdiagram.io/security-and-compliance/data-security)
+    * [Privacy Policy](https://dbdiagram.io/security-and-compliance/privacy-policy)
+    * [Terms of Service](https://dbdiagram.io/security-and-compliance/terms-of-service)
+    * [Responsible Disclosure Policy](https://dbdiagram.io/security-and-compliance/responsible-disclosure)
+* [Roadmap](https://holistics.notion.site/Public-Product-Roadmap-dbx-dbdiagram-dbdocs-dbml-c36af127c86a40919337b61ac6e12a48)
 
 On this page
 
@@ -51,11 +53,11 @@ Privacy Policy
 
 _Updated: 21 Feb 2024_
 
-Holistics ("us", "we", or "our") operates the [dbdiagram.io](https://dbdiagram.io/) and [dbdocs.io](https://dbdocs.io/) websites (hereinafter referred to as the "Service").
+Holistics ("us", "we", or "our") operates the [dbdiagram.io](http://dbdiagram.io/) and [dbdocs.io](https://dbdocs.io/) websites (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding collecting, using, and disclosing personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [dbdiagram.io](https://dbdiagram.io/) and [dbdocs.io](https://dbdocs.io/).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [dbdiagram.io](http://dbdiagram.io/) and [dbdocs.io](https://dbdocs.io/).
 
 Information Collection And Use[​](#information-collection-and-use "Direct link to Information Collection And Use")
 ------------------------------------------------------------------------------------------------------------------
@@ -199,9 +201,9 @@ If you have any questions about this Privacy Policy, please contact us:
 
 [Previous
 
-Data Security](https://dbdiagram.io/docs/security-and-compliance/data-security)[Next
+Data Security](https://dbdiagram.io/security-and-compliance/data-security)[Next
 
-Terms of Service](https://dbdiagram.io/docs/security-and-compliance/terms-of-service)
+Terms of Service](https://dbdiagram.io/security-and-compliance/terms-of-service)
 
 * [Information Collection And Use](#information-collection-and-use)
     * [Types of data collected](#types-of-data-collected)
@@ -220,9 +222,9 @@ Terms of Service](https://dbdiagram.io/docs/security-and-compliance/terms-of-ser
 
 On this page
 
-* [Docs](https://dbdiagram.io/docs/)
-* [Roadmap](https://dbdiagram.io/docs/roadmap/)
-* [Release Notes](https://dbdiagram.io/docs/release-notes/)
+* [Docs](https://dbdiagram.io/)
+* [API](https://dbdiagram.io/api/v1)
+* [Release Notes](https://dbdiagram.io/release-notes/)
 
 Social
 
@@ -232,7 +234,8 @@ Social
 
 More
 
+* [Roadmap](https://holistics.notion.site/Public-Product-Roadmap-dbx-dbdiagram-dbdocs-dbml-c36af127c86a40919337b61ac6e12a48)
 * [Blog](https://blog.dbdiagram.io/)
-* [Privacy Policy](https://dbdiagram.io/docs/security-and-compliance/privacy-policy/)
+* [Privacy Policy](https://dbdiagram.io/security-and-compliance/privacy-policy/)
 
 Copyright © 2024 Holistics Software. All rights reserved.
