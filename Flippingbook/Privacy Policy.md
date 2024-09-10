@@ -1,4 +1,4 @@
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
 Products
 
@@ -8,17 +8,17 @@ Most popular
 
 Web service for converting PDFs into HTML5 flipbooks
 
-![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
+![Logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/logo-white.svg)](https://flippingbook.com/online-publishing-service?from=products-menu)
 
 [Overview](https://flippingbook.com/online-publishing-service?from=products-menu) [Sharing and embedding](https://flippingbook.com/share-documents-online?from=products-menu) [Content protection](https://flippingbook.com/content-protection?from=products-menu) [Document tracking](https://flippingbook.com/document-tracking?from=products-menu) [Teamwork](https://flippingbook.com/teamwork?from=products-menu) [Sales tools](https://flippingbook.com/sales-tools?from=products-menu) [Marketing tools](https://flippingbook.com/online-marketing-tools?from=products-menu) [Video and links](https://flippingbook.com/adding-video-and-links?from=products-menu) [All features](https://flippingbook.com/online-service-features?from=products-menu)
 
 More Products
 
- [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/products/desktop.svg) FlippingBook Publisher
+ [![Desktop](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/products/desktop.svg) FlippingBook Publisher
 
-Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/products/server.svg) FlippingBook Automation
+Software for Windows: host HTML5 flipbooks on your server](https://flippingbook.com/digital-publishing-software?from=products-menu) [![Server](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/products/server.svg) FlippingBook Automation
 
-Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/products/salespal.svg) Salespal
+Professional tool: automated PDF to HTML5 conversion](https://flippingbook.com/automation?from=products-menu) [![Salespal](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/products/salespal.svg) Salespal
 
 Mobile platform: use flipbooks in sales and at tradeshows](https://flippingbook.com/salespal?from=products-menu)
 
@@ -32,23 +32,21 @@ Help
 
 [Help Center](https://flippingbook.com/help?from=help-menu) [Contacts](https://flippingbook.com/contacts?contact-form=support&from=help-menu) Chat with us [System status](https://status.flippingbook.com/)
 
-Contact sales
+[Contact sales](https://flippingbook.com/book-a-demo)
 
-[Request demo](https://calendly.com/flippingbook-sales-team/demo-session-emea?utm_source=sales-menu) Chat [Email](https://flippingbook.com/contacts?contact-form=sales&subject=Contact%20sales) [+44 808 501 5251](tel:+44 808 501 5251)
-
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=EOyAlxbUufXRfK3gosVv*yjBsfSHVlR72JbHHrnt5wPCpF9KEa3hHvbuM9Byi7ob) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=bLguJYMAM3Lx7F6TcaXIrD2QnqlykP6y53SExO4I7QJTVm762tMs6IYquYrf65Si)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=z4hTftjh3CUi04eOQf12vcF8jCfkauEcJN6AHp8E8hH7uncFUP8Ap%2fE4BkDb*O6w) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=CDemeGKgEQzlsPlKvCF5W*RfKdbqCrVqZ7QjKYVLsr1wCyBuG7zmyPcVLfDaK84J)
 
 [My account](https://flippingbook.com/account)
 
-![Crumb left](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/menu-arrow-left.svg)
+![Crumb left](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/menu-arrow-left.svg)
 
-[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
+[![FlippingBook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/logo-full-white.svg "FlippingBook - view and share your online documents with ease.")](https://flippingbook.com/)
 
-[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=PtAmmgv1e4pqi*m3*baC*lIjD22bn3QxDLVBJ9fTaTmbmTyDNrD3LRimuckAmxvC) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=uMTBF1rrrN2derekImSxb3Z340%2fAyDcIjzkh*Cm52ye1johgf0OwPQFsPTFAbece)
+[Log in](https://logon.flippingbook.com/login?r=site&t=both&asc=*3NboJjZI8jyxXO6VAXoiBowh8XbEIBWBXETkj2NF4fDWJdCzwWtCEuow5fAyqbN) [Try for free](https://logon.flippingbook.com/register?r=site&t=both&asc=EnlZgaU2Yuu0oY%2f2EgfFDuKvV2Myaxa5l%2f9FWTkYyUtq6DjVJsxsyOQpgJYoJ8gE)
 
 [My account](https://flippingbook.com/account/autonav) [Log out](https://flippingbook.com/account/logout)
 
-[Request demo](https://calendly.com/flippingbook-sales-team/demo-session-emea?utm_source=mobile-menu)
+[Request demo](https://flippingbook.com/book-a-demo?utm_source=mobile-menu)
 
 [FlippingBook Online
 
@@ -196,7 +194,7 @@ You have the right to decide whether to accept or reject cookies:
 
 **Mobile Advertising:** You can opt out of having your mobile advertising identifiers used for certain types of Interest-Based Advertising, including those performed by us, by accessing the settings in your Apple or Android mobile device and following the most recent published instructions. If you opt out, we will remove all data about you and no further data collection or tracking will occur. The random ID we (or our third-party partners) had previously assigned to you will also be removed. This means that if at a later stage, you decide to opt-in, we will not be able to continue and track you using the same ID as before, and you will for all practical purposes be a new user to our system.
 
-**Do Not Track:** Some Internet browsers — like Internet Explorer, Firefox, and Safari — include the ability to transmit “Do Not Track” or “DNT” signals. Since uniform standards for “DNT” signals have not been adopted, our Websites do not currently process or respond to “DNT” signals. FlippingBook takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard. To learn more about “DNT”, please visit [All About Do Not Track](https://allaboutdnt.com/).
+**Do Not Track:** Some Internet browsers — like Internet Explorer, Firefox, and Safari — include the ability to transmit “Do Not Track” or “DNT” signals. Since uniform standards for “DNT” signals have not been adopted, our Websites do not currently process or respond to “DNT” signals. FlippingBook takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard. To learn more about “DNT”, please visit [All About Do Not Track](https://securiti.ai/what-is-do-not-track-dnt/).
 
 If you have any questions about our use of cookies or other technologies, please email us at [privacy@flippingbook.com](mailto:privacy@flippingbook.com)
 
@@ -390,14 +388,14 @@ Was this article helpful?  Yes No The information is confusing I couldn't find t
 Other Resources
 ---------------
 
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
-*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/help/other-resources/features.svg)System status](https://status.flippingbook.com/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/help/other-resources/contact-us.svg)Contact Us](https://flippingbook.com/contacts)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/help/other-resources/user-guide.svg)FlippingBook FAQ](https://online.flippingbook.com/view/215165267/)
+*  [![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/help/other-resources/legacy-products-guide.svg)Legacy Products Guide](https://flippingbook.cld.bz/legacy-products-guide/)
 
 ;
 
- [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
+ [![Flippingbook logo](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/logo-full-middle-baseline.svg) products](https://flippingbook.com/)
 
 [FlippingBook Online](https://flippingbook.com/online-publishing-service?from=footer)
 
@@ -419,7 +417,7 @@ Batch converter from PDF to HTML5
 
 Mobile platform for sales and tradeshow collateral
 
-![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/planet-grey.svg) English
+![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/planet-grey.svg) English
 
 * [English](https://flippingbook.com/en/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
 * [Deutsch](https://flippingbook.com/de/help/common/privacy-policy-and-disclaimer?from=cookie-banner)
@@ -434,8 +432,8 @@ Mobile platform for sales and tradeshow collateral
 
 **Benefits** [Audience engagement](https://flippingbook.com/interactive-pdf?from=footer) [Effortless sharing](https://flippingbook.com/pdf-online?from=footer) [Authentic experience](https://flippingbook.com/page-flip-pdf?from=footer) [Enhanced viewing](https://flippingbook.com/online-pdf-document-view?from=footer) [Powerful insights](https://flippingbook.com/document-tracking?from=footer) [Content protection](https://flippingbook.com/content-protection?from=footer)
 
-**Sales & Support** [Contact us](https://flippingbook.com/contacts?from=footer) [Request demo](https://calendly.com/flippingbook-sales-team/demo-session-emea?utm_source=footer) [Help Center](https://flippingbook.com/help?from=footer) [System status](https://status.flippingbook.com/) [Call sales  
-+44 808 501 5251](tel:+44 808 501 5251)
+**Sales & Support** [Contact us](https://flippingbook.com/contacts?from=footer) [Request demo](https://flippingbook.com/book-a-demo?utm_source=footer) [Help Center](https://flippingbook.com/help?from=footer) [System status](https://status.flippingbook.com/) [Call sales  
++1 855 972 9587](tel:+1 855 972 9587)
 
 Our products
 ------------
@@ -464,7 +462,7 @@ Mobile platform for sales and tradeshow collateral
 
 **Company** [About us](https://flippingbook.com/about?from=mobile-footer) [Reseller Program](https://flippingbook.com/partner/reseller?from=mobile-footer) [Privacy Policy](https://flippingbook.com/help/common/privacy-policy-and-disclaimer?from=mobile-footer)
 
-![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/common/planet-grey.svg) English Deutsch Español Français
+![](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/common/planet-grey.svg) English Deutsch Español Français
 
 FlippingBook
 
@@ -474,4 +472,4 @@ Follow us: [Facebook](https://www.facebook.com/flippingbook), [Twitter](https://
 
 Copyright © FlippingBook.com. All rights reserved.
 
-![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10092/icons/drift/chat.svg)
+![drift chat](https://d1qwl4ymp6qhug.cloudfront.net/Release/R10101/icons/drift/chat.svg)
