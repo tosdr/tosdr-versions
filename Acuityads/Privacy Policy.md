@@ -1,27 +1,25 @@
-EARNINGS CALL - illumin's Q2 earnings call is Aug 8
-
-[Register](https://illumin.com/investor-information/earnings-call/)
-
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
     * [Technology](#)
         * [Journey Canvas](https://illumin.com/product/journey-canvas/)
-        * [Channels](https://illumin.com/product/channels/)
         * [Audience Engagement Map](https://illumin.com/product/audience-engagement-map/)
         * [Pathlight Analysis](https://illumin.com/product/pathlight-analysis/)
+        * [Channels](https://illumin.com/product/channels/)
+        * [How to Work With illumin](https://illumin.com/product/service-levels/)
     * [By use case](#)
         * [illumin for Agencies](https://illumin.com/illumin-for-agencies/)
         * [illumin for Brands](https://illumin.com/illumin-for-brands/)
         * [illumin for Political](https://illumin.com/illumin-for-political/)
         * [illumin for Health](https://illumin.com/illumin-for-health/)
-    * ![menu-image@2x](https://illumin.com/wp-content/uploads/2023/04/menu-image@2x.png)
+        * [illumin for Social](https://illumin.com/product/case-study-mnco-open-web-to-social/)
+    * ![Illumin The Inside Scoop](https://illumin.com/wp-content/uploads/2024/08/illumin_InsideScoop-Blog-2-1.jpg)
         
-        Journey Canvas
+        Webinar
         
-        Market like a marketer with the illumin connected journey canvas.
+        Uncover retail advertising trends for 2024 in our September 10 webinar with Rockerbox!
         
-        [Learn More](https://illumin.com/product/journey-canvas/)
+        [Register](https://illumin.com/insights/podcasts-webinars/inside-scoop-state-of-holiday-digital-spend/)
         
 * [Insights](https://illumin.com/insights/)
     * [Insights](#)
@@ -29,9 +27,9 @@ EARNINGS CALL - illumin's Q2 earnings call is Aug 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Digital out-of-home advertising: a quick guide](https://illumin.com/wp-content/uploads/2024/07/Digital-out-of-home-advertising-263x300.png)
+    * ![Is AI regulated? Yes! Here’s what marketers need to know](https://illumin.com/wp-content/uploads/2024/09/AI-regulations-1-263x300.jpg)
         
-        Digital out-of-home advertising: a quick guide[Read More](https://illumin.com/insights/blog/digital-out-of-home-guide/)
+        Is AI regulated? Yes! Here’s what marketers need to know[Read More](https://illumin.com/insights/blog/is-ai-regulated-yes-what-need-to-know/)
         
 * [Company](#)
     * [Company](#)
@@ -44,16 +42,16 @@ EARNINGS CALL - illumin's Q2 earnings call is Aug 8
         
         Build a career building the future of advertising.
         
-        [See open roles](https://go.illumin.com/careers-at-illumin)
+        [See open roles](https://illumin.com/careers/)
         
 * [Investors](#)
     * [Investor Information](#)
         * [Investor Information](https://illumin.com/investor-information/)
         * [Stock Performance](https://illumin.com/stock-performance/)
         * [News & Press](https://illumin.com/news-press/)
-    * ![illumin Holdings Inc. Announces Date of Second Quarter 2024 Financial and Operating Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
+    * ![illumin Reports Second Quarter 2024 Financial Results](https://illumin.com/wp-content/uploads/2023/07/Whats-new-with-illumin-263x300.jpg)
         
-        illumin Holdings Inc. Announces Date of Second Quarter 2024 Financial and Operating Results[Read More](https://illumin.com/news-press/illumin-announces-date-of-q2-2024-financial-operating-results/)
+        illumin Reports Second Quarter 2024 Financial Results[Read More](https://illumin.com/news-press/illumin-reports-second-quarter-2024-financial-results/)
         
 * [Request a demo](https://illumin.com/product/request-a-demo/)
 
@@ -159,7 +157,7 @@ illumin reserves the right to revise its policies and practices periodically. If
 
 If you have any questions about our privacy policy, please contact us:
 
-Tal Hayek, CEO  
+Simon Cairns, CEO  
 illumin  
 [https://www.illumin.com](https://www.illumin.com/)  
 70 University Ave, Suite 1200  
@@ -213,3 +211,7 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
