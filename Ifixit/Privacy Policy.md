@@ -26,7 +26,6 @@ Table of Contents
         * [Facebook Pixel](#Section__Facebook_Pixel)
         * [Google Services](#Section__Google_Services)
         * [Shipping Services](#Section__Shipping_Services)
-    * [FOR CALIFORNIA RESIDENTS](#Section__FOR_CALIFORNIA_RESIDENTS)
         * [Information We Collect](#Section__Information_We_Collect)
         * [Use of Personal Information](#Section__Use_of_Personal_Information)
         * [Sharing Personal Information](#Section__Sharing_Personal_Information)
@@ -51,7 +50,7 @@ Table of Contents
 Privacy Policy
 ==============
 
-Effective August 5, 2020
+Effective July 31st, 2024
 
 [](#Section__TL_DR "Link to this section")
 
@@ -239,11 +238,9 @@ You can disable these services at any time by using your Google account’s ad p
 
 #### **Shipping Services**
 
-We use Shipstation to ship products you order from us. In order to facilitate delivery of your order, we provide to Shipstation data including but not limited to name, address, email address, mobile telephone number, and contents of package. Shipstation may use this date to enhance the delivery process for our customers and it may use notifications and geodata for that purpose, which may involve Shipstation sharing such details with limited third parties’ data processors, for the purpose of completing the requested services. You can read Shipstation’s Privacy Policy [here](https://www.shipstation.com/privacy-policy).
+We use Auctane services, including Stamps.com and Encidia, and ShipJunction to ship products you order from us. In order to facilitate delivery of your order, we provide to Auctane and/or ShipJunction data including but not limited to name, address, email address, mobile telephone number, and contents of package. Auctane and/or ShipJunction may use this data to enhance the delivery process for our customers and it may use notifications and geodata for that purpose, which may involve Auctane and/or ShipJunction sharing such details with limited third parties’ data processors, for the purpose of completing the requested services. You can read Auctane's Privacy Policy [here](https://www.shipstation.com/privacy-policy), and ShipJunction's Privacy Policy [here](https://www.shipjunction.com/privacy-policy.html).
 
-[](#Section__FOR_CALIFORNIA_RESIDENTS "Link to this section")
-
-### **FOR CALIFORNIA RESIDENTS**
+**FOR CALIFORNIA RESIDENTS**
 
 This **Privacy Notice for California Residents** supplements the information contained above and applies solely to all visitors, users, and others who reside in the State of California ("consumers" or "you"). We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this Notice.
 
@@ -580,12 +577,12 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 **View Statistics:**
 
-Past 24 Hours: 14
+Past 24 Hours: 19
 
-Past 7 Days: 139
+Past 7 Days: 92
 
-Past 30 Days: 621
+Past 30 Days: 568
 
-All Time: 80,878
+All Time: 81,686
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F263%2Fen)
