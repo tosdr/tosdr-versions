@@ -27,7 +27,7 @@ Update
 
 Check out
 
-Snapmint | 0% EMI | No credit card needed
+Snapmint | 0% EMI | available above ₹2999
 
 * [About us](https://www.livpure.com/pages/about-us)
 * [Awards & Certification](https://www.livpure.com/pages/awards-certification)
@@ -70,6 +70,11 @@ Snapmint | 0% EMI | No credit card needed
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
+    * [Ortho-Duos-x](https://www.livpure.com/products/ortho-x-mattress-6-inch-memory-foam-basic)
+    * [Elements](https://www.livpure.com/products/element-elements-reversible-hr-foam-mattress-premium-certified-fabric)
+    * [Ortho pro+](https://www.livpure.com/products/ortho-pro-memory-profile-with-s-shape-hr-foam-mattress)
+    * [Essentia](https://www.livpure.com/products/essentia-hr-pure-foam-mattress)
+    * [Duos pro+](https://www.livpure.com/products/duos-pro-reversible-profile-hr-foam-mattress-3d-sleeptech-zones)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -92,6 +97,7 @@ Snapmint | 0% EMI | No credit card needed
     * [Puremist Hand Sanitizer Dispenser](https://www.livpure.com/products/puremist-hand-sanitizer-dispenser)
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
+    * [kitchen catalog](https://www.livpure.com/pages/kitchen-catalog)
     
 * [Spare Part & Accessories](https://www.livpure.com/collections/water-purifier-accessories)
 * Buy ACMC
@@ -130,6 +136,11 @@ Snapmint | 0% EMI | No credit card needed
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
+    * [Ortho-Duos-x](https://www.livpure.com/products/ortho-x-mattress-6-inch-memory-foam-basic)
+    * [Elements](https://www.livpure.com/products/element-elements-reversible-hr-foam-mattress-premium-certified-fabric)
+    * [Ortho pro+](https://www.livpure.com/products/ortho-pro-memory-profile-with-s-shape-hr-foam-mattress)
+    * [Essentia](https://www.livpure.com/products/essentia-hr-pure-foam-mattress)
+    * [Duos pro+](https://www.livpure.com/products/duos-pro-reversible-profile-hr-foam-mattress-3d-sleeptech-zones)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -148,6 +159,7 @@ Snapmint | 0% EMI | No credit card needed
     * [Puremist Hand Sanitizer Dispenser](https://www.livpure.com/products/puremist-hand-sanitizer-dispenser)
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
+    * [kitchen catalog](https://www.livpure.com/pages/kitchen-catalog)
     
 * [Spare Part & Accessories](https://www.livpure.com/collections/water-purifier-accessories)
 * Buy ACMC
@@ -479,33 +491,43 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
+
 ★ Judge.me Reviews
 
 ### Let customers speak for us
 
-[4550 reviews](https://www.livpure.com/pages/reviews)
+[4549 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
-87%
+88%
 
-(3980)
+(3513)
 
-10%
+9%
 
-(443)
+(378)
 
 1%
 
-(67)
+(58)
 
 0%
 
-(19)
+(16)
 
 1%
 
-(41)
+(35)
 
 A
 
@@ -567,16 +589,6 @@ Thank you for your valuable review. We are glad that you are loving our products
 
 123
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
 
@@ -586,15 +598,13 @@ Create an account with us to view your order status online. Your details can als
 
 ![](https://cdn.shopify.com/s/files/1/0414/1357/4809/files/sachin-popup_copy.webp?v=1666770373)
 
-            
+           
 
    
 
-Choose Product Buy Water Purifier Service Request
+Choose Product Buy Water Purifier
 
- By creating an account on Livpure, you agree to our [Privacy Policy](https://livpure.com/policies/privacy-policy)
-
- By creating an account on Livpure, you agree to our Consent cookies & cookie policy.
+ By creating an account on Livpure, you agree to our [Privacy Policy](https://livpure.com/policies/privacy-policy), receive WhatsApp, SMS notifications or Call and consent to our cookie policy.
 
  
 
