@@ -1,12 +1,12 @@
 [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
 
-[Cart (00)](https://www.genmobile.com/cart)
+[Cart (0)](https://www.genmobile.com/cart)
 
 [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
 
 Search   
 
-[Cart (00)](https://www.genmobile.com/cart)
+[Cart (0)](https://www.genmobile.com/cart)
 
 * [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
     
@@ -25,7 +25,7 @@ Search
     * [Contact Us](https://www.genmobile.com/pages/contact-us)
     * [Coverage](https://www.genmobile.com/pages/5g)
     * [Easy Pay](https://www.genmobile.com/pages/easypay)
-* [Cart (00)](https://www.genmobile.com/cart)
+* [Cart (0)](https://www.genmobile.com/cart)
     
 
 [MyAccount
@@ -166,11 +166,11 @@ SHOP
 
 SERVICE FEATURES
 
-* [What is 5G](https://www.genmobile.com/pages/5g#whatis5g)
+* [5G Coverage](https://www.genmobile.com/pages/5g#whatis5g)
 * [Affordable Connectivity Program](https://www.genmobile.com/pages/acp)
 * [Lifeline](https://www.genmobile.com/pages/lifeline-program)
-* [Coverage](https://www.genmobile.com/pages/5g)
 * [Call Mexico](https://www.genmobile.com/pages/call-international-mexico)
+* [Call Canada](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-canada)
 * [Call China](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-china)
 * [Call India](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-india)
 
@@ -178,7 +178,6 @@ OUR COMPANY
 
 * [About Us](https://www.genmobile.com/pages/about-us)
 * [Why Gen](https://www.genmobile.com/pages/why-gen-mobile)
-* [Dish Wireless](https://www.dishwireless.com/home)
 * [Blog](https://www.genmobile.com/blogs/news)
 * [Become a Dealer](https://www.genmobile.com/pages/dealer)
 * [Become an Affiliate](https://www.genmobile.com/pages/affiliate-program)
@@ -212,7 +211,7 @@ SUPPORT
 * [Your Privacy Choices![](https://cdn.shopify.com/s/files/1/2954/7774/files/Checkbox_3.svg?v=1680889787)](https://www.genmobile.com/pages/your-privacy-choice)
 * [Do Not Contact](https://www.genmobile.com/pages/do-not-contact)
 
-© 2024 DISH Wireless, L.L.C. All rights reserved
+© 2024 Gen Mobile, a division of DISH Wireless, L.L.C. All rights reserved
 
   
   
