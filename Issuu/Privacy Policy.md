@@ -16,7 +16,7 @@ Purchase your next favourite publication](https://issuu.com/store)
 
 [All Categories](https://issuu.com/categories)
 
-![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/6c4220a/31d186ba39f38e8c4fac.png)
+![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/387efd2/31d186ba39f38e8c4fac.png)
 
 Show submenu for "Features" sectionFeatures
 
@@ -54,7 +54,9 @@ Generate QR Codes for your digital content.](https://issuu.com/features/qr-codes
 
 Canva
 
-Create professional content with Canva, including presentations, catalogs, and more.](https://issuu.com/features/canva-to-flipbook)[Adobe Express
+Create professional content with Canva, including presentations, catalogs, and more.](https://issuu.com/features/canva-to-flipbook)[HubSpot
+
+Embed, gate, and track Issuu content in HubSpot marketing campaigns.](https://issuu.com/features/hubspot-integration)[Adobe Express
 
 Go from Adobe Express creation to Issuu publication.](https://issuu.com/features/adobe-express-to-flipbook)[Adobe InDesign
 
@@ -78,7 +80,7 @@ Show submenu for "Use Cases" sectionUse Cases
 
 [More Content Types](https://issuu.com/solutions)
 
-![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/6c4220a/1e794a8c4ec65e549678.png)
+![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/387efd2/1e794a8c4ec65e549678.png)
 
 Show submenu for "Learn" sectionLearn
 
@@ -106,187 +108,221 @@ Dive into our extensive resources on the topic that interests you. It's like a m
 * [Cookies](https://issuu.com/legal/cookies)
 * [Accessibility Statement](https://issuu.com/legal/accessibility)
 
-Issuu Inc’s Privacy Policy regulating personal data processed in accordance with the EU REGULATION 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+[](#issuu-privacy-policy)Issuu Privacy Policy
+=============================================
 
-[](#privacy-policy)Privacy Policy
-=================================
+**Last Updated: January 21, 2022**
 
-**Last Updated: September 2nd, 2021**
+**PLEASE NOTE: The Issuu Privacy Policy is effective as of the "Last Updated" date above. (See [the previous version of the Privacy Policy](https://issuu.com/legal/privacy-gdpr/2021september).)**
 
-**PLEASE NOTE: The Issuu Privacy Policy is effective as of the "Last Updated" date above. (See [the previous version of the Privacy Policy](https://issuu.com/legal/privacy-gdpr/2021april).)**
+This Privacy Policy describes the privacy practices of Issuu Inc. (collectively, “Issuu”, “we”, “us”, or “our”) and how we handle personal information that we collect through our website, mobile application, and any other sites or services that link to this Privacy Policy (collectively, the “Services”).
 
-[](#this-policy-is-effective-from-september-2th-2021-)1\. This policy is effective from September 2th 2021.
------------------------------------------------------------------------------------------------------------
+Where Issuu has entered into an agreement to provide Services to a business and/or a business’s representative, the terms of that agreement will control over the terms of this Privacy Policy.
 
-[](#this-privacy-policy-describes-how-and-when-issuu-inc-collects-uses-and-shares-your-personal-data-when-you-use-the-issuu-app-and-other-services-offered-for-sale-on-www-issuu-com-if-you-have-any-questions-or-comments-about-this-privacy-policy-please-contact-our-data-protection-officer-at-privacy-issuu-com-)2\. This Privacy Policy describes how and when Issuu Inc collects, uses and shares your personal data when you use the Issuu app and other services offered for sale on www.issuu.com. If you have any questions or comments about this Privacy Policy, please contact our data protection officer at [privacy@issuu.com](mailto:privacy@issuu.com).
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+We provide additional information for residents of California below.
 
-2.1 Issuu Inc is an international media company (hereinafter “Issuu”, “we”, or “us”), providing an online platform named ISSUU that enables registered users (hereinafter “User”) to upload and promote their content, in particular publications and other content, hereinafter the “Platform”).
+[](#personal-information-we-collect)1\. Personal information we collect
+-----------------------------------------------------------------------
 
-2.2 Our address headquarter is located at: 131 Lytton Ave, Palo Alto, CA 94301, United States. The company is duly incorporated under the laws of the state of Delaware.
+### [](#information-you-provide-to-us-)1.1. Information you provide to us:
 
-2.3 The privacy policy may be amended from time to time by us with a fair notice to you before the new privacy policy comes into force.
+* **Contact and account information,** such as your first and last name, account name, email and postal address, phone number, username and password.
+* **Payment and transaction data.** This information is processed by our payment service provider, Recurly, and we do not have access to payment card numbers.
+* **Information regarding your subscription,** such as the date you subscribed, and the type of subscription purchased.
+* **Content you upload through the services,** which may include anything you voluntarily upload to the Services, such as text, graphics, images, etc.
+* **Feedback or correspondence,** such as information you provide when you contact us with questions, feedback, product reviews, or otherwise correspond with us online.
+* **Usage information,** such as publications you have read, as well as information about how you use the Services and interact with us, including information associated with any content you upload to the Services or otherwise submit to us, and information you provide when you use any interactive features of the Services.
+* **Marketing information,** such as your preferences for receiving communications about our activities, events, and publications, and details about how you engage with our communications.
+* **Other information** that we may collect which is not specifically listed here, but which we will use in accordance with this Privacy Policy or as otherwise disclosed at the time of collection.
 
-2.4 **Please note, that you may use our Platform without signing up, in which case we will only collect data based on your consent to our [cookie policy](https://issuu.com/legal/cookies).**
+### [](#information-we-obtain-from-third-parties-)1.2. Information we obtain from third parties:
 
-[](#data-controller)3\. Data controller
----------------------------------------
+* **Social media information.** We may maintain pages on social media platforms, such as Facebook, LinkedIn, Instagram, and other third-party platforms. When you visit or interact with our pages on those platforms, the platform provider’s privacy policy will apply to your interactions and their collection, use and processing of your personal information. You or the platforms may provide us with information through the platform, and we will treat such information in accordance with this Privacy Policy.
+* **Third-party login information.** When you link, connect, or login to the Services with a third-party service (e.g., Google or Facebook), you direct the service to send us information such as your registration, friends list, and profile information as controlled by that service or as authorized by you via your privacy settings at that service.
+* **Other sources.** We obtain personal information from other third parties, such as marketing partners, publicly-available sources and data brokers.
 
-3.1 Issuu is the data controller for the personal data collected from Users domiciled within the EU when using the Platform.
+### [](#automatic-data-collection)1.3. Automatic data collection
 
-3.2 We will process your personal data in compliance with European General Data Protection Regulation. (“GDPR”)
+We, our service providers and our advertising partners may automatically log information about you, your computer or mobile device, and your interaction over time with our Services, our communications and other online services, such as:
 
-3.3 This privacy policy covers our processing of personal data processed if you are domiciled within the EU, when you use the Platform.
+* **Device data,** such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., WiFi, LTE, 4G), and general location information such as city, state or geographic area.
+* **Online activity data,** such as pages or screens you viewed, how long you spent on a page or screen, browsing history, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access, and whether you have opened our marketing emails or clicked links within them.
 
-[](#purpose-and-legal-basis)4\. Purpose and legal basis
--------------------------------------------------------
+**We use the following tools for automatic data collection:**
 
-4.1 We process your personal data in order for us to manage our user relationship with you, including managing your account and provide you with access to use the Platform, we collect and use information about you. The processing of your personal data is performed on the legal basis of:
+* **Cookies,** which are text files that websites store on a visitor‘s device to uniquely identify the visitor’s browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand user activity and patterns, and facilitating online advertising. For more information about our cookies, please review our [Cookie policy](https://issuu.com/legal/cookies).
+* **Local storage technologies,** like HTML5, that provide cookie-equivalent functionality but can store larger amounts of data, including on your device outside of your browser in connection with specific applications.
+* **Web beacons,** also known as pixel tags or clear GIFs, which are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked.
 
-* fulfilment of our contractual obligations when delivering the Platform to you.
+[](#how-we-use-your-personal-information)2\. How we use your personal information
+---------------------------------------------------------------------------------
 
-4.2 We process your personal data to facilitate any sale of content via the Platform on the legal basis of:
+### [](#to-operate-our-services-)2.1. To operate our Services:
 
-* fulfilment of our contractual obligations to facilitate your purchase of content.
+* Provide, operate, maintain, secure and improve our Services;
+* Fulfill transactions initiated by you;
+* Provide information about our Services;
+* Communicate with you about our Services, including by sending you announcements, updates, security alerts, and support and administrative messages;
+* Understand your needs and interests, and personalize your experience with our Services and our communications; and
+* Respond to your requests, questions and feedback.
 
-4.3 We process your personal data to manage communications with you through the entire lifecycle with you as a user using embedded services within our Platform including live chat and messaging functionality. The processing of your personal data is performed on the legal basis of:
+### [](#for-research-and-development)2.2. For research and development
 
-* fulfilment of our contractual obligations when delivering the Platform to you.
-    
-* and our legitimate interest to improve our platform and services.
-    
+To analyze and improve the Services and to develop new products and Services, including by studying use of our Services.
 
-4.4 We also process your personal data to deliver and improve the Platform, to let you know about our policies and Terms of -Service, to manage our business, to improve our offerings, develop new features and updates, develop personalization services and other types of service, including but not limited to develop and implement algorithms and machine learning. This processing is on the basis of:
+### [](#marketing-and-advertising)2.3. Marketing and advertising
 
-* Our legitimate interest to improve our platform and services.
+We and our advertising partners may collect and use your personal information for marketing and advertising purposes, including:
 
-4.5 We also use your personal data to display to you personalized marketing message on our Platform, to inform you about new features and updates on the Platform. The processing of personal data is performed based on:
+* **Direct marketing.** We or our advertising partners may from time-to-time send you direct marketing communications as permitted by law, including, but not limited to, notifying you of special promotions, offers and events via email, call, text message and in-app notifications. You may opt out of our marketing communications as described in the [“Opt out of marketing communications”](#opt-out-of-marketing-communications) section below.
+* **Interest-based advertising.** We engage our advertising partners, including third party advertising companies and social media companies, to display ads around the web. These companies may use cookies and similar technologies to collect information about your interactions (including the data described in the [“Automatic data collection”](#automatic-data-collection) section above) over time across our Services, our communications and other online services, and use that information to serve online ads that they think will interest you. This is called interest-based advertising. We may also share information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the [“Online tracking opt-out”](#online-tracking-opt-out) section below.
 
-* your freely given consent to receive marketing by e-mail and push notifications provided when signing up to the Platform or at a later stage, **You may withdraw your consent at any time under your Profile Settings or by clicking the “Unsubscribe” button in any marketing e-mail or by contacting us by email at privacy@issuu.com**.
+### [](#to-comply-with-law)2.4. To comply with law
 
-If you withdraw your consent to receive personalized marketing message on the platform in your Profile Settings, will we still display marketing message to you on the Platform, but they will be of a generic nature and therefore less relevant to you.
+As we believe necessary or appropriate to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities.
 
-Please be aware that the content on the Platform may contain advertisement, product placement and other marketing material, that is placed within the content as part of the content. This marketing is outside of our control and will not be affected by your withdrawal of your consent to receive marketing by e-mail.
+### [](#for-compliance-fraud-prevention-and-safety)2.5. For compliance, fraud prevention, and safety
 
-[](#categories-of-personal-data)5\. Categories of personal data
----------------------------------------------------------------
+To: (a) protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims); (b) enforce the terms and conditions that govern our Services; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
 
-5.1 We mainly collect the personal data that you submit to us, including your contact information and purchase history and information you provide us with in our communications channels including chat and messenger services But we also collect information in several ways from different parts of the Platform, as further detailed below, including but not limited to the way you use the Platform and if applied tracking information about your whereabouts on the Internet and technical information about your devices and location.
+### [](#to-create-anonymous-data)2.6. To create anonymous data
 
-5.2 Please visit Clause 8 to read more about your right to access and deletion of your personal data.
+To create anonymous data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve our Services and promote our business.
 
-5.3 When signing up and logging in
+[](#how-we-share-your-personal-information)3\. How we share your personal information
+-------------------------------------------------------------------------------------
 
-5.3.1 When registering via our online Platform, you provide us with certain information, including email, password, username, name, country of origin, preferred language. When registering and signing in/logging in via third-party supported application login (such as Facebook, Google, Hootesuit), you authorize us to access certain account information from that third-party application, such as basic profile information; name, profile picture, e-mail address (optional), current city (optional). Some of this information will never be made public, such as password. Other information can be either hidden by default (email address, country of origin) or public by default (name and profile picture if third party application sign up).
+### [](#affiliates)3.1. Affiliates
 
-5.4 **Please note that your username will be public at all times.**
+We may share your personal information with our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
 
-5.5 When using the Platform
+### [](#service-providers)3.2. Service providers
 
-5.5.1 We register the information you provide us with, when using the Platform, including what content you view and read, your content orders, your traffic on the Platform and your communication with us.
+We may share your personal information with third party companies and individuals that provide services on our behalf or help us operate our Services (such as customer support, hosting, analytics, email delivery, marketing, identity verification, and database management services).
 
-5.5.2 The Users are encouraged not to reveal personal data concerning themselves or a third party on the platform, in particular special categories of data (such as information about a person’s health, addictions or allergies) when commenting on the content or making reviews, nor when uploading to the Platform.
+### [](#advertising-partners)3.3. Advertising partners
 
-5.5.2.1 Should a User make such information about them or others public, the User is responsible for ensuring it has a legal ground for disclosing the information.
+We may share your personal information with third party advertising companies, including for the interest-based advertising purposes described above.
 
-5.5.3 We use cookies to enable the Platform to work, and to provide you with a personalized experience and to collect information about your interests and whereabouts on the Internet. For further information on our use of Cookies, please see our [cookie policy](https://issuu.com/legal/cookies).
+### [](#professional-advisors)3.4. Professional advisors
 
-[](#transfer-of-data-to-third-countries-including-united-states)6\. Transfer of data to third countries including United States
--------------------------------------------------------------------------------------------------------------------------------
+We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
 
-6.1 **As Issuu is located in the United States all collected data is transferred to the United States for processing.**
+### [](#for-compliance-fraud-prevention-and-safety-0)3.5. For compliance, fraud prevention and safety
 
-6.2 **We undertake the transfer to the United States on the legal basis of fulfilling our contractual obligation towards you. The transfer of your personal data is necessary for us to perform our contractual obligations to you as a User under the Terms of Service and to deliver the services we have agreed with you as a User to provide.**
+We may share your personal information for the compliance, fraud prevention and safety purposes described above.
 
-6.3 We and our suppliers have, as required by the General Data Protection Regulation, implemented appropriate technical and organizational measures to keep your personal data safe. Please contact us at privacy@issuu.com if you would like to learn more about how we keep your personal data safe.
+### [](#business-transfers)3.6. Business transfers
 
-[](#sharing-of-data)7\. Sharing of data
----------------------------------------
+We may sell, transfer or otherwise share some or all of our business or assets, including your personal information, in connection with a business transaction (or potential business transaction) such as a corporate divestiture, merger, consolidation, acquisition, reorganization or sale of assets, or in the event of bankruptcy or dissolution. In such a case, we will make reasonable efforts to require the recipient to honor this Privacy Policy.
 
-7.1 Personal data about our Users is an essential part of our business. We only share your personal data as described below apart from when we share it with a third-party vendor (including card processing and payment service providers), from whom you have purchased content.
+### [](#links-api)3.7. Links & API
 
-7.2 We may share personal data regarding you if we are obligated to do so by law, to enforce our terms of service, to protect us against loss or damage. This may include exchanging information with the police, courts or law enforcement organisations.
+We may also share some of your personal information with Google, Youtube or other third-party service providers, to provide use of integrations and links to external content by use of API. Your personal data is only shared when you choose to activate a link in a publication to external content on YouTube or other services hosting the content linked to in a publication. To facilitate this, your data will be shared with the third-party API services, namely the Youtube API services. Please be aware, that when you activate such a link you will be subject to the terms of service and privacy policy of said third party. In the Privacy policy you can find information about what information they collect from you and how and when they process it and how to enact your rights to information and deletion. Please consider reading the third party’s privacy policy before activating a link in a publication. As for Google you may find [their Privacy policy here](https://policies.google.com/privacy).
 
-7.3 If we sell our business or our company assets are acquired by a third party, personal data held by us about our users may be one of the transferred assets.
+[](#your-choices)4\. Your choices
+---------------------------------
 
-7.4 We may also share some of your personal information with Google, Youtube or other third-party service providers, to provide use of integrations and links to external content by use of API. Your personal data is only shared when you choose to activate a link in a publication to external content on YouTube or other services hosting the content linked to in a publication. To facilitate this, your data will be shared with the third-party API services, namely the Youtube API services. Please be aware, that when you activate such a link you will be subject to the terms of service and privacy policy of said third party. In the Privacy policy you can find information about what information they collect from you and how and when they process it and how to enact your rights to information and deletion. Please consider reading the third party’s privacy policy before activating a link in a publication. As for Google you may find [their Privacy policy here](https://policies.google.com/privacy).
+In this section, we describe the rights and choices available to all users. Users who are located in California can find additional information about their rights below.
 
-[](#your-rights-as-a-user)8\. Your rights as a user
----------------------------------------------------
+### [](#access-update-or-delete-your-information)4.1. Access, update, or delete your information
 
-8.1 As provided by the GDPR, you have the right to:
+If you have registered for an account with us, you may review and update certain personal information in your account profile by logging into the account. You may also request that we access, update or delete your information by emailing us at privacy@issuu.com. Please note that we will need to verify that you have the authority to update, correct, or delete the account and certain activity generated prior to deletion may remain stored by us and may be shared with third parties as detailed in this Privacy Policy and permitted by applicable law.
 
-* **Access personal data regarding you.**
+### [](#opt-out-of-marketing-communications)4.2. Opt out of marketing communications
 
-You can always access your account to review the personal data we have collected about you. You may delete and amend the data collected.
+You may opt out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email or by contacting us at privacy@issuu.com. You may opt out of receiving marketing text messages by replying “STOP” to the relevant message. You may opt out of receiving marketing calls by informing our call center agent of your choice. You may continue to receive service-related and other non-marketing communications.
 
-You also have the right to obtain a copy of the personal data free of charge. However, we may charge a fee corresponding to administrative costs if further copies of the information are requested, or if the request is unfounded or excessive.
+### [](#online-tracking-opt-out)4.3. Online tracking opt-out
 
-* **Ask for rectification** of incorrect or inaccurate data concerning you, or to have incomplete personal data completed. You can use your access to your account to update your personal data.
-    
-* **Ask for erasure of personal data regarding you** (under certain circumstances).
-    
-* **Ask for the restriction of the processing of your data** (under certain circumstances).
-    
-* **Object to the processing of your data** for marketing purposes by withdrawing your personal consent.
-    
-* **You can at any time withdraw your consent by deleting your profile.**
-    
-* You have the right of portability of the personal data you have submitted to us. We will deliver your personal data in a structured, commonly used and machine-readable format
-    
+There are a number of ways to opt out of having your online activity and device data collected through our Services, which we have summarized below:
 
-When we receive a request to access, rectify, erase or port data, we may ask you for additional information in order to confirm your identity and ensure data security. You can send a request at [our help-center](https://help.issuu.com/).
+* **Blocking cookies in your browser.** Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+* **Blocking advertising ID use in your mobile settings.** Your mobile device settings may provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
+* **Using privacy plug-ins or browsers.** You can block our Services from setting cookies used for interest-based ads by using a browser with privacy features, like Brave, or installing browser plugins like [Privacy Badger](https://www.eff.org/privacybadger), [DuckDuckGo](https://duckduckgo.com/), [Ghostery](https://www.ghostery.com/) or [uBlock Origin](https://ublock.org/), and configuring them to block third party cookies/trackers.
+* **Platform opt-outs.** The following advertising partners offer opt-out features that let you opt out of use of your information for interest-based advertising:
+    * [Google](https://adssettings.google.com/)
+    * [Facebook](https://www.facebook.com/about/ads)
+    * [Twitter](https://twitter.com/settings/account/personalization?lang=en)
+* **Advertising industry opt-out tools.** You can also use these opt-out options to limit use of your information for interest-based advertising by participating companies:
+    * [Digital Advertising Alliance](http://optout.aboutads.info/)
+    * [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1)
 
-8.2 You have the right to complain regarding the processing of personal data concerning you to the supervisory authority, which in Denmark is the Danish Data Protection Agency:
+Note that because these opt-out mechanisms are specific to the device or browser on which they are exercised, you will need to opt out on every browser and device that you use.
 
-Datatilsynet Borgergade 28 1300 København K Phone no.: 33 19 32 00 E-mail: dt@datatilsynet.dk
+### [](#do-not-track)4.4. Do Not Track
 
-[](#data-retention-and-account-deletion)9\. Data retention and account deletion
--------------------------------------------------------------------------------
+Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
 
-9.1 We store your personal data for as long as your account is active.
+[](#recurly)5\. Recurly
+-----------------------
 
-9.2 We may also store some of your personal data to comply with our legal obligations.
+Payments on our Services are handled by Recurly. The information you provide to Recurly in connection with your payment and purchases is handled in accordance with Recurly’s Terms of Service and Privacy Policy. Recurly provides us with the online e-commerce platform that allows you to purchase products and services. Your payment data is stored by Recurly and we do not have access to it.
 
-9.3 You may add or update certain information to your account. When you update information, however, we often maintain a copy of the unrevised information in systems back-ups for a period of time until our backup is updated with the latest version.
+Please read [Recurly’s Services Agreement](https://recurly.com/legal/terms/) and [Privacy Statement](https://recurly.com/legal/privacy/).
 
-9.4 You may request deactivation of your account by following the instructions at the Platform. If you deactivate your account, we do not delete your information but hold it for you until such time as you either activate your account again or delete it.
+[](#other-sites-mobile-applications-and-services)6\. Other sites, mobile applications and services
+--------------------------------------------------------------------------------------------------
 
-9.5 When you delete your account, we delete the data attached to your account including your username. The username will be deleted from all reviews, and the reviews will be anonymized for future viewing.
+Our Services may contain links to other websites, mobile applications, and other online services operated by third parties. These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or in mobile applications or online services that are not associated with us. We do not control third party websites, mobile applications or online services, and we are not responsible for their actions. Other websites and services follow different rules regarding the collection, use and sharing of your personal information. We encourage you to read the privacy policies of the other websites and mobile applications and online services you use.
 
-9.6 Please note that some information may remain in our records after your account has been deleted, and that we may only be able to delete this information later when updating our backups.
+[](#security-practices)7\. Security practices
+---------------------------------------------
 
-[](#security)10\. Security
---------------------------
+We use reasonable organizational, technical, and administrative measures designed to protect against unauthorized access, misuse, loss, disclosure, alteration, and destruction of personal information we maintain. Unfortunately, data transmission over the Internet cannot be guaranteed as completely secure. Therefore, while we strive to protect your personal information, we cannot guarantee the security of personal information.
 
-10.1 User accounts including personal data are protected by a password for your privacy and security. You should ensure no unauthorized access to your account and personal data by choosing and protecting your password appropriately, and by signing off when finishing accessing your account. When signing in via third-party application provider your password is solely managed by such third-party.
+[](#children)8\. Children
+-------------------------
 
-10.2 We do our best to ensure that user accounts are kept private. However, various instances such as unauthorized entry/use, hardware or software failure, and other factors, may compromise the security of the personal data.
+Our Services are not intended for use by children under 16 years of age. If we learn that we have collected personal information through the Services from a child under 16 without the consent of the child’s parent or guardian as required by law, we will delete it.
 
-10.3 This Privacy Policy only governs information collected on the Platform and through our cookies.
+[](#international-users)9\. International users
+-----------------------------------------------
 
-[](#children-s-privacy)11\. Children's privacy
-----------------------------------------------
+By using our Services, you understand and acknowledge that your personal information will be transferred from your location to the facilities and servers of Issuu in the United States.
 
-11.1 The Platform is intended for use by people above the age of sixteen or the legal age for granting consent to an information service provider on the Internet in the jurisdiction in which you reside. If we receive notice or reasonably believe that someone under the appropriate age has provided us with personal information, we will promptly delete the account and all personal information that has been provided to us.
+[](#changes-to-this-privacy-policy)10\. Changes to this Privacy Policy
+----------------------------------------------------------------------
 
-11.2 We may use a registration of age as a tool to try and prevent users under the legal age in the jurisdiction where the user resides to read content not rated for minors.
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on our Services. We may also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via e-mail (if you have an account where we have your contact information) or another manner through our Services.
 
-[](#changes-to-privacy-policy)12\. Changes to Privacy Policy
-------------------------------------------------------------
+Any modifications to this Privacy Policy will be effective upon our posting the new terms and/or upon implementation of the new changes on our Services (or as otherwise indicated at the time of posting).
 
-12.1 This Privacy Policy may be amended from time to time. You will be notified before we make changes to this policy with a fair notice and you will be given the opportunity to review this revised policy before you choose to continue using the Platform.
+[](#how-to-contact-us)11\. How to contact us
+--------------------------------------------
 
-12.2 We will use only use personal data in accordance with the privacy policy under which the personal data was collected unless we specifically ask for your consent to process (reuse) your personal data for a new purpose.
+Please direct any questions or comments about this Policy or privacy practices to privacy@issuu.com. You may also write to us via postal mail at:
 
-[](#questions-or-concerns-our-representative-within-the-eu)13\. Questions or concerns our representative within the EU
+131 Lytton Ave Palo Alto CA 94301
+
+[](#additional-information-for-users-located-in-california)12\. Additional information for users located in California
 ----------------------------------------------------------------------------------------------------------------------
 
-13.1 In accordance with article 27 of the GDPR we have appointed a representative: Issuu ApS, Gasvaerksvej 16, DK 1656 Copenhagen, Denmark.
+This section applies only to California residents. For purposes of this section, “personal information” has the meaning given in the California Consumer Privacy Act of 2018 (“CCPA”) but does not include information exempted from the scope of the CCPA.
 
-13.2 If you have any feedback on this Privacy Policy or you want to contact us, you can contact us:
+### [](#your-california-privacy-rights)12.1. Your California privacy rights
 
-* By email at privacy@issuu.com with any questions and suggestions or by using the contact information on our websites.
+The CCPA grants consumers whose information is governed by the CCPA the following rights:
+
+* **Information.** You can request information about how we have collected and used your Personal Information during the past 12 months. We have made this information available to California residents without having to request it by including it in this Privacy Policy.
+* **Access.** You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+* **Deletion.** You can ask us to delete the Personal Information that we have collected from you.
+* **Opt out of sale of your personal information.** We do not sell personal information in the traditional sense. Like many businesses, we use services that display interest-based ads to users around the web. You can ask us to refrain from sharing your information with third parties to help us advertise to other users like you. In addition, you can limit the use of tracking technologies, such as cookies, by following instructions in the [Online tracking opt-out section](#online-tracking-opt-out) above.
+
+You are entitled to exercise the rights described above free from discrimination.
+
+Please note that the CCPA limits these rights by, for example, prohibiting us from providing certain sensitive information in response to an access request and limiting the circumstances in which we must comply with a deletion request. If we deny your request, we will communicate our decision to you.
+
+### [](#how-users-in-california-can-exercise-their-rights)12.2. How users in California can exercise their rights
+
+You may exercise your California privacy rights described above as follows:
+
+* **Right to information, access, deletion and opt out of sale.** You can request to exercise your information, access and deletion rights by:
+    * Submitting a request using [our online form](https://help.issuu.com/hc/en-us/requests/new?ticket_form_id=4413022749595&ds=1)
+    * Emailing privacy@issuu.com
+* **Right to opt out of sale of personal information.** In addition to making a request using our online form or sending us an email, you can exercise your right to opt out of the sale of personal information via the use of tracking technologies, such as cookies, by following instructions in the Online tracking opt-out section above.
+* **Identity verification.** We will need to confirm your identity and California residency to process your requests to exercise your information, access or deletion rights. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+* **Authorized agents.** California residents can empower an “authorized agent” to submit requests on their behalf. We will require the authorized agent to have a written authorization confirming that authority.
 
 Issuu
 
