@@ -392,7 +392,7 @@ I agree to receive Infomaniak's monthly newsletter and new blog posts. [We respe
     * [FR](https://www.infomaniak.com/fr/cgv/politique-utilisation-cookies)
     * [IT](https://www.infomaniak.com/it/cgv/politica-uso-cookie)
 
-**©2024 Infomaniak** \- [Legal documents](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap)
+**©2024 Infomaniak** \- [Legal documents](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap) \- Manage your cookies
 
 [![icann-logo](/img/footer/icann-logo.svg)](https://www.infomaniak.com/en/certifications)
 
@@ -453,7 +453,7 @@ J'accepte de recevoir la newsletter mensuelle et les nouveaux articles de blog d
 [![instagram](/img/footer/instagram.svg)](https://www.instagram.com/infomaniak_network/)
 
 **©2024 Infomaniak**  
-[Contracts](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap)
+[Contracts](https://www.infomaniak.com/en/legal/general-terms-and-conditions) \- [Legal notice](https://www.infomaniak.com/en/legal/legal-notice) \- [Data Protection](https://www.infomaniak.com/en/legal/general-data-protection-regulation) \- [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy) \- [Site map](https://www.infomaniak.com/en/sitemap) \- Manage your cookies
 
 Managers
 
