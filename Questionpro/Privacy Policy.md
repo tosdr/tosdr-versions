@@ -102,6 +102,7 @@
 * [Platform connect](https://www.questionpro.com/help/platform-connect.html)
 * [Communities Recruitment](https://www.questionpro.com/help/community-recruitment.html)
 * [TubePulse](https://www.questionpro.com/help/tubepulse-video-rating.html)
+* [Open Card Sorting](https://www.questionpro.com/help/open-card-sorting.html)
 
 #### [Question settings _arrow\_right_](#collapse6071)
 
@@ -115,7 +116,6 @@
 * [Image rating question settings](https://www.questionpro.com/help/image-rating-settings.html)
 * [Scale options for numeric slider question](https://www.questionpro.com/help/scale-options.html)
 * [Constant sum question settings](https://www.questionpro.com/help/constant-sum-settings.html)
-* [Budget scale question settings](https://www.questionpro.com/help/budget-scale-settings.html)
 * [Setting default answer option](https://www.questionpro.com/help/default-selected.html)
 * [Exclusive option for multiple choice questions](https://www.questionpro.com/help/multiple-choice-exclusive-option.html)
 * [Validate question](https://www.questionpro.com/help/validate-question.html)
@@ -140,6 +140,7 @@
 * [Text box - Keyboard input type](https://www.questionpro.com/help/text-input-keyboard-type.html)
 * [Deep Dive](https://www.questionpro.com/help/deep-dive.html)
 * [Answer Display Order](https://www.questionpro.com/help/answer-display-order.html)
+* [Alternate colors](https://www.questionpro.com/help/Alternate-colors.html)
 
 #### [Design & branding _arrow\_right_](#collapse6072)
 
@@ -223,7 +224,6 @@
 * [Spotlight report](https://www.questionpro.com/help/spotlight-report.html)
 * [Print survey response](https://www.questionpro.com/help/print-survey-responses.html)
 * [Search and replace](https://www.questionpro.com/help/search-and-replace.html)
-* [Review Mode](https://www.questionpro.com/help/compact-view.html)
 * [Survey Timer](https://www.questionpro.com/help/time-out-option.html)
 * [Allowing multiple respondents from the same device](https://www.questionpro.com/help/multiple-respondents-from-same-machine.html)
 * [Text Input Size Settings](https://www.questionpro.com/help/text-input-size.html)
@@ -236,6 +236,7 @@
 * [Dynamic Progress Bar](https://www.questionpro.com/help/classic-progress-bar.html)
 * [Response Quota](https://www.questionpro.com/help/quota-control.html)
 * [Age Verification](https://www.questionpro.com/help/age-verification.html)
+* [Tools - Survey Options](https://www.questionpro.com/help/survey-more-options.html)
 
 #### [Rewards and incentives _arrow\_right_](#collapse6077)
 
@@ -361,7 +362,7 @@
 * [Text analysis- categorization](https://www.questionpro.com/help/text-analysis.html)
 * [Search text data](https://www.questionpro.com/help/search-text-data.html)
 * [Sentiment analysis](https://www.questionpro.com/help/sentiment-analysis.html)
-* [Text Highlighter \[BETA Release\]](https://www.questionpro.com/help/text-highlighter.html)
+* [Text Highlighter](https://www.questionpro.com/help/text-highlighter.html)
 * [PathosAI](https://www.questionpro.com/help/pathos-AI.html)
 
 #### [Choice modeling _arrow\_right_](#collapse6286)
@@ -456,6 +457,7 @@
 * [Unable to access Chat support](https://www.questionpro.com/help/unable-to-access-chat-support.html)
 * [Navigating QuestionPro Products](https://www.questionpro.com/help/navigating-questionpro-products.html)
 * [Agency Partnership Referral Program](https://www.questionpro.com/help/agency-partnership-referral-program.html)
+* [Response Limits](https://www.questionpro.com/help/response-limits.html)
 
 #### [Billing _arrow\_right_](#collapse6493)
 
@@ -670,11 +672,17 @@ CHANGES IN THIS PRIVACY STATEMENT
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-THIRD PARTIES AND DATA
+THIRD-PARTY SERVICES AND DATA HANDLING
 
-We use certain trusted third parties (for example, providers of customer support and IT services) to help us provide, improve, protect, and promote our Services. These third parties will access your information only to perform tasks on our behalf in compliance with this Privacy Policy, and we'll remain responsible for their handling of your information per our instructions. As such, all third parties that QuestionPro works with must be in compliance with our Privacy Policy.
+To enhance the functionality of QuestionPro, we integrate with trusted third-party services (such as Google, Facebook, etc.) and, in doing so, may require the storage of credentials for these services. These credentials are securely encrypted in our database and are utilized strictly to access the data you authorize. We may log certain non-identifiable information to facilitate support and resolve technical issues.
 
-We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to (a) comply with the law; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of QuestionPro or our users; or (d) protect QuestionPro's property rights.
+Additionally, we collaborate with select trusted third parties (e.g., providers of customer support and IT services) to assist in delivering, improving, protecting, and promoting our Services. These third parties are granted access to your information solely to perform tasks on our behalf, in strict accordance with our Privacy Policy. We remain responsible for their handling of your information and ensure they comply with our privacy and security standards.
+
+We are committed to safeguarding your data and do not use information obtained through Google Workspace APIs to develop, improve, or train generalized AI and/or machine learning models.
+
+In certain circumstances, we may disclose your information to third parties if it is determined to be reasonably necessary to: (a) comply with legal obligations; (b) protect individuals from death or serious bodily injury; (c) prevent fraud or abuse of QuestionPro or our users; or (d) protect QuestionPro's property rights.
+
+For more detailed information on our Third-Party Service Integration, please visit [this page](https://questionpro.com/help/integration-privacy-policy.html).
 
 CONTACT US
 
