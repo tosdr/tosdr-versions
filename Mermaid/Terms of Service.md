@@ -20,7 +20,7 @@ Terms and conditions
 
 TERMS & CONDITIONS  
 1\. Introduction  
-Thank you for visiting a product landing page, property of Bulbhead.com. BulbHead is a consumer e-commerce website for innovative or hard-to- find products that solve everyday problems. These Terms and Conditions, and our related Privacy Policy, apply to the BulbHead.com website. Please read them carefully, as by using Service you agree to be bound by both documents. If you have any questions about these Terms and Conditions, please contact us via email at policies@bulbhead.com.
+Thank you for visiting aproduct landing page, property of Bulbhead.com. BulbHead is a consumer e-commerce website for innovative or hard-to- find products that solve everyday problems. These Terms and Conditions, and our related Privacy Policy, apply to the BulbHead.com website. Please read them carefully, as by using Service you agree to be bound by both documents. If you have any questions about these Terms and Conditions, please contact us via email at policies@bulbhead.com.
 
 2\. Definitions  
 In these Terms and Conditions, we use the following definitions:
