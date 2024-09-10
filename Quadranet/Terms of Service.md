@@ -94,7 +94,7 @@ Power Service Level Agreement (SLA)
 
 This Service Level Agreement ("SLA") describes compensation offered in the event that power provided by QuadraNet to a client as part of an agreed-upon and existing service agreement is interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [https://quadranet.com/terms-of-service](https://quadranet.com/terms-of-service). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
 
-QuadraNet provides a power uptime service level agreement of 100%. This means that for any given month, we will provide a best-effort service that experiences no more than 0 seconds of power unreachability. Outages are credited at a rate of 5% of a client's total monthly invoice for all affected services for each 60 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
+QuadraNet provides a power uptime service level agreement of 100%. This means that for any given month, we will provide a best-effort service that experiences no more than 0 seconds of power unreachability. Outages are credited at a rate of 3% of a client's total monthly invoice for all affected services for each 60 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
 
 This SLA covers QuadraNet electrical circuits provided to clients' colocation cabinets as well as to QuadraNet-owned dedicated servers.
 
@@ -105,11 +105,11 @@ Network Service Level Agreement (SLA)
 
 This Service Level Agreement ("SLA") describes compensation offered in the event that network services provided by QuadraNet to a client as part of an agreed-upon and existing service agreement are interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [http://quadranet.com/company/service-level-agreement](http://quadranet.com/company/service-level-agreement). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
 
-QuadraNet provides a network uptime service level agreement of 99.999%. This means that for any given month, we will provide a best-effort service that experiences no more than 5 minutes of network unreachability. Outages are credited at a rate of 5% of a client's total monthly invoice for all affected services for each 30 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
+QuadraNet provides a network uptime service level agreement of 99.999%. This means that for any given month, we will provide a best-effort service that experiences no more than 5 minutes of network unreachability. Outages are credited at a rate of 3% of a client's total monthly invoice for all affected services for each 30 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
 
 This SLA covers QuadraNet's internal network infrastructure, including connectivity to transit providers, routers, and switches. This SLA does not cover cabling faults and/or failures, service interruption due to server-related outages, or QuadraNet "enterprise" solutions (including, but not limited to, backups, DNS hosting, automated installations, APIs, and the null route utility).
 
-To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage being restored via email at [billing@quadranet.com](mailto:billing@quadranet.com) or by submitting a ticket via our portal ([https://neo.quadranet.com](https://neo.quadranet.com/)) to the billing department. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in "bad standing" (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet's Terms of Service).
+To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage being restored via email at [billing@quadranet.com](mailto:billing@quadranet.com) or by submitting a ticket via our portal ([https://neo.quadranet.com](https://neo.quadranet.com/)) to the billing department. Clients may only request an SLA credit for either a Power SLA credit or a Network SLA credit, but not both, per incident. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in "bad standing" (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet's Terms of Service).
 
 **DATA CENTER** INGENUITY MADE SIMPLE.
 
@@ -153,7 +153,7 @@ To qualify for SLA credit, QuadraNet must be notified within 24 hours of the per
 * [Transit](https://quadranet.com/service-level-agreement/transit)
 * [CDN Services](https://quadranet.com/service-level-agreement/cdn-services)
 * Keep In Touch
-* [Contact Us](https://www.quadranet.com/contact)
+* [Contact Us](https://quadranet.com/service-level-agreement/contact)
 
 * About
 * [Los Angeles Downtown Datacenter](https://quadranet.com/service-level-agreement/los-angeles-datacenter)
@@ -175,6 +175,6 @@ Write to us [sales@quadranet.com](mailto:sales@quadranet.com)
 Give Us a Call [888-578-2372](tel:888-578-2372)
 
 Copyright © 2024 QuadraNet. All Rights Reserved.  
-[Service Level Agreement](https://www.quadranet.com/service-level-agreement) | [Terms of Service](https://www.quadranet.com/terms-of-service) | [DDoS Service Level Agreement](https://www.quadranet.com/ddos-service-level-agreement)
+[Service Level Agreement](https://quadranet.com/service-level-agreement/service-level-agreement) | [Terms of Service](https://quadranet.com/service-level-agreement/terms-of-service) | [DDoS Service Level Agreement](https://quadranet.com/service-level-agreement/ddos-service-level-agreement)
 
 /\* \*/
