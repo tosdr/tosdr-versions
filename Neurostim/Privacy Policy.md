@@ -227,6 +227,15 @@ NeuroStim uses remarketing services to advertise on third party websites to you 
 
 **If you wish to not have this information used for the purpose of serving you targeted ads;** you may opt-out of the tracking and remarketing services mentioned above by visiting: [https://optout.networkadvertising.org/](https://optout.networkadvertising.org/) or [https://optout.aboutads.info/](https://optout.aboutads.info/) (or if located in the European Union, by clicking here: [http://www.youronlinechoices.eu/](https://youronlinechoices.eu/)). Please note this does not opt you out of being served advertising, you will continue to receive generic ads.
 
+### Mobile Phone Number:
+
+No mobile numbers will be shared with third parties/affiliates for marketing/promotional purposes. All the categories herein exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+a) Reply Stop to opt-out, Reply Help for Help.  
+b) Message Frequency May Vary.  
+c) Data Rates May Apply  
+d) Carriers are not liable for undelivered messages.
+
 ### Links to Other Sites:
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
