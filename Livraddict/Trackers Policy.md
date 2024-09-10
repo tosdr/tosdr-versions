@@ -15,9 +15,9 @@
 * [Plus](#)
     * [Listes](https://www.livraddict.com/listes/)
     * [Book Club](https://www.livraddict.com/bookclub/)
-    * [Prix LA](https://www.livraddict.com/prix-livraddict/2023/)
+    * [Prix LA](https://www.livraddict.com/prix-livraddict/2024/)
     * [Blog](https://blog.livraddict.com/)
-* [](https://www.livraddict.com/prix-livraddict/2023/)
+* [](https://www.livraddict.com/prix-livraddict/2024/)
 
 Cookies Mentions juridiques
 ===========================
@@ -72,7 +72,7 @@ Le réseau social pour tous les amoureux de la lecture. Gérez votre bibliothèq
 * [Contact](https://www.livraddict.com/pages/contact.php)
 
 * [Blog](https://blog.livraddict.com/)
-* [Prix Livraddict 2023](https://www.livraddict.com/prix-livraddict/2023/)
+* [Prix Livraddict 2024](https://www.livraddict.com/prix-livraddict/2024/)
 
 Suivez-nous partout !
 ---------------------
