@@ -1,6 +1,6 @@
 [Skip To main content](#maincontent)
 
-[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MTc0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
+[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MTU0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -287,7 +287,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/svg+xml;nitro-empty-id=NzI2OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Level Access logo](data:image/svg+xml;nitro-empty-id=NzA2OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -296,13 +296,12 @@ Arlington, VA 22201
 [info@levelaccess.com](mailto:info@levelaccess.com)
 
 Follow us
----------
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=NzQ1OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=NzI0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=NzU0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](data:image/svg+xml;nitro-empty-id=NzMzOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=NzYzOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=NzQyOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
 
 Solutions
 
@@ -316,7 +315,7 @@ Solutions
 * [Accessibility for Retail and Consumer Brands](https://www.levelaccess.com/retail/)
 * [Accessibility for Software Vendors](https://www.levelaccess.com/accessibility-for-software-vendors/)
 
-nsight & Resources
+Insight & Resources
 
 * [Insight and Resources](https://www.levelaccess.com/resources/)
 * [ADA Title II Compliance Resources](https://www.levelaccess.com/ada-title-ii-compliance-resources/)
@@ -359,7 +358,6 @@ Company
 Copyright © Level Access 2024. All Rights Reserved.
 
 Footer menu copyright
----------------------
 
 * [Terms of Service](https://www.levelaccess.com/website-terms-service/)
 * [Accessibility Statement](https://www.levelaccess.com/accessibility-statement/)
