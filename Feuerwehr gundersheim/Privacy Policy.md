@@ -5,7 +5,7 @@ Sorry, you have Javascript Disabled! To see this page as it is meant to appear, 
 
 [Zum Inhalt springen](#content)
 
-22\. Juni 2024
+10\. September 2024
 
 [](https://www.facebook.com/freiwilligefeuerwehrgundersheim "Facebook")[](https://www.instagram.com/feuerwehr_gundersheim "Instagram")
 
@@ -246,11 +246,21 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
 
 #### Termine:
 
+### Bundesweiter Warntag
+
+Datum: 12\. September 2024
+
+Uhrzeit: 11:00 - 11:45
+
+Ort: Bundesweit
+
+[Weitere Infos unter: bbk.bund.de](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html")
+
 ### Blaulichtumzug
 
 Datum: 28\. September 2024
 
-Error: please reset time.
+Uhrzeit: 19:00
 
 Ort: Von Monsheim nach Gundersheim
 
