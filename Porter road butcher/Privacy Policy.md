@@ -2,15 +2,15 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+20% off NY Strip [save](https://porterroad.com/products/ny-strip-steak)
 
-20% off filet mignon [save](https://porterroad.com/products/filet-mignon)
+Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+20% off NY Strip [save](https://porterroad.com/products/ny-strip-steak)
 
-20% off filet mignon [save](https://porterroad.com/products/filet-mignon)
+Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
@@ -73,7 +73,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Subscribe & Save
     
-    $128 ~ $16/LB
+    $135 ~ $17/LB
     
     You can prepare this by cooking
     
@@ -93,7 +93,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Dry Aged
     
-    $39 ~ $31/LB
+    $43 ~ $34/LB
     
     You can prepare this by cooking
     
