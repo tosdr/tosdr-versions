@@ -51,7 +51,7 @@
             Build personalized experiences that scale](https://developers.klaviyo.com/en)
     * Spotlight
         
-        * [![](/wp-content/uploads/2024/05/whats-new-tag.png)
+        * [![](/wp-content/uploads/2024/08/WhatsNew-Spotlight.png)
             
             Explore the newest features
             
@@ -98,7 +98,7 @@
         
         Your all-in-one success center with answers, resources, and community to keep you growing](https://www.klaviyo.com/customer-resources)
         * [Help center](https://help.klaviyo.com/hc/en-us)
-        * [Academy](https://academy.klaviyo.com/)
+        * [Academy](https://academy.klaviyo.com/en-us)
         * [Community](https://community.klaviyo.com/)
         * [Developers](https://developers.klaviyo.com/en)
     * Support
@@ -129,11 +129,11 @@
         * [Trust center
             
             Trust and security information](https://www.klaviyo.com/trust)
-    * * [![The Klaviyo Power Up logo with circles showing individuals smiling and looking at the camera](/wp-content/uploads/2024/07/cxc-nav-spotlight-07012024.png)
+    * * [![graphic that says This BFCM make every day count](/wp-content/uploads/2024/08/BFCM-2024-Web-Nav-270x152@2x.png)
             
-            Your all-in-one success center
+            Your BFCM resource center
             
-            Find the support you need, including help articles, live trainings, and our new guided Power Paths.](https://www.klaviyo.com/customer-resources)
+            How-tos, to-dos, live trainings, proven strategies, and more.](https://www.klaviyo.com/solutions/bfcm)
     
 * [Pricing](https://www.klaviyo.com/pricing)
 
@@ -180,7 +180,7 @@
             Build personalized experiences that scale](https://developers.klaviyo.com/en)
     * Spotlight
         
-        * [![](/wp-content/uploads/2024/05/whats-new-tag.png)
+        * [![](/wp-content/uploads/2024/08/WhatsNew-Spotlight.png)
             
             Explore the newest features
             
@@ -227,7 +227,7 @@
         
         Your all-in-one success center with answers, resources, and community to keep you growing](https://www.klaviyo.com/customer-resources)
         * [Help center](https://help.klaviyo.com/hc/en-us)
-        * [Academy](https://academy.klaviyo.com/)
+        * [Academy](https://academy.klaviyo.com/en-us)
         * [Community](https://community.klaviyo.com/)
         * [Developers](https://developers.klaviyo.com/en)
     * Support
@@ -258,11 +258,11 @@
         * [Trust center
             
             Trust and security information](https://www.klaviyo.com/trust)
-    * * [![The Klaviyo Power Up logo with circles showing individuals smiling and looking at the camera](/wp-content/uploads/2024/07/cxc-nav-spotlight-07012024.png)
+    * * [![graphic that says This BFCM make every day count](/wp-content/uploads/2024/08/BFCM-2024-Web-Nav-270x152@2x.png)
             
-            Your all-in-one success center
+            Your BFCM resource center
             
-            Find the support you need, including help articles, live trainings, and our new guided Power Paths.](https://www.klaviyo.com/customer-resources)
+            How-tos, to-dos, live trainings, proven strategies, and more.](https://www.klaviyo.com/solutions/bfcm)
     
 * [Pricing](https://www.klaviyo.com/pricing)
 
@@ -281,7 +281,6 @@
 Api terms
 
 API Terms of Use
-================
 
 Updated: July 20, 2020
 
