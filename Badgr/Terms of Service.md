@@ -262,7 +262,7 @@ Main
                 
     * Column
         * By Type
-            * [Articles](https://info.badgr.com/resources/blog)
+            * [Blogs](https://info.badgr.com/resources/blog)
             * [Case Studies](https://info.badgr.com/resources/case-studies)
             * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
             * [Research](https://info.badgr.com/resources/research)
@@ -301,7 +301,7 @@ Main
             
             Check out the highlights from InstructureCon 24.
             
-            [Explore More](https://info.badgr.com/events/instructurecon/2024)
+            [Explore More](https://info.badgr.com/resources/instructurecon-2024)
             
 * About Us
     * Column
@@ -522,7 +522,7 @@ Main
                 
     * Column
         * By Type
-            * [Articles](https://info.badgr.com/resources/blog)
+            * [Blogs](https://info.badgr.com/resources/blog)
             * [Case Studies](https://info.badgr.com/resources/case-studies)
             * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
             * [Research](https://info.badgr.com/resources/research)
@@ -557,13 +557,11 @@ Main
     * Column
         *   ![](/sites/default/files/styles/small_hq/public/image/2024-03/2024-InstructureCon-Web-Images_Thumbnail%20%281%29.jpg?itok=jIC3xpfy "2024-InstructureCon-Web-Images_Thumbnail (1).jpg")
             
-            July 9 - 11th, 2024
-            
             #### 
             
-            Join the Ed-cological Exploration Society at InstructureCon!
+            Check out the highlights from InstructureCon 24.
             
-            [Learn More](https://info.badgr.com/events/instructurecon)
+            [Explore More](https://info.badgr.com/events/instructurecon/2024)
             
 * About Us
     * Column
@@ -847,7 +845,7 @@ Global HQ
 Footer menu
 -----------
 
-* Instructure Learning Ecosystem
+* Instructure Ed-cosystem
     * [Canvas LMS](https://info.badgr.com/higher-education/products/canvas/canvas-lms)
     * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
