@@ -1,5 +1,11 @@
 [Direkt zum Inhalt](#main-content)
 
+**Produktneuheiten auf der IFA erleben.**
+
+**\- 6. bis 10. September,  Halle 1.2, Stand 210**
+
+[▶ mehr erfahren](https://homematic-ip.com/de/news/ifa-2024-produkthighlights-im-herbst)
+
  [![Home](/themes/custom/hip/logo.svg) ![Home](/themes/custom/hip/logo_color.svg)](https://homematic-ip.com/de)
 
 [![Logo](/themes/custom/hip/logo.svg)](https://homematic-ip.com/de)
@@ -159,9 +165,9 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-bsm-1-4.png.webp?itok=nWK-wYvF)](https://homematic-ip.com/de/produkt/schalt-mess-aktor-fuer-markenschalter)
             
             [Schalt-Mess-Aktor für Markenschalter](https://homematic-ip.com/de/produkt/schalt-mess-aktor-fuer-markenschalter)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmipw-drd3-1-1.png.webp?itok=Wp_JEwXi)](https://homematic-ip.com/de/produkt/wired-dimmaktor-3-fach/technische-daten)
+        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmipw-drd3-1-1.png.webp?itok=Wp_JEwXi)](https://homematic-ip.com/produkt/wired-dimmaktor-3-fach/technische-daten)
             
-            [Wired Dimmaktor](https://homematic-ip.com/de/produkt/wired-dimmaktor-3-fach/technische-daten)
+            [Wired Dimmaktor](https://homematic-ip.com/produkt/wired-dimmaktor-3-fach/technische-daten)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_1.png.webp?itok=qOsDCRaf)](https://homematic-ip.com/de/produkt/app)
             
             [App](https://homematic-ip.com/de/produkt/app)
@@ -297,32 +303,19 @@ Menü
         * [Händlersuche](https://homematic-ip.com/de/haendlersuche)
         * [Installationspartner](https://homematic-ip.com/de/installationspartner)
         * [internationale Partner](https://homematic-ip.com/de/internationale-partner)
+        * [Online-Schulungsportal](https://homematic-ip.com/de/online-schulungen)
         * [Kontakt](https://homematic-ip.com/de/kontakt)
-    * [🧬 BetaBeSmart](https://homematic-ip.com/de/betabesmart)
-        * [Das Beta-Programm von Homematic IP.](https://homematic-ip.com/de/betabesmart)
+    * [🧬 BetaBeSmart](https://homematic-ip.com/de/abetabesmart)
+        * [Das Beta-Programm von Homematic IP.](https://homematic-ip.com/de/abetabesmart)
     
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_update-news_0.jpg.webp?itok=2hGymB9J)
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_teaser_roadshow24.jpg.webp?itok=c0X-P-pF)
 
 News
 
-Neue Homematic IP App veröffentlicht](https://homematic-ip.com/de/news/neue-homematic-ip-app-veroeffentlicht)
-
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_anthrazitlaunch.jpg.webp?itok=sZlb7oyy)
-
-News
-
-Homematic IP erweitert Produktsortiment in elegantem Anthrazit](https://homematic-ip.com/de/news/homematic-ip-erweitert-produktsortiment-elegantem-anthrazit)
-
-[Aug.
-
-01-03
-
-Event
-
-BAUHAUS Nürnberg: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-08-01-bauhaus-nuernberg)
+Homematic IP Roadshow 2024: Die Tour geht weiter – Erleben Sie Smart Home live in Ihrer Nähe!](https://homematic-ip.com/de/news/die-tour-geht-weiter-erleben-sie-smart-home-live-ihrer-naehe)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
@@ -331,21 +324,19 @@ BAUHAUS Nürnberg: Faszination Smart-Home live erleben - im Homematic IP Roadsho
 *  [![ES](/modules/contrib/languageicons/flags/es.png "ES") ES](https://homematic-ip.com/es/proteccion-de-datos-app)
 *  [![NL](/modules/contrib/languageicons/flags/nl.png "NL") NL](https://homematic-ip.com/nl/gegevensbescherming-app)
 
-Suchbegriff eingeben und Eingabetaste drücken.
+Quicklinks
 
-Cancel
-
-### Suchtreffer
-
-Es wurden keine Inhalte zu Ihrem Suchbegriff gefunden.
-
-### Treffer in Produkten
-
-Es wurden keine Produkte zu Ihrem Suchbegriff gefunden.
+* [Produktübersicht](https://homematic-ip.com/de/produkte)
+* [aktuelle News](https://homematic-ip.com/de/news)
+* [Händlersuche](https://homematic-ip.com/de/haendlersuche)
+* [Events & Seminare](https://homematic-ip.com/de/events-seminare)
+* [Downloads](https://homematic-ip.com/de/downloads)
+* [Fragen und Antworten](https://homematic-ip.com/de/faqs)
 
 * [](https://www.facebook.com/homematicip "facebook")
 * [](https://www.youtube.com/channel/UCZqO0Bjkmj3Phn_-TEs3cnQ "youtube")
 * [](https://www.instagram.com/homematicip_official "instagram")
+* [](https://www.linkedin.com/company/homematic-ip/ "linkedin")
 * [](https://www.pinterest.com/HomematicIP/ "pinterest")
 
  
