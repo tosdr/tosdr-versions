@@ -40,8 +40,7 @@ United Kingdom
         
         * [ActiveHub](https://www.pearsonschoolsandfecolleges.co.uk/activehub)
         * [Onscreen Assessment](https://www.pearson.com/en-gb/schools/insights-and-events/topics/edtech/onscreen-assessment.html)
-        * [Pearson Tutoring Programme](https://www.pearson.com/en-gb/schools/products-services/pearson-tutoring-programme.html)
-        * [All Resources](https://www.pearsonschoolsandfecolleges.co.uk/#for-educators)
+        * [Pearson Revise](https://www.pearson.com/en-gb/schools/secondary/parents-learners/revision/gcse-revision/pearson-revise.html)
         
         ### Get Support
         
@@ -240,7 +239,6 @@ United Kingdom
         * [Pearson eTextbooks](https://www.pearson.com/en-gb/higher-education/products-services/pearson-etextbook.html)
         * [Print & eTextbooks](https://www.pearson.com/en-gb/higher-education/products-services/textbooks-and-ebooks.html)
         * [Online Learning Units](https://www.pearson.com/en-gb/higher-education/products-services/online-learning-units.html)
-        * [Student Skills Analysis Tool](https://www.pearson.com/en-gb/higher-education/products-services/conley-readiness-index.html)
         * [Simulations](https://www.pearson.com/en-gb/higher-education/products-services/simulations.html)
         * [MyVirtuals](https://www.pearson.com/en-gb/higher-education/products-services/revel/psychology/myvirtuals.html)
         * [Beyond Labz](https://www.pearson.com/en-gb/higher-education/products-services/beyond-labz.html)
@@ -496,11 +494,7 @@ As of July 2022, Pearson has not received any requests from or on behalf of the 
 Contact us
 ----------
 
-**Questions about Privacy in the US and Canada**  
-[dataprivacyUS@pearson.com](mailto:dataprivacyUS@pearson.com)
-
-**Rest of the World/General Privacy Questions**  
-[dataprivacy@pearson.com](mailto:dataprivacy@pearson.com)
+[dataprivacy@pearson.com](mailto:dataprivacy@pearson.com)  
 
 [Customer Support Portal](https://support.pearson.com/getsupport/s/)
 
