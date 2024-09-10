@@ -1,4 +1,4 @@
-[Log In](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=signup)
+[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
 
 [](https://www.fairgoplus.com/au)
 
@@ -66,7 +66,7 @@ Source of fund and source of wealth might be required at later stage. Also, play
 
 14.1 If your account was successfully funded by Credit Card(s) the following additional documents are required:
 
-* Signed Account Verification form (find it [here](https://www.fairgoplus.com/images/a_form.pdf "Credit Card Authorization Form "))
+* Signed Account Verification form (find it [here](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form "))
 * Back and front colourful copies of Credit Card(s)
 * Authorization letter and Identification documents of the card owner
 
@@ -222,19 +222,19 @@ Lobby Jackpots
 
 5\. Lobby jackpot prizes are awarded as a real money balance with no wagering restrictions, except when won while playing with a deposit bonus or cashback. In such cases, wagering requirements of the respective bonus apply. 
 
-[Fair Go Lobby](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
+[Fair Go Lobby](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
 
-[Create an account](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=signup "sign up")
+[Create an account](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup "sign up")
 
 [Promotions](https://www.fairgoplus.com/promotions "promotions")
 
-[Koala's Diary](https://www.fairgoplus.com/koalas-diary "koala's diary")
+[Koala's Diary](https://www.fairgoplus.com/koaladiary "koala's diary")
 
 [Videos](https://www.fairgoplus.com/videos "Fair Go casino videos")
 
 [Blog](https://www.fairgoplus.com/blog "fair go blog")
 
-[Reviews](https://www.fairgoplus.com/review "reviews")
+[Reviews](https://www.fairgoplus.com/reviews "reviews")
 
 [Fair Go History](https://www.fairgoplus.com/timeline "timeline")
 
@@ -260,7 +260,7 @@ Lobby Jackpots
 
 [Fair Go Bonuses](https://www.fairgocasinobonuses.com/ "Fair Go Bonuses")
 
-[Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino/ "What are Fair Go Free pokies?")
+[Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
 [Banking](https://www.fairgoplus.com/banking "banking")
 
@@ -286,7 +286,7 @@ Lobby Jackpots
 
 [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling "responsible gaming")
 
-[Sitemap](https://www.fairgoplus.com/sitemap "sitemap")
+[Sitemap](https://www.fairgoplus.com/sitemap.xml "sitemap")
 
 [Twitter](https://twitter.com/FairGoCasino "Follow us on Twitter")
 
