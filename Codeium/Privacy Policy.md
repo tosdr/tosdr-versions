@@ -2,15 +2,15 @@
 
 [](https://codeium.com/)
 
-Open optionsFeatures
+Open Product optionsProduct
 
-Open optionsResources
+Open Resources optionsResources
 
 [Pricing](https://codeium.com/pricing)
 
 [Enterprise](https://codeium.com/enterprise)
 
-Open optionsCompany
+Open Company optionsCompany
 
 [Get Codeium](https://codeium.com/download)
 
@@ -19,7 +19,7 @@ Privacy Policy
 
 **PRIVACY NOTICE**
 
-**Last updated June 25, 2024**
+**Last updated August 16, 2024**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at [hello@codeium.com](mailto:hello@codeium.com).
 
@@ -136,6 +136,7 @@ We only share and disclose your Personal Information with the following categori
 
 * Website Hosting Service Providers
 * Cloud Computing Services
+* Customer Intelligence Platforms
 
 **5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
 
@@ -179,7 +180,7 @@ In some regions (like the EEA and UK), you have certain rights under applicable 
 
 If we are relying on your consent to process your Personal Information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal, nor will it affect the processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
 
-If you are a resident in the EEA or UK and you believe we are unlawfully processing your Personal Information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [https://ec.europa.eu/justice/data-](https://ec.europa.eu/justice/data-) protection/bodies/authorities/index\_en.htm.
+If you are a resident in the EEA or UK and you believe we are unlawfully processing your Personal Information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [https://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
