@@ -119,12 +119,12 @@ You agree that: (i) the Future Today Services shall be deemed solely based in th
 
 * * *
 
-![logo](img/Logo.png)
+![logo](img/Logo.png) 
 
 Future Today Inc.  
-3723 Haven Ave,  
-Ste 133, Menlo Park,  
-CA, USA, 94025
+3705 Haven Ave,  
+Suite 133 Menlo Park,  
+CA 94025
 
 [Distribute Your Content](http://futuretodayinc.com/distribute-your-content)
 
