@@ -115,11 +115,16 @@ Toggle navigation
     * [From politics to practice: Paving a path to EU’s pesticide ambitions](https://www.euractiv.com/section/agriculture-food/special_report/from-politics-to-practice-paving-a-path-to-eus-pesticide-ambitions/)
     * [One Health approach: Time for implementation](https://www.euractiv.com/section/agriculture-food/special_report/one-health-approach-time-for-implementation/)
     
+    ##### Events
+    
+    * 15 October - [Media Partnership: The future of agriculture and fertilizer production in the EU](https://events.euractiv.com/event/info/media-partnership-the-future-of-agriculture-and-fertilizer-production-in-the-eu)
+    * 31 October - [Nourishing Europe - Financing the path to resilient and sustainable food systems](https://events.euractiv.com/event/info/nourishing-europe-financing-the-path-to-resilient-and-sustainable-food-systems)
+    
     ##### Promoted Content
     
+    * [Turning the tide on tail-docking: will Denmark’s State Aid scheme to improve pig welfare inspire other Member States?](https://www.euractiv.com/section/agriculture-food/opinion/turning-the-tide-on-tail-docking-will-denmarks-state-aid-scheme-to-improve-pig-welfare-inspire-other-member-states/)
     * [Benefits of selected specialty food ingredients for gut health](https://www.euractiv.com/section/agriculture-food/infographic/benefits-of-selected-specialty-food-ingredients-for-gut-health/)
     * [Used cooking oil: there is a cobra in the room](https://www.euractiv.com/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/)
-    * [REFIT and Reseal: Why the EU Must Uphold the Ban on Trade in Seal Products](https://www.euractiv.com/section/agriculture-food/opinion/refit-and-reseal-why-the-eu-must-uphold-the-ban-on-trade-in-seal-products/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -150,9 +155,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Why financial literacy must be built into the EU’s policy agenda](https://www.euractiv.com/section/economy-jobs/opinion/why-financial-literacy-must-be-built-into-the-eus-policy-agenda/)
+    * [The Future of Spirits: A Toast to Balancing Growth and Responsibility](https://www.euractiv.com/section/economy-jobs/opinion/the-future-of-spirits-a-toast-to-balancing-growth-and-responsibility/)
     * [ACCA EU 2024-2029: Three calls to action for a sustainable and competitive Future for Europe](https://www.euractiv.com/section/economy-jobs/opinion/acca-eu-2024-2029-three-calls-to-action-for-a-sustainable-and-competitive-future-for-europe/)
-    * [EU biodiesel industry may not survive 2024 if left unprotected from Chinese unfair imports](https://www.euractiv.com/section/economy-jobs/opinion/eu-biodiesel-industry-may-not-survive-2024-if-left-unprotected-from-chinese-unfair-imports/)
-    * [Celebrating a Milestone for Inventors – One Year of the Unitary Patent](https://www.euractiv.com/section/economy-jobs/opinion/celebrating-a-milestone-for-inventors-one-year-of-the-unitary-patent/)
     
 * [Energy & Environment](https://www.euractiv.com/sections/energy-environment/)
     
@@ -211,9 +216,9 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [A call for the EU to take its role seriously in climate change and biodiversity policies of fisheries management](https://www.euractiv.com/section/energy-environment/opinion/a-call-for-the-eu-to-take-its-role-seriously-in-climate-change-and-biodiversity-policies-of-fisheries-management/)
-    * [Reshaping recycling: The complex quest for circular plastics](https://www.euractiv.com/section/energy-environment/opinion/reshaping-recycling-the-complex-quest-for-circular-plastics/)
-    * [The EU Moves to Regulate Sports Shooters](https://www.euractiv.com/section/energy-environment/opinion/the-eu-moves-to-regulate-sports-shooters/)
+    * [The EUDR needs corrective action to work](https://www.euractiv.com/section/energy-environment/opinion/the-eudr-needs-corrective-action-to-work/)
+    * [Join the 10th European Sustainable Cities Conference in Aalborg2024](https://www.euractiv.com/section/energy-environment/video/join-the-10th-european-sustainable-cities-conference-in-aalborg2024/)
+    * [The Significance and Limitations of Sustainability Certification from ISCC’s Perspective](https://www.euractiv.com/section/energy-environment/opinion/the-significance-and-limitations-of-sustainability-certification-from-isccs-perspective/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -253,6 +258,10 @@ Toggle navigation
     * [EU-China relations 2024: what lies ahead?](https://www.euractiv.com/section/global-europe/special_report/eu-china-relations-2024-what-lies-ahead/)
     * [Rethinking the global order](https://www.euractiv.com/section/central-asia/special_report/rethinking-the-global-order-2/)
     * [The road to Georgia’s accession to the EU](https://www.euractiv.com/section/europe-s-east/special_report/the-road-to-georgias-accession-to-the-eu/)
+    
+    ##### Events
+    
+    * 26 September - [Uzbekistan 2024 parliamentary elections - On the road to a democratic future](https://events.euractiv.com/event/info/uzbekistan-2024-parliamentary-elections-on-the-road-to-a-democratic-future)
     
     ##### Promoted Content
     
@@ -294,11 +303,15 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [Antimicrobial resistance fight needs more ambition, new alliances and strategies](https://www.euractiv.com/section/health-consumers/special_report/antimicrobial-resistance-fight-needs-more-ambition-new-alliances-and-strategies/)
     * [Europe’s personalised medicine sector boosted by Sino-EU PerMed project](https://www.euractiv.com/section/health-consumers/special_report/europes-peronalised-medicines-sector-boosted-by-sino-eu-permed-project/)
     * [Alzheimer’s Disease: detection, diagnosis, treatment](https://www.euractiv.com/section/health-consumers/special_report/alzheimers-disease-detection-diagnosis-treatment/)
     * [Europe needs new 360 rare diseases strategy](https://www.euractiv.com/section/health-consumers/special_report/europe-needs-new-360-rare-diseases-strategy/)
     * [Diabetes care in Europe: The path forward](https://www.euractiv.com/section/health-consumers/special_report/diabetes-care-in-europe-the-path-forward/)
-    * [Transplantation in the EU: From the waiting lists to post-transplantation journey](https://www.euractiv.com/section/health-consumers/special_report/transplantation-in-the-eu-from-the-waiting-lists-to-post-transplantation-journey/)
+    
+    ##### Events
+    
+    * 01 October - [Ending HIV in Europe - Can the EU lead the global path forward to 2030?](https://events.euractiv.com/event/info/ending-hiv-in-europe-can-the-eu-lead-the-global-path-forward-to-2030)
     
     ##### Promoted Content
     
@@ -376,9 +389,9 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [Electronics Manufacturing: The Achilles’ Heel of EU Strategic Autonomy](https://www.euractiv.com/section/digital/opinion/electronics-manufacturing-the-achilles-heel-of-eu-strategic-autonomy/)
-    * [Inclusion is still a problem in museums, an app is trying to fill the gap](https://www.euractiv.com/section/digital/opinion/inclusion-is-still-a-problem-in-museums-an-app-is-trying-to-fill-the-gap/)
-    * [The Imperative of Net Neutrality for Europe’s Startup Ecosystem](https://www.euractiv.com/section/digital/opinion/the-imperative-of-net-neutrality-for-europes-startup-ecosystem/)
+    * [Coordinated Action to unlock GovTech Potential: Connecting Startups and Public Authorities for Enhanced Public Services](https://www.euractiv.com/section/digital/opinion/coordinated-action-to-unlock-govtech-potential-connecting-startups-and-public-authorities-for-enhanced-public-services/)
+    * [Navigating Compliance: How innovation can thrive under the AI Act](https://www.euractiv.com/section/digital/opinion/navigating-compliance-how-innovation-can-thrive-under-the-ai-act/)
+    * [Local Digital Twins: Tackling urban digitalisation gaps in Europe](https://www.euractiv.com/section/digital/opinion/local-digital-twins-tackling-urban-digitalisation-gaps-in-europe/)
     
 * [Transport](https://www.euractiv.com/sections/transport/)
     
@@ -972,16 +985,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 ### Most read articles
 
-* 1[Cash-strapped Hungary borrows €1 billion from China](http://en.euractiv.eu/section/china/news/cash-strapped-hungary-borrows-e1-billion-from-china/?utm_source=website&utm_campaign=popular)
-* 2[Von der Leyen gives nod to €100 billion 'CERN for AI' proposal](http://en.euractiv.eu/section/digital/news/von-der-leyen-gives-nod-to-e100-billion-cern-for-ai-proposal/?utm_source=website&utm_campaign=popular)
-* 3[As Germany struggles to improve economy, it decided to go on a Gigabit offensive](http://en.euractiv.eu/section/digital/news/as-germany-struggles-to-improve-economy-it-decided-to-go-on-a-gigabit-offensive/?utm_source=website&utm_campaign=popular)
-* 4[Pornhub challenges natural names disclosure under digital rules at Europe's highest court](http://en.euractiv.eu/section/platforms/news/pornhub-challenges-natural-names-disclosure-under-digital-rules-at-europes-highest-court/?utm_source=website&utm_campaign=popular)
-* 5[EU agriculture chief slams the idea of reform-linked funds for farmers](http://en.euractiv.eu/section/agriculture-food/news/eu-agriculture-chief-slams-the-idea-of-reform-linked-funds-for-farmers/?utm_source=website&utm_campaign=popular)
-* 6[Trump tells Christians they won't have to vote after this election](http://en.euractiv.eu/section/global-europe/news/trump-tells-christians-they-wont-have-to-vote-after-this-election/?utm_source=website&utm_campaign=popular)
-* 7[Ex US trade official: Trump tariffs on Chinese goods could offer 'top cover’ for EU measures](http://en.euractiv.eu/section/economy-jobs/news/ex-us-trade-official-trump-tariffs-on-chinese-goods-could-offer-top-cover-for-eu-measures/?utm_source=website&utm_campaign=popular)
-* 8[Polish MPs allow security forces to use arms with impunity](http://en.euractiv.eu/section/global-europe/news/polish-mps-allow-security-forces-to-use-arms-with-impunity/?utm_source=website&utm_campaign=popular)
-* 9[Erdoğan says Turkey might enter Israel to help Palestinians](http://en.euractiv.eu/section/global-europe/news/erdogan-says-turkey-might-enter-israel-to-help-palestinians/?utm_source=website&utm_campaign=popular)
-* 10[Orbán says Russia stands to gain as 'irrational' West loses power](http://en.euractiv.eu/section/global-europe/news/orban-says-russia-stands-to-gain-as-irrational-west-loses-power/?utm_source=website&utm_campaign=popular)
+* 1[Car industry pours cold water on von der Leyen's 'lead markets' plans](http://en.euractiv.eu/section/economy-jobs/news/car-industry-pours-cold-water-on-von-der-leyens-lead-markets-plans/?utm_source=website&utm_campaign=popular)
+* 2[Ghana begins program to trace cocoa as EU law combating deforestation looms](http://en.euractiv.eu/section/development-policy/news/ghana-begins-program-to-trace-cocoa-as-eu-law-combating-deforestation-looms/?utm_source=website&utm_campaign=popular)
+* 3[Russian court freezes Raiffeisen shares in local bank, blocking sale](http://en.euractiv.eu/section/global-europe/news/russian-court-freezes-raiffeisen-shares-in-local-bank-blocking-sale/?utm_source=website&utm_campaign=popular)
+* 4[How the Draghi report could affect future EU-US relations](http://en.euractiv.eu/section/economy-jobs/news/how-the-draghi-report-could-affect-future-eu-us-relations/?utm_source=website&utm_campaign=popular)
+* 5[Lack of productivity growth 'existential challenge' for Europe, Draghi report says](http://en.euractiv.eu/section/economy-jobs/news/lack-of-productivity-growth-existential-challenge-for-europe-draghi-report-says/?utm_source=website&utm_campaign=popular)
+* 6[Ukrainians assail Russian-Canadian war film at Venice fest](http://en.euractiv.eu/section/europe-s-east/news/ukrainians-assail-russian-canadian-war-film-at-venice-fest/?utm_source=website&utm_campaign=popular)
+* 7[EU politicians weigh in on Draghi report](http://en.euractiv.eu/section/politics/news/eu-politicians-weigh-in-on-draghi-report/?utm_source=website&utm_campaign=popular)
+* 8[Far-right AfD cheers Scholz’s call for peace summit with Russia](http://en.euractiv.eu/section/politics/news/far-right-afd-cheers-scholzs-call-for-peace-summit-with-russia/?utm_source=website&utm_campaign=popular)
+* 9[Draghi’s pitch to save green growth](http://en.euractiv.eu/section/energy-environment/news/draghis-pitch-to-save-green-growth/?utm_source=website&utm_campaign=popular)
+* 10[Germany introduces checks at all borders, moves to refuse entry to migrants](http://en.euractiv.eu/section/politics/news/germany-introduces-checks-at-all-borders-moves-to-refuse-entry-to-migrants/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
