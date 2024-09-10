@@ -5,7 +5,6 @@
 * [Classes](https://linetheatre.com/classes/)
     * [Theatre classes 6-18](https://linetheatre.com/classes/theatre-classes/)
 * [Productions](https://linetheatre.com/upcoming-productions/)
-    * [Medea](https://linetheatre.com/upcoming-productions/medea/)
     * [Past productions](https://linetheatre.com/upcoming-productions/past-productions/)
 * [News](https://linetheatre.com/news/)
 * [Contact](https://linetheatre.com/contact/)
@@ -38,7 +37,7 @@ Data retention for anonymised data stored:
 
 Comments are closed.
 
-Copyright 2022 - Line Theatre
+Copyright 2024 - Line Theatre
 
 * [](https://www.facebook.com/linetheatre)
 * [](https://www.instagram.com/linetheatrelyon/)
