@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=579132630828980&ev=PageView&noscript=1)  
+
 [Skip to content](#content)
 
 [![](https://www.bespokefundingprogram.com/wp-content/uploads/2024/03/Group-78.svg)](https://www.bespokefundingprogram.com/)
@@ -123,8 +125,9 @@ Submit
 All the information on this website – www.bespokefundingprogram.com – is published in good faith and for general information purpose only. Bespoke Funding does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Bespoke Educational Services – FZCO –  
 Dubai Silicon Oasis, DDP, Building A1, Dubai, United Arab Emirates), is strictly at your own risk. Bespoke Educational Services – FZCO not be liable for any losses and/or damages in connection with the use of our website. From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone ‘bad’. Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their “Terms of Service” before engaging in any business or uploading any information. This website is the property of \[Bespoke Educational Services – FZCO\] and shall not be reproduced, copied in whole or in part, adapted, modified, disseminated or scraped without the express prior written consent of \[Bespoke Educational Services – FZCO\]
 
-Copyright © 2024 [bespokefundingprogram.com](https://www.bespokefundingprogram.com/ "Bespokefundingprogram.com") All Rights Reserved.  
-Development by [Hammani Tech](https://hammanitech.com/ "Bespokefundingprogram.com")
+Copyright © 2024  
+[bespokefundingprogram.com](https://www.bespokefundingprogram.com/ "Bespokefundingprogram.com")  
+All Rights Reserved.
 
 [Terms & conditions](https://www.bespokefundingprogram.com/term-condition/)
 
@@ -132,6 +135,10 @@ Development by [Hammani Tech](https://hammanitech.com/ "Bespokefundingprogram.co
 
 * [![](https://www.bespokefundingprogram.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](#)
     * [![](https://www.bespokefundingprogram.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/tr.svg)Türkçe (Turkish)](https://www.bespokefundingprogram.com/tr/gizlilik-politikasi/)
+
+Copyright © 2024  
+All Rights Reserved.  
+Development by [Hammani Tech](https://hammanitech.com/ "hammanitech.com")
 
 Challenge Type
 --------------
@@ -177,5 +184,3 @@ Trading Platform
 [Back](#)
 
 [Proceed](#)
-
-![](https://www.facebook.com/tr?id=579132630828980&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=5574&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.bespokefundingprogram.com%2Fprivacy-policy%2F)
