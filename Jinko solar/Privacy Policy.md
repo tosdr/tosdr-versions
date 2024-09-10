@@ -34,8 +34,6 @@ Menu
 * [EAGLE® Modules](https://jinkosolar.us/eagle-modules/)
     * [EAGLE® G6](https://jinkosolar.us/eagle-g6/)
     * [EAGLE® G5](https://jinkosolar.us/eagle-g5/)
-    * [EAGLE® G4](https://jinkosolar.us/eagle-g4/)
-    * [EAGLE® Continental](https://jinkosolar.us/eagle-continental/)
     * [Quality](https://jinkosolar.us/quality)
     * [Warranty](https://jinkosolar.us/eagle-modules/#warranty)
     * [Download Center](https://jinkosolar.us/download-center/)
