@@ -135,7 +135,7 @@ Privacy Policy
 
 **AADS is a bitcoin advertising network that respects your privacy.**
 
-This Privacy Policy ("Policy") describes how AADS.com ("A-ads.com" or "AADS" or "we" or "our" or "us") collects, stores, shares, and uses information and your choices about privacy when you use our website, products and services (collectively, "Services"). If you see an undefined term in this Privacy Policy, it has the exact definition as in our Terms and Conditions [https://a-ads.com/terms\_of\_service](https://a-ads.com/terms_of_service). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices.
+This Privacy Policy ("Policy") describes how AADS.com ("A-ads.com" or "AADS" or "we" or "our" or "us") collects, stores, shares, and uses information and your choices about privacy when you use our website, products and services (collectively, "Services"). If you see an undefined term in this Privacy Policy, it has the exact definition as in our Terms and Conditions [https://aads.com/terms\_of\_service](https://aads.com/terms_of_service). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices.
 
   
 
@@ -176,7 +176,7 @@ To comply with our legal obligations, resolve disputes, or enforce our T&Cs or a
 COMMUNICATION PREFERENCES
 -------------------------
 
-We provide registered Users with settings on our Services to control whether they receive certain communications from us. Suppose you do not want to receive a marketing e-mail from us. In that case, you can unsubscribe by following the unsubscribe link in the e-mail you received, changing your preferences in your profile and account settings (if you have registered for an AADS account), or contacting us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). You may not be able to opt-out of receiving communications from us, such as e-mails about your account, your relationship with us, or your transactions with us or other Users. For further information, please don't hesitate to contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that unsubscribing from receiving marketing e-mails from us may result in a less robust experience of our Services.
+We provide registered Users with settings on our Services to control whether they receive certain communications from us. Suppose you do not want to receive a marketing e-mail from us. In that case, you can unsubscribe by following the unsubscribe link in the e-mail you received, changing your preferences in your profile and account settings (if you have registered for an AADS account), or contacting us via [https://aads.com/contact\_us](https://aads.com/contact_us). You may not be able to opt-out of receiving communications from us, such as e-mails about your account, your relationship with us, or your transactions with us or other Users. For further information, please don't hesitate to contact us via [https://aads.com/contact\_us](https://aads.com/contact_us). Please note that unsubscribing from receiving marketing e-mails from us may result in a less robust experience of our Services.
 
 ACCOUNTS AND USER PROFILES
 --------------------------
@@ -184,14 +184,14 @@ ACCOUNTS AND USER PROFILES
 Registration, Access, and Records
 ---------------------------------
 
-To register for an AADS account, you may be asked to provide your username, valid e-mail address, social network profile, cryptocurrency wallet address, and/or other data. If you have received our permission to use our Services as a business, you may need to complete an additional registration process and provide further information. If you have an AADS account, you may access, add, remove, or update certain information about you in your profile and account settings, as indicated on our Services. You are responsible for updating all such information as necessary to keep it accurate and current. When you update your account or profile information, we may keep a record of the unrevised information for purposes consistent with this Policy. If you wish to cancel your account, you may use the tools provided in your profile and account settings ([https://a-ads.com/user/deletion/new](https://a-ads.com/user/deletion/new)), subject to any other agreements between you and us and any transactions which have not yet been completed. If you terminate your account, we may keep a record of any or all information associated with you or your account, as required or permitted by law, for purposes consistent with this Policy. Any such data shall be attached to a unique identifier that cannot be used to identify you; specific account data that includes Personal Information, including your name, e-mail, contact information, and certain other records such as settings and collector profiles will be removed at such termination. For further information, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us).
+To register for an AADS account, you may be asked to provide your username, valid e-mail address, social network profile, cryptocurrency wallet address, and/or other data. If you have received our permission to use our Services as a business, you may need to complete an additional registration process and provide further information. If you have an AADS account, you may access, add, remove, or update certain information about you in your profile and account settings, as indicated on our Services. You are responsible for updating all such information as necessary to keep it accurate and current. When you update your account or profile information, we may keep a record of the unrevised information for purposes consistent with this Policy. If you wish to cancel your account, you may use the tools provided in your profile and account settings ([https://aads.com/user/deletion/new](https://aads.com/user/deletion/new)), subject to any other agreements between you and us and any transactions which have not yet been completed. If you terminate your account, we may keep a record of any or all information associated with you or your account, as required or permitted by law, for purposes consistent with this Policy. Any such data shall be attached to a unique identifier that cannot be used to identify you; specific account data that includes Personal Information, including your name, e-mail, contact information, and certain other records such as settings and collector profiles will be removed at such termination. For further information, please get in touch with us via [https://aads.com/contact\_us](https://aads.com/contact_us).
 
 Profile and Account Information
 -------------------------------
 
 To make our Services more interactive, certain information about Users' profiles or accounts, including non-financial data relating to the performance of the advertisements you create or publish, may be made accessible to other Users on or through our Services, as indicated in Users' profile and account settings on our Services, or as otherwise indicated by us when you use certain Services. This information may include settings to control how particular profile or account information is shared with other Users on or through our Services. You should regularly check your profile and account settings to be informed of your current choices.
 
-Data Retention: We will keep and use your data as described in this Policy for (i) as long as your account is in use, is open, or is active; (ii) as long as it is necessary to comply with any tax, legal, and/or other regulatory requirements; and (iii) to protect and defend against potential legal claims. If you would like to request the deletion of your personally identifiable information or request that it be returned to you, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us).
+Data Retention: We will keep and use your data as described in this Policy for (i) as long as your account is in use, is open, or is active; (ii) as long as it is necessary to comply with any tax, legal, and/or other regulatory requirements; and (iii) to protect and defend against potential legal claims. If you would like to request the deletion of your personally identifiable information or request that it be returned to you, please get in touch with us via [https://aads.com/contact\_us](https://aads.com/contact_us).
 
 By deleting your data from our site, you understand that you will no longer be able to use our Services. We will retain your anonymized, aggregated, depersonalized data after it has been deleted from our site.
 
@@ -268,7 +268,7 @@ Please note that while we seek to protect your information and maintain the secu
 STATUTORY REQUESTS
 ------------------
 
-Some jurisdictions have laws that give people the right to access or correct the Personal Information which a company has about them. We will honour any statutory right you may have to access or correct your Personal Information in our records, and you can e-mail such requests via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Once we receive your request, we will let you know if an administrative fee will apply to fulfil your request, as permitted by applicable law. However, please note that even if you have a legal right to request access to information or to correct information, as permitted by applicable law, we may reject unreasonably repetitive requests that would require disproportionate technical effort (for example, developing a new system or materially changing an existing practice), would jeopardise the privacy of others, or would be highly impractical to fulfil (for example, requests to access information located on backup systems).
+Some jurisdictions have laws that give people the right to access or correct the Personal Information which a company has about them. We will honour any statutory right you may have to access or correct your Personal Information in our records, and you can e-mail such requests via [https://aads.com/contact\_us](https://aads.com/contact_us). Once we receive your request, we will let you know if an administrative fee will apply to fulfil your request, as permitted by applicable law. However, please note that even if you have a legal right to request access to information or to correct information, as permitted by applicable law, we may reject unreasonably repetitive requests that would require disproportionate technical effort (for example, developing a new system or materially changing an existing practice), would jeopardise the privacy of others, or would be highly impractical to fulfil (for example, requests to access information located on backup systems).
 
 DISPUTE RESOLUTION
 ------------------
@@ -291,16 +291,16 @@ Third-Party Analytics, Service, and Ad Providers: We may use third-party analyti
 
 We may also use third-party advertising providers, including ad networks or exchanges, to help display ads on our Services or other websites, including customized ads based on past online activity. These third parties may use cookies, web beacons, and similar technologies to help provide services to us and collect information about your and others' online activity across different websites. These providers may also collect your IP address, device identifier, or identifier for advertising (IDFA). The third-party advertising providers we use include but are not limited to Google Analytics. We use its Remarketing and Demographics and Interest Reporting features, which enable Google Analytics to collect data about the traffic on our Services through Google advertising cookies and anonymous identifiers. We and third-party providers, including Google reCAPTCHA and Google Analytics, may use first-party cookies (i.e., cookies set by the website you are visiting) and third-party cookies (i.e., cookies placed by a third-party website other than the website you are visiting) to inform, optimize, and serve ads based on past visits to our Services. We do not control the practices of any third-party providers. This Cookie Policy (and our Privacy Policy in general) does not cover using cookies, web beacons, or similar technologies by any third parties.
 
-Opting-Out: Third-party providers may offer a way to opt-out of receiving cookies from them by visiting their websites or the websites of industry groups such as the Network Advertising Initiative and the Digital Advertising Alliance. For example, you may opt out of receiving ad-related cookies from Google through its Ad Settings. If you opt out of receiving cookies from one of these providers, it may place a cookie on your device to remember your preference. Accordingly, if you delete cookies, install a new browser, or start using a new device, you may need to repeat the opt-out process. For more information about AdChoice, please visit their website. To opt out of receiving any marketing materials, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us).
+Opting-Out: Third-party providers may offer a way to opt-out of receiving cookies from them by visiting their websites or the websites of industry groups such as the Network Advertising Initiative and the Digital Advertising Alliance. For example, you may opt out of receiving ad-related cookies from Google through its Ad Settings. If you opt out of receiving cookies from one of these providers, it may place a cookie on your device to remember your preference. Accordingly, if you delete cookies, install a new browser, or start using a new device, you may need to repeat the opt-out process. For more information about AdChoice, please visit their website. To opt out of receiving any marketing materials, please get in touch with us via [https://aads.com/contact\_us](https://aads.com/contact_us).
 
 Changes to this Cookie Policy: As part of our Privacy Policy, we may update it at any time as described in our Privacy Policy. Please review this Cookie Policy regularly to be informed of any updates.
 
 CONTACTING AADS
 ---------------
 
-If you have questions or comments about our Privacy Policy or our privacy practices, or you would like to know what Personal Information we hold about you or would like to update, delete, or request access to such Personal Information, you may contact us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes, such as information stored in blockchain technology to verify the authenticity and value of digital assets. If you delete all your Personal Information, your AADS account may become deactivated.
+If you have questions or comments about our Privacy Policy or our privacy practices, or you would like to know what Personal Information we hold about you or would like to update, delete, or request access to such Personal Information, you may contact us via [https://aads.com/contact\_us](https://aads.com/contact_us). We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes, such as information stored in blockchain technology to verify the authenticity and value of digital assets. If you delete all your Personal Information, your AADS account may become deactivated.
 
-You may access, correct, amend, or delete your User Materials by accessing your AADS account (including any imported contacts). You control all User Materials you upload. User Materials that you delete (including User Materials containing personal information) may be retained in archived or backup copies to enable you to use certain features like revision history and base snapshots. For instructions on permanently deleting User Materials from your account, please get in touch with us via [https://a-ads.com/contact\_us](https://a-ads.com/contact_us). Please note that permanent deletion of your User Materials through this process will impair or disable those features concerning that User Materials.
+You may access, correct, amend, or delete your User Materials by accessing your AADS account (including any imported contacts). You control all User Materials you upload. User Materials that you delete (including User Materials containing personal information) may be retained in archived or backup copies to enable you to use certain features like revision history and base snapshots. For instructions on permanently deleting User Materials from your account, please get in touch with us via [https://aads.com/contact\_us](https://aads.com/contact_us). Please note that permanent deletion of your User Materials through this process will impair or disable those features concerning that User Materials.
 
 You may access, correct, amend, or delete the Personal Information we have about you by logging into your account and navigating your account page. If you wish to cancel your account, you may do so through your account page. If you do, personally identifiable information associated with your account will be deleted as soon as is reasonably practical or as required by applicable law. Please note that we may retain information that is otherwise deleted in anonymized and aggregated form, in archived or backup copies as needed under records retention obligations, or otherwise as required by law.
 
@@ -327,14 +327,28 @@ Collaborations
 Service
 
 * [Network Statistics](https://a-ads.com/statistics/)
-* [System Status](https://status.a-ads.com/en/)
-* [Help Center](https://help.a-ads.com/en/)
+* [System Status](https://status.aads.com/en/)
+* [Help Center](https://help.aads.com/en/)
 
 Company
 
 * [About Us](https://a-ads.com/about-us/)
 * [Our Team](https://a-ads.com/team/)
 * [Blog](https://a-ads.com/blog/)
+
+We accept Bank Card
+
+![](/assets/payment-9eb4631ef20ba0ba5d1491120b72f279b0fe9a6ed83bf9dfda8b76bfa508f53b.png)
+
+& Cryptocurrency payments
+
+![](/assets/payment-crypto-2-dbc5b8a5f29e9012fb22b77b0f18b18201bfa5bcca90c9ead0ac8e44e03d6d26.png) ![](/assets/payment-crypto-1-9d2b46437979b59f814a11b7ddab63e0528f8f72258ceb4755227e569818c4c4.png) ![](/assets/payment-crypto-ff9605bffb72da2917df3b9fdcefc7b59a01ec1ee9c02a19dcfaaa72d8e34ef7.png)
+
++16 more BNB, BTC, BCH, BUSD, DASH, DOGE, ETC, LTC, Polygon, SOL, SOLUSDT, TRX, USDC, USDT, USDT.TRC20, WAVES, WBNB, XEM, XRP, ZEC
+
+![](/assets/lightning-6bca492e548a884a214cfaa7b65fe2efa89a5f3201d6dd4fa6a2113b28ce31c3.png)
+
+Withdraw via [Lightning](https://a-ads.com/blog/effortlessly-withdraw-bitcoin-from-a-ads-using-lightning-network/)
 
  [![earth](/assets/earth-icon-98d06ad93ed623e1ef541a44f38b3232444ff8f935ca56f500e41146b8f3c453.svg)English](javascript:void(0))
 
