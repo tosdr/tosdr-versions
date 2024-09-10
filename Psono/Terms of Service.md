@@ -141,7 +141,7 @@ Should individual terms of this Agreement be entirely or partly ineffective or l
 
 esaqa may update its privacy statement from time to time and we encourage everyone to check regularly. It has last been updated March 27th, 2021.
 
-[![Hosting](/static/logo-99fa74e43a136bd0f18cbed7a6b39fb0.png)](https://psono.com/)
+[![Psono](/static/logo-99fa74e43a136bd0f18cbed7a6b39fb0.png)](https://psono.com/)
 
 Pages
 -----
