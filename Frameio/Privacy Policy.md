@@ -356,11 +356,11 @@ The “Our Business or Commercial Purposes for Collecting Personal information�
 | \- Analytics or other electronic network activity |     |     |
 | \- Inferred information |     |     |
 
-#### Retention and Deletion
+##### Retention and Deletion
 
 The “Data Security and Retention” section above details how long Frame retains personal information.
 
-#### California Privacy Rights
+##### California Privacy Rights
 
 California consumers have certain rights with respect to their personal information. These rights include the following:
 
@@ -401,11 +401,11 @@ We will not discriminate against you for exercising your rights under the CCPA.
 
 You have a right to receive notice of our practices at or before collection of personal information
 
-#### Additional information on exercising your rights
+##### Additional information on exercising your rights
 
 You have right to exercise the rights listed in our Privacy Policy free or charge or penalty, but we may limit the number of requests you make or charge reasonable fees as legally permitted. You may exercise many of these rights yourself by adjusting your preferences as outlined in this Privacy Policy, filling out a request at [https://preferences.frame.io/privacy-management/](https://preferences.frame.io/privacy-management/), or by reaching out to us via the contact information provided at the end of this Privacy Policy.
 
-#### Consumer request metrics for calendar year 2022
+##### Consumer request metrics for calendar year 2022
 
 Frame believes transparency is critical to maintaining a trusted relationship with our consumers. To that end, Frame is further enhancing our transparency with respect to the choices our consumers make regarding personal information. In this privacy transparency disclosure, we are providing metrics on certain requests we received from consumers across the United States during the 2022 calendar year, in compliance with the California Consumer Privacy Act.
 
@@ -413,7 +413,7 @@ Frame believes transparency is critical to maintaining a trusted relationship wi
 
 **Requests to delete:** Frame received 1,896 consumer requests to delete, complied with 1,838 of those requests in whole or in part, and denied 10 of those requests while the remaining requests are pending.
 
-#### Information for European Union Data Subjects
+##### Information for European Union Data Subjects
 
 If you are a resident of the European Union (“EU”), United Kingdom, Lichtenstein, Norway or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) with respect to your personal information, as outlined below.
 
@@ -421,11 +421,11 @@ For this section, we use the terms “personal information” and “processing�
 
 If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of personal information shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at support@frame.io. Note that we may also process personal information of our customers’ end users or employees in connection with our provision of certain services to customers, in which case we are the processor of personal information. If we are the processor of your personal information (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
-#### Personal information We Collect
+##### Personal information We Collect
 
 The “Categories of Personal information We Collect” section above details the personal information that we collect from you.
 
-#### Personal information Use and Processing Grounds
+##### Personal information Use and Processing Grounds
 
 The “Our Commercial or Business Purposes for Collecting Personal information” section above explains how we use your personal information.
 
@@ -440,11 +440,11 @@ We will only process your personal information if we have a lawful basis for doi
 * **Other Processing Grounds:** From time to time, we may also need to process personal information to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
     
 
-#### Disclosing Personal information
+##### Disclosing Personal information
 
 The “How We Disclose Your Personal information” section above details how we disclose your personal information to third parties.
 
-#### EU Data Subject Rights
+##### EU Data Subject Rights
 
 In addition to the rights discussed above, you may have certain rights set forth below. For more information about these rights, or to submit a request, please email us at [support@frame.io](mailto:support@frame.io).
 
@@ -457,11 +457,11 @@ In addition to the rights discussed above, you may have certain rights set forth
 * **Right to File Complaint:** If you have unresolved concerns, you have the right to report them to your local privacy regulator or data protection authority and, where applicable, you also have the right to lodge a complaint with Adobe Ireland's lead supervisory authority, the Irish Data Protection Commission.
     
 
-#### Transfers of Personal information
+##### Transfers of Personal information
 
 The Services are hosted and operated in the United States (“U.S.”) through Frame.io and its service providers, but we also transfer personal information to all other countries in the world where our Services are available. We carry out these transfers in compliance with applicable laws – for example, by putting data transfer agreements in place to help protect your personal information. Where Frame.io transfers your personal information to a country that is not within the EEA and is not subject to a European Commission adequacy decision, we rely on one or more of the following legal mechanisms: European Commission approved Standard Contractual Clauses, and/or your consent in certain circumstances.
 
-#### Changes to this Privacy Policy
+##### Changes to this Privacy Policy
 
 * We may update this Privacy Policy from time to time to account for new technologies, industry practices, regulatory requirements or for other purposes. If we do, we will change the “last updated” date at the top of this policy and the revised policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices. Under certain circumstances (for example, with certain material changes or where it is required by applicable privacy laws), we will provide notice to you of these changes, and where required by applicable law, we will obtain your consent. Notice may be by email to you, by posting a notice of such changes on our Services, or by other means consistent with applicable law.
     
