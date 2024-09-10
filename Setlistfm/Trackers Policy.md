@@ -2,7 +2,7 @@
 
  [Add Setlist](https://www.setlist.fm/edit "So you've been to a concert? Add the setlist!")
 
- Search Clear search text
+ Search [Clear search text](javascript:void(0);)
 
 follow[](https://twitter.com/setlistfm "Follow setlist.fm on Twitter")[](https://www.facebook.com/setlist.fm "Follow setlist.fm on Facebook")[](https://www.instagram.com/setlist.fm "Follow setlist.fm on Instagram")
 
@@ -130,14 +130,14 @@ The Digital Advertising Alliance also offers a tool for opting out of the collec
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-08-01 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-07-31 "Search setlists by day: "Yesterday"")
-* [Jul 30, 2024](https://www.setlist.fm/search?query=date:2024-07-30 "Search setlists by day: "Jul 30, 2024"")
-* [Jul 29, 2024](https://www.setlist.fm/search?query=date:2024-07-29 "Search setlists by day: "Jul 29, 2024"")
-* [Jul 28, 2024](https://www.setlist.fm/search?query=date:2024-07-28 "Search setlists by day: "Jul 28, 2024"")
-* [Jul 27, 2024](https://www.setlist.fm/search?query=date:2024-07-27 "Search setlists by day: "Jul 27, 2024"")
-* [Jul 26, 2024](https://www.setlist.fm/search?query=date:2024-07-26 "Search setlists by day: "Jul 26, 2024"")
-* [Jul 25, 2024](https://www.setlist.fm/search?query=date:2024-07-25 "Search setlists by day: "Jul 25, 2024"")
+* [Today](https://www.setlist.fm/search?query=date:2024-09-10 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-09-09 "Search setlists by day: "Yesterday"")
+* [Sep 8, 2024](https://www.setlist.fm/search?query=date:2024-09-08 "Search setlists by day: "Sep 8, 2024"")
+* [Sep 7, 2024](https://www.setlist.fm/search?query=date:2024-09-07 "Search setlists by day: "Sep 7, 2024"")
+* [Sep 6, 2024](https://www.setlist.fm/search?query=date:2024-09-06 "Search setlists by day: "Sep 6, 2024"")
+* [Sep 5, 2024](https://www.setlist.fm/search?query=date:2024-09-05 "Search setlists by day: "Sep 5, 2024"")
+* [Sep 4, 2024](https://www.setlist.fm/search?query=date:2024-09-04 "Search setlists by day: "Sep 4, 2024"")
+* [Sep 3, 2024](https://www.setlist.fm/search?query=date:2024-09-03 "Search setlists by day: "Sep 3, 2024"")
 
 **© setlist.fm**
 
