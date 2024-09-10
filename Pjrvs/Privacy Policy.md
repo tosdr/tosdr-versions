@@ -204,16 +204,16 @@ The Markup is proving that a newsroom can be unbiased in its reporting, share ho
 Jun 21, 2021  
 [news](https://pjrvs.com/blog/categories/news)
 
-#### [What is Google FLoC (it’s bad for your privacy)](https://usefathom.com/blog/google-floc)
+#### [We prioritize support over sales in our business](https://usefathom.com/blog/saas-customer-service)
 
-FLoC is a method to collect, summarize and sell your recent internet browsing activity.
+We put significant effort into customer support: not just answering emails quickly and respectfully, but making sure we understand the problem to either solve it or figure out how we can do better in the future (building more features, better documentation, etc.)
 
 Jun 2, 2021  
 [news](https://pjrvs.com/blog/categories/news)
 
-#### [We prioritize support over sales in our business](https://usefathom.com/blog/saas-customer-service)
+#### [What is Google FLoC (it’s bad for your privacy)](https://usefathom.com/blog/google-floc)
 
-We put significant effort into customer support: not just answering emails quickly and respectfully, but making sure we understand the problem to either solve it or figure out how we can do better in the future (building more features, better documentation, etc.)
+FLoC is a method to collect, summarize and sell your recent internet browsing activity.
 
 Jun 2, 2021  
 [news](https://pjrvs.com/blog/categories/news)
