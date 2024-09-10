@@ -1,12 +1,8 @@
 [](https://skiff.com/)
 
-[Sign in](https://app.skiff.com/signin?agid=undefined&aid=undefined&gclid=undefined)
-
 Product
 
 Resources
-
-[Download](https://skiff.com/download)[Sign in](https://app.skiff.com/signin?agid=undefined&aid=undefined&gclid=undefined)
 
 Transparency  
 
@@ -40,10 +36,10 @@ We regularly undergo security audits. See a comprehensive list below of the audi
 
 © 2024. All rights reserved.
 
-Products[Mail](https://skiff.com/mail)[Pages](https://skiff.com/pages)[Drive](https://skiff.com/drive)[Calendar](https://skiff.com/calendar)[Download](https://skiff.com/download)
+Products[Mail](https://skiff.com/mail)[Pages](https://skiff.com/pages)[Drive](https://skiff.com/drive)[Calendar](https://skiff.com/calendar)
 
-Resources[Help](https://skiff.com/data-migration)[Changelog](https://skiff.com/changelog)
+Resources[Changelog](https://skiff.com/changelog)
 
-Developer[GitHub](https://github.com/skiff-org)[Libraries](https://skiff.com/open-source)[Skiff Crypto docs](https://skiff.com/skiff-crypto)[Skiff UI docs](https://skiff.com/ui)[Whitepaper](https://skiff.com/security-model)[Report an issue](https://skiff.com/report)[Status](https://status.skiff.com/)
+Developer[GitHub](https://github.com/skiff-org)[Whitepaper](https://skiff.com/security-model)[Report an issue](https://skiff.com/report)
 
-Legal[Privacy policy](https://skiff.com/annotated-privacy-policy)[Terms of service](https://app.skiff.com/docs/8e50d705-8d48-4434-922e-bdad09d0e4be#TmfvNJY4Wel9br9jd3Tl3raiiQcsWYcXCe76ToaAsyw=)[Acceptable use policy](https://app.skiff.com/docs/c682c6a4-4fde-4e98-95b2-6a85085fdbde#uceeiqhn1+oMDjoItzLjhXwy4Rk7YVaFd1heNKuhDSo=)
+Legal[Privacy policy](https://skiff.com/privacy-policy)[Terms of service](https://app.skiff.com/docs/8e50d705-8d48-4434-922e-bdad09d0e4be#TmfvNJY4Wel9br9jd3Tl3raiiQcsWYcXCe76ToaAsyw=)[Acceptable use policy](https://app.skiff.com/docs/c682c6a4-4fde-4e98-95b2-6a85085fdbde#uceeiqhn1+oMDjoItzLjhXwy4Rk7YVaFd1heNKuhDSo=)
