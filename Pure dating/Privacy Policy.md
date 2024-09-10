@@ -8,7 +8,7 @@ SET YOUR DATING RULES
 
 ![Что главное в знакомствах: сексуальные предпочтения и ожидания от свиданий](https://pure-blog-production.soulplatform.com/article_preview_image_744x921_3_029f173f4a.webp)
 
-Music, kissing & more. What does every Turn-On on Pure mean?](https://pure.dating/content/en/journal/pure-turnons-meaning)[What is?](https://pure.dating/content/en/journal/categories/what-is)
+Music, Kissing & More. What does Every Turn-On on Pure Mean?](https://pure.dating/content/en/journal/pure-turnons-meaning)[What is?](https://pure.dating/content/en/journal/categories/what-is)
 
 [![Casual Dating Etiquette: 8 Do's and Don'ts](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -16,29 +16,29 @@ Music, kissing & more. What does every Turn-On on Pure mean?](https://pure.datin
 
 Casual Dating Etiquette: 8 Do's and Don'ts](https://pure.dating/content/en/journal/casual-date-etiquette)
 
-[![Threesome tips: A Sexologist Shares Her Expertise](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![Threesome Tips: a Sexologist Shares Her Expertise](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Threesome tips: A Sexologist Shares Her Expertise](https://pure-blog-production.soulplatform.com/threesome1_7dcd4e4f6c.png)
+![Threesome Tips: a Sexologist Shares Her Expertise](https://pure-blog-production.soulplatform.com/threesome1_7dcd4e4f6c.png)
 
-Threesome tips: A Sexologist Shares Her Expertise](https://pure.dating/content/en/journal/tips-for-a-successful-threesome)
+Threesome Tips: a Sexologist Shares Her Expertise](https://pure.dating/content/en/journal/tips-for-a-successful-threesome)
 
 [![Sex toys for men, women, and couples. A guide to devices for adults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Sex toys for men, women, and couples. A guide to devices for adults](https://pure-blog-production.soulplatform.com/article_preview_Toys_for_adults_857a267956.webp)
 
-Sex toys for men, women, & couples. A guide to devices for adults](https://pure.dating/content/en/journal/toy-guide)
+Sex Toys for Men, Women, & Couples. A Guide to Devices for Adults](https://pure.dating/content/en/journal/toy-guide)
 
 [![5 reasons to try Unicorn sex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![5 reasons to try Unicorn sex](https://pure-blog-production.soulplatform.com/article_preview_Unicorn_relationship_ad49d97b40.webp)
 
-Third Ones's the Charm. Five reasons to try Unicorn sex](https://pure.dating/content/en/journal/Unicorn-sex)
+Third Ones's the Charm. Five Reasons to Try Unicorn Sex](https://pure.dating/content/en/journal/Unicorn-sex)
 
-[![How to seduce on a first date?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![How to Seduce on a First Date?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![How to seduce on a first date?](https://pure-blog-production.soulplatform.com/Frame_20917467073_59c516845e.png)
+![How to Seduce on a First Date?](https://pure-blog-production.soulplatform.com/Frame_20917467073_59c516845e.png)
 
-How to seduce on a first date?](https://pure.dating/content/en/journal/seduction-basics)
+How to Seduce on a First Date?](https://pure.dating/content/en/journal/seduction-basics)
 
 Show more 6
 
