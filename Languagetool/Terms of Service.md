@@ -70,13 +70,3 @@ General Terms and Conditions of LanguageTool
     1. Should individual provisions of the General Terms and Conditions be invalid or unenforceable or should they become invalid or unenforceable, the validity of the General Terms and Conditions shall remain unaffected. The invalid or unenforceable provision shall be replaced by a valid and enforceable provision which complies with the terms and conditions in their entirety as well as the general terms and conditions of business.
         
     2. The law of the Federal Republic of Germany applies exclusively, excluding the provisions of the UN Convention, for all legal relations between the provider and the user, the place of jurisdiction is Potsdam, Germany.
-        
-
-We use biscuits
-===============
-
-We use cookies on languagetool.org. Some are necessary for our grammar and spell checker to function, some enable us to measure its usage, and others help us improve its performance. Necessary cookies store technical information, whilst analytics cookies track visitor statistics, and marketing cookies collect browsing data to help us give you a better experience.  
-  
-See our [Imprint](https://languagetool.org/legal) and [Privacy Policy](https://languagetool.org/legal/privacy)
-
-Accept all [Cookie preferences](https://languagetool.org/legal/cookie-settings)
