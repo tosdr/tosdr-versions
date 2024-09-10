@@ -4,7 +4,6 @@ Toggle navigation [NSFW YouTube](https://www.nsfwyoutube.com/)
 * [Instructions](https://www.nsfwyoutube.com/youtube-bypass-login)
 * [FAQ](https://www.nsfwyoutube.com/faq)
 * [Spotlight](https://www.nsfwyoutube.com/spotlight)
-* [CRAZIEST Gift Ideas](https://www.nsfwallet.com/)
 
 Watch YouTube videos without signing in to YouTube account. Bypass registration!
 
