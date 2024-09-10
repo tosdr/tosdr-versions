@@ -85,11 +85,11 @@ service@carpetcleaningnyc.com
 
 #### Recent Posts
 
+* [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
+* [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
 * [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Ruggable Rug Cleaning NYC](https://carpetcleaningnyc.com/ruggable-rug-cleaning-nyc/)
 * [Private Jet Cleaning Service](https://carpetcleaningnyc.com/private-jet-cleaning-service/)
-* [Yacht Cleaning Service](https://carpetcleaningnyc.com/yacht-cleaning-service/)
-* [Post Construction Cleaning Services](https://carpetcleaningnyc.com/post-construction-cleaning-services/)
 
 #### Our Locations
 
@@ -137,11 +137,11 @@ Phone:(212) 658-0618
 
 #### Recent Posts
 
+* [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
+* [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
 * [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Ruggable Rug Cleaning NYC](https://carpetcleaningnyc.com/ruggable-rug-cleaning-nyc/)
 * [Private Jet Cleaning Service](https://carpetcleaningnyc.com/private-jet-cleaning-service/)
-* [Yacht Cleaning Service](https://carpetcleaningnyc.com/yacht-cleaning-service/)
-* [Post Construction Cleaning Services](https://carpetcleaningnyc.com/post-construction-cleaning-services/)
 
 #### BUSINESS HOURS
 
