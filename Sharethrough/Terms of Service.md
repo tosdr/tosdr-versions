@@ -110,11 +110,11 @@ Stay up-to-date on our latest product updates, case studies and market analysis 
 
 **Recent Blog Post**
 
-TVision Study Reveals Sports Ticker Increases Attention of CTV Creatives
+The Ultimate AI Glossary of 2024
 
-July 17, 2024
+August 15, 2024
 
-[Read Blog Post →](https://www.sharethrough.com/blog/tvision-study-reveals-sports-ticker-increases-attention-of-ctv-creatives)
+[Read Blog Post →](https://www.sharethrough.com/blog/the-ultimate-ai-glossary-of-2024)
 
 [Contact](https://www.sharethrough.com/contact)
 
@@ -324,4 +324,10 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-Sharethrough & Equativ are Merging! [Learn More →](https://www.sharethrough.com/blog/sharethrough-and-equativ-are-merging)
+× ![Notification Image](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/66c3acd65134604ba8e41bf3_popup-card-image.jpg)
+
+### Sharethrough & Equativ are Merging!
+
+Together, we form one of the largest independent ad platforms and marketplaces worldwide.
+
+[Learn More →](https://www.sharethrough.com/blog/sharethrough-and-equativ-are-merging)
