@@ -1,4 +1,4 @@
-[Adjust x Sensor Tower: Mobile app trends 2024 Japan edition - Download now!](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/) [Download Mobile app trends 2024: Japan edition!](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/)
+[The shopping app insights report is out now! Download your copy here.](https://www.adjust.com/resources/ebooks/shopping-app-insights/) [The shopping app insights report: Get your copy today!](https://www.adjust.com/resources/ebooks/shopping-app-insights/)
 
 [![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
 
