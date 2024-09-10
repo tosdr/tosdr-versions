@@ -13,16 +13,16 @@
 * Templates
     
     * [All Templates](https://moqups.com/templates/)
-    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
     * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
     * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
-    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
     
 * Resources
     
     * [Help Center](https://moqups.com/hc/)
     * [Contact Support](https://moqups.com/support/)
-    * [FAQ](https://moqups.com/faq/)
+    * [Frequently Asked Questions](https://moqups.com/faq/)
     
     * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
     * [Blog](https://moqups.com/blog/)
@@ -56,16 +56,16 @@ Product
 Templates
 
 * [All Templates](https://moqups.com/templates/)
-* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
 * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
 * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
-* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
 
 Resources
 
 * [Help Center](https://moqups.com/hc/)
 * [Contact Support](https://moqups.com/support/)
-* [FAQ](https://moqups.com/faq/)
+* [Frequently Asked Questions](https://moqups.com/faq/)
 * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
 * [Blog](https://moqups.com/blog/)
 * [What's New](https://moqups.com/blog/release-notes/)
@@ -265,13 +265,11 @@ List of data sub-processors
 | REFINER SAS | Customer Surveys | France | [https://refiner.io/](https://refiner.io/) |
 | Amplitude, Inc. | Analytics | USA | [https://www.amplitude.com/](https://www.amplitude.com/) |
 | Google, Inc. | Analytics, Online Advertising, Cloud Drive Integration, Authentication Provider | USA | [https://www.google.com/](https://www.google.com/) |
-| Baremetrics | Analytics | USA | [https://baremetrics.com/](https://baremetrics.com/) |
 | Dropbox, Inc. | Cloud Drive | USA | [https://dropbox.com](https://dropbox.com/) |
 | Box, Inc. | Cloud Drive | USA | [https://www.box.com/](https://www.box.com/) |
-| Facebook, Inc. | Online Advertising, Social Media | USA | [https://facebook.com](https://facebook.com/) |
 | Sentry by Functional Software, Inc | Error Logging and Tracking | USA | [https://sentry.io](https://sentry.io/) |
 | Amazon.com, Inc. | Cloud Storage Services, Cloud Email Sending Services, Cloud Infrastructure Provider | USA | [https://aws.amazon.com/](https://aws.amazon.com/) |
-| KeyCDN by proinity LLC | Cloud Storage Services | USA | [https://www.keycdn.com/](https://www.keycdn.com/) |
+| KeyCDN by proinity LLC | Cloud Storage Services | Switzerland | [https://www.keycdn.com/](https://www.keycdn.com/) |
 | Slack by Slack Technologies, Inc. | Authentication Provider, Service Integration | USA | [https://slack.com/](https://slack.com/) |
 | Mailgun Technologies, Inc. | Cloud Email Service | USA | [https://www.mailgun.com/](https://www.mailgun.com/) |
 | PayPal, Inc. | Payment Processor | USA | [http://paypal.com/](http://paypal.com/) |
@@ -304,8 +302,8 @@ Templates
 * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
 * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
 * [Mind Map Templates](https://moqups.com/templates/mapping-and-diagramming/mind-maps/)
-* [Flowchart Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
-* [Sitemap Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
+* [Flowchart Diagram Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
+* [Sitemap Diagram Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
 * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
 * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
 
@@ -322,7 +320,7 @@ Support
 
 * [Help Center](https://moqups.com/hc/)
 * [Contact Support](https://moqups.com/support/)
-* [FAQ](https://moqups.com/faq/)
+* [Frequently Asked Questions](https://moqups.com/faq/)
 
 Moqups logo
 
