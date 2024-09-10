@@ -58,6 +58,7 @@
         * [PrivadoVPN for macOS](https://privadovpn.com/software/?device=macos)
         * [PrivadoVPN for FireTV](https://privadovpn.com/software/?device=firetv)
         * [PrivadoVPN for AndroidTV](https://privadovpn.com/software/?device=androidtv)
+        * [PrivadoVPN for tvOS](https://privadovpn.com/software/?device=tvos)
         * [PrivadoVPN for Everything Else](https://support.privadovpn.com/kb/section/46/)
     
 * [Support](https://support.privadovpn.com/home/)
@@ -131,6 +132,7 @@ Download Apps
 * [PrivadoVPN for iOS](https://privadovpn.com/software/?device=ios)
 * [PrivadoVPN for FireTV](https://privadovpn.com/software/?device=firetv)
 * [PrivadoVPN for AndroidTV](https://privadovpn.com/software/?device=androidtv)
+* [PrivadoVPN for tvOS](https://privadovpn.com/software/?device=tvos)
 * [PrivadoVPN for Everything Else](https://support.privadovpn.com/kb/section/46/)
 
 Policies
