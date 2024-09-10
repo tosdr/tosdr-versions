@@ -28,7 +28,7 @@ ALERT!
 1. [Nulled](https://www.nulled.to/)
 2. Help Documents
 
-[**\[ ORVX.PW \] - $1 SMTP-cPanels-RDPs-Combolists & More!**](https://bit.ly/orvxnulled)
+[**#1 FASTEST REFUND SERVICE & PAID STORE LIST WITH REF METHODS**](https://t.me/+Mq46AnWSBi5lZTU0)
 
 [**REFUNDING ALLOWED |**](https://www.nulled.to/forum/203-refunding-services/) [**TELEGRAM CHANNEL**](https://t.me/nulledtoannouncements)
 
@@ -143,7 +143,7 @@ Account
 
 Nulled provides links to other sites on the internet and doesn't host any files itself.
 
-© 2015-2023 [Nulled](https://www.nulled.to/). All rights reserved. Connected through GB <-> GB SERVER.WEDOMINATELAWSUITSSPA.NULLED
+© 2015-2023 [Nulled](https://www.nulled.to/). All rights reserved. Connected through US <-> US SERVER.WEDOMINATELAWSUITSSPA.NULLED
 
 [](https://discord.gg/PbCH45B)
 
