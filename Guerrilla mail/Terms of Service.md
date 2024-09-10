@@ -29,4 +29,4 @@ THIS SERVICE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, 
 
 For content with links to third party resources, Guerrilla Mail has no control over third party resources and is not responsible or liable for their content or services offered. Guerrilla Mail has no control over and not responsible for any content of email messages, including their attachments _Caveat emptor_
 
-Additionally, the following header will be added to outgoing email: X-Originating-IP:\[51.195.149.220\]
+Additionally, the following header will be added to outgoing email: X-Originating-IP:\[206.81.0.208\]
