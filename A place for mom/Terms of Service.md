@@ -69,9 +69,6 @@ More About Veterans Benefits
 [Senior Living Awards](#)
 
 * [Best of Senior Living](https://www.aplaceformom.com/awards/best-of-senior-living)
-* [Most Friendly](https://www.aplaceformom.com/awards/most-friendly)
-* [Best Meals and Dining](https://www.aplaceformom.com/awards/best-meals-and-dining)
-* [Best Activities](https://www.aplaceformom.com/awards/best-activities)
 * [All-Star](https://www.aplaceformom.com/awards/all-star)
 
 [How Our Service Works](#)
@@ -312,7 +309,7 @@ A Place for Mom is paid by our participating communities, therefore our service 
 
 Who we are
 
-[About us](https://www.aplaceformom.com/about)[How our service works](https://www.aplaceformom.com/eldercare-advisors)[Our leadership](https://www.aplaceformom.com/about/leadership)[Sign up to join our network](https://www.aplaceformom.com/contact#community-customers)[Press and media](https://www.aplaceformom.com/about/news-and-press-releases)[Our Provider Network](https://www.aplaceformom.com/providers)[Senior Living Data and Trends](https://www.aplaceformom.com/senior-living-data)[Careers](https://www.aplaceformom.com/about/careers)[Senior Living Cost Calculator](https://www.aplaceformom.com/paying-for-senior-care/cost-calculator)[Best of Senior Living Awards](https://www.aplaceformom.com/awards/best-of-senior-living)[Best Meals and Dining in Senior Living Awards](https://www.aplaceformom.com/awards/best-meals-and-dining)[Find Senior Living Near Me](https://www.aplaceformom.com/senior-living-near-me)[What is Senior Living](https://www.aplaceformom.com/senior-living)[Sitemap](https://www.aplaceformom.com/sitemap)
+[About us](https://www.aplaceformom.com/about)[How our service works](https://www.aplaceformom.com/eldercare-advisors)[Our leadership](https://www.aplaceformom.com/about/leadership)[Sign up to join our network](https://www.aplaceformom.com/contact#community-customers)[Press and media](https://www.aplaceformom.com/about/news-and-press-releases)[Our Provider Network](https://www.aplaceformom.com/providers)[Senior Living Data and Trends](https://www.aplaceformom.com/senior-living-data)[Careers](https://www.aplaceformom.com/about/careers)[Senior Living Cost Calculator](https://www.aplaceformom.com/paying-for-senior-care/cost-calculator)[Best of Senior Living Awards](https://www.aplaceformom.com/awards/best-of-senior-living)[Find Senior Living Near Me](https://www.aplaceformom.com/senior-living-near-me)[What is Senior Living](https://www.aplaceformom.com/senior-living)[Editorial Guidelines](https://www.aplaceformom.com/about/editorial-guidelines)[Our Experts](https://www.aplaceformom.com/about/experts)[Sitemap](https://www.aplaceformom.com/sitemap)
 
 Top Cities
 
