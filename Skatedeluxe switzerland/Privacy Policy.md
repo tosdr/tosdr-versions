@@ -8,7 +8,7 @@ cookie-whitecookie-white
 
 [Shipping](https://www.skatedeluxe.ch/en/shipping) [Payment](https://www.skatedeluxe.ch/en/payment) [Returns & Cancellation](https://www.skatedeluxe.ch/en/return) [Exchange](https://www.skatedeluxe.ch/en/exchange) [Size conversion chart](https://www.skatedeluxe.ch/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.ch/en/faq) [Contact](https://www.skatedeluxe.ch/en/contact)
 
-![](../static/images/icons/phone-white.svg)
+![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
 0800 0700 44 Free Hotline (CH) Mon. - Fri. 9-19 | Sat. 10-14
 
@@ -127,7 +127,7 @@ Search result for "%search\_keywords%"
 
 ### View new items in the shop instead:
 
-[SKATE SHOP](https://www.skatedeluxe.ch/en)
+[](https://www.skatedeluxe.ch/en)
 
 [Brands](https://www.skatedeluxe.ch/en/all-brands "Brands")
 
@@ -682,11 +682,8 @@ By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking te
 
 Accept all
 
-### You are currently on skatedeluxe.ch
+### Sorry - we currently don't ship to United States!
 
-**Delivery to United Kingdom? If so, please visit [skatedeluxe.com](https://www.skatedeluxe.com/de/datenschutz?force_domain=1).**  
-On skatedeluxe.ch delivery is available only to these countries: Liechtenstein and Switzerland
-
-Visit skatedeluxe.com
+Unfortunately, we can't accept orders from United States. We only ship within Europe and to Japan.
 
  Close
