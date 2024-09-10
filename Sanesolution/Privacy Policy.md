@@ -11,11 +11,11 @@
 * [About](https://sanesolution.com/about/)
 * [Get Help](https://sanesolution.com/customersupport/)
 
-[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanesolution.com/lp/1-on-1-with-jonathan)
 
 Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://sanesolution.com/wp-content/themes/enfold-child/includes/small-phone-icon.png)](tel:3479791735)
 
-[CLICK TO START FOR FREE NOW](https://sanesolution.com/lp/program/) | [STORE](https://store.sanesolution.com/) | [GET HELP](https://sanesolution.com/customersupport/) | [LOGIN](https://program.sanesolution.com/)
+[CLICK TO START NOW](https://sanesolution.com/lp/program/) | [STORE](https://store.sanesolution.com/) | [GET HELP](https://sanesolution.com/customersupport/) | [LOGIN](https://program.sanesolution.com/)
 
 * [Home](https://sanesolution.com/)
 * [ABOUT](https://sanesolution.com/about/)
@@ -41,7 +41,7 @@ Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://s
     * [Brain Fog](https://sanesolution.com/citicoline/brain-fog/)
 * [Contact](https://sanesolution.com/customersupport/)
 
-[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanesolution.com/lp/1-on-1-with-jonathan)
 
 Toggle navigation
 
@@ -73,7 +73,7 @@ Toggle navigation
 * [Contact](https://sanesolution.com/customersupport/)
 * [Log In](https://program.sanesolution.com/login/)
 
-[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanesolution.com/lp/1-on-1-with-jonathan)
 
 [![SANE-Logo](https://sanesolution.com/wp-content/uploads/2021/03/mobile-sane-logo.png)](https://sanesolution.com/) [Start Now For Free](javascript:void(0);) Toggle navigation
 
@@ -1102,7 +1102,7 @@ Regardless, beginning December 1, 2009, the [FTC requires bloggers](https://adss
 
 **Second, the less obvious:** Per the FTC rules, if we interview someone and they grab the bill for lunch, we would need to disclose this. Ditto if we use an Amazon link that gets us 8 cents instead of an Amazon link that gets us 0 cents. If someone gives us a comfy t-shirt with a logo and we wear it in a photo, same deal. Disclaimers all over the place. This would be tedious for us and even more tedious for readers. But rules is rules. To cover our butts 🙂 and preserve your reading experience, please assume that, for every link and product we use, we may earn a commission.
 
-Medical Disclaimer: Information provided in this email and in all other SANE, Yopti, and Jonathan Bailor related properties is for informational purposes only. This information is NOT intended as a substitute for the advice provided by your physician or other healthcare professional, or any information contained on or in any product. Do not use the information provided in this email for diagnosing or treating a health problem or disease, or prescribing medication or other treatment. Always speak with your physician or other healthcare professional before taking any medication or nutritional, herbal or other supplement, or using any treatment for a health problem. If you have or suspect that you have a medical problem, contact your health care provider promptly. Do not disregard professional medical advice or delay in seeking professional advice because of something communicated here or anywhere related to SANE, Yopi, or Jonathan Bailor. Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent any disease.
+Medical Disclaimer: Information provided in this email and in all other SANE, Yopti, and Jonathan Bailor related properties is for informational purposes only. This information is NOT intended as a substitute for the advice provided by your physician or other healthcare professional, or any information contained on or in any product. Do not use the information provided in this email for diagnosing or treating a health problem or disease, or prescribing medication or other treatment. Always speak with your physician or other healthcare professional before taking any medication or nutritional, herbal or other supplement, or using any treatment for a health problem. If you have or suspect that you have a medical problem, contact your health care provider promptly. Do not disregard professional medical advice or delay in seeking professional advice because of something communicated here or anywhere related to SANE, Yopti, or Jonathan Bailor. Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent any disease.
 
 * [Success Stories](https://sanesolution.com/sane-success-stories/)
 * [Medical Reviews](https://sanesolution.com/sanesolution-medical-reviews/)
