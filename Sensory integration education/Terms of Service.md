@@ -12,7 +12,7 @@ Toggle menu Menu
 * [SI Practitioner Training](https://www.sensoryintegrationeducation.com/pages/postgraduate-courses)
 * [Courses](https://www.sensoryintegrationeducation.com/pages/courses)
 * [Resources](https://www.sensoryintegrationeducation.com/pages/resources)
-* [News](https://www.sensoryintegrationeducation.com/pages/news)
+* [News](https://www.sensoryintegrationeducation.com/pages/news-and-publications)
 * [Sign In](https://www.sensoryintegrationeducation.com/users/sign_in)
 
 Sensory Integration Education Terms and Conditions
@@ -170,7 +170,7 @@ Copyright Sensory Integration Education 2024
 
 [\[email protected\]](https://www.sensoryintegrationeducation.com/cdn-cgi/l/email-protection)  
 Sensory Integration Education is a trading name of SI Network (UK and Ireland) Ltd.  
-International House, 61 Mosley Street, Manchester, M2 3HZ. UK. Co No 05068304
+International House, 61 Mosley Street, Manchester, M2 3HZ. UK. Co No 05068304. UKPRN: 10096399
 
    
 
