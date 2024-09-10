@@ -163,7 +163,7 @@ Menu Menu
 * [Resources](https://www.globalsign.com/en/resources) [Resources](https://www.globalsign.com/en-sg/resources)
     * [Datasheets](https://www.globalsign.com/en/resources/datasheets) [Datasheets](https://www.globalsign.com/en-sg/resources/datasheets)
     * [White Papers & eBooks](https://www.globalsign.com/en/resources/white-papers-ebooks) [White Papers & eBooks](https://www.globalsign.com/en-sg/resources/white-papers-ebooks)
-    * [Case Studies](https://www.globalsign.com/en/resources/case-studies)
+    * [Case Studies](https://www.globalsign.com/en/resources/case-studies) [Case Studies](https://www.globalsign.com/en/resources/success-stories)
     * [How-to Videos](https://www.globalsign.com/en/resources/how-videos) [How-to Videos](https://www.globalsign.com/en-sg/resources/how-videos)
     * [Site Seal](https://www.globalsign.com/en/ssl/secure-site-seal)
     * [Webinars](https://www.globalsign.com/en/resources/webinars) [Webinars](https://www.globalsign.com/en-sg/resources/webinars)
@@ -288,10 +288,11 @@ Repository
 
 ### Audits, Certificates and compliance reports
 
-* [WebTrust Certification Authority Audit](https://www.globalsign.com/en/repository/wtca2023.pdf)
-* [WebTrust Certification Authority SSL Baseline with Network Security Audit](https://www.globalsign.com/en/repository/wtssl2023.pdf "WebTrust Certification Authority SSL Baseline with Network Security Audit")
-* [WebTrust Certification Authority Extended Validation SSL Certificate Audit](https://www.globalsign.com/en/repository/wtev2023.pdf "WebTrust Certification Authority Extended Validation SSL Certificate Audit")
-* [WebTrust Certification Authority Code Signing Baseline Requirements Audit](https://www.globalsign.com/en/repository/wtcs2023.pdf "WebTrust Certification Authority Extended Validation Code Signing Certificate Audit")
+* [WebTrust Certification Authority Audit](https://www.globalsign.com/en/repository/wtca2024.pdf)
+* [WebTrust Certification Authority SSL Baseline with Network Security Audit](https://www.globalsign.com/en/repository/wtssl2024.pdf "WebTrust Certification Authority SSL Baseline with Network Security Audit")
+* [WebTrust Certification Authority Extended Validation SSL Certificate Audit](https://www.globalsign.com/en/repository/wtev2024.pdf "WebTrust Certification Authority Extended Validation SSL Certificate Audit")
+* [WebTrust Certification Authority Code Signing Baseline Requirements Audit](https://www.globalsign.com/en/repository/wtcs2024.pdf "WebTrust Certification Authority Extended Validation Code Signing Certificate Audit")
+* [WebTrust Certification Authority S/MIME Baseline Requirements Audit](https://www.globalsign.com/en/repository/wtsm2024.pdf "WebTrust Certification Authority S/MIME Baseline Requirements Audit")
 * [Business Continuity Management System ISO 22301:2019 - BSI Certificate of Registration](https://www.globalsign.com/en/repository/GlobalSign_KK_BCMS.pdf "Business Continuity Management System ISO 22301:2019 - BSI Certificate of Registration")
 * [Information Security Management System ISO/IEC 27001:2013 - BSI Certificate of Registration](https://www.globalsign.com/en/repository/GlobalSign_KK_ISMS.pdf "Information Security Management System ISO/IEC 27001:2013 - BSI Certificate of Registration")
 * [Privacy Information Management System ISO 27701:2019 - BSI Certificate of Registration](https://www.globalsign.com/en/repository/27701.pdf "Privacy Information Management System ISO 27701:2019 - BSI Certificate of Registration")
@@ -377,7 +378,9 @@ Learning
 * [Support Site](https://support.globalsign.com/)
 * [SSL Information Center](https://www.globalsign.com/en/ssl-information-center)
 * [Resources](https://www.globalsign.com/en/resources)
+* [Resources](https://www.globalsign.com/en-sg/resources)
 * [Customer Stories](https://www.globalsign.com/en/resources/case-studies)
+* [Customer Stories](https://www.globalsign.com/en/resources/success-stories)
 
 Contact
 
@@ -420,7 +423,7 @@ Your file has been downloaded, check your file in downloads folder.
 * [Preference Center Login](https://preferences.globalsign.com/PreferencesCenter/)
 * [Cookie Policy / DNT](https://www.globalsign.com/en/cookie-policy)
 
-[沪ICP备08025378号](https://beian.miit.gov.cn/#/Integrated/index)
+[沪ICP备08025378号](https://beian.miit.gov.cn/#/Integrated/index) [沪公网安备31010702008301](https://beian.mps.gov.cn/#/query/webSearch?code=31010702008301)
 
 View our [Privacy Policy](https://www.globalsign.com/en/repository/GlobalSign-Privacy-Policy.pdf) to understand how we collect and use your personal data. © 2024 GlobalSign. All Rights Reserved.
 
@@ -451,7 +454,7 @@ APAC
 * [EN / Hong Kong](https://www.globalsign.com/en)
 * [EN / India](https://www.globalsign.com/en)
 * [EN / Singapore](https://www.globalsign.com/en-sg)
-* [EN / Australia & New Zealand](https://www.globalsign.com/en-au)
+* [EN / Australia & New Zealand](https://www.globalsign.com/en)
 * [EN / Philippines](https://www.globalsign.com/en-ph)
 * [ภาษาไทย](https://www.globalsign.com/th-th)
 
