@@ -24,7 +24,6 @@
 * SCHOOL SUCCESS
     
     * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [SCHOOL SUCCESS STORIES](https://www.discoveryeducation.co.uk/success-stories/)
     * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
     * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
     
@@ -62,14 +61,10 @@ Open Menu Close Menu
 * SCHOOL SUCCESS
     
     * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [SCHOOL SUCCESS STORIES](https://www.discoveryeducation.co.uk/success-stories/)
     * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
     * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
     
 * [TRY FOR FREE](https://www.discoveryeducation.co.uk/consultation-booking/)
-
-Cookie settings and policy
-==========================
 
   
 Cookie Settings  
@@ -187,8 +182,8 @@ For questions about our Cookie Policy, please contact us by using the following 
 
 * [Awards](https://www.discoveryeducation.co.uk/awards/)
 * [Careers](https://apply.workable.com/discoveryed/)
-* [Events](https://www.discoveryeducation.co.uk/events/)
-* [News](https://www.discoveryeducation.co.uk/news/)
+* [Events](https://www.discoveryeducation.co.uk/?page_id=17110)
+* [News](https://www.discoveryeducation.co.uk/in-the-news/)
 
 #### Not a subscriber?
 
@@ -217,6 +212,12 @@ For questions about our Cookie Policy, please contact us by using the following 
 
 Copyright © 2024 Discovery Education. All rights reserved Discovery Education, Inc.  
 Discovery Education’s UK operating entity is Discovery Education Europe Limited, a company registered in England and Wales under Company Number: 03261277. Registered office: 9 Palace Yard Mews, Bath BA1 2NH. VAT number: GB 887 9082 56.
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://play.vidyard.com/7bCxx4ToZ1BxvGyLHcHV6P.jpg)
+
+X
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
