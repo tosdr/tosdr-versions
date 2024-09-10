@@ -1,72 +1,180 @@
-Privacy Policy  
-SecureWiFiWorks.com is a division of BlueAlly, Inc.
-====================================================================
+[![DataSwitchStore.com](/images/dataswitchstore-logo-new.png)](https://www.dataswitchstore.com/)
 
-**READ CAREFULLY.** This Privacy Policy applies to use of the SecureWiFiWorks.com website located at http://www.securewifiworks.com/ (the "Site"). The Site is the property of BlueAlly, Inc.
+Call a Specialist Today! [833-335-0426](tel:833-335-0426) | _Free Shipping!_ ![Free Shipping!](/images/Free-Shipping/TruckGrey_xsm.png)
 
-Our website allows you to buy products and services, apply for credit and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. Except as limited below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired.
+* [Products](#)
+    * [Extensible Operating System (EOS)](https://www.securewifiworks.com/Arista-EOS.asp)
+    * [CloudVision](https://www.securewifiworks.com/CloudVision.asp)
+    * [Congnitive Wi-Fi »](#)
+        * [CloudVision CUE](https://www.securewifiworks.com/CloudVision-CUE.asp)
+        * [Wi-Fi 6 Series](https://www.securewifiworks.com/Wi-Fi-6-Series.asp)
+        * [Wi-Fi 6E Series](https://www.securewifiworks.com/Wi-Fi-6E-Series.asp)
+        * [Wi-Fi 7 Series](https://www.securewifiworks.com/Wi-Fi-7-Series.asp)
+    * [Platforms](https://www.securewifiworks.com/Platforms.asp)
+    * [**View all Products**](https://www.securewifiworks.com/products.asp)
+* [How To Buy](https://www.securewifiworks.com/How-To-Buy.asp)
+* [Solutions](#)
+    * [AI Networking Center](https://www.securewifiworks.com/AI-Networking.asp)
+    * [Cloud Networking](https://www.securewifiworks.com/Cloud-Networking-Solutions.asp)
+    * [IP Storage and Big Data](https://www.securewifiworks.com/Big-Data.asp)
+    * [Federal Government](https://www.securewifiworks.com/Government.asp)
+    * [Media & Entertainment](https://www.securewifiworks.com/Media-and-Entertainment.asp)
+    * [Security](https://www.securewifiworks.com/Security.asp)
+* [Resources](#)
+    * [Leasing](https://www.securewifiworks.com/leasing.asp)
+    * [Consulting](https://www.securewifiworks.com/consulting.asp)
+* [Get a Quote!](https://www.securewifiworks.com/quoterequest.asp)
+* [Contact Us](https://www.securewifiworks.com/contact.asp)
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. In those cases the third-party service provider or merchant's privacy policy will govern how your information is handled.
+* [About Us](https://www.securewifiworks.com/about-us.asp)
+* [Account](#)
+    * [Shopping Cart](https://www.securewifiworks.com/Portal/Cart)
+    * [Your Account](https://www.securewifiworks.com/Portal/Manage/Index)
+    * [Order History](https://www.securewifiworks.com/Portal/OrderHistory)
+    * [Help with checkout](https://www.securewifiworks.com/Portal/Account/Help)
 
-> **1\. What information do we collect from you?**
-> 
-> In order to better provide you with numerous products and services, BlueAlly, Inc collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
-> 
-> _**Personally Identifiable Information:**_
-> 
-> This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, BlueAlly, Inc can fill your orders and better provide you with personalized services.
-> 
-> _**Non-Personally Identifiable Information:**_
-> 
-> This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
-> 
-> On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent.
-> 
-> **2\. Where do we collect information from you and how do we use it?**
-> 
-> Our primary goal in collecting personal information is to provide BlueAlly, Inc’s visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems.
-> 
-> Demographic data also may be collected at our site from third party advertising servers, content servers, or web site analysis agents who provide us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the BlueAlly, Inc visitors on an aggregate basis to determine customers' preferences. BlueAlly, Inc also does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from our web site analysis agents, or from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services. We receive reports from third party ad servers, content servers, or web site analysis agents that tells us how many ads were presented and clicked upon or what content was served or viewed.
-> 
-> _**Ordering:**_
-> 
-> When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use. We may require additional verifications or information before accepting any order.
-> 
-> _**Newsletters, Promotional E-mails and Personalized On-line Ads:**_
-> 
-> We offer free newsletters, promotional e-mails and personalized on-line advertisements as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements.
-> 
-> **3\. With whom do we share your information?**
-> 
-> _**Fulfillment:**_
-> 
-> The information collected by BlueAlly, Inc is used for processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you.
-> 
-> _**Other Parties Generally:**_
-> 
-> We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third parties, but these statistics do not include any Personally Identifiable Information.
-> 
-> _**Products Advertised on Our Site:**_
-> 
-> Where you order or sign up for goods or services offered through our site, but sold directly to you by a third party or fulfilled by a third party, we give your personal information to that third party to facilitate the sale of such goods or services (e.g. , orders shipped from distribution or direct from the manufacturer).
-> 
-> **4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
-> 
-> In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
-> 
-> Within BlueAlly, Inc, your information is kept on password protected, limited access servers. Wherever possible and applicable, BlueAlly, Inc servers reside behind a corporate firewall that maintains controls on access to the system from both our internal network and the Internet.
-> 
-> **5\. Contacting BlueAlly, Inc about privacy questions or concerns**
-> 
-> If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact BlueAlly, Inc by sending a letter to:
-> 
-> > Attn: Privacy Policy  
-> > BlueAlly, Inc  
-> > 1225 Crescent Green, St. 115  
-> > Cary, NC 27518
-> 
-> **6\. Privacy Policy changes**
-> 
-> This Privacy Policy was last changed on February 1, 2015. If BlueAlly, Inc makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
+  
 
-PHP Warning: include(includes/Head.inc): failed to open stream: No such file or directory in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 8 PHP Warning: include(): Failed opening 'includes/Head.inc' for inclusion (include\_path='.;C:\\php\\pear') in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 8 PHP Warning: include(includes/TopMenu.inc): failed to open stream: No such file or directory in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 12 PHP Warning: include(): Failed opening 'includes/TopMenu.inc' for inclusion (include\_path='.;C:\\php\\pear') in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 12 PHP Warning: include(includes/Footer.inc): failed to open stream: No such file or directory in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 55 PHP Warning: include(): Failed opening 'includes/Footer.inc' for inclusion (include\_path='.;C:\\php\\pear') in D:\\webs\\SecureWifiWorks\\policies\\privacy-policy.asp on line 55
+![Arista Networks](/images/arista-logo.gif)
+
+Arista Networks Products & Solutions  
+Software Driven Cloud Networking Solutions
+=================================================================================
+
+Arista Introduces Smart Etherlink 800G AI Platforms
+===================================================
+
+Delivering Arista’s vision of Ethernet as the preferred interconnect for the AI Center
+
+[Explore 7060X and 7260X Series](https://www.securewifiworks.com/Platforms.asp#7060X)
+
+![CloudVision](/images/Platforms/800G-launch.png)
+
+The Best Data Center Portfolio
+------------------------------
+
+[![EOS](/images/Arista-EOS/EOS.png)
+
+### Arista EOS
+
+World's Most Advanced Network Operating System](https://www.securewifiworks.com/policies/Arista-EOS.asp)
+
+[![CloudVision](/images/CloudVision/CloudVision-logo.png)
+
+### CloudVision
+
+Network-Wide Cloud Automation and Telemetry](https://www.securewifiworks.com/policies/CloudVision.asp)
+
+[![Cognitive Wi-Fi](/images/AP/C-230/C-230-sm.png)
+
+### Cognitive Wi-Fi
+
+Industry leading performance with cloud grade management and security](https://www.securewifiworks.com/policies/Cognitive-Wi-Fi.asp)
+
+![](/images/icons/icon-bulb-gear.png)
+
+Products
+--------
+
+* * *
+
+Arista Networks is the leader in building scalable high-performance and ultra-low-latency networks for today's data center and cloud computing environments.
+
+[View Platforms](https://www.securewifiworks.com/Platforms.asp)
+
+![](/images/icons/icon-rocket.png)
+
+CloudVision CUE
+---------------
+
+* * *
+
+Arista’s CloudVision CUE solution’s distributed control plane allows seamless and limitless scaling, removes any single points of failure and ensures amazing user experience.
+
+[Learn More](https://www.securewifiworks.com/CloudVision-CUE.asp)
+
+Arista Networks Solutions
+-------------------------
+
+[### AI Networking Center
+
+Provide the best IP / Ethernet Data Center solutions for Artificial Intelligence AI technology.](https://www.securewifiworks.com/AI-Networking.asp)
+
+[### Cloud Networking
+
+Champion the guiding cloud principles of cloud leaders with network designs serving private cloud, public cloud, hybrid cloud.](https://www.securewifiworks.com/Cloud-Networking-Solutions.asp)
+
+[### IP Storage and Big Data
+
+Enable organizations with Big Data Analytics requirements a software defined framework to build IP Storage Networking Solutions and cloud-scale clusters.](https://www.securewifiworks.com/Big-Data.asp)
+
+[### Federal Government
+
+Champion the guiding cloud principles of cloud leaders with network designs serving private cloud, public cloud, hybrid cloud.](https://www.securewifiworks.com/Government.asp)
+
+[### Media & Entertainment
+
+Hybrid Cloud Computing and Networking Technology for Broadcast Media and Entertainment Networks provide Cloud Infrastructure for today’s Storage and Streaming demands.](https://www.securewifiworks.com/Media-and-Entertainment.asp)
+
+[### Security
+
+Cloud Network Data Security tools provide next-generation network firewalls featuring visibility and cybersecurity monitoring powered by Arista Networks CloudVision.](https://www.securewifiworks.com/Security.asp)
+
+Arista AI Etherlink Portfolio
+=============================
+
+Arista’s Etherlink portfolio consists of ultra high performance Ethernet systems with smart features for AI networking.
+
+Watch the Video
+
+##### Contact Us
+
+### Talk to a Specialist Right Now: **833-335-0426**
+
+### Site Map:
+
+* [Home](https://www.securewifiworks.com/)
+* [Shopping Cart](https://www.securewifiworks.com/Portal/Cart)
+* [Contact Us](https://www.securewifiworks.com/contact.asp)
+
+### Products:
+
+* [EOS](https://www.securewifiworks.com/Arista-EOS.asp)
+* [CloudVision](https://www.securewifiworks.com/CloudVision.asp)
+* [Congnitive Wi-Fi](https://www.securewifiworks.com/Congnitive-Wi-Fi.asp)
+* [Platforms](https://www.securewifiworks.com/Platforms.asp)
+* [**View all Products**](https://www.securewifiworks.com/products.asp)
+
+### Resources:
+
+* [About Us](https://www.securewifiworks.com/about-us.asp)
+* [News](https://www.securewifiworks.com/news.asp)
+* [Shipping](https://www.securewifiworks.com/shipping.asp)
+* [Returns](https://www.securewifiworks.com/policies/return-policy.asp)
+* [Consulting](https://www.securewifiworks.com/consulting.asp)
+
+### Contact:
+
+![](/images/icons/Address-dark_White_b.png) 1225 Crescent Green, St. 115  
+Cary, NC 27518
+
+![](/images/icons/Phone-Dark_White_b.png) [833-335-0426](tel:833-335-0426)
+
+![](/images/icons/Email-Dark_White_b.png) [\[email protected\]](https://www.securewifiworks.com/cdn-cgi/l/email-protection)  
+[### Get a Quote!](https://www.securewifiworks.com/quoterequest.asp)
+
+  
+  
+
+[](https://www.facebook.com/BlueAllyTech "Facebook page")[](https://twitter.com/BlueAlly_IT "Twitter page")[](https://www.youtube.com/c/BlueAllyTechnologies "Youtube page")[](https://www.linkedin.com/company/blueally "LinkedIn page")
+
+**DataSwitchStore.com is a division of [BlueAlly, an authorized Arista Networks reseller.](http://www.blueally.com/)**  
+Copyright © 2000 . All Rights Reserved. [Site Terms](https://www.securewifiworks.com/policies/legal.asp) and [Privacy Policy](https://www.securewifiworks.com/policies/privacy-policy.asp)
+
+### Arista AI Etherlink Portfolio
+
+**Time: 5 min 21 sec**
+
+  
+
+Close
