@@ -1,30 +1,30 @@
-[![Filestack Logo](/img/fs-logo.svg)](https://www.filestack.com/)
+[WHY FILESTACK?](https://www.filestack.com/file-uploader-diy/) [BLOG](https://blog.filestack.com/) [SUPPORT](mailto:support@filestack.com)
 
-* [Products](https://www.filestack.com/products/file-upload/)
+[![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
+
+* [PRODUCTS](https://www.filestack.com/products/file-upload/)
     * [Uploads](https://www.filestack.com/products/file-upload/)
     * [Transformations](https://www.filestack.com/products/transformations/)
     * [Delivery](https://www.filestack.com/products/deliver-overview/)
-    * [Intelligence](https://www.filestack.com/products/intelligence/)
+    * [AI](https://www.filestack.com/products/artificial-intelligence/)
     * [Workflows](https://www.filestack.com/products/workflows/)
-* [Features](https://www.filestack.com/features/)
-* [Case Studies](https://www.filestack.com/customers/)
-* [Pricing](https://www.filestack.com/pricing/)
-* [Documentation](https://www.filestack.com/docs/)
-* [SDKs](https://www.filestack.com/sdks/)
-    * [Javascript](https://www.filestack.com/sdks/javascript/)
+* [FEATURES](https://www.filestack.com/features/)
+* [CASE STUDIES](https://www.filestack.com/customers/)
+* [PRICING](https://www.filestack.com/pricing/)
+* [DOCUMENTATION](https://www.filestack.com/docs/)
+* [SDKS](https://www.filestack.com/sdks/)
+    * [JavaScript](https://www.filestack.com/sdks/javascript/)
     * [React](https://www.filestack.com/sdks/react/)
     * [Angular](https://www.filestack.com/sdks/angular/)
     * [Python](https://www.filestack.com/sdks/python/)
     * [Java](https://www.filestack.com/sdks/java/)
     * [PHP](https://www.filestack.com/sdks/php/)
 
-[Sign Up Free](https://contact.filestack.com/signup/) [Log In](https://dev.filestack.com/login/)
+[](#)
 
-Toggle menu
+[Sign Up Free](https://www.filestack.com/signup/)
 
-* [Why Filestack?](https://www.filestack.com/file-uploader-diy/)
-* [Blog](https://blog.filestack.com/)
-* [Support](mailto:support@filestack.com)
+[Log In](https://dev.filestack.com/login/)
 
 Privacy Policy
 ==============
@@ -63,7 +63,7 @@ We collect personal data for the following purposes:
 * to manage our relationship with our customers and provide customer support;
 * to manage our vendors.
 
-We allow third party advertisers, such as Google and Facebook to collect personal data on our site for the purpose of selling targeted advertisement services. See [Advertising Ecosystem](#advertising-ecosystem) below.
+We allow third party advertisers, such as Google and Facebook to collect personal data on our site for the purpose of selling targeted advertisement services. See [Advertising Ecosystem](https://www.filestack.com/privacy/#advertising-ecosystem) below.
 
 We have included details of how we use data we collect for these purposes in the section below captioned Data Use.
 
@@ -80,7 +80,7 @@ We and our third-party analytics providers may place a cookie on your browser so
 
 If you arrive at our site by clicking on a link that is part of an advertisement on another site (including an advertisement on a social media platform), the advertising service will identify the link, enabling us to associate you with the advertising parameters we provided to the advertising service. For example, we may ask an advertising service to target our ad to individuals that the ad service has identified as having a high interest in file upload management. If you arrive at our site by means of the link in that ad, we will be able to identify you as having a high interest in file upload management. Advertising services are responsible for the collection, use and disclosure of the data they provide to us in accordance with their published privacy policies.
 
-See the section below captioned [Advertising Ecosystem](#advertising-ecosystem) and [How to Opt Out of Online Data Collection](#how-to-opt-out-of-online-data-collection).
+See the section below captioned [Advertising Ecosystem](https://www.filestack.com/privacy/#advertising-ecosystem) and [How to Opt Out of Online Data Collection](https://www.filestack.com/privacy/#how-to-opt-out-of-online-data-collection).
 
 ### Data provided by you as part of your communications with us
 
@@ -122,7 +122,7 @@ We process personal information only for the purposes for which it was collected
 Choices and Means to Limit Use and Disclosure of Your Data
 ----------------------------------------------------------
 
-You may limit our use and disclosure of your personal data. Please send us a request at [privacy@filestack.com](mailto:privacy@filestack.com) if you would like to know what personal data we have about you and how we use and disclose that data. You may also submit requests to [privacy@filestack.com](mailto:privacy@filestack.com) if you want to correct, delete or restrict the use of your personal data, or if you object to our processing of your data on the grounds that we do not have a lawful basis for that processing.
+You may limit our use and disclosure of your personal data. Please send us a request at privacy@filestack.com if you would like to know what personal data we have about you and how we use and disclose that data. You may also submit requests to privacy@filestack.com if you want to correct, delete or restrict the use of your personal data, or if you object to our processing of your data on the grounds that we do not have a lawful basis for that processing.
 
 On receipt of your notice that the data we have about you is inaccurate or incomplete, we will promptly correct any inaccurate data and ensure it is complete in light of the purposes for which we process the data.
 
@@ -186,8 +186,7 @@ We use the services of companies like the ones listed below to collect data on o
 * Stripe, Xero, bill.com – payment processing
 * Google – organization email and documents management provider
 * Google Analytics – analytics
-* Google Ads – advertising
-* HubSpot marketing, landing pages, analytics
+* Google Ads – advertising HubSpot marketing, landing pages, analytics
 * Salesforce – customer relationship management
 * Amazon AWS – Infrastructure provider, applications
 
@@ -241,62 +240,85 @@ Filestack complies with the EU-US and Swiss-US Privacy Shield Frameworks as set 
 * The Federal Trade Commission has jurisdiction over Filestack’s compliance with the Privacy Shield.
 * As a Privacy Shield organization we remain liable under the Privacy Shield Principles if our agent processes your personal information in a manner inconsistent with the Principles, unless we proves that we are not responsible for the event giving rise to the damage.
 
-### Join the 100,000+ Applications Using Filestack
+Join the 100,000+ Applications Using Filestack
 
-Getting started is fast, free, and easy. [Improve your file upload performance today](https://www.filestack.com/performance/). Sign up now for free or click the 'talk to us' button. We are always here to help.
+Getting started is fast, free, and easy. [Improve your file upload performance today](https://www.filestack.com/performance/). Sign up now for free or click the ‘talk to us’ button. We are always here to help.
 
-[Sign Up Free](https://contact.filestack.com/signup/) [Plans & Pricing](https://www.filestack.com/pricing/)
+[Sign Up Free](https://www.filestack.com/signup/)
 
-![SendGrid Logo](/img/logo-sendgrid.svg) ![Zenefits Logo](/img/logo-zenefits.svg) ![Teachable Logo](/img/Teachable_Wordmark.svg) ![TED Logo](/img/logo-ted.svg) ![CocaCola Logo](/img/logo-cocacola.svg) ![Monster Logo](/img/logo-monster.svg)
+[Plans & Pricing](https://www.filestack.com/pricing)
 
-#### Company
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-sendgrid")
 
-* [About](https://www.filestack.com/about/)
-* [Contact Us](https://contact.filestack.com/)
-* [Pricing](https://www.filestack.com/pricing/)
-* [Careers](https://www.filestack.com/careers/)
-* [Legal](https://www.ideracorp.com/legal/filestack#tabs-1)
-* [Privacy Policy](https://www.ideracorp.com/Legal/PrivacyShield)
-* [Press](https://www.filestack.com/press/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-sendgrid.svg "logo-sendgrid")
 
-#### Products
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-zenefits[1]")
 
-* [Uploads](https://www.filestack.com/products/file-upload/)
-* [Image Transformations](https://www.filestack.com/products/image-transformations/)
-* [File Transformations](https://www.filestack.com/products/transformations/)
-* [Audio & Video Transformations](https://www.filestack.com/products/audio-video-transformations/)
-* [Deliver](https://www.filestack.com/products/deliver-overview/)
-* [Intelligence](https://www.filestack.com/products/intelligence/)
-* [Workflows](https://www.filestack.com/products/workflows/)
-* [Low Code](https://www.filestack.com/low-code-content-api-platform/)
-* [Cloud Storage](https://www.filestack.com/features/cloud-storage/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-zenefits1.svg "logo-zenefits[1]")
 
-#### Use Cases
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Teachable_Wordmark")
 
-* [Print](https://www.filestack.com/use-cases/print/)
-* [Drone](https://www.filestack.com/use-cases/drone/)
-* [Ed-tech](https://www.filestack.com/use-cases/ed-tech/)
-* [Content Management](https://www.filestack.com/content-management/)
+![](https://www.filestack.com/wp-content/uploads/2023/09/Teachable_Wordmark.svg "Teachable_Wordmark")
 
-#### Resources
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-ted")
 
-* [Blog](https://blog.filestack.com/)
-* [Documentation](https://www.filestack.com/docs/)
-* [Tutorials](https://www.filestack.com/docs/tutorials/)
-* [Fileschool](https://www.filestack.com/fileschool/)
-* [Status Page](https://status.filestack.com/)
-* [Integration With Froala](https://www.filestack.com/integration-with-wysiwyg-editor/)
-* [FAQ](https://www.filestack.com/faq/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-ted.svg "logo-ted")
 
-#### SDK
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-cocacola")
 
-* [Javascript](https://www.filestack.com/sdks/javascript/)
-* [React](https://www.filestack.com/sdks/react/)
-* [Angular](https://www.filestack.com/sdks/angular/)
-* [Python](https://www.filestack.com/sdks/python/)
-* [Java](https://www.filestack.com/sdks/java/)
-* [PHP](https://www.filestack.com/sdks/php/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-cocacola.svg "logo-cocacola")
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-monster")
+
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-monster.svg "logo-monster")
+
+**COMPANY**
+
+[About](https://www.filestack.com/about/)  
+[Contact Us](https://www.filestack.com/contact-us/)  
+[Pricing](https://www.filestack.com/pricing/)  
+[Careers](https://www.filestack.com/careers/)  
+[Legal](https://www.ideracorp.com/legal/filestack#tabs-1)  
+[Privacy Policy](https://www.ideracorp.com/Legal/PrivacyShield)
+
+**PRODUCTS**
+
+[Uploads](https://www.filestack.com/products/file-upload/)  
+[Image Transformations](https://www.filestack.com/products/image-transformations/)  
+[File Transformations](https://www.filestack.com/products/transformations/)  
+[Audio & Video Transformations](https://www.filestack.com/products/audio-video-transformations/)  
+[Deliver](https://www.filestack.com/products/deliver-overview/)  
+[Artificial Intelligence](https://www.filestack.com/products/artificial-intelligence/)  
+[Workflows](https://www.filestack.com/products/workflows/)  
+[Low Code](https://www.filestack.com/low-code-content-api-platform/)  
+[Cloud Storage](https://www.filestack.com/features/cloud-storage/)
+
+**USE CASES**
+
+[Print](https://www.filestack.com/use-cases/print/)  
+[Drone](https://www.filestack.com/use-cases/drone/)  
+[Ed-tech](https://www.filestack.com/use-cases/ed-tech/)
+
+**RESOURCES**
+
+[Blog](https://blog.filestack.com/)  
+[Documentation](https://www.filestack.com/docs/)  
+[Fileschool](https://www.filestack.com/fileschool/)  
+[Tutorials](https://www.filestack.com/docs/tutorials/)  
+[Status Page](https://status.filestack.com/)  
+[Whitepapers](https://www.filestack.com/whitepapers/)
+
+**SDK**
+
+[JavaScript](https://www.filestack.com/sdks/javascript/)  
+[React](https://www.filestack.com/sdks/react/)  
+[Angular](https://www.filestack.com/sdks/angular/)  
+[Python](https://www.filestack.com/sdks/python/)  
+[Java](https://www.filestack.com/sdks/java/)  
+[PHP](https://www.filestack.com/sdks/php/)
 
 © 2024 Filestack. All rights reserved.
 
-[![facebook](/img/fb.png)](https://www.facebook.com/filepickerio/) [![linkedin](/img/linkedin.png)](https://www.linkedin.com/company/filestack) [![twitter](/img/twitter.png)](https://twitter.com/filestack)
+* [Follow](# "Follow on Facebook")
+* [Follow](# "Follow on LinkedIn")
+* [Follow](# "Follow on Twitter")
