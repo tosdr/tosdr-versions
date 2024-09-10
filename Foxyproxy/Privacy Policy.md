@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-worked perfectly i have purchased more
+Your amazing service switched me from using Safari to having Firefox as my default browser. When I re-subscribe, I will take a longer contract. Thanks
 
-Austen Knight
+Leo
