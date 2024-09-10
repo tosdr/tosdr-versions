@@ -1,8 +1,8 @@
-           
+            
 
 ![](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-    
+          
 
 [Skip to content](#content)
 
@@ -18,7 +18,7 @@ Search for:
 
 [](#)[](#)
 
-* [Gift Ideas](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
+* [School Supplies](https://www.autism-products.com/product-category/home-school-supplies/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
@@ -118,7 +118,7 @@ Search for:
     * [Spatial Awareness](https://www.autism-products.com/product-category/sensory-products/spatial-awareness/)
     * [Touch/Pressure](https://www.autism-products.com/product-category/sensory-products/touch-pressure/)
 
-* [Gift Ideas](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
+* [School Supplies](https://www.autism-products.com/product-category/home-school-supplies/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
@@ -250,7 +250,7 @@ Please SelectABCAbilitationsABILITATIONSABLENETACTION ALPHABETActivity\_SetAdvan
 * [Create Wishlist](https://www.autism-products.com/wishlist-create/)
 * [Frequently Asked Questions (FAQ)](https://www.autism-products.com/questions-about-autism/)
 * [Manage Wishlists](https://www.autism-products.com/wishlist-manage/)
-* [Privacy Policy](https://www.autism-products.com/privacy-policy/)
+* [Privacy Policy for Autism-Products.com](https://www.autism-products.com/privacy-policy/)
 * [Public Wishlists](https://www.autism-products.com/wishlist-public/)
 * [Refund and Returns Policy](https://www.autism-products.com/refund_returns/)
 * [Terms & Conditions](https://www.autism-products.com/terms-conditions/)
@@ -281,6 +281,6 @@ Web: [Autism-Products.com](https://www.autism-products.com/)
 
 ![fbpx](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-                                                                                                 
+                                                                                                   
 
 [Go to Top](#)
