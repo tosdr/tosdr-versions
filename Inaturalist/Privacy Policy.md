@@ -28,7 +28,7 @@
 Privacy Policy
 --------------
 
-_Last Modified on July 11, 2023_
+_Last Modified on August 30, 2024_
 
 This is the privacy policy ("Privacy Policy") of the iNaturalist.org website, iOS App, and Android App, the iNaturalist Network Member websites, and describes how iNaturalist ("iNaturalist," "We," "Us" or "Our") handles Personal Information (as defined below) that users ("You," "Your” or "User") provide to Us, or that We collect from You through the use of Our Website, which is located at [www.inaturalist.org](https://www.inaturalist.org/) ) and through the iNaturalist Network Member websites (collectively, the "Websites"), and through the iNaturalist iOS App, and the iNaturalist Android App and the Seek by iNaturalist App (the “App(s)”) (the “Websites” and “App(s)” are collectively, the “Platform”).
 
@@ -66,7 +66,7 @@ iNaturalist discloses Personal Information to contractors, service providers, co
 
 Some of iNaturalist’s contractors, service providers and affiliated organizations may be located outside of Your home country; by using iNaturalist's Platform, You consent to the transfer of such information to them. iNaturalist will not rent or sell Personal Information to anyone. We share your Personal information with entities that support Our Websites and data, communicating with You, fraud and spam detection, data analytics, and other legitimate business purposes including communicating with the Apple App Store, the Google Play Store, Google Analytics, Google Firebase and New Relic.
 
-We use Microsoft Azure and Amazon Web Services, Google Maps Platform (to display geographic content), and SendGrid. If You choose to participate in some optional services, We will share Personal Information with entities that make those services possible, such as Civilized Discourse Construction Kit (for the iNaturalist Forum); Donorbox, PayPal, Stripe, and Double the Donation (for charitable donations); FreeWill (for legacy giving); and Threadless (for the iNaturalist Store). You can withdraw from participation in these optional services by contacting them directly.
+We use Microsoft Azure and Amazon Web Services, Google Maps Platform (to display geographic content), and SendGrid. If You choose to participate in some optional services, We will share Personal Information with entities that make those services possible, such as Civilized Discourse Construction Kit (for the iNaturalist Forum); Freskworks (for support emails); Typeform (for optional surveys); Donorbox, PayPal, Stripe, and Double the Donation (for charitable donations); FreeWill (for legacy giving); and Threadless (for the iNaturalist Store). You can withdraw from participation in these optional services by contacting them directly.
 
 Other than as described above, iNaturalist discloses Personal Information only when required to do so by law, or when iNaturalist believes in good faith that disclosure is reasonably necessary to protect the property or rights of iNaturalist, third parties, or the public at large. Unless authorized by You through Your opt-in, or as provided above, We will make Your Personal Information available to non-affiliated third parties only in the following circumstances:
 
@@ -116,7 +116,7 @@ Automated technology collects information from Your computer or mobile device an
 
 As You access or use Our Website, We and/or third parties may collect information using cookies, web beacons, pixels, navigational and location data collection (clickstream, log files, server logs) and other similar technologies for the purposes described in this Policy. iNaturalist uses cookies to help iNaturalist identify and track visitors, their usage of the iNaturalist Websites and their Website access preferences. iNaturalist visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using iNaturalist's Websites. Certain features of iNaturalist's Websites, such as the ability to post Observations, may not function properly without the aid of cookies.
 
-To find more information about cookies please visit [www.allaboutcookies.org](https://www.inaturalist.org/pages/www.allaboutcookies.org). Most browsers are initially set to allow cookies, but also offer the option to restrict cookies or warn You of their use.
+To find more information about cookies please visit [www.allaboutcookies.org](https://www.allaboutcookies.org/). Most browsers are initially set to allow cookies, but also offer the option to restrict cookies or warn You of their use.
 
 ### [](#analytics)Third Party Analytics Disclaimer
 
@@ -204,11 +204,11 @@ iNaturalist – Data Protection Officer
 PO Box 150357  
 San Rafael, CA 94915-0357  
 
-_This Privacy Policy was last modified on July 11, 2023._
+_This Privacy Policy was last modified on August 30, 2024._
 
-© Copyright 2023 iNaturalist. All Rights Reserved.
+© Copyright 2024 iNaturalist. All Rights Reserved.
 
-Revised on July 8, 2024 05:48 PM by [![tiwane](https://static.inaturalist.org/attachments/users/icons/28/mini.jpg?1655830738 "tiwane")](https://www.inaturalist.org/users/28) [tiwane](https://www.inaturalist.org/people/tiwane "tiwane")
+Revised on August 30, 2024 08:37 PM by [![carrieseltzer](https://static.inaturalist.org/attachments/users/icons/7580/mini.jpg?1690990943 "carrieseltzer")](https://www.inaturalist.org/users/7580) [carrieseltzer](https://www.inaturalist.org/people/carrieseltzer "carrieseltzer")
 
 [About](https://www.inaturalist.org/pages/about)
 
