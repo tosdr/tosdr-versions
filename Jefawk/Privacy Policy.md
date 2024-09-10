@@ -4,11 +4,11 @@ Accept Decline [Privacy Policy](https://jefawk.com/privacy-policy.html)
 
 [Spaghettorium](https://jefawk.com/index.html)Toggle navigation
 
-*  [![Play our JeFawk Games](assets/img/joystick-01-24x24.png) Games](https://jefawk.com/index.html)
-*  [![Website design portfolio](assets/img/lightbulb-1-24x24.png) Gamedev resources](https://jefawk.com/gamedev-resources/index.html)
-*  [![Website design portfolio](assets/img/cogwheel-01-60x60.png) Apps](https://jefawk.com/apps/index.html)
-*  [![Website design portfolio](assets/img/folder-01-24x24.png) Websites](https://jefawk.com/website-portfolio/index.html)
-*  [![Website design portfolio](assets/img/pen-01-24x24.png) Blogs](https://jefawk.com/blogs/eagle-quick-overview.html)
+*  [![Play our JeFawk Games](assets/img/icons/joystick-01-24x24.png) Games](https://jefawk.com/index.html)
+*  [![Website design portfolio](assets/img/icons/lightbulb-1-24x24.png) Gamedev resources](https://jefawk.com/gamedev-resources/index.html) [![Website design portfolio](assets/img/icons/sticker-1-24x24.png) Stickers](https://jefawk.com/stickers/about.html)
+*  [![Website design portfolio](assets/img/icons/cogwheel-01-60x60.png) Apps](https://jefawk.com/apps/index.html)
+*  [![Website design portfolio](assets/img/icons/folder-01-24x24.png) Websites](https://jefawk.com/website-portfolio/index.html)
+*  [![Website design portfolio](assets/img/icons/pen-01-24x24.png) Blogs](https://jefawk.com/blogs/eagle-quick-overview.html)
 
 Terms and Conditions
 ====================
@@ -597,9 +597,9 @@ Last edited on 2020.Jan.18
 
 ### Links
 
-[#### Contact](https://jefawk.com/contact/index.html)[#### Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[#### Privacy policy & Terms and conditions](https://jefawk.com/privacy-policy.html)[#### Frostnight Illustrations](https://frostnightillustrations.com/)[#### Haranutarie](https://haranutarie.com/)
+[Contact](https://jefawk.com/contact/index.html)[Contributors & Tools](https://jefawk.com/contributors-and-tools.html)[Privacy policy & Terms and conditions](https://jefawk.com/privacy-policy.html)[Frostnight Illustrations](https://frostnightillustrations.com/)[Haranutarie](https://haranutarie.com/)
 
-[#### Discord](https://jefawk.com/contact/discord.html)[#### Patreon](https://www.patreon.com/jefawk)[#### Facebook](https://jefawk.com/contact/facebook.html)[#### Twitter](https://jefawk.com/contact/twitter.html)[#### YouTube](https://jefawk.com/contact/youtube.html)[#### Padlet](https://jefawk.com/contact/padlet.html)[#### Instagram](https://www.instagram.com/jefawk/)
+[Discord](https://jefawk.com/contact/discord.html)[#### Patreon](https://www.patreon.com/jefawk)[Facebook](https://jefawk.com/contact/facebook.html)[Twitter](https://jefawk.com/contact/twitter.html)[YouTube](https://jefawk.com/contact/youtube.html)[Padlet](https://jefawk.com/contact/padlet.html)[Instagram](https://www.instagram.com/jefawks_spaghettorium/)
 
 ### Talk to us here
 
