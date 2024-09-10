@@ -2,7 +2,7 @@
 
 Courses
 
-[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)
+[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)[Competitive Programming roadmap 7 courses](https://www.codechef.com/roadmap/become-5-star)
 
 [Practice](https://www.codechef.com/practice) [Compete](https://www.codechef.com/contests)
 
@@ -16,7 +16,7 @@ Login / Sign Up
 
 Courses
 
-[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)
+[Learn Python 10 courses](https://www.codechef.com/roadmap/python-dsa)[Learn C++ 9 courses](https://www.codechef.com/roadmap/cpp-dsa)[Learn C 9 courses](https://www.codechef.com/roadmap/c-dsa)[Learn Java 9 courses](https://www.codechef.com/roadmap/java-dsa)[Learn Javascript 9 courses](https://www.codechef.com/roadmap/javascript-dsa)[Data Structures and Algorithms 21 topics](https://www.codechef.com/roadmap/data-structures-and-algorithms)[Learn SQL 7 courses](https://www.codechef.com/roadmap/sql)[Web Development 5 courses](https://www.codechef.com/roadmap/html)[Competitive Programming roadmap 7 courses](https://www.codechef.com/roadmap/become-5-star)
 
 [Practice](https://www.codechef.com/practice) [Compete](https://www.codechef.com/contests)
 
@@ -153,6 +153,8 @@ Miscellaneous
 [CodeChef For Colleges](https://www.codechef.com/college-program)
 
 [Coding Contests](https://www.codechef.com/contests)
+
+[About Us](https://www.codechef.com/aboutus)
 
 [Contact Us](https://www.codechef.com/contactus)
 
