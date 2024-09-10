@@ -64,7 +64,7 @@ The following are the terms and conditions of a legal agreement between you and 
 
  [![](https://static.moviestvnetwork.com/images/logo_tagline_v2.png) ![](https://static.moviestvnetwork.com/images/logo_tagline_stacked_v2.png)](https://moviestvnetwork.com/)
 
-Not in Central time (CT)?
+Not in Eastern time (ET)?
 
 Change Your Location
 ====================
