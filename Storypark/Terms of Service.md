@@ -1,46 +1,48 @@
 Which best describes you?
 -------------------------
 
-[![Smiley icon wearing graduation hat](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e825f4d18260_educator_v2.svg)
+[![Smiley icon wearing graduation hat](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b951079911827_educator_v2.svg)
 
-### Educator
+Educator
+--------
 
 Signing up a service that does not yet have a Storypark account](https://app.storypark.com/signup?educator_signup=1)
 
-[![Smiley bubble faces vector](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e876cfd18259_parent_v2.svg)
+[![Smiley bubble faces vector](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b950302911820_parent_v2.svg)
 
-### Parent
+Parent
+------
 
 Adding a child who does not yet have a Storypark profile](https://app.storypark.com/signup?parent_signup=1)
 
 **Is your learning service already with Storypark?  
 **Ask them for an invite.
 
-[Text Link](https://uk.storypark.com/search)
+[Text Link](https://main.storypark.com/search)[Text Link](https://main.storypark.com/feature/ios-educators-app)[Text Link](https://main.storypark.com/feature/ios-educators-app)[Text Link](https://main.storypark.com/feature/profiles)
 
-[![Storypark logo](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e82ee4d1825f_Storypark-logo.svg)![](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/62898826f213c46f2726ceb5_Thumnail.svg)](https://www.storypark.com/)
+[![Storypark logo teal on white](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/62898843e461d32ed48199f9_logo.svg)![Storypark logo](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/6289885f90f189c90114e808_Thumnail.svg)](https://www.storypark.com/)
 
-[Home](https://www.storypark.com/)[Educators](https://www.storypark.com/educators)[Families](https://www.storypark.com/families)[Organisations](https://www.storypark.com/organisations)[Pricing](https://www.storypark.com/pricing)[About](https://www.storypark.com/about)
+[Home](https://www.storypark.com/)[Educators](https://www.storypark.com/educators)[Families](https://www.storypark.com/families)[Organizations](https://www.storypark.com/organizations)[Features](https://www.storypark.com/feature/main)[Pricing](https://www.storypark.com/pricing)[About](https://www.storypark.com/about)[Support](https://www.storypark.com/support)
 
-[Support](https://www.storypark.com/support)[Help Center](https://help.storypark.com/)[Professional services](https://www.storypark.com/pld/professional-services)[Advocates](https://www.storypark.com/advocates)[Articles](https://blog.storypark.com/)[Careers](https://www.storypark.com/careers)
+[Help Center](#)[Professional services](https://www.storypark.com/pld/professional-services)[Resources & activities](https://www.storypark.com/resources)[Child safety](https://www.storypark.com/child-safety)[Advocates](https://www.storypark.com/advocates)[Articles](https://blog.storypark.com/)[Careers](https://www.storypark.com/careers)
 
-[Educators](https://www.storypark.com/educators)[Organisations](https://www.storypark.com/organisations)[Families](https://www.storypark.com/families)
+[Educators](https://www.storypark.com/educators)[Organizations](https://www.storypark.com/organizations)[Features](https://www.storypark.com/feature/main)[Pricing](https://www.storypark.com/pricing)
 
 More
 
-![Down arrow icon](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e89370d1828d_dropdown%20arrow.png)
+![Down arrow icon](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b956200911854_dropdown%20arrow.png)
 
-[Pricing](https://www.storypark.com/pricing)[About](https://www.storypark.com/about)[Support](https://www.storypark.com/support)[Professional services](https://www.storypark.com/pld/professional-services)
+[Families](https://www.storypark.com/families)[About](https://www.storypark.com/about)[Support](https://www.storypark.com/support)[Professional services](https://www.storypark.com/pld/professional-services)[Resources & activities](https://www.storypark.com/resources)
 
-[Pricing](https://www.storypark.com/pricing)[About](https://www.storypark.com/about)[Support](https://www.storypark.com/support)
+[Pricing](#)[About](#)[Resources](#)
 
 Menu
 
-![Down arrow icon](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e89370d1828d_dropdown%20arrow.png)
+![Down arrow icon](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b956200911854_dropdown%20arrow.png)
 
 [Try for free](#)[Log In](https://app.storypark.com/users/sign_in?_ga=2.152468793.1272197559.1592539085-699289892.1592360598)
 
-![Blue documents background vector](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e86a95d184ad_privacy-pattern-right.svg)![Blue documents background vector](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e841e7d184b2_privacy-pattern-left.svg)
+![Blue documents vector](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b950100911a71_privacy-pattern-right.svg)![Blue documents vector](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b9547c8911a76_privacy-pattern-left.svg)
 
 Terms and Conditions
 ====================
@@ -813,7 +815,7 @@ Each party will maintain as confidential at all times, and will not at any time,
 
 11.1
 
-Except as expressly set out in this Agreement, no conditions, warranties or other terms apply to the Services or to anything else supplied under this Agreement. In particular, no implied conditions, warranties or other terms relating to satisfactory quality or fitness for any particular purpose will apply to anything supplied under this Agreement. Storypark does not warrant that the Services will be uninterrupted or entirely error-free and the Customer acknowledges and agrees that internet transmissions cannot be guaranteed to be 100% secure in all aspects (including in relation to unauthorised use and disclosure of Personal Data) and it, therefore, uses the Services at its own risk
+Except as expressly set out in this Agreement, no conditions, warranties or other terms apply to the Services or to anything else supplied under this Agreement. In particular, no implied conditions, warranties or other terms relating to satisfactory quality or fitness for any particular purpose will apply to anything supplied under this Agreement. Storypark does not warrant that the Services will be uninterrupted or entirely error-free and the Customer acknowledges and agrees that internet transmissions cannot be guaranteed to be 100% secure in all aspects (including in relation to unauthorised use and disclosure of Personal Data) and it, therefore, uses the Services at its own risk.
 
 11.2
 
@@ -841,7 +843,7 @@ The Customer indemnifies Storypark against all claims, damages, costs (including
     
 2. any breach of this Agreement by the Customer, any negligent, wrongful or unlawful act or omission of the Customer or any of its Authorised Users, or any breach of the End User Terms by an Authorised User;
     
-3. any third pviolation of any creative commons licence or any Intellectual Property, privacy or other rights of a third party, by the Customer, its Authorised Users or any other person using the Customer Accountarty software or hardware used by the Customer or Storypark in connection with the Services; (whether with or without the Customer’s permission).
+3. violation of any creative commons licence or any Intellectual Property, privacy or other rights of a third party, by the Customer, its Authorised Users or any other person using the Customer Account (whether with or without the Customer’s permission).
     
 
 12.2
@@ -916,7 +918,7 @@ If, at the date of expiry of this Agreement, the parties have not agreed on a Re
 
 15.1
 
-A party may, at any time while there is a genuine dispute relating in any way to this Agreement (**Dispute**), give written notice (**DisputeNotice**) to the other party specifying the subject matter of the Dispute and requiring that an authorised senior representative of each party meet, within 10 Business Days after delivery of the Dispute Notice, to attempt to resolve the Dispute. The Representatives will make all reasonable attempts to resolve the dispute at the Dispute resolution meeting.
+A party may, at any time while there is a genuine dispute relating in any way to this Agreement (**Dispute**), give written notice (**Dispute Notice**) to the other party specifying the subject matter of the Dispute and requiring that an authorised senior representative of each party meet, within 10 Business Days after delivery of the Dispute Notice, to attempt to resolve the Dispute. The Representatives will make all reasonable attempts to resolve the dispute at the Dispute resolution meeting.
 
 15.2
 
@@ -978,7 +980,7 @@ This Agreement may be signed in any number of counterpart copies which, read tog
 
 ### Allow Cookies?
 
-By clicking ‘Accept’, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and assist in our marketing efforts. View our [Privacy Policy](https://www.storypark.com/privacy-policy) for more information.
+By clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](https://www.storypark.com/privacy-policy) for more information.
 
 [Allow Cookies](#)[Deny](#)
 
@@ -987,7 +989,7 @@ By clicking ‘Accept’, you agree to the storing of cookies on your device to 
 * [Home](https://www.storypark.com/)
 * [Educators](https://www.storypark.com/educators)
 * [Families](https://www.storypark.com/families)
-* [Organisations](https://www.storypark.com/organisations)
+* [Organizations](https://www.storypark.com/organizations)
 * [Pricing](https://www.storypark.com/pricing)
 
 #### Learn more
@@ -997,6 +999,7 @@ By clicking ‘Accept’, you agree to the storing of cookies on your device to 
 * [Help center](https://help.storypark.com/)
 * [Child safety](https://www.storypark.com/child-safety)
 * [Careers](https://www.storypark.com/careers)
+* [AI Commitments](https://lp.storypark.com/sa/ai-commitments)
 
 #### Community
 
@@ -1008,14 +1011,15 @@ By clicking ‘Accept’, you agree to the storing of cookies on your device to 
 
 #### Want to start using Storypark? Contact:
 
-* [sales@storypark.com](mailto:sales@storypark.com?subject=I'm%20interested%20in%20Storypark)
+* [sales@storypark.com](mailto:sales@storypark.com?subject=I'm%20interested%20in%20Storypark)[**US/Canada** 1 888 330 9658](tel:8883309658)
 * [**  
-    Already using Storypark? Contact:**](#)
+    Already use Storypark? Contact:**](#)[**AUST** 1800 225 147](tel:1800225147)
 * [**hello@storypark.com**](mailto:hello@storypark.com?subject=Support%20request)
+* [**US/CAN** 1 888 330 9658](tel:8883309658)
 
-[![App Store button](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e87933d1825d_icon-app-store.svg)](https://apps.apple.com/nz/developer/storypark/id867828320)[![Google Play button](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e8690ed18257_icon-play-store.svg)](https://play.google.com/store/apps/developer?id=Storypark&hl=en)
+[![App Store button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b95b62b911824_icon-app-store.svg)](https://apps.apple.com/nz/developer/storypark/id867828320)[![Google Play button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b952ce291181b_icon-play-store.svg)](https://play.google.com/store/apps/developer?id=Storypark&hl=en)
 
-[![Facebook icon](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e8b55bd1827f_icon-Facebook.svg)](https://www.facebook.com/StoryparkApp/)[![Instagram icon](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e85f6cd1825b_icon-Instagram.svg)](https://www.instagram.com/storyparkapp/)[![Youtube icon](https://cdn.prod.website-files.com/5fc6d6f9fc33e82109d18230/5fc6d6f9fc33e80d2dd18277_icon-YouTube.svg)](https://www.youtube.com/channel/UCUFZpFjEVDNnzGMxJ17ZHtQ)
+[![Facebook Icon](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b95f108911846_icon-Facebook.svg)](https://www.facebook.com/StoryparkApp/)[![Instagram Icon](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b956964911822_icon-Instagram.svg)](https://www.instagram.com/storyparkapp/)[![Youtube Icon](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b956c9991183e_icon-YouTube.svg)](https://www.youtube.com/channel/UCUFZpFjEVDNnzGMxJ17ZHtQ)
 
 [Privacy policy](https://www.storypark.com/privacy-policy)
 
