@@ -3,12 +3,12 @@
 ![Lemon.io](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20390%20100%22%3E%3C/svg%3E)](https://lemon.io/)
 
 * [Start hiring](https://magic.lemon.io/welcome?from=hire-talent)
-* [Apply as developer](https://me.lemon.io/escape-the-matrix?from=header)
+* [Apply as developer](https://me.lemon.io/escape-the-matrix/?from=header)
 * [Login](https://app.lemon.io/auth/login)
 
 * [For developers](https://lemon.io/for-developers/)
-* [Services for clients](#/)
-    * [Hire by role](#/)
+* [Services for clients](#)
+    * [Hire by role](#)
         * [Hire Full-stack developers](https://lemon.io/hire/full-stack-developers/)
         * [Hire Front-end developers](https://lemon.io/hire/front-end-developers/)
         * [Hire Back-end developers](https://lemon.io/hire/back-end-developers/)
@@ -23,7 +23,7 @@
         * [Hire Data scientists](https://lemon.io/hire/data-scientists/)
         * [Hire Blockchain developers](https://lemon.io/hire/blockchain-developers/)
         * [Hire Automation QA engineers](https://lemon.io/hire/automation-qa-engineers/)
-    * [Hire by skill](#/)
+    * [Hire by skill](#)
         * [Hire React developers](https://lemon.io/hire/react-developers/)
         * [Hire Angular developers](https://lemon.io/hire/angular-developers/)
         * [Hire Node.js developers](https://lemon.io/hire/node-js-developers/)
@@ -44,9 +44,9 @@
         * [Hire Flutter developers](https://lemon.io/hire/flutter-developers/)
         * [Hire React Native developers](https://lemon.io/hire/react-native-developers/)
         * [Hire Android developers](https://lemon.io/hire/android-developers/)
-    * [View all services](https://lemon.io/hire/)
+    * [View all services](https://lemon.io/hire)
 
-[home/](https://lemon.io/) TERMS OF USE
+[home](https://lemon.io/) TERMS OF USE
 
 TERMS OF USE
 ============
