@@ -2,7 +2,7 @@
 
 [![MSD Privacy](https://www.msdprivacy.com/wp-content/uploads/sites/4/2020/06/logo-bug-teal.png)](https://www.msdprivacy.com/us/en/)
 
-![worldwide](https://www.msdprivacy.com/wp-content/themes/mhh-merck2-msdprivacy-theme/images/worldwide.png)
+![worldwide](https://www.msdprivacy.com/wp-content/themes/cex-wpvip-mhh-merck2-msdprivacy-theme/images/worldwide.png)
 
 [worldwide](https://www.msdprivacy.com/)
 
@@ -139,11 +139,11 @@ We may update this policy periodically. We reserve the right to modify, add or r
 
 If you have questions about this policy or wish to contact the Company with any other privacy related questions, please reach out using the contact information contained on your country/location’s Privacy home page at [msdprivacy.com.](https://www.msdprivacy.com/us/en/)
 
- [![Confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/394735765)](https://privacyseals.bbbprograms.org/seal/Confirmation/394735765 "Click for the Cross Border Privacy Rules Program Confirmation")[![This Web Accessibility icon serves as a link to download eSSENTIAL Accessibility assistive technology software for individuals with physical disabilities. It is being featured as part of a Disability Community Involvement initiative that reflects our commitment to Diversity, Inclusion,Corporate Citizenship and Social Responsibility.](https://www.msdprivacy.com/wp-content/themes/mhh-merck2-msdprivacy-theme/images/essential_access_icon.jpg)](https://www.essentialaccessibility.com/)
+ [![Confirmation seal](https://privacyseals.bbbprograms.org/seal/GetSealImage/394735765)](https://privacyseals.bbbprograms.org/seal/Confirmation/394735765 "Click for the Cross Border Privacy Rules Program Confirmation")[![This Web Accessibility icon serves as a link to download eSSENTIAL Accessibility assistive technology software for individuals with physical disabilities. It is being featured as part of a Disability Community Involvement initiative that reflects our commitment to Diversity, Inclusion,Corporate Citizenship and Social Responsibility.](https://www.msdprivacy.com/wp-content/themes/cex-wpvip-mhh-merck2-msdprivacy-theme/images/essential_access_icon.jpg)](https://www.essentialaccessibility.com/)
 
- [![Twitter Icon](https://www.msdprivacy.com/wp-content/themes/mhh-merck2-msdprivacy-theme/images/icon_twitter.gif)](https://twitter.com/MSDInvents)[![Linkedin Icon](https://www.msdprivacy.com/wp-content/themes/mhh-merck2-msdprivacy-theme/images/icon_linkedin.jpg)](https://www.linkedin.com/company/msd-global)
+ [![Twitter Icon](https://www.msdprivacy.com/wp-content/themes/cex-wpvip-mhh-merck2-msdprivacy-theme/images/icon_twitter.gif)](https://twitter.com/MSDInvents)[![Linkedin Icon](https://www.msdprivacy.com/wp-content/themes/cex-wpvip-mhh-merck2-msdprivacy-theme/images/icon_linkedin.jpg)](https://www.linkedin.com/company/msd-global)
 
-![MSD Logo](https://www.msdprivacy.com/wp-content/themes/mhh-merck2-msdprivacy-theme/images/logo_icon.png)
+![MSD Logo](https://www.msdprivacy.com/wp-content/themes/cex-wpvip-mhh-merck2-msdprivacy-theme/images/logo_icon.png)
 
 [Privacy](https://www.msdprivacy.com/) [Terms of Use](https://www.merck.com/policy/terms-of-use/home.html) [Cookie Preferences](#)
 
