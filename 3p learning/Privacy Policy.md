@@ -21,40 +21,50 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
-    MathleticsThe comprehensive mathematics program
+    The comprehensive mathematics program
     
 * [](http://www.3plearning.com/software/mathseeds/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
-    MathseedsThe early learners introduction to the world of numeracy
+    The early learners introduction to the world of numeracy
     
 * [](http://www.3plearning.com/software/reading-eggs/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
-    Reading EggsAn effective learn-to-read program that students love.
+    An effective learn-to-read program that students love.
     
 * [](http://www.3plearning.com/software/writing-legends/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
-    Writing LegendsA systematic, time-saving writing program that develops essential writing skills and fosters an enjoyment of writing
+    A systematic, time-saving writing program that develops essential writing skills and fosters an enjoyment of writing
     
 * [](http://www.3plearning.com/software/brightpath/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
-    Brightpath ProgressPowerful assessment for writing and maths that show visible proof of progress.
+    Powerful assessment for writing and maths that show visible proof of progress.
     
 
-Packages* [](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
+Packages* [](http://www.3plearning.com/3essentials/)
     
-    Better Ways to Learn Literacy PackageThe complete answer to school’s literacy needs
+    ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2024/09/3Essentials.svg)
+    
+    An integrated package that combines our award-winning online learning programs for **reading**, **writing** and **maths** — at unbeatable value for your school
+    
+* [](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
+    
+    ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2024/04/Better-Ways-to-Learn-Literacy-Package.svg)
+    
+    The complete answer to school’s literacy needs
     
 * [](http://www.3plearning.com/packages/better-ways-to-learn-maths/)
     
-    Better Ways to Learn MathsThe complete maths solution for student progress
+    ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2024/09/Better-Ways-to-Learn-Maths-Package.svg)
+    
+    The complete maths solution for student progress
     
 
 * [Product SupportFind walkthroughs and guides for all of our programs](https://support.3plearning.com/)
@@ -85,105 +95,105 @@ Packages* [](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
-    MathleticsStart a trial
+    See your students improve with just 30 minutes of Mathletics a week
     
 * [](http://www.3plearning.com/software/mathseeds/free-trial/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
-    MathseedsStart a trial
+    Start a trial
     
 * [](http://www.3plearning.com/software/reading-eggs/free-trial/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
-    Reading EggsStart a trial
+    Start a trial
     
 * [](http://www.3plearning.com/software/writing-legends/free-trial/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
-    Writing LegendsStart a trial
+    Start a trial
     
 * [](http://www.3plearning.com/software/brightpath/request-demo/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
-    Brightpath ProgressRequest a Demo
+    Request a Demo
     
 
 * [](http://www.3plearning.com/software/3plearning/purchase/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/11/3pl__logo.svg)
     
-    3P LearningGet a quote
+    Get a quote
     
 * [](http://www.3plearning.com/software/mathletics/quote/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
-    MathleticsGet a quote
+    Get a quote
     
 * [](http://www.3plearning.com/software/mathseeds/quote/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
-    MathseedsGet a quote
+    Get a quote
     
 * [](http://www.3plearning.com/software/reading-eggs/quote/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
-    Reading EggsGet a quote
+    Get a quote
     
 * [](http://www.3plearning.com/software/writing-legends/free-trial/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
-    Writing LegendsStart a trial
+    Start a trial
     
 * [](http://www.3plearning.com/software/brightpath/sign-in/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
-    Brightpath ProgressSign in
+    Sign in
     
 
 * [](https://www.3plearning.com/software/mathletics/sign-in/)
     
     ![logo-mathletics](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathletics.svg)
     
-    MathleticsSign in
+    Sign in
     
 * [](https://www.3plearning.com/software/mathseeds/sign-in/)
     
     ![](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-mathseeds.svg)
     
-    MathseedsSign in
+    Sign in
     
 * [](https://www.3plearning.com/software/reading-eggs/sign-in/)
     
     ![logo-readingeggs](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-readingeggs.svg)
     
-    Reading EggsSign in
+    Sign in
     
 * [](http://www.3plearning.com/software/wordflyers/sign-in/)
     
     ![logo-wordflyers](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2020/06/logo-wordflyers.svg)
     
-    WordFlyersSign in
+    Sign in
     
 * [](http://www.3plearning.com/software/brightpath/sign-in/)
     
     ![Brightpath Progress](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/brightpath-logo-colour.svg)
     
-    Brightpath ProgressSign in
+    Sign in
     
 * [](http://www.3plearning.com/software/writing-legends/sign-in/)
     
     ![Writing Legends](https://assets-homepages-learning.3plearning.net/wp-content/uploads/2023/07/writing-legends-logo-horizontal.svg)
     
-    Writing LegendsSign in
+    Sign in
     
 
 Privacy Policy
@@ -631,17 +641,18 @@ Follow us
     * [Districts](http://www.3plearning.com/for-districts/)
     * [Schools](http://www.3plearning.com/for-schools/)
     * [Home Users](http://www.3plearning.com/for-home/)
-* Subjects
-    * [Mathematics](http://www.3plearning.com/mathematics/)
-    * [Literacy](http://www.3plearning.com/literacy/)
+* Packages
+    * [3 Essentials](http://www.3plearning.com/3essentials/)
+    * [Better Ways to Learn Literacy Package](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
+    * [Better Ways to Learn Maths](http://www.3plearning.com/packages/better-ways-to-learn-maths/)
 * [Solutions](http://www.3plearning.com/software/)
     * [Mathletics](http://www.3plearning.com/software/mathletics/)
     * [Mathseeds](http://www.3plearning.com/software/mathseeds/)
     * [Reading Eggs](http://www.3plearning.com/software/reading-eggs/)
     * [Brightpath Progress](http://www.3plearning.com/software/brightpath/)
-* Packages
-    * [Better Ways to Learn Literacy Package](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
-    * [Better Ways to Learn Maths](http://www.3plearning.com/packages/better-ways-to-learn-maths/)
+* Subjects
+    * [Mathematics](http://www.3plearning.com/mathematics/)
+    * [Literacy](http://www.3plearning.com/literacy/)
 * Company
     * [About 3P](http://www.3plearning.com/about-3p/)
     * [World Maths Day](https://www.3plearning.com/world-maths-day/)
