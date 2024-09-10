@@ -18,13 +18,12 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[⚡ Looking to upgrade your BOLT robot to BOLT+? Learn more here > ⚡](https://sphero.activehosted.com/f/296)
+[Free Sphero Session: Cross-Curricular Learning with BOLT+ on 10/2! Attend for a chance to win a BOLT+. Register Now >](https://sphero.zoom.us/webinar/register/7017236663571/WN_bh6qkRW2Tfmeblt-H_uZ6g)
 
 * Shop
-* Teach
-* Lessons & Resources
-* Compete
-* About
+* Teacher Resources
+* Funding & Grants
+* Sphero Global Challenge
 
 Need help?
 
@@ -41,48 +40,61 @@ Follow Us
 Back
 
 * [Shop](https://sphero.com/collections/all)
-* [Robots](https://sphero.com/collections/coding-robots)
-* [littleBits](https://sphero.com/collections/design-build-systems)
-* [Blueprint](https://sphero.com/collections/blueprint)
-* [School](https://sphero.com/collections/for-school)
-* [Home](https://sphero.com/collections/for-home)
+* Shop by Product
+* [indi](https://sphero.com/collections/all/family_indi)
+* [Mini](https://sphero.com/collections/all/family_mini)
+* [BOLT+](https://sphero.com/collections/all/family_bolt)
+* [RVR+](https://sphero.com/collections/all/family_rvr)
+* [Blueprint Engineering](https://sphero.com/collections/all/family_blueprint)
+* [littleBits](https://sphero.com/collections/all/family_littlebits)
+* [Professional Development](https://sphero.com/pages/professional-development)
+
+* Shop by Age
+* [Early Learning](https://sphero.com/collections/all/grade_early-learning)
+* [Elementary](https://sphero.com/collections/all/grade_elementary)
+* [Middle School](https://sphero.com/collections/all/grade_middle-school)
+* [High School](https://sphero.com/collections/all/grade_high-school)
+
+* [Shop All](https://sphero.com/collections/all)
 
 Back
 
-* [Teach](https://sphero.com/pages/educators)
-* [Schedule a Virtual Demo](https://sphero.com/pages/meet-the-team)
-* [Professional Development](https://sphero.com/pages/professional-development)
+* [Teacher Resources](https://sphero.com/pages/educators)
+* Sphero Central
+* [Lessons & Resources](https://edu.sphero.com/landing)
+* [indi](https://edu.sphero.com/indi)
+* [Mini](https://edu.sphero.com/edurobots)
+* [BOLT+](https://edu.sphero.com/edurobots)
+* [RVR+](https://edu.sphero.com/edurobots)
+* [Blueprint](https://edu.sphero.com/blueprint)
+* [littleBits](https://edu.sphero.com/littlebits)
+
+* [App Downloads](https://sphero.com/pages/apps)
+
 * [Standards Alignment](https://sphero.com/pages/standards-alignment)
-* [Funding & Grants](https://sphero.com/pages/stem-computer-science-funding)
-* [Case Studies & Whitepapers](https://sphero.com/pages/case-studies)
+
 * [Webinars](https://sphero.com/pages/webinars)
 
 Back
 
-* [Lessons & Resources](https://sphero.com/pages/activities)
-* [App Downloads](https://sphero.com/pages/apps)
-* [Sphero BOLT+](https://edu.sphero.com/edurobots)
-* [Sphero BOLT](https://edu.sphero.com/edurobots)
-* [Sphero indi](https://edu.sphero.com/indi)
-* [Sphero RVR+](https://edu.sphero.com/edurobots)
-* [Sphero littleBits](https://edu.sphero.com/littlebits)
-* [Sphero Blueprint](https://edu.sphero.com/blueprint)
-* [Sphero Mini](https://edu.sphero.com/edurobots)
-* [Computer Science Foundations (Sphero BOLT)](https://sphero.com/pages/computer-science-foundations)
+* [Funding & Grants](https://sphero.com/pages/stem-computer-science-funding)
+* [ESSER & American Rescue Plan](https://sphero.com/pages/esser-recovery-funding)
+* [Federal & State](https://sphero.com/pages/federal-state-grants)
+* [Corporate & Organizational](https://sphero.com/pages/corporate-organizational-grants)
+* [Crowdfunding](https://sphero.com/pages/crowdfunding-opportunities)
+* [Sample RFP/Grant Language](https://sphero.com/pages/stem-computer-science-funding#samplerfp)
+
+* [Schedule a Virtual Demo](https://sphero.com/pages/meet-the-team)
 
 Back
 
-* [Compete](https://sphero.com/pages/global-challenge)
+* [Sphero Global Challenge](https://sphero.com/pages/global-challenge)
+* Age Brackets
 * [Early Elementary](https://sphero.com/products/season-5-early-elementary-registration)
 * [Upper Elementary](https://sphero.com/products/season-5-upper-elementary-registration)
 * [Middle School](https://sphero.com/products/season-5-middle-school-registration)
-* [Past Year's Challenges](https://sphero.com/collections/past-years-challenges)
 
-Back
-
-* [About](https://sphero.com/pages/about-us)
-* [Blog](https://sphero.com/blogs/news)
-* [Contact Us](https://sphero.com/pages/contact-us)
+* [Manage Your Team](https://edu.sphero.com/sgc)
 
 [![Sphero logo ](//sphero.com/cdn/shop/files/sphero-logo-main_140x_2x_bf7493de-3d9b-4691-96d1-266d672f8782_140x.png?v=1614773987)](https://sphero.com/)
 
@@ -142,36 +154,52 @@ Already have an account? Login here
 Cart/Quote](https://sphero.com/cart)
 
 * [Shop](https://sphero.com/collections/all)
-    * [Robots](https://sphero.com/collections/coding-robots)
-    * [littleBits](https://sphero.com/collections/design-build-systems)
-    * [Blueprint](https://sphero.com/collections/blueprint)
-    * [School](https://sphero.com/collections/for-school)
-    * [Home](https://sphero.com/collections/for-home)
-* [Teach](https://sphero.com/pages/educators)
-    * [Schedule a Virtual Demo](https://sphero.com/pages/meet-the-team)
+    * Shop by Product
+    * [indi](https://sphero.com/collections/all/family_indi)
+    * [Mini](https://sphero.com/collections/all/family_mini)
+    * [BOLT+](https://sphero.com/collections/all/family_bolt)
+    * [RVR+](https://sphero.com/collections/all/family_rvr)
+    * [Blueprint Engineering](https://sphero.com/collections/all/family_blueprint)
+    * [littleBits](https://sphero.com/collections/all/family_littlebits)
     * [Professional Development](https://sphero.com/pages/professional-development)
-    * [Standards Alignment](https://sphero.com/pages/standards-alignment)
-    * [Funding & Grants](https://sphero.com/pages/stem-computer-science-funding)
-    * [Case Studies & Whitepapers](https://sphero.com/pages/case-studies)
-    * [Webinars](https://sphero.com/pages/webinars)
-* [Lessons & Resources](https://sphero.com/pages/activities)
+    
+    * Shop by Age
+    * [Early Learning](https://sphero.com/collections/all/grade_early-learning)
+    * [Elementary](https://sphero.com/collections/all/grade_elementary)
+    * [Middle School](https://sphero.com/collections/all/grade_middle-school)
+    * [High School](https://sphero.com/collections/all/grade_high-school)
+    
+    * [Shop All](https://sphero.com/collections/all)
+* [Teacher Resources](https://sphero.com/pages/educators)
+    * Sphero Central
+    * [Lessons & Resources](https://edu.sphero.com/landing)
+    * [indi](https://edu.sphero.com/indi)
+    * [Mini](https://edu.sphero.com/edurobots)
+    * [BOLT+](https://edu.sphero.com/edurobots)
+    * [RVR+](https://edu.sphero.com/edurobots)
+    * [Blueprint](https://edu.sphero.com/blueprint)
+    * [littleBits](https://edu.sphero.com/littlebits)
+    
     * [App Downloads](https://sphero.com/pages/apps)
-    * [Sphero BOLT+](https://edu.sphero.com/edurobots)
-    * [Sphero BOLT](https://edu.sphero.com/edurobots)
-    * [Sphero indi](https://edu.sphero.com/indi)
-    * [Sphero RVR+](https://edu.sphero.com/edurobots)
-    * [Sphero littleBits](https://edu.sphero.com/littlebits)
-    * [Sphero Blueprint](https://edu.sphero.com/blueprint)
-    * [Sphero Mini](https://edu.sphero.com/edurobots)
-    * [Computer Science Foundations (Sphero BOLT)](https://sphero.com/pages/computer-science-foundations)
-* [Compete](https://sphero.com/pages/global-challenge)
+    
+    * [Standards Alignment](https://sphero.com/pages/standards-alignment)
+    
+    * [Webinars](https://sphero.com/pages/webinars)
+* [Funding & Grants](https://sphero.com/pages/stem-computer-science-funding)
+    * [ESSER & American Rescue Plan](https://sphero.com/pages/esser-recovery-funding)
+    * [Federal & State](https://sphero.com/pages/federal-state-grants)
+    * [Corporate & Organizational](https://sphero.com/pages/corporate-organizational-grants)
+    * [Crowdfunding](https://sphero.com/pages/crowdfunding-opportunities)
+    * [Sample RFP/Grant Language](https://sphero.com/pages/stem-computer-science-funding#samplerfp)
+    
+    * [Schedule a Virtual Demo](https://sphero.com/pages/meet-the-team)
+* [Sphero Global Challenge](https://sphero.com/pages/global-challenge)
+    * Age Brackets
     * [Early Elementary](https://sphero.com/products/season-5-early-elementary-registration)
     * [Upper Elementary](https://sphero.com/products/season-5-upper-elementary-registration)
     * [Middle School](https://sphero.com/products/season-5-middle-school-registration)
-    * [Past Year's Challenges](https://sphero.com/collections/past-years-challenges)
-* [About](https://sphero.com/pages/about-us)
-    * [Blog](https://sphero.com/blogs/news)
-    * [Contact Us](https://sphero.com/pages/contact-us)
+    
+    * [Manage Your Team](https://edu.sphero.com/sgc)
 
 Cookie Policy
 =============
@@ -189,6 +217,7 @@ Subscribe
 Company
 
 * [About Us](https://sphero.com/pages/about-us)
+* [Schedule a Meeting (US Sales)](https://sphero.com/pages/meet-the-team)
 * [Press](https://sphero.com/pages/press-awards)
 * [Partnerships](https://sphero.com/pages/stem-partnerships)
 * [Ambassador Programs](https://sphero.com/pages/ambassador-program)
@@ -197,10 +226,9 @@ Company
 
 Support
 
-* [Contact Customer Support](https://sphero.com/pages/contact-us)
-* [Schedule a Meeting (US Sales)](https://sphero.com/pages/meet-the-team)
+* [FAQ](https://sphero.com/support)
+* [Customer Support](https://sphero.com/pages/contact-us)
 * [International Sales](https://sphero.com/pages/contact-a-rep-intl)
-* [FAQ](http://sphero.com/support)
 * [Privacy Policy](https://sphero.com/pages/privacy)
 * [Cookie Policy](https://sphero.com/pages/cookie-policy)
 * [Accessibility](https://sphero.com/pages/accessibility-commitment)
@@ -210,9 +238,9 @@ Support
 
 Resources
 
-* [Product Resources & Activities](https://sphero.com/pages/activities)
-* [Professional Development](https://sphero.com/pages/professional-development)
-* [Standards Alignment](https://sphero.com/pages/standards-alignment)
+* [Lessons & Resources](https://sphero.com/pages/activities)
+* [Blog](https://sphero.com/blogs/news)
+* [Case Studies & White Papers](https://sphero.com/pages/case-studies)
 * [Product Manuals](https://support.sphero.com/article/63fu8r4b9e-product-information-guides)
 * [Sphero SDK](https://sdk.sphero.com/)
 * [STEM Summer Camps & After School Programs](https://sphero.com/pages/stem-summer-camps)
