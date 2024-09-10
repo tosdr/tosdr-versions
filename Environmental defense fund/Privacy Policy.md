@@ -1,3 +1,5 @@
+[Last chance: Triple your impact to build a vital Earth for everyone.](https://www.edf.org/donate/?addl_info=earth-day-sf) [Donate today](https://www.edf.org/donate/?addl_info=earth-day-sf)
+
 [Donate today for a $2-for-$1 match and triple your impact for people and nature](https://www.edf.org/donate/?addl_info=earth-day-sf) [Give now](https://www.edf.org/donate/?addl_info=earth-day-sf)
 
       
