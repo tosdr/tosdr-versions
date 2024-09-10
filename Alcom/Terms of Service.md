@@ -4,17 +4,21 @@ Set weather
 
 Back To Main MenuClose
 
-Customize Your Weather
+Quick Look
 
-Set Your Location:
+\-
 
-Enter City and State or Zip Code
+Change your current location »
 
-Submit
+Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388) \-Mostly Sunny
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1354)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1354)](https://www.al.com/)
+Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388)Low \-Mostly Sunny
 
-Alabama
+Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1388)High \-Mostly Sunny
+
+View full weather report
+
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1388)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1388)](https://www.al.com/)
 
 * [Birmingham](https://www.al.com/birmingham)
 * [Huntsville](https://www.al.com/huntsville)
@@ -30,7 +34,7 @@ SubscribeSubscribeBirmingham News | the LedeHuntsville Times | the LedePress-Reg
 USER AGREEMENT
 ==============
 
-Last updated: July 1, 2024
+Last updated: August 1, 2024
 
 1. [INTRODUCTION, ARBITRATION NOTICE & CLASS ACTION WAIVER](#introduction)
 2. [MONITORING AND COMPLAINTS AGAINST OTHER USERS](#monitor_top)
@@ -135,7 +139,7 @@ Last updated: July 1, 2024
         1. The Service is not intended for users under the age of 13, and such users are expressly prohibited from using the Service, registering for any Products such as contests or surveys, making any purchases, or registering for any aspect of the Service, and by taking such actions you agree, represent, warrant, covenant and guarantee that you are 13 years of age or older. PARENTS: Note that parental controls (such as computer hardware, software, and filtering services) are available that may help limit access to material deemed inappropriate for minors.
         2. You shall ensure that the Device and all equipment, hardware, software, products and/or services you use to access, visit, or use the Service does not disturb or interfere with our operation of the Service, or impede or interfere with others' access, visitation and/or use of the Service. We reserve the right, in addition to our other remedies, with or without notice, to immediately disconnect from the Service any Device or other equipment, hardware, software, product and/or services causing interference with us, Third Party Providers, the Service or any Product or Content.
         3. If you provide to us the number for a Device, or we obtain the device identifier for a Device you are using, you agree, represent, warrant, covenant and guarantee that such Device is registered in your name and owned by you, or that you have permission of the Device owner(s).
-        4. Unless otherwise specified, the Service is intended for your personal, non-commercial use only. You may not access and/or store the Service or any of its Content except for personal, non-commercial use. You are solely responsible for all usage of, or activities on, the Service by you and by those you authorize or allow to use, or provide access to, the Service, for example, by authorizing or allowing access to your account/profile or any Device on which the Service resides or is accessible.
+        4. Unless otherwise specified, the Service is intended for your personal, non-commercial use only. You may not access, visit, use and/or store the Service or any of its Content except for personal, non-commercial use. Non-commercial use does not include use of the Service— except with prior written consent—in connection with the development, training, fine tuning, grounding (including through retrieval-augmented generation (RAG)), of any large language model, foundation model, deep machine learning, generative artificial intelligence model or algorithm, or any software or tool that incorporates generative artificial intelligence. You are solely responsible for all usage of, or activities on, the Service by you and by those you authorize or allow to use, or provide access to, the Service, for example, by authorizing or allowing access to your account/profile or any Device on which the Service resides or is accessible.
         5. You acknowledge that we have not reviewed and do not necessarily endorse the Content or Products available on or through sites, applications, destinations or services linked to or accessible from this Service and are not responsible for the Content, Products or actions of any other sites, applications, destinations or services. Your linking to or accessing any other site, application, destination or service is at your sole risk.
         6. You must comply with all local, state, federal, provincial, national, international, and foreign laws, rules, and regulations in accessing and using the Service, and will immediately notify us if you learn of or suspect a security breach or any illegal activity in connection with the Service.
         7. You must comply with all applicable import and export control laws, rules, and regulations of the United States and other countries, and you must not transfer, by electronic transmission or otherwise, any Content or Products subject to restrictions under such laws, rules, or regulations to a site, application, destination, location, person or entity, or for an end use, prohibited thereby. You will not post, upload, transmit, send or otherwise make available any Content on or through the Service that cannot be exported without prior government authorization or notification, including without limitation certain types of encryption software.
@@ -155,7 +159,7 @@ Last updated: July 1, 2024
             * post, upload, transmit, send, or otherwise make available on or through the Service any unsolicited bulk communication;
             * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content you may post, upload, transmit, send, or otherwise make available on or through the Service;
             * use any bots, cheats, macros, scripts, or run Maillist, Listserv or any form of auto-responder, or use any other automated process, or engage in meta-searching or periodic caching of information, to access, visit and/or use the Service, including without limitation to post, upload, transmit, send, or other make available Content on or through the Service;
-            * copy, harvest, crawl, index, scrape, spider, mine, gather, extract, compile, obtain, aggregate, capture, access, store, or republish any Content on or through the Service, including by an automated or manual process or otherwise, for any and all purposes other than indexing Content for inclusion in a Search Engine, including but not limited to any purpose related to data mining and/or the training or operation of any software or service to the extent that it incorporates a large language model, foundation model, deep machine learning, generative artificial intelligence, or any other process of a nature commonly referred to as artificial intelligence;
+            * copy, harvest, crawl, index, scrape, spider, mine, gather, extract, compile, obtain, aggregate, capture, access, store, or republish any Content on or through the Service, including by an automated or manual process or otherwise, for any and all purposes other than indexing Content for inclusion in a Search Engine, including but not limited to any purpose related to data mining and/or the training development, testing, fine-tuning, improvement, grounding (including through RAG), or operation of any software or service, including any architectures, models, or weights contained therein, to the extent that it incorporates a large language model, foundation model, deep machine learning, generative artificial intelligence, or any other process of a nature commonly referred to as artificial intelligence;
             * engage in personal attacks, use any language that is, or post, upload, transmit, send or otherwise make available on or through the Service any Content about an individual that is, abusive, intimidating, bullying, harassing, hateful, violent, or that victimizes, degrades, defiles or disparages an individual, on or through the Service;
             * use any language that is, or post, upload, transmit, send or otherwise make available on or through the Service any Content about a group that is, hateful, violent, or that victimizes, degrades, defiles or disparages any group based on race, gender, gender identity, religion, national origin, disability, sexual orientation, or age, or otherwise engage in what we deem to be racism, sexism, ageism, religious intolerance, bigotry, ethnic slurs, or homophobia;
             * use any language, or post, upload, transmit, send or otherwise make available on or through the Service any Content that may or is intended to enable, authorize, instruct, encourage, assist, suggest, or promote activities that incite violence, constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, federal, provincial, national, international, or foreign law, rule or regulation (e.g., drug use, underage drinking), including without limitation defamation, child pornography, fraud, or invasion of privacy;
@@ -334,7 +338,7 @@ Last updated: July 1, 2024
     
     "Product” means any merchandise, item, product and/or service, including without limitation Content, contests and surveys, magazines and other publications that may be featured, mentioned, reviewed, described, auctioned, given away, rented, sold, distributed, or otherwise available on or through the Service, either by us or third parties.
     
-    “Search Engine” means a free, publicly-accessible database of information accessed on, through or using the internet where results are displayed in response to specific individual search queries as a brief extract of text and/or thumbnail image, as well as a link to the webpage where such information is published, displayed or otherwise made available.
+    “Search Engine” means a free, publicly-accessible database of information accessed on, through or using the internet where results are displayed in response to specific individual search queries as a brief extract of text and/or thumbnail image, as well as a link to the webpage where such information is published, displayed or otherwise made available. For the avoidance of doubt, Search Engine does not include software or services, such as conversational agents or chatbots, that are capable of utilizing, querying, retrieving information from, and/or integrating with a search engine.
     
     “Service” means each website, mobile site, application, email/text/SMS campaign, event, and/or other activity, offering, or publication (regardless of how distributed, transmitted, published, or broadcast) provided by us that links to, or references, this document, including without limitation all Content, features and functionality thereof, such as widgets, plug-ins, and embeddable players.
     
@@ -352,7 +356,7 @@ Last updated: July 1, 2024
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1354)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1388)
 
 About Us
 
@@ -431,20 +435,24 @@ More on AL.com
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
 
+Cookie Settings![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1388)
+
+* |[Privacy Policy](https://www.al.com/privacy-policy/)
+* |[User Agreement](https://www.al.com/user-agreement/)
+* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1388)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1354)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1388)](https://www.advancelocal.com/)
 
-Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/) (updated 7/1/2024), [Privacy Policy and Cookie Statement](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
-
-Cookie Settings![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1354)
+Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
 
 © 2024 Advance Local Media LLC. All rights reserved ([About Us](https://www.al.com/aboutus/)).  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
 
 [Community Rules](https://www.al.com/communityrules/) apply to all content you upload or otherwise submit to this site.
 
-**YouTube’s privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube’s terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
+**YouTube's privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube's terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1354)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1388)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
