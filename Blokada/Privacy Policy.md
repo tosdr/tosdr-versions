@@ -127,7 +127,7 @@ The website used for activating the VPN service utilizes only the following few 
 
 This Privacy policy may be updated and, in such case, a new version will be published on [support.blokada.org](http://support.blokada.org/).
 
-  10 Likes
+  9 Likes
 
 [How to convince my friend that Blokada VPN Tunnel is better than ExpressVPN](https://community.blokada.org/t/how-to-convince-my-friend-that-blokada-vpn-tunnel-is-better-than-expressvpn/709/2) 
 
@@ -145,11 +145,11 @@ This Privacy policy may be updated and, in such case, a new version will be publ
 
 | Topic |     | Replies | Views | Activity |
 | --- | --- | --- | --- | --- |
-| [Blokada Cloud Privacy Policy](https://community.blokada.org/t/blokada-cloud-privacy-policy/16982)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-cloud](https://community.blokada.org/tag/blokada-cloud) | 0   | 25518 | September 25, 2021 |
-| [Terms of Service](https://community.blokada.org/t/terms-of-service/4)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 205051 | December 5, 2021 |
-| [Ignorance about blokada VPN](https://community.blokada.org/t/ignorance-about-blokada-vpn/9660)<br><br>[Support](https://community.blokada.org/c/support/21) | 2   | 2940 | January 24, 2021 |
-| [What is Blokada Plus (VPN)?](https://community.blokada.org/t/what-is-blokada-plus-vpn/37)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [linked](https://community.blokada.org/tag/linked) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 28  | 571635 | December 12, 2021 |
-| [What is Blokada?](https://community.blokada.org/t/what-is-blokada/23)<br><br>[Guides](https://community.blokada.org/c/guides/12)<br><br>[getting-started](https://community.blokada.org/tag/getting-started) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 0   | 9161 | June 16, 2020 |
+| [Do I have a Blokada account?](https://community.blokada.org/t/do-i-have-a-blokada-account/40)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 0   | 12926 | June 16, 2020 |
+| [Alternative payment without using the play store](https://community.blokada.org/t/alternative-payment-without-using-the-play-store/22057)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [android](https://community.blokada.org/tag/android) | 2   | 596 | March 16, 2022 |
+| [Renew Blokada Plus](https://community.blokada.org/t/renew-blokada-plus/25345)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 402 | August 2, 2022 |
+| [Paying for a Blokada account with cryptocurrency?](https://community.blokada.org/t/paying-for-a-blokada-account-with-cryptocurrency/23467)<br><br>[Other Discussions](https://community.blokada.org/c/other/10) | 2   | 427 | May 13, 2022 |
+| [Very bewildered about blokada 5 vs blokada 6](https://community.blokada.org/t/very-bewildered-about-blokada-5-vs-blokada-6/25557)<br><br>[Other Discussions](https://community.blokada.org/c/other/10)<br><br>[android](https://community.blokada.org/tag/android) | 4   | 2379 | August 10, 2022 |
 
 * [Home](https://community.blokada.org/)
 * [Categories](https://community.blokada.org/categories)
