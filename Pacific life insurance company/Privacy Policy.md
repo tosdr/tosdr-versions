@@ -34,7 +34,7 @@
     
     _close_
     
-    * [About Us](https://www.pacificlife.com/home/about.html "About Us") Whether you’re protecting your loved ones or growing your assets, you’re highly invested in your financial future. And so are we. When you purchase life and retirement insurance, you’re buying a promise. A promise that today, tomorrow or ten years from now, we’ll be there. For more than 150 years, we’ve fulfilled that promise. Our clients trust Pacific Life to protect what matters most to them—their families, their businesses, their futures.
+    * [About Us](https://www.pacificlife.com/home/about.html "About Us") Whether you’re protecting your loved ones or growing your assets, you’re highly invested in your financial future. And so are we. When you purchase life and retirement insurance, you’re buying a promise. A promise that today, tomorrow or ten years from now, we’ll be there. For nearly 160 years, we’ve fulfilled that promise. Our clients trust Pacific Life to protect what matters most to them—their families, their businesses, their futures.
         * [Overview](https://www.pacificlife.com/home/about/overview.html "Overview")
         * [Our Brand](https://www.pacificlife.com/home/about/brand.html "Our Brand")
         * [Insurance Ratings & Financials](https://www.pacificlife.com/home/about/insurance-ratings-and-financials.html "Insurance Ratings & Financials")
