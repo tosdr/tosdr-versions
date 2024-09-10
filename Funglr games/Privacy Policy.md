@@ -90,6 +90,12 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 ###  New entry
 
+* [_![[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/08/acghk2024-cosplayer-part2-00-150x150.jpg "[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2")_
+    
+    **\[ACGHK 2024\] Cosplayers from Hong Kong Biggest Anime Event ACGHK Part2**2024.08.17(Sat)](https://saiganak.com/event/acghk2024-cosplayer-part2/ "[ACGHK 2024]  Cosplayers from Hong Kong Biggest Anime Event ACGHK  Part2")
+* [_![Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/08/acghk2024-showgirl-00-02-150x150.jpg "Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!")_
+    
+    **Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!**2024.08.01(Thu)](https://saiganak.com/event/acghk2024-promotional-model/ "Show Girl Special Feature at ACGHK 2024 – Hong Kong’s Biggest Anime Festival!")
 * [_![[EVO 2024] Photo Report from Las Vegas!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/evo-2024-booth-photo-report-00-150x150.jpg "[EVO 2024] Photo Report from Las Vegas!")_
     
     **\[EVO 2024\] Photo Report from Las Vegas!**2024.07.21(Sun)](https://saiganak.com/event/evo-2024-booth-photo-report/ "[EVO 2024] Photo Report from Las Vegas!")
@@ -99,34 +105,28 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 * [_![GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/07/gendagigo-vietnam-00-150x150.jpg "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")_
     
     **GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast As…**2024.07.04(Thu)](https://saiganak.com/news/gendagigo-vietnam/ "GiGO Vietnam Launches on June 28, Expanding Amusement Centers into Southeast Asia")
-* [_!["VSPO! "Brave group announces compensation of Information leak](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/bravegroup-personal-data-breach-streaming-resume-00-150x150.jpg ""VSPO! "Brave group announces compensation of Information leak")_
-    
-    **"VSPO! "Brave group announces compensation of Information leak**2024.06.28(Fri)](https://saiganak.com/news/bravegroup-personal-data-breach-streaming-resume/ ""VSPO! "Brave group announces compensation of Information leak")
-* [_![Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!](https://i0.wp.com/saiganak.com/wp-content/uploads/2024/06/fujii4dan-ynu-june2024-bar-00-150x150.jpg "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")_
-    
-    **Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!**2024.06.13(Thu)](https://saiganak.com/event/fujii4dan-ynu-june2024-bar/ "Smash Bros. player "Fujii 4dan" to hold an event in Tokyo Japan, on June 14!")
 
 ### Pocket ranking
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280c.jpg)](https://accesstra.de/0050f1000ymk)
+[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
 
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
-    
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
 * [![Red Bull's new flavor,  lychee flavored ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/07/redbull-blue-edition-00-150x150.jpg "Red Bull's new flavor,  lychee flavored ")
     
     Red Bull's new flavor, lychee flavored "Red Bull Blue Edition"!](https://saiganak.com/review/redbull-blue-edition/ "Red Bull's new flavor,  lychee flavored ")
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
-    
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
     
     "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
+    
+    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
+* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
+    
+    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
+* [![Haomaru's favorite sword ](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/snk-samuraispirits2019-150x150.jpg "Haomaru's favorite sword ")
+    
+    Haomaru's favorite sword "Meito FuguDoku"on sale!](https://saiganak.com/product/meitoh-fugudoku-preorder/ "Haomaru's favorite sword ")
 
 [](#top)
 
