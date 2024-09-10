@@ -98,7 +98,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 * * *
 
-© 2023 [Politiwatch](https://politiwatch.org/)
+© 2024 [Politiwatch](https://politiwatch.org/)
 
 [Terms & Privacy](https://privacyspy.org/terms-and-privacy/)
 
