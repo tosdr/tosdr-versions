@@ -8,10 +8,6 @@ svg gradient [Skip to main content](#main-content)
     solutions &  
     services](https://www.nuance.com/healthcare.html)
     
-     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-omnichannel.png) Omnichannel  
-    customer  
-    engagement](https://www.nuance.com/omni-channel-customer-engagement.html)
-    
      [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-dragon.png) Dragon  
     consumer &  
     enterprise](https://www.nuance.com/dragon.html)
@@ -35,9 +31,6 @@ svg gradient [Skip to main content](#main-content)
 * [Support](#)
     
      [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-healthcare.png) Healthcare AI](https://www.nuance.com/healthcare/support.html)
-    
-     [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-omnichannel.png) Omni-channel  
-    customer engagement](https://www.nuance.com/omni-channel-customer-engagement/support/enterprise-speech-solutions.html)
     
      [![](/asset/shared-images/ui/navigation/primary-navigation/single-row-icons/icon-nav-primary-dragon.png) Dragon  
     consumer  
