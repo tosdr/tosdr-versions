@@ -1,8 +1,8 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                      Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                              Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                        [Skip to content](#main)
 
 [](# "Previous")
 
-* [Up to $500 off ebikes. Shop Now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $500 off ebikes. Shop Now.")
+* [Up to $700 in savings. Shop now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $700 in savings. Shop now.")
     
 
 [](# "Next")
@@ -50,7 +50,7 @@
     
     ##### Step-thru
     
-    No limits to your adventures.](https://www.radpowerbikes.com/collections/step-through-electric-bikes/frame_step-thru "Step-thru")[![Fat & Mid-Fat Tire](//www.radpowerbikes.com/cdn/shop/products/Rover6HS_Charcoal_side_240x.png?v=1652135901)
+    No limits to your adventures.](https://www.radpowerbikes.com/collections/step-through-electric-bikes/frame_step-thru "Step-thru")[![Fat & Mid-Fat Tire](//www.radpowerbikes.com/cdn/shop/files/Runner_2_Black_Orange_Logo_Right_Side_1_240x.png?v=1699657236)
     
     ##### Fat & Mid-Fat Tire
     
@@ -70,11 +70,11 @@
     
     ##### RadWagon
     
-    Electric cargo bike](https://www.radpowerbikes.com/collections/radwagon-electric-cargo-bikes "RadWagon")[![RadRover](//www.radpowerbikes.com/cdn/shop/products/Rover6HS_Charcoal_side_240x.png?v=1652135901)
+    Electric cargo bike](https://www.radpowerbikes.com/collections/radwagon-electric-cargo-bikes "RadWagon")[![RadRover](//www.radpowerbikes.com/cdn/shop/files/Rover_6_Plus_ST_Steelhead_Green_Right_Side_2_240x.png?v=1725580577)
     
     ##### RadRover
     
-    Electric fat tire bike](https://www.radpowerbikes.com/collections/radrover-fat-tire-electric-bikes "RadRover")[![RadCity](//www.radpowerbikes.com/cdn/shop/products/City5ST_Charcoal_side_240x.png?v=1698102760)
+    Electric fat tire bike](https://www.radpowerbikes.com/collections/radrover-fat-tire-electric-bikes "RadRover")[![RadCity](//www.radpowerbikes.com/cdn/shop/products/City5HS_Charcoal_side_240x.png?v=1724361773)
     
     ##### RadCity
     
@@ -86,11 +86,17 @@
     
     ##### Trike
     
-    Electric tricycle](https://www.radpowerbikes.com/collections/electric-tricycles "Trike")
+    Electric tricycle](https://www.radpowerbikes.com/collections/electric-tricycles "Trike")[![Lightweight](//www.radpowerbikes.com/cdn/shop/files/Kick_Belt_Drive_Midnight_Blue_Right_Side_240x.png?v=1721682104)
     
-    [##### Ebike Finder Quiz
+    ##### Lightweight
     
-    Find your perfect fit with our quiz.](https://www.radpowerbikes.com/pages/ebike-finder "Ebike Finder Quiz")[##### Shop Best Sellers
+    Low cost. High quality.](https://www.radpowerbikes.com/collections/electric-lightweight-bikes "Lightweight")[![RadKick](//www.radpowerbikes.com/cdn/shop/files/Kick_7_Speed_Arctic_White_Right_Side_240x.png?v=1721339689)
+    
+    ##### RadKick
+    
+    Lighter ebike. Lighter price.](https://www.radpowerbikes.com/collections/radkick-electric-lightweight-bikes "RadKick")
+    
+    [##### Shop Best Sellers
     
     Check out our most popular ebikes.](https://www.radpowerbikes.com/collections/best-sellers "Shop Best Sellers")[##### Compare models
     
@@ -631,13 +637,13 @@ Company
 -------
 
 * [Rad Service](https://www.radpowerbikes.com/pages/rad-service)
-* [Stores](https://www.radpowerbikes.com/pages/locations)
+* [Stores & Local Bike Shops](https://www.radpowerbikes.com/pages/locations)
+* [RadRetail Stores](https://www.radpowerbikes.com/pages/all-radretail)
 * [The Scenic Route](https://www.radpowerbikes.com/blogs/the-scenic-route)
 * [CareersWE'RE HIRING](https://www.radpowerbikes.com/pages/careers)
 * [Press](https://press.radpowerbikes.com/)
 * [Become a Rad Dealer](https://www.radpowerbikes.com/pages/rad-retail-partnership)
 * [Become an Affiliate](https://www.radpowerbikes.com/pages/partner-with-us)
-* [Rad Ambassador Program](https://radbikes.aspireiq.com/join/rad-bikes-ambassador-fall-program?clientId=m116KU7nxETeGD1ejv7NLe4xjlXiRuw7)
 * [Commercial/Fleet Sales](https://www.radpowerbikes.com/pages/commercial)
 * [Rad Power Bikes Canada](https://radpowerbikes.ca/)
 * [Rad Power Bikes Europe](https://radpowerbikes.eu/)
