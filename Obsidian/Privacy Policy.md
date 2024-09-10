@@ -221,11 +221,11 @@ Version history
 
 * Community
 * [Join the community](https://obsidian.md/community)
-* [Brand guidelines](https://obsidian.md/brand)
-* [Merch store](https://obsidian.md/softwear)
 * [Discord](https://discord.gg/obsidianmd)
 * [Forum](https://forum.obsidian.md/) / [中文论坛](https://forum-zh.obsidian.md/)
-* [Reddit](https://www.reddit.com/r/ObsidianMD/)
+* [Merch store](https://obsidian.md/softwear)
+* [Brand guidelines](https://obsidian.md/brand)
+* [System status](https://status.obsidian.md/)
 
 [](https://obsidian.md/)
 
