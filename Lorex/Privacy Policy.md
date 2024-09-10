@@ -84,7 +84,7 @@ triangle borderless
     
     1080p Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b241ajd-1080p-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/baa90d4e425dcde5d7d836312e8ff760916244e18e45390efffcae46097ad8a2_80x.png?v=1699884876)
     
-    2K Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)[![](//www.lorex.com/cdn/shop/files/78c9a75b71988110fd9f6fdc6eeec4bc833c814aef482add52131b738b24b702_80x.png?v=1699892265)
+    2K Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)[![](//www.lorex.com/cdn/shop/files/78c9a75b71988110fd9f6fdc6eeec4bc833c814aef482add52131b738b24b702_80x.png?v=1725051815)
     
     2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
     
@@ -117,6 +117,8 @@ triangle borderless
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
+    * [Ultimate Value IP Cameras](https://www.lorex.com/collections/lorex-a4-series)
+    * [Smart Lock 50% Off Blowout](https://www.lorex.com/products/lk100-smart-lock)
     
 * Lorex Smart Home arrow right
     
@@ -143,7 +145,9 @@ triangle borderless
     * [Glossary](https://www.lorex.com/pages/glossary)
     * [Warranty Information](https://www.lorex.com/pages/warranty)
     * [Returns](https://returns.lorex.com/)
+    * [About Sales Tax](https://pro.lorex.com/pages/about-sales-tax)
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
+    * [Reset Device Password](https://www.lorex.com/account/login?return_to=/pages/forgotnvrpin-setup)
     
 
 Country (US)
@@ -224,7 +228,7 @@ arrow left Back
 
 Clear close
 
-All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
+All categories arrow bottom All categoriesAccessoriesAnalog Security CameraAnalog Security CamerasAnalog Security SystemCablesCloud SubscriptionConnectorsConverterDoorbell AccessoriesDoorbellsDVR Camera SystemExtend Protection PlanExtend Service ContractExtend Shipping ContractFloodlightsHard DrivesIP CameraIP Security CameraIP Security CamerasIP Security SystemJunction BoxesLorex Smart Home Security CenterMicroSD CardsMounts and BracketsNVRNVR Security SystemPoE SwitchesPower AdaptersRange ExtendersRechargeable Battery PacksSecurity DVRSecurity NVRSensorsSmart LockSolar PanelsThe Fusion CollectionWarning DecalWi-Fi Security CameraWi-Fi Security CamerasWire-Free Security CamerasWire-Free Security Systems
 
 search search loader
 
@@ -271,7 +275,7 @@ Lost password? [Recover password](https://www.lorex.com/account#recover-password
 
 Partner Portal [B2B Pricing](https://pro.lorex.com/)
 
-Liquid error (sections/header line 488): Could not find asset snippets/recover\_customer\_password--header.liquid
+Liquid error (sections/header line 494): Could not find asset snippets/recover\_customer\_password--header.liquid
 
 Remembered your password? Back to login
 
@@ -368,6 +372,7 @@ Your cart is empty
     * [IP (NVR) Security Cameras](https://www.lorex.com/collections/ip-security-cameras)
     * [Analog (DVR) Security Cameras](https://www.lorex.com/collections/analog-security-cameras)
     * [PTZ Security Cameras](https://www.lorex.com/collections/ptz-cameras)
+    * [4K Security Cameras](https://www.lorex.com/collections/4k-security-cameras)
     
     [**Shop All >**](https://www.lorex.com/collections/security-cameras)
     
@@ -448,7 +453,7 @@ Your cart is empty
     
     Rechargeable security cameras that wirelessly connect to a recorder](https://www.lorex.com/collections/wire-free-security-systems)
     
-    * [Wire-Free Security Systems](https://www.lorex.com/collections/wire-free-security-systems)
+    * [Battery-Operated Security System...](https://www.lorex.com/collections/wire-free-security-systems)
     * [Wire-Free Security Cameras](https://www.lorex.com/collections/wire-free-security-cameras)
     
     [**Shop All >**](https://www.lorex.com/collections/wire-free-security-systems)
@@ -497,7 +502,7 @@ Your cart is empty
     
     2K Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
     
-    [![](//www.lorex.com/cdn/shop/files/78c9a75b71988110fd9f6fdc6eeec4bc833c814aef482add52131b738b24b702_x150.png?v=1699892265)
+    [![](//www.lorex.com/cdn/shop/files/78c9a75b71988110fd9f6fdc6eeec4bc833c814aef482add52131b738b24b702_x150.png?v=1725051815)
     
     2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)
     
@@ -542,6 +547,10 @@ Your cart is empty
     
     [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
     
+    [Ultimate Value IP Cameras](https://www.lorex.com/collections/lorex-a4-series)
+    
+    [Smart Lock 50% Off Blowout](https://www.lorex.com/products/lk100-smart-lock)
+    
 * [Lorex Smart Home arrow bottom](https://www.lorex.com/collections/smart-home)
     
     [Smart Home Solutions](https://www.lorex.com/collections/smart-home)
@@ -567,7 +576,9 @@ Your cart is empty
     * [Glossary](https://www.lorex.com/pages/glossary)
     * [Warranty Information](https://www.lorex.com/pages/warranty)
     * [Returns](https://returns.lorex.com/)
+    * [About Sales Tax](https://pro.lorex.com/pages/about-sales-tax)
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
+    * [Reset Device Password](https://www.lorex.com/account/login?return_to=/pages/forgotnvrpin-setup)
 
 Privacy policy
 ==============
@@ -1006,8 +1017,6 @@ arrow bottom
 * [Careers](https://www.lorex.com/pages/careers)
 * [FAQs](https://www.lorex.com/pages/frequently-asked-questions)
 
-[Trustpilot](https://www.trustpilot.com/review/lorextechnology.com?stars=5)
-
 ​
 
 ​
@@ -1028,7 +1037,7 @@ Lorex products are designed for consumer and business use only and not for US fe
 
 **© 2024 Lorex Corporation**
 
-American Express Apple Pay Diners Club Discover Google Pay JCB Maestro Mastercard PayPal Shop Pay Union Pay Venmo Visa
+Amazon American Express Apple Pay Diners Club Discover Google Pay JCB Maestro Mastercard PayPal Shop Pay Union Pay Venmo Visa
 
 ×
 
