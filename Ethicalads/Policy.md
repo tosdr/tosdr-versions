@@ -94,6 +94,7 @@ A division of [Read the Docs](https://readthedocs.org/?ref=ethicalads-footer)
 * [Top Publishers](https://www.ethicalads.io/publishers/list/)
 * [Advertiser Prospectus](https://www.ethicalads.io/prospectus/ethicalads-advertiser-prospectus.pdf)
 * [Campaign Calculator](https://ethicalads.io/advertisers/calculator/)
+* [Niche Targeting Demo](https://www.ethicalads.io/advertisers/similar-pages/)
 * [Advertiser FAQ](https://www.ethicalads.io/advertisers/faq/)
 * [Advertiser Login](https://server.ethicalads.io/)
 
