@@ -16,23 +16,23 @@
     * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     
     * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+    * [Binarity](https://www.servers.com/about/customer-stories/binarity)
     * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
-    * [GoNET](https://www.servers.com/about/customer-stories/gonet)
     
     * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
+    * [GoNET](https://www.servers.com/about/customer-stories/gonet)
     * [FxGrow](https://www.servers.com/about/customer-stories/fxgrow)
-    * [Nitrado](https://www.servers.com/about/customer-stories/nitrado)
     
+    * [Nitrado](https://www.servers.com/about/customer-stories/nitrado)
     * [Vizor Games](https://www.servers.com/about/customer-stories/vizor-games)
     * [Virtuozzo](https://www.servers.com/about/customer-stories/virtuozzo)
-    * [Shockbyte](https://www.servers.com/about/customer-stories/helping-shockbyte-empower-gaming-communities-with-uninterrupted-play)
     
+    * [Shockbyte](https://www.servers.com/about/customer-stories/helping-shockbyte-empower-gaming-communities-with-uninterrupted-play)
     * [Bware Labs](https://www.servers.com/about/customer-stories/partnering-with-bware-labs-to-enable-a-multichain-future)
     * [Indifferent Broccoli](https://www.servers.com/about/customer-stories/connecting-indifferent-broccoli-s-gamers-to-their-own-private-worlds-at-the-click-of-a-button)
-    * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
     
+    * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
     * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
-    * [MGID](https://www.servers.com/about/customer-stories/mgid)
     * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
     
     * North America
@@ -55,9 +55,10 @@
         * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     * [Customer Stories](#customer-stories-child)
         * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+        * [Binarity](https://www.servers.com/about/customer-stories/binarity)
         * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
-        * [GoNET](https://www.servers.com/about/customer-stories/gonet)
         * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
+        * [GoNET](https://www.servers.com/about/customer-stories/gonet)
         * [FxGrow](https://www.servers.com/about/customer-stories/fxgrow)
         * [Nitrado](https://www.servers.com/about/customer-stories/nitrado)
         * [Vizor Games](https://www.servers.com/about/customer-stories/vizor-games)
@@ -67,7 +68,6 @@
         * [Indifferent Broccoli](https://www.servers.com/about/customer-stories/connecting-indifferent-broccoli-s-gamers-to-their-own-private-worlds-at-the-click-of-a-button)
         * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
         * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
-        * [MGID](https://www.servers.com/about/customer-stories/mgid)
         * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
     * [Data center locations](#data-center-locations-child)
         * North America
@@ -83,25 +83,25 @@
         * [Luxembourg](https://www.servers.com/about/data-center-locations/luxembourg)
     
 * Industries
+    * [Gaming](https://www.servers.com/industries/gaming)
     * [Streaming](https://www.servers.com/industries/streaming)
     * [Web3](https://www.servers.com/industries/web3)
-    * [Gaming](https://www.servers.com/industries/gaming)
     * [Adtech](https://www.servers.com/industries/adtech)
     * [iGaming](https://www.servers.com/industries/igaming)
     * [Fintech](https://www.servers.com/industries/fintech)
-* News
-    * [Blog](https://www.servers.com/news/blog/)
-    * [Whitepapers](https://www.servers.com/news/whitepapers/)
-    * [Events](https://www.servers.com/news/events/)
 * Products
-    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
-    * [Load balancing](https://www.servers.com/products/load-balancing-service)
     * [Firewall](https://www.servers.com/products/firewall)
-    * [Private cloud](https://www.servers.com/products/private-cloud)
-    * [Private racks](https://www.servers.com/products/private-racks)
     * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
+    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
+    * [Private racks](https://www.servers.com/products/private-racks)
+    * [Load balancing](https://www.servers.com/products/load-balancing-service)
+    * [Private cloud](https://www.servers.com/products/private-cloud)
     * [Cloud storage](https://www.servers.com/products/cloud-storage)
     * [Cloud servers](https://www.servers.com/products/cloud-servers)
+* News
+    * [Blog](https://www.servers.com/news/blog/)
+    * [Events](https://www.servers.com/news/events/)
+    * [Whitepapers](https://www.servers.com/news/whitepapers/)
 * Resources
     * [Report terrorist content](https://www.servers.com/support/report-terrorist-content)
     * [Knowledge base](https://www.servers.com/support/knowledge/)
@@ -111,9 +111,9 @@
 * Company
     * [About servers.com](https://www.servers.com/company/about-servers)
     * [Legal](https://www.servers.com/company/legal/)
-    * [Privacy policy](https://www.servers.com/company/privacy-policy)
-    * [California Privacy Policy](https://www.servers.com/company/california-privacy-policy)
     * [Cookie policy](https://www.servers.com/company/cookie-policy)
+    * [California Privacy Policy](https://www.servers.com/company/california-privacy-policy)
+    * [Privacy policy](https://www.servers.com/company/privacy-policy)
 * [Contact Sales](https://www.servers.com/company/contact-sales)
 * [Support](https://www.servers.com/company/support)
 * [![person](/global/generated/assets/person.svg)Customer portal](https://portal.servers.com/)
@@ -150,39 +150,39 @@ Do you have a specific project, need to make changes to a specific configuration
 
 [Get in touch](https://www.servers.com/company/contact-sales)
 
+##### Why servers.com
+
+* [Customer Stories](https://www.servers.com/about/customer-stories/)
+* [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
+* [Available IP carriers](https://www.servers.com/about/network/available-ip-carriers)
+* [Data center locations](https://www.servers.com/about/data-center-locations/)
+* [Network Performance](https://www.servers.com/about/network/network-performance)
+
 ##### Industries
 
+* [Gaming](https://www.servers.com/industries/gaming)
 * [Streaming](https://www.servers.com/industries/streaming)
 * [Web3](https://www.servers.com/industries/web3)
-* [Gaming](https://www.servers.com/industries/gaming)
 * [Adtech](https://www.servers.com/industries/adtech)
 * [iGaming](https://www.servers.com/industries/igaming)
 * [Fintech](https://www.servers.com/industries/fintech)
 
-##### News
-
-* [Blog](https://www.servers.com/news/blog/)
-* [Whitepapers](https://www.servers.com/news/whitepapers/)
-* [Events](https://www.servers.com/news/events/)
-
 ##### Products
 
-* [Dedicated servers](https://www.servers.com/products/dedicated-servers)
-* [Load balancing](https://www.servers.com/products/load-balancing-service)
 * [Firewall](https://www.servers.com/products/firewall)
-* [Private cloud](https://www.servers.com/products/private-cloud)
-* [Private racks](https://www.servers.com/products/private-racks)
 * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
+* [Dedicated servers](https://www.servers.com/products/dedicated-servers)
+* [Private racks](https://www.servers.com/products/private-racks)
+* [Load balancing](https://www.servers.com/products/load-balancing-service)
+* [Private cloud](https://www.servers.com/products/private-cloud)
 * [Cloud storage](https://www.servers.com/products/cloud-storage)
 * [Cloud servers](https://www.servers.com/products/cloud-servers)
 
-##### Why servers.com
+##### News
 
-* [Available IP carriers](https://www.servers.com/about/network/available-ip-carriers)
-* [Customer Stories](https://www.servers.com/about/customer-stories/)
-* [Network Performance](https://www.servers.com/about/network/network-performance)
-* [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
-* [Data center locations](https://www.servers.com/about/data-center-locations/)
+* [Blog](https://www.servers.com/news/blog/)
+* [Events](https://www.servers.com/news/events/)
+* [Whitepapers](https://www.servers.com/news/whitepapers/)
 
 ##### Resources
 
@@ -201,9 +201,9 @@ Do you have a specific project, need to make changes to a specific configuration
 [![Youtube](/dA/37210fa966/youtube.svg)](https://www.youtube.com/@servers-com "Follow on Youtube")
 
 * [Legal](https://www.servers.com/company/legal/)
-* [Privacy policy](https://www.servers.com/company/privacy-policy)
-* [California Privacy Policy](https://www.servers.com/company/california-privacy-policy)
 * [Cookie policy](https://www.servers.com/company/cookie-policy)
+* [California Privacy Policy](https://www.servers.com/company/california-privacy-policy)
+* [Privacy policy](https://www.servers.com/company/privacy-policy)
 
 Contact us: [sales@servers.com](mailto:sales@servers.com)
 
