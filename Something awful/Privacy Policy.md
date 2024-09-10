@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [The Mind-Blowing Cover Art of Classic D&D](https://www.somethingawful.com/dungeons-and-dragons/classic-dungeons-dragons/1/)
+* [The Hangover Part II; Kung Fu Panda 2; MILF](https://www.somethingawful.com/current-movie-reviews/hangover-part-ii/1/)
 * [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [Mega Marny, Episode 2](https://www.somethingawful.com/flash-tub/marny-cartoon-2/)
-* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
-* [Terrorism Through the Ages](https://www.somethingawful.com/photoshop-phriday/terrorism-through-ages/1/)
-* [Boring Movies](https://www.somethingawful.com/photoshop-phriday/boring-movies/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [The Lawnchair Sniper!](https://www.somethingawful.com/comedy-goldmine/lawnchair-sniper/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [Stereo (Hi-FI) Spousal Justification THread](http://forums.somethingawful.com/showthread.php?threadid=4066997 "Stereo (Hi-FI) Spousal Justification THread")
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [I ran into Neo Butter-kun just now.](http://forums.somethingawful.com/showthread.php?threadid=4067003 "I ran into Neo Butter-kun just now.")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [20 plus years on the forums. What do you remember?](http://forums.somethingawful.com/showthread.php?threadid=4067013 "20 plus years on the forums. What do you remember?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/books.png) [I will make you a Lord of the Rings character, based mostly on your name](http://forums.somethingawful.com/showthread.php?threadid=4070054 "I will make you a Lord of the Rings character, based mostly on your name")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [are peaches supposed to be soft](http://forums.somethingawful.com/showthread.php?threadid=4070028 "are peaches supposed to be soft")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [I can not be the first person to call Seth](http://forums.somethingawful.com/showthread.php?threadid=4070102 "I can not be the first person to call Seth")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Did you have to watch Clean Teen Kenneth Jones?](http://forums.somethingawful.com/showthread.php?threadid=4070031 "Did you have to watch Clean Teen Kenneth Jones?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [Halloween 2024](http://forums.somethingawful.com/showthread.php?threadid=4070039 "Halloween 2024")
 
 ### Random Articles
 
-* [Nothing here to see, move along](https://www.somethingawful.com/news/nothing-here-see/)
-* [Freakypizza: The Sweater Curse](https://www.somethingawful.com/news/sweater-curse-creepypasta/)
-* [Time Stripper Mako](https://www.somethingawful.com/hentai-game-reviews/time-stripper-mako/)
-* [That's Sick: The Greasnin Story](https://www.somethingawful.com/news/thats-sick-greasnin/)
-* [Chemtrail Central, RingSurf, and Xbox](https://www.somethingawful.com/weekend-web/chemtrail-central-ringsurf/1/)
+* [Bling H20](https://www.somethingawful.com/awful-links/bling-h20/)
+* [Cut-Rate Books! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/cutrate-books/1/)
+* [SIGA](https://www.somethingawful.com/awful-links/awful-link-1709/)
+* [Too Long; Didn't See!](https://www.somethingawful.com/comedy-goldmine/cave-dwellers-filmguess/1/)
+* [OLDWALLET.com: Great Deals from Local Seniors!](https://www.somethingawful.com/news/oldwallet4/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
