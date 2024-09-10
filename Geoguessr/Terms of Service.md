@@ -47,13 +47,15 @@ In order to play GeoGuessr you need to create a user account. Your user account 
 
 Profile pictures.The website and app include functions for uploading profile pictures to your user account. By adding pictures to your user account, you are aware that such pictures may be shared with others.
 
-Warranty.You are only allowed to upload pictures that you own or that you are entitled to manage and upload to the website. You are not allowed to upload pictures that include illegal, violent, offensive, pornographic, or otherwise improper content. By uploading pictures to your user account and thereby to the website you warrant that the pictures, and your use of the pictures, in no way violates any applicable legislation or any third party's rights.
+Maps, challenges and/or quizzes.The website and app include functions for creating maps, challenges and/or quizzes, where you may upload user generated content in form of text, images and so on. These maps, challenges and/or quizzes can be private or publicly shared with other players.
 
-Reserved rights.We reserve the right, at any time and at our discretion, to remove any pictures that violate this Section 6 or that we consider to be inappropriate or unsuitable.
+Warranty.You are only allowed to upload content that you own or that you are entitled to manage and upload to the website and app. You are not allowed to upload content that include illegal, violent, offensive, pornographic, or otherwise improper content. By uploading content to the website and app you warrant that the pictures, and your use of the pictures, in no way violates any applicable legislation or any third party's rights. GeoGuessr does not assume any responsibility or liability for content uploaded by you as a user, for removing it, or not removing it or other content.
+
+Reserved rights.We reserve the right, at any time and at our discretion, to remove any content that violate this Section 6 or that we consider to be inappropriate or unsuitable.
 
 ### Simply put:
 
-If you choose to upload a profile picture, it has to be a picture that you own or otherwise have the legal right to use. If you upload any inappropriate or illegal pictures, we have the right to remove such pictures and to suspend you from playing the game.
+If you choose to upload a content to the website and app, it has to be content that you own or otherwise have the legal right to use. If you upload any inappropriate or illegal pictures, we have the right to remove such pictures and to suspend you from playing the game.
 
 7\. Permitted use and prohibited behavior
 
@@ -240,11 +242,11 @@ Your license.Upon acceptance of these Terms, we grant you a limited, revocable, 
 
 Restrictions.All use of Intellectual Property Rights which is not expressly permitted in these Terms, by applicable law or authorized by us, is prohibited.
 
-Our license.Upon creation of any maps and/or challenges through GeoGuessr (collectively "User Contributions"), and in the event such User Contributions give rise to any intellectual or industrial property right (such as copyright), you thereby grant us a free-of charge, perpetual, royalty free, worldwide, exclusive license to use, process, access, modify, display, commercialize, copy, and store User Contributions. To the extent permitted under applicable law, you waive your moral right to and/or in the User Contributions.
+Our license.Upon creation of any maps, challenges and/or quizzes through GeoGuessr (collectively "User Contributions"), and in the event such User Contributions give rise to any intellectual or industrial property right (such as copyright), you thereby grant us a free-of charge, perpetual, royalty free, worldwide, exclusive license to use, process, access, modify, display, commercialize, copy, and store User Contributions. To the extent permitted under applicable law, you waive your moral right to and/or in the User Contributions.
 
 ### Simply put:
 
-The Services and its contents are owned by us or our licensors and you get a license to use them. If you create maps and challenges when you play, you give us the right to use them.
+The Services and its contents are owned by us or our licensors and you get a license to use them. If you create maps, challenges and/or quizzes when you play, you give us the right to use them.
 
 17\. Commercial use
 
@@ -313,7 +315,7 @@ GeoGuessr AB (Reg.No.556939-8349)
 Katarinavägen 17,  
 116 45 Stockholm, Sweden
 
-This Terms of Service were last updated on 25/9/2023
+This Terms of Service were last updated on 29/7/2024
 
 ![](/_next/static/media/notifications-disabled.e5a3a203.svg)
 
