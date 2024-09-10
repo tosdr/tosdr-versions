@@ -1,8 +1,8 @@
-[o Meet our next generation Meeting Owl 4+, Ships in 7-10 business days >>](https://owllabs.com/products/meeting-owl-4-plus)
+[o Meet our next generation Meeting Owl 4+, Ships in 2-3 days >>](https://owllabs.com/products/meeting-owl-4-plus)
 
 h
 
-[![owl labs logo](//images.ctfassets.net/hc4og0i2padt/5sjwNnkEQ19MrA9nmdvU1r/2a51b421852978915463a26ffde89c21/logo.svg?w=3840&fm=webp)](https://owllabs.com/)
+[![owl labs logo](//images.ctfassets.net/hc4og0i2padt/5sjwNnkEQ19MrA9nmdvU1r/b92bfee927dd6f570408585cece750bd/logo.png?w=3840&fm=webp)](https://owllabs.com/)
 
 Shop a
 
