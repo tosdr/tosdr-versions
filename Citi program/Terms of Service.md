@@ -265,7 +265,7 @@ Fort Lauderdale, FL 33301
 * [Benefits for Learners](https://about.citiprogram.org/advantages-for-learners/)
 * [Subscribing Organizations](https://about.citiprogram.org/subscribing-organizations/)
 * [Explore Our Courses](https://about.citiprogram.org/courses/)
-* [CE Certified Courses](https://about.citiprogram.org/courses/?fwp_cme_type=athletic-trainers%2Cdentists%2Cdietitians%2Cnurses%2Coptometrists%2Cother%2Cpharmacists%2Cphysicians%2Cpsychologists%2Csocial-workers&fwp_sort_courses=popularity)
+* [CE Certified Courses](https://about.citiprogram.org/course-catalog/?fwp_cme_type=athletic-trainers%2Cdentists%2Cdietitians%2Cnurses%2Coptometrists%2Cother%2Cpharmacists%2Cphysicians%2Cpsychologists%2Csocial-workers%2Ciacet&fwp_sort_courses=popularity)
 * [Resources](https://about.citiprogram.org/tools/)
 
 ### Support
