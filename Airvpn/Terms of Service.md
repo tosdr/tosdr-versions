@@ -6,13 +6,13 @@
 * [](https://airvpn.org/search/)
 * [](#)
 
-![](/img/icons/connected_no.png "Not connected") Not connected, Your IP: **51.195.149.220**
+![](/img/icons/connected_no.png "Not connected") Not connected, Your IP: **206.81.0.208**
 
 [![AirVPN](/static/img/logo/web_header.png)](https://airvpn.org/)
 
-*  [![Servers online.](/img/icons/server_status.png) Online: **22857** users - **257757** Mbit/s total BW](https://airvpn.org/status/ "See Server Status")
+*  [![Servers online.](/img/icons/server_status.png) Online: **24332** users - **271830** Mbit/s total BW](https://airvpn.org/status/ "See Server Status")
 
-* [Your IP: **51.195.149.220**](https://airvpn.org/external_link/?url=https%3A%2F%2Fipleak.net)
+* [Your IP: **206.81.0.208**](https://airvpn.org/external_link/?url=https%3A%2F%2Fipleak.net)
 
 * [**Guest** access](https://airvpn.org/enter/)
 
