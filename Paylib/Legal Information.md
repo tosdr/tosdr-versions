@@ -1,8 +1,7 @@
-[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo_464bf414.svg)](https://www.paylib.fr/)
+[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo.svg)](https://www.paylib.fr/)
 
-* [Paylib entre amis](https://www.paylib.fr/paiement-entre-amis)
+* [Payer entre amis](https://www.paylib.fr/paiement-entre-amis)
 * [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe)
-* [Paylib en magasin](https://www.paylib.fr/paiement-sans-contact)
 * [Activer Paylib](https://www.paylib.fr/activer-paylib)
 
 [Récupérer un Paylib](https://recup.paylib.fr/) [Accès commerçants](https://www.paylib.fr/paiement-commercants)
@@ -55,7 +54,7 @@ Les équipements (ordinateur, téléphone mobile, logiciels, moyens de télécom
 
 Paylib Services se réserve le droit de supprimer, modifier, corriger et compléter à tout moment et sans préavis les fonctionnalités et services fournis sur le Site ainsi que de désactiver le Site sans préavis ou de suspendre temporairement le Site.
 
-### 3\. Propriété intellectuelle
+### **3\. Propriété intellectuelle**
 
 Paylib Services SAS est seul titulaire des droits attachés aux noms, marques, noms de domaines, logos ou autres signes distinctifs respectifs du Site.
 
@@ -102,15 +101,15 @@ Posez-nous votre question !
 
 [](https://www.facebook.com/paylib.fr/?fref=ts)[](https://twitter.com/Paylib)[](https://www.instagram.com/paylib/)[](https://www.linkedin.com/company/11066778/)[](https://www.youtube.com/channel/UCFtJX8jWVsUN0AqwTidqRdg)
 
-[Je découvre Paylib](https://www.paylib.fr/a-propos) | [Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Glossaire](https://www.paylib.fr/glossaire) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr_03fe40c9.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr_3ed47731.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
+[Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
 
-J'active Paylib J'active Paylib [Besoin d'aide ?](https://www.paylib.fr/faq)
+J'active J'active [Besoin d'aide ?](https://www.paylib.fr/faq)
 
 [Accueil](https://www.paylib.fr/) [Activer Paylib](https://www.paylib.fr/activer-paylib)
 
 Payer avec Paylib
 
-[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Payer en magasin](https://www.paylib.fr/paiement-sans-contact) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Wero](https://wero-wallet.eu/fr/consumers)
+[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Wero](https://wero-wallet.eu/fr/consumers)
 
 * * *
 
@@ -123,9 +122,104 @@ Payer avec Paylib
 [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies)  
 [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib  
 
-J'active Paylib
+J'active
 
-![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close_d27a789c.svg)
+![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close.svg)
+
+**Je souhaite envoyer de l'argent !**
+-------------------------------------
+
+Vous recevrez un SMS avec le lien d'activation.
+
+Sélectionnez votre banque Banque BCP Banque de Savoie Banque Palatine Banque Populaire BNP Paribas BRED Caisse d'Epargne CIC Crédit Agricole Crédit Coopératif Crédit Maritime Crédit Mutuel Crédit Mutuel de Bretagne Crédit Mutuel du Sud-Ouest Fortuneo Hello Bank! La Banque Postale LCL Monabanq SBE SG
+
+Sélectionnez votre banque
+
+Banque BCP
+
+Banque de Savoie
+
+Banque Palatine
+
+Banque Populaire
+
+BNP Paribas
+
+BRED
+
+Caisse d'Epargne
+
+CIC
+
+Crédit Agricole
+
+Crédit Coopératif
+
+Crédit Maritime
+
+Crédit Mutuel
+
+Crédit Mutuel de Bretagne
+
+Crédit Mutuel du Sud-Ouest
+
+Fortuneo
+
+Hello Bank!
+
+La Banque Postale
+
+LCL
+
+Monabanq
+
+SBE
+
+SG
+
++33 +262 +508 +590 +594 +596 +681 +687 +689 
+
+J'active
+
+J'active
+
+J'active
+
+![](https://www.paylib.fr/wp-content/uploads/2019/09/Fill-12.svg) ![](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez Crédit Mutuel, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
+![](https://www.paylib.fr/wp-content/uploads/2019/09/Fill-12.svg) ![](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez Crédit Mutuel de Bretagne, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
+![](https://www.paylib.fr/wp-content/uploads/2019/09/Fill-12.svg) ![](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez Crédit Mutuel du Sud-Ouest, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+
+![](https://www.paylib.fr/wp-content/uploads/2019/09/CIC-logo.svg) ![](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez CIC, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib//#more-infos)
+
+ J’accepte que ce numéro de téléphone mobile soit utilisé par Paylib pour me guider dans l’utilisation du service
+
+Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de votre banque
+
+Une erreur est survenue, veuillez réessayer
+
+![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup-wero.png)
+
+J'active
+
+![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close.svg)
 
 Activez Paylib directement sur votre téléphone !
 ------------------------------------------------
@@ -192,4 +286,4 @@ Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de vot
 
 Une erreur est survenue, veuillez réessayer
 
-![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5_65e8356c.png)
+![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5.png)
