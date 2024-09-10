@@ -1,12 +1,12 @@
 [For schools](https://partners.springpod.co.uk/schools/how-it-works)[For colleges](https://partners.springpod.co.uk/colleges/how-it-works)[For universities](https://partners.springpod.co.uk/universities/how-it-works)[For employers](https://partners.springpod.co.uk/employers/how-it-works)
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d990ccf4eecc536140c7d3_icon-menu-white.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d990ccf4eecc536140c7d3_icon-menu-white.svg)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d9907b0bc7ea3f748a3a2b_5fd8b08d8fb175d1831d3b1a_Springpod-logo-for-web.png)](https://www.springpod.co.uk/)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d9907b0bc7ea3f748a3a2b_5fd8b08d8fb175d1831d3b1a_Springpod-logo-for-web.png)](https://www.springpod.co.uk/)
 
 [Legal Hub](https://www.springpod.co.uk/)[Main site](http://www.springpod.co.uk/)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/633d6287bbfd59b4e68a923d_Springpod%20logo%20-%20no%20R%20mark.svg)](https://www.springpod.co.uk/)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6287bbfd59b4e68a923d_Springpod%20logo%20-%20no%20R%20mark.svg)](https://www.springpod.co.uk/)
 
 [Main site](https://springpod.co.uk/)
 
@@ -18,18 +18,18 @@ Privacy Policy
 Your right to privacy
 =====================
 
-Your right to privacy is important to us. We take the security of your information seriously and have policies and processes in place to ensure that your data is safe. This notice describes the way we collect information, how we use it and how we protect it.
+Your right to privacy is important to us. We take the security of your information seriously and have policies and processes in place to ensure that your data is safe. This notice describes how we collect information, use it, and protect it.
 
 Who we are
 ==========
 
-Springpod is a part of The Education Hub Group Limited, a company registered in England and Wales under company number 10150500. Our address is Unit 5 Lloyd’sWharf, Mill Street, London, SE1 2BD and you can find our website at [www.springpod.com](http://www.springpod.com/).
+Springpod is a trading name of The Education Hub Group Limited, registered in England and Wales under company number 10150500. Our address is Arch 6, Maltings Place, 169 Tower Bridge Road, London. SE1 3LJ and our website is [www.springpod.com](http://www.springpod.com/).
 
-Our Data Protection Officer is Tom Hyams, and if you have any queries or concerns, you can contact him by telephone on: **0203 637 8665** or by **email to** [**dpo@springpod.com**](mailto:dpo@springpod.com).
+To ensure the best possible consideration is given to protecting your data, we subscribe to expert support from a specialist consultancy called Business Risk and Compliance Experts Ltd who supply us with our dedicated Data Protection Officer, Kieran Morgan-McGeehan. If you have any queries or concerns, you can contact him by telephone at 0203 637 8665 or by email at [dpo@springpod.com](mailto:dpo@springpod.com).
 
 ##### 1\. How we follow data protection regulations
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We are committed to the ethical use and protection of personal information. We are legally obliged to use your information in line with all laws concerning personal information security. We have several policies and processes to ensure that we protect your personal information as well as we can.
 
@@ -39,7 +39,7 @@ As a company that uses personal information, we have registered with the UK Info
 
 ##### 2\. Information we hold about you and how we use it
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We collect personal information about you when you enquire about or make use of our services. The lawful reasons that we process information varies depending on the purpose, but, depending on the use, we will only ever process your data if:
 
@@ -109,7 +109,7 @@ Letting us know about your sensitive data is optional, and you can always select
 
 ##### 3\. How we get your personal information
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We collect data through various methods, including our website, correspondence between us by phone, email, live chat, or social media. This could include information you provide when you register to use our site, subscribe to our services, take part in discussion boards or other social media, enter a competition, promotion, or survey, and when you report a problem with our site.
 
@@ -117,7 +117,7 @@ Most of the personal information we process is provided to us directly by you. W
 
 ##### 4\. How long we keep your information
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We will keep your personal information only for as long as necessary in line with regulatory and legal requirements. We will either anonymise it or destroy it securely when we do not need it anymore.
 
@@ -125,7 +125,7 @@ We have a retention schedule that we use to manage the length of time we keep pe
 
 ##### 5\. How we protect your information
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 The security of your information is important to us. We protect your information by maintaining physical, electronic, and procedural safeguards concerning collecting, storing, and disclosing personal data to prevent unauthorised access, accidental loss, disclosure, or destruction.
 
@@ -133,7 +133,7 @@ No data transmission over the internet can be entirely secure, and therefore we 
 
 ##### 6\. Where we process your information
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 Your data is stored securely on servers located within the UK, EU and in cloud-based applications.
 
@@ -141,7 +141,7 @@ To deliver some aspects of our service, we may transfer personal data we have co
 
 ##### 7\. How we share your information
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 From time to time we may send information to, receive information from, or exchange your personal information with:
 
@@ -185,7 +185,7 @@ If the business is reorganised or sold, we may transfer any personal information
 
 ##### 8\. How you can manage the information we hold and how we use it
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 Data protection regulations mean you have rights in respect of the information we hold about you:
 
@@ -221,7 +221,7 @@ You can also complain to the ICO if you are unhappy with how we have used your d
 
 ##### 9\. Cookies
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We use cookies to distinguish you from other users of our website. This helps us provide you with the best experience when you browse our website and improve our site.
 
@@ -229,13 +229,13 @@ For detailed information on the cookies that we use and why we use them, you can
 
 ##### 10\. Changes to this policy
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992490848bb452a49d012_icon-chevron-right-dark.svg)
 
 We regularly review this policy. Any changes that we may make in the future will be made available[here](https://www.springpod.co.uk/privacy-policy), so you can always view the most recent version there.
 
 This Privacy notice is the February 2021 version.
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
 
 #### Legal
 
@@ -249,13 +249,13 @@ This Privacy notice is the February 2021 version.
 
 [Our Team](https://partners.springpod.co.uk/about/team)[Contact Us](https://partners.springpod.co.uk/about/contact)[Partnerships](https://partners.springpod.co.uk/)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c774ad3af48c_social-linkedin-white.svg)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c774ad3af48c_social-linkedin-white.svg)
 
-Linkedin](https://www.linkedin.com/company/springpod)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c77b1f3af48d_social-instagram-white.svg)
+Linkedin](https://www.linkedin.com/company/springpod)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c77b1f3af48d_social-instagram-white.svg)
 
-Instagram](https://www.instagram.com/springpod/)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c76de93af48f_Twitter_Social_Icon_Circle_White.svg)
+Instagram](https://www.instagram.com/springpod/)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c76de93af48f_Twitter_Social_Icon_Circle_White.svg)
 
-Twitter](https://twitter.com/springpod)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c7621b3af48b_social-facebook-white.svg)
+Twitter](https://twitter.com/springpod)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c7621b3af48b_social-facebook-white.svg)
 
 Facebook](https://www.facebook.com/springpod/)
 
