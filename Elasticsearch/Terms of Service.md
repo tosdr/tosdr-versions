@@ -552,7 +552,7 @@ Follow us
 * Press
     -----
     
-    [Press releases](https://www.elastic.co/about/press#press-releases)[News articles](https://www.elastic.co/about/press#elastic-in-the-news)
+    [Press releases](https://www.elastic.co/about/press#press-releases)
     
 
 * Partners
@@ -590,7 +590,7 @@ Join us
 Press
 -----
 
-[Press releases](https://www.elastic.co/about/press#press-releases)[News articles](https://www.elastic.co/about/press#elastic-in-the-news)
+[Press releases](https://www.elastic.co/about/press#press-releases)
 
 Partners
 --------
