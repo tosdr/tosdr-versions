@@ -1,15 +1,15 @@
-Monday, July 29 2024
+Tuesday, September 10 2024
 
 Breaking News
 
-* [California Parents Fume Over New ‘Ethnic Studies’ High School Course](https://www.conservativedailynews.com/2024/07/california-parents-fume-over-new-ethnic-studies-high-school-course/)
-* [Gregg Jarrett Says There’s ‘Zero Chance’ Biden Can Put Term Limits On Supreme Court Justices](https://www.conservativedailynews.com/2024/07/gregg-jarrett-says-theres-zero-chance-biden-can-put-term-limits-on-supreme-court-justices/)
-* [President Joe Biden’s Schedule for Monday, July 29, 2024](https://www.conservativedailynews.com/2024/07/president-joe-bidens-schedule-for-monday-july-29-2024/)
-* [Kamala Harris Big on Perceptions.  Not so Good on Reality](https://www.conservativedailynews.com/2024/07/kamala-harris-big-on-perceptions-not-so-good-on-reality/)
-* [Did Joe Biden Tell Local Law Enforcement To Stand Down](https://www.conservativedailynews.com/2024/07/did-joe-biden-tell-local-law-enforcement-to-stand-down/)
-* [Billionaires Bankrolling Kamala Harris’ Tough-On-Crime Campaign Wanted To Defund Police, Install Soros Prosecutors](https://www.conservativedailynews.com/2024/07/billionaires-bankrolling-kamala-harris-tough-on-crime-campaign-wanted-to-defund-police-install-soros-prosecutors/)
-* [The Harris Effect](https://www.conservativedailynews.com/2024/07/the-harris-effect/)
-* [Now That Was ‘An Existential Threat To Democracy’](https://www.conservativedailynews.com/2024/07/now-that-was-an-existential-threat-to-democracy/)
+* [President Joe Biden’s Schedule for Tuesday, September 10, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
+* [What Lies Will Kamala Harris Tell On The Debate Stage?](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
+* [Mark Levin Announces Major Injury Will Keep Him Away From Mic](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
+* [President Of Medical Society Explains Why He Won’t Do Sex Change Procedures For Kids](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
+* [Kamala’s Debate Prep With Lead Google Attorney Sets Off Alarm Bells With Gov’t Watchdogs](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
+* [Megyn Kelly Says We Are ‘Living In The End Times’ Of Corporate Media](https://www.conservativedailynews.com/2024/09/megyn-kelly-says-we-are-living-in-the-end-times-of-corporate-media/)
+* [Hunter Pleads Guilty, Joe Is Wrong Again](https://www.conservativedailynews.com/2024/09/hunter-pleads-guilty-joe-is-wrong-again/)
+* [Elite University Trustee Steps Down Over Vote On Israel Divestment](https://www.conservativedailynews.com/2024/09/elite-university-trustee-steps-down-over-vote-on-israel-divestment/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -105,82 +105,88 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![Donald Trump JD Vance 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/07/03-vp-vance-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/07/j-d-vances-inspiring-journey-to-catholicism/)
+Support CDN!
+
+Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
+
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.46%
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-tied-in-Pennsylvania-220x150.jpg)](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
     
-    [J.D. Vance’s Inspiring Journey To Catholicism](https://www.conservativedailynews.com/2024/07/j-d-vances-inspiring-journey-to-catholicism/)
+    [CNN’s Harry Enten Sounds Alarm About Harris’ Vanishing Lead In ‘Very Pivotal’ Swing State](https://www.conservativedailynews.com/2024/09/cnns-harry-enten-sounds-alarm-about-harris-vanishing-lead-in-very-pivotal-swing-state/)
     
-    July 28, 2024
+    September 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/07/janet-yellen-calls-for-78000000000000-to-tackle-climate-change/)
+* [![gas prices](https://www.conservativedailynews.com/wp-content/uploads/2022/03/mrz032822dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/biden-appointed-judges-ruling-could-bring-drilling-in-gulf-of-mexico-to-a-halt/)
     
-    [Janet Yellen Calls For $78,000,000,000,000 To Tackle Climate Change](https://www.conservativedailynews.com/2024/07/janet-yellen-calls-for-78000000000000-to-tackle-climate-change/)
+    [Biden-Appointed Judge’s Ruling Could Bring Drilling to a Halt in Gulf Of Mexico](https://www.conservativedailynews.com/2024/09/biden-appointed-judges-ruling-could-bring-drilling-in-gulf-of-mexico-to-a-halt/)
     
-    July 27, 2024
+    September 8, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Classroom-desks-school-220x150.png)](https://www.conservativedailynews.com/2024/07/california-parents-fume-over-new-ethnic-studies-high-school-course/)
+* [![Dick Cheney Liz Cheney TDS](https://www.conservativedailynews.com/wp-content/uploads/2024/09/gv091024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/tds-3/)
     
-    [California Parents Fume Over New ‘Ethnic Studies’ High School Course](https://www.conservativedailynews.com/2024/07/california-parents-fume-over-new-ethnic-studies-high-school-course/)
+    [TDS](https://www.conservativedailynews.com/2024/09/tds-3/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/07/gregg-jarrett-says-theres-zero-chance-biden-can-put-term-limits-on-supreme-court-justices/)
+* [![Government](https://www.conservativedailynews.com/wp-content/uploads/2021/04/The-White-House-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
     
-    [Gregg Jarrett Says There’s ‘Zero Chance’ Biden Can Put Term Limits On Supreme Court Justices](https://www.conservativedailynews.com/2024/07/gregg-jarrett-says-theres-zero-chance-biden-can-put-term-limits-on-supreme-court-justices/)
+    [President Joe Biden’s Schedule for Tuesday, September 10, 2024](https://www.conservativedailynews.com/2024/09/president-joe-bidens-schedule-for-tuesday-september-10-2024/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![2024 election Kamala Harris scary](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/biggest-fears/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/09/risks-on-govt-loans-issued-next-fiscal-year-will-cost-taxpayers-more-than-65-billion-cbo-says/)
     
-    [Biggest Fears](https://www.conservativedailynews.com/2024/07/biggest-fears/)
+    [Risks On Gov’t Loans Issued Next Fiscal Year Will Cost Taxpayers More Than $65 Billion, CBO Says](https://www.conservativedailynews.com/2024/09/risks-on-govt-loans-issued-next-fiscal-year-will-cost-taxpayers-more-than-65-billion-cbo-says/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![Kamala Harris Barrack Obama puppeteer](https://www.conservativedailynews.com/wp-content/uploads/2024/07/gv072924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/meet-the-new-puppet-same-as-the-old-puppet/)
+* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
     
-    [Meet the New Puppet, Same as the Old Puppet](https://www.conservativedailynews.com/2024/07/meet-the-new-puppet-same-as-the-old-puppet/)
+    [What Lies Will Kamala Harris Tell On The Debate Stage?](https://www.conservativedailynews.com/2024/09/what-lies-will-kamala-harris-tell-on-the-debate-stage/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/07/president-joe-bidens-schedule-for-monday-july-29-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/wedding-gce23393c5_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/09/a-wedding-from-hel/)
     
-    [President Joe Biden’s Schedule for Monday, July 29, 2024](https://www.conservativedailynews.com/2024/07/president-joe-bidens-schedule-for-monday-july-29-2024/)
+    [A Wedding From HEL](https://www.conservativedailynews.com/2024/09/a-wedding-from-hel/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/For-rent-220x150.jpg)](https://www.conservativedailynews.com/2024/07/kamala-harris-wants-to-raise-your-rent/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Mark-Levin.jpg)](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
     
-    [Kamala Harris wants to raise your rent](https://www.conservativedailynews.com/2024/07/kamala-harris-wants-to-raise-your-rent/)
+    [Mark Levin Announces Major Injury Will Keep Him Away From Mic](https://www.conservativedailynews.com/2024/09/mark-levin-announces-major-injury-will-keep-him-away-from-mic/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Kamala-Harris-Laughing-220x150.jpg)](https://www.conservativedailynews.com/2024/07/kamala-harris-big-on-perceptions-not-so-good-on-reality/)
+* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
     
-    [Kamala Harris Big on Perceptions.  Not so Good on Reality](https://www.conservativedailynews.com/2024/07/kamala-harris-big-on-perceptions-not-so-good-on-reality/)
+    [President Of Medical Society Explains Why He Won’t Do Sex Change Procedures For Kids](https://www.conservativedailynews.com/2024/09/president-of-medical-society-explains-why-he-wont-do-sex-change-procedures-for-kids/)
     
-    July 29, 2024
+    September 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/China-Joe-Biden-220x150.jpg)](https://www.conservativedailynews.com/2024/07/did-joe-biden-tell-local-law-enforcement-to-stand-down/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/Kamala_Harris_48004691487-220x150.jpg)](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
     
-    [Did Joe Biden Tell Local Law Enforcement To Stand Down](https://www.conservativedailynews.com/2024/07/did-joe-biden-tell-local-law-enforcement-to-stand-down/)
+    [Kamala’s Debate Prep With Lead Google Attorney Sets Off Alarm Bells With Gov’t Watchdogs](https://www.conservativedailynews.com/2024/09/kamalas-debate-prep-with-lead-google-attorney-sets-off-alarm-bells-with-govt-watchdogs/)
     
-    July 29, 2024
+    September 9, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Gun-Banners Throw Monetary Support Behind Kamala Harris](https://www.thegunpage.com/gun-banners-throw-monetary-support-behind-kamala-harris/10609543)
-* [Paris 2024 Olympics: After Day Three, U.S. Shooting Team Focuses On Shotgun, Remaining Pistol And Rifle Events](https://www.thegunpage.com/paris-2024-olympics-after-day-three-u-s-shooting-team-focuses-on-shotgun-remaining-pistol-and-rifle-events/10609542)
-* [Wisconsin DNR Lifts Longtime Carry Ban For Anglers](https://www.thegunpage.com/wisconsin-dnr-lifts-longtime-carry-ban-for-anglers/10609539)
-* [SIG SAUER Brings Back the Braces](https://www.thegunpage.com/sig-sauer-brings-back-the-braces/10609537)
-* [Massachusetts Governor Signs Sweeping Anti-Gun Measure Into Law](https://www.thegunpage.com/massachusetts-governor-signs-sweeping-anti-gun-measure-into-law/10609534)
-* [TFB Weekly Web Deals 99: Deals for July 28th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-99-deals-for-july-28th-2024/10609541)
-* [Paris 2024 Olympics: Sagen Maddalena Secures Fourth Place In Women’s 10m Air Rifle](https://www.thegunpage.com/paris-2024-olympics-sagen-maddalena-secures-fourth-place-in-womens-10m-air-rifle/10609532)
-* [2024 NRA National Smallbore Rifle Championships Are Underway](https://www.thegunpage.com/2024-nra-national-smallbore-rifle-championships-are-underway/10609531)
-* [Review: Vortex Defender-XL Red-Dot Optic](https://www.thegunpage.com/review-vortex-defender-xl-red-dot-optic/10609530)
-* [Guns We Love: Mossberg Patriot Predator 7mm PRC-TTAG-V1](https://www.thegunpage.com/guns-we-love-mossberg-patriot-predator-7mm-prc-ttag-v1/10609524)
+* [Bear Creek Arsenal Offers New 7mm Magnum AR](https://www.thegunpage.com/bear-creek-arsenal-offers-new-7mm-magnum-ar/10610441)
+* [Pervert Popped Crawling Into Girl’s Bedroom Window in Chicago](https://www.thegunpage.com/pervert-popped-crawling-into-girls-bedroom-window-in-chicago/10610434)
+* [Sig Sauer Announces The New KILO6K-HDX Gen II Rangefinding Binoculars](https://www.thegunpage.com/sig-sauer-announces-the-new-kilo6k-hdx-gen-ii-rangefinding-binoculars/10610442)
+* [CCKRBA Calls Out VP Harris For Seeking Removal Of School Resource Officers](https://www.thegunpage.com/cckrba-calls-out-vp-harris-for-seeking-removal-of-school-resource-officers/10610430)
+* [2024 Daisy BB Gun Nationals Communication Contest Winners](https://www.thegunpage.com/2024-daisy-bb-gun-nationals-communication-contest-winners/10610443)
+* [Brandon Powell Wins High Over All At 2024 Northeast Regional Sporting Clays Championship](https://www.thegunpage.com/brandon-powell-wins-high-over-all-at-2024-northeast-regional-sporting-clays-championship/10610440)
+* [New: Springfield Armory Optics-Ready 1911 AOS Pistols](https://www.thegunpage.com/new-springfield-armory-optics-ready-1911-aos-pistols/10610433)
+* [New: Magpul DT-PR Stock](https://www.thegunpage.com/new-magpul-dt-pr-stock/10610432)
+* [SSUSA Q&A: What Is Dry-Firing?](https://www.thegunpage.com/ssusa-qa-what-is-dry-firing/10610429)
+* [Best Glock 19 Holsters](https://www.thegunpage.com/best-glock-19-holsters/10610425)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -222,17 +228,15 @@ Contact Us
 
 Recent Comments
 
-* KayCee on [A Quick, Easy, Legit Way to Cut Prescription Drug Costs](https://www.conservativedailynews.com/2024/07/a-quick-easy-legit-way-to-cut-prescription-drug-costs/#comment-777688)
-* KayCee on [One Down, One to Go](https://www.conservativedailynews.com/2024/07/one-down-one-to-go/#comment-777678)
-* KayCee on [Janet Yellen Calls For $78,000,000,000,000 To Tackle Climate Change](https://www.conservativedailynews.com/2024/07/janet-yellen-calls-for-78000000000000-to-tackle-climate-change/#comment-777677)
-* KayCee on [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/#comment-777676)
-* KayCee on [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/#comment-777675)
-* KayCee on [KJP Said There Is No Cover-up. I Feel Better Now](https://www.conservativedailynews.com/2024/07/kjp-said-there-is-no-cover-up-i-feel-better-now/#comment-777674)
-* KayCee on [Kamala Begins Her Campaign And It Will Be Ugly](https://www.conservativedailynews.com/2024/07/kamala-begins-her-campaign-and-it-will-be-ugly/#comment-777671)
-* Howard T. Lewis III on [Poster Girl](https://www.conservativedailynews.com/2024/07/poster-girl/#comment-777651)
-* Stan on [Teacher’s Union Accused Of Laundering $1.5 Million To Bankroll Josh Shapiro’s Campaign](https://www.conservativedailynews.com/2024/07/teachers-union-accused-of-laundering-1-5-million-to-bankroll-josh-shapiros-campaign/#comment-777626)
-
-![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* kaycee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782003)
+* KayCee on [What Do Nancy Pelosi And The Vatican Have In Common?](https://www.conservativedailynews.com/2024/09/what-do-nancy-pelosi-and-the-vatican-have-in-common/#comment-782002)
+* Mr. Nathan Z. Solomon on [Trump Should Propose a 15% Single Tax Rate for All](https://www.conservativedailynews.com/2024/09/trump-should-propose-a-15-single-tax-rate-for-all/#comment-782001)
+* Leonard J Testa on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781996)
+* [clm](http://conservativedailynews.com/) on [Venezuelan Migrant Appears To Fight Back Tears, Says She’d ‘Return’ To Country After Living In Blue State](https://www.conservativedailynews.com/2024/09/venezuelan-migrant-appears-to-fight-back-tears-says-shed-return-to-country-after-living-in-blue-state/#comment-781939)
+* Richard McDonough on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781936)
+* Jeff L. on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781931)
+* James Martin on [American Pravda’s “Legally Wrong and Dangerous” Never-ending Anti-Trump Propaganda](https://www.conservativedailynews.com/2024/09/american-pravdas-legally-wrong-and-dangerous-never-ending-anti-trump-propaganda/#comment-781915)
+* Average American on [The Evil of Cowardice](https://www.conservativedailynews.com/2024/09/the-evil-of-cowardice/#comment-781879)
 
 [Close](#)
 
