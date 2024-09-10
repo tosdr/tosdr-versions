@@ -8,15 +8,17 @@
         
         [VISIT](https://cowbellbrewing.com/pages/visit-us)
         
-    * [Accessibility](https://cowbellbrewing.com/pages/accessibility)
-    * [Tours](https://cowbellbrewing.com/pages/visit-us)
+    * [ACCESSIBILITY](https://cowbellbrewing.com/pages/accessibility)
+    * [TOURS](https://cowbellbrewing.com/pages/visit-us)
+    * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
 * DINE Expand submenu
     * Collapse submenu
         
         [DINE](https://cowbellbrewing.com/pages/dine-with-us)
         
+    * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Summer_Menu_2024_Revision_June_27th.pdf?v=1719578841)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024.pdf?v=1719506693)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240726-v1F.pdf?v=1722525840)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Daily_Specials-2405.pdf?v=1720451302)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
@@ -51,14 +53,16 @@
 
 Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
 
-  [![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/cowbell-logo_120x.png?v=1634158373) ![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/cowbell-logo_140x.png?v=1634158373)](https://cowbellbrewing.com/)[![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_Primary_W_2C-NB_120x.png?v=1636300566) ![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_Primary_W_2C-NB_140x.png?v=1636300566)](https://cowbellbrewing.com/)
+  [![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_VERT_120x.png?v=1724435513) ![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_VERT_140x.png?v=1724435513)](https://cowbellbrewing.com/)[![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_VERT_3CREV_120x.png?v=1724435513) ![Cowbell Brewing Co.](//cowbellbrewing.com/cdn/shop/files/Cowbell_Logo_VERT_3CREV_140x.png?v=1724435513)](https://cowbellbrewing.com/)
 
 * [VISIT](https://cowbellbrewing.com/pages/visit-us)
-    * [Accessibility](https://cowbellbrewing.com/pages/accessibility)
-    * [Tours](https://cowbellbrewing.com/pages/visit-us)
+    * [ACCESSIBILITY](https://cowbellbrewing.com/pages/accessibility)
+    * [TOURS](https://cowbellbrewing.com/pages/visit-us)
+    * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
 * [DINE](https://cowbellbrewing.com/pages/dine-with-us)
+    * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Summer_Menu_2024_Revision_June_27th.pdf?v=1719578841)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024.pdf?v=1719506693)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240726-v1F.pdf?v=1722525840)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Daily_Specials-2405.pdf?v=1720451302)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
