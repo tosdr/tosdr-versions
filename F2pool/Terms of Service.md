@@ -14,9 +14,15 @@ English
 
 [We are hiring!](https://www.f2pool.com/joinus)
 
+ Dark Mode
+
+ Light Mode
+
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
-* [Alephium (ALPH)  mining pool launched at f2pool](https://f2pool.zendesk.com/hc/en-us/articles/35652083966105-Alephium-ALPH-mining-pool-launched-at-f2pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [ALEO mining pool launched at f2pool](https://f2pool.zendesk.com/hc/en-us/articles/37288094458649) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [Join the ALPH mining contest for 5,000 ALPH in total prizes!](https://f2pool.zendesk.com/hc/en-us/articles/36977575146777-Join-the-f2pool-Alephium-mining-contest-for-5-000-ALPH-in-total-prizes) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [f2pool launches Fractal Bitcoin (FB) mining pool](https://f2pool.zendesk.com/hc/en-us/articles/37460449409689-f2pool-launches-Fractal-Bitcoin-FB-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 
 Terms of Service
 ----------------
