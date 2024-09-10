@@ -56,7 +56,6 @@ Close menu
         * [Couples Vibrators](https://www.peepshowtoys.com/collections/couples-vibrators)
         * [Liberator](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
         * [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
-        * [Condoms](https://www.peepshowtoys.com/collections/safe-sex)
         * [Sex Games](https://www.peepshowtoys.com/collections/adult-games)
         
     * [Pumps](https://www.peepshowtoys.com/collections/penis-pumps)
@@ -79,6 +78,8 @@ Close menu
     * [Paddles](https://www.peepshowtoys.com/collections/paddles)
         
     * [Rope](https://www.peepshowtoys.com/collections/bondage-rope)
+        
+    * [Sensation Play](https://www.peepshowtoys.com/collections/sensation-play-collection)
         
     * [Whips & Crops](https://www.peepshowtoys.com/collections/whips-crops)
         
@@ -153,11 +154,11 @@ Close menu
     * [Body-Safe: Info & Cleaning](https://www.peepshowtoys.com/pages/body-safe-sex-toy-material-guide)
         
     
-* [FAQs](https://www.peepshowtoys.com/pages/faqs)
-    
-    [Contact Us](https://www.peepshowtoys.com/pages/contact-us)
+* [Contact Us](https://www.peepshowtoys.com/pages/contact-us)
     
     [Our Philosophy](https://www.peepshowtoys.com/pages/about-us)
+    
+    [FAQs](https://www.peepshowtoys.com/pages/faqs)
     
     [My Wishlist](https://www.peepshowtoys.com/apps/advanced-wishlist)
     
@@ -184,9 +185,9 @@ Check out
 
 Your cart is currently empty.
 
-* [FAQs](https://www.peepshowtoys.com/pages/faqs)
 * [Contact Us](https://www.peepshowtoys.com/pages/contact-us)
 * [Our Philosophy](https://www.peepshowtoys.com/pages/about-us)
+* [FAQs](https://www.peepshowtoys.com/pages/faqs)
 * [My Wishlist](https://www.peepshowtoys.com/apps/advanced-wishlist)
 
 * [Instagram](https://www.instagram.com/peepshowtoys/ "Hamilton Park Electronics on Instagram")
@@ -301,8 +302,6 @@ Site navigation
     
     [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
     
-    [Condoms](https://www.peepshowtoys.com/collections/safe-sex)
-    
     [Sex Games](https://www.peepshowtoys.com/collections/adult-games)
     
     [](https://www.peepshowtoys.com/collections/penis-pumps)
@@ -322,6 +321,7 @@ Site navigation
     * [Gags & Blindfolds](https://www.peepshowtoys.com/collections/bondage-bdsm-ball-gags-and-blindfolds)
     * [Paddles](https://www.peepshowtoys.com/collections/paddles)
     * [Rope](https://www.peepshowtoys.com/collections/bondage-rope)
+    * [Sensation Play](https://www.peepshowtoys.com/collections/sensation-play-collection)
     * [Whips & Crops](https://www.peepshowtoys.com/collections/whips-crops)
     * [Collars & Leashes](https://www.peepshowtoys.com/collections/collars-and-leashes-for-bondage)
 * [Hot Deals](https://www.peepshowtoys.com/collections/hot-deals)
@@ -562,13 +562,13 @@ Questions about the Terms of Service should be sent to us at admin@peepshowtoys.
 
 \--------------------------------------
 
-[![Dual-Density Silicone](//www.peepshowtoys.com/cdn/shop/files/Neo_Elite_1800x1200_e49aac53-1a64-428d-9103-fc90d61e94ab_400x.jpg?v=1656363035)](https://www.peepshowtoys.com/collections/blush-neo-elite-dual-density-silicone-dildos)
+[![Dual-Density Silicone](//www.peepshowtoys.com/cdn/shop/files/Solina_Mega_ultra-realistic_dildos_banner_1800px_8cbbe111-a8e2-4584-bd1f-379fb8c93cbf_400x.jpg?v=1723041190)](https://www.peepshowtoys.com/collections/solina-mega-ultra-realistic-dildos)
 
 Dual-Density Silicone
 
 2 Layers for Realistic Feel!
 
-[Explore Neo Elite](https://www.peepshowtoys.com/collections/blush-neo-elite-dual-density-silicone-dildos)
+[Explore Solina Mega](https://www.peepshowtoys.com/collections/solina-mega-ultra-realistic-dildos)
 
 [![SquarePegToys™ Platinum Silicone](//www.peepshowtoys.com/cdn/shop/files/SquarePegToys_Platinum_Silicone_sex_toys_-_on_PeepshowToys_400x.webp?v=1653240285)](https://www.peepshowtoys.com/collections/squarepeg-toys)
 
