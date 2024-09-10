@@ -1,19 +1,19 @@
-Open menu [![StartMail logo](/_nuxt/img/startmail-logo.ff33c9f.svg) Home](https://www.startmail.com/)
+Open menu [![StartMail logo](/_nuxt/startmail-logo.e66y7T9F.svg)Home](https://www.startmail.com/)
 
-*  [![StartMail logo](/_nuxt/img/startmail-logo.ff33c9f.svg) Home](https://www.startmail.com/)
-* [About us](https://www.startmail.com/about-us/)
-* [Pricing](https://www.startmail.com/pricing/)
-* [Business](https://www.startmail.com/secure-business-email/)
-* [Features](https://www.startmail.com/features/)
-* [Blog](https://www.startmail.com/blog/)
+* [![StartMail logo](/_nuxt/startmail-logo.e66y7T9F.svg)Home](https://www.startmail.com/)
+* [About us](https://www.startmail.com/about-us)
+* [Pricing](https://www.startmail.com/pricing)
+* [Business](https://www.startmail.com/secure-business-email)
+* [Features](https://www.startmail.com/features)
+* [Blog](https://www.startmail.com/blog)
 * [Support](https://support.startmail.com/hc/en-us)
 
 English Show available languages
 
 * English
-* [Deutsch](https://www.startmail.com/de/datenschutz/)
+* [Deutsch](https://www.startmail.com/de/datenschutz)
 
-[Log in](https://mail.startmail.com/login?lang=en) [Try it for free](https://www.startmail.com/signup/)
+[Log in](https://mail.startmail.com/login?lang=en)[Try it for free](https://www.startmail.com/signup)
 
 Privacy Policy
 ==============
@@ -327,18 +327,18 @@ Effective: October 1st, 2020
 
 Privacy. It's not just our policy - it's our mission.
 
- [![StartMail logo](/_nuxt/img/startmail-logo.ff33c9f.svg) Home](https://www.startmail.com/)
+[![StartMail logo](/_nuxt/startmail-logo.e66y7T9F.svg)Home](https://www.startmail.com/)
 
 * [Support](https://support.startmail.com/hc/en-us)
-* [StartMail for Business](https://www.startmail.com/secure-business-email/)
-* [Terms of service](https://www.startmail.com/terms-of-service/)
-* [Affiliate](https://www.startmail.com/affiliate/)
-* [Email Aliases](https://www.startmail.com/aliases/)
-* [Press](https://www.startmail.com/press/)
-* [Privacy Policy](https://www.startmail.com/privacy/)
-* [Release notes](https://www.startmail.com/category/release-notes/)
-* [Contact](https://www.startmail.com/contact/)
-* [Technical white paper](https://www.startmail.com/whitepaper/)
+* [StartMail for Business](https://www.startmail.com/secure-business-email)
+* [Terms of service](https://www.startmail.com/terms-of-service)
+* [Affiliate](https://www.startmail.com/affiliate)
+* [Email Aliases](https://www.startmail.com/aliases)
+* [Press](https://www.startmail.com/press)
+* [Privacy Policy](https://www.startmail.com/privacy)
+* [Release notes](https://www.startmail.com/category/release-notes)
+* [Contact](https://www.startmail.com/contact)
+* [Technical white paper](https://www.startmail.com/whitepaper)
 * [Status](https://status.startmail.com/)
 
 Follow us
