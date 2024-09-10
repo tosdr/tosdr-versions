@@ -1,8 +1,8 @@
-😎 Secure hot summer savings! 80% OFF all plans!
+💼 Back to work, back to privacy! 78% OFF all lifetime plans!
 
-[Choose plan](https://internxt.com/pricing)
+[Choose plan](https://internxt.com/lifetime)
 
-[😎 Secure hot summer savings! 80% OFF all plans!](https://internxt.com/pricing)
+[🔒 Back to work, back to privacy! 78% OFF all lifetime plans!](https://internxt.com/lifetime)
 
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
@@ -10,7 +10,7 @@
 
 Products
 
-[Internxt Drive](https://internxt.com/drive)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
+[Internxt Drive](https://internxt.com/drive)[Internxt S3](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
 
 Our Values
 
@@ -22,7 +22,7 @@ Our Values
 
 Log in
 
-Get started
+Get Internxt
 
 EN
 
@@ -1184,11 +1184,11 @@ Seamless file management and secure cloud storage on the go with the Internxt mo
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27148%27%20height=%2744%27/%3e)![Download on the App Store](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Download on the App Store](/images/footer/app-store.svg)
+![Download on the App Store](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/images/footer/app-store.svg)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27148%27%20height=%2744%27/%3e)![Get it on Google Play](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Get it on Google Play](/images/footer/store-for-android.svg)
+![Get it on Google Play](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/images/footer/store-for-android.svg)
 
 Newsletter
 ----------
@@ -1199,13 +1199,13 @@ By subscribing you agree to our privacy policy.
 
 ### Products
 
-[Internxt Drive](https://internxt.com/drive)[WebDAV
+[Internxt Drive](https://internxt.com/drive)[WebDAV](https://internxt.com/webdav)[Object Storage
 
-New](https://internxt.com/webdav)[Internxt Send](https://send.internxt.com/)[Internxt VPN
+New](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)[Internxt for Business
 
-New](https://internxt.com/vpn)[Internxt for Business
+New](https://internxt.com/business)[Internxt for Families
 
-New](https://internxt.com/business)[Pricing](https://internxt.com/pricing)
+New](https://internxt.com/family)[Pricing](https://internxt.com/pricing)
 
 ### Company
 
@@ -1213,21 +1213,37 @@ New](https://internxt.com/business)[Pricing](https://internxt.com/pricing)
 
 ### Join Us
 
-[Newsletter](https://internxt.com/newsletter-subscribe)[Create Account](https://drive.internxt.com/new)Support[Log In](https://drive.internxt.com/login)[GitHub](https://github.com/internxt)[White Paper](https://internxt.com/whitepaper/internxt-white-paper.pdf)[Affiliates](https://internxt.com/affiliates)[Internxt for Education](https://internxt.com/cloud-storage-for-education)
+[Create Account](https://drive.internxt.com/new)[Log In](https://drive.internxt.com/login)[Support](https://help.internxt.com/)[White Paper](https://internxt.com/whitepaper/internxt-white-paper-1.pdf)[Newsletter](https://internxt.com/newsletter-subscribe)[GitHub](https://github.com/internxt)[Affiliates](https://internxt.com/affiliates)[Internxt for Education](https://internxt.com/cloud-storage-for-education)
 
 ### Resources
 
-[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)
+[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Dropbox alternative](https://internxt.com/dropbox-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)
 
 ### Free Tools
 
 [Byte Converter](https://internxt.com/byte-converter)[Temporary Email](https://internxt.com/temporary-email)[Password Checker](https://internxt.com/password-checker)[File Virus Scanner](https://internxt.com/virus-scanner)[Password Generator](https://internxt.com/password-generator)[File Converter](https://internxt.com/file-converter)
 
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27146%27%20height=%2748%27/%3e)![GDPR Internxt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![GDPR Internxt](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/gdpr-internxt.svg)
+
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27110%27%20height=%2712%27/%3e)![Internxt logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
 Copyright © 2024, Internxt Universal Technologies SL
 
-[![twitter icon](/icons/social/X_logo.svg)](https://twitter.com/Internxt)[![facebook icon](/icons/social/cool-gray-60/facebook.svg)](https://www.facebook.com/internxt)[![linkedin icon](/icons/social/cool-gray-60/linkedin.svg)](https://linkedin.com/company/internxt)[![youtube icon](/icons/social/cool-gray-60/youtube.svg)](https://www.youtube.com/channel/UCW2SxWdVEAEACYuejCgpGwg/featured)[![instagram icon](/icons/social/cool-gray-60/instagram.svg)](https://instagram.com/internxt/)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2715%27%20height=%2714%27/%3e)![twitter icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![twitter icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/X_logo.svg)](https://twitter.com/Internxt)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![Reddit icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Reddit icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/reddit.svg)](https://www.reddit.com/r/internxt/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![linkedin icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![linkedin icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/linkedin.svg)](https://linkedin.com/company/internxt)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![youtube icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![youtube icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/youtube.svg)](https://www.youtube.com/channel/UCW2SxWdVEAEACYuejCgpGwg/featured)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![instagram icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![instagram icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/instagram.svg)](https://instagram.com/internxt/)
 
 Products
 
@@ -1241,35 +1257,47 @@ Free Tools
 
 English (EN)
 
-[![twitter icon](/icons/social/X_logo.svg)](https://twitter.com/Internxt)[![facebook icon](/icons/social/cool-gray-60/facebook.svg)](https://www.facebook.com/internxt)[![linkedin icon](/icons/social/cool-gray-60/linkedin.svg)](https://linkedin.com/company/internxt)[![youtube icon](/icons/social/cool-gray-60/youtube.svg)](https://www.youtube.com/channel/UCW2SxWdVEAEACYuejCgpGwg/featured)[![instagram icon](/icons/social/cool-gray-60/instagram.svg)](https://instagram.com/internxt/)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2715%27%20height=%2714%27/%3e)![twitter icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![twitter icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/X_logo.svg)](https://twitter.com/Internxt)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![Reddit icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Reddit icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/reddit.svg)](https://www.reddit.com/r/internxt/)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![linkedin icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![linkedin icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/linkedin.svg)](https://linkedin.com/company/internxt)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![youtube icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![youtube icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/youtube.svg)](https://www.youtube.com/channel/UCW2SxWdVEAEACYuejCgpGwg/featured)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![instagram icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![instagram icon](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/icons/social/cool-gray-60/instagram.svg)](https://instagram.com/internxt/)
 
 Copyright © 2024, Internxt Universal Technologies SL
 
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2796%27%20height=%2710.5%27/%3e)![Internxt logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Internxt's summer discount](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fbanners%2Finternxt_summer_discount.webp&w=384&q=75)
+![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-Save 80%
+![Internxt's summer discount](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fhome%2Fback-to-work%2Fbottom-banner.webp&w=384&q=75)
 
-Sun's out,  
-sale's on!
+Save 78%
+
+Work smart,  
+not hard!
 
 Choose plan
 
-Hold on! Special 80% OFF deal!
+Hold on! Special 75% OFF deal!
 
 There's an exclusive offer waiting for you.
 
-80% OFF all plans
+75% OFF all plans
 
 30-day money-back guarantee
 
 ![Internxt Drive](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Ffreeuser%2FInternxt_storage.webp&w=1080&q=75)
 
-Get 80% OFF all our Premium Plans
+Get 75% OFF all our Premium Plans
 ---------------------------------
 
-Special offer: store files in privacy for less
+Special offer: store files in privacy for less.
 
 Get the deal
 
