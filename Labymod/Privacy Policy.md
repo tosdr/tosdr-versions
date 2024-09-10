@@ -1,5 +1,3 @@
-[🏝️ **SUMMER COLLECTION** Get ready for summer with our new vibrant **Summer Collection**! 🕶️](https://www.labymod.net/en/shop#summer)
-
 Menu
 
 [![Logo](/page/tpl/assets/images/logo.png)](https://www.labymod.net/en/)
