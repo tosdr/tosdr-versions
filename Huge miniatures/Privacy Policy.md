@@ -10,7 +10,9 @@ SAME DAY SHIPPING MADE IN THE USA FREE US SHIPPING $79+
 
 Search
 
-[![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
+[![Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20145%2083'%3E%3C/svg%3E)
+
+![Logo](/wp-content/uploads/HM-header-logo.png)](https://hugeminis.com/)
 
 Search
 
@@ -48,11 +50,12 @@ Menu
     * [Static Grass](https://hugeminis.com/shop/tabletop-trees-and-scenery-supplies/static-grass/)
 * [Tools](https://hugeminis.com/shop/modeling-tools/)
     * [Paint Brushes](https://hugeminis.com/shop/modeling-tools/paint-brushes/)
+    * [Paint Agitators](https://hugeminis.com/shop/modeling-tools/paint-mixing-balls/)
     * [Wet Palette](https://hugeminis.com/shop/modeling-tools/wet-palette/)
     * [Dropper Bottles](https://hugeminis.com/shop/modeling-tools/dropper-bottles/)
-    * [Paint Mixing Balls](https://hugeminis.com/shop/modeling-tools/paint-mixing-balls/)
-    * [Adhesive](https://hugeminis.com/shop/modeling-tools/adhesive/)
     * [Green Stuff](https://hugeminis.com/shop/modeling-tools/green-stuff/)
+    * [Adhesive](https://hugeminis.com/shop/modeling-tools/adhesive/)
+    * [Cutters](https://hugeminis.com/shop/modeling-tools/cutters/)
     * [Display Racks](https://hugeminis.com/shop/modeling-tools/desktop-display-racks/)
 * [Merch](https://hugeminis.com/shop/merch/)
 
@@ -208,10 +211,11 @@ Links
     * [Static Grass](https://hugeminis.com/shop/tabletop-trees-and-scenery-supplies/static-grass/)
 * [Tools](https://hugeminis.com/shop/modeling-tools/)
     * [Paint Brushes](https://hugeminis.com/shop/modeling-tools/paint-brushes/)
+    * [Paint Agitators](https://hugeminis.com/shop/modeling-tools/paint-mixing-balls/)
     * [Wet Palette](https://hugeminis.com/shop/modeling-tools/wet-palette/)
     * [Dropper Bottles](https://hugeminis.com/shop/modeling-tools/dropper-bottles/)
-    * [Paint Mixing Balls](https://hugeminis.com/shop/modeling-tools/paint-mixing-balls/)
-    * [Adhesive](https://hugeminis.com/shop/modeling-tools/adhesive/)
     * [Green Stuff](https://hugeminis.com/shop/modeling-tools/green-stuff/)
+    * [Adhesive](https://hugeminis.com/shop/modeling-tools/adhesive/)
+    * [Cutters](https://hugeminis.com/shop/modeling-tools/cutters/)
     * [Display Racks](https://hugeminis.com/shop/modeling-tools/desktop-display-racks/)
 * [Merch](https://hugeminis.com/shop/merch/)
