@@ -73,6 +73,7 @@ Effective Date: March 26, 2021
 
 **Languages**
 
+* [Arabic](https://glooko.com/wp-content/uploads/2024/08/Glooko-Privacy-Notice-Arabic-2024.pdf)
 * [Čeština](https://glooko.com/wp-content/uploads/2022/08/Glooko-AB-Privacy-Notice-Clean-2022-June-09_CS.pdf)
 * [Dansk](https://glooko.com/wp-content/uploads/2021/06/Glooko-Privacy-Notice-update-FINAL.legalV2-2021-Mar-24_da_DK.pdf)
 * [Deutsch](https://glooko.com/wp-content/uploads/2021/11/Glooko-AB-Privacy-Notice-Germany-2021-Nov-11.pdf)
