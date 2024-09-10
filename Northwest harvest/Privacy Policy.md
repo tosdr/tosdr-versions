@@ -8,7 +8,7 @@
 
 * [Our Work](https://www.northwestharvest.org/our-work/)
     
-    * [Our WorkWe believe that equitable access to culture affirming nutritious foods is a human right, and a means to drive opportunity in Washington. This is why we support a statewide network of over 400 food justice organizations including meal programs and high needs schools.](https://www.northwestharvest.org/our-work/)﻿
+    * [Our WorkWe believe that equitable access to culture affirming nutritious foods is a human right, and a means to drive opportunity in Washington. This is why we support a statewide network of more than 350 food justice organizations including meal programs and high needs schools.](https://www.northwestharvest.org/our-work/)﻿
         * [Advocacy & Public Policy](https://www.northwestharvest.org/our-work/advocacy-public-policy/)
             * [Our Legislative Priorities](https://www.northwestharvest.org/our-work/advocacy-public-policy/our-legislative-priorities/)
             * [Right to Food](https://www.northwestharvest.org/our-work/advocacy-public-policy/right-to-food/)
