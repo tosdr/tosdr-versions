@@ -128,7 +128,7 @@ Originally adapted from the [WordPress Terms of Service](http://en.wordpress.com
 
 * [Home](https://community.signalusers.org/)
 * [Categories](https://community.signalusers.org/categories)
-* [FAQ/Guidelines](https://community.signalusers.org/guidelines)
+* [Guidelines](https://community.signalusers.org/guidelines)
 * [Terms of Service](https://community.signalusers.org/tos)
 * [Privacy Policy](https://community.signalusers.org/privacy)
 
