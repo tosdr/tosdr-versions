@@ -8,10 +8,10 @@
 
 *  
     
-* [Netanyahu](https://www.motherjones.com/politics/2024/07/pushback-benjamin-netanyahu-israel-gaza-congress-johnson-genocide-uaw/)
-* [Sonya Massey](https://www.motherjones.com/criminal-justice/2024/07/sonya-massey-police-killing-illinois-sangamon-sheriff/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/07/donald-trump-ridicules-kamala-harris-chuckle-maybe-because-he-almost-never-laughs/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/07/kamala-harris-debut-campaign-speech-democrats-prosecutor-trump/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/emerge-backed-kamala-harris-in-2003-now-its-trying-to-change-the-face-of-politics/)
+* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/missouri-ballot-measure-abortion-violation-judge/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-vance-child-care-plan/)
+* [Harris/Trump Debate](https://www.motherjones.com/politics/2024/09/derision-and-danger-the-democrats-figure-out-how-to-attack-trump/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Netanyahu](https://www.motherjones.com/politics/2024/07/pushback-benjamin-netanyahu-israel-gaza-congress-johnson-genocide-uaw/)
-* [Sonya Massey](https://www.motherjones.com/criminal-justice/2024/07/sonya-massey-police-killing-illinois-sangamon-sheriff/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/07/donald-trump-ridicules-kamala-harris-chuckle-maybe-because-he-almost-never-laughs/)
-* [Kamala Harris](https://www.motherjones.com/politics/2024/07/kamala-harris-debut-campaign-speech-democrats-prosecutor-trump/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/09/emerge-backed-kamala-harris-in-2003-now-its-trying-to-change-the-face-of-politics/)
+* [Reproductive Rights](https://www.motherjones.com/politics/2024/09/missouri-ballot-measure-abortion-violation-judge/)
+* [Trump](https://www.motherjones.com/politics/2024/09/trump-vance-child-care-plan/)
+* [Harris/Trump Debate](https://www.motherjones.com/politics/2024/09/derision-and-danger-the-democrats-figure-out-how-to-attack-trump/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
@@ -53,6 +53,19 @@ Smart, Fearless Journalism
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=desktop_header_nav)
 *  
     
+
+Membership Ticker
+-----------------
+
+[Double my gift](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPR59|PAHPR59/)
+
+Please don’t miss this chance
+
+We’ve been offered a $50,000 digital matching gift by a generous board member, and **we need your help** to make sure we get every dollar of it. Any donation you make online this month will be matched dollar-for-dollar. You know the stakes in this all-important election season. And the fearless, kickass, truth-telling reporting Americans need doesn’t pay for itself. Please chip in right now with any amount if you can.
+
+We’ve been offered a $50,000 digital matching gift by a generous board member, and **we need your help** to make sure we get every dollar of it. Any donation you make online this month will be matched dollar-for-dollar. You know the stakes in this all-important election season. And the fearless, kickass, truth-telling reporting Americans need doesn’t pay for itself. Please chip in right now with any amount if you can.
+
+[Double my gift](https://secure.motherjones.com/flex/mj/key/7LIGHTA/src/7AHPMRU|PAHPMRU/)
 
 Terms of Service
 ================
