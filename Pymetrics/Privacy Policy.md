@@ -4,7 +4,7 @@ _We’re excited to announce that pymetrics has been acquired by Harver!_
 
 _For the latest blogs, please visit_ [_Harver_](https://harver.com/resources/#blogs)_._
 
-[![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/62f4e18d764027e400042726_Harver-Company2.png)](https://www.pymetrics.ai/)
+[![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/62f4e18d764027e400042726_Harver-Company2.png)](https://www.pymetrics.ai/)
 
 Platform
 
@@ -314,19 +314,19 @@ Effective Date: 6 October, 2021
 The standards we follow 
 ------------------------
 
-[![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
+[![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
 
 #### Data Security](#)
 
 pymetrics is ISO27001 and Privacy Shield certified. Data are stored in physically secured, geographically distributed data centers. End-to-end encryption protects data in transit, while data is encrypted at rest using Federal Information Processing Standards (FIPS) 140-2 approved cryptographic algorithms and is consistent with National Institute of Standards and Technology (NIST) 800-57 recommendations.
 
-[![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
+[![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
 
 #### Privacy](#)
 
 pymetrics values the trust that our customers and users place in us when they provide us access to personally-identifiable information. Accordingly, we have created a Privacy Policy to outline our collection, use, and sharing of information users provide to us when they access or use pymetrics’ services and platform: https://www.pymetrics.com/privacy-policy/
 
-[![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
+[![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78ea24c5c622_accordion-arrow.svg)
 
 #### GDPR](#)
 
@@ -334,7 +334,7 @@ The General Data Protection Regulation (GDPR) is a new comprehensive data protec
 
 [Download compliance whitepaper](https://go2.pymetrics.ai/l/863702/2021-01-25/2qtp4m/863702/1611601742w7dse2DF/pymetrics_EEOC_UGESP_Compliance__1_.pdf)
 
-![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/623203deacd1170927a993d0_5e36f9bb121267096fc1ce62_footer-ball-1.svg)![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/62320406c1068822a7aa9840_5e36fb2dc6233048e21bcc8f_footer-ball-2.svg)![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef786950c5c578_footer-ball-3.svg)![](https://assets-global.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef7863a5c5c498_footer-ball-4.svg)
+![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/623203deacd1170927a993d0_5e36f9bb121267096fc1ce62_footer-ball-1.svg)![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/62320406c1068822a7aa9840_5e36fb2dc6233048e21bcc8f_footer-ball-2.svg)![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef786950c5c578_footer-ball-3.svg)![](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef7863a5c5c498_footer-ball-4.svg)
 
 Unlock the true  
 potential of your  
