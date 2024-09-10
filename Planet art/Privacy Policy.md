@@ -381,8 +381,8 @@ We are responsible for Personal Data about you. Specifically Personal Data is co
 
 Privacy Program,  
 Attention: Legal Department  
-Gateway House, Tollgate, Chandler’s Ford,  
-Eastleigh, Southampton, S053 3TG,  
+55 Peach Street,  
+Wokingham, Berkshire, RG40 1XP,  
 United Kingdom
 
 We have appointed ITG EU & GRCI Law to act as our EU and UK Representatives. If you wish to exercise your rights under EU GDPR or the UK GDPR or have any queries in relation to your rights or privacy matters generally please email from Europe [privacyeu@pallcprivacy.com](mailto:privacyeu@pallcprivacy.com), or from UK [privacyuk@pallcprivacy.com](mailto:privacyuk@pallcprivacy.com).
@@ -448,12 +448,14 @@ If you delete your User Contributions from our Services, copies may still be vie
 * [Press](https://www.planetart.com/press-release)
 * [Jobs](https://apply.workable.com/planetart)
 * [Internships](https://www.planetart.com/internships)
+* [Contact](https://www.planetart.com/contact)
 
 * [Home](https://www.planetart.com/home)
 * [About](https://www.planetart.com/about)
 * [Press](https://www.planetart.com/press-release)
 * [Jobs](https://apply.workable.com/planetart)
 * [Internships](https://www.planetart.com/internships)
+* [Contact](https://www.planetart.com/contact)
 
 [![](https://cdn-cms.planetart.com/planetart/en_US/app_block__navigation/planetart-1720559652.svg)](https://www.planetart.com/)
 
