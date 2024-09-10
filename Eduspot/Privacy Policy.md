@@ -250,7 +250,7 @@ How to Contact Us
 
 Eduspot commits to resolve queries or complaints about our collection or use of your personal information. Eduspot takes its users’ privacy concerns seriously.
 
-If you believe that Eduspot has not complied with this Privacy Policy with respect to your personal information, you should first contact us at Eduspot by emailing us at compliance@eduspot.co.uk or by writing to Eduspot at the following address:
+If you believe that Eduspot has not complied with this Privacy Policy with respect to your personal information, you should first contact us at Eduspot by emailing us at [\[email protected\]](https://eduspot.co.uk/cdn-cgi/l/email-protection) or by writing to Eduspot at the following address:
 
 Privacy – Eduspot  
 2 Darker Street  
@@ -303,7 +303,7 @@ Partners
 
 * [Assembly](https://assembly.education/)
 
-[](tel:)[](mailto:)
+[](tel:)[\[email protected\]](https://eduspot.co.uk/cdn-cgi/l/email-protection)
 
        ![Community Brands Logo](https://eduspot.co.uk/wp-content/uploads/Community-Brands-Logo-Main-100px.png)
 
