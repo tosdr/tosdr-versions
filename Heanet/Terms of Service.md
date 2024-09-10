@@ -18,9 +18,10 @@
     * [Brokerage](#)
         * [Brokerage Services](https://www.heanet.ie/brokerage)
         * [Products / Suppliers](https://www.heanet.ie/brokerage-products-suppliers)
-        * [HEAnet Store](https://www.heanet.ie/store)
+        * [HEAnet Store](https://www.heanet.ie/store-2)
     * [Connectivity](#)
         * [eduroam (Wifi)](https://www.heanet.ie/services/connectivity/eduroam-2)
+        * [eduroam Visitor Access (eVA)](https://www.heanet.ie/services/connectivity/eduroam-visitor-access)
         * [IP Connectivity](https://www.heanet.ie/services/connectivity/ip-connectivity)
         * [Point-to-Point](https://www.heanet.ie/services/connectivity/point-to-point-links)
         * [Other Connectivity Services](https://www.heanet.ie/services/connectivity/other-connectivity-services)
@@ -61,7 +62,7 @@
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=919d0b7d3a)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=2cdba0699d)
 
 [](#)
 
@@ -166,11 +167,15 @@ Instagram
 
 YouTube
 
+[![](https://www.heanet.ie/wp-content/uploads/2024/08/Picture1-1.png)](https://www.heanet.ie/blog/heanet-awarded-the-silver-smarter-travel-mark-certification)
+
+[![](https://www.heanet.ie/wp-content/uploads/2024/08/bronze.jpg)](https://irishcentrefordiversity.ie/investors-in-diversity-bronze/)
+
 [![](https://www.heanet.ie/wp-content/uploads/2022/03/InBUSINESS-Recognition-Awards-2021_Winner-Button_Health-Wellbeing-Blue.png)](https://inbusinessireland.com/inbusiness-recognition-awards-winners-2021/)
 
 [![](https://www.heanet.ie/wp-content/uploads/2019/10/IBEC-KeepWell-Mark-image.png)](https://www.ibec.ie/employer-hub/corporate-wellness/the-keepwell-mark-public-page)
 
-[![](https://www.heanet.ie/wp-content/uploads/2023/04/badge_standard.png)](https://www.ibec.ie/employer-hub/corporate-wellness/leading-in-wellbeing)
+[![](https://www.heanet.ie/wp-content/uploads/2024/08/IBEC-Top-100-2024.png)](https://www.ibec.ie/employer-hub/corporate-wellness/the-keepwell-mark-public-page)
 
 © 2024 HEAnet CLG | [Site Credits](https://avenir.ie/)
 
