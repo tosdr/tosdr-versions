@@ -222,7 +222,7 @@ We grant our customers a possibility to return 100% of funds they spent on AdGua
 
 Important: monthly subscriptions are not refunded. For Yearly subscriptions we have a 30-day money-back-guarantee. All refund requests made within 30 days since the Yearly subscription purchase are satisfied no matter what the reason is.
 
-The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between you and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), you need to contact our Customer Support Service at [support@adguard.com](mailto:support@adguard.com). Processing time will depend on the payment method you have chosen and usually takes up to 10 business days.
+The subscription in question becomes blocked the moment the refund is issued. After 30 days, all requests are considered individually and the decision whether to issue a refund is left up to AdGuard Software Ltd. We do not grant partial refunds for subscription upgrades and renewals. Each case of partial refund request is discussed separately between you and our Customer Support Service, and satisfied only upon mutual agreement. To get a refund for a subscription purchased [on the official website](https://adguard-dns.io/), you need to contact our Customer Support Service at [support@adguard-dns.io](mailto:support@adguard-dns.io). Processing time will depend on the payment method you have chosen and usually takes up to 10 business days.
 
 4\. Restrictions
 
@@ -300,7 +300,7 @@ You have no right to:
 
 9\. Licenses to third party software
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder's email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder's email address [support@adguard-dns.io](mailto:support@adguard-dns.io). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 10\. Miscellaneous
 
@@ -324,7 +324,7 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our Customer Support Service:
 
-Email: [support@adguard.com](mailto:support@adguard.com)
+Email: [support@adguard-dns.io](mailto:support@adguard-dns.io)
 
 Website: [](https://adguard-dns.io/)[https://adguard-dns.io](https://adguard-dns.io/)
 
@@ -332,11 +332,7 @@ Website: [](https://adguard-dns.io/)[https://adguard-dns.io](https://adguard-dns
 
 Other documents:
 
-[Privacy Policy](https://adguard-dns.io/en/privacy.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
-
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard-dns.io/en/privacy.html)
-
-I agree
+[Privacy Policy](https://adguard-dns.io/en/privacy.html) [Terms of Sale](https://adguard-dns.io/en/terms-of-sale.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html)
 
 © 2016–2024 AdGuard DNS
 
@@ -348,7 +344,7 @@ Homepage Pricing Blog About us Connect to DNS AdGuard promo activities Media kit
 
 Other products
 
-AdGuard Ad Blocker AdGuard VPN AdGuard Temp Mail AdGuard Home
+[AdGuard Ad Blocker](https://adguard.com/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) [AdGuard Home](https://adguard.com/adguard-home/overview.html)
 
 Support
 
@@ -356,4 +352,4 @@ Support Center FAQ Knowledge base Version history Report an issue AdGuard Status
 
 Legal documents
 
-EULA Privacy Policy Terms of sale Refund policy Terms and conditions
+EULA Privacy Policy Terms of Sale Refund policy Terms and conditions Privacy policy of AdGuard websites
