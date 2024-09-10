@@ -84,7 +84,7 @@ Please read this Agreement carefully before accessing or using the Platform. By 
     12025 Waterfront Drive, Suite 300  
     Los Angeles, CA 90094  
     Tel: 310-301-5800  
-    Email: [legal-intellectual-property@icann.org](mailto:legal-intellectual-property@icann.org)
+    Email: [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection)
     
     Please note that Section 512(f) of the Digital Millennium Copyright Act may impose liability for damages on any person who knowingly sends meritless notices of infringement. Please do not make false claims.
     
@@ -138,7 +138,7 @@ Please read this Agreement carefully before accessing or using the Platform. By 
     
 28. **Termination**
     
-    We may terminate your access to all or any part of the Platform at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement, you may simply discontinue using the Platform. If you wish to terminate your account (if you have one), please contact [globalsupport@icann.org](mailto:globalsupport@icann.org). All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+    We may terminate your access to all or any part of the Platform at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement, you may simply discontinue using the Platform. If you wish to terminate your account (if you have one), please contact [\[email protected\]](https://www.icann.org/cdn-cgi/l/email-protection). All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
     
 30. **General Representation and Warranty**
     
