@@ -73,4 +73,4 @@ Please choose your prefered video player and we’ll save your selection:
 [Check Out Our Latest Book!
 ==========================
 
-![](https://storylineonline.net/wp-content/uploads/2023/12/ThreeQuestions_SOWebsiteBookThumbnailImage.png)](https://storylineonline.net/books/the-three-questions)
+![](https://storylineonline.net/wp-content/uploads/2024/05/RodeoRedSOWebsiteThumbnail.png)](https://storylineonline.net/books/rodeo-red)
