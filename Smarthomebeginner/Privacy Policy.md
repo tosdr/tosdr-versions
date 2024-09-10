@@ -161,13 +161,13 @@ If you would like more information about this practice and to know your choices 
 
 For specific information about Mediavine Partners, the data each collects and their data collection and privacy policies, please visit [Mediavine Partners](https://www.mediavine.com/ad-partners/).
 
-[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6S9PwhAlZUs%2Fhqdefault.jpg)](https://youtu.be/6S9PwhAlZUs)
+[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FldytlKJmPX4%2Fhqdefault.jpg)](https://youtu.be/ldytlKJmPX4)
 
-Adding Apps Behind Traefik Reverse Proxy
+Proxmox WebUI Behind Traefik
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 59 / 150 by Dec 31, 2024
+> 79 / 150 by Dec 31, 2024
 > 
 > [Join Us](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -182,31 +182,31 @@ Adding Apps Behind Traefik Reverse Proxy
 Recent Posts
 ------------
 
-* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 2")
+* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 2")
     
-    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 2")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
+    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 2")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
+    
+    [Authelia Docker Compose Guide: Secure 2-Factor Auth \[2024-v2\]](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
+* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 3")
+    
+    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 3")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
     
     [Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
-* [![Deployarr - Automated Homelab Setup](https://www.smarthomebeginner.com/images/2024/06/Deployarr-4-40-plus-Docker-Apps-150x84.jpg "Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia 3")
+* [![Deployarr 4 75 Plus Docker Apps | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-4-75-plus-Docker-Apps-150x84.jpg "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")
     
-    ![Deployarr - Automated Homelab Setup](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia 3")](https://www.smarthomebeginner.com/deployarr/)
+    ![Deployarr 4 75 Plus Docker Apps | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")](https://www.smarthomebeginner.com/deployarr/)
     
-    [Deployarr: 40+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
-* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 4")
+    [Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
+* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 5")
     
-    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 4")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
+    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 5")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
     
     [Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
-* [![Traefik V3 Docker Compose](https://www.smarthomebeginner.com/images/2024/05/Docker-Series-05-Traefik-v3-150x84.png "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 5")
+* [![Traefik V3 Docker Compose](https://www.smarthomebeginner.com/images/2024/05/Docker-Series-05-Traefik-v3-150x84.png "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 6")
     
-    ![Traefik V3 Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 5")](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
+    ![Traefik V3 Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Ultimate Traefik v3 Docker Compose Guide [2024]: LE, SSL, Reverse Proxy 6")](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
     
     [Ultimate Traefik v3 Docker Compose Guide \[2024\]: LE, SSL, Reverse Proxy](https://www.smarthomebeginner.com/traefik-v3-docker-compose-guide-2024/)
-* [![Best Mini Pc For Proxmox](https://www.smarthomebeginner.com/images/2024/04/Best-Mini-PC-for-Proxmox-150x84.png "5 Best Mini PC for Proxmox Home Server [2024] 6")
-    
-    ![Best Mini Pc For Proxmox](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "5 Best Mini PC for Proxmox Home Server [2024] 6")](https://www.smarthomebeginner.com/best-mini-pc-for-proxmox-2024/)
-    
-    [5 Best Mini PC for Proxmox Home Server \[2024\]](https://www.smarthomebeginner.com/best-mini-pc-for-proxmox-2024/)
 
 [Post Archives](https://www.smarthomebeginner.com/archives/)
 
