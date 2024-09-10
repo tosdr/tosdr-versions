@@ -1,6 +1,6 @@
-\[Webinar\] Experience a new era of efficiency with Pipefy AI. [Save your seat now!](https://www.pipefy.com/webinar/pipefy-ai-efficiency/?utm_campaign=US_INB_Webinar_AWA_Webinar_None_SQL_DemandGen_IT_pipefy-ai-webinar-en&utm_source=website&utm_medium=organic&utm_content=topbar-cta)
-
 [](https://www.pipefy.com/ "Pipefy")
+
+[Pipefy AI](https://www.pipefy.com/ai/)
 
 Products
 
@@ -304,6 +304,8 @@ We are not responsible for the practices employed by websites linked to or from 
 If you prefer, you can directly contact our _Supervisor_, Cainã Gomez, through the email address [\[email protected\]](https://www.pipefy.com/cdn-cgi/l/email-protection), or our Representatives in the European Union or in the United Kingdom, through the informed channels in topic 7.1 above.
 
 **Last Update**: May 9, 2024.
+
+ [![Play Media Icon](https://assets-site.staticpipefy.com/production/wp-content/uploads/2024/08/iconPLayMedia.svg)Book a Demo](https://www.pipefy.com/book-a-demo/)
 
 Embrace AI-driven efficiency
 
