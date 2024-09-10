@@ -243,15 +243,15 @@ Footer Navigation
     
 * [Education](https://www.littleremedies.com/blog)
     
-    * [Babies 101](https://www.littleremedies.com/blog-search?f%5B0%5D=topics_facet_blog%3A156)
+    * [Babies 101](https://www.littleremedies.com/blog?f%5B0%5D=categories%3ABabies%20101)
         
-    * [Cold and Allergy Relief](https://www.littleremedies.com/blog-search?f%5B0%5D=topics_facet_blog%3A161)
+    * [Cold and Allergy Relief](https://www.littleremedies.com/blog?f%5B0%5D=categories%3ACold%20and%20Allergy%20Relief)
         
-    * [Colic](https://www.littleremedies.com/blog-search?f%5B0%5D=topics_facet_blog%3A166)
+    * [Colic](https://www.littleremedies.com/blog?f%5B0%5D=categories%3AColic)
         
-    * [Food and Nutrition](https://www.littleremedies.com/blog-search?f%5B0%5D=topics_facet_blog%3A171)
+    * [Food and Nutrition](https://www.littleremedies.com/blog?f%5B0%5D=categories%3AFood%20and%20Nutrition)
         
-    * [Newborns](https://www.littleremedies.com/blog-search?f%5B0%5D=topics_facet_blog%3A176)
+    * [Newborns](https://www.littleremedies.com/blog?f%5B0%5D=categories%3ANewborns)
         
     * [Videos](https://www.littleremedies.com/videos)
         
