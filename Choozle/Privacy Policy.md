@@ -4,11 +4,7 @@ Call us at  [970.744.3340](tel:970-744-3340)
 
 [Login](https://app.choozle.com/users/login?_ga=2.129282191.2076809653.1718177524-77892844.1718177524)
 
-[![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
+[![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
 Menu
 
@@ -63,8 +59,8 @@ Menu
 
 [Contact Us](https://choozle.com/connect)
 
-Privacy Policy
---------------
+Understanding Choozle's Comprehensive Privacy Policy
+====================================================
 
 Last Updated: March, 2022
 
@@ -369,11 +365,7 @@ To learn more about our involvement with and adherence to industry standards, pl
 
 Effective date March 10, 2022
 
-[![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
+[![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
 Solution
 
@@ -425,33 +417,21 @@ About Us
 * [Careers](https://choozle.com/careers)
 * [Awards](https://choozle.com/awards)
 
-**Subscribe**
+**SUBSCRIBE**
 
 Join our mailing list to stay updated on news and releases.
 
 By subscribing, you agree to our Privacy Policy and consent to receive updates from us.
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
@@ -462,125 +442,30 @@ By subscribing, you agree to our Privacy Policy and consent to receive updates f
 * [Cookie Settings](https://choozle.com/opt-out)
 * [Data Processing Agreement](https://choozle.com/data-processing-agreement/)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
 
 [Facebook](https://www.facebook.com/choozle) [Instagram](https://www.instagram.com/choozle/) [X-twitter](https://twitter.com/choozle) [Linkedin](https://www.linkedin.com/company/choozle) [Youtube](https://www.youtube.com/@ChoozleDenver)
-
-![](https://choozle.com/wp-content/uploads/2024/05/image-77-300x300.png)
-
-Annie Wissner – VP Marketing
-----------------------------
-
-Annie Wissner is an accomplished and innovative B2B marketing leader with over 20 years of experience. She has proven success in start-up and enterprise environments, as well as in domestic and international markets. She is recognized for building strong brands using integrated marketing methods and ABM-centric demand generation and has a track record of establishing revenue-generating programs. A key contributor to strategic business planning, with expertise in leading, managing, and developing long-term growth plans and digital transformation.
-
-As Vice President of Marketing, Annie oversees all corporate marketing functions at Choozle, including brand management, go-to-market strategy, product, digital, demand generation, partnerships, and media relations.
-
-Annie earned a Bachelor of Arts degree in Business from the University of Denver and a Project Management certificate from the University of Washington.
-
-x
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://choozle.com/wp-content/uploads/2024/05/image-75-300x300.png)
-
-Joe Forrester – SVP Engineering and Product
--------------------------------------------
-
-Joe Forrester has over 20 years of broad experience working across corporations to understand their strategic, marketing, data, and technological issues while connecting strategic business needs to their corporate marketing applications and ultimately to the organization’s individual consumer to drive measurable results. He brings a unique background and perspective due to his extensive engagement in multiple technological and business disciplines.
-
-Joe is the Senior Vice President – Engineering and Product at Choozle. He drives innovative solutions for the company, including with their Customer Relationship Management (CRM) programs and building next generation, Cloud-based technology that allows customers to deliver on their programmatic marketing needs.
-
-Joe earned a Bachelor of Science degree in Computer Management from Eastern Illinois University.
-
-x
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://choozle.com/wp-content/uploads/2024/05/image-74-300x300.png)
-
-Martin Smith – SVP Sales
-------------------------
-
-Martin Smith has over 30 years at the leading edge of innovation in media, data and data technology on both the agency and client-side. He is a veteran of businesses in their growth phases including Apple, Audible, MatchLogic and the Lowe Group. Martin has led revenue teams and been a key driver in effectively supporting business transformations enabled by technology and the effective application of data.
-
-Martin is passionate about supporting advertisers and their agencies to maximize their investments in acquiring and developing their customer relationships. He joined Choozle seeing the opportunity to lean in to help scale the adoption of the new Choozle technology platform and service framework.
-
-Martin earned a BA Hons in Social Sciences from University of London.
-
-x
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://choozle.com/wp-content/uploads/2024/05/image-72-1-300x300.png)
-
-Adam Woods – CEO
-----------------
-
-Adam is the Chief Executive Officer (CEO) and held two other roles at Choozle — Chief Client Officer and Chief Technology Officer. Throughout his tenure at Choozle, he’s been improving the way that advertisers buy media through the Choozle platform. He has led initiatives to ensure that Choozle leads the space in terms of being a consultative partner that helps ensure the effective deployment of media through a combination of omnichannel planning, targeting best practices, upfront goal setting, and effective measurement.
-
-Adam was previously the Chief Technology Officer at Wunderman Thompson, a multinational agency that focuses on building real-time solutions at web scale. He joined Choozle with the aim of making industrial-grade advertising solutions available to regional and local businesses in an easy-to-use and coherent manner. He saw this as an opportunity to bring a significant change in the Advertising Technology market, to help companies grow.
-
-x
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://choozle.com/wp-content/uploads/2024/05/image-73-2-300x300.png)
-
-Katina Lundberg – Chief People Officer
---------------------------------------
-
-Katina Lundberg, PHR (Professional in Human Resources) has over 20 years of human resources experience with 15 years in leadership roles. She has a history of proven results with building high performing teams, redesigning total rewards programs, and implementing values and engagement programs.
-
-Katina is the Chief People Officer at Choozle and was previously Vice President – People Operations. Her leadership in building the organizational values and engagement program has led to positive outcomes. She contributes directly to the long and short-term strategic objectives of the company, including mergers and acquisitions, while maximizing organizational effectiveness.
-
-Katina earned a Bachelor of Science degree in Business Administration from Western Colorado University. She is a board member of Khesed Wellness, a Non-Profit organization that provides affordable outpatient mental health therapy to the underinsured.
-
-x
 
 Search for:
