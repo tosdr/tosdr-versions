@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [July 30, 2024 | MBFC’s Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/ "MBFC’s Daily Vetted Fact Checks for 07/30/2024")
-* [July 29, 2024 | (Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments](https://mediabiasfactcheck.com/2024/07/29/media-news-misinformation-floods-internet-amid-rapid-2024-election-developments/ "(Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments")
-* [July 29, 2024 | MBFC’s Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/ "MBFC’s Daily Vetted Fact Checks for 07/29/2024")
-* [July 28, 2024 | MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/28/mbfcs-daily-vetted-fact-checks-for-07-28-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)")
-* [July 27, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th](https://mediabiasfactcheck.com/2024/07/27/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-july-21st-july-27th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th")
+* [September 6, 2024 | YouTube Introduces AI Deepfake Detection Tools for Creators](https://mediabiasfactcheck.com/2024/09/06/youtube-introduces-ai-deepfake-detection-tools-for-creators/ "YouTube Introduces AI Deepfake Detection Tools for Creators")
+* [September 6, 2024 | MBFC’s Daily Vetted Fact Checks for 09/06/2024](https://mediabiasfactcheck.com/2024/09/06/mbfcs-daily-vetted-fact-checks-for-09-06-2024/ "MBFC’s Daily Vetted Fact Checks for 09/06/2024")
+* [September 5, 2024 | Conservative U.S. Podcasters Deny Involvement in Russian Influence Operation](https://mediabiasfactcheck.com/2024/09/05/conservative-u-s-podcasters-deny-involvement-in-russian-influence-operation/ "Conservative U.S. Podcasters Deny Involvement in Russian Influence Operation")
+* [September 5, 2024 | MBFC’s Daily Vetted Fact Checks for 09/05/2024](https://mediabiasfactcheck.com/2024/09/05/mbfcs-daily-vetted-fact-checks-for-09-05-2024/ "MBFC’s Daily Vetted Fact Checks for 09/05/2024")
+* [September 4, 2024 | Brian Stelter Returns to CNN as Chief Media Analyst, Revives ‘Reliable Sources’ Newsletter](https://mediabiasfactcheck.com/2024/09/04/brian-stelter-returns-to-cnn-as-chief-media-analyst-revives-reliable-sources-newsletter/ "Brian Stelter Returns to CNN as Chief Media Analyst, Revives ‘Reliable Sources’ Newsletter")
 
 Search for:  
 
@@ -104,6 +104,10 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 **or**
 
 **[MBFC Donation](https://mediabiasfactcheck.com/support-media-bias-fact-check/)**
+
+**or**
+
+**[Crypto Donation](https://commerce.coinbase.com/checkout/8f8323b9-0605-45f6-8e02-c2a69e3d1bb5)**
 
 * * *
 
@@ -137,76 +141,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [Cambridge Independent – Bias and Credibility](https://mediabiasfactcheck.com/cambridge-independent-bias/)
+* [Trafalgar Group Polling – Bias and Credibility](https://mediabiasfactcheck.com/trafalgar-group-polling-bias-and-credibility/)
     
-    July 30, 2024
+    September 6, 2024
     
-* [Revolutionary Communists of America (RCA) – Bias and Credibility](https://mediabiasfactcheck.com/revolutionary-communists-of-america-rca-bias-and-credibility/)
+* [American Democracy Scorecard – Bias and Credibility](https://mediabiasfactcheck.com/american-democracy-scorecard-bias-and-credibility/)
     
-    July 30, 2024
+    September 6, 2024
     
-* [Louisville Public Media – NPR – Bias and Credibility](https://mediabiasfactcheck.com/louisville-public-media-npr-bias/)
+* [Harborough Mail – Bias and Credibility](https://mediabiasfactcheck.com/harborough-mail-bias/)
     
-    July 30, 2024
+    September 6, 2024
     
-* [Political Science Quarterly (PSQ) – Bias and Credibility](https://mediabiasfactcheck.com/political-science-quarterly-psq-bias-and-credibility/)
+* [Computers Journal – Bias and Credibility](https://mediabiasfactcheck.com/computers-journal-bias/)
     
-    July 30, 2024
+    September 5, 2024
     
-* [Fluid Mechanics Journal – Bias and Credibility](https://mediabiasfactcheck.com/fluid-mechanics-journal-bias-and-credibility/)
+* [Folkestone Express – Bias and Credibility](https://mediabiasfactcheck.com/folkestone-express-bias/)
     
-    July 30, 2024
+    September 5, 2024
     
-* [Prism – Bias and Credibility](https://mediabiasfactcheck.com/prism-bias-and-credibility/)
+* [Cumberland Valley News – Bias and Credibility](https://mediabiasfactcheck.com/cumberland-valley-news-bias/)
     
-    July 29, 2024
+    September 5, 2024
     
-* [Emerson College Polling – Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
+* [Progressive Turnout Project (TurnoutPAC) – Bias and Credibility](https://mediabiasfactcheck.com/progressive-turnout-project-turnoutpac-bias-and-credibility/)
     
-    July 29, 2024
+    September 4, 2024
     
-* [Progressive Policy Institute (PPI) – Bias and Credibility](https://mediabiasfactcheck.com/progressive-policy-institute-ppi-bias-and-credibility/)
+* [WBUR – NPR – Boston – Bias and Credibility](https://mediabiasfactcheck.com/wbur-npr-boston-bias/)
     
-    July 29, 2024
+    September 4, 2024
     
-
-[See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Geek.com – Bias and Credibility](https://mediabiasfactcheck.com/geek-com/ "View Geek.com – Bias and Credibility") - July 30, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 6, 2024
     
-* [Gears of Biz – Bias and Credibility](https://mediabiasfactcheck.com/gears-of-biz/ "View Gears of Biz – Bias and Credibility") - July 30, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - September 6, 2024
     
-* [GBTimes – Bias and Credibility](https://mediabiasfactcheck.com/gbtimes/ "View GBTimes – Bias and Credibility") - July 30, 2024
+* [Trafalgar Group Polling – Bias and Credibility](https://mediabiasfactcheck.com/trafalgar-group-polling-bias-and-credibility/ "View Trafalgar Group Polling – Bias and Credibility") - September 6, 2024
     
-* [Gay Star News – Bias and Credibility](https://mediabiasfactcheck.com/gay-star-news/ "View Gay Star News – Bias and Credibility") - July 30, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - September 6, 2024
     
-* [Gawken – Bias and Credibility](https://mediabiasfactcheck.com/gawken/ "View Gawken – Bias and Credibility") - July 30, 2024
+* [American Democracy Scorecard – Bias and Credibility](https://mediabiasfactcheck.com/american-democracy-scorecard-bias-and-credibility/ "View American Democracy Scorecard – Bias and Credibility") - September 6, 2024
     
-* [FWD Now – Bias and Credibility](https://mediabiasfactcheck.com/fwd-now/ "View FWD Now – Bias and Credibility") - July 30, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 6, 2024
     
-* [Futurism – Bias and Credibility](https://mediabiasfactcheck.com/futurism/ "View Futurism – Bias and Credibility") - July 30, 2024
+* [Harborough Mail – Bias and Credibility](https://mediabiasfactcheck.com/harborough-mail-bias/ "View Harborough Mail – Bias and Credibility") - September 6, 2024
     
-* [Fusion – Bias and Credibility](https://mediabiasfactcheck.com/fusion/ "View Fusion – Bias and Credibility") - July 30, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - September 5, 2024
     
-* [Fury News – Bias and Credibility](https://mediabiasfactcheck.com/fury-news/ "View Fury News – Bias and Credibility") - July 30, 2024
+* [Computers Journal – Bias and Credibility](https://mediabiasfactcheck.com/computers-journal-bias/ "View Computers Journal – Bias and Credibility") - September 5, 2024
     
-* [Full Fact (UK) – Bias and Credibility](https://mediabiasfactcheck.com/full-fact-uk/ "View Full Fact (UK) – Bias and Credibility") - July 30, 2024
+* [Folkestone Express – Bias and Credibility](https://mediabiasfactcheck.com/folkestone-express-bias/ "View Folkestone Express – Bias and Credibility") - September 5, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/)
-* [MBFC's Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [TheWrap - Bias and Credibility](https://mediabiasfactcheck.com/thewrap/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
-* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
+* [MBFC's Daily Vetted Fact Checks for 09/05/2024](https://mediabiasfactcheck.com/2024/09/05/mbfcs-daily-vetted-fact-checks-for-09-05-2024/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [MBFC's Daily Vetted Fact Checks for 09/06/2024](https://mediabiasfactcheck.com/2024/09/06/mbfcs-daily-vetted-fact-checks-for-09-06-2024/)
+* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
