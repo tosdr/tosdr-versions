@@ -124,6 +124,7 @@
         * [Press Releases](https://www.pepsico.com/our-stories/press-releases)
         * [Media Gallery](https://www.pepsico.com/media-gallery)
         * [Media Contacts](https://www.pepsico.com/contact)
+        * [Awards](https://www.pepsico.com/who-we-are/awards)
     * [Nutrition Information Nutrition Information](#)
         * [Our Nutrition Story](https://www.pepsico.com/our-brands/creating-smiles/our-nutrition-story)
         * [PepsiCo Smart LabelPepsiCo Smart Label](https://pepsicosmartlabel.com/)
