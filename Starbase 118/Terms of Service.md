@@ -356,39 +356,39 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
 
-### [Changelings discovered aboard USS Astraeus amidst pursuit of renegade starship](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
+### [Award winner – Evan Ross, OPs (Blk Cross- Intel.)](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
 
-Federation News Service July 29, 2024
+srichardsciencenerd118 September 10, 2024
 
-ALPHA QUADRANT — Questions arise on the USS Astraeus after receiving orders to track down a rogue Starfleet vessel.
+Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
-[Read More »](https://www.starbase118.net/2024/changelings-discovered-aboard-uss-astraeus-amidst-pursuit-of-renegade-starship/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
-
-### [USS Ronin successfully thwarts consortium forces in Alpha Isles](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
-
-Federation News Service July 27, 2024
-
-ALPHA ISLES — The USS Ronin successfully conducted a counter-attack against Consortium forces, attempting to establish a presence in the Alpha Isles.
-
-[Read More »](https://www.starbase118.net/2024/uss-ronin-successfully-thwarts-consortium-forces-in-alpha-isles/)
+[Read More »](https://www.starbase118.net/2024/award-winner-evan-ross-ops-blk-cross-intel/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
 
-### [USS Artemis-A encounters Borg Cube and faces sabotage](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+### [USS Octavia E. Butler Faces Haunting Mysteries in Search for Missing Unity Dow](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
 
-Federation News Service July 25, 2024
+Federation News Service September 9, 2024
 
-BADLANDS – During a routine journey back to the Sol system, the crew of the USS Artemis-A (NCC-81287) detected unusual sensor readings in The Badlands.
+OVIV, EDGE OF FORMER DOMINION SPACE — The USS Octavia E. Butler uncovered psychological torment, derelict vessels, and mysterious hallucinations while investigating the disappearance of
 
-[Read More »](https://www.starbase118.net/2024/uss-artemis-a-encounters-borg-cube-and-faces-sabotage/)
+[Read More »](https://www.starbase118.net/2024/uss-octavia-e-butler-faces-haunting-mysteries-in-search-for-missing-unity-dow/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/august-2024-post-counts/)
+
+### [August 2024 Post Counts](https://www.starbase118.net/2024/august-2024-post-counts/)
+
+amackenzie September 8, 2024
+
+With the first two phases of our Fleet Blockbuster event out of the way, we saw a slight decrease in overall sim numbers this month
+
+[Read More »](https://www.starbase118.net/2024/august-2024-post-counts/)
 
 Ready to get started?
 ---------------------
