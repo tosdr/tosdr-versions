@@ -40,11 +40,13 @@ Shopping categories
 How Klarna works
 
 * [What is Klarna](https://www.klarna.com/us/what-is-klarna/)
-* [Klarna Card](https://www.klarna.com/us/klarna-card-waitlist/)
-* [Klarna stores](https://www.klarna.com/us/klarna-stores/)
+* [Klarna Card](https://www.klarna.com/us/klarna-card/)
+* [Explore stores](https://www.klarna.com/us/store/?refPos=store_directory&origin=header)
 * [Shopping app](https://www.klarna.com/us/klarna-app/)
 * [Browser extension](https://www.klarna.com/us/browser-extension/)
 * [Klarna Plus](https://www.klarna.com/us/klarna-plus/)
+* [Klarna balance](https://www.klarna.com/us/klarna-balance/)
+* [Cashback](https://www.klarna.com/us/cashback/)
 
 Help
 
@@ -87,10 +89,6 @@ Legal agreements for Klarna services
 
   
 
-[Klarna Rewards Club](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/rewards-club)
-
-  
-
 [Klarna Referral](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/referral)
 
   
@@ -123,7 +121,7 @@ Legal agreements for Klarna services
 
 **Purchase and delivery information**
 
-[Import Services](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/emailconnect)
+[Auto-Track](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/Auto-Track)
 
 **Monthly Financing**
 
@@ -136,6 +134,10 @@ Legal agreements for Klarna services
   
 
 [WebBank Privacy Notice](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/2.1.0/WebBankPrivacyNotice)
+
+**Klarna balance**
+
+[Klarna balance](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/klarna-balance)
 
 [](https://www.klarna.com/us/)
 
@@ -157,7 +159,7 @@ Customer
 * [Contact us via the app](https://app.klarna.com/login?market=us)
 * [What is Klarna](https://www.klarna.com/us/what-is-klarna/)
 * [Shopping app](https://www.klarna.com/us/klarna-app/)
-* [Klarna stores](https://www.klarna.com/us/klarna-stores/)
+* [Explore stores](https://www.klarna.com/us/store/)
 * [Extra O blog](https://www.klarna.com/us/blog/)
 * [Buyer Protection Policy](https://www.klarna.com/us/buyer-protection/)
 * [Feedback and complaints](https://www.klarna.com/us/feedback-and-complaints/)
@@ -337,7 +339,7 @@ Română](https://www.klarna.com/ro/)
 * [Contact us via the app](https://app.klarna.com/login?market=us)
 * [What is Klarna](https://www.klarna.com/us/what-is-klarna/)
 * [Shopping app](https://www.klarna.com/us/klarna-app/)
-* [Klarna stores](https://www.klarna.com/us/klarna-stores/)
+* [Explore stores](https://www.klarna.com/us/store/)
 * [Extra O blog](https://www.klarna.com/us/blog/)
 * [Buyer Protection Policy](https://www.klarna.com/us/buyer-protection/)
 * [Feedback and complaints](https://www.klarna.com/us/feedback-and-complaints/)
