@@ -152,3 +152,13 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
+
+Don't miss out!
+
+**Join all of your FSTV favorites for live coverage of the DNC this week wherever you watch FSTV.**
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20532%2080'%3E%3C/svg%3E)
+
+![](https://freespeech.org/wp-content/uploads/2023/06/With-FSTV-5-1024x154.jpg)](https://freespeech.org/watch-live/)
+
+×
