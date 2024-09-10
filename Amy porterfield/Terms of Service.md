@@ -2,12 +2,12 @@
 
 [stories](https://www.amyporterfield.com/reviews)[Resources](https://www.amyporterfield.com/online-marketing-tools/)[Courses](https://www.amyporterfield.com/online-business-courses)[About amy](https://www.amyporterfield.com/about)
 
-[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[](https://masterclass.amyporterfield.com/list-building)[Free workshop](https://www.amyporterfield.com/free-email-marketing-training)[HOME](https://www.amyporterfield.com/)
+[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[HOME](https://www.amyporterfield.com/)[](https://masterclass.amyporterfield.com/list-building)[join my bootcamp](https://bootcamp.amyporterfield.com/course-confident)
 
 Terms and Conditions
 ====================
 
-The following Terms of Use are entered into by and between You and Amy Porterfield, Inc. (**“Company”,** **“we”**, or **“us”**).  
+The following Terms of Use are entered into by and between You and Amy Porterfield LLC (**“Company”,** **“we”**, or **“us”**).  
   
 The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these **“Terms of Use”**), govern your access to and use of Amyporterfield.com, including any content, functionality and services offered on or through Amyporterfield.com (the **“Website”**), whether as a guest or a registered user.  
   
@@ -27,7 +27,7 @@ We may revise and update these Terms of Use from time to time in our sole discre
 PRIVACY
 -------
 
-Your use of the Website is also subject to the Company’s [Privacy Policy](https://www.amyporterfield.com/privacy-policy). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms of Use.  
+Your use of the Website is also subject to the Company’s [Privacy Policy](https://www.amyporterfield.com/privacy). Please review our Privacy Policy, which also governs the Website and informs users of our data collection practices. Your agreement to the Privacy Policy is hereby incorporated into these Terms of Use.  
   
 
 DISCLAIMER
@@ -290,14 +290,14 @@ The Company reserves the right, in its sole discretion, to change the Terms unde
 CONTACT US
 ----------
 
-Amy Porterfield, LLC. welcomes your questions or comments regarding the Terms:  
+Amy Porterfield, LLC welcomes your questions or comments regarding the Terms:  
   
-Amy Porterfield, LLC.  
+Amy Porterfield, LLC  
 6339 Charlotte Pike #920  
 Nashville, TN 37209  
 Email Address: [support@amyporterfield.com](mailto:support@amyporterfield.com)  
   
-_Last Updated: August 9, 2021_  
+_Last Updated: August 6, 2024_  
   
   
 
