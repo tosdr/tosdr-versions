@@ -15,6 +15,7 @@ Find the Help Centers Below:
 * © 2024 Prodege, LLC
 * [Terms of Use](https://link.prodege.com/terms)
 * [Privacy Policy](https://link.prodege.com/privacy)
+* [US State Privacy Notice](https://www.prodege.com/us-state-privacy)
 * [Your Privacy Choices](https://www.prodege.com/do-not-sell/)
 * [Your Cookie Choices](#)
 * [Notice of Financial Incentives](https://www.prodege.com/financial-incentives-notice/)
