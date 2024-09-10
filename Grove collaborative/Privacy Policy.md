@@ -296,7 +296,7 @@ Support
 * [Partner Program](https://www.grove.co/s/partners/)
 * [Investor Relations](https://investors.grove.co/)
 * [Recycling](https://community.grove.co/hc/en-us/articles/360052887091-How-can-I-recycle-my-used-and-empty-products)
-* [Blog](https://www.grove.co/g/blog/)
+* [Blog](https://www.grove.co/blog/)
 * [Contact Us](https://community.grove.co/hc/en-us/requests/new)
 
 Shop
