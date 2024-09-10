@@ -165,7 +165,7 @@ Effective date of Oct 25, 2023
 
 #### This page was last updated October 25, 2023.
 
-![](//privacy-policy.truste.com/privacy-seal/seal?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)
+[![TRUSTe](//hostedseal.trustarc.com/privacy-seal/seal?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)](https://privacy.trustarc.com/privacy-seal/validation?rid=078a56a4-9e48-4152-bee2-b466a991f9f0)
 
 Sirsi Corporation and its affiliated companies, dba SirsiDynix, and its subsidiary, EOS International (referred to collectively in this Privacy Policy as “SirsiDynix,” we,” “us” or the “Company”) are committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, protect and process information relating to individuals (“Personal Data”) and your rights and choices regarding your Personal Data. Personal Data does not include aggregated data from which personally identifiable information has been removed.
 
@@ -353,7 +353,7 @@ We do not “share” or “sell” your information, as those terms are defined
 * [Careers](https://www.sirsidynix.com/careers/)
 * [Support](https://support.sirsidynix.com/)
 
-* [Privacy](https://www.sirsidynix.com/privacy/)
+* [Privacy Policy](https://www.sirsidynix.com/privacy/)
 * [Security](https://www.sirsidynix.com/security/)
 * [Carbon Reduction Plan](https://www.sirsidynix.com/wp-content/uploads/2024/06/2022-SirsiDynix-Carbon-Reduction-Plan-EMEA-R01.pdf)
 * [Connections](http://cs.sirsidynix.com/)
