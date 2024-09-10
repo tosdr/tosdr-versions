@@ -46,7 +46,7 @@ How We Use Information
 
 We use the information we collect to provide our services, respond to you, for marketing purposes, improve our site, and foster a positive user experience.
 
-By registering with Finaid, by managing your profile, or by opting in when presented with choices, you have consented for us to use your information in the following ways:
+By registering withFinaid, by managing your profile, or by opting in when presented with choices, you have consented for us to use your information in the following ways:
 
 **To provide you with our services**, which includes:
 
@@ -162,26 +162,26 @@ Your Privacy Rights
 * the reasons why Finaid collects or sells personal information; and
 * the categories of third parties with which Finaid shares personal information.
 
-**Right to Delete:** you have the right to request that Finaid delete any of your personal information that Finaid has collected from you with certain exceptions. Finaid may refuse your deletion request if permitted by law. If we deny your deletion request, we will tell you why the request was denied. Additionally, if Finaid can verify your request and determine that no exception to deletion applies, we will direct any of our service providers that have received your personal data to delete your personal information from their records as well.
+**Right to Delete:** you have the right to request thatFinaid delete any of your personal information thatFinaid has collected from you with certain exceptions.Finaid may refuse your deletion request if permitted by law. If we deny your deletion request, we will tell you why the request was denied. Additionally, ifFinaid can verify your request and determine that no exception to deletion applies, we will direct any of our service providers that have received your personal data to delete your personal information from their records as well.
 
 **Right to Correct:** You have the right to request amendments to your personal data if it’s inaccurate or outdated in any way.
 
-**Right to Opt Out of Sharing of Your Data:** you have the right to opt out of Finaid’s sharing of your personal information to third parties.
+**Right to Opt Out of Sharing of Your Data:** you have the right to opt out ofFinaid’s sharing of your personal information to third parties.
 
-**Right to Opt Out of Sale of Your Data:** you have the right to opt out of Finaid’s sale, as defined by the California Consumer Privacy Act, of your personal information to third parties for marketing or advertising purposes.
+**Right to Opt Out of Sale of Your Data:** you have the right to opt out ofFinaid’s sale, as defined by the California Consumer Privacy Act, of your personal information to third parties for marketing or advertising purposes.
 
 **Right to Non-Discrimination:** Finaid will not discriminate against you for exercising your privacy rights.
 
-**Submitting a Request to Exercise Your Rights:** you or your authorized agent may submit a request to access or delete your personal information or opt out of Finaid’s sale of your personal information by contacting us at [support@finaid.org](mailto:info@fastweb.org). Finaid will verify your request using information associated with your account.
+**Submitting a Request to Exercise Your Rights:** you or your authorized agent may submit a request to access or delete your personal information or opt out ofFinaid’s sale of your personal information by contacting us at [support@finaid.org](mailto:info@fastweb.org).Finaid will verify your request using information associated with your account.
 
-**How You Can Access, Update, or Delete Information:** you can access or update your personal information at any time by logging into the Finaid website and selecting “My Profile.” You may delete your account by selecting “Deactivate My Account” on the “Account Settings” page. Users who are experiencing problems with accessing, updating or deleting their information should contact us at [support@finaid.org](mailto:info@fastweb.com), and we will try to resolve your problems and respond within a reasonable time.
+**How You Can Access, Update, or Delete Information:** you can access or update your personal information at any time by logging into theFinaid website and selecting “My Profile.” You may delete your account by selecting “Deactivate My Account” on the “Account Settings” page. Users who are experiencing problems with accessing, updating or deleting their information should contact us at [support@finaid.org](mailto:info@fastweb.com), and we will try to resolve your problems and respond within a reasonable time.
 
 Security
 --------
 
-The security of your personal information is important to us. Finaid has security measures in place to help protect against the loss, misuse or unauthorized alteration of the information under our control. You are the only user authorized to update your profile, unless you give your password information to another party. Ultimately, you are responsible for keeping your username and password secret.
+The security of your personal information is important to us.Finaid has security measures in place to help protect against the loss, misuse or unauthorized alteration of the information under our control. You are the only user authorized to update your profile, unless you give your password information to another party. Ultimately, you are responsible for keeping your username and password secret.
 
-Finaid helps protect personal information by using both online and offline security methods, including firewalls, passwords, restricted electronic access to your personal information, and restricted physical access to where your personal information is stored. Our staff members are trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary, by the Privacy Office at Finaid.
+Finaid helps protect personal information by using both online and offline security methods, including firewalls, passwords, restricted electronic access to your personal information, and restricted physical access to where your personal information is stored. Our staff members are trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary, by the Privacy Office atFinaid.
 
 Data Retention
 --------------
