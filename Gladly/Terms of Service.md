@@ -88,6 +88,9 @@ B. Links
 
 The Website may contain links to third-party websites or resources. You acknowledge and agree that the Gladly Entities are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by the Gladly Entities of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
 
+_Shop for a Cause Only_  
+Note, Gladly may get paid commissions on products purchased through the links to retailer sites using this browser extension. Those commissions are used to support our non-profit partners.
+
 C. Limitation of Liability
 --------------------------
 
