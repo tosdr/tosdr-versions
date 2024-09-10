@@ -37,7 +37,7 @@ Hosting documentation
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
-* [`sitemap.xml` support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
+* [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
 * [`404 Not Found` pages](https://docs.readthedocs.io/en/stable/reference/404-not-found.html)
 * [`robots.txt` support](https://docs.readthedocs.io/en/stable/reference/robots.html)
 
@@ -123,7 +123,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/35ec3923726c2576c5b688d78fa084770e83486a/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -245,7 +245,7 @@ Read the Docs uses Sentry and New Relic to diagnose errors and improve the perfo
 
 #### Analytics[](#analytics "Link to this heading")
 
-We go into detail on analytics in a [separate section specific to analytics](#google-analytics).
+We go into detail on analytics in a [separate section specific to analytics](#plausible).
 
 #### Support desk[](#support-desk "Link to this heading")
 
@@ -272,8 +272,6 @@ For Read the Docs, this means:
 
 * We **do not** do behavioral ad targeting regardless of your DNT preference.
     
-* When DNT is enabled, both logged-in and logged-out users are considered opted-out of [analytics](#google-analytics).
-    
 * Regardless of DNT preference, our logs that contain IP addresses and user agent strings are deleted after 10 days unless a DNT exception applies.
     
 * Our full DNT policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt).
@@ -293,13 +291,13 @@ Read the Docs uses cookies to make interactions with our service easy and meanin
 
 A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting Read the Docs; however, a cookie may store a unique identifier for each logged in user. The cookies Read the Docs sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in to Read the Docs.
 
-### Google Analytics[](#google-analytics "Link to this heading")
+### Plausible[](#plausible "Link to this heading")
 
-We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
+We use Plausible as a third party analytics service, but we don’t use it to track you individually or collect your User Personal Information. We use Plausible to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
 
-Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
+Plausible gathers certain simple, non-personally identifying information over time, such as browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
 
-Read the Docs will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout). You may also opt-out of analytics on Read the Docs by enabling [Do Not Track](#do-not-track).
+Read the Docs will not, nor will we allow any third party to, use the Plausible tool to track our users individually or collect any User Personal Information.
 
 How Read the Docs secures your information[](#how-read-the-docs-secures-your-information "Link to this heading")
 -----------------------------------------------------------------------------------------------------------------
@@ -367,7 +365,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `35ec3923`.
+© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -410,7 +408,7 @@ Hosting documentation
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
-* [`sitemap.xml` support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
+* [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
 * [`404 Not Found` pages](https://docs.readthedocs.io/en/stable/reference/404-not-found.html)
 * [`robots.txt` support](https://docs.readthedocs.io/en/stable/reference/robots.html)
 
@@ -531,7 +529,7 @@ Hosting documentation
 * [Custom domains](https://docs.readthedocs.io/en/stable/custom-domains.html)
 * [Canonical URLs](https://docs.readthedocs.io/en/stable/canonical-urls.html)
 * [Content Delivery Network (CDN) and caching](https://docs.readthedocs.io/en/stable/reference/cdn.html)
-* [`sitemap.xml` support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
+* [Sitemap support](https://docs.readthedocs.io/en/stable/reference/sitemaps.html)
 * [`404 Not Found` pages](https://docs.readthedocs.io/en/stable/reference/404-not-found.html)
 * [`robots.txt` support](https://docs.readthedocs.io/en/stable/reference/robots.html)
 
@@ -615,7 +613,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/35ec3923726c2576c5b688d78fa084770e83486a/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -737,7 +735,7 @@ Read the Docs uses Sentry and New Relic to diagnose errors and improve the perfo
 
 #### Analytics[](#analytics "Link to this heading")
 
-We go into detail on analytics in a [separate section specific to analytics](#google-analytics).
+We go into detail on analytics in a [separate section specific to analytics](#plausible).
 
 #### Support desk[](#support-desk "Link to this heading")
 
@@ -764,8 +762,6 @@ For Read the Docs, this means:
 
 * We **do not** do behavioral ad targeting regardless of your DNT preference.
     
-* When DNT is enabled, both logged-in and logged-out users are considered opted-out of [analytics](#google-analytics).
-    
 * Regardless of DNT preference, our logs that contain IP addresses and user agent strings are deleted after 10 days unless a DNT exception applies.
     
 * Our full DNT policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt).
@@ -785,13 +781,13 @@ Read the Docs uses cookies to make interactions with our service easy and meanin
 
 A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting Read the Docs; however, a cookie may store a unique identifier for each logged in user. The cookies Read the Docs sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in to Read the Docs.
 
-### Google Analytics[](#google-analytics "Link to this heading")
+### Plausible[](#plausible "Link to this heading")
 
-We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
+We use Plausible as a third party analytics service, but we don’t use it to track you individually or collect your User Personal Information. We use Plausible to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
 
-Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
+Plausible gathers certain simple, non-personally identifying information over time, such as browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
 
-Read the Docs will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout). You may also opt-out of analytics on Read the Docs by enabling [Do Not Track](#do-not-track).
+Read the Docs will not, nor will we allow any third party to, use the Plausible tool to track our users individually or collect any User Personal Information.
 
 How Read the Docs secures your information[](#how-read-the-docs-secures-your-information "Link to this heading")
 -----------------------------------------------------------------------------------------------------------------
@@ -859,7 +855,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `35ec3923`.
+© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -867,7 +863,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/35ec3923726c2576c5b688d78fa084770e83486a/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -989,7 +985,7 @@ Read the Docs uses Sentry and New Relic to diagnose errors and improve the perfo
 
 #### Analytics[](#analytics "Link to this heading")
 
-We go into detail on analytics in a [separate section specific to analytics](#google-analytics).
+We go into detail on analytics in a [separate section specific to analytics](#plausible).
 
 #### Support desk[](#support-desk "Link to this heading")
 
@@ -1016,8 +1012,6 @@ For Read the Docs, this means:
 
 * We **do not** do behavioral ad targeting regardless of your DNT preference.
     
-* When DNT is enabled, both logged-in and logged-out users are considered opted-out of [analytics](#google-analytics).
-    
 * Regardless of DNT preference, our logs that contain IP addresses and user agent strings are deleted after 10 days unless a DNT exception applies.
     
 * Our full DNT policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt).
@@ -1037,13 +1031,13 @@ Read the Docs uses cookies to make interactions with our service easy and meanin
 
 A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting Read the Docs; however, a cookie may store a unique identifier for each logged in user. The cookies Read the Docs sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in to Read the Docs.
 
-### Google Analytics[](#google-analytics "Link to this heading")
+### Plausible[](#plausible "Link to this heading")
 
-We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
+We use Plausible as a third party analytics service, but we don’t use it to track you individually or collect your User Personal Information. We use Plausible to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
 
-Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
+Plausible gathers certain simple, non-personally identifying information over time, such as browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
 
-Read the Docs will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout). You may also opt-out of analytics on Read the Docs by enabling [Do Not Track](#do-not-track).
+Read the Docs will not, nor will we allow any third party to, use the Plausible tool to track our users individually or collect any User Personal Information.
 
 How Read the Docs secures your information[](#how-read-the-docs-secures-your-information "Link to this heading")
 -----------------------------------------------------------------------------------------------------------------
@@ -1111,7 +1105,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `35ec3923`.
+© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -1119,7 +1113,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/35ec3923726c2576c5b688d78fa084770e83486a/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/2f48c81e9ce162bbd34229e897db84044b00fe31/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -1241,7 +1235,7 @@ Read the Docs uses Sentry and New Relic to diagnose errors and improve the perfo
 
 #### Analytics[](#analytics "Link to this heading")
 
-We go into detail on analytics in a [separate section specific to analytics](#google-analytics).
+We go into detail on analytics in a [separate section specific to analytics](#plausible).
 
 #### Support desk[](#support-desk "Link to this heading")
 
@@ -1268,8 +1262,6 @@ For Read the Docs, this means:
 
 * We **do not** do behavioral ad targeting regardless of your DNT preference.
     
-* When DNT is enabled, both logged-in and logged-out users are considered opted-out of [analytics](#google-analytics).
-    
 * Regardless of DNT preference, our logs that contain IP addresses and user agent strings are deleted after 10 days unless a DNT exception applies.
     
 * Our full DNT policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt).
@@ -1289,13 +1281,13 @@ Read the Docs uses cookies to make interactions with our service easy and meanin
 
 A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting Read the Docs; however, a cookie may store a unique identifier for each logged in user. The cookies Read the Docs sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in to Read the Docs.
 
-### Google Analytics[](#google-analytics "Link to this heading")
+### Plausible[](#plausible "Link to this heading")
 
-We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
+We use Plausible as a third party analytics service, but we don’t use it to track you individually or collect your User Personal Information. We use Plausible to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
 
-Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
+Plausible gathers certain simple, non-personally identifying information over time, such as browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
 
-Read the Docs will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout). You may also opt-out of analytics on Read the Docs by enabling [Do Not Track](#do-not-track).
+Read the Docs will not, nor will we allow any third party to, use the Plausible tool to track our users individually or collect any User Personal Information.
 
 How Read the Docs secures your information[](#how-read-the-docs-secures-your-information "Link to this heading")
 -----------------------------------------------------------------------------------------------------------------
@@ -1477,7 +1469,7 @@ Read the Docs uses Sentry and New Relic to diagnose errors and improve the perfo
 
 #### Analytics[](#analytics "Link to this heading")
 
-We go into detail on analytics in a [separate section specific to analytics](#google-analytics).
+We go into detail on analytics in a [separate section specific to analytics](#plausible).
 
 #### Support desk[](#support-desk "Link to this heading")
 
@@ -1504,8 +1496,6 @@ For Read the Docs, this means:
 
 * We **do not** do behavioral ad targeting regardless of your DNT preference.
     
-* When DNT is enabled, both logged-in and logged-out users are considered opted-out of [analytics](#google-analytics).
-    
 * Regardless of DNT preference, our logs that contain IP addresses and user agent strings are deleted after 10 days unless a DNT exception applies.
     
 * Our full DNT policy is [available here](https://readthedocs.org/.well-known/dnt-policy.txt).
@@ -1525,13 +1515,13 @@ Read the Docs uses cookies to make interactions with our service easy and meanin
 
 A cookie is a small piece of text that our web server stores on your computer or mobile device, which your browser sends to us when you return to our site. Cookies do not necessarily identify you if you are merely visiting Read the Docs; however, a cookie may store a unique identifier for each logged in user. The cookies Read the Docs sets are essential for the operation of the website, or are used for performance or functionality. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in to Read the Docs.
 
-### Google Analytics[](#google-analytics "Link to this heading")
+### Plausible[](#plausible "Link to this heading")
 
-We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
+We use Plausible as a third party analytics service, but we don’t use it to track you individually or collect your User Personal Information. We use Plausible to collect information about how our website performs and how our users, in general, navigate through and use Read the Docs. This helps us evaluate our users’ use of Read the Docs; compile statistical reports on activity; and improve our content and website performance.
 
-Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
+Plausible gathers certain simple, non-personally identifying information over time, such as browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Read the Docs. We do not link this information to any of your personal information such as your user name.
 
-Read the Docs will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a [browser add-on to opt out of Google Analytics tracking](https://tools.google.com/dlpage/gaoptout). You may also opt-out of analytics on Read the Docs by enabling [Do Not Track](#do-not-track).
+Read the Docs will not, nor will we allow any third party to, use the Plausible tool to track our users individually or collect any User Personal Information.
 
 How Read the Docs secures your information[](#how-read-the-docs-secures-your-information "Link to this heading")
 -----------------------------------------------------------------------------------------------------------------
@@ -1601,4 +1591,4 @@ Due to the nature of our environment where documentation is built as necessary, 
 
 [Previous](https://docs.readthedocs.io/en/stable/unofficial-projects.html "Unofficial and unmaintained projects policy") [Next](https://docs.readthedocs.io/en/stable/legal/security-policy.html "Security policy")
 
-© Copyright Read the Docs, Inc & contributors. Revision `35ec3923`.
+© Copyright Read the Docs, Inc & contributors. Revision `2f48c81e`.
