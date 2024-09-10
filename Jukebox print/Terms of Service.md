@@ -26,6 +26,7 @@ EUR
             * [Die Cut Stickers](https://www.jukeboxprint.com/die-cut-stickers)
             * [Kiss Cut Stickers](https://www.jukeboxprint.com/Kiss-cut-stickers)
             * [Sticker Sheets](https://www.jukeboxprint.com/sticker-sheets)
+            * [Water Bottle Labels](https://www.jukeboxprint.com/water-bottle-labels)
             * [Eco-Friendly Stickers](https://www.jukeboxprint.com/eco-friendly-stickers)
             * [Circle Stickers](https://www.jukeboxprint.com/circle-stickers)
             * [Square Stickers](https://www.jukeboxprint.com/square-stickers)
@@ -55,6 +56,8 @@ EUR
     Information[#### Kiss Cut Stickers](https://www.jukeboxprint.com/Kiss-cut-stickers)[Our custom kiss cut stickers offer extra ad space and are a valuable marketing tool.](https://www.jukeboxprint.com/Kiss-cut-stickers)
     
     Information[#### Sticker Sheets](https://www.jukeboxprint.com/sticker-sheets)[Custom sticker sheets may be the solution you’re looking for. From packaging labels to selling your illustrated sticker designs, our sticker sheets can be used in a variety of ways.](https://www.jukeboxprint.com/sticker-sheets)
+    
+    Information[#### Water Bottle Labels](https://www.jukeboxprint.com/water-bottle-labels)[Durable and dishwasher friendly are two key elements we looked for when creating the perfect flask water bottle sticker.](https://www.jukeboxprint.com/water-bottle-labels)
     
     Information[#### Circular Stickers](https://www.jukeboxprint.com/circle-stickers)[Boost your brand identity with custom circle stickers with your very own design. Our custom printed stickers are produced on the strongest vinyl and with scratch resistant inks, making them remarkably tough and long lasting.](https://www.jukeboxprint.com/circle-stickers)
     
@@ -140,7 +143,7 @@ EUR
             * [Premium Black](https://www.jukeboxprint.com/premium-black-business-cards)
             * [Premium Gray](https://www.jukeboxprint.com/premium-gray-business-cards)
     
-    Information[#### Silk Matte Business Cards](https://www.jukeboxprint.com/silk-matte-business-cards)[Premium soft touch texture with a smooth finish, offered in three sturdy thicknesses.](https://www.jukeboxprint.com/silk-matte-business-cards)
+    Information[#### Silk Matte Business Cards](https://www.jukeboxprint.com/silk-matte-business-cards)[Discover our premium soft touch business cards with a smooth, thick finish that adds elegance and professionalism to your brand.](https://www.jukeboxprint.com/silk-matte-business-cards)
     
     Information[#### Mohawk Superfine Business Cards](https://www.jukeboxprint.com/mohawk-superfine-business-cards)[Indulge in our most luxurious, uncoated, ultra-white stock. Perfect for every special occasion, our Mohawk Superfine collection is available in 18pt and rigid 36pt thicknesses.](https://www.jukeboxprint.com/mohawk-superfine-business-cards)
     
@@ -184,7 +187,7 @@ EUR
     
     Information[#### Shaped Business Cards](https://www.jukeboxprint.com/shaped-business-cards)[Set yourself apart from the standard rectangular card with a die-cut shaped business card! Guaranteed to make your branding stand out, we have a wide variety of pre-made shapes for you to choose from. Ranging from rounded corners to classic tickets, bite marks to bubbles, we have something to boost your brand.](https://www.jukeboxprint.com/shaped-business-cards)
     
-    Information[#### Black Business Cards](https://www.jukeboxprint.com/premium-black-business-cards)[Introducing our Premium Black Collection—a range of the highest quality black business cards produced in four superior stocks with thicknesses from 16pt to 30pt.](https://www.jukeboxprint.com/premium-black-business-cards)
+    Information[#### Black Business Cards](https://www.jukeboxprint.com/premium-black-business-cards)[Introducing our Premium Black Collection—a range of the highest quality black business cards produced in four superior stocks with thicknesses from 16pt to 40pt.](https://www.jukeboxprint.com/premium-black-business-cards)
     
     Information[#### Premium Gray Business Cards](https://www.jukeboxprint.com/premium-gray-business-cards)[Discover the exquisite qualities of 16pt Vibrant Gray, the smoothest of all our elegant Premium Gray stocks. The 18pt Cool Gray offers a more individual tone and more papery texture, while 18pt Dark Gray boasts a gorgeous shadowy shade with a natural feel. Our 20pt Gray Pulp is made from 90% recycled content and possesses the same unique texture of our other Pulp stocks but in a beautiful gray colour.](https://www.jukeboxprint.com/premium-gray-business-cards)
     
@@ -207,8 +210,8 @@ EUR
     * [Brochures](https://www.jukeboxprint.com/brochures)
     * [Table Tent Cards](https://www.jukeboxprint.com/table-tent-cards)
     * [Flyers](https://www.jukeboxprint.com/flyers)
-    * [Wall Calendars](https://www.jukeboxprint.com/custom-calendars)
-    * [Banners](https://www.jukeboxprint.com/custom-printed-banners)
+    * [Wall Calendars](https://www.jukeboxprint.com/custom-wall-calendars)
+    * [Banners](https://www.jukeboxprint.com/vinyl-banners)
     * [Catalogs](https://www.jukeboxprint.com/catalog-printing)
     * [Custom Buttons](https://www.jukeboxprint.com/custom-buttons)
     * [Foam Board Signs](https://www.jukeboxprint.com/foam-board-signs)
@@ -241,7 +244,9 @@ EUR
     
     Information[#### Custom Flyers](https://www.jukeboxprint.com/flyers)[We offer a wide range of sizes, stocks, and finishes to provide every option you need for your next print flyer project.](https://www.jukeboxprint.com/flyers)
     
-    Information[#### Custom Wall Calendars](https://www.jukeboxprint.com/custom-calendars)[Whether for clients, friends, or family, a custom wall calendar is a thoughtful and practical gift that keeps giving all year long. This stylish calendar layout is produced with high-quality paper and hangars in various colors.](https://www.jukeboxprint.com/custom-calendars)
+    Information[#### Custom Wall Calendars](https://www.jukeboxprint.com/custom-wall-calendars)[Whether for clients, friends, or family, a custom wall calendar is a thoughtful and practical gift that keeps giving all year long. This stylish calendar layout is produced with high-quality paper and hangars in various colors.](https://www.jukeboxprint.com/custom-wall-calendars)
+    
+    Information[#### Vinyl Banners](https://www.jukeboxprint.com/vinyl-banners)[Get durable, lightweight 13mil vinyl banners with a sleek matte finish. Perfect for vibrant, glare-free displays, indoors or out.](https://www.jukeboxprint.com/vinyl-banners)
     
     Information[#### Catalog Printing](https://www.jukeboxprint.com/catalog-printing)[Crafted for excellence, our custom catalogs boast the highest quality and cater to large quantities.](https://www.jukeboxprint.com/catalog-printing)
     
@@ -264,7 +269,7 @@ EUR
     
     Information[#### Custom Printed Envelopes](https://www.jukeboxprint.com/custom-printed-envelopes)[Whether invitations or letters, package whatever you send in a custom-printed, perfectly matched envelope.](https://www.jukeboxprint.com/custom-printed-envelopes)
     
-    Information[#### Custom Printed Notepads](https://www.jukeboxprint.com/custom-notepad-printing)[Get creative and create your very own personalized notepad today!](https://www.jukeboxprint.com/custom-notepad-printing)
+    Information[#### Notepads](https://www.jukeboxprint.com/custom-notepad-printing)[Transform every note or reminder with our custom notepads. Choose from premium specialty stocks for a distinctive, branded appearance!](https://www.jukeboxprint.com/custom-notepad-printing)
     
     Information[#### Letterheads](https://www.jukeboxprint.com/letterheads)[Elevate your brand with our elegant Mohawk Stock letterheads - perfect for professional use, easy to write on, and sophisticated.](https://www.jukeboxprint.com/letterheads)
     
@@ -302,6 +307,7 @@ EUR
 * [Quote Request](https://www.jukeboxprint.com/quote)
 * [Resources](#)
 * * [Sticker Maker](https://www.jukeboxprint.com/creator/custom-sticker-maker)
+    * [Sticker Sheets Maker](https://www.jukeboxprint.com/creator/custom-sticker-sheet-maker)
     * [Decal Maker](https://www.jukeboxprint.com/creator/custom-decal-sticker-maker)
     * [Business Card Maker](https://www.jukeboxprint.com/creator/business-card-maker)
     * [Wrapping Paper Maker](https://www.jukeboxprint.com/creator/custom-wrapping-paper-maker)
@@ -531,13 +537,14 @@ If a court of competent jurisdiction determines that any part of these Service T
 
 * [Contact Us](https://www.jukeboxprint.com/contact)
 * [Custom Quotes](https://www.jukeboxprint.com/quote)
+* [Knowledge Center](https://support.jukeboxprint.com/)
 * [Account Center](https://www.jukeboxprint.com/customer/orders/current)
 * [Status](https://status.jukeboxprint.com/)
 
 ###### Company
 
 * [About Us](https://www.jukeboxprint.com/about-us)
-* [Career](https://www.jukeboxprint.com/job-postings)
+* [Careers](https://www.jukeboxprint.com/job-postings)
 * [Jukebox Blog](https://www.jukeboxprint.com/blog/)
 
 ###### Contact
