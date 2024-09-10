@@ -26,7 +26,7 @@
     
     [Sustainability and reports](http://corporate.exxonmobil.com/sustainability-and-reports)
     
-    * * [Global Outlook](http://corporate.exxonmobil.com/what-we-do/energy-supply/global-outlook)
+    * * [Global Outlook](http://corporate.exxonmobil.com/sustainability-and-reports/global-outlook)
         * [Advancing Climate Solutions](http://corporate.exxonmobil.com/sustainability-and-reports/advancing-climate-solutions)
         * [Sustainability](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability)
     
@@ -62,7 +62,7 @@ Search
 
 #### Popular searches
 
-[Energy forecast](http://corporate.exxonmobil.com/what-we-do/energy-supply/global-outlook)
+[Energy forecast](http://corporate.exxonmobil.com/sustainability-and-reports/global-outlook)
 
 [Careers](http://corporate.exxonmobil.com/careers)
 
@@ -94,8 +94,6 @@ Terms and conditions
 ====================
 
 Article June 1, 2023
-
-selected item
 
 EXXON MOBIL CORPORATION
 
@@ -272,8 +270,6 @@ References to “resources,” “resource base,” “recoverable resources” 
 *   [![YouTube](/-/media/global/icons/footer/social/yt-gray.svg) ![YouTube](/-/media/global/icons/footer/social/yt-white.svg) YouTube](http://www.youtube.com/user/exxonmobil)
 
   [![ExxonMobil logo](/-/media/global/icons/footer/sites/logo-exxonmobil-main.svg) ![ExxonMobil logo](/-/media/global/icons/footer/sites/logo-exxonmobil-main-hover.svg) ExxonMobil logo](http://corporate.exxonmobil.com/)[![Exxon](/-/media/global/icons/footer/sites/exxon-gray.svg) ![Exxon](/-/media/global/icons/footer/sites/exxon-white.svg) Exxon](https://www.exxon.com/)[![Mobil](/-/media/global/icons/footer/sites/mobil-gray.svg) ![Mobil](/-/media/global/icons/footer/sites/mobil-white.svg) Mobil](https://www.mobil.com/)[![Esso](/-/media/global/icons/footer/sites/esso-gray.svg) ![Esso](/-/media/global/icons/footer/sites/esso-white.svg) Esso](https://www.esso.com/)[![XTO](/-/media/global/icons/footer/sites/xto-gray.svg) ![XTO](/-/media/global/icons/footer/sites/xto-white.svg) XTO](https://xtoenergy.com/)
-
-[Do not sell my personal information](https://privacyportal.onetrust.com/webform/556d380f-9307-4f7c-8b90-5eaa69099b42/268a33c4-8f55-41f5-bc5d-356ec7c3444f)
 
 Privacy center
 
