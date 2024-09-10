@@ -23,7 +23,7 @@
     * [Warum GLS Bank?](https://www.gls.de/privatkunden/nachhaltig/warum-gls-bank/ "Warum GLS Bank? - Warum GLS Bank?")
     * [Nachhaltigkeitsbezogene Offenlegung](https://www.gls.de/privatkunden/nachhaltig/nachhaltigkeitsbezogene-offenlegung/ "Nachhaltigkeitsbezogene Offenlegung - ")
     
-     [![Illustration: 2 Hände am Fahrradlenker, Blick auf Natur, Windräder und Menschen, ](/media/_processed_/4/9/csm_GLS.Nachhaltigkeitsbericht-2022-Zukunft-als-weg1-335x185_ca553b6966.jpg "Titelbild des GLS Nachhaltigkeitsberichts") Nachhaltig](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht")
+     [![Die Illustration zeigt Menschen im Dialog miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/9/f/csm_Teaser_530x380_812b2b0af1.jpg "GLS_Bank_Nachhaltigkeitsbericht_2023") Nachhaltig](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht")
     
     Lesen Sie unseren [Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht") 
     
@@ -95,7 +95,7 @@
     * [Zurück zur Übersicht](# "Zurück")
     * [Sparen](https://www.gls.de/privatkunden/sparen/ "Sparen")
     * [GLS Tagesgeldkonto](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto/ "Tagesgeldkonto - jederzeit verfügbar")
-    * [GLS Tagesgeldkonto Mitglied Neu](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied - ")
+    * [GLS Tagesgeldkonto Mitglied](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied - ")
     * [GLS Festgeld](https://www.gls.de/privatkunden/sparen/festgeld/ "Festgeld - kurz und sicher")
     * [GLS Sparbrief](https://www.gls.de/privatkunden/sparen/gls-sparbrief/ "Sparbriefe im Überblick - langfristig und wirksam")
         
@@ -231,16 +231,47 @@ Hier finden Sie häufig gestellte Fragen, welche wir Ihnen gerne beantworten mö
 
 [Mehr erfahren](https://www.gls.de/privatkunden/agb/#c44029 "Mehr erfahren")
 
-Zum Herunterladen
------------------
-
-| Thema | Titel | Wofür brauchen Sie das? | Formulare und Infos |
-| --- | --- | --- | --- |
-| **AGB** | Allgemeine Geschäftsbedingungen | Die AGB regeln die Geschäftsbeziehungen zwischen Kund\*in und GLS Bank. | [Download (pdf \| 274 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=6970&cHash=e2992e7c8517c26a15ed607c96523bc9 "Allgemeine Geschäftsbedingungen - 26.04.2024") (Letzte Aktualisierung - 26.04.2024) |
-| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für Bestandskund\*innen | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. Für alle, die bis 31.12.2023 Kund\*in der GLS Bank geworden sind. | [Download (pdf \| 643 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=7243&cHash=8a045d3d7e63fc339fe32e79abc88f48 "Preis- und Leistungsverzeichnis für Bestandskund*innen - 22.04.2024") (Letzte Aktualisierung - 22.04.2024) |
-
 Fragen & Antworten
 ------------------
+
+[Für welche Konten gelten die neuen Preise?](#q440292518)
+
+Die neuen Preise gelten für alle Privat- & Geschäftskund\*innen, die ein Girokonto bei der GLS Bank führen.
+
+Die Änderungen sind in [diesem Dokument](https://www.gls.de/media/PDF/AGB_Konditionen_PLV/134200_Preis-_und_Leistungsverzeichnis_03.23_Stand_01.01.2024.pdf) grau hinterlegt
+
+[Wann werden die neuen Preise berechnet?](#q440292520)
+
+Die neuen Preise werden immer im Folgemonat der Zustimmung oder weiteren Kontonutzung berechnet.
+
+[Wie kann ich ein nicht mehr benötigtes Konto auflösen/ kündigen?](#q440291942)
+
+Sie können jederzeit über das GLS Onlinebanking ein nicht mehr benötigtes Konto auflösen.
+
+[mehr erfahren](https://www.gls.de/privatkunden/service-aktuelles/service/aenderungsauftraege/kontoaufloesung/)
+
+[Was sind beleghafte Überweisungen/beleghafte Buchungen?](#q440292367)
+
+Eine **beleghafte** Buchung/Überweisung ist, wenn Sie uns einen Überweisungsträger/Überweisungsschein **per Post** senden oder in einer GLS Filiale **abgeben** oder einwerfen.   
+  
+SEPA-Überweisungen, die Sie im GLS Onlinebanking oder der GLS Banking-App machen, sind kostenfrei.
+
+**Beispiel Überweisungsträger/Überweisungsschein**
+
+Weil beleghafte Buchungen händisch durch unseren Zahlungsverkehr bearbeitet werden müssen, berechnen wir dafür 1 Euro.   
+   
+Wenn Sie allerdings eine Buchung für ein GLS Sparkonto einsenden, kostet das nichts.  
+
+Es gibt übrigens noch formlose Überweisungen als Freitextbriefe, die einen SEPA-Überweisungsauftrag enthalten. Ihre Bearbeitung kostet 5 Euro.    
+    
+**Noch kein GLS Onlinebanking?**  
+[Hier können Sie sich kostenlos fürs sichere Onlinebanking freischalten.](https://www.gls.de/privatkunden/konto-karten/onlinebanking/onlinebanking-freischalten/) 
+
+![](/media/_processed_/a/d/csm_SEPAueberweisungsvorlage_8f82c0545f.jpg)
+
+[Wie kann ich in Zukunft Änderungen des PLV oder der AGB´s zustimmen?](#q440292522)
+
+Ganz einfach und bequem im Online-Banking oder über die GLS Banking App: Logge Dich hierzu im GLS Onlinebanking mit VR Netkey/ Alias und PIN ein. Hier erscheint eine Seite für die Zustimmung.
 
 [Wieso muss ich bei den Geschäftsbedingungen aktiv zustimmen?](#q440292089)
 
@@ -320,6 +351,16 @@ Bei Unsicherheit könnenn Sie dies bei uns erfragen.
 [Wie werde ich in Zukunft über Änderungen der Geschäftsbedingungen informiert und wie kann ich dann zustimmen?](#q440292106)
 
 Bei Änderungen der AGB und produktbezogenen Vereinbarungen informieren wir Sie wie auch zuvor spätestens 2 Monate, bevor diese wirksam werden sollen. Zum Wirksamwerden der Änderungen werden wir in Zukunft allerdings Ihre aktive Zustimmung benötigen. Lediglich in Ausnahmefällen, z.B. bei Anpassungen der Geschäftsbedingungen aufgrund von gesetzlichen Vorgaben, wird eine aktive Zustimmung nicht erforderlich sein.
+
+Zum Herunterladen
+-----------------
+
+| Thema | Titel | Wofür brauchen Sie das? | Formulare und Infos |
+| --- | --- | --- | --- |
+| **AGB** | Allgemeine Geschäftsbedingungen | Die AGB regeln die Geschäftsbeziehungen zwischen Kund\*in und GLS Bank. | [Download (pdf \| 274 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=6970&cHash=e2992e7c8517c26a15ed607c96523bc9 "Allgemeine Geschäftsbedingungen - 26.04.2024") (Letzte Aktualisierung - 26.04.2024) |
+| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für neue Kund\*innen ab 1. Januar 2024 | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. | [Download (pdf \| 426 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=21976&cHash=5a1b103afaa7071ddafdb8ba86dfd8d3 "Preis- und Leistungsverzeichnis für neue Kund*innen ab 1. Januar 2024 - 02.01.2024") (Letzte Aktualisierung - 02.01.2024) |
+| **Preisleistungsverzeichnis** | Preis- und Leistungsverzeichnis für Bestandskund\*innen | Im Preis- und Leistungsverzeichnis sind die Preise für Dienstleistung im standardisierten Geschäftsverkehr zusammengefasst. Für alle, die bis 31.12.2023 Kund\*in der GLS Bank geworden sind. | [Download (pdf \| 643 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=7243&cHash=8a045d3d7e63fc339fe32e79abc88f48 "Preis- und Leistungsverzeichnis für Bestandskund*innen - 22.04.2024") (Letzte Aktualisierung - 22.04.2024) |
+| **Änderungsaufträge** | Kontoauflösung | Mit diesem Auftrag veranlassen Sie eine Kontoauflösung. | [Download (pdf \| 55 KB)](https://www.gls.de/privatkunden/agb/?eID=download&file=15328&cHash=4d6bfeb1c1ac45fa24a8fb6614a805e3 "Kontoauflösung - 21.03.2024") (Letzte Aktualisierung - 21.03.2024) |
 
 Kontaktformular
 ---------------
@@ -416,6 +457,12 @@ Die schnellsten Wege:
 Mo bis Do: 08:30 – 17:00 Uhr  
 Fr: 08:30 – 16:00 Uhr
 
+#### Fragen zum GLS Onlinebanking?
+
+Mo bis Fr: 08:00 – 20:00 Uhr  
+Sa: 09:00 – 14:00 Uhr  
++49 234 5797 444
+
 **Postanschrift**
 
 GLS Gemeinschaftsbank eG  
@@ -432,7 +479,7 @@ _BIC:_ GENODEM1GLS
 * [Karriere](https://www.gls.de/privatkunden/karriere/ "Karriere")
 * [Newsletter](https://www.gls.de/privatkunden/newsletter/ "Newsletter")
 * [Konditionen & Preise](https://www.gls.de/privatkunden/konditionen-preise/ "Konditionen & Preise")
-* [English Portrait](https://www.gls.de/privatkunden/english-portrait/ "English Portrait")
+* [English](https://www.gls.de/privatkunden/english/ "English")
 * Cookies
 
 Über die GLS Bank
@@ -464,33 +511,20 @@ Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
 
 [**GLS Treuhand e. V.**
 
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Bank-Blog")
+Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Treuhand e. V.")
 
 [**GLS Bank Stiftung**
 
-Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS Bank-Blog")
+Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS Bank Stiftung")
 
 [**GLS Mobility GmbH**
 
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Bank-Blog")
+Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Mobility GmbH")
 
 [**GLS Crowdfunding GmbH**
 
-Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Bank-Blog")
+Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Crowdfunding GmbH")
 
 [**GLS Investment Management GmbH**
 
-Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Bank-Blog")
-
-Störung im Onlinebanking
-------------------------
-
-Liebe Kundin, lieber Kunde,
-
-aktuell gibt es eine technische Störung in unserem Onlinebanking.
-
-Wir arbeiten mit Hochdruck an einer Lösung.
-
-Wir bitten um Ihr Verständnis. Vielen Dank.
-
-Ihre GLS Bank
+Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Investment Management GmbH")
