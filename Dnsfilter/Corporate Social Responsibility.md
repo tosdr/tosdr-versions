@@ -1,6 +1,6 @@
-[DON'T MISS AI-POWERED MSP: FUTURE OF SALES, MARKETING, AND OPERATIONS
+[How to Clearly Position Your MSP to Clients & Increase Sales
 
-REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
+REGISTER NOW](https://explore.dnsfilter.com/position-msp-to-clients-increase-sales-webinar)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -42,6 +42,7 @@ REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
     * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
+    * [Case Studies](https://www.dnsfilter.com/resources/case-studies)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
     * [View All Resources](https://www.dnsfilter.com/resources)
 * [Why DNSFilter](javascript:;)
@@ -53,6 +54,7 @@ REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
     * [Register a Deal](https://share.hsforms.com/1J7wMgBdYTpmU-DV7ZA9Upwe216m)
     * [Value Added Resellers](https://www.dnsfilter.com/var)
     * [Managed Service Providers](https://www.dnsfilter.com/msp)
+    * [Partner Portal](https://partners.dnsfilter.com/wp-login.php)
 
 [![free trial](https://no-cache.hubspot.com/cta/default/23609470/ae32186b-4163-48fb-9e26-ae62701eb72c.png)](https://cta-redirect.hubspot.com/cta/redirect/23609470/ae32186b-4163-48fb-9e26-ae62701eb72c)
 
@@ -96,6 +98,7 @@ REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
     * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
+    * [Case Studies](https://www.dnsfilter.com/resources/case-studies)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
     * [View All Resources](https://www.dnsfilter.com/resources)
 * [Why DNSFilter](javascript:;)
@@ -107,6 +110,7 @@ REGISTER NOW](https://explore.dnsfilter.com/ai-powered-msp)
     * [Register a Deal](https://share.hsforms.com/1J7wMgBdYTpmU-DV7ZA9Upwe216m)
     * [Value Added Resellers](https://www.dnsfilter.com/var)
     * [Managed Service Providers](https://www.dnsfilter.com/msp)
+    * [Partner Portal](https://partners.dnsfilter.com/wp-login.php)
 
 [![free trial](https://no-cache.hubspot.com/cta/default/23609470/ae32186b-4163-48fb-9e26-ae62701eb72c.png)](https://cta-redirect.hubspot.com/cta/redirect/23609470/ae32186b-4163-48fb-9e26-ae62701eb72c)
 
@@ -151,35 +155,35 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
-[![Fool me once, shame on not using DNS protection](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate%281%291.webp)
+[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Milwaukee Edition](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94milwaukeeedition1.webp?width=500&height=190&name=newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94milwaukeeedition1.webp)
 
-Posted on July 24, 2024 by TK Keanini
-
- **
-
-Fool me once, shame on not using DNS protection
-
-**](https://www.dnsfilter.com/blog/shame-not-using-dns-protection)
-
-[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp)
-
-Posted on July 22, 2024 by Alina Gordilova
+Posted on September 3, 2024 by Alina Gordilova
 
  **
 
-Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition
+Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Milwaukee Edition
 
-**](https://www.dnsfilter.com/blog/indycar-race-recap-toronto)
+**](https://www.dnsfilter.com/blog/indycar-race-recap-milwaukee)
 
-[![Lookalike Crowdstrike Domains Discovered by DNSFilter to Date](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp)
+[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Portland Edition](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94portlandedition1%20%281%29.webp?width=500&height=190&name=newsroom_revvingupthefundnsfiltersindycarexperiencerecap%E2%80%94portlandedition1%20%281%29.webp)
 
-Posted on July 22, 2024 by Will Strafach
+Posted on August 26, 2024 by Alina Gordilova
 
  **
 
-Lookalike Crowdstrike Domains Discovered by DNSFilter to Date
+Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Portland Edition
 
-**](https://www.dnsfilter.com/blog/crowdstrike-lookalike-domains)
+**](https://www.dnsfilter.com/blog/indycar-race-recap-portland)
+
+[![Creating an Over-the-Counter Cyber Defense Program](https://www.dnsfilter.com/hs-fs/hubfs/creatinganover_the_countercyberdefenseprogram1.webp?width=500&height=190&name=creatinganover_the_countercyberdefenseprogram1.webp)
+
+Posted on August 13, 2024 by TK Keanini
+
+ **
+
+Creating an Over-the-Counter Cyber Defense Program
+
+**](https://www.dnsfilter.com/blog/creating-an-over-the-counter-cyber-defense-program)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
@@ -207,6 +211,7 @@ AS64089
 * [vs. Infoblox](https://www.dnsfilter.com/compare/infoblox-bloxone-threat-defense-vs-dnsfilter)
 * [vs. Webroot](https://www.dnsfilter.com/compare/webroot)
 * [vs. Webtitan](https://www.dnsfilter.com/compare/webtitan)
+* [vs. Zorus](https://www.dnsfilter.com/compare/zorus-archon)
 * [Compare All](https://www.dnsfilter.com/compare)
 
 ### Support
