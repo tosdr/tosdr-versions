@@ -397,7 +397,7 @@ PRIVACY POLICY
 **11\. DATA PROTECTION OFFICER**
 --------------------------------
 
-**11.1.** If you have any questions about this Privacy Policy, please contact our Data Protection Officer at Scientology Continental Liaison Office for Europe (DPO), Fabriksparken 15, 2600 Glostrup, Denmark, or send an email to [dpo@scientology.net](mailto:dpo@scientology.net).
+**11.1.** If you have any questions about this Privacy Policy, please contact our Data Protection Officer at Scientology Continental Liaison Office for Europe (DPO), Fabriksparken 15, 2600 Glostrup, Denmark, or send an email to [dpo@scientology.net](mailto:dpo@scientology.net). If you are not located within the European Economic Area, contact us via email at [address@scientology.net](mailto:address@scientology.net).
 
 [![Scientology](/images/scientology-logos/scientology-logo-dark_en.svg)](https://www.scientology.org/)
 
