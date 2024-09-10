@@ -229,6 +229,28 @@ Personal Data is collected for the following purposes and using the following se
     * a Sale in California
     * a Sharing in California
     
+    #### Chargeblast
+    
+    We use chargeblast to assist with payments and fraud management.  
+    Personal Data Collected : Name, E-mail, Billing Address  
+    Privacy Policy : https://www.chargeblast.com/legal/privacy
+    
+    This processing constitutes:
+    
+    * a Sale in the United States
+    * a Sharing in California
+    
+    #### Chargeflow
+    
+    We use Chargeflow to assist with payments and fraud management.  
+    Personal Data Collected : Name, E-mail, Billing Address  
+    Privacy Policy : https://www.chargeflow.io/terms-of-service#privacy
+    
+    This processing constitutes:
+    
+    * a Sale in the United States
+    * a Sharing in California
+    
 * ### Hosting and backend infrastructure
     
     This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
@@ -648,7 +670,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage data, Tracker, Answers to questions, Clicks, Keypress events, Motion sensor events, Mouse movements, Scroll position, Touch events, Trackers, Various types of data as specified in the privacy policy of the service, Cookies, First name, Last name, Email address, Billing address, Phone number, Contact info, Physical address, Purchase history, User id, Ip address
+    **Personal Information collected or disclosed:** Usage Data, Tracker, answers to questions, clicks, keypress events, motion sensor events, mouse movements, scroll position, touch events, Trackers, various types of Data as specified in the privacy policy of the service, Cookies, first name, last name, email address, billing address, phone number, contact info, physical address, purchase history, User ID, IP address
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info, contents of the email or message
     
@@ -680,7 +702,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** Usage data, Tracker, Answers to questions, Clicks, Keypress events, Motion sensor events, Mouse movements, Scroll position, Touch events
+    **Personal Information collected or disclosed:** Usage Data, Tracker, answers to questions, clicks, keypress events, motion sensor events, mouse movements, scroll position, touch events
     
     **Purposes:**
     
@@ -696,7 +718,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Various types of data as specified in the privacy policy of the service, Billing address, Tracker, Usage data, Phone number, Contact info, Physical address, Purchase history, User id, Trackers, Company name
+    **Personal Information collected or disclosed:** email address, first name, last name, various types of Data as specified in the privacy policy of the service, billing address, Tracker, Usage Data, phone number, contact info, physical address, purchase history, User ID, Trackers, company name
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, payment info, contents of the email or message
     
@@ -720,7 +742,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, First name, Last name, Email address, Billing address, Tracker, Usage data, Phone number, Contact info, Physical address, Purchase history, User id, Trackers, Company name
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service, first name, last name, email address, billing address, Tracker, Usage Data, phone number, contact info, physical address, purchase history, User ID, Trackers, company name
     
     **Sensitive Personal Information collected or disclosed ℹ️:** payment info, contents of the email or message
     
@@ -906,7 +928,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: May 31, 2024
+Latest update: August 18, 2024
 
 * * *
 
@@ -927,10 +949,12 @@ Loading...
 1887 Whitney Mesa Dr #4080, Henderson, NV 89014
 
 IP Location lookup and Geolocation API - by Kloudend, Inc.  
-ipapi ® is a registered trademark of Kloudend in UK & AU  
+ipapi ™ is a registered trademark of Kloudend in UK & AU  
 IP Location data is aggregated from multiple sources regularly for an accurate & reliable IP lookup.  
 † Latitude / Longitude are often near the center of population. The values aren't precise & shouldn't be used to identify a particular address or household.  
 The location obtained from an IP address is inherently imprecise and may not always be current. Please read our terms of service or contact us to understand the limitations.  
 [Do Not Sell My Personal Information](https://ipapi.co/donotsell/)  
 This product includes data from [IP geolocation by DB-IP](https://db-ip.com/) available under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/) .  
-This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) .
+This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com/) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) .  
+The entity maintaining this website is a data broker under Texas law.  
+To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
