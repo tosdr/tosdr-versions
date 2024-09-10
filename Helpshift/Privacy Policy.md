@@ -122,13 +122,13 @@
     
     #### Featured Case Study
     
-    [![Case Study Hero](https://www.helpshift.com/wp-content/uploads/2024/05/Subway-Surfers-Key-art-landscape-640x456-1.jpg)](https://www.helpshift.com/customers/sybo/)
+    [![](https://www.helpshift.com/wp-content/uploads/2024/09/Huuuge-Casino.jpeg)](https://www.helpshift.com/customers/huuuge/)
     
-    ![SYBO](https://www.helpshift.com/wp-content/uploads/2024/05/SYBO.png)
+    ![](https://www.helpshift.com/wp-content/uploads/2024/09/Huuuge_LOGO_CZERWONE_CMYK.png)
     
-    ### [SYBO’s Subway Surfers Achieves 4.3 CSAT and 77% Automation Rate with Helpshift in Under 3 Months](https://www.helpshift.com/customers/sybo/)
+    ### [Huuuge pioneers AI and human intelligence to master multilingual support](https://www.helpshift.com/customers/huuuge/)
     
-    [Read their story](https://www.helpshift.com/customers/sybo/)
+    [Read their story](https://www.helpshift.com/customers/huuuge/)
     
     * [Customer Engagement Services](https://www.helpshift.com/customer-engagement-services/)
     * [Professional and Managed Services](https://www.helpshift.com/professional-and-managed-services/)
@@ -226,13 +226,15 @@
 Privacy Notice
 ==============
 
-Effective date:  **7 July 2023**
+Effective date:   **8 July 2023**
 
-Last Updated:  **7 July 2023**
+Last Updated:  **19 August 2024**
+
+For the prior version of our Privacy Notice, click [here](https://www.helpshift.com/wp-content/uploads/2024/08/Archived-Helpshift-Privacy-policy-072023.pdf)
 
 ##### Table of Contents
 
-Keywords Studios Group (“Keywords”, “we”, “us” or “our”) knows that you care about how your Personal Data is used and shared, and we take your privacy seriously. When we reference Personal Data, we mean any information which Keywords has or obtains or which an individual provides to us from which that individual can be directly or indirectly personally identified or as that term (or similar term) is defined under applicable law.
+Helpshift, Inc (“Helpshift”, “we”, “us” or “our”) is a subsidiary of Keywords Studios Group (“Keywords”, “we”, “us” or “our”). We know that you care about how your Personal Data is used and shared, and we take your privacy seriously. When we reference Personal Data, we mean any information which Keywords has or obtains or which an individual provides to us from which that individual can be directly or indirectly personally identified or as that term (or similar term) is defined under applicable law.
 
 Accordingly, we have implemented this Privacy Notice to inform you of the information that we collect from you when you visit our website, [www.keywordsstudios.com](https://www.keywordsstudios.com/en/), and its sub-domains, including individual websites of Keywords’ studios (the “Website”), or when you engage Keywords directly for its services, applications and/or their related features (the “Services”), what we do with it and how you can exercise your privacy rights. When you use our Services or our Website, your Personal Data will be handled as described in this Privacy Notice. Your use of our Services or Website, and any dispute over privacy is, where permitted under law, subject to our Terms of Use which is available on the Website, including their applicable terms governing limitations on damages and the resolution of disputes.
 
@@ -251,7 +253,7 @@ This chart details the categories of Personal Data that we collect in connection
 
 |     |     |
 | --- | --- |
-| Category of Personal Data | Personal Data We Collect |
+| **Category of Personal Data** | **Personal Data We Collect** |
 | Profile or Contact Data | First and last name, email address, phone number, mailing address, DOB. |
 | Online Identifiers | Unique identifiers such as email IDs. |
 | Identifiers | Customer number. |
@@ -265,8 +267,8 @@ The following chart details the categories of Personal Data that we collect thro
 
 |     |     |
 | --- | --- |
-| Category of Personal Data | Personal Data We Collect |
-| Profile or Contact Data | First and last name, email address, phone number, mailing address. |
+| **Category of Personal Data** | **Personal Data We Collect** |
+| Profile or Contact Dat | First and last name, email address, phone number, mailing address. |
 | Online Identifiers | Unique identifiers such as email IDs. |
 | Device / IP data | IP address, device ID, type of device/operating system/browser used to access the Website. |
 | Web Analytics | Browsing or search history, web page interactions (including with ads). Referring webpage/source through which you accessed the Website. Non-identifiable request IDs, statistics associated with the interaction between device or browser and the Website. Pixel tags. |
