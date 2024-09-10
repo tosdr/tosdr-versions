@@ -8,15 +8,15 @@ TopicsResources
 
 ### English
 
-[Log in](https://help.shopify.com/user/login)
+[Log in](https://help.shopify.com/en/user/login)
 
-[Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&itcat=help-center&itterm=en-help-p-nav&signup_page=https://help.shopify.com/en/manual/compliance/intellectual-property)
+[Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&itcat=help-center&itterm=en-help-p-nav&signup_page=https://help.shopify.com/en/manual/compliance/intellectual-property/index)
 
 English
 
-[Log in](https://help.shopify.com/user/login)
+[Log in](https://help.shopify.com/en/user/login)
 
-[Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&itcat=help-center&itterm=en-help-p-nav&signup_page=https://help.shopify.com/en/manual/compliance/intellectual-property)
+[Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&itcat=help-center&itterm=en-help-p-nav&signup_page=https://help.shopify.com/en/manual/compliance/intellectual-property/index)
 
 Contents
 
@@ -44,6 +44,6 @@ Contact Support
 
 [Privacy Policy](https://www.shopify.com/legal/privacy)
 
-[Log in to get personalized answers](https://help.shopify.com/user/login?returnTo=/shop-select)
+[Log in to get personalized answers](https://help.shopify.com/en/user/login?returnTo=/en/shop-select)
 
 Send
