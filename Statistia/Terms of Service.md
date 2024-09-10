@@ -21,10 +21,10 @@
     
     * [All Industries](https://www.statista.com/markets/)
     * [Consumer Goods & FMCG](https://www.statista.com/markets/415/consumer-goods-fmcg/)
+    * [E-Commerce](https://www.statista.com/markets/413/e-commerce/)
+    * [Economy & Politics](https://www.statista.com/markets/2535/economy-politics/)
+    * [Energy & Environment](https://www.statista.com/markets/408/energy-environment/)
     * [Internet](https://www.statista.com/markets/424/internet/)
-    * [Media & Advertising](https://www.statista.com/markets/417/media/)
-    * [Retail & Trade](https://www.statista.com/markets/423/retail-trade/)
-    * [Sports & Recreation](https://www.statista.com/markets/409/sports-recreation/)
     * [Technology & Telecommunications](https://www.statista.com/markets/418/technology-telecommunications/)
     * [Transportation & Logistics](https://www.statista.com/markets/419/transportation-logistics/)
     * [Travel, Tourism & Hospitality](https://www.statista.com/markets/420/travel-tourism-hospitality/)
@@ -33,22 +33,22 @@
     
     [Recent Statistics](https://www.statista.com/statistics/recent/) [Popular Statistics](https://www.statista.com/statistics/popular/)
     
-    * [Facebook: quarterly number of MAU (monthly active users) worldwide 2008-2023](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/)
-    * [Quarterly smartphone market share worldwide by vendor 2009-2024](https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/)
-    * [Number of apps available in leading app stores Q3 2022](https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/)
-    * [OPEC oil price annually 1960-2024](https://www.statista.com/statistics/262858/change-in-opec-crude-oil-prices-since-1960/)
+    * [Most used social networks 2024, by number of users](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
     * [Big Mac index worldwide 2024](https://www.statista.com/statistics/274326/big-mac-index-global-prices-for-a-big-mac/)
+    * [Global retail e-commerce sales 2014-2027](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/)
+    * [Car brand market share worldwide 2023](https://www.statista.com/statistics/316786/global-market-share-of-the-leading-automakers/)
+    * [Quarterly Netflix subscribers count worldwide 2013-2024](https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/)
     
     Topics
     
     [Topic Overview](https://www.statista.com/topics/)
     
-    * [Smartphones - statistics & facts](https://www.statista.com/topics/840/smartphones/)
+    * [E-commerce worldwide - statistics & facts](https://www.statista.com/topics/871/online-shopping/)
     * [Social media - statistics & facts](https://www.statista.com/topics/1164/social-networks/)
     
     Top Report
     
-    [![E-commerce worldwide](https://cdn.statcdn.com/Study/10000/10653-standard.png)View Report](https://www.statista.com/study/10653/e-commerce-worldwide-statista-dossier/)
+    [![Consumer trends 2024](https://cdn.statcdn.com/Study/160000/162257-standard.png)View Report](https://www.statista.com/study/162257/consumer-trends-2024/)
     
     [Industry Overview](https://www.statista.com/markets/)
     
