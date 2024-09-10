@@ -133,8 +133,8 @@ Elevate your brand to the forefront of conversation around emerging technologies
     * [Contact us](https://www.technologyreview.com/help#contact-us)
     
 
-* [twitter opens in a new window](https://twitter.com/techreview)
-* [facebook opens in a new window](https://www.facebook.com/technologyreview/)
-* [instagram opens in a new window](https://www.instagram.com/technologyreview/)
-* [rss opens in a new window](https://www.technologyreview.com/feed/)
 * [linkedin opens in a new window](https://www.linkedin.com/company/mit-technology-review)
+* [instagram opens in a new window](https://www.instagram.com/technologyreview/)
+* [reddit opens in a new window](https://www.reddit.com/user/techreview/)
+* [facebook opens in a new window](https://www.facebook.com/technologyreview/)
+* [rss opens in a new window](https://www.technologyreview.com/feed/)
