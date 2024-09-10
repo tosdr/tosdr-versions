@@ -8,30 +8,11 @@ Dealer Locations
 
 Contact Us
 
-[](https://www.agragps.com/contact-us/)
+[](https://www.agragps.com/contact-us)
 
 Wishlist
 
 [](https://www.agragps.com/wishlist/)
-
-* [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
-    
-    English](#)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
-        
-        Français](https://www.agragps.com/fr/cookie-policy-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
-        
-        Deutsch](https://www.agragps.com/de/cookie-policy-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
-        
-        Polski](https://www.agragps.com/pl/cookie-policy-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
-        
-        Português](https://www.agragps.com/pt-br/cookie-policy-au/)
-    * [![](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
-        
-        Español](https://www.agragps.com/es/cookie-policy-au/)
 
 [Social-facebook](https://www.facebook.com/agragps/) [Social-linkedin](https://www.linkedin.com/company/agra-gps/) [Instagram](https://www.instagram.com/agragps/) [Youtube](https://www.youtube.com/channel/UCF5voQj8AkbW0hH2vNsaDCw)
 
@@ -105,15 +86,15 @@ Close
     
     BRIDGE
     
-     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
     
-    $3,380.00
+    USD $3,380.00
     
-    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
-    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
     $3,380.00
     
@@ -123,13 +104,17 @@ Close
     
     [ITCExtend for Starfire ITC](https://www.agragps.com/product/itcextend/)
     
-    Rated **5.00** out of 5
-    
     (1)
     
     $620.00
     
     Accessories
+    
+     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
+    
+    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    
+    $120.00
     
      [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
@@ -137,15 +122,9 @@ Close
     
     $960.00
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
-    
-    $120.00
-    
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
-    
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     $120.00
     
@@ -249,17 +228,17 @@ Menu
     
     BRIDGE
     
-     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
-    
-    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
-    
-    USD $4,400.00 – $5,700.00
-    
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.tm4SgcRzdA.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
+    
+     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
+    
+    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    
+    USD $3,380.00
     
     ITC Extend
     
@@ -267,68 +246,36 @@ Menu
     
     [ITCExtend for Starfire ITC](https://www.agragps.com/product/itcextend/)
     
-    Rated **5.00** out of 5
-    
     (1)
     
     $620.00
     
     Accessories
     
-     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
     
-    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
     
-    $2,690.00
+    $90.00
     
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    $120.00
+    $140.00
     
-     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
     
-    $120.00
+    $960.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
 * [Firmware](https://www.agragps.com/firmware-update-request-form/)
 * [Contact Us](https://www.agragps.com/contact-us/)
 
-_
-
-![en](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)
-
-_English
-
-* [_
-    
-    ![fr](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
-    
-    _Français](https://www.agragps.com/fr/cookie-policy-au/)
-* [_
-    
-    ![de](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
-    
-    _Deutsch](https://www.agragps.com/de/cookie-policy-au/)
-* [_
-    
-    ![pl](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.svg)
-    
-    _Polski](https://www.agragps.com/pl/cookie-policy-au/)
-* [_
-    
-    ![pt-br](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pt-br.svg)
-    
-    _Português](https://www.agragps.com/pt-br/cookie-policy-au/)
-* [_
-    
-    ![es](https://www.agragps.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
-    
-    _Español](https://www.agragps.com/es/cookie-policy-au/)
+en
 
 [](#)
 
@@ -338,7 +285,7 @@ Top Searches:
 
 [Search Term 1](https://www.agragps.com/?s=Search%20Term%201)
 
-[0](https://www.agragps.com/wishlist/?wishlist-action)
+[0](https://www.agragps.com/wishlist/)
 
 [0](https://www.agragps.com/cart/)
 
@@ -1855,6 +1802,46 @@ rs6\_overview\_pagination
 
 ##### Function
 
+##### Name
+
+wf-scan-issue-expanded-4132
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-4133
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-4071
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-4131
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-4175
+
+##### Expiration
+
+##### Function
+
 8\. Enabling/disabling and deleting cookies
 -------------------------------------------
 
@@ -1887,7 +1874,7 @@ Website: [https://www.agragps.com](https://www.agragps.com/)
 Email: jheupel@agragps.com  
 Phone number: +1 7809904052
 
-This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on July 22, 2024.
+This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on September 9, 2024.
 
 ![ARGO GPS](https://www.agragps.com/wp-content/uploads/2023/04/xlogo_white.png.pagespeed.ic.Zn8vpQ_ISw.png)
 
@@ -1954,6 +1941,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                      
+                                                                       
 
 [Digitalagentur Forge12 Interactive GmbH](https://www.forge12.com/ "Digital Agentur")
