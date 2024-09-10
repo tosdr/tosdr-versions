@@ -15,22 +15,50 @@ Refund Policy
 
 We do have a 30 day money back guarantee for all of our shared hosting plans only. Our 30 day money back guarantee gives you peace of mind that our services will meet the expectations set out in the TOS.
 
-**If you cancel within 30 days you receive a full refund on your hosting service only.**
+### 1\. 30-Day Money-Back Guarantee (Shared Hosting Services Only)
 
-The money-back guarantee does not apply to most add-on products,  
-such as domains, ID Protection, given the unique nature of their costs.  
-Refund does apply if You have not collected your Recipt from HahuCloud
+* If you cancel your **shared hosting service** within **30 days** of the initial purchase, you are eligible for a **full refund** on the shared hosting fees.
+* **Note:** This guarantee applies to shared hosting services **only** and does not cover any additional products or services that may have been purchased (e.g., domains, ID Protection).
 
-**If you cancel within 30 days and your plan includes a free domain**
+### 2\. Non-Refundable Products
 
-HahuCloud Will deduct a non-refundable domain fee of as per the domain pricing on hahucloud.com/domain from your refund.  
-This not only covers our costs, but ensures that you won't lose your domain name.  
-You may transfer it to another registrar or simply point it elsewhere at your convenience.  
-Please note newly registered domains  
-cannot be transferred to another registrar during the first 60 days of the registration period.  
-You retain ownership of your domain until the end of its registration period unless you renew it.
+* Add-on products such as **domains** and **ID Protection** are **non-refundable**, due to the unique and immediate costs associated with their purchase.
+* Refunds also do **not apply** if you have already collected your receipt from HahuCloud.
 
-**HahuCloud does not offer any refunds for cancellations that occur after 30 days.**
+### 3\. Refunds for Plans with Free Domains
+
+* If your hosting plan included a **free domain** and you cancel within 30 days, HahuCloud will deduct a **non-refundable domain fee** from your refund, based on the domain pricing listed on [hahucloud.com/domain](https://hahucloud.com/domain).
+* This fee covers our domain registration costs and ensures you **retain ownership** of your domain.
+* You may choose to:
+    * **Transfer** the domain to another registrar (subject to the conditions below).
+    * **Point** the domain to a different hosting service.
+* Please note that domains **cannot be transferred** to another registrar during the first **60 days** after registration, as per ICANN regulations. You will, however, retain ownership of the domain for the full duration of its registration period unless you choose to renew it.
+
+### 4\. No Refunds for VPS or Dedicated Server Hosting
+
+* HahuCloud does **not offer any refunds** for cancellations of **VPS** or **Dedicated Server** hosting services.
+* Once purchased, these services are considered final and non-refundable due to the unique resources allocated for these types of hosting plans.
+
+### 5\. No Refunds After 30 Days
+
+* HahuCloud does **not** offer any refunds for cancellations made after the **30-day** money-back guarantee period for shared hosting services. Once this period has passed, your purchase is considered final and non-refundable.
+
+### 6\. Other Refund Considerations
+
+* **Promotional Pricing:** Refunds will be issued at the promotional rate paid. If your refund is for a multi-year plan, you will only receive a refund for the remaining portion of the first 30 days of the service.
+* **Service Renewals:** Refunds are **not available** for any **renewal** payments. To prevent automatic renewal of services, you must cancel before the renewal date.
+* **Abuse of Policy:** Accounts that violate our terms of service or abuse our refund policy (e.g., excessive cancellations and repurchases) may be subject to review, and in such cases, HahuCloud reserves the right to deny a refund.
+
+### 7\. How to Request a Refund
+
+* To request a refund, you must submit a formal cancellation request through your HahuCloud account dashboard.
+* Once your request is processed, please allow up to **5 - 10 business days** for the refund to be credited to your original payment method.
+
+### 8\. Exceptions to the Refund Policy
+
+* In cases where refunds are not possible, such as fraud, misuse of services, or violation of terms, HahuCloud reserves the right to deny a refund.
+
+By using HahuCloud’s services, you agree to this refund policy. We recommend reviewing this policy thoroughly before purchasing or renewing any services with us. For any questions, feel free to contact our support team.
 
 [](https://hahucloudsupport.t.me/ "Contact us on Telegram")
 
@@ -68,9 +96,10 @@ You retain ownership of your domain until the end of its registration period unl
 * [Announcements](https://my.hahucloud.com/announcements)
 * [Knowledgebase](https://my.hahucloud.com/knowledgebase)
 * [.et Domain Name](https://www.hahucloud.com/et-domain)
-* [💚 Free Web Hosting](https://www.hahucloud.com/charity)
+* [Free Web Hosting](https://www.hahucloud.com/charity)
 * [hahu.io SMS Gateway](https://hahu.io/)
 * [Tender Alert iChereta](https://ichereta.com/)
+* [My Public IP](https://www.hahucloud.com/ip)
 
 ‭
 
