@@ -1,6 +1,6 @@
-See [Terms of Use](https://about.ask.fm/legal/2023-04/en/terms.html) effective before 2023-03-23.
+See [Terms of Use](https://about.ask.fm/legal/2024-08/en/terms.html) effective before 2024-08-16.
 
-Effective Date: 2023-03-23
+Effective Date: 2024-08-16
 
 1\. Important information
 =========================
@@ -85,11 +85,6 @@ To provide you with ease of access to your account, we may implement technology 
 ----------------------------------------
 
 Non-registered users are able to access only the parts of the Services that are publicly available and do not enjoy all of the privileges of being a registered member. You are, however, still subject to the TOU.
-
-3F. Can someone that is not registered ask me a question?
----------------------------------------------------------
-
-In some countries, we permit the asking of questions by unregistered users. In order to ask an unregistered question, you must accept our terms of use and privacy policy. For full information on unregistered users, what data we collect about them and how you can choose to receive questions from them or not, please see our [Privacy Policy](https://about.ask.fm/legal/en/privacy.html). If you are asking a question as an unregistered user, you must continue to follow the rules of conduct of the site and app or you will be banned at our discretion for abuse of this feature at any time and for any reason, if we suspect or believe you are breaching our rules, these terms, any of our policies, or have been reported by another user for improper or concerning behaviour.
 
 4\. What are the rules of using ASKfm?
 ======================================
