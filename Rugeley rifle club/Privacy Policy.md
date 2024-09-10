@@ -12,7 +12,6 @@ Search for:  Search
 
 Menu
 
-* [Open Day](https://www.rugeleyrifleclub.org.uk/open-day/)
 * [About Us](https://www.rugeleyrifleclub.org.uk/about-us/)
     * [About Us](https://www.rugeleyrifleclub.org.uk/about-us/)
     * [History](https://www.rugeleyrifleclub.org.uk/history/)
@@ -24,6 +23,7 @@ Menu
     * [Air Rifle](https://www.rugeleyrifleclub.org.uk/air-rifle/)
     * [Air Pistol](https://www.rugeleyrifleclub.org.uk/air-pistol/)
     * [Benchrest Rifle](https://www.rugeleyrifleclub.org.uk/benchrest-rifle/)
+* [Match Diary](https://www.rugeleyrifleclub.org.uk/2025-match-diary/)
 
 * More
     
