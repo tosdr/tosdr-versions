@@ -7,9 +7,8 @@ Search for:
 Close Search ×
 
 * [Home](https://www.pillarboxblue.com/ "blog")
-* [Denim](https://www.pillarboxblue.com/denim-3/)
-* [Maps](https://www.pillarboxblue.com/maps/)
 * [Christmas](https://www.pillarboxblue.com/amazing-repurposed-upcycled-christmas-decorations/)
+* [Denim](https://www.pillarboxblue.com/denim-3/)
 * [Crafts](https://www.pillarboxblue.com/crafts/)
     * [Sweaters](https://www.pillarboxblue.com/old-wool-sweaters/)
     * [Marimekko Crafts and DIY’s](https://www.pillarboxblue.com/marimekko-crafts-and-diys/)
@@ -20,6 +19,7 @@ Close Search ×
     * [Tin Cans](https://www.pillarboxblue.com/tin-cans/)
     * [Ikea Hacks](https://www.pillarboxblue.com/ikea-hacks/)
     * [Round Ups](https://www.pillarboxblue.com/round-ups/)
+* [Maps](https://www.pillarboxblue.com/maps/)
 * [About Me](https://www.pillarboxblue.com/about-me/)
     * [What Is Upcycling and Why It’s Important](https://www.pillarboxblue.com/what-is-upcycling/)
     * [Press & Working With Me](https://www.pillarboxblue.com/press-working-with-me/)
