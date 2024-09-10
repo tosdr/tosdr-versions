@@ -3,6 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 * TV & Streaming
 * Audio
@@ -22,6 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 #### S'informer
 
@@ -58,6 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 * TV & Streaming
 * Audio
@@ -83,6 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Election USA](https://www.rts.ch/info/dossiers/2024/presidentielle-americaine/)
 
 #### S'informer
 
@@ -421,7 +425,7 @@ Dans notre centre de préférences pour les cookies (bannière des cookies), vou
 Contenus sur des plateformes tierces
 ------------------------------------
 
-Nous sommes présent.es sur des plateformes tierces telles que Facebook, YouTube, Twitter et Instagram. Nous n’avons aucune influence sur l’'approche de ces plateformes tierces en matière de droit de la protection des données.
+Nous sommes présent.es sur des plateformes tierces telles que Facebook, YouTube, X et Instagram. Nous n’avons aucune influence sur l’'approche de ces plateformes tierces en matière de droit de la protection des données.
 
 Les opérateurs de ces plateformes tierces (par exemple dans le cas de Facebook: Meta) traitent vos données à leurs propres fins. Dans ce cadre, les plateformes tierces créent aussi des cookies avec lesquels elles peuvent suivre le comportement des utilisateurs.trices sur d’autres sites et applications du groupe. C’est en particulier le cas lorsque vous êtes déjà enregistré.e sur la plateforme tierce concernée. Vous trouverez de plus amples détails dans les informations relatives à la protection des données des opérateurs.
 
@@ -454,9 +458,9 @@ Les déclarations des fournisseurs tiers sur la protection des données et les n
     
 * [Google](https://policies.google.com/privacy?hl=fr)
     
-* [X (Twitter)](https://twitter.com/fr/privacy "Politique de confidentialité de X")
+* [X](https://x.com/fr/privacy "Politique de confidentialité de X")
     
-* [Instagram](https://about.instagram.com/safety "Instagram Safety | About Instagram")
+* [Instagram](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect "Meta Privacy Policy - How Meta collects and uses user data")
     
 * [Pinterest](https://policy.pinterest.com/fr/privacy-policy "Politique de confidentialité | Pinterest Policy")
     
@@ -514,7 +518,7 @@ Votre UID sert à vous identifier à chaque fois que vous utilisez des produits 
 
 Les données que vous saisissez sont en principe traitées uniquement pour l’enregistrement et la mise à disposition du login SSR.
 
-Le social login (login de réseau social) vous permet d’utiliser les données de connexion de votre fournisseur de social login (par exemple Google, Facebook, Apple, Twitter). Le login SSR collecte l’adresse électronique auprès de votre fournisseur de social login.
+Le social login (login de réseau social) vous permet d’utiliser les données de connexion de votre fournisseur de social login (par exemple Google, Facebook, Apple, X). Le login SSR collecte l’adresse électronique auprès de votre fournisseur de social login.
 
 Si votre fournisseur de social login ne nous indique pas d’adresse électronique, nous nous adressons directement à vous pour en obtenir une.
 
