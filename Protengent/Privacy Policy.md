@@ -31,10 +31,6 @@ Satisfied Customers
 
 [![](img/tashu-btn.png)](https://protegent360.com/tashu/)
 
-[![](https://protegent360.com/img/monsoon-mobile.jpg)](https://protegent360.com/buy-now)
-
-[](https://protegent360.com/buy-now)
-
 Our Product Range
 =================
 
@@ -70,7 +66,7 @@ Protegent Total Security
 
 1 Year / 1 User
 
-~₹ 1250.00~ ₹550.00
+~₹ 1250.00~ ₹990.00
 
 ![Protegent Total Security](uploads/prod-img-total-security.webp)
 
@@ -102,7 +98,7 @@ Protegent Complete Security
 
 1 Year / 1 User
 
-~₹ 2000.00~ ₹850.00
+~₹ 2000.00~ ₹1490.00
 
 ![Protegent Complete Security](uploads/prod-img-complete-security.webp)
 
