@@ -17,7 +17,7 @@ OK
     
     * [For Micro-Businesses](https://stayprivate.com/micro-business)
     
-    * [For Individuals](https://stayprivate.com/#keepd)
+    * [Keepd For Individuals](https://keepd.com/)
 * [Resources](#)
     * [User Guide](https://stayprivate.com/user-guide)
     * [Server Configuration](https://stayprivate.com/server-configuration)
@@ -253,8 +253,7 @@ Products
 [Document Signing](https://stayprivate.com/document-signing/)  
 [Email Encryption](https://stayprivate.com/email-encryption/)  
 [TLS Plus](https://stayprivate.com/tls-plus/)  
-[For Micro-Businesses](https://stayprivate.com/micro-business)  
-[For Individuals](https://stayprivate.com/#keepd)  
+[Keepd For Individuals](https://keepd.com/)
 
 Resources
 
