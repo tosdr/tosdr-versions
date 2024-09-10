@@ -10,7 +10,7 @@ This notice describes how Aragon Ventures collects and uses data about you.
 What is Aragon Ventures?
 ------------------------
 
-Aragon Ventures LLC (d/b/a [NABLA HOST](https://nabla.host/)) is an online service provider and web hosting company operated by Jonah Aragon in Minnesota, United States. As a company, we provide web hosting for a variety of customers. This includes websites as well as interactive services such as Discourse forums and Mastodon federated social media instances.
+Aragon Ventures LLC is an online service provider and web hosting company operated by Jonah Aragon in Minnesota, United States. As a company, we provide web hosting for a variety of customers. This includes websites as well as interactive services such as Discourse forums and Mastodon federated social media instances.
 
 Aragon Ventures sets only its own privacy practices, not the practices of our customers or others who utilize our web hosting services for themselves or for others. You should ask all those involved with the administration or operation of websites hosted with us for information about their privacy practices.
 
