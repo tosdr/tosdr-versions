@@ -5,7 +5,7 @@
 * [Contact Us](https://www.driverge.com/contact/)
 * [(855) 337-9543](tel:8553379543)
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjE4OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjE3OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
 
 * [Vehicles](https://www.driverge.com/vehicles/)Menu Toggle
     * Conversion TypeMenu Toggle
@@ -45,7 +45,6 @@
         * [Wheelchair Securement Systems](https://www.driverge.com/product-innovation/wheelchair-securement-systems/)
         * [Parts](https://www.driverge.com/support/commercial-van-parts/)
 * [Industries](https://www.driverge.com/industry-solutions/)Menu Toggle
-    * [Fleet Sales](https://www.driverge.com/industry-solutions/commercial-van-fleet-sales/)
     * [Non-Emergency Medical Transport](https://www.driverge.com/industry-solutions/non-emergency-medical-transport/)
     * [Senior Living Transport Vehicles](https://www.driverge.com/industry-solutions/senior-living-transport-vehicles/)
     * [Hotel & Resort Guest Transportation](https://www.driverge.com/industry-solutions/hotel-resort-guest-transport-vans/)
@@ -78,7 +77,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjgyOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjgxOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
 
 Main Menu
 
@@ -120,7 +119,6 @@ Main Menu
         * [Wheelchair Securement Systems](https://www.driverge.com/product-innovation/wheelchair-securement-systems/)
         * [Parts](https://www.driverge.com/support/commercial-van-parts/)
 * [Industries](https://www.driverge.com/industry-solutions/)Menu Toggle
-    * [Fleet Sales](https://www.driverge.com/industry-solutions/commercial-van-fleet-sales/)
     * [Non-Emergency Medical Transport](https://www.driverge.com/industry-solutions/non-emergency-medical-transport/)
     * [Senior Living Transport Vehicles](https://www.driverge.com/industry-solutions/senior-living-transport-vehicles/)
     * [Hotel & Resort Guest Transportation](https://www.driverge.com/industry-solutions/hotel-resort-guest-transport-vans/)
@@ -292,7 +290,6 @@ Parts, Service & Training
 -------------------------
 
 * [Customer Support](https://www.driverge.com/support/)
-* [Fleet Sales](https://www.driverge.com/support/fleet-sales-support/)
 * [Driverge Parts](https://www.driverge.com/support/commercial-van-parts/)
 * [Bid Department](https://www.driverge.com/support/vehicle-bids-department/)
 * [Conversion Warranty & Registration](https://www.driverge.com/support/warranty-policy/)
@@ -368,7 +365,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=NzU2OjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=NzU0OjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
