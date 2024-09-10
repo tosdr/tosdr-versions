@@ -90,7 +90,7 @@
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -210,7 +210,7 @@ Search
 * [Our Work](https://sesameworkshop.org/our-work/ "Our Work")
     
     * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-    * [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+    * [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
     * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
     * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
     * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -489,7 +489,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 [Our Work](https://sesameworkshop.org/our-work/)
 
 * [Shows](https://sesameworkshop.org/our-work/shows/ "Shows")
-* [Impact Areas](https://sesameworkshop.org/our-work/impact-areas/ "Impact Areas")
+* [What We Do](https://sesameworkshop.org/our-work/impact-areas/ "What We Do")
 * [Where We Work](https://sesameworkshop.org/our-work/where-we-work/ "Where We Work")
 * [Research and Insights](https://sesameworkshop.org/our-work/research-and-insights/ "Research and Insights")
 * [Fellowships](https://sesameworkshop.org/our-work/fellowships/ "Fellowships")
@@ -509,6 +509,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 * [Careers](https://sesameworkshop.org/about-us/careers/ "Careers")
 * [Diversity, Equity & Inclusion](https://sesameworkshop.org/about-us/diversity-equity-inclusion/ "Diversity, Equity & Inclusion ") 
 * [Contact Us](https://sesameworkshop.org/about-us/contact-us/ "Contact Us")
+* [Frequently Asked Questions](https://sesameworkshop.org/about-us/frequently-asked-questions/ "Frequently Asked Questions")
 * [Sitemap](https://sesameworkshop.org/sitemap/ "Sitemap")
 
 [Support Us](https://sesameworkshop.org/support-us/)
@@ -518,7 +519,7 @@ Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www
 * [Corporate and Institutional Giving](https://sesameworkshop.org/support-us/corporate-giving/ "Corporate and Institutional Giving")
 * [Impact Report](https://sesameworkshop.org/about-us/financials/impact-report/ "Impact Report")
 
-[![Google is a proud partner of Sesame Street](https://sesameworkshop.org/wp-content/uploads/2024/01/BannerAd_728x90_240126.gif)](https://families.google/)
+[![Beaches Resorts Sponsorship](https://sesameworkshop.org/wp-content/uploads/2023/03/BCH-10911-CARIB-PLAYGR-SESAMESTREET-728X90_LO4_cf_jas_Opt.jpg)](https://www.beaches.com/?utm_source=sesamestreet&utm_medium=display&utm_content=Beaches&utm_campaign=2023sst728X90)
 
  [![2023 Gold GuideStar Seal of Transparency](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/seal_of_transparency.png)](https://www.guidestar.org/profile/13-2655731)[![2020 GlobalGiving Top-Ranked Organization](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/globalgiving_topranked.png)](https://www.globalgiving.org/)[![BBB Accredited Charity](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/footer/bbb.png)](https://www.bbb.org/new-york-city/charity-reviews/charity-children-and-youth/sesame-workshop-in-new-york-ny-153900/#sealclick)
 
