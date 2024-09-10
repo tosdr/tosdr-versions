@@ -34,17 +34,12 @@ Creator hat erwähnt
 
 Creator wurde erwähnt
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_GwnkXBJdKRUecB7hr3nG7kdpfLzA)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_Ea9f3ow6iaBdKE5ZDbkSjsWc3P63)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 Erwähnte Brands
 ---------------
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_GwnkXBJdKRUecB7hr3nG7kdpfLzA)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
-
-Inhalte
--------
-
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontent.b17e2cea.png&w=3840&q=75&dpl=dpl_GwnkXBJdKRUecB7hr3nG7kdpfLzA)Content Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.63e65d78.png&w=3840&q=75&dpl=dpl_Ea9f3ow6iaBdKE5ZDbkSjsWc3P63)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 * Plattform
 * [Instagram](https://nindo.de/features/instagram)
@@ -58,6 +53,7 @@ Inhalte
 * [Content Analytics](https://nindo.de/features/content)
 * [Kooperationen](https://nindo.de/features/branded-content)
 * [Manage Influencer](https://nindo.de/features/monitoring)
+* [Kampagnenmanager Neu](https://nindo.de/features/campaigns)
 * [Für Brands](https://nindo.de/solutions/brands)
 * [Für Agenturen](https://nindo.de/solutions/agencies)
 
@@ -80,13 +76,13 @@ Inhalte
 * Nindo GmbH
 * [Karriere](https://nindo.de/jobs) Neu
 * Nindo GmbH
-* Franzstraße 109  
-    52064 Aachen  
+* Theaterstraße 30-32  
+    52062 Aachen  
     Deutschland - Germany
     
 * [kontakt@nindo.de](mailto:kontakt@nindo.de)
 
-© Nindo GmbH[Impressum](https://nindo.de/imprint)[Datenschutz](https://nindo.de/privacy)
+© Nindo GmbH[Impressum](https://nindo.de/imprint)[Privacy Policy](https://nindo.de/privacy)[Terms Of Service](https://nindo.de/terms)
 
 [](https://www.linkedin.com/company/nindopro)[](https://www.xing.com/pages/nindo)[](https://www.instagram.com/nindo.de/)[](https://www.youtube.com/channel/UC1W96tENk9fz6ODZfEF42tA)[](https://www.tiktok.com/@nindo.de)
 
