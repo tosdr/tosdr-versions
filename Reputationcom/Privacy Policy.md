@@ -1,8 +1,10 @@
 ✕
 
-[NEW: 2024 UK Pharmacies ‘Quick Take’ Report
+[The 2024 Healthcare Rankings Report is Now Available.
 
-Learn More](https://resources.reputation.com/pharmacies-quick-take)
+Learn More](https://reputation.com/solutions/healthcare/resources)
+
+![](https://reputation.com/wp-content/uploads/2024/04/leaderboard-bg-teal-gradient-scaled.jpg)
 
 * [LOGIN](https://app.reputation.com/auth)
 * [CONTACT](https://reputation.com/contact/)
@@ -198,7 +200,7 @@ We use Personal Data for certain legitimate business interests, notably in order
     7. We share your Personal Data with our parent company (Reputation.com, Inc.) and/or subsidiaries to provide products, services or support to you, in relation to our sales and marketing activities, to enforce our terms and conditions, and promote trust and safety.
     8. The implementation of our Services, by its very nature, may require publishing your Personal Data in order to post review responses, post on social media sites, etc. For example, we may have to disclose your name to a review website in order to post a response to a review.
     9. We disclose information as necessary to our subprocessor in order to fulfill the Reputation services purchased. See our list of [subprocessors](https://reputation.com/legal-information/reputation-com-subprocessors/).
-    10. We share publicly available information to improve our services and to develop new products, features, and technologies that benefit our clients. For example, we utilize ChatGPT, an OpenAI LLC product, as an opt-in feature, for generative artificial intelligence capabilities in our review product.
+    10. We share publicly available information to improve our services and to develop new products, features, and technologies that benefit our clients; and provide customer support. For example, we utilize ChatGPT, an OpenAI LLC product, as an opt-in feature, for generative artificial intelligence capabilities in our review product. In addition, we utilize AiseraGPT, for generative AI capabilities in our Chatbot to answer customer inquiries and resolve simple customer issues.
 4. The Company maintains two separate platforms, one hosted in the United States and one hosted in the European Economic Area (EEA). For the EEA platform, due to the unpredictable nature of Internet routing, your information may pass through other countries while in transit to our servers. Please read the “Additional Information For European and UK Individuals” section in this Privacy Notice for further information about the safeguards we implement when we transfer your Personal Data outside of the EEA and the UK.
 
 ### International Transfers of Personal Data
