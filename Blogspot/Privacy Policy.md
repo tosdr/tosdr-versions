@@ -1,1 +1,1 @@
-[https://policies.google.com/privacy?hl=en-GB&gl=uk](https://policies.google.com/privacy?hl=en-GB&gl=uk)
+[https://policies.google.com/privacy?hl=en&gl=us](https://policies.google.com/privacy?hl=en&gl=us)
