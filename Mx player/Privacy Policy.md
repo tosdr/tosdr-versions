@@ -2,11 +2,11 @@
 
 Privacy Policy
 
-This Privacy Policy shall be read in conjunction and together with the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use) forms an integral part of the User Agreement between You ( “User(s) or you” ) and MX Player (“We/Our/Us/MX Player”). Capitalized terms not defined herein shall have the meaning attributed to them under the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use)
+This Privacy Policy shall be read in conjunction and together with the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use) forms an integral part of the User Agreement between You (“User(s) or you”) and MX Player (“We/Our/Us/MX Player”). Capitalized terms not defined herein shall have the meaning attributed to them under the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use)
 
 1\. MX Player Terms of Privacy Policy
 
-Privacy Policy describes how and when MX Player collects, processes, uses and shares your information when you use MX Player, including our mobile applications and websites (the "Services"). MX Player receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. By accessing and/or using the Services, you consent and authorize us to the collection, transfer, processing, storage, disclosure and other uses of your information as described in this Privacy Policy. If you do not agree with any or all of the following terms of the Privacy Policy, please Do Not Use and/or access the Services.
+Privacy Policy describes how and when MX Player collects, processes, uses and shares your information when you use MX Player, including our mobile applications and websites (the "Services"). MX Player receives your information through our mobile applications, websites, email notifications, and other interactions with our Services. When you access and/or use the Services, you consent and authorise us to handle your information including collecting, transferring, processing, storing, and disclosing it, as described in our Privacy Policy. If you do not agree with any or all of the following terms of the Privacy Policy, please Do Not Use and/or access the Services.
 
 2\. Personal Data Collection and Use
 
@@ -14,7 +14,7 @@ We use Personal Information to facilitate and improve our Services and communica
 
 2.1 General Information
 
-The general data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent device identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) the equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on).
+The general data, such as identifiers and details we collect to provide our Services, to enable our systems to recognize your browser or device, to provide and improve our Services, for fraud detection and prevention and enhancing safety, can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent device identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) the equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on).
 
 2.2 Collection of Personal Information
 
@@ -38,13 +38,13 @@ We may ask for and you may choose to provide the below information, which may in
 * Information you share when you participate in marketing promotions, prize draws or competitions your opt-in choices and communication preferences
 * Any other information that you may otherwise choose to provide us
 
-We collect this information in a number of ways, including when you enter it while using our Platform, and interact with our customer support. In some cases, where you access our Platform service available via mobile devices, Smart TVs or Internet connected TVs or Internet connected devices (“streaming devices") your streaming devices may store some of your Personal Information in their memory. These streaming devices are operated by third parties and these third parties will have their own privacy notices or other policies regarding the handling of Personal Information that they independently collect from such streaming devices. You should carefully read the privacy notice and policies of these streaming devices. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Notice.
+We collect this information in a number of ways, including when you enter it while using our Platform, and interact with our customer support. In some cases, where you access our Platform service available via mobile devices, Smart TVs or Internet connected TVs or Internet connected devices (“ Streaming Devices ") your Streaming Devices may store some of your Personal Information in their memory. These Streaming Devices are operated by third parties and these third parties will have their own privacy notices or other policies regarding the handling of Personal Information that they independently collect from such Streaming Devices. You should carefully read the privacy notice and policies of these Streaming Devices. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by this Privacy Policy.
 
 2.3 Finding Friends and Connecting to Other Services
 
-Services include several features to help connect you to the accounts of people you already know. For example, you may upload information from your address book or connect your MX Player account to your account on another service such as Twitter. MX Player will match the information you provide with the contact information of other MX Player users in order to provide and improve the Services, for example by making recommendations and routing MX Player messages. You may remove address book data from MX Player at any time through the settings in your MX Player app. When you connect your MX Player account to other services, you are able to post your content to those services as well. You may disconnect your MX Player account from your account on the other services at any time.
+Services include several features to help connect you to the accounts of people you already know. For example, you may upload information from your address book or connect your MX Player account to your account on another service such as X (formerly known as Twitter). MX Player will match the information you provide with the contact information of other MX Player users in order to provide and improve the Services, for example by making recommendations and routing MX Player messages. You may remove address book data from MX Player at any time through the settings in your MX Player app. When you connect your MX Player account to other services, you are able to post your content to those services as well.
 
-Your MX Player account will immediately revoke our authorization to cross-post on your behalf or otherwise access that account and we will delete information obtained from that connection (other than information that was publicly posted on MX Player, such as profile information), which may take some time.
+You may disconnect your MX Player account from your account on the other services at any time. Your MX Player account will immediately revoke our authorization to cross-post on your behalf or otherwise access that account and we will delete information obtained from that connection (other than information that was publicly posted on MX Player, such as profile information), which may take some time.
 
 2.4 Content, Following, and other Public Information
 
@@ -66,26 +66,22 @@ We may use "cookie" technology to collect additional website usage data and to i
 
 The servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, view videos hosted by MX Player, or interact with our email notifications. MX Player uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months or such other period as required by us.
 
-2.9 Data Retention of other Non-Personal Identification Information
-
-We do not collect the “Personal Information” which can identify you or another person. We may collect non-personal identification information about Users whenever they interact with our apps. Non-Personal identification information may include the type of your phone, apps, and other technical information about Users' means of connection to our apps such as the versions of phone model and other similar information. Also, please be informed that We, after request for deletion of Non-Personal identification information, continue to retain some of your Non-Personal identification information for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a Platform account for fraud or safety reasons, we may retain certain information from that account to prevent the user from opening a new account in the future. We may further, after request for deletion of non-personal identification information, still continue to retain and use your Non-Personal identification information to the extent necessary to comply with our legal obligations as enshrined under The Digital Personal Data Protection Act, 2023 (“Data Protection Law of India”). For example, we may keep your information for tax, legal reporting and auditing obligations as well.
-
-2.10 Third-Party Services
+2.9 Third-Party Services
 
 MX Player uses a variety of third-party services to help provide our Services, including to host our various blogs and wikis and to help us understand the use of our Services. These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, pages viewed, and links clicked. Our service providers include [Google Analytics](https://policies.google.com/technologies/partner-sites) and its demographics and interests reporting feature, which you can opt out of [here](https://www.google.com/settings/ads) and [here.](http://www.google.com/ads/preferences/html/mobile-about.html)  
   
-Player also use Facebook ad support:[https://www.facebook.com/business/ads-guide.](https://www.facebook.com/business/ads-guide)  
+Player also use Facebook ad support: [https://www.facebook.com/business/ads-guide.](https://www.facebook.com/business/ads-guide)  
   
-MX Player also uses YouTube API Services in some of it's products. That means if you are using a MX Player's service which makes use of Youtube APIs, then you are agreeing to the  
+MX Player also uses YouTube API Services in some of its products. That means if you are using a MX Player's service one of our services which makes use of YouTube APIs, then you are agreeing to the  
 [YouTube Terms of Service](https://www.youtube.com/static?gl=HK&template=terms) & [Google Privacy Policy](https://www.google.com/policies/privacy/) as well.  
   
 MX Player also uses Google API through which MX Player collects information of the “Installed Application” in the Users android based devices and store it to [https://mxase.clmbtech.com](https://mxase.clmbtech.com/)
 
-2.11 Interest-Based Ads
+2.10 Interest-Based Ads
 
 In order to provide with a personalized advertisement experience to you, third parties, including Facebook, may collect or receive information from our app and other apps and use that information to improve services and targeted ads.  
   
-On your Android, you can change your device settings to control whether you see online interest-based ads from Facebook and other companies.  
+On your Android device, you can change your device settings to control whether you see online interest-based ads from Facebook and other companies.  
 On your Android (versions 2.2 and up) and Google Play Services (versions 4.0 and up):
 
 * Go to Google Settings
@@ -101,15 +97,15 @@ Based on your choice on Admob ad personalization consent page, Admob & its partn
 
 3\. Sensitive Personal Data and Information
 
-Mx Player will never ask you and you must never provide sensitive MX Player will never ask you and you must never provide Sensitive Personal Data Or Information to MX Player or to any person/entity representing MX Player. Any disclosure of Sensitive Personal Data Or Information shall be at your sole risk and without any liability to MX Player (including its directors, key managerial personnel, officers and employees). You understand, acknowledge and agree that MX Player or any other person acting on behalf of MX Player shall not in any manner be responsible for the authenticity of the Personal Information or Sensitive Personal Data or Information provided by you to MX Player.
+MX Player will never ask you and you must never provide Sensitive Personal Data or Information to MX Player or to any person/entity representing MX Player. Any disclosure of Sensitive Personal Data or Information shall be at your sole risk and without any liability to MX Player (including its directors, key managerial personnel, officers and employees). You understand, acknowledge and agree that MX Player or any other person acting on behalf of MX Player shall not in any manner be responsible for the authenticity of the Personal Information or Sensitive Personal Data or Information provided by you to MX Player.
 
   
 
-You must note that any information that is freely available or accessible in public domain shall not be regarded as Personal Information or Sensitive Personal Data or Information for the purposes of this Privacy Policy and MX Player shall not be obliged to take any measures to protect the same since the same is freely available in the public domain. Please further note that identity theft and the practice currently known as "phishing" are of great concern to MX Player. We do not and will not, at any time, request your credit card information/debit card information/financial pin numbers and passwords.
+You must note that any information that is freely available or accessible in public domain shall not be regarded as Personal Information or Sensitive Personal Data or Information for the purposes of this Privacy Policy and MX Player shall not be obliged to take any measures to protect the same since the same is freely available in the public domain. Please further note that identity theft and the practice currently known as "phishing" are of great concern to MX Player. We do not and will not, at any time, request your credit card information/debit card information/financial pin numbers and passwords (other than when as a part of the account registration and login process).
 
 4\. Information Sharing and Disclosure
 
-To improve our products and provide you with better service, We also share Personal Data with vendors or agents working on our behalf for the purposes described in this Privacy Policy. For example, companies we've hired to provide data analytical services may need collect and access to Personal Data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
+To improve our products and provide you with better service, we also share Personal Data with vendors or agents working on our behalf as described below, for the purposes described in this Privacy Policy. For example, companies we've hired to provide data analytical services may need collect and access certain to Personal Data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
 
 4.1 Your Consent
 
@@ -125,11 +121,11 @@ MX Player may preserve or disclose your information if we believe that it is rea
 
 4.4 Business Transfers
 
-In the event that MX Player is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity. By providing your information to us, you consent to any transfer and processing in accordance with this Privacy Policy.
+In the event that MX Player is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The rights and obligations in this Privacy Policy will apply to your information as transferred to the new entity. By providing your information to us, you consent to any transfer and processing (by the new entity) in accordance with this Privacy Policy.
 
 4.5 International Transfers
 
-If MX Player needs to host/ store its data which includes the Users data as available with MX Player to severs falling out of Users jurisdiction, MX Player will take all reasonable efforts to ensure that transfer and storage of such data to servers located outside the Users jurisdiction are bound by duty of confidentiality.
+If MX Player needs to host/ store its data which includes the Users data as available with MX Player to servers falling out of Users jurisdiction, MX Player will take all reasonable efforts to ensure that transfer and storage of such data to servers located outside the Users jurisdiction are bound by duty of confidentiality.
 
 4.6 Non-Private or Non-Personal Information
 
@@ -143,28 +139,24 @@ Our Services is primarily meant for the Users who have attained the age of 18 ye
 
 Our Services are not directed to minors who are under the age of 13. If you become aware that your child has provided us with Personal Information without your consent, please email to [support@mxplayer.in](mailto:support@mxplayer.in). We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
-7\. Legal Basis for Personal Data Processing
+7\. Third Party Websites / Apps
 
-MX Player processes Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process Personal Data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you so you may use our Service); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes).In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Services.
-
-8\. Third Party Websites / Apps
-
-Our Service may contain links to other websites/services owned and operated by third parties which are not under the control of MX Player ("Third-Party Websites/Apps"). Any Third Party Websites/App you visit by a link from our Service is solely the responsibility of owners of such Third Party Websites/Apps. The content of, including materials and information contained on, any Third Party Websites/Apps to which you link from our Service is solely the responsibility of the owner and provider of such Third Party Websites/Apps. Any transactions that you enter into with a third party listed in this Service or linked from our Service are solely between you and owner/provider of such Third Party Websites/Apps. MX Player is and shall not be responsible for any such Third Party Websites/Apps, any products or services sold or provided by such Third Party Websites/Apps, nor the organizations publishing those Third Party Websites/Apps, and hereby disclaim any responsibility and liability for the same. The inclusion of any links does not constitute or imply an endorsement or recommendation by us of the Third Party Websites/Apps and the services and products offered therein, of the quality of any product or service, advice, information or other materials displayed, purchased, or obtained by you as a result of an advertisement or any other information or offer in or in connection with the Third Party Websites/Apps. MX Player shall not be liable, accountable or responsible for your Personal Information and/or Sensitive Personal Data or Information being used or misused by such Third Party Websites/Apps.  
+Our Service may contain links to other websites/services owned and operated by third parties which are not under the control of MX Player ("Third-Party Websites/Apps"). Any Third-Party Websites/App you visit by a link from our Service is solely the responsibility of owners of such Third Party Websites/Apps. The content of, including materials and information contained on, any Third-Party Websites/Apps to which you link from our Service is solely the responsibility of the owner and provider of such Third-Party Websites/Apps. Any transactions that you enter into with a third party listed in this Service or linked from our Service are solely between you and owner/provider of such Third-Party Websites/Apps. MX Player is and shall not be responsible for any such Third-Party Websites/Apps, any products or services sold or provided by such Third-Party Websites/Apps, nor the organizations publishing those Third-Party Websites/Apps, and hereby disclaim any responsibility and liability for the same. The inclusion of any links does not constitute or imply an endorsement or recommendation by us of the Third-Party Websites/Apps and the services and products offered therein, of the quality of any product or service, advice, information or other materials displayed, purchased, or obtained by you as a result of an advertisement or any other information or offer in or in connection with the Third-Party Websites/Apps. MX Player shall not be liable, accountable or responsible for your Personal Information and/or Sensitive Personal Data or Information being used or misused by such Third-Party Websites/Apps.  
   
-access and usage of any Third Party Websites/Apps is entirely at your own risk. MX Player shall not be a party to any transaction between you and a Third Party Websites/Apps. Your use of a Third Party Websites/Apps is subject to the terms and conditions and privacy policy of such Third Party Websites/Apps in addition to our Terms of Use/User Agreement and Privacy Policy.
+Access and usage of any Third-Party Websites/Apps is entirely at your own risk. MX Player shall not be a party to any transaction between you and a Third-Party Websites/Apps. Your use of a Third-Party Websites/Apps is subject to the terms and conditions and privacy policy of such Third- Party Websites/Apps in addition to our Terms of Use/User Agreement and Privacy Policy.
 
-9\. Limited Liability
+8\. Limited Liability
 
 Security of your Personal Information is a paramount importance for us and we want the same to be as safe as possible while using and accessing our Services. To this extent, we have implemented reasonable technical safeguards to protect your Personal Information. Whilst we will take all the reasonable steps to protect your Personal Information against potential risks and exposures, there is no absolute security in the online/ internet sphere as known to public. Therefore, you must not disclose any information on our Services that is Sensitive Personal Data or Information. You understand that the transmission of information over the internet is not completely secure and there are risks associated with it. Although we strive to protect your personal information, we cannot guarantee the security of the same while it is being transmitted to our Services and any transmission is at your own risk.
 
-10\. Support
+9\. Support
 
-If you do not consent to any part of the terms of this Privacy Policy or wish to withdraw consent to process Your Personal Data then you may stop using the Services and ask us to remove your Personal Data/ Information from our records by writing to our grievance officer at [grievanceofficer@mxplayer.in](mailto:grievanceofficer@mxplayer.in).
+If you do not consent to any part of the terms of this Privacy Policy or wish to withdraw consent to process Your Personal Data then you may stop using the Services and ask us to remove your Personal Data/ Information from our records by writing to our grievance officer, \[Manish Mishra\] at [grievanceofficer@mxplayer.in](mailto:grievanceofficer@mxplayer.in).
 
-11\. Changes to this Policy
+10\. Changes to this Policy
 
 We may revise this Privacy Policy from time to time without any further notification (except for material changes). The most current version of the policy will govern our use of your Personal Information and will always be updated and available at [https://www.mxplayer.in/privacy-policy.](https://www.mxplayer.in/privacy-policy) If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-12\. Disclaimer
+11\. Disclaimer
 
-Please be advised that MX Player is legally required to still retain some types of data even after request for personal/non-personal data identification deletion or complete account deletion, such as subscription, payment details, device information etc., We do this in line with applicable laws of Data Protection (as applicable in India) including for tax and accounting and fraud prevention purposes. We also may retain such types of data to be in compliance with local laws and auditing purposes.
+Please be advised that MX Player is legally required to still retain some types of data even after request for personal data identification deletion or complete account deletion, such as subscription, payment details, device information etc. We do this in line with applicable laws (as applicable in India) including for tax, accounting and fraud prevention purposes. We also may retain such types of data to be in compliance with local laws and auditing purposes.
