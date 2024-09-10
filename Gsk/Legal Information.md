@@ -47,7 +47,7 @@ Location
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
     
-    [Feature section Global Outstanding people ![Two employees walking through the office together](/media/11517/20250115-extra-6-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Feature section Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
+    [Feature section Global Outstanding people ![Two people walking in an office](/media/11676/20250115-extra-6-phl-small.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Feature section Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
     
     Close menu
     
@@ -65,7 +65,7 @@ Location
         * [Diversity in clinical studies](https://us.gsk.com/en-us/innovation/clinical-studies/diversity-in-clinical-studies/)
         
     
-    [Feature section Global pipeline ![A close-up shot of scientist's hands handling a vial](/media/11514/20281231-c1-innovation-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Feature section Global Behind the science magazine ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
+    [Feature section Global pipeline ![A close-up shot of scientist's hands handling a vial](/media/11514/20281231-c1-innovation-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Feature section Global Behind the science magazine ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
     
     Close menu
     
@@ -92,7 +92,7 @@ Location
         
     * [Ethical standards](https://us.gsk.com/en-us/responsibility/ethical-standards/)
     
-    [FEATURED WEBSITE Access to medicines ![A scientist checking experiment results in the lab](/media/11540/20271231-a1-careers-up.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [FEATURED SECTION Global Responsibility ![A smiling scientist posing in the lab](/media/11557/20250115-f4-ethical-standards-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
+    [FEATURED WEBSITE Access to medicines ![A scientist checking experiment results in the lab](/media/11540/20271231-a1-careers-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [FEATURED SECTION Global Responsibility ![A smiling scientist posing in the lab](/media/11557/20250115-f4-ethical-standards-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
     
     Close menu
     
@@ -110,9 +110,10 @@ Location
         * [Did You Know?](https://us.gsk.com/en-us/media/in-focus/red-dab-red-flag/)
         * [Flu is a Family Affair](https://us.gsk.com/en-us/media/in-focus/flu-is-a-family-affair/)
         * [Mapping Myelofibrosis](https://us.gsk.com/en-us/media/in-focus/mapping-myelofibrosis/)
+        * [Five for Five](https://us.gsk.com/en-us/media/in-focus/five-for-five/)
         
     
-    [Feature Section Global press releases ![Two employees discussing work in the office](/media/11553/20271231-h2-visit-our-global-careers-site-link-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
+    [Feature Section Global press releases ![Two employees discussing work in the office](/media/11553/20271231-h2-visit-our-global-careers-site-link-um.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
     
     Close menu
     
@@ -136,17 +137,17 @@ Location
         * [A career in oncology](https://us.gsk.com/en-us/careers/experienced-professionals/a-career-in-oncology/)
         * [A career in Boston](https://us.gsk.com/en-us/careers/experienced-professionals/a-career-in-boston/)
         
-    * [Early talent](https://us.gsk.com/en-us/careers/early-talent/)
+    * [Early careers](https://us.gsk.com/en-us/careers/early-careers/)
         
-        Careers [Early talent](https://us.gsk.com/en-us/careers/early-talent/)
+        Careers [Early careers](https://us.gsk.com/en-us/careers/early-careers/)
         
-        * [Apprentices](https://us.gsk.com/en-us/careers/early-talent/apprentices/)
-        * [Internships and co-ops](https://us.gsk.com/en-us/careers/early-talent/internships-and-co-ops/)
-        * [Scientific leadership program](https://us.gsk.com/en-us/careers/early-talent/scientific-leadership-program/)
+        * [Apprentices](https://us.gsk.com/en-us/careers/early-careers/apprentices/)
+        * [Internships and co-ops](https://us.gsk.com/en-us/careers/early-careers/internships-and-co-ops/)
+        * [Scientific leadership program](https://us.gsk.com/en-us/careers/early-careers/scientific-leadership-program/)
         
     * [Veterans at GSK](https://us.gsk.com/en-us/careers/veterans-at-gsk/)
     
-    [FEATURED SECTION Global how we hire ![Three employees meeting in the office](/media/11526/20271231-a3-contact-us-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [FEATURED SECTION Global future leaders program ![A smiling scientist posing in the lab](/media/11539/20281231-h4a-achieve-your-career-goals-up.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
+    [FEATURED SECTION Global how we hire ![Three employees meeting in the office](/media/11526/20271231-a3-contact-us-phl.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [FEATURED SECTION Global future leaders program ![A smiling scientist posing in the lab](/media/11539/20281231-h4a-achieve-your-career-goals-up.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
     
     Close menu
     
@@ -242,3 +243,10 @@ Registered office: 980 Great West Road, Brentford, Middlesex, TW8 9GS, United Ki
 * [Cookie policy](https://us.gsk.com/en-us/cookie-policy/)
 * [Privacy notice](https://privacy.gsk.com/en-us/privacy-notice/ "Opens in a new window")
 * [Sitemap](https://us.gsk.com/en-us/sitemap/)
+
+You are leaving our website
+---------------------------
+
+The information you are about to be referred to may not comply with the local regulatory requirements. Further information relevant to the local environment is available from the company or via the Product Information.
+
+Continue [Cancel](#)
