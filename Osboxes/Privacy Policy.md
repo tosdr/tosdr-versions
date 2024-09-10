@@ -105,9 +105,51 @@ username: osboxes
 password: osboxes.org  
 Root account password: osboxes.org
 
-  
+* * *
+
+### Recent Releases
+
+[![manjaro xfce 17](https://www.osboxes.org/wp-content/uploads/2017/05/manjaro-xfce-17.0-85x85.jpg)](https://www.osboxes.org/manjaro-24-0-7-wynsdey-vm-images-available-for-virtualbox-and-vmware/)
+
+##### [Manjaro 24.0.7 Wynsdey VM Images Available for VirtualBox and VMware](https://www.osboxes.org/manjaro-24-0-7-wynsdey-vm-images-available-for-virtualbox-and-vmware/)
+
+05-09-2024
+
+[![opensuse](https://www.osboxes.org/wp-content/uploads/2014/10/opensuse-wallpaper-4.jpg)](https://www.osboxes.org/opensuse-15-6-leap-images-available-for-virtualbox-and-vmware/)
+
+##### [openSUSE 15.6 Leap Images Available for VirtualBox and VMware](https://www.osboxes.org/opensuse-15-6-leap-images-available-for-virtualbox-and-vmware/)
+
+01-09-2024
+
+[![kali linux](https://www.osboxes.org/wp-content/uploads/2014/09/kali-linux.jpg)](https://www.osboxes.org/kali-linux-2024-2-vm-images-available-for-virtualbox-and-vmware/)
+
+##### [Kali Linux 2024.2 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-2-vm-images-available-for-virtualbox-and-vmware/)
+
+28-08-2024
+
+[![deepin](https://www.osboxes.org/wp-content/uploads/2020/11/deepin-20-85x85.jpg)](https://www.osboxes.org/deepin-23-vm-images-available-for-virtualbox-and-vmware/)
+
+##### [Deepin 23 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/deepin-23-vm-images-available-for-virtualbox-and-vmware/)
+
+25-08-2024
+
+[![linux mint](https://www.osboxes.org/wp-content/uploads/2014/09/linux-mint1.jpg)](https://www.osboxes.org/linux-mint-22-wilma-images-available-for-virtualbox-and-vmware/)
+
+##### [Linux Mint 22 “Wilma” Images Available for VirtualBox and VMware](https://www.osboxes.org/linux-mint-22-wilma-images-available-for-virtualbox-and-vmware/)
+
+30-07-2024
+
+[![freebsd](https://www.osboxes.org/wp-content/uploads/2019/02/freebsd_aaa-85x85.jpg)](https://www.osboxes.org/freebsd-14-1-virtual-machine-images-available-for-virtualbox-vmware/)
+
+##### [FreeBSD 14.1 Virtual Machine Images Available For VirtualBox & VMware](https://www.osboxes.org/freebsd-14-1-virtual-machine-images-available-for-virtualbox-vmware/)
+
+17-07-2024
 
 Get in Touch!
+
+### Follow us
+
+[Facebook](https://www.facebook.com/osboxes "Facebook") [Twitter](https://twitter.com/osboxes "Twitter") [RSS](http://feeds.feedburner.com/osboxes "RSS")
 
 ### Acknowledgements
 
