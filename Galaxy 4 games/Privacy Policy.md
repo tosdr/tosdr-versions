@@ -11,6 +11,8 @@
     * [Blockchain](https://galaxy4games.com/services/blockchain/)
     * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
     * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+    * [2D Art](https://galaxy4games.com/services/2d-art/)
+    * [3D Art](https://galaxy4games.com/services/3d-art/)
 * [Portfolio](#)
     * [Projects](https://galaxy4games.com/our-work/projects/)
     * [Gallery](https://galaxy4games.com/our-work/gallery/)
@@ -28,6 +30,8 @@
     * [Blockchain](https://galaxy4games.com/services/blockchain/)
     * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
     * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+    * [2D Art](https://galaxy4games.com/services/2d-art/)
+    * [3D Art](https://galaxy4games.com/services/3d-art/)
 * [Portfolio](#)
     * [Projects](https://galaxy4games.com/our-work/projects/)
     * [Gallery](https://galaxy4games.com/our-work/gallery/)
@@ -473,7 +477,7 @@ Get in touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Flag. 
+Please prove you are human by selecting the Heart. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
@@ -499,4 +503,4 @@ Get In Touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Plane.
+Please prove you are human by selecting the Flag.
