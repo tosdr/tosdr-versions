@@ -11,14 +11,11 @@
 
 ![](https://tubetraffic.com/wp-content/uploads/2022/02/logo.png "logo")
 
-_**Formerly known as AdultWebmasterNet**_
------------------------------------------
+**You will not find a source where you can buy more direct traffic to your video pages than with TubeTraffic.com!**
 
-**_You will not find a source where you can buy more direct traffic to your video pages than with TubeTraffic.com!_**
+[For tube sites](https://tubetraffic.com/tube-sites/)
 
-[Traffic for tube sites](https://tubetraffic.com/tube-sites/)
-
-[Traffic for premium content sites](https://tubetraffic.com/premium-content-sites/)
+[For premium content sites](https://tubetraffic.com/premium-content-sites/)
 
 Why buy traffic from us?
 ------------------------
@@ -55,7 +52,7 @@ We send traffic to your video pages by listing your content previews on our site
 Check out some of our sites:
 ----------------------------
 
-### Each day our sites receive **15.8+ million visitors** who make more than **65 million** **clicks per day**.
+### Each day our sites receive **19.3+ million visitors** who make more than **80 million** **clicks per day**.
 
 [![](https://tubetraffic.com/wp-content/uploads/2022/02/logo-3.png "logo")](https://fuq.com/)
 
