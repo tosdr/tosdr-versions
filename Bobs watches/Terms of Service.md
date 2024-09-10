@@ -1,4 +1,4 @@
-[Register For Our Auction](https://www.bobswatches.com/auctions/dive-watches-summer-auction)
+[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
 
 100% Certified Authentic
 
@@ -158,7 +158,7 @@ Occasionally there may be information on the Services that contains typographica
 
 PRICES & PAYMENT METHOD FEES
 
-Purchase prices shown is the cash wire price and any payment method fees such as credit card fees, PayPal fees, Amazon fees, etc, will be added to the transaction total. Bob's Watches is not affiliated with Amazon, PayPal, Klarna, or any other third party. All watch sales where Klarna financing is selected works off of the regular price of the item. You hereby acknowledge and understand that the initial purchase offer estimate from Bob’s Watches is a preliminary estimate only based on other similar watches we have bought and sold in the recent past. These market prices are subject to change without notice and we reserve the right to make changes as necessary to reflect market conditions. This offer estimate represents the highest possible price we could pay you for your watch if it is in perfect salable condition, in need of no repairs or services as outlined below. Such restoration services are needed to place the watch in "like new" salable condition. All estimates are for watches that have their original box and papers and have all the links for the bracelets. These costs are then deducted from the original estimate to arrive at a firm purchase offer. All purchases are final except as the law permits.
+Purchase prices shown is the cash wire price and any payment method fees such as credit card fees, PayPal fees, Amazon fees, etc, will be added to the transaction total. Bob's Watches is not affiliated with Amazon, PayPal, Klarna, or any other third party. All watch sales where Klarna financing is selected works off of the regular price of the item. You hereby acknowledge and understand that the initial purchase offer estimate from Bob’s Watches is a preliminary estimate only based on other similar watches we have bought and sold in the recent past. These market prices are subject to change without notice and we reserve the right to make changes as necessary to reflect market conditions. This offer estimate represents the highest possible price we could pay you for your watch if it is in perfect salable condition, in need of no repairs or services as outlined below. Such restoration services are needed to place the watch in "like new" salable condition. All estimates are for watches that have their original box and papers and have all the links for the bracelets. These costs are then deducted from the original estimate to arrive at a firm purchase offer. All purchases are final except as the law permits. \*Monthly financing through Klarna issued by WebBank.
 
 COUPONS, DISCOUNTS, RULES AND EXCLUSIONS
 
@@ -297,7 +297,7 @@ If the Services contain links to other sites and resources provided by third par
 
 Geographic Restrictions
 
-The owner of the Services is based in the State of California in the United States. We provide the Services for use only by persons located in the United States. We make no claims that the Services or any of its content is accessible or appropriate outside of the United States. Access to the Services may not be legal by certain persons or in certain countries. If you access the Services from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
+The owner of the Services is based in the State of Florida in the United States. We provide the Services for use only by persons located in the United States. We make no claims that the Services or any of its content is accessible or appropriate outside of the United States. Access to the Services may not be legal by certain persons or in certain countries. If you access the Services from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
 
 Disclaimer of warranty
 
@@ -333,7 +333,7 @@ We reserve the right to modify this Agreement or its terms relating to the Servi
 
 Governing Law and Jurisdiction
 
-All matters relating to the Services and this Agreement, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of California without giving effect to any choice or conflict of law provision or rule (whether of the State of California or any other jurisdiction).
+All matters relating to the Services and this Agreement, and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the State of Florida without giving effect to any choice or conflict of law provision or rule (whether of the State of Florida or any other jurisdiction).
 
 Any legal suit, action, or proceeding arising out of, or related to, this Agreement or the Services shall be instituted exclusively in the federal courts of the United States or the courts of the State of Florida, in each case located in the City of Naples and County of Collier. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
 
