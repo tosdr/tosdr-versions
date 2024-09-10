@@ -1,4 +1,4 @@
-[![](https://assets.subscribestar.com/assets/public/images/logo-16dcd04aa1b4d30bc2289228b4a5f93a.png)](https://www.subscribestar.com/)
+[![](https://assets.subscribestar.com/assets/public/images/logo-ba4cb970d710558179d4f8f1555cb1c1.png)](https://www.subscribestar.com/)
 
 ![](https://assets.subscribestar.com/assets/public/images/icons/find-c33fb9b51ad0d8ec7c9db64cbdb39db3.png)
 
@@ -97,7 +97,7 @@ Log InSign Up[Features](https://www.subscribestar.com/features)[Pricing](https:/
 
 ![](https://assets.subscribestar.com/assets/public/images/footer_logo-3f035ec103bf9aa9264a8822194e48a6.png)
 
-![](https://assets.subscribestar.com/assets/public/images/payment_options/visa-49450bdec39035295b6f4fa67ef9ecf3.png)![](https://assets.subscribestar.com/assets/public/images/payment_options/mastercard-8a2823131613ec7dfe60973a1af71a1a.png)![](https://assets.subscribestar.com/assets/public/images/payment_options/amex-0b7a2361b7a221c5df3a876f008b1f23.png)  
+![](https://assets.subscribestar.com/assets/public/images/payment_options/visa-49450bdec39035295b6f4fa67ef9ecf3.png)![](https://assets.subscribestar.com/assets/public/images/payment_options/mastercard-8a2823131613ec7dfe60973a1af71a1a.png)  
 ![](https://assets.subscribestar.com/assets/public/images/payment_options/discover-7f0151b33ae01be60c1f9d046e0e39be.png)![](https://assets.subscribestar.com/assets/public/images/payment_options/diners-8032f9cd289b0c95562a74b4c0d01849.png)![](https://assets.subscribestar.com/assets/public/images/payment_options/dropp-e63c24b51abfd1ed974ac9e2d122c5d5.png)  
 ![](https://assets.subscribestar.com/assets/public/images/payment_options/skrill-d2b438763526ea9e6b420dc1b38efcb5.png)
 
