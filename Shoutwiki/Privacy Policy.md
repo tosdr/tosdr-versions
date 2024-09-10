@@ -67,10 +67,10 @@ Anonymous user
     
     Share this
     
-    * [Facebook](https://www.facebook.com/sharer.php?u=http://www.shoutwiki.com/wiki/ShoutWiki_Hub:Privacy_Policy&t=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub)
-    * [Reddit](https://reddit.com/submit?url=http://www.shoutwiki.com/wiki/ShoutWiki_Hub:Privacy_Policy&amp;title=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub)
-    * [Tumblr](https://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FShoutWiki_Hub%3APrivacy_Policy&t=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub&s=)
-    * [Twitter](https://twitter.com/home?status=http%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FShoutWiki_Hub%3APrivacy_Policy)
+    * [Facebook](https://www.facebook.com/sharer.php?u=https://www.shoutwiki.com/wiki/ShoutWiki_Hub:Privacy_Policy&t=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub)
+    * [Reddit](https://reddit.com/submit?url=https://www.shoutwiki.com/wiki/ShoutWiki_Hub:Privacy_Policy&amp;title=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub)
+    * [Tumblr](https://www.tumblr.com/share?v=3&u=https%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FShoutWiki_Hub%3APrivacy_Policy&t=ShoutWiki%20Hub%3APrivacy%20Policy%20-%20ShoutWiki%20Hub&s=)
+    * [Twitter](https://twitter.com/home?status=https%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FShoutWiki_Hub%3APrivacy_Policy)
     
 * ![](//www.shoutwiki.com/w/skins/Aurora/resources/images/icon-med-tools.png)
     
@@ -222,7 +222,7 @@ Severability
 
 If any term, condition or clause of these terms of use is found to be invalid then the remaining terms, conditions and clauses, shall remain valid.
 
-Retrieved from "[http://www.shoutwiki.com/w/index.php?title=ShoutWiki\_Hub:Privacy\_Policy&oldid=26565](http://www.shoutwiki.com/w/index.php?title=ShoutWiki_Hub:Privacy_Policy&oldid=26565)"
+Retrieved from "[https://www.shoutwiki.com/w/index.php?title=ShoutWiki\_Hub:Privacy\_Policy&oldid=26565](https://www.shoutwiki.com/w/index.php?title=ShoutWiki_Hub:Privacy_Policy&oldid=26565)"
 
 [Category](http://www.shoutwiki.com/wiki/Special:Categories "Special:Categories"):
 
@@ -238,6 +238,6 @@ This page was last edited on 18 April 2017, at 21:03.
 This wiki is hosted by [ShoutWiki](http://www.shoutwiki.com/) • [Staff Blog](http://blog.shoutwiki.com/)  
 [Now hiring](http://www.shoutwiki.com/wiki/Vacancies) • [Contact us](mailto:support@shoutwiki.com) or [report a bug](https://phabricator.shoutwiki.com/)
 
-[Privacy policy](http://www.shoutwiki.com/wiki/Privacy_policy "s:Privacy policy") • [About ShoutWiki](http://www.shoutwiki.com/wiki/ShoutWiki_Hub:About "ShoutWiki Hub:About") • [Terms of use](http://www.shoutwiki.com/wiki/Terms_of_use "s:Terms of use") • [Mobile view](http://www.shoutwiki.com/w/index.php?title=ShoutWiki_Hub:Privacy_Policy&mobileaction=toggle_view_mobile) • [Piwik optout](#)
+[Privacy policy](http://www.shoutwiki.com/wiki/Privacy_policy "s:Privacy policy") • [About ShoutWiki](http://www.shoutwiki.com/wiki/ShoutWiki_Hub:About "ShoutWiki Hub:About") • [Terms of use](http://www.shoutwiki.com/wiki/Terms_of_use "s:Terms of use") • [Mobile view](https://www.shoutwiki.com/w/index.php?title=ShoutWiki_Hub:Privacy_Policy&mobileaction=toggle_view_mobile) • [Piwik optout](#)
 
 ![](//piwik.staff.shoutwiki.com/piwik.php?idsite=5)
