@@ -8,9 +8,9 @@ Purchase comfortable on account
 
 Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
-[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721911611)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
 
 EN
 
@@ -34,7 +34,7 @@ Nederlands
 
   
 
- [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+ [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
 Search
 
@@ -48,7 +48,7 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 
 [Shopping cart €0.00\*](https://www.medicalspareparts.com/checkout/cart "Shopping cart")
 
-[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
+[![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg?ts=1639650665)](https://www.medicalspareparts.com/ "Go to homepage")
 
 * [Spare Parts](https://msp-medical.com/spare-parts/ "Spare Parts")
 * close
@@ -398,12 +398,15 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 * [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
 * close
     
+* [Customization](https://msp-medical.com/customization/ "Customization")
+* close
+    
 
 We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721911611)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1724249880)
 
 Language: EN
 
@@ -443,12 +446,7 @@ About MSP
 * [Disposables](https://msp-medical.com/disposables/ "Disposables")
 * [Battery Technology](https://msp-medical.com/battery-technology/ "Battery Technology")
 * [Chemicals](https://msp-medical.com/chemicals/ "Chemicals")
-
-You are here:
-
-2.  [Home](https://www.medicalspareparts.com/ "Home") 
-
-4.  [Privacy](https://msp-medical.com/general/privacy/ "Privacy") 
+* [Customization](https://msp-medical.com/customization/ "Customization")
 
 **Quickly go to**
 
@@ -571,25 +569,25 @@ General
 
 Payment methods
 
-[![iDEAL](https://msp-medical.com/media/6c/9a/1b/1635337155/ideal-icon.svg "iDEAL")](https://www.medicalspareparts.com/customer-service/payments/ "iDEAL")
+[![iDEAL](https://msp-medical.com/media/6c/9a/1b/1635337155/ideal-icon.svg?ts=1635337155 "iDEAL")](https://www.medicalspareparts.com/customer-service/payments/ "iDEAL")
 
-[![Credit card](https://msp-medical.com/media/dd/3f/73/1635337155/creditcard-icon.svg "Credit card")](https://www.medicalspareparts.com/customer-service/payments/ "Credit card")
+[![Credit card](https://msp-medical.com/media/dd/3f/73/1635337155/creditcard-icon.svg?ts=1635337155 "Credit card")](https://www.medicalspareparts.com/customer-service/payments/ "Credit card")
 
-[![PayPal](https://msp-medical.com/media/4f/ae/1a/1635337156/paypal-icon.svg "PayPal")](https://www.medicalspareparts.com/customer-service/payments/ "PayPal")
+[![PayPal](https://msp-medical.com/media/4f/ae/1a/1635337156/paypal-icon.svg?ts=1635337156 "PayPal")](https://www.medicalspareparts.com/customer-service/payments/ "PayPal")
 
-[![Apple Pay](https://msp-medical.com/media/e7/52/58/1635337155/applepay-icon.svg "Apple Pay")](https://www.medicalspareparts.com/customer-service/payments/ "Apple Pay")
+[![Apple Pay](https://msp-medical.com/media/e7/52/58/1635337155/applepay-icon.svg?ts=1635337155 "Apple Pay")](https://www.medicalspareparts.com/customer-service/payments/ "Apple Pay")
 
-[![KBC/CBC Payment Button](https://msp-medical.com/media/57/94/e9/1635337156/kbc-icon.svg "KBC/CBC Payment Button")](https://www.medicalspareparts.com/customer-service/payments/ "KBC/CBC Payment Button")
+[![KBC/CBC Payment Button](https://msp-medical.com/media/57/94/e9/1635337156/kbc-icon.svg?ts=1635337156 "KBC/CBC Payment Button")](https://www.medicalspareparts.com/customer-service/payments/ "KBC/CBC Payment Button")
 
-[![Belfius](https://msp-medical.com/media/08/14/25/1635337155/belfius-icon.svg "Belfius")](https://www.medicalspareparts.com/customer-service/payments/ "Belfius")
+[![Belfius](https://msp-medical.com/media/08/14/25/1635337155/belfius-icon.svg?ts=1635337155 "Belfius")](https://www.medicalspareparts.com/customer-service/payments/ "Belfius")
 
-[![Bancontact](https://msp-medical.com/media/ef/e1/13/1635337155/bancontact-icon.svg "Bancontact")](https://www.medicalspareparts.com/customer-service/payments/ "Bancontact")
+[![Bancontact](https://msp-medical.com/media/ef/e1/13/1635337155/bancontact-icon.svg?ts=1635337155 "Bancontact")](https://www.medicalspareparts.com/customer-service/payments/ "Bancontact")
 
-[![Banktransfer](https://msp-medical.com/media/0e/45/61/1635842503/banktransfer-icon.png "Banktransfer")](https://www.medicalspareparts.com/customer-service/payments/ "Banktransfer")
+[![Banktransfer](https://msp-medical.com/media/0e/45/61/1635842503/banktransfer-icon.png?ts=1635842503 "Banktransfer")](https://www.medicalspareparts.com/customer-service/payments/ "Banktransfer")
 
 [Invoice](https://www.medicalspareparts.com/customer-service/payments/ "Invoice")
 
-[![SOFORT Banking](https://msp-medical.com/media/15/5e/14/1635337156/sofort-icon.svg "SOFORT Banking")](https://www.medicalspareparts.com/customer-service/payments/ "SOFORT Banking")
+[![SOFORT Banking](https://msp-medical.com/media/15/5e/14/1635337156/sofort-icon.svg?ts=1635337156 "SOFORT Banking")](https://www.medicalspareparts.com/customer-service/payments/ "SOFORT Banking")
 
 Newsletter
 
@@ -601,7 +599,7 @@ Email address\*
 
 Subscribe
 
-Privacy \*
+Privacy\*
 
  By selecting continue you confirm that you have read our [data protection information](https://www.medicalspareparts.com/widgets/cms/bd97d78a319043d69c4241acb837f744 "Data protection information") and accepted our [general terms and conditions](https://www.medicalspareparts.com/widgets/cms/b453a7477de949b4adcb37f018d2ffea "general terms and conditions").
 
