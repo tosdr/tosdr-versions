@@ -97,13 +97,16 @@ Light/Dark
     
 * [Tickets](https://www.resetera.com/tickets/)
     
-    [Open new ticket](https://www.resetera.com/tickets/create) [Watched](https://www.resetera.com/watched/tickets)
+    [Open new ticket](https://www.resetera.com/tickets/create)
     
 
 * [Hide Images](https://www.resetera.com/misc/toggle-images)
     
 
 * Light/Dark
+    
+
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=390 "Dismiss notice")Hey everyone! [sn00zer](https://www.resetera.com/members/sn00zer.40492/) has created a vote for your [Favorite Games of All Time](https://www.resetera.com/threads/reseteras-favorite-games-voting-thread.950550/)! Voting ends at 3 days, 17 hours, 24 minutes, 4 seconds. Happy voting!
     
 
 Cookie usage
@@ -197,57 +200,59 @@ To learn more about cookies, and find more information about blocking certain ty
 | xf\_from\_search | This cookie is used to track when a user has arrived on the site from a search engine. |
 | Third-party cookies |     |
 | Cookies set by third parties may be required to power functionality in conjunction with various service providers for security, analytics, performance or advertising purposes. |     |
-| cookie\_consent.third\_party\_label\_acast | cookie\_consent.third\_party\_description\_acast |
-| cookie\_consent.third\_party\_label\_anchor | cookie\_consent.third\_party\_description\_anchor |
-| cookie\_consent.third\_party\_label\_applepodcasts | cookie\_consent.third\_party\_description\_applepodcasts |
-| cookie\_consent.third\_party\_label\_audius | cookie\_consent.third\_party\_description\_audius |
-| cookie\_consent.third\_party\_label\_bandcamp | cookie\_consent.third\_party\_description\_bandcamp |
-| cookie\_consent.third\_party\_label\_bunny | cookie\_consent.third\_party\_description\_bunny |
-| cookie\_consent.third\_party\_label\_captivate | cookie\_consent.third\_party\_description\_captivate |
-| cookie\_consent.third\_party\_label\_castos | cookie\_consent.third\_party\_description\_castos |
-| cookie\_consent.third\_party\_label\_clyp | cookie\_consent.third\_party\_description\_clyp |
-| cookie\_consent.third\_party\_label\_codepen | cookie\_consent.third\_party\_description\_codepen |
+| Acast | These cookies are set by Acast, and may be used for displaying embedded content. |
+| Anchor | These cookies are set by Anchor, and may be used for displaying embedded content. |
+| Apple Podcasts | These cookies are set by Apple Podcasts, and may be used for displaying embedded content. |
+| Audius | These cookies are set by Audius, and may be used for displaying embedded content. |
+| Bandcamp | These cookies are set by Bandcamp, and may be used for displaying embedded content. |
+| Bunny Stream | These cookies are set by Bunny Stream, and may be used for displaying embedded content. |
+| Captivate | These cookies are set by Captivate, and may be used for displaying embedded content. |
+| Castos | These cookies are set by Castos, and may be used for displaying embedded content. |
+| Clyp | These cookies are set by Clyp, and may be used for displaying embedded content. |
+| CodePen | These cookies are set by CodePen, and may be used for displaying embedded content. |
 | Dailymotion | These cookies are set by [Dailymotion](https://legal.dailymotion.com/en/privacy-policy/), and may be used for displaying embedded content. |
 | cookie\_consent.third\_party\_label\_facebook | cookie\_consent.third\_party\_description\_facebook |
-| cookie\_consent.third\_party\_label\_falstad | cookie\_consent.third\_party\_description\_falstad |
-| cookie\_consent.third\_party\_label\_gamespot | cookie\_consent.third\_party\_description\_gamespot |
+| Falstad Circuit Simulator | These cookies are set by Falstad Circuit Simulator, and may be used for displaying embedded content. |
+| Gamespot | These cookies are set by Gamespot, and may be used for displaying embedded content. |
 | Giphy | These cookies are set by [Giphy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_gist | cookie\_consent.third\_party\_description\_gist |
-| Google | These cookies are set by [Google](https://policies.google.com/privacy), and may be used for analytics, verifying legitimate traffic, or other embedded content. |
+| GitHub Gist | These cookies are set by GitHub Gist, and may be used for displaying embedded content. |
+| Google Sheets | These cookies are set by Google Sheets, and may be used for displaying embedded content. |
 | Imgur | These cookies are set by [Imgur](https://imgur.com/privacy), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_indiegogo | cookie\_consent.third\_party\_description\_indiegogo |
+| Indiegogo | These cookies are set by Indiegogo, and may be used for displaying embedded content. |
 | cookie\_consent.third\_party\_label\_instagram | cookie\_consent.third\_party\_description\_instagram |
-| cookie\_consent.third\_party\_label\_jsfiddle | cookie\_consent.third\_party\_description\_jsfiddle |
-| cookie\_consent.third\_party\_label\_kaltura | cookie\_consent.third\_party\_description\_kaltura |
-| cookie\_consent.third\_party\_label\_kickstarter | cookie\_consent.third\_party\_description\_kickstarter |
-| cookie\_consent.third\_party\_label\_libsyn | cookie\_consent.third\_party\_description\_libsyn |
-| cookie\_consent.third\_party\_label\_mastodon | cookie\_consent.third\_party\_description\_mastodon |
-| cookie\_consent.third\_party\_label\_megaphone | cookie\_consent.third\_party\_description\_megaphone |
+| JSFiddle | These cookies are set by JSFiddle, and may be used for displaying embedded content. |
+| Kaltura | These cookies are set by Kaltura, and may be used for displaying embedded content. |
+| Kickstarter | These cookies are set by Kickstarter, and may be used for displaying embedded content. |
+| Libsyn | These cookies are set by Libsyn, and may be used for displaying embedded content. |
+| Mastodon | These cookies are set by Mastodon, and may be used for displaying embedded content. |
+| Megaphone | These cookies are set by Megaphone, and may be used for displaying embedded content. |
 | Meta | These cookies are set by [Meta](https://www.facebook.com/privacy/policy/), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_mixcloud | cookie\_consent.third\_party\_description\_mixcloud |
-| cookie\_consent.third\_party\_label\_odysee | cookie\_consent.third\_party\_description\_odysee |
-| cookie\_consent.third\_party\_label\_podbean | cookie\_consent.third\_party\_description\_podbean |
-| cookie\_consent.third\_party\_label\_rumble | cookie\_consent.third\_party\_description\_rumble |
-| cookie\_consent.third\_party\_label\_scribd | cookie\_consent.third\_party\_description\_scribd |
-| cookie\_consent.third\_party\_label\_sendvid | cookie\_consent.third\_party\_description\_sendvid |
+| Mixcloud | These cookies are set by Mixcloud, and may be used for displaying embedded content. |
+| Odysee | These cookies are set by Odysee, and may be used for displaying embedded content. |
+| On3 DB | These cookies are set by On3 DB, and may be used for displaying embedded content. |
+| Podbean | These cookies are set by Podbean, and may be used for displaying embedded content. |
+| Rumble | These cookies are set by Rumble, and may be used for displaying embedded content. |
+| Scribd | These cookies are set by Scribd, and may be used for displaying embedded content. |
+| Sendvid | These cookies are set by Sendvid, and may be used for displaying embedded content. |
 | SoundCloud | These cookies are set by [SoundCloud](https://soundcloud.com/pages/privacy), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_sporcle | cookie\_consent.third\_party\_description\_sporcle |
+| Sporcle | These cookies are set by Sporcle, and may be used for displaying embedded content. |
 | Spotify | These cookies are set by [Spotify](https://www.spotify.com/us/legal/privacy-policy/), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_spreaker | cookie\_consent.third\_party\_description\_spreaker |
-| cookie\_consent.third\_party\_label\_steamstore | cookie\_consent.third\_party\_description\_steamstore |
-| cookie\_consent.third\_party\_label\_strawpoll | cookie\_consent.third\_party\_description\_strawpoll |
-| cookie\_consent.third\_party\_label\_streamable | cookie\_consent.third\_party\_description\_streamable |
+| Spreaker | These cookies are set by Spreaker, and may be used for displaying embedded content. |
+| Steam store | These cookies are set by Steam store, and may be used for displaying embedded content. |
+| Straw Poll | These cookies are set by Straw Poll, and may be used for displaying embedded content. |
+| Streamable | These cookies are set by Streamable, and may be used for displaying embedded content. |
 | TikTok | These cookies are set by [TikTok](https://www.tiktok.com/legal/page/us/privacy-policy/en), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_tradingview | cookie\_consent.third\_party\_description\_tradingview |
-| cookie\_consent.third\_party\_label\_twentyfoursevensports | cookie\_consent.third\_party\_description\_twentyfoursevensports |
+| TradingView | These cookies are set by TradingView, and may be used for displaying embedded content. |
+| 247Sports | These cookies are set by 247Sports, and may be used for displaying embedded content. |
 | Twitch | These cookies are set by [Twitch](https://www.twitch.tv/p/en/legal/privacy-notice/), and may be used for displaying embedded content. |
 | Twitter | These cookies are set by [Twitter](https://twitter.com/privacy), and may be used for displaying embedded content. |
 | Vimeo | These cookies are set by [Vimeo](https://vimeo.com/privacy), and may be used for displaying embedded content. |
-| cookie\_consent.third\_party\_label\_wavekit | cookie\_consent.third\_party\_description\_wavekit |
-| cookie\_consent.third\_party\_label\_wistia | cookie\_consent.third\_party\_description\_wistia |
-| cookie\_consent.third\_party\_label\_xboxclips | cookie\_consent.third\_party\_description\_xboxclips |
-| cookie\_consent.third\_party\_label\_xboxdvr | cookie\_consent.third\_party\_description\_xboxdvr |
-| cookie\_consent.third\_party\_label\_youmaker | cookie\_consent.third\_party\_description\_youmaker |
+| Wavekit | These cookies are set by Wavekit, and may be used for displaying embedded content. |
+| Wistia | These cookies are set by Wistia, and may be used for displaying embedded content. |
+| GameClips.io | These cookies are set by GameClips.io, and may be used for displaying embedded content. |
+| Gamer DVR | These cookies are set by Gamer DVR, and may be used for displaying embedded content. |
+| XenForo | These cookies are set by XenForo, and may be used for displaying embedded content. |
+| YouMaker | These cookies are set by YouMaker, and may be used for displaying embedded content. |
 | cookie\_consent.third\_party\_label\_youtube | cookie\_consent.third\_party\_description\_youtube |
 
 * [Help](https://www.resetera.com/help/) 
