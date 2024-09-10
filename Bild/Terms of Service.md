@@ -80,7 +80,6 @@ Menü
 * [Bild.GG](https://www.bild.de/digital/internet/twitch/thema-twitch-alle-infos-81174082.bild.html)
 * [Gewinnspiele](https://www.bild.de/bildplus/gewinnspiel/gewinnspiele/gewinnspiele-75208514.bild.html)
 
-* [Olympia 2024](https://www.bild.de/sport/olympia/olympia/startseite-olympische-spiele-54193140.bild.html)
 * [Formel 1](https://www.bild.de/sport/motorsport/formel1/home-15769114.bild.html)
 * [Basketball](https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html)
 * [Handball](https://www.bild.de/sport/sportart/handball/handball-alle-infos-76675494.bild.html)
@@ -276,7 +275,7 @@ BILD möchte dem registrierten Nutzer ein bestmögliches Erlebnis bieten und pas
 
 **6\. Widerrufsrecht, Widerrufbelehrungen**
 
-Alle Informationen darüber, ob dem Nutzer als Verbraucher in Bezug auf gegenüber BILD abgegebene, auf den Abschluss des Vertrags gerichtete Willenserklärungen ein gesetzliches Widerrufsrecht zusteht sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: Widerrufsbelehrungen.
+Alle Informationen darüber, ob dem Nutzer als Verbraucher in Bezug auf gegenüber BILD abgegebene, auf den Abschluss des Vertrags gerichtete Willenserklärungen ein gesetzliches Widerrufsrecht zusteht sowie die entsprechenden Belehrungen, finden sich unter dem folgenden Link: [Widerrufsbelehrungen](https://www.bild.de/sonstiges/corporate-site/bild-ihr-widerrufsrecht-als-verbraucher-66c847a08be21275e142439d).
 
 Hinweis: Hat ein Vertriebspartner Zugangsberechtigungen für unsere Bezahlangebote im eigenen Namen und auf eigene Rechnung an den Nutzer vertrieben (zum Beispiel beim Erwerb von Gutscheinen oder der Vermittlung von Zugangsberechtigungen zu Bezahlangeboten durch Mobilfunkanbieter; vgl. hierzu näher Ziffer 13 dieser Nutzungsbedingungen), so sind die Widerrufsbelehrungen des Vertriebspartners in Bezug auf gegenüber dem Vertriebspartner abgegebene, auf den Abschluss des Vertrags mit diesem gerichtete Willenserklärungen zu beachten; ein diesbezüglicher Widerruf ist gegenüber dem Vertriebspartner zu erklären.
 
