@@ -116,7 +116,7 @@ en
 
 NAVIGATION
 
-[Home](https://www.imgix.com/draft-pages/old-home-3)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
+[Home](https://www.imgix.com/draft-pages/old-home-3)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers-old)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
 
 Intellectual Property Policy
 ============================
@@ -178,7 +178,7 @@ COMPANY
 
 SUPPORT
 
-[Help Center](https://support.imgix.com/hc/en-us?_gl=1*15a3ps6*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)[Contact](https://www.imgix.com/contact)[Service Status](https://status.imgix.com/?_gl=1*15a3ps6*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)
+[Contact](https://www.imgix.com/contact)[Service Status](https://status.imgix.com/?_gl=1*15a3ps6*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)
 
 USERS
 
@@ -186,7 +186,7 @@ USERS
 
 TOOLS
 
-[imgix.js](https://www.imgix.com/imgix-js)[Sandbox](https://sandbox.imgix.com/)
+[imgix.js](https://www.imgix.com/imgix-js)[Sandbox](https://sandbox.imgix.com/)[PageWeight](https://pageweight.imgix.com/)
 
 POLICIES
 
