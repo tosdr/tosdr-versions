@@ -74,15 +74,15 @@ Learn
 
 Learn
 
-[Blog](https://www.naturesbounty.com/blogs/news) [Vitamin Quiz](https://www.naturesbounty.com/pages/supplement-quiz) [FAQs](https://www.naturesbounty.com/pages/faqs) [Recipes](https://www.naturesbounty.com/blogs/recipes) [Hair Growth Capsules](https://www.naturesbounty.com/pages/hair-growth) [Metabolism Booster Capsules](https://www.naturesbounty.com/pages/metabolism-booster) [View All Resources](https://www.naturesbounty.com/pages/resource-center)
+[Nature's Bounty Blog](https://www.naturesbounty.com/blogs/news) [Take the Vitamin Quiz](https://www.naturesbounty.com/pages/supplement-quiz) [Have a Question? See Our FAQs](https://www.naturesbounty.com/pages/faqs) [Explore Healthy Recipes](https://www.naturesbounty.com/blogs/recipes) [Help My Hair Growth](https://www.naturesbounty.com/pages/hair-growth) [Boost My Metabolism](https://www.naturesbounty.com/pages/metabolism-booster) [Susan G Komen Partnership](https://www.naturesbounty.com/pages/susan-g-komen) [Women's Wellness Hub](https://www.naturesbounty.com/pages/womens-wellness) [View All Resources](https://www.naturesbounty.com/pages/resource-center)
 
 [![](//naturesbounty.com/cdn/shop/files/hair-growth-cta-lrg.png?v=1682098268&width=425)
 
-See how you can help grow thicker, fuller hair in 3 months\*](https://www.naturesbounty.com/pages/hair-growth)
+See How You Can Help Grow Thicker, Fuller Hair with Our Innovative Hair Growth Supplement\*](https://www.naturesbounty.com/pages/hair-growth)
 
-[![](//naturesbounty.com/cdn/shop/files/MicrosoftTeams-image_98_5b203372-4498-43a1-95ba-4df469c90950.png?v=1709244211&width=425)
+[![](//naturesbounty.com/cdn/shop/files/susan_g_komen_menu_image.png?v=1725555987&width=425)
 
-Check out our collection of women’s wellness products that are designed to elevate your journey from your hair to your heels. Discover our NEW Women’s Wellness hub](https://www.naturesbounty.com/pages/womens-wellness)
+As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/womens-wellness)
 
 [About Us](https://www.naturesbounty.com/pages/about-us)
 
@@ -216,23 +216,27 @@ Check out our collection of women’s wellness products that are designed to ele
 
 Resources For You
 
-[Blog](https://www.naturesbounty.com/blogs/news)
+[Nature's Bounty Blog](https://www.naturesbounty.com/blogs/news)
 
-[Vitamin Quiz](https://www.naturesbounty.com/pages/supplement-quiz)
+[Take the Vitamin Quiz](https://www.naturesbounty.com/pages/supplement-quiz)
 
-[FAQs](https://www.naturesbounty.com/pages/faqs)
+[Have a Question? See Our FAQs](https://www.naturesbounty.com/pages/faqs)
 
-[Recipes](https://www.naturesbounty.com/blogs/recipes)
+[Explore Healthy Recipes](https://www.naturesbounty.com/blogs/recipes)
 
-[Hair Growth Capsules](https://www.naturesbounty.com/pages/hair-growth)
+[Help My Hair Growth](https://www.naturesbounty.com/pages/hair-growth)
 
-[Metabolism Booster Capsules](https://www.naturesbounty.com/pages/metabolism-booster)
+[Boost My Metabolism](https://www.naturesbounty.com/pages/metabolism-booster)
+
+[Susan G Komen Partnership](https://www.naturesbounty.com/pages/susan-g-komen)
+
+[Women's Wellness Hub](https://www.naturesbounty.com/pages/womens-wellness)
 
 [View All Resources](https://www.naturesbounty.com/pages/resource-center)
 
- [![](//naturesbounty.com/cdn/shop/files/hair-growth-cta-lrg.png?v=1682098268&width=425) See how you can help grow thicker, fuller hair in 3 months\*](https://www.naturesbounty.com/pages/hair-growth)
+ [![](//naturesbounty.com/cdn/shop/files/hair-growth-cta-lrg.png?v=1682098268&width=425) See How You Can Help Grow Thicker, Fuller Hair with Our Innovative Hair Growth Supplement\*](https://www.naturesbounty.com/pages/hair-growth)
 
- [![](//naturesbounty.com/cdn/shop/files/MicrosoftTeams-image_98_5b203372-4498-43a1-95ba-4df469c90950.png?v=1709244211&width=425) Check out our collection of women’s wellness products that are designed to elevate your journey from your hair to your heels. Discover our NEW Women’s Wellness hub](https://www.naturesbounty.com/pages/womens-wellness)
+ [![](//naturesbounty.com/cdn/shop/files/susan_g_komen_menu_image.png?v=1725555987&width=425) As part of our 3rd annual partnership with Susan G. Komen®, for each specially marked product sold in select retailers from 8/25/2024 to 11/30/2024, we will donate $0.50 to fund research and care services for those with breast cancer.♦ Learn More >](https://www.naturesbounty.com/pages/womens-wellness)
 
 ![](//naturesbounty.com/cdn/shop/files/about-hero.jpg?v=1668418338&width=2200)
 
@@ -495,7 +499,7 @@ Probiotic 10
 
 Contributes to Digestive, Immune and Upper Respiratory Health\*
 
-View Product](https://www.naturesbounty.com/products/probiotic-10-30-capsules)[![](//naturesbounty.com/cdn/shop/files/Social-Native-187314-20230104-1x1.jpg?v=1672939931&width=350)
+View Product](https://www.naturesbounty.com/products/probiotic-10-30-capsules)[![Woman, Nature's Bounty® partner, holds Hair, Skin, & Nails Gummy](//naturesbounty.com/cdn/shop/files/Social-Native-187314-20230104-1x1ad_fd559647-9160-4037-b9ca-732be598ee06.jpg?v=1725394792&width=350)
 
 Biotin
 
@@ -511,7 +515,7 @@ Sleep3 Gummies
 
 100% drug-free support for occasional sleeplessness to help you relax and unwind; fall asleep faster and stay asleep longer.\*
 
-View Product](https://www.naturesbounty.com/products/sleep3-gummies)[![](//naturesbounty.com/cdn/shop/files/Social-Native-193154-20230105-1x1.png?v=1672944597&width=350)
+View Product](https://www.naturesbounty.com/products/sleep3-gummies)[![Woman, Nature's Bounty partner, holds Hair Skin & Nails Gummy](//naturesbounty.com/cdn/shop/files/Social-Native-193154-20230105-1x1ad_3082ff20-b9f5-425c-843d-0af99ced8351.jpg?v=1725394722&width=350)
 
 Hair, Skin & Nails
 
