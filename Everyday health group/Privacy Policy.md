@@ -4,7 +4,7 @@ Menu
 
 NewslettersSearch
 
-[Health Conditions A-Z](https://www.everydayhealth.com/conditions/)
+[Health Topics A-Z](https://www.everydayhealth.com/conditions/)
 
 [Wellness & Self-Care](https://www.everydayhealth.com/wellness/)
 
@@ -22,13 +22,13 @@ NewslettersSearch
 
 ![ ](https://images.everydayhealth.com/images/site-images/01-health-conditions-a-z.png?sfvrsn=909a1558_1)
 
-Health Conditions A-Z
+Health Topics A-Z
 
 Find helpful content on common health and medical conditions.
 
 [See All](https://www.everydayhealth.com/conditions/)
 
-[Breast Cancer](https://www.everydayhealth.com/breast-cancer/)[Cold & Flu](https://www.everydayhealth.com/flu/guide/)[Crohn's Disease](https://www.everydayhealth.com/crohns-disease/)[Depression](https://www.everydayhealth.com/depression/all-articles/)[Eczema (Atopic Dermatitis)](https://www.everydayhealth.com/eczema/)[High Blood Pressure](https://www.everydayhealth.com/hypertension/)[Lung Cancer](https://www.everydayhealth.com/lung-cancer/)
+[Breast Cancer](https://www.everydayhealth.com/breast-cancer/)[Cold & Flu](https://www.everydayhealth.com/cold-flu/)[Crohn's Disease](https://www.everydayhealth.com/crohns-disease/)[Depression](https://www.everydayhealth.com/depression/)[Eczema (Atopic Dermatitis)](https://www.everydayhealth.com/eczema/)[High Blood Pressure](https://www.everydayhealth.com/hypertension/)[Lung Cancer](https://www.everydayhealth.com/lung-cancer/)
 
 [Menopause](https://www.everydayhealth.com/menopause/)[Migraine](https://www.everydayhealth.com/migraine/)[Multiple Sclerosis](https://www.everydayhealth.com/multiple-sclerosis/)[Prostate Cancer](https://www.everydayhealth.com/prostate-cancer/)[Psoriasis](https://www.everydayhealth.com/psoriasis/)[Rheumatoid Arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/)[Type 2 Diabetes](https://www.everydayhealth.com/type-2-diabetes/)
 
@@ -44,7 +44,7 @@ Explore wellness and self-care topics for your physical and mental well-being.
 
 [Acupuncture](https://www.everydayhealth.com/alternative-health/what-is-acupuncture-a-beginners-guide-to-how-it-works-and-how-it-may-improve-your-health/)[Bug Bites](https://www.everydayhealth.com/skin-and-beauty-photos/how-to-identify-common-bug-bites.aspx)[Ceramides](https://www.everydayhealth.com/healthy-skin/ceramides/guide/)[Dehydration](https://www.everydayhealth.com/dehydration/)[Fitness and Exercise](https://www.everydayhealth.com/fitness/all-articles/)[Food & Diet](https://www.everydayhealth.com/lifestyle/food/)[Healthy Recipes](https://www.everydayhealth.com/healthy-recipes/)
 
-[Ketogenic Diet](https://www.everydayhealth.com/diet-nutrition/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/all-articles/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/guide/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/)
+[Ketogenic Diet](https://www.everydayhealth.com/ketogenic-diet/)[Meditation](https://www.everydayhealth.com/meditation/all-articles/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Self-Care](https://www.everydayhealth.com/self-care/)[Stress](https://www.everydayhealth.com/stress/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Yoga](https://www.everydayhealth.com/yoga/)
 
 News
 
@@ -56,17 +56,17 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/rsv-vax-cdc-changes-guidelines-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/eggs-salmonella-recall-multiple-states-1440x810.jpg)
 
-Who Should Get an RSV Vaccine? The Guidelines Are Changing](https://www.everydayhealth.com/lung-respiratory/who-should-get-an-rsv-vaccine-guidelines-changing/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Eggs Contaminated With Salmonella Sicken Dozens of People in 9 States](https://www.everydayhealth.com/salmonella/eggs-contaminated-with-salmonella-sicken-dozens/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/exercise-prevents-nerve-pain-during-cancer-treatment-alt-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/do-mobile-phones-cause-brain-cancer-1440x810.jpg)
 
-These Simple Exercises May Prevent Chemo-Induced Neuropathy](https://www.everydayhealth.com/cancer-treatment/simple-exercises-may-help-prevent-chemo-induced-neuropathy/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Do Cell Phones Cause Brain Cancer? A Major New Analysis Says No](https://www.everydayhealth.com/brain-cancer/do-cell-phones-cause-brain-cancer-new-analysis-says-no/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/ensifentrine-for-copd-treatment-gets-fda-approval-alt-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/fda-approves-updated-covid-vaccines-fall-2024-1440x810.jpg)
 
-New COPD Treatment Widens Airways and Fights Inflammation](https://www.everydayhealth.com/copd/new-copd-treatment-both-widens-airways-and-fights-inflammation/)
+Updated COVID Vaccines for 2024–2025 Get FDA Approval](https://www.everydayhealth.com/coronavirus/updated-covid-vaccines-for-2024-2025-gets-fda-approval/)
 
 ![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
@@ -167,8 +167,9 @@ If you have any questions about our Privacy Policy, you can contact us at [**Pr
 17. **[Terms of Use](https://www.everydayhealth.com/privacyterms/#terms-of-use)**
 18. **[Contact Details](https://www.everydayhealth.com/privacyterms/#contact-details)**
 19. **[California Consumer Rights Metrics](https://www.everydayhealth.com/privacyterms/#california-consumer-rights-metrics)**
-20. [**How this Privacy Policy May Change**](https://www.everydayhealth.com/privacyterms/#how-this-privacy-policy-may-change)
-21. [**Consumer Health Data Privacy Policy**](https://www.everydayhealth.com/privacyterms/#consumer-health-data-privacy-policy)
+20. **[Texas Sensitive Data Notice](https://www.everydayhealth.com/privacyterms/#texas-sensitive-data-notice)**
+21. [**How this Privacy Policy May Change**](https://www.everydayhealth.com/privacyterms/#how-this-privacy-policy-may-change)
+22. [**Consumer Health Data Privacy Policy**](https://www.everydayhealth.com/privacyterms/#consumer-health-data-privacy-policy)
 
 1\. Privacy Policy Overview
 ---------------------------
@@ -177,11 +178,11 @@ If you have any questions about our Privacy Policy, you can contact us at [**Pr
 
 **This Policy explains how we may Process your information. This Policy may be amended or updated from time to time, so please check it regularly for updates.**
 
-Everyday Health, Inc., with its parents, affiliates and its subsidiaries (collectively, **“Everyday Health”**, **“us”, “our”** or **“we”**), owns, operates, or provides access to, several interactive health, wellness, diet and fitness websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, sweepstakes and contests for consumers (collectively **“Services”**). This Privacy Policy applies to all information collected about you when you interact with the Services, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
+Everyday Health, Inc., with its parents, affiliates and its subsidiaries (collectively, **“Everyday Health”**, **“us”, “our”** or **“we”**), owns, operates, or provides access to, several interactive health, wellness, diet and fitness websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, sweepstakes and contests for consumers (collectively **“Services”**). This Privacy Policy applies to all information collected about you when you interact with the Services, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
-Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the **[EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN)** (“**GDPR**”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [**DSAR Portal**](https://dsar.everydayhealth.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
+Except as otherwise noted in this Privacy Policy, Everyday Health is a data controller (as that term is used under the **[EU General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)** (“**GDPR**”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [**DSAR Portal**](https://dsar.everydayhealth.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
-**This Privacy Policy covers information collected through the websites [**Everyday Health**](https://www.everydayhealth.com/) and [Castle Connolly](https://castleconnolly.com/) and the applications Everyday Health, Calorie Counter and Diabetes in Check.** 
+**This Privacy Policy covers information collected through the websites [**Everyday Health**](https://www.everydayhealth.com/) and [Castle Connolly](https://castleconnolly.com/) and the applications Everyday Health, Calorie Counter and Diabetes in Check.**
 
 2\. What Categories of Information We May Process
 -------------------------------------------------
@@ -307,13 +308,13 @@ You may unsubscribe from our newsletter lists at any time by following the unsub
 
 **Everyday Health and/or certain third parties may collect information about you for online behavioral advertising purposes in order for you to receive relevant interest-based advertising on the Services and on other websites, platforms and media channels. We use Online Data as well as other User Information to send you online behavioral ads. Online Data is aggregated with the Other Information and data we collect and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests.**
 
-Everyday Health and its partners may use cookies and other tracking technologies to analyze trends, administer Services, track users’ movements around the Services and on third party sites, devices and applications, and to gather demographic information about our user base. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Services. To manage Flash cookies, please click [**here**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Please see our [**Cookie Policy**](https://www.everydayhealth.com/cookie-policy/) for more information, including a more in-depth explanation of what cookies are, the different types of cookies used on the Services, and how to change or delete them.
+Everyday Health and its partners may use cookies and other tracking technologies to analyze trends, administer Services, track users’ movements around the Services and on third party sites, devices and applications, and to gather demographic information about our user base. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on the Services. To manage Flash cookies, please click [**here**](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Please see our [**Cookie Policy**](https://www.everydayhealth.com/cookie-policy/) for more information, including a more in-depth explanation of what cookies are, the different types of cookies used on the Services, and how to change or delete them.
 
 Tracking technologies on the Services may be deployed by Everyday Health and/or by our service providers or partners. Certain tracking technologies enable us to assign a unique identifier to you, and relate information about your use of the Services to other information about you, including your User Information. We may match information collected from you through different means or at different times and use such information along with offline and online information obtained from other sources (including from third parties), including, but not limited to, demographic information and updated contact information, for the purposes of learning more about you so we can provide you with relevant content and advertising.
 
 When you receive email messages or newsletters from us, we may use web beacons, customized links, clear GIFs or similar technologies to determine whether the email has been opened and which links you click in order to provide you with more focused email communications or other information, and/or to aggregate that information with other data we collect to use for some or all of the purposes outlined in this Privacy Policy.
 
-We and our partners (including but not limited to e-commerce partners, affiliates, and analytics providers) also may use technologies such as pixel tags, e-tags, IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to analyze trends; administer the Services; collect and store information such as user settings, anonymous browser identifiers and video viewing history; supplement our server logs and other methods of traffic and response measurement; track users’ location and movements around the Services; gather demographic information about our user base; and to improve our understanding of traffic on the Services, visitor behavior, and responses to promotional campaigns. We may receive reports based on the use of these technologies by these third party companies on an individual and aggregated basis. For example, we may connect information about your IP address to known corporate or User Information and use the associated information related to aggregate content preferences to assist in our efforts to market services to you or the originating corporation(s). Various browsers may offer their own management tools for removing Local Storage. To manage Flash Local Shared Objects please click [**here**](http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We and our partners (including but not limited to e-commerce partners, affiliates, and analytics providers) also may use technologies such as pixel tags, e-tags, IP addresses, Local Shared Objects, Local Storage, Flash cookies and HTML5 to analyze trends; administer the Services; collect and store information such as user settings, anonymous browser identifiers and video viewing history; supplement our server logs and other methods of traffic and response measurement; track users’ location and movements around the Services; gather demographic information about our user base; and to improve our understanding of traffic on the Services, visitor behavior, and responses to promotional campaigns. We may receive reports based on the use of these technologies by these third party companies on an individual and aggregated basis. For example, we may connect information about your IP address to known corporate or User Information and use the associated information related to aggregate content preferences to assist in our efforts to market services to you or the originating corporation(s). Various browsers may offer their own management tools for removing Local Storage. To manage Flash Local Shared Objects please click [**here**](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 We may use mobile analytics software to collect data and to better understand the functionality of our mobile software, devices and applications on your phone and other devices. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We may link this information to User Information.
 
@@ -321,7 +322,7 @@ Everyday Health and/or certain third parties may collect information about you f
 
 Everyday Health displays ads on both the Services and on the Channels. We may use Online Data as well as other User Information to send you OBA. For example, if you read an article about a particular subject on the Services, we may use cookies from a vendor to later serve you an advertisement for a particular product or service related to the viewed article. These third party vendors may connect information about pages you visit on the Services with information about pages you visit on other Channels and show you advertising based on this combined information. These advertisements may appear when you are visiting a different section of the Services or on another Channel. Likewise, third party vendors may serve you advertisements when you visit the Services based on your interaction with the Services and other Channels.
 
-**The specific providers we use for OBA are subject to change.** For a list of some of the applicable providers, [click here](https://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [**click here**](https://optout.aboutads.info/?c=2&lang=EN). For more details about OBA and opting out, see Section 15 below.
+**The specific providers we use for OBA are subject to change.** For a list of some of the applicable providers, [click here](https://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [**click here**](https://optout.aboutads.info/?c=2&lang=EN). For more details about OBA and opting out, see Section 15 below.
 
 Online Data is aggregated with the Other Information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data and GeoIP Data, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks, and search terms used for ad personalization, targeting separately from your Personal Information. We may share de-identified data segments with third parties, and where we do, we implement technical measures and contractual requirements to prevent identification.
 
@@ -408,7 +409,7 @@ In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and t
 
 For a list of our subsidiaries and affiliates who also adhere to the DPF Principles, please click [here](https://www.ziffdavis.com/ziff-davis-inc-entities-self-certified-under-the-data-privacy-framework-dpf).
 
-Our privacy practices described in this Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click [**here**](http://cbprs.org/).
+Our privacy practices described in this Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click [**here**](https://cbprs.org/).
 
 11\. Data Security
 ------------------
@@ -552,7 +553,12 @@ If you have an unresolved concern regarding your privacy or our use of data that
 
 Pursuant to the California privacy regulations, our consumer rights metrics can be found on our [Regulatory Information Site](https://www.ziffdavis.com/regulatory-information).
 
-20\. How this Privacy Policy May Change
+20\. Texas Sensitive Data Notice
+--------------------------------
+
+NOTICE: We may sell your sensitive personal data, as defined under and in accordance with Texas law.
+
+21\. How this Privacy Policy May Change
 ---------------------------------------
 
 We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
@@ -561,7 +567,7 @@ We may change this Privacy Policy from time to time, and all changes will be eff
 
 [Back to Top](https://www.everydayhealth.com/privacyterms/#top)
 
-21\. Consumer Health Data Privacy Policy - WA and NV
+22\. Consumer Health Data Privacy Policy - WA and NV
 ----------------------------------------------------
 
 **A. Categories of health data collection, purpose and source:** 
@@ -983,10 +989,6 @@ Subscribe
 
 By subscribing you agree to the [Terms of Use](https://www.everydayhealth.com/privacyterms/#everyday-health-terms-of-use) and [Privacy Policy](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy).
 
-[![Group Black](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![Group Black](https://images.everydayhealth.com/react-component-images/groupblack-logo-purple.png?w=100&h=41)](https://www.groupblack.co/)Everyday Health supports [Group Black](https://www.groupblack.co/) and its mission to increase greater diversity in media voices and media ownership.
-
 © 1996-2024 Everyday Health, Inc., a Ziff Davis company. All rights reserved. Everyday Health is among the federally registered trademarks of Everyday Health, Inc. and may not be used by third parties without explicit permission.All information on the Everyday Health website is for informational purposes only, and is not intended to be used for medical advice, diagnosis, or treatment. For more details, see Everyday Health's [Terms of Use](https://www.everydayhealth.com/privacyterms/#everyday-health-terms-of-use).
 
 [![TRUSTe Verified Privacy](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
@@ -995,4 +997,4 @@ By subscribing you agree to the [Terms of Use](https://www.everydayhealth.com/pr
 
 Badges](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a "TRUSTe Verified Privacy")
 
-[Ovarian Cancer](https://www.everydayhealth.com/ovarian-cancer/)[Prostate Cancer](https://www.everydayhealth.com/prostate-cancer/)[Macular Degeneration](https://www.everydayhealth.com/macular-degeneration/)[High Cholesterol](https://www.everydayhealth.com/high-cholesterol/)[Hair Loss](https://www.everydayhealth.com/hair-loss/)[Bipolar Disorder](https://www.everydayhealth.com/bipolar-disorder/)[Breast Cancer](https://www.everydayhealth.com/breast-cancer/)[Psoriatic Arthritis](https://www.everydayhealth.com/psoriatic-arthritis/)[Hepatitis C](https://www.everydayhealth.com/hepatitis-c/)[Hypertension](https://www.everydayhealth.com/hypertension/)[COPD](https://www.everydayhealth.com/copd/)[Celebrity Health & Wellness](https://www.everydayhealth.com/all-celebrity-health-wellness/all-articles/)[IBS](https://www.everydayhealth.com/ibs/)[Hypothyroidism](https://www.everydayhealth.com/hypothyroidism/)[Ulcerative Colitis](https://www.everydayhealth.com/ulcerative-colitis/)[Exocrine Pancreatic Insufficiency](https://www.everydayhealth.com/exocrine-pancreatic-insufficiency-epi/)[Parkinson's Disease](https://www.everydayhealth.com/parkinsons-disease/)[Ankylosing Spondylitis](https://www.everydayhealth.com/ankylosing-spondylitis/)[ADHD](https://www.everydayhealth.com/adhd/)[HIV/AIDS](https://www.everydayhealth.com/hiv/)[Asthma](https://www.everydayhealth.com/asthma/)[Psoriasis](https://www.everydayhealth.com/psoriasis/)[Heart Failure](https://www.everydayhealth.com/heart-failure/)[Anxiety Disorders](https://www.everydayhealth.com/anxiety-disorders/)[Stress](https://www.everydayhealth.com/stress/)[Migraine](https://www.everydayhealth.com/migraine/)[Menopause](https://www.everydayhealth.com/menopause/)[Type 2 Diabetes](https://www.everydayhealth.com/type-2-diabetes/)[Rheumatoid Arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/)[Lung Cancer](https://www.everydayhealth.com/lung-cancer/)[Eczema](https://www.everydayhealth.com/eczema/)[Endometriosis](https://www.everydayhealth.com/endometriosis/)[Multiple Sclerosis](https://www.everydayhealth.com/multiple-sclerosis/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Atrial Fibrillation](https://www.everydayhealth.com/atrial-fibrillation/)[Alzheimer's Disease](https://www.everydayhealth.com/alzheimers-disease/)[Crohn's Disease](https://www.everydayhealth.com/crohns-disease/)
+[Ovarian Cancer](https://www.everydayhealth.com/ovarian-cancer/)[Prostate Cancer](https://www.everydayhealth.com/prostate-cancer/)[Macular Degeneration](https://www.everydayhealth.com/macular-degeneration/)[High Cholesterol](https://www.everydayhealth.com/high-cholesterol/)[Hair Loss](https://www.everydayhealth.com/hair-loss/)[Bipolar Disorder](https://www.everydayhealth.com/bipolar-disorder/)[Breast Cancer](https://www.everydayhealth.com/breast-cancer/)[Keto Diet](https://www.everydayhealth.com/ketogenic-diet/)[Psoriatic Arthritis](https://www.everydayhealth.com/psoriatic-arthritis/)[Hepatitis C](https://www.everydayhealth.com/hepatitis-c/)[Hypertension](https://www.everydayhealth.com/hypertension/)[COPD](https://www.everydayhealth.com/copd/)[Celebrity Health & Wellness](https://www.everydayhealth.com/all-celebrity-health-wellness/all-articles/)[IBS](https://www.everydayhealth.com/ibs/)[Hypothyroidism](https://www.everydayhealth.com/hypothyroidism/)[Ulcerative Colitis](https://www.everydayhealth.com/ulcerative-colitis/)[Exocrine Pancreatic Insufficiency](https://www.everydayhealth.com/exocrine-pancreatic-insufficiency-epi/)[Parkinson's Disease](https://www.everydayhealth.com/parkinsons-disease/)[Ankylosing Spondylitis](https://www.everydayhealth.com/ankylosing-spondylitis/)[ADHD](https://www.everydayhealth.com/adhd/)[Depression](https://www.everydayhealth.com/depression/)[HIV/AIDS](https://www.everydayhealth.com/hiv/)[Asthma](https://www.everydayhealth.com/asthma/)[Psoriasis](https://www.everydayhealth.com/psoriasis/)[Heart Failure](https://www.everydayhealth.com/heart-failure/)[Anxiety Disorders](https://www.everydayhealth.com/anxiety-disorders/)[Stress](https://www.everydayhealth.com/stress/)[Migraine](https://www.everydayhealth.com/migraine/)[Menopause](https://www.everydayhealth.com/menopause/)[Type 2 Diabetes](https://www.everydayhealth.com/type-2-diabetes/)[Cold & Flu](https://www.everydayhealth.com/cold-flu/)[Rheumatoid Arthritis](https://www.everydayhealth.com/rheumatoid-arthritis/)[Lung Cancer](https://www.everydayhealth.com/lung-cancer/)[Eczema](https://www.everydayhealth.com/eczema/)[Endometriosis](https://www.everydayhealth.com/endometriosis/)[Multiple Sclerosis](https://www.everydayhealth.com/multiple-sclerosis/)[Weight Loss](https://www.everydayhealth.com/weight-loss/)[Atrial Fibrillation](https://www.everydayhealth.com/atrial-fibrillation/)[Alzheimer's Disease](https://www.everydayhealth.com/alzheimers-disease/)[Crohn's Disease](https://www.everydayhealth.com/crohns-disease/)[Mediterranean Diet](https://www.everydayhealth.com/mediterranean-diet/)[Colorectal Cancer](https://www.everydayhealth.com/colorectal-cancer/)[Leukemia](https://www.everydayhealth.com/leukemia/)
