@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![Couple on couch watching TV with a smart speaker in the foreground](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/media-nations-2024-web.jpg?width=1920&height=1085&quality=80)
+[![News app NC](/topic-and-subtopics/media-use-and-attitudes/attitudes-to-news/news-and-updates/tv-loses-its-crown-as-main-source-for-news/contentassets/news-app-nc.png?width=1920&height=1085&quality=80)
 
-### Gen Z swerves traditional broadcast TV as less than half tune in weekly
+### TV loses its crown as main source for news
 
-31 July 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/gen-z-swerves-traditional-broadcast-tv-as-less-than-half-tune-in-weekly/)
+10 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news/tv-loses-its-crown-as-main-source-for-news/?language=en)
 
-[![Media Nations Wales 2024](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/media-nations-wales-2024-web.jpg?width=1920&height=1085&quality=80)
+[![MSOM-evaluation 1330x560](/topic-and-subtopics/media-use-and-attitudes/media-literacy/news-and-updates/what-works-in-media-literacy-evaluations/contentassets/msom-evaluation-1330x560.png?width=1920&height=1085&quality=80)
 
-### Public Service Broadcasters remain the most watched by audiences in Wales, despite a decline in overall TV viewing
+### What works in Media Literacy evaluations
 
-31 July 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/public-service-broadcasters-remain-the-most-watched-by-audiences-in-wales-despite-a-decline-in-overall-tv-viewing/)
+9 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/what-works-in-media-literacy-evaluations/)
 
-[![A close-up of a mobile phone with an unknown number calling](/siteassets/resources/images/-news-centre/thumbnail-images/phones/scam-calls-web.jpg?width=1920&height=1085&quality=80)
+[![Man using his mobile phone on the bus](/siteassets/resources/images/-news-centre/thumbnail-images/phones/mobile-matters-2024-web.jpg?width=1920&height=1085&quality=80)
 
-### Clamping down on scam calls from abroad
+### Size doesn’t matter: Which mobile operator has the longest file download time?
 
-29 July 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/clamping-down-on-scam-calls-from-abroad/?language=en)
+6 September 2024](https://www.ofcom.org.uk/phones-and-broadband/mobile-phones/size-doesnt-matter-which-mobile-operator-has-the-longest-file-download-time/)
 
-[![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
+[![Royal-Mail-van-sunshine-1336x560](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-van-sunshine-1336x560.jpg?width=1920&height=1085&quality=80)
 
-### Nowhere to hide for tech firms on online safety: Ofcom publishes draft industry guidance on transparency reporting and information gathering
+### Securing the future of the universal postal service
 
-26 July 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/nowhere-to-hide-for-tech-firms-on-online-safety/)
+5 September 2024](https://www.ofcom.org.uk/post/royal-mail/securing-the-future-of-the-universal-postal-service/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
@@ -297,7 +297,11 @@ You can block or remove cookies set by our other websites – see the full list 
 Related content
 ---------------
 
-[### General Privacy Statement – How we handle your personal data](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/)
+[### General Privacy Statement – How we handle your personal data
+
+Published: 10 February 2023
+
+Last updated: 27 February 2024](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/)
 
 [Back to top](#)
 
