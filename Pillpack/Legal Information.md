@@ -1,7 +1,6 @@
 * [How it works](https://www.pillpack.com/how-it-works)
 * [Pricing](https://www.pillpack.com/pricing)
 * [Reviews](https://www.pillpack.com/reviews)
-* [Folks](https://folks.pillpack.com/)
 
 * [My PillPack →](https://app.pillpack.com/login)
 * [Continue Sign Up →](https://my.pillpack.com/signup)
