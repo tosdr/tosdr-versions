@@ -57,19 +57,19 @@ A site the size of Lichess requires many people to maintain it. It also [require
 * [Patrons](https://lichess.org/patron) provide a steady stream of income to our site, sufficient to run our servers and handle expenses.
 * Finally, the players who come to Lichess to have fun, relax and learn, without whom this would all be pointless!
 
-Press Kit
----------
+[](#press-kit)Press Kit
+-----------------------
 
 * [9-slide overview of Lichess (PDF)](https://github.com/lichess-org/files/blob/lichess/Press%20Kit/PressKit2020.pdf)
 * [Graphics including screenshots, icons, logo, and photos (GitHub folder)](https://github.com/lichess-org/files/tree/lichess/Press%20Kit)
 
-Streamer Kit
-------------
+[](#streamer-kit)Streamer Kit
+-----------------------------
 
 * [Overlay, logo, background, and fonts (GitHub folder)](https://github.com/lichess-org/files/tree/lichess/Streamer%20Kit)
 
-Links
------
+[](#links)Links
+---------------
 
 * [GitHub](https://github.com/lichess-org/)
 * [Twitter](https://twitter.com/lichess), [en Español](https://twitter.com/lichess_ES), [auf Deutsch](https://twitter.com/Lichess_DE)
