@@ -96,3 +96,18 @@ Fax:604-770-0290
 1484 Rupert Street, North Vancouver, BC V7J 1E9
 
 [Get Directions](https://www.google.com/maps/dir/?api=1&destination=HME+Home+Health,1484%20Rupert%20Street,%20North%20Vancouver,%20BC%20V7J%201E9)
+
+### Sunshine Coast (Formerly Coast Ability)
+
+Open Today:8:30am-4:30pm
+
+Mon - Fri:8:30am-4:30pm  
+Sat / Sun:Closed
+
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
+
+![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
+
+#105A 5631 Inlet Ave, Sechelt, BC V0N 3A0
+
+[Get Directions](https://www.google.com/maps/dir/?api=1&destination=HME+Home+Health,#105A%205631%20Inlet%20Ave,%20Sechelt,%20BC%20V0N%203A0)
