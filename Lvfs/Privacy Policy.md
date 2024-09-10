@@ -183,6 +183,8 @@ We take compliance with this policy very seriously. Failure to comply puts both 
 [LVFS](https://lvfs.readthedocs.io/en/latest/index.html)
 ========================================================
 
+ 
+
 ### Navigation
 
 Contents:
@@ -228,7 +230,5 @@ Contents:
 * [Documentation overview](https://lvfs.readthedocs.io/en/latest/index.html)
     * Previous: [Security](https://lvfs.readthedocs.io/en/latest/security.html "previous chapter")
     * Next: [Offline Firmware](https://lvfs.readthedocs.io/en/latest/offline.html "next chapter")
-
-### Quick search 
 
 ©2016-2020, Richard Hughes.
