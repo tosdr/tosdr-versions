@@ -906,10 +906,10 @@ Attn: Legal Department
 Suite 800  
 Austin, TX 78701
 
-* [Facebook Link to Facebook](https://www.facebook.com/caredotcom)
 * [Twitter Link to Twitter](https://www.twitter.com/caredotcom)
 * [YouTube Link to YouTube](https://www.youtube.com/user/caredotcom)
 * [Instagram Link to Instagram](https://www.instagram.com/caredotcom/)
+* [Facebook Link to Facebook](https://www.facebook.com/caredotcom)
 
 About Care.com
 
