@@ -1,8 +1,6 @@
 [Skip to main content](#main-content) [Skip to main menu](#main-menu-wrapper) [Skip to footer](#footer)
 
-Notice | [FIRE BAN IN EFFECT](https://www.cityofgp.com/alerts/fire-ban-effect-0)
-
-Notice | [Jasper Evacuee Information](https://www.cityofgp.com/alerts/jasper-evacuee-information)
+Information | [Fire Restriction Lifted - NO CONDITIONS](https://www.cityofgp.com/alerts/fire-restriction-lifted-no-conditions)
 
 Quick Menu
 ----------
@@ -14,7 +12,7 @@ Search
 
 Search 
 
-[![Home](/sites/default/files/gp-logo--black-350.png)](https://www.cityofgp.com/)
+[![Home](/sites/default/files/city-of-grand-prairie-logo_0.png)](https://www.cityofgp.com/)
 
 Menu
 
@@ -25,7 +23,6 @@ Main navigation
     * [About Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie)
         * [Moving to Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie)
         * [Grande Prairie – Vivre ici](https://www.cityofgp.com/culture-community/about-grande-prairie/grande-prairie-vivre-ici)
-        * [Municipal Census 2024](https://www.cityofgp.com/census)
         * [City History](https://www.cityofgp.com/culture-community/about-grande-prairie/city-history)
         * [Economic Profile & Data](https://www.cityofgp.com/culture-community/about-grande-prairie/economic-profile-data)
         * [Rural Residents](https://www.cityofgp.com/culture-community/about-grande-prairie/rural-residents)
@@ -61,8 +58,6 @@ Main navigation
         * [GP Welcome Package](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/gp-welcome-package)
         * [Home Support](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/home-support)
         * [Homeless Initiatives](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives)
-        * [Passionate Heart Awards](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/passionate-heart-awards)
-        * [Women of Influence Awards](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/women-influence-awards)
 * [Parks & Recreation](https://www.cityofgp.com/parks-recreation)
     * [Facilities & Venues](https://www.cityofgp.com/parks-recreation/facilities-venues)
         * [Aquatera Outdoor Pool](https://www.cityofgp.com/parks-recreation/facilities-venues/aquatera-outdoor-pool)
@@ -116,10 +111,10 @@ Main navigation
         * [Vehicles for Hire](https://www.cityofgp.com/city-services/bylaw-enforcement/vehicles-hire)
         * [Common Concerns](https://www.cityofgp.com/city-services/bylaw-enforcement/common-concerns)
     * [Emergency](https://www.cityofgp.com/city-services/emergency)
-        * [Grande Prairie Municipal Police Service](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service)
         * [911 Dispatch](https://www.cityofgp.com/city-services/emergency/911-dispatch)
-        * [RCMP](https://www.cityofgp.com/city-services/emergency/rcmp)
         * [Grande Prairie Fire Department](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department)
+        * [Grande Prairie Municipal Police Service](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service)
+        * [RCMP](https://www.cityofgp.com/city-services/emergency/rcmp)
         * [Regional Emergency Partnership](https://www.cityofgp.com/city-services/emergency/regional-emergency-partnership)
     * [Energy](https://www.cityofgp.com/city-services/energy)
         * [Battery Energy Storage System (BESS)](https://www.cityofgp.com/city-services/energy/battery-energy-storage-system-bess)
@@ -178,7 +173,6 @@ Main navigation
         * [2022 By-Election](https://www.cityofgp.com/city-government/mayor-city-council/2022-election)
     * [Public Engagement](https://www.cityofgp.com/city-government/public-engagement)
     * [Working For The City](https://www.cityofgp.com/city-government/working-city)
-        * [Our Values](https://www.cityofgp.com/city-government/working-city/our-values)
         * [Career Opportunities](https://www.cityofgp.com/city-government/working-city/career-opportunities)
         * [Guiding Beliefs](https://www.cityofgp.com/city-government/working-city/guiding-beliefs)
         * [Compensation & Benefits](https://www.cityofgp.com/city-government/working-city/compensation-benefits)
@@ -186,6 +180,7 @@ Main navigation
     * [Youth Advisory Council](https://www.cityofgp.com/city-government/youth-advisory-council)
 * [Roads & Transportation](https://www.cityofgp.com/roads-transportation)
     * [Capital Planning and Construction](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction)
+        * [Bear Creek Dam](https://www.cityofgp.com/bearcreekdam)
         * [Construction Map](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/construction-map)
         * [Playground Repair and Replacement](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/playground-repair-and-replacement)
     * [Public Transit](https://www.cityofgp.com/roads-transportation/public-transit)
@@ -281,7 +276,6 @@ Mobile Menu
                 * [FAQ - Rural Renewal Stream](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie/immigration-rural-renewal-stream/faq)
             * [Immigration (Rural Renewal Entrepreneurship Stream)](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie/immigration-rural-renewal)
         * [Grande Prairie – Vivre ici](https://www.cityofgp.com/culture-community/about-grande-prairie/grande-prairie-vivre-ici)
-        * [Municipal Census 2024](https://www.cityofgp.com/census)
         * [City History](https://www.cityofgp.com/culture-community/about-grande-prairie/city-history)
         * [Economic Profile & Data](https://www.cityofgp.com/culture-community/about-grande-prairie/economic-profile-data)
         * [Rural Residents](https://www.cityofgp.com/culture-community/about-grande-prairie/rural-residents)
@@ -321,13 +315,11 @@ Mobile Menu
             * [Affordable Housing](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/affordable-housing)
             * [Community Advisory Board on Housing and Homelessness](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/community-advisory-board)
             * [Housing With Supports](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/housing-supports)
-                * [Cedar Point](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/housing-supports/cedar-point)
+                * [Cedar Point](https://www.cityofgp.com/cedarpoint)
                 * [Fletcher House](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/supportive-housing/fletcher)
             * [Homelessness Strategy](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/homelessness-strategy)
             * [Point in Time Count](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/point-time-count)
             * [Street Survival Guide](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/homeless-initiatives/street-survival-guide)
-        * [Passionate Heart Awards](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/passionate-heart-awards)
-        * [Women of Influence Awards](https://www.cityofgp.com/culture-community/social-programs-and-initiatives/women-influence-awards)
 * [Parks & Recreation](https://www.cityofgp.com/parks-recreation)
     Back to Main Menu* [Facilities & Venues](https://www.cityofgp.com/parks-recreation/facilities-venues)
         * [Aquatera Outdoor Pool](https://www.cityofgp.com/parks-recreation/facilities-venues/aquatera-outdoor-pool)
@@ -354,9 +346,8 @@ Mobile Menu
             * [Rules & Safety](https://www.cityofgp.com/parks-recreation/facilities-venues/coca-cola-centre/rules-safety)
             * [Contact](https://www.cityofgp.com/parks-recreation/facilities-venues/design-works-centre/contact)
         * [Eastlink Centre](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre)
-            * [Eastlink Centre Triathlon](https://www.cityofgp.com/triathlon)
-                * [2024 Eastlink Centre Triathlon Volunteers](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/eastlink-centre-triathlon/2024-eastlink-centre)
-            * [Become a Lifeguard](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/become-lifeguard)
+            * [Annual Aquatics Maintenance Shutdown](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/annual-aquatics-maintenance-shutdown)
+            * [Aquatics Careers](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/aquatics-careers)
             * [Amenities](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/amenities)
             * [Clubs & User Groups](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/clubs-user-groups)
             * [Facility Map](https://www.cityofgp.com/parks-recreation/facilities-venues/eastlink-centre/facility-map)
@@ -448,31 +439,29 @@ Mobile Menu
         * [Common Concerns](https://www.cityofgp.com/city-services/bylaw-enforcement/common-concerns)
             * [Cannabis](https://www.cityofgp.com/city-services/bylaw-enforcement/common-concerns/cannabis)
     * [Emergency](https://www.cityofgp.com/city-services/emergency)
+        * [911 Dispatch](https://www.cityofgp.com/city-services/emergency/911-dispatch)
+        * [Grande Prairie Fire Department](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department)
+            * [Fire Bans](https://www.cityofgp.com/firebans)
+            * [Fire Department Services](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-department-services)
+            * [Fire Hydrants](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-hydrants)
+            * [Fire Permits & Inspections](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits-inspections)
+                * [Burn Barrels](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/burn-barrels)
+                * [Fire Pits](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/fire-pits)
+                * [Fireworks](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/fireworks)
+            * [Fire Prevention & Safety](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-prevention-safety)
+            * [Fire Stations](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-stations)
+            * [Firefighter Recruitment](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/firefighter-recruitment)
+            * [Grande Prairie Firefighters Charitable Foundation](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/grande-prairie-firefighters-charitable)
         * [Grande Prairie Municipal Police Service](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service)
             * [About the Police Commission](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service/about-police-commission)
             * [Municipal Police Public Consultation](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service/municipal-police-public)
             * [Grande Prairie Police Service Recruitment](https://www.cityofgp.com/city-services/emergency/grande-prairie-municipal-police-service/grande-prairie-police-service)
-        * [911 Dispatch](https://www.cityofgp.com/city-services/emergency/911-dispatch)
         * [RCMP](https://www.cityofgp.com/city-services/emergency/rcmp)
             * [RCMP Crime Map](https://www.cityofgp.com/city-services/emergency/rcmp/rcmp-crime-map)
             * [RCMP Services](https://www.cityofgp.com/city-services/emergency/rcmp/rcmp-services)
             * [RCMP Community Programs](https://www.cityofgp.com/city-services/emergency/rcmp/rcmp-community-programs)
             * [RCMP Newsletter](https://www.cityofgp.com/city-services/emergency/rcmp/rcmp-newsletter)
             * [Risk Reduction](https://www.cityofgp.com/city-services/emergency/rcmp/risk-reduction)
-        * [Grande Prairie Fire Department](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department)
-            * [Fire Department Services](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-department-services)
-            * [Fire Hydrants](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-hydrants)
-            * [Fire Permits](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits)
-                * [Burn Barrels](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/burn-barrels)
-                * [Fire Pits](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/fire-pits)
-                * [Fireworks](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-permits/fireworks)
-            * [Fire Prevention & Safety](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-prevention-safety)
-            * [Fire Safety Plans](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-safety-plans)
-            * [Fire Stations](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/fire-stations)
-            * [Firefighter Careers](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/firefighter-careers)
-            * [Grande Prairie Firefighters Charitable Foundation](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/grande-prairie-firefighters-charitable)
-            * [Inspections](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/inspections)
-            * [Public Education](https://www.cityofgp.com/city-services/emergency/grande-prairie-fire-department/public-education)
         * [Regional Emergency Partnership](https://www.cityofgp.com/city-services/emergency/regional-emergency-partnership)
     * [Energy](https://www.cityofgp.com/city-services/energy)
         * [Battery Energy Storage System (BESS)](https://www.cityofgp.com/city-services/energy/battery-energy-storage-system-bess)
@@ -542,7 +531,7 @@ Mobile Menu
             * [Grande Prairie Airport Commission](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/grande-prairie-airport-commission)
             * [Grande Prairie Policing Committee](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/grande-prairie-policing-committee)
             * [Grande Prairie Public Library Board](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/grande-prairie-public-library-board)
-            * [Subdivision and Development Appeal Board](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/subdivision-and-development-appeal-board)
+            * [Joint Appeals Board - Subdivision and Development Appeal Board and General Appeals Board](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/joint-appeals-board-subdivision-and)
             * [Youth Advisory Council](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/youth-advisory-council)
         * [2022 By-Election](https://www.cityofgp.com/city-government/mayor-city-council/2022-election)
             * [By-Election Results](https://www.cityofgp.com/city-government/2022-election/election-results)
@@ -555,7 +544,6 @@ Mobile Menu
             * [Frequently Asked Questions](https://www.cityofgp.com/city-government/2022-election/frequently-asked-questions)
     * [Public Engagement](https://www.cityofgp.com/city-government/public-engagement)
     * [Working For The City](https://www.cityofgp.com/city-government/working-city)
-        * [Our Values](https://www.cityofgp.com/city-government/working-city/our-values)
         * [Career Opportunities](https://www.cityofgp.com/city-government/working-city/career-opportunities)
         * [Guiding Beliefs](https://www.cityofgp.com/city-government/working-city/guiding-beliefs)
         * [Compensation & Benefits](https://www.cityofgp.com/city-government/working-city/compensation-benefits)
@@ -563,6 +551,7 @@ Mobile Menu
     * [Youth Advisory Council](https://www.cityofgp.com/city-government/youth-advisory-council)
 * [Roads & Transportation](https://www.cityofgp.com/roads-transportation)
     Back to Main Menu* [Capital Planning and Construction](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction)
+        * [Bear Creek Dam](https://www.cityofgp.com/bearcreekdam)
         * [Construction Map](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/construction-map)
         * [Playground Repair and Replacement](https://www.cityofgp.com/roads-transportation/capital-planning-and-construction/playground-repair-and-replacement)
     * [Public Transit](https://www.cityofgp.com/roads-transportation/public-transit)
@@ -746,14 +735,10 @@ More information
 
 **For more information on our Terms of Use and Privacy Policies, contact:**
 
-Legislative Services  
-  
-City of Grande Prairie,  
-  
-Postal Bag 4000,  
-  
-Grande Prairie, Alberta T8V 6V3
-
+Legal and Risk Management  
+City of Grande Prairie  
+Postal Bag 4000  
+Grande Prairie, Alberta T8V 6V3  
 **Telephone:** 780-357-8716
 
 ![City of Grande Prairie Logo](/themes/custom/grandeprairie/images/gp-logo--white.png)
@@ -776,7 +761,7 @@ Grande Prairie, Alberta T8V 6V3
 
 [Public Notices](https://www.cityofgp.com/node/27)
 
-[](https://www.facebook.com/cityofgp/)[](https://www.youtube.com/user/GrandePrairieCA/)[](https://twitter.com/CityofGP)
+[](https://www.facebook.com/cityofgp/)[](https://www.youtube.com/user/GrandePrairieCA/)[](https://twitter.com/CityofGP)[](https://www.linkedin.com/company/cityofgp/?viewAsMember=true)[](https://www.instagram.com/cityofgp/)
 
 Footer menu
 -----------
@@ -807,10 +792,3 @@ Google Translate is provided as a free tool to enhance the usability of the City
 \>
 
 \>
-
-Close
-
-Complete the 2024 Municipal Census
-----------------------------------
-
-Count yourself in! Completing the census online is a fast and simple process. Visit [cityofgp.com/census](https://www.cityofgp.com/census), enter your unique PIN, and then follow the prompts. If you lost your pin, call 311.
