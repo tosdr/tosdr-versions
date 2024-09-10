@@ -4,7 +4,7 @@
 
 Performance Consultant](https://pawelurbanek.com/)
 
-[Blog](https://pawelurbanek.com/blog) [Contact](https://pawelurbanek.com/contact) [Sponsorship](https://pawelurbanek.com/sponsorship)
+[Performance Action Pack](https://pawelurbanek.com/) [About](https://pawelurbanek.com/#about) [Blog](https://pawelurbanek.com/blog) [Contact](https://pawelurbanek.com/contact)
 
 Terms and Privacy Policy
 ========================
