@@ -1,4 +1,4 @@
-WebinarUnlocking growth outside the US - 24 July   [Join us](https://paddle.com/events/webinars/unlocking-growth-outside-the-us?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q2_core_us_upmarket_webinar_jul24&utm_content=top-page-banner "Unlocking growth outside the US - 24 July")
+ForwardQ3 2024 product showcase for what's new and next at Paddle   [Join us live](https://www.paddle.com/forward "Join us")
 
 [](https://www.paddle.com/)
 
@@ -168,10 +168,9 @@ Use cases[Launch your SaaS](https://www.paddle.com/solutions/launch)[Introduce P
 
 [Get started](https://www.paddle.com/get-started)Login[Paddle Billing](https://vendors.paddle.com/)[ProfitWell Metrics](https://www2.profitwell.com/app/dashboard)
 
-Terms
-
+Terms  
 Paddle Master Services Agreement
-================================
+========================================
 
 **Paddle.com Market Ltd.**
 --------------------------
@@ -532,7 +531,7 @@ Paddle is the reseller of the Product. This structure allows Paddle to handle al
 15\. Dormant accounts
 ---------------------
 
-Where you have no sales for a period of six (6) consecutive months (the  **“Dormancy Period”**) and there is a positive Account Balance, Paddle reserves the right to charge you an account dormancy charge ("**Dormancy Charge"**) and/or deactivate your Supplier Account. Dormant Supplier Accounts with a negative balance and no sales activity in the preceding 15 days will be deactivated immediately.
+Where you have no sales for a period of six (6) consecutive months (the  **“Dormancy Period”**) and there is an outstanding Supplier Fee due to you, Paddle reserves the right to charge you an account dormancy charge ("**Dormancy Charge"**) and/or deactivate your Supplier Account. Dormant Supplier Accounts with a negative balance and no sales activity in the preceding 15 days will be deactivated immediately.
 
 16\. Termination
 ----------------
@@ -608,7 +607,7 @@ Support[Help center](https://www.paddle.com/help)[Developer docs](https://develo
 
 Company[About us](https://www.paddle.com/about)[CareersWe're hiring](https://www.paddle.com/careers)[Press](https://www.paddle.com/press)[Partnerships](https://www.paddle.com/partners)[Procurement](https://www.paddle.com/about/procurement)
 
-Compare[Compare providers](https://www.paddle.com/compare)[Stripe](https://www.paddle.com/compare/stripe)[FastSpring](https://www.paddle.com/compare/fastspring)[Chargebee](https://www.paddle.com/compare/chargebee)[Avalara](https://www.paddle.com/compare/avalara)
+Compare[Stripe](https://www.paddle.com/compare/stripe)[Lemon Squeezy](https://www.paddle.com/compare/lemon-squeezy)[FastSpring](https://www.paddle.com/compare/fastspring)[Chargebee](https://www.paddle.com/compare/chargebee)[Avalara](https://www.paddle.com/compare/avalara)[Digital River](https://www.paddle.com/compare/digital-river)
 
 [](https://www.paddle.com/)
 
