@@ -218,7 +218,9 @@ While Conjuguemos offers a Premium/Paid plan, the majority of our revenue comes 
 
 Yes. When teachers/schools pay for a premium subscription, they can choose to purchase the “ad-free” add-on. Once purchased, this will remove all ads from any student or teacher associated with this paid school account. For more information, go to our [Pricing](https://conjuguemos.com/pricing) page.
 
-#### What information do these ads collect?
+#### Are these "targeted" ads and/or is user information being collected to serve these ads?
+
+No. The ads in Conjuguemos are not targeted ads.
 
 Ad companies may use information about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to www.networkadvertising.org/choices. If you live in the EU, please see www.youronlinechoices.com.
 
