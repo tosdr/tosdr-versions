@@ -14,17 +14,19 @@ Search
     * [Newsletters](https://www.nasa.gov/newsletters/)
     * [Social Media](https://www.nasa.gov/social-media/)
     * [Media Resources](https://www.nasa.gov/news/media-contacts/)
-    * [Upcoming Launches & Landings](https://www.nasa.gov/events/)
-    * [Virtual Events](https://www.nasa.gov/nasa-virtual-guest-program/)
+    * [Events](https://www.nasa.gov/events)
+    * [Upcoming Launches & Landings](https://www.nasa.gov/event-type/launch-schedule/)
+    * [Virtual Guest Program](https://www.nasa.gov/nasa-virtual-guest-program/)
 * Multimedia
     [### Multimedia](https://www.nasa.gov/multimedia/)* [NASA+](https://plus.nasa.gov/)
     * [Images](https://www.nasa.gov/images/)
-    * [NASA TV](https://www.nasa.gov/nasatv/)
-    * [Sounds and Ringtones](https://www.nasa.gov/audio-and-ringtones/)
-    * [Interactives](https://www.nasa.gov/interactives/)
+    * [NASA Live](https://www.nasa.gov/live)
     * [NASA Apps](https://www.nasa.gov/apps/)
     * [Podcasts](https://www.nasa.gov/podcasts/)
+    * [Image of the Day](https://www.nasa.gov/image-of-the-day/)
     * [e-Books](https://www.nasa.gov/ebooks/)
+    * [Sounds and Ringtones](https://www.nasa.gov/audio-and-ringtones/)
+    * [Interactives](https://www.nasa.gov/interactives/)
     * [STEM Multimedia](https://www.nasa.gov/learning-resources/search/?terms=8058%2C8059%2C8061%2C8062%2C8068)
 * [NASA+](https://plus.nasa.gov/)
 
@@ -62,25 +64,25 @@ Suggested Searches
 
 ### Featured
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/07/merra2-geos-fp-daily-record.png?w=1024)
+[![Hubble Examines a Busy Galactic Center](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic4709-potw2436a.jpg)
 
 2 min read
 
-### NASA Data Shows July 22 Was Earth’s Hottest Day on Record
+### Hubble Examines a Busy Galactic Center
 
-article2 days ago](https://www.nasa.gov/earth/nasa-data-shows-july-22-was-earths-hottest-day-on-record/)[![](https://www.nasa.gov/wp-content/uploads/2024/07/2024-0713-nasa-promo-thumbnail-standard.jpg?w=1024)
+article4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/)[![An aircraft is centered in the image facing the left. It is on a runway of dark gray concrete and the surroundings are primarily dry grass, with another runway at the top of the image.](https://www.nasa.gov/wp-content/uploads/2024/09/afrc2023-0012-055orig.jpg?w=1024)
 
-3 min read
+5 min read
 
-### NASA Embraces Streaming Service to Reach, Inspire Artemis Generation
+### NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
 
-article1 day ago](https://www.nasa.gov/general/nasa-embraces-streaming-service-to-reach-inspire-artemis-generation/)[![Image shows Northrop Grumman's Cygnus space freighter attached to the Canadarm2 robotic arm ahead of its release from the International Space Station's Unity module.](https://www.nasa.gov/wp-content/uploads/2024/07/northrop-grummans-cygnus-space-freighter.jpg?w=1024)
+article6 days ago](https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
 
-1 min read
+6 min read
 
-### NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
+### What’s Up: September 2024 Skywatching Tips from NASA
 
-article2 days ago](https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/)
+article7 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/)
 
 Back
 
@@ -220,250 +222,264 @@ Back
 * [Newsletters](https://www.nasa.gov/newsletters/)
 * [Social Media](https://www.nasa.gov/social-media/)
 * [Media Resources](https://www.nasa.gov/news/media-contacts/)
-* [Upcoming Launches & Landings](https://www.nasa.gov/events/)
-* [Virtual Events](https://www.nasa.gov/nasa-virtual-guest-program/)
+* [Events](https://www.nasa.gov/events)
+* [Upcoming Launches & Landings](https://www.nasa.gov/event-type/launch-schedule/)
+* [Virtual Guest Program](https://www.nasa.gov/nasa-virtual-guest-program/)
 
 [### Multimedia](https://www.nasa.gov/multimedia/)
 
 * [NASA+](https://plus.nasa.gov/)
 * [Images](https://www.nasa.gov/images/)
-* [NASA TV](https://www.nasa.gov/nasatv/)
-* [Sounds and Ringtones](https://www.nasa.gov/audio-and-ringtones/)
-* [Interactives](https://www.nasa.gov/interactives/)
+* [NASA Live](https://www.nasa.gov/live)
 * [NASA Apps](https://www.nasa.gov/apps/)
 * [Podcasts](https://www.nasa.gov/podcasts/)
+* [Image of the Day](https://www.nasa.gov/image-of-the-day/)
 * [e-Books](https://www.nasa.gov/ebooks/)
+* [Sounds and Ringtones](https://www.nasa.gov/audio-and-ringtones/)
+* [Interactives](https://www.nasa.gov/interactives/)
 * [STEM Multimedia](https://www.nasa.gov/learning-resources/search/?terms=8058%2C8059%2C8061%2C8062%2C8068)
 
-### Highlights
+### Featured
 
-[![NASA selected Richard Scobee as an astronaut in 1978. Scobee flew as a pilot of STS 41-C and was the commander of STS 51-L. The STS 51-L crew, including Scobee, died on January 28, 1986, when space shuttle Challenger exploded after launch.](https://www.nasa.gov/wp-content/uploads/2024/07/ng-crs-21-ss-scobee-tribute-1080.png?w=1024)
+[![NASA'S Europa Clipper Spacecraft](https://www.nasa.gov/wp-content/uploads/2024/05/europa-clipper.jpg?w=1024)
 
-8 min read
+5 min read
 
-### Overview for NASA’s Northrop Grumman 21st Commercial Resupply Mission
+### NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
 
-article 10 hours ago](https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/)[![Repair Kit for NASA’s NICER Mission Heading to Space Station](https://science.nasa.gov/wp-content/uploads/2024/07/nicer-studio-12.jpg)
-
-4 min read
-
-### Repair Kit for NASA’s NICER Mission Heading to Space Station
-
-article 11 hours ago](https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/)[![C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.](https://science.nasa.gov/wp-content/uploads/2023/09/Lucy_spacecraft_launches-1.jpeg)
-
-1 min read
-
-### C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.
-
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/c-27-lucy-in-the-l4-trojans-psp-faq-posted-and-typo-correction/)
-
-### Highlights
-
-[![Thanksgiving meal on the ISS](https://www.nasa.gov/wp-content/uploads/2023/03/iss-thanksgiving-2019.jpeg?w=1024)
-
-3 min read
-
-### Food in Space
-
-article 14 hours ago](https://www.nasa.gov/ochmo/food-in-space/)[![Image shows Northrop Grumman's Cygnus space freighter attached to the Canadarm2 robotic arm ahead of its release from the International Space Station's Unity module.](https://www.nasa.gov/wp-content/uploads/2024/07/northrop-grummans-cygnus-space-freighter.jpg?w=1024)
-
-1 min read
-
-### NASA Offers Virtual Activities for 21st Northrop Grumman Resupply Mission
-
-article 2 days ago](https://www.nasa.gov/missions/nasa-offers-virtual-activities-for-21st-northrop-grumman-resupply-mission/)[![A photograph showing Sierra Space’s LIFE habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/07/sierraspace-bursttest-063.jpg?w=1024)
-
-3 min read
-
-### NASA Supports Burst Test for Orbital Reef Commercial Space Station
-
-article 6 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/)
-
-### Highlights
-
-[![](https://www.nasa.gov/wp-content/uploads/2024/07/merra2-geos-fp-daily-record.png?w=1024)
+article 7 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/)[![Persevering Through the Storm](https://science.nasa.gov/wp-content/uploads/2024/09/mars-perseverance-zl0-1244-0777389210-678eby-n0564106zcam09300-1100lmj.jpg)
 
 2 min read
 
-### NASA Data Shows July 22 Was Earth’s Hottest Day on Record
+### Persevering Through the Storm
 
-article 2 days ago](https://www.nasa.gov/earth/nasa-data-shows-july-22-was-earths-hottest-day-on-record/)[![NASA's white Gulfstream III aircraft is seen on the runway taxiing. A flight crew member has his arms raised helping direct the pilots as they prepare to take off. The bottom of the photo is flat, gray concrete. Low, snow covered hills can be seen behind the aircraft.](https://www.nasa.gov/wp-content/uploads/2024/07/nasa-gulfstream-iii-in-greenland-arcsix.jpeg?w=1024)
-
-5 min read
-
-### NASA Returns to Arctic Studying Summer Sea Ice Melt
-
-article 5 days ago](https://www.nasa.gov/earth/nasa-returns-to-arctic-studying-summer-sea-ice-melt/)[![Watch Carbon Dioxide Move Through Earth’s Atmosphere](https://science.nasa.gov/wp-content/uploads/2024/07/dyamondpointcloud-12-1-2023b-dyamond-co2-anim-globe-orbit-3x3hyperwall-00200-print.jpg)
-
-5 min read
-
-### Watch Carbon Dioxide Move Through Earth’s Atmosphere
-
-article 1 week ago](https://science.nasa.gov/earth/watch-carbon-dioxide-move-through-earths-atmosphere/)
-
-### Highlights
-
-[![C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.](https://science.nasa.gov/wp-content/uploads/2023/09/Lucy_spacecraft_launches-1.jpeg)
-
-1 min read
-
-### C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.
-
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/c-27-lucy-in-the-l4-trojans-psp-faq-posted-and-typo-correction/)[![NASA’s DART Mission Sheds New Light on Target Binary Asteroid System](https://science.nasa.gov/wp-content/uploads/2024/07/didymos-ridgeformation-picture1.png)
-
-5 min read
-
-### NASA’s DART Mission Sheds New Light on Target Binary Asteroid System
-
-article 14 hours ago](https://science.nasa.gov/missions/dart/nasas-dart-mission-sheds-new-light-on-target-binary-asteroid-system/)[![NASA, JAXA Bounce Laser Beam Between Moon’s Surface and Lunar Orbit](https://science.nasa.gov/wp-content/uploads/2024/07/slim-lander.jpg)
-
-4 min read
-
-### NASA, JAXA Bounce Laser Beam Between Moon’s Surface and Lunar Orbit
-
-article 2 days ago](https://science.nasa.gov/solar-system/nasa-jaxa-bounce-laser-beam-between-moons-surface-and-lunar-orbit/)
-
-### Featured
-
-[![Repair Kit for NASA’s NICER Mission Heading to Space Station](https://science.nasa.gov/wp-content/uploads/2024/07/nicer-studio-12.jpg)
-
-4 min read
-
-### Repair Kit for NASA’s NICER Mission Heading to Space Station
-
-article 11 hours ago](https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/)[![Hubble Images a Classic Spiral ](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-ngc3430-potw2430a.jpg)
-
-2 min read
-
-### Hubble Images a Classic Spiral 
-
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-classic-spiral/)[![NASA’s Fermi Finds New Feature in Brightest Gamma-Ray Burst Yet Seen](https://science.nasa.gov/wp-content/uploads/2024/07/grb-jetemerge-4k-00128-ac.jpg)
-
-4 min read
-
-### NASA’s Fermi Finds New Feature in Brightest Gamma-Ray Burst Yet Seen
-
-article 5 days ago](https://science.nasa.gov/science-research/astrophysics/gamma-ray-bursts/nasas-fermi-finds-new-feature-in-brightest-gamma-ray-burst-yet-seen/)
-
-### Highlights
-
-[![Repair Kit for NASA’s NICER Mission Heading to Space Station](https://science.nasa.gov/wp-content/uploads/2024/07/nicer-studio-12.jpg)
-
-4 min read
-
-### Repair Kit for NASA’s NICER Mission Heading to Space Station
-
-article 11 hours ago](https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/)[![C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.](https://science.nasa.gov/wp-content/uploads/2023/09/Lucy_spacecraft_launches-1.jpeg)
-
-1 min read
-
-### C.27 Lucy in the L4 Trojans PSP FAQ Posted and Typo Correction.
-
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/c-27-lucy-in-the-l4-trojans-psp-faq-posted-and-typo-correction/)[![GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska](https://science.nasa.gov/wp-content/uploads/2024/07/maggie20240613-aesignsbugs-reduced-christi-buffington.jpeg)
-
-4 min read
-
-### GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
-
-article 13 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/)
-
-### Highlights
-
-[![](https://www.nasa.gov/wp-content/uploads/2024/07/2024-0713-nasa-promo-thumbnail-standard.jpg?w=1024)
-
-3 min read
-
-### NASA Embraces Streaming Service to Reach, Inspire Artemis Generation
-
-article 1 day ago](https://www.nasa.gov/general/nasa-embraces-streaming-service-to-reach-inspire-artemis-generation/)[![An illustration shows NASA's pavilion at Oshkosh, a large white tent with NASA logos on it, as six different aircraft appear to fly toward the center of the image over the tent.](https://www.nasa.gov/wp-content/uploads/2024/07/oshkosh-2024-live-top-16x9-1.jpg?w=1024)
-
-28 min read
-
-### LIVE: NASA is with you from Oshkosh
-
-article 3 days ago](https://www.nasa.gov/aeronautics/live-nasa-is-with-you-from-oshkosh/)[![A graphic showing the International Space Station floating above the Earth’s surface in front of a blue starry background. A red beam of light is shown coming out of the space station to represent laser communications. The beam of light connects to a second spacecraft, LCRD, located in the upper right side of the image. A second red beam is seen coming out of the LCRD, connecting to Earth below.](https://www.nasa.gov/wp-content/uploads/2024/07/illuma-t-to-lcrd-003.jpg?w=1024)
-
-3 min read
-
-### NASA Streams First 4K Video from Aircraft to Space Station, Back
-
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-streams-first-4k-video-from-aircraft-to-space-station-back/)
-
-### Highlights
-
-[![Interns visiting Wallops Flight Facility jumping in a fun photo at the Wallops Island Beach](https://www.nasa.gov/wp-content/uploads/2024/07/2017-wff-jumping-interns-69-11-12-16-am.jpg?w=1024)
-
-11 min read
-
-### Former Space Communications, Navigation Interns Pioneer NASA’s Future
-
-article 6 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/former-space-communications-navigation-interns-pioneer-nasas-future/)[![NASA astronaut wearing a mockup spacesuit system, illuminated by the lights on her helmet as she hammers a drive tube into the ground. Civil Space Challenges](https://www.nasa.gov/wp-content/uploads/2024/07/jsc2024e035655orig-e1721330918408.jpg?w=1024)
-
-3 min read
-
-### NASA Releases First Integrated Ranking of Civil Space Challenges
-
-article 1 week ago](https://www.nasa.gov/general/nasa-releases-first-integrated-ranking-of-civil-space-challenges/)[![](https://www.nasa.gov/wp-content/uploads/2024/07/artemis-humans-space-moon-gateway-main.jpg?w=1024)
-
-5 min read
-
-### Ground Antenna Trio to Give NASA’s Artemis Campaign ‘LEGS’ to Stand On
-
-article 1 week ago](https://www.nasa.gov/missions/artemis/ground-antenna-trio-to-give-nasas-artemis-campaign-legs-to-stand-on/)
-
-### Featured
-
-[![Two female teachers standing in front of student lockers. One person is wearing a white jacket and the other a wonder women shirt flexing her muscle](https://www.nasa.gov/wp-content/uploads/2024/07/teri-minami.png?w=905)
-
-3 min read
-
-### Three NASA Interns Expand Classroom Access to NASA Data
-
-article 4 days ago](https://www.nasa.gov/learning-resources/nasa-interns-expand-classroom-access-nasa-data/)
-
-### Featured
-
-[![GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska](https://science.nasa.gov/wp-content/uploads/2024/07/maggie20240613-aesignsbugs-reduced-christi-buffington.jpeg)
-
-4 min read
-
-### GLOBE Alumna and Youth for Habitat Program Lead Named Scientist of the Month in Alaska
-
-article 13 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-alumna-and-youth-for-habitat-program-lead-named-scientist-of-the-month-in-alaska/)[![In a testing facility, a robotic arm manipulates a probe to test the electric field of a large, white, circular dish antenna. This antenna is situated within an anechoic chamber, which is lined with dark blue, wedge-shaped foam.](https://www.nasa.gov/wp-content/uploads/2024/07/jsc2024e024307-1.jpg?w=1024)
-
-2 min read
-
-### Earth to Gateway: Electric Field Tests Enhance Lunar Communication
-
-article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/earth-to-gateway-electric-field-tests-enhance-lunar-communication/)[![Block I Ranger 1 spacecraft under assembly at NASA’s Jet Propulsion Laboratory (JPL) in Pasadena, California](https://www.nasa.gov/wp-content/uploads/2024/07/ranger-7-1-ranger-1-in-assembly-at-jpl.jpg?w=385)
-
-5 min read
-
-### 60 Years Ago: Ranger 7 Photographs the Moon
-
-article 1 day ago](https://www.nasa.gov/history/60-years-ago-ranger-7-photographs-the-moon/)
-
-### Highlights
-
-[![NASA Astronaut Official Portrait Frank Rubio](https://www.nasa.gov/wp-content/uploads/2020/06/jsc2017e114795_0.jpg?w=819)
-
-5 min read
-
-### Astronauta de la NASA Frank Rubio
-
-article 2 months ago](https://www.nasa.gov/people/astronauta-de-la-nasa-frank-rubio/)[![2021 Astronaut Candidates Stand in Recognition](https://www.nasa.gov/wp-content/uploads/2024/03/51732141513-ebd913d411-k.jpg?w=1024)
+article 5 days ago](https://science.nasa.gov/blog/persevering-through-the-storm/)[![NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-maven-mars-feature-stsci-01j6a1t00q0jdpwn14jyqxyr95.jpg)
 
 6 min read
 
-### Diez maneras en que los estudiantes pueden prepararse para ser astronautas
+### NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water
 
-article 4 months ago](https://www.nasa.gov/learning-resources/diez-maneras-en-que-los-estudiantes-pueden-prepararse-para-serastronautas/)[![Astronaut Marcos Berrios](https://www.nasa.gov/wp-content/uploads/2021/12/astronaut_candidate_marcos_berrios.jpg?w=819)
+article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-maven-help-solve-the-mystery-of-mars-escaping-water/)
+
+### Highlights
+
+[![The four-person crew of the Polaris Dawn mission pictured wearing their SpaceX extravehicular activity suits](https://www.nasa.gov/wp-content/uploads/2024/08/polarisdawn.png?w=1024)
 
 4 min read
 
-### Astronauta de la NASA Marcos Berríos
+### NASA to Test Telemedicine, Gather Essential Health Data with Polaris Dawn Crew
 
-article 5 months ago](https://www.nasa.gov/people/astronauta-de-la-nasa-marcos-berrios/)
+article 2 hours ago](https://www.nasa.gov/humans-in-space/nasa-to-test-telemedicine-gather-essential-health-data-with-polaris-dawn-crew/)[![](https://www.nasa.gov/wp-content/uploads/2024/09/iss031e035443large.jpg?w=1024)
+
+3 min read
+
+### NASA Astronaut Don Pettit’s Science of Opportunity on Space Station
+
+article 6 days ago](https://www.nasa.gov/missions/station/iss-research/nasa-astronaut-don-pettits-science-of-opportunity-on-space-station/)[![Technicians are building tooling in High Bay 2 at NASA Kennedy that will allow NASA and Boeing, the SLS core stage lead contractor, to vertically integrate the core stage.](https://www.nasa.gov/wp-content/uploads/2024/08/vab-high-bay-2-timelapse-rough-cut-mp4-00-08-12-15-still001.jpg?w=1024)
+
+3 min read
+
+### NASA, Boeing Optimizing Vehicle Assembly Building High Bay for Future SLS Stage Production
+
+article 2 weeks ago](https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-boeing-optimizing-vehicle-assembly-building-high-bay-for-future-sls-stage-production/)
+
+### Highlights
+
+[![NASA Summer Camp Inspires Future Climate Leaders](https://science.nasa.gov/wp-content/uploads/2024/09/2024-nasa-summer-camp-jill-gambill.jpeg)
+
+2 min read
+
+### NASA Summer Camp Inspires Future Climate Leaders
+
+article 4 days ago](https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/)[![An aircraft is centered in the image facing the left. It is on a runway of dark gray concrete and the surroundings are primarily dry grass, with another runway at the top of the image.](https://www.nasa.gov/wp-content/uploads/2024/09/afrc2023-0012-055orig.jpg?w=1024)
+
+5 min read
+
+### NASA Earth Scientists Take Flight, Set Sail to Verify PACE Satellite Data
+
+article 6 days ago](https://www.nasa.gov/earth/nasa-earth-scientists-take-flight-set-sail-to-verify-pace-satellite-data/)[![Still image from PREFIRE animation](https://www.nasa.gov/wp-content/uploads/2024/09/prefire-tn.jpg?w=985)
+
+5 min read
+
+### NASA Mission Gets Its First Snapshot of Polar Heat Emissions
+
+article 7 days ago](https://www.nasa.gov/missions/prefire/nasa-mission-gets-its-first-snapshot-of-polar-heat-emissions/)
+
+### Highlights
+
+[![NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-maven-mars-feature-stsci-01j6a1t00q0jdpwn14jyqxyr95.jpg)
+
+6 min read
+
+### NASA’s Hubble, MAVEN Help Solve the Mystery of Mars’ Escaping Water
+
+article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-maven-help-solve-the-mystery-of-mars-escaping-water/)[![The image shows a compact, handheld water dispenser device placed on a table, with several vacuum-sealed packets of food arranged in front of it. The device is white with yellow tape and has various labels and instructions on its surface. It includes a large, graduated syringe-like component marked in milliliters, used for precise water measurement. The food packets in front of the device contain different types of rehydratable meals in various colors and textures, indicating the preparation of food for consumption in a space environment. The background features a white grid pattern, enhancing the focus on the device and food packets.](https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e040686.jpg?w=1024)
+
+2 min read
+
+### Artemis IV: Gateway Gadget Fuels Deep Space Dining
+
+article 5 days ago](https://www.nasa.gov/missions/artemis/artemis-iv-gateway-gadget-fuels-deep-space-dining/)[![What’s Up: September 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/observing-credit-nasa-marshall-space-flight-center.jpg)
+
+6 min read
+
+### What’s Up: September 2024 Skywatching Tips from NASA
+
+article 7 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-september-2024-skywatching-tips-from-nasa/)
+
+### Featured
+
+[![NASA’s Hubble, Chandra Find Supermassive Black Hole Duo](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-olmstedart-dualagns-stsci-01j29xxpbeg2tqnkcnd6d7z4yn.jpg)
+
+5 min read
+
+### NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
+
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/)[![Hubble Examines a Busy Galactic Center](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic4709-potw2436a.jpg)
+
+2 min read
+
+### Hubble Examines a Busy Galactic Center
+
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-examines-a-busy-galactic-center/)[![NASA’s Webb Reveals Distorted Galaxy Forming Cosmic Question Mark](https://science.nasa.gov/wp-content/uploads/2024/09/webb-stsci-01j6cwrk073c5kh4qhgp1z6ka2-questionmarkgalaxy-nircam-2k.png)
+
+5 min read
+
+### NASA’s Webb Reveals Distorted Galaxy Forming Cosmic Question Mark
+
+article 6 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-distorted-galaxy-forming-cosmic-question-mark/)
+
+### Highlights
+
+[![NASA’s Hubble, Chandra Find Supermassive Black Hole Duo](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-olmstedart-dualagns-stsci-01j29xxpbeg2tqnkcnd6d7z4yn.jpg)
+
+5 min read
+
+### NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
+
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-find-supermassive-black-hole-duo/)[![NASA Summer Camp Inspires Future Climate Leaders](https://science.nasa.gov/wp-content/uploads/2024/09/2024-nasa-summer-camp-jill-gambill.jpeg)
+
+2 min read
+
+### NASA Summer Camp Inspires Future Climate Leaders
+
+article 4 days ago](https://science.nasa.gov/learning-resources/science-activation/nasa-summer-camp-inspires-future-climate-leaders/)[![TRACERS](https://science.nasa.gov/wp-content/uploads/2024/09/tracers-w-aurora-high-qual-0.jpg)
+
+2 min read
+
+### TRACERS
+
+article 4 days ago](https://science.nasa.gov/mission/tracers/)
+
+### Highlights
+
+[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+
+5 min read
+
+### NASA Tunnel Generates Decades of Icy Aircraft Safety Data
+
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/)[![A four-engine turboprop aircraft in a red and white livery takes off from a runway on its way to be modified into a hybrid electric aircraft. Other airplanes can be seen in the distance.](https://www.nasa.gov/wp-content/uploads/2024/08/lrc-2024-h1-p-epfd-0634-1.jpg?w=1024)
+
+4 min read
+
+### Research Plane Dons New Colors for NASA Hybrid Electric Flight Tests 
+
+article 6 days ago](https://www.nasa.gov/aeronautics/hybrid-electric-aircrafts-new-colors/)[![A white Gulfstream IV airplane flies to the left of the frame over a tan desert landscape below and blue mountain ranges in the back of the image. The plane’s tail features the NASA logo, and its wings have winglets. Visible in the lower right third of the image, directly behind the airplane’s wingtip is the Mojave Air and Space Port in Mojave, California. ](https://images-assets.nasa.gov/image/AFRC2024-0101-12/AFRC2024-0101-12~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+2 min read
+
+### NASA G-IV Plane Will Carry Next-Generation Science Instrument
+
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-g-iv-plane-will-carry-next-generation-science-instrument/)
+
+### Highlights
+
+[![bright blue cloud fills the scene, orange-red rings surround bright-white stars in the upper-left corner of the image](https://www.nasa.gov/wp-content/uploads/2023/03/hubble_sstgbsj1109261_ic2631_display1_0-1.jpg?w=1024)
+
+1 min read
+
+### OSAM-1 Partnership Opportunity: Request for Information 
+
+article 4 days ago](https://www.nasa.gov/directorates/stmd/osam-1-partnership-opportunity-request-for-information/)[![Two robotic arms wrapped in gold material sitting on top of a black and silver box.](https://www.nasa.gov/wp-content/uploads/2024/09/rsgs-image-240220-n-cz309-1060-v2.jpg?w=1024)
+
+2 min read
+
+### NASA to Support DARPA Robotic Satellite Servicing Program
+
+article 5 days ago](https://www.nasa.gov/directorates/stmd/nasa-to-support-darpa-robotic-satellite-servicing-program/)[![A prototype of a robot built to access underwater areas where Antarctic ice shelves meet land is lowered through the ice during a field test north of Alaska in March.](https://www.nasa.gov/wp-content/uploads/2024/08/1-pia26349-fig-a-icenode-sb-16.jpg?w=1024)
+
+5 min read
+
+### NASA JPL Developing Underwater Robots to Venture Deep Below Polar Ice
+
+article 2 weeks ago](https://www.nasa.gov/earth/climate-change/nasa-jpl-developing-underwater-robots-to-venture-deep-below-polar-ice/)
+
+### Featured
+
+[![NASA MINDS competition: University of North Texas students](https://www.nasa.gov/wp-content/uploads/2023/05/minds_nt.jpg?w=985)
+
+2 min read
+
+### How to Apply to the NASA MINDS Challenge
+
+article 17 hours ago](https://www.nasa.gov/learning-resources/minority-university-research-education-project/how-to-apply-to-the-nasa-minds-challenge/)[![NASA MINDS](https://www.nasa.gov/wp-content/uploads/2020/08/edu_nasa_minds.jpg?w=1024)
+
+2 min read
+
+### About NASA MINDS
+
+article 17 hours ago](https://www.nasa.gov/learning-resources/minority-university-research-education-project/about-nasa-minds/)[![](https://www.nasa.gov/wp-content/uploads/2024/04/how-to-apply-nasa-minds.jpg?w=717)
+
+9 min read
+
+### NASA MINDS FAQ
+
+article 17 hours ago](https://www.nasa.gov/learning-resources/minority-university-research-education-project/nasa-minds-faq/)
+
+### Featured
+
+[![Two robotic arms wrapped in gold material sitting on top of a black and silver box.](https://www.nasa.gov/wp-content/uploads/2024/09/rsgs-image-240220-n-cz309-1060-v2.jpg?w=1024)
+
+2 min read
+
+### NASA to Support DARPA Robotic Satellite Servicing Program
+
+article 5 days ago](https://www.nasa.gov/directorates/stmd/nasa-to-support-darpa-robotic-satellite-servicing-program/)[![NASA'S Europa Clipper Spacecraft](https://www.nasa.gov/wp-content/uploads/2024/05/europa-clipper.jpg?w=1024)
+
+5 min read
+
+### NASA Invites Social Creators to Experience Launch of Europa Clipper Mission
+
+article 7 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-to-experience-launch-of-europa-clipper-mission/)[![An up-close view of ice that covers propeller blades inside the Icing Research Tunnel.](https://www.nasa.gov/wp-content/uploads/2024/08/grc-2023-c-02525.jpg?w=1024)
+
+5 min read
+
+### NASA Tunnel Generates Decades of Icy Aircraft Safety Data
+
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-tunnel-generates-decades-of-icy-aircraft-safety-data/)
+
+### Highlights
+
+[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+
+5 min read
+
+### La NASA invita a los medios al lanzamiento de Europa Clipper
+
+article 7 days ago](https://www.nasa.gov/es/la-nasa-invita-a-los-medios-al-lanzamiento-de-europa-clipper/)[![A man supporting the installation of the X-59 ejection seat.](https://www.nasa.gov/wp-content/uploads/2024/08/p24-055-26.jpg?w=1024)
+
+3 min read
+
+### El X-59 de la NASA avanza en las pruebas de preparación para volar
+
+article 7 days ago](https://www.nasa.gov/es/el-x-59-de-la-nasa-avanza-en-las-pruebas-de-preparacion-para-volar/)[![Technicians tested deploying a set of massive solar arrays](https://www.nasa.gov/wp-content/uploads/2024/09/53934452328-bb3fabae59-o.jpg?w=1024)
+
+7 min read
+
+### La NASA invita a creadores de las redes sociales al lanzamiento de la misión Europa Clipper
+
+article 7 days ago](https://www.nasa.gov/es/la-nasa-invita-a-creadores-de-las-redes-sociales-al-lanzamiento-de-la-mision-europa-clipper/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
