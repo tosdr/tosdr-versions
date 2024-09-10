@@ -1,8 +1,8 @@
-           
+            
 
 ![](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-    
+          
 
 [Skip to content](#content)
 
@@ -18,7 +18,7 @@ Search for:
 
 [](#)[](#)
 
-* [Gift Ideas](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
+* [School Supplies](https://www.autism-products.com/product-category/home-school-supplies/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
@@ -118,7 +118,7 @@ Search for:
     * [Spatial Awareness](https://www.autism-products.com/product-category/sensory-products/spatial-awareness/)
     * [Touch/Pressure](https://www.autism-products.com/product-category/sensory-products/touch-pressure/)
 
-* [Gift Ideas](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
+* [School Supplies](https://www.autism-products.com/product-category/home-school-supplies/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
@@ -220,76 +220,36 @@ Search for:
 
 Search for: 
 
-Privacy Policy[atmtemplate](https://www.autism-products.com/author/atmtemplate/ "Posts by atmtemplate")2018-04-10T14:28:19-07:00
+Privacy Policy for Autism-Products.com[atmtemplate](https://www.autism-products.com/author/atmtemplate/ "Posts by atmtemplate")2024-08-23T14:36:31-07:00
 
-Privacy Policy
---------------
+**Privacy Policy for Autism-Products.com**
 
-**What information do we collect?**
+This privacy policy discloses the privacy practices for [www.autism-products.com](http://www.autism-products.com/). It applies solely to information collected by this website and will notify you of the following:
 
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.  
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.  
-We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.  
-Like many websites, we use “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use ‘cookies’?” section below for information about cookies and how we use them.
+1. **What Personally Identifiable Information is Collected, How It Is Used, and With Whom It May Be Shared**We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily provide via email, website forms, or other direct communication. We will not sell or rent this information to anyone.  
+    Information collected may include your name, email address, mailing address, and payment information when making a purchase. We use this information to:
+    
+    * Process your orders and provide customer service
+    * Communicate with you about your orders, new products, or services that may interest you
+    * Improve our website and services to better meet your needs
+2. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request (e.g., to ship an order).
+3. **Your Choices Regarding Data Use**You have control over how we use your data. You may:
+    
+    * Opt out of any future communications from us at any time
+    * See what data we have about you, if any
+    * Correct or update any data we have about you
+    * Request the deletion of any data we have about you
+    * Express any concerns you have about our use of your data
+4. You can exercise these rights by contacting us via the email address or phone number provided on our website.
+5. **Security Measures to Protect Your Information**We take precautions to protect your information. When you submit sensitive information via our website, it is protected both online and offline.  
+    Wherever we collect sensitive information (such as credit card data), it is encrypted and securely transmitted to us. You can verify this by looking for a closed lock icon at the bottom of your web browser or looking for “https” at the beginning of the web page address.
 
-**How do we use your information?**
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (e.g., billing or customer service) are granted access to personally identifiable information. The computers/servers where we store this information are kept in a secure environment.
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
-To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-To allow us to better service you in responding to your customer service requests.  
-To quickly process your transactions.  
-To administer a contest, promotion, survey or other site feature.  
-If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the “How can you opt-out, remove or modify information you have provided to us?” section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only’ content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+1. **How to Correct Inaccuracies**If you believe there are inaccuracies in the information we have collected about you, please contact us to correct it. We strive to keep your information accurate and up-to-date.
+2. **Updates to This Privacy Policy**Our privacy policy may change from time to time, and all updates will be posted on this page. We encourage you to review this policy periodically to stay informed about how we are protecting the information we collect.
 
-**How do we protect visitor information?**
-
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
-
-**Do we use “cookies”?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
-
-**Do we disclose the information we collect to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include www.autism-products.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**How can you opt-out, remove or modify information you have provided to us?**
-
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the “My Account” section. Please note that due to email production schedules you may receive any emails already in production.
-
-To delete all of your online account information from our database, sign into the “My Account” section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
-
-**Third party links**
-
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
-
-**Changes to our policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.  
-This policy was last modified on August 6, 2003.
-
-**Questions and feedback**
-
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
-
-**Online Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our  
-Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-**Your consent**
-
-By using our site, you consent to our privacy policy.
+If you feel that we are not abiding by this privacy policy, please contact us immediately at 888-890-3288 or via email at [\[email protected\]](https://www.autism-products.com/cdn-cgi/l/email-protection).
 
 #### Shop By Brand
 
@@ -303,7 +263,7 @@ Please SelectABCAbilitationsABILITATIONSABLENETACTION ALPHABETActivity\_SetAdvan
 * [Create Wishlist](https://www.autism-products.com/wishlist-create/)
 * [Frequently Asked Questions (FAQ)](https://www.autism-products.com/questions-about-autism/)
 * [Manage Wishlists](https://www.autism-products.com/wishlist-manage/)
-* [Privacy Policy](https://www.autism-products.com/privacy-policy/)
+* [Privacy Policy for Autism-Products.com](https://www.autism-products.com/privacy-policy/)
 * [Public Wishlists](https://www.autism-products.com/wishlist-public/)
 * [Refund and Returns Policy](https://www.autism-products.com/refund_returns/)
 * [Terms & Conditions](https://www.autism-products.com/terms-conditions/)
@@ -334,6 +294,6 @@ Web: [Autism-Products.com](https://www.autism-products.com/)
 
 ![fbpx](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-                                                                                                  
+                                                                                                    
 
 [Go to Top](#)
