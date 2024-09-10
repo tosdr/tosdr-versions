@@ -54,14 +54,14 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![sale store item](https://assets.senorwooly.com/uploads/3a20e2c6-1266-4754-a8d2-11d2231e1c99.png)
+![sale store item](https://assets.senorwooly.com/uploads/a2f98060-a143-41b1-92ca-b78309ea8a35.png)
 
 On Sale
 =======
 
-25% off
+15% off
 
-Sr. Wooly Poster Collection ~$50.00~ $37.50 [Go to store](https://www.senorwooly.com/store/product/poster-collection)
+Sr. Wooly Songbook Volume 1 ~$20.00~ $17.00 [Go to store](https://www.senorwooly.com/store/product/sr-wooly-songbook)
 
 ![doctor](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
