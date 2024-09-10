@@ -306,7 +306,7 @@ Company
 
 * [About Us](https://www.lendkey.com/about/)
 * [Our Story](https://www.lendkey.com/our-story/)
-* [Aliro – Loan Participations](https://www.lendkey.com/lend/loan-participation/)
+* [ALIRO Loan Participations](https://www.lendkey.com/lend/loan-participation/)
 * [Careers](https://www.lendkey.com/careers/)
 * [Press](https://www.lendkey.com/press/)
 * [Contact Us](https://www.lendkey.com/contact-us/)
@@ -356,7 +356,7 @@ Company
 
 * [About Us](https://www.lendkey.com/about/)
 * [Our Story](https://www.lendkey.com/our-story/)
-* [Aliro – Loan Participations](https://www.lendkey.com/lend/loan-participation/)
+* [ALIRO Loan Participations](https://www.lendkey.com/lend/loan-participation/)
 * [Careers](https://www.lendkey.com/careers/)
 * [Press](https://www.lendkey.com/press/)
 * [Contact Us](https://www.lendkey.com/contact-us/)
