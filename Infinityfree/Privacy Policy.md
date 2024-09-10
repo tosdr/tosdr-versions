@@ -1,3 +1,7 @@
+Please enable JavaScript in your browser to load website properly.  
+  
+Click [**here**](https://www.enable-javascript.com/) if you'd like to learn how.                   
+
  [![Privacy Policy](/images/logo-purple.png "Privacy Policy")InfinityFree](https://infinityfree.net/)
 
 [Login](https://dash.infinityfree.com/login) [Register ![->](/images/arrow.png)](https://dash.infinityfree.com/register) 
@@ -185,7 +189,7 @@ Our Partners
 
 * [iFastNet Premium Hosting](https://infinityfree.net/go/ifastnet)
 * [Site.Pro Website Builder](https://infinityfree.net/go/sitepro)
-* [Namesilo Domains](https://infinityfree.net/go/namesilo)
+* [Spaceship Domains](https://infinityfree.net/go/spaceship)
 
 Company
 -------
