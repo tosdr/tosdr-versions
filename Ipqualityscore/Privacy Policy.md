@@ -12,7 +12,6 @@ Toggle navigation [![IPQualityScore](/templates/frontend/img/logo.svg)](https://
 * [Email Verification](https://www.ipqualityscore.com/email-verification)
     * [Email Verifier](https://www.ipqualityscore.com/free-email-verifier)
     * [Disposable Email Detection](https://www.ipqualityscore.com/disposable-email-address-detection)
-    * [Spamtrap Email Test](https://www.ipqualityscore.com/spamtrap-email-address-test)
     * [Email Risk Scoring](https://www.ipqualityscore.com/fraud-prevention/email-risk-scoring)
     * [Email Fraud Prevention](https://www.ipqualityscore.com/email-reputation/email-address-fraud-prevention)
     * [Email Age Lookup](https://www.ipqualityscore.com/email-age-checker)
