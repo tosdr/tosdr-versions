@@ -10,7 +10,7 @@
 * [investors](https://investors.paycom.com/)
 * [contact](https://www.paycom.com/contact-us/)
 
-* [Home](https://www.paycom.com/) [Request meeting](https://www.paycom.com/demo/)
+* [Request meeting](https://www.paycom.com/demo/)
 * [Our Solution](https://www.paycom.com/software/)
     * [Overview](https://www.paycom.com/software/)
     * Payroll
@@ -171,7 +171,6 @@
 
 [Paycom® Logo](https://www.paycom.com/ "Paycom logo")
 
-* [Home (current)](https://www.paycom.com/)
 * [Our Solution](https://www.paycom.com/software/)
     
     * [![Payroll icon](/images/icons/pay-small.svg)Payroll](https://www.paycom.com/software/payroll/)
@@ -602,7 +601,7 @@ Time and Labor Management
     * [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
     * [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
 
-[Terms of Use](https://www.paycom.com/terms-of-use/) [Privacy Policy](https://www.paycom.com/privacy/) [Do Not Share](https://www.paycom.com/privacy/dsar/) [Accessibility](https://www.paycom.com/about/accessibility-statement/) [Site Map](https://www.paycom.com/site-map/)
+[Terms of Use](https://www.paycom.com/terms-of-use/) [Privacy Policy](https://www.paycom.com/privacy/) [Do Not Sell Or Share My Personal Information](https://www.paycom.com/privacy/dsar/) [Accessibility](https://www.paycom.com/about/accessibility-statement/) [Site Map](https://www.paycom.com/site-map/)
 
 © 2024 Paycom Payroll LLC.  
 All rights reserved.
