@@ -188,7 +188,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * Do not upload X-rated or otherwise highly objectionable pictures.
 * Do not upload suggestive images of minors or seeming minors.
 * You may not impersonate another person, or other entity, on LibraryThing.
-* Your username may not be an insult, either general or specific. Sheesh!
+* Your member name may not be pornographic, or an insult, either general or specific. Sheesh!
 * We may remove accounts with no books after three months. (But we have never done so.)
 * LibraryThing may not be used for any illegal activity.
 * LibraryThing may not be used to injure, threaten, stalk, impersonate, or harass someone.
@@ -529,11 +529,13 @@ Certain content that appears in on this site comes from Amazon Services, LLC. Th
 Changelog
 ---------
 
+**8/24/24.** Added that member names may not be pornographic.
+
 **1/7/23.** Added anti-AI-content warning and reorganized bulleted sections around "Advertising and spam," "Your own words" and "System integrity."
 
-**12/31/20.** Added notice that PowerReviews may receive limited Personal Information for spam-identification purposes under "Sharing and Transfer of Information."
-
 **12/31/20.** Removed a section anticipating cookies set by review-verification companies, including PowerReviews. No such cookies were ever implemented.
+
+**12/31/20.** Added notice that PowerReviews may receive limited Personal Information for spam-identification purposes under "Sharing and Transfer of Information."
 
 **12/31/20.** Added the "Emergency Situations" section, detailing LibraryThing's policy around reports of self-harm and harm to others.
 
@@ -620,7 +622,7 @@ Want
 
 [Home](https://www.librarything.com/)[About](https://www.librarything.com/about)[Contact](https://www.librarything.com/contact)[Privacy](https://www.librarything.com/privacy)[Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
-[Blog](https://blog.librarything.com/)[WikiThing](https://wiki.librarything.com/)[Common Knowledge](https://www.librarything.com/commonknowledge/)[Early Reviewers](https://www.librarything.com/ner)[Legacy Libraries](https://www.librarything.com/legacylibraries)[Local](https://www.librarything.com/local)[TinyCat](https://www.librarycat.org/)
+[Blog](https://blog.librarything.com/)[WikiThing](https://wiki.librarything.com/)[Common Knowledge](https://www.librarything.com/commonknowledge/)[Early Reviewers](https://www.librarything.com/ner)[Legacy Libraries](https://www.librarything.com/legacylibraries)[Local](https://www.librarything.com/local)[APIs](https://www.librarything.com/developer)[TinyCat](https://www.librarycat.org/)
 
 [Verdana Standard](# "verdant_14")[Verdana Small](# "verdant_12")[The Lorax](# "verdant_tight_12")[System Standard](# "system_14")[System Large](# "system_15")[Georgia](# "georgia_14")[Large Text](# "system_large")[Atkinson](# "atkinson_16")
 
