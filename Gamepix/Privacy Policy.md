@@ -14,7 +14,13 @@ Surprise me
 
 [All tags](https://company.gamepix.com/tags "All tags")
 
-[Company](https://partners.gamepix.com/ "Company")[Contact](https://partners.gamepix.com/contact "Contact")[Privacy](https://company.gamepix.com/privacy-cookie "Privacy")
+* * *
+
+English
+
+[enEnglish](https://www.gamepix.com/privacy-cookie) [itItaliano](https://www.gamepix.com/it/privacy-cookie)
+
+[About us](https://partners.gamepix.com/ "About us")[Contact us](https://partners.gamepix.com/contact "Contact us")[Privacy](https://company.gamepix.com/privacy-cookie "Privacy")
 
 © 2024 GamePix
 
@@ -522,7 +528,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage data, Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
@@ -543,7 +549,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Email address, First name, Last name, Company name, Country, User id
+    **Personal Information collected or disclosed:** email address, first name, last name, company name, country, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** VAT Number
     
@@ -561,7 +567,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Commercial information
     
-    **Personal Information collected or disclosed:** First name, Last name, Company name, Country, Email address, User id
+    **Personal Information collected or disclosed:** first name, last name, company name, country, email address, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** VAT Number
     
@@ -760,19 +766,18 @@ This Website uses Trackers managed directly by the Owner (so-called “first-par
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Website and delivery of the Service
+How this Website uses Trackers
+------------------------------
+
+### Necessary
 
 This Website uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-### Other activities involving the use of Trackers
-
-#### Measurement
+### Measurement
 
 This Website uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-### Analytics
-
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+#### Trackers managed by third parties
 
 #### Google Analytics (Universal Analytics)
 
@@ -793,20 +798,15 @@ Storage duration:
 * \_gat: 1 minute
 * \_gid: 1 day
 
-#### Marketing
+### Marketing
 
-This Website uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+This Website uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on this Website.
 
 This Website participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. This Website uses iubenda (identification number 123) as a Consent Management Platform.
 
-### Advertising
-
-This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Website, possibly based on User interests.  
-This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.  
-Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+#### Trackers managed by third parties
 
 #### Google Ad Manager
 
@@ -831,11 +831,15 @@ Storage duration:
 * FPGCLAW: 3 months
 * FPGCLDC: 3 months
 * FPGCLGB: 3 months
+* GCL\_AW\_P: 3 months
+* GED\_PLAYLIST\_ACTIVITY: duration of the session
 * IDE: 2 years
 * NID: 6 months
 * RUL: 1 year
 * TAID: 14 days
 * \_\_gads: 2 years
+* \_\_gpi: 2 years
+* \_\_gpi\_optout: 2 years
 * \_\_gsas: 2 years
 * \_gac\_: 3 months
 * \_gac\_gb\_: 3 months
@@ -848,6 +852,7 @@ Storage duration:
 * \_gcl\_gs: 3 months
 * \_gcl\_ha: 3 months
 * id: 2 years
+* receive-cookie-deprecation: 6 months
 * test\_cookie: 15 minutes
 
 #### AppNexus (AppNexus Inc.)
@@ -897,8 +902,8 @@ Storage duration:
 * khaos\_p: 1 year
 * pux: indefinite
 * sample\_number: indefinite
-* trp\_optout: 5 years
-* trp\_optout\_p: 5 years
+* trp\_optout: 1 year
+* trp\_optout\_p: 1 year
 * uids: 3 months
 * uids-audit: 3 months
 
@@ -906,7 +911,7 @@ Storage duration:
 
 Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on this Website.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
