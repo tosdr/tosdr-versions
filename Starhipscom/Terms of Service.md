@@ -157,5 +157,3 @@ Search
 * [LinkTree](https://linktr.ee/starships09)
 
 Copyright © 2023 StarShips.com
-
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
