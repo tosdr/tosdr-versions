@@ -46,12 +46,7 @@ Menu
     * [La recherche à la HES-SO](https://www.hes-so.ch/recherche-innovation/la-recherche-a-la-hes-so)
     * [Projets de recherche](https://www.hes-so.ch/recherche-innovation/projets-de-recherche)
     * [Instituts et compétences](https://www.hes-so.ch/recherche-innovation/instituts-de-recherche)
-    * [Soutien à la recherche](https://www.hes-so.ch/recherche-innovation/soutien-a-la-recherche "/recherche-innovation/soutien-a-la-recherche")
-        
-        * [Services de soutien à la recherche](https://www.hes-so.ch/recherche-innovation/soutien-a-la-recherche)
-        * [Fonds nationaux](https://www.hes-so.ch/recherche-innovation/soutien-a-la-recherche/fonds-nationaux)
-        * [Fonds internationaux et spatiaux](https://www.hes-so.ch/recherche-innovation/soutien-a-la-recherche/fonds-internationaux-et-spatiaux)
-        
+    * [Acquisition de fonds de tiers](https://www.hes-so.ch/recherche-innovation/soutien-a-la-recherche/acquisition-de-fonds-de-tiers)
     * [Relève et carrières académiques](https://www.hes-so.ch/recherche-innovation/releve-et-carrieres-academiques)
     * [Open Science](https://www.hes-so.ch/recherche-innovation/open-science)
     * [Intégrité scientifique](https://www.hes-so.ch/recherche-innovation/integrite-scientifique)
