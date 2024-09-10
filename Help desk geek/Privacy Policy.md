@@ -164,7 +164,7 @@ Spam in any form will not be accepted.
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted on our site. If you find anything that could be considered a violation of the copyright norms, please [contact us](https://helpdeskgeek.com/about/) immediately.
 
-We use a third party to provide monetization technologies for our site. You can review their privacy and cookie policy [here](https://www.snigel.com/privacy-policy/).
+We use a third party to provide monetization technologies for our site. You can review their privacy and cookie policy [here](https://snigel.com/privacy-policy/).
 
 #### Daily Email Newsletter
 
@@ -181,14 +181,14 @@ We use a third party to provide monetization technologies for our site. You can 
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/preview-media-how-to-compare-two-folders-or-directories-in-windows-1-130x85.jpg)](https://helpdeskgeek.com/windows-11/how-to-compare-two-folders-or-directories-in-windows/ "How to Compare Two Folders or Directories in Windows")[How to Compare Two Folders or Directories in Windows](https://helpdeskgeek.com/windows-11/how-to-compare-two-folders-or-directories-in-windows/ "How to Compare Two Folders or Directories in Windows")
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/ms-windows-11-130x85.webp)](https://helpdeskgeek.com/windows-11/windows-stuck-on-updates-are-underway-8-fixes-to-try/ "Windows Stuck on “Updates Are Underway”? 8 Fixes to Try")[Windows Stuck on “Updates Are Underway”? 8 Fixes to Try](https://helpdeskgeek.com/windows-11/windows-stuck-on-updates-are-underway-8-fixes-to-try/ "Windows Stuck on “Updates Are Underway”? 8 Fixes to Try")
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/ms-windows-11-130x85.webp)](https://helpdeskgeek.com/windows-11/how-to-fix-windows-update-download-error-0x80248007/ "How to Fix Windows Update “Download Error – 0x80248007”")[How to Fix Windows Update “Download Error – 0x80248007”](https://helpdeskgeek.com/windows-11/how-to-fix-windows-update-download-error-0x80248007/ "How to Fix Windows Update “Download Error – 0x80248007”")
-* [![](https://helpdeskgeek.com/wp-content/pictures/2024/04/ms-excel-2-130x85.webp)](https://helpdeskgeek.com/office-tips/how-to-use-the-square-root-sqrt-function-in-excel/ "How to Use the Square Root (SQRT) Function in Excel")[How to Use the Square Root (SQRT) Function in Excel](https://helpdeskgeek.com/office-tips/how-to-use-the-square-root-sqrt-function-in-excel/ "How to Use the Square Root (SQRT) Function in Excel")
+* [![](https://helpdeskgeek.com/wp-content/pictures/2024/04/Java-Logo-130x85.png)](https://helpdeskgeek.com/how-to/how-to-resolve-a-java-error-1603/ "How to Resolve a Java Error 1603")[How to Resolve a Java Error 1603](https://helpdeskgeek.com/how-to/how-to-resolve-a-java-error-1603/ "How to Resolve a Java Error 1603")
 
 #### Recent Articles
 
+* [![](https://helpdeskgeek.com/wp-content/pictures/2024/08/preview-media-0-Title-Image-130x85.jpg)](https://helpdeskgeek.com/windows-11/how-to-hide-or-remove-copilot-from-windows-11-taskbar/ "How to Hide or Remove Copilot from Windows 11 Taskbar")[How to Hide or Remove Copilot from Windows 11 Taskbar](https://helpdeskgeek.com/windows-11/how-to-hide-or-remove-copilot-from-windows-11-taskbar/ "How to Hide or Remove Copilot from Windows 11 Taskbar")
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/06/preview-media-how-to-reset-onedrive-in-windows-1-1-130x85.jpeg)](https://helpdeskgeek.com/windows-11/how-to-reset-onedrive-in-windows/ "How to Reset OneDrive in Windows")[How to Reset OneDrive in Windows](https://helpdeskgeek.com/windows-11/how-to-reset-onedrive-in-windows/ "How to Reset OneDrive in Windows")
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/ms-windows-11-130x85.webp)](https://helpdeskgeek.com/windows-11/top-9-ways-to-fix-hypervisor_error-in-windows/ "Top 9 Ways to Fix HYPERVISOR_ERROR in Windows 11")[Top 9 Ways to Fix HYPERVISOR\_ERROR in Windows 11](https://helpdeskgeek.com/windows-11/top-9-ways-to-fix-hypervisor_error-in-windows/ "Top 9 Ways to Fix HYPERVISOR_ERROR in Windows 11")
 * [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/preview-media-how-to-check-steam-games-storage-usage-in-windows-11-1-130x85.jpeg)](https://helpdeskgeek.com/windows-11/how-to-check-steam-games-storage-use-in-windows/ "How to Check Steam Games Storage Use in Windows 11")[How to Check Steam Games Storage Use in Windows 11](https://helpdeskgeek.com/windows-11/how-to-check-steam-games-storage-use-in-windows/ "How to Check Steam Games Storage Use in Windows 11")
-* [![](https://helpdeskgeek.com/wp-content/pictures/2024/05/ms-outlook-130x85.webp)](https://helpdeskgeek.com/office-tips/top-ways-to-fix-outlook-error-0x8004010f/ "Top 6 Ways to Fix Outlook Error 0x8004010f")[Top 6 Ways to Fix Outlook Error 0x8004010f](https://helpdeskgeek.com/office-tips/top-ways-to-fix-outlook-error-0x8004010f/ "Top 6 Ways to Fix Outlook Error 0x8004010f")
 
 #### Our Publishing Family
 
