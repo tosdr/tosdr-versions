@@ -86,7 +86,7 @@
     * [All partners](https://www.philips-hue.com/en-us/explore-hue/works-with)
     * [Support](https://www.philips-hue.com/en-us/support/faq)* [Account](https://account.meethue.com/ "Account")
 
- ![](https://www.philips-hue.com/en-us/support/legal/privacy-policy/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone_1039004735.signifyimg.82.300.jpeg/1682089405074.jpeg)
+ ![Privacy Notice](https://www.philips-hue.com/en-us/support/legal/privacy-policy/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone_1039004735.signifyimg.82.300.jpeg/1682089405074.jpeg)
 
 Philips Hue
 
@@ -200,30 +200,6 @@ Below you will find an overview of the general categories of data that we collec
 | **User interactions** | If you modify your account settings, usernames or marketing consent status, these events will be recorded by our backend systems. | The backend systems will collect information which can be considered to be personal information including:<br><br>·       The change request;<br><br>·       The timestamp of that request. |
 | **Contact Forms** | If you submit a contact form or sign up for our newsletters or marketing offerings, we will process certain personal data about you. | The personal data that you submit will be processed in order to fulfil the purpose for which it was collected. In general, we might collect following personal information:<br><br>·       Full Name<br><br>·       Email Address<br><br>·       Consent status and timestamp |
 | **Third-party Data** | In addition to our websites, applications and other digital channels, we may also obtain information about you from other sources, such as social media platforms, joint marketing partners or more generally providers of products and product functionalities complimenting the Philips Hue ecosystem such as voice assistant providers.<br><br>For example, if you are controlling Philips Hue products by using a voice-enabled product (such as Amazon Alexa, Apple Siri, Google) you are prompted to allow such devices to connect with the Philips Hue system. Once this functionality is enabled, we may collect and process functional data (such as registration data, usage and diagnostic information) and your usage thereof. We do not receive or process the audio. | The data being processed is highly dependent on your choices and which third-parties are involved. If you would like to receive specific information in this regard, please [contact us](https://www.signify.com/global/legal/privacy/privacy-request). |
-
-Philips Hue Account Data
-
-Purchase Data
-
-Consumer Care Data
-
-Cookies and similar tracking technologies Data.
-
-Usage Data relating to our products and their functionalities
-
-Online Feedback Data
-
-Online sweepstakes and competitions Data
-
-Social listening Data
-
-User Generated Content
-
-User interactions
-
-Contact Forms
-
-Third-party Data
 
 ![Calender](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Calender")
 
@@ -446,28 +422,6 @@ We might have collected and/or disclosed for an aforementioned purpose the follo
 
   
   
-
-A. Identifiers.
-
-B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
-
-C. Protected classification characteristics under California or federal law.
-
-D. Commercial information.
-
-E. Biometric information.
-
-F. Internet or other similar network activity.
-
-G. Geolocation data.G. Geolocation data.
-
-H. Sensory data.
-
-I. Professional or employment-related information.
-
-J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
-
-K. Inferences drawn from other personal information.
 
 We disclose your data for a business purpose to the following categories of third parties:
 
