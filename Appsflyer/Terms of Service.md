@@ -28,7 +28,7 @@
     * [**AppsFlyer Data Collaboration Platform** First-party data monetization that fuels retail media growth](https://www.appsflyer.com/products/data-collaboration/ "First-party data monetization that fuels retail media growth")
     * [**Partner marketplace** Connect to over 10,000 tech and media partners](https://www.appsflyer.com/products/integrations/ "Connect to over 10,000 tech and media partners")
     
-    * [View pricing](https://www.appsflyer.com/pricing/)
+    * [Interactive product tours](https://www.appsflyer.com/interactive-product-tours/)
     * [iOS 14+ solutions](https://www.appsflyer.com/solutions/ios/)
     * [Data feeds & APIs](https://www.appsflyer.com/products/apis/)
     
@@ -129,6 +129,7 @@
     * [On privacy and user experience](https://www.appsflyer.com/blog/ceo/user-privacy-ios-14-idfa/)
     * [Aggregated advanced privacy](https://www.appsflyer.com/blog/ceo/aggregated-advanced-privacy/)
     
+* [Pricing](https://www.appsflyer.com/pricing/ "Pricing")
 
 * [Login](https://hq1.appsflyer.com/auth/login)
 * [Sign up free](https://www.appsflyer.com/sign-up/)
