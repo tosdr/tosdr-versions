@@ -31,7 +31,7 @@
         
         Send and receive multichannel text and media messages in 180+ countries](https://segment.com/en-us/messaging)
         
-        [SMS](https://segment.com/en-us/messaging/channels/sms) [WhatsApp](https://segment.com/en-us/messaging/channels/whatsapp) [Conversations](https://segment.com/en-us/messaging/conversations-api)
+        [SMS](https://segment.com/en-us/messaging/channels/sms) [WhatsApp](https://segment.com/en-us/messaging/channels/whatsapp) [Conversations](https://segment.com/en-us/messaging/conversations-api) [RCS](https://segment.com/en-us/messaging/channels/rcs)
         
     * [**Voice**
         
@@ -139,7 +139,7 @@
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts)
+        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts) [Mass texting](https://segment.com/en-us/use-cases/mass-texting)
         
     * [**Marketing & promotions**
         
@@ -382,7 +382,7 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         Send and receive multichannel text and media messages in 180+ countries](https://segment.com/en-us/messaging)
         
-        [SMS](https://segment.com/en-us/messaging/channels/sms) [WhatsApp](https://segment.com/en-us/messaging/channels/whatsapp) [Conversations](https://segment.com/en-us/messaging/conversations-api)
+        [SMS](https://segment.com/en-us/messaging/channels/sms) [WhatsApp](https://segment.com/en-us/messaging/channels/whatsapp) [Conversations](https://segment.com/en-us/messaging/conversations-api) [RCS](https://segment.com/en-us/messaging/channels/rcs)
         
     * [**Voice**
         
@@ -490,7 +490,7 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
         
-        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts)
+        [Appointment reminders](https://segment.com/en-us/use-cases/appointment-reminders) [Lead alerts](https://segment.com/en-us/use-cases/lead-alerts) [Mass texting](https://segment.com/en-us/use-cases/mass-texting)
         
     * [**Marketing & promotions**
         
@@ -1359,6 +1359,7 @@ We can't wait to see what you build.
 * [Verify](https://segment.com/en-us/user-authentication-identity/verify)
 * [Voice](https://segment.com/en-us/voice)
 * [Messaging](https://segment.com/en-us/messaging)
+* Beta products and features
 * [All products](https://segment.com/en-us/products#all-products)
 
 ### Solutions
@@ -1391,6 +1392,11 @@ We can't wait to see what you build.
 * [Investor Relations](https://investors.twilio.com/overview/default.aspx?_ga=2.87002776.1826591240.1667227419-607057990.1661885030)
 * [Events](https://segment.com/en-us/events)
 * [Jobs at Twilio](https://segment.com/en-us/company/jobs)
+
+* [Facebook logo](https://www.facebook.com/TeamTwilio)
+* [Twitter Logo Follow us on Twitter](https://x.com/twilio)
+* [LinkedIn logo](https://www.linkedin.com/company/twilio-inc-)
+* [Youtube Logo](https://www.youtube.com/@twilio)
 
 * [Legal](https://www.twilio.com/en-us/legal/tos)
 * [Privacy](https://www.twilio.com/en-us/legal/privacy)
