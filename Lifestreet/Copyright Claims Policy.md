@@ -1,6 +1,6 @@
 Toggle navigation
 
-[![LifeStreet](https://lifestreet.com/wp-content/uploads/2021/06/LSlogo.svg)](https://lifestreet.com/)
+[![LifeStreet](https://lifestreet.com/wp-content/uploads/2024/08/LS_logo-mintWhite-darkBackground.svg)](https://lifestreet.com/)
 
 * [Platform](https://lifestreet.com/nero/platform/)
 * [Solutions](https://lifestreet.com/solutions/solutions-for-performance-marketers/)
@@ -41,7 +41,7 @@ LifeStreet Digital Millennium Copyright Infringement Notification
 
 98 Battery St #504 San Francisco, CA 94111
 
-![LSlogo](https://lifestreet.com/wp-content/uploads/2021/06/LSlogo.svg "LSlogo")
+![LS_logo-mintWhite-darkBackground](https://lifestreet.com/wp-content/uploads/2024/08/LS_logo-mintWhite-darkBackground.svg "LS_logo-mintWhite-darkBackground")
 
 [Linkedin-in](https://www.linkedin.com/company/lifestreet-corporation)
 
