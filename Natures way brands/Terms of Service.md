@@ -2,9 +2,7 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-Take 24% off summer games superstars! Use code GAMES24. Ends 8/11. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
-
-[Sign up](#nw-newsletter-subscription-v2) for our mailing list and get 15% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+[Sign up](#nw-newsletter-subscription-v2) for our mailing list for 20% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
      
 
@@ -33,22 +31,21 @@ Nature's Way
         
     * FEATURED
         
-        * [Summer Games Superstars](https://naturesway.com/collections/promotions)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Last Chance](https://naturesway.com/collections/last-chance)
         * [Overstock](https://naturesway.com/collections/overstock-sales)
         
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * Health Interests
     
@@ -57,54 +54,31 @@ Nature's Way
     * CATEGORIES
         
         * [Blood Sugar](https://naturesway.com/collections/blood-sugar)
-        * [Bone, Muscle & Joints](https://naturesway.com/collections/bone-joint-muscle)
+        * [Bone, Muscle, & Joints](https://naturesway.com/collections/bone-joint-muscle)
         * [Brain & Cognitive](https://naturesway.com/collections/brain-cognitive)
-        * [Children's Health](https://naturesway.com/collections/childrens-health)
-        * [Cold, Cough & Flu](https://naturesway.com/collections/cold-cough-and-flu)
+        * [Cold, Cough, & Flu](https://naturesway.com/collections/cold-cough-and-flu)
         * [Energy & Vitality](https://naturesway.com/collections/energy-vitality)
         * [Digestion & Liver Support](https://naturesway.com/collections/digestive-health)
         * [Hair, Skin, & Nails](https://naturesway.com/collections/hair-skin-nails)
         * [Heart Health](https://naturesway.com/collections/heart-health)
         * [Immune](https://naturesway.com/collections/immune)
+        * [Kids Health](https://naturesway.com/collections/kids-health)
         * [Men's Health](https://naturesway.com/collections/mens-health)
         * [Mood & Stress](https://naturesway.com/collections/mood-stress)
         * [Sleep](https://naturesway.com/collections/sleep)
         * [Women's Health](https://naturesway.com/collections/womens-health)
+        * [Weight Wellness\*](https://naturesway.com/pages/weight-management-journey)
         
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
     
-* Brand
+    #### Weight Wellness\*
     
-    Brand
-    
-    * OUR BRANDS
-        
-        * [Alive!®](https://naturesway.com/collections/alive)
-        * [Fortify®](https://naturesway.com/collections/fortify)
-        * [Sambucus](https://naturesway.com/collections/sambucus)
-        * [Umcka®](https://naturesway.com/collections/umcka)
-        * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
-        * [Pearls®](https://naturesway.com/collections/pearls)
-        
-    
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
-    
-    #### Subscribe & Save
-    
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * Learn
     
@@ -122,16 +96,20 @@ Nature's Way
         * [Shopping Lists](https://naturesway.com/blogs/articles?page=1&tag=Shopping%20Lists&aid=)
         * [All Blog Posts](https://naturesway.com/blogs/articles)
         
+    * EDUCATION
+        
+        * [Weight Management Journey](https://naturesway.com/pages/weight-management-journey)
+        
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * About
     
@@ -140,31 +118,32 @@ Nature's Way
     * WHO WE ARE
         
         * [About Us](https://naturesway.com/pages/about-us)
-        * [Quality](https://naturesway.com/pages/quality)
+        * [Our Quality](https://naturesway.com/pages/quality)
+        * [Our Social Mission](https://naturesway.com/pages/social-mission)
         * [Contact Us](https://naturesway.com/pages/contact)
         * [FAQ's](https://naturesway.com/pages/faqs)
         
     * OUR BRANDS
         
-        * [Alive!®](https://naturesway.com/pages/alive)
-        * [Fortify®](https://naturesway.com/pages/fortify)
-        * [Sambucus](https://naturesway.com/pages/sambucus)
-        * [Umcka®](https://naturesway.com/pages/umcka)
-        * [Integrative Therapeutics®](https://naturesway.com/pages/integrative)
+        * [Alive!®](https://naturesway.com/collections/alive)
+        * [Fortify®](https://naturesway.com/collections/fortify)
+        * [Sambucus](https://naturesway.com/collections/sambucus)
+        * [Umcka®](https://naturesway.com/collections/umcka)
+        * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
         
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 
-* [Shop All Products](https://naturesway.com/collections/all)
+* [Weight Wellness\*](https://naturesway.com/pages/weight-management-journey)
     
 * [Sign-in / Sign-up](https://naturesway.com/account)
 * [Wishlist](javascript:closeHeaderDrawer())
@@ -192,71 +171,51 @@ Nature's Way
     
     FEATURED
     
-    * [Summer Games Superstars](https://naturesway.com/collections/promotions)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
+    * [Bundle & Save](https://naturesway.com/collections/bundle-save-1)
     * [Last Chance](https://naturesway.com/collections/last-chance)
     * [Overstock](https://naturesway.com/collections/overstock-sales)
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * Health Interests
     
     CATEGORIES
     
     * [Blood Sugar](https://naturesway.com/collections/blood-sugar)
-    * [Bone, Joint & Muscle](https://naturesway.com/collections/bone-joint-muscle)
+    * [Bone, Joint, & Muscle](https://naturesway.com/collections/bone-joint-muscle)
     * [Brain & Cognitive](https://naturesway.com/collections/brain-cognitive)
-    * [Children's Health](https://naturesway.com/collections/childrens-health)
-    * [Cold, Cough & Flu](https://naturesway.com/collections/cold-cough-and-flu)
+    * [Cold, Cough, & Flu](https://naturesway.com/collections/cold-cough-and-flu)
     * [Digestion & Liver Support](https://naturesway.com/collections/digestive-health)
     * [Energy & Vitality](https://naturesway.com/collections/energy-vitality)
-    * [Hair, Skin & Nails](https://naturesway.com/collections/hair-skin-nails)
+    * [Hair, Skin, & Nails](https://naturesway.com/collections/hair-skin-nails)
     * [Heart Health](https://naturesway.com/collections/heart-health)
     * [Immune](https://naturesway.com/collections/immune)
+    * [Kids Health](https://naturesway.com/collections/kids-health)
     * [Mood & Stress](https://naturesway.com/collections/mood-stress)
     * [Men's Health](https://naturesway.com/collections/mens-health)
     * [Sleep](https://naturesway.com/collections/sleep)
     * [Women's Health](https://naturesway.com/collections/womens-health)
+    * [Weight Wellness\*](https://naturesway.com/pages/weight-management-journey)
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
     
-* Brands
+    #### Weight Wellness\*
     
-    OUR BRANDS
-    
-    * [Alive!®](https://naturesway.com/collections/alive)
-    * [Fortify®](https://naturesway.com/collections/fortify)
-    * [Sambucus](https://naturesway.com/collections/sambucus)
-    * [Umcka®](https://naturesway.com/collections/umcka)
-    * [Pearls®](https://naturesway.com/collections/pearls)
-    * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
-    
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
-    
-    #### Subscribe & Save
-    
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * Learn
     
@@ -272,45 +231,50 @@ Nature's Way
     * [Shopping Lists](https://naturesway.com/blogs/articles?page=1&tag=Shopping%20Lists&aid=)
     * [All Blog Posts](https://naturesway.com/blogs/articles)
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
+    EDUCATION
     
-    #### Find your calm\*
+    * [Weight Wellness Journey](https://naturesway.com/pages/weight-management-journey)
     
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 * About
     
     WHO WE ARE
     
     * [About Us](https://naturesway.com/pages/about-us)
-    * [Quality](https://naturesway.com/pages/quality)
+    * [Our Quality](https://naturesway.com/pages/quality)
+    * [Our Social Mission](https://naturesway.com/pages/social-mission)
     * [Contact Us](https://naturesway.com/pages/contact)
     * [FAQs](https://naturesway.com/pages/faqs)
     
     OUR BRANDS
     
-    * [Alive!®](https://naturesway.com/pages/alive)
-    * [Fortify®](https://naturesway.com/pages/fortify)
-    * [Sambucus](https://naturesway.com/pages/sambucus)
-    * [Umcka®](https://naturesway.com/pages/umcka)
-    * [Integrative Therapeutics®](https://naturesway.com/pages/integrative)
+    * [Alive!®](https://naturesway.com/collections/alive)
+    * [Fortify®](https://naturesway.com/collections/fortify)
+    * [Sambucus](https://naturesway.com/collections/sambucus)
+    * [Umcka®](https://naturesway.com/collections/umcka)
+    * [Integrative Therapeutics®](https://naturesway.com/collections/integrative-therapeutics)
     
-    [![](//naturesway.com/cdn/shop/files/Calmaid.jpg?v=1716475924)
-    
-    #### Find your calm\*
-    
-    Try CalmAid now.](https://naturesway.com/products/calmaid?variant=43405107003606 "Find your calm*")[![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
+    [![](//naturesway.com/cdn/shop/files/Nav_S_S_banner.png?v=1716475873)
     
     #### Subscribe & Save
     
-    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")
+    Get 15% off your essentials.](https://naturesway.com/collections/subscribe-save "Subscribe & Save")[![](//naturesway.com/cdn/shop/files/Weight_Wellness_Navigation_Tile.jpg?v=1725899662)
+    
+    #### Weight Wellness\*
+    
+    Start your journey now.](https://naturesway.com/pages/weight-management-journey "Weight Wellness*")
     
 
-[Shop All Products](https://naturesway.com/collections/all)
+[Weight Wellness\*](https://naturesway.com/pages/weight-management-journey)
 
 [](#)[](https://naturesway.com/account)[](javascript: void(0))[Cart](https://naturesway.com/cart)
 
@@ -318,10 +282,6 @@ Item added to your cart
 -----------------------
 
 Check out
-
-spend $23.03 more and receive Free Shipping
-
-25%
 
 My Wishlist ()
 --------------
@@ -776,23 +736,7 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 #### Promotions
 
- 24% off select products. Use code GAMES24 at checkout. 
-
-Offer is to receive 24% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code GAMES24 at checkout.  While Supplies Last. Offer valid from July 26th, 12:30 pm CDT to August 11th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/jemma10](https://naturesway.com/jemma10)\] using the code JEMMA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CDT to June 30th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Pearls products with code CHELSEA10. Code applied at checkout. 
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/pearls](https://naturesway.com/pearls)\] using the code CHELSEA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CDT to July 31st at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Herbal Supplements with code JAY10. Code applied at checkout. 
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/herbs](https://naturesway.com/herbs)\]  using the code JAY10 at checkout. While Supplies Last. Offer valid from April 01st, 9:00 am CDT to June 30th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.  
-
-Up to 25% off Overstock items
+ Up to 25% off Overstock items
 
 Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/overstock](https://naturesway.com/collections/overstock)\]. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited.  
 
@@ -804,73 +748,15 @@ Offer is to receive up to 60% off only on the merchandise displayed on   \[[ht
 
 Offer valid from 10/1/2023 until 12/31/2024 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
 
+20% off your first order with email sign-up
+
+Enter promo code from your email at checkout to redeem. Offer limited to one-time use only online at naturesway.com and is non-transferable. Offer applies to merchandise on naturesway.com only and is not valid on applicable taxes or shipping and handling charges. Excludes all Integrative Therapeutics products. No adjustments on previous purchases. Not valid for cash or cash equivalent. Cannot be combined with other offers or discounts. Nature’s Way is not responsible for lost or stolen coupon codes and reserves the right to alter, modify, or discontinue this offer at any time. Additional exclusions may apply. Void where prohibited.  
+
 15% off your first order with email sign-up
 
 Enter promo code from your email at checkout to redeem. Offer limited to one-time use only online at naturesway.com and is non-transferable. Offer applies to merchandise on naturesway.com only and is not valid on applicable taxes or shipping and handling charges. Excludes all Integrative Therapeutics products. No adjustments on previous purchases. Not valid for cash or cash equivalent. Cannot be combined with other offers or discounts. Nature’s Way is not responsible for lost or stolen coupon codes and reserves the right to alter, modify, or discontinue this offer at any time. Additional exclusions may apply. Void where prohibited.  
 
 #### Giveaway
-
-NATURE’S WAY® VITAMIN N CHALLENGE GIVEAWAY
-
-OFFICIAL RULES
-
-**NO PURCHASE NECESSARY TO ENTER OR WIN. YOU MUST HAVE INTERNET ACCESS IN ORDER TO PARTICIPATE.**
-
-By participating in the Nature’s Way (“Nature’s Way”) Vitamin N Challenge Giveaway(“Giveaway”), you unconditionally accept and agree to comply with these Official Rules (“Official Rules”) and the decisions of Nature’s Way Brands, LLC (“Sponsor”) shall be final and binding in all respects.
-
-1. **GIVEAWAY ENTRY PERIOD**. The Giveaway begins at 9:00:00 A.M. Central Time (CT) on July 5, 2024 and ends at 11:59 P.M. CT on July 20, 2024 (“Giveaway Period”).
-
-1. **ELIGIBILITY**. Open to residents of the fifty (50) United States, including the District of Columbia, who are 18 years of age or older at time of entry. Employees of Sponsor, its parent company, affiliates, subsidiaries, advertising and promotion agencies (“Promotion Entities”) and its immediate family members and/or those living in the same household of each are not eligible to participate. Void where prohibited.
-
-1. **ENTRY METHOD**. During the Giveaway Period, to enter to win the Prize (as defined in Section 4), you must log into your Instagram account and (i) like the Giveaway post; (ii) follow @natureswaybrands; and (iii) tell us which prize you are entering for (e.g., Camping Package, Parks Package or Play Package) and tag one (1) friend in the comments using the hashtag #VitaminNGiveaway (the “Entry”). Please note Instagram profile does not need to be public.
-
-All Entries are subject to confirmation by Sponsor. Limit one (1) Entry into the Giveaway per person, per Instagram account. **No purchase or payment of any kind is necessary. Sponsor reserves the right to disqualify any entry for non-compliance with these Official Rules.**
-
-No automated entry devices, bots, and/or other programs and/or software are permitted for entry. Sponsor is not responsible for lost, late illegible, incomplete, invalid, unintelligible, misdirected, technically corrupted or garbled entries, which will be disqualified, or for problems of any kind, whether mechanical, human or electronic. Only Entries that meet the Entry requirements are eligible. 
-
-In the event of a dispute over the identity of an entrant in the Giveaway, participation will be deemed completed by the Authorized Account Holder of the Instagram account provided at the time of participation. “Authorized Account Holder” is defined as the natural person who is assigned to an Instagram account by Instagram. Only fully completed Entries are eligible. 
-
-**This Giveaway is in no way sponsored, endorsed or administered by, or associated with, Instagram LLC.** 
-
-**IMPORTANT: MESSAGE AND DATA RATES MAY APPLY TO USE OF MOBILE PHONE/DEVICE TO PARTICIPATE IN GIVEAWAY. INSTAGRAM IS FREE TO DOWNLOAD AND AVAILABLE FOR iPHONE FROM THE APPLE APPLICATION STORE AND FOR ANDROID FROM THE GOOGLE PLAY STORE.**
-
-1. **PRIZES/APPROXIMATE RETAIL VALUES (ARV)/ODDS**: There are a total of three (3) prizes (each a “Prize”), each Prize consisting of:
-
-**Prize 1 – Parks Package:** One (1) National Parks Pass; one (1) Cotopaxi Backpack; one (1) Face Hammock; one (1) Stanley Water Bottle; one (1) Mad Happy Outdoors Hat; one (1) JBL Clip On Speaker; and one (1) Bombas Hiking Socks. **Total ARV of Prize 1 – Parks Package is $535.95**.
-
-**Prize 2 – Camp Package:** One (1) North Face Tent; one (1) YETI Cooler Bag; one (1) Yard Chair;  one (1) Roasting Skewers; one (1) JBL Clip On Speaker; and one (1)Plant Based Insect Repellent. **Total ARV of Prize 2 – Camp Package is $518.40**.
-
-**Prize 3 – Play Package:** One (1) Recess Pickleball Set; one (1) Spikeball Set; one (1) North Face Travel Tote; one (1) Mad Happy Outdoors Hat; one (1) Ray Bans Sunglasses Gift Card; and one (1) Stanley Water Bottle. **Total ARV of Prize 3 – Play Package is $501.00**.
-
-Limit one (1) Prize per person, per physical mailing address, and per Instagram account. Decisions regarding the invalidity or validity of any Entry will be made at Sponsor’s sole discretion and all such decisions are binding and final. Any potential Prize winner who does not reply to a prize notification with the required information and within the specified time period will be disqualified and an alternate winner may be notified. All applicable federal, state, and local taxes on Prizes are the sole responsibility of Giveaway recipient.
-
-**The total ARV of all Prizes is $1,555.35.**
-
-Odds of winning will depend upon the timing of eligible Entries received during the Giveaway Period and the total number of eligible Entries received during the Giveaway Period.
-
-Three (3) winners will be selected at random on July 26th, 2024. The Prize will be awarded within thirty (30) days of winner confirmation. Sponsor reserves the right to revoke Prize from any winner who it deems, in its sole discretion, may have violated any policy or law, and/or may bring the Sponsor into disrepute. In the event a Prize winner engages in behavior that, as determined by the Sponsor in its sole discretion, is inappropriate, obnoxious, threatening, illegal or that is intended to annoy, abuse, threaten or harass, victimize, degrade, or intimidate any other individual or group of individuals, including, but not limited to, on the basis of religion, race, ethnicity, sexual orientation, gender, age or disability, or that in any way disparages or adversely affects the reputation, image, and/or goodwill of Sponsor or any of their services, products, trademarks, service marks, or logos, Sponsor reserves the right to terminate the Prize, or violates the rights of any other party, including but not limited to intellectual property rights or rights of privacy, publicity or other moral rights, in whole or in part, with no further obligation or compensation whatsoever to such Prize winner. 
-
-1. **WINNER NOTIFICATION**: A potential winner will be notified via Direct Message (“DM”) and will be required to provide his/her/their full name, address, and phone number within three (3) days of receipt of DM. Noncompliance will result in disqualification.
-
-1. **GENERAL**: If the Prize is returned as non-deliverable, the Prize will be forfeited and may be given to another entrant in accordance with these Official Rules. No cash equivalents, substitutions or transfer of Prize permitted except that Sponsor reserves the right to substitute a Prize of equal or greater value in the event that an offered product is unavailable. Subject to all federal, state and local laws/regulations. By accepting a Prize, winner releases and agrees to hold harmless Promotion Entities, including without limitation, their respective directors, employees, officers, and agents, including without limitation, from any and all liability, injury, loss or damage of any kind, including but not limited to personal injury or death, arising from or in connection with participation in the Giveaway, or the awarding, receipt, possession, use or misuse of any Prize and/or respect to participation in any Prize related activity. Neither Promotion Entities, including without limitation nor their employees will have any liability whatsoever for any injuries, losses or damages of any kind caused by any Prize or resulting from acceptance, possession, use and/or misuse of any Prize or participation in the promotion or any Prize-related activities.  Except where prohibited by law, acceptance of a Prize shall be construed as and signify the winner’s agreement and consent that Sponsor may use the winner’s name, voice, likeness and/or information, without limitation, for promotional purposes without further consideration, review, approval or payment, where allowed by law. Winners acknowledge that neither Sponsor nor its agents have made nor are in any manner responsible or liable for any warranty, representation or guarantee, express or implied, in fact or in law, relative to any Prize, including, but not limited to, its quality, mechanical condition or fitness for a particular purpose. Sponsor is not responsible for any typographical or other error in the printing of the offer or in administration of the Giveaway.
-
-1. **LIMITATIONS AND RELEASES**: By participating in the Giveaway, entrants and winners agree to release, indemnify, and hold harmless Sponsor and their respective subsidiaries, affiliates, divisions, partners, representatives, agents, successors, assigns, employees, officers and directors, as well as Instagram LLC and their respective subsidiaries, affiliates, divisions, partners, representatives, agents, successors, assigns, employees, officers and directors (the "**Released Parties**"), from any and all liability, for loss, harm, damage, injury, cost or expense whatsoever, including without limitation, property damage, personal injury (including emotional distress), and/or death, which may occur in connection with preparation for, or participation in, the Giveaway, or possession, acceptance and/or use or misuse of the Prize or participation in any Giveaway\-related or Prize-related activity and for any claims or causes of action based on publicity rights, defamation or invasion of privacy and merchandise delivery. The Released Parties assume no responsibility for any injury or damage to entrants or to any other person's computer, regardless of how caused, relating to or resulting from entering or downloading materials or software in connection with this Giveaway. Entrants and winners acknowledge that Sponsor has neither made nor is in any manner responsible or liable for any warranty, representations or guarantees, express or implied, in fact or in law, relative to any prize or any component thereof, including, but not limited to, express warranties provided by the supplier of the Prize (or any component thereof) or their affiliates.
-
-Promotion Entities are not responsible for lost, late, mutilated or illegible entries nor for electronic transmission errors resulting in omission, interruption, deletion, defect, delay in operations or transmission, theft or destruction or unauthorized access to or alterations of entry materials, or for technical, network, telephone equipment, electronic, computer, hardware or software malfunctions or limitations of any kind, or inaccurate transmissions of or failure to receive entry information by Sponsor on account of technical problems or traffic congestion on the Internet or at any website or any combination thereof. Sponsor reserves the right to modify, extend, suspend, or terminate the Giveaway if it determines, in its sole discretion, that the Giveaway is technically impaired or corrupted or that fraud or technical problems, failures or malfunctions or other causes beyond Sponsor’s control have destroyed or severely undermined or to any degree impaired the integrity, administration, security, proper play and/or feasibility of the Giveaway as contemplated herein. In the event Sponsor is prevented from awarding Prizes or continuing with the Giveaway as contemplated herein by any event beyond its control, Sponsor shall have the right to modify, suspend, or terminate the Giveaway. The invalidity or unenforceability of any provision of these Official Rules shall not affect the validity or enforceability of any other provision. In the event that any provision is determined to be invalid or otherwise unenforceable or illegal, these Official Rules shall otherwise remain in effect and shall be construed in accordance with their terms as if the invalid or illegal provision were not contained herein. Caution: Any attempt by any person to deliberately damage any website or undermine the legitimate operation of the Giveaway is a violation of law and should such an attempt be made, Sponsor reserves the right to seek damages from any such person to the fullest extent of the law.
-
-1. **PRIVACY**: For information about how Sponsor uses your personal information, please see its privacy policy, located at [https://www.naturesway.com/Privacy-Policy](https://www.naturesway.com/Privacy-Policy).
-
-1. **GOVERNING LAW/JURISDICTION**: ALL ISSUES AND QUESTIONS CONCERNING THE CONSTRUCTION, VALIDITY, INTERPRETATION AND ENFORCEABILITY OF THESE OFFICIAL RULES OR THE RIGHTS AND OBLIGATIONS OF ENTRANTS OR SPONSOR IN CONNECTION WITH THE GIVEAWAY SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF WISCONSIN WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW OR CONFLICT OF LAW RULES OR PROVISIONS THAT WOULD CAUSE THE APPLICATION OF ANY OTHER STATE’S LAWS. ENTRANTS AGREE (AND AGREE TO CONFIRM IN WRITING) THAT: (I) ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR CONNECTED WITH THIS GIVEAWAY SHALL BE RESOLVED INDIVIDUALLY, WITHOUT RESORT TO ANY FORM OF CLASS ACTION, AND EXCLUSIVELY BY THE APPROPRIATE COURT OF COMPETENT JURISDICTION TO BE UNENFORCEABLE; (II) ANY AND ALL CLAIMS, JUDGMENTS AND AWARDS SHALL BE LIMITED TO ACTUAL OUT-OF-POCKET COSTS INCURRED, BUT IN NO EVENT ATTORNEYS’ FEES; AND (III) UNDER NO CIRCUMSTANCES WILL ENTRANT BE PERMITTED TO OBTAIN AWARDS FOR AND ENTRANT HEREBY WAIVES ALL RIGHTS TO CLAIM PUNITIVE, INCIDENTAL AND/OR CONSEQUENTIAL DAMAGES AND ANY OTHER DAMAGES, OTHER THAN FOR ACTUAL OUT-OF-POCKET EXPENSES, AND ANY AND ALL RIGHTS TO HAVE DAMAGES MULTIPLIED OR OTHERWISE INCREASED. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.  THE GIVEAWAY IS SUBJECT TO ALL APPLICABLE FEDERAL, STATE AND LOCAL/MUNICIPAL LAWS AND IS VOID WHERE PROHIBITED BY LAW. IF ANY PROVISION OF THESE OFFICIAL RULES IS FOUND BY ANY COURT OF COMPETENT JURISDICTION TO BE UNENFORCEABLE, ALL OTHER PROVISIONS WILL REMAIN IN FULL FORCE AND EFFECT.
-
-1. **WINNER CONFIRMATION REQUEST**: To obtain the name of the Giveaway winners, send a written request with a self-addressed, stamped envelope to: Attn: Marketing Department, NATURE’S WAY BRANDS, LLC, 100 N 6th St Suite 210C, Minneapolis, MN 55403.
-
-1. **SPONSOR**: NATURE’S WAY BRANDS, LLC, 825 Challenger Drive, Green Bay, WI 54311
-
-1. **SOCIAL MEDIA**: Instagram is a registered trademark of Instagram, LLC. This Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram. Any information provided for the purposes of entry in the Giveaway is provided to Sponsor, and not to Instagram. Any questions, comments or complaints regarding the Giveaway must be directed to the Sponsor and not to Instagram. Instagram and all of their affiliates, directors, officers, agents and employees are not liable for any claims arising out of or in connection with the organization of this Giveaway. However, by entering this Giveaway, each entrant agrees to abide by the terms and conditions of use and other policies or guidelines governing the use of the specific social platform and releases the Sponsor and the Released Parties from and against any damage that could arise from the use of such platforms.
-
-**ABBREVIATED RULES**: \*NO PURCHASE NECESSARY. Subject to the Official Rules available in LINK IN BIO or at https://naturesway.com/pages/legal/#Giveaway. Open to legal residents of 50 United States and District of Columbia who are 18 years old or older at the time of entry. VOID WHERE PROHIBITED OR RESTRICTED BY LAW. Entry period begins at 9:00 a.m. CST on 07/05/2024 and ends at 11:59 p.m. CST on 07/20/2024. Three (3) winners will be selected at random on 7/26/2024 and contacted directly via direct message on Instagram. LIMIT: 1 Entry per entrant. Three (3) prizes in total available each consisting of: (a) Prize 1 – Parks Package: one (1) National Parks Pass; one (1) Cotopaxi Backpack; one (1) Face Hammock; one (1) Stanley Water Bottle; one (1) Mad Happy Outdoors Hat; one (1) JBL Clip On Speaker; and one (1) Bombas Hiking Socks (Total ARV: $535.95); (b) Prize 2 – Camp Package: one (1) North Face Tent; one (1) YETI Cooler Bag; one (1) Yard Chair;  one (1) Roasting Skewers; one (1) JBL Clip On Speaker; and one (1)Plant Based Insect Repellent (Total ARV: $518.40); and (c) Prize 3 – Play Package: one (1) Recess Pickleball Set; one (1) Spikeball Set; one (1) North Face Travel Tote; one (1) Mad Happy Outdoors Hat; one (1) Ray Bans Sunglasses Gift Card; and one (1) Stanley Water Bottle (Total ARV: $501.00). The total ARV of all prizes is $1,555.35. Limits, restrictions, instructions, and prize information are set forth in the Official Rules. Sponsor: Nature’s Way Brands, LLC. 825 Challenger Drive, Green Bay, Wisconsin 543111. Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram.
-
-**SUPER ABBREVIATED RULES**: \*NO PURCHASE NECESSARY. Subject to the Official Rules available in LINK IN BIO or at https://naturesway.com/pages/legal/#Giveaway.Open to legal residents of 50 U.S. & D.C. who are 18 y.o. or older at the time of entry. VOID WHERE PROHIBITED OR RESTRICTED BY LAW. Entry period begins at 9:00 a.m. CST on 7/5/24 & ends at 11:59 CST on 7/20/24. LIMIT: One (1) Entry per entrant. Three (3) prizes in total available as detailed in the Official Rules. The total ARV of all prizes is $1,555.35.  Sponsor: Nature’s Way Brands, LLC. 825 Challenger Drive, Green Bay, WI 54311. Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram.
 
 #### Do Not Sell or Share My Data
 
@@ -1410,23 +1296,7 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
- 24% off select products. Use code GAMES24 at checkout. 
-
-Offer is to receive 24% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. Use code GAMES24 at checkout.  While Supplies Last. Offer valid from July 26th, 12:30 pm CDT to August 11th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/jemma10](https://naturesway.com/jemma10)\] using the code JEMMA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CDT to June 30th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Pearls products with code CHELSEA10. Code applied at checkout. 
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/pearls](https://naturesway.com/pearls)\] using the code CHELSEA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CDT to July 31st at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
-
-10% off Herbal Supplements with code JAY10. Code applied at checkout. 
-
-Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/herbs](https://naturesway.com/herbs)\]  using the code JAY10 at checkout. While Supplies Last. Offer valid from April 01st, 9:00 am CDT to June 30th at 11:59 pm CDT. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.  
-
-Up to 25% off Overstock items
+ Up to 25% off Overstock items
 
 Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/overstock](https://naturesway.com/collections/overstock)\]. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited.  
 
@@ -1438,71 +1308,13 @@ Offer is to receive up to 60% off only on the merchandise displayed on   \[[ht
 
 Offer valid from 10/1/2023 until 12/31/2024 at 11:59pm CDT. Offer applies to all products listed at \[[https://naturesway.com/collections/explore-natures-way](https://naturesway.com/collections/explore-natures-way)\] using the code at checkout. Valid on merchandise only at naturesway.com. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
 
-15% off your first order with email sign-up
+20% off your first order with email sign-up
 
 Enter promo code from your email at checkout to redeem. Offer limited to one-time use only online at naturesway.com and is non-transferable. Offer applies to merchandise on naturesway.com only and is not valid on applicable taxes or shipping and handling charges. Excludes all Integrative Therapeutics products. No adjustments on previous purchases. Not valid for cash or cash equivalent. Cannot be combined with other offers or discounts. Nature’s Way is not responsible for lost or stolen coupon codes and reserves the right to alter, modify, or discontinue this offer at any time. Additional exclusions may apply. Void where prohibited.  
 
-NATURE’S WAY® VITAMIN N CHALLENGE GIVEAWAY
+15% off your first order with email sign-up
 
-OFFICIAL RULES
-
-**NO PURCHASE NECESSARY TO ENTER OR WIN. YOU MUST HAVE INTERNET ACCESS IN ORDER TO PARTICIPATE.**
-
-By participating in the Nature’s Way (“Nature’s Way”) Vitamin N Challenge Giveaway(“Giveaway”), you unconditionally accept and agree to comply with these Official Rules (“Official Rules”) and the decisions of Nature’s Way Brands, LLC (“Sponsor”) shall be final and binding in all respects.
-
-1. **GIVEAWAY ENTRY PERIOD**. The Giveaway begins at 9:00:00 A.M. Central Time (CT) on July 5, 2024 and ends at 11:59 P.M. CT on July 20, 2024 (“Giveaway Period”).
-
-1. **ELIGIBILITY**. Open to residents of the fifty (50) United States, including the District of Columbia, who are 18 years of age or older at time of entry. Employees of Sponsor, its parent company, affiliates, subsidiaries, advertising and promotion agencies (“Promotion Entities”) and its immediate family members and/or those living in the same household of each are not eligible to participate. Void where prohibited.
-
-1. **ENTRY METHOD**. During the Giveaway Period, to enter to win the Prize (as defined in Section 4), you must log into your Instagram account and (i) like the Giveaway post; (ii) follow @natureswaybrands; and (iii) tell us which prize you are entering for (e.g., Camping Package, Parks Package or Play Package) and tag one (1) friend in the comments using the hashtag #VitaminNGiveaway (the “Entry”). Please note Instagram profile does not need to be public.
-
-All Entries are subject to confirmation by Sponsor. Limit one (1) Entry into the Giveaway per person, per Instagram account. **No purchase or payment of any kind is necessary. Sponsor reserves the right to disqualify any entry for non-compliance with these Official Rules.**
-
-No automated entry devices, bots, and/or other programs and/or software are permitted for entry. Sponsor is not responsible for lost, late illegible, incomplete, invalid, unintelligible, misdirected, technically corrupted or garbled entries, which will be disqualified, or for problems of any kind, whether mechanical, human or electronic. Only Entries that meet the Entry requirements are eligible. 
-
-In the event of a dispute over the identity of an entrant in the Giveaway, participation will be deemed completed by the Authorized Account Holder of the Instagram account provided at the time of participation. “Authorized Account Holder” is defined as the natural person who is assigned to an Instagram account by Instagram. Only fully completed Entries are eligible. 
-
-**This Giveaway is in no way sponsored, endorsed or administered by, or associated with, Instagram LLC.** 
-
-**IMPORTANT: MESSAGE AND DATA RATES MAY APPLY TO USE OF MOBILE PHONE/DEVICE TO PARTICIPATE IN GIVEAWAY. INSTAGRAM IS FREE TO DOWNLOAD AND AVAILABLE FOR iPHONE FROM THE APPLE APPLICATION STORE AND FOR ANDROID FROM THE GOOGLE PLAY STORE.**
-
-1. **PRIZES/APPROXIMATE RETAIL VALUES (ARV)/ODDS**: There are a total of three (3) prizes (each a “Prize”), each Prize consisting of:
-
-**Prize 1 – Parks Package:** One (1) National Parks Pass; one (1) Cotopaxi Backpack; one (1) Face Hammock; one (1) Stanley Water Bottle; one (1) Mad Happy Outdoors Hat; one (1) JBL Clip On Speaker; and one (1) Bombas Hiking Socks. **Total ARV of Prize 1 – Parks Package is $535.95**.
-
-**Prize 2 – Camp Package:** One (1) North Face Tent; one (1) YETI Cooler Bag; one (1) Yard Chair;  one (1) Roasting Skewers; one (1) JBL Clip On Speaker; and one (1)Plant Based Insect Repellent. **Total ARV of Prize 2 – Camp Package is $518.40**.
-
-**Prize 3 – Play Package:** One (1) Recess Pickleball Set; one (1) Spikeball Set; one (1) North Face Travel Tote; one (1) Mad Happy Outdoors Hat; one (1) Ray Bans Sunglasses Gift Card; and one (1) Stanley Water Bottle. **Total ARV of Prize 3 – Play Package is $501.00**.
-
-Limit one (1) Prize per person, per physical mailing address, and per Instagram account. Decisions regarding the invalidity or validity of any Entry will be made at Sponsor’s sole discretion and all such decisions are binding and final. Any potential Prize winner who does not reply to a prize notification with the required information and within the specified time period will be disqualified and an alternate winner may be notified. All applicable federal, state, and local taxes on Prizes are the sole responsibility of Giveaway recipient.
-
-**The total ARV of all Prizes is $1,555.35.**
-
-Odds of winning will depend upon the timing of eligible Entries received during the Giveaway Period and the total number of eligible Entries received during the Giveaway Period.
-
-Three (3) winners will be selected at random on July 26th, 2024. The Prize will be awarded within thirty (30) days of winner confirmation. Sponsor reserves the right to revoke Prize from any winner who it deems, in its sole discretion, may have violated any policy or law, and/or may bring the Sponsor into disrepute. In the event a Prize winner engages in behavior that, as determined by the Sponsor in its sole discretion, is inappropriate, obnoxious, threatening, illegal or that is intended to annoy, abuse, threaten or harass, victimize, degrade, or intimidate any other individual or group of individuals, including, but not limited to, on the basis of religion, race, ethnicity, sexual orientation, gender, age or disability, or that in any way disparages or adversely affects the reputation, image, and/or goodwill of Sponsor or any of their services, products, trademarks, service marks, or logos, Sponsor reserves the right to terminate the Prize, or violates the rights of any other party, including but not limited to intellectual property rights or rights of privacy, publicity or other moral rights, in whole or in part, with no further obligation or compensation whatsoever to such Prize winner. 
-
-1. **WINNER NOTIFICATION**: A potential winner will be notified via Direct Message (“DM”) and will be required to provide his/her/their full name, address, and phone number within three (3) days of receipt of DM. Noncompliance will result in disqualification.
-
-1. **GENERAL**: If the Prize is returned as non-deliverable, the Prize will be forfeited and may be given to another entrant in accordance with these Official Rules. No cash equivalents, substitutions or transfer of Prize permitted except that Sponsor reserves the right to substitute a Prize of equal or greater value in the event that an offered product is unavailable. Subject to all federal, state and local laws/regulations. By accepting a Prize, winner releases and agrees to hold harmless Promotion Entities, including without limitation, their respective directors, employees, officers, and agents, including without limitation, from any and all liability, injury, loss or damage of any kind, including but not limited to personal injury or death, arising from or in connection with participation in the Giveaway, or the awarding, receipt, possession, use or misuse of any Prize and/or respect to participation in any Prize related activity. Neither Promotion Entities, including without limitation nor their employees will have any liability whatsoever for any injuries, losses or damages of any kind caused by any Prize or resulting from acceptance, possession, use and/or misuse of any Prize or participation in the promotion or any Prize-related activities.  Except where prohibited by law, acceptance of a Prize shall be construed as and signify the winner’s agreement and consent that Sponsor may use the winner’s name, voice, likeness and/or information, without limitation, for promotional purposes without further consideration, review, approval or payment, where allowed by law. Winners acknowledge that neither Sponsor nor its agents have made nor are in any manner responsible or liable for any warranty, representation or guarantee, express or implied, in fact or in law, relative to any Prize, including, but not limited to, its quality, mechanical condition or fitness for a particular purpose. Sponsor is not responsible for any typographical or other error in the printing of the offer or in administration of the Giveaway.
-
-1. **LIMITATIONS AND RELEASES**: By participating in the Giveaway, entrants and winners agree to release, indemnify, and hold harmless Sponsor and their respective subsidiaries, affiliates, divisions, partners, representatives, agents, successors, assigns, employees, officers and directors, as well as Instagram LLC and their respective subsidiaries, affiliates, divisions, partners, representatives, agents, successors, assigns, employees, officers and directors (the "**Released Parties**"), from any and all liability, for loss, harm, damage, injury, cost or expense whatsoever, including without limitation, property damage, personal injury (including emotional distress), and/or death, which may occur in connection with preparation for, or participation in, the Giveaway, or possession, acceptance and/or use or misuse of the Prize or participation in any Giveaway\-related or Prize-related activity and for any claims or causes of action based on publicity rights, defamation or invasion of privacy and merchandise delivery. The Released Parties assume no responsibility for any injury or damage to entrants or to any other person's computer, regardless of how caused, relating to or resulting from entering or downloading materials or software in connection with this Giveaway. Entrants and winners acknowledge that Sponsor has neither made nor is in any manner responsible or liable for any warranty, representations or guarantees, express or implied, in fact or in law, relative to any prize or any component thereof, including, but not limited to, express warranties provided by the supplier of the Prize (or any component thereof) or their affiliates.
-
-Promotion Entities are not responsible for lost, late, mutilated or illegible entries nor for electronic transmission errors resulting in omission, interruption, deletion, defect, delay in operations or transmission, theft or destruction or unauthorized access to or alterations of entry materials, or for technical, network, telephone equipment, electronic, computer, hardware or software malfunctions or limitations of any kind, or inaccurate transmissions of or failure to receive entry information by Sponsor on account of technical problems or traffic congestion on the Internet or at any website or any combination thereof. Sponsor reserves the right to modify, extend, suspend, or terminate the Giveaway if it determines, in its sole discretion, that the Giveaway is technically impaired or corrupted or that fraud or technical problems, failures or malfunctions or other causes beyond Sponsor’s control have destroyed or severely undermined or to any degree impaired the integrity, administration, security, proper play and/or feasibility of the Giveaway as contemplated herein. In the event Sponsor is prevented from awarding Prizes or continuing with the Giveaway as contemplated herein by any event beyond its control, Sponsor shall have the right to modify, suspend, or terminate the Giveaway. The invalidity or unenforceability of any provision of these Official Rules shall not affect the validity or enforceability of any other provision. In the event that any provision is determined to be invalid or otherwise unenforceable or illegal, these Official Rules shall otherwise remain in effect and shall be construed in accordance with their terms as if the invalid or illegal provision were not contained herein. Caution: Any attempt by any person to deliberately damage any website or undermine the legitimate operation of the Giveaway is a violation of law and should such an attempt be made, Sponsor reserves the right to seek damages from any such person to the fullest extent of the law.
-
-1. **PRIVACY**: For information about how Sponsor uses your personal information, please see its privacy policy, located at [https://www.naturesway.com/Privacy-Policy](https://www.naturesway.com/Privacy-Policy).
-
-1. **GOVERNING LAW/JURISDICTION**: ALL ISSUES AND QUESTIONS CONCERNING THE CONSTRUCTION, VALIDITY, INTERPRETATION AND ENFORCEABILITY OF THESE OFFICIAL RULES OR THE RIGHTS AND OBLIGATIONS OF ENTRANTS OR SPONSOR IN CONNECTION WITH THE GIVEAWAY SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF WISCONSIN WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW OR CONFLICT OF LAW RULES OR PROVISIONS THAT WOULD CAUSE THE APPLICATION OF ANY OTHER STATE’S LAWS. ENTRANTS AGREE (AND AGREE TO CONFIRM IN WRITING) THAT: (I) ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR CONNECTED WITH THIS GIVEAWAY SHALL BE RESOLVED INDIVIDUALLY, WITHOUT RESORT TO ANY FORM OF CLASS ACTION, AND EXCLUSIVELY BY THE APPROPRIATE COURT OF COMPETENT JURISDICTION TO BE UNENFORCEABLE; (II) ANY AND ALL CLAIMS, JUDGMENTS AND AWARDS SHALL BE LIMITED TO ACTUAL OUT-OF-POCKET COSTS INCURRED, BUT IN NO EVENT ATTORNEYS’ FEES; AND (III) UNDER NO CIRCUMSTANCES WILL ENTRANT BE PERMITTED TO OBTAIN AWARDS FOR AND ENTRANT HEREBY WAIVES ALL RIGHTS TO CLAIM PUNITIVE, INCIDENTAL AND/OR CONSEQUENTIAL DAMAGES AND ANY OTHER DAMAGES, OTHER THAN FOR ACTUAL OUT-OF-POCKET EXPENSES, AND ANY AND ALL RIGHTS TO HAVE DAMAGES MULTIPLIED OR OTHERWISE INCREASED. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE MAY NOT APPLY TO YOU.  THE GIVEAWAY IS SUBJECT TO ALL APPLICABLE FEDERAL, STATE AND LOCAL/MUNICIPAL LAWS AND IS VOID WHERE PROHIBITED BY LAW. IF ANY PROVISION OF THESE OFFICIAL RULES IS FOUND BY ANY COURT OF COMPETENT JURISDICTION TO BE UNENFORCEABLE, ALL OTHER PROVISIONS WILL REMAIN IN FULL FORCE AND EFFECT.
-
-1. **WINNER CONFIRMATION REQUEST**: To obtain the name of the Giveaway winners, send a written request with a self-addressed, stamped envelope to: Attn: Marketing Department, NATURE’S WAY BRANDS, LLC, 100 N 6th St Suite 210C, Minneapolis, MN 55403.
-
-1. **SPONSOR**: NATURE’S WAY BRANDS, LLC, 825 Challenger Drive, Green Bay, WI 54311
-
-1. **SOCIAL MEDIA**: Instagram is a registered trademark of Instagram, LLC. This Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram. Any information provided for the purposes of entry in the Giveaway is provided to Sponsor, and not to Instagram. Any questions, comments or complaints regarding the Giveaway must be directed to the Sponsor and not to Instagram. Instagram and all of their affiliates, directors, officers, agents and employees are not liable for any claims arising out of or in connection with the organization of this Giveaway. However, by entering this Giveaway, each entrant agrees to abide by the terms and conditions of use and other policies or guidelines governing the use of the specific social platform and releases the Sponsor and the Released Parties from and against any damage that could arise from the use of such platforms.
-
-**ABBREVIATED RULES**: \*NO PURCHASE NECESSARY. Subject to the Official Rules available in LINK IN BIO or at https://naturesway.com/pages/legal/#Giveaway. Open to legal residents of 50 United States and District of Columbia who are 18 years old or older at the time of entry. VOID WHERE PROHIBITED OR RESTRICTED BY LAW. Entry period begins at 9:00 a.m. CST on 07/05/2024 and ends at 11:59 p.m. CST on 07/20/2024. Three (3) winners will be selected at random on 7/26/2024 and contacted directly via direct message on Instagram. LIMIT: 1 Entry per entrant. Three (3) prizes in total available each consisting of: (a) Prize 1 – Parks Package: one (1) National Parks Pass; one (1) Cotopaxi Backpack; one (1) Face Hammock; one (1) Stanley Water Bottle; one (1) Mad Happy Outdoors Hat; one (1) JBL Clip On Speaker; and one (1) Bombas Hiking Socks (Total ARV: $535.95); (b) Prize 2 – Camp Package: one (1) North Face Tent; one (1) YETI Cooler Bag; one (1) Yard Chair;  one (1) Roasting Skewers; one (1) JBL Clip On Speaker; and one (1)Plant Based Insect Repellent (Total ARV: $518.40); and (c) Prize 3 – Play Package: one (1) Recess Pickleball Set; one (1) Spikeball Set; one (1) North Face Travel Tote; one (1) Mad Happy Outdoors Hat; one (1) Ray Bans Sunglasses Gift Card; and one (1) Stanley Water Bottle (Total ARV: $501.00). The total ARV of all prizes is $1,555.35. Limits, restrictions, instructions, and prize information are set forth in the Official Rules. Sponsor: Nature’s Way Brands, LLC. 825 Challenger Drive, Green Bay, Wisconsin 543111. Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram.
-
-**SUPER ABBREVIATED RULES**: \*NO PURCHASE NECESSARY. Subject to the Official Rules available in LINK IN BIO or at https://naturesway.com/pages/legal/#Giveaway.Open to legal residents of 50 U.S. & D.C. who are 18 y.o. or older at the time of entry. VOID WHERE PROHIBITED OR RESTRICTED BY LAW. Entry period begins at 9:00 a.m. CST on 7/5/24 & ends at 11:59 CST on 7/20/24. LIMIT: One (1) Entry per entrant. Three (3) prizes in total available as detailed in the Official Rules. The total ARV of all prizes is $1,555.35.  Sponsor: Nature’s Way Brands, LLC. 825 Challenger Drive, Green Bay, WI 54311. Giveaway is in no way sponsored, endorsed or administered by, or associated with Instagram.
+Enter promo code from your email at checkout to redeem. Offer limited to one-time use only online at naturesway.com and is non-transferable. Offer applies to merchandise on naturesway.com only and is not valid on applicable taxes or shipping and handling charges. Excludes all Integrative Therapeutics products. No adjustments on previous purchases. Not valid for cash or cash equivalent. Cannot be combined with other offers or discounts. Nature’s Way is not responsible for lost or stolen coupon codes and reserves the right to alter, modify, or discontinue this offer at any time. Additional exclusions may apply. Void where prohibited.  
 
 This website uses cookies and other tracking technologies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners. If we have detected an opt-out preference signal, then it will be honored. Further information on our policy is available in our [Privacy Policy](https://naturesway.com/pages/legal "Privacy Policy") 
 
@@ -1684,8 +1496,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
