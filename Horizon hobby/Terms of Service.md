@@ -1,11 +1,10 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-Team Spektrum Savings Save up to $70! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------------------
+**New RC Deals Added Daily!** [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwda3a6a2e/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -39,11 +38,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd4f361a6/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw0ceac237/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd4f361a6/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw0ceac237/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -69,7 +68,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf9b9b31f/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw95c25b4d/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwd4f361a6/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw0ceac237/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -77,16 +76,15 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwda3a6a2e/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwff9eb83f/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwda3a6a2e/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
-Team Spektrum Savings Save up to $70! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------------------
+**New RC Deals Added Daily!** [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -102,11 +100,10 @@ My store
         
         [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
         
-        [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf51bf858/header-images/nascar-175x175.jpg)](https://www.horizonhobby.com/nascar/)
+        [![ARRMA RC Cars & Trucks](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw810a5a8d/header-images/ARA21014_Grom_ARRMA-175x175.jpg)](https://www.horizonhobby.com/arrma/)
         
-        * [RC Parts & Accessories](https://www.horizonhobby.com/cars-and-trucks/parts-electronics-and-accessories/)
-        * [RC Radios](https://www.horizonhobby.com/cars-and-trucks/radio-systems/)
-        * [RC Supplies & Accessories](https://www.horizonhobby.com/cars-and-trucks/supplies-and-bench-accessories/)
+        [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw70aec978/header-images/LOS_NASCAR-175x175.jpg)](https://www.horizonhobby.com/nascar/)
+        
         * [By Completion Level](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/)
             * [Ready-To-Run](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/ready-to-run/)
             * [Bind-N-Drive](https://www.horizonhobby.com/cars-and-trucks/by-completion-level/bind-n-drive/)
@@ -126,20 +123,29 @@ My store
             * [Motorcycles](https://www.horizonhobby.com/cars-and-trucks/by-type/motorcycles/)
             * [Drag Cars](https://www.horizonhobby.com/cars-and-trucks/by-type/drag-cars/)
             * [View All](https://www.horizonhobby.com/cars-and-trucks/by-type/)
+        * [Featured Brands](https://www.horizonhobby.com/brands/)
+            * [ARRMA®](https://www.horizonhobby.com/arrma/)
+            * [Axial®](https://www.horizonhobby.com/axial/)
+            * [Losi®](https://www.horizonhobby.com/losi/)
+            * [Team Losi Racing®](https://www.horizonhobby.com/team-losi-racing/)
+            * [View All](https://www.horizonhobby.com/brands/)
+        * [RC Parts & Accessories](https://www.horizonhobby.com/cars-and-trucks/parts-electronics-and-accessories/)
+        * [RC Radios](https://www.horizonhobby.com/cars-and-trucks/radio-systems/)
+        * [RC Supplies & Accessories](https://www.horizonhobby.com/cars-and-trucks/supplies-and-bench-accessories/)
         * [View All](https://www.horizonhobby.com/cars-and-trucks/)
         
-        [![Vehicle Finder](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwda1e5741/header-images/vehicle-finder-175x175.jpg)](https://www.horizonhobby.com/hh-best-rc-finder.html)
+        [![ARRMA RC Cars & Trucks](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw810a5a8d/header-images/ARA21014_Grom_ARRMA-175x175.jpg)](https://www.horizonhobby.com/arrma/)
         
         [![NASCAR RC Race Car](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf51bf858/header-images/nascar-175x175.jpg)](https://www.horizonhobby.com/nascar/)
         
-    * [Motorcycles](https://www.horizonhobby.com/cars-and-trucks/by-type/motorcycles/ "Shop RC Motorcycles")
+    * [Motorcycles](https://www.horizonhobby.com/losi-promoto-mx-rc-motorcycle/ "Shop Losi Promoto RC Motorcycles")
     * [Aircraft](https://www.horizonhobby.com/airplanes/ "Shop RC Planes")
         
         [![Airplane by Skill Level](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwc3c88823/header-images/air-skill-level-175x175-04.jpg)](https://www.horizonhobby.com/aircraft-skill-levels/)
         
-        [![Micro Draco](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf275e458/header-images/air-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/micro-draco-800mm-bnf-basic-with-as3x-and-safe-select/EFL13550.html)
+        [![Image or RC Airplane by E-flite](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw7f6e98cd/header-images/EFL05050-aircraft-nav-175x175.jpg)](https://www.horizonhobby.com/e-flite-1/)
         
-        [![InFusion 120](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw275ddf13/header-images/air-nav-3-175x175-02.jpg)](https://www.horizonhobby.com/product/infusion-120-bnf-basic-with-as3x-and-safe/BLH6950.html)
+        [![Image of RC Helicopter by Blade](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw5d1abfec/header-images/BLH13075-aircraft-nav-175x175.jpg)](https://www.horizonhobby.com/blade-2/)
         
         * [Learn to Fly Here](https://www.horizonhobby.com/airplanes/learn-to-fly-here/)
         * [Aircraft Simulators](https://www.horizonhobby.com/airplanes/radio-systems/simulators/)
@@ -172,15 +178,22 @@ My store
             * [Bind-N-Fly](https://www.horizonhobby.com/helicopters/by-completion-level/bind-n-fly/)
             * [Kits](https://www.horizonhobby.com/helicopters/by-completion-level/kits/)
             * [View All](https://www.horizonhobby.com/helicopters/by-completion-level/)
+        * [Featured Brands](https://www.horizonhobby.com/brands/)
+            * [E-flite®](https://www.horizonhobby.com/e-flite-1/)
+            * [HobbyZone®](https://www.horizonhobby.com/hobbyzone/)
+            * [RealFlight®](https://www.horizonhobby.com/realflight/)
+            * [Blade®](https://www.horizonhobby.com/blade-2/)
+            * [Hangar 9®](https://www.horizonhobby.com/hangar-9/)
+            * [View All](https://www.horizonhobby.com/brands/)
         * [View All](https://www.horizonhobby.com/airplanes/)
         
-        [![Decathlon RJG](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw15af8007/header-images/air-nav-1-175x175.jpg)](https://www.horizonhobby.com/product/decathlon-rjg-1.2m-bnf-basic-with-as3x-and-safe-select/EFL09250.html)
+        [![Image of RC Airplane by E-flite](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw7f6e98cd/header-images/EFL05050-aircraft-nav-175x175.jpg)](https://www.horizonhobby.com/e-flite-1/)
         
-        [![InFusion 120](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw275ddf13/header-images/air-nav-3-175x175-02.jpg)](https://www.horizonhobby.com/product/infusion-120-bnf-basic-with-as3x-and-safe/BLH6950.html)
+        [![Image of RC Helicopter by Blade](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw5d1abfec/header-images/BLH13075-aircraft-nav-175x175.jpg)](https://www.horizonhobby.com/blade-2/)
         
     * [Boats](https://www.horizonhobby.com/boats/ "Shop RC Boats")
         
-        [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3b960396/header-images/boat-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/1-6-24-jetstream-jet-boat-rtr/PRB08051.html)
+        [![Image of Pro Boat Logo](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwb7f73b23/header-images/PRB08052-boats-nav-175x175.jpg)](https://www.horizonhobby.com/pro-boat/)
         
         [![image asset3](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw5faa3dfd/header-images/boat-nav-3-175x175.jpg)](https://www.horizonhobby.com/product/jet-jam-v2-12-self-righting-pool-racer-brushed-rtr/PRB08031V2.html)
         
@@ -202,13 +215,13 @@ My store
             * [View All](https://www.horizonhobby.com/boats/parts-electronics-and-accessories/)
         * [View All](https://www.horizonhobby.com/boats/)
         
-        [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3b960396/header-images/boat-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/1-6-24-jetstream-jet-boat-rtr/PRB08051.html)
+        [![Image of Pro Boat Logo](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwb7f73b23/header-images/PRB08052-boats-nav-175x175.jpg)](https://www.horizonhobby.com/pro-boat/)
         
     * [Radios](https://www.horizonhobby.com/radios/ "Shop RC Radios")
         
-        [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw80259fc8/header-images/SPMR7100-radios-nav-2-175x175.jpg)](https://www.horizonhobby.com/product/nx7e-14-channel-dsmx-transmitter-only/SPMR7110.html)
+        [![Image of SPM Certified Used logo](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
-        [![image asset3](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw5c4623ad/header-images/SPMR6420-radios-nav-175x175.jpg)](https://www.horizonhobby.com/product/ixsr-6-channel-dsmr-surface-transmitter-with-sr515-receiver/SPM6420.html)
+        [![Image of Spektrum Radio](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
         
         * [Aircraft Radios](https://www.horizonhobby.com/radios/aircraft/)
             * [Transmitters](https://www.horizonhobby.com/radios/aircraft/transmitters/)
@@ -234,13 +247,48 @@ My store
         * [Spektrum Certified Used](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         * [View All](https://www.horizonhobby.com/radios/)
         
-        [![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw5c4623ad/header-images/SPMR6420-radios-nav-175x175.jpg)](https://www.horizonhobby.com/product/ixsr-6-channel-dsmr-surface-transmitter-with-sr515-receiver/SPM6420.html)
-        
-    * [Parts & Accessories](https://www.horizonhobby.com/horizon-hobby-accessories/ "Shop RC Parts, Supplies, and Upgrades")
-        
         [![SPM Certified Used](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
-        [![Fan Gear Page](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfe00ab0f/header-images/fan-gear-menu-175x175.png)](https://www.horizonhobby.com/fan-gear/)
+        [![Image of Spektrum Radio](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
+        
+    * [Batteries & Chargers](https://www.horizonhobby.com/batteries-and-chargers/ "Shop RC Batteries and Chargers")
+        
+        [![Spektrum Smart Battery and Charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf99a9108/header-images/SPMX-Smart-Logo-175x175.jpg)](https://www.horizonhobby.com/spektrum-smart-technology/)
+        
+        [![Image of battery and charger from Spektrum](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfcfd6bd9/header-images/SPM-SMART-batt-charger-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum-accessories/)
+        
+        * [RC Car, Truck & Boat Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/)
+            * [2S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/2s-lipo-batteries/)
+            * [3S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/3s-lipo-batteries/)
+            * [4S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/4s-lipo-batteries/)
+            * [NiMH Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/nimh-batteries/)
+            * [View All](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/)
+        * [RC Aircraft Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/)
+            * [1S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/1s-lipo-batteries/)
+            * [2S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/2s-lipo-batteries/)
+            * [3S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/3s-lipo-batteries/)
+            * [4S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/4s-lipo-batteries/)
+            * [6S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/4s-lipo-batteries/)
+            * [View All](https://www.horizonhobby.com/batteries-and-chargers/rc-aircraft-batteries/)
+        * [RC Battery Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/)
+            * [NiMH Battery Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/nimh-chargers/)
+            * [LiPo Battery Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/lipo-chargers/)
+            * [1 Port Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/1-port-chargers/)
+            * [2 Port Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/2-port-chargers/)
+            * [View All](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/)
+        * [View All](https://www.horizonhobby.com/batteries-and-chargers/)
+        * [RC Battery & Charger Bundles](https://www.horizonhobby.com/spektrum-powerstage-bundles/)
+        * [RC Battery & Charger Storage](https://www.horizonhobby.com/batteries-and-chargers/battery-storage/)
+        * [RC Battery Checkers](https://www.horizonhobby.com/batteries-and-chargers/battery-checkers/)
+        * [RC Battery Adapters](https://www.horizonhobby.com/batteries-and-chargers/battery-adapters/)
+        
+        [![Spektrum Smart Battery and Charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf99a9108/header-images/SPMX-Smart-Logo-175x175.jpg)](https://www.horizonhobby.com/spektrum-smart-technology/)
+        
+        [![Image of battery and charger from Spektrum](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfcfd6bd9/header-images/SPM-SMART-batt-charger-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum-accessories/)
+        
+    * [Parts](https://www.horizonhobby.com/horizon-hobby-accessories/ "Shop RC Parts, Supplies, and Upgrades")
+        
+        [![SPM Certified Used](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
         * [Airplane Accessories](https://www.horizonhobby.com/airplanes/parts-electronics-and-accessories/)
             * [Electronic Speed Controls](https://www.horizonhobby.com/airplanes/parts-electronics-and-accessories/electronic-speed-controls/)
@@ -278,85 +326,10 @@ My store
             * [Paints](https://www.horizonhobby.com/horizon-hobby-accessories/all-paints/)
             * [Tools](https://www.horizonhobby.com/horizon-hobby-accessories/all-tools/)
             * [View All](https://www.horizonhobby.com/horizon-hobby-accessories/)
-        * [All Radios](https://www.horizonhobby.com/radios/)
-        * [Spektrum Certified Used](https://www.horizonhobby.com/spektrum-certified-used-transmitters/)
-        * [Aircraft Radios](https://www.horizonhobby.com/radios/aircraft/)
-            * [Transmitters](https://www.horizonhobby.com/radios/aircraft/transmitters/)
-            * [Receivers](https://www.horizonhobby.com/radios/aircraft/receivers/)
-            * [Servos](https://www.horizonhobby.com/radios/aircraft/servos/)
-            * [View All](https://www.horizonhobby.com/radios/aircraft/)
-        * [Surface Radios](https://www.horizonhobby.com/radios/surface/)
-            * [Transmitters](https://www.horizonhobby.com/radios/surface/transmitters/)
-            * [Receivers](https://www.horizonhobby.com/radios/surface/receivers/)
-            * [Servos](https://www.horizonhobby.com/radios/surface/servos/)
-            * [View All](https://www.horizonhobby.com/radios/surface/)
-        
-        [![SPM Certified Used](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
         [![Fan Gear Page](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfe00ab0f/header-images/fan-gear-menu-175x175.png)](https://www.horizonhobby.com/fan-gear/)
         
-    * [Brands](https://www.horizonhobby.com/brands/ "Shop our Best Brands")
-        
-        *  [![Arrma](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw6c9ebb34/brands/logos/ara_logo.png)](https://www.horizonhobby.com/arrma/)[ARRMA](https://www.horizonhobby.com/arrma/)
-        *  [![Athearn](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwb1049338/brands/logos/ath_logo.png)](https://www.horizonhobby.com/athearn/)[Athearn](https://www.horizonhobby.com/athearn/)
-        
-        *  [![Axial](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwdfbccfa9/brands/logos/axi_logo.png)](https://www.horizonhobby.com/axial/)[Axial](https://www.horizonhobby.com/axial/)
-        *  [![Pro-Line](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw40eaac8a/brands/logos/pro_logo.png)](https://www.horizonhobby.com/pro-line-racing/)[Pro-Line](https://www.horizonhobby.com/pro-line-racing/)
-        
-        *  [![Blade](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw4c1ad6ff/brands/logos/blh_logo.png)](https://www.horizonhobby.com/blade-2/)[Blade](https://www.horizonhobby.com/blade-2/)
-        *  [![RealFlight](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd2d7c46e/brands/logos/rfl_logo.png)](https://www.horizonhobby.com/realflight/)[RealFlight](https://www.horizonhobby.com/realflight/)
-        
-        *  [![E-flite](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw49980496/brands/logos/efl_logo.png)](https://www.horizonhobby.com/e-flite-1/)[E-flite](https://www.horizonhobby.com/e-flite-1/)
-        *  [![TLR](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwafa2b892/brands/logos/tlr_logo.png)](https://www.horizonhobby.com/team-losi-racing/)[TLR](https://www.horizonhobby.com/team-losi-racing/)
-        
-        *  [![HobbyZone](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfc19fb69/brands/logos/hbz_logo.png)](https://www.horizonhobby.com/hobbyzone/)[HobbyZone](https://www.horizonhobby.com/hobbyzone/)
-        *  [![Trinity](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw858bb636/brands/logos/tri_logo.png)](https://www.horizonhobby.com/trinity-racing/)[Trinity](https://www.horizonhobby.com/trinity-racing/)
-        
-        *  [![Spektrum](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwe4ea049a/brands/logos/spm_logo.png)](https://www.horizonhobby.com/spektrum/)[Spektrum](https://www.horizonhobby.com/spektrum/)
-        
-        *  [![Losi](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwa1d70aaf/brands/logos/los_logo.png)](https://www.horizonhobby.com/losi/)[Losi](https://www.horizonhobby.com/losi/)
-        
-        *  [![Pro Boat](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd32e8b76/brands/logos/prb_logo.png)](https://www.horizonhobby.com/pro-boat/)[Pro Boat](https://www.horizonhobby.com/pro-boat/)
-        
-        *  [![AKA](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwe7fa4d02/brands/logos/aka_logo.png)](https://www.horizonhobby.com/aka-products-inc./)[AKA](https://www.horizonhobby.com/aka-products-inc./)
-        * [View All Brands](https://www.horizonhobby.com/brands/)
-        
-        [VIEW BRANDS](https://www.horizonhobby.com/brands/)
-        
-    [Part Finder](javascript:void(0) "Find Compatible Parts for your Product")* [Trains](https://www.horizonhobby.com/trains/ "Shop Model Trains")
-        
-        [![HO Scale Trains](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwaa8a7469/header-images/train-nav-1-175x175.jpg)](https://www.horizonhobby.com/trains/ho-scale/)
-        
-        [![N Scale Trains](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd0bff7a9/header-images/train-nav-2-175x175.jpg)](https://www.horizonhobby.com/trains/n-scale/)
-        
-        * [HO Scale Trains](https://www.horizonhobby.com/trains/ho-scale/)
-            * [Locomotives](https://www.horizonhobby.com/trains/ho-scale/locomotives/)
-            * [Freight Cars](https://www.horizonhobby.com/trains/ho-scale/freight-cars/)
-            * [Passenger Cars](https://www.horizonhobby.com/trains/ho-scale/passenger-cars/)
-            * [Cabooses](https://www.horizonhobby.com/trains/ho-scale/cabooses/)
-            * [Couplers](https://www.horizonhobby.com/trains/ho-scale/couplers/)
-            * [Parts, Trucks & Wheels](https://www.horizonhobby.com/trains/ho-scale/parts-trucks-and-wheels/)
-            * [Scenery & Accessories](https://www.horizonhobby.com/trains/ho-scale/scenery-and-accessories/)
-            * [Vehicles & Containers](https://www.horizonhobby.com/trains/ho-scale/vehicles-and-containers/)
-            * [View All HO Trains](https://www.horizonhobby.com/trains/ho-scale/)
-        * [N Scale Trains](https://www.horizonhobby.com/trains/n-scale/)
-            * [Locomotives](https://www.horizonhobby.com/trains/n-scale/locomotives/)
-            * [Freight Cars](https://www.horizonhobby.com/trains/n-scale/freight-cars/)
-            * [Passenger Cars](https://www.horizonhobby.com/trains/n-scale/passenger-cars/)
-            * [Cabooses](https://www.horizonhobby.com/trains/n-scale/cabooses/)
-            * [Couplers](https://www.horizonhobby.com/trains/n-scale/couplers/)
-            * [Parts, Trucks & Wheels](https://www.horizonhobby.com/trains/n-scale/parts-trucks-and-wheels/)
-            * [Scenery & Accessories](https://www.horizonhobby.com/trains/n-scale/scenery-and-accessories/)
-            * [Vehicles & Containers](https://www.horizonhobby.com/trains/n-scale/vehicles-and-containers/)
-            * [View All N Trains](https://www.horizonhobby.com/trains/n-scale/)
-        * [Train Parts & Accessories](https://www.horizonhobby.com/trains/parts-and-accessories/)
-        * [Train Scenery, Supplies & More](https://www.horizonhobby.com/trains/scenery-supplies-and-more/)
-        
-        [![HO Scale Trains](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwaa8a7469/header-images/train-nav-1-175x175.jpg)](https://www.horizonhobby.com/trains/ho-scale/)
-        
-        [![N Scale Trains](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd0bff7a9/header-images/train-nav-2-175x175.jpg)](https://www.horizonhobby.com/trains/n-scale/)
-        
-    * [Sale](https://www.horizonhobby.com/horizon-hobby-rc-sale/ "Shop RC Sale Items")
+    [Part Finder](javascript:void(0) "Find Compatible Parts for your Product")* [Sale](https://www.horizonhobby.com/horizon-hobby-rc-sale/ "Shop RC Sale Items")
     
 
 * * [Our Story](https://www.horizonhobby.com/hh-this-is-horizon-hobby.html)
@@ -598,6 +571,7 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 Shop
 
 * [New Releases](https://www.horizonhobby.com/new-releases/?cp_source=footer&cp_medium=shop "Go to New Releases")
+* [Our Brands](https://www.horizonhobby.com/brands/?cp_source=footer&cp_medium=shop "Go to Horizon Hobby Brands Page")
 * [Spektrum Certified Used](https://www.horizonhobby.com/spektrum-certified-used-transmitters/?cp_source=footer&cp_medium=shop "Go to Spektrum Certified Used")
 * [Fan Gear](https://www.horizonhobby.com/fan-gear/?cp_source=footer&cp_medium=shop "Go to Fan Gear")
 * [E-Gift Card](https://www.horizonhobby.com/product/e-gift-card-emailed/HHDGIFT.html?cp_source=footer&cp_medium=shop)
@@ -605,6 +579,7 @@ Shop
 * [RC Club Bonus Points](https://www.horizonhobby.com/rc-club-bonus-points/?cp_source=footer&cp_medium=shop "Go to Bonus Points")
 * [Shop Local](https://www.horizonhobby.com/stores?showMap=true&horizontalView=true&isForm=true?cp_source=footer&cp_medium=shop "Go to Shop Local")
 * [Find a Wishlist](https://www.horizonhobby.com/wishlist/search?cp_source=footer&cp_medium=shop "Go to Wishlist Search")
+* [Trains](https://www.horizonhobby.com/trains/?cp_source=footer&cp_medium=shop "Go to Fan Gear")
 
 Support
 
