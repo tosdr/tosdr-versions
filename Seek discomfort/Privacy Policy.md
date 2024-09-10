@@ -4,8 +4,9 @@
 
 * [SHOP](https://www.seekdiscomfort.com/collections/all)
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
+* [SALE](https://www.seekdiscomfort.com/collections/sale)
 
-[![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=500)](https://www.seekdiscomfort.com/ "Seek Discomfort")
+[![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=420)](https://www.seekdiscomfort.com/ "Seek Discomfort")
 
 [Account](https://www.seekdiscomfort.com/account/login) [Search](https://www.seekdiscomfort.com/search)
 
@@ -21,10 +22,13 @@ GO TO EUROPEAN SITE
     * [New Arrivals](https://www.seekdiscomfort.com/collections/new-products)
     * [Tees](https://www.seekdiscomfort.com/collections/t-shirts)
     * [Fleece](https://www.seekdiscomfort.com/collections/hoodies-and-sweaters)
+    * [Bottoms](https://www.seekdiscomfort.com/collections/bottoms)
+    * [Outerwear](https://www.seekdiscomfort.com/collections/outerwear)
     * [Headwear](https://www.seekdiscomfort.com/collections/hats)
     * [Accessories](https://www.seekdiscomfort.com/collections/accessories)
     
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
+* [SALE](https://www.seekdiscomfort.com/collections/sale)
 * [GO TO EUROPEAN SITE](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
 [](#)
@@ -94,7 +98,7 @@ Are you sure you want your personal data to be deleted? Cancel Submit request
 
 SEEK
 
-* [About Us](https://www.seekdiscomfort.com/pages/our-story)
+* [About](https://www.seekdiscomfort.com/pages/about)
 * [Collections](https://www.seekdiscomfort.com/pages/collection-list)
 
 CORPORATE
@@ -108,8 +112,9 @@ CUSTOMER
 * [Contact Us](https://www.seekdiscomfort.com/pages/contact-us)
 * [FAQ](https://www.seekdiscomfort.com/pages/faq)
 * [Accessibility](https://www.seekdiscomfort.com/pages/accessibility)
+* [Track your order](https://www.seekdiscomfort.com/apps/parcelpanel)
 
-![](//www.seekdiscomfort.com/cdn/shop/files/SD1.png?v=1715789258&width=300)
+[![](//www.seekdiscomfort.com/cdn/shop/files/SD1.png?v=1715789258&width=300)](https://www.seekdiscomfort.com/pages/spark-adventure)
 
 * [Facebook](https://www.facebook.com/seekdiscomfort "Seek Discomfort on Facebook")
 * [Instagram](https://www.instagram.com/seek.discomfort "Seek Discomfort on Instagram")
