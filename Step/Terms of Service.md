@@ -4,23 +4,11 @@ Benefits
 
 * [Build Credit](https://www.step.com/build-credit)
 * [Save](https://www.step.com/save)
-* [Move Money](https://www.step.com/move-money)
-* [Invest](https://www.step.com/investing)
-* [Rewards](https://www.step.com/blackcard)
-
-[Money 101](https://www.step.com/education)
-
-Families
-
-* [Overview](https://www.step.com/for-parents)
-* [Credit History](https://www.step.com/credit-history)
-* [Savings](https://www.step.com/savings)
-* [Allowance](https://www.step.com/allowance)
+* [Direct Deposit](https://www.step.com/direct-deposit)
 * [Rewards](https://www.step.com/rewards)
-* [Convenience](https://www.step.com/convenience)
-* [Investing](https://www.step.com/investing-for-parents)
+* [Invest](https://www.step.com/investing)
 
-[Step Black](https://www.step.com/blackcard)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
+[Money 101](https://www.step.com/education)[Families](https://www.step.com/families)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
 
 [Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
 
@@ -443,9 +431,13 @@ Miscellaneous
     
 * [Limited-Time Welcome Offer](https://www.step.com/policies/policies.welcomeoffer)
 
-### get money smart. get ahead
+Step logoStep logo with colored accents and white text
 
-[Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
+### Banking That Builds Credit
+
+(US) **+1**
+
+Get Started
 
 Company
 
@@ -482,8 +474,6 @@ Support
 [](https://discord.com/invite/step "Discord")
 
 [](https://youtube.com/c/Stepmobile "YouTube")
-
-Step logoStep logo with colored accents and white text
 
 * Step is a financial technology company, not a bank. Banking services provided by Evolve Bank & Trust, Member FDIC. The Step Visa Card is issued by Evolve Bank & Trust pursuant to a license from Visa U.S.A., Inc. Visa is a registered trademark of Visa International Service Association.
 
