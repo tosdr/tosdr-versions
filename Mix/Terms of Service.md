@@ -6,7 +6,7 @@ Get the app
 
 [Contact support](mailto:support@mix.com)[Terms](https://mix.com/tos)[Privacy](https://mix.com/privacy)
 
-© 2023 - Mix is an [Expa](https://expa.com/) company
+© 2024 - Mix is an [Expa](https://expa.com/) company
 
 #### Terms of Service
 
@@ -244,4 +244,4 @@ These Terms of Service constitute the entire agreement between you and Mix with 
 
 [Contact](mailto:support@mix.com) [Terms](https://mix.com/tos)[Privacy](https://mix.com/privacy)
 
-© 2022 - Mix is an [Expa](https://expa.com/) company
+© 2024 - Mix is an [Expa](https://expa.com/) company
