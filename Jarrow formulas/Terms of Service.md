@@ -1,5 +1,3 @@
-             
-
 ![Jarrow Formulas Supplements](//jarrow.com/cdn/shop/files/Jarrow_PopUp_Img_600x.png?v=1693434059)
 
 ### Welcome to Jarrow Formulas!
@@ -319,16 +317,6 @@ SHOP BY* [Benefit](#)
         [**(1)**](#opinew-plugin)
         
         $20.99
-        
-        [![Jarrow Formulas Inositol , 8 oz (227 g) Powder](//jarrow.com/cdn/shop/files/INOS8Z_032223_Front_600x.png?v=1695236670)](https://jarrow.com/products/inositol-8-oz-227-g-powder)
-        
-        [General Wellness](https://jarrow.com/collections/general-wellness)
-        
-        ###### [Inositol - 600mg Powder](https://jarrow.com/products/inositol-8-oz-227-g-powder)
-        
-        [](#opinew-plugin)
-        
-        Sold out
         
         BEST SELLER
         
