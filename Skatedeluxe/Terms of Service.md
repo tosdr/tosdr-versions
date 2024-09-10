@@ -6,15 +6,15 @@ cookie-whitecookie-white
 
 [Customer service](https://www.skatedeluxe.com/en/customer-service)
 
-[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Withdrawal and Return](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
+[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
 
-![](../static/images/icons/phone-white.svg)
+![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
-0800 086 8664 Free Hotline Mon. - Fri. 8-18 | Sat. 9-13
+0800 0700 440 Free Hotline (DE, AT, CH) Mon. - Fri. 9-19 | Sat. 10-14
 
 | English
 
-United Kingdom | English
+Germany | English
 
 Country shops
 
@@ -175,7 +175,7 @@ Search result for "%search\_keywords%"
 
 ### View new items in the shop instead:
 
-[SKATE SHOP](https://www.skatedeluxe.com/en)
+[](https://www.skatedeluxe.com/en)
 
 [Brands](https://www.skatedeluxe.com/en/all-brands "Brands")
 
@@ -249,7 +249,7 @@ Our offer is directed solely to direct end consumers. Purchasing products for re
 
 #### 4\. Delivery and Shipping Costs
 
-You will receive your order in one package if possible. We reserve the right to deliver your order in multiple packages if it contains bulky products. Find all information about shipping costs for your delivery here: [Shipping Costs](https://www.skatedeluxe.com/en/shipping)
+You will receive your order in one package if possible. We reserve the right to deliver your order in multiple packages if it contains bulky products. This is no disadvantage for you since we pay for the additional shipping costs. Find all information about shipping costs for your delivery here: [Shipping Costs](https://www.skatedeluxe.com/en/shipping)
 
 #### 5\. Payment Options
 
@@ -259,20 +259,35 @@ You can choose from different payment methods: Pay in advance (money transfer), 
 
 We consider obvious errors, translation errors, mistakes in writing, misprints or calculation errors occurring while offering products or processing orders to be non-binding.
 
-#### 7\. Return policy
+#### 7\. Instructions on cancellations
 
-We grant you a voluntary right to return any merchandise within 30 days under the following conditions:
+**Right of Cancellation**  
+  
+Customers from within the EU have the right to cancel this contract within 30 days without providing a reason. For customers from outside the EU we grant a voluntary right to return any merchandise within 30 days.  
+  
+The cancellation period will expire after 30 days, starting from the day you, or the recipient, received the order in its entirety.  
+  
+To exercise the right of cancellation, you must inform us (skatedeluxe GmbH, Am Heuberg 25, 37308 Schimberg, Germany, phone number: +49 3641 79 97 250, e-mail address: [service.en@skatedeluxe.com](mailto:service.en@skatedeluxe.com)) of your decision to withdraw from this contract by means of an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the attached [withdrawal form template](https://www.skatedeluxe.com/images/content/widerruf/com/withdrawal-form-com-en.pdf), but it is not obligatory.  
+  
+To meet the cancellation deadline, it is sufficient if you communicate your intentions to exercise your right of revocation before the cancellation period has expired.  
+  
+**Effects of Cancellation**  
+  
+EU-countries: If you withdraw from this contract, we shall reimburse all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event, no later than 14 days from the date on which we are informed of your decision to withdraw from this contract.
 
-You may cancel the contract by returning the merchandise within 30 days after receipt. Punctual dispatch suffices to comply with the time limit. To exercise the right to return, it is required that the whole and undamaged merchandise has only been tried on, as it would be in a retail store. We ask you to return the merchandise in its original wrapping using the free return label that we add to each package.
+NON-EU-countries: In case of a correct exercise of the right of cancellation we refund payments already made  (except shipping costs) within 10 days after receipt of the merchandise.
 
-We will cover the cost of returning the goods if you use the return documents provided by us. If you do not have a prepaid return label, please contact our [customer service.](https://www.skatedeluxe.com/en/contact)
+The reimbursement will be carried out using the same means of payment used for the initial transaction unless expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement. We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever happens first.
 
-You will receive the return documents after registering your return online. [More info on returns.](https://www.skatedeluxe.com/en/return)
-
-**Consequences of return**: In case of a correct exercise of the right of cancellation we refund payments already made (except shipping costs) within 10 days after receipt of the merchandise.
-
-**Exclusion of return policy**  
-The right to return does not apply to contracts:
+You shall send back the goods or hand them over to us, without undue delay and no later than 14 days after you communicate to us your withdrawal from this contract. The deadline is met if you send back the goods before the period of 30 days has expired.  
+  
+We cover the costs of returning the goods for delivery to the following areas: all EU-countries, Switzerland, Liechtenstein and the United Kingdom. The return of the goods is free of charge if you use the return shipping label provided by us. For deliveries to all other countries, you must cover the costs of the return shipment and any taxes and customs duties incurred. [More info on returns.](https://www.skatedeluxe.com/en/return)  
+  
+You are only liable for any diminished value of the goods resulting from handling of the goods other than what is necessary to establish their nature, characteristics and function.  
+  
+  
+**Exclusions of the Right of Cancellation**  
+The right of cancellation does not apply to contracts:
 
 * if the delivered goods are newspapers, periodicals or magazines with the exception of subscription contracts,
 * if the goods are not prefabricated and whose production is based on individual selection or provision by the consumer, or if the goods are clearly tailored to the personal needs of the consumer,
@@ -319,7 +334,7 @@ We would like to point out that entered data is processed and stored using elect
 
 The law of the Federal Republic of Germany applies excluding the CISG (United Nations Convention on Contracts for the International Sale of Goods), unless mandatory international consumer law dictates otherwise.
 
-**Last updated: 12.04.2023**
+**Last updated: 23.08.2021**
 
 [Legal Notice](https://www.skatedeluxe.com/en/legal-notice)
 
@@ -355,3 +370,9 @@ Apply selection
 By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/privacy).  
 
 Accept all
+
+### Sorry - we currently don't ship to United States!
+
+Unfortunately, we can't accept orders from United States. We only ship within Europe and to Japan.
+
+ Close
