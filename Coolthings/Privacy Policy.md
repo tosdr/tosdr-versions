@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/8bitdo-charging-dock-for-xbox-wireless-controllers-one-series/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
     
-    [8BitDo Charging Dock for Xbox Makes Your Gamepad Rechargeable at an Affordable Price](https://www.coolthings.com/8bitdo-charging-dock-for-xbox-wireless-controllers-one-series/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-neo-crams-djis-smart-tech-in-a-compact-toy-sized-drone/)
     
-    [Hisense CanvasTV Offers a Cheaper Alternative to Samsung’s Frame TV](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [DJI Neo Crams DJI’s Smart Tech in a Compact Toy-Sized Drone](https://www.coolthings.com/dji-neo-crams-djis-smart-tech-in-a-compact-toy-sized-drone/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/acer-nitro-blaze-7-gaming-handheld-ryzen-ai-chips/)
     
-    [ThermoWorks RFX Meat Lets You Monitor Your Meat on the Grill Wherever You Are](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Acer Nitro Blaze 7 Gaming Handheld Combines Solid Specs with AI Processing Capabilities](https://www.coolthings.com/acer-nitro-blaze-7-gaming-handheld-ryzen-ai-chips/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/esr-geo-wallet-with-apple-find-my-tech-slim-profile/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
     
-    [ESR Geo Wallet Maintains Slim Profile By Integrating Apple’s Find My Tech, No AirTags Needed](https://www.coolthings.com/esr-geo-wallet-with-apple-find-my-tech-slim-profile/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Steam Deck Cases to Protect Your Gaming Handheld](https://www.coolthings.com/the-best-steam-deck-cases-to-protect-your-gaming-handheld/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/bang-olufsen-beoplay-h100-wireless-anc-headphones-put-luxury-and-longevity/)
     
-    [The Best Stuff Sacks to Help You Pack for Your Next Adventure](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Bang & Olufsen Beoplay H100 ANC Headphones Put Luxury and Longevity at the Forefront](https://www.coolthings.com/bang-olufsen-beoplay-h100-wireless-anc-headphones-put-luxury-and-longevity/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-staple-guns-for-upholstery-roofing-and-more/)
     
-    [The Best Beach Totes for Hauling Your Summer Gear Around](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Staple Guns for Upholstery, Roofing, and More](https://www.coolthings.com/the-best-staple-guns-for-upholstery-roofing-and-more/)
+    ------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,20 +95,20 @@
     
     [See All](https://www.coolthings.com/house/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-office-chairs-to-keep-you-comfortable-during-desk-work/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-cooling-sheets-to-help-you-sleep-better-during-hot-summer-nights/)
     
-    [The Best Office Chairs to Keep You Comfortable During Desk Work](https://www.coolthings.com/the-best-office-chairs-to-keep-you-comfortable-during-desk-work/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Cooling Sheets to Help You Sleep Better During Hot Summer Nights](https://www.coolthings.com/the-best-cooling-sheets-to-help-you-sleep-better-during-hot-summer-nights/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/roto-vr-explorer-motorized-chair-vr-motion-platform/)
     
-    [Hisense CanvasTV Offers a Cheaper Alternative to Samsung’s Frame TV](https://www.coolthings.com/hisense-canvastv-cheaper-alternative-samsung-frame-tv-artwork/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Roto VR Explorer Uses a Motorized Chair as VR Motion Platform](https://www.coolthings.com/roto-vr-explorer-motorized-chair-vr-motion-platform/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nanoleaf-x-fantaqi-expo-smart-led-display-case-synchronize-stackable/)
     
-    [ThermoWorks RFX Meat Lets You Monitor Your Meat on the Grill Wherever You Are](https://www.coolthings.com/thermoworks-rfx-meat-probe-thermometer-wireless-monitor-over-wifi/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Nanoleaf x Fantaqi EXPO Smart LED Display Case Lets You Sync the Lighting for up to 300 Cases](https://www.coolthings.com/nanoleaf-x-fantaqi-expo-smart-led-display-case-synchronize-stackable/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
@@ -120,20 +120,20 @@
     
     [See All](https://www.coolthings.com/vehicles/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
+    
+    [2025 Can-Am Canyon Brings the Outfit’s Three-Wheel Moto Design to the Rugged Off-Road](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/segway-ninebot-ekickscooter-c2-lite-electric-scooter-for-kids-power-assist-mode/)
+    
+    [Segway Ninebot eKickScooter C2 Lite Brings Unique Assist Mode to Electric Scooters](https://www.coolthings.com/segway-ninebot-ekickscooter-c2-lite-electric-scooter-for-kids-power-assist-mode/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
     
     [Solar Hyperion Electric Scooter Offers 65 Mph Top Speed and 70-Mile Range](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/land-rover-defender-octa-off-road-onroad-suv/)
-    
-    [Land Rover Defender Octa Pairs Legendary Off-Road Prowess with On-Road Sport SUV Chops](https://www.coolthings.com/land-rover-defender-octa-off-road-onroad-suv/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-recreational-kayaks-for-novice-paddlers/)
-    
-    [The Best Recreational Kayaks for Novice Paddlers](https://www.coolthings.com/the-best-recreational-kayaks-for-novice-paddlers/)
-    --------------------------------------------------------------------------------------------------------------------------------
     
 * [CLAD](https://www.clad.com/ "Men’s Style and Gear Magazine")
 
