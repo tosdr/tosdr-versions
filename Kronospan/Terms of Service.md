@@ -10,7 +10,7 @@
 
 [Highlights](https://www.kronospan-worldwide.com/new_highlights/index "Highlights")
 
-[Company](https://www.kronospan-worldwide.com/terms-and-conditions/?action=kronospan&controller=company&lang=0&action=kronospan&controller=company "Company")
+[Organization](https://www.kronospan-worldwide.com/terms-and-conditions/?action=kronospan&controller=company&lang=0&action=kronospan&controller=company "Organization")
 
 [International](#) [en](https://www.kronospan-worldwide.com/en_EN)
 
@@ -85,6 +85,7 @@ Flooring and Wall Panels
 
 ##### [Kronodesign](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign "Kronodesign")
 
+* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/cremona-oak?c=142 "Cremona Oak")
 * [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/trends-origin-stories?c=121 "Trends Origin Stories")
 * [Most Preferred](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/most-preferred?c=127 "Most Preferred")
 * [Acrylic Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-matt?c=96 "Acrylic Matt")
@@ -96,8 +97,8 @@ Flooring and Wall Panels
 * [Mirror Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/mirror-gloss?c=12 "Mirror Gloss")
 * [Metal](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/metal?c=89 "Metal")
 * [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/color?c=6 "Color")
-* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
 
+* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
 * [Contempo](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/contempo?c=9 "Contempo")
 * [Standard](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/standard?c=7 "Standard")
 * [Worktops Round Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-round-edge?c=97 "Worktops Round Edge")
@@ -211,7 +212,7 @@ Flooring and Wall Panels
 
 [![Careers-1920x520_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Careers-1920x520_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")
 
-* [Job Offers](https://kronospan-candidate.talent-soft.com/accueil.aspx "Job Offers")
+* [Job Offers](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Job Offers")
 * [Future Leaders](https://kronospan.com/public/futureleaders/ "Future Leaders")
 * [Career stories](https://www.kronospan-worldwide.com/en_EN/company/career-stories "Career stories")
 
@@ -295,7 +296,7 @@ View on map
 
 ×
 
-##### [Company](# "Company") ![up](/public/krono/img/icons/up.png) 
+##### [Organization](# "Organization") ![up](/public/krono/img/icons/up.png) 
 
 [##### About Us](https://www.kronospan-worldwide.com/en_EN/company/kronospan "About Us")Excellence in transforming wood
 
@@ -325,7 +326,7 @@ View on map
 
 [![Careers-1920x520_350x150_crop_478b24840a](/public/thumbs/350x150/company/header-images/Careers-1920x520_350x150_crop_478b24840a.jpg)](https://www.kronospan-worldwide.com/en_EN/company/careers "Careers")
 
-* [Job Offers](https://kronospan-candidate.talent-soft.com/accueil.aspx "Job Offers")
+* [Job Offers](https://kronospan-candidate.talent-soft.com/homepage.aspx?LCID=2057 "Job Offers")
 * [Future Leaders](https://kronospan.com/public/futureleaders/ "Future Leaders")
 * [Career stories](https://www.kronospan-worldwide.com/en_EN/company/career-stories "Career stories")
 
@@ -395,6 +396,7 @@ Flooring and Wall Panels
 
 ##### [Kronodesign](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign "Kronodesign")
 
+* [Cremona Oak](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/cremona-oak?c=142 "Cremona Oak")
 * [Trends Origin Stories](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/trends-origin-stories?c=121 "Trends Origin Stories")
 * [Most Preferred](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/most-preferred?c=127 "Most Preferred")
 * [Acrylic Matt](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/acrylic-matt?c=96 "Acrylic Matt")
@@ -406,8 +408,8 @@ Flooring and Wall Panels
 * [Mirror Gloss](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/mirror-gloss?c=12 "Mirror Gloss")
 * [Metal](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/metal?c=89 "Metal")
 * [Color](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/color?c=6 "Color")
-* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
 
+* [Harmony](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/harmony?c=122 "Harmony")
 * [Contempo](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/contempo?c=9 "Contempo")
 * [Standard](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/standard?c=7 "Standard")
 * [Worktops Round Edge](https://www.kronospan-worldwide.com/en_EN/decors/by_collection/kronodesign/worktops-round-edge?c=97 "Worktops Round Edge")
