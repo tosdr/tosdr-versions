@@ -8,8 +8,8 @@ Numbers, Facts and Trends Shaping Your World
 
 Read our research on:
 
-* [Joe Biden](https://www.pewresearch.org/topic/politics-policy/leaders/joe-biden/)
-* [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
+* [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
+* [Family & Relationships](https://www.pewresearch.org/topic/family-relationships/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
@@ -97,8 +97,8 @@ Search
     
     Read Our Research On:
     
-    * [Joe Biden](https://www.pewresearch.org/topic/politics-policy/leaders/joe-biden/)
-    * [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
+    * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
+    * [Family & Relationships](https://www.pewresearch.org/topic/family-relationships/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
     
 
@@ -218,7 +218,7 @@ USA
 * [YouTube](https://www.youtube.com/user/PewResearchCenter/featured/)
 * [RSS Feed](https://www.pewresearch.org/feed/)
 
-**[ABOUT PEW RESEARCH CENTER](https://www.pewresearch.org/about)** Pew Research Center is a nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world. It conducts public opinion polling, demographic research, media content analysis and other empirical social science research. Pew Research Center does not take policy positions. It is a subsidiary of [The Pew Charitable Trusts](https://www.pewtrusts.org/).
+**[ABOUT PEW RESEARCH CENTER](https://www.pewresearch.org/about)** Pew Research Center is a nonpartisan, nonadvocacy fact tank that informs the public about the issues, attitudes and trends shaping the world. It does not take policy positions. The Center conducts public opinion polling, demographic research, computational social science research and other data-driven research. Pew Research Center is a subsidiary of [The Pew Charitable Trusts](https://www.pewtrusts.org/), its primary funder.
 
 © 2024 Pew Research Center
 
