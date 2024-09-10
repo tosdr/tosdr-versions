@@ -8,6 +8,7 @@
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
+    * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
@@ -54,6 +55,7 @@
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
+    * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
@@ -101,6 +103,7 @@
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
+    * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
@@ -147,6 +150,7 @@
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
+    * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
@@ -303,7 +307,7 @@ With Ledger Live, you can (including without limitation)
 
 **5.1.4 Connect with your Ledger Device.** Certain Services may be used without connecting your Ledger Device (such as access to learning content, monitoring cryptocurrency prices or view the balance of your portfolio) whereas other Services may only be used in connection with your Ledger Device, including without limitation send, buy, sell, swap and stake services.
 
-**5.1.5 Device Applications.** Device Applications are available for download on Ledger Live Manager, or can be installed following our [guidelines](https://ledger.readthedocs.io/en/latest/userspace/getting_started.html) and may either be developed by Ledger, or by any willing third party, thanks to open source code available on Ledger [Github repository](https://github.com/LedgerHQ). Such third party developers of Device Applications are responsible for the said applications and their performance, and for providing support for Device Applications supported on a Ledger Device and on Ledger Live. Ledger may perform code reviews and conduct security audits of Device Applications available on Ledger Live Manager, which does not constitute any kind of endorsement nor any guarantee that those applications are risk-free. Ledger does not warranty that Device Applications will be maintained over time and reserves the right to restrict or suspend access to them from Ledger Live for any reason for as long as deemed necessary.
+**5.1.5 Device Applications.** Device Applications are available for download on Ledger Live Manager, or can be installed following our [guidelines](https://support.ledger.com/article/4404382258961-zd?redirect=false) and may either be developed by Ledger, or by any willing third party, thanks to open source code available on Ledger [Github repository](https://github.com/LedgerHQ). Such third party developers of Device Applications are responsible for the said applications and their performance, and for providing support for Device Applications supported on a Ledger Device and on Ledger Live. Ledger may perform code reviews and conduct security audits of Device Applications available on Ledger Live Manager, which does not constitute any kind of endorsement nor any guarantee that those applications are risk-free. Ledger does not warranty that Device Applications will be maintained over time and reserves the right to restrict or suspend access to them from Ledger Live for any reason for as long as deemed necessary.
 
 **5.1.6 Experimental features.** In order to accommodate advanced Users’ requests and to build new features and functionalities, we may release a series of experimental features on Ledger Live from time to time. These features may not be complete and may have not been fully tested, which may present heightened risks. They may contain errors or inaccuracies that could cause failures, corruption or loss of data and/or information. You can think of these features as beta features. Ledger does not guarantee the stability, functionality, or long-term support of these features. We do not recommend to use these features unless you are an advanced User with strong technical skills. You expressly acknowledge and agree that use of the experimental features is at your sole risk.
 
@@ -333,7 +337,7 @@ With Ledger Live, you can (including without limitation)
     
 * [Changelly Terms of use](https://changelly.com/terms-of-use)
     
-* [Paraswap Terms of service](https://psdocs.fra1.digitaloceanspaces.com/tos_v2.pdf)
+* [Paraswap Terms of service](https://files.paraswap.io/tos_v4.pdf)
     
 * [1inch Terms of Use](https://1inch.io/assets/1inch_network_terms_of_use.pdf)
     
@@ -435,6 +439,8 @@ We welcome feedback, comments, ideas, and suggestions for improvements to the Se
 
 **12.4 Severability.** Should any provision of these Terms or part thereof to any extent be or become invalid or unenforceable, such provision shall then be deemed separable from the remaining provisions of these Terms and shall not affect or impair the validity or enforceability of the remaining provisions of these Terms.
 
+_The Terms have been translated and made available into different languages. Notwithstanding their translation, you agree that, in the event of a dispute arising out of or relating to these Terms, only the_ _English version of these Terms_ _shall be referred to and prevail._
+
 #### Stay in touch
 
 Announcements can be found in our blog.
@@ -472,7 +478,7 @@ Payment methods
 
 Products
 
-[Ledger Stax](https://shop.ledger.com/pages/ledger-stax)[Ledger Flex](https://shop.ledger.com/pages/ledger-flex)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
+[Ledger Stax](https://shop.ledger.com/pages/ledger-stax)[Ledger Flex](https://shop.ledger.com/pages/ledger-flex)[Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)[Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)[Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)[Hardware wallet](https://shop.ledger.com/pages/hardware-wallet)[Bundles](https://shop.ledger.com/#category-bundle)[Accessories](https://shop.ledger.com/#category-accessories)[All products](https://shop.ledger.com/)[Downloads](https://www.ledger.com/ledger-live/)
 
 Crypto Assets
 
@@ -521,6 +527,7 @@ Products
 * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)
 * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus)
 * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison)
+* [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet)
 * [Bundles](https://shop.ledger.com/#category-bundle)
 * [Accessories](https://shop.ledger.com/#category-accessories)
 * [All products](https://shop.ledger.com/)
