@@ -59,7 +59,7 @@ We are continuously improving our digital accessibility, recognizing the importa
                 * [Hospital indemnity insurance](https://equitable.com/employee-benefits/hospital-indemnity-insurance)
             * [Find a dental provider](https://equitable.com/employee-benefits/find-a-provider/find-a-provider-dental-search)
             * [Find a vision provider](https://equitable.com/employee-benefits/find-a-provider/find-a-provider-vision-search)
-            * [Insurance forms](https://equitable.com/employee-benefits/forms)
+            * [Insurance forms](https://equitable.com/customer-service/account-support/employee-benefits-insurance-forms)
             * [Contact employee benefits customer support](https://equitable.com/employee-benefits/contact)
     * [Financial professionals and brokers audience](https://equitable.com/financial-professionals)
         * [Working with us](#)
@@ -113,9 +113,9 @@ We are continuously improving our digital accessibility, recognizing the importa
             * [Sales desk support](https://equitable.com/financial-professionals/sales-contact-center)
             * [Performance cap rates for variable annuities](https://equitable.com/retirement/products/variable-annuities/performance-cap-rates)
             * [Student loan forgiveness](https://equitable.com/microsite/student-loan-forgiveness)
-            * [promo-section: Visit our enhanced Retirement Guide](#)
-            * [promo-paragraph: Our Retirement Guide has been enhanced and moved to a new home. Visit our tools center to start designing the best strategies for your clients.](#)
-            * [promo-link: Retirement Guide tools center](https://equitable.com/financial-professionals/annuities/tool-center)
+            * [promo-section: Visit our Annuity Tools Center](#)
+            * [promo-paragraph: Start designing the best strategies for your clients using our Annuity Tools Center.](#)
+            * [promo-link: Annuity Tools Center](https://equitable.com/financial-professionals/annuities/tool-center)
         * [Products](#)
             * [section-heading: Individual Annuities](#)
             * [Individual Annuities](https://equitable.com/financial-professionals/annuities)
@@ -124,17 +124,15 @@ We are continuously improving our digital accessibility, recognizing the importa
                 * [Structured Capital Strategies® Income](https://equitable.com/financial-professionals/annuities/structured-capital-strategies-income-variable-annuity)
                 * [Retirement Cornerstone®](https://equitable.com/financial-professionals/annuities/retirement-cornerstone-variable-annuity)
                 * [Investment Edge®](https://equitable.com/financial-professionals/annuities/investment-edge-variable-annuity)
-            * [Annuities tool center](https://equitable.com/financial-professionals/annuities/tool-center)
+            * [Annuity Tools Center](https://equitable.com/financial-professionals/annuities/tool-center)
             * [section-heading: Life Insurance](#)
             * [Life insurance](https://equitable.com/financial-professionals/life-insurance)
             * [Products](#)
-                * [All Life Insurance Products](https://equitable.com/financial-professionals/life-insurance/products)
                 * [VUL Incentive Life Protect℠](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-incentive-life-protect)
                 * [VUL Legacy®](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-legacy)
                 * [VUL Optimizer®](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-optimizer)
                 * [VUL Optimizer® Max](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-optimizer-max)
                 * [COIL Institutional Series℠](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-coil-institutional-series)
-                * [Equitable Advantage Max℠](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-advantage-max)
                 * [VUL Survivorship](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-survivorship)
                 * [BrightLife® Grow](https://equitable.com/financial-professionals/life-insurance/indexed-universal-life-insurance-brightlife-grow)
                 * [Term Series](https://equitable.com/financial-professionals/life-insurance/term-life-insurance-policies)
@@ -152,7 +150,7 @@ We are continuously improving our digital accessibility, recognizing the importa
             * [section-heading: Employee benefits](#)
             * [Employee benefits](https://equitable.com/financial-professionals/employee-benefits)
             * [Products](https://equitable.com/financial-professionals/employee-benefits/insurance-products-overview)
-            * [Forms](https://equitable.com/employee-benefits/forms)
+            * [Forms](https://equitable.com/customer-service/account-support/employee-benefits-insurance-forms)
             * [Find a provider](https://equitable.com/employee-benefits/find-a-provider)
             * [Working with us](https://equitable.com/financial-professionals/employee-benefits)
             * [section-heading: Investments](#)
@@ -194,7 +192,7 @@ We are continuously improving our digital accessibility, recognizing the importa
                 * [Hospital indemnity insurance](https://equitable.com/employee-benefits/hospital-indemnity-insurance)
             * [Find a dental provider](https://equitable.com/employee-benefits/find-a-provider/find-a-provider-dental-search)
             * [Find a vision provider](https://equitable.com/employee-benefits/find-a-provider/find-a-provider-vision-search)
-            * [Insurance forms](https://equitable.com/employee-benefits/forms)
+            * [Insurance forms](https://equitable.com/customer-service/account-support/employee-benefits-insurance-forms)
             * [Contact employee benefits customer support](https://equitable.com/employee-benefits/contact)
 * [Mobile Bottom](#)
     * [Sign In](https://equitable.com/login)
@@ -448,19 +446,6 @@ Frequently asked questions
 If you have additional privacy questions, please contact your Financial Professional, or call the Privacy Hotline at [(877) 806-4573](tel:8778064573) or submit a privacy question [here](https://equitable.com/publicassets/email.html).
 
 [](# "Go to top")
-
-![Equitable](/publicassets/images/EQ-logo-circle-white.svg)
-
-Welcome to Equitable
-
-Please use www.equitable.com  
-to access our website.  
-  
-
-Please replace any bookmarks with www.equitable.com.  
-If you have an account with us, your user ID and password will not change.
-
-Go to Equitable.com Equitable is the brand name of the retirement and protection subsidiaries of Equitable Holdings, Inc., including Equitable Financial Life Insurance Company (Equitable Financial) (NY, NY), Equitable Financial Life Insurance Company of America (Equitable America), an AZ stock company with main administrative headquarters in Jersey City, NJ, and Equitable Distributors, LLC. Equitable Advisors is the brand name of Equitable Advisors, LLC (member [FINRA](https://www.finra.org/), [SIPC](https://www.sipc.org/)). GE-2891061(01/20)
 
 * [About Equitable](https://equitable.com/about-equitable)
 * [Equitable Foundation](https://equitable.com/foundation)
