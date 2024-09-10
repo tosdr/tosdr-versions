@@ -55,11 +55,9 @@ Search site
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -67,14 +65,12 @@ Search site
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -435,11 +431,9 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 * [Recipes](https://www.fox4news.com/tag/series/good-day-recipes)
 * [Traffic](https://www.fox4news.com/traffic)
 * [Entertainment](https://www.fox4news.com/tag/entertainment)
-* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
-* [Children's Hospital Heroes](https://www.fox4news.com/tag/series/childrens-hospital-heroes)
-* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 * [Things To Do](https://www.fox4news.com/tag/lifestyle/things-to-do-in-dallas)
-* [Consumer Confidential](https://www.fox4news.com/shows/consumer-confidential)
+* [Save Me Steve](https://www.fox4news.com/tag/series/save-me-steve)
+* [Birthdays](https://www.fox4news.com/good-day-birthdays)
 
 ###### [Only on FOX 4](https://www.fox4news.com/tag/series/fox-4-features)
 
@@ -447,14 +441,12 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 * [Links from On Air](https://www.fox4news.com/links)
 * [FOX 4 Features](https://www.fox4news.com/tag/series/fox-4-features)
 * [Trackdown](https://www.fox4news.com/tag/series/trackdown)
-* [Investigations](https://www.fox4news.com/tag/series/fox4-investigations)
-* [Hometown Heroes](https://www.fox4news.com/tag/series/fox-4-features/clarices-hometown-heroes)
 * [Texas: The Issue Is](https://www.fox4news.com/tag/tx-politics/texas-the-issue-is)
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
-* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
+* [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [Last Call with Steve Noviello](https://www.fox4news.com/lastcall)
 * [Brand Spotlight](https://www.fox4news.com/shows/brand-spotlight)
-* [Class of 2024](https://www.fox4news.com/grads)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
