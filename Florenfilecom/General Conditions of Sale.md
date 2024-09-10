@@ -32,7 +32,3 @@ To cancel subscription or get a refund, please contact us via [Contact Us](https
 * [FAQ](https://florenfile.com/faq.html)
 * [Terms of service](https://florenfile.com/tos.html)
 * [Contact Us](https://florenfile.com/contact.html)
-
-* * *
-
-Florenfile.com 2014-2024 All rights reserved.
