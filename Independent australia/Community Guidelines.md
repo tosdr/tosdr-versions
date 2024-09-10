@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[More Lehrmann trials, appeals and assorted legal stouches](https://independentaustralia.net/article-display/more-lehrmann-trials-appeals-and-assorted-legal-stouches,18808)
+[Gina drills, digs and destroys](https://independentaustralia.net/article-display/gina-drills-digs-and-destroys,18951)
 
-[IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
+[More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Sydney Morning Herald a disgrace to proper journalism](https://independentaustralia.net/article-display/sydney-morning-herald-a-disgrace-to-proper-journalism,18819)
+[ANZ reaches new low in breaching agreement over Katoomba closure](https://independentaustralia.net/article-display/politics-display/anz-reaches-new-low-in-breaching-agreement-over-katoomba-closure,18964)
 
-[Peterson, Carlson and co — the world is done with your groupthink](https://independentaustralia.net/article-display/open-letter-to-peterson-carlsonand-co--the-world-is-done-with-your-groupthink,18818)
+[UK Labour’s Scrooge makeover](https://independentaustralia.net/article-display/uk-labours-scrooge-makeover,18963)
 
-[Interest rate cuts around the world — Australia should join the gang](https://independentaustralia.net/article-display/interest-rate-cuts-around-the-world--australia-should-join-the-gang,18817)
+[The economic debate that Treasurer Chalmers has won](https://independentaustralia.net/article-display/the-economic-debate-that-treasurer-chalmers-has-won,18961)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Sydney Morning Herald a disgrace to proper journalism](https://independentaustralia.net/article-display/sydney-morning-herald-a-disgrace-to-proper-journalism,18819 "Permanent Link : Sydney Morning Herald a disgrace to proper journalism")
-* [Open letter to Peterson, Carlson and co — the world is done with your groupthink](https://independentaustralia.net/article-display/open-letter-to-peterson-carlsonand-co-the-world-is-done-with-your-groupthink,18818 "Permanent Link : Open letter to Peterson, Carlson and co — the world is done with your groupthink")
-* [Interest rate cuts around the world — Australia should join the gang](https://independentaustralia.net/article-display/interest-rate-cuts-around-the-world-australia-should-join-the-gang,18817 "Permanent Link : Interest rate cuts around the world — Australia should join the gang")
-* [June student trends will be making ministers nervous](https://independentaustralia.net/article-display/june-student-trends-will-be-making-ministers-nervous,18816 "Permanent Link : June student trends will be making ministers nervous")
-* [Race, gender, age will determine Kamala Harris' running mate](https://independentaustralia.net/article-display/race-gender-age-will-determine-kamala-harris-running-mate,18815 "Permanent Link : Race, gender, age will determine Kamala Harris' running mate")
-* [Facts and figures confirm Murdoch’s minions are continually lying to you](https://independentaustralia.net/article-display/facts-and-figures-confirm-murdochs-minions-are-continually-lying-to-you,18814 "Permanent Link : Facts and figures confirm Murdoch’s minions are continually lying to you")
-* [POEM: A letter to the children of tomorrow](https://independentaustralia.net/article-display/poem-a-letter-to-the-children-of-tomorrow,18804 "Permanent Link : POEM: A letter to the children of tomorrow")
+* [Government rationale for student visa caps revealed](https://independentaustralia.net/article-display/government-rationale-for-student-visa-caps-revealed,18959 "Permanent Link : Government rationale for student visa caps revealed")
+* [ANZ reaches new low in breaching agreement over Katoomba closure](https://independentaustralia.net/article-display/anz-reaches-new-low-in-breaching-agreement-over-katoomba-closure,18964 "Permanent Link : ANZ reaches new low in breaching agreement over Katoomba closure")
+* [POEM: Plastic Apocalypse](https://independentaustralia.net/article-display/poem-plastic-apocalypse,18958 "Permanent Link : POEM: Plastic Apocalypse")
+* [UK Labour’s Scrooge makeover](https://independentaustralia.net/article-display/uk-labours-scrooge-makeover,18963 "Permanent Link : UK Labour’s Scrooge makeover")
+* [The economic debate that Treasurer Chalmers has won](https://independentaustralia.net/article-display/the-economic-debate-that-treasurer-chalmers-has-won,18961 "Permanent Link : The economic debate that Treasurer Chalmers has won")
+* [Latest snapshot of Albo’s economy defies mainstream media negativity](https://independentaustralia.net/article-display/latest-snapshot-of-albos-economy-defies-mainstream-media-negativity,18962 "Permanent Link : Latest snapshot of Albo’s economy defies mainstream media negativity")
+* [Ukraine’s incursion into Kursk offers possibilities and difficulties](https://independentaustralia.net/article-display/ukraines-incursion-into-kursk-offers-possibilities-and-difficulties,18960 "Permanent Link : Ukraine’s incursion into Kursk offers possibilities and difficulties")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
