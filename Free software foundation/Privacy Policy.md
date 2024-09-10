@@ -29,7 +29,7 @@ Free Software Foundation Privacy Policy
 
 by [Free Software Foundation](https://www.fsf.org/author/fsfweb) [Contributions](https://www.fsf.org/contribs/fsfweb) — Published on May 24, 2018 07:22 PM
 
-Your trust is important to the Free Software Foundation (FSF), and we take privacy and security very seriously. If you have any questions or concerns about our privacy policy or our use of data, please get in touch with us at privacy@fsf.org, +1-617-542-5942, or by our mailing address: Free Software Foundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1335, USA.
+Your trust is important to the Free Software Foundation (FSF), and we take privacy and security very seriously. If you have any questions or concerns about our privacy policy or our use of data, please get in touch with us at privacy@fsf.org, +1-617-542-5942, or by our mailing address: Free Software Foundation, 31 Milk Street, # 960789, Boston, MA 02196, USA.
 
 FSF staff, management, and volunteers uphold strict internal policies against unauthorized disclosure or use of personal information.
 
@@ -124,11 +124,11 @@ Enter your email address to receive our monthly newsletter, the
 
 [News](https://www.fsf.org/news)
 
+ [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Thank you Odile Bénassy for four years of service on the FSF Board of Directors! Aug 27, 2024](https://www.fsf.org/news/thank-you-odile-benassy-for-4-years-of-service-on-the-fsf-board-of-directors "BOSTON (August 27, 2024) -- Free Software Foundation (FSF) Board Member Odile Bénassy has stepped down from the Board after four years of service.")
+
  [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Let's not celebrate CrowdStrike -- let's point to a better way Jul 24, 2024](https://www.fsf.org/news/lets-not-celebrate-crowdstrike-lets-point-to-a-better-way)
 
  [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three highly qualified board members Jun 26, 2024](https://www.fsf.org/news/fsf-adds-3-highly-qualified-board-members)
-
- [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three provisional board members Jun 03, 2024](https://www.fsf.org/news/fsf-adds-three-provisional-board-members)
 
 [More news…](https://www.fsf.org/news)
 
@@ -136,13 +136,13 @@ Enter your email address to receive our monthly newsletter, the
 
 [Recent blogs](https://www.fsf.org/blogs/recent-blog-posts)
 
-[A world where software freedom has a fighting chance and hope exists](https://www.fsf.org/blogs/community/a-world-where-software-freedom-has-a-fighting-chance-and-hope-exists)
+[August GNU Spotlight with Amin Bandali](https://www.fsf.org/blogs/community/august-gnu-spotlight-with-amin-bandali "Fifteen new GNU releases in the last month (as of August 31, 2024):")
 
-[Help us meet our goal of thirty-three new associate members by July 26](https://www.fsf.org/blogs/community/help-us-meet-our-goal-of-thirty-three-new-associate-members-by-july-26)
+[Join us in saying goodbye to our beloved office on August 16!](https://www.fsf.org/blogs/community/fsf-office-closing-party)
 
-[Make a pledge to share free software with a friend](https://www.fsf.org/blogs/community/make-a-pledge-to-share-free-software-with-a-friend)
+[Call for volunteers: Help us with the GNU Press shop and new member mailings](https://www.fsf.org/blogs/community/help-us-with-the-gnu-press-shop-and-new-member-mailings)
 
-[Spring Bulletin Issue 44 now online! Read and share it with your community](https://www.fsf.org/blogs/community/spring-bulletin-issue-44-now-online-read-and-share-it-with-your-community)
+[July GNU Spotlight with Amin Bandali: Nineteen new GNU releases!](https://www.fsf.org/blogs/community/july-gnu-spotlight-with-amin-bandali)
 
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
@@ -150,7 +150,7 @@ Enter your email address to receive our monthly newsletter, the
 
 [Upcoming Events](https://www.fsf.org/events)
 
- [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Don't miss Craig Topham's talk at FOSSY 2024 in Portland, OR on August 2](https://www.fsf.org/events/craig-tophams-talk-at-fossy-2024-in-portland-or-on-august-2) Aug 02, 2024 05:30 PM - 06:30 PM
+ [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, September 13, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-2024-09-13-irc " Join the FSF and friends on Friday, September 13 from 12:00 to 15:00 EDT (16:00 to 19:00 UTC) to help improve the Free Software Directory. ") Sep 13, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
 
 [Previous events…](https://www.fsf.org/events/aggregator/previous)
 
