@@ -1,8 +1,10 @@
 ✕
 
-[NEW: 2024 UK Pharmacies ‘Quick Take’ Report
+[The 2024 Healthcare Rankings Report is Now Available.
 
-Learn More](https://resources.reputation.com/pharmacies-quick-take)
+Learn More](https://reputation.com/solutions/healthcare/resources)
+
+![](https://reputation.com/wp-content/uploads/2024/04/leaderboard-bg-teal-gradient-scaled.jpg)
 
 * [LOGIN](https://app.reputation.com/auth)
 * [CONTACT](https://reputation.com/contact/)
