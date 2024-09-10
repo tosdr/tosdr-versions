@@ -27,6 +27,7 @@ Menu icon Menu
     * [Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
         * [Body Washes](https://www.soapboxsoaps.com/collections/body-wash)
         * [Lotions](https://www.soapboxsoaps.com/collections/body-lotion)
+        * [Deodorant](https://www.soapboxsoaps.com/collections/deodorant)
         * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
         * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
         * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
@@ -90,6 +91,7 @@ Search icon Search
         
         * [Body Washes](https://www.soapboxsoaps.com/collections/body-wash)
         * [Lotions](https://www.soapboxsoaps.com/collections/body-lotion)
+        * [Deodorant](https://www.soapboxsoaps.com/collections/deodorant)
         * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
         * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
         * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
@@ -265,7 +267,7 @@ All Collections Chevron down icon
 * [Hair Care](https://www.soapboxsoaps.com/collections/haircare)
 * [Body Care](https://www.soapboxsoaps.com/collections/body-care)
 * [Body Wash](https://www.soapboxsoaps.com/collections/body-wash)
-* [Bar Soap](https://www.soapboxsoaps.com/collections/bar-soap)
+* [Deodorant](https://www.soapboxsoaps.com/collections/deodorant)
 * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
 * [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
 
@@ -321,3 +323,9 @@ Close icon
 Close icon
 
 Chevron down icon Chevron down icon
+
+       
+
+     
+
+{"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
