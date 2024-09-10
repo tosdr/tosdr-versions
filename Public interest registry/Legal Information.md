@@ -216,7 +216,7 @@ PIR will make all reasonable efforts to ensure that personal information is proc
 
 ##### 1\. Domain Name Registration
 
-PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://pir.org/our-impact/ngo-ong-policy/)  of .ngo and .ong.
+PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)  of .ngo and .ong.
 
 ##### 2\. WHOIS
 
@@ -310,7 +310,7 @@ There are occasionally special circumstances that require PIR to disclose inform
 
 In certain circumstances, PIR must disclose information beyond the limits outlined above including when it is necessary to fulfill a transaction or provide information you have requested; necessary to protect the rights, property or personal safety of PIR, its customers or the public; in the vital interests of the data subject or another person; required by law or necessary to respond to legal process; necessary to meet the requirements of requests, lawfully made by public authorities, including requests to meet national security or law enforcement requirements.
 
-PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our Registry Policies, and to protect the security or integrity of our Website.
+PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our [Registry Policies](https://thenew.org/org-people/about-pir/policies/), and to protect the security or integrity of our Website.
 
 #### VI. How to Access, Amend, and Control Your Personal Data
 
@@ -385,7 +385,7 @@ Menu
 
 * [Anti-Abuse](https://pir.org/our-impact/anti-abuse-policy/)
 * [DNSSC Practice Statement](https://pir.org/products/dnssec-practice-statement/)
-* [.NGO & .ONG Registration](https://pir.org/our-impact/policies/#-ngo-and-ong-registration-policy)
+* [.NGO & .ONG Registration](https://pir.org/our-impact/ngo-ong-policy/)
 * [Privacy Policy](https://pir.org/our-impact/privacy/)
 * [Reserved Name](https://pir.org/our-impact/reserved-names-policy/)
 * [Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
@@ -454,4 +454,4 @@ Accessibility Tools
 * [Readable FontReadable Font](#)
 * [Reset Reset](#)
 
-We use necessary cookies to provide basic website functionality and security. You can disable necessary cookies through your browser settings. Please note that refusing necessary cookies or disabling them through your browser settings may affect your website experience and functionality. Additionally, we use third-party analytics cookies (Google) to understand website usage and improve performance and service. All analyzes are aggregated and anonymous. We will only set cookies if you agree below. For more information about our use of cookies, please see our Privacy Notice.[Accept All Cookies](#)[Reject All Cookies](#)[Privacy policy](https://pir.org/our-impact/privacy/)
+We use necessary cookies to provide basic website functionality and security. You may disable necessary cookies via your browser settings. Please be aware that rejecting necessary cookies, or disabling them via your browser settings, could impact your website experience and functionality. In addition, we use optional cookies for third-party (Google) analytics to understand website use and improve performance and service. All analytics are aggregate and anonymous. We will only install cookies if you accept below. For more information on our use of cookies please see our Privacy Notice.[Accept All Cookies](#)[Reject All Cookies](#)[Privacy Notice](https://pir.org/our-impact/privacy/)
