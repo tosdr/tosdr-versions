@@ -2,12 +2,12 @@
 
 [stories](https://www.amyporterfield.com/reviews)[Resources](https://www.amyporterfield.com/online-marketing-tools/)[Courses](https://www.amyporterfield.com/online-business-courses)[About amy](https://www.amyporterfield.com/about)
 
-[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[](https://masterclass.amyporterfield.com/list-building)[Free workshop](https://www.amyporterfield.com/free-email-marketing-training)[HOME](https://www.amyporterfield.com/)
+[](https://www.amyporterfield.com/)[Podcast](https://www.amyporterfield.com/digital-marketing-podcast)[HOME](https://www.amyporterfield.com/)[](https://masterclass.amyporterfield.com/list-building)[join my bootcamp](https://bootcamp.amyporterfield.com/course-confident)
 
 Privacy Policy
 ==============
 
-Amy Porterfield, Inc. (**“Company”**, **“we”**, or **“us”**) respects your privacy and is committed to protecting it through this Privacy Policy.  
+Amy Porterfield LLC (**“Company”**, **“we”**, or **“us”**) respects your privacy and is committed to protecting it through this Privacy Policy.  
   
 This Privacy Policy governs your access to and use of Amyporterfield.com, including any content, functionality and services offered on or through Amyporterfield.com (the “Website”), whether as a guest or a registered user.  
   
@@ -98,7 +98,7 @@ HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
 
 We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.  
   
-From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.  
+Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. If you wish to be removed from receiving future communications, you can opt out by texting STOP or UNSUBSCRIBE.  
   
 From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.  
   
@@ -161,16 +161,15 @@ We require only the information that is reasonably required to enter into a cont
 CONTACT US
 ----------
 
-Amy Porterfield, LLC. welcomes your questions or comments regarding the Privacy Policy:  
+Amy Porterfield, LLC welcomes your questions or comments regarding the Privacy Policy:  
   
-Amy Porterfield, LLC.  
+Amy Porterfield, LLC  
 6339 Charlotte Pike #920  
 Nashville, TN 37209  
 Email Address: [support@amyporterfield.com](mailto:support@amyporterfield.com)  
   
-Effective as of May 16, 2018  
-  
-_Last Updated: August 9, 2021_  
+_Effective as of May 16, 2018  
+Last Updated: August 6, 2024_  
   
   
 
