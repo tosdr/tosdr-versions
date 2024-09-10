@@ -202,7 +202,6 @@ Company
 * [Careers](https://render.com/careers)
 * [Privacy Policy](https://render.com/privacy)
 * [Security](https://render.com/trust)
-* [Security.txt](https://render.com/.well-known/security.txt)
 * [Shared Responsibility Model](https://render.com/shared-responsibility-model)
 * [Terms Of Use](https://render.com/terms)
 
@@ -216,4 +215,4 @@ Company
 * [Security and Trust](https://render.com/trust)
 * © Render 2024
 
-</noscript><script src="/scripts/theme.js"></script></body></html>
+</noscript></body></html>
