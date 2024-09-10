@@ -16,7 +16,7 @@ No Credit Score Impact Quick & Easy To Follow Personal Installments Plan
 
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
-[](javascript:void(0);)[Our Locations](https://www.icebox.com/locations) [![](/themes/default/frontend/oct-2023/assets/sample_earrings.webp) Sale](https://www.icebox.com/sale)[](javascript:void(0);)
+[](javascript:void(0);)[Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
 
 [0](javascript:void(0);)
 
@@ -26,7 +26,7 @@ No Credit Score Impact Quick & Easy To Follow Personal Installments Plan
 
 [Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Watches](https://www.icebox.com/results/watches) [Accessories](https://www.icebox.com/results/accessories) [Custom](https://www.icebox.com/results/custom) [Travel Cases](https://www.icebox.com/results/travel-cases)
 
-[Shop All](https://www.icebox.com/all?gender[]=Male&sort=Best-Sellers) [Best Under $1500](https://www.icebox.com/all?gender[]=Male&pricerange=$500-1500) [Pendants](https://www.icebox.com/results/pendants?gender[]=Male) [Gold Chains](https://www.icebox.com/results/gold-chains?gender[]=Male) [Necklaces](https://www.icebox.com/results/necklaces?gender[]=Male) [Earrings](https://www.icebox.com/results/earrings?gender[]=Male) [Rings](https://www.icebox.com/results/rings?gender[]=Male) [Bracelets](https://www.icebox.com/results/bracelets?gender[]=Male) [Watches](https://www.icebox.com/results/watches?gender[]=Male)
+[Shop All](https://www.icebox.com/all?gender[]=Male&sort=Best-Sellers) [Best Under $1500](https://www.icebox.com/all?gender[]=Male&pricerange=$500-1500) [Pendants](https://www.icebox.com/results/pendants?gender[]=Male) [Gold Chains](https://www.icebox.com/results/gold-chains?gender[]=Male) [Necklaces](https://www.icebox.com/results/necklaces?gender[]=Male) [Earrings](https://www.icebox.com/results/earrings?gender[]=Male) [Rings](https://www.icebox.com/results/rings?gender[]=Male) [Bracelets](https://www.icebox.com/results/bracelets?gender[]=Male) [Watches](https://www.icebox.com/results/watches?gender[]=Male) [Wedding Bands](https://www.icebox.com/results/rings?sub[]=Wedding%20Bands&gender[]=Male)
 
 [Shop All](https://www.icebox.com/all?gender[]=Female&sort=Best-Sellers) [Best Under $1500](https://www.icebox.com/all?gender[]=Female&pricerange=$500-1500) [Engagement & Wedding](https://www.icebox.com/results/rings?sub[]=Engagement%20Rings) [Pendants](https://www.icebox.com/results/pendants?gender[]=Female) [Gold Chains](https://www.icebox.com/results/gold-chains?gender[]=Female) [Necklaces](https://www.icebox.com/results/necklaces?gender[]=Female) [Earrings](https://www.icebox.com/results/earrings?gender[]=Female) [Bands](https://www.icebox.com/results/rings?sub[]=Wedding%20Bands&gender[]=Female) [Fashion Rings](https://www.icebox.com/results/rings?gender[]=Female) [Bracelets](https://www.icebox.com/results/bracelets?gender[]=Female) [Watches](https://www.icebox.com/results/watches?gender[]=Female)
 
