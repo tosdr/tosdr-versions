@@ -1,8 +1,3 @@
-* **Library system updates**
-    
-    Due to a cybersecurity event, several Library services are not available. Our buildings remain open. Learn more about what is impacted and what services are available at [www.spl.org/Update](https://www.spl.org/Update). Keep up-to-date on any building schedule changes at [www.spl.org/Today](https://www.spl.org/Today).
-    
-
 [Skip to Main Content](https://www.spl.org/about-us/policies/online-privacy-and-terms-of-use#main-content)
 
  [![The Seattle Public Library logo](/Seattle-Public-Library/images/Header-images/logo-white.svg) ![The Seattle Public Library logo graphic](/Seattle-Public-Library/images/Header-images/spl-stickylogo.png)](https://www.spl.org/ "SPL - Home")
@@ -58,7 +53,7 @@
     * [将此网站自动翻译成中文](#)
     * [將此網站自動翻譯成中文](#)
     * [Tự động dịch trang này sang tiếng Việt](#)
-    * [Gawaaridan ayaa boggan u turjumaya Soomaali](#)
+    * [Si toos ah u tarjun boggan af Soomaali](#)
     * [ይህን ድር ጣቢያ በራስ-ሰር ወደ አማርኛ ይተርጉሙት](#)
     * [이 사이트 자동 한국어 번역](#)
     * [Автоматический перевод этого сайта на русский язык](#)
