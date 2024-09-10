@@ -21,22 +21,20 @@
 * [Login](https://www.justpark.com/auth/login)
 * [Sign Up](https://www.justpark.com/registration)
 
-Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)
+Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
 
-Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport Lounges
+Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesMcDonald's
 
 Parking Peace of Mind
 =====================
 
-![Car parked with peace of mind](https://static.justpark.com/web/assets/insurance-logo.v1.b32dff16.svg)
+![Car](https://static.justpark.com/web/assets/insurance-logo.v1.b32dff16.svg)
 
-Excess refund insurance
+**Excess refund insurance**
 
 Just in case something happens while you’re parked
 
-We worked hard to create a policy that covers your car when parked with us, but as with all policies, some conditions do apply.
-
-Bookings that have been insured with a starting date before January 1st 2022 are administered by [**Allianz Assistance**](https://www.justpark.com/insurance-policy/#Allianz). Bookings that have been insured with a starting date on or after January 1st 2022 are administered by [**ARAG plc**](https://www.justpark.com/insurance-policy/#ARAG). See below for the relevant terms for your provider.
+Bookings that have been insured with a starting date before January 1st 2022 are administered by [**Allianz Assistance**](https://www.justpark.com/insurance-policy/#Allianz) . Bookings that have been insured with a starting date on or after January 1st 2022 are administered by [**ARAG plc**](https://www.justpark.com/insurance-policy/#ARAG). See below for the relevant terms for your provider.
 
 ### Eligibility Statement
 
@@ -50,11 +48,9 @@ Before you purchase this Policy and during the **Period of Insurance you** will 
 
 If **you** cannot agree to **each** of the above statements throughout the **Period of Insurance**, please contact your **Insurance Broker** immediately.
 
-  
 **If your policy start date is on or after 1.1.2022, your insurance cover is administered by ARAG plc:**
 
-ARAG
-----
+### ARAG
 
 The headlines on this policy
 
@@ -66,8 +62,6 @@ The headlines on this policy
 [Insurance policy documents](https://docs.wecovr.com/wcvr52zW1ve7WlZRbL1jKBvTpN9R2tO2vmr/wordings/JustParkExcessProtection/JustPark%20WeCovr%20Parking%20Peace%20Of%20Mind%202022%20wording.pdf?utm_source=JP+site&utm_medium=T%26Cs)
 
 [Insurance product information document](https://docs.wecovr.com/wcvr52zW1ve7WlZRbL1jKBvTpN9R2tO2vmr/wordings/JustParkExcessProtection/JustPark%20WeCovr%20Parking%20Peace%20Of%20Mind%202022%20IPID.pdf?utm_source=site)
-
-  
 
 JustPark Parking Ltd is an Appointed Representative of WeCovr ([https://wecovr.com/](https://wecovr.com/), a trading name of Political and Credit Risks Limited), authorised and regulated by the Financial Conduct Authority (FCA reference number 735613), with JustPark Parking Limited acting as its Appointed Representative. Registered Address Dunn’s Hat Factory, 106 - 110 Kentish Town Road, London, NW1 9PX, UK.
 
