@@ -4,7 +4,7 @@ Go directly to:
 * [Go directly to: Content](https://www.rabobank.com/privacy#content)
 * [Go directly to: Footer](https://www.rabobank.com/privacy#footer)
 
-[to homepage](https://www.rabobank.com/ "to homepage")
+[![Rabo logo](https://media.rabobank.com/m/5c0d2c496819b02f/original/Rabobank-text-logo.png)](https://www.rabobank.com/ "to homepage")
 
 * Products
     
@@ -27,22 +27,42 @@ Go directly to:
     
 * Knowledge
     
-    Knowledge
+    RaboResearch
     
     * [Overview](https://www.rabobank.com/knowledge "Overview")
-    * [Food & Agribusiness](https://research.rabobank.com/far/en/home/index.html "Food & Agribusiness")
-    * [Global Economics and Markets](https://research.rabobank.com/markets/en/home/index.html "Global Economics and Markets")
-    * [Countries and Regions](https://www.rabobank.com/knowledge/regions "Countries and Regions")
-    * [Netherlands](https://www.rabobank.com/knowledge/netherlands "Netherlands")
-    * [Our experts](https://www.rabobank.com/knowledge/our-experts "Our experts")
-    
-    Featured
-    
+    * [Global economics](https://www.rabobank.com/knowledge/global-economics "Global economics")
+    * [Financial markets](https://research.rabobank.com/markets/ "Financial markets")
+    * [Energy transition](https://www.rabobank.com/knowledge/energy-transition "Energy transition")
+    * [Sustainability](https://www.rabobank.com/knowledge/sustainability "Sustainability")
     * [Dutch economy](https://www.rabobank.com/knowledge/dutch-economy "Dutch economy")
     * [Dutch housing market](https://www.rabobank.com/knowledge/dutch-housing-market "Dutch housing market")
-    * [Energy transition](https://www.rabobank.com/knowledge/energy-transition "Energy transition")
-    * [Geopolitics](https://www.rabobank.com/knowledge/geopolitics "Geopolitics")
-    * [Sustainability](https://www.rabobank.com/knowledge/sustainability "Sustainability")
+    * [RaboResearch Podcasts](https://www.rabobank.com/knowledge/raboresearch-podcasts "RaboResearch Podcasts")
+    * [Our experts](https://www.rabobank.com/knowledge/our-experts "Our experts")
+    
+    Food & Agribusiness
+    
+    * [Overview](https://www.rabobank.com/knowledge/food-agribusiness "Overview")
+    * [Agri Commodity Markets](https://www.rabobank.com/knowledge/agri-commodity-markets "Agri Commodity Markets")
+    * [Animal Protein](https://www.rabobank.com/knowledge/animal-protein "Animal Protein")
+    * [Beverages](https://www.rabobank.com/knowledge/beverages "Beverages")
+    * [Consumer Foods](https://www.rabobank.com/knowledge/consumer-foods "Consumer Foods")
+    * [Dairy](https://www.rabobank.com/knowledge/dairy "Dairy")
+    * [Farm Inputs](https://www.rabobank.com/knowledge/farm-inputs "Farm Inputs")
+    * [Fresh Produce](https://www.rabobank.com/knowledge/fresh-produce "Fresh Produce")
+    * [Grains & Oilseeds](https://www.rabobank.com/knowledge/grains-oilseeds "Grains & Oilseeds")
+    * [Packaging & Logistics](https://www.rabobank.com/knowledge/packaging-logistics "Packaging & Logistics")
+    * [Sugar](https://www.rabobank.com/knowledge/sugar "Sugar")
+    
+    Countries and Regions
+    
+    * [Overview](https://www.rabobank.com/knowledge/regions "Overview")
+    * [Netherlands](https://www.rabobank.com/knowledge/netherlands "Netherlands")
+    * [Africa](https://www.rabobank.com/knowledge/africa "Africa")
+    * [Asia](https://www.rabobank.com/knowledge/asia "Asia")
+    * [Australia & New Zealand](https://www.rabobank.com/knowledge/australia-and-new-zealand "Australia & New Zealand")
+    * [Europe](https://www.rabobank.com/knowledge/europe "Europe")
+    * [North America](https://www.rabobank.com/knowledge/north-america "North America")
+    * [South America](https://www.rabobank.com/knowledge/south-america "South America")
     
 * Support
     
