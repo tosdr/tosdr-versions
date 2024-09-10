@@ -894,7 +894,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** First name, Last name, Phone number, Physical address, Email address, Country, State, Zip/postal code, City, Cookies, Usage data, Universally unique identifier (uuid), Trackers, Unique device identifiers for advertising (google advertiser id or idfa, for example), Various types of data as specified in the privacy policy of the service, Province, County, Latitude (of city), Longitude (of city), Metro area, Geography/region, Ip address, Device information, App information, Device logs, Operating systems, Browser information, Language, Launches, Number of sessions, Session duration, Scroll-to-page interactions, Mouse movements, Scroll position, Keypress events, Motion sensor events, Touch events, Video views, Clicks, Browsing history, Search history, Session statistics, Page views, Interaction events, Page events, Custom events, Application opens
+    **Personal Information collected or disclosed:** first name, last name, phone number, physical address, email address, country, state, ZIP/Postal code, city, Cookies, Usage Data, Universally unique identifier (UUID), Trackers, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service, province, county, latitude (of city), longitude (of city), metro area, geography/region, IP address, device information, app information, device logs, operating systems, browser information, language, launches, number of sessions, session duration, scroll-to-page interactions, mouse movements, scroll position, keypress events, motion sensor events, touch events, video views, clicks, browsing history, search history, session statistics, page views, interaction events, page events, custom events, Application opens
     
     **Sensitive Personal Information collected or disclosed ℹ️:** password
     
@@ -919,7 +919,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Trackers, Usage data, Cookies, Universally unique identifier (uuid), Unique device identifiers for advertising (google advertiser id or idfa, for example), Email address, Various types of data as specified in the privacy policy of the service, Number of users, Session statistics, City, Zip/postal code, State, Province, Country, County, Latitude (of city), Longitude (of city), Metro area, Geography/region, Ip address, Device information, App information, Device logs, Operating systems, Browser information, Language, Launches, Number of sessions, Session duration, Scroll-to-page interactions, Mouse movements, Scroll position, Keypress events, Motion sensor events, Touch events, Video views, Clicks, Browsing history, Search history, Page views, Interaction events, Page events, Custom events, Application opens
+    **Personal Information collected or disclosed:** Trackers, Usage Data, Cookies, Universally unique identifier (UUID), unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), email address, various types of Data as specified in the privacy policy of the service, number of Users, session statistics, city, ZIP/Postal code, state, province, country, county, latitude (of city), longitude (of city), metro area, geography/region, IP address, device information, app information, device logs, operating systems, browser information, language, launches, number of sessions, session duration, scroll-to-page interactions, mouse movements, scroll position, keypress events, motion sensor events, touch events, video views, clicks, browsing history, search history, page views, interaction events, page events, custom events, Application opens
     
     **Purposes:**
     
@@ -948,7 +948,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Geolocation data
     
-    **Personal Information collected or disclosed:** City, Zip/postal code, State, Province, Country, County, Latitude (of city), Longitude (of city), Metro area, Geography/region, Usage data, Trackers, Ip address, Device information, App information, Device logs, Operating systems, Browser information, Language, Launches, Number of sessions, Session duration, Scroll-to-page interactions, Mouse movements, Scroll position, Keypress events, Motion sensor events, Touch events, Video views, Clicks, Browsing history, Search history, Session statistics, Page views, Interaction events, Page events, Custom events, Application opens
+    **Personal Information collected or disclosed:** city, ZIP/Postal code, state, province, country, county, latitude (of city), longitude (of city), metro area, geography/region, Usage Data, Trackers, IP address, device information, app information, device logs, operating systems, browser information, language, launches, number of sessions, session duration, scroll-to-page interactions, mouse movements, scroll position, keypress events, motion sensor events, touch events, video views, clicks, browsing history, search history, session statistics, page views, interaction events, page events, custom events, Application opens
     
     **Purposes:**
     
@@ -964,7 +964,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Inferences drawn from other personal information
     
-    **Personal Information collected or disclosed:** City, Zip/postal code, State, Province, Country, County, Latitude (of city), Longitude (of city), Metro area, Geography/region, Usage data, Trackers, Ip address, Device information, App information, Device logs, Operating systems, Browser information, Language, Launches, Number of sessions, Session duration, Scroll-to-page interactions, Mouse movements, Scroll position, Keypress events, Motion sensor events, Touch events, Video views, Clicks, Browsing history, Search history, Session statistics, Page views, Interaction events, Page events, Custom events, Application opens
+    **Personal Information collected or disclosed:** city, ZIP/Postal code, state, province, country, county, latitude (of city), longitude (of city), metro area, geography/region, Usage Data, Trackers, IP address, device information, app information, device logs, operating systems, browser information, language, launches, number of sessions, session duration, scroll-to-page interactions, mouse movements, scroll position, keypress events, motion sensor events, touch events, video views, clicks, browsing history, search history, session statistics, page views, interaction events, page events, custom events, Application opens
     
     **Purposes:**
     
