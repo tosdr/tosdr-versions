@@ -2,7 +2,7 @@
 
 [Skip to main content](https://sddeaf.org/dnn_MiddlePane)
 
-[](https://sddeaf.org/ "SDSD")
+[![SDSD](/Portals/1/Images/SDSDWebLogo.png?ver=OEqnsdVMs6yScd9zRoCRfw%3d%3d)](https://sddeaf.org/ "SDSD")
 
 [Login](https://sddeaf.org/Login?returnurl=%2fTerms "Login")
 
