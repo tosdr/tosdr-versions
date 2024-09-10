@@ -4,8 +4,6 @@
 
 ![Church Online Platform Logo](https://chop-marketing.imgix.net/master/images/global/church_online_platform_logo_dark.png?auto=format&fit=max&w=640)](https://online.church/)
 
-from [YouVersion for Churches](https://youversion.church/)
-
 [Features](https://online.church/features)[How It Works](https://online.church/how-it-works)[Learn](https://online.church/learn)[Careers](https://www.life.church/careers/team/?name=Digital%20Technology)[Log In](https://online.church/login)
 
 [Sign Up](https://online.church/signup)
