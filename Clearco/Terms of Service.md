@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66a15bbf081233c5474151c1_True%20Cost%20of%20Selling%20on%20Amazon%20(1).png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66d7894dcf852d8678ce309b_clearco-business-leadership-podcast.jpg)
 
-###### The True Cost of Selling on Amazon: A Comprehensive Guide
+###### What We Learned on The Business Leadership Podcast
 
-[Read now >](https://clear.co/blog/the-true-cost-of-selling-on-amazon)
+[Read now >](https://clear.co/blog/clearco-business-leadership-podcast)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
