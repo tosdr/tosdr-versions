@@ -126,13 +126,15 @@ i. No exploitative or misleading monetization or mechanics. It must be clear wha
 
 ii. Charity fundraisers involving the use of Rec Tokens are not allowed. Links or directions to off-platform charity sites are permissible as long as the site does not violate these rules. 
 
-iii. Using exploits, bots, alternate accounts, or other unfair methods to maintain a spot on a promotional page is prohibited. This includes, but is not limited to:
+iii. Using exploits, bots, alternate accounts, or other unfair methods to maintain a spot on any promotional page is prohibited. This includes, but is not limited to activities such as:
 
-* Repeated rescheduling of events in order to maintain placements on the "Hot" page;
+* Repeated rescheduling of events;
     
-* Reposting exact or extremely similar low-effort clones of the same room to maintain a spot on the "New" page;
+* Reposting exact or similar clones of the same room;
     
-* Abuse of the tagging system to maintain featured placement for content.
+* Spam publishing or republishing rooms;
+    
+* Abuse of the tagging system.
     
 
 ### **5\. Intellectual Property & Content Integrity**
