@@ -62,6 +62,7 @@
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
@@ -448,6 +449,7 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
