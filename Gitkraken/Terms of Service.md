@@ -1,7 +1,30 @@
+[![](https://www.gitkraken.com/wp-content/uploads/2024/08/Group-21072.png)](https://www.gitkraken.com/devexdays24)
+
+##### Now Up To 80% OFF
+
+[Sign Up To Save](https://gitkraken.dev/purchase?planType=PRO&planQuantity=1&promoCode=DEVEXDAYS24)
+
+Our Lowest Price of the Year  
+Sale Extended Through Sept 9th
+
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
-    * Products
+    * ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector.svg)
+        
+        Built for Teams
+        ---------------
+        
+        A DevEx platform that’s built for team velocity & greater collaboration.
+        
+        ![](https://www.gitkraken.com/wp-content/uploads/2024/09/Vector-1.svg)
+        
+        Enterprise Grade
+        ----------------
+        
+        Solutions designed for large-scale security, privacy & control.
+        
+        Products
         --------
         
         *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gkd-nav.svg)  GitKraken Desktop](https://www.gitkraken.com/git-client)
@@ -64,7 +87,6 @@
         
 * [Pricing](https://www.gitkraken.com/pricing "Pricing")
 * [Sign In](https://gitkraken.dev/login "Sign In")
-* [Get Started](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success "Get Started")
 
 * [GitKraken Desktop features](https://www.gitkraken.com/git-client "GitKraken Desktop features")
 * [GitLens features](https://www.gitkraken.com/gitlens "GitLens features")
@@ -243,7 +265,7 @@ If you have any questions about this EULA or wish to request any special terms f
 
 [**GitKraken Desktop**](https://www.gitkraken.com/git-client)
 
-* [Login](https://app.gitkraken.com/login)  
+* [Login](https://gitkraken.dev/login)  
 * [Documentation](https://help.gitkraken.com/gitkraken-client/gitkraken-client-home/)  
 * [Release Notes](https://help.gitkraken.com/gitkraken-client/current/)  
 * [Roadmap](https://www.gitkraken.com/git-client/roadmap)
