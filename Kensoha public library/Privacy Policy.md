@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1722345266833)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1725973342489)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -112,13 +112,13 @@ Search
     
     ### Recommended Reads
     
-    * [Staff Picks](https://mykpl.info/explore/?post-type=staff-list)
-    * [KPL Blog](https://mykpl.info/blogs/)
-    * [Award Winners](https://mykpl.bibliocommons.com/explore/awards)
-    * [KPL News](https://mykpl.info/news)
-    * [Bestsellers](https://mykpl.bibliocommons.com/explore/bestsellers)
     * [Explore New Titles](https://mykpl.info/browse-new/)
+    * [Staff Picks](https://mykpl.info/explore/?post-type=staff-list)
+    * [Award Winners](https://mykpl.bibliocommons.com/explore/awards)
+    * [Bestsellers](https://mykpl.bibliocommons.com/explore/bestsellers)
     * [Favorite Authors Club](https://www.lakeshores.lib.wi.us/FavAuthors/kpl_fac)
+    * [KPL Blog](https://mykpl.info/blogs/)
+    * [KPL News](https://mykpl.info/news)
     
     ### Book Clubs
     
@@ -132,8 +132,20 @@ Search
     * [eBooks & eAudiobooks](https://mykpl.info/resources-types/ebooks-eaudiobooks/)
     * [Homework Help](https://mykpl.info/learning-tools/homework-reading-help/)
     * [Research](https://mykpl.info/resources/research/)
-    * [Storytimes](https://my.nicheacademy.com/mykpl?category=18860)
-    * [Browse](https://mykpl.info/digital-library/)
+    * [Browse the Digital Library](https://mykpl.info/digital-library/)
+    
+    ### Movies & Video Games
+    
+    * [Blu-Ray](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=blu-ray&searchType=catalogue&locale=en-US&f_FORMAT=BLURAY&f_STATUS=KPL-BKM%7CKPL-UCL%7CKPL-NS%7CKPL-SI%7CKPL-UP)
+    * [DVD](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=DVD&searchType=catalogue&locale=en-US&f_FORMAT=DVD&f_STATUS=KPL-UCL%7CKPL-NS%7CKPL-SI%7CKPL-UP%7CKPL-BKM)
+    * [PS5](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=PS5&searchType=keyword&locale=en-US&f_FORMAT=VIDEO_GAME)
+    * [PS4](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=PS4&searchType=keyword&locale=en-US&f_FORMAT=VIDEO_GAME)
+    * [Xbox One](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=Xbox%20One&searchType=keyword&locale=en-US&f_FORMAT=VIDEO_GAME)
+    * [Nintendo Switch](https://mykpl.bibliocommons.com/v2/search?origin=header-navigation&query=Nintendo%20Switch&searchType=keyword&locale=en-US&f_FORMAT=VIDEO_GAME)
+    
+    ### Library of Things
+    
+    * [Gadgets, Tools & More!](https://mykpl.info/library-of-things/)
     
 * [KPL Kids](https://mykpl.info/kids)
 * [Learn & ExploreLearn & Explore, collapsed](#learn_explore_menu)
@@ -165,7 +177,7 @@ Search
     * [Google Professional Certificates](https://mykpl.info/growwithgoogle/)
     * [LinkedIn Learning](https://www.linkedin.com/learning-login/go/share?original_referer=https%3A%2F%2Fmykpl.info%2F)
     * [MasterClass](https://mykcls.info/masterclass/)
-    * [Fresh Thinking Challenge 2024](https://mykpl.bibliocommons.com/list/share/2066172509_kpljeremy/2478906779_business_entrepunerial_mindset?utm_source=mykpl.us&utm_medium=urlshortener&utm_campaign&utm_term&utm_content&q=%2Fbiz-list)
+    * [Chilton Auto Repair Manuals](https://app.chiltonlibrary.com/home?id_token=eyJraWQiOiIyMTU3NDU1ODE1NjA3NzI5NjY4Mjc4Mzc4MzYwNDg3MjE2NzU5ODMiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJDaGlsdG9uTGlicmFyeS5jb20iLCJhdWQiOiJHYWxlIiwic3ViIjoiYmFkZ2VybGluayIsImlhdCI6MTcyNDY5ODU0NywiZXhwIjoxNzI0NzAyMTQ3LCJ2ZXIiOiIyIiwibG9jYXRpb25faWQiOiJiYWRnZXJsaW5rIiwibG9jYXRpb25fdGl0bGUiOiJCYWRnZXJMaW5rIiwiaW5zdGl0dXRpb25faWQiOiJiYWRnZXJsaSIsImluc3RpdHV0aW9uX3RpdGxlIjoiIiwiY291bnRyeSI6IlVTIiwicmVnaW9uIjoiV0kiLCJhdXRoX3R5cGUiOiJpcCIsImNsaWVudF9pcCI6IjIwNS4yMTMuMTQyLjIzNyIsInVhIjoiNTA5OTA4NjUiLCJsYW5nX2lkIjoiMSIsImxhdW5jaF9kb21haW4iOiJnYWxlLmNvbSIsImF1dGhfc2VydmVyIjoiaHR0cHM6Ly9pbmZvdHJhYy5nYWxlLmNvbS9nYWxlbmV0L2JhZGdlcmxpbmsiLCJtZW51X3NlcnZlciI6Imh0dHBzOi8vbGluay5nYWxlLmNvbS9hcHBzL21lbnU_dXNlckdyb3VwTmFtZT1iYWRnZXJsaW5rIiwic2Vzc2lvbl9pZCI6IjE3MjQ2OTg1NDc5MDliYWRnZXJsaW5rIiwidWlfcHJlZmVyZW5jZSI6ImdhbGVuZXQiLCJwcm9kdWN0X2lkIjoiQ0hMTCIsImV4cGlyYXRpb24iOiIyMDI0MDgyNzE4NTU0NyBHTVQiLCJsaWNlbnNlX3Rva2VuIjpudWxsLCJsaWNlbnNlX2xpbWl0IjotMSwiYnJhbmRpbmdfc2NyaXB0IjoiaHR0cHM6Ly9hc3NldHMuY2VuZ2FnZS5jb20vZ2FsZS9icmFuZGluZy92b2lkL3ZvaWQuanMiLCJicmFuZGluZ190ZXh0IjoiICIsInNjb3BlIjoicmVhZCJ9.mMHR6NwzN3M1VYqksJonslrCbh-lvNt_5Av_1Zb-9a2Ok1k-Y_wSGNyib2Rhgkk7FUYQUGqQnMo4lpk5b6J9GM8T5GZYjuDCEeX5xgxnTpct-d5SkexlYnZRt-RwUg0Tk1WzzDLC86huGloPpUmHD1BO_jYgpXk3O_0RdTsozlv1_GARne26_r2AIaU2HL-yoTtV61gRe7Za7rS-yHzpbIoAQ3eGbmVVOKgQqWRzRrUOfyOb66H6D1PvDTOM396g7UHLgVE_kXWbb5oN7loMKQerH-U-_TRhTPNpBTAnyNq65QE-M0ZVRFbNv4OpSW9__ek1-z69nVDkZmQE6yLoHg)
     
     ### Research
     
@@ -203,6 +215,7 @@ Search
     ------
     
     * [All Events](https://mykpl.bibliocommons.com/v2/events)
+    * [Virtual Author Talks](https://libraryc.org/mykpl)
     * [Virtual](https://mykpl.bibliocommons.com/v2/events?locations=BC_VIRTUAL)
     * [Community Events](#)
     
@@ -240,7 +253,6 @@ Search
     * [Getting a Card](https://mykpl.info/library-card/)
     * [Update Your Library Card](https://mykpl.info/updatecard/)
     * [Using the Library](https://mykpl.info/faqs/)
-    * [KPL Kids @ Uptown](https://mykpl.info/uptown-childrens-library/)
     
     ### Age Group
     
@@ -490,7 +502,7 @@ Footer Menu
 * [Digital Library](https://mykpl.info/online-resources/)
 * [Take Home Tech](https://mykpl.bibliocommons.com/v2/search?query=library+of+things&searchType=keyword&locale=en-US&f_FORMAT=EQUIPMENT&f_FICTION_TYPE=UNDETERMINED&f_CIRC=CIRC&f_AUDIENCE=adult)
 * [Take Home Toys](https://mykpl.bibliocommons.com/v2/search?custom_edit=false&query=collection%3A%22Children%27s+Library+of+Things+Collection%22&searchType=bl&suppress=true&title=Take%20Home%20Toys)
-* [ILL / WisCat](https://www.wiscat.net/home?cid=stwi&lid=stwi)
+* [ILL / WisCat](https://mykpl.info/ill/)
 * [Classic Catalog](https://ent.sharelibraries.info/client/en_US/kpl-classic)
 
 ### Get Involved
@@ -534,7 +546,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp02 Version 4.20.0 Last updated 2024/06/12 09:17
+BiblioWeb: webapp07 Version 4.21.0 Last updated 2024/08/07 09:35
 
 [Back to Top](#top)
 
