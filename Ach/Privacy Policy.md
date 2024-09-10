@@ -12,9 +12,10 @@ Utility Navigation
 * [Events](https://www.nacha.org/events)
 * [News](https://www.nacha.org/news)
 * [Consulting](https://www.nacha.org/content/nacha-elevation-consulting)
+* [Risk Resources](https://www.nacha.org/risk-resource)
+* [Login](https://www.nacha.org/login-page)
 * [Contact](https://www.nacha.org/form/contact)
 * [Search](https://www.nacha.org/search)
-* [Risk Resources](https://www.nacha.org/risk-resource)
 
 [![AAP logo](/sites/default/files/2024-07/2024-AAP-exam_0.png)](https://www.nacha.org/content/become-aap)
 
@@ -57,6 +58,8 @@ Main navigation
             
         * [Compliance](https://www.nacha.org/content/compliance)
             
+        * [Banking Conventions and Opt-In Programs](https://www.nacha.org/content/ach-programs-and-resources)
+            
         * [Nacha Operating Rules Online](https://nachaoperatingrulesonline.org/event-data)
             
         
@@ -85,41 +88,11 @@ Main navigation
             
         * [Risk Management Framework](https://www.nacha.org/content/risk-management-framework)
             
-        * [Account Validation Resource Center](https://www.nacha.org/content/account-validation-resource-center)
+        * [Risk Management Advisory Group](https://www.nacha.org/RMAG)
             
         * [Regulatory Guidance](https://www.nacha.org/content/regulatory-guidance)
             
         * [Nacha Certified](https://www.nacha.org/content/nacha-certified)
-            
-        
-    * [Putting ACH to Use](https://www.nacha.org/content/nacha-resources-treasury-finance-and-payroll-professionals)
-        
-        ACH benefits all types of users, from businesses, nonprofits, consumers and more.
-        
-        * [Consumers](https://www.nacha.org/consumers)
-            
-        * [Businesses: Small, Subscription](https://www.nacha.org/content/elevate-your-subscription-business-recurring-ach-payments)
-            
-        * [Corporates and Governmental Organizations](https://www.nacha.org/content/nacha-resources-corporate-treasury-and-finance-professionals)
-            
-        * [Nonprofits and Religious Organizations](https://www.nacha.org/content/supporting-nonprofits-and-religious-organizations)
-            
-        * [Healthcare Providers](https://www.nacha.org/content/medical-and-dental-practices)
-            
-        
-    * [More for the Payments Community](https://www.nacha.org/consulting)
-        
-        From consulting to partnering, Nacha has the resources.
-        
-        * [Nacha Consulting](https://www.nacha.org/consulting)
-            
-        * [Opt-In Programs](https://www.nacha.org/opt-in-programs)
-            
-        * [Preferred Partners](https://www.nacha.org/preferred-partners)
-            
-        * [Nacha Operating Rules Products](https://www.nacha.org/rulesyourway)
-            
-        * [Additional Resources](https://www.nacha.org/content/ach-programs-and-resources)
             
         
     
@@ -142,7 +115,7 @@ Main navigation
             
         * [PaymentsIQ by Nacha](https://www.nacha.org/PaymentsIQ)
             
-        * [ACH Legal & Compliance Summit](https://www.nacha.org/ach-legal-summit)
+        * [Payments Legal & Compliance Summit](https://www.nacha.org/payments-legal-compliance-summit)
             
         * [Webinars](https://www.nacha.org/content/distance-learning-center)
             
@@ -225,7 +198,7 @@ Main navigation
             
         
     
-* [Payments Enablement](https://www.nacha.org/content/payments-enablement)
+* [Enablement](https://www.nacha.org/content/payments-enablement)
     
     * [Phixius](https://www.nacha.org/content/phixius)
         
@@ -249,33 +222,43 @@ Main navigation
         
     * [Solutions & Services](https://www.nacha.org/content/solutions-and-services)
         
-        * [Consulting](https://www.nacha.org/consulting)
+        * [Nacha Consulting](https://www.nacha.org/consulting)
             
         * [Preferred Partners](https://www.nacha.org/preferred-partners)
             
-        
-    
-* [Login](https://www.nacha.org/user/login)
-    
-    * [Nacha.org](https://nacha.mpxstage.com/account/login.aspx?RedirectUrl=https%3A//impxtest-nacha22.pantheonsite.io/)
-        
-        Access your transaction information for events, products or continuing education credits. Note, your login credentials for the Nacha website is different than the Risk Management Portal and Nacha Operating Rules Online.
-        
-        * [Login](https://my.nacha.org/account/login.aspx)
+        * [Account Validation Resource Center](https://www.nacha.org/content/account-validation-resource-center)
+            
+        * [Nacha Operating Rules Products](https://www.nacha.org/rulesyourway)
             
         
-    * Risk Management Portal
+    
+* [Users](https://www.nacha.org/content/nacha-resources-treasury-finance-and-payroll-professionals)
+    
+    * [Consumers](https://www.nacha.org/consumers)
         
-        Access the ACH Contact Registry, Third-Party Sender Registration, Direct Access Debit Registration and Terminated Originator Database.
-        
-        * [Portal Login](https://riskmanagementportal.nacha.org/)
+        * [Consumer FAQs on ACH Payments](https://www.nacha.org/content/consumer-faqs-ach-payments)
+            
+        * [Direct Deposit and Direct Payment Benefits Consumers](https://www.nacha.org/consumers)
+            
+        * [Risk Management Resources for Consumers](https://www.nacha.org/risk-resource?field_risk_audience_target_id=399)
             
         
-    * Nacha Operating Rules Online
+    * Corporates
         
-        You must have a current Online Resource subscription code to access Nacha Operating Rules Online content. To purchase a subscription code or for more product information, visit nachaoperatingrulesonline.org
+        * [Corporates and Governmental Organizations](https://www.nacha.org/content/nacha-resources-corporate-treasury-and-finance-professionals)
+            
+        * [Healthcare Claim Payments](https://www.nacha.org/content/medical-and-dental-practices)
+            
+        * [Risk Management Resources for Originators/Businesses](https://www.nacha.org/risk-resource?field_risk_audience_target_id=401)
+            
         
-        * [Subscriber Login](https://www.nachaoperatingrulesonline.org/?qr=1)
+    * Small/Medium Business
+        
+        * [Businesses: Small](https://www.nacha.org/content/ach-supports-small-businesses)
+            
+        * [Nonprofits and Religious Organizations](https://www.nacha.org/content/supporting-nonprofits-and-religious-organizations)
+            
+        * [Subscription](https://www.nacha.org/content/elevate-your-subscription-business-recurring-ach-payments)
             
         
     
@@ -297,14 +280,14 @@ Legal Information
     * [Privacy Policy](#pageContent-2626)
     * [Terms and Conditions of Use](#pageContent-2627)
 
-_Updated: May 1, 2024_
+_Updated: Aug. 6, 2024_
 
 Privacy Policy
 
 
 ------------------
 
-This Notice explains how the National Automated Clearing House Association (dba "Nacha") and its related groups, including this site, ("Nacha", "we", "group" or "us") collects, uses shares, processes and stores your Personal Data. This Notice applies to [www.nacha.org](http://www.nacha.org/) or related websites (together the “Site”). We encourage you to read this Notice in full to understand our privacy practices before using the Site.
+This Notice explains how the National Automated Clearing House Association (dba "Nacha") and its related groups, including this site, ("Nacha", "we", "group" or "us") collects, uses shares, processes and stores your Personal Data. This Notice applies to [www.nacha.org](https://www.nacha.org/) or related websites (together the “Site”). We encourage you to read this Notice in full to understand our privacy practices before using the Site.
 
 “Personal Data” is any information that enables us to identify you, directly or indirectly, by reference to an identifier such as your name, identification number, location data, online identifier or one or more factors specific to your physical, physiological, genetic, mental, economic, cultural or social identity.
 
@@ -314,13 +297,13 @@ This Notice is applicable to all visitors, registered users, and all other users
 
 ##### **WHO WE ARE**
 
-For the purposes of this notice, the Data Controller is the National Automated Clearing House Association, dba Nacha, registered in the state of Delaware USA with a registered address at 2550 Wasser Terrace, Suite 400, Herndon, VA 20171.
+For the purposes of this notice, the Data Controller is the National Automated Clearing House Association, dba Nacha, registered in the state of Delaware USA with a registered address at 11951 Freedom Drive, Suite 1001, Reston, VA 20190.
 
 Our Legal Department is responsible for overseeing questions in relation to this Notice.
 
 ##### **HOW TO CONTACT US**
 
-If you have any questions or concerns about this Notice, please contact us using the [Contact](http://www.nacha.org/form/contact) section on the Site. Alternatively, you can contact us by phone at 703-561-1100, by sending an email to [dataprotection@nacha.org](mailto:dataprotection@nacha.org), or by mail to 2550 Wasser Terrace, Suite 400, Herndon, VA 20171.
+If you have any questions or concerns about this Notice, please contact us using the [Contact](https://www.nacha.org/form/contact) section on the Site. Alternatively, you can contact us by phone at 703-561-1100, by sending an email to [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection), or by mail to 11951 Freedom Drive, Suite 1001, Reston, VA 20190.
 
 If you have a specific question on a Nacha Operating Rule, complete the [Rules Information Request form](https://asigwg.atlassian.net/servicedesk/customer/portal/5) and a Nacha Rules expert will respond back to you.
 
@@ -423,7 +406,7 @@ We will never sell or rent your Personal Data to third parties. We do provide th
 ##### **SECURITY**
 
 Our policies and procedures limit access to your personal information to those with a business reason to know such information.  
-Your privacy is very important to Nacha and we are committed to protecting your personal information from unauthorized access, loss, misuse or alterations. We will use reasonable organizational, physical, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact” on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
+Your privacy is very important to Nacha and we are committed to protecting your personal information from unauthorized access, loss, misuse or alterations. We will use reasonable organizational, physical, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact” on our Site or contacting us at [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection).
 
 Access to your nonpublic personally identifiable financial information is limited, through password protection devices and physical safeguards, to authorized employees as necessary to perform the requested transaction. We reveal only partial digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. However, we cannot guarantee the confidentiality or security of your browser or any communication transmitted or accessible over the Internet. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
@@ -433,7 +416,7 @@ We are headquartered in the United States. Your Personal Data may be accessed by
 
 ##### **HOW LONG WE STORE YOUR PERSONAL DATA**
 
-We will retain your information for as long as your account is active, or as needed to provide you with access to our Site, or as required by law. If you wish to cancel your account or request that we no longer use your information to provide you service, you may contact us by using the **[Contact](https://www.nacha.org/contact)** section on our Site or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
+We will retain your information for as long as your account is active, or as needed to provide you with access to our Site, or as required by law. If you wish to cancel your account or request that we no longer use your information to provide you service, you may contact us by using the **[Contact](https://www.nacha.org/contact)** section on our Site or contacting us at [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection).
 
 ##### **WHERE WE STORE YOUR PERSONAL DATA**
 
@@ -451,19 +434,19 @@ Occasionally, you may encounter banner advertisements for our products and servi
 
 ##### **CHILDREN’S PRIVACY**
 
-Our Site is not directed to children under the age of 13. If you are not 13 years or older, do not use our Site. We do not knowingly collect Personal Data from children under the age of 13. If we learn that Personal Data of persons less than 13 years of age has been collected through our Site, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child or a minor under the age of 13 has posted, submitted or otherwise communicated Personal Data to our Site without your consent, then you may alert us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org) so that we may take appropriate action to remove the minor's Personal Data from our systems.
+Our Site is not directed to children under the age of 13. If you are not 13 years or older, do not use our Site. We do not knowingly collect Personal Data from children under the age of 13. If we learn that Personal Data of persons less than 13 years of age has been collected through our Site, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child or a minor under the age of 13 has posted, submitted or otherwise communicated Personal Data to our Site without your consent, then you may alert us at [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection) so that we may take appropriate action to remove the minor's Personal Data from our systems.
 
 ##### **YOUR RIGHTS**
 
 **Correction and removal**  
-If any of the information that we have about you is incorrect, or you wish to have information (including Personal Data) removed from our records, you may do so by visiting Nacha.org**,** or contacting us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org). Please note that we may not be able to update or correct your personal information previously provided to us by third parties.
+If any of the information that we have about you is incorrect, or you wish to have information (including Personal Data) removed from our records, you may do so by visiting Nacha.org**,** or contacting us at [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection). Please note that we may not be able to update or correct your personal information previously provided to us by third parties.
 
 **Opting Out**  
-As mentioned above, we may use your Personal Data to contact and correspond with you and to respond to your inquiries. If you prefer not to receive marketing messages from us, please let us know by clicking on the unsubscribe link within any marketing message that you receive, by visiting your Nacha email preferences page available through your user profile, or by sending a message to us at [dataprotection@nacha.org](mailto:dataprotection@nacha.org).
+As mentioned above, we may use your Personal Data to contact and correspond with you and to respond to your inquiries. If you prefer not to receive marketing messages from us, please let us know by clicking on the unsubscribe link within any marketing message that you receive, by visiting your Nacha email preferences page available through your user profile, or by sending a message to us at [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection).
 
 ##### Combatting Unethical Behavior
 
-Nacha encourages the prompt reporting of all perceived incidents of unethical behavior by its employees or representatives so that immediate action can be taken, if appropriate. Individuals who believe they have been the victim by Nacha or any of its representatives should confidentially submit an email to [EthicsHotline@nacha.org](mailto:EthicsHotline@nacha.org).
+Nacha encourages the prompt reporting of all perceived incidents of unethical behavior by its employees or representatives so that immediate action can be taken, if appropriate. Individuals who believe they have been the victim by Nacha or any of its representatives should confidentially submit an email to [\[email protected\]](https://www.nacha.org/cdn-cgi/l/email-protection).
 
 Any reported allegations will be investigated promptly. 
 
