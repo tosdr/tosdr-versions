@@ -118,15 +118,11 @@ Products
 
 Platform
 
-[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[Vault](https://mercury.com/vault)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://app.mercury.com/help)
+[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://app.mercury.com/help)
 
 Industries
 
 [SaaS](https://mercury.com/saas)[Ecommerce](https://mercury.com/ecommerce)[VC Funds](https://mercury.com/vc-funds)[Web3](https://mercury.com/web3)[Life Science](https://mercury.com/life-science)
-
-Stages
-
-[Pre-Seed & Seed](https://mercury.com/seed-startup-banking)[Series A & Beyond](https://mercury.com/startup-banking)
 
 Grow
 
