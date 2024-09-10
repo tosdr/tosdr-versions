@@ -30,10 +30,6 @@ SUPPORT
 
 [Terms and Conditions](https://www.eurodns.com/terms-and-conditions)
 
-[Our website uses cookies.](https://www.eurodns.com/use-of-cookies) Some of the cookies used are essential for parts of the site to operate.
-
-Accept
-
 [![Brand](/assets/images/logos-companies/eurodns-logo-blue.svg)](https://www.eurodns.com/)
 
 * [DOMAIN NAMES](https://www.eurodns.com/domain-name-search)
@@ -283,10 +279,10 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
-* 25.07.2024[Industry-Specific Advantages of Shared Web Hosting](https://www.eurodns.com/blog/shared-web-hosting-vs-other-hosting-whats-best-for-your-business)
-* 19.07.2024[12 Best Domain Extensions for the Healthcare Industry](https://www.eurodns.com/blog/best-domains-healthcare)
-* 18.07.2024[Top 4 Benefits of Using a Custom Email Domain](https://www.eurodns.com/blog/benefits-of-personalised-domain-email)
-* 17.07.2024[What is a Domain Name Redirect or URL Forwarding? How does it work?](https://www.eurodns.com/blog/redirect-domain-names-with-url-forwarding)
+* 05.09.2024[Plesk Hosting: The Ultimate Solution for Educational Websites](https://www.eurodns.com/blog/plesk-hosting-for-education)
+* 29.08.2024[5 Email Marketing Tips to Boost Your Ecommerce Sales](https://www.eurodns.com/blog/email-marketing-tips-boost-ecommerce-sales)
+* 27.08.2024[Price change for multiple domain extensions as of 1st September](https://www.eurodns.com/blog/price-change-for-com-xyz)
+* 22.08.2024[How to Manage a High-Traffic E-commerce Site with Plesk Hosting?](https://www.eurodns.com/blog/manage-high-traffic-ecommerce-with-plesk)
 
 #### Domain Name Discounts
 
