@@ -17,7 +17,6 @@
         * [Operation Christmas Child](https://www.samaritanspurse.ca/what-we-do/operation-christmas-child/)
         * [The Greatest Journey](https://www.samaritanspurse.ca/the-greatest-journey/)
         * [World Medical Mission](https://www.samaritanspurse.ca/getinvolved/world-medical-mission/)
-    
     * [CURRENT RESPONSES](#)
         * [Jasper Wildfire Response](https://www.samaritanspurse.ca/article/rushing-help-to-jasper-wildfire-evacuees/)
         * [Minnesota Flood Response​](https://www.samaritanspurse.ca/article/minnesota-floods/)
