@@ -13,6 +13,7 @@ Management](https://later.com/)
     
     * [What We DoEvery social tool in one app](https://later.com/social-media-marketing-tools/)
     * [Publish & ScheduleNever forget to post again](https://later.com/social-media-publishing/)
+    * [Social ListeningCustomer insights, ready in seconds](https://later.com/social-media-listening/)
     * [Content CreationCreate better content faster](https://later.com/content-creation-tools/)
     * [Caption WriterGenerate Instagram captions in seconds](https://later.com/caption-writer/)
     * [Later Mobile AppSchedule & post on the go](https://later.com/app/)
@@ -1409,6 +1410,7 @@ The best social media marketing app, influencer marketing management platform & 
     
     * [Social Media Tools](https://later.com/social-media-marketing-tools/)
     * [Publish & Schedule](https://later.com/social-media-publishing/)
+    * [Social Listening](https://later.com/social-media-listening/)
     * [Content Creation](https://later.com/content-creation-tools/)
     * [AI Caption Writer](https://later.com/caption-writer/)
     * [Later Mobile App](https://later.com/app/)
@@ -1443,6 +1445,7 @@ The best social media marketing app, influencer marketing management platform & 
     Solutions
     
     * [Later Influencer Program](https://later.com/influencer-creator-program/)
+    * [Reputation Management](https://later.com/reputation-management-software/)
     
     Tools
     
@@ -1455,6 +1458,7 @@ The best social media marketing app, influencer marketing management platform & 
     * [Syndicate Content](https://later.com/influencer-marketing-tools/influencer-content-syndication-platform/)
     * [Influencer Analytics](https://later.com/influencer-marketing-tools/influencer-analytics-platform/)
     * [EMV + ROI](https://later.com/influencer-marketing-tools/calculate-marketing-roi-emv/)
+    * [Shopify Integration](https://later.com/influencer-marketing-tools/shopify-integration/)
     * [All Tools](https://later.com/influencer-marketing-tools/)
     
     Influencers
