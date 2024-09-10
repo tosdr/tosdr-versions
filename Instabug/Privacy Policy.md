@@ -521,14 +521,6 @@ United States
 Management](https://instabug.com/product/release-management)[In-App Surveys](https://instabug.com/product/in-app-surveys)[App Ratings  
 and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://instabug.com/product/flows)[Feature Flags](https://instabug.com/product/feature-flags)
 
-### WHY INSTABUG
-
-[Why Instabug](https://instabug.com/platform/why-instabug)[Auto Reproduction](https://instabug.com/platform/automated-reproduction)[User-Centric Insights](https://instabug.com/platform/user-centric-insights)[Release Centered](https://instabug.com/platform/release-centered)[Team Performance](https://instabug.com/platform/team-performance)
-
-### USE CASES
-
-[Beta Testing](https://instabug.com/beta-apps)[Production](https://instabug.com/live-apps)[Improve App Quality](https://instabug.com/improve-app-quality-performance)
-
 ### Integrations
 
 [Jira](https://instabug.com/integrations/jira)[Slack](https://instabug.com/integrations/slack)[Trello](https://instabug.com/integrations/trello)[GitHub](https://instabug.com/integrations/github)[Zendesk](https://instabug.com/integrations/zendesk)[View All](https://instabug.com/integrations)
