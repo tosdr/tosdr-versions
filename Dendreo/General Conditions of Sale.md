@@ -8,13 +8,13 @@ Fonctionnalités
 
 Soyez irréprochable sur les bases](https://www.dendreo.com/formation/gestion-administrative)[Gestion documentaire
 
-Génération, signature, archivage de documents... une GED complète et 100% intégrée !](https://www.dendreo.com/formation/gestion-documentaire)[Moderne, flexible et sécurisé
+Génération, signature, archivage de documents... une GED complète et 100% intégrée](https://www.dendreo.com/formation/gestion-documentaire)[Qualité
 
-Une solution moderne, puissante et flexible](https://www.dendreo.com/formation/moderne-et-flexible)
+Une démarche intégrée au sein de tous les processus](https://www.dendreo.com/formation/qualite)
 
-[Qualité
+[Moderne, flexible et sécurisé
 
-Une démarche intégrée au sein de tous les processus](https://www.dendreo.com/formation/qualite)[Gestion commerciale
+Une solution moderne, puissante et flexible](https://www.dendreo.com/formation/moderne-et-flexible)[Gestion commerciale
 
 Du marketing de votre offre de formations aux devis signés](https://www.dendreo.com/formation/gestion-commerciale)[Gestion financière
 
