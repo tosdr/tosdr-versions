@@ -1,4 +1,4 @@
-* [Schedule a Consultation](https://qbs.com/safety-care-crisis-prevention-training/schedule-a-consultation/)
+* [Schedule a Consultation](http://hello.qbs.com/schedule-a-consultation)
 * [View Training Schedule](https://trainer.my.site.com/trainerconnect/s/course-events)
 * [Log into Trainer Connect](https://www.trainerconnectonline.com/)
 
