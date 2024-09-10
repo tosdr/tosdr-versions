@@ -308,7 +308,7 @@ Partners
 
 * [Assembly](https://assembly.education/)
 
-[](tel:)[](mailto:)
+[](tel:)[\[email protected\]](https://eduspot.co.uk/cdn-cgi/l/email-protection)
 
        ![Community Brands Logo](https://eduspot.co.uk/wp-content/uploads/Community-Brands-Logo-Main-100px.png)
 
