@@ -116,7 +116,7 @@ Exist is made with by [Hello Code](http://hellocode.co/) in Melbourne, Australia
 
 [Blog](https://exist.io/blog/) / [RSS](https://exist.io/blog/feeds/latest/)
 
-[Twitter](http://twitter.com/ExistApp)
+[Mastodon](http://mastodon.social/@hellocodeco)
 
 ##### Resources
 
