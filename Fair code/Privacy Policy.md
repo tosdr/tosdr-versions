@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,15 +152,15 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FM66B%2FFairEmail%2Fblob%2Fmaster%2FPRIVACY.md)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=M66B%2FFairEmail)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=M66B%2FFairEmail) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
 [M66B](https://github.com/M66B) / **[FairEmail](https://github.com/M66B/FairEmail)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FM66B%2FFairEmail) You must be signed in to change notification settings
-* [Fork 636](https://github.com/login?return_to=%2FM66B%2FFairEmail)
-* [Star 2.9k](https://github.com/login?return_to=%2FM66B%2FFairEmail)
+* [Fork 641](https://github.com/login?return_to=%2FM66B%2FFairEmail)
+* [Star 3k](https://github.com/login?return_to=%2FM66B%2FFairEmail)
     
 
 * [Code](https://github.com/M66B/FairEmail)
