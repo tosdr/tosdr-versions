@@ -34,6 +34,14 @@
   
 **Data Location:** Our servers are located in the United States.  
   
+**Google Drive:** Our application adheres to Google's limited use policy. Jupiter accesses and uses your data as follows:  
+
+* **Student and Teacher File Locker Feature:** When you grant access to your Google Drive for this feature, Jupiter can only see, edit, create, and delete the specific files you choose to share. This access enables students to submit assignments and staff to post materials from their Google Drive. Students and parents can revoke Jupiter's access to Google Drive at any time through the user settings screen. Staff can revoke access via the Setup > Apps > Google Drive screen.
+* **Student Record Files Feature:** When you grant Jupiter access to your Google Drive for this feature, Jupiter can manage all files and folders within your Google Drive. This access is used to maintain a student records repository within it. You can revoke Jupiter's access to your Google Drive at any time by navigating to Students > Record Files > Setup > Detach.
+* **Storage and Deletion:** All files downloaded to Jupiter from Google Drive are subject to the same storage policies as other data stored within Jupiter. Please refer to the Data Ownership & Deletion and Data Location sections above.
+* **Privacy:** Jupiter will only access your Google Drive for the educational purposes described in the file locker and student record files features. Jupiter will never share your files with any third party.
+
+  
 **Amendments:** This Privacy Policy may be amended occasionally with or without notice. Any revisions are effective immediately once posted on JupiterEd.com. Your continued use of the Web App shall indicate your acceptance of the revision. In the event Jupiter is acquired, merged, or sold in part to another company, your personal information would likely be among the assets transferred. You will be notified in advance of any such change.  
   
 **Contact:** If you have any questions about the Privacy Policy, or to report a violation of the Terms of Service, please [contact us](https://login.jupitered.com/help?contact).
