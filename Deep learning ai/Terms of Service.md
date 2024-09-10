@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Federated Learning](https://bit.ly/3zWoyoj)
+Andrew Ng's [AI Python for Beginners final courses](https://bit.ly/4cKI3Og) are live. Join now!
 
 [](https://www.deeplearning.ai/)
 
