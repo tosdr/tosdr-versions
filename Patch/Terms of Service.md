@@ -4,7 +4,6 @@
 
 * 
 * [Post](https://patch.com/compose)
-* [Advertise](https://patch.com/us/across-america/advertise-with-us)
 * [See all communities](https://patch.com/map)
 
 [See All Communities](https://patch.com/map)
