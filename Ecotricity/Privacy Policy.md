@@ -36,7 +36,7 @@ This policy sets out the basis on which any personal data we collect from you or
 
 #### **Controller**
 
-This policy applies to personal information collected by \[WP2\] Ecotricity Limited, a company incorporated in England & Wales (registered no. 03043412) and whose registered office is at Lion House House, Rowcroft, Stroud, Gloucestershire, GL5 3BY. In these terms and conditions “Ecotricity”, “we”, “our” or “us” means Ecotricity Limited, and “you” or “your” means you, our customer.
+This policy applies to personal information collected by Ecotricity Limited, a company incorporated in England & Wales (registered no. 03043412) and whose registered office is at Lion House House, Rowcroft, Stroud, Gloucestershire, GL5 3BY. In these terms and conditions “Ecotricity”, “we”, “our” or “us” means Ecotricity Limited, and “you” or “your” means you, our customer.
 
 Ecotricity Group Limited is registered with the ICO with registration number ZA021407 and Ecotricity Limited is registered with the ICO registration number Z5614614.
 
@@ -278,7 +278,7 @@ If you have questions about or need further information concerning the legal bas
 
 #### **Direct Marketing**
 
-During the registration process on our website when your personal data is collected, you will be asked if you want to opt in to marketing communications from us. You will receive marketing communications from us if you have requested information from us or purchased Services from us and you have not opted out of receiving the marketing.\[WP1\] \[MOU2\]
+During the registration process on our website when your personal data is collected, you will be asked if you want to opt in to marketing communications from us. You will receive marketing communications from us if you have requested information from us or purchased Services from us and you have not opted out of receiving the marketing.
 
 We may also analyse your Identity, Contact, Technical, Usage and Profile Data to form a view which products, services and offers may be of interest to you so that we can then send you relevant marketing communications.
 
@@ -290,9 +290,7 @@ We will get your express consent before we share your personal data with any thi
 
 You can ask us to stop sending you marketing communications at any time by opting out via the footer of one of our marketing emails.
 
-If you opt out of receiving marketing communications, you will still receive service-related communications that are essential for administrative or customer service purposes \[for example relating appointment reminders, updates to our Terms and Conditions, checking that your contact details are correct. If you are on a green tariff you may also receive the occasion communication about our green generation projects.
-
-\[WP1\]Please amend or delete as applicable\[MOU2\]Quite interesting on this sentence - suggests we could send marketing if they join us but have not opted out rather than our method of asking for consent.
+If you opt out of receiving marketing communications, you will still receive service-related communications that are essential for administrative or customer service purposes (for example relating appointment reminders, updates to our Terms and Conditions, checking that your contact details are correct). If you are on a green tariff you may also receive the occasion communication about our green generation projects.
 
 #### Security
 
@@ -438,6 +436,8 @@ For EEA based Nationals,  please contact our European Representative. Details a
 
 Ecotricity is recommended by
 
+[](https://www.energy-uk.org.uk/our-work/vulnerability-commitment/)
+
 [](https://www.ecotricity.co.uk/our-story/our-partners/triodos-bank)
 
 [](https://www.ecotricity.co.uk/our-story/our-partners/friends-of-the-earth)
@@ -445,6 +445,8 @@ Ecotricity is recommended by
 [](https://www.ecotricity.co.uk/our-story/our-partners/the-vegan-society)
 
 [](https://www.ecotricity.co.uk/our-story/our-partners/viva)
+
+[](https://www.ethicalconsumer.org/best-buy-label)
 
 [](https://www.which.co.uk/news/article/which-eco-provider-energy-companies-revealed-for-2023-a9TV10S2OHel?utm_campaign=recommendedprovider&utm_medium=endorsement&utm_source=Ecotricity)
 
@@ -454,7 +456,7 @@ Ecotricity is recommended by
     
 * [Our mission](https://www.ecotricity.co.uk/our-story/our-mission)
 * [Our manifesto](https://www.ecotricity.co.uk/our-story/our-manifesto)
-* [29 years of Ecotricity](https://www.ecotricity.co.uk/our-story/our-history)
+* [Our history](https://www.ecotricity.co.uk/our-story/our-history)
 * [Ecotricity innovation](https://www.ecotricity.co.uk/our-story/ecotricity-innovation)
 * [Walking the talk](https://www.ecotricity.co.uk/our-story/walking-the-talk)
 * [Our partners](https://www.ecotricity.co.uk/our-story/our-partners)
@@ -485,7 +487,6 @@ Ecotricity is recommended by
 * [Green energy for SMEs](https://www.ecotricity.co.uk/for-your-business/green-energy-for-smes)
 * [Green energy for large businesses](https://www.ecotricity.co.uk/for-your-business/green-energy-for-large-businesses)
 * [Generate your own green energy on-site](https://www.ecotricity.co.uk/for-your-business/generate-your-own-green-energy-on-site)
-* [Join the Ecotricity smart grid](https://www.ecotricity.co.uk/for-your-business/join-the-ecotricity-smart-grid)
 
 * Support
     
