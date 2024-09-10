@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=1508231812802917&ev=PageView&noscript=1&a=adobe_commerce-0.0.0-1.2.5)
-
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
  [![](https://www.mypillow.com/media/logo/default/site-logo.png)](https://www.mypillow.com/)
@@ -10,6 +8,12 @@ Order now [1-800-544-8939](tel:18005448939)
 
 Customer Service [1-800-308-1299](tel:18003081299)
 
+* **Search**
+    
+    Search
+    
+    Search Clear
+    
 * Contact Us
 
 Order now [1-800-544-8939](tel:18005448939)
@@ -20,12 +24,6 @@ Customer Service [1-800-308-1299](tel:18003081299)
     
     Sign in or Join](https://www.mypillow.com/customer/account/login/referer/aHR0cHM6Ly93d3cubXlwaWxsb3cuY29tLw~~/)
 * My Cart
-    
-* **Search**
-    
-    Search
-    
-    Search
     
 * Toggle Nav
 
@@ -45,7 +43,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Blankets](https://www.mypillow.com/bedding/blankets)
     * [Comforters](https://www.mypillow.com/bedding/blankets/downcomforters)
     * [Duvet Covers](https://www.mypillow.com/bedding/duvets)
-* [Mattresses](https://www.mypillow.ca/mattress)
+* [Mattresses](https://www.mypillow.com/mattresses)
     * [The Complete Mattress Sleep System](https://www.mypillow.ca/the-complete-mattress-sleep-system)
     * [Coil Mattress](https://www.mypillow.com/mattresses/coil-mattresses)
     * [Foam Mattress](https://www.mypillow.ca/mypillow-foam-mattress)
@@ -93,6 +91,10 @@ Get Even Lower Prices!
 
 Apply
 
+ ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
+
+[](https://www.mypillow.com/tv-specials)
+
 [](https://www.mypillow.ca/25-extravaganza-new)
 
 [](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
@@ -103,17 +105,17 @@ Apply
 
    [](https://www.mypillow.com/mypillows)
 
-   [](https://www.mypillow.com/accessory-pillows)
-
-   [](https://www.mypillow.com/bath/kitchen-towels)
-
-   [](https://www.mypillow.com/bedding)
+   [](https://www.mypillow.com/toppers)
 
    [](https://www.mypillow.com/bath/bath-towels)
 
-   [](https://www.mypillow.com/toppers)
+   [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.ca/mypillow-sandals)
+   [](https://www.mypillow.com/bath/kitchen-towels)
+
+   [](https://www.mypillow.com/accessory-pillows)
+
+   [](https://www.mypillow.com/slipper-specials)
 
    [](https://www.mypillow.ca/mypillow-2-0)
 
@@ -155,7 +157,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/couch-and-recliner-pillows)
 
-   [](https://www.mypillow.com/mypillow-sandals)
+   [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
    [](https://www.mypillow.com/bath/beach-towels)
 
@@ -163,15 +165,13 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/pet)
 
-   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+   [](https://www.mypillow.com/smoothtoe-socks)
 
    [](https://www.mypillow.com/bedding/blankets)
 
    [](https://www.mypillow.com/mystore-gummies)
 
    [](https://www.mypillow.ca/toppers)
-
-   [](https://www.mypillow.com/bedding/pillowcases)
 
    [](https://www.mypillow.com/gift-cards)
 
@@ -181,9 +181,9 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
 
-   [](https://www.mypillow.com/bath/mypillow-bath-robes)
-
    [](https://www.mypillow.com/open-box)
+
+   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
    [](https://www.mypillow.com/smoothtoe-socks)
 
@@ -194,8 +194,6 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
    [](https://www.mypillow.com/fox)
 
    [](https://www.mypillow.com/state-fair-specials)
-
-   [](https://www.mypillow.com/accessory-pillows)
 
    [](https://www.mypillow.com/bedding)
 
