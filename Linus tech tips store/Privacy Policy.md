@@ -16,7 +16,7 @@ New orders are expected to ship by
     Gear
     
     * [Gear Collection](https://www.lttstore.com/collections/accessories)
-    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/bags)
+    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling)
     
     * [Bottles](https://www.lttstore.com/bottles)
     * [Deskpads](https://www.lttstore.com/deskpads)
@@ -59,7 +59,6 @@ New orders are expected to ship by
     
     * [Best Sellers](https://www.lttstore.com/collections/all-products)
     * [Our Favorites](https://www.lttstore.com/collections/top-sellers)
-    * [LTX Exclusives](https://www.lttstore.com/collections/ltx-exclusive)
     
 
 [Log in](https://www.lttstore.com/account/login)
@@ -69,7 +68,7 @@ New orders are expected to ship by
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/bags) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools)
+    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools)
     
     [Plushies](https://www.lttstore.com/plushies) [Stickers](https://www.lttstore.com/stickers) [Pets](https://www.lttstore.com/pets) [Other](https://www.lttstore.com/other-gear)
     
@@ -85,10 +84,6 @@ New orders are expected to ship by
 * [All Products](https://www.lttstore.com/collections/all-products-1)
     
     [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers)
-    
-    [![Collection Image](//www.lttstore.com/cdn/shop/collections/LTX_Website_Cover_Photos_2.jpg?v=1692912241&width=400)
-    
-    LTX Exclusives](https://www.lttstore.com/collections/ltx-exclusive)
     
 
  Search [Log in](https://www.lttstore.com/account/login) [Cart](https://www.lttstore.com/cart)
@@ -271,7 +266,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/113/assets/ltt-logo.svg?v=133296236752336137041720456343)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/120/assets/ltt-logo.svg?v=133296236752336137041725992568)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
