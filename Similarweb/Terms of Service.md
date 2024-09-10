@@ -24,7 +24,7 @@ Free ToolsPremium ToolsData & Services
 
 Tools
 
-[Check Website Traffic](https://www.similarweb.com/website/)[App Analytics](https://www.similarweb.com/app/)[Free Keyword Generator](https://www.similarweb.com/generator/)[SERP Seismograph](https://www.similarweb.com/serp/)
+[Traffic Checker](https://www.similarweb.com/website/)[App Analytics](https://www.similarweb.com/app/)[Free Keyword Generator](https://www.similarweb.com/generator/)[SERP Seismograph](https://www.similarweb.com/serp/)
 
 [Verify Your Website](https://www.similarweb.com/connect/)[Browser Extension](https://www.similarweb.com/corp/extension/)
 
@@ -36,7 +36,7 @@ Rankings
 
 [Digital Research Intelligence](https://www.similarweb.com/corp/research/)[Benchmarking](https://www.similarweb.com/corp/research/benchmarking/)[Market Research](https://www.similarweb.com/corp/research/market-research/)[Company Research](https://www.similarweb.com/corp/research/company-research/)[Audience Analysis](https://www.similarweb.com/corp/research/audience-analysis/)[Consumer Journey](https://www.similarweb.com/corp/research/consumer-journey-tracking/)[App Intelligence](https://www.similarweb.com/corp/research/mobile-app-intelligence/)
 
-[Digital Marketing Intelligence](https://www.similarweb.com/corp/marketing/)[Competitive Analysis](https://www.similarweb.com/corp/marketing/competitive-analysis/)[Keyword Research](https://www.similarweb.com/corp/marketing/keyword-research/)[Affiliate Research](https://www.similarweb.com/corp/marketing/affiliate/)[Ad Intelligence](https://www.similarweb.com/corp/marketing/advertising/)[PPC](https://www.similarweb.com/corp/marketing/ppc/)
+[Digital Marketing Intelligence](https://www.similarweb.com/corp/marketing/)[Competitive Analysis](https://www.similarweb.com/corp/marketing/competitive-analysis/)[Keyword Research](https://www.similarweb.com/corp/marketing/keyword-research/)[Affiliate Research](https://www.similarweb.com/corp/marketing/affiliate/)[Ad Intelligence](https://www.similarweb.com/corp/marketing/advertising/)[PPC Tools](https://www.similarweb.com/corp/marketing/ppc/)
 
 [Sales Intelligence](https://www.similarweb.com/corp/sales/)[Lead Generation](https://www.similarweb.com/corp/sales/lead-gen/)[Lead Enrichment](https://www.similarweb.com/corp/sales/lead-enrichment/)[Sales Engagement](https://www.similarweb.com/corp/sales/sales-engagement/)[Ecommerce Company Finder](https://www.similarweb.com/corp/sales/sell-to-ecommerce/)
 
@@ -46,15 +46,15 @@ Rankings
 
 [Data-as-a-Service![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240731.master.3b76969/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240910.master.e03d6f5/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
 
 Power your business with digital insights at scaleLearn more](https://www.similarweb.com/corp/daas/)[Advisory Services![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240731.master.3b76969/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240910.master.e03d6f5/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
 
 Get data driven answers to your business’s most strategic questionsRead more](https://www.similarweb.com/corp/advisory-services/)[Data Licensing![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240731.master.3b76969/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240910.master.e03d6f5/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
 
 Data LicensingLearn More](https://www.similarweb.com/corp/oem-data/)
 
@@ -76,7 +76,7 @@ Customers
 
 [Check out our success stories![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240731.master.3b76969/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240910.master.e03d6f5/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
 
 See how companies like yours use Similarweb to drive business success.Learn more](https://www.similarweb.com/corp/clients/)
 
@@ -314,6 +314,7 @@ Follow us on:
     * [Partners](https://www.similarweb.com/corp/referral-partner-program/)
     * [Customers](https://www.similarweb.com/corp/clients/)
     * [Leadership](https://www.similarweb.com/corp/leadership/)
+    * [Acquisitions](https://www.similarweb.com/corp/about/acquisitions/)
     * [Careers](https://www.similarweb.com/corp/careers/)
     * [Press](https://ir.similarweb.com/news/press-releases)
     * [Engineering](https://medium.com/similarweb-engineering)
