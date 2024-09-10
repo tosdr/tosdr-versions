@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=122081503)  
-Norton Medical & Consult - Namibia
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=140781002)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=14407514)  
-Iurus Inc
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=37854004)  
+Calonet
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=183443370)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=151249186)  
+Moulded Wax SA - The Candle Store
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=211133993)  
-IYD
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=35705691)  
+MOSELA GROUP Pty(ltd)
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=84857868)  
-webb it services
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=90601634)  
+Wiselink Broadband Dundee
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=89352028)  
-Alliance Energy
-
-![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=90511438)  
-Reliable Store
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=207877784)  
-African Roots
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=162535119)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=83212879)  
-Dr V Naik Consult
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=133481164)  
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=69729180)  
 Repairs In Motion
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=154397301)  
-Roamfree Boerdery (PTY) LTD
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=82815949)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Klinrol Hygienic Tissue Products (pty) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6280&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=97897510)  
-Klinrol Hygienic Tissue Products (pty) ltd
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=119297713)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=91385723)  
-CHARLIEX CONSTRUCTIONS
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=27949216)  
+Stevens Consulting
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=64ae4619f88db23041df4cffb74a41335402875aea25ecd35d1b7e228dc0c38d&c=161460859)  
-Lizzy Pop PTY(Ltd)
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=133388198)  
+One2b
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=22753094)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=63819296)  
+Myfinance-Online
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=116953957)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=104466954)  
+Alliance Energy
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=51ab9c3de463d883c5600133ee17cd225ea1d1fd84a6edd1022dd7eb429d4871&c=198510300)  
+Little Nutty Professors
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
