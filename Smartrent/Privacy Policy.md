@@ -152,11 +152,11 @@ Read More
     
 
 * [Resident Support](https://smartrent.com/support/)
-* [Request a Demo](https://smartrent.com/contact-smartrent/demo/)
+* [Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 * [Integrate with us](https://smartrent.com/contact-smartrent/integration-request/)
 * [Be a Partner](https://smartrent.com/customers/channel-partners-installers/)
 
-[#### Resident Support](https://smartrent.com/support/)[#### Login](https://control.smartrent.com/login)[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Request Demo](https://smartrent.com/contact-smartrent/demo/)
+[#### Resident Support](https://smartrent.com/support/)[#### Login](https://control.smartrent.com/login)[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 
 * USAUSA
 * EUEU
@@ -164,8 +164,8 @@ Read More
 SmartRent Technologies, Inc. Privacy Policy
 ===========================================
 
-Last Updated: April 11, 2023
-----------------------------
+Last Updated: August 30, 2024
+-----------------------------
 
 Introduction and Purpose
 ------------------------
@@ -206,6 +206,10 @@ This Policy consists of the following main sections:
 **[International Users](#international-users)**
 
 **[Privacy Notice for California Residents](#california-residents)**
+
+**[Additional State Privacy Laws](#additional-state-privacy-laws)**
+
+**[How to Appeal Our Decision](#how-to-appeal)**
 
 **[Changes to this Policy](#changes-to-this-policy)**
 
@@ -341,7 +345,9 @@ SmartRent is based in the United States, and regardless of where you use SmartRe
 12\. Privacy Notice for California Residents
 --------------------------------------------
 
-This California Resident Privacy Policy disclosure (“Disclosure”) is provided pursuant to the California Consumer Privacy Act (“CCPA”) as amended, and applies only to California residents. Any terms defined in the CCPA have the same meaning when used in this Disclosure. Terms defined in the Policy maintain the same meaning when used in this Disclosure.
+This California Resident Privacy Policy disclosure (“Disclosure”) is provided pursuant to the California Consumer Privacy Act as amended by the California Privacy Rights Act (collectively, the “CCPA”) and applies only to California residents.
+
+Any terms defined in the CCPA have the same meaning when used in this Disclosure. Terms defined in the Policy maintain the same meaning when used in this Disclosure.
 
 **Our Role as a Service Provider Under the CCPA.** As part of our Services, we process or maintain PII on behalf of your Landlord in our role as a service provider to the Landlord. When we engage with you on behalf of a Landlord, your PII will be processed pursuant to their privacy policy, not ours. If we receive a privacy question from you about your Landlord’s services, we will redirect your request to the Landlord.
 
@@ -377,7 +383,7 @@ This California Resident Privacy Policy disclosure (“Disclosure”) is provide
 | F. Internet or similar network activity. | Yes | No  |
 | G. Geolocation data. | Yes | No  |
 | H. Sensory data. | Yes | No  |
-| I. Professional or employment-related information. | No  | No  |
+| I. Professional or employment-related information. | Yes | No  |
 | J. Non-public education information. | No  | No  |
 | K. Inferences drawn from other personal information. | No  | No  |
 
@@ -390,22 +396,28 @@ This California Resident Privacy Policy disclosure (“Disclosure”) is provide
 * For each category of PII, the categories of third parties with whom it was disclosed; and
 * The specific pieces of PII we collect about you.
 
-For more information on how to request information about our collection, use, and disclosure of your PII, please see the **Submitting CCPA Requests** section below.
+**Right to Request Access.** You have the right to request access to the PII we have collected about you. You may submit your request [here](https://privacyportal.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993).
 
-**Submitting CCPA Requests.** Once we receive your request and verify your identity, we will review your request to see if an exception allowing us to retain the information applies. We will delete or de-identify PII not subject to an applicable exception from our records and will direct our service providers to take similar action.
+**Right to Request to Delete.** To exercise your rights to delete described above, you may submit a request by visiting our California Consumer Rights form, available at [smartrent.com/ccpa](https://smartrent.com/ccpa/), or by contacting us through the Contact Us section below.
 
-**Requests to Know or Delete.** To exercise your rights to know or delete described above, you may submit a request by visiting our California Consumer Rights form, available at [smartrent.com/ccpa](https://smartrent.com/ccpa/), or by contacting us through the **Contact Us** section below.
+**Right Against Automated Decision-Making.** You have the right to opt out of the use of automated decision-making technology in certain scenarios. Automated decision-making technology refers to any system, software, or process that uses personal information to make decisions or facilitate human decision-making, including profiling. We may use automated decision-making technology to: Assess credit worthiness, screening job applicants, personalizing marketing and advertising, enhancing user experience on our platforms.
 
-**Verification of Requests.** Only you, or an individual legally authorized to act on your behalf, may make a request to know, delete, or opt-out related to your PII. To designate an authorized agent, or to make a request on behalf of a consumer for whom you are an authorized agent, please submit verification documentation through our California Consumer Rights form, available at [smartrent.com/ccpa](https://smartrent.com/ccpa/).
+**Right to Request Not to Sell.** You have the right to opt-out of the sale of your PII. To exercise this right, you or your authorized representative may submit a request by clicking on the following link: [Do Not Sell or Share My Personal Information](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993). Note that we do not “sell” PII, as that term is used in the CCPA.
 
-You may only submit a request to know twice within a 12-month period. Your request to know or delete must: (1) Provide sufficient information that allows us to reasonably verify you are the person about whom we collected PII, or that the requestor is your authorized representative; and (2) Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+**Right to Opt Out of Certain Processing.** Apart from the [Do Not Sell or Share My Personal Information](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993) link , you can use the Global Privacy Control (GPC) to signal your preference to opt out of the sale of your PII. You may also communicate your opt out by contacting us through the Contact Us section below.
 
-We may request information from you in order to verify your identity. Additionally, we may require that authorized agents provide proof of their authorization. We cannot respond to your request or provide you with PII if we are unable to verify your identity, your authority to make a request on behalf of another person, or if we cannot confirm that the PII relates to you. In general, we will verify your request and your identity by matching the information you provided with the information we have in our records.
+**Data Portability.** For data portability requests, we will select a data format that is readily useable and should allow you to transfer the PII to another entity without difficulty.
 
-You do not need to create an account with us to submit a request to know or to delete your PII.
+**Submitting CCPA Requests.** You can contact us through any of the methods provided in the Contact Us section. Once we receive your request and verify your identity, we will review your request to see if an exception allowing us to retain the information applies. We will delete or de-identify PII not subject to an applicable exception from our records and will direct our service providers to take similar action.
 
-We will only use PII provided in the request to verify the requestor’s identity or authority to make it.
-
+**Verification of Requests.** Only you, or an individual legally authorized to act on your behalf, may make a request to know, delete, or opt-out related to your PII. To designate an authorized agent, or to make a request on behalf of a consumer for whom you are an authorized agent, please submit verification documentation through our California Consumer Rights form, available at smartrent.com/ccpa. You may only submit a request to know twice within a 12-month period. Your request to know or delete must: (1) Provide sufficient information that allows us to reasonably verify you are the person about whom we collected PII, or that the requestor is your authorized representative; and (2) Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.  
+  
+We may request information from you in order to verify your identity. Additionally, we may require that authorized agents provide proof of their authorization. We cannot respond to your request or provide you with PII if we are unable to verify your identity, your authority to make a request on behalf of another person, or if we cannot confirm that the PII relates to you. In general, we will verify your request and your identity by matching the information you provided with the information we have in our records.  
+  
+You do not need to create an account with us to submit a request to know or to delete your PII.  
+  
+We will only use PII provided in the request to verify the requestor’s identity or authority to make it.  
+  
 Please note, if we have received your request in our role as a Service Provider, we will refer your request to the Landlord.
 
 **Timing.** We will use reasonable efforts to respond to your request within 45 days of receipt. If we require additional time, we will inform you of the reason and the extension period in writing.
@@ -427,28 +439,77 @@ Please note, if we have received your request in our role as a Service Provider,
 * If we sold or disclosed your PII for a business purpose, we will provide you with information about those sales and disclosures along with the PII categories that were provided and each recipients category; and
 * The specific pieces of PII that we collected about you (also called a data portability request, as detailed below).
 
-**Data Portability** For data portability requests, we will select a data format that is readily useable and should allow you to transfer the PII to another entity without difficulty.
-
 **No Charge.** We do not charge a fee to process or respond to your PII request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing the request.
 
 **No Discrimination.** We will not discriminate against any person for exercising their rights under the CCPA.
 
-**Right to Opt Out of Sharing, Disclosure, or Sale of Personal Information.** You may have the right to direct us to not share, disclose, or sell your personal information collected through the Site. To exercise this right, you or your authorized representative may submit a request by clicking on the following link: [Do Not Sell or Share My Personal Information](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993)
+13\. Additional State Privacy Laws
+----------------------------------
 
-13\. Changes to this Policy
+This section applies to residents of Texas, Connecticut, Virginia, Colorado, Oregon, and Utah (collectively, “Additional State Privacy Laws”). If you are a resident of one of these states, clicking on the link will take you to that state’s privacy law.
+
+* [Texas Data Privacy and Security Act](https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00004F.htm)
+* [Connecticut Data Protection Act](https://www.cga.ct.gov/2022/act/Pa/pdf/2022PA-00015-R00SB-00006-PA.PDF)
+* [Virginia Consumer Data Protection Act](https://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0036+pdf)
+* [Colorado Privacy Act](https://leg.colorado.gov/sites/default/files/2021a_190_signed.pdf)
+* [Oregon Consumer Privacy Act](https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB619/Enrolled)
+* [Utah Consumer Privacy Act](https://le.utah.gov/~2022/bills/static/SB0227.html)
+
+**Your Rights**
+
+**Access Your Data:** You can ask us to confirm if we [are using your PII and request access to it](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993). To learn more about how we use your PII, please refer to How We Use Your PII and How We Share Information sections above.
+
+**Copy of Your Data:** You can [request](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993) a copy of your data in a format that is easy to transfer and use. We do not normally charge for this service, but if you make numerous requests, we may charge a fee.
+
+**Correct Your Data:** If we have incorrect information about you, [you can ask us to correct it.](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993)
+
+**Delete Your Data:** You can request that we [delete any PII](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993) we have collected from or about you.
+
+**Opt Out:** You can choose not to have your PII used for: Targeted advertising, selling your personal data, automated decision-making or profiling that affects you legally or significantly. To opt out of selling your PII, you can click [Do Not Sell or Share My Personal Information](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993). You may also contact us through the Contact Us section below.
+
+**Right Against Automated Decision-Making.** You have the right to opt out of the use of automated decision-making technology in certain scenarios. Automated decision-making technology refers to any system, software, or process that uses PII to make decisions or facilitate human decision-making, including profiling. We may use automated decision-making technology to: Assess credit worthiness, screening job applicants, personalizing marketing and advertising, enhancing user experience on our platforms.
+
+**Use an Authorized Agent:** You can appoint an authorized agent to make a request on your behalf. If you do so, we reserve the right to verify the agent’s identity, their authority, and your identity. To do this, you or your agent need to email us (see Contact Us below) with:
+
+* A copy of a power of attorney, if required by law, or
+* Proof of your signed permission, a copy of the agent’s ID, and an email from you confirming that you gave the agent permission to make the request.
+
+Please note that for each request we may ask that you verify your identity before processing your request. To learn when we might decline to process your request, please refer to the Exceptions section above.
+
+**No Discrimination for Exercising Your Privacy Rights**  
+  
+We will not treat you unfairly if you exercise your privacy rights under Additional State Privacy Laws. This means we will not:
+
+* Deny you goods or services.
+* Charge you different prices or rates for goods or services.
+* Provide you with a different level or quality of goods or services. However, we may offer you certain financial incentives allowed by the law, which could result in different prices, rates, levels, quality, or selection of goods and services.
+
+14\. How to Appeal Our Decision
+-------------------------------
+
+If we deny your request under the Additional State Privacy Laws, you can appeal our decision by:
+
+* Complete a new request [here](https://smartrent-privacy.my.onetrust.com/webform/913cee6d-7325-4c43-8d82-49193fb7780b/71fff8c3-2384-44b4-ad0d-437e956a8993) with information on your appeal or respond to your original request.
+* Calling us toll-free at [(844) 479-1555](tel:(844) 479-1555).
+* Emailing us at [\[email protected\]](https://smartrent.com/cdn-cgi/l/email-protection)
+* Write to us:  
+    SmartRent Technologies, Inc.  
+    Suite 200  
+    8665 E. Hartford Drive  
+    Scottsdale, AZ 85255
+
+When you appeal, please include your state of residence and any related documents, such as a copy of your request and our response.
+
+15\. Changes to this Policy
 ---------------------------
 
 This Policy is current as of the Effective Date set above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at www.smartrent.com/privacy.
 
-14\. Contacting Us
-------------------
+16\. Contact Us
+---------------
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [\[email protected\]](https://smartrent.com/cdn-cgi/l/email-protection) call [(844) 479-1555](tel:(844) 479-1555) or write to us at:
-
-SmartRent Technologies, Inc.  
-Suite 200  
-8665 E. Hartford Drive  
-Scottsdale, AZ 85255
+For any other questions or concerns about this Policy you can contact us at [\[email protected\]](https://smartrent.com/cdn-cgi/l/email-protection) or call us at  
+[(844) 479-1555](tel:(844) 479-1555).
 
 [![SmartRent.com logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI1NCIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48ZyBmaWxsPSIjZmZmIiBjbGlwLXBhdGg9InVybCgjYikiPjxwYXRoIGQ9Ik00Ni4yNzUgMzkuNTA0YzAgMS40NC0xLjUyOSAyLjM1OS0yLjc5MSAxLjY3N2wtMTQuNDgyLTcuODA1YTEuODggMS44OCAwIDAgMC0xLjczNy0uMDE0TC4xNjIgNDguMDI4Yy4xNDguNDI2LjM4Ny44MTIuNzg1IDEuMDQybDguMDcgNC42NzZjLjU3LjMzIDEuMjY5LjM0IDEuODQ4LjAyNmwxNi4zMzctOC44NjRhMS44OSAxLjg5IDAgMCAxIDEuODAyIDBsMTYuMzM4IDguODY0Yy41NzkuMzE0IDEuMjc4LjMwNSAxLjg0OC0uMDI2bDguMDctNC42NzhjLjU4NS0uMzQuOTQ3LS45NjguOTQ3LTEuNjVWMTcuNjk2bC05LjkzNCA1LjM3N3YxNi40M2wuMDAyLjAwMlpNNTAuNjQyIDEyLjY3bC0zLjMyLTEuOTFMMjkuMDQ2LjI1MWExLjg5IDEuODkgMCAwIDAtMS44ODMgMEwuOTU0IDE1LjMyMmMtLjU5LjM0LS45NTQuOTctLjk1NCAxLjY1MnYyNy40MzJsOS45MzQtNS4zNzdWMjIuNzIzYzAtLjY4Ny4zNjgtMS4zMi45NjQtMS42NTdsMTYuMjc0LTkuMjM2YTEuODkgMS44OSAwIDAgMSAxLjg2NSAwbDcuOTYgNC41MTYgMy4zNDMgMS44OTYgMy45MDggMi4yMTcgMTAuMjc3LTUuNTYtMy44OC0yLjIzMS0uMDAzLjAwMlpNNjIuNDY5IDQ1Ljc1NGMuNDcuMjg2Ljg0My42NzcgMS4xMTkgMS4xNzVTNjQgNDcuOTczIDY0IDQ4LjU3NGMwIC42LS4xMzYgMS4xNTQtLjQxMiAxLjY0OWEzLjExMSAzLjExMSAwIDAgMS0xLjEyIDEuMTc1Yy0uNDcuMjg2LS45ODQuNDMtMS41NC40M2EyLjkxMyAyLjkxMyAwIDAgMS0xLjU0My0uNDMgMy4xNCAzLjE0IDAgMCAxLTEuMTE2LTEuMTc1IDMuMzQ0IDMuMzQ0IDAgMCAxLS40MTMtMS42NWMwLS42MDIuMTQtMS4xNTEuNDEzLTEuNjQ3YTMuMTEgMy4xMSAwIDAgMSAxLjExNi0xLjE3Yy40Ny0uMjg2Ljk4NS0uNDI4IDEuNTQzLS40MjguNTU5IDAgMS4wNy4xNDIgMS41NC40Mjh2LS4wMDJabS0uMjY3IDUuMTc0Yy4zOS0uMjQuNjk4LS41NjUuOTI1LS45OC4yMy0uNDE0LjM0My0uODcyLjM0My0xLjM3MiAwLS41LS4xMTQtLjk1OS0uMzQzLTEuMzdhMi41NzQgMi41NzQgMCAwIDAtLjkyNS0uOTc1IDIuNCAyLjQgMCAwIDAtMS4yNzQtLjM1NiAyLjQxIDIuNDEgMCAwIDAtMS4yNzguMzU2Yy0uMzkuMjM3LS42OTguNTYzLS45MjUuOTc1YTIuNzcgMi43NyAwIDAgMC0uMzQzIDEuMzdjMCAuNS4xMTQuOTU4LjM0MyAxLjM3My4yMjcuNDE0LjUzOC43NDIuOTI3Ljk3OS4zOS4yNC44MTUuMzU4IDEuMjc2LjM1OC40NjEgMCAuODg1LS4xMTggMS4yNzUtLjM1OFptLjA1OC0xLjE4MmMwIC4yNTYuMDI2LjQ0LjA3NS41NTF2LjA3aC0uNjdjLS4wMzctLjA5Ny0uMDU2LS4zMDctLjA1Ni0uNjI1di0uMjM1YzAtLjIxLS4wNDgtLjM2MS0uMTQzLS40NTktLjA5NS0uMDk4LS4yNTUtLjE0NC0uNDc3LS4xNDRoLS42ODR2MS40NjNoLS42NTN2LTMuNjk0aDEuMjE2Yy40MzYgMCAuNzc5LjA5NyAxLjAzMS4yOTUuMjUuMTk4LjM3OC40OC4zNzguODQ3IDAgLjMyMS0uMTYuNTctLjQ3OC43NDcuMzA5LjE2Ny40NjQuNDgyLjQ2NC45NHYuMjQ0aC0uMDAzWm0tLjg1LTEuNTU2YS40MTIuNDEyIDAgMCAwIC4yMTMtLjM3Mi42NTMuNjUzIDAgMCAwLS4wNzItLjMzNS40MTguNDE4IDAgMCAwLS4yMzYtLjE3NyAxLjQ1MyAxLjQ1MyAwIDAgMC0uNDUtLjA1NGgtLjU2MnYxLjA3aC41NzlhLjk3Ni45NzYgMCAwIDAgLjUyNi0uMTMyaC4wMDJaIi8+PC9nPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImEiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjR2NTRIMHoiLz48L2NsaXBQYXRoPjxjbGlwUGF0aCBpZD0iYiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGg2NHY1NEgweiIvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==)](https://smartrent.com/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
