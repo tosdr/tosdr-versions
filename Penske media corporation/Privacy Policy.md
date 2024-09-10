@@ -176,6 +176,12 @@ Est.
 
 2007](https://pmc.com/our-brands/beauty-inc)
 
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/66cf5e4bf8661afb30fda225_Penske_Autosport_Dropdown.svg)
+
+Est.
+
+2007](https://pmc.com/our-brands/ds-penske)
+
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f494f0c0753f3a77f2fb_Sourcing%20Journal.svg)
 
 Est.
@@ -424,6 +430,12 @@ Est.
 
 2007](https://pmc.com/our-brands/beauty-inc)
 
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/66cf5e4bf8661afb30fda225_Penske_Autosport_Dropdown.svg)
+
+Est.
+
+2007](https://pmc.com/our-brands/ds-penske)
+
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f494f0c0753f3a77f2fb_Sourcing%20Journal.svg)
 
 Est.
@@ -560,7 +572,7 @@ In addition to what is described above under “Opt Out of Cookie and Device Inf
 
 [Careers
 
-![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a6f7d92a764_Clip%20path%20groupsmall.svg)](https://recruiting2.ultipro.com/PEN1022PEKM/JobBoard/6cd1a145-2e14-475a-b78b-4dc9e0c93dae/?q=&o=postedDateDesc)[Contact Us
+![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a6f7d92a764_Clip%20path%20groupsmall.svg)](https://www.pmc.com/join-our-team/)[Contact Us
 
 ![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a6f7d92a764_Clip%20path%20groupsmall.svg)](https://pmc.com/contact)
 
