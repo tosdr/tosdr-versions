@@ -6,10 +6,11 @@
 
 * [Smartphones](https://www.oppo.com/uk/smartphones/) [Smartphones](https://www.oppo.com/uk/smartphones/)
     
-    * [OPPO Reno12 Pro 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    * [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
+    * [OPPO Reno12 FS 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
+    * [OPPO Reno12 F 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
+    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
-    * [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
+    * [OPPO A60 5G _New_](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
     * [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
     
     [Find N Series](https://www.oppo.com/uk/smartphones/?tab1) [Find X Series](https://www.oppo.com/uk/smartphones/?tab2) [Reno Series](https://www.oppo.com/uk/smartphones/?tab3) [A Series](https://www.oppo.com/uk/smartphones/?tab4)
@@ -82,12 +83,17 @@ Quick Links
 
 * Smartphones
     
-    * [OPPO Reno12 Pro 5G
+    * [OPPO Reno12 FS 5G
         
-        New](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    * [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
+        New](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
+    * [OPPO Reno12 F 5G
+        
+        New](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
+    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
-    * [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
+    * [OPPO A60 5G
+        
+        New](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
     * [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
     
     * [Find N Series](https://www.oppo.com/uk/smartphones/?tab1)
@@ -95,10 +101,11 @@ Quick Links
     * [Reno Series](https://www.oppo.com/uk/smartphones/?tab3)
     * [A Series](https://www.oppo.com/uk/smartphones/?tab4)
     
+    *  [OPPO Reno12 FS 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
+    *  [OPPO Reno12 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
     *  [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    *  [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     *  [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
-    *  [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
+    *  [OPPO A60 5G](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
     *  [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
     
     [Compare](https://www.oppo.com/uk/compare/) [View All Phones](https://www.oppo.com/uk/smartphones/)
@@ -629,6 +636,10 @@ Should you decide to object to the processing of your personal data, we will sto
 
 Smartphones
 
+[OPPO Reno12 FS 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
+
+[OPPO Reno12 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
+
 [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
 
 [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
@@ -642,6 +653,8 @@ Smartphones
 [OPPO Reno8 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-pro-5g)
 
 [OPPO Reno8 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-5g)
+
+[OPPO A60 5G](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
 
 [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
 
