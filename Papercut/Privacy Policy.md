@@ -277,7 +277,7 @@ Click-through demos
 
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-item-click-through.svg)
     
-    DemosNew!
+    Interactive demos
     
     Discover product features with interactive, self-guided walkthroughs](https://www.papercut.com/products/demo/)
     
@@ -565,7 +565,7 @@ Click-through demos
 
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-item-click-through.svg)
     
-    DemosNew!
+    Interactive demos
     
     Discover product features with interactive, self-guided walkthroughs](https://www.papercut.com/products/demo/)
     
@@ -832,7 +832,7 @@ Support
 
 Learn more
 
-* [Interactive demos](https://www.papercut.com/products/demo/)new!
+* [Interactive demos](https://www.papercut.com/products/demo/)
 * [Blog](https://www.papercut.com/blog/)
 * [Resources](https://www.papercut.com/resources/)
 
