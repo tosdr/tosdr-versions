@@ -278,11 +278,9 @@ Need help with anything? The NCCDP team is here for you. Don’t hesitate to con
 
 **Global Headquarters Address**
 
-National Council of Certified Dementia Practitioners
-
-Suite 102, 55 Main Street
-
-Sparta, New Jersey 07871
+National Council of Certified Dementia Practitioners  
+  
+One Main Street, Suite 6 Sparta, NJ 07871
 
 * [1.973.729.6601, Monday to Friday, 8:30 AM to 5:00 PM EST](tel:19737296601)
 * [1.973.860.2244 Fax Line USA](tel:19738602244)
@@ -367,7 +365,3 @@ National Council of Certified Dementia Practitioners
 * [My Account/Login](https://portal.nccdp.org/)
 
 [Facebook](https://www.facebook.com/nationalccdp) [Instagram](https://www.instagram.com/nccdp_iccdp/) [Twitter](https://twitter.com/nccdp) [Linkedin](https://www.linkedin.com/company/national-council-of-certified-dementia-practitioners/) [Youtube](https://www.youtube.com/@NCCDPLTAD)
-
-![We Are Closed - min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20800'%3E%3C/svg%3E)
-
-![We Are Closed - min](https://www.nccdp.org/wp-content/uploads/2024/07/We-Are-Closed-min.jpg)
