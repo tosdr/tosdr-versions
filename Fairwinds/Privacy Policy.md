@@ -1,13 +1,3 @@
-FAIRWINDS Online Scheduled Maintenance |
-
-FAIRWINDS Online Scheduled Maintenance |
-
-FAIRWINDS Online Scheduled Maintenance |
-
-FAIRWINDS Online Scheduled Maintenance |
-
-FAIRWINDS Online Scheduled Maintenance |
-
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
 [Personal](https://www.fairwinds.org/personal)[Business](https://www.fairwinds.org/business)[Investing](https://www.fairwinds.org/investment)[Insurance](https://www.fairwinds.org/insurance)[Learn](https://www.fairwinds.org/learn)[Member Support](https://www.fairwinds.org/support)
@@ -16,7 +6,7 @@ Global Search Bar
 
 Search _FAIRWINDS_ site and member support articles
 
-Search Icon
+Search
 
 [Open an Account](https://www.fairwinds.org/join)[Log In](https://www.fairwinds.org/login)
 
@@ -126,8 +116,8 @@ Financial Freedom happens here.®
 
 ##### Mobile Apps
 
-* [APPLE ICONApple App Store](https://www.fairwinds.org/exit-warning?goto=https://apps.apple.com/us/app/fairwinds-mobile-banking/id642838826)
-* [GOOGLE\_PLAY ICONGoogle Play](https://www.fairwinds.org/exit-warning?goto=https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1425)
+* [Apple App Store](https://www.fairwinds.org/exit-warning?goto=https://apps.apple.com/us/app/fairwinds-mobile-banking/id642838826)
+* [Google Play](https://www.fairwinds.org/exit-warning?goto=https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1425)
 
 ##### Media
 
@@ -137,11 +127,11 @@ Financial Freedom happens here.®
 
 ##### Connect with Us
 
-* [FACEBOOK ICONFacebook](https://www.fairwinds.org/exit-warning?goto=https://www.facebook.com/fairwinds)
-* [INSTAGRAM ICONInstagram](https://www.fairwinds.org/exit-warning?goto=https://www.instagram.com/fairwindscu/)
-* [LINKED\_IN ICONLinkedIn](https://www.fairwinds.org/exit-warning?goto=https://www.linkedin.com/company/fairwinds-credit-union)
-* [X\_TWITTER ICONX](https://www.fairwinds.org/exit-warning?goto=https://x.com/fairwindscu)
-* [YOUTUBE ICONYoutube](https://www.fairwinds.org/exit-warning?goto=https://www.youtube.com/user/FairwindsCU/)
+* [Facebook](https://www.fairwinds.org/exit-warning?goto=https://www.facebook.com/fairwinds)
+* [Instagram](https://www.fairwinds.org/exit-warning?goto=https://www.instagram.com/fairwindscu/)
+* [LinkedIn](https://www.fairwinds.org/exit-warning?goto=https://www.linkedin.com/company/fairwinds-credit-union)
+* [X](https://www.fairwinds.org/exit-warning?goto=https://x.com/fairwindscu)
+* [Youtube](https://www.fairwinds.org/exit-warning?goto=https://www.youtube.com/user/FairwindsCU/)
 
 Routing Number ⑆ 263181368
 
