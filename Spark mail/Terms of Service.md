@@ -29,6 +29,7 @@
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Italiano](https://sparkmailapp.com/it/legal/terms "Italiano")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) 日本語](https://sparkmailapp.com/ja/legal/terms "日本語")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Português](https://sparkmailapp.com/pt/legal/terms "Português")
+    *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) Українська](https://sparkmailapp.com/uk/legal/terms "Українська")
     *  [![](https://cdn-rdstaticassets.readdle.com/assets/spark/spark3/common/blank.gif?1631697354) 简体中文](https://sparkmailapp.com/zh/legal/terms "简体中文")
 
 [](https://readdle.com/)[Free download](https://sparkmailapp.com/download)
