@@ -169,34 +169,6 @@ Company
 
 © 2024 Shogun Labs, Inc.
 
-[Data Protection](https://getshogun.com/policy/dpa/)[Acceptable Use](https://getshogun.com/policy/aup/)[Terms of Service](https://getshogun.com/policy/terms/)[Privacy Policy](https://getshogun.com/policy/privacy/)
+[Data Protection](https://getshogun.com/policy/dpa/)[Acceptable Use](https://getshogun.com/policy/aup/)[Terms of Service](https://getshogun.com/policy/terms/)[Privacy Policy](https://getshogun.com/policy/privacy/)[Consent Preferences](#)
 
 [](https://www.facebook.com/getshogun/)[](http://twitter.com/shogun)[](https://www.linkedin.com/company/shogun)
-
-By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
-
-[Accept All Cookies](#)[Cookie Settings](#)
-
-[Close Cookie Preference Manager](#)
-
-Cookie Settings
-
-By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in our marketing efforts. [More info](#)
-
-Strictly Necessary (Always Active)
-
-Cookies required to enable basic website functionality.
-
-Marketing
-
-Cookies used to deliver advertising that is more relevant to you and your interests.
-
-Personalization  
-
-Cookies allowing the website to remember choices you make (such as your user name, language, or the region you are in).
-
-Analytics  
-
-Cookies helping understand how this website performs, how visitors interact with the site, and whether there may be technical issues.
-
-[Accept All Cookies](#)[Save Settings](#)
