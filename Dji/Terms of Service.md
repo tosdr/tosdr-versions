@@ -1,29 +1,29 @@
-[](https://www.dji.com/uk)
+[](https://www.dji.com/)
 
-* [Camera Drones](https://www.dji.com/uk/camera-drones?site=brandsite&from=nav)
+* [Camera Drones](https://www.dji.com/camera-drones?site=brandsite&from=nav)
     
-* [Handheld](https://www.dji.com/uk/handheld?site=brandsite&from=nav)
+* [Handheld](https://www.dji.com/handheld?site=brandsite&from=nav)
     
-* [Power](https://www.dji.com/uk/products/power-series?site=brandsite&from=nav)
+* [Power](https://www.dji.com/products/power-series?site=brandsite&from=nav)
     
 * Specialized
     
     * [Enterprise](https://enterprise.dji.com/?site=brandsite&from=nav)
     * [Agriculture](https://ag.dji.com/?site=brandsite&from=nav)
-    * [DJI Delivery](https://www.dji.com/uk/delivery?site=brandsite&from=nav)
-    * [Drive System](https://www.dji.com/uk/avinox?site=brandsite&from=nav)
+    * [DJI Delivery](https://www.dji.com/delivery?site=brandsite&from=nav)
+    * [Drive System](https://www.dji.com/avinox?site=brandsite&from=nav)
     
 * Explore
     
     * [SkyPixel](https://www.skypixel.com/?site=brandsite&from=nav)
     * [DJI Forum](https://forum.dji.com/?site=brandsite&from=nav)
-    * [Media Center](https://www.dji.com/uk/media-center?site=brandsite&from=nav)
-    * [DJI Trust Center](https://www.dji.com/uk/trust-center?site=brandsite&from=nav)
+    * [Media Center](https://www.dji.com/media-center?site=brandsite&from=nav)
+    * [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=nav)
     * [Careers](https://we.dji.com/index_en.html?site=brandsite&from=nav)
     
-* [Support](https://www.dji.com/uk/support?site=brandsite&from=nav)
+* [Support](https://www.dji.com/support?site=brandsite&from=nav)
     
-* [Where to Buy](https://www.dji.com/uk/where-to-buy/online-stores?site=brandsite&from=nav)
+* [Where to Buy](https://www.dji.com/where-to-buy/online-stores?site=brandsite&from=nav)
     
 
 * [](javascript:;)
@@ -31,12 +31,12 @@
     
     * [Welcome,  {{nick\_name}}](javascript:;)
     * [My account](https://accounts.dji.com/user)
-    * [Logout](https://www-api.dji.com/uk/redirect/member/logout)
+    * [Logout](https://www-api.dji.com/redirect/member/logout)
     
 * [](javascript:void(0);;)
     
-    * [Login](https://www-api.dji.com/uk/redirect/member/login)
-    * [Register](https://www-api.dji.com/uk/redirect/member/register?autologin=y)
+    * [Login](https://www-api.dji.com/redirect/member/login)
+    * [Register](https://www-api.dji.com/redirect/member/register?autologin=y)
     
 * [Store](https://store.dji.com/?site=brandsite&from=nav)
     
@@ -58,18 +58,20 @@ Continue Viewing
 Terms of Use
 ------------
 
-* [Home](https://www.dji.com/uk)
+* [Home](https://www.dji.com/)
 * Terms of Use
 
 * [DJI Website Terms of Use](#other)
 * [Trademark](#copyrights)
-* [DJI UAS Products Terms of Use](#products-terms)
+* [DJI Product Terms of Use](#products-terms)
 * [DJI Software Terms of Use](#products-tab-pilot)
 
 DJI Website Terms of Use
 ------------------------
 
-Thank you for your interest in SZ DJI Technology Co., Ltd. and its affiliated companies (collectively, “**DJI**”) and in the various websites provided by DJI, including our website at www.dji.com/uk and all associated sites linked to www.dji.com/uk by DJI (collectively, the “**Site**”). Please read the following terms and conditions carefully. By accessing the Site or any of the services provided to you through the Site, you acknowledge that you have read, understood, and agree to be bound by the following terms and conditions and the DJI Privacy Policy (available at [https://www.dji.com/uk/policy](https://www.dji.com/uk/policy)) (together, these “**Terms**”). If you are not eligible or do not agree to any of the Terms, then you may not access the Site.  
+Last updated: September 2, 2024  
+  
+Thank you for your interest in DJI Service LLC(“**DJI**”) and in the various websites provided by DJI, including our website at www.dji.com and all associated sites linked to www.dji.com by DJI (collectively, the “**Site**”). Please read the following terms and conditions carefully. By accessing the Site or any of the services provided to you through the Site, you acknowledge that you have read, understood, and agree to be bound by the following terms and conditions and the DJI Privacy Policy (available at [https://www.dji.com/policy](https://www.dji.com/policy)) (together, these “**Terms**”). If you are not eligible or do not agree to any of the Terms, then you may not access the Site.  
 DJI provides flying and camera stabilization systems and related platforms and products, including commercial and recreational unmanned aerial vehicles (UAVs) for aerial photography and videography. You understand and agree that (i) our commercial and recreational UAVs and other hardware and physical products, and the firmware contained therein (collectively, **“DJI Hardware”**) and (ii) our software controlling the DJI Hardware (**“DJI Software”**) are not considered part of the Site. The terms and any warranties that apply to DJI Hardware and DJI Software are included with such DJI Hardware and DJI Software.  
 These Terms provide that all disputes between you and DJI will be resolved by BINDING ARBITRATION. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under these Terms, except for matters that may be taken to small claims court. Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury, and your claims cannot be brought as a class action. Please review Section 17 (“Dispute Resolution and Arbitration”) of these Terms for the details regarding your agreement to arbitrate any disputes with DJI.
 
@@ -89,7 +91,7 @@ To access certain features of the Site, such as when you participate in the DJI 
 
 ### 3\. Purchases; Additional Terms and Conditions
 
-Purchases of goods or services, and specific sections of the Site may be subject to additional terms and conditions; all additional terms are incorporated into these Terms by reference. You agree to abide by all such other terms and conditions, including representations of having sufficient legal age to use certain portions of the Site or services. If there are any conflicts between these Terms and terms that are specific to a section of the Site or specific to a particular service offered by the Site, you agree that the latter terms will control with respect to your use of that section of the Site or those particular services.
+Purchases of goods or services, and specific sections of the Site are subject to additional terms and conditions, including the DJI UAS Products Terms of Use and DJI Software Terms of Use, both available at https://www.dji.com/terms, and the DJI Terms of Sale, which will be made available to you at the time of purchase. You agree to abide by all such other terms and conditions, including representations of having sufficient legal age to use certain portions of the Site or services. If there are any conflicts between these Terms and terms that are specific to a section of the Site or specific to a particular service offered by the Site, you agree that the latter terms will control with respect to your use of that section of the Site or those particular services.
 
 * * *
 
@@ -98,13 +100,13 @@ Purchases of goods or services, and specific sections of the Site may be subject
 **4.1 User Content Generally.** Certain features of the Site, such as the DJI Forum, may permit users to upload content to the Site, including messages, reviews, photos, video, images, folders, data, text, and other types of works (“User Content”) and to publish User Content on the Site. You retain copyright and any other proprietary rights that you may hold in the User Content that you post to the Site.**4.2 Limited License Grant to DJI.** By posting or publishing User Content, you grant DJI a worldwide, non-exclusive, royalty-free, fully paid right and license (with the right to sublicense) to host, store, transfer, display, perform, reproduce, modify for the purpose of formatting for display, and distribute your User Content, in whole or in part, in any media formats and through any media channels now known or hereafter developed.**  
 4.3 Limited License Grant to Other Users.** By posting or sharing User Content with other users of the Site, you grant those users a non-exclusive license to access and use that User Content as permitted by these Terms and the functionality of the Site.**  
 4.4 User Content Representations and Warranties.** You are solely responsible for your User Content and the consequences of posting or publishing User Content. By posting or publishing User Content, you affirm, represent, and warrant that:_a). you are the creator and owner of the User Content, or have the necessary licenses, rights, consents, and permissions to authorize DJI and users of the Site to use and distribute your User Content as necessary to exercise the licenses granted by you in this section, in the manner contemplated by DJI, the Site, and these Terms;_ _b). your User Content, and the use of your User Content as contemplated by these Terms, does not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person; or (iii) cause DJI to violate any law or regulation._**4.5 User Content Disclaimer.** DJI is under no obligation to edit or control User Content that you or other users post or publish, and will not be in any way responsible or liable for User Content. DJI may, however, at any time and without prior notice, screen, remove, edit, or block any User Content that in our sole judgment violates these Terms or is otherwise objectionable. You understand that when accessing the Site you will be exposed to User Content from a variety of sources and acknowledge that User Content may be inaccurate, offensive, indecent, or objectionable. You agree to waive, and do waive, any legal or equitable right or remedy you have or may have against DJI with respect to User Content. We expressly disclaim any and all liability in connection with User Content. If notified by a user or content owner that User Content allegedly does not conform to these Terms, we may investigate the allegation and determine in our sole discretion whether to remove the User Content, which we reserve the right to do at any time and without notice. For clarity, DJI does not permit copyright-infringing activities on the Site.**  
-4.6 Digital Millennium Copyright Act**_a). DMCA Notification. We comply with the provisions of the Digital Millennium Copyright Act applicable to Internet service providers (17 U.S.C. §512, as amended). If you have a copyright-related complaint about material posted on the Site, you may contact our Designated Agent at the following address:_**Attn: DMCA NoticeLuo JianyongAddress: SZ DJI Technology Co., Ltd.Lobby of T2, DJI Sky CityNo. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan DistrictShenzhen, 518055China Telephone +86-15014068130Email: dept-ip@dji.com**PLEASE NOTE THAT UNDER UNITED STATES FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.Any notice alleging that materials hosted by or distributed through the Service infringe intellectual property rights must comply with elements of notification as described in 17 U.S.C. §512._b). Repeat Infringers. DJI will promptly terminate without notice the accounts of users that are determined by DJI to be “ Repeat Infringers.” A Repeat Infringer is a user who has been repeatedly notified of infringing activity or has had User Content repeatedly removed from the Site._
+4.6 Digital Millennium Copyright Act**_a). DMCA Notification. We comply with the provisions of the Digital Millennium Copyright Act applicable to Internet service providers (17 U.S.C. §512, as amended). If you have a copyright-related complaint about material posted on the Site, you may contact our Designated Agent at the following address:_**Attn: DMCA Notice IP DeptAddress: DJI Service LLC, 17301 Edwards Road, Cerritos, CA 90703Phone: 818-235-0789Email: dept-ip@dji.com**PLEASE NOTE THAT UNDER UNITED STATES FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRINGING, YOU MAY BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY AND CIVIL PENALTIES, INCLUDING MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS’ FEES.Any notice alleging that materials hosted by or distributed through the Service infringe intellectual property rights must comply with elements of notification as described in 17 U.S.C. §512._b). Repeat Infringers. DJI will promptly terminate without notice the accounts of users that are determined by DJI to be “ Repeat Infringers.” A Repeat Infringer is a user who has been repeatedly notified of infringing activity or has had User Content repeatedly removed from the Site._
 
 * * *
 
 ### 5\. Using the Site
 
-By using the Site, and by entering into these Terms, you represent and warrant that your use of the Site complies and will comply with all applicable laws, statutes, and regulations, and that you will not use the Site except as expressly permitted under these Terms. For users located in China, you agree to comply with the “People’s Republic of China on Guarding State Secrets Law,” “Copyright Law of People’s Republic of China,” “Regulations on Protection of Computer Information System Security People's Republic of China,” “Regulations on Computer Software Protection,” “Internet Electronic Bulletin Site Management Requirements,” “Information Network Transmission Right Protection Ordinance” and other applicable laws and regulations, the implementation approach. DJI reserves the right to review, remove, or disable access to User Content in violation of the applicable laws and regulations in China. DJI also welcomes users to report any User Content that is in violation of applicable laws or regulations.
+By using the Site, and by entering into these Terms, you represent and warrant that your use of the Site complies and will comply with all applicable laws, statutes, and regulations, and that you will not use the Site except as expressly permitted under these Terms. DJI reserves the right to review, remove, or disable access to User Content in violation of the applicable laws and regulations in China. DJI also welcomes users to report any User Content that is in violation of applicable laws or regulations.
 
 * * *
 
@@ -138,15 +140,15 @@ By using the Site, and by entering into these Terms, you represent and warrant t
 
 ### 7\. Termination of Use; Discontinuation and Modification of the Site
 
-If you violate any provision of these Terms, your permission from us to access the Site will terminate automatically. In addition, DJI may in its sole discretion terminate your DJI account or suspend or terminate your access to the Site at any time for any reason or no reason, with or without notice. We also reserve the right to modify or discontinue the Site or features of the Site at any time, temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Site or any suspension or termination of your access to or access to the Site. Without limiting the foregoing, you understand and agree that in any termination or suspension of your account or the Site, you will not have access to any data or content posted to the Site or otherwise contained in the Site, and we will have no responsibility to provide you access to such data or content. You may terminate your DJI account at any time by contacting customer service via https://www.dji.com/uk/feedback or at support@dji.com.
+If you violate any provision of these Terms, your permission from us to access the Site will terminate automatically. In addition, DJI may in its sole discretion terminate your DJI account or suspend or terminate your access to the Site at any time for any reason or no reason, with or without notice. We also reserve the right to modify or discontinue the Site or features of the Site at any time, temporarily or permanently, without notice to you. We will have no liability whatsoever on account of any change to the Site or any suspension or termination of your access to or access to the Site. Without limiting the foregoing, you understand and agree that in any termination or suspension of your account or the Site, you will not have access to any data or content posted to the Site or otherwise contained in the Site, and we will have no responsibility to provide you access to such data or content. You may terminate your DJI account at any time by contacting customer service via https://www.dji.com/feedback or at support@dji.com.
 
 * * *
 
 ### 8\. Privacy Policy; Additional Terms
 
-**8.1 Privacy Policy**Please read the DJI Privacy Policy at https://www.dji.com/uk/policy carefully for information relating to our collection, use, storage and disclosure of your personal information. The DJI Privacy Policy is incorporated by this reference into, and made a part of, these Terms.  
+**8.1 Privacy Policy**Please read the DJI Privacy Policy at https://www.dji.com/policy carefully for information relating to our collection, use, storage and disclosure of your personal information. The DJI Privacy Policy is incorporated by this reference into, and made a part of, these Terms.  
   
-**8.2 Additional Terms**1.1 Your access to the Site is subject to all additional terms, policies, rules, or guidelines applicable to the Site (the “Additional Terms”), such as the DJI Forum Rules or the DJI Store’s Terms of Sale. All Additional Terms are incorporated by this reference into and made a part of these Terms.
+**8.2 Additional Terms**Your access to the Site is subject to all additional terms, policies, rules, or guidelines applicable to the Site (the “Additional Terms”), such as the [DJI Forum Rules](https://forum.dji.com/thread-71515-1-1.html), the DJI UAS Products Terms of Use and DJI Software Terms of Use, both available at https://www.dji.com/terms, and the DJI Terms of Sale, which will be made available to you at the time of purchase.or the DJI Store’s Terms of Sale. All Additional Terms are incorporated by this reference into and made a part of these Terms.
 
 * * *
 
@@ -158,7 +160,7 @@ We reserve the right, at our discretion, to change these Terms on a going-forwar
 
 ### 10\. Ownership; Proprietary Rights
 
-The Site is owned and operated by DJI. The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Site (“**Materials**”) provided by DJI are protected by intellectual property and other laws. All Materials contained in the Site are the property of DJI and its third-party licensors. Except as expressly authorized by DJI, you may not make use of the Materials. DJI reserves all rights to the Materials not granted expressly in these Terms.
+The Site is owned and operated by DJI. The visual interfaces, graphics, design, compilation, information, data, computer code (including source code or object code), products, software, services, and all other elements of the Site (“**Materials**”) provided by DJI are protected by intellectual property and other laws. All Materials contained in the Site are the property of DJI, its parent or subsidiary companies and corporate affiliates, or third-party licensors. Except as expressly authorized by DJI, you may not make use of the Materials. DJI reserves all rights to the Materials not granted expressly in these Terms.
 
 * * *
 
@@ -170,7 +172,7 @@ If you choose to provide input or suggestions regarding problems with, or propos
 
 ### 12\. Indemnity
 
-You are responsible for your access to the Site. You will defend and indemnify DJI and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “**DJI Entities**”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (a) your access to, use of, or alleged use of, the Site; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
+You are responsible for your access to the Site. You will defend and indemnify DJI and its officers, directors, employees, consultants, affiliates, parent companies, subsidiaries and agents (together, the “**DJI Entities**”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (a) your access to, use of, or alleged use of, the Site; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
 
 * * *
 
@@ -203,16 +205,18 @@ You agree that the Site shall be deemed a passive website that does not give ris
 
 * * *
 
-### 17\. Dispute Resolution and Arbitration
+### 17\. DISPUTE RESOLUTION, BINDING ARBITRATION, AND CLASS ACTION WAIVER
 
-**17.1 Generally**In the interest of resolving disputes between you and DJI in the most expedient and cost effective manner, you and DJI agree that every dispute arising in connection with these Terms will be resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND DJI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.**  
-17.2 Exceptions**Despite the provisions of Section 17.1, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.**  
-17.3 Arbitrator**Any arbitration between you and DJI will be settled under the Federal Arbitration Act, and governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, **“AAA Rules”**) of the American Arbitration Association (**“AAA”**), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by contacting DJI.**  
-17.4 Notice; Process**A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if such other party has not provided a current physical address, then by electronic mail (**“Notice”**). DJI’s address for Notice is: No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (**“Demand”**). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice is received, you or DJI may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or DJI must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If the dispute is finally resolved through arbitration in your favor, DJI will pay you the highest of the following: (i) the amount awarded by the arbitrator, if any; (ii) the last written settlement amount offered by DJI in settlement of the dispute prior to the arbitrator’s award; or (iii) $1,000.**  
-17.5 Fees** If you commence arbitration in accordance with these Terms, DJI will reimburse you for your payment of the filing fee, unless your claim is for more than $10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearing will take place at a location to be agreed upon in San Francisco County, California, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse DJI for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.**  
-17.6 No Class Actions** YOU AND DJI AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and DJI agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.**  
-17.7 Modifications of This Arbitration Provision**If DJI makes any future change to this arbitration provision, other than a change to DJI's address for Notice, you may reject the change by sending us written notice within 30 days of the change to DJI’s address for Notice, in which case your account with DJI will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.**  
-17.8 Enforceability**If Section 17.6 is found to be unenforceable or if the entirety of this Section 17 is found to be unenforceable, then the entirety of this Section 17 (other than, in the latter case, Section 17.6) will be null and void and, in that case, the parties agree that the exclusive jurisdiction and venue described in Section 15 will govern any action arising out of or related to these Terms.
+**17.1 Generally** If you have a dispute that our customer service representatives cannot resolve and you wish to pursue resolution, the following terms apply.  
+In the interest of resolving disputes between you and the DJI Entities in the most expedient and cost-effective manner, you must first send an individualized Notice as set forth in Section 17.4, below. You and the DJI Entities agree to first try to resolve any dispute arising in connection with these Terms informally within sixty (60) days of our receipt of a Notice and in the event such informal dispute resolution is not successful, you and we agree to binding individual arbitration. Our receipt of an individualized Notice is a prerequisite to initiating any arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of the purchase or use of any DJI products under these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. THE ARBITRATOR MAY AWARD DECLARATORY OR INJUNCTIVE RELIEF ONLY TO YOU INDIVIDUALLY TO SATISFY YOUR INDIVIDUAL CLAIM, BUT NOT RELIEF THAT WOULD AFFECT NON-PARTIES. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND THE DJI ENTITIES ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.**  
+17.2 Exceptions** Notwithstanding the provisions of Section 17.1, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court seeking only individualized relief, so long as the action meets the small claims court’s requirements and remains an individual action seeking individualized relief; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.  
+If your Notice involves claims similar to those of at least 24 other users and is not resolved through informal dispute resolution or small claims court, and if you and those other users are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be “**Related Cases.**” Related Cases may only be filed in batches of up to 30 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 15 of these Related Cases to be filed and resolved in individual arbitrations under this Section; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 30 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to informally resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 15 of the Related Cases to be resolved in individual arbitrations under this Section. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph. Any relevant limitations period and filing fee or other deadlines shall be tolled for claims subject to these additional procedures that apply to Related Cases from the time that the first cases are selected for a staged process until the time your claim is selected for a staged process, withdrawn, otherwise resolved, or opted out of arbitration.**  
+17.3 Arbitrator**Any arbitration between you and the DJI Entities will be settled on an individual basis only under the Federal Arbitration Act and governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, “**AAA Rules**”) of the American Arbitration Association (“**AAA**”), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at https://www.adr.org, or by calling the AAA at 1-800-778-7879, or by contacting DJI. If AAA is unavailable or unwilling to administer the arbitration consistent with these Terms, you and we shall agree on an alternative provider to administer the arbitration. If you and we cannot agree, you and we shall jointly petition a court of competent jurisdiction to appoint a provider that will administer the arbitration consistent with the AAA Rules (as modified by these Terms).**  
+17.4 Notice and Process** Each individual party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if such other party has not provided a current physical address, then by electronic mail (**“Notice”**). DJI’s address for Notice is: 17301 Edwards Road, Cerritos, CA 90703. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (“**Demand**”). During the arbitration, the amount of any settlement offer made by you or any DJI Entity during informal dispute resolution or otherwise must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any.**  
+17.5 Fees** All arbitration fees shall be determined by the AAA Rules as modified by these Terms. Any arbitration hearing will take place at a location to be agreed upon in the City and County of San Francisco, California, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing or hearing through a video conferencing platform such as Zoom or Teams; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. Regardless of how the arbitration is conducted, the arbitrator must issue a written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.**  
+17.6 No Class Actions** **CLASS ACTION LAWSUITS, CLASS-WIDE ARBITRATIONS, PRIVATE ATTORNEY-GENERAL ACTIONS, REQUESTS FOR PUBLIC INJUNCTIONS, AND ANY OTHER PROCEEDING OR REQUEST FOR RELIEF WHERE SOMEONE ACTS IN A REPRESENTATIVE CAPACITY ARE NOT ALLOWED, NOR IS COMBINING INDIVIDUAL PROCEEDINGS WITHOUT THE CONSENT OF ALL PARTIES, AND YOU AND DJI AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY.** Further, unless both you and DJI agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding except for as set forth in Section 17.2.**  
+17.7 Modifications of This Arbitration Provision** If DJI makes any future change to this arbitration provision, other than a change to DJI's address for Notice, you may reject the change by sending us written notice within 30 days of the change to DJI’s address for Notice, in which case your account with DJI will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.**  
+17.8 Enforceability** If after exhaustion of all appeals, a court finds any part of this Section 17 to be unenforceable as to any claim or request for a remedy, then the parties agree to arbitrate all claims and remedies subject to arbitration before litigating in court any remaining claims or remedies (such as a request for a public injunction remedy, in which case the arbitrator issues an award on liability and individual relief before a court considers that request). If any other part of this Section 17 is deemed to be unenforceable, then the remainder of this Section 17 will remain in effect (with an arbitration award issued before any court proceeding begins).
 
 * * *
 
@@ -224,22 +228,7 @@ By accessing the Site, you consent to receiving certain electronic communication
 
 ### 19\. Contact Information
 
-The Site is offered by SZ DJI Technology Co., Ltd. and its affiliated companies, located at Lobby of T2, DJI Sky City, No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055. You may contact us by sending correspondence to that address or by emailing us via https://www.dji.com/uk/feedback or at support@dji.com.  
-  
-
-### 20\. BUSINESS INFORMATION
-
-  
-This website is operated by SZ DJI Technology Co., Ltd., Lobby of T2, DJI Sky City, No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055.  
-  
-Registered in Market Supervision Administration of Shenzhen Municipality, Nanshan Suboffice.  
-  
-Company Registration Number: 914403007954257495  
-  
-Contact Number: +86 0755 26656677  
-  
-Contact Email: support@dji.com  
-  
+The Site is offered by DJI Service LLC, located at 17301 Edwards Road, Cerritos, CA 90703. You may contact us by sending correspondence to that address or by emailing us via https://www.dji.com/feedback or at support@dji.com.
 
 * * *
 
@@ -401,28 +390,31 @@ Anyone may make fair use of the DJI word marks to make true, factual statements 
 
 This Guideline was last modified on 2016/01/22.
 
-DJI UAS Products Terms of Use
------------------------------
+DJI Product Terms of Use
+------------------------
 
-Lastly updated: January 1, 2022
+Last updated: September 2, 2024
 
-Thank you for your interest in our unmanned aerial system (UAS) product (the “Product”) offered by SZ DJI Technology Co., Ltd. (“DJI” or “we”). Please read the following terms and conditions carefully. By activating this Product via mobile applications provided by DJI (the “DJI Apps”) and tapping “I Agree”, you acknowledge that you have read, understood, and agree to be bound by the following terms and conditions (the “Product Terms”), the Software Terms of Use, and the [DJI Privacy Policy](https://www.dji.com/uk/policy) (together, these “Terms”).
+Thank you for your interest in our product (the “Product”). Please read the following terms and conditions (the “Product Terms”) carefully.  
+  
+The Product Terms is a legal agreement between you and DJI Service LLC(“DJI”), and governs your rights and obligations regarding the Product. By activating this Product via DJI mobile applications (the “DJI Apps”) and tapping “I Agree”, you acknowledge that you have read, understood, and agree to be bound by the Product Terms, the Software Terms of Use, and the [DJI Privacy Policy](https://www.dji.com/policy) (together, these “Terms”).
 
 ### You acknowledge and agree that, as provided in greater detail in these Terms:
 
-* **BINDING ARBITRATION AND NO CLASS ACTION.** Subject to the country specific provisions below, these Terms provide that all disputes between you and DJI will be resolved by binding arbitration. You agree to give up your right to go to court to assert or defend your rights under these Terms, except for matters that may be taken to small claims court. Your rights will be determined by a neutral arbitrator and not a judge or jury, and your claims cannot be brought as a class action. Please review [Section 10 (“Dispute Resolution and Arbitration”)](#section-10) of the Product Terms for the details.
+* **BINDING ARBITRATION AND NO CLASS ACTION.** Subject to the country specific provisions below, these Terms provide that all disputes between you and DJI Entities will be resolved by binding arbitration. You agree to give up your right to go tfIN THE INTEREST OF RESOLVING DISPUTES BETWEEN YOU AND DJI IN THE MOST EXPEDIENT AND COST EFFECTIVE MANNER, o court to assert or defend your rights under these Terms, except for matters that may be taken to small claims court. Your rights will be determined by a neutral arbitrator and not a judge or jury, and your claims cannot be brought as a class action. Please review Section 10 (“Dispute Resolution and Arbitration”) of the Product Terms for the details.
 
-* **NO WARRANTIES AND LIMITED LIABILITY.** Subject to the country specific provisions below, the Product is provided “as-is” and without warranties of any kind other than those provided for in the [DJI Limited Warranty](https://www.dji.com/uk/service) , and DJI’s liability to you is limited. Please review [Section 6 (“Disclaimers; No Warranties”)](#section-6) and [Section 7 (“Limitation of Liability”)](#section-7) of the Product Terms for the details.
+* **NO WARRANTIES AND LIMITED LIABILITY.** Subject to the country specific provisions below, the Product is provided “as-is” and without warranties of any kind other than those provided for in the DJI Limited Warranty , and DJI’s liability to you is limited. Please review Section 6 (“Disclaimers; No Warranties”) and Section 7 (“Limitation of Liability”) of the Product Terms for the details.
+    
+* **PRODUCT IS NOT A TOY BUT A COMPLICATED PRODUCT.** While the product adopts the most advanced technology, inappropriate use of the product could result in personal injury or property damages. Please read the User Manual, Quick Start Guide, Disclaimer and Safety Guidelines, Intelligent Flight Battery Safety Guidelines and any other materials associated with the Product before your first use of the Product. These documents are included in the Product package and are also available online on the DJI Product page at [https://www.dji.com](https://www.dji.com/).
 
-* **PRODUCT IS NOT A TOY BUT A COMPLICATED AIRCRAFT.** While the product adopts the most advanced technology, inappropriate use of the product could result in personal injury or property damages. Please read the User Manual, Quick Start Guide, Disclaimer and Safety Guidelines, Intelligent Flight Battery Safety Guidelines and any other materials associated with the Product before your first use of the Product. These documents are included in the Product package and are also available online on the DJI Product page at [https://www.dji.com/uk](https://www.dji.com/uk).
-
-* **LIMITED LICENSE.** DJI grants you a limited, non-sublicensable license to access and use the Product for their intended purposes only. YOU WILL NOT “HACK”, “CRACK”, MODIFY THE PRODUCT INCLUDING ITS FLIGHT SAFETY FEATURES. YOU WILL NOT OPERATE THE PRODUCT OVERRIDING THE FLIGHT SAFETY LIMITATION. ANY USE OF THE PRODUCT OTHER THAN AS SPECIFICALLY AUTHORIZED HEREIN, WITHOUT THE PRIOR WRITTEN PERMISSION OF DJI, IS STRICTLY PROHIBITED AND WILL TERMINATE YOUR RIGHT TO ACCESS YOUR ACCOUNT OR USE THE PRODUCT. Please review [Section 4 (“Your Obligations”)](#section-4) of the Product Terms for the details.
-
-**IF YOU ARE NOT ELIGIBLE OR DO NOT AGREE TO ANY OF THESE TERMS, THEN YOU MAY NOT USE THE PRODUCT.** You may be entitled to a full refund of your purchase of the Product if you return the Product in accordance with the [DJI After-Sales Service Policies](https://www.dji.com/uk/service/policy).
+* **LIMITED LICENSE.** DJI grants you a limited, non-sublicensable license to access and use the Product for their intended purposes only. YOU WILL NOT “HACK”, “CRACK”, MODIFY THE PRODUCT INCLUDING ITS FLIGHT SAFETY FEATURES. YOU WILL NOT OPERATE THE PRODUCT OVERRIDING THE FLIGHT SAFETY LIMITATION. ANY USE OF THE PRODUCT OTHER THAN AS SPECIFICALLY AUTHORIZED HEREIN, WITHOUT THE PRIOR WRITTEN PERMISSION OF DJI, IS STRICTLY PROHIBITED AND WILL TERMINATE YOUR RIGHT TO ACCESS YOUR ACCOUNT OR USE THE PRODUCT. Please review Section 4 (“Your Obligations”) of the Product Terms for the details.
+    
+    **IF YOU ARE NOT ELIGIBLE OR DO NOT AGREE TO ANY OF THESE TERMS, THEN YOU MAY NOT USE THE PRODUCT.** You may be entitled to a full refund of your purchase of the Product if you return the Product in accordance with the [DJI After-Sales Service Policies](https://www.dji.com/service/policy).
+    
 
 ### 1\. ELIGIBILITY.
 
-You must have a DJI account to activate the Product. By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years of age, or if you are under 18 years old (or the relevant age in your jurisdiction where you are considered a minor), you present that your parent or legal guardian has read these Terms and agrees to be bound by these Terms on your behalf; (b) you have or will have a DJI account at such time that you attempt to activate the Product; (c) your activation and your use of the Product is in compliance with all applicable laws and regulations; and (d) if you are agreeing to these Terms or using the Product on behalf of an entity, organization, company, or individual, you have the authority to bind that organization or individual to these Terms and you agree to be bound by these Terms on behalf of that organization or individual.
+You must have a DJI account to activate the Product. By agreeing to these Terms, you represent and warrant to us that: (a) you are at least 18 years of age, or if you are under 18 years old (or the relevant age in your jurisdiction where you are considered a minor), you present that your parent or legal guardian has read these Terms and agrees to be bound by these Terms on your behalf; (b) you have or will have a DJI account at such time that you attempt to activate the Product; (c) your activation and your use of the Product is in compliance with all applicable laws and regulations; (d) you will not use or assist others to use the Product for combat purposes; and (e)if you are agreeing to these Terms or using the Product on behalf of an entity, organization, company, or individual, you have the authority to bind that organization or individual to these Terms and you agree to be bound by these Terms on behalf of that organization or individual.
 
 ### 2\. FEEDBACK.
 
@@ -432,7 +424,7 @@ If you choose to provide input or suggestions regarding problems with, or propos
 
 The visual interfaces, graphics, design, firmware, software, services, and all other elements of the Product (“Materials”) provided by DJI are protected by intellectual property and other laws. All Materials contained in the Product are the property of DJI or our third-party licensors. DJI reserves all rights to the Materials not granted expressly in these Terms.
 
-User Manuals, instructions and other material about product functions and specifics are DJI confidential Materials. Users are licensed to use these materials only for purposes of operating and using DJI Products. Unless otherwise authorized in this Terms, you are not eligible to use or allow others to use the Materials or any part of the Materials by reproducing, transferring or selling the Materials.
+User Manuals, instructions and other material about product functions and specifics are DJI intellectual property. Users are licensed to use these materials only for purposes of operating and using DJI Products. Unless otherwise authorized in this Terms, you are not eligible to use or allow others to use the Materials or any part of the Materials by reproducing, transferring or selling the Materials.
 
 ### 4\. YOUR OBLIGATIONS.
 
@@ -448,15 +440,15 @@ By using the Product, and by entering into these Terms, you represent and warran
 
 ### 5.INDEMNITY.
 
-You are responsible for your use of the Product. You will defend and indemnify DJI and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or in any way connected with: (a) use or alleged use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
+You are responsible for your use of the Product. You will defend and indemnify DJI and its officers, directors, employees, consultants, corporate affiliates, parent or subsidiary companies and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or in any way connected with: (a) use or alleged use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
 
 **FOR EU USERS THE FOLLOWING SECTIONS APPLY:**
 
-You are responsible for your use of the Product. You agree to compensate in full DJI and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonably foreseeable attorneys' fees and costs, arising out of or in any way connected with: (a) use or alleged use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. If, at DJI’s request, you permit DJI, to assume the exclusive defense and control of any matter for which you are required to compensate us under this paragraph (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
+You are responsible for your use of the Product. You agree to compensate in full DJI and its officers, directors, employees, consultants, corporate affiliates, parent or subsidiary companies and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonably foreseeable attorneys' fees and costs, arising out of or in any way connected with: (a) use or alleged use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. If, at DJI’s request, you permit DJI, to assume the exclusive defense and control of any matter for which you are required to compensate us under this paragraph (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
 
 **FOR AUSTRALIAN USERS THE FOLLOWING SECTIONS APPLY:**
 
-You are responsible for your use of the Product. You will defend and indemnify DJI and its officers, directors, employees, consultants, affiliates, subsidiaries and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (a) negligent use or alleged negligent use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
+You are responsible for your use of the Product. You will defend and indemnify DJI and its officers, directors, employees, consultants, corporate affiliates, parent and subsidiary companies and agents (together, the “DJI Entities”) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys' fees and costs, arising out of or in any way connected with: (a) negligent use or alleged negligent use of the Product; (b) your violation of any portion of these Terms, any representation, warranty, or agreement referenced in these Terms, or any applicable law or regulation; (c) your violation of any third-party right, including any intellectual property right or publicity, confidentiality, other property, or privacy, right; or (d) any dispute or issue between you and any third party. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of that claim.
 
 ### 6.DISCLAIMERS; NO WARRANTIES.
 
@@ -542,35 +534,37 @@ These Terms and any other agreements expressly incorporated by reference into th
 
 EXCEPTION, for EU USERS: We may assign our rights and obligations under these Terms without your prior express consent, provided that we assign these Terms on the same conditions or conditions that are no less advantageous to you.
 
-### 10\. DISPUTE RESOLUTION AND ARBITRATION.
+### 10\. DISPUTE RESOLUTION, BINDING ARBITRATION, AND CLASS ACTION WAIVER.
 
 FOR EU USERS: Section 10 is not applicable to you.
 
 **10.1. GENERALLY.**
 
-IN THE INTEREST OF RESOLVING DISPUTES BETWEEN YOU AND DJI IN THE MOST EXPEDIENT AND COST EFFECTIVE MANNER, YOU AND DJI AGREE THAT EVERY DISPUTE ARISING IN CONNECTION WITH THESE TERMS WILL BE RESOLVED BY **BINDING ARBITRATION.** ARBITRATION IS LESS FORMAL THAN A LAWSUIT IN COURT. ARBITRATION USES A **NEUTRAL ARBITRATOR INSTEAD OF A JUDGE OR JURY,** MAY ALLOW FOR MORE LIMITED DISCOVERY THAN IN COURT, AND CAN BE SUBJECT TO VERY LIMITED REVIEW BY COURTS. ARBITRATORS CAN AWARD THE SAME DAMAGES AND RELIEF THAT A COURT CAN AWARD. EXCEPT AS SET FORTH IN SECTION 10.2, THIS AGREEMENT TO ARBITRATE DISPUTES INCLUDES ALL CLAIMS ARISING OUT OF OR RELATING TO ANY ASPECT OF THESE TERMS, WHETHER BASED IN CONTRACT, TORT, STATUTE, FRAUD, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY, AND REGARDLESS OF WHETHER A CLAIM ARISES DURING OR AFTER THE TERMINATION OF THESE TERMS. **YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND DJI ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.**
+If you have a dispute that our customer service representatives cannot resolve and you wish to pursue resolution, the following terms apply.
 
-**10.2. EXCEPTIONS.**
+IN THE INTEREST OF RESOLVING DISPUTES BETWEEN YOU AND THE DJI ENTITIES IN THE MOST EXPEDIENT AND COST-EFFECTIVE MANNER, YOU MUST FIRST SEND AN INDIVIDUALIZED NOTICE AS SET FORTH IN SECTION 10.4, BELOW. YOU AND THE DJI ENTITIES AGREE TO FIRST TRY TO RESOLVE ANY DISPUTE ARISING IN CONNECTION WITH THESE TERMS INFORMALLY WITHIN SIXTY (60) DAYS OF OUR RECEIPT OF A NOTICE AND IN THE EVENT SUCH INFORMAL DISPUTE RESOLUTION IS NOT SUCCESSFUL, YOU AND WE AGREE TO **BINDING INDIVIDUAL ARBITRATION**. OUR RECEIPT OF AN INDIVIDUALIZED NOTICE IS A PREREQUISITE TO INITIATING ANY ARBITRATION. ARBITRATION IS LESS FORMAL THAN A LAWSUIT IN COURT. ARBITRATION USES A **NEUTRAL ARBITRATOR INSTEAD OF A JUDGE OR JURY**, MAY ALLOW FOR MORE LIMITED DISCOVERY THAN IN COURT, AND CAN BE SUBJECT TO VERY LIMITED REVIEW BY COURTS. ARBITRATORS CAN AWARD THE SAME DAMAGES AND RELIEF THAT A COURT CAN AWARD. THIS AGREEMENT TO ARBITRATE DISPUTES INCLUDES ALL CLAIMS ARISING OUT OF OR RELATING TO ANY ASPECT OF THE PURCHASE OR USE OF ANY DJI PRODUCTS UNDER THESE TERMS, WHETHER BASED IN CONTRACT, TORT, STATUTE, FRAUD, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY, AND REGARDLESS OF WHETHER A CLAIM ARISES DURING OR AFTER THE TERMINATION OF THESE TERMS. **THE ARBITRATOR MAY AWARD DECLARATORY OR INJUNCTIVE RELIEF ONLY TO YOU INDIVIDUALLY TO SATISFY YOUR INDIVIDUAL CLAIM, BUT NOT RELIEF THAT WOULD AFFECT NON-PARTIES. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND THE DJI ENTITIES ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.****
 
-Despite the provisions of Section 10.1, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+10.2. EXCEPTIONS.**
 
-FOR AUSTRALIAN USERS: Despite the provisions of Section 10.1, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) claim in relation to your rights and statutory guarantees in Section 6.1; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+Notwithstanding the provisions of Section 10.1, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court seeking only individualized relief, so long as the action meets the small claims court’s requirements and remains an individual action seeking individualized relief; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+
+If your Notice involves claims similar to those of at least 24 other users and is not resolved through informal dispute resolution or small claims court, and if you and those other users are represented by the same lawyers, or by lawyers who are coordinating with each other, you and we agree that these claims will be **“Related Cases.”** Related Cases may only be filed in batches of up to 30 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (i) for the first batch, each side may select up to 15 of these Related Cases to be filed and resolved in individual arbitrations under this Section; (ii) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to 30 individual arbitrations is resolved; and (iii) if, after that first batch, the parties are unable to informally resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to 15 of the Related Cases to be resolved in individual arbitrations under this Section. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this paragraph, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this paragraph. Any relevant limitations period and filing fee or other deadlines shall be tolled for claims subject to these additional procedures that apply to Related Cases from the time that the first cases are selected for a staged process until the time your claim is selected for a staged process, withdrawn, otherwise resolved, or opted out of arbitration.
 
 **10.3. ARBITRATOR.**
 
-Any arbitration between you and DJI will be settled under the Federal Arbitration Act, and governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, “AAA Rules”) of the American Arbitration Association (“AAA”), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by contacting DJI.
+Any arbitration between you and the DJI Entities will be settled on an individual basis only under the Federal Arbitration Act and governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, **“AAA Rules”**) of the American Arbitration Association (**“AAA”**), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at https://www.adr.org, or by calling the AAA at 1-800-778-7879, or by contacting DJI. If AAA is unavailable or unwilling to administer the arbitration consistent with these Terms, you and we shall agree on an alternative provider to administer the arbitration. If you and we cannot agree, you and we shall jointly petition a court of competent jurisdiction to appoint a provider that will administer the arbitration consistent with the AAA Rules (as modified by these Terms).
 
-**10.4. NOTICE; PROCESS.**
+**10.4. NOTICE and PROCESS.**
 
-A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if such other party has not provided a current physical address, then by electronic mail (“Notice”). DJI’s address for Notice is: Lobby of T2, DJI Sky City, No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (“Demand”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice is received, you or DJI may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or DJI must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If the dispute is finally resolved through arbitration in your favor, DJI will pay you the highest of the following: (i) the amount awarded by the arbitrator, if any; (ii) the last written settlement amount offered by DJI in settlement of the dispute prior to the arbitrator’s award; or (iii) $1,000.
+Each individual party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if such other party has not provided a current physical address, then by electronic mail (**“Notice”**). DJI’s address for Notice is: 17301 Edwards Road, Cerritos, CA 90703. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (**“Demand”**). During the arbitration, the amount of any settlement offer made by you or any DJI Entity during informal dispute resolution or otherwise must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any.
 
 **10.5. FEES.**
 
-If you commence arbitration in accordance with these Terms, DJI will reimburse you for your payment of the filing fee, unless your claim is for more than $10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearing will take place at a location to be agreed upon in San Francisco County, California, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse DJI for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
+All arbitration fees shall be determined by the AAA Rules as modified by these Terms. Any arbitration hearing will take place at a location to be agreed upon in the City and County of San Francisco, California, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing or hearing through a video conferencing platform such as Zoom or Teams; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. Regardless of how the arbitration is conducted, the arbitrator must issue a written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
 
 **10.6. NO CLASS ACTIONS.**
 
-YOU AND DJI AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and DJI agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.
+**CLASS ACTION LAWSUITS, CLASS-WIDE ARBITRATIONS, PRIVATE ATTORNEY-GENERAL ACTIONS, REQUESTS FOR PUBLIC INJUNCTIONS, AND ANY OTHER PROCEEDING OR REQUEST FOR RELIEF WHERE SOMEONE ACTS IN A REPRESENTATIVE CAPACITY ARE NOT ALLOWED, NOR IS COMBINING INDIVIDUAL PROCEEDINGS WITHOUT THE CONSENT OF ALL PARTIES, AND YOU AND DJI AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY.** Further, unless both you and DJI agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding except for as set forth in Section 10.2.
 
 **10.7. MODIFICATIONS OF THIS ARBITRATION PROVISION.**
 
@@ -578,11 +572,11 @@ If DJI makes any future change to this arbitration provision, other than a chang
 
 **10.8. ENFORCEABILITY.**
 
-If Section 10.6 is found to be unenforceable, the parties agree that the exclusive jurisdiction and venue described in Section 8 will govern any action arising out of or related to these Terms.
+If after exhaustion of all appeals, a court finds any part of this Section 10 to be unenforceable as to any claim or request for a remedy, then the parties agree to arbitrate all claims and remedies subject to arbitration before litigating in court any remaining claims or remedies (such as a request for a public injunction remedy, in which case the arbitrator issues an award on liability and individual relief before a court considers that request). If any other part of this Section 10 is deemed to be unenforceable, then the remainder of this Section 10 will remain in effect (with an arbitration award issued before any court proceeding begins).
 
 ### 11\. CONTACT INFORMATION.
 
-The Product is offered by SZ DJI Technology Co., Ltd. and its affiliated companies, located at Lobby of T2, DJI Sky City, No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055. You may contact us by sending correspondence to that address or by emailing us at support@dji.com.
+Should you have any questions concerning this Product Terms, please contact DJI Service LLC, located at 17301 Edwards Road, Cerritos, CA 90703, by sending correspondence to that address or by emailing us at support@dji.com.
 
 DJI Software TERMS OF USE
 -------------------------
@@ -598,7 +592,7 @@ As used herein, “**we**”, “**us**” or “**DJI**” refers to SZ DJI Tec
 * **BINDING ARBITRATION AND NO CLASS ACTION.** Subject to the country specific provisions below, these Terms provide that all disputes between you and DJI will be resolved by binding arbitration. You agree to give up your right to go to court to assert or defend your rights under these Terms, except for matters that may be taken to small claims court. Your rights will be determined by a neutral arbitrator and not a judge or jury, and your claims cannot be brought as a class action. Please review [Section 13 (“Dispute Resolution and Arbitration”)](#01) of these Terms for the details regarding your agreement to arbitrate any disputes with DJI.
   
 
-* **NO WARRANTIES AND LIMITED LIABILITY.** Subject to the country specific provisions below, the Services is provided “as-is” and without warranties of any kind other than those provided for in the DJI Limited Warranty ([https://www.dji.com/uk/service/policy](https://www.dji.com/uk/service/policy)), and DJI’s liability to you is limited. Please review [Section 10 (“Disclaimers; No Warranties”)](#02) and [Section 11 (“Limitation of Liability”)](#03) of these Terms for the details regarding your agreement to DJI’s disclaimer of warranties and limitation of liability.
+* **NO WARRANTIES AND LIMITED LIABILITY.** Subject to the country specific provisions below, the Services is provided “as-is” and without warranties of any kind other than those provided for in the DJI Limited Warranty ([https://www.dji.com/service/policy](https://www.dji.com/service/policy)), and DJI’s liability to you is limited. Please review [Section 10 (“Disclaimers; No Warranties”)](#02) and [Section 11 (“Limitation of Liability”)](#03) of these Terms for the details regarding your agreement to DJI’s disclaimer of warranties and limitation of liability.
   
 
 **IF YOU ARE NOT ELIGIBLE OR DO NOT AGREE TO ANY OF THESE TERMS, THEN YOU MAY NOT USE THE SERVICES.**  
@@ -625,7 +619,7 @@ To use certain of the Services, you may need to create an account (“Account”
 ### 3\. privacy policy
 
   
-Our Privacy Policy describes how we handle the information you provide to us when you use the Services, including all information provided when you register an Account. For an explanation of our privacy practices, please visit our [Privacy Policy.](https://www.dji.com/uk/policy)  
+Our Privacy Policy describes how we handle the information you provide to us when you use the Services, including all information provided when you register an Account. For an explanation of our privacy practices, please visit our [Privacy Policy.](https://www.dji.com/policy)  
   
   
   
@@ -764,7 +758,7 @@ You are responsible for your use of the Services. You will defend and indemnify 
 ### [10\. DISCLAIMERS; NO WARRANTIES](#02)
 
   
-EXCEPT AS EXPRESSLY PROVIDED IN THE DJI LIMITED WARRANTY APPLICABLE TO THE DJI PRODUCTS YOU PURCHASE (POLICY AVAILABLE AT [HTTPS://WWW.DJI.COM/SERVICE](https://www.dji.com/uk/service)), THE SERVICES AND ALL MATERIALS, AND CONTENT AVAILABLE THROUGH THE SERVICES ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND AND THE DJI ENTITIES DISCLAIM ALL OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICES INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE DJI ENTITIES DO NOT WARRANT, THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.  
+EXCEPT AS EXPRESSLY PROVIDED IN THE DJI LIMITED WARRANTY APPLICABLE TO THE DJI PRODUCTS YOU PURCHASE (POLICY AVAILABLE AT [HTTPS://WWW.DJI.COM/SERVICE](https://www.dji.com/service)), THE SERVICES AND ALL MATERIALS, AND CONTENT AVAILABLE THROUGH THE SERVICES ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND AND THE DJI ENTITIES DISCLAIM ALL OTHER WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICES INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE DJI ENTITIES DO NOT WARRANT, THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.  
   
 NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SERVICES WILL CREATE ANY WARRANTY REGARDING ANY OF THE DJI ENTITIES OR THE SERVICES THAT IS NOT EXPRESSLY STATED IN THESE TERMS. YOU ASSUME ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM YOUR USE OF OR ACCESS TO THE SERVICES. YOU UNDERSTAND AND AGREE THAT YOU USE THE SERVICES AT YOUR OWN DISCRETION AND RISK, AND THAT YOU ARE SOLELY RESPONSIBLE FOR ANY PERSONAL INJURY, DEATH, DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE OR DJI HARDWARE USED IN CONNECTION WITH THE SERVICES) OR THIRD PARTY PROPERTY, OR THE LOSS OF DATA THAT RESULTS FROM YOUR USE OF OR INABILITY TO USE THE SERVICES.  
   
@@ -775,7 +769,7 @@ Some jurisdictions may prohibit a disclaimer of warranties and you may have othe
 ### For EU users the following sections apply:
 
 **  
-EXCEPT AS EXPRESSLY PROVIDED IN DJI LIMITED WARRANTY (POLICY AVAILABLE AT [HTTPS://WWW.DJI.COM/SERVICE](https://www.dji.com/uk/service)), THE SERVICES ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED.  
+EXCEPT AS EXPRESSLY PROVIDED IN DJI LIMITED WARRANTY (POLICY AVAILABLE AT [HTTPS://WWW.DJI.COM/SERVICE](https://www.dji.com/service)), THE SERVICES ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED.  
   
 TO THE EXTENT PERMITTED BY LAW, THE DJI ENTITIES DISCLAIM ALL WARRANTIES OF ANY KIND, EXCEPT AS EXPRESSLY PROVIDED IN DJI LIMITED WARRANTY, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICES, INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE DJI ENTITIES DO NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.  
   
@@ -950,58 +944,58 @@ Subscribe
 
 Please enter a valid email address
 
-You can learn more about how we handle user data through the [DJI Privacy Policy](https://www.dji.com/uk/policy).
+You can learn more about how we handle user data through the [DJI Privacy Policy](https://www.dji.com/policy).
 
 Product Categories
 
-* [Consumer](https://www.dji.com/uk/products/consumer?site=brandsite&from=footer)
-* [Professional](https://www.dji.com/uk/products/professional?site=brandsite&from=footer)
-* [Enterprise](https://www.dji.com/uk/products/enterprise?site=brandsite&from=footer)
-* [Components](https://www.dji.com/uk/products/components?site=brandsite&from=footer)
+* [Consumer](https://www.dji.com/products/consumer?site=brandsite&from=footer)
+* [Professional](https://www.dji.com/products/professional?site=brandsite&from=footer)
+* [Enterprise](https://www.dji.com/products/enterprise?site=brandsite&from=footer)
+* [Components](https://www.dji.com/products/components?site=brandsite&from=footer)
 
 Service Plans
 
-* [DJI Care Refresh](https://www.dji.com/uk/support/service/djicare-refresh?site=brandsite&from=footer)
-* [DJI Care Pro](https://www.dji.com/uk/service/djicare-pro?site=brandsite&from=footer)
+* [DJI Care Refresh](https://www.dji.com/support/service/djicare-refresh?site=brandsite&from=footer)
+* [DJI Care Pro](https://www.dji.com/service/djicare-pro?site=brandsite&from=footer)
 * [DJI Care Enterprise](https://enterprise.dji.com/djicare-enterprise?site=brandsite&from=footer)
 * [DJI Maintenance Program](https://enterprise.dji.com/enterprise-maintenance?site=brandsite&from=footer)
 
 Where to Buy
 
 * [DJI Online Store](https://store.dji.com/?site=brandsite&from=footer)
-* [Flagship Stores](https://www.dji.com/uk/where-to-buy/flagship?site=brandsite&from=footer)
+* [Flagship Stores](https://www.dji.com/where-to-buy/flagship?site=brandsite&from=footer)
 * [DJI-Operated Stores](https://www.dji.com/cn/where-to-buy/online-stores?site=brandsite&from=footer)
-* [Retail Stores](https://www.dji.com/uk/where-to-buy/retail-stores?site=brandsite&from=footer)
-* [Enterprise Retailers](https://www.dji.com/uk/where-to-buy/enterprise-dealers?site=brandsite&from=footer)
-* [Agricultural Drone Dealer](https://www.dji.com/uk/where-to-buy/agriculture-dealers?site=brandsite&from=footer)
-* [Delivery Drone Dealer](https://www.dji.com/uk/delivery-dealer?site=brandsite&from=footer)
-* [Pro Retailers](https://www.dji.com/uk/where-to-buy/professional-dealers?site=brandsite&from=footer)
+* [Retail Stores](https://www.dji.com/where-to-buy/retail-stores?site=brandsite&from=footer)
+* [Enterprise Retailers](https://www.dji.com/where-to-buy/enterprise-dealers?site=brandsite&from=footer)
+* [Agricultural Drone Dealer](https://www.dji.com/where-to-buy/agriculture-dealers?site=brandsite&from=footer)
+* [Delivery Drone Dealer](https://www.dji.com/delivery-dealer?site=brandsite&from=footer)
+* [Pro Retailers](https://www.dji.com/where-to-buy/professional-dealers?site=brandsite&from=footer)
 * [DJI Store App](https://store.dji.com/pages/app?site=brandsite&from=footer)
 
 Cooperation
 
 * [Become a Dealer](https://prm.dji.com/apply/step1?site=brandsite&from=footer)
-* [Apply For Authorized Store](https://www.dji.com/uk/ars/apply?site=brandsite&from=footer)
+* [Apply For Authorized Store](https://www.dji.com/ars/apply?site=brandsite&from=footer)
 
 Fly Safe
 
 * [Fly Safe](https://fly-safe.dji.com/home?site=brandsite&from=footer)
-* [DJI Flying Tips](https://www.dji.com/uk/flyingtips?site=brandsite&from=footer)
+* [DJI Flying Tips](https://www.dji.com/flyingtips?site=brandsite&from=footer)
 
 Support
 
-* [Product Support](https://www.dji.com/uk/support/product?site=brandsite&from=footer)
-* [Service Request and Inquiry](https://www.dji.com/uk/support/repair?site=brandsite&from=footer)
+* [Product Support](https://www.dji.com/support/product?site=brandsite&from=footer)
+* [Service Request and Inquiry](https://www.dji.com/support/repair?site=brandsite&from=footer)
 * [Help Center](https://support.dji.com/help/search?lang=en&re=US&site=brandsite&from=footer)
-* [After-Sales Service Policies](https://www.dji.com/uk/service/policy?site=brandsite&from=footer)
-* [Download Center](https://www.dji.com/uk/downloads?site=brandsite&from=footer)
+* [After-Sales Service Policies](https://www.dji.com/service/policy?site=brandsite&from=footer)
+* [Download Center](https://www.dji.com/downloads?site=brandsite&from=footer)
 * [Security and Privacy](https://security.dji.com/?lang=en_US&site=brandsite&from=footer)
 
 Explore
 
-* [Media Center](https://www.dji.com/uk/media-center?site=brandsite&from=footer)
+* [Media Center](https://www.dji.com/media-center?site=brandsite&from=footer)
 * [Buying Guides](https://store.dji.com/guides/?site=brandsite&from=footer)
-* [DJI Trust Center](https://www.dji.com/uk/trust-center?site=brandsite&from=footer)
+* [DJI Trust Center](https://www.dji.com/trust-center?site=brandsite&from=footer)
 
 Community
 
@@ -1017,14 +1011,13 @@ Get the latest news from DJI
 
 Subscribe to get exclusive offer, then login or register at [Store.dji.com](https://store.dji.com/?utm_source=official&utm_medium=subscribe&utm_campaign=subscribe_description) with your subscription email to check it.
 
-[](https://www.dji.com/uk)
+[](https://www.dji.com/)
 
-* [Who We Are](https://www.dji.com/uk/company?site=brandsite&from=footer)
-* [Contact Us](https://www.dji.com/uk/contact?site=brandsite&from=footer)
+* [Who We Are](https://www.dji.com/company?site=brandsite&from=footer)
+* [Contact Us](https://www.dji.com/contact?site=brandsite&from=footer)
 * [Careers](https://we.dji.com/index_en.html?site=brandsite&from=footer)
 * [Dealer Portal](https://prm.dji.com/?site=brandsite&from=footer)
 * [RoboMaster](https://www.robomaster.com/?site=brandsite&from=footer)
-* [DJI Automotive](https://auto.dji.com/?site=brandsite&from=footer)
 
 * [](https://www.facebook.com/DJI)
 * [](https://twitter.com/djiglobal)
@@ -1032,11 +1025,11 @@ Subscribe to get exclusive offer, then login or register at [Store.dji.com](http
 * [](https://vimeo.com/dji)
 * [](https://www.instagram.com/DJIglobal/)
 
-* [DJI Privacy Policy](https://www.dji.com/uk/policy?site=brandsite&from=footer)
-* [Use of Cookies](https://www.dji.com/uk/policy?site=brandsite&from=footer#12)
-* [Terms of Use](https://www.dji.com/uk/terms?site=brandsite&from=footer)
-* [Business Information](https://www.dji.com/uk/terms?site=brandsite&from=footer)
-* [Cookie Preferences](https://www.dji.com/uk)
+* [DJI Privacy Policy](https://www.dji.com/policy?site=brandsite&from=footer)
+* [Use of Cookies](https://www.dji.com/policy?site=brandsite&from=footer#12)
+* [Terms of Use](https://www.dji.com/terms?site=brandsite&from=footer)
+* [Business Information](https://www.dji.com/terms?site=brandsite&from=footer)
+* [Cookie Preferences](https://www.dji.com/)
 
 ### Select Your Country/Region
 
@@ -1064,12 +1057,12 @@ Other Countries and Regions
 
 * Other RegionsEnglish
 
-![](https://www1.djicdn.com/dps/dd414ceb936237ce4f434d1efcddfc1b.png)
+![](https://www-cdn.djiits.com/dps/dd414ceb936237ce4f434d1efcddfc1b.png)
 
-United Kingdom / English
+United States / English
 
 Copyright © 2024 DJI All Rights Reserved.
 
 [粤ICP备12022215号](http://www.beian.miit.gov.cn/?site=brandsite&from=footer)
 
-[Feedback on web experience](https://www.dji.com/uk/feedback?site=brandsite&from=footer)
+[Feedback on web experience](https://www.dji.com/feedback?site=brandsite&from=footer)
