@@ -66,17 +66,17 @@ Choose a category to learn more
 * [### Press Releases](https://megaphone.fm/learn#press-releases)
 * [### About](https://megaphone.fm/about)
 
-[### Podcast Streams: A new objective to help podcasters grow their audience](https://megaphone.fm/learn/podcast-streams-objective)[Podcaster resources](https://megaphone.fm/learn#podcaster-resources)
+[### What's new from Megaphone](https://megaphone.fm/learn/whats-new-from-megaphone)[Product news](https://megaphone.fm/learn#product-news)
 
-[### Earn more with the Spotify Audience Network—now in five new markets](https://megaphone.fm/learn/spotify-audience-network-expansion)[Product news](https://megaphone.fm/learn#product-news)
+[### Podcast Streams: A new objective to help podcasters grow their audience](https://megaphone.fm/learn/podcast-streams-objective)[Podcaster resources](https://megaphone.fm/learn#podcaster-resources)
 
 Real stories from real customers
 --------------------------------
 
-[Reach new audiences with embeddable player
+[Level-up your revenue with Megaphone
+------------------------------------](https://megaphone.fm/results/level-up-your-revenue-with-megaphone)[Reach new audiences with embeddable player
 ------------------------------------------](https://megaphone.fm/results/reach-new-audiences-with-embeddable-player)[Building a successful network on Megaphone
-------------------------------------------](https://megaphone.fm/results/linkedin)[Reduce error rate with bulk editing
------------------------------------](https://megaphone.fm/results/studio-71)
+------------------------------------------](https://megaphone.fm/results/linkedin)
 
 Terms and Policies
 ==================
@@ -293,57 +293,39 @@ Thank you for reading our Policy. If you have any questions about this Policy, p
 
 If you reside within the U.S., the Spotify data controller can be reached at: 
 
-Spotify USA Inc.
+Spotify USA Inc. 150 Greenwich St. New York, NY 10007 USA If you reside outside the U.S., the Spotify data controller can be reached at: 
 
-150 Greenwich St.
-
-New York, NY 10007
-
-USA
-
-If you reside outside the U.S., the Spotify data controller can be reached at: 
-
-Spotify AB
-
-Regeringsgatan 19
-
-111 53 Stockholm
-
-Sweden
+Spotify AB Regeringsgatan 19 111 53 Stockholm Sweden
 
 Community Guidelines
 --------------------
 
 We value our community who use the Megaphone Platform, as well as those who enjoy the content made available via the Megaphone Platform. We developed rules for use of the Megaphone Platform to help us foster and protect the community we have worked so hard to build and grow since 2015. 
 
-By using the Megaphone Platform, you agree to abide by the [Spotify Platform Rules](https://www.spotify.com/us/platform-rules/) (“**Platform Rules**”), in addition to the terms and conditions of your Agreement. Capitalized terms used but not defined herein shall have the meaning set forth in the Agreement.
+By using the Megaphone Platform, you agree to abide by the [Spotify Platform Rules](https://www.spotify.com/us/platform-rules/) (“**Platform Rules**”), in addition to the terms and conditions of your Agreement. In addition to the Platform Rules, content that you wish to monetize in the Spotify Audience Network will be reviewed against our [Monetization Policies](https://adshelp.spotify.com/HelpCenter/s/article/Monetization-Policies-US). Capitalized terms used but not defined herein shall have the meaning set forth in the Agreement.
 
-The Platform Rules contain important information about our expectations of you while using the Megaphone Platform and apply to all content made available through the Megaphone Platform, including but not limited to podcasts, show pages, artwork and episode descriptions. Please take the time to carefully read through the Platform Rules. 
+The Platform Rules contain important information about our expectations of you while using the Megaphone Platform and apply to all content made available through the Megaphone Platform, including but not limited to podcasts, show pages, artwork and episode descriptions. The Monetization Policies guide creators on the rules they must follow to monetize their content with the Spotify Audience Network and outline the types of content that may not be eligible for advertising support. Please take the time to carefully read through the Platform Rules and Monetization Policies. 
 
-**Violation of the Platform Rules may result in removal of any content you’ve made available to the Megaphone Platform or otherwise to Spotify in connection with your use of the Megaphone Platform, and/or termination or suspension of your Megaphone Platform account(s).**
+**We may take action for violation of the Platform Rules and/or Monetization Policies, which may include removal of your content and/or account, as well as the other actions outlined in the Platform Rules and Monetization Policies.**
 
 **Reporting content made available via the Megaphone Platform**
 ---------------------------------------------------------------
 
-Please follow the appropriate process below to notify Spotify of an alleged copyright infringement or other violation relating to content made available via the Megaphone Platform.
+Please follow the appropriate process below to notify Spotify of an alleged [intellectual property infringement](https://docs.google.com/document/d/1EIb1QoPmCpvo3hWISfD5Q1lGGi4asbwdMyuR8-aHSVM/edit#heading=h.12eewj7yc42f) or [other violation](https://docs.google.com/document/d/1EIb1QoPmCpvo3hWISfD5Q1lGGi4asbwdMyuR8-aHSVM/edit#heading=h.8gsnri96p2l2) relating to content made available via the Megaphone Platform.
 
 Please note, your statements may subject you to legal consequences. You may wish to consult an attorney before submitting a claim.
 
-### **Copyright Infringement**
+### **Intellectual Property Infringement**
 
-Spotify respects intellectual property rights and expects its users to do the same. If you are a copyright holder, or its agent, and you believe that any of the copyrighted material made available via the Megaphone Platform infringes your copyrighted work, please let us know.
+Spotify respects intellectual property rights and expects its users to do the same. If you believe that any content made available via the Megaphone Platform infringes your copyright, trademark or other intellectual property right, please let us know.
 
-If the Megaphone Platform content you want to report is available on Spotify, please use [this web form](https://support.spotify.com/us/report-content/) to submit a notice of claimed infringement. You may alternatively notify Spotify’s designated copyright agent via the information available in [the Spotify Copyright Policy](https://www.spotify.com/us/legal/copyright-policy/). 
+If the Megaphone Platform content you want to report is available on Spotify, please use [this web form](https://support.spotify.com/us/report-content/) to submit a notice of claimed infringement. You may alternatively notify Spotify’s designated copyright agent via the information available in [the Spotify Intellectual Property Policy](https://www.spotify.com/us/legal/copyright-policy/). 
 
 If the Megaphone Platform content you want to report is NOT available on Spotify, you may email us at [infringement-claim-megaphone@spotify.com](mailto:infringement-claim-megaphone@spotify.com). You may alternatively contact us at the following address:
 
-Spotify C/O Megaphone
+Spotify C/O Megaphone 150 Greenwich Street  New York, NY 10007
 
-150 Greenwich Street 
-
-New York, NY 10007
-
-Please include as much detail as possible to allow us to identify the facts or circumstances, including, where possible:
+Please include as much detail as possible to allow us to identify the facts or circumstances of the alleged copyright infringement, including, where possible:
 
 * A physical or electronic signature of the owner (or person authorized to act on behalf of the owner) of the copyright that is allegedly infringed;
 * Specific identification of each copyrighted work claimed to have been infringed;
