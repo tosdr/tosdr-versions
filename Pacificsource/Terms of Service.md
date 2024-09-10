@@ -643,6 +643,7 @@ In case of an emergency office closure at PacificSource, we will update our oper
 * [Member ID Card](https://intouch.pacificsource.com/Members/IdCard/Printable)
 * [InTouch Online Portal](https://intouch.pacificsource.com/common/)
 * [Health Library](https://www.healthwise.net/pacificsource)
+* [Policies and Guidelines](https://pacificsource.com/providers/clinical-policies-and-practice-guidelines)
 
 * Products
 * [Individual and Families](https://pacificsource.com/shop-plans/individuals-families)
