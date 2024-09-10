@@ -32,9 +32,9 @@ Bewerbung für ein Studium an deutschen Hochschulen
 
 [Kontakt](https://hochschulstart.de/unterstuetzung/bewerbersupport "Kontakt") [Wer hilft noch?](https://hochschulstart.de/unterstuetzung/wer-hilft-noch "Wer hilft noch?") [Downloads](https://hochschulstart.de/unterstuetzung/downloads "Downloads")
 
-[Statistik](https://hochschulstart.de/standard-titel "Statistik")
+[Statistik](https://hochschulstart.de/statistik "Statistik")
 
-[Aktuelle Veröffentlichungen](https://hochschulstart.de/startseite/statistik/statistik-2024-1 "Aktuelle Veröffentlichungen") [Semesterübersicht](https://hochschulstart.de/startseite/statistik/statistik-2024-2 "Semesterübersicht") [Historische Statistiken ZV](https://hochschulstart.de/startseite/statistik/statistik-2024-3 "Historische Statistiken ZV")
+[Aktuelle Veröffentlichungen](https://hochschulstart.de/statistik/aktuelle-veroeffentlichungen "Aktuelle Veröffentlichungen") [Semesterübersicht](https://hochschulstart.de/statistik/semesteruebersicht "Semesterübersicht") [Historische Statistiken ZV](https://hochschulstart.de/statistik/historische-statistiken-zv "Historische Statistiken ZV")
 
 [Zum Bewerbungsportal](https://dosv.hochschulstart.de/bewerber "Zum Bewerbungsportal")
 
