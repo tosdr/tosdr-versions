@@ -122,7 +122,7 @@ The information collected via cookies and other web technologies helps us under�
 * direct you to the most relevant localized web page (based on geographic IP address).
     
 
-By default, we do not use cookies to identify the individuals who visit our websites. However, if you have voluntarily submitted your contact information to F‑Secure — when purchasing a product, downloading a product trial, completing a survey or entering a contest, for example — we may, with your consent, tie your website usage to your individual record through the use of cookies. If you are a visitor interested in our corporate-oriented communication, this will also include your previous browsing on F‑Secure websites. If you already have a business relationship with F‑Secure, this will be combined with the pre-existing information we have about you stored in our Customer Relations Management platform. [Read more](https://www.f-secure.com/en/legal/privacy/corporate).
+By default, we do not use cookies to identify the individuals who visit our websites. However, if you have voluntarily submitted your contact information to F‑Secure — when purchasing a product, downloading a product trial, completing a survey or entering a contest, for example — we may, with your consent, tie your website usage to your individual record through the use of cookies.
 
 We generate statistics and aggregate reports for internal use, as well as for sharing with F‑Secure group companies, partners, and subcontractors. Our third-party web analytic providers may also create and publish aggregate reports of the data collected. The statistics and aggregate reports do not contain any data that could be linked to an individual website visitor.
 
