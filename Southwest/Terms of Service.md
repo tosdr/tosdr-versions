@@ -20,14 +20,18 @@
     
     [Book a Vacation](https://www.southwestvacations.com/?utm_source=southwest&utm_medium=psite-mobile&utm_campaign=southwest_psite-mobile&utm_content=D!menubook) [Manage Vacations](https://res.southwestvacations.com/Account/RetrieveLogin.aspx?utm_source=southwest&utm_medium=psite-mobile&utm_campaign=southwest_psite-mobile&utm_content=D!menumanage)
     
-* [Buy Points](https://www.southwest.com/flight/login?returnUrl=%2Faccount%2Frapidrewards%2Fpoints%2Fbuy-points&clk=GNAVBUYPTS&ref=RESPONSIVE)
+* [Cruises](#)
+    
+    [Book a Cruise](https://southwestcruises.com/?utm_medium=partner_site&utm_source=swa_mweb_nav&utm_campaign=20240909&utm_content=cruises_book) [Manage My Cruise](https://southwestcruises.com/customer-self-service/?utm_medium=partner_site&utm_source=swa_mweb_nav&utm_campaign=20240909&utm_content=cruises_manage) [Cruise Offers](https://southwestcruises.com/promotion/last-minute-cruises.do?utm_medium=partner_site&utm_source=swa_mweb_nav&utm_campaign=20240909&utm_content=cruises_offers)
+    
+* [Buy Points](https://www.southwest.com/flight/login?returnUrl=%2Faccount%2Frapidrewards%2Fpoints%2Fbuy-points%3Fclk=GNAVBUYPTS%26ref=RESPONSIVE)
 * [Earn Points](#)
     
     [How to Earn](https://www.southwest.com/rapid-rewards/points/how-to-earn/?clk=GNAV-RR-EARN&ref=RESPONSIVE)[Estimate your Points](https://www.southwest.com/rapid-rewards/points/how-to-earn/?clk=GNAV-RR-ESTIMATE#estimator)[Earn on Car Rentals](https://www.southwest.com/html/rapidrewards/partners/travel/rental-car/index.html?clk=GNAV-EARN-CAR-RENTALS&ref=RESPONSIVE)[Earn on Hotels](https://www.southwest.com/html/rapidrewards/partners/travel/hotel/index.html?clk=GNAV-EARN-HOTELS&ref=RESPONSIVE)[Rapid Rewards Shopping®](https://rapidrewardsshopping.southwest.com/?source=cl|SWA||cl||link||MobApp|ACQ|20191201&utm_source=cl&utm_medium=link&utm_campaign=MobApp&utm_content=ACQ&chan=cl&seg=&med=link&strm=&cam=MobApp&cont=ACQ&end=1&clk=GNAV-EARN-RR-SHOPPING&ref=RESPONSIVE) [Rapid Rewards Dining®](https://www.rapidrewardsdining.com/earn/new-member-bonus?utm_source=SW&utm_medium=Mobile&utm_campaign=RR_AppPlacement_2022&clk=GNAV-EARN-RR-DINING&ref=RESPONSIVE) [Rapid Rewards® Credit Card](https://www.southwest.com/html/rapidrewards/partners/credit-cards/southwest-airlines-rapid-rewards-cards/index.html?clk=GNAV-RR-VISA&ref=RESPONSIVE)
     
 * [Redeem Points](#)
     
-    [How to Redeem](https://www.southwest.com/rapid-rewards/points/how-to-redeem/?clk=GNAV-HOW-TO-REDEEM&ref=RESPONSIVE)[Redeem for Flights](https://mobile.southwest.com/air/booking/?tripType=RT&clk=GNAV-REDEEM-FLIGHTS&currencyType=PTS&ref=RESPONSIVE)[Redeem for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=mobile.southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-hotel&utm_content=redeem-for-hotels) [Redeem for Car Rentals](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-CAR-RENTALS&ref=RESPONSIVE&Path=punchout%2F_%2FA-25714%3Fcid%3Dswa_car_rental_25714&)[Gift Cards & Merchandise](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-GIFTCARD&ref=RESPONSIVE)[Cardmember Events](https://www.southwest.com/rapidrewards/maritz-validate?Path=RapidRewards%3Fp%3DAuctions%26cid%3DSWArewardspotlight_may2022_events&clk=GNAV-REDEEM-CM-EVENTS&ref=RESPONSIVE)
+    [How to Redeem](https://www.southwest.com/rapid-rewards/points/how-to-redeem/?clk=GNAV-HOW-TO-REDEEM&ref=RESPONSIVE)[Redeem for Flights](https://mobile.southwest.com/air/booking/?tripType=RT&clk=GNAV-REDEEM-FLIGHTS&currencyType=PTS&ref=RESPONSIVE)[Redeem for Hotels](https://hotels.redeemrapidrewards.com/?utm_source=mobile.southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-hotel&utm_content=redeem-for-hotels) [Redeem for Car Rentals](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-CAR-RENTALS&ref=RESPONSIVE&Path=punchout%2F_%2FA-25714%3Fcid%3Dswa_car_rental_25714&)[Gift Cards & Merchandise](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-GIFTCARD&ref=RESPONSIVE)[Cardmember Events](https://www.southwest.com/rapidrewards/maritz-validate?Path=RapidRewards%3Fp%3DAuctions%26cid%3DSWArewardspotlight_may2022_events&clk=GNAV-REDEEM-CM-EVENTS&ref=RESPONSIVE)
     
 
 * [Special Offers](https://www.southwest.com/special-offers/?clk=GNAVSPOFFERS&ref=RESPONSIVE)
@@ -56,7 +60,7 @@
 * [Corporate Citizenship at Southwest](https://www.southwest.com/citizenship/)
 * [The Southwest Community](https://www.southwestaircommunity.com/)
 * [Southwest Cargo](https://www.swacargo.com/)
-* [Careers](http://careers.southwestair.com/?clk=GNAVCAREERS)
+* [Careers](https://careers.southwestair.com/?clk=GNAVCAREERS)
 
 * © 2024 Southwest Airlines Co.  
     All Rights Reserved.
@@ -66,7 +70,7 @@
 
 Español
 
-Flight | Hotel | Car | VacationsSpecial OffersRapid rewards®
+Flight | Hotel | Car | Vacations | CruisesSpecial OffersRapid rewards®
 
 ×
 
@@ -115,6 +119,13 @@ Flight | Hotel | Car | VacationsSpecial OffersRapid rewards®
 * [Vacation Package Offers](https://www.southwestvacations.com/deals/vacation-special-offers/?clk=GSUBNAV-OFFERS-VACA)
 * [Vacation Destinations](https://www.southwestvacations.com/destinations?utm_source=southwest&utm_medium=psite-vacation-tab&utm_campaign=southwest_psite-vacation-tab&utm_content=D!gnavdestinations)
 * [Why Book With Us?](https://www.southwestvacations.com/benefits-of-booking-southwest-vacations?utm_source=southwest&utm_medium=psite-vacation-tab&utm_campaign=southwest_psite-vacation-tab&utm_content=D!gnavwhybook)
+
+[Cruises](https://southwestcruises.com/?utm_medium=partner_site&utm_source=swa_desktop_nav&utm_campaign=20240909&utm_content=cruises_header)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+* [Book a Cruise](https://southwestcruises.com/?utm_medium=partner_site&utm_source=swa_desktop_nav&utm_campaign=20240909&utm_content=cruises_book)
+* [Manage My Cruise](https://southwestcruises.com/customer-self-service/?utm_medium=partner_site&utm_source=swa_desktop_nav&utm_campaign=20240909&utm_content=cruises_manage)
+* [Cruise Offers](https://southwestcruises.com/promotion/last-minute-cruises.do?utm_medium=partner_site&utm_source=swa_desktop_nav&utm_campaign=20240909&utm_content=cruises_offers)
 
 * [CHECK IN](https://www.southwest.com/air/check-in/?clk=GSUBNAV-CHCKIN)
 * [FLIGHT STATUS](https://www.southwest.com/air/flight-status/?clk=GSUBNAV-FLTSTATUS)
@@ -169,6 +180,9 @@ on hotel stays.](https://www.southwesthotels.com/?label=SWA-GSUBNAV-OFFERS-HOTEL
 * [Buy or Transfer Points](https://www.southwest.com/rapid-rewards/points/buy-gift-transfer/?clk=GSUBNAV-RR-BUYPOINTS)
 * [Donate Points](https://www.southwest.com/html/rapidrewards/promotions/donate-points-charity.html?clk=GSUBNAV-RR-DONATEPOINTS)
 * [Email Subscriptions](https://www.southwest.com/myaccount/preferences/communication/subscriptions/edit?clk=GSUBNAV-RR-EMAILSUBS)
+
+[Wanna rake in a trip this fall?Earn 50,000  
+points.Learn more](https://creditcards.chase.com/a1/southwest/AEP50kPlus624?REF=FULLSITE&clk=CB190860&CELL=6PLT&cbid=CB190860)
 
 ×
 
