@@ -32,16 +32,13 @@
         Check out our latest features and fixes.](https://codesandbox.io/changelog)
 * [Docs](https://codesandbox.io/docs)
 * [Support](https://codesandbox.io/support)
-* [Enterprise](https://codesandbox.io/enterprise)
 * [Pricing](https://codesandbox.io/pricing)
 
 New
 
-### Introducing the CodeSandbox Storybook add-on
+### Introducing a new and improved editor powered by VS Code Web
 
-Bring every story to life.
-
-[Learn more](https://codesandbox.io/blog/announcing-the-codesandbox-storybook-add-on?utm_source=stripe)
+[Learn more](https://codesandbox.io/blog/a-new-and-improved-editor-powered-by-vs-code-web)
 
 Legal
 
