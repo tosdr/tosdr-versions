@@ -121,7 +121,7 @@ Personal Data is collected for the following purposes and using the following se
     
     Place of processing: Slovenia – [Privacy Policy](https://bunny.net/privacy/).
     
-    Data retention period: Keeping the data for the time necessary to fulfill the purpose.
+    Data retention period: Keeping the Data for the time necessary to fulfill the purpose.
     
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
     
@@ -375,7 +375,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Usage data, Trackers
+    **Personal Information collected or disclosed:** Usage Data, Trackers
     
     **Purposes:**
     
@@ -391,7 +391,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service
+    **Personal Information collected or disclosed:** various types of Data as specified in the privacy policy of the service
     
     **Purposes:**
     
