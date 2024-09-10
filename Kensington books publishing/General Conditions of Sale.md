@@ -20,6 +20,7 @@
     * [Column 1](#)
         * [Browse Genres](#)
             * [Cozies](https://www.kensingtonbooks.com/kensingtoncozies)
+            * [Erewhon](https://www.kensingtonbooks.com/erewhonbooks/)
             * [Fantasy](https://www.kensingtonbooks.com/search-results/?keyword=Fantasy)
             * [Fiction](https://www.kensingtonbooks.com/search-results/?keyword=Fiction)
             * [Mystery & Thriller](https://www.kensingtonbooks.com/search-results/?keyword=Mystery+%26+Thriller)
