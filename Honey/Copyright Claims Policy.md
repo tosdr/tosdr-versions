@@ -5,7 +5,7 @@
 * Shop
     
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Honey Gold](https://www.joinhoney.com/features/honeygold)
+* [Rewards](https://www.joinhoney.com/features/paypalrewards)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
@@ -62,7 +62,7 @@ If a counter-notice is received by the Designated Agent, Honey may, in its discr
 
 Please contact Honey’s Designated Agent at the following contact information:  
   
-Honey Science LLC, ATTN Copyright Agent, 963 E. 4th Street Los Angeles, CA 90013 or by email to [info@joinhoney.com](mailto:info@joinhoney.com).
+PayPal Honey, ATTN Copyright Agent, 963 E. 4th Street Los Angeles, CA 90013 or by email to [info@joinhoney.com](mailto:info@joinhoney.com).
 
 ### Company
 
@@ -70,11 +70,11 @@ Honey Science LLC, ATTN Copyright Agent, 963 E. 4th Street Los Angeles, CA 90013
 
 ### Product
 
-[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Honey Gold](https://www.joinhoney.com/features/honeygold)[For Affiliates](https://www.joinhoney.com/business)
+[Droplist](https://www.joinhoney.com/features/droplist)[Amazon Badge](https://www.joinhoney.com/features/amazon)[Rewards](https://www.joinhoney.com/features/paypalrewards)[For Affiliates](https://www.joinhoney.com/business)
 
 ### Legal
 
-[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
+[Privacy](https://www.joinhoney.com/privacy)[Copyright](https://www.joinhoney.com/copyright)[Patents](https://www.joinhoney.com/patents)[Terms](https://www.joinhoney.com/terms)[Ad Disclosure](https://help.joinhoney.com/article/30-how-does-honey-make-money)[E-Communication](https://www.joinhoney.com/ecomms-policy)[Accessibility](https://www.joinhoney.com/accessibility)Cookies
 
 ### Follow Us
 
@@ -88,10 +88,10 @@ Honey Science LLC, ATTN Copyright Agent, 963 E. 4th Street Los Angeles, CA 90013
 Google Play and the Google Play logo are trademarks of Google Inc.  
 Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
 
-© 2024 Honey Science LLC
+© 2024 PayPal, Inc.
 
 Honey is now part of the PayPal family. Learn more  [here](https://help.joinhoney.com/article/302-what-does-honey-joining-paypal-mean-for-members).
 
-France
+United States
 
 English
