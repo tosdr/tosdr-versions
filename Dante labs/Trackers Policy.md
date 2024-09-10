@@ -1,7 +1,5 @@
           [Skip to content](#main-content)
 
-[Exclusive Bundle: Dante Premium + All Panels + 3 Years of Updates at 40% off!](https://us.dantelabs.com/products/whole-genome-sequencing?variant=41488807100482)
-
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
@@ -15,9 +13,6 @@
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
 
-[Login](https://us.dantelabs.com/account/login "Login
-")
-
 [![Dante Labs US](//us.dantelabs.com/cdn/shop/files/Logo_dante_labs_c7a6d175-6078-4401-ab4f-998dd2d6f3b2.png?v=1717574823)![Dante Labs US](//us.dantelabs.com/cdn/shop/files/Logo_dante_labs_c7a6d175-6078-4401-ab4f-998dd2d6f3b2.png?v=1717574823)](https://us.dantelabs.com/)
 
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing)
@@ -25,7 +20,7 @@
 * [About us](https://us.dantelabs.com/pages/about-us)
 * [Register your Kit](https://genome.dantelabs.com/login)
 
-[](https://us.dantelabs.com/search "Search")[](https://us.dantelabs.com/account/login "My Account")[0](https://us.dantelabs.com/cart)
+[](https://us.dantelabs.com/search "Search")[0](https://us.dantelabs.com/cart)
 
 Cookie Policy
 =============
@@ -131,7 +126,7 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/all-panels-package "All Panels Package")
     
-    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~£394.00~ £157.00 /
+    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~$499.00~ $199.00 /
     
 * [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351_20x_crop_center.jpg?v=1714589736)
     
@@ -139,7 +134,7 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report")
     
-    [Cardiovascular Report](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report") £23.00 /
+    [Cardiovascular Report](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report") $29.00 /
     
 * [![Circadian Report](//us.dantelabs.com/cdn/shop/files/circadian-report-549583_20x_crop_center.jpg?v=1714589968)
     
@@ -147,4 +142,4 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/circadian-panel "Circadian Report")
     
-    [Circadian Report](https://us.dantelabs.com/products/circadian-panel "Circadian Report") £23.00 /
+    [Circadian Report](https://us.dantelabs.com/products/circadian-panel "Circadian Report") $29.00 /
