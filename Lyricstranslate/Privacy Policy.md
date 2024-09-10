@@ -2,12 +2,12 @@
 
 Search
 
-[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
+[Request a translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 
-[![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
+[![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?destination=privacy-policy)
 
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=privacy-policy)
+* [Log in](https://lyricstranslate.com/en/user/login?destination=privacy-policy)
+* [Sign up](https://lyricstranslate.com/en/user/register?destination=privacy-policy)
 * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 * [Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)
 * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
@@ -25,6 +25,7 @@ Search
     * [Idioms](https://lyricstranslate.com/en/phrases)
     * [Collections](https://lyricstranslate.com/en/collections)
     
+* [Artists](https://lyricstranslate.com/en/artists)
 * [Translations](https://lyricstranslate.com/en/translations)
 * [Languages](https://lyricstranslate.com/en/languages.html)
 * [Actions](https://lyricstranslate.com/en/add-post)
@@ -52,8 +53,8 @@ Search
     * [Useful Resources](https://lyricstranslate.com/en/resources)
     * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
     
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=privacy-policy)
+* [Log in](https://lyricstranslate.com/en/user/login?destination=privacy-policy)
+* [Sign up](https://lyricstranslate.com/en/user/register?destination=privacy-policy)
 
 Privacy Policy
 ==============
@@ -106,83 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![RadixIce](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1179431-1682108942.jpg)](https://lyricstranslate.com/en/translator/radixice "RadixIce")
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
 
-New translation
+New request
 
-[Armen Darbinyan - Ով Սիրուն Սիրուն (Ov Sirun Sirun)](https://lyricstranslate.com/en/armen-darbinyan-ov-sirown-sirown-ov-siru-english)
-
-Armenian → English
-
-[![Darkness Dragon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1385415-1528677044.png)](https://lyricstranslate.com/en/translator/darkness-dragon "Darkness Dragon")
-
-New transcription request
-
-[Pokémon (ost) - Pokémon Theme (Latvian)](https://lyricstranslate.com/en/pok%C3%A9mon-ost-pok%C3%A9mon-theme-latvian)
-
-Latvian
-
-[![Feàrnach](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585254-1689533125.jpg)](https://lyricstranslate.com/en/translator/fe%C3%A0rnach "Feàrnach")
-
-New translation
-
-[DIR EN GREY - カムイ (Kamui)](https://lyricstranslate.com/en/dir-en-grey-kamui-english)
+[Yoshimi Iwasaki - 揺れて純愛 (Yurete Jun'ai)](https://lyricstranslate.com/en/request/%E6%8F%BA%E3%82%8C%E3%81%A6%E7%B4%94%E6%84%9B)
 
 Japanese → English
 
-[![lele.azevedo](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leleazevedo "lele.azevedo")
+[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
 
-New transcription request
+New translation
 
-[Amadou & Mariam - Fari Mandila](https://lyricstranslate.com/en/amadou-mariam-fari-mandila)
+[Ajar - pire que la mort](https://lyricstranslate.com/en/ajar-pire-que-la-mort-english)
 
-Bambara
+French → English
 
 [![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Gino D'Eliso - Kajmac Calan](https://lyricstranslate.com/en/gino-deliso-kajmac-calan-english)
-
-Italian → English
-
-[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1722360529.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
-
-New translation
-
-[Chisato Moritaka - 見たとおりよ私 (Mita tōri yo watashi)](https://lyricstranslate.com/en/chisato-moritaka-mita-tori-yo-watashi-english)
-
-Japanese → English
-
-[![citlālicue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109697-1717958665.png)](https://lyricstranslate.com/en/translator/citl%C4%81licue "citlālicue")
-
-New comment
-
-It's a literal copy of the translation in the ...  [more](https://lyricstranslate.com/en/comment/1157549#comment-1157549)
-
-[![TCG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1561228-1688645178.jpg)](https://lyricstranslate.com/en/translator/tcg "TCG")
-
-New translation
-
-[Göksel İpekçi - Aylardan Mayıs](https://lyricstranslate.com/en/goksel-ipekci-aylardan-mayis-english)
-
-Turkish → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Gino D'Eliso - Bellezza normanna](https://lyricstranslate.com/en/gino-deliso-bellezza-normanna-english)
-
-Italian → English
-
-[![Zark21](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/zark21 "Zark21")
 
 New song
 
-[Luis Mariano - Comme facette mammeta](https://lyricstranslate.com/en/luis-mariano-comme-facette-mammeta-lyrics)
+[Renzo Arbore - Luna rossa](https://lyricstranslate.com/en/renzo-arbore-luna-rossa-lyrics)
 
 Neapolitan
+
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+
+New request
+
+[Yūki Kudō - JUN](https://lyricstranslate.com/en/request/jun)
+
+Japanese → English
+
+[![broken machine](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521536-1714957153.jpg)](https://lyricstranslate.com/en/translator/broken-machine "broken machine")
+
+New translation
+
+[Memento • Mori - 菊ノ傘ト籠女唄 (kiku no kasa to kagomeuta)](https://lyricstranslate.com/en/memento-mori-kiku-no-kasa-kagomeuta-russian)
+
+Japanese → Russian
+
+[![broken machine](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521536-1714957153.jpg)](https://lyricstranslate.com/en/translator/broken-machine "broken machine")
+
+New translation
+
+[Memento • Mori - 菊ノ傘ト籠女唄 (kiku no kasa to kagomeuta)](https://lyricstranslate.com/en/memento-mori-kiku-no-kasa-kagomeuta-transliteration)
+
+Japanese → Transliteration
+
+[![Barbarossa Davide](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/barbarossa-davide "Barbarossa Davide")
+
+New translation
+
+[South Korean Military & Patriotic Songs - 멸공의 횃불 (Myeolgongui Hwaetbul)](https://lyricstranslate.com/en/south-korean-militar-myeolgongui-hwaetbul-english)
+
+Korean → English
+
+[![Barbarossa Davide](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/barbarossa-davide "Barbarossa Davide")
+
+New translation
+
+[South Korean Military & Patriotic Songs - 멸공의 횃불 (Myeolgongui Hwaetbul)](https://lyricstranslate.com/en/south-korean-militar-myeolgongui-hwaetbul-chinese)
+
+Korean → Chinese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
