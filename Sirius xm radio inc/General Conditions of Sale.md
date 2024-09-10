@@ -89,6 +89,7 @@ Page content follows
     * [Onyx Plus](https://shop.siriusxm.com/support/siriusxm-onyx-plus.html)
     * [Stratus 7](https://shop.siriusxm.com/support/stratus-7.html)
     * [See All Radios](https://shop.siriusxm.com/accessories-and-parts/shop-by-radio/)
+    * [Roady BT](https://shop.siriusxm.com/Accessories-And-Parts/Shop-By-Radio/Roady-BT/)
     
     ###### Shop by Accessory
     
@@ -153,6 +154,7 @@ Page content follows
         * [Onyx Plus](https://shop.siriusxm.com/support/siriusxm-onyx-plus.html)
         * [Stratus 7](https://shop.siriusxm.com/support/stratus-7.html)
         * [See All Radios](https://shop.siriusxm.com/accessories-and-parts/shop-by-radio/)
+        * [Roady BT](https://shop.siriusxm.com/Accessories-And-Parts/Shop-By-Radio/Roady-BT/)
         
         #### Shop by Accessory
         
@@ -357,6 +359,6 @@ If you have an issue with your product(s) past the standard return period, [clic
 
 More questions? Visit [siriusxm.com/return-policy-faq.html](https://shop.siriusxm.com/return-policy-faq.html)
 
-[Shop Terms of Use](https://shop.siriusxm.com/terms.html) [Return Policy](https://shop.siriusxm.com/return-policy.html) [Shipping Policy](https://shop.siriusxm.com/_1702425479856.html) [Contact Us](https://shop.siriusxm.com/contact-us.html)
+[Shop Terms of Use](https://shop.siriusxm.com/terms.html) [Return Policy](https://shop.siriusxm.com/return-policy.html) [Shipping Policy](https://shop.siriusxm.com/_1702425479856.html) [Product Warranty](https://sxm.ips.photos/sxm-java/images/warranty_file.pdf) [Contact Us](https://shop.siriusxm.com/contact-us.html)
 
 [Customer Agreement](https://www.siriusxm.com/customeragreement) [Privacy Policy](https://www.siriusxm.com/privacy-policy?intcmp=GN_FOOTER_NEW_PrivacyPolicy) [Your Ad Choices](https://www.siriusxm.com/youradchoices) [Do Not Call Policy](https://www.siriusxm.com/do-not-call?intcmp=GN_FOOTER_DoNotCallPolicy) [Your Privacy Choices ![](https://uatwww.siriusxm.com/content/dam/sxm-com/icons/ccpa-opt-out-icon/privacyoptions.svg)](http://www.siriusxm.com/yourprivacychoices?intcmp=GN_FOOTER_NEW_DoNotSellInfo)  [FCC Public File](https://publicfiles.fcc.gov/sdars-profile/sirius/) [FCC Info](https://www.siriusxm.com/fccinfo) [Manage Cookies](#)
