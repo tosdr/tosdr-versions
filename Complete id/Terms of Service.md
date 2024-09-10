@@ -25,6 +25,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
+    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
     
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
@@ -41,6 +42,7 @@
     * [Credit Monitoring](https://www.completeid.com/how-complete-id-works/credit-monitoring/)
     * [Identity Restoration](https://www.completeid.com/how-complete-id-works/identity-restoration/)
     * [Digital Privacy](https://www.completeid.com/how-complete-id-works/digital-privacy/)
+    * [Digital Identity Manager](https://www.completeid.com/how-complete-id-works/digital-identity-manager/)
 * [Features](https://www.completeid.com/features/)
 * [About Us](https://www.completeid.com/about-us/)
     * [Frequently Asked Questions](https://www.completeid.com/frequently-asked-questions/)
@@ -49,7 +51,7 @@
 CSID® Terms and Conditions
 ==========================
 
-_Effective Date: July 1, 2023_
+_Effective Date: August 9, 2024_
 
 THESE ARE THE TERMS OF OUR AGREEMENT WITH EACH OTHER. ALL OF IT IS IMPORTANT SO TAKE A FEW MINUTES TO READ IT CAREFULLY. BY ENROLLING AND USING CSID’S SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THESE TERMS AND CONDITIONS.
 
@@ -206,7 +208,14 @@ By requesting an Experian CreditLock to be placed on your behalf, you are reques
 
 Your Experian CreditLock will restrict delivery of your Experian credit report only, and does not apply to your TransUnion or Equifax credit report. To lock or place a security freeze on your Equifax or TransUnion credit report, you will need to contact those bureaus directly. While Experian CreditLock may include some functionality similar to security freeze programs required under certain laws, you acknowledge that Experian CreditLock is a separate service from, and not equivalent to, such security freeze programs. For more information about the Experian security freeze program please contact CSID at (855)591-0202.
 
-14\. CSID PASSWORD MANAGER, CSID SAFE BROWSER, and CSID SECURE VPN
+14\. DIGITAL IDENTITY MANAGER™ (aka Data Broker Removal)
+--------------------------------------------------------
+
+(Applicable only if Digital Identity Manager is available in your Service)
+
+You authorize CSID to send your personal information from your account profile on a one-time, periodic or recurring basis to its service provider(s) in order for them to store and use your information to perform searches or scans for your information on the covered people finder sites listed within the service (“Personal Privacy Scans”), to return results of such scans for your review, and to request removal of your information on your behalf when records are found (“Automated Opt-Out Requests”) (if and to the extent available within your subscription and activated by you). Personal Privacy Scans (beyond an initial free scan that may be initiated by CSID pursuant to this consent), recurring scans, and the Automated Opt-Out Requests may only be available with certain paid subscriptions or services. You acknowledge that Personal Privacy Scans involve the inputting, searching, and/or communication of your information to the third party people finder sites in order to determine if your information is stored on or by the covered sites, and you agree to such use of your personal information. The list of covered people finder sites is subject to change without notice. CSID may select which people finder sites to scan from the full list of available sites and may vary such selection on a scan-by-scan basis at its (or its service provider’s) sole discretion. By activating the Automated Opt-Out Requests, you explicitly authorize CSID and its service provider(s) to attempt on your behalf, as your authorized agent, to effectuate data subject access requests and to have your information removed from the covered sites where your information is found. While some removal requests will be automated on your behalf, you acknowledge that such removal requests are not automatically granted, are not guaranteed to be successfully communicated, and may not be honored by all covered sites under all circumstances and for reasons outside of our or our service providers’ control. The status of any removal attempts will be displayed in your account dashboard. You may need to manually request removal of your information from particular covered sites if/when a removal request is not successful or is not honored. Attempts to remove your information may be subject to the terms and practices of each covered site, are at the discretion of the covered sites, and may not result in the complete deletion of your information from all of a covered site’s systems and databases. Paid Digital Identity Manager features or services can be cancelled by changing to a subscription that does not include the features or services or by cancelling any standalone Digital Identity Manager offerings. Please understand that by cancelling such paid features or services, your recurring scans and Automated Opt-Out Requests will be terminated (although pending requests may be attempted for a limited time post-cancellation). By cancelling, you may still be eligible for and provided with a free scan occasionally, at the sole discretion of CSID.
+
+15\. CSID PASSWORD MANAGER, CSID SAFE BROWSER, and CSID SECURE VPN
 ------------------------------------------------------------------
 
 (Applicable only if CSID Password Manager, CSID Safe Browser, and/or CSID Secure VPN, is available in your Service)
@@ -233,15 +242,14 @@ Your Experian CreditLock will restrict delivery of your Experian credit report o
     15. Using another party’s email server to relay email without express permission from such other party.
     16. Using the VPN product to collect replies to messages sent from another provider that violate these rules or those of the other provider.
     17. Using the VPN product services in connection with or in support of the running of a mail server without a license to run such a server in any jurisdiction where such license is required.
+    18. Using the VPN product in any way that violates applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the United States or other countries).
 
-Using the VPN product in any way that violates applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the United States or other countries).
-
-15\. YOUR PASSWORDS AND ACCOUNT SECURITY
+16\. YOUR PASSWORDS AND ACCOUNT SECURITY
 ----------------------------------------
 
 You agree and understand that you are responsible for maintaining the confidentiality of passwords associated with any account you use to access the Services. Accordingly, you agree that you will be solely responsible to us for all activities that occur under your account. If you become aware of any unauthorized use of your password or of your account, you agree to notify us immediately.
 
-16\. TERMINATION OF RELATIONSHIP
+17\. TERMINATION OF RELATIONSHIP
 --------------------------------
 
 1. These Terms of Use will continue to apply until terminated by either you or us as set out below.
@@ -252,7 +260,7 @@ You agree and understand that you are responsible for maintaining the confidenti
     3. the provision of the Services to you by us is, in our opinion, no longer commercially viable.
 4. If we terminate your Service without cause, CSID will refund to you a pro rata portion of any fees already paid directly to CSID for the Services that have yet to be provided. If this Agreement has not been terminated, it shall continue indefinitely, and you shall pay the corresponding fees for the Services. When this Agreement terminates, all of the legal rights, obligations and liabilities that you and we have benefited from, been subject to (or which have accrued over time while the Agreement has been in force) or which are expressed to continue indefinitely, shall be unaffected by this termination and/or cessation, and the provisions of Sections 4, 5, 6 and 10-16, inclusive, shall continue to apply to such rights, obligations and liabilities indefinitely.
 
-17\. MISCELLANEOUS
+18\. MISCELLANEOUS
 ------------------
 
 1. No waiver of any breach of any provision of these Terms of Use or of any agreement with us will constitute a waiver of any prior, concurrent, or subsequent breach of the same or other provisions. All waivers must be in writing. If any court of competent jurisdiction finds any part or provision of these Terms of Use or of any other agreement between you and us to be invalid or unenforceable, such findings will have no effect on any other part or provision of these Terms of Use or any other agreement between you and us. All waivers must be in writing.
@@ -260,9 +268,9 @@ You agree and understand that you are responsible for maintaining the confidenti
 3. The Terms of Use constitute the whole legal agreement between you and us and govern your use of the Services (but excluding any services which we may provide to you under a separate written agreement), and completely replace any prior agreements between you and us in relation to the Services.
 4. Except as otherwise provided, we may send any notices to you to the most recent e-mail address you have provided to us or, if you have not provided an e-mail address, to any e-mail or postal address that we believe is your address. If you wish to update your registration information, please log in to your account and update your information.
 
-_Effective Date: July 1, 2023_
+_Effective Date: August 9, 2024_
 
-_Copyright 2021 CSIdentity® Corporation d/b/a Complete ID All rights reserved_
+_Copyright 2024 CSIdentity® Corporation d/b/a Complete ID All rights reserved_
 
 [](#)
 
