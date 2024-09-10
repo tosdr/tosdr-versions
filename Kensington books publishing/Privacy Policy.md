@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Books To Read if You Love <i>Gilmore Girls</i>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/22142347/PRH_Site_1200x628_Gilmore.jpg)
     
-    Books Bans Are on the Rise in America
+    Books To Read if You Love _Gilmore Girls_
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 * * *
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/08/19184809/PRH_Site_1200x628_SEPT2024.jpg)
     
-    How To Read More in 2024
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
 
 * * *
 
-* [![Your Summer Reading Guide](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/16153839/PRH_Summer-Site_Social-Share-1200x628-watermelon.jpg)
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
-    Your Summer Reading Guide
+    Join Our Authors for Upcoming Events
     
-    Read More >](https://www.penguinrandomhouse.com/summer-reading/)
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-september/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[Swoon-Worthy YA Romantasy Books To Obsess Over
+[The Most Exciting Picture Books Coming Fall 2024
 
-Learn More >](https://www.readbrightly.com/ya-fantasy-romance-books/)
+Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
 
 Popular
 
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[Your Summer Reading Guide
+[Books To Read if You Love _Gilmore Girls_
 
-Read More >](https://www.penguinrandomhouse.com/summer-reading/)
+Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-gilmore-girls/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
@@ -840,7 +840,7 @@ Stay in touch
 * [CA Privacy Policy](https://www.penguinrandomhouse.com/privacy/#additional-information-regarding-california)
 * [Do Not Sell My Personal Info](https://www.penguinrandomhouse.com/privacy/right-to-opt-out-of-sale-form/)
 * [Affiliate Program Disclosure](https://www.penguinrandomhouse.com/affiliate-program-disclosure/)
-* [Fraud Alert](https://www.penguinrandomhouse.com/prh-fraud/)
+* [Avoid Publishing Scams](https://www.penguinrandomhouse.com/prh-fraud/)
 
 * Help
 * [Publishing Process](https://www.penguinrandomhouse.com/articles/how-can-i-get-published/)
@@ -848,7 +848,7 @@ Stay in touch
 * [Shopping & Shipping FAQ](https://www.penguinrandomhouse.com/faqs/#shopping)
 * [For Educators](https://penguinrandomhouseeducation.com/)
 * [Subrights](http://www.penguinrandomhouse.biz/rights/)
-* [Permissions](http://www.penguinrandomhouse.biz/permissions/)
+* [Permissions](https://permissions.penguinrandomhouse.com/)
 
 Connect
 
