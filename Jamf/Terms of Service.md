@@ -1,6 +1,8 @@
 ![](https://resources.jamf.com/images/logos/jamf-one-color-dark-for-print-css.svg)
 
-[Skip to main content](#main-content) English
+[Skip to main content](#main-content)
+
+[Site Search](https://www.jamf.com/search/) English
 
 * [English](https://www.jamf.com/terms-of-use/)
 * [Deutsch (German)](https://www.jamf.com/de/terms-of-use/)
@@ -15,64 +17,134 @@
 
 Toggle Navigation
 
-* [Solutions](https://www.jamf.com/solutions/)
+* [Why Jamf](https://www.jamf.com/why-jamf/)
     
-    [The Jamf platform Where device love meets Trusted Access](https://www.jamf.com/solutions/)
+    Why Jamf
     
-    **manage** devices
+    Meet Jamf: The most complete Apple device management and security solution.
     
-    [Zero-touch deployment](https://www.jamf.com/solutions/zero-touch-deployment/)[Mobile Device Management (MDM)](https://www.jamf.com/solutions/device-management/)[App management](https://www.jamf.com/solutions/app-lifecycle-management/)[Inventory management](https://www.jamf.com/solutions/inventory-management/)[Self Service](https://www.jamf.com/solutions/self-service/)
+    [Learn More](https://www.jamf.com/why-jamf/)
     
-    **secure** endpoints
+    Solutions
     
-    [Identity and access management](https://www.jamf.com/solutions/identity-based-access/)[Endpoint protection](https://www.jamf.com/solutions/endpoint-protection/)[Threat prevention and remediation](https://www.jamf.com/solutions/threat-prevention-remediation/)[Content filtering and safe internet](https://www.jamf.com/solutions/content-filtering/)[Zero Trust Network Access (ZTNA)](https://www.jamf.com/solutions/zero-trust-network-access/)[Security visibility and compliance](https://www.jamf.com/solutions/compliance/)
+    [Trusted Access](https://www.jamf.com/solutions/trusted-access/)
     
-    **explore** industries
+    [Mobile Device Management (MDM)](https://www.jamf.com/solutions/device-management/)
     
-    [Business Improve business operations and empower employees](https://www.jamf.com/business/)[Education Accelerate learning through streamlined education technology](https://www.jamf.com/education/)[Healthcare Enhance the patient experience and personalize telehealth](https://www.jamf.com/healthcare/)
+    [Identity and access management](https://www.jamf.com/solutions/identity-based-access/)
     
-    [Learn about the **products** that drive Jamf’s solutions.](https://www.jamf.com/products/)
+    [Threat prevention and remediation](https://www.jamf.com/solutions/threat-prevention-remediation/)
+    
+    [Endpoint protection](https://www.jamf.com/solutions/endpoint-protection/)
+    
+    [Explore all solutions](https://www.jamf.com/solutions/)
+    
+    Industries
+    
+    [Business](https://www.jamf.com/business/)
+    
+    [Education](https://www.jamf.com/education/)
+    
+    [Healthcare](https://www.jamf.com/healthcare/)
     
 * [Products](https://www.jamf.com/products/)
+    
+    Products
+    
+    Empower your employees with our best-in-class products.
+    
+    [Learn More](https://www.jamf.com/products/)
+    
+    [Jamf Pro Device management for business & higher education](https://www.jamf.com/products/jamf-pro/)
+    
+    [Jamf Now Device management for small & medium-sized businesses](https://www.jamf.com/products/jamf-now/)
+    
+    [Jamf School Device management for K-12](https://www.jamf.com/products/jamf-school/)
+    
+    [Jamf Protect Endpoint security & protection](https://www.jamf.com/products/jamf-protect/)
+    
+    [Jamf Connect Identity & access management](https://www.jamf.com/products/jamf-connect/)
+    
+    [Jamf Safe Internet Security for education](https://www.jamf.com/products/jamf-safe-internet/)
+    
+    [Jamf Executive Threat Protection Advanced security](https://www.jamf.com/products/jamf-executive-threat-protection/)
+    
 * [Pricing](https://www.jamf.com/pricing/)
+    
+    Pricing
+    
+    Find the best set of Jamf tools for your budget.
+    
+    Pricing options
+    
+    [Business pricing For small business to enterprise](https://www.jamf.com/pricing/)
+    
+    [Education Pricing For K-12 and Higher Ed](https://www.jamf.com/pricing/education-pricing/)
+    
+    Try or buy
+    
+    [Request a trial Free, 14-day Jamf trial](https://www.jamf.com/request-trial/)
+    
+    [Jamf Store Buy a plan or product today](https://store.jamf.com/1594/purl-catalog)
+    
+    [From a Partner Find a reseller](https://www.jamf.com/partners/directory/)
+    
 * [Resources](https://www.jamf.com/resources/)
     
-    Search resources
+    Resources
     
-     e.g. Device Management
+    Whether you’re looking for education or inspiration, Jamf has you covered with the latest industry and product-specific resources.
     
-    * * *
+    [Blog Get the latest industry insights, news, product updates and more.](https://www.jamf.com/blog/)
     
-    Browse Resources by Type:
+    [E-books Thought-provoking content designed to keep you ahead of industry trends.](https://www.jamf.com/resources/e-books/)
     
-    * [Blog Get the latest industry insights, news, product updates and more.](https://www.jamf.com/blog/)
-    * [E-books Thought-provoking content designed to keep you ahead of industry trends.](https://www.jamf.com/resources/e-books/)
-    * [White Papers Research reports and best practices to keep you informed of Apple management tactics.](https://www.jamf.com/resources/white-papers/)
-    * [Videos See product demos in action and hear from Jamf customers.](https://www.jamf.com/resources/videos/)
+    [White Papers Research reports and best practices to keep you informed of Apple management tactics.](https://www.jamf.com/resources/white-papers/)
     
-    * [Case Studies Apple management success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
-    * [Webinars On-demand webinar videos covering an array of Apple management topics.](https://www.jamf.com/resources/webinars/)
-    * [Product Documentation Learn more about our products and what they can do for your organization.](https://www.jamf.com/resources/product-documentation/)
+    [Videos See product demos in action and hear from Jamf customers.](https://www.jamf.com/resources/videos/)
     
-* [Partners](https://www.jamf.com/partners/deal/)
+    [Case Studies Apple success stories from those saving time and money with Jamf.](https://www.jamf.com/resources/case-studies/)
     
-    [The Jamf Partner Program](https://www.jamf.com/partners/)
+    [Webinars On-demand webinar videos covering an array of Apple management topics.](https://www.jamf.com/resources/webinars/)
     
-    [**For partners**](https://www.jamf.com/partners/for-partners/)[Register a deal](https://www.jamf.com/partners/deal/)[Resources](https://www.jamf.info/)[Training](https://partnerpath.jamf.com/)
+    [Product Documentation Learn more about our products and what they can do for your organization.](https://www.jamf.com/resources/product-documentation/)
     
-    [**Become a partner**](https://www.jamf.com/partners/become-a-partner/)[MSP](https://www.jamf.com/partners/managed-service-providers/)[Reseller](https://www.jamf.com/partners/resellers/)[Integrator](https://www.jamf.com/partners/integrators/)[Technology](https://www.jamf.com/partners/technology-partners/)
+* [Partners](https://www.jamf.com/partners/become-a-partner/)
     
-    [**Buy from a partner**](https://www.jamf.com/partners/directory/)[Partner directory](https://www.jamf.com/partners/directory/)
+    Partners
     
-* [Contact](https://www.jamf.com/contact/)
+    Current partner, future partner or purchasing from a partner - you’re in the right place.
+    
+    [Learn More](https://www.jamf.com/partners/)
+    
+    For partners
+    
+    [Register a deal](https://partners.jamf.com/)
+    
+    [Resources](https://partners.jamf.com/English/)
+    
+    [Training](https://partners.jamf.com/English/)
+    
+    [Login to Jamf Partner Hub](https://partners.jamf.com/prm/auth/70d5b4b5-6690-4547-85ab-29a39707497d/oauth2/login)
+    
+    [Explore more](https://www.jamf.com/partners/for-partners-new/)
+    
+    **Become a partner**
+    
+    [MSP](https://www.jamf.com/partners/managed-service-providers/)
+    
+    [Resellers](https://www.jamf.com/partners/resellers/)
+    
+    [Integrators](https://www.jamf.com/partners/integrators/)
+    
+    [Technology](https://www.jamf.com/partners/technology-partners/)
+    
+    [Explore more](https://www.jamf.com/partners/become-a-partner/)
+    
 
-[Start Trial](https://www.jamf.com/request-trial/)
+[Start Trial](https://www.jamf.com/request-trial/) [Contact](https://www.jamf.com/contact/)
 
-* [Site Search](https://www.jamf.com/search/)
-    
-     Search Submit Reset
-    
-* [Start Trial](https://www.jamf.com/request-trial/)
+* [Start Trial](https://www.jamf.com/request-trial/) [Contact](https://www.jamf.com/contact/)
 
 1. [Jamf Home](https://www.jamf.com/)
 2. Terms of Use
@@ -198,7 +270,9 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 * [Zero Trust Network Access (ZTNA)](https://www.jamf.com/solutions/zero-trust-network-access/)
 * [Security visibility and compliance](https://www.jamf.com/solutions/compliance/)
 
-### [Pricing](https://www.jamf.com/pricing/)
+### [Business pricing](https://www.jamf.com/pricing/)
+
+### [Education Pricing](https://www.jamf.com/pricing/education-pricing/)
 
 ### [Support](https://www.jamf.com/support/)
 
@@ -233,7 +307,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 
 ### [Partners](https://www.jamf.com/partners/)
 
-* [For partners](https://www.jamf.com/partners/for-partners/)
+* [For partners](https://www.jamf.com/partners/for-partners-new/)
 * [Become a partner](https://www.jamf.com/partners/become-a-partner/)
 * [Buy from a partner](https://www.jamf.com/partners/directory/)
 * [Marketplace](https://marketplace.jamf.com/)
