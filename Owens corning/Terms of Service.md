@@ -48,9 +48,9 @@ Businesses
 
 [new
 
-![Masonite Logo, now proudly part of Owens Corning](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)](https://www.masonite.com/)[new
+![Masonite Logo, now proudly part of Owens Corning](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)](https://www.masonite.com/)[new
 
-![Owens Corning Roofing PinkWrap Premium Air Barrier unrolled on dark, wet pavement](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/18045504/Owens_Corning_Roofing_Weather_Resistant_Barriers_PinkWrap_Promo_Block_340x190)
+![Owens Corning Roofing PinkWrap Premium Air Barrier unrolled on dark, wet pavement](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/18045504/Owens_Corning_Roofing_Weather_Resistant_Barriers_PinkWrap_Promo_Block_340x190)
 
 PINKWRAP® Air Barrier Products
 
@@ -64,7 +64,7 @@ Wrap with Confidence](https://www.owenscorning.com/en-us/roofing/pinkwrap)
 
 [Recent News](https://newsroom.owenscorning.com/home/default.aspx#front-press-release) [All News Releases](https://newsroom.owenscorning.com/all-news-releases/default.aspx) [Media Library](https://www.owenscorning.com/en-us/corporate/media-library)
 
-[![Graphic of the OC and Masonite Logo](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)
+[![Graphic of the OC and Masonite Logo](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)
 
 Strengthening Our Leadership in Building and Construction Materials](https://newsroom.owenscorning.com/all-news-releases/news-details/2024/Owens-Corning-Completes-Acquisition-of-Masonite-Strengthening-Leadership-in-Building-and-Construction-Materials/default.aspx)
 
@@ -78,11 +78,11 @@ Strengthening Our Leadership in Building and Construction Materials](https://new
 
 #### Quarterly Earnings 
 
-[Webcast Replay](https://events.q4inc.com/attendee/185236891) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q1/Owens-Corning-Q1-2024-Earnings-Call-Apr-24-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q1/Q1-2024-Quarterly-Earnings-Presentation-V6.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.3-Billion-Generates-Net-Earnings-of-299-Million-and-Adjusted-EBIT-of-438-Million/default.aspx)
+[Webcast Replay](https://events.q4inc.com/attendee/391039233) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Owens-Corning-Q2-2024-Earnings-Call-Aug-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Q2-2024-Quarterly-Earnings-Presentation-v14.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.8-Billion-Generates-Net-Earnings-of-285-Million-and-Adjusted-EBIT-of-588-Million/default.aspx)
 
 #### Investor Day 
 
-[![](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/5861207/128836-InvestorDay-CallOut)
+[![](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/5861207/128836-InvestorDay-CallOut)
 
 Investor Day 2021
 
@@ -98,7 +98,7 @@ Building Owens Corning for the Future](https://newsroom.owenscorning.com/all-new
 
 #### 2023 Sustainability Report 
 
-[![Image with text "Making the Difference"](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/19097664/865200-Sustainability-Navigation-Card)
+[![Image with text "Making the Difference"](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/19097664/865200-Sustainability-Navigation-Card)
 
 Making the Difference](https://www.owenscorning.com/en-us/corporate/sustainability/docs/2024/2023-Owens-Corning-Sustainability-Report.pdf)
 
@@ -178,9 +178,9 @@ Businesses
 
 [new
 
-![Masonite Logo, now proudly part of Owens Corning](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)](https://www.masonite.com/)[new
+![Masonite Logo, now proudly part of Owens Corning](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)](https://www.masonite.com/)[new
 
-![Owens Corning Roofing PinkWrap Premium Air Barrier unrolled on dark, wet pavement](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/18045504/Owens_Corning_Roofing_Weather_Resistant_Barriers_PinkWrap_Promo_Block_340x190)
+![Owens Corning Roofing PinkWrap Premium Air Barrier unrolled on dark, wet pavement](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/18045504/Owens_Corning_Roofing_Weather_Resistant_Barriers_PinkWrap_Promo_Block_340x190)
 
 PINKWRAP® Air Barrier Products
 
@@ -194,7 +194,7 @@ News
 
 [Recent News](https://newsroom.owenscorning.com/home/default.aspx#front-press-release) [All News Releases](https://newsroom.owenscorning.com/all-news-releases/default.aspx) [Media Library](https://www.owenscorning.com/en-us/corporate/media-library)
 
-[![Graphic of the OC and Masonite Logo](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)
+[![Graphic of the OC and Masonite Logo](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/20450335/Masonite-New-Product-250x128)
 
 Strengthening Our Leadership in Building and Construction Materials](https://newsroom.owenscorning.com/all-news-releases/news-details/2024/Owens-Corning-Completes-Acquisition-of-Masonite-Strengthening-Leadership-in-Building-and-Construction-Materials/default.aspx)
 
@@ -208,11 +208,11 @@ Investors
 
 #### Quarterly Earnings
 
-[Webcast Replay](https://events.q4inc.com/attendee/185236891) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q1/Owens-Corning-Q1-2024-Earnings-Call-Apr-24-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q1/Q1-2024-Quarterly-Earnings-Presentation-V6.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.3-Billion-Generates-Net-Earnings-of-299-Million-and-Adjusted-EBIT-of-438-Million/default.aspx)
+[Webcast Replay](https://events.q4inc.com/attendee/391039233) [Call Transcript](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Owens-Corning-Q2-2024-Earnings-Call-Aug-06-2024.pdf) [Report Presentation](https://s21.q4cdn.com/855213745/files/doc_financials/2024/q2/Q2-2024-Quarterly-Earnings-Presentation-v14.pdf) [Press Release](https://investor.owenscorning.com/investors/stock-performance-and-earnings/press-releases/press-release-details/2024/Owens-Corning-Delivers-Net-Sales-of-2.8-Billion-Generates-Net-Earnings-of-285-Million-and-Adjusted-EBIT-of-588-Million/default.aspx)
 
 #### Investor Day
 
-[![](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/5861207/128836-InvestorDay-CallOut)
+[![](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/5861207/128836-InvestorDay-CallOut)
 
 Investor Day 2021
 
@@ -228,7 +228,7 @@ Sustainability
 
 #### 2023 Sustainability Report
 
-[![Image with text "Making the Difference"](https://imagecdn.owenscorning.com/ocimages/image/upload/v1/pagebuilder/uploads/prod/19097664/865200-Sustainability-Navigation-Card)
+[![Image with text "Making the Difference"](https://res.cloudinary.com/ocimages/image/upload/c_fit,f_auto,q_60/v1/pagebuilder/uploads/prod/19097664/865200-Sustainability-Navigation-Card)
 
 Making the Difference](https://www.owenscorning.com/en-us/corporate/sustainability/docs/2024/2023-Owens-Corning-Sustainability-Report.pdf)
 
