@@ -1,6 +1,6 @@
-Your IP: 51.195.149.220
+Your IP: 206.81.0.208
 
-United Kingdom of Great Britain and Northern Ireland, London
+United States of America, North Bergen
 
 You are not protected
 
@@ -47,7 +47,7 @@ En
     
 * [Manual setup](javascript:;)
     
-    * [WireGuard](javascript:;)
+    * [❗ WireGuard](javascript:;)
         
         * [Android](https://redshieldvpn.com/en/help/manual/wireguard/android)
         * [Windows](https://redshieldvpn.com/en/help/manual/wireguard/windows)
@@ -64,6 +64,27 @@ En
             * [Mikrotik](https://redshieldvpn.com/en/help/manual/wireguard/routers/mikrotik)
             * [Keenetic](https://redshieldvpn.com/en/help/manual/wireguard/routers/keenetic)
             * [OpenWrt](https://redshieldvpn.com/en/help/manual/wireguard/routers/openwrt)
+            
+        
+    * [OpenVPN](javascript:;)
+        
+        * [Android](javascript:;)
+            
+            * [Setup and usage](https://redshieldvpn.com/en/help/manual/openvpn/android/setup)
+            * [Always on](https://redshieldvpn.com/en/help/manual/openvpn/android/alwayson)
+            * [Battery saving](https://redshieldvpn.com/en/help/manual/openvpn/android/battery)
+            
+        * [Windows](javascript:;)
+            
+            * [Setup and usage](https://redshieldvpn.com/en/help/manual/openvpn/windows/setup)
+            
+        * [Linux](javascript:;)
+            
+            * [Ubuntu: setup and usage](https://redshieldvpn.com/en/help/manual/openvpn/linux/ubuntu)
+            
+        * [Routers](javascript:;)
+            
+            * [Mikrotik](https://redshieldvpn.com/en/help/manual/openvpn/routers/mikrotik)
             
         
     
