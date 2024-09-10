@@ -45,7 +45,7 @@ This website is rated [Google Safe™](https://safebrowsing.google.com/). Check 
 Of interest:
 
 * All HTML coding is done by hand using the macOS version of the **BBEdit** application from [Bare Bones Software](https://www.barebones.com/).
-* The website uses the [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) property to keep track of the background color choice of the user (dark or light)
+* The website may occasionally use the [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) property to keep track of the background color choice of the user (dark or light)
 * The website is developed and maintained by [Sal Soghoian](https://en.wikipedia.org/wiki/Sal_Soghoian) (Otto Automator) in cooperation with The Omni Group, and is hosted by [Inmotion Hosting](https://www.inmotionhosting.com/) using AutoSSL certificates to ensure encrypted connections.
 
 We hope you find this site useful and informative, and
