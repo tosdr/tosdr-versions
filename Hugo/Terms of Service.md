@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=853116159045904&ev=PageView&noscript=1)     
 
- [![](https://hugoenergyapp.co.uk/wp-content/uploads/2019/06/hugo_logo@2x.png) ![](https://hugoenergyapp.co.uk/wp-content/uploads/2019/06/hugo_logo_dark@2x.png)](https://hugoenergyapp.co.uk/)
+ [![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo@2x.png?time=1725990171) ![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo_dark@2x.png?time=1725990171)](https://hugoenergyapp.co.uk/)
 
 * [Features](#features "Features")
 * [Media](# "Media")
@@ -357,7 +357,7 @@ By participating in a Mission, you will be asked to complete a survey or questio
 * [Privacy](https://hugoenergyapp.co.uk/privacy-policy)
 * [Terms](https://hugoenergyapp.co.uk/terms-and-condition)
 
-[![](https://hugoenergyapp.co.uk/wp-content/uploads/2022/12/Asset-3@2x.png)](https://bot.hugoenergyapp.co.uk/)
+[![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2022/12/Asset-3@2x.png)](https://bot.hugoenergyapp.co.uk/)
 
 Space Cookies  
 We use cookies to improve your browsing experience and to analyze our website traffic.  
