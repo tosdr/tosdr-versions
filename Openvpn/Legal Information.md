@@ -135,7 +135,7 @@ The legal contract entered between OpenVPN and the user of OpenVPN software. The
 
 ### General Data Processing Agreement
 
-[Download PDF](https://openvpn.net/wp-content/uploads/OpenVPN_GDPA_OPT.pdf)
+[Download PDF](https://openvpn.net/wp-content/uploads/Data-Processing-Agreement-General-Rev.-8-14-24.docx)
 
 THIS GENERAL DATA PROCESSING AGREEMENT (“DPA”) is entered into by OpenVPN Inc., a Delaware corporation (“OpenVPN”) and the person or persons to whom OpenVPN has granted a license to use a service described below (the “Customer”) and sets forth the terms under which OpenVPN will process Customer Data in connection with that service.
 
@@ -268,7 +268,15 @@ OpenVPN will implement technical measures set forth in Section 4 of the DPA.
 
 Rev. 9.19.2022
 
-[Download PDF](https://openvpn.net/wp-content/uploads/OpenVPN_GDPA_OPT.pdf)
+[Download PDF](https://openvpn.net/wp-content/uploads/Data-Processing-Agreement-General-Rev.-8-14-24.docx)
+
+### Master Product and Services Agreement
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/Master-Product-Services-Agreement-Updated-through-7-29-24.docx)
+
+The OpenVPN Master Product and Services Agreement (MPSA) is a contract that defines the terms and conditions that will regulate current and future transactions between OpenVPN and its customers.
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/Master-Product-Services-Agreement-Updated-through-7-29-24.docx)
 
 ### EU Data Processing Addendum with Standard Contractual Clauses (DEP-SCC)
 
@@ -283,6 +291,22 @@ The Swiss Addendum provides the necessary amendments and adaptations to the SCCs
 ### United Kingdom Data Processing Addendum
 
 When OpenVPN is the processor (Importer) of Personal Data transferred from the UK on behalf of a Controller (Exporter) the UK DPA Addendum applies.
+
+### OpenVPN Connect Certified Program
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/CO-MAR_1.doc)
+
+The OpenVPN Connect Certified testing program allows vendors of OpenVPN protocol-compatible hardware to submit their products for certification testing to ensure compatibility with OpenVPN products: Access Server and CloudConnexa.
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/CO-MAR_1.doc)
+
+### OpenVPN Affiliate Program
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/Affiliate-Program-Agreement-Final-8.9.24.docx)
+
+Team up with OpenVPN to earn extra revenue from your website, blog, email marketing/newsletter, or social media accounts. You can earn commissions by using an affiliate link to refer us.
+
+[Download Agreement](https://openvpn.net/wp-content/uploads/Affiliate-Program-Agreement-Final-8.9.24.docx)
 
 ### Sub-Contractor Business Associate Agreement
 
