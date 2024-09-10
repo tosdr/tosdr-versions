@@ -105,7 +105,6 @@ Sidebar
     * [Press Releases](https://www.feedingamerica.org/about-us/press-room "Press Releases")
         * [Local Media Contacts](https://www.feedingamerica.org/about-us/press-room/local-media-contacts "Local Media Contacts")
         * [Video Gallery](https://www.feedingamerica.org/about-us/press-room/our-videos "Video Gallery")
-    * [Podcast](https://www.feedingamerica.org/about-us/podcast "Podcast")
 * ### [Research](https://www.feedingamerica.org/research "Research")
     
     * [Map the Meal Gap](https://map.feedingamerica.org/ "Map the Meal Gap")
@@ -169,7 +168,6 @@ Chicago, IL 60601
 * [Annual Report](https://www.feedingamerica.org/about-us/financials "Annual Report")
 * [Why Feeding America](https://www.feedingamerica.org/about-us/why-feeding-america "Why Feeding America")
 * [Press Releases](https://www.feedingamerica.org/about-us/press-room "Press Releases")
-* [Podcast](https://www.feedingamerica.org/about-us/podcast "Podcast")
 
 * [Research](https://www.feedingamerica.org/research "Research")
 * [Map the Meal Gap](https://map.feedingamerica.org/ "Map the Meal Gap")
