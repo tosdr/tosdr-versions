@@ -208,7 +208,7 @@ AdGuard DNS operates as a DNS resolver that can block access to certain domains 
     
 * Private AdGuard DNS blocks DNS queries or modifies DNS responses in accordance with the user’s preferences. In addition to that, it displays the queries and statistics to the user via the AdGuard DNS dashboard. Registering an AdGuard account is required to use this type of DNS resolver.
 
-If you disagree with our classification of a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](mailto:support@adguard.com).
+If you disagree with our classification of a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard-dns.io](mailto:support@adguard-dns.io).
 
 What data we process and when
 
@@ -233,7 +233,7 @@ Sending messages. We can communicate with you using your email address when we h
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletter via AdGuard Account or by clicking the “Unsubscribe” button or link in the email itself.
 
-Cookies. We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the Website & Cookie Notice for details.
+Cookies. We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the Privacy Policy of AdGuard Websites for details: [](https://adguard.com/website-privacy.html)[https://adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
 
 Buying a subscription. If you purchase a subscription to Private AdGuard DNS, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
@@ -364,11 +364,7 @@ We may change this Privacy Policy from time to time and inform you of the import
 
 Other documents:
 
-[EULA](https://adguard-dns.io/en/eula.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
-
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard-dns.io/en/privacy.html)
-
-I agree
+[EULA](https://adguard-dns.io/en/eula.html) [Terms of Sale](https://adguard-dns.io/en/terms-of-sale.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html)
 
 © 2016–2024 AdGuard DNS
 
@@ -380,7 +376,7 @@ Homepage Pricing Blog About us Connect to DNS AdGuard promo activities Media kit
 
 Other products
 
-AdGuard Ad Blocker AdGuard VPN AdGuard Temp Mail AdGuard Home
+[AdGuard Ad Blocker](https://adguard.com/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html) [AdGuard Home](https://adguard.com/adguard-home/overview.html)
 
 Support
 
@@ -388,4 +384,4 @@ Support Center FAQ Knowledge base Version history Report an issue AdGuard Status
 
 Legal documents
 
-EULA Privacy Policy Terms of sale Refund policy Terms and conditions
+EULA Privacy Policy Terms of Sale Refund policy Terms and conditions Privacy policy of AdGuard websites
