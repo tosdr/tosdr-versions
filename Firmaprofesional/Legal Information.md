@@ -64,20 +64,18 @@ Seleccionar página
 Aviso legal
 ===========
 
-En cumplimento de lo dispuesto por la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, se informa que Firmaprofesional S.A. es una entidad de carácter mercantil con CIF A62634068, y domicilio social en Paseo Bonanova 47, 08017 Barcelona. Consta debidamente inscrita en el Registro Mercantil de Barcelona, el 9 de noviembre de 2001, tomo 33996, folio 143, hoja B240292, inscripción primera.
+En cumplimento de lo dispuesto por la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, se informa que Firmaprofesional, S.A. es una entidad de carácter mercantil con CIF A62634068, y domicilio social en Paseo de Gracia, 50, 08007 Barcelona. Consta debidamente inscrita en el Registro Mercantil de Barcelona, tomo 47604, folio 72, hoja B240292, inscripción primera.
 
 El domicilio de la actividad de FIRMAPROFESIONAL se encuentra en:
 
 Barcelona:  
-Av. de la Torre Blanca, 57.  
-Edificio ESADECREAPOLIS  
-08173 – Sant Cugat del Vallès – Barcelona  
+Paseo de Gracia, 50  
+08007 Barcelona  
 Teléfono: +34 93 477 42 45  
 [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
 
 Madrid:  
-Edif. Caoba  
-C/ Valportillo Primera, 22-24, 1ª   
+Calle de Cantabria, 2  
 28108 Alcobendas  
 Teléfono: +34 91 576 21 81   
 [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
@@ -103,7 +101,7 @@ Política de privacidad
 
 * **¿Quién es el responsable del tratamiento de sus datos?**
     * FIRMAPROFESIONAL S.A. (en adelante “FIRMAPROFESIONAL”)
-    * Domicilio: Paseo Bonanova 47, 08017
+    * Domicilio: Paseo de Gracia, 50, 08007 Barcelona
     * Barcelona E-mail: [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection)
     * Teléfono: 93 477 42 45 N.I.F.: A62634068
 * **¿Con qué finalidad tratamos sus datos personales?**  
@@ -125,7 +123,7 @@ Política de privacidad
     Cualquier persona tiene derecho a obtener confirmación sobre si en FIRMAPROFESIONAL se tratan datos personales que les conciernan, o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos.En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.  
     Asimismo, en determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos.
     
-    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.L., Av. Torre Blanca, 57, (Edificio ESADECREAPOLIS – 3B6), 08173 Sant Cugat del Vallès (Barcelona) o a C/ Velázquez, 59-1º Centro Izquierda, 28001 Madrid, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection). 
+    FIRMAPROFESIONAL le informa que podrá ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento según las condiciones y límites previstos en la vigente legislación, dirigiéndose por escrito a FIRMAPROFESIONAL, S.A., Paseo de Gracia, 50, 08007 Barcelona, o bien mediante email a [\[email protected\]](https://www.firmaprofesional.com/cdn-cgi/l/email-protection). 
     
     En caso de considerarlo oportuno, puede presentar una reclamación ante la Agencia Española de Protección de Datos ([agpd.es](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php)).
     
@@ -179,14 +177,13 @@ FIRMAPROFESIONAL, S.A, A62634068
 
 **BARCELONA**  
 Passeig de Gracia 50, 2º1º  
-08007 Barcelona  
-+34 934 774 245
+08007 Barcelona
 
 **MADRID**  
 Edif. Amura  
-c/ de Cantabria, 5  
+c/ de Cantabria, 2  
 28108 Alcobendas  
-+34 915 762 181
+Madrid
 
 #### PRESTADOR CUALIFICADO
 
@@ -202,4 +199,4 @@ c/ de Cantabria, 5
 
 [![ISO9001 Firmaprofesional](https://firmaprofesional.com/wp-content/uploads/2024/05/firmaprofesional_1s_talogo_qm_23-e1717068612393.png)](https://firmaprofesional.com/wp-content/uploads/pdfs/ISO9001_Firmaprofesional_esp_2024.pdf)
 
-© Copyright 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
+© 2024 Firmaprofesional | [AVISO LEGAL](https://www.firmaprofesional.com/aviso-legal) | [POLÍTICA DE PRIVACIDAD](https://www.firmaprofesional.com/aviso-legal#politica-de-privacidad) | [COOKIES](https://www.firmaprofesional.com/cookies/)
