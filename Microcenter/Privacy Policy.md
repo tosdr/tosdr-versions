@@ -26,17 +26,13 @@ Already have a Micro Center account? You automatically qualify for member pricin
 
 [Skip to Main Content Area](#content) [Skip to privacy statement](#privacyAlertDiv) [View our accessibility policy](https://www.microcenter.com/site/customer-support/accessibility-policy.aspx)
 
-We are using cookies to give you the best experience on our website. You can view our [Privacy Policy](https://www.microcenter.com/site/customer-support/privacy_policy.aspx) and information regarding our use of cookies [here for more information about cookies](https://www.microcenter.com/site/customer-support/privacy_policy.aspx).
-
-Accept\[x\] Accept Privacy Policy and Terms Accept\[x\] Temporarily Hide Alert
+We are using cookies to give you the best experience on our website. You can view our [Privacy Policy](https://www.microcenter.com/site/customer-support/privacy_policy.aspx) and information regarding our use of cookies [here for more information about cookies](https://www.microcenter.com/site/customer-support/privacy_policy.aspx). Accept Accept Privacy Policy and Terms
 
 Site Selections: Account Login, Store Selection, Cart Information
------------------------------------------------------------------
 
 [![Micro Center](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/MClogoWhiteStacked.svg)](https://www.microcenter.com/ "Micro Center Home Page")
 
 Product Search Form
--------------------
 
 Search for product    
 
@@ -90,6 +86,102 @@ Search for product
         
         Store Lookup Zip Code 
         
+        * Brooklyn
+            
+            850 3rd Ave Brooklyn, NY 11232
+            
+            9.3 mi
+            
+            [Shop
+            
+            Brooklyn
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=115)
+            
+        * North Jersey
+            
+            263 McLean Blvd Route 20 Retail Center Paterson, NJ 07504
+            
+            9.8 mi
+            
+            [Shop
+            
+            North Jersey
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=075)
+            
+        * Flushing
+            
+            71-43 Kissena Blvd Queens, NY 11367
+            
+            11.9 mi
+            
+            [Shop
+            
+            Flushing
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=145)
+            
+        * Yonkers
+            
+            750-A Central Park Ave Yonkers, NY 10704
+            
+            12.7 mi
+            
+            [Shop
+            
+            Yonkers
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=105)
+            
+        * Westbury
+            
+            655 Merrick Ave Westbury, NY 11590
+            
+            23.2 mi
+            
+            [Shop
+            
+            Westbury
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=171)
+            
+        * St. Davids
+            
+            550 E Lancaster Ave Ste C St Davids, PA 19087
+            
+            87.8 mi
+            
+            [Shop
+            
+            St. Davids
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=061)
+            
+        * Parkville
+            
+            1957 E Joppa Rd Parkville, MD 21234
+            
+            164.6 mi
+            
+            [Shop
+            
+            Parkville
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=125)
+            
+        * Cambridge
+            
+            730 Memorial Dr Cambridge, MA 02139
+            
+            185.4 mi
+            
+            [Shop
+            
+            Cambridge
+            
+             Store](https://www.microcenter.com/site/customer-support/privacy_policy.aspx?storeID=121)
+            
     
 
 * * [![my account](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/UWhite.svg)
@@ -121,14 +213,16 @@ Search for product
     Cart& List](https://cart.microcenter.com/ "View My Cart")
 
 Product category, brand navigation and general site naviation
--------------------------------------------------------------
 
-* [Products Navigation](#)
+* [**Products** Navigation](#)
+    
+    X Close the product navigation menu
+    
     * Top Deals
         
-        ### Top Deals options - 6 groups of items - 24 total selections
+        Top Deals options - 6 groups of items - 24 total selections
         
-        * #### PC Parts
+        * PC Parts
             
             * [Processors/CPUs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
             * [Motherboards](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966996)
@@ -139,7 +233,7 @@ Product category, brand navigation and general site naviation
             * [Power Supplies](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966654)
             * [Air & Water Cooling](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966928)
             * [View All Computer Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
-        * #### Computers
+        * Computers
             
             * [All Laptops](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294967288)
             * [Gaming Laptops](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294967288,4294818187)
@@ -148,53 +242,53 @@ Product category, brand navigation and general site naviation
             * [Apple Laptops](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294967288,4294820432)
             * [iPads](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294954980)
             * [View All Computers](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294964325)
-        * #### Peripherals
+        * Peripherals
             
             * [Keyboards](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966800)
             * [Mice](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966799)
             * [Printers](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966830)
-        * #### Electronics
+        * Electronics
             
             * [Monitors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966896)
             * [Televisions](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966895)
-        * #### Networking
+        * Networking
             
             * [Wireless Routers](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966869)
             * [Network Switches](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966884)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View All Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
         
     * PC Parts
         
-        ### PC Parts options - 10 groups of items - 50 total selections
+        PC Parts options - 10 groups of items - 51 total selections
         
-        * #### Processors/CPUs
+        * Processors/CPUs
             
             * [All Processors](https://www.microcenter.com/category/4294966995/processors-cpus)
             * [AMD Processors](https://www.microcenter.com/category/4294966995,4294819840/amd-processors)
             * [Intel Processors](https://www.microcenter.com/category/4294966995,4294820689/intel-processors)
             * [AMD Motherboard Bundles](https://www.microcenter.com/site/content/bundle-and-save.aspx)
             * [Intel Motherboard Bundles](https://www.microcenter.com/site/content/intel-bundle-and-save.aspx)
-        * #### Motherboards
+        * Motherboards
             
             * [All Motherboards](https://www.microcenter.com/category/4294966996/motherboards)
             * [AMD Motherboards](https://www.microcenter.com/category/4294966996,4294818892/amd-motherboards)
             * [Intel Motherboards](https://www.microcenter.com/category/4294966996,4294818573/intel-motherboards)
             * [Barebone PCs](https://www.microcenter.com/category/4294945556/barebone-pcs)
-        * #### Computer Memory
+        * Computer Memory
             
             * [All Computer Memory](https://www.microcenter.com/category/4294966653/computer-memory)
             * [Desktop Memory](https://www.microcenter.com/category/4294966965/desktop-memory-ram)
             * [Laptop Memory](https://www.microcenter.com/category/4294966652/laptop-memory-ram)
             * [Mac Memory](https://www.microcenter.com/category/4294961539/mac-memory-ram)
-        * #### Graphics Cards & Accessories
+        * Graphics Cards & Accessories
             
             * [Graphics Cards](https://www.microcenter.com/category/4294966937/graphics-cards)
             * [Graphics Card Accessories](https://www.microcenter.com/category/4294951497/graphics-card-accessories)
             * [TV Tuners, Scan Converters](https://www.microcenter.com/category/4294966936/tv-tuners-scan-converters)
             * [GPU Trade-in Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
-        * #### Drives & Storage
+        * Drives & Storage
             
             * [All Storage](https://www.microcenter.com/site/products/drives-and-storage.aspx)
             * [Internal SSDs](https://www.microcenter.com/category/4294945779,4294818519/internal-ssds)
@@ -203,14 +297,14 @@ Product category, brand navigation and general site naviation
             * [External Hard Drives](https://www.microcenter.com/category/4294945771/external-hard-drives)
             * [Network Attached Storage](https://www.microcenter.com/category/4294945770/network-attached-storage)
             * [CD/DVD/Blu-ray Drives](https://www.microcenter.com/category/4294966943/cd-dvd-blu-ray-burners)
-        * #### Cases & Accessories
+        * Cases & Accessories
             
             * [Desktop Cases](https://www.microcenter.com/category/4294964318/computer-cases)
             * [Power Supplies](https://www.microcenter.com/category/4294966654/power-supplies)
             * [Drive Enclosures/Trays](https://www.microcenter.com/category/4294966860/drive-enclosures-trays)
             * [Case Accessories](https://www.microcenter.com/category/4294966901/case-accessories)
             * [System Cables](https://www.microcenter.com/category/4294966747/system-cables)
-        * #### Air & Water Cooling
+        * Air & Water Cooling
             
             * [All Air & Water Cooling](https://www.microcenter.com/site/products/cpu-coolers.aspx)
             * [Case Fans & Coolers](https://www.microcenter.com/category/4294966926/case-fans-coolers)
@@ -218,19 +312,20 @@ Product category, brand navigation and general site naviation
             * [Thermal Compound, Paste](https://www.microcenter.com/category/4294966910/thermal-compound-paste)
             * [Water Cooling Kits](https://www.microcenter.com/category/4294966904/water-cooling-kits)
             * [Water Cooling Accessories](https://www.microcenter.com/category/4294966903/water-cooling-accessories)
-        * #### Expansion Cards
+        * Expansion Cards
             
             * [Sound Cards](https://www.microcenter.com/category/4294966934/sound-cards)
             * [IDE/SATA Controllers](https://www.microcenter.com/category/4294966931/ide-sata-controllers)
             * [USB & FireWire Controllers](https://www.microcenter.com/category/4294966930/usb-and-firewire-controllers)
             * [Parallel & Serial Cards](https://www.microcenter.com/category/4294966932/parallel-and-serial-cards)
             * [I/O Adapters](https://www.microcenter.com/category/4294966929/i-o-adapters)
-        * #### Laptop Parts
+        * Laptop Parts
             
             * [Replacement Screens](https://www.microcenter.com/category/4294914754/laptop-replacement-screens)
             * [Laptop Batteries](https://www.microcenter.com/category/4294961028/laptop-batteries)
-        * #### Explore More
+        * Explore More
             
+            * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
             * [View Processors/CPUs](https://www.microcenter.com/site/products/computer-processors.aspx)
             * [View Motherboards](https://www.microcenter.com/site/products/motherboards.aspx)
             * [View Graphics Cards/GPUs](https://www.microcenter.com/site/products/graphics-cards.aspx)
@@ -244,18 +339,18 @@ Product category, brand navigation and general site naviation
         
     * PC Builders
         
-        ### PC Builders options - 3 groups of items - 8 total selections
+        PC Builders options - 3 groups of items - 8 total selections
         
-        * #### Build a Custom PC
+        * Build a Custom PC
             
             * [Custom PC Builder](https://www.microcenter.com/site/content/custom-pc-builder.aspx)
             * [Custom PC with Intel](https://www.microcenter.com/site/content/custom-pc-builder-intel.aspx)
             * [Custom PC with AMD](https://www.microcenter.com/site/content/custom-pc-builder-amd.aspx)
-        * #### Streaming & Gaming
+        * Streaming & Gaming
             
             * [Creator Studio Builder](https://www.microcenter.com/site/content/creator-studio-landing.aspx)
             * [Racing Sim Builder](https://www.microcenter.com/site/content/racing-sim-builder.aspx)
-        * #### Showcase
+        * Showcase
             
             * [See Completed Builds](https://www.microcenter.com/search/builds.aspx)
             * [Add Your Completed Build](https://www.microcenter.com/site/content/create-build.aspx)
@@ -263,40 +358,50 @@ Product category, brand navigation and general site naviation
         
     * Computers
         
-        ### Computers options - 6 groups of items - 34 total selections
+        Computers options - 7 groups of items - 43 total selections
         
-        * #### Desktop Computing
+        * Laptops & Tablets
+            
+            * [All Laptops](https://www.microcenter.com/category/4294967288/laptops-notebooks)
+            * [Gaming Laptops](https://www.microcenter.com/site/products/gaming-laptops.aspx)
+            * [2-in-1 Laptops](https://www.microcenter.com/category/4294967288,4294818548/2-in-1-laptops)
+            * [Apple Laptops](https://www.microcenter.com/category/4294967288,4294820432/macbook)
+            * [iPads / Tablets](https://www.microcenter.com/category/4294954921/ipads-tablets)
+            * [Refurbished Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
+        * Desktops
             
             * [All Desktops](https://www.microcenter.com/category/4294967292/desktop-computers)
             * [PC Desktops](https://www.microcenter.com/category/4294967292,4294820733/pc-desktops)
-            * [Apple Desktops](https://www.microcenter.com/category/4294967292,4294819353/apple-mac-desktops)
             * [Gaming PCs](https://www.microcenter.com/site/products/gaming_desktops.aspx)
+            * [Apple Desktops](https://www.microcenter.com/category/4294967292,4294819353/apple-mac-desktops)
             * [All-in-One Desktops](https://www.microcenter.com/category/4294967292,4294819084/all-in-one-desktops)
             * [Refurbished Desktops](https://www.microcenter.com/category/4294967292,519/refurbished-desktops)
-        * #### Portable Computing
+        * Computer Monitors
             
-            * [All Laptops / Notebooks](https://www.microcenter.com/category/4294967288/laptops-notebooks)
-            * [2-in-1 Laptops](https://www.microcenter.com/category/4294967288,4294818548/2-in-1-laptops)
-            * [Gaming Laptops](https://www.microcenter.com/site/products/gaming-laptops.aspx)
-            * [Apple Laptops](https://www.microcenter.com/category/4294967288,4294820432/macbook)
-            * [iPads / Tablets](https://www.microcenter.com/site/products/ipads-tablets.aspx)
-            * [Refurbished Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
-        * #### Portable Accessories
+            * [All Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
+            * [Gaming Monitors](https://www.microcenter.com/category/4294966896,4294819462/gaming-monitors)
+            * [2K Monitors](https://www.microcenter.com/category/4294966896,4294806820/2k-monitors)
+            * [4K Monitors](https://www.microcenter.com/category/4294966896,4294806801/4k-monitors)
+            * [Curved Screen Monitors](https://www.microcenter.com/category/4294966896,4294818215/curved-monitor)
+            * [OLED Monitors](https://www.microcenter.com/category/4294966896,4294807621/OLED-computer-monitors)
+            * [LED Monitors](https://www.microcenter.com/category/4294966896/led-lcd-monitors)
+            * [Monitor Mounts & Stands](https://www.microcenter.com/category/4294966837,4294803511,4294803514/monitor-mounts-and-stands)
+        * Portable Accessories
             
             * [PC Laptop Accessories](https://www.microcenter.com/category/4294967262/laptop-accessories)
             * [Mac Laptop Accessories](https://www.microcenter.com/category/4294967161/mac-accessories)
             * [iPad & Tablet Accessories](https://www.microcenter.com/category/4294899875/ipad-and-tablet-accessories)
             * [Laptop Batteries](https://www.microcenter.com/category/4294961028/laptop-batteries)
-        * #### Peripherals
+        * Peripherals
             
-            * [Monitors](https://www.microcenter.com/category/4294966896/computer-monitors)
-            * [Printers](https://www.microcenter.com/category/4294966830/printers)
-            * [3D Printing](https://www.microcenter.com/category/4294898920/3d-printing)
             * [Keyboards](https://www.microcenter.com/category/4294966800/keyboards)
             * [Mice](https://www.microcenter.com/category/4294966799/mice)
+            * [3D Printing](https://www.microcenter.com/category/4294898920/3d-printing)
+            * [Printers](https://www.microcenter.com/category/4294966830/printers)
             * [Scanners](https://www.microcenter.com/category/4294966824/scanners)
             * [Projectors](https://www.microcenter.com/category/4294966833/projectors)
-        * #### Business Solutions
+            * [Monitors](https://www.microcenter.com/category/4294966896/computer-monitors)
+        * Business Solutions
             
             * [All Business Products](https://www.microcenter.com/site/products/smb-technology.aspx)
             * [All Workstations](https://www.microcenter.com/site/products/workstation-computers.aspx)
@@ -304,61 +409,63 @@ Product category, brand navigation and general site naviation
             * [Laptop Workstations](https://www.microcenter.com/category/4294967288,4294807480/laptop-workstations)
             * [Networking](https://www.microcenter.com/category/4294966707/networking)
             * [Servers](https://www.microcenter.com/site/products/servers.aspx)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View Desktops](https://www.microcenter.com/site/products/desktop-computers.aspx)
             * [View Laptops](https://www.microcenter.com/site/products/laptops-notebooks.aspx)
             * [View Computer Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
             * [Explore AI PCs](https://www.microcenter.com/site/content/ai-pcs.aspx)
-            * [View All](https://www.microcenter.com/site/products/computers.aspx)
+            * [View All Computers](https://www.microcenter.com/site/products/computers.aspx)
+            * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
         
     * Apple
         
-        ### Apple options - 7 groups of items - 21 total selections
+        Apple options - 7 groups of items - 22 total selections
         
-        * #### Mac
+        * Mac
             
             * [MacBook Air](https://www.microcenter.com/category/4294967288,4294820432,4294816489/macbook-air)
             * [MacBook Pro](https://www.microcenter.com/category/4294967288,4294820432,4294820039/macbook-pro)
             * [Mac Mini](https://www.microcenter.com/category/4294967292,4294819353,4294815886/mac-mini)
             * [iMac](https://www.microcenter.com/category/4294967292,4294819353,4294818866,4294812729/imac)
-        * #### iPad
+        * iPad
             
             * [iPad](https://www.microcenter.com/category/4294954919,4294810035/ipad)
             * [iPad Air](https://www.microcenter.com/category/4294954919,4294810034/ipad-air)
             * [iPad Pro](https://www.microcenter.com/category/4294954919,4294810038/ipad-pro)
             * [iPad Mini](https://www.microcenter.com/category/4294954919,4294810040/ipad-mini)
-        * #### Hardware & Accessories
+        * Hardware & Accessories
             
             * [Mac Hardware](https://www.microcenter.com/category/4294967082/mac-hardware)
             * [Mac Accessories](https://www.microcenter.com/category/4294964321/mac-accessories)
             * [iPad Accessories](https://www.microcenter.com/category/4294821562,4294822454,4294899875/ipad-accessories)
             * [AirPod Accessories](https://www.microcenter.com/category/4294966697,4294807654/airpod-accessories)
-        * #### Audio
+        * Audio
             
             * [AirPods](https://www.microcenter.com/category/4294966661,4294807650,4294807643,4294807648/airpods)
             * [Beats Audio](https://www.microcenter.com/category/4294966661,4294807652,4294807645,4294807647,4294807641/beats-audio)
             * [HomePod](https://www.microcenter.com/category/4294966669,4294821562/homepod)
-        * #### Apple Watch
+        * Apple Watch
             
             * [Apple Watch](https://www.microcenter.com/category/4294857880,4294816352/apple-watch)
             * [Apple Watch Accessories](https://www.microcenter.com/category/4294857880,4294804373/apple-watch-accessories)
-        * #### Apple iPhones
+        * Apple iPhones
             
             * [iPhone](https://www.microcenter.com/category/4294939905,4294819081/iphone)
             * [iPhone Cases](https://www.microcenter.com/category/4294954977/iphone-cases)
             * [iPhone Accessories](https://www.microcenter.com/category/4294954976/iphone-accessories)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View All Apple Products](https://www.microcenter.com/site/brands/apple-showcase.aspx)
+            * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
         
         Savings on [Apple Laptops](https://www.microcenter.com/search/search_results.aspx?N=4294967288+4294820432)
         
     * Electronics
         
-        ### Electronics options - 12 groups of items - 63 total selections
+        Electronics options - 12 groups of items - 65 total selections
         
-        * #### Televisions
+        * Televisions
             
             * [59" and Smaller TVs](https://www.microcenter.com/category/4294966895,107,108,109,110/59-and-smaller-tvs)
             * [60" and Larger TVs](https://www.microcenter.com/category/4294966895,111/60-and-larger-tvs)
@@ -367,7 +474,7 @@ Product category, brand navigation and general site naviation
             * [Refurbished TVs](https://www.microcenter.com/category/4294966895,519/refurbished-tvs)
             * [All Televisions](https://www.microcenter.com/site/products/tvs.aspx)
             * [TV Mounts & Stands](https://www.microcenter.com/category/4294966837,4294803516,4294803515/tv-mounts-and-stands)
-        * #### Monitors
+        * Monitors
             
             * [Gaming Monitors](https://www.microcenter.com/category/4294966896,4294819462/gaming-monitors)
             * [2K Monitors](https://www.microcenter.com/category/4294966896,4294806820/2k-monitors)
@@ -375,20 +482,21 @@ Product category, brand navigation and general site naviation
             * [Curved Screen Monitors](https://www.microcenter.com/category/4294966896,4294818215/curved-monitor)
             * [All Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
             * [Monitor Mounts & Stands](https://www.microcenter.com/category/4294966837,4294803511,4294803514/monitor-mounts-and-stands)
-        * #### Photography & Imaging
+        * Photography & Imaging
             
-            * [DSLR Cameras](https://www.microcenter.com/category/4294966816,4294802750/dslr-camera)
+            * [Mirrorless Cameras](https://www.microcenter.com/category/4294966816,4294802750/dslr-camera)
             * [Video Cameras](https://www.microcenter.com/category/4294966816,4294802772/video-cameras)
             * [Digital Cameras](https://www.microcenter.com/category/4294966816,4294802743/digital-cameras)
             * [Camera Accessories](https://www.microcenter.com/category/4294966814/camera-accessories)
-        * #### Cell Phones & Accessories
+            * [Digital Picture Frames](https://www.microcenter.com/category/4294804340/digital-picture-frames)
+        * Cell Phones & Accessories
             
             * [Cell Phones](https://www.microcenter.com/category/4294939905/cell-phones)
             * [Cell Phone Accessories](https://www.microcenter.com/category/4294966751/cell-phone-accessories)
             * [Cell Phone Plans](https://www.microcenter.com/category/4294939917/cell-phone-plans)
             * [iPhones](https://www.microcenter.com/category/4294939905,4294819081/iphones)
             * [iPhone Accessories](https://www.microcenter.com/category/4294954976/iphone-accessories)
-        * #### Portable Electronics
+        * Portable Electronics
             
             * [MP3/MP4 Players](https://www.microcenter.com/category/4294966784/mp3-mp4-players)
             * [iPod/MP3 Accessories](https://www.microcenter.com/category/4294966778/ipod-mp3-accessories)
@@ -396,7 +504,7 @@ Product category, brand navigation and general site naviation
             * [GPS & Radios](https://www.microcenter.com/category/4294966649/gps-satellite-radio)
             * [Cordless/Conference Phones](https://www.microcenter.com/category/4294966667/cordless-conference-phones)
             * [Wearable Technology](https://www.microcenter.com/category/4294857880,4294817749/smart-watch)
-        * #### Home Theater
+        * Home Theater
             
             * [Home Theater Systems](https://www.microcenter.com/category/4294964309/home-theater-systems)
             * [DVD & Blu-ray Players](https://www.microcenter.com/category/4294964308/dvd-blu-ray-players)
@@ -407,12 +515,12 @@ Product category, brand navigation and general site naviation
             * [Universal Remote Controls](https://www.microcenter.com/category/4294966676/universal-remote-controls)
             * [Wireless Speakers](https://www.microcenter.com/category/4294964306/wireless-speakers)
             * [Speaker Mounts & Stands](https://www.microcenter.com/category/4294966837,4294803510,4294803513/speaker-mounts-and-stands)
-        * #### Flash Memory & Card Readers
+        * Flash Memory & Card Readers
             
             * [USB Flash Drives](https://www.microcenter.com/category/4294966790/usb-flash-drives)
             * [Flash Memory](https://www.microcenter.com/category/4294966791/flash-memory)
             * [Memory Card Readers](https://www.microcenter.com/category/4294966789/memory-card-readers)
-        * #### Security & Home Automation
+        * Security & Home Automation
             
             * [All Security/Home Automation](https://www.microcenter.com/site/products/home_automation.aspx)
             * [Home Automation](https://www.microcenter.com/category/4294966669/home-automation)
@@ -420,14 +528,14 @@ Product category, brand navigation and general site naviation
             * [Security Kits](https://www.microcenter.com/category/4294966672/security-kits)
             * [Security Accessories](https://www.microcenter.com/category/4294966670/security-accessories)
             * [Personal Security Products](https://www.microcenter.com/category/4294966671/personal-security-products)
-        * #### Headphones, Speakers & Microphones
+        * Headphones, Speakers & Microphones
             
             * [Computer Speakers](https://www.microcenter.com/category/4294966662/computer-speakers)
             * [Portable Speakers](https://www.microcenter.com/category/4294966663/portable-speakers)
             * [Headphones & Earbuds](https://www.microcenter.com/category/4294966661/headphones-and-earbuds)
             * [Microphones & Accessories](https://www.microcenter.com/category/4294966660/microphones-and-accessories)
             * [Music & Recording Devices](https://www.microcenter.com/category/4294966659/music-recording-devices)
-        * #### Maker/STEM
+        * Maker/STEM
             
             * [Boards/Projects](https://www.microcenter.com/category/4294910344/boards-projects)
             * [Quadcopters & Drones](https://www.microcenter.com/site/products/drones.aspx)
@@ -437,46 +545,47 @@ Product category, brand navigation and general site naviation
             * [Electronic Parts](https://www.microcenter.com/category/4294939902/electronic-parts)
             * [Tools & Supplies](https://www.microcenter.com/category/4294913877/tools-supplies)
             * [DIY Arcade Cabinets & Retro Gaming](https://www.microcenter.com/category/4294811805/view-all-diy-arcade-gaming)
-        * #### Webcams & Video Capture
+        * Webcams & Video Capture
             
             * [Webcams](https://www.microcenter.com/category/4294966765/webcams)
             * [Video Capture](https://www.microcenter.com/category/4294966764/video-capture)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View All Electronics](https://www.microcenter.com/site/products/electronics.aspx)
             * [Creator Studio Builder](https://www.microcenter.com/site/content/creator-studio-landing.aspx)
+            * [All Cameras & Accessories](https://www.microcenter.com/site/products/cameras-camcorders.aspx)
         
         [Personalize your viewing options. **Cut the Cord!**](https://www.microcenter.com/site/content/CUTtheCORD.aspx)
         
     * Maker/STEM
         
-        ### Maker/STEM options - 5 groups of items - 19 total selections
+        Maker/STEM options - 5 groups of items - 19 total selections
         
-        * #### 3D Printing
+        * 3D Printing
             
             * [All 3D Printing](https://www.microcenter.com/site/products/3d-printing.aspx)
             * [3D Printers](https://www.microcenter.com/category/4294828445/3d-printers)
             * [Filaments & Resins](https://www.microcenter.com/category/4294866996/filaments-and-resins)
             * [3D Printer Tools](https://www.microcenter.com/category/4294828446,4294819530/3d-printer-tools)
             * [Parts & Accessories](https://www.microcenter.com/category/4294828446/parts-and-accessories)
-        * #### Boards & Projects
+        * Boards & Projects
             
             * [Raspberry Pi](https://www.microcenter.com/category/4294910344,4294819333/raspberry-pi)
             * [Starter Kits](https://www.microcenter.com/category/4294910344,4294818915/starter-kits)
             * [Maker Boards](https://www.microcenter.com/category/4294910344,4294820231,4294820107/maker-boards)
             * [Hats & Add-Ons](https://www.microcenter.com/category/4294910344,4294820227,4294820229/hats-and-add-ons)
-        * #### Electronics
+        * Electronics
             
             * [Electronic Components](https://www.microcenter.com/category/4294910343/electronic-components)
             * [Electronic Parts](https://www.microcenter.com/category/4294939902/electronic-parts)
             * [Tools & Supplies](https://www.microcenter.com/category/4294913877/tools-supplies)
-        * #### DIY Arcade Cabinets & Retro Gaming
+        * DIY Arcade Cabinets & Retro Gaming
             
             * [Full Arcade Kits](https://www.microcenter.com/category/4294811805,4294808803/full-arcade-kits)
             * [Cabinets Only](https://www.microcenter.com/category/4294811805,4294808802/cabinets-only)
             * [Cabinet Parts](https://www.microcenter.com/category/4294811805,4294808806/cabinet-parts)
             * [Controllers](https://www.microcenter.com/category/4294811805,4294808804/controllers)
-        * #### Quadcopters & Drones
+        * Quadcopters & Drones
             
             * [Aerial Imaging Platform](https://www.microcenter.com/category/4294938937,46,44,43,24,45/aerial-imaging-platform)
             * [Recreational Drones](https://www.microcenter.com/category/4294938937,4294817842/recreational-drones)
@@ -484,14 +593,14 @@ Product category, brand navigation and general site naviation
         
     * 3D Printing
         
-        ### 3D Printing options - 2 groups of items - 6 total selections
+        3D Printing options - 2 groups of items - 6 total selections
         
-        * #### 3D Printing
+        * 3D Printing
             
             * [All 3D Printing](https://www.microcenter.com/site/products/3d-printing.aspx)
             * [3D Printers](https://www.microcenter.com/category/4294828445,4294803639/3d-printers)
             * [Cutters & Engravers](https://www.microcenter.com/category/4294828445,4294803636/cutters-and-engravers)
-        * #### Accessories
+        * Accessories
             
             * [Filaments & Resins](https://www.microcenter.com/category/4294866996/filaments-and-resins)
             * [3D Printer Tools](https://www.microcenter.com/category/4294828446,4294819530/3d-printer-tools)
@@ -499,9 +608,9 @@ Product category, brand navigation and general site naviation
         
     * Networking
         
-        ### Networking options - 6 groups of items - 28 total selections
+        Networking options - 6 groups of items - 27 total selections
         
-        * #### Wireless Networking
+        * Wireless Networking
             
             * [All Wireless Networking](https://www.microcenter.com/category/4294966877/wireless-networking)
             * [Wireless Routers](https://www.microcenter.com/category/4294966869/wireless-routers)
@@ -511,19 +620,19 @@ Product category, brand navigation and general site naviation
             * [Antennas & Signal Boosters](https://www.microcenter.com/category/4294966876/antennas-and-signal-boosters)
             * [Bluetooth Adapters](https://www.microcenter.com/category/4294966875/bluetooth-adapters)
             * [Bridges & Print Servers](https://www.microcenter.com/category/4294966874/bridges-and-print-servers)
-        * #### Wired Networking
+        * Wired Networking
             
             * [Wired Routers](https://www.microcenter.com/category/4294966883/wired-routers)
             * [Wired Network Adapters](https://www.microcenter.com/category/4294966885/wired-network-adapters)
             * [Network Switches](https://www.microcenter.com/category/4294966884/network-switches)
             * [Powerline Networking](https://www.microcenter.com/category/4294966880/powerline-networking)
             * [Power Over Ethernet](https://www.microcenter.com/category/4294966879/power-over-ethernet)
-        * #### Servers & NAS
+        * Servers & NAS
             
             * [Servers](https://www.microcenter.com/category/4294967292,4294819439/servers)
             * [Network Attached Storage](https://www.microcenter.com/category/4294945770/network-attached-storage)
             * [NAS Enclosures](https://www.microcenter.com/category/4294945770,4294820821/nas-enclosures)
-        * #### Networking Accessories
+        * Networking Accessories
             
             * [Ethernet Cables](https://www.microcenter.com/category/4294966745/networking-cables)
             * [Keystones](https://www.microcenter.com/category/4294967290/keystones)
@@ -533,11 +642,10 @@ Product category, brand navigation and general site naviation
             * [Networking Tools](https://www.microcenter.com/category/4294964266/networking-tools)
             * [Network Test Equipment](https://www.microcenter.com/category/4294897215/network-test-equipment)
             * [Other Network Accessories](https://www.microcenter.com/category/4294897214/other-network-accessories)
-        * #### Modems
+        * Modems
             
             * [Broadband Modems](https://www.microcenter.com/category/4294966729/broadband-modems)
-            * [Dial-Up Modems](https://www.microcenter.com/category/4294966733/dial-up-modems)
-        * #### Explore More
+        * Explore More
             
             * [View All Networking Products](https://www.microcenter.com/site/products/all_networking.aspx)
             * [ASUS Router Finder](https://www.microcenter.com/site/content/ASUS_Router_Finder.aspx)
@@ -546,9 +654,9 @@ Product category, brand navigation and general site naviation
         
     * Accessories
         
-        ### Accessories options - 10 groups of items - 50 total selections
+        Accessories options - 10 groups of items - 50 total selections
         
-        * #### Cables & Switchboxes
+        * Cables & Switchboxes
             
             * [Audio/Video Cables](https://www.microcenter.com/category/4294966749/audio-video-cables)
             * [Ethernet Cables](https://www.microcenter.com/category/4294966745/networking-cables)
@@ -557,14 +665,14 @@ Product category, brand navigation and general site naviation
             * [Cable Adapters](https://www.microcenter.com/category/4294967007/cable-adapters)
             * [KVM Switches & Cables](https://www.microcenter.com/category/4294967006/kvm-switches-and-cables)
             * [USB Hubs & Switchboxes](https://www.microcenter.com/category/4294967003/usb-hubs-and-switchboxes)
-        * #### Keyboards, Mice & Tablets
+        * Keyboards, Mice & Tablets
             
             * [Keyboards](https://www.microcenter.com/category/4294966800/keyboards)
             * [Mice](https://www.microcenter.com/category/4294966799/mice)
             * [Graphics Tablets](https://www.microcenter.com/category/4294966846/graphics-tablets)
             * [Presentation & Laser Pointers](https://www.microcenter.com/category/4294966845/presentation-and-laser-pointers)
             * [Mouse Pads & Wrist Rests](https://www.microcenter.com/category/4294961531/mouse-pads-and-wrist-rests)
-        * #### Carrying Cases
+        * Carrying Cases
             
             * [Laptop Cases](https://www.microcenter.com/category/4294964272/laptop-cases)
             * [Mac Laptop Cases](https://www.microcenter.com/category/4294966700/mac-laptop-cases)
@@ -572,7 +680,7 @@ Product category, brand navigation and general site naviation
             * [iPhone Cases](https://www.microcenter.com/category/4294944611/iphone-cases)
             * [Camera Cases](https://www.microcenter.com/category/4294966698/camera-cases)
             * [Peripheral Cases](https://www.microcenter.com/category/4294966697/peripheral-cases)
-        * #### Power & Protection
+        * Power & Protection
             
             * [AC Adapters & Power Inverters](https://www.microcenter.com/category/4294966639/ac-adapters-and-power-inverters)
             * [Surge Protectors](https://www.microcenter.com/category/4294966642/surge-protectors)
@@ -580,20 +688,20 @@ Product category, brand navigation and general site naviation
             * [Outlet Strips](https://www.microcenter.com/category/4294966641/outlet-strips)
             * [UPS Replacement Batteries](https://www.microcenter.com/category/4294967041/ups-replacement-batteries)
             * [Batteries & Chargers](https://www.microcenter.com/site/products/batteries.aspx)
-        * #### CD/DVD/Blu-ray Media
+        * CD/DVD/Blu-ray Media
             
             * [Blu-ray Media](https://www.microcenter.com/category/4294961470,4294810110/blu-ray-media)
             * [DVD Media](https://www.microcenter.com/category/4294961470,4294810112/dvd-media)
             * [CD Media](https://www.microcenter.com/category/4294961470,4294810113/cd-media)
             * [CD/DVD Storage & Cases](https://www.microcenter.com/category/4294961532/cd-dvd-storage-and-cases)
-        * #### Ink & Toner
+        * Ink & Toner
             
             * [Ink & Toner Finder](https://www.microcenter.com/site/products/ink-toner.aspx)
             * [Inkjet Cartridges](https://www.microcenter.com/category/4294961535/inkjet-cartridges)
             * [Laser Toners](https://www.microcenter.com/category/4294961537/toner-cartridges)
             * [Laser Printer Drum Kits](https://www.microcenter.com/category/4294961536/laser-printer-drum-kits)
             * [Printer Ribbons](https://www.microcenter.com/category/4294961534/printer-ribbons)
-        * #### Office & Home
+        * Office & Home
             
             * [Office Supplies](https://www.microcenter.com/category/4294967116/office-supplies)
             * [Paper & Card Stock](https://www.microcenter.com/category/4294967186/paper-and-card-stock)
@@ -605,17 +713,17 @@ Product category, brand navigation and general site naviation
             * [Light Bulbs](https://www.microcenter.com/category/4294967127/light-bulbs)
             * [Shredders](https://www.microcenter.com/category/4294967242/shredders)
             * [Weather Stations & Clocks](https://www.microcenter.com/category/4294966913/weather-stations-and-clocks)
-        * #### Cable Management
+        * Cable Management
             
             * [Cable Management](https://www.microcenter.com/category/4294967289/cable-management)
             * [Keystones](https://www.microcenter.com/category/4294967290/keystones)
             * [Wall Plates](https://www.microcenter.com/category/4294964257/wall-plates)
             * [Patch Panels](https://www.microcenter.com/category/4294966678/patch-panels)
-        * #### Refreshments & Gadgets
+        * Refreshments & Gadgets
             
             * [Refreshments](https://www.microcenter.com/category/4294964255/refreshments)
             * [Gadgets & Toys](https://www.microcenter.com/category/4294966665/gadgets-and-toys)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View All Accessories](https://www.microcenter.com/site/products/accessories.aspx)
         
@@ -623,9 +731,9 @@ Product category, brand navigation and general site naviation
         
     * Gaming & Software
         
-        ### Gaming & Software options - 11 groups of items - 38 total selections
+        Gaming & Software options - 11 groups of items - 38 total selections
         
-        * #### PC & Mac Gaming
+        * PC & Mac Gaming
             
             * [PC & Mac Games](https://www.microcenter.com/category/4294803047/pc-and-mac-games)
             * [Gaming Keyboards](https://www.microcenter.com/category/4294803044/gaming-keyboards)
@@ -635,54 +743,54 @@ Product category, brand navigation and general site naviation
             * [Miscellaneous Gaming](https://www.microcenter.com/category/4294803151/miscellaneous-gaming)
             * [Gaming Mouse Pads](https://www.microcenter.com/category/4294803042/gaming-mouse-pads)
             * [Game Cards](https://www.microcenter.com/category/4294803048/game-cards)
-        * #### Gaming Computers
+        * Gaming Computers
             
             * [Gaming PCs](https://www.microcenter.com/site/products/gaming_desktops.aspx)
             * [Gaming Laptops](https://www.microcenter.com/site/products/gaming-laptops.aspx)
-        * #### Gaming Furniture
+        * Gaming Furniture
             
             * [Gaming Chairs & Accessories](https://www.microcenter.com/category/4294967117/gaming-chairs-and-accessories)
             * [Gaming Desks & Accessories](https://www.microcenter.com/category/4294967118/gaming-desks-and-accessories)
-        * #### Console Gaming
+        * Console Gaming
             
             * [Xbox Gaming](https://www.microcenter.com/category/4294803081/xbox-gaming)
             * [PlayStation Gaming](https://www.microcenter.com/category/4294803085/playstation-gaming)
             * [Nintendo Gaming](https://www.microcenter.com/category/4294803150/nintendo-gaming)
             * [NVIDIA Shield](https://www.microcenter.com/category/4294936345,4294818647/nvidia-shield)
-        * #### VR Gaming
+        * VR Gaming
             
             * [Get VR Ready](https://www.microcenter.com/site/content/vrready.aspx)
             * [VR Ready Video Cards](https://www.microcenter.com/category/4294966937,4294819823/vr-ready-video-cards)
             * [VR Ready Systems](https://www.microcenter.com/category/4294964325,4294819823/vr-ready-systems)
             * [VR Headsets](https://www.microcenter.com/category/4294803013/vr-headsets)
-        * #### Racing Simulators
+        * Racing Simulators
             
             * [All Sim Racing](https://www.microcenter.com/site/products/racing-simulators.aspx)
             * [Racing Sim Builder](https://www.microcenter.com/site/content/racing-sim-builder.aspx)
             * [Sim Racing Rigs](https://www.microcenter.com/category/4294803070/sim-racing-rigs)
             * [Racing Wheels](https://www.microcenter.com/category/4294803045,4294806628/racing-wheels)
             * [Racing Pedals](https://www.microcenter.com/category/4294803045,4294806617/racing-pedals)
-        * #### DIY Arcade Gaming
+        * DIY Arcade Gaming
             
             * [View All DIY Arcade Gaming](https://www.microcenter.com/category/4294811805/view-all-diy-arcade-gaming)
-        * #### Business & Utilities
+        * Business & Utilities
             
             * [Operating Systems](https://www.microcenter.com/category/4294967276/operating-systems)
             * [Office Applications](https://www.microcenter.com/category/4294967278/office-applications)
             * [Utilities, Anti-virus, Security](https://www.microcenter.com/category/4294967277/utilities-anti-virus-security)
             * [Business & Legal](https://www.microcenter.com/category/4294966703/business-financial-legal)
             * [Graphics & Publishing](https://www.microcenter.com/category/4294967126/graphics-imaging-publishing)
-        * #### Home & Multimedia
+        * Home & Multimedia
             
             * [Video Editing](https://www.microcenter.com/category/4294967272/video-editing)
             * [MP3 & Music Recording](https://www.microcenter.com/category/4294966981/mp3-and-music-recording)
             * [Home Design, Landscaping](https://www.microcenter.com/category/4294967274/home-design-landscaping)
             * [Reference & Education](https://www.microcenter.com/category/4294966980/reference-and-education)
-        * #### Books & Movies
+        * Books & Movies
             
             * [Books](https://www.microcenter.com/category/4294966754/books)
             * [Game Guides](https://www.microcenter.com/category/4294967124/game-guides)
-        * #### Explore All Categories
+        * Explore All Categories
             
             * [View All Software](https://www.microcenter.com/site/products/software.aspx)
         
@@ -690,14 +798,14 @@ Product category, brand navigation and general site naviation
         
     * Laptop Batteries
         
-        ### Laptop Batteries options - 2 groups of items - 9 total selections
+        Laptop Batteries options - 2 groups of items - 9 total selections
         
-        * #### Replacement Services
+        * Replacement Services
             
             * [Laptop Battery Finder](https://www.microcenter.com/site/products/laptop-batteries.aspx)
             * [Battery Installation Service](https://www.microcenter.com/product/609479/laptop-battery-installation-service)
             * [Free Consultation Service](https://www.microcenter.com/product/653864/free-consultation)
-        * #### Replacement Batteries
+        * Replacement Batteries
             
             * [All Laptop Batteries](https://www.microcenter.com/site/products/all-laptop-batteries.aspx)
             * [Dell Laptop Batteries](https://www.microcenter.com/site/products/dell-laptop-battery.aspx)
@@ -708,9 +816,9 @@ Product category, brand navigation and general site naviation
         
     * Clearance
         
-        ### Clearance options - 2 groups of items - 18 total selections
+        Clearance options - 2 groups of items - 18 total selections
         
-        * #### Closeouts
+        * Closeouts
             
             * [Computers](https://www.microcenter.com/category/4294964325,518/computers)
             * [Apple](https://www.microcenter.com/category/4294821562,518/apple)
@@ -722,7 +830,7 @@ Product category, brand navigation and general site naviation
             * [Software](https://www.microcenter.com/category/4294967279,518/software)
             * [Books](https://www.microcenter.com/category/4294966754,518/books)
             * [View All Closeouts](https://www.microcenter.com/site/products/closeout.aspx)
-        * #### Open Box
+        * Open Box
             
             * [Computers](https://www.microcenter.com/search/search_results.aspx?N=4294964325&prt=clearance)
             * [Apple](https://www.microcenter.com/search/search_results.aspx?N=4294967167&prt=clearance)
@@ -735,9 +843,9 @@ Product category, brand navigation and general site naviation
         
     * Refurbished
         
-        ### Refurbished options - 1 groups of items - 11 total selections
+        Refurbished options - 1 groups of items - 11 total selections
         
-        * #### Refurbished
+        * Refurbished
             
             * [Desktops](https://www.microcenter.com/category/4294967292,519/refurbished-desktops)
             * [Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
@@ -753,9 +861,9 @@ Product category, brand navigation and general site naviation
         
     * Brands
         
-        ### Brands options - 2 groups of items - 24 total selections
+        Brands options - 2 groups of items - 24 total selections
         
-        * #### A - M
+        * A - M
             
             * [Acer](https://www.microcenter.com/site/brands/acer.aspx)
             * [AMD](https://www.microcenter.com/site/brands/amd-showcase.aspx)
@@ -772,7 +880,7 @@ Product category, brand navigation and general site naviation
             * [LG](https://www.microcenter.com/site/brands/lg-showcase.aspx)
             * [LianLi](https://www.microcenter.com/site/brands/lian-li.aspx)
             * [Linksys](https://www.microcenter.com/site/brands/linksys.aspx)
-        * #### N - Z
+        * N - Z
             
             * [NETGEAR](https://www.microcenter.com/site/brands/netgear.aspx)
             * [NVIDIA](https://www.microcenter.com/site/brands/nvidia-store.aspx)
@@ -786,38 +894,39 @@ Product category, brand navigation and general site naviation
         
     * Services
         
-        ### Services options - 5 groups of items - 14 total selections
+        Services options - 5 groups of items - 15 total selections
         
-        * #### Troubleshooting & Repair
+        * Troubleshooting & Repair
             
-            * [PC Problem Diagnosis](https://www.microcenter.com/site/service/computer-diagnostics.aspx)
-            * [PC Hardware Repair](https://www.microcenter.com/site/service/instore-service-diagnostics.aspx)
+            * [Free Repair Consultation](https://www.microcenter.com/site/service/computer-diagnostics.aspx)
             * [Laptop Screen Repair](https://www.microcenter.com/product/607202/laptop-screen-repair-service)
             * [Laptop Battery Replacement](https://www.microcenter.com/site/products/laptop-batteries.aspx)
-            * [Apple Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
-        * #### Custom PC Build & Upgrade
+            * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
+            * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
+        * Custom Builds & Upgrades
             
-            * [Custom PC Build Services](https://www.microcenter.com/site/service/instore-custom-pc-build-services.aspx)
-            * [PC Upgrades & Installation](https://www.microcenter.com/site/service/computer-hardware-installation.aspx)
-        * #### Software Services
+            * [Custom PC Build Services](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
+            * [GPU Trade-In Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
+        * Software Services
             
             * [Data Migration & Software Support](https://www.microcenter.com/site/service/software-support.aspx)
             * [Data Backup & Recovery](https://www.microcenter.com/site/service/instore-service-hdd-data-recovery.aspx)
-        * #### Technical Support
+            * [Virus Removal](https://www.microcenter.com/site/service/instore-service-virus-removal.aspx)
+        * Technical Support
             
             * [Tech Support](https://www.microcenter.com/site/content/tech-support.aspx)
             * [Technical Support Forum](https://community.microcenter.com/)
             * [Knowledge Base](https://community.microcenter.com/kb/help)
             * [Service FAQs](https://www.microcenter.com/site/service/service.aspx#faq)
-        * #### Service Status
+        * Service Status
             
-            * [Check Your Service Status](https://www.microcenter.com/site/service/repair-order.aspx)
+            * [Check Repair Status](https://www.microcenter.com/site/service/repair-order.aspx)
         
     * Micro Center News
         
-        ### Micro Center News options - 4 groups of items - 25 total selections
+        Micro Center News options - 4 groups of items - 25 total selections
         
-        * #### Micro Center News
+        * Micro Center News
             
             * [MC News Home](https://www.microcenter.com/site/mc-news/default.aspx)
             * [News](https://www.microcenter.com/site/mc-news/category/news.aspx)
@@ -828,7 +937,7 @@ Product category, brand navigation and general site naviation
             * [Maker Projects](https://www.microcenter.com/site/mc-news/category/maker-projects.aspx)
             * [PC Build Guides](https://www.microcenter.com/site/mc-news/category/pc-build-guides.aspx)
             * [PC Build Showcase](https://www.microcenter.com/site/mc-news/category/pc-build-showcase.aspx)
-        * #### Community Forums
+        * Community Forums
             
             * [Community Home](https://community.microcenter.com/)
             * [Join our Community](https://account.microcenter.com/auth/access?RedirectURL=https%3A%2F%2Fcommunity.microcenter.com%2Fsso%3Ftarget%3Dhttps%253A%252F%252Fcommunity.microcenter.com%252F)
@@ -838,14 +947,14 @@ Product category, brand navigation and general site naviation
             * [CPUs, Memory, and Motherboards](https://community.microcenter.com/categories/cpu-s-memory-and-motherboards)
             * [Consumer Tech](https://community.microcenter.com/categories/consumer-tech)
             * [PowerSpec](https://community.microcenter.com/categories/powerspec)
-        * #### Resources and Support
+        * Resources and Support
             
             * [Customer Support Articles](https://community.microcenter.com/kb)
             * [Store Information Articles](https://community.microcenter.com/kb/categories/2-store-information)
             * [Product Support Articles](https://community.microcenter.com/kb/categories/5-product-information)
             * [Service and Support Articles](https://community.microcenter.com/kb/categories/3-service-and-support)
             * [Store Policy Questions](https://community.microcenter.com/categories/store-information-and-policy)
-        * #### PC Build Showcase
+        * PC Build Showcase
             
             * [See Completed Builds](https://www.microcenter.com/search/builds.aspx)
             * [Add Your Completed Build](https://www.microcenter.com/site/content/create-build.aspx)
@@ -853,39 +962,39 @@ Product category, brand navigation and general site naviation
         
     * Help
         
-        ### Help options - 5 groups of items - 17 total selections
+        Help options - 5 groups of items - 17 total selections
         
-        * #### Help
+        * Help
             
             * [Help Center](https://www.microcenter.com/site/customer-support/help-center.aspx)
             * [Store Information & Policy Questions](https://community.microcenter.com/categories/store-information-and-policy)
             * [Community Forum](https://community.microcenter.com/)
             * [Knowledge Base](https://community.microcenter.com/kb/help)
-        * #### Store Information
+        * Store Information
             
             * [Hours & Directions](https://www.microcenter.com/site/stores/default.aspx)
             * [Checking Items in Stock](https://community.microcenter.com/kb/articles/21-is-an-item-in-stock)
             * [Check Order Status](https://community.microcenter.com/kb/articles/23-whats-my-order-status)
             * [Cancel a Reservation](https://community.microcenter.com/kb/articles/18-can-i-cancel-my-in-store-pickup-reservation)
-        * #### Your Account
+        * Your Account
             
             * [Account](https://account.microcenter.com/account/dashboard)
             * [Favorites & Lists](https://account.microcenter.com/account/favorites)
             * [Settings](https://account.microcenter.com/account/settings)
             * [Orders](https://account.microcenter.com/account/orders)
             * [Returns](https://account.microcenter.com/account/orders)
-        * #### Product Information
+        * Product Information
             
             * [Return Policy](https://community.microcenter.com/kb/articles/28-what-is-the-return-policy)
             * [Rebate Center](https://www.microcenter.com/site/rebate-center/default.aspx)
-        * #### Service & Repairs
+        * Service & Repairs
             
             * [Schedule an Appointment](https://service.microcenter.com/ServiceRepairSignUp/Reservation/Create)
             * [List of Services](https://www.microcenter.com/site/service/service.aspx)
         
     * [Account Sign in](https://account.microcenter.com/members/account.aspx)
 * [Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
-    * [Back to School Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
+    * [Clearance Sale](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
     * [PC Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
     * [Processors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
     * [SSDs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294945779)
@@ -909,6 +1018,7 @@ Product category, brand navigation and general site naviation
     * [Computer Cases](https://www.microcenter.com/site/products/computer-cases.aspx)
     * [Power Supplies](https://www.microcenter.com/site/products/power-supplies.aspx)
     * [Air & Water Cooling](https://www.microcenter.com/site/products/cpu-coolers.aspx)
+    * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
 * [Computers](https://www.microcenter.com/site/products/computers.aspx)
     * [Desktop Computers](https://www.microcenter.com/site/products/desktop-computers.aspx)
     * [Laptops/Notebooks](https://www.microcenter.com/site/products/laptops-notebooks.aspx)
@@ -917,6 +1027,7 @@ Product category, brand navigation and general site naviation
     * [Servers](https://www.microcenter.com/site/products/servers.aspx)
     * [Computer Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
     * [Explore AI PCs](https://www.microcenter.com/site/content/ai-pcs.aspx)
+    * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
 * [Apple](https://www.microcenter.com/site/brands/apple-showcase.aspx)
     * [MacBook](https://www.microcenter.com/category/4294967288,4294820432/macbook)
     * [Mac Desktops](https://www.microcenter.com/category/4294967292,4294819353/apple-imac-mac-mini-and-mac-pro)
@@ -925,15 +1036,16 @@ Product category, brand navigation and general site naviation
     * [AirPods](https://www.microcenter.com/category/4294966661,4294807650/airpods)
     * [Beats](https://www.microcenter.com/category/4294966661,4294807652,4294807645,4294807647,4294807641/beats)
     * [Accessories](https://www.microcenter.com/category/4294964321,4294821562/accessories)
+    * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
 * [Services](https://www.microcenter.com/site/service/service.aspx)
+    * [Check Repair Status](https://www.microcenter.com/site/service/repair-order.aspx)
     * [Schedule Service](https://www.microcenter.com/product/653864/free-consultation)
-    * [All Service and Repair](https://www.microcenter.com/site/service/service.aspx)
+    * [All Service & Repair](https://www.microcenter.com/site/service/service.aspx)
     * [Computer Repair](https://www.microcenter.com/site/service/computer-diagnostics.aspx)
-    * [Apple Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
     * [Laptop Battery Replacement](https://www.microcenter.com/site/products/laptop-batteries.aspx)
     * [Laptop Screen Replacement](https://www.microcenter.com/product/607202/laptop-screen-repair-service)
+    * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
     * [GPU Trade-in Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
-    * [Virus Removal](https://www.microcenter.com/site/service/instore-service-virus-removal.aspx)
     * [Data Recovery](https://www.microcenter.com/site/service/instore-service-hdd-data-recovery.aspx)
     * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
     * [Service FAQs](https://www.microcenter.com/site/service/service.aspx#faq)
@@ -943,7 +1055,6 @@ Product category, brand navigation and general site naviation
 [18 MINUTE IN-STORE PICKUP](https://www.microcenter.com/site/customer-support/pickup.aspx)
 
 Breadcrumbs
------------
 
 Your privacy is important
 =========================
