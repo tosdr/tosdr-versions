@@ -13,7 +13,8 @@
 * [Open Site Navigation Menu](#Header_mobile-menu-state__oeyIR)[Close Site Navigation Menu](#)
     
 
-* [Features](https://linear.app/features)
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
 * [Pricing](https://linear.app/pricing)
 * [Method](https://linear.app/method)
 * [Contact](https://linear.app/contact)
@@ -21,6 +22,7 @@
 * [About](https://linear.app/about)
 * [Changelog](https://linear.app/changelog)
 * [Blog](https://linear.app/blog)
+* [Security](https://linear.app/security)
 * [Integrations](https://linear.app/integrations)
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
@@ -376,7 +378,8 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Open Site Navigation Menu](#Header_mobile-menu-state__oeyIR)[Close Site Navigation Menu](#)
     
 
-* [Features](https://linear.app/features)
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
 * [Pricing](https://linear.app/pricing)
 * [Method](https://linear.app/method)
 * [Contact](https://linear.app/contact)
@@ -384,6 +387,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [About](https://linear.app/about)
 * [Changelog](https://linear.app/changelog)
 * [Blog](https://linear.app/blog)
+* [Security](https://linear.app/security)
 * [Integrations](https://linear.app/integrations)
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
@@ -407,7 +411,8 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [Open Site Navigation Menu](#Header_mobile-menu-state__oeyIR)[Close Site Navigation Menu](#)
 
-* [Features](https://linear.app/features)
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
 * [Pricing](https://linear.app/pricing)
 * [Method](https://linear.app/method)
 * [Contact](https://linear.app/contact)
@@ -415,13 +420,15 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [About](https://linear.app/about)
 * [Changelog](https://linear.app/changelog)
 * [Blog](https://linear.app/blog)
+* [Security](https://linear.app/security)
 * [Integrations](https://linear.app/integrations)
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
 
 [](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
-* [Features](https://linear.app/features)
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
 * [Pricing](https://linear.app/pricing)
 * [Method](https://linear.app/method)
 * [Contact](https://linear.app/contact)
@@ -429,6 +436,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [About](https://linear.app/about)
 * [Changelog](https://linear.app/changelog)
 * [Blog](https://linear.app/blog)
+* [Security](https://linear.app/security)
 * [Integrations](https://linear.app/integrations)
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
