@@ -1,46 +1,47 @@
 [Skip to content](#main-content)
 
-Toggle navigation Menu [National Center on Improving Literacy ![Home](https://improvingliteracy.org/code-assets/images/NCIL-Logo.png)](https://improvingliteracy.org/ "Home") 
+Toggle navigation Menu [National Center on Improving Literacy ![Home](https://www.improvingliteracy.org/code-assets/images/NCIL-Logo.png)](https://www.improvingliteracy.org/ "Home") 
 
-* [For Parents & Families](https://improvingliteracy.org/family/index.html)
-* [For Schools & Districts](https://improvingliteracy.org/school/index.html)
-* [For State Agencies](https://improvingliteracy.org/state/index.html)
-* [Tools & Resources](https://improvingliteracy.org/tools/index.html)
-    * [Improving Literacy Briefs](https://improvingliteracy.org/brief/index.html)
+* [For Parents & Families](https://www.improvingliteracy.org/family/index.html)
+* [For Schools & Districts](https://www.improvingliteracy.org/school/index.html)
+* [For State Agencies](https://www.improvingliteracy.org/state/index.html)
+* [Tools & Resources](https://www.improvingliteracy.org/tools/index.html)
+    * [Improving Literacy Briefs](https://www.improvingliteracy.org/brief/index.html)
         
-        [Implementation Toolkits](https://improvingliteracy.org/kit/index.html)
+        [Implementation Toolkits](https://www.improvingliteracy.org/kit/index.html)
         
-        [MTSS-R Implementation Guide](https://improvingliteracy.org/guide/mtss-r-implementation-guide.html)
+        [MTSS-R Implementation Guide](https://www.improvingliteracy.org/guide/mtss-r-implementation-guide.html)
         
-        [Resource Repository](https://improvingliteracy.org/resource-repository/index.html)
+        [Resource Repository](https://www.improvingliteracy.org/resource-repository/index.html)
         
-        [State of Dyslexia](https://improvingliteracy.org/state-of-dyslexia/index.html)
+        [State of Dyslexia](https://www.improvingliteracy.org/state-of-dyslexia/index.html)
         
-        [Videos & Webinars](https://improvingliteracy.org/videos/index.html)
+        [Videos & Webinars](https://www.improvingliteracy.org/videos/index.html)
         
-        [Literacy Skill Checklist](https://improvingliteracy.org/checklist/index.html)
+        [Literacy Skill Checklist](https://www.improvingliteracy.org/checklist/index.html)
         
-        [Academic Screening Tools Chart Selector](https://improvingliteracy.org/screening-selector/index.html)
+        [Academic Screening Tools Chart Selector](https://www.improvingliteracy.org/screening-selector/index.html)
         
-        [Ask an Expert](https://improvingliteracy.org/ask-an-expert/index.html)
+        [Ask an Expert](https://www.improvingliteracy.org/ask-an-expert/index.html)
         
-        [Learning Literacy Glossary](https://improvingliteracy.org/glossary/index.html)
+        [Learning Literacy Glossary](https://www.improvingliteracy.org/glossary/index.html)
         
+* [Kidzone](https://www.improvingliteracy.org/kid-zone/index.html)
 
 * [](#page-top)
 * [Lead for Literacy](https://leadforliteracy.org/)
-* [News](https://improvingliteracy.org/news/index.html)
-* [About](https://improvingliteracy.org/about/index.html)
+* [News](https://www.improvingliteracy.org/news/index.html)
+* [About](https://www.improvingliteracy.org/about/index.html)
 * [TA](https://contact.improvingliteracy.org/targeted-technical-assistance-request/)
 * [Contact](https://contact.improvingliteracy.org/contact-form/)
-* [Site Search](https://improvingliteracy.org/search/index.html)
+* [Site Search](https://www.improvingliteracy.org/search/index.html)
 
 Terms and Conditions ("Terms")
 ==============================
 
 Last updated: 9/7/2023
 
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Website ([http://improvingliteracy.org](http://improvingliteracy.org/)) operated by the National Center on Improving Literacy (NCIL) ("us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Website ([https://www.improvingliteracy.org](https://www.improvingliteracy.org/)) operated by the National Center on Improving Literacy (NCIL) ("us", "we", or "our").
 
 Your access to and use of the Website is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Website.
 
@@ -49,7 +50,7 @@ Your access to and use of the Website is conditioned on your acceptance of and c
 Summary
 -------
 
-[![Go to CC BY-NC-ND 4.0 Summary](https://improvingliteracy.org/code-assets/images/Creative_commons.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Go to CC BY-NC-ND 4.0 Summary](https://www.improvingliteracy.org/code-assets/images/Creative_commons.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 NCIL's terms of use are based on Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International(CC BY-NC-ND 4.0). Read a [summary](https://creativecommons.org/licenses/by-nc-nd/4.0/) or the [full text](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) of the license for more information. Unless otherwise noted, all of the resources found on this Website are copyright by NCIL. Our modules, online tools and resources are freely available for use in college instruction, free professional development activities, and independent learning opportunities for practicing educators. They cannot be used, modified, published, or broadcast for the purpose of any for-profit activities. NCIL resources or the information, graphics, audio interviews, or video clips contained within them cannot be modified without the express written permission of the National Center on Improving Literacy. We reserve the right to alter or update these terms of use at any time. If you have questions, please [contact us](https://contact.improvingliteracy.org/contact-form/).
 
@@ -133,7 +134,7 @@ Our Website may contain links to third-party web sites or services that are not 
 
 We have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
-The National Center on Improving Literacy does not endorse individual vendors, products or services. See our [Endorsement Disclaimer](https://improvingliteracy.org/endorsement-disclaimer) for more information.
+The National Center on Improving Literacy does not endorse individual vendors, products or services. See our [Endorsement Disclaimer](https://www.improvingliteracy.org/endorsement-disclaimer) for more information.
 
 Changes
 -------
@@ -145,7 +146,7 @@ Contact Us
 
 If you have any questions about these Terms, please [contact us](https://contact.improvingliteracy.org/contact-form/).
 
-The research reported here is funded by awards to the National Center on Improving Literacy from the Office of Elementary and Secondary Education, in partnership with the Office of Special Education Programs (Award #: S283D160003). The opinions expressed are those of the authors and do not represent views of OESE, OSEP, or the U.S. Department of Education. Copyright © 2024 National Center on Improving Literacy. https://improvingliteracy.org
+The research reported here is funded by awards to the National Center on Improving Literacy from the Office of Elementary and Secondary Education, in partnership with the Office of Special Education Programs (Award #: S283D160003). The opinions expressed are those of the authors and do not represent views of OESE, OSEP, or the U.S. Department of Education. Copyright © 2024 National Center on Improving Literacy. https://www.improvingliteracy.org
 
 Contact Us
 ----------
@@ -161,7 +162,7 @@ The research reported here is funded by a grant to the National Center on Improv
 
 [Go to top](#page-top)
 
-Copyright © 2018 - 2024 National Center on Improving Literacy  [Terms and Conditions](https://improvingliteracy.org/index.html) | [Privacy Policy](https://improvingliteracy.org/privacy-policy/index.html) | [Accessibility](https://contact.improvingliteracy.org/accessibility-commitment/)
+Copyright © 2018 - 2024 National Center on Improving Literacy  [Terms and Conditions](https://improvingliteracy.org/index.html) | [Privacy Policy](https://www.improvingliteracy.org/privacy-policy/index.html) | [Accessibility](https://contact.improvingliteracy.org/accessibility-commitment/)
 
 ×
 
@@ -169,4 +170,4 @@ Copyright © 2018 - 2024 National Center on Improving Literacy  [Terms and Cond
 
 Close
 
-[![Feedback](https://improvingliteracy.org/sites/all/modules/feedback_simple/feedback_simple.gif)](https://improvingliteracy.org/feedback)
+[![Feedback](https://www.improvingliteracy.org/sites/all/modules/feedback_simple/feedback_simple.gif)](https://www.improvingliteracy.org/feedback)
