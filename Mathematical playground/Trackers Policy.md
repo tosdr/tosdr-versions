@@ -30,10 +30,6 @@ Email or UsernamePassword
 
 [New Account](https://mathigon.org/signup)     [Reset Password](https://mathigon.org/forgot)     Sign in
 
-Mathigon uses cookies to personalise and improve this website.
-
-Accept[Privacy Policy](https://amplify.com/customer-privacy)
-
 Policies
 ========
 
@@ -45,7 +41,7 @@ To report a security vulnerability, visit [amplify.com/report-a-vulnerability](h
 
 [Privacy Policy](https://amplify.com/customer-privacy) [Acceptable Use Policy](https://amplify.com/acceptable-use-policy)
 
-[About](https://mathigon.org/about)•[Tutorials and PD](https://mathigon.org/learn)•[Mobile Apps](https://mathigon.org/apps)•[For Teachers](https://mathigon.org/teachers)•[Gift Store](https://mathigon.org/store)•[Press](https://mathigon.org/press)
+[About](https://mathigon.org/about)•[Talks and Events](https://mathigon.org/learn)•[For Teachers](https://mathigon.org/teachers)•[Gift Store](https://mathigon.org/store)•[Press](https://mathigon.org/press)
 
 [FAQs](https://mathigon.org/faqs)•[Accessibility](https://mathigon.org/accessibility)•[Privacy Policy](https://amplify.com/customer-privacy)•[Acceptable Use Policy](https://amplify.com/acceptable-use-policy)
 
