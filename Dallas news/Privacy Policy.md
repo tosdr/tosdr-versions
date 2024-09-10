@@ -1,8 +1,10 @@
+![](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=50&width=50&smart=true&quality=80)
+
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
 3:37 PM on Aug 28, 2019 CDT — Updated at 12:49 PM on Mar 15, 2023 CDT
 
-![The Rock of Truth on the edifice of The Dallas Morning News' former home on Young Street. ](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/6RYGPE236E3FPMUJXSM6THEXZM.jpg?auth=17250f64f6714da7f9689419e4a797e6b5b997cfbf12cdd7d3a7a57a120b33e2&height=553&width=830&smart=true&quality=40)
+![The Rock of Truth on the edifice of The Dallas Morning News' former home on Young Street. ](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/6RYGPE236E3FPMUJXSM6THEXZM.jpg?auth=17250f64f6714da7f9689419e4a797e6b5b997cfbf12cdd7d3a7a57a120b33e2&height=553&width=830&smart=true&quality=80)
 
 The Rock of Truth on the edifice of The Dallas Morning News' former home on Young Street. (Irwin Thompson / Staff Photographer)
 
@@ -243,7 +245,7 @@ Do You Need Extra Help? If you would like this Policy in another format (for exa
 
 [](http://www.facebook.com/sharer/sharer.php?u=https://www.dallasnews.com/help/privacy-policy/&title=Privacy%20Policy "Share on Facebook")[](https://twitter.com/intent/tweet?text=Privacy%20Policy&url=https://www.dallasnews.com/help/privacy-policy/ "Share on Twitter")[](mailto:?subject=DallasNews.com%3A%20Privacy%20Policy&body=From%20The%20Dallas%20Morning%20News%3A%0A%0APrivacy%20Policy%0A%0Ahttps://www.dallasnews.com/help/privacy-policy/ "Share via Email")[](javascript:window.print() "Print")
 
-[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=140&width=140&smart=true&quality=40)](https://www.dallasnews.com/author/the-dallas-morning-news)
+[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=140&width=140&smart=true&quality=80)](https://www.dallasnews.com/author/the-dallas-morning-news)
 
 [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
