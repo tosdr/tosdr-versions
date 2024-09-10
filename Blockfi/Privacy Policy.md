@@ -353,6 +353,4 @@ BlockFi
 Resources
 
 [Fees](https://blockfi.com/fees)[Rates](https://blockfi.com/rates)  
-[Contact Us](https://blockfi.com/contact)  
-
-[Blog at WordPress.com.](https://wordpress.com/?ref=footer_blog)
+[Contact Us](https://blockfi.com/contact)
