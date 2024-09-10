@@ -120,11 +120,11 @@ RadioPublic may periodically update this Policy. We’ll notify you about signif
 
 We welcome questions, concerns, and feedback about this policy at legal@radiopublic.com.
 
-[Privacy](https://medium.com/tag/privacy?source=post_page-----549250c61572---------------privacy-----------------)
+[Privacy](https://medium.com/tag/privacy?source=post_page-----549250c61572--------------------------------)
 
-[Legal](https://medium.com/tag/legal?source=post_page-----549250c61572---------------legal-----------------)
+[Legal](https://medium.com/tag/legal?source=post_page-----549250c61572--------------------------------)
 
-[Radiopublic](https://medium.com/tag/radiopublic?source=post_page-----549250c61572---------------radiopublic-----------------)
+[Radiopublic](https://medium.com/tag/radiopublic?source=post_page-----549250c61572--------------------------------)
 
 [Some rights reserved](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
