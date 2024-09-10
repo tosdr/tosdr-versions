@@ -10,7 +10,7 @@ Helping people feel close to one another
 * [Our Story](https://www.marcopolo.me/our-story/ "Our Story")
 * [Community](#)
     
-    [Ambassador Program](https://www.marcopolo.me/ambassador-program)[Military](https://community.marcopolo.me/military)[Impact](https://community.marcopolo.me/impact)[Partnerships](https://joya-communications.typeform.com/to/N99UVVuL)[Bill of Rights](https://www.marcopolo.me/bill-of-rights)
+    [Ambassador Program](https://www.marcopolo.me/ambassador-program)[Military](https://community.marcopolo.me/military)[Business](https://community.marcopolo.me/business)[Partnerships](https://joya-communications.typeform.com/to/N99UVVuL)[Bill of Rights](https://www.marcopolo.me/bill-of-rights)
     
 * [Contact Us](https://www.marcopolo.me/contact-us/ "Contact Us")
 * [Support](https://support.marcopolo.me/ "Support")
@@ -50,9 +50,11 @@ Marco Polo uses mobile phone numbers as unique identifiers so that it is easy fo
 
 may see your name, photo, and birth day and month. Note that users who have you in their contacts will see you by the name they've saved and not by the name you provided to Marco Polo. For example, your spouse will still see you as "Love" when they use the App if that's how you appear in their phone's address book. If you choose to provide them, we collect your birth day and month so people you know get reminded when it's your birthday.
 
-##### [](#content-polo-messages-video-reactions-seconds--private-messages)Content: Polo Messages, Video Reactions, Seconds, & Private Messages
+##### [](#content)Content
 
-Marco Polo is a cloud service. We may collect and store the content you create, including video, voice, photo, and note messages (collectively, "Polo Messages" or "Polos"), video reactions within a Polo ("Video Reactions"), short video clips you share with selected contacts ("Seconds"), and video responses to a Sharecast ("Private Messages"). We may also generate transcripts and closed captions of your Polos or receive summaries of your Polos (we’ll call transcripts, closed captions, and summaries, “Polo text features”) unless you opt out of those features. We store this Personal Information on our servers so that you can access your data anytime from any of your devices that have the Marco Polo App without having to rely on third-party backups or use up your phone's memory. Our servers are located in the United States. Depending where you or people you are communicating with are located, data may travel through secure networks outside of the United States.
+Marco Polo is a cloud service. We may collect and store the content you create, including video, voice, photo, and note messages (collectively, "Polo Messages" or "Polos"), video reactions within a Polo ("Video Reactions"), short video clips you share with selected contacts ("Seconds"), and video responses to a Sharecast ("Private Messages"). If you submit responses to surveys we provide in the App or elsewhere, we may also collect and store your responses. We may also generate transcripts and closed captions of your Polos or receive summaries of your Polos (we’ll call transcripts, closed captions, and summaries, “Polo text features”) unless you opt out of those features.
+
+We store this Personal Information on our servers so that you can access your data anytime from any of your devices that have the Marco Polo App without having to rely on third-party backups or use up your phone's memory. Our servers are located in the United States. Depending where you or people you are communicating with are located, data may travel through secure networks outside of the United States.
 
 Polo Messages can be sent in one-on-one chats, groups, or Sharecasts.
 
@@ -197,7 +199,7 @@ We welcome your comments or questions about this Policy. You may contact us at [
 
 We may modify this Policy from time to time. If we make any changes, we will change the effective date below. We also may provide additional notice, as applicable, depending on the type of change.
 
-Effective date: July 1, 2024.
+Effective date: August 14, 2024.
 
 [![](/images/home/marcopolo-footer-icon.svg)![](/images/home/marcopolo-footer-text.svg)](https://www.marcopolo.me/ "Home")
 
