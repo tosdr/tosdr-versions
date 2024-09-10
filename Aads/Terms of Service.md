@@ -234,14 +234,28 @@ Collaborations
 Service
 
 * [Network Statistics](https://a-ads.com/statistics/)
-* [System Status](https://status.a-ads.com/en/)
-* [Help Center](https://help.a-ads.com/en/)
+* [System Status](https://status.aads.com/en/)
+* [Help Center](https://help.aads.com/en/)
 
 Company
 
 * [About Us](https://a-ads.com/about-us/)
 * [Our Team](https://a-ads.com/team/)
 * [Blog](https://a-ads.com/blog/)
+
+We accept Bank Card
+
+![](/assets/payment-9eb4631ef20ba0ba5d1491120b72f279b0fe9a6ed83bf9dfda8b76bfa508f53b.png)
+
+& Cryptocurrency payments
+
+![](/assets/payment-crypto-2-dbc5b8a5f29e9012fb22b77b0f18b18201bfa5bcca90c9ead0ac8e44e03d6d26.png) ![](/assets/payment-crypto-1-9d2b46437979b59f814a11b7ddab63e0528f8f72258ceb4755227e569818c4c4.png) ![](/assets/payment-crypto-ff9605bffb72da2917df3b9fdcefc7b59a01ec1ee9c02a19dcfaaa72d8e34ef7.png)
+
++16 more BNB, BTC, BCH, BUSD, DASH, DOGE, ETC, LTC, Polygon, SOL, SOLUSDT, TRX, USDC, USDT, USDT.TRC20, WAVES, WBNB, XEM, XRP, ZEC
+
+![](/assets/lightning-6bca492e548a884a214cfaa7b65fe2efa89a5f3201d6dd4fa6a2113b28ce31c3.png)
+
+Withdraw via [Lightning](https://a-ads.com/blog/effortlessly-withdraw-bitcoin-from-a-ads-using-lightning-network/)
 
  [![earth](/assets/earth-icon-98d06ad93ed623e1ef541a44f38b3232444ff8f935ca56f500e41146b8f3c453.svg)English](javascript:void(0))
 
