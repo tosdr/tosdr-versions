@@ -132,12 +132,9 @@ A portion of the sale from items purchased through the Amazon, GamesPlanet, Best
 * [Our Supporters](https://opencritic.com/supporters)
 * [Privacy Policy](https://opencritic.com/privacy)
 * [Terms of Use](https://opencritic.com/terms)
-* [Press Assets](https://c.opencritic.com/press-kit.zip)
 
-* [Manage Cookie Settings](javascript:window.__cmp('showConsentModal'))
 * Activate Dark Theme
-* [Donate on Patreon](https://www.patreon.com/OpenCritic)
 * [Like on Facebook](https://facebook.com/OpenCriticDotCom)
 * [Follow on Twitter](https://twitter.com/Open_Critic)
 
-© 2024 Copyright: OpenCritic Inc
+© 2024 Copyright: OpenCritic Inc, a [Valnet, Inc.](https://www.valnetinc.com/odyssey) publication
