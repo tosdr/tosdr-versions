@@ -6,9 +6,9 @@
 
 [Skip to content](#content)
 
-Tuesday, July 30, 2024
+Tuesday, September 10, 2024
 
- [![](https://www.accuweather.com/images/weathericons/3.svg) 71°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+ [![](https://www.accuweather.com/images/weathericons/3.svg) 69°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 [Sign Out](javascript:newzware_doLogout();) [Sign In](javascript:void(0)) [Subscribe](https://www.kitsapdailynews.com/subscribe/) [Newsletter](https://www.kitsapdailynews.com/newsletters/) [Contact Us](https://www.kitsapdailynews.com/contact/)[](https://www.facebook.com/KitsapDailyNews/ "Find Us On Facebook")[](https://twitter.com/KitsapDailyNews/ "Find Us On Twitter")[](https://www.instagram.com/KitsapDailyNews/ "Find Us On Instagam")[](https://www.kitsapdailynews.com/feed/ "Access Our RSS Feed")
 
@@ -89,7 +89,7 @@ Tuesday, July 30, 2024
 
 [![](https://www.accuweather.com/images/weathericons/3.svg)
 
-71°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+69°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 Submit search 
 
@@ -179,7 +179,7 @@ Submit search
 Terms of Use
 ============
 
-_Last updated: March 10, 2023_
+_Last updated: August 22, 2024_
 
 _Please read these terms and conditions carefully before using Our Service._
 
@@ -288,6 +288,8 @@ The Service and its original content (excluding Content provided by You or other
 The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries.
 
 Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of the Company.
+
+Our Content may not be used without prior written consent from Sound Publishing INC in connection with: (1) the development of any software program, model, algorithm, or other generative AI tool, including, but not limited to, training or using the Content in connection with the development or operation of a machine learning or artificial intelligence (AI) system (including any use of the Content for training, fine tuning, or grounding the machine learning or AI system or as part of retrieval-augmented generation); or (2) providing archived or cached data sets containing Content to another person or entity.”  
 
 ### **Links to Other Websites**
 
