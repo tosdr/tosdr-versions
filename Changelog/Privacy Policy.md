@@ -1,13 +1,12 @@
 [Changelog](https://changelog.com/ "Go $HOME")
 
 * [Podcasts](https://changelog.com/ "Changelog Podcasts")
+* [News](https://changelog.com/news "Changelog News")
 * [Beats](https://changelog.com/beats "Changelog Beats")
-* [Posts](https://changelog.com/posts "Changelog Posts")
 * [Community](https://changelog.com/community "Changelog Community")
 * [Subscribe](https://changelog.com/subscribe)
 * [Changelog++](https://changelog.com/++ "Join Changelog++")
 
-* [Live](https://changelog.com/live "Listen Live")
 * [Submit News](https://changelog.com/news/submit "Submit News")
 
 * [Sign In](https://changelog.com/in "Sign In")
@@ -152,8 +151,8 @@ This is a living document and is [open source](https://github.com/thechangelog/c
 * [Request For Commits](https://changelog.com/rfc "Request For Commits")
 * [Brain Science](https://changelog.com/brainscience "Brain Science")
 * [Away from Keyboard](https://changelog.com/afk "Away from Keyboard")
-* [Spotlight](https://changelog.com/spotlight "Spotlight")
 * [Backstage](https://changelog.com/backstage "Backstage")
+* [Spotlight](https://changelog.com/spotlight "Spotlight")
 
 #### Social
 
