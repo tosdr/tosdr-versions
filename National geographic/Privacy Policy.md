@@ -2,16 +2,16 @@
 
 [![National Geographic Society](https://www.nationalgeographic.org/wp-content/uploads/2021/09/Society_Mark_White.svg)](https://www.nationalgeographic.org/society/)
 
-[JOIN US](https://www.nationalgeographic.org/society/become-a-member/)
+[DONATE](https://www.nationalgeographic.org/society/become-a-member/)
 
-[JOIN THE SOCIETY](https://www.nationalgeographic.org/society/become-a-member/)
+[DONATE](https://www.nationalgeographic.org/society/become-a-member/)
 
 Looking for? [Careers](https://www.nationalgeographic.org/society/careers/), [Support](https://support.nationalgeographic.org/s/), [Mapmaker](https://mapmaker.nationalgeographic.org/), [Education](https://education.nationalgeographic.org/), [Magazine](https://www.nationalgeographic.com/magazine), [Newsroom](https://blog.nationalgeographic.org/), [Donate](https://give.nationalgeographic.org/page/49060/donate/1)
 
 Privacy Notice
 --------------
 
-Last Updated: April 23, 2024
+Last Updated: August 29, 2024
 
 ### 1\. Privacy Notice Introduction & Scope
 
@@ -76,13 +76,13 @@ Some parts of our Services may allow users to post or transmit messages, comment
 
 ##### 2.3.1 Summary
 
-NGS websites collect certain information automatically and store it in log files. This information may include Internet Protocol (“IP”) addresses or other device identifiers, the region or general location where your computer or device is accessing the internet, browser type and version, operating system and other usage information about the use of the NGS websites, including a history of the pages you view. We use this information to help design our site to better suit our users’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor activity, and gather broad demographic information that assists us in identifying visitor preferences.
+NGS websites collect certain information automatically and store it in log files. This information may include Internet Protocol (“IP”) addresses or other device identifiers; the location where your computer or device is accessing the internet; browser type, version, and configuration; operating system and other usage information about the use of the NGS websites, including a history of the pages you view. We use this information to help design our site to better suit our users’ needs. We may also use your IP address to help diagnose problems with our server and to administer our website, analyze trends, track visitor activity, and gather broad demographic information that assists us in identifying visitor preferences.
 
 NGS has a legitimate interest in understanding how constituents, customers, donors, and educators use its websites. This assists NGS with providing more relevant products and services, communicating value to our partners, and providing appropriate staffing to meet our users’ diverse needs.
 
 ##### 2.3.2 IP Address, Device Identifier, and Browser Settings
 
-When you access our Services, we collect your IP address, which identifies the computer or service provider that you use to access the Services; your mobile device identifier, if you connect through a mobile device; and browser or computer settings. We may use these identifiers and information to analyze the way specific visitors interact with various parts of our Services. We also may use this information to make our Services, communications, and marketing to you more targeted to your interests.
+When you access our Services, we collect your IP address, which identifies the computer or service provider that you use to access the Services; your mobile device identifier, if you connect through a mobile device; and browser or computer settings and configuration. We may use these identifiers and information to analyze the way specific visitors interact with various parts of our Services. We also may use this information to make our Services, communications, and marketing to you more targeted to your interests.
 
 For EEA users, we do not track across web sessions in the absence of explicit consent. We anonymize IP addresses and we do not associate IP addresses with individuals in our web analytics tools.
 
@@ -222,7 +222,7 @@ Washington, DC 20036
 
 [Facebook-official](https://www.facebook.com/InsideNatGeo/) [Twitter](https://twitter.com/InsideNatGeo/) [Instagram](https://www.instagram.com/insidenatgeo/) [Youtube](https://www.youtube.com/insidenatgeo/) [Linkedin](https://www.linkedin.com/company/national-geographic-society/)
 
-[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Sustainability](https://www.nationalgeographic.org/society/sustainability-guidelines/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
+[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
 
 © 1996 – 2024 National Geographic Society. All rights reserved.
 
@@ -238,12 +238,12 @@ The National Geographic Society is proud to invest in a global community of intr
 
 [Give $500](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=500)
 
-[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=35)
+[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=35)
 
-[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=50)
+[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=50)
 
-[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=100)
+[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=100)
 
-[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=250)
+[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=250)
 
-[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX1&transaction.donationAmt=Other)
+[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=Other)
