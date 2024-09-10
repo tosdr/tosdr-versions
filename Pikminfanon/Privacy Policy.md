@@ -32,7 +32,7 @@ Navigation
 Help and rules
 
 * [Help](https://pikminfanon.com/wiki/Help:Contents)
-* [Policies](https://pikminfanon.com/wiki/PikminFanon:Policy)
+* [Policies](https://pikminfanon.com/wiki/PikminFanon:Policies_and_guidelines)
 * [Groups](https://pikminfanon.com/wiki/Help:Group_rights)
 * [Ranks](https://pikminfanon.com/wiki/PikminFanon:Ranks)
 * [Staff](https://pikminfanon.com/wiki/Forum:Official_list_of_staff)
@@ -49,8 +49,6 @@ Affiliates
 Wiki tools
 
 * [Special pages](https://pikminfanon.com/wiki/Special:SpecialPages "A list of all special pages [q]")
-
-You are not signed in. Please [log in](https://pikminfanon.com/wiki/Special:UserLogin "Special:UserLogin") or [create an account](https://pikminfanon.com/wiki/Special:CreateAccount "Special:CreateAccount") and join the community!
 
 PikminFanon:Privacy policy
 ==========================
