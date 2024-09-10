@@ -48,7 +48,11 @@
 ### AIRTEL FINANCE
 
 * [Credit Card](https://www.airtel.in/finance/credit-card/?icid=header)
-* [Personal Loans](https://www.airtel.in/finance/personal-loan/?icid=header)
+* [Personal Loan](https://www.airtel.in/finance/personal-loan/?icid=header)
+* [Gold Loan](https://www.airtel.in/finance/gold-loan/?icid=header)
+* [EMI Card](https://www.airtel.in/finance/airtel-bajaj-finserv-insta-emi-card/?icid=header)
+* [Fixed Deposits](https://www.airtel.in/finance/fixed-deposit/?icid=header)
+* [Free Credit Report](https://www.airtel.in/finance/check-credit-score/?icid=header)
 * [Know More](https://www.airtel.in/finance/?icid=header)
 
  [![get app](https://assets.airtel.in/static-assets/new-home/img/get-app.svg) Get App](https://i.airtel.in/Get_Thanks_App)
