@@ -1,17 +1,17 @@
-[](https://www.ryzerobotics.com/fr)
+[](https://www.ryzerobotics.com/)
 
-* [Tello](https://www.ryzerobotics.com/fr/tello)
-* [Tello Iron Man](https://www.ryzerobotics.com/fr/ironman)
-* [Tello EDU](https://www.ryzerobotics.com/fr/tello-edu)
-* [Où acheter](https://www.ryzerobotics.com/fr/where-to-buy)
-    * [Boutique](https://www.ryzerobotics.com/fr/where-to-buy#online-store)
-    * [Magasin](https://www.ryzerobotics.com/fr/where-to-buy#retail-store)
-    * [Devenir revendeur](https://www.ryzerobotics.com/fr/where-to-buy#become-a-dealer)
-* [Assistance](https://www.ryzerobotics.com/fr/support)
-* [À propos de nous](https://www.ryzerobotics.com/fr/about)
+* [Tello](https://www.ryzerobotics.com/tello)
+* [Tello Iron Man](https://www.ryzerobotics.com/ironman)
+* [Tello EDU](https://www.ryzerobotics.com/tello-edu)
+* [Where to Buy](https://www.ryzerobotics.com/where-to-buy)
+    * [Online Store](https://www.ryzerobotics.com/where-to-buy#online-store)
+    * [Retail Store](https://www.ryzerobotics.com/where-to-buy#retail-store)
+    * [Become a Dealer](https://www.ryzerobotics.com/where-to-buy#become-a-dealer)
+* [Support](https://www.ryzerobotics.com/support)
+* [About Us](https://www.ryzerobotics.com/about)
 
-POLITIQUE
-=========
+POLICY
+======
 
 Privacy PolicyTerms of Use
 
@@ -550,15 +550,15 @@ The Site is offered by SZ RYZE Tech Co., Ltd. and its affiliated companies, loca
   
   
 
-[](https://www.ryzerobotics.com/fr)
+[](https://www.ryzerobotics.com/)
 
-Copyright ©2023 Ryze Tech Tous droits réservés. \*Feel the Fun: Ressens le fun.
+Copyright © 2024 Ryze Tech All Rights Reserved.
 
-* [Politique de confidentialité](https://www.ryzerobotics.com/fr/policy#privacy-policy)|
-* [Conditions d'utilisation](https://www.ryzerobotics.com/fr/policy#terms-of-use)|
-* [Politiques de services](https://www.ryzerobotics.com/fr/support/service-policies)
+* [Privacy Policy](https://www.ryzerobotics.com/policy#privacy-policy)|
+* [Terms of Use](https://www.ryzerobotics.com/policy#terms-of-use)|
+* [Service Policy](https://www.ryzerobotics.com/support/service-policies)
 
-France|Français
+United States|English
 
 * [![fb](//s-cdn.ryzerobotics.com/stormsend/uploads/93e24c10-d344-0135-36af-12528100fbe3/facebook.svg)](https://www.facebook.com/TelloDrone)
 * [![](//s-cdn.ryzerobotics.com/stormsend/uploads/96cb9780-d344-0135-36b0-12528100fbe3/ins.svg)](https://www.instagram.com/tellodrone/)
