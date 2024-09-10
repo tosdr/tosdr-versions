@@ -60,7 +60,7 @@
 
 Toggle navigation [![bangalore escorts logo](img/divya-logo-light.png)](https://www.divyagoal.com/)
 
-[![bangalore escort girls phone number](img/icons/phone.png)](tel:8123369453) [![bangalore call girls whatsapp number](img/icons/whatsapp.png)](https://api.whatsapp.com/send?phone=918123369453)
+[![bangalore escort girls phone number](img/icons/phone.png)](tel:8123369453) [![bangalore call girls whatsapp number](img/icons/whatsapp.png)](https://wa.me/+918123369453)
 
 * [Home](https://www.divyagoal.com/)
 * [Female Escorts](https://www.divyagoal.com/female-escorts-bangalore.html)
@@ -1106,8 +1106,8 @@ Copyright © [www.divyagoal.com](https://www.divyagoal.com/) 2024. All rights re
 
 [![DMCA.com Protection Status](img/dmca.png)](https://www.dmca.com/Protection/Status.aspx?ID=b8a9d199-f6ba-42b6-9a78-864a967e7310&refurl=https://www.divyagoal.com/)
 
-[+91 7022789089](tel:+917022789089)
+[Call Us](tel:+918123369453)
 
-[WhatsApp Us](https://wa.me/+917022789089)
+[WhatsApp Us](https://wa.me/+918971897874)
 
 [](#)
