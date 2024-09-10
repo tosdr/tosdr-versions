@@ -458,12 +458,13 @@ All claims you bring against Linden Lab must be resolved in accordance with Sect
 12\. RELATED POLICIES
 ---------------------
 
-The following related policies are incorporated by reference in and made part of this Agreement, and provide Additional Terms, conditions and guidelines regarding the Service. In the event of a conflict between this Agreement and any Additional Terms, this Agreement shall control except as expressly provided otherwise.
+Any policies, guidelines, and standards published by Linden Research, Inc. provide Additional Terms, conditions and guidelines regarding the Service and are incorporated into this Agreement by reference, including without limitation, those listed below. In the event of a conflict between this Agreement and any Additional Terms, this Agreement shall control except as expressly provided otherwise.
 
 1. [Linden Lab Privacy Policy](https://lindenlab.com/privacy)
 2. [Intellectual Property Infringement Notification Policy](https://lindenlab.com/legal/intellectual-property-infringement-notification-policy)
 3. [Community Standards](https://lindenlab.com/legal/community-standards)
 4. [Content Guidelines](https://lindenlab.com/legal/content-guidelines)
+5. [Second Life Terms and Conditions](https://lindenlab.com/legal/second-life-terms-and-conditions)
 
 **Effective: July 31, 2017**
 
