@@ -42,6 +42,7 @@
     * [Frankfurt](https://www.bain.com/offices/frankfurt/)
     * [Helsinki](https://www.bain.com/offices/helsinki/)
     * [Istanbul](https://www.bain.com/offices/istanbul/)
+    * [Johannesburg](https://www.bain.com/offices/johannesburg/)
     * [Kyiv](https://www.bain.com/offices/kyiv/)
     * [Lisbon](https://www.bain.com/offices/lisbon/)
     * [London](https://www.bain.com/offices/london/)
@@ -51,7 +52,6 @@
     * [Oslo](https://www.bain.com/offices/oslo/)
     * [Paris](https://www.bain.com/offices/paris/)
     * [Rome](https://www.bain.com/offices/rome/)
-    * [South Africa](https://www.bain.com/offices/johannesburg/)
     * [Stockholm](https://www.bain.com/offices/stockholm/)
     * [Vienna](https://www.bain.com/offices/vienna/)
     * [Warsaw](https://www.bain.com/offices/warsaw/)
@@ -227,10 +227,10 @@
         
         Industries
         
-        ##### [Social & Public Sector](https://www.bain.com/industry-expertise/social-public-sector/)
+        ##### [Social & Public Sector](https://www.bain.com/industry-expertise/social-impact-consulting/)
         
-        * [Higher Education](https://www.bain.com/industry-expertise/social-public-sector/higher-education/)
-        * [Public Sector & Government](https://www.bain.com/industry-expertise/social-public-sector/public-sector-government/)
+        * [Higher Education](https://www.bain.com/industry-expertise/social-impact-consulting/higher-education/)
+        * [Public Sector & Government](https://www.bain.com/industry-expertise/social-impact-consulting/public-sector-government/)
         
     * [Technology](#)
         
@@ -312,11 +312,11 @@
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
+    * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
+    * [Gaming Report](https://www.bain.com/insights/topics/gaming-report/)
     * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
     * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-    * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
-    * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
     
     * [CEO Insights](https://www.bain.com/insights/topics/ceo-agenda/)
     * [CFO Insights](https://www.bain.com/insights/topics/cfo-insights/)
@@ -354,7 +354,7 @@
         * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2023/)
         
     
-    * [Social Impact](https://www.bain.com/about/further/social-impact/)
+    * [Social Impact](https://www.bain.com/about/further/our-social-impact/)
     * [Sustainability](https://www.bain.com/about/further/our-sustainability/)
     * [World Economic Forum](https://www.bain.com/about/world-economic-forum/)
     
@@ -464,6 +464,7 @@
         * [Frankfurt](https://www.bain.com/offices/frankfurt/)
         * [Helsinki](https://www.bain.com/offices/helsinki/)
         * [Istanbul](https://www.bain.com/offices/istanbul/)
+        * [Johannesburg](https://www.bain.com/offices/johannesburg/)
         * [Kyiv](https://www.bain.com/offices/kyiv/)
         * [Lisbon](https://www.bain.com/offices/lisbon/)
         * [London](https://www.bain.com/offices/london/)
@@ -473,7 +474,6 @@
         * [Oslo](https://www.bain.com/offices/oslo/)
         * [Paris](https://www.bain.com/offices/paris/)
         * [Rome](https://www.bain.com/offices/rome/)
-        * [South Africa](https://www.bain.com/offices/johannesburg/)
         * [Stockholm](https://www.bain.com/offices/stockholm/)
         * [Vienna](https://www.bain.com/offices/vienna/)
         * [Warsaw](https://www.bain.com/offices/warsaw/)
@@ -641,7 +641,7 @@
             * [Restaurants](https://www.bain.com/industry-expertise/retail/restaurants/)
             
         
-        * [Social & Public Sector](https://www.bain.com/industry-expertise/social-public-sector/)
+        * [Social & Public Sector](https://www.bain.com/industry-expertise/social-impact-consulting/)
         * [Technology](https://www.bain.com/industry-expertise/technology/)
             
             * [Cloud Computing](https://www.bain.com/industry-expertise/technology/cloud-computing/)
@@ -696,11 +696,11 @@
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
+        * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
+        * [Gaming Report](https://www.bain.com/insights/topics/gaming-report/)
         * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
         * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-        * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
-        * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
         
         * [CEO Insights](https://www.bain.com/insights/topics/ceo-agenda/)
         * [CFO Insights](https://www.bain.com/insights/topics/cfo-insights/)
@@ -729,7 +729,7 @@
             * [2023 Diversity, Equity, and Inclusion Report](https://www.bain.com/about/further/diversity-equity-inclusion/dei-report/2023/)
             
         
-        * [Social Impact](https://www.bain.com/about/further/social-impact/)
+        * [Social Impact](https://www.bain.com/about/further/our-social-impact/)
         * [Sustainability](https://www.bain.com/about/further/our-sustainability/)
         * [World Economic Forum](https://www.bain.com/about/world-economic-forum/)
         
@@ -737,7 +737,7 @@
         
 * [Careers](https://www.bain.com/careers/)
 
-Explore
+Explore* 
 
 Search insights, services, and experts" 
 
@@ -1021,7 +1021,7 @@ SUBSCRIBE
 * [](https://www.youtube.com/@bainandcompany)
 * [](https://www.instagram.com/bainandcompany/)
 
-[Contact us](https://www.bain.com/about/contact-us/) [Sustainability](https://www.bain.com/about/further/our-sustainability/) [Accessibility](https://www.bain.com/about/accessibility-statement/) [Terms of use](https://www.bain.com/about/terms/) [Privacy](https://www.bain.com/about/privacy/) [Cookie Policy](https://www.bain.com/about/cookie-policy/) [Sitemap](https://www.bain.com/sitemap/) [Log In](https://www.bain.com/account/dashboard/)
+[Contact us](https://www.bain.com/about/contact-us/) [Sustainability](https://www.bain.com/about/further/our-sustainability/) [Accessibility](https://www.bain.com/about/accessibility-statement/) [Terms of use](https://www.bain.com/about/terms/) [Privacy](https://www.bain.com/about/privacy/) [Modern Slavery Act Statement](https://www.bain.com/about/anti-slavery-statement/) [Cookie Policy](https://www.bain.com/about/cookie-policy/) [Sitemap](https://www.bain.com/sitemap/) [Log In](https://www.bain.com/account/dashboard/)
 
 [](https://www.levelaccess.com/a/bain/)
 
