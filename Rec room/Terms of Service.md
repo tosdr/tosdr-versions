@@ -42,11 +42,11 @@
 Rec Room Gift Card Terms & Conditions
 =====================================
 
-Effective Date: September 28, 2022
+Effective Date: July 31, 2024
 
 **Introduction**
 
-By purchasing, accepting or using a Rec Room Gift Card (including electronic codes, a "**Gift Card**") and in consideration for your right to use the Gift Card, you agree to be bound by these terms and conditions (the "**Gift Card Terms & Conditions**") and the terms and conditions contained in the [Rec Room Terms of Service](https://recroom.com/terms-of-service) (the "**Terms of Service**"). In these Gift Card Terms & Conditions, "you" or "your" means either the purchaser, recipient, or user of a Gift Card (as applicable). "We" or "our" means Rec Room Inc. and its affiliates.
+Gift Cards are issued by Rec Room Gift Card Services LLC, a Utah limited liability company, and subject to the other terms and conditions set forth herein, an owner of a Gift Card shall look solely to such issuer for any and all obligations relating to his, her or their Gift Cards. By purchasing, accepting or using a Rec Room Gift Card (including electronic codes, a "**Gift Card**") and in consideration for your right to use the Gift Card, you agree to be bound by these terms and conditions (the "**Gift Card Terms & Conditions**") and the terms and conditions contained in the [Rec Room Terms of Service](https://recroom.com/terms-of-service) (the "**Terms of Service**"). In these Gift Card Terms & Conditions, "you" or "your" means either the purchaser, recipient, or user of a Gift Card (as applicable). "We" or "our" means Rec Room Gift Card Services, LLC and its affiliates, including but not limited to Rec Room Inc.
 
 We respect your privacy and will only use your personal information as described in our [Privacy Policy](https://recroom.com/privacy-policy).
 
