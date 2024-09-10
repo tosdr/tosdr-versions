@@ -277,6 +277,9 @@ Entspannt: Der Gast kann bis 10 Tag vor seiner Anreise stornieren und erhält de
 
 Moderat: Der Gast kann bis 30 Tag vor seiner Anreise stornieren und erhält den gesamten Buchungsbetrag inkl. Hinterland Servicegebühren zurück.
 
+5.3  
+Eine Rückbuchung über die Kreditkarte oder eine SEPA Lastschriftrückgabe der Zahlung (Chargeback) ist nicht als Stornierung zulässig. Die entstandenen Bearbeitungs- und Anfechtungsgebühren durch die Bank sowie Stripe die durch abgebrochenen Zahlungen entstehen, werden an den Gast weiterberechnet.  
+
 ### 6\. Hinweise zur Einhaltung von Gesetzen, Vorschriften und Rechten Dritter
 
   
