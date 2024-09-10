@@ -80,7 +80,7 @@ Alternatively, please visit our [Help Center](https://support.getmailbird.com/) 
 
 * * *
 
-We strive to make your email experience fly
+Email just the way you like it
 
 * [![Facebook](/assets/imgs/social/footer-logo-facebook-black.svg)](https://www.facebook.com/getmailbird)
 * [![Twitter](/assets/imgs/social/footer-logo-twitterx-black.svg)](https://twitter.com/mailbird)
@@ -111,6 +111,7 @@ Support
 * [License Key Retrieval](https://www.getmailbird.com/license-retrieval/)
 * [Become a Mailbird early adopter](https://www.getmailbird.com/alpha-testers/)
 * [Unsubscribe from Newsletter](https://www.getmailbird.com/to-unsubscribe/)
+* [Upgrade](https://www.getmailbird.com/upgrade/)
 * [Support](https://support.getmailbird.com/)
 
 Setup
