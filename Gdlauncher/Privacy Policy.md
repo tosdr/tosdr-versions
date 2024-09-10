@@ -71,6 +71,7 @@ Toggle navigation
     * [DevOps](https://github.com/resources/articles/devops)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
+    * [View all](https://github.com/resources/articles)
     
     Explore
     
@@ -151,14 +152,14 @@ Cancel Create saved search
 
 [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fgorilla-devs%2FGDLauncher%2Fblob%2Fmaster%2Fsrc%2Fcommon%2Fcomponents%2FPrivacyPolicy.js)
 
-[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=gorilla-devs%2FGDLauncher)
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=gorilla-devs%2FGDLauncher) Reseting focus
 
 You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
 
 [gorilla-devs](https://github.com/gorilla-devs) / **[GDLauncher](https://github.com/gorilla-devs/GDLauncher)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher) You must be signed in to change notification settings
-* [Fork 260](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
+* [Fork 256](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
 * [Star 1.2k](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
     
 
