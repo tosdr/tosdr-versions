@@ -158,7 +158,7 @@
     
     Essential tools
     
-    * [Business name generator.](https://www.shopify.com/tools/business-name-generator)
+    * [Business name generator .](https://www.shopify.com/tools/business-name-generator)
     * [Logo maker.](https://www.shopify.com/tools/logo-maker)
     * [Stock photography.](https://www.shopify.com/stock-photos)
     * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
@@ -172,7 +172,7 @@
         Your source for recent updates](https://changelog.shopify.com/)
     * [Summer ’24 Edition.
         
-        The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
+        The latest 100+ product updates](https://www.shopify.com/editions/summer2024)
     * [All Editions.
         
         Archive of past Shopify Editions](https://www.shopify.com/editions/all)
@@ -181,7 +181,7 @@
         All company news and press releases](https://shopify.com/news)
     
 
-* [Log in](https://www.shopify.com/login)
+* [Log in](https://www.shopify.com/login?ui_locales=en)
 * [Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Flegal%2Faup&signup_types[]=paid_trial_experience)
 
 * [Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Flegal%2Faup&signup_types[]=paid_trial_experience)
@@ -345,7 +345,7 @@
     
     Essential tools
     
-    * [Business name generator.](https://www.shopify.com/tools/business-name-generator)
+    * [Business name generator .](https://www.shopify.com/tools/business-name-generator)
     * [Logo maker.](https://www.shopify.com/tools/logo-maker)
     * [Stock photography.](https://www.shopify.com/stock-photos)
     * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
@@ -359,7 +359,7 @@
         Your source for recent updates](https://changelog.shopify.com/)
     * [Summer ’24 Edition.
         
-        The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
+        The latest 100+ product updates](https://www.shopify.com/editions/summer2024)
     * [All Editions.
         
         Archive of past Shopify Editions](https://www.shopify.com/editions/all)
@@ -368,7 +368,7 @@
         All company news and press releases](https://shopify.com/news)
     
 
-* [Log in](https://www.shopify.com/login)
+* [Log in](https://www.shopify.com/login?ui_locales=en)
 * [Start free trial](https://accounts.shopify.com/store-create?language=en&locale=en&signup_page=https%3A%2F%2Fwww.shopify.com%2Flegal%2Faup&signup_types[]=paid_trial_experience)
 
 Shopify Acceptable Use Policy
@@ -472,7 +472,6 @@ USA
 
 * [Terms of Service](https://www.shopify.com/legal/terms)
 * [Privacy Policy](https://www.shopify.com/legal/privacy)
-* Manage Privacy
 * [Sitemap](https://www.shopify.com/sitemap)
 * [Privacy Choices](https://privacy.shopify.com/en)
 
