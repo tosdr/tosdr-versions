@@ -457,9 +457,12 @@ Get updates delivered to your inbox!
 
 * Compare
     
+    * [Processing Fee Calculator](https://www.planningcenter.com/processing-fee#calculate-fees)
     * [Planning Center vs. Tithely](https://www.planningcenter.com/compare-planning-center-vs-tithely)
     * [Planning Center vs. Pushpay](https://www.planningcenter.com/compare-planning-center-vs-pushpay)
+    * [Planning Center vs. Breeze](https://www.planningcenter.com/compare-planning-center-vs-breeze)
 
+* [Changelog](https://www.planningcenter.com/changelog)
 * [Pricing](https://www.planningcenter.com/pricing)
 * [Blog](https://www.planningcenter.com/blog)
 * [Developers](https://www.planningcenter.com/developers)
