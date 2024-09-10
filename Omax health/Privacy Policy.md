@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
 
-Privacy Policy – Omax Health - Omax Health                         
+Privacy Policy – Omax Health - Omax Health               
 
-                
+               
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -38,12 +38,14 @@ FREE U.S. SHIPPING ON ALL ORDERS
     [Trending Products](https://omaxhealth.com/)
     
     * [CryoFreeze CBD Roll-On](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength)
+    * [New! Cellmax: The Future of Longevity](https://omaxhealth.com/products/cellmax)
     * [Omax3 Omega-3](https://omaxhealth.com/products/omax3-ultra-pure)
-    * [EyeScience Dry Eye Formula](https://omaxhealth.com/products/eyescience-dry-eye-formula)
     
 * [Learn](#)
     
     [About Omax](https://omaxhealth.com/pages/about)
+    
+    [Learn More About Our New Product: Cellmax](https://omaxhealth.com/pages/cellmax)
     
     [Why CBD](https://omaxhealth.com/pages/why-cbd)
     
@@ -199,8 +201,6 @@ You can email us at care@omaxhealth.com or contact our customer service represen
 Revised 2/26/2024  
 ©Basic Brands Inc. 2024
 
-FOLLOW US
-
 ### @omaxhealth
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://omaxhealth.com/)
@@ -250,7 +250,7 @@ Free Shipping is valid in the Continental U.S. 0% THC is tested to be below .09%
     * [Trending Products](#)
         
         * [CryoFreeze CBD Roll-On](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength)
-        * [New! Men's Prostate Product](https://omaxhealth.com/products/prost-p10x-prostate-health-supplement-for-men)
+        * [New! Cellmax: the future of Longevity](https://omaxhealth.com/products/cellmax)
         * [Omax3 Omega-3](https://omaxhealth.com/products/omax3-ultra-pure)
         
     * [By Concern](#)
@@ -268,6 +268,7 @@ Free Shipping is valid in the Continental U.S. 0% THC is tested to be below .09%
 * [Learn](#)
     
     * [About Omax](https://omaxhealth.com/pages/about)
+    * [Learn More About Our New Product: Cellmax](https://omaxhealth.com/pages/cellmax)
     * [Why CBD](https://omaxhealth.com/pages/why-cbd)
     * [Ambassador Program](https://dovetale.com/community/apply/eOuJGmluV34)
     * [FAQs](https://omaxhealth.com/pages/faqs)
@@ -304,17 +305,17 @@ Go to product page
 
 ### Let customers speak for us
 
-[3348 reviews](https://omaxhealth.com/pages/reviews)
+[3380 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3033)
+(3063)
 
 5%
 
-(172)
+(173)
 
 2%
 
@@ -324,38 +325,42 @@ Go to product page
 
 (26)
 
-1%
+2%
 
-(50)
+(52)
 
-2157
+2180
 
-G
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-regular#judgeme_product_reviews)
-
-Gary O.
-
-A friend saw on Dan bongino podcast loved it and let me try it. It's been 5yrs. It's a great product. It works.
-
-B
+K
 
 [CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
 
-Becky J.
+Kim P.
 
-**This stuff is amazing!**
+**Amazing results!**
 
-I purchased this roll on CBD for my neck that gets stiff and sore so often. It helps SO much! It’s not too menthol-y which I like. And it works like magic to help tension and pain go away. I will definitely be a repeat customer!
+I love this product! It is so easy to use and begins working immediately! It brings great relief to my muscles and provides total comfort!
 
-J
+R
 
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
 
-J
+Ray A.
 
-**Extra Strength 500mg**
+**Pain Canceled**
 
-I am bone on bone in both my knees. Not ready to commit to knee replacement surgery. I have tried many topical and oral products, all helped minimally. CryoFreeze 500 mg Hemp roll-on is beyond amazing. Normally apply 1-2x daily and am having painless days. Thank you for making such a wonderful product!
+Learned about Omax Health from The Dan Bongino Show and thought it’s worth a try. Having had back and neck fusion surgery, both shoulders replaced along with a hip replacement MANY TOPICAL PAIN RELIEVERS have been tried with no appreciable pain relief. UNTIL OMAC ROLLON MIRACLE IN A TUBE!! This product has proved since day one to be an almost instant pain relief! THRILLED TO HAVE FOUND YOU!!!
+
+[](https://judgeme.imgix.net/omax-health/1725741320__image__original.jpg?auto=format)
+
+S
+
+[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
+
+Silvio H.
+
+**BEST PRODUCT FOR INFLAMMATION**
+
+I've been taking this supplement for ten years. Recently I switched to a different manufacturer upon the recommendation of a friend. Within two weeks the pain, stiffness and infammation was back with a vengeance. I have since returned to OMAX3 and I now live pain free. I'll never stop using this product.
 
 Load More
