@@ -1,15 +1,145 @@
 [Personal](https://www.o2.co.uk/) | [Business](https://www.o2.co.uk/business)
 
-[Sign in](https://www.o2.co.uk/signin) or [Register](https://www.o2.co.uk/register)
+[Sign in](https://accounts.o2.co.uk/signin) or [Register](https://www.o2.co.uk/register)
 
 [![O2 Logo White](https://a.storyblok.com/f/253875/34x35/d12e2ecbea/o2-logo.svg)](https://www.o2.co.uk/)
 
 * [Shop](https://www.o2.co.uk/shop)
     
+    Phones
+    
+    * [Phones](https://www.o2.co.uk/shop/phones)
+    * [Upgrades](https://accounts.o2.co.uk/)
+    * [Apple iPhone](https://www.o2.co.uk/iphone)
+    * [iPhone 16](https://www.o2.co.uk/shop/apple/iphone-16)
+    * [Android Phones](https://www.o2.co.uk/android)
+    * [Samsung Galaxy phones](https://www.o2.co.uk/samsung-galaxy-phones)
+    * [Refurbished phones](https://www.o2.co.uk/shop/like-new)
+    
+    Tablets, laptops and dongles
+    
+    * [Tablets](https://www.o2.co.uk/shop/tablets)
+    * [Apple iPad](https://www.o2.co.uk/ipad)
+    * [Android tablets](https://www.o2.co.uk/android-tablets)
+    * [Laptops](https://www.o2.co.uk/laptops)
+    * [Dongles and mobile wifi](https://www.o2.co.uk/shop/mobile-broadband)
+    
+    Sims and Tariffs
+    
+    * [Pay Monthly SIMs](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
+    * [Pay As You Go SIMs](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go#simtype=phone+big-bundles)
+    * [Tariffs](https://www.o2.co.uk/shop/all-tariffs)
+    * [International](https://www.o2.co.uk/international)
+    * [Top-up](https://www.o2.co.uk/topup)
+    * [Essential Plan](https://www.o2.co.uk/essential-plan)
+    
+    Accessories and more
+    
+    * [Tech and accessories](https://www.o2.co.uk/shop/accessories)
+    * [Apple Watch](https://www.o2.co.uk/apple-watch)
+    * [Smartwatches](https://www.o2.co.uk/smartwatches)
+    * [AirPods](https://www.o2.co.uk/airpods)
+    * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
+    * [Great deals](https://www.o2.co.uk/shop/great-deals)
+    
+    * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
+        
+    * [![](https://a.storyblok.com/f/253875/137x32/5ae470a465/quick-links-samsung-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/samsung?cnd=new)
+        
+    * [![](https://a.storyblok.com/f/253875/137x32/31d51c880b/quick-links-google-1100.png/m/3840x0)](https://www.o2.co.uk/shop/brand/google?cnd=new)
+        
+    * [![](https://a.storyblok.com/f/253875/137x32/1a6ca9cc87/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-110724.jpg/m/3840x0)](https://www.o2.co.uk/shop/phones?brand=HONOR&cnd=new)
+        
+    * [![](https://a.storyblok.com/f/253875/137x32/93bce06737/bau-44171-projecthalo-navchanges-nav-bar-portal-page-110724-vmlogo-110724.jpg/m/3840x0)](https://www.virginmedia.com/)
+        
+    
 * [Why O2](https://www.o2.co.uk/why-o2)
+    
+    Flexibility
+    
+    * [O2 Switch up](https://www.o2.co.uk/o2-switch-up)
+    * [O2 custom plans](https://www.o2.co.uk/custom-plans)
+    * [Multisave](https://www.o2.co.uk/multisave)
+    * [O2 Recycle](https://www.o2recycle.co.uk/)
+    * [Click and collect](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
+    
+    Perks
+    
+    * [O2 Extras](https://www.o2.co.uk/extras)
+    * [Volt](https://www.o2.co.uk/virgin-media-o2)
+    * [Priority tickets and offers](https://priority.o2.co.uk/)
+    * [Perks at O2 venues](https://www.o2.co.uk/sponsorship/our-venues)
+    * [Pay As You Go Rewards](https://payandgorewards.o2.co.uk/web/o2)
+    
+    Services
+    
+    * [Manage your account](https://www.o2.co.uk/myo2)
+    * [Keeping kids safe online](https://www.o2.co.uk/help/online-safety)
+    * [Ideas and Inspiration](https://www.o2.co.uk/inspiration)
+    
+    Connected
+    
+    * [Coverage checker](https://www.o2.co.uk/coveragechecker)
+    * [Network coverage](https://www.o2.co.uk/connectivity/network-coverage)
+    * [5G coverage](https://www.o2.co.uk/5g)
+    * [O2 WiFi](https://www.o2.co.uk/connectivity/free-wifi)
+    * [Using your phone abroad](https://www.o2.co.uk/international/using-your-phone-abroad)
+    
+    * ![](https://a.storyblok.com/f/253875/205x95/82fe1f3bf9/5g-why-o2-thumbnail-dark-230724.jpg/m/3840x0)
+        
+        Are you ready for 5G?
+        
+        [Check coverage](https://www.o2.co.uk/5g)
+        
+    * ![](https://a.storyblok.com/f/253875/205x95/3f823e8cc7/why-o2-thumbnail-dark-230724.jpg/m/3840x0)
+        
+        See all the reasons to choose O2
+        
+        [Why join O2?](https://www.o2.co.uk/why-o2)
+        
     
 * [Help](https://www.o2.co.uk/help)
     
+    Top queries
+    
+    * [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
+    * [Sim card](https://www.o2.co.uk/help/device-and-sim-support/activating-your-sim)
+    * [Top-up](https://www.o2.co.uk/help/pay-as-you-go/topping-up)
+    * [Personal hotspot](https://www.o2.co.uk/help/digital-services/personal-hotspot)
+    * [Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
+    
+    Device help
+    
+    * [How to use your device](https://www.o2.co.uk/help/phones-sims-and-devices)
+    * [Faulty device](https://accounts.o2.co.uk/auth?)
+    * [Device health check](https://www.o2.co.uk/help/digital-services/phone-health-check)
+    * [Lost or stolen](https://www.o2.co.uk/help/device-and-sim-support/lost-or-stolen-device)
+    * [Check O2 community](https://www.o2.co.uk/help/device-and-sim-support/lost-or-stolen-device)
+    
+    Managing your account
+    
+    * [My O2](https://accounts.o2.co.uk/)
+    * [Your bill](https://www.o2.co.uk/help/account-and-billing/understanding-your-bill)
+    * [Payments](https://www.o2.co.uk/help/account-and-billing/how-to-pay)
+    * [Premium charges](https://www.o2.co.uk/help/account-and-billing/premium-service-checker)
+    * [Your Data Hub](https://www.o2.co.uk/abouto2/your-data-hub)
+    
+    Other ways to get help
+    
+    * [Help and support](https://www.o2.co.uk/help)
+    * [Store locator](https://stores.o2.co.uk/)
+    * [Network status](https://status.o2.co.uk/)
+    * [Contact us](https://www.o2.co.uk/contactus)
+    
+    * [![](https://a.storyblok.com/f/253875/230x250/0b1f0f7003/global-nav-community-image-230724.jpg/m/3840x0)](https://community.o2.co.uk/)
+        
+    
+
+Shop
+
+Why O2
+
+Help
 
 * [My O2](https://mymobile2.o2.co.uk/)
 * [Search](https://www.o2.co.uk/searchresult)
@@ -420,10 +550,10 @@ Publication Date: 29 June 2022
 Popular in shop
 ---------------
 
-* [iPhone 15 Pro Max](https://www.o2.co.uk/shop/apple/iphone-15-pro-max)
-* [iPhone 15 Pro](https://www.o2.co.uk/shop/apple/iphone-15-pro)
-* [iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
-* [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
+* [iPhone 16 Pro Max](https://www.o2.co.uk/shop/apple/iphone-16-pro-max)
+* [iPhone 16 Pro](https://www.o2.co.uk/shop/apple/iphone-16-pro)
+* [iPhone 16](https://www.o2.co.uk/shop/apple/iphone-16)
+* [Apple Watch Series 10](https://www.o2.co.uk/shop/apple/watch-series-10-titanium)
 * [Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 * [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 * [Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
@@ -452,7 +582,7 @@ Shop
 
 * [Facebook](https://www.facebook.com/o2uk)
 * [Youtube](https://www.youtube.com/user/o2ukofficial)
-* [Twitter](https://www.twitter.com/o2)
+* [X](https://x.com/o2)
 * [Instagram](https://www.instagram.com/o2uk/)
 
 * [About O2](https://www.o2.co.uk/abouto2)
