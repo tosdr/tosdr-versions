@@ -30,7 +30,6 @@ Shopping cart
         
     * [Toys for children](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children)
         
-        * [Balance bikes](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/balance-bikes)
         * [Riding animals](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/riding-animals)
         * [Mini Cuddlies](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/mini-cuddlies)
         * [Gentle Giants](https://www.steiffusa.com/en-us/stuffed-animals-baby-gifts/toys-for-children/gentle-giants)
