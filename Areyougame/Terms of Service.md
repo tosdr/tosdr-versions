@@ -153,6 +153,7 @@ Search
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [PRE-ORDERS](https://areyougame.com/collections/new-pre-orders)
 
 * [](https://www.facebook.com/AreYouGameCom)
 * [](https://www.youtube.com/channel/UCVXt37urmmPzWfGODMUp7Pw)
@@ -321,6 +322,7 @@ Search
     
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [PRE-ORDERS](https://areyougame.com/collections/new-pre-orders)
 * [More links](#)
     
 
@@ -428,6 +430,7 @@ Sponsor reserves the right to modify, extend, suspend, or terminate the Sweepsta
 
 * [HELP](https://areyougame.com/pages/contact-us)
 * [Contact Us](https://areyougame.com/pages/contact-us)
+* [Call Us](tel:8668538970)
 * [Privacy Policy](https://areyougame.com/pages/privacy-policy)
 * [Returns](https://areyougame.com/pages/return-policy)
 * [Terms & Conditions](https://areyougame.com/pages/terms-and-conditions)
