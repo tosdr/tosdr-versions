@@ -391,7 +391,7 @@ IRS privacy policy
 * [Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation "Criminal Investigation")
 * [Whistleblower Office](https://www.irs.gov/compliance/whistleblower-office "Whistleblower Office")
 * [Volunteer](https://www.irs.gov/individuals/irs-tax-volunteers "Volunteer")
-* [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information "Freedom of Information Act")
+* [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information-act "Freedom of Information Act")
 * [Privacy policy](https://www.irs.gov/privacy-disclosure/irs-privacy-policy "Privacy policy")
     * [Privacy Impact Assessment](https://www.irs.gov/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessment")
     * [Safeguards program](https://www.irs.gov/privacy-disclosure/safeguards-program "Safeguards program")
@@ -445,7 +445,7 @@ Please keep this notice with your records. It may help you if we ask you for oth
 
 We try to create forms and instructions that can be easily understood. Often this is difficult to do because our tax laws are very complex. For some people with income mostly from wages, filling in the forms is easy. For others who have businesses, pensions, stocks, rental income, or other investments, it is more difficult.
 
-If you have suggestions for making these forms simpler, we would be happy to hear from you. You can send us comments through [IRS.gov/formscomments](https://www.irs.gov/forms-pubs/comment-on-tax-forms-and-publications "Comment on Tax Forms and Publications"). Or you can send your comments to Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW, IR6526, Washington, DC 20224. Don’t send your return to this address. Instead, see the addresses at the end of these instructions.
+If you have suggestions for making these forms simpler, we would be happy to hear from you. You can send us comments through [IRS.gov/formscomments](https://www.irs.gov/forms-pubs/comment-on-tax-forms-and-publications "Comment on tax forms and publications"). Or you can send your comments to Internal Revenue Service, Tax Forms and Publications Division, 1111 Constitution Ave. NW, IR6526, Washington, DC 20224. Don’t send your return to this address. Instead, see the addresses at the end of these instructions.
 
 Although we can't respond individually to each comment received, we do appreciate your feedback and will consider your comments as we revise our tax forms and instructions.
 
@@ -474,7 +474,7 @@ For more information on taxpayer burden see Pub. 5743. If you have comments conc
 
 #### [Your privacy rights](#collapseCollapsible1705618165976_660530)
 
-The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://uscode.house.gov/ "Internal Revenue Code"), the [Privacy Act of 1974](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm "Privacy Act of 1974 - U.S. Government Printing Office"), the [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information "IRS Freedom of Information"), and IRS policies and practices. Visit the [IRS Electronic Freedom of Information Act Reading Room](https://www.irs.gov/privacy-disclosure/foia-library "FOIA Library") for more information about these laws. We document much of our internal policy on these laws in [IRM 10.5.1, Privacy Policy](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy").
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://uscode.house.gov/ "Internal Revenue Code"), the [Privacy Act of 1974](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm "Privacy Act of 1974 - U.S. Government Printing Office"), the [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information-act "IRS Freedom of Information Act"), and IRS policies and practices. Visit the [IRS Electronic Freedom of Information Act Reading Room](https://www.irs.gov/privacy-disclosure/foia-library "FOIA Library") for more information about these laws. We document much of our internal policy on these laws in [IRM 10.5.1, Privacy Policy](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy").
 
 The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24 PDF](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_24_0.pdf " "), has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy. The [SAOP for the IRS](https://home.treasury.gov/footer/privacy-act "U.S. Department of the Treasury | Privacy Act") is positioned at the Department of Treasury. 
 
@@ -503,7 +503,7 @@ We protect your privacy in [online](https://www.irs.gov/irm/part10/irm_10-005-00
 Privacy compliance programs
 ---------------------------
 
-#### [Privacy and civil liberty impact assessments (PCLIA)](#collapseCollapsible1705618165957_238805)
+#### [Privacy and Civil Liberty Impact Assessments (PCLIA)](#collapseCollapsible1705618165957_238805)
 
 A PCLIA is a decision-making tool used to identify and mitigate privacy risks at the beginning of and throughout the development life cycle of a program or system. PCLIAs help the public understand what PII the agency is collecting, why it is being collected, and how it will be used, shared, accessed, secured and stored. The PCLIA uses the Fair Information Practice Principles (FIPPs) to assess and mitigate any impact on an individual’s privacy. Generally, a PCLIA is required before a program or system containing PII becomes operational.
 
@@ -532,7 +532,7 @@ A computer matching program is required by the Privacy Act for any computerized 
 
 Notices for approved computer matching programs are published in the Federal Register and can be found on the [U.S. Department of the Treasury Computer Matching Programs](https://home.treasury.gov/footer/privacy-act/computer-matching-programs "U.S. Department of the Treasury | Computer Matching Programs") webpage. There are exemptions for computer matching agreements for internal systems used for tax administration purposes.
 
-#### [Publicly-available privacy reports](#collapseCollapsible1705618165964_875368)
+#### [Publicly available privacy reports](#collapseCollapsible1705618165964_875368)
 
 In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy. These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters. A listing of all publicly available privacy reports can be found at the [U.S. Department of the Treasury Privacy Act Annual Reports](https://home.treasury.gov/footer/privacy-act/privacy-reports "U.S. Department of the Treasury | Privacy Reports") webpage.
 
@@ -561,7 +561,7 @@ Privacy Act requests
 
 #### [Overview](#collapseCollapsible1705618165951_937487)
 
-**Note:** Federal tax records are exempt from access or amendment. To amend a federal tax record, taxpayers must file [Form 1040-X](https://www.irs.gov/forms-pubs/about-form-1040x "About Form 1040-X, Amended U.S. Individual Income Tax Return") or follow IRS procedures for other changes, such as [change of address](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes "Address Changes").
+**Note:** Federal tax records are exempt from access or amendment. To amend a federal tax record, taxpayers must file [Form 1040-X](https://www.irs.gov/forms-pubs/about-form-1040x "About Form 1040-X, Amended U.S. Individual Income Tax Return") or follow IRS procedures for other changes, such as [change of address](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes "Address changes").
 
 The Privacy Act of 1974, as amended, provides safeguards against unwarranted invasions of privacy by establishing a code of "fair information practices." The principles, commonly referenced as the fair information practice principles (FIPPs), require agencies to comply with statutory norms for collection, maintenance, access, use, and dissemination of records.
 
@@ -573,7 +573,7 @@ To further protect the individual, the Privacy Act requires all records which ar
 
 The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them. 
 
-IRS offers routine access to other records through [procedures designed to make access quick and easy](https://www.irs.gov/privacy-disclosure/routine-access-to-irs-records "Routine Access to IRS Records"). If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
+IRS offers routine access to other records through [procedures designed to make access quick and easy](https://www.irs.gov/privacy-disclosure/routine-access-to-irs-records "Routine access to IRS records"). If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
 
 #### [How to write a Privacy Act request](#collapseCollapsible1705618165953_300060)
 
@@ -602,7 +602,7 @@ Privacy complaints
 
 #### [What is a privacy complaint?](#collapseCollapsible1705618165940_993585)
 
-A privacy complaint is a written allegation filed with the Service's [Office of Privacy, Governmental Liaison and Disclosure](https://www.irs.gov/about-irs/privacy-governmental-liaison-and-disclosure-at-a-glance "Privacy, Governmental Liaison and Disclosure at-a-glance"), regarding a potential problem or violation of privacy protections in the administration of IRS programs and operations that may cause harm or violation of your personal or information privacy. This complaint or inquiry may concern:
+A privacy complaint is a written allegation filed with the Service's [Office of Privacy, Governmental Liaison and Disclosure](https://www.irs.gov/about-irs/privacy-governmental-liaison-and-disclosure-at-a-glance "Privacy, Governmental Liaison and Disclosure at a glance"), regarding a potential problem or violation of privacy protections in the administration of IRS programs and operations that may cause harm or violation of your personal or information privacy. This complaint or inquiry may concern:
 
 * Issues regarding consent, collection, and appropriate notice
 * Issues regarding unauthorized disclosures
@@ -646,12 +646,12 @@ Washington, DC 20224
 
 [What you should know](https://www.irs.gov/taxpayer-bill-of-rights)
 
-Page Last Reviewed or Updated: 12-Jul-2024
+Page Last Reviewed or Updated: 20-Aug-2024
 
 * [Share](#)
-    *  Facebook
-    *  Twitter
-    *  Linkedin
+    * Facebook
+    * Twitter
+    * Linkedin
     
 * Print
 
@@ -676,7 +676,7 @@ Footer Navigation
 * Resolve an Issue
     * [IRS Notices and Letters](https://www.irs.gov/individuals/understanding-your-irs-notice-or-letter)
     * [Identity Theft](https://www.irs.gov/identity-theft-central)
-    * [Phishing](https://www.irs.gov/privacy-disclosure/report-phishing)
+    * [Tax scams](https://www.irs.gov/help/tax-scams)
     * [Tax Fraud](https://www.irs.gov/compliance/criminal-investigation/tax-fraud-alerts)
     * [Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation)
     * [Whistleblower Office](https://www.irs.gov/compliance/whistleblower-office)
@@ -695,6 +695,7 @@ Footer Navigation
     * [Treasury Inspector General for Tax Administration](https://www.treasury.gov/tigta/)
     * [USA.gov](https://www.usa.gov/)
     * [USAspending.gov](https://www.usaspending.gov/)
+    * [Vote.gov](https://vote.gov/)
 
 [](https://www.facebook.com/IRS)
 
