@@ -1,80 +1,16 @@
 ![](https://www.facebook.com/tr?id=1698487580388956&ev=PageView&noscript=1)              
 
-[](https://www.cloze.com/)
+[](https://ai.cloze.com/)
 
-Products
+[Platform](https://ai.cloze.com/platform/)
 
-[Watch Video
+[Resources](https://ai.cloze.com/cloze-apps/)
 
-A short intro to Cloze](#)
+[Company](https://ai.cloze.com/about-us/)
 
-[Cloze Pro
+[Sign In](https://www.cloze.com/in)
 
-Learn why 100s of thousands of people use Cloze for Relationship Management](https://www.cloze.com/#details)
-
-[Cloze Business
-
-CRM, Marketing Automation, and Lead Management for your whole business](https://www.cloze.com/app/business)
-
-[Cloze AI Insights new
-
-Uncover opportunities from the connections hidden in your data without changing the tools your team uses today](https://www.cloze.com/app/ai-insights)
-
-[Cloze for iOS
-
-Get the Cloze mobile app for iPhone and iPad from the AppStore](https://itunes.apple.com/us/app/cloze-relationship-management/id596927802?ls=1&mt=8)
-
-[Call and Text Sync for iOS
-
-Automatically sync your iOS calls and text messages to your Cloze account](https://www.cloze.com/app/connect/ios)
-
-[Cloze for Android
-
-Get the Cloze mobile app for Android phones and tablets from GooglePlay](https://play.google.com/store/apps/details?id=com.cloze.app)
-
-[Call and Text Sync for Android
-
-Automatically sync your Android calls and text messages to your Cloze account](https://play.google.com/store/apps/details?id=com.cloze.app.sync)
-
-[Cloze Add-On for Chrome
-
-Bring Cloze to any web page](https://chrome.google.com/webstore/detail/lfbajboiahaecepobmkcpadfeojchmmf)
-
-Solutions
-
-[Real Estate](https://www.cloze.com/app/solution/realestate)
-
-[Recruiting](https://www.cloze.com/app/solution/recruiting)
-
-[Sales](https://www.cloze.com/app/solution/sales)
-
-[Services](https://www.cloze.com/app/solution/services)
-
-[Consulting](https://www.cloze.com/app/solution/consulting)
-
-[Nonprofit](https://www.cloze.com/app/solution/nonprofit)
-
-[Pricing](https://www.cloze.com/app/pricing)
-
-Resources
-
-[Help Center](https://help.cloze.com/)
-
-[Blog](https://blog.cloze.com/)
-
-[Developers](https://developer.cloze.com/)
-
-[Press](https://www.cloze.com/app/buzz)
-
-[About Us](https://www.cloze.com/app/aboutus)
-
-Contact Us
-
-[Sales](javascript:void(0))
-
-[Support](javascript:void(0))
-
-[Sign In](https://www.cloze.com/in) [Try Cloze for Free](https://www.cloze.com/in)
+[Try it Now](https://www.cloze.com/in) [Schedule a Demo](https://ai.cloze.com/contact-us/)
 
 Cloze, Inc. Privacy Policy
 ==========================
