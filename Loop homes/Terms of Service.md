@@ -38,31 +38,7 @@
 
 [Sign Up for FREE](https://www.loophome.app/signup/)
 
-* [Smart Meter App](#)
-    * [Features & Benefits](https://loop.homes/loop-smart-meter-app/)
-    * [Solar Savings Calculator](https://loop.homes/loop-smart-meter-app/solar-panel-calculator/)
-    * [Carbon Footprint Calculator](https://loop.homes/loop-smart-meter-app/carbon-footprint-calculator/)
-    * [Green Energy Forecast](https://loop.homes/loop-smart-meter-app/green-energy-forecast/)
-    * [Turn Down and Save](https://loop.homes/loop-smart-meter-app/turn-down-and-save/)
-    * [App Reviews](https://loop.homes/loop-smart-meter-app/reviews/)
-    * [User Stories](https://loop.homes/loop-smart-meter-app/user-stories/)
-* [Install Solar Panels](https://loop.homes/install-solar-panels/)
-* [Guides](https://loop.homes/guides/)
-* [Blog](https://blog.loop.homes/)
-* [About](https://loop.homes/loop-trust-power)
-* [Support](#)
-    * [Troubleshooting](https://loop.homes/support/)
-    * [My Account](https://loophome.app/)
-
-[![Black Get it on google Play rectangular button with multicolour triangle logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Google Play Badge")
-
-![Black Get it on google Play rectangular button with multicolour triangle logo](https://loop.homes/wp-content/uploads/elementor/thumbs/en_badge_web_generic-564x168-1-qisi0c1116mfbuhqa1lm4srp30ieape6ah6tsgc7b4.png "Google Play Badge")](https://play.google.com/store/apps/details?id=com.trustpower.loop&referrer=utm_source=Website&utm_medium=SmartMeterApp&utm_campaign=Billboard%20)
-
-[![App Store Button](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "App Store Badge")
-
-![App Store Button](https://loop.homes/wp-content/uploads/elementor/thumbs/download-on-the-app-store-apple-logo-1024x304-1-qisi0c1116mfbuhqa1lm4srp30ieape6ah6tsgc7b4.png "App Store Badge")](https://apps.apple.com/gb/app/loop-energy-smart-meter-app/id1483586889/?utm_source=Website&utm_medium=SmartMeterApp&utm_campaign=Billboard%20)
-
-Facebook [Twitter X](https://twitter.com/loophomes) Tiktok [Instagram](https://www.facebook.com/loophomes) Youtube
+[](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE2OTUiLCJ0b2dnbGUiOnRydWV9)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -436,3 +412,31 @@ We want to hear how Loop has helped you. Share your story with the Loop communit
   
 
 CLOSE
+
+[](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
+
+* [Smart Meter App](#)
+    * [Features & Benefits](https://loop.homes/loop-smart-meter-app/)
+    * [Solar Savings Calculator](https://loop.homes/loop-smart-meter-app/solar-panel-calculator/)
+    * [Carbon Footprint Calculator](https://loop.homes/loop-smart-meter-app/carbon-footprint-calculator/)
+    * [Green Energy Forecast](https://loop.homes/loop-smart-meter-app/green-energy-forecast/)
+    * [Turn Down and Save](https://loop.homes/loop-smart-meter-app/turn-down-and-save/)
+    * [App Reviews](https://loop.homes/loop-smart-meter-app/reviews/)
+    * [User Stories](https://loop.homes/loop-smart-meter-app/user-stories/)
+* [Install Solar Panels](https://loop.homes/install-solar-panels/)
+* [Guides](https://loop.homes/guides/)
+* [Blog](https://blog.loop.homes/)
+* [About](https://loop.homes/loop-trust-power)
+* [Support](#)
+    * [Troubleshooting](https://loop.homes/support/)
+    * [My Account](https://loophome.app/)
+
+[![App Store Button](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![App Store Button](https://loop.homes/wp-content/uploads/2023/10/app-store-badge.png)](https://apps.apple.com/gb/app/loop-energy-smart-meter-app/id1483586889?utm_source=Website&utm_medium=SmartMeterApp&utm_campaign=Billboard+)
+
+[![Google Play button](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Google Play button](https://loop.homes/wp-content/uploads/2023/10/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.trustpower.loop&referrer=utm_source=Website&utm_medium=SmartMeterApp&utm_campaign=Billboard%20)
+
+Facebook [Twitter X](https://twitter.com/loophomes) Tiktok [Instagram](https://www.facebook.com/loophomes) Youtube
