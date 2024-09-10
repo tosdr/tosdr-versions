@@ -531,7 +531,7 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-© Copyright 2023 adMarketplace
+© Copyright 2024 adMarketplace
 
 [Sitemap](https://www.admarketplace.com/sitemap)
 
