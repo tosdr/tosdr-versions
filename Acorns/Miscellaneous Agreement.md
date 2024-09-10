@@ -2016,7 +2016,11 @@ Acorns or Acorns Securities may charge the following fees, in addition to the ap
 | Paper Mailed Statements | $10/month |
 | Paper Mailed Confirmations | $15/month |
 
-![Acorns Logo](https://sqy7rm.media.zestyio.com/App-Icon.B1s9Xy3z9.svg)
+![Acorns Logo](
+        
+          https://sqy7rm.media.zestyio.com/App-Icon.B1s9Xy3z9.svg
+        
+      )
 
 Acorns
 
