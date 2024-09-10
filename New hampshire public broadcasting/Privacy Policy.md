@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Sylvester: The Disco Diva You Didn't Know You Knew** | Sound Field](https://video.nhpbs.org/video/sylvester-the-disco-diva-you-didnt-know-you-knew-jym3ck?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**NEWS WRAP** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1722376006?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Odysseus Returns](https://video.nhpbs.org/video/preview-nupj8r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Was Penrose Right? New Evidence For Quantum Effects In The Brain** | PBS Space Time](https://video.nhpbs.org/video/was-penrose-right-new-evidence-for-quantum-effects-in-the-brain-pe0bka?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Winner** | PBS Short Film Festival](https://video.nhpbs.org/video/2024-pbs-short-film-festival-winner-pran25?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**J.D. Vance Has "No Business Speaking for Kentucky," Says KY State Senator** | Amanpour and Company](https://video.nhpbs.org/video/jd-vance-has-no-business-speaking-for-kentucky-says-ky-state-senator-b57phj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Daniel's Journey** | Grantchester](https://video.nhpbs.org/video/daniels-journey-htjkej?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**full episode, 7/26/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-72624-xeuouy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Official Trailer** | Leonardo da Vinci](https://video.nhpbs.org/video/leonardo-da-vinci-ken-burns-official-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**September 9, 2024** | Amanpour and Company](https://video.nhpbs.org/video/september-9-2024-d0ewuc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Season 1 Preview** | Velvet](https://video.nhpbs.org/video/velvet-season-1-preview-yp2lle?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**From Magpie Murders to : What to Expect** | Moonflower Murders](https://video.nhpbs.org/video/from-magpie-to-moonflower-what-to-expect-aao5rs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Voters in county with record of picking winners share views** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1725919460?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**full episode, 9/6/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-9624-5irock?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 Chevrolet Corvette E-Ray & 2025 Genesis GV80** | MotorWeek](https://video.nhpbs.org/video/2024-chevrolet-corvette-e-ray-2025-genesis-gv80-bwgrkn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Segregation Scholarships Trailer** | Local, USA](https://video.nhpbs.org/video/local-usa-segregation-scholarships-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**: Family Playlist** | Pacific Heartbeat](https://video.nhpbs.org/video/pacific-heartbeat-family-playlist-6vmebo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How Project 2025 Impacts the Separation of Church and State** | To The Contrary](https://video.nhpbs.org/video/how-project-2025-impacts-the-separation-of-church-and-state-c6rhks?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
