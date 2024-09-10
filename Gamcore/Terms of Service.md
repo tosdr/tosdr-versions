@@ -8,8 +8,8 @@
 
 [Login](https://gamcore.com/login) [Register](https://gamcore.com/register)
 
-* [Family Sim](https://gamcore.com/fuckyou/247)
 * [Sex Games](https://gamcore.com/fuckyou/366)
+* [Family Sim](https://gamcore.com/fuckyou/247)
 * [Cartoon Porn](https://porcore.com/)
 * [Favourites](https://gamcore.com/favourites)
 * [History](https://gamcore.com/history)
@@ -145,7 +145,7 @@ Main Tags
 * [Oral Sex](https://gamcore.com/oral_sex)
 * [Adult Games](https://gamcore.com/over_18)
 * [Overwatch](https://gamcore.com/overwatch)
-* [Paranormal games](https://gamcore.com/paranormal_games)
+* [Paranormal Games](https://gamcore.com/paranormal_games)
 * [Parodies](https://gamcore.com/parodies)
 * [Perversion](https://gamcore.com/perversion)
 * [Physics](https://gamcore.com/physics)
