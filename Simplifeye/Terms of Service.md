@@ -236,7 +236,7 @@ Indianapolis, IN 46278](https://goo.gl/maps/wHaujvWa1Yz8f5ok9) [Corporate HQ:
 100 Ashford Center North Suite 300  
 Dunwoody, GA 30338](https://goo.gl/maps/3tcY4bG9QqQ1Rkh5A)
 
-© 2023 Napa EA/MEDX LLC. All rights reserved.
+© 2024 Napa EA/MEDX LLC. All rights reserved.
 
 [Scroll to top](#top "Scroll to top")
 
