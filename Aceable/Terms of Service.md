@@ -2,13 +2,13 @@
 
 SALE ENDS IN
 
-06HRS
+08HRS
 
-13MIN
+26MIN
 
 46SEC
 
-[![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234)](https://www.aceable.com/)
+[![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
 Drivers Ed ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559) 
 
@@ -51,6 +51,8 @@ Driving Resources ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=171267455
 [Safe Driving Tips](https://www.aceable.com/safe-driving/)
 
 [Driving Articles](https://www.aceable.com/blog/)
+
+[Allstate Roadside Assistance](https://www.aceable.com/roadside/)
 
 Our Company ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559) 
 
@@ -186,7 +188,7 @@ View Aceable’s Terms of Service for each of our courses below:
 
 * [PA Drivers Ed](https://www.aceable.com/tandc/pa-de/)
 
-[![Aceable logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo.svg?v=1684949302)](https://www.aceable.com/)
+[![Aceable logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo.svg?v=1684949302&auto=compress,format)](https://www.aceable.com/)
 
 [Partner with Us](https://www.aceable.com/driving-partnerships/)[Refer a Friend](https://www.aceable.com/referral/invite/)
 
@@ -194,9 +196,11 @@ View Aceable’s Terms of Service for each of our courses below:
 
 [Careers](https://www.aceable.com/company/careers/)[Partnerships](https://www.aceable.com/driving-partnerships/)[Help Center](https://support.aceabledriving.com/hc/en-us/)[Contact](https://support.aceabledriving.com/hc/en-us/requests/new)[Our Blog](https://www.aceable.com/blog/)
 
-[TikTok](https://www.tiktok.com/@aceabledriving)[Instagram](https://www.instagram.com/aceable/)[Twitter](https://twitter.com/aceable)[YouTube](https://www.youtube.com/channel/UC9VfB1Mgu4Msm39b7kXruBw)[Facebook](https://www.facebook.com/aceable/)[LinkedIn](https://www.linkedin.com/company/aceable)
+[TikTok](https://www.tiktok.com/@aceabledriving)[Instagram](https://www.instagram.com/aceable/)[X](https://x.com/aceableagent)[YouTube](https://www.youtube.com/channel/UC9VfB1Mgu4Msm39b7kXruBw)[Facebook](https://www.facebook.com/aceable/)[LinkedIn](https://www.linkedin.com/company/aceable)
 
 © 2024 Aceable, Inc.  
 All rights reserved.
 
 [Privacy Policy](https://www.aceable.com/privacy-policy/)[Terms & Conditions](https://www.aceable.com/tandc/)
+
+Do not sell or share my information
