@@ -367,11 +367,11 @@ We may combine this information with any other information we have about you, in
 **Texting**
 -----------
 
-If you sign up to receive text messages from us on any of our Sites, you are consenting to receive text messages related to your relationship with Mayo Clinic, including updates related to your visits, your Mayo Clinic Patient Portal account, one-time passcodes, billing notifications, prescription reminders, and care management. These texts are unencrypted and message and data rates may apply. Message frequency may vary.
+If you sign up to receive text messages from us on any of our Sites, you are consenting to receive text messages related to your relationship with Mayo Clinic, including updates related to your visits, your Mayo ClinicPatient Portal account, one-time passcodes, billing notifications, prescription reminders, and care management. These texts are unencrypted and message and data rates may apply. Message frequency may vary.
 
 You can opt-out of SMS messages by texting STOP to the respective short code. Your opt-out request will generate one final message confirming that you have been unsubscribed. You will no longer receive SMS messages from the short code you opted out from. If you want to join again, sign up using your Mayo Clinic Online Services account or text HELP to the short code for instructions.
 
-If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance.  You can also contact Mayo Clinic Customer Assistance via phone at 507-738-4014 or email at [PrivacyOffice@mayoclinic.org](mailto:privacyoffice@mayoclinic.org)**.**   
+If you are experiencing issues with the messaging program, you can reply with the keyword HELP for more assistance. You can also contact Mayo Clinic Customer Assistance via phone at 507-738-4014 or email at [PrivacyOffice@mayoclinic.org](mailto:privacyoffice@mayoclinic.org)**.**  
 
 Note that carriers are not liable for delayed or undelivered messages.  
 
@@ -415,7 +415,7 @@ Your rights regarding your information and accessing and correcting your informa
 
 For non-patient information, you can Contact Us through the Contact Information below to access and/or find out what information we have about you and to correct that information. You can also review and change your Personal Data by logging into our site and visiting either the Settings or Account Preferences sections. You may also notify us through the Contact Information below of any changes or errors in any Personal Data we have about you to ensure that it is complete, accurate, and as current as possible or to delete your account. We cannot completely delete your personal information except by also deleting your account with us. We may not be able to accommodate your request if we believe it would violate any law or legal requirement or if we have a legal basis or obligation to maintain it, or if it would cause the information to be incorrect.
 
-If you are a patient of Mayo Clinic, you can access the patient-related information that we maintain about you through [Patient Portal](https://onlineservices.mayoclinic.org/content/staticpatient/showpage/patientonline) or through our health information management department. For more information about requesting your medical records, ask us or go online to the Patient and Visitor Guide for the location where you receive your care, then explore the release of information options: [https://www.mayoclinic.org/patient-visitor-guide](https://www.mayoclinic.org/patient-visitor-guide). You also can request a correction to your patient information through our Patient Portal or health information management department. In our mobile app, you can request to deactivate your account; however, we are still required maintain your patient-related information under the Health Insurance Portability and Accountability Act (HIPAA) and other federal and state law.
+If you are a patient of Mayo Clinic, you can access the patient-related information that we maintain about you through [Patient Portal](https://onlineservices.mayoclinic.org/content/staticpatient/showpage/patientonline)or through our health information management department. For more information about requesting your medical records, ask us or go online to the Patient and Visitor Guide for the location where you receive your care, then explore the release of information options: [https://www.mayoclinic.org/patient-visitor-guide](https://www.mayoclinic.org/patient-visitor-guide). You also can request a correction to your patient information through ourPatient Portal or health information management department. In our mobile app, you can request to deactivate your account; however, we are still required maintain your patient-related information under the Health Insurance Portability and Accountability Act (HIPAA) and other federal and state law.
 
 Security
 --------
@@ -440,7 +440,7 @@ Protecting children's privacy
 
 Other than our [Patient Portal](https://onlineservices.mayoclinic.org/content/staticpatient/showpage/patientonline), our Sites are not intended for users under 18 years of age. No one under age 18 may provide any information to or through the Sites. We do not knowingly collect Personal Data from users under 18. If you are under 18, do not use or provide any information on or in our Sites or on or through any of their features, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received Personal Data from a user under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from a user under 18, please contact us at the contact information below.
 
-Our Patient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
+OurPatient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
 
 Links to other websites
 -----------------------
@@ -470,16 +470,16 @@ Rochester, MN 55905
 507-266-6286  
 [PRIVACYOFFICE@mayo.edu](mailto:PRIVACYOFFICE@mayo.edu)
 
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/12/cancer-ribbon.svg)
+![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-Double your impact on fighting cancer
--------------------------------------
+5X Challenge
+------------
 
-[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
 
-Make a gift before July 31 and it can go twice as far to fight cancer.
+Thanks to generous benefactors, your gift today can have 5X the impact to advance AI innovation at Mayo Clinic.
 
-[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
@@ -575,7 +575,7 @@ Make a gift before July 31 and it can go twice as far to fight cancer.
     
 * [Degree Programs](https://college.mayo.edu/academics/)
     
-* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
+* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL)
     
 
 [Students](https://college.mayo.edu/)
@@ -587,7 +587,7 @@ Make a gift before July 31 and it can go twice as far to fight cancer.
     
 * [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
     
-* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
+* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL)
     
 
 [Researchers](https://www.mayo.edu/research)
