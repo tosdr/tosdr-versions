@@ -1,4 +1,4 @@
-We stand with Ukraine to help keep people safe. [Join us](https://payproglobal.com/ukraine-help?x-source=clarioweb)
+We stand with Ukraine to help keep people safe. [Join us](https://uadroneschool.com/)
 
 [![MacUpdate](https://static.macupdate.com/site/img/common/mu_logo.png)MacUpdate](https://www.macupdate.com/)
 
@@ -517,7 +517,7 @@ Sourcing the best Mac apps and software for over a million users since 1997.
 
 * [About](https://www.macupdate.com/about)
 * [Contact](https://www.macupdate.com/write-for-us)
-* [Help](https://www.macupdate.com/help)
+* [Add Article](https://www.macupdate.com/article/submit)
 * [Add App](https://www.macupdate.com/content/submit)
 * [Discontinued Apps](https://www.macupdate.com/discontinued-apps)
 
@@ -529,5 +529,6 @@ Sourcing the best Mac apps and software for over a million users since 1997.
 
 * [Terms of Use for MU Notifier](https://www.macupdate.com/mu-notifier-terms-of-use)
 * [Privacy Notice for MU Notifier](https://www.macupdate.com/mu-notifier-privacy-notice)
+* [Help](https://www.macupdate.com/help)
 
 © 1997\-2024 Tekkie OU. All rights reserved.
