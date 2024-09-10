@@ -6,7 +6,7 @@ Open Menu Close Menu
 
 [SHOP](https://badinkstudios.com/shop)
 
-[INTERDIMENSIONAL](https://badinkstudios.com/interdimensional)
+[INTERDIMENSIONAL 3](https://badinkstudios.com/interdimensional)
 
 [ABOUT](https://badinkstudios.com/bad-ink)
 
@@ -18,7 +18,7 @@ Open Menu Close Menu
 
 [SHOP](https://badinkstudios.com/shop)
 
-[INTERDIMENSIONAL](https://badinkstudios.com/interdimensional)
+[INTERDIMENSIONAL 3](https://badinkstudios.com/interdimensional)
 
 [ABOUT](https://badinkstudios.com/bad-ink)
 
@@ -30,7 +30,7 @@ Open Menu Close Menu
 
 [SHOP](https://badinkstudios.com/shop)
 
-[INTERDIMENSIONAL](https://badinkstudios.com/interdimensional)
+[INTERDIMENSIONAL 3](https://badinkstudios.com/interdimensional)
 
 [ABOUT](https://badinkstudios.com/bad-ink)
 
@@ -59,4 +59,4 @@ For Return Costs as well as Returns & Exchanges in general ,contact us for parti
 
 [Privacy Policy](https://badinkstudios.com/privacy-policy) [Shipping & Returns](https://badinkstudios.com/shipping-returns)
 
-Copyright ©2022 Evan Schultz and Lydia Roberts. ALL RIGHTS RESERVED.
+Copyright ©2024 Evan Schultz and Lydia Roberts. ALL RIGHTS RESERVED.
