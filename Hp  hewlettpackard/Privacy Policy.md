@@ -46,6 +46,8 @@ Explore
 
 * PCs
 
+[* Next Gen AI PCs](https://www.hp.com/gb-en/ai-solutions/next-gen-ai-pcs.html "Next Gen AI PCs")
+
 [* Laptops](https://www.hp.com/gb-en/laptops-and-2-in-1s.html "Laptops")
 
 [* Desktops](https://www.hp.com/gb-en/desktops-and-all-in-ones.html "Desktops")
@@ -227,7 +229,7 @@ https://store.hp.com/UKStore/Merch/Cart.aspx
 
 * PCs
 
-[* Laptops](https://www.hp.com/gb-en/laptops-and-2-in-1s.html)[* Desktops](https://www.hp.com/gb-en/desktops-and-all-in-ones.html)[* Gaming](https://www.hp.com/gb-en/gaming.html)[* Monitors](https://www.hp.com/gb-en/monitors-accessories/computer-monitors.html)[* Accessories](https://www.hp.com/gb-en/monitors-accessories/computer-accessories.html)[* Business laptops](https://www.hp.com/gb-en/laptops/business-laptops-and-2-in-1s.html)[* Business desktops](https://www.hp.com/gb-en/desktops/business-desktops.html)[* Workstations](https://www.hp.com/gb-en/workstations/workstation-pcs.html)
+[* Next Gen AI PCs](https://www.hp.com/gb-en/ai-solutions/next-gen-ai-pcs.html)[* Laptops](https://www.hp.com/gb-en/laptops-and-2-in-1s.html)[* Desktops](https://www.hp.com/gb-en/desktops-and-all-in-ones.html)[* Gaming](https://www.hp.com/gb-en/gaming.html)[* Monitors](https://www.hp.com/gb-en/monitors-accessories/computer-monitors.html)[* Accessories](https://www.hp.com/gb-en/monitors-accessories/computer-accessories.html)[* Business laptops](https://www.hp.com/gb-en/laptops/business-laptops-and-2-in-1s.html)[* Business desktops](https://www.hp.com/gb-en/desktops/business-desktops.html)[* Workstations](https://www.hp.com/gb-en/workstations/workstation-pcs.html)
 
 * Printers
 
@@ -322,7 +324,6 @@ Select Your Country/Region and Language
 * [Danmark](https://www.hp.com/dk-da/home.html "Danmark")
 * [Deutschland](https://www.hp.com/de-de/home.html "Deutschland")
 * [Eesti](https://www.hp.com/ee-et/home.html "Eesti")
-* [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
 * [Hrvatska](https://www.hp.com/hr-hr/home.html "Hrvatska")
@@ -333,6 +334,7 @@ Select Your Country/Region and Language
 * [Magyarország](https://www.hp.com/hu-hu/home.html "Magyarország")
 * [Middle East](https://www.hp.com/emea_middle_east-en/home.html "Middle East")
 * [Nederland](https://www.hp.com/nl-nl/home.html "Nederland")
+* [Nigeria](https://www.hp.com/ng-en/home.html "Nigeria")
 * [Norge](https://www.hp.com/no-no/home.html "Norge")
 * [Österreich](https://www.hp.com/at-de/home.html "Österreich")
 * [Polska](https://www.hp.com/pl-pl/home.html "Polska")
@@ -391,7 +393,6 @@ Click or use the tab key to select your country
 * [Deutschland](https://www.hp.com/de-de/home.html "Deutschland")
 * [Ecuador](https://www.hp.com/ec-es/home.html "Ecuador")
 * [Eesti](https://www.hp.com/ee-et/home.html "Eesti")
-* [English](https://www8.hp.com/us/en/home.html "English")
 * [España](https://www.hp.com/es-es/home.html "España")
 * [France](https://www.hp.com/fr-fr/home.html "France")
 * [Hong Kong SAR](https://www.hp.com/hk-en/home.html "Hong Kong SAR")
@@ -408,6 +409,7 @@ Click or use the tab key to select your country
 * [Middle East](https://www.hp.com/emea_middle_east-en/home.html "Middle East")
 * [Nederland](https://www.hp.com/nl-nl/home.html "Nederland")
 * [New Zealand](https://www.hp.com/nz-en/home.html "New Zealand")
+* [Nigeria](https://www.hp.com/ng-en/home.html "Nigeria")
 * [Norge](https://www.hp.com/no-no/home.html "Norge")
 * [Österreich](https://www.hp.com/at-de/home.html "Österreich")
 * [Pakistan](https://www.hp.com/asia_pac-en/default.html "Pakistan")
