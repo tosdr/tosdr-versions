@@ -52,7 +52,7 @@ Menu
     
     ### Most Popular
     
-    * [Gifts Under £20](https://www.moonpig.com/uk/gifts/birthday/under-20/)
+    * [Gifts Under £15](https://www.moonpig.com/uk/gifts/birthday/under-15/)
     * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/birthday/photo-upload/)
     * [Funny Cards](https://www.moonpig.com/uk/personalised-cards/birthday/funny/)
     * [Rude Cards](https://www.moonpig.com/uk/personalised-cards/birthday/naughty/)
@@ -69,6 +69,7 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
+    * [Back to University](https://www.moonpig.com/uk/personalised-cards/back-to-university/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
@@ -79,18 +80,19 @@ Menu
     ### Sentiment
     
     * [Congratulations](https://www.moonpig.com/uk/personalised-cards/congratulations/)
-    * [Good Luck](https://www.moonpig.com/uk/personalised-cards/good-luck/)
     * [Just A Note](https://www.moonpig.com/uk/personalised-cards/just-note/)
     * [Thinking Of You](https://www.moonpig.com/uk/personalised-cards/thinking-of-you/)
     * [Sympathy](https://www.moonpig.com/uk/personalised-cards/sympathy/)
     * [Thank You](https://www.moonpig.com/uk/personalised-cards/thank-you/)
+    * [Good Luck](https://www.moonpig.com/uk/personalised-cards/good-luck/)
     * [Get Well Soon](https://www.moonpig.com/uk/personalised-cards/get-well-soon/)
     * [Leaving](https://www.moonpig.com/uk/personalised-cards/leaving/)
     * [Empathy](https://www.moonpig.com/uk/personalised-cards/empathy/)
     
     ### Format
     
-    * [Features](https://www.moonpig.com/uk/moonpig-features/)
+    * [Special Features](https://www.moonpig.com/uk/moonpig-features/)
+    * [Add Stickers](https://www.moonpig.com/uk/personalised-cards/stickers-emojis/)
     * [Add a Voice Note](https://www.moonpig.com/uk/personalised-cards/video-cards/)
     * [Add a Video](https://www.moonpig.com/uk/personalised-cards/video-cards/)
     * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/photo-upload/)
@@ -106,9 +108,18 @@ Menu
     * [Rude](https://www.moonpig.com/uk/personalised-cards/naughty/)
     * [Cute](https://www.moonpig.com/uk/personalised-cards/cute/)
     * [New Designs](https://www.moonpig.com/uk/personalised-cards/new/all/)
-    * [Trending](https://www.moonpig.com/uk/personalised-cards/trending/all/)
-    * [Bestsellers](https://www.moonpig.com/uk/personalised-cards/best-sellers/)
-    * [Brands](https://www.moonpig.com/uk/brands/)
+    * [Gala Bingo](https://www.moonpig.com/uk/personalised-cards/gala-bingo/)
+    
+    ### Invitations
+    
+    * [Baby Announcements](https://www.moonpig.com/uk/personalised-cards/announcements/new-baby/)
+    * [Moving Announcements](https://www.moonpig.com/uk/personalised-cards/announcements/moving/)
+    * [Bridesmaid Proposals](https://www.moonpig.com/uk/personalised-cards/invitations/bridesmaid/)
+    * [Birthday Party](https://www.moonpig.com/uk/personalised-cards/invitations/birthday-party/)
+    * [Kids Birthday Party](https://www.moonpig.com/uk/personalised-cards/invitations/kids-party/)
+    * [Anniversary Party](https://www.moonpig.com/uk/personalised-cards/invitations/anniversary/)
+    * [Engagement Party](https://www.moonpig.com/uk/personalised-cards/invitations/engagement/)
+    * [Wedding Invitations](https://www.moonpig.com/uk/personalised-cards/invitations/wedding/)
     
 * Open Flowers & Plants dropdown[![Flowers & Plants](https://static.web-explore-server.prod.moonpig.net/_next/static/images/flowers-9b242982b53cdca5921bd21b3669c284.svg)
     
@@ -127,12 +138,13 @@ Menu
     ### Shop by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
-    * [Sympathy](https://www.moonpig.com/uk/flowers-and-plants/sympathy/)
     * [Anniversary](https://www.moonpig.com/uk/flowers-and-plants/anniversary/)
-    * [Celebrations](https://www.moonpig.com/uk/flowers-and-plants/congratulations/)
+    * [Congratulations](https://www.moonpig.com/uk/flowers-and-plants/congratulations/)
+    * [Sympathy](https://www.moonpig.com/uk/flowers-and-plants/sympathy/)
     * [Thank You](https://www.moonpig.com/uk/flowers-and-plants/thank-you/)
     * [New Baby](https://www.moonpig.com/uk/flowers-and-plants/new-baby/)
     * [New Home](https://www.moonpig.com/uk/flowers-and-plants/new-home/)
+    * [Get Well Soon](https://www.moonpig.com/uk/flowers-and-plants/get-well-soon/)
     
     ### Who's it For?
     
@@ -154,6 +166,7 @@ Menu
     * [All Plants](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
     * [Arena Flowers](https://www.moonpig.com/uk/flowers-and-plants/arena/)
     * [Cath Kidston](https://www.moonpig.com/uk/flowers-and-plants/cath-kidston/)
+    * [Patch Plants](https://www.moonpig.com/uk/flowers-and-plants/patch-plants/)
     * [Letterbox](https://www.moonpig.com/uk/flowers-and-plants/letterbox/)
     * [Garden Gifts](https://www.moonpig.com/uk/gifts/garden/all/)
     
@@ -163,12 +176,13 @@ Menu
     
     ### Shop by Price
     
+    * [£15 & Under](https://www.moonpig.com/uk/gifts/under-15/)
     * [£20 & Under](https://www.moonpig.com/uk/gifts/under-20/)
     * [Mugs Only £10](https://www.moonpig.com/uk/gifts/personalised-mugs/all/)
     * [Balloons From £12](https://www.moonpig.com/uk/gifts/balloons/all/)
     * [Best Value Gift Sets](https://www.moonpig.com/uk/gifts/our-best-gift-sets/)
     * [Special Offers](https://www.moonpig.com/uk/offers/)
-    * [Luxury](https://www.moonpig.com/uk/gifts/luxury/)
+    * [Premium](https://www.moonpig.com/uk/gifts/premium/)
     
     ### Most Popular
     
@@ -180,7 +194,7 @@ Menu
     * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fun-novelty/all/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/chocolate-sweets/)
     * [Candles & Diffusers](https://www.moonpig.com/uk/gifts/homeware/candles/)
-    * [Jewellery](https://www.moonpig.com/uk/gifts/jewellery/for-her/)
+    * [Toys & Games](https://www.moonpig.com/uk/gifts/toys-games/all/)
     * [Beauty & Fragrance](https://www.moonpig.com/uk/gifts/beauty/all/)
     
     ### Shop by Recipient
@@ -199,30 +213,54 @@ Menu
     ### Gifts by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/gifts/birthday/)
+    * [Congratulations](https://www.moonpig.com/uk/gifts/congratulations/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/anniversary/all/)
+    * [Wedding](https://www.moonpig.com/uk/gifts/weddings/all/)
     * [Good Luck](https://www.moonpig.com/uk/gifts/good-luck/)
     * [New Baby](https://www.moonpig.com/uk/gifts/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/gifts/new-home/)
-    * [Congratulations](https://www.moonpig.com/uk/gifts/congratulations/)
     * [Thank You](https://www.moonpig.com/uk/gifts/thank-you/)
     * [Thinking of You](https://www.moonpig.com/uk/gifts/thinking-of-you/)
     
     ### Our Top Brands
     
+    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
+    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
     * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/)
     * [Maltesers & M&M's](https://www.moonpig.com/uk/gifts/mars/)
-    * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/)
-    * [Hotel Chocolat](https://www.moonpig.com/uk/gifts/hotel-chocolat/)
+    * [Tatty Teddy](https://www.moonpig.com/uk/gifts/tatty-teddy/)
     * [Swizzels Love Hearts](https://www.moonpig.com/uk/gifts/love-hearts/)
-    * [Buyagift](https://www.moonpig.com/uk/gifts/experience-gifts/buy-a-gift/)
-    * [Red Letter Days](https://www.moonpig.com/uk/gifts/experience-gifts/red-letter-days/)
     * [Cadbury](https://www.moonpig.com/uk/gifts/food/chocolate/cadbury/)
     * [Disney](https://www.moonpig.com/uk/disney/)
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/)
     
-* [![Balloons](https://static.web-explore-server.prod.moonpig.net/_next/static/images/balloons-ede525326ffc97c5100878fbf7305677.svg)
+* Open Balloons dropdown[![Balloons](https://static.web-explore-server.prod.moonpig.net/_next/static/images/balloons-ede525326ffc97c5100878fbf7305677.svg)
     
     Balloons](https://www.moonpig.com/uk/gifts/balloons/)
+    
+    ### Shop by Recipient
+    
+    * [For Her](https://www.moonpig.com/uk/gifts/balloons/for-her/)
+    * [For Him](https://www.moonpig.com/uk/gifts/balloons/for-him/)
+    * [For Kids](https://www.moonpig.com/uk/gifts/balloons/for-kids/)
+    * [For Teens](https://www.moonpig.com/uk/gifts/balloons/for-teens/)
+    
+    ### Shop by Occasion
+    
+    * [Birthday](https://www.moonpig.com/uk/gifts/balloons/birthday/)
+    * [Anniversary](https://www.moonpig.com/uk/gifts/balloons/anniversary/)
+    * [Congratulations](https://www.moonpig.com/uk/gifts/balloons/congratulations/)
+    * [New Baby](https://www.moonpig.com/uk/gifts/balloons/new-baby/)
+    * [Thinking of You](https://www.moonpig.com/uk/gifts/balloons/thinking-of-you/)
+    * [Wedding](https://www.moonpig.com/uk/gifts/balloons/wedding/)
+    
+    ### Shop by Type
+    
+    * [Single Balloons](https://www.moonpig.com/uk/gifts/balloons/single/)
+    * [Gift Sets](https://www.moonpig.com/uk/gifts/balloons/gift-sets/)
+    * [Balloon Bouquets](https://www.moonpig.com/uk/gifts/balloons/bouquets/)
+    * [Number Balloons](https://www.moonpig.com/uk/gifts/balloons/number-balloons/)
+    * [Letterbox Balloons](https://www.moonpig.com/uk/gifts/balloons/letterbox/)
     
 * Open Experiences dropdown[![Experiences](https://static.web-explore-server.prod.moonpig.net/_next/static/images/egifts-c9ec0761fc008af85e648577c9c0ac4a.svg)
     
@@ -249,7 +287,6 @@ Menu
     * [Spa & Pamper](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/spa-days/)
     * [Afternoon Tea](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/afternoon-tea/)
     * [Short Breaks](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/short-breaks/)
-    * [Theatre](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/theatre/)
     
     ### Shop by Location
     
@@ -344,7 +381,6 @@ This depends on which cookies you disable, but in general our Site will not oper
 * [Moonpig Plus](https://www.moonpig.com/uk/moonpig-plus/)
 * [Group Cards](https://www.moonpig.com/uk/group-cards/)
 * [Reminders](https://www.moonpig.com/uk/account/reminders/)
-* [Student Discount](https://www.moonpig.com/uk/student-discount/)
 * [Moonpig for work](https://www.moonpig.com/uk/business/)
 
 ### Need Some Help?
