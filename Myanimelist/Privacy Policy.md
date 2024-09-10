@@ -535,9 +535,9 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 
 1. 1 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
 2. 2 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-3. 3 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
-4. 4 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
-5. 5 [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season)
+3. 3 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
+4. 4 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+5. 5 [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
