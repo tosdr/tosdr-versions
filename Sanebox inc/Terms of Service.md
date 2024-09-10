@@ -262,6 +262,4 @@ _These TOS were last modified January 6, 2021._
 
 © Copyright 2024 SaneBox, Inc.
 
-[](https://apps.apple.com/app/apple-store/id1497929071?pt=1903498&ct=site_footer&mt=8 "Download on the App Store")
-
 [TikTok](https://www.tiktok.com/@sanebox "TikTok")[Instagram](https://www.instagram.com/teamsanebox/ "Instagram")[Facebook](https://www.facebook.com/SaneBox "Facebook")[X](https://www.twitter.com/sanebox "X")[LinkedIn](https://www.linkedin.com/company/sanebox "LinkedIn")
