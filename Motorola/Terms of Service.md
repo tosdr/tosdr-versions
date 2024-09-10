@@ -20,9 +20,9 @@
     Compare
     
     * [* moto g stylus 5g - $170 off](https://www.motorola.com/us/smartphones-moto-g-stylus-5g-gen-3/p?skuId=935 "moto g stylus 5g - $170 off")
-    * [* razr 2023 - $300 of](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $300 of")
+    * [* razr 2023 - $300 off](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $300 off")
     * [* moto edge 2023 - $300 off](https://www.motorola.com/us/smartphones-motorola-edge-gen-4/p?skuId=1001 "moto edge 2023 - $300 off")
-    * [* RAZR ANNIVERSARY SALE](https://www.motorola.com/us/specials "RAZR ANNIVERSARY SALE")
+    * [* HARVEST SALE](https://www.motorola.com/us/specials "HARVEST SALE ")
     * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
     * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
     * [](#)
@@ -42,12 +42,12 @@
     
     Compare
     
-    * [* Stylus Pens](https://www.motorola.com/us/moto-g-stylus-replacement-pens "Stylus Pens")
+    * [* Moto Tag](https://www.motorola.com/us/moto-tag/p?skuId=1166 "Moto Tag")
     * [* Cases & Protection](https://www.motorola.com/us/all-cases-and-protection "Cases & Protection")
     * [* Headphones](https://www.motorola.com/us/headphones "Headphones")
     * [* Wearables](https://www.motorola.com/us/wearables "Wearables")
     * [* Power & Charging](https://www.motorola.com/us/power-and-charger "Power & Charging")
-    * [](#)
+    * [* Portable Speakers](https://www.motorola.com/us/portable-speakers "Portable Speakers")
     * [* Auto accessories](https://www.motorola.com/us/auto-accessories "Auto accessories")
     
 * Smart Products
@@ -61,7 +61,7 @@
     * [* Home & Office Phones](https://www.motorola.com/us/home-and-office-phones "Home & Office Phones")
     * [* Smart Nursery & Monitors](https://www.motorola.com/us/smart-nursery-and-monitors "Smart Nursery & Monitors")
     * [* Wearables](https://www.motorola.com/us/wearables "Wearables")
-    * [* Tablets](https://www.motorola.com/us/tablet-family "Tablets")
+    * [* Moto Tag](https://www.motorola.com/us/moto-tag/p?skuId=1166 "Moto Tag")
     
 * Software & Support
     
@@ -70,7 +70,7 @@
     Compare
     
     * [* Support](https://en-us.support.motorola.com/app/home "Support")
-    * [* Rescue & Smart Assistant](https://en-us.support.motorola.com/app/rsa "Rescue & Smart Assistant")
+    * [* Software Fix](https://en-us.support.motorola.com/app/rsa "Software Fix")
     * [* Software Updates](https://motorola-global-portal.custhelp.com/app/software-upgrade/g_id/1949/ "Software Updates")
     * [* My UX](https://www.motorola.com/us/my-ux/p "My UX")
     * [* Beta Testing](https://lnv.gy/45GoKSB "Beta Testing")
@@ -245,6 +245,7 @@ These terms are subject to revision without notice. These terms were last update
 * [Contact us](https://motorola-global-portal.custhelp.com/app/mcp/contactus)
 * [Financing](https://www.motorola.com/us/financing)
 * [Right to repair](https://en-us.support.motorola.com/app/right-to-repair)
+* [Hearing Aid Compatibility](https://www.motorola.com/us/about/hearing-aid-compatibility-us)
 
 ###### About
 
