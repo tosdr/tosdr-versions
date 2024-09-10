@@ -6,19 +6,18 @@
 
 [![](/Content/images/Discord.svg)](https://discord.gg/Zs67BcB6tm)
 
-  [![](https://readcomiconline.li/Content/images/read.png)  Adv Search](https://readcomiconline.li/AdvanceSearch)
+  [![](/Content/images/read.png)  Adv Search](https://readcomiconline.li/AdvanceSearch)
 
 [ReadComicOnline.li](https://readcomiconline.li/ "ReadComicOnline - Read high quality comic online")
 ====================================================================================================
 
 * [Home](https://readcomiconline.li/)
 * [Comic List](https://readcomiconline.li/ComicList)
+* [Marvel Comics](https://readcomiconline.li/Publisher/Marvel/LatestUpdate)
+* [DC Comics](https://readcomiconline.li/Publisher/DC-Comics/LatestUpdate)
 * [Random Comic](https://readcomiconline.li/Shuffle)
 * [Report Error](https://readcomiconline.li/Message/ReportError)
 * [Mobile](https://readcomiconline.li/Mobile/SwitchToMobile)
-* [Watch Cartoon](https://kimcartoon.li/)
-* [Asian Drama](https://kissasian.lu/)
-* [Asian TV Show](https://kisstvshow.to/)
 
 DMCA
 
@@ -65,9 +64,8 @@ If you are the copyright owner of content which appears on the ReadComicOnline w
 
 &lt;a href="https://renzuken.wufoo.com/forms/zd6zg301kw5j0w/"&gt;Fill out my Wufoo form!&lt;/a&gt;
 
-From 2015 [ReadComicOnline.to](https://readcomiconline.li/). Copyrights and trademarks for the comic, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. [Privacy Policy](https://readcomiconline.li/Message/PrivacyPolicy) | [DMCA](https://readcomiconline.li/Message/DMCA) | [Contact us](https://discord.gg/Zs67BcB6tm)  
-
-Geo: GB
+From 2015 [ReadComicOnline.to](https://readcomiconline.li/). Copyrights and trademarks for the comic, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. [Privacy Policy](https://readcomiconline.li/Message/PrivacyPolicy) | [DMCA](https://readcomiconline.li/Message/DMCA) | [Contact us](https://discord.gg/Zs67BcB6tm)  
+Country code: US  
 
 PLEASE DISABLE ADBLOCK
 
