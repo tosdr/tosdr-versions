@@ -10,7 +10,7 @@ Helping people feel close to one another
 * [Our Story](https://www.marcopolo.me/our-story/ "Our Story")
 * [Community](#)
     
-    [Ambassador Program](https://www.marcopolo.me/ambassador-program)[Military](https://community.marcopolo.me/military)[Impact](https://community.marcopolo.me/impact)[Partnerships](https://joya-communications.typeform.com/to/N99UVVuL)[Bill of Rights](https://www.marcopolo.me/bill-of-rights)
+    [Ambassador Program](https://www.marcopolo.me/ambassador-program)[Military](https://community.marcopolo.me/military)[Business](https://community.marcopolo.me/business)[Partnerships](https://joya-communications.typeform.com/to/N99UVVuL)[Bill of Rights](https://www.marcopolo.me/bill-of-rights)
     
 * [Contact Us](https://www.marcopolo.me/contact-us/ "Contact Us")
 * [Support](https://support.marcopolo.me/ "Support")
