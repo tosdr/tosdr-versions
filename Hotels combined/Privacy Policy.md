@@ -9,8 +9,6 @@ Sign in
 * [Cars](https://www.hotelscombined.com/cars)
 * [Packages](https://www.hotelscombined.com/packages)
 
-Privacy Preferences
-
 [Trips](https://www.hotelscombined.com/trips)
 
 English
@@ -90,6 +88,8 @@ Effective Date: July 25, 2024
 
 This Privacy Policy describes how KAYAK Software Corporation and its subsidiaries, or subsidiaries of our parent company Booking Holdings Inc. that we manage **“HotelsCombined”**, **“we”**, **“our”** or **“us”**) collect, use, process and share personal information. This Policy applies to visitors and users (individually, **“you”** of KAYAK's websites (including but not limited to KAYAK, momondo, HotelsCombined, SWOODOO, Cheapflights, checkfelix, Mundi and roomsearch), applications, social media accounts, and other services (collectively, our **“Services”**). You can identify the KAYAK company that hosts a particular Service and is responsible for your information under this Policy [here](https://www.hotelscombined.com/about/contacts). Please note that your use of our Services is additionally subject to the KAYAK [Terms and Conditions](https://www.hotelscombined.com/terms-of-use).
 
+For California residents, please find additional disclosures regarding this policy [here](#ccpa).
+
 As the world's leading travel search engine, KAYAK connects travelers with travel services and products offered by third parties, such as flights, accommodations, rental cars, packages, and travel insurance. This involves sharing personal information with third parties, including online travel agencies, hotels, rental car providers, airlines, and others (collectively, **“Travel partners”**).
 
 HotelsCombined is part of the [Booking Holdings Inc. corporate group](https://www.bookingholdings.com/), which includes Booking.com, OpenTable, Priceline, Agoda, and Rentalcars.com, (collectively, **“Our group companies”**. In some cases, we receive personal information from our group companies, and we share personal information with our group companies.
@@ -109,6 +109,7 @@ OVERVIEW
 | [How We Store and Protect Your Information](#storeprotectinfo) | We maintain technical, administrative, and physical security measures designed to protect your information. We may retain your information for as long as your account is active and for a period of time thereafter to allow you to re-activate your account without loss of information, and as necessary for purposes described below. [Learn more](#storeprotectinfo) |
 | [Cookies](#cookies) | We use cookies and similar technologies to help provide our Services, offer you a more personalized user experience and market our and third parties' products and services to you. [Learn more](#cookies) |
 | [Your Choices and Rights](#choicesandrights) | You have choices about your personal information, and in some circumstances, you may be able to opt out of receiving marketing communications, change your communication preferences, access and update your information, update location sharing options, exercise choices regarding cookies, and/or opt out of certain sharing of information with third parties (including our group companies, travel partners, and other business partners). These choices and other rights you may have are described in more detail below. [Learn more](#choicesandrights) |
+| [Additional disclosures for California residents](#ccpa) | If you are a California resident, you can find additional information regarding our data handling practices in this section. This section describes how we handle your information, certain rights you have with respect to your personal information, and how you can exercise your rights under applicable law. [Learn more](#ccpa) |
 | [International Transfers of Information](#transfers) | We operate internationally, and information about you may be transferred to, or accessed by, entities located in countries outside of your home country. To protect your information, any such international transfers will be made in accordance with applicable law. [Learn more](#transfers) |
 | [Links to Other Websites](#websiteslinks) | Our Services may contain links to other websites or services that are not owned or controlled by HotelsCombined, including links to websites of our travel partners, our group companies, and other business partners (including advertisers). [Learn more](#websiteslinks) |
 | [Children](#children) | Our Services are not directed at or intended for use by children, nor do we knowingly collect information from children under 16 years of age. [Learn more](#children) |
@@ -340,6 +341,76 @@ LINKS TO OTHER WEBSITES
 -----------------------
 
 Our Services contain links to other websites or services that are not owned or controlled by HotelsCombined, including links to websites of travel partners and our advertisers, our group companies, and other business partners. This Policy only applies to information collected by our Services. We have no control over these third party websites, and your use of third party websites and features are subject to privacy policies posted on those websites. We are not responsible or liable for the privacy or business practices of any third party websites linked to our Services, including those of our group companies. Your use of third parties' websites linked to our Services is at your own risk, so we encourage you to read the privacy policies of any linked third party websites when you leave one of our Services.
+
+ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS
+-----------------------------------------------
+
+These disclosures describe how HotelsCombined (as defined above) collects, uses, processes, and discloses personal information of California residents and the rights you may have under California law. These disclosures are intended to supplement HotelsCombined's Privacy Policy with information required by the California Consumer Privacy Act.
+
+**Disclosures Regarding Personal Information Processing.** California law requires that we describe the personal information we collect about California consumers, including by identifying specific categories of information. As we describe in more detail in the “Information We Collect and Use” section of the Privacy Policy, we have collected the following categories of personal information in the past 12 months:
+
+* Identifiers such as contact information, name, email, or IP address
+* Characteristics of protected classifications under California or federal law
+* Commercial information such as transaction history
+* Device, usage and internet or other electronic network activity information such as information about your device type, browser settings or interactions with our sites
+* Geolocation data
+* Visual information
+* Professional or employment-related information
+* Sensitive personal information, as described above in "Sensitive Personal Information"
+* Inferences about your preferences and interests from data we collect in order to provide and personalize our services and tailor the offers we and our partners provide to you
+
+For information about the categories of sources from which we obtain personal information, or for additional details about the specific types of personal information we collect, please refer to the “Information We Collect and Use” section of the Privacy Policy. For information about our purpose(s) for collecting, or possibly sharing your personal information, please refer to the “How We Use Your Information” section of the Privacy Policy.
+
+We may share your personal information with third parties as described in the “How We Share Your Information” section of the Privacy Policy. Under California law, some of these disclosure activities may be considered "“sales”" under California law, even if no money changes hands, and some of these disclosure activities are considered "sharing" for purposes of cross-context behavioral advertising. The categories of personal information we have "sold" or "shared" as described in "How We Share Your Information" in the past 12 months include the following:
+
+* Identifiers
+* Commercial information
+* Internet activity
+* Geolocation data
+* Inferences
+
+We also disclose certain personal information for “business purposes”, such as disclosures to service providers who assist us with securing our Services or delivering marketing messages and advertisements. We disclose the following types of personal information for our business purposes:
+
+* Identifiers
+* Characteristics of protected classifications under California or federal law
+* Commercial information
+* Internet activity
+* Geolocation data
+* Visual information
+* Professional or employment-related information
+* Inferences
+
+We do not use or disclose sensitive personal information for purposes other than as necessary to provide you with our Services.
+
+California law grants certain rights to California residents. These include:
+
+* **The right to know** what personal information we have collected about you, including (i) the categories of personal information, (ii) the categories of sources from which the personal information is collected, (iii) the business or commercial purpose for collecting, selling, or sharing personal information, (iv) the categories of third parties to whom the business discloses personal information, and (v) the specific pieces of personal information the business has collected you (by requesting to download your personal information).
+* **The right to request deletion** of personal information we have collected about you, subject to certain exemptions permitted under applicable law, such as when your personal information is required for us to provide our Services to you.
+* **The right to correct** inaccurate personal information that we maintain about you.
+* **The right to opt out of "sale" or the "sharing"** of your personal information (as these terms are defined under applicable California law).
+
+**Exercising your Privacy Rights.** To exercise your Privacy Rights under California law, please contact us using our [feedback form](https://www.hotelscombined.com/feedback/form) or by contacting us via the information under [How to Contact Us](#contactus). Please note that you can make a request to know twice within a 12-month period.
+
+You may exercise your right to opt out of “sales” by clicking this link and following the instructions: [Do Not Sell or Share My Info](https://www.hotelscombined.com/privacy/manage).
+
+We will not discriminate against you for exercising any of your rights under California law. Please note, however, that there may be certain circumstances where we are unable to complete your request, such as when we are unable to verify your identity or as otherwise permitted under applicable law.
+
+If you are an authorized agent wishing to exercise rights on behalf of a California consumer, please contact us using our [feedback form](https://www.hotelscombined.com/feedback/form) along with a copy of the consumer's written authorization designating you as their agent.
+
+Please note that we may need to verify your identity before completing your rights request. This may include signing into your user account or answering some security questions. Upon receiving a verifiable request, we will provide you with this information in writing, free of charge, within a time frame consistent under California law.
+
+**Request Report.** The following metrics below include the aggregate number of requests to know, requests to delete, and requests to opt-out received, complied with in whole or in part, and denied by HotelsCombined. Please note that these numbers reflect the total number of global requests received by HotelsCombined, including requests received by California consumers.
+
+**January 2023 - December 2023**
+
+|     | Requests received | Requests Complied in Whole or in Part | Average Business Days to Respond |
+| --- | --- | --- | --- |
+| Access Requests | 1512 | 1512 | 14  |
+| Deletion Requests | 9961 | 9961 | 2   |
+| Do Not Sell Requests | 61896 | 61896 | 2   |
+| Other (including correct, limit processing, etc.) | 1419 | 1419 | 2   |
+
+**"Shine the Light".** California residents also have the right under certain circumstances to request information regarding how we share personal information with third parties for their own direct marketing purposes. To opt-out of this type of sharing, please see the section entitled "Choices Regarding Sharing with Third Parties".
 
 CHILDREN
 --------
