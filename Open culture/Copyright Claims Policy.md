@@ -104,8 +104,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Psychology](https://www.openculture.com/psychology_free_courses)
     * [Religion](https://www.openculture.com/religion-free-courses-online)
     * [Writing & Journalism](https://www.openculture.com/free-online-writing-journalism-courses)
-    * [All 1500 Free Courses](https://www.openculture.com/freeonlinecourses)
-    * [1000+ MOOCs & Certificate Courses](https://www.openculture.com/free_certificate_courses)
+    * [All 1700 Free Courses](https://www.openculture.com/freeonlinecourses)
     
 * Receive our Daily Email
     -----------------------
@@ -416,7 +415,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1722420581&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1726001404&formid=1 "click to reload")
     
 * About Us
     --------
@@ -509,6 +508,8 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
 * Archives
     --------
     
+    * [September 2024](https://www.openculture.com/2024/09)
+    * [August 2024](https://www.openculture.com/2024/08)
     * [July 2024](https://www.openculture.com/2024/07)
     * [June 2024](https://www.openculture.com/2024/06)
     * [May 2024](https://www.openculture.com/2024/05)
@@ -760,5 +761,3 @@ All rights reserved.
 ![Quantcast](//pixel.quantserve.com/pixel/p-0dRTlf6K0FnoM.gif)
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
-
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/8914c8b7448d49ca21279d1151fb9075.gif "Cleantalk Pixel")
