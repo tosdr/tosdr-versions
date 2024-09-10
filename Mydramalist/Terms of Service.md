@@ -1,7 +1,3 @@
-![Quantcast](//pixel.quantserve.com/pixel/p-V8QUyWYE_Ymy_.gif)
-
-       
-
 * [Home](https://mydramalist.com/)
     * [Hide ads](https://mydramalist.com/vip)
     * [Calendar](https://mydramalist.com/episode-calendar)
