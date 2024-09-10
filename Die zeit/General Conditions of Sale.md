@@ -67,10 +67,8 @@ Verlagsangebote
 
 Anzeigen
 
-* [Aufbruch ins eigene Leben](https://zett.cmk.zeit.de/cms/articles/17636/anzeige/techniker-krankenkasse/aufbruch-ins-eigene-leben)
-* [Alltagsheldin: Ein Portrait](https://campus.cmk.zeit.de/cms/articles/17660/anzeige/dm-drogerie-markt-gmbh-co-kg/man-wird-nicht-um-uns-herumkommen-ob-man-will-oder-nicht)
-* [Internationaler Master in Madrid](https://www.zeit.de/campus/angebote/management-im-ausland-studieren-iese/index)
-* [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/gstaad/index)
+* [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/geschichte/index)
+* [Deine Goldene Zeit in RLP](https://www.zeit.de/angebote/goldene-zeit-rheinland-pfalz/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
@@ -97,8 +95,8 @@ Anzeigen
     * Hell
     * Dunkel
 
-Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
-================================================================
+: Nutzungs- und Geschäftsbedingungen
+====================================
 
 Aktualisiert am 17. April 2023, 11:07 Uhr
 
@@ -353,20 +351,6 @@ Ergänzend gelten die oben aufgeführten **Allgemeinen Nutzungsbedingungen von Z
 
 Bei den registrierungspflichtigen Diensten wie z.B. dem Angebot "Z+" handelt es sich um ein Angebot von Zeit Online GmbH in Kooperation mit der Zeitverlag Gerd Bucerius GmbH & Co. KG. Sie erhalten von uns unter der von Ihnen bei der Registrierung angegebenen E-Mail-Adresse künftig auch ähnliche Angebote. **Dem können Sie jederzeit widersprechen bspw. durch E-Mail an: email(at)zeit.de.  
 **
-
-Das Portal www.zeit.de sowie die über mobile Applikationen und in E-Paper bereitgestellten Inhalte dieser Portale (im Folgenden Portale & Dienste) werden betrieben bzw. zur Verfügung gestellt von der
-
-ZEIT ONLINE GmbH  
-vertreten durch die Geschäftsführer Dr. Rainer Esser, Christian Röpke und Enrique Tarragona  
-
-Postanschrift: ZEIT ONLINE GmbH  
-Helmut-Schmidt-Haus  
-20095 [Hamburg](https://www.zeit.de/thema/hamburg)
-
-Telefon: (040) 3280-0  
-E-Mail: kontakt(at)zeit.de
-
-Die folgenden Nutzungs- und Geschäftsbedingungen sind die rechtliche Grundlage für die Nutzung der von der ZEIT ONLINE GmbH angebotenen Portale und Dienste.
 
 ### Seitennavigation
 
