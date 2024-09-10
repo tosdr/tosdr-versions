@@ -497,7 +497,7 @@ Your right to file complaints with a data protection supervisory authority remai
 
 #### Help & Contact
 
-[FAQs](https://help.gumtree.com/s/basics)[Safety](https://help.gumtree.com/s/safety)[Policies](https://help.gumtree.com/s/policies)[Contact Us](https://help.gumtree.com/s/)[Insurance](https://www.gumtree.com/insurance)
+[FAQs](https://help.gumtree.com/s/basics)[Safety](https://help.gumtree.com/s/safety)[Policies](https://help.gumtree.com/s/policies)[Contact Us](https://help.gumtree.com/s/)
 
 #### More From Us
 
@@ -523,6 +523,6 @@ Your right to file complaints with a data protection supervisory authority remai
   
 Gumtree.com Limited (FRN 560524) is an Appointed Representative of Consumer Credit Compliance Limited who are authorised and regulated by the Financial Conduct Authority (FRN 631736).  
   
-The permissions of Consumer Credit Compliance Limited as a Principal firm allow Gumtree.com Limited to undertake insurance distribution and credit broking. Gumtree.com Limited act as a credit broker, not a lender. We will refer you to CarMoney Limited (FRN 674094) for credit or Compare the Market Limited (FRN 778488) for insurance. We receive a fixed fee commission up to an agreed number of leads, and additional commission for those above the agreed level. You will not pay more as a result of our commission arrangements.  
+The permissions of Consumer Credit Compliance Limited as a Principal firm allow Gumtree.com Limited to undertake credit broking. Gumtree.com Limited acts as a credit broker, not a lender. We will refer you to CarMoney Limited (FRN 674094) for credit. We receive a fixed fee commission up to an agreed number of leads, and additional commission for those above the agreed level. You will not pay more as a result of our commission arrangements.  
   
 Gumtree.com Limited, registered in England and Wales with number 03934849, 27 Old Gloucester Street, London, WC1N 3AX, United Kingdom. VAT No. 345 7692 64.[Terms of Use](https://www.gumtree.com/termsofuse), [Privacy Notice](https://www.gumtree.com/privacy_policy), [Privacy Settings](#privacy-settings), [Modern Slavery Statement](https://www.gumtree.com/modern_slavery) & [Cookies Policy](https://www.gumtree.com/cookies)
