@@ -4,7 +4,7 @@
 
 [FAQs](https://www.pcisecuritystandards.org/faqs)
 
-[X-twitter](https://twitter.com/PCISSC) [Linkedin-in](https://www.linkedin.com/company/pcissc/) [Youtube](https://www.youtube.com/channel/UC7cPVL_HdnX4ZEGdYJMjOew) [Blog](https://blog.pcisecuritystandards.org/) [Envelope](https://training.pcisecuritystandards.org/subscribe-to-pci-ssc-mailing-list)
+[X-twitter](https://twitter.com/PCISSC) [Linkedin-in](https://www.linkedin.com/company/pcissc/) [Instagram](https://www.instagram.com/pcissc/) [Youtube](https://www.youtube.com/channel/UC7cPVL_HdnX4ZEGdYJMjOew) [Blog](https://blog.pcisecuritystandards.org/) [Envelope](https://training.pcisecuritystandards.org/subscribe-to-pci-ssc-mailing-list)
 
 [![PCI Security Standards Council Registered](https://www.pcisecuritystandards.org/wp-content/uploads/2022/03/pci-logo-teal.svg)](https://www.pcisecuritystandards.org/)
 
@@ -148,8 +148,6 @@ Search
                 * [Request For Comments](https://www.pcisecuritystandards.org/get_involved/request_for_comments/)
                 * [Special Interest Groups (SIGs)](https://www.pcisecuritystandards.org/get_involved/special_interest_groups/)
                 
-                * [2024-2026 GEAR Election](https://www.pcisecuritystandards.org/get_involved/gear-election/)
-                
 * [News](#)
     * * * View the latest news, announcements, and resources from PCI SSC.
                 
@@ -173,7 +171,6 @@ Search
                 
                 * [Document Library](https://www.pcisecuritystandards.org/document_library)
                 * [FAQs](https://www.pcisecuritystandards.org/faqs/)
-                * [Community Job Board](https://www.pcisecuritystandards.org/community-job-board/%20)
                 * [Global Content Library](https://www.pcisecuritystandards.org/global-content-library/)
                 * [Standards](https://www.pcisecuritystandards.org/standards/)
                 * [PCI SSC Mobile App](https://www.pcisecuritystandards.org/mobile-app/)
@@ -1046,7 +1043,7 @@ Contact
 * [Press Contacts](https://www.pcisecuritystandards.org/newsroom_overview/)
 * [Contact Us](https://www.pcisecuritystandards.org/contact_us/)
 
-[X-twitter](http://twitter.com/PCISSC) [Linkedin-in](http://www.linkedin.com/company/pcissc/) [Youtube](https://www.youtube.com/channel/UC7cPVL_HdnX4ZEGdYJMjOew) [Blog](http://blog.pcisecuritystandards.org/)
+[X-twitter](http://twitter.com/PCISSC) [Linkedin-in](http://www.linkedin.com/company/pcissc/) [Instagram](https://www.instagram.com/pcissc/) [Youtube](https://www.youtube.com/channel/UC7cPVL_HdnX4ZEGdYJMjOew) [Blog](http://blog.pcisecuritystandards.org/)
 
 [![PCI Security Standards Council Registered](https://www.pcisecuritystandards.org/wp-content/uploads/2022/03/pci-logo-teal-2.svg)](https://www.pcisecuritystandards.org/)
 
