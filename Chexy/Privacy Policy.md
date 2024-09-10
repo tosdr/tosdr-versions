@@ -10,6 +10,8 @@ CHEXY](https://www.chexy.co/)
 
 [Chexy Insider](https://www.chexy.co/insider)
 
+[Wallet](https://www.chexy.co/wallet)
+
 [Sign up / Log in](https://app.chexy.co/)
 
 [![](https://framerusercontent.com/images/JWBTznRAFzFFhGwOBs1ARS2M.png)
@@ -159,7 +161,7 @@ In the section below, we also list the reasons why we share information.
 * De-identified or aggregated information. We may also share de-identified and aggregated information about Services Users, such as by publishing a report on trends in the usage of the Services or sharing aggregated information about historical survey matching results.
     
 
-If you have signed up for marketing emails or communications, and do not want us to use your personal data for us to market to you, and/or to pass on to third parties for marketing purposes, please contact us through the various communication channels available, as listed under the Section titled “Contact Us, Questions, Updating Your Info, Opting Out” below. You will also be able to unsubscribe from any marketing emails sent to you by [\[email protected\]](https://www.chexy.co/cdn-cgi/l/email-protection) using a link provided in such emails. We do not sell your personal data.
+If you have signed up for marketing emails or communications, and do not want us to use your personal data for us to market to you, and/or to pass on to third parties for marketing purposes, please contact us through the various communication channels available, as listed under the Section titled “Contact Us, Questions, Updating Your Info, Opting Out” below. You will also be able to unsubscribe from any marketing emails sent to you by marketing@chexy.co using a link provided in such emails. We do not sell your personal data.
 
 Where We Store Your Data
 ========================
@@ -269,7 +271,7 @@ We have taken commercially reasonable steps to ensure your data is protected in 
   
 All issues and questions concerning the application, construction, validity, interpretation and enforcement of this Privacy Policy shall be governed by and construed in accordance with the laws of the Province of Ontario, and the federal laws of Canada applicable therein.  
   
-To inquire about or exercise your rights in accordance with applicable law, please contact us at [\[email protected\]](https://www.chexy.co/cdn-cgi/l/email-protection).
+To inquire about or exercise your rights in accordance with applicable law, please contact us at privacy@chexy.co.
 
 Changes to Our Privacy Policy
 =============================
@@ -294,7 +296,7 @@ Please contact us if:
 
   
 
-You may contact us by email at [\[email protected\]](https://www.chexy.co/cdn-cgi/l/email-protection)
+You may contact us by email at privacy@chexy.co
 
 ![](https://framerusercontent.com/images/QxdK4VugqG6hNAuVeBwoaVRgxo.png)
 
@@ -302,11 +304,9 @@ CHEXY
 
 About us
 
-[Help centre](https://chexy.elevio.help/en)
+[Contact us](https://intercom.help/chexyrent/en)
 
 [Careers](https://chexy.applytojobs.ca/)
-
-[FAQ](https://chexy.elevio.help/en/categories/30-getting-started-paying-your-rent-with-chexy)
 
 Legal
 
