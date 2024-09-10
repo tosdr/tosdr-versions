@@ -39,7 +39,9 @@
     * [Parking solutions](https://parkmobile.io/parking-solutions/)
     * [Resource center](https://parkmobile.io/resources/)
     * [ParkMobile 360](https://parkmobile.io/parking-solutions/parkmobile-360/)
-    * [Open Market model](https://parkmobile.io/parking-solutions/open-market/)
+    * [Open market model](https://parkmobile.io/parking-solutions/open-market/)
+    * [Digital parking payments](https://parkmobile.io/parking-solutions/digitalizing-parking-payments/)
+    * [Paid parking programs](https://parkmobile.io/parking-solutions/free-to-paid-parking/)
     
     ### ParkMobile For
     
@@ -49,13 +51,12 @@
     * [Private operators](https://parkmobile.io/parking-solutions/private-operators/)
     * [College campuses](https://parkmobile.io/parking-solutions/college-campuses/)
     * [Transit and airports](https://parkmobile.io/parking-solutions/transit-airports/)
-    * [Automotive OEMs](https://parkmobile.io/parking-solutions/automotive-oem/)
     * [Development partners](https://parkmobile.io/parking-solutions/development-partners/)
     
     ### ParkMobile Offers
     
     * [Zone parking](https://parkmobile.io/parking-solutions/zone-parking/)
-    * [Business & fleet Parking](https://parkmobile.io/business/)
+    * [Business & fleet parking](https://parkmobile.io/business/)
     * [Transient reservations](https://parkmobile.io/parking-solutions/transient-parking-reservations/)
     * [Event reservations](https://parkmobile.io/parking-solutions/event-reservations/)
     * [White labeling](https://parkmobile.io/parking-solutions/white-labeling/)
@@ -162,7 +163,9 @@
         * [Parking solutions](https://parkmobile.io/parking-solutions/)
         * [Resource center](https://parkmobile.io/resources/)
         * [ParkMobile 360](https://parkmobile.io/parking-solutions/parkmobile-360/)
-        * [Open Market model](https://parkmobile.io/parking-solutions/open-market/)
+        * [Open market model](https://parkmobile.io/parking-solutions/open-market/)
+        * [Digital parking payments](https://parkmobile.io/parking-solutions/digitalizing-parking-payments/)
+        * [Paid parking programs](https://parkmobile.io/parking-solutions/free-to-paid-parking/)
         
     * ### ParkMobile For
         
@@ -172,13 +175,12 @@
         * [Private operators](https://parkmobile.io/parking-solutions/private-operators/)
         * [College campuses](https://parkmobile.io/parking-solutions/college-campuses/)
         * [Transit and airports](https://parkmobile.io/parking-solutions/transit-airports/)
-        * [Automotive OEMs](https://parkmobile.io/parking-solutions/automotive-oem/)
         * [Development partners](https://parkmobile.io/parking-solutions/development-partners/)
         
     * ### ParkMobile Offers
         
         * [Zone parking](https://parkmobile.io/parking-solutions/zone-parking/)
-        * [Business & fleet Parking](https://parkmobile.io/business/)
+        * [Business & fleet parking](https://parkmobile.io/business/)
         * [Transient reservations](https://parkmobile.io/parking-solutions/transient-parking-reservations/)
         * [Event reservations](https://parkmobile.io/parking-solutions/event-reservations/)
         * [White labeling](https://parkmobile.io/parking-solutions/white-labeling/)
