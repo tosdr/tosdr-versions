@@ -770,6 +770,8 @@ Where did you hear about us? \* Where did you hear about us?
 
 **Diagnostic Fee** - Our in-home service professionals will look at your appliance, diagnose the problem, and give you an exact quote. If you choose not to have the repair done, you pay only the $ diagnostic fee.
 
+**Inspection Fee:** An inspection fee of $ will be charged for this appointment.
+
 ![back](/us/en-us/_assets/images/left-arrow-white.svg)Back Submit![next](/us/en-us/_assets/images/right-arrow-white.svg)
 
 Alert
