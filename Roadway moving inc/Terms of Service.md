@@ -246,6 +246,10 @@ Back To Main
             
             A nice move deserves a nice tip.
             
+        * [Full Value Protection Coverage](https://www.roadwaymoving.com/full-value-protection-coverage/)
+            
+            Discover more how to move with confidence.
+            
         * [FAQs](https://roadwaymoving.com/moving-faq/)
             
             [See all](https://roadwaymoving.com/moving-faq/)
@@ -334,7 +338,7 @@ Ready to get moving?
 
 [Get Your Quote](https://roadwaymoving.com/full-form/)
 
-[Make a Call with us](https://www.roadwaymoving.com/contact-us/callback/)
+[Make a Call with us](http://www.roadwaymoving.com/contact-us/callback/)
 
 [All Locations](https://roadwaymoving.com/locations/)
 
@@ -374,7 +378,7 @@ Ready to get moving?
 
 [Get Your Quote](https://roadwaymoving.com/full-form/)
 
-[Make a Call with us](https://www.roadwaymoving.com/contact-us/callback/)
+[Make a Call with us](http://www.roadwaymoving.com/contact-us/callback/)
 
 [All Locations](https://roadwaymoving.com/locations/)
 
@@ -418,7 +422,7 @@ Ready to get moving?
 
 [Get Your Quote](https://roadwaymoving.com/full-form/)
 
-[Make a Call with us](https://www.roadwaymoving.com/contact-us/callback/)
+[Make a Call with us](http://www.roadwaymoving.com/contact-us/callback/)
 
 [All Locations](https://roadwaymoving.com/locations/)
 
@@ -456,7 +460,7 @@ Ready to get moving?
 
 [Get Your Quote](https://roadwaymoving.com/full-form/)
 
-[Make a Call with us](https://www.roadwaymoving.com/contact-us/callback/)
+[Make a Call with us](http://www.roadwaymoving.com/contact-us/callback/)
 
 [All Locations](https://roadwaymoving.com/locations/)
 
@@ -657,6 +661,7 @@ Quick Links
     * [![](https://www.roadwaymoving.com/wp-content/uploads/2023/10/survey-fill-icon.svg)Moving Tips](#)
         * [Moving 101](https://www.roadwaymoving.com/moving-101/)
         * [Tipping Guide](https://www.roadwaymoving.com/tipping-guide/)
+        * [Full Value Protection Coverage](https://www.roadwaymoving.com/full-value-protection-coverage/)
         * [FAQs](https://roadwaymoving.com/moving-faq/)
     * [![](https://www.roadwaymoving.com/wp-content/uploads/2023/10/timer-flash-fill-icon.svg)Latest at Roadway](#)
         * [Press & News](https://www.roadwaymoving.com/news-press/)
@@ -962,8 +967,6 @@ Please enable JavaScript in your browser to complete this form.
 
 Please enable JavaScript in your browser to complete this form.
 
-Layout
-
 Moving from \*
 
 Moving to \*
@@ -973,7 +976,5 @@ Get Your Quote![Loading](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAA
 ![Loading](https://www.roadwaymoving.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 [Get Your Quote](https://roadwaymoving.com/full-form/?wm_ev=sticky-form-btn)
-
-![](https://px.ads.linkedin.com/collect/?pid=5196914&fmt=gif)
 
 ![Nextdoor Pixel Image](https://flask.nextdoor.com/pixel?pid=bfa264e7-b272-40b8-ace1-6b04e0671469&ev=PAGE_VIEW&noscript=1/)
