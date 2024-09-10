@@ -1,8 +1,8 @@
 [Skip to navigation](#nav)[Skip to content](#content)[Skip to footer](#footer)[Help using this website - Accessibility statement](https://www.afr.com/accessibility)
 
-* Today's Paper
+* [Today's Paper](https://www.afr.com/todays-paper)
 
-* Today's Paper
+* [Today's Paper](https://www.afr.com/todays-paper)
 * [Markets Data](https://www.afr.com/markets-data)
 * [Events](https://www.afr.com/afrlive)
 * [Lists](https://www.afr.com/lists-and-awards)
@@ -56,7 +56,6 @@ MenuSearch
     * [North America](https://www.afr.com/world/north-america)
     * [Asia](https://www.afr.com/world/asia)
     * [Europe](https://www.afr.com/world/europe)
-    * [Paris 2024](https://www.afr.com/world/europe/paris-2024)
     * [Middle East](https://www.afr.com/world/middle-east)
     * [Pacific](https://www.afr.com/world/pacific)
     * [South America](https://www.afr.com/world/south-america)
@@ -126,7 +125,7 @@ Search
 More
 ----
 
-* Today's Paper
+* [Today's Paper](https://www.afr.com/todays-paper)
 * [Markets Data](https://www.afr.com/markets-data)
 * [Events](https://www.afr.com/afrlive)
 * [Lists](https://www.afr.com/lists-and-awards)
@@ -319,55 +318,57 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![About Time Watch Weekend](https://static.ffx.io/images/$zoom_0.4489%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_126%2C$y_58/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a30c57da0c8337efe050fe593f2a139a34718e75)](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-about-time-you-book-your-spot-at-the-afr-watch-weekend-20240703-p5jqqf)
+[![ ](https://static.ffx.io/images/$zoom_0.2777%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_63%2C$y_694/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/db51423c3bd5ef5311273410407c52d55f6ae753)](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
 
-### [It’s About Time you book your spot at the AFR Watch Weekend](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-about-time-you-book-your-spot-at-the-afr-watch-weekend-20240703-p5jqqf)
+### [Rodd & Gunn’s winning formula: Make him a little younger, still rugged](https://www.afr.com/life-and-luxury/fashion-and-style/rodd-and-gunn-s-winning-formula-make-him-a-little-younger-still-rugged-20240729-p5jxgg)
 
-* ### [These are the top Australian designs picked by our design editor](https://www.afr.com/life-and-luxury/design/these-are-the-top-australian-designs-picked-by-our-design-editor-20240626-p5joty)
+* Brook Turner
+
+* ### [Up your negroni game with these essential new vermouths](https://www.afr.com/life-and-luxury/food-and-wine/up-your-negroni-game-with-these-essential-new-vermouths-20240702-p5jqix)
     
-* ### [A delicious fuss-free dessert you can make ahead of time](https://www.afr.com/life-and-luxury/food-and-wine/a-delicious-fuss-free-dessert-you-can-make-ahead-of-time-20240603-p5jitn)
+* ### [This designer blends sweet with subversive. No wonder Gaga is a fan](https://www.afr.com/life-and-luxury/fashion-and-style/this-designer-blends-sweet-with-subversive-no-wonder-gaga-is-a-fan-20240717-p5judp)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Renee Wootton was unsure if she would be able to complete her degree in aerospace engineering. ](https://static.ffx.io/images/$zoom_0.1991%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_273%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/2e0e93bb2e188d3d36020bf20a663ffd2e3f3183)](https://www.afr.com/work-and-careers/leaders/this-exec-wants-more-than-a-ceo-role-she-wants-to-be-an-astronaut-20240716-p5ju5t)
+[![Fujitsu CEO Takahito Tokita. ](https://static.ffx.io/images/$zoom_0.5571%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_358%2C$y_92/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ffe5919fe933d620dccdc552c6258f833cd5e810)](https://www.afr.com/world/asia/what-this-ceo-learnt-from-the-russian-invasion-of-ukraine-20240827-p5k5q1)
 
-### [This exec wants more than a CEO role. She wants to be an astronaut](https://www.afr.com/work-and-careers/leaders/this-exec-wants-more-than-a-ceo-role-she-wants-to-be-an-astronaut-20240716-p5ju5t)
+### [What this CEO learnt from the Russian invasion of Ukraine](https://www.afr.com/world/asia/what-this-ceo-learnt-from-the-russian-invasion-of-ukraine-20240827-p5k5q1)
 
-* Sally Patten
+* Jessica Sier
 
-* ### [My sixth form teacher told me to lower my sights](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
+* ### [What this exec has learnt from becoming a CEO at 29](https://www.afr.com/work-and-careers/leaders/what-this-exec-has-learnt-from-becoming-a-ceo-at-29-20240829-p5k6eg)
     
-* ### [The secrets to becoming a rich boss](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
+* ### [The directors under 50 making their mark on top ASX boards](https://www.afr.com/work-and-careers/leaders/the-directors-under-50-making-their-mark-on-top-asx-boards-20240821-p5k44i)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![CARTIER SANTOS DUAL TIME](https://static.ffx.io/images/$zoom_0.299%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_118/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a0dfcc3ea90c65c7393e3f2e1f7b9fccf9421f02)](https://www.afr.com/life-and-luxury/fashion-and-style/cartier-goes-in-new-direction-with-a-watch-that-goes-anticlockwise-20240723-p5jvy2)
+[![ ](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_913%2C$y_251/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a23141e619db5d8d1e697a7c022247c8bb07a7a2)](https://www.afr.com/technology/this-cargo-e-bike-is-pretty-flawless-except-for-one-piece-of-lunacy-20240905-p5k848)
 
-### [Cartier goes in new direction with a watch that goes anticlockwise](https://www.afr.com/life-and-luxury/fashion-and-style/cartier-goes-in-new-direction-with-a-watch-that-goes-anticlockwise-20240723-p5jvy2)
+### [This cargo e-bike is pretty flawless, except for one piece of lunacy](https://www.afr.com/technology/this-cargo-e-bike-is-pretty-flawless-except-for-one-piece-of-lunacy-20240905-p5k848)
 
-* Bani McSpedden
+* John Davidson
 
-* ### [Want to play the world’s top golf courses? This app could get you there](https://www.afr.com/companies/sport/want-to-play-the-world-s-top-golf-courses-this-app-could-get-you-there-20240723-p5jvsq)
+* ### [There’s a track winding back to new beers outback](https://www.afr.com/life-and-luxury/food-and-wine/there-s-a-track-winding-back-to-new-beers-outback-20240904-p5k7vw)
     
-* ### [This flagship Lexus sports coupe is a hidden gem](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-flagship-lexus-sports-coupe-is-a-hidden-gem-20240713-p5jtd4)
+* ### [How Bali local Michael Klim spends his weekends](https://www.afr.com/life-and-luxury/arts-and-culture/how-bali-local-michael-klim-spends-his-weekends-20240827-p5k5sx)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Warwick brothers’ blockchain-based game Illuvium is launching on Thursday.](https://static.ffx.io/images/$zoom_0.2208%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1ad8fb2da2de58c7e70870e554671b406d791f19)](https://www.afr.com/rich-list/inside-the-26b-journey-of-this-young-rich-lister-s-crypto-game-20240723-p5jvut)
+[![ ](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f62cf0b8c47890d91339ad059ce850ed180c0d2e)](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
 
-### [Inside the $26b journey of this Young Rich Lister’s crypto game](https://www.afr.com/rich-list/inside-the-26b-journey-of-this-young-rich-lister-s-crypto-game-20240723-p5jvut)
+### [Family trust: Inside the Pratts’ legal soap opera](https://www.afr.com/work-and-careers/leaders/family-trust-inside-the-pratts-legal-soap-opera-20240827-p5k5sh)
 
-* Yolanda Redrup
+* Max Mason and Patrick Durkin
 
-* ### [Rich Lister-owned home building empire faces $100m class action](https://www.afr.com/property/residential/rich-lister-owned-home-building-empire-faces-100m-class-action-20240725-p5jwl0)
+* ### [This ex-Macquarie banker toned up Brazil – and made a fortune](https://www.afr.com/wealth/people/this-ex-macquarie-banker-toned-up-brazil-and-made-a-fortune-20240731-p5jy4t)
     
-* ### [Historic pub to close after Rich Lister sells building, keeps pokies](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
+* ### [Robin Khuda is the ringleader of this year’s biggest M&A deal](https://www.afr.com/technology/robin-khuda-is-the-ringleader-of-this-year-s-biggest-m-and-a-deal-20240827-p5k5ms)
     
 
 [The Australian Financial Review](https://www.afr.com/)
