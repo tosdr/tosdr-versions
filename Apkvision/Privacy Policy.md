@@ -61,7 +61,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using [this form](https://apkvision.org/contacts/).
 
-© 2024 APKVISION.ORG
+© 2024 APKVISION.ORG | [Send Request](https://apkvision.org/request/)
 
 * [TERMS](https://apkvision.org/terms-of-service/)
 * [PRIVACY POLICY](https://apkvision.org/privacy-policy/)
