@@ -89,15 +89,15 @@ Recent Blog Posts
 
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
-Jul 23, 2024 41 Comments Off on Common Bite Issues and Their Solutions
+Jul 23, 2024 218 Comments Off on Common Bite Issues and Their Solutions
 
 ##### [Understanding the Role of Pedodontists](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
 
-Jun 4, 2024 181 Comments Off on Understanding the Role of Pedodontists
+Jun 4, 2024 389 Comments Off on Understanding the Role of Pedodontists
 
 ##### [Should My Teen Get Braces or Invisalign?](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
 
-Mar 13, 2024 552 Comments Off on Should My Teen Get Braces or Invisalign?
+Mar 13, 2024 720 Comments Off on Should My Teen Get Braces or Invisalign?
 
 Quick Links
 -----------
