@@ -43,7 +43,7 @@ Help & legal
 Privacy statement
 =================
 
-**Last updated: July 2022**
+**Last updated: August 2024**
 
 We understand that your privacy and the security of your personal information are extremely important.
 
@@ -303,8 +303,6 @@ We take protecting your personal information seriously and are continuously deve
 * We use industry “good practice” standards to support the maintenance of robust information security
 * We enforce a “need to know” approach, for access to any data or systems
 
-We are certified under the [Cyber Essentials scheme](https://www.ncsc.gov.uk/cyberessentials/overview) (certificate number: IASME-CE-043025), which is the UK Government-backed scheme helping organisations protect against a whole range of the most common cyberattacks.
-
 * * *
 
 CCTV surveillance
@@ -378,7 +376,7 @@ We use cookies to help give you the best experience on our websites and to allow
 Changes to this Statement
 -------------------------
 
-This privacy statement was most recently updated in July 2022. If we make changes to it, then we will attempt to bring those changes to your attention.
+This privacy statement was most recently updated in Augusts 2024. If we make changes to it, then we will attempt to bring those changes to your attention.
 
 * * *
 
