@@ -2,11 +2,11 @@
 
   [Distributions](https://fosstorrents.com/distributions/)   [Games](https://fosstorrents.com/games/)   [Software](https://fosstorrents.com/softwares/)   [Search for a Project](https://fosstorrents.com/search/)
 
-[@FossTorrents](https://twitter.com/FossTorrents) [Like us on Facebook](https://www.facebook.com/FossTorrent/) [Join us on Discord](https://discord.gg/XCghTpd) [Latest Releases](https://fosstorrents.com/feed/)[$335.62 CAD (incomes)
+[@FossTorrents](https://twitter.com/FossTorrents) [Like us on Facebook](https://www.facebook.com/FossTorrent/) [Join us on Discord](https://discord.gg/XCghTpd) [Latest Releases](https://fosstorrents.com/feed/)[$642.07 CAD (incomes)
 
 2024 Operation Costs
 
-0.43866161286106%
+0.83919749052411%
 
 $765.10](https://fosstorrents.com/donate)
 
