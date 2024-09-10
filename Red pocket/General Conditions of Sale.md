@@ -50,7 +50,7 @@ Any and all new condition Apple products returned including, but not limited to,
 
 For any defective or Apple Products which were sold as refurbished or not in New condition must be remote wiped prior to return.
 
-By purchasing, you agree to the [Red Pocket Terms and Conditions](https://www.redpocket.com/terms_and_conditions) together with this return policy.
+By purchasing, you agree to the [RedPocket Terms and Conditions](https://www.redpocket.com/terms_and_conditions) together with this return policy.
 
 This return policy may be modified or changed without notice.
 
@@ -58,7 +58,7 @@ This return policy may be modified or changed without notice.
 
 Any and all Samsung pre-owned condition devices cannot be returned as open-box items. These products must be returned in their original packaging.
 
-By purchasing, you agree to the [Red Pocket Terms and Conditions](https://www.redpocket.com/terms_and_conditions) together with this return policy.
+By purchasing, you agree to the [RedPocket Terms and Conditions](https://www.redpocket.com/terms_and_conditions) together with this return policy.
 
 This return policy may be modified or changed without notice.
 
@@ -80,6 +80,7 @@ This return policy may be modified or changed without notice.
 * [Activate Family Plan](https://www.redpocket.com/activate-family)
 * [Configure Your Device](https://www.redpocket.com/configure-handset)
 * [Refill Your Account](https://www.redpocket.com/login)
+* [Lifeline](https://www.redpocket.com/assist)
 
 ### Business Solutions
 
@@ -113,7 +114,7 @@ This return policy may be modified or changed without notice.
 
 [![Red Pocket Mobile BBB Business Review](https://seal-santabarbara.bbb.org/seals/blue-seal-120-61-bbb-92011052.png)](https://www.bbb.org/us/ca/thousand-oaks/profile/cell-phone-supplies/red-pocket-mobile-1236-92011052/#sealclick)
 
-© 2006-2024 Red Pocket Mobile. All rights reserved.
+© 2006-2024 RedPocket Mobile. All rights reserved.
 
 * [Terms and Conditions](https://www.redpocket.com/terms_and_conditions)
 * [California Privacy Notice](https://privacy.redpocket.com/privacy-policy#california-privacy-notice)
