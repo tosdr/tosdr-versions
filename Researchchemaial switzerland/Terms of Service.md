@@ -1,10 +1,18 @@
 [![GETRC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20151%2050'%3E%3C/svg%3E)](https://get-rc.to/ "GETRC")
 
-* [Account](https://get-rc.to/my-account/edit-account/)
-* [CN Chems](https://get-rc.to/research-chemicals/)
 * [EU Meds](https://get-rc.to/eu-meds/)
-* [EU Chemicals](https://get-rc.to/europe-chemicals/)
+    * [ED](https://get-rc.to/ed/)
+    * [Sleeping Pills](https://get-rc.to/sleeping-pills/)
+* [EU Chemicals](https://get-rc.to/eu-warehouse/)
+    * [API](https://get-rc.to/api/)
+    * [Benzodiazepine](https://get-rc.to/benzodiazepine-derivatives/)
+    * [Dissociatives](https://get-rc.to/dissociatives/)
+    * [Stimulant](https://get-rc.to/stimulant/)
+    * [Psychedelics](https://get-rc.to/psychedelics/)
+    * [Opioid](https://get-rc.to/opioid/)
 * [How To Pay](https://get-rc.to/how-to-pay/)
+* [Contact](https://get-rc.to/contact/)
+* [Account](https://get-rc.to/my-account/edit-account/)
 
 Cart
 
@@ -101,20 +109,36 @@ Contact Us
 
 * [Sign Up Newsletter](https://www.get-rc.to/mailpoet/)
 
-© 2023 [STAY ENHANCED](https://get-rc.to/ "GETRC Research Chemicals")
-
-[Hidden Discounts](https://t.me/# "Get Hidden Discounts")
+© 2024 get-RC - All rights reserved.
 
 ATTENTION! All sales are made through the shop only. Do not make a purchase if someone offers you to buy via telegram! [Dismiss](#)
+
+![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English") English
+
+![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English") English
+
+![de_DE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "German") German
+
+[](https://get-rc.to/)
+
+[](#)
 
 [Close](# "Close")
 
 Search for:  Search 
 
-* [Account](https://get-rc.to/my-account/edit-account/)
-* [CN Chems](https://get-rc.to/research-chemicals/)
 * [EU Meds](https://get-rc.to/eu-meds/)
-* [EU Chemicals](https://get-rc.to/europe-chemicals/)
+    * [ED](https://get-rc.to/ed/)
+    * [Sleeping Pills](https://get-rc.to/sleeping-pills/)
+* [EU Chemicals](https://get-rc.to/eu-warehouse/)
+    * [API](https://get-rc.to/api/)
+    * [Benzodiazepine](https://get-rc.to/benzodiazepine-derivatives/)
+    * [Dissociatives](https://get-rc.to/dissociatives/)
+    * [Stimulant](https://get-rc.to/stimulant/)
+    * [Psychedelics](https://get-rc.to/psychedelics/)
+    * [Opioid](https://get-rc.to/opioid/)
 * [How To Pay](https://get-rc.to/how-to-pay/)
+* [Contact](https://get-rc.to/contact/)
+* [Account](https://get-rc.to/my-account/edit-account/)
 
-© 2023 . All rights reserved.
+© 2024 . All rights reserved.
