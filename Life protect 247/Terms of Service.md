@@ -2,49 +2,31 @@
 
 Call Toll-Free
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2718%27%20height=%2718%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![phone icon](/icons/phone.svg)[1-844-203-5617](tel:1-844-203-5617)![phone icon](/icons/mail.svg)[info@lifeprotect247.com](mailto:info@lifeprotect247.com)
 
-![phone icon](/icons/phone.svg)
+[![phone icon](/icons/facebook.svg)](https://m.facebook.com/lifeprotect247)[![phone icon](/icons/twitter.svg)](https://mobile.twitter.com/lifeprotect247)[![phone icon](/icons/play.svg)](https://m.youtube.com/channel/UCBOiF2wHeFCVOPlOBQCKV5w?reload=9&skip_registered_account_check=true)
 
-[1-844-203-5617](tel:1-844-203-5617)![phone icon](/icons/mail.svg)[info@lifeprotect247.com](mailto:info@lifeprotect247.com)
-
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2721%27%20height=%2721%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/facebook.svg)](https://m.facebook.com/lifeprotect247)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2714%27%20height=%2714%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/twitter.svg)](https://mobile.twitter.com/lifeprotect247)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2715%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/play.svg)](https://m.youtube.com/channel/UCBOiF2wHeFCVOPlOBQCKV5w?reload=9&skip_registered_account_check=true)
-
-![logo](/logo.svg)
+[![logo](/logo.svg)](https://lifeprotect247.com/)
 
 ![dropdown button](/icons/hamburger.svg)
 
-Home
+[Home](https://lifeprotect247.com/)
 
-Our Products
-
-[Mobile Monitoring Unit](https://lifeprotect247.com/products/mobile-monitoring-unit)
-
-About UsReviewsBlogFAQHelp
-
-![logo](/logo.svg)
-
-Home
-
-Our Products
+[Our Products](https://lifeprotect247.com/#products)
 
 [Mobile Monitoring Unit](https://lifeprotect247.com/products/mobile-monitoring-unit)
 
-About Us
+[About Us](https://lifeprotect247.com/about)[Reviews](https://lifeprotect247.com/reviews)[Blog](https://lifeprotect247.com/blog)[FAQ](https://lifeprotect247.com/faq)[Help](https://lifeprotect247.com/help)
 
-Reviews
+[![logo](/logo.svg)](https://lifeprotect247.com/)
 
-Blog
+[Home](https://lifeprotect247.com/)
 
-FAQ
+[Our Products](https://lifeprotect247.com/#products)
 
-Help
+[Mobile Monitoring Unit](https://lifeprotect247.com/products/mobile-monitoring-unit)
+
+[About Us](https://lifeprotect247.com/about)[Reviews](https://lifeprotect247.com/reviews)[Blog](https://lifeprotect247.com/blog)[FAQ](https://lifeprotect247.com/faq)[Help](https://lifeprotect247.com/help)
 
 Terms of Use
 ------------
@@ -193,10 +175,4 @@ Copyright © 2024 Life Protect 24/7, Inc.
 
 [Do not sell my info](https://lifeprotect247.com/ccpa-policy)
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/fb_grey.svg)](https://m.facebook.com/lifeprotect247)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/twitter_grey.svg)](https://mobile.twitter.com/lifeprotect247)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2725%27/%3e)![phone icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![phone icon](/icons/play_grey.svg)](https://m.youtube.com/channel/UCBOiF2wHeFCVOPlOBQCKV5w?reload=9&skip_registered_account_check=true)
+[![phone icon](/icons/fb_grey.svg)](https://m.facebook.com/lifeprotect247)[![phone icon](/icons/twitter_grey.svg)](https://mobile.twitter.com/lifeprotect247)[![phone icon](/icons/play_grey.svg)](https://m.youtube.com/channel/UCBOiF2wHeFCVOPlOBQCKV5w?reload=9&skip_registered_account_check=true)
