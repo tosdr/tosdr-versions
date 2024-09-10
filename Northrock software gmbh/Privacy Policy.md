@@ -632,11 +632,13 @@ E-Mail Newsletter
 
 E-Mail Newsletter
 
-Ich akzeptiere die [Datenschutzerklärung](https://northrock.software/privacy/)
+Ich akzeptiere die [Datenschutzerklärung.](https://northrock.software/privacy/)
 
 [#### Impressum](https://northrock.software/legal/)
 
 [#### Datenschutz](https://northrock.software/privacy/)
+
+[#### AGB](https://northrock.software/policies/)
 
 [#### Kontakt](https://northrock.software/contact/)
 
