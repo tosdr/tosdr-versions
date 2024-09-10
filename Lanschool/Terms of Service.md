@@ -1,6 +1,6 @@
-Page 1 of 7
+Page 1 of 8
 
-LanSchool Air Terms of Service v010 09.2023
+LanSchool Air Terms of Service v011 08.2024
 
 
 
@@ -9,8 +9,6 @@ LANSCHOOL AIR TERMS OF SERVICE
 
 
 These Terms are subject to change without notice unless prohibited by local law.
-
-Effective Date: September 8, 2023
 
 
 
@@ -76,9 +74,9 @@ that you use to access and use LanSchool Air.
 
 install on your hardware.
 
-Page 2 of 7
+Page 2 of 8
 
-LanSchool Air Terms of Service v010 09.2023
+LanSchool Air Terms of Service v011 08.2024
 
 
 
@@ -178,13 +176,13 @@ You may not make network connections to any users, hosts, or networks unless you
 
 permission to communicate with them.
 
-Page 3 of 7
+Page 3 of 8
 
-LanSchool Air Terms of Service v010 09.2023
+LanSchool Air Terms of Service v011 08.2024
 
 
 
-Prohibited uses of LanSchool Air included, but are not limited to:
+Prohibited uses of LanSchool Air include, but are not limited to:
 
 ● Use in any way that violates copyright or any other applicable law.
 
@@ -250,6 +248,24 @@ LanSchool Air or to breach any security or authentication measures.
 
 ● Transfer or resell any of the rights granted to you by these Terms of Service.
 
+● Use of any high volume automatic, electronic or manual process to access, search or
+
+harvest information from LanSchool Air (including without limitation robots, spiders or
+
+scripts).
+
+● Remove any proprietary notices or labels within the LanSchool Air.
+
+● Frame LanSchool Air, place pop-up windows over its pages, or otherwise affect the
+
+display of its pages.
+
+● Use of LanSchool Air or any of its features, its data or related models to create, train, or
+
+improve (directly or indirectly) any other large language model or AI Services (as that
+
+term is defined below).
+
 
 
 If you become aware of any violation of prohibited uses set forth in this Section 3, you will
@@ -270,6 +286,12 @@ resource that violates this Agreement. Stoneware may report any activity that it
 
 violates any law or regulation to the appropriate law enforcement authorities. Stoneware’s
 
+Page 4 of 8
+
+LanSchool Air Terms of Service v011 08.2024
+
+
+
 reporting may include disclosing appropriate customer information. Stoneware may also
 
 cooperate with appropriate law enforcement agencies, regulators, or other appropriate third
@@ -277,10 +299,6 @@ cooperate with appropriate law enforcement agencies, regulators, or other approp
 parties to help with the investigation and prosecution of illegal conduct by providing network and
 
 systems information related to the alleged violations.
-
-Page 4 of 7
-
-LanSchool Air Terms of Service v010 09.2023
 
 
 
@@ -368,6 +386,12 @@ TO THE EXTENT PERMITTED BY LAW AND EXCEPT AS PROVIDED TO THE CONTRARY
 
 IN THIS AGREEMENT OR A SEPARATE WARRANTY AGREEMENT, WE PROVIDE
 
+Page 5 of 8
+
+LanSchool Air Terms of Service v011 08.2024
+
+
+
 LANSCHOOL AIR “AS-IS” AND ON AN “AS AVAILABLE” BASIS WITHOUT WARRANTY OF
 
 ANY KIND. WE ALSO, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW,
@@ -375,12 +399,6 @@ ANY KIND. WE ALSO, TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW,
 DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, WRITTEN OR IMPLIED, INCLUDING
 
 BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY; FITNESS FOR A
-
-Page 5 of 7
-
-LanSchool Air Terms of Service v010 09.2023
-
-
 
 PARTICULAR PURPOSE; UNINTERRUPTED OPERATION WITHOUT ERROR; FREE OF
 
@@ -476,6 +494,10 @@ FOR ANY DAMAGES. YOU AND YOU ALONE ARE RESPONSIBLE FOR THE
 
 CONSEQUENCES OF USING LANSCHOOL AIR.
 
+Page 6 of 8
+
+LanSchool Air Terms of Service v011 08.2024
+
 
 
 8. Indemnity. You agree to indemnify, defend, and hold harmless Stoneware and its affiliates,
@@ -483,12 +505,6 @@ CONSEQUENCES OF USING LANSCHOOL AIR.
 officers, agents, co-branders, partners, and employees from any third party claim or demand
 
 (including but not limited to damages, litigation costs, and reasonable attorney's fees) that
-
-Page 6 of 7
-
-LanSchool Air Terms of Service v010 09.2023
-
-
 
 relates to your use of LanSchool Air or your violation of this Agreement. We reserve the right to
 
@@ -538,7 +554,169 @@ material, published online, or otherwise.
 
 
 
-11. Notices. We may be required by state, federal, or provincial law to notify you of certain
+11. On-task Monitoring Artificial Intelligence.
+
+
+
+If your use of LanSchool Air includes the On-task Monitoring feature, the following terms of this
+
+Section 11 apply.
+
+
+
+LanSchool Air On-task Monitoring may provide features using artificial intelligence (“AI”)
+
+technology which may leverage large language models developed by Stoneware, Lenovo or
+
+others (“AI Services”). For example, this may include you adding content input in a dialog box
+
+with a chatbot, or authorize a software application (embedded with large language models) to
+
+access and process your files, images, or other information (collectively referred to as "inputs"),
+
+and content will be generated based on the inputs, such as text output, tables, codes, pictures
+
+and other contents (collectively referred to as "outputs"). Inputs and outputs are collectively
+
+referred to as "Your Content".
+
+
+
+You should be aware that:
+
+
+
+• You should not rely on factual assertions in outputs without independently fact-checking
+
+their accuracy. Outputs that appear accurate because of their detail or specificity may
+
+still contain material inaccuracies; and
+
+Page 7 of 8
+
+LanSchool Air Terms of Service v011 08.2024
+
+
+
+• AI Services cannot dynamically retrieve information, and outputs may not account for
+
+events or changes to underlying facts occurring after the AI model was trained.
+
+
+
+The content generated with AI Services is for your reference only. You need to review the
+
+generated content and judge its value by yourself. We will not be responsible for any damage or
+
+other consequences caused by your use of AI Services, the content generated, or your
+
+decisions or actions made by referring to or relying on the content generated. Unless expressly
+
+required by law, AI Services content generation will be in English.
+
+
+
+You must strictly abide by relevant sections under the “Prohibited Uses” terms of this
+
+Agreement regarding your use of the AI Services.
+
+
+
+In addition to complying with the “Prohibited Uses” terms of this Agreement, in connection with
+
+your use of AI Services and your sharing of the AI generated content or other information
+
+through LanSchool Air, you promise not to take any of the following actions:
+
+
+
+• Generate content or share information that may infringe others’ rights, such as:
+
+
+
+o Submit any input that includes trademarks or other materials protected by third-
+
+party intellectual property rights, unless you have sufficient rights in such
+
+materials.
+
+o Submit any input that is intended to generate output that is substantially like a
+
+third party’s copyrighted work or is otherwise protected by third-party intellectual
+
+property rights, unless you have sufficient rights in such work.
+
+o Submit any input that contains personal data unless you comply with all data
+
+protection and privacy laws and regulations applicable to the personal data in
+
+accordance with Section 5, Privacy and Security, of these Terms of Service.
+
+
+
+Although we have taken corresponding compliance measures, due to the limitations of artificial
+
+intelligence and other relevant technologies, Stoneware cannot guarantee the authenticity and
+
+legality of all content generated with AI Services. Before you publish or disseminate content
+
+generated with AI Services, you should: (1) verify the authenticity and accuracy of the output
+
+content and avoid spreading false information; (2) mark in a conspicuous manner that the output
+
+content is generated by artificial intelligence to inform the public; (3) avoid publishing and
+
+disseminating any output content that may violate applicable laws or these policies.
+
+
+
+Given that the content generated by LanSchool’s On-task Monitoring features may rely on
+
+machine-trained artificial intelligence models, the content generated from input of different users
+
+in different scenarios may have similarities and differences; that is, the generated content may
+
+be the same, similar, or partially or completely different. You understand and agree that if your
+
+output is the same or like the output of other users, you and the other users will each use the
+
+corresponding output based on their input, and you should not regard the output of other users
+
+as your output.
+
+
+
+To ensure users’ compliance with these acceptable use policies, you acknowledge and agree
+
+that 1) we may use automated systems and humans to review your use of LanSchool Air On-
+
+Task Monitoring including but not limited to activities associated with your account, Your
+
+Content and other information you shared; and 2) take measures such as blocking activities,
+
+content or information that, based on our reasonable belief, may violate relevant laws,
+
+regulations and our policies. Please do not take actions, generating content or sharing
+
+information that you do not want us to review. You must not maliciously obstruct LanSchool On-
+
+Task Monitoring content filtering or other review mechanisms by using meaningless garbled
+
+Page 8 of 8
+
+LanSchool Air Terms of Service v011 08.2024
+
+
+
+characters, numbers, variations, homonyms, complex semantics or long text. Notwithstanding
+
+the above, you are solely responsible for any claim or liability in connection with your use of
+
+LanSchool Air On-Task Monitoring and our review do not mean that we accept any liability.
+
+
+
+12. Notices. We may be required by state, federal, or provincial law to notify you of certain
 
 events. In addition, we may need to notify you from time to time regarding changes to this
 
@@ -566,7 +744,7 @@ you registered for an account or any email address in your profile.
 
 
 
-12. General information. This Agreement supersedes any prior agreements between you and
+13. General information. This Agreement supersedes any prior agreements between you and
 
 Stoneware relating to your use of LanSchool Air with respect to its Software as a Services
 
@@ -575,10 +753,6 @@ application. Any prior purchase you or your organization may have previously mad
 Stoneware product, including, but not limited to any on-premises LanSchool product, in no way
 
 includes or entitles you to use LanSchool Air.
-
-Page 7 of 7
-
-LanSchool Air Terms of Service v010 09.2023
 
 
 
