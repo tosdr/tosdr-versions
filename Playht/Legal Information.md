@@ -1,22 +1,24 @@
-[![PlayHT Logo](https://playtht-website-assets.s3.amazonaws.com/img/logos/playCube-LightMode.svg?w=96&q=75)](https://play.ht/)
+[![PlayHT Logo](https://playhtassets.play.ht/img/logos/playCube-LightMode.svg?w=96&q=75)](https://play.ht/)
 
-[Log in](https://play.ht/login/)[Try for Free](https://play.ht/signup/)
+[Log in](https://play.ht/login/)[Try for Free](https://play.ht/signup/?attribution=privacy)
 
-![Hamburger](https://playtht-website-assets.s3.amazonaws.com/img/icons/hamburger.svg)
+![Hamburger](https://playhtassets.play.ht/img/icons/hamburger.svg)
 
-[![Playht Logo](https://playtht-website-assets.s3.amazonaws.com/img/logos/playCube-LightMode.svg?w=96&q=75)](https://play.ht/)
+[![Playht Logo](https://playhtassets.play.ht/img/logos/playCube-LightMode.svg?w=96&q=75)](https://play.ht/)
 
-[Products![Arrow Down](https://playtht-website-assets.s3.amazonaws.com/img/icons/common/caretDownFilled.svg)](https://play.ht/products/)
+[Products![Arrow Down](https://playhtassets.play.ht/img/icons/common/caretDownFilled.svg)](https://play.ht/products/)
 
-[Use Cases![Arrow Down](https://playtht-website-assets.s3.amazonaws.com/img/icons/common/caretDownFilled.svg)](https://play.ht/use-cases/)
+[Use Cases![Arrow Down](https://playhtassets.play.ht/img/icons/common/caretDownFilled.svg)](https://play.ht/use-cases/)
 
-Resources![Arrow Down](https://playtht-website-assets.s3.amazonaws.com/img/icons/common/caretDownFilled.svg)
+Resources![Arrow Down](https://playhtassets.play.ht/img/icons/common/caretDownFilled.svg)
 
 [Pricing](https://play.ht/pricing/)
 
-[AI Voice Agents![Arrow Down](https://playtht-website-assets.s3.amazonaws.com/img/icons/black-right-arrow-in-square.svg)](https://play.ai/)NEW
+[AI Voice Agents![Arrow Down](https://playhtassets.play.ht/img/icons/black-right-arrow-in-square.svg)](https://play.ai/)NEW
 
-[Log in](https://play.ht/login/)[Try for Free](https://play.ht/signup/)
+[API![Arrow Down](https://playhtassets.play.ht/img/icons/black-right-arrow-in-square.svg)](https://docs.play.ht/reference/api-getting-started)
+
+[Log in](https://play.ht/login/)[Try for Free](https://play.ht/signup/?attribution=privacy)
 
 PRIVACY NOTICE
 
