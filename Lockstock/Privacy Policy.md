@@ -1,14 +1,14 @@
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27185%27%20height=%27185%27/%3e)![SecureMyScholarship](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![SecureMyScholarship](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![SecureMyScholarship](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-sms.688dd312.webp&w=384&q=75)
+![SecureMyScholarship](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/logo-sms.webp)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27368%27%20height=%27128%27/%3e)![SecureMyScholarship](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![SecureMyScholarship](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![SecureMyScholarship](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-sms-text.4196b04d.webp&w=750&q=75)](https://www.lockandstock.app/)
+![SecureMyScholarship](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/logo-sms-text.webp)](https://www.lockandstock.app/)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Menu](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Menu](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-nav-menu.feafeabc.webp&w=48&q=75)
+![Menu](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/icon-nav-menu.webp)
 
 * [University Finder](https://www.lockandstock.app/universities)
 * [Course Finder](https://www.lockandstock.app/courses)
@@ -18,13 +18,13 @@
 * [Refer&Earn](https://www.lockandstock.app/refer-and-earn)
 ![SecureMyScholarship Plus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![SecureMyScholarship Plus](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-nav-plus.dfab72ab.webp&w=48&q=75)
+![SecureMyScholarship Plus](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/icon-nav-plus.webp)
 
 Boost your application with PLUS!
 
 ![SecureMyScholarship Account](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![SecureMyScholarship Account](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-nav-user-account.497c852e.webp&w=48&q=75)
+![SecureMyScholarship Account](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/icon-nav-user-account.webp)
 
 Continue to My Account
 
@@ -151,6 +151,10 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 
 If you have any questions regarding these Privacy Policy, please contact us at team@securemyscholarship.com
 
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2760%27/%3e)![logo-secure-my-scholarship-icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![logo-secure-my-scholarship-icon](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/svg/logo-secure-my-scholarship-icon.svg)
+
 Find a course to study
 
 What degree level are you looking for?
@@ -169,7 +173,7 @@ Add a country
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Country Flexible](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Country Flexible](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Facademic-preference-country-flexible.d210e13d.webp&w=96&q=75)
+![Country Flexible](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/academic-preference-country-flexible.webp)
 
 I'm flexible (0)
 
@@ -185,29 +189,33 @@ Add a program
 
 Search for a course category ...
 
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![popular searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![popular searches](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/svg/popular-search.svg)
+
 popular searches
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-computer-science.5b209bad.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-computer-science.webp)
 
 Computer Science
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-fashion.87d8cf61.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-fashion.webp)
 
 Fashion
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-design.b284b86b.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-design.webp)
 
 Design
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-marketing.e1642685.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-marketing.webp)
 
 Marketing
 
@@ -251,7 +259,9 @@ Search (0)
 
 Find a course to study
 
-Show universities instead
+Show universities instead![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![switch tab](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![switch tab](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/svg/switch-tab.svg)
 
 0 course scholarships found
 
@@ -271,7 +281,7 @@ add a study destination
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Country Flexible](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Country Flexible](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Facademic-preference-country-flexible.d210e13d.webp&w=96&q=75)
+![Country Flexible](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/academic-preference-country-flexible.webp)
 
 I'm flexible (0)
 
@@ -287,29 +297,33 @@ add a study interest
 
 Search for a course category ...
 
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2716%27%20height=%2716%27/%3e)![popular searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![popular searches](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/svg/popular-search.svg)
+
 popular searches
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-computer-science.5b209bad.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-computer-science.webp)
 
 Computer Science
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-fashion.87d8cf61.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-fashion.webp)
 
 Fashion
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-design.b284b86b.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-design.webp)
 
 Design
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e)![Computer Science](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Computer Science](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpopular-course-marketing.e1642685.webp&w=96&q=75)
+![Computer Science](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/popular-course-marketing.webp)
 
 Marketing
 
