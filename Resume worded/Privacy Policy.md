@@ -22,7 +22,7 @@ Privacy Policy
   
   
 
-#### Last Updated: January 10th 2021
+#### Last Updated: July 10th 2024
 
   
 
@@ -32,7 +32,7 @@ Privacy Policy
 
 #### \- We **do not** sell your data or your information. This is against our privacy policy and we hate those tactics as much as you do.
 
-#### \- We **do not** share your resumes or LinkedIn profiles with any third-parties or companies.
+#### \- We **protect your privacy** and any data you provide is solely used to provide the features available on this site (to provide your resume reviews, resume targeting reports, LinkedIn profile reviews and generated cover letters).
 
 #### \- To delete your account for any reason, login and fill out the form [here](https://resumeworded.com/account-deletion-request). We'll process your deletion request in a few days.
 
@@ -80,6 +80,14 @@ What data do we collect when you upload your LinkedIn profile?
   
   
 
+What data do we collect when you generate a cover letter?
+---------------------------------------------------------
+
+#### To provide an AI-generated cover letter, you will be asked for details that you would like to be included on the cover letter. This information may include, but not limited to, your resume, the job description you are applying for, and additional context you want included. We use this data solely for the purpose of generating a cover letter for you privately.
+
+  
+  
+
 When do we collect information?
 -------------------------------
 
@@ -97,8 +105,12 @@ Amazon Web Services - Storage and archival of Resume Worded user data and metada
 Vultr - Storage and archival of Resume Worded data and metadata.  
 Digital Ocean - Storage and archival of Resume Worded data and metadata.  
 Google - Authentication, tracking.  
+Help Scout - Customer support help desk.  
+Qwary - Customer support forms.  
 Postmark - Email delivery services for communications to data exporter personnel involved in the data exporter-data importer relationship.  
 Facebook - Authentication.  
+OpenAI - Powering AI-enhanced writing features such as "Magic Write" and AI cover letter generator.  
+Beehiiv - Sending our Coached email series and newsletters.  
 
   
   
@@ -108,7 +120,7 @@ Facebook - Authentication.
 May I opt out of Resume Worded Communications?
 ----------------------------------------------
 
-#### Yes, you may opt out by clicking the Unsubscribe button at hte bottom of every email. You can also email Resume Worded's Data Protection Officer by contacting [\[email protected\]](https://resumeworded.com/cdn-cgi/l/email-protection).
+#### Yes, you may opt out by clicking the Unsubscribe button at the bottom of every email. You can also email Resume Worded's Data Protection Officer by contacting [\[email protected\]](https://resumeworded.com/cdn-cgi/l/email-protection).
 
   
   
@@ -135,6 +147,26 @@ When you email us with a request, we may ask that you provide us with informatio
   
   
 
+Use of Artificial Intelligence (AI)
+-----------------------------------
+
+#### We offer AI-enhanced features like "Magic Write" and our AI cover letter generator to improve your experience. Here's how we ensure your data stays safe:  
+  
+1\. **Your Choice**: These AI features are optional to use. You decide if and when to use them.  
+  
+2\. **Data Protection**: When you use these features, we only process the data necessary to provide the service you've requested.  
+  
+3\. **Trusted Partner**: We use OpenAI's technology for these features. They've committed not to use any data sent through their API to train or improve their AI models.  
+  
+4\. **Limited Data Retention**: OpenAI only retains data briefly for abuse monitoring, then it's deleted.  
+  
+5\. **Extra Safeguards**: We've implemented additional measures to protect your data, including opting out of any data training programs.  
+  
+For more details on OpenAI's practices, you can check their [Privacy Policy](https://openai.com/policies/privacy-policy).
+
+  
+  
+
 How do we use your information?
 -------------------------------
 
@@ -151,48 +183,49 @@ Information provided by you will be used for Resume Worded's LinkedIn Review com
 Information provided by you will be used to suggest to you related resume lines in our database.  
 **Please note that we will never use your resume lines in our Free or Pro databases of resume lines. Content on your resume is solely used for the purpose of making personalised recommendations to you, and are private to you.**  
   
+**To provide AI-Enhanced Features:**  
+If you choose to use our AI-powered features like "Magic Write" or our AI cover letter generator, we process your input data to provide personalized recommendations and content. This is done securely through OpenAI's API, with strict privacy measures in place. The use of these features is optional.  
+  
 **To securely authenticate you:**  
 We use your profile information that you provided when you created an account to authenticate you and enable you to access our Premium services (Resume Worded Pro, LinkedIn Review) and your personalised resume report(s).  
   
-**Service communications**  
+**Service communications:**  
 We may use your contact email for limited purposes, including but not limited to notification emails (e.g. such as when your resume review is ready, reminder emails, and feedback emails). If you have opted in to receive marketing material, we may send you an email for feedback purposes or product updates.  
   
 We also may use this information to communicate with you through email, notices etc. posted on the Site, and other means accessible through the Services, to advise you about how to utilize Resume Worded, new features, updates, and key product information that will allow you to make better use of our Services;  
   
 You can opt in or out of this at anytime via the unsubscribe link at the bottom of every email. You agree that we may use this information for such communication with you.  
   
-**Improve our Services**  
-We may use your contact information for limited purposes, including but not limited to feedback purposes or our monthly newsletter. We also may use this information to communicate with you through email, notices etc. posted on the Site, and other means accessible through the Services, to advise you about how to utilize Resume Worded, new features, updates, and general tips; You can opt in or out of this via the sign up form. You agree that we may use this information for such communication with you.  
+**Coached Email Series:**  
+If you've opted in, we use your email address to send our Coached email series with career insights. You can easily unsubscribe at any time.  
   
-**Customer Service / Support**  
+**Improve our Services:**  
+We may use your contact information for limited purposes, including but not limited to feedback purposes or our newsletter. We also may use this information to communicate with you through email, notices etc. posted on the Site, and other means accessible through the Services, to advise you about how to utilize Resume Worded, new features, updates, and general tips; You can opt in or out of this via the sign up form. You agree that we may use this information for such communication with you.  
+  
+**Customer Service / Support:**  
 When you contact our customer support, we collect information such as your email address and your query. We use this information to be able to contact you and solve your query. We use this information to track potential problems and trends and customize our support responses to serve you better. Our customer support will endeavour to request or review only such information that is necessary to assist in your query or provide any other technical help you may require.  
   
-**Third Party Services**  
-We may employ or engage third party companies (e.g. Typeform) and individuals to facilitate support, investigation, review, promotion and advancement of our Site and/or Services. Additionally, we may use third party vendors (e.g. Paddle) and hosting partners to provide the necessary content, hardware, software, networking, storage and related technology required to run the Site and/or Services. These third parties are bound by confidentiality and privacy obligations consistent with this Policy and have limited access to your information, meant only to perform these tasks on our behalf and are committed to not disclose or use it for any other purposes.  
+**Third Party Services:**  
+We may employ or engage third party companies (e.g. Help Scout) and individuals to facilitate support, investigation, review, promotion and advancement of our Site and/or Services. Additionally, we may use third party vendors (e.g. Paddle) and hosting partners to provide the necessary content, hardware, software, networking, storage and related technology required to run the Site and/or Services. These third parties are bound by confidentiality and privacy obligations consistent with this Policy and have limited access to your information, meant only to perform these tasks on our behalf and are committed to not disclose or use it for any other purposes.  
   
-**Payment**  
+**Payment:**  
 When you pay for our premium services (Resume Worded Pro, LinkedIn Review), our third party payment processor may store data such as your name and email address to send you a payment receipt or other notifications. As stated above, this third party are bound by confidentiality and privacy obligations consistent with this Policy and have limited access to your information, meant only to perform these tasks on our behalf and are committed to not disclose or use it for any other purposes.
 
   
   
 
-Is my resume private?
----------------------
-
-#### Yes. Your resume and your resume review generated by Score My Resume and/or Targeted Resume is private to you, and as described, we use the data solely for:  
+#### Yes. Your resume and your resume review generated by Score My Resume and/or Targeted Resume is private to you. We use the data solely for:  
 (a) providing resume line suggestions  
 (b) providing feedback on your resume  
 (c) providing general suggestions for improvement (e.g. missing keywords or skills)  
   
 Note that if you have registered via an Organization (e.g. a university, or you used an organization code provided by your organization), your resume and usage data can also be accessed via authorized individuals, including but not limited to, Career Services teams, University Counselors, and Project Managers of the engagement.  
   
-We may occasionally use your data to improve the effectiveness of our analysis engine ('Score My Resume'), which is then also used only on an anonymized, aggregated basis. In its aggregated form, data will not constitute Personal Data for the purposes of the GDPR as this data does not directly or indirectly reveal your identity.  
+We may occasionally use anonymized, aggregated data to improve our analysis engine. This data cannot be used to identify you.  
   
-This information is strictly for analytics purposes and to help us improve the features and quality of our product. Such anonymized data will have all direct personal identifiers removed such as name, ID numbers, date of birth, demographic information, geolocation information, etc. We may share aggregated information that includes non-identifying information with third parties for industry analysis and demographic profiling. Furthermore, we agree not to attempt to re-identify anonymized data. Users of the Site and/or Services shall not be entitled to any compensation stemming from the use of such aggregated or anonymized information.  
+We never use your resume's content in our tools or services beyond providing personalized recommendations to you.  
   
-Please note that we will never use your resume's content in any of our tools or services. Content on your resume is solely used for the purpose of making personalised recommendations to you, and are private to you.  
-  
-If you would like us to delete your resume and/or associated resume files from our servers, please email us at contact \[at\] resumeworded.com and we will delete your information from our servers within 48 hours.
+If you'd like us to delete your resume and associated files from our servers, please email us at support\[at\]resumeworded.com, and we'll delete your information within 48 hours.
 
   
   
