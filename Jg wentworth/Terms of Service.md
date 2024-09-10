@@ -36,8 +36,9 @@
                 * [Careers](https://careers.jgwentworth.com/careers-home/)
                 * [Contact](https://www.jgwentworth.com/contact-us)
         * * EDUCATION
-                * [Blog](https://www.jgwentworth.com/our-blog)
+                * [Resources](https://www.jgwentworth.com/our-blog)
                 * [Commercials](https://www.jgwentworth.com/commercials)
+                * [Newsroom](https://www.jgwentworth.com/newsroom)
         
 * [Log In](https://www.jgwentworth.com/login)
 
