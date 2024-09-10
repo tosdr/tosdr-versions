@@ -1,7 +1,4 @@
-[Daylio Knowledge Base](https://faq.daylio.net/) Toggle Navigation
-
-* [Contact](#)
-* [Contact](#)
+[Daylio Knowledge Base](https://faq.daylio.net/)
 
 Privacy Policy
 ==============
@@ -101,8 +98,6 @@ Did this answer your question? Thanks for the feedback There was a problem submi
 
 Yes No
 
-Still need help? [Contact Us](#) [Contact Us](#)
-
 Last updated on May 27, 2024
 
   Toggle Search
@@ -118,4 +113,4 @@ Last updated on May 27, 2024
 
 No results found
 
-© [Habitics s.r.o.](http://daylio.net/) 2024. Powered by [Help Scout](https://www.helpscout.com/knowledge-base/?co=Habitics+s.r.o.&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
+© [Habitics s.r.o.](http://daylio.net/) 2024. Powered by [Help Scout](https://www.helpscout.com/docs-refer/?co=Habitics+s.r.o.&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
