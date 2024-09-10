@@ -8,7 +8,7 @@
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
     * [What’s New](https://www.kamiapp.com/new-world/)
-* [Intergrations](#)
+* [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
     * [Schoology](https://www.kamiapp.com/integrations/schoology/)
@@ -53,7 +53,7 @@ Menu
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
     * [What’s New](https://www.kamiapp.com/new-world/)
-* [Intergrations](#)
+* [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
     * [Schoology](https://www.kamiapp.com/integrations/schoology/)
@@ -96,7 +96,7 @@ Menu
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
     * [What’s New](https://www.kamiapp.com/new-world/)
-* [Intergrations](#)
+* [Integrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
     * [Schoology](https://www.kamiapp.com/integrations/schoology/)
@@ -435,6 +435,8 @@ PRODUCT
 
 [What’s new](https://www.kamiapp.com/new-world/)
 
+[Flip alternative](https://www.kamiapp.com/flip-alternative)
+
 INTEGRATIONS
 
 [Overview](https://www.kamiapp.com/integrations/)
@@ -523,6 +525,8 @@ PRODUCT
 
 [What’s new](https://www.kamiapp.com/new-world/)
 
+[Flip alternative](https://www.kamiapp.com/flip-alternative)
+
 INTEGRATIONS
 
 [Overview](https://www.kamiapp.com/integrations/)
@@ -599,7 +603,7 @@ COMMUNITY
 
 Copyright © 2024 Kami | All Rights Reserved
 
-[Terms of service](https://www.kamiapp.com/terms-of-service/) | [Privacy Policy](https://www.kamiapp.com/privacy-policy/)
+[Terms of service](https://www.kamiapp.com/terms-of-service/) | [Privacy Policy](https://www.kamiapp.com/privacy-policy/) | [Responsible Policy Disclosure](https://www.kamiapp.com/responsible-disclosure-policy/)
 
 ![Facebook](/wp-content/uploads/elementor/thumbs/Facebook-qmx4odt5sss5zruhuxahfhcblt3piua9us3f4fdje0.png "Facebook")
 
@@ -649,9 +653,3 @@ Additional Message (optional)
 CLOSE
 
 2496
-
-![](/wp-content/uploads/2024/07/Instagram-post-131-1-1024x1024.png)
-
-Join our webinars for a deep dive into our latest features
-
-[Register now](https://www.kamiapp.com/new-world-webinars/)
