@@ -102,7 +102,7 @@ Operating System
 
 * ### Surveillance & Smart Video
     
-    * #### QVR Surveillancee
+    * #### QVR Surveillance
         
     * #### QVR Face
         
@@ -136,32 +136,32 @@ NAS- Network Attached Storage
 
 * ###### Tower NAS
     
-    * [TS-632X NEW](https://www.qnap.com/go/product/ts-632x)
-    * [TS-432X NEW](https://www.qnap.com/go/product/ts-432x)
-    * [TS-216G](https://www.qnap.com/go/product/ts-216g)
-    * [TVS-h874T](https://www.qnap.com/go/product/tvs-h874t)
+    * [TS-632X NEW](https://www.qnap.com/en/product/ts-632x)
+    * [TS-432X NEW](https://www.qnap.com/en/product/ts-432x)
+    * [TS-216G](https://www.qnap.com/en/product/ts-216g)
+    * [TVS-h874T](https://www.qnap.com/en/product/tvs-h874t)
     * [View All](https://www.qnap.com/en/product?feature=form_factor-tower%2Cform_factor-set_top_design)
 * ###### Short Depth Rackmount NAS
     
-    * [TS-855eU](https://www.qnap.com/go/product/ts-855eu)
-    * [TS-855eU-RP](https://www.qnap.com/go/product/ts-855eu-rp)
-    * [TS-435XeU](https://www.qnap.com/go/product/ts-435xeu)
-    * [TS-873AeU](https://www.qnap.com/go/product/ts-873aeu)
+    * [TS-855eU](https://www.qnap.com/en/product/ts-855eu)
+    * [TS-855eU-RP](https://www.qnap.com/en/product/ts-855eu-rp)
+    * [TS-435XeU](https://www.qnap.com/en/product/ts-435xeu)
+    * [TS-873AeU](https://www.qnap.com/en/product/ts-873aeu)
     * [View All](https://www.qnap.com/en/product?feature=form_factor-short_depth_rackmount)
 * ###### Rackmount NAS
     
-    * [TS-h3077AFU](https://www.qnap.com/go/product/ts-h3077afu)
-    * [TS-h1677AXU-RP](https://www.qnap.com/go/product/ts-h1677axu-rp)
-    * [TS-h1277AXU-RP](https://www.qnap.com/go/product/ts-h1277axu-rp)
-    * [TS-h3087XU-RP](https://www.qnap.com/go/product/ts-h3087xu-rp)
+    * [TS-h3077AFU](https://www.qnap.com/en/product/ts-h3077afu)
+    * [TS-h1677AXU-RP](https://www.qnap.com/en/product/ts-h1677axu-rp)
+    * [TS-h1277AXU-RP](https://www.qnap.com/en/product/ts-h1277axu-rp)
+    * [TS-h3087XU-RP](https://www.qnap.com/en/product/ts-h3087xu-rp)
     * [View All](https://www.qnap.com/en/product?feature=form_factor-rackmount)
 * ###### All-Flash NAS
     
-    * [TS-h1090FU](https://www.qnap.com/go/product/ts-h1090fu)
-    * [TS-h1290FX](https://www.qnap.com/go/product/ts-h1290fx)
-    * [TDS-h2489FU](https://www.qnap.com/go/product/tds-h2489fu)
-    * [TS-h2490FU](https://www.qnap.com/go/product/ts-h2490fu)
-    * [View All](https://www.qnap.com/en/product?product-group=enterprise-90%2Centerprise-89)
+    * [TS-h3077AFU](https://www.qnap.com/en/product/ts-h3077afu)
+    * [TBS-h574TX](https://www.qnap.com/en/product/tbs-h574tx)
+    * [TS-410E](https://www.qnap.com/en/product/ts-410e)
+    * [TS-h1090FU](https://www.qnap.com/en/product/ts-h1090fu)
+    * [View All](https://www.qnap.com/en/product?feature=feature-all_flash)
 * ###### 2.5GbE NAS + Switch Bundle Pack
     
     * [TS-473A-SW5T](https://www.qnap.com/go/campaign/ts-473a-with-qsw-1105-5t)
@@ -169,10 +169,10 @@ NAS- Network Attached Storage
     * [TS-873A-SW5T](https://www.qnap.com/go/campaign/ts-873a-with-qsw-1105-5t)
 * ###### Storage Accessories
     
-    * [QXP-3X4PES](https://www.qnap.com/go/product/qxp-3x4pes)
-    * [QXP-3X8PES](https://www.qnap.com/go/product/qxp-3x8pes)
-    * [QXG-10G2SF-X710](https://www.qnap.com/go/product/qxg-10g2sf-x710)
-    * [QXG-10G2T](https://www.qnap.com/go/product/qxg-10g2t)
+    * [QXP-3X4PES](https://www.qnap.com/en/product/qxp-3x4pes)
+    * [QXP-3X8PES](https://www.qnap.com/en/product/qxp-3x8pes)
+    * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
+    * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
     * [View All](https://www.qnap.com/en/product/compare-accessory)
 * ###### Resources
     
@@ -194,17 +194,17 @@ Expansion Units
 
 * ###### Expand NAS Capacity
     
-    * [TL-R1200PES-RP](https://www.qnap.com/go/product/tl-r1200pes-rp)
-    * [TL-R1600PES-RP](https://www.qnap.com/go/product/tl-r1600pes-rp)
-    * [TL-R2400PES-RP](https://www.qnap.com/go/product/tl-r2400pes-rp)
-    * [TL-R1220Sep-RP](https://www.qnap.com/go/product/tl-r1220sep-rp)
+    * [TL-R1200PES-RP](https://www.qnap.com/en/product/tl-r1200pes-rp)
+    * [TL-R1600PES-RP](https://www.qnap.com/en/product/tl-r1600pes-rp)
+    * [TL-R2400PES-RP](https://www.qnap.com/en/product/tl-r2400pes-rp)
+    * [TL-R1220Sep-RP](https://www.qnap.com/en/product/tl-r1220sep-rp)
     * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-qts)
 * ###### Expand PC/Server Capacity
     
-    * [TL-R1620Sdc](https://www.qnap.com/go/product/tl-r1620sdc)
-    * [TL-R1220Sep-RP](https://www.qnap.com/go/product/tl-r1220sep-rp)
-    * [TL-R1620Sep-RP](https://www.qnap.com/go/product/tl-r1620sep-rp)
-    * [TL-D400S](https://www.qnap.com/go/product/tl-d400s)
+    * [TL-R1620Sdc](https://www.qnap.com/en/product/tl-r1620sdc)
+    * [TL-R1220Sep-RP](https://www.qnap.com/en/product/tl-r1220sep-rp)
+    * [TL-R1620Sep-RP](https://www.qnap.com/en/product/tl-r1620sep-rp)
+    * [TL-D400S](https://www.qnap.com/en/product/tl-d400s)
     * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-windows)
 * ###### Resources
     
@@ -235,17 +235,17 @@ DAS & Accessories
 
 * ###### Direct Attached Storage (PC/Workstations)
     
-    * [TL-R1620Sdc](https://www.qnap.com/go/product/tl-r1620sdc)
-    * [TL-R1620Sep-RP](https://www.qnap.com/go/product/tl-r1620sep-rp)
-    * [TL-R1220Sep-RP](https://www.qnap.com/go/product/tl-r1220sep-rp)
-    * [TL-D1600S](https://www.qnap.com/go/product/tl-d1600s)
+    * [TL-R1620Sdc](https://www.qnap.com/en/product/tl-r1620sdc)
+    * [TL-R1620Sep-RP](https://www.qnap.com/en/product/tl-r1620sep-rp)
+    * [TL-R1220Sep-RP](https://www.qnap.com/en/product/tl-r1220sep-rp)
+    * [TL-D1600S](https://www.qnap.com/en/product/tl-d1600s)
     * [View All](https://www.qnap.com/en/product/series/pc-expansion)
 * ###### Accessories
     
-    * [QM2-2P-384A](https://www.qnap.com/go/product/qm2-2p-384a)
-    * [QM2-2P-344A](https://www.qnap.com/go/product/qm2-2p-344a)
-    * [QXP-1600eS-A1164](https://www.qnap.com/go/product/qxp-1600es-a1164)
-    * [QM2-2P410G1T](https://www.qnap.com/go/product/qm2-2p410g1t)
+    * [QM2-2P-384A](https://www.qnap.com/en/product/qm2-2p-384a)
+    * [QM2-2P-344A](https://www.qnap.com/en/product/qm2-2p-344a)
+    * [QXP-1600eS-A1164](https://www.qnap.com/en/product/qxp-1600es-a1164)
+    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/series/for-pc-workstations)
 * ###### Resources
     
@@ -255,63 +255,61 @@ High-speed Network Switches
 
 * ###### QSW 2.5GbE Switches
     
-    * [QSW-M2106PR-2S2T](https://www.qnap.com/go/product/qsw-m2106pr-2s2t)
-    * [QSW-M2106-4C](https://www.qnap.com/go/product/qsw-m2106-4c)
-    * [QSW-M2106-4S](https://www.qnap.com/go/product/qsw-m2106-4s)
-    * [QSW-M2106R-2S2T](https://www.qnap.com/go/product/qsw-m2106r-2s2t)
+    * [QSW-M2106PR-2S2T](https://www.qnap.com/en/product/qsw-m2106pr-2s2t)
+    * [QSW-M2106-4C](https://www.qnap.com/en/product/qsw-m2106-4c)
+    * [QSW-M2106-4S](https://www.qnap.com/en/product/qsw-m2106-4s)
+    * [QSW-M2106R-2S2T](https://www.qnap.com/en/product/qsw-m2106r-2s2t)
     * [View All](https://www.qnap.com/en/product/series/qsw-2-5gbe-switches)
 * ###### QSW 10GbE Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
-    * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
-    * [QSW-3216R-8S8T](https://www.qnap.com/go/product/qsw-3216r-8s8t)
-    * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
+    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
+    * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
+    * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
     * [View All](https://www.qnap.com/en/product/series/qsw-10gbe-switches)
 * ###### QSW Full 10GbE Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
-    * [QSW-3216R-8S8T](https://www.qnap.com/go/product/qsw-3216r-8s8t)
-    * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
-    * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
+    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
+    * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
+    * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
     * [View All](https://www.qnap.com/en/product/series/qsw-full-10gbe-switches)
 * ###### PoE Switches
     
-    * [QSW-M2106PR-2S2T](https://www.qnap.com/go/product/qsw-m2106pr-2s2t)
-    * [QGD-1602P](https://www.qnap.com/go/product/qgd-1602p)
-    * [QGD-1600P](https://www.qnap.com/go/product/qgd-1600p)
-    * [QSW-M2116P-2T2S](https://www.qnap.com/go/product/qsw-m2116p-2t2s)
+    * [QSW-M2106PR-2S2T](https://www.qnap.com/en/product/qsw-m2106pr-2s2t)
+    * [QGD-1602P](https://www.qnap.com/en/product/qgd-1602p)
+    * [QGD-1600P](https://www.qnap.com/en/product/qgd-1600p)
+    * [QSW-M2116P-2T2S](https://www.qnap.com/en/product/qsw-m2116p-2t2s)
     * [View All](https://www.qnap.com/en/product/series/poe-switches)
 * ###### QSW Managed Switches
     
-    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
-    * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
-    * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
-    * [QSW-M2106PR-2S2T](https://www.qnap.com/go/product/qsw-m2106pr-2s2t)
+    * [QSW-M3224-24T NEW](https://www.qnap.com/en/product/qsw-m3224-24t)
+    * [QSW-M3216R-8S8T](https://www.qnap.com/en/product/qsw-m3216r-8s8t)
+    * [QSW-M3212R-8S4T](https://www.qnap.com/en/product/qsw-m3212r-8s4t)
+    * [QSW-M2106PR-2S2T](https://www.qnap.com/en/product/qsw-m2106pr-2s2t)
     * [View All](https://www.qnap.com/en/product/series/qsw-managed-switches)
 * ###### QSW Unmanaged Switches
     
-    * [QSW-3216R-8S8T](https://www.qnap.com/go/product/qsw-3216r-8s8t)
-    * [QSW-1108-8T](https://www.qnap.com/go/product/qsw-1108-8t)
-    * [QSW-2104-2T](https://www.qnap.com/go/product/qsw-2104-2t)
-    * [QSW-2104-2S](https://www.qnap.com/go/product/qsw-2104-2s)
+    * [QSW-3216R-8S8T](https://www.qnap.com/en/product/qsw-3216r-8s8t)
+    * [QSW-1108-8T](https://www.qnap.com/en/product/qsw-1108-8t)
+    * [QSW-2104-2T](https://www.qnap.com/en/product/qsw-2104-2t)
+    * [QSW-2104-2S](https://www.qnap.com/en/product/qsw-2104-2s)
     * [View All](https://www.qnap.com/en/product/series/qsw-unmanaged-switches)
 * ###### QSW Industrial-grade Switches
     
-    * [QSW-IM1200-8C](https://www.qnap.com/go/product/qsw-im1200-8c)
-    * [View All](https://www.qnap.com/en/product/series/qsw-industrial-switches)
 * ###### QSW 25GbE Switches
     
-    * [QSW-M5216-1T](https://www.qnap.com/go/product/qsw-m5216-1t)
+    * [QSW-M5216-1T](https://www.qnap.com/en/product/qsw-m5216-1t)
     * [View All](https://www.qnap.com/en/product/series/qsw-25gbe-switches)
 * ###### QSW 100GbE Switches
     
     * [QSW-M7308R-4X](https://www.qnap.com/go/product/qsw-m7308r-4x)
 * ###### QGD Smart Edge Switches
     
-    * [QGD-1602](https://www.qnap.com/go/product/qgd-1602)
-    * [QGD-1600](https://www.qnap.com/go/product/qgd-1600)
-    * [QGD-1602P](https://www.qnap.com/go/product/qgd-1602p)
-    * [QGD-1600P](https://www.qnap.com/go/product/qgd-1600p)
+    * [QGD-1602](https://www.qnap.com/en/product/qgd-1602)
+    * [QGD-1600](https://www.qnap.com/en/product/qgd-1600)
+    * [QGD-1602P](https://www.qnap.com/en/product/qgd-1602p)
+    * [QGD-1600P](https://www.qnap.com/en/product/qgd-1600p)
     * [View All](https://www.qnap.com/en/product/series/qgd-switches)
 * ###### Resources
     
@@ -321,9 +319,9 @@ SD-WAN Routers
 
 * ###### SD-WAN Router
     
-    * [QMiroPlus-201W](https://www.qnap.com/go/product/qmiroplus-201w)
-    * [QMiro-201W](https://www.qnap.com/go/product/qmiro-201w)
-    * [Product Comparison](https://www.qnap.com/go/product/compare-routers)
+    * [QMiroPlus-201W](https://www.qnap.com/en/product/qmiroplus-201w)
+    * [QMiro-201W](https://www.qnap.com/en/product/qmiro-201w)
+    * [Product Comparison](https://www.qnap.com/en/product/compare-routers)
     * [View All](https://www.qnap.com/en/product/series/mesh-wi-fi-routers)
 * ###### Wi-Fi 6 SD-WAN Router
     
@@ -372,9 +370,9 @@ Network Virtualization uCPE
 
 * ###### QuCPE Network Virtualization Premise Equipment
     
-    * [QuCPE-3032](https://www.qnap.com/go/product/qucpe-3032)
-    * [QuCPE-3034](https://www.qnap.com/go/product/qucpe-3034)
-    * [QuCPE-7012](https://www.qnap.com/go/product/qucpe-7012)
+    * [QuCPE-3032](https://www.qnap.com/en/product/qucpe-3032)
+    * [QuCPE-3034](https://www.qnap.com/en/product/qucpe-3034)
+    * [QuCPE-7012](https://www.qnap.com/en/product/qucpe-7012)
     * [View All](https://www.qnap.com/en/product/series/qucpe)
 * ###### Virtualized IT Room Solutions
     
@@ -388,14 +386,14 @@ Accessories
 
 * ###### Add network ports
     
-    * [QXG-10G2SF-X710](https://www.qnap.com/go/product/qxg-10g2sf-x710)
-    * [QXG-10G2T](https://www.qnap.com/go/product/qxg-10g2t)
-    * [QXG-25G2SF-E810](https://www.qnap.com/go/product/qxg-25g2sf-e810)
-    * [QXG-100G2SF-CX6](https://www.qnap.com/go/product/qxg-100g2sf-cx6)
+    * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
+    * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
+    * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
+    * [QXG-100G2SF-CX6](https://www.qnap.com/en/product/qxg-100g2sf-cx6)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
-    * [QWA-AC2600](https://www.qnap.com/go/product/qwa-ac2600)
+    * [QWA-AC2600](https://www.qnap.com/en/product/qwa-ac2600)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=wifi)
 * ###### Wake on Lan Device
     
@@ -405,35 +403,35 @@ Expansion Cards/ Interface Cards
 
 * ###### Connect storage expansion units
     
-    * [QXP-3X4PES](https://www.qnap.com/go/product/qxp-3x4pes)
-    * [QXP-3X8PES](https://www.qnap.com/go/product/qxp-3x8pes)
-    * [QXP-1600eS-A1164](https://www.qnap.com/go/product/qxp-1600es-a1164)
-    * [QXP-T32P](https://www.qnap.com/go/product/qxp-t32p)
+    * [QXP-3X4PES](https://www.qnap.com/en/product/qxp-3x4pes)
+    * [QXP-3X8PES](https://www.qnap.com/en/product/qxp-3x8pes)
+    * [QXP-1600eS-A1164](https://www.qnap.com/en/product/qxp-1600es-a1164)
+    * [QXP-T32P](https://www.qnap.com/en/product/qxp-t32p)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=expansion_units)
 * ###### Expand my storage
     
-    * [QM2-2P-384A](https://www.qnap.com/go/product/qm2-2p-384a)
-    * [QM2-2P-344A](https://www.qnap.com/go/product/qm2-2p-344a)
-    * [QM2-2P410G1T](https://www.qnap.com/go/product/qm2-2p410g1t)
-    * [QM2-2P410G2T](https://www.qnap.com/go/product/qm2-2p410g2t)
+    * [QM2-2P-384A](https://www.qnap.com/en/product/qm2-2p-384a)
+    * [QM2-2P-344A](https://www.qnap.com/en/product/qm2-2p-344a)
+    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
+    * [QM2-2P410G2T](https://www.qnap.com/en/product/qm2-2p410g2t)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=storage)
 * ###### Add network ports
     
-    * [QXG-10G2SF-X710](https://www.qnap.com/go/product/qxg-10g2sf-x710)
-    * [QXG-10G2T](https://www.qnap.com/go/product/qxg-10g2t)
-    * [QXG-25G2SF-E810](https://www.qnap.com/go/product/qxg-25g2sf-e810)
-    * [QXG-100G2SF-CX6](https://www.qnap.com/go/product/qxg-100g2sf-cx6)
+    * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
+    * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
+    * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
+    * [QXG-100G2SF-CX6](https://www.qnap.com/en/product/qxg-100g2sf-cx6)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
-    * [QWA-AC2600](https://www.qnap.com/go/product/qwa-ac2600)
+    * [QWA-AC2600](https://www.qnap.com/en/product/qwa-ac2600)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=wifi)
 * ###### Customize drive usage
     
-    * [QDA-UMP4](https://www.qnap.com/go/product/qda-ump4)
-    * [QDA-SA3](https://www.qnap.com/go/product/qda-sa3)
-    * [QDA-U2MP](https://www.qnap.com/go/product/qda-u2mp)
-    * [QDA-A2AR](https://www.qnap.com/go/product/qda-a2ar)
+    * [QDA-UMP4](https://www.qnap.com/en/product/qda-ump4)
+    * [QDA-SA3](https://www.qnap.com/en/product/qda-sa3)
+    * [QDA-U2MP](https://www.qnap.com/en/product/qda-u2mp)
+    * [QDA-A2AR](https://www.qnap.com/en/product/qda-a2ar)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=customizedrive)
 * ###### Resources
     
@@ -443,11 +441,11 @@ Video Surveillance System
 
 * ###### QVR Pro Appliances
     
-    * [QVP-21C](https://www.qnap.com/go/product/qvp-21c)
-    * [QVP-41C](https://www.qnap.com/go/product/qvp-41c)
-    * [QVP-63B](https://www.qnap.com/go/product/qvp-63b)
-    * [QVP-85B](https://www.qnap.com/go/product/qvp-85b)
-    * [Product Comparison](https://www.qnap.com/go/product/compare-qvr-pro-appliance)
+    * [QVP-21C](https://www.qnap.com/en/product/qvp-21c)
+    * [QVP-41C](https://www.qnap.com/en/product/qvp-41c)
+    * [QVP-63B](https://www.qnap.com/en/product/qvp-63b)
+    * [QVP-85B](https://www.qnap.com/en/product/qvp-85b)
+    * [Product Comparison](https://www.qnap.com/en/product/compare-qvr-pro-appliance)
     * [View All](https://www.qnap.com/en/product/series/qvr-pro-appliance)
 * ###### Smart Video Surveillance System
     
@@ -809,9 +807,9 @@ QNAP’s QuRouter OS simplifies managing high-speed and high-coverage LAN/WAN. W
     
     * [Mobile Apps](https://www.qnap.com/go/mobile-apps)
 
-QVR Surveillancee
+QVR Surveillance
 
-#### QVR Surveillancee
+#### QVR Surveillance
 
 QVR Surveillance is QNAP’s network video recorder software solution. It offers subscription-based QVR Elite and perpetual QVR Pro, and can be used with a series of apps, such as face recognition and door access control for a wider range of scenarios.
 
@@ -873,101 +871,95 @@ QNAP smart video solutions provides integrated intelligent packages such as vide
 
 Solution
 
-* ###### For Enterprise
+* ###### Enterprise
     
     * [All-Flash Storage](https://www.qnap.com/go/solution/all-flash/)
     * [Petabyte-Scale Storage](https://www.qnap.com/go/solution/petabyte-storage/)
-    * [Storage/backup solution for RAG architecture](https://www.qnap.com/go/solution/optimize-ai-with-qnap-storage/)
-    * [FC-SAN Solution](https://www.qnap.com/go/solution/fibrechannel-san/)
-    * [High Availability Storage](https://enterprise-nas.qnap.com/)
+    * [AI Storage](https://www.qnap.com/go/solution/optimize-ai-with-qnap-storage/)
+    * [FC-SAN Storage](https://www.qnap.com/go/solution/fibrechannel-san/)
+    * [High Availability Storage](https://www.qnap.com/go/product/es2486dc)
     * [Cold Data Storage](https://www.qnap.com/go/solution/blueglacier/)
     * [View All](https://www.qnap.com/go/solution/enterprise/)
-* ###### For Business
+* ###### Business
     
-    * [Why Business NAS Uses ZFS?](https://www.qnap.com/go/solution/qnap-zfs/)
-    * [Disaster Recovery Solution Exclusive for ZFS NAS](https://www.qnap.com/go/solution/zfs-snapsync/)
+    * [Why ZFS Storage?](https://www.qnap.com/go/solution/qnap-zfs/)
+    * [Disaster Recovery](https://www.qnap.com/go/solution/zfs-snapsync/)
     * [Storage for Virtualization](https://www.qnap.com/go/solution/virtualization)
-    * [Start a Virtual Machine on NAS](https://www.qnap.com/go/software/virtualization-station)
-    * [10/25GbE Network](https://www.qnap.com/go/solution/high-speed-connectivity/)
-    * [One-stop 25GbE Ultra-high-speed Networking Solution](https://www.qnap.com/go/solution/25gb-solution/)
+    * [Run VMs on NAS](https://www.qnap.com/go/software/virtualization-station)
+    * [10GbE Solutions](https://www.qnap.com/go/solution/high-speed-connectivity/)
+    * [25GbE Solutions](https://www.qnap.com/go/solution/25gb-solution/)
     * [SMB 3.0 Multichannel](https://www.qnap.com/go/solution/smb-multichannel/)
     * [SSD Cache Acceleration](https://www.qnap.com/go/solution/ssd-cache/)
-    * [Manage multiple NAS via Cloud](https://www.qnap.com/go/software/amiz-cloud)
-    * [Drive Health Diagnostics & Prediction](https://www.qnap.com/go/software/da-drive-analyzer)
+    * [Manage Multiple NAS](https://www.qnap.com/go/software/amiz-cloud)
+    * [Drive Health Prediction](https://www.qnap.com/go/software/da-drive-analyzer)
     * [View All](https://www.qnap.com/go/solution/business-applications/)
-* ###### Data Protection
+* ###### Backup & Recovery
     
-    * [Best Business Backup Solution](https://www.qnap.com/go/solution/backup-and-restoration/)
-    * [NAS Data Backup & Restore](https://www.qnap.com/go/software/hybrid-backup-sync)
-    * [Windows PC/Server Backup](https://www.qnap.com/go/software/netbak-pc-agent)
+    * [Backup Overview](https://www.qnap.com/go/solution/backup-and-restoration/)
+    * [NAS Backup](https://www.qnap.com/go/software/hybrid-backup-sync)
+    * [PC/Server Backup](https://www.qnap.com/go/software/netbak-pc-agent)
     * [SaaS Backup](https://www.qnap.com/go/solution/boxafe/)
-    * [License-free VM Backup](https://www.qnap.com/go/software/hyper-data-protector)
-    * [Veeam-Ready and Virtualization Certifications](https://www.qnap.com/go/solution/veeam-ready/)
-    * [RAID Protection](https://www.qnap.com/go/solution/raid-management/)
+    * [VM Backup](https://www.qnap.com/go/software/hyper-data-protector)
+    * [Veeam-Ready Backup](https://www.qnap.com/go/solution/veeam-ready/)
+    * [RAID](https://www.qnap.com/go/solution/raid-management/)
     * [Snapshots & Versioning](https://www.qnap.com/go/solution/snapshots/)
-    * [Email Backup and Management](https://www.qnap.com/go/software/qmailagent)
-    * [Google Photos Backup and Migration](https://www.qnap.com/go/solution/backup-google-photos/)
+    * [Email Backup](https://www.qnap.com/go/software/qmailagent)
+    * [Google Photos Backup](https://www.qnap.com/go/solution/backup-google-photos/)
     * [View All](https://www.qnap.com/go/solution/data-protection/)
-* ###### For Personal and Family
+* ###### Personal and Family
     
     * [What is NAS?](https://www.qnap.com/go/solution/what-is-nas/)
-    * [Upgrade to 2.5GbE NAS](https://www.qnap.com/go/solution/2.5g/)
-    * [myQNAPcloud Remote Access to NAS](https://www.qnap.com/go/software/myqnapcloud/)
-    * [Home Backup Solutions](https://www.qnap.com/go/solution/personal-backup/)
-    * [Data Protection against Ransomware](https://www.qnap.com/go/solution/home-snapshots/)
+    * [2.5GbE NAS](https://www.qnap.com/go/solution/2.5g/)
+    * [Anywhere File Access](https://www.qnap.com/go/software/myqnapcloud/)
+    * [Personal Backup](https://www.qnap.com/go/solution/personal-backup/)
+    * [No Data Loss](https://www.qnap.com/go/solution/home-snapshots/)
     * [Best Plex NAS](https://www.qnap.com/go/solution/plex-best-nas/)
-    * [High-capacity Cloud Photo Album](https://www.qnap.com/go/software/qumagie)
-    * [Play & Stream Your Music](https://www.qnap.com/go/software/music-station)
-    * [Central Storage for Video Collections](https://www.qnap.com/go/software/video-station)
-    * [Full-text Search and AI-powered Semantic Search for NAS Files](https://www.qnap.com/go/software/qsirch)
+    * [Smart Photo Albums](https://www.qnap.com/go/software/qumagie)
+    * [Music Streaming](https://www.qnap.com/go/software/music-station)
+    * [Video Streaming](https://www.qnap.com/go/software/video-station)
+    * [AI-powered File Search](https://www.qnap.com/go/software/qsirch)
     * [View All](https://www.qnap.com/go/solution/homeusers)
 * ###### Cloud
     
     * [myQNAPcloud Storage](https://www.qnap.com/go/solution/myqnapcloud-storage/)
-    * [myQNAPcloud Storage as Cloud Drive](https://www.qnap.com/go/solution/myqnapcloud-storage-portal/)
-    * [Hybrid Cloud Solutions](https://www.qnap.com/go/solution/hybrid-cloud/)
+    * [Cloud Mounting](https://www.qnap.com/go/software/hybridmount)
     * [QuTScloud Cloud NAS](https://www.qnap.com/go/solution/qutscloud-overview/)
-    * [Support DataCore vFilO](https://www.qnap.com/go/solution/datacore-vfilo/)
-    * [Support Platform9’s Managed OpenStack Solution](https://www.qnap.com/go/solution/qnap-platform9/)
     * [Backup to ElephantDrive](https://www.qnap.com/go/solution/elephantdrive/)
     * [AWS Storage Gateway](https://www.qnap.com/go/solution/aws-storage-gateway/)
-    * [Cloud Storage Gateway Solutions](https://www.qnap.com/go/solution/cloud-storage-gateway/)
     * [View All](https://www.qnap.com/go/solution/cloud)
 * ###### Networking
     
-    * [Future-ready Network Switches](https://www.qnap.com/go/solution/network-switches/)
-    * [Software-defined Platform Total Solution](https://www.qnap.com/go/solution/qne-software-defined-platform)
-    * [NDR Solutions against Targeted Ransomware](https://www.qnap.com/go/solution/network-security/)
-    * [Guardian Smart Edge Switch Series](https://www.qnap.com/go/solution/guardian/)
-    * [Mesh VPN Solutions](https://www.qnap.com/go/solution/quwan-sd-wan/)
-    * [Cloud Orchestrator Management Platform](https://www.qnap.com/go/software/amiz-cloud?platform=vnf-management)
+    * [Switch Overview](https://www.qnap.com/go/solution/network-switches/)
+    * [NDR Switches](https://www.qnap.com/go/solution/network-security/)
+    * [Smart Edge Switches](https://www.qnap.com/go/solution/guardian/)
+    * [Mesh VPN](https://www.qnap.com/go/solution/quwan-sd-wan/)
     * [VPN Servers & Clients](https://www.qnap.com/go/software/qvpn-service)
-    * [Support pfSense Firewall](https://www.qnap.com/go/solution/pfsense/)
+    * [pfSense Firewall](https://www.qnap.com/go/solution/pfsense/)
     * [Virtual Router](https://www.qnap.com/go/software/quwan-vrouter-edition)
+    * [VNF Platform](https://www.qnap.com/go/solution/qne-software-defined-platform/)
     * [View All](https://www.qnap.com/go/solution/networking-overview)
-* ###### Smart Video Surveillance
+* ###### Surveillance
     
-    * [NAS Smart Surveillance System Solutions](https://www.qnap.com/go/solution/qvr-surveillance/)
-    * [Video Surveillance Client Software](https://www.qnap.com/go/software/qvr-pro-client)
-    * [AI-powered Surveillance Event Search](https://www.qnap.com/go/software/qvr-smart-search)
+    * [Surveillance Overview](https://www.qnap.com/go/solution/qvr-surveillance/)
+    * [Surveillance Client Software](https://www.qnap.com/go/software/qvr-pro-client)
+    * [Smart Search](https://www.qnap.com/go/software/qvr-smart-search)
     * [Face Recognition](https://www.qnap.com/go/solution/qvr-face/)
-    * [Door Access Control](https://www.qnap.com/go/software/qvr-dooraccess)
+    * [Door Access](https://www.qnap.com/go/software/qvr-dooraccess)
     * [People Counting](https://www.qnap.com/go/software/qvr-human)
-    * [Surveillance Systems Control Center](https://www.qnap.com/go/software/qvr-center)
-    * [Support Milestone Surveillance Platform](https://www.qnap.com/go/solution/surveillance-milestone/)
+    * [Central Management System](https://www.qnap.com/go/software/qvr-center)
+    * [Support Milestone Platform](https://www.qnap.com/go/solution/surveillance-milestone/)
     * [Surveillance NAS Selector](https://www.qnap.com/go/qvr-nas-selector/)
     * [QVR Developer Center](https://www.qnap.com/go/solution/qvr-developer/)
     * [View All](https://www.qnap.com/go/solution/surveillance-smartvideo/)
 * ###### Product Security
     
     * [Security Overview](https://www.qnap.com/go/security)
-    * [Secure Storage](https://www.qnap.com/go/solution/secure-storage)
-    * [Protection against Ransomware](https://www.qnap.com/go/solution/ransomware/)
-    * [NAS Secure Access Best Practices](https://www.qnap.com/go/solution/secure-remote-access/)
-    * [Secured login and multi-factor authentication](https://www.qnap.com/go/solution/authentication/)
+    * [Cyberattacks Prevention](https://www.qnap.com/go/solution/secure-storage)
+    * [Anti-ransomware](https://www.qnap.com/go/solution/ransomware/)
+    * [Multi-factor Authentication](https://www.qnap.com/go/solution/authentication/)
     * [Security Center](https://www.qnap.com/go/software/security-center)
     * [Malware Remover](https://www.qnap.com/go/software/malware-remover)
-    * [QuFirewall Firewall Solution](https://www.qnap.com/go/software/qufirewall)
+    * [QuFirewall](https://www.qnap.com/go/software/qufirewall)
     * [VPN Servers & Clients](https://www.qnap.com/go/software/qvpn-service)
     * [McAfee Antivirus](https://www.qnap.com/go/software/mcafee-antivirus)
     * [View All](https://www.qnap.com/go/solution/product-security/)
@@ -976,11 +968,11 @@ Solution
     * [Content Creators](https://www.qnap.com/go/solution/content-creator/)
     * [Photography](https://www.qnap.com/go/solution/photo-storage/)
     * [Post-Production](https://www.qnap.com/go/solution/video-storage/)
-    * [Pair Adobe CC with QNAP NAS](https://www.qnap.com/go/solution/adobe/)
     * [Thunderbolt™ Solution](https://www.qnap.com/go/solution/thunderbolt-total-solution/)
+    * [Adobe Users](https://www.qnap.com/go/solution/adobe/)
+    * [Apple Users](https://www.qnap.com/go/solution/apple-users/)
     * [Direct-Attached Storage](https://www.qnap.com/go/solution/das-for-pc/)
     * [exFAT Large File Transfer](https://www.qnap.com/go/software/exfat)
-    * [Best Storage for Apple Users](https://www.qnap.com/go/solution/apple-users/)
     * [View All](https://www.qnap.com/go/solution/content-creation)
 
 Support
@@ -1385,7 +1377,7 @@ Copyright ©2024 QNAP Systems, Inc. All Rights Reserved.
     * [**Global** / English](https://www.qnap.com/en/privacy-notice/qid)
 
 *  [![](https://www.qnap.com/uploads/images/footer/qutscloud-demo-site.svg) QuTScloud demo site](https://www.qnap.com/go/live-demo)
-*  [![](https://www.qnap.com/uploads/images/footer/qutube.svg) QuTube](https://www.qnap.com/go/qutube)
+*  [![](https://www.qnap.com/uploads/images/footer/qutube.svg) QuTube](https://www.youtube.com/@qnapsys)
 *  [![](https://www.qnap.com/uploads/images/footer/qnap-raid-calculator.svg) QNAP RAID Calculator](https://www.qnap.com/go/nas-selector)
 
 [![open menu](/assets/img/icon/common-menu/light-bulb.svg?v=f59f8a49658dea34ec0219a230fa6e1f)](javascript:;)
