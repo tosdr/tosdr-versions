@@ -151,6 +151,7 @@ Close
     * [Log in to your account](https://auth.theaa.com/login/?RelayState=https:%2F%2Fwww.theaa.com%2Fproducts)
     * [Create an account](https://auth.theaa.com/signup/)
     * [Update your details](https://www.theaa.com/help-support)
+    * [Refer a friend](https://www.theaa.com/breakdown-cover/invite-a-friend)
     * [Smart benefits](https://www.theaa.com/smart-benefits)
     * [The AA app](https://www.theaa.com/apps)
     
@@ -434,7 +435,7 @@ You can use the contact details in your policy book or you can go to the Contact
 * [Help and support](https://www.theaa.com/help-support "help-and-support")
 * [Apps](https://www.theaa.com/apps "Apps")
 * [Careers](https://www.theaacareers.co.uk/)
-* [Modern slavery](https://www.theaa.com/~/media/the-aa/pdf/modern-slavery-act-statement-2023.pdf?rev=56f6ae15be214bd5ba5824e154e04d7d&hash=1C92ADEF3EFD6B81F7ADC69AA4B541C9)
+* [Modern slavery](https://www.theaa.com/~/media/the-aa/pdf/modern-slavery-act-statement-2024.pdf?rev=114d1f2d9b5845f4978d5e720e1812b2&hash=769F2B800115AFC0E5639AF1972652EA)
 * [Terms of use](https://www.theaa.com/terms-and-conditions)
 * [Privacy notice](https://www.theaa.com/privacy-notice)
 * [Privacy hub](https://www.theaa.com/help-support/privacy)
