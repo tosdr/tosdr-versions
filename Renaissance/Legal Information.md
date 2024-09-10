@@ -59,6 +59,10 @@ Menu Close
             
             Identify and address non-academic barriers to student success.
             
+        * [SAEBRS](https://www.renaissance.com/products/saebrs/)
+            
+            Evaluate students for problematic behaviors and indicators of resiliency.
+            
         * [SchoolCity](https://www.renaissance.com/products/schoolcity/)
             
             Discover customized assessment solutions for districts
@@ -212,7 +216,7 @@ Learn More
 Privacy Hub
 ===========
 
-Last updated: May 16, 2024
+Last updated: September 3, 2024
 
 We recently updated the sub-processors connected to several Renaissance products. For more information, please review the revised list.
 
@@ -369,7 +373,7 @@ Information Security is a critical aspect of Renaissance’s business. For detai
 System and Organization Controls
 --------------------------------
 
-As of October 2023, we have received a SOC 2 Type 2 report from an AICPA auditor. For more information and to request a copy of the report, please visit our Trust Center.  
+Our Information Security & Compliance Program completes the SOC 2 Type 2 examination of controls on an annual basis. For more information and to request a copy of the report, please visit our Trust Center.  
 ![SOC2](/wp-content/uploads/2023/01/SOC-Award.webp)
 
 [Renaissance Trust Center](https://trust.renaissance.com/)
@@ -423,7 +427,7 @@ About Us
 * [Leadership](https://www.renaissance.com/about-us/renaissance-leadership/)
 * [Careers](https://www.renaissance.com/about-us/careers/)
 * [Newsroom](https://www.renaissance.com/about-us/newsroom/)
-* [Awards & Recognition](https://www.renaissance.com/?page_id=46305)
+* [Awards & Recognition](https://www.renaissance.com/about-us/accolades/)
 
 Community & More
 
@@ -436,7 +440,7 @@ ARP ESSER funds can still be used to purchase Renaissance solutions. Private sch
 
 [Learn more about funding](https://www.renaissance.com/resources/funding/)
 
-© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
+© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/renaissance-copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
 
 Select your school
 
