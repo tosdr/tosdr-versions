@@ -357,7 +357,18 @@ Except as otherwise described in this Agreement, you must be enrolled in a Servi
 
 Access Wireless wireless subscribers can purchase “Top up” Plans to receive allotments of talk, text, and data by signing into your MyAccount from [www.accesswireless.com](http://www.accesswireless.com/) or by calling Access Wireless Customer Services by dialing 866-594-3644 or 611 from your Access Wireless wireless device. “Top up” Plans, including rates and associated talk, text, and data allotments, are available on the Access Wireless website at [https://www.accesswireless.com/](https://www.accesswireless.com/). “Top up” Plan availability, rates, and Allotments may vary by state and are subject to change at any time. “Top up” Plans are non-refundable, cannot be transferred to any third party (including another Access Wireless account or customer), and may not be exchanged or resold. Notwithstanding the foregoing, Access Wireless may, from time to time, provide refunds in its sole discretion.
 
-**ACCESS WIRELESS RATES**
+**ACCESS WIRELESS RATES  
+**
+
+Rate plan(s) in States participating in the Federal Lifeline Program and NOT supplementing the federal reimbursement with states funds:
+
+**Access Wireless Broadband/Data Plan:** Available after 12/1/2021. Includes 1000 voice minutes, Unlimited Text Messages and 4.5 GB of data each month.
+
+Rate plan(s) in states participating in the Federal Lifeline Program and supplementing the federal reimbursement with state funds of at least $3.50:
+
+**Access Wireless Broadband/Data Plan+:** Available after 12/1/2021. Includes Unlimited Voice Minutes, Unlimited Text Messages and 4.5 GB of data each month.
+
+**Access Wireless Enhanced Tribal Broadband Plan:** Available after 12/1/2021. Includes Unlimited Voice Minutes, Unlimited Text Messages and 5.5 GB of data each month.
 
 ******Effective 5/1/2024 for all Access Wireless Subscribers  
   
