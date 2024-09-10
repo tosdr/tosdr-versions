@@ -72,6 +72,8 @@ Search
 
 Sign in
 
+[Contact sales](https://www.mural.co/contact-us/sales)
+
 [Sign up free](https://app.mural.co/signup)
 
 Terms of Use
