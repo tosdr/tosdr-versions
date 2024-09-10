@@ -76,6 +76,7 @@
 
 * About
     * [What is AMAZE?](https://amaze.org/what-is-amaze/)
+    * [Jobs](https://amaze.org/jobs/)
     * [Our Team](https://amaze.org/our-team/)
     * [Partners](https://amaze.org/partners/)
     * [Praise for AMAZE](https://amaze.org/praise-for-amaze/)
