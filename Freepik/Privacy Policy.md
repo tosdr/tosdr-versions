@@ -1,16 +1,18 @@
 Toggle menu
 
+[Freepik](https://www.freepik.com/)
+
 * Tools
     
     [AI image generatorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
-    [DesignernewEdit templates from your browser](https://www.freepik.com/designer)
+    [DesignerEdit templates from your browser](https://www.freepik.com/designer)
     
     [Mockup generatorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
     
-    [ReimaginenewCreate image variations with AI](https://www.freepikcompany.com/ai/reimagine)
+    [ReimagineCreate image variations with AI](https://www.freepikcompany.com/ai/reimagine)
     
-    [Background removernewErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
+    [Background removerErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
     
     [Image editorEdit photos easily online, no software needed](https://www.freepikcompany.com/ai/photo-editor)
     
@@ -30,77 +32,77 @@ Toggle menu
     
     [Explore all images](https://www.freepikcompany.com/images)
     
-    [Illustrations](https://www.freepikcompany.com/illustrations)[Backgrounds](https://www.freepikcompany.com/backgrounds)[Textures](https://www.freepikcompany.com/textures)[Patterns](https://www.freepikcompany.com/patterns)[Cartoons](https://www.freepikcompany.com/cartoons)[Clip art](https://www.freepikcompany.com/clip-art)[Drawings](https://www.freepikcompany.com/drawings)[Symbols and signs](https://www.freepikcompany.com/symbols-and-signs)[Silhouettes](https://www.freepikcompany.com/silhouettes)
-    
     [Explore all vectors](https://www.freepikcompany.com/vectors)
     
-    [![Vector collections](https://fps.cdnpk.net/menu-top/collection_vector.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/vector-collections "Vector collections")[Vector collections](https://www.freepikcompany.com/vector-collections)
+    [Illustrations](https://www.freepikcompany.com/illustrations)[Backgrounds](https://www.freepikcompany.com/backgrounds)[Textures](https://www.freepikcompany.com/textures)[Patterns](https://www.freepikcompany.com/patterns)[Cartoons](https://www.freepikcompany.com/cartoons)[Clip art](https://www.freepikcompany.com/clip-art)[Drawings](https://www.freepikcompany.com/drawings)[Symbols and signs](https://www.freepikcompany.com/symbols-and-signs)[Silhouettes](https://www.freepikcompany.com/silhouettes)
     
-    [Business and marketing](https://www.freepikcompany.com/business-marketing)[Lifestyle and wellness](https://www.freepikcompany.com/health-wellness-lifestyle)[Nature](https://www.freepikcompany.com/nature)[People and emotions](https://www.freepikcompany.com/people-emotions)[Food and drinks](https://www.freepikcompany.com/food-drink)[Education and learning](https://www.freepikcompany.com/education-learning)[Sport](https://www.freepikcompany.com/sport)[Industry and technology](https://www.freepikcompany.com/industry-technology)
+    [Vector collections](https://www.freepikcompany.com/vector-collections)[![Vector collections](https://fps.cdnpk.net/menu-top/collection_vector.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/vector-collections "Vector collections")
     
     [Explore all photos](https://www.freepikcompany.com/popular-photos)
     
-    [![Get real](https://fps.cdnpk.net/menu-top/authentic_photos.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/authentic-photos "Get real")[Get real](https://www.freepikcompany.com/authentic-photos)
+    [Business and marketing](https://www.freepikcompany.com/business-marketing)[Lifestyle and wellness](https://www.freepikcompany.com/health-wellness-lifestyle)[Nature](https://www.freepikcompany.com/nature)[People and emotions](https://www.freepikcompany.com/people-emotions)[Food and drinks](https://www.freepikcompany.com/food-drink)[Education and learning](https://www.freepikcompany.com/education-learning)[Sport](https://www.freepikcompany.com/sport)[Industry and technology](https://www.freepikcompany.com/industry-technology)
     
-    [Explore AI images](https://www.freepikcompany.com/ai/images)[AI hub](https://www.freepikcompany.com/ai)
+    [Get real](https://www.freepikcompany.com/authentic-photos)[![Get real](https://fps.cdnpk.net/menu-top/authentic_photos.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/authentic-photos "Get real")
     
     [aiImagesAll](https://www.freepikcompany.com/ai/images)
     
-* Icons
+    [Explore AI images](https://www.freepikcompany.com/ai/images)[AI hub](https://www.freepikcompany.com/ai)
     
-    [Black filled](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=fill&type=icon)[Hand drawn](https://www.freepikcompany.com/search?format=search&type=icon&shape=hand-drawn)[Black outline](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=outline&type=icon)[Lineal color](https://www.freepikcompany.com/search?format=search&type=icon&shape=lineal-color)[Flat](https://www.freepikcompany.com/search?icon_color=multicolor&format=search&type=icon&shape=fill)[Gradient](https://www.freepikcompany.com/search?icon_color=gradient&format=search&type=icon)
+* Icons
     
     [Explore all icons](https://www.freepikcompany.com/icons)
     
-    [![Free SVG icons](https://fps.cdnpk.net/menu-top/free_svg_icons.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon "Free SVG icons")[Free SVG icons](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon)
+    [Black filled](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=fill&type=icon)[Hand drawn](https://www.freepikcompany.com/search?format=search&type=icon&shape=hand-drawn)[Black outline](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=outline&type=icon)[Lineal color](https://www.freepikcompany.com/search?format=search&type=icon&shape=lineal-color)[Flat](https://www.freepikcompany.com/search?icon_color=multicolor&format=search&type=icon&shape=fill)[Gradient](https://www.freepikcompany.com/search?icon_color=gradient&format=search&type=icon)
+    
+    [Free SVG icons](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon)[![Free SVG icons](https://fps.cdnpk.net/menu-top/free_svg_icons.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon "Free SVG icons")
     
 * Videos
     
-    [Backgrounds and others](https://www.freepikcompany.com/videos/category/backgrounds-others)[Nature](https://www.freepikcompany.com/videos/category/nature)[Travel and places](https://www.freepikcompany.com/videos/category/travel-places)[Business and technology](https://www.freepikcompany.com/videos/category/business-technology)[People and emotions](https://www.freepikcompany.com/videos/category/people-emotions)[Events](https://www.freepikcompany.com/videos/category/events)[Food and drinks](https://www.freepikcompany.com/videos/category/food-drinks)[Sports](https://www.freepikcompany.com/videos/category/sports)
-    
     [Explore all videos](https://www.freepikcompany.com/videos)
+    
+    [Backgrounds and others](https://www.freepikcompany.com/videos/category/backgrounds-others)[Nature](https://www.freepikcompany.com/videos/category/nature)[Travel and places](https://www.freepikcompany.com/videos/category/travel-places)[Business and technology](https://www.freepikcompany.com/videos/category/business-technology)[People and emotions](https://www.freepikcompany.com/videos/category/people-emotions)[Events](https://www.freepikcompany.com/videos/category/events)[Food and drinks](https://www.freepikcompany.com/videos/category/food-drinks)[Sports](https://www.freepikcompany.com/videos/category/sports)
     
 * Templates
     
-    [Logo maker](https://www.freepikcompany.com/create/logo-maker)[Poster maker](https://www.freepikcompany.com/create/poster-maker)[Flyer maker](https://www.freepikcompany.com/create/flyer-maker)[Business card maker](https://www.freepikcompany.com/create/business-card-maker)[Resume maker](https://www.freepikcompany.com/create/resume-maker)[Banner maker](https://www.freepikcompany.com/create/banner-maker)
-    
     [Explore all templates](https://www.freepikcompany.com/templates)
+    
+    [Logo maker](https://www.freepikcompany.com/create/logo-maker)[Poster maker](https://www.freepikcompany.com/create/poster-maker)[Flyer maker](https://www.freepikcompany.com/create/flyer-maker)[Business card maker](https://www.freepikcompany.com/create/business-card-maker)[Resume maker](https://www.freepikcompany.com/create/resume-maker)[Banner maker](https://www.freepikcompany.com/create/banner-maker)
     
 * PSD
     
-    [Stationery](https://www.freepikcompany.com/stationery)[Social media](https://www.freepikcompany.com/social-media)[Greeting cards](https://www.freepikcompany.com/greeting-cards)[Flyers](https://www.freepikcompany.com/flyers)[Business cards](https://www.freepikcompany.com/business-cards)[Posters](https://www.freepikcompany.com/posters)[Invitation cards](https://www.freepikcompany.com/invitation-cards)[Banners](https://www.freepikcompany.com/banners)[Logos](https://www.freepikcompany.com/logos)
-    
     [Explore all PSD](https://www.freepikcompany.com/popular-psd)
     
-    [![PSD collections](https://fps.cdnpk.net/menu-top/collection_psd.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/psd-collections "PSD collections")[PSD collections](https://www.freepikcompany.com/psd-collections)
+    [Stationery](https://www.freepikcompany.com/stationery)[Social media](https://www.freepikcompany.com/social-media)[Greeting cards](https://www.freepikcompany.com/greeting-cards)[Flyers](https://www.freepikcompany.com/flyers)[Business cards](https://www.freepikcompany.com/business-cards)[Posters](https://www.freepikcompany.com/posters)[Invitation cards](https://www.freepikcompany.com/invitation-cards)[Banners](https://www.freepikcompany.com/banners)[Logos](https://www.freepikcompany.com/logos)
+    
+    [PSD collections](https://www.freepikcompany.com/psd-collections)[![PSD collections](https://fps.cdnpk.net/menu-top/collection_psd.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/psd-collections "PSD collections")
     
 * Mockupsnew
     
-    [Apparel](https://www.freepikcompany.com/mockups/category/apparel)[T-shirt](https://www.freepikcompany.com/mockups/t-shirt)[Devices](https://www.freepikcompany.com/mockups/category/devices)[iPhone](https://www.freepikcompany.com/mockups/iphone)[Print](https://www.freepikcompany.com/mockups/category/print)[Books](https://www.freepikcompany.com/mockups/book)[Packaging](https://www.freepikcompany.com/mockups/category/packaging)[Business card](https://www.freepikcompany.com/mockups/business-card)
-    
     [Explore all mockups](https://www.freepikcompany.com/mockups)
     
-    [![Free mockups](https://fps.cdnpk.net/menu-top/collection_mockup.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup "Free mockups")[Free mockups](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup)
+    [Apparel](https://www.freepikcompany.com/mockups/category/apparel)[T-shirt](https://www.freepikcompany.com/mockups/t-shirt)[Devices](https://www.freepikcompany.com/mockups/category/devices)[iPhone](https://www.freepikcompany.com/mockups/iphone)[Print](https://www.freepikcompany.com/mockups/category/print)[Books](https://www.freepikcompany.com/mockups/book)[Packaging](https://www.freepikcompany.com/mockups/category/packaging)[Business card](https://www.freepikcompany.com/mockups/business-card)
+    
+    [Free mockups](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup)[![Free mockups](https://fps.cdnpk.net/menu-top/collection_mockup.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup "Free mockups")
     
 * More
     
     Projects
     
-    [FlaticonFree customizable icons](https://www.flaticon.com/)
+    [SlidesgoFree presentation templates](https://slidesgo.com/)
     
     [WepikEdit templates online easily](https://wepik.com/)
     
-    [SlidesgoFree presentation templates](https://slidesgo.com/)
-    
-    [StorysetFree editable illustrations](https://storyset.com/)
+    [FlaticonFree customizable icons](https://www.flaticon.com/)
     
     [VidevoFree videos in 4K and Full HD](https://www.videvo.net/)
     
+    [StorysetFree editable illustrations](https://storyset.com/)
+    
     Enhanced solutions
     
-    [APISolutions to enhance your enterprise](https://freepik.com/api)
+    [APISolutions to enhance your enterprise](https://www.freepik.com/api)
     
-    [Sell your contentJoin Freepik’s contributors and cash in your creations](https://contributor.freepik.com/)
+    [Sell contentJoin Freepik’s contributors and cash in your creations](https://contributor.freepik.com/)
     
     More content
     
@@ -108,17 +110,17 @@ Toggle menu
     
     [FontsFree fonts for book covers, merchandise, magazines...](https://www.freepikcompany.com/fonts)
     
-    [DisneyEditable design templates featuring beloved classics](https://www.freepikcompany.com/author/Disney)
-    
     [Calendar of festivitiesFind here all the important dates and festivities](https://www.freepikcompany.com/calendar)
+    
+    [DisneyEditable design templates featuring beloved classics](https://www.freepikcompany.com/author/Disney)
     
     [CollectionsContent collections curated by professionals](https://www.freepikcompany.com/collections)
     
-    Plugins
+    Apps and plugins
     
-    [Freepik for FigmaImages for your Figma projects](https://www.figma.com/community/plugin/893426972424060133/freepik)
+    [Freepik for FigmaImages for your Figma projects](https://www.figma.com/community/plugin/893426972424060133/photos-by-freepik)
     
-    [Flaticon for FigmaIcons right on your Figma canvas](https://www.figma.com/community/plugin/1183020129233350982/flaticon)
+    [Flaticon for FigmaIcons right on your Figma canvas](https://www.figma.com/community/plugin/1183020129233350982/flaticon-by-freepik)
     
     [Storyset for FigmaIllustrations for your Figma projects](https://www.figma.com/community/plugin/865232148477039928/storyset-by-freepik)
     
@@ -127,7 +129,7 @@ Toggle menu
     [AI Figma pluginGenerate your own unique AI images directly in Figma](https://www.figma.com/community/plugin/1253173167259963280/ai-image-generator-by-freepik)
     
 
-* [Pricing](https://www.freepikcompany.com/pricing?origin=freepik_web)
+* [Pricing](https://www.freepikcompany.com/pricing)
 
 Menu
 
@@ -578,6 +580,8 @@ Social media
 * [Instagram](https://www.instagram.com/freepik)
 * [Youtube](https://www.youtube.com/channel/UC9wPXN2TIWoUamqONb7v8Pw)
 * [Linkedin](https://www.linkedin.com/company/freepik-corp/)
+* [Discord](https://discord.gg/kgJ8MtZx3z)
+* [Reddit](https://www.reddit.com/r/Freepik_AI/)
 
 Get exclusive assets sent straight to your inbox
 
