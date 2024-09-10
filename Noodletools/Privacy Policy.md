@@ -1,3 +1,11 @@
+Notification
+
+Be sure to read about the new [email verification requirements](https://www.noodletools.com/blog/email-login-requirement/) (for users who do not log in via SSO).
+
+[Close](#)
+
+Notification
+
 Menu
 
 [NoodleTools](https://www.noodletools.com/)
@@ -7,7 +15,7 @@ Menu
 * [Educators](https://www.noodletools.com/educators/)
 * [Students & Researchers](https://www.noodletools.com/students/)
 * [Plans](https://www.noodletools.com/plans/)
-* [Support](http://noodletools.freshdesk.com/)
+* [Support](https://noodletools.freshdesk.com/)
 * [Trial](https://www.noodletools.com/trial/)
 * [Log In](https://my.noodletools.com/logon/signin)
 
@@ -114,7 +122,7 @@ Please be aware that NoodleTools, Inc. is not responsible for the privacy or dat
 
 NoodleTools, Inc. maintains a security program that is designed to protect the security, privacy, confidentiality and integrity of the student personal information against risks such as unauthorized access or use, or unintended or inappropriate disclosure. Our data is stored in the United States with robust digital and procedural safeguards in place to protect personal information. All passwords are SHA-512 encrypted in our database. Regular database backups ensure data security and business continuity in the event of data loss, and firewalls prevent all unauthorized access into or out of the network. All digital transmission of personal data is SHA-512 encrypted and employs TLS/HTTPS secure connections.
 
-As previously noted, the Service has minimal collection of personal information, and minimal integration with services that could cause any unintended transference of personal information. If you have any questions about the security at our website, you can contact us via the [NoodleTools Help Desk](http://noodle.to/helpdesk).
+As previously noted, the Service has minimal collection of personal information, and minimal integration with services that could cause any unintended transference of personal information. If you have any questions about the security at our website, you can contact us via the [NoodleTools Help Desk](https://noodle.to/helpdesk).
 
 NoodleTools, Inc. will quickly respond to and mitigate any private user data breach, as summarized in our [Breach Response Plan](https://www.noodletools.com/breach-response-plan/).
 
@@ -122,7 +130,7 @@ NoodleTools, Inc. will quickly respond to and mitigate any private user data bre
 
 To the extent allowed by applicable law, NoodleTools, Inc. retains personally identifiable information provided by you after the termination of your relationship with us. This is done to allow an individual, school or district to renew a subscription that had previously expired, without any loss of the work done by students and teachers within that account. If a K-12 Site requests that NoodleTools delete or destroy personally identifiable student information after the termination of its relationship with us, or it is required by state law, we will do so within 30 days; provided, however, that NoodleTools, Inc. may retain aggregated and anonymized data.
 
-A parent, student, principal, or teaching staff member who would like to make corrections to personal data that has been collected should contact their school/district account administrator, who can work with us to facilitate that request. Individuals who have purchased a single-user license may submit their request to the [NoodleTools Help Desk](http://noodle.to/helpdesk).
+A parent, student, principal, or teaching staff member who would like to make corrections to personal data that has been collected should contact their school/district account administrator, who can work with us to facilitate that request. Individuals who have purchased a single-user license may submit their request to the [NoodleTools Help Desk](https://noodle.to/helpdesk).
 
 ### California CCPA Compliance
 
@@ -199,7 +207,7 @@ Palo Alto, CA 94306
 
 ### Support
 
-* [Help Desk](http://noodle.to/helpdesk)
+* [Help Desk](https://noodle.to/helpdesk)
 * [NoodleTools Tutorials](https://www.noodletools.com/help/)
 * [Handouts / Downloads](https://www.noodletools.com/downloads/)
 * [Webinars](https://www.noodletools.com/webinars/)
@@ -218,4 +226,4 @@ Palo Alto, CA 94306
 
 Search  
 
-[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/apple.svg)](http://noodle.to/companionapp)[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/google.svg)](http://noodle.to/companionappandroid)
+[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/apple.svg)](https://noodle.to/companionapp)[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/google.svg)](https://noodle.to/companionappandroid)
