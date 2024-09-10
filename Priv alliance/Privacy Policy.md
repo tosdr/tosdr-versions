@@ -1,5 +1,7 @@
 [Skip to content](#main)
 
+FREE SHIPPING FOR ORDERS OVER $200 + 3 PHOTOCARDS FOR EVERY $50
+
 Menu Close Back
 
 * [North America Shop](https://privealliance.store/)
@@ -37,7 +39,7 @@ Menu Close Back
     * [Terms of Use](https://privealliance.com/pages/terms-of-use)
     * [Privacy Policy](https://privealliance.com/pages/privacy-policy)
     * [Return Policy](https://privealliance.com/pages/return-policy)
-    * [Shipping & Handling](https://privealliance.com/pages/shipping-and-handling)
+    * [Shipping & Handling](https://privealliance.com/policies/shipping-policy)
     * [Contact Us](https://privealliance.com/pages/contact-us)
     
 * [Featured Brands](https://privealliance.com/collections/featured-brands/Trump+MAGA+Donald-Trump+USA)
@@ -80,10 +82,10 @@ Menu Close Back
 * [Terms of Use](https://privealliance.com/pages/terms-of-use)
 * [Privacy Policy](https://privealliance.com/pages/privacy-policy)
 * [Return Policy](https://privealliance.com/pages/return-policy)
-* [Shipping & Handling](https://privealliance.com/pages/shipping-and-handling)
+* [Shipping & Handling](https://privealliance.com/policies/shipping-policy)
 * [Contact Us](https://privealliance.com/pages/contact-us)
 
-[![Privé Alliance](//privealliance.com/cdn/shop/files/Prive-Alliance-Logo.png?v=1650484228&width=150)![Privé Alliance](//privealliance.com/cdn/shop/files/prive-alliance-logo-white.png?v=1650483876&width=150)](https://privealliance.com/)
+[![Privé Alliance](//privealliance.com/cdn/shop/files/Prive-Alliance-Logo.png?v=1650484228&width=150)![Privé Alliance](//privealliance.com/cdn/shop/files/prive-alliance-logo-white.png?v=1650483876&width=150)](https://privealliance.com/pages/home)
 
 [Privé Alliance](https://privealliance.com/)
 
@@ -169,5 +171,16 @@ This privacy policy applies only to our online activities and is valid for visit
 **Consent**
 
 By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+
+ 
+
+Email
+
+Subscribe to our newsletter
+---------------------------
+
+Subscribe
+
+Be the first to know about new releases, sales, exclusive offers, and events.
 
 © 2024 Privé Alliance[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
