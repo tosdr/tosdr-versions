@@ -1,4 +1,4 @@
-VPN IP check: 51.195.149.220 UNITED KINGDOM
+VPN IP check: 206.81.0.208 UNITED STATES
 
 English اللغه العربيه Русский 中國的 فارسی Türk اردو
 
@@ -188,10 +188,6 @@ TECHNICAL SUPPORT**
   
   
 
-**To provide a better user experience, we use cookies. By clicking or navigating the site, you agree to allow our collection of information.**
-
-X
-
 © 2014 bVPN: The Best VPN - Virtual private network Service Provider with Smoke Tunnel.
 
 * [Home](https://www.bvpn.co/en/)
@@ -203,7 +199,7 @@ X
 * [Register](https://www.bvpn.co/en/accounts/register/)
 * [Agreement](https://www.bvpn.co/en/agreement/)
 
-[VPN for Business](https://www.bvpn.co/en/vpnforbusiness/) - [VPN for Windows](https://www.bvpn.co/en/vpnforwindows/) - [USA VPN](https://www.bvpn.co/en/usavpn/) - [UK VPN](https://www.bvpn.co/en/ukvpn/) - [VPN for iPhone and iPad](https://www.bvpn.co/en/vpnforios/) - [Privacy Policy](https://www.bvpn.co/en/privacypolicy/) - [VPN for Mac](https://www.bvpn.co/en/vpnformac/) - [Affiliates and Resellers](https://www.bvpn.co/en/affiliatesandresellers/) - [Uninstalling b.VPN](https://www.bvpn.co/en/uninstall/) \- [b.VPN Support](https://www.bvpn.co/en/support/) - [b.VPN Discount](https://www.bvpn.co/en/discount/) - [Terms of service](https://www.bvpn.co/en/termsofservice/) - [Stream with bVPN: Your Ticket to Seamless UK Content Streaming Anywhere](https://www.bvpn.co/en/stream_UK_TV/) \- [VPN for Android](https://www.bvpn.co/en/vpnforandroid/) - [VPN service for Iran - Tehran - Mashhad- MTN Irancell - Hamrahe Aval MCI - 4G or 5G network.](https://www.bvpn.co/en/vpn_works_in_Iran/) - [VPN service for Russia - Moscow - Saint Petersburg - MTS - Beeline - MegaFon - 4G or 5G network.](https://www.bvpn.co/en/vpn_works_in_Russia/)
+[VPN for Business](https://www.bvpn.co/en/vpnforbusiness/) - [VPN for Windows](https://www.bvpn.co/en/vpnforwindows/) - [USA VPN](https://www.bvpn.co/en/usavpn/) - [UK VPN](https://www.bvpn.co/en/ukvpn/) - [VPN for iPhone and iPad](https://www.bvpn.co/en/vpnforios/) - [Privacy Policy](https://www.bvpn.co/en/privacypolicy/) - [VPN for Mac](https://www.bvpn.co/en/vpnformac/) - [Stay Informed, Stay Connected with bVPN in Brazil](https://www.bvpn.co/en/Unblock_X_Brazil/) - [Affiliates and Resellers](https://www.bvpn.co/en/affiliatesandresellers/) - [Uninstalling b.VPN](https://www.bvpn.co/en/uninstall/) \- [b.VPN Support](https://www.bvpn.co/en/support/) - [b.VPN Discount](https://www.bvpn.co/en/discount/) - [Terms of service](https://www.bvpn.co/en/termsofservice/) - [Stream with bVPN: Your Ticket to Seamless UK Content Streaming Anywhere](https://www.bvpn.co/en/stream_UK_TV/) \- [VPN for Android](https://www.bvpn.co/en/vpnforandroid/) - [VPN service for Iran - Tehran - Mashhad- MTN Irancell - Hamrahe Aval MCI - 4G or 5G network.](https://www.bvpn.co/en/vpn_works_in_Iran/) - [VPN service for Russia - Moscow - Saint Petersburg - MTS - Beeline - MegaFon - 4G or 5G network.](https://www.bvpn.co/en/vpn_works_in_Russia/)
 
 ![](/static/img/master-card.png) ![](/static/img/visa.png) ![](/static/img/2co.png) ![](/static/img/bvpn-f.png) ![](/static/img/cash.png) ![](/static/img/webmany-f.png) ![](/static/img/wu.png) ![](/static/img/icon-card-f.png) ![](/static/img/paypal.png) ![](/static/img/shap-f.png) ![](/static/img/opencard.png)
 
