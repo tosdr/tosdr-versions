@@ -1,418 +1,391 @@
-[Login](https://auth0.com/api/auth/login?redirectTo=dashboard)
+Okta
 
-DeutschEnglishFrançaisEspañolPortuguês日本語
+Looks like you have Javascript turned off! Please enable it to improve your browsing experience.
 
-[](https://auth0.com/)
+[Skip to main content](#main-content)
 
+Join us for the Identity event of the year, Oct 15-17
+
+Join us for the Identity event of the year, Oct 15-17
+
+[Register for Oktane](https://www.oktane.com/)
+
+[Register for Oktane](https://www.oktane.com/)
+
+[Join us for the Identity event of the year, Oct 15-17](https://www.oktane.com/)
+
+[+1 (800) 425-1267](tel:+1-800-425-1267)
+
+[Chat with Sales](#chat-now)
+
+[Search](https://www.okta.com/search)
+
+United States
+
+* [United Kingdom](https://auth0.com/uk/)
+* [France](https://auth0.com/fr/)
+* [Germany](https://auth0.com/de/)
+* [Japan](https://auth0.com/jp/)
+* [Netherlands](https://auth0.com/nl/)
+* [Australia](https://auth0.com/au/)
+* [Singapore](https://auth0.com/sg/)
+* [Korea](https://auth0.com/kr/)
+* [Sweden](https://auth0.com/se/)
+
+[](https://www.okta.com/)
+
+* Products
+    
+    * * * * Products
+                    
+                    With flexibility and neutrality at the core of our Customer Identity and Workforce Identity Clouds, we make seamless and secure access possible for your customers, employees, and partners.
+                    
+                * [Free trial](https://www.okta.com/free-trial/ "Free trial")
+                * [Pricing](https://www.okta.com/pricing/ "Pricing")
+                
+            
+        * * Customer Identity Cloud
+            * [Single Sign On](https://www.okta.com/customer-identity/single-sign-on/ "Single Sign On")
+            * [Multifactor Authentication](https://www.okta.com/customer-identity/multi-factor-authentication/ "Multifactor Authentication")
+            * [Actions](https://www.okta.com/customer-identity/actions/ "Actions")
+            * [Passwordless](https://www.okta.com/customer-identity/passwordless/ "Passwordless")
+            * [Highly Regulated Identity](https://www.okta.com/products/regulated-identity/ "Highly Regulated Identity")
+            * [Explore Customer Identity Cloud](https://www.okta.com/customer-identity/ "Explore Customer Identity Cloud")
+            
+        * * Workforce Identity Cloud
+            * [Single Sign On](https://www.okta.com/products/single-sign-on/ "Single Sign On")
+            * [Adaptive Multifactor Authentication](https://www.okta.com/products/adaptive-multi-factor-authentication/ "Adaptive Multifactor Authentication")
+            * [Identity Governance](https://www.okta.com/products/identity-governance/ "Identity Governance")
+            * [Privileged Access](https://www.okta.com/products/privileged-access/ "Privileged Access")
+            * [Identity Threat Protection](https://www.okta.com/products/identity-threat-protection/ "Identity Threat Protection")
+            * [Explore Workforce Identity Cloud](https://www.okta.com/workforce-identity/ "Explore Workforce Identity Cloud")
+            
+        
+    
+* Why Okta
+    
+    * * * * Why Okta
+                    
+                    Okta gives you a neutral, powerful and extensible platform that puts identity at the heart of your stack. No matter what industry, use case, or level of support you need, we’ve got you covered.
+                    
+                
+            
+        * * Your Goals
+            * [High-Performing IT](https://www.okta.com/workforce-identity/ "High-Performing IT")
+            * [Optimized Digital Experiences](https://www.okta.com/customer-identity/ "Optimized Digital Experiences")
+            * [Identity-Powered Security](https://www.okta.com/zero-trust/ "Identity-Powered Security")
+            * [Innovation Without Compromise](https://www.okta.com/customer-identity/ "Innovation Without Compromise")
+            * [Agile Workforces](https://www.okta.com/workforce-identity/ "Agile Workforces")
+            
+        * * Your Industry
+            * [Public Sector](https://www.okta.com/okta-public-sector/ "Public Sector")
+            * [Financial Services](https://www.okta.com/solutions/financial-services/ "Financial Services")
+            * [Healthcare](https://www.okta.com/solutions/healthcare/ "Healthcare")
+            * [Manufacturing](https://www.okta.com/solutions/manufacturing/ "Manufacturing")
+            * [Retail](https://www.okta.com/solutions/retail/ "Retail")
+            * [Travel & Hospitality](https://www.okta.com/solutions/travel-hospitality/ "Travel & Hospitality")
+            * [Technology](https://www.okta.com/solutions/technology/ "Technology")
+            * [Nonprofit](https://www.okta.com/solutions/nonprofits/ "Nonprofit")
+            * [Energy](https://www.okta.com/solutions/energy/ "Energy")
+            
+        * * Ensuring Success
+            * [Okta AI](https://www.okta.com/products/okta-ai/ "Okta AI")
+            * [Okta Integration Network](https://www.okta.com/okta-integration-network/ "Okta Integration Network")
+            * [For Small Businesses (SMBs)](https://www.okta.com/small-business/ "For Small Businesses (SMBs)")
+            * [Customer Success Stories](https://www.okta.com/customers/ "Customer Success Stories")
+            * [Okta Advantage](https://www.okta.com/okta-advantage/ "Okta Advantage")
+            * [Secure Identity Commitment](https://www.okta.com/secure-identity-commitment/ "Secure Identity Commitment")
+            * [Trust](https://trust.okta.com/?_ga=2.172244323.1131952190.1694551039-2108337227.1682701839&_gl=1%2Aww0l7q%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTE3ODEuNjAuMC4w "Trust")
+            
+        
+    
 * Developers
     
-    Developers
-    
-    * [Developer Center](https://developer.auth0.com/)
-    * [Code Samples](https://developer.auth0.com/resources/code-samples)
-    * [Guides](https://developer.auth0.com/resources/guides)
-    * [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
-    * [Zero Index Newsletter](https://developer.auth0.com/newsletter)
-    
-    Developer Tools
-    
-    * [OIDC Connect Playground](https://openidconnect.net/)
-    * [SAML Tool](https://samltool.io/)
-    * [JWT.io](http://jwt.io/)
-    * [Webauthn.me](http://webauthn.me/)
-    
-    Get Involved
-    
-    * [Events](https://developer.auth0.com/events)
-    * [Ambassador Program](https://auth0.com/ambassador-program)
-    * [Auth0 Research Program](https://auth0.com/research-program)
-    
-* Documentation
-    
-    Documentation
-    
-    * [Auth0 Docs](https://auth0.com/docs)
-    * [Articles](https://auth0.com/docs/articles)
-    * [Quickstarts](https://auth0.com/docs/quickstarts)
-    * [APIs](https://auth0.com/docs/api)
-    * [SDK Libraries](https://auth0.com/docs/libraries)
-    
-    Support Center
-    
-    * [Community](https://community.auth0.com/)
-    * [Support](https://support.auth0.com/)
-    * [Help](https://community.auth0.com/c/help/6)
-    * [FAQs](https://community.auth0.com/c/faq/42)
-    * [Explore Auth0 Marketplace](https://marketplace.auth0.com/)
-    * [Resources](https://auth0.com/resources)
-    
-    * [Blog](https://auth0.com/blog/)
-    * [Learn](https://auth0.com/learn)
-    * [Intro to IAM (CIAM)](https://auth0.com/intro-to-iam)
-    
-* Product
-    
-    Platform
-    
-    * [Access Management](https://auth0.com/platform/access-management)
-    * [Extensibility](https://auth0.com/platform/extensibility)
-    * [Security](https://auth0.com/platform/login-security)
-    * [User Management](https://auth0.com/platform/user-management)
-    * [Authentication](https://auth0.com/platform/authentication)
-    * [Fine Grained Authorization](https://auth0.com/fine-grained-authorization)
-    
-    Features
-    
-    * [Universal Login](https://auth0.com/features/universal-login)
-    * [Single Sign On](https://auth0.com/features/single-sign-on)
-    * [Multifactor Authentication](https://auth0.com/features/multifactor-authentication)
-    * [Actions](https://auth0.com/features/actions)
-    * [Machine to Machine](https://auth0.com/features/machine-to-machine)
-    * [Passwordless](https://auth0.com/features/passwordless)
-    * [Breached Passwords](https://auth0.com/features/breached-passwords)
-    
-* Solutions
-    
-    Industries
-    
-    * [Nonprofits & Charities](https://auth0.com/nonprofits)
-    * [Startups](https://auth0.com/startups)
-    
-    Use Cases
-    
-    * [Consumer Applications](https://auth0.com/b2c-customer-identity-management)
-    * [B2B SaaS Applications](https://auth0.com/b2b-saas)
-    
-* [Pricing](https://auth0.com/pricing/)
-* Language
-    
-    DeutschEnglishFrançaisEspañolPortuguês日本語
-
-[Sign up](https://auth0.com/signup?place=header&type=button&text=sign%20up)[Login](https://auth0.com/api/auth/login?redirectTo=dashboard)
-
-[Contact sales](https://auth0.com/contact-us?place=header&type=button&text=contact%20sales)
-
-[](https://auth0.com/)
-
-* Developers
-    
-    Developers
-    
-    * [Developer Center](https://developer.auth0.com/)
-    * [Code Samples](https://developer.auth0.com/resources/code-samples)
-    * [Guides](https://developer.auth0.com/resources/guides)
-    * [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
-    * [Zero Index Newsletter](https://developer.auth0.com/newsletter)
-    
-    Developer Tools
-    
-    * [OIDC Connect Playground](https://openidconnect.net/)
-    * [SAML Tool](https://samltool.io/)
-    * [JWT.io](http://jwt.io/)
-    * [Webauthn.me](http://webauthn.me/)
-    
-    Get Involved
-    
-    * [Events](https://developer.auth0.com/events)
-    * [Ambassador Program](https://auth0.com/ambassador-program)
-    * [Auth0 Research Program](https://auth0.com/research-program)
-    
-* Documentation
-    
-    Documentation
-    
-    * [Auth0 Docs](https://auth0.com/docs)
-    * [Articles](https://auth0.com/docs/articles)
-    * [Quickstarts](https://auth0.com/docs/quickstarts)
-    * [APIs](https://auth0.com/docs/api)
-    * [SDK Libraries](https://auth0.com/docs/libraries)
-    
-    Support Center
-    
-    * [Community](https://community.auth0.com/)
-    * [Support](https://support.auth0.com/)
-    * [Help](https://community.auth0.com/c/help/6)
-    * [FAQs](https://community.auth0.com/c/faq/42)
-    * [Explore Auth0 Marketplace](https://marketplace.auth0.com/)
-    * [Resources](https://auth0.com/resources)
-    
-    [![](https://cdn.auth0.com/website/website/cic-header/hero/blog-thumbnail.png)
-    
-    BLOG
-    
-    Getting Unlimited Scalability with Okta Fine Grained Authorization](https://auth0.com/blog/getting-unlimited-scalability-with-okta-fine-grained-authorization/)
-    
-    * [Blog](https://auth0.com/blog/)
-    * [Learn](https://auth0.com/learn)
-    * [Intro to IAM (CIAM)](https://auth0.com/intro-to-iam)
-    
-* Product
-    
-    Platform
-    
-    * [Access Management](https://auth0.com/platform/access-management)
-    * [Extensibility](https://auth0.com/platform/extensibility)
-    * [Security](https://auth0.com/platform/login-security)
-    * [User Management](https://auth0.com/platform/user-management)
-    * [Authentication](https://auth0.com/platform/authentication)
-    * [Fine Grained Authorization](https://auth0.com/fine-grained-authorization)
-    
-    Features
-    
-    * [Universal Login](https://auth0.com/features/universal-login)
-    * [Single Sign On](https://auth0.com/features/single-sign-on)
-    * [Multifactor Authentication](https://auth0.com/features/multifactor-authentication)
-    * [Actions](https://auth0.com/features/actions)
-    * [Machine to Machine](https://auth0.com/features/machine-to-machine)
-    * [Passwordless](https://auth0.com/features/passwordless)
-    * [Breached Passwords](https://auth0.com/features/breached-passwords)
-    
-    * [Technology Overview
+    * * * * For Developers
+                    
+                    Start building with powerful and extensible out-of-the-box features, plus thousands of integrations and customizations. Our developer community is here for you.
+                    
+                
+            
+        * * Customer Identity Cloud
+            * [Auth0 Marketplace](https://auth0.com/marketplace "Auth0 Marketplace")
+            * [Developer Center](https://developer.auth0.com/resources "Developer Center")
+            * [Community](https://community.auth0.com/ "Community")
+            * [Knowledge Base](https://support.auth0.com/ "Knowledge Base")
+            * [Customer Identity Cloud Status](https://status.auth0.com/ "Customer Identity Cloud Status")
+            
+        * * Workforce Identity Cloud
+            * [Okta Integration Network](https://www.okta.com/okta-integration-network/ "Okta Integration Network")
+            * [Developer Center](https://developer.okta.com/ "Developer Center")
+            * [Community](https://devforum.okta.com/ "Community")
+            * [Knowledge Base](https://support.okta.com/help/s/?language=en_US "Knowledge Base")
+            * [Workforce Identity Cloud Status](https://status.okta.com/ "Workforce Identity Cloud Status")
+            
         
-        Watch a walkthrough of the Auth0 Platform](https://auth0.com/resources/videos/platform-introduction-video-2020)
-    * [Cloud Deployments
+    
+* Resources
+    
+    * * * * Resources and support
+                    
+                    Okta gives you a neutral, powerful and extensible platform that puts identity at the heart of your stack. No matter what industry, use case, or level of support you need, we’ve got you covered.
+                    
+                
+            
+        * * Resources
+            * [Customer Case Studies](https://www.okta.com/customers/ "Customer Case Studies")
+            * [Events](https://www.okta.com/resources/events/ "Events")
+            * [Podcasts](https://www.okta.com/resources/podcasts/mistaken-identity/ "Podcasts")
+            * [Blog](https://www.okta.com/blog/ "Blog")
+            * [Press Room](https://www.okta.com/press-room/ "Press Room")
+            * [Analyst Research](https://www.okta.com/resources/content-library/?field_resource_solutions_target_id=All&type=analyst_research "Analyst Research")
+            * [Datasheets](https://www.okta.com/resources/content-library/?type=datasheet "Datasheets")
+            * [Demo Library](https://www.okta.com/resources/content-library/?type=demo "Demo Library")
+            * [Videos](https://www.okta.com/resources/content-library/?field_resource_solutions_target_id=All&type=video "Videos")
+            * [Webinars](https://www.okta.com/webinars/hub/ "Webinars")
+            * [Whitepapers](https://www.okta.com/resources/content-library/?field_resource_solutions_target_id=All&type=whitepaper "Whitepapers")
+            
+        * * Customer Success
+            * [Customer First Overview](https://www.okta.com/customer-first/ "Customer First Overview")
+            * [Okta Community](https://www.okta.com/services/self-service/community/ "Okta Community")
+            * [Support Services](https://www.okta.com/services/success-and-support/ "Support Services")
+            * [Professional Services](https://www.okta.com/services/professional-services/ "Professional Services")
+            * [Expert Assist](https://www.okta.com/expert-assist/ "Expert Assist ")
+            * [Training](https://www.okta.com/services/training/ "Training")
+            * [Certification](https://www.okta.com/services/certification/ "Certification")
+            * [Find a Partner](https://www.okta.com/partners/meet-our-partners/ "Find a Partner")
+            
+        * * Support
+            * [Help and Support](https://support.okta.com/help/s/?language=en_US&_ga=2.141001906.1408537636.1665532992-1758812997.1653668763&_gl=1%2A19k8ftp%2A_ga%2AMTc1ODgxMjk5Ny4xNjUzNjY4NzYz%2A_ga_QKMSDV5369%2AMTY2NTU4ODY2NC41Ny4xLjE2NjU1ODk0OTAuNTkuMC4w "Help and Support")
+            * [Product Documentation](https://help.okta.com/en-us/content/index.htm "Product Documentation")
+            * [Knowledge Base](https://support.okta.com/help/s/knowledge?language=en_US "Knowledge Base")
+            * [Frequently Asked Questions](https://www.okta.com/faq/ "Frequently Asked Questions")
+            * [Contact Us](https://www.okta.com/contact-sales/ "Contact Us")
+            * [Customer Identity Cloud Status](https://status.auth0.com/ "Customer Identity Cloud Status")
+            * [Workforce Identity Cloud Status](https://status.okta.com/ "Workforce Identity Cloud Status")
+            
         
-        Deploy to the cloud, your way](https://auth0.com/platform/cloud-deployment)
-    * [Auth0 Marketplace
-        
-        Discover the integrations you need to solve identity](https://auth0.com/marketplace)
     
-* Solutions
-    
-    Industries
-    
-    * [Nonprofits & Charities](https://auth0.com/nonprofits)
-    * [Startups](https://auth0.com/startups)
-    
-    Use Cases
-    
-    [Consumer Applications](https://auth0.com/b2c-customer-identity-management)[B2B SaaS Applications](https://auth0.com/b2b-saas)
-    
-    Case Studies
-    
-    [Read our customers stories](https://auth0.com/customers/)
-    
-    [![](https://cdn.auth0.com/website/header/ROI_thumb_2x.png)
-    
-    CIAM ROI Calculator
-    
-    Estimate the revenue impact to your customer-facing business](https://okta.valuestoryapp.com/okta/?utm_Origin=Auth0)
-    
-* [Pricing](https://auth0.com/pricing/)
-[Sign up](https://auth0.com/signup?place=header&type=button&text=sign%20up)[Contact sales](https://auth0.com/contact-us?place=header&type=button&text=contact%20sales)
 
-Terms of Service
-================
+[Free trial](https://auth0.com/free-trial/)
 
-Auth0.com Website Terms of Use
+[Contact us](https://auth0.com/contact-sales/)
+
+[Login](https://login.okta.com/)
+
+[](#)
+
+Questions? Contact us: [1 (800) 425-1267](tel:1-800-425-1267)
+
+Last Updated Date: September 29, 2022
+
+Please read these Website Terms of Service (“Terms”) carefully before using any website and any services made available via such website(s) (collectively, the “Site”) owned or operated by Okta, Inc. and or its affiliate(s) (collectively, “Okta”). These Terms govern your use of the Site that links to these Terms. By accessing, using, downloading, or logging into the Site, you agree to these Terms. If at any time you do not agree with any of these Terms, you must immediately stop using the Site. These Terms are subject to change by Okta, in its sole discretion, at any time, without prior notice. Any changes to these Terms will be in effect as of the “Last Updated Date” referenced in these Terms. By accessing, using, downloading, or logging into the Site after the “Last Updated Date”, you agree to the changes to these Terms.
+
+The terms and conditions for organizations' use of Okta's identity and access management products and services, and for professional services, support services, training services, and free trials, are separate from these Terms and are available at [okta.com/agreements](https://www.okta.com/agreements).
+
+Please carefully review our [Privacy Policy](https://www.okta.com/privacy-policy/) as it also governs your use of the Site and certain of our activities and is incorporated by reference into this Terms.
+
+I. Intellectual Property
+------------------------
+
+Except as may otherwise be provided, the Site and the content included in or made available through the Site, such as text, graphics, logos, images, sounds, videos, digital downloads, data compilation, software, and documents, are the exclusive property of Okta, its licensors and content providers and are protected by United States and international intellectual property laws. All rights, title and interest not expressly granted with respect to the Site and content provided on or made available through the Site are reserved and retained by Okta, its licensors and content providers.
+
+The Okta graphics, logos, designs, page headers, button icons, scripts, trademarks, and service names are the trademarks or trade dress owned by Okta and may not be used in any manner without the prior written permission of Okta. All other names, logos, product and service names, designs and slogans that may appear on the Site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Okta.
+
+Certain content and materials made available through the Site and our services are protected by copyright law. Aside from Submissions and other third-party materials, all materials and other information on our Site, including but not limited to, all text, graphics, logos, icons, images, audio and video clips, downloads, data compilations, and software are the exclusive property of Okta and/or its licensors and are protected by all United States and international copyright laws.
+
+II. Access and Use of the Site
 ------------------------------
 
-### Last Update: May 31, 2018
+When you access or use the Site, you agree to use the Site only for purposes that are permitted by these Terms and any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions. In addition, you agree that you are solely responsible for any breach of your obligations under these Terms and for the consequences of any such breach. As a condition of your use of the Site, you warrant to Okta that you will not use the Site for any purpose that is unlawful or otherwise prohibited by these Terms. Whether on behalf of yourself or on behalf of any third party, you agree not to:
 
-### Introduction
+* Access or attempt to access or use the Site other than through the interface that is provided by Okta, or through user accounts of others, unless you have specifically been permitted to do so in a separate written agreement signed by an authorized representative of Okta;
+* Access or attempt to access or use the Site, or any portion thereof, through any automated means, including but not limited to the use of scripts or web crawlers;
+* Engage in any activity that disrupts or otherwise interferes with the Site (or the servers and networks which are connected to the Site), or the use of the same by others, as determined in Okta’s sole discretion;
+* Scrape, duplicate, reproduce, copy, republish, license, sell, trade or resell the Site or any of its content for any purpose, unless you have specifically been permitted to do so in a separate written agreement signed by an authorized representative of Okta;
+* Divert or attempt to divert Okta customers to another website, mobile application, or service;
+* Sell, share, or otherwise transfer your account username, password, other information, or your rights or obligations under these Terms; Send unsolicited or unauthorized emails;
+* Spam or send unsolicited or unauthorized emails;
+* Use the Site to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third party rights, including but not limited to privacy rights;
+* Use the Site to store or transmit malicious code or malware, or to engage in phishing or other fraudulent activity;
+* Restrict or inhibit any other person from using the Site;
+* Modify, adapt, translate, reverse engineer, probe, scan, test, decompile, or disassemble any portion of the Site except and to the extent required by third party licensing terms governing use of certain open source components that may be included;
+* Attempt to do anything, or encourage, assist, or allow any third party to do anything in violation of these Terms; or
+* Use a false email address, impersonate any person or entity, or falsely state or imply or otherwise misrepresent your affiliation with any person or entity in connection with the Site.
 
-These are the terms of use for auth0.com and its connected webpages, microsites and portals (collectively, the Site). The Site is operated by Auth0, Inc. (we, us and our). By using the Site, you consent to these terms of use and agree to be bound by them. If we change these terms of use in any way, those changes will be posted on this page. These terms of use were last updated on May 31 2018. These Terms do not apply to your access to and use of the products and services which we market for subscription on the Site (our Services), including our support program for our Services.
+III. Accounts
+-------------
 
-* * *
+It is your responsibility to ensure your computer system or device meets all the necessary technical specifications to enable you to access and use the Site and is compatible with the Site. To access certain services, features, portions, or content on the Site, you may be required to create an account and specify a password. To create an account, you must be at least 18 years old and you must provide current, complete, truthful, and accurate information as prompted by the applicable registration form. If your information changes at any time, you agree to update your account to reflect those changes.
 
-### Access to the Site
+If your Okta account is assigned and/or managed by your employer or a third party, then additional terms may apply to your use of the Site and your employer or the third party may be able to access or disable your account with or without Okta’s involvement and may have information relating to your access and use of the account shared with them.
 
-It is your responsibility to ensure your computer system meets all the necessary technical specifications to enable you to access and use the Site and is compatible with the Site. We may, from time to time, restrict access to certain features, parts or content of the Site to users who have registered with us (such as access to the Services support program features and pages). You must ensure that any registration details you provide are accurate. If you use or create a log-in ID (such as a username and password or other identifier) as part of our security procedures, you must treat such information as confidential and must not reveal it to anyone else. You are responsible for all activities that occur under your log-in ID and must notify us immediately of any unauthorized use or other security breach of which you become aware. We reserve the right to disable any log-in ID, at any time, if in our opinion you have failed to comply with any of the provisions of these terms of use or if any details you provide for the purposes of registering as a user prove to be false. We cannot guarantee the continuous, uninterrupted or error-free operability of the Site. There may be times when certain features, parts or content of the Site, or the entire Site, become unavailable (whether on a scheduled or unscheduled basis) or are modified, suspended or withdrawn by us, in our sole discretion, without notice to you. You agree that we will not be liable to you or to any third party for any unavailability, modification, suspension or withdrawal of the Site, or any features, parts or content of the Site.
+If you create an account or an account is created for you, you may not share your account with anyone else and you agree to treat your account information as confidential and must not reveal the information to anyone. You are responsible for maintaining the confidentiality of and preventing the unauthorized use of your account information and for all activities that occur under your account. You must immediately notify Okta of any confidentiality breach or unauthorized use of your account or your account information. Okta reserves the right to suspend, disable, deactivate, or block your account, at any time, for any lawful reason. 
 
-* * *
+IV. Submissions
+---------------
 
-### What you are allowed to do
+You and other users of the Site may have the ability to post, upload, input, submit or otherwise make available (“Posting”) certain information, content, or materials, including testimonials, reviews, posts, comments and other user-generated content, pictures and documents through the Site (each a “Submission(s)”). A Submission reflects only the opinions or reviews of the user who made the Submission available and does not reflect the opinions of Okta, regardless of whether or not the user is affiliated with Okta. Submissions are made available for your general knowledge only and should never be relied upon. By Posting your Submission(s), you grant to Okta, to the maximum extent permitted under applicable law, an irrevocable, perpetual, sublicensable, transferable, nonexclusive, and royalty-free, and worldwide license, without additional consideration to you or any third party, to copy, reproduce, distribute, transmit, perform and display (publicly or otherwise), create derivative works of, adapt, modify, edit, translate, reformat, and otherwise use, analyze and exploit such Submission, in any medium or form now existing or later developed, and for any purpose; to publish (or not publish) your name in connection with your Submission(s); and the right to sublicense such rights to others, including Okta’s affiliates and any suppliers of the Site and/or our services.
 
-Except as necessary for your evaluation and use of the Services, you may only use the Site for non-commercial use and only in accordance with these terms of use. You may retrieve and display content from the Site on a computer screen, print and copy individual pages and, subject to the next section, store such pages in electronic form. Additional terms may also apply to certain features, parts or content of the Site and, where they apply, will be displayed before you access the relevant features, parts or content.
+By Posting a Submission, you represent and warrant: that you own, control, or have otherwise secured, all of the rights to your Submission, including the content therein, and the Posting thereof; that the content is complete and accurate and is not fraudulent, tortious or otherwise in violation of any applicable law or any right of any third party; to the extent that the content contains any intellectual property, including, without limitation, trademarks, patents, rights of publicity, copyrights to any creative works, including, without limitation, text, audio, video, software code, artwork, images, photographs, pictures or any other content in whole or in part that is protected by any intellectual property laws (collectively, “Submitted IP”), that you are the copyright owner of such Submitted IP, or that the copyright owner of such Submitted IP has granted you permission to use such Image or any content and/or images contained in such Submitted IP consistent with the manner and purpose of your use and as otherwise permitted by these Terms; that you have the rights necessary to grant the licenses and sublicenses described in these Terms; that use of the Submission(s) you supply does not violate this policy, does not infringe upon the intellectual property rights of any person or entity, and will not cause injury to any person or entity; and that you will indemnify Okta for all claims resulting from your Submission(s).
 
-### What you are not allowed to do
+Okta has the right, but not the obligation, in its sole discretion, at any time, to monitor, evaluate, analyze, edit, move, alter, or remove Submissions. Okta takes no responsibility and assumes no liability for any Submissions by you or any third party. You are solely responsible for any Submission(s) you post. 
 
-Except to the extent expressly set out in these Terms, you are not allowed to:
+V. Feedback
+-----------
 
-* store pages of the Site on a server or other storage device connected to a network or create an electronic database by systematically downloading and storing all of the pages of the Site;
-* remove or change any content of the Site or attempt to circumvent security or interfere with the proper working of the Site or the servers on which it is hosted; or
-* create links to the Site from any other website, without our prior written consent, although you may link from a website that is operated by you provided the link is not misleading or deceptive and fairly indicates its destination, you do not imply that we endorse you, your website, or any products or services you offer, you link to (and do not frame or replicate) the home page of the Site, and the linked website does not contain any content that is unlawful, threatening, abusive, defamatory, pornographic, obscene, vulgar, indecent, offensive or which infringes on the intellectual property rights or other rights of any third party. You must only use the Site and anything available from the Site for lawful purposes (complying with all applicable laws and regulations), in a responsible manner, and not in a way that might damage our name or reputation or that of any of our affiliates. All rights granted to you under these terms of use will terminate immediately in the event that you are in breach of any of them.
+If you provide or otherwise make available to Okta any suggestions, enhancement requests, recommendations, corrections, or other feedback (“Feedback”), whether related to the Site or otherwise, then these Terms and Additional Terms applicable to Submissions will also apply to such Feedback, and you hereby acknowledge and agree that such Feedback is not confidential information and that your provision of such Feedback is gratuitous, unsolicited and without restriction, and does not place Okta under any fiduciary or other obligation. For Feedback not governed by these Terms or Additional Terms, you hereby grant to Okta an irrevocable, perpetual, sublicensable, transferable, non-exclusive, and royalty-free, and worldwide license, to use or incorporate into its products and services any Feedback. Okta shall have no obligation to use Feedback, and you shall have no obligation to provide Feedback.
 
-* * *
+VI. External Links
+------------------
 
-### Intellectual property rights
+The Site may include links to third party sites; such linked sites are not under Okta’s control and Okta is not responsible for the contents of any linked sites or any links contained in any linked sites, or any changes or updates to such sites. Okta is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement of, or affiliation with, any third party site by Okta. Okta reserves the right to remove any links at any time. YOUR USE OF THIRD PARTY SITES IS AT YOUR OWN RISK AND IS SUBJECT TO ANY TERMS, CONDITIONS, AND POLICIES APPLICABLE TO SUCH THIRD PARTY SITES.
 
-All intellectual property rights in any content of the Site (including text, graphics, software, photographs and other images, videos, sound, trade marks and logos) are owned by us or our licensors. Except as expressly set out here, nothing in these terms of use gives you any rights in respect of any intellectual property owned by us or our licensors and you acknowledge that you do not acquire any ownership rights by downloading content from the Site. If you print off, copy or store pages from the Site (only as permitted by these terms of use), you must ensure that any copyright, trade mark or other intellectual property right notices contained in the original content are reproduced.
+VII. Notices of Copyright and Other Intellectual Property Infringement
+----------------------------------------------------------------------
 
-* * *
+If you believe that material on the Site infringes your intellectual property rights, you may request the removal of the material by following the instructions located [here](https://www.okta.com/copyright/).
 
-### Content
+VIII. Disclaimer
+----------------
 
-We may change the format and content of the Site from time to time. You agree that your use of the Site is on an ‘as is’ and ‘as available’ basis and at your sole risk.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SITE AND ALL INFORMATION, CONTENT, MATERIALS, PROGRAMS, OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE THROUGH THE SITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, UNLESS OTHERWISE SPECIFIED IN THESE TERMS, ADDITIONAL TERMS, AND/OR ANY AGREEMENT. OKTA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, PROGRAMS, OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITE, UNLESS OTHERWISE SPECIFIED IN WRITING. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, OKTA EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT WITH RESPECT TO THE SITE AND ALL INFORMATION, CONTENT, MATERIALS, PROGRAMS, OR SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SITE.
 
-Whilst we try to make sure that all information contained on the Site (other than any user-generated content) is correct, it is not intended to amount to authority or advice on which reliance should be placed. You should check with us or the relevant information source before acting on any such information.
+Your use and access to the Site may be subject to limitations, delays, failure, and other problems inherent in the use of the Internet and electronic communications. Okta is not responsible for any delays, failures or other damage resulting from such problems.
 
-WE MAKE OR GIVE NO REPRESENTATION OR WARRANTY AS TO THE ACCURACY, COMPLETENESS, CURRENCY, CORRECTNESS, RELIABILITY, INTEGRITY, QUALITY, FITNESS FOR PURPOSE OR ORIGINALITY OF ANY CONTENT OF THE SITE AND, TO THE FULLEST EXTENT PERMITTED BY LAW, ALL IMPLIED WARRANTIES, CONDITIONS OR OTHER TERMS OF ANY KIND ARE HEREBY EXCLUDED AND WE ACCEPT NO LIABILITY FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOU OR ANYONE ELSE USING THE SITE OR RELYING ON ANY OF ITS CONTENT.
+IX. Limitation of Liability
+---------------------------
 
-We cannot and do not guarantee that any content of the Site will be free from viruses and/or other code that may have contaminating or destructive elements. It is your responsibility to implement appropriate IT security safeguards (including anti-virus and other security checks) to satisfy your particular requirements as to the safety and reliability of content.
+IN NO EVENT SHALL OKTA BE LIABLE FOR ANY LOSSES OR DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR DAMAGES BASED ON LOST PROFITS, DATA OR USE, HOWEVER CAUSED AND, WHETHER IN AN ACTION IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY (INCLUDING NEGLIGENCE), ARISING FROM YOUR ACCESS TO, OR USE OF, THE SITE OR ANY CONTENT, MATERIALS, OR INFORMATION MADE AVAILABLE ON OR THROUGH THE SITE, WHETHER OR NOT YOU HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-If you post or otherwise display any of your or your employer’s own content on the Site, you hereby grant Auth0 a non-exclusive, perpetual, royalty-free, paid-up, worldwide license, with right to sub-license, to copy. modify, distribute, display, perform, make, use and sell (or sub-license, as applicable) such content.
+X. Indemnification
+------------------
 
-* * *
+To the fullest extent permitted by law, you agree to indemnify, release, and hold harmless Okta and its directors, officers, employees, and contractors for any third party claims, demands, suits, proceedings, liabilities, losses, damages, judgements, fines, or costs and expenses (including, without limitation, reasonable attorneys’ fees) arising out of or relating to: (a) your violation or alleged violation of these Terms; or (b) your Submissions. 
 
-### Your personal information
+XI. Applicable Law
+------------------
 
-Use of your personal information submitted to or via the Site is governed by our [privacy policy](https://auth0.com/privacy).
+These Terms and any dispute arising out of or related to these Terms shall be governed by the laws of the State of California, without regard to its conflict of laws rules.
 
-* * *
+XII. Modification, Termination, and Severability
+------------------------------------------------
 
-### External links
+Okta reserves the right to modify the Site, including adding, amending, suspending, or removing functionality, features, material, and content on the Site, and these Terms at any time, without notice. All provisions of these Terms which by their nature should survive termination shall survive the termination of your use and access to the Site, including, without limitation, provisions regarding ownership, warranty disclaimers, indemnity, and limitations of liability. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, such condition(s) shall be deemed severable and shall not affect the validity and enforceability of any remaining condition. Okta may terminate your privilege to use or access the Site immediately and without notice for any reason whatsoever. Upon such termination, you agree to immediately cease accessing or using the Site and agree not to access or make use of, or attempt to use, the Site. Furthermore, you acknowledge that Okta reserves the right to take action -- technical, legal, or otherwise -- to block, nullify, or deny your ability to access the Site. You understand and agree that Okta may exercise this right in its sole discretion, and this right shall be in addition to, and not in substitution for, any other rights and remedies available at law or in equity to Okta.
 
-The Site may, from time to time, include links to external sites, which may include links to third party offers and promotions. We include these to provide you with access to information, products or services that you may find useful or interesting. We are not responsible for the content of these sites or for anything provided by them and do not guarantee that they will be continuously available. The fact that we include links to such external sites does not imply any endorsement of or association with their operators or promoters.
+XIII. Mobile Terms and Conditions
+---------------------------------
 
-* * *
+Effective Date: 11/15/2023
 
-### DMCA Notice and Procedure
+**OKTA ALERTS**
 
-NOTICE AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT IN ACCORDANCE WITH THE DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA).
+Subscribe to receive trust notifications from Okta regarding outages and incidents. Subscription is available for current Okta customers when they log in via [https://status.okta.com/](https://status.okta.com/). Message frequency varies. **Message and data rates may apply.**
 
-Auth0, Inc. (Auth0) will respond to allegations of copyright violations in accordance with the Digital Millennium Copyright Act (DMCA). The DMCA provides a process for a copyright owner to give notification to an online service provider concerning alleged copyright infringement. When a valid DMCA notification is received, the service provider responds under this process by taking down the offending content. On taking down content under the DMCA, we will take reasonable steps to contact the owner of the removed content so that a counter-notification may be filed. On receiving a valid counter-notification, we generally restore the content in question, unless we receive notice from the notification provider that a legal action has been filed seeking a court order to restrain the alleged infringer from engaging in the infringing activity. Auth0 may provide copies of such notices to the participants in the dispute or to any other third parties, at our discretion and as required by law. Auth0's privacy policy does not protect information provided in these notices. NOTE: THE FOLLOWING INFORMATION IS PROVIDED EXCLUSIVELY FOR NOTIFYING AUTH0 THAT YOUR COPYRIGHTED MATERIAL MAY HAVE BEEN INFRINGED. ALL OTHER INQUIRIES, SUCH AS REQUESTS FOR TECHNICAL ASSISTANCE, REPORTS OF EMAIL ABUSE, AND DATA PROTECTION OR PRIVACY REQUIREMENTS, WILL NOT RECEIVE A RESPONSE THROUGH THIS PROCESS.
+By opting in to this service, you consent to receive mobile text alerts using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services.
 
-* * *
+By signing up, you are confirming you are over the age of 13.
 
-### Notification
+**STOP Information**
 
-If you believe that your work was copied or posted on our Website in a way that constitutes copyright infringement, please contact our designated agent at the email address below:
+Text STOP to 65820 to stop receiving Okta Alerts messages from Okta (you will receive a confirmation text).
 
-Auth0 Copyright Agent Auth0®, Inc. 10800 NE 8th Street, Suite 600 Bellevue, WA, 98004 Email: legal@auth0.com
+**HELP Information**
 
-If your concern is with content you posted to any auth0.com webpage, please note that by submitting, posting, or displaying your content on our site, you grant Auth0 and its end users a worldwide, royalty-free, non-exclusive license as specified in these Terms.
+For additional information, text HELP to 65820 or contact (800) 219-0964.
 
-If your content has not been posted to any Auth0 site previous, your notification must include the following information:
+**Supported carriers are:** 
 
-1. A description of the copyrighted work you claim to have been infringed. If you are not the owner of the copyrighted work, you must also include your electronic or digital signature as a person authorized to act on behalf of the copyright owner;
-2. A description of where the material that you claim is infringing is located on our Website;
-3. Information reasonably sufficient to permit Auth0 to contact you, such as an address, telephone number, and if available, an electronic mail address at which you may be contacted;
-4. A statement that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent, or the law; and
-5. A statement by you, made under penalty of perjury, that the information in your notification is accurate, and that you are the copyright owner or are authorized to act on behalf of the copyright owner.
+AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin Mobile, Google Voice, ACS Wireless, Advantage Cellular (DTC Wireless), Appalachian Wireless, Atlantic Tele-Network International (ATN), Bandwidth, Bluegrass Cellular, Buffalo Wireless, CableVision, Carolina West Wireless, Cellcom, Copper Valley, C-Spire Wireless (formerly Cellsouth), Cellular One of East Central Illinois, Chariton Valley Cellular, Cross (dba Sprocket), Duet IP, Element Mobile, EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri Cellular), i Wireless (IOWA Wireless), Illinois Valley Cellular, Immix (Keystone Wireless / PC Management), Inland Cellular, Mobi PCS (Coral Wireless LLC), Mosaic, MTA Communications, MTPCS / Cellular One (Cellone Nation), Nex-Tech Wireless, Panhandle Telecommunications, Peoples Wireless, Pine Belt Wireless, Pine Cellular, Pioneer, Plateau, Revol Wireless, RINA, SI Wireless/Mobile Nation, SouthernLinc, SRT Wireless, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless, Leaco, Nemont/Sagebrush. T-Mobile is not liable for delayed or undelivered messages.
 
-Upon receipt of the written Notification containing the information as outlined in 1 through 5 above:
-
-1. Auth0 shall remove or disable access to the material that is alleged to be infringing;
-2. Auth0 shall forward the written notification to such alleged infringer ("Subscriber");
-3. Auth0 shall take reasonable steps to promptly notify the Subscriber that it has removed or disabled access to the material.
-
-* * *
-
-### Counter Notification
-
-To be effective, a Counter Notification must be a written communication provided to Auth0's Designated Agent that includes substantially the following:
-
-1. A physical or electronic signature of the Subscriber;
-2. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled;
-3. A statement under penalty of perjury that the Subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
-4. The Subscriber's name, address, and telephone number, and a statement that the Subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the Subscriber's address is outside of the United States, for any judicial district in which the Service Provider may be found, and that the Subscriber will accept service of process from the person who provided notification or an agent of such person.
-
-Upon receipt of a Counter Notification containing the information as outlined in 1 through 4 above:
-
-1. Auth0 shall promptly provide you, the complaining party, with a copy of the Counter Notification;
-2. Auth0 shall inform you that it will replace the removed material or cease disabling access to it within ten (10) business days;
-3. Auth0 shall replace the removed material or cease disabling access to the material within ten (10) to fourteen (14) business days following receipt of the Counter Notification, provided Auth0's Designated Agent has not received notice from you that an action has been filed seeking a court order to restrain Subscriber from engaging in infringing activity relating to the material on Auth0's network or system.
-
-* * *
-
-### Account Termination
-
-Auth0 may, in appropriate circumstances, terminate an account holder or subscriber to the Site if he or she is a repeat infringer. If you believe that an account holder or subscriber is a repeat infringer, please follow the instructions above to contact Auth0's DMCA agent and provide information sufficient for us to verify that the account holder or subscriber is a repeat infringer.
-
-Developers
-
-* [Developer Hub](https://developer.auth0.com/resources)
-* [Code Samples and Guides](https://developer.auth0.com/resources/code-samples)
-* [Blog posts](https://auth0.com/blog/developers/)
-* [Identity Unlocked - Podcasts](https://identityunlocked.auth0.com/public/49/Identity,-Unlocked.--bed7fada)
-* [Zero Index Newsletter](https://developer.auth0.com/newsletter)
-
-Documentation
-
-* [Articles](https://auth0.com/docs/articles)
-* [Quickstarts](https://auth0.com/docs/quickstarts)
-* [APIs](https://auth0.com/docs/api)
-* [SDK Libraries](https://auth0.com/docs/libraries)
-* [Blog](https://auth0.com/blog/)
-* [Reports](https://auth0.com/resources/ebooks)
-* [Webinars](https://auth0.com/resources/webinars)
-
-Get Involved
-
-* [Forum](https://community.auth0.com/)
-* [Events](https://developer.auth0.com/events)
-* [Ambassador Program](https://auth0.com/ambassador-program)
-* [Auth0 Research Program](https://auth0.com/research-program)
-
-Company
-
-* [Our Customers](https://auth0.com/customers)
-* [Compliance - Ensuring privacy and security](https://auth0.com/security)
-* [Partners](https://auth0.com/partners)
-* [Careers We're hiring!](https://www.okta.com/company/careers/)
-* [Okta + Auth0](https://www.okta.com/okta-and-auth0/)
-
-Support Center
-
-* [Community](https://community.auth0.com/)
-* [Support](https://support.auth0.com/)
-* [Help](https://community.auth0.com/c/help/6)
-* [FAQs](https://community.auth0.com/c/faq/42)
-* [Auth0 Marketplace](https://marketplace.auth0.com/)
-
-Learning
-
-* [Learn](https://auth0.com/learn)
-* [Intro to IAM (CIAM)](https://auth0.com/intro-to-iam)
-* [Blog](https://auth0.com/blog/)
-
-Platform
-
-* [Access Management](https://auth0.com/platform/access-management)
-* [Extensibility](https://auth0.com/platform/extensibility)
-* [Security](https://auth0.com/platform/login-security)
-* [User Management](https://auth0.com/platform/user-management)
-* [Authentication](https://auth0.com/platform/authentication)
-* [Cloud deployments](https://auth0.com/platform/cloud-deployment)
-* [Fine Grained Authorization](https://auth0.com/fine-grained-authorization)
-
-Features
-
-* [Universal Login](https://auth0.com/features/universal-login)
-* [Single Sign On](https://auth0.com/features/single-sign-on)
-* [Multifactor Authentication](https://auth0.com/features/multifactor-authentication)
-* [Actions](https://auth0.com/features/actions)
-* [Machine to Machine](https://auth0.com/features/machine-to-machine)
-* [Passwordless](https://auth0.com/features/passwordless)
-* [Breached Passwords](https://auth0.com/features/breached-passwords)
-
-[](https://twitter.com/auth0)[](https://linkedin.com/company/auth0)[](https://github.com/auth0)
-
-© 2024 Okta, Inc. All Rights Reserved.
-
-[Status](https://status.auth0.com/) • [Legal](https://www.okta.com/agreements/) • [Privacy](https://auth0.com/privacy) • [Terms](https://auth0.com/web-terms) • [Your Privacy Choices](https://auth0.com/your-privacy-choices)![](https://cdn.auth0.com/website/footer/ccpa.svg)
-
-English
-
-* Deutsch
-* English
-* Français
-* Español
-* Português
-* 日本語
-
-[](https://twitter.com/auth0)[](https://linkedin.com/company/auth0)[](https://github.com/auth0)
-
-[Status](https://status.auth0.com/) • [Legal](https://www.okta.com/agreements/) • [Privacy](https://auth0.com/privacy) • [Terms](https://auth0.com/web-terms) • [Your Privacy Choices](https://auth0.com/your-privacy-choices)![](https://cdn.auth0.com/website/footer/ccpa.svg)
-
-English
-
-* Deutsch
-* English
-* Français
-* Español
-* Português
-* 日本語
-
-© 2024 Okta, Inc. All Rights Reserved.
+We take your privacy seriously. Please visit \[Privacy Policy URL\] to review our privacy policy.  
+ 
+
+[Top of Page](#top)
+
+[](https://www.okta.com/)
+
+To connect with a product expert today, use our [chat box](https://www.okta.com/#chat-now), [email us](https://www.okta.com/contact-sales/), or call [+1-800-425-1267](tel:+1-800-425-1267).
+
+[Contact Us](https://www.okta.com/contact-sales/)
+
+* [YouTube](https://www.youtube.com/OktaInc)
+* [Twitter](https://twitter.com/okta)
+* [LinkedIn](https://www.linkedin.com/company/okta-inc-/)
+
+Footer Navtane22
+
+* Company
+    * [About Us](https://www.okta.com/company/)
+    * [Our Customers](https://www.okta.com/customers/)
+    * [Leadership](https://www.okta.com/company/leadership/)
+    * [Investors](https://investor.okta.com/?_ga=2.173311395.1408537636.1665532992-1758812997.1653668763)
+    * [Careers](https://www.okta.com/company/careers/)
+    * [Events](https://www.okta.com/resources/events/)
+    * [Press Room](https://www.okta.com/press-room/)
+    * [Partners](https://www.okta.com/partners/)
+    * [Responsibility](https://www.okta.com/responsibility/)
+    * [Okta for Good](https://www.okta.com/okta-for-good/)
+    * [Diversity, Inclusion & Belonging](https://www.okta.com/diversity/)
+* Starting with Okta
+    * [The Okta Advantage](https://www.okta.com/okta-advantage/)
+    * [Customer Identity Cloud](https://www.okta.com/customer-identity/)
+    * [Workforce Identity Cloud](https://www.okta.com/workforce-identity/)
+    * [Free Trial](https://www.okta.com/free-trial/)
+    * [Pricing](https://www.okta.com/pricing/)
+    * [Contact Sales](https://www.okta.com/contact-sales/)
+    * [Trust](https://trust.okta.com/?_ga=2.112714756.1408537636.1665532992-1758812997.1653668763&_gl=1%2A16ec8o3%2A_ga%2AMTc1ODgxMjk5Ny4xNjUzNjY4NzYz%2A_ga_QKMSDV5369%2AMTY2NTU4ODY2NC41Ny4xLjE2NjU1ODg5MTIuNjAuMC4w)
+    * [Accessibility](https://www.okta.com/accessibility/)
+* Help & Support
+    * [Help and Support](https://support.okta.com/help/s/?language=en_US&_ga=2.141001906.1408537636.1665532992-1758812997.1653668763&_gl=1%2A19k8ftp%2A_ga%2AMTc1ODgxMjk5Ny4xNjUzNjY4NzYz%2A_ga_QKMSDV5369%2AMTY2NTU4ODY2NC41Ny4xLjE2NjU1ODk0OTAuNTkuMC4w)
+    * [Frequently Asked Questions](https://www.okta.com/faq/)
+    * [Contact Us](https://www.okta.com/contact-sales/)
+    * [Customer Identity Cloud Status](https://status.auth0.com/?_ga=2.51476969.1131952190.1694551039-2108337227.1682701839&_gl=1%2A16s7hs7%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTI2NzcuMjAuMC4w)
+    * [Workforce Identity Cloud Status](https://status.okta.com/?_ga=2.51476969.1131952190.1694551039-2108337227.1682701839&_gl=1%2A1gwr68d%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTI2OTMuNC4wLjA.)
+
+Footer utility Navtane22
+
+* [Legal](https://www.okta.com/agreements/)
+    
+* [Privacy Policy](https://auth0.com/privacy-policy/)
+    
+* [Site Terms](https://www.okta.com/terms-of-service/)
+    
+* [Security](https://trust.okta.com/)
+    
+* [Sitemap](https://auth0.com/html-sitemap/)
+    
+* Cookie Preferences
+    
+* [Your Privacy Choices](https://www.okta.com/your-privacy-choices/)
+    
+
+Copyright © 2024 Okta. All rights reserved.
+
+Footer utility Navtane22
+
+* [Legal](https://www.okta.com/agreements/)
+    
+* [Privacy Policy](https://auth0.com/privacy-policy/)
+    
+* [Site Terms](https://www.okta.com/terms-of-service/)
+    
+* [Security](https://trust.okta.com/)
+    
+* [Sitemap](https://auth0.com/html-sitemap/)
+    
+* Cookie Preferences
+    
+* [Your Privacy Choices](https://www.okta.com/your-privacy-choices/)
+    
+
+United States
+
+* [United Kingdom](https://auth0.com/uk/)
+* [France](https://auth0.com/fr/)
+* [Germany](https://auth0.com/de/)
+* [Japan](https://auth0.com/jp/)
+* [Netherlands](https://auth0.com/nl/)
+* [Australia](https://auth0.com/au/)
+* [Singapore](https://auth0.com/sg/)
+* [Korea](https://auth0.com/kr/)
+* [Sweden](https://auth0.com/se/)
