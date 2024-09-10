@@ -1,4 +1,4 @@
-                        
+                         
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
@@ -19,44 +19,42 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Mike Lamport cuts the ribbon to officially open the exhibit. 
-    Photo from Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/07/Mike-Lamport-cuts-the-ribbon-to-officially-open-the-exhibit-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+    [![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
     
-    ### [VIDEO: London Waterloo history exhibit finds home in former international station](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+    ### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
     
-    [![The first wave of posters highlighted the different forms of sexual harassment which can occur on public transport. 
-    Image from TfL](https://southwarknews.co.uk/wp-content/uploads/2024/07/Poster-to-combate-sexual-harrassment-360x180.jpg)](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
     
-    ### [2,671 sexual offences reported on bus and tube network last year](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+    ### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
     
-    [![Prince Wynter.
-    Photo from met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Prince-Wynter-e1722428346542-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-who-was-caught-with-a-gun-in-bermondsey-jailed/)
+    [![Dulwich Hamlet forward George Porter. Photo: Rob Avis](https://southwarknews.co.uk/wp-content/uploads/2024/09/George-Porter-Rob-Avis--360x180.jpeg)](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
     
-    ### [Man who was caught with a gun in Bermondsey jailed](https://southwarknews.co.uk/area/bermondsey/man-who-was-caught-with-a-gun-in-bermondsey-jailed/)
+    ### [Dulwich Hamlet boss pleased as Porter nets late winner](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
     
-    [![Unlimited performer (Chris Parkes Photographer Ltd.)](https://southwarknews.co.uk/wp-content/uploads/2024/07/00_Lived-Fiction_-TITLE-IMAGE-e1722435275342-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+    [![(credit: Flickr, Xurxo Martínez)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-12.33-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
     
-    ### [Southbank Centre to celebrate disabled artists and performers at festival this September](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+    ### [Southwark is the third-highest area for pickpocketing in the UK](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
     
-    [![(photo by Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/336FA103-D8EE-4BCE-9146-AE226BAA8886-360x180.jpeg)](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+    [![Tower of London, pic by LDR Julia Gregory](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
     
-    ### [Council gives out hundreds of free swimming lessons over summer](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+    ### [More concerns over the Tower of London as a World Heritage Site](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+    [![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
     
-    ### [Fears raised that the Tower of London could lose its world heritage status](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+    ### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2017/08/cricket-stumps1.jpg)](https://southwarknews.co.uk/news/surrey-suffer-another-metro-bank-odc-defeat-as-bancroft-scores-century/)
+    [![Victory Community Park. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/07_09_2024_Southwatk-Council_Victory-Community-Park_0324-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
     
-    ### [Surrey suffer another Metro Bank ODC defeat as Bancroft scores century](https://southwarknews.co.uk/news/surrey-suffer-another-metro-bank-odc-defeat-as-bancroft-scores-century/)
+    ### [Underused Walworth park gets £1 million refresh](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
     
-    [![Meeting House Lane/Montpelier Road (supplied by resident, Kemi)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Rubbish-tip-street-e1722353364109-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+    [![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
     
-    ### [Peckham residents are ‘fed up’ of waking up to rotten fruit and half-eaten takeaways in their gardens](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+    ### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
     
-    [![RALLY 2023 (credit: SiennaGray @siennalorrainegray @khromacollective-1540)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-30-07-2024-at-15.17-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/music-festival-in-bermondsey-offers-discounted-tickets-for-residents/)
+    [![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-360x180.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
     
-    ### [Music festival in Bermondsey offers discounted tickets for residents](https://southwarknews.co.uk/area/rotherhithe/music-festival-in-bermondsey-offers-discounted-tickets-for-residents/)
+    ### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -98,44 +96,42 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Mike Lamport cuts the ribbon to officially open the exhibit. 
-    Photo from Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/07/Mike-Lamport-cuts-the-ribbon-to-officially-open-the-exhibit-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+    [![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
     
-    ### [VIDEO: London Waterloo history exhibit finds home in former international station](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+    ### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
     
-    [![The first wave of posters highlighted the different forms of sexual harassment which can occur on public transport. 
-    Image from TfL](https://southwarknews.co.uk/wp-content/uploads/2024/07/Poster-to-combate-sexual-harrassment-360x180.jpg)](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+    [![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+    Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
     
-    ### [2,671 sexual offences reported on bus and tube network last year](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+    ### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
     
-    [![Prince Wynter.
-    Photo from met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Prince-Wynter-e1722428346542-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/man-who-was-caught-with-a-gun-in-bermondsey-jailed/)
+    [![Dulwich Hamlet forward George Porter. Photo: Rob Avis](https://southwarknews.co.uk/wp-content/uploads/2024/09/George-Porter-Rob-Avis--360x180.jpeg)](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
     
-    ### [Man who was caught with a gun in Bermondsey jailed](https://southwarknews.co.uk/area/bermondsey/man-who-was-caught-with-a-gun-in-bermondsey-jailed/)
+    ### [Dulwich Hamlet boss pleased as Porter nets late winner](https://southwarknews.co.uk/news/dulwich-hamlet-boss-pleased-as-porter-nets-late-winner/)
     
-    [![Unlimited performer (Chris Parkes Photographer Ltd.)](https://southwarknews.co.uk/wp-content/uploads/2024/07/00_Lived-Fiction_-TITLE-IMAGE-e1722435275342-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+    [![(credit: Flickr, Xurxo Martínez)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-12.33-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
     
-    ### [Southbank Centre to celebrate disabled artists and performers at festival this September](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+    ### [Southwark is the third-highest area for pickpocketing in the UK](https://southwarknews.co.uk/area/southwark/southwark-is-the-third-highest-area-for-pickpocketing-in-the-uk/)
     
-    [![(photo by Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/336FA103-D8EE-4BCE-9146-AE226BAA8886-360x180.jpeg)](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+    [![Tower of London, pic by LDR Julia Gregory](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
     
-    ### [Council gives out hundreds of free swimming lessons over summer](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+    ### [More concerns over the Tower of London as a World Heritage Site](https://southwarknews.co.uk/area/london/more-concerns-over-the-tower-of-london-as-a-world-heritage-site/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-360x180.jpg)](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+    [![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
     
-    ### [Fears raised that the Tower of London could lose its world heritage status](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+    ### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2017/08/cricket-stumps1.jpg)](https://southwarknews.co.uk/news/surrey-suffer-another-metro-bank-odc-defeat-as-bancroft-scores-century/)
+    [![Victory Community Park. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/09/07_09_2024_Southwatk-Council_Victory-Community-Park_0324-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
     
-    ### [Surrey suffer another Metro Bank ODC defeat as Bancroft scores century](https://southwarknews.co.uk/news/surrey-suffer-another-metro-bank-odc-defeat-as-bancroft-scores-century/)
+    ### [Underused Walworth park gets £1 million refresh](https://southwarknews.co.uk/area/walworth/underused-walworth-park-gets-1-million-refresh/)
     
-    [![Meeting House Lane/Montpelier Road (supplied by resident, Kemi)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Rubbish-tip-street-e1722353364109-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+    [![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
     
-    ### [Peckham residents are ‘fed up’ of waking up to rotten fruit and half-eaten takeaways in their gardens](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+    ### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
     
-    [![RALLY 2023 (credit: SiennaGray @siennalorrainegray @khromacollective-1540)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-30-07-2024-at-15.17-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/music-festival-in-bermondsey-offers-discounted-tickets-for-residents/)
+    [![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-360x180.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
     
-    ### [Music festival in Bermondsey offers discounted tickets for residents](https://southwarknews.co.uk/area/rotherhithe/music-festival-in-bermondsey-offers-discounted-tickets-for-residents/)
+    ### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -329,85 +325,84 @@ Website
 
 ### Stay Connected
 
-[Facebook](https://www.facebook.com/SouthwarkNewspaper/) [Icon-twitter-x](https://twitter.com/Southwark_News) [Youtube](https://www.youtube.com/@southwarknews8676)
+[Facebook](https://www.facebook.com/SouthwarkNewspaper/) [X-twitter](https://twitter.com/Southwark_News) [Youtube](https://www.youtube.com/@southwarknews8676)
 
 ### Popular Articles
 
-[![Edith (left) and her family who are one of three taking on the council.](https://southwarknews.co.uk/wp-content/uploads/2024/07/image-2-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/exclusive-three-families-threaten-council-with-legal-action-after-not-being-able-to-bid-for-homes/)
+[![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-### [Exclusive: Three families threaten council with legal action after not being able to bid for homes](https://southwarknews.co.uk/area/southwark/exclusive-three-families-threaten-council-with-legal-action-after-not-being-able-to-bid-for-homes/)
+### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-[30th July 2024](https://southwarknews.co.uk/area/southwark/exclusive-three-families-threaten-council-with-legal-action-after-not-being-able-to-bid-for-homes/)
+[9th September 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-[![The application site behind Rye Lane. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-application-site-behind-Rye-Lane.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/serving-councillors-ties-to-controversial-peckham-flats-sparks-heightened-scrutiny/)
+[![Aged Cheeseburger, Whole Beast](https://southwarknews.co.uk/wp-content/uploads/2024/09/Whole-Beast-Aged-Cheeseburger-2-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
 
-### [Serving councillor’s ties to controversial Peckham flats sparks heightened scrutiny](https://southwarknews.co.uk/area/peckham/serving-councillors-ties-to-controversial-peckham-flats-sparks-heightened-scrutiny/)
+### [Peckham pub has the ‘best burger’ in the UK](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
 
-[29th July 2024](https://southwarknews.co.uk/area/peckham/serving-councillors-ties-to-controversial-peckham-flats-sparks-heightened-scrutiny/)
+[7th September 2024](https://southwarknews.co.uk/area/peckham/peckham-pub-has-the-best-burger-in-the-uk/)
 
-[![Locals have pointed out the road sign mix-up in Canada Water. Credit: Vania Valle (Facebook)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Locals-have-pointed-out-the-road-sign-mix-up-in-Canada-Water.-Credit-Vania-Valle-Facebook-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
+[![Rotherhithe Tunnel (Hjamesberglen, Wiki Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/03/Rotherhithe-Tunnel-car-on-fire-simulation-TfL-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
-### [Bemused Canada Water residents told they actually live in Elephant and Castle](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
+### [Major congestion whilst Rotherhithe Tunnel is closed with ‘no estimate’ of when it will reopen](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
-[27th July 2024](https://southwarknews.co.uk/area/rotherhithe/bemused-canada-water-residents-told-they-actually-live-in-elephant-and-castle/)
+[10th September 2024](https://southwarknews.co.uk/area/rotherhithe/major-congestion-whilst-rotherhithe-tunnel-is-closed-with-no-estimate-of-when-it-will-reopen/)
 
-[![Neil Harris has a month left to secure new signings. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-9876543-2024-07-26T13_56_58.878-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/harris-loans-transfer-window-2/)
+[![Casper De Norre, right, and Zian Flemming. Photo: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/09/Flemming-De-Norre--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
 
-### [Millwall boss keeping an eye on loan market as he warns of likely scenario that could change transfer plans](https://southwarknews.co.uk/sport/football/millwall/harris-loans-transfer-window-2/)
+### [Casper De Norre opens up on Zian Flemming’s Millwall exit – and gives insight into what happened on deadline day before Burnley move](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
 
-[31st July 2024](https://southwarknews.co.uk/sport/football/millwall/harris-loans-transfer-window-2/)
+[5th September 2024](https://southwarknews.co.uk/sport/football/millwall/casper-de-norre-opens-up-on-zian-flemmings-millwall-exit-and-gives-insight-into-what-happened-on-deadline-day-before-burnley-move/)
 
-[![Stock image of Met Police. (Met Police)](https://southwarknews.co.uk/wp-content/uploads/2024/04/Image-09-04-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/kennington/teenager-17-arrested-after-double-stabbing-in-kennington/)
+[![Josh Coburn is congratulated by Neil Harris. Image - Millwall FC.](https://southwarknews.co.uk/wp-content/uploads/2024/08/Coburn-82828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
 
-### [Teenager, 17, arrested after double stabbing in Kennington](https://southwarknews.co.uk/area/kennington/teenager-17-arrested-after-double-stabbing-in-kennington/)
+### [Millwall boss discusses how club were able to loan in-demand striker from Championship rivals](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
 
-[29th July 2024](https://southwarknews.co.uk/area/kennington/teenager-17-arrested-after-double-stabbing-in-kennington/)
+[9th September 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-discusses-how-club-were-able-to-loan-in-demand-striker-from-championship-rivals/)
 
-[![Neil Harris welcomed some fans into the ground before today's game. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/BAT_4341-2024-07-23T21_22_48.572-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/harris-fans-turnstile-spain/)
+[![Card Corner, Camberwell New Road (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-03-09-2024-at-14.22-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
 
-### [‘It was just my way of saying thank you’ – Millwall boss on why he welcomed fans at the turnstiles for Lions’ final pre-season game in Spain](https://southwarknews.co.uk/sport/football/millwall/harris-fans-turnstile-spain/)
+### [Camberwell card shop closes after decades of service](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
 
-[26th July 2024](https://southwarknews.co.uk/sport/football/millwall/harris-fans-turnstile-spain/)
+[3rd September 2024](https://southwarknews.co.uk/area/camberwell/camberwell-card-shop-closes-after-decades-of-service/)
 
 ### Featured Articles
 
-[![Mike Lamport cuts the ribbon to officially open the exhibit. 
-Photo from Network Rail](https://southwarknews.co.uk/wp-content/uploads/2024/07/Mike-Lamport-cuts-the-ribbon-to-officially-open-the-exhibit-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+[![A previous performance of theirs (credit: Paraorchestra)](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-10-09-2024-at-16.19-120x86.jpg)](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
 
-### [VIDEO: London Waterloo history exhibit finds home in former international station](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+### [Paraorchestra to perform an immersive classical concert at the Southbank Centre](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
 
-[31st July 2024](https://southwarknews.co.uk/area/waterloo/video-london-waterloo-history-exhibit-finds-home-in-former-international-station/)
+[10th September 2024](https://southwarknews.co.uk/area/south-bank/paraorchestra-to-perform-an-immersive-classical-concert-at-the-southbank-centre/)
 
-[![The first wave of posters highlighted the different forms of sexual harassment which can occur on public transport. 
-Image from TfL](https://southwarknews.co.uk/wp-content/uploads/2024/07/Poster-to-combate-sexual-harrassment-120x86.jpg)](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+[![Fenstanton Primary School in Tulse Hill, South London will close from September 2026 under council plans.
+Image from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/09/Fenstanton-Primary-School-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
-### [2,671 sexual offences reported on bus and tube network last year](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+### [Two South London primary schools set to close while four more will be merged](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
-[31st July 2024](https://southwarknews.co.uk/area/london/2671-sexual-offences-reported-on-bus-and-tube-network-last-year/)
+[10th September 2024](https://southwarknews.co.uk/area/camberwell/two-south-london-primary-schools-set-to-close-while-four-more-will-be-merged/)
 
-[![Unlimited performer (Chris Parkes Photographer Ltd.)](https://southwarknews.co.uk/wp-content/uploads/2024/07/00_Lived-Fiction_-TITLE-IMAGE-e1722435275342-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+[![L: Southwark Foodbank office, Peckham High Street. R: Empty shelves.](https://southwarknews.co.uk/wp-content/uploads/2024/09/Image-09-09-2024-at-16.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-### [Southbank Centre to celebrate disabled artists and performers at festival this September](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+### [Peckham food bank ransacked overnight, leaving struggling families in crisis](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-[31st July 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-celebrate-disabled-artists-and-performers-at-festival-this-september/)
+[9th September 2024](https://southwarknews.co.uk/area/peckham/peckham-food-bank-ransacked-overnight-leaving-struggling-families-in-crisis/)
 
-[![(photo by Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/336FA103-D8EE-4BCE-9146-AE226BAA8886-120x86.jpeg)](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+[![An 1820 image of Brockwell Park Hall. Credit- London Metropolitan Archives](https://southwarknews.co.uk/wp-content/uploads/2024/09/An-1820-image-of-Brockwell-Park-Hall.-Credit-London-Metropolitan-Archives-120x86.jpeg)](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
 
-### [Council gives out hundreds of free swimming lessons over summer](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+### [How Brockwell Hall’s restoration is rekindling memories of when the park was wartime farmland and training grounds](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
 
-[31st July 2024](https://southwarknews.co.uk/news/community/council-gives-out-hundreds-of-free-swimming-lessons-over-summer/)
+[9th September 2024](https://southwarknews.co.uk/area/herne-hill/how-brockwell-halls-restoration-is-rekindling-memories-of-when-the-park-was-wartime-farmland-and-training-grounds/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Tower-of-London-120x86.jpg)](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+[![left to right Althea Loderick (CEO, Southwark Council); Emma Cox (CEO, Endometriosis UK); Maddie O’Connor (National Management Trainee, Southwark Council); Kirsty Dutton (Head of Organisational Development, Southwark Council); Emily Bakosi (Internal Communications Officer, Southwark Council); Catalina Narvaez Buitrago (Quality Officer, Southwark Council); and Councillor Steph Cryan (Southwark Council Cabinet Member for Equalities, Democracy and Finance).](https://southwarknews.co.uk/wp-content/uploads/2024/09/endo-120x86.png)](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
 
-### [Fears raised that the Tower of London could lose its world heritage status](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+### [Women with endometriosis to get special support from Southwark Council in a national first](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
 
-[31st July 2024](https://southwarknews.co.uk/area/london/fears-raised-that-the-tower-of-london-could-lose-its-world-heritage-status/)
+[9th September 2024](https://southwarknews.co.uk/area/southwark/women-with-period-pains-to-get-special-support-from-southwark-council-in-a-national-first/)
 
-[![Meeting House Lane/Montpelier Road (supplied by resident, Kemi)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Rubbish-tip-street-e1722353364109-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+[![Detectives are searching for the culprits are the war memorial was snatched late last month. Image: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/09/Detectives-are-searching-for-the-culprits-are-the-war-memorial-was-snatched-late-last-month.-Image-Historic-England-120x86.png)](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
 
-### [Peckham residents are ‘fed up’ of waking up to rotten fruit and half-eaten takeaways in their gardens](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+### [Theft of World War One monument from Crystal Palace Park an ‘insult’ to thousands who ‘paid the ultimate sacrifice’](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
 
-[30th July 2024](https://southwarknews.co.uk/area/peckham/peckham-residents-are-fed-up-of-waking-up-to-rotten-fruit-and-half-eaten-takeaways-in-their-gardens/)
+[9th September 2024](https://southwarknews.co.uk/area/crystal-palace/theft-of-world-war-one-monument-from-crystal-palace-park-an-insult-to-thousands-who-paid-the-ultimate-sacrifice/)
 
 ### USEFUL PAGES
 
