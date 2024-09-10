@@ -24,6 +24,7 @@
         * [Holocaust Survivor Program](https://www.jssa.org/services/holocaust-survivors/) 
         * [Services for People With Disabilities](https://www.jssa.org/services/people-with-disabilities/) 
         * [Employment Services](https://www.jssa.org/services/disability-employment/) 
+        * [Family Support Services](https://www.jssa.org/services/family-support-services/) 
         * [J-Caring Community Support Line](https://www.jssa.org/services/hotline/) 
         * [Find Services By Location](https://www.jssa.org/services-by-location/)
 * [Get Involved submenu](#sub-menu-7752)
@@ -32,7 +33,7 @@
         ### Get Involved With JSSA
         
         Learn How](https://www.jssa.org/get-involved/)
-        * [Donate](https://www.jssa.org/get-involved/donate/) 
+        * [Ways to Give](https://www.jssa.org/get-involved/waystogive/) 
         * [Volunteer With JSSA](https://www.jssa.org/get-involved/volunteer/) 
         * [Partner With JSSA](https://www.jssa.org/get-involved/community-partnerships/) 
 * [Professionals and Students submenu](#sub-menu-11491)
@@ -71,12 +72,13 @@
     * [Holocaust Survivor Program](https://www.jssa.org/services/holocaust-survivors/)
     * [Services for People With Disabilities](https://www.jssa.org/services/people-with-disabilities/)
     * [Employment Services](https://www.jssa.org/services/disability-employment/)
+    * [Family Support Services](https://www.jssa.org/services/family-support-services/)
     * [J-Caring Community Support Line](https://www.jssa.org/services/hotline/)
     * [Find Services By Location](https://www.jssa.org/services-by-location/)
     
 * [Get Involved submenu](#sub-menu-7752)
     
-    * [Donate](https://www.jssa.org/get-involved/donate/)
+    * [Ways to Give](https://www.jssa.org/get-involved/waystogive/)
     * [Volunteer With JSSA](https://www.jssa.org/get-involved/volunteer/)
     * [Partner With JSSA](https://www.jssa.org/get-involved/community-partnerships/)
     
