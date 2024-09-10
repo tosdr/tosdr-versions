@@ -15,7 +15,7 @@
 * Company
     
     * [Leadership](https://www.inmobi.com/company/leadership/)
-    * [InMobi Advertising Press](https://www.inmobi.com/company/press)
+    * [InMobi Advertising Press](https://advertising.inmobi.com/company/press)
     * [Glance Press](https://glance.com/newsroom)
     * [InMobi Advertising Careers](https://www.inmobi.com/company/careers/)
     * [Glance Careers](https://glance.com/careers)
@@ -66,7 +66,7 @@ Advertising Platforms
 Company
 
 * [Leadership](https://www.inmobi.com/company/leadership/)
-* [InMobi Advertising Press](https://www.inmobi.com/company/press)
+* [InMobi Advertising Press](https://advertising.inmobi.com/company/press)
 * [Glance Press](https://glance.com/newsroom)
 * [InMobi Advertising Careers](https://www.inmobi.com/company/careers/)
 * [Glance Careers](https://www.glance.com/careers)
@@ -81,6 +81,8 @@ Support
 * [Website Cookie Policy](https://www.inmobi.com/website-cookie-policy/)
 
 * [Security](https://www.inmobi.com/security/)
+
+* [Public Notice](https://www.inmobi.com/fraud-warning-notice)
 
 © 2024 InMobi
 
