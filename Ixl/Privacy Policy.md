@@ -1,31 +1,38 @@
-   
+    [SKIP TO CONTENT](#maincontent)
 
-IXL uses cookies to ensure that you get the best experience on our website. See our [privacy policy](https://www.ixl.com/privacypolicy) to learn more.
-
-[IXL Learning](https://www.ixl.com/)
-
-![Search for skill](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/icon-mag-glass-white.svg)
-
-Sign inRemember
-
-[Sign in now](https://www.ixl.com/signin/ajax)
-
-[](https://www.ixl.com/international)
-
-[Join now](https://www.ixl.com/membership)
+  
 
 [IXL Learning](https://www.ixl.com/)
 
-* [Learning](https://www.ixl.com/maths)
+ 
+
+![Search for skill](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/icon-mag-glass-white.svg)
+
+  Sign in  Remember
+
+[Sign in now](https://www.ixl.com/signin/ajax) [Join now](https://www.ixl.com/membership)
+
+[IXL Learning](https://www.ixl.com/)
+
+* [Learning](https://www.ixl.com/math)
     
-    * [Maths](https://www.ixl.com/maths)
+    * [Math](https://www.ixl.com/math)
         
-        * [Skills](https://www.ixl.com/maths)
-        ![](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/maths/games)
-    * [English](https://www.ixl.com/english)
+        * [Skills](https://www.ixl.com/math)
+        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Lessons](https://www.ixl.com/math/lessons)
+        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/math/videos)
+        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/math/games)
+    * [Language arts](https://www.ixl.com/ela)
         
-        * [Skills](https://www.ixl.com/english)
-        ![](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/english/games)
+        * [Skills](https://www.ixl.com/ela)
+        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/ela/videos)
+        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/ela/games)
+    * [Science](https://www.ixl.com/science)
+        
+    * [Social studies](https://www.ixl.com/social-studies)
+        
+    * [Spanish](https://www.ixl.com/spanish)
+        
     
     * [Recommendations](https://www.ixl.com/recommendations)
         
@@ -33,15 +40,19 @@ Sign inRemember
     
     * [Skill plans](https://www.ixl.com/skill-plans)
         
-        * [National curriculum](https://www.ixl.com/skill-plans#standards-skill-plans)
+        * [IXL plans](https://www.ixl.com/skill-plans#spotlight-skill-plans)
+        * [New Jersey state standards](https://www.ixl.com/skill-plans#standards-skill-plans)
+        * [Textbooks](https://www.ixl.com/skill-plans#textbook-skill-plans)
         * [Test prep](https://www.ixl.com/skill-plans#test-preparation-skill-plans)
     
     * [Awards](https://www.ixl.com/awards)
         
         * [Student awards](https://www.ixl.com/awards)
     
-* [Diagnostic](https://www.ixl.com/diagnostic)
+* [Assessment](https://www.ixl.com/diagnostic)
 * [Analytics](https://www.ixl.com/analytics)
+* [Takeoff](https://www.ixl.com/core-curriculum-takeoffbyixl)
+* [Inspiration](https://www.ixl.com/resources/welcome)
 
 * Learning
     
@@ -50,8 +61,11 @@ Sign inRemember
     Learning
     --------
     
-    * [Maths](https://www.ixl.com/maths)
-    * [English](https://www.ixl.com/english)
+    * [Math](https://www.ixl.com/math)
+    * [Language arts](https://www.ixl.com/ela)
+    * [Science](https://www.ixl.com/science)
+    * [Social studies](https://www.ixl.com/social-studies)
+    * [Spanish](https://www.ixl.com/spanish)
     * [Recommendations](https://www.ixl.com/recommendations)
     * Skill plans
         
@@ -60,13 +74,17 @@ Sign inRemember
         Skill plans
         -----------
         
-        * [National curriculum](https://www.ixl.com/skill-plans#standards-skill-plans)
+        * [IXL plans](https://www.ixl.com/skill-plans#spotlight-skill-plans)
+        * [New Jersey state standards](https://www.ixl.com/skill-plans#standards-skill-plans)
+        * [Textbooks](https://www.ixl.com/skill-plans#textbook-skill-plans)
         * [Test prep](https://www.ixl.com/skill-plans#test-preparation-skill-plans)
         
     * [Awards](https://www.ixl.com/awards)
     
-* [Diagnostic](https://www.ixl.com/diagnostic)
+* [Assessment](https://www.ixl.com/diagnostic)
 * [Analytics](https://www.ixl.com/analytics)
+* [Takeoff](https://www.ixl.com/core-curriculum-takeoffbyixl)
+* [Inspiration](https://www.ixl.com/resources/welcome)
 
 [Membership](https://www.ixl.com/membership)
 
@@ -307,14 +325,14 @@ IXL Learning, Inc.
 
 San Mateo, CA 94404 (USA)
 
-Tel. 020 3318 5967
+Tel. (855) 255-7700
 
-Fax 020 3318 5968
+Fax (650) 372-4072
 
 [compliance@ixl.com](mailto:compliance@ixl.com)
 
 **Last Updated:** July 1, 2020
 
-[Company](https://www.ixl.com/company) | [Membership](https://www.ixl.com/membership) | [Blog](https://blog.ixl.com/) | [Help centre](https://www.ixl.com/help-center) | [User guides](https://www.ixl.com/userguides) | [Tell us what you think](https://www.ixl.com/feedback) | [Testimonials](https://www.ixl.com/testimonials) | [Careers](https://www.ixl.com/company/careers) | [Contact us](https://www.ixl.com/contact) | [Terms of service](https://www.ixl.com/termsofservice) | [**Privacy policy**](https://www.ixl.com/privacypolicy)
+[Company](https://www.ixl.com/company) | [Membership](https://www.ixl.com/membership) | [Blog](https://blog.ixl.com/) | [Help center](https://www.ixl.com/help-center) | [User guides](https://www.ixl.com/userguides) | [Tell us what you think](https://www.ixl.com/feedback) | [Testimonials](https://www.ixl.com/testimonials) | [Careers](https://www.ixl.com/company/careers) | [Contact us](https://www.ixl.com/contact) | [Terms of service](https://www.ixl.com/termsofservice) | [**Privacy policy**](https://www.ixl.com/privacypolicy)
 
-[![IXL Learning](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![X](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/x-icon.svg)](https://x.com/IXLLearning)[![Pinterest](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
+[![IXL Learning](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![X](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/x-icon.svg)](https://x.com/IXLLearning)[![Pinterest](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
