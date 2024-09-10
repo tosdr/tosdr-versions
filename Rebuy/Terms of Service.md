@@ -1,6 +1,6 @@
-[📈 Merchandising Audit Checklist: Learn how to optimize revenue and set new sales records!
+[**Ecommerce Tactics Deck**: 50 proven strategies to skyrocket your sales
 
-✨ Get it FREE ✨](https://www.rebuyengine.com/tools/merchandising-audit-checklist?website_utm_page=legal-terms-of-service&website_utm_section=global-banner&website_utm_cta=get-it-free&website_utm_test=merchandising-audit)
+Get it FREE 🚀](https://www.rebuyengine.com/tools/tactics-deck?website_utm_page=legal-terms-of-service&website_utm_section=global-banner&website_utm_cta=get-it-free&website_utm_test=ecommerce-tactics-deck-24)
 
 [![Rebuy Logo](https://www.rebuyengine.com/hubfs/www/logos_rebuy/rebuy_logo_dk.svg)](https://www.rebuyengine.com/)
 
@@ -23,7 +23,7 @@
         Enhance every stage of the customer journey and drive more revenue from each visitor](#)
     * [![Apps & Integrations Icon](https://www.rebuyengine.com/hubfs/Navigation/icon-apps-integrations.svg)
         
-        Apps & Integrations](https://rebuy.partnerpage.io/integrations)
+        Apps & Integrations](https://www.rebuyengine.com/integrations)
     
     * #### Search & Discovery
         
@@ -180,10 +180,11 @@
     
     #### Featured Content
     
-    [![rebuy-merchandising-audit-checklist-1](https://www.rebuyengine.com/hubfs/Navigation/rebuy-merchandising-audit-checklist-1.jpg)
+    [![Ecommerce Tactics Deck](https://www.rebuyengine.com/hubfs/BFCM%202024/bfcm-tarot-1.jpg)
     
-    #### Free Merchandising Audit Checklist: Learn How to Optimize Revenue and Set New Sales Records!](https://www.rebuyengine.com/tools/merchandising-audit-checklist?website_utm_page=navigation&website_utm_section=featured-content&website_utm_cta=free-merchandising-audit-checklist&website_utm_test=merchandising-audit)
+    #### Ecommerce Tactics Deck: 50 proven strategies to skyrocket your sales](https://www.rebuyengine.com/tools/tactics-deck?website_utm_page=navigation&website_utm_section=nav&website_utm_cta=ecommerce-tactics-deck-24)
     
+* [Community](https://www.rebuyengine.com/community)
 
 * [Log In](https://rebuyengine.com/admin/login?website_utm_page=legal-terms-of-service&website_utm_section=navigation&website_utm_cta=log-in&website_utm_test=navigation)
 * [Try Free](https://rebuyengine.com/admin/login/create-account?website_utm_page=legal-terms-of-service&website_utm_section=navigation&website_utm_cta=try-free&website_utm_test=navigation)
