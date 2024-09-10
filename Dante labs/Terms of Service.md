@@ -1,6 +1,4 @@
-            [Skip to content](#main-content)
-
-[Exclusive Bundle: Dante Premium + All Panels + 3 Years of Updates at 40% off!](https://www.dantelabs.com/products/whole-genome-sequencing?variant=41734309118087)
+           [Skip to content](#main-content)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
@@ -12,9 +10,6 @@
 * [About us](https://dantelabs.com/pages/about-us-1 "About us")
 * [Register your kit](https://genome.dantelabs.com/login "Register your kit")
 
-[Login](https://dantelabs.com/account/login "Login
-")
-
 [![Logo Dante Labs](//www.dantelabs.com/cdn/shop/files/Logo_dante_labs_692f7495-749a-4014-a1d1-4f4ed6be5729.png?v=1717504880)![Logo Dante Labs](//www.dantelabs.com/cdn/shop/files/Logo_dante_labs_692f7495-749a-4014-a1d1-4f4ed6be5729.png?v=1717504880)](https://dantelabs.com/)
 
 * [Dante Genome Test](https://dantelabs.com/products/whole-genome-sequencing)
@@ -23,7 +18,7 @@
 * [About us](https://dantelabs.com/pages/about-us-1)
 * [Register your kit](https://genome.dantelabs.com/login)
 
-[](https://dantelabs.com/search "Search")[](https://dantelabs.com/account/login "My Account")[0](https://dantelabs.com/cart)
+[](https://dantelabs.com/search "Search")[0](https://dantelabs.com/cart)
 
 Terms of Use for the Genome Manager
 ===================================
