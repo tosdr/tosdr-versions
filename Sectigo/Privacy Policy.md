@@ -128,7 +128,7 @@ Resource Library
 * [In the News](https://www.sectigo.com/resource-library/news)
 * [Knowledge Base](https://www.sectigo.com/knowledge-base)
 * [Notifications](https://www.sectigo.com/resource-library/notifications)
-* [Podcasts](https://www.sectigo.com/resource-library/podcasts)
+* [Podcasts](https://www.sectigo.com/root-causes-podcast)
 * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
 * [Product Videos](https://www.sectigo.com/resource-library/videos)
 * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -138,21 +138,21 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Webinar: Entrust distrust: now what?](https://www.sectigo.com/resource-library/entrust-distrust-now-what-webinar)
+* [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
-* [Root Causes 408: Takeaways from Recent Conversations with PQC Experts](https://www.sectigo.com/resource-library/root-causes-408-takeaways-from-recent-conversations-with-pqc-experts)
-* [Root Causes 407: Whatever Happened to Passkeys?](https://www.sectigo.com/resource-library/root-causes-407-whatever-happened-to-passkeys)
-* [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
-* [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
-* [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
+* [Root Causes 418: Moving from Cryptographic Homogeneity to Cryptographic Heterogeneity](https://www.sectigo.com/resource-library/root-causes-418-moving-from-cryptographic-homogeneity-to-cryptographic-heterogeneity)
+* [Root Causes 417: Introducing pkimetal, the PKI Meta-linter](https://www.sectigo.com/resource-library/root-causes-417-introducing-pkimetal-the-pki-meta-linter)
+* [Root Causes 416: SSL Subscriber Uses a Restraining Order to Prevent Revocation](https://www.sectigo.com/resource-library/root-causes-416-ssl-subscriber-uses-a-restraining-order-to-prevent-revocation)
+* [Root Causes 415: What Can I Do with These New FIPS PQC Standards?](https://www.sectigo.com/resource-library/root-causes-415-what-can-i-do-with-these-new-fips-pqc-standards)
+* [Root Causes 414: What Are the Revocation Periods for Public Certificates?](https://www.sectigo.com/resource-library/root-causes-414-what-are-the-revocation-periods-for-public-certificates)
 
-Moving beyond Microsoft AD Certificate Services
+The total economic impact™ of Sectigo Certificate Manager
 
-Read how the challenges of Microsoft AD CS can be addressed with Certificate Lifecycle Management.
+Cost savings and business benefits with Sectigo Certificate Manager. Download Forrester TEI study.
 
-[Download](https://www.sectigo.com/download-content?target=resource-library/ebook-moving-beyond-microsoft-ad-cs&utm_campaign=moving-beyond-microsoft-ad-cs)
+[Download](https://www.sectigo.com/forrester-tei-study)
 
 Login
 
@@ -225,7 +225,7 @@ Login
     * [In the News](https://www.sectigo.com/resource-library/news)
     * [Knowledge Base](https://www.sectigo.com/knowledge-base)
     * [Notifications](https://www.sectigo.com/resource-library/notifications)
-    * [Podcasts](https://www.sectigo.com/resource-library/podcasts)
+    * [Podcasts](https://www.sectigo.com/root-causes-podcast)
     * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
     * [Product Videos](https://www.sectigo.com/resource-library/videos)
     * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -233,13 +233,13 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Webinar: Entrust distrust: now what?](https://www.sectigo.com/resource-library/entrust-distrust-now-what-webinar)
+    * [Webinar: How mature is your Certificate Lifecycle Management?](https://www.sectigo.com/resource-library/clm-maturity-how-mature-is-your-certificate-management-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
-    * [Root Causes 408: Takeaways from Recent Conversations with PQC Experts](https://www.sectigo.com/resource-library/root-causes-408-takeaways-from-recent-conversations-with-pqc-experts)
-    * [Root Causes 407: Whatever Happened to Passkeys?](https://www.sectigo.com/resource-library/root-causes-407-whatever-happened-to-passkeys)
-    * [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
-    * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
-    * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
+    * [Root Causes 418: Moving from Cryptographic Homogeneity to Cryptographic Heterogeneity](https://www.sectigo.com/resource-library/root-causes-418-moving-from-cryptographic-homogeneity-to-cryptographic-heterogeneity)
+    * [Root Causes 417: Introducing pkimetal, the PKI Meta-linter](https://www.sectigo.com/resource-library/root-causes-417-introducing-pkimetal-the-pki-meta-linter)
+    * [Root Causes 416: SSL Subscriber Uses a Restraining Order to Prevent Revocation](https://www.sectigo.com/resource-library/root-causes-416-ssl-subscriber-uses-a-restraining-order-to-prevent-revocation)
+    * [Root Causes 415: What Can I Do with These New FIPS PQC Standards?](https://www.sectigo.com/resource-library/root-causes-415-what-can-i-do-with-these-new-fips-pqc-standards)
+    * [Root Causes 414: What Are the Revocation Periods for Public Certificates?](https://www.sectigo.com/resource-library/root-causes-414-what-are-the-revocation-periods-for-public-certificates)
     
 
 *  #}
@@ -320,7 +320,7 @@ We’ve defined the following terms, which are used throughout this Privacy Poli
 
 **· “CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
 
-**· “Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo. · “Cookies Policy” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry:321889@4:url||%7D). · “CPS” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
+**· “Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo. · “Cookies Policy” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry%3A321889@4%3Aurl%7C%7C%7D). · “CPS” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
 
 **· “eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
 
@@ -695,7 +695,7 @@ Call (Italy)
 * [Datasheets](https://www.sectigo.com/resource-library/datasheets)
 * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
 * [Notifications](https://www.sectigo.com/resource-library/notifications)
-* [Podcasts](https://www.sectigo.com/resource-library/podcasts)
+* [Podcasts](https://www.sectigo.com/root-causes-podcast)
 * [Product Videos](https://www.sectigo.com/resource-library/videos)
 * [Webinars](https://www.sectigo.com/resource-library/webinars)
 
@@ -717,5 +717,6 @@ Call (Italy)
 * [Cookie Policy](https://www.sectigo.com/legal/cookie-policy)
 * [Privacy Portal](https://www.sectigo.com/privacy-portal)
 * [Legal](https://www.sectigo.com/legal)
+* [Impressum](https://www.sectigo.com/de/impressum)
 
 Sectigo® and its associated logo are federally registered trademarks of Sectigo, and other trademarks used herein are owned and may be registered by their respective owners.
