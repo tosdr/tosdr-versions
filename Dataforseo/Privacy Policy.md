@@ -1,4 +1,12 @@
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -10,6 +18,7 @@
             * [Google Ads](https://dataforseo.com/apis/google-ads-api)
             * [Google Trends](https://dataforseo.com/apis/google-trends-api)
             * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+            * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
@@ -67,6 +76,7 @@
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
         * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -94,7 +104,15 @@
 * [Try for free](https://app.dataforseo.com/register)
 * [Login](https://app.dataforseo.com/signin)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -106,6 +124,7 @@
             * [Google Ads](https://dataforseo.com/apis/google-ads-api)
             * [Google Trends](https://dataforseo.com/apis/google-trends-api)
             * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+            * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
@@ -163,6 +182,7 @@
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
         * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -192,7 +212,9 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
@@ -202,6 +224,7 @@
             * [Google Ads](https://dataforseo.com/apis/google-ads-api)
             * [Google Trends](https://dataforseo.com/apis/google-trends-api)
             * [Bing Ads](https://dataforseo.com/apis/bing-ads-api)
+            * [Clickstream Data API](https://dataforseo.com/apis/clickstream-data-api)
             * [DataForSEO Trends API](https://dataforseo.com/apis/dataforseo-trends-api)
         * [Backlinks API](https://dataforseo.com/apis/backlinks-api)
         * [On-Page API](https://dataforseo.com/apis/on-page-api)
@@ -260,6 +283,7 @@
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
         * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        * [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
@@ -287,77 +311,117 @@
 
 [](#)
 
-Privacy policy
+Privacy Policy
 ==============
 
-The following **terms and conditions** govern all use of the DataForSEO OU, company №14502291, registered in Republic of Estonia (further – DataForSEO) website and all content, services and products available at or through the website. The Website is owned and operated by DataForSEO.
+### 1\. Introduction
 
-The Website is offered subject to Your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, DataForSEO’s Privacy Policy) and procedures that may be published from time to time on this Site by DataForSEO.
+a. This **privacy policy** applies with regard to the processing of personal data by DataForSEO OU (further “DataForSEO”), company No. 14502291, registered in Republic of Estonia in connection with the provision of all DataForSEO websites, content, services and products available and provided at or through the websites that are owned and/or operated by DataForSEO.
 
-**Please read this Agreement carefully before accessing or using the Website.** By accessing or using any part of the website, You agree to become bound by the terms and conditions of this agreement. If You do not agree to all the terms and conditions of this agreement, then You may not access the Website or use any services. If these terms and conditions are considered an offer by DataForSEO, acceptance is expressly limited to these terms. The Website is available only to individuals who are at least 13 years old.
+b. The website is offered subject to Your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, [DataForSEO’s Terms of Service](https://dataforseo.com/terms-of-service)) and procedures that may be published from time to time on this website by DataForSEO. This Privacy Policy incorporates the [DataForSEO Data Processing Agreement (“DPA”)](https://dataforseo.com/wp-content/uploads/2022/09/DataForSEO_DPA.pdf), when the GDPR applies to your use of the services and your processing of service data. The DPA sets out how we will process personal data on your behalf in connection with the services provided to you.
 
-### Your DataForSEO Account and Site
+c. **Please read this Privacy Policy carefully before accessing or using the website.** By accessing or using any part of the website, You agree to become bound by the terms and conditions of this privacy policy. If You do not agree to all the terms and conditions of this privacy policy, then You may not access the website or use any services provided by DataForSEO. If these terms and conditions are considered an offer by DataForSEO, acceptance is expressly limited to these terms. The website is available only to individuals who are at least 13 years old.
 
-If You create an account on the Website, You are responsible for maintaining the **security of Your account** and its content, and You are fully responsible for all activities that occur under the account and any other actions taken in connection with the Website. You must not describe or assign content to Your account in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and DataForSEO may change or remove any description or keyword that it considers inappropriate or unlawful, or otherwise likely to cause DataForSEO liability. You must immediately notify DataForSEO of any unauthorized uses of Your account or any other breaches of security. DataForSEO will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
+### 2\. DataForSEO Account and Website
 
-We may occasionally **communicate with you regarding our products, services, news, and events**. You have the option to not receive this information. We provide an opt-out function within all email communications of this nature or will cease to communicate with you for this purpose if you contact us and tell us not to communicate this information to you. The only kind of these communications that you may not “opt-out” of are those required to communicate announcements related to the Services, including information specific to your account, planned Services suspensions, and outages. We will attempt to minimize this type of communication to you.
+a. If You create an account on the website, You are responsible for maintaining the **security of Your account** and its content, and You are fully responsible for all activities that occur under the account and any other actions taken in connection with the website, whether such activities are authorized by You or not. You must not describe or assign content to Your account in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and DataForSEO may change or remove any description or keyword that it considers inappropriate or unlawful, or otherwise likely to cause DataForSEO liability. You must immediately notify DataForSEO of any unauthorized uses of Your account or any other breaches of security. DataForSEO will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
 
-The DataForSEO website **uses cookies, tracking pixels and related technologies**. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
+b. We may occasionally **communicate with You regarding our products, services, news, and events**. You have the option to not receive this information. We provide an opt-out function within all email communications of this nature or will cease to communicate with You for this purpose if You contact us and tell us not to communicate this information to You. The only kind of these communications that you may not “opt-out” of are those required to communicate announcements related to the Services, including information specific to Your account, planned Services suspensions, and outages. We will attempt to minimize this type of communication to You.
 
-### DataForSEO API Connector for Google Sheets™
+c. The DataForSEO website **uses cookies, tracking pixels and related technologies**. Cookies are small data files that are served by our platform and stored on Your device. Our website uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how You use the site to target ads to You on other websites.
 
-DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs™ will adhere to the [Google API Service User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the [Limited Use Requirements](https://support.google.com/cloud/answer/9110914#explain-types).
+The cookies and similar technologies have the following functions:
 
-#### User Information and Google Calendar™ Access
+* enable provision of our website and related services, which is technically necessary.
+* improve user experience, for example saving font size and entered form data.
+* optimization of website and services, for example monitoring of error messages and loading times.
 
-No personal information is shared with DataForSEO or any third parties, including AI models. To use the DataForSEO API Connector tools, you must use the API credentials obtained from your DataForSEO account. Access to your Google Calendar™ is restricted solely to obtaining your timezone information.
+You can manage your cookie preferences through Your browser settings.
 
-#### User Google Drive™ and Google Spreadsheets™ Access
+### 3\. Payment processing
+
+a. All payments are processed by FastSpring, our 3rd party partner. Refer to [FastSpring Privacy Policy](https://fastspring.com/privacy/) for more information.  
+FastSpring is fully compliant with GDPR policies. FastSpring also complies with all PCI-DSS Level 1 standards.
+
+Please note that DataForSEO is not responsible for the privacy practices of FastSpring.
+
+### 4\. DataForSEO API Connector for Google Sheets™
+
+a. DataForSEO API Connector’s use and transfer to any other app of information received from Google APIs™ will adhere to the [Google API Service User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the [Limited Use Requirements](https://support.google.com/cloud/answer/9110914#explain-types).
+
+#### b. User Information and Google Calendar™ Access
+
+No personal information is shared with DataForSEO or any third parties, including AI models. To use the DataForSEO API Connector tools, You must use the API credentials obtained from Your DataForSEO account. Access to Your Google Calendar™ is restricted solely to obtaining Your timezone information.
+
+#### c. User Google Drive™ and Google Spreadsheets™ Access
 
 No information is shared with DataForSEO or any third parties, including AI models. Access is limited to deleting spreadsheets created using the DataForSEO add-on and reading user input from the spreadsheet used with the add-on.
 
-### Data protection
+### 5\. DataForSEO users and personal data
 
-#### General Data Protection Policy
+a. We collect information related to a platform user and our services usage:
 
-All data is stored on our secure servers. We do our best to protect and keep secure your personal and projects data.
+* **Registration information:** information You provide to us when You sign up to our system such as, your name, email address, telephone and/or mobile number, employer, and login details (including username and password)
+* **Account Dashboard “Profile” settings:** You can view and edit various preferences as well as personal details in the “Profile” settings of Your Account Dashboard. For example, the language of platform, email used for signing in, non-transactional communication preferences, account name.
+* **DataforSEO API data:** we store Your DataForSEO API tasks data for You for 365 days.
+* **Subscription plan and Billing info:** we store information about the Plan You are subscribed to. We don’t store any payment details. All payments are processed by our 3rd party partner – FastSpring.
+* **Other data You want to voluntarily share with us:** we may collect Your personal information or data if You submit it to us voluntarily in other contexts.
 
-#### Data export
+#### b. Personal User Data Processed
 
-All data that been tracked and/or stored in DataForSEO data can be exported to preferred format (CSV or JSON) by request sent to the support team. We guarantee the export of the data will be made within 5 business days after a request is received.
+Below are the categories of personal data collected and processed on our website and other services.
 
-#### Data retention
+* **Account Information (Personal Details):** Information you provide to us voluntarily, such as your name; telephone and/or mobile number; email address; employer; login details, including username and password. This category of data is processed for the purpose of providing our services to you as agreed in the ToS.
+* **Cookies:** Information collected through the use of cookies, Javascript, pixel tags, device ID tracking, anonymous identifiers and other technologies, including information collected using such methods and technologies about your visits to, and interactions with our services. See Section 2.c. of this Privacy Policy for more information. This category of data is processed for marketing purposes and Subject to your privacy choices and settings.
+* **Data You provided voluntarily:** registration and/or subscription data, company information, user details (e.g. name, email address, login and password), transaction information (e.g., name, payment method and amount), content of any messages You send to us. This category of data is processed for the purposes of marketing our services as well as maintaining and improving the standards of our services.
+* **Data we collected automatically:** IP address, HTTP status code, UUID, SSID, IMEI information about Your device and browser. This category of data is processed for the purpose of maintaining and improving the quality of our services.
 
-All tracked data that was stored more than 365 days will be permanently deleted from our system.
+For more information about the purposes of personal data collection and processing, please refer to Section 5.c.
 
-### Rights to access, rectification or erasure, restriction and objection of processing
+#### c. Personal User Data Processing Purposes
 
-You have the right to access, rectification, opposition, erasure (“right to be forgotten”), and restriction of the processing your personal data by directing any of such requests to DataForSEO. In order to make things easier for you, and without prejudice to the legal requirements DataForSEO must comply with under the laws, DataForSEO allows you to exercise the above-mentioned rights by sending us an email to [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection).
+Below is the description of the purposes for which we process personal user data:
 
-#### Account deletion
+* **User Registration and Account Management: **registration for our services and creation of user account, authentication, account settings customization, execution of a service contract with You.****
+* **Service Provision:** the delivery of DataForSEO APIs and other services, such as performance tracking and reporting, employing hosting and backend infrastructure for the operation of the website, blocking spam, and employing the use of user database management.
+* **Customer Support provision:** handling complaints, and other customer service interactions.
+* **Fraud Prevention and Security:** taking the necessary measures to prevent fraud, unauthorised access, and to ensure security.
+* **Compliance with legal obligations:** the participation in legal investigations and judicial proceedings conducted by public authorities or governmental authorities, in particular, for the purpose of detecting, investigating and prosecuting illegal acts.
+* **Marketing Communications:** commercial and/or advertising communications that may be personalised based on data collected automatically or provided voluntarily to us.
+* **Cookies and Similar Technologies:** functional cookies / similar technologies that are necessary to remember choices a user makes and provide more personalized features, and analytics tools / similar technologies to improve our website and services, as set in Section 2.c.
 
-All users, who want to constantly delete their accounts and all the associated data, could do it by themselves in their profile. All data is permanently deleted from all our servers and it couldn’t be restored.
+#### d. Legal Basis for Personal User Data Processing
 
-### Payment processing
+Personal data is only processed if the legal requirements laid down by relevant legislation are met, including but not limited to the fulfilment of a legal obligation.
 
-All payments are processed by FastSpring, our 3rd party partner.  
-FastSpring is fully compliant with GDPR policies. FastSpring also complies with all PCI-DSS Level 1 standards.
+### 6\. Data protection
 
-### DataForSEO users and personal data
+#### a. General Data Protection Policy
 
-We collect information related to a platform user and our Services usage:
+All data is stored on our secure servers. We do our best to protect and keep secure Your personal and projects data.
 
-a) Registration information: information you provide to us when you sign up to our system.
+#### b. Data export
 
-b) “My Profile” settings: you can view and edit various preferences as well as personal details on “My Profile” settings. For example, the language of platform, email used for signing in, non-transactional communication preferences, account name.
+All data that been tracked and/or stored in DataForSEO data can be exported to preferred format (CSV or JSON) by request sent to the support team. We guarantee the export of the data will be made within five business days after a request is received.
 
-c) DataforSEO data: we store your tasks data for you.
+#### c. Data retention
 
-d) Subscription plan + Billing info: we store information about the Plan you are subscribed to. We don’t store any payment details. All payments are processed by our 3rd party partner – FastSpring.
+All data that has been stored for more than 365 days will be permanently deleted from our system.
 
-e) Other data you want to share: We may collect your personal information or data if you submit it to us in other contexts.
+### 7\. User rights to access, rectification or erasure, restriction and objection of processing
 
-**We don’t share your personal data with any 3rd parties.**
+a. You have the right to access, rectification, opposition, erasure (“right to be forgotten”), and restriction of the processing Your personal data by directing any of such requests to DataForSEO. In order to make things easier for You, and without prejudice to the legal requirements DataForSEO must comply with under the laws, DataForSEO allows You to exercise the above-mentioned rights by sending us an email to [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection).
+
+#### b. Deletion of Account and Personal User Data
+
+Accounts on this site can be anonymized or deleted at the users request. All users, who want to permanently delete their accounts and all the associated data, could do it by themselves in their profile. All your personal data will be permanently deleted from all our servers and it would not be possible to restore it.
+
+**You have the right to request access to, correction of, or deletion of Your personal data at any time.**  
+If You wish to exercise these rights, please contact us at https://dataforseo.com/contact or send an email to [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection) .
+
+Upon receiving Your request, we will take appropriate steps to verify Your identity and fulfil Your request in compliance with applicable legal requirements.  Please note, account deletion will lead to the deletion of all personal data and it cannot be recovered.
+
+**Last modified: September 3, 2024**
 
 [![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
