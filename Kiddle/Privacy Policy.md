@@ -12,6 +12,8 @@ Third party sites appearing in search results are not operated by Kiddle and hav
 
 Should this privacy policy change in the future, the changes will be posted on this page.
 
+_This page was last modified on 9 August 2024._
+
 [Continue Kiddling ==>](https://www.kiddle.co/)
 
 [About Kiddle](https://www.kiddle.co/about.php)    [Parents & educators](https://www.kiddle.co/internetsafetytips.php)    [Editors](https://www.kiddle.co/editors.php)     [Kids safe search](https://www.kiddle.co/kidssafesearch.php)     
