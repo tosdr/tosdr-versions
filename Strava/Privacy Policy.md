@@ -36,7 +36,7 @@ Privacy Label
 
 * Do we sell your personal information for monetary value? [No](#how-information-is-shared)
     
-* Do we share or sell aggregate information? [Yes](#aggregate_information)
+* Do we share aggregate information? [Yes](#aggregate_information)
     
 * Do we share your data with third parties that are not service providers? [Yes, with your consent](#service_providers)
     
@@ -214,7 +214,7 @@ We use the information we collect to process your subscription, including using 
 How Information is Shared
 -------------------------
 
-**We do not sell your personal information for monetary value**. We may share personal information in accordance with your preferences, as needed to run our business and provide the Services, and where required for legal purposes, as set forth below. In addition, we may sell or share aggregated data about our users, as described in more detail in the “Aggregate Information” section below.
+**We do not sell your personal information or aggregated data for monetary value**. We may share personal information in accordance with your preferences, as needed to run our business and provide the Services, and where required for legal purposes, as set forth below. In addition, we may share aggregated data about our users, as described in more detail in the “Aggregate Information” section below.
 
 ### Service Providers
 
@@ -242,7 +242,7 @@ We enable you to share your information and content with third party apps, plugi
 
 ### Aggregate Information
 
-Strava may deidentify and aggregate the information you and others make available in connection with the Services and post it publicly or share it with third parties. Examples include information about equipment, usage, demographics, routes, performance, and challenge participation and completion. Strava may **use, sell, license, and share** this **aggregated information** with third parties for research, business or other purposes such as to improve walking, running or riding in cities via [Strava Metro](https://metro.strava.com/) or to help our partners understand more about users, including the people who use their products and services. Strava also uses aggregated data to generate our [Global Heatmap](https://www.strava.com/heatmap) and other community-powered features such as [Points of Interest and Start Points](https://support.strava.com/hc/en-us/articles/4420443741453-Points-of-Interest-and-Start-Points). Please visit your [privacy controls](https://support.strava.com/hc/en-us/articles/360015677851-Aggregated-Data-Usage-Privacy-Controls) if you would like to opt out of Strava using your information for these purposes.
+Strava may deidentify and aggregate the information you and others make available in connection with the Services and post it publicly or share it with third parties. Examples include information about equipment, usage, demographics, routes, performance, and challenge participation and completion. Strava may **use, license, and share** this **aggregated information** with third parties for research, business or other purposes such as to improve walking, running or riding in cities via [Strava Metro](https://metro.strava.com/) or to help our partners understand more about users, including the people who use their products and services. Strava also uses aggregated data to generate our [Global Heatmap](https://www.strava.com/heatmap) and other community-powered features such as [Points of Interest and Start Points](https://support.strava.com/hc/en-us/articles/4420443741453-Points-of-Interest-and-Start-Points). Please visit your [privacy controls](https://support.strava.com/hc/en-us/articles/360015677851-Aggregated-Data-Usage-Privacy-Controls) if you would like to opt out of Strava using your information for these purposes.
 
 ### Subsidiaries and Acquirors of our Business or Assets
 
@@ -376,6 +376,8 @@ Past Privacy Policy Versions
 #### [Mobile](https://www.strava.com/mobile)
 
 #### [Subscription](https://www.strava.com/subscribe?origin=global_footer)
+
+#### [Family Plan](https://www.strava.com/family?origin=global_footer)
 
 #### [Student Discount](https://www.strava.com/student?origin=global_footer)
 
