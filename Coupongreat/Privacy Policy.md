@@ -29,8 +29,8 @@
 
 Categories
 
-* [10% Cash Back Stores](https://www.coupongreat.com/cashback_top_stores.php "Cash Back Stores")
-* [All Cash Back Stores](https://www.coupongreat.com/cashback_stores.php "Cash Back Stores")
+* [Top Cash Back Stores](https://www.coupongreat.com/cashback_top_stores.php "Cash Back Stores")
+* [Household Coupons](https://www.coupongreat.com/household_coupons.php "Household Coupons")
 * [In Store Coupons](https://www.coupongreat.com/printable_coupons.php "Printable Coupons")
 * [Online Coupons](https://www.coupongreat.com/couponcodes_coupons.php "Online Coupons")
 * [Retail Coupons](https://www.coupongreat.com/Major_Retailers/ "Retail Coupons")
