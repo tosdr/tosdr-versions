@@ -118,7 +118,6 @@ About
 -----
 
 * [About](https://opensource.org/about)
-* [Work with us!](https://opensource.org/about/team/vacancy-osi-policy-analyst)
 * [Our team](https://opensource.org/about/team)
 * [Associations](https://opensource.org/associations)
 * [Sponsors](https://opensource.org/sponsors)
