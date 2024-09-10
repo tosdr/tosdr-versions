@@ -1,4 +1,4 @@
-[![Auto Accident Team Logo](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/Logo.svg)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 [877-508-8778](tel:877-508-8778)
 
@@ -21,10 +21,9 @@ Search
     * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
     * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
     * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
+* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
-
-Menu
 
 * [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
     * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
@@ -41,6 +40,7 @@ Menu
     * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
     * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
     * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
+* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
 
@@ -216,34 +216,36 @@ Unit #2001
 Brewster, NY 10509  
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-[![Auto Accident Team Logo](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/Logo.svg)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 * [888.303.2581](tel:888.303.2581)
 * [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
+
+[Facebook-f](https://www.facebook.com/AutoAccidentTeam) [Instagram](https://www.instagram.com/autoaccidentteam/)
 
 Copyright © 2024 Auto Accident Team | All rights reserved.
 
 * [Sponsors](https://www.autoaccidentteam.com/sponsors/)
 * [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
-* [ca residents](https://autoaccidentteam.com/do-not-sell-my-information/)
+* [CA Residents](https://autoaccidentteam.com/do-not-sell-my-information/)
 * [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
 
 * [Sponsors](https://www.autoaccidentteam.com/sponsors/)
 * [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
-* [ca residents](https://autoaccidentteam.com/do-not-sell-my-information/)
+* [CA Residents](https://autoaccidentteam.com/do-not-sell-my-information/)
 * [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
 * [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
 * [Attorneys Near You](https://local.autoaccidentteam.com/)
 
-Auto Accident Team is not a law firm and is not providing legal advice. We are a free service that connects you with third party law firms to discuss your claims. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
+Auto Accident Team is not a law firm nor a lawyer referral service, and it is not providing legal advice. We are a free service that compiles information for individuals seeking legal relief for auto accidents. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
 
 Advertising paid for by participating attorneys in a joint advertising program, including Kevin Danesh, licensed to practice law only in California. A complete list of joint advertising attorneys can be found at [https://www.autoaccidentteam.com/sponsors/](https://autoaccidentteam.com/sponsors/). You can request an attorney by name. 1-800-THE-LAW2 is not a law firm or an attorney referral service. This advertisement is not legal advice and is not a guarantee or prediction of the outcome of your legal matter. Every case is different. The outcome depends on the laws, facts, and circumstances unique to each case. Hiring an attorney is an important decision that should not be based solely on advertising. Request free information about your attorney’s background and experience. This advertising does not imply a higher quality of legal services than that provided by other attorneys. This advertising does not imply that the attorneys are certified specialists or experts in any area of law. No legal services will be provided unless there is a signed agreement between client and attorney.
 
 [FILE Your Claim TOday](https://autoaccidentteam.com/contact/)
 
-[![Auto Accident Team Logo](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/Logo.svg)](https://www.autoaccidentteam.com/)
+[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
 
 * [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
     * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
@@ -260,6 +262,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
     * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
     * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
     * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
+* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
 
@@ -278,6 +281,7 @@ Advertising paid for by participating attorneys in a joint advertising program, 
     * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
     * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
     * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
+* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
 * [About Us](https://www.autoaccidentteam.com/about-us/)
 * [Contact](https://www.autoaccidentteam.com/contact/)
 
