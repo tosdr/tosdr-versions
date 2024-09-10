@@ -14,8 +14,6 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [SIXT for business](https://corporate.sixt.com/?utm_source=sixt.com&utm_medium=retail-website-referral&utm_campaign=US_US_btob_SITEWIDE-FOOTER_ALL_GT&utm_content=Textlink-BusinessCustomer&utm_term=b2b_ref)
 
-[Travel agencies](https://partner.sixt.com/)
-
 [SIXT partners](https://www.sixt.com/partners/)
 
 [SIXT News](https://www.sixt.com/magazine/)
