@@ -39,7 +39,7 @@ We have the right to disable any username, password, account, or other identifie
 
 You acknowledge that Sectigo offers certain products and services on the Site and that if you use or register for one of these products or services, a separate agreement or terms of use between you and Sectigo will apply to the applicable product or service, the terms of which you will need to accept prior to use. Product- and service-specific agreements contain the complete terms for use of the applicable Sectigo product or service, as well as any warranties and representations relating to that product or service. Sectigo does not make any warranties or representations about its products or services in these Terms of Use about the quality, functioning, or accuracy of Sectigo's products or services.
 
-If you purchase any certificates from any of the websites listed above, you agree to the terms and conditions listed in Sectigo's Certificate Subscriber Agreement located here: [https://sectigo.com/uploads/audio/Certificate-Subscriber-Agreement-v2.5-click.pdf](https://sectigo.com/uploads/audio/Certificate-Subscriber-Agreement-v2.5-click.pdf)
+If you purchase any certificates from any of the websites listed above, you agree to the terms and conditions listed in Sectigo's Certificate Subscriber Agreement located here: [https://www.sectigo.com/uploads/files/Certificate-Subscriber-Agreement-2.7-click.pdf](https://www.sectigo.com/uploads/files/Certificate-Subscriber-Agreement-2.7-click.pdf)
 
 **Intellectual Property Rights**
 
