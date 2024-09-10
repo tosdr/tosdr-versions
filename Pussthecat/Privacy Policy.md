@@ -39,7 +39,7 @@ Nginx log the following for every request:
 
 Because it's semi-private the Nginx logs are disabled.
 
-* Nothing
+* Errors
 
 #### **SearX:**
 
