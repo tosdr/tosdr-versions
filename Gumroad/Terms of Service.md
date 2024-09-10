@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/6536cd1ec3e5cefba840fb29_logo.svg)](https://gumroad.com/)
+[![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6536cd1ec3e5cefba840fb29_logo.svg)](https://gumroad.com/)
 
 [Login](https://app.gumroad.com/login)[Start Selling](https://app.gumroad.com/signup)[About](https://gumroad.com/about)[Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)
 
@@ -165,7 +165,7 @@ This Section 7.1 and the information provided in the Articles is intended as a g
 
 **10.2        Trademarks.**  
 
-![](https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/6406a7ac7ab57803c7a874b8_Logos.png)
+![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6406a7ac7ab57803c7a874b8_Logos.png)
 
 , and all related graphics, logos, service marks and trade names used on or in connection with the Services or in connection with the Services are the trademarks of Gumroad and may not be used without permission in connection with your, or any third-party, products or services.  Other trademarks, service marks and trade names that may appear on or in the Services are the property of their respective owners.
 
@@ -347,11 +347,11 @@ This Batch Arbitration provision shall in no way be interpreted as authorizing a
 
   →
 
-[Help](https://help.gumroad.com/)[Terms of Service](https://gumroad.com/about/terms)[Privacy Policy](https://gumroad.com/about/pricing)
+[Help](https://help.gumroad.com/)[Terms of Service](https://gumroad.com/about/terms)[Privacy Policy](https://gumroad.com/about/privacy)
 
 [Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)[About](https://gumroad.com/about)[Jobs](https://jobs.gumroad.com/)[Board meetings](https://www.youtube.com/watch?v=st8ns96z7d4)
 
-![](https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/618f28a89e94524552a002cb_g-icon.svg)
+![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/618f28a89e94524552a002cb_g-icon.svg)
 
 Ⓒ Gumroad, Inc.
 
