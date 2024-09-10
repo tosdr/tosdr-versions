@@ -16,10 +16,12 @@ Our Brands
 
 Free standard shipping on orders over $29.00
 
-1. Express Delivery
-2. Free Shipping
-3. Ukraine promo
-4. Carbon Neutral
+1. Delayed Shipping Meg
+2. Express Delivery
+3. Free Shipping
+4. Ukraine promo
+5. Carbon Neutral
+6. Summer Sale
 
 [United States](https://www.logitech.com/en-us/change-location.html)
 
@@ -120,14 +122,9 @@ Free standard shipping on orders over $29.00
         
         For Education
         
-        * [Mobile + Tablet](https://www.logitech.com/en-us/products/education.html?filters=mobile-and-tablet)
-        * [Notebook + Desktop](https://www.logitech.com/en-us/products/education.html?filters=notebook-and-desktop)
-        * [Room Systems](https://www.logitech.com/en-us/products/education.html?filters=room-systems)
-        * [For Students](https://www.logitech.com/en-us/products/education.html?filters=for-students)
-        * [For Educators](https://www.logitech.com/en-us/products/education.html?filters=for-educators)
-        * [For Classrooms](https://www.logitech.com/en-us/products/education.html?filters=for-classroom)
+        * [K-12 Solutions](https://www.logitech.com/en-us/education/k12.html)
+        * [Higher Education Solutions](https://www.logitech.com/en-us/education/highered.html)
         * [Education Resources](https://www.logitech.com/en-us/education/education-center.html)
-        * [Shop All](https://www.logitech.com/en-us/products/education.html)
         * [Explore All](https://www.logitech.com/en-us/education.html)
         
         [For Gaming](https://www.logitechg.com/en-us)
@@ -601,15 +598,14 @@ CUSTOMERS
 
     
 
- Yes, I want to receive news and product emails. Read our [privacy policy](https://www.logitech.com/en-us/legal/web-privacy-policy.html).
+ I want personalized marketing from Logitech. You can unsubscribe anytime. See our [privacy policy](https://www.logitech.com/legal/web-privacy-policy.html).
 
 Thank you. Your subscription is successful
 
 ©2024 Logitech. All rights reserved
 
 * [Terms of Use](https://www.logitech.com/en-us/tos/terms.html)
-* [Web Privacy Policy](https://www.logitech.com/en-us/legal/web-privacy-policy.html)
-* [Product Privacy Policy](https://www.logitech.com/en-us/legal/product-privacy-policy.html)
+* [Privacy Policy](https://www.logitech.com/en-us/legal/privacy-policy.html)
 * [Cookie Settings](https://www.logitech.com/legal/cookie-policy.html#manage-cookies)
 * [Sitemap](https://www.logitech.com/en-us/sitemap.html)
 * [Product Sitemap](https://www.logitech.com/en-us/shop/o/pt/index)
@@ -643,13 +639,13 @@ Your cart is currently empty. Begin shopping now Close
 
 We'll email you when this product becomes available for purchase
 
-       
+      
 
 SUBMIT
 
 #### Get the latest from Logitech
 
-Yes, I want to receive news and products emails from Logitech.
+I want personalized marketing from Logitech. You can unsubscribe anytime. See our [privacy policy](https://www.logitech.com/en-us/legal/web-privacy-policy.html)
 
 ### Success!
 
