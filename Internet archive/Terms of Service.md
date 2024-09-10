@@ -1,6 +1,20 @@
 [Skip to main content](#maincontent)
 
-We’re fighting to restore access to 500,000+ books in court this week. [Join us!](https://blog.archive.org/2024/06/26/were-fighting-for-library-rights-in-court-this-friday-join-us/)
+[Ask the publishers](https://change.org/LetReadersRead) to restore access to 500,000+ books.
+
+ 
+
+Close banner ![](https://archive.org/components/donation-banner/images/close-circle-dark.svg) ![](https://archive.org/components/donation-banner/images/close-circle-white.svg)  
+
+This week, an appellate court ruled in favor of major corporations, removing access to over 500,000 books. But we will continue to defend the rights of all libraries, and **we ask you to stand with us.**  
+We rely on donations that average just $15.58; we would be deeply grateful if you would join the 1 in 1000 of our users who choose to give. If you find our library useful, **please pitch in**.
+
+This week, an appellate court ruled in favor of major corporations, removing access to over 500,000 books. But we will continue to defend the rights of all libraries, and **we ask you to stand with us.**  
+We rely on donations that average just $15.58; we would be deeply grateful if you would join the 1 in 1000 of our users who choose to give. If you find our library useful, **please pitch in**.
+
+ 
+
+**Can You Chip In?** (USD)
 
  
 
@@ -284,6 +298,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=89097656)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1443694804)
 
-![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1382009564)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1786785318)
