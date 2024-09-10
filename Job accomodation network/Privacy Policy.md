@@ -102,7 +102,7 @@ Add to MyJAN Remove from MyJAN Close
 
 JAN provides free, confidential technical assistance about job accommodations and the Americans with Disabilities Act (ADA).
 
-[(800) 526-7234](tel://8005267234) (Voice)   |   (877) 781-9403 (TTY)   |   [Employer Live Chat](javascript:void();)
+[(800) 526-7234](tel://8005267234) (Voice)   |   [Employer Live Chat](javascript:void();)
 
 [Home](https://askjan.org/index.cfm)| [About](https://askjan.org/about-us/index.cfm)| [For Employers](https://askjan.org/info-by-role.cfm#for-employers)| [For Individuals](https://askjan.org/info-by-role.cfm#for-individuals)| [For Others](https://askjan.org/info-by-role.cfm#for-others)| [On Demand](https://askjan.org/JANonDemand.cfm)
 
