@@ -258,6 +258,7 @@ info@wolkesicher.de
 #### Nextcloud
 
 * [Über Wolkesicher](https://www.wolkesicher.de/wolkesicher-gemanagtes-nextcloud-hosting/)
+* [Nextcloud](https://www.wolkesicher.de/nextcloud/)
 * [Funktionen](https://www.wolkesicher.de/funktionen/)
 * [für Privatkunden und Vereine](https://www.wolkesicher.de/sichere-cloud-fuer-privatkunden-und-vereine/)
 * [für Gewerbe und Freiberufler](https://www.wolkesicher.de/nextcloud-fuer-gewerbe-und-freiberufler/)
@@ -285,7 +286,7 @@ info@wolkesicher.de
 
 Copyright 2024 – Nextcloud ist eine Marke der Nextcloud GmbH – Powered by Nextcloud [www.nextcloud.com](http://www.nextcloud.com/)
 
-![](https://nextfiles.one/wp-content/uploads/2023/04/cards-logos-1.png "Credit Card Logos")
+![](https://www.wolkesicher.de/wp-content/uploads/2024/08/za2.png "za2")
 
 Toggle Navigation
 
