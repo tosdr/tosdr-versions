@@ -41,7 +41,7 @@
 Terms of Service
 ================
 
-Last updated on March 1, 2023
+Last updated on July 30, 2024
 
 ### Document's contents
 
@@ -202,7 +202,7 @@ The service does not automatically process transactions sent through third-party
 
 4.9.Sending funds for an Order as a transaction with incorrect parameters
 
-Sending funds for an Order as a transaction with incorrect parameters. If the Order specifies the need to specify additional parameters when sending a transaction (such as MEMO, Destination tag, Comment and others), then sending a transaction on the Order without the specified parameters or with incorrect parameters may lead to an irretrievable loss of the User's funds. If the transaction was sent without specifying the required parameter, the User must report this to the technical support service, as well as provide evidence that this transaction was sent directly or initiated by the User. The commission for the restoration of funds and their return is 10% of the amount, but cannot be less than ten (10) US dollars. The term for consideration of the request is 14 days after the provision of all evidence. FixedFloat has the right to refuse to return these funds without giving reasons. The user can only request a refund if the amount sent is equivalent to more than ten (10) US dollars.
+Sending funds for an Order as a transaction with incorrect parameters. If the Order specifies the need to specify additional parameters when sending a transaction (such as MEMO, Destination tag, Comment and others), then sending a transaction on the Order without the specified parameters or with incorrect parameters may lead to an irretrievable loss of the User's funds. If the transaction was sent without specifying the required parameter, the User must report this to the technical support service, as well as provide evidence that this transaction was sent directly or initiated by the User. The evidence is a letter received to our mail from the official mail of the Service from which the transaction was sent. The email must contain confirmation that this particular User initiated the transaction. The commission for the restoration of funds and their return is 10% of the amount, but cannot be less than ten (10) US dollars. The term for consideration of the request is 14 days after the provision of all evidence. If the User and/or the Service from which the transaction was sent does not provide proof within 2 weeks, We will refund the funds to the address from which the transaction was received, without additional parameters (such as MEMO, Destination tag, Comment and others). FixedFloat has the right to refuse to return these funds without giving reasons. The user can only request a refund if the amount sent is equivalent to more than ten (10) US dollars.
 
 4.10. The term for processing an Order in violation of the Exchange Rules
 
@@ -248,7 +248,9 @@ Sending funds for an Order as a transaction with incorrect parameters. If the Or
 
 6.2. It is forbidden to use the service for laundering funds obtained by criminal means. If criminal funds are sent to our addresses, the funds may be frozen until information about the source and legality of the funds is received. The necessary information that must be provided by the User when freezing funds that are clearly related to criminal activity is described in section 7.
 
-6.3. We reserve the right to terminate your use of the Service or any related Website for violating any of the prohibited uses.
+6.3. It is prohibited to send funds directly related to addresses or contracts that have been sanctioned by any country to the addresses of our service. The User is obliged to ensure that any funds sent to our addresses are not linked to addresses or contracts under sanctions. In case of discovery of such funds, we reserve the right to suspend the provision of services and freeze the funds received. FixedFloat independently determines which sanctions regimes to follow by analyzing and monitoring the legislative requirements established by the following jurisdictions: the United Nations, the EU, USA.
+
+6.4. We reserve the right to terminate your use of the Service or any related Website for violating any of the prohibited uses.
 
 ### Section 7 AML Procedure
 
