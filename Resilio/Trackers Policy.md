@@ -10,11 +10,11 @@ Resilio Active Everywhere Platform
 
 Resilio's premier real-time data sync and transfer solution that provides industry-leading speed, scale & central management.](https://www.resilio.com/active-everywhere-platform/)[![](/images/sync-appicon-blue-bg.svg)
 
-Sync Home (for Personal Use)  
+Sync (for Personal Use)  
 
 ![](/images/right.svg)
 
-Basic file sharing designed for individuals (not for business use) on desktops and mobile devices only (no servers).](https://www.resilio.com/individuals/)
+Basic file sharing designed for individuals (not for business use) on desktops and mobile devices only (no servers).](https://www.resilio.com/sync/)
 
 Solutions
 
@@ -203,7 +203,7 @@ Report Security Vulnerability
 
 ![](/images/right.svg)](https://connect.resilio.com/hc/en-us/articles/360000293380)
 
-Support for Resilio Sync
+Support for Sync
 
 [![](/images/web-help.svg)
 
@@ -211,7 +211,7 @@ Sync Help Center
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us)[![](/images/online-support.svg)
 
-Submit a Support Request  
+Submit a Customer Service Request  
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563)[![](/images/communicate.svg)
 
@@ -229,7 +229,7 @@ Report Security Vulnerability
 
 Products
 
-[Resilio Active Everywhere for Enterprises](https://www.resilio.com/active-everywhere-platform/) [Sync for Small Business](https://www.resilio.com/sync-business/) [Sync Home for Personal Use](https://www.resilio.com/individuals/)
+[Resilio Active Everywhere for Enterprises](https://www.resilio.com/active-everywhere-platform/) [Sync for Small Business](https://www.resilio.com/sync-business/) [Sync for Personal Use](https://www.resilio.com/sync/)
 
 Solutions
 
@@ -247,9 +247,9 @@ Support: Resilio Platform
 
 [Resilio Platform Help Center](https://connect.resilio.com/hc/en-us)[Submit a Support Request](https://helpfiles.resilio.com/ConnectTicket) [Report Security Vulnerability](https://connect.resilio.com/hc/en-us/articles/360000293380)
 
-Support: Resilio Sync
+Support: Sync
 
-[Sync Help Center](https://help.resilio.com/hc/en-us) [Submit a Support Request](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563) [User Forums](https://forum.resilio.com/) [Report Security Vulnerability](https://help.resilio.com/hc/en-us/articles/360000294599)
+[Sync Help Center](https://help.resilio.com/hc/en-us) [Submit a Customer Service Request](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563) [User Forums](https://forum.resilio.com/) [Report Security Vulnerability](https://help.resilio.com/hc/en-us/articles/360000294599)
 
 Partner Program
 
@@ -310,9 +310,9 @@ Alternatively, an external resource is available at [www.allaboutcookies.org/man
 
 [Privacy Policy](https://www.resilio.com/legal/privacy/) [Terms Of Use](https://www.resilio.com/legal/terms-of-use/) [EULA - Subscription](https://www.resilio.com/legal/eula-subscription/) [Terms Of Sale](https://www.resilio.com/legal/terms-of-sale/) [Copyright](https://www.resilio.com/legal/copyright/) [Cookie Policy](https://www.resilio.com/legal/cookie-policy/) [Support Plans](https://www.resilio.com/legal/support-plan/)
 
-##### Resilio Sync legal resources
+##### Sync legal resources
 
-[Sync Home EULA](https://www.resilio.com/legal/eula/) [Sync Reseller Agreement](https://www.resilio.com/legal/reseller/)
+[Sync EULA](https://www.resilio.com/legal/eula/) [Sync Reseller Agreement](https://www.resilio.com/legal/reseller/)
 
 ##### Products
 
@@ -332,9 +332,9 @@ Enterprises & Creative Teams
 
 Resilio Personal
 
-[Sync Home
+[Sync
 
-![](/images/right.svg)](https://www.resilio.com/individuals/)
+![](/images/right.svg)](https://www.resilio.com/sync/)
 
 ##### Solutions
 
@@ -426,17 +426,17 @@ For resilio Active Everywhere Platform
 
 ![](/images/web-help.svg)
 
-For resilio sync
+For Sync
 
 [Sync Help Center
 
-![](/images/right.svg)](https://help.resilio.com/hc/en-us)[Sync Support Request
+![](/images/right.svg)](https://help.resilio.com/hc/en-us)[Submit a Customer Service Request
 
 ![](/images/right.svg)](https://help.resilio.com/hc/en-us/requests/new?ticket_form_id=91563)[Sync User Forums
 
 ![](/images/right.svg)](https://forum.resilio.com/)[Report Security Vulnerability
 
-![](/images/right.svg)](https://help.resilio.com/hc/en-us/articles/360000294599)[Sync Tutorials
+![](/images/right.svg)](https://help.resilio.com/hc/en-us/articles/360000294599)[Sync Tutorials & Demos
 
 ![](/images/right.svg)](https://www.resilio.com/tech/sync-tutorials-and-howto/)
 
