@@ -139,6 +139,7 @@ Get in touch
 Supported devices
 
 * [Download for **Windows**](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwODkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
+* [Download for **MacOS**](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwODkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 * [Add to **Google Chrome**](https://chrome.google.com/webstore/detail/brightvpn/fbffombkfihfokifmkihbddiafipndnb)
 * [Add to **Microsoft Edge**](https://microsoftedge.microsoft.com/addons/detail/bright-vpn-secure-priv/elbjgikfbbdgjgbhneoabmkgbpmdfmkg)
 * [Add to **Firefox**](https://addons.mozilla.org/en-GB/firefox/addon/bright-vpn/)
