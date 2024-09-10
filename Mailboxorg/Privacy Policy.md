@@ -42,6 +42,7 @@
     * [Our responsibility](https://mailbox.org/en/company#our-responsibility "Our responsibility")
     * [Transparency report](https://mailbox.org/en/company#transparency-report "Transparency report")
     * [Testimonials](https://mailbox.org/en/company#testimonials "Testimonials")
+    * [Jobs](https://mailbox.org/en/jobs "Jobs")
 * [Blog & News](https://mailbox.org/en/blog?year=2024 "Blog & News")
 
  
@@ -413,6 +414,7 @@ A company data protection officer has been appointed for our company. You can re
 [Skip navigation](https://mailbox.org/en/data-protection#skipNavigation157)
 
 * [About us](https://mailbox.org/en/company "About mailbox.org - Our team, our history, our mission")
+* [Jobs](https://mailbox.org/en/jobs "Current vacancies. Join the team!")
 * [Blog & News](https://mailbox.org/en/blog?year=2024 "Blog & News")
 * [Press](https://mailbox.org/en/press "Press")
 
