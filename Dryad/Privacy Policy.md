@@ -133,6 +133,6 @@ Terms
 
 [Contact us](https://datadryad.org/stash/contact) [Dryad on Twitter](https://twitter.com/datadryad) [Latest news](https://blog.datadryad.org/) [Jobs & opportunities](https://blog.datadryad.org/jobs)
 
-Copyright (c) 2024 Dryad
+© 2024 Dryad. [Content on this site is licensed for reuse](https://datadryad.org/stash/terms#copyright).
 
  Yes No
