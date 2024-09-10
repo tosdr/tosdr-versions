@@ -218,7 +218,7 @@ You have the right to request access to, and a copy of, the:
 
 You also have a right to request that we delete your personal information (subject to certain exceptions), and request that we correct your personal information if it is inaccurate.
 
-To exercise any of these rights, please submit a request to us by calling our toll-free number at (800) 255-5516, or by completing the request form found [here](https://privacyportal.onetrust.com/webform/de0a021e-2563-403f-a999-cfbb9ed54912/draft/4c2c0429-00ed-4cfc-a666-db9e8b5a7b95). In the request, please specify which right you are seeking to exercise and the scope of the request. We will endeavor confirm receipt of your request within 10 business days. We may require specific information from you to verify your identity before processing your request, and we may send you a confirmation email that you must respond to before we process the request. Due to our privacy-protective practices, in some instances Hasbro may not have sufficient personal information (e.g., name, email) that would enable us to verify an individual’s identity and complete a request to know or delete information. We aim to complete requests within 45 days, and if needed we may extend the response by another 45 days.
+To exercise any of these rights, please submit a request to us by calling our toll-free number at (800) 255-5516, or by completing the request form found [here](https://docs.hasbro.com/privacy_rights). In the request, please specify which right you are seeking to exercise and the scope of the request. We will endeavor confirm receipt of your request within 10 business days. We may require specific information from you to verify your identity before processing your request, and we may send you a confirmation email that you must respond to before we process the request. Due to our privacy-protective practices, in some instances Hasbro may not have sufficient personal information (e.g., name, email) that would enable us to verify an individual’s identity and complete a request to know or delete information. We aim to complete requests within 45 days, and if needed we may extend the response by another 45 days.
 
 RIGHT TO OPT OUT  
 You have the right at any time to opt out of (i) selling or sharing of your personal information to third parties, and (ii) third party targeted advertising activities. You may contact us by calling our toll-free number at (800) 255-5516, or emailing us at [DPO@hasbro.com](mailto:DPO@hasbro.com), if you have any questions or concerns.
@@ -271,7 +271,7 @@ Virginia provides additional rights to Virginia residents through the Virginia C
 * To obtain a copy of your personal data that you previously provided to us in a portable and readily usable format; and
 * To opt out of the processing of personal data for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
 
-To exercise any of these rights, please contact us through this [Form](https://privacyportal.onetrust.com/webform/de0a021e-2563-403f-a999-cfbb9ed54912/draft/4c2c0429-00ed-4cfc-a666-db9e8b5a7b95).
+To exercise any of these rights, please contact us through this [Form](https://docs.hasbro.com/privacy_rights).
 
   
 
@@ -293,7 +293,7 @@ Data Minimization: We must also limit the data we store by reviewing no less tha
 
 Re-Obtaining Consent: We may re-seek consent from you if you have previously opted out from processing activities. If you have not interacted with us for at least one year, we are required by the CPA to re-obtain your affirmative consent to process any of your information.
 
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [Form](https://privacyportal.onetrust.com/webform/de0a021e-2563-403f-a999-cfbb9ed54912/draft/4c2c0429-00ed-4cfc-a666-db9e8b5a7b95).
+For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [Form](https://docs.hasbro.com/privacy_rights).
 
 **Connecticut Residents**
 
@@ -312,7 +312,7 @@ Data Minimization: We must limit collection of personal data to what is adequate
 
 Children in Connecticut: We may not process children’s personal data for targeted advertising or sell children’s personal data. We must obtain consent to use personal data for targeted advertising or sell personal data from a person aged 13 to 15 when we have actual knowledge that that person is between 13 and 15.
 
-For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [Form](https://privacyportal.onetrust.com/webform/de0a021e-2563-403f-a999-cfbb9ed54912/draft/4c2c0429-00ed-4cfc-a666-db9e8b5a7b95).
+For clarification on any of these rights and requirements or to submit a request for us to access, correct, or delete your information, please contact us through this [Form](https://docs.hasbro.com/privacy_rights).
 
 **9\. Contact Us**
 
