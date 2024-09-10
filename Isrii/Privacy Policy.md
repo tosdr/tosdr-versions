@@ -1,49 +1,29 @@
-[Sign In](https://isrii.org/wp/wp-login.php)
+[Skip to content](#fl-main-content)
 
-Search for:  
+* [Join ISRII](https://isrii.org/membership-join/)
+* [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
+* [Donate](https://isrii.org/donate/)
+* [Contact Us](https://isrii.org/contact-us/)
 
-[](#menu-main-slide)
+[![ISRII](http://isrii.org/content/uploads/2024/09/isrii-logo-sm1.png)](https://isrii.org/)
 
-* [Home](https://isrii.org/ "Home")
-* [About Us](https://isrii.org/who-we-are/)
+Menu
+
+* [Special Interest Groups](https://isrii.org/isrii-sigs-draft/)
+* [Journal](https://isrii.org/journal/)
+* [Conferences & Events](https://isrii.org/events/)
+    
+    * [Online Events](https://isrii.org/events/)
+    * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
+* [About Us](https://isrii.org/)
+    
     * [Who We Are](https://isrii.org/who-we-are/)
     * [ISRII Goals](https://isrii.org/aims-of-isrii/)
     * [Leadership](https://isrii.org/board-of-directors-2023/)
     * [FAQ](https://isrii.org/faq/)
-    * [Special Interest Groups](https://isrii.org/sigs/)
-* [Join ISRII](https://isrii.org/membership-join)
-    * [Join the ISRII Community](https://isrii.org/membership-join/)
-* [Journal](https://isrii.org/journal/)
-    * [Journal](https://isrii.org/journal/)
-    * [Instructions for Extended Abstract Submission](https://isrii.org/meeting/instructions-for-extended-abstract-submission/)
-* [Events](#)
-    * [Online Events](https://isrii.org/online-events/)
-    * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
-* [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
-* [Donate to ISRII](https://isrii.org/donate/)
+    * [Contact Us](https://isrii.org/contact-us/)
 
-[![ISRII Logo](/content/uploads/2015/04/isrii-logo-sm1.png)](https://isrii.org/)
-
-* [Home](https://isrii.org/ "Home")
-* [About Us](https://isrii.org/who-we-are/)
-    * [Who We Are](https://isrii.org/who-we-are/)
-    * [ISRII Goals](https://isrii.org/aims-of-isrii/)
-    * [Leadership](https://isrii.org/board-of-directors-2023/)
-    * [FAQ](https://isrii.org/faq/)
-    * [Special Interest Groups](https://isrii.org/sigs/)
-* [Join ISRII](https://isrii.org/membership-join)
-    * [Join the ISRII Community](https://isrii.org/membership-join/)
-* [Journal](https://isrii.org/journal/)
-    * [Journal](https://isrii.org/journal/)
-    * [Instructions for Extended Abstract Submission](https://isrii.org/meeting/instructions-for-extended-abstract-submission/)
-* [Events](#)
-    * [Online Events](https://isrii.org/online-events/)
-    * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
-* [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
-* [Donate to ISRII](https://isrii.org/donate/)
-
-[Home](https://isrii.org/) » Privacy Policy
--------------------------------------------
+[](#)
 
 Privacy Policy
 ==============
@@ -81,25 +61,9 @@ ISRII has taken measures to protect the loss, misuse and alteration of informati
 * The information found on the ISRII website should not be used as medical, legal, business or tax advice.
 * Our Privacy Policy may be revised occasionally. You should review it from time to time to be sure you understand the details. Using the ISRII website indicates your agreement to the policy that is posted at the time of use.
 
-### Links
+![](https://isrii.org/content/uploads/2024/09/ISRII-white-logo.png)
 
-[Home](https://isrii.org/)
-
-[About Us](https://isrii.org/about-us)
-
-[Join or renew ISRII membership](https://isrii.org/membership-join)
-
-[Members Area](https://isrii.org/members-area)
-
-[Journal](https://isrii.org/journal/)
-
-[Events](https://isrii.org/events)
-
-### Resources
-
-[Directions for the International Society for Research on Internet Interventions (ISRII)](http://www.jmir.org/2006/3/e23/)
-
-### Contact Us
+### [Contact Us](https://isrii.org/contact-us/)
 
 [info@isrii.org](mailto:info@isrii.org)
 
@@ -109,9 +73,6 @@ McLean, VA 22101 USA
 
 [Privacy Policy](https://isrii.org/privacy-policy)
 
-### Connect With Us
+Copyright © 2024 — International Society for Research on Internet Interventions (ISRII)
 
-* [![](https://isrii.org/content/themes/Capital/images/icons/facebook.png)](https://www.facebook.com/TheISRII)
-* [![](https://isrii.org/content/themes/Capital/images/icons/twitter.png)](https://twitter.com/TheISRII)
-
-Copyright © 2023 — International Society for Research on Internet Interventions (ISRII)
+[Scroll To Top](#)
