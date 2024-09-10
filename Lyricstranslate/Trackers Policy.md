@@ -2,12 +2,12 @@
 
 Search
 
-[Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
+[Request a translation](https://lyricstranslate.com/en/how-request-translation)[Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 
-[![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
+[![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?destination=cookies-policy)
 
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=cookies-policy)
+* [Log in](https://lyricstranslate.com/en/user/login?destination=cookies-policy)
+* [Sign up](https://lyricstranslate.com/en/user/register?destination=cookies-policy)
 * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
 * [Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)
 * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
@@ -25,6 +25,7 @@ Search
     * [Idioms](https://lyricstranslate.com/en/phrases)
     * [Collections](https://lyricstranslate.com/en/collections)
     
+* [Artists](https://lyricstranslate.com/en/artists)
 * [Translations](https://lyricstranslate.com/en/translations)
 * [Languages](https://lyricstranslate.com/en/languages.html)
 * [Actions](https://lyricstranslate.com/en/add-post)
@@ -52,8 +53,8 @@ Search
     * [Useful Resources](https://lyricstranslate.com/en/resources)
     * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
     
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=cookies-policy)
+* [Log in](https://lyricstranslate.com/en/user/login?destination=cookies-policy)
+* [Sign up](https://lyricstranslate.com/en/user/register?destination=cookies-policy)
 
 Cookies Policy
 ==============
@@ -136,83 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![RadixIce](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1179431-1682108942.jpg)](https://lyricstranslate.com/en/translator/radixice "RadixIce")
+[![Muffinssi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521382-1722856099.png)](https://lyricstranslate.com/en/translator/muffinssi "Muffinssi")
 
 New translation
 
-[Armen Darbinyan - Ով Սիրուն Սիրուն (Ov Sirun Sirun)](https://lyricstranslate.com/en/armen-darbinyan-ov-sirown-sirown-ov-siru-english)
+[Kim Petras - Turn Off the Light](https://lyricstranslate.com/en/kim-petras-turn-light-finnish)
 
-Armenian → English
+English → Finnish
 
-[![Darkness Dragon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1385415-1528677044.png)](https://lyricstranslate.com/en/translator/darkness-dragon "Darkness Dragon")
-
-New transcription request
-
-[Pokémon (ost) - Pokémon Theme (Latvian)](https://lyricstranslate.com/en/pok%C3%A9mon-ost-pok%C3%A9mon-theme-latvian)
-
-Latvian
-
-[![Feàrnach](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585254-1689533125.jpg)](https://lyricstranslate.com/en/translator/fe%C3%A0rnach "Feàrnach")
+[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
 
 New translation
 
-[DIR EN GREY - カムイ (Kamui)](https://lyricstranslate.com/en/dir-en-grey-kamui-english)
+[Paul Verlaine - Chanson d'automne](https://lyricstranslate.com/en/paul-verlaine-chanson-dautomne-dutch)
 
-Japanese → English
+French → Dutch
 
-[![lele.azevedo](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/leleazevedo "lele.azevedo")
-
-New transcription request
-
-[Amadou & Mariam - Fari Mandila](https://lyricstranslate.com/en/amadou-mariam-fari-mandila)
-
-Bambara
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![cherrychu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610789-1724255456.jpg)](https://lyricstranslate.com/en/translator/cherrychu "cherrychu")
 
 New translation
 
-[Gino D'Eliso - Kajmac Calan](https://lyricstranslate.com/en/gino-deliso-kajmac-calan-english)
+[Kuroyuri To Kage - 絵の具まみれ (Enogu mamire)](https://lyricstranslate.com/en/kuroyuri-kage-enogu-mamire-turkish)
 
-Italian → English
+Japanese → Turkish
 
-[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1722360529.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
 New translation
 
-[Chisato Moritaka - 見たとおりよ私 (Mita tōri yo watashi)](https://lyricstranslate.com/en/chisato-moritaka-mita-tori-yo-watashi-english)
+[Eddy Mitchell - Le bon temps qui passe](https://lyricstranslate.com/en/eddy-mitchell-le-bon-temps-qui-passe-english)
 
-Japanese → English
+French → English
 
-[![citlālicue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109697-1717958665.png)](https://lyricstranslate.com/en/translator/citl%C4%81licue "citlālicue")
+[![ErikaCh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590455-1693163951.png)](https://lyricstranslate.com/en/translator/erikach "ErikaCh")
+
+New translation
+
+[Bush - Little Things](https://lyricstranslate.com/en/bush-little-things-italian)
+
+English → Italian
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
 New comment
 
-It's a literal copy of the translation in the ...  [more](https://lyricstranslate.com/en/comment/1157549#comment-1157549)
+Hi, https://lyricstranslate.com/es/...  [more](https://lyricstranslate.com/en/comment/1164538#comment-1164538)
 
-[![TCG](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1561228-1688645178.jpg)](https://lyricstranslate.com/en/translator/tcg "TCG")
-
-New translation
-
-[Göksel İpekçi - Aylardan Mayıs](https://lyricstranslate.com/en/goksel-ipekci-aylardan-mayis-english)
-
-Turkish → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![damianzimu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1547118-1662476290.jpg)](https://lyricstranslate.com/en/translator/damianzimu "damianzimu")
 
 New translation
 
-[Gino D'Eliso - Bellezza normanna](https://lyricstranslate.com/en/gino-deliso-bellezza-normanna-english)
+[Hozier - Arsonist's lullaby](https://lyricstranslate.com/en/hozier-arsonists-lullaby-czech)
 
-Italian → English
+English → Czech
 
-[![Zark21](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/zark21 "Zark21")
+[![Kososka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627760-1725318425.jpg)](https://lyricstranslate.com/en/translator/kososka "Kososka")
 
-New song
+New translation
 
-[Luis Mariano - Comme facette mammeta](https://lyricstranslate.com/en/luis-mariano-comme-facette-mammeta-lyrics)
+[The Vaccines - Handsome](https://lyricstranslate.com/en/vaccines-handsome-finnish)
 
-Neapolitan
+English → Finnish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
