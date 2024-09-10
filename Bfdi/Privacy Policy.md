@@ -13,8 +13,8 @@ _Springe direkt zu:_
 Servicemenü
 -----------
 
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * [Im­pres­s­um](https://www.bfdi.bund.de/DE/Meta/Impressum/impressum_node.html)
 * **Da­ten­schutz**
@@ -23,7 +23,7 @@ Servicemenü
 * [Ge­bär­den­spra­che](https://www.bfdi.bund.de/DE/Meta/Gebaerdensprache/gebaerdensprache_node.html)
 * [Leich­te Spra­che](https://www.bfdi.bund.de/DE/Meta/LeichteSprache/leichtesprache_node.html)
 
-[![Government Site Builder Standardlösung (Link zur Startseite)](/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&v=3)](https://www.bfdi.bund.de/DE/Home/home_node.html "Zur Startseite")
+[![Government Site Builder Standardlösung (Link zur Startseite)](/SiteGlobals/Frontend/Images/logo.svg?__blob=normal&v=10)](https://www.bfdi.bund.de/DE/Home/home_node.html "Zur Startseite")
 
 Hauptmenü
 ---------
@@ -129,53 +129,54 @@ Hauptmenü
     [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
     ----------------------------------------------------------------------------------------------------------------
     
-* [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/derbfdi_node.html)
+* [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/derbfdi_node.html)
     
-    ### Unternavigationspunkte Der BfDI
+    ### Unternavigationspunkte Die BfDI
     
     Schließen
     
-    [Über Uns](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/ueberuns_node.html)
-    ---------------------------------------------------------------------------
+    [Über Uns](https://www.bfdi.bund.de/DE/BfDI/UeberUns/ueberuns_node.html)
+    ------------------------------------------------------------------------
     
-    * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
-    * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+    * [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/UeberUns/BfDI/derbfdi_node.html)
+    * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/BfDI/UeberUns/Organisation/organisation-node.html)
+    * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
     
-    [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
-    ----------------------------------------------------------------------------------------
+    [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
+    -------------------------------------------------------------------------------------
     
-    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
-    * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
-    * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
-    * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+    * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/BfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+    * [Ar­bei­ten bei der BfDI](https://www.bfdi.bund.de/DE/BfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten bei der BfDI")
+    * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/BfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+    * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
     
-    [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-    ----------------------------------------------------------------------
+    [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+    -------------------------------------------------------------------
     
-    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+    * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+    * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+    * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
+    * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressebilder/Pressebilder_node.html)
     
-    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
-    ----------------------------------------------------------------------------------------------------------------------------
+    [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
+    -------------------------------------------------------------------------------------------------------------------------
     
-    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
+    * [Stan­dar­di­sier­te Mes­sen­ger-Über­prü­fung](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Messengerdienste/Messengerdienste_node.html)
+    * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+    * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     
-    [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
-    ---------------------------------------------------------------------------------
+    [Do­ku­men­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/dokumente_node.html)
+    ------------------------------------------------------------------------------
     
     * [BfDI-Dokumentensuche](https://www.bfdi.bund.de/SiteGlobals/Forms/Suche/Dokumentensuche_Formular.html?nn=252092)
-    * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
-    * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
-    * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
-    * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
-    * [Rund­schrei­ben des BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Rundschreiben_node.html)
-    * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
-    * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
-    * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
+    * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/BfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
+    * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/BfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
+    * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
+    * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
+    * [Rund­schrei­ben der BfDI](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Rundschreiben_node.html)
+    * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
+    * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
+    * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
     
 * [Ser­vice](https://www.bfdi.bund.de/DE/Service/service_node.html)
     
@@ -298,37 +299,38 @@ Schließen
         * [Straf- & Si­cher­heits­recht](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Straf-Sicherheitsrecht/Straf-Sicherheitsrecht_node.html)
         * [Ener­gie­wen­de](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Energiewende/Energiewende-node.html "Energiewende")
     * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
-* Der BfDI
+* Die BfDI
     * Über Uns
-        * [Der BfDI](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/DerBfDI/derbfdi_node.html)
-        * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/Organisation/organisation-node.html)
-        * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+        * [Die BfDI](https://www.bfdi.bund.de/DE/BfDI/UeberUns/BfDI/derbfdi_node.html)
+        * [Or­ga­ni­sa­ti­on der Be­hör­de](https://www.bfdi.bund.de/DE/BfDI/UeberUns/Organisation/organisation-node.html)
+        * [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
     * Karriere
-        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
-        * [Ar­bei­ten beim BfDI](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten beim BfDI")
-        * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
-        * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
+        * [Stel­len­an­ge­bo­te](https://www.bfdi.bund.de/DE/BfDI/Karriere/Stellenangebote/Stellenangebote-node.html "Stellenangebote")
+        * [Ar­bei­ten bei der BfDI](https://www.bfdi.bund.de/DE/BfDI/Karriere/Arbeiten-beim-BfDI/Arbeiten-beim-BfDI-node.html "Arbeiten bei der BfDI")
+        * [Prak­ti­kum und Re­fe­ren­da­ri­at](https://www.bfdi.bund.de/DE/BfDI/Karriere/Praktikum-und-Referendariat/Praktikum-und-Referendariat-node.html "Praktikum und Referendariat")
+        * [Kar­rie­re­mes­sen](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karrieremessen/Karrieremessen-node.html "Karrieremessen")
     * Presse
-        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
-        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressebilder/Pressebilder_node.html)
+        * [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+        * [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+        * [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
+        * [Pres­se­bil­der](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressebilder/Pressebilder_node.html)
     * Konsultationsverfahren
-        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
-        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
+        * [Stan­dar­di­sier­te Mes­sen­ger-Über­prü­fung](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Messengerdienste/Messengerdienste_node.html)
+        * [KI in Straf­ver­fol­gung und Ge­fah­ren­ab­wehr](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/KI-Strafverfolgung/KI-Strafverfolgung_node.html)
+        * [An­ony­mi­sie­rung un­ter der DSGVO](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Anonymisierung-TK/Anonymisierung-TK_node.html)
     * Dokumente
         * [BfDI-Dokumentensuche](https://www.bfdi.bund.de/SiteGlobals/Forms/Suche/Dokumentensuche_Formular.html?nn=252092)
-        * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
-        * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
-        * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
-        * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
-        * Rundschreiben des BfDI
-            * [All­ge­mei­ne Rund­schrei­ben](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Allgemein/Rundschreiben_allg-node.html "Allgemeine Rundschreiben")
-            * [Rund­schrei­ben Job­cen­ter](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Jobcenter/Rundschreiben-Jobcenter-node.html "Rundschreiben Jobcenter")
-            * [Rund­schrei­ben zum SÜG](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Rundschreiben/Sueg/Rundschreiben_Sueg-node.html "Rundschreiben zum SÜG")
-        * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
-        * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
-        * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
+        * [Ac­cess for one - Ac­cess for all](https://www.bfdi.bund.de/DE/BfDI/Dokumente/AccessForOne_AccessForAll/accessforone_accessforall_node.html)
+        * [Re­den & Bei­trä­ge](https://www.bfdi.bund.de/DE/BfDI/Dokumente/RedenUndBeitraege/redenundbeitraege_node.html)
+        * [Do­ku­men­te all­ge­mein](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Dokumente-allgemein/Dokumente-allgemein_node.html)
+        * [Kon­troll­be­rich­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Kontrollberichte/kontrollberichte_node.html)
+        * Rundschreiben der BfDI
+            * [All­ge­mei­ne Rund­schrei­ben](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Allgemein/Rundschreiben_allg-node.html "Allgemeine Rundschreiben")
+            * [Rund­schrei­ben Job­cen­ter](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Jobcenter/Rundschreiben-Jobcenter-node.html "Rundschreiben Jobcenter")
+            * [Rund­schrei­ben zum SÜG](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Rundschreiben/Sueg/Rundschreiben_Sueg-node.html "Rundschreiben zum SÜG")
+        * [Par­la­ments­brief](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Parlamentsbrief/Parlamentsbrief-node.html)
+        * [Stel­lung­nah­men](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Stellungnahmen/stellungnahmen_node.html)
+        * [Ver­hal­tens­re­geln](https://www.bfdi.bund.de/DE/BfDI/Dokumente/Verhaltensregeln/Verhaltensregeln_node.html)
 * Service
     * Publikationen
         * [Tä­tig­keits­be­rich­te](https://www.bfdi.bund.de/DE/Service/Publikationen/Taetigkeitsberichte/taetigkeitsberichte_node.html)
@@ -361,8 +363,8 @@ Schließen
     * [Da­ten­schutz­fo­rum](https://forum.bfdi.bund.de/ "Externer Link Datenschutzforum (Öffnet neues Fenster)")
 * [Su­che](https://www.bfdi.bund.de/DE/Meta/Suche/suche_node.html)
 * [Wa­ren­korb](https://www.bfdi.bund.de/DE/Meta/Warenkorb/warenkorb_node.html)
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
 * [Hil­fe](https://www.bfdi.bund.de/DE/Meta/Hilfe/hilfe_node.html)
 * [Im­pres­s­um](https://www.bfdi.bund.de/DE/Meta/Impressum/impressum_node.html)
 * **Da­ten­schutz**
@@ -377,27 +379,23 @@ Sie sind hier:
 1. [![Zur Startseite](/SiteGlobals/Frontend/Images/icons/home.svg?__blob=normal&v=3)](https://www.bfdi.bund.de/DE/Home/home_node.html "Zur Startseite")
 2. **Datenschutz**
 
-Datenschutzerklärung des BfDI
+Datenschutzerklärung der BfDI
 =============================
 
 1. Kontakt
 ----------
 
-Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 
 Anschrift:
 
-Graurheindorfer Str. 153, 53117 Bonn
-
-Zentrale Telefonnummer: 0228/997799-0
-
+Graurheindorfer Str. 153, 53117 Bonn  
+Zentrale Telefonnummer: 0228/997799-0  
 Zentrale Mail-Adresse: [poststelle@bfdi.bund.de](mailto:poststelle@bfdi.bund.de "E-Mail an: poststelle@bfdi.bund.de")
 
   
-Behördlicher Datenschutzbeauftragter: Herr Kapsa
-
-Telefonnummer: 0228/997799-1950
-
+Behördlicher Datenschutzbeauftragter: Herr Kapsa  
+Telefonnummer: 0228/997799-1950  
 Mail-Adresse: [bdsb@bfdi.bund.de](mailto:bdsb@bfdi.bund.de "E-Mail an: bdsb@bfdi.bund.de")
 
 Zur verschlüsselten Kommunikation mit dem behördlichen Datenschutzbeauftragten (bDSB) können Sie von einem [Schlüsselserver](https://keys.openpgp.org/ "Externer Link Schlüsselserver (Öffnet neues Fenster)") den aktuellsten PGP\-Key des bDSB herunter laden. Zum Abgleich finden Sie hier den zugehörigen Fingerabdruck dieses öffentlichen Schlüssels: 49C5098DE61A09E0CBFCADABB87A54EEB514D617
@@ -405,18 +403,18 @@ Zur verschlüsselten Kommunikation mit dem behördlichen Datenschutzbeauftragten
 2\. Einleitung und Zwecke der Verarbeitung
 ------------------------------------------
 
-Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) verarbeitet bei der Wahrnehmung der ihm gesetzlich übertragenen Aufgaben personenbezogene Daten. Zu seinen öffentlichen Aufgaben gehören insbesondere die folgenden Teilbereiche:
+Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) verarbeitet bei der Wahrnehmung der ihr gesetzlich übertragenen Aufgaben personenbezogene Daten. Zu ihren öffentlichen Aufgaben gehören insbesondere die folgenden Teilbereiche:
 
-* Die Überwachung und Durchsetzung der Datenschutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) bei Verantwortlichen, die seiner Aufsicht unterliegen, einschließlich der dazu notwendigen Kooperation mit Datenschutzbehörden der Länder und der Mitgliedstaaten der Europäischen Union (EU)
-* Die Kontrolle der Informationsfreiheit bei Verantwortlichen (insbesondere nach dem Informationsfreiheitsgesetz, IFG), die seiner Aufsicht unterliegen.
+* Die Überwachung und Durchsetzung der Datenschutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) bei Verantwortlichen, die ihrer Aufsicht unterliegen, einschließlich der dazu notwendigen Kooperation mit Datenschutzbehörden der Länder und der Mitgliedstaaten der Europäischen Union (EU)
+* Die Kontrolle der Informationsfreiheit bei Verantwortlichen (insbesondere nach dem Informationsfreiheitsgesetz, IFG), die ihrer Aufsicht unterliegen.
 * Die Bereitstellung von Informationen über das Datenschutzrecht und die Informationsfreiheit an Dritte oder an die Öffentlichkeit
-* Die Bearbeitung von Beschwerden zu den Themen Datenschutz und Informationsfreiheit betroffener Personen über Verantwortliche und Auftragsverarbeiter, die seiner Aufsicht unterliegen
+* Die Bearbeitung von Beschwerden zu den Themen Datenschutz und Informationsfreiheit betroffener Personen über Verantwortliche und Auftragsverarbeiter, die ihrer Aufsicht unterliegen
 
-Der BfDI verarbeitet als zivilrechtliche Vertragspartei bzw. als öffentlich-rechtliche Dienststelle personenbezogene Daten. Beispiele hierfür sind die Personalgewinnung und -verwaltung, die Beschaffung von Büromaterialien oder Hilfsdienstleistungen. Der BfDI verarbeitet in Verfolgung seiner eigenen Interessen dabei gegebenenfalls auch die personenbezogenen Daten der Beschäftigten der Vertragspartei. Das Interesse des BfDI liegt dabei auf der Anbahnung, dem Abschluss und der Durchführung solcher Vertragsbeziehungen. 
+Die BfDI verarbeitet als zivilrechtliche Vertragspartei bzw. als öffentlich-rechtliche Dienststelle personenbezogene Daten. Beispiele hierfür sind die Personalgewinnung und -verwaltung, die Beschaffung von Büromaterialien oder Hilfsdienstleistungen. Die BfDI verarbeitet in Verfolgung ihrer eigenen Interessen dabei gegebenenfalls auch die personenbezogenen Daten der Beschäftigten der Vertragspartei. Das Interesse der BfDI liegt dabei auf der Anbahnung, dem Abschluss und der Durchführung solcher Vertragsbeziehungen. 
 
-Der BfDI verarbeitet auf der Grundlage von Einwilligungen personenbezogene Daten für besondere Dienstleistungen. Beispiele hierfür sind der allgemeine Newsletter sowie der Newsletter für die Presse.
+Die BfDI verarbeitet auf der Grundlage von Einwilligungen personenbezogene Daten für besondere Dienstleistungen. Beispiele hierfür sind der allgemeine Newsletter sowie der Newsletter für die Presse.
 
-Der BfDI verarbeitet personenbezogene Daten außerdem bei der Entgegennahme und Weiterleitung bestimmter Beschwerden, die sich gegen die Verarbeitung von Daten durch U.S.-Nachrichtendienste richten. Im Zuge des Angemessenheitsbeschlusses für das EU-U.S. Data Privacy Framework wurde hierfür in den USA ein besonderes Beschwerdeverfahren geschaffen. Wie im Angemessenheitsbeschluss angelegt, können sich Personen dabei auch in deutscher Sprache an den BfDI wenden, was zu einem vereinfachten Zugang zu diesem Beschwerdeverfahren beiträgt.
+Die BfDI verarbeitet personenbezogene Daten außerdem bei der Entgegennahme und Weiterleitung bestimmter Beschwerden, die sich gegen die Verarbeitung von Daten durch U.S.-Nachrichtendienste richten. Im Zuge des Angemessenheitsbeschlusses für das EU\-U.S. Data Privacy Framework wurde hierfür in den USA ein besonderes Beschwerdeverfahren geschaffen. Wie im Angemessenheitsbeschluss angelegt, können sich Personen dabei auch in deutscher Sprache an die BfDI wenden, was zu einem vereinfachten Zugang zu diesem Beschwerdeverfahren beiträgt.
 
 3\. Rechtsgrundlagen der Verarbeitung
 -------------------------------------
@@ -434,52 +432,52 @@ Die betroffene Person hat jederzeit das Recht, eine erteilte Einwilligung, auf d
 4. Empfängerkategorien
 ----------------------
 
-Bei der Wahrnehmung seiner öffentlichen Aufgaben übermittelt der BfDI personenbezogene Daten an andere öffentliche Stellen des Bundes oder der Länder (insbesondere an die Aufsichtsbehörden der Länder) sowie an die Aufsichtsbehörden anderer Mitgliedstaaten der EU, Vertreter der Presse und Betroffene sowie an Auftragnehmer des BfDI. Dabei wird stets geprüft, ob eine Übermittlung in diesem Sinne erforderlich ist. Für die gesondert genannten Aufgabenfelder des BfDI ergeben sich in der Regel folgende Empfängerkreise:
+Bei der Wahrnehmung ihrer öffentlichen Aufgaben übermittelt die BfDI personenbezogene Daten an andere öffentliche Stellen des Bundes oder der Länder (insbesondere an die Aufsichtsbehörden der Länder) sowie an die Aufsichtsbehörden anderer Mitgliedstaaten der EU, Vertreter der Presse und Betroffene sowie an Auftragnehmer der BfDI. Dabei wird stets geprüft, ob eine Übermittlung in diesem Sinne erforderlich ist. Für die gesondert genannten Aufgabenfelder der BfDI ergeben sich in der Regel folgende Empfängerkreise:
 
 a)     Überwachung und Durchsetzung des Datenschutzrechts
 
-Öffentliche Stellen des Bundes oder der Länder sowie Aufsichtsbehörden der Mitgliedstaaten der EU, Betroffene und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle, Europäischer Datenschutzausschuss (EDSA)  
+Öffentliche Stellen des Bundes oder der Länder sowie Aufsichtsbehörden der Mitgliedstaaten der EU, Betroffene und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle, Europäischer Datenschutzausschuss (EDSA)  
 Im Falle einer notwendigen Kommunikation mit Aufsichtsbehörden der Mitgliedstaaten der EU, wird diese unter Nutzung des durch die Europäische Kommission betriebenen Binnenmarkt-Informationssystems (IMI) durchgeführt.
 
-b)     Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen
+b)     Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen
 
-Öffentliche Stellen des Bundes und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
+Öffentliche Stellen des Bundes und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
 
 c)     Die Bereitstellung von Informationen über das Datenschutzrecht und die Informationsfreiheit an Dritte oder an die Öffentlichkeit
 
-Öffentliche Stellen des Bundes oder der Länder für die Abstimmung von Informationsmaterialien, Presse für die Verbreitung von Informationen und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
+Öffentliche Stellen des Bundes oder der Länder für die Abstimmung von Informationsmaterialien, Presse für die Verbreitung von Informationen und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
 
 d)     Die Bearbeitung von Beschwerden zum Datenschutz und der Informationsfreiheit durch betroffene Personen über Verantwortliche und Auftragsverarbeiter
 
 Für das Datenschutzrecht:
 
-Öffentliche Stellen des Bundes, soweit diese vom Gegenstand der Beschwerde betroffen sind (insbesondere als Verantwortlicher), Aufsichtsbehörden der Länder sowie der Mitgliedstaaten der EU soweit diese für den Gegenstand der Beschwerde zuständig sind und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
+Öffentliche Stellen des Bundes, soweit diese vom Gegenstand der Beschwerde betroffen sind (insbesondere als Verantwortlicher), Aufsichtsbehörden der Länder sowie der Mitgliedstaaten der EU soweit diese für den Gegenstand der Beschwerde zuständig sind und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
 
 Für das Informationsfreiheitsrecht:
 
-Öffentliche Stellen des Bundes, soweit diese vom Gegenstand der Beschwerde betroffen sind (insbesondere als Verantwortlicher) und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
+Öffentliche Stellen des Bundes, soweit diese vom Gegenstand der Beschwerde betroffen sind (insbesondere als Verantwortlicher) und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der eigenen Dienststelle
 
 e)    Abgabe an das Bundesarchiv
 
-Durch den BfDI werden in Absprache mit dem Bundesarchiv grundsätzlich keine Akten über Beschwerden und Anfragen von Bürgerinnen und Bürgern an das Bundesarchiv abgegeben. Hiervon wird nur in Einzelfällen abgewichen, wenn das zuständige Referat zu der Einschätzung gelangt, dass es sich um einen historisch wertvollen Sachverhalt handelt.
+Durch die BfDI werden in Absprache mit dem Bundesarchiv grundsätzlich keine Akten über Beschwerden und Anfragen von Bürgerinnen und Bürgern an das Bundesarchiv abgegeben. Hiervon wird nur in Einzelfällen abgewichen, wenn das zuständige Referat zu der Einschätzung gelangt, dass es sich um einen historisch wertvollen Sachverhalt handelt.
 
 f) Handeln als zivilrechtliche Vertragspartei und in Verfolgung eigener Interessen
 
-Öffentliche Stellen des Bundes für die Unterstützung bei Vergabeverfahren und bei der finanziellen Betreuung der Beamtinnen und Beamten sowie der Tarifbeschäftigten des BfDI, andere Auftragnehmer des BfDI für die gegenseitige Unterstützung bei bestimmten Projekten und an Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der Dienststelle
+Öffentliche Stellen des Bundes für die Unterstützung bei Vergabeverfahren und bei der finanziellen Betreuung der Beamtinnen und Beamten sowie der Tarifbeschäftigten der BfDI, andere Auftragnehmer der BfDI für die gegenseitige Unterstützung bei bestimmten Projekten und an Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der Dienststelle
 
 g)     Versand von Newslettern
 
-Auftragnehmer des BfDI für die interne Verwaltungstätigkeit der Dienststelle
+Auftragnehmer der BfDI für die interne Verwaltungstätigkeit der Dienststelle
 
 5\. Speicherdauer
 -----------------
 
-Die Speicherung erfolgt im Einklang mit der Richtlinie für das Bearbeiten und Verwalten von Schriftgut in Bundesministerien, die gemäß der IT\-Richtlinie des BfDI verbindlichen Regelungsgehalt hat.
+Die Speicherung erfolgt im Einklang mit der Richtlinie für das Bearbeiten und Verwalten von Schriftgut in Bundesministerien, die gemäß der IT\-Richtlinie der BfDI verbindlichen Regelungsgehalt hat.
 
 6\. Betroffenenrechte
 ---------------------
 
-Sowohl im Rahmen der Erfüllung öffentlicher Aufgaben als auch als zivilrechtliche Vertragspartei ist der BfDI verantwortlich für die Verarbeitung von personenbezogenen Daten. Den Betroffenen stehen daher folgende Rechte aus der DSGVO zur Verfügung:
+Sowohl im Rahmen der Erfüllung öffentlicher Aufgaben als auch als zivilrechtliche Vertragspartei ist die BfDI verantwortlich für die Verarbeitung von personenbezogenen Daten. Den Betroffenen stehen daher folgende Rechte aus der DSGVO zur Verfügung:
 
 a)    Recht auf Auskunft - Artikel 15 DSGVO
 
@@ -508,21 +506,21 @@ Das Recht auf Widerspruch beinhaltet die Möglichkeit für Betroffene, in einer 
 7. Notwendigkeit der Datenverarbeitung
 --------------------------------------
 
-Die Verarbeitung von personenbezogenen Daten durch den BfDI steht im unmittelbaren Zusammenhang mit der Wahrnehmung seiner öffentlichen Aufgaben.
+Die Verarbeitung von personenbezogenen Daten durch die BfDI steht im unmittelbaren Zusammenhang mit der Wahrnehmung seiner öffentlichen Aufgaben.
 
-Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Artikel 58 Absatz 1 Buchstabe. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über Abhilfebefugnisse gemäß Artikel 58 Absatz 2 DSGVO.
+Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Artikel 58 Absatz 1 Buchstabe. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über Abhilfebefugnisse gemäß Artikel 58 Absatz 2 DSGVO.
 
-Bei der Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch den BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund von § 12 Absatz 3 IFG in Verbindung mit § 24 Absatz 4 BDSG (alte Fassung) gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über ein Beanstandungsrecht gemäß § 25 BDSG (alte Fassung).
+Bei der Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund von § 12 Absatz 3 IFG in Verbindung mit § 24 Absatz 4 BDSG (alte Fassung) gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt die BfDI über ein Beanstandungsrecht gemäß § 25 BDSG (alte Fassung).
 
 8. Sonstige Informationen
 -------------------------
 
-Es besteht hinsichtlich der Datenverarbeitung des BfDI kein Beschwerderecht bei einer Aufsichtsbehörde. Eine automatisierte Entscheidungsfindung findet nicht statt.
+Es besteht hinsichtlich der Datenverarbeitung der BfDI kein Beschwerderecht bei einer Aufsichtsbehörde. Eine automatisierte Entscheidungsfindung findet nicht statt.
 
-9. Homepage des BfDI
---------------------
+9\. Homepage der BfDI
+---------------------
 
-### 9.1 Verarbeitung von Informationen im Rahmen der technischen Bereitstellung des Internet-Angebots des BfDI
+### 9.1 Verarbeitung von Informationen im Rahmen der technischen Bereitstellung des Internet-Angebots der BfDI
 
 Die Infrastruktur des Internets erfordert den technischen Austausch von Informationen zwischen Ihrem Endgerät (z.B. Computer, Tablet oder Mobiltelefon) und sog. Servern, insbesondere Servern, die die Webseiten zum Abruf bereitstellen. Dies ist erforderlich, um eine Kommunikation zwischen Ihrem Endgerät und der Webseite herzustellen. Dabei werden für die technische Abwicklung folgende Daten verarbeitet:
 
@@ -533,7 +531,7 @@ Die Infrastruktur des Internets erfordert den technischen Austausch von Informat
 * übertragene Datenmenge
 * Meldung, ob der Zugriff / Abruf erfolgreich war
 
-Bei jedem Zugriff von Nutzenden auf das Internet-Angebot des BfDI und bei jedem Abruf einer Datei werden zudem Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Die Protokolldatei wird für einen Zeitraum von 30 Tagen vorgehalten.
+Bei jedem Zugriff von Nutzenden auf das Internet-Angebot der BfDI und bei jedem Abruf einer Datei werden zudem Daten über diesen Vorgang vorübergehend in einer Protokolldatei gespeichert und verarbeitet. Die Protokolldatei wird für einen Zeitraum von 30 Tagen vorgehalten.
 
 Im Einzelnen werden über jeden Zugriff/Abruf folgende Daten gespeichert:
 
@@ -554,11 +552,11 @@ Auf unseren Webseiten werden zwei solcher Cookies verwendet: Das Cookie mit der 
 
 Zuletzt verwenden wir ein Cookie mit der Bezeichnung „AL-SESS-S“ bzw. „AL\_LB“. Dieses Cookie benötigen wir zur sogenannten Lastverteilung („Load balancing“): Es soll eine konkrete Anfrage (also Aufruf einer Webseite) durch eine Endeinrichtung einem konkreten Server zuordnen. Hierdurch können die Anfragen auf unsere Server so verteilt werden, dass diese nicht überlastet werden.
 
-Der Einsatz dieser Cookies ist nach § 25 Absatz 2 TTDSG technisch notwendig.
+Der Einsatz dieser Cookies ist nach § 25 Absatz 2 TDDDG technisch notwendig.
 
 Techniken, wie zum Beispiel Java-Applets oder Active-X\-Controls, die es ermöglichen, das Zugriffsverhalten der Nutzer nachzuvollziehen, werden nicht eingesetzt.
 
-Bei den Verarbeitungen Im Rahmen der technischen Bereitstellung des Internet-Angebots werden wird durch den Dienstleister Informationstechnikzentrum Bund (ITZBund) unterstützt.
+Bei den Verarbeitungen im Rahmen der technischen Bereitstellung des Internet-Angebots wird durch den Dienstleister Informationstechnikzentrum Bund (ITZBund) unterstützt.
 
 ### 9.2 Kontaktformular
 
@@ -566,7 +564,7 @@ Das Kontaktformular dient der Möglichkeit zur allgemeinen Kontaktaufnahme. In d
 
 ### 9.3 Links auf Internetseiten anderer Anbieter/-innen
 
-Unser Online-Angebot enthält Links zu Internetseiten anderer Anbieter/-innen. Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit hat keinen Einfluss darauf, dass diese Anbieter/-innen die gesetzlichen Datenschutzbestimmungen einhalten. Sie sollten daher stets die Datenschutzerklärung der anderen Anbieter/-innen prüfen.
+Unser Online-Angebot enthält Links zu Internetseiten anderer Anbieter/-innen. Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit hat keinen Einfluss darauf, dass diese Anbieter/-innen die gesetzlichen Datenschutzbestimmungen einhalten. Sie sollten daher stets die Datenschutzerklärung der anderen Anbieter/-innen prüfen.
 
 [nach oben](https://www.bfdi.bund.de/DE/Meta/Datenschutz/datenschutz_node.html#Start "Zum Seitenanfang")
 
@@ -600,14 +598,14 @@ Unternavigation aller Website-Bereiche
 * [The­men & Po­si­tio­nen](https://www.bfdi.bund.de/DE/Fachthemen/Themen-Positionen/Themen-Positionen_node.html)
 * [Zen­tra­le An­lauf­stel­le](https://www.bfdi.bund.de/DE/Fachthemen/ZASt/ZASt-node.html "Zentrale Anlaufstelle")
 
-### Der BfDI
+### Die BfDI
 
-* [Über Uns](https://www.bfdi.bund.de/DE/DerBfDI/UeberUns/ueberuns_node.html)
-* [Kar­rie­re](https://www.bfdi.bund.de/DE/DerBfDI/Karriere/Karriere-node.html "Karriere")
-* [Do­ku­men­te](https://www.bfdi.bund.de/DE/DerBfDI/Dokumente/dokumente_node.html)
-* [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/DerBfDI/Datenschutzpfad/Datenschutzpfad_node.html)
-* [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/DerBfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
-* [Pres­se](https://www.bfdi.bund.de/DE/DerBfDI/Presse/presse_node.html)
+* [Über Uns](https://www.bfdi.bund.de/DE/BfDI/UeberUns/ueberuns_node.html)
+* [Kar­rie­re](https://www.bfdi.bund.de/DE/BfDI/Karriere/Karriere-node.html "Karriere")
+* [Do­ku­men­te](https://www.bfdi.bund.de/DE/BfDI/Dokumente/dokumente_node.html)
+* [Da­ten­schutz-Gar­ten](https://www.bfdi.bund.de/DE/BfDI/Datenschutzpfad/Datenschutzpfad_node.html)
+* [Kon­sul­ta­ti­ons­ver­fah­ren](https://www.bfdi.bund.de/DE/BfDI/Konsultationsverfahren/Konsultationsverfahren_node.html)
+* [Pres­se](https://www.bfdi.bund.de/DE/BfDI/Presse/presse_node.html)
 
 ### Service
 
@@ -621,9 +619,9 @@ Unternavigation aller Website-Bereiche
 
 ### Aktuelle Informationen
 
-* [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
-* [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/DerBfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
-* [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/DerBfDI/Presse/SocialMedia/socialmedia_node.html)
+* [Pres­se­mit­tei­lun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Pressemitteilungen/pressemitteilungen_node.html)
+* [Kurz­mel­dun­gen](https://www.bfdi.bund.de/DE/BfDI/Presse/Kurzmeldungen/kurzmeldungen_node.html)
+* [So­ci­al Me­dia – Mas­to­don](https://www.bfdi.bund.de/DE/BfDI/Presse/SocialMedia/socialmedia_node.html)
 * [RSS-Newsfeed - Allgemein](https://www.bfdi.bund.de/SiteGlobals/Functions/RSSFeed/Allgemein/rssnewsfeed.xml?nn=252092)
 
 ### Forum
