@@ -106,16 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [9cf67114fe89e9eda5ed82f3080a487598c27bad](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/9cf67114fe89e9eda5ed82f3080a487598c27bad)
-Author: Haowen Liu <lhw@lunacd.com>
-Date:   2024-05-31T01:31:16+00:00
+commit [64dd454d025e91c76405cd1d04f51ea8e7a4f6a7](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/64dd454d025e91c76405cd1d04f51ea8e7a4f6a7)
+Author: wheezard <90904039+wheezard@users.noreply.github.com>
+Date:   2024-09-07T05:46:36+04:00
 
-ubuntu/24.04 is the new LTS
-
-This commit makes the following changes:
-1. Makes 24.04 the new LTS
-2. Adds 24.10 as ubuntu/next
-3. Removes 23.04 as it is now EOL
+man: fixed a typo (missing closing parenthesis)
 
 **Clone this wiki**
 
