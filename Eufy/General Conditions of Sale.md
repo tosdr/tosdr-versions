@@ -2,28 +2,28 @@
 
                          
 
+     
+
            
 
-[Summer is not over yet! Unlock Great Deals and Earn Cash Back!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
+[Subscribe to the new eufy S1 Pro with eufy Flex New](https://www.eufy.com/products/t2080111?variant=43804834922682&ref=topbanner_1)
 
-[Subscribe to the new eufy S1 Pro with eufy Flex New](https://www.eufy.com/products/t2080111?variant=43804834922682&ref=topbanner_2)
+[eufy Trade in! Save Up to $150](https://www.eufy.com/appliance-trade-in?ref=topbanner_2)
 
-[Discover eufy Breast Pump S1 Pro - Your Exclusive Pumping Essential!](https://www.eufy.com/breast-pump?ref=topbanner_3)
+[Subscribe to a true PRO eufyCam and get the triple-pro gift pack.](https://www.eufy.com/eufycam-pro?ref=topbanner_3)
 
-[Get extra $100 off when you spend $1000 or more.(Limit Products)](https://www.eufy.com/eufy-security?ref=topbanner_4)
-
-[](https://www.eufy.com/livestream?ref=navimenu_9_copy)
+[](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
 [](https://www.eufy.com/?ref=logo "eufy")
 
-* [Clean](https://us.eufy.com/collections/clean?ref=navimenu_1_copy)
+* Clean
     
     1. Latest Tech
     2. Robot Vacuums
     3. Vacuum Cleaners
     4. Smart Scales
     
-    [All Clean](https://www.eufy.com/collections/clean?ref=navimenu_1_5_copy) [Help Me Choose](https://us.eufy.com/pages/appliances-let-me-choose?ref=navimenu_1_6_copy) [Accessories](https://www.eufy.com/collections/ap-accessory?ref=navimenu_1_7_copy)
+    [All Clean](https://www.eufy.com/collections/clean?ref=navimenu_1_5_copy) [Find the Perfect Robot Vacuum](https://www.eufy.com/how-to-choose-a-robot-vacuum?ref=navimenu_1_6_copy) [Trade in](https://www.eufy.com/appliance-trade-in?ref=navimenu_1_7_copy) [Accessories](https://www.eufy.com/collections/ap-accessory?ref=navimenu_1_8_copy) [Subscription Service for Accessories](https://www.eufy.com/accessories-subscription?ref=navimenu_1_9_copy)
     
     * [eufy Robot Vacuum Omni S1 Pro
         
@@ -152,16 +152,15 @@
         New](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_2_img)
     * [eufy Clean L50](https://us.eufy.com/products/t2265z11?ref=navimenu_1_3_4_3_img)
     * [eufy Clean 11S](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_4_img)
-    * [eufy Clean X8](https://us.eufy.com/products/t2262112?ref=navimenu_1_3_4_5_img)
-    * [15C max](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_6_img)
+    * [15C max](https://us.eufy.com/policies/refund-policy?ref=navimenu_1_3_4_5_img)
     
-    [See More](https://us.eufy.com/collections/robot-vacuums?Feature=Vaccum&ref=navimenu_1_3_4_7_copy)
+    [See More](https://us.eufy.com/collections/robot-vacuums?Feature=Vaccum&ref=navimenu_1_3_4_6_copy)
     
     * [eufy Smart Scale P2](https://us.eufy.com/smart-scales?ref=navimenu_1_4_1_img)
     * [eufy Smart Scale P1](https://us.eufy.com/collections/smart-scale?ref=navimenu_1_4_2_img)
     * [eufy Smart Scale C1](https://us.eufy.com/products/t9146?ref=navimenu_1_4_3_img)
     
-* [Security](https://us.eufy.com/collections/security?ref=navimenu_2_copy)
+* Security
     
     1. Latest Tech
     2. Security Cameras
@@ -178,7 +177,7 @@
     * [SoloCam S340
         
         Dual-Cam, Solar Power, Color Night Vision](https://us.eufy.com/products/t81701w1?ref=navimenu_2_1_2_img)
-    * [Video Smart Lock C33
+    * [Smart Lock C33
         
         NEW, Grip and Unlock](https://us.eufy.com/products/t85l0111?ref=navimenu_2_1_3_img)
     * [Floodlight Camera E340
@@ -189,19 +188,19 @@
         No Wi-Fi, No Power, No Problem](https://us.eufy.com/products/t86p2121?ref=navimenu_2_1_5_img)
     * [Wired Wall Light Cam S100](https://us.eufy.com/products/t84a1111?ref=navimenu_2_1_6_img)
     
-    [For Front Doors](https://us.eufy.com/collections/security?Areas=Front%20Door&ref=navimenu_2_1_9_copy)
+    [For Front Doors](https://us.eufy.com/collections/security?Application%20Environment=Front%20Door&ref=navimenu_2_1_9_copy)
     
-    [For Yards](https://us.eufy.com/collections/security?Areas=Yards&ref=navimenu_2_1_10_copy)
+    [For Yards](https://us.eufy.com/collections/security?Application%20Environment=Yards&ref=navimenu_2_1_10_copy)
     
-    [For Garages and Driveways](https://us.eufy.com/collections/security?Areas=Garage&ref=navimenu_2_1_11_copy)
+    [For Garages and Driveways](https://us.eufy.com/collections/security?Application%20Environment=Garage&ref=navimenu_2_1_11_copy)
     
-    [For Indoors](https://us.eufy.com/collections/security?Areas=Indoors&ref=navimenu_2_1_12_copy)
+    [For Indoors](https://us.eufy.com/collections/security?Application%20Environment=Indoors&ref=navimenu_2_1_12_copy)
     
-    [Solar](https://us.eufy.com/collections/security?Power%20Options=Solar&ref=navimenu_2_1_13_copy)
+    [Solar](https://us.eufy.com/collections/security?Power=Solar&ref=navimenu_2_1_13_copy)
     
-    * [](https://us.eufy.com/collections/security-camera?Power%20Options=Battery&ref=navimenu_2_2_1_copy)
+    * [](https://us.eufy.com/collections/security-camera?Power=Solar&ref=navimenu_2_2_1_copy)
         
-        [eufyCam](https://us.eufy.com/collections/security-camera?Power%20Options=Battery&ref=navimenu_2_2_1_copy)
+        [eufyCam](https://us.eufy.com/collections/security-camera?Power=Solar&ref=navimenu_2_2_1_copy)
         
         Battery-Powered Security Cameras Enhanced by HomeBase
         
@@ -209,7 +208,7 @@
         
         [eufyCam S330 (eufyCam 3)](https://us.eufy.com/products/t88711w1?ref=navimenu_2_2_1_1_copy) [eufyCam E330 (Professional)](https://us.eufy.com/products/e8600123?ref=navimenu_2_2_1_2_copy)
         
-        [Shop eufyCams](https://us.eufy.com/collections/security-camera?Power%20Options=Battery&ref=navimenu_2_2_1_all_copy) [More About eufyCams](https://us.eufy.com/eufycam?ref=navimenu_2_2_1_more_copy)
+        [Shop eufyCams](https://us.eufy.com/collections/security-camera?Power=Solar&ref=navimenu_2_2_1_all_copy) [More About eufyCams](https://us.eufy.com/eufycam?ref=navimenu_2_2_1_more_copy)
         
     * [](https://us.eufy.com/collections/solar-powered-security-camera?ref=navimenu_2_2_2_copy)
         
@@ -336,9 +335,9 @@
         [Shop Battery Video  
         Doorbells](https://us.eufy.com/collections/battery-operated-doorbell?ref=navimenu_2_3_1_all_copy) [More About Battery Video Doorbells](https://www.eufy.com/video-doorbell?ref=navimenu_2_3_1_more_copy)
         
-    * [](https://us.eufy.com/collections/video-doorbell?Power%20Options=Wired&ref=navimenu_2_3_2_copy)
+    * [](https://us.eufy.com/collections/video-doorbell?Power=Wired&ref=navimenu_2_3_2_copy)
         
-        [Wired Video Doorbells](https://us.eufy.com/collections/video-doorbell?Power%20Options=Wired&ref=navimenu_2_3_2_copy)
+        [Wired Video Doorbells](https://us.eufy.com/collections/video-doorbell?Power=Wired&ref=navimenu_2_3_2_copy)
         
         See Visitors in 2K Clarity, Anytime, Anywhere
         
@@ -346,7 +345,7 @@
         
         [Video Doorbell (Wired) S330](https://us.eufy.com/products/e8203111?ref=navimenu_2_3_2_1_copy)
         
-        [Shop Wired Video Doorbells](https://us.eufy.com/collections/video-doorbell?Power%20Options=Wired&ref=navimenu_2_3_2_all_copy) [More About Wired Video Doorbells](https://www.eufy.com/video-doorbell?ref=navimenu_2_3_2_more_copy)
+        [Shop Wired Video Doorbells](https://us.eufy.com/collections/video-doorbell?Power=Wired&ref=navimenu_2_3_2_all_copy) [More About Wired Video Doorbells](https://www.eufy.com/video-doorbell?ref=navimenu_2_3_2_more_copy)
         
     
     * [Video Doorbell E340
@@ -452,65 +451,53 @@
     
     [See More](https://us.eufy.com/collections/smart-lock?ref=navimenu_2_5_6_copy)
     
-    * [](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_1_copy)
+    * [](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_1_copy)
         
-        [Smart Track](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_1_copy)
-        
-        Never Lose Track Again
-        
-        Feature Products
-        
-        [eufy Security SmartTrack Link](https://us.eufy.com/products/bundle-t87b0011-2?ref=navimenu_2_6_1_1_copy) [eufy Security SmartTrack Card](https://us.eufy.com/products/bundle-t87b2011-2?ref=navimenu_2_6_1_2_copy)
-        
-        [Shop SmartTrack](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_1_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_1_more_copy)
-        
-    * [](https://us.eufy.com/collections/pet?ref=navimenu_2_6_2_copy)
-        
-        [Pet](https://us.eufy.com/collections/pet?ref=navimenu_2_6_2_copy)
-        
-        Smart Solutions for Happy Pets
-        
-        Feature Products
-        
-        [eufy Pet Dog Camera D605](https://us.eufy.com/products/t7200121?ref=navimenu_2_6_2_1_copy) [eufy Pet Camera Pro N140](https://us.eufy.com/products/t72031a1?ref=navimenu_2_6_2_2_copy)
-        
-        [Shop Pet](https://us.eufy.com/collections/pet?ref=navimenu_2_6_2_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_2_more_copy)
-        
-    * [](https://us.eufy.com/collections/smart-box?ref=navimenu_2_6_3_copy)
-        
-        [Smart Boxes](https://us.eufy.com/collections/smart-box?ref=navimenu_2_6_3_copy)
-        
-        Always be in Control of Your Belongings
-        
-        Feature Products
-        
-        [SmartDrop](https://us.eufy.com/products/t8790?ref=navimenu_2_6_3_1_copy) [Smart Safe S12](https://us.eufy.com/products/t7401111?ref=navimenu_2_6_3_2_copy)
-        
-        [Shop Smart Boxes](https://us.eufy.com/collections/smart-box?ref=navimenu_2_6_3_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_3_more_copy)
-        
-    * [](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_4_copy)
-        
-        [Alarm Systems](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_4_copy)
+        [Alarm Systems](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_1_copy)
         
         A Safer Home in the Palm of Your Hand
         
         Feature Products
         
-        [5-Piece Home Alarm Kit](https://us.eufy.com/products/t8990?ref=navimenu_2_6_4_1_copy) [Entry Sensor](https://us.eufy.com/products/t89000d4?ref=navimenu_2_6_4_2_copy)
+        [5-Piece Home Alarm Kit](https://us.eufy.com/products/t8990?ref=navimenu_2_6_1_1_copy) [Entry Sensor](https://us.eufy.com/products/t89000d4?ref=navimenu_2_6_1_2_copy)
         
-        [Shop Alarm Systems](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_4_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_4_more_copy)
+        [Shop Alarm Systems](https://us.eufy.com/collections/alarm-system?ref=navimenu_2_6_1_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_1_more_copy)
         
-    * [](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_5_copy)
+    * [](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_2_copy)
         
-        [Accessories](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_5_copy)
+        [Accessories](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_2_copy)
         
         Accessories for Security Products
         
         Feature Products
         
-        [HomeBase S380 (HomeBase 3)](https://us.eufy.com/products/t80301d1?ref=navimenu_2_6_5_1_copy) [eufyCam Solar Panel Charger](https://us.eufy.com/products/t8700021?ref=navimenu_2_6_5_2_copy)
+        [HomeBase S380 (HomeBase 3)](https://us.eufy.com/products/t80301d1?ref=navimenu_2_6_2_1_copy) [eufyCam Solar Panel Charger](https://us.eufy.com/products/t8700021?ref=navimenu_2_6_2_2_copy)
         
-        [Shop Accessories](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_5_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_5_more_copy)
+        [Shop Accessories](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_2_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_2_more_copy)
+        
+    * [](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_3_copy)
+        
+        [Smart Track](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_3_copy)
+        
+        Never Lose Track Again
+        
+        Feature Products
+        
+        [eufy Security SmartTrack Link](https://us.eufy.com/products/bundle-t87b0011-2?ref=navimenu_2_6_3_1_copy) [eufy Security SmartTrack Card](https://us.eufy.com/products/bundle-t87b2011-2?ref=navimenu_2_6_3_2_copy)
+        
+        [Shop SmartTrack](https://us.eufy.com/collections/smarttracker?ref=navimenu_2_6_3_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_3_more_copy)
+        
+    * [](https://us.eufy.com/collections/pet?ref=navimenu_2_6_4_copy)
+        
+        [Pet](https://us.eufy.com/collections/pet?ref=navimenu_2_6_4_copy)
+        
+        Smart Solutions for Happy Pets
+        
+        Feature Products
+        
+        [eufy Pet Dog Camera D605](https://us.eufy.com/products/t7200121?ref=navimenu_2_6_4_1_copy) [eufy Pet Camera Pro N140](https://us.eufy.com/products/t72031a1?ref=navimenu_2_6_4_2_copy)
+        
+        [Shop Pet](https://us.eufy.com/collections/pet?ref=navimenu_2_6_4_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_2_6_4_more_copy)
         
     
     * Alarm System
@@ -533,21 +520,23 @@
     
     [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_2_5_copy)
     
-    * [eufy Pet Dog Camera D605](https://us.eufy.com/products/t7200121?ref=navimenu_2_6_3_1_img)
-    * [eufy Pet Camera Pro N140](https://us.eufy.com/products/t72031a1?ref=navimenu_2_6_3_2_img)
-    * [Pet Water Fountain](https://us.eufy.com/products/t7320121?ref=navimenu_2_6_3_3_img)
+    * [eufy Pet Camera Pro N140](https://us.eufy.com/products/t72031a1?ref=navimenu_2_6_3_1_img)
+    * [Pet Water Fountain](https://us.eufy.com/products/t7320121?ref=navimenu_2_6_3_2_img)
     
-    [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_3_4_copy)
+    [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_3_3_copy)
     
     * [SmartDrop, Smart Delivery Box](https://us.eufy.com/products/t8790?ref=navimenu_2_6_4_1_img)
     
     [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_4_2_copy)
     
-* Baby New
+* Baby
     
     1. Baby
+    2. Breast Pump
+    3. Smart Socks
+    4. Baby Monitors
     
-    [See More](https://www.eufy.com/collections/baby?ref=navimenu_3_2_copy)
+    [Accessories](https://www.eufy.com/collections/breast-pump-accessories?ref=navimenu_3_5_copy) [See More](https://www.eufy.com/collections/baby?ref=navimenu_3_6_copy) [Blog](https://www.eufy.com/blogs/baby?ref=navimenu_3_7_copy) [Pro Mom Discount](https://us.eufy.com/pages/govx-id-military-discount?ref=navimenu_3_8_copy)
     
     * [](https://us.eufy.com/collections/smart-sock?ref=navimenu_3_1_1_copy)
         
@@ -599,68 +588,128 @@
     
     [See More](https://us.eufy.com/collections/baby-monitor?ref=navimenu_3_1_2_4_copy)
     
+    * [Breast Pump S1 Pro](https://www.eufy.com/products/t8d04121?ref=navimenu_3_2_1_img)
+    * [Breast Pump S1](https://www.eufy.com/products/t8d02181?ref=navimenu_3_2_2_img)
+    * [Breast Pump E10](https://www.eufy.com/products/t8d03121?ref=navimenu_3_2_3_img)
+    
+    * [Smart Sock S340](https://www.eufy.com/products/e8340133?ref=navimenu_3_3_1_img)
+    * [Smart Sock S320](https://www.eufy.com/products/e8340132?ref=navimenu_3_3_2_img)
+    * [Smart Sock S340 2-Cam Bundle](https://www.eufy.com/products/bundle-e8340133-1-t8360121-1?ref=navimenu_3_3_3_img)
+    
+    * [Baby Monitor E110](https://www.eufy.com/products/t83001d2?ref=navimenu_3_4_1_img)
+    * [Baby Monitor E210](https://www.eufy.com/products/e83121d1?ref=navimenu_3_4_2_img)
+    * [Baby Monitor E110 2-Cam Bundle](https://www.eufy.com/products/bundle-t83001d2-1-t83101w1-1?ref=navimenu_3_4_3_img)
+    
+* Smart Lights
+    
+    1. Latest Tech
+    2. Smart LED Lights
+    
+    [Explore Smart Lighting](https://www.eufy.com/smart-lighting?ref=navimenu_4_3_copy) [Blog](https://www.eufy.com/blogs/smart-lights?ref=navimenu_4_4_copy)
+    
+    * [eufy Permanent Outdoor Lights E22（150ft/45m）
+        
+        New](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_1_1_img)
+    * [eufy Outdoor Spotlights E10（2pack）
+        
+        New](https://us.eufy.com/products/t8l20111?ref=navimenu_4_1_2_img)
+    * [eufy Outdoor Pathway Lights E10(4 pack)
+        
+        New](https://us.eufy.com/products/t8l30111?ref=navimenu_4_1_3_img)
+    
+    * [](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_copy)
+        
+        [Outdoor Lights](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_copy)
+        
+        Illuminate exterior spaces with smart lighting
+        
+        Feature Products
+        
+        [eufy Permanent Outdoor Lights E22（150ft/45m）](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_2_1_1_copy) [Outdoor String Lights E10](https://us.eufy.com/products/t8l10111-98?ref=navimenu_4_2_1_2_copy)
+        
+        [Shop Outdoor Lights](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_1_more_copy)
+        
+    * [](https://us.eufy.com/collections/landscape-lighting?ref=navimenu_4_2_2_copy)
+        
+        [Landscape Lights](https://us.eufy.com/collections/landscape-lighting?ref=navimenu_4_2_2_copy)
+        
+        Showcase garden beauty and light pathways
+        
+        Feature Products
+        
+        [eufy Outdoor Pathway Lights E10(4 pack)](https://us.eufy.com/products/t8l30111?ref=navimenu_4_2_2_1_copy) [eufy Outdoor Spotlights E10（2pack）](https://us.eufy.com/products/t8l20111?ref=navimenu_4_2_2_2_copy)
+        
+        [Shop Landscape Lighting](https://us.eufy.com/collections/landscape-lighting?ref=navimenu_4_2_2_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_2_more_copy)
+        
+    * [](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_copy)
+        
+        [Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_copy)
+        
+        Festive lights to brighten special occasions
+        
+        Feature Products
+        
+        [eufy Permanent Outdoor Lights E22 100ft](https://us.eufy.com/products/t8l02121?ref=navimenu_4_2_3_1_copy) [Indoor Floor Lamp E10](https://us.eufy.com/products/t8l40111-98?ref=navimenu_4_2_3_2_copy)
+        
+        [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/policies/refund-policy?ref=navimenu_4_2_3_more_copy)
+        
+    
 * Special Offers Hot
     
-    [](https://www.eufy.com/eufy-security?ref=navimenu_4_1_1_img)
+    [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    Early Access, Summer Safe
+    Secure a Better Home
     
-    [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_4_1_1_img)
+    [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_4_1_2_img)
+    [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
     Clean a Better Home
     
-    [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_4_1_2_img)
-    
-    [](https://www.eufy.com/eufy-sales?ref=navimenu_4_1_3_img)
-    
-    Kick Off Summer with Exclusive Savings
-    
-    [Learn More](https://www.eufy.com/eufy-sales?ref=navimenu_4_1_3_img)
+    [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
 * Business
     
-    [](https://www.eufy.com/smart-business-solutions?ref=navimenu_5_1_1_img)
+    [](https://www.eufy.com/smart-business-solutions?ref=navimenu_6_1_1_img)
     
     eufy Business
     
-    [Learn More](https://www.eufy.com/smart-business-solutions?ref=navimenu_5_1_1_img)
+    [Learn More](https://www.eufy.com/smart-business-solutions?ref=navimenu_6_1_1_img)
     
-    [](https://www.eufy.com/partner-program?ref=navimenu_5_1_2_img)
+    [](https://www.eufy.com/partner-program?ref=navimenu_6_1_2_img)
     
     eufy Partner Program
     
-    [Join Now](https://www.eufy.com/partner-program?ref=navimenu_5_1_2_img)
+    [Join Now](https://www.eufy.com/partner-program?ref=navimenu_6_1_2_img)
     
-* [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_6_copy)
+* [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
 * Explore
     
     About eufy
     
-    [eufy Brand story](https://www.eufy.com/about?ref=navimenu_7_1_1_copy) [Blog](https://www.eufy.com/blogs/home?ref=navimenu_7_1_2_copy) [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_1_3_copy) [Home Bundle Sale](https://www.eufy.com/eufy-bundle-deals?ref=navimenu_7_1_4_copy) [Hot Search](https://us.eufy.com/pages/smart-home-appliances-hot-search?ref=navimenu_7_1_5_copy)
+    [eufy Brand story](https://www.eufy.com/about?ref=navimenu_8_1_1_copy) [Blog](https://www.eufy.com/blogs/home?ref=navimenu_8_1_2_copy) [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_8_1_3_copy) [Home Bundle Sale](https://www.eufy.com/eufy-bundle-deals?ref=navimenu_8_1_4_copy) [Hot Search](https://us.eufy.com/pages/smart-home-appliances-hot-search?ref=navimenu_8_1_5_copy)
     
     Explore
     
-    [Became an Affiliate](https://www.eufy.com/affiliate?ref=navimenu_7_2_1_copy) [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=navimenu_7_2_2_copy) [Cooperation Purchase](https://www.eufy.com/partner-program?ref=navimenu_7_2_3_copy) [eufy Clean Community](https://community.anker.com/tags/eufy?ref=navimenu_7_2_4_copy) [eufy Security Community](https://community.security.eufy.com/?ref=navimenu_7_2_5_copy) [Student Discount](https://connect.studentbeans.com/v4/hosted/eufy/us?ref=navimenu_7_2_6_copy) [eufyCredits Rewards Program](https://www.eufy.com/eufycredits?ref=navimenu_7_2_7_copy) [Student & 16-26 Discount](https://www.eufy.com/youthdiscount?ref=navimenu_7_2_8_copy) [55+ Year Old Discount](https://www.eufy.com/seniordiscount?ref=navimenu_7_2_9_copy)
+    [Became an Affiliate](https://www.eufy.com/affiliate?ref=navimenu_8_2_1_copy) [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=navimenu_8_2_2_copy) [Myeufy Prizes](https://www.eufy.com/eufyclean-prizes?ref=navimenu_8_2_3_copy) [Cooperation Purchase](https://www.eufy.com/partner-program?ref=navimenu_8_2_4_copy) [eufy Clean Community](https://community.anker.com/tags/eufy?ref=navimenu_8_2_5_copy) [eufy Security Community](https://community.security.eufy.com/?ref=navimenu_8_2_6_copy) [Student Discount](https://connect.studentbeans.com/v4/hosted/eufy/us?ref=navimenu_8_2_7_copy) [eufyCredits Rewards Program](https://www.eufy.com/eufycredits?ref=navimenu_8_2_8_copy) [Student & 16-26 Discount](https://www.eufy.com/youthdiscount?ref=navimenu_8_2_9_copy) [55+ Year Old Discount](https://www.eufy.com/seniordiscount?ref=navimenu_8_2_10_copy)
     
 * Support
     
-    [Smart Help Center](https://support.eufy.com/s/?ref=navimenu_8_1_1_copy) [Warranty Information](https://us.eufy.com/policies/refund-policy?ref=navimenu_8_1_2_copy) [Process a Warranty](https://us.eufy.com/pages/exchange?ref=navimenu_8_1_3_copy) [Order FAQ](https://www.eufy.com/faq?ref=navimenu_8_1_4_copy) [Order Tracker](https://us.eufy.com/apps/aftership?ref=navimenu_8_1_5_copy) [Contact Us](https://www.eufy.com/contact?ref=navimenu_8_1_6_copy) [Security Web Portal](https://mysecurity.eufylife.com/#/login?ref=navimenu_8_1_7_copy) [Exclusive Beta Opportunity](https://passport.eufy.com/login?login_app=xtest&redirect=https%3A%2F%2Fxtest.anker.com%2F%3FredirectUrl%3Dhttps%253A%252F%252Fxtest.anker.com%252F%253Fchannel%253Dus-eufy&ref=navimenu_8_1_8_copy) [Officially Certified Refurbished Products](https://www.eufy.com/refurbished-products?ref=navimenu_8_1_9_copy)
+    [Smart Help Center](https://support.eufy.com/s/?ref=navimenu_9_1_1_copy) [Warranty Information](https://us.eufy.com/policies/refund-policy?ref=navimenu_9_1_2_copy) [Process a Warranty](https://us.eufy.com/pages/exchange?ref=navimenu_9_1_3_copy) [Order FAQ](https://www.eufy.com/faq?ref=navimenu_9_1_4_copy) [Order Tracker](https://us.eufy.com/apps/aftership?ref=navimenu_9_1_5_copy) [Contact Us](https://www.eufy.com/contact?ref=navimenu_9_1_6_copy) [Security Web Portal](https://mysecurity.eufylife.com/#/login?ref=navimenu_9_1_7_copy) [Exclusive Beta Opportunity](https://passport.eufy.com/login?login_app=xtest&redirect=https%3A%2F%2Fxtest.anker.com%2F%3FredirectUrl%3Dhttps%253A%252F%252Fxtest.anker.com%252F%253Fchannel%253Dus-eufy&ref=navimenu_9_1_8_copy) [Officially Certified Refurbished Products](https://www.eufy.com/refurbished-products?ref=navimenu_9_1_9_copy)
     
 
 Search our shop
 
 Sign in / Sign up
 
-[Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_11_2_copy)
+[Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_12_2_copy)
 
-[Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_11_3_copy)
+[Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_12_3_copy)
 
 0
 
-[](https://www.eufy.com/livestream?ref=navimenu_9_copy)
+[](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
 [](https://us.eufy.com/?ref=logo "eufy")
 
@@ -672,16 +721,17 @@ Search our shop
 
 * Clean
 * Security
-* Baby New
+* Baby
+* Smart Lights
 * Special Offers Hot
 * Business
-* [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_6_copy)
+* [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
 * Explore
 * Support
 
-* [Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_11_2_copy)
-* [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_11_3_copy)
+* [Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_12_2_copy)
+* [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_12_3_copy)
 
 Sign in Sign up
 
@@ -706,7 +756,7 @@ This limited warranty provided by the manufacturer in no way affects a potential
 | RoboVac | 12 Months | 12 Months |
 | HomeVac | 24 Months | NA  |
 | Smart Home | 18 months | NA  |
-| Smart Scales | 15 Months | 15 Months |
+| Smart Scales | 24 Months | 24 Months |
 | Accessories | 30 Days | NA  |
 | Security | 12 Months | 12 Months |
 
@@ -1096,7 +1146,7 @@ If the price drops within 30 days of the order you placed, you can contact [supp
 
 ### Stay Up to Date
 
-Sign up for all the latest news and get 10% off and up to $50 Off.
+Sign up for all the latest news and enjoy 10% off, plus save up to $50.
 
 Register
 
@@ -1133,8 +1183,8 @@ Contact us
 
 * Shop and Learn
     
-    * [Clean](https://us.eufy.com/collections/clean)
-    * [Security](https://us.eufy.com/collections/security)
+    * [Robot Vacuum](https://us.eufy.com/collections/robot-vacuums)
+    * [Security Cameras](https://us.eufy.com/collections/security-camera)
     * [Baby](https://us.eufy.com/collections/baby)
     * [Pet](https://us.eufy.com/collections/pet)
     * [Scales](https://us.eufy.com/collections/smart-scale)
@@ -1145,6 +1195,7 @@ Contact us
     * [My Codes](https://passport.eufy.com/asset/codes)
     * [eufyCredits Rewards Program](https://us.eufy.com/eufycredits)
     * [Refer Friends to get up to $80 per referral](https://us.eufy.com/referral-new)
+    * [Myeufy Prizes](https://www.eufy.com/eufyclean-prizes)
 * Programs
     
     * [Cooperation Purchase](https://us.eufy.com/partner-program)
@@ -1162,14 +1213,14 @@ Contact us
     * [Smart Help Center](https://support.eufy.com/s/)
     * [Warranty Information](https://us.eufy.com/policies/refund-policy)
     * [Process a Warranty](https://us.eufy.com/pages/exchange)
-    * [Report a Vulnerability](https://passport.eufy.com/vulnerability-form)
+    * [Report a Vulnerability](https://passport.eufy.com/vulnerability-management)
     * [Download e-Manual](https://support.eufy.com/s/articleRecommend?type=DownLoad&secondType=Manuals)
 * Explore
     
     * [eufy Brand Story](https://us.eufy.com/about)
     * [Blog](https://us.eufy.com/blogs)
     * [Contact Us](https://us.eufy.com/contact)
-    * [Security Commitment](https://us.eufy.com/pages/commitment-to-protection)
+    * [Privacy Commitment](https://www.eufy.com/privacy-commitment)
     * [eufy Security Community](https://community.security.eufy.com/)
     * [eufy Clean Community](https://community.anker.com/tags/eufy)
 
@@ -1184,7 +1235,7 @@ Download App
 Security
 
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/appstore_3_50x.png?v=1657087633)](https://apps.apple.com/app/id1424956516)
-* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://www.eufy.com/appliances-app-download)
+* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam)
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/Web_Portal_50x.png?v=1657087633)](https://mysecurity.eufylife.com/#/login?type=/)
 
 eufy Clean
@@ -1199,9 +1250,9 @@ eufylife
 
 American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa
 
+* [](https://anker.com/about?ref=footer)
 * [](https://anker.com/?ref=footer)
-* [](https://anker.com/?ref=footer)
-* [](https://us.soundcore.com/?ref=footer)
+* [](https://www.soundcore.com/?ref=footer)
 * [](https://www.eufy.com/?ref=footer)
 * [](https://us.seenebula.com/?ref=footer)
 * [](https://ankermake.com/?ref=footer)
