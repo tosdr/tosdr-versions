@@ -1,8 +1,8 @@
-![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-174052701496)                     
+![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-175946397168)                     
 
 ![](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1)
 
-[![Prompter People](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/prompterlogo.svg?t=1712685778)](https://prompterpeople.com/)
+[![Prompter People](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/prompterlogo.svg?t=1725552413)](https://prompterpeople.com/)
 
 [Menu](#)
 
@@ -215,14 +215,14 @@ Dated: April 15, 2021
 
 Update: April 20, 2022 - Email Contact updated to "[Support@PrompterPeople.com](mailto:support@PrompterPeople.com)"
 
-![](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/footerLogo.png?t=1712685778)
+![](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/footerLogo.png?t=1725552413)
 
 * [Facebook](https://www.facebook.com/prompterpeople "Facebook")
-* [Twitter](https://twitter.com/PrompterPeople "Twitter")
+* [Twitter](https://x.com/PrompterPeople "Twitter")
 * [YouTube](https://www.youtube.com/c/PrompterPeoples "YouTube")
 * [Pinterest](https://www.pinterest.com/prompterpeople/ "Pinterest")
 * [Instagram](https://www.instagram.com/prompter.people/ "Instagram")
-* [![](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/vimeo.png?t=1712685778)](https://vimeo.com/user15564631)
+* [![](https://cdn10.bigcommerce.com/s-2cnws/templates/__custom/images/vimeo.png?t=1725552413)](https://vimeo.com/user15564631)
 * [](mailto:chuck@prompterpeople.com)
 
 408-866-9100
