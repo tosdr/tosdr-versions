@@ -1,4 +1,6 @@
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.13.0)](https://www.qustodio.com/en/)
+[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -13,7 +15,9 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.13.0)](https://www.qustodio.com/en/)
+[**BACK TO SCHOOL SALE |** Get 10% OFF Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.14.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
@@ -84,11 +88,11 @@
 
 **Qustodio Family**
 
-**V 02 05 2024**
+**V 2024 08 01**
 
 * **INTRODUCTION AND ACCEPTANCE**
 
-Please read carefully these terms and conditions (hereinafter, “Terms of Service”) applicable to the use of Qustodio Family platform (hereinafter, “Qustodio Platform”) and Qustodio End-Point software (hereinafter, “Qustodio Software”), Qustodio Family services (collectively, the “Qustodio Services”) and Qustodio one-on-one counselling services (hereinafter “Family Therapy”) provided by Qustodio Technologies, S.L. (hereinafter “Qustodio”,”We” or “Us”) with CIF B-65825523 and domicile at Roger de Flor 193, 08013, Barcelona, Spain, registered in the Companies Registry of Barcelona, volume 38188 Sheet B322132 page 78.
+Please read carefully these terms and conditions (hereinafter, “Terms of Service”) applicable to the use of Qustodio Family platform (hereinafter, “Qustodio Platform”) and Qustodio End-Point software (hereinafter, “Qustodio Software”), Qustodio Family services (collectively, the “Qustodio Services”) and Qustodio one-on-one coaching services (hereinafter “Family Coaching”) provided by Qustodio Technologies, S.L. (hereinafter “Qustodio”,”We” or “Us”) with CIF B-65825523 and domicile at Roger de Flor 193, 08013, Barcelona, Spain, registered in the Companies Registry of Barcelona, volume 38188 Sheet B322132 page 78.
 
 If you as a subscriber to Qustodio Services and licensee of Qustodio Software (hereinafter “You” upon acceptance of the Terms of Service) do not agree to the Terms of Service, you must not install Qustodio Software or use Qustodio Services. 
 
@@ -106,7 +110,7 @@ The purpose is to allow you to control the use of these Monitoring Devices by ch
 
 Qustodio Services are designed and intended exclusively for families and non-professional, non-educational environments. If you use Qustodio Services outside the family context, you do so at your own responsibility and agree that only these Terms of Service will apply to you. You will have access to the service levels and support established in these Terms of Service, and not those provided for other services offered by us.
 
-The Family Therapy service, if selected, can connect You with professionals specialized in helping families with internet usage. Qustodio will only connect You with those professionals upon your request, and is not involved in the provision of any professional services. You can find further information in Annex 1 below.
+The Family Coaching service, if selected, can connect You with professionals specialized in helping families with internet usage. Qustodio will only connect You with those professionals upon your request, and is not involved in the provision of any professional services. You can find further information in Annex 1 below.
 
 * **Use of Qustodio Services**
 
@@ -138,7 +142,9 @@ In any case, it will be your sole responsibility to ensure the legitimate use of
 
 **Security.** You understand that Qustodio Services may be used to transmit the content of the Monitored Devices and the content of communications (including first and last names, emails, messaging or social networking communications, etc.) will be transmitted in an encrypted manner over the Internet.
 
-**Qustodio Software**. Qustodio grants you a revocable, non-transferable license to install and use one copy of Qustodio Software on the number of Monitored Devices for which a license has been purchased.  Qustodio Software includes the QT programs dynamically linked to Qustodio, which are distributed under the LGPL v2.1 license, online at [https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html). A copy of this license is available at the web address (URL) indicated. You are prohibited from (a) reproducing (except for a backup copy), modifying, distributing and communicating to third parties Qustodio Software outside your computer systems; (b) using Qustodio for the provision of remote services to third parties; (c) reverse engineering and decompiling any part of Qustodio software. The following conditions will also apply depending on whether the subscription is contracted:
+**Qustodio Software**. Qustodio grants you a revocable, non-transferable license to install and use one copy of Qustodio Software on the number of Monitored Devices for which a license has been purchased.  Qustodio Software includes third party software which information you can find [here](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html). You are prohibited from (a) reproducing (except for a backup copy), modifying, distributing and communicating to third parties Qustodio Software outside your computer systems; (b) using Qustodio for the provision of remote services to third parties; (c) reverse engineering and decompiling any part of Qustodio software, except as required to comply with the third party software licenses indicated above.
+
+Subscription types. The following conditions will also apply depending on whether the subscription is contracted:
 
 * **Free Qustodio Account**. You may use Qustodio Software for Monitored Devices with certain limited features under the above license at no charge (as indicated by Licensor) for domestic use only under the minimum warranty criteria known as “as-is” software. This license includes only the authorization to download, install and use Qustodio Software for Monitored Devices that are under your control and in your home.
 * **Premium Qustodio Account**. You may install Qustodio Software for Monitored Devices under a Premium Qustodio Account on additional Devices and with additional functionality as indicated in the contracted Plan. In the event your Premium account offers an unlimited number of Monitored Devices, be advised that Qustodio reserves the right to contact you upon the addition of 25 devices or more, for the purpose of reviewing your account. This is to ensure compliance with the authorized usage stipulations of the Qustodio Service. Upon successful completion of this review, Qustodio will extend the number of Monitored Devices that may be linked to your Qustodio Account in tiers of 25 additional devices.
@@ -177,7 +183,9 @@ In any case, it will be your sole responsibility to ensure the legitimate use of
 
 **Non-application of the right of withdrawal.** You are aware that in the event that the applicable consumer regulations recognize you a right of withdrawal, since this is a service provision that is fully performed when each new subscription period begins with the simple provision of your user account (i.e., you have been provided with the tools to use your Qustodio Account or you already had them available from other subscription periods), in accordance with the applicable regulations you can no longer exercise your right of withdrawal for the purpose of waiving your subscription for that period and recovering payment for that subscription period.
 
-**iOs Users.** Upon installation of Qustodio Software for Monitored Devices with iOS operating system, due to the technical configuration of the system, all data transmitted to and from the Device is channeled through our servers, in such a way we are visible to a third party such as your Internet access provider and the owner of the IP address from which communications originate. Although we are NOT an Internet access provider, due to this configuration we may receive notifications (“Notification”) from third parties regarding the User’s online behaviour, including but not limited to downloading and/or viewing online content, posting online content, opening online accounts, and/or using third party applications and programs. If we receive such a Notice stating your User engages in any activity that is or may be illegal or violate the rights of third parties, or if we believe (in our reasonable judgment) any activity by your Users is or may be detrimental to the provision of the Services, we will notify you. We reserve the right to (and will, if we are obliged to by court or applicable law or to protect our interests and business, and in particular, but without limitation, if we receive a Notice from a third party or if user activity on a device is or may, in our opinion, be detrimental to the provision of the Services): (a) suspend or block access to your Device(s) to the Internet or to certain websites/internet services; and (b) provide any party providing the Notification to us or a Court or public authority with your name and contact details and/or (c) terminate your Account. YOU CONSENT TO THE DISCLOSURE OF YOUR CONTACT DATA FOR THIS PURPOSE AND SUSPECTED PURPOSE. We will not suspend your access or provide such data to any third party without first notifying you.
+**iOs Users.**
+
+**Device management and notifications.** installation of Qustodio Software for Monitored Devices with iOS operating system, due to the technical configuration of the system, all data transmitted to and from the Device is channeled through our servers, in such a way we are visible to a third party such as your Internet access provider and the owner of the IP address from which communications originate. Although we are NOT an Internet access provider, due to this configuration we may receive notifications (“Notification”) from third parties regarding the User’s online behaviour, including but not limited to downloading and/or viewing online content, posting online content, opening online accounts, and/or using third party applications and programs. If we receive such a Notice stating your User engages in any activity that is or may be illegal or violate the rights of third parties, or if we believe (in our reasonable judgment) any activity by your Users is or may be detrimental to the provision of the Services, we will notify you. We reserve the right to (and will, if we are obliged to by court or applicable law or to protect our interests and business, and in particular, but without limitation, if we receive a Notice from a third party or if user activity on a device is or may, in our opinion, be detrimental to the provision of the Services): (a) suspend or block access to your Device(s) to the Internet or to certain websites/internet services; and (b) provide any party providing the Notification to us or a Court or public authority with your name and contact details and/or (c) terminate your Account. YOU CONSENT TO THE DISCLOSURE OF YOUR CONTACT DATA FOR THIS PURPOSE AND SUSPECTED PURPOSE. We will not suspend your access or provide such data to any third party without first notifying you.
 
 * **MISCELLANEOUS** 
 
@@ -189,27 +197,30 @@ In any case, it will be your sole responsibility to ensure the legitimate use of
 
 **Links.** Our Qustodio Platform contains links to third-party websites. We do not make any representations of any kind, nor do we assume any responsibility for or have any control over such sites. Any third-party content or a link to a third-party website is for information purposes only and is not part of the Qustodio Service.
 
+**Open source licenses.** Our Qustodio Platform utilizes open source software that is subject to various licenses. By using our Qustodio Platform, you agree to the terms and conditions set forth by these open source licenses.  
+You can find more information about the open source licenses we use on the following link.
+
 **Jurisdiction and applicable law.** These Terms of Service shall be governed by Spanish law. All disputes, discrepancies, controversies, questions or claims resulting from the interpretation, execution, breach, resolution or invalidity of this contract or related to it, directly or indirectly, shall be submitted, with express waiver of the jurisdiction that may correspond, to the Court of the subscriber’s (You) domicile. Notwithstanding the foregoing, both parties will make all reasonable efforts to try to resolve disputes amicably.
 
 **Third Party Beneficiary**: If you downloaded the Qustodio Software from the “Apple Store”, you acknowledge that Apple and Apple’s subsidiaries are third party beneficiaries of these Terms of Service. Upon Your acceptance of these Terms of Service, Apple will have the right to enforce these Terms of Service against You, as a third party beneficiary. 
 
 **Online Dispute Resolution (ODR)** The European Commission provides an online dispute resolution platform which is available at the following link: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)[](http://ec.europa.eu/consumers/odr/)
 
-**Annex 1 – Family Therapy.** 
-------------------------------
+**Annex 1 – Family Coaching.** 
+-------------------------------
 
-Through the Family Therapy service, You can connect with professionals specialized in helping families with internet usage behavior (“Coaches”). Qustodio’s role through Family Therapy is limited to enabling you to connect with a Coach and facilitating payment. 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Through the Family Coaching service, You can connect with professionals specialized in helping families with internet usage behavior (“Coaches”). Qustodio’s role through Family Coaching is limited to enabling you to connect with a Coach and facilitating payment. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Coaches are independent providers and are not Qustodio’s employees, representatives, or contractors. They will provide you with the one-to-one coaching sessions (“Sessions”) under their own terms of service that you are required to accept before scheduling the Session. We recommend you carefully read the Coaches’ terms before accepting them.
 
 After you select the Coach, accept his/her terms of service and pay the coaching fees, the Coach will get in touch with you. Be aware that these fees are charged periodically until you unsubscribe from the coaching service. If you are not satisfied with the Coach’s services, you can unsubscribe at any time, but Qustodio will not intervene or otherwise be involved in any dispute or claim relating to the Coach’s independent services. 
 
-During the subscription period, you can change to a different Coach you can find on Family Therapy. If a Coach you connected with stops using the Family Therapy, we will notify you and you will have the opportunity to schedule Sessions with other Coaches if you wish.
+During the subscription period, you can change to a different Coach you can find on Family Coaching. If a Coach you connected with stops using the Family Coaching, we will notify you and you will have the opportunity to schedule Sessions with other Coaches if you wish.
 
-You recognize that Qustodio is not the provider of the Sessions, has no control over the services provided to You by the Coaches, and neither Qustodio nor its directors, officers or personnel are involved in the provision of the coaching sSessions.
+You recognize that Qustodio is not the provider of the Sessions, has no control over the services provided to You by the Coaches, and neither Qustodio nor its directors, officers or personnel are involved in the provision of the coaching Sessions.
 
-Qustodio is not affiliate with any Coach. The way Coaches are shown in the Family Therapy is not intended to endorse any of them. The Family Therapy will show you available Coaches in random order or based on the criteria specifically chosen by You. 
+Qustodio is not affiliate with any Coach. The way Coaches are shown in the Family Coaching is not intended to endorse any of them. The Family Coaching will show you available Coaches in random order or based on the criteria specifically chosen by You. 
 
 Qustodio has no access to any data or information of the Sessions and does not endorse any specific test, medication, recommendations, products, or procedures that Coaches may recommend to you.
 
@@ -279,3 +290,9 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
+
+### **Back to school sale!**
+
+Give your child the digital tools to succeed this school year. Use code BTS10 for 10% off Premium.
+
+[Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/) [Explore features](https://www.qustodio.com/en/premium/)
