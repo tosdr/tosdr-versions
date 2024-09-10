@@ -26,9 +26,9 @@ Popular Design Ideas[Kitchen Backsplash](https://www.houzz.com/photos/kitchen-ba
 
 Stories and Guides[Popular Stories](https://www.houzz.com/ideabooks/most-popular-stories-on-houzz)[Renovation Cost Guides](https://www.houzz.com/cost-guides)[Fence Installation Cost Guide](https://www.houzz.com/cost/10-cost-to-install-a-fence)[Window Installation Cost Guide](https://www.houzz.com/cost/11-cost-to-install-or-replace-a-window)
 
-[Discussions](https://www.houzz.com/discussions)
+[Discussions](https://www.gardenweb.com/discussions)
 
-Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Before & After](https://www.houzz.com/discussions/before-and-after)
+Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma)[Before & After](https://www.gardenweb.com/discussions/before-and-after)
 
 [Houzz TV](https://www.houzz.com/houzztv)
 
@@ -210,6 +210,8 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [Nightstands & Bedside Tables](https://www.houzz.com/products/nightstands-and-bedside-tables)
 * [Dressers](https://www.houzz.com/products/dressers)
 
+* [Browse by Brand](https://www.houzz.com/products/shop-by-brand)
+
 * [Kitchen & Dining](https://www.houzz.com/products/kitchen-and-dining-furniture)
 * [Bar Stools & Counter Stools](https://www.houzz.com/products/bar-stools-and-counter-stools)
 * [Dining Chairs](https://www.houzz.com/products/dining-chairs)
@@ -218,9 +220,11 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [Kitchen Fixtures](https://www.houzz.com/products/kitchen-fixtures)
 
 * [Decor](https://www.houzz.com/products/home-decor)
-* [Rugs](https://www.houzz.com/products/rugs)
 * [Area Rugs](https://www.houzz.com/products/area-rugs)
+* [Decorative Accents](https://www.houzz.com/products/decorative-accents)
 * [Wall Mirrors](https://www.houzz.com/products/wall-mirrors)
+
+* [Designer Picks](https://www.houzz.com/shop-houzz/designer-picks)
 
 * [Living Room](https://www.houzz.com/products/living-room-furniture)
 * [Armchairs & Accent Chairs](https://www.houzz.com/products/armchairs-and-accent-chairs)
@@ -233,6 +237,8 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [Fire Pits](https://www.houzz.com/products/fire-pits)
 * [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
 
+* [View All Products](https://www.houzz.com/products)
+
 * [Lighting](https://www.houzz.com/products/lighting)
 * [Ceiling Lighting](https://www.houzz.com/products/ceiling-lighting)
 * [Chandeliers](https://www.houzz.com/products/chandeliers)
@@ -243,10 +249,6 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [Office](https://www.houzz.com/products/home-office-furniture)
 * [Desks & Hutches](https://www.houzz.com/products/desks)
 * [Office Chairs](https://www.houzz.com/products/office-chairs)
-
-* [View All Products](https://www.houzz.com/products)
-
-* [Designer Picks](https://www.houzz.com/shop-houzz/designer-picks)
 
 * [Living Room](https://www.houzz.com/products/living-room-furniture)
 * [Sofas & Sectionals](https://www.houzz.com/products/sofas-and-sectionals)
@@ -491,45 +493,47 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 
 * [All Sales](https://www.houzz.com/sale)
 
+* [Buying Guides](https://www.houzz.com/products/houzz-buying-guides)
+
 * [View All Products](https://www.houzz.com/products)
 
 Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
 Cancel
 
-[Outdoor Sale Sale](https://www.houzz.com/shop-houzz/outdoor-sale)
+[Lighting Sale Sale](https://www.houzz.com/shop-houzz/lighting-sale)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Outdoor Sale](https://www.houzz.com/shop-houzz/outdoor-sale)
+[Lighting Sale](https://www.houzz.com/shop-houzz/lighting-sale)
 
-[![Outdoor Rugs](https://st.hzcdn.com/fimgs/9201daa706a13da0_3105-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Outdoor Rugs](https://www.houzz.com/ideabooks/92270652) 
-
-[![The Ultimate Outdoor Sale](https://st.hzcdn.com/fimgs/5f01479806a13da3_3108-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 70% OFF
-
-The Ultimate Outdoor Sale](https://www.houzz.com/ideabooks/111276527) 
-
-[![Outdoor Lighting](https://st.hzcdn.com/fimgs/27f1cdd706a13d9b_3100-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 50% OFF
-
-Outdoor Lighting](https://www.houzz.com/ideabooks/139316379) 
-
-[![Refresh Your Summer Curb Appeal](https://st.hzcdn.com/fimgs/ab517ea806a13da2_3106-w150-h150-b0-p0--home-design.jpg)
+[![Chandeliers With Free Shipping](https://st.hzcdn.com/fimgs/7431c02c06d9433b_4556-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 60% OFF
 
-Refresh Your Summer Curb Appeal](https://www.houzz.com/ideabooks/176398241) 
+Chandeliers With Free Shipping](https://www.houzz.com/ideabooks/81746838) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/da2185c106a2290a_3374-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/outdoor-sale) 
+[![The Ultimate Lighting Sale](https://st.hzcdn.com/fimgs/21c17bec06d94330_4544-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 75% OFF
+
+The Ultimate Lighting Sale](https://www.houzz.com/ideabooks/111051966) 
+
+[![Outdoor Lighting](https://st.hzcdn.com/fimgs/5a41126806d94337_4552-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 60% OFF
+
+Outdoor Lighting](https://www.houzz.com/ideabooks/139316379) 
+
+[![Bestselling Pendants](https://st.hzcdn.com/fimgs/f1c1c8c806d94339_4553-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 60% OFF
+
+Bestselling Pendants](https://www.houzz.com/ideabooks/177513226) 
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/888100bf06d9ad67_1737-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/lighting-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -557,7 +561,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28702504/pic/houzz_logo.svg?v=28702504)
+![Houzz Logo Print](//www.houzz.com/res/28759295/pic/houzz_logo.svg?v=28759295)
 
 Houzz Return Policy
 ===================
@@ -577,7 +581,7 @@ Returns & Refunds
 
 We accept returns for most items **within 30 days** of delivery! If you’re returning a damaged item that was delivered via freight (such as a sofa or bathroom vanity), your return must be initiated **within 5 days** of the date of delivery.
 
-![](https://images.prismic.io/houzz/78d2e3d6-0465-4320-bf4f-d593e96d3c89_Vector.png?auto=compress,format)
+![](https://d12ttebjzxeiti.cloudfront.net/houzz/78d2e3d6-0465-4320-bf4f-d593e96d3c89_Vector.png?auto=compress)
 
 How to Return an Item
 =====================
@@ -631,7 +635,7 @@ Freight Forwarders
 
 If you decide to use your own freight forwarder to ship an item or if you export an item outside the United States yourself or through another carrier, then Houzz will not be responsible for providing any replacement or refund for any damaged or defective items. You should not list Houzz on any export documentation under any circumstances.       
 
-![](https://images.prismic.io/houzz/9b993413-e568-41c8-89c4-2b85268e1a65_warranty_included.png?auto=compress,format)
+![](https://d12ttebjzxeiti.cloudfront.net/houzz/9b993413-e568-41c8-89c4-2b85268e1a65_warranty_included.png?auto=compress)
 
 Warranty Information
 ====================
@@ -688,13 +692,3 @@ Some products may be covered by a manufacturer's warranty. Houzz may offer addit
     * [Facebook](http://www.facebook.com/houzz)
     * [YouTube](https://www.youtube.com/channel/UC6kpDTAXXNV5SEP5g1HoPTA)
     * [RSS](http://feeds.feedburner.com/houzz)
-
-United Kingdom
-
-Australia - EnglishCanada - EnglishDanmark - DanskDeutschland - DeutschEspaña - EspañolFrance - FrançaisIndia - EnglishIreland - EnglishItalia - Italiano日本 - 日本語New Zealand - EnglishРоссия - РусскийSingapore - EnglishSverige - SvenskaUnited Kingdom - EnglishUS - English
-
-Tailor my experience with cookies
-
-Houzz uses cookies and similar technologies to personalise my experience, serve me relevant content, and improve Houzz products and services. By clicking ‘Accept’ I agree to this, as further described in the [Houzz Cookie Policy](https://www.houzz.com/cookiePolicy). I can reject non-essential cookies by clicking ‘Manage Preferences’.
-
-Manage PreferencesAccept
