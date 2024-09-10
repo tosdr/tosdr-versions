@@ -2,7 +2,7 @@
 
 ### Guerrilla Mail - Disposable Temporary E-Mail Address
 
-Avoid spam and stay safe - use a disposable email address! Click the "WTF" button below for help. So far we've processed **16,881,975,712 emails**, Keeping your real inbox safe and clean (104149 emails going in / hour)
+Avoid spam and stay safe - use a disposable email address! Click the "WTF" button below for help. So far we've processed **17,078,539,756 emails**, Keeping your real inbox safe and clean (41399 emails going in / hour)
 
 Do you own a domain? Use it with Guerrilla Mail! Email arriving to your domain will be accessible only by you. Or, you may give access to everyone. Price: $9.99 USD / year. Don't have a domain? You can get one from [Namecheap.com](https://www.namecheap.com/)
 
@@ -14,8 +14,8 @@ Eg. mydomain.com
 
 Payment Method:  Bitcoin |  PayPal
 
-fpltlkkn @ sharklasers.comguerrillamail.infogrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.compokemail.netspam4.me   [Forget Me](https://www.guerrillamail.com/?fgt=1) [WTF?](#)  
-ty4cyk+5hvjncv5sszk@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Scramble Address
+xyhbrbuh @ sharklasers.comguerrillamail.infogrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.compokemail.netspam4.me   [Forget Me](https://www.guerrillamail.com/?fgt=1) [WTF?](#)  
+u0rusr+6krlkpsmh2k4k@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Scramble Address
 
 Inbox ID:   [Forget Me](https://www.guerrillamail.com/?fgt=1)  
 Your Email Address is:  
@@ -69,7 +69,7 @@ THIS SERVICE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, 
 
 For content with links to third party resources, Guerrilla Mail has no control over third party resources and is not responsible or liable for their content or services offered. Guerrilla Mail has no control over and not responsible for any content of email messages, including their attachments _Caveat emptor_
 
-Additionally, the following header will be added to outgoing email: X-Originating-IP:\[51.195.149.220\]
+Additionally, the following header will be added to outgoing email: X-Originating-IP:\[206.81.0.208\]
 
   
 
