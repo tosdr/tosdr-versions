@@ -139,10 +139,4 @@ Legal
 * [GDPR Compliance](https://icedrive.net/legal/gdpr-compliance)
 * [Report Abuse](https://icedrive.net/legal/report-abuse)
 
-[I Accept](#)
-
-### Cookie Acceptance
-
-We use cookies to personalise your Icedrive experience. Cookies allow us to store your account information so you can quickly access your cloud storage data. We do not use cookies for advertising or marketing purposes.
-
 ×
