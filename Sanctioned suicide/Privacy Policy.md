@@ -36,17 +36,6 @@ Install
 *  Light/Dark
     
 
-* [](https://sanctioned-suicide.net/account/dismiss-notice?notice_id=51 "Dismiss notice")Hey Guest,
-    
-    If you would still like to donate, you still can. We have more than enough funds to cover operating expenses for quite a while, so don't worry about donating if you aren't able. If you want to donate something other than what is listed, you can contact RainAndSadness.
-    
-    Bitcoin Address (BTC): 39deg9i6Zp1GdrwyKkqZU6rAbsEspvLBJt
-    
-    Ethereum (ETH): 0xd799aF8E2e5cEd14cdb344e6D6A9f18011B79BE9
-    
-    Monero (XMR): 49tuJbzxwVPUhhDjzz6H222Kh8baKe6rDEsXgE617DVSDD8UKNaXvKNU8dEVRTAFH9Av8gKkn4jDzVGF25snJgNfUfKKNC8
-    
-
 Privacy policy
 ==============
 
