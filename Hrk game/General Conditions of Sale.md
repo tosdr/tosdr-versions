@@ -28,7 +28,7 @@ EN
 
 [English](https://www.hrkgame.com/en/pages/refund-policy/) [Polski](https://www.hrkgame.com/pl/pages/refund-policy/) [Français](https://www.hrkgame.com/fr/pages/refund-policy/) [Deutsch](https://www.hrkgame.com/de/pages/refund-policy/) [Italiano](https://www.hrkgame.com/it/pages/refund-policy/) [Magyar](https://www.hrkgame.com/hu/pages/refund-policy/) [Eesti](https://www.hrkgame.com/et/pages/refund-policy/) [Español](https://www.hrkgame.com/es/pages/refund-policy/) [Dutch](https://www.hrkgame.com/nl/pages/refund-policy/)
 
-£ GBP
+$ USD
 
 [$
 
@@ -104,7 +104,7 @@ Categories
 
 PSN Cards
 
-[Italy](https://www.hrkgame.com/en/games/products/platform/ps?country=IT) [Poland](https://www.hrkgame.com/en/games/products/platform/ps?country=PL) [Spain](https://www.hrkgame.com/en/games/products/platform/ps?country=ES) [Croatia](https://www.hrkgame.com/en/games/products/platform/ps?country=HR) [France](https://www.hrkgame.com/en/games/products/platform/ps?country=FR) [Austria](https://www.hrkgame.com/en/games/products/platform/ps?country=AT) [Germany](https://www.hrkgame.com/en/games/products/platform/ps?country=DE) [Bahrain](https://www.hrkgame.com/en/games/products/platform/ps?country=BH) [Qatar](https://www.hrkgame.com/en/games/products/platform/ps?country=QA) [United Kingdom](https://www.hrkgame.com/en/games/products/platform/ps?country=GB) [Hungary](https://www.hrkgame.com/en/games/products/platform/ps?country=HU) [Brazil](https://www.hrkgame.com/en/games/products/platform/ps?country=BR) [Lebanon](https://www.hrkgame.com/en/games/products/platform/ps?country=LB) [Belgium](https://www.hrkgame.com/en/games/products/platform/ps?country=BE) [Kuwait](https://www.hrkgame.com/en/games/products/platform/ps?country=KW) [United Arab Emirates](https://www.hrkgame.com/en/games/products/platform/ps?country=AE) [Switzerland](https://www.hrkgame.com/en/games/products/platform/ps?country=CH) [Oman](https://www.hrkgame.com/en/games/products/platform/ps?country=OM) [Netherlands](https://www.hrkgame.com/en/games/products/platform/ps?country=NL) [Czech Republic](https://www.hrkgame.com/en/games/products/platform/ps?country=CZ) [Saudi Arabia](https://www.hrkgame.com/en/games/products/platform/ps?country=SA) [Romania](https://www.hrkgame.com/en/games/products/platform/ps?country=RO) [Hong Kong](https://www.hrkgame.com/en/games/products/platform/ps?country=HK) [Canada](https://www.hrkgame.com/en/games/products/platform/ps?country=CA) [Greece](https://www.hrkgame.com/en/games/products/platform/ps?country=GR) [Australia](https://www.hrkgame.com/en/games/products/platform/ps?country=AU) [Japan](https://www.hrkgame.com/en/games/products/platform/ps?country=JP) [Norway](https://www.hrkgame.com/en/games/products/platform/ps?country=NO) [Slovakia](https://www.hrkgame.com/en/games/products/platform/ps?country=SK) [India](https://www.hrkgame.com/en/games/products/platform/ps?country=IN) [New Zealand](https://www.hrkgame.com/en/games/products/platform/ps?country=NZ) [Malaysia](https://www.hrkgame.com/en/games/products/platform/ps?country=MY) [Finland](https://www.hrkgame.com/en/games/products/platform/ps?country=FI) [Mexico](https://www.hrkgame.com/en/games/products/platform/ps?country=MX) [Portugal](https://www.hrkgame.com/en/games/products/platform/ps?country=PT) [Ireland](https://www.hrkgame.com/en/games/products/platform/ps?country=IE) [United States of America](https://www.hrkgame.com/en/games/products/platform/ps?country=US) [Russian Federation](https://www.hrkgame.com/en/games/products/platform/ps?country=RU) [Sweden](https://www.hrkgame.com/en/games/products/platform/ps?country=SE) [Denmark](https://www.hrkgame.com/en/games/products/platform/ps?country=DK)
+[Italy](https://www.hrkgame.com/en/games/products/platform/ps?country=IT) [South Africa](https://www.hrkgame.com/en/games/products/platform/ps?country=ZA) [Croatia](https://www.hrkgame.com/en/games/products/platform/ps?country=HR) [Poland](https://www.hrkgame.com/en/games/products/platform/ps?country=PL) [Austria](https://www.hrkgame.com/en/games/products/platform/ps?country=AT) [Spain](https://www.hrkgame.com/en/games/products/platform/ps?country=ES) [Kuwait](https://www.hrkgame.com/en/games/products/platform/ps?country=KW) [France](https://www.hrkgame.com/en/games/products/platform/ps?country=FR) [Hungary](https://www.hrkgame.com/en/games/products/platform/ps?country=HU) [United Kingdom](https://www.hrkgame.com/en/games/products/platform/ps?country=GB) [Belgium](https://www.hrkgame.com/en/games/products/platform/ps?country=BE) [Qatar](https://www.hrkgame.com/en/games/products/platform/ps?country=QA) [Germany](https://www.hrkgame.com/en/games/products/platform/ps?country=DE) [Bahrain](https://www.hrkgame.com/en/games/products/platform/ps?country=BH) [Czech Republic](https://www.hrkgame.com/en/games/products/platform/ps?country=CZ) [Romania](https://www.hrkgame.com/en/games/products/platform/ps?country=RO) [Netherlands](https://www.hrkgame.com/en/games/products/platform/ps?country=NL) [Brazil](https://www.hrkgame.com/en/games/products/platform/ps?country=BR) [Lebanon](https://www.hrkgame.com/en/games/products/platform/ps?country=LB) [United Arab Emirates](https://www.hrkgame.com/en/games/products/platform/ps?country=AE) [Switzerland](https://www.hrkgame.com/en/games/products/platform/ps?country=CH) [Norway](https://www.hrkgame.com/en/games/products/platform/ps?country=NO) [Canada](https://www.hrkgame.com/en/games/products/platform/ps?country=CA) [Slovakia](https://www.hrkgame.com/en/games/products/platform/ps?country=SK) [Oman](https://www.hrkgame.com/en/games/products/platform/ps?country=OM) [Sweden](https://www.hrkgame.com/en/games/products/platform/ps?country=SE) [India](https://www.hrkgame.com/en/games/products/platform/ps?country=IN) [Saudi Arabia](https://www.hrkgame.com/en/games/products/platform/ps?country=SA) [Ireland](https://www.hrkgame.com/en/games/products/platform/ps?country=IE) [Hong Kong](https://www.hrkgame.com/en/games/products/platform/ps?country=HK) [Luxembourg](https://www.hrkgame.com/en/games/products/platform/ps?country=LU) [Denmark](https://www.hrkgame.com/en/games/products/platform/ps?country=DK) [Greece](https://www.hrkgame.com/en/games/products/platform/ps?country=GR) [Australia](https://www.hrkgame.com/en/games/products/platform/ps?country=AU) [Finland](https://www.hrkgame.com/en/games/products/platform/ps?country=FI) [Singapore](https://www.hrkgame.com/en/games/products/platform/ps?country=SG) [Mexico](https://www.hrkgame.com/en/games/products/platform/ps?country=MX) [Japan](https://www.hrkgame.com/en/games/products/platform/ps?country=JP) [Malaysia](https://www.hrkgame.com/en/games/products/platform/ps?country=MY) [New Zealand](https://www.hrkgame.com/en/games/products/platform/ps?country=NZ) [Portugal](https://www.hrkgame.com/en/games/products/platform/ps?country=PT) [Thailand](https://www.hrkgame.com/en/games/products/platform/ps?country=TH) [Turkey](https://www.hrkgame.com/en/games/products/platform/ps?country=TR) [Indonesia](https://www.hrkgame.com/en/games/products/platform/ps?country=ID) [Colombia](https://www.hrkgame.com/en/games/products/platform/ps?country=CO) [Taiwan](https://www.hrkgame.com/en/games/products/platform/ps?country=TW) [Russian Federation](https://www.hrkgame.com/en/games/products/platform/ps?country=RU) [United States of America](https://www.hrkgame.com/en/games/products/platform/ps?country=US)
 
 [PSN Plus & Cards](https://www.hrkgame.com/en/games/products/platform/ps?type=code) [PS Games](https://www.hrkgame.com/en/games/products/platform/ps?type=game)
 
@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/product/the-sims-4-lovestruck-expansion-pack-origin)
+[](https://www.hrkgame.com/en/games/products/?search=Space+Marine+2)
 
 Refund Policy
 -------------
@@ -199,11 +199,11 @@ New Price
 Subtotal  
 Original Price
 
-£
+$
 
-£0
+$0
 
-~£0~
+~$0~
 
 Got discount code?
 
