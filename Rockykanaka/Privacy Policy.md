@@ -1,9 +1,15 @@
 ![](https://www.facebook.com/tr?id=181373849168743&ev=PageView
 &noscript=1)              
 
-* [Shop](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+* [Treats](https://rockykanaka.com/collections)
     
-    Expand submenu Shop Collapse submenu Shop
+    Expand submenu Treats Collapse submenu Treats
+    
+    * [Jerky](https://rockykanaka.com/collections/jerky)
+    * [Chews](https://rockykanaka.com/collections/chew)
+* [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+    
+    Expand submenu Merch Collapse submenu Merch
     
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
@@ -12,8 +18,6 @@
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
-    * [Jerky](https://rockykanaka.com/collections/jerky)
-    * [Chews](https://rockykanaka.com/collections/chew)
 * [About](https://blog.rockykanaka.com/about/)
 
 * [Log In](https://rockykanaka.com/account/login)
@@ -23,7 +27,10 @@ Site navigation
 
 [![RockyKanaka](//www.shoprockykanaka.com/cdn/shop/files/rocky_logo_260x.png?v=1686719816)](https://rockykanaka.com/)
 
-* [Shop](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+* [Treats](https://rockykanaka.com/collections)
+    * [Jerky](https://rockykanaka.com/collections/jerky)
+    * [Chews](https://rockykanaka.com/collections/chew)
+* [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
     * [Sitting With Dogs](https://rockykanaka.com/collections/sitting-with-dogs)
@@ -31,8 +38,6 @@ Site navigation
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
     * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
     * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
-    * [Jerky](https://rockykanaka.com/collections/jerky)
-    * [Chews](https://rockykanaka.com/collections/chew)
 * [About](https://blog.rockykanaka.com/about/)
 * [Log In](https://rockykanaka.com/account)
 * [Search](https://rockykanaka.com/search)
@@ -193,7 +198,7 @@ This Privacy Policy is strictly limited to the Program and has no effect on any 
 * [Privacy Policy](https://rockykanaka.com/pages/privacy-policy)
 
 © 2024, [RockyKanaka](https://rockykanaka.com/)  
-[Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+[](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
 Payment methods
 
