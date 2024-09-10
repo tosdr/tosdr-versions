@@ -20,6 +20,7 @@
     * My Enlistment Timeline
     * STEM Careers
     * Special Forces
+    * Specialized Schools
     * Become an Officer
     * Become a Warrant Officer
     * Explore Specialty Careers
