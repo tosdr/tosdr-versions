@@ -24,7 +24,7 @@ Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivac
 
 ← Back
 
-[Overview](https://www.cimgroup.com/portfolio)[Assets](https://www.cimgroup.com/portfolio/assets)[Case Studies](https://www.cimgroup.com/portfolio/project-case-studies)[Leasing](https://www.cimgroup.com/transact/lease-from-us)
+[Overview](https://www.cimgroup.com/portfolio)[Case Studies](https://www.cimgroup.com/portfolio/project-case-studies)[Leasing](https://www.cimgroup.com/transact/lease-from-us)
 
 ← Back
 
@@ -88,7 +88,7 @@ Public Investment Programs
 
 Portfolio
 
-[Overview](https://www.cimgroup.com/portfolio)[Assets](https://www.cimgroup.com/portfolio/assets)[Project Case Studies](https://www.cimgroup.com/portfolio/project-case-studies)[Leasing](https://www.cimgroup.com/transact/lease-from-us)
+[Overview](https://www.cimgroup.com/portfolio)[Project Case Studies](https://www.cimgroup.com/portfolio/project-case-studies)[Leasing](https://www.cimgroup.com/transact/lease-from-us)
 
 [Transact](https://www.cimgroup.com/transact)
 
@@ -424,6 +424,8 @@ Los Angeles, CA 90010
 [Press Releases](https://www.cimgroup.com/press-releases)
 
 [Bidding Opportunities](https://www.cimgroup.com/bidding-opportunities)
+
+[Careers](https://www.cimgroup.com/careers)
 
 [Privacy Policy](https://www.cimgroup.com/privacy-policy)
 
