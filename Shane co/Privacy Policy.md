@@ -587,7 +587,7 @@ If you want to raise a question to Shane Co., or otherwise exercise your rights 
 | Finland | DataRep, Luna House, 5.krs, Mannerheimintie 12 B, Helsinki, 00100, Finland |
 | France | DataRep, 72 rue de Lessard, Rouen, 76100, France |
 | Germany | DataRep, 3rd and 4th floor, Altmarkt 10 B/D, Dresden, 01067, Germany |
-| Greece | DataRep, 24 Lagoumitzi str, Athens, 17671, Greece |
+| Greece | DataRep, Ippodamias Sq. 8, 4th floor, Piraeus, Attica, Greece |
 | Hungary | DataRep, President Centre, Kálmán Imre utca 1, Budapest, 1054, Hungary |
 | Iceland | DataRep, Kalkofnsvegur 2, 3rd Floor, 101 Reykjavík, Iceland |
 | Ireland | DataRep, The Cube, Monahan Road, Cork, T12 H1XY, Republic of Ireland |
