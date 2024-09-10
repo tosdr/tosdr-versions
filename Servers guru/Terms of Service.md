@@ -4,10 +4,10 @@
 * [hosting](#)
     * [Web hosting](https://servers.guru/anonymous-web-hosting/)
     * [VPS](https://servers.guru/anonymous-vps/)
-    * [Windows VPS](https://servers.guru/anonymous-windows-vps/)
     * [Unmetered VPS](https://servers.guru/anonymous-unmetered-vps/)
     * [ARM VPS](https://servers.guru/arm-vps/)
     * [Cloud Servers](https://servers.guru/anonymous-dedicated-cloud-servers/)
+    * [Dedicated Servers](https://servers.guru/anonymous-dedicated-servers/)
 * [Features](https://servers.guru/control-panel)
     * [Control panel](https://servers.guru/control-panel/)
 * [FAQ](https://servers.guru/faq/)
@@ -422,10 +422,10 @@ Our Services
 
 * [Web hosting](https://servers.guru/anonymous-web-hosting/)
 * [VPS](https://servers.guru/anonymous-vps/)
-* [Windows VPS](https://servers.guru/anonymous-windows-vps/)
 * [Unmetered VPS](https://servers.guru/anonymous-unmetered-vps/)
 * [ARM VPS](https://servers.guru/arm-vps/)
 * [Cloud Servers](https://servers.guru/anonymous-dedicated-cloud-servers/)
+* [Dedicated Servers](https://servers.guru/anonymous-dedicated-servers/)
 
 About Us
 --------
