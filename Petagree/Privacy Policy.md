@@ -1,6 +1,6 @@
 ×
 
-        
+         
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -223,15 +223,13 @@ Search results
 
 * [![iGroom Squeaky Clean Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
     
-    [View options](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
+    Quantity  Add to cart
     
     ### iGroom [iGroom Squeaky Clean Shampoo - Gallon](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
     
-    Out of stock
-    
     $58.75
     
-    [View options](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
+    Quantity  Add to cart
     
 * [![Davis Quick-Dry Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
     
@@ -239,7 +237,7 @@ Search results
     
     ### Davis [Davis Quick-Dry Shampoo - Gallon](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
     
-    20 in stock
+    12 in stock
     
     $59.74
     
@@ -247,13 +245,15 @@ Search results
     
 * [![iGroom Tearless Facial Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    Quantity  Add to cart
+    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
     ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
+    Out of stock
+    
     $60.00
     
-    Quantity  Add to cart
+    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
 
 * ![](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)
