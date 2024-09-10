@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Some ‘forever chemicals’ may be absorbed through our skin](https://www.sciencenews.org/article/forever-chemicals-pfas-skin)
+            ### [The first face transplant to include an eye shows no rejection a year later](https://www.sciencenews.org/article/eye-transplant-partial-face-transplant)
             
-            By [Abdullahi Tsanni](https://www.sciencenews.org/author/abdullahi-tsanni "Posts by Abdullahi Tsanni")6 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Stopping cachexia at its source could reverse wasting from cancer](https://www.sciencenews.org/article/stop-cachexia-reverse-wasting-cancer)
-            
-            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")July 30, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 9, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Getting drugs into the brain is hard. Maybe a parasite can do the job](https://www.sciencenews.org/article/toxoplasma-drugs-brain-parasite)
+            ### [50 years ago, some of plastic’s toxic hazards were exposed](https://www.sciencenews.org/article/50-years-ago-plastic-hazard)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 29, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 6, 2024
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [A new drug shows promise for hot flashes due to menopause](https://www.sciencenews.org/article/hot-flashes-drug-menopause-symptoms)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")September 5, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [Static electricity may help butterflies and moths gather pollen on the fly](https://www.sciencenews.org/article/static-electricity-pollination)
+            ### [Bumblebees lose most of their sense of smell after heat waves](https://www.sciencenews.org/article/bumblebees-lose-smell-after-heat-waves)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")10 hours ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")September 6, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
-            ### [Getting drugs into the brain is hard. Maybe a parasite can do the job](https://www.sciencenews.org/article/toxoplasma-drugs-brain-parasite)
+            ### [Fiddler crabs are migrating north to cooler waters](https://www.sciencenews.org/article/fiddler-crabs-climate-migrants)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 29, 2024
+            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 4, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
-            ### [Komodo dragon teeth get their strength from an iron coat](https://www.sciencenews.org/article/komodo-dragon-teeth-iron-dinosaur)
+            ### [Despite new clues, this ancient fish has stumped scientists for centuries](https://www.sciencenews.org/article/ancient-fish-pegasus-volans-new-clues)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 26, 2024
+            By [Sean Cummings](https://www.sciencenews.org/author/sean-cummings "Posts by Sean Cummings")September 3, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,69 +138,69 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Earth](https://www.sciencenews.org/topic/earth)
             
-            ### [Some ‘forever chemicals’ may be absorbed through our skin](https://www.sciencenews.org/article/forever-chemicals-pfas-skin)
+            ### [How earthquakes build beefy gold nuggets](https://www.sciencenews.org/article/earthquakes-build-gold-nuggets)
             
-            By [Abdullahi Tsanni](https://www.sciencenews.org/author/abdullahi-tsanni "Posts by Abdullahi Tsanni")6 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 9, 2024
+            
+        * [Environment](https://www.sciencenews.org/topic/environment)
+            
+            ### [Fiddler crabs are migrating north to cooler waters](https://www.sciencenews.org/article/fiddler-crabs-climate-migrants)
+            
+            By [Luke Groskin](https://www.sciencenews.org/author/luke-groskin "Posts by Luke Groskin")September 4, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [Earth’s jet stream helps create the seeds of clouds](https://www.sciencenews.org/article/earth-jet-stream-help-create-seed-cloud)
+            ### [Summer-like heat is scorching the Southern Hemisphere — in winter](https://www.sciencenews.org/article/heat-scorch-southern-hemisphere-winter)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")July 30, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Earth keeps breaking global heat records](https://www.sciencenews.org/article/earth-global-heat-records-climate)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")July 30, 2024
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")September 2, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
             
-            ### [Paper cut physics pinpoints the most hazardous types of paper](https://www.sciencenews.org/article/paper-cut-physics)
+            ### [A quantum computer corrected its own errors, improving its calculations](https://www.sciencenews.org/article/quantum-computer-error-correction) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")10 hours ago
             
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Dark matter experiments get a first peek at the ‘neutrino fog’](https://www.sciencenews.org/article/neutrino-fog-dark-matter-experiments) 
+            ### [50 years ago, some of plastic’s toxic hazards were exposed](https://www.sciencenews.org/article/50-years-ago-plastic-hazard)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 25, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")September 6, 2024
             
-        * [Chemistry](https://www.sciencenews.org/topic/chemistry)
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
-            ### [A new element on the periodic table might be within reach](https://www.sciencenews.org/article/new-element-120-periodic-table) 
+            ### [A nuclear clock prototype hints at ultraprecise timekeeping](https://www.sciencenews.org/article/nuclear-clock-ultraprecise-timekeeping) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 23, 2024
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 4, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
-            ### [Moonquakes are much more common than thought, Apollo data suggest](https://www.sciencenews.org/article/moonquakes-common-apollo-data-suggest)
+            ### [In an epic cosmology clash, rival scientists begin to find common ground](https://www.sciencenews.org/article/cosmology-expansion-universe) 
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 26, 2024
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 4, 2024
+            
+        * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [2 spacecraft caught the waves that might heat and accelerate the solar wind](https://www.sciencenews.org/article/waves-heat-accelerate-solar-wind)
+            
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")August 29, 2024
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
-            ### [NASA’s Perseverance rover finds its first possible hint of ancient life on Mars](https://www.sciencenews.org/article/nasa-perseverance-rover-hint-life-mars)
+            ### [The Webb telescope’s peek into a stellar nursery finds baby planets too](https://www.sciencenews.org/article/webb-peek-stellar-nursery-baby-planets)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 25, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [The North Star is much heavier than previously thought](https://www.sciencenews.org/article/north-star-heavier-than-thought)
-            
-            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")July 25, 2024
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")August 27, 2024
             
 
 Privacy Policy
@@ -248,6 +248,8 @@ We may collect, use, store and transfer different kinds of personal data about y
 The Society does not collect most Special Categories of Personal Data about you (this includes details about your religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, and information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offenses. Race or ethnicity are optional for some of the application systems related to our education programs. In the event that we do collect special categories of data, we will ask for your consent first.
 
 Do not share any Special Categories of Personal Data with us unless we ask for such personal data.
+
+This Site is affiliated with Publisher First, Inc. dba Freestar (“Freestar”) for the purposes of placing certain advertising on the Site, and Freestar will collect and use certain data for advertising purposes. To learn more about Freestar’s data usage, click [here](https://freestar.com/privacy-policy/).
 
 #### 2\. How Is Your Personal Data Collected?
 
