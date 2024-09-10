@@ -78,7 +78,9 @@ Wir sind da [Ö](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerkla
 Datenschutzerklärung dieser Webseite
 ====================================
 
-[**Allgemeines zur Datenverarbeitung**](#faq-109381)
+[109381
+
+**Allgemeines zur Datenverarbeitung**](#faq-109381)
 
 #### 1\. Umfang der Verarbeitung personenbezogener Daten
 
@@ -115,7 +117,9 @@ Im Rahmen einer gemeinsamen Verantwortlichkeit gemäß Artikel 26 DSGVO haben al
 
 Anfragen betroffener Personen wird das Österreichische Rote Kreuz im Namen aller Verantwortlichen beantworten. Betroffene Personen können sich an den nebenstehend angeführten Kontakt des Datenschutzbeauftragten wenden, welcher alles weitere veranlassen wird.
 
-[**I. Bereitstellung der Website und Erstellung von Logfiles**](#faq-109384)
+[109384
+
+**I. Bereitstellung der Website und Erstellung von Logfiles**](#faq-109384)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -154,7 +158,9 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 
 Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Daten in Logfiles ist für den Betrieb der Internetseite zwingend erforderlich. Es besteht folglich seitens des Nutzers keine Widerspruchsmöglichkeit.
 
-[**II. Verwendung von Cookies**](#faq-109385)
+[109385
+
+**II. Verwendung von Cookies**](#faq-109385)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -191,7 +197,9 @@ Die Einwilligungen für alle weiteren Cookies können jederzeit über die [Einst
 
 Die detaillierten Cookie-Informationen finden Sie in unserem Conent-Management-Tool auf [dieser Unterseite](https://www.roteskreuz.at/ich-will-mehr-wissen/datenschutzerklaerung/cookies).
 
-[**III. Webanalyse mit Google Analytics**](#faq-109389)
+[109389
+
+**III. Webanalyse mit Google Analytics**](#faq-109389)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -217,7 +225,9 @@ Sie können die Erfassung durch Google Analytics verhindern, indem Sie auf diese
 
 Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter [www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html) bzw. unter [www.google.de/intl/de/policies/](https://www.google.de/intl/de/policies/).
 
-[**IV. Webanalyse mit Mouse Flow**](#faq-109390)
+[109390
+
+**IV. Webanalyse mit Mouse Flow**](#faq-109390)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -237,7 +247,9 @@ Sie können die Speicherung der Cookies und Einbindung des Webanalyse-Dienstes d
 
 Sie können darüber hinaus eine Aufzeichnung auf allen Websites, die Mouseflow einsetzen, global für Ihren gerade verwendeten Browser unter folgendem Link deaktivieren: [https://mouseflow.de/opt-out/](https://mouseflow.de/opt-out/)
 
-[**V. Conversion Tracking mit dem Facebook-Pixel**](#faq-109391)
+[109391
+
+**V. Conversion Tracking mit dem Facebook-Pixel**](#faq-109391)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -263,7 +275,9 @@ Sie können darüber hinaus auch mit folgendem Tool die Nutzung durch Facebook i
 
 Facebook kann diese Daten für eigene Werbezwecke, entsprechend der Facebook- Datenverwendungsrichtlinie (https://www.facebook.com/about/privacy/ ), verwenden. Die Einwilligung dazu liegt im Bereich von Facebook und ist von uns nicht beeinflussbar.
 
-[**VI. gemeinsamer Newsletter**](#faq-109392)
+[109392
+
+**VI. gemeinsamer Newsletter**](#faq-109392)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -298,7 +312,9 @@ Das Abonnement des Newsletters kann durch den betroffenen Nutzer jederzeit gekü
 Datenverarbeitungen des rechts angeführten alleinigen Verantwortlichen
 ----------------------------------------------------------------------
 
-[**VII. Kontaktformular und E-Mail-Kontakt**](#faq-112435)
+[112435
+
+**VII. Kontaktformular und E-Mail-Kontakt**](#faq-112435)
 
 #### 1\. Beschreibung und Umfang der Datenverarbeitung
 
@@ -423,7 +439,7 @@ Bei der Anmeldung trat ein Fehler auf, bitte wenden sie sich an service@roteskre
 * [Blog des Österreichischen Roten Kreuzes](https://www.roteskreuz.at/blog)
 * [Podcast des Österreichischen Roten Kreuzes](https://www.roteskreuz.at/podcast)
 
-### Das Österreichische Roten Kreuz in den sozialen Netzwerken
+### Das Österreichische Rote Kreuz in den sozialen Netzwerken
 
 * [Facebook](https://www.facebook.com/roteskreuzat)
 * [Instagram](https://www.instagram.com/roteskreuz_at/)
