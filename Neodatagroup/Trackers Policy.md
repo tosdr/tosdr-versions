@@ -233,7 +233,11 @@ Tutti i termini da conoscere per strategie di marketing automation vincenti](htt
 
 #### Faq
 
-Tutte le risposte alle domande più frequenti dei nostri utenti](https://www.neodatagroup.com/faq)
+Tutte le risposte alle domande più frequenti dei nostri utenti](https://www.neodatagroup.com/faq)[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66accc74f26b1cba381364c3_0278-bookmark.svg)
+
+#### Library
+
+Scopri i nostri ebook](https://www.neodatagroup.com/library)
 
 Settori
 
@@ -419,7 +423,9 @@ Crea una strategia omnichannel e raggiungi gli utenti, conosciuti o meno.](https
 
 #### Glossario](https://blog.blendee.com/glossario-cdp-marketing-automation/)[![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/647e045c2fa82e78d9e95a4a_FAQ.svg)
 
-#### Faq](https://www.neodatagroup.com/faq)
+#### Faq](https://www.neodatagroup.com/faq)[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/66accc74f26b1cba381364c3_0278-bookmark.svg)
+
+#### Library](https://www.neodatagroup.com/library)
 
 ### Settori
 
@@ -493,7 +499,7 @@ Tutte le Funzionalità in una Sola Piattaforma Centralizzata
 
 Con Blendee puoi gestire tutti i canali marketing mediante una sola consolle progettata per ottimizzare le tue performance.
 
-![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6481d30f1d80e4da40276370_exaudi.svg)
+![Blendee | M.O.S. Marketing Operating System](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/6481d30f1d80e4da40276370_exaudi.svg)
 
 ##### Audience Management
 
