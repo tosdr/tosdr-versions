@@ -11,120 +11,113 @@ Search
 Main navigation
 ---------------
 
-* Products
-    * [SAASFlexera One](https://www.flexera.com/flexera-one)
-    * [IT Visibility](https://www.flexera.com/flexera-one/it-visibility)
-        * [Flexera oneIT Visibility](https://www.flexera.com/flexera-one/it-visibility)
-        * [Overview](https://www.flexera.com/flexera-one/it-visibility)
-        * [Application Rationalization](https://www.flexera.com/flexera-one/it-visibility/application-rationalization)
-        * [Business Service Mapping](https://www.flexera.com/flexera-one/it-visibility/business-service-mapping)
-        * [CMDB Data Quality](https://www.flexera.com/flexera-one/it-visibility/cmdb-data-quality)
-        * [Data Normalization](https://www.flexera.com/flexera-one/it-visibility/data-normalization)
-        * [End of Life / End of Support](https://www.flexera.com/flexera-one/it-visibility/end-of-support-end-of-life)
-        * [SBOM Management](https://www.flexera.com/flexera-one/it-visibility/sbom-management)
-        * [Software Vulnerability](https://www.flexera.com/flexera-one/it-visibility/software-vulnerability-enrichment-pack)
-        * [Sustainable IT](https://www.flexera.com/flexera-one/it-visibility/sustainable-it)
-        * [Technopedia](https://www.flexera.com/products/technopedia)
-    * [IT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
-        * [Flexera OneIT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
-        * [Overview](https://www.flexera.com/flexera-one/it-asset-management)
-        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
-        * [Software Asset Management](https://www.flexera.com/flexera-one/it-asset-management/software-asset-management)
-        * [Hardware Asset Management](https://www.flexera.com/flexera-one/it-asset-management/hardware-asset-management)
-        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
-        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
-        * [Technopedia](https://www.flexera.com/products/technopedia)
-    * [FinOps](https://www.flexera.com/flexera-one/finops)
-        * [Flexera OneFinOps](https://www.flexera.com/flexera-one/finops)
-        * [Overview](https://www.flexera.com/flexera-one/finops)
-        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
-        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
-        * [Cloud Cost Optimization](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-    * [Cloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Flexera OneCloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Overview](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Cloud Cost Management](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-cost-management)
-        * [Cloud Governance](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-governance)
-        * [Cloud Migration and Modernization](https://www.flexera.com/flexera-one/cloud-migration-and-modernization)
-        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
-        * [Cloud Cost Assessment](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-cost-assessment)
-        * [Workload Placement](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/workload-placement)
-    * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-        * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-        * [Software Vulnerability Manager](https://www.flexera.com/products/software-vulnerability-manager)
-        * [Software Vulnerability Research](https://www.flexera.com/products/software-vulnerability-research)
-        * [Secunia Research](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-    * [Application Readiness](https://www.flexera.com/products/adminstudio)
-        * [Application Readiness](https://www.flexera.com/products/adminstudio)
-        * [AdminStudio](https://www.flexera.com/products/adminstudio)
-    * [Additional Products](https://www.flexera.com/products)
-        * [Additional Products](https://www.flexera.com/products)
-        * [Overview](https://www.flexera.com/products)
-        * [App Portal / App Broker](https://www.flexera.com/products/app-broker-app-portal)
-        * [Cloud Management Platform](https://www.flexera.com/products/cloud-management-platform)
-        * [Data Platform](https://www.flexera.com/products/data-platform)
-        * [FlexNet Manager](https://www.flexera.com/products/flexnet-manager)
-    
-    ![](/sites/default/files/styles/large/public/2024-06/nav-promo-soitam-2024.jpg?itok=x0Utem58)
-    
-    Flexera 2024 State of ITAM Report
-    
-    Want to learn how to turn 2024’s ITAM challenges into 2025’s opportunities? Look no further.
-    
-    [Enlighten Me](https://info.flexera.com/ITAM-REPORT-State-of-IT-Asset-Management?lead_source=Website%20Visitor&id=Flexera.com-Menu-Promo)
-    
 * Solutions
-    * [AWS Cloud Cost Optimization](https://www.flexera.com/flexera-one/solutions/vendor/aws)
-    * [Microsoft Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/microsoft)
-    * [Oracle Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/oracle)
-    * [SAP Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/sap)
-    * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
-    * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
-    * [Public Sector](https://www.flexera.com/solutions/public-sector)
-* [Customer Success](https://www.flexera.com/customer-success)
-    * [Implementation](https://www.flexera.com/customer-success/implementation)
-    * [Training](https://www.flexera.com/customer-success/training)
-    * [Ascend with Flexera One](https://www.flexera.com/more/ascend-with-flexera-one)
-    * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
-    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
-* [Resources](https://www.flexera.com/resources)
-    * [Resources](https://www.flexera.com/resources)
-        * [All Resources](https://www.flexera.com/resources)
-        * [Blog](https://www.snowsoftware.com/blog/)
-        * [Business Value Calculator](https://www.flexera.com/flexera-one/business-value-calculator)
-        * [Case Studies](https://www.flexera.com/resources/case-studies)
-        * [Datasheets](https://www.flexera.com/resources?type%5Bdatasheet%5D=datasheet)
-        * [Demos & Trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
-        * [Gartner® Analyst Research](https://www.flexera.com/resources/gartner-analyst-research)
-        * [Glossary](https://www.flexera.com/flexera-one/glossary)
-        * [Videos](https://www.flexera.com/resources?type%5Bvideo%5D=video)
-        * [Webinars](https://www.flexera.com/resources?type%5Bwebinar%5D=webinar)
-        * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
-        * [White Papers & Reports](https://www.flexera.com/resources?type%5Bwhite-paper-industry-report%5D=white-paper-industry-report)
-    * Customer Resources
-        * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
-        * [Product Documentation](https://docs.flexera.com/)
-        * [Learning Center](https://learn.flexera.com/)
-        * [Contact Support](https://community.flexera.com/t5/Using-the-Case-Portal/Contact-Flexera-support/ta-p/94684)
-* [About](https://www.flexera.com/about-us)
-    * [Technology Value Optimization](https://www.flexera.com/about-us/technology-value-optimization)
-    * [About](https://www.flexera.com/about-us)
-    * [Leadership](https://www.flexera.com/about-us/leadership)
-    * [Media / Press Center](https://www.flexera.com/about-us/press-center)
-    * [Partners](https://www.flexera.com/about-us/partners)
-    * [Environmental, Social and Governance](https://www.flexera.com/about-us/environmental-social-governance)
-    * [Careers](https://www.flexera.com/about-us/careers)
-    * [Diversity](https://www.flexera.com/about-us/diversity)
-    * [Contact Us](https://www.flexera.com/about-us/contact-us)
+    * Column 1
+        * Business challenge
+            * [Software renewals and audits](https://www.flexera.com/solutions/software-renewals-audits)
+            * [Software license management and optimization](https://www.flexera.com/solutions/software-usage-costs)
+            * [SaaS spend management](https://www.flexera.com/solutions/saas-spend)
+            * [Cloud cost management](https://www.flexera.com/solutions/cloud-cost)
+            * [IT asset lifecycle management](https://www.flexera.com/solutions/it-asset-lifecycle)
+            * [CMDB data quality](https://www.flexera.com/solutions/cmdb-data-quality)
+            * [Accurate IT inventory](https://www.flexera.com/solutions/it-inventory)
+            * [Security and regulatory risk management](https://www.flexera.com/solutions/it-security-regulatory-risk)
+            * [Sustainable IT](https://www.flexera.com/solutions/sustainable-it)
+            * [AI-powered transformation](https://www.flexera.com/solutions/ai-powered-transformation)
+            * [Public sector](https://www.flexera.com/solutions/public-sector)
+    * Column 2
+        * Spend management by vendor
+            * [IBM](https://www.flexera.com/solutions/vendor/ibm)
+            * [Oracle](https://www.flexera.com/solutions/vendor/oracle)
+            * [Microsoft](https://www.flexera.com/solutions/vendor/microsoft)
+            * [SAP](https://www.flexera.com/solutions/vendor/sap)
+            * [VMware](https://www.flexera.com/solutions/vendor/vmware)
+            * [ServiceNow](https://www.flexera.com/solutions/vendor/servicenow)
+            * [AWS](https://www.flexera.com/solutions/vendor/aws)
+            * [Salesforce](https://www.flexera.com/solutions/vendor/salesforce)
+            * [BMC](https://www.flexera.com/solutions/cmdb-data-quality/bmc)
+            * [Adobe](https://www.flexera.com/solutions/vendor/adobe)
+    
+* Products
+    * Column 1
+        * [Flexera One](https://www.flexera.com/products/flexera-one)
+            * [IT Visibility](https://www.flexera.com/products/flexera-one/it-visibility)
+            * [ITAM](https://www.flexera.com/products/flexera-one/it-asset-management)
+            * [SaaS Management](https://www.flexera.com/products/flexera-one/saas-management)
+            * [FinOps](https://www.flexera.com/products/flexera-one/finops)
+        * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
+            * [Snow Spend Optimizer](https://www.flexera.com/products/snow-atlas/snow-spend-optimizer)
+            * [Snow SaaS Management](https://www.flexera.com/products/snow-atlas/snow-saas-management)
+    * Column 2
+        * Hide group
+            * [Security](https://www.flexera.com/products/security)
+            * [Application Readiness](https://www.flexera.com/products/adminstudio)
+            * [All products](https://www.flexera.com/products)
+            * [All Snow products](https://www.flexera.com/products/snow)
+    
+* Success
+    * Column 1
+        * [Customer success](https://www.flexera.com/customer-success)
+            * Support
+                * [Flexera support portal](https://community.flexera.com/)
+                * [Snow support portal](https://community.snowsoftware.com/s/support-hub)
+                * [Flexera product documentation](https://docs.flexera.com/)
+                * [Snow product documentation](https://docs.snowsoftware.io/)
+            * Services and training
+                * [Services](https://www.flexera.com/customer-success/services)
+                * [Training](https://www.flexera.com/customer-success/training)
+    * Column 2
+        * Hide group
+            * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
+            * [Flexera community](https://community.flexera.com/)
+            * [Snow community](https://community.snowsoftware.com/s/)
+    
+* Resources
+    * Column 1
+        * [Resources](https://www.flexera.com/resources)
+            * [Webinars](https://www.flexera.com/resources?type%5Bwebinar%5D=webinar)
+            * [Videos](https://www.flexera.com/resources?type%5Bvideo%5D=video)
+            * [Datasheets](https://www.flexera.com/resources?type%5Bdatasheet%5D=datasheet)
+            * [White papers & reports](https://www.flexera.com/resources?type%5Bwhite-paper-industry-report%5D=white-paper-industry-report)
+    * Column 2
+        * Hide group
+            * [Blog](https://www.snowsoftware.com/blog/)
+            * [Case studies](https://www.flexera.com/resources/case-studies)
+            * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
+            * [Analyst research](https://www.flexera.com/resources/gartner-analyst-research)
+            * [Glossary](https://www.flexera.com/resources/glossary)
+            * [Demos & trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
+            * [Business value calculator](https://www.flexera.com/resources/business-value-calculator)
+    
+* About
+    * Column 1
+        * [Company](https://www.flexera.com/about-us)
+            * [About](https://www.flexera.com/about-us)
+            * [Careers](https://www.flexera.com/about-us/careers)
+            * [Contact](https://www.flexera.com/about-us/contact-us)
+            * [Leadership](https://www.flexera.com/about-us/leadership)
+        * [Partners](https://www.flexera.com/about-us/partners)
+            * [Partner program](https://www.flexera.com/about-us/partners/partner-program)
+            * [Partner directory](https://www.flexera.com/about-us/partners/directory)
+    * Column 2
+        * [Press center](https://www.flexera.com/about-us/press-center)
+            * [Press releases](https://www.flexera.com/about-us/all-press-releases)
+            * [Awards](https://www.flexera.com/about-us/press-center#awards)
+            * [Articles](https://www.flexera.com/about-us/all-articles)
+        * Hide group
+            * Social responsibility
+                * [ESG](https://www.flexera.com/about-us/environmental-social-governance)
+                * [Diversity](https://www.flexera.com/about-us/diversity)
+    
+
+Search 
+
+ 
 
 en
 
 * [English](https://www.flexera.com/legal/privacy-policy)
 * [Deutsch](https://www.flexera.de/legal/privacy-policy)
-
-Search 
-
- 
 
 External Links
 --------------
@@ -134,7 +127,7 @@ External Links
     * [Product Access](https://app.flexera.com/login)
     * [Partner Portal](https://flexera.channeltivity.com/Login)
 
-[Contact Us](https://www.snowsoftware.com/about-us/contact-us)
+[Book a demo](https://www.snowsoftware.com/about-us/contact-us?C_Interest1=sales)
 
 Breadcrumb
 ----------
@@ -494,125 +487,61 @@ We appreciate your interest in our offered services and products and our website
     We will update this CA Notice from time to time. When we make changes to this CA Notice, we will change the "Last Updated" date at the beginning of this CA Notice. All changes shall be effective from the date of publication unless otherwise provided in the notification.
     
 
- [![Home](/themes/custom/flexera/images/logo.svg) ![Home](/themes/custom/flexera/components/10-atoms/icon/icon-home.svg)](https://www.flexera.com/)
-
-Breadcrumb
-----------
-
-1.  [](https://www.flexera.com/)
-2. [Legal](https://www.flexera.com/legal)  
-3. Privacy Notice  
-
 Footer Menu
 -----------
 
-* Products
-    * [SAASFlexera One](https://www.flexera.com/flexera-one)
-    * [IT Visibility](https://www.flexera.com/flexera-one/it-visibility)
-        * [Flexera oneIT Visibility](https://www.flexera.com/flexera-one/it-visibility)
-        * [Overview](https://www.flexera.com/flexera-one/it-visibility)
-        * [Application Rationalization](https://www.flexera.com/flexera-one/it-visibility/application-rationalization)
-        * [Business Service Mapping](https://www.flexera.com/flexera-one/it-visibility/business-service-mapping)
-        * [CMDB Data Quality](https://www.flexera.com/flexera-one/it-visibility/cmdb-data-quality)
-        * [Data Normalization](https://www.flexera.com/flexera-one/it-visibility/data-normalization)
-        * [End of Life / End of Support](https://www.flexera.com/flexera-one/it-visibility/end-of-support-end-of-life)
-        * [Integration to IT Business Systems](https://www.flexera.com/flexera-one/it-visibility/integration-to-it-business-systems)
-        * [SBOM Management](https://www.flexera.com/flexera-one/it-visibility/sbom-management)
-        * [Software Vulnerability](https://www.flexera.com/flexera-one/it-visibility/software-vulnerability-enrichment-pack)
-        * [Sustainable IT](https://www.flexera.com/flexera-one/it-visibility/sustainable-it)
-        * [Technopedia](https://www.flexera.com/products/technopedia)
-    * [IT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
-        * [Flexera OneIT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
-        * [Overview](https://www.flexera.com/flexera-one/it-asset-management)
-        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
-        * [Software Asset Management](https://www.flexera.com/flexera-one/it-asset-management/software-asset-management)
-        * [Hardware Asset Management](https://www.flexera.com/flexera-one/it-asset-management/hardware-asset-management)
-        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
-        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
-        * [Technopedia](https://www.flexera.com/products/technopedia)
-    * [FinOps](https://www.flexera.com/flexera-one/finops)
-        * [FinOps](https://www.flexera.com/flexera-one/finops)
-        * [Overview](https://www.flexera.com/flexera-one/finops)
-        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
-        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
-        * [Cloud Cost Optimization](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-    * [Cloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Flexera OneCloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Overview](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-        * [Cloud Cost Management](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-cost-management)
-        * [Cloud Governance](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-governance)
-        * [Flexera OneCloud Migration and Modernization](https://www.flexera.com/flexera-one/cloud-migration-and-modernization)
-        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
-        * [Cloud Cost Assessment](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-cost-assessment)
-        * [Workload Placement](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/workload-placement)
-* [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-    * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-    * [Software Vulnerability Manager](https://www.flexera.com/products/software-vulnerability-manager)
-    * [Software Vulnerability Research](https://www.flexera.com/products/software-vulnerability-research)
-    * [Secunia Research](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
-    * [Application Readiness](https://www.flexera.com/products/adminstudio)
+* Column
+    * Business challenge
+        * [Software renewals and audits](https://www.flexera.com/solutions/software-renewals-audits)
+        * [Software license management and optimization](https://www.flexera.com/solutions/software-usage-costs)
+        * [SaaS spend management](https://www.flexera.com/solutions/saas-spend)
+        * [Cloud cost management](https://www.flexera.com/solutions/cloud-cost)
+        * [IT asset lifecycle management](https://www.flexera.com/solutions/it-asset-lifecycle)
+        * [CMDB data quality](https://www.flexera.com/solutions/cmdb-data-quality)
+        * [Accurate IT inventory](https://www.flexera.com/solutions/it-inventory)
+        * [Security and regulatory risk management](https://www.flexera.com/solutions/it-security-regulatory-risk)
+        * [Sustainable IT](https://www.flexera.com/solutions/sustainable-it)
+        * [AI-powered transformation](https://www.flexera.com/solutions/ai-powered-transformation)
+        * [Public sector](https://www.flexera.com/solutions/public-sector)
+* Column
+    * Spend management by vendor
+        * [IBM](https://www.flexera.com/solutions/vendor/ibm)
+        * [Oracle](https://www.flexera.com/solutions/vendor/oracle)
+        * [Microsoft](https://www.flexera.com/solutions/vendor/microsoft)
+        * [SAP](https://www.flexera.com/solutions/vendor/sap)
+        * [VMware](https://www.flexera.com/solutions/vendor/vmware)
+        * [ServiceNow](https://www.flexera.com/solutions/vendor/servicenow)
+        * [AWS](https://www.flexera.com/solutions/vendor/aws)
+        * [Salesforce](https://www.flexera.com/solutions/vendor/salesforce)
+        * [BMC](https://www.flexera.com/solutions/cmdb-data-quality/bmc)
+        * [Adobe](https://www.flexera.com/solutions/vendor/adobe)
+* Column
+    * Products
+        * [Flexera One](https://www.flexera.com/products/flexera-one)
+        * [Snow Atlas](https://www.flexera.com/products/snow-atlas)
+        * [Security](https://www.flexera.com/products/security)
         * [Application Readiness](https://www.flexera.com/products/adminstudio)
-        * [AdminStudio](https://www.flexera.com/products/adminstudio)
-    * [Additional Products](https://www.flexera.com/products)
-        * [Additional Products](https://www.flexera.com/products)
-        * [Overview](https://www.flexera.com/products)
-        * [App Portal / App Broker](https://www.flexera.com/products/app-broker-app-portal)
-        * [Cloud Management Platform](https://www.flexera.com/products/cloud-management-platform)
-        * [Data Platform](https://www.flexera.com/products/data-platform)
-        * [FlexNet Manager](https://www.flexera.com/products/flexnet-manager)
-    * Solutions
-        * Solutions
-        * [AWS Cloud Cost Optimization](https://www.flexera.com/flexera-one/solutions/vendor/aws)
-        * [Microsoft Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/microsoft)
-        * [Oracle Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/oracle)
-        * [SAP Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/sap)
-        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
-        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
-        * [Public Sector](https://www.flexera.com/solutions/public-sector)
-* [Customer Success](https://www.flexera.com/customer-success)
-    * [Implementation](https://www.flexera.com/customer-success/implementation)
-    * [Training](https://www.flexera.com/customer-success/training)
-    * [Ascend with Flexera One](https://www.flexera.com/more/ascend-with-flexera-one)
-    * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
-    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
-* [Resources](https://www.flexera.com/resources)
-    * [All Resources](https://www.flexera.com/resources)
-    * [Blog](https://www.snowsoftware.com/blog/)
-    * [Business Value Calculator](https://www.flexera.com/flexera-one/business-value-calculator)
-    * [Case Studies](https://www.flexera.com/resources/case-studies)
-    * [Datasheets](https://www.flexera.com/resources?type%5Bdatasheet%5D=datasheet)
-    * [Demos & Trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
-    * [Gartner® Analyst Research](https://www.flexera.com/resources/gartner-analyst-research)
-    * [Glossary](https://www.flexera.com/flexera-one/glossary)
-    * [Videos](https://www.flexera.com/resources?type%5Bvideo%5D=video)
-    * [Webinars](https://www.flexera.com/resources?type%5Bwebinar%5D=webinar)
-    * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
-    * [White Papers & Reports](https://www.flexera.com/resources?type%5Bwhite-paper-industry-report%5D=white-paper-industry-report)
-* [About](https://www.flexera.com/about-us)
-    * [Technology Value Optimization](https://www.flexera.com/about-us/technology-value-optimization)
-    * [About](https://www.flexera.com/about-us)
-    * [Leadership](https://www.flexera.com/about-us/leadership)
-    * [Media / Press Center](https://www.flexera.com/about-us/press-center)
-    * [Partners](https://www.flexera.com/about-us/partners)
-    * [Environmental, Social and Governance](https://www.flexera.com/about-us/environmental-social-governance)
-    * [Careers](https://www.flexera.com/about-us/careers)
-    * [Diversity](https://www.flexera.com/about-us/diversity)
-    * [Contact Us](https://www.flexera.com/about-us/contact-us)
+        * [Integrations](https://www.flexera.com/products/integrations)
+        * [All products](https://www.flexera.com/products)
+        * [All Snow products](https://www.flexera.com/products/snow)
+* Column
+    * Company
+        * [About](https://www.flexera.com/about-us)
+        * [Careers](https://www.flexera.com/about-us/careers)
+        * [Leadership](https://www.flexera.com/about-us/leadership)
+        * [Contact us](https://www.flexera.com/about-us/contact-us)
+        * [Media / press center](https://www.flexera.com/about-us/press-center)
 
 [+1.800.374.4353](tel:infoModel.phoneLink)
-
-[Contact Us](https://www.snowsoftware.com/about-us/contact-us)
-
-[Flexera Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community) [Product Access](https://app.flexera.com/login) [Revenera](https://www.revenera.com/)
 
 en
 
 * [English](https://www.flexera.com/legal/privacy-policy)
 * [Deutsch](https://www.flexera.de/legal/privacy-policy)
 
-CONNECT WITH US
+[](https://www.linkedin.com/company/flexera/)[](https://x.com/flexera)[](https://www.instagram.com/weareflexera/)[](https://www.youtube.com/user/FlexeraSoftware)
 
-[](https://www.linkedin.com/company/flexera/)[](https://twitter.com/flexera)[](https://www.youtube.com/user/FlexeraSoftware)[](https://www.instagram.com/weareflexera/)
+[![Home](/themes/custom/flexera/images/logo.svg)](https://www.flexera.com/)
 
 © 2024 Flexera. All Rights Reserved.
 
