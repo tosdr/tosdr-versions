@@ -197,7 +197,7 @@ People
 Organization
 ------------
 
-* [2022 Annual Report](https://cdt.org/2022-annual-report/)
+* [2023 Annual Report](https://cdt.org/2023-annual-report/)
 * [Financials](https://cdt.org/financials/)
 * [Press](https://cdt.org/press/)
 * [Events](https://cdt.org/events/)
