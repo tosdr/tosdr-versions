@@ -15,7 +15,7 @@ Idioma
 
 Portales de Red.es
 
-* [Dominios.es](https://www.dominios.es/dominios/)
+* [Dominios.es](https://www.dominios.es/)
 * [ONTSI](https://www.ontsi.red.es/)
 * [RedIRIS](https://www.rediris.es/)
 * [Datos.gob.es](https://datos.gob.es/)
@@ -84,13 +84,13 @@ Noticia
 
 Transformación Digital PYMES
 
-La ayuda del programa Kit Consulting ya se puede solicitar
+La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado
 
 El plazo de presentación de las solicitudes se realiza a través de la sede electrónica de Red.es ([https://sede.red.gob.es](https://sede.red.gob.es/)) y estará abierto hasta el 31 de diciembre de 2024 a las 11:00 horas. 
 
-[La ayuda del programa Kit Consulting ya se puede solicitar](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar")
+[La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar-para-acceder-bonos "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado")
 
-![Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Nueva.png?h=a6aa1fcb&itok=ZuRd9jdN)
+![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=OutC1Lyp)
 
 Noticia
 
@@ -100,35 +100,31 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros d
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono de 3.000 euros de Kit Digital")
 
-![San Francisco. Edición 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SF_0.png?h=c16165f9&itok=UDTjqoci)
+![Smart City Expo World Congress 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SC_NOTIWEB.png?h=b878dce1&itok=cmNnGqho)
 
 Noticia
 
 Internacionalización
 
-Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición
+Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)
 
-[Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición](http://red.es/es/actualidad/noticias/desafia-san-francisco-emprendedoras-segunda-edicion "Ir al contenido de: Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición ")
-
-Noticia
-
-Sociedad Digital
-
-Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC
-
-[Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC](http://red.es/es/actualidad/noticias/ametic-encuentro-santander "Ir al contenido de: Red.es se sumará un año más al debate sobre los nuevos retos de la tecnología en el Encuentro de la Economía Digital y las Telecomunicaciones de AMETIC")
+[Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC)](http://red.es/es/actualidad/noticias/pabellon-espana-scewc "Ir al contenido de: Descubre a las 38 empresas que formarán parte del Pabellón de España en la edición 2024 de Smart City Expo World Congress (SCEWC) ")
 
 Noticia
 
 Internacionalización
 
-Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad
+El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC
 
-[Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad](http://red.es/es/actualidad/noticias/desafia-nueva-york-startups-ciberseguridad "Ir al contenido de: Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad ")
+[El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC](http://red.es/es/actualidad/noticias/desafia-sanfrancisco-recibe-premio-internacional-igualdad-genero "Ir al contenido de: El programa Desafía San Francisco de Red.es e ICEX recibe en Ginebra el Premio Internacional para la Igualdad de Género en el Comercio de la OMC")
 
-Nueva convocatoria de empleo. ¡Inscripciones hasta el 8 de agosto!
+Noticia
 
-[Consulta toda la información](http://red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido)
+Infraestructuras de Telecomunicaciones
+
+Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos
+
+[Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos](http://red.es/es/actualidad/noticias/redes-bono-de-conectividad-pymes-y-autonomos "Ir al contenido de: Red.es lanza el Bono de Conectividad: 48 millones de euros para pymes y autónomos")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
