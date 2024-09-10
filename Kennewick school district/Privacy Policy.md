@@ -2,21 +2,21 @@
 
 [Skip To Main Content](#fsPageContent)
 
-* [About](https://www.ksd.org/about/district-information)
+* [About](https://www.ksd.org/about)
     
-    * [Academic & Student Well-Being Recovery Plan](https://www.ksd.org/about/ksd-academic-and-student-well-being-recovery-plan)
+    * [Academic and Student Well-Being Recovery Plan](https://www.ksd.org/about/ksd-academic-and-student-well-being-recovery-plan)
     * [Administration](https://www.ksd.org/about/administration)
     * [Committees](https://www.ksd.org/about/committees)
-    * [Bonds & Levies](https://www.ksd.org/about/bonds-levies)
+    * [Bonds and Levies](https://www.ksd.org/about/bonds-levies)
     * [Community Report](https://www.ksd.org/about/community-report)
+    * [Non-Discrimination, Equity, Civil Rights and Title IX](https://www.ksd.org/about/non-discrimination-equity-civilrights-titleix)
     * [District Information](https://www.ksd.org/about/district-information)
     * [Flag Notices](https://www.ksd.org/about/flag-notices)
-    * [KSD Livestream](https://www.ksd.org/about/ksdlive)
-    * [Harassment, Intimidation, Bullying, & Cyberbullying](https://www.ksd.org/about/hib)
-    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
-    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
+    * [Harassment, Intimidation, Bullying, and Cyberbullying](https://www.ksd.org/about/hib)
+    * [Health and Safety](https://www.ksd.org/about/health-and-safety)
+    * [Policies and Procedures](https://www.ksd.org/about/policies-procedures)
     * [School Board](https://www.ksd.org/school-board-landing/school-board)
-    * [Strategic Plan & Goals](https://www.ksd.org/about/strategic-plan-goals)
+    * [Strategic Plan and Goals](https://www.ksd.org/about/strategic-plan-goals)
     * [Superintendent](https://www.ksd.org/about/superintendent)
     
 * [Schools](https://www.ksd.org/schools)
@@ -31,27 +31,26 @@
     
     * [Business and Finance](https://www.ksd.org/departments/business)
     * [Capital Projects](https://www.ksd.org/departments/capital-projects)
-    * [Communications & Public Relations](https://www.ksd.org/departments/communications-public-relations)
-    * [K-12 Education](https://www.ksd.org/departments/k-12-services)
+    * [Communications and Public Relations](https://www.ksd.org/departments/communications-public-relations)
     * [Facility Services](https://www.ksd.org/departments/facility-services)
     * [Human Resources & Careers(opens in new window/tab)](https://www.ksd.org/human-resources)
     * [Information Technology](https://www.ksd.org/departments/information-technology)
-    * [Learning Supports & Programs](https://www.ksd.org/departments/learningsupportsprograms)
+    * [K-12 Education](https://www.ksd.org/departments/k-12-services)
+    * [Learning Supports and Programs](https://www.ksd.org/departments/learningsupportsprograms)
     * [Nutrition Services](https://www.ksd.org/departments/nutrition-services)
     * [Payroll & Benefits](https://www.ksd.org/departments/payroll-benefits)
-    * [Purchasing & Warehouse](https://www.ksd.org/departments/purchasing-warehouse)
+    * [Purchasing and Warehouse](https://www.ksd.org/departments/purchasing-warehouse)
     * [Science Resource Center](https://www.ksd.org/departments/science-resource-center)
-    * [Teaching & Learning](https://www.ksd.org/departments/curriculum-instruction)
+    * [Teaching and Learning](https://www.ksd.org/departments/curriculum-instruction)
     * [Transportation](https://www.ksd.org/departments/transportation)
     
 * [Programs](https://www.ksd.org/programs)
     
     * [Action Team for Partnerships](https://www.ksd.org/programs/action-team-for-partnerships)
-    * [Career & College Readiness](https://www.ksd.org/programs/career-college-readiness)
+    * [Career and College Readiness](https://www.ksd.org/programs/career-college-readiness)
     * [Community & Employment Transition](https://www.ksd.org/programs/cet)
     * [Community Education Online](https://www.ksd.org/programs/community-education)
     * [Dual Language](https://www.ksd.org/programs/dual-language)
-    * [ECEAP Preschool](https://www.ksd.org/programs/eceap)
     * [Highly Capable](https://www.ksd.org/programs/highly-capable)
     * [Migrant & Multilingual](https://www.ksd.org/programs/migrant-multilingual)
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
@@ -60,12 +59,36 @@
     * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transitional Kindergarten](https://www.ksd.org/programs/transitional-kindergarten)
     
+* [Students & Families](https://www.ksd.org/students-families)
+    
+    * [Annual Parent Notifications](https://www.ksd.org/students-families/notifications)
+    * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
+    * [Boundaries](https://www.ksd.org/students-families/boundaries)
+    * [Busing](https://www.ksd.org/departments/transportation)
+    * [Community Resources](https://www.ksd.org/students-families/community-resources)
+    * [Course Catalogs](https://www.ksd.org/students-families/course-catalog)
+    * [Delays & Closures](https://www.ksd.org/students-families/school-closures-delays)
+    * [Non-Discrimination, Equity, Civil Rights & Title IX](https://www.ksd.org/about/non-discrimination-equity-civilrights-titleix)
+    * [Enroll](https://www.ksd.org/students-families/enroll)
+    * [Family HUB](https://www.ksd.org/students-families/hub)
+    * [Parent Forms](https://www.ksd.org/students-families/forms)
+    * [Graduation HUB](https://www.ksd.org/students-families/graduationhub)
+    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
+    * [Meals](https://www.ksd.org/departments/nutrition-services)
+    * [ParentSquare / StudentSquare](https://www.ksd.org/students-families/parentsquare)
+    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
+    * [Safety & Security](https://www.ksd.org/students-families/safety-security)
+    * [School Supplies](https://www.ksd.org/students-families/school-supplies)
+    * [Sports](https://www.ksd.org/students-families/sports)
+    * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
+    * [Transfer Requests](https://www.ksd.org/students-families/transfer)
+    
 * [Community](https://www.ksd.org/community)
     
     * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
     * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
+    * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
     * [Facility Rental](https://www.ksd.org/community/facility-rental)
     * [Public Records Request](https://www.ksd.org/community/public-records-request)
     * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
@@ -74,30 +97,8 @@
     * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
     * [Volunteer](https://www.ksd.org/community/volunteer)
     
-* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
+* [News](https://www.ksd.org/news-alerts/news-grid)
 * [Contact Us](https://www.ksd.org/contact-us)
-* [Students & Families](https://www.ksd.org/students-families)
-    
-    * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
-    * [Busing](https://www.ksd.org/departments/transportation)
-    * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [Course Catalogs](https://www.ksd.org/students-families/course-catalog)
-    * [Delays & Closures](https://www.ksd.org/students-families/school-closures-delays)
-    * [Discrimination, Equity, Civil Rights & Title IX](https://www.ksd.org/about/discrimination-equity-civilrights-titleix)
-    * [Enroll](https://www.ksd.org/students-families/enroll)
-    * [Family HUB](https://www.ksd.org/students-families/hub)
-    * [Graduation HUB](https://www.ksd.org/students-families/graduationhub)
-    * [Meals](https://www.ksd.org/departments/nutrition-services)
-    * [Parent Notifications](https://www.ksd.org/students-families/notifications)
-    * [ParentSquare / StudentSquare](https://www.ksd.org/students-families/parentsquare)
-    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
-    * [Safety & Security](https://www.ksd.org/students-families/safety-security)
-    * [School Supplies](https://www.ksd.org/students-families/school-supplies)
-    * [Sports](https://www.ksd.org/students-families/sports)
-    * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
-    * [Transfer Request](https://www.ksd.org/students-families/transfer)
-    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
-    
 
 Search
 
@@ -141,21 +142,21 @@ toggle mobile menu
 * [Report a Safety Concern](https://www.ksd.org/report)
 * [Search Trigger](https://www.ksd.org/search-trigger)
 
-* [About](https://www.ksd.org/about/district-information)
+* [About](https://www.ksd.org/about)
     
-    * [Academic & Student Well-Being Recovery Plan](https://www.ksd.org/about/ksd-academic-and-student-well-being-recovery-plan)
+    * [Academic and Student Well-Being Recovery Plan](https://www.ksd.org/about/ksd-academic-and-student-well-being-recovery-plan)
     * [Administration](https://www.ksd.org/about/administration)
     * [Committees](https://www.ksd.org/about/committees)
-    * [Bonds & Levies](https://www.ksd.org/about/bonds-levies)
+    * [Bonds and Levies](https://www.ksd.org/about/bonds-levies)
     * [Community Report](https://www.ksd.org/about/community-report)
+    * [Non-Discrimination, Equity, Civil Rights and Title IX](https://www.ksd.org/about/non-discrimination-equity-civilrights-titleix)
     * [District Information](https://www.ksd.org/about/district-information)
     * [Flag Notices](https://www.ksd.org/about/flag-notices)
-    * [KSD Livestream](https://www.ksd.org/about/ksdlive)
-    * [Harassment, Intimidation, Bullying, & Cyberbullying](https://www.ksd.org/about/hib)
-    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
-    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
+    * [Harassment, Intimidation, Bullying, and Cyberbullying](https://www.ksd.org/about/hib)
+    * [Health and Safety](https://www.ksd.org/about/health-and-safety)
+    * [Policies and Procedures](https://www.ksd.org/about/policies-procedures)
     * [School Board](https://www.ksd.org/school-board-landing/school-board)
-    * [Strategic Plan & Goals](https://www.ksd.org/about/strategic-plan-goals)
+    * [Strategic Plan and Goals](https://www.ksd.org/about/strategic-plan-goals)
     * [Superintendent](https://www.ksd.org/about/superintendent)
     
 * [Schools](https://www.ksd.org/schools)
@@ -170,27 +171,26 @@ toggle mobile menu
     
     * [Business and Finance](https://www.ksd.org/departments/business)
     * [Capital Projects](https://www.ksd.org/departments/capital-projects)
-    * [Communications & Public Relations](https://www.ksd.org/departments/communications-public-relations)
-    * [K-12 Education](https://www.ksd.org/departments/k-12-services)
+    * [Communications and Public Relations](https://www.ksd.org/departments/communications-public-relations)
     * [Facility Services](https://www.ksd.org/departments/facility-services)
     * [Human Resources & Careers(opens in new window/tab)](https://www.ksd.org/human-resources)
     * [Information Technology](https://www.ksd.org/departments/information-technology)
-    * [Learning Supports & Programs](https://www.ksd.org/departments/learningsupportsprograms)
+    * [K-12 Education](https://www.ksd.org/departments/k-12-services)
+    * [Learning Supports and Programs](https://www.ksd.org/departments/learningsupportsprograms)
     * [Nutrition Services](https://www.ksd.org/departments/nutrition-services)
     * [Payroll & Benefits](https://www.ksd.org/departments/payroll-benefits)
-    * [Purchasing & Warehouse](https://www.ksd.org/departments/purchasing-warehouse)
+    * [Purchasing and Warehouse](https://www.ksd.org/departments/purchasing-warehouse)
     * [Science Resource Center](https://www.ksd.org/departments/science-resource-center)
-    * [Teaching & Learning](https://www.ksd.org/departments/curriculum-instruction)
+    * [Teaching and Learning](https://www.ksd.org/departments/curriculum-instruction)
     * [Transportation](https://www.ksd.org/departments/transportation)
     
 * [Programs](https://www.ksd.org/programs)
     
     * [Action Team for Partnerships](https://www.ksd.org/programs/action-team-for-partnerships)
-    * [Career & College Readiness](https://www.ksd.org/programs/career-college-readiness)
+    * [Career and College Readiness](https://www.ksd.org/programs/career-college-readiness)
     * [Community & Employment Transition](https://www.ksd.org/programs/cet)
     * [Community Education Online](https://www.ksd.org/programs/community-education)
     * [Dual Language](https://www.ksd.org/programs/dual-language)
-    * [ECEAP Preschool](https://www.ksd.org/programs/eceap)
     * [Highly Capable](https://www.ksd.org/programs/highly-capable)
     * [Migrant & Multilingual](https://www.ksd.org/programs/migrant-multilingual)
     * [READY! for Kindergarten](https://www.ksd.org/programs/ready-for-kindergarten)
@@ -199,12 +199,36 @@ toggle mobile menu
     * [Team Read](https://www.ksd.org/programs/team-read)
     * [Transitional Kindergarten](https://www.ksd.org/programs/transitional-kindergarten)
     
+* [Students & Families](https://www.ksd.org/students-families)
+    
+    * [Annual Parent Notifications](https://www.ksd.org/students-families/notifications)
+    * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
+    * [Boundaries](https://www.ksd.org/students-families/boundaries)
+    * [Busing](https://www.ksd.org/departments/transportation)
+    * [Community Resources](https://www.ksd.org/students-families/community-resources)
+    * [Course Catalogs](https://www.ksd.org/students-families/course-catalog)
+    * [Delays & Closures](https://www.ksd.org/students-families/school-closures-delays)
+    * [Non-Discrimination, Equity, Civil Rights & Title IX](https://www.ksd.org/about/non-discrimination-equity-civilrights-titleix)
+    * [Enroll](https://www.ksd.org/students-families/enroll)
+    * [Family HUB](https://www.ksd.org/students-families/hub)
+    * [Parent Forms](https://www.ksd.org/students-families/forms)
+    * [Graduation HUB](https://www.ksd.org/students-families/graduationhub)
+    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
+    * [Meals](https://www.ksd.org/departments/nutrition-services)
+    * [ParentSquare / StudentSquare](https://www.ksd.org/students-families/parentsquare)
+    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
+    * [Safety & Security](https://www.ksd.org/students-families/safety-security)
+    * [School Supplies](https://www.ksd.org/students-families/school-supplies)
+    * [Sports](https://www.ksd.org/students-families/sports)
+    * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
+    * [Transfer Requests](https://www.ksd.org/students-families/transfer)
+    
 * [Community](https://www.ksd.org/community)
     
     * [Community Education(opens in new window/tab)](https://www.ksd.org/programs/community-education)
     * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [E-Flyers (Peachjar)](https://www.ksd.org/community/e-flyers)
+    * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
     * [Facility Rental](https://www.ksd.org/community/facility-rental)
     * [Public Records Request](https://www.ksd.org/community/public-records-request)
     * [Register To Vote(opens in new window/tab)](https://voter.votewa.gov/WhereToVote.aspx)
@@ -213,30 +237,8 @@ toggle mobile menu
     * [Tribal Collaboration](https://www.ksd.org/community/tribal-collaboration)
     * [Volunteer](https://www.ksd.org/community/volunteer)
     
-* [News & Alerts](https://www.ksd.org/news-alerts/news-grid)
+* [News](https://www.ksd.org/news-alerts/news-grid)
 * [Contact Us](https://www.ksd.org/contact-us)
-* [Students & Families](https://www.ksd.org/students-families)
-    
-    * [Asistencia Lingüística En Español](https://www.ksd.org/students-families/espanol)
-    * [Busing](https://www.ksd.org/departments/transportation)
-    * [Community Resources](https://www.ksd.org/students-families/community-resources)
-    * [Course Catalogs](https://www.ksd.org/students-families/course-catalog)
-    * [Delays & Closures](https://www.ksd.org/students-families/school-closures-delays)
-    * [Discrimination, Equity, Civil Rights & Title IX](https://www.ksd.org/about/discrimination-equity-civilrights-titleix)
-    * [Enroll](https://www.ksd.org/students-families/enroll)
-    * [Family HUB](https://www.ksd.org/students-families/hub)
-    * [Graduation HUB](https://www.ksd.org/students-families/graduationhub)
-    * [Meals](https://www.ksd.org/departments/nutrition-services)
-    * [Parent Notifications](https://www.ksd.org/students-families/notifications)
-    * [ParentSquare / StudentSquare](https://www.ksd.org/students-families/parentsquare)
-    * [Policies & Procedures](https://www.ksd.org/about/policies-procedures)
-    * [Safety & Security](https://www.ksd.org/students-families/safety-security)
-    * [School Supplies](https://www.ksd.org/students-families/school-supplies)
-    * [Sports](https://www.ksd.org/students-families/sports)
-    * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
-    * [Transfer Request](https://www.ksd.org/students-families/transfer)
-    * [Health & Safety](https://www.ksd.org/about/health-and-safety)
-    
 
 In This Section
 ---------------
@@ -297,11 +299,11 @@ Find Us
 
 [Kennewick School District](https://www.ksd.org/)
 
-Summer Public Hours: 7:30 a.m. to 4 p.m.
+Hours: 7:30 a.m. - 4:30 p.m., Monday-Friday
 
 Administration Center
 
-1000 W. Fourth Avenue
+1000 W. 4th Avenue
 
 Kennewick
 
@@ -340,11 +342,12 @@ Useful Links
 * [Outlook Email(opens in new window/tab)](https://outlook.office.com/)
 * [PowerSchool(opens in new window/tab)](https://ps.ksd.org/public/)
 * [Rent Facilities](https://www.ksd.org/community/facility-rental)
-* [Sign Up for eNews(opens in new window/tab)](https://www.parentsquare.com/community_signups/753b71c6-d768-43c9-82f7-9d5dfb56709a/new)
+* [Sign Up for eNews and Alerts(opens in new window/tab)](https://www.parentsquare.com/community_signups/753b71c6-d768-43c9-82f7-9d5dfb56709a/new)
 
 Other Links
 
 * [Accessibility](https://www.ksd.org/accessibility-statement)
+* [Non-Discrimination(opens in new window/tab)](https://www.ksd.org/about/non-discrimination-equity-civilrights-titleix)
 * [Site Map](https://www.ksd.org/site-map)
 * [Washington Education Ombuds](https://www.ksd.org/ombuds)
 
