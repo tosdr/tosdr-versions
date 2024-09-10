@@ -258,7 +258,7 @@ Thank you!
 Defenders of Wildlife Privacy Policy
 ====================================
 
-**Last Updated: May 30, 2023**
+**Last Updated: August 8, 2024**
 
 The following websites (each a “Website” or “Site”, or together the “Websites” or “Sites”) are operated by Defenders of Wildlife (“Defenders”): defenders.org, conservationist.io, support.defenders.org, act.defenders.org, the iBeaver application, and any other websites or applications that link to this privacy policy. Your privacy will be protected on these Websites in accordance with this privacy policy (“Privacy Policy”).   
 
@@ -358,7 +358,6 @@ We may process and use your Personal Data for the purpose it was first collected
     
 * If you join or opt-in to our activist network, you will receive informational updates and action alerts on wildlife and related issues. You also may be contacted about other Defenders activities, news, action alerts, and/or fundraising campaigns. Our activist network is an electronic network, and therefore we need an email address to contact you.  
     
-
 * If you sign up with Conservationist.io, we will collect your email address to verify your account. Additionally, you may choose to provide us with your profile picture for your account as well as sign up for notifications sent via email and various newsletters. 
     
 * When you take an action such as sending a message to your elected representatives, government officials or other targets of Defenders advocacy, we will send your message to these recipients, along with the contact information you provide on the input form, typically including your name, address, and email address. Defenders is not responsible for what these recipients may do with your information. Please note that officials receiving these emails may choose to contact you. In addition, sometimes government agencies add the names of people who submit comments on government proposals into public documents recording the names of people who’ve commented in favor or opposed to a given proposal. This is often a part of the government process for receiving and recording feedback from the public. Government agencies typically have strict guidelines around not misusing information provided to them by the public for other purposes. However, you should review the policies of the appropriate government body if you are concerned. 
@@ -503,7 +502,7 @@ Washington, DC 20036 
 
 Image
 
-      ![Get Updates and Alerts](/sites/default/files/styles/original_size/public/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?itok=5cYwVT7p)
+   ![Get Updates and Alerts](https://defendersofwildlife-360365372.imgix.net/sites/default/files/2019-04/Sunset-Over-Caribou-Ranch_Jade-Sevelow_2_P8140001.jpg?fit=max&ixlib=php-3.3.1&w=2000)
 
 ### Get Alerts & Updates
 
