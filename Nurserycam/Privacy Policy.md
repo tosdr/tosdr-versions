@@ -28,7 +28,7 @@ NurseryCam is committed to protecting your personal information in accordance wi
 
 **The GDPR:**
 
-relates to The General Data Protection Regulations due to come into effect on 25th of May 2018.relates to The General Data Protection Regulations due to come into effect on 25th of May 2018.
+relates to The General Data Protection Regulations due to come into effect on 25th of May 2018.
 
   
 
@@ -74,13 +74,13 @@ All IT systems, processes and applications have undergone strict assessments are
 
 ### 2.3.1 Principle 1: Lawfulness, Fairness and Transparency.
 
-Personal Data will only be collected for one of the purposed specified in the applicable Data Protection regulation and the method of processing that will occur will be thoroughly explained to the Data Subject. By providing Personal Data, Subject consent to the use of data to fulfil the purpose of collection or as requested by Subject.
+Personal Data will only be collected for one of the purposes specified in the applicable Data Protection regulation, and the method of processing that will occur will be thoroughly explained to the Data Subject. By providing Personal Data, the Subject consents to the use of the data to fulfill the purpose of collection or as requested by the Subject.
 
   
 
 ### 2.3.2 Principle 2: Purpose Limitation.
 
-Personal Data shall be collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible or exceed those purposes.
+Personal Data shall be collected for specified, explicit, and legitimate purposes and shall not be further processed in a manner that is incompatible with or exceeds those purposes.
 
   
 
@@ -110,27 +110,27 @@ Personal Data shall be processed and stored in a manner that ensures appropriate
 
 ### 3.0 Data Processing
 
-### 3.1 What Type of Information Collected by NurseryCam?
+### 3.1 What Type of Information is Collected by NurseryCam?
 
-NurseryCam is the sole owner to collect information on this website from our users. We do not provide any personally identifying information from users unless it is voluntarily provided to us from our support forms and contact us form. This form will include contact name, company name, country, email address, contact number and certain other information so that we are able to support you and provide you with the information as you have requested. You have no obligation to provide us with all this information, while without providing this information will not affect your ability to browse all functions of our website.
+NurseryCam is the sole owner of the information collected on this website from our users. We do not share any personally identifying information from users unless it is voluntarily provided to us through our support forms and Contact Us form. These forms will include contact name, company name, country, email address, contact number, and certain other information so that we are able to support you and provide the information you have requested. You are under no obligation to provide all this information; however, not providing this information will not affect your ability to browse all functions of our website.
 
   
 
 ### 3.2 Where do NurseryCam store your data?
 
-We only store data on our NurseryCam managed secured environment, your data will never be transmitted outside of the UK unless you have specially requested us to do.
+We only store data in our NurseryCam-managed secured environment, and your data will never be transmitted outside of the UK unless you have specifically requested us to do so.
 
   
 
-### 3.3 How long does data is retained?
+### 3.3 How long is data retained?
 
-Personal data will not be retained for longer than necessary in relation to the purposes for which it was originally collected. All personal data shall be deleted as soon when the purpose of collecting is fulfilled and there is no longer a valid reason to retain.
+Personal data will not be retained longer than necessary in relation to the purposes for which it was originally collected. All personal data shall be deleted as soon as the purpose of collection is fulfilled and there is no longer a valid reason to retain it.
 
   
 
-### 3.4 How NurseryCam Use Any Information Collected?
+### 3.4 How Does NurseryCam Use Any Information Collected?
 
-When you provide your personally identifying information to us, you have been communicated that you are knowingly and voluntarily providing us the information. We will not sell or rent and share your personally identifying information to any third party outside of NurseryCam unless it is needed to fulfil your request, e.g. to fulfil an order or regarding the purpose you contacted us. When you access to this site, you consent to the transmission of your personally identifying information provided to us and to its use as described herein. The information provided may release when we believe release is appropriate to comply with law or to protect our rights.
+When you provide your personally identifying information to us, you are informed that you are knowingly and voluntarily providing this information. We will not sell, rent, or share your personally identifying information with any third party outside of NurseryCam, unless it is needed to fulfill your request, e.g., to fulfill an order or address the purpose for which you contacted us. By accessing this site, you consent to the transmission of your personally identifying information and to its use as described herein. The information provided may be released when we believe release is appropriate to comply with the law or to protect our rights.
 
   
 
@@ -138,13 +138,13 @@ When you provide your personally identifying information to us, you have been co
 
 NurseryCam is alert of your personally identifying information and take precautions to protect it. When you have provided us your sensitive information via the website, your information is protected both online and offline. This site does not store any personally identifying information online. Any of the information you have submitted to us via any forms on this website or email is being protected offline. Your personally identification information will only be used by our employees, who needed the information to perform specific job, e.g. billing or customer service. The computers and servers which we store your personally identifiable information are kept in a secure environment. A variety of security measures are implemented when a user enters, submits, or accesses their information to maintain the safety of personal information.
 
-NurseryCam respects all the personal data and privacy of others and must ensure that appropriate protection and security measures are taken against unauthorizes or unlawful processing of personal data.
+NurseryCam respects all the personal data and privacy of others and must ensure that appropriate protection and security measures are taken against unauthorised or unlawful processing of personal data.
 
   
 
 ### 3.6 Data Subjects Accuracy
 
-Data subjects must notify the data processor of any changes to information held about them. Data subjects have the right in some circumstances to request that inaccurate information about the data subject is erased.
+Data subjects must notify the data processor of any changes to the information held about them. In certain circumstances, data subjects have the right to request that inaccurate information about them be erased.
 
   
 
@@ -156,7 +156,7 @@ NurseryCam staff is aware of the importance of keeping personal data safe and se
 
 ### 4.0 CCTV
 
-NurseryCam is the closed-circuit television (CCTV) and parental webcam system provider. The CCTV system and the images produced is used to detect or prevent crime and to monitor the nursery buildings and grounds to provide a safe and secure environment for nurseryâ€™s children and staff, prevent loss or damage to nursery property. The system encompasses a number of fixed cameras installed at nurseryâ€™s buildings. The CCTV system is owned and operated by the nursery and is monitored centrally from the nurseryâ€™s office.
+NurseryCam is the closed-circuit television (CCTV) and parental webcam system provider. The CCTV system and the images produced is used to detect or prevent crime and to monitor the nursery buildings and grounds to provide a safe and secure environment for nursery's children and staff, prevent loss or damage to nursery property. The system encompasses a number of fixed cameras installed at nursery's buildings. The CCTV system is owned and operated by the nursery and is monitored centrally from the nursery's office.
 
 All operators are made aware of their responsibilities and comply with the contents of this statement and the restrictions in relation to access to, and disclosure of recorded images by publication of this statement.
 
@@ -168,9 +168,9 @@ The CCTV equipment is distributed by DVS, sourced from Hikvision. Hikvision is G
 
 ### 4.1 Statement of Intent
 
-NurseryCam complies with the Information Commissionerâ€™s Office (ICO) CCTV Code of Practice to ensure that CCTV is used responsibly and safeguards trust and confidence in its continued use. The Code of Practice: [CCTV Code of Practice](https://ico.org.uk/media/1542/cctv-code-of-practice.pdf)
+NurseryCam complies with the Information Commissioner's Office (ICO) CCTV Code of Practice to ensure that CCTV is used responsibly and safeguards trust and confidence in its continued use. The Code of Practice: [CCTV Code of Practice](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/about-this-guidance/)
 
-Installation of CCTV equipment, as consented by nursery as the buyer, is for the purpose of crime detection, prevention and safeguarding of nurseryâ€™s staff, children, property and grounds. Cameras are sited to capture images relevant to the purpose for which they are installed and security measures are in place to ensure privacy expectations are not violated.
+Installation of CCTV equipment, as consented by nursery as the buyer, is for the purpose of crime detection, prevention and safeguarding of nursery's staff, children, property and grounds. Cameras are sited to capture images relevant to the purpose for which they are installed and security measures are in place to ensure privacy expectations are not violated.
 
   
 
@@ -182,7 +182,7 @@ Recorded data will not be retained for longer than necessary in relation to the 
 
 ### 4.3 Access to CCTV
 
-Access to any CCTV retained data e.g. recorded images, recordings inclusive of date time will be restricted to authorized nursery staff and our employees. There is strictly no disclosure of CCTV data to third parties other than authorized personnel e.g. Police and Service Provider to provide our rights
+Access to any CCTV-retained data, such as recorded images and recordings, including date and time, will be restricted to authorized nursery staff and our employees. There will be strictly no disclosure of CCTV data to third parties, except authorized personnel such as the Police and Service Providers, to protect our rights.
 
   
 
@@ -268,7 +268,7 @@ Any individual who suspects that a Personal Data Breach has occurred must immedi
 
 ### 9.0 Updates and Enquiries
 
-Our Privacy Statement may vary from time to time and all updates will be posted on this page if any changes made. This statement is maintained and reviewed periodically to reflect the updated privacy laws and GDPR compliance. NurseryCamâ€™s Data Protection Officer is responsible for accuracy and maintenance of this policy. If you have any questions or enquiries regarding our Privacy Policy, kindly send us an email to [\[email protected\]](https://www.nurserycam.co.uk/cdn-cgi/l/email-protection).
+Our Privacy Statement may vary from time to time and all updates will be posted on this page if any changes made. This statement is maintained and reviewed periodically to reflect the updated privacy laws and GDPR compliance. NurseryCam's Data Protection Officer is responsible for accuracy and maintenance of this policy. If you have any questions or enquiries regarding our Privacy Policy, kindly send us an email to [\[email protected\]](https://www.nurserycam.co.uk/cdn-cgi/l/email-protection).
 
 [![NurseryCam Logo](/Content/img/Home/NurseryCam_Logo.svg)](https://www.nurserycam.co.uk/Home)
 
