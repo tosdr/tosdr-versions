@@ -9,7 +9,7 @@ Accessibility
 * [A](javascript:fontadd('medium'))
 * [A](javascript:fontadd('large'))
 
-[![](/images/Tournament-button.png)](https://typingtest.kaz-type.com/kazLogOnTurnament.aspx?TrmntId=Y7Ubn6c7hvLjihiwyLyQ/w==)
+[![](/images/Tournament-button.png)](https://typingtest.kaz-type.com/kazLogOnTurnament.aspx?TrmntId=4B1QmJBAsAaLln5kYbI+JA==)
 
 [![](/images/Tournament-button.png)](https://kaz-type.com/newfolder/touch-typing-tournament.pdf)
 
@@ -18,7 +18,7 @@ Accessibility
 
 * [Shop](https://kaz-type.com/cart_login.aspx?Shoplogin=Store)
 
-[![](/images/logo-3.png)](https://kaz-type.com/)
+[![KAZ](/images/logo-3.png)](https://kaz-type.com/)
 
 * [About](https://kaz-type.com/about)
 * [Products](javascript:;)
