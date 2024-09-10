@@ -37,7 +37,7 @@ English
 
 * [CXL](https://www.marvell.com/products/cxl.html)
 * [Data Processing Units](https://www.marvell.com/products/data-processing-units.html)
-* [Security Solutions](https://www.marvell.com/products/security-solutions.html)
+* [Security](https://www.marvell.com/products/security-solutions.html)
 
 #### Networking
 
@@ -127,7 +127,7 @@ Compute
 
 * [CXL](https://www.marvell.com/products/cxl.html)
 * [Data Processing Units](https://www.marvell.com/products/data-processing-units.html)
-* [Security Solutions](https://www.marvell.com/products/security-solutions.html)
+* [Security](https://www.marvell.com/products/security-solutions.html)
 
 Networking
 
