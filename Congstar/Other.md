@@ -21,12 +21,12 @@
     
     * [Prepaid Tarife](#)
         * [Prepaid Tarife im Vergleich](https://www.congstar.de/prepaid/)
+        * [Prepaid Jahrespaket (120 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
         * [Prepaid Allnet XL (20 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xl/)
         * [Prepaid Allnet L (15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-l/)
-        * [Prepaid Allnet M (10 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
+        * [Prepaid Allnet M (9 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
         * [Prepaid Allnet S (3 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-s/)
         * [Prepaid Allnet XS (1 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xs/)
-        * [Prepaid Halbjahres-Paket (6 GB/Monat)](https://www.congstar.de/prepaid/tarife/prepaid-halbjahrespaket/)
         * [Prepaid wie ich will (1 bis 15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-wie-ich-will/)
     
     * [Optionen](#)
@@ -41,7 +41,6 @@
     
     * [Aktionen](#)
         * [Prepaid Treueangebot - 50 % auf Starterpaket für Kund\*innen](https://www.congstar.de/prepaid/treueangebot/)
-        * [Bald erhältlich: Prepaid Jahrespaket](https://www.congstar.de/schulstart/)
     
 * [Tarife](https://www.congstar.de/handytarife/)
     
@@ -54,7 +53,6 @@
         * [Allnet Flat M mit GB+ (30 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
         * [Allnet Flat S Extra mit GB+ (10 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
         * [Allnet Flat S mit GB+ (5 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s/)
-        * [Tarife für alle von 18 - 27](https://www.congstar.de/young/)
     
     * [Optionen](#)
         * [Zubuchbare Optionen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/tarife/)
@@ -102,22 +100,18 @@
     
     [Übersicht](https://www.congstar.de/festnetz-internet/)
     
+    * [Internet über DSL](#)
+        * [DSL Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
+        * [congstar Zuhause 250 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-250-flex/)
+        * [congstar Zuhause 100 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-100-flex/)
+        * [Jetzt gewinnen: Internet inkl. Wohnungsmiete](https://www.congstar.de/zuhause/)
+    
     * [Internet über LTE](#)
         * [Homespot Tarife im Vergleich](https://www.congstar.de/festnetz-internet/congstar-homespot-im-vergleich/)
         * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
         * [Homespot 200](https://www.congstar.de/internet/homespot/homespot-200/)
         * [Homespot 100](https://www.congstar.de/internet/homespot/homespot-100/)
         * [Homespot 30](https://www.congstar.de/internet/homespot/homespot-30/)
-    
-    * [Internet & Telefonie über DSL](#)
-        * [DSL-Tarife im Vergleich](https://www.congstar.de/festnetz-internet/komplettpakete/)
-    
-    * [LTE Router](#)
-        * [Homespot einrichten](https://www.congstar.de/festnetz-internet/homespot-einrichten/)
-    
-    * [Optionen & Services](#)
-        * [Auslandsflat für DSL-Tarife](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/dsl-festnetz/)
-        * [Optionen zu Homespot](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/homespot/)
     
 * [Hilfe & Service](https://www.congstar.de/hilfe-service/)
     
@@ -246,7 +240,7 @@ Bezüglich der beauftragten Festnetz- und Internettarife, Mobilfunktarife oder d
 
 **Bestellung Handy** \- Die Ware wird nach Einzug des Einmalpreises per Lastschrift versandfertig gemacht. du erhältst die Ware 10 bis 14 Tage nach Bestellung. Wenn du deine Rufnummer von einem anderen Provider mitbringst (Rufnummernmitnahme), muss das genaue Übernahmedatum noch festgelegt werden. Dein Handy erhältst du rechtzeitig 1 bis 3 Tage vor dem Übernahmedatum, frühestens 10 bis 14 Tage nach der Bestellung.
 
-**Bestellung Festnetz & Internet** - Bei einer Bestellung von Festnetz & Internet Produkten erhältst du die Hardware 2 bis 4 Tage vor dem Schaltungstermin. Nach Auftragseingang prüfen wir, wann wir dir den Anschluss bereitstellen können. Der Schaltungstermin wird dir zeitnah per E-Mail mitgeteilt.
+**Bestellung Festnetz & Internet** - Bei einer Bestellung von Festnetz & Internet Produkten erhältst du die Hardware ca. 14 Arbeitstage vor dem Schaltungstermin. Nach Auftragseingang prüfen wir, wann wir dir den Anschluss bereitstellen können. Der Schaltungstermin wird dir zeitnah per E-Mail mitgeteilt.
 
 Zahlung
 -------
