@@ -15,7 +15,6 @@ Lenovo Privacy Statement
 * [LanSchool](https://lenovosoftware.com/legal/lanschool)
 * [Lenovo NetFilter](https://lenovosoftware.com/legal/lenovo-netfilter)
 * [Stoneware](https://lenovosoftware.com/legal/stoneware)
-* [Unified Workspace](https://lenovosoftware.com/legal/unified-workspace)
 * [Previous Product and Privacy Agreements](https://lenovosoftware.com/previous-product-privacy-statements)
 
 ### About This Statement
