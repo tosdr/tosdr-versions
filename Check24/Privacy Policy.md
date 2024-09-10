@@ -120,7 +120,7 @@ Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehm
 
 Zudem unterliegen wir diversen rechtlichen Verpflichtungen bzw. gesetzlichen Anforderungen (z.B. Steuergesetze).
 
-Zu den Zwecken der Verarbeitung gehören unter anderem die die Erfüllung steuerrechtlicher Kontroll- und Meldepflichten, Identitätsprüfung, Betrugs- und Geldwäscheprävention.
+Zu den Zwecken der Verarbeitung gehören unter anderem die Erfüllung steuerrechtlicher Kontroll- und Meldepflichten, Identitätsprüfung, Betrugs- und Geldwäscheprävention.
 
 #### 4.5 automatisierte Entscheidungsfindung und Profiling
 
