@@ -91,10 +91,10 @@ Search for:
 
 Log In
 
-* ![Accelerate Icon](data:image/svg+xml;nitro-empty-id=NDk3OjIyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Accelerate](https://signin.liftoff.io/signin)
-* ![Monetize icon](data:image/svg+xml;nitro-empty-id=NTAxOjIyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Monetize](https://app.vungle.com/login/)
-* ![Direct icon](data:image/svg+xml;nitro-empty-id=NTA1OjIxOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Direct](https://app.vungle.com/login/)
-* ![Intelligence icon](data:image/svg+xml;nitro-empty-id=NTA5OjIzMA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgxIDE4MSIgd2lkdGg9IjE4MSIgaGVpZ2h0PSIxODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [GameRefinery](https://app.gamerefinery.com/)
+* ![Accelerate product logo](data:image/gif;nitro-empty-id=NDk3OjIzOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Accelerate](https://signin.liftoff.io/signin)
+* ![Monetize product logo](data:image/gif;nitro-empty-id=NTAxOjIzNQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Monetize](https://app.vungle.com/login/)
+* ![Direct product logo](data:image/gif;nitro-empty-id=NTA1OjIzMQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Direct](https://app.vungle.com/login/)
+* ![Intelligence product logo](data:image/gif;nitro-empty-id=NTA5OjI0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [GameRefinery](https://app.gamerefinery.com/)
 
 [Get Started](https://liftoff.io/sign-up/)
 
@@ -180,17 +180,17 @@ Liftoff
 
 Privacy Policy
 
-Effective: January 2024
+Effective: August 2024
 
-The Liftoff group of companies which includes Liftoff Mobile, Inc. and Vungle, Inc. (“Liftoff,” “we,” “us,” “our”) is a mobile advertising group that provides customers with an advertising and optimization platform and software (the “Services”). In order to provide our Services to customers, we collect and use certain information about user activity and preferences. As such, we know that our users (“you”, “your”) care about their personal information and how it is used and shared, and we take your privacy very seriously. Taking the importance of your privacy into consideration, we have created and enacted this privacy policy to help you understand our privacy practices.
+Liftoff Mobile, Inc. (“Company,” “we,” “us,” “our”) is a mobile advertising company that provides customers with an advertising and optimization platform and software (the “Services”). In order to provide our Services to customers, we collect and use certain information about user activity and preferences. As such, we know that our users (“you”, “your”) care about their personal information and how it is used and shared, and we take your privacy very seriously. Taking the importance of your privacy into consideration, we have created and enacted this privacy policy to help you understand our privacy practices.
 
 KEY POINTS
 
-* Liftoff is the data controller of personal information processed through our interaction with you or processed in order to serve you with ads.
+* Liftoff Mobile, Inc. is the data controller of personal information processed through our interaction with you or processed in order to serve you with ads.
 * We obtain and process information about end users who are targeted with our customers’ ads (insofar as the information is required for such ad targeting), customer and supplier personnel (for the purposes of liaising and contracting with customers and suppliers and for business development purposes) and users of our website (to provide the website and answer queries and requests).
 * We may send you marketing updates about our services, however you can unsubscribe at any time.
 * We share information with third party service providers, our affiliates and partners, our group companies and where required by law.
-* You have a number of rights that you may exercise in relation to our use of your personal information, and you may exercise these by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+* You have a number of rights that you may exercise in relation to our use of your personal information, and you may exercise these by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 I. WHAT DOES THIS PRIVACY POLICY COVER?
 
@@ -201,27 +201,27 @@ The privacy practices and policies that we outline in this privacy policy will a
 * “Partner”: providing services to us, to allow us to provide Services to our Customers: or
 * “Targeted End User”: using mobile apps provided to you by our Customers (acting as an “End User”).
 
-This privacy policy applies to the Site and our Services. This privacy policy describes how Liftoff collects, uses, shares and stores information that identifies you (“personal information”) as well as your choices regarding the use, access and correction of your personal information. Please note that this policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy applies to the Site and our Services. This privacy policy describes how Liftoff Mobile, Inc. collects, uses, shares and stores information that identifies you (“personal information”) as well as your choices regarding the use, access and correction of your personal information. Please note that this policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 This Privacy Policy covers the following:
 
-* [Who we are](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23II&sa=D&source=editors&ust=1722280536228594&usg=AOvVaw2kw6B4aJGCYSzoRwYnP-gm)
-* [The information we collect and how we use and store your personal information](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23III&sa=D&source=editors&ust=1722280536229070&usg=AOvVaw18tMZ3sR5na1XdPcjbtmph)
-* [Cookies](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23cookies&sa=D&source=editors&ust=1722280536229486&usg=AOvVaw3yURBbgKgo-rE_Ru3qEOio)
-* [International transfers](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23IV&sa=D&source=editors&ust=1722280536229852&usg=AOvVaw3J1dVkdNQuehu5D35B3HTI)
-* [How we share your personal information and who we share it with](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23V&sa=D&source=editors&ust=1722280536230196&usg=AOvVaw0h9bt5UTprJX9vIZFXN2HF)
-* [Security](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23VI&sa=D&source=editors&ust=1722280536230504&usg=AOvVaw19_M6E9iPyk1PJwyOwzJnG)
-* [Data retention](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23VII&sa=D&source=editors&ust=1722280536230781&usg=AOvVaw0ouAccLol0pjwvZ1gjRJbR)
-* [Your rights and your options for opting out of these practices](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23VIII&sa=D&source=editors&ust=1722280536231068&usg=AOvVaw3DzpBdDU6ApFYnndpQMyLF)
-* [Changes to the privacy policy](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23X&sa=D&source=editors&ust=1722280536231320&usg=AOvVaw1sNSpUqiCgBe9Uqkgces2P)
-* [Children’s privacy](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23IX&sa=D&source=editors&ust=1722280536231579&usg=AOvVaw3ifvZ01oZJXoPfst8gvOQ-)
-* [How](https://www.google.com/url?q=https://liftoff.io/privacy-policy/%23XI&sa=D&source=editors&ust=1722280536231836&usg=AOvVaw3JI_-UHE7e7o95hZ99rsez) to contact us
+* Who we are
+* The information we collect and how we use and store your personal information
+* Cookies
+* International transfers
+* How we share your personal information and who we share it with
+* Security
+* Data retention
+* Your rights and your options for opting out of these practices
+* Changes to the privacy policy
+* Children’s Privacy
+* Complaints, questions and suggestions
 
 II. WHO WE ARE
 
-Liftoff is the data controller of the personal information that we collect from you. It is a company registered in Delaware (registration number C3511707), whose registered office is at 555 Bryant Street, Suite #133, Palo Alto CA 94301.
+Liftoff Mobile, Inc. is the data controller of the personal information that we collect from you. It is a company registered in Delaware (registration number C3511707), whose registered office is at 555 Bryant Street, Suite #133, Palo Alto CA 94301.
 
-You can contact us in relation to this privacy policy by email at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). For more information on how to contact us, see the “How to contact us” section below.
+You can contact us in relation to this privacy policy by email at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 III. THE INFORMATION WE COLLECT AND HOW WE USE AND STORE YOUR PERSONAL INFORMATION
 
@@ -233,7 +233,7 @@ The type of personal information that we process falls into three categories:
 
 A. Information We Collect from Customers and Partners
 
-If you are one of our Customers or Partners (or a representative of one of our Customers or Partners), we collect the following information from you, and process it for the following purposes (based on the following legal basis if you are located in the UK / European Economic Area (“EU”)):
+If you are one of our Customers or Partners (or a representative of one of our Customers or Partners), we collect the following information from you, and process it for the following purposes (based on the following legal basis if you are located in the UK / European Economic Area (“EEA”)):
 
 |     |     |     |
 | --- | --- | --- |
@@ -256,27 +256,28 @@ If you are one of our Customers or Partners (or a representative of one of our C
 * Geographic data
 * Payment Information from Partners
 
-Customers and Partners wishing to opt out of receiving information from Liftoff can click “UNSUBSCRIBE” in marketing emails or email us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+Customers and Partners wishing to opt out of receiving information from Liftoff can click “UNSUBSCRIBE” in marketing emails or email us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 We also collect certain types of information automatically through the use of Cookies as outlined below and other similar tracking technologies. These tracking technologies enable us to personalize the Services to Customers.
 
-When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided in order to reach out to the individual nominated as a mobile hero. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided in order to reach out to the individual nominated as a mobile hero. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 B. Information We Collect and Use About Targeted End Users When They Interact With Our Customers’ Mobile Applications
 
-If you are a Targeted End User, we collect certain device information provided by our advertising exchange Partners or our Customers which we process it for the following purposes (based on the following legal basis if you are located in the UK / EU):
+If you are a Targeted End User, we collect certain device information provided by our advertising exchange Partners or our Customers which we process it for the following purposes (based on the following legal basis if you are located in the UK / EEA):
 
 |     |     |     |
 | --- | --- | --- |
 | Personal Information | Purpose | Legal Basis |
-| Generic geographic location consisting of IP address and explicit geographical categorization such as country or zip code and then granular latitude and longitude coordinates (please note that this is subject to the capability of the advertising exchange that we use, and so this data is not always collected by us);<br><br>Carrier;<br><br>Device make, manufacturer, operating system and language settings;<br><br>Name of application interactive with Liftoff Services;<br><br>Internet Protocol Address;<br><br>Device ID;<br><br>Browser type;<br><br>Internet service provider (ISP);<br><br>Android ID or Identifier for Advertisers (IDFA);<br><br>Connection speed;<br><br>App usage data;<br><br>Referring / exit pages;<br><br>Files viewed on our Site (e.g. HTML pages, graphic, etc.);<br><br>Date / time stamp;<br><br>Clickstream data | Using limited data to select advertising: Advertising presented to you on a Customer’s app can be based on limited data, such as the app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you). | Consent |
+| Generic geographic location consisting of IP address and explicit geographical categorization such as country or zip code and then granular latitude and longitude coordinates (please note that this is subject to the capability of the advertising exchange that we use, and so this data is not always collected by us);<br><br>Carrier;<br><br>Device make, manufacturer, operating system and language settings;<br><br>Name of application interactive with Liftoff Services;<br><br>Internet Protocol Address;<br><br>Device ID;<br><br>Browser type;<br><br>Internet service provider (ISP);<br><br>Android ID or Identifier for Advertisers (IDFA);<br><br>Connection speed;<br><br>App usage data;<br><br>Referring / exit pages;<br><br>Files viewed on our Site (e.g. HTML pages, graphic, etc.);<br><br>Date / time stamp;<br><br>Clickstream data;<br><br>Your preferences regarding the processing of your data, based on the information you have received. | Using limited data to select advertising: Advertising presented to you on a Customer’s app can be based on limited data, such as the app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you). | Consent |
 | Creating profiles for personalised advertising: Information about your activity on a Customer’s app (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on a Customer’s app and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities. | Consent |
 | Using profiles to select personalised advertising: Advertising presented to you on a Customer’s app can be based on your advertising profiles, which can reflect your activity on that app or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects. | Consent |
 | Measuring advertising performance: Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or download an app, etc. This is very helpful to understand the relevance of advertising campaigns. | Consent |
-| Understanding audiences through statistics or combinations of data from different sources: Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents). | Consent |
-| Developing and improving services: Information about your activity a Customer’s app, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers. | Consent |
-| Ensuring security, preventing and detecting fraud, and fix errors: Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them. | Legitimate interests (it is in the interests of us, our clients, and you to ensure that ads are served in a safe and error free way and that fraudulent third parties do not distort the true price to be paid for showing you ads) |
+| Understanding audiences through statistics or combinations of data from different sources: eports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents). | Consent |
+| Developing and improving services:  Information about your activity a Customer’s app, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers. | Consent |
+| Ensuring security, preventing and detecting fraud, and fix errors: our data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them. | Legitimate interests (it is in the interests of us, our clients, and you to ensure that ads are served in a safe and error free way and that fraudulent third parties do not distort the true price to be paid for showing you ads) |
 | Delivering and presenting advertising and content: Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device. | Legitimate interests (it is in the interests of us, as a core aspect of our business, to help to serve the ads, whether personalised or not, at a technical level) |
+| Save and communicate privacy choices: The choices you make regarding the purposes and entities listed in any consent mechanism show to you on a website or app you visit are saved and made available to us in the form of digital signals (such as a string of characters). This is necessary in order to enable us, and Partners with which we share these details, to respect your privacy choices. | Legitimate interests (it is in the interests of us, as an advertising platform, to understand the choices you have made about how we can use your data so that we can respect them, and to share details of these choices with Partners, so that they can do the same) |
 | Preserving and sharing information with others including law enforcement, responding to legal requests and establishing, exercising or defending our legal rights | Legitimate interests (protecting our rights, personnel, property or products, or those of others);<br><br>Compliance with legal obligations |
 | To follow applicable laws and regulations | Compliance with legal obligations |
 
@@ -298,11 +299,11 @@ Our Privacy Principles for the use of data about Targeted End Users
 
 * Liftoff does not record or store personal information that the user cannot easily revoke, such as email address, physical address, photographs or phone number to personalize our advertising. Liftoff relies upon device IDs to uniquely identify a user, and Liftoff solely relies upon the user’s consent in allowing Liftoff to access this information.
 * Liftoff does not export per-user data outside of Liftoff, except for validation purposes to a company that already has access to that data
-* Details of how to opt-out of interest based advertising from us can be found at: [https://liftoff.io/opt-out/](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1722280536250707&usg=AOvVaw085xQgc37SnSapS_cULDEH).
+* Details of how to opt-out of interest based advertising from us can be found at: [https://liftoff.io/opt-out/](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1724979383529705&usg=AOvVaw2GXM35sd3WEJCRCJHMBpXA).
 
 C. Information You Provide to Us via Our Site
 
-When you visit our Site, we collect the following information from you, and process it for the following purposes (based on the following legal basis if you are located in the UK / EU):
+When you visit our Site, we collect the following information from you, and process it for the following purposes (based on the following legal basis if you are located in the UK / EEA):
 
 |     |     |     |
 | --- | --- | --- |
@@ -317,9 +318,9 @@ When you visit our Site, we collect the following information from you, and proc
 | Preserving and sharing information with others including law enforcement, responding to legal requests and establishing, exercising or defending our legal rights | Legitimate interests (protecting our rights, personnel, property or products, or those of others);<br><br>Compliance with legal obligations |
 | To follow applicable laws and regulations | Compliance with legal obligations |
 
-If you do not want to receive any communications from us (as set out in the table above), please indicate this by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+If you do not want to receive any communications from us (as set out in the table above), please indicate this by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). Please note that if you do not want to receive legal notices from us, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
 
-Additionally, you may sign up to receive reports and communications from us by following the “Join Our Newsletter” link on our Site. If you would like to opt-out of receiving any information that you receive from us, such as our newsletter, you may update your email preferences by using the “UNSUBSCRIBE” link found in emails we send to you or at your member profile on our Site or by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+Additionally, you may sign up to receive reports and communications from us by following the “Join Our Newsletter” link on our Site. If you would like to opt-out of receiving any information that you receive from us, such as our newsletter, you may update your email preferences by using the “UNSUBSCRIBE” link found in emails we send to you or at your member profile on our Site or by contacting us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 User Data Supplementation
 
@@ -327,7 +328,7 @@ We may receive information about you from other sources as required in connectio
 
 Cookies and Tracking Technologies
 
-Liftoff and our partners use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around our Site, and to gather demographic information about our user base as a whole. A full list of cookies we use on this site is found on our [Cookie Policy](https://www.google.com/url?q=https://liftoff.io/cookie-policy/&sa=D&source=editors&ust=1722280536257525&usg=AOvVaw1LOuWjIrLBDskIxn-kXFFR).
+Liftoff and our partners use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around our Site, and to gather demographic information about our user base as a whole. A full list of cookies we use on this site is found on our [Cookie Policy](https://www.google.com/url?q=https://liftoff.io/cookie-policy/&sa=D&source=editors&ust=1724979383539438&usg=AOvVaw0TC1Erzz_sZSZQd8dC41W7).
 
 You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Site or Services.
 
@@ -341,7 +342,7 @@ We perform the following automated decision making processes using your personal
 
 Information Related to Data Collected through the Service
 
-If you are using our analytics platform, the use of information collected through our service shall be limited to the purpose of providing the Service for which you have engaged Liftoff.
+If you are using our analytics platform, the use of information collected through our service shall be limited to the purpose of providing the Service for which you have engaged Liftoff Mobile, Inc.
 
 Liftoff collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal information it processes. If you are a Targeted End Users of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly.  We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
@@ -351,65 +352,70 @@ We will retain personal information we process on behalf of our Customers for as
 
 IV. INTERNATIONAL TRANSFERS
 
-Your personal information may be collected, transferred to, and processed in, countries other than the country in which you are located, including the United States and other countries where we or our group companies or service providers (among others) maintain facilities. Our group affiliates and our third party service providers and partners operate around the world. We maintain primary data centers in the United States, Singapore and Japan and Germany. These countries may have data protection laws that are different to the laws of your country, and may not provide for the same level of data protection as your jurisdiction. We take steps designed to ensure that the data we collect under this privacy policy is processed as described in this privacy policy and according to applicable law.
+As we are based in the United States, if you are located outside the United States and provide personal information to us, or to one of our group companies, your information will be transferred to us in the United States in accordance with this privacy policy.
 
-We have implemented appropriate safeguards to ensure that the recipient of your personal information offers an adequate level of protection, including by entering into the standard contractual clauses for the transfer of personal information, or where required, we will ask you for your prior written consent for such international data transfers.
+Data Privacy Framework
 
-Where we transfer your personal information to countries and territories outside of the European Economic Area, Switzerland and the UK which have been formally recognized as providing an adequate level of protection for personal information, we rely on the relevant “adequacy decisions” and “adequacy regulations” from the European Commission, Swiss and UK authorities.
+Liftoff Mobile, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  We have certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. We have certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.google.com/url?q=https://www.dataprivacyframework.gov/&sa=D&source=editors&ust=1724979383541168&usg=AOvVaw3eoL2Xx4pGKNLFNzOQRdwk).
 
-Where the transfer is not subject to an adequacy decision, we take appropriate safeguards to ensure that your personal information will remain protected in accordance with this privacy policy and applicable laws. These safeguards include implementing the European Commission’s Standard Contractual Clauses as issued on 4 June 2021 under Article 46(2) GDPR for transfers originating in the EU and Switzerland; and the UK Addendum under Article 46(2) of the UK GDPR for the transfer of data originating in the UK.
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, we commit to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Liftoff Mobile, Inc. at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). We commit to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [www.jamsadr.com/eu-us-data-privacy-framework](https://www.google.com/url?q=http://www.jamsadr.com/eu-us-data-privacy-framework&sa=D&source=editors&ust=1724979383541589&usg=AOvVaw2EnBOqbO3p0Q_eQKI5v4aU) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If your complaint is not resolved by us or by JAMS, you may, under certain conditions, invoke binding arbitration for complaints regarding compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. Please see [here](https://www.google.com/url?q=https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584%3D2&sa=D&source=editors&ust=1724979383541825&usg=AOvVaw3T9a4X3gzIEwgEjKAR9-_6) for additional information.
 
-Our Standard Contractual Clauses entered into by our group companies and with our third party service providers and partners can be provided on request. Please note that some sensitive commercial information will be redacted. If you have any questions or concerns related to international data transfers, please contact us via the contact details set out below.
+In the event we transfer your data to third parties which perform services on our behalf, we shall remain liable under the EU-U.S. DPF Principles and Swiss-U.S. DPF Principles if the third party processes your personal information in a manner inconsistent with these Principles, unless we prove we are not responsible for the event giving rise to any damage.
 
-Data Privacy Frameworks
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. We may be required to disclose personal information we handle under the EU-U.S. DPF and the Swiss-U.S. DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Liftoff complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF (“UK Extension”) and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. We have certified to the U.S. Department of Commerce that we adhere (i) to the EU-U.S. DPF Principles with regard to the processing of personal information received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, and (ii) the Swiss-U.S. DPF Principles  with regard to the processing of personal information received from Switzerland in reliance on the Swiss-U.S. DPF (collectively, the “DPF Principles”). If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view our certification, please visit [](https://www.google.com/url?q=https://www.dataprivacyframework.gov/&sa=D&source=editors&ust=1722280536259170&usg=AOvVaw2YfghKClj2GmY4oNjpQsaL)[https://www.dataprivacyframework.gov/](https://www.google.com/url?q=https://www.dataprivacyframework.gov/&sa=D&source=editors&ust=1722280536259359&usg=AOvVaw2nIz5SBcT7gPdb95LF6WRR).
+Other international transfers
 
-The types of personal information we receive in the US, as well as the purposes for which we collect and use it, are set out in section II titled “The information we collect and how we use and store your information”. We will give you an opportunity to opt out where personal information we control about you is to be disclosed to an independent third party, or is to be used for a purpose that is materially different from those set out in this privacy policy. If you otherwise wish to limit the use or disclosure of your personal information, please contact us via the contact details set out below.
+If you are based in the United Kingdom or European Economic Area, please note that we may also transfer personal information that we collect from you to third party data processors located in countries that are outside of the United Kingdom or European Economic Area (including to the United States) or to members of our group of companies (including to the following entities based in the following countries: Liftoff Mobile Pte Ltd in Singapore and Liftoff Mobile KK in Japan) in connection with the above purposes.
 
-Information about the types of third parties to which we disclose personal information and the purposes for which we do so is described in Section V below titled “How we share your personal information and who we share it with”. If we have received your personal information in the US and subsequently transfer that information to a third party acting as an agent, and such third party agent processes your personal information in a manner inconsistent with the DPF Principles, we will remain liable unless we can prove we are not responsible for the event giving rise to the damage. If you are located in the European Economic Area, the United Kingdom (inc. Gibraltar) or Switzerland, you have the right to request access to the personal information that we hold about you and request that we correct, amend, or delete it if it is inaccurate or processed in violation of the DPF Principles. If you would like to exercise these rights, please contact us via the contact details provided below. We may request specific information from you to confirm your identity and we will respond to your request in accordance with the DPF Principles and applicable data protection laws. You may also opt-out of receiving marketing communications from us by writing to us at the contact details provided below or by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you.
+If you are based in the United Kingdom or European Economic Area, please note that we may also transfer personal information that we collect from you to third party data processors located in countries that are outside of the United Kingdom or European Economic Area (including to the United States) or to members of our group of companies (including to the following entities based in the following countries: Liftoff Mobile Pte Ltd in Singapore and Liftoff Mobile KK in Japan) in connection with the above purposes.
 
-In compliance with the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF, we commit to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal information received in reliance on the EU-U.S. DPF, UK Extension and Swiss-U.S. DPF should first contact Liftoff at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). We will investigate and attempt to resolve any DPF-related complaints or disputes within forty-five (45) days of receipt.
+Please be aware that countries which are outside the United Kingdom or the European Economic Area may not offer the same level of data protection, although our collection, storage and use of your personal data will continue to be governed by this privacy policy.
 
-We commit to refer unresolved complaints concerning our handling of personal information received in reliance on the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [](https://www.google.com/url?q=http://www.jamsadr.com/eu-us-data-privacy-framework&sa=D&source=editors&ust=1722280536259845&usg=AOvVaw3NZ1qDWmBx5B5mQHUTD3oZ)[www.jamsadr.com/eu-us-data-privacy-framework](https://www.google.com/url?q=http://www.jamsadr.com/eu-us-data-privacy-framework&sa=D&source=editors&ust=1722280536259985&usg=AOvVaw2x5L_qQaZqoEAFCZRIVTPP) for more information or to file a complaint. The services of JAMS are provided at no cost to you. If your complaint is not resolved by us or by JAMS, you may, under certain conditions, invoke binding arbitration for complaints regarding compliance with the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF. Please see [](https://www.google.com/url?q=https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584%3D2&sa=D&source=editors&ust=1722280536260171&usg=AOvVaw3YDhfm1xB1O02TaNZEpVNs)[here](https://www.google.com/url?q=https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584%3D2&sa=D&source=editors&ust=1722280536260314&usg=AOvVaw3Bo1Zm6hXYCwZUFlCdcba6) for additional information.
+If we provide any personal information about you to any such non-UK and non-EEA members of our group of companies or third parties, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy. These measures may include the following:
 
-The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF. We may be required to disclose personal information we handle under the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+1. ensuring that there is an adequacy decision by the UK Government in the case of transfers out of the UK, or by the European Commission in the case of transfers out of the EEA, which means that the recipient country is deemed to provide adequate protection for such personal data; or
+2. having in place standard model contractual arrangements with the recipient which have been approved by the European Commission or the UK Government (as applicable). These model contractual clauses include certain safeguards to protect the personal data.
 
-We reserve the right to amend this section from time to time consistent with the EU-U.S. DPF, the UK Extension and the Swiss-U.S. DPF requirements.
+Further details on the steps we take to protect your personal information in these cases is available from us on request by contacting us by email at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 V. HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH
 
-·           Sharing of Information We Collect
+Sharing of Information We Collect
 
 We neither rent nor sell your personal information in personally identifiable form to anyone. However, we do share your personal information with third parties as described in Section III and in this Section. If you have consented to us sharing your personal information but later change your mind, you may contact us and we will cease any such activity.
 
-·           Affiliated Businesses and Third Party Websites We Do Not Control
+Affiliated Businesses and Third Party Websites We Do Not Control
 
-In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Services (either alone or jointly with us). You will be able to recognize when an affiliated business is associated with such a transaction or service, and we will share your personal information with that affiliated business only to the extent that it is necessary and related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies. This privacy policy applies only to personal information that we collect through the Site and Services. If you have any questions about these practices, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+In certain situations, businesses or third party websites we’re affiliated with may sell items or provide services to you through the Services (either alone or jointly with us). You will be able to recognize when an affiliated business is associated with such a transaction or service, and we will share your personal information with that affiliated business only to the extent that it is necessary and related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies. This privacy policy applies only to personal information that we collect through the Site and Services. If you have any questions about these practices, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
-·           Service Providers
+Service Providers
 
-We employ third party companies and people, for example cloud service providers (“Third Party Service Providers”), such as Amazon Web Services, Dropbox, Salesforce and [Unity Technologies](https://www.google.com/url?q=https://unity3d.com/legal/privacy-policy&sa=D&source=editors&ust=1722280536261192&usg=AOvVaw2C_KOL9Us01BvFE-GFsgk0) to perform tasks e.g., provide computer and network infrastructure services on our behalf or as advertising exchange partners and we may need to share your information with them to provide products or Services to you. We only share your personal information with Third Party Service Providers to the extent necessary for them to assist us and they do not have any right to use your personal information we share with them beyond what is necessary to assist us. We may also work with Google to deliver the best advertising opportunities to its clients through the use of remarketing tags. Traffic Clients and other data subjects can consult Google’s policies to learn more about Google’s processing policies [here](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites?hl%3Den-US&sa=D&source=editors&ust=1722280536261392&usg=AOvVaw3yU-d_669r92XdVCH-gtGx).
+We employ third party companies and people, for example cloud service providers (“Third Party Service Providers”), such as Amazon Web Services, Dropbox, Salesforce and [Unity Technologies](https://www.google.com/url?q=https://unity3d.com/legal/privacy-policy&sa=D&source=editors&ust=1724979383543240&usg=AOvVaw1qSnv5AsYqb9b13mKihjbj) to perform tasks e.g., provide computer and network infrastructure services on our behalf or as advertising exchange partners and we may need to share your information with them to provide products or Services to you. We only share your personal information with Third Party Service Providers to the extent necessary for them to assist us and they do not have any right to use your personal information we share with them beyond what is necessary to assist us. We may also work with Google to deliver the best advertising opportunities to its clients through the use of remarketing tags. Traffic Clients and other data subjects can consult Google’s policies to learn more about Google’s processing policies [here](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites?hl%3Den-US&sa=D&source=editors&ust=1724979383543596&usg=AOvVaw18q2jJX9uffpsOme4GHhya).
 
-·           Group companies
+Third Party Digital Advertising Partners
+
+If you are a Targeted End User, we will share data about you with Partners, to be used by those Partners for advertising-related purposes, including establishing (on behalf of advertisers) whether to bid on the opportunity to show you ads. When we share data in this manner, we will also share with the relevant Partner details about whether you have consented to, or objected to, the use of your data by the Partner for specified purposes.
+
+Group Companies
 
 We may provide your personal information to our subsidiaries or affiliated companies for the purpose of processing personal information on our behalf to provide the Site and the Services to you. These parties are required to process such information based on our instructions and in accordance with this privacy policy. They do not have any independent right to share this information.
 
-·           Compliance with laws and legal proceedings
+Compliance with laws and legal proceedings
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-·           Merger or Acquisition
+Merger or Acquisition
 
-If Liftoff or any of its subsidiaries are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
+If Liftoff Mobile, Inc. or any of its subsidiaries are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
 
 VI. SECURITY
 
-The security of your personal information is important to us.  Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
+The security of your personal information is important to us.  Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us
 
-We take appropriate steps to pseudonymize your personal information. For Targeted End Users, the advertising device IDs (which are the only per-user identifiers that we track, and can be reset by the user at any time) are SHA1-hashed before insertion. Since SHA1 is a one-way hashing algorithm, the original raw advertising device ID cannot be reverse-engineered from the hashed version.
+We take appropriate steps to pseudonymize your personal data. For Targeted End Users, the advertising device IDs (which are the only per-user identifiers that we track, and can be reset by the user at any time) are SHA1-hashed before insertion. Since SHA1 is a one-way hashing algorithm, the original raw advertising device ID cannot be reverse-engineered from the hashed version.
 
-If you have any questions about the security of your personal information, you can contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+If you have any questions about the security of your personal information, you can contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 VII. DATA RETENTION
 
@@ -423,62 +429,50 @@ We will delete it after the timescales stated above, except we will retain and u
 
 VIII. YOUR RIGHTS
 
-·           Opting-out of interest-based advertising from Liftoff
+Opting-out of interest-based advertising from Liftoff
 
-As described in this privacy policy, third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements by clicking [here](https://www.google.com/url?q=http://preferences-mgr.truste.com/&sa=D&source=editors&ust=1722280536262702&usg=AOvVaw3Yhgephj0EtVTUWHM76ygB) (or if located in the EU click [here](https://www.google.com/url?q=http://www.youronlinechoices.eu/&sa=D&source=editors&ust=1722280536262900&usg=AOvVaw1uDEBCEdNDO-ehNbcsxwdl)). Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.
+As described in this privacy policy, third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements by clicking [here](https://www.google.com/url?q=https://preferences-mgr.truste.com/&sa=D&source=editors&ust=1724979383545301&usg=AOvVaw2hSr8pHn0L0JHg3CbDL2Ij)(or if located in the European Union click [here](https://www.google.com/url?q=https://youronlinechoices.eu/&sa=D&source=editors&ust=1724979383545478&usg=AOvVaw35O8f8x8avnqWZq_MLERSb). Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.
 
-Refer to our [opt out page](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1722280536263230&usg=AOvVaw3cU4R6TC1uf5XBhLBfVRsw) for instructions on how to opt-out of interest-based advertising when you are a Targeted End User.
+Refer to our [opt out page](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1724979383545693&usg=AOvVaw0XsME7nKTqa5pJdk2BsHJc) for instructions on how to opt-out of interest-based advertising when you are a Targeted End User.
 
-·           Data Subject Rights
+Data Subject Rights
 
-You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) at any time. You have the following rights:
+* You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact us via email at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) at any time. You have the following rights:
 
-1. Right of access.  You have a right of access to any personal information we hold about you.  You can ask us for a copy of your personal information; confirmation as to whether your personal information is being used by us; details about how and why it is being used; and details of the safeguards which are in place if we transfer your information outside of the UK or EU.
-2. Right to correct/ update your information. You have a right to request a correction/ update to any of your personal information which is out of date or incorrect.
+1. Right of access.  You have a right of access to any personal information we hold about you.  You can ask us for a copy of your personal information; confirmation as to whether your personal information is being used by us; details about how and why it is being used; and details of the safeguards which are in place if we transfer your information outside of the UK or EEA.
+2. Right to update your information.  You have a right to request an update to any of your personal information which is out of date or incorrect.
 3. Right to delete your information.  You have a right to ask us to delete any personal information which we are holding about you in certain specific circumstances.  You can ask us for further information on these specific circumstances by contacting us by email.
 
 We will pass your request onto other recipients of your personal information unless that is impossible or involves disproportionate effort.  You can ask us who the recipients are, by contacting us by email.
 
 4. Right to restrict use of your information: You have a right to ask us to restrict the way that we process your personal information in certain specific circumstances.  You can ask us for further information on these specific circumstances by contacting us by email.  
 
-We will pass your request onto other recipients of your personal information unless that is impossible or involves disproportionate effort.  You can ask us who the recipients are by contacting us by email.
+* We will pass your request onto other recipients of your personal information unless that is impossible or involves disproportionate effort.  You can ask us who the recipients are by contacting us by email.
 
-5. Right to object to processing of your personal information.  You have a right to ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our or another person’s legitimate interest.  
-6. If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
-7. Right to stop marketing: You have a right to ask us to stop using your personal information for direct marketing purposes.  If you exercise this right, we will stop using your personal information for this purpose.
-8. Right to data portability: You have a right to ask us to provide your personal information to a third party provider of services.  
+5. Right to stop marketing: You have a right to ask us to stop using your personal information for direct marketing purposes.  If you exercise this right, we will stop using your personal information for this purpose.  
+6. Right to data portability: You have a right to ask us to provide your personal information to a third party provider of services.
 
-This right only applies where we use your personal information on the basis of your consent or performance of a contract; and where our use of your information is carried out by automated means.
+* This right only applies where we use your personal information on the basis of your consent or performance of a contract; and where our use of your information is carried out by automated means.
 
-We will consider all such requests and provide our response within a reasonable period (and in any event within one month of your request unless we tell you we are entitled to a longer period under applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances, for example if we need to keep using the information to comply with our own legal obligations or to establish, exercise or defend legal claims.  
+7. Right to object.  You have a right to ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our or another person’s legitimate interest.
+
+* We will consider all such requests and provide our response within a reasonable period (and in any event within one month of your request unless we tell you we are entitled to a longer period under applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances, for example if we need to keep using the information to comply with our own legal obligations or to establish, exercise or defend legal claims.
 
 If an exception applies, we will tell you this when responding to your request.  We may request you provide us with information necessary to confirm your identity before responding to any request you make.
 
 IX. CHILDREN’S PRIVACY
 
-We do not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use). If you are under 16, please do not attempt to use the Site or register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 may provide any personal information to us or use the Site or the Services. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible unless your parent or guardian has provided us with their consent for your use of our Site or Services. If you believe that we might have any information from or about a child under 16, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
+We do not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use). If you are under 16, please do not attempt to use the Site or register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 may provide any personal information to us or use the Site or the Services. In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible unless your parent or guardian has provided us with their consent for your use of our Site or Services. If you believe that we might have any information from or about a child under 16, please contact us at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
 X. CHANGES TO THIS PRIVACY POLICY
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-XI. HOW TO CONTACT US
+XI. COMPLAINTS, QUESTIONS AND SUGGESTIONS
 
-Liftoff is the data controller of the personal information, with registered office at 555 Bryant Street, Suite #133, Palo Alto CA 94301.
+We have a Data Protection Officer to assist with all queries regarding our processing of personal information.  who can be contacted at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
 
-We have a Data Protection Officer to assist with all queries or concerns you may have regarding our processing of your personal information, who can be contacted at [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).
-
-If you have complaints about our Site or Services, please contact us at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection).  
-
-You may also contact our representatives in the EU and UK:
-
-|     |     |
-| --- | --- |
-| Jurisdiction | Representative |
-| EU  | Attn: Legal Department<br><br>Liftoff GmBH<br><br>Torstrabe 146/Linienstrabe 86, 10119, Berlin, Germany |
-| UK  | Attn: Legal Department<br><br>Liftoff Mobile Limited<br><br>Drapers House, 76-78 Clerkenwell Road, London, EC1M 5QA |
-
-In the EU and UK, you may also make a compliant to the appropriate data protection authority for data protection matters or seek a remedy through local courts if you believe your rights have been breached.
+If you have complaints about our Site or Services, please contact us at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection) or [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). In the EEA, you may also make a complaint to the appropriate data protection authority for data protection matters or seek a remedy through local courts if you believe your rights have been breached.
 
 Stay up to date with news and tips from our marketing experts.
 
