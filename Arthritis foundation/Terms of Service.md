@@ -1,3 +1,5 @@
+skip to main content
+
 [![Arthritis Foundation Logo](/img/template-images/logo.jpg)](https://www.arthritis.org/home)
 
 [Your Local Area](https://www.arthritis.org/local-offices)
@@ -6,7 +8,7 @@
 
 Popular Search
 
-[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [drug](https://www.arthritis.org/search?query=drug) [event](https://www.arthritis.org/search?query=event)
+[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [cbd](https://www.arthritis.org/search?query=cbd) [osteoarthritis](https://www.arthritis.org/search?query=osteoarthritis)
 
 Suggested Content
 
@@ -166,7 +168,7 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         
         [](#)
         
-        * [California Coast Classic](https://www.arthritis.org/events/bike-event)
+        * [Arthritis Foundation Cycling Experience](https://www.arthritis.org/events/bike-event)
         * [Connect Groups](https://connectgroups.arthritis.org/)
         * [Events](https://www.arthritis.org/events)
         * [Helpline](https://www.arthritis.org/helpline)
@@ -192,7 +194,7 @@ TERMS OF USE
 
 * 
 * 
-* [\[email protected\]](https://www.arthritis.org/cdn-cgi/l/email-protection)
+* 
 * [](javascript: window.print();)
 
 **Terms of Use**
@@ -381,9 +383,9 @@ _Revised April 27, 2021_
 * Helpline: [1-800-283-7800](tel:800-283-7800)
 * [Contact Us](https://www.arthritis.org/about-us/contact-us)
 
-Atlanta, GA
+North Bergen, NJ
 
-73° Arthritis Index At Risk
+72° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
