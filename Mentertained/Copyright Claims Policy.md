@@ -15,7 +15,7 @@
 Copyright
 =========
 
-At Mentertained.com we respect the copyright ownership of others. All media used on our site is either commonly used in the public domain, our own media or media we have been given permission to use. If you are the copyright owner of a photo or video seen on Mentertained and you would like it removed, please reach out to us at [\[email protected\]](https://mentertained.com/cdn-cgi/l/email-protection)
+At Mentertained.com we respect the copyright ownership of others. All media used on our site is either commonly used in the public domain, our own media or media we have been given permission to use. If you are the copyright owner of a photo or video seen on Mentertained and you would like it removed, please reach out to us at [contact@mentertained.com](mailto:contact@mentertained.com)
 
 Post navigation
 ---------------
