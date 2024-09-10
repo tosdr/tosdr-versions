@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Top left: Security footage from Jan. 5 shows attorney Ken Chesebro and Trump 2020 campaign aide Michael Brown carrying fake elector records in envelopes to give to aides at the office of Rep. Mike Kelly (Committee on House Administration). Left: Ken Chesebro at the Capitol on Jan. 6, 2021 (Department of Justice). Bottom left to right: Images show aides to Rep. Mike Kelly in the U.S. Capitol on Jan. 5, 2021, carrying fake elector records handed off to them by Chesebro and Brown (Committee on House Administration).](https://am23.mediaite.com/lc/cnt/uploads/2024/07/chesebro-432x243.jpg)](https://lawandcrime.com/high-profile/new-jan-6-security-tapes-reveal-trump-alleged-co-conspirator-handing-off-fake-elector-docs-to-aides-for-key-lawmaker-report/)
+1. [![James Pinker](https://am23.mediaite.com/lc/cnt/uploads/2024/09/James-Pinker-432x243.jpg)](https://lawandcrime.com/crime/man-went-to-basement-where-5-year-old-girls-were-playing-monsters-then-forced-them-to-play-kissing-game/)
     
-    ### [New Jan. 6 security tapes reveal Trump alleged co-conspirator handing off fake elector docs to aides for key lawmaker: Report](https://lawandcrime.com/high-profile/new-jan-6-security-tapes-reveal-trump-alleged-co-conspirator-handing-off-fake-elector-docs-to-aides-for-key-lawmaker-report/)
+    ### [Man went to basement where 5-year-old girls were playing 'Monsters,' then forced them to play 'kissing' game](https://lawandcrime.com/crime/man-went-to-basement-where-5-year-old-girls-were-playing-monsters-then-forced-them-to-play-kissing-game/)
     
-2. [![Michael Wiseman, in a booking photo, on the left; Donald Trump and JD Vance, at the RNC in 2024, on the right.](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Wiseman-Trump-Vance-1-432x243.jpg)](https://lawandcrime.com/crime/why-is-trump-allowed-to-be-alive-we-need-to-train-patriots-shocking-new-details-of-florida-mans-alleged-threats-to-kill-former-president-and-his-running-mate/)
+2. [![Sen. Marie Alvarado-Gil](https://am22.mediaite.com/lc/cnt/uploads/2024/09/senator-432x243.jpg)](https://lawandcrime.com/lawsuit/i-want-you-to-kiss-it-gary-condits-son-claims-state-senator-made-him-pleasure-her-in-car-hurting-his-back-in-confined-space/)
     
-    ### ['Some people need to be better shots': Shocking new details of Florida man's alleged threats to kill Trump and his running mate](https://lawandcrime.com/crime/why-is-trump-allowed-to-be-alive-we-need-to-train-patriots-shocking-new-details-of-florida-mans-alleged-threats-to-kill-former-president-and-his-running-mate/)
+    ### ['I want you to kiss it': Gary Condit's son claims state senator made him 'pleasure' her in car, hurting his back in 'confined space'](https://lawandcrime.com/lawsuit/i-want-you-to-kiss-it-gary-condits-son-claims-state-senator-made-him-pleasure-her-in-car-hurting-his-back-in-confined-space/)
     
-3. [![Mark Meadows, on the left; Clarence Thomas, inset on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Meadows-Thomas-432x243.jpg)](https://lawandcrime.com/high-profile/fully-protects-former-officers-mark-meadows-wants-supreme-court-to-upturn-georgia-rico-case-in-light-of-trump-immunity-opinion-and-gets-an-assist-from-clarence-thomas/)
+3. [![Left: Brittanee Drexel. Right: Raymond Moody (Georgetown County Sheriff’s Office); Inset: Angel Vause (15th Circuit Solicitor's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/03/Drexel-Moody-Vause-432x243.jpg)](https://lawandcrime.com/crime/girlfriend-of-monster-murderer-who-kidnapped-and-raped-a-teenager-on-spring-break-at-myrtle-beach-admits-lying-to-the-fbi/)
     
-    ### ['Fully protects former officers': Mark Meadows wants Supreme Court to upturn Georgia RICO case in light of Trump immunity opinion – and gets an assist from Clarence Thomas](https://lawandcrime.com/high-profile/fully-protects-former-officers-mark-meadows-wants-supreme-court-to-upturn-georgia-rico-case-in-light-of-trump-immunity-opinion-and-gets-an-assist-from-clarence-thomas/)
+    ### [Girlfriend of 'monster' murderer who kidnapped and raped a teenager on spring break at Myrtle Beach admits lying to the FBI](https://lawandcrime.com/crime/girlfriend-of-monster-murderer-who-kidnapped-and-raped-a-teenager-on-spring-break-at-myrtle-beach-admits-lying-to-the-fbi/)
     
-4. [![Azuradee France (Detroit Police dept.) and Chayse Allen (GoFundMe)](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Azuradee-France-Detroit-Police-dept.-and-Chayse-Allen-GoFundMe-432x243.jpg)](https://lawandcrime.com/crime/mom-of-6-beat-blind-toddler-to-death-told-other-kids-shed-take-care-of-it-and-stuffed-victim-in-basement-freezer-for-months/)
+4. [![Nathaniel Hall and Jasmine Williams](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Nathaniel-Hall-and-Jasmine-Williams-432x243.jpg)](https://lawandcrime.com/crime/murder-suspect-calls-sister-from-jail-tells-her-to-clean-up-home-where-he-2-others-killed-man-after-luring-him-there-and-torching-body-in-car-cops/)
     
-    ### [Mom of 6 beat blind toddler to death, told other kids she'd 'take care of it' and stuffed victim in basement freezer for months](https://lawandcrime.com/crime/mom-of-6-beat-blind-toddler-to-death-told-other-kids-shed-take-care-of-it-and-stuffed-victim-in-basement-freezer-for-months/)
+    ### [Murder suspect calls sister from jail, tells her to 'clean up' home where he, 2 others killed man after luring him there and torching body in car: Cops](https://lawandcrime.com/crime/murder-suspect-calls-sister-from-jail-tells-her-to-clean-up-home-where-he-2-others-killed-man-after-luring-him-there-and-torching-body-in-car-cops/)
     
-5. [![R. Kelly goes to SCOTUS.](https://am23.mediaite.com/lc/cnt/uploads/2024/07/R.-Kelly-432x243.jpg)](https://lawandcrime.com/supreme-court/r-kelly-hopes-key-technicality-will-move-supreme-court-justices-to-overturn-convictions-for-sexually-abusing-teenage-girls-in-the-1990s/)
+5. [![Popular post image](https://am22.mediaite.com/lc/cnt/uploads/2024/09/Kohberger1-432x243.jpg)](https://lawandcrime.com/crime/idaho-murders-judge-cites-extreme-news-coverage-presumed-prejudice-and-a-lack-of-courtroom-space-to-move-bryan-kohbergers-trial-somewhere-else/)
     
-    ### [R. Kelly hopes key technicality will move Supreme Court justices to overturn convictions for sexually abusing teenage girls in the 1990s](https://lawandcrime.com/supreme-court/r-kelly-hopes-key-technicality-will-move-supreme-court-justices-to-overturn-convictions-for-sexually-abusing-teenage-girls-in-the-1990s/)
+    ### [Idaho murders judge cites 'extreme' news coverage, 'presumed prejudice,' and a lack of courtroom space to move Bryan Kohberger's trial somewhere else](https://lawandcrime.com/crime/idaho-murders-judge-cites-extreme-news-coverage-presumed-prejudice-and-a-lack-of-courtroom-space-to-move-bryan-kohbergers-trial-somewhere-else/)
     
 
 [](http://eepurl.com/c89Jdb)
