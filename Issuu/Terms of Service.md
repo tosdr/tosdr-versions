@@ -16,7 +16,7 @@ Purchase your next favourite publication](https://issuu.com/store)
 
 [All Categories](https://issuu.com/categories)
 
-![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/6c4220a/31d186ba39f38e8c4fac.png)
+![illustration describing how to get more reads from your publications](//static.isu.pub/fe/product-header-frontend/387efd2/31d186ba39f38e8c4fac.png)
 
 Show submenu for "Features" sectionFeatures
 
@@ -54,7 +54,9 @@ Generate QR Codes for your digital content.](https://issuu.com/features/qr-codes
 
 Canva
 
-Create professional content with Canva, including presentations, catalogs, and more.](https://issuu.com/features/canva-to-flipbook)[Adobe Express
+Create professional content with Canva, including presentations, catalogs, and more.](https://issuu.com/features/canva-to-flipbook)[HubSpot
+
+Embed, gate, and track Issuu content in HubSpot marketing campaigns.](https://issuu.com/features/hubspot-integration)[Adobe Express
 
 Go from Adobe Express creation to Issuu publication.](https://issuu.com/features/adobe-express-to-flipbook)[Adobe InDesign
 
@@ -78,7 +80,7 @@ Show submenu for "Use Cases" sectionUse Cases
 
 [More Content Types](https://issuu.com/solutions)
 
-![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/6c4220a/1e794a8c4ec65e549678.png)
+![illustration describing two different use cases](//static.isu.pub/fe/product-header-frontend/387efd2/1e794a8c4ec65e549678.png)
 
 Show submenu for "Learn" sectionLearn
 
@@ -113,339 +115,285 @@ Dive into our extensive resources on the topic that interests you. It's like a m
 
 **[See terms of service for professionals](https://issuu.com/legal/terms/pro)**
 
-**ISSUU'S TERMS OF SERVICE ARE CHANGING. THE UPDATED TERMS OF SERVICE WILL BE EFFECTIVE SEPTEMBER 9TH, 2021. IF YOU USE OUR SERVICE AFTER THAT DATE, YOU ARE CONFIRMING THAT YOU HAVE READ AND AGREE TO THE UPDATED TERMS.**
+**ISSUU’S TERMS OF SERVICE ARE CHANGING. THE UPDATED TERMS OF SERVICE WILL BE EFFECTIVE SEPTEMBER 9TH, 2021. IF YOU USE OUR SERVICE AFTER THAT DATE, YOU ARE CONFIRMING THAT YOU HAVE READ AND AGREE TO THE UPDATED TERMS.**
 
-**[SEE THE PREVIOUS TERMS HERE.](https://issuu.com/legal/terms-gdpr/2021august31)**
+**[SEE THE PREVIOUS TERMS HERE.](https://issuu.com/legal/terms/2021august31)**
 
-[](#about-issuu-functionality-right-of-use-and-access)1\. About ISSUU, functionality, right of use, and access
---------------------------------------------------------------------------------------------------------------
+### [](#consent-to-marketing)Consent to Marketing
 
-1.1 ISSUU is a web-based platform found on issuu.com. ("ISSUU"). ISSUU is a platform for written content ("Publications") but also other kind of content including but not limited to podcasts or video ("Other Content").
+By accepting these terms as stated above, you hereby consent:
 
-1.2 ISSUU is produced and marketed by Issuu Inc. ("Issuu or "we"), a truly modern media company, incorporated in the United States in the state of Delaware. For more information on Issuu please visit www.issuu.com/about.
+1. To receive or continue to receive Issuu ApS and Issuu Inc’s e-mail newsletters including news on new features and new or updated publications.
+2. You may opt-out at any time using the opt-out button in the e-mails or by changing your accounts settings when logged in.
 
-1.3 ISSUU contains Publications and Other Content created and uploaded by external publishers (as defined below).
+### [](#eligibility-and-assent-to-terms)Eligibility and Assent to Terms
 
-1.4 If you want to have full access to ISSUU and make use of all features, you need to become a user by creating an account/user profile ("User or you or your").
+Welcome to Issuu! The following Terms of Service for the Issuu.com website, software applications made available by Issuu from the website or via a third party **("Software")**, and any application programming interface **("API")** or other technology or services made available by Issuu via the website or Software (collectively, the **"Issuu Service"**) is a legal contract between you, either an individual of at least 13 years of age or a single legal entity (**"You"** or, collectively, **"Users"**), and Issuu regarding your use of the Issuu Service (**"Terms"**). The Issuu Service is not available to persons under the age of 13 or to any users previously removed from the Issuu Service by Issuu. Also, if you are between age 13 and the age of majority in your jurisdiction your legal guardian must review and agree to these Terms.
 
-1.5 If you accept these terms on behalf of a legal entity (becoming the User/Publisher), You hereby undertake and warrant to Issuu that you have the power to bind the legal entity and that the legal entity will be bound by these terms ("Terms"), the Privacy Policy and any other terms regulating the use of ISSUU.
+These Terms provide that all disputes between you and Issuu will be resolved by BINDING ARBITRATION. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this contract (except for matters that may be taken to small claims court). Your rights will be determined by a NEUTRAL ARBITRATOR and NOT a judge or jury and your claims cannot be brought as a class action. Please review the ["Arbitration Agreement"](#arbitration-agreement-class-action-waiver-governing-law) section below for the details regarding your agreement to arbitrate any disputes with Issuu.
 
-1.6 If a User also uploads Publications or Other Content to ISSUU that User also becomes a "Publisher" and will have to accept separate terms regulating the use of our service as a Publisher, please see section 8.
+YOU ACKNOWLEDGE THAT YOU (OR, IF THE USER IS BELOW THE AGE OF MAJORITY, YOU, AS LEGAL GUARDIAN OF THE USER) HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, INCLUDING ANY FUTURE MODIFICATIONS. IF AT ANY TIME YOU DO NOT AGREE TO THESE TERMS, PLEASE IMMEDIATELY TERMINATE YOUR USE OF THE ISSUU SERVICE. IF YOU ARE USING OR OPENING AN ACCOUNT WITH ISSUU ON BEHALF OF A COMPANY, ENTITY, OR ORGANIZATION (COLLECTIVELY, A **"SUBSCRIBING ORGANIZATION"**) THEN YOU REPRESENT AND WARRANT THAT YOU ARE AN AUTHORIZED REPRESENTATIVE OF THAT SUBSCRIBING ORGANIZATION WITH THE AUTHORITY TO BIND SUCH ORGANIZATION TO THESE TERMS AND AGREE TO THESE TERMS ON BEHALF OF SUCH SUBSCRIBING ORGANIZATION.
 
-1.6.1 Full access to ISSUU is currently free, but this may change as we reserve the right to charge payment for the access or access to certain functionality. We may also make access contingent upon you submitting more personal data to us, always subject to our Privacy Policy.
+BY CHECKING THE "I ACCEPT THE TERMS OF SERVICE" BUTTON OR BY DOWNLOADING, INSTALLING OR OTHERWISE USING ANY PORTION OF THE ISSUU SERVICE, YOU ASSENT TO AND AGREE TO BE BOUND BY THESE TERMS AND REPRESENT THAT YOU ARE AT LEAST THE AGE OF MAJORITY IN YOUR JURISDICTION (OR, IF THE USER IS BETWEEN 13 AND THE AGE OF MAJORITY, YOU, ARE THE LEGAL GUARDIAN OF THE USER) AND HAVE NOT BEEN PREVIOUSLY REMOVED FROM THE ISSUU SERVICE.
 
-1.7 We will announce any changes in Your access with at least a three-month notice.
+**Important Note:** These Terms contain a class action waiver, which affects your rights under these Terms and with respect to any dispute you may have with Issuu. You may opt out of the class action waiver as provided below.
 
-1.8 As a User you are only allowed to have one active account. Any excess accounts will be closed by Issuu without notice.
+[](#modification)1\. Modification
+---------------------------------
 
-[](#language-and-professional-conduct)2\. Language and professional conduct
----------------------------------------------------------------------------
+We reserve the right, at our discretion, to change, modify, add or remove portions of these Terms on a going-forward basis at any time by posting the amended Terms on our website. Please check these Terms periodically for changes. We may provide additional notice, such as an email message or a message within the Issuu Service, of any material changes. Unless we state otherwise, changes are effective seven (7) days following the date posted on our website. If you continue to use the Issuu Service after the effective date, you agree to the changes. For the avoidance of doubt, disputes arising under these Terms will be resolved in accordance with these Terms in effect that the time the dispute arose.
 
-2.1 ISSUU is only made available in the English language. These Terms and any other terms and privacy policy regulating your use of ISSUU ("Legal Agreements"), including any use of ISSUU in your capacity as Publisher, are similarly only provided in the English language.
+We may also change or discontinue the Issuu Service in whole or in part at any time, in our sole discretion. Such changes may include, but not be limited to, changes to the amount of storage space you have on the Issuu Service at any time. Your continued use of the Issuu Service indicates your agreement to the changes. If Issuu discontinues a Paid Service (as defined in Section 3(a) below), Issuu may either (a) provide a pro-rata refund of fees you pre-paid for such Paid Service or (b) continue to provide such Paid Service to you until the end of your then-current subscription for such Paid Service.
 
-2.2 If your skills in the English language are not sufficient to understand the Legal Agreements or the consequences of the use of ISSUU, or if you are domiciled in a country where ISSUU and the Terms should be translated into your local language, you are not permitted to use ISSUU and, in particular, in your capacity as Publisher.
-
-2.2.1 We urge you to seek professional advice if you are a natural person, contemplating to become a Publisher, as publishing content on ISSUU may impose a professional responsibility and potential a considerable liability on you, that is unknown to you as a consumer. Please also consult our [Q&A on copyright](https://issuu.com/legal/copyright). If you want to become a Publisher, you will have to accept [our terms for Publishers](https://issuu.com/legal/terms/pro).
-
-2.2.2 **You understand and agree that, by entering into these Terms, you and Issuu are each agreeing to Arbitration and waiving the right to a trial by jury or to participate in a class action, as further regulated in article 20.**
-
-[](#creating-an-account)3\. Creating an account
------------------------------------------------
-
-3.1 When creating an account, you may use an e-mail or a support social media login to create an account. When creating an account, you will be asked to accept the Terms and our Privacy Policy.
-
-3.2 If you decide to use a supported social media login you accept that we from the chosen social media will receive and consequently collect certain personal data and that you by logging into ISSUU using your social media login will continue to allow us to collect person data from the chosen social media until such time where you chose an alternative way of logging in to your account.
-
-3.3 The collection and processing of your personal data is subject to our [Privacy Policy](https://issuu.com/legal/privacy).
-
-3.4 If you do not want the exchange of personal data between social media providers and Issuu, please create your account using an e-mail and a chosen password.
-
-3.5 Please always keep your account safe by using a strong and unique password and by keeping your password or other means of login confidential and strictly personal.
-
-3.6 If you have any reason to believe that the safety of your account has been compromised, please immediately notify Issuu at support@issuu.com and ask for your account to be closed until your password or other means of access has been reset.
-
-3.6.1 This provision is particularly important if you also use your account in your capacity as Publisher to upload content, as you are liable for all content uploaded from your account.
-
-3.7 You are sole liable for the losses incurred by you, Issuu or others due to any unauthorized use of your account,
-
-3.8 You may at anytime close down your account by following the instructions here or contacting support@issuu.com.
-
-3.9 Before creating an account with us you are entitled to some basic information that you may find [in our help center](https://help.issuu.com/hc/en-us/categories/5772685013787-Account-Billing).
-
-[](#the-right-to-withdrawal)4\. The right to withdrawal
--------------------------------------------------------
-
-4.1 If you enter into a subscription with us or a Publisher to be able to have access to more content or features or to download content, you will be asked to accept that your right to withdraw is waived as you access/download will commence right after you have paid.
-
-4.2 You will however have the possibility to terminate any periodic subscription that you have signed up to with effect at the end of a month. This means that you as a maximum only have to pay the applicable subscription fee for one (1) month.
-
-4.3 You can also at anytime without notice close down your account with us, and thereby stop using ISSUU.
-
-[](#scope-of-access)5\. Scope of access
----------------------------------------
-
-5.1 ISSUU can only be accessed via the Internet using a supporting device and an adequate internet access and a supported browser ([see more](https://help.issuu.com/hc/en-us/articles/5772752734235-Best-Practices-for-Upload-Issues)). It is your sole responsibility to ensure adequate access to the Internet and to ensure that you are using a supported browser and have downloaded and installed all necessary third-party software.
-
-5.2 Depending on your payment plan with your supplier you may have to pay a substantial amount for downloading Publications or other content, so please make sure you know the costs prior to download of any content.
-
-5.3 Access includes, unless otherwise agreed, the full standard functionality of ISSUU as access to additional functionality or content may be subject to payment of fees.
-
-5.4 You may be required to use third party software as part of your use of ISSUU, You are sole responsible for your use of third party software. To the extent you access or otherwise use any third party API, such access may be governed by such third party's terms of service for such API. Without limiting the foregoing, to the extent you access or otherwise use the YouTube API, the [YouTube Terms of Service](https://www.youtube.com/t/terms) shall apply and you agree to be bound by such terms.
-
-[](#signing-up-for-news-and-advertising)6\. Signing up for news and advertising
--------------------------------------------------------------------------------
-
-6.1 When you create your account, and during your use of ISSUU, you will be asked whether you want to sign up to our newsletter. This is voluntary and you can always withdraw your consent to receiving our newsletters under your settings or by using the unsubscribe button in our newsletter.
-
-6.2 Our newsletter contains news about and from Issuu, the content on and functionality of ISSUU and news from chose of our Publishers who pay us to place news relevant to our users in our newsletter.
-
-6.3 You accept that your use of ISSUU will subject you to advertisements on ISSUU from Issuu or third-party advertisers.
-
-[](#content-and-your-right-of-use)7\. Content and your right of use
--------------------------------------------------------------------
-
-7.1 You accept that all Publications and Other Content on ISSUU are created and uploaded by Publishers, both professionals and non-professionals and that the content does not belong to Issuu and that Issuu does not warranty a certain number of Publications or Other Content, the quality of the Publications or Other Content, particular categories of Publications or Other Content as the content including but not limited to the amount of Publications can be changed without notice.
-
-7.2 **By visiting ISSUU you only obtain a limited right to access, read and, if permitted, download and read the Publications or Other Content.**
-
-7.3 Regardless of whether your access is free or is a Paid Service, you are not granted, and you do not receive, any rights or permissions to make commercial or other non-private use of the content found on ISSUU, including but not limited to any reuse of any part the Publications or Other Content and you accept that you are not allowed to use the content found on ISSUU for any other purpose than your private enjoyment of the content. Any other use, including but not limited to commercial use, is subject to you obtaining prior permission for the intended use from the Publisher.
-
-7.4 You understand that when using ISSUU you will be exposed to published content from a variety of sources, and that Issuu is not responsible for the accuracy, content, usefulness, or intellectual property rights of or relating to such published content.
-
-7.5 You further understand and acknowledge that you may be exposed to published content that is inaccurate, offensive, indecent or objectionable or that may contain advertisements, product placements and advertorials, and you agree to waive to the extent permissible under applicable law. You hereby do waive, any legal or equitable rights or remedies you have or may have against Issuu with respect thereto.
-
-7.6 Issuu does not endorse any uploaded Publications or Other Content or any opinion, recommendation or advice expressed in any uploaded Publications or Other Content.
-
-7.6.1 Issuu expressly disclaims any and all liability in connection with any uploaded Publications or Other Content.
-
-7.7 **Prohibited Conduct**
-
-7.7.1 You agree not to commit any act of the following prohibited conduct:
-
-7.7.1.1 use ISSUU for any purpose other to access ISSUU as the service is offered from time to time by Issuu;
-
-7.7.1.2 delete the copyright or other proprietary rights markings on ISSUU or in the Publications;
-
-7.7.1.3 make unsolicited offers, advertisements, proposals, or send junk mail or spam to other users of ISSUU. This includes, but is not limited to, unsolicited advertising, promotional materials, or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, and petitions for signatures;
-
-7.7.1.4 in any other way use ISSUU in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy or post, upload, or distribute any defamatory, libelous, or inaccurate User Submissions or other content;
-
-7.7.1.5 defame, harass, abuse, threaten or defraud user of ISSUU or upload any content to ISSUU that is unlawful or otherwise inappropriate, or collect, or attempt to collect, personal information about users or third parties without their consent, or use the content on ISSUU for any commercial use, it being understood that the content available on ISSUU is for personal, non-commercial use only;
-
-7.7.1.6 hack, remove, circumvent, disable, damage or otherwise interfere with security-related features of ISSUU or uploaded content/publications, features that prevent or restrict use or copying of any content accessible through ISSUU, or features that enforce limitations on the use of ISSUU or uploaded content/Publications or intentionally interfere with or damage operation of ISSUU or any user's enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code;
-
-7.7.1.7 reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of ISSUU or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
-
-7.7.1.8 modify, adapt, translate or create derivative works based upon ISSUU or any uploaded content/Publications except and only to the extent that such activity is expressly permitted by these Terms or applicable law notwithstanding this limitation; or
-
-7.7.1.9 remove, obscure, block, hide or otherwise alter the display of any advertising (or any parts or aspects thereof), Issuu brand elements, including logos, trademarks, service marks or uploaded content/Publications displayed by Issuu in any manner whatsoever, regardless of your use of the embedding functionality of ISSUU to display authorized content on your or other third party sites.
-
-[](#becoming-a-publisher-upload-of-publications-please-read-carefully)8\. Becoming a PUBLISHER - upload of Publications - please read carefully
------------------------------------------------------------------------------------------------------------------------------------------------
-
-8.1 If User wants to create, upload and distribute User' s own content, becoming a Publisher, then User shall adhere to the Service Terms for Publishers and any other specific Publisher terms that User will be asked to accept before being allowed to upload and publish content in particular if User signs up for a paid publisher plan.
-
-8.2 When becoming a Publisher, you will no longer be regarded as a consumer, but as a professional, if will alter your legal position substantially, so please read the Terms of Service for Publisher carefully and seed at advice before accepting the terms.
-
-8.3 If you are a natural person, you can still use your account for reading Publications as a Consumer, but your Publisher activity will exclusively be governed by the Terms of Service for Publishers.
-
-8.4 By uploading content to ISSUU you hereby grant to:
-
-8.4.1 **Issuu a worldwide, non-exclusive, transferable, assignable, fully paid-up, royalty-free, license to host, transfer, display, perform, reproduce, change, distribute, and otherwise use your uploaded content to operate ISSUU as it may appear at the time of your upload or at later stage if new functionality or formats are deployed.**
-
-8.5 You revoke your license to Issuu with future effect by taking down your uploaded content.
-
-8.6 You are solely responsible for all of your uploaded content be it Publications or Other Content and you hereby recognize and confirm that ISSUU is merely providing you the means to collaborate on and make available your content. Accordingly, you shall be solely responsible for all your uploaded content and the consequences of uploading it.
-
-8.7 **By uploading your content (Publications or Other Content), you confirm, represent, and warrant that:**
-
-8.7.1 **you are the sole creator and owner of all uploaded content; or**
-
-8.7.2 **you have obtained the necessary licenses, rights, consents, and permissions to use and to authorize Issuu and Issuu's Users to use and distribute your uploaded content as agreed in these Terms.**
-
-8.8 **Issuu may request you to confirm and document that you hold the aforementioned rights for each upload you, in your capacity as Publisher undertake, in order to comply with EU copyright regulation.**
-
-8.9 **If we receive notice that your uploaded content (or some of it) infringes third party rights, we will take down your uploaded content, if the notice in our opinion is sufficiently substantiated. If we take your uploaded content down, we will inform you of the take dawn and grant you the opportunity to prove that you have complied with 7.6. If we are satisfied that you have complied with 7.6, we may allow you to upload the content again, but we are not obliged to do so. Any subsequent upload of the content that we have taken down without our permission will be considered a material breach of these Terms.**
-
-8.10 **We may without notice introduce technologies that are aimed at detecting copyright infringements in connection with uploads if content and other measure to ensure that content is only uploaded in accordance with the requirements in 7.6.**
-
-8.11 If you think that your copyright has been infringed by, or you have a complaint in respect of the Publications or Other Content, please report a [DMCA copyright infringement claim](https://issuu.com/legal/dmca).
-
-8.12 You further confirm, represent, and warrant that:
-
-8.12.1 your uploaded content does not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (ii) slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person; and
-
-8.12.2 your uploaded content does not contain any viruses, adware, spyware, worms, or other malicious code or any content or file that provides a method to access to potentially infringing content outside of ISSUU.
-
-8.13 Violators of third-party rights may be subject to criminal and civil liability and to Issuu undertaking a takedown of your uploaded content without notice to you as further detailed in 7.8.
-
-8.14 Issuu reserves the right, and has absolute discretion, to takedown or disable any uploaded content at any time and for any reason without notice. If possible Issuu with give notice to you before we takedown your uploaded content, but we are not obliged to do so.
-
-8.15 Issuu may offer you the possibility of monetizing your content by way of digital sale for which [Issuu' s digital sales terms](https://issuu.com/legal/terms/pro) apply.
-
-8.16 If you make use of the possibility of monetizing your content you confirm, represent and warrant that you understand that you then potentially will no longer be subject to the legal protection granted to you in your capacity as a consumer, as you under applicable law will become a professional Publisher and will be handled by Issuu as such to the fullest extent permitted by applicable law.
-
-[](#fees-and-payment)9\. Fees and Payment
+[](#additional-terms)2\. Additional Terms
 -----------------------------------------
 
-9.1 All fees are quoted in USD unless otherwise indicated.
+Your use of the Issuu Service is subject to any and all additional terms, policies, rules, or guidelines applicable to the Issuu Service or certain features of the Issuu Service that we may post on or link to on the Issuu Service (the **"Additional Terms"**), such as end-user license agreements for any downloadable applications that we may offer, or rules applicable to particular features or content on the Issuu Service, subject to Section 1. All such Additional Terms are hereby incorporated by reference into, and made a part of, these Terms.
 
-9.2 Some of the functionality or access to some of the Publications or Other Content may have fees associated with them, making them a Paid Service. You will have the opportunity to review and accept the fees that you will be charged before using a Paid Service.
+[](#fees-and-payment)3\. Fees and Payment
+-----------------------------------------
 
-9.3 We will also charge you a proportional subscription fee if you subscribe during a subscription period.
+1. **Paid Services.** Some portions of the Issuu Service may have fees associated with them (each, a **"Paid Service"**). You will have the opportunity to review and accept the fees that you will be charged before using a Paid Service. We may change fees for any portion of the Issuu Service at any time. Unless otherwise stated, all fees are quoted in U.S. Dollars. One such Paid Service may be Issuu’s Digital Sales Feature, further described in Section 5(f) below.
+2. **Free Trial.** Issuu may make available a 14-day trial for a Paid Service without charge to you (**"Free Trial"**). You may be required to enter a Payment Method (defined below) in order to register for a Free Trial. The applicable Paid Service will automatically commence, and your Payment Method will be charged in accordance with Section 3(d), at the end of the Free Trial unless you log into your Issuu account and cancel the Paid Service before the end of the Free Trial.
+3. **Payment Information.** You are solely responsible for paying all fees and applicable taxes associated with your Issuu Service account in a timely manner with a valid payment method. By electing to purchase or otherwise use a Paid Service, you authorize Issuu or its third party payment processors to charge the credit card or other payment method identified by you (**"Payment Method"**), which you represent and warrant that you are authorized to use, all applicable fees for that Paid Service, including all applicable taxes. For purchases of one-time Paid Services (i.e., not subscriptions), your Payment Method will be billed for that Paid Service on the date that you make the purchase.
+4. **Subscriptions.** For purchases of subscriptions to Paid Services:
+    1. Your **"Subscription Billing Date"** is the date when you purchase your first subscription to a Paid Service. For example, if you purchase your first subscription to a Paid Service on January 10th: (1) your Subscription Billing Date for your first monthly subscription and all other monthly subscriptions you purchase is the 10th of each month, (2) your Subscription Billing Date for your first annual subscription is January 10th of each year, and (3) your Subscription Billing Date for all subsequent purchases of annual subscriptions will be the next soonest 10th monthly calendar day after your date of purchase. Your Payment Method will be charged automatically on the Subscription Billing Date all applicable fees for the next month or year, as applicable.
+    2. For any subscription to a Paid Service that you purchase after your Subscription Billing Date is established, your Payment Method will first be charged a pro-rata amount of the subscription fee for the number of days between the purchase date and the applicable Subscription Billing Date. Your Payment Method will then be charged the full periodic subscription fee for the next month or year, as applicable, on each Subscription Billing Date thereafter (or on the last day of the calendar month, if the last day of the calendar month occurs before the Subscription Billing Date for that month).
+5. **Termination of Subscriptions**. For any subscription to a Paid Service, that subscription will continue unless and until you cancel your subscription or we terminate it. You must cancel your subscription before it renews in order to avoid billing of the next period's (i.e., month’s or year’s) subscription fees to your Payment Method. We will bill the periodic subscription fee to the Payment Method you provide to us during registration (or to a different Payment Method if you change your account information).
+6. **Third Parties and Fee Collection.** You acknowledge and agree that any credit card and related billing and payment information that you provide to Issuu may be shared by Issuu with companies who work on Issuu’s behalf, such as payment processors or credit agencies, solely for the purpose of checking credit, effecting payment to Issuu and servicing your account. The terms of your payment will be based on your chosen Payment Method and may be determined by agreements between you and the financial institution providing such Payment Method. For certain Payment Methods, the issuer of your Payment Method may charge you a foreign transaction fee or related charges. Check with your bank and credit card issuers for details. If your Payment Method for any Paid Service fails or your account is past due, (i) you agree to pay all amounts due on your Issuu account upon demand, (ii) Issuu may collect fees owed using other collection mechanisms (this includes charging other payment methods on file with us) and (iii) Issuu reserves the right to either suspend or terminate your access to one or more Issuu Services or your account with Issuu. Upon any such termination, you will remain obligated to pay all outstanding fees and charges relating to your account and your use of the Issuu Service before termination.
+7. **Refunds.** Any fees charged to your account are non-refundable except as expressly stated in these Terms. If you or we cancel your subscription, you are not entitled to a refund of any subscription fees that were already charged for a subscription period that has already begun. You agree to submit any dispute regarding any charge to your account in writing to Issuu within thirty (30) days of the charge, otherwise that dispute will be waived and the charge will be final and not subject to challenge. Refunds (if any) made pursuant to a dispute, are at the discretion of Issuu.
+8. **Taxes.** You are responsible for paying any governmental taxes imposed on your use of the Issuu Services, including sales, use, or value added taxes. If requested, you will promptly furnish to Issuu the applicable receipts or certificates regarding such remittances as soon as reasonably practicable. To the extent that Issuu is obligated to collect such taxes, Issuu will charge your Payment Method or otherwise add the applicable to your billing account.
 
-9.4 Any subscription you subscribe to will continue unless and until you cancel your subscription, or we terminate it. You must cancel your subscription before it renews in order to avoid billing for the next periods (month, quarter or year) subscription fee.
+[](#user-accounts)4\. User Accounts
+-----------------------------------
 
-9.5 You accept that content may be turned into a paid service without notice, as this is decided solely by the Publishers. You also accept that content may be taken down or otherwise restriction without notice.
+You may browse the Issuu.com website without creating an account, subject to these Terms. In order to use the full features of the Issuu Service, you must register for an account or log into the Issuu Service using your Facebook login or login to another third party social media platform that we support (**"Integrated Service"**). Your use of any account with an Integrated Service is subject to any terms, conditions, and policies, including privacy policies, of that Integrated Service. When you use the Issuu Service to upload, download, or purchase content or any products, services, or information from Issuu, you may be asked to provide a password. You are solely responsible for maintaining the confidentiality of your account and password and for restricting access to your computer or device, and you agree to accept responsibility for all activities that occur under your account or password. You agree that the information you provide to Issuu on registration and at all other times will be true, accurate, current, and complete. You also agree that you will ensure that this information is kept accurate and up-to-date at all times. If you have reason to believe that your account is no longer secure (e.g., in the event of a loss, theft or unauthorized disclosure or use of your account ID, password, or any credit, debit or charge card number, if applicable), then you must immediately notify Issuu. You are solely liable for the losses incurred by Issuu or others due to any unauthorized use of your Issuu Service account.
 
-[](#terms-of-payment)10\. Terms of payment
-------------------------------------------
-
-10.1 All fees are paid in advance and are drawn from your selected payment method upon your acceptance of the Paid Service.
-
-[](#ownership-proprietary-rights)11\. Ownership; Proprietary Rights
--------------------------------------------------------------------
-
-11.1.1 ISSUU is owned and operated by Issuu.
-
-11.1.2 ISSUU consists of the visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of ISSUU as provided by Issuu and all these elements are protected by United States and EU copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws.
-
-11.2 Except for any user submissions (Publications and Other Content) that are provided and owned by Publisher, all parts of ISSUU are the property of Issuu or its subsidiaries or affiliated companies or third-party licensors. All trademarks, service marks, and trade names are proprietary to Issuu or its affiliates or third-party licensors.
-
-11.3 If you act in your capacity as Publisher you hereby grant to Issuu, for as long as the content/publications are accessible on ISSUU, a transferable, worldwide, non-exclusive, royalty free right to grant to users the user rights contained in these Terms and any other right necessary to operate ISSUU.
-
-11.4 **Except as expressly authorized by Issuu, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of any part of ISSUU. Issuu reserves all rights not expressly granted in these Terms.**
-
-[](#liability-and-waiver)12\. Liability and waiver
---------------------------------------------------
-
-12.1 User shall be solely liable for any and all use of ISSUU, including access to ISSUU and any handling of any uploaded content from the User' s account.
-
-12.2 Issuu does not assume any kind of responsibility for any use of ISSUU for which ISSUU is not intended or does not support.
-
-12.3 Issuu shall not be liable for any inability to access ISSUU caused by:
-
-12.3.1 User' s lack of internet access regardless of the reason;
-
-12.3.2 Telecommunication problems, i.e. cable breakdown, unusual heavy traffic etc. that makes it impossible to access ISSUU;
-
-12.3.3 Updates and other required maintenance of ISSUU or the underlying it-infrastructure; and
-
-12.3.4 such extraordinary circumstances which are outside the control of Issuu or its suppliers or sub-contractors, and which could not or should not reasonably have been foreseen and should not have been avoided or overcome when entering into these Terms.
-
-12.4 If not otherwise provided for in these Terms, Issuu shall be liable pursuant to the ordinary rules on contractual liability in Danish law.
-
-12.5 Issuu, however, waives any and all liability for indirect loss and consequential damage, including loss of profits and other loss caused by lack of accessibility to ISSUU and/or loss of data unless caused by wilful misconduct or gross negligence.
-
-12.6 **Issuu' s liability for damages shall under all circumstances be limited to the total consideration received from User in the most recent twelve (12) months before the claim is made, however, with an absolute maximum of USD 5,000 during the entire term of the Users use of ISSUU.**
-
-[](#user-s-indemnification-please-read-carefully)13\. User's Indemnification - PLEASE READ CAREFULLY
-----------------------------------------------------------------------------------------------------
-
-13.1 By accepting these Terms, you agree to indemnify Issuu, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of ISSUU, any violation by you of these Terms, or any breach of the representations, warranties, and covenants made by you, in particular in your capacity as Publisher, in these Terms.
-
-13.2 Issuu reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Issuu, and you agree to cooperate with Issuu's defense of these claims. Upon notice of any impending claim, action or proceeding, Issuu will use reasonable efforts to notify of any indemnification obligation.
-
-[](#security-backup-and-local-storage-of-data)14\. Security, backup and local storage of data
----------------------------------------------------------------------------------------------
-
-14.1 ISSUU has in accordance with present industry standards been secured against unauthorized access.
-
-14.2 Before closing an account, User shall ensure that all relevant data including Publications or other content, have been copied/ downloaded locally to Users own systems. User acknowledges that it is not possible to retrieve data after its account has been closed.
-
-[](#virus-spyware-and-malware-etc-)15\. Virus, spyware and malware etc.
+[](#permission-to-use-issuu-service)5\. Permission to Use Issuu Service
 -----------------------------------------------------------------------
 
-15.1 Publisher must implement recognized anti-malware software and procedures to ensure that all content uploaded to ISSUU have been scanned for all known viruses, spyware and malware etc.
+1. **Definitions.** As used in these Terms: (i) **"Published Content"** means digital assets uploaded and published on the Issuu Service; (ii) **"Pre-Publication Assets"** means raw editorial content (e.g., text, images, layout information) uploaded to the Issuu Service; and (iii) **"User Submissions"** means Published Content and Pre-Publication Assets, collectively.
+2. **License.** Subject to your compliance with the terms and conditions set out in these Terms, Issuu hereby grants to you a personal, limited, non-exclusive, non-transferable, freely revocable license to: (i) use the Issuu Service to view, use and access User Submissions and other content made available via the Issuu Service; (ii) participate in any other programs, services, or features of the Issuu Service now or hereafter made available by Issuu, including uploading of your User Submissions; (iii) download and install Software on the hardware for which the Software was created solely to exercise the rights granted in these Terms; and (iv) implement any API made available by Issuu solely in accordance with that API’s documentation. Your use of the Issuu Service must be for personal, non-commercial use only, except that Users who are commercial entities, government entities, or non-profit entities may use the Issuu Service to make their Published Content available on the Issuu Service, use the Service to collaborate on Pre-Publication Assets, or to integrate the Issuu Service with the User’s website. For the avoidance of doubt, you are not entitled to any compensation from Issuu for any reason, including but not limited to for User Submissions, unless otherwise specifically agreed in writing by Issuu.
+3. **Restrictions.** You agree not to use or launch any automated system, including without limitation "robots," "spiders," and "offline readers," that accesses the Issuu Service in a manner that sends more request messages to the Issuu Service in a given period of time than a human can reasonably produce in the same period by using a conventional web browser or otherwise use the Issuu Service to collect or harvest any personally identifiable information or any data regarding activities on or usage of the Issuu Site.
+4. **API.** You also agree that for any API made available by Issuu: (i) Issuu makes no representations or warranties whatsoever regarding any API or any quality of service available via any API; (ii) Issuu may restrict usage limits; (iii) you will not modify any content accessed via that API; (iv) Issuu may terminate or deprecate any service or functionality available via an API at any time without notice or liability; and (v) use of some APIs may require obtaining an API key from Issuu, and Issuu may disable any key at any time without notice or liability.
+5. **Privacy.** If you are a commercial entity, government entity, or non-profit entity, you must post, and if your network includes third party sites or apps then you will contractually require such third parties to post, a privacy policy on each site, application or service that discloses the collection and use of your users’ data by third parties.
+6. **Digital Sales.** Issuu may offer a feature that allows a publisher to provide limited access to a select group of readers or subscribers to User Submissions that you submit (the “Digital Sales Feature”).
+    1. **Publisher terms.** If you are a publisher providing such a customer access to your publication(s) via the Digital Sales Feature, in addition to the terms set forth below, you agree (a) the terms of the customer’s access to and use of such publication between the customer and you shall not contradict these Terms or impose any obligations or liability on Issuu; and (b) you shall indemnify and hold Issuu harmless from and against any third party claim arising out of or related to the Digital Sales Feature, including but not limited to any claim that your publication infringes the intellectual property rights or other rights of any third party. Without limiting any other of your obligations under these Terms, as a publisher you agree that your use of the Digital Sales Feature will be subject to (a) the terms of Appendix 1 hereto, (b) a valid user agreement between you and such readers and subscribers and (c) all applicable laws and regulations.
+    2. **Customer terms.** If you are a customer of the Digital Sales Feature (i.e., a reader who purchases access to a third party publisher’s publication via Issuu), you agree (a) to comply with the publisher’s terms regarding access to and use of such publication; and (b) to not make any claim against Issuu or hold Issuu liable in any way for your access and use of, or inability to access and use, such publication.
+7. **Reservation of Rights.** Issuu reserves all rights not expressly granted in these Terms. You acknowledge that Issuu may automatically issue upgraded versions of the software and systems comprising the Issuu Service and, accordingly, may upgrade the version of the Issuu Service that you are using. Issuu reserves the right to exercise whatever lawful means it deems necessary to prevent unauthorized use of the Issuu Service, including technological barriers, IP mapping, and directly contacting your Internet Service Provider (ISP) regarding such unauthorized use.
 
-15.2 If Publisher fails to scan data prior to uploading in accordance with section. 15.1, Publisher shall be responsible and liable for any damages and losses suffered by Issuu and other users/publishers, should any of Publishers uploaded Publications/other content be infected with viruses, spyware and/or malware etc.
+[](#user-submissions)6\. User Submissions
+-----------------------------------------
 
-[](#duty-of-confidentiality)16\. Duty of confidentiality
---------------------------------------------------------
+1. **Pre-Publication Assets.** By uploading Pre-Publication Assets to the Issuu Service, you hereby grant to Issuu a worldwide, non-exclusive, transferable, assignable, fully paid-up, royalty-free, license to host, store, transfer, display, perform, reproduce, and distribute your Pre-Publication Assets on the Issuu Service solely in order to enable you, and other Users specified by you, to work with those Pre-Publication Assets in the manner selected by you. You may invite non-Users to collaborate on Pre-Publication Assets, but in order to access the Pre-Publication Assets on the Service, each individual will be required to accept these Terms.
+2. **Published Content.** By uploading Published Content to the Issuu Service, you hereby grant to Issuu a worldwide, non-exclusive, transferable, assignable, fully paid-up, royalty-free, license to host, transfer, display, perform, reproduce, distribute, and otherwise use your Published Content, in any media forms or formats, and through any media channels, now known or hereafter devised, including without limitation, RSS feeds, embeddable functionality, and syndication arrangements in order to distribute, promote or advertise your Published Content through the Issuu Service. This license includes, for example, the right of Issuu to engage a partner to distribute Published Content, whether or not such partner identifies Issuu as a partner, to such partner’s customer base on a free or paid basis. This license also includes the right for Issuu to convert your Published Content to Issuu’s proprietary format, or such other file formats as may be used by Issuu, and to display and make your Published Content available, in whole or in part (including excerpts), on the Issuu Service in association with other Published Content, content or advertising. Subject to the license grant to other Users below, the license granted by you to Issuu in this paragraph terminates as to a specific Published Content once you remove or delete such Published Content from the Issuu Service.
+3. **Representations.** You are solely responsible for all of your User Submissions and you hereby recognize and affirm that the Issuu Service is merely providing you the means to collaborate on and make available your User Submissions. Accordingly, you shall be solely responsible for each of your User Submissions and the consequences of uploading them. By uploading your User Submissions, you affirm, represent, and warrant that: (1) you are the creator and owner of or have the necessary licenses, rights, consents, and permissions to use and to authorize Issuu and Issuu's Users to use and distribute your User Submissions as necessary to exercise the licenses granted by you in this section and in the manner contemplated by Issuu and these Terms; (2) your User Submissions do not and will not: (i) infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right or (ii) slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person; and (ii) your User Submissions do not contain any viruses, adware, spyware, worms, or other malicious code or any content or file that provides a method to access to potentially infringing content outside of the Issuu Service. Violators of these third-party rights may be subject to criminal and civil liability. Issuu reserves all rights and remedies against any Users who violate these Terms.
+4. **Removal of User Submissions.** Although Issuu has no obligation to remove, screen, edit, or monitor any Published Content, Issuu reserves the right, and has absolute discretion, to remove, screen, edit, or disable any User Submission at any time and for any reason without notice. In addition, although Issuu has no obligation to remove, screen, edit, or monitor any Pre-Publication Assets, Issuu reserves the right, and has absolute discretion, to remove, screen, edit, or disable any Pre-Publication Asset at any time and for any reason.
+5. **No Endorsement.** Further, you understand that when using the Issuu Service you will be exposed to Published Content from a variety of sources, and that Issuu is not responsible for the accuracy, content, usefulness, or intellectual property rights of or relating to such Published Content. You further understand and acknowledge that you may be exposed to Published Content that is inaccurate, offensive, indecent or objectionable, and you agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against Issuu with respect thereto. Issuu does not endorse any User Submissions or any opinion, recommendation or advice expressed in any User Submission, and Issuu expressly disclaims any and all liability in connection with User Submissions. If notified by a User or a content owner of a User Submission that allegedly does not conform to these Terms, Issuu may investigate the allegation and determine in its sole discretion whether to remove the User Submission, which it reserves the right to in accordance with these Terms. For clarity, Issuu does not permit copyright infringing activities on the Issuu Service.
+6. **Referral Partners.** Issuu may as part of the Issuu Service allow you to enable certain third parties such as printing houses that have contracted with Issuu (each, a “Referral Partner”) to upload User Submissions on your behalf. If a Referral Partner refers you to Issuu, and you wish to allow such Referral Partner to upload your User Submissions, in addition to agreeing to these Terms you will be required to opt-in and agree to additional terms (via a separate sign-in process) to allow Issuu to provide to such Referral Partner certain information which may include but not be limited to your API upload key, your Customer ID and other relevant information. Without limiting any other provision in these Terms, you understand and agree that Issuu shall have no responsibility for the content or quality of any User Submission provided by a Referral Partner. You must provide to Issuu at least thirty (30) days’ prior written notice if you wish to remove a Referral Partner from your account.
 
-16.1 Issuu, its employees, sub-suppliers and their employees shall observe strict confidentiality as regards any information concerning User' s business affairs and other confidential information coming into their possession in connection with the set-up, operation and performance of ISSUU.
+[](#prohibited-conduct)7\. Prohibited Conduct
+---------------------------------------------
 
-[](#termination-and-disablement-of-access)17\. Termination, and disablement of access
--------------------------------------------------------------------------------------
+You agree not to commit any act of the following prohibited conduct:
 
-17.1 The full access to and use of ISSUU may be terminated by User as follows:
+1. use the Issuu Service for any purpose other than to disseminate or receive original or appropriately licensed content and to access the Issuu Service as such services are offered by Issuu;
+2. delete the copyright or other proprietary rights markings on the Issuu Service or other Users’ User Submissions;
+3. make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users of the Issuu Service. This includes, but is not limited to, unsolicited advertising, promotional materials, or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, and petitions for signatures;
+4. use the Issuu Service in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy or post, upload, or distribute any defamatory, libelous, or inaccurate User Submissions or other content;
+5. defame, harass, abuse, threaten or defraud Users of the Issuu Service, or post, upload, or distribute any content that is unlawful or otherwise inappropriate, or collect, or attempt to collect, personal information about Users or third parties without their consent, or use the content on the Issuu Service for any commercial use, it being understood that the content available on the Issuu Service is for personal, non-commercial use only;
+6. rent, lease, loan, sell, resell, sublicense, distribute or otherwise transfer the licenses granted in these Terms or any Materials (as defined below);
+7. impersonate any person or entity, falsely claim an affiliation with any person or entity, or access the Issuu Service accounts of others without permission, forge another persons' digital signature, misrepresent the source, identity, or content of information transmitted via the Issuu Service, or perform any other similar fraudulent activity;
+8. hack, remove, circumvent, disable, damage or otherwise interfere with security-related features of the Issuu Service or User Submissions, features that prevent or restrict use or copying of any content accessible through the Issuu Service, or features that enforce limitations on the use of the Issuu Service or User Submissions, or intentionally interfere with or damage operation of the Issuu Service or any user's enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code;
+9. reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Issuu Service or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+10. modify, adapt, translate or create derivative works based upon the Issuu Service or any part thereof, except and only to the extent that such activity is expressly permitted by these Terms or applicable law notwithstanding this limitation; or
+11. remove, obscure, block, hide or otherwise alter the display of any advertising (or any parts or aspects thereof), Issuu brand elements, including logos, trademarks, service marks or other Materials displayed by Issuu in connection with the Issuu Service in any manner whatsoever, regardless of your use of the embedding functionality of the Issuu Service to display authorized content on your or other third party sites.
 
-17.2 If a Publisher does not want to use ISSUU anymore, the Publisher shall takedown all its Publications and Other Content.
+[](#digital-millennium-copyright-act)8\. Digital Millennium Copyright Act
+-------------------------------------------------------------------------
 
-17.3 A User may simply close its user account. Closing an account does not entitle User to a proportional refund of any prepaid access fee or subscription fee.
+It is Issuu's policy to respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act. For more information, please go to Issuu's [DMCA Guidelines](https://issuu.com/legal/dmca). Issuu may terminate without notice any User's access to the Issuu Service if that User is determined by Issuu to be a "repeat infringer." A repeat infringer is a User who has been notified by Issuu of infringing activity violations more than twice or who has had a User Submission or any other user-submitted content removed from the Issuu Service more than twice.
 
-17.4 If User, after being given at least ten (10) days written notice, has not paid any outstanding fees or other amounts due to Issuu, Issuu is entitled to disable the User' s access to ISSUU.
+[](#document-promotion)9\. Document Promotion
+---------------------------------------------
 
-17.5 The access to ISSUU cannot be restored until User has paid all amounts due, including all costs.
+1. Issuu may provide you the opportunity to promote your Published Content (**"Promoted Documents"**). A **"Promotion"** is Published Content consisting of information about a Promoted Document created in part by you and in part by automated means. Each Promotion consists of a title, body text, and a thumbnail. The thumbnail is automatically created from the Promoted Document. The title and body text is entered by you. Issuu reserves the right to change how Promotions are created without notice.
+2. Your Promotion will automatically be placed based upon the targeting parameters and maximum auction bid price specified by you, but Issuu does not make any representation, warranty, or other commitment of any kind regarding Promotions, including placement or bid price.
+3. In addition to the representations and warranties you make above with respect to your Promoted Documents as User Submissions, you also represent and warrant with respect to each of your Promotions that:
+    1. your Promotions adhere to community standards of decency and good taste, and comply with the United States Federal Trade Commission’s ["Guidelines Concerning the Use of Endorsements and Testimonials in Advertising," 16 CFR Part 255](http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf) or equivalent legislation in effect;
+    2. all statements contained in your Promotions are true, accurate and non-misleading;
+    3. you will disclose clearly and conspicuously that you have been paid or provided benefits with your Promotions and Promoted Documents if that is the case;
+    4. your Promotions and Promoted Documents do not include any personally identifiable information of third parties without such party’s permission;
+    5. neither the title nor body text in any Promotion contain a URL;
+    6. the title and body text in your Promotions accurately describe or indicate the content in the Promoted Document;
+    7. your Promotions do not contain content that infringes upon the rights of any third party, including its copyrights, trademarks, privacy, or publicity rights;
+    8. the title and body text in your Promotions do not reference Issuu and do not utilize any logos or trademarks of Issuu;
+    9. the title and body text in your Promotions do not contain false, misleading, fraudulent, deceptive, inaccurate or unsubstantiated claims;
+    10. your Promotions comply with any and all codes, laws, and regulations regarding advertising or promotion in your locality or otherwise applicable to your Promotions;
+    11. your Promotions do not insult, threaten or harass any person; and
+    12. your Promotions do not contain: (A) offensive, profane, obscene, vulgar or inappropriate language, including language describing in a negative way or attacking persons (either as a group or individually) on the basis of their race, nationality, religion, gender, or sexual orientation or any other hate speech or terroristic speech; (B) obscene, defamatory or libelous content; (C) unlawful content, including content that encourages unlawful activity; (D) sexually explicit or sexually suggestive content, including pornographic material, "adult friend finders" or dating sites with a sexual emphasis, "adult" toys or sexually explicit videos; or (E) advertisements for any of the following: alcoholic beverages, contests, raffles, or sweepstakes (please obtain written permission from Issuu before promoting contents, raffles, or sweepstakes on Issuu), firearms (including "bb" guns and paintball guns) or related products, including ammunition for such firearms, gambling websites, including online casinos and sports "books", surveillance equipment, including "spy" cameras and "bugging" devices, tobacco products, or weapons of any kind.
+4. **Issuu may reject, refuse to publish, or remove from the Issuu Service any Promotion or Promoted Document at any time for any reason**, including failure to comply with these Terms or if, in Issuu’s sole discretion, Issuu determines that the business model, business practice, or service promoted by the Promotion or the Promoted Document is inappropriate or contrary to the letter or spirit of these Terms. Such prohibited business practices include chain letters, fraudulent or bad-faith "get-rich-quick" or "work from home" schemes, fraudulent or bad-faith web-based colleges or universities, fraudulent or misleading subscription services, pharmaceutical products, pyramid schemes, and sites that install malware, spyware or other software on users’ computers without their permission.
 
-17.6 In addition, either party may terminate the access to use ISSUU without notice if the other party has not remedied a material breach at the latest ten (10) working days after having received a written demand thereof.
+[](#third-party-software-integrated-services-and-linked-sites)10\. Third Party Software; Integrated Services and Linked Sites
+-----------------------------------------------------------------------------------------------------------------------------
 
-[](#communication)18\. Communication
+1. Third party software may be required to use some portions of the Service (e.g., Adobe Acrobat, Adobe InDesign). You are solely responsible for obtaining licenses to any third party software that may be required to use the Service, and your installation and use of any third party software is solely at your own risk. In addition, you are solely responsible for all fees charged by any third party in connection with your use of the Service (e.g., charges by mobile carriers).
+2. Issuu may provide tools through the Issuu Service that enable you to export information to Integrated Services, including through features that allow you to link your Issuu account with an account on the Integrated Service, such as Facebook, YouTube ([view their Terms of Service](https://www.youtube.com/t/terms)) or Twitter, or through implementation of third party buttons (such as "like" or "share" buttons). By using these tools, you agree that we may transfer that information to the applicable Integrated Service. In addition, the Issuu Service may include links or references to other web sites or services solely as a convenience to Users ("Linked Sites"). Issuu does not endorse any such Integrated Services or Linked Sites or the information, materials, products, or services contained on or accessible through any of them. Such third party sites and services are not under Issuu’s control, and Issuu is not responsible for their use of exported information. Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Issuu Service are also solely between you and such advertiser. Access and use of Integrated Services and Linked Sites, including the information, materials, products, and services on or available through them, is solely at your own risk.
+
+[](#special-terms-regarding-apple)11\. Special Terms Regarding Apple
+--------------------------------------------------------------------
+
+If you download Software from Apple, Inc.’s App Store, you acknowledge and agree that: (a) if any third party claims that your possession or use of the Software infringes a third party’s intellectual property rights, Apple is not responsible for the investigation, defense, settlement or discharge of any such intellectual property infringement claim; (b) Apple has no responsibility for addressing any claims relating to the Software, including: (i) product liability claims; (ii) maintenance and support; (iii) any claim that the Software fails to conform to any applicable legal or regulatory requirement; and (iv) any claim arising under consumer protection or similar legislation; and (c) Apple and its subsidiaries are intended third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple and its subsidiaries will have the right (and will be deemed to have accepted the right) to enforce these Terms against you.
+
+[](#termination-violations)12\. Termination; Violations
+-------------------------------------------------------
+
+1. Except as expressly provided otherwise in these Terms, you agree that Issuu, in its sole discretion, and without penalty, may terminate or suspend any account hosted by, or your use of, the Issuu Service and remove and discard all or any part of your account, User profile, and any User Submission, for any reason at any time. Issuu may also in its sole discretion and at any time discontinue providing access to the Issuu Service, or any part thereof, with or without notice. You agree that any termination of your access to the Issuu Service or any account you may have or portion thereof may be effected without prior notice except as expressly provided otherwise in these Terms, and you agree that Issuu will not be liable to you or any third party for any such termination, including any loss of your User Submissions. Any suspected fraudulent, abusive or illegal activity may be referred to appropriate law enforcement authorities. These remedies are in addition to any other remedies Issuu may have at law or in equity. Upon termination for any reason, you agree to immediately stop using the Issuu Service, any accompanying documentation, and all other associated materials. Your only remedy with respect to any dissatisfaction with: (i) the Issuu Service; (ii) any term of these Terms; (iii) any policy or practice of Issuu in operating the Issuu Service; or (iv) any content or information transmitted through the Issuu Service, is to terminate these Terms and your account.
+2. You may cancel a Paid Service at any time by navigating to your account settings within the Issuu Service and selecting the option to cancel that Paid Service. Unused fees are non-refundable and Issuu reserves the right to charge you subscription fees through the end of the subscription term that you elected. If Issuu charges you fees for the full subscription term, you will continue to have access to the cancelled Paid Service through the end of your subscription term, and these Terms will continue to apply to your use of that Paid Service.
+3. You may terminate your Issuu Service account and these Terms at any time by navigating to your account settings within the Issuu Service and selecting the option to terminate your account. If Issuu terminates your account for your breach of these Terms, Issuu reserves the right to charge you fees through the end of your subscription term for any Paid Service you purchased prior to termination. If Issuu terminates your use of any part or all of the Issuu Service prior to the completion of your subscription period (except if such termination is a result of your breach of these Terms, in which case Issuu may terminate without liability as described in the paragraph above), your sole remedy is a pro-rata refund of the purchase price paid for any terminated Paid Service.
+
+[](#privacy-consent-to-electronic-communications)13\. Privacy; Consent to Electronic Communications
+---------------------------------------------------------------------------------------------------
+
+1. Your privacy is important to Issuu. Issuu's [Privacy Policy](https://issuu.com/legal/privacy) is hereby incorporated into these Terms by reference. Please read the Privacy Policy carefully for information relating to Issuu's collection, use, and disclosure of your personal information.
+2. By registering for an Issuu Service account, you consent to receiving certain electronic communications regarding the Issuu Service from us as further described in our Privacy Policy. In addition, when you register for an account, you are automatically opted-in to receive commercial email from Issuu, which may include newsletters, announcements, and recommendations. You may opt-out of commercial email (but not system administration communications) at any time by following the instructions contained within the email, or by changing the notification settings from the "Account Settings" menu in your account. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.
+
+[](#ownership-proprietary-rights)14\. Ownership; Proprietary Rights
+-------------------------------------------------------------------
+
+The Issuu Service is owned and operated by Issuu. The visual interfaces, graphics, design, compilation, information, computer code (including source code or object code), products, software, services, and all other elements of the Issuu Service provided by Issuu (the **"Materials"**) are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. Except for any User Submissions that are provided and owned by Users, all Materials contained on the Issuu Service are the property of Issuu or its subsidiaries or affiliated companies or third-party licensors. All trademarks, service marks, and trade names are proprietary to Issuu or its affiliates or third-party licensors. Except as expressly authorized by Issuu, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the Materials. Issuu reserves all rights not expressly granted in these Terms.
+
+[](#indemnification)15\. Indemnification
+----------------------------------------
+
+You agree to indemnify Issuu, its affiliated companies, contractors, employees, agents and its third-party suppliers, licensors, and partners from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of your use or misuse of the Issuu Service, any violation by you of these Terms, or any breach of the representations, warranties, and covenants made by you in these Terms. Issuu reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Issuu, and you agree to cooperate with Issuu's defense of these claims. Upon notice of any impending claim, action or proceeding, Issuu will use reasonable efforts to notify of any indemnification obligation.
+
+[](#disclaimer-of-warranties)16\. Disclaimer of Warranties
+----------------------------------------------------------
+
+ISSUU, AND ITS AFFILIATES, PARTNERS, LICENSORS AND SUPPLIERS DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM ISSUU OR THROUGH THE ISSUU SERVICE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS. YOU EXPRESSLY ACKNOWLEGE THAT THIS DISCLAIMER INCLUDES ISSUU'S OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS AND SUBCONTRACTORS. YOU EXPRESSLY AGREE THAT THE USE OF THE ISSUU SERVICE IS AT YOUR SOLE RISK. THE ISSUU SERVICE AND ANY DATA, INFORMATION, THIRD-PARTY SOFTWARE, USER SUBMISSIONS, LINKED SITES, PRODUCTS, SERVICES, OR APPLICATIONS MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH THE ISSUU SERVICE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE", "WITH ALL FAULTS" BASIS AND WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND EITHER EXPRESS OR IMPLIED. ISSUU, ITS SUPPLIERS, LICENSORS, AFFILIATES, AND PARTNERS DO NOT WARRANT THAT THE DATA, USER SUBMISSIONS, OR ANY OTHER PRODUCTS, SERVICES OR APPLICATIONS OFFERED ON OR THROUGH THE ISSUU SERVICE OR ANY LINKED SITES WILL BE SECURE, UNINTERRUPTED, OR FREE OF ERRORS, VIRUSES OR OTHER HARMFUL COMPONENTS AND DO NOT WARRANT THAT ANY OF THE FOREGOING WILL BE CORRECTED. ISSUU, ITS SUPPLIERS, LICENSORS, AFFILIATES, AND PARTNERS DO NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE ISSUU SERVICE OR ANY LINKED SITES IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE. YOU UNDERSTAND AND AGREE THAT YOU USE, ACCESS, DOWNLOAD, OR OTHERWISE OBTAIN INFORMATION, MATERIALS, OR DATA THROUGH THE ISSUU SERVICE OR ANY LINKED SITES AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM) OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF SUCH MATERIAL OR DATA. THE FOREGOING DISCLAIMERS SHALL APPLY TO THE EXTENT PERMITTED BY APPLICABLE LAW. IF YOU ARE A RESIDENT OF NEW JERSEY, SUCH LAWS MAY INCLUDE NEW JERSEY’S TRUTH AND CONSUMER CONTRACT WARRANTY AND NOTICE ACT.
+
+[](#limitation-of-liability-and-damages)17\. Limitation of Liability and Damages
+--------------------------------------------------------------------------------
+
+1. UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, WILL ISSUU OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION LOST BUSINESS, LOST REVENUES OR LOSS OF ANTICIPATED PROFITS OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER) ARISING OUT OF OR RELATING TO THESE TERMS OR THAT RESULT FROM YOUR USE OR YOUR INABILITY TO USE THE ISSUU SERVICE OR ANY LINKED SITES, OR ANY OTHER INTERACTIONS WITH ISSUU OR OTHER ISSUU SERVICE USERS, EVEN IF ISSUU OR AN ISSUU AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, ISSUU'S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. IN NO EVENT WILL ISSUU OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR USE OF THE ISSUU SERVICE OR YOUR INTERACTIONS WITH ISSUU OR OTHER ISSUU SERVICE USERS (WHETHER IN CONTRACT, TORT INCLUDING NEGLIGENCE, WARRANTY, OR OTHERWISE), EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE ISSUU SERVICE DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM OR ONE HUNDRED DOLLARS, WHICHEVER IS GREATER. THESE LIMITATIONS OF LIABILITY ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY YOU BY REASON OF ANY PRODUCTS OR SERVICES SOLD OR PROVIDED ON ANY LINKED SITES OR OTHERWISE BY THIRD PARTIES OTHER THAN ISSUU AND RECEIVED THROUGH OR ADVERTISED ON THE ISSUU SERVICE OR RECEIVED THROUGH ANY LINKED SITES.
+    
+2. YOU ACKNOWLEDGE AND AGREE THAT ISSUU HAS OFFERED ITS PRODUCTS AND SERVICES, SET ITS PRICES, AND ENTERED INTO THESE TERMS IN RELIANCE UPON THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH IN THESE TERMS, THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH IN THESE TERMS REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND ISSUU, AND THAT THE WARRANTY DISCLAIMERS AND THE LIMITATIONS OF LIABILITY SET FORTH IN THESE TERMS FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND ISSUU. ISSUU WOULD NOT BE ABLE TO PROVIDE THE ISSUU SERVICE TO YOU ON AN ECONOMICALLY REASONABLE BASIS WITHOUT THESE LIMITATIONS.
+    
+3. CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF YOU RESIDE IS SUCH A JURISDICTION, SOME OR ALL OF THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. THE LIMITATIONS OR EXCLUSIONS OF WARRANTIES, REMEDIES OR LIABILITY CONTAINED IN THESE TERMS APPLY TO YOU TO THE FULLEST EXTENT SUCH LIMITATIONS OR EXCLUSIONS ARE PERMITTED UNDER THE LAWS OF THE JURISDICTION WHERE YOU ARE LOCATED.
+    
+
+[](#united-states-export-controls)18\. United States Export Controls
+--------------------------------------------------------------------
+
+You agree to comply with all export laws and restrictions and regulations of the United States Department of Commerce or other United States or other sovereign agency or authority, and not to export, or allow the export or re-export of any software, technical data or any direct product thereof in violation of any such restrictions, laws or regulations, or unless and until all required licenses and authorizations are obtained with respect to the countries specified in the applicable United States Export Administration Regulations (or any successor supplement or regulations). The transfer of certain technical data and commodities may require a license from an agency of the United States government or written assurances by you that you will not export such software, technical data or commodities to certain foreign countries without prior approval of such agency. Your rights under these Terms are contingent on your compliance with this provision.
+
+[](#arbitration-agreement-class-action-waiver-governing-law)19\. Arbitration Agreement; Class Action Waiver; Governing Law
+--------------------------------------------------------------------------------------------------------------------------
+
+1. **Generally.** In the interest of resolving disputes between you and Issuu in the most expedient and cost effective manner, you and Issuu agree that any and all disputes arising in connection with this Agreement will be resolved by binding arbitration. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. Our agreement to arbitrate disputes includes, but is not limited to all claims arising out of or relating to any aspect of these Terms or the Service, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. **You understand and agree that, by entering into these Terms, you and Issuu are each waiving the right to a trial by jury or to participate in a class action.**
+2. **Exceptions.** You and Issuu agree that nothing in these Terms will be deemed to waive, preclude, or otherwise limit either of our rights to: (i) bring an individual action in small claims court; (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available; (iii) seek injunctive relief in a court of law; or (iv) to file suit in a court of law to address intellectual property infringement claims.
+3. **Arbitration.** Any arbitration between you and Issuu will be governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by these Terms, and will be administered by the AAA. The AAA Rules and filing forms are available online at [www.adr.org](http://www.adr.org/), by calling the AAA at 1-800-778-7879, or by contacting Issuu.
+4. **Arbitration Notice; Process.** If you elect to seek arbitration, you must first send to Issuu, by certified mail or FedEx (signature required), a written notice of your claim addressed to: Legal Dept., Issuu, 131 Lytton Ave, Palo Alto, CA 94301, USA. If Issuu elects to seek arbitration, it will send a written notice to the email address you provided to Issuu for your account. An arbitration notice, whether sent by you or by Issuu, must: (i) describe the nature and basis of the claim or dispute; and (ii) set forth the specific relief sought. You and Issuu each agree to use good faith efforts to directly resolve any claim, but if we do not reach an agreement to resolve the claim within 30 days after the notice is received, you or Issuu may commence an arbitration proceeding or file a claim in small claims court. During any arbitration, the amount of any settlement offer made by Issuu or you must not be disclosed to the arbitrator. You may download or copy a form notice and a form to initiate arbitration at www.adr.org. If our dispute is finally resolved through arbitration in your favor, Issuu will pay you: (A) the amount awarded by the arbitrator, if any; (B) the last written settlement amount offered by Issuu in settlement of the dispute prior to the arbitrator’s award; or (C) $1,000, whichever is highest.
+5. **Fees.** If you commence arbitration in accordance with these Terms, Issuu will reimburse you for your payment of the filing fee unless your claim is for greater than $10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearings will take place at a location to be agreed upon in the city of your billing address provided to Issuu as part of your account registration, or, if no city was provided, in the AAA office nearest to you, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (i) solely on the basis of documents submitted to the arbitrator; (ii) through a non-appearance based telephone hearing; or (iii) by an in-person hearing as established by the AAA Rules. If the arbitrator finds that either the substance of your claim or the relief sought in the demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In such case, you agree to reimburse Issuu for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator will issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
+6. **Modifications.** If Issuu makes any future change to this arbitration provision (other than a change to Issuu's address for notice), you may reject the change by sending us written notice within 30 days of Issuu’s notice to you of the change, in which case your account with Issuu will be immediately terminated and this arbitration provision, as in effect immediately prior to the amendments you reject will survive.
+7. **No Class Actions. YOU AND ISSUU AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.** Further, unless both you and Issuu agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding. YOU MAY OPT-OUT OF THE CLASS ACTION WAIVER ABOVE WITHIN 30 DAYS FROM THE DATE THAT YOU FIRST CONSENT TO THIS AGREEMENT (the “Opt- Out Deadline”). You may opt out of the waiver by mailing written notification to Issuu at the address stated at the end of these Terms. Your written notification must include (1) your name, (2) your address, and (3) a clear statement that you do not agree to the class action waiver. Your decision to opt-out will have no adverse effect on your relationship with Issuu. Any opt-out request received after the Opt-Out Deadline will not be valid. Neither you, nor any other user of the Issuu Service can be a class representative, class member, or otherwise participate in a class, consolidated, or representative proceeding without having complied with the opt-out requirements above.
+8. **Enforceability.** If any or all of this arbitration agreement provision is found to be unenforceable, then the entirety of this arbitration agreement provision will be void and, in that case, you and Issuu both agree that the exclusive jurisdiction and venue described below will govern any action arising out of or related to these Terms.
+9. **Governing Law; Venue.** These Terms and any action arising out of these Terms or your use of the Service, whether interpreted in a court of law or in arbitration, will be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles. To the extent that any lawsuit or court proceeding is permitted under these Terms, you and Issuu agree to the personal and exclusive jurisdiction in the state and federal courts in San Francisco, California.
+
+[](#government-terms)20\. Government Terms
+------------------------------------------
+
+If you use the Issuu Service in an official capacity for a federal, state or local government or government agency in the United States, the following modifications of these Terms apply solely to that official use:
+
+1. **Indemnification.** The terms of Section 15 will apply to you only to the extent expressly permitted by your jurisdiction’s laws.
+2. **Arbitration.** The terms of Section 19(a) – (h) do not apply to your official use of the Service.
+3. **Governing Law.** The terms of Section 19(i) will apply only to the extent expressly permitted by your jurisdiction’s laws.
+
+[](#miscellaneous)21\. Miscellaneous
 ------------------------------------
 
-18.1 Issuu may use User' s e-mail for all types of communication, including service messages, demands, and reminder letters and notices concerning news in ISSUU or other services provided by Issuu.
+1. The failure of Issuu to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. Any waiver of any provision of these Terms will be effective only if in writing and signed by Issuu. If any provision of these Terms is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from these Terms to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions. These Terms and any rights and licenses granted hereunder may not be transferred or assigned by you, but may be assigned by Issuu without restriction. Any assignment attempted to be made in violation of these Terms shall be void. The use of the word “included” is intended to mean “included but not limited to” unless expressly stated otherwise. Upon termination of these Terms, any provision which, by its nature or express terms should survive, will survive such termination or expiration, including Sections 1 through 3 and 11 through 20. Heading references are for convenience purposes only, do not constitute a part of these Terms, and will not be deemed to limit or affect any of the provisions hereof. These Terms, together with the Privacy Policy and any other agreements incorporated by reference, are the entire agreement between you and Issuu relating to the subject matter described in these Terms and will not be modified except in writing, signed by both parties, or by a change to these Terms made by Issuu as set forth above.
+2. **YOU AND ISSUU AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE ISSUU SERVICE OR THESE TERMS MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.**
 
-18.2 All enquiries to Issuu in addition to support enquiries, must be sent by e-mail or via a web-based form provided by Issuu.
+**Contact information:**
 
-[](#assignment)19\. Assignment
-------------------------------
+> Issuu, Inc. 131 Lytton Ave Palo Alto, CA 94301 USA
 
-19.1 Issuu is free to assign rights and/or liabilities in connection with the delivery of ISSUU to a third party without prior written consent from User. Furthermore, Issuu may use sub-suppliers to fulfil all of or parts of its obligations.
+> [contact@issuu.com](mailto:contact@issuu.com)
 
-[](#applicable-law-venue-and-arbitration)20\. Applicable law, Venue and Arbitration
------------------------------------------------------------------------------------
+[](#appendix-1-issuu-digital-sales-terms)Appendix 1 - Issuu Digital Sales Terms
+===============================================================================
 
-20.1 Governing Law; Venue.
+Issuu’s Digital Sales service (“Digital Sales”) is intended for publishers who wish to charge a fee to consumers of their User Submissions (also referred to herein as “Publications”) via the Issuu Service (“End Users”). Your use of Digital Sales is subject to these Issuu Digital Sales Terms (the “Digital Sales Terms”) any and all additional terms, policies, rules, or guidelines applicable to Digital Sales or certain features of Digital Sales that we may post on or link to on the Issuu Service.
 
-20.1.1 These Terms and any action arising out of these Terms or your use of ISSUU, whether interpreted in a court of law or in arbitration, will be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles but without depriving you of the preceptive protection you enjoy in the country where you live or usually resides.
+These Digital Sales Terms are Additional Terms as defined in Issuu’s Terms of Service, currently located at http://issuu.com/legal/terms (the “Terms of Service” or “TOS”). All capitalized terms used in these Digital Sales Terms and not defined herein shall have the definition set forth in the TOS.
 
-20.2 **Enforceability**
+[](#paid-purchases)1\. Paid Purchases
+-------------------------------------
 
-20.3 If any or all of the below arbitration agreement provision is found to be unenforceable, then the entirety of the below arbitration agreement provision will be void and, in that case, you and Issuu agree to the personal and exclusive jurisdiction in the state and federal courts in San Francisco, California will govern any action arising out of or related to these Terms.
+Access to your Publications for which you charge End Users a fee is referred to in these Digital Sales Terms as a “Paid Purchase.” A Paid Purchase may be a purchase of a single edition of a Publication or a subscription to a Publication (a “Paid Subscription”). It is your responsibility to set the terms of Paid Purchases, such as duration, price, etc., and to contract directly with End Users regarding such terms via an enforceable agreement (“End User Agreement”). You understand and agree that all End Users must have an active and valid account to use the Issuu Service; your agreement with End Users shall require the End User to confirm that and shall not modify or effect in any way the End User’s account with Issuu.
 
-20.4 **Internal dispute resolution**
+[](#pricing-delivery-and-updates)2\. Pricing, Delivery and Updates
+------------------------------------------------------------------
 
-20.4.1 Issuu has established an internal dispute resolution board ("Resolution Board") that will hear your complaint free of charge. The Resolution Board is comprised by an Issuu executive and an external expert, normally our local lawyer.
+You are solely responsible for setting the price of a Paid Purchase. You will be required to permit End Users to access a free preview of your Publications. After a Paid Purchase for a Publication is purchased by an End User, you may delete the preview and suspend the Paid Purchase, however, Issuu may, in its discretion, continue to serve the content of the Paid Purchase for up to one (1) year and following such time may provide such content to the End User in pdf or other static format. You may re-upload a Publication that has been removed or update an existing Publication (such re-load or update is referred to as an “Update”). Any Update you provide may be provided without notice to End Users with existing Paid Purchases. If you do not want End Users with existing Paid Purchases to receive an Update, you must to upload the Update as a new, separate and distinct file and not as an update to a file for an existing Publication.
 
-20.4.2 You may submit your complaint to the Resolution Board using the e-mail disputeresolution@issuu.com.
+[](#issuu-fee)3\. Issuu Fee
+---------------------------
 
-20.4.3 The Resolution Board will normally within 30 days after having received your complaint and all relevant information decide your complaint. The Resolution Board' s decision is binding upon Issuu. The Resolution Board may meet your complaint in whole or in part or it may reject it.
+You shall pay to Issuu a fee for each Paid Purchase as set forth in these Digital Sales Terms (the “Issuu Fee”). As Digital Sales is currently structured, the Issuu Fee will be paid via the process described in Section 4 below.
 
-20.4.4 When deciding your complaint the Resolution Board will take into account the consumers rights that you may hold but it will primarily use the principle of bono and equity to reach a decision.
+Issuu may in its discretion allow you to participate in a free trial of Digital Sales The time period of such free trial is referred to as the “Trial Period.” During the Trial Period, you may sell Paid Subscriptions. If at the end of the Trial Period you do not continue the paid Digital Sales service in standard (paying) mode, Issuu will: (a) convert any of your subscriptions to Publications to single edition purchases of the Publications; (b) revert all of your Paid Subscriptions to free; and (c) keep the Issuu Fee from your sales of Paid Subscriptions during the Trial Period.
 
-20.4.5 You will receive the decision from the external member of the Resolution Board. If your complaint is not meet, you will receive an explanation of why it is not meet and a guide to who will hear your complaint and the implications of submitting your complaint to either the below mentioned arbitration or the competent court.
+Clauses (a) – (c) above are referred to as the “Downgrade Process.” Issuu may, in its discretion, apply the Downgrade Process to a Publication in the event that you choose to end Digital Sales with respect to that Publication.
 
-20.5 **Arbitration**
+[](#billing-and-payment-process)4\. Billing and Payment Process
+---------------------------------------------------------------
 
-20.5.1 In the interest of resolving disputes between you and Issuu in the most expedient and cost-effective manner, you and Issuu agree that any and all disputes arising in connection with these Terms and the use of ISSUU will be resolved by binding arbitration if you decide to refer the matter to arbitration.
+Issuu will use a third party billing provider such as Stripe (the “Third Party Billing Platform” or the “Platform”) to facilitate the payment flow for Digital Sales. Accordingly, Issuu will have a “parent” Platform account with connected “child” Platform accounts for each publisher using Digital Sales, including you. You will create your own Platform “child” account, which will enable you to receive money, and you will be required to grant access to Issuu to permit Issuu to charge End Users fees for the Paid Purchases on your behalf. End User billing information will be stored on both the Issuu “parent” account and your “child” account. However, no confidential credit card information will be made available to Issuu. A Paid Purchase transaction will be processed via the following steps:
 
-20.5.2 Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award.
+Step 1: End User purchases a Paid Purchase via a web page on the Issuu Service that is connected to the Platform
 
-20.5.3 Our agreement to arbitrate disputes includes, but is not limited to all claims arising out of or relating to any aspect of these Terms or the Service, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms.
+Step 2: The Platform processes the order by sending the appropriate amounts (the “Publisher Proceeds”) to you after (a) transferring the Issuu Fee to Issuu’s Platform account and (b) deducting the Platform’s fee for the transaction.
 
-20.5.4 **You understand and agree that, by entering into these Terms, you and Issuu are each waiving the right to a trial by jury or to to participate in a class action**
+[](#end-user-agreement-requirements)5\. End User Agreement Requirements
+-----------------------------------------------------------------------
 
-20.5.5 You and Issuu agree that nothing in these Terms will be deemed to waive, preclude, or otherwise limit either of our rights to: (i) bring an individual action in small claims court; (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available; (iii) seek injunctive relief in a court of law; or (iv) to file suit in a court of law to address intellectual property infringement claims.
+You agree that Issuu shall have no responsibility for billing End Users and that Issuu shall have no liability to you or to any End User for any error in billing or failure to bill for Paid Purchases. You shall be responsible for, and shall appropriately document in the End User Agreement, the billing relationship between you and End Users for Paid Purchases. Without limiting the foregoing, you shall ensure that the End User Agreement expressly states that Issuu will not be the merchant of record for Paid Purchases. Your End User Agreement and your treatment of End Users (including but not limited to the collection, use and disclosure of their information) shall comply will all applicable laws and regulations. Without limiting the foregoing, you shall ensure that you publish and comply with a privacy policy that clearly informs End Users of how their information, including but not limited to billing information, will be collected, used and disclosed and complies with all applicable laws and regulations.
 
-20.5.6 Any arbitration between you and Issuu will be governed by the American Arbitration Association ("AAA") **Consumer Arbitration Rules** in their entirety.
+[](#taxes)6\. Taxes
+-------------------
 
-20.5.6.1 You may find the rules here (the AAA Rules):
+If the End User is located in a jurisdiction for which sales tax, value added tax or other tax (each a “Tax”) is required to be levied on such End User’s Paid Purchase, you are responsible for adding the appropriate amount of Tax to the price that you set for such Paid Purchase. You are also responsible for all other taxes, including taxes on your net income. In addition to your indemnification obligations in the TOS, you shall fully indemnify Issuu for any failure to correctly charge and collect the appropriate applicable Tax or for any tax liability of Issuu resulting from your negligence or intentional misconduct or from your breach of these Digital Sales Terms.
 
-[https://www.adr.org/sites/default/files/Consumer\_Rules\_Web\_0.pdf](https://www.adr.org/sites/default/files/Consumer_Rules_Web_0.pdf)
+[](#refunds)7\. Refunds
+-----------------------
 
-20.5.6.2 You can find the forms you need to demand arbitration proceedings on [www.adr.org](https://issuu.com/legal/www.adr.org).
+Issuu will forward to you requests by End Users for exchanges, refunds and similar requests. You are responsible for determining the appropriate resolution of each such request. You will not receive Publisher Proceeds for orders for which refunds are issued.
 
-20.5.7 If you commence arbitration in accordance with these Terms, and provided that you first have submitted your complaint/claim to our Resolution Board for resolution, Issuu will reimburse you for your payment of the filing fee unless your claim is for greater than $ 25,000, in which case the payment of any fees will be decided by the AAA Rules.
+[](#access-codes)8\. Access Codes
+---------------------------------
 
-20.5.8 **Modifications**
+1. **For Publishers**
+    1. As a publisher you may choose to generate free or discounted access codes (“Access Codes”) for use by customers.
+    2. Access Codes may grant Users free access or discounted access to the applicable content.
+    3. Each Access Code must (a) have an expiry date (to the extent permitted by law) and (b) state whether or not the Access Code can be used only once or an unlimited number of times.
+    4. Publisher may distribute the Access Codes as you choose, for example, to your print subscribers or via email to selected individuals.
+    5. Without limiting any obligations under the Issuu Terms of Service, publishers must comply with all applicable laws related to the creation, use, distribution, and redemption of Access Codes, including all applicable privacy and gift certificate laws and regulations.
+2. **For Users**
+    1. Users of the Issuu Service who receive an Access Code may redeem them via:
+        1. https://issuu.com/store/code, which subsequently redirects the user to the publication and the option to access it for free or at the discounted price, or
+        2. a URL provided by the publisher, which will send the User directly to the publication.
+    2. For Access Codes entitling the User to free access, instead of inputting credit card details or other appropriate Payment Method, Users must enter the Access Code.
+    3. For Access Codes entitling the User to discounted access, Users must enter the Access Code in addition to credit card details or other appropriate Payment Method.
+    4. In the event that a User inputting an Access Code does not have an account for the Paid Service, Issuu will create such an account for that User as part of this process of redeeming such Access Code.
+    5. Please note that Access Codes have no cash value and cannot be exchanged for cash or other currency.
 
-20.5.8.1 Issuu will not make any future change to this arbitration provision (other than a change to Issuu's address for notice), unless required to do so by a change to the AAA rules or changes to the applicable regulation.
+[](#general-provisions)9\. General Provisions
+---------------------------------------------
 
-20.5.9 No Class Actions. YOU AND ISSUU AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
-
-20.5.10 **Opt-out Deadline**
-
-20.5.10 Further, unless both you and Issuu agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding. YOU MAY OPT-OUT OF THE CLASS ACTION WAIVER ABOVE WITHIN 30 DAYS FROM THE DATE THAT YOU FIRST CONSENT TO THIS AGREEMENT (the "Opt- Out Deadline"). You may opt out of the waiver by mailing written notification to Issuu at the address stated at the end of these Terms. Your written notification must include (1) your name, (2) your address, and (3) a clear statement that you do not agree to the class action waiver. Your decision to opt-out will have no adverse effect on your relationship with Issuu. Any opt-out request received after the Opt-Out Deadline will not be valid. Neither you, nor any other user of the Issuu Service can be a class representative, class member, or otherwise participate in a class, consolidated, or representative proceeding without having complied with the opt-out requirements above.
+These Digital Sales Terms, together with the TOS into which they are incorporated, are the complete agreement between you and Issuu with respect to Digital Sales. If a provision of these Digital Sales Terms conflicts with a provision of the TOS, such provision of these Digital Sales Terms shall control, but only with respect to Digital Sales.
 
 Issuu
 
