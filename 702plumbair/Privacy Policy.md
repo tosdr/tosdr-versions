@@ -2,6 +2,8 @@ Skip to Content
 
  [![702 PlumbAIR](/images/logos/Dark-Logo.2310120625550.png "702 PlumbAIR") ![702 PlumbAIR](/images/logos/Light-Logo.2310120625550.png "702 PlumbAIR")](https://www.702plumbair.com/ "Home")[](tel:7024470131)
 
+* [Financing](https://www.702plumbair.com/about-us/financing/)
+* [Specials](https://www.702plumbair.com/coupons/)
 * [Blog](https://www.702plumbair.com/blog/)
 * [Reviews](https://www.702plumbair.com/reviews/)
 
@@ -13,6 +15,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Our Team](https://www.702plumbair.com/meet-the-team/)
     * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
     * [Careers](https://www.702plumbair.com/about-us/careers/)
+    * [Financing](https://www.702plumbair.com/about-us/financing/)
     * [Coupons](https://www.702plumbair.com/coupons/)
     
 * [Plumbing Services](https://www.702plumbair.com/plumbing-services/)
@@ -38,6 +41,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Indoor Air Quality](https://www.702plumbair.com/hvac-services/indoor-air-quality/)
     
 * [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
+* [Areas We Serve](https://www.702plumbair.com/areas-we-serve/)
 
 * _Close_
     
@@ -51,8 +55,11 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Our Team](https://www.702plumbair.com/meet-the-team/)
     * [Photo Gallery](https://www.702plumbair.com/photo-gallery/)
     * [Careers](https://www.702plumbair.com/about-us/careers/)
+    * [Financing](https://www.702plumbair.com/about-us/financing/)
     * [Coupons](https://www.702plumbair.com/coupons/)
     
+* [Specials](https://www.702plumbair.com/coupons/)
+* [Financing](https://www.702plumbair.com/about-us/financing/)
 * [Plumbing Services](https://www.702plumbair.com/plumbing-services/)
     
     * Main Menu
@@ -78,6 +85,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Indoor Air Quality](https://www.702plumbair.com/hvac-services/indoor-air-quality/)
     
 * [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
+* [Areas We Serve](https://www.702plumbair.com/areas-we-serve/)
 * [Blog](https://www.702plumbair.com/blog/)
     
     * Main Menu
@@ -185,6 +193,7 @@ Henderson, NV 89014
 
 * [Home](https://www.702plumbair.com/)
 * [Careers](https://www.702plumbair.com/about-us/careers/)
+* [Financing](https://www.702plumbair.com/about-us/financing/)
 * [Plumbing Services](https://www.702plumbair.com/plumbing-services/)
 * [HVAC Services](https://www.702plumbair.com/hvac-services/)
 * [Reviews](https://www.702plumbair.com/reviews/)
