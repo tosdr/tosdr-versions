@@ -93,28 +93,26 @@ To
 
 * [##### Arataki Bus Hub Upgrade - Farm Street One Way & Temporary Bus Stops, Routes CT, 2, 5, 20, 21, 143A & 143B
     
-    Mon 05 Aug 06:00 am - Thu 31 Oct 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/arataki-bus-hub-upgrade-farm-street-one-way-temporary-bus-stops-routes-ct-2-5-20-21-143a-143b/)
-* [##### Youth concession fares are changing 29 July. Top up your Bee Card, tag on and tag off the bus, don't get caught short!](https://www.baybus.co.nz/latest-updates/service-updates/youth-concession-fares-are-changing-29-july-top-up-your-bee-card-tag-on-and-tag-off-the-bus-dont-get-caught-short/)
-* [##### Temporary Bus Stop Closure - Route 1
+    Now until Fri 15 Nov 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/arataki-bus-hub-upgrade-farm-street-one-way-temporary-bus-stops-routes-ct-2-5-20-21-143a-143b/)
+* [##### AIMS Games are underway until Friday 13 September - Expect Traffic Delays
     
-    Today 06:00 am - Thu 01 Aug 10:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closure-route-1/)
-* [##### Temporary Bus Stop Closure, Papamoa Beach Road - Routes 2 and 22
+    Now until Fri 13 Sept 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/aims-games-are-underway-until-friday-13-september-expect-traffic-delays/)
+* [##### Detour Route 1 - Night Closure of Devonport Road
     
-    Now until Fri 16 Aug 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closure-papamoa-beach-road-routes-2-and-22/)
+    Now until Sun 03 Nov 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-1-night-closure-of-devonport-road/)
+* [##### Bus Stop Closures Routes 1, 102 & 105
+    
+    Now until Fri 25 Oct 06:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closures-routes-1-102-105/)
+* [##### Bus Stop Closure Route 5 - Maunganui Road/Tui Street
+    
+    Now until Mon 16 Sept 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/bus-stop-closure-route-5-maunganui-roadtui-street/)
+* [##### Delays Routes 101, 143a & 143B - State Highway 2 Works
+    
+    Now until Sat 12 Oct 06:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/delays-routes-101-143a-143b-state-highway-2-works/)
 * [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
-* [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road
-    
-    Now until Mon 30 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road/)
 * [##### Temporary Bus Stop Closures, Routes 1 & 105 - Fraser Street
     
     Now until Sun 15 Sept 11:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closures-routes-1-105-fraser-street/)
-* [##### Detour Route 40 - Temporary Traffic Lights on Welcome Bay Road](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-40-temporary-traffic-lights-on-welcome-bay-road/)
-* [##### Detour, Bus Stop Closures Route 60 - Long-term Closure of St Andrews Drive Roundabout
-    
-    Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-60-long-term-closure-of-st-andrews-drive-roundabout/)
-* [##### Detour, Bus Stop Closures Route 814a - Long-term Closure of St Andrews Drive Roundabout
-    
-    Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-814a-long-term-closure-of-st-andrews-drive-roundabout/)
 * [##### Detour Routes 122 & 135 - Kakahoroa Drive, Whakatāne - Project Future Proof
     
     Now until Thu 31 Oct 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-122-135-kakahoroa-drive-whakatane-project-future-proof/)
