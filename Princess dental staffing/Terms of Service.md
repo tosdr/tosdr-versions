@@ -29,7 +29,7 @@ Terms of Use
 
 * * *
 
-_Last updated: July 31, 2024_
+_Last updated: September 06, 2024_
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -531,7 +531,7 @@ Princess Dental Staffing
 * [Mission Statement](https://www.princessdentalstaffing.com/mission-statement)
 * [Blog](https://www.princessdentalstaffing.com/blog)
 * [Referral Rewards](https://www.princessdentalstaffing.com/referral)
-* [Resources](https://www.princessdentalstaffing.com/resources)
+* [Partners & Deals](https://www.princessdentalstaffing.com/resources)
 * [Contact Us](https://www.princessdentalstaffing.com/contact_us)
 
 ![AZDA Logo](/assets/azda-perks-transparent-9122781a3eabfba14063a392b3c2e4b9cb43405a49baf406cf8c54283d575578.png)
@@ -598,7 +598,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-827302)
+Don’t have an account? [Sign up](#sign-up-473752)
 
 Sign up for an account
 ----------------------
@@ -617,7 +617,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-827302)
+Already have an account? [Sign in](#sign-in-473752)
 
 Log in to your account
 ----------------------
@@ -638,7 +638,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-213792)
+Don’t have an account? [Sign up](#sign-up-278047)
 
 Sign up for an account
 ----------------------
@@ -657,7 +657,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-213792)
+Already have an account? [Sign in](#sign-in-278047)
 
 Success
 
