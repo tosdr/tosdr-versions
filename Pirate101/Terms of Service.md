@@ -225,7 +225,7 @@ The terms related to protection of the Company’s intellectual property rights,
   
 The Company’s failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not constitute a waiver of the provision. Neither a course of dealing or conduct between you and the Company nor any trade practices shall be deemed to modify these Terms of Use.
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=5oC%2FUiDFg64nsEy%2FNEk9resMyKU%2BGeNsQN5Bnxmym7YngLFu6OnWnaFQ1OvHnb1c02vnGSCcPLTgxCeT86uUiH3BFZTLppkehREofv5aQs9k6plNRAJYJmNLBs3PBROf)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=lt6YwCbMQugU4L61nqKCN6zkgwFYqTWclC%2FffQrEhGLn1EeOeEszmUOEa%2FTmAxnGtxP3HjNTj4zau5gxViiUeMPy9PHPHnNKYb9cK1PJ%2FsbpN0bsoBTTfYPEkZ8HJg%3D%3D)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
@@ -245,9 +245,7 @@ The Company’s failure to insist upon or enforce strict performance of any prov
     * [Famous Pirates](https://www.pirate101.com/free_game/learn/famous_pirates)
     * [Pirate Quotes](https://www.pirate101.com/free_game/learn/pirate_quotes)
 
-[![Pirate101 is rated E 10 and up](https://edgecast.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)
-
-[EV SSL](https://www.digicert.com/ev-ssl-certification.htm)
+[![Pirate101 is rated E 10 and up](https://edgecast.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)  
 
 [![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/discord-p.gif?v=1)](https://discord.gg/pirate101) [![Twitter](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/twitter.png?v=2)](http://twitter.com/pirate101) [![Facebook](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/facebook-p.jpg?v=2)](http://www.facebook.com/pirate101game) [![Youtube](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/youtube-p.jpg?v=2)](http://www.youtube.com/kingsisle) [![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/tiktok-p.gif?v=1)](http://www.tiktok.com/@pirate101)  
 © 2024 KingsIsle Entertainment, Inc. All Rights Reserved  
