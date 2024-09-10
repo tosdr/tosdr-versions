@@ -51,7 +51,7 @@ If you wish to visit our site anonymously, there are services for this available
 
 ##### Concerns about SCTCC’s online privacy policy should be directed to the Chief Information Officer.
 
-![SCTCC logo](/sites/default/files/styles/directory_small/public/uploads/img/2023-07/staff-faculty-directory-placeholder.png?h=6fafd0d6&itok=DdsxHYcD)
+![Denise DeJuliannie](/sites/default/files/styles/directory_small/public/uploads/img/2024-08/Denise-DeJuliannie.jpg?h=4b4ee8a9&itok=WPSPJKXk)
 
 [Denise DeJuliannie](https://sctcc.edu/about-us/faculty-staff-directory/denise-dejuliannie)
 
