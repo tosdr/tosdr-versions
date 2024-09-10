@@ -168,7 +168,7 @@ You can also select the options below:
 
 * **Nudity** - This category is for content which may contain imagery of mild "Nudity".  
     This includes any image, video or other media content which displays or depicts mild Nudity.  
-    Please note that we do not allow images that are focused or zoomed in to genital areas, or where sexually explicit acts are involved.
+    Please note that we do not allow images/videos that are focused or zoomed in to genital areas, or where sexually explicit acts are involved.
 * **Fetish** - This category is for content which may be considered to be a "Fetish".  
     While the definition and categorization of "Fetish" is very broad, users are expected to use their discretion, while also keeping in line with the other Terms of Service of SimilarWorlds.  
     Please note that this category is NOT allowed the posting of highly Explicit, highly Violent or highly Revolting content.
