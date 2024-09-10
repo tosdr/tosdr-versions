@@ -1,6 +1,18 @@
 Toggle navigation [**MUDFISH**](https://mudfish.net/)
 
 * [Home](https://mudfish.net/ "Home")
+* [Product](# "Product")
+    * Main Products
+    * [Mudfish Cloud VPN](https://mudfish.net/product/mudfish_vpn)
+    * [Mudfish Mobile App](https://mudfish.net/product/mudfish_app)
+    * [Mudfish Browser Extension](https://mudfish.net/product/mudfish_webextension)
+    
+    * Other Products
+    * [Mudfish DNS Client](https://dns.mudfish.net/)
+    * [Mudfish Adclean](https://adclean.mudfish.net/)
+    * [Mudcat - Port Sharing service](https://www.mudcat.io/)
+    * [Muddog - Free VPN](https://dog.mudfish.net/)
+    * [Somagu Homepage](https://somagu.com/)
 * [Download](https://mudfish.net/download "Download")
 * [Shopping](https://mudfish.net/shopping "Shopping")
 
