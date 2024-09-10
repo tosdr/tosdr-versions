@@ -310,7 +310,7 @@ Intended for users 18 and older
 
 Other than our [Patient Portal](https://onlineservices.mayoclinic.org/content/staticpatient/showpage/patientonline), the Site is intended for use by individuals 18 years of age or older. This Site is not directed for use by children under the age of 18. Users under the age of 18 should get the assistance of a parent or guardian to use this Site.
 
-Our Patient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
+OurPatient Portal is available to patients 18 years of age and older. It is also available to patients who are between the ages of 13 years old and 17 years old with the permission of their parents or legal guardians.
 
 Acceptable use
 --------------
@@ -425,16 +425,16 @@ If you have any questions about the service, please contact us at [mayoclinicsup
 
 [Privacy policy](https://www.mayoclinic.org/about-this-site/privacy-policy)
 
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/12/cancer-ribbon.svg)
+![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-Double your impact on fighting cancer
--------------------------------------
+5X Challenge
+------------
 
-[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
 
-Make a gift before July 31 and it can go twice as far to fight cancer.
+Thanks to generous benefactors, your gift today can have 5X the impact to advance AI innovation at Mayo Clinic.
 
-[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
+[Give Today](https://philanthropy.mayoclinic.org/page.aspx?pid=1833&sourcecode=24R081WI5MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=dev5xchallenge)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
@@ -530,7 +530,7 @@ Make a gift before July 31 and it can go twice as far to fight cancer.
     
 * [Degree Programs](https://college.mayo.edu/academics/)
     
-* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
+* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL)
     
 
 [Students](https://college.mayo.edu/)
@@ -542,7 +542,7 @@ Make a gift before July 31 and it can go twice as far to fight cancer.
     
 * [Admissions Requirements](https://college.mayo.edu/admissions-and-tuition/)
     
-* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=/samlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator:LOCAL)
+* [Student & Faculty Portal](https://login.edlink.mayo.edu/authenticationendpoint/login.do?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&tenantDomain=carbon.super&sessionDataKey=5575b8c9-06e5-4e99-bee0-0681c7a12289&relyingParty=LUM6P_LuminisPortal&type=samlsso&sp=LUM6P_LuminisPortal&isSaaSApp=false&authenticators=BasicAuthenticator%3ALOCAL)
     
 
 [Researchers](https://www.mayo.edu/research)
