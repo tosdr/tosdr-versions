@@ -213,12 +213,11 @@ Shopping List
         
     * [Fan Favorites](https://www.aldi.us/products/fan-favorites/ "Vote for your 2024 Fan Favorites product winners and learn how to find these popular items online or at an ALDI store near you.")
         
-    * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "ALDI is ready for summer with limited time seasonal foods. Browse our selection of ice cream, hot dogs and chips. Learn more!")
+    * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "Get ready for autumn with limited time fall foods and items. Shop affordable seasonal products like cider and beer, coffee, pie and soup at your local ALDI.")
         
-    * [Expand MenuCollapse Menu](https://www.aldi.us/products/bbq-picnic/#main-nav)[BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
+    * [BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
         
-        * [BBQ & Picnic FAQ](https://www.aldi.us/products/bbq-picnic/bbq-picnic-faq/)
-            
+    * [Game Day Favorites](https://www.aldi.us/products/game-day/ "Get ready for game day by shopping for all your favorite snacks at ALDI. We offer a wide variety of nachos, dips, pizza and more at a great price. ")
         
     * [Healthy Living](https://www.aldi.us/products/healthy-living/ "Feel better throughout the day when you shop for healthy food at your local ALDI. Buy fresh produce and salad kits at your local ALDI!")
         
