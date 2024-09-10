@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,107 +53,107 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 269 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 98 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 37 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 29 files
-* [Jasper Nota](https://packetstormsecurity.com/files/authors/17213) 25 files
-* [Willem Westerhof](https://packetstormsecurity.com/files/authors/17212) 19 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 12 files
-* [Jim Blankendaal](https://packetstormsecurity.com/files/authors/17216) 11 files
-* [Apple](https://packetstormsecurity.com/files/authors/2397) 10 files
-* [Martijn Baalman](https://packetstormsecurity.com/files/authors/17218) 9 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 270 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 155 files
+* [Jay Turla](https://packetstormsecurity.com/files/authors/9975) 150 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 66 files
+* [h00die](https://packetstormsecurity.com/files/authors/7166) 54 files
+* [juan vazquez](https://packetstormsecurity.com/files/authors/8993) 43 files
+* [sinn3r](https://packetstormsecurity.com/files/authors/7652) 41 files
+* [H D Moore](https://packetstormsecurity.com/files/authors/219) 31 files
+* [Karn Ganeshen](https://packetstormsecurity.com/files/authors/7832) 23 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
-[US Senators Turn Up Heat On Automakers Over Sale Of Driver Data](https://packetstormsecurity.com/news/view/36158/US-Senators-Turn-Up-Heat-On-Automakers-Over-Sale-Of-Driver-Data.html)
+[Electronic Payment Firm Slim CD Notifies 1.7M Customers Of Data Breach](https://packetstormsecurity.com/news/view/36320/Electronic-Payment-Firm-Slim-CD-Notifies-1.7M-Customers-Of-Data-Breach.html)
 
-Posted [Jul 30, 2024](https://packetstormsecurity.com/news/date/2024-07-30/ "12:05:23 UTC")
+Posted [Sep 10, 2024](https://packetstormsecurity.com/news/date/2024-09-10/ "15:37:01 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36158/) | [View](https://www.scmagazine.com/news/us-senators-turns-up-heat-on-automakers-over-driver-data)
+[Favorite](https://packetstormsecurity.com/news/favorite/36320/) | [View](https://www.scmagazine.com/news/electronic-payment-firm-slim-cd-notifies-17m-customers-of-data-breach)
 
-[PKFail Bug Puts Firmware Security At Risk](https://packetstormsecurity.com/news/view/36153/PKFail-Bug-Puts-Firmware-Security-At-Risk.html)
+[Crypto Scams Rake In $5.6B A Year For Lowlifes, FBI Says](https://packetstormsecurity.com/news/view/36319/Crypto-Scams-Rake-In-5.6B-A-Year-For-Lowlifes-FBI-Says.html)
 
-Posted [Jul 29, 2024](https://packetstormsecurity.com/news/date/2024-07-29/ "16:49:03 UTC")
+Posted [Sep 10, 2024](https://packetstormsecurity.com/news/date/2024-09-10/ "15:37:00 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [fbi](https://packetstormsecurity.com/news/tags/fbi), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36153/) | [View](https://www.scmagazine.com/news/pkfail-bug-puts-firmware-security-at-risk)
+[Favorite](https://packetstormsecurity.com/news/favorite/36319/) | [View](https://www.theregister.com/2024/09/10/crypto_scams_rake_in_56/)
 
-[Millions Of Websites Susceptible To XSS Attack Via OAuth Implementation Flaw](https://packetstormsecurity.com/news/view/36152/Millions-Of-Websites-Susceptible-To-XSS-Attack-Via-OAuth-Implementation-Flaw.html)
+[COLDRIVER Crooks Take Pro Democracy NGOs For A Phishy Ride](https://packetstormsecurity.com/news/view/36314/COLDRIVER-Crooks-Take-Pro-Democracy-NGOs-For-A-Phishy-Ride.html)
 
-Posted [Jul 29, 2024](https://packetstormsecurity.com/news/date/2024-07-29/ "16:49:00 UTC")
+Posted [Sep 9, 2024](https://packetstormsecurity.com/news/date/2024-09-09/ "14:04:48 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [russia](https://packetstormsecurity.com/news/tags/russia), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [password](https://packetstormsecurity.com/news/tags/password), [phish](https://packetstormsecurity.com/news/tags/phish)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36152/) | [View](https://www.securityweek.com/millions-of-websites-susceptible-xss-attack-via-oauth-implementation-flaw/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36314/) | [View](https://www.theregister.com/2024/09/09/russia_coldriver_ngo_phishing/)
 
-[MS Admits 8.5M CrowdStruck Machines Estimate Was Lowballed](https://packetstormsecurity.com/news/view/36151/MS-Admits-8.5M-CrowdStruck-Machines-Estimate-Was-Lowballed.html)
+[Cisco Merch Shoppers Stung In Magecart Attack](https://packetstormsecurity.com/news/view/36313/Cisco-Merch-Shoppers-Stung-In-Magecart-Attack.html)
 
-Posted [Jul 29, 2024](https://packetstormsecurity.com/news/date/2024-07-29/ "16:48:57 UTC")
+Posted [Sep 9, 2024](https://packetstormsecurity.com/news/date/2024-09-09/ "14:04:44 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [bank](https://packetstormsecurity.com/news/tags/bank), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cisco](https://packetstormsecurity.com/news/tags/cisco), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36151/) | [View](https://www.theregister.com/2024/07/29/microsoft_crowdstrike_incident_report/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36313/) | [View](https://www.theregister.com/2024/09/06/cisco_merch_adobe_magento_attack/)
 
-[Acronis Product Vulnerability Exploited In The Wild](https://packetstormsecurity.com/news/view/36150/Acronis-Product-Vulnerability-Exploited-In-The-Wild.html)
+[Predator Spyware Resurfaces With Fresh Infrastructure](https://packetstormsecurity.com/news/view/36312/Predator-Spyware-Resurfaces-With-Fresh-Infrastructure.html)
 
-Posted [Jul 29, 2024](https://packetstormsecurity.com/news/date/2024-07-29/ "16:48:53 UTC")
+Posted [Sep 9, 2024](https://packetstormsecurity.com/news/date/2024-09-09/ "14:04:40 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36312/) | [View](https://www.securityweek.com/predator-spyware-resurfaces-with-fresh-infrastructure/)
+
+[New RAMBO Attack Allows Air-Gapped Data Theft Via RAM Radio Signals](https://packetstormsecurity.com/news/view/36311/New-RAMBO-Attack-Allows-Air-Gapped-Data-Theft-Via-RAM-Radio-Signals.html)
+
+Posted [Sep 9, 2024](https://packetstormsecurity.com/news/date/2024-09-09/ "14:04:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36311/) | [View](https://www.securityweek.com/new-rambo-attack-allows-air-gapped-data-theft-via-ram-radio-signals/)
+
+[US Charges Russian Military Officers For Unleashing Wiper Malware On Ukraine](https://packetstormsecurity.com/news/view/36310/US-Charges-Russian-Military-Officers-For-Unleashing-Wiper-Malware-On-Ukraine.html)
+
+Posted [Sep 6, 2024](https://packetstormsecurity.com/news/date/2024-09-06/ "15:15:42 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [russia](https://packetstormsecurity.com/news/tags/russia), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [military](https://packetstormsecurity.com/news/tags/military), [ukraine](https://packetstormsecurity.com/news/tags/ukraine)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36310/) | [View](https://arstechnica.com/security/2024/09/us-charges-russian-military-officers-for-unleashing-wiper-malware-on-ukraine/)
+
+[Planned Parenthood Confirms Attack Claimed By RansomHub](https://packetstormsecurity.com/news/view/36309/Planned-Parenthood-Confirms-Attack-Claimed-By-RansomHub.html)
+
+Posted [Sep 6, 2024](https://packetstormsecurity.com/news/date/2024-09-06/ "15:15:40 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36309/) | [View](https://www.scmagazine.com/news/planned-parenthood-confirms-montana-cyberattack-claimed-by-ransomhub)
+
+[Apache Makes Another Attempt At Patching Exploited RCE In OFBiz](https://packetstormsecurity.com/news/view/36308/Apache-Makes-Another-Attempt-At-Patching-Exploited-RCE-In-OFBiz.html)
+
+Posted [Sep 6, 2024](https://packetstormsecurity.com/news/date/2024-09-06/ "15:15:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [apache](https://packetstormsecurity.com/news/tags/apache)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36308/) | [View](https://www.securityweek.com/apache-makes-another-attempt-at-patching-exploited-rce-in-ofbiz/)
+
+[Recent SonicWall Firewall Vuln Exploited In The Wild](https://packetstormsecurity.com/news/view/36307/Recent-SonicWall-Firewall-Vuln-Exploited-In-The-Wild.html)
+
+Posted [Sep 6, 2024](https://packetstormsecurity.com/news/date/2024-09-06/ "15:15:28 UTC")
 
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36150/) | [View](https://www.securityweek.com/acronis-product-vulnerability-exploited-in-the-wild/)
-
-[Network Of 3,000 GitHub Accounts Used For Malware Distribution](https://packetstormsecurity.com/news/view/36149/Network-Of-3-000-GitHub-Accounts-Used-For-Malware-Distribution.html)
-
-Posted [Jul 25, 2024](https://packetstormsecurity.com/news/date/2024-07-25/ "13:06:01 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36149/) | [View](https://www.securityweek.com/network-of-3000-github-accounts-used-for-malware-distribution/)
-
-[KnowBe4 Hires Fake North Korean IT Worker, Catches New Employee Planting Malware](https://packetstormsecurity.com/news/view/36148/KnowBe4-Hires-Fake-North-Korean-IT-Worker-Catches-New-Employee-Planting-Malware.html)
-
-Posted [Jul 25, 2024](https://packetstormsecurity.com/news/date/2024-07-25/ "13:05:56 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [north korea](https://packetstormsecurity.com/news/tags/north_korea)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36148/) | [View](https://www.securityweek.com/knowbe4-hires-fake-north-korean-it-worker-catches-new-employee-planting-malware/)
-
-[Hackers Bypass Windows SmartScreen Flaw To Launch Malware](https://packetstormsecurity.com/news/view/36147/Hackers-Bypass-Windows-SmartScreen-Flaw-To-Launch-Malware.html)
-
-Posted [Jul 25, 2024](https://packetstormsecurity.com/news/date/2024-07-25/ "13:05:52 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36147/) | [View](https://www.scmagazine.com/news/hackers-bypass-patched-windows-smartscreen-flaw-to-launch-malware)
-
-[HHS Audit Finds Serious Gaps In Cloud Security At Agency Office](https://packetstormsecurity.com/news/view/36146/HHS-Audit-Finds-Serious-Gaps-In-Cloud-Security-At-Agency-Office.html)
-
-Posted [Jul 25, 2024](https://packetstormsecurity.com/news/date/2024-07-25/ "13:05:49 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36146/) | [View](https://www.scmagazine.com/news/hhs-audit-finds-serious-gaps-in-cloud-security-at-agency-office)
-
-[Physicists Just Created An Element Using A Particle Beam](https://packetstormsecurity.com/news/view/36145/Physicists-Just-Created-An-Element-Using-A-Particle-Beam.html)
-
-Posted [Jul 24, 2024](https://packetstormsecurity.com/news/date/2024-07-24/ "13:09:20 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [science](https://packetstormsecurity.com/news/tags/science)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36145/) | [View](https://gizmodo.com/physicists-just-created-an-element-using-a-particle-beam-2000475917)
+[Favorite](https://packetstormsecurity.com/news/favorite/36307/) | [View](https://www.securityweek.com/recent-sonicwall-firewall-vulnerability-potentially-exploited-in-the-wild/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-© 2022 Packet Storm. All rights reserved.
+© 2024 Packet Storm. All rights reserved.
 
 Site Links
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1524371778&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1524371778.1722429179.1722429179.1722429179.1%3B%2B__utmz%3D32867617.1722429179.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2712727204&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2712727204.1726004053.1726004053.1726004053.1%3B%2B__utmz%3D32867617.1726004053.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
