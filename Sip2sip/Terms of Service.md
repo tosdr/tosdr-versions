@@ -130,23 +130,23 @@ Call Details Records (CDRs) are stored for up to six months. CDRs contain metada
 
 To protect your data against being tapped over the Internet:
 
-* Use `TLS` for SIP signaling (this will encrypt signaling between client and server)
+* Use `TLS` for SIP signaling to encrypt data between client and server
     
-* Use `zRTP` for audio and video (Blink and Jitsi clients support `zRTP`)
+* Use `zRTP` for audio and video (Blink client supports `zRTP`)
     
-* Use `TLS` for `MSRP` media
+* Use `TLS` for `MSRP` media (Blink client supports `MSRP over TLS`)
     
 * Use `OTR` for MSRP media (Blink client supports `OTR`)
     
 * Use `PGP` for SIP Messages (Sylk client supports `PGP`)
     
 
-These would protect your data against those who try to illegally sniff your network traffic (like breaking into your LAN/WiFi) but have no access to the client or server software. These measures will not protect your data privacy against legal intercept measures if enforced and applied to the server infrastructure that relays the messages (you will likely not know if and when this happens).
+These measures can protect your data against those who try to illegally sniff your network traffic (like breaking into your LAN/WiFi) but have no access to the client or server software. These measures will not protect your data privacy against legal intercept measures if enforced and applied to the server infrastructure that relays the messages (you will likely not know if and when this happens).
 
 #### Lawful Intercept
 
-In case any entitled government agency requires access to the meta-data stored by SIP2SIP infrastructure, all SIP account data stored on the server can be considered compromised. Use client side encryption to mitigate this risk.
+In case any entitled government agency requires access to the data stored by SIP2SIP infrastructure, all SIP account data stored on the server can be considered compromised. Use client side encryption to mitigate revealing sensitive data.
 
-© 2023 [AG Projects](http://ag-projects.com/) — Real Time Communications Experts [Status](https://sip2sip.info/status/) | [Privacy](https://sip2sip.info/privacy/)
+© 2024 [AG Projects](http://ag-projects.com/) — Real Time Communications Experts [Status](https://sip2sip.info/status/) | [Privacy](https://sip2sip.info/privacy/)
 
 ![](https://piwik.ag-projects.com/piwik.php?idsite=33)
