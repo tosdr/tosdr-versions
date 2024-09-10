@@ -4,30 +4,30 @@ You need to [enable JavaScript](https://www.chatbot.com/help/chat-widget/enable-
 
 ![](https://px.ads.linkedin.com/collect/?pid=5563729&fmt=gif)
 
-* [![XPG](/images/layout/icon/xpg-logo.svg)](https://www.xpg.com/uk "XPG")
-* [INDUSTRIAL](https://industrial.adata.com/en "INDUSTRIAL")
-* [POWERTRAIN](https://www.adata-powertrain.com/uk "POWERTRAIN")
+* [![XPG](/images/layout/icon/xpg-logo.svg)](https://www.xpg.com/us "XPG")
+* [INDUSTRIAL](https://industrial.adata.com/us "INDUSTRIAL")
+* [POWERTRAIN](https://www.adata-powertrain.com/us "POWERTRAIN")
 
-* [![search](/images/layout/icon/search.svg)](https://corp.adata.com/uk/search/)
-* [![ESG](/images/layout/icon/ESG.svg)](https://esg.adata.com/uk/)
-* [![member](/images/layout/icon/member.svg)](https://corp.adata.com/uk/member/)
-* [![Language](/images/layout/icon/language.svg)Language](https://corp.adata.com/uk/language/)
+* [![search](/images/layout/icon/search.svg)](https://corp.adata.com/us/search/)
+* [![ESG](/images/layout/icon/ESG.svg)](https://esg.adata.com/us/)
+* [![member](/images/layout/icon/member.svg)](https://corp.adata.com/us/member/)
+* [![Language](/images/layout/icon/language.svg)Language](https://corp.adata.com/us/language/)
 
-[![ADATA Logo](/images/layout/icon/ADATA-logo.svg)](https://corp.adata.com/uk/)
+[![ADATA Logo](/images/layout/icon/ADATA-logo.svg)](https://corp.adata.com/us/)
 
-[![search](/images/layout/icon/search.svg)](https://www.adata.com/uk/search/)
+[![search](/images/layout/icon/search.svg)](https://www.adata.com/us/search/)
 
-[![ESG](/images/layout/icon/ESG.svg)ESG](https://esg.adata.com/uk/)
+[![ESG](/images/layout/icon/ESG.svg)ESG](https://esg.adata.com/us/)
 
-[![member](/images/layout/icon/member.svg)Member Center](https://www.adata.com/uk/member/login)
+[![member](/images/layout/icon/member.svg)Member Center](https://www.adata.com/us/member/login)
 
-[![Language](/images/layout/icon/language.svg)Language](https://corp.adata.com/uk/language/)
+[![Language](/images/layout/icon/language.svg)Language](https://corp.adata.com/us/language/)
 
-[![XPG](/images/layout/icon/xpg-logo.svg)](https://www.xpg.com/uk "XPG")
+[![XPG](/images/layout/icon/xpg-logo.svg)](https://www.xpg.com/us "XPG")
 
-[INDUSTRIAL](https://industrial.adata.com/en "INDUSTRIAL")
+[INDUSTRIAL](https://industrial.adata.com/us "INDUSTRIAL")
 
-[POWERTRAIN](https://www.adata-powertrain.com/uk "POWERTRAIN")
+[POWERTRAIN](https://www.adata-powertrain.com/us "POWERTRAIN")
 
 ADATA(Global)
 =============
@@ -40,7 +40,7 @@ Your System Upgrades Advisor
 
 Find your suggested products upgrades for your system.
 
-Enter the model number of your system/deviceFollow the steps below to select your computer
+Enter the model number of your system/deviceFollow the steps below to select your system/device
 
 Enter the model number of your system/device to find the ADATA products you need.
 
@@ -53,7 +53,7 @@ Your System Upgrades Advisor
 
 Find your suggested products upgrades for your system.
 
-[Search](https://webapi.adata.com/compatibility-search/uk)
+[Search](https://webapi.adata.com/compatibility-search/us)
 
 ![back to top](/images/share/arrow-top-white.svg)
 
