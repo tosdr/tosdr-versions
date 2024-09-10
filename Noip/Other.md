@@ -162,7 +162,7 @@ Resources
             
             * [Empowered Community Administration](https://www.icann.org/resources/pages/ec-administration-2017-05-25-en)
                 
-            * [Empowered Community Administration Mailing List](http://mm.icann.org/pipermail/ecadmin/)
+            * [Empowered Community Administration Mailing List](https://lists.icann.org/hyperkitty/list/ecadmin@icann.org/)
                 
             * [Empowered Community Correspondence](https://www.icann.org/resources/pages/ec-correspondence-2017-05-25-en)
                 
@@ -234,8 +234,6 @@ Resources
             
         * [Board Statements of Interest](https://www.icann.org/resources/pages/sois-2012-02-25-en)
             
-        * [Lobbying Disclosures & Contribution Reports](https://www.icann.org/resources/pages/lobbying-disclosures-contributions-2015-11-18-en)
-            
         * [Summary of Conflicts of Interest and Ethics Practices Review](https://www.icann.org/resources/files/summary-ethics-review-2013-05-13-en)
             
     * [Evolving ICANN’s MSM](https://www.icann.org/resources/pages/governance-plan-improve-multistakeholder-model-2019-04-08-en)
@@ -273,6 +271,8 @@ Resources
         * [Policies, Guidelines and Procedures](https://www.icann.org/resources/pages/general-2014-01-06-en)
             
         * [Annual Disclosure of Payments to Suppliers](https://www.icann.org/resources/pages/annual-disclosure-payments-suppliers-2024-06-07-en)
+            
+        * [Lobbying Disclosures & Contribution Reports](https://www.icann.org/resources/pages/lobbying-disclosures-contributions-2015-11-18-en)
             
     * [Planning](https://www.icann.org/resources/pages/planning-2012-02-25-en)
         
@@ -484,7 +484,7 @@ Resources
             
         * [Consensus Policies](https://www.icann.org/resources/pages/consensus-policies-2012-02-25-en)
             
-        * [Contact List](http://www.icann.org/registrar-reports/accreditation-qualified-list.html)
+        * [Contact List](https://www.icann.org/registrar-reports/accreditation-qualified-list.html)
             
         * [Domain Name Transfers](https://www.icann.org/resources/pages/transfers-2012-02-25-en)
             
@@ -868,7 +868,7 @@ Resources
         
     * [Archive](https://www.icann.org/public-comments/archive)
         
-* [Root Zone KSK Rollover](https://www.icann.org/resources/pages/ksk-rollover-2016-05-06-en)
+* [Root Zone KSK Rollover](https://www.icann.org/resources/pages/ksk-rollover-2024-08-23-en)
     
 * [Technical Functions](https://www.icann.org/resources/pages/technical-functions-2015-10-15-en)
     
@@ -954,7 +954,7 @@ Resources
             
         * [Recommendations for New ccTLDs](https://www.icann.org/resources/pages/cctld-mitigation-2014-10-02-en)
             
-        * [Report a Problem](http://www.icann.org/en/help/name-collision/report-problems)
+        * [Report a Problem](https://www.icann.org/en/help/name-collision/report-problems)
             
     * [Registrar Problems](https://www.icann.org/en/announcements/details/how-to-get-help-when-you-have-a-problem-with-your-registrar-6-3-2007-en)
         
@@ -1021,11 +1021,11 @@ Registrants' Benefits and Responsibilities
 
 ICANN is not responsible for profile content or verification of user details.
 
-* [YouTube](http://www.youtube.com/icannnews)
+* [YouTube](https://www.youtube.com/icannnews)
 * [Twitter](https://www.twitter.com/icann)
 * [LinkedIn](https://www.linkedin.com/company/icann)
 * [Flickr](http://www.flickr.com/photos/icann)
-* [Facebook](http://www.facebook.com/icannorg)
+* [Facebook](https://www.facebook.com/icannorg)
 * [Newsletters](https://www.icann.org/resources/pages/global-newsletter)
 * [Community Wiki](https://community.icann.org/)
 * [ICANN Blog](https://www.icann.org/blog)
