@@ -2,15 +2,21 @@
 
 Brisk's Tools
 
-[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/feedback)[Create Curriculum](https://www.briskteaching.com/curriculum)[Change Reading Levels](https://www.briskteaching.com/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/inspect-writing)
+[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/feedback)[Create Curriculum](https://www.briskteaching.com/curriculum)[Change Reading Levels](https://www.briskteaching.com/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/inspect-writing)[Brisk Boost for Students](https://www.briskteaching.com/briskboost)
 
 [Plans](https://www.briskteaching.com/plans)
 
 Resources
 
-[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[What's New](https://www.briskteaching.com/whats-new)[Success Stories](https://www.briskteaching.com/success-stories)[Professional Development](https://www.briskteaching.com/brisk-professional-development-resources)[FAQs](https://www.briskteaching.com/faq)[Privacy Center](https://www.briskteaching.com/privacy-center)[About Us](https://www.briskteaching.com/about)
+[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[What's New](https://www.briskteaching.com/whats-new)[Success Stories](https://www.briskteaching.com/success-stories)[Professional Development](https://www.briskteaching.com/brisk-professional-development-resources)[FAQs](https://www.briskteaching.com/faq)
 
-[Brisk Boost](https://www.briskteaching.com/briskboost)[Join the Community!](https://www.briskteaching.com/community)[Add to Chrome For Free](https://www.briskteaching.com/chrome-extension)
+[Brisk Boost](https://www.briskboost.ai/)[Join the Community!](https://www.briskteaching.com/community)
+
+About
+
+[About Us](https://www.briskteaching.com/about)[Careers](https://www.briskteaching.com/careers)[Privacy Center](https://www.briskteaching.com/privacy-center)
+
+[Add to Chrome For Free](https://www.briskteaching.com/chrome-extension)
 
 Privacy Notice
 ==============
