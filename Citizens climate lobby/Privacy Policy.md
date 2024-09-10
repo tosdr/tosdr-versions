@@ -189,6 +189,18 @@ Information Technology Director
 Citizens’ Climate Education  
 [\*protected email\*](javascript:;)
 
+**Age Restriction Compliance with COPPA**
+
+Our services are intended for users who are 13 years of age or older. We do not knowingly collect, maintain, or use personal information from children under 13. If you are under 13 years old, you are not permitted to use or access our services in any manner.
+
+If we become aware that we have inadvertently collected personal information from a user under 13, we will immediately delete such information from our records. We encourage parents and guardians to contact us (
+
+\*protected email\*
+
+) if they suspect their child provided us with personal information without their consent.
+
+By using our services, you agree to adhere to our age restrictions in compliance with [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa).
+
 **GDPR Rights**  
 European Union and EEA residents [GDPR Rights](https://citizensclimatelobby.org/gdpr-rights/).
 
