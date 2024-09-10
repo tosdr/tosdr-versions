@@ -61,31 +61,20 @@ Vous avez un problème avec votre télévision ? Votre TV Box ne répond plus ou
 [Un problème avec internet](https://www.proximus.be/support/fr/id_sfaqr_trouble_global_net/particuliers/support/internet/internet-a-la-maison/problemes-avec-internet/un-probleme-avec-internet.html)  
 Vous n’avez plus d’internet ? Le wi-fi est très lent ? Vous avez des problèmes de connexion avec votre b-box, Internet Box ou la fibre ?
 
-[Comment améliorer votre wi-fi ?](https://www.proximus.be/support/fr/id_sfaqr_wifi_trouble_tool/particuliers/support/internet/internet-a-la-maison/reseau-wi-fi/comment-ameliorer-votre-wi-fi.html)  
-Nos conseils pour un meilleur wi-fi pas à pas.
-
-[Aide pour consulter vos factures](https://www.proximus.be/support/fr/id_sfaqr_bill_check_online/particuliers/support/factures/controler-vos-couts/verifier-votre-conso/consulter-vos-factures-vos-decomptes-et-vos-paiements.html)  
-Consulter vos factures et les visualiser en détail dans MyProximus. Vous pouvez également vérifier si elles ont déjà été payées.
-
 [Voir toute l'aide](https://www.proximus.be/support/fr/id_zwpr_support/particuliers/support.html)
 
 Top smartphones
 
-[Samsung
+[Samsung](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
 
-### Galaxy S24
+### [Galaxy S24](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
 
-128 GB
+[](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
 
-~instead of €899.99~  
+[128 GB](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
+
+[~instead of €899.99~  
 € 9 avec abonnement](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
-
-[### iPhone 15
-
-128 GB
-
-~instead of €969.99~  
-€ 9 avec abonnement](https://www.proximus.be/fr/id_cr_apple-iphone-15-128gb-black/personal/equipment/shop/apple-iphone-15-128gb-black.html?ot=JO)
 
 [Voir tous les smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
 
@@ -94,9 +83,11 @@ Informations légales et contractuelles
 
 * [Conditions générales](#e4db94b6-09cd-42ee-8dc0-4cb27fd70f5e)
 * [Liste des prix et tarifs](#b9545ec0-6b9b-43bd-b0c1-0638ae8b03cc)
-* [Déclaration de protection des données](#0ec0ab50-c3be-4cdb-93fb-76b0fea8770b)
-* [Déclarations de protection des données spécifiques](#b641eced-e7f0-4507-82d5-1e473faff927)
+* [Récapitulatifs contractuels](#b641eced-e7f0-4507-82d5-1e473faff927)
+* [Déclaration de protection des données](#da3fe5c2-d89a-4709-ab83-55af610cb824)
+* [Déclarations de protection des données spécifiques](#204fde48-057e-4ac8-ae70-a56290f6dfaf)
 * [Informations légales](#legal)
+* [Après-vente](#fb3411a2-7c2f-48db-9444-fc45ba182171)
 
 Conditions générales
 --------------------
@@ -229,6 +220,107 @@ Conditions générales
 * Entretien des centraux téléphoniques (PABX)
     * [Contrats conclus à partir du 05/05/2023(PDF, 206Kb)](https://www.proximus.be/dam/jcr:a3b56d06-e663-48f3-9e74-5836ec94a26a/cdn/sites/iportal/documents/pdfs/common/20230505_pabx_maintenance_fr~2023-05-03-15-17-21~cache.pdf)
     * [Contrats conclus avant 04/05/2023(PDF, 235Kb)](https://www.proximus.be/dam/jcr:0a13c716-206e-40d0-8dc7-751de0afb8dd/cdn/sites/iportal/documents/pdfs/common/pabx_maintenance_fr~2022-01-21-09-23-51~cache.pdf)
+
+#### Nouvelle loi sur les compensations en cas de panne du réseau
+
+A partir du 1er novembre 2024, en cas d’interruption complète de service de plus de 8 heures suite à une défaillance ininterrompue sur le réseau Proximus, les clients auront droit à une compensation légale si les conditions d’octroi sont réunies.
+
+Voir plus Voir moins
+
+_**Qui est éligible à l’octroi de la compensation légale ?**_
+
+* Les clients ayant souscrit à un produit fixe (TV en pack, Internet ou téléphonie fixe) destiné aux consommateurs en cas d'interruption du service dans la zone où se trouve leur adresse d'installation ;
+* Les clients ayant souscrit à un abonnement mobile destiné aux consommateurs en cas d'interruption dans la zone où se trouve leur adresse de facturation ;
+* Les utilisateurs de cartes prépayées destinées aux consommateurs en cas d'interruption dans la zone où se trouve leur domicile.
+
+_**Quel type de panne est visé par la compensation automatique ?**_
+
+L’interruption du service fixe ou mobile
+
+* doit durer plus de 8 heures ;
+* doit être complète, c’est à dire qu’aucun signal ne passe (et non pas partielle) ;
+* doit être due à une défaillance ininterrompue du réseau public de communications électroniques qui s’étend jusqu’à et y compris la prise d’entrée du réseau dans l’habitation (et non à un problème de modem, d’équipement terminal, de câblage interne dans l’habitation,...) ;
+* doit avoir un élément collectif, c’est-à-dire impacter plusieurs clients (pour le service mobile et pour les services fixes quand la cause n’est pas due à une défaillance matérielle du réseau) ;
+* ne doit pas être due au fait ou à une faute du client (par exemple, suspension pour facture impayée, modification apportée par le client, report de rendez-vous de réparation,...), ni à un cas de force majeure, ni à un manque de couverture du réseau,... (liste non-exhaustive).
+
+_**Si les conditions d’octroi sont remplies, la compensation légale est-elle automatique ?**_
+
+En raison de la difficulté d’identifier avec certitude les clients impactés par une panne et la nécessité de vérifier les conditions d’octroi, la compensation est octroyée automatiquement ou pas, selon le cas :
+
+* Les interruptions de service fixe trouvant leur cause dans une défaillance matérielle du réseau fixe sont compensées automatiquement (par exemple, rupture de câble due à Proximus ou à un de ses sous-traitants) sans que le client n’ait à notifier la panne ;
+* Les interruptions de service fixe trouvant leur cause dans une défaillance immatérielle du réseau fixe sont compensées automatiquement si le client a notifié la panne (par exemple, problème de mise à jour de logiciels) et pour autant que plusieurs clients soient impactés par la même panne ;
+* Les interruptions de service mobile (abonnements) sont compensées automatiquement si le client a notifié la panne et pour autant que plusieurs clients soient impactés par la même panne ;
+* Les interruptions de service mobile (cartes prépayées) ne sont compensées sur demande expresse du client qui fournit en même temps l’adresse de son domicile et pour autant que plusieurs clients soient impactés par la même panne.
+
+Les clients pourront notifier les pannes et introduire les demandes de compensation légales au plus tard 5 jours suivant le jour de la fin de la panne et selon les moyens que Proximus mettra à disposition cet effet.
+
+_**Quel est le montant de la compensation et sous quelle forme sera-t-elle octroyée ?**_
+
+* 1 euro pour la période de 16 heures suivant les huit premières heures de l'interruption. Pour chaque période de 24 heures suivante, la compensation du jour précédent est majorée de 1 euro et de 0,5 euro pour chaque jour que dure l'interruption ; ou
+* dans le cas d’un abonnement, 1/30e de la redevance d'abonnement mensuelle lorsque celle-ci dépasse la valeur de la compensation visée au premier point.
+
+La compensation prendra la forme soit d'une note de crédit ou d’une ristourne à la seule discrétion de Proximus soit d'un rechargement de la carte prépayée de l'utilisateur. Proximus pourra également proposer des compensations en nature, que le client sera libre d’accepter.
+
+_**Dans quels cas la compensation légale n’est-elle pas due ?**_
+
+La compensation légale n’est notamment pas due (liste non-exhaustive) :
+
+* si une solution technique offerte, même temporaire, a été acceptée par le client ;
+* en cas de report de rendez-vous à la demande ou par la faute du client, pour la période comprise entre le rendez-vous fixé initialement et le nouveau rendez-vous ;
+* si l’interruption de service n’est pas due à un incident (par exemple, absence de couverture réseau) ;
+* en cas d’interruption du service TV hors pack ;
+* en cas de force majeure.
+
+Le système actuel de compensation inscrit à l’article 5.4 des Conditions Générales pour les consommateurs et petites entreprises est remplacé par ce nouveau système de compensation légal.
+
+#### Modification des conditions particulières pour le service de téléphonie mobile (nouvel article 15) à partir du 01/10/2024
+
+Comme annoncé dans votre décompte du mois d'août, Proximus a introduit une innovation importante : à partir du mois d'octobre, les utilisateurs pourront ajouter des options mobiles ou modifier leur abonnement mobile sans autorisation préalable du gestionnaire.
+
+Voir plus Voir moins
+
+Le gestionnaire de compte est le client qui a souscrit plusieurs abonnements et les a attribués à d'autres utilisateurs, tels que des membres de sa famille. Le gestionnaire de compte peut consulter les décomptes et gérer tous ses produits. L'utilisateur a uniquement une vue sur son propre GSM, sa consommation et ses options et ne peut pas consulter les décomptes.
+
+Le gestionnaire de compte sera informé par e-mail et/ou SMS de chaque transaction effectuée.
+
+Le gestionnaire de compte recevra un SMS en octobre lorsque cette nouvelle fonction sera activée. Le SMS contiendra un lien direct vers la page permettant aux clients de gérer les droits d'utilisateur sur MyProximus ou dans l'app Proximus+. Le gestionnaire de compte pourra à tout moment désactiver cette fonctionnalité et restreindre les droits d'utilisation dans l'app Proximus+ ou sur le site web MyProximus.
+
+Cette nouvelle fonction vise à simplifier le processus de commande, en supprimant l'étape d'approbation préalable du gestionnaire de compte à chaque transaction. Elle est limitée :
+
+* aux clients résidentiels (à l'exclusion des clients professionnels et de leurs utilisateurs).
+* aux utilisateurs à partir de 18 ans.
+
+Un nouvel article 15 est ajouté aux Conditions Particulières pour le Service de Téléphonie Mobile.
+
+#### RCS, votre nouveau service de messagerie avancé sur Apple à partir de septembre 2024
+
+Le service de messagerie RCS – RCS pour Rich Communication Services-, déjà disponible sur les appareils Android, deviendra aussi progressivement disponible sur l’application Messagerie des appareils Apple des clients Proximus à partir de septembre 2024.
+
+Voir plus Voir moins
+
+Avec le nouveau service de messagerie avancé RCS, vous pourrez:
+
+* partager avec un contact ou un groupe des messages, des images, des photos, des vidéos ou votre position sur une carte.
+* voir si vos contacts ont reçu vos messages, ou même quand ils tapent quelque chose.
+* envoyer et recevoir des message en utilisant un réseau Wi-Fi ou un réseau de données mobiles.
+
+RCS sera automatiquement activé sur les iPhones lors de la mise-à-jour majeure iOS18, disponible plus que vraisemblablement en septembre 2024.
+
+Pour profiter de ce nouveau service, vous et votre contact devront, tous les deux:
+
+* avoir un appareil compatible. Soit un appareil Android avec Android 5.x au minimum et/ ou un appareil Apple ayant l’iOS 18 installé.
+* Être client d’un opérateur mobile partenaire de Apple pour RCS. Comme Proximus.
+* Être connecté à un réseau Wi-Fi ou un réseau de données mobiles.
+
+Si toutes ces conditions ne sont pas rencontrées, le message envoyé sur le réseau Proximus est soit un SMS, soit un MMS. Comme c’est le cas aujourd’hui.
+
+Si vous utilisez iMessage, rien ne change avec RCS. Vos conversations iMessage continueront à fonctionner comme avant.
+
+Contrairement à un SMS, RCS consomme des données. Via une connexion à un réseau Wi-Fi ou un réseau de données mobiles./p>
+
+Les conditions générales de Proximus sont d’application pour ce nouveau service. L’article 1.1 des conditions particulières - Téléphonie mobile incluront une référence au service de messagerie RCS.
+
+Pas intéressé par ce nouveau service ? vous pouvez le désactiver sur votre appareil via Settings > Apps > Messages > RCS Messaging.
 
 #### Nouvelles conditions générales de Proximus+
 
@@ -466,7 +558,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs de lignes](#)
 
-[Tarifs de lignes(PDF, 493Kb)](https://www.proximus.be/dam/jcr:49cec536-7d58-4291-a2ed-5a1fd35dd09a/cdn/sites/iportal/documents/pdfs/res/abo_access_fr~2023-12-20-12-42-13~cache.pdf)
+[Tarifs de lignes(PDF, 493Kb)](https://www.proximus.be/dam/jcr:49cec536-7d58-4291-a2ed-5a1fd35dd09a/cdn/sites/iportal/documents/pdfs/res/abo_access_fr~2024-08-09-13-31-50~cache.pdf)
 
 [Liste des prix pour les frais spécifiques et indemnités](#)
 
@@ -475,7 +567,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -627,6 +719,12 @@ Voir plus Voir moins
 
 * [VMS/Smart Routing(PDF, 432 KB)](https://www.proximus.be/dam/jcr:4b1753df-eaf4-43a3-8a06-771390cbb881/cdn/sites/iportal/documents/pdfs/common/price-announcement-01072024/temp-VMS-fr.pdf)
 
+Récapitulatifs contractuels
+---------------------------
+
+* [Récapitulatifs contractuels pour des clients résidentiels et business](https://www.proximus.be/fr/id_cr_contractsummary/particuliers/r-orphans/recapitulatif-contractuel.html)
+* [Récapitulatifs contractues pour les grandes entreprises](https://www.proximus.be/fr/id_cl_info_sheets/entreprises-et-secteur-public/orphans/fiches-d-information-produit-pour-grandes-entreprises.html)
+
 Déclaration de protection des données
 -------------------------------------
 
@@ -672,7 +770,6 @@ Vous trouverez plus d’informations relatives aux protocoles [sur le site inter
 
 Proximus a signé les protocoles suivants :
 
-* [Protocole entre l'Institut belge des services postaux et des télécommunications (IBPT) et Proximus SA dans le cadre du Plan National Broadband de la Ministre des Télécommunications Petra De Sutter.](https://www.proximus.be/dam/jcr:6cd26212-9886-4535-9502-2d05433e4b9e/cdn/sites/iportal/documents/pdfs/common/protocol-bipt-en-proximus~2023-07-05-08-48-40~cache.pdf).
 * [Protocole entre l'Institut belge des services postaux et des télécommunications (IBPT) et Proximus SA dans le cadre du contrôle de qualité des listes de bénéficiaires du tarif social télécom](https://www.proximus.be/dam/jcr:e1b66610-5c29-4cae-a20b-844c755309be/cdn/sites/iportal/documents/pdfs/common/protocole-quality-check-stts-fr-sr-am-v2-proximus-signe~2023-09-28-06-40-56~cache.pdf).
 * [Protocole entre le Service Public Fédéral Economie et Proximus concernant la communication de données à caractère personnel dans le cadre du tarif social des télécommunications](https://www.proximus.be/dam/jcr:db5eebae-662c-4af6-a3b2-34046c6c8c11/cdn/sites/iportal/documents/pdfs/common/protocole-spf-economie-proximus-tarif-social-signed-fr~2024-03-13-08-58-22~cache.pdf).
 
@@ -777,7 +874,6 @@ Produits
 * [TV & options](https://www.proximus.be/fr/id_catr_tv/particuliers/pickx-tv-et-options.html)
 * [Equipement](https://www.proximus.be/fr/id_catr_equipment/particuliers/equipement.html)
 * [Ligne fixe et options](https://www.proximus.be/fr/id_cr_telsub/particuliers/abonnements-pour-ligne-fixe.html)
-* [Récapitulatifs contractuels](https://www.proximus.be/fr/id_cr_contractsummary/particuliers/r-orphans/recapitulatif-contractuel.html)
 * [Déménager ou construire](https://www.proximus.be/fr/id_cr_move/particuliers/demenagement-sans-soucis.html)
 * [Consultez le shopmagNouvelle fenêtre](https://shopmag.be/fr/)
 * [Acheter en ligne](https://www.proximus.be/fr/id_ar_whybuyon/particuliers/r-orphans/avantages-acheter-en-ligne.html)
