@@ -265,13 +265,13 @@ For detailed information about the data processing operations of the providers b
     
 * Instagram:  
     Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland.  
-    Privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)  
-    Opt-Out: [http://instagram.com/about/legal/privacy/](http://instagram.com/about/legal/privacy/)  
+    Privacy policy: [https://instagram.com/about/legal/privacy/](https://instagram.com/about/legal/privacy/)  
+    Opt-Out: [https://instagram.com/about/legal/privacy/](https://instagram.com/about/legal/privacy/)  
       
     
 * Youtube:  
     Provider: Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland.  
-    Privacy policy: [http://instagram.com/about/legal/privacy/](http://instagram.com/about/legal/privacy/)  
+    Privacy policy:[https://policies.google.com/privacy](https://policies.google.com/privacy)  
     Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)  
       
     
