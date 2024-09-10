@@ -13,7 +13,7 @@
 SoftCafe iMenuPro
 -----------------
 
-Last updated July 10, 2024
+Last updated August 4, 2024
 
 ### Terms of Service
 
@@ -21,7 +21,7 @@ Last updated July 10, 2024
 
 Please read this entire page carefully, as signing up for (subscribing) and using iMenuPro means accepting these terms. If you do not consent to these terms, you cannot use iMenuPro. These terms may have changed since your last visit to this website and/or your last use of iMenuPro. By using iMenuPro you indicate acceptance of any updates to these terms and conditions.
 
-iMenuPro, a service of SoftCafe, LLC is provided to you at a recurring fee of either $16/month or $129/year, both in US dollars. We expect this product and the services offered by this product will change over time. In particular, we will make feature changes and/or add advanced or premium user services or add-ons that may only be available for additional one-time or recurring fees on an opt-in basis. Your right to use this product is limited in scope, revocable, personal, non-transferable and non-exclusive.
+iMenuPro, a service of SoftCafe, LLC is provided to you at a recurring fee of either $16/month or $129/year, both in US dollars. We expect this product and the services offered by this product will change over time. In particular, we will make feature changes and/or add advanced or premium user services or add-ons that may only be available for additional one-time or recurring fees on an opt-in basis. Your right to use this product is limited in scope, revocable, personal, non-transferable except as expressly permitted by the service through its account transfer policy, and non-exclusive
 
 #### Breach of Terms
 
@@ -29,15 +29,27 @@ If you violate any of these terms your account will be terminated. We may immedi
 
 #### Signup, Privacy, and Registration Data Rights
 
-To access iMenuPro you will be required to sign up for an account and provide a password to secure the account. For payment, you must provide your legal full name, a valid email address, and any other information requested in order to complete the sign up process. SoftCafe does not sell, trade, or otherwise transfer to outside parties your personal signup data or any other personally identifiable information or data, with the exception of when we believe the release is necessary to comply with the law. We may occasionally contact you via email with product updates that we feel will improve your experience with iMenuPro. These emails will always include a prominent, and effective, unsubscribe link.
+To access iMenuPro you will be required to sign up for an account and provide a password to secure the account. For payment, you must provide a valid email address, and any other information requested in order to complete the sign up process including the full legal name of the credit card holder. SoftCafe does not sell, trade, or otherwise transfer to outside parties your personal signup data or any other personally identifiable information or data, with the exception of when we believe the release is necessary to comply with the law. We may occasionally contact you via email with product updates that we feel will improve your experience with iMenuPro. These emails will always include a prominent, and effective, unsubscribe link.
 
 #### Credit Card Information
 
-No one at SoftCafe can see your credit card information. We use Stripe for payment processing. Stripe encrypts your credit card information in their database and is PCI and GDPR compliant, so you can feel good about how they secure your information. Stripe provides to us the last 4 digits of your credit card only so you can later identify which credit card you are using within our service.
+No one at SoftCafe can see the credit card information associated with your account. We use Stripe for payment processing. Stripe encrypts your credit card information in their database and is PCI and GDPR compliant, so you can feel good about how they secure your information. Stripe provides to us the last 4 digits of your credit card only so you can later identify which credit card you are using within our service.
 
 #### Security and Password
 
 SoftCafe encrypts your password in our database for security. It is your sole responsibility to maintain the confidentiality of your password and account. If you forget your password we will send a secure link to your email address so you can reset it.
+
+#### Account Ownership and Responsibility
+
+The individual who signs up for an account with their email address (the 'Account Holder') is considered the owner of the account. The Account Holder is responsible for maintaining the confidentiality of their login credentials and for all activities that occur under their account. While payment information may be provided by a different individual, such provision does not confer account ownership rights. The Account Holder retains full control over the account, including the ability to manage the subscription, change settings, and close the account.
+
+#### Account Transfer Policy
+
+You may transfer your account to another individual, while your account is active, by changing the email address associated with the account and updating the payment information to reflect the new subscriber. The new account holder must accept the terms of service as well. Please note that the original Account Holder remains responsible for any activity on the account until the transfer is fully completed and confirmed by SoftCafe via confirmation emails.
+
+#### Data Content Usage and Ownership
+
+While you are an active subscriber to iMenuPro, you have the right to input, use, and access your data, including menus and other content you create (collectively, 'User Content'). By entering User Content into iMenuPro, you grant us a non-exclusive, royalty-free, worldwide license to display, host, copy, store, and use your User Content solely to the extent necessary to provide the iMenuPro service to you. To the extent you include User Content that is published, such as a printed or online menu or other design, that is shared with others, you grant SoftCafe a perpetual, royalty-free, license to display, host, copy, store and use your User Content to the extent necessary to continue to make that menu or other design available. If your subscription is canceled for any reason, you acknowledge and agree that all rights to access, use, or retain User Content within the iMenuPro service are forfeited. Additionally, upon cancellation or expiration of your subscription, you forfeit any ownership rights to User Content within iMenuPro's ecosystem. We may delete your User Content from our servers without liability if the terms of this agreement are violated or other unforeseen reasons. We strongly recommend exporting your User Content before cancellation if you wish to retain it, and after exporting it we recommend that you delete it from the iMenuPro service if you wish to permanently remove it from our servers.
 
 #### Your Content and Code of Conduct
 
@@ -51,7 +63,7 @@ You may not redistribute or post any graphic image from this site or service on 
 
 #### Subscription Service
 
-You will receive access to iMenuPro on a monthly or yearly subscription fee basis. The term will renew automatically and continuously until canceled. We reserve the right to raise or lower the price of our services. However, we will not raise the monthly or yearly fee for your existing subscription without your permission first. We may also offer a 14-day free trial period for new subscribers at our discretion. Following the trial period, if you have not canceled the service, you will automatically be charged the normal monthly or yearly subscription fee and will receive access to iMenuPro on a monthly or yearly subscription basis.
+You will receive access to iMenuPro on a monthly or yearly subscription fee basis. The term will renew automatically and continuously until canceled. SoftCafe reserves the right to raise or lower the price of the iMenuPro service at any time. However, changes to pricing will not apply to you until (90) days after notice. We may also offer you the option to continue using the service on legacy pricing. For new subscribers, we may also offer a 14-day free trial period at our discretion. Following the trial period, if you have not canceled the service, you will automatically be charged the normal monthly or yearly subscription fee and will receive access to iMenuPro on a monthly or yearly subscription basis. You agree that SoftCafe may contact you at any time by email, or other method with information relevant to your subscription, billing, and use of the Service.
 
 #### Sales Tax Collection
 
@@ -97,9 +109,9 @@ You are solely responsible for canceling your subscription. An email or phone re
 
 Additionally, if your payment method is declined over several days of repeated attempts, your subscription will be automatically canceled.
 
-Once your subscription is canceled you will lose access rights to that account, and any live-sync or QR menus in that account may become unpublished. Your personal signup data will be retained with the intent of enabling you to reinstate your subscription to access your prior menu content, if it still exists, at a later date. If you wish to forgo this option and want to have your personal data permanently removed from our database, you should notify us at our [company contact page](https://imenupro.com/company.htm) and request that we do so.
+Once your subscription is canceled, you will no longer be able to log in to the iMenuPro service and you will lose access rights within iMenuPro to your User Content including published menus or designs, such as QR menus, which may become automatically unpublished. Your personal signup data will be retained within iMenuPro with the intent of enabling you to reinstate your subscription to access your prior user content, if it still exists, at a later date. If you wish to forgo this option and want to have your personal data permanently removed from our database, you should notify us at our [company contact page](https://imenupro.com/company.htm) and request that we do so.
 
-If you reinstate your subscription by re-subscribing with the same personal signup information (email address and password), your prior menu content data will be accessible, unless it was removed due to violations of these terms.
+If you reinstate your subscription by re-subscribing with the same personal signup information (email address and password), your prior menu content data will be accessible, unless it was removed due to violations of these terms or other reasons.
 
 If you cancel before the end of your current paid up billing period (month or year), you are charged for the current billing period (month or year), but you will not be charged again.
 
