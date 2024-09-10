@@ -286,4 +286,4 @@ Social Media
 
 ![](https://rslt.io/wp-content/uploads/2021/06/Untitled-design-20.png)
 
-Copyright © 2022. All rights reserved.
+Copyright © 2024. All rights reserved.
