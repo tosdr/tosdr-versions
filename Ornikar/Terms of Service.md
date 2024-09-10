@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669687c20376bfc5993dbe17_Acheel%20nouveau.svg)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66d1c53c2701e33359eccaf7_LES%20JOURS%20PROMO%20-%20banner.svg)
 
 0
 
@@ -12,15 +12,17 @@ Jours
 
 Heures
 
-VOTRE ASSURANCE HABITATION - dès 2,17€/ mois! [J'en profite](https://www.ornikar.com/assurance-habitation)
+Jusqu'à -100€\* sur les packs permis ! Du 02 au 18/09 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
-[Code de la route](https://www.ornikar.com/code)
-
 Permis de conduire
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+[Permis B
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66daa4ade8b590bc517fd8e7_promo.webp)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+
+[Code de la route](https://www.ornikar.com/code)
 
 Assurance
 
@@ -36,7 +38,7 @@ Assurance
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/667d40c7c8455a6d4eedbffd_new-icon.svg)](https://www.ornikar.com/assurance-habitation)
 
-[Assurance auto](https://www.ornikar.com/assurance-auto)
+[Assurance auto](https://www.ornikar.com/assurance-auto)[Espace parents](https://www.ornikar.com/choisir-auto-ecole-enfant)
 
 Trustpilot
 
@@ -247,17 +249,11 @@ Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir v
 
 Je découvre](https://www.ornikar.com/financer-permis-cpf)
 
-[**_Télécharger la version actuelle_**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/666ffa17beb2276aeffaf47b_2024-06-17-CGV-ORNIKAR.pdf)
-
 [**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 17 juin 2024**
+**Dernière mise à jour le 2 septembre 2024**
 
-**‍**
-
-Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 23.555,41 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
-
-**‍**
+Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 25.936,35 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
 
 * [**Définitions**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#article-1-definitions) 
 * [**Champ d’application et Capacité Juridique**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#article-2-champ-dapplication-des-cgv-capacite-juridique-accessibilite-aux-services) 
@@ -275,8 +271,10 @@ Les présentes conditions générales de vente ont pour objet de définir les mo
 * [**Droit applicable**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#article-14-droit-applicable) 
 * [**Dispositions diverses**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#article-15-dispositions-diverses)
 
-ARTICLE 1.     Définitions
---------------------------
+‍
+
+**ARTICLE 1.     Définitions**
+------------------------------
 
 Dans les présentes conditions générales de vente, les termes et expressions identifiés par une majuscule ont la signification indiquée ci-après, qu’ils soient employés au singulier ou au pluriel.
 
@@ -288,11 +286,13 @@ Dans les présentes conditions générales de vente, les termes et expressions i
 
 « Compte » : désigne l’espace personnel que Vous serez amené à créer sur le Site, tel que décrit à l’article 5.1 ci-après.
 
+« CPF » : désigne le « compte professionnel de formation » de l’élève, sur le site internet « Mon Compte Formation  » qui est géré par la Caisse des dépôts et consignations.
+
 « Enseignant » : désigne toute personne physique titulaire du diplôme de moniteur auto-école dit « BEPECASER » ou désormais « Titre Professionnel » (« CCP ESCR »), ainsi que d’une autorisation d’enseigner en cours de validité, exerçant son activité d'enseignant de la conduite automobile et de la sécurité routière de manière indépendante sous le statut qu’il a choisi librement au regard de sa situation propre, et qui propose ses services aux Clients à travers le Site. 
 
 « Evaluation préalable » ou « Heure découverte » : désigne la première heure que Vous effectuez avec un Enseignant afin de déterminer le nombre prévisionnel d’heures de formation pratique, sous forme de fourchette d’heures.
 
-« Fourchette d’heures recommandées » : désigne la fourchette minimum et maximum d’heures recommandées par l’Enseignant.
+« Fourchette d’heures recommandées » : désigne la fourchette minimum et maximum d’heures recommandées par l’Enseignant
 
 « Handicap(s) » : Constitue un handicap, au sens de la loi, toute limitation d'activité ou restriction de participation à la vie en société subie dans son environnement par une personne en raison d'une altération substantielle, durable ou définitive d'une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d'un polyhandicap ou d'un trouble de santé invalidant.
 
@@ -309,7 +309,7 @@ Dans les présentes conditions générales de vente, les termes et expressions i
   
 « Vous » ou « Client(s) » ou « Utilisateur » : Vous désigne ou désigne tout client d’ORNIKAR qui commande des Produits et/ou Services sur le Site.
 
-ARTICLE 2.     **Champ d’application des CGV -  Capacité Juridique - Accessibilité aux Services**
+**ARTICLE 2.     Champ d’application des CGV -  Capacité Juridique - Accessibilité aux Services**
 -------------------------------------------------------------------------------------------------
 
 Les CGV sont réservées aux seuls Clients particuliers, personnes physiques, majeures et capables juridiquement, agissant pour leur compte ou en tant que représentant légal pour le compte d’une personne mineure ou majeure incapable juridiquement, résidant en France métropolitaine et ses territoires d’Outre-Mer. Si Vous avez entre quinze (15) ans révolus et dix-huit (18) ans : Vous devez obtenir l’accord de votre représentant légal avant de procéder à l’achat d’une Commande, ce que Vous reconnaissez et acceptez. Notre Société pourra Vous demander à tout moment, et par tout moyen que Nous jugerons utile, de Nous fournir la preuve de cette autorisation.
@@ -320,12 +320,12 @@ ORNIKAR ne dispose pas de toutes les infrastructures et équipements nécessaire
 
 Si un Client ou potentiel Client, se trouve dans le présent ou dans le futur, dans une situation de Handicap, quel qu’il soit, nous l’invitons à prendre contact avec notre service client pour en discuter afin de savoir s’il est possible d’envisager une modalité d’adaptation de la formation ou pas.
 
-Le Client déclare et garantit à Notre Société qu’il dispose de la Capacité Juridique, ainsi que de tous les droits, titres, pouvoirs et/ou autorisations nécessaires, pour contracter au titre des présentes et passer une Commande sur le Site.
+Le Client déclare et garantit à Notre Société qu’il dispose de la Capacité Juridique, ainsi que de tous les droits, titres, pouvoirs et/ou autorisations nécessaires, pour contracter au titre des présentes et passer une Commande sur le Site ou le Site « Mon compte Formation ».
 
-ARTICLE 3.     **Acceptation et modification des CGV**
+**ARTICLE 3.     Acceptation et modification des CGV**
 ------------------------------------------------------
 
-Les CGV sont applicables à toute Commande de Produits et/ou Services sur le Site.
+Les CGV sont applicables à toute Commande de Produits et/ou Services sur le Site ou toute Commande sur le Site « Mon compte Formation ».
 
 Toute validation de Commande est subordonnée à l’acceptation expresse et sans réserve des CGV par le Client en cochant la case « _Je comprends et j’accepte les CGV_ » au moment de la passation de la Commande. En cochant cette case, Vous reconnaissez les avoir lues, les avoir entièrement comprises et acceptées et Vous vous engagez à en respecter le contenu. Elles sont accessibles via le lien hypertexte et Vous pouvez aisément les imprimer en Vous servant des fonctionnalités d’impression de votre ordinateur et/ou navigateur.
 
@@ -335,91 +335,83 @@ Les CGV étant acceptées lors de chaque Commande, les modifications des CGV int
 
 Les différentes versions des CGV sont mises à disposition sur notre Site à l’adresse suivante : [**https://www.ornikar.com/articles/conditions-generales-de-vente**](https://www.ornikar.com/a-propos/conditions-generales-de-vente), et accessibles en cliquant sur l’onglet « _CGV_ » figurant sur la page d’accueil du Site, où elles sont directement consultables imprimables, et téléchargeables.
 
-ARTICLE 4.     **Produits et Services proposés**
+**ARTICLE 4.     Produits et Services proposés**
 ------------------------------------------------
 
 Conformément aux articles L. 111-1 et L. 111-2 du Code de la consommation, notre Société présente sur le Site un descriptif détaillé de ses Produits et Services et des prix correspondants permettant au Client, avant la prise de Commande définitive, de connaître leurs caractéristiques essentielles. Le Client déclare en avoir pris connaissance préalablement à sa Commande.
 
 De plus, par les présentes, Nous informons le Client, au titre de l’article L. 111-1 du Code de la consommation que nos Produits et Services disposent des fonctionnalités nécessaires eu égard à leurs finalités ; de la capacité de fonctionner normalement avec du matériel et logiciel informatique usuel. L’intégralité de nos Produits et Services fonctionnent sans restriction d’installation de logiciel.
 
-Conformément à l’article L. 441-1 du Code de commerce, les prix sont repris dans une grille tarifaire en Annexe 1 des présentes CGV. Tel que détaillé dans cette Annexe 1, ces prix peuvent varier en fonction de la zone géographique dans laquelle vous souhaitez effectuer vos heures de conduite.
+Conformément à l’article L. 441-1 du Code de commerce, les prix sont repris dans une grille tarifaire en Annexe 1 des présentes CGV. Tel que détaillé dans cette Annexe 1, le prix pour les achats de leçon(s) de conduite non financés par le CPF peutvarier en fonction de la zone géographique dans laquelle vous souhaitez effectuer vos heures de conduite.
 
 Notre Société propose sur le Site les Produits et Services suivants :
 
-### 4.1. Formule « Code de la route »
+### **4.1 Produits communs - achats CPF et hors CPF** 
 
-Cette formule, applicable à l’Examen Théorique Général (ci-après « ETG ») uniquement et disponible sous l’onglet « _Code de la route »_, ou _« Boutique »_ comprend les éléments suivants :
+### **4.1.1 Formules “Les packs conduite”**
 
-* des contenus pédagogiques présentés sous la forme de séries de  questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC).
-* trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de Vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique, qui Vous permet de Vous entraîner par thème officiel du REMC pour les approfondir à votre rythme.
+Ces formules, sont disponibles sur votre Compte, sous l’onglet « _Boutique_ », comprend les éléments suivants :
 
-#### 4.1.1. Sur le site internet
-
-Sur le site internet, la formule « _Code de la route_ » est disponible sous la forme d’un achat unique au montant indiqué en Annexe 1 (Grille tarifaire).
-
-Cette formule est valable pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
-
-#### 4.1.2. Sur l’application mobile
-
-Sur l’application mobile, la formule « Code de la route » est disponible sous la forme de deux abonnements : 
-
-* un abonnement mensuel (au prix indiqué en Annexe 1 - Grille tarifaire), à tacite reconduction, annulable à tout moment (selon les conditions générales des stores). En cas d’annulation, le montant du mois en cours est dû et donne accès à l’application jusqu’à la fin de la période d’engagement.
-* un abonnement annuel (au prix indiqué en Annexe 1 - Grille tarifaire), à tacite reconduction, annulable à tout moment (selon les conditions générales des stores). En cas d’annulation, le montant de l’année en cours est dû et donne accès à l’application jusqu’à la fin de la période d’engagement.
-
-### 4.2. **Formule e-learn “Réussite Code+”**
-
-**Cette** formule vous est proposé uniquement si Vous avez déjà acheté la formule “Code de la route” ou une formule conduite comprenant le Produit code de la route.  
-  
-Il est composé de contenus pédagogiques répartis en quatre (4) chapitres sous forme de vidéos (face caméra et motion design) et de fiches de cours. 
-
-Le prix de la formule « _Réussite Code_\+ » se trouve en Annexe 1.
-
-Cette formule est valable pour une durée de douze (12) mois à compter de la Commande.
-
-### 4.3. Formule « Une heure d’évaluation »
-
-Cette formule, disponible sous l’onglet « _Conduite_ » ensuite « _Leçons de conduite_ » et enfin « _Je réserve mon évaluation_ » ou sous l’onglet « _Boutique_ », « _1h d’évaluation_ », comprend une (1) heure d’évaluation avec un Enseignant titulaire du brevet pour l’exercice de la profession d’enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route.
-
-Le prix de la formule « _Une heure d’évaluation_ » se trouve en Annexe 1.
-
-Cette formule est valable pour une durée de douze (12) mois à compter de la Commande.
-
-### 4.4. Formule « Code + 1h conduite découverte »
-
-Cette formule, disponible sous l’onglet « _Boutique_ », puis « _Code + 1h d’évaluation_ », comprend les éléments suivants :
-
-* La formule “Code de la route”, qui comprend des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme ;
-* La formule “Une heure d’évaluation”, qui comprend une première heure d’évaluation avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-
-Le prix de la formule « _Code + 1h d’évaluation_ » se trouve en Annexe 1 (Grille tarifaire).
-
-### 4.5. Formules « Les packs conduite »
-
-Cette formule, disponible sur votre Compte, sous l’onglet « _Boutique_ », comprend les éléments suivants :
-
-* Vous avez la possibilité de réserver des leçons de conduite **en fonction du stade d’avancement dans Votre formation**, réparties en différents packs : pack 1 heure d’évaluation (ou Heure découverte) boite manuelle, pack 1 heure d’évaluation (ou Heure découverte) boîte automatique, pack 1 heure boite manuelle, pack 1 heure boite automatique, pack 5 heures boite manuelle, pack 5 heures boîte automatique, pack 10 heures boite manuelle, pack 10 heures boîte automatique, pack 20 heures boite manuelle ou pack 13 heures boîte automatique.  
+* Vous avez la possibilité de réserver des leçons de conduite **en fonction du stade d’avancement dans Votre formation**, réparties en différents packs : pack 5 heures boit manuelle, pack 5 heures boite automatique, pack 10 heures boite manuelle, pack 10 heures boite automatique, pack 20 heures boite manuelle, pack permis complet sans code de la route boite manuelle, pack permis complet sans code de la route boite automatique, pack permis complet avec code de la route boite manuelle, pack permis complet avec code de la route boite automatique.
 * **L’accès à votre Compte à l’issue de la première heure d’évaluation (ou “Heure Découverte”) est subordonné à votre acceptation expresse et sans réserve du contrat de formation (cf. article 5.2.1.2).** Conformément à la législation applicable aux contrats conclus par voie électronique pour les ventes à distance, ce contrat de formation est réputé signé lorsque vous cochez la case « _Je comprends et j’accepte le contrat_ ».
 * Après avoir accepté votre contrat de formation, Vous pourrez procéder à la suite de votre formation pratique.
 
 Les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
 
-### 4.6. **Formule Pack Permis complet boite manuelle « Code + 17h de conduite + Elearn »**
+#### 4.1.1 Pack 5 heures Boîte Manuelle ou Boîte Automatique 
+
+Cette formule comprend : 
+
+* 5 leçons de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.  
+  
+
+‍
+
+#### 4.1.2 Pack 10 heures Boîte Manuelle ou Boîte Automatique 
+
+‍
+
+Cette formule comprend : 
+
+* Dix (10) leçons de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.1.3 Pack 20 heures Boîte Manuelle  
+  
+
+Cette formule comprend : 
+
+* Vingt (20) leçons de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.1.3 Formule Pack Permis complet boite manuelle « Code + 17h de conduite + Elearn »
+
+‍
 
 Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée du « _Code de la route_ » ainsi que de dix-sept (17) leçons de conduite et comprend les éléments suivants :
 
 * des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
 * Dix-sept (17) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
-
-                - parcours “NEPH” ;
-
-                - parcours “Comment se déroule la conduite chez Ornikar” ;
-
-                - parcours “Comment se déroule la 1ère heure de conduite” ;
-
-                - parcours “Préparation à l’examen” ; 
-
-                - quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
 
 Chacun de ces parcours se découpe ensuite en cours, puis en section.
 
@@ -427,23 +419,21 @@ Le prix de la formule Pack permis complet boite manuelle « _Code + 17h de condu
 
 La formule « Code de la route », l’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être effectuées endéans cette durée.
 
-### 4.7. **Formule Pack Permis complet boite automatique « Code + 12h de conduite + Elearn  »**
+Lorsque vous effectuez un achat d’un pack d’heures de conduite via votre CPF, une heure de conduite en plus est ajoutée automatiquement.  
+  
+
+#### 4.1.4 Formule Pack Permis complet boite automatique « Code + 12h de conduite + Elearn  » 
 
 Cette formule, disponible sur la page « Espace examen » ou « Boutique » est composée du « Code de la route » ainsi que de douze (12) leçons de conduite et comprend les éléments suivants :
 
 * des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
 * Douze (12) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
-
-                - parcours “NEPH” ;
-
-                - parcours “Comment se déroule la conduite chez Ornikar” ;
-
-                - parcours “Comment se déroule la 1ère heure de conduite” ;
-
-                - parcours “Préparation à l’examen” ; 
-
-                - quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)XX
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
 
 Chacun de ces parcours se découpe ensuite en cours, puis en section.
 
@@ -451,7 +441,154 @@ Le prix de la formule Pack permis complet boite automatique « Code + 12h de con
 
 La formule « Code de la route », l’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
 
-### 4.8. **Formule « Pack conduite accompagnée »**
+Lorsque vous effectuez un achat d’un pack d’heures de conduite via votre CPF, une heure de conduite en plus est ajoutée automatiquement.  
+  
+
+#### 4.1.5 Formule Pack Permis complet boite manuelle « 17h de conduite + Elearn »
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de dix-sept (17) leçons de conduite et comprend les éléments suivants :
+
+* Dix-sept (17) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+Le prix de la formule Pack permis complet boite manuelle « _17h de conduite + Elearn_ » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être effectuées endéans cette durée.
+
+Lorsque vous effectuez un achat d’un pack d’heures de conduite via votre CPF, une heure de conduite en plus est ajoutée automatiquement.  
+  
+
+#### 4.1.6 Formule Pack Permis complet boite automatique « 12h de conduite + Elearn » 
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de douze (12) leçons de conduite et comprend les éléments suivants :
+
+* Douze (12) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+Le prix de la formule Pack permis complet boite automatique « 12h de conduite » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
+
+Lorsque vous effectuez un achat d’un pack d’heures de conduite via votre CPF, une heure de conduite en plus est ajoutée automatiquement.
+
+‍
+
+### **4.2 Produits Hors CPF**
+
+#### **4.2.1 Formule « Code de la route »**
+
+Cette formule, applicable à l’Examen Théorique Général (ci-après « ETG ») uniquement et disponible sous l’onglet « _Code de la route »_, ou _« Boutique »_ comprend les éléments suivants :
+
+* des contenus pédagogiques présentés sous la forme de séries de  questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC).
+* trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de Vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique, qui Vous permet de Vous entraîner par thème officiel du REMC pour les approfondir à votre rythme.
+
+####   
+4.2.1.1 Sur le site internet 
+
+Sur le site internet, la formule « _Code de la route_ » est disponible sous la forme d’un achat unique au montant indiqué en Annexe 1 (Grille tarifaire).
+
+Cette formule est valable pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
+
+#### 4.2.1.2. Sur l’application mobile
+
+Sur l’application mobile, la formule « Code de la route » est disponible sous la forme de deux abonnements : 
+
+* un abonnement mensuel (au prix indiqué en Annexe 1 - Grille tarifaire), à tacite reconduction, annulable à tout moment (selon les conditions générales des stores). En cas d’annulation, le montant du mois en cours est dû et donne accès à l’application jusqu’à la fin de la période d’engagement.
+* un abonnement annuel (au prix indiqué en Annexe 1 - Grille tarifaire), à tacite reconduction, annulable à tout moment (selon les conditions générales des stores). En cas d’annulation, le montant de l’année en cours est dû et donne accès à l’application jusqu’à la fin de la période d’engagement.  
+      
+    
+
+#### **4.2.2 Formule e-learn “Réussite Code+”**
+
+Cette formule vous est proposé uniquement si Vous avez déjà acheté la formule “Code de la route” ou une formule conduite comprenant le Produit code de la route.  
+  
+Il est composé de contenus pédagogiques répartis en quatres (4) chapitres sous forme de vidéos (face caméra et motion design) et de fiches de cours. 
+
+Le prix de la formule « _Réussite Code_\+ » se trouve en Annexe 1.
+
+Cette formule est valable pour une durée de douze (12) mois à compter de la Commande.
+
+‍
+
+#### **4.2.3 Formules “Les packs conduite”**
+
+Ces formules, sont disponibles sur votre Compte, sous l’onglet « _Boutique_ », comprend les éléments suivants :
+
+* Vous avez la possibilité de réserver des leçons de conduite **en fonction du stade d’avancement dans Votre formation**, réparties en différents packs : pack 1 heure d’évaluation ou heure découverte boite manuelle, pack 1 heure d’évaluation ou heure découverte boite automatique, pack 1 heure boite manuelle, pack 1 heure boite automatique, pack 3 heures boite manuelle, pack 3 heures boite automatique, pack 13 heures boite automatique, pack conduite accompagnée boite manuelle, pack conduite accompagnée boite automatique.
+* **L’accès à votre Compte à l’issue de la première heure d’évaluation (ou “Heure Découverte”) est subordonné à votre acceptation expresse et sans réserve du contrat de formation (cf. article 5.2.1.2).** Conformément à la législation applicable aux contrats conclus par voie électronique pour les ventes à distance, ce contrat de formation est réputé signé lorsque vous cochez la case « _Je comprends et j’accepte le contrat_ ».
+* Après avoir accepté votre contrat de formation, Vous pourrez procéder à la suite de votre formation pratique.
+
+Les leçons de conduite sont valables pour une durée de douze (12) mois ou de vingt-quatre (24) mois pour les Pack Conduite Accompagnée à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
+
+#### 4.2.3.1 Formule « Une heure d’évaluation »
+
+Cette formule, disponible sous l’onglet « _Conduite_ » ensuite « _Leçons de conduite_ » et enfin « _Je réserve mon évaluation_ » ou sous l’onglet « _Boutique_ », « _1h d’évaluation_ », comprend une (1) heure d’évaluation avec un Enseignant titulaire du brevet pour l’exercice de la profession d’enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route.
+
+Le prix de la formule « _Une heure d’évaluation_ » se trouve en Annexe 1.
+
+Cette formule est valable pour une durée de douze (12) mois à compter de la Commande.
+
+#### 4.2.3. 2     Formule « Code + 1h conduite découverte » 
+
+Cette formule, disponible sous l’onglet « _Boutique_ », puis « _Code + 1h d’évaluation_ », comprend les éléments suivants :
+
+* La formule “_Code de la route_”, qui comprend des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme ;
+* La formule “_Une heure d’évaluation_”, qui comprend une première heure d’évaluation avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+
+Le prix de la formule « _Code + 1h d’évaluation_ » se trouve en Annexe 1 (Grille tarifaire).
+
+####   
+4.2.3.3 Pack 1 heure Boîte Manuelle ou Boîte Automatique 
+
+Cette formule comprend : 
+
+* Une (1) leçon de conduite, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.2.3.4 Pack 3 heures Boîte Manuelle ou Boîte Automatique 
+
+Cette formule comprend : 
+
+* Trois (3) leçon de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.2.3.5 Pack 13 heures Boîte Automatique 
+
+Cette formule comprend : 
+
+* Treize (13) leçon de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.2.3.6 Formule « Pack conduite accompagnée » Boîte Manuelle 
 
 Cette formule, composée du « Code de la route » ainsi que de vingt-huit (28) leçons de conduite, comprend les éléments suivants :
 
@@ -459,28 +596,19 @@ Cette formule, composée du « Code de la route » ainsi que de vingt-huit (28) 
 * une (1) heure d’évaluation préalable
 * vingt-sept (27) leçons de conduite dont :
 
-           - Vingt (20) leçons de conduite dédiées à la formation initiale
-
-           - Six (6) leçons de conduite dédiées aux rendez-vous pédagogiques
-
-                   - Un (1) rendez-vous préalable de deux (2) heures
-
-                   - Deux (2) rendez-vous pédagogiques de deux (2) heures de pratique et d’une (1) heure de théorie sous forme de module de révision en ligne
-
-           - Une (1) heure d’accompagnement à l’examen du permis de conduire
+* Vingt (20) leçons de conduite dédiées à la formation initiale
+* Six (6) leçons de conduite dédiées aux rendez-vous pédagogiques
+    * Un (1) rendez-vous préalable de deux (2) heures
+    * Deux (2) rendez-vous pédagogiques de deux (2) heures de pratique et d’une (1) heure de théorie sous forme de module de révision en ligne
+* Une (1) heure d’accompagnement à l’examen du permis de conduire
 
 * Un livret d’apprentissage de la conduite papier
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
-
-                - parcours “NEPH” ;
-
-                - parcours “Comment se déroule la conduite chez Ornikar” ;
-
-                - parcours “Comment se déroule la 1ère heure de conduite” ;
-
-                - parcours “Préparation à l’examen” ; 
-
-                - quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
 
 Chacun de ces parcours se découpe ensuite en cours, puis en section.
 
@@ -495,7 +623,7 @@ Le prix de la formule « _Pack conduite accompagnée_ » se trouve en Annexe 1.
 
 Cette formule est valable pour une durée de vingt-quatre (24) mois à compter de la Commande.
 
-### 4.9. **Formule « Pack conduite accompagnée Boîte Automatique »**
+#### 4.2.3.7 Formule « Pack conduite accompagnée Boîte Automatique »
 
 Cette formule, composée du « Code de la route » ainsi que de vingt-et-un (21) leçons de conduite, comprend les éléments suivants :
 
@@ -503,28 +631,21 @@ Cette formule, composée du « Code de la route » ainsi que de vingt-et-un (21)
 * une (1) heure d’évaluation préalable
 * vingt (20) leçons de conduite dont :
 
-            - Treize (13) leçons de conduite dédiées à la formation initiale
-
-            - Six (6) leçons de conduite dédiées aux rendez-vous pédagogiques
-
-                    - Un (1) rendez-vous préalable de deux (2) heures
-
-                    - Deux (2) rendez-vous pédagogiques de deux (2) heures de pratique et d’une (1) heure de théorie sous forme de module de révision en ligne
-
-           - Une (1) heure d’accompagnement à l’examen du permis de conduire
+* Treize (13) leçons de conduite dédiées à la formation initiale
+* Six (6) leçons de conduite dédiées aux rendez-vous pédagogiques
+    * Un (1) rendez-vous préalable de deux (2) heures
+    * Deux (2) rendez-vous pédagogiques de deux (2) heures de pratique et d’une (1) heure de théorie sous forme de module de révision en ligne
+* Une (1) heure d’accompagnement à l’examen du permis de conduire
 
 * Un livret d’apprentissage de la conduite papier
 * Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
-
-                - parcours “NEPH” ;
-
-                - parcours “Comment se déroule la conduite chez Ornikar” ;
-
-                - parcours “Comment se déroule la 1ère heure de conduite” ;
-
-                - parcours “Préparation à l’examen” ; 
-
-                - quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)  
+          
+        
 
 Chacun de ces parcours se découpe ensuite en cours, puis en section.
 
@@ -539,19 +660,328 @@ Le prix de la formule « Pack conduite accompagnée Boîte Automatique » se tro
 
 Cette formule est valable pour une durée de vingt-quatre (24) mois à compter de la Commande.
 
-### 4.10. Inscription à l’Examen Théorique Général (ETG) :
+‍
+
+### **4.3 Produits uniquement CPF** 
+
+#### **Formules “Les packs conduite”**
+
+Ces formules, sont disponibles sur votre Compte, sous l’onglet « _Boutique_ », comprend les éléments suivants :
+
+* Vous avez la possibilité de réserver des leçons de conduite **en fonction du stade d’avancement dans Votre formation**, réparties en différents packs : pack code + 3 heures boite manuelle, pack code + 3 heures boite automatique, pack permis renforcé avec code boite automatique, pack permis renforcé avec code boite manuelle, pack permis + ETG boite manuelle avec code, pack permis + ETG boite automatique avec code, pack permis renforcé + ETG boite manuelle avec code, pack permis renforcé + ETG boite automatique avec code, pack permis renforcé sans code boite manuelle, pack permis renforcé sans code boite automatique, pack permis + ETG sans code boite manuelle, pack permis + ETG sans code boite automatique, pack permis renforcé + ETG sans code boite manuelle, pack permis renforcé + ETG sans code boite automatique. 
+* **L’accès à votre Compte à l’issue de la première heure d’évaluation (ou “Heure Découverte”) est subordonné à votre acceptation expresse et sans réserve du contrat de formation (cf. article 5.2.1.2).** Conformément à la législation applicable aux contrats conclus par voie électronique pour les ventes à distance, ce contrat de formation est réputé signé lorsque vous cochez la case « _Je comprends et j’accepte le contrat_ ».
+* Après avoir accepté votre contrat de formation, Vous pourrez procéder à la suite de votre formation pratique.
+
+Les leçons de conduite sont valables pour une durée de douze (12) mois ou de vingt-quatre (24) mois pour les Pack Conduite Accompagnée à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.
+
+#### 4.3.1 Pack 3 heures + Code de la route Boîte manuelle ou Boîte automatique 
+
+Cette formule, disponible sous l’onglet « _Boutique_ », puis « _Code + 3 heures_ », comprend les éléments suivants :
+
+* La formule “_Code de la route_”, qui comprend des contenus pédagogiques présentés sous la forme de séries de questions (plus de 1500 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme ;
+* Trois (3) leçon de conduite, dont une heure d’évaluation si nécessaire, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route
+
+‍
+
+Le prix de la formule « _Code + 3 heures_ » se trouve en Annexe 1 (Grille tarifaire).  
+  
+
+#### 4.3.2 Pack permis renforcé Boîte Manuelle avec Code de la route 
+
+Ce pack comprend : 
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;  
+      
+    
+* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.3 Pack Permis renforcé Boîte Automatique avec Code de la route 
+
+‍
+
+Ce pack comprend : 
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
+* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.4 Pack permis + ETG Boîte Manuelle + Code de la route
+
+‍
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de dix-sept (17) leçons de conduite ainsi que du Code la route et comprend les éléments suivants :
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
+* Dix-sept (17) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de la formule Pack permis complet boite manuelle « _17h de conduite + Elearn_ » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être effectuées endéans cette durée.  
+  
+
+#### 4.3.5 Pack permis + ETG Boîte Automatique + Code de la route 
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de douze (12) leçons de conduite ainsi que du Code de la route et comprend les éléments suivants :
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;  
+      
+    
+* Douze (12) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de la formule Pack permis complet boite automatique « 12h de conduite » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.  
+  
+
+#### 4.3.6 Pack Permis renforcé + ETG Boîte Manuelle avec Code de la route  
+
+Ce pack comprend : 
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;  
+      
+    
+* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de cette formule se trouve en Annexe 1.  
+  
+
+‍
+
+#### 4.3.7 Pack Permis renforcé + ETG Boîte Automatique avec Code de la route 
+
+  
+Ce pack comprend : 
+
+* La formation au « Code de la route » telle que décrite à l’article 4.1
+* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
+* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+‍
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.8 Pack permis renforcé Boîte Manuelle sans Code de la route
+
+‍
+
+Ce pack comprend : 
+
+* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.9 Pack permis renforcé Boîte Automatique sans Code de la route
+
+‍
+
+Ce pack comprend : 
+
+* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+‍
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.10 Pack permis + ETG Boîte Manuelle sans code de la route
+
+‍
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de dix-sept (17) leçons de conduite et comprend les éléments suivants :
+
+* Dix-sept (17) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : 
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de la formule Pack permis complet boite manuelle « _17h de conduite + Elearn_ » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être effectuées endéans cette durée.
+
+#### 4.3.11 Pack permis + ETG Boîte Automatique sans code de la route
+
+Cette formule, disponible sur la page « _Espace examen_ » ou « _Boutique_ » est composée de douze (12) leçons de conduite et comprend les éléments suivants :
+
+* Douze (12) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de la formule Pack permis complet boite automatique « 12h de conduite » se trouve en Annexe 1. 
+
+L’Elearn et les leçons de conduite sont valables pour une durée de douze (12) mois à compter de la Commande. Cela signifie que les leçons de conduite doivent être réservées et effectuées au cours de cette période.  
+  
+
+#### 4.3.12 Pack Permis renforcé + ETG Boîte Manuelle sans Code de la route  
+
+Ce pack comprend : 
+
+* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section ;
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.13 Pack Permis renforcé + ETG Boîte Automatique sans Code de la route  
+
+Ce pack comprend : 
+
+* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir :
+    * parcours “NEPH” ;
+    * parcours “Comment se déroule la conduite chez Ornikar” ;
+    * parcours “Comment se déroule la 1ère heure de conduite” ;
+    * parcours “Préparation à l’examen” ; 
+    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
+
+Chacun de ces parcours se découpe ensuite en cours, puis en section.
+
+* Inscription à l’Examen Théorique Général (ETG)
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+#### 4.3.14 Pack 15 heures en Boîte Manuelle ou en Boîte Automatique 
+
+Ce pack comprend : 
+
+* Quinze (15) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
+
+Le prix de cette formule se trouve en Annexe 1.
+
+‍
+
+‍
+
+#### **4.4.1 Inscription à l’Examen Théorique Général (ETG) :**
 
 Vous avez la possibilité de vous inscrire pour passer l’ETG dans un centre agréé depuis Votre compte, dans la rubrique « _Espace Examen_ ». Les centres proposés par ORNIKAR sont les suivants : la Poste, SGS et Code’nGo (Bureau Véritas). Ils sont toutefois susceptibles d’évoluer. Les frais d’inscription à l’ETG, fixé par décret n°2016-516 du 26 avril 2016, sont de trente (30) euros TTC et sont payables sur notre Site, lors de votre inscription. Ce montant est ensuite reversé au centre agréé que vous aurez choisi.
 
-### 4.11. Inscription à l’examen pratique et accompagnement :
+#### **4.4.2 Inscription à l’examen pratique et accompagnement :**
 
-#### 4.11.1. Inscription
+**4.4.2.1 Inscription**
 
 Dans votre espace « _Examen_ », afin de vous aider à réaliser votre demande de place à l’examen pratique du permis de conduire (sous réserve des conditions prévues à l’article 5.2.2.b), Vous aurez accès à un certain nombre de documents/informations. Selon votre département de résidence, Vous pourrez solliciter une place d’examen par courriel, téléphone, courrier ordinaire ou formulaire en ligne.
 
 Afin d’être éligible à l’examen pratique du permis de conduire, vous devrez notamment avoir effectué le minimum d’heures de votre Fourchette d’heures recommandées chez Ornikar. Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera. Si cette fourchette devait baisser, Vous ne pourrez-être remboursé des heures restantes, conformément à notre politique de remboursement (article 5.4.1)
 
-#### 4.11.2. Accompagnement
+**4.4.2.2 Accompagnement**
 
 Hors départements « Rdv Permis », un accompagnement à l’examen pratique du permis de conduire est possible dans certains cas. Il n’est toutefois pas obligatoire et est laissé à la libre appréciation de notre Société. Lorsque cet accompagnement est accepté par le Société, il sera facturé l’équivalent d’une heure de leçon, hors leçon de conduite nécessaire au temps de déplacement sur le centre d’examen aller-retour.
 
@@ -559,22 +989,29 @@ Dans les départements « Rdv Permis », si Vous avez donné mandat à Notre Soc
 
 En cas d'échec, et après accord entre les parties sur vos besoins, Notre Société Vous présentera à une nouvelle épreuve pratique, en fonction du calendrier qui lui est communiqué par l'autorité administrative.
 
-ARTICLE 5.     Commande de Produits et Services sur le Site
------------------------------------------------------------
+**ARTICLE 5.     Commande de Produits et Services sur le Site**
+---------------------------------------------------------------
 
-### 5.1.        Création d’un compte
+### **5.1.        Création d’un compte**
 
 La passation d’une Commande sur notre Site nécessite que Vous créiez un Compte. Les modalités de création sont détaillées dans les Conditions générales d’utilisation (CGU) : [**https://www.ornikar.com/a-propos/conditions-generales-d-utilisation**](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
 
+‍
+
 Lors de la création de votre Compte, nous Vous demandons d'enregistrer les éléments suivants : nom, prénom, date de naissance, nom de votre représentant légal si vous êtes mineur, adresse postale et numéro de téléphone. 
+
+‍
 
 Le traitement et l'utilisation de ces éléments est décrit dans la Politique  de Confidentialité ([**https://www.ornikar.com/a-propos/charte-de-confidentialite**](https://www.ornikar.com/a-propos/charte-de-confidentialite)). 
 
-Si Vous le souhaitez, Vous pouvez vous inscrire sur la liste d'opposition au démarchage téléphonique proposée par Bloctel [**sur leur site**](https://conso.bloctel.fr/). Conformément à l’article L. 223-1 du Code de la consommation, l'inscription à ce service est gratuite pour les consommateurs.
+‍
 
-### 5.2.        Passation de Commande
+Si Vous le souhaitez, Vous pouvez vous inscrire sur la liste d'opposition au démarchage téléphonique proposée par Bloctel [**sur leur site**](https://conso.bloctel.fr/). Conformément à l’article L. 223-1 du Code de la consommation, l'inscription à ce service est gratuite pour les consommateurs.  
+  
 
-#### 5.2.1.   Les formules :
+### **5.2.        Passation de Commande**
+
+#### **5.2.1.   Les formules :**
 
 **5.2.1.1.** Une fois connecté à votre Compte, Vous pouvez commander la formule de votre choix en cliquant sur l’onglet correspondant. Par ce premier clic, Vous initiez la Commande de la formule choisie.
 
@@ -600,7 +1037,7 @@ Un e-mail accusant réception de la Commande et de son paiement Vous sera envoy�
 
 Concernant les formules comprenant une commande de leçons de conduite, l’e-mail qui Vous sera envoyé vous rappellera également votre acceptation des termes du contrat de formation établi entre Vous et notre Société.
 
-#### 5.2.2.   L’inscription aux examens théoriques et pratiques
+#### **5.2.2.   L’inscription aux examens théoriques et pratiques**
 
 a. L’inscription à l’examen théorique du permis de conduire
 
@@ -612,13 +1049,13 @@ Au regard de l'arrêté du 22 octobre 2014 fixant la méthode nationale d'attrib
 
 Par ailleurs, aucune stipulation des présentes CGV ne saurait contraindre notre Société d'assister les Clients lors de leur inscription à l'épreuve du permis de conduire et à les assister dans leurs relations avec les Autorités Françaises relativement à leurs démarches, pour lesquelles ils restent seuls responsables.
 
-Ci-après les conditions à remplir si vous sollicitez une place d’examen pratique.
+CA titre informatif, ci-après les conditions à remplir si vous sollicitez une place d’examen pratique.
 
 i) Si Vous avez commandé les « _Les packs_ » conduite ou les heures de conduite à la carte », Vous devez remplir les conditions suivantes :
 
 * avoir 17 ans révolus,
 * avoir effectué votre première heure d'évaluation,
-* avoir effectué au moins le nombre d’heures minimum de votre Fourchette d’heures recommandées chez Ornikar ». Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera
+* avoir effectué au moins le nombre d’heures minimum de votre Fourchette de d’heures recommandées chez Ornikar ». Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera. 
 
 Vous serez invité à vérifier vos informations personnelles (nom, prénom, date de naissance, nom de votre représentant légal si vous êtes mineur adresse postale et numéro de téléphone) et à compléter votre dossier d’inscription en renseignant votre sexe, votre lieu de naissance (pays, ville, département), la date d’obtention de votre code de la route et votre numéro NEPH. Sans ce dernier, vous ne serez pas éligible à l’examen pratique.
 
@@ -645,15 +1082,17 @@ Vous serez également invité à cocher, le cas échéant, les cases suivantes :
 
 Vous pourrez alors cliquer sur l’onglet « _Enregistrer_ ».
 
-### 5.3.        Droit de rétractation
+### **5.3.        Droit de rétractation**
 
 Conformément aux articles L. 221-18 et suivants du Code de la consommation, Vous disposez d’un délai de quatorze (14) jours calendaires pour exercer votre droit de rétractation, sans avoir à justifier de motif ni à supporter de pénalités. Ce délai de rétractation commence le lendemain de votre achat (en d’autres termes, de votre contractualisation) et ce, même si vous bénéficiez d’une offre promotionnelle, telle qu’une période de gratuité.
 
-Si ce délai expire un samedi, un dimanche ou un jour férié, il est prolongé jusqu'au premier jour ouvrable suivant.
+Si ce délai expire un samedi, un dimanche ou un jour férié, il est prolongé jusqu'au premier jour ouvrable suivant. 
 
-#### 5.3.1. Pour un achat de la formule “_Code de la route_” sur le site internet ou l’achat de leçons de conduite sur le site internet ou l’application mobile
+5.3.1. Pour un achat de la formule “_Code de la route_” sur le site internet ou l’achat de leçons de conduite sur le site internet ou l’application mobile
 
 Pour exercer le droit légal de rétractation, Vous devez notifier votre décision de rétractation au moyen d’une déclaration dénuée d’ambiguïté adressée via le formulaire suivant [https://aide.ornikar.com/hc/fr/requests/new](https://aide.ornikar.com/hc/fr/requests/new) ou par courrier à l’adresse suivante : ORNIKAR, 170 Boulevard de la Villette, Paris (75019)_._ Vous pouvez, pour ce faire, utiliser le modèle de formulaire de rétractation tel qu’annexé à l’article R. 121-1 du code de la consommation et reproduit en Annexe 2 des CGV.  
+  
+  
 
 Pour que le délai de rétractation soit respecté, il suffit que Vous transmettiez votre écrit relatif à l’exercice du droit de rétractation à Notre Société avant l’expiration du délai de rétractation.
 
@@ -663,15 +1102,13 @@ Conformément à l’article L. 221-25 du Code de la consommation, si Vous avez 
 
 Conformément à l’article L. 221-28 du Code de la consommation, le droit de rétractation ne pourra être exercé lorsque les Produits ou les Services auront été pleinement exécutés avant la fin du délai de rétractation (1°) ou qu’il s’agit d’un contenu numérique non fourni sur un support matériel (13°) et dont l'exécution aura commencé après votre accord préalable exprès et renoncement exprès à votre droit de rétractation.
 
-‍
-
-#### 5.3.2. Pour les abonnements au “_Code de la route_” souscrits via l’application mobile
+5.3.2. Pour les abonnements au “_Code de la route_” souscrits via l’application mobile
 
 Si vous avez souscrit un abonnement au “_Code de la route_” via l’application mobile, les conditions de rétractation sont celles du store vous ayant permis de télécharger l’application.
 
-### 5.4. **Remboursement des leçons non réalisées et du Elearn hors délai de rétractation**
+### **5.4. Remboursement des leçons non réalisées et du Elearn hors délai de rétractation - Remboursement et recrédit des crédits CPF des leçons non réalisées et du Elearn hors délai de rétractation**
 
-#### 5.4.1. Les leçons de conduite
+_5.4.1. Les leçons de conduite_
 
 Au-delà du délai de rétractation de quatorze (14) jours, moyennant le paiement intégral des prestations déjà réalisées, les leçons de conduite non réalisées pourront être remboursées, qu’en cas de motifs légitimes (ci-après les « Motifs Légitimes »). Dans le cadre de ces Motifs Légitimes, l’adresse postale qui est utilisée pour le calcul de distance est la première adresse que Vous renseignez pour réserver votre première leçon de conduite. 
 
@@ -695,16 +1132,25 @@ Merci d’adresser vos demandes via le formulaire suivant : [https://aide.ornika
 
 Les leçons de conduite non réalisées postérieurement à l’obtention du permis de conduire ne pourront pas être remboursées, quel que soit le motif.
 
-‍
-
-#### 5.4.2. Le Elearn
+_5.4.2. Le Elearn_
 
 Concernant les vidéos de Elearn, celles-ci ne pourront être remboursées hors délai légal de rétractation compte tenu de la mise à disposition immédiate et illimitée du Service.
 
-ARTICLE 6.     Conditions financières
--------------------------------------
+‍
 
-### 6.1.        Prix
+_5.4.3 Les achats CPF_
+
+‍
+
+Pour les achats réalisés via le CPF vous êtes soumis à leurs conditions de recrédit qui sont accessibles sur leurs Conditions Générales d’Utilisation à l’adresse suivante : [https://www.of.moncompteformation.gouv.fr/conditions-generales-dutilisation](https://www.of.moncompteformation.gouv.fr/conditions-generales-dutilisation)
+
+‍
+
+**ARTICLE 6.     Conditions financières**
+-----------------------------------------
+
+**6.1.        Prix**
+--------------------
 
 Les prix affichés sur notre Site sont indiqués en euros, toutes taxes comprises. Ces tarifs tiennent compte de la TVA applicable au jour de la Commande. Le montant total dû est indiqué sur la page de confirmation de votre Commande. Le prix des Produits et des Services est celui en vigueur au jour de la Commande. Notre Société se réserve le droit de modifier ses prix à tout moment, tout en Vous garantissant l’application du prix du Produit et/ou du Service en vigueur au jour de la Commande.
 
@@ -712,18 +1158,19 @@ Les prix indiqués comprennent les frais de transport et de livraison sauf préc
 
 Tous les prix sont mentionnés dans l’Annexe 1 (Grille tarifaire).
 
-#### 6.1.1 Tarification par zone géographique
+_6.1.1 Tarification par zone géographique_
 
-Une tarification par zone géographique peut vous être appliquée, tel que détaillé en Annexe 1.
+Pour les achats non financés par le CPF, une tarification par zone géographique peut vous être appliquée, tel que détaillé en Annexe 1. 
 
-#### _6.1.2 Exécution de vos leçons de conduite en dehors de votre zone géographique_
+_6.1.2 Exécution de vos leçons de conduite en dehors de votre zone géographique_
 
-Si Vous avez acheté vos leçons de conduite pour une certaine zone géographique et que vous souhaitez les effectuer dans une zone ayant une tarification différente, deux situations se présentent à Vous :
+Pour les achats non financés par le CPF si Vous avez acheté vos leçons de conduite pour une certaine zone géographique et que vous souhaitez les effectuer dans une zone ayant une tarification différente, deux situations se présentent à Vous :
 
-* **Mise à niveau « à la hausse »** : Vous souhaitez conduire dans une zone géographique « plus chère » avec une leçon de conduite achetée dans une zone « moins chère ». Dans ce cas, si Vous réservez un créneau dans une zone « plus chère », Vous devrez accepter le paiement d’une majoration correspondant à la différence entre la valeur de vos heures de conduite et le prix (a minima) d’une heure de conduite sur la nouvelle zone, tel que définit en Annexe 1. Cette majoration pourra prendre la forme : soit d’un paiement de votre part de la différence tarifaire de ces heures de conduite, soit d’un nouvel achat d’heure(s) de conduite sur la nouvelle zone, suivi d’un remboursement du même nombre d’heure(s) sur l’ancienne zone, à condition que vous en ayez fait la demande expresse auprès de notre service client.**‍**
+* **Mise à niveau « à la hausse »** : Vous souhaitez conduire dans une zone géographique « plus chère » avec une leçon de conduite achetée dans une zone « moins chère ». Dans ce cas, si Vous réservez un créneau dans une zone « plus chère », Vous devrez accepter le paiement d’une majoration correspondant à la différence entre la valeur de vos heures de conduite et le prix (a minima) d’une heure de conduite sur la nouvelle zone, tel que définit en Annexe 1. Cette majoration pourra prendre la forme : soit d’un paiement de votre part de la différence tarifaire de ces heures de conduite, soit d’un nouvel achat d’heure(s) de conduite sur la nouvelle zone, suivi d’un remboursement du même nombre d’heure(s) sur l’ancienne zone, à condition que vous en ayez fait la demande expresse auprès de notre service client.
 * **Mise à niveau « à la baisse »** : Vous souhaitez conduire dans une zone géographique « moins chère » avec une leçon de conduite achetée dans une zone « plus chère », dans ce cas votre leçon est utilisable et Vous ne pourrez être remboursé de la différence.
 
-### 6.2 Offres Promotionnelles
+### **  
+6.2. Offres Promotionnelles en dehors des offres CPF**
 
 Notre Société se réserve la possibilité de proposer ponctuellement des offres promotionnelles sur ses Produits et/ou Services à l’égard de ses Clients.
 
@@ -731,43 +1178,53 @@ Toute offre promotionnelle sera soumise aux présentes CGV qui prévaudront en c
 
 Les conditions et informations relatives à ces offres promotionnelles sont disponibles sur le Site. Notre Société se réserve le droit de modifier à tout moment les termes des offres promotionnelles, proposer d’autres offres promotionnelles ponctuelles, ou de retirer ces dernières.
 
+‍
+
 Les offres promotionnelles ne sont pas cumulables entre elles, ne peuvent pas être échangées contre leur valeur monétaire ou être remboursées en partie ou dans leur totalité.
+
+‍
 
 Le prix applicable à une Commande est celui en vigueur au jour de l’achat. La parution d’offres promotionnelles postérieurement à cette date ne peut en aucun cas donner lieu à réclamation par les Clients ou annulation de leur Commande. 
 
+‍
+
 Certaines offres promotionnelles peuvent être conditionnées par la saisie d’un code qui devra être saisi par les Clients lors de la passation de leur Commande. Ces codes ne peuvent être utilisés qu’une seule fois par le Client pendant leur durée de validité.
 
-### 6.3.        Modalités de paiement
+‍
+
+###   
+**6.3.        Modalités de paiement en dehors des achats CPF**
 
 Notre Société s’appuie sur les dernières normes de sécurité et ne dispose à aucun moment de vos informations bancaires. Celles-ci sont collectées et traitées uniquement par le biais du service Dalenys Payment de notre partenaire bancaire, la société Rentabiliweb Europe, dans le respect de notre Politique de Confidentialité [**https://www.ornikar.com/a-propos/charte-de-confidentialite**](https://www.ornikar.com/a-propos/charte-de-confidentialite). Dalenys Payment est un établissement de paiement agréé par la Banque de France, membre du GIE Carte Bancaires et affilié au réseau BPCE Natixis. Le paiement sera réalisé conformément aux conditions générales applicables au service Dalenys Payment, accessibles à l’adresse suivante : [**https://www.dalenys.com/fr/**](https://www.dalenys.com/fr/).
 
-Le paiement pourra s’effectuer pour le paiement comptant en un seul versement.
+Le paiement pourra s’effectuer pour le paiement comptant en un seul versement.  
 
-**6.3.1 Paiement en plusieurs fois avec Alma**
+### **6.3.1 Paiement en plusieurs fois avec Alma** 
 
-_Paiement en deux ou trois fois sans frais_
+Paiement en deux ou trois fois sans frais
 
 Le paiement en plusieurs fois/différé est disponible via notre partenaire Alma. La sécurisation des paiements est assurée par Alma et ses prestataires. Tous les paiements sont protégés par le 3D Secure.
 
-Si les Clients souhaitent bénéficier de ces facilités de paiements, ils devront accepter les Conditions Générales d’Utilisation et la politique de confidentialité d’Alma.
+Si les Clients souhaitent bénéficier de ces facilités de paiements, ils devront accepter les Conditions Générales d’Utilisation et la politique de confidentialité d’Alma. 
 
-_Montant des achats_
+Montant des achats
 
 Paiement en deux et trois fois : Seuls les achats entre 50 € et 3 000 € sont éligibles au paiement avec Alma.  
+  
 
-_Frais_
+Frais
 
 En payant en plusieurs fois avec Alma, le Client ne paye pas de frais.
 
 Alma est gestionnaire de télépaiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil.
 
-_Résiliation_
+Résiliation
 
 Toute résiliation des présentes Conditions Générales de Vente, liant ORNIKAR et le Client, entraîne la résiliation des Conditions générales d’Utilisation entre Alma et le Client.
 
 La Commande sera effective après accord de votre centre de paiement bancaire. En cas de refus de ce dernier et à l’issue de six (6) tentatives de prélèvement restées infructueuses, l'accès à votre compte sera automatiquement rendu indisponible. Vous serez contacté dans les plus brefs délais (par ORNIKAR ou un tiers prestataire de recouvrement) afin de procéder à la régularisation de votre paiement. Dès que vous aurez régularisé votre situation, l'accès à votre Compte sera rétabli.
 
-_Paiement à crédit en dix fois_
+Paiement à crédit en dix fois
 
 Le paiement par crédit est disponible pour le règlement des achats des Clients via notre partenaire Alma, l'exécution du paiement est conditionnée à la signature du contrat de crédit proposé par Alma, à l’acceptation de leurs Conditions Générales d’Utilisation et de leur politique de confidentialité, ainsi qu’à la prise de connaissance du FIPEN ( fiche précontractuelle d'information emprunteur).
 
@@ -777,18 +1234,22 @@ Notre partenaire Alma propose une offre de financement par carte bancaire au TAE
   
 Cette offre de crédit est réservée aux Clients effectuant le paiement depuis la liste limitative de pays suivants : Autriche, Belgique, Allemagne, Espagne, France, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
-_Sécurité_
+Sécurité
 
-La sécurisation des paiements est assurée par Alma et ses prestataires. Tous les paiements sont protégés par le 3D Secure. Alma est gestionnaire de télépaiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil._‍_
+La sécurisation des paiements est assurée par Alma et ses prestataires. Tous les paiements sont protégés par le 3D Secure. Alma est gestionnaire de télépaiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil.
 
-_Litige - Réclamation_
+Litige - Réclamation
 
 Les réclamations concernant l’utilisation de ce mode de paiement doivent être envoyées prioritairement à notre partenaire ALMA par mail à l’adresse [\[email protected\]](https://www.ornikar.com/cdn-cgi/l/email-protection). 
 
+‍
+
 En cas de difficulté, le service de médiation de l’AFEPAME est disponible à l’adresse : [Médiation - AFEPAME](https://www.afepame.fr/mediation/).
 
-ARTICLE 7.     Livraisons
--------------------------
+‍
+
+**ARTICLE 7.     Livraisons**
+-----------------------------
 
 Les informations fournies lors de la Commande Vous engagent. En cas d’informations erronées entraînant l’impossibilité de livrer la Commande, Nous ne pourrons être tenus responsables. L’enregistrement automatique des données que Vous avez renseignées vaut preuve de la nature de la Commande, de sa date et de son prix. Les Produits disponibles sur notre Site ne sont livrés qu’en France métropolitaine et ses territoires d’Outre-Mer.
 
@@ -806,18 +1267,18 @@ Pour les défauts de conformité, Vous devez Nous indiquer dans le courrier les 
 
 Si le défaut de conformité est avéré, Vous obtiendrez le remplacement du Produit.
 
-ARTICLE 8.     Fourniture des Produits et exécution des Services
-----------------------------------------------------------------
+**ARTICLE 8.     Fourniture des Produits et exécution des Services**
+--------------------------------------------------------------------
 
-### 8.1. La formation au code de la route
+### **8.1. La formation au code de la route**
 
-Immédiatement après la Commande d’une des formules comprenant le « Code de la route », Vous aurez accès aux séries de questions avec leur correction (plus de 2000 questions), réparties en dix (10) thèmes conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme. A chaque question, Vous aurez la possibilité de poser une question pour Vous aider dans la compréhension de cette règle de sécurité routière, et un professionnel Vous répondra dans les plus brefs délais afin de Vous apporter les informations nécessaires.
+Immédiatement après la Commande d’une des formules comprenant le « Code de la route », Vous aurez accès aux séries de questions avec leur correction (plus de 1500 questions), réparties en dix (10) thèmes conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois modes d’évaluation des connaissances sont proposés : le mode entraînement, qui vous permet de vous entraîner à votre rythme, avec une réponse commentée à chaque fin de question, le mode examen, qui vous permet de vous entraîner dans les mêmes conditions que l’examen officiel, avec un temps limité par question, et enfin le mode thématique qui vous permet de vous entraîner par thème officiel du REMC pour les approfondir à son rythme. A chaque question, Vous aurez la possibilité de poser une question pour Vous aider dans la compréhension de cette règle de sécurité routière, et un professionnel Vous répondra dans les plus brefs délais afin de Vous apporter les informations nécessaires.
 
-### 8.2. La formation à la conduite
+### **8.2. La formation à la conduite**
 
 Pour les formules comprenant des leçons de conduite, en application de l’article L. 213-2 du code de la route, Vous serez invité à prendre connaissance et à lire attentivement le contrat de formation établi entre Vous et notre Société, régissant les conditions et les modalités de l'enseignement de la conduite et de la sécurité routière. Conformément à la législation applicable aux contrats conclus par voie électronique pour les ventes à distance, ce contrat de formation est réputé signé lorsque vous cochez la case « _Je comprends et j’accepte le contrat_ ». Vous ne pourrez continuer à accéder à votre Compte ou poursuivre votre formation tant que vous ne l’aurez pas accepté.
 
-### 8.3. La réservation d’une leçon de conduite
+### **8.3. La réservation d’une leçon de conduite**
 
 Lorsque Vous achetez un pack comprenant une (1) ou plusieurs leçons de conduite, votre Compte est crédité du nombre d’heures correspondantes. Ainsi, une (1) heure achetée est égale à un (1) heure créditée sur votre Compte.
 
@@ -831,7 +1292,7 @@ Les propositions de points de rencontre qui Vous sont faites sont fonction de vo
 
 La durée d’une leçon de conduite au volant ne peut excéder deux (2) heures consécutives, l’interruption entre deux (2) séances de conduite devant être au moins égale à la durée de la séance précédente.
 
-### 8.4. L’annulation d’une leçon de conduite
+### **8.4.        L’annulation d’une leçon de conduite**
 
 Réserver une leçon de conduite avec un Enseignant Vous engage. Si Vous ne pouvez pas respecter la date et l’horaire convenu, Vous devez en avertir l’Enseignant dans le respect des délais mentionnés dans le présent article (§3) (ci-après les « Conditions d’annulation ») et ce par l’intermédiaire du Site, en allant dans l’onglet « _Conduite_ » disponible sur votre Compte, puis en cliquant sur l’onglet « _Annuler la réservation_ » correspondant à la(les) heure(s) de conduite que Vous souhaitez annuler. Une fenêtre s’affichera pour Vous confirmer l’annulation de la réservation. Sous réserve du respect des Conditions d’annulation, votre Compte sera alors immédiatement recrédité d’autant de crédits que d’heures annulées, Vous permettant de procéder à une nouvelle réservation, le cas échéant.
 
@@ -841,15 +1302,16 @@ Toute leçon de conduite non annulée ou non modifiée sur le Site au minimum qu
 
 Notre Société et/ou l’Enseignant se réservent la possibilité d’annuler une leçon de conduite sans préavis en cas de motif légitime dûment justifié. Vous serez prévenu au plus tôt par tous les moyens mis à la disposition de Notre Société et notamment par e-mail à l’adresse mentionnée dans votre Compte. Dans ce cas, le(s) leçon(s) de conduite déjà réglées donneront lieu à un recrédit sur votre Compte.
 
-### 8.5. La leçon de conduite
+### **8.5.        La leçon de conduite**
 
 Durant la leçon de conduite, Vous vous engagez à suivre les indications et recommandations de l’Enseignant.
 
 Vous vous engagez à avoir un comportement approprié à l’égard de l’Enseignant et plus généralement à l’égard de tous les autres usagers de la route (automobilistes, piétons, etc.).
 
-Vous vous engagez à ne pas fumer à bord des véhicules écoles. De plus, Vous vous engagez, en amont de la leçon de conduite, à ne pas consommer ou avoir consommé toute boisson ou produit pouvant nuire à la conduite d’un véhicule, tel que, mais non exhaustivement : alcool, drogues, médicaments etc. Vous reconnaissez que, dans le cas échéant, l’Enseignant est en droit de refuser de vous fournir une leçon de conduite et qu’elle ne Vous sera pas remboursée par notre Société.
+Vous vous engagez à ne pas fumer à bord des véhicules écoles. De plus, Vous vous engagez, en amont de la leçon de conduite, à ne pas consommer ou avoir consommé toute boisson ou produit pouvant nuire à la conduite d’un véhicule, tel que, mais non exhaustivement : alcool, drogues, médicaments etc. Vous reconnaissez que, dans le cas échéant, l’Enseignant est en droit de refuser de vous fournir une leçon de conduite et qu’elle ne Vous sera pas remboursée par notre Société.  
+  
 
-### 8.6. Fin de la leçon de conduite
+### **8.6.        Fin de la leçon de conduite**
 
 A l’issue de la leçon de conduite, l’Enseignant Vous déposera au lieu de prise en charge ou tout autre lieu que Vous aurez convenu au préalable avec lui.
 
@@ -857,25 +1319,27 @@ A l’issue de la première leçon de conduite et toutes les 5 (cinq) heures, Vo
 
 ORNIKAR n’a référencé que des Enseignants de qualité disposant de toutes les autorisations requises, notamment titulaires du brevet pour l’exercice de la profession d’enseignant de la conduite automobile et de la sécurité routière (BEPECASER) et disposant de véhicules conformes à la réglementation en vigueur.
 
-Cependant, si Vous constatiez une quelconque anomalie au cours de votre leçon, nous Vous invitons à nous en faire part rapidement via le formulaire suivant: [https://aide.ornikar.com/hc/fr/requests/new](https://aide.ornikar.com/hc/fr/requests/new).
+Cependant, si Vous constatiez une quelconque anomalie au cours de votre leçon, nous Vous invitons à nous en faire part rapidement via le formulaire suivant: [https://aide.ornikar.com/hc/fr/requests/new](https://aide.ornikar.com/hc/fr/requests/new). 
 
-### 8.7. La mise à disposition permanente de votre Compte et de votre suivi de formation
+‍
+
+### **8.7.        La mise à disposition permanente de votre Compte et de votre suivi de formation**
 
 Vous pouvez retrouver sur votre Compte l’ensemble des éléments concernant votre profil et les leçons de conduite réalisées.
 
 En principe, à la fin de chaque séance, l’Enseignant indépendant établira un bilan de la séance afin de faire un suivi de formation sur votre livret d’apprentissage accessible sur le Site (onglet « _Conduite_ » et ensuite « _Mon Livret d’apprentissage_ »). Vous pourrez ainsi retrouver électroniquement votre suivi de formation.
 
-ARTICLE 9. Assurance
---------------------
+**ARTICLE 9.     Assurance**
+----------------------------
 
 ORNIKAR déclare être titulaire d’une police d’assurance souscrite auprès d’AXA FRANCE sous le numéro de police 6738711004 conformément à l’article L 211-1 du Code des Assurances.
 
 ORNIKAR n’a pas souscrit de garantie financière permettant le remboursement au Client des sommes trop perçues. Vous reconnaissez être informé de cette absence de garantie financière et l’accepter.
 
-ARTICLE 10.     **Conformité et garanties légales**
----------------------------------------------------
+**ARTICLE 10.     Conformité et garanties légales** 
+----------------------------------------------------
 
-### 10.1. Des Services
+### **10.1. Des Services**
 
 **La garantie “Satisfait ou remboursé”**
 
@@ -888,6 +1352,8 @@ Cette garantie est disponible aux conditions suivantes : 
 * En cas de validation par notre équipe support (voir conditions ci-dessous), Vous serez re-crédité d’une heure d’évaluation valable un (1) an pour un nouvel essai avec un autre enseignant
 * En cas d’insatisfaction (entrant dans les motifs d’insatisfaction listés ci-dessous) suite à ce second essai, Vous pourrez demander le remboursement des heures non consommées de Votre pack (la première heure sera notamment considérée comme consommée) en contactant le support à l’adresse e-mail mentionnée ci-dessus.
 
+‍
+
 Les motifs d’insatisfaction sont les suivants : 
 
 * Vous n’avez pas été évalué par Votre enseignant
@@ -896,9 +1362,7 @@ Les motifs d’insatisfaction sont les suivants : 
 
 Remarque : l’absence d’apprentissage suite à l’heure d’évaluation n’est pas un motif valide d’insatisfaction.  Cette heure n’est pas une leçon de conduite mais bien une heure d’évaluation permettant de Vous communiquer un nombre prévisionnel d’heures de formation et de Vous expliquer les prochaines étapes de votre apprentissage.
 
-‍
-
-### 10.2. Des Produits
+### **10.2. Des Produits**
 
 Tous les produits qui Vous sont livrés bénéficient de la garantie légale de conformité (articles L.211-1 et suivants du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil), conformément aux dispositions légales en vigueur.
 
@@ -934,8 +1398,8 @@ Article 1648 alinéa 1er du Code civil :
 
 Les réclamations faites au titre des garanties doivent être adressées à notre Société via le formulaire suivant [https://aide.ornikar.com/hc/fr/requests/new](https://aide.ornikar.com/hc/fr/requests/new) ou par courrier à l’adresse suivante : ORNIKAR, 170 Boulevard de la Villette 75019 Paris.
 
-ARTICLE 11. Responsabilité
---------------------------
+**ARTICLE 11.     Responsabilité**
+----------------------------------
 
 Dans toute la mesure autorisée par la loi et la jurisprudence applicable, la responsabilité de notre Société ne saurait être engagée :
 
@@ -947,67 +1411,70 @@ De plus, notre Société et les Enseignants sont des parties indépendantes.
   
 Les Enseignants sont des professionnels indépendants, agissant en leur nom et pour leur propre compte. Les Enseignants choisissent librement les modalités pratiques et organisationnelles selon lesquelles ils réalisent les leçons de conduite, sous réserve de les exécuter conformément aux règles de l’art et à la réglementation. Notre Société ne saurait donc être considérée comme employeur d’un Enseignant.
 
+‍
+
 En outre, conformément à l’article 1218 du Code civil, la responsabilité de notre Société ne saurait être engagée, d’une façon générale, dans tous les cas où l'inexécution ou la mauvaise exécution de ses prestations et/ou obligations résulterait d'un cas de force majeure ou cas fortuit indépendant de sa volonté.
 
 Enfin, les Parties ne pourront être tenues responsables d’éventuels préjudices indirects, c’est-à-dire ceux qui ne résultent pas directement et exclusivement de leur fait (à titre d’exemple, sans que cette liste ne soit exhaustive : la perte de chance, le manque à gagner, etc.).
 
-ARTICLE 12. Protection de vos données personnelles
---------------------------------------------------
+**ARTICLE 12.     Protection de vos données personnelles**
+----------------------------------------------------------
 
 Toute passation d’une Commande sur le Site suppose la collecte et le traitement de données à caractère personnel Vous concernant. La collecte et le traitement de vos données à caractère personnel, ainsi que les droits dont Vous disposez, sont explicités au sein de notre Politique de confidentialité [**https://www.ornikar.com/a-propos/charte-de-confidentialite**](https://www.ornikar.com/a-propos/charte-de-confidentialite).
 
-ARTICLE 13. Propriété intellectuelle
-------------------------------------
+**ARTICLE 13.     Propriété intellectuelle**
+--------------------------------------------
 
 Le Site et/ou tous les éléments se trouvant sur le Site (notamment textes, images, logos, photographies, etc.) sont protégés par les droits de propriété intellectuelle (y compris notamment tous droits d’auteur, droits sur les brevets, les marques, les dessins et modèles, les bases de données, les noms de domaine et tout autre droit de propriété intellectuelle existant ou futur, français et internationaux) et appartiennent à notre Société ou à des tiers nous ayant autorisé à les exploiter.
 
 L’utilisation du Site ne Vous confère en aucune façon un droit de propriété ou un droit de propriété intellectuelle sur le Site et/ou les éléments se trouvant sur le Site à l’exception d’un droit personnel d’accès, gratuit et non exclusif, limité exclusivement à l’utilisation du Site et des éléments se trouvant sur le Site conformément aux finalités définies par notre Société. Toute reproduction ou représentation totale ou partielle du Site ou de tout ou partie des éléments se trouvant sur le Site sans l’accord préalable écrit de notre Société constitue une violation des droits de propriété intellectuelle de notre Société et/ou des tiers concédants et est susceptible d’entraîner des poursuites civiles et pénales.
 
-ARTICLE 14. Droit applicable
-----------------------------
+**ARTICLE 14.     Droit applicable**
+------------------------------------
 
 Toute question relative aux présentes CGV ainsi qu'aux ventes qu'elles régissent, qui ne serait pas traitée par les présentes stipulations contractuelles, sera régie par la loi française à l'exclusion de tout autre droit.
 
-ARTICLE 15. Dispositions diverses
----------------------------------
+**ARTICLE 15.      Dispositions diverses**
+------------------------------------------
 
-### 15.1. Indépendance des clauses
+### **15.1.     Indépendance des clauses**
 
 Dans le cas où une ou plusieurs dispositions des CGV seraient tenues pour invalides ou déclarées comme telles en application d’une loi, d’un règlement ou à la suite d’une décision d’une juridiction compétente devenue définitive, les autres dispositions des CGV conserveraient néanmoins toute leur force et leur portée.
 
-### 15.2. Non renonciation
+### **15.2.     Non renonciation**
 
 Le défaut pour notre Société de se prévaloir, à un moment donné, de l’une quelconque des dispositions des CGV, ne saurait être interprété à l’avenir comme une renonciation aux droits qu’elle tient des présentes.
 
-### 15.3. Valeur des titres
+### **15.3.     Valeur des titres**
 
 Les titres et sous-titres des articles des CGV sont indiqués à titre de référence uniquement et ne sauraient limiter le champ d’application des articles correspondants.
 
-### 15.4. Archivage et convention de preuve
+### **15.4.     Archivage et convention de preuve**
 
 L’archivage des communications, des bons de commande et des factures, ou de tout autre fichier informatique Vous concernant, est effectué sur un support fiable et durable de manière à constituer une copie fidèle et durable conformément à l’article 1379 du Code civil. Sauf preuve contraire, les données enregistrées par notre Société constituent la preuve de l'ensemble des transactions.
 
-### 15.5.     Réclamations et médiations
+### **15.5.     Réclamations et médiations**
 
 Pour toute demande afférente à une Commande en cours ou aux CGV, Vous êtes invité à contacter notre Société via le formulaire [https://aide.ornikar.com/hc/fr/requests/new](https://aide.ornikar.com/hc/fr/requests/new)  ou par courrier, à l’adresse suivante : ORNIKAR, 170 Boulevard de la Villette 75019 Paris ou en prenant soin de préciser en rubrique "objet" la date et le numéro de la Commande en cause.
 
 L’[**Assistance candidats**](https://www.ornikar.com/a-propos/contact) d’ORNIKAR est la mieux placée pour répondre à vos questions et résoudre vos problèmes, nous vous invitons à les contacter en premier.
 
-‍  
-En cas de désaccord, conformément à l’article L. 612-1 du Code de la consommation, vous pouvez recourir gratuitement au service de médiation de la SAS CNPM - MÉDIATION – CONSOMMATION dont nous relevons. En cas de litige, le consommateur pourra déposer sa réclamation sur le site http://cnpm-mediation-consommation.eu ou par voie postale en écrivant à "CNPM MÉDIATION-CONSOMMATION" - 27, avenue de la Libération – 42400 SAINT-CHAMOND.
+  
+En cas de désaccord, conformément à l’article L. 612-1 du Code de la consommation, vous pouvez recourir gratuitement au service de médiation de la SAS CNPM - MÉDIATION – CONSOMMATION dont nous relevons. En cas de litige, le consommateur pourra déposer sa réclamation sur le site http://cnpm-mediation-consommation.eu ou par voie postale en écrivant à "CNPM MÉDIATION-CONSOMMATION" - 27, avenue de la Libération – 42400 SAINT-CHAMOND.  
+  
 
 Annexe 1 – Grille tarifaire
 ---------------------------
 
-![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/6654ab7cf797e72dba95c1c3_repricing-code-28-05-1.PNG)
+### Achats hors CPF
 
-![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/6654ab888b0203f75a423af2_repricing-code-28-05-2.PNG)
+Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 24) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit : [**télécharger la grille tarifaire avec les différentes zones**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66d56800191137864f162a8e_CGV%20Ornikar%20-%20Annexe%201%20-%20Grille%20tarifaire%20-%20Hors%20CPF%20(1).pdf).
 
-![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/6654ab9514d3be214b2ea82b_repricing-code-28-05-3.PNG)
+‍
 
-Une tarification différente peut vous être appliquée en fonction de la zone géographique (1 à 14) dans laquelle vous souhaitez effectuer vos leçons de conduite. Ces zones sont délimitées comme suit :
+### **Formules CPF**
 
-![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/65b7d468321d81a99834a4d8_zones-30-01-24.PNG)
+![](https://cdn.prod.website-files.com/6413856d54d41b5f298d5953/66b9ba92e0acf0da3eee1753_66b9ba74b5f05cb469753aac_Prix%2520formules%2520CPF.png)
 
 ‍
 
@@ -1039,7 +1506,9 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
-* [**Version applicable du 28 mai 2021 au 16 juin 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a85b5f02034320e24b_CGV_2024_05_28.pdf)
+* [**Version applicable du 1er aout 2024 au 1er septembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
+* [**Version applicable du 17 juin 2024 au 31 juillet 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66ab855b8c4f060acdbe28c6_CGV%201er%20aou%CC%82t%202024.pdf)
+* [**Version applicable du 28 mai 2024 au 16 juin 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a85b5f02034320e24b_CGV_2024_05_28.pdf)
 * [**Version applicable du 18 mars 2024 au 27 mai 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8268640a6cafe720b_CGV_2024_03_18.pdf)
 * [**Version applicable du 30 janvier 2024 au 17 mars 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a8e4d5e237b7eaa6e7_CGV_2024_01_30.pdf)
 * [**Version applicable du 15 novembre 2023 au 29 janvier 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/665732a811def3fe1600c51b_CGV_2023_11_15.pdf)
@@ -1176,13 +1645,21 @@ Une assurance transparente et personnalisable, dès 2,17€/mois seulement !
 
 Je découvre
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66a39acef1ce56d36f670e38_RETOUCHED_Key%20visuel%20femme%201%20house%20(1).png)](https://www.ornikar.com/assurance-habitation)[VOTRE CARTE GRISE EN MOINS DE 48H !
+
+Grâce à notre service partenaire.
+
+J'en profite
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66b0a4159f8ac3c146b28f9e_visuel%20carte%20grise.png)](https://certimat.fr/prescripteurs?partner=5361)
 
 ### A lire également
 
 Aucun article pour le moment
 
 Envie d'en savoir plus
+
+[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
 
 [Jeu concours Ornikar - JO Juillet 2024](https://www.ornikar.com/a-propos/promo-juillet-2024)
 
@@ -1320,4 +1797,4 @@ n° 20005380
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-juillet-2024)
+[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
