@@ -194,13 +194,14 @@ Message: \*
 
   \* Required Fields
 
-#### Links
+#### Company
 
 * [Contact Us](https://greenlightdepot.com/pages/contact-us)
 * [Privacy Policy](https://greenlightdepot.com/pages/privacy-policy)
 * [Refund Policy](https://greenlightdepot.com/pages/customer-warranty)
 * [Terms of Service](https://greenlightdepot.com/pages/terms-of-service)
 * [Track My Order](https://greenlightdepot.com/pages/track-my-order)
+* [Blogs](https://7j691vn640nhsajo-9318152.shopifypreview.com/blogs/news)
 
 #### Support
 
