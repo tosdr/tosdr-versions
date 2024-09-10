@@ -297,6 +297,6 @@ Company
 
 © 2024 Shortcut Software Company
 
-[](https://github.com/useshortcut)[](https://twitter.com/shortcut)[](https://discord.gg/invite/shortcut-community-887801174496006216)[](https://www.linkedin.com/company/shortcutsoftware/)
+[](https://github.com/useshortcut)[](https://twitter.com/shortcut)[![](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/66bcc3676158f66767ea0cbd_slack-footer-icon.svg)](https://shortcut.com/join-slack)[](https://www.linkedin.com/company/shortcutsoftware/)
 
 [Privacy Policy](https://shortcut.com/privacy)[Terms Of Use](https://shortcut.com/terms)[Security](https://shortcut.com/security)[Manage Cookies](#)
