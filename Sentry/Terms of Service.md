@@ -42,7 +42,6 @@ This app works best with JavaScript enabled.
     
     ### Features
     
-    * [Metrics](https://sentry.io/features/metrics/)
     * [Dashboards](https://sentry.io/features/dashboards/)
     * [Cross-project Issues](https://sentry.io/features/cross-project-issues/)
     * [Stack Traces](https://sentry.io/features/stacktrace/)
