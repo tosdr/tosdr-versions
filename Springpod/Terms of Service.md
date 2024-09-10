@@ -1,12 +1,12 @@
 [For schools](https://partners.springpod.co.uk/schools/how-it-works)[For colleges](https://partners.springpod.co.uk/colleges/how-it-works)[For universities](https://partners.springpod.co.uk/universities/how-it-works)[For employers](https://partners.springpod.co.uk/employers/how-it-works)
 
-![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d990ccf4eecc536140c7d3_icon-menu-white.svg)
+![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d990ccf4eecc536140c7d3_icon-menu-white.svg)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d9907b0bc7ea3f748a3a2b_5fd8b08d8fb175d1831d3b1a_Springpod-logo-for-web.png)](https://www.springpod.co.uk/)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d9907b0bc7ea3f748a3a2b_5fd8b08d8fb175d1831d3b1a_Springpod-logo-for-web.png)](https://www.springpod.co.uk/)
 
 [Legal Hub](https://legal.springpod.com/)[Main site](http://www.springpod.co.uk/)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/633d6287bbfd59b4e68a923d_Springpod%20logo%20-%20no%20R%20mark.svg)](https://www.springpod.co.uk/)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6287bbfd59b4e68a923d_Springpod%20logo%20-%20no%20R%20mark.svg)](https://www.springpod.co.uk/)
 
 [Main site](https://springpod.co.uk/)
 
@@ -37,7 +37,7 @@ For full T&Cs and information about how we use your data, go to [legal.springpod
   
 For more information about how we use your data and the rights you have over it, see our [privacy notice](https://legal.springpod.com/privacy-policy). Promoted by The Education Hub Group Limited, trading as Springpod. Unit 5 Lloyds Wharf, Mill Street, London.  SE1 2BD
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
 
 #### Legal
 
@@ -51,13 +51,13 @@ For more information about how we use your data and the rights you have over it,
 
 [Our Team](https://partners.springpod.co.uk/about/team)[Contact Us](https://partners.springpod.co.uk/about/contact)[Partnerships](https://partners.springpod.co.uk/)
 
-[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c774ad3af48c_social-linkedin-white.svg)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c774ad3af48c_social-linkedin-white.svg)
 
-Linkedin](https://www.linkedin.com/company/springpod)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c77b1f3af48d_social-instagram-white.svg)
+Linkedin](https://www.linkedin.com/company/springpod)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c77b1f3af48d_social-instagram-white.svg)
 
-Instagram](https://www.instagram.com/springpod/)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c76de93af48f_Twitter_Social_Icon_Circle_White.svg)
+Instagram](https://www.instagram.com/springpod/)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c76de93af48f_Twitter_Social_Icon_Circle_White.svg)
 
-Twitter](https://twitter.com/springpod)[![](https://assets-global.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c7621b3af48b_social-facebook-white.svg)
+Twitter](https://twitter.com/springpod)[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/60d992a46b19c7621b3af48b_social-facebook-white.svg)
 
 Facebook](https://www.facebook.com/springpod/)
 
