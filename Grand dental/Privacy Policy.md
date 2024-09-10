@@ -54,17 +54,16 @@
         * [Teeth Whitening](https://www.granddentallockport.com/teeth-whitening.html "Teeth Whitening")
         * [Metal-Free Restorations](https://www.granddentallockport.com/metal-free-restorations.html "Metal-Free Restorations")
         * [Veneers](https://www.granddentallockport.com/veneers.html "Veneers")
-    * [I Want a Straighter Smile](https://www.granddentallockport.com/orthodontics.html "Orthodontics")
-        * [Clear Aligners](https://www.granddentallockport.com/clear-aligner.html "Clear Aligners")
-            * [Invisalign Promotion](https://www.granddentallockport.com/invisalign-promotion.html)
-            * [Clear Aligners for Teens](https://www.granddentallockport.com/clear-aligners-for-teens.html "Clear Aligners for Teens")
-        * [Traditional Braces](https://www.granddentallockport.com/traditional-braces.html "traditional braces")
-        * [Phase 1 Orthodontics](https://www.granddentallockport.com/phase-1-orthodontics.html "phase 1 orthodontics")
     * [I am Concerned About Gum Disease](https://www.granddentallockport.com/gum-disease-treatment.html "Periodontal Therapy")
         * [Soft Tissue Laser Dentistry](https://www.granddentallockport.com/soft-tissue-laser-dentistry.html "Soft Tissue Laser Dentistry")
         * [Scaling and Root Planing](https://www.granddentallockport.com/scaling-and-root-planing.html "Scaling and Root Planing")
     * [I Have Dental Anxiety](https://www.granddentallockport.com/sedation-dentistry.html "Sedation Dentistry")
     * [I Want to Learn About Sleep Apnea](https://www.granddentallockport.com/sleep-apnea-treatment.html "Sleep Apnea Therapy")
+* [Orthodontics](https://www.granddentallockport.com/orthodontics.html "Orthodontics")
+    * [Clear Aligners](https://www.granddentallockport.com/clear-aligner.html "Clear Aligners")
+        * [Clear Aligners for Teens](https://www.granddentallockport.com/clear-aligners-for-teens.html "Clear Aligners for Teens")
+    * [Traditional Braces](https://www.granddentallockport.com/traditional-braces.html "traditional braces")
+    * [Phase 1 Orthodontics](https://www.granddentallockport.com/phase-1-orthodontics.html "phase 1 orthodontics")
 * [Patients](https://www.granddentallockport.com/patients.html "New Patients")
     * [Patient Info](https://www.granddentallockport.com/patients.html "Patient Info")
     * [Special Offers](https://www.granddentallockport.com/offers-promotions.html "Special Offers")
@@ -75,7 +74,7 @@
     * [Aetna Dentist](https://www.granddentallockport.com/aetna-dentist.html "Aetna Insurance")
 * [Contact](https://www.granddentallockport.com/contact.html "Contact Us")
 
- [![Patient Info](assets/images/patient-forms.png)](https://patientregistration.denticon.com/?P=4171&O=106&regPatID=0)[![Book Now](https://storage.googleapis.com/nexassets/embed-button/button-primary.svg)](https://app.nexhealth.com/appt/grand_dental_group?lid=24055)
+[Patient Forms](https://patientregistration.denticon.com/?P=4171&O=106&regPatID=0) [![Book Now](https://storage.googleapis.com/nexassets/embed-button/button-primary.svg)](https://app.nexhealth.com/appt/grand_dental_group?lid=24055)
 
 Privacy Policy
 ==============
@@ -161,7 +160,7 @@ Lockport, IL 60441](https://goo.gl/maps/ftvZm96Zyx3T56Tw5)
 Office Hours Monday 8:00 am - 5:00 pm  
 Tuesday 8:30 am - 6:00 pm  
 Wednesday 8:00 am - 3:00 pm  
-Thursday 8:30 am - 6:00 pm  
+Thursday 9:00 am - 6:00 pm  
 Friday 9:00 am - 2:00 pm  
 Saturday 7:30 am - 1:00 pm
 
