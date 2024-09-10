@@ -102,25 +102,25 @@ Mobile Navigation
     
     Current
     
-    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+    [![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
-    [July 2024
+    [September 2024
     
-    Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+    Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
     
-    Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
+    It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
     
     [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
     
     Recent
+    
+    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
     [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
     
     [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
     
     [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
-    
-    [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
     
     [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
     
@@ -295,6 +295,8 @@ Psychology Today is a service mark of Sussex Publishers, LLC. The Therapy Direct
 
 Recent Issues
 
+[![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
+
 [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
 [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
@@ -304,8 +306,6 @@ Recent Issues
 [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
 
 [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
-
-[![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
 
 [Subscribe Today](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
 
@@ -346,18 +346,18 @@ Find a Therapist
 * [Sign Up](https://join.psychologytoday.com/us/signup)
 
 * United States
-* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Relationship Issues Therapist in Austin, TX")
-* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Relationship Issues Therapist in Brooklyn, NY")
-* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Relationship Issues Therapist in Chicago, IL")
-* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Relationship Issues Therapist in Denver, CO")
-* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Relationship Issues Therapist in Houston, TX")
-* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Relationship Issues Therapist in Los Angeles, CA")
-* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Relationship Issues Therapist in New York, NY")
-* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Relationship Issues Therapist in Portland, OR")
-* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Relationship Issues Therapist in San Diego, CA")
-* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Relationship Issues Therapist in San Francisco, CA")
-* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Relationship Issues Therapist in Seattle, WA")
-* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Relationship Issues Therapist in Washington, DC")
+* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Therapist in Austin, TX")
+* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Therapist in Brooklyn, NY")
+* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Therapist in Chicago, IL")
+* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Therapist in Denver, CO")
+* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Therapist in Houston, TX")
+* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Therapist in Los Angeles, CA")
+* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Therapist in New York, NY")
+* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Therapist in Portland, OR")
+* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Therapist in San Diego, CA")
+* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Therapist in San Francisco, CA")
+* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Therapist in Seattle, WA")
+* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Therapist in Washington, DC")
 
 Back
 
@@ -425,13 +425,13 @@ Back
 
 Magazine
 
-[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+[![September 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-08/2024-09.png.jpg?itok=f_Oawcrq "Diagnosed in Adulthood")](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
-[July 2024
+[September 2024
 
-Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+Diagnosed in Adulthood](https://www.psychologytoday.com/us/magazine/archive/2024/09 "September 2024")
 
-Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
+It’s increasingly common for someone to be diagnosed with a condition such as ADHD or autism as an adult. A diagnosis often brings relief, but it can also come with as many questions as answers.
 
 [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine") [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
 
