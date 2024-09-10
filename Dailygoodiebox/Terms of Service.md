@@ -230,7 +230,7 @@ Copyright © 2024
 
 [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-facebook.svg)](https://www.facebook.com/DailyGoodieBox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-instagram.svg)](https://www.instagram.com/thedailygoodiebox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-twitter.svg)](https://twitter.com/DailyGoodieBox)
 
-* [About Us](https://dailygoodiebox.com/about)
+* [Who We Are](https://luxeads.com/)
 * [Box Reviews](https://dailygoodiebox.com/reviews/box)
 * [Product Reviews](https://dailygoodiebox.com/reviews/products)
 * [Photo Gallery](https://dailygoodiebox.com/gallery)
