@@ -20,9 +20,9 @@ Terms of Service
 **Terms of Service**
 --------------------
 
-Date of Last Update: May 30 2024
+Date of Last Update: 11 June 2024
 
-Getverify LDA (“Getcontact”, “our,” “we,” or “us”) aims to provide a seamless communication channel driven by the power of mobile identity and verification services. As Getcontact we offer real-time chat for sending text messages and media, VoIP calling, community forums and integrated caller ID service for the active blocking of spam and unwanted calls with the ability to integrate your social media profile and search contacts within our directory as well as channel service that allows the Getcontact users to share text, audio recordings, photos, videos and locations to Getcontact users who join the channel. 
+Getverify LDA (“Getcontact”, “our,” “we,” or “us”) aims to provide a seamless communication channel driven by the power of mobile identity and verification services. As Getcontact we offer real-time chat for sending text messages and media, video calling, VoIP calling, community forums and integrated caller ID service for the active blocking of spam and unwanted calls with the ability to integrate your social media profile and search contacts within our directory as well as channel service that allows the Getcontact users to share text, audio recordings, photos, videos and locations to Getcontact users who join the channel. 
 
 This contract and all its provisions are in English. This Agreement and all of its provisions may be translated into any language other than English, provided that the English text prevails in the event of any execution, interpretation, controversy or judgment.
 
@@ -127,7 +127,7 @@ Any fraudulent, abusive, or otherwise illegal activity, or violation of our Code
 * Respect the intellectual property rights of Getcontact Users, including by not recording, reproducing, sharing, communicating to the public or otherwise distributing their content without authorization.
 * Do not provide false account registration information or make unauthorized use of anyone else's information or Content.
 * Do not transmit, stream, or otherwise send any pre-recorded audio or video material during a live stream or otherwise attempt to pass off recorded material as a live stream.
-* Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used to provide our Services;
+* Do not record video calls, and do not share, transfer, or send them to any third parties in any manner. Reverse engineer, decompile, disassemble, decipher or otherwise attempt to derive the source code for any underlying intellectual property used to provide our Services;
 * Adapt, modify or create derivative works based on the Services or any underlying technology;
 * Remove any copyright, trademark or other proprietary rights notices contained in or on our Services;
 * Collect, use, copy, sell, distribute or transfer any information, including, but not limited to, Personally Identifiable Information obtained our Services except as expressly permitted in the Terms or as the owner of such information may expressly permit;
