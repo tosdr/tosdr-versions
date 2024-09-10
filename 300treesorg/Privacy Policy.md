@@ -10,7 +10,6 @@ Main Menu
     * [Neighborhood](https://300trees.org/neighborhood/)
     * [City](https://300trees.org/city/)
     * [Partners](https://300trees.org/partners/)
-    * [Volunteer](https://300trees.org/home/volunteer/)
 * [Tree care](https://300trees.org/tree-care/)
 * [Donate](https://300trees.org/donate/)
 * [Contact](https://300trees.org/contact/)
@@ -36,6 +35,14 @@ That’s it!
 * [\[email protected\]](https://300trees.org/cdn-cgi/l/email-protection)
 * [Facebook](https://www.facebook.com/300trees-108347964072247)
 * [Instagram](https://www.instagram.com/300treesbellevue/)
+* EIN: 93-2302995
+* Mailing Address
+
+PO Box 379  
+12819 38th Street  
+Bellevue WA 98006  
+
+* EIN: 93-2302995
 
 #### Links
 
