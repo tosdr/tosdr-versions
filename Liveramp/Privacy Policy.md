@@ -54,13 +54,13 @@
         
         Learn about our on-demand training, and custom education sessions for LiveRamp products.](https://liveramp.uk/liveramp-university/ "LiveRamp University")
     
-    * [![](https://liveramp.uk/wp-content/uploads/2024/02/Tile-–-Advertiser-Action-Plan-–-300x300-2.png)
+    * [![](https://liveramp.uk/wp-content/uploads/2024/07/UK_GCP-AI-Partner-eBook-Promo-Assets-–-490x415-1-e1708636222896-copy.png)
         
         EBOOK
         
-        ### Advertiser Action Plan: How to Navigate the Post-Cookie Era
+        ### Maximise Value With AI; 5 Ways For Retailers and Consumer Brands
         
-        Download Now](https://liveramp.uk/lp/eb/reg-advertiser-action-plan-cookieless/)
+        Download Now](https://liveramp.uk/lp/eb/5-ways-retailers-brands-maximise-value-ai-eb-registration/)
     
 * [Partners](https://liveramp.uk/partners/)
 * Company
@@ -96,7 +96,7 @@ Toogle search bar
     * [![](https://liveramp.uk/wp-content/uploads/2021/11/flag-italy.jpg)IT](https://liveramp.it/)
     * [![](https://liveramp.uk/wp-content/uploads/2021/11/flag-japan.jpg)JP](https://liveramp.co.jp/)
 
-* [Login](https://connect.liveramp.uk/login)
+* [Login](https://connect.liveramp.com/login)
 * [Talk to an Expert](https://liveramp.uk/contact/)
 
 Privacy Policy
@@ -161,8 +161,8 @@ Solutions
 * [Data & Analytics](https://liveramp.uk/data-and-analytics/)
 * [Privacy & Legal Compliance](https://liveramp.uk/privacy-legal-compliance/)
 * [Information Security](https://liveramp.uk/information-security/)
-* [Developers](https://liveramp.uk/developers/)
 * [Media & Advertising](https://liveramp.uk/media-advertising/)
+* [Developers](https://liveramp.uk/developers/)
 * [Retail](https://liveramp.uk/retail/)
 * [CPG](https://liveramp.uk/data-connectivity-cpgs/)
 * [Tech Platforms](https://liveramp.uk/marketing-technology-platforms/)
