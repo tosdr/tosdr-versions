@@ -71,8 +71,8 @@ Navigation
 ----------
 
 1. [Academics](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "Academics (Main Navigation)")
-2. [Research](https://www.rwth-aachen.de/cms/root/~eev/Forschung/lidx/1/ "Research (Main Navigation)")
-3. [Corporate Relations](https://www.rwth-aachen.de/cms/root/~eew/Wirtschaft/lidx/1/ "Corporate Relations (Main Navigation)")
+2. [Research](https://www.rwth-aachen.de/cms/root/~eev/forschung/lidx/1/ "Research (Main Navigation)")
+3. [Corporate Relations](https://www.rwth-aachen.de/cms/root/~eew/wirtschaft/lidx/1/ "Corporate Relations (Main Navigation)")
 4. [About RWTH](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "About RWTH (Main Navigation)")
 
 ### Academics
@@ -132,98 +132,97 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "To P
 
 ### Research
 
-_[To Portal Page](https://www.rwth-aachen.de/cms/root/~eev/Forschung/lidx/1/ "To Portal Page (Research)")_
+_[To Portal Page](https://www.rwth-aachen.de/cms/root/~eev/forschung/lidx/1/ "To Portal Page (Research)")_
 
-#### [News](https://www.rwth-aachen.de/cms/root/Forschung/~ogu/Aktuell/lidx/1/ "Research > News")
+#### [News](https://www.rwth-aachen.de/cms/root/forschung/~ogu/Aktuell/lidx/1/ "Research > News")
 
-* [Research News](https://www.rwth-aachen.de/cms/root/Forschung/Aktuell/~cfwl/Meldungen/lidx/1/ "Research > News > Research News")
-* [Events](https://www.rwth-aachen.de/cms/root/Forschung/Aktuell/~bxdr/Veranstaltungen/lidx/1/ "Research > News > Events")
+* [Research News](https://www.rwth-aachen.de/cms/root/forschung/Aktuell/~cfwl/Meldungen/lidx/1/ "Research > News > Research News")
+* [Events](https://www.rwth-aachen.de/cms/root/forschung/Aktuell/~bxdr/Veranstaltungen/lidx/1/ "Research > News > Events")
 
-#### [Projects](https://www.rwth-aachen.de/cms/root/Forschung/~lskl/Projekte/lidx/1/ "Research > Projects")
+#### [Projects](https://www.rwth-aachen.de/cms/root/forschung/~lskl/Projekte/lidx/1/ "Research > Projects")
 
-* [Clusters of Excellence](https://www.rwth-aachen.de/cms/root/Forschung/Projekte/~ohg/Exzellenzcluster/lidx/1/ "Research > Projects > Clusters of Excellence")
-* [DFG Programs](https://www.rwth-aachen.de/cms/root/Forschung/Projekte/~oho/Koordinierte-DFG-Programme/lidx/1/ "Research > Projects > DFG Programs")
-* [Structured Doctoral Programs](https://www.rwth-aachen.de/cms/root/Forschung/Projekte/~ohl/Graduiertenschulen-und-kollegs/lidx/1/ "Research > Projects > Structured Doctoral Programs")
-* [ERC Projects](https://www.rwth-aachen.de/cms/root/Forschung/Projekte/~gmka/ERC-Projekte/lidx/1/ "Research > Projects > ERC Projects")
-* [Funding Programs for Junior Research Groups](https://www.rwth-aachen.de/cms/root/Forschung/Projekte/~lslb/Nachwuchsgruppen-foerderprogramme/lidx/1/ "Research > Projects > Funding Programs for Junior Research Groups")
-* [More ...](https://www.rwth-aachen.de/cms/root/Forschung/~lskl/Projekte/lidx/1/ "Research > Projects > More ...")
+* [Clusters of Excellence](https://www.rwth-aachen.de/cms/root/forschung/Projekte/~ohg/Exzellenzcluster/lidx/1/ "Research > Projects > Clusters of Excellence")
+* [DFG Programs](https://www.rwth-aachen.de/cms/root/forschung/Projekte/~oho/Koordinierte-DFG-Programme/lidx/1/ "Research > Projects > DFG Programs")
+* [Structured Doctoral Programs](https://www.rwth-aachen.de/cms/root/forschung/Projekte/~ohl/Graduiertenschulen-und-kollegs/lidx/1/ "Research > Projects > Structured Doctoral Programs")
+* [ERC Projects](https://www.rwth-aachen.de/cms/root/forschung/Projekte/~gmka/ERC-Projekte/lidx/1/ "Research > Projects > ERC Projects")
+* [Funding Programs for Junior Research Groups](https://www.rwth-aachen.de/cms/root/forschung/Projekte/~lslb/Nachwuchsgruppen-foerderprogramme/lidx/1/ "Research > Projects > Funding Programs for Junior Research Groups")
+* [More ...](https://www.rwth-aachen.de/cms/root/forschung/~lskl/Projekte/lidx/1/ "Research > Projects > More ...")
 
-#### [Structures](https://www.rwth-aachen.de/cms/root/Forschung/~lskm/Strukturen/lidx/1/ "Research > Structures")
+#### [Structures](https://www.rwth-aachen.de/cms/root/forschung/~lskm/Strukturen/lidx/1/ "Research > Structures")
 
-* [Faculties](https://www.rwth-aachen.de/cms/root/Forschung/Strukturen/~oha/Fakultaeten/lidx/1/ "Research > Structures > Faculties")
-* [JARA](https://www.rwth-aachen.de/cms/root/Forschung/Strukturen/~ohe/JARA/lidx/1/ "Research > Structures > JARA")
-* [RWTH Profile Areas](https://www.rwth-aachen.de/cms/root/Forschung/Strukturen/~ptz/Profilbereiche/lidx/1/ "Research > Structures > RWTH Profile Areas")
-* [Project Houses](https://www.rwth-aachen.de/cms/root/Forschung/Strukturen/~ohk/Projekthaeuser/lidx/1/ "Research > Structures > Project Houses")
-* [Interdisciplinary Research Partnerships](https://www.rwth-aachen.de/cms/root/Forschung/Strukturen/~tbb/Interdisziplinaere-Forschungsverbuende/lidx/1/ "Research > Structures > Interdisciplinary Research Partnerships")
-* [More ...](https://www.rwth-aachen.de/cms/root/Forschung/~lskm/Strukturen/lidx/1/ "Research > Structures > More ...")
+* [Faculties](https://www.rwth-aachen.de/cms/root/forschung/Strukturen/~oha/Fakultaeten/lidx/1/ "Research > Structures > Faculties")
+* [JARA](https://www.rwth-aachen.de/cms/root/forschung/Strukturen/~ohe/JARA/lidx/1/ "Research > Structures > JARA")
+* [RWTH Profile Areas](https://www.rwth-aachen.de/cms/root/forschung/Strukturen/~ptz/Profilbereiche/lidx/1/ "Research > Structures > RWTH Profile Areas")
+* [Project Houses](https://www.rwth-aachen.de/cms/root/forschung/Strukturen/~ohk/Projekthaeuser/lidx/1/ "Research > Structures > Project Houses")
+* [Interdisciplinary Research Partnerships](https://www.rwth-aachen.de/cms/root/forschung/Strukturen/~tbb/Interdisziplinaere-Forschungsverbuende/lidx/1/ "Research > Structures > Interdisciplinary Research Partnerships")
+* [More ...](https://www.rwth-aachen.de/cms/root/forschung/~lskm/Strukturen/lidx/1/ "Research > Structures > More ...")
 
-#### [Services for Researchers](https://www.rwth-aachen.de/cms/root/Forschung/~lskn/Angebote-fuer-Forschende/lidx/1/ "Research > Services for Researchers")
+#### [Services for Researchers](https://www.rwth-aachen.de/cms/root/forschung/~lskn/Angebote-fuer-Forschende/lidx/1/ "Research > Services for Researchers")
 
-* [Why Research at RWTH Aachen University?](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohp/Warum-die-RWTH-/lidx/1/ "Research > Services for Researchers > Why Research at RWTH Aachen University?")
-* [RWTH Aachen Welcomes You](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~luxe/Die-RWTH-heisst-Sie-willkommen/lidx/1/ "Research > Services for Researchers > RWTH Aachen Welcomes You")
-* [RWTH Center for Young Academics](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~psbp/RWTH-Center-for-Young-Academics/lidx/1/ "Research > Services for Researchers > RWTH Center for Young Academics")
-* [Exploratory Research Space – ERS](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/lidx/1/ "Research > Services for Researchers > Exploratory Research Space – ERS")
-* [Third Party Funding](https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/~oia/Forschungsfoerderung/lidx/1/ "Research > Services for Researchers > Third Party Funding")
-* [More ...](https://www.rwth-aachen.de/cms/root/Forschung/~lskn/Angebote-fuer-Forschende/lidx/1/ "Research > Services for Researchers > More ...")
+* [Why Research at RWTH Aachen University?](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~ohp/Warum-die-RWTH-/lidx/1/ "Research > Services for Researchers > Why Research at RWTH Aachen University?")
+* [RWTH Aachen Welcomes You](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~luxe/Die-RWTH-heisst-Sie-willkommen/lidx/1/ "Research > Services for Researchers > RWTH Aachen Welcomes You")
+* [RWTH Center for Young Academics](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~psbp/RWTH-Center-for-Young-Academics/lidx/1/ "Research > Services for Researchers > RWTH Center for Young Academics")
+* [Exploratory Research Space – ERS](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~ohy/ERS-Angebote/lidx/1/ "Research > Services for Researchers > Exploratory Research Space – ERS")
+* [Third Party Funding](https://www.rwth-aachen.de/cms/root/forschung/Angebote-fuer-Forschende/~oia/Forschungsfoerderung/lidx/1/ "Research > Services for Researchers > Third Party Funding")
+* [More ...](https://www.rwth-aachen.de/cms/root/forschung/~lskn/Angebote-fuer-Forschende/lidx/1/ "Research > Services for Researchers > More ...")
 
-#### [Research Data Management](https://www.rwth-aachen.de/cms/root/Forschung/~lnaw/Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management")
+#### [Research Data Management](https://www.rwth-aachen.de/cms/root/forschung/~lnaw/Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management")
 
-* [RDM Network](https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~revpm/FDM-Netzwerk/lidx/1/ "Research > Research Data Management > RDM Network")
-* [News](https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~vfgd/Blog/lidx/1/ "Research > Research Data Management > News")
-* [Events](https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~zlfjb/Veranstaltungen/lidx/1/ "Research > Research Data Management > Events")
-* [NRW Research Data Day](https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~bdrhpj/Tag-der-Forschungsdaten-in-NRW/lidx/1/ "Research > Research Data Management > NRW Research Data Day")
-* [RWTH Aachen Research Data Management Guidelines](https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > RWTH Aachen Research Data Management Guidelines")
-* [More ...](https://www.rwth-aachen.de/cms/root/Forschung/~lnaw/Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > More ...")
+* [RDM Network](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~revpm/FDM-Netzwerk/lidx/1/ "Research > Research Data Management > RDM Network")
+* [News](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~vfgd/Blog/lidx/1/ "Research > Research Data Management > News")
+* [Events](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~zlfjb/Veranstaltungen/lidx/1/ "Research > Research Data Management > Events")
+* [NRW Research Data Day](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~bdrhpj/Tag-der-Forschungsdaten-in-NRW/lidx/1/ "Research > Research Data Management > NRW Research Data Day")
+* [RWTH Aachen Research Data Management Guidelines](https://www.rwth-aachen.de/cms/root/forschung/Forschungsdatenmanagement/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > RWTH Aachen Research Data Management Guidelines")
+* [More ...](https://www.rwth-aachen.de/cms/root/forschung/~lnaw/Forschungsdatenmanagement/lidx/1/ "Research > Research Data Management > More ...")
 
 [Close](#)
 
 ### Corporate Relations
 
-_[To Portal Page](https://www.rwth-aachen.de/cms/root/~eew/Wirtschaft/lidx/1/ "To Portal Page (Corporate Relations)")_
+_[To Portal Page](https://www.rwth-aachen.de/cms/root/~eew/wirtschaft/lidx/1/ "To Portal Page (Corporate Relations)")_
 
-#### [News](https://www.rwth-aachen.de/cms/root/Wirtschaft/~eko/Aktuell/lidx/1/ "Corporate Relations > News")
+#### [News](https://www.rwth-aachen.de/cms/root/wirtschaft/~eko/Aktuell/lidx/1/ "Corporate Relations > News")
 
-* [Announcements](https://www.rwth-aachen.de/cms/root/Wirtschaft/Aktuell/~cgch/Meldungen/lidx/1/ "Corporate Relations > News > Announcements")
-* [Events](https://www.rwth-aachen.de/cms/root/Wirtschaft/Aktuell/~cgcj/Veranstaltungen/lidx/1/ "Corporate Relations > News > Events")
+* [Announcements](https://www.rwth-aachen.de/cms/root/wirtschaft/Aktuell/~cgch/Meldungen/lidx/1/ "Corporate Relations > News > Announcements")
+* [Events](https://www.rwth-aachen.de/cms/root/wirtschaft/Aktuell/~cgcj/Veranstaltungen/lidx/1/ "Corporate Relations > News > Events")
 
-#### [Collaborations](https://www.rwth-aachen.de/cms/root/Wirtschaft/~ekp/Kooperation/lidx/1/ "Corporate Relations > Collaborations")
+#### [Collaborations](https://www.rwth-aachen.de/cms/root/wirtschaft/~ekp/Kooperation/lidx/1/ "Corporate Relations > Collaborations")
 
-* [Why Collaborate?](https://www.rwth-aachen.de/cms/root/Wirtschaft/Kooperation/~bjyb/Warum-kooperieren-/lidx/1/ "Corporate Relations > Collaborations > Why Collaborate?")
-* [Collaboration Opportunities](https://www.rwth-aachen.de/cms/root/Wirtschaft/Kooperation/~bkae/Kooperationsangebote/lidx/1/ "Corporate Relations > Collaborations > Collaboration Opportunities")
-* [Patent Valorization, Research & Development, and Technology Solutions](https://www.rwth-aachen.de/cms/root/Wirtschaft/Kooperation/~sfnr/Patentvewertung-Entwicklung-und-Technol/lidx/1/ "Corporate Relations > Collaborations > Patent Valorization, Research & Development, and Technology Solutions")
+* [Why Collaborate?](https://www.rwth-aachen.de/cms/root/wirtschaft/Kooperation/~bjyb/Warum-kooperieren-/lidx/1/ "Corporate Relations > Collaborations > Why Collaborate?")
+* [Collaboration Opportunities](https://www.rwth-aachen.de/cms/root/wirtschaft/Kooperation/~bkae/Kooperationsangebote/lidx/1/ "Corporate Relations > Collaborations > Collaboration Opportunities")
+* [Patent Valorization, Research & Development, and Technology Solutions](https://www.rwth-aachen.de/cms/root/wirtschaft/Kooperation/~sfnr/Patentvewertung-Entwicklung-und-Technol/lidx/1/ "Corporate Relations > Collaborations > Patent Valorization, Research & Development, and Technology Solutions")
 
-#### [Research Campus](https://www.rwth-aachen.de/cms/root/Wirtschaft/~ekt/Campusprojekt/lidx/1/ "Corporate Relations > Research Campus")
+#### [Research Campus](https://www.rwth-aachen.de/cms/root/wirtschaft/~ekt/Campusprojekt/lidx/1/ "Corporate Relations > Research Campus")
 
-* [Science and Industry Under One Roof](https://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH-Aachen-Campus/lidx/1/ "Corporate Relations > Research Campus > Science and Industry Under One Roof")
-* [Campus Melaten](https://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elg/Campus-Melaten/lidx/1/ "Corporate Relations > Research Campus > Campus Melaten")
-* [Campus West](https://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elh/Campus-West/lidx/1/ "Corporate Relations > Research Campus > Campus West")
+* [Where Science Meets Industry](https://www.rwth-aachen.de/cms/root/wirtschaft/Campusprojekt/~elf/RWTH-Aachen-Campus/lidx/1/ "Corporate Relations > Research Campus > Where Science Meets Industry")
+* [Campus Melaten](https://www.rwth-aachen.de/cms/root/wirtschaft/Campusprojekt/~elg/Campus-Melaten/lidx/1/ "Corporate Relations > Research Campus > Campus Melaten")
+* [Campus West](https://www.rwth-aachen.de/cms/root/wirtschaft/Campusprojekt/~elh/Campus-West/lidx/1/ "Corporate Relations > Research Campus > Campus West")
 
-#### [Recruiting](https://www.rwth-aachen.de/cms/root/Wirtschaft/~eku/Recruiting/lidx/1/ "Corporate Relations > Recruiting")
+#### [Recruiting](https://www.rwth-aachen.de/cms/root/wirtschaft/~eku/Recruiting/lidx/1/ "Corporate Relations > Recruiting")
 
-* [Graduate Recruiting](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~eln/Absolventinnen-Absolventen-anwerben/lidx/1/ "Corporate Relations > Recruiting > Graduate Recruiting")
-* [Career Days and Fairs](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~qnms/Career-Days-und-Messen/lidx/1/ "Corporate Relations > Recruiting > Career Days and Fairs")
-* [Company Presentations](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~bjdn/Unternehmenspraesentationen/lidx/1/ "Corporate Relations > Recruiting > Company Presentations")
-* [Dean’s List – Opportunities for Companies](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~bdedfv/Dean-s-List-Angebote-fuer-Unternehmen/lidx/1/ "Corporate Relations > Recruiting > Dean’s List – Opportunities for Companies")
-* [Employer Branding and Year-Round Visibility](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~qnmx/Employer-Branding/lidx/1/ "Corporate Relations > Recruiting > Employer Branding and Year-Round Visibility")
-* [More ...](https://www.rwth-aachen.de/cms/root/Wirtschaft/~eku/Recruiting/lidx/1/ "Corporate Relations > Recruiting > More ...")
+* [Graduate Recruiting](https://www.rwth-aachen.de/cms/root/wirtschaft/Recruiting/~eln/Absolventinnen-Absolventen-anwerben/lidx/1/ "Corporate Relations > Recruiting > Graduate Recruiting")
+* [Career Days and Fairs](https://www.rwth-aachen.de/cms/root/wirtschaft/Recruiting/~qnms/Career-Days-und-Messen/lidx/1/ "Corporate Relations > Recruiting > Career Days and Fairs")
+* [Company Presentations](https://www.rwth-aachen.de/cms/root/wirtschaft/Recruiting/~bjdn/Unternehmenspraesentationen/lidx/1/ "Corporate Relations > Recruiting > Company Presentations")
+* [Dean’s List – Opportunities for Companies](https://www.rwth-aachen.de/cms/root/wirtschaft/Recruiting/~bdedfv/Dean-s-List-Angebote-fuer-Unternehmen/lidx/1/ "Corporate Relations > Recruiting > Dean’s List – Opportunities for Companies")
+* [Employer Branding and Year-Round Visibility](https://www.rwth-aachen.de/cms/root/wirtschaft/Recruiting/~qnmx/Employer-Branding/lidx/1/ "Corporate Relations > Recruiting > Employer Branding and Year-Round Visibility")
+* [More ...](https://www.rwth-aachen.de/cms/root/wirtschaft/~eku/Recruiting/lidx/1/ "Corporate Relations > Recruiting > More ...")
 
-#### [Fundraising](https://www.rwth-aachen.de/cms/root/Wirtschaft/~ekv/Fundraising/lidx/1/ "Corporate Relations > Fundraising")
+#### [Fundraising](https://www.rwth-aachen.de/cms/root/wirtschaft/~ekv/Fundraising/lidx/1/ "Corporate Relations > Fundraising")
 
-* [Funding Opportunities](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~elo/Foerdermoeglichkeiten/lidx/1/ "Corporate Relations > Fundraising > Funding Opportunities")
-* [Development Projects & Successes](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~elr/Foerderprojekte-Erfolge/lidx/1/ "Corporate Relations > Fundraising > Development Projects & Successes")
-* [Education Fund](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~elu/Bildungsfonds/lidx/1/ "Corporate Relations > Fundraising > Education Fund")
-* [Endowments](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~rgr/Stiftungen/lidx/1/ "Corporate Relations > Fundraising > Endowments")
-* [Partnerships & Sponsors](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften-Foerdernde/lidx/1/ "Corporate Relations > Fundraising > Partnerships & Sponsors")
-* [More ...](https://www.rwth-aachen.de/cms/root/Wirtschaft/~ekv/Fundraising/lidx/1/ "Corporate Relations > Fundraising > More ...")
+* [Funding Opportunities](https://www.rwth-aachen.de/cms/root/wirtschaft/Fundraising/~elo/Foerdermoeglichkeiten/lidx/1/ "Corporate Relations > Fundraising > Funding Opportunities")
+* [Development Projects & Successes](https://www.rwth-aachen.de/cms/root/wirtschaft/Fundraising/~elr/Foerderprojekte-Erfolge/lidx/1/ "Corporate Relations > Fundraising > Development Projects & Successes")
+* [Education Fund](https://www.rwth-aachen.de/cms/root/wirtschaft/Fundraising/~elu/Bildungsfonds/lidx/1/ "Corporate Relations > Fundraising > Education Fund")
+* [Endowments](https://www.rwth-aachen.de/cms/root/wirtschaft/Fundraising/~rgr/Stiftungen/lidx/1/ "Corporate Relations > Fundraising > Endowments")
+* [Partnerships & Sponsors](https://www.rwth-aachen.de/cms/root/wirtschaft/Fundraising/~bamh/Partnerschaften-Foerdernde/lidx/1/ "Corporate Relations > Fundraising > Partnerships & Sponsors")
 
-#### [Sponsoring](https://www.rwth-aachen.de/cms/root/Wirtschaft/~nmvd/Sponsoring/lidx/1/ "Corporate Relations > Sponsoring")
+#### [Sponsoring](https://www.rwth-aachen.de/cms/root/wirtschaft/~nmvd/Sponsoring/lidx/1/ "Corporate Relations > Sponsoring")
 
-* [Advising and Contact](https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/~nnep/Kontakt/lidx/1/ "Corporate Relations > Sponsoring > Advising and Contact")
-* [Lecture Hall Sponsoring](https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/~nnah/Hoersaalsponsoring/lidx/1/ "Corporate Relations > Sponsoring > Lecture Hall Sponsoring")
-* [Graduation Celebration](https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/~qjvy/Graduiertenfest/lidx/1/ "Corporate Relations > Sponsoring > Graduation Celebration")
-* [RWTH Sponsoring Packages](https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/~nndx/RWTH-Sponsoringpakete/lidx/1/ "Corporate Relations > Sponsoring > RWTH Sponsoring Packages")
-* [News](https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/~nmvg/Meldungen/lidx/1/ "Corporate Relations > Sponsoring > News")
-* [More ...](https://www.rwth-aachen.de/cms/root/Wirtschaft/~nmvd/Sponsoring/lidx/1/ "Corporate Relations > Sponsoring > More ...")
+* [Advising and Contact](https://www.rwth-aachen.de/cms/root/wirtschaft/Sponsoring/~nnep/Kontakt/lidx/1/ "Corporate Relations > Sponsoring > Advising and Contact")
+* [Lecture Hall Sponsoring](https://www.rwth-aachen.de/cms/root/wirtschaft/Sponsoring/~nnah/Hoersaalsponsoring/lidx/1/ "Corporate Relations > Sponsoring > Lecture Hall Sponsoring")
+* [Graduation Celebration](https://www.rwth-aachen.de/cms/root/wirtschaft/Sponsoring/~qjvy/Graduiertenfest/lidx/1/ "Corporate Relations > Sponsoring > Graduation Celebration")
+* [RWTH Sponsoring Packages](https://www.rwth-aachen.de/cms/root/wirtschaft/Sponsoring/~nndx/RWTH-Sponsoringpakete/lidx/1/ "Corporate Relations > Sponsoring > RWTH Sponsoring Packages")
+* [News](https://www.rwth-aachen.de/cms/root/wirtschaft/Sponsoring/~nmvg/Meldungen/lidx/1/ "Corporate Relations > Sponsoring > News")
+* [More ...](https://www.rwth-aachen.de/cms/root/wirtschaft/~nmvd/Sponsoring/lidx/1/ "Corporate Relations > Sponsoring > More ...")
 
 [Close](#)
 
@@ -288,9 +287,9 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 
 #### [Career](https://www.rwth-aachen.de/cms/root/Die-RWTH/~jgbq/Karriere/lidx/1/ "About RWTH > Career")
 
-* [Career for Graduates](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~jgbx/Karriere-fuer-Absolventinnen-und-Absolve/lidx/1/ "About RWTH > Career > Career for Graduates")
+* [Careers for Graduates](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~jgbx/Karriere-fuer-Absolventinnen-und-Absolve/lidx/1/ "About RWTH > Career > Careers for Graduates")
 * [Careers for Researchers](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~jgdl/Karriere-fuer-Wissenschaftlerinnen-und-W/lidx/1/ "About RWTH > Career > Careers for Researchers")
-* [Career for Technical and Administrative Employees](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~jjhq/Karriere-und-Ausbildung-fuer-Personal-in/lidx/1/ "About RWTH > Career > Career for Technical and Administrative Employees")
+* [Careers for Technical and Administrative Employees](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~jjhq/Karriere-und-Ausbildung-fuer-Personal-in/lidx/1/ "About RWTH > Career > Careers for Technical and Administrative Employees")
 * [Staff Development at RWTH](https://www.rwth-aachen.de/cms/root/Die-RWTH/Karriere/~pfz/Personalentwicklung-an-der-RWTH-Aachen/lidx/1/ "About RWTH > Career > Staff Development at RWTH")
 
 #### [RWTH Events](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emr/RWTH-Events/lidx/1/ "About RWTH > RWTH Events")
