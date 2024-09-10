@@ -70,6 +70,8 @@ Help Topics
 
 [Account Questions](https://www.rakuten.com/help/category/account-questions-26578301675411)
 
+[Rakuten+](https://www.rakuten.com/help/category/rakuten-33139494773011)
+
 [More Features](https://www.rakuten.com/help/category/more-features-31315401553811)
 
 [Legal](https://www.rakuten.com/help/category/legal-115001470127)
@@ -105,8 +107,7 @@ About
 * [Site Map](https://www.rakuten.com/site_map)
 * [Terms & Conditions](https://www.rakuten.com/help/article/terms-conditions)
 * [Privacy Policy](https://www.rakuten.com/help/article/privacy-policy)
-* Don’t Sell My Data
-    
+* [Do Not Sell or Share My Personal Information / Personal Data Opt-out](https://www.rakuten.com/anon-privacy-preferences.htm)
 * [Help](https://www.rakuten.com/help)
 
 Stores & Brands
