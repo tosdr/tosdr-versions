@@ -82,7 +82,7 @@ Privacy Policies
 
 Privacy Policies
 
-* [AllClear Health ID](https://www.allclearid.com/privacy-policy/health-id/)
+* [Health Bank One™ Privacy Policy](https://www.allclearid.com/privacy-policy/health-bank-one/)
 * [AllClearID Website Privacy Policy](https://www.allclearid.com/privacy-policy/allclearid-website-privacy-policy/)
 * [AllClear Identity Protection](https://www.allclearid.com/privacy-policy/identity-protection/)
 
@@ -389,7 +389,7 @@ This Policy supersedes any earlier version. We may change this Privacy Policy an
 * 8 a.m. – 8 p.m. Central Time
 
 * [Privacy Policy](https://www.allclearid.com/privacy-policy/)
-* [Terms of Service](https://www.allclearid.com/terms-of-service/health-id/)
+* [Terms of Service](https://www.allclearid.com/terms-of-service/health-bank-one/)
 
 © 2004-2024 AllClear ID. All Rights Reserved.
 
