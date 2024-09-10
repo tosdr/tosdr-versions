@@ -12,7 +12,8 @@ Scoprire la Sicurezza
 * [Azienda](https://www.ga-2.it/azienda/)
 * [Articoli](https://www.ga-2.it/blog/)
 * [Contatti](https://www.ga-2.it/contattaci/)
-* [Login](https://www.ga-2.it/killeriosonowhitehat)
+* [Accedi Rapidamente](https://www.ga-2.it/accedi-rapidamente/)
+* [Login](https://www.ga-2.it/gh0stz0x)
 
 Search
 
