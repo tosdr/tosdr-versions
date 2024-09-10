@@ -1,3 +1,5 @@
+MakerDAO is now Sky — the next evolution of DeFi. Explore [Sky.money](https://sky.money/) and get rewarded for saving without giving up control.
+
 [](https://makerdao.com/en/)
 
 Developers
@@ -269,7 +271,7 @@ Foundation
 * [Contact](https://makerdao.com/en/contact)
 * [Job Opportunities](https://forum.makerdao.com/c/miscellaneous/job-opportunities/11)
 
-[](https://twitter.com/MakerDAO)[](https://www.reddit.com/r/MakerDAO/)[](https://t.me/makerdaoOfficial)[](https://chat.makerdao.com/)
+[](https://twitter.com/SkyEcosystem)[](https://www.reddit.com/r/MakerDAO/)[](https://t.me/makerdaoOfficial)[](https://chat.makerdao.com/)
 
 [](https://www.youtube.com/MakerDAO)
 
