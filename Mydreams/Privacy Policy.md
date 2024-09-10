@@ -12,7 +12,7 @@
 
 Košík je prázdný
 
- [![SSD WebHosting, VPS hosting, Virtuální servery](/images/logo_MyDreams_transparentm.png) SSD WebHosting, VPS hosting, Virtuální servery](https://www.mydreams.cz/cz/virtualni-servery.html "SSD WebHosting, VPS hosting, Virtuální servery")
+ [![Webhosting, VPS Hosting a Dedikované Servery](/images/logo_MyDreams_transparentm.png) Webhosting, VPS Hosting a Dedikované Servery](https://www.mydreams.cz/cz/virtualni-servery.html "Webhosting, VPS Hosting a Dedikované Servery")
 
 * [MyDreams](https://www.mydreams.cz/cz/vps-hosting.html)
     
