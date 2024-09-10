@@ -116,7 +116,7 @@ Nach unserer Kenntnis werden die Daten der Nutzer durch OpenStreetMap ausschlie�
 
 [![OpenStreetMap Logo](/logos/osm.png)](https://www.openstreetmap.de/) Der FOSSGIS e.V. ist offizielles Local Chapter und Ansprechpartner f체r das OpenStreetMap-Projekt in Deutschland.
 
-[![](/logos/FOSSGIS24_Standortlogo.png)](https://fossgis-konferenz.de/2024/) Die n채chste FOSSGIS-Konferenz findet vom 20.-23. M채rz 2024 in Hamburg statt.
+[![](/logos/fossgis25-logo.png)](https://fossgis-konferenz.de/2025/) Die n채chste FOSSGIS-Konferenz findet vom 26.-29. M채rz 2025 in M체nster statt.
 
 [![OSGEO Logo](/logos/osgeo.png)](https://www.osgeo.org/) Der FOSSGIS e.V. vertritt die OSGeo Foundation als Local-Chapter im deutschsprachigen Raum.
 
