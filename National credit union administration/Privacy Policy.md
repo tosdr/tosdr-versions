@@ -237,7 +237,7 @@ To improve the quality of our website services, we use Google’s Universal Anal
 * Your location at the time of your visit, down to the city-level; and
 * Other more technical information, including the HTTP status code, Windows NT code, number of bytes sent, number of bytes received, duration (in seconds) to fulfill the request, server port number address, and protocol version.
 
-[https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/ "View the Google Analytics Privacy Policy").
+We do not use this information to identify individuals. We aggregate the information about all of our website visitors and use the aggregated information to improve our website and provide a better user experience to our visitors. We look at things like average duration of a visit, “bounce rate” (the percentage of visitors who leave our site after viewing only one page), and the most frequently visited pages. The aggregated information is available only to web managers and other designated staff who need it to perform their official duties. It is retained only for as long as needed for proper analysis. The Google Analytics Privacy Policy is available at [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/ "View the Google Analytics Privacy Policy").
 
 [Close and return to top](#search-panel-1)
 
@@ -353,4 +353,3 @@ Find a credit union by address, credit union name, or charter number.](https://m
 * [USA.gov](https://usa.gov/)
 * [Vulnerability Disclosure](https://ncua.gov/vulnerability-disclosure-policy)
 * [Website Feedback](https://ncua.gov/contact-us/website-feedback)
-* [Whistleblower Protection](https://ncua.gov/about/inspector-general/whistleblower-protection)
