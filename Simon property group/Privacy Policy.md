@@ -5,11 +5,103 @@ GET IT ON
 * [MALLS](https://www.simon.com/ "Simon Malls & Mills Centers")
 * |
 * [PREMIUM OUTLETS®](https://www.premiumoutlets.com/ "Simon Premium Outlets Centers")
+* |
+* [SHOP SIMON™](https://shop.simon.com/?utm_source=SIMON&utm_medium=Header&utm_campaign=Simon_Header_SHOPSIMON "ShopSimon - Brands you love. On sale. 24/7.")
 
 * [FIND A CENTER](https://www.simon.com/mall "Find A Simon Mall or Outlet Near You")
 * [MALL INSIDER](https://www.simon.com/mall-insider "Become A Mall Insider Today")
+* SHOP ONLINE
+    
+    [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://shop.simon.com/?utm_source=Simon&utm_medium=Flyout&utm_campaign=SIMON_SHOPONLINE_BANNER)
+    
+    Women's Most Popular
+    
+    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_CoachOutlet)
+    
+    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_VeraBradley)
+    
+    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_SteveMadden)
+    
+    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_GuessFactory)
+    
+    [Solstice Sunglasses](https://shop.simon.com/collections/store-solstice?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_Solstice)
+    
+    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_BestSellers)
+    
+    Men's Most Popular
+    
+    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
+    
+    [Hugo Boss](https://shop.simon.com/collections/store-hugo-boss?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_HugoBoss)
+    
+    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
+    
+    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Adidas)
+    
+    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Puma)
+    
+    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_BestSellers)
+    
+    Designer Favorites
+    
+    [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
+    
+    [Mulberry](https://shop.simon.com/collections/luxe-store-mulberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Mulberry)
+    
+    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
+    
+    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
+    
+    [A.P.C](https://shop.simon.com/collections/luxe-store-a-p-c?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_APC)
+    
+    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
+    
+    Collections
+    
+    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_PreOwned)
+    
+    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_FinalSale)
+    
+    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_BestSellers)
+    
+    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_JustIn)
+    
+    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_Clearout)
+    
+    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_AllCollections)
+    
+    Shop by Category
+    
+    [Dresses](https://shop.simon.com/collections/women-clothing-dresses?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Dresses)
+    
+    [Homewares](https://shop.simon.com/pages/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Home)
+    
+    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Handbags)
+    
+    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Shoes)
+    
+    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Jewelry)
+    
+    [Coats & Jackets](https://shop.simon.com/collections/curated-all-coats-jackets?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Coats_Jackets)
+    
+    Discover More
+    
+    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Women)
+    
+    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Men)
+    
+    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Brands)
+    
+    [Livestreams](https://shop.simon.com/pages/live?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_SPOLIVE)
+    
+    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_ShopLuxe)
+    
+    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
+    
 * [CONTACT](https://www.simon.com/contact "Contact the Simon Team")
 * 
+
+[Brands You Love. On Sale. 24/7. Shop Online >](https://shop.simon.com/?utm_source=SIMON&utm_medium=Banner&utm_campaign=Simon_Banner_SHOPSIMON)
 
 [](https://www.simon.com/ "Simon Malls & Mills Home")
 
@@ -28,6 +120,92 @@ Use your location to find centers near you
 * [All Properties](https://www.simon.com/mall)
 * [Giftcards](https://www.simon.com/giftcard)
 * [Travel](https://www.simon.com/travel)
+* Shop Online
+    
+    Women's Most Popular
+    
+    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_CoachOutlet)
+    
+    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_VeraBradley)
+    
+    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_SteveMadden)
+    
+    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_GuessFactory)
+    
+    [Solstice Sunglasses](https://shop.simon.com/collections/store-solstice?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_Solstice)
+    
+    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_BestSellers)
+    
+    Men's Most Popular
+    
+    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
+    
+    [Hugo Boss](https://shop.simon.com/collections/store-hugo-boss?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_HugoBoss)
+    
+    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
+    
+    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Adidas)
+    
+    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Puma)
+    
+    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_BestSellers)
+    
+    Designer Favorites
+    
+    [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
+    
+    [Mulberry](https://shop.simon.com/collections/luxe-store-mulberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Mulberry)
+    
+    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
+    
+    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
+    
+    [A.P.C](https://shop.simon.com/collections/luxe-store-a-p-c?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_APC)
+    
+    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
+    
+    Collections
+    
+    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_PreOwned)
+    
+    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_FinalSale)
+    
+    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_BestSellers)
+    
+    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_JustIn)
+    
+    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_Clearout)
+    
+    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_AllCollections)
+    
+    Shop by Category
+    
+    [Dresses](https://shop.simon.com/collections/women-clothing-dresses?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Dresses)
+    
+    [Homewares](https://shop.simon.com/pages/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Home)
+    
+    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Handbags)
+    
+    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Shoes)
+    
+    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Jewelry)
+    
+    [Coats & Jackets](https://shop.simon.com/collections/curated-all-coats-jackets?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Coats_Jackets)
+    
+    Discover More
+    
+    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Women)
+    
+    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Men)
+    
+    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Brands)
+    
+    [Livestreams](https://shop.simon.com/pages/live?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_SPOLIVE)
+    
+    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_ShopLuxe)
+    
+    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
+    
 * [Mall Insider](https://www.simon.com/mall-insider "Become a Mall Insider Today")
 * [Contact](https://www.simon.com/contact "Contact Us")
 
@@ -39,7 +217,7 @@ Quick Links
 
 Find Nearby Centers [See All Properties](https://www.simon.com/mall "See All Properties") [Mall Insider](https://www.simon.com/mall-insider "Mall Insider") [VIP Club](https://www.premiumoutlets.com/vip "VIP Club")
 
-[Brands](https://www.simon.com/brands "Brands") [Simon Giftcard®](https://www.simon.com/giftcard "Simon Giftcard®") [Travel & Tourism](https://www.simon.com/travel "Travel & Tourism")
+[ShopSimon](https://shop.simon.com/?utm_source=PO&utm_medium=Footer&utm_campaign=Volume_Footer_SHOPSIMON "ShopSimon") [Brands](https://www.simon.com/brands "Brands") [Simon Giftcard®](https://www.simon.com/giftcard "Simon Giftcard®")
 
 Suggested Results
 
@@ -79,7 +257,7 @@ Terms of Use Privacy Policy California Privacy Rights Canada Privacy Rights Colo
 * [VIP Passport Participation Agreement](https://www.simon.com/legal/vip-offer-participation-agreement)
 * [Wi-Fi Terms of Use](https://www.simon.com/legal/wifi-terms-of-use)
 
-Last Updated: December 4, 2023
+Last Updated: August 1, 2024
 
 Table of Contents
 =================
@@ -220,7 +398,7 @@ We provide personal information to vendors that provide services to us such as t
 Providers of Service to You
 ---------------------------
 
-We provide personal information to vendors that provide services directly to you that we may refer or market to you. Some of these services may be co-branded with our trade names or logos such as the Simon® American Express® Credit Card program, ShopPremiumOutlets.com, and our Simon Giftcard® order site (for individual consumers). We may receive compensation for such co-branded services. These direct service vendors, whether co-branded or not, maintain their own separate privacy notices (posted on their website or mobile app) and are prohibited from using the personal information we disclose to them for any purpose other than providing products and services that are agreed upon with us.
+We provide personal information to vendors that provide services directly to you that we may refer or market to you. Some of these services may be co-branded with our trade names or logos such as the Simon® American Express® Credit Card program, Shop.Simon.com, and our Simon Giftcard® order site (for individual consumers). We may receive compensation for such co-branded services. These direct service vendors, whether co-branded or not, maintain their own separate privacy notices (posted on their website or mobile app) and are prohibited from using the personal information we disclose to them for any purpose other than providing products and services that are agreed upon with us.
 
 Advertising and Data Technology Vendors
 ---------------------------------------
@@ -412,17 +590,35 @@ chance to win a $1,000 shopping spree!
 
 EMAIL ADDRESS: Required  JOIN
 
-* [](https://facebook.com/shopsimon.us "Follow Us on Facebook")
-* [](https://instagram.com/shopsimon "Follow Us on Instagram")
-* [](https://said.simon.com/ "Read Our Lifestyle Publication")
+* [](https://click.simon.com/simon-malls-instagram "Follow Us on Instagram")
+* [](https://click.simon.com/simon-malls-tiktok "Follow Us on TikTok")
+* [](https://click.simon.com/simon-said-malls "Read Our Lifestyle Publication")
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://apps.apple.com/app/apple-store/id395128180?pt=387909&ct=website-footer&mt=8 "Download on the Apple App Store") [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://play.google.com/store/apps/details?id=com.simon.app.simonmalls&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter "Download on Google Play")
+[![Apple App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://apps.apple.com/app/apple-store/id395128180?pt=387909&ct=website-footer&mt=8 "Download on the Apple App Store") [![Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://play.google.com/store/apps/details?id=com.simon.app.simonmalls&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter "Download on Google Play")
 
 * * *
 
+ShopSimon™
+
+[About ShopSimon](https://shop.simon.com/pages/about-spo?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_ABOUTSHOPSIMON "Learn More About ShopSimon")
+
+[ShopSimon Rewards](https://shop.simon.com/pages/rewards?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREWARDS "Join or Login to ShopSimon Rewards")
+
+[Contact ShopSimon](https://shop.simon.com/pages/contact-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_CONTACTSHOPSIMON "Contact the ShopSimon Team")
+
+[Help | FAQs](https://support.shopsimon.com/hc/en-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONHELP "Get Answers and Support for All Things ShopSimon")
+
+[Shipping Policy](https://support.shopsimon.com/hc/en-us/articles/360051095694?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONSHIPPINGPOLICY "Understanding ShopSimon’s Shipping Policy")
+
+[Return Policy](https://support.shopsimon.com/hc/en-us/articles/360051106334?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONRETURNPOLICY " Understanding ShopSimon’s Return Policy")
+
+[Refund Policy](https://shop.simon.com/policies/refund-policy?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREFUNDPOLICY "Understanding ShopSimon’s Refund Policy")
+
+[Sell With Us](https://shop.simon.com/pages/brand-application?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONSELLWITHUS "Partner to Sell Your Online Sale, Clearance or Outlet Products On ShopSimon")
+
 Simon Giftcards®
 
-[Purchase a Giftcard](https://www.simon.com/giftcard/ "Give the Gift They Really Want")
+[About Giftcard](https://www.simon.com/giftcard/ "Learn More About The Simon Giftcard")
 
 [Activate Your Card](https://www.simon.com/volume/activate " Activate Your Simon Giftcard")
 
@@ -430,7 +626,9 @@ Simon Giftcards®
 
 [Check Your Balance](https://www.simon.com/giftcard/card_balance.aspx "View Your Current Simon Giftcard Balance")
 
-[Account Sales](https://www.simon.com/volume/ "Bulk Orders for Simon Giftcard®")
+[Account Sales](https://www.simon.com/volume/ "Place Bulk Orders for Simon Giftcard®")
+
+[Buy Giftcards Online](https://simonmalls.thegiftcardshop.com/ "Give the Gift They Really Want")
 
 For Businesses
 
@@ -438,19 +636,19 @@ For Businesses
 
 [Advertising](https://business.simon.com/media-experiences-overview "Advertise at a Simon Property")
 
-[Portfolio](https://business.simon.com/search "Discover Simon Worldwide")
+[Portfolio](https://business.simon.com/search "Discover Simon Malls, Simon Mills & Simon Premium Outlet Centers Worldwide")
 
 [Media | Experiences](https://business.simon.com/media-experiences-overview "Learn About Our Nationwide Media Network ")
 
 [Retailer Marketing](https://business.simon.com/retailer-marketing "Amplify Your Brand With Simon")
 
-[Innovation](https://business.simon.com/simon-innovation-group "Simon Innovation Group")
+[Innovation](https://business.simon.com/simon-innovation-group "Uncover The Simon Innovation Group")
 
-[Ventures](https://business.simon.com/simon-ventures "Simon Ventures")
+[Ventures](https://business.simon.com/simon-ventures "Let Simon Ventures Invest In Your Business")
 
 For Investors
 
-[News & Events](https://investors.simon.com/news-events/press-releases "Press Releases")
+[Press Releases](https://investors.simon.com/news-events/press-releases "Read Recent Press Releases, News & Events")
 
 [Sustainability](https://investors.simon.com/sustainability "Creating Sustainable Customers, Communities, Environments and Employees")
 
@@ -458,19 +656,23 @@ For Investors
 
 [Financials](https://investors.simon.com/financial-information/annual-reports "Annual Reports & Proxy Statements")
 
-[Governance](https://investors.simon.com/corporate-governance/highlights "Simon's Governance")
+[Governance](https://investors.simon.com/corporate-governance/highlights "Simon's Board of Directors, Committee Charters, Governance Documents & Principles")
 
 [Stockholders](https://investors.simon.com/stockholders/investor-kit "Online Investor Kit")
 
 For Job Seekers
 
-[Discover Simon](https://careers.simon.com/why-simon "Learn about Simon and who we are.")
+[Discover Simon](https://careers.simon.com/why-simon "Learn About Simon & Who We Are")
 
-[Discover Your Potential](https://careers.simon.com/core-values "Discover the core values that create the Simon Experience.")
+[Discover Your Potential](https://careers.simon.com/core-values "Discover the Core Values That Create the Simon Experience")
 
-[Campus Recruiting](https://careers.simon.com/campus-recruiting "Explore campus recruiting here at Simon")
+[Campus Recruiting](https://careers.simon.com/campus-recruiting "Explore Campus Recruiting Here at Simon")
 
-[Portfolio](https://business.simon.com/search "Simon Portfolio")
+[Open Positions](https://simon.wd1.myworkdayjobs.com/Simon/ "Find The Perfect Job In One Of Our Centers Or At Corporate")
+
+[Retailer Jobs](https://careers.simon.com/retailer-job-openings "Browse Open Jobs Within Mall Or Outlet Based Retailers & Restaurants")
+
+[Work Here](https://careers.simon.com/job-openings "Interactive Map of All Open Positions At Simon")
 
 More From Simon
 
@@ -478,11 +680,13 @@ More From Simon
 
 [Simon SAID](https://said.simon.com/ "Discover the Simon Lifestyle")
 
-[Simon Credit Card](https://www.cardless.com/cards/simon?utm_source=simon_website " Apply for the Simon American Express® Credit Card")
+[Simon Credit Card](https://www.cardless.com/cards/simon?utm_source=simon_website " Apply For the Simon American Express® Credit Card")
 
 [Simon Youth Foundation](https://syf.org/ "Creating Academic Opportunities")
 
-[Send Feedback](https://spg.iad1.qualtrics.com/jfe/form/SV_eD5rbglNTlbJvet "Tell Us About Your Experience")
+[International Centers](https://www.simon.com/mall/international "Visit One of Our Centers Located Outside Of The United States")
+
+[Send Us Feedback](https://spg.iad1.qualtrics.com/jfe/form/SV_71K9mLfoiuMZcAB "Tell Us About Your Recent In-Center or Online Experience")
 
 COPYRIGHT© 1999-2024, SIMON MEDIA PROPERTIES, LLC ALL RIGHTS RESERVED.  
 By continuing past this page and/or using this site, you agree to abide by the [Terms of Use](https://www.simon.com/legal "View Simon's Terms of Use") for this site, which prohibit commercial use of any information on this site.
