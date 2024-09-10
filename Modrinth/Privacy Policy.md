@@ -1,8 +1,26 @@
 [](https://modrinth.com/)
 
-[Mods](https://modrinth.com/mods)[Plugins](https://modrinth.com/plugins)[Data Packs](https://modrinth.com/datapacks)[Shaders](https://modrinth.com/shaders)[Resource Packs](https://modrinth.com/resourcepacks)[Modpacks](https://modrinth.com/modpacks)
+[Mods](https://modrinth.com/mods)
 
-[Sign in](https://modrinth.com/auth/sign-in) [Get Modrinth App](https://modrinth.com/app)
+[Resource Packs](https://modrinth.com/resourcepacks)
+
+[Data Packs](https://modrinth.com/datapacks)
+
+[Modpacks](https://modrinth.com/modpacks)
+
+[Shaders](https://modrinth.com/shaders)
+
+[Plugins](https://modrinth.com/plugins)
+
+Browse
+
+[Mods](https://modrinth.com/mods) [Resource Packs](https://modrinth.com/resourcepacks) [Data Packs](https://modrinth.com/datapacks) [Plugins](https://modrinth.com/plugins) [Shaders](https://modrinth.com/shaders) [Modpacks](https://modrinth.com/modpacks)
+
+More
+
+[Get Modrinth App](https://modrinth.com/app) [Upgrade to Modrinth+](https://modrinth.com/plus)
+
+[Sign in](https://modrinth.com/auth/sign-in)
 
 [Mods](https://modrinth.com/mods)[Plugins](https://modrinth.com/plugins)[Data Packs](https://modrinth.com/datapacks)[Shaders](https://modrinth.com/shaders)[Resource Packs](https://modrinth.com/resourcepacks)[Modpacks](https://modrinth.com/modpacks)
 
@@ -102,7 +120,7 @@ This data is used to deliver statistics.
 
 ### Usage data
 
-When you interact with the Modrinth App or the Website, we collect through MixPanel:
+When you interact with the Modrinth App or the Website, we collect through PostHog:
 
 * Your IP address
 * Your anonymized user ID
@@ -134,9 +152,10 @@ We use some third-party services to make Modrinth run. Please refer to each of t
 
 * [Cloudflare](https://www.cloudflare.com/en-gb/gdpr/introduction/)
 * [Sentry](https://sentry.io/trust/privacy/)
-* [MixPanel](https://mixpanel.com/legal/privacy-policy)
+* [PostHog](https://posthog.com/privacy)
 * [BeeHiiv](https://www.beehiiv.com/privacy)
 * [PayPal](https://www.paypal.com/us/legalhub/privacy-full)
+* [Stripe](https://stripe.com/privacy)
 
 Data that we specifically collect isn't shared with any other third party. We do not sell any data.
 
@@ -229,7 +248,7 @@ You do not need to be a citizen of the United Kingdom to use this method of lodg
 
 Modrinth is [open source](https://github.com/modrinth).
 
-main@[ae4f375](https://github.com/modrinth/code/tree/ae4f3759c23b1d59a4a0facf72e67caa02867d0d)
+prod@[6e3bf5f](https://github.com/modrinth/code/tree/6e3bf5fbf9558dcfcfb12f65890391945e554f7e)
 
 © Rinth, Inc.
 
