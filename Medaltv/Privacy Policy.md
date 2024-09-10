@@ -12,3 +12,5 @@ Clips are stored in the cloud for free and sync between mobile devices and PC. P
   
 
 Page not displaying correctly? You need to enable JavaScript to run this page!
+
+![Quantcast](//pixel.quantserve.com/pixel/p-KAJ_wY7XXw8v3.gif)
