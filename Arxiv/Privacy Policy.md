@@ -177,8 +177,6 @@ Initializing search
     Labs
     
     * [arXivLabs: An invitation to collaborate](https://info.arxiv.org/labs/index.html)
-    * [arXivLabs Criteria](https://info.arxiv.org/labs/criteria.html)
-    * [Project proposal](https://info.arxiv.org/labs/project-proposal.html)
     * [arXivLabs: Showcase](https://info.arxiv.org/labs/showcase.html)
     
 * [x]    Policies
