@@ -119,5 +119,3 @@ Follow us
 Copyright © 2024 AudKit. All Rights Reserved.
 
 [](javascript:;)
-
-AudKit uses cookies to ensure you get the best experience on our website. [Learn more](https://www.audkit.com/privacy.html)Got It!
