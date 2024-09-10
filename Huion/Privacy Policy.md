@@ -18,6 +18,8 @@
     
     Kamvas
     
+    [](https://www.huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)[Kamvas 13 (Gen 3)](https://www.huion.com/products/pen_display/Kamvas/kamvas-13-gen-3.html)
+    
     [](https://www.huion.com/products/pen_display/Kamvas/kamvas-24-plus.html)[Kamvas 24 Plus](https://www.huion.com/products/pen_display/Kamvas/kamvas-24-plus.html)
     
     [](https://www.huion.com/products/pen_display/Kamvas/kamvas-16-2021.html)[Kamvas 16(2021)](https://www.huion.com/products/pen_display/Kamvas/kamvas-16-2021.html)
@@ -29,6 +31,10 @@
     Pen Tablet
     
     Inspiroy
+    
+    [](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)[Inspiroy Frego M](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-M.html)
+    
+    [](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)[Inspiroy Frego S](https://www.huion.com/products/pen_tablet/Inspiroy/Inspiroy-Frego-S.html)
     
     [](https://www.huion.com/products/pen_tablet/Inspiroy/H641P.html)[Inspiroy 2 S](https://www.huion.com/products/pen_tablet/Inspiroy/H641P.html)
     
@@ -52,11 +58,19 @@
     
     [](https://www.huion.com/products/pen_computer/KamvasStudio/kamvas-studio-24.html)[Kamvas Studio 24](https://www.huion.com/products/pen_computer/KamvasStudio/kamvas-studio-24.html)
     
+    Kamvas Slate
+    
+    [](https://www.huion.com/products/pen_computer/KamvasSlate/kamvas-slate-10.html)[Kamvas Slate 10](https://www.huion.com/products/pen_computer/KamvasSlate/kamvas-slate-10.html)
+    
     Smart Notebook
     
     Huion Note
     
     [](https://www.huion.com/products/Smart_NoteBook/Huion-Note/huion-note.html)[Huion Note](https://www.huion.com/products/Smart_NoteBook/Huion-Note/huion-note.html)
+    
+    Huion Ink
+    
+    [](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-lnk-eb1010.html)[Huion Ink](https://www.huion.com/products/Smart_NoteBook/Huion-Ink/huion-lnk-eb1010.html)
     
     Accessories
     
@@ -148,6 +162,8 @@ X
 ### Quick links
 
 * [H1161](https://huion.com/download?model=65)
+* [Introducing Huion Kamvas 13 (Gen 3): It is Where Art Starts](https://www.huion.com/news/introducing-kamvas-13-gen-3.html)
+* [The Rookies Awards 2024, sponsored by Huion and others, announced its winners!](https://www.huion.com/news/the-rookies-award-2024-huion-sponsor.html)
 * [Huion Announces In-kind Sponsorship for TED2024 Conference](https://www.huion.com/news/huion-announces-sponsorship-for-ted2024-conference.html)
 * [Huion Celebrates 13th Anniversary with 'Art is Long' Tribute](https://www.huion.com/news/huion-13th-anniversary.html)
 * [Submissions Open: Huion 'For the Dreamer' Drawing Competition](https://www.huion.com/news/huion-for-the-dreamer-drawing-contest.html)
@@ -258,6 +274,8 @@ As the scope of services on the website is extending, we may from time to time u
 2. 2\. The user may only use such contents when s/he is authorized by the website, and may not duplicate and/or regenerate such contents or create any derivatives related to such contents without prior consent.
 3. 3\. We reserve the right of final interpretation of the Privacy Policy Statement.
 
+  
+
 * Product
 * [Pen Tablet](https://www.huion.com/pen_tablet/)
 * [Pen Display](https://www.huion.com/pen_display/)
@@ -300,7 +318,7 @@ Newsletter Subscription:
 
   
 
-[Privacy Policy](https://huion.com/privacy_policy.html) [Terms and Conditions](https://www.huiontablet.com/terms/?___store=default)
+[Privacy Policy](https://huion.com/privacy_policy.html) [Terms and Conditions](https://huion.com/subject/terms-of-use.html)
 
 Copyright © Shenzhen Huion Trend Technology Co., Ltd. All Rights Reserved
 
@@ -334,3 +352,6 @@ Oceania Pacific
 ---------------
 
 * {{ item.country }}{{ item.lang }}
+    
+
+![](/statics/hw/images/back-to-top-icon.svg)
