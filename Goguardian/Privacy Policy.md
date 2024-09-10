@@ -30,7 +30,7 @@ Success Stories
 
 Resources
 
-[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Livestreams & Webinars](https://www.goguardian.com/training-and-webinars)[Federal Funding Resources](https://www.goguardian.com/funding-resource-hub)[Distance Learning Resources](https://www.goguardian.com/distance-learning)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
+[GoGuardian Blog](https://www.goguardian.com/blog)[Help Center](https://help.goguardian.com/hc/en-us)[Video Training](https://www.goguardian.com/training)[Status Page](https://status.goguardian.com/)[Training & Webinars](https://www.goguardian.com/training-and-webinars)[Federal Funding Resources](https://www.goguardian.com/funding-resource-hub)[Distance Learning Resources](https://www.goguardian.com/distance-learning)[Self Harm & Suicide Prevention](https://www.goguardian.com/suicide-self-harm-resources)[Efficacy](https://www.goguardian.com/efficacy)[Glossary of Technical Terms](https://www.goguardian.com/glossary)
 
 Company
 
@@ -45,8 +45,6 @@ Search
 [Sign in](https://account.goguardian.com/)[Request a trial](https://www.goguardian.com/start-free-trial)
 
 ![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7d462ade141dd537d7_menu.svg)
-
-[Did you hear? We launched Pear Deck Learning, an expanded ecosystem of learning tools. Read the news. \>](https://www.goguardian.com/newsroom/goguardian-launches-pear-deck-learning-a-comprehensive-ecosystem-of-innovative-learning-tools)
 
 Table of Contents
 -----------------
