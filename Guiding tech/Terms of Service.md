@@ -18,7 +18,7 @@ Helping millions of people navigate the world of technology.
 
 60M+
 
-Annual Readers and Viewers
+Annual Readers
 
 6,000+
 
