@@ -24,7 +24,7 @@ this is the Legal Content modal content
 
 [](https://promoflo.com/?ix=Home)
 
-![](https://cdn1.cloudwrx.com/assets/1/vendor/wrx/util/flags/1.0.0/1x1/GB.svg?w=1920&quality=90&_ci=638296066745654223)
+![](https://cdn1.cloudwrx.com/assets/1/vendor/wrx/util/flags/1.0.0/1x1/US.svg?w=1920&quality=90&_ci=638296066745654223)
 
 Network Terms & Conditions
 ==========================
