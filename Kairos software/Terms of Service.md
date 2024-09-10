@@ -47,104 +47,104 @@ Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65af8aae97bf1fa861751ec4_close%20(1).svg)](#)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65af8aae97bf1fa861751ec4_close%20(1).svg)](#)
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd1e284b8b6f006fd0fc2_Blur-Blue.webp)![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd1e284b8b6f006fd0fc2_Blur-Blue.webp)![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)
 
 [Kairos has a new look and a new product. Sign-up now and get 100 free API calls!](https://www.kairos.com/pricing)
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab758d6bbdaa898db7426b_Logo-Dark.svg)](https://www.kairos.com/)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab758d6bbdaa898db7426b_Logo-Dark.svg)](https://www.kairos.com/)
 
 Features
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
 
 Features
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Instant Identity Verification](https://www.kairos.com/features/identity-verification)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Instant Identity Verification](https://www.kairos.com/features/identity-verification)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-ID Document Check](https://www.kairos.com/features/document-verification)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+ID Document Check](https://www.kairos.com/features/document-verification)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Face Liveness Verification](https://www.kairos.com/features/liveness-verification)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Face Liveness Verification](https://www.kairos.com/features/liveness-verification)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
 Biometric Verification](https://www.kairos.com/features/biometric-verification)
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
 Legal Age Check](https://www.kairos.com/features/age-verification)
 
 Industries
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Financial Services & Fintech](https://www.kairos.com/industries/fintech)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Financial Services & Fintech](https://www.kairos.com/industries/fintech)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Online Gaming](https://www.kairos.com/industries/online-gaming)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Online Gaming](https://www.kairos.com/industries/online-gaming)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Adult Entertainment](https://www.kairos.com/industries/adult-entertainment)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Adult Entertainment](https://www.kairos.com/industries/adult-entertainment)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Alcohol, Tobacco, Cannabis Delivery](https://www.kairos.com/industries/alcohol-delivery)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Alcohol, Tobacco, Cannabis Delivery](https://www.kairos.com/industries/alcohol-delivery)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Hotels & Vacation Rentals](https://www.kairos.com/industries/hotels-vacation-rentals)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Hotels & Vacation Rentals](https://www.kairos.com/industries/hotels-vacation-rentals)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
 Micromobility](https://www.kairos.com/industries/micromobility)
 
 Don't miss this from our Blog:
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d520/65ca1413665c8cb78f1b28e0_Best%20practices%20cover%20photo.webp)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d520/65ca1413665c8cb78f1b28e0_Best%20practices%20cover%20photo.webp)
 
 Best Practices for ID Document and Selfie Submissions
 
 Read post
 
-![Arrow-icon](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65aa88196fa61dfde861d5b8_arrow-right.svg)](https://www.kairos.com/post/best-practices-for-id-document-and-selfie-submissions)
+![Arrow-icon](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65aa88196fa61dfde861d5b8_arrow-right.svg)](https://www.kairos.com/post/best-practices-for-id-document-and-selfie-submissions)
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)
-
-Industries
-
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)
 
 Industries
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
 
-Financial Services & Fintech](https://www.kairos.com/industries/fintech)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Industries
 
-Online Gaming](https://www.kairos.com/industries/online-gaming)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Online Dating](https://www.kairos.com/industries/online-dating)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Financial Services & Fintech](https://www.kairos.com/industries/fintech)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Adult Entertainment](https://www.kairos.com/industries/adult-entertainment)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Online Gaming](https://www.kairos.com/industries/online-gaming)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Alcohol, Tobacco, Cannabis Delivery](https://www.kairos.com/industries/alcohol-delivery)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Online Dating](https://www.kairos.com/industries/online-dating)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Hotels & Vacation Rentals](https://www.kairos.com/industries/hotels-vacation-rentals)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Adult Entertainment](https://www.kairos.com/industries/adult-entertainment)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+
+Alcohol, Tobacco, Cannabis Delivery](https://www.kairos.com/industries/alcohol-delivery)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+
+Hotels & Vacation Rentals](https://www.kairos.com/industries/hotels-vacation-rentals)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
 Micromobility](https://www.kairos.com/industries/micromobility)
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd1793ccfd9829da74fed_Blur-Green.webp)
 
 See How Kairos can help you grow your business and mitigate fraud
 -----------------------------------------------------------------
 
 [Talk to sales](#)[Explore the docs
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)](https://docs.kairos.com/)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)](https://docs.kairos.com/)
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ac219b5470576bf56cf3aa_Grid.svg)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ac219b5470576bf56cf3aa_Grid.svg)
 
 Company
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab7594becdc4e575b58496_Chevron-down.svg)
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-About us](https://www.kairos.com/about-us)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+About us](https://www.kairos.com/about-us)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
-Contact us](https://www.kairos.com/contact)[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
+Contact us](https://www.kairos.com/contact)[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab78536a55cdd038690243_Arrow-Blue.svg)
 
 Kairos Blog](https://www.kairos.com/blog)
 
@@ -250,9 +250,9 @@ Kairos AR, Inc.
 Wilmington, DE 19801  
 United state of America
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65aa88196fa61dfde861d588_Logo-White.webp)](https://www.kairos.com/)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65aa88196fa61dfde861d588_Logo-White.webp)](https://www.kairos.com/)
 
-[![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65ab8b414043cc1123261898_Social-linkedin.svg)](https://www.linkedin.com/company/kairos-ar-inc-)
+[![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65ab8b414043cc1123261898_Social-linkedin.svg)](https://www.linkedin.com/company/kairos-ar-inc-)
 
   
 Kairos Ar Inc  
@@ -283,4 +283,4 @@ Oops! Something went wrong while submitting the form.
 
 [Privacy](https://www.kairos.com/privacy)[Terms](https://www.kairos.com/terms)
 
-![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://assets-global.website-files.com/65aa88196fa61dfde861d513/65bcd1e284b8b6f006fd0fc2_Blur-Blue.webp)
+![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd17a509895f76df62a42_Blur-Purple.webp)![](https://cdn.prod.website-files.com/65aa88196fa61dfde861d513/65bcd1e284b8b6f006fd0fc2_Blur-Blue.webp)
