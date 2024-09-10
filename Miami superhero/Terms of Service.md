@@ -578,17 +578,16 @@ These Terms will be governed by and interpreted in accordance with the laws of t
 * [Privacy Policy](https://miamisuperhero.com/privacy-policy/)
 * [Terms Of Use](https://miamisuperhero.com/terms-of-use/)
 
-#### Safety with Staff
+#### Owner
 
-* They get temperature checks.
-* Wear masks.
-* Disinfect surfaces of all inventory.
+A dedicated former Firefighter Paramedic.  
+Always excited to bring life to your party.
 
 #### Jobs
 
 [**Jobs Employment**](https://miamisuperhero.com/job-employment/)
 
-Copyright @2023 Miami Superhero - Rights Reserved To All On Website
+Copyright @2013-2024 Miami Superhero - Rights Reserved To All On Website
 
 [Facebook](https://www.facebook.com/miamipartycharacters/ "Facebook")[X](https://twitter.com/miamisuperhero "X")[YouTube](https://www.youtube.com/channel/UCapXRJB-1d4I8n_-ZKLZJ0Q "YouTube")
 
