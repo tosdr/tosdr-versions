@@ -20,11 +20,13 @@
     
     * [About](https://www.911cellular.com/about)
     
-    * [Blog](https://911cellular.com/blog)
+    * [Blog](https://www.911cellular.com/blog)
     * [Login](https://portal.publicsafetycloud.net/)
     * [Contact](https://www.911cellular.com/contact-us)
     
 * #### Additional resources
+    
+    * [Alyssa's Law](https://www.911cellular.com/alyssas-law)
     
     * [Campus safety](https://www.911cellular.com/campus-safety)
     
@@ -47,6 +49,7 @@
     
     Resources
     
+    * [Alyssa's Law](https://www.911cellular.com/alyssas-law)
     * [Campus safety](https://www.911cellular.com/campus-safety)
     * [Workplace violence](https://www.911cellular.com/workplace-violence)
     * [Partnerships](https://www.911cellular.com/partnerships)
@@ -58,7 +61,7 @@
     * [Public safety](https://www.911cellular.com/industries/public-safety)
     * [House of worship](https://www.911cellular.com/house-of-worship)
 * [About](https://www.911cellular.com/about)
-* [Blog](https://911cellular.com/blog)
+* [Blog](https://www.911cellular.com/blog)
 * [Login](https://portal.publicsafetycloud.net/)
 * [Contact](https://www.911cellular.com/contact-us)
 * [SCHEDULE A DEMO](https://www.911cellular.com/request-a-demo/)
@@ -239,7 +242,7 @@ Blanket your community with efficient, smartphone-accessible tools to get in tou
 
 Stay informed on the latest in critical incident management:
 
-![911Cellular logo](/images/911cellular logo large-3.png)
+![911Cellular logo](/images/911Cellular logo small-1.png)
 
 [![](/images/footer/911cellular-social-twitter.png)](https://twitter.com/911Cellular) [![](/images/footer/911cellular-social-facebook.png)](https://www.facebook.com/911CellularSafe/) [![](/images/footer/911cellular-social-linkedin.png)](https://www.linkedin.com/company/911cellular-company)
 
@@ -269,6 +272,7 @@ Stay informed on the latest in critical incident management:
 
 #### Resources
 
+* [Alyssa's Law](https://www.911cellular.com/alyssas-law)
 * [Campus safety](https://www.911cellular.com/campus-safety)
 * [Workplace violence](https://www.911cellular.com/workplace-violence)
 * [Partnerships](https://www.911cellular.com/partnerships)
@@ -284,6 +288,6 @@ Stay informed on the latest in critical incident management:
 
 * [Login](https://portal.publicsafetycloud.net/)
 
-![911Cellular logo](/images/911cellular logo large-3.png)
+![911Cellular logo](/images/911Cellular logo small-1.png)
 
 [![](/images/footer/911cellular-social-twitter.png)](https://twitter.com/911Cellular) [![](/images/footer/911cellular-social-facebook.png)](https://www.facebook.com/911CellularSafe/) [![](/images/footer/911cellular-social-linkedin.png)](https://www.linkedin.com/company/911cellular-company)
