@@ -123,7 +123,7 @@ Language:  
 
 [Contact](https://bluespice.com/contact/)
 
-Privacy2024-04-29T13:02:47+02:00
+Privacy2024-09-02T10:24:12+02:00
 
 Privacy policy
 ==============
@@ -135,10 +135,12 @@ The protection of your privacy when processing personal data is an important con
 
 If you send us data via contact form, this data will be stored on our servers in the course of data backup. Your data will only be used by us to process your request. Your data will be treated strictly confidential. It will not be passed on to third parties.
 
-Responsible:  
+Responsible:
+
 Hallo Welt! GmbH  
-PO Box 11 02 19  
-93015 Regensburg, Germany  
+Bruderwöhrdstraße 29  
+93055 Regensburg, Germany
+
 Phone: +49 941 – 660 800  
 E-mail: [info@hallowelt.com](mailto:info@hallowelt.com)
 
@@ -191,7 +193,7 @@ Through the use of session cookies, the responsible party can provide the users 
 
 We only use personal cookies to improve our website or for marketing/advertising purposes with your consent. On your first visit, you can voluntarily agree to tracking or analysis via the cookie banner that appears. If necessary, your data will be passed on to partners or third-party providers. Only if you explicitly agree to this will these cookies be stored, the legal basis is then your consent in accordance with Art. 6 para. 1 lit. a GDPR.
 
-You can change your settings for the use of cookies [here](#) at any time.
+You can change your settings for the use of cookies at any time.
 
 Borlabs Cookie
 --------------
@@ -484,7 +486,7 @@ Internet: www.projekt29.de
 Change your privacy settings
 ----------------------------
 
-If required you can [view your privacy settings](#) or [adjust your privacy seetings](#).
+If required you can or .
 
 Your user ID for data protection issues:
 
@@ -742,8 +744,6 @@ downloads
     
 * [Contact](https://bluespice.com/contact/)
     
-* [Cookies](#)
-    
 
 ![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27140%27%20height%3D%2748%27%20viewBox%3D%270%200%20140%2048%27%3E%3Crect%20width%3D%27140%27%20height%3D%2748%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "HalloWelt-Logo")
 
@@ -755,6 +755,8 @@ BlueSpice is a brand of Hallo Welt! GmbH, a worldwide leading provider and consu
 
 [Page load link](#)
 
-           
+Test Block PopUp
+
+        
 
 [Go to Top](#)
