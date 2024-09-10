@@ -150,9 +150,9 @@ Log in to order, manage your products and services, and track your orders.
             
         * Eco Dedicated Servers [Explore our Dedicated Servers](https://eco.ovhcloud.com/en-ie/about/)
             
-            * Kimsufi Servers Low-cost servers to get you started
+            * [Kimsufi Servers](https://eco.ovhcloud.com/en-ie/kimsufi/) Low-cost servers to get you started
             * So you Start Servers A range of dedicated servers that are perfect for startups and very small businesses
-            * Rise Servers Tried-and-tested Intel and AMD platforms for competitive performance and price
+            * [Rise Servers](https://eco.ovhcloud.com/en-ie/rise/) Tried-and-tested Intel and AMD platforms for competitive performance and price
             * [Operating systems and distributions](https://www.ovhcloud.com/en-ie/bare-metal/os/) Find the versions compatible with your Eco server
     * [VPS - Virtual Private Servers](https://www.ovhcloud.com/en-ie/vps/)
         * Back to menu
@@ -619,7 +619,7 @@ Log in to order, manage your products and services, and track your orders.
         * Technology
         * Technology
             
-            * [VMware by Broadcom](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-migration/) VMware by Broadcom and OVHcloud solutions for all your projects
+            * [VMware by Broadcom](https://www.ovhcloud.com/en-ie/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
             * [Nutanix](https://www.ovhcloud.com/en-ie/solutions/nutanix/) Nutanix and OVHcloud solutions for your hybrid and multi-cloud environments
             * [SAP](https://www.ovhcloud.com/en-ie/solutions/sap/) SAP on OVHcloud solutions for your ERP delivering a smooth, optimal experience
             * [NetApp](https://www.ovhcloud.com/en-ie/solutions/netapp/) NetApp storage solutions with cost control and high performance
@@ -738,7 +738,7 @@ Back to top
     * Status
     * [Whois](https://www.ovhcloud.com/en-ie/domains/whois/)
     * Domain contact
-    * Report abuse (abuse@ovh.net)
+    * [Report abuse (abuse@ovh.net)](https://www.ovh.com/abuse/#!/)
     * [WHOIS information disclosure request](https://www.ovhcloud.com/en-ie/whois-disclosure/)
     
 
@@ -747,7 +747,7 @@ Back to top
     * [Help centre](https://help.ovhcloud.com/csm/en-ie-home?id=csm_index)
     * [Guides](https://help.ovhcloud.com/csm/en-ie-documentation?id=kb_home)
     * [Glossary](https://www.ovhcloud.com/en-ie/glossary/)
-    * [Community](https://community.ovh.com/en/)
+    * [Community](https://community.ovh.com/)
     * Support levels
     
 * Contact us
