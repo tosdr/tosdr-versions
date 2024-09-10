@@ -44,7 +44,7 @@ Ensure data integrity through storage, usage, archival and destruction](https://
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-solution overview](https://www.ownbackup.com/overview)
+solution overview](https://www.ownbackup.com/solutions-overview)
 
 Environments
 
@@ -112,7 +112,7 @@ On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.w
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
-eBooks](https://www.ownbackup.com/resources/ebooks)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+eBooks](https://www.ownbackup.com/resources/ebook)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
@@ -126,17 +126,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Disaster Recovery
+[Salesforce
 
-What Is Disaster Recovery & How to Plan](https://www.ownbackup.com/blog/what-is-disaster-recovery-how-to-plan)
+Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
 
-[Own Discover
+[Cybersecurity
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+Zero Trust in the Private Sector: Aligning with Government Cybersecurity Standards](https://www.ownbackup.com/blog/zero-trust-in-the-private-sector-aligning-with-government-cybersecurity-standards)
 
-[Own Archive
+[Government
 
-Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
+How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
 
 Company
 
@@ -218,7 +218,7 @@ Hyderabad, Telangana 500081
 
 [Book a demo](https://www.ownbackup.com/request-demo)[LOG IN](https://auth.owndata.com/)
 
-[](https://www.ownbackup.com/search)[Support](https://www.ownbackup.com/support)[Get a Demo](https://www.ownbackup.com/request-demo)
+[](https://www.ownbackup.com/search)[Support](https://support.owndata.com/s/)[Get a Demo](https://www.ownbackup.com/request-demo)
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.png)](https://www.ownbackup.com/)
 
@@ -266,7 +266,7 @@ Ensure data integrity through storage, usage, archival and destruction](https://
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-solution overview](https://www.ownbackup.com/overview)
+solution overview](https://www.ownbackup.com/solutions-overview)
 
 Environments
 
@@ -334,7 +334,7 @@ On-demand](https://www.ownbackup.com/resources/on-demand)[![](https://cdn.prod.w
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8886_svgexport-17.svg)
 
-eBooks](https://www.ownbackup.com/resources/ebooks)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
+eBooks](https://www.ownbackup.com/resources/ebook)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
 
@@ -348,17 +348,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Disaster Recovery
+[Salesforce
 
-What Is Disaster Recovery & How to Plan](https://www.ownbackup.com/blog/what-is-disaster-recovery-how-to-plan)
+Getting Ahead: Why Federal Government Agencies Need to Proactively Strengthen Salesforce Data](https://www.ownbackup.com/blog/why-federal-government-agencies-need-to-proactively-strengthen-salesforce-data)
 
-[Own Discover
+[Cybersecurity
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+Zero Trust in the Private Sector: Aligning with Government Cybersecurity Standards](https://www.ownbackup.com/blog/zero-trust-in-the-private-sector-aligning-with-government-cybersecurity-standards)
 
-[Own Archive
+[Government
 
-Archive Console: New Feature Enhancements To Help Your Enterprise Scale](https://www.ownbackup.com/blog/archive-console-new-feature-enhancements-to-help-your-enterprise-scale)
+How to Protect Your Agency's Cloud Data: Understanding the Shared Responsibility Model](https://www.ownbackup.com/blog/how-to-protect-your-agencys-cloud-data-understanding-the-shared-responsibility-model)
 
 Company
 
@@ -442,7 +442,7 @@ Hyderabad, Telangana 500081
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8738_Group%204.svg)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe8508_8666595_x_icon%20(1).svg)
 
-[](https://www.ownbackup.com/search)[Support](https://www.ownbackup.com/support)[Login](https://auth.ownbackup.com/)
+[](https://www.ownbackup.com/search)[Support](https://support.owndata.com/s/)[Login](https://auth.ownbackup.com/)
 
 Privacy Notice
 ==============
@@ -804,7 +804,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [Data Protection Platform](https://www.ownbackup.com/pricing)
 
-[why own](https://www.ownbackup.com/why-own)[Solutions](https://www.ownbackup.com/overview)[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)
+[why own](https://www.ownbackup.com/why-own)[Solutions](https://www.ownbackup.com/solutions-overview)[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)
 
 Cloud Solutions
 
@@ -814,7 +814,7 @@ Cloud Solutions
 
 Resources
 
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebooks)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
+[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
 
 **Company**
 
@@ -822,7 +822,7 @@ Resources
 
 **Support**
 
-[Knowledge Base](https://www.ownbackup.com/support/knowledge-base)[Call Back Request](https://www.ownbackup.com/support/call-back-request)[Submit a Ticket](https://www.ownbackup.com/support/submit-ticket)[Support Policy](https://www.ownbackup.com/support/customer-support-policy)[Support & Services](https://www.ownbackup.com/services)
+[Knowledge Base](https://support.owndata.com/s/kb)[Call Back Request](https://support.owndata.com/s/call-back-request)[Submit a Ticket](https://support.owndata.com/s/contactsupport)[Support Policy](https://support.owndata.com/s/article/Customer-Support-Policy-52386)[Support & Services](https://www.ownbackup.com/services)
 
 [Pricing](https://www.ownbackup.com/pricing)[Customers](https://www.ownbackup.com/customer-stories)
 
@@ -839,7 +839,7 @@ Personal Information](#)
 
 Solutions
 
-[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Solution Overview](https://www.ownbackup.com/overview)
+[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Solution Overview](https://www.ownbackup.com/solutions-overview)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
@@ -857,7 +857,7 @@ Products
 
 Resources
 
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebooks)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
+[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
@@ -869,7 +869,7 @@ COMPANY
 
 support
 
-[Knowledge Base](https://www.ownbackup.com/support/knowledge-base)[Call Back Request](https://www.ownbackup.com/support/call-back-request)[Submit a Ticket](https://www.ownbackup.com/support/submit-ticket)[Support Policy](https://www.ownbackup.com/support/customer-support-policy)[Support & Services](https://www.ownbackup.com/services)
+[Knowledge Base](https://support.owndata.com/s/kb)[Call Back Request](https://support.owndata.com/s/call-back-request)[Submit a Ticket](https://support.owndata.com/s/contactsupport)[Support Policy](https://support.owndata.com/s/article/Customer-Support-Policy-52386)[Support & Services](https://www.ownbackup.com/services)
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
