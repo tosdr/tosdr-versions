@@ -79,14 +79,16 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-5.60.51
+Client Version: 5.0.4890
+
+API Version: 5.60.0
 
 * [About Us](https://www.byutv.org/about)
 * [Contact Us](https://www.byutv.org/contact)
 * [Privacy Policy](https://www.byutv.org/privacy)
 * [Terms of Use](https://www.byutv.org/terms)
 * [Donate](https://donate.churchofjesuschrist.org/donations/byutv)
-* [Files & Reports](https://assets.byub.org/reports/2022-2023_EEO_Report.pdf)
+* [Files & Reports](https://assets.byub.org/reports/EEO_Report.pdf)
 * [FCC Applications](https://www.byutv.org/fcc)
 
 * [Home](https://www.byutv.org/home)
@@ -166,7 +168,7 @@ Up Next
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGQ9Im0xMzIuNSAxOTguMy02Ni44LTYxLjFIMTdWNjQuM2g0OC43bDY2LjgtNjEuMnYxOTUuMlpNMTU0LjEgNTJ2OTcuM2MxOC4yLTguMiAzMC45LTI2LjkgMzAuOS00OC42cy0xMi43LTQwLjQtMzAuOS00OC42WiIgc3R5bGU9ImZpbGw6I2ZmZjtzdHJva2Utd2lkdGg6MCIvPjwvc3ZnPg==)
 
-Mute
+Volume
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIxMCAyMDAiIHZpZXdCb3g9IjAgMCAyMTAgMjAwIj48cGF0aCBkPSJNMTkzLjQgODEuN2gtMTUuN1YyNi41YzAtOC44LTcuMi0xNi0xNi0xNmgtMTQ1Yy04LjggMC0xNiA3LjItMTYgMTZ2MTExLjZjMCA4LjggNy4yIDE2IDE2IDE2aDU0LjF2MjIuMmMwIDguNyA3LjEgMTUuOCAxNS44IDE1LjhoMTA2LjhjOC43IDAgMTUuOC03LjEgMTUuOC0xNS44Vjk3LjVjMC04LjctNy0xNS44LTE1LjgtMTUuOHptLTM0LjUgMEg4Ni43Yy04LjcgMC0xNS44IDcuMS0xNS44IDE1Ljh2MzcuOEgyNi41Yy00LjYgMC04LjMtMy43LTguMy04LjNWMzcuMmMwLTQuNiAzLjctOC4zIDguMy04LjNoMTI0LjFjNC42IDAgOC4zIDMuNyA4LjMgOC4zdjQ0LjV6TTY0LjYgNDQuNSA2NiA3NS45YzAgLjYtLjUgMS4xLTEuMSAxLjFsLTMxLjQtMS40Yy0xIDAtMS42LTEuMi0uOC0ybDExLjQtMTEuNC0xNy4yLTE3LjEgNy4yLTcuMkw1MS4yIDU1bDExLjQtMTEuNGMuOC0uNiAyLS4xIDIgLjl6IiBzdHlsZT0iZmlsbDojZmZmIi8+PC9zdmc+)
 
@@ -183,6 +185,69 @@ Fullscreen
 ### Caption Settings
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcuNDEgOC41OCAxMiAxMy4xN2w0LjU5LTQuNTlMMTggMTBsLTYgNi02LTYgMS40MS0xLjQyWiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==)
+
+Size
+
+* Small
+* Normal
+* Large
+
+Quick-Styles
+
+* Style 1
+* Style 2
+* Style 3
+* Style 4
+* Style 5
+* Style 6
+
+Language
+
+![](/_nuxt/img/cc-settings-white.0c16898.svg)
+
+### Advanced Caption Settings
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTguNTkgMTYuNTggMTMuMTcgMTIgOC41OSA3LjQxIDEwIDZsNiA2LTYgNi0xLjQxLTEuNDJaIiBzdHlsZT0iZmlsbDojZmZmIi8+PC9zdmc+)
+
+![](/_nuxt/img/cc-settings-white.0c16898.svg)
+
+### Advanced Caption Settings
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE1LjQxIDE2LjU4IDEwLjgzIDEybDQuNTgtNC41OUwxNCA2bC02IDYgNiA2IDEuNDEtMS40MloiIHN0eWxlPSJmaWxsOiNmZmYiLz48L3N2Zz4=)
+
+Font
+
+Aa
+
+Aa
+
+Aa
+
+50%
+
+75%
+
+100%
+
+Background/Highlight
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGQ9Ik0xOTYuNyA5MC40SDMuM1YyNmgxOTMuM3Y2NC40Wk0xNTguOSAxNzRIMy4zdi02NC40aDE1NS42VjE3NFoiIHN0eWxlPSJmaWxsOiNmZmY7c3Ryb2tlLXdpZHRoOjAiLz48L3N2Zz4=)
+
+0%
+
+50%
+
+100%
+
+Caption Window
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGQ9Ik0xOTguNCAxOTguN0gxLjZWMS44aDE5Ni45djE5Ni45WiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==)
+
+0%
+
+50%
+
+100%
 
 ![](/_nuxt/img/share-blue.18acf69.svg)
 
@@ -211,5 +276,21 @@ Normal
 1.75x
 
 2x
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGQ9Ik0xMDguNTgzIDEwOS43NDZjLTUuNzM3IDUuNzM3LTE1LjAzOCA1LjczNy0yMC43NzUgMHMtNS43MzctMTUuMDM4IDAtMjAuNzc1bDc2LjQ4NS01NS41MDgtNTUuNzEgNzYuMjgzWm02MC44OS02NC44MzYtMTAuOTM4IDE0Ljk3N2MxNC4wMDYgMTQuNTcyIDIyLjY0NCAzNC4zNDEgMjIuNjQ0IDU2LjEwMmE4MC42IDgwLjYgMCAwIDEtMi42MDcgMjAuMzQ0SDIxLjcxM2E4MC42IDgwLjYgMCAwIDEtMi42MDYtMjAuMzQ0YzAtNDQuNjg0IDM2LjM1Mi04MS4wMzYgODEuMDM2LTgxLjAzNmE4MC41MjggODAuNTI4IDAgMCAxIDMzLjYzNyA3LjM0bDE2LjU0OS0xMi4wMWMtMTQuNzM4LTguNjYyLTMxLjg5LTEzLjY0LTUwLjE4Ni0xMy42NEM0NS4zNjMgMTYuNjQ0Ljc5NyA2MS4yMS43OTcgMTE1Ljk5YzAgMTQuNDA4IDMuMDg3IDI4LjEwOCA4LjYyOCA0MC40NzhIMTkwLjg2YzUuNTQxLTEyLjM3IDguNjI4LTI2LjA3IDguNjI4LTQwLjQ3OCAwLTI3LjgzNC0xMS41MS01My4wMjYtMzAuMDE2LTcxLjA4WiIgc3R5bGU9ImZpbGw6IzBmYTZlMjtzdHJva2Utd2lkdGg6MCIvPjwvc3ZnPg==)
+
+### Quality
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcuNDEgOC41OCAxMiAxMy4xN2w0LjU5LTQuNTlMMTggMTBsLTYgNi02LTYgMS40MS0xLjQyWiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==)
+
+Good
+
+Better
+
+Best
+
+Higher Bandwidth
+
+Lower Bandwidth
 
 [home](https://www.byutv.org/home "home") [shows](https://www.byutv.org/shows "shows") [live](https://www.byutv.org/live "live") [my byutv](https://www.byutv.org/favorites "my byutv") [Sign In](https://www.byutv.org/account "account")
