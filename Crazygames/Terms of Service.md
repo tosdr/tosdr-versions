@@ -119,14 +119,6 @@ English
 
 © 2024 CrazyGames
 
-Controller detected
-
-Explore our controller compatible games
-
-[Explore games](https://www.crazygames.com/t/controller)
-
-* * *
-
 General terms and conditions and privacy policy
 ===============================================
 
