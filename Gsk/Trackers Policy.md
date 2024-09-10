@@ -5,6 +5,10 @@ Global
 
 [Change location](https://www.gsk.com/en-gb/locations/ "Change location")
 
+[Dark mode](#)
+
+Switch to dark mode to head towards a more sustainable world together. [More info](https://www.gsk.com/en-gb/digital-sustainability/ "Digital sustainability")
+
 [Healthcare professionals Healthcare professionals](https://www.gskpro.com/ "Directing you to your local GSK healthcare professionals' website for info on GSK's medicines, vaccines and educational resources Opens in a new window") [Contact us Contact us](https://www.gsk.com/en-gb/contact-us/ "Contact us") [Search](https://www.gsk.com/en-gb/search/ "Search")[](#)
 
 Location 
@@ -29,10 +33,11 @@ Location
         
         Company [Outstanding people](https://www.gsk.com/en-gb/company/outstanding-people/)
         
+        * [Great place to work](https://www.gsk.com/en-gb/company/outstanding-people/great-place-to-work/)
+        * [Meet our veterans](https://www.gsk.com/en-gb/company/outstanding-people/meet-our-veterans/)
         * [Working together](https://www.gsk.com/en-gb/company/outstanding-people/working-together/)
         * [My GSK story](https://www.gsk.com/en-gb/company/outstanding-people/my-gsk-story/)
-        * [Innovating together 2022](https://www.gsk.com/en-gb/company/outstanding-people/innovating-together-2022/)
-        * [Innovating together 2021](https://www.gsk.com/en-gb/company/outstanding-people/innovating-together-2021/)
+        * [Innovating together](https://www.gsk.com/en-gb/company/outstanding-people/innovating-together/)
         
     * [GSK at a glance](https://www.gsk.com/en-gb/company/gsk-at-a-glance/)
     * [History and heritage](https://www.gsk.com/en-gb/company/history-and-heritage/)
@@ -50,7 +55,7 @@ Location
     * [Policy positions](https://www.gsk.com/en-gb/company/policy-positions/)
     * [Codes, standards and reports](https://www.gsk.com/en-gb/company/codes-standards-and-reports/)
     
-    [FEATURED SECTION Our purpose, strategy and culture ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/purpose-strategy-and-culture/)  [FEATURED SECTION Outstanding people ![Outstanding people](/media/9354/trust_nicola_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/) 
+    [FEATURED SECTION Our purpose, strategy and culture ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/purpose-strategy-and-culture/)  [FEATURED SECTION Outstanding people ![Angeles sitting on a sofa in a pink shirt](/media/11484/sddefault-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/) 
     
     Close menu
     
@@ -96,7 +101,7 @@ Location
         
     * [R&D locations](https://www.gsk.com/en-gb/innovation/rd-locations/)
     
-    [SPOTLIGHT ON Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Our leading scientists ![Tony Wood](/media/8313/tony-16x9.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/our-leading-scientists/) 
+    [SPOTLIGHT ON Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Our leading scientists ![Tony Wood](/media/8313/tony-16x9.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/our-leading-scientists/) 
     
     Close menu
     
@@ -108,7 +113,7 @@ Location
     * [Our product areas](https://www.gsk.com/en-gb/products/our-product-areas/)
     * [Products A-Z](https://www.gsk.com/en-gb/products/products-a-z/)
     
-    [SPOTLIGHT ON Innovation ![Lab technician leaning against wall](/media/9347/web03-header-stvg_2_2022_port_5_hess_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/)  [FEATURED WEBSITE GSKPro for healthcare professionals ![Two scientists on orange background](/media/9295/navthumb_stvg_03_2022_port_32_eagle_orange-1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://gskpro.com/) 
+    [SPOTLIGHT ON Innovation ![Lab technician leaning against wall](/media/9347/web03-header-stvg_2_2022_port_5_hess_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/)  [FEATURED WEBSITE GSKPro for healthcare professionals ![Two scientists on orange background](/media/9295/navthumb_stvg_03_2022_port_32_eagle_orange-1.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://gskpro.com/) 
     
     Close menu
     
@@ -151,14 +156,14 @@ Location
         
     * [Product governance](https://www.gsk.com/en-gb/responsibility/product-governance/)
     * [Charitable Investments](https://www.gsk.com/en-gb/responsibility/charitable-investments/)
-    * [ESG resources](https://www.gsk.com/en-gb/responsibility/esg-resources/)
+    * [Responsibility reports](https://www.gsk.com/en-gb/responsibility/esg-resources/)
         
-        Responsibility [ESG resources](https://www.gsk.com/en-gb/responsibility/esg-resources/)
+        Responsibility [Responsibility reports](https://www.gsk.com/en-gb/responsibility/esg-resources/)
         
-        * [ESG reports archive](https://www.gsk.com/en-gb/responsibility/esg-resources/esg-reports-archive/)
+        * [Reports archive](https://www.gsk.com/en-gb/responsibility/esg-resources/esg-reports-archive/)
         
     
-    [FEATURED SECTION Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/)  [SPOTLIGHT ON Our policy positions ![GSK orange texture](/media/9345/gsk_texture_fluid_03_a_cmyk_web-size_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions/) 
+    [FEATURED SECTION Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/)  [SPOTLIGHT ON Our policy positions ![GSK orange texture](/media/9345/gsk_texture_fluid_03_a_cmyk_web-size_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions/) 
     
     Close menu
     
@@ -226,7 +231,7 @@ Location
     * [Feedback](https://www.gsk.com/en-gb/investors/feedback/)
     * [Investor contacts](https://www.gsk.com/en-gb/investors/investor-contacts/)
     
-    [SPOTLIGHT ON Press releases ![Lab machinery](/media/9351/ware_3_2022_prodassmb_28_hess_nav.jpeg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/)  [SPOTLIGHT ON Our pipeline ![Case of vials](/media/9350/ware_3_2022_prodqc_14_hess.jpeg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/) 
+    [SPOTLIGHT ON Press releases ![Lab machinery](/media/9351/ware_3_2022_prodassmb_28_hess_nav.jpeg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/)  [SPOTLIGHT ON Our pipeline ![Case of vials](/media/9350/ware_3_2022_prodqc_14_hess.jpeg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/) 
     
     Close menu
     
@@ -236,8 +241,8 @@ Location
     
     * [Media](https://www.gsk.com/en-gb/media/)
     * [Press releases](https://www.gsk.com/en-gb/media/press-releases/)
-    * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media contacts](https://www.gsk.com/en-gb/media/media-contacts/)
+    * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media library](https://www.gsk.com/en-gb/media/media-library/)
     * [Our response to the situation in Ukraine](https://www.gsk.com/en-gb/media/our-response-to-the-situation-in-ukraine/)
     * [Our response to the crisis in Israel and Gaza](https://www.gsk.com/en-gb/media/our-response-to-the-crisis-in-israel-and-gaza/)
@@ -245,7 +250,7 @@ Location
     * [Our social media](https://www.gsk.com/en-gb/media/social-media/)
     * [RSS feeds](https://www.gsk.com/en-gb/media/rss-feeds/)
     
-    [FEATURED SECTION Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [SPOTLIGHT ON Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
+    [FEATURED SECTION Behind the science magazine ![Scientist works in a futurist vaccine laboratory for GSK](/media/11381/vaccine-manufacturing-production-line-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [SPOTLIGHT ON Conferences ![Lab test equipment](/media/10155/up_10_2022_lab_023_hess_jpg.png?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/conferences/) 
     
     Close menu
     
@@ -271,7 +276,7 @@ Location
         
         Careers [Experienced professionals](https://www.gsk.com/en-gb/careers/experienced-professionals/)
         
-        * [Business Operations](https://www.gsk.com/en-gb/careers/experienced-professionals/business-operations/)
+        * [Business operations](https://www.gsk.com/en-gb/careers/experienced-professionals/business-operations/)
         * [Engineering at GSK](https://www.gsk.com/en-gb/careers/experienced-professionals/engineering/)
         * [Manufacturing and supply](https://www.gsk.com/en-gb/careers/experienced-professionals/manufacturing-and-supply/)
         * [Marketing and sales](https://www.gsk.com/en-gb/careers/experienced-professionals/marketing-and-sales/)
@@ -315,9 +320,13 @@ Location
         * [Fraudulent internet recruitment activities](https://www.gsk.com/en-gb/careers/how-we-hire/fraudulent-internet-recruitment-activities/)
         
     
-    [FEATURED SECTION Outstanding people ![Outstanding people](/media/9354/trust_nicola_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [FEATURED SECTION Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/) 
+    [FEATURED SECTION Outstanding people ![Angeles sitting on a sofa in a pink shirt](/media/11484/sddefault-2.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [FEATURED SECTION Diversity equity and inclusion ![Lab technician smiling](/media/9346/web16-header-stvg_2_2022_port_13_hess_nav.jpg?mode=stretch&quality=60&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/) 
     
     Close menu
+    
+* [Dark mode](#)
+    
+    Switch to dark mode to head towards a more sustainable world together. [More info](https://www.gsk.com/en-gb/digital-sustainability/ "Digital sustainability")
     
 * [Healthcare professionals Healthcare professionals](https://www.gskpro.com/ "Opens in a new window")
 * [Contact us Contact us](https://www.gsk.com/en-gb/contact-us/)
@@ -374,7 +383,7 @@ If you don’t accept the use of these cookies, or change your mind, you can dis
   
 2\. Changing your browser and/or mobile device settings so that cookies from this website cannot be placed on your computer or mobile device.
 
-You can learn more about how to manage your cookies by visiting the Help function of your browser, the settings of your mobile device or you can visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Opens in a new window") which provides detailed information on managing cookies on popular browsers.  Please be aware that parts of our websites may not function correctly if you disable cookies.
+You can learn more about how to manage your cookies by visiting the Help function of your browser, the settings of your mobile device or you can visit [www.aboutcookies.org](http://www.aboutcookies.org/ "About cookies website") which provides detailed information on managing cookies on popular browsers.  Please be aware that parts of our websites may not function correctly if you disable cookies.
 
 [![Back to top](/assets/img/back-to-to-arrow.svg)](# "Back to top")
 
@@ -409,6 +418,7 @@ Registered office: 980 Great West Road, Brentford, Middlesex, TW8 9GS, United Ki
 * [Careers](https://www.gsk.com/en-gb/careers/)
 
 * Get in touch
+* [Contact us](https://www.gsk.com/en-gb/contact-us/)
 * [Partnerships](https://www.gsk.com/en-gb/innovation/partnerships/)
 * [Report a possible side effect](https://www.gsk.com/en-gb/contact-us/report-a-possible-side-effect/)
 * [GSK Speak up](https://gsk.i-sight.com/landing-page/ "Opens in a new window")
@@ -421,6 +431,7 @@ Registered office: 980 Great West Road, Brentford, Middlesex, TW8 9GS, United Ki
     * [rss](https://www.gsk.com/en-gb/media/rss-feeds/)
 
 * [Accessibility](https://www.gsk.com/en-gb/accessibility/)
+* [Digital sustainability](https://www.gsk.com/en-gb/digital-sustainability/)
 * [Terms of use](https://www.gsk.com/en-gb/terms-of-use/)
 * [Cookie policy](https://www.gsk.com/en-gb/cookie-policy/)
 * [Privacy notice](https://privacy.gsk.com/en-gb/privacy-notice/general "Opens in a new window")
