@@ -210,3 +210,12 @@ Contact
 Copyright © 2023 Torox. All Rights Reserved | [Terms and Conditions](https://torox.io/terms-conditions/) | [Privacy Policy](https://torox.io/privacy-policy/) | [Privacy Requests](https://torox.io/privacy-requests/)
 
 UX, UI & Development by [![UX, UI & Development by](https://torox.io/wp-content/uploads/2023/08/logo-1.svg)](https://www.madebyomnis.com/)
+
+We use cookies in the delivery of our services
+----------------------------------------------
+
+To learn about the cookies we use and information about your preferences and opt-out choices, please click here. By using our platform you agree to our use of cookies.
+
+Accept all Accept selection Reject all
+
+ Necessary Analytics  Preferences  Marketing
