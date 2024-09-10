@@ -11,12 +11,12 @@ MyData
     * [Members](https://mydata.org/participate/members/)
     * [Careers](https://mydata.org/careers/)
     * [History](https://mydata.org/about/history/)
+* [Awards](https://mydata.org/participate/awards/)
 * [Participate](https://mydata.org/participate/)
     * [Become a member](https://mydata.org/participate/become-a-member/)
     * [Sign the Declaration](https://mydata.org/participate/declaration/)
     * [Subscribe to Newsletter](https://mydata.org/subscribe/)
     * [Projects](https://mydata.org/projects/)
-    * [Awards](https://mydata.org/participate/awards/)
     * [Local Hubs](https://mydata.org/participate/hubs/)
     * [Thematic groups](https://mydata.org/participate/groups/)
 * [Publications](https://mydata.org/publications/)
@@ -25,8 +25,11 @@ MyData
     * [White papers](https://mydata.org/pub_type/white-paper/)
     * [Case Studies (old site)](https://oldwww.mydata.org/cases/)
 * [Events](https://mydata.org/events/)
-    * [Making Sense of Digital Wallets](https://mydata.org/event/making-sense-of-digital-wallets-the-eidas-update-and-what-it-means-for-human-centric-data/)
+    * [Community Calendar](https://mydata.org/community-calendar/)
     * [All events](https://mydata.org/event/)
+    * [MyData Global Extraordinary General Meeting 2024](https://mydata.org/event/mydata-global-extraordinary-general-meeting-2024/)
+    * [MyData Workshop: Portability tool testing for DMA compliance](https://mydata.org/event/mydata-workshop-portability-tool-testing-for-dma-compliance/)
+    * [Making Sense of Wallets 2: Anticipating Public Sector Demand](https://mydata.org/event/making-sense-of-wallets-2-anticipating-public-sector-demand/)
     * [Webinars](https://mydata.org/event_cat/webinar/)
 * [News](https://mydata.org/updates/)
 
@@ -103,12 +106,13 @@ We collect personal data from you for one or more of the following purposes:
 MyData Global ry is an EU-domiciled organisation whose primary offices are in Finland. Personal data may be nevertheless transferred outside the European Union or the European Economic Area.
 
 * Our websites are hosted in the EU. In addition to our EU-based staff, they may be accessed by staff and/or volunteers based outside of the EU if deemed necessary.
-* This website and the member registry are hosted in Finland by Seravo Ltd.
-* Other services used to process personal information of members: Google Workspace ([privacy policy](https://policies.google.com/privacy?hl=en)), Zapier ([privacy policy](https://zapier.com/legal/data-privacy)), HubSpot ([privacy policy](https://legal.hubspot.com/privacy-policy)), Slack ([privacy policy](https://slack.com/trust/privacy/privacy-policy)), Airtable ([privacy policy](https://www.airtable.com/privacy)), Mailerlite ([privacy policy](https://www.mailerlite.com/legal/privacy-policy)), Typeform ([privacy policy](https://admin.typeform.com/to/dwk6gt?)).
+* This website and the member registry are hosted in the Netherlands by [Greenhost BV](https://www.greenhost.nl/).
+* Other services we use to process personal information of members: Google Workspace ([privacy policy](https://policies.google.com/privacy?hl=en)), Slack ([privacy policy](https://slack.com/trust/privacy/privacy-policy)), Airtable ([privacy policy](https://www.airtable.com/privacy)), Typeform ([privacy policy](https://admin.typeform.com/to/dwk6gt?)).
+* We use an ethical analytics tool, [Matomo Analytics Ethical Stats](https://wordpress.org/plugins/matomo/) **(**[more information](https://matomo.org/matomo-on-premise/)**),** to understand how visitors are accessing our website so that we can improve the user experience. This is installed within our website and does not use external hosting. All analytics data is stored within our own website and no data is shared with any third parties under any circumstances. You can opt out using the form at the bottom of this page.
 * Our local hubs may use their own tools to process member data that members have agreed to share with the hubs.
 * Our payment processors and banking arrangements are provided by [Nordea](https://www.nordea.com/en), [Procountor](https://secure.procountor.com/procountor/), [Holvi,](https://www.holvi.com/) [Stripe](https://stripe.com/) and [Transferwise](https://transferwise.com/).
-* Individual register descriptions define how we collect, store and/or process personal information
-* Data is stored for the minimum time necessary and at most, for 1 (one) year from last interaction with the collected data
+* Individual register descriptions define how we collect, store and/or process personal information.
+* Data is stored for the minimum time necessary and at most, for 1 (one) year from last interaction with the collected data.
 
 5\. Lawful basis for the processing of personal data
 ----------------------------------------------------
@@ -222,7 +226,15 @@ Finland
 10\. Analytics Opt-out
 ----------------------
 
-\[matomo\_opt\_out\]
+Opt-out complete; your visits to this website will not be recorded by the Web Analytics tool. Note that if you clear your cookies, delete the opt-out cookie, or if you change computers or Web browsers, you will need to perform the opt-out procedure again.
+
+You may choose to prevent this website from aggregating and analyzing the actions you take here. Doing so will protect your privacy, but will also prevent the owner from learning from your actions and creating a better experience for you and other users.
+
+ **You are not opted out. Uncheck this box to opt-out. You are currently opted out. Check this box to opt-in.**
+
+**This opt out feature requires JavaScript.**
+
+**The tracking opt-out feature requires cookies to be enabled.**
 
 Register description for this site
 ----------------------------------
