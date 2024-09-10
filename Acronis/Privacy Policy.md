@@ -38,7 +38,7 @@ Choose region and language
 * [Romania Română](https://www.acronis.com/ro-ro/)
 * [Spain Español](https://www.acronis.com/es-es/)
 * [Sweden Svenska](https://www.acronis.com/sv-se/)
-* [Turkey Türkçe](https://www.acronis.com/tr-tr/)
+* [Türkiye Türkçe](https://www.acronis.com/tr-tr/)
 * [United Kingdom English](https://www.acronis.com/en-gb/)
 * [Hungary Magyar](https://www.acronis.com/hu-hu/)
 * [Netherlands Dutch](https://www.acronis.com/nl-nl/)
@@ -71,7 +71,7 @@ Choose region and language
     * [Romania Română](https://www.acronis.com/ro-ro/)
     * [Spain Español](https://www.acronis.com/es-es/)
     * [Sweden Svenska](https://www.acronis.com/sv-se/)
-    * [Turkey Türkçe](https://www.acronis.com/tr-tr/)
+    * [Türkiye Türkçe](https://www.acronis.com/tr-tr/)
     * [United Kingdom English](https://www.acronis.com/en-gb/)
     * [Hungary Magyar](https://www.acronis.com/hu-hu/)
     * [Netherlands Dutch](https://www.acronis.com/nl-nl/)
@@ -114,11 +114,11 @@ Menu Close
     
     Cybersecurity
     
-    [Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Acronis MDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
+    [Security + XDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/extended-detection-and-response/) [Security + EDR](https://www.acronis.com/en-us/products/cloud/cyber-protect/security-edr/) [Managed Detection & Response (MDR)](https://www.acronis.com/en-us/products/cloud/cyber-protect/managed-detection-and-response/) [Email Security](https://www.acronis.com/en-us/products/cloud/cyber-protect/email-security/) [Collaboration App Security for M365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-collaboration/) [Data Loss Prevention (DLP)](https://www.acronis.com/en-us/products/cloud/cyber-protect/data-loss-prevention/)
     
     Data protection
     
-    [Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [File Sync and Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
+    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [File Sync & Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
     
     MSP operations
     
@@ -292,6 +292,7 @@ Menu Close
     * [Managed services](https://www.acronis.com/en-us/support/providers/general-info/)
     * [Home and individual use](https://www.acronis.com/en-us/support/trueimage/)
     * [Remote work](https://www.acronis.com/en-us/support/mobility/files-advanced/)
+    * [Acronis Advantage Program](https://www.acronis.com/en-us/support/advantage/)
     
     Need more help?
     
@@ -318,7 +319,7 @@ Menu Close
     
     Browse through a full list of the latest product documentation, case studies, white papers, eBooks, upcoming and on-demand webinars of Acronis
     
-    * [MSP Threats - Latest on threats to managed IT service provider security](https://www.acronis.com/en-us/cyber-protection-center/)
+    * [TRU Security - Latest on threats to managed IT service provider security](https://www.acronis.com/en-us/cyber-protection-center/)
     * [Acronis Blog](https://www.acronis.com/en-us/blog/)
     
     Product resources
@@ -892,7 +893,7 @@ Engage with Acronis
     * [Romania Română](https://www.acronis.com/ro-ro/)
     * [Spain Español](https://www.acronis.com/es-es/)
     * [Sweden Svenska](https://www.acronis.com/sv-se/)
-    * [Turkey Türkçe](https://www.acronis.com/tr-tr/)
+    * [Türkiye Türkçe](https://www.acronis.com/tr-tr/)
     * [United Kingdom English](https://www.acronis.com/en-gb/)
     * [Hungary Magyar](https://www.acronis.com/hu-hu/)
     * [Netherlands Dutch](https://www.acronis.com/nl-nl/)
@@ -925,7 +926,7 @@ Engage with Acronis
         * [Romania Română](https://www.acronis.com/ro-ro/)
         * [Spain Español](https://www.acronis.com/es-es/)
         * [Sweden Svenska](https://www.acronis.com/sv-se/)
-        * [Turkey Türkçe](https://www.acronis.com/tr-tr/)
+        * [Türkiye Türkçe](https://www.acronis.com/tr-tr/)
         * [United Kingdom English](https://www.acronis.com/en-gb/)
         * [Hungary Magyar](https://www.acronis.com/hu-hu/)
         * [Netherlands Dutch](https://www.acronis.com/nl-nl/)
