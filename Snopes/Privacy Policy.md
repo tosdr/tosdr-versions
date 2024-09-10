@@ -48,6 +48,8 @@ More
 
 [FactBot](https://www.snopes.com/factbot/)
 
+[Newsletters](https://www.snopes.com/newsletters/)
+
 [About Us](https://www.snopes.com/about/)
 
 Categories
@@ -63,6 +65,14 @@ Categories
 Free accounts support our journalism [Become a Member](https://www.snopes.com/join/)
 
 Login [My Profile](https://www.snopes.com/profile/) Logout
+
+![republican_symbol](/design/images/republican_symbol.png)
+
+[Snopes is fact-checking the presidential debate live!](https://www.snopes.com/live/harris-trump-debate-live-updates/)
+
+[Read more here](https://www.snopes.com/live/harris-trump-debate-live-updates/)
+
+![democrat_symbol](/design/images/democrat_symbol.png)
 
 About Menu
 
@@ -247,6 +257,8 @@ To ask questions or comment about this privacy policy and our privacy practices,
 [Search](https://www.snopes.com/search/)
 
 [Archive](https://www.snopes.com/sitemap/)
+
+[Newsletters](https://www.snopes.com/newsletters/)
 
 [Random](https://www.snopes.com/random/)
 
