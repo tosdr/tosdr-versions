@@ -17,7 +17,10 @@
     * [Inspire](https://www.indiatimes.com/health/videos)
     * [Tips & Tricks](https://www.indiatimes.com/health/tips-tricks)
     * [Buzz](https://www.indiatimes.com/health/buzz)
-* [Relationships](https://www.indiatimes.com/lifestyle/relationships) 
+* [Fashion](https://www.indiatimes.com/fashion) 
+    * [Beauty & Care](https://www.indiatimes.com/fashion/beauty-care)
+    * [Celebrity Fashion](https://www.indiatimes.com/fashion/celebrity-fashion)
+    * [Style](https://www.indiatimes.com/fashion/style)
 * [Worth](https://www.indiatimes.com/worth) 
     * [Investment](https://www.indiatimes.com/worth/investment)
     * [Mutual Funds](https://www.indiatimes.com/worth/mutual-funds)
@@ -60,261 +63,275 @@
 
 [](https://www.indiatimes.com/search)
 
-INDIATIMES EU PRIVACY POLICY
-----------------------------
+Last Reviewed Date: 05/10/2021
 
-Last Reviewed Date: 24/08/2020
+This Privacy Policy (“Policy”) describes the information which Times Internet Limited (“We”, “Us”, “Our” “Services”, “Company”) collects from you when you download, access, or use its Website or Mobile Application(**“Sites”**) for delivery of information, products, offerings and content via any mobile or internet connected device or otherwise (collectively the **"Services"**).
 
-This privacy policy (“Policy”) explains our policy regarding the collection, use, disclosure, storage and transfer of your information by Times Internet Limited. wholly owned subsidiary of Bennett Coleman & Co. Limited (“**Company**”) which operates and manages the website [https://www.indiatimes.com](https://www.indiatimes.com/) through various platforms (“**Site**”) for delivery of information, products, offerings and content via mobile or any internet connected device or otherwise (collectively the "Services"). 
+This Privacy Policy should be read in conjunction with the Terms of Use applicable to the TIL Services you are using.
 
-Indiatimes.com is the registered domain name and official website of India Times, a Times Group Company.
+Please keep in mind that when you provide information to Us on a third-party site or platform (for example, via Our website or applications like social media login). The information We collect is through those third-party sites linked with Our Sites and is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to Our use of the information we have collected directly through Our Sites. Please also keep in observance that Our Sites and applications may contain links to other sites not owned or controlled by Us and We are not responsible for the privacy practices of those sites. We encourage you to read the privacy policies of such other sites they may collect your personal information.
 
-Please read this Policy along with the Terms of Use linked separately to this Site. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use. This Policy is applicable to persons who access, browse or use the Services or any part thereof (“User”). For the purpose of this Policy, wherever the context so requires "you" or "your" shall mean User and the term "we", "us", "our" shall mean Company.
+All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.
 
-As we update, improve and expand the Services, this Policy may change, so please refer to it periodically. By accessing the Site or otherwise using the Services or any part thereof, you consent to collection, storage, transfer and use of the personal information you provide (including any changes thereto as provided by you) for any of the Services. 
+**User Consent**
 
-The Company respects the privacy of the Users of the Services and is committed to reasonably protect it in all respects. The information about the User as collected by the Company is: (a) information supplied by users and (b) information automatically tracked while navigation navigation (c) information collected from any other source (collectively referred to as “Information”).
+By using TIL Services (for example, when you register for an account, communicate with us, on Our sites or applications or through social media), you agree and provide consent to Our collection, use and sharing of your personal information as described in this policy.
 
-WHAT DATA IS COLLECTED?
------------------------
+**Accessing Site and TIL Services through VPN**
 
-### INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY
+You should not access or use the Site or TIL Services by means of any mechanism or technology which conceals your actual geo-location or provides incorrect details of your location (for example, use a virtual private network (VPN) to access TIL Services, proxy server).
 
-#### INFORMATION SUPPLIED BY USERS
+We will not be responsible or liable for any collection, storage or processing of your personal information or data if you use any mechanism or technology to access or use Site or TIL Services which conceals your actual geo-location.
 
-To avail certain services on the Services, users are required to provide certain personally identifiable information for the registration process which may include:- 
+**Usage of our Mobile Applications**
 
-your name, 
+This policy shall also apply to our mobile applications. You are urged to update to the most current version of mobile applications. If you use an older version of these apps and/or access discontinued services, We may not be responsible or liable for any damages, due to any collection, storage and processing of your personal information as per older version of mobile application.
 
-email address, 
+**COLLECTION AND USE OF PERSONAL INFORMATION**
 
-gender, 
+**A. Information you provide to Us**
 
-date of birth, 
+**Information Collected at the time of registration**
 
-verified mobile number, 
+During registration, We ask that you provide basic personal information from you to continue to interact with you and to continue providing you the Services. Information that We may collect including but may not limited to the following-
 
-address, etc. 
+* First/Last Name
+* Sex,
+* Age,
+* City, State, Address,
+* E-mail id
+* Contact number/Mobile No.
+* DOB
+* Occupation,
+* Interests
 
-When you register using your other accounts like on Facebook and Gmail (social login), we shall retrieve personal information as mentioned below, from such account to continue to interact with you and to continue providing the Services:
+**Information you provide to Us voluntarily**
 
-Facebook Login Details:
+If you send Us personal correspondence, such as emails or letters, or if other users or third parties send Us correspondence about your activities or postings on the Site, We may collect and store such information.
 
-name, 
+We may collect additional information ( for example, your name, e-mail id, mobile number , location etc.,) at other times, including but not limited to, when you provide feedback(s), modify your content or email preferences, respond to surveys, provide comments, or communicate with Us. Additionally, We may also capture the financial information you provide Us such as investment details or compensation details when you use TIL Service functionalities like Wealth Calculator and Tax Calculator.
 
-email address,
+**B. Information automatically collected while browsing/navigating through the Site**
 
-gender
+**Cookies**
 
-photo  
-  
+The Site uses cookies and other similar technologies which are necessary to its functioning and to provide TIL Services. Some of these cookies are essential for Us to provide you with the TIL services. For more information about essential cookies
 
-Google Login Details:
+To improve the responsiveness of the Sites for our Users, we may use "cookies", or similar electronic tools to collect Information to assign each visitor a unique, random number as a User Identification (User ID) to understand the User's individual interests using the identified computer or device. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer or device. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive or device. Our advertisers may also assign their own cookies to your browser (if you click on their ads etc.), a process that we do not control. We receive and store certain types of Information whenever you interact with us via Site or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.
 
-name, 
+**Opting out**
 
-email address,
+If a User opts out using the Ads Settings, the unique DoubleClick cookie ID on the User's browser is overwritten with the phrase "OPT\_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.
 
-gender
+You can opt-out of Google Analytics for display advertising and customize Google Display Network ads using the Ads Settings options provided by Google
 
-photo
+If you are interested in opting-out from specific interest-based ads, you can opt-out through the privacy policy page or opt-out by writing to the Grievance Officer. If you have opted out, you will not obtain personalized ads from Us via Colombia.
 
-When you choose any subscription or paid service provided as part of our Services, we or our payment gateway provider may collect your purchase, address or billing information, including your credit card number and expiration date, etc. 
+**Log File Information**
 
-We also store the first 6 and last 4 digits of User’s card number in a secure and encrypted manner. The first 6 digits (also known as the Bank Identification Number) are used to identify the bank name and country where User’s card was issued. The first 6 and last 4 digits are together used for fraud detection and prevention purposes.
+We may automatically collect limited information from your computer/device when you visit our site, application or service, for example;
 
-**VOLUNTARY INFORMATION****:**
+* IP address
+* Location/IP address
+* Device serial number/ID
+* for OTP
+* In App permissions for capturing location, storage, network connection and Wi-Fi connection
+* Advertiser ID/ iDFA
+* pages you view
+* your computer/device's name,
+* your operating system,
+* browser type and version,
+* CPU speed,
+* connection speed.
+* SSO ID
+* Reviews and comments provided by you
+* Your preferences while using the Sites
+* Your activities and browsing patterns on the Site
+* Articles and Topics, you have read, followed, shared and saved
+* People you follow and people following you
+* Response to a survey,
+* any communications with us
 
-We may collect additional information at other times, including but not limited to, when you provide feedback, comments, change your content or email preferences, respond to a survey, or any communication with us.
+**Clear GIFs**
 
-Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like Facebook, twitter etc. Any information posted/uploaded/conveyed/communicated by Users on the public sections of the Sites becomes published content and is not considered personally identifiable information subject to this Policy.
+We may use "clear GIFs" (Web Beacons) to track the online usage patterns of our Users in an anonymous manner, without personally identifying the User. We may also use clear GIFs in HTML-based emails sent to our Users to track which emails are opened by recipients. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Sites or Service to the interests of our users, to measure traffic within our Sites to improve the quality, functionality and interactivity of our Sites and let advertisers know the geographic locations from where our Users come without personally identifying the Users.
 
-#### INFORMATION AUTOMATICALLY COLLECTED / TRACKED WHILE NAVIGATION
+**C. Inferred Information through usage and log data**
 
-The following are the Cookies used on our website:
+We may track certain information about you based upon your behaviour on TIL Services. We use this information for conducting internal research on Our users' demographics (such as age, gender), devices, interests, and behaviour to better understand, protect and serve Our users.
 
-|     |     |
-| --- | --- |
-| Cookie Name | What's it for |
-| First Party Cookies (Internal Cookies) | To provide you TIL Services |
-| Scorecard Research by comScore | Comscore provides us with analytical information about our users. This data is then used for sales pitches, editorial, strategy, business development and product development. For more information about how comScore uses this data, please visit the [Scorecard Research Privacy Policy](https://www.scorecardresearch.com/privacy.aspx). [Opt-out of ScoreCard Research cookies](https://www.scorecardresearch.com/preferences.aspx?newlanguage=1) |
-| Google Analytics | Google provides us with analytical information about our users. Google Analytics sets a cookie in order to evaluate use of those services and compile a report for us. [Opt-out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout?hl=en) |
-| Google DoubleClick | We use Google DoubleClick to measure the effectiveness of our online marketing campaigns. [Opt-out of DoubleClick cookies](https://support.google.com/ads/answer/7395996) |
-| Others  <br>_Slike_ | Live streaming and videos on demand. |
+We may also collect your Information to track user behaviour and preferences for internal analytics and research. We may also use your information:
 
-##### HOW TO MANAGE COOKIES
+* To evaluate your interest for various genres of content, services, offers;
+* To perform analytics and conduct customer research, to determine your interest, for identifying content that generates sales and to analyse traffic patterns.
 
-**How to implement your choice according to the browser you use?** 
+If you choose to post messages on social media accounts, message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We may retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems and to comply with legal obligations under the applicable laws.
 
-When it comes to managing cookies and your choices, the configuration of each browser is different. More information can be found in the help menu of your browser, which will inform you of the proper procedure to follow:
+The above information may also be captured by keeping cookies on Our Sites by Our affiliates for the purposes mentioned above.
 
-[Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+**D. Information we collect from third parties**
 
-[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+**Information obtained from other Sources**
 
-[Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=en_US)
+We may receive information about you from other online sources. We may add it to Our account information system and treat it in accordance with this policy. If you provide information to the platform provider or other partner to whom We provide services, your account information including may be passed on to Us. We may obtain updated contact information(s) from third parties in order to correct Our records and fulfil the Services or to communicate with you or share the information with any third party.
 
-[Firefox](https://support.mozilla.org/en-US/t5/Protect-your-privacy/What-are-Cookies-and-how-to-manage-them/ta-p/13081)
+**Information obtained from Third party Sites**
 
-[Opéra](https://help.opera.com/Windows/10.20/en/cookies.html)
+If you link, connect or login to your TIL Services account with a third party services they may send Us information such as your registered e-mail id and public profile information from the service as stated below;
 
-At any time you may view the cookie management settings used by your browser, and delete any cookies it has stored, which must be done one by one. To make your search easier, please find below a list of direct links for each of the main browsers in use:
+* Facebook –Email ID and public profile information which may include name, profile picture, age, gender etc.
+* Google –Email id, language preference and age.
+* LinkedIn – Email id, public information which may include name, profile picture, current position etc.
 
-[Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/windows?os=windows-7)
+**Demographic and other information**
 
-[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB&hlrm=en)
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use various third party analytics service providers, among others, to track the user behaviour on Our Site. They are used to support display advertising towards helping Us gain understanding of Our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with Us.
 
-[Safari](https://support.apple.com/kb/PH19214?locale=fr_FR&viewlocale=en_US)
+**Subscription or Paid service data**
 
-[Firefox](https://support.mozilla.org/t5/Cookies-and-cache/Delete-cookies-to-remove-the-information-websites-have-stored-on/ta-p/1919)
+When you choose any subscription or paid service, We or Our payment gateway provider may collect your personal information such as address or billing information, including your credit/debit card number and expiration date etc. The subscriptions or paid Services may be on auto renewal mode unless cancelled. If at any point you do not wish to auto-renew your subscription, you may cancel your subscription before the end of the subscription term or contact Us on Our support e-mail.
 
-[Opéra](https://help.opera.com/Windows/10.20/en/cookies.html)
+**Transactional/ Billing information**
 
-This configuration is different on your cell phone or tablet:
+Based on your purchase of a subscription or paid service, Our payment gateway partner may collect information, including but not limited to, your credit/debit card details or other bank account details along with your billing address. This information is stored by the payment gateway partner. For instance, the Services will be using third party payment gateway partners to process and facilitate the payment of your subscription fee to the Services for providing you access to the subscription; such payment gateway partners are not controlled by us. When you visit such payment gateways you do so at your own risk. We encourage you to familiarize yourself with the privacy statements provided by such payment gateways prior to providing them with information about you or entering into any transactions with them. We do not assume any responsibility or liability for such payment gateways, the content of such payment gateways and their privacy practices, nor do we endorse them.
 
-[iOS](https://support.apple.com/en-gb/HT201265)
+We may receive financial or transactional information (for e.g., transaction ID, etc.) from third party vendors in case of payments, for reconciliation and validation of transactions and also for the purpose of resolutions of complaints (in case of failed transactions and refunds).
 
-[Android](https://www.wikihow.com/Disable-Cookies#Android_Devices)
+**PURPOSES FOR COLLECTING, PROCESSING AND DISCLOSING YOUR PERSONAL INFORMATION**
 
-[Blackberry](https://global.blackberry.com/en/legal/privacy-policy.html#types-info-d)
+We use information to provide, analyse, administer, enhance and personalize Our service and marketing efforts, to process your registration, to provide you services, and to communicate with you related to below mentioned points. For example, we may use information to:
 
-##### LOG FILE INFORMATION
+* To provide you and administer Our services
+* Enabling registration/Sign Up and maintaining your accounts on TIL Service
+* Providing you location specific content
+* Analyse and understand Our audience, improve Our service (including Our user interface experiences),recommendation algorithms and delivery which may require sharing personal information with Our group companies and affiliates or third-party service providers
+* To help advertisers understand Our audience and confirm the value of advertising on Our Site(however it is usually in the form of aggregated statistics on traffic to various pages within our site) and to provide you relevant ads
+* To provide you with interest-based content like articles, stories, news on our site
+* Facilitate your use of functionalities like Tax and Wealth calculator
+* Enable your participation in various webcasts and webinars conducted on the Site
+* Provide you with push notifications on your browser.
+* Communicate with you concerning Our service (for example by email), so that We can send you news about TIL Services, details about new features and content available on the TIL Services, promotional announcements, and surveys, and to assist you with operational requests such as password reset requests.
+* Notify you about changes in terms of service or privacy policy
+* Allow you to participate in interactive features offered through Our Services
+* Sharing with Our customer support team to resolve your queries/concerns related to your rights or services provided to you.
 
-Our web servers automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as pages you view. We automatically receive and log information from your browser, including your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device’s name, device’s serial number or unique identification number (e.g.. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
+**Information Use by the Company**
 
-##### CLEAR GIFs
+The Information supplied by you enables Us to improve Our services and provide you the most user-friendly experience(s). In some cases for e.g. provision of certain service(s) or utility (ies), We may require your contact information as well. All required information is service dependent and TIL may use the above said user Information to, maintain, protect, and improve the Services and for developing new services.
 
-We may use "clear GIFs" (Web Beacons) to track the online usage patterns of our users in an anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our Users to track which emails are opened by recipients. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site to the interests of our Users, to measure traffic within our Site to improve the Site quality, functionality and interactivity and let advertisers know the geographic locations from where our Users log in.
+We may also use your email address or other personally identifiable information to send commercial or marketing messages about our Services and/or such additional updates and features about third parties products and services with an option to subscribe / unsubscribe (where feasible). We may, however, use your email address for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.)
 
-#### INFORMATION FROM OTHER SOURCES
+Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like Facebook, twitter etc. Any posted/uploaded/conveyed/communication by users on the public sections of the "Site" becomes published content and is not considered personally identifiable information subject to this Privacy Policy. In case you choose to decline to submit personally identifiable information on the Sites, We may not be able to provide certain services on the Sites to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, We will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information.
 
-We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you. 
+When you register with the Application or Services, we contact you from time to time about updating your personal information to provide you features that we believe may benefit/interest you.
 
-We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the User behavior on our Site. Google Analytics specifically has been enabled to support display advertising towards helping us gain understanding of our Users' demographics and interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google. If you don't want Analytics to be used in your browser, you can install the Google Analytics opt out browser add-on.
+**Information sharing with legal authorities, affiliates**
 
-### **LINKS TO THIRD PARTY SITES / AD-SERVERS**
+TIL shares your information with any third parties without obtaining the prior consent of User in the following limited circumstances:
 
-The Sites may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website/application, you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these third party sites via a link from the respective website / application's homepage, you should contact the website/ application owners directly for more information.
+* When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms or for complying with the applicable laws and regulations.
+* TIL may share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on Our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.
+**Disclosure to Third parties**
 
-In case you decline to submit personally identifiable information on the Sites, we may not be able to provide certain Services on the Sites to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, we will not be liable and or responsible for the denial of certain Services to you, in case you do not provide us the necessary personal information.
+**Service Providers**
 
-HOW COLLECTED DATA IS USED?
----------------------------
+The Application may include links to other Sites or applications (for e.g., links to payment gateways for payment of subscription fees). Such Sites or applications are governed by their respective privacy policies, which are beyond Our control. Once you leave Our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, Site you are visiting. That policy may differ from Ours. If you can't find the privacy policy of any of these sites via a link from the Site homepage, you should contact the application/Site owners directly for more information.
 
-The information as supplied by the Users enables us to improve the Services and provide you the most user-friendly experience.
+**Advertisers**
 
-In some cases/provision of certain Service(s) or utility (ies), we may require your contact address as well.
+When we present Information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Sites -- it is usually in the form of aggregated statistics on traffic to various pages / content within our Sites. We use third-party advertising companies to serve ads when you visit our Sites. These companies may use Information (excluding your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other Sites or applications, in order to provide advertisements about goods and services of interest to you. We do not provide any personally identifiable information to third party advertisers / ad-servers without your consent.
 
-All required Information is Service dependent and the Company may use the above said User Information to maintain, protect, and improve the Services (including advertising and personalization on the Sites) and for developing new services.
+**Merger**
 
-We may also use your email address or other personally identifiable information to send commercial or marketing messages about our Services and/or such additional updates and features about third parties products and services with an option to subscribe / unsubscribe (where feasible).
+In the event Times Internet Ltd. is merged with or acquired by another company or in case of reorganization or restructuring of business, we and Our affiliates may share your personal information, wholly or in part, with another business entity.
 
-We may, however, use your email address for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).
+**Business transfers**
 
-When you register with the Sites or Services, we contact you from time to time about updating your personal information to provide the Users such features that we believe may benefit / interest you.
+We provide personal information to Our affiliates and other trusted businesses or persons to process it for us, based on Our instructions and in compliance with Our Privacy Policy and any other appropriate confidentiality and security measures. We may share your activity on our Sites both for processing and for calculation of reward points of your profile with Times Points. This information may be stored by them.
 
-Social networks: If you interact with social media features on our Services, such as the Facebook Like button, or use your social media credentials to log-in or post content, these features may collect information about your use of the Services, as well as post information about your activities on the social media service. Your interactions with social media companies are governed by their privacy policies.
+**Third Party Surveys, Promotional Activities conducted on Site**
 
-We use third-party advertising companies to serve ads when you visit or use our Sites or Services. These companies may use information (excluding your name, address, email address or telephone number or any personally identifiable information) about your visits or use to particular websites, mobile application or services, in order to provide advertisements about goods and services of interest to you. We also allow advertisers and creators to serve advertisements directly, using the Company's own ad serving technologies.
+Surveys, promotional activities, might be conducted on our Site by associated third party vendors directly. Your personal information such as name, email, phone number, IP address, country code etc., may be captured by the vendor, in case you provide the details for participation in the Survey, promotional activity. Please note that the personal information may be shared between us and vendors for processing and deriving insights from the survey results, promotional activity.
 
-HOW COLLECTED DATA IS SHARED?
+**LINKS TO THIRD PARTY SITES / AD-SERVERS**
 
-The Company shares the sensitive personal information with a third party without obtaining the prior consent of the User in the following limited circumstances:
+Our Sites may include links to third party Sites, applications and ad servers. The collection of your information including but not limited to PII by such Sites, applications and/or ad servers are governed by their respective privacy policies, which are beyond our control. Their privacy policy may differ from ours.
 
-When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these terms or for complying with the applicable laws and regulations.
+You may share your Information regarding your activities on Sites with third party social Sites to populate your social wall that is visible to other people.
 
-The Company proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
+**DATA RETENTION AND ERASURE**
 
-We may share your information when we believe in good faith that such sharing is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities or to comply with the legal process. We may also share your information to investigate and address threats or potential threats to the physical safety of any person, to investigate and address violations of this Policy or the Terms of Use, or to investigate and address violations of the rights of third parties and/or to protect the rights, property and safety of Company, our employees, users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations on account of legal requests such as subpoena, court order or government demand to comply with the law.
+**How long do we store and use your Information**
 
-TRANSFER OF PERSONAL DATA TO THIRD COUNTRY
-------------------------------------------
+We retain the information which We have collected no longer than is necessary. This is determined on a case by case basis. Normally We will retain the information as long as you maintain an account with Us and till the time you continue to access and use TIL Services. We will delete your information as soon as reasonably possible, based on your account activity and in accordance with applicable law(s), whenever you request Us to do so. However, We may archive and/or retain some information for legal purposes.
 
-The information we collect about you, in certain cases is transferred to the servers hosted in third countries, by the third parties engaged by us.
+When you use the Services or Sites (or any of its sub sites), we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services and/or due to requirements under applicable laws for retaining or preserving information, after you delete your information, such information and/or residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-Some countries that are not members of the European Economic Area (EEA) are recognized by the European Commission as providing an adequate level of data protection according to EEA standards. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, including by ensuring that the recipient is bound by relevant data protection contractual clauses, to protect your personal data. 
+**Data Erasure**
 
-ACCESSING, CORRECTING OR DELETING YOUR PERSONAL INFORMATION
------------------------------------------------------------
+We retain your personal information as long as necessary for Us to provide services to you or you ask Us to not retain your data. If you no longer want Us to use your information then you can request that We erase your personal information and close your TIL Services account as soon as reasonably possible, based on your account activity and in accordance with applicable law(s)..
 
-We will take reasonable steps to accurately record and retain the personal information that you provide to us and any subsequent updates thereto, subject to any requirement for such personal information and/or sensitive personal data or information to be retained by law or for legitimate business purposes.
+We may retain some of your personal information as necessary for Our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if We suspend the TIL Services account for fraud or safety reasons, We may retain certain information from that account to prevent that user from opening a new account in the future.
 
-We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirement. If you would like to review, change or delete personal information we have collected from you, or permanently delete your account, please contact the Indiatimes’s Grievance Officer.
+We may retain and use your personal information to the extent necessary to comply with Our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.
 
-We ask individual Users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+Information you have shared with others (e.g., Reviews, forum postings) may continue to be publicly visible on the TIL Services, even after your account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in Our database, but are disassociated from personal identifiers.
 
-Your right to review, update, correct, and/or delete your personal information may be limited, subject to the law of your jurisdiction, in the following scenarios:
+Because We maintain copies of personal information to protect from accidental or malicious loss and destruction, residual copies may take a period of time before they are deleted from Our active servers and may remain in Our backup systems.
 
-If your requests are unreasonably excessive or repetitive,
+You can request for deletion of your information by writing to our designated Grievance Officers, via in writing or through email signed with the electronic signature. The list of respective grievance officers is being provided in Terms of Use.
 
-Where the rights or safety of another person or persons would be jeopardized, or
+Please note that if you have multiple accounts with Us, then you will have to raise separate requests for each of the accounts, along with the associated email IDs or phone numbers.
 
-If the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct, and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+Further, We may retain and use Your personal information to the extent necessary to comply with Our legal obligations. For example, We may keep some of Your information for tax, legal reporting and auditing obligations.
 
-SECURITY: HOW WE PROTECT YOUR PERSONAL INFORMATION
---------------------------------------------------
+**CHILDREN’S PRIVACY**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on Site is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+TIL Service is not intentionally designed for or directed at persons less than 18 years of age. TIL does not knowingly permit any person who is under 18 years of age to register with the services or to provide any other personally identifying information. If TIL becomes aware or gets notified that any personally identifiable information of persons less than 18 years of age has been collected on the TIL Services without verified parental consent, then TIL will take the appropriate steps to delete any such information.
 
-We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. You play an important role in keeping your personal information secure.
+However, We consider it the responsibility of parents to monitor their children’s use of Our services. Nevertheless, it is Our policy not to collect and process any personal information from children below 18 years of age or offer to send any promotional materials to persons in that category. TIL does not seek or intend to seek or receive any personal information from children. Should a parent or guardian have reasons to believe that a minor has provided TIL with personal information without their prior consent, please contact the Grievance Officer to ensure that the personal information is removed from the TIL Services.
 
-CHANGES TO PRIVACY NOTICE
--------------------------
+**SECURITY MEASURES**
 
-The internet is an ever evolving medium. We may alter our Policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Policy or the Terms of Use.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of Our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered is securely stored within the Company controlled database. The database is stored on servers secured behind a firewall on the cloud; access to the servers is password-protected and is strictly limited. However, as effective as Our security measures are, no security system is impenetrable. If you know or have reason to believe that your TIL account credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact Us by contacting Our Grievance officer.
 
-Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the Sites. Your use of the Sites or Services after such notice will be deemed acceptance of such changes.
+**UPDATES & CHANGES**
 
-We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Policy periodically on the Sites to ensure that you are aware of the latest version.
+We may alter Our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. We reserve the right to amend the terms of this Policy from time to time. Any changes We make will be effective immediately on notice, which We may give by posting the new policy on the Site. Your use of the Sites or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Policy periodically on the Sites to ensure that you are aware of the latest version
 
-RETENTION PERIOD
-----------------
+**GRIEVANCE REDRESSAL**
 
-Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+**Redressal Mechanism:** Any complaints, abuse or concerns with regards to the use, processing, deletion and disclosure of Information provided by you or breach of these terms should immediately be informed to the designated Grievance Officers as mentioned below via in writing or through email signed with the electronic signature grievance.it@timesinternet.in addressing to Mr. Kabeer Sharma - "Grievance Officer"
 
-MECHANISM TO WITHDRAW CONSENT
------------------------------
+Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance redressal officer as mentioned below by sending an email to or via post to
 
-Click on the link [https://www.Indiatimes.com/optoutpersonalizedads](https://www.indiatimes.com/optoutpersonalizedads) and follow the steps requested to withdraw consent and opt out of personalized ads. To place the request of delete, download or both, kindly apply on the gdpr form on this link: [https://www.Indiatimes.com/gdprform](https://www.indiatimes.com/gdprform)
+**Grievance Redressal Officer ([https://www.indiatimes.com](https://www.indiatimes.com/))**
 
-CONTACT INFORMATION
--------------------
+**Mr. Kabeer Sharma**  
+[https://www.indiatimes.com](https://www.indiatimes.com/)  
+Times Internet Limited  
+391, Udyog Vihar, Phase – III,  
+Gurgaon ,Haryana 122002, India.  
+Ph: 0124-4518550
 
-### DATA PROTECTION OFFICE
+**We request you to please provide the following information in your complaint/Grievance:-**
 
-The data controller for our services is **Times Internet Limited** with the business address of
+**a)** Identification of the information provided by you;
 
-**Times Internet Limited,**_10, Daryaganj, Delhi – 110002, India_
+**b)** Clear statement as to whether the information is personal information or sensitive personal information;
 
-Also, at
+**c)** Your address, telephone number or e-mail address;
 
-**Times Internet Ltd,**_Plot No. 391, Udyog Vihar Phase III,__Gurugram 122016, Haryana, India_
+**d)** A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be;
 
-The data protection officer (DPO) appointed by TIL is **Mr Sumit Malhotra** who can be contacted at [dpo@timesinternet.in](mailto:dpo@timesinternet.in).
+**e)** A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you;
 
-If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy, please do contact our Data Protection Officer.
+**f)** You may also contact us in case you have any questions / suggestions about the Policy using the contact information mentioned above.
 
-### REDRESSAL MECHANISM
+The Company may reach out to you to confirm or discuss certain details about your complaint and issues raised.
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [grievance\[dot\]it\[at\]timesinternet\[dot\]in](mailto:grievance.it@timesinternet.in) or write at the following address:
-
-**Mr. Kabeer Sharma ("Grievance Officer")**_Grievance Redressal Officer__Times Internet Limited.__Plot No. 391, Udyog Vihar, Phase – III,__Gurgaon – 122016, Haryana, India.__Ph : + 91-124-4187000/4518550._
-
-**We request you to please provide the following information in your complaint** :-
-
-Identification of the information provided by you;
-
-Clear statement as to whether the information is personal information or sensitive personal information;
-
-Your address, telephone number or e-mail address;
-
-A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be;
-
-A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you;
-
-You may also contact us in case you have any questions / suggestions about the Privacy Policy using the contact information mentioned above.
+**The Company shall not be responsible for any communication, if addressed, to any non-designated person in this regard.**
 
 [_Indiatimes®_](https://www.indiatimes.com/)
 
@@ -330,7 +347,7 @@ Get the NEWS that fits your groove.
 
 Quick Links
 
-[Lifestyle](https://www.indiatimes.com/lifestyle)•[Health & Wellness](https://www.indiatimes.com/health)•[Relationships](https://www.indiatimes.com/lifestyle/relationships)•[Worth](https://www.indiatimes.com/worth)•[Entertainment](https://www.indiatimes.com/entertainment)•[Technology](https://www.indiatimes.com/technology)•[Auto](https://www.indiatimes.com/auto)•[Events](https://www.indiatimes.com/events)•
+[Lifestyle](https://www.indiatimes.com/lifestyle)•[Health & Wellness](https://www.indiatimes.com/health)•[Fashion](https://www.indiatimes.com/fashion)•[Worth](https://www.indiatimes.com/worth)•[Entertainment](https://www.indiatimes.com/entertainment)•[Technology](https://www.indiatimes.com/technology)•[Auto](https://www.indiatimes.com/auto)•[Events](https://www.indiatimes.com/events)•
 
 SPECIALS
 
@@ -346,7 +363,7 @@ Connect With Us On
 
 Latest News
 
-[Modern Punjabi baby boy names starting with 'B'](https://www.indiatimes.com/ampstories/events/modern-punjabi-baby-boy-names-starting-with-b-639057.html "Modern Punjabi baby boy names starting with 'B'")[Meet Hital Meswani: The highest-paid employee in Mukesh Ambani's Reliance](https://www.indiatimes.com/worth/news/meet-hital-meswani-the-highest-paid-employee-in-reliance-what-is-his-relation-with-mukesh-ambani-639056.html "Meet Hital Meswani: The highest-paid employee in Mukesh Ambani's Reliance")[Twinkle Khanna's fun video from Africa shows why we desperately need a holiday](https://www.indiatimes.com/culture/travel/twinkle-khannas-fun-video-from-africa-shows-why-we-desperately-need-a-holiday-639055.html "Twinkle Khanna's fun video from Africa shows why we desperately need a holiday")[Why Kamala Harris is Kamala & Donald Trump is Trump: Man calls out misogyny](https://www.indiatimes.com/trending/social-relevance/why-kamala-harris-is-kamala-and-donald-trump-is-trump-man-calls-out-subtle-misogyny-that-seeps-into-language-naming-639051.html "Why Kamala Harris is Kamala & Donald Trump is Trump: Man calls out misogyny")[Optical illusion: Find the hidden cat in this bedroom in only 4 seconds](https://www.indiatimes.com/trending/social-relevance/optical-illusion-find-the-hidden-cat-in-this-bedroom-in-only-4-seconds-639047.html "Optical illusion: Find the hidden cat in this bedroom in only 4 seconds")[Ent wrap: Jaya Bachchan slammed, Asim's brother reacts and more from ent](https://www.indiatimes.com/entertainment/celebs/jaya-bachchan-slammed-asim-riazs-brother-reacts-to-khatron-ke-khiladi-14-controversy-and-more-from-ent-639048.html "Ent wrap: Jaya Bachchan slammed, Asim's brother reacts and more from ent")[The inspiring journey of Rohit Shetty: From a Rs 35 salary to 300 crore net wort](https://www.indiatimes.com/worth/news/from-a-rs-35-salary-to-300-crore-net-worth-heres-the-inspiring-journey-of-filmmaker-rohit-shetty-639049.html "The inspiring journey of Rohit Shetty: From a Rs 35 salary to 300 crore net wort")[Facing a tough time? Buddha's two arrows theory is all you need](https://www.indiatimes.com/lifestyle/mental-health/buddhas-two-arrows-theory-for-tough-times-639053.html "Facing a tough time? Buddha's two arrows theory is all you need")[Armaan Malik to be out of Bigg Boss OTT 3?](https://www.indiatimes.com/entertainment/binge/is-armaan-malik-out-of-bigg-boss-ott-3-heres-what-you-need-to-know-before-the-finale-639046.html "Armaan Malik to be out of Bigg Boss OTT 3?")[Toilet-Bound Hanako-kun Season 2](https://www.indiatimes.com/entertainment/binge/toilet-bound-hanako-kun-season-2-release-date-what-to-expect-total-episodes-ott-platform-anime-cruchyroll-639042.html "Toilet-Bound Hanako-kun Season 2")[Meet Kriti Sanon's rumoured boyfriend Kabir Bahia](https://www.indiatimes.com/entertainment/celebs/kriti-sanon-boyfriend-kabir-bahia-millionaire-heir-close-friend-ms-dhoni-hardik-pandya-birthday-celebration-639040.html "Meet Kriti Sanon's rumoured boyfriend Kabir Bahia")[Inside The Mind Of A Dog OTT release date Netflix: When to watch](https://www.indiatimes.com/entertainment/binge/inside-the-mind-of-a-dog-ott-release-date-netflix-when-to-watch-639041.html "Inside The Mind Of A Dog OTT release date Netflix: When to watch ") [What is forced resignation? Man’s LinkedIn post sparks discussion](https://www.indiatimes.com/worth/news/what-is-forced-resignation-man-explains-in-a-linkedin-post-says-you-are-easily-replaceable-639038.html "What is forced resignation? Man’s LinkedIn post sparks discussion")[You don't know but you need this 3-day ayurvedic juice detox](https://www.indiatimes.com/health/recipes/3-day-ayurvedic-juice-detox-recipes-639044.html "You don't know but you need this 3-day ayurvedic juice detox")[The Bikeriders OTT release date Prime Video: When to watch](https://www.indiatimes.com/entertainment/binge/the-bikeriders-ott-release-date-prime-video-when-to-watch-tom-hardys-film-639037.html "The Bikeriders OTT release date Prime Video: When to watch")[Bigg Boss OTT 3: The actual prize money](https://www.indiatimes.com/entertainment/binge/bigg-boss-ott-3-heres-the-actual-amount-that-winner-receives-instead-of-promised-rs-25-lakhs-639034.html "Bigg Boss OTT 3: The actual prize money")[Indian techie shares 3-year struggle to land a developer job](https://www.indiatimes.com/news/education/whats-the-point-of-working-so-hard-indian-techie-shares-3-year-struggle-to-land-a-developer-job-639035.html "Indian techie shares 3-year struggle to land a developer job")[Rimi Sen looks unrecognisable in news pics, fans say 'horrible' changes](https://www.indiatimes.com/entertainment/celebs/rimi-sen-plastic-surgery-gone-wrong-looks-unrecognisable-horrible-transformation-639032.html "Rimi Sen looks unrecognisable in news pics, fans say 'horrible' changes")
+[How Mukesh Ambani stays fit: A look into his daily health routine](https://www.indiatimes.com/ampstories/trending/social-relevance/how-mukesh-ambani-stays-fit-a-look-into-his-daily-health-routine-641597.html "How Mukesh Ambani stays fit: A look into his daily health routine")[Call Me Bae actor Mini Mathur shares BTS moments, thanks team for the show](https://www.indiatimes.com/fashion/celebrity-fashion/call-me-bae-actor-mini-mathur-shares-behind-the-scenes-moments-thanks-ananya-panday-641598.html "Call Me Bae actor Mini Mathur shares BTS moments, thanks team for the show")[Priyanka Chopra looks smoking hot in a black dress at NY event, poses with Kim K](https://www.indiatimes.com/fashion/celebrity-fashion/priyanka-chopra-looks-smoking-hot-in-black-dress-at-ny-event-poses-with-kim-kardashian-641596.html "Priyanka Chopra looks smoking hot in a black dress at NY event, poses with Kim K")[Bench Life on OTT: Here's all about Vaibhav Reddy's character](https://www.indiatimes.com/entertainment/binge/bench-life-on-ott-heres-all-about-vaibhav-reddys-new-character-in-upcoming-tamil-show-thats-creating-buzz-641595.html "Bench Life on OTT: Here's all about Vaibhav Reddy's character")[Matsyagandha OTT release date: When to watch](https://www.indiatimes.com/entertainment/binge/matsyagandha-ott-release-date-cinebazzar-when-to-watch-pruthvi-ambaars-kannada-action-thriller-641594.html "Matsyagandha OTT release date: When to watch ") [Suhana Khan's red saree is perfect for the upcoming festive season](https://www.indiatimes.com/fashion/celebrity-fashion/suhana-khan-the-archies-star-red-saree-for-festive-season-641593.html "Suhana Khan's red saree is perfect for the upcoming festive season")[Watch: School dance video goes viral for all the wrong reasons](https://www.indiatimes.com/trending/social-relevance/watch-school-dance-video-goes-viral-for-all-the-wrong-reasons-internet-says-parents-should-be-counselled-641590.html "Watch: School dance video goes viral for all the wrong reasons")[Love, Sitara OTT release date](https://www.indiatimes.com/entertainment/binge/love-sitara-ott-release-date-zee5-when-to-watch-sobhita-dhulipala-movie-on-love-and-heartbreak-641587.html "Love, Sitara OTT release date ") [Malaika Arora makes a statement in sophisticated cape dress](https://www.indiatimes.com/fashion/celebrity-fashion/malaika-arora-makes-a-statement-in-sophisticated-cape-dress-fan-calls-her-butterfly-641585.html "Malaika Arora makes a statement in sophisticated cape dress")[Brain teaser: Only the sharpest 3% can spot the mistake in office desk image](https://www.indiatimes.com/trending/social-relevance/brain-teaser-only-the-sharpest-3-can-spot-the-mistake-in-office-desk-image-in-7-seconds-641588.html "Brain teaser: Only the sharpest 3% can spot the mistake in office desk image")[Who is Jasmine Masih? Badshah reveals love story with ex-wife](https://www.indiatimes.com/entertainment/celebs/who-is-jasmine-masih-badshah-reveals-love-story-with-ex-wife-shares-reason-for-their-divorce-641584.html "Who is Jasmine Masih? Badshah reveals love story with ex-wife")[Sonam Kapoor shares glimpses of her 36-hour Dubai trip](https://www.indiatimes.com/lifestyle/whats-cooking/sonam-kapoor-in-dubai-is-a-roundup-of-fashion-friends-and-food-641586.html "Sonam Kapoor shares glimpses of her 36-hour Dubai trip")[Watch: AI turns Gordon Ramsay into a 'terrible' chef in hilarious video](https://www.indiatimes.com/trending/social-relevance/watch-ai-turns-gordon-ramsay-into-a-terrible-chef-in-hilarious-video-641583.html "Watch: AI turns Gordon Ramsay into a 'terrible' chef in hilarious video")[Emergency actor Kangana Ranaut looks radiant in a cream suit, accompanied by Y-s](https://www.indiatimes.com/fashion/celebrity-fashion/emergency-actor-kangana-ranaut-looks-radiant-in-a-cream-suit-accompanied-by-y-security-641582.html "Emergency actor Kangana Ranaut looks radiant in a cream suit, accompanied by Y-s")[All you can watch on OTT this week](https://www.indiatimes.com/entertainment/binge/ott-releases-this-week-new-movies-and-shows-to-watch-on-ott-platforms-netflix-prime-video-hotstar-641579.html "All you can watch on OTT this week")[Traveller finds old man reading 'gigantic' urdu Bhagavad Gita in the Himalayas](https://www.indiatimes.com/trending/social-relevance/traveller-finds-old-man-reading-gigantic-urdu-bhagavad-gita-in-the-himalayas-sparks-debate-on-indias-forgotten-history-641578.html "Traveller finds old man reading 'gigantic' urdu Bhagavad Gita in the Himalayas")[Eid Milad Un Nabi 2024: Know date, history, celebration, significance and more](https://www.indiatimes.com/trending/social-relevance/when-is-eid-milad-un-nabi-2024-know-date-history-celebration-significance-and-more-about-islamic-festival-641576.html "Eid Milad Un Nabi 2024: Know date, history, celebration, significance and more")[Diljit Dosanjh's Dil-Luminati tour tickets sold out in just 2 minutes](https://www.indiatimes.com/entertainment/celebs/diljit-dosanjhs-dil-luminati-india-tour-early-bird-tickets-sold-out-in-just-2-minutes-641575.html "Diljit Dosanjh's Dil-Luminati tour tickets sold out in just 2 minutes")
 
 Copyright © 2024 [Times Internet Limited](https://timesinternet.in/). Powered by Indiatimes Lifestyle Network. All rights reserved
 
