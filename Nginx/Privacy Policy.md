@@ -353,8 +353,6 @@ close
 
 [reset focus](#)
 
-POLICIES
-
 Privacy Notice
 ==============
 
