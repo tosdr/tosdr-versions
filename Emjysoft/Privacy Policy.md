@@ -13,10 +13,11 @@ Si vous souhaitez savoir qui nous sommes, consultez la [présentation d'Emjysoft
 
 MENTIONS LEGALES
 
-Le site https://www.emjysoft.com/ est édité est édité par l'entreprise libérale EMJYSOFT JULIEN MOREL dont le siège social est situé 40, chemin des chênes 26120 UPIE en France.
+Le site https://www.emjysoft.com/ est édité est édité par l'entreprise libérale EMJYSOFT JULIEN MOREL dont le siège social est situé 40, chemin des chênes 26120 UPIE en France.  
+Pour nous contacter : [cliquez ici](javascript:_JSU(_PAGE_,'../support/'+'index'+'.php'+'','post','_self','','')) ou par email à![](../images/site/stcontact.jpg)  
+Le support téléphonique n'est pas disponible. Pour plus d'informations, [cliquez ici](javascript:clWDUtil.pfGetTraitement('A26',0,void 0)();) .
 
-Pour nous contacter : [cliquez ici](javascript:_JSU(_PAGE_,'../support/'+'index'+'.php'+'','post','_self','','')) ou par email à![](../images/site/stcontact.jpg)
-
+  
 Siret : 47 750 065 600 038 - Code APE/NAF :5829C [Vérification ici](javascript:clWDUtil.pfGetTraitement('A15',0,void 0)();)
 
 N° de TVA intracommunautaire : FR63477500656.
@@ -85,3 +86,13 @@ Des logiciels rapides et faciles d'utilisation
 © 2004-2024 Emjysoft est une marque déposée
 
 Toute reproduction est interdite. [Mentions légales](javascript:clWDUtil.pfGetTraitement('M23',0,void 0)();)
+
+**Pourquoi le support téléphonique n'est pas disponible ?  
+  
+**
+
+Le support téléphonique n'est pas proposé car il est souvent moins efficace pour résoudre les problèmes techniques de manière précise. Par téléphone, il peut être difficile d'expliquer des manipulations complexes. Le support par email permet de fournir des instructions claires et détaillées, souvent accompagnées de captures d'écran, pour vous guider étape par étape.
+
+Pour les situations les plus complexes, une assistance à distance est disponible, offrant une solution encore plus efficace pour résoudre rapidement vos problèmes. Ce type d'assistance vous met en relation directe avec le développeur du logiciel, garantissant une expertise approfondie et une compréhension parfaite de vos besoins.
+
+OK
