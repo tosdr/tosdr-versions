@@ -949,7 +949,7 @@ Subscribe
 * [](https://www.facebook.com/ritual "Ritual on Facebook")
 * [](https://www.instagram.com/ritual "Ritual on Instagram")
 * [](https://www.pinterest.com/MyRitual "Ritual on Pinterest")
-* [](https://twitter.com/ritual "Ritual on Twitter")
+* [](https://tiktok.com/@ritual "Ritual on TikTok")
 * [](https://www.youtube.com/channel/UCDwWe38QlX_tFczjUC9gl6A "Ritual on YouTube")
 
 [](https://ritual.com/)
