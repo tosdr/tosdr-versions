@@ -203,7 +203,7 @@ Company
 
 Contact Us
 
-[Drop us a line](https://prowritingaid.com/en/Home/Contact) or let's stay in touch via :
+[Drop us a line](https://prowritingaid.com/en/Home/Contact)or let's stay in touch via:
 
 [](https://www.facebook.com/prowritingaid)[](https://twitter.com/prowritingaid)[](https://www.instagram.com/prowritingaid.insta/)[](https://www.youtube.com/channel/UClh8Sjuq-j17zxjfvvxmcIg)[](https://www.linkedin.com/company/prowritingaid)
 
