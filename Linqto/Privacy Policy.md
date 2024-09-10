@@ -125,7 +125,7 @@ If you: i. Have a query or concern about this Privacy Policy or our Personal Inf
 
 #### 15\. Conflicts
 
-In the event of conflict between the provisions of this Privacy Policy, the [Terms of Use](https://www.linqto.com/terms-of-use) or{‘ ‘} [Trading Rules](https://www.linqto.com/disclosures) and the provisions of any other documents relating to Linqto, the Application or otherwise, the provisions of the Trading Rules shall prevail.
+In the event of conflict between the provisions of this Privacy Policy, the [Terms of Use](https://www.linqto.com/terms-of-use/) or{‘ ‘} [Trading Rules](https://www.linqto.com/disclosures) and the provisions of any other documents relating to Linqto, the Application or otherwise, the provisions of the Trading Rules shall prevail.
 
 #### 16\. How may Linqto Change this Privacy Policy?
 
