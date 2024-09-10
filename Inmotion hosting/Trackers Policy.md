@@ -1,8 +1,8 @@
 [Skip to content](#primary)
 
-Open Menu [![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/logos/corporate/logo-imh.svg) InMotion Hosting Home](https://www.inmotionhosting.com/)
+Open Menu[![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/logos/corporate/logo-imh.svg)InMotion Hosting Home](https://www.inmotionhosting.com/)
 
-* [Chat Now Start a Live Chat](javascript:void(0) "Chat Now")
+* [Chat NowStart a Live Chat](javascript:void(0) "Chat Now")
 * [Call Us](javascript:void(0) "Call Us")
     
     [+1 757 416 6575](tel:+17574166575 "Call +1 757 416 6575")
@@ -10,33 +10,33 @@ Open Menu [![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/lo
     [+44 2045 763722](tel:+442045763722 "Call +44 2045 763722")
     
 * [Visit Our Support Center](https://www.inmotionhosting.com/support/ "Support")
-* [0 Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [0Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
 * [Live Chat](javascript:void(0) "Sales Chat")
 * [AMP Login](https://secure1.inmotionhosting.com/index/login "AMP Login")
-* [Shopping Cart 0](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [Shopping Cart0](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
 Close Menu Main Menu
 
 * [Web Hosting](https://www.inmotionhosting.com/ "Web Hosting")
     
-    [Shared Hosting Fast, Reliable & Secure](https://www.inmotionhosting.com/shared-hosting "Shared Hosting")
+    [Shared HostingFast, Reliable & Secure](https://www.inmotionhosting.com/shared-hosting "Shared Hosting")
     
-    [Reseller Hosting White-label cPanel/WHM for Resellers](https://www.inmotionhosting.com/reseller-hosting "Reseller Hosting")
+    [Reseller HostingWhite-label cPanel/WHM for Resellers](https://www.inmotionhosting.com/reseller-hosting "Reseller Hosting")
     
 * [WordPress](https://www.inmotionhosting.com/wordpress-hosting "WordPress")
     
     [![WordPress on cPanel](https://design.inmotionhosting.com/assets/icons/custom/cpanel-wordpress.svg)
     
-    WordPress on cPanel Optimized Shared Hosting](https://www.inmotionhosting.com/wordpress-hosting "WordPress on cPanel")
+    WordPress on cPanelOptimized Shared Hosting](https://www.inmotionhosting.com/wordpress-hosting "WordPress on cPanel")
     
     [![WordPress on cPanel](https://design.inmotionhosting.com/assets/icons/custom/platform-i-wordpress.svg)
     
-    WordPress on Platform iNEW Purpose Built Cloud Servers](https://www.inmotionhosting.com/wordpress-hosting/platform-i "WordPress on Platform i")
+    WordPress on Platform iNEWPurpose Built Cloud Servers](https://www.inmotionhosting.com/wordpress-hosting/platform-i "WordPress on Platform i")
     
     [![WooCommerce Hosting](https://design.inmotionhosting.com/assets/logos/3rd-party/woocommerce-size-a.svg)
     
-    WooCommerce Hosting Platform i plus Woo Optimizations](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
+    WooCommerce HostingPlatform i plus Woo Optimizations](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
     
 * [VPS Hosting](https://www.inmotionhosting.com/vps-hosting "VPS Hosting")
 * [Dedicated Servers](https://www.inmotionhosting.com/dedicated-servers "Dedicated Servers")
@@ -66,7 +66,7 @@ Close Menu Main Menu
     [+44 2045 763722](tel:+442045763722 "Call +44 2045 763722")
     
 * [Visit Our Support Center](https://www.inmotionhosting.com/support/ "Support")
-* [0 Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [0Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
   [Support Center](https://www.inmotionhosting.com/support/ "Support")
 
@@ -123,7 +123,7 @@ By continuing to visit or use the Websites and any webpage(s) within the Website
 
 * “Third-Party Cookies” are cookies created by third-parties outside of Company’s control and the outside of the Website(s).
 
-**Company’s Use of Cookies:** Cookies, tracking technologies and other similar technologies are integral to the functionality of the Website(s) including, but not limited to, Company user experience, chat interface, shopping cart, and targeted advertising. Company also uses cookies, tracking technologies and other similar technologies to improve the performance of or provide User with extra functionality while on the Website(s). Cookies utilized include: 
+**Company’s Use of Cookies:**Cookies, tracking technologies and other similar technologies are integral to the functionality of the Website(s) including, but not limited to, Company user experience, chat interface, shopping cart, and targeted advertising. Company also uses cookies, tracking technologies and other similar technologies to improve the performance of or provide User with extra functionality while on the Website(s).Cookies utilized include: 
 
 * Strictly Necessary Cookies 
 * Performance Cookies 
@@ -156,7 +156,7 @@ The UK Information Commissioner’s Office (ICO) cookie guide can be found on th
 
 Company hopes the information in this Cookie Policy provides Users with clear information about the technologies used and the purposes for which Company uses, but if User has any additional questions, or requires any additional information, please review Company’s  Privacy Policy or contact us at [\[email protected\]](https://www.inmotionhosting.com/cdn-cgi/l/email-protection).
 
-Web Hosting
+[Web Hosting](https://www.inmotionhosting.com/)
 
 * [Shared Hosting](https://www.inmotionhosting.com/shared-hosting)
 * [WordPress Hosting](https://www.inmotionhosting.com/wordpress-hosting)
@@ -215,10 +215,11 @@ About Us
 * [Student Web Hosting](https://www.inmotionhosting.com/edu/web-hosting-for-schools)
 * [Sitemap](https://www.inmotionhosting.com/sitemap)
 * Cookie Settings
+* Accessibility Settings
 
 Family of Brands
 
- [![InMotion Hosting](https://design.inmotionhosting.com/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)[![Web Hosting Hub](https://design.inmotionhosting.com/assets/logos/corporate/web-hosting-hub-logo-grey.webp)](https://www.webhostinghub.com/?__hstc=191291125.009be947c16775e92def5e6f0e70e0c7.1710447277509.1710788003718.1710792508009.18&__hssc=191291125.10.1710792508009&__hsfp=3079907552)[![RamNode](https://design.inmotionhosting.com/assets/logos/corporate/ramnode-logo-grey.webp)](https://ramnode.com/)
+[![InMotion Hosting](https://design.inmotionhosting.com/assets/logos/corporate/inmotion-hosting-logo-grey.webp)](https://www.inmotionhosting.com/)[![Web Hosting Hub](https://design.inmotionhosting.com/assets/logos/corporate/web-hosting-hub-logo-grey.webp)](https://www.webhostinghub.com/?__hstc=191291125.009be947c16775e92def5e6f0e70e0c7.1710447277509.1710788003718.1710792508009.18&__hssc=191291125.10.1710792508009&__hsfp=3079907552)[![RamNode](https://design.inmotionhosting.com/assets/logos/corporate/ramnode-logo-grey.webp)](https://ramnode.com/)
 
 Follow Us
 
