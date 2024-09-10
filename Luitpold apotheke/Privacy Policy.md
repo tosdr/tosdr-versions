@@ -43,7 +43,7 @@ Luitpoldstraße 2
   
 HRA: 3376, Amtsgericht Hof  
   
-Stand: 03/2024  
+Stand: 08/2024  
   
 
 ### § 1 Information über die Erhebung personenbezogener Daten
@@ -198,7 +198,7 @@ Gerne können Sie sich unsere Datenschutzerklärung [**hier**](https://www.medi
 
 ### § 14 Nutzung von etracker  
 
-In unserem Angebot nutzen wir Technologien der etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, zur Analyse von Nutzungsdaten über unsere Dienste. setzen "etracker" ein, um die Nutzung unserer Website zu analysieren, zu verbessern und für Sie als Nutzer interessanter gestalten zu können. Wir führen Reichweiten-Analysen, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren durch, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren. Wir beschränken uns bei der Verarbeitung Ihrer Daten dabei auf das für diesen Zweck notwendige Mindestmaß an Daten.  
+In unserem Angebot nutzen wir Technologien der etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, zur Analyse von Nutzungsdaten über unsere Dienste. Wir setzen "etracker" ein, um die Nutzung unserer Website zu analysieren, zu verbessern und für Sie als Nutzer interessanter gestalten zu können. Wir führen Reichweiten-Analysen, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren durch, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren. Wir beschränken uns bei der Verarbeitung Ihrer Daten dabei auf das für diesen Zweck notwendige Mindestmaß an Daten.  
   
 Für die Besuchererkennung werden ausschließlich Informationen wie Browser- oder Header-Informationen verarbeitet, die zwangsläufig oder aufgrund von (Browser-)Einstellungen des Endgerätes übermittelt werden. Es erfolgt kein "Zugriff auf Informationen, die bereits in der Endeinrichtung gespeichert sind" i.S.v. § 25 Abs. 1 TDDDG. Außerdem werden keine Eigenschaften eines Endgerätes ausgelesen. Der Einsatz von etracker erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, soweit überhaupt personenbezogene Daten verarbeitet werden. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Optimierung unseres Online-Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Besucher wichtig ist, werden die Daten, die möglicherweise einen Bezug zu einer einzelnen Person zulassen, wie die IP-Adresse, Anmelde- oder Gerätekennungen, frühestmöglich anonymisiert oder pseudonymisiert. etracker wurde unabhängig geprüft, zertifiziert und mit dem Datenschutz-Gütesiegel  [**ePrivacyseal**](https://www.eprivacy.eu/kunden/vergebene-siegel/firma/etracker-gmbh/) ausgezeichnet. Mit etracker besteht eine Auftragsverarbeitungsvereinbarung.  
   
@@ -208,11 +208,20 @@ Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprech
   
 Der Widerspruch hat keine nachteiligen Folgen für Sie. Im Falle eines Widerspruchs wird ein technisch erforderlicher Cookie i.S.v. § 25 Abs. 2 Nr. 2 TDDDG gesetzt.  
   
-Weitere Informationen zum Datenschutz bei etracker finden Sie hier: [**https://www.etracker.com/datenschutz/**](https://www.etracker.com/datenschutz/)
+Soweit wir über die vorstehende Verarbeitung hinaus Analyse- und Optimierungs-Cookies einsetzen, holen wir Einwilligungserklärungen gesondert im Vorfeld ein. In diesem Fall werden Cookies eingesetzt, die eine statistische Reichweiten-Analyse dieser Website, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren ermöglichen, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren.  
+  
+Weitere Informationen zum Datenschutz bei etracker finden Sie hier: [**https://www.etracker.com/datenschutz/**](https://www.etracker.com/datenschutz/)  
+  
+
+### Änderungen
+
+Diese Hinweise unterliegen der jeweiligen Rechtslage und können daher Anpassungen erforderlich machen. Für Fragen, Anregungen oder Kommentare wenden Sie sich bitte per E-Mail an [ilius@medikamente-per-klick.de](mailto:ilius@medikamente-per-klick.de?subject=Anfrage%20bzgl.%20Datenschutz).  
+  
+Gerne können Sie sich unsere Datenschutzerklärung [**hier**](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/datenschutzerklaerung_mpk.pdf) als PDF herunterladen.
 
 * [SONDERANGEBOTE](https://www.medikamente-per-klick.de/sonderangebote)
 * [AKTIONSARTIKEL](https://www.medikamente-per-klick.de/aktionsartikel)
-* [Spar-Abo](https://www.medikamente-per-klick.de/sparabo)
+* [Spar-Abo](https://www.medikamente-per-klick.de/spar-abo)
 * [WIR EMPFEHLEN](https://www.medikamente-per-klick.de/wir-empfehlen)
 
 Kategorien durchsuchen
@@ -223,22 +232,22 @@ Kategorien durchsuchen
 * [Allergien](https://www.medikamente-per-klick.de/allergien)
 * [Alles für das Kind](https://www.medikamente-per-klick.de/alles-fuer-das-kind)
 * [Alles für Sie & Ihn](https://www.medikamente-per-klick.de/alles-fuer-sie-und-ihn)
-* [Auge, Nase & Ohr](https://www.medikamente-per-klick.de/auge-nase-ohr)
+* [Auge, Nase & Ohr](https://www.medikamente-per-klick.de/auge-nase-und-ohr)
 * [Beruhigung & Schlaf](https://www.medikamente-per-klick.de/beruhigung-und-schlaf)
 * [Blase, Niere & Prostata](https://www.medikamente-per-klick.de/blase-niere-und-prostata)
 * [Blutdruck](https://www.medikamente-per-klick.de/blutdruck)
-* [Corona Schnelltests](https://www.medikamente-per-klick.de/corona-schnelltests)
+* [Corona Schnelltests](https://www.medikamente-per-klick.de/wir-empfehlen/corona-schnelltests)
 * [Count Price klick](https://www.medikamente-per-klick.de/count-price-klick)
 * [Depressionen & Angstzustände](https://www.medikamente-per-klick.de/depressionen-und-angstzustaende)
-* [Dermatologische Hautpflege](https://www.medikamente-per-klick.de/dermatologische-hautpflege)
+* [Dermatologische Hautpflege](https://www.medikamente-per-klick.de/kosmetik-und-koerperpflege/dermatologische-hautpflege)
 * [Diabetes](https://www.medikamente-per-klick.de/diabetes)
 * [Entgiften-Entschlacken-Entsäuern](https://www.medikamente-per-klick.de/entgiften-entschlacken-entsaeuern)
 * [Erkältung](https://www.medikamente-per-klick.de/erkaeltung)
 * [Ernährung & Gewicht](https://www.medikamente-per-klick.de/ernaehrung-und-gewicht)
 * [Familienplanung](https://www.medikamente-per-klick.de/familienplanung)
-* [Gedächtnis & Konzentration](https://www.medikamente-per-klick.de/gedaechtnis-und-konzentration)
+* [Gedächtnis & Konzentration](https://www.medikamente-per-klick.de/gedaechtnis-und-amp-konzentration)
 * [Gesundheit & Wellness](https://www.medikamente-per-klick.de/gesundheit-und-wellness)
-* [Haus- & Reiseapotheke](https://www.medikamente-per-klick.de/reiseapotheke)
+* [Haus- & Reiseapotheke](https://www.medikamente-per-klick.de/haus-und-reiseapotheke)
 * [Haut, Haare & Nägel](https://www.medikamente-per-klick.de/haut-haare-und-naegel)
 * [Herz, Kreislauf & Nieren](https://www.medikamente-per-klick.de/herz-kreislauf-und-nieren)
 * [Homöopathie & Natur](https://www.medikamente-per-klick.de/homoeopathie-und-natur)
@@ -252,6 +261,7 @@ Kategorien durchsuchen
 * [Pflegebedarf](https://www.medikamente-per-klick.de/pflegebedarf)
 * [Raucherentwöhnung](https://www.medikamente-per-klick.de/raucherentwoehnung)
 * [Schmerzen](https://www.medikamente-per-klick.de/schmerzen)
+* [Schnelltests, Testkits](https://www.medikamente-per-klick.de/schnelltests-testkits)
 * [Sport & Fitness](https://www.medikamente-per-klick.de/sport-und-fitness)
 * [Tiergesundheit](https://www.medikamente-per-klick.de/tiergesundheit)
 * [Vegan](https://www.medikamente-per-klick.de/vegan)
@@ -270,7 +280,7 @@ Meist verkaufte Produkte
     
 * [NASENSPRAY AL 0,1%](https://www.medikamente-per-klick.de/nasenspray-al-0-1-10ml-03929274)
     
-    2,36 €\*
+    2,15 €\*
     
      1
     
@@ -280,15 +290,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
+* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
-    6,16 €\*
+    1,57 €\*
     
      1
     
-* [Voltaren Schmerzgel forte 23,2 mg/g - Gel mit Diclofenac](https://www.medikamente-per-klick.de/voltaren-schmerzgel-forte-23-2-mg-g-180g-11240397)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    21,33 €\*
+    6,16 €\*
     
      1
     
@@ -315,25 +325,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Vitasprint B12 Trinkfläschchen, für mehr Energie 30St.](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/01853561_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=01853561&simpleContentAttachmentId=14183&wochenklick)
+[VIGANTOLVIT 2000 I.E. Vitamin D3 Weichgummis - 2x60St - Doppelpack](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)  
+**Sonderpreis**  
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/81011793_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=81011793&simpleContentAttachmentId=14183&wochenklick)
 
 UVP2:
 
-44,99 €\*
+25,98 €\*
 
 Ihr Preis:
 
-39,51 €\*
+15,20 €\*
 
 Sie sparen:
 
-5,48 € \-12%
+10,78 € \-41%
 
-2024-08-05 08:00:00
+2024-09-12 13:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=01853561&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=81011793&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -376,6 +386,7 @@ Auszeichnung von n-tv & DISQ
 Service & Info
 
 * [![Sebamed](/images/generic_attachments/attachments/medikamenteperklick/Sebamed_Medi_per_Klick_Duschen_190x60_70012340_19_L01.jpg "Sebamed")](https://www.medikamente-per-klick.de/search/sebamed%20dusche)
+* [![Espumisan Themenshop](/images/generic_attachments/attachments/medikamenteperklick/espumisan_190x60 px.jpg "Espumisan Themenshop")](https://www.medikamente-per-klick.de/themenshops/blaehungen-und-voellegefuehl)
 * [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
 * [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
@@ -624,4 +635,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=mrnwxcwkquvadzeovvklrwapppkpsmci&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=phoshqpcufcvkscvhoustdbfuhbehssq&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
