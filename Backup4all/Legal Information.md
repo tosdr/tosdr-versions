@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
+* [How to clean a backup](https://www.backup4all.com/how-to-clean-a-backup-kb.html)  
     
-* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
+* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
     
-* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
+* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
     
-* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
+* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
     
-* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
+* [How to schedule a backup job or backup tag to ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-to-run-at-system-shutdown-kb.html)  
     
 
 Choose language:
