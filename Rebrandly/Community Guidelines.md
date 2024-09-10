@@ -1,0 +1,1 @@
+[Redirecting from `/anti-spam/` to `https://rebrandly.com/terms-conditions`](https://rebrandly.com/terms-conditions)
