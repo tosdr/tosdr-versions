@@ -1,7 +1,3 @@
-![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1)       Privacy Policy - ESL Brains                                                                            
-
-       
-
 [Skip to content](#primary)
 
 [SIGN UP](https://eslbrains.com/pricing/) [LOG IN](#)
@@ -61,14 +57,16 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [How about a little improvement?](https://eslbrains.com/how-about-a-little-improvement/ "How about a little improvement?")
-* [Meeting a celebrity](https://eslbrains.com/meeting-a-celebrity/ "Meeting a celebrity")
-* [Fighting crime with tech](https://eslbrains.com/fighting-crime-with-tech/ "Fighting crime with tech")
-* [Workplace safety](https://eslbrains.com/workplace-safety/ "Workplace safety")
+* [At your own risk](https://eslbrains.com/at-your-own-risk/ "At your own risk")
+* [Introducing: Lesson Flows!](https://eslbrains.com/introducing-lesson-flows/ "Introducing: Lesson Flows!")
+* [Research and Development](https://eslbrains.com/research-and-development/ "Research and Development")
+* [Month in a Nutshell: August 2024](https://eslbrains.com/month-in-a-nutshell-august-2024/ "Month in a Nutshell: August 2024")
 
 © ESL Brains 2023
 
 [](https://www.instagram.com/esl_brains)[](https://facebook.com/ted4esl)
+
+![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=eslbrains.com%2Fprivacy-policy%2F)
 
                           
 
