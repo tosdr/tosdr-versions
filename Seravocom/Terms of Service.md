@@ -6,7 +6,8 @@
 
 * Seravo
     * [About](https://seravo.com/en/about-us/)
-    * [Our Customers](https://seravo.com/en/tag/customer-story/)
+    * [Customers](https://seravo.com/en/customers/)
+    * [Partners](https://seravo.com/en/our-partners/)
     * [Why Seravo?](https://seravo.com/en/compare/)
     * [Careers](https://seravo.com/en/careers/)
     * [Open Source](https://seravo.com/en/opensource/)
@@ -21,15 +22,16 @@
     * [WP Pro](https://seravo.com/en/wp-pro/)
     * [WP Business](https://seravo.com/en/wp-business/)
     * [WP Corporate](https://seravo.com/en/wp-corporate/)
+    * [WP Enterprise](https://seravo.com/en/wp-enterprise/)
     * [Additional Services](https://seravo.com/en/additional-services/)
-        * [Domains](https://seravo.com/en/domains/)
-        * [Data Center Services](https://en.domainkeskus.com/data-center/)
+    * [Domains](https://seravo.com/en/domains/)
 * Partners
     * [Become a Partner](https://seravo.com/en/partners/)
     * [Our Partners](https://seravo.com/en/tag/partnership/)
 * Contact
-    * [Contact Us](https://seravo.com/en/contact/)
-    * [Billing](https://seravo.com/en/billing/)
+    * [Contact Information](https://seravo.com/en/contact/)
+    * [Billing Information](https://seravo.com/en/billing/)
+    * [Contact Form](https://seravo.com/en/contact-form/)
 * Help
     * [Start Here](https://seravo.com/en/help/)
     * [Knowledge Base](https://help.seravo.com/)
@@ -229,16 +231,16 @@ help@seravo.com
 * [Blog](https://seravo.com/en/blog/)
 * [Contact](https://seravo.com/en/contact/)
 * [Careers](https://seravo.com/en/careers/)
-* [Customers](https://seravo.com/en/tag/customer-story/)
-* [Open Source](https://seravo.com/en/opensource/)
+* [Customers](https://seravo.com/en/customers/)
+* [Partners](https://seravo.com/en/our-partners/)
 
 ### Services
 
-* [Hosting Plans](https://seravo.com/en/about-us/)
+* [Hosting Plans](https://seravo.com/en/plans/)
+* [Additional Services](https://seravo.com/en/additional-services/)
 * [Domains](https://seravo.com/en/domains/)
 * [Order Form](https://seravo.com/en/order/)
-* [Virtual Servers](https://en.domainkeskus.com/virtual-servers/)
-* [Data Center Services](https://en.domainkeskus.com/data-center/)
+* [Compare](https://seravo.com/en/compare/)
 * [WooCommerce](https://seravo.com/en/woocommerce/)
 
 ### Features
@@ -247,31 +249,44 @@ help@seravo.com
 * [Secure](https://seravo.com/en/features/secure/)
 * [Green](https://seravo.com/en/features/green/)
 * [Real](https://seravo.com/en/features/real/)
-* [Compare](https://seravo.com/en/compare/)
+* [Open Source](https://seravo.com/en/opensource/)
 
 ### Partners
 
 * [New Partners](https://seravo.com/en/partners/)
+* [Reselling](https://seravo.com/en/partners/#reselling)
+* [Referring](https://seravo.com/en/partners/#referring)
 * [MissAffiliate](https://missaffiliate.com/)
 
 ### Resources
 
 * [Start Here](https://seravo.com/en/start-here/)
-* [Support](https://seravo.com/en/help/)
+* [Knowledge Bank](https://help.seravo.com/)
 * [Developer Docs](https://seravo.com/docs/)
 * [Service Status](https://status.seravo.com/)
 * [Security FAQ](https://seravo.com/en/wordpress-security-faq/)
+* [WordPress](https://seravo.com/en/what-is-wordpress/)
 
-newsletter
+* * *
+
+[![](https://seravo.com/wp-content/uploads/2024/09/koodikerho-logo-150.png)](https://koodikerho.fi/in-english/)
+
+[![](https://seravo.com/wp-content/uploads/2024/09/logo-coss.png)](https://coss.fi/en/)
+
+[![](https://seravo.com/wp-content/uploads/2024/09/codefromfinland-logo.png)](https://seravo.com/en/opensource/)
+
+[![](https://seravo.com/wp-content/uploads/2024/09/reliable-partner-logo.png)](https://www.vastuugroup.fi/fi-en)
+
+[![](https://seravo.com/wp-content/uploads/2024/09/climate-commitment-logo.png)](https://seravo.com/en/seravo-and-green-friday/#climate-commitment)
+
+* * *
 
 * [GitHub](https://github.com/Seravo)
 * [LinkedIn](https://github.com/Seravo)
 * [Facebook](https://www.facebook.com/seravo/)
 * [Instagram](https://www.instagram.com/seravo/?hl=en)
-* [Twitter](https://twitter.com/Seravo)
+* [X](https://twitter.com/Seravo)
 * [YouTube](https://www.youtube.com/seravo)
-
-* * *
 
 [Privacy Policy](https://seravo.com/en/privacy-policy/)
 
