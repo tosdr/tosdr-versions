@@ -2,7 +2,9 @@ Javascript must be enabled for the correct page display
 
 **[Skip to Content](#main)**
 
-[Contact Us](https://www.sap.com/registration/contact.html?pageTitle=Terms+of+Use+for+SAP+Websites&countryOfOrigin=en&refererPagePath=https%3A%2F%2Fwww.sap.com%2Fcorporate%2Fen%2Flegal%2Fterms-of-use.html&refererContentPath=%2Fcontent%2Fcorporate%2Fsap-se%2Fen%2Flegal%2Fterms-of-use&navTitle=Contact+Form "Contact Us") [Contact Us](https://www.sap.com/registration/contact.html?navTitle=Contact+Form)
+[Contact Us](https://www.sap.com/registration/contact.html?pageTitle=Terms+of+Use+for+SAP+Websites&countryOfOrigin=en_us&refererPagePath=https%3A%2F%2Fwww.sap.com%2Fabout%2Flegal%2Fterms-of-use.html&refererContentPath=%2Fcontent%2Fsapdx%2Flanguages%2Fen_us%2Fabout%2Flegal%2Fterms-of-use&navTitle=Contact+Form "Contact Us") [Contact us](https://www.sap.com/registration/contact.html?navTitle=Contact+Form)
+
+Chat now
 
 Terms of Use for SAP Websites  
 
@@ -38,14 +40,23 @@ You may not use the SAP Websites in any manner that could damage, disable, overb
 You agree not to use an SAP Website to:
 
 * publish, upload, post, email, transmit or otherwise make available any User Content that (a) You do not have the right to make available (b) is unlawful, harmful, vulgar, obscene, hateful, or racially, ethnically or otherwise objectionable; (c) infringes any Intellectual Property Rights of any party, (d) includes any unsolicited or unauthorized advertising, promotional materials, surveys, junk mail, spamming, chain letters, or any other form of solicitation, commercial or otherwise, or (e) contains a software virus, Trojan horse, worm, time bomb, cancelbot, corrupted file, or any other computer file or software designed to interrupt, destroy, damage or limit the functionality of any computer hardware, software or other property;
+    
 * defame, harass, abuse, stalk, threaten or violate the legal rights of others such as rights of privacy and publicity or business integrity;
+    
 * impersonate any person or entity, including, but not limited to, an SAP official, SAP employee, or any other third party, or falsely state or otherwise misrepresent Your affiliation with a person or entity;
+    
 * forge email headers or otherwise manipulate identifiers in order to disguise the origin of any User Content transmitted through the SAP Websites;
+    
 * download any file or User Content posted by another user that You know, or reasonably should know, should not be legally reproduced, displayed, performed and/or distributed in such manner;
+    
 * interfere with or disrupt the servers, or networks which support the SAP Websites, or disobey any requirements, procedures, policies or regulations of networks connected to the SAP Websites;
+    
 * violate any applicable local, state, national or international law and any regulations;
+    
 * harvest, collect, or store personal information or data of other users.
-* Use any automated data gathering or extraction methods designed to scrape or extract data from SAP Websites, including for text and data mining purposes. 
+    
+* Use any automated data gathering or extraction methods designed to scrape or extract data from SAP Websites, including for text and data mining purposes.
+    
 
 #### 5\. TERMINATION OF USE
 
@@ -87,7 +98,7 @@ Information on requirements for using SAP trademarks can be found by clicking on
 
 #### 10\. RESPONSIBILITY FOR CONTENT AND LINKS
 
-SAP IS ONLY RESPONSIBLE OR LIABLE FOR THE CONTENT POSTED ON AN SAP WEBSITE TO THE EXTENT REQUIRED BY THE GERMAN TELEMEDIA ACT (TELEMEDIENGESETZ, TMG). TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF CONTENT SHALL BE AT YOUR OWN RISK. Any Content, whether publicly posted or privately transmitted, is the sole responsibility of the person or entity providing the Content. SAP does not represent or endorse the accuracy, reliability, completeness, usefulness, non-infringement of intellectual property rights, or quality of any Content provided by third parties on an SAP Website. SAP may remove any Content posted on an SAP Website at SAP’s sole discretion, but, if You believe that material that You hold the copyright on is being infringed upon on any SAP web site, please notify SAP’s Copyright Agent in accordance with the procedure set forth at the following link: [https://www.sap.com/corporate/en/legal/copyright.html](https://www.sap.com/corporate/en/legal/copyright.html).
+SAP IS ONLY RESPONSIBLE OR LIABLE FOR THE CONTENT POSTED ON AN SAP WEBSITE TO THE EXTENT REQUIRED BY THE GERMAN TELEMEDIA ACT (TELEMEDIENGESETZ, TMG). TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF CONTENT SHALL BE AT YOUR OWN RISK. Any Content, whether publicly posted or privately transmitted, is the sole responsibility of the person or entity providing the Content. SAP does not represent or endorse the accuracy, reliability, completeness, usefulness, non-infringement of intellectual property rights, or quality of any Content provided by third parties on an SAP Website. SAP may remove any Content posted on an SAP Website at SAP’s sole discretion, but, if You believe that material that You hold the copyright on is being infringed upon on any SAP web site, please notify SAP’s Copyright Agent in accordance with the procedure set forth at the following link: [https://www.sap.com/copyright](https://www.sap.com/copyright).
 
 SAP Websites may contain links to external websites. SAP shall not be responsible for the contents of any linked website, or any changes or updates to such websites. Additionally, SAP shall not be directly or indirectly responsible or liable for any damage or loss caused or alleged to be caused by or in connection with Your use of or reliance on any software, content, goods or services available on or through any such linked website. SAP does not control and/or review the linked web-pages and the information provided by third parties.
 
@@ -126,9 +137,13 @@ The following applies if You access an SAP Website from within the European Unio
 IRRESPECTIVE OF THE LEGAL REASONS, SAP AND SAP’S AFFIALIATES AND SUBSIDIARIES SHALL **ONLY** BE LIABLE IN THE CASES SET OUT BELOW:
 
 * ANY MANDATORY LIABILITY UNDER APPLICABLE PRODUCT LIABILITY LAWS;
+    
 * GROSS NEGLIGENCE AND WILFUL MISCONDUCT;
+    
 * PERSONAL INJURY OR DEATH RESULTING FROM SAP’S OR ITS AFFILIATES’ OR SUBSIDIARIES NEGLIGENCE OR WILFUL MISCONDUCT;
+    
 * SLIGHT NEGLIGENT BREACH OF A SIGNIFICANT CONTRACTUAL OBLIGATION (AN OBLIGATION WHOSE COMPLETION ALLOWS FOR A PROPER PERFORMANCE OF THIS TOU AND IN WHOSE COMPLIANCE WITH YOU CAN GENERALLY TRUST). IN THIS CASE, SAP’S OR ITS AFFILIATES’ OR SUBSIDIARIES’ LIABILITY SHALL BE LIMITED TO SUCH DAMAGES WHICH ARE TYPICAL FOR THIS TYPE OF AGREEMENT AND PREDICTABLE AT THE POINT IN TIME OF THESE TO ENTERING INTO FORCE.
+    
 
 IN ALL OTHER CASES, NEITHER SAP NOR ITS AFFILIATES, SUBSIDIARIES, EMPLOYEES, AGENTS AND SUBCONTRACTORS SHALL BE LIABLE FOR ANY KIND OF DAMAGES OR CLAIMS HEREUNDER.
 
@@ -176,7 +191,7 @@ Revised and posted as of November 23, 2023
 
 [![SAP](/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg)](https://www.sap.com/index.html "SAP")
 
-### 
+###### 
 
 Quick Links
 
@@ -187,7 +202,18 @@ Quick Links
 * [Trials and Demos](https://www.sap.com/products/try-sap.html " ")
 * [Find Services](https://www.sap.com/services-support.html " ")
 
-### 
+###### 
+
+Trending
+
+* [SAP TechEd](https://www.sap.com/events/teched/virtual.html " ")
+* [What is GROW with SAP?](https://www.sap.com/products/erp/grow.html " ")
+* [What is RISE with SAP?](https://www.sap.com/products/erp/rise.html " ")
+* [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html " ")
+* [Sustainability](https://www.sap.com/products/sustainability.html " ")
+* [Partner Ecosystem](https://partneredge.sap.com/en.html " ")
+
+###### 
 
 About SAP
 
@@ -200,32 +226,19 @@ About SAP
 * [Customer Stories](https://www.sap.com/about/customer-stories.html)
 * [Newsletter](https://www.sap.com/dashboard/newsletters.html " ")
 
-### 
+###### 
 
 Site Information
 
-* [Privacy](https://www.sap.com/corporate/en/legal/privacy.html)
+* [Privacy](https://www.sap.com/about/legal/privacy.html)
 * [Terms of Use](https://www.sap.com/corporate/en/legal/terms-of-use.html)
-* [Legal Disclosure](https://www.sap.com/corporate/en/legal/impressum.html)
-* [Copyright](https://www.sap.com/corporate/en/legal/copyright.html)
-* [Trademark](https://www.sap.com/corporate/en/legal/trademark.html)
-* [Sitemap](https://www.sap.com/site-map.html "View Sitemap")
-* [Text View](# "Switch to Text View")
-* [Do Not Share/Sell My Personal Information](https://www.sap.com/registration/dnss.html?refererContentPath=%2Fcontent%2Fcorporate%2Fsap-se%2Fen&&navTitle=Do+Not+Share%2FSell+My+Personal+Information " ")
-
-### 
-
-Trending
-
-* [SAP Sapphire](https://www.sap.com/events.html " ")
-* [What is GROW with SAP?](https://www.sap.com/products/erp/grow.html " ")
-* [What is RISE with SAP?](https://www.sap.com/products/erp/rise.html " ")
-* [Artificial Intelligence](https://www.sap.com/products/artificial-intelligence.html " ")
-* [Sustainability](https://www.sap.com/products/sustainability.html " ")
-* [Partner Ecosystem](https://partneredge.sap.com/en.html " ")
+* [Legal Disclosure](https://www.sap.com/about/legal/impressum.html)
+* [Copyright](https://www.sap.com/about/legal/copyright.html)
+* [Trademark](https://www.sap.com/about/legal/trademark.html)
+* [Do Not Share/Sell My Personal Information](https://www.sap.com/registration/dnss.html?refererContentPath=%2Fcontent%2Fsapdx%2Fcountries%2Fen_us&&navTitle=Do+Not+Share%2FSell+My+Personal+Information " ")
 
 * [](https://www.facebook.com/SAP "Facebook")
-* [](https://www.youtube.com/user/SAP "YouTube")
+* [](https://www.youtube.com/@SAP "YouTube")
 * [](https://www.linkedin.com/company/sap "LinkedIn")
 * [](https://www.instagram.com/sap/ "Instagram")
 * [](mailto:?body=I%20think%20this%20content%20I%20found%20on%20SAP.com%20may%20interest%20you:%20undefined%3Fsource%3Dsocial-atw-mailto "Email share")
