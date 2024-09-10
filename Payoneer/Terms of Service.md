@@ -309,3 +309,23 @@ Major Payment Institution (MPI) registered with the Monetary Authority of Singap
 * [Developers API](https://www.payoneer.com/developers/)
 * [Get started today](https://www.payoneer.com/go/)
 * [Sign In Already have an account?](https://myaccount.payoneer.com/)
+
+### **Thanks!**
+
+Please continue to Registration.
+
+[Open account](https://payouts.payoneer.com/partners/or.aspx?pid=YOYIZC74IO2s4KZQp7tgsw%3d%3d&)
+
+![payoneer new dark logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20631%20122'%3E%3C/svg%3E "TOF exp - payoneer new dark logo")
+
+![payoneer new dark logo](https://www.payoneer.com/wp-content/uploads/2022/06/payoneer-new-dark-logo.svg "TOF exp - payoneer new dark logo")
+
+### **Thanks!**
+
+Please continue to Registration.
+
+[Open account](https://payouts.payoneer.com/partners/or.aspx?pid=YOYIZC74IO2s4KZQp7tgsw%3d%3d&)
+
+![payoneer new dark logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20631%20122'%3E%3C/svg%3E "TOF exp - payoneer new dark logo")
+
+![payoneer new dark logo](https://www.payoneer.com/wp-content/uploads/2022/06/payoneer-new-dark-logo.svg "TOF exp - payoneer new dark logo")
