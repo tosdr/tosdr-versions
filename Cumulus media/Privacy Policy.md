@@ -210,6 +210,8 @@ Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicate
 
 [![Cumulus Media](https://www.cumulusmedia.com/wp-content/themes/cumulus_wordpress_theme/assets/prod/images/cumulus-logo-white-full.svg)](https://www.cumulusmedia.com/)
 
+© 2024 Cumulus Media
+
 * [About Us](https://www.cumulusmedia.com/about-us/)
 * [Blog](https://www.westwoodone.com/blog/)
 * [Advertising Solutions](https://www.cumulusmedia.com/advertising/)
@@ -222,5 +224,3 @@ Cumulus Media Inc. (“Cumulus,” “we,” “us,” or “our”) is dedicate
 * [Site Map](https://www.cumulusmedia.com/site-map/)
 * [Work Here](https://www.cumulusmedia.com/careers/)
 * [Cookie Settings](#)
-
-© 2024 Cumulus Media
