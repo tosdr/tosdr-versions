@@ -13,16 +13,16 @@
 * Templates
     
     * [All Templates](https://moqups.com/templates/)
-    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
     * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
     * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
-    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
     
 * Resources
     
     * [Help Center](https://moqups.com/hc/)
     * [Contact Support](https://moqups.com/support/)
-    * [FAQ](https://moqups.com/faq/)
+    * [Frequently Asked Questions](https://moqups.com/faq/)
     
     * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
     * [Blog](https://moqups.com/blog/)
@@ -56,16 +56,16 @@ Product
 Templates
 
 * [All Templates](https://moqups.com/templates/)
-* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
 * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
 * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
-* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
 
 Resources
 
 * [Help Center](https://moqups.com/hc/)
 * [Contact Support](https://moqups.com/support/)
-* [FAQ](https://moqups.com/faq/)
+* [Frequently Asked Questions](https://moqups.com/faq/)
 * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
 * [Blog](https://moqups.com/blog/)
 * [What's New](https://moqups.com/blog/release-notes/)
@@ -273,8 +273,8 @@ Templates
 * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
 * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
 * [Mind Map Templates](https://moqups.com/templates/mapping-and-diagramming/mind-maps/)
-* [Flowchart Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
-* [Sitemap Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
+* [Flowchart Diagram Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
+* [Sitemap Diagram Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
 * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
 * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
 
@@ -291,7 +291,7 @@ Support
 
 * [Help Center](https://moqups.com/hc/)
 * [Contact Support](https://moqups.com/support/)
-* [FAQ](https://moqups.com/faq/)
+* [Frequently Asked Questions](https://moqups.com/faq/)
 
 Moqups logo
 
