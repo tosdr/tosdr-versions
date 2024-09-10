@@ -71,6 +71,6 @@ Questi termini e condizioni sono regolati e interpretati in conformità con le l
 
 Pixelfed è gestito dal gruppo [devol](https://devol.it/), gestore anche delle istanze [peertube](https://peertube.uno/) e [mastodon](https://mastodon.uno/). È possibile visualizzare le nostre linee guida della comunità [qui](https://pixelfed.uno/site/kb/community-guidelines).
 
-[Informazioni](https://pixelfed.uno/site/about) [Aiuto](https://pixelfed.uno/site/help) [Termini](https://pixelfed.uno/site/terms) [Privacy](https://pixelfed.uno/site/privacy) [Lingua](https://pixelfed.uno/site/language)
+[About](https://pixelfed.uno/site/about) [Help](https://pixelfed.uno/site/help) [Terms](https://pixelfed.uno/site/terms) [Privacy](https://pixelfed.uno/site/privacy) [Language](https://pixelfed.uno/site/language)
 
 © 2024 pixelfed.uno · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.3
