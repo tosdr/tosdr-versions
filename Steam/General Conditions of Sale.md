@@ -89,4 +89,4 @@ You can request a refund or get other assistance with your Steam purchases at [h
 
   
 
-Last updated 23 April, 2024
+Last updated April 23, 2024
