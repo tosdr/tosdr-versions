@@ -5,7 +5,7 @@
 * [For Schools](https://www.rosettastone.com/schools/)
 
 * [Join Now](https://www.rosettastone.com/subscriptions/)
-* [SIGN IN](https://totale.rosettastone.com/?locale=en-US)
+* [SIGN IN](https://login.rosettastone.com/?ui_language=en)
 
 Data Privacy and Security
 =========================
@@ -147,9 +147,27 @@ If you have questions or would like additional information regarding Rosetta Sto
 
 [](https://apps.apple.com/us/app/rosetta-stone-learn-languages/id1476088902?mt=12)[GET ITONGETITON](https://play.google.com/store/apps/details?id=air.com.rosettastone.mobile.CoursePlayer&hl=en_US&gl=US)
 
-[Comprehensive K-12 personalized learning](https://www.ixl.com/)[Trusted tutors ready to help in 300+ subjects](https://www.wyzant.com/)[35,000+ worksheets, games, and lesson plans](https://www.education.com/)[Marketplace for millions of educator-created resources](https://www.teacherspayteachers.com/)
+[Comprehensive K-12 personalized learning](https://www.ixl.com/)
 
-[Adaptive learning for English vocabulary](https://www.vocabulary.com/)[Fun educational games for kids](https://www.abcya.com/)[Spanish-English dictionary, translator, and learning](https://www.spanishdict.com/)[Diccionario inglés-español, traductor y sitio de aprendizaje](https://www.ingles.com/)[Fast and accurate language certification](https://www.emmersion.ai/)
+[Trusted tutors ready to help in 300+ subjects](https://www.wyzant.com/)
+
+[35,000+ worksheets, games, and lesson plans](https://www.education.com/)
+
+[Marketplace for millions of educator-created resources](https://www.teacherspayteachers.com/)
+
+[Adaptive learning for English vocabulary](https://www.vocabulary.com/)[Fun educational games for kids](https://www.abcya.com/)
+
+[Fast and accurate language certification](https://www.emmersion.ai/)
+
+[Spanish-English dictionary, translator, and learning](https://www.spanishdict.com/)
+
+[French-English dictionary, translator, and learning](https://www.frenchdictionary.com/)
+
+[Diccionario inglés-español, traductor y sitio de aprendizaje](https://www.ingles.com/)[Comprehensive resource for word definitions and usage](https://www.dictionary.com/)
+
+[Comprehensive resource for word definitions and usage](https://www.thesaurus.com/)
+
+[Teaching supplies for the classroom and home](https://www.carsondellosa.com/)
 
 ©1999-2024
 
