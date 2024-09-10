@@ -63,7 +63,7 @@
     * [All WORLD >](https://www.capitalismmagazine.com/world/)
 * [](https://twitter.com/CapitalismMag)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
+[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/09/peikkeep-peikoff-free-banner-1.jpg "peikkeep-peikoff-free-banner-1")](https://www.capitalismmagazine.com/2024/09/an-open-letter-from-dr-leonard-peikoff/)
 
 Privacy
 =======
@@ -84,10 +84,10 @@ By using our site, you consent to the collection and use of your information by 
 
 #### [![RSS](https://www.capitalismmagazine.com/wp-includes/images/rss.png)](https://review.capitalismmagazine.com/feed/) [CAPITALISM REVIEW](https://review.capitalismmagazine.com/)
 
-* [Mossoff: Anti-IP “Advancing America’s Interests Act” is Anti-American](https://review.capitalismmagazine.com/2024/07/mossoff-anti-ip-advancing-americas-interests-act-is-anti-american/)
-* [Trump Assasination Attempt Fails](https://review.capitalismmagazine.com/2024/07/trump-assasination-attempt-fails/)
-* [One Should Not Have “Faith” in Any Legal System](https://review.capitalismmagazine.com/2024/06/one-should-not-have-faith-in-any-legal-system/)
-* [CNN Senior Legal Analyst: Trump Conviction Was A Political Hit Job](https://review.capitalismmagazine.com/2024/06/cnn-senior-legal-analyst-trump-conviction-was-a-political-hit-job/)
+* [American Right and Left on Israel: Two Sides of The Same Coin?](https://review.capitalismmagazine.com/2024/09/american-right-and-left-on-israel-two-sides-of-the-same-coin/)
+* [Mark Zuckerberg Finally Admits His Complicity With Government Censors](https://review.capitalismmagazine.com/2024/08/mark-zuckerberg-finally-admits-his-complicity-with-government-censors/)
+* [Milei’s Message on Censorship in England](https://review.capitalismmagazine.com/2024/08/mileis-message-on-censorship-in-england/)
+* [Not The Free-Market: J. Tucker on the Decline in U.S. Manufacturing](https://review.capitalismmagazine.com/2024/08/not-the-free-market-j-tucker-on-the-decline-in-u-s-manufacturing/)
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2024/06/banner-capitalism-tour-728x90-1.jpg "Capitalism Tour")](https://www.capitalism.org/)
 
@@ -95,7 +95,7 @@ By using our site, you consent to the collection and use of your information by 
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2023/12/what-america-is-e1702354246585.jpg "what-america-is")](https://amzn.to/3RDo8tm)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2023/11/american-racism-web-535x800.jpg "american-racism - web")](https://amzn.to/3u0Oexf)
+[![](https://www.capitalismmagazine.com/wp-content/uploads/2021/01/opar-book.png "opar-book")](https://amzn.to/3u0Oexf)
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2023/11/cui-red.jpg "cui-red capitalism")](https://amzn.to/3u1x8PJ)
 
