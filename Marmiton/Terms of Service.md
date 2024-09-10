@@ -35,7 +35,7 @@ Connexion
     * [Mieux acheter](https://www.marmiton.org/mieux-acheter/shopping-ssc20.html?utm_source=website&utm_medium=shopping_menu&utm_campaign=all_sous_categorie)
     * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
     * [Promo](https://promo.marmiton.org/)
-    * [Vos apéros avec](https://www.marmiton.org/dossier-vos-aperos-avec-herta)
+    * [Accords mets & vins avec Vinatis](https://www.marmiton.org/shopping/decouvrez-vinatis-votre-e-caviste-de-confiance-pour-l-achat-de-vins-en-ligne-s4089602.html)
 * Mes aides à la cuisine
     * [Table de conversion](https://www.marmiton.org/pratique/table-conversion.aspx)
     * [Mon Frigo](https://www.marmiton.org/recettes)
@@ -50,11 +50,11 @@ Connexion
 * Livres
     * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
 
-* [Vos apéros 🥇 avec](https://www.marmiton.org/dossier-vos-aperos-avec-herta)
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
-*  [![Top Chrono !](https://assets.afcdn.com/recipe/20240703/152478_origin.png) Top Chrono !](https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html)
-*  [![Barbecue party](https://assets.afcdn.com/recipe/20240703/152488_origin.png) Barbecue party](https://www.marmiton.org/barbecue-pique-nique/barbecue-tp123357.html)
+*  [![Rentrée Top Chrono !](https://assets.afcdn.com/recipe/20240826/153610_origin.png) Rentrée Top Chrono !](https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html)
+*  [![Petit-déj gourmand](https://assets.afcdn.com/recipe/20240826/153611_origin.png) Petit-déj gourmand](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch)
 * [Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
+* [Cuisine variée au Airfryer](https://www.marmiton.org/tout-sur-electromenagers/airfryer-ssc80.html)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
@@ -160,16 +160,12 @@ Responsabilité
 
   
 
-[](https://fr.pinterest.com/marmiton/)[](https://www.facebook.com/marmiton)[](https://www.instagram.com/marmiton_org/)[](https://www.youtube.com/user/marmitonofficiel)[](https://assistant.google.com/services/invoke/uid/00000058f69ad4c0)
-
-[![Iphone](https://static.afcdn.com/relmrtn/Front/Component/footerLight/assets/iPhone.png)
-
-Retrouvez Marmiton où que vous soyez en téléchargeant l'application](http://m.onelink.me/b78587d4)
+[](https://fr.pinterest.com/marmiton/)[](https://www.facebook.com/marmiton)[](https://www.instagram.com/marmiton_org/)[](https://www.youtube.com/user/marmitonofficiel)
 
 Concocté avec 🧡 par Marmiton
 
 Tous droits réservés Marmiton.org - 1999-2024
 
-[Paramétrer les cookies](javascript:showCmpPreferencesPopup()) ● [Recrutement](https://marmiton.welcomekit.co/) ● [Mentions légales](https://www.marmiton.org/sp/aide/mentions-legales.html) ● [Conditions Générales d'Utilisation](https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html) ● [Conditions Générales d'Abonnement](https://www.marmiton.org/sp/legal/conditions_generales_abonnement.html) ● [Contact](https://www.marmiton.org/contact) ● [FAQ](https://www.marmiton.org/aide/faq-foire-aux-questions-s4005514.html) ● [Politique de protection des données personnelles](https://www.marmiton.org/sp/aide/politque-de-protection-des-donnees-personnelles.html) ● [Foire aux questions - Vos choix concernant l'utilisation de cookies](https://www.marmiton.org/sp/aide/faq-protection-des-donnees-personnelles.html#NotDisplayCmp)
+[Paramétrer les cookies](javascript:showCmpPreferencesPopup()) ● [Recrutement](https://marmiton.welcomekit.co/) ● [Mentions légales](https://www.marmiton.org/sp/aide/mentions-legales.html) ● [Conditions Générales d'Utilisation](https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html) ● [Conditions Générales d'Abonnement](https://www.marmiton.org/sp/legal/conditions_generales_abonnement.html) ● [Contact](https://www.marmiton.org/contact) ● [FAQ](https://www.marmiton.org/aide/faq-foire-aux-questions-s4005514.html) ● [Politique de confidentialité](https://www.reworldmedia.com/mentions-legales/politique-des-donnees-a-caractere-personnel-et-cookies?utm_source=marmiton.org) ● [Foire aux questions - Vos choix concernant l'utilisation de cookies](https://www.marmiton.org/sp/aide/faq-protection-des-donnees-personnelles.html#NotDisplayCmp)
 
-Pour des milliers de cocktails : [1001cocktails.com](http://www.1001cocktails.com/)
+Pour des milliers de cocktails : [1001cocktails.com](https://www.1001cocktails.com/)
