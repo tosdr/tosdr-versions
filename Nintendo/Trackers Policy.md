@@ -8,7 +8,7 @@ All categories
 
 Loading
 
-[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/regionselector/)
+[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/region-selector/)
 
 My Nintendo StoreGamesNintendo Switch[News & Events](https://www.nintendo.com/us/whatsnew/)Play Nintendo
 
@@ -16,7 +16,7 @@ All categories
 
 [Nintendo](https://www.nintendo.com/us/)
 
-[](https://www.nintendo.com/us/store/)[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/regionselector/)
+[](https://www.nintendo.com/us/store/)[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/region-selector/)
 
 [](https://www.nintendo.com/us/wish-list/)[](https://www.nintendo.com/us/cart/)
 
@@ -161,4 +161,4 @@ Analytics Preferences
 
 [Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/terms-of-use/)[Documents & Policies](https://en-americas-support.nintendo.com/app/legal/a_id/48057/)
 
-[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/regionselector/)
+[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/region-selector/)
