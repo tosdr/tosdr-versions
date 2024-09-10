@@ -48,7 +48,7 @@ Contents:
 I. Basic information. Who, what and how
 ---------------------------------------
 
-1. We operate as a capital company: Fitatu Sp. z o.o. with the seat in Poznań (60-749) at ul. Wyspiańskiego 10/5, registered in the Register of Entrepreneurs kept by the District Court Poznań Nowe Miasto i Wilda in Poznań, VIII Commercial Division KRS, with KRS number 0000635344, NIP 7792444235, REGON 3648392781, mailing address: Wyspiańskiego 10/5, 60-749 Poznań, [help@fitatu.com](mailto:help@fitatu.com), tel. +48221001555. We are the owner and operator of the Application and of the [Website](https://www.fitatu.com/). Hereinafter we shall also refer to ourselves as **“Fitatu”**.
+1. We operate as a capital company: Fitatu Sp. z o.o. with the seat in Poznań (60-749) at ul. Wyspiańskiego 10/5, registered in the Register of Entrepreneurs kept by the District Court Poznań Nowe Miasto i Wilda in Poznań, VIII Commercial Division KRS, with KRS number 0000635344, NIP 7792444235, REGON 3648392781, mailing address: Wyspiańskiego 10/5, 60-749 Poznań, [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection), tel. +48221001555. We are the owner and operator of the Application and of the [Website](https://www.fitatu.com/). Hereinafter we shall also refer to ourselves as **“Fitatu”**.
 2. Fitatu's business consists in providing SPN - Smart Personal Nutrition services (**“Free Services”**) by making them available electronically within a software application enabling, among other things:
     1. Verifying and recording the nutritional values of products and foods,
     2. Verifying and recording vitamin and micronutrient intake,
@@ -263,7 +263,7 @@ XI. Complaints
 4. If the Services do not comply with the Contract, the User may request that they be brought into conformity with the Contract. The complaint should include: the User's details, information about the Services and the Order, a description and date of the defect in the Services and the User's request. The User must also provide the original or a copy of the Proof of Purchase or other proof of purchase of the Services complained of.
 5. Complaints should be submitted:
     1. in the case of a paper form - by mail to the address of Fitatu: ul. Wyspiańskiego 10/5, 60-749 Poznań
-    2. in the case of the electronic mail form - to Fitatu's email address: [help@fitatu.com](mailto:help@fitatu.com) Fitatu undertakes to consider the complaint submitted by the User within 14 days of its receipt. If no information is provided within the period referred to in the preceding sentence, Fitatu shall be deemed to have acknowledged the complaint.
+    2. in the case of the electronic mail form - to Fitatu's email address: [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection) Fitatu undertakes to consider the complaint submitted by the User within 14 days of its receipt. If no information is provided within the period referred to in the preceding sentence, Fitatu shall be deemed to have acknowledged the complaint.
 6. Fitatu may refuse to bring the Digital Content or Digital Service into conformity with the Contract if bringing the Digital Content or Digital Service into conformity with the Contract is either impossible or would require unreasonable costs for Fitatu. In assessing the unreasonable cost to Fitatu, all the circumstances of the case shall be taken into account, in particular the significance of the non-compliance of the Digital Content or Digital Service with the Contract and the value of the Digital Content or Digital Service complying with the Contract.
 7. Fitatu shall bring the Digital Content or Digital Service into conformity with the Contract within a reasonable time after Fitatu has been informed by the User of the non-conformity with the Contract, and without undue inconvenience to the User, taking into account their nature and the purpose for which they are used. The costs of bringing the Digital Content or Digital Service into conformity with the Contract shall be borne by Fitatu.
 8. If the Digital Content or Digital Service does not comply with the Contract, Fitatu may make a declaration to reduce the price or withdraw from the Contract when:
@@ -306,7 +306,7 @@ XIII. Withdrawal
 1. The User in respect of any Paid Services shall be provided with a right of withdrawal within 14 days of the conclusion of the Contract subject to paragraphs 4 and 5 below.
 2. In order to exercise the above right referred to in the preceding paragraph, the User must submit a declaration of withdrawal from the Contract within the indicated period:
     1. in the case of a paper form: by mail to the address of Fitatu: Wyspiańskiego 10/5, 60-749 Poznań
-    2. in the case of email, by correspondence to Fitatu: [help@fitatu.com](mailto:help@fitatu.com)
+    2. in the case of email, by correspondence to Fitatu: [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection)
 3. The entitlement under paragraph 1 shall apply only to Users who are Consumers.
 4. Pursuant to Article 38 paragraph 1 point 13, in order to receive the Paid Services that are Digital Content, before the expiry of the statutory period of 14 days for withdrawal, the User shall be obliged to give his/her consent to the commencement of the provision in this respect on the part of Fitatu, before the expiry of the above period. By giving consent in this respect, the User's right of withdrawal shall be forfeited.
 5. The details of the exercise of the right of withdrawal from the Sales Contract - as a distance contract - are set out in the provisions of the Act.
@@ -321,7 +321,7 @@ XIV. Supervision of the posting of Materials
     2. Shall take prompt and appropriate action to remove or disable access to the illegal Materials when it obtains such knowledge or information.
 2. Fitatu reserves the right, at its own discretion and at times of its choosing, to verify Materials posted on the Platforms. Verification activities are undertaken by Fitatu with due diligence and in good faith. The verification is carried out in order to detect, identify and remove, limit or prevent access to illegal content, if any. The verification activities described in this section do not give rise to Fitatu's liability for the Materials as referred to in section 1 above.
 3. If the User becomes aware, while convinced in good faith that certain Materials of another User constitute content that is not compliant with clauses 4 and 5 below, the User may notify Fitatu:
-    1. By email to: [iod@fitatu.com](mailto:iod@fitatu.com)
+    1. By email to: [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection)
     2. Via the contact form on the Website.
 4. In order to facilitate the reporting procedure, Fitatu shall provide the User with an infringement report form, which is attached as [Annex 1](https://www.fitatu.com/docs/content-report.docx) to these Rules.
 5. The notification referred to in the paragraph above should include, in particular:
@@ -352,7 +352,7 @@ XIV. Supervision of the posting of Materials
 10. Fitatu shall take the decision referred to in point 9 above on the basis of the seriousness of the case and the degree of the breach of common law or of these Rules, guided by the principles of proportionality and adequacy.
 11. A specific restriction will only be made after the justification of the decision has been provided to the offending User. The User shall have the right to appeal against the decision of Fitatu under the terms of the justification.
 12. Fitatu reserves the right to inform the relevant law enforcement authorities or other competent public authorities if it becomes aware of any information giving rise to a suspicion that a crime has been, is being or may be committed which endangers the life or safety of persons by the User.
-13. In connection with the provisions of the Digital Services Act (DSA), Fitatu has designated a point of contact for direct communication with Member State authorities, the Commission, the Digital Services Board and also with Users in the form of an email address: [iod@fitatu.com](mailto:iod@fitatu.com)
+13. In connection with the provisions of the Digital Services Act (DSA), Fitatu has designated a point of contact for direct communication with Member State authorities, the Commission, the Digital Services Board and also with Users in the form of an email address: [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection)
 14. By posting any copyrighted Content on the Platform, the User grants Fitatu a royalty-free transferable, non-exclusive, unlimited in time or territory and including the right to grant sub-licences, licence to use the Content in all fields of exploitation known at the time of acceptance of the Rules, including the following fields of exploitation:
     1. use of Materials,
     2. fixation and reproduction of the Materials on Fitatu's servers and IT structures in an unlimited number of copies, back-up copies by all digital techniques;
@@ -378,7 +378,7 @@ XV. Amendments to the Rules
     5. adapt to other extraordinary circumstances forcing Fitatu to make changes.
 2. Amendments shall enter into force at the time expressly stated by Fitatu no earlier than 7 days after their announcement.
 3. If the User does not agree with the changes made to these Terms and Conditions, he/she may terminate the Agreement and cease further use of the Platforms, which also applies to agreements of limited duration.
-4. The notice of termination of the Agreement should be sent to the email address: [help@fitatu.com](mailto:help@fitatu.com)
+4. The notice of termination of the Agreement should be sent to the email address: [\[email protected\]](https://www.fitatu.com/cdn-cgi/l/email-protection)
 5. The User with an Account will be informed of any changes to the Terms and Conditions.
 
 Scroll to top
@@ -422,7 +422,7 @@ Annexes
 
 [](https://www.tiktok.com/@fitatu.polska)
 
-© Fitatu 2024. All rights reserved
+© Fitatu Calorie Calculator 2024. All rights reserved
 
 ![](/img/footer/intelligent/en_GB.jpg)
 
