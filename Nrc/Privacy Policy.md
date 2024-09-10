@@ -27,6 +27,7 @@ Sluit menu
 * [Puzzels](https://www.nrc.nl/puzzels/)
 * [Magazine](https://www.nrc.nl/index/magazine/)
 * Service
+* [E-book](https://www.nrc.nl/ebook/)
 * [Webwinkel](https://nrcwebwinkel.nl/?utm_source=NRC_header&utm_medium=nrc.nl&utm_content=tekstlink&utm_campaign=headernrc)
 * [Familieberichten](https://nrcadverteren.nl/)
 * [Over NRC](https://www.nrc.nl/over-ons/)
@@ -40,7 +41,6 @@ Sluit menu
 * [Mijn abonnementen](https://service.nrc.nl/abonnement)
 * [FAQ Digitaal Lezen](https://service.nrc.nl/digitaal)
 * [Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/)
-* [E-book](https://www.nrc.nl/ebook/)
 * [Veelgestelde vragen](https://service.nrc.nl/faq)
 * [Mijn leeslijst](https://www.nrc.nl/mijn-nrc/leeslijst)
 * [Digitale krant](https://www.nrc.nl/de/)
@@ -74,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fprivacy%2F%3Ft%3D1722414353)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fprivacy%2F%3Ft%3D1726002728)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
@@ -274,7 +274,7 @@ Toevoegen aan
 
 [](https://www.nrc.nl/)
 
-* [Over NRC](https://www.nrc.nl/over-ons/)
+* [NRC](https://www.nrc.nl/over-ons/)
 * [Over ons](https://www.nrc.nl/over-ons/)
 * [Werken bij](https://www.nrc.nl/vacatures/ "Werken bij NRC")
 * [Auteursrecht](https://www.nrc.nl/auteursrecht-databankrecht/)
@@ -284,6 +284,7 @@ Toevoegen aan
 * [Onze app](https://www.nrc.nl/app/)
 * [Archief](https://www.nrc.nl/index/archief/)
 * [Adverteren](https://adverteren.nrc.nl/)
+* [E-book](https://www.nrc.nl/ebook/)
 
 * [Mijn NRC](https://www.nrc.nl/mijn-nrc/)
 * [Neem een abonnement](https://abonnementen.nrc.nl/)
