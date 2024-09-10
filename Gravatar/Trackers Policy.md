@@ -214,7 +214,7 @@ To find out more on how to manage and delete cookies, visit aboutcookies.org. Fo
 
 On a mobile device, you may also be able to adjust your settings to limit tracking.  
 
-Some analytics services we use, which place their own cookies or web tags on your browser, offer their own opt out choices. For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), from Hotjar by using the [Do Not Track header](https://www.hotjar.com/legal/compliance/opt-out), and from Nielsen by clicking the opt out link found within [Nielsen’s Privacy Statement](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/).
+Some analytics services we use, which place their own cookies or web tags on your browser, offer their own opt out choices. For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), from Hotjar by using the [Do Not Track header](https://www.hotjar.com/policies/do-not-track/), and from Nielsen by clicking the opt out link found within [Nielsen’s Privacy Statement](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/).
 
 ### Our Internal Analytics Tool
 
@@ -309,7 +309,7 @@ If you have any questions about our use of cookies, you can find the most releva
     
     *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,183 other subscribers
+    Join 10,300 other subscribers
     
         
     
