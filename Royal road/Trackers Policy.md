@@ -12,42 +12,37 @@ Royal Road uses Trackers managed directly by the Owner (so-called “first-party
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of Royal Road and delivery of the Service
+How Royal Road uses Trackers
+----------------------------
+
+### Necessary
 
 Royal Road uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### First-party Trackers
+#### Trackers managed directly by the Owner
 
-* ### Further information about Personal Data
-    
-    #### localStorage (Royal Road)
+* ### localStorage (Royal Road)
     
     localStorage allows Royal Road to store and access data right in the User's browser with no expiration date.
     
     Personal Data processed: Trackers.
     
-    #### Browser Fingerprinting (Royal Road)
+* ### Browser Fingerprinting (Royal Road)
     
     Browser Fingerprinting creates an identifier based on a device's unique combination of characteristics (e.g. IP address, HTTP header, browser properties etc.), that allows to distinguish the User from other Users, thereby enabling to track the User's browsing behavior across the web. Browser Fingerprinting does not have an expiration date and cannot be deleted.
     
     Personal Data processed: Trackers.
     
-    #### Preference Cookies (Royal Road)
+* ### Preference Cookies (Royal Road)
     
     Preference Cookies store the User preferences detected on Royal Road in the local domain such as, for example, their timezone and region.
     
     Personal Data processed: Trackers.
     
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Traffic optimization and distribution
-    
-    This type of service allows Royal Road to distribute their content using servers located across different countries and to optimize their performance.  
-    Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between Royal Road and the User's browser.  
-    Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
-    
-    #### Cloudflare (Cloudflare)
+* ### Cloudflare (Cloudflare)
     
     Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
     The way Cloudflare is integrated means that it filters all the traffic through Royal Road, i.e., communication between Royal Road and the User's browser, while also allowing analytical data from Royal Road to be collected.
@@ -56,11 +51,7 @@ Royal Road uses so-called “technical” Cookies and other similar Trackers to 
     
     Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/).
     
-* ### SPAM protection
-    
-    This type of service analyzes the traffic of Royal Road, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
-    
-    #### Google reCAPTCHA (Google Inc.)
+* ### Google reCAPTCHA (Google Inc.)
     
     Google reCAPTCHA is a SPAM protection service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing.  
     The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
@@ -79,34 +70,45 @@ Royal Road uses so-called “technical” Cookies and other similar Trackers to 
     * rc::c: duration of the session
     
 
-### Other activities involving the use of Trackers
-
-#### Experience
+### Experience
 
 Royal Road uses Trackers to improve the quality of the user experience and enable interactions with external content, networks and platforms.
 
-* ### Content commenting
-    
-    Content commenting services allow Users to make and publish their comments on the contents of Royal Road.  
-    Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.  
-    If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
-    
-    #### Comment system managed directly (Royal Road)
+#### Trackers managed directly by the Owner
+
+* ### Comment system managed directly (Royal Road)
     
     Royal Road has its own internal content comment system.
     
     Personal Data processed: Cookies, email address, Usage Data and username.
     
 
-#### Measurement
+### Measurement
 
 Royal Road uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
-* ### Analytics
+#### Trackers managed directly by the Owner
+
+* ### Analytics collected directly (Royal Road)
     
-    The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+    Royal Road uses an internal analytics system that does not involve third parties.
     
-    #### Google Analytics (Universal Analytics) (Google Inc.)
+    Personal Data processed: Cookies and Usage Data.
+    
+    Storage duration:
+    
+    * modernizr: indefinite
+    
+* ### GrowthBook (self-hosted) (Royal Road)
+    
+    GrowthBook (self-hosted) is an A/B testing feature built into Royal Road.
+    
+    Personal Data processed: browser information, browsing history, clicks, crash data, device information, device logs, interaction events, operating systems, page views, scroll position, scroll-to-page interactions, Trackers and Usage Data.
+    
+
+#### Trackers managed by third parties
+
+* ### Google Analytics (Universal Analytics) (Google Inc.)
     
     Google Analytics (Universal Analytics) is a web analysis service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing, (“Google”). Google utilizes the Data collected to track and examine the use of Royal Road, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
@@ -125,7 +127,7 @@ Royal Road uses Trackers to measure traffic and analyse User behaviour to improv
     * \_gat: 1 minute
     * \_gid: 1 day
     
-    #### Google Analytics 4
+* ### Google Analytics 4
     
     Google Analytics 4 is a web analysis service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing, (“Google”). Google utilizes the Data collected to track and examine the use of Royal Road, to prepare reports on its activities and share them with other Google services.  
     Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
@@ -142,47 +144,26 @@ Royal Road uses Trackers to measure traffic and analyse User behaviour to improv
     * \_ga: 2 years
     * \_ga\_\*: 2 years
     
-* ### Analytics services managed directly by Royal Road
-    
-    The services contained in this section allow the Owner to collect and manage analytics through the use of first-party Trackers.
-    
-    #### Analytics collected directly (Royal Road)
-    
-    Royal Road uses an internal analytics system that does not involve third parties.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Storage duration:
-    
-    * modernizr: indefinite
-    
-* ### Content performance and features testing (A/B testing)
-    
-    The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behavior regarding changes to the structure, text or any other component of Royal Road.
-    
-    #### GrowthBook (self-hosted) (Royal Road)
-    
-    GrowthBook (self-hosted) is an A/B testing feature built into Royal Road.
-    
-    Personal Data processed: browser information, browsing history, clicks, crash data, device information, device logs, interaction events, operating systems, page views, scroll position, scroll-to-page interactions, Trackers and Usage Data.
-    
 
-#### Marketing
+### Marketing
 
-Royal Road uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+Royal Road uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on Royal Road.
 
 Royal Road participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies. Royal Road uses iubenda (identification number 123) as a Consent Management Platform.
 
-* ### Advertising
+#### Trackers managed by third parties
+
+* ### Amazon Affiliation (Amazon)
     
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on Royal Road, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside Royal Road. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+    Amazon Affiliation is a commercial affiliation service provided by Amazon.com Inc.
     
-    #### Google AdSense (Google Inc.)
+    Personal Data processed: Cookies and Usage Data.
+    
+    Place of processing: US – [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=468496).
+    
+* ### Google AdSense (Google Inc.)
     
     Google AdSense is an advertising service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing. This service uses the “DoubleClick” Cookie, which tracks use of Royal Road and User behavior concerning ads, products and services offered.  
     Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
@@ -205,11 +186,15 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -222,9 +207,10 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
-    #### AppNexus (AppNexus Inc.)
+* ### AppNexus (AppNexus Inc.)
     
     AppNexus is an advertising service provided by AppNexus Inc.
     
@@ -242,7 +228,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * usersync: 3 months
     * uuid2: 3 months
     
-    #### Google Ad Manager (Google Ireland Limited)
+* ### Google Ad Manager (Google Ireland Limited)
     
     Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. In order to opt out from being tracked by various advertising networks, Users may make use of [Youronlinechoices](http://www.youronlinechoices.com/). In order to understand Google's use of data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).  
     This service uses the “DoubleClick” Cookie, which tracks use of Royal Road and User behavior concerning ads, products and services offered.  
@@ -265,11 +251,15 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -282,9 +272,10 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
-    #### PubMatic (PubMatic, Inc.)
+* ### PubMatic (PubMatic, Inc.)
     
     PubMatic is an advertising service provided by PubMatic, Inc.
     
@@ -299,6 +290,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * DPPIX\_ON: 20 seconds
     * DPSync2: 3 months
     * DPSync3: 3 months
+    * DPSync4: 3 months
     * FPtrust: duration of the session
     * HPAUSRBK\_\_: duration of the session
     * KADUSERCOOKIE: 3 months
@@ -318,6 +310,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * SYNCUPPIX\_ON: 20 seconds
     * SyncRTB2: 3 months
     * SyncRTB3: 3 months
+    * SyncRTB4: 3 months
     * TEMPHPAUSRBKCNT\_\_: 1 day
     * UND: 1 hour
     * USCC: 1 day
@@ -339,7 +332,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * repi: 2 seconds
     * uids: 3 months
     
-    #### 33Across (33Across)
+* ### 33Across (33Across)
     
     33Across is an advertising service provided by 33Across.
     
@@ -354,7 +347,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * ps\_pid: 2 years
     * uid: 2 years
     
-    #### Sovrn (Sovrn Holdings Inc)
+* ### Sovrn (Sovrn Holdings Inc)
     
     Sovrn is an advertising service provided by Sovrn Holdings Inc.
     
@@ -364,7 +357,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     
     Storage duration: up to 1 year
     
-    #### OpenX Ad Exchange (OpenX Technologies, Inc.)
+* ### OpenX Ad Exchange (OpenX Technologies, Inc.)
     
     OpenX Ad Exchange is an advertising service provided by OpenX Technologies, Inc.  
     The service provides an ad exchange platform that facilitates the optimization of ads from multiple ad networks, which can be third parties to both OpenX and the Owner.
@@ -378,7 +371,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * i: 1 year
     * pd: 15 days
     
-    #### Verizon Media (EMEA) (Oath (EMEA) Limited)
+* ### Verizon Media (EMEA) (Oath (EMEA) Limited)
     
     Verizon Media (EMEA) is an advertising service provided by Oath (EMEA) Limited.
     
@@ -404,7 +397,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * vmcid: indefinite
     * vmuuid: indefinite
     
-    #### Amazon Mobile Ads (Amazon)
+* ### Amazon Mobile Ads (Amazon)
     
     Amazon Mobile Ads is an advertising service provided by Amazon.
     
@@ -419,7 +412,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     * amzn-token: 7 days
     * vendor-id: 1 month
     
-    #### district m (district m inc.)
+* ### district m (district m inc.)
     
     district m is an advertising service provided by district m inc.
     
@@ -427,7 +420,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     
     Place of processing: United States – [Privacy Policy](https://districtm.net/en/page/platforms-data-and-privacy-policy/) – [Opt out](https://cdn.districtm.ca/optout.html).
     
-    #### Venatus (Venatus Media Limited)
+* ### Venatus (Venatus Media Limited)
     
     Venatus is an advertising service provided by Venatus Media Limited.
     
@@ -437,22 +430,8 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
     
     Storage duration: indefinite
     
-* ### Commercial affiliation
-    
-    This type of service allows Royal Road to display advertisements for third party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
-    Clicks on the icon or banner posted on the Application are tracked by the third-party services listed below, and are shared with Royal Road.  
-    For details of which data are collected, please refer to the privacy policy of each service.
-    
-    #### Amazon Affiliation (Amazon)
-    
-    Amazon Affiliation is a commercial affiliation service provided by Amazon.com Inc.
-    
-    Personal Data processed: Cookies and Usage Data.
-    
-    Place of processing: US – [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_rel_topic?ie=UTF8&nodeId=468496).
-    
 
-### Activities that do not fit the above categorizations
+### Trackers that do not fit the above categorizations
 
 * ### Interest Based Advertising
     
@@ -464,7 +443,7 @@ Royal Road participates in the IAB Europe Transparency & Consent Framework and c
 
 Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on Royal Road.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
