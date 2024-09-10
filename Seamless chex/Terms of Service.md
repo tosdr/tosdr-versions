@@ -24,9 +24,9 @@ More industries
 
 [![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e22f1b07d312c01c67_Icon%20(25).png)
 
-High-Ticket Merchants](https://www.seamlesschex.com/high-volume-merchant-account-services)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2e819840425cacdb4_Icon%20(19).png)
+High-Ticket Merchants](https://www.seamlesschex.com/high-volume-merchant-account-services)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/66b233098cde37d8e633f528_Weight%20Loss%20Companies.png)
 
-Debt Collection](https://www.seamlesschex.com/debt-collection-payment-processing)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
+Peptides](https://www.seamlesschex.com/peptides)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
 
 **TMF/MATCH  
 List Merchants**](https://www.seamlesschex.com/tmf-match-list-merchant-accounts)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/6596e7a8cac7dc060285c93f_Icon%20(5).png)
@@ -353,9 +353,8 @@ Get In Touch
 
 [support@seamlesschex.com](mailto:support@seamlesschex.com)[888-998-2439](tel:8889982439)
 
-401 Park Ave South,  
-10th Floor  
-New York, NY 10016
+18305 Biscayne Blvd.  
+Aventura, FL 33160
 
 [![SeamlessChex Facebook](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62b1d0f85c180b47d528408f_Group%20207.png)](https://www.facebook.com/SeamlessChex/)[![SeamlessChex Instagram](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/63136f80059bbf0e34d1015e_Ellipse%20262-svg.svg)](https://www.instagram.com/seamlesschex/?hl=en)[![SeamlessChex linkedin](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62b1d0f8111148596e052b8d_Group%20209.png)](https://www.linkedin.com/company/seamless-chex/)
 
