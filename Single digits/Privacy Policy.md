@@ -46,7 +46,9 @@
 
 [Connected Life Platform](https://one.singledigits.com/)
 
-[Training and How To](https://www.singledigits.com/training-and-how-to)
+[Training and How-To Videos](https://www.singledigits.com/training-and-how-to)
+
+[Printed Documentation](https://www.singledigits.com/printed-documentation)
 
 [Login Account](#)
 
@@ -98,7 +100,9 @@ Open Menu Close Menu
 
 [Connected Life Platform](https://one.singledigits.com/)
 
-[Training and How To](https://www.singledigits.com/training-and-how-to)
+[Training and How-To Videos](https://www.singledigits.com/training-and-how-to)
+
+[Printed Documentation](https://www.singledigits.com/printed-documentation)
 
 [Login Account](#)
 
@@ -152,7 +156,9 @@ Open Menu Close Menu
 
 [Connected Life Platform](https://one.singledigits.com/)
 
-[Training and How To](https://www.singledigits.com/training-and-how-to)
+[Training and How-To Videos](https://www.singledigits.com/training-and-how-to)
+
+[Printed Documentation](https://www.singledigits.com/printed-documentation)
 
 [Login Account](#)
 
