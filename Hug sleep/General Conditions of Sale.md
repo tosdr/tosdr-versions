@@ -6,6 +6,8 @@
 
 [TRY OUR QUIZ AND FIND YOUR SLEEP POD!](https://hugsleep.com/pages/quiz)
 
+[ADD MORE, SAVE MORE | UP TO 30% OFF! | LIMITED TIME OFFER](https://hugsleep.com/collections/adults-collection)
+
 [](javascript:void(0);)
 
       
@@ -63,9 +65,15 @@ BACK
 
 BACK
 
+* [![](//hugsleep.com/cdn/shop/files/PDP.007_533x533.jpg?v=1723661447)
+    
+    Hug Body Pillow™](https://hugsleep.com/products/hug-body-pillow)
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.018_533x533.jpg?v=1702570745)
     
-    Pod Pillow](https://hugsleep.com/products/pod-pillow)
+    Pod Pillow™](https://hugsleep.com/products/pod-pillow)
+* [![](//hugsleep.com/cdn/shop/files/PDP.011_a31349ee-5efb-4939-b49f-e772a8633e6b_533x533.jpg?v=1723666120)
+    
+    Hug Body Pillowcase](https://hugsleep.com/products/body-pillow-cases)
 * [![](//hugsleep.com/cdn/shop/files/Pillowimages.019_533x533.jpg?v=1702501737)
     
     Pod Pillowcases](https://hugsleep.com/products/pillow-case)
@@ -85,12 +93,15 @@ BACK
 
 BACK
 
-* [![](//hugsleep.com/cdn/shop/files/BundleImages-Studio1.002_533x533.jpg?v=1699370937)
+* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_3_533x533.png?v=1724773487)
     
     Hooded Sleep Pod Bundle](https://hugsleep.com/products/hooded-sleep-pod-move-bundle)
-* [![](//hugsleep.com/cdn/shop/files/BundleImages-Studio1.001_533x533.jpg?v=1699371550)
+* [![](//hugsleep.com/cdn/shop/files/SLEEPPODMOVEBUNDLE_533x533.png?v=1724773402)
     
     Sleep Pod Move Bundle](https://hugsleep.com/products/sleep-pod-move-bundle)
+* [![](//hugsleep.com/cdn/shop/files/KIDSSLEEPPODBUNDLE_2_533x533.png?v=1723587016)
+    
+    Kids Hooded Sleep Pod Bundle](https://hugsleep.com/products/kids-hooded-sleep-pod-bundle-1)
 * [![](//hugsleep.com/cdn/shop/files/Untitledbundle.001_533x533.jpg?v=1699894232)
     
     Kids Sleep Pod Bundle](https://hugsleep.com/products/kids-sleep-pod-bundle-pair)
@@ -106,6 +117,12 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/BundleImages-Studio1.006_533x533.jpg?v=1699371444)
     
     Hooded Sleep Pod Bundle - Turquoise](https://hugsleep.com/products/hooded-sleep-pod-pair-bundle)
+* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_2_533x533.png?v=1724426031)
+    
+    Pod Pillow™ Bundle](https://hugsleep.com/products/pod-pillow%E2%84%A2-bundle)
+* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_1_533x533.png?v=1724367747)
+    
+    Hug Body Pillow™ Bundle](https://hugsleep.com/products/hug-body-pillow%E2%84%A2-bundle)
   
   
   
@@ -155,7 +172,7 @@ BACK
   
   
 
- Search [![Hug Sleep](//hugsleep.com/cdn/shop/files/newlogohug.png?v=1702993474)](https://hugsleep.com/)
+ Search [![Hug Sleep Inc.](//hugsleep.com/cdn/shop/files/newlogohug.png?v=1702993474)](https://hugsleep.com/)
 
 * [Adults Collection](https://hugsleep.com/collections/adults-collection)
     
@@ -173,7 +190,9 @@ BACK
     
 * [Hug Accessories](https://hugsleep.com/collections/hug-accessories)
     
+    * [Hug Body Pillow™](https://hugsleep.com/products/hug-body-pillow)
     * [Pod Pillow™](https://hugsleep.com/products/pod-pillow)
+    * [Hug Body Pillowcase](https://hugsleep.com/products/body-pillow-cases)
     * [Pod Pillowcases](https://hugsleep.com/products/pillow-case)
     * [Hug Sleep Mask™](https://hugsleep.com/products/hug-sleep-mask)
     * [HugStretch™ Cozy Carry Bag](https://hugsleep.com/products/hugstretch%E2%84%A2-cozy-carry-bag)
@@ -253,6 +272,7 @@ Stay up to date with the latest Hug Sleep offers and product availability!
 * [Accessibility](https://hugsleep.com/pages/accessibility-hug-sleep)
 * [Blog](https://hugsleep.com/blogs/news)
 * [Affiliate Program](https://hugsleep.com/pages/affiliate)
+* [HSA/FSA](https://try.hugsleep.com/lmn)
 
 * [Instagram](https://www.instagram.com/hug_sleep/?hl=en)
 * [Facebook](https://www.facebook.com/HugSleepPod/)
@@ -260,7 +280,7 @@ Stay up to date with the latest Hug Sleep offers and product availability!
 * [Translation missing: en.general.social.links.linkedin](https://www.linkedin.com/company/hug-sleep)
 * [Pinterest](https://www.pinterest.com/pin/hug-sleep-pod-as-seen-on-shark-tank--446700856800189056/)
 
-© 2024, [Hug Sleep](https://hugsleep.com/)
+© 2024, [Hug Sleep Inc.](https://hugsleep.com/)
 
 Hug Sleep Inc. products are protected by Pat.: 10,463,179, 10,842,202 & 11,116,338 and other protections
 
