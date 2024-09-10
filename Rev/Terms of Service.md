@@ -1,221 +1,346 @@
-[Rev.com](https://www.rev.com/)Open Navigation Menu
+[![Rev's logo](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/65e0b921d865d7bb0f8c9062_logo_white.svg)](https://www.rev.com/)
 
-Services [Pricing](https://www.rev.com/pricing)Solutions[Enterprise](https://www.rev.com/enterprise)ResourcesClose Navigation Menu
-
-[Login](https://www.rev.com/account/auth/login)
+[Pricing](https://www.rev.com/pricing)
 
 Services
---------
 
-#### Services
+For Business
 
-### Transcription
+[Services](https://www.rev.com/services)
 
-Transcription services that meet the needs of all projects large or small.Continue
+[Human Transcription
 
-### Video Captions & Subtitles
+Expert Human Transcription with 99% Accuracy](https://www.rev.com/services/human-transcription)
 
-English and translated on-screen subtitles that help you reach a wider audience of viewers.Continue
+[AI Transcription
 
-##### Service Overview
+Transcribe Audio and Video to Text with AI Speed](https://www.rev.com/services/ai-transcription)
 
-View all speech-to-text services.[Service Overview](https://www.rev.com/services)
+[Human Captions
 
-#### Business Services
+Accessible and Compliant Captions for Video Content in English or Spanish](https://www.rev.com/services/closed-captions)
 
-For larger organizations that utilize speech-to-text services at enterprise scale.
+[AI Captions
 
-### Enterprise
+Increase Global Reach with AI Captions in 37 Languages](https://www.rev.com/services/ai-captions)
 
-Back to main menu
+[Global Subtitles
 
-Solutions
----------
+Expand Globally with Accurate Subtitles in 17 Languages](https://www.rev.com/services/global-subtitles)
 
-#### Solutions
+![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
-##### [Legal Transcription](https://www.rev.com/solutions/industry/legal-services)
+Ignite Your Productivity
 
-##### [Video Distribution](https://www.rev.com/solutions/industry/video-distribution)
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-Back to main menu
+[Learn More](https://www.rev.com/services/voicehub)
 
-Resources
----------
+[For Business](https://www.rev.com/solutions)
 
-#### Resources
+[News Organizations
 
-##### [Explore all customer stories](https://www.rev.com/customers)
+Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)
 
-##### [Ebooks, Guides, & Webinars](https://www.rev.com/resources)
+[Video Localization & Accessibility
 
-##### [Blog](https://www.rev.com/blog)
+Unlock New Audiences and Revenue with Accessible Content](https://www.rev.com/solutions/video-accessibility-localization)
 
-##### [Mobile Apps & Tools](https://www.rev.com/apps-and-tools)
+[Court Reporting & Legal
 
-##### [Advocacy Program](https://www.rev.com/resources/customer-advocacy-program)
+A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)
 
-##### [Help Center](https://support.rev.com/hc/en-us)
+[Market Research
 
-##### [Transcript Library](https://www.rev.com/blog/transcripts)
+Transcribe, Discover, and Publish with Precision](https://www.rev.com/solutions/market-research)
 
-### Most popular blog articles
+[Video Distribution
 
-### Become a Rev Freelancer
+Rapidly Deliver Platform-Tailored Content at Scale](https://www.rev.com/solutions/video-distribution)
 
-Become a freelancer and work on your own terms.[Become a Rev Freelancer](https://www.rev.com/freelancers)
+![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
-Back to main menu
+Ignite Your Productivity
 
-### Most popular blog articles
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-##### [How to Transcribe Audio to Text](https://www.rev.com/blog/resources/how-to-transcribe-audio-to-text)
+[Learn More](https://www.rev.com/services/voicehub)
 
-##### [How to Transcribe iPhone Voice Memos](https://www.rev.com/blog/resources/how-to-transcribe-iphone-voice-memos)
+[Blog](https://www.rev.com/blog)
 
-##### [The Best Apps to Transcribe Audio Files to Text](https://www.rev.com/blog/resources/best-apps-to-transcribe-audio-files-to-text)
+[Developers](https://www.rev.ai/)
 
-Back to
+Contact Us
 
-[Find more blogs](https://www.rev.com/blog)
+Contact Us
 
-### Transcription
+[Give Support a Call
 
-##### Human Transcription
+(888) 369-0701  
+Available Monday - Friday  
+9am - 4pm CT](tel:+18883690701)
 
-Convert your audio or video into 99% accurate text by a professional for $1.50 per minute.[Human Transcription](https://www.rev.com/services/audio-transcription)
+[Talk to Sales
 
-##### AI Transcription
+Learn about our AI and human-led Speech-to-Text solutions](https://www.rev.com/online-transcription-services/contact-sales)
 
-The most accurate AI-powered transcription on the market for only $0.25 per minute.[AI Transcription](https://www.rev.com/services/auto-audio-transcription)
+[Send Support a Message
 
-##### Rev Max Subscription - 14 day free trial!
+Have a question?  
+We can help!](mailto:support@rev.com)
 
-Get best-in-class accuracy, custom glossaries, and more for $29.99 per month.[Rev Max Subscription - 14 day free trial!](https://www.rev.com/services/automated-transcription-subscription)
+[Help Center
 
-Back to
+Visit Rev’s Knowledge Base for Answers to Common Questions](https://support.rev.com/hc/en-us)
 
-### Video Captions & Subtitles
+[Request a Demo](https://www.rev.com/online-transcription-services/contact-sales)[Login](https://www.rev.com/app)
 
-##### English Closed Captions
+[Get Started](#services-modal_navbar-cta)
 
-99% accurate English on-screen subtitles for videos, only $1.50 per minute.[English Closed Captions](https://www.rev.com/services/closed-captioning-services)
+back to menu
 
-##### AI Captions
+[Human Transcription
 
-Add captions to videos with Industry-leading AI.[AI Captions](https://www.rev.com/services/ai-closed-captions)
+Expert Human Transcription with 99% Accuracy](https://www.rev.com/services/human-transcription)[Human Captions
 
-##### Global Translated Subtitles
+Accessible and Compliant Captions for Video Content in English or Spanish](https://www.rev.com/services/closed-captions)[Global Subtitles
 
-99% accurate translated on-screen subtitles for videos for $5-12 per minute.[Global Translated Subtitles](https://www.rev.com/services/subtitles-for-videos/translator)
+Expand Globally with Accurate Subtitles in 17 Languages](https://www.rev.com/services/global-subtitles)[AI Transcription
 
-Back to
+Transcribe Audio and Video to Text with AI Speed](https://www.rev.com/services/ai-transcription)[AI Captions
 
-### Enterprise
+Increase Global Reach with AI Captions in 38 Languages](https://www.rev.com/services/ai-captions)
 
-##### Solutions overview
+![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
-The Best Speech-to-Text Solution for Your Business - Learn how Rev fits into your businesses workflow.[Solutions overview](https://www.rev.com/solutions)
+Ignite Your Productivity
 
-##### Speech-to-Text APIs
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-Build human or automatic speech-to-text solutions directly into your product or tools.[Speech-to-Text APIs](https://www.rev.com/services/speech-to-text-apis)
+[Learn More](https://www.rev.com/services/voicehub)
 
-##### Contact Sales
+back to menu
 
-Ready to talk? Contact us to learn more about Rev for Business.[Contact Sales](https://www.rev.com/contact-sales)
+[News Organizations
 
-Back to
+Capture Every Detail, Break Every Story](https://www.rev.com/solutions/news-broadcast)[Market Research
 
-[Learn more about Enterprise](https://www.rev.com/enterprise)
+Transcribe, Discover, and Publish with Precision](https://www.rev.com/solutions/market-research)[Video Distribution
 
-* [Contact Sales](https://www.rev.com/contact-sales)
-* [Support](https://support.rev.com/hc/en-us)
-* [Twitter](https://twitter.com/rev)
-* [YouTube](https://www.youtube.com/c/Revdotcom)
-* [Facebook](https://www.facebook.com/rev)
-* [Instagram](https://www.instagram.com/rev/?hl=en)
-* [LinkedIn](https://www.linkedin.com/company/rev-com/)
-* [Apple](https://apple.co/49bM3Xl)
-* [Spotify](https://spoti.fi/49E2RGh)
+Rapidly Deliver Platform-Tailored Content at Scale](https://www.rev.com/solutions/video-distribution)[Video Localization & Accessibility
 
-* [Services](https://www.rev.com/services)
-* [Audio Transcription Services](https://www.rev.com/services/audio-transcription)
-* [AI Audio Transcription](https://www.rev.com/services/auto-audio-transcription)
-* [Rev Max Subscription - 14 day free trial!](https://www.rev.com/services/automated-transcription-subscription)
-* [Closed Caption Services](https://www.rev.com/services/closed-captioning-services)
-* [Global Subtitle Translator](https://www.rev.com/services/subtitles-for-videos/translator)
-* [English Subtitle Services](https://www.rev.com/services/subtitles-for-videos/)
-* [Transcribe Audio to Text](https://www.rev.com/blog/resources/how-to-transcribe-audio-to-text)
-* [Transcribe MP3 to Text](https://www.rev.com/blog/transcribe-mp3-to-text)
+Unlock New Audiences and Revenue with Accessible Content](https://www.rev.com/solutions/video-accessibility-localization)[Court Reporting & Legal
 
-* [Why Rev?](https://www.rev.com/why-rev)
+A Trusted Partner From Transcription to Certification](https://www.rev.com/solutions/legal)
 
-* [Solutions](https://www.rev.com/solutions)
+![A man with a mustache and a woman with a beard](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/66a014f85937519ab682990f_mege_menu_waitlist_promo.webp)
 
-* [Enterprise](https://www.rev.com/enterprise)
+Ignite Your Productivity
 
-* [Pricing](https://www.rev.com/pricing)
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
-* [Use Cases](https://www.rev.com/solutions/use-case)
-* [Accessibility](https://www.rev.com/solutions/use-case/accessibility)
-* [Extend Content Reach](https://www.rev.com/solutions/use-case/extend-content-reach)
-* [Streamline Audio & Video Editing](https://www.rev.com/solutions/use-case/streamline-audio-and-video-editing)
+[Learn More](https://www.rev.com/services/voicehub)
 
-* [Industries](https://www.rev.com/solutions/industry)
-* [Marketing Transcription Services](https://www.rev.com/solutions/industry/marketing)
-* [Academic Transcription services](https://www.rev.com/solutions/industry/education)
-* [Media Transcription services](https://www.rev.com/solutions/industry/news-and-broadcast)
+back to menu
 
-* Resources
-* [Customers](https://www.rev.com/customers)
-* [Blog](https://www.rev.com/blog)
-* [Transcript Library](https://www.rev.com/blog/transcripts)
-* [Integrations](https://www.rev.com/integration)
-* [Advocacy Program](https://www.rev.com/resources/customer-advocacy-program)
-* [Podcasts](https://www.rev.com/podcasts)
+[Give Support A Call
 
-* Developers
-* [Speech-to-text APIs](https://www.rev.com/services/speech-to-text-apis)
+(888) 369-0701  
+Available Monday - Friday  
+9am - 4pm CT](tel:+18883690701)[Send Support a Message
 
-* [Free Apps & Tools](https://www.rev.com/apps-and-tools)
-* [Transcription App](https://www.rev.com/apps-and-tools/audio-transcription-app)
-* [Free Call Recorder App](https://www.rev.com/apps-and-tools/call-recorder-app)
-* [Voice Recorder App](https://www.rev.com/apps-and-tools/voice-recorder)
-* [Audio Trimmer & Cutter](https://www.rev.com/audiotrimmercutter)
-* [Caption Converter](https://www.rev.com/captionconverter)
-* [Online Voice Recorder](https://www.rev.com/onlinevoicerecorder)
+Have a question? We can help!](mailto:support@rev.com)[Help Center
 
-* Company
-* [About Rev](https://www.rev.com/about-rev)
-* [Diversity & Inclusion](https://www.rev.com/about-rev/diversity)
-* [Press](https://www.rev.com/blog/press)
-* [Careers](https://www.rev.com/careers)
-* [Influencers](https://www.rev.com/influencers)
-* [Affiliates](https://www.rev.com/affiliates)
-* [Partners](https://www.rev.com/partners)
-* [Freelancers](https://www.rev.com/freelancers)
+Visit Rev’s Knowledge Base for Answers to Common Questions](https://support.rev.com/hc/en-us)[Talk to Sales
 
-From the blog
+Learn about our AI and human-led Speech-to-Text solutions](https://www.rev.com/online-transcription-services/contact-sales)
 
-Our Top Picks
--------------
+close
 
-[The Ultimate 2022 Educators Guide to Remote Learning](https://www.rev.com/blog/the-ultimate-2022-educators-guide-to-remote-learning)
+Speech-to-Text Solutions That Fit Any Project
 
-[How to Transcribe Meeting Minutes](https://www.rev.com/blog/how-to-transcribe-meeting-minutes)
+Subscription
 
-[Grow your Podcast following with Transcription](https://www.rev.com/blog/transcription-blog/grow-your-podcast-following-with-transcription)
+Free
 
-[Read All](https://www.rev.com/blog)
+For occasional transcription and captioning needs.
 
-[Become a freelancer](https://www.rev.com/freelancers)
+[Get Started](https://www.rev.com/subscription/signup/groups/1/plans/50)
 
-* © rev.com
-* [Legal](https://www.rev.com/legal)
-* [Security](https://www.rev.com/enterprise/security)
-* [Terms](https://www.rev.com/legal/terms)
-* [Privacy](https://www.rev.com/legal/privacy)
-* [CA Privacy Policy](https://www.rev.com/legal/privacy)
-* [Sitemap](https://www.rev.com/sitemap)
-* [Reviews](https://www.rev.com/reviews)
+[Get Started](https://www.rev.com/subscription/signup/groups/1/plans/50)
+
+Basic
+
+For individuals and small teams with consistent transcription needs.
+
+[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/52)
+
+[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/52)
+
+Pro
+
+RECOMMENDED
+
+For teams and organizations with higher volumes of content.
+
+[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/53)
+
+[Start 14-Day Free Trial](https://www.rev.com/subscription/signup/groups/1/plans/53)
+
+Enterprise
+
+For organizations that require enterprise security, control, and more.
+
+[Request A Demo](https://www.rev.com/online-transcription-services/contact-sales)
+
+[Request A Demo](https://www.rev.com/online-transcription-services/contact-sales)
+
+[Compare All Subscription Plans](https://www.rev.com/pricing)
+
+Transcripts by The Minute
+
+Human Transcription
+
+Our expert transcriptionists turn speech-to-text in 12 hours or less, 99% accuracy guaranteed.
+
+[Order Human Transcripts](https://www.rev.com/checkout/transcriptionfiles)
+
+[Order Human Transcripts](https://www.rev.com/checkout/transcriptionfiles)
+
+AI Transcription
+
+Transcribe video and audio to text in minutes with AI-powered automatic speech recognition.
+
+[Order AI Transcripts](https://www.rev.com/checkout/automated-transcription-files)
+
+[Order AI Transcripts](https://www.rev.com/checkout/automated-transcription-files)
+
+Captions by The Minute
+
+Human Captions
+
+Reach a wider audience with human-generated captions in English or Spanish.
+
+[Order Human Captions](https://www.rev.com/checkout/captionfiles)
+
+[Order Human Captions](https://www.rev.com/checkout/captionfiles)
+
+AI Captions
+
+Boost your engagement by adding AI generated captions in 38 languages.
+
+[Order AI Captions](https://www.rev.com/checkout/automated-caption-files)
+
+[Order AI Captions](https://www.rev.com/checkout/automated-caption-files)
+
+Subtitles by The Minute
+
+Global Subtitles
+
+Reach a wider audience and improve search discoverability with human-generated English captions.
+
+[Order Global Subtitles](https://www.rev.com/checkout/subtitlefiles)
+
+[Order Global Subtitles](https://www.rev.com/checkout/subtitlefiles)
+
+Looking for something else?
+
+Rev handles the tedious job of transcripts, captions, and subtitles so you’ll get work done faster. If you haven’t found what you need yet, we still bet we can help.
+
+[Learn More](https://www.rev.com/online-transcription-services/contact-sales)
+
+Terms of Service  
+
+===================
+
+**This Terms of Service was last updated on March 8, 2024.**
+
+**PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THIS AGREEMENT CONTAINS A MANDATORY INDIVIDUAL ARBITRATION PROVISION IN SECTION 15.B (THE “ARBITRATION AGREEMENT”) AND CLASS ACTION/JURY TRIAL WAIVER PROVISION IN SECTION 15.C (THE “CLASS ACTION/JURY TRIAL WAIVER”) THAT REQUIRE, UNLESS YOU OPT OUT PURSUANT TO THE INSTRUCTIONS IN SECTION 15.B, THE EXCLUSIVE USE OF FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES BETWEEN YOU AND REV, INCLUDING ANY CLAIMS THAT AROSE OR WERE ASSERTED BEFORE YOU AGREED TO THESE TERMS. TO THE FULLEST EXTENT PERMITTED BY LAW, YOU EXPRESSLY WAIVE YOUR RIGHT TO SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL ON YOUR CLAIMS, AS WELL AS YOUR RIGHT TO PARTICIPATE AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS, COLLECTIVE, PRIVATE ATTORNEY GENERAL OR REPRESENTATIVE ACTION OR PROCEEDING.**
+
+These Terms of Service (the “**Terms**”) are between you (“**you**,” “**your**,” “**Customer**” (with respect to a business, organization or other legal entity) or “User” (with respect to an individual)) and Rev.com, Inc. (“**Rev**,” “**we**,” “**our**” or “**us**”) and govern your use of the Services procured through the Rev.com website (the “**Site**”) and related desktop or mobile applications (each, an “**App**,” and collectively with the Site, the “**Platform**”). As used in these Terms, “**Services**” means Rev’s transcription, captioning, translation, automated speech recognition (“**ASR**”) and related hosting and other services, including technical support and other services specific to Rev’s and our affiliates’ products and services.
+
+These Terms, any Order Forms (as defined in Section 3.A (Orders for Services) below), and any policies, conditions and disclaimers referenced in these Terms or otherwise required to access certain features of the Services (the “Additional Terms”) form the “Agreement” between you and us with respect to the Services. If there is a conflict between these Terms and any Additional Terms, the Additional Terms will control with respect to the specific feature. In the Agreement, the words “include” and “including” will not be construed as terms of limitation.
+
+By accessing or using the Services, clicking a button or checking a box indicating acceptance of these Terms, or placing an Order Form, you signify that you have read, understood, and agree to be bound by this Agreement, and are legally able to receive the Services under the laws of the United States or other countries in which you are resident or from which you use the Services. Users must be over the age of 18 (or the age of majority in your jurisdiction, whichever is greater, and of legal age to form a binding contract), and, if a business, duly organized and legally in good standing. Our collection and use of personal information in connection with your access to and use of the Services, whether or not you are a registered User, is described in our [Privacy Policy](https://www.rev.com/legal/privacy). All references to “you” or “your,” as applicable, mean the person who accesses, uses, and/or participates in the Services in any manner, and each of your heirs, assigns, and successors. If you use the Services on behalf of an entity, you represent and warrant that you have the authority to bind that entity, your acceptance of the Agreement will be deemed an acceptance by that entity, and “you” and “your” herein shall refer to that entity, its directors, officers, employees, agents, and all associated Users.
+
+1. **Changes to these Terms  
+    ‍**We may update these Terms from time to time. If we materially update any portion of these Terms, we will notify you, at the email address provided in your Account profile, or other reasonable means (for example, by posting a notice on the Site). We will also post the updated Terms on the Platform. Your renewal of your Term (or, for Services without a set Term, your ongoing use of the Services) after we publish or send a notice about changes to these Terms means that you are consenting to the updated terms.
+2. **Accounts**
+    1. **Users**. Users must register an account on the Platform (an “**Account**”) to access certain features of the Services. Users agree to: (a) not share your Account or transfer any part of it to anyone else; (b) provide accurate, current and complete information during the registration process and keep your Account up-to-date; and (c) keep your password secure and confidential. You agree to notify Rev immediately of any unauthorized use of your Account and are responsible for anything that happens through your Account. Rev is not liable for any losses by any party caused by an unauthorized use of your Account. You agree to keep your contact and billing information (including but not limited to email address) up-to-date, and to comply with all billing procedures, including providing and maintaining accurate and lawful billing information on your Account.
+    2. **Account Profile**. You may modify your Account profile and how it interacts with the Services by changing the settings in your Account. You consent to Rev using the email address you provide in your Account profile to send you Services-related notices, including any notices required by law, in lieu of communication by other means such as postal mail. Rev may also use your email address to send you other messages, such as changes to Services features, special offers, or Services-related newsletters. If you do not want to receive marketing emails, you may opt out or change your preferences by following the instructions on the applicable email message. Opting out may prevent you from receiving email messages regarding updates, improvements or offers. Even if you opt out of marketing emails, we may still send you administrative emails regarding the Services, including, for example, notices of updates to these Terms or our Privacy Policy, and information related to your Account.
+    3. **Account Access.** Customer is responsible for ensuring that access to and use of the Services comports with any limits stated in the applicable Order Form, including by (a) protecting all authentication keys and access tokens for the Services, as applicable, in accordance with the usage limitations; (b) prohibiting access to or use of the Services by anyone other than authorized Users; and (c) ensuring that the authentication keys or access tokens are used solely as necessary to exercise your rights granted under the Agreement. Customer is responsible and liable to Rev for all activity that occurs with the authentication keys, access tokens or otherwise through or in connection with your Account, including any associated User Accounts.
+3. **Provision of the Services**
+    1. **Orders for Services**. Services may be procured through the Services interface (or in some cases, via a mutually-executed order form) (each mechanism for procuring Services, an “**Order Form**”). During the Term (as defined in Section 8.A (Term and Renewal) below), Rev grants you a revocable, nonexclusive, non-sublicensable, non-transferable, limited license to (a) access and use the Services described in the applicable Order Form solely in accordance with any usage or license limitations set forth in the Agreement, including the Order Form; (b) install, run and use the Apps on a device that you own and control, in executable, machine-readable, object code form only; and (c) access any and all documentation related to the Services that Rev may make available from time to time (the “**Documentation**”) internally and solely in connection with your authorized use of the Services. You agree that your execution of an Order Form is not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments made by Rev regarding future functionality or features.
+    2. **Fees.** Fees for Services (“**Fees**”) are payable by credit card or other payment method permitted by us from time to time, in U.S. dollars (unless another currency is specified in the Order Form), and you authorize us to charge your credit card or bank account for all fees payable during the Term as set forth in your Order Form (which includes, for subscription Services, at the start of the applicable billing period specified in your Order Form). You represent and warrant to Rev that all payment information you provide is accurate and that you are authorized to use the applicable payment instrument. You further authorize us to use a third party to process payments, and consent to the disclosure of your payment information to such third party. Except as otherwise specified in the applicable Order Form, Fees for the Term are non-refundable, including in the event of a suspension or termination pursuant to Section 8.B (Termination or Suspension) below, and may only be used for future Services. Customer is responsible for any wire transfer fees.
+    3. **Invoicing**. Rev may choose to bill through an invoice, in which case, full payment for invoices issued in any given month must be received by Rev thirty (30) days after the mailing date of the invoice, or the Services may be suspended. Unpaid invoices are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower. If you dispute any charges you must provide written notification to Rev within thirty (30) days after the date that Rev invoices you, or such charges shall be deemed valid and due.
+    4. **Usage Limitations.** The Services may be subject to certain additional limitations, such as, for example, (a) limits on the number of Users per Customer Account; (b) limits to named (not concurrent) devices or persons; or (c) limits on content storage capacity. We reserve the right to charge or invoice you for any additional usage (including to upgrade you to a higher Services tier for your then-current usage, as applicable), on a prorated basis, commencing on the first day of the month of the Term in which the usage exceeded the applicable limit or, for Services without a set Term, immediately upon overage of the applicable limit).You are responsible for all taxes, duties or other fees imposed, assessed or collected by or under the authority of any governmental body (“**Taxes**”) imposed on the transaction or the delivery of Services (except Taxes based on our net income), and acknowledge and agree that the amount billed under your Order Form may vary due to promotional offers, changes in your billing plan at the time of renewal (in accordance with this Agreement) or changes in Taxes, and you authorize us (or payment processor, as applicable) to charge your payment method for the changed amounts. You acknowledge and agree that you are responsible for payment for any Services performed because of an accidental duplicative upload of Your Content.
+    5. **Services Updates.** Your use of the Services includes the right to access all functionality available in the Services to which you subscribed in the Order Form, on the effective date of such Order Form. Rev may enhance and modify the Services and introduce new Services from time to time but will not make changes to the Services that materially reduce the functionality you purchased for the Term if a set Term applies to your Services. We reserve the right to change Rev's prices at any time without notice. Rev’s pricing will be reflected on the Platform, and your continued use of the Service after the price change becomes effective constitutes your agreement to pay the changed amount; provided, however, that if pricing modifications would negatively impact your then-current Term, e.g., for a subscription-based offering, these modifications will not apply to you until the start of the renewal Term, if any. To the extent Rev makes available any new or different features, functionality or enhancements to the Services, Rev may market these separately and may require the payment of additional fees. You agree that Rev will not be liable to you or any third party for any modification of the Services in keeping with this section.
+    6. **Third Party Products, Links, and Information**. The Services may integrate with, or contain, third-party products, services, materials, or information, or links thereto that are not owned or controlled by us (“**Third Party Materials**”). We do not endorse or assume any responsibility for any such Third Party Materials. If you access any third-party website or service, you do so at your own risk, and you acknowledge and agree that the Agreement and our Privacy Policy do not apply to your access to or use of such sites or services. You expressly relieve us from any and all liability arising from your access to or use of any Third Party Materials.
+        1. **Rev:YouTube Integration.** By using Rev.com’s YouTube API Integration, you are agreeing to YouTube's [Terms of Service.](https://www.youtube.com/t/terms)
+    7. **Additional Terms for Apps.** To use an App to access the Services, you must have a mobile device that is compatible with the applicable App. We do not warrant that an App will be compatible with your mobile device. You may use mobile data in connection with the Apps and may incur additional charges from your wireless provider for these services. You agree that you are solely responsible for any such charges (subject to your App settings impacting mobile data usage). You acknowledge that we may from time to time issue upgraded versions of the Apps and may automatically electronically upgrade the version of the App that you are using on your mobile device. You consent to such automatic upgrading on your mobile device and agree that these Terms will apply to all such upgrades.
+        1. **Apps from Apple App Store**. The following applies to any Apps you acquire from the Apple App Store (“**Apple-Sourced Software**”): You acknowledge and agree that these Terms are solely between you and Rev, not Apple, Inc. (“**Apple**”) and that Apple has no responsibility for the Apple-Sourced Software or content thereof. Your use of the Apple-Sourced Software must comply with the App Store Terms of Service. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Apple-Sourced Software. In the event of any failure of the Apple-Sourced Software to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Apple-Sourced Software to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Apple-Sourced Software, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be solely governed by these Terms and any law applicable to Rev as provider of the software. You acknowledge that Apple is not responsible for addressing any claims of you or any third party relating to the Apple-Sourced Software or your possession and/or use of the Apple-Sourced Software, including, but not limited to: (a) product liability claims; (b) any claim that the Apple-Sourced Software fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation; and all such claims are governed solely by these Terms and any law applicable to Rev as provider of the software. You acknowledge that, in the event of any third party claim that the Apple-Sourced Software or your possession and use of that Apple-Sourced Software infringes that third party’s intellectual property rights, Rev, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by these Terms. You and Rev acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms as relates to your license of the Apple-Sourced Software, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms as relates to your license of the Apple-Sourced Software against you as a third-party beneficiary thereof.
+        2. **Apps from Google Play Store**. The following applies to any Apps you acquire from the Google Play Store (“**Google-Sourced Software**”): (a) You acknowledge that the Agreement is between you and Rev only, and not with Google, Inc. (“**Google**”); (b) your use of Google-Sourced Software must comply with Google’s then-current Google Play Store Terms of Service; (c) Google is only a provider of the Google Play Store where you obtained the Google-Sourced Software; (d) Rev, and not Google, is solely responsible for its Google-Sourced Software; (e) Google has no obligation or liability to you with respect to Google-Sourced Software or the Agreement; and (f) you acknowledge and agree that Google is a third-party beneficiary to the Agreement as it relates to Rev’s Google-Sourced Software.
+4. **Your Content, including Services Output**
+    1. **License to Your Content**. You grant us a fully paid-up, royalty-free, worldwide, nonexclusive right and license, with the right to sublicense, copy, reproduce, modify, use, publicly perform, display, distribute and create derivative works of video, audio and other materials, information and data that you provide, post, upload, publish, transmit or distribute (whether publicly or privately) on or through the Platform(collectively, “**Your Content**”) in perpetuity: (a) as necessary to provide the Services to you in accordance with the Agreement; (b) to perform necessary maintenance, calibration, diagnostic and troubleshooting of the Services, and to monitor the performance of the Services; (c) to improve Rev and its affiliates Products and Services, including to train and maintain Rev and its affiliates ASR speech-to-text and other artificial intelligence models; (d) to perform such other actions as authorized or instructed by you in writing (email to suffice); and (e) as required by law and subject to the compelled disclosure requirements of Section 9 (Confidential Information).
+    2. **Your Responsibility for Your Content.** We do not own Your Content, and you, not Rev, will have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of Your Content. In connection with Your Content, Customer, and User as applicable, represent and warrant that: (a) you have the written consent of each and every identifiable natural person in Your Content to use such person’s name or likeness in the manner contemplated by the Services and the Agreement; (b) you have obtained (and are solely responsible for obtaining) all consents that may be required by applicable provisions of foreign, federal, state or local laws, rules, regulations or orders of all governmental bodies, courts, tribunals and arbitrators (“**Applicable Law**”) to submit Your Content; (c) Your Content does not otherwise violate the Agreement, including Section 6 (Acceptable Use) of these Terms; and (d) Your Content and our use thereof as contemplated by the Agreement and the Services will not violate any law or infringe any rights of any third party, including but not limited to any intellectual property rights and/or privacy rights. We expressly disclaim any liability for the data and content transmitted through or intermediately, temporarily or permanently stored on Rev networks or any server and for the actions or omissions of Customers or Users. You acknowledge and agree that (i) Rev need not pre-screen Your Content, although Rev reserves the right in our reasonable discretion to pre-screen, refuse or remove any of Your Content; and (ii) you are responsible for ensuring that you back up Your Content.
+    3. **Our Right to Remove Your Content**. We have the absolute right to remove or disable access to any content on the Services as needed (a) to operate, secure and improve the Services (including without limitation for fraud prevention, risk assessment, investigation and customer support purposes); (b) to ensure compliance with the Agreement (or any Rev policy), Applicable Law, or an order or requirement of a court, law enforcement or other administrative agency or governmental body; or (c) as otherwise set forth in this Agreement. If we become aware of any content posted through the Services that allegedly violates this Agreement, we may investigate the allegation and determine in our sole discretion whether to act, but have no liability or responsibility to you to do so. You agree to cooperate with us in good faith, as we may reasonably request, in any investigation we choose to undertake with respect to Your Content.
+5. **User Data**
+    1. **Compliance with Data Protection Laws.** The parties to this Agreement recognize that this Agreement is subject to, and intended to comply with, all Applicable Law Relating to the use, collection, retention, storage, security, disclosure, transfer, sale or other processing of personal information (collectively, the “**Data Protection Laws**”). If Rev processes Personal Data (as defined in Section 1 of the [Rev Data Processing Addendum](https://www.rev.com/legal/data-processing-addendum) (“**Data Processing Addendum**” or “**DPA**”)) on behalf of Customer pursuant to these Terms, Rev and Customer will comply with the terms of the DPA, the terms of which are incorporated into these Terms.
+    2. **License to User Data.** In connection with the provision of the Services, Rev may process personal information and data from or about Users, Customer employees, clients and contractors, and other individuals that is collected, submitted, posted, displayed, uploaded or otherwise received from or provided by Customer and Users by or through the Services (collectively, “**User Data**”). (For clarity, “User Data” does not include data for which Rev is deemed a controller under Data Protection Laws, e.g., Customer’s business data related to the administration of Order Forms.) You grant to Rev a fully paid-up, royalty-free, worldwide, nonexclusive right and license, with the right to sublicense, copy, reproduce, modify, use, publicly perform, display, distribute and create derivative works of all User Data during the Term for the purpose of (a) providing the Services in accordance with the purposes set forth in the Agreement and applicable Order Form and in accordance with your instructions set forth in writing; (b) detecting data security incidents or to protect against fraudulent or illegal activity; and (c) enforcing Rev’s rights under this Agreement.
+    3. **User Data Disclosure.** Rev will not disclose or sell User Data other than as necessary to perform the agreed-upon Services, or in accordance with a User’s instructions. Notwithstanding the foregoing, nothing in this Agreement will restrict Rev’s ability to disclose User Data (a) to a subcontractor for a business purpose pursuant to a written agreement to protect the confidentiality of User Data, provided that Rev will be liable to you for the acts or omissions of any subcontractor to whom Rev has disclosed or permitted to access User Data as if they were the acts or omissions of Rev; (b) to a third party as necessary to comply with Applicable Laws; (c) with your consent; or (d) as otherwise permitted by applicable Data Protection Laws.
+    4. **Your Responsibility for User Data.** You acknowledge and affirm that you have provided all notices and obtained all consents necessary, if any, under the Data Protection Laws, to provide to Rev, or permit Rev to access and collect, User Data for the purposes described in this Agreement. You will not submit, or cause to be submitted, User Data in violation of Section 6.B (Prohibited Content) below.
+    5. **De-Identified or Anonymized Data.** You acknowledge and agree that we may collect, retain, analyze, create, use and disclose information relating to the performance of the Services and statistics and metrics regarding the Services (e.g., number of files transcribed using the Services across all Rev customers), provided that such information is solely in an aggregated and anonymized format that does not identify Customer or any individual (“**De-Identified Data**”). For clarity, De-Identified Data will not be considered Your Content or personal data, and nothing in these Terms will limit Rev’s right, both during and after the Term of the Agreement, to use, store, transmit, disclose, modify, copy, display, sublicense and create derivative works from De-Identified Data.
+6. **Acceptable Use**
+    1. **Prohibited Activities**. You agree not to, nor permit any other party to:
+        * use, or cause others to use, any automated system or software to extract content from the Platform;
+        * interfere with or disrupt the Services or servers or networks connected to the Platform;
+        * take any action that negatively affects the ability of others to access or use the Platform;
+        * use the Services for any illegal or unauthorized purpose;
+        * provide access to the Services to anyone but authorized Users;
+        * rent, lease, lend, sell or sublicense the Services or otherwise provide access to the Services as part of a service bureau or similar fee-for-service purpose;
+        * reverse engineer, decode, decompile, disassemble or otherwise attempt to access or derive the source code or architectural framework of the Platform or any other part of the Services; or
+        * introduce any viruses to the Services.
+    2. **Prohibited Content**. Unless expressly agreed in an Order Form with respect to a certain type of content, you must not nor permit others to submit, upload, email, transmit or otherwise make available through the Platform:
+        * any content not owned by you or for which you do not have all necessary authorization to make available through the Platform, including in accordance with all applicable intellectual property laws and data laws, regulations and privacy standards;
+        * sensitive financial data (e.g., bank account numbers, credit card or debit card numbers, passwords, and other access codes for financial accounts);
+        * personal health information subject to protection under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”);
+        * content that violates Applicable Law or creates a security risk to any person (e.g., by exposing sensitive personal information);
+        * illegal content (including but not limited to obscenity, sexual content involving minors); or
+        * content that a reasonable person would find abusive, harassing, threatening, defamatory, libelous, obscene, or otherwise objectionable.
+        * Without limiting other rights available, Rev reserves the right to reject and/or remove any of Your Content that Rev believes, in its reasonable discretion, violates this Section 6.
+7. **Proprietary Rights**
+    1. **Ownership.** As between Rev and you (a) you and your licensors, as applicable, own all right, title and interest in and to (i) Your Content, (ii) User Data, (iii) your copyrights, trademarks, service marks, trade names, trade secrets, and other intellectual and proprietary rights with respect to your products and services; and (iv) any translations, transcriptions, or captions or any derivative work of Your Content created through the Services (“**Work Product**”); and (b) Rev and our licensors own all right, title and interest in and to (i) the Platform; (ii) Rev’s ASR speech-to-text model, and all improvements, enhancements or modifications to it; (iii) the APIs and any software accessible through the Platform; (iv) De-Identified Data; and (v) all information, text, links, graphics, photos, audio, video, and other forms of data or communication that users can view, access or otherwise interact with through the Services (except for Your Content and Work Product).
+    2. **Feedback.** If Customer or a User provides any feedback, comments, questions, suggestions, or the like about the Services (collectively "**Feedback**"), then Customer or User, as applicable, grants to Rev a worldwide, perpetual, irrevocable, royalty-free license to any ideas, know-how, concepts, techniques, or other intellectual property rights contained in the Feedback, for any purpose whatsoever, including, without limitation, for the improvement, marketing, and promotion of the Services. You agree that Feedback provided by you is given entirely voluntarily and that Feedback, even if designated as confidential by you, will not, absent a separate written agreement, create any confidentiality obligation for Rev with respect to such Feedback.
+    3. **Reservation of Rights.** Each party reserves all rights not expressly granted in the Agreement, and no licenses are granted by either party to the other under the Agreement, whether by implication, estoppel or otherwise, except as expressly set forth herein.
+8. **Term and Termination**
+    1. **Term and Renewal.** The initial term of the Services will begin on the start date as specified in the Order Form for the applicable Services, and extend for the term specified in the applicable Order Form, as applicable (the “**Term**”). For Services purchased on a subscription basis, unless otherwise specified in the applicable Order Form, you may not terminate your subscription before the expiration of the Term specified in the Order Form. A Term may be renewed upon mutual agreement of the parties and payment of the applicable Fee pertaining to the renewal.
+    2. **Termination and Suspension.** We may temporarily or permanently suspend access to the Services with respect to Customer or a User in the event that we suspect in good faith that Customer or a User is engaged in any conduct in violation of this Agreement or has failed to make payment of the applicable Fee when due. In the event we suspend a Customer Account, all associated User Accounts will be likewise suspended.
+    3. **Effect of Termination.** Upon the expiration or termination of the Agreement: (a) Rev will terminate your and/or applicable Users’ access to Your Content and User Data through the Services; and (b) your licenses hereunder will terminate, and you will immediately cease all use of the Platform. Any section of the Agreement that, by its terms or its nature, should survive the termination or expiration of the Agreement will so survive including Sections 5(e) (De-Identified or Anonymized Data), 7 (Proprietary Rights), 9 (Confidential Information) through 19 (Information or Complaints), and this Section 8(c) (Effect of Termination).
+9. **Confidential Information**
+    1. **Confidentiality.** Rev and you each agree to retain in confidence the non-public information and know-how disclosed pursuant to the Agreement which is either designated in writing as proprietary and/or confidential, if disclosed in writing, or if disclosed orally, is designated in writing (which may be via email) as confidential within thirty (30) days of the oral disclosure or should reasonably be understood to be confidential by the recipient (the “**Confidential Information**”). Notwithstanding any failure to so designate them, the Services will be Rev's Confidential Information; and the User Data and Your Content will be your Confidential Information. Each party agrees to: (a) preserve and protect the confidentiality of the other party’s Confidential Information; (b) refrain from using the other party’s Confidential Information except as contemplated herein; and (c) not disclose such Confidential Information to any third party except to employees, officers, affiliates, controlling stockholders, agents, advisors, subcontractors and other representatives as is reasonably required to provide the Services and otherwise in connection with the exercise of its rights and obligations under the Agreement. Notwithstanding the foregoing, either party may disclose Confidential Information of the other party which is: (i) already publicly known without breach of the Agreement; (ii) discovered, created or independently developed by the receiving party without use of, or reference to, the Confidential Information of the disclosing party, as shown in records of the receiving party; (iii) otherwise known to the receiving party through no wrongful conduct of the receiving party; or (iv) required to be disclosed by law or court order; provided that the receiving party will provide prompt notice thereof and commercially reasonable assistance to the disclosing party to enable the disclosing party to seek a protective order or otherwise prevent or restrict such disclosure. Moreover, either party hereto may disclose any Confidential Information hereunder to such party’s agents, attorneys and other representatives (and only subject to confidentiality obligations at least as protective as those set forth herein) or any court of competent jurisdiction as reasonably required to resolve any dispute between the parties hereto. Upon the disclosing party’s written request, the receiving party will, within a reasonable time, permanently delete or destroy any and all of the disclosing party’s Confidential Information, and any and all copies thereof, within its possession or control as may have been provided pursuant to the Agreement.
+    2. **Data Security.** Rev employs administrative, physical and technical safeguards and technologies designed to secure Your Content and User Data from unauthorized access, disclosure or use. In the event that Rev determines that unencrypted or unredacted User Data or Your Content was accessed or acquired by an unauthorized party, Rev will promptly inform you without undue delay and will provide reasonable cooperation with your investigation of the incident. In the case of Customer as the owner of User Data, Customer will be solely responsible for compliance with any notification obligations that may be required under Applicable Laws. NOTWITHSTANDING THE FOREGOING IN THIS SECTION 9.B, REV DOES NOT GUARANTEE THAT UNAUTHORIZED THIRD PARTIES WILL NEVER BE ABLE TO DEFEAT REV’S SECURITY MEASURES OR USE YOUR CONTENT OR THE USER DATA FOR IMPROPER PURPOSES. YOU ACKNOWLEDGE THAT YOU PROVIDES USER DATA AND YOUR CONTENT AT YOUR OWN RISK AND THAT REV TAKES NO RESPONSIBILITY AND ASSUMES NO LIABILITY FOR USER DATA AND YOUR CONTENT.
+10. **Indemnification.** You agree to indemnify and hold harmless Rev, our affiliates, and each of our respective directors, officers, employees, shareholders and agents (collectively, the "**Indemnified Parties**") against any losses, claims, damages, liabilities, penalties, actions, proceedings, judgments, or any and all costs thereof (collectively, "**Losses**") to which the Indemnified Parties may become subject and which Losses arise out of, or relate to, the Agreement, your use of the Services, Your Content, User Data, your breach of any confidentiality obligation, or any alleged infringement of any trademark, copyright, patent or other intellectual property right, and will reimburse the Indemnified Parties for all legal and other expenses, including, but not limited to, reasonable attorney's fees incurred by the Indemnified Parties, in connection with investigating, defending, or settling any Loss, whether or not in connection with pending or threatened litigation in which the Indemnified Parties may be a party.
+11. **Limitation on Liability and Claims.** REV WILL NOT BE LIABLE FOR: (A) ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF PROFITS OR LOSS OF REVENUE RESULTING FROM THE USE OF THE SERVICES BY YOU OR ANY THIRD PARTIES OR ANY FAILURE OF THE SERVICES; OR (B) ANY LOSS, EXFILTRATION, DISCLOSURE OR CORRUPTION OF USER DATA, YOUR CONTENT OR OTHER DATA, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA RESULTING FROM DELAYS, NON-DELIVERIES, MIS-DELIVERIES, SERVICE INTERRUPTIONS, FAILURE OF REV’S NETWORK, RECLAMATION OF SERVERS, FAILURE OF SERVERS, OR THE RELOADING OF AN OPERATING SYSTEM OR OTHER SOFTWARE ON A SERVER. IN NO EVENT SHALL REV'S AGGREGATE LIABILITY UNDER THE AGREEMENT EXCEED, IN THE AGGREGATE, THE ACTUAL DAMAGES INCURRED UP TO THE GREATER OF: (I) AN AMOUNT EQUAL TO SIX (6) TIMES THE FEES PAYABLE BY YOU FOR THE USE OF THE SERVICES THAT ARE THE SUBJECT OF THE CLAIM IN THE FIRST MONTH IN WHICH FEES ARE CHARGED UNDER THIS AGREEMENT; OR (II) THE TOTAL AMOUNT PAID BY YOU TO REV FOR THE USE OF THE SERVICES THAT ARE THE SUBJECT OF THE CLAIM IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT(S) THAT FIRST GAVE RISE TO THE CLAIM.
+12. **Disclaimer of Warranties.** REV PROVIDES THE SERVICES “AS IS,” WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING (A) THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE; AND (B) ANY WARRANTY WITH RESPECT TO THE QUALITY, ACCURACY, CURRENCY OR COMPLETENESS OF THE SERVICES, SERVICES OUTPUT, OR ANY OTHER DATA OR RESULTS OBTAINED THROUGH THE SERVICES; OR (C) THAT USE OF SERVICES WILL BE ERROR-FREE, UNINTERRUPTED, FREE FROM OTHER FAILURES OR WILL MEET YOUR REQUIREMENT. YOU ARE SOLELY RESPONSIBLE FOR VERIFYING THE ACCURACY AND COMPLETENESS OF THE WORK PRODUCT. YOU ACKNOWLEDGE THAT THERE ARE RISKS INHERENT IN INTERNET CONNECTIVITY THAT COULD RESULT IN THE LOSS OF USER DATA, YOUR CONTENT, CONFIDENTIAL INFORMATION, OR OTHER MATERIALS.
+13. **Force Majeure.** Neither party will lose any rights hereunder or be liable to the other party for damages or losses on account of failure of performance by the defaulting party if the failure is due by any occurrence or contingency beyond its reasonable control, including, but not limited to, war, strike, fire, Act of God, earthquake, flood, lockout, embargo, epidemics, pandemics, governmental acts or orders or restrictions, failure of suppliers, or any other reason where failure to perform is beyond the reasonable control of the nonperforming party; provided that such party will use commercially reasonable efforts to promptly mitigate any damages or losses.
+14. **Publicity.** Customers agree that Rev may publicly disclose that Rev is providing Services to Customer and may include your name, logo, trade names, trademarks, service marks, trade dress, logos and other rights in indicia (“**Marks**”) in any promotional materials, including press releases, case studies and customer references, and grants to us a nonexclusive license to use, reproduce, and display your Marks on or within the user interface of the Services, including as made available to actual or potential customers, as well as in marketing and promotional materials. We will use such Marks in compliance with any reasonable written usage guidelines provided to us by Customer. Except as set forth in this Agreement, neither party may publicly use the other party’s name, logo or other trade or service mark without first obtaining the other party’s approval in writing.
+15. **Governing Law, Arbitration, and Class Action/Jury Trial Waiver**
+    1. **Governing Law.** You agree that: (a) the Services will be deemed solely based in Texas; and (b) the Services will be deemed a passive one that does not give rise to personal jurisdiction over us, either specific or general, in jurisdictions other than Texas. This Agreement will be governed by the internal substantive laws of the State of Texas, without respect to its conflict of laws principles. The parties acknowledge that this Agreement evidences a transaction involving interstate commerce. Notwithstanding the preceding sentences with respect to the substantive law, the Federal Arbitration Act (9 U.S.C. §§ 1-16) (“**FAA**”) governs the interpretation and enforcement of the Arbitration Agreement in Section 15.B (Arbitration) and preempts all state laws to the fullest extent permitted by law. If the FAA is found to not apply to any issue that arises from or relates to the Arbitration Agreement, then that issue will be resolved under and governed by the law of your state of residence. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You agree to submit to the exclusive personal jurisdiction of the federal and state courts located in the city of Austin and in Travis County, Texas for any actions for which we retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of our copyrights, trademarks, trade secrets, patents, or other intellectual property or proprietary rights, as set forth in Section 15.B (Arbitration) below, including any provisional relief required to prevent irreparable harm. You agree that Travis County, Texas is the proper and exclusive forum for any appeals of an arbitration award or for trial court proceedings in the event that the arbitration provision below is found to be unenforceable.
+    2. **Arbitration. READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM REV.** This Section 15.B (the “**Arbitration Agreement**”) applies to and governs any dispute, controversy, or claim between you and Rev that arises out of or relates to, directly or indirectly: (a) this Agreement, including the formation, existence, breach, termination, enforcement, interpretation, validity, or enforceability thereof; (b) access to or use of the Services, including receipt of any advertising or marketing communications; (c) any transactions through, by, or using the Services; or (d) any other aspect of your relationship or transactions with Rev, directly or indirectly, as a consumer (“**Claim**” or collectively, “**Claims**”). The Arbitration Agreement will apply, without limitation, to all Claims that arose or were asserted before or after your agreement to this Agreement. If you are a new Rev user, you can reject and opt-out of this Arbitration Agreement within thirty (30) days of accepting this Agreement by emailing Rev at support@rev.com with your first and last name and stating your intent to opt-out of the Arbitration Agreement. Note that opting out of this Arbitration Agreement does not affect any other part of this Agreement, including the provisions regarding controlling law or in which courts any disputes must be brought. For any Claim, you agree to first contact us at finance@rev.com and attempt to resolve the dispute with us informally. In the unlikely event that Rev has not been able to resolve a Claim after sixty (60) days, we each agree to resolve any Claim exclusively through binding arbitration by the American Arbitration Association (“**AAA**”) before a single arbitrator (the “**Arbitrator**”), under the Expedited Procedures then in effect for AAA (the “**Rules**”), except as provided herein. In the event of any conflict between the Rules and this Arbitration Agreement, this Arbitration Agreement will control. AAA may be contacted at [www.adr.org](http://www.adr.org/), where the Rules are also available. The arbitration will be conducted in Austin, Texas, unless you and Rev agree otherwise. If you are using the Services for commercial purposes, each party will be responsible for paying any AAA filing, administrative and arbitrator fees in accordance with AAA rules, and the award rendered by the arbitrator will include costs of arbitration, reasonable attorneys’ fees and reasonable costs for expert and other witnesses. If you are an individual using the Services for non-commercial purposes: (i) AAA may require you to pay a fee for the initiation of your case, unless you apply for and successfully obtain a fee waiver from AAA; (ii) the award rendered by the arbitrator may include your costs of arbitration, your reasonable attorney’s fees, and your reasonable costs for expert and other witnesses; and (iii) you may sue in a small claims court of competent jurisdiction without first engaging in arbitration, but this does not absolve you of your commitment to engage in the informal dispute resolution process. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. You and Rev agree that the Arbitrator, and not any federal, state, or local court or agency, will have exclusive authority to resolve any disputes relating to the interpretation, applicability, enforceability or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The Arbitrator will also be responsible for determining all threshold arbitrability issues, including issues relating to whether the Agreement, or any provision of the Agreement, is unconscionable or illusory and any defense to arbitration, including waiver, delay, laches, unconscionability, or estoppel. Nothing in this Section will be deemed as: preventing Rev from seeking injunctive or other equitable relief from the courts as necessary to prevent the actual or threatened infringement, misappropriation, or violation of our data security, Intellectual Property Rights or other proprietary rights; or preventing you from asserting claims in small claims court, if your claims qualify and so long as the matter remains in such court and advances on only an individual (non-class, non-representative) basis. If this Arbitration Agreement is found to be void, unenforceable, or unlawful, in whole or in part, the void, unenforceable, or unlawful provision, in whole or in part, will be severed. Severance of the void, unenforceable, or unlawful provision, in whole or in part, will have no impact on the remaining provisions of the Arbitration Agreement, which will remain in force, or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to the Arbitration Agreement. Notwithstanding the foregoing, if the Class Action/Jury Trial Waiver is found to be void, unenforceable, or unlawful, in whole or in part, because it would prevent you from seeking public injunctive relief, then any dispute regarding the entitlement to such relief (and only that relief) must be severed from arbitration and may be litigated in a civil court of competent jurisdiction. All other claims for relief subject to arbitration under this Arbitration Agreement will be arbitrated under its terms, and the parties agree that litigation of any dispute regarding the entitlement to public injunctive relief will be stayed pending the outcome of any individual claims in arbitration.
+    3. **Class Action/Jury Trial Waiver. WITH RESPECT TO ALL PERSONS AND ENTITIES, REGARDLESS OF WHETHER THEY HAVE OBTAINED OR USED THE SERVICE FOR PERSONAL, COMMERCIAL OR OTHER PURPOSES, ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITIES, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR OTHER REPRESENTATIVE PROCEEDING. THIS WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS. YOU AND REV AGREE THAT THE ARBITRATOR MAY AWARD RELIEF ONLY TO AN INDIVIDUAL CLAIMANT AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF ON YOUR INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED MAY NOT AFFECT OTHER REV USERS. YOU AND REV FURTHER AGREE THAT, BY ENTERING INTO THIS AGREEMENT, YOU AND REV ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO BRING, JOIN, OR PARTICIPATE IN A CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND AS A PLAINTIFF OR CLASS MEMBER.**
+16. **Trade Restrictions.** You acknowledge that the Services and any related products, information, documentation, software, technology, technical data, and any derivatives thereof, that Rev makes available (collectively “**Excluded Data**”) are subject to the export control and sanctions laws and regulations of the United States and other countries that may prohibit or restrict access by certain persons or from certain countries or territories currently including, but not limited to, Cuba, the Crimea region of the Ukraine, Sudan, Iran, North Korea and Syria ("**Trade Restrictions**”). You represent and warrant that you are not: (i) located in an embargoed country or territory, (ii) under the control of an entity organized in or a resident of an embargoed country or territory, (iii) listed on any U.S. government list of persons or entities with which U.S. persons are prohibited from transacting, including, but not limited to, OFAC’s List of Specially Designated Nationals and Other Blocked Persons, the U.S. State Department's Nonproliferation Sanctions lists, the U.S. Commerce Department’s Entity List or Denied Persons List located at [https://www.trade.gov/consolidated-screening-list](https://www.trade.gov/consolidated-screening-list); or (iv) subject to end destination export control regulations, such as, but not limited to, the U.S. Export Administration Regulations and U.S. Government EU Dual-Use Regulation EC 428/2009. You are solely responsible for complying with Trade Restrictions for all Excluded Data and any of its content transmitted through the Services.
+17. **General Terms.** This Agreement (including each Order Form) contains the entire understanding between Rev and you relating to the subject matter herein and supersedes all prior oral or written agreements between us. We reject any additional or different terms proposed by you, including those contained in your purchase order, vendor onboarding process or web portal. In the event of a conflict between the terms of your Agreement and an Order Form, the terms of the Order Form will control, but only as to that Order Form. You may not assign or transfer your rights and benefits under this Agreement without our prior written consent, but we may assign or transfer this Agreement without restriction. Except as set forth in this Agreement, nothing in this Agreement will be deemed to confer any rights or benefits on any third party. No waiver, amendment, modification or addition to this Agreement will be valid unless in writing and signed by both you and us. In the event any provision of this Agreement is determined to be invalid by a court of competent jurisdiction, such determination will in no way affect the validity or enforceability of any other provision herein. Rev and you are independent contractors, and this Agreement does not create a partnership, joint venture, employment or agency relationship between the Rev and any Customer or User. This is a non-exclusive arrangement.
+18. **Compliance with Laws.** The parties recognize that this Agreement is subject to, and intended to comply with, Applicable Law, and agree that the Services addressed in this Agreement do not exceed those which are reasonably necessary to accomplish the commercially reasonable business purposes of this Agreement.
+19. **Information or Complaints**. Routine communications to Rev regarding the Services should be sent to [support@rev.com](mailto:support@rev.com). Notices regarding termination for breach, indemnification, or other legal matter should be sent by electronic mail to [finance@rev.com](mailto:finance@rev.com) in addition to overnight postal service to 1717 W. 6th Street, Suite 310, Austin, TX 78703, Attn: General Counsel. Notices are deemed received as of the time posted or delivered, or if that time does not fall within a business day, as of the beginning of the first business day following the time posted or delivered. For purposes of counting days for notice periods, the business day on which the notice is deemed received counts as the first day. Notices will be given in the English language. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with Provider. For complaints about the Services, California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210
+
+‍
+
+[![Rev logo](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/65e47d8c010b905c265d6aa9_logo-white.svg)](https://www.rev.com/)
+
+[Services](#services-modal_footer-cta)[Why rev?](https://www.rev.com/why-rev)[Pricing](https://www.rev.com/pricing)[Blog](https://www.rev.com/blog)[Freelancers](https://www.rev.com/freelancers)[press](https://www.rev.com/press)
+
+[Support](https://support.rev.com/hc/en-us)[LinkedIn](https://www.linkedin.com/company/rev-com/)[X](https://twitter.com/rev)[YouTube](https://www.youtube.com/c/Revdotcom)[Facebook](https://www.facebook.com/rev)[Instagram](https://www.instagram.com/rev/?hl=en)[Spotify](https://spoti.fi/49E2RGh)[Apple](https://podcasts.apple.com/us/podcast/the-rough-draft/id1730123012)
+
+© rev.com
+
+[Legal](https://www.rev.com/legal)[Security](https://www.rev.com/enterprise/security)[Terms](https://www.rev.com/legal/terms)[Privacy](https://www.rev.com/legal/privacy)[CA Privacy Policy](https://www.rev.com/legal/privacy)[Sitemap](https://www.rev.com/sitemap)[Reviews](https://www.rev.com/reviews)
