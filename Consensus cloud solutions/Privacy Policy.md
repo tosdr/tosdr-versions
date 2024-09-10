@@ -4,9 +4,7 @@
 * [Support](https://www.consensus.com/contact-us/)
 * [844 804-1234](tel:8448041234)
 
-[![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20284%2036'%3E%3C/svg%3E)
-
-![Consensus](https://www.consensus.com/wp-content/themes/consensus/images/logo-main.svg)](https://www.consensus.com/)
+[![Consensus](https://www.consensus.com/wp-content/themes/consensus/images/logo-main.svg)](https://www.consensus.com/)
 
 [](#)
 
@@ -41,33 +39,15 @@
     
 * Products
     
-    * [Enterprise-Level Cloud Fax](https://www.consensus.com/products/efaxcorporate/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2020/02/efaxcorp-black-no-tag.svg)](https://www.consensus.com/products/efaxcorporate/)
-    * [NLP/AI Document Processing](https://www.consensus.com/products/clarity/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2021/10/Clarity-black.svg)](https://www.consensus.com/products/clarity/)
-    * [Clinical Documentation Software](https://www.consensus.com/products/clarity/clinical-documentation/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2020/02/Clarity-black-updated.svg)](https://www.consensus.com/products/clarity/clinical-documentation/)
-    * [Healthcare Interoperability Platform](https://www.consensus.com/products/unite/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2021/10/Unite-black.svg)](https://www.consensus.com/products/unite/)
-    * [HITRUST r2-certified eSignatures](https://www.consensus.com/products/jsign/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2021/09/Jsign-black.svg)](https://www.consensus.com/products/jsign/)
-    * [Interface Engine](https://www.consensus.com/products/conductor/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2023/06/Conductor-black.svg)](https://www.consensus.com/products/conductor/)
-    * [API Connectivity](https://www.consensus.com/products/harmony/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2021/10/Harmony-black.svg)](https://www.consensus.com/products/harmony/)
-    * [Care Coordination](https://www.consensus.com/products/all-access/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2022/09/AllAccess-black.svg)](https://www.consensus.com/products/all-access/)
-    * [Government Cloud Fax](https://www.consensus.com/products/ecfax/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2020/02/ecfax-logo-singular.svg)](https://www.consensus.com/products/ecfax/)
+    * [Enterprise-Level Cloud Fax](https://www.consensus.com/products/efaxcorporate/)[![](https://www.consensus.com/wp-content/uploads/2020/02/efaxcorp-black-no-tag.svg)](https://www.consensus.com/products/efaxcorporate/)
+    * [NLP/AI Document Processing](https://www.consensus.com/products/clarity/)[![](https://www.consensus.com/wp-content/uploads/2021/10/Clarity-black.svg)](https://www.consensus.com/products/clarity/)
+    * [Clinical Documentation Software](https://www.consensus.com/products/clarity/clinical-documentation/)[![](https://www.consensus.com/wp-content/uploads/2020/02/Clarity-black-updated.svg)](https://www.consensus.com/products/clarity/clinical-documentation/)
+    * [Healthcare Interoperability Platform](https://www.consensus.com/products/unite/)[![](https://www.consensus.com/wp-content/uploads/2021/10/Unite-black.svg)](https://www.consensus.com/products/unite/)
+    * [HITRUST r2-certified eSignatures](https://www.consensus.com/products/jsign/)[![](https://www.consensus.com/wp-content/uploads/2021/09/Jsign-black.svg)](https://www.consensus.com/products/jsign/)
+    * [Interface Engine](https://www.consensus.com/products/conductor/)[![](https://www.consensus.com/wp-content/uploads/2023/06/Conductor-black.svg)](https://www.consensus.com/products/conductor/)
+    * [API Connectivity](https://www.consensus.com/products/harmony/)[![](https://www.consensus.com/wp-content/uploads/2021/10/Harmony-black.svg)](https://www.consensus.com/products/harmony/)
+    * [Care Coordination](https://www.consensus.com/products/all-access/)[![](https://www.consensus.com/wp-content/uploads/2022/09/AllAccess-black.svg)](https://www.consensus.com/products/all-access/)
+    * [Government Cloud Fax](https://www.consensus.com/products/ecfax/)[![](https://www.consensus.com/wp-content/uploads/2020/02/ecfax-logo-singular.svg)](https://www.consensus.com/products/ecfax/)
     
 * Resources
     
@@ -92,13 +72,11 @@
     
     * Featured
         
-        [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        [![featured event](https://www.consensus.com/wp-content/uploads/2024/07/HIMSS-NC.svg)](https://nchimss.org/conference/)
         
-        ![featured event](https://www.consensus.com/wp-content/uploads/2024/05/Civitas-Website-Banner.svg)](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
+        [HIMSS North Carolina Conference
         
-        [2024 Civitas Networks for Health Annual Conference
-        
-        Learn More](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
+        Learn More](https://nchimss.org/conference/)
         
     
 * Learn
@@ -491,7 +469,7 @@ In accordance with the California Consumer Privacy Act, if you are a consumer re
 * [Responsible Disclosure Program](https://www.consensus.com/responsible-disclosure-program/)
 * [Recruitment Privacy Notice](https://www.consensus.com/recruitment-privacy-policy/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20870%20456'%3E%3C/svg%3E)
 
 ![](https://www.consensus.com/wp-content/themes/consensus/images/footer-bg.png)
 
@@ -512,7 +490,7 @@ In accordance with the California Consumer Privacy Act, if you are a consumer re
 * [Harmony](https://www.consensus.com/products/harmony/)
 * [Clarity](https://www.consensus.com/products/clarity/)
 * [eFax Corporate](https://www.consensus.com/products/efaxcorporate/)
-* [Jsign](https://www.consensus.com/products/jsign/)
+* [jSign](https://www.consensus.com/products/jsign/)
 * [All Access](https://www.consensus.com/products/all-access/)
 * [Clarity CD](https://www.consensus.com/products/clarity/clinical-documentation/)
 
@@ -534,17 +512,17 @@ In accordance with the California Consumer Privacy Act, if you are a consumer re
 * [Careers](https://www.consensus.com/careers/)
 * [Billing FAQs](https://www.consensus.com/faq/#billing-faq)
 * [Investors](https://investor.consensus.com/overview/default.aspx)
-* [Become a Partner](https://www.consensus.com/partners-old/become-a-partner/)
+* [Become a Partner](https://www.consensus.com/partners/become-a-partner/)
 
-[![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20209%20117'%3E%3C/svg%3E)
 
 ![Consensus](https://www.consensus.com/wp-content/themes/consensus/images/infinity-white.svg)](https://www.consensus.com/)Privacy Policy 
 
-[![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Consensus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20260%2056'%3E%3C/svg%3E)
 
 ![Consensus](https://www.consensus.com/wp-content/themes/consensus/images/footer-logo.svg)](https://www.consensus.com/)
 
-* [![accessibility icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+* [![accessibility icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
     
     ![accessibility icon](https://www.consensus.com/wp-content/themes/consensus/images/accessibility-icon.svg)
     
