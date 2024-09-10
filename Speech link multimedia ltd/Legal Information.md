@@ -17,7 +17,7 @@
     
     [Find out more](https://speechandlanguage.link/slcn-in-school/)
     
-    [* Identification](https://speechandlanguage.link/slcn-in-school/assessment/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
+    [* Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
     
 * [Our Packages](https://speechandlanguage.link/whole-school-approach/)
     
@@ -63,7 +63,7 @@
 
 * [Home](https://speechandlanguage.link/)
 * [Speech and Language in School](https://speechandlanguage.link/slcn-in-school/)▾
-    * [Identification](https://speechandlanguage.link/slcn-in-school/assessment/)
+    * [Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)
     * [Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)
     * [Training](https://speechandlanguage.link/slcn-in-school/training/)
     * [Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
@@ -155,7 +155,7 @@ Suffolk Delivering Better Value (DBV) funding for Speech & Language Link. Suffol
 
 [](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
 
-### [Free speech and language conference](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
+### [Free speech and language day](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
 
 Join us for our next online speech and language event to listen to engaging expert speakers. Recent presenters have included former communication champion, Jean Gross, and broadcaster Michael Rosen. The Link Live is free for [Link Community](https://speechandlanguage.info/the-link-community/)  members.
 
@@ -273,7 +273,7 @@ Password
 
 New user? [Sign up here](#)
 
-Close
+[Lost your password?](#)
 
 ##### Register
 
