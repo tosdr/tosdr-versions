@@ -19,14 +19,13 @@ Or try our [Intelligent Assistant](https://www.hypnosisdownloads.com/ai-assistan
 
 [![Hively Customer Satisfaction Survey](//hdcdnsun2.r.worldssl.net/sites/www.hypnosisdownloads.com/files/hively-badge.jpg)
 
-9027 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
+9066 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
 
 [Menu](#)
 
 * [Home](https://www.hypnosisdownloads.com/)
 * [Hypnosis Audios](https://www.hypnosisdownloads.com/all-downloads)
     * Please choose a category below...
-        ---------------------------------
         
         * * [10-Step Courses](https://www.hypnosisdownloads.com/10-steps)
             * [Addiction Help](https://www.hypnosisdownloads.com/addiction-help)
@@ -89,7 +88,7 @@ Or try our [Intelligent Assistant](https://www.hypnosisdownloads.com/ai-assistan
 
 [![Hively Customer Satisfaction Survey](//hdcdnsun2.r.worldssl.net/sites/www.hypnosisdownloads.com/files/hively-badge.jpg)
 
-9027 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
+9066 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
 
 Privacy Policy
 ==============
