@@ -14,21 +14,17 @@ Pi Store
 
 任何用户都可使用写作功能。成功发布 3 篇符合基本规则的内容，可成为正式作者。[了解更多](https://manual.sspai.com/guide/init/)
 
-退出登录[反馈](mailto:feedback@sspai.com)
-
 PRIMEMatrix栏目Pi Store更多
 
 少数派用户协议
 
 主作者
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
 [![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
-
-少数派成员
 
 少数派成员
 
@@ -43,20 +39,16 @@ PRIMEMatrix栏目Pi Store更多
 [](https://sspai.com/u/dl0t26id/updates)[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
-
-少数派成员
 
 少数派成员
 
 联合作者
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
 [![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
-
-少数派成员
 
 少数派成员
 
@@ -74,9 +66,7 @@ PRIMEMatrix栏目Pi Store更多
 
 少数派成员
 
-少数派成员
-
-2017 年 02 月 27 日
+2017/02/27 18:23
 
 本页面的内容已更新并移至独立页面，请点击下方链接查阅：
 
@@ -106,11 +96,9 @@ PRIMEMatrix栏目Pi Store更多
 
 举报
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!84x84r/gravity/center/crop/84x84/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
-[少数派
-
-少数派成员](https://sspai.com/u/dl0t26id/updates)
+[少数派](https://sspai.com/u/dl0t26id/updates)
 
 还没有介绍自己
 
@@ -136,18 +124,14 @@ App 内打开
 
 前往绑定
 
-[](https://weibo.com/sspaime?is_hot=1)
+[](https://sspai.com/)
 
-关注公众号 sspaime
+[](https://weibo.com/sspaime?is_hot=1)[关注公众号 sspaime
 
-[](https://sspai.com/feed)
+![](https://cdn-static.sspai.com/ui/gzh_qrcode_home.png)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU4Mjg3MDAyMQ==&subscene=0#wechat_redirect)[](https://www.xiaohongshu.com/user/profile/63f5d65d000000001001d8d4)[](https://sspai.com/feed)
 
 [下载 App](https://sspai.com/page/client) [联系我们](mailto:contact@sspai.com) [商务合作](https://sspai.com/page/bussiness) [关于我们](https://sspai.com/page/about-us) [用户协议](https://sspai.com/page/agreement)
 
-© 2013-2024 少数派 | [粤ICP备09128966号-4](https://beian.miit.gov.cn/) | [粤B2-20211534](https://dxzhgl.miit.gov.cn/)
-
-© 2013-2024 少数派
-
-[粤ICP备09128966号-4](https://beian.miit.gov.cn/) | [粤B2-20211534](https://dxzhgl.miit.gov.cn/)
+© 2013-2024 少数派[粤ICP备09128966号-4](https://beian.miit.gov.cn/) | [粤B2-20211534](https://dxzhgl.miit.gov.cn/)
 
 确定
