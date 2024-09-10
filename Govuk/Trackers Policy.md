@@ -101,10 +101,12 @@ This page has a brief explanation of each type of cookie we use. If you want mor
 Cookie settings
 ---------------
 
-We use Javascript to set most of our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings. You can try:
+We use Javascript to set most of our cookies. Unfortunately Javascript is not running on your browser, so you cannot change your settings on this page. You can try:
 
 * reloading the page
 * turning on Javascript in your browser
+
+You can also remove any previously stored cookies through your browser. Look for 'Preferences', 'Settings', or 'Options' in your browser menu.
 
 We use 4 types of cookie. You can choose which cookies you're happy for us to use.
 
