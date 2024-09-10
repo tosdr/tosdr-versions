@@ -37,7 +37,7 @@ Explore
 
 *   [Display](javascript: showBGmenu('block'); "Display settings")
 
-X  
+  
   
 
 |     |     |     |     |
@@ -52,10 +52,17 @@ X
 
 ok
 
+  
+X
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Ξ   | Frame Options |     |     |
 | 3<br><br>\-<br><br>+ |     |     |     |
+
+Text Size Options
+
+ipernity  ipernity  ipernity
 
 [About ipernity](http://www.ipernity.com/about/us) [Terms of use](http://www.ipernity.com/about/tos) [Statutes](http://www.ipernity.com/about/statutes) [Guide of good conduct](http://www.ipernity.com/about/guidelines) [Group guidelines](http://www.ipernity.com/about/grouprules) [Privacy policy](http://www.ipernity.com/about/you) [Thanks!](http://www.ipernity.com/about/thanks)  
  **See also...** [The ima team](http://www.ipernity.com/user/team)
