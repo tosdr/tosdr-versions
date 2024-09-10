@@ -3,27 +3,6 @@ Terms and Conditions
 
 Global
 
-Categories
-----------
-
-[###### Rides
-
-Terms and Conditions
-
-![Rides](https://public-documents.bolt.eu/static/74c9a6a6bd68e6e0181e59eab1000efe/d7eb2/rides.png)](https://bolt.eu/en/legal/?category=rides)[###### Micromobility
-
-Terms and Conditions
-
-![Micromobility](https://public-documents.bolt.eu/static/7c533a6f1a77c19ec2f4f367817998da/d313e/micromobility.png)](https://bolt.eu/en/legal/?category=micromobility)[###### Bolt Drive
-
-Terms and Conditions
-
-![Bolt Drive](https://public-documents.bolt.eu/static/dfad255e431d99d8f636d311326dd0fd/d7eb2/bolt-drive.png)](https://bolt.eu/en/legal/?category=boltDrive)[###### Delivery
-
-Terms and Conditions
-
-![Delivery](https://public-documents.bolt.eu/static/227829b58d5ffee6c868976810c92b4f/d7eb2/delivery.png)](https://bolt.eu/en/legal/?category=delivery)
-
 ![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='40'%20width='69'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
 
 ![Bolt logo](https://public-documents.bolt.eu/static/7948e3225da9f3fac496346bffdf391f/cee1f/bolt-logo.webp)
@@ -64,7 +43,7 @@ Company
 
 [Careers](https://bolt.eu/en/careers/)
 
-[Green Plan](https://bolt.eu/en/green/)
+[Sustainability at Bolt](https://bolt.eu/en/green/)
 
 [Press](https://bolt.eu/en/press/)
 
