@@ -27,9 +27,6 @@
     * [cPanel Web Hosting
         
         Effortless site management with cPanel.](https://javapipe.com/cpanel-hosting)
-    * [Windows Web Hosting
-        
-        Powerful solutions for Windows-based needs.](https://javapipe.com/windows-web-hosting)
     * [Java Tomcat Hosting
         
         Customized hosting optimized for Java.](https://javapipe.com/java-tomcat-hosting)
