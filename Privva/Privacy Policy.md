@@ -20,7 +20,7 @@ LOGIN Smarsh Central Connected Archive Professional Archive Vendor Risk Manageme
     
     [Enterprise Platform](https://www.smarsh.com/platform/enterprise)
     
-    [Capture](https://www.smarsh.com/platform/enterprise/capture)|[Enterprise Conduct](https://www.smarsh.com/platform/enterprise/conduct)|[Enterprise Discovery](https://www.smarsh.com/platform/enterprise/discovery)|[Enterprise Archive](https://www.smarsh.com/platform/enterprise/enterprise-archive)|[Enterprise Warehouse](https://www.smarsh.com/platform/enterprise/enterprise-warehouse)
+    [Capture](https://www.smarsh.com/platform/enterprise/capture)|[Enterprise Conduct](https://www.smarsh.com/platform/enterprise/conduct)|[Enterprise Discovery](https://www.smarsh.com/platform/enterprise/discovery)|[Enterprise Archive](https://www.smarsh.com/platform/enterprise/enterprise-archive)|[Enterprise Cloud](https://www.smarsh.com/platform/enterprise/enterprise-cloud)
     
     [Compliance Management](https://www.smarsh.com/platform/compliance-management)
     
@@ -793,6 +793,7 @@ One Canada Square, Level 39 - London, E14 5AB
 * [Terms & Conditions](https://www.smarsh.com/legal-website-terms-conditions)
 * [Privacy Policy](https://www.smarsh.com/legal-website-privacy-policy)
 * [Anti-Slavery & Human Trafficking Policy](https://www.smarsh.com/legal/Anti-Slavery-Human-Trafficking-Policy)
+* [Do Not Sell My Personal Information](https://www.smarsh.com/do-not-sell-my-personal-information)
 
 © 2024 Smarsh Inc. Smarsh and the Smarsh logo are registered trademarks of Smarsh Inc. in the United States. Smarsh is a registered trademark of Smarsh Inc. in the European Union. Other marks used on this site for Smarsh products and services are trademarks of Smarsh Inc. All other trademarks or service marks used on this site are the intellectual property of their respective companies. Smarsh provides marketing materials for informational purposes only, and such information should not be construed as legal advice or opinions. You must consult an attorney for advice regarding your compliance with laws and regulations applicable to your business.
 
