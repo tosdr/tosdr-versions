@@ -1,5 +1,3 @@
-[Help provide relief efforts for Canadian communities impacted by wildfires](https://www.canadahelps.org/en/crisis-relief-center/support-2024-canadian-wildfire-relief-efforts/)
-
  
 
 TERMS OF USE
@@ -104,7 +102,7 @@ The laws of the Province of Ontario and any applicable federal laws of Canada sh
     * [Shop Charitable Gifts](https://www.canadahelps.org/en/gift-guide/)
 * OPPORTUNITIES
     * [Careers](https://www.canadahelps.org/en/careers/)
-    * [API & Corporate Giving](https://www.canadahelps.org/en/why-canadahelps/corporate-giving/)
+    * [Corporate Giving](https://www.canadahelps.org/en/why-canadahelps/corporate-giving/)
     * [#### CONNECT WITH US](#)
     * [Contact Us](https://www.canadahelps.org/en/contact-us/)
     * [Help Portal](https://donorhelp.canadahelps.org/)
