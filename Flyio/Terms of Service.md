@@ -13,8 +13,9 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 [Getting Started](https://fly.io/docs/getting-started/) Toggle Getting Started section
 
 * [Quickstart: Launch your app](https://fly.io/docs/getting-started/launch/)
-* [Launch a Demo App](https://fly.io/docs/getting-started/launch-demo)
-* [Choose a language or framework](https://fly.io/docs/getting-started/get-started-by-framework/)
+* [Launch HelloFly Demo App](https://fly.io/docs/getting-started/launch-demo)
+* [Deep Dive Demo App](https://fly.io/docs/deep-dive/)
+* [Choose a Language or Framework](https://fly.io/docs/getting-started/get-started-by-framework/)
 * [Fly.io Essentials](https://fly.io/docs/getting-started/essentials/)
 * [Troubleshoot Deployments](https://fly.io/docs/getting-started/troubleshooting/)
 
@@ -31,16 +32,17 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
 * [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Shared Nothing Architecture](https://fly.io/docs/blueprints/shared-nothing/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
 * [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
 
 [Apps on Fly.io](https://fly.io/docs/apps/) Toggle Apps on Fly.io section
 
-* [Fly Apps overview](https://fly.io/docs/apps/overview/)
+* [Fly Apps Overview](https://fly.io/docs/apps/overview/)
 * [Fly Launch](https://fly.io/docs/launch/)
 * [Secrets](https://fly.io/docs/apps/secrets/)
-* [Production Apps](https://fly.io/docs/apps/going-to-production/)
+* [Production Checklist](https://fly.io/docs/apps/going-to-production/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
@@ -57,11 +59,11 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 * [Introduction to Fly Machines](https://fly.io/docs/machines/overview/)
 * [Machines API](https://fly.io/docs/machines/api/)
-* [Run a new Machine](https://fly.io/docs/machines/flyctl/fly-machine-run/)
+* [Run a New Machine](https://fly.io/docs/machines/flyctl/fly-machine-run/)
 * [Update a Machine](https://fly.io/docs/machines/flyctl/fly-machine-update/)
 * [Machine Sizing](https://fly.io/docs/machines/guides-examples/machine-sizing/)
-* [Machine restart policy](https://fly.io/docs/machines/guides-examples/machine-restart-policy/)
-* [Machine states](https://fly.io/docs/machines/machine-states/)
+* [Machine Restart Policy](https://fly.io/docs/machines/guides-examples/machine-restart-policy/)
+* [Machine States](https://fly.io/docs/machines/machine-states/)
 * [Run User Code on Fly Machines](https://fly.io/docs/machines/guides-examples/functions-with-machines/)
 * [The Machine Runtime Environment](https://fly.io/docs/machines/runtime-environment/)
 
@@ -73,21 +75,20 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Databases & Storage](https://fly.io/docs/database-storage-guides/) Toggle Databases & Storage section
 
-* [Tigris Object Storage](https://fly.io/docs/reference/tigris/)
+* [Tigris Object Storage](https://fly.io/docs/tigris/)
 * [Fly Postgres](https://fly.io/docs/postgres/)
 * [SQLite & LiteFS](https://fly.io/docs/litefs/)
-* [Supabase Postgres](https://fly.io/docs/reference/supabase/)
-* [Upstash for Redis®](https://fly.io/docs/reference/redis/)
-* [Upstash Kafka](https://fly.io/docs/reference/kafka/)
-* [Upstash Vector](https://fly.io/docs/reference/vector/)
-* [More...](https://fly.io/docs/database-storage-guides/#other-storage-apps)
+* [Supabase Postgres](https://fly.io/docs/supabase/)
+* [Upstash for Redis®](https://fly.io/docs/upstash/redis/)
+* [Upstash Kafka](https://fly.io/docs/upstash/kafka/)
+* [Upstash Vector](https://fly.io/docs/upstash/vector/)
 
 [Fly Volumes](https://fly.io/docs/volumes/) Toggle Fly Volumes section
 
-* [Fly Volumes overview](https://fly.io/docs/volumes/overview/)
-* [Create and manage volumes](https://fly.io/docs/volumes/volume-manage/)
-* [Manage volume snapshots](https://fly.io/docs/volumes/snapshots/)
-* [Volume states](https://fly.io/docs/volumes/volume-states/)
+* [Fly Volumes Overview](https://fly.io/docs/volumes/overview/)
+* [Create and Manage Volumes](https://fly.io/docs/volumes/volume-manage/)
+* [Manage Volume Snapshots](https://fly.io/docs/volumes/snapshots/)
+* [Volume States](https://fly.io/docs/volumes/volume-states/)
 
 [Fly Kubernetes](https://fly.io/docs/kubernetes/) Toggle Fly Kubernetes section
 
@@ -102,8 +103,10 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 [Networking](https://fly.io/docs/networking/) Toggle Networking section
 
 * [Connect to an App Service](https://fly.io/docs/networking/app-services/)
-* [Private Networking](https://fly.io/docs/networking/private-networking/)
 * [Public Networking](https://fly.io/docs/networking/services/)
+* [Private Networking](https://fly.io/docs/networking/private-networking/)
+* [Custom Private Networks](https://fly.io/docs/networking/custom-private-networks/)
+* [Flycast - Private Proxy Services](https://fly.io/docs/networking/flycast/)
 * [Dynamic Request Routing](https://fly.io/docs/networking/dynamic-request-routing/)
 * [Custom Domains](https://fly.io/docs/networking/custom-domain/)
 * [Automate Certificates via API](https://fly.io/docs/networking/custom-domain-api/)
@@ -114,21 +117,25 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 [Monitoring](https://fly.io/docs/monitoring/) Toggle Monitoring section
 
 * [Metrics](https://fly.io/docs/monitoring/metrics/)
-* [Sentry Error Tracking](https://fly.io/docs/reference/sentry/)
-* [Logging overview](https://fly.io/docs/monitoring/logging-overview/)
-* [Live tail logs](https://fly.io/docs/monitoring/live-tail-logs/)
-* [Search logs](https://fly.io/docs/monitoring/search-logs/)
-* [Export logs](https://fly.io/docs/monitoring/exporting-logs/)
-* [Error Codes](https://fly.io/docs/monitoring/error-codes/)
+* [Sentry Error Tracking](https://fly.io/docs/monitoring/sentry/)
+* [Logging](https://fly.io/docs/monitoring/logging-overview/) Toggle Logging section
+    
+    * [Live Tail Logs](https://fly.io/docs/monitoring/live-tail-logs/)
+    * [Search Logs](https://fly.io/docs/monitoring/search-logs/)
+    * [Export Logs](https://fly.io/docs/monitoring/exporting-logs/)
+    * [Error Codes](https://fly.io/docs/monitoring/error-codes/)
+    
 
 [Security](https://fly.io/docs/security/) Toggle Security section
 
-* [SSO for organizations](https://fly.io/docs/security/sso/)
-* [TLS termination](https://fly.io/docs/security/tls-termination/)
-* [Deploy Tokens](https://fly.io/docs/security/deploy-tokens/)
+* [SSO for Organizations](https://fly.io/docs/security/sso/)
+* [Remove a Member from an Org](https://fly.io/docs/security/remove-org-member/)
+* [TLS Termination](https://fly.io/docs/security/tls-termination/)
+* [App Security by Arcjet](https://fly.io/docs/security/arcjet/)
+* [Access Tokens](https://fly.io/docs/security/tokens/)
 * [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
-* [Security practices and compliance](https://fly.io/docs/security/security-at-fly-io/)
-* [App Security by Arcjet](https://fly.io/docs/reference/arcjet/)
+* [Shared Responsibility Model](https://fly.io/docs/security/shared-responsibility/)
+* [Security Practices and Compliance](https://fly.io/docs/security/security-at-fly-io/)
 
 [Reference](https://fly.io/docs/reference/) Toggle Reference section
 
@@ -139,9 +146,10 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Builders](https://fly.io/docs/reference/builders/)
 * [Fly Launch](https://fly.io/docs/reference/fly-launch/)
 * [Load Balancing](https://fly.io/docs/reference/load-balancing/)
-* [Machine migration](https://fly.io/docs/reference/machine-migration/)
+* [Machine Migration](https://fly.io/docs/reference/machine-migration/)
 * [Multiple Processes in Apps](https://fly.io/docs/app-guides/multiple-processes/)
 * [Fly Proxy](https://fly.io/docs/reference/fly-proxy/)
+* [Fly Proxy Autostop/Autostart](https://fly.io/docs/reference/fly-proxy-autostop-autostart/)
 * [Regions](https://fly.io/docs/reference/regions/)
 
 [About](https://fly.io/docs/about/) Toggle About section
@@ -157,6 +165,8 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Using Our Brand](https://fly.io/docs/about/brand/)
 * [Privacy Policy](https://fly.io/legal/privacy-policy/)
 * [Terms of Service](https://fly.io/legal/terms-of-service/)
+
+[Docs](https://fly.io/docs/) Fly.io Terms of Service
 
 Fly.io Terms of Service
 =======================
