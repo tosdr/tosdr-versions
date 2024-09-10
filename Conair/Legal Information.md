@@ -2,7 +2,7 @@
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw976b738e/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw976b738e/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c0e0149/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c0e0149/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
@@ -16,7 +16,7 @@ https://www.conair.com/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw976b738e/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw8c0e0149/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
@@ -26,7 +26,7 @@ https://www.conair.com/cart?lang=en\_US
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw96f161cf/images/beautybar.png)](https://www.conair.com/BeautyBar?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw2fdaa729/images/beautybar.png)](https://www.conair.com/BeautyBar?lang=en_US)
 * [Hair](https://www.conair.com/hair?lang=en_US)
     
     * [Hair Dryers](https://www.conair.com/dryers?lang=en_US)
@@ -379,60 +379,60 @@ https://www.conair.com/cart?lang=en\_US
         * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
         * [Epilators](https://www.conair.com/epilators?lang=en_US)
         * [IPLs](https://www.conair.com/ipls?lang=en_US)
-* [Men's](https://www.conair.com/s/us-conair-sfra/conairman.html)
+* [Men's](https://www.conair.com/s/us-conair-sfra/conairmen.html)
+    
+    * [Beard Trimmers and Shavers](https://www.conair.com/trimmers?lang=en_US)
+        ------------------------------------------------------------------------
+        
+        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
+        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
     
     * [Haircut Kits](https://www.conair.com/haircut-kits?lang=en_US)
         --------------------------------------------------------------
         
         * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+        * [Cordless Rechargeable Clippers](https://www.conair.com/cordless-rech-clippers?lang=en_US)
         * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
-        * [Rotary](https://www.conair.com/mens-clippers-rotary?lang=en_US)
-    
-    * [Hair Trimmers](https://www.conair.com/trimmers?lang=en_US)
-        -----------------------------------------------------------
-        
-        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
-        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
     
     * [Ear & Nose Trimmers](https://www.conair.com/ear-and-nose-trimmers?lang=en_US)
         ------------------------------------------------------------------------------
         
     
-    * [Haircut Kits](https://www.conair.com/haircut-kits?lang=en_US)
+    * [Beard Trimmers and Shavers](https://www.conair.com/trimmers?lang=en_US)
+        
+        * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+            ----------------------------------------------------------------
+            
+        
+        * [Cordless Rechargeable Clippers](https://www.conair.com/cordless-rech-clippers?lang=en_US)
+            ------------------------------------------------------------------------------------------
+            
+        
+        * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
+            ----------------------------------------------------------------------------------------------
+            
         
         * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
-            ------------------------------------------------------------
-            
-        
         * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
-            ----------------------------------------------------------
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
+    * [Haircut Kits](https://www.conair.com/haircut-kits?lang=en_US)
+        
+        * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+            ----------------------------------------------------------------
             
         
-        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
-            --------------------------------------------------------------------------------
+        * [Cordless Rechargeable Clippers](https://www.conair.com/cordless-rech-clippers?lang=en_US)
+            ------------------------------------------------------------------------------------------
+            
+        
+        * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
+            ----------------------------------------------------------------------------------------------
             
         
         * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+        * [Cordless Rechargeable Clippers](https://www.conair.com/cordless-rech-clippers?lang=en_US)
         * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
-        * [Rotary](https://www.conair.com/mens-clippers-rotary?lang=en_US)
-    * [Hair Trimmers](https://www.conair.com/trimmers?lang=en_US)
-        
-        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
-            ------------------------------------------------------------
-            
-        
-        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
-            ----------------------------------------------------------
-            
-        
-        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
-            --------------------------------------------------------------------------------
-            
-        
-        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
-        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
     * [Ear & Nose Trimmers](https://www.conair.com/ear-and-nose-trimmers?lang=en_US)
 * [Wellness](https://www.conair.com/wellness?lang=en_US)
     
@@ -733,7 +733,7 @@ https://www.conair.com/cart?lang=en\_US
         * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
 * [Featured](https://www.conair.com/featured?lang=en_US)
 * [Sale](https://www.conair.com/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw96995171/images/hometrends.png)](https://www.conair.com/hometrends?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwc00cc9ca/images/hometrends.png)](https://www.conair.com/hometrends?lang=en_US)
 
    
 
@@ -1057,6 +1057,7 @@ Guest Service
 * [Email Unsubscribe](https://www.conair.com/Unsubscribe?lang=en_US)
 * [Quick Start Guides for Scales](https://www.conair.com/scalesUserGuide?lang=en_US)
 * [Conair.com Returns](https://www.conair.com/returnForm?lang=en_US)
+* [Travel Adapter Compatibility](https://www.conair.com/travel_adapters.html?lang=en_US)
 
 Company Info
 
@@ -1078,7 +1079,7 @@ Corporate Sites
 
 * [BaBylissPRO](http://www.babylisspro.com/ "BaBylissPRO")
 * [Cuisinart](http://www.cuisinart.com/ "Cuisinart")
-* [Waring Commercial](http://www.waringcommercialproducts.com/ "Waring Commercial")
+* [Waring](http://www.waring.com/ "Waring")
 * [Scunci](http://www.scunci.com/ "Scunci")
 
 Global Sites
