@@ -21,6 +21,7 @@ Menu
     * [AGM 2024](https://www.azerion.com/agm/)
     * [EGM 2023](https://www.azerion.com/egm/)
     * [US Tax Information](https://www.azerion.com/azerion-annual-pfic-statement/)
+    * [Company Statement](https://www.azerion.com/holding-statements/transfer-of-shares-between-principion-holding-b-v-and-hiko-holding-b-v/)
 
 * [Advertisers](https://www.azerion.com/advertisers/)
 * [Digital Publishers](https://www.azerion.com/publishers/)
@@ -41,6 +42,7 @@ Menu
     * [AGM 2024](https://www.azerion.com/agm/)
     * [EGM 2023](https://www.azerion.com/egm/)
     * [US Tax Information](https://www.azerion.com/azerion-annual-pfic-statement/)
+    * [Company Statement](https://www.azerion.com/holding-statements/transfer-of-shares-between-principion-holding-b-v-and-hiko-holding-b-v/)
 
 We entertain audiences around the world and we help brands improve the way they engage with those audiences in the digital space.
 =================================================================================================================================
@@ -396,6 +398,9 @@ Reach massive audiences through their favorite content in a safe and reliable wa
 * [Investor Relations Privacy Policy](https://www.azerion.com/investor-relations-privacy-policy/)
 * [Azerion Platform Privacy Notices](https://www.azerion.com/azerion-platform-privacy-notices/)
 * [Disclaimer](https://www.azerion.com/disclaimer/)
+* [Data Protection Addendum](https://www.azerion.com/publishers-seller-monetization-data-protection-addendum/)
+* [Seller Monetization Terms and Conditions](https://www.azerion.com/publishers-seller-monetization-terms-and-conditions/)
+* [Data Processing Agreement](https://www.azerion.com/publishers-seller-monetization-data-processing-agreement/)
 
 * [](https://www.linkedin.com/company/azerion/)
 * [](https://www.instagram.com/weareazerion/)
