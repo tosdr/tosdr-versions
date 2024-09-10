@@ -62,6 +62,7 @@
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
@@ -218,6 +219,7 @@ We use appropriate security measures to protect agains the loss, misuse and alte
     * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
+    * [Retail](https://pinkerton.com/industries/retail)
     
 * About Us
     
