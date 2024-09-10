@@ -1,4 +1,4 @@
-[![Red Pocket logo](https://polaris.truevaultcdn.com/logos/organizations/P2HHQO6PO-logo-829300.png)](https://www.redpocket.com/)
+[![RedPocket logo](https://polaris.truevaultcdn.com/logos/organizations/P2HHQO6PO-logo-829300.png)](https://www.redpocket.com/)
 
 ![Open Menu icon](/_next/static/media/hamburger_menu.bac2162d.svg)
 
@@ -15,7 +15,7 @@ Make a Privacy Request
 Our Privacy Policy
 ==================
 
-Last Updated: Jun 4, 2024
+Last Updated: Sep 4, 2024
 
 Expand All
 
@@ -25,7 +25,7 @@ Introduction
 
 ![Expand/Collapse Icon](/_next/static/media/expand_more_light.ff69b20d.svg)
 
-Red Pocket is committed to protecting the privacy of its subscribers and visitors to its website. This Privacy Policy (“Policy”) describes how Red Pocket Mobile , including its parents, subsidiaries, and/or affiliates, ("Company"),will collect, access, use or disclose your Personal Information. It applies to all of our products and services, including our customer portal (collectively, “Services”). It does not apply to third-party or affiliated services, which are governed by separate privacy policies. By using our Services, you consent to the terms of this Privacy Policy. For more information about our Services, please review our Terms and Conditions which may be found [here](https://www.redpocket.com/terms_and_conditions) and our Consumer Broadband Disclosure which may be found [here](https://www.redpocket.com/openinternet).
+RedPocket is committed to protecting the privacy of its subscribers and visitors to its website. This Privacy Policy (“Policy”) describes how RedPocket, including its parents, subsidiaries, and/or affiliates, ("Company"),will collect, access, use or disclose your Personal Information. It applies to all of our products and services, including our customer portal (collectively, “Services”). It does not apply to third-party or affiliated services, which are governed by separate privacy policies. By using our Services, you consent to the terms of this Privacy Policy. For more information about our Services, please review our Terms and Conditions which may be found [here](https://www.redpocket.com/terms_and_conditions) and our Consumer Broadband Disclosure which may be found [here](https://www.redpocket.com/openinternet).
 
 We may modify the terms of this policy from time to time, and will notify of any material changes in the manner required by law. Please check this page regularly for updates.
 
@@ -114,7 +114,7 @@ We may use the information we collect from you in the following ways: To provide
 
 We may also use your Personal Information as described to you at the point of collection, with your consent. Where required, we will seek and obtain your consent to use your CPNI or other Personal Information for marketing purposes. If you would like to restrict the Company’s use of your CPNI or other Personal Information for the marketing of certain products or services, please mail your request to:
 
-Red Pocket, Inc.  
+RedPocket, Inc.  
 Attn: CPNI  
 2060D Avenida de los Arboles  
 Suite 288  
@@ -128,11 +128,11 @@ We may disclose personal information about you for business and commercial purpo
 
 | Personal Information Category | Categories of Service Providers | Categories of Third Parties |
 | --- | --- | --- |
-| Personal Identifiers | Business Operations Tool, Collaboration & Productivity Tools, Contractors, Customer Support Tools, Governance, Risk & Compliance Software, IT Infrastructure Services, Payment Processors, Sales & Marketing Tools, and Shipping Services | Ad Networks, Data Analytics Providers, Payment Processors, and Shipping Services |
-| Internet Activity | Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Data Analytics Providers |
-| Commercial Information | Business Operations Tool, Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
-| Financial Information | Business Operations Tool, Collaboration & Productivity Tools, Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
-| Location Information | Collaboration & Productivity Tools, Contractors, Customer Support Tools, and Sales & Marketing Tools | Data Analytics Providers |
+| Personal Identifiers | Business Operations Tool, Collaboration & Productivity Tools, Customer Support Contractors, Customer Support Tools, Engineering Contractors, Governance, Risk & Compliance Software, IT Contractors, IT Infrastructure Services, Payment Processors, Sales & Marketing Contractors, Sales & Marketing Tools, and Shipping Services | Ad Networks, Data Analytics Providers, Finance Provider, Payment Processors, and Shipping Services |
+| Internet Activity | Collaboration & Productivity Tools, Engineering Contractors, IT Infrastructure Services, Payment Processors, Sales & Marketing Contractors, and Sales & Marketing Tools | Ad Networks, Data Analytics Providers, and Finance Provider |
+| Commercial Information | Business Operations Tool, Collaboration & Productivity Tools, Engineering Contractors, IT Infrastructure Services, Payment Processors, Sales & Marketing Contractors, and Sales & Marketing Tools | Ad Networks, Finance Provider, and Payment Processors |
+| Financial Information | Business Operations Tool, Collaboration & Productivity Tools, Engineering Contractors, IT Infrastructure Services, Payment Processors, and Sales & Marketing Tools | Ad Networks and Payment Processors |
+| Location Information | Collaboration & Productivity Tools, Customer Support Tools, Engineering Contractors, and Sales & Marketing Tools | Data Analytics Providers |
 
 Do we disclose the information we collect to outside parties
 
@@ -159,9 +159,9 @@ _De-identified or aggregated information._ We may share Personal Information th
 
 _Your use of third party applications and services._ When using our Services, you may choose to use services and products offered by third parties, such as third party applications. When you leave our network, you may also use mobile roaming services provided by third parties. Your use of such services and applications may result in these third parties collecting your Personal Information and obtaining information from Company, including location information (when applicable). You may also choose to give your Personal Information directly to third parties when using our wireless services or devices. The Personal Information you give to a third party will be subject to that third party’s terms, conditions and policies—not this Privacy Policy. You should always review a third party’s privacy policy and terms of service before providing your Personal Information to them or using their services or products.
 
-_Pre Installed third party applications_ Company has partnered with selected third-party application developers to enhance your Red Pocket experience, and their applications may be found on your device that you use with our service. These applications may or may not be branded as Company applications and may be preinstalled on your device when you obtain it from Company or installed on your device via over-the-air download at no cost to you. These applications may require Company to share certain Personal Information with the third-party application for them to function. When you use these applications, they may also share certain Personal Information with Company, which Company may use to provide you with enhanced Services, to market our offerings to you, or for any other purposes consistent with this policy. When you first subscribe to our Services, you will be given a choice to permit sharing Personal Information to facilitate the functioning of these applications. You may decline to opt-in to sharing Personal Information with these applications at that time or later by contacting us at the address above and following any required instructions. If you decline to opt-in, you may not be able to use these third party applications, and certain features of these applications may not function.
+_Pre Installed third party applications_ Company has partnered with selected third-party application developers to enhance your RedPocket experience, and their applications may be found on your device that you use with our service. These applications may or may not be branded as Company applications and may be preinstalled on your device when you obtain it from Company or installed on your device via over-the-air download at no cost to you. These applications may require Company to share certain Personal Information with the third-party application for them to function. When you use these applications, they may also share certain Personal Information with Company, which Company may use to provide you with enhanced Services, to market our offerings to you, or for any other purposes consistent with this policy. When you first subscribe to our Services, you will be given a choice to permit sharing Personal Information to facilitate the functioning of these applications. You may decline to opt-in to sharing Personal Information with these applications at that time or later by contacting us at the address above and following any required instructions. If you decline to opt-in, you may not be able to use these third party applications, and certain features of these applications may not function.
 
-_Third-party compliance with Red Pocket Privacy Policy._ If we use any of the third parties as noted above, and those third parties require the use of Personal Information, we require that such third parties take reasonable steps to protect the confidentiality of that information. If you would like to restrict the disclosure of your Personal Information for the marketing of certain products or services, you may contact us at the address above.
+_Third-party compliance with RedPocket Privacy Policy._ If we use any of the third parties as noted above, and those third parties require the use of Personal Information, we require that such third parties take reasonable steps to protect the confidentiality of that information. If you would like to restrict the disclosure of your Personal Information for the marketing of certain products or services, you may contact us at the address above.
 
 What if I visit or use a third-party website, application, or service?
 
@@ -169,7 +169,7 @@ What if I visit or use a third-party website, application, or service?
 
 Written requests may be sent to:
 
-Red Pocket, Inc.  
+RedPocket, Inc.  
 Attn: Opt Out  
 2060D Avenida de los Arboles  
 Suite 288  
@@ -179,7 +179,7 @@ Company will make every reasonable effort to respond to these requests within 30
 
 ### Questions and feedback
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy or any other issue. Thank you for choosing Red Pocket Mobile.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy or any other issue. Thank you for choosing RedPocket.
 
 ### What if I visit or use a third-party website, application, or service?
 
