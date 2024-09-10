@@ -21,7 +21,7 @@ Menu
 
 *  [Membership](https://www.movementdisorders.org/membership)
     * [Join/Renew](https://mds.execinc.com/edibo/Signup)
-    *  [Get Involved](https://www.movementdisorders.org/MDS/About/Get-Involved.htm)
+    *  [Get Involved](https://www.movementdisorders.org/Get-Involved)
         * [Programs](https://www.movementdisorders.org/MDS/About/MDS-Programs.htm)
         * [Groups](https://www.movementdisorders.org/MDS/About/Committees--Other-Groups.htm)
     *  [MDS Regional Sections](https://www.movementdisorders.org/MDS/Regional-Sections.htm)
@@ -57,7 +57,6 @@ Menu
         * [Video Case Library](https://www.movementdisorders.org/MDS/Resources/Videos/Video-Library.htm)
         * [MDSGene](https://www.movementdisorders.org/MDS/Resources/MDSGene.htm)
         * [Patient Handouts](https://www.movementdisorders.org/MDS/Resources/Patient-Education.htm)
-        * [Prodromal PD Calculator](https://www.movementdisorders.org/MDS/Members-Only/Prodromal-PD-Calculator.htm)
     * [Clinical](https://www.movementdisorders.org/Clinical)
     * [Research](https://www.movementdisorders.org/research)
     * [Health Care (Non-Physician)](https://www.movementdisorders.org/non-physician)
@@ -146,7 +145,7 @@ Keep up with the latest advancements in our high-impact journals.
 
 [Read journals](https://movementdisorders.onlinelibrary.wiley.com/)
 
-* [COAs / Scales](https://www.movementdisorders.org/MDS/MDS-Clinical-Outcome-Assessment.htm)
+* [Assessments / Scales](https://www.movementdisorders.org/MDS/MDS-Clinical-Outcome-Assessment.htm)
 * [Tools](https://www.movementdisorders.org/MDS/Tools.htm)
     * [Video Case Library](https://www.movementdisorders.org/MDS/Resources/Videos/Video-Library.htm)
     * [MDSGene Database](https://www.movementdisorders.org/MDS/Resources/MDSGene.htm)
