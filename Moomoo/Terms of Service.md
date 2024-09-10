@@ -1,19 +1,5 @@
 [](https://www.moomoo.com/us)
 
-[Download](https://www.moomoo.com/us/download)
-
-Mobile
-
-![donwloadimg](https://cdn.futustatic.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
-
-Desktop
-
-![appLogo](https://cdn.futustatic.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
-
-[Download now](#)
-
-[View more versions](https://www.moomoo.com/us/download)
-
 [About us](https://www.moomoo.com/us/about)
 
 * English
@@ -67,9 +53,6 @@ Desktop
     * [Financial Calendar
         
         Find earnings, economics, and IPO calendars](https://www.moomoo.com/news/new-calendar?lang=en-us)
-    * [U.S. Economy
-        
-        Be the first to grasp macro changes](https://www.moomoo.com/news/news-topics/665?lang=en-us)
     * [Topics
         
         Explore trending topics in investing and business](https://www.moomoo.com/news/main/topic?lang=en-us)
@@ -141,9 +124,19 @@ Desktop
 
 Log in
 
-Open Account
+[Download](https://www.moomoo.com/us/download)
 
-Financial services in the moomoo app are provided by Moomoo Financial Inc. You will be redirected to Moomoo Financial Inc's web domain, where the account application pages are hosted.
+Mobile
+
+![donwloadimg](https://cdn.futustatic.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
+
+Desktop
+
+![appLogo](https://cdn.futustatic.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
+
+[Download now](javascript:;)
+
+[View more versions](https://www.moomoo.com/us/download)
 
 Sign up/Log in
 
@@ -199,9 +192,6 @@ Back
     * [Financial Calendar
         
         Find earnings, economics, and IPO calendars](https://www.moomoo.com/news/new-calendar?lang=en-us)
-    * [U.S. Economy
-        
-        Be the first to grasp macro changes](https://www.moomoo.com/news/news-topics/665?lang=en-us)
     * [Topics
         
         Explore trending topics in investing and business](https://www.moomoo.com/news/main/topic?lang=en-us)
@@ -285,7 +275,7 @@ French
 Moomoo Technologies Inc. – Terms of Use
 ---------------------------------------
 
-Last updated: June 1, 2023
+Last updated: August 14, 2024
 
 Please read these Terms of Use (the “Agreement”) carefully. By downloading or using the App (as defined below), or otherwise indicating your agreement, you are consenting to this Agreement, including the associated schedules and policies referred to herein. At all times herein, “we” or “us” or “our” refers to Moomoo Technologies Inc. and “you” or "your” or “user” refers to the user who has opened an account with Moomoo Technologies Inc.
 
@@ -447,11 +437,11 @@ To the fullest extent permitted under applicable law, you agree to defend, indem
 
 This Agreement will continue until terminated. To the fullest extent permitted under applicable law, Moomoo may terminate or suspend this Agreement and your use of the App at any time and with prior notice, with cause, effectively and immediately. Immediately upon any such termination or suspension, your right to use the App will end, and we may deactivate or delete your user name, password and Moomoo account, and all associated materials, without any obligation to provide further access to those materials.
 
-If you have activated the Service and this Agreement is terminated, you will need to utilize an alternative method for communicating with your broker-dealer. Termination of your account with Moomoo will not affect the status of your account at your broker-dealer. Any decision by your broker-dealer to terminate your brokerage account will be made solely by the broker-dealer, and Moomoo will have no responsibility for such decision. This Agreement will terminate immediately without notice from Moomoo if you, in Moomoo’s sole discretion, fail to comply with any provision of this Agreement. Moomoo shall not be liable to you or any third party for the termination or suspension of this Agreement or your use of the App, or any claims related to such termination or suspension. Sections 2–5, 7–11 and 13–24 will survive termination of this Agreement.
+If you have activated the Service and this Agreement is terminated, you will need to utilize an alternative method for communicating with your broker-dealer. Termination of your account with Moomoo will not affect the status of your account at your broker-dealer. Any decision by your broker-dealer to terminate your brokerage account will be made solely by the broker-dealer, and Moomoo will have no responsibility for such decision. This Agreement will terminate immediately without notice from Moomoo if you, in Moomoo’s sole discretion, fail to comply with any provision of this Agreement. Moomoo shall not be liable to you or any third party for the termination or suspension of this Agreement or your use of the App, or any claims related to such termination or suspension.
 
 20. GOVERNING LAW; ARBITRATION
 
-The terms of this Agreement are governed by the laws of the United States (including federal arbitration law) and the State of California, U.S.A., without regard to its principles of conflicts of law, and regardless of your location. EXCEPT FOR DISPUTES THAT QUALIFY FOR SMALL CLAIMS COURT, ALL DISPUTES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND MOOMOO, WHETHER BASED IN CONTRACT, TORT, STATUTE, FRAUD, MISREPRESENTATION OR ANY OTHER LEGAL THEORY, WILL BE RESOLVED THROUGH FINAL AND BINDING ARBITRATION BEFORE A NEUTRAL ARBITRATOR INSTEAD OF IN A COURT BY A JUDGE OR JURY AND YOU AGREE THAT MOOMOO AND YOU ARE EACH WAIVING THE RIGHT TO TRIAL BY A JURY. SUCH DISPUTES INCLUDE, WITHOUT LIMITATION, DISPUTES ARISING OUT OF OR RELATING TO INTERPRETATION OR APPLICATION OF THIS ARBITRATION PROVISION, INCLUDING THE ENFORCEABILITY, REVOCABILITY OR VALIDITY OF THE ARBITRATION PROVISION OR ANY PORTION OF THE ARBITRATION PROVISION. ALL SUCH MATTERS SHALL BE DECIDED BY AN ARBITRATOR AND NOT BY A COURT OR JUDGE.
+The terms of this Agreement are governed by the laws of the United States (including federal arbitration law) and the State of New Jersey, U.S.A., without regard to its principles of conflicts of law, and regardless of your location. EXCEPT FOR DISPUTES THAT QUALIFY FOR SMALL CLAIMS COURT, ALL DISPUTES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND MOOMOO, WHETHER BASED IN CONTRACT, TORT, STATUTE, FRAUD, MISREPRESENTATION OR ANY OTHER LEGAL THEORY, WILL BE RESOLVED THROUGH FINAL AND BINDING ARBITRATION BEFORE A NEUTRAL ARBITRATOR INSTEAD OF IN A COURT BY A JUDGE OR JURY AND YOU AGREE THAT MOOMOO AND YOU ARE EACH WAIVING THE RIGHT TO TRIAL BY A JURY. SUCH DISPUTES INCLUDE, WITHOUT LIMITATION, DISPUTES ARISING OUT OF OR RELATING TO INTERPRETATION OR APPLICATION OF THIS ARBITRATION PROVISION, INCLUDING THE ENFORCEABILITY, REVOCABILITY OR VALIDITY OF THE ARBITRATION PROVISION OR ANY PORTION OF THE ARBITRATION PROVISION. ALL SUCH MATTERS SHALL BE DECIDED BY AN ARBITRATOR AND NOT BY A COURT OR JUDGE.
 
 YOU AGREE THAT ANY ARBITRATION UNDER THIS AGREEMENT WILL TAKE PLACE ON AN INDIVIDUAL BASIS; CLASS ARBITRATIONS AND CLASS ACTIONS ARE NOT PERMITTED AND YOU ARE AGREEING TO GIVE UP THE ABILITY TO PARTICIPATE IN A CLASS ACTION.
 
@@ -461,13 +451,13 @@ The arbitration will be administered by the American Arbitration Association und
 
 If you have a question or complaint regarding the App, please contact us at:
 
-Address：425 Middlefield Road, Palo Alto, CA
+Address：185 Hudson Street – 5 Harborside, Suite 2600
 
 E-MAIL：support@moomoo.com
 
 TELEPHONE：888-412-6134
 
-Please note that e-mails may not be secure, so you should not include financial or other sensitive information in any e-mail. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+Please note that e-mails may not be secure, so you should not include financial or other sensitive information in any e-mail. New Jersey residents may reach the New Jersey Division of Consumer Services Consumer Service Center Hotline Assistance Unit by telephone at (973) 504-6200 or by mail at 124 Halsey Street. Newark. NJ 07102.
 
 22. Copyright Infringement Claims
 
@@ -491,7 +481,7 @@ Any stamp duty payable in respect of this Agreement and penalties for the non-pa
 
 In addition to your agreement with the foregoing terms, and notwithstanding anything to the contrary herein, the following provisions apply with respect to your use of any version of the App compatible with the iOS operating system of Apple Inc. (“Apple”). Apple is not a party to this Agreement and does not own and is not responsible for the App. Apple is not providing any warranty for the App except, if applicable, to refund the purchase price for it. Apple is not responsible for maintenance or other support services for the App and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the App, including any third-party product liability claims, claims that the App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement. Any inquiries or complaints relating to the use of the App, including those pertaining to intellectual property rights, must be directed to Moomoo in accordance with the “Information or Complaints” section above. The license you have been granted herein is limited to a non-transferable license to use the App on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by you, or as otherwise permitted by the Usage Rules set forth in Apple’s App Store Terms of Service, except that the App may also be accessed and used by other accounts associated with you via Apple’s Family Sharing or volume purchasing programs. In addition, you must comply with the terms of any third-party agreement applicable to you when using the App, such as your wireless data service agreement. Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement and, upon your acceptance of the terms of this Agreement, will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof; notwithstanding the foregoing, Moomoo’s right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party.
 
-App © 2022 Moomoo Technologies Inc., unless otherwise noted. All rights reserved.
+App © 2024 Moomoo Technologies Inc., unless otherwise noted. All rights reserved.
 
 * SCHEDULE I -- MARKET DATA INFORMATION PROVISIONS
 
