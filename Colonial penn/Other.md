@@ -283,7 +283,7 @@ Cookies Settings
 * [Notices and Disclosures](https://colonialpenn.com/disclosures-notices)
 * [Notifications and Disaster information](https://colonialpenn.com/disaster-information)
 
-© 2024 Colonial Penn® Program. All rights reserved.
+© Colonial Penn® Program 2013-2024.
 
 1. [Annual Statement for the Year 2022 of the Colonial Penn Life Insurance Company, the Analysis of Operations by Line of Business Summary.](https://ir.cnoinc.com/financials/statutory-filings/default.aspx)
 2. Ibid, p. 6
