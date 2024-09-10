@@ -91,7 +91,7 @@ In the event that a corresponding credit balance of generated and released commi
 
 Settlement takes place in the credit note procedure. The payout depends on the legal form and on the payout method selected by the Publisher.
 
-A payout to the current account or by SEPA transfer requires a minimum payout amount of EUR 50 and is made within four weeks after reaching the minimum payout amount at the end of the month. A payout to the Paypal account requires a minimum payout sum of 10 EUR and is made automatically every 4 weeks. Depending on the legal form of the Publisher, costs may be incurred by Paypal, which must be borne by the Publisher itself.
+A payout to the current account or by SEPA transfer requires a minimum payout amount of EUR 50 and is made within four weeks after reaching the minimum payout amount at the end of the month. A payout to the Paypal account requires a minimum payout sum of 50 EUR and is made automatically every 4 weeks. Depending on the legal form of the Publisher, costs may be incurred by Paypal, which must be borne by the Publisher itself.
 
 For business customers, only the payment to the current account or by SEPA transfer is available.
 
