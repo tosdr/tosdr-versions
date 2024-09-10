@@ -137,6 +137,8 @@ If you have questions about this policy, you may reach us at DPO@strava.com.
 
 #### [Subscription](https://www.strava.com/subscribe?origin=global_footer)
 
+#### [Family Plan](https://www.strava.com/family?origin=global_footer)
+
 #### [Student Discount](https://www.strava.com/student?origin=global_footer)
 
 #### More
