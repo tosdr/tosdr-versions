@@ -7,7 +7,8 @@
 * [Home](https://rucksack.dev/ "Home")
 * [Products](https://rucksack.dev/products/ "Products")
     * [Android: Barcode Scanner For Amazon Shopping](https://rucksack.dev/products/android-barcode-scanner-for-amazon-shopping/ "Android: Barcode Scanner For Amazon Shopping")
-    * [iOS: Barcode Scanner from A-to-Z](https://rucksack.dev/products/ios-barcode-scanner-from-a-to-z/ "iOS: Barcode Scanner from A-to-Z")
+    * [Local Pickup for eBay](https://rucksack.dev/products/local-pickup-for-ebay-auctions-on-ebay-for-pickup-only/ "Local Pickup for eBay")
+    * [iOS: Barcode Scanner for Amazon](https://rucksack.dev/products/ios-barcode-scanner-from-a-to-z/ "iOS: Barcode Scanner for Amazon")
 * [Legal](https://rucksack.dev/legal/ "Legal")
     * [Privacy Policy for mobile apps](https://rucksack.dev/legal/privacy-policy/ "Privacy Policy for mobile apps")
     * [Terms & Conditions](https://rucksack.dev/legal/terms-conditions/ "Terms & Conditions")
@@ -32,7 +33,7 @@ If you want to change your privacy settings (grant consent or revoke your previo
 Responsible
 -----------
 
-Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [contact@rucksack.dev](mailto:contact@rucksack.dev), +4915225876510
+Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [ved.k1725984741caskc1725984741ur@tc1725984741atnoc1725984741](mailto:contact@rucksack.dev),
 
 Hosting
 -------
@@ -50,7 +51,7 @@ Connection data and other personal data are also processed in connection with va
 Server Log Files
 ----------------
 
-Connection data are processed to monitor the technical function and to increase the reliability of our webhost. The duration of processing is limited to 3650 days.
+Connection data are processed to monitor the technical function and to increase the reliability of our webhost. The duration of processing is limited to 365 days.
 
 The legal basis of processing is the legitimate interest (absolute technical necessity of a server log file as fundamental data basis for failure analysis and for security measures in connection with the “website” service which you have explicitly requested by visiting the website) according to Art. 6 (1) (f) GDPR combined with § 25 TTDSG.
 
@@ -64,9 +65,6 @@ Security Services
 -----------------
 
 On this website we use the offer of security service providers such as Captcha services to avoid non-human and automated input.
-
-Web Fonts
----------
 
 Analysis Services
 -----------------
@@ -119,3 +117,64 @@ Other web projects
 Proudly powered by [WordPress](https://wordpress.org/) | Theme: [Bulk](https://themes4wp.com/)
 
 In case you want to change your privacy settings (e.g. issue consent or revoke an already issued consent) please click on the button below. [Settings](#)
+
+![Logo of the popup](https://rucksack.dev/wp-content/plugins/shapepress-dsgvo/public/images/legalwebio-icon.png "WP DSGVO Tools (GDPR) for Wordpress and WooCommerce.")
+
+Data protection
+
+Details
+
+[](#)
+
+[Imprint](https://rucksack.dev/imprint/) | [Privacy Policy](https://rucksack.dev/legal/privacy-policy-for-this-website/)
+
+ ![Country Flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English
+
+ [![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English](https://rucksack.dev/legal/privacy-policy-for-this-website/)
+
+Heidi Kraken, Owner: Karl Ulrich Gissel (Registered business address: Germany), would like to process personal data with external services. This is not necessary for using the website, but allows me to interact even more closely with them. If desired, please make a choice:
+
+![Logo of the popup](https://rucksack.dev/wp-content/plugins/shapepress-dsgvo/public/images/legalwebio-icon.png "WP DSGVO Tools (GDPR) for Wordpress and WooCommerce.")
+
+Data protection
+
+Details
+
+[Imprint](https://rucksack.dev/imprint/) | [Privacy Policy](https://rucksack.dev/legal/privacy-policy-for-this-website/)
+
+ ![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English
+
+ [![Country flag](https://rucksack.dev/wp-content/plugins/polylang/flags/us.png) English](https://rucksack.dev/legal/privacy-policy-for-this-website/)
+
+[](#)
+
+Heidi Kraken, Owner: Karl Ulrich Gissel (Registered business address: Germany), would like to process personal data with external services. This is not necessary for using the website, but allows me to interact even more closely with them. If desired, please make a choice:
+
+Analysis / Statistics (1 Service)
+
+Anonymous evaluation for troubleshooting and further development
+
+* * *
+
+Google Analytics
+
+Google LLC, USA
+
+[ⓘ All Details](#)
+
+[ⓘ All Details](#)
+
+Loading details
+
+[Back](#)
+
+[Accept selection](#) [Accept nothing](#) [Accept all](#)
+
+[Accept  
+selection](#)
+
+[Accept  
+nothing](#)
+
+[Accept  
+all](#)
