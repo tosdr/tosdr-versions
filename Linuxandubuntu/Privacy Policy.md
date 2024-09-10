@@ -58,6 +58,7 @@
 * [Linux Mint](https://www.linuxandubuntu.com/tag/linux-mint/)
 * [Linux tools](https://www.linuxandubuntu.com/tag/linux-tools/)
 * [Linux Tutorials](https://www.linuxandubuntu.com/tag/linux-tutorials/)
+* [Llama](https://www.linuxandubuntu.com/tag/llama/)
 * [LMMS](https://www.linuxandubuntu.com/tag/lmms/)
 * [MATE](https://www.linuxandubuntu.com/tag/mate/)
 * [MX Linux](https://www.linuxandubuntu.com/tag/mx-linux/)
@@ -110,9 +111,6 @@
 
 Privacy Policy
 ==============
-
-Table of Contents
------------------
 
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/linuxandubuntu.com).
 
@@ -186,6 +184,13 @@ An error occurred, please try again later.
 * [LinkedIn](https://www.linkedin.com/in/mohdsohail/)
 * [RSS](https://www.linuxandubuntu.com/rss/)
 
+Featured Posts
+--------------
+
+[### ChatGPT Alternatives: Exploring Free, Open-Source and Affordable AI Models
+
+18 Jul 2024](https://www.linuxandubuntu.com/home/chatgpt-alternatives-free-open-source-ai-models/)
+
 [Authors →](https://www.linuxandubuntu.com/authors/)
 ----------------------------------------------------
 
@@ -193,7 +198,7 @@ An error occurred, please try again later.
 
 LinuxAndUbuntu
 
-Linux Tutorials, FOSS Reviews, Security News - LinuxAndUbuntu
+LinuxAndUbuntu is a blog dedicated to help new users learn Linux. We regularly post Linux tips, tricks, and hacks to educate you about the best operating system, Linux.
 
 Navigation
 
