@@ -10,7 +10,6 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         
         * [Product overview](https://www.pandadoc.com/product-overview/)
         * [Security & compliance](https://www.pandadoc.com/security/)
-        * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
         * [Notary](https://notary.pandadoc.com/)
         * [API](https://www.pandadoc.com/api/)
         
@@ -180,16 +179,24 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
     
     * [All customer stories](https://www.pandadoc.com/customer-stories/)
     
+* [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
 * [Pricing](https://www.pandadoc.com/pricing/)
 
 [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav)
+
+Finish your demo booking
+
+Looks like you haven't picked a time for your personalized demo. Pick a time now.
+
+[Select date and time](https://www.pandadoc.com/getdemo/)
+
+![Calendar](https://public-site.marketing.pandadoc-static.com/assets/assets/demo/calendar-49307821d2.png)
 
 * Product
     
     * Platform
         * [Product overview](https://www.pandadoc.com/product-overview/)
         * [Security & compliance](https://www.pandadoc.com/security/)
-        * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
         * [Notary](https://notary.pandadoc.com/)
         * [API](https://www.pandadoc.com/api/)
     * Features
@@ -283,6 +290,8 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         * [API](https://www.pandadoc.com/api/)
         * [Document embedding](https://www.pandadoc.com/api/embedded-editing/)
         * [Documentation](https://developers.pandadoc.com/docs/create-send-document)
+    
+* [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
     
 * [Pricing](https://www.pandadoc.com/pricing/)
     
@@ -567,10 +576,10 @@ Company
 * [](https://play.google.com/store/apps/details?id=com.pandadoc.mobile&hl=en)
 * [](https://apps.apple.com/us/app/pandadoc-track-esign-docs/id1210645479)
 
-* ![Security - HIPAA](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/security/hipaa-b0c00bc972.svg)
-* ![Security - AICPA SOC](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/security/aicpa-soc-acf4afe52f.svg)
-* ![Security - GDPR](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/security/gdpr-662f060c5d.svg)
-* ![Security - EIDAS](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/security/eidas-a47a90342b.svg)
+* ![Security - HIPAA](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/hipaa-DvAND3qo.svg)
+* ![Security - AICPA SOC](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/aicpa-soc-DCXQMu5Q.svg)
+* ![Security - GDPR](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/gdpr-BnLiNYoR.svg)
+* ![Security - EIDAS](//public-site.marketing.pandadoc-static.com/app/packages/www-next/img/eidas-DFGmfEBW.svg)
 
 © 2024 PandaDoc Inc. All rights reserved.
 
@@ -585,3 +594,5 @@ Company
 * [YouTube](https://www.youtube.com/user/thePandaDoc "Youtube")
 
 English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+
+[Looks like you haven't picked a time for your personalized demo. Book a time!](https://www.pandadoc.com/getdemo/)
