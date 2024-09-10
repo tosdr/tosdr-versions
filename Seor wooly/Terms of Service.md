@@ -54,7 +54,7 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![sale store item](https://assets.senorwooly.com/uploads/3a20e2c6-1266-4754-a8d2-11d2231e1c99.png)
+![sale store item](https://assets.senorwooly.com/uploads/636e4911-70ee-4a5d-bd34-2e36e8eb8931.png)
 
 On Sale
 =======
@@ -78,7 +78,7 @@ Señor Wooly Terms and Conditions
 All users of this site agree that access to and use of this site, including the purchase of products, are subject to the following terms and conditions and other applicable law, including those referenced herein. Any access to or use of this website is undertaken at the user’s own risk. If you do not agree to these terms and conditions of use, please do not use this website. These terms and conditions are subject to change at any time without prior notice. Any such changes will be reflected on this “Terms and Conditions of Use” page of the website.
 
 Operator  
-This website is operated by Wooly Learning, Inc. The website address for Wooly Learning, Inc. is http://www.senorwooly.com. The mailing address is Wooly Learning, Inc., P.O. Box 903, Skokie, IL 60076.
+This website is operated by Wooly Learning, Inc.. The website address for Wooly Learning, Inc. is https://www.senorwooly.com. The mailing address is Wooly Learning, Inc., P.O. Box 903, Skokie, IL 60076.
 
 Copyright  
 The entire content included in this site, including but not limited to text, graphics or code is copyrighted as a collective work under the United States and other copyright laws, and is the property of Wooly Learning, Inc.. The collective work includes works that are licensed to Wooly Learning, Inc. Copyright 2024, Wooly Learning, Inc. ALL RIGHTS RESERVED.  
