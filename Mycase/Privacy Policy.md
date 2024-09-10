@@ -66,7 +66,7 @@
     
     [Financial Reporting](https://www.mycase.com/features/legal-financial-software/)
     
-    [Legal Accounting](https://www.mycase.com/features/mycase-accounting/)
+    [Legal Accounting](https://www.mycase.com/features/legal-accounting-software/)
     
     ![Powerful Integrations](https://www.mycase.com/wp-content/uploads/2024/05/arrows-rotate-sharp-light.svg) [Powerful Integrations](https://mycase.com/integrations/)
     
@@ -79,6 +79,8 @@
     [See all features](https://www.mycase.com/features/)
     
     Product Info
+    
+    [Why MyCase?](https://www.mycase.com/why-mycase/)
     
     [Bank Grade Security](https://www.mycase.com/features/security/)
     
@@ -369,28 +371,46 @@ Join lawyers from over 15,000 firms who trust MyCase to grow their firm while ma
 
 no credit card required
 
-![MyCase logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2039'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2039'%3E%3C/svg%3E)
 
-![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo-reversed.svg)
+![](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo-reversed.svg)
 
-Monday-Friday 6am-5pm PT
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20146%2040'%3E%3C/svg%3E)
 
-Contact Support: (800) 571-8062  
-Contact Sales: (800) 462-8173
+![](https://www.mycase.com/wp-content/uploads/2024/08/Footer_MyCase_live.svg)](https://www.mycase.com/)
 
-[Contact us](https://www.mycase.com/contact/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20135%2040'%3E%3C/svg%3E)
+
+![](https://www.mycase.com/wp-content/uploads/2024/08/Footer_LawPay_live.svg)](https://www.lawpay.com/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20236%2040'%3E%3C/svg%3E)
+
+![](https://www.mycase.com/wp-content/uploads/2024/08/Footer_Docketwise_live.svg)](https://www.docketwise.com/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20178%2040'%3E%3C/svg%3E)
+
+![](https://www.mycase.com/wp-content/uploads/2024/08/Footer_CASEpeer_live.svg)](https://www.casepeer.com/)
+
+###### Get in Touch
+
+Hours: Mon-Fri 6am-5pm PST
+
+Contact Support: [(800) 571-8062](tel:800571-8062)  
+Contact Sales: [(800) 462-8173](tel:800462-8173)
+
+[Contact us](https://mycasekegging.com/contact/)
 
   
 Search
 
 ###### Product
 
-[Client Intake & Lead Management](https://www.mycase.com/products/client-intake-lead-management/)  
-[Case Management](https://www.mycase.com/products/case-management/)  
-[Client Communications](https://www.mycase.com/products/client-communications/)  
-[Billing & Payments](https://www.mycase.com/products/billing-and-payments/)  
-[All Features](https://www.mycase.com/features/)  
-[Pricing](https://www.mycase.com/pricing/)
+[Client Intake & Lead Management](https://mycase.com/products/client-intake-lead-management/)  
+[Case Management](https://mycase.com/products/case-management/)  
+[Client Communications](https://mycase.com/products/client-communications/)  
+[Billing & Payments](https://mycase.com/products/billing-and-payments/)  
+[All Features](https://mycase.com/features/)  
+[Pricing](https://mycase.com/pricing/)
 
 ###### Solutions
 
@@ -412,7 +432,7 @@ Search
 
 ###### Support
 
-[Help articles](https://help.mycase.com/s/)  
+[Help articles](https://supportcenter.mycase.com/)  
 [Training](https://www.mycase.com/support/training-sessions/)  
 [Contact support](https://www.mycase.com/support/)
 
@@ -423,17 +443,13 @@ Search
 [In the news](https://www.mycase.com/in-the-news/)  
 [Careers](https://www.affinipay.com/careers/#open-positions)[Reviews](https://www.mycase.com/reviews/)
 
-[![iOS](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20156%2050'%3E%3C/svg%3E)
+[![iOS](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20151%2051'%3E%3C/svg%3E)
 
-![iOS](https://www.mycase.com/wp-content/themes/mycase/library/img/app-ios.webp)](https://apps.apple.com/us/app/mycase/id480009836)
+![iOS](https://www.mycase.com/wp-content/themes/mycase/library/img/mds-app_download_button_App_Store.png)](https://apps.apple.com/us/app/mycase/id480009836)
 
-[![Android](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20156%2050'%3E%3C/svg%3E)
+[![Android](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20152%2051'%3E%3C/svg%3E)
 
-![Android](https://www.mycase.com/wp-content/themes/mycase/library/img/app-android.webp)](https://play.google.com/store/apps/details?id=com.mycase.android)
-
-![MyCase logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2039'%3E%3C/svg%3E)
-
-![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo-reversed.svg)
+![Android](https://www.mycase.com/wp-content/themes/mycase/library/img/mds-app_download_button_play_store.png)](https://play.google.com/store/apps/details?id=com.mycase.android)
 
 © Copyright 2024 MyCase. All Rights Reserved.  
 [Terms and conditions](https://www.mycase.com/terms/) | [Privacy policy](https://www.mycase.com/privacy-policy/) | [Cookies](#cookies) | [Do Not Sell or Share My Personal Information](#cookies)  
