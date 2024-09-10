@@ -31,7 +31,7 @@ for students ages 6-13.
 ![AoPS Academy](/assets/images/logos/aops-academy.svg)
 
 Small live classes for advanced math  
-and language arts learners in grades 2-12.
+and language arts learners in grades 1-12.
 
 [Visit AoPS Academy ‚](https://aopsacademy.org/)
 
@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Congratulations Team USA, all of whom are AoPS WOOT alumni, for their 1st Place win at the 65th International Mathematical Olympiad! [Discover WOOT](https://artofproblemsolving.com/woot).
+[Challenge your student](https://artofproblemsolving.com/school/schedule) with our math, computer science, contest, and science courses!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
