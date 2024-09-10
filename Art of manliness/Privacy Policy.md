@@ -115,7 +115,15 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
+[![A man performs a bicep curl with a dumbbell on a beach while wearing shorts and a weightlifting belt, showcasing his dedication to fitness. Several people are in the background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
+
+[Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
+
+[![A shirtless man with a muscular build, reminiscent of Bruce Lee, strikes a pose with his right arm extended in a punching motion and his left arm bent. He has short, dark hair and a serious expression, showcasing the results of an intense forearm workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
+
+[Bruce Lee’s Forearm Workout](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-forearm-workout/)
+
+[![A shirtless man with claw marks on his chest and face stands indoors, gesturing with his hand and looking determined, embodying the intensity of a Bruce Lee workout.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
 [The Secrets to Bruce Lee’s Legendary Physical Training](https://www.artofmanliness.com/health-fitness/fitness/bruce-lee-workout/)
 
@@ -123,29 +131,21 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Podcast #885: The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
 
-[![a man squatting with weights on a metal rack](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/how-to-hatfield-squat/)
+[![Chalk drawing of a human head with a clock face inside, surrounded by arrows, a crescent moon, and a sun on a black background, symbolizing circadian rhythm and its role in health and better sleep.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
-[My New Favorite Squat](https://www.artofmanliness.com/health-fitness/fitness/how-to-hatfield-squat/)
+[Podcast #1,016: Unlock Better Sleep and Health by Harnessing Your Circadian Rhythm](https://www.artofmanliness.com/health-fitness/health/podcast-1016-unlock-better-sleep-and-health-by-harnessing-your-circadian-rhythm/)
 
-[![A person wearing a yellow shirt and white shorts enjoys a morning walk, barefoot along a suburban street, near the curb and a grassy area.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
+[![Blurry image of a fast food restaurant counter with illuminated menu boards offering meals less than 600 calories and high in protein, and a person using a phone in the foreground.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
 
-[I Started Taking a Walk Every Morning. Here’s What Happened to My Health](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
+[5 Fast-Food Meals That Are High in Protein and Less Than 600 Calories](https://www.artofmanliness.com/health-fitness/health/fast-food-high-protein/)
+
+[![Image with the text ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
+
+[Podcast #1,011: Lose Weight and Keep It Off With Flexible Dieting](https://www.artofmanliness.com/health-fitness/health/podcast-1011-lose-weight-and-keep-it-off-with-flexible-dieting/)
 
 [![a man with a mustache wearing sunglasses](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
 
 [Podcast #1,004: The Sunscreen Debate — Are We Blocking Our Way to Better Health?](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
-
-[![Flexed bicep illustration, optimized for testosterone podcasts, on a textured grey background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-893-optimize-your-testosterone/)
-
-[Podcast #893: Optimize Your Testosterone](https://www.artofmanliness.com/health-fitness/health/podcast-893-optimize-your-testosterone/)
-
-[![Illustration of a human brain covered with colorful sticky notes, each labeled with different age and memory-related terms, against a light gray background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-984-why-your-memory-seems-bad-its-not-just-age/)
-
-[Podcast #984: Why Your Memory Seems Bad (It’s Not Just Age)](https://www.artofmanliness.com/health-fitness/health/podcast-984-why-your-memory-seems-bad-its-not-just-age/)
-
-[![A red first aid kit, essential for grid-down medicine, attached to a green backpack with hiking boots and other camping gear on a forest floor.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-983-grid-down-medicine-a-guide-for-when-help-is-not-on-the-way/)
-
-[Podcast #983: Grid-Down Medicine — A Guide for When Help Is NOT on the Way](https://www.artofmanliness.com/health-fitness/health/podcast-983-grid-down-medicine-a-guide-for-when-help-is-not-on-the-way/)
 
 [![A group of men in swim trunks standing in a line participate in History's Hardest P.E. Program.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/program-review/the-insanely-difficult-standards-of-historys-hardest-p-e-program/)
 
@@ -170,6 +170,14 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Relationships](https://www.artofmanliness.com/people/relationships/)
 * [Social Skills](https://www.artofmanliness.com/people/social-skills/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
+
+[Podcast #1,020: Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
+
+[![Text reading ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1017-when-hes-married-to-mom/)
+
+[Podcast #1,017: When He’s Married to Mom](https://www.artofmanliness.com/people/family/podcast-1017-when-hes-married-to-mom/)
+
 [![Illustration of a family walking in a line against a green background. The child in front is playing a toy flute, followed by another child with a drum, a woman with a backpack, and a man carrying a rake. This scene reflects the harmony and bond of these little platoons as they cherish simple moments together.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
 [Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
@@ -177,14 +185,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A man and woman holding hands.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
 
 [Podcast #967: Busting the Myths of Marriage — Why Getting Hitched Still Matters](https://www.artofmanliness.com/people/family/podcast-967-busting-the-myths-of-marriage-why-getting-hitched-still-matters/)
-
-[![Paper cut-outs of a family with kids holding hands in front of a house silhouette.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-946-counterintuitive-ideas-about-marriage-family-and-kids/)
-
-[Podcast #946: Counterintuitive Ideas About Marriage, Family, and Kids](https://www.artofmanliness.com/people/family/podcast-946-counterintuitive-ideas-about-marriage-family-and-kids/)
-
-[![Top riddles for children with clever solutions included.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/riddles-for-kids/)
-
-[The Best Riddles for Kids (With Answers!)](https://www.artofmanliness.com/people/family/riddles-for-kids/)
 
 [![A dad is lifting a young child in the air. Both are wearing capes and masks, playing in a room with large windows. He embraces his essential role, making kids awesome through imaginative play.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
@@ -202,43 +202,47 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [5 Ways Fathers Hugely Influence Their Daughters](https://www.artofmanliness.com/people/fatherhood/5-ways-fathers-hugely-influence-on-their-daughters/)
 
-[![Four people sit at a table in a café, engaged in conversation. Two men, showcasing the nuances of male friendships, face the camera, while two women are seen in profile. The background reveals a bright, greenery-filled outdoor area.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+[![Close-up of the book ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
-[Podcast #1,002: The Fascinating Differences Between Male and Female Friendships](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+[Podcast #865: How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
-[![Book cover titled ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
+[![Three people stand together with arms raised in celebration on a rocky riverbank, surrounded by lush mountains, with the sun setting behind them—an ideal scene of enduring friendships.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
 
-[Podcast #997: The Laws of Connection — The Scientific Secrets of Building Stronger Relationships](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
+[Why Are Female Friendships the Ideal? (‘Cause Dude Friendships Also Rock)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
 
-[![Smiling man in sunglasses leaning against a blue wall with the phrase ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-just-be-cool/)
+[![Two bolts of lightning strike a dark, cloudy sky over a body of water near a forested shoreline during nighttime, reminiscent of past summers spent around Sunday Firesides.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
 
-[Sunday Firesides: Just Be Cool](https://www.artofmanliness.com/people/relationships/sunday-firesides-just-be-cool/)
+[Sunday Firesides: The Lightning of Past Summers](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
 
-[![Two human hands reaching towards each other, with a plain, light background, illustrating the concept of ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-you-cant-want-it-more-than-they-do/)
+[![A man and a woman stand together by a window, facing outside. The man has his arm around the woman, embodying essential relationship tips for a stronger bond. Both dressed casually, they look out at the greenery visible through the window.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
 
-[Sunday Firesides: You Can’t Want It More Than They Do](https://www.artofmanliness.com/people/relationships/sunday-firesides-you-cant-want-it-more-than-they-do/)
+[10 Ways to Be a Better Husband Today](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
+
+[![A group of people dressed in casual clothing relax and converse on an outdoor deck with wicker furniture, magazines, and a small cart. The background shows a body of water, creating a personal atmosphere perfect for unwinding.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
+
+[The Power of Personal Atmosphere](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
+
+[![The Science of Motivating Young Adults](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
+
+[Podcast #1,012: The Science of Motivating Your Kids (And Any Young Adult)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
+
+[![A hand stops falling wooden dominoes on a table, halting a chain reaction, much like how a differentiated self can manage group anxiety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
+
+[Podcast #1,010: How to Resist Group Anxiety and Become a Differentiated Self](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
 
 [![Two individuals sit at a desk in an office, fist-bumping. A laptop displaying a pie chart and bar graph is open in the background, alongside plants and large windows overlooking city buildings.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
 
 [Podcast #995: Why You’re So Bad at Giving and Receiving Compliments (And How to Fix That)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
-
-[![A group of four people sit around a table, smiling and drinking from cups, effortlessly maintaining social fitness. One person wears a headband and wristbands.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/the-importance-of-developing-and-maintaining-your-social-fitness/)
-
-[The Importance of Developing and Maintaining Your Social Fitness](https://www.artofmanliness.com/people/social-skills/the-importance-of-developing-and-maintaining-your-social-fitness/)
-
-[![A red rotary dial telephone, typically used by a hostage negotiator for handling difficult conversations, with its receiver on the left, set against a plain white background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-977-tips-from-a-hostage-negotiator-on-handling-difficult-conversations/)
-
-[Podcast #977: Tips From a Hostage Negotiator on Handling Difficult Conversations](https://www.artofmanliness.com/people/social-skills/podcast-977-tips-from-a-hostage-negotiator-on-handling-difficult-conversations/)
-
-[![A man holding a cigarette, secrets.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-968-the-secrets-of-supercommunicators/)
-
-[Podcast #968: The Secrets of Supercommunicators](https://www.artofmanliness.com/people/social-skills/podcast-968-the-secrets-of-supercommunicators/)
 
 [Browse all Get Social](https://www.artofmanliness.com/people/)
 
 * [How To](https://www.artofmanliness.com/skills/how-to/)
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
+
+[![A person in a red shirt and blue pants rides a horse and swings a lasso, showcasing advanced rope techniques in a desert landscape.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
+
+[How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
 [![Illustration of the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-remove-a-tick/)
 
@@ -252,41 +256,37 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Podcast #990: The Dude’s Guide to Laundry: How to Save Time, Money, and Your Wardrobe](https://www.artofmanliness.com/skills/how-to/podcast-990-the-dudes-guide-to-laundry-how-to-save-time-money-and-your-wardrobe/)
 
-[![Illustration of a hand skillfully gripping a boomerang with a colorful design, ready to throw.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-throw-a-boomerang/)
+[![A person, depicted in a comic style, is performing the French Drop Coin Trick for two children. The kids appear interested and are looking intently at the coin as they watch Cool Uncle Tricks in action.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
-[Skill of the Week: Throw a Boomerang](https://www.artofmanliness.com/skills/how-to/how-to-throw-a-boomerang/)
+[Cool Uncle Tricks: How to Perform the French Drop Coin Trick](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/military-hand-signals/)
+[![Illustration of a sneaker pressing lightly on a brake pedal with a red arrow indicating upward movement of the foot, showcasing Car Brake Safety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
 
-[A Field Guide to Military Hand Signals](https://www.artofmanliness.com/skills/manly-know-how/military-hand-signals/)
+[Skill of the Week: Handle Your Car’s Brakes Going Out](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
 
-[![Learn some James Bond tactics to detect if someone has been snooping in your room.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/james-bonds-tactics-for-figuring-out-if-someones-been-snooping-in-your-room/)
+[![Illustration of a man with a headband, reminiscent of Mr. Miyagi, deftly holding a small object between chopsticks against a red background—perfect for Skill of the Week.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
 
-[Skill of the Week: James Bond’s Tactics for Figuring Out If Someone’s Been Snooping in Your Room](https://www.artofmanliness.com/skills/manly-know-how/james-bonds-tactics-for-figuring-out-if-someones-been-snooping-in-your-room/)
+[Skill of the Week: Use Chopsticks Like Mr. Miyagi](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
 
-[![A drawing of two hands crushing an aluminum can on the ground with a red arrow indicating the direction of force, demonstrating how to open a can without a can opener.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-open-a-can-without-an-opener/)
+[![Silhouetted trucks drive in line along a ridge at sunset, demonstrating precise convoy execution against a backdrop of a cloudy sky and beams of sunlight.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
-[Skill of the Week: Open a Can Without a Can Opener](https://www.artofmanliness.com/skills/manly-know-how/how-to-open-a-can-without-an-opener/)
+[How to Plan, Organize, and Execute a Convoy](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
-[![Illustration of a vintage car hydroplaning through water, depicted in a dynamic sketch style with bold lines and shading.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
+[![Person standing with hands on hips, facing tall pine trees in a foggy forest, contemplating survival tips.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
 
-[Skill of the Week: Handle a Car That’s Hydroplaning](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
+[What to Do If You Get Lost in the Wild](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
 
-[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-start-a-fire-with-a-water-bottle/)
+[![A man is digging a hole in the ground to make a fighting hole.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
 
-[Skill of the Week: Start a Fire With a Water Bottle](https://www.artofmanliness.com/skills/outdoor-survival/how-to-start-a-fire-with-a-water-bottle/)
+[Skill of the Week: Make a Marine Corps Fighting Hole](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
 
-[![A man is attacking an alligator with his foot in order to survive.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-an-alligator-attack/)
+[![How to survive a plunge in a pool.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
 
-[Skill of the Week: Survive an Alligator Attack](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-an-alligator-attack/)
+[Skill of the Week: Survive a Plunge Down a Waterfall](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-plunge-down-a-waterfall/)
 
-[![A person with a backpack hikes up a trail in a mountainous landscape under a clear sky, enjoying their first backpacking trip.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/take-your-first-backpacking-trip-this-year/)
+[![A person crouching on the grass is packing camping food into a large blue bag. Various objects are scattered nearby, showcasing their camping skill to keep animals out of their supplies.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/hang-camping-food/)
 
-[Take Your First Backpacking Trip This Year](https://www.artofmanliness.com/skills/outdoor-survival/take-your-first-backpacking-trip-this-year/)
-
-[![Illustration of a man in a hat crawling through quicksand, with a pained expression on his face.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-quicksand-an-illustrated-guide/)
-
-[Skill of the Week: Escape From Quicksand](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-quicksand-an-illustrated-guide/)
+[Skill of the Week: Keep Animals Out of Your Camping Food](https://www.artofmanliness.com/skills/outdoor-survival/hang-camping-food/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
@@ -649,27 +649,29 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/career/podcast-1008-how-to-know-when-its-time-to-break-up-with-your-job/)
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
-[Podcast #1,008
+[Podcast #1,020
 
-###### How to Know When It’s Time to Break Up With Your Job](https://www.artofmanliness.com/career-wealth/career/podcast-1008-how-to-know-when-its-time-to-break-up-with-your-job/)
+###### Becoming a Tech Intentional Family](https://www.artofmanliness.com/people/family/podcast-1020-becoming-a-tech-intentional-family/)
 
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1019-seriously-happy/)
 
-[Podcast #885
+[Podcast #1,019
 
-###### The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+###### 10 Philosophy-Inspired Challenges for Becoming a Better and Happier Man](https://www.artofmanliness.com/character/advice/podcast-1019-seriously-happy/)
 
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/podcast/the-10-most-popular-aom-podcast-episodes-of-2024-so-far/)
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
-[The 10 Most Popular AoM Podcast Episodes of 2024 (So Far)](https://www.artofmanliness.com/podcast/the-10-most-popular-aom-podcast-episodes-of-2024-so-far/)
+[Podcast #865
 
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1007-the-5-mountains-of-personal-development/)
+###### How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
-[Podcast #1,007
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/career/podcast-1018-its-never-too-late-to-achieve-your-dream-receive-recognition-or-make-your-mark/)
 
-###### The 5 Mountains of Personal Development](https://www.artofmanliness.com/character/advice/podcast-1007-the-5-mountains-of-personal-development/)
+[Podcast #1,018
+
+###### It’s Never Too Late to Achieve Your Dream, Receive Recognition, or Make Your Mark](https://www.artofmanliness.com/career-wealth/career/podcast-1018-its-never-too-late-to-achieve-your-dream-receive-recognition-or-make-your-mark/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
