@@ -15,6 +15,7 @@ Current Fiber Buildings With Pricing Restrictions:
 * [Crosspointe Vista](https://gigabit.io/mdu/crosspointe)
 * [Lucille](https://gigabit.io/mdu/lucille)
 * [Waterfront Landing](https://gigabit.io/mdu/waterfront%20landing)
+* [3ZERO3](https://gigabit.io/mdu/303battery)
 
 Close
 
