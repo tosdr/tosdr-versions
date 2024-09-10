@@ -1,6 +1,6 @@
-[![ServiceM8](https://cdn.prod.website-files.com/57d7ef8b3d16a9a554f037bf/57d7ef8c3d16a9a554f038f0_ServiceM8_Logo_Horizontal.webp)](https://www.servicem8.com/uk/)
+[![ServiceM8](https://cdn.prod.website-files.com/57d7ef8b3d16a9a554f037bf/57d7ef8c3d16a9a554f038f0_ServiceM8_Logo_Horizontal.webp)](https://www.servicem8.com/)
 
-[Home](https://www.servicem8.com/uk/)[Tour](https://www.servicem8.com/uk/tour)[Pricing](https://www.servicem8.com/uk/pricing)[Free Trial](https://www.servicem8.com/uk/smart_invite)[Login](https://www.servicem8.com/uk/login-page)[Help](https://support.servicem8.com/hc/en-us)
+[Home](https://www.servicem8.com/)[Tour](https://www.servicem8.com/tour)[Pricing](https://www.servicem8.com/pricing)[Free Trial](https://www.servicem8.com/smart_invite)[Login](https://www.servicem8.com/login-page)[Help](https://support.servicem8.com/hc/en-us)
 
 Terms of Service
 ================
@@ -390,31 +390,31 @@ A person who is not a party to these Terms has no right to benefit under or to e
 
 ### Features
 
-[Job management](https://www.servicem8.com/uk/features-field-service-management) [Scheduling](https://www.servicem8.com/uk/features-scheduling)[Quoting & invoicing](https://www.servicem8.com/uk/features-quoting-invoicing)[Invoice payments](https://www.servicem8.com/uk/features-payments)[Electronic forms](https://www.servicem8.com/uk/features-forms)[ServiceM8 Phone](https://www.servicem8.com/uk/features-servicem8-phone)[Asset management](https://www.servicem8.com/uk/features-asset-management)[Online booking](https://www.servicem8.com/uk/features-online-booking)[Accounting integrations](https://www.servicem8.com/uk/features-integrations)[View all features](https://www.servicem8.com/uk/feature-overview)
+[Job management](https://www.servicem8.com/features-field-service-management) [Scheduling](https://www.servicem8.com/features-scheduling)[Quoting & invoicing](https://www.servicem8.com/features-quoting-invoicing)[Invoice payments](https://www.servicem8.com/features-payments)[Electronic forms](https://www.servicem8.com/features-forms)[ServiceM8 Phone](https://www.servicem8.com/features-servicem8-phone)[Asset management](https://www.servicem8.com/features-asset-management)[Online booking](https://www.servicem8.com/features-online-booking)[Accounting integrations](https://www.servicem8.com/features-integrations)[View all features](https://www.servicem8.com/feature-overview)
 
 ### Industries
 
-[Electrical](https://www.servicem8.com/uk/industries/electrician-software)[Plumbing](https://www.servicem8.com/uk/industries/plumbing-software)[HVAC](https://www.servicem8.com/uk/industries/hvac-software)[Cleaning](https://www.servicem8.com/uk/industries/cleaning-software)[Locksmith](https://www.servicem8.com/uk/industries/locksmith-software)[Pool service](https://www.servicem8.com/uk/industries/pool-service-software)[Pest control](https://www.servicem8.com/uk/industries/pest-control-software)[Lawn care](https://www.servicem8.com/uk/industries/lawn-care-software)[Appliance repair](https://www.servicem8.com/uk/industries/appliance-repair)[View all industries](https://www.servicem8.com/uk/industries)
+[Electrical](https://www.servicem8.com/industries/electrician-software)[Plumbing](https://www.servicem8.com/industries/plumbing-software)[HVAC](https://www.servicem8.com/industries/hvac-software)[Cleaning](https://www.servicem8.com/industries/cleaning-software)[Locksmith](https://www.servicem8.com/industries/locksmith-software)[Pool service](https://www.servicem8.com/industries/pool-service-software)[Pest control](https://www.servicem8.com/industries/pest-control-software)[Lawn care](https://www.servicem8.com/industries/lawn-care-software)[Appliance repair](https://www.servicem8.com/industries/appliance-repair)[View all industries](https://www.servicem8.com/industries)
 
 ### Resources
 
-[Help videos](https://www.servicem8.com/uk/help-videos)[Introduction & demo](https://www.servicem8.com/uk/introduction)[Support](https://support.servicem8.com/hc/en-us)[Hire an expert](https://www.servicem8.com/uk/partner-directory)[Customer stories](https://www.servicem8.com/uk/customer-stories)[Partner program](https://www.servicem8.com/uk/partners)[Developer program](https://developer.servicem8.com/)[API documentation](https://developer.servicem8.com/v1.0/docs)
+[Help videos](https://www.servicem8.com/help-videos)[Introduction & demo](https://www.servicem8.com/introduction)[Support](https://support.servicem8.com/hc/en-us)[Hire an expert](https://www.servicem8.com/partner-directory)[Customer stories](https://www.servicem8.com/customer-stories)[Partner program](https://www.servicem8.com/partners)[Developer program](https://developer.servicem8.com/)[API documentation](https://developer.servicem8.com/v1.0/docs)
 
 ### Company
 
-[About us](https://www.servicem8.com/uk/about-us)[Careers](https://www.servicem8.com/uk/careers)[Blog](https://blog.servicem8.com/)[Articles](https://www.servicem8.com/uk/articles)[Press & media](https://www.servicem8.com/uk/press-media)[Contact us](https://www.servicem8.com/uk/contact-us)
+[About us](https://www.servicem8.com/about-us)[Careers](https://www.servicem8.com/careers)[Blog](https://blog.servicem8.com/)[Articles](https://www.servicem8.com/articles)[Press & media](https://www.servicem8.com/press-media)[Contact us](https://www.servicem8.com/contact-us)
 
 [![](https://cdn.prod.website-files.com/57d7ef8b3d16a9a554f037bf/5c08904e973d4da076aad929_icon_twitter.webp)](http://twitter.com/servicem8)[![](https://cdn.prod.website-files.com/57d7ef8b3d16a9a554f037bf/5c08904be4eab10000a94ed7_icon_facebook.webp)](http://facebook.com/servicem8)[![](https://cdn.prod.website-files.com/57d7ef8b3d16a9a554f037bf/5c08904f2862dd32f044cb5d_icon_youtube.webp)](http://youtube.com/servicem8)
 
-[Terms of Service](https://www.servicem8.com/uk/terms-of-service)
+[Terms of Service](https://www.servicem8.com/terms-of-service)
 
  | 
 
-[Privacy Policy](https://www.servicem8.com/uk/privacy-policy)
+[Privacy Policy](https://www.servicem8.com/privacy-policy)
 
  | 
 
-[Service Level Agreement](https://www.servicem8.com/uk/service-level-agreement)
+[Service Level Agreement](https://www.servicem8.com/service-level-agreement)
 
 © 2024 ServiceM8™ | Smart Job Management
 
