@@ -6,10 +6,18 @@
 * [📚 Books](https://linuxhandbook.com/ebooks/)
 * [👩‍💻 Courses](https://linuxhandbook.com/courses/)
 * [🪪 Who we are?](https://linuxhandbook.com/about/)
+* Learning Corners
+    * [Nano](https://linuxhandbook.com/nano/)
+    * [Vim](https://linuxhandbook.com/vim/)
+    * [Zsh](https://linuxhandbook.com/zsh/)
 * * [✨ Latest Tutorials](https://linuxhandbook.com/latest/)
     * [📚 Books](https://linuxhandbook.com/ebooks/)
     * [👩‍💻 Courses](https://linuxhandbook.com/courses/)
     * [🪪 Who we are?](https://linuxhandbook.com/about/)
+    * Learning Corners
+        * [Nano](https://linuxhandbook.com/nano/)
+        * [Vim](https://linuxhandbook.com/vim/)
+        * [Zsh](https://linuxhandbook.com/zsh/)
 
 [](https://twitter.com/linuxhandbook "Twitter")[](https://www.facebook.com/linuxhandbook "Facebook")
 
@@ -21,6 +29,10 @@ Quick search... ⌘K
 * [📚 Books](https://linuxhandbook.com/ebooks/)
 * [👩‍💻 Courses](https://linuxhandbook.com/courses/)
 * [🪪 Who we are?](https://linuxhandbook.com/about/)
+* Learning Corners
+    * [Nano](https://linuxhandbook.com/nano/)
+    * [Vim](https://linuxhandbook.com/vim/)
+    * [Zsh](https://linuxhandbook.com/zsh/)
 
 [](https://twitter.com/linuxhandbook "Twitter")[](https://www.facebook.com/linuxhandbook "Facebook")
 
