@@ -64,6 +64,8 @@
     * [How to cite the ALA](https://support.ala.org.au/support/solutions/articles/6000261662-citing-the-ala "How to cite the ALA")
     * [Contact us](https://www.ala.org.au/contact-us/ "Contact us")
 
+We want to hear from you! Take the [ALA User Satisfaction Survey](https://www.surveymonkey.com/r/ALA-24)
+
 Terms of Use
 ============
 
