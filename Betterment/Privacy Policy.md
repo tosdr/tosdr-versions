@@ -10,6 +10,7 @@ Open menu
 
 * Investing
     * [Automated investing](https://www.betterment.com/investing)
+    * [Bonds investing](https://www.betterment.com/bonds-investing)
     * [IRAs and 401(k) rollovers](https://www.betterment.com/ira-and-401k)
     * [Portfolio options](https://www.betterment.com/investments)
     * [Socially responsible investing](https://www.betterment.com/socially-responsible-investing)
@@ -26,6 +27,7 @@ Open menu
     * [All-in-one dashboard](https://www.betterment.com/dashboard)
 * About
     * [Who we are](https://www.betterment.com/about)
+    * [Reviews](https://www.betterment.com/testimonials)
     * [Investment philosophy](https://www.betterment.com/resources/how-betterment-technology-manages-money)
     * [Pricing](https://www.betterment.com/pricing)
     * [Press](https://www.betterment.com/press)
@@ -49,7 +51,7 @@ See solutions for
 Privacy Policy
 ==============
 
-Last updated July 12, 2024
+Last updated August 30, 2024
 
 Introduction
 ------------
@@ -121,7 +123,7 @@ How do we use and share your personal information?
 | --- | --- | --- |
 | Reasons for sharing personal information |     |     |     |     |     |     |     |     |     |
 | For our everyday business purposes<br><br>Such as to verify your identity, process your transactions, maintain your account(s), respond to court orders and legal investigations or regulatory requests, or report to credit bureaus | Checkmark | Close Icon |
-| For our marketing purposes<br><br>To offer our products and services to you. | Checkmark | Close Icon |
+| For our marketing purposes<br><br>To offer our products and services to you. | Checkmark | Checkmark |
 | For joint marketing with other financial companies<br><br>To offer our products and services to you. | Checkmark | Close Icon |
 | For our affiliates’ everyday business purposes - Information about your transactions and experiences<br><br>As described below, you are able to limit our sharing of your Betterment Visa Debit Card transaction data with Dosh, our cash back rewards partner, by emailing cashback@betterment.com. | Checkmark | Close Icon |
 | For our affiliates’ everyday business purposes - Information about your creditworthiness<br><br>Betterment does not collect or share personal information for these purposes. | Close Icon | Close Icon |
@@ -170,7 +172,7 @@ Federal law gives you the right to limit only:
 * Affiliates from using your information to market to you
 * Sharing for nonaffiliates to market to you
 
-You should be aware that Betterment does not collect or share information for these purposes.
+You should be aware that Betterment does not collect or share information for these purposes. Betterment also allows you to limit the sharing of information for Betterment's own marketing purposes.
 
 State laws and individual companies may give you additional rights to limit sharing. See below for more information if you are a resident of California or Vermont.
 
@@ -267,6 +269,8 @@ We use these technologies to customize Betterment and improve your experience wi
 
 Certain cookies, pixels, and similar technologies are not required for site functionality. You are not required to accept non-functional cookies or pixels to use this site. However, refusing to accept these cookies or pixels will make the use of Betterment more cumbersome and less accessible.
 
+You may opt out of the use of cookies and pixels for behavioral advertising through the privacy controls on the Betterment website. 
+
 #### Advertising companies
 
 Betterment advertises our services on websites not affiliated with Betterment, and we contract with third-party advertising companies to display these ads. These third-party advertising companies, along with data exchanges and similar providers, may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, IP address, and pages visited. We do not provide personally identifiable information to these advertising companies.
@@ -316,6 +320,10 @@ If you use a Betterment Visa® Debit Card, Betterment will share the transaction
 If you open a Betterment Crypto investing account, Betterment will share information with Gemini and/or its affiliates for purposes relating to your account.
 
 In order to provide workplace services to employers or plan sponsors through the Betterment at Work platform, such as retirement savings plan services, recordkeeping services, and student loan management services, we may exchange any information received in connection with such services with the employer or plan sponsor or others they may authorize, such as an employer-selected investment professional. We may also share information, including but not limited to account positions, contributions, distributions, and cash flows, with a third-party financial institution that serves as a directed trustee to 401(k) plans serviced by Betterment for Business and its affiliates.
+
+Further, if your employer has engaged a third-party advisor to provide advisory and/or investment management services to the 401(k) plan, Betterment is authorized by your employer to share your information with the third-party advisor, and the third-party advisor may use your information to provide investment advisory services or market its other services to you.
+
+We may also share information, including but not limited to account positions, contributions, distributions, and cash flows, with a third-party financial institution that serves as a directed trustee to 401(k) plans serviced by Betterment for Business and its affiliates.
 
 If you contact Betterment Support, information you provide may be collected and used by third-party service providers to Betterment or their service providers, which may process that information using generative artificial intelligence technology, including but not limited to large language models. Betterment has received assurances that your personal information will not be used to train any of these models.
 
@@ -371,7 +379,7 @@ If you are a former customer, these policies also apply to you; we treat your in
 
 #### How we respond to do not track signals
 
-Online tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Customers using certain modern browsers have the ability to activate a “Do Not Track” signal. Betterment does not currently respond to the “Do Not Track” signal.
+Online tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Customers using certain modern browsers have the ability to activate a “Do Not Track” signal. Betterment currently responds to the “Do Not Track” signal as required by certain states' laws.
 
 #### How you accept this policy
 
@@ -385,18 +393,18 @@ We may modify this privacy policy over time without prior notice by posting a ne
 
 Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that their child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate their account. 
 
-                                                
+                                                  
 
 U.S. State Privacy Notice and California Notice at Collection
 -------------------------------------------------------------
 
 Several U.S. states, including California, have enacted or will soon enact consumer privacy laws that grant their residents certain rights and require additional disclosures (collectively, “State Privacy Laws”). If you are a resident of one of these states, this section applies to you and supplements the information contained in Betterment’s Full Privacy Policy.
 
-As explained in our privacy policy above, both federal and state laws require us to tell you how we collect, use, share, and protect your personal information. As a result, our data collection practices are generally governed by federal law, including the Gramm-Leach-Bliley Act (“GLBA”). However, certain information collected is covered by State Privacy Laws. This may includes information related to cross-contextual behavioral advertising or targeted advertising. Under the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act (“CPRA”) of 2020 and other California laws (collectively, the “CCPA”), this may also include information about employees and employee applicants as well as enterprise data (such as business-to-business).
+As explained in our privacy policy above, both federal and state laws require us to tell you how we collect, use, share, and protect your personal information. As a result, our data collection practices are generally governed by federal law, including the Gramm-Leach-Bliley Act (“GLBA”). However, certain information collected is covered by State Privacy Laws. This may include information related to cross-contextual behavioral advertising or targeted advertising. Under the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act (“CPRA”) of 2020 and other California laws (collectively, the “CCPA”), this may also include information about employees and employee applicants as well as enterprise data (such as business-to-business).
 
 This notice is intended to provide information required under State Privacy Laws, including the CCPA. This notice applies to the data collection and processing practices of Betterment LLC, Betterment Securities, Betterment for Business LLC, and Betterment Financial LLC (collectively, “Betterment” or “we”).  
   
-We do not and will not sell consumer personal information in the traditional and colloquial sense of the word “sale.” We do use advertising technology on our website, which under some State Privacy Laws may be considered a “sale” or “share” of your information. We do not exchange our clients’ personal information for monetary payments.  As discussed below, you may opt-out of targeted advertising at any time on our website.  We also do not offer financial incentives, preferential service agreements, or any other differences in our prices or services in exchange for your data. For more information see below “Right to Opt-Out of Sale/Sharing.”
+We do not and will not sell consumer personal information in the traditional and colloquial sense of the word “sale.” We do use advertising technology on our website, which under some State Privacy Laws may be considered a “sale” or “share” of your information. We do not exchange our clients’ personal information for monetary payments. As discussed below, you may opt-out of targeted advertising at any time on our website. We also do not offer financial incentives, preferential service agreements, or any other differences in our prices or services in exchange for your data. For more information see below “Right to Opt-Out of Sale/Sharing.”
 
 We disclose the following categories of personal information to third parties for the purpose of engaging in targeted advertising and other marketing activities, including to expand the reach and effectiveness of our marketing campaigns. These disclosures may be considered “sales” or “sharing” or use of personal information for “targeted advertising” under certain State Privacy Laws.
 
@@ -543,7 +551,7 @@ We will not discriminate against you for exercising any of your rights. Unless p
 If you have any questions on the privacy policy, please contact us at:
 
 Betterment  
-27 West 23rd Street, 6th Floor New York, NY 10010  
+450 West 33rd Street, Floor 11, New York, NY 10001  
 [privacy@betterment.com](mailto:privacy@betterment.com)  
 212-228-1328  
 
