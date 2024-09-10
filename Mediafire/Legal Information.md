@@ -47,6 +47,7 @@ Policies
     * [Terms of Payment](https://www.mediafire.com/policies/terms_of_payment.php)
     * [Privacy Policy](https://www.mediafire.com/policies/privacy_policy.php)
     * [GDPR](https://www.mediafire.com/policies/gdpr.php)
+    * [California Privacy](https://www.mediafire.com/policies/california_privacy.php)
     * [Content](https://www.mediafire.com/policies/content.php)
     * [Enforcement](https://www.mediafire.com/policies/enforcement.php)
     * [Data Retention](https://www.mediafire.com/policies/data_retention.php)
