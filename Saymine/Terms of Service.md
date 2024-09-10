@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/628ca7512a3d4b82cd74bf49/62933cf3e865838f47ae73e5_Mine%20Logo%20Black.svg)](https://www.saymine.com/)
+[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf3e865838f47ae73e5_Mine%20Logo%20Black.svg)](https://www.saymine.com/)
 
 [What we do](https://www.saymine.com/)
 
@@ -27,7 +27,7 @@ The most controversial and rhetorical question of all times - "Do you agree to t
   
 We’ve all done it, you, me, probably even most CEOs.
 
-![](https://assets-global.website-files.com/62985b3089252e4c7d3c23ba/62ac18d81def390451c37003_L%20img%20size%20desktop.png)
+![](https://cdn.prod.website-files.com/62985b3089252e4c7d3c23ba/62ac18d81def390451c37003_L%20img%20size%20desktop.png)
 
 We know that the chance of you reading this TOS is small to non-existent, so we summed up every paragraph in 70 words or less.
 
@@ -265,7 +265,7 @@ For any questions about these Terms or any other issue regarding Mine or the Ser
 
 ‍
 
-![](https://assets-global.website-files.com/628ca7512a3d4b82cd74bf49/62986fa17a0fbbcc79a923c0_illu-ostrich-banner-bottom-left.png)
+![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62986fa17a0fbbcc79a923c0_illu-ostrich-banner-bottom-left.png)
 
 Discover your digital footprint
 -------------------------------
@@ -274,9 +274,9 @@ Unleash yourself. Remove your personal data from services you no longer use.
 
 [Get started](https://saymineapp.com/onboarding/onboarding-1?_ga=2.116004614.1277363373.1656311531-2075492241.1656311531)
 
-![](https://assets-global.website-files.com/628ca7512a3d4b82cd74bf49/62986fa17a0fbb6f07a923bd_illu-ostrich-banner-bottom-mobile.png)
+![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62986fa17a0fbb6f07a923bd_illu-ostrich-banner-bottom-mobile.png)
 
-[![](https://assets-global.website-files.com/628ca7512a3d4b82cd74bf49/62933cf374c4061ab1f382ef_Mine%20Logo%20White.svg)](https://www.saymine.com/welcome)
+[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933cf374c4061ab1f382ef_Mine%20Logo%20White.svg)](https://www.saymine.com/welcome)
 
 ABOUT US
 
@@ -294,7 +294,7 @@ LEGAL STUFF
 
 Get the app
 
-[![](https://assets-global.website-files.com/628ca7512a3d4b82cd74bf49/62933de53b62c4371ebd4bb5_google-play-badge-01%402x.png)](https://play.google.com/store/apps/details?id=com.saymineapp.twa&referrer=utm_source%3Dwebsite%26utm_medium%3Dweb%26utm_content%3Dwebsite_footer)
+[![](https://cdn.prod.website-files.com/628ca7512a3d4b82cd74bf49/62933de53b62c4371ebd4bb5_google-play-badge-01%402x.png)](https://play.google.com/store/apps/details?id=com.saymineapp.twa&referrer=utm_source%3Dwebsite%26utm_medium%3Dweb%26utm_content%3Dwebsite_footer)
 
 2023 Mine ® All rights reserved.
 
