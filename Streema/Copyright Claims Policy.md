@@ -119,7 +119,7 @@ c/o Streema
   
   
 
- [![Play Store badge](https://statics-v3.streema.com/static/img/radios/badge-android-store-40px.9eaaeef46651.png)](https://play.google.com/store/apps/details?id=com.streema.simpleradio&referrer=utm_source%3Dstreema%26utm_medium%3Ddesktop-banner)[![App Store badge](https://statics-v3.streema.com/static/img/Download_on_the_App_Store_Badge_US-UK_135x40.2ef21936637e.png)](https://itunes.apple.com/us/app/simple-radio-by-streema-tunein/id891132290?mt=8)
+ [![Play Store badge](https://statics-v3.streema.com/static/img/radios/badge-android-store-40px.37e7fb1d2aea.png)](https://play.google.com/store/apps/details?id=com.streema.simpleradio&referrer=utm_source%3Dstreema%26utm_medium%3Ddesktop-banner)[![App Store badge](https://statics-v3.streema.com/static/img/Download_on_the_App_Store_Badge_US-UK_135x40.2ef21936637e.png)](https://itunes.apple.com/us/app/simple-radio-by-streema-tunein/id891132290?mt=8)
 
 [](https://twitter.com/streema)[](https://www.facebook.com/pages/Streema/566615950033225)
 
