@@ -38,7 +38,7 @@
 
 [Special Deal: 12 Months + 24 Month extra! ALL PrivateVPN plans are protected by a 100% money-back guarantee. Simply sign up in 3 easy steps and test out your VPN for 30 days risk-free!](https://privatevpn.com/prices/pvpndealen)
 
-Your IP Address: 51.195.149.220
+Your IP Address: 206.81.0.208
 
 You are not protected [(read more)](https://privatevpn.com/how-vpn-works)
 
