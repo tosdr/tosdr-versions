@@ -1,8 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-✖
+##### SENSEX   81,183.93
 
-[](#_)[](#_)[](#_)[](#_)[](#_)
+ -1,017.23
+
+##### NIFTY   24,852.15
+
+ -292.95
+
+##### CRUDEOIL   5,700.00
+
+ -4.00
+
+##### GOLD   71,460.00
+
++ 34.00
+
+##### SILVER   82,864.00
+
++ 107.00
+
+##### SENSEX   81,183.93
+
+ -1,017.23
+
+##### NIFTY   24,852.15
+
+ -292.95
+
+##### NIFTY   24,852.15
+
+ -292.95
+
+##### CRUDEOIL   5,700.00
+
+ -4.00
+
+##### CRUDEOIL   5,700.00
+
+ -4.00
+
+##### GOLD   71,460.00
+
++ 34.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -10,7 +50,7 @@
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Budget 2024](https://www.thehindubusinessline.com/economy/budget/) 
+* [Economy](https://www.thehindubusinessline.com/economy/) 
 * [Premium](https://www.thehindubusinessline.com/premium/) 
 
 [FREE TRIAL](https://www.thehindubusinessline.com/signup/?utm_source=Businessline&utm_medium=homepage&utm_campaign=FTbutton)[![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/premium/) [ACCOUNT ![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/myaccount/) [Subscribe](https://www.thehindubusinessline.com/subscription/)LOGIN
@@ -109,7 +149,7 @@ Connect with us
 
 [![newsletter](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/icon/newsletter.svg)Subscribe to Newsletters](https://www.thehindubusinessline.com/newsletter-subscription/?utm_source=homepage_menu&utm_medium=website&utm_campaign=newsletter_signup)[Digital access to daily edition e-Paper](https://epaper.thehindubusinessline.com/reader?utm_source=Businessline&utm_medium=Home&utm_campaign=HamburgerMenu)
 
-[![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/mobile-logo.svg)](https://www.thehindubusinessline.com/)
+[![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
 READ IN APP[PREMIUM](https://www.thehindubusinessline.com/premium/)[Subscribe](https://www.thehindubusinessline.com/subscription/)![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)
 
@@ -117,7 +157,7 @@ READ IN APP[PREMIUM](https://www.thehindubusinessline.com/premium/)[Subscribe](h
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Budget 2024](https://www.thehindubusinessline.com/economy/budget/) 
+* [Economy](https://www.thehindubusinessline.com/economy/) 
 * [Premium](https://www.thehindubusinessline.com/premium/) 
 
 TO ENJOY ADDITIONAL BENEFITS
@@ -200,6 +240,8 @@ Get BusinessLine apps on
 [](https://play.google.com/store/apps/details?id=com.mobstac.thehindubusinessline&hl=en_IN&gl=US "Google Play")
 
 [](https://apps.apple.com/in/app/business-line-for-iphone/id855182339 "Apple Store")
+
+feedback
 
 Non EU UsersEu Users
 
@@ -626,7 +668,6 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
     * [The Hindu ePaper](https://epaper.thehindu.com/?utm_source=thehindu&utm_medium=hamburger)
     * [Business Line ePaper](https://epaper.thehindubusinessline.com/login?utm_source=Businessline&utm_medium=Footer&utm_campaign=SiteMenu)
     * [Crossword + Free Games](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu)
-    * [The Hindu Coupons](https://www.thehindu.com/coupons/)
 
 * ##### Other Products
     
@@ -658,13 +699,13 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/stock-market-live-updates-6-september-2024-stock-to-buy-today-alembic-ltd-163/article68610005.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Suzlon Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/suzlon-energy-share-price-today-suzlon-shares-today-live-updates-06-sep-2024/article68612540.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Premier Energies IPO Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/premier-energies-ipo-premier-energies-share-price-live-updates-03-sep-2024/article68599597.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance AGM 2024 Highlights](https://www.thehindubusinessline.com/companies/reliance-agm-2024-highlights-ril-47th-annual-general-meeting-news-updates/article68580061.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Highlights](https://www.thehindubusinessline.com/economy/budget/budget-2024-highlights-key-updates-new-income-tax-announcements-by-fm-nirmala-sitharaman/article68432665.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-26-july-2024/article68445339.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SJVN Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/sjvn-share-price-today-live-updates-26-july-2024/article68448571.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Suzlon Energy Share Price Today](https://www.thehindubusinessline.com/markets/stock-markets/suzlon-energy-share-price-live-updates-today-25-july-2024/article68444139.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-june-2024-highlights/article68258609.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results 2024](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-updates/article68246360.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024](https://www.thehindubusinessline.com/economy/budget/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Share Price](https://www.thehindubusinessline.com/stocks/reliance-industries-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Enterprises Share Price](https://www.thehindubusinessline.com/stocks/adani-enterprises-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
@@ -682,24 +723,24 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on Group sites
 
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Explore Frontline Packages](https://frontline.thehindu.com/packages/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Electoral Bonds Full Data](https://www.thehindu.com/data/electoral-bond-full-data-complete-list-of-donors-parties-and-unique-numbers/article67976056.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Olympics Shoooting Live Score](https://sportstar.thehindu.com/olympics/paris-2024/news/shooting-live-score-paris-2024-olympics-updates-commentary-medals-results-10m-air-pistol-rifle-qualification-final-highlights/article68456278.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) PM Modi oath ceremony LIVE updates](https://www.thehindu.com/elections/lok-sabha/india-election-results-2024-updates-june-9-2024/article68268845.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reinventing Rahul Gandhi](https://frontline.thehindu.com/politics/rahul-gandhi-reinvented-himself-in-2024-lok-sabha-election-pappu-gen-z-thirst-trap/article68315876.ece?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Euro 2024](https://sportstar.thehindu.com/newstag/euro-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election 2024](https://frontline.thehindu.com/election-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Neet PG Exam Controversy](https://frontline.thehindu.com/the-nation/education/neet-controversy-nta-national-testing-agency-exam-paper-leaks-students-crisis/article68369752.ece?utm_source=bl&utm_medium=footer&utm_campaign=internal)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Centre is diluting federalism](https://frontline.thehindu.com/current-issue/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Football News](https://sportstar.thehindu.com/football/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Politics News](https://frontline.thehindu.com/politics/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) The Nation News](https://frontline.thehindu.com/the-nation/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paris Olympics 2024](https://sportstar.thehindu.com/olympics/paris-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Punjab Kings PBKS Squad](https://sportstar.thehindu.com/newstag/punjab-kings/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) India Cricket News](https://sportstar.thehindu.com/cricket/indian/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) FL Interviews](https://frontline.thehindu.com/interviews/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Capitals DC Squad](https://sportstar.thehindu.com/newstag/delhi-capitals/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Israel-Palestine conflict](https://frontline.thehindu.com/world-affairs/hamas-israel-palestine-gaza-war/article67398628.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Did Periyar call for a genocide of Brahmins?](https://frontline.thehindu.com/politics/periyar-genocide-brahmins-tm-krishna-sangita-kalanidhi-music-academy-madras-carnatic/article67997754.ece)
 
