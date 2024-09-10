@@ -25,168 +25,122 @@ Navigation
 PRIVACY POLICY
 ==============
 
-Effective March 12, 2024
+Effective September 1, 2024
 
 About ArtsAI services
 ---------------------
 
-Adxcel Inc., DBA ArtsAI (collectively "ArtsAI" or "we" "us" "our") provides targeted advertising and marketing services for our customers - advertisers, advertising agencies and publishers.
+Adxcel Inc. dba ArtsAI ("ArtsAI" or "we" "us" "our") provides targeted advertising and marketing services for our business customers, including advertisers, advertising agencies and publishers.
 
-Through our services, customers can create, manage and serve advertisements, as well as monitor the effectiveness of advertising campaigns.
+Through our services, business customers can create, manage and measure served advertisements, measure website and other digital property visits, and monitor the effectiveness of advertising campaigns.
 
-To provide personalized advertising, our services may collect and use information about end users who are targeted with our ads. Our platform uses this information to help advertisers provide ads that are more relevant to you.
+To provide our services, we collect and use information about consumers who are targeted with ads. By “information” we mean information relating to an identified or identifiable consumer or that is considered "personal information" or "personal data" under applicable law.
 
-The following Privacy Policy describes:
+This Privacy Policy describes:
 
-* The type of information ArtsAI collects from consumers through the Ad Network.
+* The types of information ArtsAI collects from consumers.
+* How that information is collected and used.
+* To whom that information is disclosed.
+* Consumer choices regarding the collection and use of such information.
 * How that information is secured.
-* How that information is used.
-* The choices you have regarding the collection and use of such information.
 
-To ensure online privacy, ArtsAI complies with the
+See additional relevant disclosures if you are a consumer who lives in the following regions:
 
-* California Consumer Privacy Act (CCPA)
-* EU General Data Protection Regulation (GDPR)
-* e-Privacy Regulation (ePR)
-* Internet Advertising Bureau (IAB) Good Practice Principles for Online Behavioral Advertising "OBA" (including Mobile)
+* [California](#california)
+* [Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia](#colorado)
+* [Nevada](#nevada)
+* [EEA, Switzerland, or the UK](#eu)
 
-ArtsAI is a member of the Network Advertising Initiative (NAI) and we adhere to the NAI Codes of Conduct. To learn more about the NAI and the Code of Conduct please visit: [The NAI Code of Conduct](https://thenai.org/accountability/code-of-conduct/)
+For our contact details, see the [Contact Us](#contact_us) section below.
 
 What Information We Collect
 ---------------------------
 
-When we refer to the term "Information", we mean the data that is generated using our services, as well as the data that our customers receive from other sources and share with our services, as described below. For some of the data, ArtsAI acts as a data controller of personal information processed in order to serve personalized ads.
+We collect the following categories of information about consumers:
 
-This Privacy Policy describes how information controlled by ArtsAI is used within our services; it does not apply to the use of information by our customers or other third parties outside of our services.
-
-We may also receive information from third parties to enable targeted advertising on websites and mobile applications. We process such information in strict accordance with the permissions and restrictions imposed by the third party providing such data.
-
-Personally Identifiable Information ("PII")
--------------------------------------------
-
-We do not collect or use any data that, by itself, directly identifies an individual, such as name, address, phone number, email address, government identifier, credit card information, bank account information and telephone or cell phone number.
-
-Non-Personally Identifiable Information ("Non-PII")
----------------------------------------------------
-
-Through our proprietary technology, we collect non-personally identifiable information about consumers who access advertising and other content through their systems, their publishers’ systems, and their advertisers’ systems. This includes, but is not limited to, IP addresses, browser type, web page views, application views, date, time and domains.
-
-We collect the following categories of information for the purposes explained below:
-
-* Device and Browser Information  
-    This is technical information about the device or browser you use to access ads. More specifically this information includes:
-    
-    * Cookies  
-        We or third-party advertising services providers selected by our customers may employ advertising pixels (clear gifs) on websites and advertisements that interact with some of our services. Pixels help to manage advertising content on websites.  
-        Pixels work with cookie strings to record the interactions of users with websites and advertisements.
-    * Mobile Advertising Identifiers  
-        In mobile apps, there are no cookies. Instead, mobile device’s operating system provides user-resettable identifiers (such as the Apple IDFA or Android Advertising ID, and any other unique identifier that may be assigned to the mobile device).  
-        We collect Mobile Advertising Identifiers to enhance ad serving and targeting capabilities.
-    * IP Address  
-        We collect IP addresses from which a device interacts with a mobile application to enhance ad serving and targeting capabilities. IP addresses may be truncated or encrypted or both based on local legislation or other requirements.
-    * Browser Type, Operating System & Device Brand  
-        We also collect and store certain information regarding the browser used by the user, the operating system of the device and the brand of the device.
-* Ad Data  
-    This is data about the online ads we have served (or attempted to serve) to you. For example, how many times an ad has been served to you and whether you clicked on or otherwise interacted with the ad. We use this data to monitor how well our ads and campaigns have performed.
-* Data from Advertising Partners  
-    This is data that we lawfully receive from other digital advertising companies that we work with ("Advertising Partners") to help us deliver ads to you and recognize you across browsers and devices. This may include pseudonymous advertiser identifiers - hashed (not readable) advertiser identifiers that do not directly identify you, your device, or your demographic data such as age range. We may work with our Advertisers and Advertising Partners to synchronize their pseudonymous identifiers to our own to enable us to more accurately recognize a particular browser or device and the advertising interests associated with it.
+* **Device identifiers**, such as Ad IDs and IP addresses.  
+    Ad IDs are user-resettable identifiers (such as the Apple IDFA or Android Advertising ID) found in mobile device operating systems. IP addresses are numbers that identify a device connected to an internet network. IP addresses may be truncated or encrypted or both based on local legislation or other requirements. IP addresses collected outside of the United States will be truncated by removing the last octet before processing.  
+    Device identifiers also include pseudonymous advertiser identifiers, which are unique identifiers generated by us or a third party that are linked to a device but not intended to identify a consumer.
+* **Device information**, such as operating software and browser details (e.g., type, version, and configuration), internet service provider details, and regional and language settings.
+* **Internet activity**, such as device browsing history and interactions, date and times of visits, domains and pages visited, referring and exiting pages, and ad data. Ad data is data about the online ads that have been served or attempted to be served to a device. For example, how many times an ad has been served and whether the ad was clicked on or otherwise interacted with.
+* **Non-precise location data**, such as location derived from an IP address or data that indicates a city or postal code level.
+* **Characteristics or demographics**, such as country.
+* **Inferences** generated from any of the above. For example, consumer interests.
 
 How We Collect Information
 --------------------------
 
-Our services use cookies, tagging scripts and pixels to collect Information associated with a browser or mobile device.
+We collect information in the following contexts:
 
-Cookies are small text files stored in a web browser by a website or ad server. By saving information in a cookie, websites and servers can remember preferences or recognize web browsers from one visit to another or from one website to another.
-
-Pixels and tagging scripts are elements allowing communication between a web browser and a server. Pixel is a small transparent image that is placed on a web page. A tagging script is a small piece of website code that is run by the web browser.
-
-We may also receive Information from our partners via server-to-server connection, or via secure file transfer.
+* **When you interact with a website, mobile app, advertising, podcast, or other online service that contains the ArtsAI pixel**  
+    ArtsAI operates a proprietary ArtsAI pixel. A pixel is a small transparent image that is placed on websites, mobile apps, advertisements, podcasts, and other online services that allows communication between a web browser and a server. We collect information through ArtsAI pixels embedded within ArtsAI’s own services as well as within the websites, mobile apps, advertisements, podcasts, and other online services of ArtsAI’s business customers and third parties who have contracted with ArtsAI to use the pixel.
+* **When you interact with our website**  
+    We collect information when you browse or otherwise interact with the ArtsAI website, including information you provide directly (such as in a webform) and information automatically collected through third party pixels and cookies embedded within the website. Cookies are small text files stored in a web browser that can remember preferences, recognize browsers, and communicate with pixels. Cookies can be controlled by browser settings.
+* **Information from our business customers**  
+    In addition to information collected through the ArtsAI pixel, we obtain information provided by our business customers in connection with helping them create, manage and measure served advertisements, measure website and other digital property visits, and monitor the effectiveness of advertising campaigns. For example, we may collect information through third party pixels and cookies embedded within their services, such as Google’s ad server (DFP).
+* **Information from our affiliates**  
+    We obtain information from our affiliates. For example, in connection with providing services to our business customers, we are able to access the Claritas Identity Graph and obtain information about you. For details about Claritas’ privacy practices, see the [Claritas Privacy Policy.](https://claritas.com/privacy-legal/)
+* **Information from third party data sources**  
+    We also collect information from third party data sources. For example, information obtained via server-to-server connection, or via secure file transfer.
 
 How We Use the Information We Collect
 -------------------------------------
 
-We use this information to serve ads to you that are more relevant to you and, in turn, improve performance of an Advertiser’s ad campaigns.
+We collect and use information for the following purposes:
 
-Specifically, we use this data for:
-
-* Targeting  
+* **Targeting**  
     Selecting ads that are more likely to be relevant to you based on the interests previously associated with your device and the time of day you may be most interested in viewing these specific ads.
-* Frequency capping  
+* **Frequency capping**  
     Making sure you don't see the same ad too many times.
-* Sequencing  
+* **Sequencing**  
     If you are being served a sequence of ads, making sure we show you the right ad next in the sequence.
-* Cross-device matching  
+* **Cross-device matching**  
     Identifying different devices that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices, and so that campaign effectiveness can be measured and analyzed.
-* Attribution  
-    Monitoring when, where, and at what price we served certain ads on behalf of an Advertiser so that we can measure our influence on the marketing results of the Advertiser’s campaigns and overall marketing strategy.
-* Reporting  
-    Providing Advertisers insights into how their ads are performing and gain insights into their customers. Reporting may include ad metrics such as impressions, clicks, and conversions. This data allows an Advertiser to determine if an ad is not performing well (customers are not clicking on it), so that the Advertiser will be able to see that data and update the ad.
+* **Attribution**  
+    Monitoring when, where, and at what price we served certain ads on behalf of an advertiser so that we can measure our influence on the marketing results of the advertiser’s campaigns and overall marketing strategy.
+* **Reporting**  
+    Providing advertisers insights into how their ads are performing and gain insights into their customers. Reporting may include ad metrics such as impressions, clicks, and conversions. This data allows an advertiser to determine if an ad is not performing well (customers are not clicking on it), so that the advertiser will be able to see that data and update the ad.
+* **Improvements**  
+    Developing and improving our services, including training our models and algorithms.
 
-With Whom We Share Information
-------------------------------
+In some cases, ArtsAI acts as a processor or service provider on behalf of a business customer. When acting in such capacity, ArtsAI will process the information in strict accordance with the permissions and restrictions imposed by the business customer providing such information. Please see our business customer’s privacy policy for details.
 
-We may disclose information about you:
+To Whom We Disclose Information
+-------------------------------
 
-* With an Advertiser whose ads you have visited  
-    We may share information about how you have interacted with that Advertiser’s ads.
-* With a Client  
-    We may share your business contact information collected from third party sources or inferred (as mentioned in the "What Information We Collect" section) with a Client if we think that your business or employer would be interested in that Client’s products.
-* With our service providers  
-    We contract with companies who help with parts of our business operations (e.g., for example, website and data hosting, fraud prevention, viewability reporting), as well as billing, collections, tech, customer and operational support.
-* In connection with legal proceedings  
-    When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of ArtsAI, our Advertisers or any other third party.
-* To comply with legal process  
-    We will use or disclose your Non-PII in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise ArtsAI’s legal rights or defend against legal claims or in the event of a breach in an agreement with ArtsAI. We will use and disclose your Non-PII if we believe that a user of this Site or Business Client will harm the property or rights of ArtsAI, its owners, or ArtsAI’s other customers. Finally, we will use or disclose Non-PII if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person.
-* To comply with laws and law enforcement  
-    ArtsAI cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Non-PII to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of ArtsAI or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
-* To investigate wrongdoing and protect ourselves or third parties  
-    To enforce our Terms of Service or other policies or investigate any potential violation of our Terms of Service and policies, any potential violation of the law, or to protect ourselves, our customers, or any third party from any potential harm (whether tangible or intangible).
-* In connection with a sale of our business  
-    If ArtsAI sells, merges or otherwise reorganizes its business, we reserve the right to transfer and disclose Non-PII to the purchaser or investors.
-* With our Advertising Partners  
-    We also may share hashed advertising identifiers (or other pseudonymous identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other companies in the digital advertising ecosystem. This enables them and us to better personalize ads to you.
+We disclose information about you:
 
-Our Use of Cookies
-------------------
-
-We use cookies in tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device.
-
-* The purposes for which we use cookies  
-    In the absence any linkable identifier, such as advertising identifier, we may generate a unique random identifier to link to an individual device. This random identifier is stored locally in the form of web browser cookie.
-
-Non-Cookie Technology for Tracking Outside European Territories
----------------------------------------------------------------
-
-In respect of website visitors with IP addresses not from a European Territory, ArtsAI may use technologies other than cookie technology to recognize your computer, device or browser for the purposes of interest-based advertising, analyzing engagement with ads or content, measuring the effectiveness of a particular ad campaign or marketing effort, to monitor against fraud or misuse of our Services, or in other ways described in this Privacy Policy in How We Use the Data We Collect. This use of non-cookie technology may be used in addition to cookies, or separately, to collect and record data about your web browsing activities on browsers, search engines or other platforms that may not utilize ArtsAI technology. You may opt-out of tracking via non-cookie technologies by employing the respective opt-out techniques described in Your Choices and Opting-Out of Targeted Ads.
+* **To our business customers**  
+    We disclose information to our business customers in connection with providing services to them. For example, we may disclose information about how you have interacted with an advertiser’s ads.
+* **To our service providers**  
+    We contract with and disclose information to companies who help with parts of our business operations (e.g., for example, website and data hosting, fraud prevention, viewability reporting), as well as billing, collections, tech, customer and operational support.
+* **To third party vendors**  
+    Some of the companies we work with independently control the purposes and means of processing your information. For these third parties, we encourage you to familiarize yourself with and consult their policies and terms of use.
+* **To our affiliates**  
+    We may disclose your information to our affiliates, including in connection with accessing the Claritas Identity Graph.
+* **In connection with legal proceedings**  
+    When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of ArtsAI, our business customers or any other third party.
+* **In connection with security, enforcement, and the law**  
+    We disclose information to comply with the law or other legal process, and where required, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We also disclose information to protect the rights, property, life, health, security and safety of us, our services or anyone else.
+* **In connection with a sale of our business**  
+    If ArtsAI considers selling, merging or otherwise reorganizing its business, we reserve the right to transfer and disclose information to any potential or actual purchaser or investor.
 
 Data Retention
 --------------
 
-* Cookies and Personal Data Associated with ArtsAI Pixel  
-    Cookie identifiers we collect expire 30 days from the last time your device accessed the ad using our technology.  We do not keep any cookie-based linkable information in our active database longer than 6 months.  
-    Other data associated with ArtsAI Pixel, including mobile identifiers and IP addresses, are deleted from our active database after 6 months.
-* Personal Data Associated with Real Time Bids  
-    Data logged for a particular submitted bid or received real time bid request, including mobile identifiers and IP addresses, are deleted from our active database after 6 months.
-* Personal Data Associated with Google ad server (DFP)  
-    Data associated with Google ad server (DFP), including mobile identifiers and IP addresses, are deleted from our active database after 6 months.
+We retain information for the length of time that is reasonably necessary for the purpose for which it was collected, and as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements. Below are some specific policies:
+
+* **Information associated with the ArtsAI pixel**  
+    Information associated with ArtsAI pixel, including Ad Ids and IP addresses, are deleted from our active database after 15 months following our provision of services to a business customer.
+* **Information associated with Real Time Bids**  
+    Information logged for a particular submitted bid or a received real time bid request, including Ad Ids and IP addresses, are deleted from our active database after 6 months following our provision of services to a business customer.
+* **Information Associated with Google’s ad server (DFP)**  
+    Information associated with Google’s ad server (DFP), including Ad Ids and IP addresses, are deleted from our active database after 15 months following our provision of services to a business customer.
 
 International Data Transfers
 ----------------------------
 
-Information may be transferred to and processed in countries outside of the European Union. These countries may have data protection laws that are different from the laws of your country and, in some cases, may not be as protective.
-
-Those countries may not have the same data protection laws as your country. However, when we transfer your information to other countries, we will protect that information as described in this Privacy Policy and take steps, where necessary, to ensure that international transfers comply with applicable laws.
-
-Legal Basis for Processing
---------------------------
-
-If you interact with our services from the European Economic Area, Switzerland and United Kingdom (even if it leaves the European Economic Area ), our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
-
-However, we will normally process personal information from you only where we have your consent to do so (including as a processor for a third party data controller that has obtained your consent), where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, to process your request to exercise your rights regarding your personal data or that of another person who shares your device).
-
-If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
-
-If you wish to learn more about specific legal ground(s) we rely on to process your information for any particular purpose (including any legitimate interests we have to process information), then please contact us using the details provided below under "Contact Us".
+Information collected from the European Economic Area, Switzerland, United Kingdom, and other countries outside of the United States may be transferred to and processed in the United States. We will protect all transferred information and ensure that international transfers comply with applicable data transfer laws.
 
 Information Relating to Children
 --------------------------------
@@ -196,128 +150,170 @@ Our products and services are not designed or intended for children (as defined 
 Data Security and Protection
 ----------------------------
 
-We apply technical, administrative and organizational security measures to protect the personal data we collect against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
+We apply technical, administrative and organizational security measures designed to protect the information we collect against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of data over a network, and against other unlawful forms of processing.
 
 Linking to Other Sites
 ----------------------
 
-Ads served by ArtsAI usually link to other websites, which may have privacy assurance practices that differ from ours. ArtsAI does not control and cannot be held responsible for the content of these websites and data collection on these web sites by any third party. To make sure your privacy is protected, please consult the respective privacy policy of the web site you are visiting.
+Ads with the embedded ArtsAI pixel usually link to other websites, which may have privacy assurance practices that differ from ours. ArtsAI does not control and cannot be held responsible for the content of these websites and data collection on these web sites by any third party. To make sure your privacy is protected, please consult the respective privacy policy of the web site you are visiting.
+
+Your Choices
+------------
+
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads (sometimes called "interest-based ads") you receive and how we use your information.
+
+Claritas Identity Graph
+
+As noted above, we access the Claritas Identity Graph in connection with providing services to our business customers. If you wish to have your information deleted from the Claritas Identity Graph, please make your request [here](https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783).
+
+ArtsAI Pixel Browser Opt Out
+
+We offer a browser-based opt out for our ArtsAI pixel that reduces the number of targeted ads you receive. This opt out does not impact how we use or disclose information collected through the ArtsAI pixel.
+
+To opt out of targeted ads shown in connection with the ArtsAI-pixel, [сlick here](#).
+
+By clicking above, we will drop an opt-out cookie on your browser, which allows us to recognize that browser in the future and respect your opt-out preferences for that browser. The cookie will apply to the specific browser you are using. If you wish to opt out for other browsers that you use, you must repeat the process using those browsers. All other cookies associated with your browser will remain intact and your opt out will be effective with respect to the browser used as long as you do not delete the cookie file from your hard drive. Please note that if you erase all cookies from your computer, you will also erase our opt-out cookie and will need to repeat the process of opting out. This opt out will not work for non-browser based services, such as mobile apps.
+
+DAA Opt Out
+
+ArtsAI is a participant in the Digital Advertising Alliance (DAA), and we adhere to the DAA Self-Regulatory Principles. The DAA offers an opt-out tool that, similar to the ArtsAI pixel Browser Opt Out, allows consumers to reduce the number of targeted ads they receive from DAA participants. This opt-out tool does not impact how participants use or disclose information collected through the ArtsAI pixel.
+
+For details on how to opt out, see [https://youradchoices.com/control](https://youradchoices.com/control). We are not responsible for the effectiveness of their tools.
+
+Resetting your Ad ID
+
+Most mobile devices allow you to reset your device’s Ad ID through your device settings, which is designed to limit how the prior Ad ID can be used. See your device settings for details.
+
+Region-Specific Choice
+
+See additional relevant disclosures regarding your rights if you are a consumer who lives in the regions below.
+
+Where ArtsAI acts as a processor or service provider on behalf of a business customer, please contact the business customer directly to exercise any rights you may have.
+
+Additional Disclosures For Residents of California
+--------------------------------------------------
+
+This section applies solely to the personal information of consumers who reside in the State of California ("consumers" or "you") and supplements the information above. We have included this section to comply with the California Consumer Privacy Act of 2018, as amended (CCPA) and any terms defined in the CCPA have the same meaning when used in this section.
+
+Notice at Collection
+
+For residents of California, at or before the time of collection of your personal information, you have the right to receive notice of our data practices. Our data practices are as follows:
+
+* **Collection**. The categories of personal information we have collected in the past 12 months and the categories sources from which the personal information is collected are set out in the “What Information We Collect” and “How We Collect Information” sections above.
+* **Purpose**. The specific business and commercial purposes for collecting and using personal information are set out in the “How We Use the Information We Collect” section above.
+* **Disclosure**. The categories of persons to whom personal information is disclosed, including service providers for business purposes, are set out in the “To Whom We Disclose Information” section above. We disclose the categories of personal information listed in the “What Information We Collect” section above to service providers for business purposes.
+* **Sales and Shares**. Some of our disclosures of personal information may be considered a “sale” or “share” as those terms are defined under California law. A “sale” is broadly defined to include a disclosure for something of value, and a “share” is broadly defined to include a disclosure for cross-context behavioral advertising. We collect, sell, or share the categories of information listed in the “What Information We Collect” section above.
+* **Sensitive Data**. To the extent any personal information we collect is considered sensitive personal information under California law, we collect, use, and disclose sensitive personal information only for the permissible business purposes for sensitive personal information under the CCPA or without the purpose of inferring characteristics about consumers. We do not sell or share sensitive personal information.
+* **Retention**. The criteria used to determine the period of time we retain your personal information is set out in the “Data Retention” section above.
+
+Your Rights
+
+The CCPA provides consumers with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
+
+Sales and Shares
+
+You have the right to opt out of us selling or sharing your personal information to third parties. To exercise this right, click [here](https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783) to manage your technology preferences or turn on a recognized opt-out preference signal, such as [Global Privacy Control](https://globalprivacycontrol.org/), in your browser or extension. Please note that when you opt out of tracking through the methods above, we do not know who you are within our systems, and your opt out will apply only to information collected through tracking technologies on the specific browser from which you opt out or, where required by law, to any pseudonymous profiles we maintain associated with your browser or device. If you delete or reset your cookies, or use a different browser or device, you will need to reconfigure your settings.
+
+Verifiable Requests
+
+* **Access**. You have the right to know what personal information we have about you, including: (i) the categories of personal information we collected about you; (ii) the categories of sources for the personal information we collected about you; (iii) our business or commercial purpose for collecting, selling, or sharing that personal information; (iv) the categories of third parties with whom we disclose that personal information, if any; (v) the specific pieces of personal information we collected about you (also called a data portability request); (vi) if we sold or disclosed your personal information for a business purpose, two separate lists disclosing: (a) sales, identifying the personal information categories that each category of recipient purchased; and (b) disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.
+* **Correction**. You have the right to correct any of your personal information that we collected from you.
+* **Deletion**. You have the right to delete any of your personal information that we collected from you and retained.
+
+Your rights are subject to exceptions and our retention practices.
+
+Exercising Access, Correction, and Deletion Rights
+
+To exercise the access, correction, and deletion rights described above, please submit a verifiable consumer request to us by e-mail sent to [privacyinfo@claritas.com](mailto:privacyinfo@claritas.com) or by calling us toll free at 1-866-I-OPT-OUT (1-866-467-8688) and entering service code 813# to leave us a message or by filling-out following web-form
+
+To the extent permitted by law, rights requests must be exercised through the applicable designated method listed above. Only you, or a person that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. Except where prohibited by law, we will require written and signed proof of the agent’s permission to do so and we may verify your identity directly with you.
+
+You may only make a verifiable consumer request for access, correction, or deletion twice within a 6-month period. The verifiable consumer request must: (i) provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative; and (ii) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+
+We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
+
+Non-Discrimination.
+
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not: (i) deny you goods or services; (ii) charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties; (iii) provide you a different level or quality of goods or services; (iv) suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+Shine the Light
+
+If you are a consumer who is also a customer, you may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To make a request, please write us at the email or postal address set out in the [Contact Us](#contact_us) section below and specify that you are making a "California Shine the Light Request."
+
+Do Not Track
+
+Your browser or extension may allow you to automatically transmit Do Not Track signals. Except as required by law, we do not respond to Do Not Track signals.
+
+Additional Disclosures for Residents of Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia
+---------------------------------------------------------------------------------------------------------
+
+This section applies only to residents of Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia. Our practices in these states regarding the collection, use, and retention of your personal data are set out in the main Privacy Policy. Some of our disclosures of personal data may be considered a “sale” under applicable law, which is often defined to include a disclosure for something of value. We do not process personal data for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning consumers.
+
+In addition to the choices noted in the main Privacy Policy above, you may request the additional rights listed below. Please note, these rights are not absolute, and are subject to exceptions and our retention practices. In some cases, we may not be able to respond to your request, such as when a legal exemption applies or if we are not able to verify your identity. You may make a rights request using an authorized agent. Except where prohibited by law, we will require written and signed proof of the agent’s permission to do so and we may verify your identity directly with you.
+
+Verifiable Requests
+
+* **Confirm/Access/Correct/Portability/Delete**. You have the right to (i) confirm whether we process your personal data, and, in some regions, confirm the categories of personal data we have processed; (ii) access your personal data; (iii) correct inaccuracies in your personal data; (iv) delete your personal data; and (v) obtain a copy of personal data that you have previously provided to us in a portable and, to the extent technically feasible, readily usable format.
+* **List**. If you are an Oregon resident, you also have the right to obtain a list of the specific third parties to which we have disclosed personal data.
+
+These rights are verifiable rights, meaning that we need to verify your identity before fulfilling them. To exercise any of these rights, please submit a request through our webform above, or you may call 1-866-467-8688) and enter Service Code 813#. We will confirm receipt of and respond to your request consistent with applicable law. To verify your identity, we may require you to confirm receipt of an email sent to an email address that matches our records, provide us with details relating to your history with us, or provide additional information.
+
+Sales and Targeted Advertising
+
+**Opt out of sales and targeted advertising**. If we sell your personal information for monetary consideration or engage in targeted advertising according, you can opt out. To exercise this right, click [here](https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783) to manage your technology preferences or turn on a recognized opt-out preference signal, such as [Global Privacy Control](https://globalprivacycontrol.org/), in your browser or extension. Please note that when you opt out through either of the above methods we do not know who you are within our systems, and your opt out will apply only to information collected through tracking technologies on the specific browser from which you opt out or, where required by law, to any pseudonymous profiles we maintain associated with your browser or device.
+
+Other Rights
+
+* Right to Non-Discrimination. ArtsAI will not discriminate against consumers who exercise their rights.
+* Consent. You have the right to revoke consent previously given to us for the processing of your personal data. To revoke consent, write us at the email or postal address set out in the [Contact Us](#contact_us) section below (specifying the consent you wish to withdraw). If you withdraw consent, you may not be able to receive certain services related to that consent.
+* Appeal. Under the laws of certain jurisdictions, you have the right to appeal our decision not to act on your request to exercise certain of the rights described above. To appeal our decision if you are in an eligible jurisdiction, please email us at [privacyinfo@claritas.com](mailto:privacyinfo@claritas.com). If we deny your appeal, you may submit a complaint to your Attorney General as follows:
+    * For Colorado residents: [https://coag.gov/file-complaint/](https://coag.gov/file-complaint/)
+    * For Connecticut residents: [https://www.dir.ct.gov/ag/complaint/](https://www.dir.ct.gov/ag/complaint/)
+    * For Montana residents: [https://dojmt.gov/consumer/](https://dojmt.gov/consumer/)
+    * For Oregon residents: [https://justice.oregon.gov/consumercomplaints/](https://justice.oregon.gov/consumercomplaints/)
+    * For Texas residents: [https://oag.my.salesforce-sites.com/CPDOnlineForm](https://oag.my.salesforce-sites.com/CPDOnlineForm)
+    * For Utah residents: [https://attorneygeneral.utah.gov/contact/complaint-form/](https://attorneygeneral.utah.gov/contact/complaint-form/)
+    * For Virginia residents: [https://www.oag.state.va.us/consumercomplaintform](https://www.oag.state.va.us/consumercomplaintform)
+
+Additional Disclosures for Residents of Nevada
+----------------------------------------------
+
+Nevada Revised Statutes Chapter 603A allows Nevada residents to opt-out of the “sale” of certain types of personal information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of personal information for monetary consideration to another person. If you are a Nevada resident who wishes to exercise your opt-out of "sale" rights you can do so by clicking [here](https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783) to manage your technology preferences or turning on a recognized opt-out preference signal, such as [Global Privacy Control](https://globalprivacycontrol.org/) in your browser or extension. If we decline to take action on your request, you may appeal such refusal by sending us an email to [dpo@artsai.com](mailto:dpo@artsai.com) within a reasonable time period after we send you our decision.
+
+Additional Disclosures for Residents of the European Economic Area, Switzerland, and the United Kingdom
+-------------------------------------------------------------------------------------------------------
+
+Legal Basis for Processing
+
+If you interact with our services from the European Economic Area, Switzerland and United Kingdom, our legal basis for collecting and using personal data is legitimate interest with respect to the following activities:
+
+* Ad selection: The interest pursued is the advertiser’s interest in promoting its business. There are also benefits to others, including publishers that can monetise their inventory and end users of the properties who are able to benefit from free or subsidised use of the publisher’s website.
+* Ad measurement: The interest pursued is the advertiser’s interest in measuring the effectiveness of its advertising, which can help to improve future campaigns and reduce wasted expenditure.
 
 Your Data Protection Rights
----------------------------
 
 You have the following data protection rights:
 
-* If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided below under "Contact Us" section.
-* If you are a resident of the European Economic Area, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided below under "Contact Us" section.
-* If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
-* You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+* If you wish to access, correct, update or request deletion of your personal data, you can do so at any time by contacting us using the contact details provided below under [Contact Us](#contact_us) section.
+* You can object to processing of your personal data, ask us to restrict processing of your personal data or request portability of your personal data. Again, you can exercise these rights by contacting us using the contact details provided below under [Contact Us](#contact_us) section.
+* If we have collected and process your personal data with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-Your Choices and Opting-Out of Targeted Ads
--------------------------------------------
+Complaints
 
-We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads (sometimes called "interest-based ads") you receive and how we use your data.
+You have the right to complain to a data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority.
 
-Opting-out of this type of advertising through the below methods will not prevent you from seeing ads, but those ads will likely be less relevant because they will not be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
-
-These settings must be performed on each device (including each internet browser on each device) for which you want to opt-out. For more information on our data collection and processing policies and practices, please review this entire Privacy Policy. Since privacy controls change and are updated from time to time, ArtsAI may modify the following options and information at any time.
-
-* Browser opt-out  
-    
-    To opt-out on internet browsers, use the Browser Opt-Out Using the ArtsAI Opt-Out Cookie or Advertising Industry Sites for Control of Interest-Based Advertising methods described in the menu above. This process will store the ArtsAI opt-out cookie in your browser, which allows us to recognize that browser in the future and respect your opt-out preferences for that browser. The cookie will apply to the specific browser you are using. If you wish to opt out for other browsers that you use, you must repeat the process using these browsers. All other cookies associated with your browser will remain intact and your opt-out will be effective with respect to the browser used as long as you do not delete the cookie file from your hard drive. Please note that if you erase all cookies from your computer, you will also erase our opt-out cookie and will need to repeat the process of opting out.
-    
-    | Your opt-out status for this browser | \-  |
-    | --- | --- |
-    
-    * [Click here](#) to opt-out of the ArtsAI Ad-Serving Cookie and of all non-cookie tracking technologies.
-    * [Click here](#) if you have previously opted out and want to opt in.
-    
-    To opt-out on mobile devices and mobile apps, see Mobile Advertising Identifiers below or refer to [Information on Opting out on Mobile Devices at NAI site.](https://thenai.org/opt-out/mobile-opt-out/)
-    
-* Mobile Advertising Identifiers  
-    Mobile device system software offered by companies such as Apple and Google provide device-based opt out choices that are transmitted to companies providing interest based advertising on mobile devices, which is sometimes referred to as cross-app advertising. Mobile device browsers and applications may also provide certain privacy controls. Most mobile devices offer you the ability to stop the collection of location information at any time by changing the preferences on your device.
-    
-    * iOS 7 or Higher  
-        Go to your Settings > Select Privacy > Select Advertising > Enable the "Limit Ad Tracking" setting
-    * For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher  
-        Open your Google Settings app > Select Ads > Enable "Opt out of interest-based advertising"
-* Industry Opt-Out Tools and Self-Regulation  
-    * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Network Advertising Initiative (NAI). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the NAI website [here](https://optout.networkadvertising.org/?c=1).
-    * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAAC website [here](https://optout.aboutads.info/?lang=EN&lang=EN&c=2).
-    * Finally, we also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt-out via their "Your Online Choices" website [here](https://youradchoices.ca/en/tools).
-
-Privacy Notice And Disclosures For California Residents
--------------------------------------------------------
-
-This section applies solely to the personal data of users who reside in the State of California ("consumers" or "you") and supplements the information contained in ArtsAI’ Privacy Policy. We have included this section to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this notice.
-
-Your Rights and Choices: The CCPA provides consumers with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
-
-* Access to Specific Information and Data Portability Rights. You have the right to request that ArtsAI disclose certain information to you about our collection and use of your personal information over the past 6 months. Once we receive and confirm your verifiable request, we will disclose to you: (i) the categories of personal information we collected about you; (ii) the categories of sources for the personal information we collected about you; (iii) our business or commercial purpose for collecting or selling that personal information; (iv) the categories of third parties with whom we share that personal information, if any; (v) the specific pieces of personal information we collected about you (also called a data portability request); (vi) if we sold or disclosed your personal information for a business purpose, two separate lists disclosing: (a) sales, identifying the personal information categories that each category of recipient purchased; and (b) disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.  
-    
-* Deletion Request Rights. You have the right to request that ArtsAI delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies. We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to: (i) complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you; (ii) detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities; (iii) debug products to identify and repair errors that impair existing intended functionality; (iv) exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law; (v) comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.); (vi) engage in public or peer-reviewed research in accordance with Section 1798.105 (d)(6) of the CCPA; (vii) enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us; (viii) comply with a legal obligation; or (ix) make other internal and lawful uses of that information that are compatible with the context in which you provided it.  
-    
-* Exercising Access, Data Portability, and Deletion Rights. To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by e-mail sent to [dpo@artsai.com](mailto:dpo@artsai.com) or by calling us toll free at 1-866-I-OPT-OUT (1-866-467-8688) and entering service code 813# to leave us a message or by filling-out following web-form  
-    
-
-Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information.
-
-You may only make a verifiable consumer request for access or data portability twice within a 6-month period. The verifiable consumer request must: (i) provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative; and (ii) describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
-
-* Response Timing and Format. We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. Any disclosures we provide will only cover the 6-month period preceding the verifiable consumer request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance. We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.  
-    
-* Non-Discrimination. We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not: (i) deny you goods or services; (ii) Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties; (iii) provide you a different level or quality of goods or services; (iv) suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services. However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information's value and contain written terms that describe the program's material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.  
-    
-
-Additional Information for Connecticut and Virginia Residents
--------------------------------------------------------------
-
-This section applies only to residents of Connecticut. Under Connecticut and Virginia privacy laws in addition to the General Privacy Rights noted above, you may request the additional rights listed below. Please note, these rights are not absolute, and, in some cases, we may not be able to respond to your request, such as when a legal exemption applies or if we are not able to verify your identity.
-
-* Access/Port. You can request that we confirm whether we process your personal information and to access that personal information. You may also request to obtain a copy of personal information that you have previously provided to us in a portable and, to the extent technically feasible, readily usable format.  
-    
-* Opt-out of sales and targeted advertising. If we sell your personal information for monetary consideration or engage in targeted advertising according to Connecticut or Virginia law, you can opt-out.  
-    
-* Right to Non-Discrimination. The VCDPA protects Virginia consumers who exercise their rights from discrimination. ArtsAI will not discriminate against consumers who request access to personal information about them, request deletion, or request that ArtsAI opt them out of future sales.  
-    
-
-You may request to exercise your rights by following the instructions in the Privacy Notice And Disclosures For California Residents section above or be emailing us at [dpo@artsai.com](mailto:dpo@artsai.com). If we decline to take action on your request, you may appeal such refusal by sending us an email to [dpo@artsai.com](mailto:dpo@artsai.com) within a reasonable time period after we send you our decision.
-
-Additional Information for Colorado Residents
----------------------------------------------
-
-This section applies only to Colorado residents and supplements the practices described in this Privacy Notice. Under Colorado law, in addition to all of the rights listed in General Privacy Rights above, you may request the additional rights listed below. Please note, these rights are not absolute, and, in some cases, we may not be able to respond to your request, such as when a legal exemption applies or if we are not able to verify your identity.
-
-* Port. You can request to obtain a copy of personal information in a portable and, to the extent technically feasible, readily usable format.  
-    
-* Opt-out of "sales" and targeted advertising. If we “sell” your personal information or engage in “targeted advertising” according to Colorado law, you can opt-out.  
-    
-
-You may request to exercise your rights by following the instructions in the Privacy Notice And Disclosures For California Residents section above or be emailing us at [dpo@artsai.com](mailto:dpo@artsai.com). If we decline to take action on your request, you may appeal such refusal by sending us an email to [dpo@artsai.com](mailto:dpo@artsai.com) within a reasonable time period after we send you our decision.
-
-Additional Information for Nevada Residents
--------------------------------------------
-
-Nevada Revised Statutes Chapter 603A allows Nevada residents to opt-out of the “sale” of certain types of personal information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of personal information for monetary consideration to another person. If you are a Nevada resident who wishes to exercise your opt-out of "sale" rights you can do so by following the instructions in the Privacy Notice And Disclosures For California Residents section above. If we decline to take action on your request, you may appeal such refusal by sending us an email to [dpo@artsai.com](mailto:dpo@artsai.com) within a reasonable time period after we send you our decision.
-
-Contact Us
-----------
-
-ArtsAI has appointed a Data Protection Officer. If you have any questions or believe your personal information has been used in a way that is not consistent with this policy or applicable legislation, or you have any other data protection related issues or queries, please contact our Data Protection Officer by e-mail sent to [dpo@artsai.com](mailto:dpo@artsai.com).
+ArtsAI has appointed a Data Protection Officer. If you have any questions or believe your personal data has been used in a way that is not consistent with this policy or applicable legislation, or you have any other data protection related issues or queries, please contact our Data Protection Officer by e-mail sent to [dpo@artsai.com](mailto:dpo@artsai.com).
 
 Written inquiries may be addressed to:
 
 Data Protection Officer  
 ArtsAI  
-600 California St,  
-San Francisco, CA 94108, USA
+8044 Montgomery Road, Suite 455  
+Cincinnati, Ohio 45236, USA
 
-More Information
-----------------
-
-To learn more about data collection, online behavioral advertisements, web analytics, cookies or other aspects from the perspective of Internet security and privacy, please visit these public sites: [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.iabeurope.eu](http://www.iabeurope.eu/).
+Data Privacy Framework
 
 ArtsAI complies with the EU-U.S. Data Privacy Framework ("EU-U.S. DPF") and the Swiss-U.S. Data Privacy Framework ("Swiss-U.S. DPF") as set forth by the U.S. Department of Commerce. ArtsAI has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles ("EU-U.S. DPF Principles") with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. ArtsAI has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles ("Swiss-U.S. DPF Principles") with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework ("DPF") program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
 
@@ -343,6 +339,27 @@ Updates
 We may update this policy from time to time. We will post a prominent notice on our website notifying users when it is updated. We ensure that privacy practices described in this privacy policy are up to date and reflect current ad-serving and data collection mechanisms employed by ArtsAI.
 
 This Privacy Policy will always include information on the effective date of the most recent version.
+
+Contact Us
+----------
+
+The controller under this Privacy Policy is:
+
+Adxcel Inc. dba ArtsAI  
+8044 Montgomery Road, Suite 455  
+Cincinnati, Ohio 45236, USA  
+[privacyinfo@claritas.com](mailto:privacyinfo@claritas.com)
+
+European Representative: [EUrep.ArtsAI@lewissilkin.com](mailto:EUrep.ArtsAI@lewissilkin.com)
+
+If you have questions about our practices regarding your information or have trouble accessing this Privacy Policy, please contact us at the postal address or email addresses above. To exercise choice available to you, please use the designated methods listed in this Privacy Policy.
+
+More Information
+----------------
+
+To learn more about data collection, online behavioral advertisements, web analytics, cookies or other aspects from the perspective of Internet security and privacy, please visit these public sites: [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.iabeurope.eu](http://www.iabeurope.eu/).
+
+ArtsAI participates and complies with the rules of an advertising industry framework called the IAB Europe Transparency & Consent Framework (“IAB TCF”), which consists of a set of technical specifications and policies to which members must adhere. AdXcel, Inc. dba ArtsAI IAB TCF Vendor ID: 1330.
 
   
 
