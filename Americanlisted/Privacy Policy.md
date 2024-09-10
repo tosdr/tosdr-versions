@@ -52,6 +52,14 @@ In various places on the Sites, we collect "Personally Identifiable Information,
 * Account information is password protected. Keep your password safe.
 * Americanlisted does not knowingly collect any Personally Identifiable Information from persons under the age of 13, and Americanlisted does not permit persons under the age of 13 to register on the Sites. If Americanlisted learns that a listing is by a person under the age of 13, Americanlisted will remove that listing. Americanlisted, or people that place listings on Americanlisted, may provide links to third party web sites, which may have different privacy practices than Americanlisted. We are not responsible for, nor have any control over, the privacy policies on these third party web sites. We encourage all users to read the privacy policies of every web site you visit.
 
+### Mailing Address
+
+Americanlisted AB  
+Skeppargatan 17  
+114 52 Stockholm  
+Sweden  
+Email: info@americanlisted.com  
+
 **| [About us](https://www.americanlisted.com/about_us.html) | [Management](https://www.americanlisted.com/management.html) | [Do not sell My Information](https://www.americanlisted.com/do_not_sell.html) | [Contact us](https://www.americanlisted.com/contact.html) | [Blog](https://www.americanlisted.com/blog.html) | [Safety](https://www.americanlisted.com/safety.html) | [Rules](https://www.americanlisted.com/terms.html) & [Policies](https://www.americanlisted.com/privacy.html) |**  
   
 **| [Sitemap](https://www.americanlisted.com/sitemap.html) [2](https://www.americanlisted.com/sitemap_2.html) | [Toyota Sunrader For Sale](https://www.americanlisted.com/all_states_0/trailers_mobile_homes_8/sunrader/) | [French Bulldog Puppies For Sale PA](https://www.americanlisted.com/pennsylvania_38/pets_and_animals_47/french+bulldog/) | [Honda CBX For Sale](https://www.americanlisted.com/all_states_0/motorcycles_and_parts_10/honda+cbx/) |  
