@@ -231,14 +231,14 @@ The information collected through Google Analytics cookies about your use of our
 * Improve its materials;
 * Help Website and app owners using Google Analytics to understand how visitors interact with their sites or apps.
 
-For all these activities with the exception of the last bullet point, Google acts as the data controller, and the processing of the data it collects about your use of the Website takes place under its responsibility. [Learn more about Google Analytics Cookie Usage on Websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
+For all these activities with the exception of the last bullet point, Google acts as the data controller, and the processing of the data it collects about your use of the Website takes place under its responsibility. [Learn more about Google Analytics Cookie Usage on Websites](https://support.google.com/analytics/answer/11397207).
 
 However, you can control what information is sent to Google in the following ways:
 
-* If you do not want Google Analytics to be used in your browser, you can [install the Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). [Learn more about Google Analytics and Privacy](https://support.google.com/analytics/answer/6004245?hl=en).
+* If you do not want Google Analytics to be used in your browser, you can [install the Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). [Learn more about Google Analytics and Privacy](https://support.google.com/analytics/answer/6004245).
 * If you are logged in to your Google Account, you can—depending on your account settings—view and edit certain data that Google collects from sites and apps you visit.
-* The [incognito mode in Chrome](https://support.google.com/chrome/answer/95464?hl=en) allows you to browse the internet without having webpages and files recorded in your browser history. Cookies are deleted after you close all incognito windows and tabs. Your bookmarks and settings are saved until you delete them.
-* [Advertising settings](https://adssettings.google.com/authenticated?hl=en) allow you to manage which Google ads you see on the internet. You can find out how ads are selected for you, unsubscribe from ads personalization and block specific advertisers. [Learn more about ads](https://policies.google.com/technologies/ads?hl=en).
+* The [incognito mode in Chrome](https://support.google.com/chrome/answer/95464) allows you to browse the internet without having webpages and files recorded in your browser history. Cookies are deleted after you close all incognito windows and tabs. Your bookmarks and settings are saved until you delete them.
+* [Advertising settings](https://adssettings.google.com/authenticated) allow you to manage which Google ads you see on the internet. You can find out how ads are selected for you, unsubscribe from ads personalization and block specific advertisers. [Learn more about ads](https://policies.google.com/technologies/ads).
 
 **3.4.** Our Website may use the Facebook Pixel. This is an invisible image that is included on the pages of our Website and that is stored on Facebook’s servers. Each time you open a page of our Website where this pixel has been recorded, this pixel is downloaded to your device from that Facebook server. The following data are provided to Facebook: your IP address and the specific characteristics of your device (e.g., type, operating system, specific software and hardware).
 
@@ -304,7 +304,7 @@ If you do not wish to receive certain promotional information, you can adjust yo
 **7.1.** In order to prevent cookies from being placed on your device, you have to configure your browser settings. How to adjust these settings, to delete cookies and to withdraw your consent to our use of cookies depends on the browser you are using. However, keep in mind that modifying these settings or deleting cookies may result in certain features of this Website no longer working properly. Click on the browser you are using below to get more information about how to adjust the cookie settings:
 
 * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* [Chrome](https://support.google.com/chrome/answer/95647?co=genie.platform%3Ddesktop&hl=en)
+* [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop)
 * [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 **8\. WHAT ARE YOUR RIGHTS?**
@@ -346,7 +346,7 @@ If you do not wish to receive certain promotional information, you can adjust yo
 
 We will promptly inform you of having received your request. If the request meets the conditions above and proves valid, we will honor it as soon as reasonably possible and at the latest thirty (30) days after having received your request.
 
-If you have any complaints regarding the processing of your personal data by us, you may always contact our Data Protection Officer by sending an email to: [dpo@scientology.net](mailto:dpo@scientology.net). If you remain unsatisfied with our response, you are free to file a complaint with competent data protection authorities.
+If you have any complaints regarding the processing of your personal data by us, you may always contact our Data Protection Officer by sending an email to: [dpo@scientology.net](mailto:dpo@scientology.net). If you are not located within the European Economic Area, contact us via email at [address@scientology.net](mailto:address@scientology.net). If you remain unsatisfied with our response, you are free to file a complaint with competent data protection authorities.
 
 [![Scientology](/images/scientology-logos/scientology-logo-dark_en.svg)](https://www.scientology.org/)
 
