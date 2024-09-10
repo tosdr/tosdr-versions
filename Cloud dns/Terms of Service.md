@@ -34,7 +34,7 @@
     * [Reverse DNS](https://www.cloudns.net/reverse-dns/)
     * [DNSSEC](https://www.cloudns.net/dnssec/)
     * [DNS Failover](https://www.cloudns.net/dns-failover/)
-    * [Backup DNS**NEW**](https://www.cloudns.net/dns-backups/)
+    * [DNS backups**NEW**](https://www.cloudns.net/dns-backups/)
     * [Managed DNS](https://www.cloudns.net/managed-dns/)
     * [Anycast DNS](https://www.cloudns.net/anycast-dns/)
     * [Monitoring](https://www.cloudns.net/monitoring/)
@@ -54,6 +54,8 @@
     * [SSL/TLS](https://www.cloudns.net/ssl-monitoring/)
     * [TCP](https://www.cloudns.net/tcp-monitoring/)
     * [Firewall](https://www.cloudns.net/firewall-monitoring/)
+    * [SMTP](https://www.cloudns.net/smtp-monitoring/)
+    * [Streaming](https://www.cloudns.net/streaming-monitoring/)
 * [Company](javascript: void(0);)
     * [About Us](https://www.cloudns.net/about-us/)
     * [News](https://www.cloudns.net/news/)
@@ -109,7 +111,7 @@
     * [Reverse DNS](https://www.cloudns.net/reverse-dns/)
     * [DNSSEC](https://www.cloudns.net/dnssec/)
     * [DNS Failover](https://www.cloudns.net/dns-failover/)
-    * [Backup DNS**NEW**](https://www.cloudns.net/dns-backups/)
+    * [DNS backups**NEW**](https://www.cloudns.net/dns-backups/)
     * [Managed DNS](https://www.cloudns.net/managed-dns/)
     * [Anycast DNS](https://www.cloudns.net/anycast-dns/)
     * [Monitoring](https://www.cloudns.net/monitoring/)
@@ -129,6 +131,8 @@
     * [Heartbeat](https://www.cloudns.net/heartbeat-monitoring/)
     * [SSL/TLS](https://www.cloudns.net/ssl-monitoring/)
     * [Firewall](https://www.cloudns.net/firewall-monitoring/)
+    * [SMTP](https://www.cloudns.net/smtp-monitoring/)
+    * [Streaming](https://www.cloudns.net/streaming-monitoring/)
 * [Company](javascript: void(0);)
     * [About Us](https://www.cloudns.net/about-us/)
     * [News](https://www.cloudns.net/news/)
@@ -303,6 +307,8 @@ By continuing to access or use Our Service after those revisions become effectiv
 * [Heartbeat](https://www.cloudns.net/heartbeat-monitoring/)
 * [SSL/TLS](https://www.cloudns.net/ssl-monitoring/)
 * [Firewall](https://www.cloudns.net/firewall-monitoring/)
+* [SMTP](https://www.cloudns.net/smtp-monitoring/)
+* [Streaming](https://www.cloudns.net/streaming-monitoring/)
 
 [Services](https://www.cloudns.net/dns-services/)
 
@@ -318,7 +324,7 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 * [Secondary DNS](https://www.cloudns.net/secondary-dns/)
 * [DNSSEC](https://www.cloudns.net/dnssec/)
-* [Backup DNS](https://www.cloudns.net/dns-backups/)
+* [DNS backups](https://www.cloudns.net/dns-backups/)
 [](https://www.cloudns.net/dns-backups/)* [](https://www.cloudns.net/dns-backups/)[Anycast DNS](https://www.cloudns.net/anycast-dns/)
 * [Email Forwarding](https://www.cloudns.net/email-forwarding/)
 * [Domain names](https://www.cloudns.net/domain-pricing-list/)
@@ -335,6 +341,8 @@ By continuing to access or use Our Service after those revisions become effectiv
 * [Heartbeat](https://www.cloudns.net/heartbeat-monitoring/)
 * [SSL/TLS](https://www.cloudns.net/ssl-monitoring/)
 * [Firewall](https://www.cloudns.net/firewall-monitoring/)
+* [SMTP](https://www.cloudns.net/smtp-monitoring/)
+* [Streaming](https://www.cloudns.net/streaming-monitoring/)
 
 * Company
 * [About Us](https://www.cloudns.net/about-us/)
