@@ -8,7 +8,7 @@
 
 [#### Facilidades](#)
 
-[Adelantos y créditos](https://brubank.com/prestamos)
+[Préstamos y adelantos](https://brubank.com/prestamos)
 
 Muy Pronto
 
@@ -128,6 +128,10 @@ Muy Pronto
 
 Muy Pronto
 
+[Tarjeta de crédito corporativa](https://brubank.com/tarjeta-de-credito-corporativa)
+
+Muy Pronto
+
 [#### Mi Negocio](https://www.brubank.com/mi-negocio)
 
 [Cobros con QR](https://brubank.com/mi-negocio#mi-negocio-cobros)
@@ -196,8 +200,6 @@ Conocé Brubank
 
 Facilidades
 
-[#### Adelantos y créditos](https://brubank.com/prestamos)
-
 [#### Transferencia](https://brubank.com//#transferencia)
 
 [#### BruPlus](http://www.brubank.com/bruplus)
@@ -209,6 +211,8 @@ Facilidades
 [#### Seguros](http://www.brubank.com/seguros)
 
 [#### Préstamos Hipotecarios UVA](http://www.brubank.com/prestamos-hipotecarios-uva)
+
+[#### Préstamos y adelantos](https://brubank.com/prestamos)
 
 Promociones
 
@@ -256,6 +260,8 @@ Nuevo
 
 Pymes
 
+[#### Tarjeta de crédito corporativa](https://brubank.com/tarjeta-de-credito-corporativa)
+
 [#### Cobros](https://brubank.com/empresas-pymes#pymes-cobros)
 
 [#### Pagos](https://brubank.com/empresas-pymes#pymes-pagos)
@@ -285,19 +291,19 @@ Términos y condiciones
 
 #### **Términos y condiciones**
 
-‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b23219ae34bb7ea27dee_Te%CC%81rminos%20y%20Condiciones.pdf)**‍**
+‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66d60a4fb49796f6f091159e_Te%CC%81rminos%20y%20Condiciones.docx)**‍**
 
 #### [**Términos y condiciones - Patear**](https://www.brubank.com/terms-patear)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b24b2be27921d67767ad_Te%CC%81rminos%20y%20Condiciones%20-%20Patear.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66d60a67f1090b16f8fd132b_Te%CC%81rminos%20y%20Condiciones%20-%20Patear.docx)
 
 #### [**Términos y condiciones - BruPlus**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b2c9a101ad8f4be96aa3_Te%CC%81rminos%20y%20Condiciones%20-%20BruPlus.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66d60a8096b5732963f5f50a_Te%CC%81rminos%20y%20Condiciones%20-%20BruPlus.docx)
 
 #### [**Términos y condiciones - Tarjeta de crédito**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b2d971d64ff9a90cde75_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.pdf)**‍**
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66d60a8d05af9919aa50a62b_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.docx)**‍**
 
 #### [**Resumen informativo del contrato**](#)
 
@@ -462,7 +468,7 @@ de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Caja de ahor
 
 [Pymes](https://www.brubank.com/empresas-pymes)
 
-[Mi Negocio](https://www.brubank.com/mi-negocio)
+[Tarjeta de crédito corporativa](https://www.brubank.com/tarjeta-de-credito-corporativa)[Mi Negocio](https://www.brubank.com/mi-negocio)
 
 [#### Seguridad](https://www.brubank.com/sobre-brubank)
 
@@ -478,7 +484,7 @@ de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Caja de ahor
 
 [#### Información importante](#)
 
-[Comisiones vigentes](https://www.brubank.com/comisiones-vigentes)[Régimen de transparencia](https://www.bcra.gob.ar/BCRAyVos/Regimen_de_transparencia.asp)[Usuario Bancario](https://www.bcra.gob.ar/BCRAyVos/Usuarios_Financieros.asp)[Código de conducta](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/64441ad98b79546c8cf3c1a0_CodigoEtica.pdf)[Cuenta Gratuita Universal](https://www.brubank.com/legales-05-cuenta-gratuita-universal)[Código de Gobierno Societario](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/648098306e52ed7cace413c9_CO%CC%81DIGO%20DE%20GOBIERNO%20SOCIETARIO.pdf)[Estados contables](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6643c052f1bea9c4cc42c35b_EEFF%20BRUBANK%2031.12.23..pdf)[FATCA](https://www.brubank.com/legales-04-informacion-al-usuario-financiero)[Defensa de las y los Consumidores Para reclamos ingrese aquí](https://autogestion.produccion.gob.ar/consumidores)[Tasas de plazos fijos](https://help.brubank.com/es/articles/6569889-tasas-plazos-fijos)[Tasas vigentes de préstamos](https://help.brubank.com/es/articles/6565248-tasas-vigentes-prestamo-personal) [Información al usuario financiero](https://www.brubank.com/legales-04-informacion-al-usuario)[Identificación PEP´s](https://www.brubank.com/legales-08-identificacion-peps)[Contrato de adhesion - Ley  24.240 de Defensa del Consumidor](https://www.brubank.com/contrato-de-adhesion-ley-24-240-de-defensa-del-consumidor)
+[Comisiones vigentes](https://www.brubank.com/comisiones-vigentes)[Régimen de transparencia](https://www.bcra.gob.ar/BCRAyVos/Regimen_de_transparencia.asp)[Usuario Bancario](https://www.bcra.gob.ar/BCRAyVos/Usuarios_Financieros.asp)[Código de conducta](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/64441ad98b79546c8cf3c1a0_CodigoEtica.pdf)[Cuenta Gratuita Universal](https://www.brubank.com/legales-05-cuenta-gratuita-universal)[Código de Gobierno Societario](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66e045e1e8fd06956a2e7908_CO%CC%81DIGO%20DE%20GOBIERNO%20SOCIETARIO.pdf)[Estados contables](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6643c052f1bea9c4cc42c35b_EEFF%20BRUBANK%2031.12.23..pdf)[FATCA](https://www.brubank.com/legales-04-informacion-al-usuario-financiero)[Defensa de las y los Consumidores Para reclamos ingrese aquí](https://autogestion.produccion.gob.ar/consumidores)[Tasas de plazos fijos](https://help.brubank.com/es/articles/6569889-tasas-plazos-fijos)[Tasas vigentes de préstamos](https://help.brubank.com/es/articles/6565248-tasas-vigentes-prestamo-personal) [Información al usuario financiero](https://www.brubank.com/legales-04-informacion-al-usuario)[Identificación PEP´s](https://www.brubank.com/legales-08-identificacion-peps)[Contrato de adhesion - Ley  24.240 de Defensa del Consumidor](https://www.brubank.com/contrato-de-adhesion-ley-24-240-de-defensa-del-consumidor)
 
 © Brubank, 2022. Todos los derechos reservados.
 
