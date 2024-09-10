@@ -107,7 +107,6 @@ Join over 14,000 individuals and families managing food allergies who are sharin
 * [Attend an Event](https://www.foodallergy.org/our-initiatives/education-programs-training/special-events)
 * [Join Patient Registry](https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry)
 * [How to Advocate](https://www.foodallergy.org/take-action/how-advocate)
-* [Join the FARE Collaborator Program](https://www.foodallergy.org/take-action/fare-collaborator-program)
 * [FARE Food Allergy Summit](https://www.foodallergy.org/take-action/food-allergy-summit)
 * [Start a Team FARE Fundraising Event](https://www.foodallergy.org/take-action/team-fare)
 * [Host a Hometown Heroes Community Walk](https://www.foodallergy.org/take-action/hometown-heroes-community-walk)
