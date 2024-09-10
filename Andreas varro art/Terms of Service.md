@@ -251,7 +251,7 @@ Any rights not expressly granted herein are reserved.
 If you have questions or concerns about these terms or the products, please contact us through our contact page or through the following contact information:  
 **‍  
 Phone: +46 (0)72 328 95 10  
-Info@andreasvarro.com**
+**[**Contact**](https://www.andreasvarro.com/contact)
 
 **‍**
 
