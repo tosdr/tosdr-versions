@@ -16,6 +16,7 @@ You can revert to English at any time by clicking on the language menu on the to
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
+    * [Hardware Wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware Wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
@@ -232,6 +233,7 @@ Payment methods
 ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/layer1.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-visa-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-maestro-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-mastercard-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-cb-s.png)
 
 * Products
+    * [Hardware Wallet](https://shop.ledger.com/pages/hardware-wallet)
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex)
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x)
