@@ -4,7 +4,7 @@
 
 * [Contact Us](https://www.floridadisaster.org/contact-us/)
 * [Alert Florida](https://apps.floridadisaster.org/alertflorida)
-* [Emergency Information](https://www.floridadisaster.org/info/)
+* [Emergency Information](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
 * [State EOC](https://www.floridadisaster.org/SERT/)
 * [Site Index](https://www.floridadisaster.org/site-index/)
 
@@ -66,6 +66,14 @@ Search
         * [How to Do Business With the State](https://www.floridadisaster.org/dem/procurement-and-contract-management/how-to-do-business-with-the-state/)
     * [Preparedness](https://www.floridadisaster.org/dem/preparedness/)
         * [Grants Unit](https://www.floridadisaster.org/dem/preparedness/grants-unit/)
+            * [Nonprofit Security Grant Program (NSGP)](https://www.floridadisaster.org/dem/preparedness/grants-unit/nonprofit-security-grant-program-nsgp/)
+            * [State Nonprofit Security Grant Program](https://www.floridadisaster.org/dem/preparedness/grants-unit/state-nonprofit-security-grant-program/)
+            * [Urban Area Security Initiative (UASI)](https://www.floridadisaster.org/dem/preparedness/grants-unit/urban-area-security-initiative--uasi/)
+            * [Environmental Planning and Historic Preservation (EHP) Compliance Webinar Recording](https://www.floridadisaster.org/dem/preparedness/grants-unit/environmental-planning-and-historic-preservation-ehp-compliance-webinar-recording/)
+            * [Operation Stonegarden (OPSG)](https://www.floridadisaster.org/dem/preparedness/grants-unit/operation-stonegarden-opsg/)
+            * [State Homeland Security Grant Program (SHGP)](https://www.floridadisaster.org/dem/preparedness/grants-unit/state-homeland-security-grant-program/)
+            * [EM Preparedness and Assistance (EMPA) Grant](https://www.floridadisaster.org/dem/preparedness/grants-unit/em-preparedness-and-assistance-empa--grant/)
+            * [EM Performance Grant (EMPG)](https://www.floridadisaster.org/dem/preparedness/grants-unit/em-performance-grant-empg/)
         * [All-Hazards Unit](https://www.floridadisaster.org/dem/preparedness/all-hazards/)
             * [Comprehensive Emergency Management Plan](https://www.floridadisaster.org/dem/preparedness/all-hazards/comprehensive-emergency-management-plan/)
         * [Regional Evacuation Studies](https://www.floridadisaster.org/dem/preparedness/regional-evacuation-studies/)
@@ -114,13 +122,14 @@ Search
         * [Response Publications](https://www.floridadisaster.org/dem/library/response-publications/)
         * [Special Projects Publications](https://www.floridadisaster.org/dem/library/special-projects-publications/)
 * [Events](https://www.floridadisaster.org/events/)
-    * [EM Day 2024](https://www.floridadisaster.org/events/em-day-2024/)
+    * [EM Day 2025](https://www.floridadisaster.org/events/em-day-2025/)
+    * [HURRIGAINS 5K](https://www.floridadisaster.org/events/hurrigains-5k/)
     * [Florida's Training for Emergency Management (FTEM)](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/)
         * [Leadership Talks](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/leadership-talks/)
         * [Sponsorship Opportunities](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/sponsorship-opportunities/)
     * [2023 Local News & Meteorology Communications Summit](https://www.floridadisaster.org/events/summit/)
     * [2024 Local News & Meteorology Summit](https://www.floridadisaster.org/events/2024-local-news--meteorology-summit/)
-    * [Human Services Summit 2024](https://www.floridadisaster.org/events/human-services-summit-2024/)
+    * [POSTPONED Human Services Summit 2024](https://www.floridadisaster.org/events/human-services-summit-2024/)
 * [Plan & Prepare](https://www.floridadisaster.org/planprepare/)
     * [Florida Hurricane Guide](https://www.floridadisaster.org/planprepare/florida-hurricane-guide/)
     * [Preparing for the Hurricane Season](https://www.floridadisaster.org/planprepare/preparing-for-hurricane-season/)
@@ -153,6 +162,14 @@ Search
 * [Business & Industry](https://www.floridadisaster.org/business/)
 * [News & Media](https://www.floridadisaster.org/news-media/)
     * [News Archive](https://www.floridadisaster.org/news-media/news/)
+* [Disaster Updates](https://www.floridadisaster.org/disaster-updates/)
+    * [Hurricane Debby Updates](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
+    * [June South Florida Flash Flooding Updates](https://www.floridadisaster.org/disaster-updates/june-south-florida-flash-flooding/)
+    * [May North Florida Severe Weather Updates](https://www.floridadisaster.org/disaster-updates/may-north-florida-severe-weather/)
+    * [January Severe Weather Updates](https://www.floridadisaster.org/disaster-updates/storminfo/)
+    * [Hurricane Idalia Updates](https://www.floridadisaster.org/disaster-updates/Idalia/)
+    * [Nicole Recovery Updates](https://www.floridadisaster.org/disaster-updates/nicole/)
+    * [Ian Recovery](https://www.floridadisaster.org/disaster-updates/Ian/)
 * [DEMES](https://www.floridadisaster.org/DEMES/)
 * [RSS 5 Day Weather Outlook](https://www.floridadisaster.org/rss-morning-sitrep2/)
 * [Special Needs Registry](https://www.floridadisaster.org/snr/)
@@ -160,23 +177,13 @@ Search
 
 * [Contact Us](https://www.floridadisaster.org/contact-us/)
 * [Alert Florida](https://apps.floridadisaster.org/alertflorida)
-* [Emergency Information](https://www.floridadisaster.org/info/)
+* [Emergency Information](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
 * [State EOC](https://www.floridadisaster.org/SERT/)
 * [Site Index](https://www.floridadisaster.org/site-index/)
 
  ![](/Content/images/icon-menu.png) MENU
 
-June South FL Flash Flooding [For Updates](https://www.floridadisaster.org/june-south-florida-flash-flooding/)
-
-May Severe Weather Updates [For Recovery Information](https://www.floridadisaster.org/may-north-florida-severe-weather/)
-
-January Severe Weather Updates [For Recovery Information](https://www.floridadisaster.org/storminfo/)
-
-Emergency Info for Idalia [Emergency Info for Idalia](https://www.floridadisaster.org/updates/)
-
-Tropical Storm Nicole [For Recovery Information](https://www.floridadisaster.org/info/nicole/)
-
-Hurricane Ian [For Recovery Information](https://www.floridadisaster.org/info/)
+Hurricane Debby [For Updates](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
 
 Public Notices [Read Here](https://www.floridadisaster.org/public-notices/)
 
@@ -205,9 +212,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, July 29, 2024**
+**Tuesday, September 10, 2024**
 
-**...Dissipating Weak Frontal Boundary Along Northeast Florida Bringing Slightly Drier Conditions...Typical Summertime Thunderstorm Pattern Expected to Develop This Afternoon and Evening Along Sea Breeze Boundaries...Any Thunderstorm That Develops May Be Strong to Severe; Frequent Lightning, Gusty Winds, and Heavy Downpours...Heavy and Torrential Downpours Could Bring Localized Flooding For Portions of Big Bend and South Florida...Warm and Muggy Conditions Expected Statewide...Portions of Panhandle and Western Peninsula Could Briefly See Heat Index Values Near Heat Advisory Criteria...Moderate Risk for Rip Currents Continues for Numerous Panhandle and East Coast Beaches...NHC Monitoring Area of Disturbed Weather Over Central Atlantic That is Expected to Interact With Approaching Tropical Wave; Medium Chance for Development (50%) Through Next 7 Days; No Direct Threat to Florida Through Next 7-10 Days But Continues to Be Monitored...**
+**...Morning Showers Moving Towards Coast and Inland Along Florida East Coast...High Pressure Over Eastern U.S. to Bring Slightly Drier Conditions Throughout Interior North Florida; Keep Shower and Thunderstorm Activity Pinned to Coastlines...Stalled Frontal Boundary Over Northern Gulf and North of I-4 Corridor to Help Shower and Thunderstorm Development...Typical Summertime-Like Thunderstorm Pattern Throughout the Peninsula...Locally Strong to Severe Thunderstorms Possible; Frequent Lightning, Gusty Winds and Heavy Downpours...Flood Watch Contineus Across Portions of Northeast Florida Due to Potential for Localized Flooding With Additional Rainfall...Heavy and Intense Downpours Could Lead to Instances of Localized Flooding Throughout Western Panhandle and Peninsula...Warm and Muggy Conditions South of I-4 To Lead to Triple Digit Heat Index Values; Heat Advisories for Portions of South Florida & Keys...Tropical Moisture Pushing Northward Towards Panhandle From Distant Tropical Storm Francine; Bringing Scattered Showers and Thunderstorms Late this Evening and Overnight...Moderate to High Risk for Rip Currents Along Panhandle and East Coast Beaches due to Breezy Winds and Elevated Surf...Tropical Storm Francine to Move Towards Northwest Gulf of Mexico; No Direct Threat to Florida But to Bring Elevated Surf, Rip Currents and Rain Chances Across Panhandle Beginning Wednesday...Invest 92L Continues to Produce Disorganized Shower and Thunderstorm Activty; No Direct Threat to Florida...Upper-Level Disturbance Forecast to Interact with Tropical Wave Over Eastern Tropical Atlantic; No Direct Threat to Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
