@@ -260,16 +260,6 @@ Quick Links
 
 Privacy Policy
 
-SHOP NOW
-
-30% Off Courses with Coupon Code!
-
-BACK2SCHOOL
-
-Back to School Sale!
-
-   
-
 #### Report
 
 There was a problem reporting this post.
