@@ -1,4 +1,4 @@
-[Log In](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=signup)
+[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
 
 [](https://www.fairgoplus.com/au)
 
@@ -35,19 +35,19 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 ![Visa](/images/payments/visa-new.png)![MasterCard](/images/payments/mc-new.png)![Bitcoin](/images/payments/bitcoin-new.png)![Neosurf](/images/payments/ns-new.png)![Bank Transfer](/images/payments/bt-new.png)![CashToCode-Home Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/LandingPage/CashToCode_eVoucher/CashToCode-Home.png)![FG_home_eZeeWallet_108x23 Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/FG_home_eZeeWallet_108x23.png)  ![AvailableOn](/images/home/available_on.png) 
 
-[Fair Go Lobby](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
+[Fair Go Lobby](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login "log in to fair go casino")
 
-[Create an account](https://cdk.fairgoplus.com:3572/Lobby.aspx?SkinId=1&show=signup "sign up")
+[Create an account](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup "sign up")
 
 [Promotions](https://www.fairgoplus.com/promotions "promotions")
 
-[Koala's Diary](https://www.fairgoplus.com/koalas-diary "koala's diary")
+[Koala's Diary](https://www.fairgoplus.com/koaladiary "koala's diary")
 
 [Videos](https://www.fairgoplus.com/videos "Fair Go casino videos")
 
 [Blog](https://www.fairgoplus.com/blog "fair go blog")
 
-[Reviews](https://www.fairgoplus.com/review "reviews")
+[Reviews](https://www.fairgoplus.com/reviews "reviews")
 
 [Fair Go History](https://www.fairgoplus.com/timeline "timeline")
 
@@ -73,7 +73,7 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Fair Go Bonuses](https://www.fairgocasinobonuses.com/ "Fair Go Bonuses")
 
-[Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino/ "What are Fair Go Free pokies?")
+[Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
 [Banking](https://www.fairgoplus.com/banking "banking")
 
@@ -99,7 +99,7 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling "responsible gaming")
 
-[Sitemap](https://www.fairgoplus.com/sitemap "sitemap")
+[Sitemap](https://www.fairgoplus.com/sitemap.xml "sitemap")
 
 [Twitter](https://twitter.com/FairGoCasino "Follow us on Twitter")
 
