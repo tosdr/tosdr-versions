@@ -1,9 +1,3 @@
-X
-
-All-New & Improved! Take the next generation of the AI Detector Extension wherever you browse.
-
-[Get It Now](https://copyleaks.com/ai-content-detector/extension)
-
 [Skip to content](#content)
 
 [![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3C/svg%3E)
@@ -28,9 +22,13 @@ All-New & Improved! Take the next generation of the AI Detector Extension wherev
     * * * [AI DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
         * * [Plagiarism DetectorInstantly detect direct plagiarism, paraphrased content, similar text, and verify originality.](https://copyleaks.com/plagiarism-detector)
         * * [CodeleaksThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/codeleaks)
-        * * One Year Later: ChatGPT and Education Our Analysis Looks at AI & Plagiarism Use Among Students from Jan 2023 to Jan 2024
+        * * [AI Adoption and Perspectives in Education, 2024
                 
-                [Learn More](https://copyleaks.com/blog/one-year-later-chatgpt-and-education)
+                ![polygon-blue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+                
+                ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
+                
+                This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
                 
     * * * [Gen AI GovernanceEnforce enterprise-wide policies, ensure responsible generative AI adoption, and proactively mitigate all potential risks.](https://copyleaks.com/governance-risk-and-compliance)
         * * [Writing AssistantEmpower error-free writing with suggestions on sentence structure, mechanics, word choice, and more.](https://copyleaks.com/writing-assistant)
@@ -64,17 +62,17 @@ All-New & Improved! Take the next generation of the AI Detector Extension wherev
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![NewsletterQ2_FeaturedImage-v3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20732'%3E%3C/svg%3E)
+        * * [![Globe on top of a book](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20687'%3E%3C/svg%3E)
                 
-                ![NewsletterQ2_FeaturedImage-v3](https://copyleaks.com/wp-content/uploads/2024/07/NewsletterQ2_FeaturedImage-v3-4.jpg)](https://copyleaks.com/blog/whats-new-the-2024-quarter-two-copyleaks-newsletter)
+                ![Globe on top of a book](https://copyleaks.com/wp-content/uploads/2024/09/GlobeFeatureImage.webp)](https://copyleaks.com/blog/accuracy-of-ai-detection-models-for-non-native-english-speakers)
                 
-                [What’s New? The 2024 Quarter Two Copyleaks Newsletter](https://copyleaks.com/blog/whats-new-the-2024-quarter-two-copyleaks-newsletter)
+                [The Accuracy of AI Detection Models for Non-Native English Speakers](https://copyleaks.com/blog/accuracy-of-ai-detection-models-for-non-native-english-speakers)
                 
-                [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20743'%3E%3C/svg%3E)
+                [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20880'%3E%3C/svg%3E)
                 
-                ![](https://copyleaks.com/wp-content/uploads/2024/07/Firefly-technology-aesthetic-with-magnifying-glass-44618-2.webp)](https://copyleaks.com/blog/how-does-ai-detection-work)
+                ![](https://copyleaks.com/wp-content/uploads/2024/08/ResponsibleAIUsage-2.webp)](https://copyleaks.com/blog/why-you-should-use-ai-in-the-new-school-year-overcoming-the-fear-of-ai-detectors)
                 
-                [How Does AI Detection Work?](https://copyleaks.com/blog/how-does-ai-detection-work)
+                [Why You Should Use AI in the New School Year: Overcoming the Fear of AI Detectors](https://copyleaks.com/blog/why-you-should-use-ai-in-the-new-school-year-overcoming-the-fear-of-ai-detectors)
                 
     * * * #### Learn
                 
@@ -83,7 +81,7 @@ All-New & Improved! Take the next generation of the AI Detector Extension wherev
         * * [The Original Source PodcastCopyleaks COO, Shouvik Paul, speaks with leading industry experts on the latest in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
         * * [BlogYour resource for learning about the best plagiarism practices, latest findings, and more.](https://copyleaks.com/blog)
 * [Get a Demo](https://copyleaks.com/book-a-demo)
-* [Try it Now](https://app.copyleaks.com/signup)
+* [Try it Now](https://app.copyleaks.com/dashboard/v1?isGuest=true)
 * [Login](https://app.copyleaks.com/dashboard/v1)
 * [![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
     
@@ -236,15 +234,17 @@ Table of Contents
 
 ![logo](https://copyleaks.com/wp-content/uploads/2023/01/logo.svg)
 
-[![SOC2 & SOC 3 Certified](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20440%20440'%3E%3C/svg%3E)
+[![SOC II and SOC III compliant badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
 
-![SOC2 & SOC 3 Certified](https://copyleaks.com/wp-content/uploads/2024/02/SOC_Badge.png)](https://copyleaks.com/compliance-certifications#soc2)
+![SOC II and SOC III compliant badge](https://copyleaks.com/wp-content/uploads/2023/04/SOC_Badge-300x300.webp)](https://copyleaks.com/compliance-certifications#soc2)
 
-[![pci dss compliant](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20652%20301'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20181%20181'%3E%3C/svg%3E)
 
-![pci dss compliant](https://copyleaks.com/wp-content/uploads/2023/04/pci-dss-compliant-logo-vector-e1601910146456.png)](https://copyleaks.com/compliance-certifications#pci)
+![](https://copyleaks.com/wp-content/uploads/2023/04/PCI-Logo.webp)](https://copyleaks.com/compliance-certifications#pci)
 
-700 Canal St. Stamford, CT 06902 USA
+700 Canal St.
+
+Stamford, CT 06902 USA
 
 [Contact Us](https://copyleaks.com/contact-us)
 
@@ -302,7 +302,7 @@ Resources
 
 [AI Detector Testing Methodology](https://copyleaks.com/ai-content-detector/testing-methodology)
 
-[Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [Rss](https://feeds.buzzsprout.com/2310947.rss)
+[Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [X-twitter](https://x.com/Copyleaks) [Rss](https://feeds.buzzsprout.com/2310947.rss)
 
 [Accessibility](https://copyleaks.com/accessibility)
 
@@ -314,7 +314,7 @@ Resources
 
 [Privacy Policy](https://copyleaks.com/privacy-policy)
 
-[Manage Cookies](javascript:void(0);)
+Manage Cookies
 
 [System Status](https://status.copyleaks.com/)
 
