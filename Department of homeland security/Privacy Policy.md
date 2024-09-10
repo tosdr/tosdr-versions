@@ -114,6 +114,8 @@ Enter Search Term  ![Search](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subthem
     
     [Deferred Action for Childhood Arrivals](https://www.dhs.gov/deferred-action-childhood-arrivals-daca)
     
+    [Fentanyl](https://www.dhs.gov/fentanyl)
+    
     [Honoring Veterans](https://www.dhs.gov/honoring-veterans)
     
     [Independent Review of 2024 Attempted Assassination](https://www.dhs.gov/independent-review-2024-attempted-assassination)
@@ -416,7 +418,7 @@ This page was not helpful because the content
 [Return to top](#)
 
 * [Topics](https://www.dhs.gov/topics "Topics")
-* [News](https://www.dhs.gov/news "News")
+* [News](https://www.dhs.gov/news "DHS News")
 * [In Focus](https://www.dhs.gov/focus)
 * [How Do I?](https://www.dhs.gov/how-do-i)
 * [Get Involved](https://www.dhs.gov/get-involved "Get Involved")
