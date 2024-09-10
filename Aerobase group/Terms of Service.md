@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-* [Here are the munitions Navy jets used for first time against Houthis](https://www.defensenews.com/news/your-navy/2024/07/25/here-are-the-munitions-navy-jets-used-for-first-time-against-houthis/)  
-    07/25/24 12:32pm  
+* [Small fleet, fewer flights weaken Army aircraft training, report says](https://www.defensenews.com/news/your-army/2024/09/09/report-shows-a-smaller-us-army-aircraft-fleet-with-fewer-flying-hours/)  
+    09/09/24 07:45am  
     
-    An F/A-18E Super Hornet fighter jet prepares to take off from the flight deck of the aircraft carrier Dwight D. Eisenhower in January in the Red Sea. (Mass Communication Specialist 3rd Class Janae Chambers/Navy)
+    US soldiers and members of the Indonesian military board a UH-60 Black Hawk. (Spc. William D. Kennedy III/Army)
     
-* [B-1 bomber crash report blasts crew mistakes, culture of ‘complacency’](https://www.defensenews.com/air/2024/07/25/b-1-bomber-crash-report-blasts-crew-mistakes-culture-of-complacency/)  
-    07/25/24 12:00pm  
+* [In first, F-35s land on Finnish highway to drill for future wars](https://www.defensenews.com/air/2024/09/06/in-first-f-35s-land-on-finnish-highway-to-drill-for-future-wars/)  
+    09/06/24 01:50pm  
     
-    A B-1B Lancer bomber that crashed while landing at Ellsworth Air Force Base, South Dakota, on Jan. 4, 2024, skidded 5,000 feet and then erupted into flames. The nearly $451 million bomber was a total loss. (Air Force)
+    The U.S. Air Force landed an F-35 on a Finnish highway for the first time during a recent NATO exercise. (Air Force video)
     
-* [Dassault says Rafale jet production ramp-up hit by supply chain snags](https://www.defensenews.com/global/europe/2024/07/24/dassault-says-rafale-jet-production-ramp-up-hit-by-supply-chain-snags/)  
-    07/24/24 09:57am  
+* [Air Force’s NGAD revamp could open up more business to smaller firms](https://www.defensenews.com/air/2024/09/05/air-forces-ngad-revamp-could-open-up-more-business-to-smaller-firms/)  
+    09/05/24 03:06pm  
     
-    French President Emmanuel Macron speaks with Dassault Aviation's CEO Eric Trappier (2nd L), in front of a model of the French multirole fighter aircraft Dassault Rafale as he visits the International Paris Air Show at the Paris Le Bourget Airport on June 19, 2023. (Photo by Ludovic Marin/POOL/AFP via Getty Images)
+    The 'niche capabilities' smaller firms specialize in will be important parts of a revamped design for the NGAD future fighter system, Air Force officials said. (File)
     
-* [Boeing says it will shun fixed-price contracts for drone wingmen](https://www.defensenews.com/air/2024/07/23/boeing-says-it-will-shun-fixed-price-contracts-for-drone-wingmen/)  
-    07/23/24 12:29pm  
+* [Air Force going ‘line by line’ to bring down nuclear missile costs](https://www.defensenews.com/air/2024/09/04/air-force-going-line-by-line-to-bring-down-nuclear-missile-costs/)  
+    09/04/24 04:56pm  
     
-    The Royal Australian Air Force has experimented with teaming drones up with piloted aircraft through its Loyal Wingman program, which uses Boeing's MQ-28 Ghost Bat. The U.S. Air Force is interested in Australia's experiments with the Ghost Bat as it considers how its own program will take shape. (Boeing Australia)
+    The Air Force "neglected" the complexity of the LGM-35A Sentinel's ground infrastructure, officials said, and is now looking to bring down costs. (Northrop Grumman)
     
 
 Recent parts by keyword  
 
-* [ms90725-11](https://aerobasegroup.com/search/?term=ms90725-11)
-* [mats](https://aerobasegroup.com/search/?term=mats)
-* [rs-196](https://aerobasegroup.com/search/?term=rs-196)
-* [f081](https://aerobasegroup.com/search/?term=f081)
-* [s623](https://aerobasegroup.com/search/?term=s623)
-* [r161](https://aerobasegroup.com/search/?term=r161)
-* [g15011](https://aerobasegroup.com/search/?term=g15011)
+* [mcgill](https://aerobasegroup.com/search/?term=mcgill)
+* [5617760-](https://aerobasegroup.com/search/?term=5617760-)
+* [mms159c0ndt7351](https://aerobasegroup.com/search/?term=mms159c0ndt7351)
+* [MMS-159](https://aerobasegroup.com/search/?term=MMS-159)
+* [92150a125](https://aerobasegroup.com/search/?term=92150a125)
+* [zplm0812](https://aerobasegroup.com/search/?term=zplm0812)
+* [fluke 77](https://aerobasegroup.com/search/?term=fluke+77)
 
 The AeroBase Group Family ..
 
