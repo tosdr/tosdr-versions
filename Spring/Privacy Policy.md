@@ -10,7 +10,7 @@ Spring
 Policies
 ========
 
-[Terms of service](https://teespring.com/policies/spring-terms-of-service?section=terms-of-service)[Privacy policy](https://teespring.com/policies/spring-terms-of-service?section=privacy)[Privacy Shield policy](https://teespring.com/policies/spring-terms-of-service?section=privacy-shield)[Acceptable use](https://teespring.com/policies/spring-terms-of-service?section=acceptable-use)[Intellectual property](https://teespring.com/policies/spring-terms-of-service?section=intellectual-property)[API terms of service](https://teespring.com/policies/spring-terms-of-service?section=api-terms-of-service)[Giveaways terms of service](https://teespring.com/policies/spring-terms-of-service?section=giveaways)[Giveaways privacy notice](https://teespring.com/policies/spring-terms-of-service?section=giveaways-privacy-notice)["Spring Alerts" SMS terms and conditions](https://teespring.com/policies/spring-terms-of-service?section=sms-terms)[Store terms and conditions](https://teespring.com/policies/spring-terms-of-service?section=store-terms-and-conditions)[Custom Domains Subscription Service Terms and Conditions](https://teespring.com/policies/spring-terms-of-service?section=custom-domains-terms-and-conditions)[Mint-On-Demand™ Creator Terms of Service \[BETA\]](https://teespring.com/policies/spring-terms-of-service?section=mint-on-demand-terms-of-service)[SpringMark Service Terms and Conditions \[BETA\]](https://teespring.com/policies/spring-terms-of-service?section=spring-mark-terms-of-service)[Spring Custom Product Master Services Agreement](https://teespring.com/policies/spring-terms-of-service?section=custom-product-master-services-agreement)
+[Terms of service](https://teespring.com/policies/spring-terms-of-service?section=terms-of-service)[Privacy policy](https://teespring.com/policies/spring-terms-of-service?section=privacy)[Privacy Shield policy](https://teespring.com/policies/spring-terms-of-service?section=privacy-shield)[Acceptable use](https://teespring.com/policies/spring-terms-of-service?section=acceptable-use)[Intellectual property](https://teespring.com/policies/spring-terms-of-service?section=intellectual-property)[API terms of service](https://teespring.com/policies/spring-terms-of-service?section=api-terms-of-service)[Giveaways terms of service](https://teespring.com/policies/spring-terms-of-service?section=giveaways)[Giveaways privacy notice](https://teespring.com/policies/spring-terms-of-service?section=giveaways-privacy-notice)["Spring Alerts" SMS terms and conditions](https://teespring.com/policies/spring-terms-of-service?section=sms-terms)[Store terms and conditions](https://teespring.com/policies/spring-terms-of-service?section=store-terms-and-conditions)[Custom Domains Subscription Service Terms and Conditions](https://teespring.com/policies/spring-terms-of-service?section=custom-domains-terms-and-conditions)[Spring Custom Product Master Services Agreement](https://teespring.com/policies/spring-terms-of-service?section=custom-product-master-services-agreement)
 
 Welcome to Spring!
 ------------------
@@ -255,11 +255,7 @@ Policies
 
 +](https://teespring.com/policies/spring-terms-of-service?section=store-terms-and-conditions)[Custom Domains Subscription Service Terms and Conditions
 
-+](https://teespring.com/policies/spring-terms-of-service?section=custom-domains-terms-and-conditions)[Mint-On-Demand™ Creator Terms of Service \[BETA\]
-
-+](https://teespring.com/policies/spring-terms-of-service?section=mint-on-demand-terms-of-service)[SpringMark Service Terms and Conditions \[BETA\]
-
-+](https://teespring.com/policies/spring-terms-of-service?section=spring-mark-terms-of-service)[Spring Custom Product Master Services Agreement
++](https://teespring.com/policies/spring-terms-of-service?section=custom-domains-terms-and-conditions)[Spring Custom Product Master Services Agreement
 
 +](https://teespring.com/policies/spring-terms-of-service?section=custom-product-master-services-agreement)
 
