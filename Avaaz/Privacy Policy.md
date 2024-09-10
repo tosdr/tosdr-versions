@@ -7,7 +7,7 @@ By continuing you accept Avaaz's [Privacy Policy](https://secure.avaaz.org/en/pr
 
 Got it
 
-[![AVAAZ.org: The World in Action](/campaign/static/images/blue/logo_en.png?1722004964)](https://secure.avaaz.org/page/en/)
+[![AVAAZ.org: The World in Action](/campaign/static/images/blue/logo_en.png?1724342935)](https://secure.avaaz.org/page/en/)
 
 [العربية](https://secure.avaaz.org/ar/) [Deutsch](https://secure.avaaz.org/de/) [Русский](https://secure.avaaz.org/ru/) [Français](https://secure.avaaz.org/fr/) [Español](https://secure.avaaz.org/es/) [Português](https://secure.avaaz.org/po/) [한국어](https://secure.avaaz.org/kr/) [繁體中文](https://secure.avaaz.org/ct/) [日本語](https://secure.avaaz.org/jp/) [Nederlands](https://secure.avaaz.org/nl/) [Italiano](https://secure.avaaz.org/it/) [עברית](https://secure.avaaz.org/he/) [Türkçe](https://secure.avaaz.org/tr/) [Polski](https://secure.avaaz.org/pl/) [Română](https://secure.avaaz.org/ro/) [ΕΛΛΗΝΙΚΑ](https://secure.avaaz.org/el/)
 
