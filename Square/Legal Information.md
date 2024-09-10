@@ -333,9 +333,9 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Terms of Service](https://squareup.com/legal/general/ua)
 
-[Government](https://squareup.com/legal/general/gov)
-
 [Licenses](https://squareup.com/legal/general/licenses)
+
+[Government](https://squareup.com/legal/general/gov)
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
@@ -346,6 +346,8 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 [California Consumer Privacy Act (CCPA) Request Metrics](https://squareup.com/legal/general/ccpa-metrics)
 
 [Hardware Compliance Certifications](https://squareup.com/legal/general/dc)
+
+[Square Checking Terms of Service](https://squareup.com/legal/general/sqchecking-tos)
 
 [Developer Terms of Service](https://squareup.com/legal/general/developers)
 
@@ -361,6 +363,8 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Hardware Policies and Limited Warranty](https://squareup.com/legal/general/hardware)
 
+[Square for Franchises Terms of Service](https://squareup.com/legal/general/franchise)
+
 [Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
 
 [Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
@@ -373,14 +377,13 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Bill Pay Terms](https://squareup.com/legal/general/billpay)
 
-[Square Checking Terms of Service](https://squareup.com/legal/general/sqchecking-tos)
-
 [Products](#)
 
 * [Commerce](https://squareup.com/us/en/commerce)
 * [Point of sale](https://squareup.com/us/en/point-of-sale)
 * [Payments](https://squareup.com/us/en/payments)
 * [Online](https://squareup.com/us/en/online-store)
+* [Kiosk](https://squareup.com/us/en/point-of-sale/restaurants/kiosk-software)
 * [Invoices](https://squareup.com/us/en/invoices)
 * [Customers](https://squareup.com/us/en/customers)
 * [Marketing](https://squareup.com/us/en/marketing)
