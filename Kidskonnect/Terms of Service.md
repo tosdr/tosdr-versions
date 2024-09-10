@@ -10,7 +10,7 @@
 * [Login](https://kidskonnect.com/login/)
 * [](#)
 
-[](#)Menu ![Menu Icon](data:image/svg+xml;nitro-empty-id=NDU5OjIx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNjAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) 
+[](#)Menu ![Menu Icon](data:image/svg+xml;nitro-empty-id=NDYwOjIx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNjAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) 
 
 * [Home](https://kidskonnect.com/)
 * [Membership](https://kidskonnect.com/membership/)
@@ -91,13 +91,9 @@ Your continued use of the Service after the Subscription fee change comes into e
 
 Except when required by law, paid Subscription fees are non-refundable for new subscriptions and renewals of existing subscriptions. Because of the digital nature of the subscription, access to benefits is instant and all content and features can be evaluated with a free membership without subscribing. Furthermore, automatic renewal on Premium subscriptions can be disabled by the user in their user account. It is the user’s responsibility to disable automatic renewals.
 
-**Content**
+**Limited User**
 
-Our Service allows you to post, link, store, share, and otherwise make available certain information, text, graphics, videos, or other material (“Content”). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
-
-By posting Content to the Service, you grant us the right and world-wide, royalty-free, and non-exclusive license to use, modify, publicly perform, publicly display, reproduce, distribute, or sell access to such Content on and through the Service. You retain any and all of your rights to any Content you submit, post, or display on or through the Service and you are responsible for protecting those rights. You agree that this license includes the right for us to make your Content available to other users of the Service, who may also use your Content subject to these Terms.
-
-You represent and warrant that: (i) the Content is yours (you own it) or you have the right to use it and grant us the rights and license as provided in these Terms, and (ii) the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person.
+The User agrees and undertakes not to reverse engineer, modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, products or software obtained from the Website. Limited reproduction and copying of the content of the Website is permitted provided that KidsKonnect.com’s name is stated as the source and prior written permission of A is sought. For the removal of doubt, it is clarified that unlimited or wholesale reproduction, copying of the content for commercial or non-commercial purposes and unwarranted modification of data and information within the content of the Website is not permitted. Products are licensed for personal use for one individual. Forwarding and distributing to others to use is against the terms of service and will result in the order becoming invalid. Such distribution breaches our copyright and intellectual property. Download links will remain valid for two years after purchase. Products are designed to be used in print format. They may also be viewed online with a PDF reader but may not be edited or altered in any way.
 
 **Accounts**
 
