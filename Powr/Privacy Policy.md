@@ -58,24 +58,6 @@ Reset Password
 
 [Sign Up FREE](#) [Log In](#)
 
-We, and our trusted partners, use cookies to give you the best online experience on this site and beyond. By accepting, you authorize the use of cookies on the POWR website.
-
-More information
-
-I accept
-
-We, and our trusted partners, place cookies on your device to help make this website better.
-
-Some of these cookies are essential to making our site and plugins work, while others provide insight into how our site is being used.
-
-These cookies are set when you submit a form, login or interact with the site beyond simple navigation.
-
-We also allow third-party cookies on our site, enabling our trusted partners to display personalized content and advertisements throughout your online experience. [You may opt out of these programs on this page](https://powr-support.zendesk.com/hc/en-us/articles/360000278493).
-
-To disable third party cookies, you can [adjust your browser settings](https://powr-support.zendesk.com/hc/en-us/articles/360000278313).
-
-By using our site you accept the terms of our [Privacy Policy](https://www.powr.io/privacy) and authorize the use of cookies on the POWR website.
-
 [](https://www.powr.io/)
 
 * [Plugins](https://www.powr.io/plugins)
