@@ -52,9 +52,6 @@ Una puerta abierta a tu mundo interno
 * [Quienes somos](https://meditabarcelona.org/quienes-somos/)
 * [Privacidad](https://meditabarcelona.org/politica-privacidad/)
 
-* [Portada](https://meditabarcelona.org/)
-* Política de privacidad
-
 Quiénes somos
 -------------
 
