@@ -71,7 +71,7 @@ Search:
 * [Privacy policy](https://letterboxd.com/legal/privacy-policy/)
 * [Community policy](https://letterboxd.com/legal/community-policy/)
 * [Giveaway rules](https://letterboxd.com/legal/giveaway-rules/)
-* [Poster sweeps](https://letterboxd.com/legal/poster-sweeps/)
+* [Sweepstakes rules](https://letterboxd.com/legal/sweepstakes-rules/)
 
 Privacy policy
 ==============
