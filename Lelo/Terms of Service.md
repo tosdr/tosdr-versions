@@ -5,7 +5,7 @@
 Main navigation
 ---------------
 
-* [prime deals](https://www.lelo.com/discount-and-deals)
+* [labor day sale](https://www.lelo.com/discount-and-deals)
 * [Best Selling Sex Toys](https://www.lelo.com/bestsellers)
 * [Sex Toys for Women](https://www.lelo.com/sex-toys-for-women)
     * [VIEW ALL PRODUCTS](https://www.lelo.com/sex-toys-for-women)
@@ -28,9 +28,10 @@ Main navigation
     * [VIEW ALL PRODUCTS](https://www.lelo.com/sex-toys-for-couples)
     * [Remote Controlled Vibrators](https://www.lelo.com/remote-controlled-vibrators)
     * [Wearable Vibrators](https://www.lelo.com/wearable-vibrators)
-* [Bundles](https://www.lelo.com/bundles)
+* [Bundles](https://www.lelo.com/pleasure-sets)
 * [Lubricants](https://www.lelo.com/lubricants)
-* [Sex Accessories](https://www.lelo.com/sex-accessories)
+* [Sex Accessories](https://www.lelo.com/sensual-accessories)
+* [Sensual lingerie](https://www.lelo.com/lingerie)
 * [Intimina by LELO](https://www.lelo.com/intimina-lelo)
 * [Luxury Sex Toys](https://www.lelo.com/luxury-dildos)
 * [LELO MAKEUP™](https://www.lelo.com/makeup)
@@ -70,7 +71,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-LAST CALL TO SAVE UP TO 50% OFF + WIN A FREE TOY
+LABOR DAY DEALS - SAVE UP TO 50% + GET A FREE TOR™ 2
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
