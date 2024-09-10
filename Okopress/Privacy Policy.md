@@ -6,7 +6,7 @@
 
 0:00
 
-Audio AI
+Audio
 
 Menu
 
@@ -152,7 +152,7 @@ Nasze Sociale
 * [Twitter](https://twitter.com/oko_press "Twitter")
 * [Youtube](https://www.youtube.com/channel/UCgL0f77U3iEPSSU-Mv5yV5g "Youtube")
 * [Instagram](https://www.instagram.com/oko.press/ "Instagram")
-* [Spotify](https://open.spotify.com/show/1kY36eeQ2HuQVH1hx27FyS "Spotify")
+* [Spotify](https://open.spotify.com/show/5VT2reIZuuM4zDLYqluoXL "Spotify")
 * [Linkedin](https://www.linkedin.com/company/oko-press/ "Linkedin")
 * [Google News](https://news.google.com/publications/CAAiEGYSkp3as7HPQ8kTGP1yxGQqFAgKIhBmEpKd2rOxz0PJExj9csRk?hl=pl&gl=PL&ceid=PL%3Apl "Google News")
 
