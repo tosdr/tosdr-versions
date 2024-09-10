@@ -75,7 +75,11 @@ Get started with a FREE quote.
 
  Make
 
+* Select Year First...
+
  Model
+
+* Select Make First...
 
 [Get a FREE Quote](#)
 
@@ -205,9 +209,13 @@ Make
 
  Make
 
+* Select Year First...
+
 Model
 
  Model
+
+* Select Make First...
 
 ZIP Code
 
@@ -279,6 +287,17 @@ Send Message
 
 Δ
 
+Get this deal! Call now.
+------------------------
+
+Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
+
+[Call 866-678-4172](tel:866-678-4172)
+
+No thanks, I'll continue unprotected
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
+
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
@@ -296,9 +315,13 @@ Make
 
  Make
 
+* Select Year First...
+
 Model
 
  Model
+
+* Select Make First...
 
 Estimated Mileage
 
