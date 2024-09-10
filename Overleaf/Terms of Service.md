@@ -8,6 +8,7 @@
     * [For universities](https://www.overleaf.com/for/universities)
     * [For publishers](https://www.overleaf.com/for/publishers)
     * [For teaching](https://www.overleaf.com/for/edu)
+    * [For government](https://www.overleaf.com/for/government)
 * [Templates](https://www.overleaf.com/latex/templates)
 * [Plans & Pricing](https://www.overleaf.com/user/subscription/plans)
 * [Help](#)
@@ -519,6 +520,7 @@ Plans & pricing
 * [For enterprise](https://www.overleaf.com/for/enterprises)
 * [For universities](https://www.overleaf.com/for/universities)
 * [For students](https://www.overleaf.com/user/subscription/plans?itm_referrer=footer-for-students#student-annual)
+* [For government](https://www.overleaf.com/for/government)
 
 Get involved
 ------------
