@@ -4,8 +4,8 @@
 
 Menu
 
-* [Sign Up](https://www.bettycrocker.com/user-profile/register?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=true&escr=11275&RegAction=HEADERJOINLOGIN)
-* [Log In](https://www.bettycrocker.com/user-profile/login?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=false&escr=11275&RegAction=HEADERJOINLOGIN)
+* [Sign Up](https://www.bettycrocker.com/user-profile/register?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=true&esrc=11275&RegAction=HEADERJOINLOGIN)
+* [Log In](https://www.bettycrocker.com/user-profile/login?returnUrl=%2fcoupons-promotions%2fsweepstakes%2f25th-cookie%2frules&isRegistrationFirstStep=false&esrc=11275&RegAction=HEADERJOINLOGIN)
 
 * [Recipes](https://www.bettycrocker.com/recipes)
     
@@ -19,8 +19,6 @@ Menu
         * [Mexican Recipes](https://www.bettycrocker.com/recipes/global-cuisine/mexican-recipes)
         * [Browse All Recipes](https://www.bettycrocker.com/recipes)
     * [Recipes Just For You](https://www.bettycrocker.com/user-profile/just-for-you)
-        
-    * [Betty Makers](https://www.bettycrocker.com/betty-makers)
         
     
     * [Breakfast + Brunch](https://www.bettycrocker.com/recipes/courses/breakfast-and-brunch-recipes)
@@ -52,7 +50,7 @@ Menu
     * [Side Dish](https://www.bettycrocker.com/recipes/courses/side-dish-recipes)
         * [Vegetable Recipes](https://www.bettycrocker.com/recipes/courses/side-dish-recipes/vegetable-side-recipes)
         * [Potato Recipes](https://www.bettycrocker.com/recipes/courses/side-dish-recipes/potato-side-dish-recipes)
-        * [Beans & Grains Recipes](https://www.bettycrocker.com/recipes/courses/side-dish-recipes/beans-grains)
+        * [Legume and Grain Recipes](https://www.bettycrocker.com/recipes/courses/side-dish-recipes/beans-grains)  
         * [Stuffing and Dressing Recipes](https://www.bettycrocker.com/recipes/dishes/stuffing-and-dressing-recipes)
     
 * [Holidays + Celebrations](https://www.bettycrocker.com/special-occasions)
@@ -64,15 +62,29 @@ Menu
         * [Wedding Recipes](https://www.bettycrocker.com/special-occasions/wedding-recipes)
         * [View All Holidays & Celebrations](https://www.bettycrocker.com/special-occasions)
     * Trending Recipes
-        * [Ultimate Chocolate Chip Cookies](https://www.bettycrocker.com/recipes/ultimate-chocolate-chip-cookies/77c14e03-d8b0-4844-846d-f19304f61c57)
+        * [Homemade Chocolate Chip Cookies](https://www.bettycrocker.com/recipes/homemade-chocolate-chip-cookies/77c14e03-d8b0-4844-846d-f19304f61c57)
         * [Easy Pineapple Upside-Down Cake](https://www.bettycrocker.com/recipes/easy-pineapple-upside-down-cake/c4d3321d-fad9-41cb-8f29-8d91a4279b07)
         * [Vanilla Buttercream Frosting](https://www.bettycrocker.com/recipes/vanilla-buttercream-frosting/39107a19-be94-4571-9031-f1fc5bd1d606)
-        * [Classic Meatballs](https://www.bettycrocker.com/recipes/classic-meatballs/2959910f-1b27-438a-9085-d40b1950db20)
+        * [Simple Meatball Recipe](https://www.bettycrocker.com/recipes/simple-meatball-recipe/2959910f-1b27-438a-9085-d40b1950db20)
         * [Stuffed Peppers](https://www.bettycrocker.com/recipes/stuffed-peppers/63e29e18-903e-467c-aec5-fba4ce3a138f)
     
     * [Easy Entertaining](https://www.bettycrocker.com/special-occasions/easy-entertaining)
         * [Make-Ahead Apps to Make the Party](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/recipes/best-make-ahead-appetizers)
         * [Zero-Effort Slow-Cooker Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/recipes/easy-slow-cooker-recipes)
+    * [Back to School](https://www.bettycrocker.com/special-occasions/back-to-school)
+        * [Back to School Breakfast](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/seasonal-ideas/15-back-to-school-breakfasts)
+        * [Back to School Lunch Ideas](https://www.bettycrocker.com/how-to/tipslibrary/misc/pack-your-bags-great-school-lunches)
+        * [Back to School Snack Ideas](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/seasonal-ideas/10-new-ideas-for-back-to-school-snacks)
+    * [Halloween](https://www.bettycrocker.com/special-occasions/halloween)
+        * [Halloween Cookie Recipes](https://www.bettycrocker.com/recipes/dishes/cookie-recipes/halloween-cookies)
+        * [Halloween Cake Recipes](https://www.bettycrocker.com/recipes/dishes/cake-recipes/halloween-cake-recipes)
+        * [Halloween Cupcake Recipes](https://www.bettycrocker.com/recipes/dishes/cupcake-recipes/halloween-cupcake-recipes)
+    * [Thanksgiving](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes)
+        * [Thanksgiving Dessert Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/desserts)
+        * [Turkey Recipes](https://www.bettycrocker.com/recipes/main-ingredient/turkey-recipes)
+        * [Thanksgiving Side Dish Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/sides)
+        * [Thanksgiving Appetizer Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/thanksgiving-appetizers)
+        * [Thanksgiving Pie Recipes](https://www.bettycrocker.com/recipes/dishes/pie-and-tart-recipes/thanksgiving)
     * Ovens Off
         * [Grilling Recipes](https://www.bettycrocker.com/recipes/preparation/grill-recipes)
         * [Salad Recipes](https://www.bettycrocker.com/recipes/dishes/salad-recipes)
@@ -120,7 +132,7 @@ Menu
         
     * [Betty Crocker™ Gluten Free Baking Mixes](https://www.bettycrocker.com/products/gluten-free-baking-mix)
         
-    * [Betty Crocker Co-Branded Desserts](https://www.bettycrocker.com/products/betty-crocker-co-branded-desserts)
+    * [Betty Exclusives](https://www.bettycrocker.com/products/betty-exclusives)
         
     * [Bisquick™](https://www.bettycrocker.com/products/bisquick)
         
@@ -132,8 +144,6 @@ Menu
         
     * [Fruit Snacks](https://www.bettycrocker.com/products/fruit-snacks)
         
-    * [Betty Crocker™ Pancake Mix](https://www.bettycrocker.com/products/betty-crocker-pancake-mix)
-        
     * [Betty Crocker™ Pizza Crust Mix](https://www.bettycrocker.com/products/betty-crocker-pizza-mix)
         
     * [Bakeware & Kitchen Tools](https://www.bettycrocker.com/products/bakeware-and-kitchen-tools)
@@ -142,6 +152,23 @@ Menu
         
     
 * [Let's Get Making](https://www.bettycrocker.com/lets-get-making)
+    
+    * [Let's Get Making](https://www.bettycrocker.com/lets-get-making)
+        
+    * [Cookie of the Week](https://www.bettycrocker.com/lets-get-making/cookie-of-the-week)
+        
+    * [Dessert of the Month](https://www.bettycrocker.com/lets-get-making/dessert-of-the-month)
+        
+    
+* [Wicked x Betty](https://www.bettycrocker.com/wicked)
+    
+    * [Wicked x Betty Exclusives](https://www.bettycrocker.com/wicked)
+        
+    * [Elphaba](https://www.bettycrocker.com/wicked/elphaba)
+        
+    * [Glinda](https://www.bettycrocker.com/wicked/glinda)
+        
+    
 
 * Save
     
