@@ -1,6 +1,6 @@
 1
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -66,7 +66,11 @@ to only processing activities that may involve the transfer of Personal Data fro
 
 Union, European Economic Area, United Kingdom, and/or other countries with similar
 
-adequacy or equivalency standards pertaining to cross-border data transfers).
+adequacy or equivalency standards pertaining to cross-border data transfers). Further, it
+
+represents contractual provisions serving as safeguards for safe personal data transfers
+
+required by applicable data protection laws.
 
 
 
@@ -76,7 +80,7 @@ reference.
 
 2
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -168,15 +172,15 @@ with the documented instructions of Controller (the "Permitted Purpose") as docu
 
 Supplier shall immediately inform Controller if it becomes aware that Controller's Processing
 
+3
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
+
 instructions infringe Applicable Data Protection Law. In no event shall Supplier process the Personal
 
 Data for its own purposes or those of any third-party, including for marketing purposes. For the
-
-3
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
-
 
 avoidance of doubt, Supplier shall not send marketing or otherwise promotional communications to
 
@@ -252,6 +256,34 @@ Permitted Purpose. Furthermore, Supplier shall not commercially exploit the Pers
 
 
 
+a. Use of Artificial Intelligence: Supplier uses Artificial Intelligence technology (the “AI”) in
+
+relation to some of its offering (LanSchool On-Task Monitoring). The AI is leveraged to
+
+interpret the meaning of the classroom objective and to analyze student data (already
+
+captured). It does not collect any additional information from users beyond regular product
+
+requirements. No automated decision-making, beyond simple identification, should be
+
+triggered. The AI will not provide any output that constitutes unlawful discrimination or
+
+bias or infringement of intellectual property rights. The Supplier has a process in place to
+
+4
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
+
+address issues related to quality and safety of the AI System outputs, including any unlawful
+
+discrimination or bias in those outputs. The Supplier complies with applicable data
+
+protection legislation in respect of the AI.
+
+
+
 Security: The Processor shall implement appropriate technical and organizational measures to protect
 
 the Personal Data (i) from accidental or unlawful destruction, and (ii) loss, alteration, unauthorized
@@ -259,10 +291,6 @@ the Personal Data (i) from accidental or unlawful destruction, and (ii) loss, al
 disclosure of, or access to the Personal Data (a "Security Incident"). Annex C contains LanSchool Air
 
 Technical and Organizational Measures (TOMs).
-
-4
-
-LanSchool Air Data Processor Agreement v009 March 2024
 
 
 
@@ -288,11 +316,11 @@ subprocessor it appoints that protect the Personal Data to the same standard pro
 
 DPA. If Controller refuses to consent to Supplier's appointment of a new third-party subprocessor,
 
-which should not be withheld unreasonably, then either Supplier will not appoint the subprocessor or
+which should not be withheld unreasonably, then either Supplier will not appoint the subprocessor
 
-Controller may elect to terminate the Agreement, provided that the Controller has substantial and
+or Controller may elect to terminate the Agreement, provided that the Controller has substantial
 
-documented reasons for objection to the change.
+and documented reasons for objection to the change.
 
 
 
@@ -338,29 +366,31 @@ retention schedule, as laid out in Annex A, will apply. This requirement shall n
 
 that Supplier is required by any applicable Data Protection Law to retain some or all of the Personal
 
+5
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
+
 Data, in which event Supplier shall isolate and protect the Personal Data from any further Processing
 
 except to the extent required by such law.
 
-5
-
-LanSchool Air Data Processor Agreement v009 March 2024
 
 
+Audit: During the term of this Agreement and for three years after termination or expiration,
 
-Audit: During the term of this Agreement and for three years after termination or expiration, Supplier
+Supplier shall permit Controller (or its third-party auditors) to audit Supplier's compliance at its own
 
-shall permit Controller (or its third-party auditors) to audit Supplier's compliance at its own expense
+expense and shall make available to Controller information necessary for Controller (or its third-
 
-and shall make available to Controller information necessary for Controller (or its third-party auditors)
+party auditors) to conduct such audit, provided that such audit request is reasonable in scope and
 
-to conduct such audit, provided that such audit request is reasonable in scope and that Controller
+that Controller gives it reasonable prior notice of its intention to audit. Controller will not exercise
 
-gives it reasonable prior notice of its intention to audit. Controller will not exercise its audit rights
+its audit rights more than once in any twelve (12) calendar month period, except if and when
 
-more than once in any twelve (12) calendar month period, except if and when required by instruction
-
-of a competent data protection authority.
+required by instruction of a competent data protection authority.
 
 
 
@@ -402,7 +432,7 @@ Title: \____________________________
 
 6
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -636,7 +666,7 @@ Customer Data).
 
 7
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -832,7 +862,7 @@ Customer Data).
 
 8
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1006,7 +1036,7 @@ Analysis (survey, test,
 
 9
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1018,7 +1048,7 @@ study, interpret, organize,
 
 report, or otherwise
 
-analyse Customer Data).
+analyze Customer Data).
 
 
 
@@ -1078,7 +1108,7 @@ Customer Data).
 
 10
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1096,15 +1126,17 @@ All user data as described in
 
 Annex A
 
-AU, US, UK (regional
+AU, US, or UK
 
-transfer restrictions are
+(regional transfer
 
-applied, meaning e.g.
+restrictions are applied,
 
-European data stored
+meaning e.g. European
 
-exclusively in the UK).
+data stored exclusively
+
+in the UK).
 
 
 
@@ -1119,24 +1151,6 @@ infrastructure. All
 Data is processed by
 
 the application.
-
-Canny Feedback sent by customers,
-
-email addresses and hashes of
-
-the user first name, last name,
-
-and user id
-
-
-
-US Help users provide
-
-enhancement
-
-requests.
-
-
 
 Datadog Application data, IP address
 
@@ -1156,53 +1170,7 @@ Industry
 
 
 
-Hubspot’s product
-
-infrastructure is
-
-hosted on Amazon
-
-Web Services (AWS)
-
-in the United States
-
-East region. HubSpot
-
-leverages the Google
-
-Cloud Platform (GCP)
-
-in the EU (Frankfurt,
-
-Germany region) to
-
-support the
-
-processing of local
-
-customer data that is
-
-critical to our
-
-customers'
-
-businesses. This
-
-includes leads, email
-
-events, and analytics.
-
-
-
-On-boarding.
-
-
-
-Loggly Application data, IP address
-
-and username
-
-US Log collection tool
+US, EU On-boarding.
 
 
 
@@ -1210,15 +1178,17 @@ MongoDB Atlas All user data as described in
 
 Annex A
 
-AU, US, UK (regional
+AU, US, or UK
 
-transfer restrictions are
+(regional transfer
 
-applied, meaning e.g.
+restrictions are applied,
 
-European data stored
+meaning e.g. European
 
-exclusively in the UK).
+data stored exclusively
+
+in the UK).
 
 
 
@@ -1230,11 +1200,11 @@ run correctly.
 
 Pendo Application usage analytics,
 
-visitor first name, last name,
+user-submitted feedback, end
 
-email)
+user first name, last name,
 
-Organization Name
+email, and organization name.
 
 
 
@@ -1264,15 +1234,13 @@ establishing live event
 
 streaming and
 
-11
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
-
-
 telephony
 
 connectivity.
+
+11
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1304,39 +1272,9 @@ level access and interfaces).
 
 Encryption Data storage at rest \& in transit. AES 256-GCM (at rest),
 
-TLS 1.2 (in transit)
-
-Protocol TLS 1.3 (in transit)
+TLS 1.2, 1.3 (in transit)
 
 
-
-Supported TLS Ciphers
-
-TLS_AES_128_GCM_SHA256
-
-TLS_AES_256_GCM_SHA384
-
-TLS_CHACHA20_POLY1305_
-
-SHA256
-
-ECDHE-ECDSA-AES128-
-
-GCM-SHA256
-
-ECDHE-RSA-AES128-GCM-
-
-SHA256
-
-ECDHE-ECDSA-AES256-
-
-GCM-SHA384
-
-ECDHE-RSA-AES256-GCM-
-
-SHA384
-
-(server preferred cipher suites).
 
 Static application
 
@@ -1402,12 +1340,6 @@ software-defined networks
 
 (SDNs)
 
-12
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
-
-
 (identify network segmentation, firewall
 
 configuration, and resource access
@@ -1455,6 +1387,12 @@ for application purposes.
 Infrastructure as code Cloud platform provider. Infrastructure as code is used
 
 to automate infrastructure
+
+12
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
 
 deployments and improve the
 
@@ -1548,12 +1486,6 @@ not having an active license or
 
 trial, personal data will be
 
-13
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
-
-
 archived. Archived data is
 
 purged after 90 days.
@@ -1598,8 +1530,6 @@ guide to maximize RTO and
 
 RPO.
 
-
-
 Backup policy Databases,
 
 
@@ -1608,15 +1538,17 @@ Code,
 
 
 
-Logs.
-
-
-
 The general policy requires
 
 multiple backups, one of which
 
-must be offsite from the
+13
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
+
+Logs. must be offsite from the
 
 primary storage location,
 
@@ -1666,10 +1598,6 @@ retained for 360 days and then
 
 purged.
 
-14
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
 
 
 Web Application Firewall – Logs
@@ -1697,6 +1625,10 @@ purged.
 MongoDB – Logs are retained
 
 for the life of the project.
+
+14
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1752,10 +1684,6 @@ If Supplier’s services are provided to Controller within the European Economic
 
 other jurisdiction subject to EU Data Protection Law, the following provisions shall apply:
 
-15
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
 
 
 (A) “EU Data Protection Law" means (a) Regulation 2016/679 of the European Parliament and of
@@ -1791,6 +1719,10 @@ contractual clauses for the transfer of personal data to third countries pursuan
 (the "C2P Standard Contractual Clauses") and hereby incorporate them into this Addendum by
 
 reference. The parties acknowledge and agree that:
+
+15
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -1848,10 +1780,6 @@ these Clauses shall be resolved by the courts of
 
 IRELAND.
 
-16
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
 
 
 Information to be incorporated into Annex 1, Part A of the C2P Standard Contractual Clauses:
@@ -1905,6 +1833,12 @@ name, position and contact details
 Kimberly Page, Strategic Operations Manager
 
 privacy@lanschool.com
+
+16
+
+LanSchool Air Data Processor Agreement v010 Aug 2024
+
+
 
 Data Importer ́s activities relevant
 
@@ -1984,12 +1918,6 @@ will be such of the EU Member State in which
 
 the Data Exporter ́s EU representative within
 
-17
-
-LanSchool Air Data Processor Agreement v009 March 2024
-
-
-
 the meaning of Article 27(1) of Regulation (EU)
 
 2016/679 is established. If the Data Exporter is
@@ -2010,9 +1938,9 @@ of goods or services to them, or whose
 
 behaviour is monitored, are located.
 
-18
+17
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -2090,9 +2018,9 @@ contractual clauses for international data transfers (https://ico.org.uk/media/f
 
 organisations/documents/4019539/international-data-transfer-addendum.pdf).
 
-19
+18
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -2238,9 +2166,9 @@ Annex III: List of Sub processors (Modules 2 and 3 only): Description of
 
 Transfer: As set out in Annex B above
 
-20
+19
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -2320,9 +2248,9 @@ Contractual Clauses will be understood as references to the Swiss Federal Act on
 
 insofar as the transfer of Controller Data is subject to the Swiss Federal Act on Data Protection..
 
-21
+20
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -2384,7 +2312,7 @@ well as an identifiable juristic person or legal entity.
 
 
 
-6. Australia
+6\. Australia
 
 
 
@@ -2392,9 +2320,9 @@ The parties agree to use and protect applicable Personal Data in compliance with
 
 Privacy Act as amended.
 
-22
+21
 
-LanSchool Air Data Processor Agreement v009 March 2024
+LanSchool Air Data Processor Agreement v010 Aug 2024
 
 
 
@@ -2412,7 +2340,7 @@ Personal Data on behalf of Customer.
 
 
 
-a. Supplier shall not sell the Personal Data or Proprietary Information. “Sell” means selling,
+b. Supplier shall not sell the Personal Data or Proprietary Information. “Sell” means selling,
 
 renting, releasing, disclosing, disseminating, making available, transferring, or otherwise
 
@@ -2420,7 +2348,7 @@ communicating the information for monetary or other valuable consideration.
 
 
 
-b. Supplier shall not retain, use, or disclose the Personal Data: (a) for any purpose other than
+c. Supplier shall not retain, use, or disclose the Personal Data: (a) for any purpose other than
 
 for the specific purpose of performing the services set forth in the Agreement for
 
@@ -2434,7 +2362,7 @@ Stoneware, Inc.
 
 
 
-c. This DPA shall serve as Supplier’s certification that Supplier understands the CCPA
+d. This DPA shall serve as Supplier’s certification that Supplier understands the CCPA
 
 requirements applicable to businesses and service providers, including the restrictions in
 
