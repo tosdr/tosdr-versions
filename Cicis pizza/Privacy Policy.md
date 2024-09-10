@@ -8,7 +8,7 @@
 * [Our Story](https://cicis.com/our-story)
 * [Contact Us](https://cicis.com/contactus)
 * [Book a Party](https://cicis.com/pizza-party-catering)
-*  ![Map-Marker](/content/images/Search-Map-Marker.svg) ![Map-Search](/content/images/Search-Black-Arrow.svg)
+*  ![Map-Marker](/content/images/Search-Map-Marker.svg) ![Map-Search](/content/images/Search-Black-Arrow.svg)   
     
 *  [![Order-Cart](/content/images/Shopping-Cart-White.svg) Order Online](https://order.cicis.com/)
 
