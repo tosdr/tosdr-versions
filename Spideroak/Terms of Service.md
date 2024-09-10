@@ -1,4 +1,4 @@
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=MjcyOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MjcyOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjg5OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mjg5OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
@@ -21,9 +21,9 @@
     
 * [In The News](https://spideroak.com/news)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzYxOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MzYxOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc4OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=Mzc4OjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzkwOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=NDA3OjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
@@ -180,7 +180,7 @@ Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mi
 
 [Request a Demo](https://spideroak.com/request-a-demo/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NTgzOjc3Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDY5IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://spideroak.com/)
+[![SpiderOak](data:image/svg+xml;nitro-empty-id=NjAwOjc3Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDY5IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://spideroak.com/)
 
 #### About
 
@@ -196,7 +196,8 @@ Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mi
 [Help Center](https://spideroak.support/hc/en-us)  
 [Contact](https://spideroak.support/hc/en-us/requests/new)  
 [Security Response](https://spideroak.com/security-response/)  
-[Transparency Report](https://spideroak.com/transparency/)
+[Transparency Report](https://spideroak.com/transparency/)  
+[Download ONE](https://crossclave.com/opendownload/)
 
 #### Compliance
 
