@@ -20,11 +20,9 @@ Buy
 
 [Figurines](#)
 
-[Jewellery](#)
-
 [All Deals](https://www.401gold.ca/product-category/deals/)[Gold](https://www.401gold.ca/product-category/deals/deals-gold/)[Silver](https://www.401gold.ca/product-category/deals/deals-silver/)
 
-[All Gold](https://www.401gold.ca/product-category/gold/)[Gold Bars](https://www.401gold.ca/product-category/gold/gold-bars/)[Gold Coins](https://www.401gold.ca/product-category/gold/gold-coins/)[Gold Collectibles](https://www.401gold.ca/product-category/gold/gold-collectibles-gold/)[Vintage Gold](https://www.401gold.ca/product-category/gold/vintage-gold/)
+[All Gold](https://www.401gold.ca/product-category/gold/)[Gold Bars](https://www.401gold.ca/product-category/gold/gold-bars/)[Gold Coins](https://www.401gold.ca/product-category/gold/gold-coins/)[Epic Gold](https://www.401gold.ca/product-category/gold/epic-gold/)[Gold Collectibles](https://www.401gold.ca/product-category/gold/gold-collectibles-gold/)[Vintage Gold](https://www.401gold.ca/product-category/gold/vintage-gold/)
 
 [Royal Canadian Mint](https://www.401gold.ca/product-category/gold/gold-royal-canadian-mint/)
 
@@ -47,10 +45,6 @@ Buy
 [Love](https://www.401gold.ca/product-category/collectibles/love/)[Lunar Calendar](https://www.401gold.ca/product-category/collectibles/lunar-calendar/)[Maple Leaves](https://www.401gold.ca/product-category/collectibles/maple-leaves/)[Marvel](https://www.401gold.ca/product-category/collectibles/marvel/)[Military](https://www.401gold.ca/product-category/collectibles/military/)[Transport](https://www.401gold.ca/product-category/collectibles/transport/)[Sports](https://www.401gold.ca/product-category/collectibles/sports/)[Star Wars](https://www.401gold.ca/product-category/collectibles/star-wars/)[Other](https://www.401gold.ca/product-category/collectibles/other/)
 
 [All figurines](https://www.401gold.ca/product-category/figurines/)
-
-[All Jewellery](https://www.401gold.ca/product-category/jewellery/)[Rings](https://www.401gold.ca/product-category/jewellery/rings/)[Necklaces](https://www.401gold.ca/product-category/jewellery/necklaces/)[Bracelets & Bangles](https://www.401gold.ca/product-category/jewellery/necklaces/%20/product-category/jewellery/bracelets-bangles/)
-
-[Earrings](https://www.401gold.ca/product-category/jewellery/earrings/)[Watches](https://www.401gold.ca/product-category/jewellery/watches/)[Other Items](https://www.401gold.ca/product-category/jewellery/other-jewellery/)
 
 Sell  
 
@@ -210,21 +204,13 @@ For any questions or concerns regarding your privacy, you may contact us using o
 
 Payouts
 
-[Coins](https://www.401gold.ca/payouts-coins/)[Bars](https://www.401gold.ca/payouts-bars/)[Jewellery](https://www.401gold.ca/payouts-jewellery/)
+[Coins](https://www.401gold.ca/payouts-coins/)[Bars](https://www.401gold.ca/payouts-bars/)
 
-[My Account](https://www.401gold.ca/my-account)[Shipping & delivery](https://www.401gold.ca/faq-buying-bullion/#bullion-faq-shipping)[Payment Policy](https://www.401gold.ca/payment-policy/)[Return Policy](https://www.401gold.ca/return-and-refund-policy/)
+[My Account](https://www.401gold.ca/my-account)[Shipping & delivery](https://www.401gold.ca/faq-buying-bullion/#bullion-faq-shipping)[Payment Policy](https://www.401gold.ca/payment-policy/)[Return Policy](https://www.401gold.ca/return-and-refund-policy/)[Privacy policy](https://www.401gold.ca/privacy/)[Terms & conditions](https://www.401gold.ca/terms/)[Sitemap](https://www.401gold.ca/site-map/)
 
 [(416) 756-0401](tel:4167560401)
 
 [support@401gold.ca](mailto:support@401gold.ca)
-
-[Privacy policy](https://www.401gold.ca/privacy/)[Terms & conditions](https://www.401gold.ca/terms/)[Sitemap](https://www.401gold.ca/site-map/)
-
-Toronto
-
-2190 Warden Avenue  
-Suite G5  
-Toronto ON M1T 1V6
 
 Hours of Operation
 
@@ -233,6 +219,26 @@ Hours of Operation
 | Mon - Fri | 10am – 6pm |
 | Sat | 11am – 4pm |
 | Sun | Closed |
+
+Toronto
+
+2190 Warden Avenue  
+Suite G5  
+Toronto ON M1T 1V6
+
+[![](https://ec73dbywy54.exactdn.com/wp-content/uploads/2024/08/google-icon-svgrepo-com.svg)
+
+Review Us On **Google!**](https://g.page/r/CfSAlQr5cGucEBM/review) 
+
+North York
+
+3200 Dufferin Street  
+Suite 19B  
+North York, ON M6A 3B2
+
+[![](https://ec73dbywy54.exactdn.com/wp-content/uploads/2024/08/google-icon-svgrepo-com.svg)
+
+Review Us On **Google!**](https://g.page/r/Cbo6MrRuxr9DEBM/review)
 
 Copyright © 2024 401Gold Inc | All Rights Reserved
 
