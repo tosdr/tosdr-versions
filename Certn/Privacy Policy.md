@@ -99,6 +99,8 @@ Error
 * [FCRA Authorization (Supernal,LLC)](#contract-jx9omk4aa)
 * [Canadian Criminal Record Consent Form NEW\*](#contract-s11zu-f7r)
 * [mg-testing gen auth (fr)](#contract-pkwokjnuw)
+* [TEST K 1](#contract-hy96bhhf0)
+* [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
 
 Test Contract 2
 ---------------
@@ -1259,11 +1261,11 @@ States may enforce the FCRA, and many states have their own consumer reporting l
 FCRA Authorization
 ------------------
 
-### Version 19.0
+### Version 20.0
 
-##### Effective May 30th 2023
+##### Effective August 1st 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/64764bdf626cc15b594c8438.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66ac03677be4034035d7c59a.pdf)
 
 * * *
 
@@ -1292,6 +1294,8 @@ By signing below, I also authorize **{{{company\_name}}}** to obtain "**consumer
 
 Name: {{{first\_name}}} {{{last\_name}}}
 
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).  
+  
   
 
 \[END OF DOCUMENT\]
@@ -2632,7 +2636,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective July 29th 2024
+##### Effective August 29th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5714,11 +5718,11 @@ Date: {{{date}}}
 Canadian Criminal Record Consent Form NEW\*
 -------------------------------------------
 
-### Version 18.0
+### Version 21.0
 
-##### Effective July 18th 2024
+##### Effective August 16th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/669902af9df571b0417140f2.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66bf0cb55d28d2076f107596.pdf)
 
 * * *
 
@@ -5743,17 +5747,17 @@ Personal Information on this form is collected under the authority of the Federa
 | {{/if}} |
 | {{#if (matchesValues check\_type 'ENHANCED\_CANADIAN\_CRIMINAL\_RECORD\_REPORT')}} |
 | Criminal Record and Judicial Matters Check (Enhanced) |
-| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; outstanding entries uch as charges, warrants, judicial orders, probation and prohibition orders; findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period; and Absolute and Conditional Discharges (for 1 or 3 years respectively). Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
+| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; outstanding entries such as charges, warrants, judicial orders, probation and prohibition orders; findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period; and Absolute and Conditional Discharges (for 1 or 3 years respectively). Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
 | {{/if}} |
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
 | PERSONAL INFORMATION |     |     |     |     |     |
-| LAST NAME: | {{last\_name}} | FIRST NAME: | {{first\_name}} | MIDDLE NAME(S): | {{middle\_name}} |
+| LAST NAME: (applicant provided) | {{last\_name}} | FIRST NAME: (applicant provided) | {{first\_name}} | MIDDLE NAME(S): (applicant provided) | {{middle\_name}} |
 | ALL PREVIOUS NAMES -LAST NAME, FIRST NAME: (including any name changes and birth/maiden name) |     |     | {{#each previous\_names}}{{this.last\_name}}, {{this.first\_name}}  <br>{{/each}} |     |     |
-| GENDER: | {{gender}} | DATE OF BIRTH | {{date\_of\_birth}} | PLACE OF BIRTH: | {{place\_of\_birth}} |
+| GENDER: | {{gender}} | DATE OF BIRTH (applicant provided) | {{date\_of\_birth}} | PLACE OF BIRTH: | {{place\_of\_birth}} |
 | CURRENT ADDRESS - STREET ADDRESS, CITY, PROV, POSTAL CODE, COUNTRY: |     |     | {{current\_address.street\_address}}, {{current\_address.locality}}, {{current\_address.administrative\_division\_1}}, {{current\_address.postal\_code}}, {{current\_address.country}} |     |     |
-| PHONE NUMBER: | {{phone\_number}} |     | E-MAIL ADDRESS: | {{email\_address}} |     |
+| E-MAIL ADDRESS: |     |     | {{email\_address}} |     |     |
 
 |     |     |
 | --- | --- |
@@ -5832,6 +5836,114 @@ Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou d
   
   
   
+
+TEST K 1
+--------
+
+### Version 1.0
+
+##### Effective July 29th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66a7c5c32bf2239555a4ccd6.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Testing testing testing  
+  
+
+Canadian Criminal Record Consent Form NEW\* (French)
+----------------------------------------------------
+
+### Version 3.0
+
+##### Effective August 16th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66bf0c968adc92c940daa10c.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+CONSENTEMENT À LA VÉRIFICATION DU CASIER JUDICIAIRE CANADIEN
+
+Les informations personnelles figurant sur ce formulaire sont recueillies en vertu de la loi fédérale sur la protection de la vie privée et de toutes les lois provinciales applicables en la matière.
+
+|     |
+| --- |
+| Type d'identification: {{id\_type}} |
+| La vérification de votre casier judiciaire portera sur tous les systèmes d'application de la loi disponibles, y compris les dossiers de la police locale. Cette vérification n'inclura PAS les dossiers étrangers ou américains, les contraventions, les infractions à la loi sur les véhicules à moteur ou les infractions aux règlements municipaux. Les résultats de cette vérification ne seront pas transmis à un tiers sans votre consentement écrit préalable, sous réserve des lois applicables en matière de protection de la vie privée et des données. |
+
+|     |
+| --- |
+| {{#if (matchesValues check\_type 'BASIC\_CANADIAN\_CRIMINAL\_RECORD\_REPORT')}} |
+| Vérification du casier judiciaire |
+| La recherche portera sur les condamnations pénales figurant dans le CIPC et/ou les bases de données locales, les condamnations sommaires (cinq dernières années), le cas échéant, et les déclarations de culpabilité en vertu de la Loi sur le système de justice pénale pour les adolescents (LSJPA) au cours de la période de divulgation applicable. Les dossiers des candidats âgés de moins de 18 ans ne seront communiqués qu'aux organismes visés par l'article 119 (1)(o) de la LSJPA. (p. ex. organismes fédéraux, provinciaux et municipaux)\*\*. |
+| {{/if}} |
+| {{#if (matchesValues check\_type 'ENHANCED\_CANADIAN\_CRIMINAL\_RECORD\_REPORT')}} |
+| Vérification du casier judiciaire et des affaires judiciaires (renforcée) |
+| La recherche portera sur les condamnations pénales figurant dans le CIPC et/ou les bases de données locales, les condamnations sommaires (5 dernières années) lorsqu'elles sont identifiées, les inscriptions en suspens telles que les accusations, les mandats, les ordonnances judiciaires, les ordonnances de probation et d'interdiction, les déclarations de culpabilité en vertu de la loi sur le système de justice pénale pour les adolescents (LSJPA) au cours de la période de divulgation applicable, et les libérations absolues et conditionnelles (pour 1 ou 3 ans, respectivement). Les dossiers des candidats âgés de moins de 18 ans ne seront communiqués qu'aux organismes visés à l'article 119, paragraphe 1, point o), de la loi sur le système de justice pénale pour les adolescents (LSJPA). (p. ex. agences fédérales, provinciales et municipales)\*\*. |
+| {{/if}} |
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| LES INFORMATIONS PERSONNELLES |     |     |     |     |     |
+| NOM DE FAMILLE: (Fournie par le demandeur) | {{last\_name}} | PRÉNOM: (Fournie par le demandeur) | {{first\_name}} | DEUXIÈME(S) PRÉNOM(S): (Fournie par le demandeur) | {{middle\_name}} |
+| TOUS LES NOMS ANTÉRIEURS - NOM DE FAMILLE, PRÉNOM: (y compris tout changements de nom et nom de naissance/de jeune fille) |     |     | {{#each previous\_names}}{{this.last\_name}}, {{this.first\_name}}  <br>{{/each}} |     |     |
+| GENRE: | {{gender}} | DATE DE NAISSANCE (Fournie par le demandeur) | {{date\_of\_birth}} | LIEU DE NAISSANCE: | {{place\_of\_birth}} |
+| ADRESSE ACTUELLE - RUE, VILLE, PROV, CODE POSTAL, PAYS: |     |     | {{current\_address.street\_address}}, {{current\_address.locality}}, {{current\_address.administrative\_division\_1}}, {{current\_address.postal\_code}}, {{current\_address.country}} |     |     |
+| NUMÉRO DE TÉLÉPHONE: | {{phone\_number}} |     | ADRESSE ÉLECTRONIQUE: | {{email\_address}} |     |
+
+|     |     |
+| --- | --- |
+| ADRESSES PRÉCÉDENTES : (INDIQUER TOUTES LES ADRESSES AU COURS DES CINQ DERNIÈRES ANNÉES, Y COMPRIS À L'ÉTRANGER) |     |
+| {{#if previous\_addresses}} |
+| {{#each previous\_addresses}} |
+| ADRESSE ACTUELLE - RUE, VILLE, PROV, CODE POSTAL, PAYS: | {{this.street\_address}}, {{this.locality}}, {{this.administrative\_division\_1}}, {{this.postal\_code}}, {{this.country}} |
+| {{/each}} |
+| {{/if}} |
+| {{#unless previous\_addresses}} |
+| ADRESSE ACTUELLE - RUE, VILLE, PROV, CODE POSTAL, PAYS: |     |
+| {{/unless}} |
+
+|     |     |
+| --- | --- |
+| DÉCLARATION D'UN CASIER CRIMINEL (le cas échéant) |     |
+| En déclarant les infractions pour lesquelles vous avez été condamné, votre casier judiciaire peut être confirmé sans qu'il soit nécessaire de soumettre vos empreintes digitales pour vérification de votre identité et le délai de traitement que cela entraîne.  <br>Veuillez énumérer ci-dessous toutes les infractions pour lesquelles un juge vous a condamné (qu'il s'agisse d'un acte criminel ou d'une procédure sommaire) en précisant l'infraction, la date à laquelle vous avez été condamné et le lieu où l'infraction a été commise.  <br>Ne divulguez pas les condamnations pour lesquelles vous avez été gracié en vertu de la loi sur le casier judiciaire, ni les accusations qui ont fait l'objet d'un non-lieu, d'un sursis ou d'une absolution inconditionnelle ou conditionnelle.  <br>Ne divulguez pas les condamnations pour infraction si vous avez été reconnu coupable d'une infraction commise alors que vous étiez un "jeune" (moins de dix-huit ans), conformément à la loi sur le système de justice pénale pour les mineurs (Youth Criminal Justice Act). |     |
+| Indiquez les condamnations ou inscrivez "N/A" si vous n'avez rien à déclarer et signez ci-dessous. |     |
+| {{#if convictions}} |
+| {{#each convictions}} |
+| DATE DE LA CONDAMNATION, NATURE DE L'INFRACTION, JURIDICTION: | {{this.date}}, {{this.nature}}, {{this.jurisdiction}} |
+| {{/each}} |
+| {{/if}} |
+| {{#unless convictions}} |
+| DATE DE LA CONDAMNATION, NATURE DE L'INFRACTION, JURIDICTION | N/A |
+| {{/unless}} |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
+| Nom: | {{first\_name}} {{last\_name}} | Date de naissance (AAAA/MM/JJ): | {{date\_of\_birth}} |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| MOTIF DE LA DEMANDE:  <br>Bénévolat / Emploi / \*Autre | {{reason\_for\_application}} | Nom de l'organisation requérante: | {{requesting\_organization\_name}} |
+| Nom du contact principal: | {{key\_contact\_name}} | Numéro de téléphone de l'organisation requérante: | {{requesting\_organization\_phone\_number}} |
+| \*Autres - Détails: |     | {{other\_details}} |     |
+
+|     |
+| --- |
+| CONSENTEMENT À LA RECHERCHE ET À LA DIVULGATION D'INFORMATIONS ET DÉCHARGE DE RESPONSABILITÉ |     |
+| Je demande et je consens à ce que le partenaire policier et ses employés (le "partenaire policier"), désignés par le Certn (Canada) Inc. ("Certn"), en tant qu'agence tierce, à effectuer des recherches dans les bases de données des services de police ou des tribunaux sur la base des informations que j'ai fournies, afin de localiser les dossiers et les informations auxquels je fais référence, de confirmer et de signaler toute condamnation pénale (par procédure sommaire ou par acte d'accusation) et, si une vérification approfondie est ordonnée, tout autre dossier pertinent, y compris : les libérations absolues et conditionnelles ; les cas de non-responsabilité criminelle pour cause de troubles mentaux ; et les entrées en suspens telles que les accusations, les ordonnances judiciaires, les ordonnances de probation et les ordonnances d'interdiction.  <br>Je comprends que les renseignements recueillis à la suite de cette vérification du casier judiciaire ne seront communiqués qu'au Certn et à l'organisation tierce mentionnée ci-dessus, le cas échéant. Le cas échéant, je comprends que c'est l'organisation susmentionnée, et non le partenaire policier, qui déterminera l'impact des résultats de la recherche. Je comprends que l'exactitude des informations qui me seront communiquées n'est pas et ne peut pas être garantie et qu'elle peut comporter des erreurs ou des omissions.  <br>Par ma signature ci-dessous, et pour et en considération de la vérification de mon casier judiciaire, dont je reconnais par la présente la réception et la suffisance, j'accepte de ne pas intenter d'actions en justice, de réclamations ou de demandes, pour des pertes ou des dommages, y compris indirects ou consécutifs, que je pourrais subir en raison de la vérification de mon casier judiciaire, contre la municipalité ou le partenaire policier qui a effectué la vérification du casier judiciaire, son conseil de police associé et ses employés, et de les libérer de toute responsabilité et de toute action, réclamation ou demande, même si elles découlent de leur négligence ou même d'une négligence grave.  <br>Je comprends qu'il peut m'être demandé de fournir mes empreintes digitales pour confirmer mon identité avant d'obtenir les résultats de la vérification de mon casier judiciaire.  <br>J'ai lu et compris ce formulaire, et en particulier cette section, et en signant ci-dessous, je consens aux conditions susmentionnées. En signant, je certifie également que les informations que j'ai fournies sont, à ma connaissance, exactes et correctes.  <br>J'autorise le partenaire policier à fournir les résultats de la vérification du casier judiciaire directement au Certn et à l'organisation ou à la personne qui demande la vérification du casier judiciaire mentionnée ci-dessus. |     |
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
 
 * * *
 
