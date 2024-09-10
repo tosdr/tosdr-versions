@@ -129,10 +129,9 @@ Last updated: February 22, 2022
 * [Pathao Bike](https://pathao.com/bike/)
 * [Pathao Car](https://pathao.com/car/)
 * [Pathao Food](https://pathao.com/food/)
-* [Pathao Shop](https://pathao.com/shop/)
+* [Pathao Shop New](https://pathao.com/shop/)
 * [Pathao Parcel](https://pathao.com/parcel/)
 * [Pathao Courier](https://pathao.com/courier/)
-* [Pathao Health](https://pathao.com/?page_id=3903)
 
 #### Earn
 
@@ -156,6 +155,7 @@ Last updated: February 22, 2022
 * [Merchant Help Center](https://help.pathao.com/category/merchant-help-center)
 * [Live Chat for Driver/Foodman](https://pathao.com/foodman-livechat/)
 * [Helpline 09678100800](tel:09678100800)
+* [Emergency Helpline 13301](tel:%2013301)
 
 [![pathao logo](https://pathao.com/wp-content/uploads/2023/10/logo_white_pathao.svg)](https://pathao.com/)
 
