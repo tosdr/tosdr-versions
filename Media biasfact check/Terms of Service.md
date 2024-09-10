@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [July 30, 2024 | MBFC’s Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/ "MBFC’s Daily Vetted Fact Checks for 07/30/2024")
-* [July 29, 2024 | (Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments](https://mediabiasfactcheck.com/2024/07/29/media-news-misinformation-floods-internet-amid-rapid-2024-election-developments/ "(Media News) Misinformation Floods Internet Amid Rapid 2024 Election Developments")
-* [July 29, 2024 | MBFC’s Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/ "MBFC’s Daily Vetted Fact Checks for 07/29/2024")
-* [July 28, 2024 | MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/28/mbfcs-daily-vetted-fact-checks-for-07-28-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/28/2024 (Weekend Edition)")
-* [July 27, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th](https://mediabiasfactcheck.com/2024/07/27/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-july-21st-july-27th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of July 21st – July 27th")
+* [September 2, 2024 | MBFC’s Daily Vetted Fact Checks for 09/02/2024](https://mediabiasfactcheck.com/2024/09/02/mbfcs-daily-vetted-fact-checks-for-09-02-2024/ "MBFC’s Daily Vetted Fact Checks for 09/02/2024")
+* [September 1, 2024 | MBFC’s Daily Vetted Fact Checks for 09/01/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/01/mbfcs-daily-vetted-fact-checks-for-09-01-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/01/2024 (Weekend Edition)")
+* [August 31, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Aug 25th – Aug 31st](https://mediabiasfactcheck.com/2024/08/31/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-aug-25th-aug-31st/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Aug 25th – Aug 31st")
+* [August 31, 2024 | MBFC’s Daily Vetted Fact Checks for 08/31/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/08/31/mbfcs-daily-vetted-fact-checks-for-08-31-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 08/31/2024 (Weekend Edition)")
+* [August 30, 2024 | MBFC’s Daily Vetted Fact Checks for 08/30/2024](https://mediabiasfactcheck.com/2024/08/30/mbfcs-daily-vetted-fact-checks-for-08-30-2024/ "MBFC’s Daily Vetted Fact Checks for 08/30/2024")
 
 Search for:  
 
@@ -127,6 +127,10 @@ Last Updated on November 14, 2023 by Media Bias Fact Check
 
 **[MBFC Donation](https://mediabiasfactcheck.com/support-media-bias-fact-check/)**
 
+**or**
+
+**[Crypto Donation](https://commerce.coinbase.com/checkout/8f8323b9-0605-45f6-8e02-c2a69e3d1bb5)**
+
 * * *
 
 * * *
@@ -153,76 +157,74 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [Cambridge Independent – Bias and Credibility](https://mediabiasfactcheck.com/cambridge-independent-bias/)
+* [Girls for Gender Equity (GGE) – Bias and Credibility](https://mediabiasfactcheck.com/girls-for-gender-equity-gge-bias-and-credibility/)
     
-    July 30, 2024
+    September 2, 2024
     
-* [Revolutionary Communists of America (RCA) – Bias and Credibility](https://mediabiasfactcheck.com/revolutionary-communists-of-america-rca-bias-and-credibility/)
+* [Crawford Times – Bias and Credibility](https://mediabiasfactcheck.com/crawford-times-bias/)
     
-    July 30, 2024
+    September 2, 2024
     
-* [Louisville Public Media – NPR – Bias and Credibility](https://mediabiasfactcheck.com/louisville-public-media-npr-bias/)
+* [WFCR – NPR – Amherst – Bias and Credibility](https://mediabiasfactcheck.com/wfcr-npr-amherst-bias/)
     
-    July 30, 2024
+    September 2, 2024
     
-* [Political Science Quarterly (PSQ) – Bias and Credibility](https://mediabiasfactcheck.com/political-science-quarterly-psq-bias-and-credibility/)
+* [Somerset County Gazette – Bias and Credibility](https://mediabiasfactcheck.com/somerset-county-gazette-bias/)
     
-    July 30, 2024
+    September 2, 2024
     
-* [Fluid Mechanics Journal – Bias and Credibility](https://mediabiasfactcheck.com/fluid-mechanics-journal-bias-and-credibility/)
+* [The Local (Denmark) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-denmark-bias/)
     
-    July 30, 2024
+    September 2, 2024
     
-* [Prism – Bias and Credibility](https://mediabiasfactcheck.com/prism-bias-and-credibility/)
+* [Verite News – Bias and Credibility](https://mediabiasfactcheck.com/verite-news-bias-and-credibility/)
     
-    July 29, 2024
+    September 1, 2024
     
-* [Emerson College Polling – Bias and Credibility](https://mediabiasfactcheck.com/emerson-college-polling-bias-and-credibility/)
+* [Bainbridge Island Review – Bias and Credibility](https://mediabiasfactcheck.com/bainbridge-island-review-bias/)
     
-    July 29, 2024
+    September 1, 2024
     
-* [Progressive Policy Institute (PPI) – Bias and Credibility](https://mediabiasfactcheck.com/progressive-policy-institute-ppi-bias-and-credibility/)
+* [Frontiers in Genome Editing – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-genome-editing-bias/)
     
-    July 29, 2024
+    September 1, 2024
     
-
-[See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Geek.com – Bias and Credibility](https://mediabiasfactcheck.com/geek-com/ "View Geek.com – Bias and Credibility") - July 30, 2024
+* [Valley Journal Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/valley-journal-advertiser-bias/ "View Valley Journal Advertiser – Bias and Credibility") - September 2, 2024
     
-* [Gears of Biz – Bias and Credibility](https://mediabiasfactcheck.com/gears-of-biz/ "View Gears of Biz – Bias and Credibility") - July 30, 2024
+* [Truro Daily News – Bias and Credibility](https://mediabiasfactcheck.com/truro-daily-news-bias/ "View Truro Daily News – Bias and Credibility") - September 2, 2024
     
-* [GBTimes – Bias and Credibility](https://mediabiasfactcheck.com/gbtimes/ "View GBTimes – Bias and Credibility") - July 30, 2024
+* [Tri-County Vanguard – Bias and Credibility](https://mediabiasfactcheck.com/tri-county-vanguard-bias/ "View Tri-County Vanguard – Bias and Credibility") - September 2, 2024
     
-* [Gay Star News – Bias and Credibility](https://mediabiasfactcheck.com/gay-star-news/ "View Gay Star News – Bias and Credibility") - July 30, 2024
+* [The News (New Glasgow) – Bias and Credibility](https://mediabiasfactcheck.com/the-news-new-glasgow-bias/ "View The News (New Glasgow) – Bias and Credibility") - September 2, 2024
     
-* [Gawken – Bias and Credibility](https://mediabiasfactcheck.com/gawken/ "View Gawken – Bias and Credibility") - July 30, 2024
+* [St. John’s Telegram – Bias and Credibility](https://mediabiasfactcheck.com/st-johns-telegram-bias/ "View St. John’s Telegram – Bias and Credibility") - September 2, 2024
     
-* [FWD Now – Bias and Credibility](https://mediabiasfactcheck.com/fwd-now/ "View FWD Now – Bias and Credibility") - July 30, 2024
+* [Journal Pioneer – Bias and Credibility](https://mediabiasfactcheck.com/journal-pioneer-bias/ "View Journal Pioneer – Bias and Credibility") - September 2, 2024
     
-* [Futurism – Bias and Credibility](https://mediabiasfactcheck.com/futurism/ "View Futurism – Bias and Credibility") - July 30, 2024
+* [Halifax Chronicle Herald – Bias and Credibility](https://mediabiasfactcheck.com/halifax-chronicle-herald-bias/ "View Halifax Chronicle Herald – Bias and Credibility") - September 2, 2024
     
-* [Fusion – Bias and Credibility](https://mediabiasfactcheck.com/fusion/ "View Fusion – Bias and Credibility") - July 30, 2024
+* [Colchester Wire – Bias and Credibility](https://mediabiasfactcheck.com/colchester-wire-bias/ "View Colchester Wire – Bias and Credibility") - September 2, 2024
     
-* [Fury News – Bias and Credibility](https://mediabiasfactcheck.com/fury-news/ "View Fury News – Bias and Credibility") - July 30, 2024
+* [Charlottetown Guardian – Bias and Credibility](https://mediabiasfactcheck.com/charlottetown-guardian-bias/ "View Charlottetown Guardian – Bias and Credibility") - September 2, 2024
     
-* [Full Fact (UK) – Bias and Credibility](https://mediabiasfactcheck.com/full-fact-uk/ "View Full Fact (UK) – Bias and Credibility") - July 30, 2024
+* [Cape Breton Post – Bias and Credibility](https://mediabiasfactcheck.com/cape-breton-post-bias/ "View Cape Breton Post – Bias and Credibility") - September 2, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 07/29/2024](https://mediabiasfactcheck.com/2024/07/29/mbfcs-daily-vetted-fact-checks-for-07-29-2024/)
-* [MBFC's Daily Vetted Fact Checks for 07/30/2024](https://mediabiasfactcheck.com/2024/07/30/mbfcs-daily-vetted-fact-checks-for-07-30-2024/)
+* [MBFC's Daily Vetted Fact Checks for 09/01/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/01/mbfcs-daily-vetted-fact-checks-for-09-01-2024-weekend-edition/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MBFC's Daily Vetted Fact Checks for 09/02/2024](https://mediabiasfactcheck.com/2024/09/02/mbfcs-daily-vetted-fact-checks-for-09-02-2024/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [TheWrap - Bias and Credibility](https://mediabiasfactcheck.com/thewrap/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
-* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
+* [Forbes - Bias and Credibility](https://mediabiasfactcheck.com/forbes/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
 #### Subscribe via Email
 
