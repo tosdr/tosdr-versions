@@ -233,7 +233,6 @@ Dedicated to Quality, Privacy and Security
 * [Premature Ejaculation](https://www.healthymale.com/premature-ejaculation/)
 * [Male Enhancement](https://www.healthymale.com/male-enhancement/)
 * [Testosterone Support](https://www.healthymale.com/testosterone-support/)
-* [Ai Consult](https://www.healthymale.com/ai-consult/)
 * [Hair Loss](https://www.healthymale.com/hair-loss/)
 * [Sexual Health](https://www.healthymale.com/sexual-health/)
 * [Energy Sleep](https://www.healthymale.com/energy-sleep/)
