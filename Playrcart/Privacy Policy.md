@@ -15,6 +15,7 @@ top of page
     
     * [About Us](https://www.glui.io/about-us)
     * [Case Studies](https://www.glui.io/case-studies)
+    * [Blog](https://www.glui.io/blog)
 * More
     
 
@@ -756,7 +757,7 @@ contents15
 
 [Sub-Processors](https://www.glui.io/sub-processors)
 
-![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_123,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
+![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
 
 Solutions
 =========
@@ -804,6 +805,8 @@ Resources
 
 © 2024 Glui Inc.
 ================
+
+[![2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png](https://static.wixstatic.com/media/8dd289_f378ab0fd1d64d2a964186743aa42ca5~mv2.png/v1/fill/w_128,h_69,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/2499efd8-0de9-4935-af2e-9b1fa6414d29_edited.png)](https://iabeurope.eu/)
 
 ![PMA-22-Winner-Badge.png](https://static.wixstatic.com/media/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png/v1/fill/w_75,h_73,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_357c3b022a4f495ca3caab8fb8ee08c5~mv2.png)
 
