@@ -36,9 +36,6 @@ Gain control of your digital real-estate.
 Privacy policy
 ==============
 
-Privacy policy
-==============
-
 We respect your privacy. This Policy explains what information we collect about you when you are visiting our Website and using related services. While you browse this website, except for an area that we designate to publishers only, we do not collect your personal information.
 
 ### **What Personal Identifiable Information Do We Collect?**
@@ -63,11 +60,11 @@ Apart from our employees and contractors, who are under strict confidentiality a
 
 ### **Can you review or remove the Information?**
 
-You can always review or remove your information by contacting us through email at:info@gobrowsi.com
+You can always review or remove your information by contacting us through email at:info@browsi.com
 
 ### **What to do if you feel your privacy was invaded?**
 
-If you feel that your privacy was invaded or violated, please contact us directly at privacy@gobrowsi.com and we will inspect such complaints within reasonable time and send you and answer promptly.
+If you feel that your privacy was invaded or violated, please contact us directly at privacy@browsi.com and we will inspect such complaints within reasonable time and send you and answer promptly.
 
 [![](https://browsi.com/wp-content/themes/genesis-block-theme/images/browsi-logo-white.png)](https://browsi.com/)
 
