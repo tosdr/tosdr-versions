@@ -272,4 +272,4 @@ Last updated on July 27, 2024
 
 No results found
 
-© [Shout.com](https://shout.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/knowledge-base/?co=Shout.com&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
+© [Shout.com](https://shout.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/docs-refer/?co=Shout.com&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
