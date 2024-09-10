@@ -42,14 +42,30 @@ Keywords
 
 * [Manage Topics](https://www.nintendolife.com/topics)
 
+Navigation: [Home](https://www.nintendolife.com/ "Home") / [Terms of Use](https://www.nintendolife.com/terms "Terms of Use") / Privacy Policy
+
 [Privacy Policy](https://www.nintendolife.com/privacy)
 ======================================================
 
-**This privacy policy sets out how Nintendo Life uses and protects any information that you give us when you use this website.**
+This privacy policy sets out how Nintendo Life uses and protects any information that you give us when you use this website.
+
+On this page: [Privacy Policy](https://www.nintendolife.com/privacy)
+
+1. 1.[Data we collect](https://www.nintendolife.com/privacy#data-we-collect)
+2. 2.[What we do with the data we gather](https://www.nintendolife.com/privacy#what-we-do-with-the-data-we-gather)
+3. 3.[Security](https://www.nintendolife.com/privacy#security)
+4. 4.[How we use cookies](https://www.nintendolife.com/privacy#how-we-use-cookies)
+    1. 4.1.[Third-Party Advertising and Content Services](https://www.nintendolife.com/privacy#third-party-advertising-and-content-services)
+5. 5.[Links to other websites](https://www.nintendolife.com/privacy#links-to-other-websites)
+6. 6.[Controlling your personal information](https://www.nintendolife.com/privacy#controlling-your-personal-information)
+7. 7.[Removing your data](https://www.nintendolife.com/privacy#removing-your-data)
+8. 8.[Poll & Survey Data](https://www.nintendolife.com/privacy#poll-andamp-survey-data)
+9. 9.[Competition Entries](https://www.nintendolife.com/privacy#competition-entries)
+10. 10.[How to contact us](https://www.nintendolife.com/privacy#how-to-contact-us)
 
 We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3rd Apr, 2023.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 27th Aug, 2024.
 
 Data we collect
 ---------------
@@ -96,9 +112,28 @@ Most web browsers automatically accept cookies, but you can usually modify your 
 
 [Open Cookie Settings](https://www.nintendolife.com/privacy)
 
-### Google Ad Tech Partners we use:
+### Third-Party Advertising and Content Services
 
-Gamer Network provide the advertising infrastructure on this website. Below is a list of all ad tech partners we work with, mainly through Google's DFP platform. When you opt-into 'Targeting' cookies these partners may use your data to target ads depending on your browser history.
+ReedPop/Gamer Network provide the advertising infrastructure on this website. They use third-party advertising and content services, particularly within our marketing or free content sites, for the purposes of analysing visitor / customer site interactions including interactions with our online marketing campaigns, attribution purposes to link ecommerce purchases to our brand, and advertising. For more information including how to opt-out, please see below:
+
+| Third-Party Provider | Description |
+| --- | --- |
+| [Google Ads](https://safety.google/intl/en_uk/privacy/ads-and-data/)<br><br>[Google Ad-Tech Vendors](https://developers.google.com/third-party-ads/adx-vendors)<br><br>[Opt-out](https://adssettings.google.co.uk/anonymous?sig=ACi0TChEO5iHkoMUFwUGa-VsoApZr4GInC7JE1pmukczhQi13EHQsFfuSK8eXqtBGQYFRNZ5JQJwt5gzfA9kSGSkZvTa-t8tFIbKAKZuGdHCkkRI1RjqPxc&hl=en) | Google Ads is an online advertising platform that we use to promote our events, online content and services on Google Search, YouTube, and other sites across the web. Google Ads is also used by some advertisers to buy adverts that appear on our Sites. |
+| [Google Analytics](https://policies.google.com/privacy?hl=en-US)<br><br>[Opt-out](https://tools.google.com/dlpage/gaoptout) | We use Google Analytics to provide site visitor measurements and statistics as well as personalised advertising. |
+| [YouTube API](https://www.google.com/policies/privacy)<br><br>[Opt-out](https://security.google.com/settings/security/permissions) | YouTube’s API services are used to help us deliver content, visitor measurements, statistics and advertising revenues. |
+
+Alternatively, you may opt-out of third-party web advertising services via the opt-out tools listed below:
+
+* [click here or here for the U.S.](http://optout.networkadvertising.org/?c=1)
+* [click here for Canada](https://youradchoices.ca/en/tools)
+* [click here for the EU](http://www.youronlinechoices.com/)
+* [click here for Australia](http://www.youronlinechoices.com.au/)
+
+Please note: Clicking the links above will redirect you to the appropriate third party website. We are not responsible for the content of external websites.
+
+You can also configure your web browser to delete and / or block the use of cookies for any third party.
+
+Opting out of advertising cookies will not remove advertising from the pages you visit; instead it means the ads you will see may not be matched to your interests.
 
 Links to other websites
 -----------------------
@@ -116,7 +151,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Hookshot Media Ltd, ATIC, 5 Oakwood Dr, Loughborough, LE11 3QF, United Kingdom or emails us [\[email protected\]](https://www.nintendolife.com/cdn-cgi/l/email-protection)
+You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Hookshot Media Ltd, 5 Oakwood Drive, Loughborough, Leicestershire, LE11 3QF, United Kingdom or email us [\[email protected\]](https://www.nintendolife.com/cdn-cgi/l/email-protection)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -124,6 +159,11 @@ Removing your data
 ------------------
 
 If you wish to delete your account, simply visit the account page (whilst logged in), click 'Delete Account' and follow the instructions. Your account, and all the data related to your account, will be deleted from our website within 24 hours. Your residual data may exist within our backup systems for up to 14 days.
+
+Poll & Survey Data
+------------------
+
+When we publish polls and surveys you are invited to submit your answers to our servers and is entirely voluntary. Your responses will be stored in our secure database. Often our poll/survey results are published instantly but in an aggregated and anonymised form. Sometimes we share these aggregated and anonymised results (sometimes segmented/cross-referenced by other responses you have made) with third parties, however, your individual responses will not be given to any third party whatsoever.
 
 Competition Entries
 -------------------
@@ -139,7 +179,7 @@ How to contact us
 
 If you have any questions or concerns about our policy, please contact us by filling in our online [contact](https://www.nintendolife.com/contact) form.
 
-_Last Updated: Mon 3rd Apr 2023 11:32_
+_Last Updated: August, 2024_
 
 * [A](https://www.nintendolife.com/letter/a)
 * [B](https://www.nintendolife.com/letter/b)
@@ -169,37 +209,36 @@ _Last Updated: Mon 3rd Apr 2023 11:32_
 * [Z](https://www.nintendolife.com/letter/z)
 
 * [Top](https://www.nintendolife.com/)
-* [About Us](https://www.nintendolife.com/about)
-* [Staff](https://www.nintendolife.com/staff)
+* [About](https://www.nintendolife.com/about "About Nintendo Life")
+* [Staff](https://www.nintendolife.com/staff "Nintendo Life Team")
+* [How We Work](https://www.nintendolife.com/how-we-work)
 * [Support Us](https://www.nintendolife.com/supporter)
-* [Archive](https://www.nintendolife.com/archive)
-* [Scoring Policy](https://www.nintendolife.com/scoring)
-* [Privacy & Cookies](https://www.nintendolife.com/privacy)
-* [Ads Policy](https://www.nintendolife.com/advertising)
+* [Contact](https://www.nintendolife.com/contact "Contact Us")
+* [Privacy Policy](https://www.nintendolife.com/privacy)
 * [Terms of Use](https://www.nintendolife.com/terms)
-* [Developers](https://www.nintendolife.com/developers)
-* [Contact](https://www.nintendolife.com/contact)
+* [Ads Policy](https://www.nintendolife.com/advertising "Advertising Policy / FTC Disclosure")
+* [Archive](https://www.nintendolife.com/archive)
 * [Cookie Settings](https://www.nintendolife.com/privacy "Cookie Settings")
 * [Desktop Version](https://www.nintendolife.com/desktop)
 
 Popular Right Now
 
-* [![Best Nintendo Switch Puzzle Games](https://images.nintendolife.com/guides/best-nintendo-switch-puzzle-games/130x100.jpg)Best Nintendo Switch Puzzle GamesTue 23rd Jul 2024](https://www.nintendolife.com/guides/best-nintendo-switch-puzzle-games)
-* [![Rumour: Mario & Sonic At The Olympic Games "Finished"](https://images.nintendolife.com/news/2024/07/rumour-mario-and-sonic-at-the-olympic-games-finished/130x100.jpg)Rumour: Mario & Sonic At The Olympic Games "Finished"12:30am](https://www.nintendolife.com/news/2024/07/rumour-mario-and-sonic-at-the-olympic-games-finished)
-* [![Every Game In The Switch eShop 'Play Together' Sale (North America)](https://images.nintendolife.com/guides/every-game-in-the-switch-eshop-play-together-sale-north-america/130x100.jpg)Every Game In The Switch eShop 'Play Together' Sale (North America)Yesterday, 1pm](https://www.nintendolife.com/guides/every-game-in-the-switch-eshop-play-together-sale-north-america)
-* [![Best Nintendo Switch Flight Sim And Space Combat Games](https://images.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games/130x100.jpg)Best Nintendo Switch Flight Sim And Space Combat GamesFri 19th Jul 2024](https://www.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games)
-* [![Crypt Custodian Is A Zelda-Like Metroidvania Where You Play As A Dead Cat](https://images.nintendolife.com/news/2024/07/crypt-custodian-is-a-zelda-like-metroidvania-where-you-play-as-a-dead-cat/130x100.jpg)Crypt Custodian Is A Zelda-Like Metroidvania Where You Play As A Dead CatYesterday, 5pm](https://www.nintendolife.com/news/2024/07/crypt-custodian-is-a-zelda-like-metroidvania-where-you-play-as-a-dead-cat)
-* [![Talking Point: Will The Switch Ever Get A 'Nintendo Selects' Range?](https://images.nintendolife.com/features/talking-point-will-the-switch-ever-get-a-nintendo-selects-range/130x100.jpg)Talking Point: Will The Switch Ever Get A 'Nintendo Selects' Range?Yesterday, 6pm](https://www.nintendolife.com/features/talking-point-will-the-switch-ever-get-a-nintendo-selects-range)
-* [![Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And More](https://images.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more/130x100.jpg)Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And MoreWed 17th Jul 2024](https://www.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more)
-* [![Switch Physical Release Of Psychological Horror RPG 'Omori' Cancelled](https://images.nintendolife.com/news/2024/07/switch-physical-release-of-psychological-horror-rpg-omori-cancelled/130x100.jpg)Switch Physical Release Of Psychological Horror RPG 'Omori' CancelledYesterday, 1:15am](https://www.nintendolife.com/news/2024/07/switch-physical-release-of-psychological-horror-rpg-omori-cancelled)
-* [![Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo Systems](https://images.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems/130x100.jpg)Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo SystemsSat 20th Jul 2024](https://www.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems)
-* [![Metal Slug Meets Symphony Of The Night In 'Guns Of Fury', Launching 2024](https://images.nintendolife.com/news/2024/07/metal-slug-meets-symphony-of-the-night-in-guns-of-fury-launching-2024/130x100.jpg)Metal Slug Meets Symphony Of The Night In 'Guns Of Fury', Launching 2024Mon, 6:30pm](https://www.nintendolife.com/news/2024/07/metal-slug-meets-symphony-of-the-night-in-guns-of-fury-launching-2024)
-* [![Review: Thank Goodness You're Here! (Switch) - A Face-Achingly Funny British Romp](https://images.nintendolife.com/reviews/switch-eshop/thank-goodness-youre-here/130x100.jpg)Review: Thank Goodness You're Here! (Switch) - A Face-Achingly Funny British RompMon, 5pm](https://www.nintendolife.com/reviews/switch-eshop/thank-goodness-youre-here)
-* [![Super Mario World Lego Set Revealed, Here's A First Look](https://images.nintendolife.com/news/2024/07/super-mario-world-lego-set-revealed-heres-a-first-look/130x100.jpg)Super Mario World Lego Set Revealed, Here's A First LookThu 25th Jul 2024](https://www.nintendolife.com/news/2024/07/super-mario-world-lego-set-revealed-heres-a-first-look)
+* [![50 Best GameCube Games Of All Time](https://images.nintendolife.com/guides/50-best-gamecube-games-of-all-time/130x100.jpg)50 Best GameCube Games Of All TimeWed 4th Sep 2024](https://www.nintendolife.com/guides/50-best-gamecube-games-of-all-time)
+* [![Where To Pre-Order Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](https://images.nintendolife.com/guides/where-to-pre-order-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite/130x100.jpg)Where To Pre-Order Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite9am](https://www.nintendolife.com/guides/where-to-pre-order-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite)
+* [![Best Nintendo Switch Roguelikes, Roguelites And Run-Based Games](https://images.nintendolife.com/guides/best-nintendo-switch-roguelikes-roguelites-and-run-based-games/130x100.jpg)Best Nintendo Switch Roguelikes, Roguelites And Run-Based GamesFri 6th Sep 2024](https://www.nintendolife.com/guides/best-nintendo-switch-roguelikes-roguelites-and-run-based-games)
+* [![Does Astro Bot's Super Mario 'Inspiration' Cross A Line? Fans Seem Divided](https://images.nintendolife.com/news/2024/09/does-astro-bots-super-mario-inspiration-cross-a-line-fans-seem-divided/130x100.jpg)Does Astro Bot's Super Mario 'Inspiration' Cross A Line? Fans Seem Divided3pm](https://www.nintendolife.com/news/2024/09/does-astro-bots-super-mario-inspiration-cross-a-line-fans-seem-divided)
+* [![Best Castlevania Games, Ranked - Switch And Nintendo Consoles](https://images.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles/130x100.jpg)Best Castlevania Games, Ranked - Switch And Nintendo ConsolesFri 30th Aug 2024](https://www.nintendolife.com/guides/best-castlevania-games-ranked-switch-and-nintendo-consoles)
+* [![Review: Yars Rising (Switch) - A Stylish, Ambitious Revival Of An Atari Classic In Metroidvania Form](https://images.nintendolife.com/reviews/switch-eshop/yars-rising/130x100.jpg)Review: Yars Rising (Switch) - A Stylish, Ambitious Revival Of An Atari Classic In Metroidvania Form2pm](https://www.nintendolife.com/reviews/switch-eshop/yars-rising)
+* [![Review: Marvel vs. Capcom Fighting Collection: Arcade Classics (Switch) - A Stunning Showcase Of '90s Fighter Evolution](https://images.nintendolife.com/reviews/nintendo-switch/marvel-vs-capcom-fighting-collection-arcade-classics/130x100.jpg)Review: Marvel vs. Capcom Fighting Collection: Arcade Classics (Switch) - A Stunning Showcase Of '90s Fighter EvolutionYesterday, 4pm](https://www.nintendolife.com/reviews/nintendo-switch/marvel-vs-capcom-fighting-collection-arcade-classics)
+* [![Feature: "We Don't Need To Just Keep On Repeating The Past" - Lena Raine On Shmups, SNES Samples & Going Solo](https://images.nintendolife.com/features/we-dont-need-to-just-keep-on-repeating-the-past-lena-raine-on-shmups-snes-samples-and-going-solo/130x100.jpg)Feature: "We Don't Need To Just Keep On Repeating The Past" - Lena Raine On Shmups, SNES Samples & Going Solo26m ago](https://www.nintendolife.com/features/we-dont-need-to-just-keep-on-repeating-the-past-lena-raine-on-shmups-snes-samples-and-going-solo)
+* [![Best Nintendo Switch Short Games](https://images.nintendolife.com/guides/best-nintendo-switch-short-games/130x100.jpg)Best Nintendo Switch Short GamesSun 1st Sep 2024](https://www.nintendolife.com/guides/best-nintendo-switch-short-games)
+* [![Random: It Looks Like Castlevania: Dawn Of Sorrow's 'Julius Mode' Is Even Harder On Switch](https://images.nintendolife.com/news/2024/09/random-it-looks-like-castlevania-dawn-of-sorrows-julius-mode-is-even-harder-on-switch/130x100.jpg)Random: It Looks Like Castlevania: Dawn Of Sorrow's 'Julius Mode' Is Even Harder On Switch12:45pm](https://www.nintendolife.com/news/2024/09/random-it-looks-like-castlevania-dawn-of-sorrows-julius-mode-is-even-harder-on-switch)
+* [![Review: Rugrats: Adventures In Gameland (Switch) - Captures The Show's Spirit With Affectionate 8-Bit Homage](https://images.nintendolife.com/reviews/switch-eshop/rugrats-adventures-in-gameland/130x100.jpg)Review: Rugrats: Adventures In Gameland (Switch) - Captures The Show's Spirit With Affectionate 8-Bit HomageYesterday, 7pm](https://www.nintendolife.com/reviews/switch-eshop/rugrats-adventures-in-gameland)
+* [![UK Charts: Astro Bot Soars Above The Competition In A Quiet Week For Switch](https://images.nintendolife.com/news/2024/09/uk-charts-astro-bot-soars-above-the-competition-in-a-quiet-week-for-switch/130x100.jpg)UK Charts: Astro Bot Soars Above The Competition In A Quiet Week For Switch3:30pm](https://www.nintendolife.com/news/2024/09/uk-charts-astro-bot-soars-above-the-competition-in-a-quiet-week-for-switch)
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,451,840** people following **Nintendo Life**:
+Join **1,455,808** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
