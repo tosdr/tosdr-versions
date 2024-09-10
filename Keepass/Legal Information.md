@@ -186,8 +186,7 @@ The user's computer stores and transmits cookies. Therefore, you as a user also 
 
 * [Google Chrome](https://support.google.com/chrome/answer/95647).
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer).
-* [Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09).
-* [Microsoft Internet Explorer](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d).
+* [Microsoft Edge](https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d).
 * [Vivaldi](https://help.vivaldi.com/desktop/privacy/cookies/).
 
   
@@ -475,8 +474,7 @@ Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem übermitte
 
 * [Google Chrome](https://support.google.com/chrome/answer/95647).
 * [Mozilla Firefox](https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer).
-* [Microsoft Edge](https://support.microsoft.com/de-de/microsoft-edge/cookies-in-microsoft-edge-l%C3%B6schen-63947406-40ac-c3b8-57b9-2a946a29ae09).
-* [Microsoft Internet Explorer](https://support.microsoft.com/de-de/windows/l%C3%B6schen-und-verwalten-von-cookies-168dab11-0753-043d-7c16-ede5947fc64d).
+* [Microsoft Edge](https://support.microsoft.com/de-de/windows/verwalten-von-cookies-in-microsoft-edge-anzeigen-zulassen-blockieren-l%C3%B6schen-und-verwenden-168dab11-0753-043d-7c16-ede5947fc64d).
 * [Vivaldi](https://help.vivaldi.com/de/desktop-de/sicherheit-datenschutz/browser-cookies-verwalten/).
 
   
