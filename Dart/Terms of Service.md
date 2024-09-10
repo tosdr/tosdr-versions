@@ -6,7 +6,7 @@ OK, got it
 
 _menu_
 
-[![Dart](/assets/img/U_EV6NzwXm-443.svg)](https://dart.dev/ "Dart")
+[![Dart](/assets/img/logo/logo-white-text.svg)](https://dart.dev/ "Dart")
 
 * [Overview](https://dart.dev/overview)
 * [Docs](https://dart.dev/guides)
@@ -15,6 +15,8 @@ _menu_
 * [Get Dart](https://dart.dev/get-dart)
 *    
     
+
+Announcing Dart 3.5 and an updated Dart roadmap! [Learn more](https://medium.com/dartlang/dart-3-5-6ca36259fa2f)
 
 * [Overview](https://dart.dev/overview)
 * [Community](https://dart.dev/community)
@@ -201,20 +203,20 @@ _menu_
     * [Flutter](https://flutter.dev/)
     * [Package site](https://pub.dev/)
 
-[_description_](https://github.com/dart-lang/site-www/tree/main/src/content/terms.md "View page source") [_bug\_report_](https://github.com/dart-lang/site-www/issues/new?template=1_page_issue.yml&title=[PAGE%20ISSUE]:%20%27Terms%20of%20use%27&page-url=https://dart.dev/terms/&page-source=https://github.com/dart-lang/site-www/tree/main/src/content/terms.md "Report an issue with this page")
-
 Terms of use
 ============
 
 The Dart website (the "Website") is hosted by Google. By using and/or visiting the Website, you consent to be bound by Google's general [Terms of Service](https://policies.google.com/terms) and Google's general [Privacy Policy.](https://policies.google.com/privacy)
 
-The "Dart" name and the Dart logo![Dart logo](/assets/img/bqGXC6z60G-64.png)(the "Dart Marks") are trademarks owned by Google and are not included within the assets licensed under the Creative Commons Attribution 4.0 International License. Google grants you a non-transferable, non-exclusive, royalty-free limited license to use the Dart Marks subject to your compliance with the [Dart brand guidelines](https://dart.dev/brand). Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Dart Marks.
+The "Dart" name and the Dart logo ![Dart logo](/assets/img/logo/dart-64.png) (the "Dart Marks") are trademarks owned by Google and are not included within the assets licensed under the Creative Commons Attribution 4.0 International License. Google grants you a non-transferable, non-exclusive, royalty-free limited license to use the Dart Marks subject to your compliance with the [Dart brand guidelines](https://dart.dev/brand). Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Dart Marks.
 
 As noted above, Google owns the Dart trademarks, but we license them so they can be used by the developer community to support the Dart SDK, including through training materials and other community content.
 
 At the same time, it's important to make sure that people don't use the marks in ways that could cause confusion or otherwise misuse the marks, so we have prepared [brand guidelines](https://dart.dev/brand) that describe the allowed uses of the marks. Our goal in protecting the Dart trademarks is to benefit the entire community by ensuring that the marks are only used in ways that are consistent with Google's mission to provide a free and open source SDK.
 
-[![Dart](/assets/img/U_EV6NzwXm-443.svg)](https://dart.dev/ "Dart")
+Unless stated otherwise, the documentation on this site reflects Dart 3.5.0. Page last updated on 2024-07-03. [View source](https://github.com/dart-lang/site-www/tree/main/src/content/terms.md) or [report an issue](https://github.com/dart-lang/site-www/issues/new?template=1_page_issue.yml&page-url=https://dart.dev/terms/&page-source=https://github.com/dart-lang/site-www/tree/main/src/content/terms.md "Report an issue with this page").
+
+[![Dart](/assets/img/logo/logo-white-text.svg)](https://dart.dev/ "Dart")
 
 [](https://medium.com/dartlang "Medium blog")[](https://github.com/dart-lang "GitHub")[](https://twitter.com/dart_lang "X (Twitter)")
 
