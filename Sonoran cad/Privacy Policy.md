@@ -2,6 +2,10 @@
 
 [Support](https://support.sonoransoftware.com/) [Download](https://info.sonorancad.com/downloads) [Server Hosting](https://sonoranservers.com/) [About](https://info.sonorancad.com/why-choose-sonoran-cad/about)
 
+More
+
+[Support](https://support.sonoransoftware.com/)[Download](https://info.sonorancad.com/downloads)[Server Hosting](https://sonoranservers.com/)[About](https://info.sonorancad.com/why-choose-sonoran-cad/about)
+
 SearchCtrl + K
 
 * [Sonoran CAD](https://info.sonorancad.com/)
@@ -688,7 +692,7 @@ If you have any questions or concerns about our use of your information, please 
 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
-Last updated 2 months ago
+Last updated 3 months ago
 
 On this page
 
