@@ -1,7 +1,5 @@
-[](https://border.fm/)
-
-[Border FM](https://border.fm/)
-===============================
+[Border FM
+=========](https://border.fm/ "Border FM / Home")
 
 * [Contacto](https://border.fm/contacto)
 * [Privacidad](https://border.fm/privacidad)
@@ -9,7 +7,7 @@
 Políticas de Privacidad
 -----------------------
 
-La presente Política de Privacidad establece los términos en que _Border FM_ usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. _Border FM_está comprometido con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo estas Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+La presente Política de Privacidad establece los términos en que _Border FM_ usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. _Border FM_ está comprometido con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo estas Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
 
 #### Información que es recogida
 
