@@ -228,6 +228,7 @@ This ILD Agreement may only be changed in the manner provided for in this sectio
 
 * [Wireless Plans](https://www.freedompop.com/plans)
 * [Transfer Your Number](https://help.freedompop.com/number-transfer)
+* [Lifeline](https://www.freedompop.com/assist)
 * [About Us](https://wireless.freedompop.com/about-us)
 
 ### Get FreedomPop
