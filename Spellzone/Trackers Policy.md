@@ -162,17 +162,17 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
+"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
 
-**Student, France**
+**Teacher, International School, Geneva**
 
 ### Curriculum...
 
 * * *
 
+* [Grade lists](https://www.spellzone.com/word_lists/graded-lists.cfm)
+* [Covers American English spelling](https://www.spellzone.com/pages/british-american.cfm)
 * [Curriculum word lists](https://www.spellzone.com/word_lists/lists-curriculum.cfm)
-* [Letters and Sounds](https://www.spellzone.com/curriculum/letters-and-sounds/index.cfm)
-* [English Appendix 1: Spelling](https://www.spellzone.com/curriculum/national-curriculum/index.cfm)
 * [Course lists](https://www.spellzone.com/word_lists/course_lists.cfm)
 
 ### Resources...
