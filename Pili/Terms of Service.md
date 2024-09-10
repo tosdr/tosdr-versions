@@ -60,6 +60,11 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![既濟](https://www.pili.com.tw/img/role/240x278/chichi_1.jpg?v=1723435482)
+    
+    雜學
+    
+    ###### 既濟](https://www.pili.com.tw/role-view/chichi/)
 * [![疏樓龍宿](https://www.pili.com.tw/img/role/240x278/longshou_1.jpg?v=1721642028)
     
     儒
@@ -105,11 +110,6 @@ Hello, 你好!
     雜學
     
     ###### 瘦犬](https://www.pili.com.tw/role-view/shouquan/)
-* [![搖風吟](https://www.pili.com.tw/img/role/240x278/yaofengyin_1.jpg?v=1716539483)
-    
-    雜學
-    
-    ###### 搖風吟](https://www.pili.com.tw/role-view/yaofengyin/)
 
 *  [![素還真](/img/role/240x278/su_1.jpg)
     
@@ -182,6 +182,24 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![九孽之斬](/img/wallpaper/pw01959.jpg)
+    
+    ###### 九孽之斬](https://www.pili.com.tw/img/wallpaper/pw01959.jpg)
+* [![揹黑的孤兒](/img/wallpaper/pw01958.jpg)
+    
+    ###### 揹黑的孤兒](https://www.pili.com.tw/img/wallpaper/pw01958.jpg)
+* [![閃焰](/img/wallpaper/pw01957.jpg)
+    
+    ###### 閃焰](https://www.pili.com.tw/img/wallpaper/pw01957.jpg)
+* [![巽非巽](/img/wallpaper/pw01956.jpg)
+    
+    ###### 巽非巽](https://www.pili.com.tw/img/wallpaper/pw01956.jpg)
+* [![既濟](/img/wallpaper/pw01955.jpg)
+    
+    ###### 既濟](https://www.pili.com.tw/img/wallpaper/pw01955.jpg)
+* [![搖風吟](/img/wallpaper/pw01954.jpg)
+    
+    ###### 搖風吟](https://www.pili.com.tw/img/wallpaper/pw01954.jpg)
 * [![淥宇塵](/img/wallpaper/pw01953.jpg)
     
     ###### 淥宇塵](https://www.pili.com.tw/img/wallpaper/pw01953.jpg)
@@ -194,24 +212,6 @@ Hello, 你好!
 * [![大腕開道紀](/img/wallpaper/pw01950.jpg)
     
     ###### 大腕開道紀](https://www.pili.com.tw/img/wallpaper/pw01950.jpg)
-* [![花初見](/img/wallpaper/pw01949.jpg)
-    
-    ###### 花初見](https://www.pili.com.tw/img/wallpaper/pw01949.jpg)
-* [![天禍妖狐](/img/wallpaper/pw01948.jpg)
-    
-    ###### 天禍妖狐](https://www.pili.com.tw/img/wallpaper/pw01948.jpg)
-* [![舍脂多](/img/wallpaper/pw01947.jpg)
-    
-    ###### 舍脂多](https://www.pili.com.tw/img/wallpaper/pw01947.jpg)
-* [![無師自渡](/img/wallpaper/pw01946.jpg)
-    
-    ###### 無師自渡](https://www.pili.com.tw/img/wallpaper/pw01946.jpg)
-* [![鬪蛉子](/img/wallpaper/pw01945.jpg)
-    
-    ###### 鬪蛉子](https://www.pili.com.tw/img/wallpaper/pw01945.jpg)
-* [![年幾何](/img/wallpaper/pw01944.jpg)
-    
-    ###### 年幾何](https://www.pili.com.tw/img/wallpaper/pw01944.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
@@ -265,20 +265,20 @@ Hello, 你好!
 
 #### 焦點新聞
 
-* [![8/18《Thunderbolt Fantasy 東離劍遊紀４》世界首映！](/img/news/548x316/2024073008592624355.jpg)
+* [![《TBF東離劍遊紀４》主題曲決定為西川貴教〈天叢雲劍-SKYBREAKER-〉！](/img/news/548x316/2024090911105413970.jpg)
     
     公告
     
-    2024.07.30
+    2024.09.09
     
-    ##### 8/18《Thunderbolt Fantasy 東離劍遊紀４》世界首映！](https://www.pili.com.tw/news-view/2024073008592624355/)
-* [![談無慾、凜雪鴉，前進漫博引爆轟動！《TBF東離劍遊紀４》電視劇集近期播映！](/img/news/548x316/2024072720395914764.jpg)
+    ##### 《TBF東離劍遊紀４》主題曲決定為西川貴教〈天叢雲劍-SKYBREAKER-〉！](https://www.pili.com.tw/news-view/2024090911105413970/)
+* [![《Thunderbolt Fantasy 東離劍遊紀４》五大平台 即將開播！](/img/news/548x316/2024090610300529834.jpg)
     
     公告
     
-    2024.07.27
+    2024.09.06
     
-    ##### 談無慾、凜雪鴉，前進漫博引爆轟動！《TBF東離劍遊紀４》電視劇集近期播映！](https://www.pili.com.tw/news-view/2024072720395914764/)
+    ##### 《Thunderbolt Fantasy 東離劍遊紀４》五大平台 即將開播！](https://www.pili.com.tw/news-view/2024090610300529834/)
 
 [探索全部](https://www.pili.com.tw/news-browse.php)
 
@@ -288,13 +288,13 @@ Hello, 你好!
 
 #### 精選專欄
 
-* [![霹靂品牌總監黃政嘉「玩轉新意」　一手包辦品牌日、金氏世界紀錄](/img/feature/860x540/8.jpg)
+* [![《刀說異數》、《東離劍遊紀》大獲成功！黃政嘉扭轉霹靂形象 投資音樂節目、影視作品](/img/feature/860x540/10.jpg)
     
     專欄
     
-    2024.06.13
+    2024.08.15
     
-    ##### 霹靂品牌總監黃政嘉「玩轉新意」　一手包辦品牌日、金氏世界紀錄](https://talkacemedia.com/article/4124)
+    ##### 《刀說異數》、《東離劍遊紀》大獲成功！黃政嘉扭轉霹靂形象 投資音樂節目、影視作品](https://talkacemedia.com/article/4130)
 
 [探索全部](https://www.pili.com.tw/feature-browse.php)
 
