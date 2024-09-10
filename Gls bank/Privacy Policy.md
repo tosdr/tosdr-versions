@@ -23,7 +23,7 @@
     * [Warum GLS Bank?](https://www.gls.de/privatkunden/nachhaltig/warum-gls-bank/ "Warum GLS Bank? - Warum GLS Bank?")
     * [Nachhaltigkeitsbezogene Offenlegung](https://www.gls.de/privatkunden/nachhaltig/nachhaltigkeitsbezogene-offenlegung/ "Nachhaltigkeitsbezogene Offenlegung - ")
     
-     [![Illustration: 2 Hände am Fahrradlenker, Blick auf Natur, Windräder und Menschen, ](/media/_processed_/4/9/csm_GLS.Nachhaltigkeitsbericht-2022-Zukunft-als-weg1-335x185_ca553b6966.jpg "Titelbild des GLS Nachhaltigkeitsberichts") Nachhaltig](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht")
+     [![Die Illustration zeigt Menschen im Dialog miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/9/f/csm_Teaser_530x380_812b2b0af1.jpg "GLS_Bank_Nachhaltigkeitsbericht_2023") Nachhaltig](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht")
     
     Lesen Sie unseren [Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls.de/ "GLS Nachhaltigkeitsbericht") 
     
@@ -95,7 +95,7 @@
     * [Zurück zur Übersicht](# "Zurück")
     * [Sparen](https://www.gls.de/privatkunden/sparen/ "Sparen")
     * [GLS Tagesgeldkonto](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto/ "Tagesgeldkonto - jederzeit verfügbar")
-    * [GLS Tagesgeldkonto Mitglied Neu](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied - ")
+    * [GLS Tagesgeldkonto Mitglied](https://www.gls.de/privatkunden/sparen/gls-tagesgeldkonto-mitglied/ "GLS Tagesgeldkonto Mitglied - ")
     * [GLS Festgeld](https://www.gls.de/privatkunden/sparen/festgeld/ "Festgeld - kurz und sicher")
     * [GLS Sparbrief](https://www.gls.de/privatkunden/sparen/gls-sparbrief/ "Sparbriefe im Überblick - langfristig und wirksam")
         
@@ -1121,6 +1121,12 @@ Die schnellsten Wege:
 Mo bis Do: 08:30 – 17:00 Uhr  
 Fr: 08:30 – 16:00 Uhr
 
+#### Fragen zum GLS Onlinebanking?
+
+Mo bis Fr: 08:00 – 20:00 Uhr  
+Sa: 09:00 – 14:00 Uhr  
++49 234 5797 444
+
 **Postanschrift**
 
 GLS Gemeinschaftsbank eG  
@@ -1137,7 +1143,7 @@ _BIC:_ GENODEM1GLS
 * [Karriere](https://www.gls.de/privatkunden/karriere/ "Karriere")
 * [Newsletter](https://www.gls.de/privatkunden/newsletter/ "Newsletter")
 * [Konditionen & Preise](https://www.gls.de/privatkunden/konditionen-preise/ "Konditionen & Preise")
-* [English Portrait](https://www.gls.de/privatkunden/english-portrait/ "English Portrait")
+* [English](https://www.gls.de/privatkunden/english/ "English")
 * Cookies
 
 Über die GLS Bank
@@ -1169,33 +1175,20 @@ Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
 
 [**GLS Treuhand e. V.**
 
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Bank-Blog")
+Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Treuhand e. V.")
 
 [**GLS Bank Stiftung**
 
-Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS Bank-Blog")
+Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS Bank Stiftung")
 
 [**GLS Mobility GmbH**
 
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Bank-Blog")
+Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Mobility GmbH")
 
 [**GLS Crowdfunding GmbH**
 
-Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Bank-Blog")
+Direktinvestitionen mit Wirkung](https://www.gls-crowd.de/willkommen/#pk_campaign=gls-ik "GLS Crowdfunding GmbH")
 
 [**GLS Investment Management GmbH**
 
-Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Bank-Blog")
-
-Störung im Onlinebanking
-------------------------
-
-Liebe Kundin, lieber Kunde,
-
-aktuell gibt es eine technische Störung in unserem Onlinebanking.
-
-Wir arbeiten mit Hochdruck an einer Lösung.
-
-Wir bitten um Ihr Verständnis. Vielen Dank.
-
-Ihre GLS Bank
+Für strenge nachhaltige Fonds](https://www.gls-investments.de/ "GLS Investment Management GmbH")
