@@ -24,9 +24,9 @@ Last Updated: 19 August 2022
 Website Privacy Policy
 ======================
 
-Thank you for choosing to part of the community at [https://chloeting.com](https://chloeting.com/) (the "Website") by Chloe Ting ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy.
+Thank you for choosing to part of the community on the Core by Chloe Ting mobile application on the Google Play Store or Apple App Store (the "App"), or at [https://chloeting.com](https://chloeting.com/) (the "Website"), or collectively referred to as Our Services. We are committed to protecting your personal information and your right to privacy.
 
-This Privacy Policy notice serves to inform you of the information we collect about you, why we need to collect this data, how we use it and your rights in relation to it, and applies when you use our Website or engage with us in other related ways — including any email marketing or information shared with us through our Discord server, found at discord.gg/chloeting ("Services"). By continuing to use the Website and its Services you consent to the contents of this Privacy Policy. As such, please ensure you read this Privacy Policy carefully to understand our commitment to you. If you have any questions about this Privacy Policy, please email us at [support@chloeting.com](mailto:support@chloeting.com).
+This Privacy Policy notice serves to inform you of the information we collect about you, why we need to collect this data, how we use it and your rights in relation to it, and applies when you use our Website or App. By continuing to use the Website and App, and its Services you consent to the contents of this Privacy Policy. As such, please ensure you read this Privacy Policy carefully to understand our commitment to you. If you have any questions about this Privacy Policy, please email us at [support@chloeting.com](mailto:support@chloeting.com).
 
 ### Information We Collect
 
@@ -38,7 +38,9 @@ This Privacy Policy notice serves to inform you of the information we collect ab
 
 ### How We Handle Your Social Logins
 
-### Third-Party Websites
+### 3rd Party Advertisements
+
+### Connected Accounts/Services
 
 ### How Long We Keep Your Information
 
