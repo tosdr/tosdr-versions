@@ -148,7 +148,7 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [Status.bit.nl in nieuw jasje!](https://www.bit.nl/news/3527/88/Status.bit.nl-in-nieuw-jasje)
+#### [BIT geeft kaarten weg voor F1 in Zandvoort](https://www.bit.nl/news/3571/88/BIT-geeft-kaarten-weg-voor-F1-in-Zandvoort)
 
 [](https://www.bit.nl/nieuws)
 
@@ -168,13 +168,15 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[01-08-24 Periodiek onderhoud brandmeldinstallatie BIT-1](https://www.bit.nl/news/3566/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-1) [14-08-24 Onderhoud blusgasinstallatie BIT-2BCD.](https://www.bit.nl/news/3569/92/Onderhoud-blusgasinstallatie-BIT-2BCD.)
+[09-09-24 Periodiek onderhoud stroomvoorziening BIT-2BCD](https://www.bit.nl/news/3572/92/Periodiek-onderhoud-stroomvoorziening-BIT-2BCD) [25-09-24 Onderhoud statistieken in de BIT-portal](https://www.bit.nl/news/3584/92/Onderhoud-statistieken-in-de-BIT-portal) [26-09-24 Periodiek onderhoud brandmeldinstallatie BIT-2A en BIT-2BCD](https://www.bit.nl/news/3580/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-2A-en-BIT-2BCD)
 
 [](https://www.bit.nl/onderhoud)
 
 #### [Incidenten](https://www.bit.nl/incidenten)
 
-\-
+[10-09-24 \[Opgelost\] Korte onderbreking smtp.bit.nl](https://www.bit.nl/news/3582/92/Opgelost-Korte-onderbreking-smtp.bit.nl)
+
+[](https://www.bit.nl/incidenten)
 
 BIT  
 Galileïlaan 19  
