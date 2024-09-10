@@ -322,7 +322,7 @@ Search for: ![Search](https://www.safewise.com/app/themes/coolwhip/assets/icons/
 Terms of Service
 ================
 
-[![SafeWise Team](https://www.safewise.com/app/uploads/2021/01/sw-owl-300.png)](https://www.safewise.com/blog/author/safewise-team/)
+[![SafeWise Team](https://www.safewise.com/app/uploads/2021/01/sw-owl-300-150x150.png)](https://www.safewise.com/blog/author/safewise-team/)
 
 By [SafeWise Team](https://www.safewise.com/blog/author/safewise-team/)
 
