@@ -104,59 +104,38 @@
     *  ![icon](https://www.parchment.com/wp-content/uploads/2023/01/platform6.svg) International
         * [Issuing
             
-            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/)
-            * [CORE](https://www.parchment.com/platform/international/digitary/core/)
-            * [Digital Badges](https://www.parchment.com/platform/international/digitary/digital-badges/)
+            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/global-issuing/)
+            * [Digitary Services](https://www.parchment.com/platform/international/global-issuing/digitary-services/)
+            * [Digital Badges](https://www.parchment.com/platform/international/global-issuing/digitary-services-badges/)
         * [Admissions & Enrollment
             
-            Simplify your institution’s document intake process, eliminate paperwork, and streamline communication with your applicants.](https://www.parchment.com/platform/international/digitary/receive/)
-            * [Receiving](https://www.parchment.com/platform/international/digitary/receive/)
+            Simplify your institution’s document intake process, eliminate paperwork, and streamline communication with your applicants.](https://www.parchment.com/platform/international/global-admissions-enrollment/digitary-services-receiving/)
+            * [Receiving](https://www.parchment.com/platform/international/global-admissions-enrollment/digitary-services-receiving/)
         * [Verifications
             
-            Streamline and enhance your evaluation procedures, attracting top global talent effortlessly.](https://www.parchment.com/platform/international/digitary/via/)
-            * [Verified International Applicants](https://www.parchment.com/platform/international/digitary/via/)
+            Streamline and enhance your evaluation procedures, attracting top global talent effortlessly.](https://www.parchment.com/platform/international/global-verifications/digitary-services-via/)
+            * [Verified International Applicants](https://www.parchment.com/platform/international/global-verifications/digitary-services-via/)
         ![icon](https://www.parchment.com/wp-content/uploads/2023/01/platform6.svg)
     
 * Pricing
     
-    *  [![pricing1 icon](https://www.parchment.com/wp-content/uploads/2023/01/pricing1.svg) Compare Plans](https://www.parchment.com/pricing/compare-plans/)
+    *  [![pricing piggy bank icon](https://www.parchment.com/wp-content/uploads/2024/09/pricing1.svg) Compare Plans](https://www.parchment.com/pricing/compare-plans/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/pricing2.svg) Get a Quote](https://www.parchment.com/pricing/get-a-quote/)
-    
-* Resources
-    
-    *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/resources1.svg) All Resources](https://www.parchment.com/resources/)
-        
-        [All Resources
-        
-        ![Parchment-K-12-Digital-Diploma-Services-Platform-1](https://www.parchment.com/wp-content/uploads/2024/02/Parchment-K-12-Digital-Diploma-Services-Platform-1-320x160.jpg)
-        
-        Announcing Diploma Services for K-12: Print & Digital Diploma Management to enhance student mobility](https://www.parchment.com/resources/)
-        
-    *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/resources2.svg) Events & Webinars](https://www.parchment.com/resources/events-webinars/)
-        
-        [Events & Webinars
-        
-        ![WaACRAO-2024](https://www.parchment.com/wp-content/uploads/2024/07/WaACRAO-2024-320x192.jpg)
-        
-        2024 WACRAO Conference](https://www.parchment.com/resources/events-webinars/)
-        
-    *  [![Chat icon](https://www.parchment.com/wp-content/uploads/2023/04/resources3.svg) Podcast](https://www.parchment.com/resources/podcast/)
-        
-        [Podcast
-        
-        ![Parchment-Podcast-Episode-16](https://www.parchment.com/wp-content/uploads/2024/06/Parchment-Podcast-Episode-16-320x192.jpg)
-        
-        The Impact of Course Sharing on Student Success](https://www.parchment.com/resources/podcast/)
-        
-    *  [![Computer-eLearning - icon (1)](https://www.parchment.com/wp-content/uploads/2023/10/Computer-eLearning-icon-1-40x40.png) Training](https://www.parchment.com/resources/training/)
     
 * Company
     
-    *  [![one place icon](https://www.parchment.com/wp-content/uploads/2023/01/about1.svg) About Us](https://www.parchment.com/company/about-us/)
+    *  [![parchment-network-002-icon](https://www.parchment.com/wp-content/uploads/2023/07/parchment-network-002-icon-40x40.png) About Us](https://www.parchment.com/company/about-us/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about2.svg) Leadership](https://www.instructure.com/about/leadership)
+    *  [![icon-admit-yield](https://www.parchment.com/wp-content/uploads/2024/03/icon-admit-yield.svg) Advisory Board](https://www.parchment.com/company/advisory-board/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about3.svg) Partners](https://www.parchment.com/company/partners/)
-    *  [![briefcase - icon](https://www.parchment.com/wp-content/uploads/2023/01/about4.svg) Careers](https://www.parchment.com/company/careers/)
+    *  [![about4 - icon](https://www.parchment.com/wp-content/uploads/2024/08/about4.svg) Careers](https://www.parchment.com/company/careers/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about5.svg) Press](https://www.parchment.com/resources/press/)
+    *  ![library-icon](https://www.parchment.com/wp-content/uploads/2023/07/library-icon-40x40.png) Resources
+        * [All Resources](https://www.parchment.com/resources/)
+        * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
+        * [Podcast](https://www.parchment.com/resources/podcast/)
+        * [Training](https://www.parchment.com/resources/training/)
+        ![library-icon](https://www.parchment.com/wp-content/uploads/2023/07/library-icon-40x40.png)
     
 * [Book a Demo](https://www.parchment.com/book-a-demo/)
 * Order & Status
@@ -166,6 +145,27 @@
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/students2.svg) Check Order Status](https://www.parchment.com/students/order-status/#existing-order)
     
 *  [![ui-sign-in](https://www.parchment.com/wp-content/uploads/2023/06/ui-sign-in.svg) Login](https://www.parchment.com/u/auth/login)
+* ![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
+    
+    * [![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
+        
+        US](https://www.parchment.com/privacy-policy/)
+    * [![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
+        
+        AU](https://www.parchment.com/en-au/)
+    * [![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
+        
+        CA](https://www.parchment.com/en-ca/)
+    * [![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+        
+        UK](https://www.parchment.com/en-gb/)
+    * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
+        
+        NZ](https://www.parchment.com/en-nz/)
+    * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
+        
+        IE](https://www.parchment.com/en-ie/)
+    
 
 Menu
 
@@ -662,7 +662,6 @@ Company
 * [ ]  Students
 * [ ]  Platform
 * [ ]  Pricing
-* [ ]  Resources
 * [ ]  Company
 [Book a Demo](https://www.parchment.com/book-a-demo/)* [ ]  Order & Status
  [![vimeo](https://www.parchment.com/wp-content/uploads/2023/06/ui-sign-in.svg) Login](https://www.parchment.com/u/auth/login)
@@ -698,9 +697,9 @@ Platform
     * [Industries](https://www.parchment.com/platform/workforce/industries/)
 * [Power of the Network](https://www.parchment.com/platform/power-of-the-network/)
 * [ ]  International
-    * [Issuing](https://www.parchment.com/platform/international/)
-    * [Admissions & Enrollment](https://www.parchment.com/platform/international/digitary/receive/)
-    * [Verifications](https://www.parchment.com/platform/international/digitary/via/)
+    * [Issuing](https://www.parchment.com/platform/international/global-issuing/)
+    * [Admissions & Enrollment](https://www.parchment.com/platform/international/global-admissions-enrollment/digitary-services-receiving/)
+    * [Verifications](https://www.parchment.com/platform/international/global-verifications/digitary-services-via/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
 Pricing
@@ -709,21 +708,19 @@ Pricing
 * [Get a Quote](https://www.parchment.com/pricing/get-a-quote/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
-Resources
-
-* [All Resources](https://www.parchment.com/resources/)
-* [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
-* [Podcast](https://www.parchment.com/resources/podcast/)
-* [Training](https://www.parchment.com/resources/training/)
-[Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
-
 Company
 
 * [About Us](https://www.parchment.com/company/about-us/)
 * [Leadership](https://www.instructure.com/about/leadership)
+* [Advisory Board](https://www.parchment.com/company/advisory-board/)
 * [Partners](https://www.parchment.com/company/partners/)
 * [Careers](https://www.parchment.com/company/careers/)
 * [Press](https://www.parchment.com/resources/press/)
+* [ ]  Resources
+    * [All Resources](https://www.parchment.com/resources/)
+    * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
+    * [Podcast](https://www.parchment.com/resources/podcast/)
+    * [Training](https://www.parchment.com/resources/training/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
 Order & Status
@@ -732,6 +729,35 @@ Order & Status
 * [Third Party Order](https://www.parchment.com/students/how-it-works/#on-behalf)
 * [Check Order Status](https://www.parchment.com/students/order-status/#existing-order)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
+
+### Parchment has detected your location as United States.
+
+To ensure you’re seeing the right products and services tailored to your region, please select your location from the options below. If you don’t see your country or region listed, choose the one closest to you.
+
+[Visit Parchment United States](https://www.parchment.com/privacy-policy/)
+
+Or select your desired region
+
+* ![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
+    
+    [AU](https://www.parchment.com/en-au/)
+    
+* ![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
+    
+    [CA](https://www.parchment.com/en-ca/)
+    
+* ![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+    
+    [UK](https://www.parchment.com/en-gb/)
+    
+* ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
+    
+    [NZ](https://www.parchment.com/en-nz/)
+    
+* ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
+    
+    [IE](https://www.parchment.com/en-ie/)
+    
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.  
 
@@ -746,6 +772,31 @@ Close
 #### Privacy Overview
 
 This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Functional
+
+ Functional
+
+Always Enabled
+
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+
+| Cookie | Duration | Description |
+| --- | --- | --- |
+| \_\_cf\_bm | 30 minutes | This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. |
+| \_\_sharethis\_cookie\_test\_\_ | session | ShareThis sets this cookie to track which pages are being shared and by whom. |
+| bcookie | 1 year | LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID. |
+| bscookie | 1 year | LinkedIn sets this cookie to store performed actions on the website. |
+| lang | session | LinkedIn sets this cookie to remember a user's language setting. |
+| li\_gc | 5 months 27 days | This is a cookie from LinkedIn and is used for storing visitors' consent regarding the use of cookies for non-essential purposes |
+| lidc | 1 day | LinkedIn sets the lidc cookie to facilitate data center selection. |
+| liveagent\_oref | 1 year | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
+| liveagent\_ptid | 1 year | LiveAgent sets this cookie to link previous chats and transcripts from a single visitor. |
+| liveagent\_sid | session | LiveAgent sets this cookie to capture a unique pseudonymous ID when a user requests a chat during an active session. |
+| liveagent\_vc | 1 year | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
+| NextPage | past | This cookie tracks the previous page to allow users to go back and forth between pages using the user interface buttons. |
+| UserMatchHistory | 1 month | LinkedIn sets this cookie for LinkedIn Ads ID syncing. |
+| X-Salesforce-CHAT | session | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
 
 Necessary
 
@@ -770,29 +821,6 @@ Necessary cookies are absolutely essential for the website to function properly.
 | viewed\_cookie\_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
 | vuid | 2 years | Vimeo installs this cookie to collect tracking information by setting a unique ID to embed videos to the website. |
 | webinarVideo | never | Recursive support screen share session tracking cookie |
-
-Functional
-
- functional
-
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-
-| Cookie | Duration | Description |
-| --- | --- | --- |
-| \_\_cf\_bm | 30 minutes | This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. |
-| \_\_sharethis\_cookie\_test\_\_ | session | ShareThis sets this cookie to track which pages are being shared and by whom. |
-| bcookie | 1 year | LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser ID. |
-| bscookie | 1 year | LinkedIn sets this cookie to store performed actions on the website. |
-| lang | session | LinkedIn sets this cookie to remember a user's language setting. |
-| li\_gc | 5 months 27 days | This is a cookie from LinkedIn and is used for storing visitors' consent regarding the use of cookies for non-essential purposes |
-| lidc | 1 day | LinkedIn sets the lidc cookie to facilitate data center selection. |
-| liveagent\_oref | 1 year | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
-| liveagent\_ptid | 1 year | LiveAgent sets this cookie to link previous chats and transcripts from a single visitor. |
-| liveagent\_sid | session | LiveAgent sets this cookie to capture a unique pseudonymous ID when a user requests a chat during an active session. |
-| liveagent\_vc | 1 year | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
-| NextPage | past | This cookie tracks the previous page to allow users to go back and forth between pages using the user interface buttons. |
-| UserMatchHistory | 1 month | LinkedIn sets this cookie for LinkedIn Ads ID syncing. |
-| X-Salesforce-CHAT | session | This cookie is set by LiveAgent to allow Live Chat assistance for existing customers. |
 
 Performance
 
@@ -878,3 +906,7 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 Save & Accept
 
 Powered by [![CookieYes Logo](https://www.parchment.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+
+           
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site. Switch to a production site key to [remove this banner](https://wpml.org/faq/how-to-remove-the-this-site-is-registered-on-wpml-org-as-a-development-site-notice/).
