@@ -1,6 +1,6 @@
-[Download Now: The Supergraph Architecture Guide, 2024 Edition](https://hasura.io/resources/supergraph-architecture-guide)
+[Hasura Data Delivery Network is now GA - Read the release blog](https://hasura.io/blog/launching-hasura-ddn)
 
-[![](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
+[![Hasura Logo](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
 /
 
@@ -8,15 +8,29 @@ Product
 
 Developer
 
-[Customers](https://hasura.io/customers)
+[Enterprise](https://hasura.io/enterprise)
 
-Company
+Resources
 
-[Pricing](https://hasura.io/pricing)
+[Customers](https://hasura.io/customers)[Pricing](https://hasura.io/pricing)
+
+[What is Hasura?](https://hasura.io/products)[Compare Plans](https://hasura.io/pricing)[Get started](https://console.hasura.io/)
+
+Connectors
+
+[PostgreSQL](https://hasura.io/graphql/database/postgresql)[MySQL](https://hasura.io/graphql/database/mysql)[Elasticsearch](https://hasura.io/graphql/database/elasticsearch)[SQL Server](https://hasura.io/graphql/database/sql-server)[MongoDB](https://hasura.io/graphql/database/mongodb)[Snowflake](https://hasura.io/graphql/database/snowflake)[Clickhouse](https://hasura.io/graphql/database/clickhouse)[More](https://hasura.io/graphql/database)
+
+Developer
+
+[Documentation](https://hasura.io/docs/3.0/index/)[Connector Hub](https://hasura.io/connectors)[Tutorials](https://hasura.io/learn/)[Community](https://hasura.io/community)[Discord](https://discord.com/invite/hasura)[Discussions](https://github.com/hasura/graphql-engine/discussions)[Meetups](https://www.meetup.com/pro/hasura/)[Hasura Community Call](https://hasura.io/events/community-call/latest)
+
+Resources
+
+[Blogs](https://hasura.io/blog)[Webinars](https://hasura.io/events?category=Webinar#wall-section)[Graphql Hub](https://hasura.io/graphql/)[Events](https://hasura.io/events)[Whitepapers](https://hasura.io/resources)[Supergraph Manifesto](https://supergraph.io/)
 
 /
 
-[Contact Us](https://hasura.io/contact-us)[Get Started](https://cloud.hasura.io/signup?pg=legal-hasura-privacy-policy&plcmt=header&cta=get-started&tech=default)
+[Contact Us](https://hasura.io/contact-us)[Get Started](https://console.hasura.io/?pg=legal-hasura-privacy-policy)
 
 ![hasura-header-illustration](https://res.cloudinary.com/dh8fp23nd/image/upload/v1705670474/website%20v3/customers/mutations_1_tdh5ir_yf6n7k.png)
 
@@ -24,15 +38,11 @@ Product
 
 Developer
 
-Customers
+Resources
 
-Company
+[Enterprise](https://hasura.io/enterprise)[Customers](https://hasura.io/customers)[Contact Us](https://hasura.io/contact-us)
 
-Pricing
-
-[Contact Us](https://hasura.io/contact-us)
-
-[Get Started](https://cloud.hasura.io/signup?pg=legal-hasura-privacy-policy&plcmt=header&cta=get-started&tech=default)
+[Get Started](https://console.hasura.io/?pg=legal-hasura-privacy-policy)
 
 Hasura, Inc.: Privacy Policy
 ============================
@@ -317,19 +327,15 @@ A GraphQL Handbook for developers and architects to help plan your GraphQL adopt
 
 Platform
 
-[Hasura CE Edition](https://hasura.io/opensource/)[Hasura EE](https://hasura.io/enterprise/)[Hasura Cloud](https://hasura.io/cloud/)[Pricing](https://hasura.io/pricing)
-
-Capabilities
-
-[Instant API](https://hasura.io/product/instant-api)[Authorization](https://hasura.io/product/authorization)[Performance](https://hasura.io/product/performance)[Federation](https://hasura.io/products/federation)[API Security](https://hasura.io/product/api-security)[Observability](https://hasura.io/product/observability)
+[Hasura DDN](https://hasura.io/products)[Connectors](https://hasura.io/graphql/database)[Pricing](https://hasura.io/pricing)[Security](https://hasura.io/security/)
 
 Build
 
-[Docs](https://hasura.io/docs/latest/index/)[Hasura Hub](https://hasura.io/hub/)[Changelog](https://github.com/hasura/graphql-engine/releases/)[GraphiQL](https://cloud.hasura.io/public/graphiql)
+[Docs](https://hasura.io/docs/3.0/index/)[Tutorials](https://hasura.io/learn/)[GitHub](https://github.com/hasura)
 
 Learn
 
-[Blog](https://hasura.io/blog)[Tutorials](https://hasura.io/learn/)[Events](https://hasura.io/events)[Supergraph.io](https://supergraph.io/)
+[Enterprise](https://hasura.io/enterprise)[Blog](https://hasura.io/blog)[Events](https://hasura.io/events)[Supergraph.io](https://supergraph.io/)[GraphQL Hub](https://hasura.io/graphql/)
 
 Company
 
@@ -337,11 +343,7 @@ Company
 
 Connect
 
-[Community](https://hasura.io/community)[Discord](https://discord.com/invite/hasura)
-
-Community
-
-[Docs](https://hasura.io/docs/latest/index/)[Help](https://hasura.io/help/)[GitHub](https://github.com/hasura)[Contact Us](https://hasura.io/contact-us)
+[Community](https://hasura.io/community)[Discord](https://discord.com/invite/hasura)[Forum](https://github.com/hasura/graphql-engine/discussions)[Meetups](https://www.meetup.com/pro/hasura/)[Monthly call](https://hasura.io/events/community-call/latest)[Support](https://hasura.io/support-hub)[Contact Us](https://hasura.io/contact-us)
 
 [](https://www.linkedin.com/company/hasura/)[](https://www.youtube.com/channel/UCZo1ciR8pZvdD3Wxp9aSNhQ)[](https://www.facebook.com/HasuraHQ)[](https://twitter.com/hasurahq)[](https://www.instagram.com/hasurahq/?hl=en)
 
