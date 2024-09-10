@@ -349,7 +349,7 @@ Flatmates.com.au:
 
 **b.** You acknowledge and agree that you are permitted to use the Website Content only as set out in these Terms and Conditions of Use or as otherwise expressly authorised in writing by Flatmates.com.au, and that you may not otherwise copy, reproduce, transmit, publicly perform, distribute, commercially exploit, adapt, translate, modify, bundle, merge, share or make available to any person, or create derivative works of the Website Content.
 
-**b.**Subject to your compliance with these Terms and Conditions of Use, you may reproduce or communicate any Website Content appearing in any articles or blog posts appearing on the Website that have been posted by Flatemates.com.au as long as you credit Flatmates.com.au as the source of any such content and provide a link to the Website when reproducing or communicating such content.
+**c.**Subject to your compliance with these Terms and Conditions of Use, you may reproduce or communicate any Website Content appearing in any articles or blog posts appearing on the Website that have been posted by Flatmates.com.au as long as (i) you credit Flatmates.com.au as the source of any such content and provide a link to the Website when reproducing or communicating such content, and (ii) your use is either personal use for a non-commercial purpose or fair and reasonable commercial use, to be determined at our discretion.
 
 7\. TAKE-DOWN NOTICE
 --------------------
@@ -420,7 +420,7 @@ Apps accessible via Android devices include software from The Android Open Sourc
 
 More About Us
 
-[Flatmates.com.au Community Charter](https://flatmates.com.au/info/community-charter)[Is Flatmates.com.au really the biggest?](https://flatmates.com.au/info/australias-biggest-share-site)[Pricing Increases August 2023](https://flatmates.com.au/info/flatmates-pricing-increases)[Address and map location change FAQs](https://flatmates.com.au/info/address-and-location-change-faqs)[Flatmates Gender Identities](https://flatmates.com.au/info/flatmates-gender-identities)[View all About Us](https://flatmates.com.au/info/about-us)
+[How to protect yourself from scammers](https://flatmates.com.au/info/scammers)[Terms and Conditions of Use](https://flatmates.com.au/info/terms)[Security Checks](https://flatmates.com.au/info/security-checks)[Pricing Increases August 2024](https://flatmates.com.au/info/flatmates-pricing-increases)[Flatmates.com.au Community Charter](https://flatmates.com.au/info/community-charter)[View all About Us](https://flatmates.com.au/info/about-us)
 
 1. [Home](https://flatmates.com.au/)
 2. [Info](https://flatmates.com.au/info)
