@@ -16,7 +16,7 @@ Open menu
 * [ADVERTISE](https://nerdist.com/advertise/ "ADVERTISE")
 * Open search
 
-[](https://nerdist.com/play)
+[](https://geekandsundry.com/)
 
 Open search
 
@@ -296,4 +296,4 @@ Close menu
 
 [](https://www.facebook.com/Nerdist/ "Facebok Nerdist")[](https://twitter.com/nerdist "Twitter Nerdist")[](https://instagram.com/nerdist "Instagram Nerdist")[](https://www.youtube.com/nerdist "Youtube Nerdist")[](https://www.tiktok.com/@nerdist "TikTok Nerdist")
 
-[![Geek and Sundry](https://nerdist.com/wp-content/themes/nerdist_2021/img/geek_sundry_logo_blue.png)](https://nerdist.com/play)
+[](https://geekandsundry.com/)
