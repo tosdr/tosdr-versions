@@ -1,4 +1,4 @@
-[SAVE 30% ON ULTIMATE VARIETY PACK | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
+[SAVE 30% ON ENTREE VARIETY PACK | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
@@ -8,7 +8,7 @@
 
 Meals
 
-15 to choose from](https://nutristorefoods.com/collections/meals)
+16 to choose from](https://nutristorefoods.com/collections/meals)
 
 [![Meats](//nutristorefoods.com/cdn/shop/collections/meats_300x.png?v=1654477093)
 
@@ -20,7 +20,7 @@ Meats
 
 Fruits
 
-10 to choose from](https://nutristorefoods.com/collections/fruits)
+11 to choose from](https://nutristorefoods.com/collections/fruits)
 
 [![Veggies](//nutristorefoods.com/cdn/shop/collections/veggies_300x.png?v=1654477075)
 
@@ -38,13 +38,13 @@ Cheeses
 
 Clearance
 
-8 to choose from](https://nutristorefoods.com/collections/clearance)
+4 to choose from](https://nutristorefoods.com/collections/clearance)
 
 [![Bulk](//nutristorefoods.com/cdn/shop/collections/Meal_Variety_Bundle_-_Copy_300x.png?v=1656694776)
 
 Bulk
 
-19 to choose from](https://nutristorefoods.com/collections/bulk)
+20 to choose from](https://nutristorefoods.com/collections/bulk)
 
 [Shop All](https://nutristorefoods.com/collections/shop-all-food)
 
@@ -91,7 +91,7 @@ Join Now
 
 Meals
 
-15 to choose from](https://nutristorefoods.com/collections/meals)
+16 to choose from](https://nutristorefoods.com/collections/meals)
 
 [![Meats](//nutristorefoods.com/cdn/shop/collections/meats_300x.png?v=1654477093)
 
@@ -103,7 +103,7 @@ Meats
 
 Fruits
 
-10 to choose from](https://nutristorefoods.com/collections/fruits)
+11 to choose from](https://nutristorefoods.com/collections/fruits)
 
 [![Veggies](//nutristorefoods.com/cdn/shop/collections/veggies_300x.png?v=1654477075)
 
@@ -121,7 +121,7 @@ Cheeses
 
 Bulk
 
-19 to choose from](https://nutristorefoods.com/collections/bulk)
+20 to choose from](https://nutristorefoods.com/collections/bulk)
 
 [![GovX ID Military Discount](//nutristorefoods.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_300x.gif)
 
