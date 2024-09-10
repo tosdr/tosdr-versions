@@ -27,8 +27,8 @@ Initializing search
     * [iOS](https://pwsafe.info/ios/)
     * [Mac](https://pwsafe.info/mac/)
     * [pwSafe Cloud](https://pwsafe.info/pwsafecloud/)
+    * [Non-English Versions](https://pwsafe.info/localization/)
     * [FAQ](https://pwsafe.info/faq/)
-    * [Syncing FAQ](https://pwsafe.info/syncing-faq/)
     * [ ]  Privacy Policy [Privacy Policy](https://pwsafe.info/privacy-policy/)
         
         Table of contents
