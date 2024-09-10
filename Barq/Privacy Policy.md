@@ -9,7 +9,7 @@ HomeTeamVolunteer!
 Privacy Policy
 ==============
 
-Last updated March 17, 2023
+Last updated September 7, 2024
 
 barq is an online service offered and created by Woutske's company Godev ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at [\[email protected\]](https://barq.social/cdn-cgi/l/email-protection).
 
