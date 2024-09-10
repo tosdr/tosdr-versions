@@ -71,6 +71,7 @@ Terms of Use
 
 **Languages**
 
+* [Arabic](https://glooko.com/wp-content/uploads/2024/08/Glooko-Terms-of-Use-Arabic-2024.pdf)
 * [Čeština](https://glooko.com/wp-content/uploads/2022/08/Glooko-Inc.-Terms-of-Use-Clean-2022-June-09_CS.pdf)
 * [Dansk](https://glooko.com/wp-content/uploads/2022/02/Glooko-Inc.-AB-Terms-of-Use-Danish-2022-Jan-18-1.pdf)
 * [Deutsch](https://glooko.com/wp-content/uploads/2021/11/Glooko-AB-Terms-of-Use-Germany-2021-Nov-11.pdf)
