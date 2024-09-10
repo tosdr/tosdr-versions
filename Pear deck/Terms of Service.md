@@ -103,7 +103,7 @@ Log In
 Liminex Product Terms of Service and End User License Agreement
 ===============================================================
 
-Last Updated Date: January 22, 2024
+Last Updated Date: August 30, 2024
 
 Introduction
 ------------
@@ -134,7 +134,7 @@ We generally make our Offerings available on a paid subscription-based license. 
 
 ### 1.1 Ordering
 
-You may obtain Subscriptions to our Offerings either directly from us or one of our Affiliates or indirectly through one of our Authorized Resellers. If you purchase a Subscription to an Offering through an Authorized Reseller, you will enter into an Order Form directly with such Authorized Reseller and may be subject to additional terms as agreed upon between you and the Authorized Reseller. You expressly agree that this Agreement governs your access to and use of any Offering that you acquire from an Authorized Reseller, as well your relationship with us as to any products or services you purchase through an Authorized Reseller. You further agree that we and our Affiliates have the right to enforce the terms of this Agreement with respect to such purchases. You also acknowledge that no Authorized Reseller is authorized to provide warranties with respect to any Offerings in excess of those provided by us in this Agreement. The terms regarding any value-added services provided to you by an Authorized Reseller are solely between you and the Authorized Reseller and we have no responsibility for any such services.
+You may obtain Subscriptions to our Offerings either directly from us or one of our Affiliates or indirectly through one of our Authorized Resellers. If you purchase a Subscription to an Offering through an Authorized Reseller, you will enter into an Order Form directly with such Authorized Reseller and may be subject to additional terms as agreed upon between you and the Authorized Reseller. You expressly agree that this Agreement governs your access to and use of any Offering that you acquire from an Authorized Reseller, as well your relationship with us as to any products or services you purchase through an Authorized Reseller.  You further agree that we and our Affiliates have the right to enforce the terms of this Agreement with respect to such purchases. You also acknowledge that no Authorized Reseller is authorized to provide warranties with respect to any Offerings in excess of those provided by us in this Agreement. The terms regarding any value-added services provided to you by an Authorized Reseller are solely between you and the Authorized Reseller and we have no responsibility for any such services.
 
 If during the Subscription Term, you would like to expand your base Subscription(s) to include additional licenses above your Licensed Capacity, please contact us so that we can send you an additional Order Form for those Add-Ons. If we do not hear from you and you deploy additional Licenses, we or, as applicable, an Authorized Reseller will send you an Order Form and invoice you for the subscriptions to the Add-Ons that you use above your Licensed Capacity. Add-Ons, once deployed and paid, will be rolled into your base Subscription.
 
@@ -142,11 +142,11 @@ If during the Subscription Term, you would like to expand your base Subscription
 
 Before accessing certain Offerings, you may be required to create an Account. When setting up your Account, you may link your Offerings with your Google, Microsoft, and/or Learning Management System ("LMS") account for ease of sign on and, for certain Offerings, to pull in a directory of Managed Accounts or Devices. In linking your Account to your Google, Microsoft, and/or LMS account, you are granting us access to certain account information from your Google, Microsoft, and/or LMS account, as permitted under the applicable terms and conditions that govern your use of that Google, Microsoft, or LMS account.
 
-#### 1.2.1
+#### 1.2.1 
 
 **Authorized Users.** Within your Account, you may have the ability to enable separate sub-accounts for Authorized Users. You are responsible for issuing and maintaining such sub-accounts only for appropriate Authorized Users, as well as issuing and maintaining appropriate permission settings for each Authorized User.
 
-#### 1.2.2
+#### 1.2.2 
 
 **School Information.** When creating an Account, you agree to (a) provide true, accurate, current and complete information necessary to create the Account and to deploy the Offerings you have subscribed to on Managed Devices or Accounts; and (b) promptly update any such information to maintain its accuracy and completeness during the Term. Without limiting the generality of the foregoing, you agree to provide and maintain accurate, up-to-date and complete School Profile Information, and for Accounts, Authorized School Personnel Information, Personal Student Information, Parent/Guardian Information, and Association Data.  You acknowledge and agree that proper implementation and operation of certain Offerings depends largely on the accuracy, completeness and timeliness of the Personal Student Information, Parent/Guardian Information and Association Information ingested into the product; therefore, it is of the utmost importance that you take great care in maintaining and updating this Personal Student Information, Parent/Guardian Information and Association Information at all times during the Term.
 
@@ -154,7 +154,7 @@ You are responsible for ensuring the confidentiality and security of School Acco
 
 #### 1.2.3
 
-**Account Settings.** You are responsible for selecting and updating the settings in the Offerings you subscribe to as you see fit and ensuring that the selections comply with all Applicable Law, as well as any guidelines and requirements you have established, including, with respect to use of the GoGuardian Offerings, for monitoring Managed Devices or Accounts and parents’ or guardians’ authorization of such monitoring. If you have questions about any settings in an Offering or your Account, such as permissions and settings associated with Managed Devices or Accounts, please visit, as applicable, the GoGuardian [Help Center](https://help.goguardian.com/hc/en-us?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact support@goguardian.com, or visit the Pear Deck [Help Center](https://help.peardeck.com/en?__hstc=181186424.a331f9cd231b0501655e39b86932d339.1628617317261.1637174793540.1637256220337.25&__hssc=181186424.1.1637256220337&__hsfp=431394172) and/or contact [support@deck.peardeck.com](mailto:support@deck.peardeck.com), or visit the Pear Assessment [Help Center](https://edulastic.com/help-center/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@assessment.peardeck.com](mailto:support@assessment.peardeck.com), or visit the Pear Deck Tutor [Help Center](https://help.tutorme.com/en/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@tutor.peardeck.com](mailto:support@tutor.peardeck.com), or visit the Pear Practice [Help Center](https://support.giantsteps.app/s/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@practice.peardeck.com](mailto:support@practice.peardeck.com).
+**Account Settings.** You are responsible for selecting and updating the settings in the Offerings you subscribe to as you see fit and ensuring that the selections comply with all Applicable Law, as well as any guidelines and requirements you have established, including, with respect to use of the GoGuardian Offerings, for monitoring Managed Devices or Accounts and parents’ or guardians’ authorization of such monitoring. If you have questions about any settings in an Offering or your Account, such as permissions and settings associated with Managed Devices or Accounts, please visit, as applicable, the GoGuardian [Help Center](https://help.goguardian.com/hc/en-us?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@goguardian.com](mailto:support@goguardian.com), or visit the Pear Deck [Help Center](https://help.peardeck.com/en?__hstc=181186424.a331f9cd231b0501655e39b86932d339.1628617317261.1637174793540.1637256220337.25&__hssc=181186424.1.1637256220337&__hsfp=431394172) and/or contact [support@deck.peardeck.com](mailto:support@deck.peardeck.com), or visit the Pear Assessment [Help Center](https://edulastic.com/help-center/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@assessment.peardeck.com](mailto:support@assessment.peardeck.com), or visit the Pear Deck Tutor [Help Center](https://help.tutorme.com/en/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@tutor.peardeck.com](mailto:support@tutor.peardeck.com), or visit the Pear Practice [Help Center](https://support.giantsteps.app/s/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) and/or contact [support@practice.peardeck.com](mailto:support@practice.peardeck.com).
 
 ### 1.3 Payment Terms
 
@@ -185,7 +185,7 @@ You acknowledge that you may experience downtime (a) as a result of our conducti
 
 ### 2.3 Integrations with Offerings
 
-We may allow you to access certain third party software or offerings through your Account via an application programming interface (“API”) or other technical connection (such software or offering, an “Integration Offering”). Because you control whether to integrate and use an Integration Offering, you are solely responsible for all interactions with the Integration Offering, including ensuring appropriate privacy, contractual, and other protections with it as well as ensuring that you are complying with any terms you are required to agree with the provider of such Integration Offering. Integration Offerings are not “Offerings” under this Agreement and are not subject to any of the warranties, service commitments or other obligations with respect to Offerings hereunder. The availability of any Integration Offering through any of our Offerings does not imply our endorsement of or affiliation with the provider of such Integration Offering. We do not control any Integration Offering and will have no liability to you in connection with any Integration Offering. We have no obligation to monitor or maintain access to Integration Offerings, and may disable the ability to integrate with them or restrict access to any Integration Offerings at any time, with or without notice to you (though we, of course, will endeavor to provide notice of any such disabling whenever reasonably practicable under the circumstances). By using or enabling any Integration Offering, you are expressly permitting us and our Affiliates to disclose your School Profile Information, and, to the extent applicable to your Offering, your Authorized School Personnel Information, Personal Student Information, Parent/Guardian Information, Association Information or other information, including support requests and Log and Cookie Information to the extent necessary to utilize the Integration Offering. YOUR USE OF ANY INTEGRATION OFFERINGS IS AT YOUR OWN RISK AND IS SUBJECT TO ANY ADDITIONAL TERMS, CONDITIONS AND POLICIES APPLICABLE TO SUCH INTEGRATION OFFERINGS (SUCH AS TERMS OF SERVICE OR PRIVACY POLICIES OF THE PROVIDERS OF SUCH INTEGRATION OFFERINGS).
+We may allow you to access certain third party software or offerings (e.g., YouTube) through your Account via an application programming interface (“API”) or other technical connection (such software or offering, an “Integration Offering”). Because you control whether to integrate and use an Integration Offering, you are solely responsible for all interactions with the Integration Offering, including ensuring appropriate privacy, contractual, and other protections with it as well as ensuring that you are complying with any terms, such as the [YouTube Terms of Service](https://www.youtube.com/t/terms), you are required to agree with the provider of such Integration Offering depending on the Integration Offering being accessed. Integration Offerings are not “Offerings” under this Agreement and are not subject to any of the warranties, service commitments or other obligations with respect to Offerings hereunder. The availability of any Integration Offering through any of our Offerings does not imply our endorsement of or affiliation with the provider of such Integration Offering. We do not control any Integration Offering and will have no liability to you in connection with any Integration Offering. We have no obligation to monitor or maintain access to Integration Offerings, and may disable the ability to integrate with them or restrict access to any Integration Offerings at any time, with or without notice to you (though we, of course, will endeavor to provide notice of any such disabling whenever reasonably practicable under the circumstances). By using or enabling any Integration Offering, you are expressly permitting us and our Affiliates to disclose your School Profile Information, and, to the extent applicable to your Offering, your Authorized School Personnel Information, Personal Student Information, Parent/Guardian Information, Association Information or other information, including support requests and Log and Cookie Information to the extent necessary to utilize the Integration Offering. YOUR USE OF ANY INTEGRATION OFFERINGS IS AT YOUR OWN RISK AND IS SUBJECT TO ANY ADDITIONAL TERMS, CONDITIONS AND POLICIES APPLICABLE TO SUCH INTEGRATION OFFERINGS (SUCH AS TERMS OF SERVICE OR PRIVACY POLICIES OF THE PROVIDERS OF SUCH INTEGRATION OFFERINGS).
 
 3\. Your Use of Offerings and Your Responsibilities
 ---------------------------------------------------
@@ -311,6 +311,8 @@ Your escalation and notification list for such alert and/or notification feature
 
 Additionally, without limiting the generality of the other terms of this Agreement, if your School uses GoGuardian Beacon or GoGuardian Admin (the self harm smart alerts or Beacon starter function), your School represents and warrants that your School: (1) is solely responsible for having, to the extent legally required, an up-to-date and easily available suicide prevention policy; (2) is solely responsible for having, to the extent legally required, a necessary suicide prevention program; and (3) your School will notify parents/guardians about your School’s adoption of GoGuardian Beacon and educate them about suicide prevention (including, suicide risk factors, warning signs, and resources) before enabling the Guardian Notification feature (or similar functionality) of GoGuardian Beacon or GoGuardian Admin (the self harm smart alerts or Beacon starter function).
 
+Further, GoGuardian Beacon sends SMS messages to users who have opted-in to receive text messages for certain alerts as described above. Only those notifications which have been enabled in the "Staff Notifications" section of the "Alert Preferences" will be sent. If you have any questions regarding privacy, please read our [Product Privacy Policy](https://www.goguardian.com/policies/product-privacy). You can cancel the SMS service at any time through your GoGuardian Beacon settings. Please navigate to “Your Beacon Profile” under “Settings”, un-check “Text Message” under “Notifications Format”, and save changes. After this, you will no longer receive SMS messages from us. To join again, sign up as you did the first time and GoGuardian Beacon will begin sending SMS messages to you again. If you experience issues with GoGuardian Beacon notifications you can get help directly at [support@goguardian.com](mailto:support@goguardian.com) or [https://help.goguardian.com](https://help.goguardian.com/). Carriers are not liable for delayed or undelivered messages. Message and data rates may apply for any messages sent to you from GoGuardian. Message frequency is recurring and depends on your GoGuardian Beacon settings, and whether an alert is triggered. Contact your wireless provider with any questions about your text or data plan.
+
 10\. Content, Copyright Policies, and Community Galleries
 ---------------------------------------------------------
 
@@ -318,43 +320,43 @@ _i. This Section explains how content is used in certain Offerings and the right
 
 ### 10.1 Content in the Services Generally
 
-#### 10.1.1
+#### 10.1.1 
 
 You understand that all information (such as data files, fonts, written text, computer software, music, audio files, image files or other sounds, photographs, videos or other images) which you may have access to as part of, or through your use of, any Offerings (“Content”) is the sole responsibility of the person from which such Content originated. All such Content that is uploaded into or generated in any Offerings by or on behalf of you or your Authorized Users shall be referred to herein as  “Your Content”.
 
-#### 10.1.2
+#### 10.1.2 
 
 You should be aware that Content, other than Your Content, made available as part of any Offerings, including but not limited to licensed and sponsored-Content, may be protected by intellectual property rights which are owned by the third party that provided that Content to us (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on such Content (either in whole or in part) unless you have been specifically told that you may do so by us or by the owners of such Content, in a separate agreement.
 
-#### 10.1.3
+#### 10.1.3 
 
 We reserve the right (but shall have no obligation) to pre-screen, review, flag, filter, modify, refuse or remove any or all Content, including Your Content, from any Offering.
 
-#### 10.1.4
+#### 10.1.4 
 
 You understand that by using any Offering, you may be exposed to Content that you may find offensive, indecent or objectionable and that, in this respect, you use any Offering at your own risk.
 
-#### 10.1.5
+#### 10.1.5 
 
 You agree that you are solely responsible for (and that neither Liminex nor any Liminex Parties from which you purchased any Offerings have any responsibility to you or to any third party for) any Content that you create, transmit or display while using any Offering and for the consequences of your actions (including any loss or damage which any Liminex Party may suffer) by doing so.
 
 ### 10.2 License to Your Content
 
-#### 10.2.1
+#### 10.2.1 
 
 You retain copyright and any other rights you already hold in Your Content that you submit, share, upload, post or display on or through, any Offering. Unless otherwise stated in a separate written agreement between Liminex and You, by submitting, sharing, uploading, posting, or displaying Your Content you hereby grant to Liminex and our Affiliates a worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, and distribute Your Content, solely for the purpose of enabling Liminex and our Affiliates to provide you with any Offering in accordance with the terms of this Agreement and the [Product Privacy Policy](https://www.peardeck.com/policies/privacy-policy-for-product-users).
 
-#### 10.2.2
+#### 10.2.2 
 
 You understand that, in performing the required technical steps to provide any Offering to our users, we may (a) transmit or distribute Your Content over various public networks and in various media; and (b) make such changes to Your Content as are necessary to conform and adapt that content to the technical requirements of connecting networks, devices, services or media. You agree that this license shall permit us to take these actions.
 
-#### 10.2.3
+#### 10.2.3 
 
 You confirm and warrant that you have all the rights, power and authority necessary to grant the above license. You agree that you will not submit, share, upload, post or display any Content on or through, any Offering that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to submit, share, upload, post or display such Content and to grant Liminex all of the license rights granted in this Section.
 
 ### 10.3 Copyright Policies
 
-#### 10.3.1
+#### 10.3.1 
 
 It is our policy to terminate access privileges of any users who repeatedly infringe copyright(s) embedded or used in connection with our Offerings upon prompt notification to Liminex by the copyright owner or the copyright owner’s legal agent. Without limiting the foregoing, if you believe that your work has been copied and posted on or within the Offerings in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; (b) a description of the copyrighted work that you claim has been infringed; (c) a description of the location on or within the Offerings of the material that you claim is infringing; (d) your address, telephone number and e-mail address; (e) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and (f) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.  Contact information for Liminex’s Copyright Agent for notice of claims of copyright infringement is as follows:
 
@@ -368,35 +370,35 @@ El Segundo, CA 90245
 
 We may remove any Content from the Offering if we believe or have reason to believe such Content infringes the intellectual property rights of a third party. Without prior notice and at any time, in our sole discretion, we reserve the right to remove any Content, disable your ability to share or upload Content through the Offerings, or terminate your access to any Offerings (a) for uploading or sharing such Content in violation of this Agreement; or (b) if, under appropriate circumstances, you are determined to be a repeat infringer.
 
-#### 10.3.2
+#### 10.3.2 
 
 We reserve the right in our sole discretion to decide whether your conduct is inappropriate and whether it complies with this Agreement for violations other than copyright infringement, such as, but not limited to, pornography, obscene or defamatory material, etc. We may terminate your access for such inappropriate conduct in violation of this Agreement at any time and remove any such objectionable Content, without prior notice and at its sole discretion.
 
 ### 10.4 Third Party Websites and Resources
 
-#### 10.4.1
+#### 10.4.1 
 
 The Offerings may include hyperlinks to other websites or resources that are controlled, owned or operated by third parties.You acknowledge and agree that we have no control over any such websites or resources and you access and use such websites and resources at your own risk.
 
-#### 10.4.2
+#### 10.4.2 
 
 Without limiting the foregoing, you acknowledge and agree that neither Liminex, its Affiliates nor any Authorized Reseller are responsible for the availability of any such external sites or resources, and that we do not endorse any advertising, products or other materials on or available from such websites or resources.
 
-#### 10.4.3
+#### 10.4.3 
 
 You acknowledge and agree that neither Liminex, its Affiliates nor any licensor or Authorized Reseller are liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such websites or resources.
 
 ### 10.5 Community Galleries and Gallery Content
 
-#### 10.5.1
+#### 10.5.1 
 
 Certain Offerings may contain galleries (“Community Galleries”), which may include Content, including templates or questions, supplied by us or third parties, including other users of any Offerings (“Other Content Users”). Community Galleries include any Content, library or gallery that we choose at our discretion to make available to you as part of the Community Galleries (such content, the “Gallery Content”). As between you and the creators of Gallery Content, any intellectual property or proprietary rights remain with the creators.
 
-#### 10.5.2
+#### 10.5.2 
 
 The Gallery Content: (a) is meant to serve as a suggestion only; and (b) is not a substitute for professional advice or specific, authoritative knowledge or direction. We do not promise that the Gallery Content will work for your purposes, or that it is free from viruses, bugs, or other defects. The Gallery Content is provided “as is” and without warranty of any kind. You alone bear the risk of using Gallery Content. No Liminex Party provides any express warranties, guarantees and conditions with regard to the Gallery Content. To the extent permitted under Applicable Law, the Liminex Parties expressly disclaim any and all implied warranties and conditions of merchantability, fitness for a particular purpose, workmanlike effort, title and non-infringement.
 
-#### 10.5.3
+#### 10.5.3 
 
 If you choose to submit Your Content to become part of the Community Galleries (“Your Gallery Submission”), you direct and authorize Liminex and its affiliates to host, link to, and otherwise incorporate Your Gallery Submission into any Offering, and you hereby grant to Liminex and its Affiliates, and the Other Content Users an irrevocable, perpetual, worldwide, royalty-free, non-exclusive license to:
 
@@ -406,19 +408,19 @@ If you choose to submit Your Content to become part of the Community Galleries (
 
 (C) publicly display and distribute copies of Your Gallery Submission or any components or derivatives thereof (“Your Gallery Submission License”).
 
-#### 10.5.4
+#### 10.5.4 
 
 For the avoidance of doubt, we reserve, and you hereby grant us, the right to syndicate Your Gallery Submission and to use Your Gallery Submission in connection with any of the Offerings. While you may stop distributing Your Gallery Submission through the Community Galleries at any time, doing so will not in any way affect our right or the right of Other Content Users to exercise the rights granted to us as part of Your Gallery Submission License under this Agreement. To stop distributing Your Gallery Submission through the Community Galleries, (1) for Pear Deck Offerings, you must send an email to [support@deck.peardeck.com](mailto:support@deck.peardeck.com), in which case Your Gallery Submission will be removed in accordance with our standard procedures; and (2) for Pear Assessment Offerings and Pear Practice Offerings, you must delete Your Content or change Your sharing level permissions.
 
-#### 10.5.5
+#### 10.5.5 
 
 You represent and warrant that (a) you own or have obtained the necessary legal rights to provide Your Gallery Submissions and will maintain these rights for as long as Your Gallery Submission is made available to Other Content Users; and (b) all of Your Gallery Submissions abide by the posted Program Policies.
 
-#### 10.5.6
+#### 10.5.6 
 
 We claim no ownership over any of Your Gallery Submissions. You retain copyright and any other rights, including all intellectual property rights, you already hold in Your Gallery Submissions. You agree that you are responsible for protecting and enforcing those rights and that we have no obligation to do so on your behalf.
 
-#### 10.5.7
+#### 10.5.7 
 
 You agree that you are solely responsible for (and that we have no responsibility to you or to any third party for) any of Your Gallery Submissions that you submit. We are not in any way responsible for the subsequent use or misuse by any Other Content User or other third party who accesses Your Gallery Submission through any Offering or otherwise.
 
@@ -433,31 +435,31 @@ You acknowledge that the Agreement is between you and Liminex or one of its Affi
 
 ### 11.2 Accessing and Downloading an App Store Sourced Application from the Apple App Store
 
-#### 11.2.1
+#### 11.2.1 
 
 You acknowledge and agree that (a) the Agreement is concluded between you and us only, and not Apple, and (b) we, not Apple, are solely responsible for the App Store Sourced Application and content thereof. Your use of the App Store Sourced Application must comply with the Apple App Store Terms of Service. You agree to only use an App Store Sourced Application that is accessed through or downloaded from the Apple App Store (a) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (b) as permitted by the “Usage Rules” set forth in the Apple App Store Terms of Service.
 
-#### 11.2.2
+#### 11.2.2 
 
 You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.
 
-#### 11.2.3
+#### 11.2.3 
 
 In the event of any failure of the App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and if applicable, Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application. As between the Liminex Parties and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of the Liminex Parties.
 
-#### 11.2.4
+#### 11.2.4 
 
 You and the Liminex Parties acknowledge that, as between the Liminex Parties and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App Store Sourced Application or your possession and use of the App Store Sourced Application, including, but not limited to: (a) product liability claims; (b) any claim that the App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation.
 
-#### 11.2.5
+#### 11.2.5 
 
 You and the Liminex Parties acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that App Store Sourced Application infringes that third party’s intellectual property rights, as between the Liminex Parties and Apple, the Liminex Parties, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
 
-#### 11.2.6
+#### 11.2.6 
 
 The parties acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of the Agreement as related to your license of the App Store Sourced Application, and that, upon your acceptance of the terms and conditions of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce the Agreement as related to your license of the App Store Sourced Application against you as a third-party beneficiary thereof.
 
-#### 11.2.7
+#### 11.2.7 
 
 Without limiting any other terms of the Agreement, you must comply with all applicable third-party terms of agreement when using the App Store Sourced Application.
 
@@ -503,17 +505,19 @@ In the event of a dispute, claim, or controversy arising out of or relating to t
 
 The parties shall use reasonable, good faith efforts to resolve any Claim through consultation and good faith negotiations within thirty (30) days from the date that any notice of a Claim is sent. After thirty (30) days, you or we may resort to the other alternatives described in Section 15.2.1. Notwithstanding the foregoing, the notice requirement in this section and the 30-day negotiation period required shall not apply to Claims involving patents, copyrights, moral rights, trademarks, trade secrets or piracy or unauthorized use of an Offering.
 
-### 15.2.1
+#### 15.2.1
 
-**Binding Arbirtation.** _Arbitration Rules and Forum_ Except as otherwise specifically set forth below, any Claims between you and us, if unresolved through informal consultation and negotiation pursuant to the preceding paragraph, shall be resolved by binding arbitration to be held in Los Angeles, California. Notwithstanding the foregoing, if School is a United States public and accredited educational institution domiciled in a state within the United States that expressly requires a different location for arbitration other than Los Angeles, California, then School’s state’s required location for binding arbitration will apply. If School that is a United States public and accredited educational institution and your consent to binding arbitration is expressly prohibited by the laws of the state within the United States in which School’s educational institution is domiciled, then this Section is hereby waived. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. The arbitration shall be conducted by a single arbitrator, governed by JAMS pursuant to its Comprehensive Arbitration Rules & Procedures (collectively, “JAMS Rules”), as modified by this Agreement, and administered by JAMS. The JAMS Rules and fee information are available at www.jamsadr.org or by calling JAMS at 1-800-352-5267. The arbitrator shall have exclusive authority to (a) determine the scope and enforceability of this Arbitration Agreement, and (b) resolve any dispute related to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including, but not limited to, any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator will decide the rights and liabilities, if any, of each party. The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties.
+**Binding Arbitration.** _Arbitration Rules and Forum_ Except as otherwise specifically set forth below, any Claims between you and us, if unresolved through informal consultation and negotiation pursuant to the preceding paragraph, shall be resolved by binding arbitration to be held in Los Angeles, California. Notwithstanding the foregoing, if School is a United States public and accredited educational institution domiciled in a state within the United States that expressly requires a different location for arbitration other than Los Angeles, California, then School’s state’s required location for binding arbitration will apply. If School that is a United States public and accredited educational institution and your consent to binding arbitration is expressly prohibited by the laws of the state within the United States in which School’s educational institution is domiciled, then this Section is hereby waived. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. The arbitration shall be conducted by a single arbitrator, governed by JAMS pursuant to its Comprehensive Arbitration Rules & Procedures (collectively, “JAMS Rules”), as modified by this Agreement, and administered by JAMS. The JAMS Rules and fee information are available at www.jamsadr.org or by calling JAMS at 1-800-352-5267. The arbitrator shall have exclusive authority to (a) determine the scope and enforceability of this Arbitration Agreement, and (b) resolve any dispute related to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including, but not limited to, any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator will decide the rights and liabilities, if any, of each party. The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties.
 
 _Exceptions: Litigation of Intellectual Property and Small Claims Court Claims_ concerning patents, copyrights, moral rights, trademarks, and trade secrets, and Claims of piracy or unauthorized use of any Offering shall not be subject to arbitration under this Section 15.2.1. In addition, the parties may choose to pursue a Claim in small claims court where jurisdiction and venue over the parties otherwise qualify for such small claims court and where the Claim does not include a request for any type of equitable relief.
+
+_Batch Arbitration:_ Notwithstanding this Section 15.2.1, to increase the efficiency of administration and resolution of arbitrations, you and Liminex agree that, in the event there are ten (10) or more individual Claims of a substantially similar nature (i.e., Claims that arise out of or relate to the same or similar facts and raise the same or similar legal issues and requests for relief) filed against Liminex by or with the assistance of the same law firm, group of law firms, or organizations, within a ninety (90) day period, JAMS shall (1) administer the arbitration demands in batches of 100 Claims per batch (or, if between ten (10) and ninety-nine (99) individual Disputes are filed, a single batch of all those Claims, and, to the extent there are less than 100 Claims remaining after the batching described above, a final batch consisting of the remaining Claims); (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be determined by the arbitrator, and one final award (“Batch Arbitration”). If there is any dispute about the applicability of these Batch Arbitration procedures, JAMS shall appoint a single administrative arbitrator to determine the applicability of the Batch Arbitration process.
 
 _Authority of Arbitrator:_ In binding arbitration, the arbitrator shall have the authority (a) to grant motions dispositive of all or part of any Claim; (b) to award monetary damages; and (c) to grant any non-monetary remedy or relief available to an individual under Applicable Law, the arbitral forum’s rules, and this Agreement (including the Arbitration Agreement). The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and us.
 
 _Confidentiality:_ All aspects of the arbitration proceeding, including but not limited to the award of the arbitrator and compliance therewith, shall be strictly confidential. Both parties agree to maintain confidentiality unless otherwise required by law. This paragraph shall not prevent either party from submitting to a court of law any information necessary to enforce this Agreement, to enforce an arbitration award, or to seek injunctive or equitable relief.
 
-### 15.2.2
+#### 15.2.2
 
 **Class Action Waiver.** THE PARTIES HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. The parties are instead electing that all Claims not otherwise resolved informally as permitted above shall be resolved by arbitration under this Arbitration Agreement. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
 
@@ -569,9 +573,9 @@ You may not use, export, import, or transfer any Offering except as authorized b
 
 For the purposes of this Agreement, the following capitalized terms will have the meanings set forth for each of them below:
 
-### 17.1 Add-on
+### 17.1 Add-on 
 
-‍**Add-on** means any additional license to an Offering, beyond the original Licensed Capacity purchased, the parties agree to add to School’s Subscription during a Subscription Term.
+**Add-on** means any additional license to an Offering, beyond the original Licensed Capacity purchased, the parties agree to add to School’s Subscription during a Subscription Term.
 
 ### 17.2 Activity Information
 
@@ -585,7 +589,7 @@ For the purposes of this Agreement, the following capitalized terms will have th
 
 **Applicable Law** means any applicable federal and state laws, rules and regulations, applicable to the parties and/or the Offerings, including but not limited to the Family Educational Rights and Privacy Act (“FERPA”), and the Applicable Mental Health Laws.
 
-### 17.5 Applicable Mental Health Law
+### 17.5 Applicable Mental Health Law 
 
 **Applicable Mental Health Law** means any federal and state laws, rules and regulations applicable to School’s suicide and self-harm program and use of GoGuardian Beacon or GoGuardian Admin (self-harm smart alerts and/or Beacon Starter), including applicable law mandating staff training, certain suicide staff roles such as suicide prevention coordinators, and school prevention, intervention, and post-intervention policies.
 
@@ -601,23 +605,23 @@ For the purposes of this Agreement, the following capitalized terms will have th
 
 **Authorized User** means an individual who is authorized by School to use an Offering, for whom School has purchased or provisioned a Subscription, and to whom School (or, when applicable, Liminex or one of its Affiliates, at School’s request) has supplied access credentials (for Offerings utilizing authentication). Authorized Users include, for example, Authorized School Personnel and agents and third parties such as students and parents/guardians.
 
-### 17.9 Authorized School Personnel
+### 17.9 Authorized School Personnel 
 
 **Authorized School Personnel** means an Authorized User who is an employee, teacher, or official of a School or a School’s district.
 
-### 17.10 Authorized School Personnel Information
+### 17.10 Authorized School Personnel Information 
 
 **Authorized School Personnel Information** means information about Authorized School Personnel, including permission levels associated with the Authorized School Personnel, chat messages between students and teachers using an Offering, such as GoGuardian Teacher, unique account identifiers generated by us, and other relevant unique identifiers.
 
-### 17.11 Confidential Information
+### 17.11 Confidential Information 
 
 **Confidential Information** means (a) any software utilized by us in the provision of any Offering and its respective source code; (b) each party’s business or technical information, including but not limited to the User Documentation, information relating to software plans, designs, costs, prices and names, business opportunities, personnel, research, development or know-how that is designated by the disclosing party as “confidential” or “proprietary” or the receiving party knows or should reasonably know is confidential or proprietary; and (c) any special pricing or other non-standard terms agreed to by the parties in an Order Form or other separate written document. Confidential Information will not include any information that: (w) is or becomes generally known to the public without breach of any obligation owed to the disclosing party; (x) was known to a party prior to its disclosure by the other party without breach of any obligation owed to the other party; (y) was independently developed by a party without breach of any obligation owed to the other party; or (z) was or is received from a third party without breach of any obligation owed to the other party.
 
-### 17.12 Deidentified Information
+### 17.12 Deidentified Information 
 
 **Deidentified Information** means aggregated and anonymized data which may be derived from School Account Information, Personal Student Information, Parent/Guardian Information, School Log and Cookie Information, or Activity Information; provided such Deidentified Information cannot reasonably be used to identify any Authorized User, user of a Managed Device or Account, or any other individual.
 
-### 17.13 Education Records
+### 17.13 Education Records 
 
 **Education Records** means “education records” as defined under the FERPA regulation 34 CFR § 99.3.
 
@@ -633,33 +637,33 @@ For the purposes of this Agreement, the following capitalized terms will have th
 
 **Offering** means any product or service, including Professional Services, made available by Liminex or its Affiliates, including the GoGuardian Offerings, the Pear Deck Offerings, the Pear Assessment Offerings, the Pear Deck Tutor Offerings, and the Pear Practice Offerings.
 
-#### 17.16.1
+#### 17.16.1 
 
-‍**GoGuardian Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the GoGuardian brand, other than the Websites.
+**GoGuardian Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the GoGuardian brand, other than the Websites.
 
-#### 17.16.2
+#### 17.16.2 
 
-‍**Pear Deck Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Deck brand, other than the Websites.
+**Pear Deck Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Deck brand, other than the Websites.
 
-#### 17.16.3
+#### 17.16.3  
 
-‍**Pear Assessment Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Assessment brand, other than the Websites.
+**Pear Assessment Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Assessment brand, other than the Websites.
 
-#### 17.16.4
+#### 17.16.4 
 
-‍**Pear Practice Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Practice brand, other than the Websites.
+**Pear Practice Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Practice brand, other than the Websites.
 
-#### 17.16.5
+#### 17.16.5 
 
-‍**Pear Deck Tutor Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Deck Tutor brand, other than the Websites.
+**Pear Deck Tutor Offering(s)** means Liminex’s suite of products and services, including Professional Services, provided under the Pear Deck Tutor brand, other than the Websites.
 
-### 17.17 Liminex Parties
+### 17.17 Liminex Parties 
 
-‍**Liminex Parties** means Liminex, its Affiliates, including Pear Deck Inc., Snapwiz Inc., and Zorro Holdco, LLC, and each of their respective licensors, suppliers, officers, directors, employees, shareholders, agents and representatives.
+**Liminex Parties** means Liminex, its Affiliates, including Pear Deck Inc., Snapwiz Inc., and Zorro Holdco, LLC, and each of their respective licensors, suppliers, officers, directors, employees, shareholders, agents and representatives.
 
 ### 17.18 Licensed Capacity
 
-‍**Licensed Capacity** means the number of licenses to an Offering covered by a Subscription during a Subscription Term (e.g., depending on the particular offering and licensing model indicated on the Order Form, the number of accounts, authorized devices, installations, seats, or tutoring hours).
+**Licensed Capacity** means the number of licenses to an Offering covered by a Subscription during a Subscription Term (e.g., depending on the particular offering and licensing model indicated on the Order Form, the number of accounts, authorized devices, installations, seats, or tutoring hours).
 
 ### 17.19 Managed Device or Account
 
@@ -693,7 +697,7 @@ For the purposes of this Agreement, the following capitalized terms will have th
 
 **School Account Information** means School Profile Information, Authorized School Personnel Information, and Association Information.
 
-### 17.27 School Affiliate
+### 17.27 School Affiliate 
 
 **School Affiliate** means any Affiliate of School that has been designated in an Order Form as authorized to access the Offerings under this Agreement.
 
@@ -715,9 +719,9 @@ For the purposes of this Agreement, the following capitalized terms will have th
 
 ### 17.32 User Documentation
 
-**User Documentation** means the online user guides, documentation, and help and training materials we make accessible at GoGuardian [Help Center](https://help.goguardian.com/hc/en-us?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the Pear Deck [Help Center](https://help.peardeck.com/en?__hstc=181186424.a331f9cd231b0501655e39b86932d339.1628617317261.1637174793540.1637256220337.25&__hssc=181186424.1.1637256220337&__hsfp=431394172), the Pear Assessment [Help Center](https://edulastic.com/help-center/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the Pear Practice [Help Center,](https://support.giantsteps.app/s/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) the [Pear Deck Tutor Help Center](https://help.tutorme.com/en/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the [Code of Conduct - Pear Deck Tutor](https://www.peardeck.com/policies/pear-deck-tutor-code-of-conduct), or such other URL we identify from time to time, and any other materials we provide as part of the Offerings, all as may be updated from time to time.
+**User Documentation** means the online user guides, documentation, and help and training materials we make accessible at GoGuardian [Help Center](https://help.goguardian.com/hc/en-us?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the Pear Deck [Help Center](https://help.peardeck.com/en?__hstc=181186424.a331f9cd231b0501655e39b86932d339.1628617317261.1637174793540.1637256220337.25&__hssc=181186424.1.1637256220337&__hsfp=431394172), the Pear Assessment [Help Center](https://edulastic.com/help-center/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the Pear Practice [Help Center,](https://support.giantsteps.app/s/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620) the Pear Deck Tutor [Help Center](https://help.tutorme.com/en/?__hstc=4451244.0d456da7e863253ebfb2300d52614dad.1673026256264.1699567208945.1699570364598.35&__hssc=4451244.7.1699570364598&__hsfp=3599258620), the [Code of Conduct - Pear Deck Tutor](https://www.peardeck.com/policies/pear-deck-tutor-code-of-conduct), or such other URL we identify from time to time, and any other materials we provide as part of the Offerings, all as may be updated from time to time.
 
-### 17.33 Website(s)
+### 17.33 Website(s) 
 
 **Website(s)** means the Liminex or its Affiliates’ websites made available online to the public that are not the Offerings.
 
