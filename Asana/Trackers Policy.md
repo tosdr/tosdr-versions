@@ -1,7 +1,3 @@
-Introducing Asana’s Summer 2024 Release. Discover what's new.[Explore now](https://asana.com/whats-new?utm_medium=web&utm_source=top-banner)
-
-x icon
-
 [Asana Home](https://asana.com/?noredirect)
 
 * Features chevron-down icon
@@ -14,9 +10,7 @@ Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어Nederla
 
 Choose your preferred language
 
-[Contact sales](https://asana.com/sales)
-
-[Log In](https://app.asana.com/-/login)
+[Contact sales](https://asana.com/sales)[Log In](https://app.asana.com/-/login)
 
 [Get started](https://asana.com/create-account "Get started")
 
@@ -41,6 +35,7 @@ Featureschevron-down icon
 * [Goals](https://asana.com/features/goals-reporting/goals)
 * [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
 * [Portfolios](https://asana.com/features/goals-reporting/portfolios)
+* [asana-intelligence iconAsana AI](https://asana.com/product/ai)
 * [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
 * [Rules](https://asana.com/features/workflow-automation/rules)
 * [Forms](https://asana.com/features/workflow-automation/forms/)
@@ -51,7 +46,7 @@ Featureschevron-down icon
 * [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
 * [Admin console](https://asana.com/features/admin-security/admin-console)
-* [asana-intelligence iconAsana AI](https://asana.com/product/ai)
+* [Permissions](https://asana.com/features/admin-security/permissions)
 
 ### ALL PLANS
 
@@ -68,27 +63,29 @@ Solutionschevron-down icon
 * [IT](https://asana.com/teams/it)
 * [Leaders](https://asana.com/teams/leaders)
 
+### Industries
+
+* [Healthcare](https://asana.com/industry/healthcare)
+* [Education](https://asana.com/industry/education)
+* [Nonprofit](https://asana.com/industry/nonprofit)
+
 ### Uses
 
 * [Goal management](https://asana.com/uses/goal-management)
 * [Organizational planning](https://asana.com/uses/organizational-planning)
-* [Campaign management](https://asana.com/uses/campaign-management)
-* [Creative production](https://asana.com/uses/creative-production)
-* [Content calendars](https://asana.com/uses/content-calendar)
-* [Marketing strategic planning](https://asana.com/uses/marketing-strategic-planning)
-* [Resource planning](https://asana.com/uses/resource-planning)
 * [Project intake](https://asana.com/uses/project-intake)
+* [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
-* [Employee onboarding](https://asana.com/uses/employee-onboarding)
 * [View all usesarrow-right icon](https://asana.com/uses)
 
-### Templates
+### Featured Reads
 
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
-* [View all templatesarrow-right icon](https://asana.com/templates)
+* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
+    
+    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
+* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
+    
+    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 Resourceschevron-down icon
 
@@ -124,28 +121,21 @@ Resourceschevron-down icon
 * [Partners
     
     Learn more about our partner programs](https://asana.com/partners)
-* [Support
-    
-    Need help? Contact the Asana support team](https://asana.com/support)
 * [Asana for nonprofits
     
     Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
 
-### Featured Reads
+### Templates
 
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/c0f90a11ed114d5/original/RM25_resources_featuredreadthumbnail.png)
-    
-    Latest releaseIntroducing Asana’s Summer 2024 Release. Discover what's newExplore nowarrow-right icon](https://asana.com/whats-new)
-* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
-    
-    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
+* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
+* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
+* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
+* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
+* [View all templatesarrow-right icon](https://asana.com/templates)
 
 [Enterprise](https://asana.com/enterprise)[Pricing](https://asana.com/pricing)
 
-[Get started](https://asana.com/create-account "Get started")[Get started](https://asana.com/create-account "Get started")[Log In](https://app.asana.com/)[Launch Asana](https://app.asana.com/)
+[Get started](https://asana.com/create-account "Get started")[Get started](https://asana.com/create-account "Get started")[Log In](https://app.asana.com/ "Log In")[Launch Asana](https://app.asana.com/ "Launch Asana")
 
 [Contact sales](https://asana.com/sales)
 
@@ -172,6 +162,7 @@ CAPABILITIES
 * [Goals](https://asana.com/features/goals-reporting/goals)
 * [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
 * [Portfolios](https://asana.com/features/goals-reporting/portfolios)
+* [asana-intelligence iconAsana AI](https://asana.com/product/ai)
 
 * [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
 * [Rules](https://asana.com/features/workflow-automation/rules)
@@ -183,7 +174,7 @@ CAPABILITIES
 * [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
 * [Admin console](https://asana.com/features/admin-security/admin-console)
-* [asana-intelligence iconAsana AI](https://asana.com/product/ai)
+* [Permissions](https://asana.com/features/admin-security/permissions)
 
 ALL PLANS
 
@@ -198,28 +189,29 @@ Teams
 * [IT](https://asana.com/teams/it)
 * [Leaders](https://asana.com/teams/leaders)
 
+Industries
+
+* [Healthcare](https://asana.com/industry/healthcare)
+* [Education](https://asana.com/industry/education)
+* [Nonprofit](https://asana.com/industry/nonprofit)
+
 Uses
 
 * [Goal management](https://asana.com/uses/goal-management)
 * [Organizational planning](https://asana.com/uses/organizational-planning)
-* [Campaign management](https://asana.com/uses/campaign-management)
-* [Creative production](https://asana.com/uses/creative-production)
-* [Content calendars](https://asana.com/uses/content-calendar)
-
-* [Marketing strategic planning](https://asana.com/uses/marketing-strategic-planning)
-* [Resource planning](https://asana.com/uses/resource-planning)
 * [Project intake](https://asana.com/uses/project-intake)
+* [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
-* [Employee onboarding](https://asana.com/uses/employee-onboarding)
 * [View all usesarrow-right icon](https://asana.com/uses)
 
-Templates
+Featured Reads
 
-* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
-* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
-* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
-* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
-* [View all templatesarrow-right icon](https://asana.com/templates)
+* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
+    
+    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
+* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
+    
+    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 Explore
 
@@ -253,24 +245,17 @@ Connect
 * [Partners
     
     Learn more about our partner programs](https://asana.com/partners)
-* [Support
-    
-    Need help? Contact the Asana support team](https://asana.com/support)
 * [Asana for nonprofits
     
     Get more information on our nonprofit discount program, and apply.](https://asana.com/nonprofit)
 
-Featured Reads
+Templates
 
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/c0f90a11ed114d5/original/RM25_resources_featuredreadthumbnail.png)
-    
-    Latest releaseIntroducing Asana’s Summer 2024 Release. Discover what's newExplore nowarrow-right icon](https://asana.com/whats-new)
-* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
-    
-    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
+* [Project plans](https://asana.com/templates/for/other/cross-functional-project-plan)
+* [Team goals & objectives](https://asana.com/templates/for/other/team-goals-planning-example)
+* [Team continuity](https://asana.com/templates/for/other/business-continuity-plan)
+* [Meeting agenda](https://asana.com/templates/for/other/qbr-meeting-agenda)
+* [View all templatesarrow-right icon](https://asana.com/templates)
 
 [Contact sales](https://asana.com/sales)
 
@@ -305,7 +290,7 @@ Last Updated: December 19, 2023 | Effective: January 1, 2024
 
 Welcome! Thank you for using Asana!
 
-**1\. Introduction**
+### **1\. Introduction**
 
 Asana, Inc. (“Asana,” “we,” “our,” “us”) offers a variety of team productivity, collaboration, and organizational tools, as further described in the [Asana Guide](https://asana.com/guide/help) and its [Release Notes](https://asana.com/guide/help/faq/release-notes)  (collectively, the “**Service**”), and websites, including but not limited to www.asana.com, wavelength.com, blog.asana.com, community.asana.com (the “**Websites**”).
 
@@ -315,7 +300,7 @@ If you do not agree to these Terms, please do not access or use the Service or W
 
 We may revise these Terms from time to time by posting a modified version on our website.  If, in Asana’s sole discretion, the modifications to these Terms are material, we will provide you with reasonable notice prior to the change taking effect, either by emailing the email address associated with your account or by alerting you through the Service and/or Websites.  If you do not agree to or cannot comply with the modified Terms, you must stop using the Service and Websites.  Unless otherwise stated elsewhere in these Terms or in our notice, the updated Terms will take effect upon their posting and will apply on a going-forward basis.  Your continued use of the Service and Websites after any update to these Terms constitutes your acceptance of such changes.
 
-**2\. How These Terms Apply**
+### **2\. How These Terms Apply**
 
 By using Asana, you fall into one or more of the following three different categories of Asana user:
 
@@ -332,19 +317,23 @@ As a Managed User, you gain access to the Service through a Customer of Asana. 
 
 AS BETWEEN ASANA AND CUSTOMER, YOU ACKNOWLEDGE AND AGREE THAT IT IS SOLELY CUSTOMER’S RESPONSIBILITY TO (A) INFORM YOU AND ANY OTHER MANAGED USERS OF ANY RELEVANT CUSTOMER POLICIES, PRACTICES AND SETTINGS THAT MAY IMPACT THE PROCESSING OF CUSTOMER DATA; (B) OBTAIN ANY RIGHTS, PERMISSIONS OR CONSENTS FROM YOU AND ANY OTHER MANAGED USERS THAT ARE NECESSARY FOR THE LAWFUL USE OF CUSTOMER DATA AND THE OPERATION OF THE SERVICE; (C) ENSURE THAT THE TRANSFER AND PROCESSING OF CUSTOMER DATA UNDER THE CUSTOMER AGREEMENT IS LAWFUL; AND (D) RESPOND TO AND RESOLVE ANY DISPUTE WITH YOU AND ANY OTHER MANAGED USERS RELATING TO CUSTOMER DATA, THE SERVICE OR CUSTOMER’S FAILURE TO FULFILL THESE OBLIGATIONS. IN YOUR CAPACITY AS AN MANAGED USER, ASANA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND (WHETHER EXPRESS OR IMPLIED) TO YOU RELATING TO THE SERVICE, WHICH IS PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS.
 
-**3\. Eligibility and Scope**
+### **3\. Eligibility and Scope**
 
 To use the Service and Websites you must be, and you represent and warrant that you are, at least 16 years of age and competent to agree to these Terms.  If the law where you reside requires that you must be older in order for Asana to lawfully provide the Service and Websites to you and use your personal data without parental consent, then you must be that older age.
 
 If the representations in the preceding sentence are not true, or if Asana has previously prohibited you from accessing or using the Service and Websites, you may not access or use the Service and Websites.
 
-**4\. Account Registration and Use**
+### **4\. Account Registration and Use**
 
 **4.1 Account Registration and Confidentiality.**  To access the Service and certain parts of our Websites, you must register for an Asana account by creating a username and password.  You agree to provide us with accurate, complete, and current registration information about yourself.  It is your responsibility to ensure that your password remains confidential and secure, and you agree that you will not allow others to access the Service using your Asana account.  By registering, you agree that you are fully responsible for all activities that occur under your user name and password.  We may assume that any communications we receive under your account have been made by you.  If you are a workspace or organization owner or administrator, or if you have confirmed in writing that you have the authority to make decisions on behalf of a workspace or organization (“**Account Administrator**”), you represent and warrant that you are authorized to to do so and agree that Asana is entitled to rely on your instructions.
 
 **4.2 Unauthorized Account Use.**  You are responsible for notifying us at support@asana.com if you become aware of any unauthorized use of or access to your account.  You understand and agree that we may require you to provide information that may be used to confirm your identity and help ensure the security of your account.  Asana will not be liable for any loss, damages, liability, expenses or attorneys’ fees that you may incur as a result of someone else using your password or account, either with or without your knowledge and/or authorization, and regardless of whether you have advised us of such unauthorized use.  You will be liable for losses, damages, liability, expenses and attorneys’ fees incurred by Asana or a third party due to someone else using your account.  In the event that the Account Administrator or Customer loses access to an account or otherwise requests information about an account, Asana reserves the right in its sole discretion to request from the Account Administrator or Customer any verification it deems necessary before restoring access to or providing information about such account.
 
+### 5\. License
+
 **5\. License.**  Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-sublicensable, non-transferable, and revocable right to access and use the Service and Websites only for your own internal use (or for internal uses authorized by the applicable Account Administrator), and only in a manner that complies with these Terms and all legal requirements that apply to you or your use of the Service and Websites.  Asana may revoke this license at any time, in its sole discretion.
+
+### 6\. Acceptable Use Policy
 
 **6\. Acceptable Use Policy.**  You acknowledge and agree to comply with these Terms, including the following rules regarding acceptable use of the Service and Websites (the “**Acceptable Use Policy**”).
 
@@ -416,11 +405,11 @@ More information on Asana AI features and how to manage them can be found in the
 
 **6.5 Acceptable Use Violations.** If we reasonably believe a violation of this Acceptable Use Policy has occurred or may occur in the near future in a manner that may disrupt the Service or Websites for our Customers or other users, we may suspend or terminate your access to the Service and Websites, without any liability to us and in addition to any other remedies that may be available to us.  Asana reserves the right to notify the applicable Account Administrator of the foregoing.
 
-**7\. Proprietary Rights**
+### **7\. Proprietary Rights**
 
 Asana and its licensors exclusively own all right, title, and interest in and to all intellectual property rights in the Service and Websites.You agree to abide by all applicable copyright and other laws, as well as any additional copyright notices or restrictions contained in the Service and Websites.  All present and future rights in and to trade secrets, patents, copyrights, trademarks, service marks, know-how, and other proprietary rights of any type under the laws of any governmental authority, domestic or foreign, including without limitation rights in and to all applications and registrations relating to the Service and Websites shall, as between you and Asana, at all times be and remain the sole and exclusive property of Asana.
 
-**8\. User Content and Feedback**
+### **8\. User Content and Feedback**
 
 **8.1 User Content and Submissions on the Service.**  The Service allows you to create tasks and submit associated information, text, files, and other materials (collectively, “**User Content**”) and to share that User Content with others.  User Content submitted or otherwise made available to the Service is subject to the following terms:
 
@@ -432,7 +421,7 @@ Asana and its licensors exclusively own all right, title, and interest in and to
 
 **8.5 User Content and Feedback Representations.**  You represent and warrant that you have all required rights to submit User Content and Feedback without violation or infringement of any third-party rights.  You understand that Asana does not control, and is not responsible for, User Content or Feedback, and that by using the Service and/or Websites, you may be exposed to User Content or Feedback from other users that is offensive, indecent, inaccurate, misleading, or otherwise objectionable.
 
-**9\. WARRANTIES, DISCLAIMER, AND LIMITATION OF LIABILITY**
+### **9\. WARRANTIES, DISCLAIMER, AND LIMITATION OF LIABILITY**
 
 THE SERVICE AND WEBSITES AND USER CONTENT, WHETHER PROVIDED BY ASANA, ITS LICENSORS, ITS VENDORS OR ITS USERS, AND OTHER INFORMATION ON OR ACCESSIBLE FROM THE SERVICE AND WEBSITES ARE PROVIDED “AS IS” WITHOUT WARRANTY, REPRESENTATION, CONDITION, OR GUARANTEE OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES, REPRESENTATIONS, CONDITIONS OR GUARANTEES OF QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ALL OF WHICH ARE DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW.  SPECIFICALLY, BUT WITHOUT LIMITATION, ASANA DOES NOT WARRANT THAT: (i) THE INFORMATION AVAILABLE ON THE SERVICE AND WEBSITES IS FREE OF ERRORS; (ii) THE FUNCTIONS OR FEATURES (INCLUDING BUT NOT LIMITED TO MECHANISMS FOR THE DOWNLOADING AND UPLOADING OF USER CONTENT) WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS; (iii) DEFECTS WILL BE CORRECTED, OR (iv) THE SERVICE AND WEBSITES OR THE SERVER(S) THAT MAKE THE SERVICE AND WEBSITES AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.  ASANA DOES NOT WARRANT, ENDORSE, GUARANTEE OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICE AND WEBSITES OR ANY WEBSITE FEATURED OR LINKED TO THROUGH THE SERVICE AND WEBSITES, AND ASANA WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICE AND WEBSITES.  ASANA WILL NOT BE LIABLE FOR THE OFFENSIVE OR ILLEGAL CONDUCT OF ANY THIRD PARTY.  YOU VOLUNTARILY ASSUME THE RISK OF HARM OR DAMAGE FROM THE FOREGOING.  THE FOREGOING LIMITATIONS WILL APPLY EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE AND TO THE FULLEST EXTENT PERMITTED BY LAW.
 
@@ -440,15 +429,15 @@ IN NO EVENT SHALL ASANA OR ITS AFFILIATES, LICENSORS, VENDORS, OR ANY OF THEIR R
 
 Some countries and U.S.  jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages such as above in this section 9.  Accordingly, some of the above limitations may not apply to you.
 
-**10\. Indemnification**
+### **10\. Indemnification**
 
 YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD ASANA, ITS AFFILIATES, AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, MEMBERS, SHAREHOLDERS, CONTRACTORS, OR REPRESENTATIVES HARMLESS FROM AND AGAINST ANY CLAIM OR DEMAND, INCLUDING WITHOUT LIMITATION, REASONABLE ATTORNEYS’ FEES, MADE IN CONNECTION WITH OR ARISING OUT OF YOUR USE OF THE SERVICE AND WEBSITES, YOUR CONNECTION TO THE SERVICE AND WEBSITES, YOUR VIOLATION OF THE TERMS, YOUR VIOLATION OF AN APPLICABLE LAW, YOUR SUBMISSION, POSTING, OR TRANSMISSION OF USER CONTENT TO THE SERVICE AND WEBSITES, AND/OR YOUR VIOLATION OF ANY RIGHTS OF ANOTHER INDIVIDUAL OR ENTITY.  WE RESERVE THE RIGHT TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF SUCH DISPUTES, AND IN ANY EVENT YOU WILL COOPERATE WITH US IN ASSERTING ANY AVAILABLE DEFENSES.
 
-**11\. Third-Party Links, Services and Websites**
+### **11\. Third-Party Links, Services and Websites**
 
 The Service and Websites may include information and content provided by third parties, including links to third-party websites, resources, and/or goods and services.  Asana is not responsible and will not be liable for any damages or losses caused by or relating to, (i) any content, advertising, products, or other materials on or available from such sites or resources, (ii) the availability of or any errors or omissions in such websites or resources, or (iii) any information handling practices or other business practices of the operators of such sites or resources.  Your interactions with such third parties will be governed by the third parties’ own terms of service and privacy policies, and any other similar terms.
 
-**12\. General Terms**
+### **12\. General Terms**
 
 **12.1 Modifications to the Service.**  We reserve the right at any time to modify or discontinue, temporarily or permanently, the Service and Websites (or any part thereof), with or without notice.  You agree that Asana shall not be liable to you or any third party for any modification, suspension or discontinuation of the Service and Websites.
 
@@ -468,7 +457,7 @@ The Service and Websites may include information and content provided by third p
 
 **12.9 Notices.**  We may deliver notice to you by email, posting a notice on the Service and Websites or any other method we choose and such notice will be effective on dispatch.  If you give notice to us, it will be effective when received and you must use the following physical or email address: (1) Asana, Inc.  633 Folsom Street, San Francisco, CA 94107; or (2) [legal@asana.com](mailto:terms-questions@asana.com).
 
-**13\. Questions**
+### **13\. Questions**
 
 If you have any questions about these Terms, please contact us at [terms-questions@asana.com](mailto:terms-questions@asana.com).
 
