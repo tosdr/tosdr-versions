@@ -266,12 +266,9 @@ Sorry to interrupt but…
 
 Do you want to stay ahead of the game when it comes to GDPR compliance, cookieless tracking and privacy-friendly web analytics? Join our newsletter to receive exclusive industry insights and tips straight to your inbox.  
 
-Newsletter Subscription - English
----------------------------------
+Email(Required)
 
-Email
-
-By submitting my email, you agree to receive the Matomo newsletter. You can unsubscribe at any time by clicking the link provided in the newsletter. We will process your personal information in accordance with our [Privacy Policy](https://matomo.org/privacy-policy/).
+Subscribe to our newsletter to receive regular information about Matomo. You can unsubscribe at any time from it. This service uses MadMimi. Learn more about it within our [privacy Policy](https://matomo.org/privacy-policy/) page.
 
        
 
