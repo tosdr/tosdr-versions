@@ -156,9 +156,9 @@ To read our Privacy Policy in other languages please select below:
 
 ![](http://sharethis.imgix.net/2021/03/hero-illustration-right-815x1024.png?fm=webp&auto=compress&w=800q=1)
 
-ShareThis takes privacy seriously. This Privacy Notice sets out what data we collect, how we collect it, why we process it, who we may share it with and, where the data we collect is personal data, your rights with respect to such personal data. ShareThis may change this Notice from time to time by updating this page. You should check this page from time to time to ensure that you are up to date with any changes.       
+ShareThis is a division of [Predactiv, Inc.](https://www.predactiv.com/Privacy), a data company. ShareThis takes privacy seriously. This Privacy Notice sets out what data we collect, how we collect it, why we process it, who we may share it with and, where the data we collect is personal data, your rights with respect to such personal data. ShareThis may change this Notice from time to time by updating this page. You should check this page from time to time to ensure that you are up to date with any changes.       
 
-ShareThis is committed to processing information in accordance with applicable laws (including where applicable the European Union’s General Data Protection Regulation (“**GDPR**”) and the California Consumer Privacy Act (“CCPA”) and as described in this Privacy Notice. For specific information about how ShareThis adheres to European, UK and Brazil data protection law and your rights as an EEA, UK, Swiss or Brazil data subject please click **[here.](#gdpr-and-eu-rights)** For information about how ShareThis adheres to applicable U.S. Privacy laws in States such as California, Colorado, Connecticut, Nevada, Virginia, and Utah, please click **[here](#ccpa).**
+ShareThis is committed to processing information in accordance with applicable laws (including where applicable the European Union’s General Data Protection Regulation (“**GDPR**”) and the California Consumer Privacy Act (“CCPA”) and as described in this Privacy Notice. For specific information about how ShareThis adheres to European, UK and Brazil data protection law and your rights as an EEA, UK, Swiss or Brazil data subject please click **[here.](#gdpr-and-eu-rights)** For information about how ShareThis adheres to applicable U.S. Privacy laws in States such as California, Colorado, Connecticut, Nevada, Oregon, Texas, Utah, Virginia, and Washington, please click **[here](#ccpa).**
 
 To access information for Publishers, please visit the Publisher Information page [**here**](https://www.sharethis.com/publisher/)**.**
 
@@ -175,7 +175,7 @@ Opt-Out of Data Collection and Sharing
 
 ShareThis provides website operators (“Publishers”) with customizable social sharing tools, which makes sharing online content simple. Any user of a website can easily share anything on the web with their friends on social sites, such as Facebook, Twitter, Email, Digg, Reddit and more through using one of our tools on that website (“**ShareThis Icon**”).
 
-ShareThis also collects pseudonymous data about internet users and how they interact with content, websites, and advertisements while online. Some of the data is collected via our tools such as the **ShareThis Icon**, and some is collected through third-party data providers. We compile this data and provide it to our Publishers and license it to advertisers, agencies, and other businesses (our “Customers”) to facilitate the delivery of relevant, targeted advertising and for a number of other reasons which are listed below.
+ShareThis also collects pseudonymous data about internet users and how they interact with content, websites, and advertisements while online. Some of the data is collected via our tools such as the **ShareThis Icon**, and some is collected through third-party data providers via our parent company Predactiv. Certain data collected from each publisher related to the activity we observe on that publisher’s site is provided back to that Publisher. We also may license a larger data set (including the data collected via Predactiv) to advertisers, agencies, and other businesses (our “Customers”) to facilitate the delivery of relevant, targeted advertising and for a number of other reasons which are listed below.
 
 We do this by using technology such as cookies and pixels (including the pixels and cookies of our customers) (“**ShareThis Publisher Applications**”) to gather information regarding the browsing and sharing activities of Internet users, both on websites that have the ShareThis Icon and similar tools installed on them. We also receive data from others who operate in the data analytics and advertising industries. We analyze and aggregate the data we collect to create groups of data (called audience segments) based on defined criteria.  For example, we segment into groups internet users who we believe have similar characteristics, interests, needs or behavioral patterns. Where we are able to infer that two or more browsers or devices are the same user or household, we may use that information to bolster our audience segments. We compile this data to provide analytics to our Publishers and license it to our Customers for a number of purposes as described below, including targeted advertising.
 
@@ -223,9 +223,7 @@ Usage Data includes:
 * Time when webpages are viewed
 * Search queries from which users are directed to a webpage
 * Navigation from page to page
-* Time spent on each webpage
 * Interactions with the webpage, including items clicked or selected and content highlighted or copied
-* Ads viewed or displayed to the user and the user’s interactions with those ads
 * Shares of content including what content is shared and where – for example, the relevant social media site (e.g., Twitter, Facebook)
 * Geographic information such as country, city, state, or postal code.
 * IP addresses
@@ -465,14 +463,14 @@ IV. **The U.S. State Privacy Laws (e.g., CCPA) and Your Rights as a Data Subject
 
 * * *
 
-A number of U.S. states (e.g., California, Colorado, Connecticut, Nevada, Virginia, and Utah) have enacted laws that may provide additional privacy protections for data subjects and users located into those states, including:
+A number of U.S. states (e.g., California, Colorado, Connecticut, Nevada, Oregon, Virginia, Utah and Texas) have enacted laws that may provide additional privacy protections for data subjects and users located into those states, including:
 
 * the right to see what data we have about you, your computer or device (i.e., the right to know),
-* the right to correct the data we have about you, your computer or device,
+* the right to correct the data we have about you, your computer or device, or to port that data to a different provider (subject to limitations),
 * the right to delete the data we have about you, your computer or device (i.e., the right to delete), and
 * the right to opt-out of the sale or sharing of data about you, your computer or device to certain third parties (i.e., the right to opt-out from sales or sharing of your information) and the right to opt-out of profiling and/or targeted ads.
 
-These U.S. state laws define personal information broadly. And as such, almost all of the information we collect is considered personal information under these laws. U.S. data subjects may send an email to [privacy@sharethis.com](mailto:privacy@sharethis.com) to exercise those rights of visit data subject access page. California data subjects may also call us on our toll free CCPA privacy hotline at 1-800-272-1765. Data subjects in Colorado and Virginia have the additional right to appeal in the event that they are unsatisfied with the way that ShareThis has honored one or more of the above rights – and have the further right to appeal to the Attorney General of their state.
+These U.S. state laws define personal information broadly. And as such, almost all of the information we collect is considered personal information under these laws. U.S. data subjects may send an email to [privacy@sharethis.com](mailto:privacy@sharethis.com) to exercise those rights of visit data subject access page. California data subjects may also call us on our toll free CCPA privacy hotline at 1-800-272-1765. Data subjects in certain U.S. states (e.g., Colorado, Texas and Virginia) have the additional right to appeal in the event that they are unsatisfied with the way that ShareThis has honored one or more of the above rights – and have the further right to appeal to the Attorney General of their state.
 
 We do not treat users that exercise any of the above rights differently or otherwise discriminate against users exercising privacy rights. However, we may not be able to honor a right if doing so would violate applicable law. ShareThis does not sell data collected via our Website or the data we use to operate our business. However, we transfer personal information collected via the ShareThis Publisher Applications to third parties and as such are considered to have sold data over the past twelve months under California law, including any of the Usage Data, Profile Information and/or audience segments.
 
@@ -527,7 +525,6 @@ Please review some of our Customer’s privacy policies for more information:
 LiveRamp: [https://liveramp.com/privacy/](https://liveramp.com/privacy/)  
 AppNexus: [https://www.appnexus.com/platform-privacy-policy](https://www.appnexus.com/platform-privacy-policy)  
 Eyeota : [https://www.eyeota.com/privacy-policy](https://www.eyeota.com/privacy-policy)  
-Oracle: [https://www.oracle.com/legal/privacy/advertising-privacy-policy.html](https://www.oracle.com/legal/privacy/advertising-privacy-policy.html)  
 Lotame: [https://www.lotame.com/about-lotame/privacy/](https://www.lotame.com/about-lotame/privacy/)  
 Nielsen: [https://www.nielsen.com/ssa/en/legal/privacy-policy/](https://www.nielsen.com/ssa/en/legal/privacy-policy/)  
 Retargetly: [https://retargetly.com/privacy-policy](https://retargetly.com/privacy-policy)  
