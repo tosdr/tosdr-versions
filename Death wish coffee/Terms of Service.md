@@ -2,6 +2,8 @@
 
  
 
+[SPEND $75 & BE ONE OF THE FIRST TO TRY OUR LATEST ROAST FOR FREE](https://www.deathwishcoffee.com/pages/light-roast)
+
      
 
 * Coffee
@@ -20,6 +22,7 @@
     * [Everyday Roasts](https://www.deathwishcoffee.com/collections/core-roasts)
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
+        * [Ice Breaker](https://www.deathwishcoffee.com/collections/ice-breaker)
         * [Medium Roast](https://www.deathwishcoffee.com/collections/medium-roast)
         * [Valhalla Java Odinforce Blend](https://www.deathwishcoffee.com/collections/valhalla)
         * [Everyday Roast Bundles](https://www.deathwishcoffee.com/collections/roast-variety-packs)
@@ -27,6 +30,7 @@
         * [Almond Afterlife](https://www.deathwishcoffee.com/collections/almond-afterlife)
         * [Blue and Buried](https://www.deathwishcoffee.com/collections/blue-and-buried)
         * [Chocolate Hazelnut](https://www.deathwishcoffee.com/collections/chocolate-hazelnut)
+        * [Pumpkin Chai](https://www.deathwishcoffee.com/collections/pumpkin-chai)
         * [Vanilla](https://www.deathwishcoffee.com/collections/vanilla)
         * [Flavored Bundles](https://www.deathwishcoffee.com/collections/flavored-variety-packs)
     
@@ -48,10 +52,6 @@
     * [Society Exclusives](https://www.deathwishcoffee.com/collections/society-of-strong-coffee-exclusives)
         * [Society Exclusive Merch](https://www.deathwishcoffee.com/collections/society-of-strong-coffee-exclusives)
         * [Join the Society](https://www.deathwishcoffee.com/pages/subscription)
-    * [The Swig League](https://www.deathwishcoffee.com/pages/swig-league)
-        * [What is the Swig League?](https://www.deathwishcoffee.com/pages/swig-league)
-        * [Team Pitch Black](https://www.deathwishcoffee.com/pages/pitch-black)
-        * [The Creamators](https://www.deathwishcoffee.com/pages/creamators)
     
 * [Society of Strong Coffee](https://www.deathwishcoffee.com/pages/subscription)
 * [Ritual Rewards](https://www.deathwishcoffee.com/pages/ritual-rewards)
@@ -59,7 +59,7 @@
 * [Blog & Content](https://www.deathwishcoffee.com/pages/blog)
 * [About](https://www.deathwishcoffee.com/pages/about)
 * [Help & FAQs](https://www.deathwishcoffee.com/pages/help)
-* [Account](https://www.deathwishcoffee.com/account/login)
+* [Account](https://www.deathwishcoffee.com/account/)
 
 [Log in](https://www.deathwishcoffee.com/account/login)
 
@@ -81,6 +81,7 @@
         [Everyday Roasts](https://www.deathwishcoffee.com/collections/core-roasts)
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
+        * [Ice Breaker](https://www.deathwishcoffee.com/products/ice-breaker-coffee)
         * [Medium Roast](https://www.deathwishcoffee.com/collections/medium-roast)
         * [Valhalla Java Odinforce Blend](https://www.deathwishcoffee.com/collections/valhalla)
         * [Everyday Roast Bundles](https://www.deathwishcoffee.com/collections/roast-variety-packs)
@@ -90,6 +91,7 @@
         * [Almond Afterlife](https://www.deathwishcoffee.com/collections/almond-afterlife)
         * [Blue and Buried](https://www.deathwishcoffee.com/collections/blue-and-buried)
         * [Chocolate Hazelnut](https://www.deathwishcoffee.com/collections/chocolate-hazelnut)
+        * [Pumpkin Chai](https://www.deathwishcoffee.com/collections/pumpkin-chai)
         * [Vanilla](https://www.deathwishcoffee.com/collections/vanilla)
         * [Flavored Bundles](https://www.deathwishcoffee.com/collections/flavored-variety-packs)
     * [![Brewing a cup of Death Wish Coffee Coconut Caramaul Flavored Coffee using single-serve pods.](//www.deathwishcoffee.com/cdn/shop/files/Coconut_Caramaul_DeathCups_099.jpg?crop=center&height=500&v=1707505596&width=500)](https://www.deathwishcoffee.com/collections/coffee "Brewing a cup of Death Wish Coffee Coconut Caramaul Flavored Coffee using single-serve pods.")
@@ -123,15 +125,9 @@
         [Society Exclusives](https://www.deathwishcoffee.com/collections/society-of-strong-coffee-exclusives)
         * [Society Exclusive Merch](https://www.deathwishcoffee.com/collections/society-of-strong-coffee-exclusives)
         * [How to Join the Society](https://www.deathwishcoffee.com/pages/subscription)
-    * [![Learn more about the Death Wish Coffee Swig League.](//www.deathwishcoffee.com/cdn/shop/files/Swig_League_Banner_B1_Mobile.jpg?crop=center&height=500&v=1711632669&width=500)](https://www.deathwishcoffee.com/pages/swig-league "Learn more about the Death Wish Coffee Swig League.")
-        
-        [The Swig League](https://www.deathwishcoffee.com/pages/swig-league)
-        * [What is the Swig League?](https://www.deathwishcoffee.com/pages/swig-league)
-        * [The Creamators](https://www.deathwishcoffee.com/pages/creamators)
-        * [Team Pitch Black](https://www.deathwishcoffee.com/pages/pitch-black)
     
 
-[![Death Wish Coffee Company](//www.deathwishcoffee.com/cdn/shop/files/dwc-logo.png?v=1624458280&width=600)](https://www.deathwishcoffee.com/)
+[![Death Wish Coffee](//www.deathwishcoffee.com/cdn/shop/files/dwc-logo.png?v=1624458280&width=600)](https://www.deathwishcoffee.com/)
 
 * [Find in Store](https://www.deathwishcoffee.com/pages/storelocator)
 * [Blog](https://www.deathwishcoffee.com/pages/blog)
@@ -511,7 +507,7 @@ GET WIRED WITH US
 * [YouTube](https://www.youtube.com/channel/UC1uurJMded2rRJioe8yka7g)
 * [Twitter](https://twitter.com/deathwishcoffee)
 
-© 2024, [Death Wish Coffee Company](https://www.deathwishcoffee.com/ "Death Wish Coffee Company"). All rights reserved.
+© 2024, [Death Wish Coffee](https://www.deathwishcoffee.com/ "Death Wish Coffee"). All rights reserved.
 
 GET WIRED WITH US
 -----------------
