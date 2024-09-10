@@ -251,12 +251,15 @@ Toggle Nav
     
 * [Business](https://www.printster.co.uk/personalised-promotional-merchandise.html)
     
-    * [All Promotional Merchandise](https://www.printster.co.uk/personalised-promotional-merchandise.html)
-        * [Mugs](https://www.printster.co.uk/mug-printing.html)
+    * [Most Popular Promotional Merchandise](javascript:void(0))
+        * [All Promotional Merchandise](https://www.printster.co.uk/personalised-promotional-merchandise.html)
+        * [Promotional Mugs](https://www.printster.co.uk/mug-printing.html)
         * [Coasters](https://www.printster.co.uk/personalised-coasters.html)
+        * [Keyrings](https://www.printster.co.uk/personalised-keyrings.html)
+    * [More...](javascript:void(0))
+        * [Promotional Bunting](https://www.printster.co.uk/promotional-bunting.html)
         * [Personalised T-Shirts](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-t-shirts.html)
         * [Mousemats](https://www.printster.co.uk/personalised-mouse-mats.html)
-        * [Keyrings](https://www.printster.co.uk/personalised-keyrings.html)
         * [Masks](https://www.printster.co.uk/personalised-masks.html)
         * [Promotional Wrapping Paper](https://www.printster.co.uk/promotional-wrapping-paper.html)
     
@@ -335,7 +338,7 @@ In this Agreement the following terms shall have the following meanings:
 5.3 Henagon Ltd endeavours to ensure that all pricing information on the Web Site is correct at the time of going online. Henagon Ltd reserves the right to change prices and alter or remove any special offers from time to time and as necessary. Errors and omissions are excepted and the Company is not obliged to supply Goods at the incorrect price. In the unlikely event of a pricing error where an incorrect price is mistakenly advertised, Henagon Ltd will contact the Customer to provide the correct price and offer the option of cancelling the order or confirming your order at the correct price.  
 5.4 All prices on the Web Site include VAT (where applicable) at the current rates, unless otherwise stated. We reserve the right to express the price exclusive of VAT, but we will show VAT in the total price you pay. Henagon Ltd’s VAT number is 944 6766 79.  
 5.5 The colour of the product you receive may not match the colour as displayed by our website on your computer monitor. Please be aware that if colour is important to you, your order is placed at your own risk. If you intend to place an order for a large number of items, we recommend you place a smaller sample order first.  
-5.6 We are not always able to reproduce colours exactly on Goods which are personalised or made to order using a customer’s photograph or a customer’s choice of colour. We are not always able to reproduce colours exactly when printed on personalised Goods by using CMYK, RGB or Pantone values – there may be a colour difference. Alignment and positioning of artwork cannot be guaranteed but we will endeavour to position all artwork to achieve the best results we can.  
+5.6 We are not always able to reproduce colours exactly on Goods which are personalised or made to order using a customer’s photograph or a customer’s choice of colour. We are not always able to reproduce colours exactly when printed on personalised Goods by using CMYK, RGB or Pantone values – there may be a colour difference. Alignment and positioning of artwork cannot be guaranteed but we will endeavour to position all artwork to achieve the best results we can. We cannot guarantee that colour, position and alignment of artwork will be the same on any two items ordered.  
 5.7 Where a design service is offered by us we will endeavour to meet your design requests and requirements but reserve the right to reasonably disregard a requirement without notice if we are unable to meet the requirement or if we feel the requirement is unreasonable.  
 5.8 Where a preview of your product or design is supplied to you this may not represent the actual finished product and we accept no liability for any differences.  
 5.9 In using our image/photo upload facility, or by supplying an image/photo with your order, you agree not to upload, send or print any images that will cause distress or offence to any person. It is your responsibility to ensure that the appropriate express permission for any images you use in connection with your order has been granted by the owner of all images you supply to Henagon Ltd. Henagon Limited reserve the right to refuse any order that might cause offence or distress (in such a case we will refund your payment for the order). Henagon Limited will not be responsible for any copyright infringement by the customer. In using our image/photo upload facility, or by supplying an image/photo with your order, you agree to allowing Henagon Ltd use the image as necessary to fulfill the order.
