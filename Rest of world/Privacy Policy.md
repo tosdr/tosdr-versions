@@ -38,14 +38,6 @@
 * [Creator Economy](https://restofworld.org/series/creator-economy/)
 * [Regional Champions](https://restofworld.org/series/regional-champions/)
 
-##### Sign up for our newsletter
-
-Name 
-
-Email 
-
- 
-
 #### Learn more
 
 * [About us](https://restofworld.org/about/)
