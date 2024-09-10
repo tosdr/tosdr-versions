@@ -456,7 +456,7 @@ Last updated: July 1, 2023
 * [February 11, 2023](https://www.fandom.com/privacy-policy-previous-version-2-11-2023-6-30-2023)
 * [August 11, 2022](https://www.fandom.com/privacy-policy-previous-version-8-11-2022-2-11-2023)
 
-[![Fandom logo](https://static.wikia.nocookie.net/6a181c72-e8bf-419b-b4db-18fd56a0eb60)](https://www.fandom.com/ "Fandom logo")
+[![Fandom logo](https://static.wikia.nocookie.net/ff185fe4-8356-4b6b-ad48-621b95a82a1d)](https://www.fandom.com/ "Fandom logo")
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### Explore properties
@@ -502,7 +502,7 @@ Last updated: July 1, 2023
 
 Take your favorite fandoms with you and never miss a beat.
 
-![Fandom App logo](https://static.wikia.nocookie.net/6c42ce6a-b205-41f5-82c6-5011721932e7)
+![Fandom App logo](https://static.wikia.nocookie.net/f3fc9271-3d5e-4c73-9afc-e6a9f6154ff1)
 
 * [![Store icon](https://static.wikia.nocookie.net/464fc70a-5090-490b-b47e-0759e89c263f)](https://apps.apple.com/us/app/fandom-videos-news-reviews/id1230063803)
 * [![Store icon](https://static.wikia.nocookie.net/f7bb9d33-4f9a-4faa-88fe-2a0bd8138668)](https://play.google.com/store/apps/details?id=com.fandom.app&referrer=utm_source%3Dwikia%26utm_medium%3Dglobalfooter)
