@@ -32,13 +32,15 @@ Search
 Privacy Policy
 ==============
 
-**Construction Forestry Maritime Mining and Energy Union Website Privacy Statement**
+  
 
-This is the Privacy Statement for the Construction Forestry Maritime Mining and Energy Union website.
+**Construction Forestry Maritime and Employees Union Website Privacy Statement**
 
-This is the Privacy Statement for the Construction Forestry Maritime Mining and Energy Union website which is subject to review by the governing body of the Union from time to time.
+This is the Privacy Statement for the Construction Forestry Maritime and Employees Union website.
 
-The Construction Forestry Maritime Mining and Energy Union is committed to the privacy principles issued by the Australian Privacy Commission.
+This is the Privacy Statement for the Construction Forestry Maritime and Employees Union website which is subject to review by the governing body of the Union from time to time.
+
+The Construction Forestry Maritime and Employees Union is committed to the privacy principles issued by the Australian Privacy Commission.
 
 **The information we collect**
 
@@ -52,7 +54,7 @@ If you send us a request by email your email address, and any other personal inf
 
 If you subscribe to our "email updates" list an email is sent to us from our web server which provides your email address.
 
-If you request information about becoming a member of the Construction Forestry Maritime Mining and Energy Union, we collect your name, address, contact phone number occupation and name of employer and your email address.
+If you request information about becoming a member of the Construction Forestry Maritime and Employees Union, we collect your name, address, contact phone number occupation and name of employer and your email address.
 
 **How we use the information**
 
@@ -72,7 +74,9 @@ We use appropriate technology to protect the data we collect.
 
 **Links to other sites**
 
-The Construction Forestry Maritime Mining and Energy Union website contains links to other sites. We are not responsible for the privacy policies and practices of other websites and suggest that you read each site's policy statement.
+The Construction Forestry Maritime and Employees Union website contains links to other sites. We are not responsible for the privacy policies and practices of other websites and suggest that you read each site's policy statement.
+
+  
 
 Stay Informed
 
