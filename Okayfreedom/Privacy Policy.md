@@ -4,6 +4,8 @@ Select your language
 
  ![](/media/mod_languages/images/en_gb.png) English
 
+*  [![](/media/mod_languages/images/es_es.png) Español](https://www.okayfreedom.com/es/)
+*  [![](/media/mod_languages/images/fr_fr.png) Français](https://www.okayfreedom.com/fr/)
 *  [![](/media/mod_languages/images/de_de.png) Deutsch](https://www.okayfreedom.com/de/privacy)
 
 [Pricing](https://www.okayfreedom.com/en/#offers)
