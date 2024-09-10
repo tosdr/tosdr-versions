@@ -52,6 +52,7 @@
 * [Get Involved](https://www.thehotline.org/get-involved/)
     * [2024 National Conference on Domestic Violence](https://www.thehotline.org/2024-national-conference-on-domestic-violence/)
     * [Careers](https://www.thehotline.org/careers/)
+    * [Donate Your Old Electronics](https://www.thehotline.org/get-involved/donate-electronics/)
     * [Shop](https://www.thehotline.org/donate/other-ways-to-give/store-closed/)
     * [Speakers Bureau](https://www.thehotline.org/get-involved/speakers-bureau/)
 * [Donate](https://www.thehotline.org/donate/)
