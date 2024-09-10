@@ -39,11 +39,11 @@
     
     Directo a
     
-    * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
-    * [Secretaría Virtual de los centros docentes](https://www.juntadeandalucia.es/educacion/secretariavirtual/ "Secretaría Virtual de los centros docentes")
     * [Portal del Docente](https://www.juntadeandalucia.es/educacion/portaldocente/ "Portal del Docente")
+    * [Secretaría Virtual de los centros docentes](https://www.juntadeandalucia.es/educacion/secretariavirtual/ "Secretaría Virtual de los centros docentes")
+    * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [iPasen](https://www.juntadeandalucia.es/educacion/pasen/ "iPasen")
-    * [Formación Profesional](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/fp "Formación Profesional")
+    * [Bonificación de los servicios complementarios](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25586.html "Bonificación de los servicios complementarios")
     
 * [Trabajar](https://www.juntadeandalucia.es/temas/trabajar.html "Trabajar")
     
@@ -162,15 +162,13 @@
         * [Salud y Consumo](https://www.juntadeandalucia.es/organismos/saludyconsumo.html)
         * [Empleo, Empresa y Trabajo Autónomo](https://www.juntadeandalucia.es/organismos/empleoempresaytrabajoautonomo.html)
         * [Universidad, Investigación e Innovación](https://www.juntadeandalucia.es/organismos/universidadinvestigacioneinnovacion.html)
-        * [Turismo y Andalucía Exterior (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/turismoyandaluciaexterior.html)
+        * [Turismo y Andalucía Exterior](https://www.juntadeandalucia.es/organismos/turismoyandaluciaexterior.html)
         * [Fomento, Articulación del Territorio y Vivienda](https://www.juntadeandalucia.es/organismos/fomentoarticulaciondelterritorioyvivienda.html)
         * [Inclusión Social, Juventud, Familias e Igualdad](https://www.juntadeandalucia.es/organismos/inclusionsocialjuventudfamiliaseigualdad.html)
-        * [Cultura y Deporte (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/culturaydeporte.html)
-        * [Sostenibilidad y Medio Ambiente (pdte. de estructura)](https://www.juntadeandalucia.es/organismos/sostenibilidadymedioambiente.html)
+        * [Cultura y Deporte](https://www.juntadeandalucia.es/organismos/culturaydeporte.html)
+        * [Sostenibilidad y Medio Ambiente](https://www.juntadeandalucia.es/organismos/sostenibilidadymedioambiente.html)
         * [Industria, Energía y Minas](https://www.juntadeandalucia.es/organismos/industriaenergiayminas.html)
         * [Justicia, Administración Local y Función Pública](https://www.juntadeandalucia.es/organismos/justiciaadministracionlocalyfuncionpublica.html)
-        * [Turismo, Cultura y Deporte (consejería extinta)](https://www.juntadeandalucia.es/organismos/turismoculturaydeporte.html)
-        * [Sostenibilidad, Medio Ambiente y Economía Azul (consejería extinta)](https://www.juntadeandalucia.es/organismos/sostenibilidadmedioambienteyeconomiaazul.html)
     
 * [Servicios](https://www.juntadeandalucia.es/servicios.html "Servicios")
     
@@ -200,11 +198,11 @@
     
     Directo a
     
-    * [Grado de Discapacidad. Procedimiento para el reconocimiento, calificación y val…](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Procedimiento para el reconocimiento, calificación y val…")
     * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
-    * [Familia Numerosa: Expedición, Renovación y Modificación del Título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia Numerosa: Expedición, Renovación y Modificación del Título")
+    * [Grado de Discapacidad. Reconocimiento, calificación y valoración](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Reconocimiento, calificación y valoración")
     * [Licencia de pesca marítima de recreo en aguas interiores](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/114.html "Licencia de pesca marítima de recreo en aguas interiores")
-    * [Registro de Certificados Energéticos Andaluces](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/1807.html "Registro de Certificados Energéticos Andaluces")
+    * [Familia numerosa: expedición, renovación y modificación del título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia numerosa: expedición, renovación y modificación del título")
+    * [Subvenciones para la mejora de la eficiencia energética en viviendas](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/24793.html "Subvenciones para la mejora de la eficiencia energética en viviendas")
     
 * [Noticias](https://www.juntadeandalucia.es/noticias.html "Noticias")
     
@@ -303,7 +301,7 @@ Las comunicaciones serán recibidas y tratadas por la Subdirección de Sociedad 
 Procedimiento de aplicación
 ---------------------------
 
-Puede realizar reclamaciones sobre sus solicitudes de información accesible o quejas (artículo 13 del RD 1112/2018) a través del [Libro de Sugerencias y Reclamaciones](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/14637/datos-basicos.html), mediante [la solicitud en línea](https://www.juntadeandalucia.es/lsr/lsr/inicio.jsp) o bien rellenando los [formularios](https://www.juntadeandalucia.es/haciendayadministracionpublica/rpa-icms-doc/icmsDescargaDoc.do?tipo=4b40ba71bf0bae77c7a9e6765035191a&id=6c408e43867f920423fa717a2e096d99) y presentándolos en los Registros de Documentos, indicando la materia "Accesibilidad de sitio web o aplicación móvil".
+Puede realizar reclamaciones sobre sus solicitudes de información accesible o quejas (artículo 13 del RD 1112/2018) a través del [Libro de Sugerencias y Reclamaciones](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/14637.html), mediante [la solicitud en línea](https://www.juntadeandalucia.es/lsr/lsr/inicio.jsp) o bien rellenando los [formularios](https://www.juntadeandalucia.es/haciendayadministracionpublica/rpa-icms-doc/icmsDescargaDoc.do?tipo=4b40ba71bf0bae77c7a9e6765035191a&id=6c408e43867f920423fa717a2e096d99) y presentándolos en los Registros de Documentos, indicando la materia "Accesibilidad de sitio web o aplicación móvil".
 
 Contenido opcional
 ------------------
