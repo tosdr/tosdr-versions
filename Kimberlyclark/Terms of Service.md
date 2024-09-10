@@ -123,8 +123,8 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
         * [Memberships](https://www.kimberly-clark.com/en-us/esg/memberships)
     * * [Making Lives Better](https://www.kimberly-clark.com/en-us/esg/making-lives-better)
         * [Social Impact](https://www.kimberly-clark.com/en-us/esg/2030-ambition/esg-article/social-impact)
-        * [Kotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/social-impact/kotex-she-can-initiative)
-        * [Toilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives)
+        * [Kotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/kotex-she-can-initiative)
+        * [Toilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/toilets-change-lives)
         * [Kimberly-Clark Foundation](https://www.kimberly-clark.com/en-us/esg/kc-foundation)
         * [Inclusion and Diversity](https://www.kimberly-clark.com/en-us/esg/inclusion-and-diversity)
     * * [Safeguarding Natural Systems](https://www.kimberly-clark.com/en-us/esg/safeguarding-natural-systems)
@@ -314,9 +314,9 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
 
 [Social ImpactSocial Impact](https://www.kimberly-clark.com/en-us/esg/2030-ambition/esg-article/social-impact)
 
-[Kotex She Can InitiativeKotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/social-impact/kotex-she-can-initiative)
+[Kotex She Can InitiativeKotex She Can Initiative](https://www.kimberly-clark.com/en-us/responsibility/kotex-she-can-initiative)
 
-[Toilets Change LivesToilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/social-impact/toilets-change-lives)
+[Toilets Change LivesToilets Change Lives](https://www.kimberly-clark.com/en-us/responsibility/toilets-change-lives)
 
 [Kimberly-Clark FoundationKimberly-Clark Foundation](https://www.kimberly-clark.com/en-us/esg/kc-foundation)
 
