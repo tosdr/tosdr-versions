@@ -145,4 +145,4 @@ A/I reserves the right to change this policy. We recommend you regularly review 
 
 If you have further doubts have a look at our [FAQ](https://www.autistici.org/docs/faq/) or [contact us](mailto:info@autistici.org)!
 
-[JavaScript license information](https://www.autistici.org/static/ai.79cd5b8465bbde8ddc63.js.LICENSE.txt)
+[JavaScript license information](https://www.autistici.org/static/ai.40476cbed53e53db0cde.js.LICENSE.txt)
