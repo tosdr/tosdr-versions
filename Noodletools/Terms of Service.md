@@ -1,3 +1,11 @@
+Notification
+
+Be sure to read about the new [email verification requirements](https://www.noodletools.com/blog/email-login-requirement/) (for users who do not log in via SSO).
+
+[Close](#)
+
+Notification
+
 Menu
 
 [NoodleTools](https://www.noodletools.com/)
@@ -7,7 +15,7 @@ Menu
 * [Educators](https://www.noodletools.com/educators/)
 * [Students & Researchers](https://www.noodletools.com/students/)
 * [Plans](https://www.noodletools.com/plans/)
-* [Support](http://noodletools.freshdesk.com/)
+* [Support](https://noodletools.freshdesk.com/)
 * [Trial](https://www.noodletools.com/trial/)
 * [Log In](https://my.noodletools.com/logon/signin)
 
@@ -138,7 +146,7 @@ Users of the NoodleTools website must agree to the Terms of Service in order to 
 
 ### Support
 
-* [Help Desk](http://noodle.to/helpdesk)
+* [Help Desk](https://noodle.to/helpdesk)
 * [NoodleTools Tutorials](https://www.noodletools.com/help/)
 * [Handouts / Downloads](https://www.noodletools.com/downloads/)
 * [Webinars](https://www.noodletools.com/webinars/)
@@ -157,4 +165,4 @@ Users of the NoodleTools website must agree to the Terms of Service in order to 
 
 Search  
 
-[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/apple.svg)](http://noodle.to/companionapp)[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/google.svg)](http://noodle.to/companionappandroid)
+[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/apple.svg)](https://noodle.to/companionapp)[![](https://www.noodletools.com/wp/wp-content/themes/noodletools/img/google.svg)](https://noodle.to/companionappandroid)
