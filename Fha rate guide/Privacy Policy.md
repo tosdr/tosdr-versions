@@ -1,4 +1,4 @@
-![Express](        //dv50pvmrizz2v.cloudfront.net/logo/125004__vrelease_v89.jpg)
+![Express](        //ddtm4le96tyk6.cloudfront.net/logo/125004__vrelease_v94.jpg)
 
 Privacy Policy
 ==============
