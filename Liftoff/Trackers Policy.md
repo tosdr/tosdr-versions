@@ -91,10 +91,10 @@ Search for:
 
 Log In
 
-* ![Accelerate Icon](data:image/svg+xml;nitro-empty-id=NDk5OjIyNg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Accelerate](https://signin.liftoff.io/signin)
-* ![Monetize icon](data:image/svg+xml;nitro-empty-id=NTAzOjIyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Monetize](https://app.vungle.com/login/)
-* ![Direct icon](data:image/svg+xml;nitro-empty-id=NTA3OjIxOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgwIDE4MCIgd2lkdGg9IjE4MCIgaGVpZ2h0PSIxODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [Direct](https://app.vungle.com/login/)
-* ![Intelligence icon](data:image/svg+xml;nitro-empty-id=NTExOjIzMA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTgxIDE4MSIgd2lkdGg9IjE4MSIgaGVpZ2h0PSIxODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) [GameRefinery](https://app.gamerefinery.com/)
+* ![Accelerate product logo](data:image/gif;nitro-empty-id=NDk5OjIzOQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Accelerate](https://signin.liftoff.io/signin)
+* ![Monetize product logo](data:image/gif;nitro-empty-id=NTAzOjIzNQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Monetize](https://app.vungle.com/login/)
+* ![Direct product logo](data:image/gif;nitro-empty-id=NTA3OjIzMQ==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [Direct](https://app.vungle.com/login/)
+* ![Intelligence product logo](data:image/gif;nitro-empty-id=NTExOjI0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) [GameRefinery](https://app.gamerefinery.com/)
 
 [Get Started](https://liftoff.io/sign-up/)
 
