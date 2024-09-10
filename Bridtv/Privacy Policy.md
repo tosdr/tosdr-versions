@@ -291,5 +291,5 @@ contact@brid.tv
 
 Last Updated: 2022-04-13 06:12:48
 
-© [Brid Video DOO](https://www.target-video.com/ "Brid Video DOO"), Omladinskih Brigada 88b, Belgrade, 11000, Serbia[](mailto:)  
+[TargetVideo GmbH](https://target-video.com/ "TargetVideo GmbH"), Machtlfinger Str. 21, 81379 Munich, Germany  
 Copyright 2024  ® Target Video GmbH [Terms & Conditions](https://www.target-video.com/terms-and-conditions) | [Privacy Policy](https://www.target-video.com/privacy-policy)
