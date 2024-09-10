@@ -255,8 +255,8 @@ Date:
 
 ### [From Our Blog](https://www.fullcontact.com/blog/)
 
-* [Discover How FullContact is Building Trusted Customer Relationships through Snowflake's Native Application Framework](https://www.fullcontact.com/blog/2023/09/21/discover-how-fullcontact-is-building-trusted-customer-relationships-through-snowflakes-native-application-framework/) September 21, 2023
-* [Transform Your Customer Experience with FullContact Customer Recognition and Boost Your Conversions](https://www.fullcontact.com/blog/2023/09/20/transform-your-customer-experience-with-fullcontact-customer-recognition-and-boost-your-conversions/) September 20, 2023
+* [The Sales Rep's Guide to Maximizing Productivity with Website Visitor Data](https://www.fullcontact.com/blog/2024/08/28/the-sales-reps-guide-to-maximizing-productivity-with-website-visitor-data/) August 28, 2024
+* [Turn Visitors into Leads: How to Install the Acumen Web Tag in 5 Easy Steps](https://www.fullcontact.com/blog/2024/08/06/turn-visitors-into-leads-how-to-install-the-acumen-web-tag-in-5-easy-steps/) August 6, 2024
 
 ### Menu
 
