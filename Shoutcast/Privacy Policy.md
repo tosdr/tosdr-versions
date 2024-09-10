@@ -3,7 +3,7 @@
 [![Shoutcast Logo](/images/shoutcast.svg)](https://www.shoutcast.com/)
 
 * [Monetize](https://www.shoutcast.com/monetize)
-* [Support](https://shoutcast.zendesk.com/)
+* [Support](https://www.shoutcast.com/support)
 * [Partners](https://www.shoutcast.com/partners)
 * [Plans and Pricing](https://www.shoutcast.com/pricing)
 * [Get Started](https://app.shoutcast.com/register)
@@ -233,7 +233,7 @@ Under “Category”, you will find information about the activity your Personal
 
 ### Support
 
-* [Help Center](https://shoutcast.zendesk.com/)
+* [Help Center](https://www.shoutcast.com/support)
 
 [![Shoutcast Logo](/images/shoutcast.svg)](https://www.shoutcast.com/)© 2024Proud member of[![Targetspot Logo](/images/targetspot.svg)](https://targetspot.com/)
 
