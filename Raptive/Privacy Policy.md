@@ -112,6 +112,7 @@ Verizon. We share hashed emails with our partner Verizon for the purposes of tar
 * [Newsroom](https://raptive.com/newsroom/)
 * [Contact us](https://raptive.com/contact/)
 
+* [The Raptive Report: AI](https://raptive.com/the-raptive-report-ai/)
 * [Protect Content Creators](https://raptive.com/ai-open-letter/)
 * [Remarkable Voices](https://www.remarkable-voices.com/)
 * [Slickstream](https://www.slickstream.com/)
