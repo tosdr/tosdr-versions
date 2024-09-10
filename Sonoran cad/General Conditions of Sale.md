@@ -2,6 +2,10 @@
 
 [Support](https://support.sonoransoftware.com/) [Download](https://info.sonorancad.com/downloads) [Server Hosting](https://sonoranservers.com/) [About](https://info.sonorancad.com/why-choose-sonoran-cad/about)
 
+More
+
+[Support](https://support.sonoransoftware.com/)[Download](https://info.sonorancad.com/downloads)[Server Hosting](https://sonoranservers.com/)[About](https://info.sonorancad.com/why-choose-sonoran-cad/about)
+
 SearchCtrl + K
 
 * [Sonoran CAD](https://info.sonorancad.com/)
