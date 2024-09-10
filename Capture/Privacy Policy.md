@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Costco Members Save More Today! Additional 25% Off through Costco Next - Shop Now](https://www.capture.com/costco?utm_source=website&utm_medium=costco&utm_campaign=banner)
+[Limited Time Offer! Unlock 40% OFF your entire order today with code SAVE40](https://www.capture.com/collections/all)
 
      
 
@@ -20,7 +20,7 @@
     
     #### Popular Formats
     
-    [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital/) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)
+    [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)
     
     #### What’s Right for Me?
     
@@ -133,9 +133,9 @@
     
     #### Touchless Album Scanning
     
-    [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album/) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.
+    [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.
     
-    [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service/)
+    [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Album2x.jpg?v=1681842884&width=400)
     
@@ -154,6 +154,7 @@
     
     Resources
     
+    * [Free Instant Quote](https://www.capture.com/pages/free-quote)
     * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
     * [Video Digitization Tips](https://www.capture.com/blogs/video)
     * [Film Reel Digitization Tips](https://www.capture.com/blogs/film)
@@ -180,7 +181,7 @@
     
     #### Popular Formats
     
-    [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital/) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)
+    [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)
     
     #### What’s Right for Me?
     
@@ -285,9 +286,9 @@
     
     #### Touchless Album Scanning
     
-    [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album/) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.
+    [Explore Album Scanning](https://www.capture.com/pages/scan-photo-album) This service scans the entire album to transfer physical photos to downloadable formats, without the need to remove photos.
     
-    [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service/)
+    [Shop Album Scanning](https://www.capture.com/products/photo-album-scanning-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Album2x.jpg?v=1681842884&width=400)
     
@@ -300,6 +301,7 @@
     
 * Resources
     
+    * [Free Instant Quote](https://www.capture.com/pages/free-quote)
     * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
     * [Video Digitization Tips](https://www.capture.com/blogs/video)
     * [Film Reel Digitization Tips](https://www.capture.com/blogs/film)
@@ -493,6 +495,7 @@ Support
 -------
 
 * [Help](https://help.capture.com/hc/en-us)
+* [Free Instant Quote](https://www.capture.com/pages/free-quote)
 * [Track Your Order](https://www.capture.com/pages/order-status)
 * [Activation](https://timecapsule.capture.com/pages/activate)
 * [MemoryCloud](https://mcloud.capture.com/)
