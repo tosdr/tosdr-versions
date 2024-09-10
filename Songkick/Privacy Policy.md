@@ -1,49 +1,36 @@
 * * [](https://www.songkick.com/)
-    * [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
+    * [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
+        [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        *  [![N'famady Kouyaté Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) N'famady Kouyaté  
-            The Bread and Roses Pub](https://www.songkick.com/concerts/42081449-nfamady-kouyate-at-bread-and-roses-pub)
-        *  [![Ghosts Of Atlantis Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ghosts Of Atlantis  
-            New Cross Inn](https://www.songkick.com/concerts/42086901-ghosts-of-atlantis-at-new-cross-inn)
-        *  [![Glass Bridges Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Glass Bridges  
-            Hope & Anchor](https://www.songkick.com/concerts/42079925-glass-bridges-at-hope-and-anchor)
-        *  [![House Arrest Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) House Arrest  
-            The Windmill, Brixton](https://www.songkick.com/concerts/42087865-house-arrest-at-windmill-brixton)
-        *  [![Bukky Leo Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bukky Leo  
-            Signature Brew - Haggerston](https://www.songkick.com/concerts/42080181-bukky-leo-at-signature-brew-haggerston)
-        *  [![Lady Shaka Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lady Shaka  
-            The Steel Yard](https://www.songkick.com/concerts/42089645-lady-shaka-at-steel-yard)
-        *  [![Fruko Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Fruko  
-            Electric Brixton](https://www.songkick.com/concerts/42064316-fruko-at-electric-brixton)
-        *  [![Queens Head Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Queens Head  
-            The Ivy House - Nunhead](https://www.songkick.com/concerts/42084929-queens-head-at-ivy-house-nunhead)
-        *  [![pecq Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) pecq  
-            Courtyard Theatre](https://www.songkick.com/concerts/42067356-pecq-at-courtyard-theatre)
-        *  [![Casey MQ Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Casey MQ  
-            The Lexington](https://www.songkick.com/concerts/42064601-casey-mq-at-lexington)
+        *  [![The Dracu-Las (NJ) Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Dracu-Las (NJ)  
+            White Eagle Hall](https://www.songkick.com/concerts/42140044-draculas-nj-at-white-eagle-hall)
         
-        [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
+        [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F01%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F08%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=09%2F01%2F2024&filters%5BminDate%5D=08%2F01%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F10%2F2024&filters%5BminDate%5D=09%2F10%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=09%2F17%2F2024&filters%5BminDate%5D=09%2F10%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F10%2F2024&filters%5BminDate%5D=09%2F10%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
-        * [Popular artists in London](https://www.songkick.com/metro-areas/24426-uk-london#popular-artists-in-metro-area)
+        * [Most popular artists worldwide](https://www.songkick.com/leaderboards/popular_artists)
         * [Trending artists worldwide](https://www.songkick.com/leaderboards/trending_artists)
         
-        *  [![Daddy Yankee Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daddy Yankee](https://www.songkick.com/artists/390360-daddy-yankee)
-        *  [![Creed Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Creed](https://www.songkick.com/artists/476614-creed)
-        *  [![Ingrid Michaelson Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ingrid Michaelson](https://www.songkick.com/artists/19080-ingrid-michaelson)
-        *  [![Bad Bunny Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bad Bunny](https://www.songkick.com/artists/9059639-bad-bunny)
-        *  [![Cake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cake](https://www.songkick.com/artists/195357-cake)
+        *  [![Rihanna Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rihanna](https://www.songkick.com/artists/139648-rihanna)
+        *  [![Drake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Drake](https://www.songkick.com/artists/556955-drake)
+        *  [![Coldplay Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Coldplay](https://www.songkick.com/artists/197928-coldplay)
+        *  [![Eminem Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Eminem](https://www.songkick.com/artists/182968-eminem)
+        *  [![The Weeknd Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Weeknd](https://www.songkick.com/artists/4363463-weeknd)
+        *  [![Maroon 5 Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Maroon 5](https://www.songkick.com/artists/181875-maroon-5)
+        *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
+        *  [![Bruno Mars Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bruno Mars](https://www.songkick.com/artists/941964-bruno-mars)
+        *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
+        *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
-        *  [![Wacotron Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Wacotron](https://www.songkick.com/artists/10344194-wacotron)
-        *  [![Rogerinho Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rogerinho](https://www.songkick.com/artists/10228183-rogerinho)
-        *  [![Jon Reddick Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jon Reddick](https://www.songkick.com/artists/10343064-jon-reddick)
-        *  [![flyingfish Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) flyingfish](https://www.songkick.com/artists/10343079-flyingfish)
-        *  [![Cookin Soul Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cookin Soul](https://www.songkick.com/artists/10342931-cookin-soul)
+        *  [![dublon Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) dublon](https://www.songkick.com/artists/10349544-dublon)
+        *  [![Oasis Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Oasis](https://www.songkick.com/artists/548892-oasis)
+        *  [![Scarlet House Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Scarlet House](https://www.songkick.com/artists/10349081-scarlet-house)
+        *  [![Rangga Jones Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rangga Jones](https://www.songkick.com/artists/10347902-rangga-jones)
+        *  [![VALORANT Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) VALORANT](https://www.songkick.com/artists/10347901-valorant)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
@@ -62,7 +49,7 @@ Sorry, you have to enable javascript to view this page!
 * [![Show navigation](//assets.sk-static.com/images/nw/components/navigation/local-navigation/navigation-icon.png)](#home)
 * [Get the app](#)
 * [Home](https://www.songkick.com/)
-* [London concerts](https://www.songkick.com/metro-areas/24426-uk-london)
+* [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city)
 * [Change location](https://www.songkick.com/session/filter_metro_area)
 * [Popular Artists](https://www.songkick.com/artists)
 * [Festivals](https://www.songkick.com/festivals)
@@ -75,8 +62,8 @@ Sorry, you have to enable javascript to view this page!
     
     Sorry, you have to enable javascript to view this page!
     
-* [London](https://www.songkick.com/metro-areas/24426-uk-london)
-*  [![spotify icon](//assets.sk-static.com/images/nw/elements/social-buttons/spotify_logo_30px_height.svg) Your artists](https://accounts.songkick.com/signup/new?source_product=skweb&metro_area_id=24426&locale=en)
+* [Jersey City](https://www.songkick.com/metro-areas/4690-us-jersey-city)
+*  [![spotify icon](//assets.sk-static.com/images/nw/elements/social-buttons/spotify_logo_30px_height.svg) Your artists](https://accounts.songkick.com/signup/new?source_product=skweb&metro_area_id=4690&locale=en)
 * [Popular artists](https://www.songkick.com/artists)
 * [Tourbox for artists](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=nav-tourbox-upsell-visitor)
 
