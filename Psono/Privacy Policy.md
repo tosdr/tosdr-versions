@@ -168,7 +168,7 @@ More information about how Google handles informations and what measures have be
 
 Psono may update its privacy statement from time to time and we encourage everyone to check regularly. It has last been updated May 20th, 2024.
 
-[![Hosting](/static/logo-99fa74e43a136bd0f18cbed7a6b39fb0.png)](https://psono.com/)
+[![Psono](/static/logo-99fa74e43a136bd0f18cbed7a6b39fb0.png)](https://psono.com/)
 
 Pages
 -----
