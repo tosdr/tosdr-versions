@@ -104,9 +104,25 @@ We collect information that your browser sends whenever you visit our Service (�
 COOKIES
 -------
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+Our website uses certain tags, log files, web beacons, pixels, and similar tracking technologies from third parties (collectively, “cookies”), of which you should be aware.
 
-We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+Cookies are text files containing small amounts of information that can be downloaded to your device when you visit a website. Cookies enable us to analyze how this Website is used and to monitor site performance, so we can create the best user experience. We may also use cookies to personalize language settings and to provide social media features.
+
+We use cookies and device data such as information about your visit to our website, IP address, the URLs of the websites and pages you visit (before, during and after your visit to the Website) and the times and dates of such visits, information about the computer hardware and software you use, device identifier, location and time zone setting, even when you are not logged in. Also, PDE may place “cookies” on your computer or use other tracking technologies like web beacons and pixels, to access or store information and to recognize you on return visits to enable PDE to enhance your browsing experience, as well as to collect additional information about you.
+
+We also may use that data to advertise information to you on other platforms such as Facebook and Instagram and other social media platforms. This processing is necessary for our legitimate interest to send you tailored marketing messages, client newsletters, and invitations to relevant events and seminars.
+
+In addition to the cookies used by PDE and our service providers, some cookies are placed by third parties such as Google Analytics and Facebook, as described below. By using PDE’s Website, you agree to the use of cookies for the following purposes:
+
+(1) _Essential Cookies._ These are essential in order to enable you to move around PDE’s Website and use its features, such as accessing secure areas of the website.
+
+(2) _Performance and Analytics Cookies._ Google Analytics (“Analytics”) is Google’s free web analytics tool that helps us understand how our visitors engage with our website. Analytics collects information anonymously and, much like examining footprints in sand, it reports website trends without identifying individual visitors. Analytics uses its own set of cookies to track visitor interactions. These cookies are used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. A different set of cookies is used for each website, and visitors are not tracked across multiple sites. Analytics customers are obliged to notify users of their use of analytics software. To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis. In addition to declining cookies, you can also install the Google Analytics Opt-out Add-on in your browser, which prevents Google Analytics from collecting information about your website visits. You can also opt out by clicking [**here**](https://tools.google.com/dlpage/gaoptout).
+
+(3) _Advertising, Direct Marketing, and Lead Generation_. We use social media platforms to assist us in our advertising and marketing efforts, including Facebook and Instagram.
+
+(4) _Functionality Cookies._ These remember the choices you make, such as language options or your current region. These cookies help to make your visit more personal.
+
+You can block or disable cookies on your device at any time by indicating this in the preferences or options menus in your browser. You can also delete the cookies that are stored on your device. However, blocking, disabling, or deleting cookies may limit your ability to view all the pages of this Website or use online services that require registration. You may opt out of Google’s use of cookies by visiting their [**Ad Settings page**](https://adssettings.google.com/authenticated). You may also opt out of a third-party vendor’s use of cookies at the [**Network Advertising Initiative opt-out page**](https://optout.networkadvertising.org/?c=1). You can find more information about cookies at [**www.allaboutcookies.org**](https://www.allaboutcookies.org/) and [**www.youronlinechoices.com**](https://www.youronlinechoices.com/).
 
 SERVICE PROVIDERS
 -----------------
@@ -169,6 +185,10 @@ Sign Up for Updates
      ZIP / Postal Code  
     
 * CAPTCHA
+    
+* Comments
+    
+    This field is for validation purposes and should be left unchanged.
     
 
         
