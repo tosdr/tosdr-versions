@@ -168,6 +168,7 @@ Last Updated: 5/26/23
 * [Newsroom](https://raptive.com/newsroom/)
 * [Contact us](https://raptive.com/contact/)
 
+* [The Raptive Report: AI](https://raptive.com/the-raptive-report-ai/)
 * [Protect Content Creators](https://raptive.com/ai-open-letter/)
 * [Remarkable Voices](https://www.remarkable-voices.com/)
 * [Slickstream](https://www.slickstream.com/)
