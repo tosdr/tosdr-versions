@@ -6,7 +6,7 @@
 [![Recorded Future Logo](https://cms.recordedfuture.com/uploads/brand_logo_long_black_f2ead5b5c6.svg?w=3840)](https://securitytrails.com/)
 
 * [Platform](https://www.recordedfuture.com/platform/intelligence-cloud)
-* [Solutions](https://securitytrails.com/solutions)
+* [Outcomes](https://securitytrails.com/outcomes)
 * [Products](https://www.recordedfuture.com/platform/intelligence-cloud)
 * [Services](https://www.recordedfuture.com/services-support/client-success)
 * [Research](https://securitytrails.com/research)
