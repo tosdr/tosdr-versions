@@ -1,6 +1,6 @@
-[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/)
+[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/us/en/)
 
-[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/)
+[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/us/en/)
 
 Language / City
 
@@ -67,7 +67,7 @@ Language / City
 
 [Join for free](https://www.share-now.com/de/en/registration/personal-data/ "Join for free") [Get the app](https://share-now.onelink.me/UCIx/gettheapp "Get the app")
 
-[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/)
+[![Share Now](//images.ctfassets.net/ro7z507xvlp4/6d8l0r8eZIrw2b1ADEyWgI/7cf27787e5fbda9282ca171edef1cf08/sharenow_logo_current_campaign.svg)](https://www.share-now.com/us/en/)
 
 [Join for free](https://www.share-now.com/de/en/registration/personal-data/ "Join for free")
 
@@ -88,7 +88,7 @@ Warschauer Platz 11-13
 10245 Berlin  
 Germany
 
-Email: [hallo@share-now.com](mailto:hallo@share-now.com)  
+Email: [hallo@free2move.com](mailto:hallo@free2move.com)  
 Phone: [+49 30 330831118](tel:+4930330831118 "tel:+4930330831118")  
 Domicile: Berlin  
 Court of Registry: Amtsgericht Berlin-Charlottenburg  
@@ -105,7 +105,7 @@ SHARE NOW is neither obliged nor willing to participate in out-of-court resoluti
 
 #### Privacy notice
 
-[Privacy Policy](https://share-now.assetbank-server.com/assetbank-share-now/assetfile/16418.pdf)
+[Privacy Notice (PDF)](https://share-now.assetbank-server.com/assetbank-share-now/assetfile/16418.pdf)
 
 Your personal  
 freedom
