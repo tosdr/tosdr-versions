@@ -47,7 +47,7 @@ For information about NCR Voyix privacy policies and how data we collect is used
 Contact Information
 -------------------
 
-You may contact the NCR Voyix webmaster by [electronic mail](http://ncrvoyix.webmaster@ncrvoyix.com/).
+You may contact the NCR Voyix webmaster by [\[email protected\]](https://www.ncr.com/cdn-cgi/l/email-protection).
 
 If you would like to contact the NCR Voyix legal department, please use the address shown below.
 
