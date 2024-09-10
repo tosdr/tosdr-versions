@@ -1,3 +1,5 @@
+skip to main content
+
 [![Arthritis Foundation Logo](/img/template-images/logo.jpg)](https://www.arthritis.org/home)
 
 [Your Local Area](https://www.arthritis.org/local-offices)
@@ -6,7 +8,7 @@
 
 Popular Search
 
-[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [drug](https://www.arthritis.org/search?query=drug) [event](https://www.arthritis.org/search?query=event)
+[gout](https://www.arthritis.org/search?query=gout) [ja](https://www.arthritis.org/search?query=ja) [cbd](https://www.arthritis.org/search?query=cbd) [osteoarthritis](https://www.arthritis.org/search?query=osteoarthritis)
 
 Suggested Content
 
@@ -166,7 +168,7 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         
         [](#)
         
-        * [California Coast Classic](https://www.arthritis.org/events/bike-event)
+        * [Arthritis Foundation Cycling Experience](https://www.arthritis.org/events/bike-event)
         * [Connect Groups](https://connectgroups.arthritis.org/)
         * [Events](https://www.arthritis.org/events)
         * [Helpline](https://www.arthritis.org/helpline)
@@ -193,7 +195,7 @@ Privacy Notice
 
 * 
 * 
-* [\[email protected\]](https://www.arthritis.org/cdn-cgi/l/email-protection)
+* 
 * [](javascript: window.print();)
 
 The Arthritis Foundation respects the privacy of each individual who contacts us. We are grateful for your support and the crucial role you play in helping us continue our valuable work. This Privacy Notice describes the types of personal information we collect about visitors to our website and mobile apps (collectively, the "Sites") and other individuals with whom we interact in connection with our charitable and fundraising activities, how we may use the personal information we collect and with whom we may share it, and provides additional information concerning our personal information practices.
@@ -383,9 +385,9 @@ Updated: April 26, 2021.
 * Helpline: [1-800-283-7800](tel:800-283-7800)
 * [Contact Us](https://www.arthritis.org/about-us/contact-us)
 
-Atlanta, GA
+North Bergen, NJ
 
-73° Arthritis Index At Risk
+72° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
