@@ -67,11 +67,11 @@
     
     **What’s New**
     
-    ![Salesmate’s July 2024 Updates: Enhancing Your CRM Experience! ](https://www.salesmate.io/wp-content/uploads/2024/07/July-2024-1.jpg)
+    ![August 2024 Release Notes ](https://www.salesmate.io/wp-content/uploads/2024/08/August_update_2024.jpg)
     
-    Salesmate’s July 2024 Updates: Enhancing Your CRM Experience!
+    August 2024 Release Notes
     
-    [Read More](https://www.salesmate.io/blog/salesmate-july-2024-updates/)
+    [Read More](https://www.salesmate.io/blog/august-2024-release-notes/)
     
 * [pricing](https://www.salesmate.io/pricing/)
 
