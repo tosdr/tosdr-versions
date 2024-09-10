@@ -495,6 +495,6 @@ Report security vulnerabilities (or suspicion thereof) to NL-ix’s Computer Eme
 * [Privacy & Security](https://www.nl-ix.net/about/privacy-security/)
 * [General Agreement](https://www.nl-ix.net/documents/8/General_Agreement_2022-08.pdf)
 * [Support](https://www.nl-ix.net/about/support/)
-* [Contact us](https://www.nl-ix.net/about/contact/contact-form/)
+* [Testimonials](https://www.nl-ix.net/about/testimonials/)
 
 [](https://www.facebook.com/FaceB.NL.ix/)[](https://x.com/nl_ix)[](https://www.linkedin.com/company/nl-ix/mycompany/)
