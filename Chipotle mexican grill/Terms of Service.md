@@ -178,6 +178,8 @@ JOIN NOW
 
 [Accessibility Statement](https://www.chipotle.com/accessibility)
 
+[Applicant Privacy Notice](https://www.chipotle.com/recruiting-notice)
+
 [California Transparency in Supply Chains Act](https://www.chipotle.com/transparency)
 
 [Consumer Health Data Notice](https://www.chipotle.com/consumer-health-data-notice)
