@@ -1,10 +1,10 @@
 [ShopSavvy![](https://shopsavvy-website-static.storage.googleapis.com/assets/logo-2022-glyph.svg)](https://shopsavvy.com/)
 
-[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Enterprise](https://shopsavvy.com/enterprise)[Data API](https://shopsavvy.com/data)[Help](https://shopsavvy.com/help)[About](https://shopsavvy.com/about)
+[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Answers](https://shopsavvy.com/answers)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[About](https://shopsavvy.com/about)
 
 [Get ShopSavvy](https://shopsavvy.com/download)[Sign In](https://shopsavvy.com/sign-in)[Sign Up](https://shopsavvy.com/sign-up)
 
-[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Enterprise](https://shopsavvy.com/enterprise)[Data API](https://shopsavvy.com/data)[Help](https://shopsavvy.com/help)[About](https://shopsavvy.com/about)
+[App](https://shopsavvy.com/app)[Browser Extension](https://shopsavvy.com/browser-extension)[Deals](https://shopsavvy.com/deals)[Answers](https://shopsavvy.com/answers)[TLDR Reviews](https://shopsavvy.com/reviews-tldr)[About](https://shopsavvy.com/about)
 
 **TERMS OF USE**
 
@@ -520,16 +520,20 @@ Footer 1
 * [For Edge Browser](https://shopsavvy.link/edge)
 * [For Safari Browser](https://shopsavvy.link/safari)
 
-### Learn More
+### Published
+
+* [Deals](https://shopsavvy.com/deals)
+* [Answers](https://shopsavvy.com/answers)
+* [TLDR Reviews](https://shopsavvy.com/reviews-tldr)
+* [Best Picks](https://shopsavvy.com/best-picks)
+
+### ShopSavvy
 
 * [App](https://shopsavvy.com/app)
 * [Browser Extension](https://shopsavvy.com/browser-extension)
 * [Enterprise](https://shopsavvy.com/enterprise)
 * [Data API](https://shopsavvy.com/data)
 * [Help](https://shopsavvy.com/help)
-
-### ShopSavvy
-
 * [About](https://shopsavvy.com/about)
 * [Press Kit](https://shopsavvy.link/presskit)
 * [Press Inquiries](mailto:business@shopsavvy.com)
