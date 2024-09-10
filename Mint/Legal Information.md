@@ -278,10 +278,6 @@ Here’s what being a customer-focused company has allowed us to accomplish
 How Intuit powers prosperity for customers
 ------------------------------------------
 
-![Image Alt Text](https://www.intuit.com/oidam/intuit/ic/en_us/logos/intuit-ecosystem-logo-lockup-hero-photo-icom-desktop-tablet-20230401-312x467.jpg)
-
-![Image Alt Text](https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/customer-jarrett-steiber-hero-photo-icom-square-20230911-478x478.jpg)
-
 Intuit news
 -----------
 
