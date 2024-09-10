@@ -242,6 +242,15 @@ You can opt-out here: [Google Analytics](https://tools.google.com/dlpage/gaoptou
 You can find out more about how Meta uses personal data by clicking [here](https://www.facebook.com/privacy/policies/cookies).  
 You can opt-out here: [Facebook](https://www.facebook.com/settings/?tab=privacy) | [Instagram](https://www.instagram.com/accounts/privacy_and_security/).  
 
+### TikTok Pixel
+
+**Duration**: Indefinite
+
+**Purpose**: To match your visit on our website to your TikTok user account. Once matched, we and our partners can optimise our ad campaigns.
+
+**Access**: We use TikTok Pixel to set these cookies.  
+You can find out more about how TikTok uses personal data by clicking [here](https://www.tiktok.com/legal/page/global/cookie-policy/en).  
+
 Storage, transfers and disclosure
 ---------------------------------
 
