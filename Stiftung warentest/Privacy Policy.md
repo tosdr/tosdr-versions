@@ -111,7 +111,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -200,7 +200,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v112367108.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v116071906.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -401,16 +401,18 @@ Lesen Sie auf dieser Seite:
 6. [Newsletter](#id5105473)
 7. [Werbung](#id5900837)
 8. [Segmentierung von Nutzer­gruppen](#id6066287)
-9. [Zuschriften an die Stiftung Warentest](#id5326526)
-10. [Logfiles](#id5900839)
-11. [Umfragen](#id5329033)
-12. [Soziale Netz­werke](#id5522367)
-13. [Individuelle Tarif­vergleiche](#id5105472)
-14. [Dritt­land­über­mitt­lung](#id5900853)
-15. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
-16. [Speicherdauer](#id5900854)
-17. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
-18. [Ihre Rechte](#id5326524)
+9. [Google Enhanced Conversion](#id6150217)
+10. [Microsoft Enhanced Conversions](#id6150218)
+11. [Zuschriften an die Stiftung Warentest](#id5326526)
+12. [Logfiles](#id5900839)
+13. [Umfragen](#id5329033)
+14. [Soziale Netz­werke](#id5522367)
+15. [Individuelle Tarif­vergleiche](#id5105472)
+16. [Dritt­land­über­mitt­lung](#id5900853)
+17. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
+18. [Speicherdauer](#id5900854)
+19. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
+20. [Ihre Rechte](#id5326524)
 
 Im Folgenden möchten wir Sie darüber informieren, welche personenbezogenen Daten die Stiftung Warentest verarbeitet und zu welchen Zwecken dies geschieht. Wir informieren Sie außerdem über weitere daten­schutz­recht­lich wichtige Details, zum Beispiel über Ihre Rechte.
 
@@ -535,6 +537,20 @@ Segmentierung von Nutzer­gruppen
 Sofern Sie im Rahmen Ihres Mein Kontos Angaben zu Ihrer beruflichen Tätig­keit machen, nutzen wir Ihre Daten, um Ihnen gegebenenfalls berufs­bezogene Angebote zu unterbreiten. Desgleichen können wir Ihnen spezielle Angebote unterbreiten, sofern Sie bestimmte Abonnements der Stiftung Warentest beziehen.
 
 Rechts­grund­lage für diese Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO, denn es entspricht unserem berechtigten Interesse, bestimmten Berufs­gruppen (z.B. Journalisten, Lehrern) die Produkte der Stiftung Warentest gezielt anzu­bieten beziehungs­weise Ihnen als Print-Abonnenten spezielle Angebote zu unterbreiten.
+
+Google Enhanced Conversion
+--------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir den Dienst Google Enhanced Conversions von Google. Dabei handelt es sich um eine Funk­tionalität von Google Ads, mit deren Hilfe wir fest­stellen können, ob eine Google-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Google-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Google senden. Aufgrund der Pseudonymisierung kann Google die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Google gleicht die über­sandten Daten dann mit angemeldeten Google-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Google stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Google speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Microsoft Enhanced Conversions
+------------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir außerdem den Dienst Microsoft Enhanced Conversions von Microsoft. Dabei handelt es sich um eine Funk­tionalität von Microsoft Adver­tising, mit deren Hilfe wir fest­stellen können, ob eine Microsoft Adver­tising-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Microsoft-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Microsoft senden. Aufgrund der Pseudonymisierung kann Microsoft die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Microsoft gleicht die über­sandten Daten dann mit angemeldeten Microsoft-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Microsoft stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Microsoft speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
 
 Zuschriften an die Stiftung Warentest
 -------------------------------------
@@ -793,21 +809,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
+* [Sparkasa.net: Zinsportal Sparkasa.net nicht seriös](https://www.test.de/Sparkasanet-Zinsportal-Sparkasanet-nicht-serioes-5916931-0/ "Sparkasa.net - Zinsportal Sparkasa.net nicht seriös")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
 
 Fußbereich
 
@@ -1010,7 +1026,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1099,7 +1115,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1363,7 +1379,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1452,7 +1468,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -1699,7 +1715,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+            * [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
             * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
             * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
             * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -1788,7 +1804,7 @@ Suchen
             
             * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
             * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+            * [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
             * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
             * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
             * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -2007,7 +2023,7 @@ Versicherungen
 
 Meistgelesene Tests & Themen
 
-* [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+* [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
 * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
 * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
 * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -2016,7 +2032,7 @@ Meistgelesene Tests & Themen
 
 Meistgelesene Tests & Themen
 
-* [Überblick Versicherungen](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
+* [Der Versicherungs-Check](https://www.test.de/Versicherungen-Optimaler-Risikoschutz-1162242-0/)
 * [Krankenkassen](https://www.test.de/Krankenkassenvergleich-1801418-0/)
 * [Zahnzusatzversicherung](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/)
 * [Berufs­unfähigkeits­­versicherung](https://www.test.de/Berufsunfaehigkeitsversicherung-im-Test-4881349-0/)
@@ -2085,7 +2101,7 @@ Meistgelesene Tests & Themen
 
 * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
 * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
 * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
 * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
 * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -2094,7 +2110,7 @@ Meistgelesene Tests & Themen
 
 * [Steuerberechnung für Rentner](https://www.test.de/Steuerberechnung-fuer-Rentner-Hilfe-fuer-die-Steuerschaetzung-1231254-0/)
 * [Rechtsschutzversicherung](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/)
-* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Vorsorgevollmacht-und-Patientenverfuegung-Wie-Sie-rechtzeitig-Klarheit-schaffen-4641470-0/)
+* [Patientenverfügung, Vorsorgevollmacht](https://www.test.de/Patientenverfuegung-4641470-0/)
 * [Testament](https://www.test.de/Testament-So-regeln-Sie-Ihr-Erbe-nach-Ihren-Wuenschen-5055551-0/)
 * [Privatverkauf im Internet](https://www.test.de/Verkauf-im-Internet-Haftung-ausschliessen-als-Verkaeufer-4533698-0/)
 * [Steuererklärung pünktlich abgeben](https://www.test.de/Steuererklaerung-Frist-Abgabe-5619211-0/)
@@ -2310,16 +2326,18 @@ Lesen Sie auf dieser Seite:
 6. [Newsletter](#id5105473)
 7. [Werbung](#id5900837)
 8. [Segmentierung von Nutzer­gruppen](#id6066287)
-9. [Zuschriften an die Stiftung Warentest](#id5326526)
-10. [Logfiles](#id5900839)
-11. [Umfragen](#id5329033)
-12. [Soziale Netz­werke](#id5522367)
-13. [Individuelle Tarif­vergleiche](#id5105472)
-14. [Dritt­land­über­mitt­lung](#id5900853)
-15. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
-16. [Speicherdauer](#id5900854)
-17. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
-18. [Ihre Rechte](#id5326524)
+9. [Google Enhanced Conversion](#id6150217)
+10. [Microsoft Enhanced Conversions](#id6150218)
+11. [Zuschriften an die Stiftung Warentest](#id5326526)
+12. [Logfiles](#id5900839)
+13. [Umfragen](#id5329033)
+14. [Soziale Netz­werke](#id5522367)
+15. [Individuelle Tarif­vergleiche](#id5105472)
+16. [Dritt­land­über­mitt­lung](#id5900853)
+17. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
+18. [Speicherdauer](#id5900854)
+19. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
+20. [Ihre Rechte](#id5326524)
 
 Im Folgenden möchten wir Sie darüber informieren, welche personenbezogenen Daten die Stiftung Warentest verarbeitet und zu welchen Zwecken dies geschieht. Wir informieren Sie außerdem über weitere daten­schutz­recht­lich wichtige Details, zum Beispiel über Ihre Rechte.
 
@@ -2444,6 +2462,20 @@ Segmentierung von Nutzer­gruppen
 Sofern Sie im Rahmen Ihres Mein Kontos Angaben zu Ihrer beruflichen Tätig­keit machen, nutzen wir Ihre Daten, um Ihnen gegebenenfalls berufs­bezogene Angebote zu unterbreiten. Desgleichen können wir Ihnen spezielle Angebote unterbreiten, sofern Sie bestimmte Abonnements der Stiftung Warentest beziehen.
 
 Rechts­grund­lage für diese Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO, denn es entspricht unserem berechtigten Interesse, bestimmten Berufs­gruppen (z.B. Journalisten, Lehrern) die Produkte der Stiftung Warentest gezielt anzu­bieten beziehungs­weise Ihnen als Print-Abonnenten spezielle Angebote zu unterbreiten.
+
+Google Enhanced Conversion
+--------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir den Dienst Google Enhanced Conversions von Google. Dabei handelt es sich um eine Funk­tionalität von Google Ads, mit deren Hilfe wir fest­stellen können, ob eine Google-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Google-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Google senden. Aufgrund der Pseudonymisierung kann Google die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Google gleicht die über­sandten Daten dann mit angemeldeten Google-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Google stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Google speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Microsoft Enhanced Conversions
+------------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir außerdem den Dienst Microsoft Enhanced Conversions von Microsoft. Dabei handelt es sich um eine Funk­tionalität von Microsoft Adver­tising, mit deren Hilfe wir fest­stellen können, ob eine Microsoft Adver­tising-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Microsoft-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Microsoft senden. Aufgrund der Pseudonymisierung kann Microsoft die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Microsoft gleicht die über­sandten Daten dann mit angemeldeten Microsoft-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Microsoft stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Microsoft speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
 
 Zuschriften an die Stiftung Warentest
 -------------------------------------
@@ -2706,16 +2738,18 @@ Friedrich­straße 219
 6. [Newsletter](#id5105473)
 7. [Werbung](#id5900837)
 8. [Segmentierung von Nutzer­gruppen](#id6066287)
-9. [Zuschriften an die Stiftung Warentest](#id5326526)
-10. [Logfiles](#id5900839)
-11. [Umfragen](#id5329033)
-12. [Soziale Netz­werke](#id5522367)
-13. [Individuelle Tarif­vergleiche](#id5105472)
-14. [Dritt­land­über­mitt­lung](#id5900853)
-15. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
-16. [Speicherdauer](#id5900854)
-17. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
-18. [Ihre Rechte](#id5326524)
+9. [Google Enhanced Conversion](#id6150217)
+10. [Microsoft Enhanced Conversions](#id6150218)
+11. [Zuschriften an die Stiftung Warentest](#id5326526)
+12. [Logfiles](#id5900839)
+13. [Umfragen](#id5329033)
+14. [Soziale Netz­werke](#id5522367)
+15. [Individuelle Tarif­vergleiche](#id5105472)
+16. [Dritt­land­über­mitt­lung](#id5900853)
+17. [Empfänger oder Kategorien von Empfängern der Daten](#id5326523)
+18. [Speicherdauer](#id5900854)
+19. [Keine auto­matisierte Entscheidungs­findung](#id5900855)
+20. [Ihre Rechte](#id5326524)
 
 Im Folgenden möchten wir Sie darüber informieren, welche personenbezogenen Daten die Stiftung Warentest verarbeitet und zu welchen Zwecken dies geschieht. Wir informieren Sie außerdem über weitere daten­schutz­recht­lich wichtige Details, zum Beispiel über Ihre Rechte.
 
@@ -2841,6 +2875,20 @@ Sofern Sie im Rahmen Ihres Mein Kontos Angaben zu Ihrer beruflichen Tätig­keit
 
 Rechts­grund­lage für diese Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO, denn es entspricht unserem berechtigten Interesse, bestimmten Berufs­gruppen (z.B. Journalisten, Lehrern) die Produkte der Stiftung Warentest gezielt anzu­bieten beziehungs­weise Ihnen als Print-Abonnenten spezielle Angebote zu unterbreiten.
 
+Google Enhanced Conversion
+--------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir den Dienst Google Enhanced Conversions von Google. Dabei handelt es sich um eine Funk­tionalität von Google Ads, mit deren Hilfe wir fest­stellen können, ob eine Google-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Google-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Google senden. Aufgrund der Pseudonymisierung kann Google die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Google gleicht die über­sandten Daten dann mit angemeldeten Google-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Google stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Google speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Microsoft Enhanced Conversions
+------------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir außerdem den Dienst Microsoft Enhanced Conversions von Microsoft. Dabei handelt es sich um eine Funk­tionalität von Microsoft Adver­tising, mit deren Hilfe wir fest­stellen können, ob eine Microsoft Adver­tising-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Microsoft-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Microsoft senden. Aufgrund der Pseudonymisierung kann Microsoft die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Microsoft gleicht die über­sandten Daten dann mit angemeldeten Microsoft-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Microsoft stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Microsoft speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
 Zuschriften an die Stiftung Warentest
 -------------------------------------
 
@@ -3302,6 +3350,28 @@ Sofern Sie im Rahmen Ihres Mein Kontos Angaben zu Ihrer beruflichen Tätig­keit
 
 Rechts­grund­lage für diese Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO, denn es entspricht unserem berechtigten Interesse, bestimmten Berufs­gruppen (z.B. Journalisten, Lehrern) die Produkte der Stiftung Warentest gezielt anzu­bieten beziehungs­weise Ihnen als Print-Abonnenten spezielle Angebote zu unterbreiten.
 
+Google Enhanced Conversion
+--------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir den Dienst Google Enhanced Conversions von Google. Dabei handelt es sich um eine Funk­tionalität von Google Ads, mit deren Hilfe wir fest­stellen können, ob eine Google-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Google-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Google senden. Aufgrund der Pseudonymisierung kann Google die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Google gleicht die über­sandten Daten dann mit angemeldeten Google-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Google stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Google speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir den Dienst Google Enhanced Conversions von Google. Dabei handelt es sich um eine Funk­tionalität von Google Ads, mit deren Hilfe wir fest­stellen können, ob eine Google-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Google-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Google senden. Aufgrund der Pseudonymisierung kann Google die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Google gleicht die über­sandten Daten dann mit angemeldeten Google-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Google stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Google speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Microsoft Enhanced Conversions
+------------------------------
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir außerdem den Dienst Microsoft Enhanced Conversions von Microsoft. Dabei handelt es sich um eine Funk­tionalität von Microsoft Adver­tising, mit deren Hilfe wir fest­stellen können, ob eine Microsoft Adver­tising-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Microsoft-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Microsoft senden. Aufgrund der Pseudonymisierung kann Microsoft die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Microsoft gleicht die über­sandten Daten dann mit angemeldeten Microsoft-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Microsoft stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Microsoft speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
+Mit Ihrer ausdrück­lichen Einwilligung nutzen wir außerdem den Dienst Microsoft Enhanced Conversions von Microsoft. Dabei handelt es sich um eine Funk­tionalität von Microsoft Adver­tising, mit deren Hilfe wir fest­stellen können, ob eine Microsoft Adver­tising-Anzeige, die wir geschaltet haben, zu einem Kauf oder einer anderen Inter­aktion mit uns geführt hat (zum Beispiel der Bestellung des Newsletters). Dies geschieht dadurch, dass wir in den Fällen, in denen Sie unsere Website besuchen und dabei von einer Microsoft-Anzeige weitergeleitet werden, mithilfe von Cookies eine durch einen sogenannten Hashwert pseudonymisierte Information (zum Beispiel Ihre E-Mail-Adresse) und die Informationen über mögliche Käufe oder sons­tige Inter­aktionen (s.o.) an Microsoft senden. Aufgrund der Pseudonymisierung kann Microsoft die tatsäch­liche Information (zum Beispiel Ihre E-Mail-Adresse) nicht lesen. Microsoft gleicht die über­sandten Daten dann mit angemeldeten Microsoft-Konten ab. Dies ist erforderlich, um zu verstehen, auf welche Anzeige Sie geklickt haben. Microsoft stellt uns diese Informationen in aggregierter Form, also ohne Personenbe­zug, zur Verfügung. So können wir den Kauf­vorgang nach­voll­ziehen und den Erfolg von Anzeigen messen. Microsoft speichert die gehashten Daten für eine Dauer von 20 Tagen.
+
+Die Rechts­grund­lage für die Verarbeitung ist Ihre Einwilligung gemäß § 26 Abs. 1 TDDDG i.V.m. Art. 4 Nr. 11 DSGVO und, sofern personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. a DSGVO.
+
 Zuschriften an die Stiftung Warentest
 -------------------------------------
 
@@ -3784,59 +3854,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
+* [Sparkasa.net: Zinsportal Sparkasa.net nicht seriös](https://www.test.de/Sparkasanet-Zinsportal-Sparkasanet-nicht-serioes-5916931-0/ "Sparkasa.net - Zinsportal Sparkasa.net nicht seriös")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
+* [Sparkasa.net: Zinsportal Sparkasa.net nicht seriös](https://www.test.de/Sparkasanet-Zinsportal-Sparkasanet-nicht-serioes-5916931-0/ "Sparkasa.net - Zinsportal Sparkasa.net nicht seriös")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
 
 Neueste Tests
 
-* [Rechts­schutz­versicherung im Vergleich: Mit gutem Rechts­schutz finanziell abge­sichert](https://www.test.de/Rechtsschutzversicherung-im-Vergleich-4776988-0/ "Rechtsschutzversicherung im Vergleich - Mit gutem Rechtsschutz finanziell abgesichert")
-* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
-* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
-* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
-* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Kryptowährungen: Berliner Start-up Nuri ist insolvent](https://www.test.de/Kryptowaehrungen-Berliner-Start-up-Nuri-ist-insolvent-5910114-0/ "Kryptowährungen - Berliner Start-up Nuri ist insolvent")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Sicher­heits­lücke bei Smartphones: Hand­ysperre mit Foto ausgetrickst](https://www.test.de/Sicherheitsluecke-bei-Smartphones-Handysperre-mit-Foto-ausgetrickst-5908999-0/ "Sicherheitslücke bei Smartphones - Handysperre mit Foto ausgetrickst")
+* [Sparkasa.net: Zinsportal Sparkasa.net nicht seriös](https://www.test.de/Sparkasanet-Zinsportal-Sparkasanet-nicht-serioes-5916931-0/ "Sparkasa.net - Zinsportal Sparkasa.net nicht seriös")
+* [Laptop-Ruck­säcke im Test: Die Besten für mobiles Arbeiten](https://www.test.de/Laptop-Rucksaecke-im-Test-Die-Besten-fuer-mobiles-Arbeiten-6052998-0/ "Laptop-Rucksäcke im Test - Die Besten für mobiles Arbeiten")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
+* [Tracking in Google Chrome: Über­wachung im Namen der Privatsphäre](https://www.test.de/Tracking-in-Google-Chrome-Ueberwachung-im-Namen-der-Privatsphaere-6049018-0/ "Tracking in Google Chrome - Überwachung im Namen der Privatsphäre")
 
 Service Stiftung Warentest
 
