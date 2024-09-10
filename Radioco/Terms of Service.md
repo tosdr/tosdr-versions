@@ -8,7 +8,7 @@
     * [Programming Professional grade, for everyone.](https://radio.co/product-tour/programming)
     * [Station Management Insights at your fingertips.](https://radio.co/product-tour/station-management)
     * [Listener Engagement Reach communities globally.](https://radio.co/product-tour/listener-engagement)
-    * [Mobile Apps Create iOS & Andriod apps for your station.](https://radio.co/apps)
+    * [Mobile Apps Create iOS & Android apps for your station.](https://radio.co/apps)
     * [Explore All Features](https://radio.co/product-tour/all-features)
 * [Why Radio.co](https://radio.co/why-choose-us)
 * [Book Demo](https://radio.co/demo)
@@ -376,7 +376,8 @@ No obligation, just a helping hand
 * [Take Tour](https://radio.co/product-tour)
 * [Book Demo](https://radio.co/demo)
 
-Your complete online radio solution. Automate your schedule, go live, and track listeners, all-in-one place.
+Your complete online radio solution.  
+Automate your schedule, go live, and track listeners, all-in-one place.
 
 Product
 -------
@@ -429,6 +430,6 @@ Your email...
 
 [](https://www.twitter.com/radiodotco)[](https://www.facebook.com/radiodotco)[](https://www.instagram.com/radiodotco/)[](https://www.youtube.com/radiodotco?sub_confirmation=1)[](https://www.linkedin.com/company/radio-co)[](https://www.tiktok.com/@radio.co)
 
-Made with ❤️ in Manchester
+[](https://apps.apple.com/us/app/radio-co-studio/id1667890696)[](https://play.google.com/store/apps/details?id=com.radiocostudio)
 
-© 2015-2024 Radio.co. All rights reserved | [Terms](https://radio.co/terms) | [Privacy](https://radio.co/privacy) | [Cookies](https://radio.co/cookies)
+Made with ❤️ in Manchester © 2015-2024 Radio.co. All rights reserved | [Terms](https://radio.co/terms) | [Privacy](https://radio.co/privacy) | [Cookies](https://radio.co/cookies)
