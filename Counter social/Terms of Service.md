@@ -5,7 +5,6 @@
 * Apps
     * [CounterSocial on Apple App Store](https://apps.apple.com/us/app/countersocial/id1543783578)
     * [CounterSocial in Google Play Store](https://play.google.com/store/apps/details?id=counter.social.android)
-* [Realms](https://realms.counter.social/)
 * [FAQ](https://counter.social/faq.html)
 * [network Status](https://dashboard.counter.social/)
 * Developers
