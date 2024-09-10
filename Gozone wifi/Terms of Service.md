@@ -222,20 +222,20 @@ PARTNERS
 * [Channel Partners](https://www.gozonewifi.com/partners/channel/)
 * [Ecosystem Partners](https://www.gozonewifi.com/partners/ecosystem/)
 * [Partner Portal](https://partner.gozonewifi.com/)
-* [Competitors](https://www.gozonewifi.com/competitors/)
 
 VENUES
 ------
 
+* [Cities & Communities](https://www.gozonewifi.com/venues/smart-cities/)
+* [Conference & Event Centers](https://www.gozonewifi.com/venues/conference-event-centers/)
+* [MDU and Campus](https://www.gozonewifi.com/venues/mdu/)
+* [Food & Beverage](https://www.gozonewifi.com/venues/food-and-beverage/)
 * [Gaming & Casinos](https://www.gozonewifi.com/venues/gaming/)
-* [Sports & Entertainment](https://www.gozonewifi.com/venues/sports-and-entertainment-venues/)
-* [Food & Beverage](https://www.gozonewifi.com/venues/restaurants-bars-and-cafes/)
-* [Resorts & Lodging](https://www.gozonewifi.com/venues/hotel-and-hospitality/)
 * [Grocery & Retail](https://www.gozonewifi.com/venues/grocery-retail/)
 * [Outdoor Recreation Venues](https://www.gozonewifi.com/venues/outdoor-recreation-venues/)
-* [Cities & Communities](https://www.gozonewifi.com/venues/smart-cities/)
-* [Transportation](https://www.gozonewifi.com/venues/transportation/)
-* [Education](https://www.gozonewifi.com/venues/education-campus-wifi/)
+* [Resorts & Lodging](https://www.gozonewifi.com/venues/resorts-and-lodging/)
+* [Sports & Entertainment](https://www.gozonewifi.com/venues/sports-and-entertainment-venues/)
+* [Travel & Transportation](https://www.gozonewifi.com/venues/transportation/)
 
 BLOGS
 -----
@@ -258,6 +258,7 @@ COMPANY
 * [Blogs](https://www.gozonewifi.com/category/blogs/)
 * [Resources](https://www.gozonewifi.com/resource-library/)
 * [Support](https://www.gozonewifi.com/support/)
+* [Integrations](https://www.gozonewifi.com/partners/ecosystem-partners/)
 
 LEGAL
 -----
