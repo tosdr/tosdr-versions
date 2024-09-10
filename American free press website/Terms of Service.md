@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
-* [\[ July 28, 2024 \] ‘Most Influential Far-Right Activist’ Speaks With AFP Subscriber Only](https://americanfreepress.net/most-influential-far-right-activist-speaks-with-afp/ "‘Most Influential Far-Right Activist’ Speaks With AFP")
-* [\[ July 27, 2024 \] Will Republicans Turn the Lawfare Tables on Dems? Subscriber Only](https://americanfreepress.net/will-republicans-turn-the-lawfare-tables-on-dems/ "Will Republicans Turn the Lawfare Tables on Dems?")
-* [\[ July 27, 2024 \] Most Americans Want Border Closed Subscriber Only](https://americanfreepress.net/most-americans-want-border-closed/ "Most Americans Want Border Closed")
-* [\[ July 26, 2024 \] No-Fault Divorce Emerging as Issue in 2024 Campaign Subscriber Only](https://americanfreepress.net/no-fault-divorce-emerging-as-issue-in-2024-campaign/ "No-Fault Divorce Emerging as Issue in 2024 Campaign")
-* [\[ July 26, 2024 \] Democrats Hysterical Over Project 2025 National News](https://americanfreepress.net/democrats-hysterical-over-project-2025/ "Democrats Hysterical Over Project 2025")
+* [\[ September 7, 2024 \] Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns Subscriber Only](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/ "Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns")
+* [\[ September 7, 2024 \] Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices Subscriber Only](https://americanfreepress.net/kamala-harriss-price-control-proposal-will-not-solve-rising-food-prices/ "Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices")
+* [\[ September 6, 2024 \] Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative Subscriber Only](https://americanfreepress.net/trumps-support-for-brutal-israeli-policies-a-yuuge-negative/ "Trump’s Support for Brutal Israeli Policies a ‘Yuuge’ Negative")
+* [\[ September 5, 2024 \] Please Enjoy That Trillion-Dollar Glass of Water, if You Can Subscriber Only](https://americanfreepress.net/please-enjoy-that-trillion-dollar-glass-of-water-if-you-can/ "Please Enjoy That Trillion-Dollar Glass of Water, if You Can")
+* [\[ September 5, 2024 \] ONE-PARTY RULE Subscriber Only](https://americanfreepress.net/one-party-rule/ "ONE-PARTY RULE")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -114,7 +114,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/29&30_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_29_30_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/35&36_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_35_36_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -128,18 +128,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
-* [‘Most Influential Far-Right Activist’ Speaks With AFP](https://americanfreepress.net/most-influential-far-right-activist-speaks-with-afp/)
-* [New York Times Reports on Covid-19 Vaccine Casualties](https://americanfreepress.net/new-york-times-reports-on-covid-19-vaccine-casualties/)
-* [NATO Alliance Celebrates 75th Birthday, But Funeral Would Be Better](https://americanfreepress.net/nato-alliance-celebrates-75th-birthday-but-funeral-would-be-better/)
-* [Will Republicans Turn the Lawfare Tables on Dems?](https://americanfreepress.net/will-republicans-turn-the-lawfare-tables-on-dems/)
-* [Most Americans Want Border Closed](https://americanfreepress.net/most-americans-want-border-closed/)
+* [Kamala’s VP Pick Has ‘Proud History’ Pushing Lockdowns](https://americanfreepress.net/kamalas-vp-pick-has-proud-history-pushing-lockdowns/)
+* [A Third of Global Debt Belongs to America](https://americanfreepress.net/a-third-of-global-debt-belongs-to-america/)
+* [Kamala Harris’s Price-Control Proposal Will Not Solve Rising Food Prices](https://americanfreepress.net/kamala-harriss-price-control-proposal-will-not-solve-rising-food-prices/)
+* [Presidents Shouldn’t Mess With Interest Rates](https://americanfreepress.net/presidents-shouldnt-mess-with-interest-rates/)
+* [GOP House Committees Finally Release Impeachment Report Damning Biden](https://americanfreepress.net/gop-house-committees-finally-release-impeachment-report-damning-biden/)
 
 ###### Recent Comments
 
+* Sad News on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54295)
+* john on [Grand Ole Populists](https://americanfreepress.net/grand-ole-populists/#comment-54251)
 * [L.C.](https://www.youtube.com/watch?v=Om4NmC0ldPM) on [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/#comment-54226)
 * John on [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/#comment-54191)
-* JeffLocke on [Doing the Right Thing for Schools, and the Education of Our Children](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/#comment-54101)
-* JeffLocke on [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/#comment-54100)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=514172752)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=82120877)
