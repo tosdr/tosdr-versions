@@ -5,9 +5,8 @@
 * [Company](https://fragmnt.com/company/)
 * [Careers](https://fragmnt.com/careers/)
 * [News](https://fragmnt.com/news/)
-
-* [LinkedIn](https://www.linkedin.com/company/fragment-media-group)
-* [contact](https://fragmnt.com/company/#contact)
+* * [LinkedIn](https://www.linkedin.com/company/fragment-media-group)
+    * [contact](https://fragmnt.com/company/#contact)
 
 The Fragment Media Group LLC, Daily Dot LLC, Spark Network LLC, and NautilusNext Inc (“we,” “us,” or “our”) owns and operates the websites located at:
 
