@@ -9,8 +9,6 @@ Sign in
 * [Cars](https://www.hotelscombined.com/cars)
 * [Packages](https://www.hotelscombined.com/packages)
 
-Privacy Preferences
-
 [Trips](https://www.hotelscombined.com/trips)
 
 English
