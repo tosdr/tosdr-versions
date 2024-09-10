@@ -189,11 +189,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Olga Fedorovskaya](https://cdn.returningveterans.org/images/honor/Olga_Fedorovskaya.png)  
+![Gary Steve Yarno](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Olga Fedorovskaya**  
-United States Air Force  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Gary Steve Yarno**  
+Submitted by Simon & Robin Benito](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +239,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 ![](https://dc.ads.linkedin.com/collect/?pid=576569&fmt=gif)
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 7/31/24 - 1:04:12  
+Printed 9/10/24 - 3:37:53  
 © 2024 Returning Veterans Project
