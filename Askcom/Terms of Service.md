@@ -1,4 +1,4 @@
-[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=99E0EAED-2B34-4261-9C64-8A16A779E956&ad=dirN "https://www.ask.com/?ueid=99E0EAED-2B34-4261-9C64-8A16A779E956&ad=dirN")
+[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=580F734F-9A45-4077-85D9-AC5054E662FE&ad=dirN "https://www.ask.com/?ueid=580F734F-9A45-4077-85D9-AC5054E662FE&ad=dirN")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,8 +276,7 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.ask.com/privacy?ueid=99E0EAED-2B34-4261-9C64-8A16A779E956&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.ask.com/terms?ueid=99E0EAED-2B34-4261-9C64-8A16A779E956&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.ask.com/privacy?ueid=580F734F-9A45-4077-85D9-AC5054E662FE&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.ask.com/terms?ueid=580F734F-9A45-4077-85D9-AC5054E662FE&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
-* Manage Privacy
 * © 2024 Ask Media Group, LLC
