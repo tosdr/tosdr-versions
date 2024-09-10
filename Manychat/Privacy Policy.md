@@ -48,7 +48,7 @@ Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
-[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Early bird tickets for Instagram Summit by Manychat for ~$69~ $29![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
+[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)They grew; now you! Learn from 29 top IG creators - only $29!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
 
@@ -126,20 +126,20 @@ More documents
 
 [Terms of Service](https://manychat.com/legal/tos)[Data Processing Addendum](https://manychat.com/legal/dpa)[Privacy Policy](https://manychat.com/legal/privacy)[Service Providers](https://manychat.com/legal/service-providers)[Cookies Statement](https://manychat.com/legal/cookies-statement)[Service Level Agreement](https://manychat.com/legal/service-level-agreement)[AI Supplementary Terms](https://manychat.com/legal/ai-tos)
 
-Effective date: May 1, 2023
+Effective date: September 16, 2024
 
-[Previous Version](https://manychat.com/privacy_12082022.html)
+[Previous Version](https://manychat.com/legal/privacy-01052023)
 
 * * *
 
 Manychat Privacy Policy
 -----------------------
 
-At Manychat, Inc. (“**Manychat**,” “**we**, “**us**”) we consider the privacy and the security of personal data to be extremely important.
+At Manychat, Inc. (“**Manychat**”, “**we**, **us**”) we consider the privacy and the security of personal data to be extremely important.
 
 We process personal data for (1) our own purposes and (2) under instructions of our customers who use Manychat service (“**Service**”), upload and keep certain information in it. In the second case, we strictly adhere to customers’ instructions and do not use data for any other purposes than providing the Service (see details in [Data Processing Addendum](https://manychat.com/legal/dpa)).
 
-In this Privacy Policy, we describe how we process personal data of the following data subjects for our own purposes:
+In this Privacy Policy, we describe how we process the personal data of the following data subjects for our own purposes:
 
 * our customers, their end users and representatives,
 * website users,
@@ -147,7 +147,7 @@ In this Privacy Policy, we describe how we process personal data of the followin
 * potential customers,
 * our counterparties and their representatives.
 
-It covers information collected in the Service, on our website [www.manychat.com](https://manychat.com/) or other websites administered by Manychat where Privacy Policy is placed (the “**Site**”), in our Mobile apps and in other sources.
+It covers information collected in the Service, on our website [www.manychat.com](https://manychat.com/), or other websites administered by Manychat where Privacy Policy is placed (the “**Site**”), in our Mobile apps and in other sources.
 
 If you have any questions or suggestions concerning our privacy practices, please email us at [privacy@manychat.com](mailto:privacy@manychat.com). Please also send us an email, if you would like to request data access or deletion, or to exercise other rights as a data subject.
 
@@ -165,21 +165,19 @@ If you have any questions or suggestions concerning our privacy practices, pleas
     
 6. [For How Long We Retain Personal Data](#6.-for-how-long-we-retain-personal-data)
     
-7. [Data Transfers](#7.-data-transfers)
+7. [International Data Transfers](#7.-international-data-transfers)
     
-8. [Personal Data Transferred from the EA, the UK or Switzerland to the United States](#8.-personal-data-transferred-from-the-ea%2C-the-uk-or-switzerland-to-the-united-states)
+8. [Children's information](#8.-children's-information)
     
-9. [Children's Informataion](#9.-children's-informataion)
+9. [Security](#9.-security)
     
-10. [Security](#10.-security)
+10. [Legal Basis for Processing Your Personal Data (EEA Visitors/Customers Only)](#10.-legal-basis-for-processing-your-personal-data-(eea-visitors%2Fcustomers-only))
     
-11. [Legal Basis for Processing Your Personal Data (EEA Visitors/Customers Only)](#11.-legal-basis-for-processing-your-personal-data-(eea-visitors%2Fcustomers-only))
+11. [For California Residents](#11.-for-california-residents)
     
-12. [For California Residents](#12.-for-california-residents)
+12. [Changes to Our Privacy Policy](#12.-changes-to-our-privacy-policy)
     
-13. [Changes to Our Privacy Policy](#13.-changes-to-our-privacy-policy)
-    
-14. [How to Contact Us](#14.-how-to-contact-us)
+13. [How to Contact Us](#13.-how-to-contact-us)
     
 
 ### 1\. How We Collect Personal Data
@@ -276,29 +274,41 @@ We will retain and process personal data until you terminate the Agreement with 
 
 We may also store some data during a retention period required by law or timeframe necessary to resolve disputes, prevent abuse, and enforce our agreements.
 
-### 7\. Data Transfers
+### 7\. International Data Transfers
 
 Your personal data may be stored and processed in any country where we have facilities or in which we engage service providers, including in the U.S.
 
 By accepting the terms of this Privacy Policy, you acknowledge and agree to (1) the transfer to and processing of personal data on servers located outside of the country where you reside and (2) our collection and use of your personal data as described herein and in accordance with the data protection laws of the countries in which we have facilities or in which we engage service providers, which may be different and may be less protective than those in your country.
 
-### 8\. Personal Data Transferred from the EA, the UK or Switzerland to the United States
+EU-US Data Privacy Framework program, the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework.
 
-Manychat operates in countries outside the EEA, the UK, and Switzerland, such as the U.S., and may utilize data processors and sub-processors located in third countries.
+Manychat, Inc. complies with the EU-US Data Privacy Framework program (EU-US DPF), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework program (Swiss-US DPF) as set forth by the US Department of Commerce. Manychat has certified to the US Department of Commerce that it adheres to the EU-US Data Privacy Framework Principles (EU-US DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-US DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-US DPF. Manychat has certified to the US Department of Commerce that it adheres to the Swiss-US Data Privacy Framework program Principles (Swiss-US DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-US DPF.
 
-If you are located in the EEA, the UK, or Switzerland, this means that we may transfer personal data outside of your country. Such transfers are made using appropriate safeguards and supplementary measures. We enter into the EU Standard Contractual Clauses for data transfers with our customers, who use the Service (see Annex 3 to the [Data Processing Addendum](https://manychat.com/legal/dpa)).
+In compliance with the EU-U.S. DPF, the Swiss-U.S. DPF, and the UK Extension, Manychat commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the Swiss-U.S. DPF and the UK Extension to ICDR-AAA DPF IRM Service, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) for more information or to file a complaint. AAA services are provided at no cost to you.
 
-### 9\. Children's Informataion
+To learn more about the Data Privacy Framework (DPF) program and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). We are committed to subjecting all personal data received from the EU EEA, UK, and Switzerland to the applicable Principles of the Data Privacy Frameworks, including with respect to onward transfers of personal data for which we will remain liable. In compliance with the Data Privacy Framework, we also commit to resolve complaints about our collection or use of your personal data, and individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact us at [privacy@manychat.com](mailto:privacy@manychat.com). If you do not receive timely acknowledgment from us of your complaint or if we have not resolved your complaint, please contact or visit the applicable data protection authorities for more information or to file a complaint. These services are provided at no cost to you.
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor, and guide their online activity. The Site and/or the Service are not intended for use by anyone under the age of 18, nor does Manychat knowingly collect or solicit personal data from anyone under the age of 18.
+Manychat commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
-If you are under 18, you may not attempt to register for the Service or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we confirm that we have collected personal data from someone under the age of 18 without verification of parental consent, we will delete that information promptly. If you are a parent or legal guardian of a child under 18 and believe that we might have any information from or about such a child, please contact us. We do not sell any Personal Data of our customers, including those aged between 13 to 18.
+In certain circumstances, each Data Privacy Framework provides EU, Swiss, and UK individuals the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Data Privacy Framework](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
 
-### 10\. Security
+Manychat is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with respect to its compliance with the provisions of the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If there is any conflict between the terms in this privacy statement and the EU-US DPF Principles and/or the Swiss-US DPF Principles, the Principles shall govern.
+
+If the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF do not apply, Manychat relies on other data transfer mechanisms to transfer personal data outside the EEA, the UK, and Switzerland, such as Standard Contractual Clauses (see Annex 3 to the [Data Processing Addendum](https://manychat.com/legal/dpa)).
+
+### 8\. Children's information
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in, and/or monitor, and guide their online activity. The Site and/or the Service are not intended for use by anyone under the age of 18, nor does Manychat knowingly collect or solicit personal data from anyone under the age of 18.
+
+If you are under 18, you may not attempt to register for the Service or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we confirm that we have collected personal data from someone under the age of 18 without verification of parental consent, we will delete that information promptly. If you are a parent or legal guardian of a child under 18 and believe that we might have any information from or about such a child, please contact us. We do not sell any Personal Data of our customers, including those aged between 13 and 18.
+
+### 9\. Security
 
 **Safeguarding Your Information**
 
-We take reasonable and appropriate measures to protect personal data from loss, misuse and unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal data.  See the list of measures in Annex 2 of the [Data Processing Addendum](https://manychat.com/legal/dpa).
+We take reasonable and appropriate measures to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal data.  See the list of measures in Annex 2 of the [Data Processing Addendum](https://manychat.com/legal/dpa).
 
 Despite these efforts to store personal data collected on and through the Site and/or the Service and otherwise by us in a secure operating environment that is not available to the public, we cannot guarantee the security of personal data during its transmission or its storage in our systems. Further, while we attempt to ensure the integrity and security of personal data, we cannot guarantee that our security measures will prevent third-parties such as so-called hackers from illegally obtaining access to personal data. We do not warrant or represent that personal data about you will be protected against, loss, misuse, or alteration by third parties.
 
@@ -310,16 +320,16 @@ If you have any questions about the security of your personal data, you may cont
 
 If a security breach causes an unauthorized intrusion into our system that materially affects you or your Subscribers, then we will notify you as soon as possible and later report the action we took in response.
 
-### 11\. Legal Basis for Processing Your Personal Data (EEA Visitors/Customers Only)
+### 10\. Legal Basis for Processing Your Personal Data (EEA Visitors/Customers Only)
 
-If you are a person located in the EEA or  the UK our legal basis for collecting and using the personal data described above will depend on the purpose of processing and personal data concerned:
+If you are a person located in the EEA or  the UK, our legal basis for collecting and using the personal data described above will depend on the purpose of processing and personal data concerned:
 
-* We process data to perform a contract with you on use of the Service (Art. 6(1)(b) of the GDPR or UK GDPR);
+* We process data to perform a contract with you on the use of the Service (Art. 6(1)(b) of the GDPR or UK GDPR);
 * We also process data based on our legitimate interest (Art. 6(1)(f) of the GDPR or UK GDPR) in the following cases:
-    * to communicate with you and inform about our Service;
+    * to communicate with you and inform you about our Service;
     * to comply with the law we are subject to;
     * to conduct events and communicate with you;
-    * to negotiate, enter and perform agreements;
+    * to negotiate, enter, and perform agreements;
     * for compliance and safety.
 * We process some types of cookie files based on your consent (Art. 6(1)(a) of the GDPR or UK GDPR). See more details in [Cookie Statement](https://manychat.com/legal/cookies-statement).
 
@@ -329,7 +339,7 @@ You are not obliged to provide your personal data to us. However, if we need per
 
 If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, you may contact us by email at [privacy@manychat.com](mailto:privacy@manychat.com).
 
-### 12\. For California Residents
+### 11\. For California Residents
 
 If you are a resident of California, California Civil Code Section 1798.83 permits you to request information regarding how we disclosed your personal data to third parties for such parties' direct marketing purposes during the preceding calendar year. To request the above information, please contact us at [privacy@manychat.com](mailto:privacy@manychat.com). We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated below. Please note that we are only required to respond to an individual once per calendar year.
 
@@ -379,13 +389,13 @@ You have the right not to be discriminated against for the exercise of your Cali
 * Provide you with a different level or quality of goods or services.
 * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
-### 13\. Changes to Our Privacy Policy
+### 12\. Changes to Our Privacy Policy
 
 We may need to change this Privacy Policy from time to time to reflect legal, technical or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you before its entry into force, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Policy changes if and where this is required by data protection laws applicable to us.
 
 You can see when this Privacy Policy was last updated by checking the “EFFECTIVE DATE” displayed at the top of this Privacy Policy. The new Privacy Policy will apply to all current and past users of the website and will replace any prior notices that are inconsistent with it.
 
-### 14\. How to Contact Us
+### 13\. How to Contact Us
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [art-27-rep-manychat@rickert.law](mailto:art-27-rep-manychat@rickert.law).
 
