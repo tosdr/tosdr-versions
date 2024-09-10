@@ -5,8 +5,6 @@ Product
 * [The Element App](https://riot.im/app-for-productivity)
 * [Element Server Suite](https://riot.im/server-suite)
 * [The Matrix Standard](https://riot.im/matrix-benefits)
-* [Features](https://riot.im/features)
-* [Integrations](https://riot.im/integrations)
 * [Hosting](https://riot.im/self-hosted-or-cloud)
 
 Solutions
@@ -18,13 +16,12 @@ Solutions
 
 Resources
 
-* [Blog](https://element.io/blog/)
 * [User guide](https://riot.im/user-guide)
 * [Help](https://riot.im/help)
 * [Labs](https://riot.im/labs)
 * [Contact Sales](https://riot.im/contact-sales)
 
-[Pricing](https://riot.im/pricing)[Download](https://riot.im/download)
+[Blog](https://element.io/blog/)[Pricing](https://riot.im/pricing)[Download](https://riot.im/download)
 
 Sign In
 
@@ -35,15 +32,11 @@ Sign In
 
 [](https://riot.im/)
 
-[Get started](https://try.element.io/get-started)
-
 Product
 
 * [The Element App](https://riot.im/app-for-productivity)
 * [Element Server Suite](https://riot.im/server-suite)
 * [The Matrix Standard](https://riot.im/matrix-benefits)
-* [Features](https://riot.im/features)
-* [Integrations](https://riot.im/integrations)
 * [Hosting](https://riot.im/self-hosted-or-cloud)
 
 Solutions
@@ -53,11 +46,8 @@ Solutions
 * [Customers](https://riot.im/customers)
 * [Matrix in Germany](https://riot.im/matrix-in-germany)
 
-[Pricing](https://riot.im/pricing)
-
 Resources
 
-* [Blog](https://element.io/blog/)
 * [User guide](https://riot.im/user-guide)
 * [Help](https://riot.im/help)
 * [Labs](https://riot.im/labs)
@@ -68,7 +58,9 @@ Sign In
 * [Open Element web](https://app.element.io/)
 * [Admin dashboard](https://ems.element.io/user/hosting#/hosts)
 
-[Download](https://riot.im/download) [About](https://riot.im/about) [Careers](https://riot.im/careers)
+[Blog](https://element.io/blog/) [Pricing](https://riot.im/pricing) [Download](https://riot.im/download)
+
+[Get started](https://try.element.io/get-started)
 
 **Privacy policy****.**
 =======================
@@ -82,44 +74,44 @@ Most Terms of Use and Privacy Policy documents are unreadable. They are written 
 
 Privacy is important, and we want you to understand the issues involved. For that reason we decided to use plain English as much as possible, to make our terms as clear as possible. Some sections still have room for improvement - we plan to tackle these over time.
 
-Where you read **'Element**', ‘**Element Matrix Services**’, ‘**EMS**’, ‘**the Element app store**’ or ‘**element.io**’ it refers to all services made available at [https://element.io](https://element.io/) for:
+Where you read 'Element', ‘Element Matrix Services’, ‘EMS’, ‘the Element app store’ or ‘element.io’ it refers to all services made available at [https://element.io](https://element.io/) for:
 
 * The Element chat app, an open source Matrix client which you can use to connect to any server that implements the Matrix protocol;
 * The Gitter developer communication app;
 * The purchase, provisioning, configuration, monitoring and management of hosted homeservers and associated services via Element Matrix Services (EMS), or the Element app store.
 
-Where you read '**homeserver**', '**homeservers**' or '**the Homeserver**', it refers to the services configured within Element which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
+Where you read 'homeserver', 'homeservers' or 'the Homeserver', it refers to the services configured within Element which store the user account and personal conversation history, provide additional functionality such as bots and bridges, and (where enabled by the Customer) communicate via the open Matrix decentralised communication protocol with the public Matrix Network.
 
-Where you read ‘**the Service**’ in this document, it refers to the Element chat app instances exposed on [https://element.io](https://element.io/) (or subdomains) by New Vector Ltd (trading as Element).
+Where you read ‘the Service’ in this document, it refers to the Element chat app instances exposed on [https://element.io](https://element.io/) (or subdomains) by New Vector Ltd (trading as Element).
 
-Where you read '**Element**' or '**we**' or '**us**' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: Element Software SARL, its U.S. subsidiary: Element Software Inc, its German subsidiary: Element Software GmbH, and their agents.
+Where you read 'Element' or 'we' or 'us' below, it refers to Element, a trading name of New Vector Ltd., its French subsidiary: Element Software SARL, its U.S. subsidiary: Element Software Inc, its German subsidiary: Element Software GmbH, and their agents.
 
 Element is the Data Controller for your data. We can be contacted as per the details below:
 
-**Email:** [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection)
+Email: [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection)
 
-**Postal address:  
+Postal address:  
 Element  
 c/o New Vector Ltd  
 10 Queen Street Place  
 London  
 United Kingdom  
-EC4R 1AG**
+EC4R 1AG
 
 Should you have other questions or concerns about this document, please send us an email at [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection).
 
-### **1.2. Scope of This Document**
+### **1.2 Scope of This Document**
 
 This document explains how we process personal data, as it relates to:
 
-* **Element chat app users:** Element chat app users use Element to connect to any server that implements the Matrix Protocol.
-* **Gitter app users:** Gitter.im is now a part of Element, and will soon be bridged to the Matrix protocol, allowing its users to talk to other Matrix users.
-* **Element Customers:** Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does not address data protection issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsibility of the Customer. For general Terms of Use for Homeserver users, please see: [EULA](https://static.element.io/legal/online-EULA.pdf).
+* _Element chat app users_: Element chat app users use Element to connect to any server that implements the Matrix Protocol.
+* _Gitter app users_: Gitter.im is now a part of Element, and will soon be bridged to the Matrix protocol, allowing its users to talk to other Matrix users.
+* _Element Customers_: Element Customers use Element Matrix Services (EMS) to provision and manage hosted homeservers. Apart from where otherwise noted, this document does **not** address data protections issues relating to the messaging and file data submitted by Users to the hosted homeserver instances, as this is the legal responsibility of the Customer. For general Terms of Use for Homeserver users, please see: [https://element.io/user-terms-of-service](https://element.io/user-terms-of-service)
 
 This document does not cover:
 
-* **Your relationship with the Matrix server if it isn't provided by EMS:** Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
-* **Your relationship with identity servers:** you might choose to use an identity server, to allow other Matrix users to discover you via the Element app. This is optional and requires your explicit consent to discover users from your personal contacts. For the identity server made available by us, please see the [Identity Server Privacy Notice](https://element.io/is-privacy-notice).
+* _Your relationship with the Matrix server if it isn't provided by EMS_: Your account details and preferences, messages, files and any other data you share via the Matrix protocol are the responsibility of the Matrix server, and it is the provider of that server's job to make sure your data is handled appropriately and that you are well informed.
+* _Your relationship with identity servers_: you might chose to use an identity server, to allow other Matrix users to discover you via the Element app. This is optional and requires your explicit consent to discover users from your personal contacts. For the identity server made available by us, please see the [Identity Server Privacy Notice](https://element.io/is-privacy-notice).
 
 If you are using the matrix.org server provided by the Matrix Foundation, you can find the relevant Privacy Notice and Terms and Conditions here:
 
@@ -128,13 +120,13 @@ If you are using the matrix.org server provided by the Matrix Foundation, you ca
 * Matrix.org Code of Conduct - [https://matrix.org/docs/guides/code\_of\_conduct](https://matrix.org/docs/guides/code_of_conduct)
 * Matrix.org Copyright Notice - [https://matrix.org/docs/guides/copyright\_notice](https://matrix.org/docs/guides/copyright_notice)
 
-### **1.3. The Customer and the User**
+### **1.3 The Customer and the User**
 
 This document is designed to explain Data Protections issues relating to Element Customers and Users. Put simply, you're a Customer if you're paying (or otherwise compensating) Element to provide a dedicated hosted messaging service. If you have an account registered on a homeserver that you use to send and receive messages, or use the Element chat app to connect any server within the Matrix Protocol, you are a User.
 
 It is possible to be both a Customer and a User, but we encourage you to consider these roles separately when thinking about Data Protection concerns.
 
-### **1.4. Changes to This Document**
+### **1.4 Changes to This Document**
 
 Over time we may make changes to this document. If we make a material change we will provide the Customer with reasonable notice prior to the change. We will set forth the date upon which the changes will become effective; any use of Element by the Customer, or any use of a hosted homeserver from EMS by a User will constitute the Customer's acceptance of these changes.
 
@@ -143,40 +135,38 @@ Your access and use of Element is always subject to the most current version of 
 **2\. Access to Your Data**
 ---------------------------
 
-### **2.1. What is the legal basis for processing my data and how does this affect my rights under GDP (General Data Protection Regulation)?**
+### **2.1 What is the legal basis for processing my data and how does this affect my rights under GDPR (General Data Protection Regulation)?**
 
 #### **2.1.1 Legal Basis for Processing**
 
 Element has different legal basis for processing, based on which product you are using:
 
-* **Element chat app users:** we collect your IP address when you request access to the Element client from our web server. This data is collected under [Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), to support operational maintenance and to protect against malicious actions against our infrastructure.
-* **Gitter app users:** we collect the details of whatever account you use to sign-up to Gitter, via OAuth (this could be GitLab/GitHub/Twitter). This data is collected under [Legitimate Interest](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), to allow you to use the service.
-* **Element customers:** your data is processed under [Performance of Contract](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/). This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
+* _Element chat app users_: we collect your IP address when you request access to the Element client from our web server. This data is collected under [_Legitimate Interest_](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), to support operational maintenance and to protect against malicious actions against our infrastructure.
+* _Gitter app users_: we collect the details of whatever account you use to sign-up to Gitter, via OAuth (this could be GitLab/GitHub/Twitter). This data is collected under [_Legitimate Interest_](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/), to allow you to use the service.
+* _Element customers_: your data is processed under [_Performance of Contract_](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/contract/). This means that we process your data only as necessary to meet our contractual obligations to you, or to engage with you to do something before entering into a contract (such as providing a quote);
 
-#### **2.1.2. Data Ownership - Messaging and File data within hosted homeservers**
+#### **2.1.2 Data Ownership - Messaging and File data within hosted homeservers**
 
 The Customer can use Element Matrix Services to provision and manage hosted Matrix homeservers. The Customer owns and controls all messages and files submitted to their homeserver by User accounts registered natively on their homeserver. This ownership does not extend to messages and files submitted over federation or bridging.
 
 This means that, in addition to the usual data access controls defined by the Matrix protocol, all unencrypted messages and files can be accessed by the Customer, and that access is retained even if no User account within the system retains access to the data.
 
-‍
-
-#### **2.1.3. Your rights as Data Subject**
+#### **2.1.3 Your Rights as Data Subject**
 
 You have rights in relation to the personal data we hold about you. Some of these only apply in certain circumstances. Some of these rights are explored in more detail elsewhere in this document. For completeness, your rights under GDPR are:
 
-* The right to be informed
-* The right of access
-* The right to rectification
-* The right to erasure
-* The right to restrict processing
-* The right to data portability
-* The right to object
-* Rights in relation to automated decision making and profiling.
+1. The right to be informed
+2. The right of access
+3. The right to rectification
+4. The right to erasure
+5. The right to restrict processing
+6. The right to data portability
+7. The right to object
+8. Rights in relation to automated decision making and profiling.
 
 For more information about these rights, please see [the guidance provided by the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/). If you have any questions or are unsure how to exercise your rights, please contact us at [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection).
 
-### **2.2 What information do you collect about me and why?**
+### **2.2 What Information Do You Collect About Me and Why?**
 
 The information we collect is for the purpose of supporting your management of hosted homeservers through Element Matrix Services, or to support operational maintenance of the Element Matrix client. We do not profile homeserver Users or their data, but we might profile metadata pertaining to the configuration and management of hosted homeservers so that we can improve our products and services.
 
@@ -184,22 +174,21 @@ The information we collect is for the purpose of supporting your management of h
 
 We collect information about you when you input it to the Element or Element Matrix Services apps or otherwise provide it directly to us.
 
-#### **Element Matrix Services (EMS) and Element Home Customer Account and Profile Information**
+**Element Matrix Services (EMS) and Element Home Customer Account and Profile Information**
 
 We collect information when you register for an account. This information is kept to a minimum on purpose, and is restricted to:
 
 * Email address
 * Authentication Identifier; one of:
-
 * Email address and password
 * Twitter id
 * Google id
 
-Your authentication identifier is used to authenticate your access to Element Matrix Services at **https://ems.host** and to uniquely identify you.
+Your authentication identifier is used to authenticate your access to Element Matrix Services at [https://ems.host](https://ems.host/) and to uniquely identify you.
 
 You will be given the choice to set up 2-Factor Authentication to secure your account. For 2FA over SMS, we will require your phone number. This information will be shared with [Twilio](https://www.twilio.com/), a SMS service provider.
 
-#### **Element Matrix Services (EMS) Customer and Element Home Account Transaction and Billing Information**
+**Element Matrix Services (EMS) Customer and Element Home Account Transaction and Billing Information**
 
 Paying for hosted homeserver services via EMS is handled entirely by our payment processor, [Stripe](https://stripe.com/en-gb/privacy). The processor stores your credit card information as well as your billing contact information in order to process your monthly or annual automatic renewals, or to allow you to upgrade or downgrade your subscription without re-entering a credit card number.
 
@@ -215,7 +204,7 @@ The data we collect in our transaction database, including Personal Data, is not
 
 We use a third-party, [Quaderno](https://quaderno.io/policies/privacy/), to help us with tax automation within our billing system.
 
-#### **Element Home Account Setup**
+**Element Home Account Setup**
 
 When setting up an Element Home account via the setup wizard, we will temporarily access your account data, in order to migrate your existing Matrix account to your new Element Home account. This includes:
 
@@ -227,7 +216,7 @@ The setup wizard will also request your OpenID and access token, in order to ret
 
 If you do not have an email address verified by a trusted homeserver (such as Matrix.org), we will require you to add and verify a valid email address, for billing and host setup purposes.
 
-#### **Lead generation and marketing information**
+**Lead generation and marketing information**
 
 We might collect information about you through adverts placed in third-party platforms such as [LinkedIn](https://www.linkedin.com/), [Twitter](https://twitter.com/) or [Google](https://www.google.com/). Whenever you click an advert on these platforms you may be asked to provide details such as:
 
@@ -245,6 +234,7 @@ We log the IP addresses of everyone who accesses Element. This data is used in o
 
 * 30 days, for EMS Customer IP addresses;
 * 180 days, for Element chat app IP addresses;
+* 180 days, for rageshakes
 
 **Usage Information**
 
@@ -254,7 +244,7 @@ Our analytics are powered by the Free and Open Source analytics platform [Matomo
 
 If you are using the Element chat app, you will be asked to opt-in to this anonymised data collection. Your use of the Service does not rely on your opt-in to this. When using any of the Element chat clients after opt-in, your visit to the service will be logged, alongside your device ID and agent. This allows us to understand usage patterns based on each platform. The mapping of this data is logged for 28 days - from this point on only aggregated data is kept, for operational and statistical purposes. For further details on our collection and usage of analytics data, please see our [Cookie Policy](https://element.io/cookie-policy).
 
-When reporting errors we might collect some information to help us find a solution. This may include your IP address, hostname, full name and email address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/) and is subject to strict retention policies.
+When reporting errors we might collect some information to help us find a solution. This may include your IP address, hostname, full name and e-mail address. This information is collated in the application monitoring platform [Sentry](https://sentry.io/welcome/). Submitted error reports are kept for 180 days. 
 
 **Location Information**
 
@@ -264,16 +254,19 @@ Location data is held within the room in which it is shared, so it will be encry
 
 The Element clients use the third-party service [MapTiler](https://www.maptiler.com/) to provide the images used to display maps.
 
-### **2.3. Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights**
+### **2.4 Sharing Data in Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights**
 
 In exceptional circumstances, we may share information about you with a third party if we believe that sharing is reasonably necessary to
 
-* comply with any applicable law, regulation, legal process or governmental request,
-* protect the security or integrity of our products and services (e.g. for a security audit),
-* protect Element and our users from harm or illegal activities, or
-* respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person.
+(a) comply with any applicable law, regulation, legal process or governmental request,
 
-### **2.4. How do you handle passwords?**
+(b) protect the security or integrity of our products and services (e.g. for a security audit),
+
+(c) protect Element and our users from harm or illegal activities, or
+
+(d) respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing the serious bodily harm of any person.
+
+### **2.5 How Do You Handle Passwords?**
 
 We never store password data in plain text; instead they are stored hashed (with at least 12 rounds of bcrypt, including both a salt and a server-side pepper secret). Passwords sent to the server are encrypted using SSL.
 
@@ -283,26 +276,26 @@ If you become aware of any unauthorised use of your account or any other breach 
 
 If you forget your password (and you have registered an email address) you can use the password reset facility to reset it.
 
-### **2.5. Our commitment to Children’s Privacy**
+### **2.6 Our Commitment to Children's Privacy**
 
 We never knowingly collect or maintain information in Element, through any of the Services provided, from those we know are under 16, and no part of Element is structured to attract anyone under 16. If you are under 16, please do not use the Service.
 
-### **2.6. How can I access or correct my information?**
+### **2.7 How Can I Access or Correct My Information?**
 
-If you are a customer of Element Matrix Services (EMS) you can access all personal information that we collect by using the account management interface at [https://element.io](https://element.io/) You can download a copy of all your data as per **section 2.1.3**.
+If you are a customer of Element Matrix Services (EMS) you can access all personal information that we collect by using the account management interface at [https://element.io](https://element.io/) You can download a copy of all your data as per section 2.1.3.
 
 If you are a user of the Element chat app you can request a copy of your data by emailing [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection). We are working on a solution which will allow you to download the data automatically.
 
-### **2.7. Who can see my homeserver configuration?**
+### **2.8 Who Can See My Homeserver Configuration?**
 
 Data stored in Element is accessible by the Customer's account and by Element engineers (employees and contractors) under the conditions outlined below.
 
-### **2.8. What are the Guidelines Element follows when accessing my data?**
+### **2.9 What Are the Guidelines Element Follows When Accessing My Data?**
 
 * We restrict who at Element (employees and contractors) can access Element non-encrypted data to roles which require access in order to maintain the health of the Element apps and services.
 * We never share what we see with other users or the general public.
 
-### **2.9. Who else has access to my Data?**
+### **2.10 Who Else Has Access to My Data?**
 
 We host the Element Matrix Services on Amazon Web Services (AWS), specifically:
 
@@ -322,19 +315,19 @@ We use secure private keys when accessing servers via SSH, and protect our AWS c
 
 Nobody at Element, or any of our processors, is able to access encrypted data.
 
-### **2.10. What happens if Elementy is sold?**
+### **2.11 What happens if Element is sold?**
 
 In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If we or substantially all of our assets are acquired by a third party, personal data held by us about our users will be one of the transferred asset
+If we or substantially all of our assets are acquired by a third party, personal data held by us about our users will be one of the transferred assets.
 
-### **2.11. How is my Data protected from another user’s Data?**
+### **2.12 How Is My Data Protected from Another User's Data?**
 
-All of the Element user data resides within the same dedicated cluster. We use software best practices to guarantee that only the Customer can access it. In other words, we segment User data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts User data on the same database, we cannot guarantee that it is immune to a sophisticated attack.**‍**
+All of the Element user data resides within the same dedicated cluster. We use software best practices to guarantee that only the Customer can access it. In other words, we segment User data via software. We do our best and are very confident we're doing a good job at it, but, like every other service that hosts User data on the same database, we cannot guarantee that it is immune to a sophisticated attack.
 
-### **2.12. What should I do if I find a security vulnerability in the service?**
+### **2.13 What Should I Do If I Find a Security Vulnerability in the Service?**
 
-If you have discovered a security concern, please email us at [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection). We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. Information security is our highest priority, and we work to address any issues that arise as quickly as possible.
+If you have discovered a security concern, please email us at [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection). We'll work with you to make sure that we understand the scope of the issue, and that we fully address your concern. Information security is our highest priority, and work to address any issues that arise as quickly as possible.
 
 Please act in good faith towards our users' privacy and data during your disclosure. White hat security researchers are always appreciated.
 
@@ -344,6 +337,37 @@ Please act in good faith towards our users' privacy and data during your disclos
 We try to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention at [\[email protected\]](https://riot.im/cdn-cgi/l/email-protection) if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
 
 If you want to make a complaint about the way we have processed your personal information to the supervisory authority, you can contact the ICO (the statutory body which oversees data protection law) at [https://www.ico.org.uk/concerns](https://www.ico.org.uk/concerns).
+
+**4\. CCPA and CPRA Addendum**
+------------------------------
+
+This California Consumer Privacy Act and California Privacy Rights Act Addendum ("CCPA and CPRA Addendum") supplements the Element Data Processing Agreement and any applicable Order Forms and Services Addenda (“Agreement”). It is effective upon acceptance of Element’s Software and Services License Agreement (“SSLA”).
+
+This CCPA and CPRA Addendum is being entered into pursuant to the California Consumer Privacy Act of 2018 and the California Privacy Rights Act 2020 and reflects the parties’ agreement on the processing of Personal Information by Element pursuant to the Agreement. Except as otherwise modified by this CCPA and CPRA Addendum, all provisions of the Agreement shall remain in full force and effect.
+
+‍
+
+**Definitions.** Capitalized terms not defined in this CCPA and CPRA Addendum shall have the same meaning given to them in the Agreement. In this CCPA and CPRA Addendum:
+
+‍
+
+(a) **"CCPA"** means the California Consumer Privacy Act of 2018, including amendments and final regulations.
+
+(b) **“CPRA”** means the California Privacy Rights Act of 2020, and its implementing regulations, as amended or superseded from time to time.
+
+(c) **"Personal Information"** has the same meaning given to it under section 1798.140 of the CCPA.
+
+(d) **"Commercial Purposes," "Sell," and "Service Provider"** have the meanings assigned to them in section 1798.140 of the CCPA.
+
+‍
+
+**Relationships of the Parties.** Subject to the terms of this CCPA and CPRA Addendum, Element will act as Customer’s Service Provider solely with respect to Personal Information. The Customer is responsible for compliance with its own obligations as a business under CCPA and CPRA and shall ensure that it has provided notice and has obtained or shall obtain all consents and rights necessary under the CCPA and the CPRA for Element to collect and process the personal information for the Services specified in the Agreement.
+
+**Restrictions.** Element will not: (i) sell (as defined in the CCPA) Personal Information, (ii) collect, retain, use, or disclose Personal Information for any purpose other than for the specific purpose of performing the Services specified in the Agreement, including collecting, retaining, using, or disclosing Personal Information for any Commercial Purpose other than providing the Services specified in the Agreement unless otherwise permitted under the CCPA and CPRA, or (iii) retain, use or disclose personal data outside the direct business relationship between the parties.
+
+**Data Subject Requests:** Where Element acts as the Customer’s Service Provider it will reasonably assist the customer with any data subject rights under the CCPA and CPRA, unless Element has direct permission to carry out any data subject rights on behalf of the customer. 
+
+‍**Effect of CCPA and CPRA Addendum**: In the event of any conflict or inconsistency between the terms of this CCPA and CPRA Addendum and the terms of the Agreement with respect to the subject matter and only where the CCPA and CPRA applies the terms of this CCPA and CPRA Addendum shall prevail.
 
 **Document History**
 --------------------
@@ -358,16 +382,17 @@ If you want to make a complaint about the way we have processed your personal in
 * 2021, October 11: updates to 2.2.1 to cover changes in Marketing subprocessors
 * 2021, December 1: updates to 1.2 to define relationship with identity servers
 * 2022, May 30: updates to 2.2.2 to include location sharing
+* 2024, July 22: adding CCPA section
 
 ![](images/logo-mark-primary.svg)
 
 #### Product
 
-[The Element App](https://riot.im/app-for-productivity) [Element Server Suite](https://riot.im/server-suite) [The Matrix Standard](https://riot.im/matrix-benefits) [Features](https://riot.im/features) [Integrations](https://riot.im/integrations) [Hosting](https://riot.im/self-hosted-or-cloud) [Pricing](https://riot.im/pricing)
+[The Element App](https://riot.im/app-for-productivity) [Element Server Suite](https://riot.im/server-suite) [The Matrix Standard](https://riot.im/matrix-benefits) [Features](https://riot.im/features) [Integrations](https://riot.im/integrations) [Support and SLAs](https://riot.im/features/support-and-slas) [Hosting](https://riot.im/self-hosted-or-cloud) [Pricing](https://riot.im/pricing)
 
 #### Solutions
 
-[Sectors](https://riot.im/sectors) [Use cases](https://riot.im/solutions) [Customers](https://riot.im/customers) [Communities](https://riot.im/communities) [Personal](https://riot.im/personal) [Matrix in Germany](https://riot.im/matrix-in-germany)
+[Sectors](https://riot.im/sectors) [Use cases](https://riot.im/solutions) [Customers](https://riot.im/customers) [Communities](https://riot.im/communities) [Personal](https://riot.im/personal) [Matrix in Deutschland](https://riot.im/de/matrix-in-deutschland)
 
 #### Resources
 
@@ -377,10 +402,10 @@ If you want to make a complaint about the way we have processed your personal in
 
 [Open Element Web](https://app.element.io/) [Download](https://riot.im/download) [Contact Sales](https://riot.im/contact-sales) [Admin Dashboard](https://ems.element.io/user/hosting#/hosts)
 
-![](images/cyber-essentials-plus.webp)
+![Cyber Essentials Plus](images/cyber-essentials-plus.webp) [![ISO/IEC 27001:2022 certification](images/ISOMark_27001-2022.png)](https://www.iafcertsearch.org/certification/kwsMQetMdFeLCrQIIW3K0aSu)
 
 Copyright © 2016–2024 Element • [Legal](https://riot.im/legal) • [Privacy](https://riot.im/privacy)
 
 All Rights Reserved. The Element name, logo and device are registered trade marks of New Vector Ltd
 
-[![Twitter](images/twitter.svg)](https://twitter.com/element_hq) [![Linkedin](images/linkedin.svg)](https://www.linkedin.com/company/element-hq) [![Github](images/github.svg)](https://github.com/vector-im) [![](images/youtube-logo.svg)](https://www.youtube.com/channel/UCTW5bZLYK97SllqUQDwuxnA) [![](images/mastodon-logo.svg)](https://mastodon.matrix.org/@Element)
+[![Twitter](images/twitter.svg)](https://twitter.com/element_hq) [![Linkedin](images/linkedin.svg)](https://www.linkedin.com/company/element-hq) [![Github](images/github.svg)](https://github.com/element-hq) [![](images/youtube-logo.svg)](https://www.youtube.com/channel/UCTW5bZLYK97SllqUQDwuxnA) [![](images/mastodon-logo.svg)](https://mastodon.matrix.org/@Element)
