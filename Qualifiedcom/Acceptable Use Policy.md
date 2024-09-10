@@ -4,19 +4,27 @@ Product
 
 Products
 
-[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/664f40a66747766f93603382_chatbots%201.svg)
+[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/665defda6e8cdd803bbbafbf_piper_nav.jpg)
 
-AI Chatbots
+Piper the AI SDR
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
 
-Engage and convert visitors 24x7](https://www.qualified.com/chatbots)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/664f40b6cc1aa14207ad3e8f_conversations%201.svg)
+Hire Piper to scale inbound pipeline generation](https://www.qualified.com/ai-sdr)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/664f40b6cc1aa14207ad3e8f_conversations%201.svg)
 
 AI Conversations
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
 
-Meet in real time with chat, voice, and video](https://www.qualified.com/conversations)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/65cad397141e994b8a0a7242_meetings.svg)
+Meet in real time with chat, voice, and video](https://www.qualified.com/conversations)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66df9291cfadb592c19d59e0_Union.svg)
+
+AI Email
+
+NEW
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
+
+Intelligently follow up with inbound leads](https://www.qualified.com/email)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/65cad397141e994b8a0a7242_meetings.svg)
 
 AI Meetings
 
@@ -35,18 +43,6 @@ AI Signals
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
 
 Understand account-based buying intent](https://www.qualified.com/signals)
-
-AI WORKER
-
-[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/665defda6e8cdd803bbbafbf_piper_nav.jpg)
-
-Piper the AI SDR
-
-NEW
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
-
-Hire Piper to scale inbound pipeline generation](https://www.qualified.com/ai-sdr)
 
 Platform
 
@@ -70,22 +66,6 @@ Salesforce
 
 Leverage your valuable CRM data](https://www.qualified.com/salesforce)
 
-Solutions
-
-[Qualified for Outbound
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
-
-Convert outbound prospects](https://www.qualified.com/outbound)[Qualified for Advertising
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
-
-Convert paid ad traffic](https://www.qualified.com/advertising)[Qualified for ABM
-
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)
-
-Convert target accounts](https://www.qualified.com/account-based-marketing)
-
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61691db0495ee03fcf5f4127_down-arrow.svg)
 
 [Pricing](https://www.qualified.com/pricing)[Piper](https://www.qualified.com/ai-sdr)[Customers](https://www.qualified.com/customers)
@@ -102,9 +82,13 @@ Hear from from industry leaders on all things B2B marketing.
 
 AI WOrkforce
 
-[Building SDR Teams in the Age of AI
+[The Rise of the AI Workforce
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[Strategies for Piper the AI SDR
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/rise-of-the-ai-workforce)[Building SDR Teams in the Age of AI
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[The Inbound AI SDR Hiring Guide
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-sdr/hiring-guide)[Strategies for Piper the AI SDR
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)
 
@@ -123,6 +107,12 @@ Learning
 Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66bcb4adf8eceb5b96f5a016_logo.png)
+
+Watch the best moments from Piperfest, the AI SDR event of the year
+
+[Watch NOW](https://www.qualified.com/piperfest2024)
 
 Say hello to
 
@@ -428,6 +418,17 @@ Functional Cookies
 
 [Meet Piper](https://www.qualified.com/ai-sdr)
 
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66194770272fededa863d69d_leds.svg)
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66bca912a6dae684b818ab70_logo_no_img.svg)
+
+### Watch the best moments from  
+the AI SDR event of the year
+
+[Watch NOW](https://www.qualified.com/piperfest2024)
+
 PRODUCT
 
 [Piper the AI SDR](https://www.qualified.com/ai-sdr)[Qualified AI Chatbots](https://www.qualified.com/chatbots)[Qualified AI Conversations](https://www.qualified.com/conversations)[Qualified AI Meetings](https://www.qualified.com/meetings)[Qualified AI Offers](https://www.qualified.com/offers)[Qualified AI Signals](https://www.qualified.com/signals)[Pricing](https://www.qualified.com/pricing)[Developers](https://www.qualified.com/api)
@@ -466,7 +467,7 @@ RESOURCES
 
 LEGAL
 
-[Trust](https://www.qualified.com/trust)[Main Services Agreement](https://d1418wpyaxxvno.cloudfront.net/legal/qualified-main-service-agreement.pdf)[Privacy Policy](https://www.qualified.com/legal/privacy)[Acceptable Use Policy](https://www.qualified.com/legal/acceptable-use)[Data Processing Addendum](https://www.qualified.com/legal/data-processing-addendum)[Subprocessors List](https://www.qualified.com/legal/subprocessors)[GDPR](https://www.qualified.com/legal/gdpr)[Cookies Policy](https://www.qualified.com/legal/cookie-policy)[AI FAQ](https://www.qualified.com/legal/ai-faq)
+[Trust](https://www.qualified.com/trust)[Privacy Policy](https://www.qualified.com/legal/privacy)[Acceptable Use Policy](https://www.qualified.com/legal/acceptable-use)[Subprocessors List](https://www.qualified.com/legal/subprocessors)[Cookies Policy](https://www.qualified.com/legal/cookie-policy)[AI FAQ](https://www.qualified.com/legal/ai-faq)
 
 EDUCATION
 
