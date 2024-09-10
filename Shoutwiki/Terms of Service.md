@@ -67,10 +67,10 @@ Anonymous user
     
     Share this
     
-    * [Facebook](https://www.facebook.com/sharer.php?u=http://www.shoutwiki.com/wiki/Terms_of_use&t=Terms%20of%20use%20-%20ShoutWiki%20Hub)
-    * [Reddit](https://reddit.com/submit?url=http://www.shoutwiki.com/wiki/Terms_of_use&amp;title=Terms%20of%20use%20-%20ShoutWiki%20Hub)
-    * [Tumblr](https://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FTerms_of_use&t=Terms%20of%20use%20-%20ShoutWiki%20Hub&s=)
-    * [Twitter](https://twitter.com/home?status=http%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FTerms_of_use)
+    * [Facebook](https://www.facebook.com/sharer.php?u=https://www.shoutwiki.com/wiki/Terms_of_use&t=Terms%20of%20use%20-%20ShoutWiki%20Hub)
+    * [Reddit](https://reddit.com/submit?url=https://www.shoutwiki.com/wiki/Terms_of_use&amp;title=Terms%20of%20use%20-%20ShoutWiki%20Hub)
+    * [Tumblr](https://www.tumblr.com/share?v=3&u=https%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FTerms_of_use&t=Terms%20of%20use%20-%20ShoutWiki%20Hub&s=)
+    * [Twitter](https://twitter.com/home?status=https%3A%2F%2Fwww.shoutwiki.com%2Fwiki%2FTerms_of_use)
     
 * ![](//www.shoutwiki.com/w/skins/Aurora/resources/images/icon-med-tools.png)
     
@@ -87,7 +87,7 @@ Anonymous user
 Terms of use
 ============
 
-Page last edited 1,959 days ago
+Page last edited 2,001 days ago
 
 ShoutWiki — express yourself and be heard!
 
@@ -207,7 +207,7 @@ Supremacy of English Language Terms of Use
 
 Where a translation of these Terms of use is inconsistent with the English language version, the English language version shall prevail.
 
-Retrieved from "[http://www.shoutwiki.com/w/index.php?title=Terms\_of\_use&oldid=29723](http://www.shoutwiki.com/w/index.php?title=Terms_of_use&oldid=29723)"
+Retrieved from "[https://www.shoutwiki.com/w/index.php?title=Terms\_of\_use&oldid=29723](https://www.shoutwiki.com/w/index.php?title=Terms_of_use&oldid=29723)"
 
 * Content is available under [Creative Commons Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/) unless otherwise noted.
 
@@ -219,6 +219,6 @@ This page was last edited on 20 March 2019, at 18:37.
 This wiki is hosted by [ShoutWiki](http://www.shoutwiki.com/) • [Staff Blog](http://blog.shoutwiki.com/)  
 [Now hiring](http://www.shoutwiki.com/wiki/Vacancies) • [Contact us](mailto:support@shoutwiki.com) or [report a bug](https://phabricator.shoutwiki.com/)
 
-[Privacy policy](http://www.shoutwiki.com/wiki/Privacy_policy "s:Privacy policy") • [About ShoutWiki](http://www.shoutwiki.com/wiki/ShoutWiki_Hub:About "ShoutWiki Hub:About") • [Terms of use](http://www.shoutwiki.com/wiki/Terms_of_use "s:Terms of use") • [Mobile view](http://www.shoutwiki.com/w/index.php?title=Terms_of_use&mobileaction=toggle_view_mobile) • [Piwik optout](#)
+[Privacy policy](http://www.shoutwiki.com/wiki/Privacy_policy "s:Privacy policy") • [About ShoutWiki](http://www.shoutwiki.com/wiki/ShoutWiki_Hub:About "ShoutWiki Hub:About") • [Terms of use](http://www.shoutwiki.com/wiki/Terms_of_use "s:Terms of use") • [Mobile view](https://www.shoutwiki.com/w/index.php?title=Terms_of_use&mobileaction=toggle_view_mobile) • [Piwik optout](#)
 
 ![](//piwik.staff.shoutwiki.com/piwik.php?idsite=5)
