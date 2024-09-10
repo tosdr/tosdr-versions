@@ -1,5 +1,3 @@
-[We’re moving! Orders will take an extra 7-10 business days to ship.](https://blog.adafruit.com/2024/07/15/were-moving-to-brooklyn/)
-
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -77,23 +75,27 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of a long, rectangular USB-C assembled on a half-size breadboard with a USB-C cable.](https://cdn-shop.adafruit.com/230x173/5993-04.jpg)[Adafruit USB Type C Vertical Breakout - Downstream Connection
+    ![Angled shot of 1-meter-long USB-to-RS232 adapter cable, semi-coiled up.](https://cdn-shop.adafruit.com/230x173/5994-02.jpg)[USB to Multi-Protocol Serial Cable - RS-232 / TTL UART / RS-485
     
-    $2.95](https://www.adafruit.com/product/5993)
+    $24.95](https://www.adafruit.com/product/5994)
     
-    ![Angled shot of black, rectangular IR transceiver board.](https://cdn-shop.adafruit.com/230x173/5990-00.jpg)[Adafruit Infrared IR Remote Transceiver - STEMMA JST PH 2mm
+    ![Angled shot of black and green, rectangular, USB-to-RS232 adapter.](https://cdn-shop.adafruit.com/230x173/5995-00.jpg)[USB to Multi-Protocol Serial Adapter: RS-232 / TTL UART / RS-485
     
-    $5.95](https://www.adafruit.com/product/5990)
+    $21.95](https://www.adafruit.com/product/5995)
     
-    ![Angled shot of black, square-shaped UART RS232 board.](https://cdn-shop.adafruit.com/230x173/5987-00.jpg)[Adafruit RS232 Pal - Two Channel UART to RS-232 Level Shifters
+    ![Twelve scattered half-height key switches.](https://cdn-shop.adafruit.com/230x173/6022-02.jpg)[Half Height / Low Profile MX-Compatible Key Switches - 12 pack
     
-    $3.95](https://www.adafruit.com/product/5987)
+    $5.95](https://www.adafruit.com/product/6022)
     
-    ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/230x173/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
+    ![Angled shot of green microcontroller.](https://cdn-shop.adafruit.com/230x173/6007-00.jpg)[Raspberry Pi 5 - 2 GB RAM
     
-    $14.95](https://www.adafruit.com/product/5980)
+    $50.00](https://www.adafruit.com/product/6007)
     
     Featured Products[view all](https://www.adafruit.com/featured)
+    
+    ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/230x173/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
+    
+    $14.95](https://www.adafruit.com/product/5933)
     
     ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/230x173/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
     
@@ -107,10 +109,6 @@ Search
     
     $14.95](https://www.adafruit.com/product/5890)
     
-    ![Video of a DIY camera on a lazy susan.](https://cdn-shop.adafruit.com/product-videos/320x240/5420-05.jpg)[MEMENTO - Python Programmable DIY Camera - Bare Board
-    
-    $34.95](https://www.adafruit.com/product/5420)
-    
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
 
@@ -118,21 +116,21 @@ Search
 
 **Adafruit Privacy Policy**
 
-_Last Updated: July 24, 2024_
+_Last Updated:_ _August 21, 2024_
 
 This privacy policy governs how Adafruit Industries, LLC collects, stores, uses, and discloses information about users of adafruit.com. This policy applies to the site, along with related products and services offered by Adafruit Industries, LLC that link to this policy. This policy does not apply to websites, applications, or services that display or link to different privacy statements. For security related matters please email: [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
-We adhere to the EU-U.S. DPF Principles with regard to personal data transferred from the European Union and the United Kingdom and the Swiss-U.S. DPF Principles with regard to personal data transferred from Switzerland. [Click here to read more about the EU-U.S. DPF Principles.](#dpf)
+We adhere to EU-U.S. DPF Principles with regard to personal data transferred from the European Union and the United Kingdom and the Swiss-U.S. DPF Principles with regard to personal data transferred from Switzerland. [Click here to read more about the EU-U.S. DPF Principles](https://www.adafruit.com/privacy#dpf). 
 
-[California consumers can find specific disclosures, including “Notice at Collection” details, by clicking here](#ca)
+[California consumers can find specific disclosures, including “Notice at Collection” details, by clicking here](https://www.adafruit.com/privacy#ca). 
 
 **Information You Provide to Us**
 
-The personal information we collect depends on how you interact with us, the products you use, and the choices you make. We collect and process personal information about you with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests.
+The personal information we collect depends on how you interact with us, the products you use, and the choices you make. We collect and process personal information about you with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests.
 
 When a user engages in certain actions on the site, they may provide us with certain kinds of information. This includes information including but not limited to:
 
-* **Name and Contact Information:** Name, email address, postal address, phone numbers and other contract information  
+* **Name and Contact Information:** Name, email address, postal address, phone numbers and other contact information  
       
     
 * **Account Activity:** Placed order details, gift certificates, wishlists, vouchers, subscriptions, and other account settings
@@ -152,11 +150,11 @@ When you use our products, we collect some information automatically. For exampl
 
 **Identifiers and device information.** When you visit our website, our web servers automatically log your Internet Protocol (IP) address, and information about your device, including device identifiers (such as MAC address); device type; and your device’s operating system, browser, and other software including type, version, language, settings, and configuration. As further described in the Cookies and Similar Technologies section below, our websites and online services store and retrieve cookie identifiers, mobile IDs, and other data.
 
-**Usage data.** We automatically log your activity on our websites, apps, and connected products, including the URL of the website from which you came to our sites.
+**Usage data.** We automatically log your activity on our websites, apps, and connected products, including the URL of the website from which you came to our sites, pages you viewed, how long you spent on a page, access times, and other details about your use of and actions on our website.
 
-**Other sensor data/Adafruit.io.** If you elect to integrate a device with Adafruit.io, we may collect certain sensor information from your device as a part of your elections and certain usage and diagnostic information about the device, including device type, board type, connection type, and corresponding Adafruit.io API log
+**Other sensor data/Adafruit.io.** If you elect to integrate a device with Adafruit.io, we may collect certain sensor information from your device as a part of your elections and certain usage and diagnostic information about the device, including device type, board type, connection type, and corresponding Adafruit.io API log.
 
-**Inferences.** We infer new information from other data we collect, including using automated means to generate information about your likely preferences or other characteristic. For example, we infer your city , state, and country location based on your IP address.
+**Inferences.** We infer new information from other data we collect, including using automated means to generate information about your likely preferences or other characteristics (“inferences”). For example, we infer your city, state, and country location based on your IP address.
 
 **Cookies and Similar Tracking Technologies (California Do Not Sell My Info)**
 
@@ -170,7 +168,9 @@ _Site Data_
 We may collect information automatically about users when they visit our site. This may include details about the user’s browser type and installed extensions, operating system, access times, language, IP address, and referring URLs, along with other similar data.
 
 _Web Browser Cookies and Related Technologies_  
-Our site uses cookies, web beacons, and similar technologies to provide features such as account logins and shopping carts, to remember user preferences, to engage in advertising and retargeting, as well as to analyze user behavior. Cookies are small text files placed on your device to store data that can be recalled by a web server in the same domain that placed the cookie. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your device, but it can contain other information as well. We use web beacons (also called single-pixel gifs), for example, to deliver cookies, count visits, understand usage of our site and tell if an email has been opened and acted upon.
+Our site uses cookies, web beacons, and similar technologies to provide features such as account logins and shopping carts, to remember user preferences, to engage in advertising and retargeting, as well as to analyze user behavior. Cookies are small text files placed on your device to store data that can be recalled by a web server in the same domain that placed the cookie. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your device, but it can contain other information as well. This allows the web server to recognize your browser over time, each time it connects to that web server. 
+
+We use web beacons (also called single-pixel or clear gifs) that are contained within a website or email. When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically hosted by a third party). This allows that web server to log information about your device and to set and read its own cookies. We use web beacons, for example, to deliver cookies, count visits, understand usage of our site and tell if an email has been opened and acted upon.
 
 _Third Party Sites and Services_
 
@@ -193,23 +193,23 @@ United States: NAI ([NAI Opt Out Form](http://www.networkadvertising.org/managin
 
 Canada: Digital Advertising Alliance of Canada ([youradchoices.ca information](https://youradchoices.ca/))
 
-Europe: European Digital Advertising Alliance ([Your Online Choices information](http://www.youronlinechoices.com/))
+Europe: European Digital Advertising Alliance ([Your Online Choices information](http://www.youronlinechoices.com/)) 
 
 Other third-party service providers we use:
 
 |     |     |     |
 | --- | --- | --- |
 | Service Name | Function on adafruit.com | Privacy policy |
-| Cloudflare | Content Delivery Network, Captcha Service | [Cloudflare privacy policy](https://www.cloudflare.com/security-policy/) |
+| Cloudflare | Content Delivery Network | [Cloudflare privacy policy](https://www.cloudflare.com/security-policy/) |
 | Amazon S3 | Static File Hosting | [Amazon Web Services privacy policy](https://aws.amazon.com/privacy/) |
 | Automattic | site statistics and anti-spam services | [Automattic privacy policy](https://automattic.com/privacy/) |
 | Contextly | web analytics and content recommender service | [Contextly privacy policy](https://contextly.com/privacy/) |
-| Algolia | Search provider | [Algolia privacy policy](https://www.algolia.com/policies/privacy) & [Algolia Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors/) |
+| Algolia | Search provider | [Algolia privacy policy](https://www.algolia.com/policies/privacy) & [Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors/) |
 | Youtube | Online video service | [Youtube privacy policy](https://www.youtube.com/static?template=privacy_guidelines) |
 | Paypal | Online payments | [Paypal privacy policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) |
 | Amazon Payments | Online payments | [Amazon Payments privacy policy](https://payments.amazon.com/help/201491260) |
-| BitPay | Online payments | [BitPay privacy policy](https://bitpay.com/about/privacy) |
 | Authorize | Online payments | [Authorize privacy policy (as a subsidiary of Visa Inc.)](https://usa.visa.com/legal/privacy-policy.html) |
+| Stripe | Online payments | [Stripe privacy policy](https://stripe.com/privacy) |
 | Mailchimp | Email marketing platform | [Mailchimp privacy policy](https://mailchimp.com/legal/privacy/) |
 
 **Cookie Controls.** Many web browsers accept cookies by default. Users can usually change their browser's settings to reject and/or to remove many cookies. Please note also that choosing to reject or remove cookies may prevent certain features or services of our site from working properly. Since cookie opt-out preferences are also stored in a cookie in a browser, please also note that deleting cookies, using a different browser, or buying a new computer, may require renewal of opt-out choices.
@@ -227,30 +227,43 @@ While we and others give users the choices described in this policy, there are m
 We use the personal data we collect for purposes described in this privacy statement or as otherwise disclosed to you, including for the following purposes:
 
 * _To improve customer service and respond to your questions and queries_
-    * Information users provide helps us respond to their customer service requests and support needs.
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
+* Information users provide helps us respond to their customer service requests and support needs.
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
 * _To improve our site and services_
-    * We may use feedback users provide to improve our products and services.
-    * We may use information in the aggregate to understand how our users as a group use the services and resources provided on our site.
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
+* We may use feedback users provide to improve our products and services.
+* We may use information in the aggregate to understand how our users as a group use the services and resources provided on our site.
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
 * _To provide and deliver our products, including securing, troubleshooting, improving, and personalizing those products_
-    * To offer our users relevant content and recommendations
-    * To display marketing and advertising tailored to our users on our site and on other sites
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, sensor data, inferences
+
+* To offer our users relevant content and recommendations
+* To display marketing and advertising tailored to our users on our site and on other sites
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, sensor data, inferences
+
 * _For business operations, including to process payments and fulfill orders and for other accounting and internal operations_
-    * We use the information users provide about themselves when placing an order only as described in this policy and to process and fulfill that order. We do not share this information with outside parties except to the extent appropriate to provide the service.
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
+
+* We use the information users provide about themselves when placing an order only as described in this policy and to process and fulfill that order. We do not share this information with outside parties except to the extent appropriate to provide the service.
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
+
 * _To prevent fraud and abuse_
-    * We may use the information contained in orders to prevent fraudulent financial transactions and other illicit activity or violations of our terms of service.
-    * We may use network addresses and similar data to block or report abusive and harassing users. In cases involving potential harm to individuals, we may submit personally identifiable information to law enforcement or other third parties.
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
+* We may use the information contained in orders to prevent fraudulent financial transactions and other illicit activity or violations of our terms of service.
+* We may use network addresses and similar data to block or report abusive and harassing users. In cases involving potential harm to individuals, we may submit personally identifiable information to law enforcement or other third parties.
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, usage data, inferences
+
 * _To send periodic emails and otherwise communicate with you through confirmations, invoices, notices, alerts, and administrative messages_
-    * We may use the email address to send users information pertaining to their orders and accounts. It may also be used to respond to their inquiries, questions, and other requests.
-    * Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
+
+* We may use the email address to send users information pertaining to their orders and accounts. It may also be used to respond to their inquiries, questions, and other requests.
+* Applicable categories of user information: Contact information, account activity, payment information, content and files, identifiers and device information, usage data, inferences
+
 * _Marketing and Advertising_
-    * If our users so choose, we may send them emails about products, events, promotions, and offers.
-    * We use third party advertising providers as described in the Cookies and Similar Tracking Technologies section.
-    * Applicable categories of user information: Contact information, account activity, identifiers and device information, usage data, inferences
+
+* If our users so choose, we may send them emails about products, events, promotions, and offers.
+* We use third party advertising providers as described in the Cookies and Similar Tracking Technologies section.
+* Applicable categories of user information: Contact information, account activity, identifiers and device information, usage data, inferences
 
 In carrying out these purposes, we combine data we collect from different sources to give you a more seamless, consistent, and personalized experience.
 
@@ -273,8 +286,6 @@ Please note that some of our products include references or links to products pr
 
 We adopt appropriate and reasonable practices and security measures designed to protect against unauthorized access, alteration, disclosure, or destruction of personal information.
 
-Data exchange between the site and its users happens over a HTTPS secured connection and is encrypted and authorized by digital signatures.
-
 To help us protect personal data, we request that you use a strong password and never share your password with anyone or use the same password with other sites or accounts.
 
 **Retention of Personal Information**
@@ -285,11 +296,11 @@ We retain personal information for as long as necessary to provide the products 
 
 The personal information we collect may be stored and processed in your country or region, or in any other country where we or our affiliates, subsidiaries, or service providers maintain facilities. Currently, we primarily use data centers in the United States. The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem. We take steps designed to ensure that the data we collect under this statement is processed according to the provisions of this statement and applicable law wherever the data is located, however, some countries where we store data may have laws that offer a different level of data protection than the country in which you reside.
 
-Location of Processing European Personal Data. We transfer personal information from the European Economic Area, United Kingdom, and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections. To learn more about the European Commission’s decisions on the adequacy of personal information protections, please visit:.\[EU-U.S. / Swiss-U.S. Data Protection Framework. We also participate in the EU-U.S. Data Protection Framework (DPF), the Swiss-U.S. DPF, and the UK extension to the EU-U.S. DPF. We comply with the DPF Principles with respect to personal data transferred from the EEA, Switzerland, and UK to the United States in reliance on the DPF. Our controlled U.S. subsidiaries and affiliates, as identified in our self-certification, also adhere to the DPF Principles.  If there is any conflict between the terms in this privacy statement and the DPF Principles, the DPF Principles shall govern. To view our certification, please visit [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/). 
+Location of Processing European Personal Data. We transfer personal information from the European Economic Area, United Kingdom, and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections. To learn more about the European Commission’s decisions on the adequacy of personal information protections, please visit: [Data Privacy Adequacy Decisions](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). We also participate in the EU-U.S. Data Protection Framework (DPF), the Swiss-U.S. DPF, and the UK extension to the EU-U.S. DPF. We comply with the DPF Principles with respect to personal data transferred from the EEA, Switzerland, and UK to the United States in reliance on the DPF. Our controlled U.S. subsidiaries and affiliates, as identified in our self-certification, also adhere to the DPF Principles.  If there is any conflict between the terms in this privacy statement and the DPF Principles, the DPF Principles shall govern. To view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). 
 
-We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If third-party agents process personal data on our behalf in a manner inconsistent with the DPF Principles, we remain liable unless we prove we are not responsible for the event giving rise to any damages. If you have a question or complaint related to our compliance with the DPF Principles, please contact us as indicated at the bottom of this privacy statement. Finally, under limited circumstances and after other available dispute resolution mechanisms have been exhausted, binding arbitration is available to address certain residual complaints under the DPF not resolved by other means.\]
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If third-party agents process personal data on our behalf in a manner inconsistent with the DPF Principles, we remain liable unless we prove we are not responsible for the event giving rise to any damages. If you have a question or complaint related to our compliance with the DPF Principles, please contact us as indicated at the bottom of this privacy statement. Finally, under limited circumstances and after other available dispute resolution mechanisms have been exhausted, binding arbitration is available to address certain residual complaints under the DPF not resolved by other means. 
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Adafruit commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to ICDR-AAA DPF IRM Service, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) for more information or to file a complaint.  The services of ICDR-AAA DPF IRM Service are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. PDF and the Swiss-U.S. DPF, Adafruit commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to ICDR-AAA DPR IRM Service, an alternative dispute resolution provider based in the United States. If you do  not receive timely acknowledgement of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) for more information or to file a complaint.  The services of ICDR-AAA DPF IRM Service are provided at no cost to you.
 
 **Information Choices and Changes**
 
@@ -303,7 +314,7 @@ Targeted advertising. To opt-out from or otherwise control targeted advertising,
 
 Data Sales. Some laws define “sale” broadly to include some of our uses of analytics and advertising providers, to opt-out from such “sales” please use the methods described above in our cookies section including the use of a Global Privacy Control.
 
-Except for the automated controls described in our cookies section, if you send us a request to exercise your rights or these choices, to the extent permitted by applicable law, we may decline requests in certain cases. For example, we may decline requests where granting the request would be prohibited by law, could adversely affect the privacy or other rights of another person, would reveal a trade secret or other confidential information, or would interfere with a legal or business obligation that requires retention or use of the data. Further, we may decline a request where we are unable to authenticate you as the person to whom the data relates, the request is unreasonable or excessive, or where otherwise permitted by applicable law. If you receive a response from us informing you that we have declined your request, in whole or in part, you may appeal that decision by submitting your appeal using the contact method described at the bottom of this privacy statement.
+Except for the automated controls described in our cookies section, if you send us a request to exercise your rights or these choices, to the extent permitted by applicable law, we may decline requests in certain cases. For example, we may decline requests where granting the request would be prohibited by law, could adversely affect the privacy or other rights of another person, would reveal a trade secret or other confidential information, or would interfere with a legal or business obligation that requires retention or use of the data. Further, we may decline a request where we are unable to authenticate you as the person to whom the data relates, the request is unreasonable or excessive, or where otherwise permitted by applicable law. If you receive a response from us informing you that we have declined your request, in whole or in part, you may appeal that decision by submitting your appeal using the contact method described at the bottom of this Privacy Policy.
 
 **Deleting an Account**
 
@@ -331,17 +342,19 @@ If the processing of personal information about you is subject to European Union
 
 To make such requests, contact us at [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection).  You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.
 
+We rely on different lawful bases for collecting and processing personal data about you, for example, with your consent and/or as necessary to provide the services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests. 
+
 **California Privacy Rights**
 
 If you are a California resident and the processing of personal information about you is subject to the California Consumer Privacy Act (“CCPA”), you have certain rights with respect to that information. 
 
-**Notice at Collection.** At or before the time of collection, you have a right to receive notice of our practices,  including [the categories of personal information and sensitive personal information to be collected](#categories), [the purposes for which such information is collected or used](#purpose), [whether such information is sold or shared](#shared), and [how long such information is retained.](#retention)You can find those details in this statement by clicking on the above links.
+**Notice at Collection.**  At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal information and sensitive personal information to be collected, the purposes for which such information is collected or used, whether such information is sold or shared, and how long such information is retained. You can find those details in this statement by clicking on the above links.
 
-**Right to Know.** You have a right to request that we disclose to you the personal information we have collected about you.  You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information.  Note that we have provided much of this information in this Privacy Policy. You may make such a “request to know” by contacting us using the contact information at the bottom of this Privacy Policy. 
+**Right to Know.** You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this Privacy Policy. You may make such a “request to know” by contacting us using the contact information at the bottom of this Privacy Policy. 
 
 **Rights to Request Correction or Deletion.** You also have rights to request that we correct inaccurate personal information and  that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to correct or delete, please contact us using the contact information at the bottom of this Privacy Policy.
 
-**Right to Opt-Out / “Do Not Sell or Share My Personal Information”.** You have a right to opt-out from future “sales” or “sharing” of personal information as those terms are defined by the CCPA. Note that the CCPA defines “sell,” “share,” and “personal information” very broadly, and our use of advertising and analytics providers may result in their collection of identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), device data, and geolocation data through our sites and apps when you use our online services. We do not “sell” or “share” any other types of personal information. If you do not wish for us or our partners to “sell” or “share” personal information in this way, relating to your visits to our sites for advertising or analytics purposes, you can make your request by using a Global Privacy Control or using other controls described in the “Choice and Control” section of this statement. If you opt-out using these choices, we will not share or make available such personal information in ways that are considered a “sale” or “sharing” under the CCPA. However, we will continue to make available to our partners (acting as our service providers) some personal information to help us perform functions on our behalf. Further, using these choices will not opt you out of the use of previously “sold” or “shared” personal information or stop all interest-based advertising.
+**Right to Opt-Out / “Do Not Sell or Share My Personal Information”.** You have a right to opt-out from future “sales” or “sharing” of personal information as those terms are defined by the CCPA. Note that the CCPA defines “sell,” “share,” and “personal information” very broadly, and our use of advertising and analytics providers may result in their collection of identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), device data, and geolocation data through our sites and apps when you use our online services. We do not “sell” or “share” any other types of personal information. If you do not wish for us or our partners to “sell” or “share” personal information in this way, relating to your visits to our sites for advertising or analytics purposes, you can make your request by using a Global Privacy Control or using other controls described in the “Information Choices and Changes” section of this statement. If you opt-out using these choices, we will not share or make available such personal information in ways that are considered a “sale” or “sharing” under the CCPA. However, we will continue to make available to our partners (acting as our service providers) some personal information to help us perform functions on our behalf. Further, using these choices will not opt you out of the use of previously “sold” or “shared” personal information or stop all interest-based advertising.
 
 We do not knowingly sell or share the personal information of minors under 16 years of age.
 
@@ -373,14 +386,16 @@ We update this policy in our discretion at any time by posting the amended versi
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Adafruit Industries, LLC  
-168 39th Street Ste 1905CC  
-Brooklyn, NY 11232  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Adafruit Industries, LLC  
+168 39th Street 1905CC  
+Brooklyn, New York 11232  
 [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
-Our data protection representative for the European Economic Area and Switzerland is VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork
+Our data protection representative for the European Economic Area and Switzerland is VeraSafe Ireland Ltd., Unit D3 North Point House, North Point Business Park, New Mallow Road, Cork
 
-T23AT2P, Ireland.
+T23AT2P, Ireland 
 
 For security related matters please email: [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
@@ -404,9 +419,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I would rather walk with a friend in the dark than alone in the light”
+“ Calculation and reasoning, like weaving and ploughing, are work, not for human souls, but for clever combinations of iron and wood”
 
-[Helen Keller](https://en.wikipedia.org/wiki/Helen_Keller)
+[Mary Boole](http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false)
 
 [](https://www.adafruit.com/about)
 
