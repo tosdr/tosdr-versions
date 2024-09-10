@@ -218,7 +218,6 @@ Choose Language
 * [Meeting Scheduler](https://strawpoll.com/meetings/)
 * [Discord Bot](https://strawpoll.bot/)
 * [Poll API](https://strawpoll.com/docs/api/)
-* [Rankings](https://strawpoll.com/rankings/)
 
 ### Support
 
