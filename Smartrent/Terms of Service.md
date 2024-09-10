@@ -152,11 +152,11 @@ Read More
     
 
 * [Resident Support](https://smartrent.com/support/)
-* [Request a Demo](https://smartrent.com/contact-smartrent/demo/)
+* [Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 * [Integrate with us](https://smartrent.com/contact-smartrent/integration-request/)
 * [Be a Partner](https://smartrent.com/customers/channel-partners-installers/)
 
-[#### Resident Support](https://smartrent.com/support/)[#### Login](https://control.smartrent.com/login)[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Request Demo](https://smartrent.com/contact-smartrent/demo/)
+[#### Resident Support](https://smartrent.com/support/)[#### Login](https://control.smartrent.com/login)[#### Investors](https://investors.smartrent.com/overview/default.aspx)[Let's Talk](https://smartrent.com/contact-smartrent/demo/)
 
 ### Resident & Business
 
