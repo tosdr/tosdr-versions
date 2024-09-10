@@ -79,6 +79,7 @@ We use customer information, sometimes including consumer report information, to
 * offer you other insurance and financial services products.
 * develop and offer new products and services.
 * develop either anonymized data or de-identified data by making reasonable efforts to remove personally identifiable information so the information is no longer customer information. We develop this data for certain purposes, such as analysis to understand more about our customers and our industry, or for other commercial purposes as permitted by law. We share and use this data within our State Farm family of companies, with third party service providers, or with other unaffiliated entities.
+* test business processes and procedures to analyze performance.
 * perform other activities as required or permitted by law.
 
 How We Share Customer Information
@@ -93,12 +94,13 @@ We share customer information, including information about our transactions with
 * with companies that perform marketing or other services for us or with whom we have joint marketing agreements. These agreements allow us to provide a broader selection of insurance and financial products to you.
 * as needed, to protect against fraud and unauthorized transactions and in connection with the investigation, establishment, and defense of legal rights.
 
-To Limit the Sharing of Customer Information Within the State Farm Family of Companies
---------------------------------------------------------------------------------------
+To Limit the Sharing of Customer Information Within the  
+State Farm Family of Companies
+----------------------------------------------------------------------------------------
 
 We share customer information within our State Farm family of companies so, for example, we do not have to ask you for the same information again. If you prefer to limit sharing information such as your driving record, claim history with other companies, and credit information, call your State Farm agent or 1-800-865-6035. Please note, your choice:
 
-* will apply to joint policyholders or account holders on shared policies and accounts.
+* may apply to joint policyholders or account holders on shared policies and accounts.
 * does not limit State Farm from sharing certain customer information about your transactions or experiences with us for our everyday business purposes or for public policy purposes.
 * does not limit State Farm from sharing customer information in the event of a transfer, between State Farm companies, of all or a portion of a line of business.
 
@@ -147,7 +149,7 @@ Some operating system developers, such as Apple, allow mobile application users 
 
 A request to delete an account within the mobile application only applies to the credentials and account you created within the Application and not to any other accounts you may have with State Farm.
 
-If you participate in Drive Safe & Save® or Steer Clear®, State Farm collects precise location information from you in order to accurately record trip information. For additional information on how State Farm collects, uses and shares your precise location information, please refer to the End User License Agreement (EULA) available in the Drive Safe & Save and Steer Clear mobile applications. All information, including precise location information, is handled in accordance with this Notice of Privacy Policy.
+If you participate in and grant permissions for Drive Safe & Save® or Steer Clear® or have installed the State Farm mobile application, precise location data is used to accurately record trip information. In addition, the State Farm mobile application utilizes precise location to provide services such as requesting roadside assistance, filing a claim, searching for agents and repair shops. For more information on how State Farm collects, uses and shares your precise location information, please refer to the End User License Agreement (EULA) available in the State Farm mobile application, Drive Safe & Save application, and in the Steer Clear application. All information, including precise location information, is handled in accordance with this Notice of Privacy Policy.
 
 Other Important Information
 ---------------------------
@@ -168,7 +170,8 @@ If you have questions about this Notice, please refer to the [Notice of Privacy 
 
 If a material change is made to this Notice, a revised version of the Notice of Privacy Policy will be made available to you.  
 
-_**Residents of California:**_ We may collect customer information from persons other than the individual or individuals applying for coverage. Such customer information as well as other personal or privileged information subsequently collected may, in certain circumstances, be disclosed to third parties without your authorization as permitted by law. If you would like additional information about the collection and disclosure of customer information, please contact your State Farm agent. You may also act upon your right to see and correct any customer information in your State Farm files by writing your State Farm agent to request this access.
+_**Residents of California:**_ We may collect customer information from persons other than the individual or individuals applying for coverage. Such customer information as well as other personal or privileged information subsequently collected may, in certain circumstances, be disclosed to third parties without your authorization as permitted by law. If you would like additional information about the collection and disclosure of customer information, please contact your  
+State Farm agent. You may also act upon your right to see and correct any customer information in your State Farm files by writing your State Farm agent to request this access.
 
 _**Residents of Nevada:**_ Nevada law requires us to disclose that you may elect to be placed on our internal “do not call” list should you wish not to receive marketing calls from State Farm.  If you have already been placed on our internal “do not call” list please disregard this notice. You may request to be placed on State Farm’s internal “do not call” list by:
 
@@ -191,7 +194,7 @@ Las Vegas, NV 89101
 
 _**Si desea recibir una copia de esta notificación en español:**_ Por favor póngase en contacto con su agente de State Farm o visite [es.statefarm.com](https://es.statefarm.com/ "State Farm").
 
-Last updated 12/21/2023
+Last updated 08/06/2024
 
 #### [Privacy and Security](https://www.statefarm.com/customer-care/privacy-security)
 
