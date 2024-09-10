@@ -6,7 +6,6 @@ Toggle navigation
     
 * [PRO](https://www.lexology.com/pro)
 * [Events](https://www.lexology.com/events)
-* [CPD](https://www.lexology.com/learn/professionaldevelopment/all)
 * Awards
     
     * [Client Choice](https://www.lexology.com/clientchoice)
@@ -72,7 +71,6 @@ Toggle navigation
 * [Instruct Counsel](https://www.lexology.com/instructcounsel/find)
 * [My newsfeed](https://www.lexology.com/)
 * [Events](https://www.lexology.com/events)
-* [CPD](https://www.lexology.com/learn/professionaldevelopment/all)
 * [About](https://www.lexology.com/about)
 * [Blog](https://www.lexology.com/blog)
 * [Popular](https://www.lexology.com/library/popular)
