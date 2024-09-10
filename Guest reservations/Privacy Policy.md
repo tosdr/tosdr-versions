@@ -1,13 +1,13 @@
-[![Guest Reservations - Logo](/assets/f415e69c/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
+[![Guest Reservations - Logo](/assets/12c8db29/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
 An independent travel network](https://www.guestreservations.com/ "Guest Reservations")
 
 [Groups (9+ Rooms)](https://groups.guestreservations.com/Group-Rate/ "Groups (9+ Rooms)") [Travel Guides](https://www.guestreservations.com/about/news "Travel Guides") [My Booking](https://www.guestreservations.com/about/mybooking "My Booking")
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3966 8654](tel:02039668654)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (888) 784-0532](tel:8887840532)
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3966 8654](tel:02039668654)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (888) 784-0532](tel:8887840532)
 
-[![call](/assets/f415e69c/images/phone-yellow.svg "call")Call now 020 3874 0518](tel:02038740518)
+[![call](/assets/12c8db29/images/phone-yellow.svg "call")Call now (855) 470-1527](tel:8554701527)
 
 Privacy Policy
 ==============
@@ -158,9 +158,9 @@ If you have questions or concerns regarding this Privacy Policy, you should firs
 
 This Privacy Policy was updated June 5, 2024.
 
- ![Guestreservations - Logo](/assets/237ed65f/images/logo-dark-tm.svg "Guestreservations - Logo") An independent travel network
+ ![Guestreservations - Logo](/assets/e059699d/images/logo-dark-tm.svg "Guestreservations - Logo") An independent travel network
 
- [![GuestReservations on Facebook](/assets/237ed65f/images/social-networks/facebook.svg "GuestReservations on Facebook")](https://www.facebook.com/guestreservations "GuestReservations on Facebook")[![GuestReservations on Twitter](/assets/237ed65f/images/social-networks/twitter.svg "GuestReservations on Twitter")](https://twitter.com/guest_res "GuestReservations on Twitter")[![GuestReservations on Instagram](/assets/237ed65f/images/social-networks/instagram.svg "GuestReservations on Instagram")](https://www.instagram.com/guestreservations/ "GuestReservations on Instagram")[![GuestReservations on Pinterest](/assets/237ed65f/images/social-networks/pinterest.svg "GuestReservations on Pinterest")](https://www.pinterest.com/guestreservations/ "GuestReservations on Pinterest")[![GuestReservations on YouTube](/assets/237ed65f/images/social-networks/you-tube.svg "GuestReservations on YouTube")](https://www.youtube.com/@GuestReservations "GuestReservations on YouTube")
+ [![GuestReservations on Facebook](/assets/e059699d/images/social-networks/facebook.svg "GuestReservations on Facebook")](https://www.facebook.com/guestreservations "GuestReservations on Facebook")[![GuestReservations on Twitter](/assets/e059699d/images/social-networks/twitter.svg "GuestReservations on Twitter")](https://twitter.com/guest_res "GuestReservations on Twitter")[![GuestReservations on Instagram](/assets/e059699d/images/social-networks/instagram.svg "GuestReservations on Instagram")](https://www.instagram.com/guestreservations/ "GuestReservations on Instagram")[![GuestReservations on Pinterest](/assets/e059699d/images/social-networks/pinterest.svg "GuestReservations on Pinterest")](https://www.pinterest.com/guestreservations/ "GuestReservations on Pinterest")[![GuestReservations on YouTube](/assets/e059699d/images/social-networks/you-tube.svg "GuestReservations on YouTube")](https://www.youtube.com/@GuestReservations "GuestReservations on YouTube")
 
 ##### Learn More
 
@@ -170,6 +170,7 @@ This Privacy Policy was updated June 5, 2024.
 * [Customer Reviews](https://www.guestreservations.com/about/reviews "Customer Reviews")
 * [Terms of Service](https://www.guestreservations.com/about/termsofuse "Terms of Service")
 * [Privacy Policy](https://www.guestreservations.com/about/privacy "Privacy Policy")
+* [Sitemap](https://www.guestreservations.com/hotels "Sitemap")
 * [Hotel Non-Affiliation](# "Hotel Non-Affiliation")
 
 ##### Get in Touch
@@ -196,7 +197,7 @@ As an independent travel network and online travel agent (OTA), we can offer roo
 
 This allows us, as an independent travel network, to get you the same deals you expect with larger travel agencies.
 
-Copyright 2024 Guest Reservations, LLC.
+Copyright 2024 **Guest ReservationsTM**.
 
 **Guest ReservationsTM** is an independent travel network  
 offering over 100,000 hotels worldwide.
