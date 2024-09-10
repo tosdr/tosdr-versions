@@ -179,7 +179,7 @@ Menu
 * [News](https://pridefoundation.org.au/news/)
 * [Contact](https://pridefoundation.org.au/contact/)
 
-* [Major Grants](https://pridefoundation.org.au/major-grants/)
+* [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
@@ -188,7 +188,7 @@ Menu
 
 Menu
 
-* [Major Grants](https://pridefoundation.org.au/major-grants/)
+* [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
@@ -221,14 +221,14 @@ Subscribe
 * [News](https://pridefoundation.org.au/news/)
 * [Contact](https://pridefoundation.org.au/contact/)
 
-* [Major Grants](https://pridefoundation.org.au/major-grants/)
+* [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
 
-* [Major Grants](https://pridefoundation.org.au/major-grants/)
+* [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
@@ -260,7 +260,7 @@ Subscribe
 Website designed & built by [Twopence Digital](https://twopence.digital/)
 
 * [Home](https://pridefoundation.org.au/)
-* [Major Grants](https://pridefoundation.org.au/major-grants/)
+* [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [About](#)
     * [About Us](https://pridefoundation.org.au/about-pride-foundation-australia/)
