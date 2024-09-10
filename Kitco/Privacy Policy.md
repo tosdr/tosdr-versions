@@ -116,8 +116,8 @@ Show More
     * [IRA | RSP](https://online.kitco.com/ira-rsp/ "IRA RSP")
 * [Refining Services](https://online.kitco.com/refining "Refining Services")
     
-    * [Jeweler Resources](https://www.kitco.com/jewelry/ "Jeweler Resources")
-    * [Scrap Metal Calculator](https://www.kitco.com/jewelry/ "Scrap Metal Calculator")
+    * [Jeweler Resources](https://www.kitco.com/jeweler-resources "Jeweler Resources")
+    * [Scrap Metal Calculator](https://www.kitco.com/jeweler-resources "Scrap Metal Calculator")
     * [Refining and Scrap](https://online.kitco.com/refining/gold-silver-.html "Refining and Scrap")
 * [My Account](https://online.kitco.com/account/details.html "My Account")
     
