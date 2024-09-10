@@ -2,9 +2,9 @@
 
 [![National Geographic Society](https://www.nationalgeographic.org/wp-content/uploads/2021/09/Society_Mark_White.svg)](https://www.nationalgeographic.org/society/)
 
-[JOIN US](https://www.nationalgeographic.org/society/become-a-member/)
+[DONATE](https://www.nationalgeographic.org/society/become-a-member/)
 
-[JOIN THE SOCIETY](https://www.nationalgeographic.org/society/become-a-member/)
+[DONATE](https://www.nationalgeographic.org/society/become-a-member/)
 
 Looking for? [Careers](https://www.nationalgeographic.org/society/careers/), [Support](https://support.nationalgeographic.org/s/), [Mapmaker](https://mapmaker.nationalgeographic.org/), [Education](https://education.nationalgeographic.org/), [Magazine](https://www.nationalgeographic.com/magazine), [Newsroom](https://blog.nationalgeographic.org/), [Donate](https://give.nationalgeographic.org/page/49060/donate/1)
 
@@ -269,7 +269,7 @@ Washington, DC 20036
 
 [Facebook-official](https://www.facebook.com/InsideNatGeo/) [Twitter](https://twitter.com/InsideNatGeo/) [Instagram](https://www.instagram.com/insidenatgeo/) [Youtube](https://www.youtube.com/insidenatgeo/) [Linkedin](https://www.linkedin.com/company/national-geographic-society/)
 
-[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Sustainability](https://www.nationalgeographic.org/society/sustainability-guidelines/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
+[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
 
 © 1996 – 2024 National Geographic Society. All rights reserved.
 
