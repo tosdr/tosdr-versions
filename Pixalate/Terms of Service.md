@@ -292,7 +292,12 @@ These Terms and any applicable terms referenced herein are the entire agreement 
 
 ![pixalate-logo-red-small](https://www.pixalate.com/hs-fs/hubfs/2018NewTemplate/pixalate-logo-red-small.png?width=104&name=pixalate-logo-red-small.png "pixalate-logo-red-small")
 
-Copyright © 2024 Pixalate  
+Copyright © 2024 Pixalate
+
+US: 1775 Greensboro Station Place, Suite 425 McLean, Virginia 22102
+
+EU: 10 Earlsfort Terrace Dublin 2 D02 T380, Ireland  
+SG: 10 Anson Road, #22-02 International Plaza, Singapore 079903  
 UK Phone: +44 (0)800 011 2050
 
 US Phone: +1 888 749 2528
@@ -311,9 +316,9 @@ US Phone: +1 888 749 2528
 * [Careers](https://www.pixalate.com/jobs?hsLang=en)
 * [Team](https://www.pixalate.com/pixalate-leadership-team?hsLang=en)
 
-\*By entering your email address and clicking Subscribe, you are agreeing to our [Terms of Use](https://www.pixalate.com/terms?hsLang=en) and [Privacy Policy](https://www.pixalate.com/privacypolicy?hsLang=en)
+\*By entering your email address and clicking Subscribe, you are agreeing to our [Terms of Use](https://www.pixalate.com/terms?hsLang=en) and [Privacy Policy](https://2364596.fs1.hubspotusercontent-na1.net/hubfs/2364596/2024-08-20_Pixalate_Privacy_Policy.pdf)
 
-[Terms of Use](https://www.pixalate.com/terms?hsLang=en)  [Privacy Policy](https://www.pixalate.com/privacypolicy?hsLang=en)  [Join ATSAPI Slack Channel](https://join.slack.com/t/atsapi-pixalate/shared_invite/zt-10dtow5cj-OEtlNr5yzJkrZMQUqcEEow)
+[Terms of Use](https://www.pixalate.com/terms?hsLang=en)  [Privacy Policy](https://2364596.fs1.hubspotusercontent-na1.net/hubfs/2364596/2024-08-20_Pixalate_Privacy_Policy.pdf)  [Cookie Policy](https://www.pixalate.com/cookie-policy?hsLang=en)  [Join ATSAPI Slack Channel](https://join.slack.com/t/atsapi-pixalate/shared_invite/zt-10dtow5cj-OEtlNr5yzJkrZMQUqcEEow)
 
 Disclaimer: The content of this page reflects Pixalate’s opinions with respect to the factors that Pixalate believes can be useful to the digital media industry. Any proprietary data shared is grounded in Pixalate’s proprietary technology and analytics, which Pixalate is continuously evaluating and updating. Any references to outside sources should not be construed as endorsements. Pixalate’s opinions are just that - opinion, not facts or guarantees.
 
