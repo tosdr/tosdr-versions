@@ -1,95 +1,5 @@
 [](https://sift.com/)
 
-* Why Sift
-    
-    * [The Sift Difference](https://sift.com/why-sift)
-    * [Market Leadership](https://sift.com/why-sift#leadership)
-    * [Partnerships](https://sift.com/partnerships)
-    * [Professional Services](https://sift.com/services)
-    * [Patents](https://sift.com/patents)
-    * [Sifters Community](https://sift.com/community)
-* Solutions
-    
-    * [Solutions Overview](https://sift.com/solutions)
-    * By Use Case
-        
-        * [Account Creation](https://sift.com/solutions/account-creation)
-        * [Account Takeover (ATO)](https://sift.com/solutions/ato)
-        * [Payment Fraud](https://sift.com/solutions/payment-fraud)
-        * [Money Movement](https://sift.com/solutions/money-movement)
-        * [Chargeback Fraud](https://sift.com/solutions/chargeback-fraud)
-        * [Policy Abuse](https://sift.com/solutions/policy-abuse)
-        * [Content Scams](https://sift.com/solutions/content-scams)
-    * By Industry
-        
-        * [E-Commerce](https://sift.com/solutions/ecommerce)
-        * [Digital Goods](https://sift.com/solutions/digital-goods-services)
-        * [Fintech](https://sift.com/solutions/fintech)
-        * [iGaming](https://sift.com/solutions/igaming)
-        * [Travel & Transportation](https://sift.com/solutions/travel-transportation)
-        * [Marketplaces](https://sift.com/solutions/marketplaces)
-        * [Food & Delivery](https://sift.com/solutions/food-delivery)
-    * By Role
-        
-        * [Fraud & Compliance](https://sift.com/solutions/trust-fraud-operations)
-        * [Product](https://sift.com/solutions/product-management)
-        * [IT Operations](https://sift.com/solutions/business-operations)
-        * [Cybersecurity](https://sift.com/solutions/information-security)
-        * [CFO](https://sift.com/solutions/cfo)
-    * By Regulation
-        
-        * [PSD2 + SCA](https://sift.com/psd2)
-        * [PSD3 + PSR](https://sift.com/blog/navigating-psd3-and-psr-how-sift-supports-compliance-and-fraud-prevention)
-    * [Risk Assessment](https://sift.com/risk-assessment)
-        
-* Platform
-    
-    * [The Sift Platform](https://sift.com/platform)
-    * Products
-        
-        * [Payment Protection](https://sift.com/platform/payment-protection)
-        * [Account Defense](https://sift.com/platform/account-defense)
-        * [Dispute Management](https://sift.com/platform/dispute-management)
-        * [Content Integrity](https://sift.com/platform/content-integrity)
-    * Partner Ecosystem
-        
-        * [Overview](https://sift.com/partner-ecosystem)
-        * [Payment & Fraud Orchestration](https://sift.com/partner-ecosystem/payment-fraud-orchestration)
-        * [Payment Service Providers (PSPs)](https://sift.com/partner-ecosystem/payment-service-providers)
-        * [Identity Verification & Proofing](https://sift.com/partner-ecosystem/identity-verification-proofing)
-        * [Risk-Based Authentication](https://sift.com/partner-ecosystem/risk-based-authentication)
-        * [Customer Experience Management (CXM)](https://sift.com/partner-ecosystem/customer-experience-management-cxm)
-    * Sift Innovations
-        
-        * [PSD2 & PSD3](https://sift.com/psd2)
-        * [New Releases](https://sift.com/new-releases)
-* Resources
-    
-    * [FIBR | Fraud Industry Benchmarking Resource](https://sift.com/fibr-fraud-industry-benchmarking-resource)
-    * [All Resources](https://sift.com/resources)
-    * [BY USE CASE](https://sift.com/legal-and-compliance/service-privacy-notice#)
-    * [Payment Fraud](https://sift.com/resources?use_case=payment-fraud-type)
-    * [Chargeback Fraud](https://sift.com/resources?use_case=chargeback-disputes-type)
-    * [Account Fraud](https://sift.com/resources?use_case=ato-type)
-    * [Content Abuse](https://sift.com/resources?use_case=spam-type)
-    * [Fraud Intelligence Center](https://sift.com/fraud-center)
-    * [Blog](https://sift.com/blog)
-    * [Trust & Safety University](https://sift.com/trust-safety-university)
-    * [Get a Demo](https://sift.com/demo)
-    * [For Developers](https://developers.sift.com/)
-    * [Support](https://sift.com/contact-support)
-* Company
-    
-    * [About Us](https://sift.com/company)
-    * [Newsroom](https://sift.com/newsroom)
-    * [Events](https://sift.com/events)
-    * [Leadership](https://sift.com/company#leadership)
-    * [Investors](https://sift.com/investors)
-    * [Brand Center](https://sift.com/brand-center)
-    * [Contact Us](https://sift.com/contact-us)
-    * [Careers](https://sift.com/careers)
-        
-
 [See Sift in Action](https://sift.com/demo)
 
 [](https://console.sift.com/login?_gl=1*4om7dj*_ga*MjEwNTQyODU2LjE2OTg2OTA0MjA.*_ga_R8SV2EK5NZ*MTcwNjYzODY3OC4zNC4xLjE3MDY2Mzg2OTAuMC4wLjA)
@@ -447,29 +357,6 @@ _[Do Not Sell My Personal Information](https://pages.sift.com/cpra-opt-out.html?
 [](https://www.youtube.com/@getsift)[](https://www.linkedin.com/company/getsift/)[](https://www.instagram.com/get_sift/)[](https://twitter.com/GetSift)[](https://www.facebook.com/GetSift/)
 
 [Contact us](https://sift.com/contact-us)
-
-* Quick Links
-    * [Why Sift](https://sift.com/why-sift)
-    * [Careers](https://sift.com/careers)
-    * [Platform](https://sift.com/platform)
-    * [Company](https://sift.com/company)
-    * [FIBR](https://sift.com/fibr-fraud-industry-benchmarking-resource)
-* Developers
-    * [Overview](https://developers.sift.com/)
-    * [APIs](https://developers.sift.com/docs/curl/apis-overview)
-    * [Client Libraries](https://developers.sift.com/plugins/client-libraries)
-    * [Integration guides](https://developers.sift.com/guides)
-    * [Tutorials](https://developers.sift.com/tutorials)
-    * [Engineering blog](https://engineering.sift.com/)
-* Support
-    * [Contact support](https://sift.com/contact-support)
-    * [System status](https://status.sift.com/)
-    * [Trust & Safety University](https://sift.com/trust-safety-university)
-* Why Sift
-    * [Market Leadership](https://sift.com/why-sift#leadership)
-    * [Professional Services](https://sift.com/why-sift#professionalservices)
-    * [Patents](https://sift.com/patents)
-    * [Community](https://sift.com/why-sift#community)
 
 You can unsubscribe at any time. Please see our [Website Privacy Notice.](https://sift.com/legal-and-compliance/website-privacy-notice) [Do Not Sell My Personal Information](https://pages.sift.com/cpra-opt-out.html)
 
