@@ -63,7 +63,7 @@
         * [Event Calendar](https://4-h.org/events/)
     * ### Professional Events
         
-        * [PYD Academies](https://4-h.org/events/pyd-academies/)
+        * [4-H PYD Academy](https://4-h.org/resources/professionals/4-h-pyd-academy/)
     * [![Discover Upcoming Events](https://www.4-h.org/wp-content/uploads/2023/02/02105842/Events-Menu-600x600-1.jpg)Discover Upcoming Events ![Right Arrow](https://4-h.org/wp-content/themes/4h/assets/images/icons/arrow-right.svg)](https://4-h.org/events/) 
         
 * [Resources](https://4-h.org/resources/)
@@ -83,6 +83,7 @@
         * [Luminaries](https://4-h.org/resources/alumni/luminaries/)
     * ### For Professionals
         
+        * [4-H PYD Academy](https://4-h.org/events/pyd-academies/)
         * [Professional Resources](https://4-h.org/resources/professionals/)
         * [Professional Development](https://4-h.org/resources/professionals/professional-development/)
         * [Curriculum Development](https://4-h.org/resources/professionals/curriculum-development/)
@@ -92,7 +93,6 @@
         * [Grant Opportunities](https://4-h.org/resources/professionals/grants/)
         * [Marketing Resources](https://4-h.org/resources/professionals/marketing-resources/)
         * [National 4-H Partner Resources](https://4-h.org/resources/professionals/national-partner-4-h-resources/)
-        * [PYD Academies](https://4-h.org/events/pyd-academies/)
     * [![Learn About CLOVER](https://www.4-h.org/wp-content/uploads/2023/01/03153803/Resources-Menu-600x600-1.jpg)Learn About CLOVER ![Right Arrow](https://4-h.org/wp-content/themes/4h/assets/images/icons/arrow-right.svg)](https://4-h.org/clover/) 
         
 * [Support](https://4-h.org/support/)
@@ -496,7 +496,7 @@ Support 4-H
 -----------
 
 * [Ways to Give](https://4-h.org/support/ways-to-give/)
-* [Corporate & Foundation Support](https://4-h.org/?page_id=74958)
+* [Corporate & Foundation Support](https://4-h.org/support/corporate-foundation-support/)
 * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=footer_nav)
 
 Join the 4-H Community
@@ -514,7 +514,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -575,13 +575,13 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
         
 
-[](javascript:void(0))
+[](javascript:void(0) "Click Here")
 
 ![](/wp-content/uploads/2022/12/16045104/cookie.png)
 
