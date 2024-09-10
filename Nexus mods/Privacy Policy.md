@@ -272,6 +272,7 @@ Comply with a legal obligation means processing your personal data where it is n
 * Service providers acting as processors based around the world who provide IT, system administration and similar services.
 * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the United Kingdom who provide consultancy, banking, legal, insurance and accounting services.
 * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
+* Publisher Collective, acting as our advertising partner. Their privacy policy can be [found here](https://www.publisher-collective.com/privacy-notice/).
 
 ### YOUR LEGAL RIGHTS
 
@@ -296,7 +297,7 @@ You have the right to:
 
 **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Last updated on June 12, 2024
+Last updated on August 6, 2024
 
 ### Related Articles
 
@@ -315,4 +316,4 @@ Last updated on June 12, 2024
 
 No results found
 
-© [Nexus Mods](https://www.nexusmods.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/knowledge-base/?co=Nexus+Mods&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
+© [Nexus Mods](https://www.nexusmods.com/) 2024. Powered by [Help Scout](https://www.helpscout.com/docs-refer/?co=Nexus+Mods&utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding)
