@@ -95,7 +95,7 @@ Menu Close
             * [How to change the mileage on your policy](https://www.axa.co.uk/car-insurance/making-policy-changes/car-mileage/)
         * [Policy details](https://www.axa.co.uk/car-insurance/policy-details/)
         * [Make a claim](https://www.axa.co.uk/car-insurance/make-a-claim/)
-        * [Track a claim](https://customer.axa.co.uk/login/my-axa-account/)
+        * [Track a claim](https://customer.axa.co.uk/login/my-axa-account/?track-a-claim-car/)
         * [Premiums explained](https://www.axa.co.uk/car-insurance/premiums/)
         * [All about our fees](https://www.axa.co.uk/car-insurance/manage-your-policy/fees/)
         * [Contact us](https://www.axa.co.uk/contact-us/car-insurance/)
@@ -127,7 +127,7 @@ Menu Close
         * [Flood insurance](https://www.axa.co.uk/home-insurance/flood-insurance/)
         * [Policy details](https://www.axa.co.uk/home-insurance/policy-details/)
     * [Optional extras](https://www.axa.co.uk/home-insurance/optional-extras/)[](javascript:void(0))
-        * [Home emergency cover](https://www.axa.co.uk/home-insurance/home-emergency-cover/)
+        * [Home assistance cover](https://www.axa.co.uk/home-insurance/home-emergency-cover/)
         * [Accidental damage insurance](https://www.axa.co.uk/home-insurance/accidental-damage-cover/)
         * [Personal possessions insurance](https://www.axa.co.uk/home-insurance/personal-possessions-insurance/)
         * [Student cover](https://www.axa.co.uk/home-insurance/student-cover/)
@@ -355,7 +355,7 @@ Menu Close
 
 Car insurance
 
-Get AXA Car Insurance from as little as £310 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 April and 30 June 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Car Insurance from as little as £306 (10% of AXA Comprehensive Car Insurance customers paid this or less between 1 May and 31 July 2024). We pay out 99.8% of car insurance claims (Data relates to personal car insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/car-insurance/ "Car insurance")
 
@@ -385,7 +385,7 @@ Get AXA Car Insurance from as little as £310 (10% of AXA Comprehensive Car Insu
 * [Add a temporary driver](https://www.axa.co.uk/car-insurance/making-policy-changes/adding-a-temporary-driver/ "Add a temporary driver")
 * [Policy details](https://www.axa.co.uk/car-insurance/policy-details/ "Policy details")
 * [Make a claim](https://www.axa.co.uk/car-insurance/make-a-claim/ "Make a claim")
-* [Track a claim](https://customer.axa.co.uk/login/my-axa-account/)
+* [Track a claim](https://customer.axa.co.uk/login/my-axa-account/?track-a-claim-car/)
 * [Premiums explained](https://www.axa.co.uk/car-insurance/premiums/ "Premiums explained")
 * [Renewal prices explained](https://www.axa.co.uk/car-insurance/renewal-price-explained/ "Renewal prices explained")
 * [Help](https://help.axa.co.uk/s/car-topics/)
@@ -401,7 +401,7 @@ Tips and FAQs
 
 Home insurance
 
-Get AXA Home Insurance from as little as £192 (10% of AXA Plus Home Insurance customers paid this or less between 1 April and 30 June 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
+Get AXA Home Insurance from as little as £194 (10% of AXA Plus Home Insurance customers paid this or less between 1 May and 31 July 2024). We pay out 88.2% of home insurance claims (Data relates to home insurance claims for policies underwritten by AXA Insurance UK plc from January to December 2023).
 
 [Find out more](https://www.axa.co.uk/home-insurance/ "Home insurance")
 
@@ -811,7 +811,7 @@ AXA and you
 * [Help](https://help.axa.co.uk/s/)
 * [Contact AXA](https://www.axa.co.uk/contact-us/)
 * [Jargon explained](https://www.axa.co.uk/jargon-explained/)
-* [Reporting fraud](https://www.axa.co.uk/fraud/)
+* [Reporting fraud](https://www.axa.co.uk/security-and-fraud/)
 
 AXA UK
 ------
@@ -819,8 +819,8 @@ AXA UK
 * [About AXA](https://www.axa.co.uk/about/)
 * [Inside AXA](https://www.axa.co.uk/about/inside-axa/ "Inside AXA")
 * [Newsroom](https://www.axa.co.uk/newsroom/)
+* [Liverpool FC partnership](https://www.axa.co.uk/about/axa-group-and-liverpool-fc-partnership/ "Liverpool FC partnership")
 * [AXA Jobs](https://jobs.axa.co.uk/ "AXA Jobs")
-* [AXA Health](https://www.axahealth.co.uk/ "AXA Health")
 * [AXA Connect](https://www.axaconnect.co.uk/ "AXA Connect")
 * [AXA Northern Ireland](https://www.axani.co.uk/)
 * [AXA.com](https://www.axa.com/ "AXA.com")
@@ -833,7 +833,7 @@ Social
 * [Cookie policy](https://www.axa.co.uk/cookie-policy/)
 * [Sitemap](https://www.axa.co.uk/sitemap/)
 * [Privacy Policy](https://www.axa.co.uk/privacy-policy/ "AXA's Privacy Policy")
-* [Fraud](https://www.axa.co.uk/fraud/)
+* [Fraud](https://www.axa.co.uk/security-and-fraud/)
 * [Accessibility and support](https://www.axa.co.uk/accessibility-and-support/)
 * [Terms and conditions](https://www.axa.co.uk/terms-and-conditions/)
 * [Modern slavery act](https://www.axa.co.uk/msa/)
