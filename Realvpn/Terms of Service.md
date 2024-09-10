@@ -127,6 +127,9 @@ You hereby agree to indemnify and hold harmless RealVPN, its affiliated and asso
 * [VPN for AppleTV](https://apps.apple.com/us/app/realvpn/id1367167731?ls=1)
 * [VPN for Android](https://realvpn.io/download_android)
 * [VPN for Android TV](https://realvpn.io/download_android_tv)
+* [VPN for Chrome Browser](https://realvpn.io/download_chrome)
+* [VPN for Edge Browser](https://realvpn.io/download_edge)
+* [VPN for Opera Browser](https://realvpn.io/download_opera)
 
 ###### Help & Support
 
