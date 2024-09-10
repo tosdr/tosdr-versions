@@ -81,33 +81,49 @@
     * [Log Cabin RV & Campground](https://www.olympicnationalparks.com/rv-camping/log-cabin-rv-campground/)
         
 * [Things to Do](#)
-    * [Sample Itineraries](https://www.olympicnationalparks.com/things-to-do/sample-itineraries/)
+    * [Experience Olympic National Park](https://www.olympicnationalparks.com/things-to-do/experience-olympic-national-park/)
         
-    * [Biking](https://www.olympicnationalparks.com/things-to-do/biking-olympic-national-park/)
-        
-    * [Boat & Paddleboard Rentals](https://www.olympicnationalparks.com/things-to-do/boat-paddleboard-rentals-olympic-peninsula/)
-        
-    * [Boat Tours of Lake Quinault](https://www.olympicnationalparks.com/things-to-do/boat-tours-of-lake-quinault/)
-        
-    * [Fishing](https://www.olympicnationalparks.com/things-to-do/fishing-olympic-peninsula/)
-        
-    * [Hiking](https://www.olympicnationalparks.com/things-to-do/hiking-olympic-peninsula/)
-        
-    * [Mineral Hot Springs & Pool](https://www.olympicnationalparks.com/things-to-do/mineral-hot-springs-pool-at-sol-duc-hot-springs-resort/)
-        
-    * [Dining](https://www.olympicnationalparks.com/lodging/dining/)
-        
+    * [Lake Quinault Lodge](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/)
+        * [Boat Tours](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/boat-tours-of-lake-quinault/)
+            
+        * [Quinault Rainforest Tour](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/tours-of-lake-quinault-rainforest/)
+            
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/water-toy-rentals-at-lake-quinault-lodge/)
+            
+        * [Fishing](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/fishing-at-lake-quinault-lodge/)
+            
+        * [Biking](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/biking-at-lake-quinault-lodge/)
+            
     * [Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/)
         * [Winter at Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/winter-at-hurricane-ridge/)
             
-        * [Hiking at Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hiking-olympic-peninsula/hiking-at-hurricane-ridge/)
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/hiking-at-hurricane-ridge/)
             
-    * [Quinault Rainforest Tour](https://www.olympicnationalparks.com/things-to-do/tours-of-lake-quinault-rainforest/)
-        
+    * [Lake Crescent Lodge](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/)
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/water-toy-rentals-at-lake-crescent-lodge/)
+            
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/hiking-at-lake-crescent-lodge/)
+            
+        * [Fishing](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/fishing-at-lake-crescent-lodge/)
+            
+    * [Log Cabin Resort](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/)
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/water-toy-rentals-at-log-cabin-resort/)
+            
+        * [Biking](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/biking-at-log-cabin-resort/)
+            
+    * [Sol Duc Hot Springs Resort](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/)
+        * [Mineral Hot Springs & Pool](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/mineral-hot-springs-pool-at-sol-duc-hot-springs-resort/)
+            
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/hiking-at-sol-duc-hot-springs-resort/)
+            
+        * [Salmon Cascades](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/salmon-cascades/)
+            
     * [Shopping](https://www.olympicnationalparks.com/things-to-do/shopping/)
         * [Fairholme Store](https://www.olympicnationalparks.com/things-to-do/shopping/fairholme-store/)
             
-    * [Skiing](https://www.olympicnationalparks.com/things-to-do/skiing-at-hurricane-ridge/)
+    * [Dining](https://www.olympicnationalparks.com/lodging/dining/)
+        
+    * [Sample Itineraries](https://www.olympicnationalparks.com/things-to-do/sample-itineraries/)
         
     * [Upcoming Events](https://www.olympicnationalparks.com/things-to-do/upcoming-events/)
         
@@ -198,33 +214,49 @@ Call Us[](tel:)
     * [Log Cabin RV & Campground](https://www.olympicnationalparks.com/rv-camping/log-cabin-rv-campground/)
         
 * [Things to Do](#)
-    * [Sample Itineraries](https://www.olympicnationalparks.com/things-to-do/sample-itineraries/)
+    * [Experience Olympic National Park](https://www.olympicnationalparks.com/things-to-do/experience-olympic-national-park/)
         
-    * [Biking](https://www.olympicnationalparks.com/things-to-do/biking-olympic-national-park/)
-        
-    * [Boat & Paddleboard Rentals](https://www.olympicnationalparks.com/things-to-do/boat-paddleboard-rentals-olympic-peninsula/)
-        
-    * [Boat Tours of Lake Quinault](https://www.olympicnationalparks.com/things-to-do/boat-tours-of-lake-quinault/)
-        
-    * [Fishing](https://www.olympicnationalparks.com/things-to-do/fishing-olympic-peninsula/)
-        
-    * [Hiking](https://www.olympicnationalparks.com/things-to-do/hiking-olympic-peninsula/)
-        
-    * [Mineral Hot Springs & Pool](https://www.olympicnationalparks.com/things-to-do/mineral-hot-springs-pool-at-sol-duc-hot-springs-resort/)
-        
-    * [Dining](https://www.olympicnationalparks.com/lodging/dining/)
-        
+    * [Lake Quinault Lodge](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/)
+        * [Boat Tours](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/boat-tours-of-lake-quinault/)
+            
+        * [Quinault Rainforest Tour](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/tours-of-lake-quinault-rainforest/)
+            
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/water-toy-rentals-at-lake-quinault-lodge/)
+            
+        * [Fishing](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/fishing-at-lake-quinault-lodge/)
+            
+        * [Biking](https://www.olympicnationalparks.com/things-to-do/lake-quinault-lodge/biking-at-lake-quinault-lodge/)
+            
     * [Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/)
         * [Winter at Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/winter-at-hurricane-ridge/)
             
-        * [Hiking at Hurricane Ridge](https://www.olympicnationalparks.com/things-to-do/hiking-olympic-peninsula/hiking-at-hurricane-ridge/)
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/hurricane-ridge/hiking-at-hurricane-ridge/)
             
-    * [Quinault Rainforest Tour](https://www.olympicnationalparks.com/things-to-do/tours-of-lake-quinault-rainforest/)
-        
+    * [Lake Crescent Lodge](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/)
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/water-toy-rentals-at-lake-crescent-lodge/)
+            
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/hiking-at-lake-crescent-lodge/)
+            
+        * [Fishing](https://www.olympicnationalparks.com/things-to-do/lake-crescent-lodge/fishing-at-lake-crescent-lodge/)
+            
+    * [Log Cabin Resort](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/)
+        * [Water Toy Rentals](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/water-toy-rentals-at-log-cabin-resort/)
+            
+        * [Biking](https://www.olympicnationalparks.com/things-to-do/log-cabin-resort/biking-at-log-cabin-resort/)
+            
+    * [Sol Duc Hot Springs Resort](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/)
+        * [Mineral Hot Springs & Pool](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/mineral-hot-springs-pool-at-sol-duc-hot-springs-resort/)
+            
+        * [Hiking](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/hiking-at-sol-duc-hot-springs-resort/)
+            
+        * [Salmon Cascades](https://www.olympicnationalparks.com/things-to-do/sol-duc-hot-springs-resort/salmon-cascades/)
+            
     * [Shopping](https://www.olympicnationalparks.com/things-to-do/shopping/)
         * [Fairholme Store](https://www.olympicnationalparks.com/things-to-do/shopping/fairholme-store/)
             
-    * [Skiing](https://www.olympicnationalparks.com/things-to-do/skiing-at-hurricane-ridge/)
+    * [Dining](https://www.olympicnationalparks.com/lodging/dining/)
+        
+    * [Sample Itineraries](https://www.olympicnationalparks.com/things-to-do/sample-itineraries/)
         
     * [Upcoming Events](https://www.olympicnationalparks.com/things-to-do/upcoming-events/)
         
@@ -255,7 +287,7 @@ Call Us[](tel:)
 | --- | --- | --- | --- |
 | [MAP](https://www.olympicnationalparks.com/plan/area-maps/ "View Map") | [](https://www.olympicnationalparks.com/plan/weather/)<br><br>[F F](https://www.olympicnationalparks.com/plan/weather/)<br><br>[High °F Low °F<br><br>Beginning Ending](https://www.olympicnationalparks.com/plan/weather/)[Full Forecast](#) Last updated<br><br>°F<br><br>°F<br><br>[Current Conditions](#) Last updated<br><br>  <br>Crescent | [](https://www.olympicnationalparks.com/plan/weather/)<br><br>[F F](https://www.olympicnationalparks.com/plan/weather/)<br><br>[High °F Low °F<br><br>Beginning Ending](https://www.olympicnationalparks.com/plan/weather/)[Full Forecast](#) Last updated<br><br>°F<br><br>°F<br><br>[Current Conditions](#) Last updated<br><br>  <br>Quinault | [](https://www.olympicnationalparks.com/plan/weather/)<br><br>[F F](https://www.olympicnationalparks.com/plan/weather/)<br><br>[High °F Low °F<br><br>Beginning Ending](https://www.olympicnationalparks.com/plan/weather/)[Full Forecast](#) Last updated<br><br>°F<br><br>°F<br><br>[Current Conditions](#) Last updated<br><br>  <br>Sol Duc |
 
-* [](https://twitter.com/TravelARAMARK "twitter")
+* [](https://twitter.com/TravelARAMARK "X")
 * [](http://www.facebook.com/olympicnationalpark "facebook")
 * [](https://instagram.com/olympicparklodges/ "instagram")
 * [](https://www.pinterest.com/olyparklodges/ "pintrest")
@@ -268,20 +300,20 @@ Privacy Policy
 Privacy Policy
 ==============
 
-Effective May 2024
+**Effective September 2024**
 
 Aramark is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
-* Information Collected:
-* Use of Collected Information
-* Links to Other Sites
-* Security of Collected Information
-* Access to Collected Information
-* Contacting Us
-* Changes to this Policy
-* Candidate Data Privacy Protection
+* **Information Collected:**
+* **Use of Collected Information**
+* **Links to Other Sites**
+* **Security of Collected Information**
+* **Access to Collected Information**
+* **Contacting Us**
+* **Changes to this Policy**
+* **Candidate Data Privacy Protection**
 
-Information Collected
+### Information Collected
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a 'cookie' (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to Aramark services on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than Aramark affiliates and contractors who assist Aramark in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
@@ -305,7 +337,11 @@ If you register with one of Aramark's business units online, they may use this i
 
 If you stay in lodging operated by Aramark in a national park, we may share information about you, such as a mailing address, with a non-profit organization or organizations supporting the park including other successor park concessioners. We do not otherwise share, sell, or lease personal information about you to third parties for their direct marketing use.
 
-How can you stop receiving email from us?
+### Third-Party Analytics
+
+We may also use third-party analytics software such as Google Analytics for our own internal purposes including evaluating how you use our websites. The third-party services may use cookies and similar technologies to collect and analyze information about your use and to report on activities and trends. Such services may also collect information regarding your use of other websites, applications, and online resources. For more information about Google Analytics, please go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You may download the Google Analytics opt out browser add-on at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+
+### How can you stop receiving email from us?
 
 \- Each email sent contains an easy, automated way for you to cease receiving email from Aramark Destinations. If you wish to do so, simply follow the instructions at the end of any email.
 
@@ -317,29 +353,29 @@ Attn: Marketing Department
 Suite 300  
 Phoenix, AZ 85016
 
-Links to Other Sites
+### Links to Other Sites
 
 Aramark's Web site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
 
-Security of Collected Information
+### Security of Collected Information
 
 We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those Aramark workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-Access to Collected Information
+### Access to Collected Information
 
 You may review and update the information that you provide to us through this Web site by contacting us as described below.
 
-Contacting Us
+### Contacting Us
 
 If you have any questions about this privacy policy, please use the Contact page. We welcome your questions and suggestions about our privacy policy.
 
-Changes to this Policy
+### Changes to this Policy
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
 
-Candidate Data Privacy Protection
+### Candidate Data Privacy Protection
 
-I. OBJECTIVE
+**I. OBJECTIVE**
 
 The objective of these Candidate Data Protection Standards (“Standards”) is to provide adequate and consistent safeguards for the handling of candidate data by Aramark entities. These Standards are designed with the intention of defining Aramark’s protection of Candidate Data. Aramark is committed to fair information practices that are compliance with applicable, local law. The identifiable information about yourself that you or someone else provides (on your or Aramark’s behalf) to an Aramark entity in the context of applying for a position with an Aramark entity (the “Candidate Data” or “Data”) will be used for recruitment purposes and the Candidate Data will be protected in accordance with Aramark’s Standards outlined below and applicable law.
 
@@ -351,11 +387,11 @@ You have reviewed Aramark’s Standards and Privacy Policy;
 
 Aramark and/or its third party service providers may process the Candidate Data according to the recruitment purposes set out in the Standards; The Candidate Data may be transferred to other Aramark entities consistent with Aramark’s Standards; and your consent is required in order to complete the submittal process. If you do not agree to abide by these terms and conditions do not use the site. Aramark may periodically collect further information with your consent or in accordance with applicable laws. For example, Aramark may require additional information to perform background checks or obtain approvals, which may be a condition to employment. In addition, Aramark may collect your feedback and opinions (e.g., surveys) for business purposes, such as improving processes.
 
-II. PURPOSES AND ACCESS FOR CANDIDATE DATA PROCESSING
+**II. PURPOSES AND ACCESS FOR CANDIDATE DATA PROCESSING**
 
 Aramark and Aramark entities process Candidate Data for legitimate human resources purposes. Such processing will be conducted within such purpose limitations and in accordance with applicable law.
 
-III. SECURITY AND CONFIDENTIALITY
+**III. SECURITY AND CONFIDENTIALITY**
 
 Aramark entities are committed to taking appropriate technical, physical, and organizational measures to protect Candidate Data against unauthorized access, unlawful processing, accidental loss or damage, and unauthorized destruction.
 
@@ -367,7 +403,7 @@ Access Security
 
 Aramark entities limit access to internal systems that hold Candidate Data to a select group of authorized users who are given access to such systems through the use of a unique identifier and password. Access to Candidate Data is limited to and provided to individuals for the purpose of performing their job duties (e.g., a human resources manager may need access to a Candidate’s contact information for the purposes of setting up an interview).
 
-IV. DIRECT MARKETING
+**IV. DIRECT MARKETING**
 
 Aramark entities will not disclose Candidate Data outside Aramark to offer any products or services to a Candidate for personal or familial consumption (“direct marketing”) without his or her prior consent. The restrictions in this section apply only to contact data obtained in the context of applying for a position with Aramark and not, for example, to data obtained in the context of a customer relationship.
 
@@ -400,7 +436,7 @@ Join in, be a part of it
 * * *
 
 * [](http://www.facebook.com/olympicnationalpark "facebook")
-* [](https://twitter.com/TravelARAMARK "twitter")
+* [](https://twitter.com/TravelARAMARK "X")
 * [](https://instagram.com/olympicparklodges/ "instagram")
 * [](https://www.pinterest.com/olyparklodges/ "pintrest")
 
