@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Lasted Updated June 3, 2024
+Effective September 1, 2024
 
 \[See also [**Terms of Service**](https://otter.ai/terms)\]
 
@@ -34,7 +34,8 @@ We will collect and use the following Personal Information about you:
 
 * **Usage Information**: When you use the Services, you generate information pertaining to your use, including timestamps, such as access, record, share, edit and delete events, app use information, screenshots/screen captures taken during the meeting, interactions with our team, and transaction records.
 * **Device Information**: We assign a unique user identifier (“**UUID**”) to each mobile device that accesses the Services. When you use our Services, you provide information such as your IP address, UUIDs, device IDs, web beacons and other device information (such as carrier type, whether you access our Service from a desktop or mobile platform, device model, brand, web browser and operating system).
-* **Cookies:** We use Cookies and other similar technologies (“**Cookies**”) to enhance your experience when using the Service. For more information about our Cookies policy, see HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES below.
+* **Cookies:** We use Cookies and other similar technologies (“**Cookies**”) to enhance your experience when using the Service. For more information about our Cookies policy, see HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES below.**‍**
+* **Location Information****:** When you use the Services, we receive your approximate location information. For example, we infer your approximate location by using your IP address.
 
 **Information received from third parties.**
 
@@ -153,7 +154,7 @@ APPENDIX
 
 ### Otter.ai Data Privacy Framework Principles
 
-Effective June 3, 2024
+Effective September 1, 2024
 
 Otter.ai has created this Data Privacy Framework Principles Notice (“Notice”) to describe our standards and procedures for handling Personal Information in accordance with the Data Privacy Framework (“DPF”) Principles.
 
