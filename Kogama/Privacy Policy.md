@@ -39,7 +39,7 @@ By registering for an account, accessing or using The Service, users agree to be
 
 * We store your IP adress in order to facilitate technical operation of the site, as well as to be facilitate safety for our users
 * We store your email address if you provide us with it and you are old enough to do so. We may ask for your parents email address if you tell us that you are less than 13 of age in order to inform that an account has been created and ask for consent for certain features
-* We use ads to keep the service operational. If you’re under 13, we do not share any personal data as a result of this, but otherwise we request your consent to share certain data with our partners to facilitate a personalized ad service (See below for more).
+* We use ads to keep the service operational. If you're under 13, we do not share any personal data as a result of this, but otherwise we request your consent to share certain data with our partners to facilitate a personalized ad service (See below for more).
 
 ### 1.2 Cookies
 
@@ -76,7 +76,7 @@ We receive and store certain types of information whenever users visit the site.
 
 ### 3.1 Your KoGaMa account
 
-To use all functionalities on The Service you must create a KoGaMa account. Upon creation of a KoGaMa account, we ask you to choose a username - please be sure to pick one that doesn’t include any personally identifiable information. We also ask you to identify your month and year of birth in order to identify extra needs for consent. You will also be asked to provide an e-mail address if you’re above the age of consent, or an email address of your parents or guardian if you are not. This is entirely voluntary, and if you choose to do so it will only be used to communicate news from the games on The Service.
+To use all functionalities on The Service you must create a KoGaMa account. Upon creation of a KoGaMa account, we ask you to choose a username - please be sure to pick one that doesn't include any personally identifiable information. We also ask you to identify your month and year of birth in order to identify extra needs for consent. You will also be asked to provide an e-mail address if you're above the age of consent, or an email address of your parents or guardian if you are not. This is entirely voluntary, and if you choose to do so it will only be used to communicate news from the games on The Service.
 
 You may play games on The Service without creating an account, but only if you are 13 years or older.
 
