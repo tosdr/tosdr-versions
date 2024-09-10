@@ -1,3 +1,6 @@
+![](
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Cookie Policy – 100% PURE                                                                                                
+
 My Tote
 -------
 
@@ -13,17 +16,19 @@ My Tote
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/badges2.png?crop=center&height=85&v=1698631226&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-[![coffee-bean-caffeine-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_239x254.jpg?v=1713545934)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-![ 1FMCBEC_Primary](//www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_220x.jpg?v=1713545934)
+[![coffee-bean-caffeine-eye-cream](https://www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_239x254.webp?v=1724416545)](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
+
+![ 1FMCBEC_Primary](//www.100percentpure.com/cdn/shop/files/1FMCBEC_Coffee_Bean_Caffeine_Eye_Cream_Primary_1oz_primary_78935561-7401-4248-b08e-aa6af8c5c1a7_220x.webp?v=1724416545)
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5704 reviews (5705)
+5737 reviews (5738)
 
-£13.00 £24.00
+$16.00 $29.00
 
-1 oz - £24 0.3 oz - £13
+1 oz - $29 0.3 oz - $16
 
 1 oz
 
@@ -33,103 +38,81 @@ ADD TO TOTE
 
 CHOOSE Size
 
+[![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
+
+[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
+
+![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
+
+### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
+
+1419 reviews (1419)
+
+$58.00
+
+Default Title - $58
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2021-pm-routine_99ae3a5d-78d1-4989-a433-13d68e71ddd9.png?crop=center&height=85&v=1697822466&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-highly_5740347f-5398-4b6d-a922-1a68a16e37da.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Silver.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+
+[![multi-vitamin-+-antioxidants-ultra-riché-pm-treatment](https://www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_239x254.jpg?v=1696452642)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+
+![ 1FMVPMT_Primary](//www.100percentpure.com/cdn/shop/files/1FMVPMT_Multi_Vitamin_Cream_Primary_220x.jpg?v=1696452642)
+
+### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
+
+1043 reviews (1043)
+
+$64.00
+
+Default Title - $64
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/NHA_Bronze.png?crop=center&height=85&v=1724151394&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
+
 [![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
 ![ 1FMVPPMS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_220x.jpg?v=1713543184)
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-88 reviews (88)
+92 reviews (92)
 
-£58.00
+$72.00
 
-1 oz - £58
-
-ADD TO TOTE
-
-[30% off
-
-![fruit-pigmented®-ultra-lengthening-mascara](https://www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_239x254.png?v=1698279922)](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
-
-![ Fruit Pigmented® Ultra Lengthening Mascara](//www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_220x.png?v=1698279922)
-
-### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
-
-5268 reviews (5268)
-
-£16.00 £23.00
-
-Black Tea - £16 Blackberry - £23 Blueberry - £23 Dark Chocolate - £23
-
-Blueberry
-
-Black Tea
-
-Sale
-
-Blackberry
-
-Dark Chocolate
+1 oz - $72
 
 ADD TO TOTE
 
-CHOOSE Color
-
-[30% off
-
-![maracuja-mascara](https://www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_239x254.jpg?v=1695862275)](https://www.100percentpure.com/products/maracuja-mascara)
+[![maracuja-mascara](https://www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_239x254.jpg?v=1695862275)](https://www.100percentpure.com/products/maracuja-mascara)
 
 ![ 1CMMBT10G_Primary](//www.100percentpure.com/cdn/shop/files/1CMMBT10G_Maracuja_Oil_Mascara_Black_Tea_Primary_220x.jpg?v=1695862275)
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2368 reviews (2368)
+2381 reviews (2381)
 
-£16.00 £23.00
+$28.00 $28.00
 
-Black Tea - £16 Dark Chocolate - £16 Blackberry - £23
+Black Tea - $28 Dark Chocolate - $28 Blackberry - $28
 
 Black Tea
-
-Sale
 
 Blackberry
 
 Dark Chocolate
 
-Sale
-
 ADD TO TOTE
 
 CHOOSE Color
-
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-highly_5740347f-5398-4b6d-a922-1a68a16e37da.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/grow-more-shampoo)
-
-[32% off
-
-![glossy-locks-grow-more-shampoo](https://www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_239x254.jpg?v=1695865361)](https://www.100percentpure.com/products/grow-more-shampoo)
-
-![ GLHSGM_Primary](//www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_220x.jpg?v=1695865361)
-
-### [Glossy Locks Grow More Shampoo](https://www.100percentpure.com/products/grow-more-shampoo)
-
-685 reviews (685)
-
-£19.00 £22.00
-
-16 oz - £22 13.5 oz - £19
-
-Sale
-
-13.5 oz
-
-Sale
-
-16 oz
-
-ADD TO TOTE
-
-CHOOSE Size
 
 [![coconut-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_239x254.jpg?v=1695865138)](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
@@ -137,11 +120,11 @@ CHOOSE Size
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-751 reviews (751)
+761 reviews (761)
 
-£10.00 £21.00
+$12.00 $26.00
 
-1.7 oz - £10 8 oz - £21
+1.7 oz - $12 8 oz - $26
 
 8 oz
 
@@ -157,11 +140,11 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-31 reviews (31)
+37 reviews (37)
 
-£6.00 £23.00
+$7.00 $28.00
 
-Single - £6 5 Pack - £23
+Single - $7 5 Pack - $28
 
 Single
 
@@ -177,51 +160,31 @@ CHOOSE Size
 
 ### [Deep Hydration Sheet Mask](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
-368 reviews (368)
+374 reviews (374)
 
-£6.00
+$7.00
 
-Single - £6
-
-ADD TO TOTE
-
-[![watermelon-cucumber-water-locking-moisturizer](https://www.100percentpure.com/cdn/shop/files/Wtmln_Cuke_Moisturizer_PNG-01_239x254.jpg?v=1684172960)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
-
-![ Watermelon Cucumber Water Locking Moisturizer](//www.100percentpure.com/cdn/shop/files/Wtmln_Cuke_Moisturizer_PNG-01_220x.jpg?v=1684172960)
-
-### [Watermelon Cucumber Water Locking Moisturizer](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
-
-96 reviews (96)
-
-£20.00
-
-Default Title - £20
+Single - $7
 
 ADD TO TOTE
 
-[50% off
-
-![creamy-long-last-liner](https://www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_239x254.jpg?v=1695868707)](https://www.100percentpure.com/products/creamy-long-last-liner)
+[![creamy-long-last-liner](https://www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_239x254.jpg?v=1695868707)](https://www.100percentpure.com/products/creamy-long-last-liner)
 
 ![ 1CPEB_Primary](//www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_220x.jpg?v=1695868707)
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-1995 reviews (1995)
+2016 reviews (2016)
 
-£11.00 £22.00
+$27.00 $27.00
 
-Blackest - £11 Dark Cacao - £11 Gleaming Pewter - £22
+Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
 
 Gleaming Pewter
 
 Blackest
 
-Sale
-
 Dark Cacao
-
-Sale
 
 ADD TO TOTE
 
@@ -233,11 +196,11 @@ CHOOSE Color
 
 ### [Watermelon Cucumber Water Locking Mist](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
-39 reviews (39)
+41 reviews (41)
 
-£20.00
+$25.00
 
-Default Title - £20
+Default Title - $25
 
 ADD TO TOTE
 
@@ -247,11 +210,11 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-355 reviews (355)
+360 reviews (360)
 
-£6.00 £26.00
+$7.00 $32.00
 
-Single - £6 5 Pack - £26
+Single - $7 5 Pack - $32
 
 5 Pack
 
@@ -267,11 +230,11 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-830 reviews (830)
+837 reviews (837)
 
-£31.00
+$38.00
 
-Default Title - £31
+Default Title - $38
 
 ADD TO TOTE
 
@@ -283,27 +246,25 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-186 reviews (186)
+220 reviews (220)
 
-£47.00
+$58.00
 
-Default Title - £47
+Default Title - $58
 
 ADD TO TOTE
 
-[57% off
-
-![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
 ![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-502 reviews (502)
+511 reviews (511)
 
-£3.00 £7.00
+$8.00
 
-Default Title - £3
+Default Title - $8
 
 ADD TO TOTE
 
@@ -313,11 +274,11 @@ ADD TO TOTE
 
 ### [Blood Orange Nourishing Body Cream](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
-288 reviews (288)
+294 reviews (294)
 
-£21.00
+$26.00
 
-Default Title - £21
+Default Title - $26
 
 ADD TO TOTE
 
@@ -327,11 +288,11 @@ ADD TO TOTE
 
 ### [French Lavender Nourishing Body Cream](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
-343 reviews (343)
+348 reviews (348)
 
-£21.00
+$26.00
 
-Default Title - £21
+Default Title - $26
 
 ADD TO TOTE
 
@@ -341,27 +302,25 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-380 reviews (380)
+382 reviews (382)
 
-£21.00
+$26.00
 
-Default Title - £21
+Default Title - $26
 
 ADD TO TOTE
 
-[50% off
-
-![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
+[![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
 ![ Cucumber Cloud Foam Cleanser](//www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_220x.jpg?v=1617318615)
 
 ### [Cucumber Cloud Foam Cleanser](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
-116 reviews (116)
+120 reviews (120)
 
-£12.00 £24.00
+$30.00
 
-Default Title - £12
+Default Title - $30
 
 ADD TO TOTE
 
@@ -371,65 +330,45 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-858 reviews (859)
+869 reviews (869)
 
-£31.00
+$38.00
 
-Default Title - £31
+Default Title - $38
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-earth-day-award_5f820e94-8db7-4f53-92e2-88fc33703b6d.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
-[37% off
-
-![lavender-niacinamide--pore-minimizer-tonique](https://www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_239x254.png?v=1696450154)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
+[![lavender-niacinamide--pore-minimizer-tonique](https://www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_239x254.png?v=1696450154)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
 ![ FG1FLNPMT_Primary](//www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_220x.png?v=1696450154)
 
 ### [Lavender Niacinamide Pore Minimizer Tonique](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
-74 reviews (74)
+77 reviews (77)
 
-£10.00 £16.00
+$19.00
 
-Default Title - £10
-
-ADD TO TOTE
-
-[![10%-fruit-acids-apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_239x254.png?v=1696450271)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-![ FGFAERS_Primary](//www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_220x.png?v=1696450271)
-
-### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
-
-75 reviews (75)
-
-£20.00
-
-Default Title - £20
+Default Title - $19
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2019-cert-clean-beauty-awards_f8ee0482-640f-4d06-9684-b33f8c6cf113.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-[29% off
-
-![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
+[![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
 ![ 1CELLBT_Primary](//www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_220x.jpg?v=1695867746)
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1549 reviews (1549)
+1557 reviews (1557)
 
-£17.00 £24.00
+$30.00 $30.00
 
-Black Tea - £17 Dark Chocolate - £24 Blackberry - £24
+Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
 
 Black Tea
-
-Sale
 
 Blackberry
 
@@ -439,41 +378,55 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
-
-[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
-
-![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
-
-### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
-
-1416 reviews (1416)
-
-£47.00
-
-Default Title - £47
-
-ADD TO TOTE
-
 [![mattifying-primer](https://www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_239x254.jpg?v=1627034480)](https://www.100percentpure.com/products/mattifying-primer)
 
 ![ Mattifying Primer](//www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_220x.jpg?v=1627034480)
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1021 reviews (1021)
+1121 reviews (1121)
 
-£36.00
+$45.00
 
-Default Title - £36
+Default Title - $45
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/veggie-awards-2023-bronze-2.png?crop=center&height=85&v=1723125369&width=85)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+[![10%-fruit-acids-apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_239x254.png?v=1696450271)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+![ FGFAERS_Primary](//www.100percentpure.com/cdn/shop/files/FGFAERS_Primary_220x.png?v=1696450271)
+
+### [10% Fruit Acids Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+81 reviews (81)
+
+$25.00
+
+Default Title - $25
+
+ADD TO TOTE
+
+[![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
+
+![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
+
+### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
+
+685 reviews (685)
+
+$48.00
+
+Default Title - $48
 
 ADD TO TOTE
 
 Subtotal
 
-£0.00
+$0.00
 
-##### £0.00
+##### $0.00
 
 Get 20% Off on Your Birthday!
 
@@ -481,11 +434,11 @@ Taxes and shipping calculated at checkout
 
 Checkout
 
-or 4 interest-free payments of **£0.00** with ![Klarna Logo](https://www.100percentpure.com/s/files/1/0648/1955/files/output-onlinepngtools_5a519f58-c1c2-40c9-a3f7-2fdd4d395767.png?v=1698173346&em-origin=cdn.shopify.com)
+or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100percentpure.com/s/files/1/0648/1955/files/output-onlinepngtools_5a519f58-c1c2-40c9-a3f7-2fdd4d395767.png?v=1698173346&em-origin=cdn.shopify.com)
 
  
 
-[🎉 Semi-Annual Sale Drop 3 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!](https://www.100percentpure.com/collections/semi-annual-sale "🎉 Semi-Annual Sale Drop 3 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!")
+[TODAY ONLY! ACAI FACIAL SCRUB LOCK-IN and SAVE FLASH DEALS!](https://www.100percentpure.com/collections/lock-in-save "TODAY ONLY! ACAI FACIAL SCRUB LOCK-IN and SAVE FLASH DEALS!")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
@@ -517,8 +470,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Conditioner](https://www.100percentpure.com/collections/conditioner)
     * [Treatments](https://www.100percentpure.com/collections/hair-treatments)
     * [Hand](https://www.100percentpure.com/collections/hand)
-    * [Hand Lotion](https://www.100percentpure.com/collections/hand-lotions)
-    * [Hand Sanitizer & Wash](https://www.100percentpure.com/collections/hand-sanitizer)
+    * [Hand Wash & Creams](https://www.100percentpure.com/collections/hand-lotions)
     * [Nail Polish](https://www.100percentpure.com/collections/nail-polish)
     
     #### [Ph](https://www.100percentpure.com/)
@@ -610,8 +562,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Conditioner](https://www.100percentpure.com/collections/conditioner)
     * [Treatments](https://www.100percentpure.com/collections/hair-treatments)
 * [Hand](https://www.100percentpure.com/collections/hand-lotions)
-    * [Hand Lotions](https://www.100percentpure.com/collections/hand-lotions)
-    * [Hand Sanitizer Products](https://www.100percentpure.com/collections/hand-sanitizer)
+    * [Hand Wash & Creams](https://www.100percentpure.com/collections/hand-lotions)
 * [Nail Polish](https://www.100percentpure.com/collections/nail-polish)
 * [Body](https://www.100percentpure.com/collections/bath-body)
     * [Body Wash](https://www.100percentpure.com/collections/body-wash)
@@ -692,9 +643,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
         
 * [Hand](https://www.100percentpure.com/collections/hand-lotions)
     
-    * [Hand Lotions](https://www.100percentpure.com/collections/hand-lotions)
-        
-    * [Hand Sanitizer Products](https://www.100percentpure.com/collections/hand-sanitizer)
+    * [Hand Wash & Creams](https://www.100percentpure.com/collections/hand-lotions)
         
 * [Nail Polish](https://www.100percentpure.com/collections/nail-polish)
     
@@ -933,7 +882,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(GBP £)
+(USD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
