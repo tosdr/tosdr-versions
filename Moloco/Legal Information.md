@@ -1,4 +1,12 @@
-[![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/)
+[![](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/66aa37bffbaf345075a702c8_x.svg)](#)
+
+###### Join us at MAU Vegas (April 2 - 4, 2024). Discover exclusive events and connect with the Moloco team.
+
+[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](#)[Learn more
+
+![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/mau-vegas-2024)
+
+[![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/?r=0)
 
 ##### Products
 
@@ -340,7 +348,7 @@
 
 [![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/on-demand-webinar-trends-and-tips-for-mobile-app-growth-in-sea-2023)
 
-[![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/)
+[![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/?r=0)
 
 ![Click here to change the language](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b26262a2d236b857f596_Language-icon.webp)
 
@@ -687,7 +695,7 @@ EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2
 
 **‍**  
 
-[![Moloco white logo](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/62a9400479333a5aae13d9ea_Moloco_logo_Horiz_Wht.webp)](https://www.molocoads.com/)
+[![Moloco white logo](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/62a9400479333a5aae13d9ea_Moloco_logo_Horiz_Wht.webp)](https://www.molocoads.com/?r=0)
 
 #### **Solutions**
 
@@ -714,7 +722,7 @@ Privacy Policy | Brand Safety Policy  |  Advertising Policy
 
 ![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.molocoads.com/contact-us)
 
-[![Moloco white logo](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/62a9400479333a5aae13d9ea_Moloco_logo_Horiz_Wht.webp)](https://www.molocoads.com/)
+[![Moloco white logo](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/62a9400479333a5aae13d9ea_Moloco_logo_Horiz_Wht.webp)](https://www.molocoads.com/?r=0)
 
 ##### Products
 
@@ -738,9 +746,4 @@ Privacy Policy | Brand Safety Policy  |  Advertising Policy
 
 ![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.molocoads.com/contact-us)
 
-[![arrow top](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/65435e8e96ed588921f26792_Chevron%20-%20White.svg)](#Hero-section) 
-
-![](https://px.ads.linkedin.com/collect/?pid=1102092&fmt=gif)
-
-![](https://www.facebook.com/tr?id=397722709042332&ev=PageView
-&noscript=1)
+[![arrow top](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/65435e8e96ed588921f26792_Chevron%20-%20White.svg)](#Hero-section)
