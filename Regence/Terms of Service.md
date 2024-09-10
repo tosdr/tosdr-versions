@@ -2,7 +2,7 @@
 
 Sign in
 
-[Individuals & Families](https://www.regence.com/sign-in/?audience=individual)[Medicare](https://www.regence.com/sign-in/?audience=medicare)[For Employers](https://employercenter.regence.com/)[For Producers](https://chs1.force.com/producercenter/login?expid=QUAD)[For Providers](https://www.regence.com/provider/secure-portal)
+[Individuals & Families](https://www.regence.com/sign-in/?audience=individual)[Medicare](https://www.regence.com/sign-in/?audience=medicare)[For Employers](https://employercenter.regence.com/)[For Producers](https://chs1.my.site.com/producercenter/login?expid=QUAD)[For Providers](https://www.regence.com/provider/secure-portal)
 
 * * *
 
@@ -10,7 +10,7 @@ Don't have a member account yet? [Create one](https://www.regence.com/member/reg
 
 Sign in
 
-[Individuals & Families](https://www.regence.com/sign-in/?audience=individual)[Medicare](https://www.regence.com/sign-in/?audience=medicare)[For Employers](https://employercenter.regence.com/)[For Producers](https://chs1.force.com/producercenter/login?expid=QUAD)[For Providers](https://www.regence.com/provider/secure-portal)
+[Individuals & Families](https://www.regence.com/sign-in/?audience=individual)[Medicare](https://www.regence.com/sign-in/?audience=medicare)[For Employers](https://employercenter.regence.com/)[For Producers](https://chs1.my.site.com/producercenter/login?expid=QUAD)[For Providers](https://www.regence.com/provider/secure-portal)
 
 * * *
 
