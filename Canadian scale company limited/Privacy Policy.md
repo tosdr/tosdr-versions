@@ -12,7 +12,7 @@ Privacy Policy
 * [Contact Us](https://www.canscale.com/contactus.html "Contact Us")
 * [Search](https://www.canscale.com/search.html "Search")
 
-Last modified: Wednesday, 22-Dec-2021 01:09:20 UTC
+Last modified: Tuesday, 21-Dec-2021 20:09:20 EST
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -194,6 +194,6 @@ Celebrating 100 Years—1924-2024
 
 Copyright © 1997—2024, Canadian Scale Company Limited. All Rights Reserved.
 
-Last modified: Wednesday, 22-Dec-2021 01:09:20 UTC
+Last modified: Tuesday, 21-Dec-2021 20:09:20 EST
 
 Server: 64.68.203.174
