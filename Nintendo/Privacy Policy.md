@@ -8,7 +8,7 @@ All categories
 
 Loading
 
-[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/regionselector/)
+[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/region-selector/)
 
 My Nintendo StoreGamesNintendo Switch[News & Events](https://www.nintendo.com/us/whatsnew/)Play Nintendo
 
@@ -16,7 +16,7 @@ All categories
 
 [Nintendo](https://www.nintendo.com/us/)
 
-[](https://www.nintendo.com/us/store/)[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/regionselector/)
+[](https://www.nintendo.com/us/store/)[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)](https://www.nintendo.com/us/region-selector/)
 
 [](https://www.nintendo.com/us/wish-list/)[](https://www.nintendo.com/us/cart/)
 
@@ -73,7 +73,7 @@ We use your information to deliver, maintain and improve our services, including
 
 Whenever you contact us, we use the information that you provide to us to help resolve issues you might be having when you use our services. We also use information, such as your email address or phone number, to respond to you when you contact us, to let you know about changes to our policies and terms, to let you know about changes or improvements to our services and to inform you about other services that we offer.
 
-We may use cookies, or other similar technologies, on some of the features of our services. Cookies are small files that are typically downloaded to the browser application on your device. We also may permit our third-party service providers to set cookies and similar technologies within our services to perform various analytics functions and to provide you with targeted advertisements that may be relevant to you. To learn more about how we, or our third-party service providers, may use these cookies, and to manage your preferences as they relate to the collection and use of cookies across our website and services, go [here](https://www.nintendo.com/us/interest-based-ads-policy/).
+We may use cookies, or other similar technologies, on some of the features of our services. Cookies are small files that are typically downloaded to the browser application on your device. We also may permit our third-party service providers to set cookies and similar technologies within our services to perform various analytics functions and to provide you with targeted advertisements that may be relevant to you. To learn more about how we, or our third-party service providers, may use these cookies, and to manage your preferences as they relate to the collection and use of cookies across our website and services, go [here](https://www.nintendo.com/us/privacy-request/#cookies).
 
 We do not, and will not sell your information to third parties. However, we permit third-party service providers to collect personal information, as described [here](https://www.nintendo.com/us/interest-based-ads-policy/), through some of our services and we share personal information with third party service providers for business purposes as described in this policy, including but not limited to providing advertising on our services and elsewhere based on users’ online activities over time and across different sites, services, and devices.
 
@@ -200,4 +200,4 @@ You may also contact ESRB Privacy Certified via email at [privacy@esrb.org](mai
 
 [Contact us](https://en-americas-support.nintendo.com/app/contact)[Website feedback](https://nintendoofamerica.co1.qualtrics.com/jfe/form/SV_dp1F1wielOUu20t)[Terms of Use](https://www.nintendo.com/terms-of-use/)[Documents & Policies](https://en-americas-support.nintendo.com/app/legal/a_id/48057/)
 
-[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/regionselector/)
+[![Flag of Usa](https://assets.nintendo.com/image/upload/c_scale,w_24,q_auto/ncom/global/flags-change-region/FlagUsaIconRegionSelect.png)English (United States)](https://www.nintendo.com/us/region-selector/)
