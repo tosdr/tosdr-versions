@@ -9,11 +9,11 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-AXT1800 / Slate AX](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg) | ###### Travel Router<br><br>[GL-MT3000 / Beryl AX NEW](https://www.gl-inet.com/products/gl-mt3000/)  <br>[GL-AXT1800 / Slate AX](https://www.gl-inet.com/products/gl-axt1800/)  <br>[GL-A1300 / Slate Plus](https://www.gl-inet.com/products/gl-a1300/)  <br>[GL-MT1300 / Beryl](https://www.gl-inet.com/products/gl-mt1300/)  <br>[GL-SFT1200 / Opal](https://www.gl-inet.com/products/gl-sft1200/)  <br>[GL-E750V2 / Mudi V2 NEW](https://www.gl-inet.com/products/gl-e750/) |
+    | ![GL-AXT1800 / Slate AX](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg) | ###### Travel Router<br><br>[GL-MT3000 / Beryl AX POPULAR](https://www.gl-inet.com/products/gl-mt3000/)  <br>[GL-AXT1800 / Slate AX](https://www.gl-inet.com/products/gl-axt1800/)  <br>[GL-A1300 / Slate Plus](https://www.gl-inet.com/products/gl-a1300/)  <br>[GL-MT1300 / Beryl](https://www.gl-inet.com/products/gl-mt1300/)  <br>[GL-SFT1200 / Opal](https://www.gl-inet.com/products/gl-sft1200/)  <br>[GL-E750V2 / Mudi V2](https://www.gl-inet.com/products/gl-e750/) |
     
     |     |     |
     | --- | --- |
-    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-E750V2 / Mudi V2 NEW](https://www.gl-inet.com/products/gl-e750/)  <br>[GL-XE3000 / Puli AX NEW](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX NEW](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
+    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-XE3000 / Puli AX](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX POPULAR](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
     
     |     |     |
     | --- | --- |
@@ -21,7 +21,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-MT6000 / Flint 2 NEW](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble UPCOMING](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/) |
+    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-MT6000 / Flint 2 POPULAR](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble NEW](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/) |
     
     |     |     |
     | --- | --- |
@@ -33,7 +33,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-M2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_m2.jpg) | ###### Board & Module<br><br>[M2 Dev Board / GL-M2](https://www.gl-inet.com/products/gl-m2/) NEW |
+    | ![GL-M2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_m2.jpg) | ###### Board & Module<br><br>[M2 Dev Board / GL-M2](https://www.gl-inet.com/products/gl-m2/) |
     
     |     |
     | --- |
@@ -42,11 +42,11 @@
     
 * [Business](https://www.gl-inet.com/business/)
     
-    [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Router](https://www.gl-inet.com/solutions/vpn/)
+    [eSIM Solution](https://www.gl-inet.com/solutions/esim/) [Tailored Network Solutions for SMBs](https://www.gl-inet.com/solutions/smb/) [RV Connectivity Solution](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network Solution](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [4G LTE Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud IoT Device Management System](https://www.gl-inet.com/solutions/goodcloud/) [Site-to-Site for Work & Business](https://www.gl-inet.com/solutions/site-to-site/) [White Label and Customization Service](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/) [Use Cases](https://www.gl-inet.com/usecases/)
     
 * [Community](https://www.gl-inet.com/community/)
     
-    [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Use Cases](https://www.gl-inet.com/usecases/) [Influencers Program](https://www.gl-inet.com/influencers/) [Rewards Program](https://store.gl-inet.com/pages/rewards-page) [Beta Testing Program](https://www.gl-inet.com/beta-testing/) [Educational Offer](https://www.gl-inet.com/educational-discount/) [Newsroom](https://www.gl-inet.com/press/) [Where to buy](https://www.gl-inet.com/where-to-buy/)
+    [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Influencers Program](https://www.gl-inet.com/influencers/) [Loyalty Program](https://store.gl-inet.com/pages/rewards-page) [Beta Testing Program](https://www.gl-inet.com/beta-testing/) [Educational Offer](https://www.gl-inet.com/educational-discount/) [Newsroom](https://www.gl-inet.com/press/) [Where to buy](https://www.gl-inet.com/where-to-buy/)
     
 * [Support](https://www.gl-inet.com/contacts/)
     
@@ -242,7 +242,7 @@ We also take measures to delete your Personal Information or keep it in a form t
 You have the following rights in connection with your personal data, subject to possible legal restrictions:
 
 * Right to update your account. Through your account settings, you can update and change your Personal Information, such as preferences. your account. However, we may maintain the original information for necessary.
-* Right to restriction of processing. You have the right to restrict the processing of your personal data. For example, you can choose whether you will receive our marketing and promotional emails or not. You can press the “unsubscribe” button at the end of the email or contact us at [support@glinet.biz](mailto:support@glinet.biz) to file a request. However, if you delete your account, you may not be able to fully use the Service.
+* Right to restriction of processing. You have the right to restrict the processing of your personal data. For example, you can choose whether you will receive our marketing and promotional emails or not. You can press the “unsubscribe” button at the end of the email or contact us at [support@gl-inet.com](mailto:support@gl-inet.com) to file a request. However, if you delete your account, you may not be able to fully use the Service.
 * Right to erasure. Should you wish to delete your data, you have the option to do so in the administration section of our software. We will then erase your data in accordance with legal requirements. Additionally, we would like to point out that we are able to block your data immediately. But due to technical restrictions it may take up to 180 days to permanently delete your data, provided there are no legal obligations and statutory rights preventing deletion.
 
 11 Accessing, Reviewing and Changing Your Personal Information
@@ -283,7 +283,7 @@ You have the right to request access and receive information about the Personal 
 
 In addition, if we rely on consent for the processing of your Personal Information, you have the right to withdraw it at any time and free of charge. When you do so, this will not affect the lawfulness of the processing before your consent withdrawal.
 
-GL.iNet is the entity responsible for the processing of your Personal Information, and you may exercise your rights to your Personal Information by emailing us at: [support@glinet.biz](mailto:support@glinet.biz).
+GL.iNet is the entity responsible for the processing of your Personal Information, and you may exercise your rights to your Personal Information by emailing us at: [support@gl-inet.com](mailto:support@gl-inet.com).
 
 14 Privacy of Children Online
 -----------------------------
@@ -305,7 +305,7 @@ We may update this Privacy Policy from time to time. If we modify our Privacy Po
 17 Contact Us
 -------------
 
-If you have any questions, comments or complaints about this Privacy Policy and our privacy practices, or would like to update your privacy preferences, please contact us at: [support@glinet.biz](mailto:support@glinet.biz) or write to us at: GL Technologies (HK) Limited, Unit 601, Building 5W, Hong Kong Science Park, Shatin, N.T., Hong Kong
+If you have any questions, comments or complaints about this Privacy Policy and our privacy practices, or would like to update your privacy preferences, please contact us at: [support@gl-inet.com](mailto:support@gl-inet.com) or write to us at: GL Technologies (HK) Limited, Unit 601, Building 5W, Hong Kong Science Park, Shatin, N.T., Hong Kong
 
 This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
@@ -313,17 +313,18 @@ This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
 * [Solutions](https://www.gl-inet.com/solutions/) [RV Connectivity](https://www.gl-inet.com/solutions/rv-connectivity/) [WiFi 6 & 5G NR Network](https://www.gl-inet.com/solutions/wifi-6-and-5g-nr-network/) [Cellular Connectivity](https://www.gl-inet.com/solutions/4g-iot-cellular-connectivity/) [GoodCloud](https://www.gl-inet.com/solutions/goodcloud/) [Simplified SDWAN](https://www.gl-inet.com/solutions/site-to-site/) [White Label](https://www.gl-inet.com/solutions/white-label-service/) [VPN on Routers](https://www.gl-inet.com/solutions/vpn/)
 
-* [Where to buy](https://www.gl-inet.com/where-to-buy/) [Webstore](https://www.gl-inet.com/where-to-buy/) [Amazon](https://www.gl-inet.com/where-to-buy/) [AliExpress](https://www.gl-inet.com/where-to-buy/) [Shopee](https://www.gl-inet.com/where-to-buy/) [Hot Deals](https://www.gl-inet.com/deals/) [Educational Discount](https://www.gl-inet.com/campaign/back-to-school/) [Refurbished Product](https://www.gl-inet.com/refurbished/)
+* [Where to buy](https://www.gl-inet.com/where-to-buy/) [Webstore](https://www.gl-inet.com/privacy-policy/store.gl-inet.com/)
+[Amazon](https://www.gl-inet.com/where-to-buy/)[AliExpress](https://www.gl-inet.com/where-to-buy/)[Shopee](https://www.gl-inet.com/where-to-buy/)[Hot Deals](https://www.gl-inet.com/deals/)[Educational Discount](https://www.gl-inet.com/campaign/back-to-school/)[Refurbished Product](https://www.gl-inet.com/refurbished/)
 
-* [Community](https://www.gl-inet.com/community/) [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Documentation](https://docs.gl-inet.com/router/en/3/) [Firmwares](https://dl.gl-inet.com/) [GitHub](https://github.com/gl-inet/) [Apps](https://www.gl-inet.com/app/)
+* [Community](https://www.gl-inet.com/community/) [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Documentation](https://docs.gl-inet.com/router/en/) [Firmwares](https://dl.gl-inet.com/) [GitHub](https://github.com/gl-inet/) [Apps](https://www.gl-inet.com/app/)
 
-* [Use Cases](https://www.gl-inet.com/usecases/) [Healthcare](https://www.gl-inet.com/usecases/healthcare-connecting-medical-iot-devices-to-the-cloud/) [Retails](https://www.gl-inet.com/usecases/retail-reducing-vending-machine-restock-trips/) [HVAC](https://www.gl-inet.com/usecases/hvac-network-infrastructure-for-cold-chain-logistics/) [Agriculture](https://www.gl-inet.com/usecases/smart-agriculture-taking-real-time-body-temperature-of-2160-hogs/) [Energy](https://www.gl-inet.com/usecases/smart-energy-portable-gateways-for-energy-maintenance-in-rural-areas/) [IT](https://www.gl-inet.com/usecases/it-mass-wifi-connectivity-for-co-working-space/)
+* [Use Cases](https://www.gl-inet.com/usecases/) [Healthcare](https://www.gl-inet.com/usecases/) [Retails](https://www.gl-inet.com/usecases/) [Transportation](https://www.gl-inet.com/usecases/) [Agriculture & Manufacturing](https://www.gl-inet.com/usecases/) [Smart Home & IoT Mesh](https://www.gl-inet.com/usecases/) [Network Connectivity](https://www.gl-inet.com/usecases/)
 
 * [Contact Us](https://www.gl-inet.com/contacts/) [Newsroom](https://www.gl-inet.com/press/) [Influencers Program](https://www.gl-inet.com/influencers) [Career](https://www.gl-inet.com/jobs/) [Business Inquiries](https://www.gl-inet.com/business/) [Sales Support](https://www.gl-inet.com/business/) [Tech Support](https://www.gl-inet.com/contacts/) [Security Support](https://www.gl-inet.com/security-support/)
 
 * ##### Connect with Us
     
-    [](https://www.facebook.com/gl.inet.wifi/)[](https://www.facebook.com/GLINETUS/)[](https://twitter.com/GLiNetWiFi)[](https://medium.com/glinet)[](https://www.linkedin.com/company/gl-inet.com/)[](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg)[](https://www.pinterest.com/glinetWiFi/)[](https://github.com/gl-inet/)[](https://www.reddit.com/user/GLiNet_WiFi)[](https://forum.gl-inet.com/)[](https://www.instagram.com/gl.inet/)[](https://www.instagram.com/glinet.us/)[](https://www.tiktok.com/@gl.inet)[](https://discord.gg/SybeWJJ6Bs)
+    [](https://www.facebook.com/gl.inet.wifi/)[](https://www.facebook.com/GLINETUS/)[](https://www.facebook.com/profile.php?id=61561514011042)[](https://www.instagram.com/gl.inet/)[](https://www.instagram.com/glinet.us/)[](https://www.instagram.com/glinet.eu/)[](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg)[](https://www.tiktok.com/@gl.inet)[](https://twitter.com/GLiNetWiFi)[](https://www.reddit.com/user/GLiNet_WiFi)[](https://www.linkedin.com/company/gl-inet.com/)[](https://discord.gg/SybeWJJ6Bs)[](https://github.com/gl-inet/)[](https://forum.gl-inet.com/)
     
 * [About GL.iNet](https://www.gl-inet.com/about-us/)
     
@@ -334,10 +335,12 @@ This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
 [![glinet biz logo](https://static.gl-inet.com/www/images/home/logo/biz-group_logo.png)](https://www.glinet.biz/)
 
-[![GL.iNet logo](https://static.gl-inet.com/www/images/home/logo/glinet_logo.png)](https://www.gl-inet.com/)[![AstroRelay logo](https://static.gl-inet.com/www/images/home/logo/astrorelay_logo.png)](https://astrorelay.com/)[![Astrowarp logo](https://static.gl-inet.com/www/images/home/logo/astrowarp_logo.png)](https://www.astrowarp.net/)[![UMINO logo](https://static.gl-inet.com/www/images/home/logo/umino_logo.png)](https://www.umino.io/)[![Refala logo](https://static.gl-inet.com/www/images/home/logo/vixmini_logo.png)](https://vixmini.com/)
+[![GL.iNet logo](https://static.gl-inet.com/www/images/home/logo/glinet_logo.png)](https://www.gl-inet.com/)[![AstroRelay logo](https://static.gl-inet.com/www/images/home/logo/astrorelay_logo.png)](https://www.astrorelay.com/)[![Astrowarp logo](https://static.gl-inet.com/www/images/home/logo/astrowarp_logo.png)](https://www.astrowarp.net/)[![Lafaer logo](https://static.gl-inet.com/www/images/home/logo/lafaer_logo.png)](https://www.lafaer.co//)[![UMINO logo](https://static.gl-inet.com/www/images/home/logo/umino_logo.png)](https://www.umino.io/)
 
 Copyright © 2024 GL Technologies (HK) Ltd & Microuter Technologies Ltd & GL Intelligence, Inc
 
 [Terms & Condition](https://www.gl-inet.com/terms-of-service/) | [Privacy Policy](https://www.gl-inet.com/privacy-policy/) | [Environment](https://www.gl-inet.com/environment/)
 
 ![](https://static.gl-inet.com/www/images/freshchat.png)
+
+![](https://www.facebook.com/tr?id=1721931538583350&ev=PageView&noscript=1)
