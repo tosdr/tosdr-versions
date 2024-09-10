@@ -1,9 +1,9 @@
 TERMS OF SERVICE AGREEMENT
 ==========================
 
-**Last Updated: April 4, 2024**
+**Last Updated: September 9, 2024**
 
-Welcome to one of Flatiron Media’s suite of content and promotions websites. These sites include flatironmedia.com, mydailymoment.com (.com/.net/.info/.biz/.us/.co), homeownerdiscountclub.net, mdmexclusives.com, divineeats.com, divinepets.com, ilovesamples.com, thinkhealthier.com (.com/.net/.info/.biz/.us/.), everydaywinner.com (.com/.net), sweepsreport.com, breakingliberalnews.com and dailyconservativeupdates.com. We sincerely hope that you will enjoy your experience. The following terms and conditions ("Terms") apply to your access to and use of this website as well as the other websites and online products and services, including e-mail newsletters, (collectively, the "Services") provided by Flatiron Media LLC ("Flatiron Media" or "we"). By accessing or using the Services, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 14, do not access or use the Services.
+Welcome to one of Flatiron Media’s suite of content and promotions websites. These sites include flatironmedia.com, mydailymoment.com (.com/.net/.info/.biz/.us/.co), homeownerdiscountclub.net, mdmexclusives.com, ilovesamples.com, thinkhealthier.com (.com/.net/.info/.biz/.us/.co), everydaywinner.com (.com/.net/.org), sweepsreport.com (.net), breakingliberalnews.com and dailyconservativeupdates.com. We sincerely hope that you will enjoy your experience. The following terms and conditions ("Terms") apply to your access to and use of this website as well as the other websites and online products and services, including e-mail newsletters, (collectively, the "Services") provided by Flatiron Media LLC ("Flatiron Media" or "we"). By accessing or using the Services, you agree to these Terms. If you do not agree to these Terms, including the mandatory arbitration provision and class action waiver in Section 14, do not access or use the Services.
 
 * * *
 
@@ -82,7 +82,7 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 
 |     |     |
 | --- | --- |
-| Address: | 20 Jay St, Ste #1018,  <br>Brooklyn, NY 11201 |
+| Address: | 7014 13th Avenue, Suite 202,  <br>Brooklyn, NY 11228 |
 | Fax Number: | 917 591 6797 |
 | E-Mail Address: | DMCA@flatironmedia.com |
 
@@ -221,6 +221,6 @@ Wireless carriers are not liable for any delayed or undelivered messages.
 Official correspondence must be sent via postal mail to:
 
 Flatiron Media LLC  
-20 Jay St  
-Ste #1018  
-Brooklyn, NY 11201
+7014 13th Avenue  
+Suite 202  
+Brooklyn, NY 11228
