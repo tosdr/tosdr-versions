@@ -1,4 +1,4 @@
-[](#) **[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
+[](#) **[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
 
 * [INDIVIDUALS](https://brandyourself.com/reputation-management-software)
     
@@ -15,7 +15,7 @@
     * [Negative Google Result Services](https://brandyourself.com/reputation-management-services)
     * [Personal Branding Services](https://brandyourself.com/personal-branding-services)
     
-    ![image description](//s2.brandyourself.com/themes/default/images/chart-5.png)
+    ![image description](//s3.brandyourself.com/themes/default/images/chart-5.png)
     
     Not sure where to start? [get my free scan](https://brandyourself.com/sign-up)
     
@@ -30,9 +30,9 @@
     * [Glassdoor Review Management](https://brandyourself.com/glassdoor-review-management)
     * [Employee Branding Services](https://brandyourself.com/employee-branding-services)
     
-    ![image description](//s1.brandyourself.com/themes/default/images/img89-2.png)
+    ![image description](//s3.brandyourself.com/themes/default/images/img89-2.png)
     
-    We’re here to help. [Call 0800 404 7328](tel:+4408004047328)
+    We’re here to help. [Call (646) 863-8282](tel:+16468638282)
     
     Call now for a free, no-pressure consultation to learn how we can help.
     
@@ -58,7 +58,7 @@
     * [Contact Us](https://brandyourself.com/contact)
     
 
-* [![image description](//s3.brandyourself.com/themes/default/images/icon-60.svg)0800 279 6225](tel:+4408002796225)
+* [![image description](//s1.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
 * [Log in](https://brandyourself.com/login)
 * [free reputation report](https://brandyourself.com/sign-up)
 
@@ -87,7 +87,7 @@ While privacy policies are inevitably dense and filled with legalese, we wanted 
         
     4. **Cookies:** We strive to use only the absolute minimum amount of cookies required to make your experience seamless. For example, while many sites store lots of unnecessary cookies that track behavior, we only store ones that are critical to your experience, such as ones that allow you to return to BrandYourself without having to log-in every single time. And if you ever want to clear your cookies (from or BrandYourself or from any other company), [here’s how to do it](https://us.norton.com/internetsecurity-privacy-how-to-clear-cookies.html).
         
-3. **YOU are in control:** You always have the right to [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection) we have about you, [opt out of any marketing messaging](https://brandyourself.com/account-settings) in your account settings, or [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection). You can also contact us by [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection), calling us at 0800 279 6225, or live-chatting us (just click the “Live Chat” button on the bottom of your screen). While laws like CCPA and GDPR offer these types of rights to residents of certain areas, we offer them to all of our users. To learn more about the information we collect, how we use it, etc you can read the rest of our policy.
+3. **YOU are in control:** You always have the right to [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection) we have about you, [opt out of any marketing messaging](https://brandyourself.com/account-settings) in your account settings, or [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection). You can also contact us by [\[email protected\]](https://brandyourself.com/cdn-cgi/l/email-protection), calling us at (646) 863-8226, or live-chatting us (just click the “Live Chat” button on the bottom of your screen). While laws like CCPA and GDPR offer these types of rights to residents of certain areas, we offer them to all of our users. To learn more about the information we collect, how we use it, etc you can read the rest of our policy.
     
     1. Here are links that will allow you to opt out tracking done by our various partners on this site. Their cookies and related tracking elements are NOT part of our private VPN servers and will never ever be placed there for tracking by us.
         
@@ -365,7 +365,7 @@ The following capitalized terms shall have the meanings herein as set forth belo
 
 **CONTACT US**
 
-* Call Us At [0800 279 6225](tel:+4408002796225)
+* Call Us At [(646) 863-8226](tel:+16468638226)
 * [Contact Us](https://brandyourself.com/contact)
 * [Partners](https://brandyourself.com/partners)
 * [Facebook](https://www.facebook.com/officialbrandyourself)
@@ -384,6 +384,6 @@ The following capitalized terms shall have the meanings herein as set forth belo
 **AS FEATURED ON:**
 
 * [![shark tank](//s3.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
-* [![wsj](//s1.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
-* [![forbes](//s1.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
-* [![npr](//s2.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
+* [![wsj](//s2.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
+* [![forbes](//s3.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
+* [![npr](//s3.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
