@@ -410,6 +410,12 @@ Find the Bonterra Customer Support SLA that governs all Bonterra Products after 
 
 [Review the Customer Support Service Level Agreement](https://www.everyaction.com/sites/default/files/2024-07/premium_support_slas.pdf)
 
+### Human Rights & Modern Slavery Statement
+
+Find details about how Bonterra Tech is committed to upholding human rights and eradicating modern slavery in all its forms across our operations.
+
+[Review the Human Rights & Modern Slavery statement](https://www.everyaction.com/legal/human-rights-modern-slavery)
+
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
 
 [Show — Footer Top Links](#show-block-footertoplinks) [Hide — Footer Top Links](#hide-block-footertoplinks)
