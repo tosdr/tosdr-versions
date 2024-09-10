@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=830117941892171&ev=PageView&noscript=1)      Terms of Use - Mega Seating Plan: Classroom seating chart generator                                      
+
 [Mega Seating Plan ![](/static/img/2023/logo/White.svg)](https://www.seatingplan.com/) 
 
 Open menu
@@ -79,7 +81,7 @@ Mega Seating Plan Ltd is registered as a company in England and Wales (registrat
 
 Mega Seating Plan Ltd is registered with the Information Commissioner's Office (#ZA331933).
 
-Mega Seating Plan Ltd is registered for VAT in the United Kingdom (394 7232 69) and in the European Union (EU372042551).
+Mega Seating Plan Ltd is registered for VAT in the United Kingdom (394723269) and in the European Union (EU372042551).
 
 © Mega Seating Plan Ltd 2015-2024
 
