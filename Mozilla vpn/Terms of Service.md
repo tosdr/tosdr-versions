@@ -19,7 +19,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
 
 [Download Firefox ESR 32-bit](https://download.mozilla.org/?product=firefox-esr-latest-ssl&os=win&lang=en-US)
 
-[Download a different build](https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr)
+[Download a different build](https://www.mozilla.org/en-US/firefox/all/desktop-esr/)
 
 **Firefox is [no longer supported](https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support) on macOS 10.14 and below.**
 
@@ -65,7 +65,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
     * [#### Release Notes
         
-        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/128.0.3/releasenotes/)
+        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/130.0/releasenotes/)
         
     
     [View all Firefox Browsers](https://www.mozilla.org/en-US/firefox/)
