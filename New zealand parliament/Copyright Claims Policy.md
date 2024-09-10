@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240731_052020000/hamilton-ryan/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/select-committee-faqs/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240731_052020000/hamilton-ryan/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/select-committee-faqs/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -60,7 +60,6 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/r
     * [Information for the press](https://www.parliament.nz/en/get-involved/information-for-the-press/)
     * [Contact an MP](https://www.parliament.nz/en/get-involved/have-your-say/contact-an-mp/)
     * [This week in Parliament](https://www.parliament.nz/en/get-involved/the-week-in-parliament/)
-    * [Youth Parliament 2022](https://www.parliament.nz/en/get-involved/youth-parliament-2022/)
     * [Parliamentary Engagement](https://www.parliament.nz/en/footer/about-us/parliamentary-engagement/)
     
 * [Visit and Learn](https://www.parliament.nz/en/visit-and-learn/)
@@ -98,23 +97,40 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/r
     For more information about tours and visiting Parliament, click here.](https://www.parliament.nz/en/visit-and-learn/visit/)
     
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
+[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House is meeting today](https://videos.parliament.nz/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](http://www.radionz.co.nz/audio/live/parliament)
+* [Listen](#audio-notlive-popup)
+
+### Listen
+
+There is no current live audio feed.
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
+* [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
+* [FAQ](https://www.parliament.nz/en/footer/faq/)
+* [Careers](https://jobs.parliament.nz/)
+* [Contact us](https://www.parliament.nz/en/footer/contact-us/)
+* [Accessibility](https://www.parliament.nz/en/footer/accessibility/)
+* [Copyright](https://www.parliament.nz/en/footer/copyright/)
+* [Privacy](https://www.parliament.nz/en/footer/privacy/)
+* [Website Help](https://www.parliament.nz/en/footer/website-help/)
+* [Sitemap](https://www.parliament.nz/en/sitemap/)
 
- [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000) Replay
+[![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House is meeting today](https://videos.parliament.nz/)
+The House is meeting today](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
-* [Listen](http://www.radionz.co.nz/audio/live/parliament)
+* [Listen](#audio-notlive-popup)
+
+### Listen
+
+There is no current live audio feed.
 
 Copyright
 =========
@@ -231,5 +247,14 @@ For more information on contempts of the House, please see [Parliamentary privil
 [View all](#)
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
+* [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
+* [FAQ](https://www.parliament.nz/en/footer/faq/)
+* [Careers](https://jobs.parliament.nz/)
+* [Contact us](https://www.parliament.nz/en/footer/contact-us/)
+* [Accessibility](https://www.parliament.nz/en/footer/accessibility/)
+* [Copyright](https://www.parliament.nz/en/footer/copyright/)
+* [Privacy](https://www.parliament.nz/en/footer/privacy/)
+* [Website Help](https://www.parliament.nz/en/footer/website-help/)
+* [Sitemap](https://www.parliament.nz/en/sitemap/)
 
 ![The shielded site](https://shielded.co.nz/img/custom-logo.png)   [Back to top](# "Back to top")
