@@ -19,24 +19,17 @@ We're having problems with our phones at the moment, so unfortunately you won't 
 * Breakdown cover
 
 * [Breakdown cover](https://www.greenflag.com/breakdown-cover)
-* [Rescue](https://www.greenflag.com/breakdown-cover/rescue)
-* [Rescue Plus](https://www.greenflag.com/breakdown-cover/rescue-plus)
-* [Recovery](https://www.greenflag.com/breakdown-cover/recovery)
-* [Recovery Plus](https://www.greenflag.com/breakdown-cover/recovery-plus)
-* [Euro Plus](https://www.greenflag.com/breakdown-cover/european/plus)
 * [Personal cover](https://www.greenflag.com/breakdown-cover/personal)
 * [Multi-Car cover](https://www.greenflag.com/breakdown-cover/multi-car)
 * [Family cover](https://www.greenflag.com/breakdown-cover/family)
 * [Caravan & trailer cover](https://www.greenflag.com/breakdown-cover/caravan-trailer)
 * [Motorbike Cover](https://www.greenflag.com/breakdown-cover/motorbike)
 * [Electric vehicle cover](https://www.greenflag.com/breakdown-cover/electric-vehicle)
-* [Policy documents](https://www.greenflag.com/breakdown-cover/policy-documents)
 * [Green Flag App](https://www.greenflag.com/apps)
 
 * European breakdown cover
 
 * [European breakdown cover](https://www.greenflag.com/breakdown-cover/european)
-* [Euro Plus](https://www.greenflag.com/breakdown-cover/european/plus)
 * [Driving In Europe](https://www.greenflag.com/driving-in-europe)
 * [Road trips](https://www.greenflag.com/driving-in-europe/road-trips)
 * [Driving advice](https://www.greenflag.com/driving-in-europe/driving-advice)
@@ -57,19 +50,13 @@ We're having problems with our phones at the moment, so unfortunately you won't 
     
     [Breakdown cover](https://www.greenflag.com/breakdown-cover)
     
-    * [Rescue](https://www.greenflag.com/breakdown-cover/rescue)
-    * [Rescue Plus](https://www.greenflag.com/breakdown-cover/rescue-plus)
-    * [Recovery](https://www.greenflag.com/breakdown-cover/recovery)
-    * [Recovery Plus](https://www.greenflag.com/breakdown-cover/recovery-plus)
-    * [Euro Plus](https://www.greenflag.com/breakdown-cover/european/plus)
-    * [Green Flag App](https://www.greenflag.com/apps)
-    
     * [Personal cover](https://www.greenflag.com/breakdown-cover/personal)
     * [Multi-car cover](https://www.greenflag.com/breakdown-cover/multi-car)
     * [Family cover](https://www.greenflag.com/breakdown-cover/family)
     * [Caravan & motorhome cover](https://www.greenflag.com/breakdown-cover/caravan-trailer)
     * [Motorbike cover](https://www.greenflag.com/breakdown-cover/motorbike)
     * [Electric vehicle cover](https://www.greenflag.com/breakdown-cover/electric-vehicle)
+    * [Green Flag App](https://www.greenflag.com/apps)
     
     #### Be prepared for any journey. Check out the Green Flag shop.
     
@@ -79,19 +66,10 @@ We're having problems with our phones at the moment, so unfortunately you won't 
     
     [European breakdown cover](https://www.greenflag.com/breakdown-cover/european)
     
-    * [Euro Plus](https://www.greenflag.com/breakdown-cover/european/plus)
     * [Driving in Europe](https://www.greenflag.com/driving-in-europe)
     * [Road trips](https://www.greenflag.com/driving-in-europe/road-trips)
     * [Driving advice](https://www.greenflag.com/driving-in-europe/driving-advice)
     * [Scenic route](https://www.greenflag.com/driving-in-europe/scenic-route)
-    
-    #### Personal Cover from £20
-    
-    Cover for yourself, as well as your vehicle.
-    
-    Can be added to single vehicle cover. Available for vehicles under 16 years old, privately registered and being used in the UK.
-    
-    [Learn more](https://www.greenflag.com/breakdown-cover/personal)
     
 * [Business breakdown cover](https://www.greenflag.com/breakdown-cover/fleet)
 * [Shop and services](https://www.greenflag.com/wcfmc)
