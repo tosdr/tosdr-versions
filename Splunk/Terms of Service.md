@@ -9,7 +9,7 @@
 
 false  
 
- [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-acc-rgb-k-web.svg) logo](https://www.splunk.com/)
+ [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg) logo](https://www.splunk.com/)
 
 * [Support](#)
     
@@ -50,7 +50,7 @@ false
         * [Splunk Synthetic Monitoring](https://monitoring.rigor.com/)
         * [Splunk Web Optimization](https://optimization.rigor.com/)
 
- [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-acc-rgb-k-web.svg) logo](https://www.splunk.com/)
+ [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg) logo](https://www.splunk.com/)
 
 * [Products](#)
     
@@ -190,6 +190,8 @@ false
     * [Digital Resilience](https://www.splunk.com/en_us/solutions/digital-resilience.html)
         
     * [Artificial Intelligence](https://www.splunk.com/en_us/solutions/digital-resilience-ai.html)
+        
+    * [Data Management](https://www.splunk.com/en_us/solutions/data-management.html)
         
     * [Tool Consolidation](https://www.splunk.com/en_us/solutions/tool-consolidation.html)
         
@@ -382,7 +384,7 @@ false
 
          
 
- [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-acc-rgb-k-web.svg) logo](https://www.splunk.com/)
+ [![logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg) logo](https://www.splunk.com/)
 
 [Free Splunk](https://www.splunk.com/en_us/download/splunk-cloud.html)
 
@@ -553,6 +555,8 @@ Business Initiatives
 
 [Artificial Intelligence](https://www.splunk.com/en_us/solutions/digital-resilience-ai.html)
 
+[Data Management](https://www.splunk.com/en_us/solutions/data-management.html)
+
 [Tool Consolidation](https://www.splunk.com/en_us/solutions/tool-consolidation.html)
 
 [Cloud Transformation](https://www.splunk.com/en_us/solutions/cloud-transformation.html)
@@ -714,6 +718,8 @@ PRODUCT LOGINS
 * [Splunk On-Call](https://portal.victorops.com/membership/#/)
 * [Splunk Synthetic Monitoring](https://monitoring.rigor.com/)
 * [Splunk Web Optimization](https://optimization.rigor.com/)
+
+  
 
   
 
@@ -901,17 +907,16 @@ LEARN
 
 LEARN
 
-* [What is SIEM?](https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html)
-* [An Introduction to Observability](https://www.splunk.com/en_us/blog/learn/observability.html)
-* [Cyber Threat Intelligence (CTI): An Introduction](https://www.splunk.com/en_us/blog/learn/cyber-threat-intelligence-cti.html)
-* [The OSI Model in 7 Layers](https://www.splunk.com/en_us/blog/learn/osi-model.html)
-* [Telemetry 101: An Introduction](https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html)
-* [What is Site Reliability Engineering?](https://www.splunk.com/en_us/blog/learn/site-reliability-engineer-sre-role.html)
-* [DORA Metrics: The Complete Guide](https://www.splunk.com/en_us/blog/learn/devops-metrics.html)
-* [Network Monitoring: How It Works](https://www.splunk.com/en_us/blog/learn/network-monitoring.html)
-* [InfoSec: An Introduction to Information Security](https://www.splunk.com/en_us/blog/learn/infosec-information-security.html)
-* [Network Security: A Complete Introduction](https://www.splunk.com/en_us/blog/learn/network-security.html)
-* [Root Cause Analysis: A Beginner's Guide to RCA](https://www.splunk.com/en_us/blog/learn/root-cause-analysis.html)
+* [OpenTelemetry: An Introduction](https://www.splunk.com/en_us/blog/learn/opentelemetry.html)
+* [Red Team vs Blue Team](https://www.splunk.com/en_us/blog/learn/red-team-vs-blue-team.html)
+* [What is Multimodal AI?](https://www.splunk.com/en_us/blog/learn/multimodal-ai.html)
+* [An Introduction to Distributed Systems](https://www.splunk.com/en_us/blog/learn/distributed-systems.html)
+* [Data Lake vs Data Warehouse](https://www.splunk.com/en_us/blog/learn/data-warehouse-vs-data-lake.html)
+* [What is Business Impact Analysis?](https://www.splunk.com/en_us/blog/learn/business-impact-analysis-bia.html)
+* [Risk Management Frameworks Explained](https://www.splunk.com/en_us/blog/learn/risk-management-frameworks.html)
+* [CVE: Common Vulnerabilities and Exposures](https://www.splunk.com/en_us/blog/learn/cve-common-vulnerabilities-exposures.html)
+* [What are DORA Metrics?](https://www.splunk.com/en_us/blog/learn/devops-metrics.html)
+* [View All Articles](https://www.splunk.com/en_us/blog/learn.html)
 
 CONTACT SPLUNK
 
@@ -936,7 +941,7 @@ SPLUNK MOBILE
 
  [![ Download Splunk Mobile on the Google Play store](/content/dam/splunk2/en_us/images/logos/google-play-badge-lrg.png)](http://splk.it/android)
 
- [![Splunk Global Footer Logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-acc-rgb-k-web.svg) Splunk Global Footer Logo](https://www.splunk.com/)
+ [![Splunk Global Footer Logo](/content/dam/splunk2/en_us/images/icon-library/footer/logo-splunk-corp-rgb-k-web.svg) Splunk Global Footer Logo](https://www.splunk.com/)
 
 * [Twitter](https://twitter.com/splunk "Twitter")
 * [Facebook](https://www.facebook.com/splunk "Facebook")
