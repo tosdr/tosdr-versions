@@ -1,4 +1,4 @@
-[Register For Our Auction](https://www.bobswatches.com/auctions/dive-watches-summer-auction)
+[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
 
 100% Certified Authentic
 
