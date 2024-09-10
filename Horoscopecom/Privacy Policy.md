@@ -42,7 +42,11 @@
 
 [See all zodiac signs   →](https://www.horoscope.com/zodiac-signs)
 
-[Psychics](https://www.horoscope.com/us/psychics/KEEN-psychic-reading.aspx?tid=JSBGOZET) [Store](https://store.horoscope.com/?utm_source=direct&utm_medium=organic&utm_campaign=main-nav-store) [Subscribe](https://www.horoscope.com/us/emails/email-subscription.aspx)
+[PsychicsFree 3-Minute Reading](https://www.horoscope.com/psychics)
+
+[Love & Sex](https://www.horoscope.com/psychics/love.html) [Psychics](https://www.horoscope.com/psychics/psychics.html) [Tarot](https://www.horoscope.com/psychics/tarot.html) [All   →](https://www.horoscope.com/psychics)
+
+[Store](https://store.horoscope.com/?utm_source=direct&utm_medium=organic&utm_campaign=main-nav-store) [Subscribe](https://www.horoscope.com/us/emails/email-subscription.aspx)
 
 [](https://www.facebook.com/horoscopedotcom)[](https://www.instagram.com/horoscopedotcom/)[](https://twitter.com/horoscopedotcom)[](https://www.youtube.com/c/HoroscopecomVideos)
 
