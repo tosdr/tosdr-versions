@@ -178,11 +178,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[7 Jun](https://twitter.com/walterslawgroup/status/1799083689336557841)
+[4 Sep](https://twitter.com/walterslawgroup/status/1831350235307630692)
 
-New article on Cosplay and the law by our associate attorney @DJturnedJD https://www.feslr.com/\_files/ugd/c00664\_85e129290463492aaadf72a86a04080e.pdf
+Comments on Tic Tok Section 230 ruling from Third Circuit https://communicationsdaily.com/article/2024/09/04/tech-interests-turn-to-scotus-after-3rd-circuits-tiktok-holding-2409030044
 
-[Reply on Twitter 1799083689336557841](https://twitter.com/intent/tweet?in_reply_to=1799083689336557841&related=walterslawgroup) [Retweet on Twitter 1799083689336557841 2](https://twitter.com/intent/retweet?tweet_id=1799083689336557841&related=walterslawgroup) [Like on Twitter 1799083689336557841 3](https://twitter.com/intent/like?tweet_id=1799083689336557841&related=walterslawgroup) [Twitter 1799083689336557841](https://twitter.com/walterslawgroup/status/1799083689336557841)
+[Reply on Twitter 1831350235307630692](https://twitter.com/intent/tweet?in_reply_to=1831350235307630692&related=walterslawgroup) [Retweet on Twitter 1831350235307630692](https://twitter.com/intent/retweet?tweet_id=1831350235307630692&related=walterslawgroup) [Like on Twitter 1831350235307630692 1](https://twitter.com/intent/like?tweet_id=1831350235307630692&related=walterslawgroup) [Twitter 1831350235307630692](https://twitter.com/walterslawgroup/status/1831350235307630692)
 
 [Load More](javascript:void(0);)
 
