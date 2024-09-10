@@ -371,7 +371,7 @@ Can we help? Close
     
     [Cover choices](https://www.ing.com.au/insurance/pet-insurance.html#ING-content-2)
     
-    [Retrieve a quote](https://ing-pet.disconline.com.au/quote-retrieval)
+    [Retrieve a quote](https://ing-pet.disconline.com.au/#/quote-retrieval)
     
     [Make a claim](https://www.ing.com.au/insurance/pet-insurance.html#ING-content-5)
     
