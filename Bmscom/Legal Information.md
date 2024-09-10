@@ -218,7 +218,9 @@ Patients & caregivers _Next Page Icon_
 
 [Risk evaluation and mitigation strategies (REMS)](https://www.bms.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies.html)
 
-QUICK LINKS
+[Plain language summaries of clinical trial results](https://www.bms.com/patient-and-caregivers/plain-language-summary.html)
+
+Related links
 
 [Immunology patient resources](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources.html)
 
@@ -238,7 +240,7 @@ Healthcare providers _Next Page Icon_
 
 [340B practice fact sheet](https://www.bms.com/assets/bms/us/en-us/pdf/BMS-340B-Practice-Fact-Sheet.pdf)
 
-QUICK LINKS
+Related links
 
 [U.S. medical information](http://www.bmsmedinfo.com/)
 
@@ -264,21 +266,13 @@ Researchers _Next Page Icon_
 
 [Independent research](https://www.bms.com/researchers-and-partners/independent-research.html)
 
-[The Thomas O. Daniel research incubator and collaboration center](https://www.bms.com/researchers-and-partners/bms-incubator.html)
-
-QUICK LINKS
-
-[Perspectives from our head of research](https://www.plengegen.com/)
+Related links
 
 [Research publications](https://www.bms.com/researchers-and-partners/our-r-and-d-team/research-publications.html)
 
 [Disclosure commitment](https://www.bms.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html)
 
-[Investigator sponsored research portal](https://fasttrack.bms.com/Login)
-
-[Areas of interest & competitive research grants](https://www.bms.com/researchers-and-partners/independent-research/competitive-research-grants.html)
-
-[Compound & technology requests](https://www.bms.com/researchers-and-partners/independent-research/compound-and-technology-requests.html)
+[Areas of interest & research grants](https://www.bms.com/researchers-and-partners/independent-research/competitive-research-grants.html)
 
 [Data sharing request process](https://www.bms.com/researchers-and-partners/independent-research/data-sharing-request-process.html)
 
@@ -302,23 +296,17 @@ Investors _Next Page Icon_
 
 [Investor contacts](https://www.bms.com/investors/investor-contacts.html)
 
-QUICK LINKS
+Related links
 
-[Annual report 2023](https://annual-report.bms.com/)
+[Annual reports](https://www.bms.com/investors/financial-reporting/annual-reports.html)
 
 [Dividend history](https://www.bms.com/investors/stock-information/dividend-history.html)
-
-[Stock split history](https://www.bms.com/investors/stock-information/stock-split-history.html)
 
 [Investment return calculator](https://www.bms.com/investors/stock-information/investment-return-calculator.html)
 
 [SEC filings](https://www.bms.com/investors/financial-reporting/sec-filings.html)
 
 [Quarterly results](https://www.bms.com/investors/financial-reporting/quarterly-results.html)
-
-[Annual reports archive](https://www.bms.com/investors/financial-reporting/annual-reports.html)
-
-[Annual meeting of shareholders](https://www.bms.com/investors/shareholder-services/annual-meeting-of-shareholders.html)
 
 Business development _Next Page Icon_
 
@@ -336,11 +324,11 @@ Business development _Next Page Icon_
 
 [Early innovation at BMS](https://www.bms.com/business-development/early-innovation.html)
 
-QUICK LINKS
+Related links
 
 [Download business development brochure](https://www.bms.com/assets/bms/us/en-us/pdf/bms-business-development-brochure.pdf)
 
-["Golden Ticket" contests](https://www.bms.com/business-development/early-innovation/golden-ticket-submission.html)
+"Golden Ticket" contests
 
 News _Next Page Icon_
 
@@ -354,7 +342,7 @@ News _Next Page Icon_
 
 [Media contacts](https://www.bms.com/media/media-contacts.html)
 
-QUICK LINKS
+Related links
 
 [Scientific media resources](https://www.bms.com/media/media-library/scientific-media-resources.html)
 
@@ -372,29 +360,27 @@ About us _Next Page Icon_
 
 [Global Inclusion & Diversity](https://www.bms.com/about-us/global-diversity-and-inclusion.html)
 
-[Responsibility](https://www.bms.com/about-us/responsibility.html)
-
-[Sustainability at Bristol Myers Squibb](https://www.bms.com/about-us/sustainability.html)
+[Our impact](https://www.bms.com/about-us/our-impact.html)
 
 [Contact us](https://www.bms.com/about-us/contact-us.html)
 
-QUICK LINKS
+[Working at BMS](https://www.bms.com/about-us/working-at-bms.html)
+
+Related links
 
 [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
 
 [Our technologies](https://www.bms.com/about-us/our-company/our-technologies.html)
 
-[History timeline](https://www.bms.com/about-us/our-company/history-timeline.html)
+[Our history](https://www.bms.com/about-us/our-company/history-timeline.html)
 
-[Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
+[Our locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
 [The Bristol Myers Squibb Foundation](https://www.bms.com/about-us/responsibility/bristol-myers-squibb-foundation.html)
 
-[People & Business Resource groups](https://www.bms.com/about-us/global-diversity-and-inclusion/people-and-business-resource-groups.html)
+[Resource groups](https://www.bms.com/about-us/global-diversity-and-inclusion/people-and-business-resource-groups.html)
 
-[Our commitment to global inclusion and diversity](https://www.bms.com/about-us/global-diversity-and-inclusion/diversity-and-inclusion-report.html)
-
-[Position on key issues](https://www.bms.com/about-us/responsibility/position-on-key-issues.html)
+[Our positions](https://www.bms.com/about-us/responsibility/position-on-key-issues.html)
 
 Privacy Notice Center - Bristol Myers Squibb
 ============================================
@@ -413,19 +399,20 @@ Jump to:
 General Privacy Notice
 ----------------------
 
-##### **Click [here](https://www.bms.com/assets/bms/us/en-us/pdf/general-privacy-notice.pdf) to download or print a copy of this BMS general privacy notice.**
+##### **Click [here](https://www.bms.com/assets/bms/us/en-us/pdf/general-privacy-notice.pdf) to download or print a copy of this BMS general privacy notice.** 
 
-##### If you are a healthcare professional, you can access our other notice here: [**HCP Privacy Notice**](#hcp).  
+##### If you are a healthcare professional, you can access our other notice here:  
+[**HCP Privacy Notice**](#hcp).  
  
 
 ##### **BMS-acquired companies**:
 
-* For Mirati, click **[here](https://www.bms.com/assets/bms/us/en-us/pdf/mirati_privacy.pdf)**
+* For Mirati, click **[**here**](https://www.bms.com/assets/bms/us/en-us/pdf/mirati_privacy.pdf)**
+* For Karuna, click [**here**](https://www.bms.com/assets/bms/us/en-us/pdf/karuna_privacy.pdf)
 
-##### **United States Privacy laws**  
+##### **United States Privacy laws**
 
-#####   
-If you reside in California, Colorado, Connecticut, Virginia, or Utah, please find additional information here: [**State Privacy Rights section**](#general16).
+##### If you reside in California, Colorado, Connecticut, Virginia, or Utah, please find additional information here: [****State Privacy Rights section****](#general16).
 
 #####   
 **BMS US Consumer Health Data Privacy Policy**
@@ -1801,6 +1788,6 @@ Follow us
 * [Contact us](https://www.bms.com/about-us/contact-us.html)
 * [Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
-July 19, 2024
+August 05, 2024
 
-© 2024 [Bristol-Myers Squibb Company](https://www.bms.com/)
+© 2024 Bristol-Myers Squibb Company
