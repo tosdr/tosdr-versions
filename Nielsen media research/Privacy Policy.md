@@ -100,6 +100,8 @@ Explore what consumers are watching, playing and listening to around the world.
 
 [Olympic Games](https://www.nielsen.com/data-center/paris-2024-olympic-games-hub/)
 
+[Election Data Hub](https://www.nielsen.com/data-center/2024-election-data-hub/)
+
 [**Methodology**](https://www.nielsen.com/data-center/data-center/#methodology)
 
 [Big Data](https://www.nielsen.com/insights/2023/pros-and-cons-of-big-data-in-audience-measurement/)
@@ -181,6 +183,7 @@ Data Center
 * [Top Trends – Denmark](https://www.nielsen.com/data-center/top-ten-denmark/)
 * [Top Trends – Germany](https://www.nielsen.com/data-center/top-ten-deutschland/)
 * [Olympic Games](https://www.nielsen.com/data-center/paris-2024-olympic-games-hub/)
+* [Election Data Hub](https://www.nielsen.com/data-center/2024-election-data-hub/)
 * [Big Data](https://www.nielsen.com/insights/2023/pros-and-cons-of-big-data-in-audience-measurement/)
 * [Panels](https://www.nielsen.com/insights/2023/what-is-panel-data-and-why-does-it-matter/)
 * [Big Data + Panel](https://www.nielsen.com/data-center/big-data-panel/)
@@ -269,7 +272,7 @@ Notice: JavaScript is required for this content.
 
 Copyright © 2024 The Nielsen Company (US), LLC. All Rights Reserved.
 
-[Privacy notice](https://www.nielsen.com/legal/privacy-principles/) | [Terms of use](https://www.nielsen.com/legal/terms-of-use/) | [Do not sell or share my personal information](https://sites.nielsen.com/legal/privacy-statement/exelate-privacy-policy/opt-in-opt-out/#)  
+[Privacy notice](https://www.nielsen.com/legal/privacy-principles/website-privacy-statement/) | [Terms of use](https://www.nielsen.com/legal/terms-of-use/) | [Do not sell or share my personal information](https://sites.nielsen.com/legal/privacy-statement/exelate-privacy-policy/opt-in-opt-out/#)  
 [Limit the use of my sensitive personal information](https://www.nielsen.com/legal/optout-page/)[Nielsen Marketing Cloud Privacy Statement](https://www.nielsen.com/legal/privacy-principles/nielsen-marketing-cloud-services-privacy-statement/) | [Integrity Helpline](https://secure.ethicspoint.com/domain/media/en/gui/75886/index.html) | [Health Privacy Notice](https://www.nielsen.com/legal/consumer-health-privacy-notice/)
 
 [粤ICP备17078252号](https://beian.miit.gov.cn/) | [粤公网安备44010402001179号](https://beian.miit.gov.cn/) | 上海尼尔森市场研究有限公司广州分公司
