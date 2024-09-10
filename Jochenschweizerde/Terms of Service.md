@@ -2,7 +2,7 @@
 * ![](/fragments/header/modern/static/media/halfClock.766f57b0ff3e281d22c742945ddd1efc.svg)Flexible Gutscheine für Zeit, Ort und Erlebnis
 * ![](/fragments/header/modern/static/media/headset.d61fa7c5969ec34f5d5274be46f5d45f.svg)Ausgezeichneter Kundenservice
 
-[![](/fragments/header/modern/static/media/paybackBadge.a0738b45ca3442b832187803e22f7793.svg)PAYBACK](https://www.jochen-schweizer.de/infoseite/payback/l/ueyrz)[FAQ](https://kundenservice.jochen-schweizer.de/)
+[![](/fragments/header/modern/static/media/paybackBadge.e5d024eee720ca33ed10b18850822fa5.svg)PAYBACK](https://www.jochen-schweizer.de/infoseite/payback/l/ueyrz)[FAQ](https://kundenservice.jochen-schweizer.de/)
 
 [Jobs](https://career.jsmd-group.com/)[Erlebnispartner werden](https://partner.jsmd-group.com/)
 
@@ -231,8 +231,6 @@ Benutzerkonto
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Nutzungsbedingungen
 
-![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/FriendsDeal_SNB_desktop_250x120.jpg)
-
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
 * [Kurzurlaub](https://www.jochen-schweizer.de/kurzurlaub/l/d48wi)
@@ -347,7 +345,7 @@ Newsletter abonnieren und 5 € Rabatt sichern
 
 [![Facebook](/fragments/footer/modern/static/media/facebook.b6e556bc78d55622c03b2b65a17f6827.svg)](https://www.facebook.com/JochenSchweizer.de "Facebook")[![Instagram](/fragments/footer/modern/static/media/instagram.74a435027bfa127c72bc6261d69b42ac.svg)](https://www.instagram.com/jochenschweizer_erlebnisse/ "Instagram")[![Pinterest](/fragments/footer/modern/static/media/pinterest.e1ee2d354470f9eeee5b2c6f992f2afd.svg)](https://www.pinterest.de/jochenschweizererlebnisse/ "Pinterest")[![Youtube](/fragments/footer/modern/static/media/youtube.86a4825de1aa7bf355c4847a180ca03f.svg)](https://www.youtube.com/user/wwwJochenSchweizerde "Youtube")
 
-[FAQs](https://kundenservice.jochen-schweizer.de/)[Kontakt](https://www.jochen-schweizer.de/ContactForm/JS_KONTAKT/l/sx94k)[Zahlungsarten](https://www.jochen-schweizer.de/bezahlung/zahlungsarten/l/6wy78)[Über uns](https://www.jochen-schweizer.de/unternehmen/ueber-uns/l/7pk9h?selectedTab=unternehmen)[Magazin](https://magazin.jochen-schweizer.de/)[Jobs](https://career.jsmd-group.com/)[Partnerprogramm](https://www.jochen-schweizer.de/partnerprogramm/affiliate-partner/l/dapo7)[![PAYBACK](/fragments/footer/modern/static/media/paybackBadge.a0738b45ca3442b832187803e22f7793.svg)
+[FAQs](https://kundenservice.jochen-schweizer.de/)[Kontakt](https://www.jochen-schweizer.de/ContactForm/JS_KONTAKT/l/sx94k)[Zahlungsarten](https://www.jochen-schweizer.de/bezahlung/zahlungsarten/l/6wy78)[Über uns](https://www.jochen-schweizer.de/unternehmen/ueber-uns/l/7pk9h?selectedTab=unternehmen)[Magazin](https://magazin.jochen-schweizer.de/)[Jobs](https://career.jsmd-group.com/)[Partnerprogramm](https://www.jochen-schweizer.de/partnerprogramm/affiliate-partner/l/dapo7)[![PAYBACK](/fragments/footer/modern/static/media/paybackBadge.e5d024eee720ca33ed10b18850822fa5.svg)
 
 PAYBACK](https://www.jochen-schweizer.de/infoseite/payback/l/ueyrz)[Versand und Lieferung
 
