@@ -64,9 +64,9 @@ When you use a Site or send communications to us through a Site, you are communi
 
 ### G. Intellectual Property
 
-If you believe any Content on the Services infringes your copyrights, you may request that we remove the Content from the Services (or disable access to that Content) by following the instructions on [this page](https://www.salesforce.com/company/legal/intellectual-property/).  
+If you believe any Content on the Services infringes your copyrights, you may request that we remove the Content from the Services (or disable access to that Content) by following the instructions on [this page](https://www.salesforce.com/company/legal/dmca/).  
   
-You can find our Trademark and Copyright Usage Guidelines on [this page](https://www.salesforce.com/company/legal/intellectual-property/).
+You can find our Trademark and Copyright Usage Guidelines on [this page](https://www.salesforce.com/company/legal/tmcusageguidelines/).
 
 ### H. Social Networks
 
