@@ -299,7 +299,7 @@ Sicherheit
 * SSL-Verschlüsselung
 * Volle Kostenkontrolle
 
-![](/assets/images/png/ssl-certificate.png?1721387165)
+![](/assets/images/png/ssl-certificate.png?1722939247)
 
 Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
 
@@ -556,25 +556,25 @@ Rechtliches
 
 Zahlungsarten
 
-![MasterCard](/assets/images/payment/mastercard.svg?1721387165 "MasterCard")
+![MasterCard](/assets/images/payment/mastercard.svg?1722939247 "MasterCard")
 
-![Visa](/assets/images/payment/visa.svg?1721387165 "Visa")
+![Visa](/assets/images/payment/visa.svg?1722939247 "Visa")
 
-![Klarna](/assets/images/payment/klarna.svg?1721387165 "Klarna")
+![Klarna](/assets/images/payment/klarna.svg?1722939247 "Klarna")
 
-![Paypal](/assets/images/payment/paypal.svg?1721387165 "Paypal")
+![Paypal](/assets/images/payment/paypal.svg?1722939247 "Paypal")
 
-![Giropay](/assets/images/payment/giropay.svg?1721387165 "Giropay")
+![Giropay](/assets/images/payment/giropay.svg?1722939247 "Giropay")
 
 Folge uns
 
 [](https://www.facebook.com/MeinOrtel)[](https://www.instagram.com/ortelmobile_official/)[](https://www.youtube.com/@OrtelMobileDE)[](https://www.tiktok.com/@ortel.mobile)
 
-![Produktqualität](/assets/images/png/Siegel_Produktqualitaet_2024.png?1721387165 "Produktqualität") ![Fairster Mobilfunkanbieter](/assets/images/png/Siegel_Fairster_Mobilfunkanbieter_2024.png?1721387165 "Fairster Mobilfunkanbieter") ![Preis Champion](/assets/images/png/Siegel_Preis_Champions_2024.png?1721387165 "Preis Champion")
+![Ortel Mobile Siegel](/assets/images/png/Siegel_2024.png?1722939247 "Ortel Mobile Siegel")
 
-[Nach oben scrollen ![top](/assets/icons/prev-white.svg?1721387165)](# "Nach oben scrollen") 
+[Nach oben scrollen ![top](/assets/icons/prev-white.svg?1722939247)](# "Nach oben scrollen") 
 
-![](?1721387398) Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
+![](?1722939464) Ortel Mobile ist ein Unternehmen der Telefónica Deutschland
 
   
 Du bist in Begriff **ortelmobile.de** zu verlassen, um auf die folgende Adresse weitergeleitet zu werden:
