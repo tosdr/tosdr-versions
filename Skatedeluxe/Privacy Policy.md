@@ -6,15 +6,15 @@ cookie-whitecookie-white
 
 [Customer service](https://www.skatedeluxe.com/en/customer-service)
 
-[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Withdrawal and Return](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
+[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
 
-![](../static/images/icons/phone-white.svg)
+![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
-0800 086 8664 Free Hotline Mon. - Fri. 8-18 | Sat. 9-13
+0800 0700 440 Free Hotline (DE, AT, CH) Mon. - Fri. 9-19 | Sat. 10-14
 
 | English
 
-United Kingdom | English
+Germany | English
 
 Country shops
 
@@ -175,7 +175,7 @@ Search result for "%search\_keywords%"
 
 ### View new items in the shop instead:
 
-[SKATE SHOP](https://www.skatedeluxe.com/en)
+[](https://www.skatedeluxe.com/en)
 
 [Brands](https://www.skatedeluxe.com/en/all-brands "Brands")
 
@@ -740,3 +740,9 @@ Apply selection
 By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/privacy).  
 
 Accept all
+
+### Sorry - we currently don't ship to United States!
+
+Unfortunately, we can't accept orders from United States. We only ship within Europe and to Japan.
+
+ Close
