@@ -24,6 +24,13 @@
     * [Your Choices and Controls](https://insurance.mediaalpha.com/content/privacy-center.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#choices-and-controls)
 * [Terms of Use](https://insurance.mediaalpha.com/content/terms-of-use.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw)
 * [Cookies and Other Technologies](https://insurance.mediaalpha.com/content/privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#cookies-and-technologies)
+* [Consumer Health Data Privacy Policy](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw)
+    * [What consumer health data do we collect?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#what-health-data-we-collect)
+    * [From what sources do we collect consumer health data?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#what-sources-we-collect)
+    * [How and for what purposes do we use consumer health data?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#what-purposes-do-we-use)
+    * [When and how do we share consumer health data?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#when-how-we-share)
+    * [With whom do we share consumer health data?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#whom-do-we-share)
+    * [What are your choices and controls and how to exercise them?](https://insurance.mediaalpha.com/content/health-data-privacy-policy.html?;d2VT3kVf1gGfxYNuKhXs7OIyG53ATfvsyIbkLhTlcNI5Hc1SfAw#your-choices-controls)
 
 Table of Contents
 
