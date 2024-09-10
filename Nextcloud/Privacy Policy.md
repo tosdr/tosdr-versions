@@ -1,22 +1,10 @@
 [Skip to main content](#main)
 
-[![Nextcloud Hub 8 is here!
-](https://nextcloud.com/c/uploads/2024/03/nc-hub-8-icon-blue-gradient-custom-2.svg)](https://nextcloud.com/blog/nextcloud-hub8/ "Nextcloud Hub 8 is here!
-")
+[![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
-[**Nextcloud Hub 8** is here!](https://nextcloud.com/blog/nextcloud-hub8/ "Nextcloud Hub 8 is here!
-")
+[Nextcloud **Enterprise Day 2024**](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
-[Learn more](https://nextcloud.com/blog/nextcloud-hub8/ "Nextcloud Hub 8 is here!
-")
-
-[![CloudComputing-Insider-AWARD-2024-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![CloudComputing-Insider-AWARD-2024-image](https://nextcloud.com/c/uploads/2024/05/CloudComputing-Insider-AWARD-2024-image-1.png)](https://nextcloud.com/blog/vote-for-nextcloud-in-the-cloudcomputing-insider-award-2024/ "Vote for Nextcloud in the CloudComputing-Insider Award 2024")
-
-[IT-Awards 2024: **vote for Nextcloud!**](https://nextcloud.com/blog/vote-for-nextcloud-in-the-cloudcomputing-insider-award-2024/ "Vote for Nextcloud in the CloudComputing-Insider Award 2024")
-
-[Vote now](https://nextcloud.com/blog/vote-for-nextcloud-in-the-cloudcomputing-insider-award-2024/ "Vote for Nextcloud in the CloudComputing-Insider Award 2024")
+[Register now!](https://nextcloud.com/enterprise-day/ "Nextcloud Enterprise Day 2024")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -25,6 +13,19 @@
 [Nextcloud Community **Conference 2024**](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
 [Register now](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
+
+[![Nextcloud Hub 9 is coming!
+](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Nextcloud Hub 9 is coming!
+](https://nextcloud.com/c/uploads/2024/07/nc-hub9-logo-blue-gradient.svg)](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
+")
+
+[**Nextcloud Hub 9** is coming!](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
+")
+
+[Learn more](https://nextcloud.com/hub9/ "Nextcloud Hub 9 is coming!
+")
 
 [![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
@@ -59,6 +60,11 @@
             ![Nextcloud Assistant](https://nextcloud.com/c/uploads/2024/06/assistant-logo-blue.svg)
             
             Nextcloud AssistantPrivate and local AI assistant](https://nextcloud.com/assistant/)
+    * [![Roundcube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Roundcube](https://nextcloud.com/c/uploads/2024/08/Roundcube_logo_icon.svg)
+        
+        RoundcubeThe most popular on-prem webmail](https://nextcloud.com/roundcube/)
     * [Microsoft integrations](https://nextcloud.com/microsoft-integrations/)
 * [Solutions](# "Solutions")
     * [![Nextcloud Enterprise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -79,11 +85,12 @@
 * [Resources](#)
     * [Blog](https://nextcloud.com/blog/)
     * [Events](https://nextcloud.com/events/)
-    * [Press](https://nextcloud.com/press/)
     * [Webinars](https://nextcloud.com/webinars/)
+    * [Success stories](https://nextcloud.com/whitepapers/)
+    * [Whitepapers](https://nextcloud.com/whitepapers/#whitepapers)
+    * [Data sheets](https://nextcloud.com/whitepapers/#data-sheets)
     * [Nextcloud Podcast](https://nextcloud.com/podcast/)
     * [Documentation](https://nextcloud.com/support/)
-    * [Success stories](https://nextcloud.com/whitepapers/)
     * [App Store](https://apps.nextcloud.com/)
     * [FAQ](https://nextcloud.com/faq/)
     * [Support Portal](https://portal.nextcloud.com/)
@@ -99,6 +106,7 @@
 * [About](https://nextcloud.com/about/)
     * [About us](https://nextcloud.com/about/)
     * [Comparison with others](https://nextcloud.com/compare/)
+    * [Press](https://nextcloud.com/press/)
     * [Security](https://nextcloud.com/security/)
     * [Team](https://nextcloud.com/team/)
     * [Jobs](https://nextcloud.com/jobs/)
@@ -1049,6 +1057,7 @@ Search:
     * [Press](https://nextcloud.com/press/)
     * [Legal note](https://nextcloud.com/impressum/)
     * [Trademarks](https://nextcloud.com/trademarks/)
+    * [Brand guidelines](https://nextcloud.com/brand/)
     * [Features](https://nextcloud.com/features/ "Nextcloud features")
     * [Human Rights Policy](https://nextcloud.com/human-rights-policy/)
     * [Code of Ethics](https://nextcloud.com/code-of-ethics/)
