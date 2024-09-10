@@ -6,7 +6,10 @@ top of page
 * [Calculator](https://www.adbridg.com/calculator)
 * [Testimonials](https://www.adbridg.com/testimonials)
 * [About](https://www.adbridg.com/aboutus)
-* [Insights](https://www.adbridg.com/insights)
+* Insights
+    
+    * [Blog](https://www.adbridg.com/insights)
+    * [Google on Trial](https://www.adbridg.com/google-on-trial)
 * Еще...
     
 
