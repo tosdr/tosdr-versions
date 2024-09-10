@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
-        Report on Auditor-General's performance tabled
+        First Peoples of Victoria honoured at Parliament
         
-        Next](https://parliament.vic.gov.au/news/general-news/audit-report)[Next
+        Next](https://parliament.vic.gov.au/news/general-news/first-peoples-plaque)[Next
         
-        Flood report recommends retrofit of at-risk homes
+        Bill paves the way for funeral cost transparency
         
-        Next](https://parliament.vic.gov.au/news/environment/floodreport)[Next
+        Next](https://parliament.vic.gov.au/news/society/funeral-transparency)[Next
         
-        Vapes adding to a mounting e-waste problem
+        Forward thinking by a growing industry
         
-        Next](https://parliament.vic.gov.au/news/environment/vaping-ewaste)
+        Next](https://parliament.vic.gov.au/news/general-news/horticulture)
     
 * Visit Chevron-down
     
