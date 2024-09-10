@@ -21,9 +21,9 @@
 * [Login](https://www.justpark.com/auth/login)
 * [Sign Up](https://www.justpark.com/registration)
 
-Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)
+Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
 
-Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport Lounges
+Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesMcDonald's
 
 Cancellation Policies
 =====================
@@ -36,9 +36,9 @@ Non-reservable Parking
 
 EV Charging
 
-Fixed-term cancellation policy
+### Fixed-term cancellation policy
 
-If your booking has a fixed start & end time then it’s covered by the fixed-term policy.
+If your **booking has a fixed start & end time** then it’s covered by the fixed-term policy.
 
 We have three types of refund following a cancellation by the driver:
 
@@ -46,31 +46,39 @@ We have three types of refund following a cancellation by the driver:
 * A refund to your JustPark Wallet
 * No refund
 
-Refund to your original payment method\*
+* * *
+
+### Refund to your original payment method\*
 
 * Cancelled more than 21 days before booking starts
 * Or booking value is greater than £50 AND cancelled more than 24hrs before booking starts
 
 This will take up to 10 business days to reach your account
 
-For this refund type, the transaction fee is non refundable.
+_For this refund type, the transaction fee is non refundable._
 
-Refund to your JustPark Wallet
+* * *
+
+### Refund to your JustPark Wallet
 
 * Cancelled more than 24 hrs but less than 21 days before the booking starts AND booking value is less than £50
 * Refunds to your Wallet will be instant and can be used to make a new booking right away
 
-For this refund type, the transaction fee is added back to your JustPark Wallet, to be deducted on the next successful transaction.
+\*For this refund type, the transaction fee is added back to your JustPark Wallet, to be deducted on the next successful transaction.\*
 
-No refund
+* * *
+
+### No refund
 
 If you cancel less than 24hrs before your booking starts your booking becomes non-refundable
 
-Additional information
+* * *
+
+### Additional information
 
 In cases where the booking is cancelled by the space owner or JustPark, a full refund will be made to your original payment method\*, including the transaction fee.
 
-\* If your original payment method was the JustPark Wallet, funds will be returned there, if it was a split payment between Wallet and card payment, the funds will be returned as part Wallet, part card.
+_If your original payment method was the JustPark Wallet, funds will be returned there, if it was a split payment between Wallet and card payment, the funds will be returned as part Wallet, part card._
 
 Information
 
