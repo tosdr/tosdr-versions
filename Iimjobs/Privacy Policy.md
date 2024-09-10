@@ -185,7 +185,7 @@ Email: privacy@iimjobs.com
 
 [LEGAL JOBS](https://www.iimjobs.com/c/legal-jobs)
 
-[Legal Jobs](https://www.iimjobs.com/k/legal-jobs "Legal Jobs")[Regulatory Compliance Jobs](https://www.iimjobs.com/k/regulatory-compliance-jobs "Regulatory Compliance Jobs")[Litigation Jobs](https://www.iimjobs.com/k/litigation-jobs "Litigation Jobs")[Company Secretary Jobs](https://www.iimjobs.com/k/company-secretary-jobs "Company Secretary Jobs")[Intellectual Property Rights (IPR) Jobs](https://www.iimjobs.com/k/ipr-jobs "Intellectual Property Rights (IPR) Jobs")[Legal Jobs in BFSI](https://www.iimjobs.com/k/legal-bfsi-jobs "Legal Jobs in BFSI")
+[Regulatory Compliance Jobs](https://www.iimjobs.com/k/regulatory-compliance-jobs "Regulatory Compliance Jobs")[Litigation Jobs](https://www.iimjobs.com/k/litigation-jobs "Litigation Jobs")[Company Secretary Jobs](https://www.iimjobs.com/k/company-secretary-jobs "Company Secretary Jobs")[Intellectual Property Rights (IPR) Jobs](https://www.iimjobs.com/k/ipr-jobs "Intellectual Property Rights (IPR) Jobs")[Legal Jobs in BFSI](https://www.iimjobs.com/k/legal-bfsi-jobs "Legal Jobs in BFSI")[Legal Jobs in IT/ITeS](https://www.iimjobs.com/k/legal-it-ites-jobs "Legal Jobs in IT/ITeS")
 
 [BPO JOBS](https://www.iimjobs.com/c/bpo-jobs)
 
