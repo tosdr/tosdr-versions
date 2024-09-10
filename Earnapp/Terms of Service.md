@@ -33,9 +33,9 @@ Sorry, your platform is not yet supported by EarnApp
 * [FAQ](https://help.earnapp.com/)
 * [FAQ](https://earnapp.com/developer/faq)
 * [Blog](https://earnapp.com/blog)
-* [Log in](https://earnapp.com/dashboard/signin) [Sign Up](https://earnapp.com/dashboard/signup)
+* [Dashboard](https://earnapp.com/dashboard/)
 
-[Log in](https://earnapp.com/dashboard/signin) [Sign Up](https://earnapp.com/dashboard/signup)
+[Dashboard](https://earnapp.com/dashboard/)
 
 EULA (End User License Agreement)
 =================================
