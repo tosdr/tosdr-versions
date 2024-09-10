@@ -1,4 +1,4 @@
-         Unlimited Cloud Storage for life, Securely store any file. sCloud official | Skycloud                                            
+       Unlimited Cloud Storage for life, Securely store any file. sCloud official | Skycloud                                               
 
 [![sCloud www.scloud.live](https://scloud.live/skycloudnew1/skycloud_logo2017.PNG)](https://scloud.live/)
 =========================================================================================================
@@ -47,7 +47,7 @@ For a better experience, while using our Service, we may require you to provide 
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory. This Service does not use these "cookies" explicitly. However, the app may use third party code and libraries that use "cookies" to collection information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
   
 **Security**  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+We value your trust in providing us your Personal Information, thus we are striving to maintain a fully secure and compliant cloud infrastructure with many enhanced security methods and algorithms in place to fully secure user data which are commercially acceptable means of protecting it.  
 
 * [Find out more about the security that sCloud uses here.](https://scloud.live/Security "sCloud Security")
   
@@ -144,6 +144,7 @@ Choose a language
 *  [![](https://scloud.live/flags/icons8-england-48.png) English](https://scloud.live/?l=En#googtrans(en|en) "English")
 *  [![](https://scloud.live/flags/icons8-indonesia-48.png) Indonesian](https://scloud.live/?l=indonesian#googtrans(en|id) "Indonesian")
 *  [![](https://scloud.live/flags/icons8-portugal-48.png) Portuguese](https://scloud.live/?l=Portuguese#googtrans(en|pt) "Portuguese")
+*  [![](https://scloud.live/flags/arabic.png) Arabic](https://scloud.live/?l=Arabic#googtrans(en|ar) "Arabic")
 
   
 
