@@ -69,7 +69,7 @@ All Categories
 * [Tadalafil](https://www.genericday.com/mens-health/tadalafil.html/)
 * [Vardenafil](https://www.genericday.com/mens-health/vardenafil.html/)
 * [Avanafil](https://www.genericday.com/mens-health/avanafil.html/)
-* [Other ED Pills](https://www.genericday.com/mens-health/other-ed-pills.html/)
+* [Pain](https://www.genericday.com/categories/pain.html)
 * [Anxiety](https://www.genericday.com/categories/anxiety.html)
 * [Smart Pills](https://www.genericday.com/categories/smart-pills.html)
 
