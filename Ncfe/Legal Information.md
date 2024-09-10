@@ -8,9 +8,7 @@
 
    
 
-**Essential results information for centres, learners and parents of VTQ learners:** [Read more on our results page](https://www.ncfe.org.uk/approach-to-awarding/results/#statement), including what you need to know about T Level and alternative Level 3 qualification results, and V Cert results.
-
-**Questions about certification?** [Read our FAQs](https://www.ncfe.org.uk/qualifications/faqs/certification/ "Certification").
+**Important reminder:** The 2024-25 V Cert Non-Examined Assessment (NEA) brief for our Level 1/2 Technical Award qualifications will be released on 1 October 2024. [Find out more](https://www.ncfe.org.uk/customer-and-learner-support/service-messages/ "Service messages").
 
  [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
 
@@ -78,7 +76,7 @@
     
     * [Approval review](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/approval-review/)
         
-    * [User Guide to the Annual Monitoring Report](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/user-guide-to-annual-monitoring-report/)
+    * [Annual Monitoring Report](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/annual-monitoring-report/)
         
     * [External quality assurance review](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/review/)
         
@@ -170,6 +168,8 @@
         * [Replacement certificates form: learners](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/replacement-certificates/)
         * [Invalid certificate form](https://www.ncfe.org.uk/customer-and-learner-support/certificates/invalid-certificate-form/)
         * [Verification of achievement](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/verification-of-achievement/)
+    * [Learner support](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/)
+        * [Centre closures – next steps for learners](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/centre-closures-next-steps-for-learners/)
     
     [Frequently asked questions](https://www.ncfe.org.uk/qualifications/faqs/)
     --------------------------------------------------------------------------
@@ -229,7 +229,7 @@
     * [Preparing for work](https://www.ncfe.org.uk/learning-for-work/preparing-for-work/)
     * [Traineeships](https://www.ncfe.org.uk/learning-for-work/traineeships/)
     * [Post-16 reforms](https://www.ncfe.org.uk/post-16-reform/)
-    * [Adult Education Budget](https://www.ncfe.org.uk/aeb/)
+    * [Adult Skills Fund](https://www.ncfe.org.uk/asf/)
     
 * [Technical Education](https://www.ncfe.org.uk/technical-education/)
     
@@ -237,7 +237,7 @@
     -------------------------------------------------------------------
     
     * [Schools (14-16)](https://www.ncfe.org.uk/technical-education/schools-14-16/)
-    * [16-19](https://www.ncfe.org.uk/technical-education/technical-education-16-19/)
+    * [16-19](https://www.ncfe.org.uk/technical-education/technical-education-16-19/study-programmes/)
     * [T Levels](https://www.ncfe.org.uk/technical-education/t-levels/)
     * [Higher Technical Qualifications](https://www.ncfe.org.uk/technical-education/progression-to-higher-education/)
     * [Post-16 reforms](https://www.ncfe.org.uk/post-16-reform/)
