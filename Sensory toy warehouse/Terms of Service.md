@@ -1,20 +1,29 @@
 [Skip to content](#main)
 
 * **Over 2000 sensory toys in stock - the special needs toys experts**
+    ====================================================================
+    
 
 * [trade account](https://www.sensorytoywarehouse.com/institution-account-registration/)
     
-* * [0161 524 1111](tel:0161 524 1111 "0161 524 1111")
+* * [0161 524 2000](tel:0161 524 2000 "0161 524 2000")
 
 * **Over 2000 sensory toys in stock - the special needs toys experts**
+    ====================================================================
+    
 
-[![Sensory Toy Warehouse – Special Needs Developmental Toys](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)![Sensory Toy Warehouse – Special Needs Developmental Toys](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)](https://www.sensorytoywarehouse.com/ "Sensory Toy Warehouse – Special Needs Developmental Toys - Sensory Education & Special Needs Toys, Autism Toys & Fibre Optic Lights & Cheap Disability Aids | Sensory Toy Warehouse")
+[![Sensory Toy Warehouse](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)![Sensory Toy Warehouse](https://www.sensorytoywarehouse.com/wp-content/uploads/2019/12/stw-logo.png)](https://www.sensorytoywarehouse.com/ "Sensory Toy Warehouse - Sensory Education & Special Needs Toys, Autism Toys & Fibre Optic Lights & Cheap Disability Aids | Sensory Toy Warehouse")
 
 * [](#)
 
 * Search a product
     
     ×
+    
+
+* [](https://www.sensorytoywarehouse.com/payment-security/)
+    
+    ### [Shop now, pay later with  ![Klarna](https://www.sensorytoywarehouse.com/wp-content/uploads/2024/09/klarna-logo-small.png "Klarna")](https://www.sensorytoywarehouse.com/payment-security/)  
     
 
 * [Login](https://www.sensorytoywarehouse.com/my-account/)
@@ -59,7 +68,7 @@
     * [Natural Materials](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/natural-materials/)
     * [Messy Play](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/messy-play-sensory/)
     * [Music and Sound](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/music-and-sound/)
-* [Outdoor Sensory](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/)
+* [Outdoor Sensory Equipment](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/)
     * [Big Wooden Kits](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/big-kits/)
     * [Climbing Crest](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/climbing-crest/)
     * [Natural Wicker & Bamboo](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/natural-wicker-bamboo-outdoor-sensory-toys-equipment/)
@@ -89,34 +98,33 @@
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
-* [English](https://www.sensorytoywarehouse.com/terms-and-conditions/ "English")
 
-July Sale - 20% applied to all products
+Back to School 20% Discount applied to all products
 
-![delivery icon](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.png)
+[![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
-### Free Delivery
+Free Delivery  
+Enjoy free shipping on all orders over £60
+----------------------------------------------------------](https://www.sensorytoywarehouse.com/delivery-info/)
 
-Enjoy free shipping on all orders over £50 (ex. VAT)
+![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/open-to-all.gif)
 
-![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/Trade.png)
-
-### Open to All!
-
+Open to All!  
 No Registration Required!  
-Trade/NHS/School Customer?[**Apply Now**](https://www.sensorytoywarehouse.com/trade-registration-form/)
+Trade/NHS/School? [**Apply Now**](https://www.sensorytoywarehouse.com/trade-registration-form/)
+------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/return.png)
+[![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/return.gif)
 
-### Fuss Free Returns
-
+Fuss Free Returns  
 It is crucial to us that you are satisfied with everything you buy
+--------------------------------------------------------------------------------------](https://www.sensorytoywarehouse.com/arrange-a-return/)
 
-![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/support.png)
+[![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/PO.gif)
 
-### UK Customer Service
-
-Facebook Messenger, Email and Phone
+Purchase Orders Accepted  
+From Trade, Schools & NHS
+----------------------------------------------------](https://www.sensorytoywarehouse.com/institution-account-registration/)
 
 Terms & Conditions
 ==================
@@ -254,7 +262,7 @@ Useful Links
 * [Contact Us](https://www.sensorytoywarehouse.com/contact-us/)
 * [VAT Relief](https://www.sensorytoywarehouse.com/vat-relief/)
 * [Arrange a Return](https://www.sensorytoywarehouse.com/arrange-a-return/)
-* [Delivery Information](https://www.sensorytoywarehouse.com/delivery-information/)
+* [Delivery Information](https://www.sensorytoywarehouse.com/delivery-info/)
 * [Trade Account](https://www.sensorytoywarehouse.com/institution-account-registration/)
 * [Payment & Security](https://www.sensorytoywarehouse.com/payment-security/)
 * [Terms and Conditions](https://www.sensorytoywarehouse.com/terms-and-conditions/)
@@ -292,7 +300,7 @@ Copyright 2024 © **Sensory Toy Warehouse**
     * [Natural Materials](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/natural-materials/)
     * [Messy Play](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/messy-play-sensory/)
     * [Music and Sound](https://www.sensorytoywarehouse.com/product-category/educational-resources-tools/music-and-sound/)
-* [Outdoor Sensory](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/)
+* [Outdoor Sensory Equipment](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/)
     * [Big Wooden Kits](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/big-kits/)
     * [Climbing Crest](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/climbing-crest/)
     * [Natural Wicker & Bamboo](https://www.sensorytoywarehouse.com/product-category/outdoor-sensory-toys-equipment/natural-wicker-bamboo-outdoor-sensory-toys-equipment/)
@@ -322,10 +330,13 @@ Copyright 2024 © **Sensory Toy Warehouse**
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
-* [English](https://www.sensorytoywarehouse.com/terms-and-conditions/ "English")
 * [Login](https://www.sensorytoywarehouse.com/my-account/)
 * [Newsletter](#header-newsletter-signup "Sign up for Newsletter")
 * [](http://url/ "Follow on Facebook")[](http://url/ "Follow on Instagram")[](http://url/ "Follow on Twitter")[](mailto:your@email "Send us an email")
+    
+* [](https://www.sensorytoywarehouse.com/payment-security/)
+    
+    ### [Shop now, pay later with  ![Klarna](https://www.sensorytoywarehouse.com/wp-content/uploads/2024/09/klarna-logo-small.png "Klarna")](https://www.sensorytoywarehouse.com/payment-security/)  
     
 
 Join Waitlist We will inform you when the product arrives in stock. Please leave your valid email address below.
@@ -343,5 +354,3 @@ Password \*
  Remember me  Log in
 
 [Lost your password?](https://www.sensorytoywarehouse.com/my-account/lost-password/)
-
-* [![](https://www.sensorytoywarehouse.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://www.sensorytoywarehouse.com/terms-and-conditions/)
