@@ -12,19 +12,16 @@ This Application uses Trackers managed directly by the Owner (so-called “first
 The validity and expiration periods of Cookies and other similar Trackers may vary depending on the lifetime set by the Owner or the relevant provider. Some of them expire upon termination of the User’s browsing session.  
 In addition to what’s specified in the descriptions within each of the categories below, Users may find more precise and updated information regarding lifetime specification as well as any other relevant information — such as the presence of other Trackers — in the linked privacy policies of the respective third-party providers or by contacting the Owner.
 
-### Activities strictly necessary for the operation of this Application and delivery of the Service
+How this Application uses Trackers
+----------------------------------
+
+### Necessary
 
 This Application uses so-called “technical” Cookies and other similar Trackers to carry out activities that are strictly necessary for the operation or delivery of the Service.
 
-#### Third-party Trackers
+#### Trackers managed by third parties
 
-* ### Traffic optimization and distribution
-    
-    This type of service allows this Application to distribute their content using servers located across different countries and to optimize their performance.  
-    Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Application and the User's browser.  
-    Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
-    
-    #### Cloudflare (Cloudflare)
+* ### Cloudflare (Cloudflare)
     
     Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.  
     The way Cloudflare is integrated means that it filters all the traffic through this Application, i.e., communication between this Application and the User's browser, while also allowing analytical data from this Application to be collected.
@@ -34,20 +31,13 @@ This Application uses so-called “technical” Cookies and other similar Tracke
     Place of processing: US – [Privacy Policy](https://www.cloudflare.com/security-policy/).
     
 
-### Other activities involving the use of Trackers
+### Marketing
 
-#### Marketing
+This Application uses Trackers to deliver personalized ads or marketing content, and to measure their performance.
 
-This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
+#### Trackers managed by third parties
 
-* ### Advertising
-    
-    This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
-    This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
-    Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.  
-    Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
-    
-    #### Google Ad Manager (Google Ireland Limited)
+* ### Google Ad Manager (Google Ireland Limited)
     
     Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with.  
     In order to understand Google's use of Data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites).  
@@ -71,11 +61,15 @@ This Application uses Trackers to deliver personalised marketing content based o
     * FPGCLAW: 3 months
     * FPGCLDC: 3 months
     * FPGCLGB: 3 months
+    * GCL\_AW\_P: 3 months
+    * GED\_PLAYLIST\_ACTIVITY: duration of the session
     * IDE: 2 years
     * NID: 6 months
     * RUL: 1 year
     * TAID: 14 days
     * \_\_gads: 2 years
+    * \_\_gpi: 2 years
+    * \_\_gpi\_optout: 2 years
     * \_\_gsas: 2 years
     * \_gac\_: 3 months
     * \_gac\_gb\_: 3 months
@@ -88,6 +82,7 @@ This Application uses Trackers to deliver personalised marketing content based o
     * \_gcl\_gs: 3 months
     * \_gcl\_ha: 3 months
     * id: 2 years
+    * receive-cookie-deprecation: 6 months
     * test\_cookie: 15 minutes
     
 
@@ -95,7 +90,7 @@ This Application uses Trackers to deliver personalised marketing content based o
 
 Users can set or update their preferences via the relevant privacy choices panel available on this Application.
 
-With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
+With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
 #### How to control or delete Cookies and similar technologies via your device settings
 
