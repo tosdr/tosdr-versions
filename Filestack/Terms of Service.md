@@ -1,45 +1,45 @@
-[![Filestack Logo](/img/fs-logo.svg)](https://www.filestack.com/)
+[WHY FILESTACK?](https://www.filestack.com/file-uploader-diy/) [BLOG](https://blog.filestack.com/) [SUPPORT](mailto:support@filestack.com)
 
-* [Products](https://www.filestack.com/products/file-upload/)
+[![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
+
+* [PRODUCTS](https://www.filestack.com/products/file-upload/)
     * [Uploads](https://www.filestack.com/products/file-upload/)
     * [Transformations](https://www.filestack.com/products/transformations/)
     * [Delivery](https://www.filestack.com/products/deliver-overview/)
-    * [Intelligence](https://www.filestack.com/products/intelligence/)
+    * [AI](https://www.filestack.com/products/artificial-intelligence/)
     * [Workflows](https://www.filestack.com/products/workflows/)
-* [Features](https://www.filestack.com/features/)
-* [Case Studies](https://www.filestack.com/customers/)
-* [Pricing](https://www.filestack.com/pricing/)
-* [Documentation](https://www.filestack.com/docs/)
-* [SDKs](https://www.filestack.com/sdks/)
-    * [Javascript](https://www.filestack.com/sdks/javascript/)
+* [FEATURES](https://www.filestack.com/features/)
+* [CASE STUDIES](https://www.filestack.com/customers/)
+* [PRICING](https://www.filestack.com/pricing/)
+* [DOCUMENTATION](https://www.filestack.com/docs/)
+* [SDKS](https://www.filestack.com/sdks/)
+    * [JavaScript](https://www.filestack.com/sdks/javascript/)
     * [React](https://www.filestack.com/sdks/react/)
     * [Angular](https://www.filestack.com/sdks/angular/)
     * [Python](https://www.filestack.com/sdks/python/)
     * [Java](https://www.filestack.com/sdks/java/)
     * [PHP](https://www.filestack.com/sdks/php/)
 
-[Sign Up Free](https://contact.filestack.com/signup/) [Log In](https://dev.filestack.com/login/)
+[](#)
 
-Toggle menu
+[Sign Up Free](https://www.filestack.com/signup/)
 
-* [Why Filestack?](https://www.filestack.com/file-uploader-diy/)
-* [Blog](https://blog.filestack.com/)
-* [Support](mailto:support@filestack.com)
+[Log In](https://dev.filestack.com/login/)
 
 Filestack Service Terms
 =======================
 
 These Filestack Service Terms (these “**Service Terms**“) are between Filestack, Inc., (“**Filestack**“) and the person who submits an Order for Filestack’s services on the Filestack Site or who signs an Order that incorporates these terms by reference to the URL where they are posted (“**you**“).
 
-Capitalized words in these Service Terms have special meanings as stated in the section where they are first used, or as defined in [Section 9](#section9) (_Definitions_).
+Capitalized words in these Service Terms have special meanings as stated in the section where they are first used, or as defined in [Section 9](https://www.filestack.com/terms/#section9) (Definitions).
 
-Filestack may modify these Services Terms at any time, but modifications are not effective for Orders that are in place prior to the modification until the Order renews or you add new services to your account. See the [Section 8.22](#section8-22) (_Changes to Online Service Terms_).
+Filestack may modify these Services Terms at any time, but modifications are not effective for Orders that are in place prior to the modification until the Order renews or you add new services to your account. See the [Section 8.22](https://www.filestack.com/terms/#section8-22) (Changes to Online Service Terms).
 
 If you have any questions about these Services Terms, please contact us:
 
-[Contact Sales](https://contact.filestack.com/)
+[Contact Sales](https://www.filestack.com/)
 
-1\. Subscription Services
+1\. SUBSCRIPTION SERVICES
 -------------------------
 
 **1.1 Services**. Filestack agrees to provide the Services for the Term on the terms and conditions, and subject to restrictions, stated in the Order and these Service Terms. Filestack makes the following commitments:
@@ -64,11 +64,11 @@ If you have any questions about these Services Terms, please contact us:
 
 **1.5.4 No Resale of Services**. You may use the Filestack Technology as part of a revenue-generating application service that includes your own application, but you may not resell the Filestack Technology on a stand-alone basis. You may not permit anyone other than your personnel to have access to your Services account or the administrative features of your Services.
 
-**1.5.5 End User Terms**. If you authorize the use of the Filestack Technology by persons other than your own personnel, you must require those users to agree to legally binding terms that meet the requirements of [Section 7](#section7) (_End User Terms_) below.
+**1.5.5 End User Terms**. If you authorize the use of the Filestack Technology by persons other than your own personnel, you must require those users to agree to legally binding terms that meet the requirements of Section 7 (End User Terms) below.
 
 **1.5.6 Medical Devices/High Risk Use**. You may not use the Filestack Technology, or permit any other person to use the Filestack Technology in any situation where failure or fault of the Filestack Technology could lead to death or serious bodily injury of any person, or to physical or environmental damage. For example, you may not use the Filestack Technology as a component of or to operate any medical device or in connection with any aircraft or other mode of human transportation, or nuclear or chemical facilities.
 
-**1.5.7 Modifications**. You may not modify or create derivative works of the Service except as expressly permitted by [Section 8.1](#section8-1) (_Look and Feel_).
+**1.5.7 Modifications**. You may not modify or create derivative works of the Service except as expressly permitted by [Section 8.1](https://www.filestack.com/terms/#section8-1) (Look and Feel).
 
 **1.5.8 Competing Services**. You may not access the Filestack Technology for the purpose of creating a competing service.
 
@@ -82,12 +82,12 @@ If you have any questions about these Services Terms, please contact us:
 
 **1.10 Integration Features**. Filestack may provide integration features that enable you to interact with your third party service providers such as Dropbox, Google, Facebook, and Instagram. Filestack does not endorse or redomend any service for which it offers an integration feature. You acknowledge that Filestack’s integration features may be unavailable or may not work properly if the service provider’s API is unavailable or if the service provider modifies its API or services in a way that impacts the Filestack integration feature. Filestack will use commercially reasonable efforts to modify its integration features to maintain compatibility with service provider’s APIs and services, but may discontinue an integration feature without liability to you if there is a change in the service that creates an unreasonable cost or operational burden to Filestack. Your obligations under the Agreement, for fees and otherwise, are not conditioned on the continued availability of any integration features. Your use of the third party service is subject to the legal agreement between you and the third party. You should review the third party’s legal terms and privacy policies before using their services.
 
-2\. Your Content
+2\. YOUR CONTENT
 ----------------
 
 The content that you or your users transmit, modify, or store using the Services is “Your Content.” As between you and Filestack, you own and retain ownership and all rights in Your Content and Filestack may use Your Content only for the purpose of providing the Services and exercising its legal rights and remedies in connection with the Agreement. For clarity, “Your Content” does not include: (i) system generated data about your use of the Services (“**System Data**“) provided that the System Data is not identifiable to you or any user, or (ii) any numerical or financial data about your users that is collected and maintained in aggregate anonymous form (“**Anonymous Statistical Data**“). You acknowledge that Filestack owns and retains ownership rights in the System Data and Anonymous Statistical Data and may use, transfer, and commercially exploit the System Data and Anonymous Statistical Data for any purpose whatsoever.
 
-3\. Fees And Payments
+3\. FEES AND PAYMENTS
 ---------------------
 
 **3.1 Payment Account**. Unless you have made other arrangements with Filestack, you must authorize and maintain a current valid means for Filestack to collect its fees for the Services via payment card, PayPal, or ACH at all times during the Term.
@@ -106,12 +106,12 @@ The content that you or your users transmit, modify, or store using the Services
 
 **3.8 General**. Fees are non-refundable, even if you do not use the Services. If your Order is for an initial term of longer than one month, and the Order is terminated prior to the end of the initial term then, unless the termination was by Filestack for convenience, or by you for Filestack’s breach, you must pay an early termination fee equal to the fees for the remaining part of the initial term.
 
-4\. Your Obligations
+4\. YOUR OBLIGATIONS
 --------------------
 
 **4.1 Fees**. You must pay your fees when due as described above. You must not use or attempt to use the Services in a way that undermines Filestack’s ability to correctly calculate its fees.
 
-**4.2 Your Security Obligations**. You must use reasonable security precautions in connection with your use of the Services, such as requiring your personnel and users to establish reasonably secure passwords and using commercially reasonable efforts to protect your systems and data from malware. You may not interfere, or attempt to interfere, with any encryption features of the Services. You must use signatures and policies to prevent unauthorized access and use of Services as described in [https://www.filestack.com/docs/security/policies](https://www.filestack.com/docs/security/policies/). You agree that you are responsible under the Agreement for any action taken using your account credentials, even if the action was not authorized by you.
+**4.2 Your Security Obligations**. You must use reasonable security precautions in connection with your use of the Services, such as requiring your personnel and users to establish reasonably secure passwords and using commercially reasonable efforts to protect your systems and data from malware. You may not interfere, or attempt to interfere, with any encryption features of the Services. You must use signatures and policies to prevent unauthorized access and use of Services as described in [https://www.filestack.com/docs/security/policies](https://www.filestack.com/docs/security/policies). You agree that you are responsible under the Agreement for any action taken using your account credentials, even if the action was not authorized by you.
 
 **4.3 Authorized Users**. You authorize Filestack to act on the instructions of a user who authenticates using the account credentials you have established. You are solely responsible for maintaining the user permissions and authentication credentials for your account. You may not authorize anyone to use the administrative features of your Services account other than your employees and individual contractors under your direct supervision.
 
@@ -119,16 +119,16 @@ The content that you or your users transmit, modify, or store using the Services
 
 **4.5 Backups**. You must create a backup of Your Content at reasonable intervals and retain that backup in a secure location.
 
-**4.6 Compliance with Law**. You must use the Services in compliance with applicable law, including export laws as further detailed in [Section 7.9](#section7-9) (_Export Compliance_).
+**4.6 Compliance with Law**. You must use the Services in compliance with applicable law, including export laws as further detailed in [Section 7.9](https://www.filestack.com/terms/#section7-9) (Export Compliance).
 
 **4.7 Representations and Warranties**. You represent and warrant to Filestack as of the effective date of each Order and on an ongoing basis that: (i) the information you submit about yourself and your activities to establish a Services account with Filestack and place an Order is true, correct, and complete, (ii) you have not been the target of any legal or regulatory investigations or proceedings in connection with your business activities, (iii) Your Content was collected in accordance with applicable law, and that you have all necessary rights and authority to use and process Your Content as contemplated by the Agreement, including any required consents from individuals under applicable privacy laws, and (iv) each third party service provider with whom you interface using the Filestack API has given you any permissions or licenses that may be required for the interface.
 
-5\. Term, Termination, Suspension
+5\. TERM, TERMINATION, SUSPENSION
 ---------------------------------
 
 **5.1 Term**. Unless otherwise stated in your Order, the initial term of each Order begins on Order submission and continues until the end of your first billing cycle (one month from your Services activation date). On expiration of the initial term, the Order renews for consecutive renewal terms of one month each (or any longer period described in the Order), unless either you or Filestack gives a notice of non-renewal on or before the last day of the initial term or then current renewal term, as applicable.
 
-**5.2 Termination**. Either party may terminate an Order, or the Agreement, on written notice if the other party is in material violation of any term of an Order or these Service Terms, provided that if the violation is curable the terminating party must first give the other party a written notice describing the violation in reasonable detail and at least ten (10) days to cure the violation. You may terminate an Order at any time for convenience effective as of the last day of your billing cycle by giving notice on or before the last day of the billing cycle, subject to your obligation to pay any applicable early termination fee as described above in _Fees_ and _Payments/General_. Filestack may terminate an Order at any time for convenience on thirty (30) days advance written notice. Filestack may terminate an Order and the Agreement at any time on summary written notice if you or your personnel are abusive to Filestack personnel.
+**5.2 Termination**. Either party may terminate an Order, or the Agreement, on written notice if the other party is in material violation of any term of an Order or these Service Terms, provided that if the violation is curable the terminating party must first give the other party a written notice describing the violation in reasonable detail and at least ten (10) days to cure the violation. You may terminate an Order at any time for convenience effective as of the last day of your billing cycle by giving notice on or before the last day of the billing cycle, subject to your obligation to pay any applicable early termination fee as described above in Fees and Payments/General. Filestack may terminate an Order at any time for convenience on thirty (30) days advance written notice. Filestack may terminate an Order and the Agreement at any time on summary written notice if you or your personnel are abusive to Filestack personnel.
 
 **5.3 Suspension**. Filestack may suspend your access to the Services and Your Content during any period that you are in material breach of the Agreement or your access to the Services or Your Content creates a material security vulnerability. Filestack will give you at least two (2) business days’ advance notice of the suspension, unless the suspension is made under emergency circumstances. Filestack will reinstate your access to the Services when the grounds for suspension are cured unless Filestack has already terminated the Agreement as described in this Section.
 
@@ -136,10 +136,10 @@ The content that you or your users transmit, modify, or store using the Services
 
 **5.5 Return of Your Content**. You are responsible for exporting Your Content from the Services prior to expiration of the Agreement. If Filestack terminates your Services for breach, Filestack will retain Your Content for at least 15 days from the effective date of termination. If you wish to export Your Content following a termination for breach, Filestack will either, at its option, enable short term access to the Services at a scheduled time so that you may export Your Content, or export Your Content using its standard export tools. Filestack has no obligation to retain Your Content after the 15-day period and may destroy Your Content.
 
-6\. Remedies, Disclaimers, Indemnification, Limitations
+6\. REMEDIES, DISCLAIMERS, INDEMNIFICATION, LIMITATIONS
 -------------------------------------------------------
 
-**6.1 Warranty/SLA**. Filestack’s Services warranties are stated in [Section 1](#section1). If you purchase an enterprise plan, the Order may include additional warranties or a Service Level Agreement (“**SLA**“).
+**6.1 Warranty/SLA**. Filestack’s Services warranties are stated in [Section 1](https://www.filestack.com/terms/#section1). If you purchase an enterprise plan, the Order may include additional warranties or a Service Level Agreement (“**SLA**“).
 
 **6.2 SLA/Warranty Remedies**.
 
@@ -147,20 +147,20 @@ The content that you or your users transmit, modify, or store using the Services
 
 **6.2.2 Warranty**. If the Services fail to meet a warranty stated in the Agreement other than an SLA, Filestack will attempt to cure the failure or if it is unable to cure the failure through commercially reasonable efforts it will refund the fees paid for the billing cycle during which the failure occurred. However, to be eligible for a warranty remedy under this section, you must give a written notice describing the failure no later than ten (10) days following the end of the billing cycle and cooperate with Filestack’s reasonable efforts to cure the failure. The remedies stated in this Section are your **sole and exclusive** remedy for Filestack’s warranty breach.
 
-**6.3 No Other Warranty**. Except as expressly stated in the Agreement, the Services are provided **AS IS**. **Filestack disclaims any implied warranties, such as a warranty of merchantability, fitness for a particular purpose, and non-infringement, and any representation or warranty that may arise through a course of dealing. You acknowledge that the use of the Service may not be uninterrupted, error free, or completely secures**. If applicable law requires Filestack to make a warranty notwithstanding this disclaimer, then the warranty is made for a period of thirty (30) days from the date that it is deemed to have been made, and your sole and exclusive remedy for a breach of the warranty is a refund of fees paid for the Services covered by the warranty. You represent that you have not relied on any representation or warranty other than those stated in the Agreement.
+**6.3 No Other Warranty**. Except as expressly stated in the Agreement, the Services are provided **AS IS. Filestack disclaims any implied warranties, such as a warranty of merchantability, fitness for a particular purpose, and non-infringement, and any representation or warranty that may arise through a course of dealing. You acknowledge that the use of the Service may not be uninterrupted, error free, or completely secures.** If applicable law requires Filestack to make a warranty notwithstanding this disclaimer, then the warranty is made for a period of thirty (30) days from the date that it is deemed to have been made, and your sole and exclusive remedy for a breach of the warranty is a refund of fees paid for the Services covered by the warranty. You represent that you have not relied on any representation or warranty other than those stated in the Agreement.
 
 **6.4 Indemnification**. You agree that if a third party asserts a legal claim against Filestack or any of its officers, members, managers, employees, staff, personnel, agents, licensors or suppliers (the “**Filestack Persons**“) arising from your violation of these Services Terms or any Order, including your breach of a representation or warranty, or if your customer or end user asserts a legal claim against any of the Filestack Persons on any basis other than the gross negligence or misconduct of a Filestack person, you will pay all reasonable costs of defending the claim, including reasonable attorney fees, and any damages awarded to the third party or paid to the third party by Filestack as a reasonable settlement. You agree that Filestack may control the defense of the claim at its option, or may require you to defend the claim directly. If Filestack elects to control the defense of the claim, you will reimburse Filestack for its reasonable defense costs and expenses as incurred.
 
-**6.5 Limitation of Liability**. **In the event you have a legal claim against any of the Filestack Persons, you agree that the maximum total amount of money you can recover from any or all of them cannot exceed the amount of fees you have paid or that are payable for Service for the six (6) months prior to the date the claim arose, unless the legal claim is based on a Filestack Person’s intentional misconduct or is for personal injury or death resulting from the negligence, recklessness or intentional misconduct of a Filestack Person. In addition, you agree that in no event are you entitled to recover any lost revenue, lost profits, damages for lost data, or any indirect or consequential loss or damages or any kind**.
+**6.5 Limitation of Liability. In the event you have a legal claim against any of the Filestack Persons, you agree that the maximum total amount of money you can recover from any or all of them cannot exceed the amount of fees you have paid or that are payable for Service for the six (6) months prior to the date the claim arose, unless the legal claim is based on a Filestack Person’s intentional misconduct or is for personal injury or death resulting from the negligence, recklessness or intentional misconduct of a Filestack Person. In addition, you agree that in no event are you entitled to recover any lost revenue, lost profits, damages for lost data, or any indirect or consequential loss or damages or any kind.**
 
 **6.6 General**. You acknowledge that Filestack has set its fees and entered into the Order in reliance on the limitations of remedies and liability stated in these Terms, and that these limitations reflect an agreed allocation of risk between you and Filestack. The limitations stated in this Section shall apply to any liability arising from any cause of action whatsoever, whether in contract, tort, commercial code, strict liability or otherwise, **even if a limited remedy fails of its essential purpose**. If these limitations as written are not permitted by applicable law, they shall apply to the extent permitted by applicable law.
 
-7\. End User Terms
+7\. END USER TERMS
 ------------------
 
-If you use the Services as part of an application service that you provide to persons other than your own personnel, then you must have a written agreement in place with those customers/users that includes terms at least as protective of Filestack as those stated in [Section 1.4](#section1-4) (_Conditions, Restrictions_); [1.7](#section1-7) (_Third Party Services_); [4.2](#section4-2) (_Your Security Obligations_); [4.4](#section4-4) (_Acceptable Use_); [4.5](#section4-5) (_Backups_); [4.6](#section4-6) (_Compliance with Law_); [4.7](#section4-7) (iii) (_Representations and Warranties, as to Content_); [8.2](#section8-2) (_Rights in Technology/Intellectual Property_) and [8.10](#section8-10) (_Export Compliance_).
+If you use the Services as part of an application service that you provide to persons other than your own personnel, then you must have a written agreement in place with those customers/users that includes terms at least as protective of Filestack as those stated in [Section 1.4](https://www.filestack.com/terms/#section1-4) (Conditions, Restrictions); [1.7](https://www.filestack.com/terms/#section1-7) (Third Party Services); [4.2](https://www.filestack.com/terms/#section4-2) (Your Security Obligations); [4.4](https://www.filestack.com/terms/#section4-4) (Acceptable Use); [4.5](https://www.filestack.com/terms/#section4-5) (Backups); [4.6](https://www.filestack.com/terms/#section4-6) (Compliance with Law); [4.7](https://www.filestack.com/terms/#section4-7) (iii) (Representations and Warranties, as to Content); [8.2](https://www.filestack.com/terms/#section8-2) (Rights in Technology/Intellectual Property) and [8.10](https://www.filestack.com/terms/#section8-10) (Export Compliance).
 
-8\. General Terms
+8\. GENERAL TERMS
 -----------------
 
 **8.1 Look and Feel**. If your plan or your Order permit modifications to the File Uploader, you may modify the color, and the look and feel of the File Uploader to conform to your application interface, provided that you do one of the following: (i) include the text “Uses Filestack” with a link back to [https://www.filestack.com/](https://www.filestack.com/); (ii) include the Filestack badge at [https://www.filestack.com/partner/](https://www.filestack.com/partner/) with a link back to [https://www.filestack.com](https://www.filestack.com/), or (iii) place the Filestack logo anywhere within the File Uploader where it is visible to the user above the fold.
@@ -175,7 +175,7 @@ If you use the Services as part of an application service that you provide to pe
 
 **8.6 Notices**. Your notices must be submitted via ticket on the customer portal, and copied by electronic mail to [support@Filestack.com](mailto:support@Filestack.com). Filestack’s notices to you must be given to your primary account contact at the email address in the Filestack portal. If you send a notice of breach of the Agreement, a legal dispute, a legal claim, or other legal matter, you must copy your notice to [legalnotice@filestack.com](mailto:legalnotice@filestack.com), and must also send your notice via first class United States mail to Filestack’s physical address appearing on its Site on the day the notice is transmitted electronically. Filestack’s legal notices to you must be copied via first class United States mail to your physical notice address, or if your physical address is outside of the United States, via a reputable and established international priority mail service on the date the notice is transmitted electronically. Notices are deemed given, received and effective as of the time transmitted by electronic mail, or if that time does not fall on a business day, as of the beginning of the first business day following the time transmitted. Notices must be given in the English language. A party may change its address for notice by giving notice in the manner stated in this Section.
 
-**8.7 Arbitration**. Except for certain requests for injunctive relief as described below, each of you and Filestack agree that any dispute related to the Services, an Order or these Services Terms shall be submitted to binding arbitration in San Antonio, Texas. The arbitration shall be conducted by one arbitrator in accordance with the commercial arbitration rules of the American Arbitration Association (“AAA”). The arbitration will be conducted in person unless each of party agrees to a telephonic or written submissions procedure. The arbitrator shall issue a reasoned award with findings of fact and conclusions of law. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction. Either party may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement, or to enforce or vacate an arbitration award. **Each party waives any right to a trial by jury, and agrees that disputes will be resolved through arbitration. No claim subject to this provision may be brought as a class or collective action, nor may you assert such a claim as a member of a class or collective action that is brought by another claimant**. Each party agrees not bring a claim related to the Services or the subject matter of an Order or these Services Terms more than two years after the time that the claim accrued. Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.
+**8.7 Arbitration**. Except for certain requests for injunctive relief as described below, each of you and Filestack agree that any dispute related to the Services, an Order or these Services Terms shall be submitted to binding arbitration in San Antonio, Texas. The arbitration shall be conducted by one arbitrator in accordance with the commercial arbitration rules of the American Arbitration Association (“AAA”). The arbitration will be conducted in person unless each of party agrees to a telephonic or written submissions procedure. The arbitrator shall issue a reasoned award with findings of fact and conclusions of law. Judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction. Either party may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement, or to enforce or vacate an arbitration award. **Each party waives any right to a trial by jury, and agrees that disputes will be resolved through arbitration. No claim subject to this provision may be brought as a class or collective action, nor may you assert such a claim as a member of a class or collective action that is brought by another claimant.** Each party agrees not bring a claim related to the Services or the subject matter of an Order or these Services Terms more than two years after the time that the claim accrued. Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.
 
 **8.8 Informal Dispute Resolution**. Each party agrees that it will not file a lawsuit or other legal action in connection with the Services, any Order, or these Services Terms, unless it has first given the other party written notice of the dispute, and attempted to resolve the dispute through good faith negotiation.
 
@@ -209,7 +209,7 @@ If you use the Services as part of an application service that you provide to pe
 
 **8.23 Entire Agreement and Order of Precedence**. This Agreement is the entire agreement between you and Filestack regarding your use of Services and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No modification, amendment, or waiver of any provision of these Service Terms or an Order will be effective unless in writing and signed by the party against whom the modification, amendment or waiver is to be asserted. The parties agree that any preprinted term or condition stated in any business form is void. In the event of any conflict or inconsistency among the following documents, the order of precedence shall be: (1) the applicable Order, (2) these Services Terms, and (3) the Documentation. Your use of the Services, both during any free use period and your Subscription Term, is subject to all of the terms, conditions, and restrictions stated in your Order and these Service Terms, and any restrictions stated on a page on the Site that is part of your Order.
 
-9\. Definitions
+9\. DEFINITIONS
 ---------------
 
 Capitalized terms have the meaning stated below or in the section where they are first used.
@@ -221,65 +221,88 @@ Capitalized terms have the meaning stated below or in the section where they are
 * **Services** means Filestack’s file uploading, editing, distribution, and other file management services identified on an Order.
 * **Site** means www.filestack.com, or any other website operated by Filestack for the purpose of offering or providing Services, including any subdomains.
 * **Term** means the initial term and any renewal terms, collectively.
-* **System Data** has the meaning given in the Section captioned _Your Content_.
-* **Your Content** has the meaning given in Section captioned _Your Content_.
+* **System Data** has the meaning given in the Section captioned Your Content.
+* **Your Content** has the meaning given in Section captioned Your Content.
 
-### Join the 100,000+ Applications Using Filestack
+Join the 100,000+ Applications Using Filestack
 
-Getting started is fast, free, and easy. [Improve your file upload performance today](https://www.filestack.com/performance/). Sign up now for free or click the 'talk to us' button. We are always here to help.
+Getting started is fast, free, and easy. [Improve your file upload performance today](https://www.filestack.com/performance/). Sign up now for free or click the ‘talk to us’ button. We are always here to help.
 
-[Sign Up Free](https://contact.filestack.com/signup/) [Plans & Pricing](https://www.filestack.com/pricing/)
+[Sign Up Free](https://www.filestack.com/signup/)
 
-![SendGrid Logo](/img/logo-sendgrid.svg) ![Zenefits Logo](/img/logo-zenefits.svg) ![Teachable Logo](/img/Teachable_Wordmark.svg) ![TED Logo](/img/logo-ted.svg) ![CocaCola Logo](/img/logo-cocacola.svg) ![Monster Logo](/img/logo-monster.svg)
+[Plans & Pricing](https://www.filestack.com/pricing)
 
-#### Company
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-sendgrid")
 
-* [About](https://www.filestack.com/about/)
-* [Contact Us](https://contact.filestack.com/)
-* [Pricing](https://www.filestack.com/pricing/)
-* [Careers](https://www.filestack.com/careers/)
-* [Legal](https://www.ideracorp.com/legal/filestack#tabs-1)
-* [Privacy Policy](https://www.ideracorp.com/Legal/PrivacyShield)
-* [Press](https://www.filestack.com/press/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-sendgrid.svg "logo-sendgrid")
 
-#### Products
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-zenefits[1]")
 
-* [Uploads](https://www.filestack.com/products/file-upload/)
-* [Image Transformations](https://www.filestack.com/products/image-transformations/)
-* [File Transformations](https://www.filestack.com/products/transformations/)
-* [Audio & Video Transformations](https://www.filestack.com/products/audio-video-transformations/)
-* [Deliver](https://www.filestack.com/products/deliver-overview/)
-* [Intelligence](https://www.filestack.com/products/intelligence/)
-* [Workflows](https://www.filestack.com/products/workflows/)
-* [Low Code](https://www.filestack.com/low-code-content-api-platform/)
-* [Cloud Storage](https://www.filestack.com/features/cloud-storage/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-zenefits1.svg "logo-zenefits[1]")
 
-#### Use Cases
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Teachable_Wordmark")
 
-* [Print](https://www.filestack.com/use-cases/print/)
-* [Drone](https://www.filestack.com/use-cases/drone/)
-* [Ed-tech](https://www.filestack.com/use-cases/ed-tech/)
-* [Content Management](https://www.filestack.com/content-management/)
+![](https://www.filestack.com/wp-content/uploads/2023/09/Teachable_Wordmark.svg "Teachable_Wordmark")
 
-#### Resources
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-ted")
 
-* [Blog](https://blog.filestack.com/)
-* [Documentation](https://www.filestack.com/docs/)
-* [Tutorials](https://www.filestack.com/docs/tutorials/)
-* [Fileschool](https://www.filestack.com/fileschool/)
-* [Status Page](https://status.filestack.com/)
-* [Integration With Froala](https://www.filestack.com/integration-with-wysiwyg-editor/)
-* [FAQ](https://www.filestack.com/faq/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-ted.svg "logo-ted")
 
-#### SDK
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-cocacola")
 
-* [Javascript](https://www.filestack.com/sdks/javascript/)
-* [React](https://www.filestack.com/sdks/react/)
-* [Angular](https://www.filestack.com/sdks/angular/)
-* [Python](https://www.filestack.com/sdks/python/)
-* [Java](https://www.filestack.com/sdks/java/)
-* [PHP](https://www.filestack.com/sdks/php/)
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-cocacola.svg "logo-cocacola")
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "logo-monster")
+
+![](https://www.filestack.com/wp-content/uploads/2022/08/logo-monster.svg "logo-monster")
+
+**COMPANY**
+
+[About](https://www.filestack.com/about/)  
+[Contact Us](https://www.filestack.com/contact-us/)  
+[Pricing](https://www.filestack.com/pricing/)  
+[Careers](https://www.filestack.com/careers/)  
+[Legal](https://www.ideracorp.com/legal/filestack#tabs-1)  
+[Privacy Policy](https://www.ideracorp.com/Legal/PrivacyShield)
+
+**PRODUCTS**
+
+[Uploads](https://www.filestack.com/products/file-upload/)  
+[Image Transformations](https://www.filestack.com/products/image-transformations/)  
+[File Transformations](https://www.filestack.com/products/transformations/)  
+[Audio & Video Transformations](https://www.filestack.com/products/audio-video-transformations/)  
+[Deliver](https://www.filestack.com/products/deliver-overview/)  
+[Artificial Intelligence](https://www.filestack.com/products/artificial-intelligence/)  
+[Workflows](https://www.filestack.com/products/workflows/)  
+[Low Code](https://www.filestack.com/low-code-content-api-platform/)  
+[Cloud Storage](https://www.filestack.com/features/cloud-storage/)
+
+**USE CASES**
+
+[Print](https://www.filestack.com/use-cases/print/)  
+[Drone](https://www.filestack.com/use-cases/drone/)  
+[Ed-tech](https://www.filestack.com/use-cases/ed-tech/)
+
+**RESOURCES**
+
+[Blog](https://blog.filestack.com/)  
+[Documentation](https://www.filestack.com/docs/)  
+[Fileschool](https://www.filestack.com/fileschool/)  
+[Tutorials](https://www.filestack.com/docs/tutorials/)  
+[Status Page](https://status.filestack.com/)  
+[Whitepapers](https://www.filestack.com/whitepapers/)
+
+**SDK**
+
+[JavaScript](https://www.filestack.com/sdks/javascript/)  
+[React](https://www.filestack.com/sdks/react/)  
+[Angular](https://www.filestack.com/sdks/angular/)  
+[Python](https://www.filestack.com/sdks/python/)  
+[Java](https://www.filestack.com/sdks/java/)  
+[PHP](https://www.filestack.com/sdks/php/)
 
 © 2024 Filestack. All rights reserved.
 
-[![facebook](/img/fb.png)](https://www.facebook.com/filepickerio/) [![linkedin](/img/linkedin.png)](https://www.linkedin.com/company/filestack) [![twitter](/img/twitter.png)](https://twitter.com/filestack)
+* [Follow](# "Follow on Facebook")
+* [Follow](# "Follow on LinkedIn")
+* [Follow](# "Follow on Twitter")
